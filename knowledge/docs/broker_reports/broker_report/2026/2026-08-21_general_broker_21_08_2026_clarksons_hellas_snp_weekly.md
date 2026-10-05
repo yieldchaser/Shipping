@@ -26,7 +26,7 @@ keywords:
 - any
 - information
 market_tone: constructive
-numeric_observation_count: 25
+numeric_observation_count: 24
 numeric_observations:
 - section: CLARKSONS HELLAS - SnP WEEKLY
   section_type: null
@@ -50,7 +50,7 @@ numeric_observations:
   unit: null
   values:
   - 105.3
-  - 99600.0
+  - 99.6
 - section: Market Report Content
   section_type: null
   source_line: In the Ultramax space, the Greek-owned eco-type M/E AMARYLLIS (ABT
@@ -77,7 +77,6 @@ numeric_observations:
   - 2013.0
   - 4.0
   - 30.0
-  - 23250.0
 - section: Market Report Content
   section_type: null
   source_line: '(ABT 56K DWT, 2010, I.H.I. (YOKOHAMA), CR: 4X30T ) which achieved
@@ -100,12 +99,6 @@ numeric_observations:
   - 30.0
 - section: Market Report Content
   section_type: null
-  source_line: Lila Global at USD 12.5m.
-  unit: usd
-  values:
-  - 12500.0
-- section: Market Report Content
-  section_type: null
   source_line: AMARYLLIS 63,301 2013 SINOPACIFIC
   unit: null
   values:
@@ -118,7 +111,7 @@ numeric_observations:
   values:
   - 5.0
   - 60.0
-  - 8200.0
+  - 8.2
 - section: Market Report Content
   section_type: null
   source_line: CR:4X36T
@@ -179,7 +172,7 @@ numeric_observations:
   - 2009.0
   - 6.0
   - 50.0
-  - 7100.0
+  - 7.1
 - section: Market Report Content
   section_type: null
   source_line: SS 05/29
@@ -194,7 +187,6 @@ numeric_observations:
   values:
   - 7.0
   - 27.0
-  - 12500.0
 - section: Market Report Content
   section_type: null
   source_line: 284 Kifissias Avenue

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2015_09_18_is_the_dragon_cooling__root",
+  "doc_id": "poten_tankers_no_date_poten_2015_09_18_is_the_dragon_cooling",
+  "parent_id": null,
+  "title": "Is the Dragon Cooling",
+  "section_path": [
+    "Is the Dragon Cooling"
+  ],
+  "section_path_text": "Is the Dragon Cooling",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "What is happening with Chinese oil demand? These days, the negative news coming out on China seems to be much louder than positive news, a stark reversal from several years ago when every news item was seen as positive. It is often useful to look behind the headlines to see what is really going on.",
+  "keywords": [
+    "china",
+    "brazil",
+    "atlantic",
+    "crude_oil",
+    "products",
+    "gas",
+    "demand",
+    "oil",
+    "growth",
+    "mb/d",
+    "million",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 857,
+  "source_path": "reports/poten/2015/poten_2015-09-18_is-the-dragon-cooling.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2015_09_18_is_the_dragon_cooling__s01_what_is_happening_with_chinese_oil_demand",
+      "doc_id": "poten_tankers_no_date_poten_2015_09_18_is_the_dragon_cooling",
+      "parent_id": "poten_tankers_no_date_poten_2015_09_18_is_the_dragon_cooling__root",
+      "title": "What is happening with Chinese oil demand?",
+      "section_path": [
+        "What is happening with Chinese oil demand?"
+      ],
+      "section_path_text": "What is happening with Chinese oil demand?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "These days, the negative news coming out on China seems to be much louder than positive news, a stark reversal from several years ago when every news item was seen as positive. It is often useful to look behind the headlines to see what is really going on.",
+      "keywords": [
+        "china",
+        "brazil",
+        "atlantic",
+        "crude_oil",
+        "products",
+        "gas",
+        "demand",
+        "growth"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 849,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

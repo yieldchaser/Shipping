@@ -4,6 +4,7 @@ commodities: []
 date: '2024-06-27'
 doc_id: hellenic_demolition_2024-06-27_2024_06_27_oceanos_ntua_national_technical_university_of_athens_greece
 document_type: demolition_update
+is_error_page: false
 key_entities: []
 keywords:
 - ntua

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2016_01_15_breakup_as_backup__root",
+  "doc_id": "poten_tankers_no_date_poten_2016_01_15_breakup_as_backup",
+  "parent_id": null,
+  "title": "Breakup as Backup",
+  "section_path": [
+    "Breakup as Backup"
+  ],
+  "section_path_text": "Breakup as Backup",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "What is the scrapping potential of the crude fleet? Tanker owners are currently doing fairly well, certainly compared to their colleagues in the dry bulk market. However, history shows that such markets do not last forever and when the downturn comes, it is important that the supply side can respond quickly.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "europe",
+    "india",
+    "crude_oil",
+    "steel",
+    "vessels",
+    "tankers",
+    "years",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 904,
+  "source_path": "reports/poten/2016/poten_2016-01-15_breakup-as-backup.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_01_15_breakup_as_backup__s01_what_is_the_scrapping_potential_of_the_crude_fleet",
+      "doc_id": "poten_tankers_no_date_poten_2016_01_15_breakup_as_backup",
+      "parent_id": "poten_tankers_no_date_poten_2016_01_15_breakup_as_backup__root",
+      "title": "What is the scrapping potential of the crude fleet?",
+      "section_path": [
+        "What is the scrapping potential of the crude fleet?"
+      ],
+      "section_path_text": "What is the scrapping potential of the crude fleet?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Tanker owners are currently doing fairly well, certainly compared to their colleagues in the dry bulk market. However, history shows that such markets do not last forever and when the downturn comes, it is important that the supply side can respond quickly.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "europe",
+        "india",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 893,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

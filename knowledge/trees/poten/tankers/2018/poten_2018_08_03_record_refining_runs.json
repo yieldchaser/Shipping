@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2018_08_03_record_refining_runs__root",
+  "doc_id": "poten_tankers_no_date_poten_2018_08_03_record_refining_runs",
+  "parent_id": null,
+  "title": "Record Refining Runs",
+  "section_path": [
+    "Record Refining Runs"
+  ],
+  "section_path_text": "Record Refining Runs",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "refineries are churning out record product volumes\nIn their latest weekly petroleum report, the U.S. Energy Information Administration (EIA) noted that U.S. refineries are running at near-record levels.",
+  "keywords": [
+    "lpg",
+    "brazil",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "product",
+    "are",
+    "refinery",
+    "u.s.",
+    "b/d",
+    "capacity"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 836,
+  "source_path": "reports/poten/2018/poten_2018-08-03_record-refining-runs.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_08_03_record_refining_runs__s01_u_s_refineries_are_churning_out_record_product_volumes",
+      "doc_id": "poten_tankers_no_date_poten_2018_08_03_record_refining_runs",
+      "parent_id": "poten_tankers_no_date_poten_2018_08_03_record_refining_runs__root",
+      "title": "U.S. refineries are churning out record product volumes",
+      "section_path": [
+        "U.S. refineries are churning out record product volumes"
+      ],
+      "section_path_text": "U.S. refineries are churning out record product volumes",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In their latest weekly petroleum report, the U.S. Energy Information Administration (EIA) noted that U.S.",
+      "keywords": [
+        "lpg",
+        "brazil",
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "product",
+        "refinery"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 823,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

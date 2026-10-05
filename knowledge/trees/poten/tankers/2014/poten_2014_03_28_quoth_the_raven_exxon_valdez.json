@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2014_03_28_quoth_the_raven_exxon_valdez__root",
+  "doc_id": "poten_tankers_no_date_poten_2014_03_28_quoth_the_raven_exxon_valdez",
+  "parent_id": null,
+  "title": "Quoth the Raven: Exxon Valdez",
+  "section_path": [
+    "Quoth the Raven: Exxon Valdez"
+  ],
+  "section_path_text": "Quoth the Raven: Exxon Valdez",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Quoth the Raven: Exxon Valdez\nThis week marks the 25 th anniversary of the infamous Exxon Valdez oil spill, an accident that would forever shape the marine industry. While the oil industry at large is no stranger to public scrutiny, misinformation and/or media hype, it could be argued that the tanker industry has it particularly tough. In fact, it could be concluded after the Exxon Valdez had an impact disproportionate to the actual magnitude of the spill.",
+  "keywords": [
+    "china",
+    "crude_oil",
+    "oil",
+    "spill",
+    "exxon",
+    "valdez",
+    "not",
+    "are",
+    "can",
+    "transportation",
+    "was",
+    "after"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 741,
+  "source_path": "reports/poten/2014/poten_2014-03-28_quoth-the-raven-exxon-valdez.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_03_28_quoth_the_raven_exxon_valdez__s01_quoth_the_raven_exxon_valdez",
+      "doc_id": "poten_tankers_no_date_poten_2014_03_28_quoth_the_raven_exxon_valdez",
+      "parent_id": "poten_tankers_no_date_poten_2014_03_28_quoth_the_raven_exxon_valdez__root",
+      "title": "Quoth the Raven: Exxon Valdez",
+      "section_path": [
+        "Quoth the Raven: Exxon Valdez"
+      ],
+      "section_path_text": "Quoth the Raven: Exxon Valdez",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This week marks the 25 th anniversary of the infamous Exxon Valdez oil spill, an accident that would forever shape the marine industry. While the oil industry at large is no stranger to public scrutiny, misinformation and/or media hype, it could be argued that the tanker industry has it particularly tough.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "oil",
+        "barrels",
+        "exxon",
+        "million",
+        "valdez",
+        "all"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 236,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_03_28_quoth_the_raven_exxon_valdez__s02_oil_spills_by_incidence_volume",
+      "doc_id": "poten_tankers_no_date_poten_2014_03_28_quoth_the_raven_exxon_valdez",
+      "parent_id": "poten_tankers_no_date_poten_2014_03_28_quoth_the_raven_exxon_valdez__root",
+      "title": "Oil Spills by Incidence & Volume",
+      "section_path": [
+        "Oil Spills by Incidence & Volume"
+      ],
+      "section_path_text": "Oil Spills by Incidence & Volume",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "With that in mind, a look at oil spill statistics can be quite striking. The previous chart shows the incidence of worldwide oil spills by volume versus total worldwide consumption.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "not",
+        "spill",
+        "was",
+        "can",
+        "now",
+        "owners"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 487,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

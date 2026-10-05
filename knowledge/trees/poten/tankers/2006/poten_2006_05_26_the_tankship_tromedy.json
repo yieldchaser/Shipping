@@ -1,0 +1,167 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2006_05_26_the_tankship_tromedy__root",
+  "doc_id": "poten_tankers_no_date_poten_2006_05_26_the_tankship_tromedy",
+  "parent_id": null,
+  "title": "The Tankship Tromedy",
+  "section_path": [
+    "The Tankship Tromedy"
+  ],
+  "section_path_text": "The Tankship Tromedy",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Tankship Tromedy\nOne of the more interesting books dedicated to understanding the tanker business was recently published and is entitled, \"The Tankship Tromedy.\" The author, Mr. Jack Devanney, draws on 30 years of working experience in the tanker industry to be able to define it as a Tromedy - both a tragedy and comedy. This book provides an in depth analysis of spills that have taken place in the past and provides suggestions for prevention in the future.",
+  "keywords": [
+    "crude_oil",
+    "steel",
+    "incidents",
+    "are",
+    "devanney",
+    "mr.",
+    "not",
+    "should",
+    "tromedy",
+    "age",
+    "all",
+    "design"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 687,
+  "source_path": "reports/poten/2006/poten_2006-05-26_the-tankship-tromedy.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_05_26_the_tankship_tromedy__s01_the_tankship_tromedy",
+      "doc_id": "poten_tankers_no_date_poten_2006_05_26_the_tankship_tromedy",
+      "parent_id": "poten_tankers_no_date_poten_2006_05_26_the_tankship_tromedy__root",
+      "title": "The Tankship Tromedy",
+      "section_path": [
+        "The Tankship Tromedy"
+      ],
+      "section_path_text": "The Tankship Tromedy",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "One of the more interesting books dedicated to understanding the tanker business was recently published and is entitled, \"The Tankship Tromedy.\" The author, Mr. Jack Devanney, draws on 30 years of working experience in the tanker industry to be able to define it as a Tromedy - both a tragedy and comedy.",
+      "keywords": [
+        "provides",
+        "able",
+        "analysis",
+        "author",
+        "both",
+        "business",
+        "comedy.",
+        "dedicated"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 90,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_05_26_the_tankship_tromedy__s02_maritza",
+      "doc_id": "poten_tankers_no_date_poten_2006_05_26_the_tankship_tromedy",
+      "parent_id": "poten_tankers_no_date_poten_2006_05_26_the_tankship_tromedy__root",
+      "title": "Maritza",
+      "section_path": [
+        "Maritza"
+      ],
+      "section_path_text": "Maritza",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "sayalero"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_05_26_the_tankship_tromedy__s03_other_spills",
+      "doc_id": "poten_tankers_no_date_poten_2006_05_26_the_tankship_tromedy",
+      "parent_id": "poten_tankers_no_date_poten_2006_05_26_the_tankship_tromedy__root",
+      "title": "Other Spills",
+      "section_path": [
+        "Other Spills"
+      ],
+      "section_path_text": "Other Spills",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Largest Spill The interesting part of the preceding chart is that the bulk of the oil spilled over the past 10 years is the result of singular incidents in each year. The Tromedy, the entire system in which the ship is designed, constructed, owned and employed, shares responsibility for incidents at sea.",
+      "keywords": [
+        "crude_oil",
+        "incidents",
+        "are",
+        "human",
+        "devanney",
+        "interesting",
+        "maritime",
+        "mr."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 259,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_05_26_the_tankship_tromedy__s04_starts_with_design",
+      "doc_id": "poten_tankers_no_date_poten_2006_05_26_the_tankship_tromedy",
+      "parent_id": "poten_tankers_no_date_poten_2006_05_26_the_tankship_tromedy__root",
+      "title": "Starts with Design",
+      "section_path": [
+        "Starts with Design"
+      ],
+      "section_path_text": "Starts with Design",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Devanney explores numerous areas for change and development. Improved ship design and maintenance are the first steps toward reducing the incidence of spills.",
+      "keywords": [
+        "steel",
+        "all",
+        "areas",
+        "ballast",
+        "ships",
+        "tanks",
+        "addressed",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 96,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_05_26_the_tankship_tromedy__s05_age_doesn_t_matter",
+      "doc_id": "poten_tankers_no_date_poten_2006_05_26_the_tankship_tromedy",
+      "parent_id": "poten_tankers_no_date_poten_2006_05_26_the_tankship_tromedy__root",
+      "title": "Age Doesn't Matter",
+      "section_path": [
+        "Age Doesn't Matter"
+      ],
+      "section_path_text": "Age Doesn't Matter",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "One of the more counter intuitive conclusions is that the age of the vessels should have no bearing on whether or not it should continue to trade. Devanney's point is that a vessel, regardless of age, must be properly maintained.",
+      "keywords": [
+        "should",
+        "not",
+        "age",
+        "construction",
+        "life",
+        "maintained.",
+        "regardless",
+        "vessel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 213,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

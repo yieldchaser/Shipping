@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2020_08_28_the_barrels_from_brazil__root",
+  "doc_id": "poten_tankers_no_date_poten_2020_08_28_the_barrels_from_brazil",
+  "parent_id": null,
+  "title": "The Barrels From Brazil",
+  "section_path": [
+    "The Barrels From Brazil"
+  ],
+  "section_path_text": "The Barrels From Brazil",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "South America's largest producer boosts export trades\nAmid all the fluctuations in global crude oil trades resulting from the fallout of the Covid-19 pandemic, the changes in Brazilian exports stand out. Brazil was on a path towards higher crude oil production and exports, but progress was disrupted by the outbreak of the Corona virus, which hit Brazil hard. However, the prospects for the Brazilian oil sector remain bright and (post Covid-19) we expect to see continued growth in export volumes on both Suezmaxes and VLCCs.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "brazil",
+    "atlantic",
+    "pacific",
+    "crude_oil",
+    "production",
+    "crude",
+    "exports",
+    "first",
+    "half"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 648,
+  "source_path": "reports/poten/2020/poten_2020-08-28_the-barrels-from-brazil.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_08_28_the_barrels_from_brazil__s01_south_america_s_largest_producer_boosts_export_trades",
+      "doc_id": "poten_tankers_no_date_poten_2020_08_28_the_barrels_from_brazil",
+      "parent_id": "poten_tankers_no_date_poten_2020_08_28_the_barrels_from_brazil__root",
+      "title": "South America's largest producer boosts export trades",
+      "section_path": [
+        "South America's largest producer boosts export trades"
+      ],
+      "section_path_text": "South America's largest producer boosts export trades",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Amid all the fluctuations in global crude oil trades resulting from the fallout of the Covid-19 pandemic, the changes in Brazilian exports stand out. Brazil was on a path towards higher crude oil production and exports, but progress was disrupted by the outbreak of the Corona virus, which hit Brazil hard.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "brazil",
+        "atlantic",
+        "pacific",
+        "crude_oil",
+        "production"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 639,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

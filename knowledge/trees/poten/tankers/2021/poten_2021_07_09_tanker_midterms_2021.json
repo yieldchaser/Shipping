@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2021_07_09_tanker_midterms_2021__root",
+  "doc_id": "poten_tankers_no_date_poten_2021_07_09_tanker_midterms_2021",
+  "parent_id": null,
+  "title": "Tanker Midterms 2021",
+  "section_path": [
+    "Tanker Midterms 2021"
+  ],
+  "section_path_text": "Tanker Midterms 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Top Reported Dirty Spot Charterers for 1H 2021*\nHalfway into 2021, it is a good time to see what has happened in the crude oil tanker market to date. Overall dirty spot fixture volume is down slightly (-1%) compared to the same period of 2020, with a different impact on each segment. VLCC fixtures are down 21% (1H 2020 was very active for VLCCs) while Aframax volumes are 11% higher.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "india",
+    "crude_oil",
+    "top",
+    "charterers",
+    "total",
+    "was",
+    "fixtures",
+    "last"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1093,
+  "source_path": "reports/poten/2021/poten_2021-07-09_tanker-midterms-2021.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2021_07_09_tanker_midterms_2021__s01_top_reported_dirty_spot_charterers_for_1h_2021",
+      "doc_id": "poten_tankers_no_date_poten_2021_07_09_tanker_midterms_2021",
+      "parent_id": "poten_tankers_no_date_poten_2021_07_09_tanker_midterms_2021__root",
+      "title": "Top Reported Dirty Spot Charterers for 1H 2021*",
+      "section_path": [
+        "Top Reported Dirty Spot Charterers for 1H 2021*"
+      ],
+      "section_path_text": "Top Reported Dirty Spot Charterers for 1H 2021*",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Halfway into 2021, it is a good time to see what has happened in the crude oil tanker market to date. Overall dirty spot fixture volume is down slightly (-1%) compared to the same period of 2020, with a different impact on each segment.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "crude_oil",
+        "total",
+        "was",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 669,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2021_07_09_tanker_midterms_2021__s02_chart_top_10_vlcc_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2021_07_09_tanker_midterms_2021",
+      "parent_id": "poten_tankers_no_date_poten_2021_07_09_tanker_midterms_2021__root",
+      "title": "Chart: Top 10 VLCC Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 VLCC Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 VLCC Spot Charterers",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "While Unipec remains firmly in the top spot in the VLCC segment, it is notable that we recorded slightly fewer VLCC spot fixtures for the Chinese juggernaut in 1H 2021 than in the same period last year (327 versus 341). Bahri (a major force in the VLCC spot market last year) and Chevron dropped out of the top 10, replaced by ExxonMobil and Petrochina.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "last",
+        "top",
+        "year",
+        "bahri",
+        "chevron",
+        "chinese"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 86,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2021_07_09_tanker_midterms_2021__s03_chart_top_10_suezmax_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2021_07_09_tanker_midterms_2021",
+      "parent_id": "poten_tankers_no_date_poten_2021_07_09_tanker_midterms_2021__root",
+      "title": "Chart: Top 10 Suezmax Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 Suezmax Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 Suezmax Spot Charterers",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "In the Suezmax segment, we have seen some changes in the rankings. On top of the list Shell and ExxonMobil switched places again.",
+      "keywords": [
+        "suezmax",
+        "india",
+        "crude_oil",
+        "rankings.",
+        "top",
+        "activity",
+        "activity.",
+        "again."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 146,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2021_07_09_tanker_midterms_2021__s04_chart_top_10_aframax_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2021_07_09_tanker_midterms_2021",
+      "parent_id": "poten_tankers_no_date_poten_2021_07_09_tanker_midterms_2021__root",
+      "title": "Chart: Top 10 Aframax Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 Aframax Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 Aframax Spot Charterers",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "In the Aframax segment, Vitol, BP and Shell maintained their position on top of the rankings, while Unipec (No. 3 last year) dropped to 8 th .",
+      "keywords": [
+        "aframax",
+        "no.",
+        "reported",
+        "above",
+        "activity.",
+        "arm",
+        "assembled",
+        "clearlake"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 143,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

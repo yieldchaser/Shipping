@@ -1,0 +1,202 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_08_12_show_us_the_money_and_well_show_you_the_barrels__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_08_12_show_us_the_money_and_well_show_you_the_barrels",
+  "parent_id": null,
+  "title": "Show Us the Money, and We'll Show You the Barrels",
+  "section_path": [
+    "Show Us the Money, and We'll Show You the Barrels"
+  ],
+  "section_path_text": "Show Us the Money, and We'll Show You the Barrels",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Show Us the Money, and We'll Show You the Barrels\nDespite the generally steady refined product demand climate in the United States, it is interesting to note resurgence in refining activity. Over the course of the summer, the market on the East Coast of the United States (PADD I) has seen a marked increase in both structural refining capacity and crude oil throughput. It is curious that as capacity increases in a steady demand environment domestically, beleaguered consumers of retail gasoline have seen little price relief.",
+  "keywords": [
+    "atlantic",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "oil",
+    "crude",
+    "capacity",
+    "united",
+    "are",
+    "barrels",
+    "coast"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 767,
+  "source_path": "reports/poten/2011/poten_2011-08-12_show-us-the-money-and-well-show-you-the-barrels.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_08_12_show_us_the_money_and_well_show_you_the_barrels__s01_show_us_the_money_and_we_ll_show_you_the_barrels",
+      "doc_id": "poten_tankers_no_date_poten_2011_08_12_show_us_the_money_and_well_show_you_the_barrels",
+      "parent_id": "poten_tankers_no_date_poten_2011_08_12_show_us_the_money_and_well_show_you_the_barrels__root",
+      "title": "Show Us the Money, and We'll Show You the Barrels",
+      "section_path": [
+        "Show Us the Money, and We'll Show You the Barrels"
+      ],
+      "section_path_text": "Show Us the Money, and We'll Show You the Barrels",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Despite the generally steady refined product demand climate in the United States, it is interesting to note resurgence in refining activity. Over the course of the summer, the market on the East Coast of the United States (PADD I) has seen a marked increase in both structural refining capacity and crude oil throughput.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "refining",
+        "capacity",
+        "united",
+        "states"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 214,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_08_12_show_us_the_money_and_well_show_you_the_barrels__s02_utilization",
+      "doc_id": "poten_tankers_no_date_poten_2011_08_12_show_us_the_money_and_well_show_you_the_barrels",
+      "parent_id": "poten_tankers_no_date_poten_2011_08_12_show_us_the_money_and_well_show_you_the_barrels__root",
+      "title": "% Utilization",
+      "section_path": [
+        "% Utilization"
+      ],
+      "section_path_text": "% Utilization",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Operable Crude Oil Distillation Capacity Net Crude Oil Input Percent Utilization Achievable margins will dictate the levels at which refineries are willing to run and the amount of product being pushed into the market. With margins trending upwards on the East Coast, it is not surprising that incremental barrels are finding their way into the system at large.",
+      "keywords": [
+        "crude_oil",
+        "are",
+        "barrels",
+        "being",
+        "crude",
+        "margins",
+        "oil",
+        "absorbed."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 82,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_08_12_show_us_the_money_and_well_show_you_the_barrels__s03_turning_out_the_lights",
+      "doc_id": "poten_tankers_no_date_poten_2011_08_12_show_us_the_money_and_well_show_you_the_barrels",
+      "parent_id": "poten_tankers_no_date_poten_2011_08_12_show_us_the_money_and_well_show_you_the_barrels__root",
+      "title": "Turning Out the Lights",
+      "section_path": [
+        "Turning Out the Lights"
+      ],
+      "section_path_text": "Turning Out the Lights",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Since not all refineries are created equal, an analysis of the specific crude oil preferences for each refinery reveals that the pricing dynamics of the crude oil market at large may be the master puppeteer pulling the strings for increasing throughput. The chart below demonstrates the relative price between various crude oil grades.",
+      "keywords": [
+        "crude_oil",
+        "gas",
+        "crude",
+        "oil",
+        "can",
+        "created",
+        "pricing",
+        "refineries"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 126,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_08_12_show_us_the_money_and_well_show_you_the_barrels__s04_light_oil_discount",
+      "doc_id": "poten_tankers_no_date_poten_2011_08_12_show_us_the_money_and_well_show_you_the_barrels",
+      "parent_id": "poten_tankers_no_date_poten_2011_08_12_show_us_the_money_and_well_show_you_the_barrels__root",
+      "title": "Light Oil Discount",
+      "section_path": [
+        "Light Oil Discount"
+      ],
+      "section_path_text": "Light Oil Discount",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Net crude oil inputs to PADD I refineries today represent about 96% of the operable crude oil distillation capacity available at the start of 2011. Over the same time period, overall inputs have seen a 38% increase as compared to the 15% increase in capacity.",
+      "keywords": [
+        "crude_oil",
+        "crude",
+        "oil",
+        "increase",
+        "inputs",
+        "available",
+        "can",
+        "capacity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 80,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_08_12_show_us_the_money_and_well_show_you_the_barrels__s05_thirst_from_abroad",
+      "doc_id": "poten_tankers_no_date_poten_2011_08_12_show_us_the_money_and_well_show_you_the_barrels",
+      "parent_id": "poten_tankers_no_date_poten_2011_08_12_show_us_the_money_and_well_show_you_the_barrels__root",
+      "title": "Thirst from Abroad",
+      "section_path": [
+        "Thirst from Abroad"
+      ],
+      "section_path_text": "Thirst from Abroad",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "With overall demand for petroleum product in the United States generally flat, considering ethanol inclusion, local customers do not generally appear hungry for the prospect of more supply. Instead, it seems foreign markets are lending support for additional refinery runs.",
+      "keywords": [
+        "atlantic",
+        "europe",
+        "generally",
+        "activity",
+        "could",
+        "local",
+        "markets",
+        "overall"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 133,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_08_12_show_us_the_money_and_well_show_you_the_barrels__s06_caribbean",
+      "doc_id": "poten_tankers_no_date_poten_2011_08_12_show_us_the_money_and_well_show_you_the_barrels",
+      "parent_id": "poten_tankers_no_date_poten_2011_08_12_show_us_the_money_and_well_show_you_the_barrels__root",
+      "title": "Caribbean",
+      "section_path": [
+        "Caribbean"
+      ],
+      "section_path_text": "Caribbean",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "UK Continent Mediterranean Other FY Projected While this increased activity is over a relatively small base, the point of note is the willingness of the international markets to snap up incremental supplies made available from a region that has long‐ been a net importer. While the role of United States Gulf Coast as a product exporter has been apparent for the better part of the year (see, Living the Clean Sheen Dream ), perhaps it is time for tanker operators to shift their attention to other coasts.",
+      "keywords": [
+        "europe",
+        "other",
+        "activity",
+        "apparent",
+        "attention",
+        "available",
+        "base",
+        "better"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 96,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

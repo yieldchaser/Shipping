@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2025_12_05_us_crude_oil_production_is_barreling_on__root",
+  "doc_id": "poten_tankers_no_date_poten_2025_12_05_us_crude_oil_production_is_barreling_on",
+  "parent_id": null,
+  "title": "US Crude Oil Production Is Barreling On",
+  "section_path": [
+    "US Crude Oil Production Is Barreling On"
+  ],
+  "section_path_text": "US Crude Oil Production Is Barreling On",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "oil production still has growth potential\nCrude oil production in the United States is booming. Field Production of Crude Oil reached 13.8 Million barrels per day (Mb/d) in September 2025, a remarkable recovery since bottoming out in 2008 below 5 Mb/d. The shale oil boom was primarily responsible for this turnaround.",
+  "keywords": [
+    "crude_oil",
+    "oil",
+    "u.s.",
+    "production",
+    "shale",
+    "growth",
+    "crude",
+    "exports",
+    "recovery",
+    "gulf",
+    "increase",
+    "mb/d"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 968,
+  "source_path": "reports/poten/2025/poten_2025-12-05_us-crude-oil-production-is-barreling-on.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2025_12_05_us_crude_oil_production_is_barreling_on__s01_u_s_oil_production_still_has_growth_potential",
+      "doc_id": "poten_tankers_no_date_poten_2025_12_05_us_crude_oil_production_is_barreling_on",
+      "parent_id": "poten_tankers_no_date_poten_2025_12_05_us_crude_oil_production_is_barreling_on__root",
+      "title": "U.S. oil production still has growth potential",
+      "section_path": [
+        "U.S. oil production still has growth potential"
+      ],
+      "section_path_text": "U.S. oil production still has growth potential",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Crude oil production in the United States is booming. Field Production of Crude Oil reached 13.8 Million barrels per day (Mb/d) in September 2025, a remarkable recovery since bottoming out in 2008 below 5 Mb/d.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "u.s.",
+        "production",
+        "shale",
+        "growth",
+        "crude",
+        "exports"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 958,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2023_11_03_a_watershed_moment_for_the_canal__root",
+  "doc_id": "poten_tankers_no_date_poten_2023_11_03_a_watershed_moment_for_the_canal",
+  "parent_id": null,
+  "title": "A Watershed Moment For The Canal",
+  "section_path": [
+    "A Watershed Moment For The Canal"
+  ],
+  "section_path_text": "A Watershed Moment For The Canal",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Impact of the Panama Canal struggles on the tanker market\nThe 51-mile-long Panama Canal is an important shipping artery connecting the Atlantic Ocean with the Pacific. An estimated 5% of global seaborne trade passes through this waterway. The Canal has been in the news lately because the Panama Canal Authority (PCA) has had to lower draft restrictions as well as reduce the number of transits due to the lack of precipitation in the Canal watershed.",
+  "keywords": [
+    "panamax",
+    "suezmax",
+    "aframax",
+    "lng",
+    "lpg",
+    "container",
+    "atlantic",
+    "pacific",
+    "crude_oil",
+    "gas",
+    "canal",
+    "tankers"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 919,
+  "source_path": "reports/poten/2023/poten_2023-11-03_a-watershed-moment-for-the-canal.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2023_11_03_a_watershed_moment_for_the_canal__s01_impact_of_the_panama_canal_struggles_on_the_tanker_market",
+      "doc_id": "poten_tankers_no_date_poten_2023_11_03_a_watershed_moment_for_the_canal",
+      "parent_id": "poten_tankers_no_date_poten_2023_11_03_a_watershed_moment_for_the_canal__root",
+      "title": "Impact of the Panama Canal struggles on the tanker market",
+      "section_path": [
+        "Impact of the Panama Canal struggles on the tanker market"
+      ],
+      "section_path_text": "Impact of the Panama Canal struggles on the tanker market",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The 51-mile-long Panama Canal is an important shipping artery connecting the Atlantic Ocean with the Pacific. An estimated 5% of global seaborne trade passes through this waterway.",
+      "keywords": [
+        "panamax",
+        "suezmax",
+        "aframax",
+        "lng",
+        "lpg",
+        "container",
+        "atlantic",
+        "pacific"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 908,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -186,7 +186,7 @@ numeric_observations:
   values:
   - 35.0
   - -35.5
-  - 36500.0
+  - 36.5
 - section: Market Report Content
   section_type: null
   source_line: traders bidding USD 35 for C3 mid-late September dates. Today rates
@@ -201,7 +201,7 @@ numeric_observations:
     range. Pacific C5
   unit: usd
   values:
-  - 35930.0
+  - 35.93
   - 36.0
   - 5.0
 - section: Market Report Content
@@ -210,7 +210,7 @@ numeric_observations:
     dates and an
   unit: usd
   values:
-  - 15500.0
+  - 15.5
 - section: Market Report Content
   section_type: null
   source_line: East Australian stem fixed in the mid-high USD 31s for early September.
@@ -237,7 +237,7 @@ numeric_observations:
   source_line: late August Dampier stem at USD 14.25.
   unit: usd
   values:
-  - 14250.0
+  - 14.25
 - section: Market Report Content
   section_type: null
   source_line: $75,611 -$1,083
@@ -250,7 +250,7 @@ numeric_observations:
   source_line: $14.62 -$1.3
   unit: usd
   values:
-  - 14620.0
+  - 14.62
   - 1.3
 - section: Market Report Content
   section_type: null
@@ -534,7 +534,7 @@ numeric_observations:
   unit: usd
   values:
   - 347.11
-  - 89470.0
+  - 89.47
 - section: Market Report Content
   section_type: null
   source_line: $570 $0
@@ -591,29 +591,29 @@ numeric_observations:
   source_line: Capesize $71.0 $56.0
   unit: usd
   values:
-  - 71000.0
-  - 56000.0
+  - 71.0
+  - 56.0
 - section: Market Report Content
   section_type: null
   source_line: Kamsarmax $41.0 $32.0
   unit: usd
   values:
-  - 41000.0
-  - 32000.0
+  - 41.0
+  - 32.0
 - section: Market Report Content
   section_type: null
   source_line: Ultramax $38.0 $30.0
   unit: usd
   values:
-  - 38000.0
-  - 30000.0
+  - 38.0
+  - 30.0
 - section: Market Report Content
   section_type: null
   source_line: Handysize $31.0 $23.0
   unit: usd
   values:
-  - 31000.0
-  - 23000.0
+  - 31.0
+  - 23.0
 - section: Market Report Content
   section_type: null
   source_line: VLCC $152.0 $122.0
@@ -627,15 +627,15 @@ numeric_observations:
   unit: usd
   values:
   - 103.0
-  - 88000.0
+  - 88.0
 - section: Market Report Content
   section_type: null
   source_line: Aframax / LR2 $82.0 $71.5
   unit: usd
   values:
   - 2.0
-  - 82000.0
-  - 71500.0
+  - 82.0
+  - 71.5
 - section: Market Report Content
   section_type: null
   source_line: 1,235.5
@@ -654,7 +654,7 @@ numeric_observations:
   source_line: $83.97 $0.42
   unit: usd
   values:
-  - 83970.0
+  - 83.97
   - 0.42
 - section: Market Report Content
   section_type: null

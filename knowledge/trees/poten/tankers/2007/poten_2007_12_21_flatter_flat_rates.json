@@ -1,0 +1,223 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_12_21_flatter_flat_rates__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_12_21_flatter_flat_rates",
+  "parent_id": null,
+  "title": "Flatter Flat Rates",
+  "section_path": [
+    "Flatter Flat Rates"
+  ],
+  "section_path_text": "Flatter Flat Rates",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Flatter Flat Rates\nEach year, the Worldscale Association publishes its assessment of nominal freight rates for designated voyage routes. After a spate of hefty year-to-year increases from 2005 to 2007, 2008's flat rates are only modestly above those of 2007's. Pushed mainly by the rising price of bunkers - but also by higher port charges and fluctuating exchange rates, the step increases in 2006's and 2007's flat rates were intended to reflect these added costs.",
+  "keywords": [
+    "europe",
+    "crude_oil",
+    "price",
+    "bunker",
+    "flat",
+    "worldscale",
+    "ave.",
+    "prices",
+    "are",
+    "average",
+    "changes",
+    "high"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 741,
+  "source_path": "reports/poten/2007/poten_2007-12-21_flatter-flat-rates.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_12_21_flatter_flat_rates__s01_flatter_flat_rates",
+      "doc_id": "poten_tankers_no_date_poten_2007_12_21_flatter_flat_rates",
+      "parent_id": "poten_tankers_no_date_poten_2007_12_21_flatter_flat_rates__root",
+      "title": "Flatter Flat Rates",
+      "section_path": [
+        "Flatter Flat Rates"
+      ],
+      "section_path_text": "Flatter Flat Rates",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Each year, the Worldscale Association publishes its assessment of nominal freight rates for designated voyage routes. After a spate of hefty year-to-year increases from 2005 to 2007, 2008's flat rates are only modestly above those of 2007's.",
+      "keywords": [
+        "are",
+        "flat",
+        "increases",
+        "above",
+        "added",
+        "after",
+        "assessment",
+        "association"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 125,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_12_21_flatter_flat_rates__s02_amuay_bay_houston",
+      "doc_id": "poten_tankers_no_date_poten_2007_12_21_flatter_flat_rates",
+      "parent_id": "poten_tankers_no_date_poten_2007_12_21_flatter_flat_rates__root",
+      "title": "Amuay Bay - Houston",
+      "section_path": [
+        "Amuay Bay - Houston"
+      ],
+      "section_path_text": "Amuay Bay - Houston",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Bonny - Philadelphia Ras Tanura - LOOP Ras Tanura - Yokohama Changes in flat rates, denominated in $/metric ton, from one year to the next aim to account for changes in an assortment of chartering costs for port-to-port voyages worldwide.",
+      "keywords": [
+        "changes",
+        "ras",
+        "tanura",
+        "account",
+        "aim",
+        "assortment",
+        "bonny",
+        "chartering"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 55,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_12_21_flatter_flat_rates__s03_bunker_s_price_strength_to_crude_oil",
+      "doc_id": "poten_tankers_no_date_poten_2007_12_21_flatter_flat_rates",
+      "parent_id": "poten_tankers_no_date_poten_2007_12_21_flatter_flat_rates__root",
+      "title": "Bunker's Price Strength to Crude Oil",
+      "section_path": [
+        "Bunker's Price Strength to Crude Oil"
+      ],
+      "section_path_text": "Bunker's Price Strength to Crude Oil",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Faced with bunker prices that seemingly command an ever- growing portion of voyage revenues, owners will likely find scant comfort in the reality that bunker's recent price strength relative to crude oil has - until recently - been below those in 2003. Price Strength of Rotterdam IFO 380 Bunkers to Dubai Fateh Crude",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "bunker",
+        "crude",
+        "price",
+        "strength",
+        "below",
+        "bunkers"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 66,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_12_21_flatter_flat_rates__s04_averages_can_be_misleading",
+      "doc_id": "poten_tankers_no_date_poten_2007_12_21_flatter_flat_rates",
+      "parent_id": "poten_tankers_no_date_poten_2007_12_21_flatter_flat_rates__root",
+      "title": "Averages Can Be Misleading",
+      "section_path": [
+        "Averages Can Be Misleading"
+      ],
+      "section_path_text": "Averages Can Be Misleading",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "ave."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 22,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_12_21_flatter_flat_rates__s05_ifo_380",
+      "doc_id": "poten_tankers_no_date_poten_2007_12_21_flatter_flat_rates",
+      "parent_id": "poten_tankers_no_date_poten_2007_12_21_flatter_flat_rates__root",
+      "title": "IFO 380",
+      "section_path": [
+        "IFO 380"
+      ],
+      "section_path_text": "IFO 380",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Creating a yearly average of price can mask the magnitude between their high and low during a year.",
+      "keywords": [
+        "average",
+        "between",
+        "can",
+        "creating",
+        "during",
+        "high",
+        "low",
+        "magnitude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 19,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_12_21_flatter_flat_rates__s06_high",
+      "doc_id": "poten_tankers_no_date_poten_2007_12_21_flatter_flat_rates",
+      "parent_id": "poten_tankers_no_date_poten_2007_12_21_flatter_flat_rates__root",
+      "title": "High",
+      "section_path": [
+        "High"
+      ],
+      "section_path_text": "High",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Low Average Difference, High-Low 2003 177 128 153 49 2004 175 137 156 38 2005 287 158 234 128 2006 324 258 293 66 2007 478 232 345 246 While the increase of 2007's average bunker price over 2006's is lower than similar increases from 2005 to 2006 and 2004 to 2005, the swing between the high and low price in 2007 is almost double that of recent history. The Worldscale assignment of $328.75/MT for 2008's bunker price was based on prices from October 1, 2006 to September 30, 2007.",
+      "keywords": [
+        "bunker",
+        "price",
+        "prices",
+        "average",
+        "low",
+        "almost",
+        "assigned",
+        "assignment"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 193,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_12_21_flatter_flat_rates__s07_straight_to_the_bottom_line",
+      "doc_id": "poten_tankers_no_date_poten_2007_12_21_flatter_flat_rates",
+      "parent_id": "poten_tankers_no_date_poten_2007_12_21_flatter_flat_rates__root",
+      "title": "Straight To The Bottom Line",
+      "section_path": [
+        "Straight To The Bottom Line"
+      ],
+      "section_path_text": "Straight To The Bottom Line",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Year-to-year changes in flat rates are intended to catch up with the cost fluctuations in various freight components of the previous year. Tanker owner spot market revenues are beholding to the agreed Worldscale rate for a given voyage.",
+      "keywords": [
+        "worldscale",
+        "bunker",
+        "flat",
+        "are",
+        "differential",
+        "given",
+        "owner",
+        "price"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 219,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nIn the gas carrier market, Qatar Petroleum announced orders for four firm 174k CBM LNG Carriers at Hudong Zhonghua\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2021-10-08_clarkson-platou-hellas-sp-weekly-bulletin-121_report-08-10-2021_a3085ec3bcd8.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2021-10-08_clarkson-platou-hellas-sp-weekly-bulletin-121_report-08-10-2021_a3085ec3bcd8.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 08 October 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 04/22\nTRUE ENDURANCE 179,147 2012 HHI MAN-B&W 6S70MC-C8 RGN USD 33 M TURKISH\nDD 04/22\nSS 08/24 USD 16.2 M\nASL MARS 175.085 2004 SWS MAN-B&W 6S70MC6.1 CHINESE\nDD 07/22 (delivery Q1 '22)\nVORANA MANX 82,000 DELY DEC 2021 EX-YARD MAN-B&W 6S60ME-C10.5 N/A USD 42.2 M GREEKS\nMAN-B&W 6S60ME-C8.2 SS 03/24\nZEPHYRUS 81,981 2019 JIANGSU NEW YANGZIJIANG USD 36.5 M HK BASED\nBWTS fitted DD 03.22\nSTOVE FRIEND\nMAN-B&W 6S50ME-C8.2 SS/DD\nNORWEGIANS\n57,679 2016 TSUNEISHI CEBU 4 x 30 T Freshly USD 28 M each\n(c/o Belships)\nBWTS fitted passed\nSTOVE TIDE\nMAN-B&W 6S50MC-C SS 03/22 HK BASED\nTESORO 53,352 2007 CHENGXI USD 15.75 M\n4 x 36 T DD 03/22 (c/o Jinhui Shipping)\nTANKERS - CHEMI",
+  "summary": "Main\nIn the gas carrier market, Qatar Petroleum announced orders for four firm 174k CBM LNG Carriers at Hudong Zhonghua\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2021-10-08_clarkson-platou-hellas-sp-weekly-bulletin-121_report-08-10-2021_a3085ec3bcd8.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2021-10-08_clarkson-platou-hellas-sp-weekly-bulletin-121_report-08-10-2021_a3085ec3bcd8.pdf\n\n# Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 08 October 2021\n\n## BULK CARRIERS\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|TRUE ENDURANCE|179,147|2012 HHI|MAN-B&W 6S70MC-C8|SS 04/22 DD 04/22|RGN USD 33 M|TURKISH|\n|ASL MARS|175.085|2004 SWS|MAN-B&W 6S70MC6.1|SS 08/24 DD 07/22|USD 16 .2 'M (deli very Q1 22)|CHINESE|\n|VORANA MANX|82,000|DELY DEC 2021 EX-YARD|MAN-B&W 6S60ME-C10.5|N/A|USD 42.2 M|GREEKS|\n|ZEPHYRUS|81,981|2019 JIANGSU NEW YANGZIJIANG|MAN-B&W 6S60ME -C8.2 BWTS fitted|SS 03/24 DD 0 3.22|USD 36.5 M|HK BASED|\n|STOVE FRIEND|57,679|2016 TSUNEISHI CEBU|MAN-B&W 6S50ME-C8.2 4 x 30 T BWTS fitted|SS/DD Freshly passed|USD 28 M each|NORWEG IANS (c/o Belships)|\n|STOVE TIDE|||||||\n|TESORO|53,352|2007 CHENGXI|MAN-B&W 6S50MC -C 4 x 36 T|SS 03/22 DD 03/",
   "keywords": [
     "lng",
     "lpg",
@@ -18,16 +18,16 @@
     "europe",
     "steel",
     "gas",
-    "any",
-    "information",
-    "clarksons",
     "platou",
-    "its"
+    "clarksons",
+    "any",
+    "its",
+    "information"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1865,
-  "source_path": "corpus/02-hellenic/shipbuilding/2021/2021-10-08_clarkson-platou-hellas-sp-weekly-bulletin-121.html",
+  "token_count": 2253,
+  "source_path": "reports/hellenic/shipbuilding/2021/2021-10-08_clarkson-platou-hellas-sp-weekly-bulletin-121.html",
   "source_url": "https://www.hellenicshippingnews.com/clarkson-platou-hellas-sp-weekly-bulletin-121",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2021-10-08_clarkson-platou-hellas-sp-weekly-bulletin-121_report-08-10-2021_a3085ec3bcd8.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-10-08_clarkson-platou-hellas-sp-weekly-bulletin-121_report-08-10-2021_a3085ec3bcd8.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 08 October 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 04/22\nTRUE ENDURANCE 179,147 2012 HHI MAN-B&W 6S70MC-C8 RGN USD 33 M TURKISH\nDD 04/22\nSS 08/24 USD 16.2 M\nASL MARS 175.085 2004 SWS MAN-B&W 6S70MC6.1 CHINESE\nDD 07/22 (delivery Q1 '22)\nVORANA MANX 82,000 DELY DEC 2021 EX-YARD MAN-B&W 6S60ME-C10.5 N/A USD 42.2 M GREEKS\nMAN-B&W 6S60ME-C8.2 SS 03/24\nZEPHYRUS 81,981 2019 JIANGSU NEW YANGZIJIANG USD 36.5 M HK BASED\nBWTS fitted DD 03.22\nSTOVE FRIEND\nMAN-B&W 6S50ME-C8.2 SS/DD\nNORWEGIANS\n57,679 2016 TSUNEISHI CEBU 4 x 30 T Freshly USD 28 M each\n(c/o Belships)\nBWTS fitted passed\nSTOVE TIDE\nMAN-B&W 6S50MC-C SS 03/22 HK BASED\nTESORO 53,352 2007 CHENGXI USD 15.75 M\n4 x 36 T DD 03/22 (c/o Jinhui Shipping)\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 6S50MC-C\nSS 02/24 GREEKS\nIVY EXPRESS 50,929 2009 STX 14 Pumps, Epoxy, IMO III RGN USD 15 M\nDD 02/24 (c/o Spring Marine)\nBWTS fitted\nPage 1 of 3\n\n[Page 2]\n1\nSale and Purchase\nHellas S&P Weekly Bulle",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-10-08_clarkson-platou-hellas-sp-weekly-bulletin-121_report-08-10-2021_a3085ec3bcd8.pdf\n\n# Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 08 October 2021\n\n## BULK CARRIERS\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|TRUE ENDURANCE|179,147|2012 HHI|MAN-B&W 6S70MC-C8|SS 04/22 DD 04/22|RGN USD 33 M|TURKISH|\n|ASL MARS|175.085|2004 SWS|MAN-B&W 6S70MC6.1|SS 08/24 DD 07/22|USD 16 .2 'M (deli very Q1 22)|CHINESE|\n|VORANA MANX|82,000|DELY DEC 2021 EX-YARD|MAN-B&W 6S60ME-C10.5|N/A|USD 42.2 M|GREEKS|\n|ZEPHYRUS|81,981|2019 JIANGSU NEW YANGZIJIANG|MAN-B&W 6S60ME -C8.2 BWTS fitted|SS 03/24 DD 0 3.22|USD 36.5 M|HK BASED|\n|STOVE FRIEND|57,679|2016 TSUNEISHI CEBU|MAN-B&W 6S50ME-C8.2 4 x 30 T BWTS fitted|SS/DD Freshly passed|USD 28 M each|NORWEG IANS (c/o Belships)|\n|STOVE TIDE|||||||\n|TESORO|53,352|2007 CHENGXI|MAN-B&W 6S50MC -C 4 x 36 T|SS 03/22 DD 03/22|USD 15.75 M|HK BASED (c/o Jin hui Shipping)|\n\n## <u>TANKERS - CHEMICALS - LPG/LNGs</u>\n\nVESSEL <u>DWT</u> BLT DETAILS <u>SS/DD</u> PRICE BUYER\n\n|14 Pumps, Epoxy, IMO III MAN-B&W 6S50MC-C|SS 02/224 4 RGN USD 15 M|GREEKS|\n|---|---|---|\n|BWTS fitted|DD 02/|(c/o Sp",
       "keywords": [
         "lng",
         "lpg",
@@ -78,11 +78,11 @@
         "europe",
         "steel",
         "gas",
-        "any"
+        "platou"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1781,
+      "token_count": 2169,
       "section_type": "linked_pdf",
       "children": []
     }

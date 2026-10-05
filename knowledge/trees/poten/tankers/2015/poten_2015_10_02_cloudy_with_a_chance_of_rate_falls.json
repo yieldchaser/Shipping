@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2015_10_02_cloudy_with_a_chance_of_rate_falls__root",
+  "doc_id": "poten_tankers_no_date_poten_2015_10_02_cloudy_with_a_chance_of_rate_falls",
+  "parent_id": null,
+  "title": "Cloudy With a Chance of Rate Falls",
+  "section_path": [
+    "Cloudy With a Chance of Rate Falls"
+  ],
+  "section_path_text": "Cloudy With a Chance of Rate Falls",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The impact of lower US production on the Jones Act\nThe U.S. Flag tanker market has received a boost from the increase in domestic U.S. crude oil production, in particular from tight oil formations in Texas (Eagle Ford and Permian Basin), North Dakota (Bakken) as well as other (smaller) fields.",
+  "keywords": [
+    "brazil",
+    "crude_oil",
+    "oil",
+    "u.s.",
+    "crude",
+    "capacity",
+    "pipeline",
+    "production",
+    "million",
+    "tight",
+    "act",
+    "jones"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 858,
+  "source_path": "reports/poten/2015/poten_2015-10-02_cloudy-with-a-chance-of-rate-falls.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2015_10_02_cloudy_with_a_chance_of_rate_falls__s01_the_impact_of_lower_us_production_on_the_jones_act",
+      "doc_id": "poten_tankers_no_date_poten_2015_10_02_cloudy_with_a_chance_of_rate_falls",
+      "parent_id": "poten_tankers_no_date_poten_2015_10_02_cloudy_with_a_chance_of_rate_falls__root",
+      "title": "The impact of lower US production on the Jones Act",
+      "section_path": [
+        "The impact of lower US production on the Jones Act"
+      ],
+      "section_path_text": "The impact of lower US production on the Jones Act",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Flag tanker market has received a boost from the increase in domestic U.S. crude oil production, in particular from tight oil formations in Texas (Eagle Ford and Permian Basin), North Dakota (Bakken) as well as other (smaller) fields.",
+      "keywords": [
+        "brazil",
+        "crude_oil",
+        "oil",
+        "u.s.",
+        "crude",
+        "capacity",
+        "pipeline",
+        "production"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 847,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2016_08_19_that_sinking_feeling__root",
+  "doc_id": "poten_tankers_no_date_poten_2016_08_19_that_sinking_feeling",
+  "parent_id": null,
+  "title": "That Sinking Feeling ...",
+  "section_path": [
+    "That Sinking Feeling ..."
+  ],
+  "section_path_text": "That Sinking Feeling ...",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Will vessel prices continue their relentless slide? Sometimes it is good to remind ourselves that we are involved in an unusual business. When a regular business owner evaluates if he should invest in new production capacity, he will consider the cost of the investment relative to the income that he can generate with the new production facility.",
+  "keywords": [
+    "container",
+    "china",
+    "products",
+    "are",
+    "prices",
+    "secondhand",
+    "vessels",
+    "new",
+    "all",
+    "investment",
+    "low",
+    "markets"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 805,
+  "source_path": "reports/poten/2016/poten_2016-08-19_that-sinking-feeling.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_08_19_that_sinking_feeling__s01_will_vessel_prices_continue_their_relentless_slide",
+      "doc_id": "poten_tankers_no_date_poten_2016_08_19_that_sinking_feeling",
+      "parent_id": "poten_tankers_no_date_poten_2016_08_19_that_sinking_feeling__root",
+      "title": "Will vessel prices continue their relentless slide?",
+      "section_path": [
+        "Will vessel prices continue their relentless slide?"
+      ],
+      "section_path_text": "Will vessel prices continue their relentless slide?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Sometimes it is good to remind ourselves that we are involved in an unusual business. When a regular business owner evaluates if he should invest in new production capacity, he will consider the cost of the investment relative to the income that he can generate with the new production facility.",
+      "keywords": [
+        "products",
+        "vessels",
+        "are",
+        "production",
+        "can",
+        "investment",
+        "new",
+        "not"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 354,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_08_19_that_sinking_feeling__s02_for_a_variety_of_reasons_prices_of_vessels_both_newbuildings",
+      "doc_id": "poten_tankers_no_date_poten_2016_08_19_that_sinking_feeling",
+      "parent_id": "poten_tankers_no_date_poten_2016_08_19_that_sinking_feeling__root",
+      "title": "For a variety of reasons, prices of vessels, both newbuildings",
+      "section_path": [
+        "For a variety of reasons, prices of vessels, both newbuildings"
+      ],
+      "section_path_text": "For a variety of reasons, prices of vessels, both newbuildings",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "quoted by shipyards and secondhand vessels transacted in the sale & purchase market, have come down significantly in recent years (new) and months (second hand). This begs the question: are we getting close to the right time to invest in the market?",
+      "keywords": [
+        "container",
+        "china",
+        "secondhand",
+        "are",
+        "prices",
+        "markets",
+        "newbuilding",
+        "shipyards"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 428,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

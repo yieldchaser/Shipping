@@ -11,6 +11,7 @@ commodities:
 date: '2026-03-27'
 doc_id: breakwave_insights_insights_2026-03-27_2026_03_27_oil_rallies_as_us_iran_negotiations_fail
 document_type: insights_note
+is_error_page: false
 key_entities:
 - China
 - Australia
@@ -29,10 +30,10 @@ keywords:
 - steel
 - gas
 linked_assets_discovered: 6
-linked_assets_failed: 1
+linked_assets_failed: 0
 linked_assets_ingested: 2
-linked_assets_mirrored: 3
-linked_assets_skipped: 3
+linked_assets_mirrored: 2
+linked_assets_skipped: 4
 market_tone: neutral
 numeric_observation_count: 45
 numeric_observations:
@@ -48,9 +49,9 @@ numeric_observations:
   - 2026.0
   - -3.0
   - -27.0
-  - 4.0
-  - 4.0
-  - 5.0
+  - 3.0
+  - 84.0
+  - 9.0
 - section: Market Commentary
   section_type: null
   source_line: Crude oil rallied after signs of negotiations gave way to rising tensions
@@ -86,7 +87,8 @@ numeric_observations:
   unit: pct
   values:
   - 2.6
-  - 400.0
+  - 4400.0
+  - 5.0
   - 5.0
 - section: Chart of the Day
   section_type: null
@@ -111,9 +113,9 @@ numeric_observations:
   - 2026.0
   - -3.0
   - -27.0
-  - 4.0
-  - 4.0
-  - 5.0
+  - 3.0
+  - 84.0
+  - 9.0
 - section: 'Linked asset: 2026-03-27_oil-rallies-as-us-iran-negotiations-fail_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c33cf40aa591.png'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2026-03-27_oil-rallies-as-us-iran-negotiations-fail_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c33cf40aa591.png'
@@ -122,18 +124,20 @@ numeric_observations:
   - 2026.0
   - -3.0
   - -27.0
-  - 4.0
-  - 4.0
-  - 5.0
   - 3.0
-  - 91.0
+  - 84.0
+  - 9.0
+  - 3.0
+  - 9.0
+  - 8.0
+  - 84.0
 - section: 'Linked asset: 2026-03-27_oil-rallies-as-us-iran-negotiations-fail_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c33cf40aa591.png'
   section_type: linked_image_asset
   source_line: 'Image metadata: PNG 846x594 mode=RGBA'
   unit: null
   values:
   - 846.0
-  - 94.0
+  - 594.0
 - section: 'Linked asset: 2026-03-27_oil-rallies-as-us-iran-negotiations-fail_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c33cf40aa591.png'
   section_type: linked_image_asset
   source_line: 'dpi: (95.9866, 95.9866)'
@@ -299,18 +303,20 @@ numeric_observations:
   - 2026.0
   - -3.0
   - -27.0
-  - 4.0
-  - 4.0
-  - 5.0
-  - 59.0
-  - 1.0
+  - 3.0
+  - 84.0
+  - 9.0
+  - 3.0
+  - 9.0
+  - 8.0
+  - 84.0
 - section: 'Linked asset: 2026-03-27_oil-rallies-as-us-iran-negotiations-fail_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_eb759ae3ba81.png'
   section_type: linked_image_asset
   source_line: 'Image metadata: PNG 883x463 mode=RGBA'
   unit: null
   values:
   - 883.0
-  - 63.0
+  - 463.0
 - section: 'Linked asset: 2026-03-27_oil-rallies-as-us-iran-negotiations-fail_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_eb759ae3ba81.png'
   section_type: linked_image_asset
   source_line: 'dpi: (95.9866, 95.9866)'

@@ -1,0 +1,140 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_09_10_term_oil_in_the_market__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_09_10_term_oil_in_the_market",
+  "parent_id": null,
+  "title": "Term Oil in the Market",
+  "section_path": [
+    "Term Oil in the Market"
+  ],
+  "section_path_text": "Term Oil in the Market",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Term Oil in the Market\nThis summer, deteriorating conditions in the spot tanker market have encouraged some vessel owners to seek protection in term charters. Although assessments for one‐year term charters softened during August, the momentum behind longer term charter rates strengthened over the summer. Through this reversal of the traditional relationship between short and long‐term charter deals, the term charter market has displayed a mixture of short‐term concern about future conditions and long‐term optimism among shipowners.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "india",
+    "crude_oil",
+    "term",
+    "year",
+    "charter",
+    "deals",
+    "demand",
+    "long",
+    "oil",
+    "owners"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 539,
+  "source_path": "reports/poten/2010/poten_2010-09-10_term-oil-in-the-market.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_09_10_term_oil_in_the_market__s01_term_oil_in_the_market",
+      "doc_id": "poten_tankers_no_date_poten_2010_09_10_term_oil_in_the_market",
+      "parent_id": "poten_tankers_no_date_poten_2010_09_10_term_oil_in_the_market__root",
+      "title": "Term Oil in the Market",
+      "section_path": [
+        "Term Oil in the Market"
+      ],
+      "section_path_text": "Term Oil in the Market",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This summer, deteriorating conditions in the spot tanker market have encouraged some vessel owners to seek protection in term charters. Although assessments for one‐year term charters softened during August, the momentum behind longer term charter rates strengthened over the summer.",
+      "keywords": [
+        "vlcc",
+        "term",
+        "charter",
+        "assessments",
+        "deals",
+        "year",
+        "august",
+        "conditions"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 179,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_09_10_term_oil_in_the_market__s02_vlcc_1_year_tc",
+      "doc_id": "poten_tankers_no_date_poten_2010_09_10_term_oil_in_the_market",
+      "parent_id": "poten_tankers_no_date_poten_2010_09_10_term_oil_in_the_market__root",
+      "title": "VLCC 1 Year TC",
+      "section_path": [
+        "VLCC 1 Year TC"
+      ],
+      "section_path_text": "VLCC 1 Year TC",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "VLCC 3 Year TC VLCC 5 Year TC",
+      "keywords": [
+        "vlcc",
+        "year"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 12,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_09_10_term_oil_in_the_market__s03_long_term_focus",
+      "doc_id": "poten_tankers_no_date_poten_2010_09_10_term_oil_in_the_market",
+      "parent_id": "poten_tankers_no_date_poten_2010_09_10_term_oil_in_the_market__root",
+      "title": "Long Term Focus",
+      "section_path": [
+        "Long Term Focus"
+      ],
+      "section_path_text": "Long Term Focus",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The total number of reported term charter deals of at least one year in duration across vessel sectors has increased in each of the last three months, as shown in the chart below. Though this year's activity levels in the term charter market to date remain below historical averages, the amount of term charter transactions completed between January and August of this year has remained essentially consistent with last year, suggesting a continuing but gradual recovery.",
+      "keywords": [
+        "term",
+        "year",
+        "charter",
+        "last",
+        "reported",
+        "activity",
+        "higher",
+        "owners"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 165,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_09_10_term_oil_in_the_market__s04_number_of_reported_deals",
+      "doc_id": "poten_tankers_no_date_poten_2010_09_10_term_oil_in_the_market",
+      "parent_id": "poten_tankers_no_date_poten_2010_09_10_term_oil_in_the_market__root",
+      "title": "number of reported deals",
+      "section_path": [
+        "number of reported deals"
+      ],
+      "section_path_text": "number of reported deals",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "With developing world demand centers such as China and India continuing to provide crucial support for international oil markets and ton‐mile demand, it could take only a slightly‐stronger than expected uptick in U.S. demand to provide employment for some of the looming deliveries currently driving fear into the hearts of tanker owners.",
+      "keywords": [
+        "china",
+        "india",
+        "crude_oil",
+        "demand",
+        "oil",
+        "term",
+        "fourth",
+        "near"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 160,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2024_03_22_canada_opens_the_floodgates__root",
+  "doc_id": "poten_tankers_no_date_poten_2024_03_22_canada_opens_the_floodgates",
+  "parent_id": null,
+  "title": "Canada Opens The Floodgates",
+  "section_path": [
+    "Canada Opens The Floodgates"
+  ],
+  "section_path_text": "Canada Opens The Floodgates",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Trans Mountain Expansion will change Pacific Aframax market\nThe expansion of the Trans Mountain Pipeline (TMX) is almost complete. Trans Mountain has started to fill sections of the pipeline with oil and sometime in May, the first export cargo will be loaded. It is reportedly a shipment of heavy crude that is going to China.",
+  "keywords": [
+    "vlcc",
+    "aframax",
+    "china",
+    "brazil",
+    "pacific",
+    "japan",
+    "crude_oil",
+    "crude",
+    "west",
+    "coast",
+    "oil",
+    "tmx"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 996,
+  "source_path": "reports/poten/2024/poten_2024-03-22_canada-opens-the-floodgates.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2024_03_22_canada_opens_the_floodgates__s01_trans_mountain_expansion_will_change_pacific_aframax_market",
+      "doc_id": "poten_tankers_no_date_poten_2024_03_22_canada_opens_the_floodgates",
+      "parent_id": "poten_tankers_no_date_poten_2024_03_22_canada_opens_the_floodgates__root",
+      "title": "Trans Mountain Expansion will change Pacific Aframax market",
+      "section_path": [
+        "Trans Mountain Expansion will change Pacific Aframax market"
+      ],
+      "section_path_text": "Trans Mountain Expansion will change Pacific Aframax market",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The expansion of the Trans Mountain Pipeline (TMX) is almost complete. Trans Mountain has started to fill sections of the pipeline with oil and sometime in May, the first export cargo will be loaded.",
+      "keywords": [
+        "china",
+        "brazil",
+        "pacific",
+        "japan",
+        "crude_oil",
+        "crude",
+        "west",
+        "coast"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 610,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2024_03_22_canada_opens_the_floodgates__s02_limited_aframax_availability_on_america_s_west_coast",
+      "doc_id": "poten_tankers_no_date_poten_2024_03_22_canada_opens_the_floodgates",
+      "parent_id": "poten_tankers_no_date_poten_2024_03_22_canada_opens_the_floodgates__root",
+      "title": "Limited Aframax Availability On America's West Coast",
+      "section_path": [
+        "Limited Aframax Availability On America's West Coast"
+      ],
+      "section_path_text": "Limited Aframax Availability On America's West Coast",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The export infrastructure in Vancouver is another complicating factor. Due to vessel size limitations, the Westridge Terminal can only be serviced by Aframaxes.",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "brazil",
+        "aframaxes",
+        "are",
+        "exports",
+        "only",
+        "shippers"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 366,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_02_12_the_storage_story__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_02_12_the_storage_story",
+  "parent_id": null,
+  "title": "The Storage Story",
+  "section_path": [
+    "The Storage Story"
+  ],
+  "section_path_text": "The Storage Story",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Storage Story\nUse of tankers as floating storage has seemed to consistently capture the attention of those in the tanker and broader oil markets for over a year. In the early part of 2009, crude oil tankers were the bearers of most of the storage activity, but as the year continued clean product tankers made a significant emergence into such employment. The right combination of freight environment, spot commodity prices and future sentiment seem to create the perfect recipe for tanker demand.",
+  "keywords": [
+    "meg",
+    "europe",
+    "crude_oil",
+    "products",
+    "storage",
+    "clean",
+    "product",
+    "demand",
+    "tankers",
+    "distillate",
+    "million",
+    "but"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 593,
+  "source_path": "reports/poten/2010/poten_2010-02-12_the-storage-story.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_02_12_the_storage_story__s01_the_storage_story",
+      "doc_id": "poten_tankers_no_date_poten_2010_02_12_the_storage_story",
+      "parent_id": "poten_tankers_no_date_poten_2010_02_12_the_storage_story__root",
+      "title": "The Storage Story",
+      "section_path": [
+        "The Storage Story"
+      ],
+      "section_path_text": "The Storage Story",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Use of tankers as floating storage has seemed to consistently capture the attention of those in the tanker and broader oil markets for over a year. In the early part of 2009, crude oil tankers were the bearers of most of the storage activity, but as the year continued clean product tankers made a significant emergence into such employment.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "storage",
+        "clean",
+        "million",
+        "tankers",
+        "crude",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 255,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_02_12_the_storage_story__s02_oct_09",
+      "doc_id": "poten_tankers_no_date_poten_2010_02_12_the_storage_story",
+      "parent_id": "poten_tankers_no_date_poten_2010_02_12_the_storage_story__root",
+      "title": "Oct‐09",
+      "section_path": [
+        "Oct‐09"
+      ],
+      "section_path_text": "Oct‐09",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "current",
+        "dec",
+        "jan",
+        "nov"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 10,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_02_12_the_storage_story__s03_clean_storage",
+      "doc_id": "poten_tankers_no_date_poten_2010_02_12_the_storage_story",
+      "parent_id": "poten_tankers_no_date_poten_2010_02_12_the_storage_story__root",
+      "title": "Clean Storage",
+      "section_path": [
+        "Clean Storage"
+      ],
+      "section_path_text": "Clean Storage",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Dirty Storage In January, freezing temperatures across North America, Europe and Asia gave a boost to distillate demand. At the same time, spot freight rates for clean product tankers began to rise, creating short‐lived optimism among ship owners that may have otherwise renewed storage charters.",
+      "keywords": [
+        "meg",
+        "europe",
+        "product",
+        "america",
+        "clean",
+        "distillate",
+        "north",
+        "storage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 119,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_02_12_the_storage_story__s04_us_distillate_demand",
+      "doc_id": "poten_tankers_no_date_poten_2010_02_12_the_storage_story",
+      "parent_id": "poten_tankers_no_date_poten_2010_02_12_the_storage_story__root",
+      "title": "US Distillate Demand",
+      "section_path": [
+        "US Distillate Demand"
+      ],
+      "section_path_text": "US Distillate Demand",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "AG ‐ FE (75kt) AG ‐ FE (55kt) The release of some vessels back into the spot market seemed to be enough to negatively impact the supply‐demand balance. Perhaps hopeful for a sustained recovery in tanker demand, shipowners opportunistically decided to take their chances in the spot market.",
+      "keywords": [
+        "demand",
+        "back",
+        "balance.",
+        "chances",
+        "decided",
+        "enough",
+        "hopeful",
+        "impact"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 64,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_02_12_the_storage_story__s05_still_room_to_contango",
+      "doc_id": "poten_tankers_no_date_poten_2010_02_12_the_storage_story",
+      "parent_id": "poten_tankers_no_date_poten_2010_02_12_the_storage_story__root",
+      "title": "Still room to contango",
+      "section_path": [
+        "Still room to contango"
+      ],
+      "section_path_text": "Still room to contango",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Although the spread between spot and future prices for distillate has narrowed significantly, opportunities will likely persist for traders and shipowners interested in storage plays. This current narrowing can be seen as the result of the uptick in near‐term demand for product, but material recovery in worldwide demand for industrial, heating and transportation fuels will be required in order to change the structure of the curve toward backwardation on a more permanent basis.",
+      "keywords": [
+        "demand",
+        "product",
+        "storage",
+        "would",
+        "although",
+        "backwardation",
+        "basis.",
+        "between"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 121,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

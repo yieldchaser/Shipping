@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2018_11_09_a_north_sea_renaissance__root",
+  "doc_id": "poten_tankers_no_date_poten_2018_11_09_a_north_sea_renaissance",
+  "parent_id": null,
+  "title": "A North Sea Renaissance",
+  "section_path": [
+    "A North Sea Renaissance"
+  ],
+  "section_path_text": "A North Sea Renaissance",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "North Sea crude oil exports remain relevant\nOn Thursday, an Aframax crude oil tanker and a Norwegian navy frigate collided off Norway's west coast, just north of the Sture oil terminal. While the frigate, the \"KNM Helge Ingstad\", sustained significant damage, the oil tanker only reported minor damage, no injuries and no pollution. As a precaution, Equinor temporary closed the Sture oil terminal and the Kollsnes gas processing plant.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "atlantic",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "gas",
+    "north",
+    "sea",
+    "oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 896,
+  "source_path": "reports/poten/2018/poten_2018-11-09_a-north-sea-renaissance.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_11_09_a_north_sea_renaissance__s01_north_sea_crude_oil_exports_remain_relevant",
+      "doc_id": "poten_tankers_no_date_poten_2018_11_09_a_north_sea_renaissance",
+      "parent_id": "poten_tankers_no_date_poten_2018_11_09_a_north_sea_renaissance__root",
+      "title": "North Sea crude oil exports remain relevant",
+      "section_path": [
+        "North Sea crude oil exports remain relevant"
+      ],
+      "section_path_text": "North Sea crude oil exports remain relevant",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "On Thursday, an Aframax crude oil tanker and a Norwegian navy frigate collided off Norway's west coast, just north of the Sture oil terminal. While the frigate, the \"KNM Helge Ingstad\", sustained significant damage, the oil tanker only reported minor damage, no injuries and no pollution.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "atlantic",
+        "west_africa",
+        "europe",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 888,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

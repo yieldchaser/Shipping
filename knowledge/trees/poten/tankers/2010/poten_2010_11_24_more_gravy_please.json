@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_11_24_more_gravy_please__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_11_24_more_gravy_please",
+  "parent_id": null,
+  "title": "More Gravy, Please!",
+  "section_path": [
+    "More Gravy, Please!"
+  ],
+  "section_path_text": "More Gravy, Please!",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "As many Americans downshift their activities in anticipation of the US' observance of Thanksgiving, those more fortunate among them may also turn their thoughts to sharing a festive meal with friends and family. Platters piled high with meats and other foods dripping with gravy typify the celebration. Although a lull in state‐side office work may accompany the coming extended weekend, petroleum commerce and the vessels that facilitate it never rest.",
+  "keywords": [
+    "brazil",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "are",
+    "not",
+    "gasoline",
+    "demand",
+    "coast",
+    "diesel",
+    "east"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 875,
+  "source_path": "reports/poten/2010/poten_2010-11-24_more-gravy-please.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_11_24_more_gravy_please__s01_more_gravy_please",
+      "doc_id": "poten_tankers_no_date_poten_2010_11_24_more_gravy_please",
+      "parent_id": "poten_tankers_no_date_poten_2010_11_24_more_gravy_please__root",
+      "title": "More Gravy, Please!",
+      "section_path": [
+        "More Gravy, Please!"
+      ],
+      "section_path_text": "More Gravy, Please!",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As many Americans downshift their activities in anticipation of the US' observance of Thanksgiving, those more fortunate among them may also turn their thoughts to sharing a festive meal with friends and family. Platters piled high with meats and other foods dripping with gravy typify the celebration.",
+      "keywords": [
+        "brazil",
+        "crude_oil",
+        "products",
+        "not",
+        "demand",
+        "product",
+        "sector",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 344,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_11_24_more_gravy_please__s02_let_s_trade",
+      "doc_id": "poten_tankers_no_date_poten_2010_11_24_more_gravy_please",
+      "parent_id": "poten_tankers_no_date_poten_2010_11_24_more_gravy_please__root",
+      "title": "Let's Trade",
+      "section_path": [
+        "Let's Trade"
+      ],
+      "section_path_text": "Let's Trade",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The East Coast of the US has traditionally been the dumping ground for gasoline stocks. During the first eight month's of this year, roughly 800 kBD of motor gasoline blending components and finished gasoline were imported.",
+      "keywords": [
+        "europe",
+        "products",
+        "gas",
+        "gasoline",
+        "are",
+        "price",
+        "arbitrages",
+        "attractive"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 142,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_11_24_more_gravy_please__s03_ukc_to_usa",
+      "doc_id": "poten_tankers_no_date_poten_2010_11_24_more_gravy_please",
+      "parent_id": "poten_tankers_no_date_poten_2010_11_24_more_gravy_please__root",
+      "title": "UKC to USA",
+      "section_path": [
+        "UKC to USA"
+      ],
+      "section_path_text": "UKC to USA",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "East Coast gasoline demand has not yet recovered to its levels prior to mid‐2008. Additionally, local supply of gasoline has dropped as two refineries seem to have closed permanently and another is shut pending refurbishing by its new owner.",
+      "keywords": [
+        "europe",
+        "products",
+        "gas",
+        "are",
+        "diesel",
+        "coast",
+        "east",
+        "gasoline"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 374,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

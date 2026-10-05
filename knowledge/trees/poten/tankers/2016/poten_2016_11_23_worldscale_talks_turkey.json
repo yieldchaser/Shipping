@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2016_11_23_worldscale_talks_turkey__root",
+  "doc_id": "poten_tankers_no_date_poten_2016_11_23_worldscale_talks_turkey",
+  "parent_id": null,
+  "title": "Worldscale Talks Turkey",
+  "section_path": [
+    "Worldscale Talks Turkey"
+  ],
+  "section_path_text": "Worldscale Talks Turkey",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Lower oil prices will push Worldscale flat rates down in 2017\nAs we are approaching the end of another eventful year in the tanker market, owners and charterers alike are waiting for the new Worldscale book to arrive in the mail (or, more likely, become available on the internet). Starting on the first trading day of 2017, Monday, January 2, tanker market participants will start to transition from the 2016 Worldscale rates to the 2017 rates. The changes in rates from 2015 to 2016 were quite significant.",
+  "keywords": [
+    "crude_oil",
+    "worldscale",
+    "government",
+    "year",
+    "bunker",
+    "changes",
+    "daily",
+    "oil",
+    "costs",
+    "flat",
+    "hire",
+    "owners"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 627,
+  "source_path": "reports/poten/2016/poten_2016-11-23_worldscale-talks-turkey.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_11_23_worldscale_talks_turkey__s01_lower_oil_prices_will_push_worldscale_flat_rates_down_in_2017",
+      "doc_id": "poten_tankers_no_date_poten_2016_11_23_worldscale_talks_turkey",
+      "parent_id": "poten_tankers_no_date_poten_2016_11_23_worldscale_talks_turkey__root",
+      "title": "Lower oil prices will push Worldscale flat rates down in 2017",
+      "section_path": [
+        "Lower oil prices will push Worldscale flat rates down in 2017"
+      ],
+      "section_path_text": "Lower oil prices will push Worldscale flat rates down in 2017",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As we are approaching the end of another eventful year in the tanker market, owners and charterers alike are waiting for the new Worldscale book to arrive in the mail (or, more likely, become available on the internet). Starting on the first trading day of 2017, Monday, January 2, tanker market participants will start to transition from the 2016 Worldscale rates to the 2017 rates.",
+      "keywords": [
+        "crude_oil",
+        "worldscale",
+        "government",
+        "year",
+        "bunker",
+        "changes",
+        "daily",
+        "costs"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 612,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

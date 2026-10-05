@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2025_02_07_trade_winds_of_change__root",
+  "doc_id": "poten_tankers_no_date_poten_2025_02_07_trade_winds_of_change",
+  "parent_id": null,
+  "title": "Trade Winds of Change",
+  "section_path": [
+    "Trade Winds of Change"
+  ],
+  "section_path_text": "Trade Winds of Change",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Global dirty trade routes-reshuffle again in 2024\nIn 2020, we started a new annual tradition, ranking the Top 20 Global Dirty Trade Routes (covering both crude oil and dirty products) and, in the process, highlighting the routes that changed the most. Sadly, the company that provided the underlying raw data for this analysis discontinued their service. Fortunately, we have found a new data partner (Vortexa) and we are able resume these rankings.",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "atlantic",
+    "pacific",
+    "meg",
+    "west_africa",
+    "europe",
+    "india",
+    "us_gulf",
+    "japan",
+    "crude_oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1320,
+  "source_path": "reports/poten/2025/poten_2025-02-07_trade-winds-of-change.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2025_02_07_trade_winds_of_change__s01_global_dirty_trade_routes_reshuffle_again_in_2024",
+      "doc_id": "poten_tankers_no_date_poten_2025_02_07_trade_winds_of_change",
+      "parent_id": "poten_tankers_no_date_poten_2025_02_07_trade_winds_of_change__root",
+      "title": "Global dirty trade routes-reshuffle again in 2024",
+      "section_path": [
+        "Global dirty trade routes-reshuffle again in 2024"
+      ],
+      "section_path_text": "Global dirty trade routes-reshuffle again in 2024",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In 2020, we started a new annual tradition, ranking the Top 20 Global Dirty Trade Routes (covering both crude oil and dirty products) and, in the process, highlighting the routes that changed the most. Sadly, the company that provided the underlying raw data for this analysis discontinued their service.",
+      "keywords": [
+        "capesize",
+        "china",
+        "atlantic",
+        "pacific",
+        "meg",
+        "west_africa",
+        "europe",
+        "us_gulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 669,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2025_02_07_trade_winds_of_change__s02_tonmiles_per_day",
+      "doc_id": "poten_tankers_no_date_poten_2025_02_07_trade_winds_of_change",
+      "parent_id": "poten_tankers_no_date_poten_2025_02_07_trade_winds_of_change__root",
+      "title": "TonMiles per Day",
+      "section_path": [
+        "TonMiles per Day"
+      ],
+      "section_path_text": "TonMiles per Day",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Barrels Per Day Route (Million) (Million) (Million) % (1,000) (1,000) (1,000) % Top Increases 2024 2023 Change Change 2024 2023 Change Change AG to Mediterranean 631 397 +233.3 59% 495 708 -213.2 -30% AG to NW Europe 473 341 +131.9 39% 305 366 -60.4 -17% AG to Gulf of Mexico 594 472 +122.0 26% 330 288 42.7 15% EC South America to NW Europe 349 239 +110.4 46% 530 363 167.0 46% Baltic to WC India 1,184 1,102 +82.2 7% 1,060 998 62.1 6% Top Decreases AG to NE Asia 7,854 8,315 -461.1 -6% 9,321 9,735 -414.3 -4% Gulf of Mexico to NE Asia 1,907 2,349 -441.8 -19% 940 1,125 -185.6 -16% Black Sea to NE Asia 153 413 -259.5 -63% 116 352 -236.1 -67% AG to Red Sea 167 276 -108.9 -40% 430 793 -362.9 -46% Baltic to NE Asia 201 305 -103.8 -34% 113 178 -65.3 -37%",
+      "keywords": [
+        "europe",
+        "india",
+        "us_gulf",
+        "asia",
+        "change",
+        "million",
+        "gulf",
+        "mexico"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 340,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2025_02_07_trade_winds_of_change__s03_global_trade",
+      "doc_id": "poten_tankers_no_date_poten_2025_02_07_trade_winds_of_change",
+      "parent_id": "poten_tankers_no_date_poten_2025_02_07_trade_winds_of_change__root",
+      "title": "Global Trade",
+      "section_path": [
+        "Global Trade"
+      ],
+      "section_path_text": "Global Trade",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "33,349 34,121 -772.2 -2% 60,668 61,172 -504.1 -1% The impact of the Red Sea / Gulf of Aden diversions as a result of the Houthi attacks is even more apparent in table 2, when looking at the key changes. TonMile demand from the AG to the Mediterranean and from the AG to Northwest Europe increased by 59% and 39% respectively.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "meg",
+        "europe",
+        "crude_oil",
+        "increased",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 289,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

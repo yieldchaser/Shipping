@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2015_12_31_santa_came_early_this_year__root",
+  "doc_id": "poten_tankers_no_date_poten_2015_12_31_santa_came_early_this_year",
+  "parent_id": null,
+  "title": "Santa Came Early This Year",
+  "section_path": [
+    "Santa Came Early This Year"
+  ],
+  "section_path_text": "Santa Came Early This Year",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Low bunker prices benefit ship owners in 2015\nAs 2015 draws to a close and the Worldscale Organisation published the new 2016 Flat Rates, we go through the annual exercise of updating Flat Rates in our systems. This highlighted once again the significant changes in bunker prices that occurred over the last 2 years. The Worldscale Organisation calculates Flat Rates based on average bunker prices over the period from October 1 of the prior year to September 30.",
+  "keywords": [
+    "brazil",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "prices",
+    "flat",
+    "bunker",
+    "oil",
+    "are",
+    "demand",
+    "port"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 906,
+  "source_path": "reports/poten/2015/poten_2015-12-31_santa-came-early-this-year.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2015_12_31_santa_came_early_this_year__s01_low_bunker_prices_benefit_ship_owners_in_2015",
+      "doc_id": "poten_tankers_no_date_poten_2015_12_31_santa_came_early_this_year",
+      "parent_id": "poten_tankers_no_date_poten_2015_12_31_santa_came_early_this_year__root",
+      "title": "Low bunker prices benefit ship owners in 2015",
+      "section_path": [
+        "Low bunker prices benefit ship owners in 2015"
+      ],
+      "section_path_text": "Low bunker prices benefit ship owners in 2015",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As 2015 draws to a close and the Worldscale Organisation published the new 2016 Flat Rates, we go through the annual exercise of updating Flat Rates in our systems. This highlighted once again the significant changes in bunker prices that occurred over the last 2 years.",
+      "keywords": [
+        "brazil",
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "flat",
+        "prices",
+        "bunker"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 895,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

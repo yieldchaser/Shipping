@@ -9,7 +9,7 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 11.21.2023",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nCapesize Spot Index bounces back in the 20s… but is a correction inevitable? - Capesize spot\nSource: Breakwave Advisors\n\nLinked asset: 2023-11-21_breakwave-dry-bulk-shipping-report-11-21-2023_breakwavedrynovember212023report_62ea2924527b.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-11-21_breakwave-dry-bulk-shipping-report-11-21-2023_breakwavedrynovember212023report_62ea2924527b.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nNovember 21, 2023\nBreakwave Dry Futures Index: 1,276 Baltic Dry Index (spot): 1,817 Short-term Indicators:\n↓ 30D: -9.7% ↓ 30D: -11.2% Momentum: Positive\n↑ YTD: 24.2% ↑ YTD: 19.9% Sentiment: Neutral\n↑ YOY: 31.7% ↑ YOY: 54.4% Fundamentals: Neutral\nBi-Weekly Report\n• Capesize Spot Index bounces back in the 20s… but is a correction inevitable? - Capesize spot rates staged a sharp\nrebound following an earlier drop into the mid-teens, with the Index moving firmly above 20,000.",
+  "summary": "Main\nCapesize Spot Index bounces back in the 20s… but is a correction inevitable? - Capesize spot\nSource: Breakwave Advisors\n\nLinked asset: 2023-11-21_breakwave-dry-bulk-shipping-report-11-21-2023_breakwavedrynovember212023report_62ea2924527b.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2023-11-21_breakwave-dry-bulk-shipping-report-11-21-2023_breakwavedrynovember212023report_62ea2924527b.pdf\n\n|||BDRY||||||||||\n|---|---|---|---|---|---|---|---|---|---|---|---|\n||↓ ↑ ↑|Dry Bulk Shipping Breakwave Dry Futures Index: 30D: -9.7% YTD: 24.2% YOY: 31.7%|1,276||↓ ↑ ↑||Baltic Dry Index (spot): 30D: -11.2% YTD: 19.9% YOY: 54.4%|1,817||November 21, 2023 Short-term Indicators: Momentum: Sentiment: Fundamentals:|Positive Neutral Neutral|\n|• • •|a|Bi-Weekly Report rebound gradual softening as we approach heavy Brazil route is already priced in the low teens. The quarter of 2023 lower spot rates versus the rest of the year.",
   "keywords": [
     "capesize",
     "panamax",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1508,
-  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-11-21_breakwave-dry-bulk-shipping-report-11-21-2023.html",
+  "token_count": 1564,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-11-21_breakwave-dry-bulk-shipping-report-11-21-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-11-21-2023",
   "children": [
     {
@@ -68,7 +68,7 @@
       "section_path_text": "Linked asset: 2023-11-21_breakwave-dry-bulk-shipping-report-11-21-2023_breakwavedrynovember212023report_62ea2924527b.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-11-21_breakwave-dry-bulk-shipping-report-11-21-2023_breakwavedrynovember212023report_62ea2924527b.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nNovember 21, 2023\nBreakwave Dry Futures Index: 1,276 Baltic Dry Index (spot): 1,817 Short-term Indicators:\n↓ 30D: -9.7% ↓ 30D: -11.2% Momentum: Positive\n↑ YTD: 24.2% ↑ YTD: 19.9% Sentiment: Neutral\n↑ YOY: 31.7% ↑ YOY: 54.4% Fundamentals: Neutral\nBi-Weekly Report\n• Capesize Spot Index bounces back in the 20s… but is a correction inevitable? - Capesize spot rates staged a sharp\nrebound following an earlier drop into the mid-teens, with the Index moving firmly above 20,000.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-11-21_breakwave-dry-bulk-shipping-report-11-21-2023_breakwavedrynovember212023report_62ea2924527b.pdf\n\n|||BDRY||||||||||\n|---|---|---|---|---|---|---|---|---|---|---|---|\n||↓ ↑ ↑|Dry Bulk Shipping Breakwave Dry Futures Index: 30D: -9.7% YTD: 24.2% YOY: 31.7%|1,276||↓ ↑ ↑||Baltic Dry Index (spot): 30D: -11.2% YTD: 19.9% YOY: 54.4%|1,817||November 21, 2023 Short-term Indicators: Momentum: Sentiment: Fundamentals:|Positive Neutral Neutral|\n|• • •|a|Bi-Weekly Report rebound gradual softening as we approach heavy Brazil route is already priced in the low teens. The quarter of 2023 lower spot rates versus the rest of the year.",
       "keywords": [
         "capesize",
         "panamax",
@@ -81,7 +81,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1430,
+      "token_count": 1486,
       "section_type": "linked_pdf",
       "children": []
     }

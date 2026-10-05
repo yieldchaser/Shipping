@@ -1,0 +1,139 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_04_08_crude_oil_boreatorium__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_04_08_crude_oil_boreatorium",
+  "parent_id": null,
+  "title": "Crude Oil Bore‐a‐torium",
+  "section_path": [
+    "Crude Oil Bore‐a‐torium"
+  ],
+  "section_path_text": "Crude Oil Bore‐a‐torium",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Crude Oil Bore‐a‐torium\nIn the year since the Deepwater Horizon blowout, conflicting and confusing messages have come from the White House regarding the direction of America's domestic energy industry. Amid political unrest abroad and the skyrocketing price of imported crude oil, the Administration has with one hand beckoned the domestic industry to narrow the gap between our production and consumption; with the other, it has signed into effect legislation making it prohibitive to do so. The US government reflexively put the kibosh on new deepwater drilling permits for the six months following the events of last April.",
+  "keywords": [
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "oil",
+    "crude",
+    "production",
+    "domestic",
+    "deepwater",
+    "since",
+    "administration",
+    "develop",
+    "gulf"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 704,
+  "source_path": "reports/poten/2011/poten_2011-04-08_crude-oil-boreatorium.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_08_crude_oil_boreatorium__s01_crude_oil_bore_a_torium",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_08_crude_oil_boreatorium",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_08_crude_oil_boreatorium__root",
+      "title": "Crude Oil Bore‐a‐torium",
+      "section_path": [
+        "Crude Oil Bore‐a‐torium"
+      ],
+      "section_path_text": "Crude Oil Bore‐a‐torium",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In the year since the Deepwater Horizon blowout, conflicting and confusing messages have come from the White House regarding the direction of America's domestic energy industry. Amid political unrest abroad and the skyrocketing price of imported crude oil, the Administration has with one hand beckoned the domestic industry to narrow the gap between our production and consumption; with the other, it has signed into effect legislation making it prohibitive to do so.",
+      "keywords": [
+        "crude_oil",
+        "domestic",
+        "oil",
+        "crude",
+        "since",
+        "administration",
+        "deepwater",
+        "america"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 257,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_08_crude_oil_boreatorium__s02_net_imports",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_08_crude_oil_boreatorium",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_08_crude_oil_boreatorium__root",
+      "title": "Net Imports",
+      "section_path": [
+        "Net Imports"
+      ],
+      "section_path_text": "Net Imports",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "By EIA's estimates, total domestic crude oil production increased by 150 kbd in 2010 to total 5.51 mbd. Oil production from Federal waters on the Outer Continental Shelf increased by more than a third since 2008.",
+      "keywords": [
+        "europe",
+        "us_gulf",
+        "crude_oil",
+        "production",
+        "oil",
+        "barrels",
+        "crude",
+        "federal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 188,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_08_crude_oil_boreatorium__s03_mms_shallow_water_projection",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_08_crude_oil_boreatorium",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_08_crude_oil_boreatorium__root",
+      "title": "MMS Shallow‐water Projection",
+      "section_path": [
+        "MMS Shallow‐water Projection"
+      ],
+      "section_path_text": "MMS Shallow‐water Projection",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "deepwater"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_08_crude_oil_boreatorium__s04_undiscovered_resources",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_08_crude_oil_boreatorium",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_08_crude_oil_boreatorium__root",
+      "title": "Undiscovered Resources",
+      "section_path": [
+        "Undiscovered Resources"
+      ],
+      "section_path_text": "Undiscovered Resources",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Much of the recoverable reserves in the Gulf of Mexico lie in water depths greater than 1,000 feet, sometimes under subterranean salt layers. The tight international supply of the sophisticated, and expensive, equipment required for these projects adds one more hurdle for companies looking to develop offshore reserves.",
+      "keywords": [
+        "us_gulf",
+        "crude_oil",
+        "reserves",
+        "develop",
+        "companies",
+        "continue",
+        "crude",
+        "environment"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 229,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

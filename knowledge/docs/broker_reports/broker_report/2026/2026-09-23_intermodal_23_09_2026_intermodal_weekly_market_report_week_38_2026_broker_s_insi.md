@@ -56,7 +56,7 @@ numeric_observations:
   source_line: 46.9 in August, remaining below the 50 -point threshold separat-
   unit: null
   values:
-  - 46900.0
+  - 46.9
   - 50.0
 - section: Market Report Content
   section_type: null
@@ -69,13 +69,13 @@ numeric_observations:
   source_line: investment declined by a sharper 19.9%, while floor space of new-
   unit: pct
   values:
-  - 19900.0
+  - 19.9
 - section: Market Report Content
   section_type: null
   source_line: ly built commercial buildings sold fell 12.1% y -o-y to 498.8m
   unit: pct
   values:
-  - 12100.0
+  - 12.1
   - 498.8
 - section: Market Report Content
   section_type: null
@@ -95,19 +95,19 @@ numeric_observations:
   source_line: na rose by 6.2% w -o-w during the third week of September, ac-
   unit: pct
   values:
-  - 6200.0
+  - 6.2
 - section: Market Report Content
   section_type: null
   source_line: blast-furnace steelmaking process. Per Mysteel, only 7.8% of
   unit: pct
   values:
-  - 7800.0
+  - 7.8
 - section: Market Report Content
   section_type: null
   source_line: sharply from 32.5% at the end of August, as higher input costs
   unit: pct
   values:
-  - 32500.0
+  - 32.5
 - section: Market Report Content
   section_type: null
   source_line: tle movements and STS transfers, with around 14% of VLCC sup-
@@ -185,7 +185,7 @@ numeric_observations:
   - 3.4
   - 115.5
   - 113.0
-  - 99500.0
+  - 99.5
 - section: Market Report Content
   section_type: null
   source_line: 150KT DH 111.7 111.7 0.0% 76.5 81.0 71.5
@@ -194,43 +194,43 @@ numeric_observations:
   - 150.0
   - 111.7
   - 111.7
-  - 76500.0
-  - 81000.0
-  - 71500.0
+  - 76.5
+  - 81.0
+  - 71.5
 - section: Market Report Content
   section_type: null
   source_line: 110KT DH 85.0 85.0 0.0% 63.6 71.0 64.4
   unit: tonnage
   values:
   - 110.0
-  - 85000.0
-  - 85000.0
-  - 63600.0
-  - 71000.0
-  - 64400.00000000001
+  - 85.0
+  - 85.0
+  - 63.6
+  - 71.0
+  - 64.4
 - section: Market Report Content
   section_type: null
   source_line: 75KT DH 60.0 60.0 0.0% 47.9 53.8 49.2
   unit: tonnage
   values:
   - 75.0
-  - 60000.0
-  - 60000.0
-  - 47900.0
-  - 53800.0
-  - 49200.0
+  - 60.0
+  - 60.0
+  - 47.9
+  - 53.8
+  - 49.2
 - section: Market Report Content
   section_type: null
   source_line: 52KT DH 50.0 48.3 3.6% 41.4 45.8 41.4
   unit: tonnage
   values:
   - 52.0
-  - 50000.0
-  - 48300.0
+  - 50.0
+  - 48.3
   - 3.6
-  - 41400.0
-  - 45800.0
-  - 41400.0
+  - 41.4
+  - 45.8
+  - 41.4
 - section: Market Report Content
   section_type: null
   source_line: 18/09/2026 11/09/2026 ±% Diff 2025 2024
@@ -252,7 +252,7 @@ numeric_observations:
   - 300.0
   - 175000.0
   - 155000.0
-  - 12900.0
+  - 12.9
   - 20000.0
   - 50615.0
   - 50365.0
@@ -264,7 +264,7 @@ numeric_observations:
   - 300.0
   - 98250.0
   - 80000.0
-  - 22800.0
+  - 22.8
   - 18250.0
   - 44931.0
   - 47339.0
@@ -276,7 +276,7 @@ numeric_observations:
   - 150.0
   - 130000.0
   - 103500.0
-  - 25600.0
+  - 25.6
   - 26500.0
   - 38144.0
   - 45394.0
@@ -288,7 +288,7 @@ numeric_observations:
   - 150.0
   - 70000.0
   - 56000.0
-  - 25000.0
+  - 25.0
   - 14000.0
   - 33479.0
   - 38412.0
@@ -300,7 +300,7 @@ numeric_observations:
   - 110.0
   - 75000.0
   - 70000.0
-  - 7100.0
+  - 7.1
   - 5000.0
   - 33870.0
   - 45168.0
@@ -324,7 +324,7 @@ numeric_observations:
   - 75.0
   - 39500.0
   - 35000.0
-  - 12900.0
+  - 12.9
   - 4500.0
   - 25226.0
   - 37750.0
@@ -336,7 +336,7 @@ numeric_observations:
   - 75.0
   - 32500.0
   - 29750.0
-  - 9200.0
+  - 9.2
   - 2750.0
   - 21258.0
   - 31787.0
@@ -348,7 +348,7 @@ numeric_observations:
   - 52.0
   - 31500.0
   - 29000.0
-  - 8600.0
+  - 8.6
   - 2500.0
   - 21909.0
   - 30764.0
@@ -399,7 +399,7 @@ numeric_observations:
   - 1208969.0
   - 825.0
   - 885561.0
-  - 36500.0
+  - 36.5
   - 60510.0
   - 37255.0
 - section: Market Report Content
@@ -412,7 +412,7 @@ numeric_observations:
   - 527477.0
   - 423.0
   - 410759.0
-  - 28400.0
+  - 28.4
   - 56678.0
   - 37722.0
 - section: Market Report Content
@@ -463,7 +463,7 @@ numeric_observations:
   - 223122.0
   - 491.0
   - 136184.0
-  - 63800.0
+  - 63.8
   - 37201.0
   - 39357.0
 - section: Market Report Content
@@ -476,7 +476,7 @@ numeric_observations:
   - 213711.0
   - 389.0
   - 147920.0
-  - 44500.0
+  - 44.5
   - 41877.0
   - 43235.0
 - section: Market Report Content
@@ -554,7 +554,7 @@ numeric_observations:
   - 26255.0
   - 180.0
   - 21070.0
-  - 24600.0
+  - 24.6
   - 10784.0
   - 17707.0
 - section: Market Report Content
@@ -567,7 +567,7 @@ numeric_observations:
   - 23825.0
   - 180.0
   - 19399.0
-  - 22800.0
+  - 22.8
   - 11306.0
   - 17590.0
 - section: Market Report Content
@@ -605,7 +605,7 @@ numeric_observations:
   source_line: 5.4% w-o-w.
   unit: pct
   values:
-  - 5400.0
+  - 5.4
 - section: Market Report Content
   section_type: null
   source_line: BDI 3,370 3,507 -137 1,677 1,743
@@ -665,7 +665,7 @@ numeric_observations:
   - 940.0
   - 16925.0
   - 48.0
-  - 5000.0
+  - 5.0
   - 661.0
   - 702.0
 - section: Market Report Content
@@ -747,7 +747,7 @@ numeric_observations:
   - 58.0
   - 15000.0
   - 14000.0
-  - 7100.0
+  - 7.1
   - 1000.0
   - 12327.0
   - 12692.0
@@ -798,47 +798,47 @@ numeric_observations:
   unit: pct
   values:
   - 180.0
-  - 74300.0
-  - 72000.0
+  - 74.3
+  - 72.0
   - 3.2
-  - 63100.0
-  - 62000.0
-  - 48800.0
+  - 63.1
+  - 62.0
+  - 48.8
 - section: Market Report Content
   section_type: null
   source_line: 82K 41.8 40.8 2.7% 32.3 36.6 32.0
   unit: pct
   values:
   - 82.0
-  - 41800.0
-  - 40800.0
+  - 41.8
+  - 40.8
   - 2.7
-  - 32299.999999999996
-  - 36600.0
-  - 32000.0
+  - 32.3
+  - 36.6
+  - 32.0
 - section: Market Report Content
   section_type: null
   source_line: 63k 39.0 38.5 1.3% 31.3 34.4 29.5
   unit: pct
   values:
   - 63.0
-  - 39000.0
-  - 38500.0
+  - 39.0
+  - 38.5
   - 1.3
-  - 31300.0
-  - 34400.0
-  - 29500.0
+  - 31.3
+  - 34.4
+  - 29.5
 - section: Market Report Content
   section_type: null
   source_line: 37K 31.0 31.0 0.0% 25.9 27.6 25.1Handysize
   unit: pct
   values:
   - 37.0
-  - 31000.0
-  - 31000.0
-  - 25900.0
-  - 27600.0
-  - 25100.0
+  - 31.0
+  - 31.0
+  - 25.9
+  - 27.6
+  - 25.1
 - section: Market Report Content
   section_type: null
   source_line: 10 to 12 mos Atlantic Affinity 2018 81,828
@@ -880,7 +880,6 @@ numeric_observations:
   - 82269.0
   - 2012.0
   - 27.0
-  - 19000.0
 - section: Market Report Content
   section_type: null
   source_line: SUPRA VELA 53,565 2007 NAM TRIEU, China MAN B&W Jun-27 4 x 36t CRANES
@@ -892,7 +891,6 @@ numeric_observations:
   - 27.0
   - 4.0
   - 36.0
-  - 10000.0
 - section: Market Report Content
   section_type: null
   source_line: HMAX PUTERI SEJATI 48,183 2002 OSHIMA, Japan SULZER Mar-27 4 x 30t
@@ -904,7 +902,6 @@ numeric_observations:
   - 27.0
   - 4.0
   - 30.0
-  - 6100.0
 - section: Market Report Content
   section_type: null
   source_line: HANDY MATROZOS 33,002 2010 TAIZHOU, China MAN B&W Mar-28 4 x 30.5t
@@ -915,14 +912,13 @@ numeric_observations:
   - 2010.0
   - 28.0
   - 4.0
-  - 30500.0
-  - 9500.0
+  - 30.5
 - section: Market Report Content
   section_type: null
   source_line: $ 73.0m each undisclosed Eco
   unit: usd
   values:
-  - 73000.0
+  - 73.0
 - section: Market Report Content
   section_type: null
   source_line: SUEZ STELLA 164,714 2011 HYUNDAI, S. Korea MAN B&W Apr-31 DH region
@@ -932,7 +928,7 @@ numeric_observations:
   - 164714.0
   - 2011.0
   - 31.0
-  - 80000.0
+  - 80.0
 - section: Market Report Content
   section_type: null
   source_line: SUEZ MONTESTENA 159,372 2012 SAMSUNG, S.Korea MAN B&W Mar-27 DH $ 86.0m
@@ -942,7 +938,7 @@ numeric_observations:
   - 159372.0
   - 2012.0
   - 27.0
-  - 86000.0
+  - 86.0
 - section: Market Report Content
   section_type: null
   source_line: AFRA TP AFFINITY 114,070 2016 HYUNDAI, S. Korea WinGD Jul-31 DH $ 73.0m
@@ -952,7 +948,7 @@ numeric_observations:
   - 114070.0
   - 2016.0
   - 31.0
-  - 73000.0
+  - 73.0
   - 2027.0
 - section: Market Report Content
   section_type: null
@@ -964,7 +960,6 @@ numeric_observations:
   - 49859.0
   - 2013.0
   - 28.0
-  - 35000.0
 - section: Market Report Content
   section_type: null
   source_line: Newbuilding activity recorded 12 orders for 49 units, focused to
@@ -1023,7 +1018,7 @@ numeric_observations:
   unit: usd
   values:
   - 50.0
-  - 51800.0
+  - 51.8
 - section: Market Report Content
   section_type: null
   source_line: vessel with delivery in 2029. Union Maritime also contracted
@@ -1035,14 +1030,14 @@ numeric_observations:
   source_line: two 49.8k dwt MR tankers at Jingjiang Nanyang Shipbuilding
   unit: null
   values:
-  - 49800.0
+  - 49.8
 - section: Market Report Content
   section_type: null
   source_line: with delivery in 2027 and two more 19.9k dwt chemical tankers
   unit: null
   values:
   - 2027.0
-  - 19900.0
+  - 19.9
 - section: Market Report Content
   section_type: null
   source_line: at Fukuoka Shipbuilding with expected delivery between 2028
@@ -1055,13 +1050,13 @@ numeric_observations:
   unit: null
   values:
   - 2029.0
-  - 40800.0
+  - 40.8
 - section: Market Report Content
   section_type: null
   source_line: MR tankers and Shenghang Shipping signed for six 13.5k dwt
   unit: null
   values:
-  - 13500.0
+  - 13.5
 - section: Market Report Content
   section_type: null
   source_line: tankers at CMJL Nanjing with expected delivery between 2028
@@ -1080,7 +1075,7 @@ numeric_observations:
   unit: null
   values:
   - 20.0
-  - 18600.0
+  - 18.6
 - section: Market Report Content
   section_type: null
   source_line: tries, for delivery between 2029 and 2030, priced between
@@ -1127,75 +1122,75 @@ numeric_observations:
   unit: pct
   values:
   - 205.0
-  - 79000.0
-  - 79000.0
-  - 79000.0
-  - 78000.0
-  - 80000.0
-  - 49500.0
-  - 76800.0
-  - 66200.0
-  - 66500.0
+  - 79.0
+  - 79.0
+  - 79.0
+  - 78.0
+  - 80.0
+  - 49.5
+  - 76.8
+  - 66.2
+  - 66.5
 - section: Market Report Content
   section_type: null
   source_line: Capesize 180k 76.0 76.0 0.0% 76.0 75.0 76.5 49.0 73.3 63.15 62.6
   unit: pct
   values:
   - 180.0
-  - 76000.0
-  - 76000.0
-  - 76000.0
-  - 75000.0
-  - 76500.0
-  - 49000.0
-  - 73300.0
-  - 63150.0
-  - 62600.0
+  - 76.0
+  - 76.0
+  - 76.0
+  - 75.0
+  - 76.5
+  - 49.0
+  - 73.3
+  - 63.15
+  - 62.6
 - section: Market Report Content
   section_type: null
   source_line: Kamsarmax 82k 38.5 38.5 0.0% 38.5 36.5 38.5 27.75 37.1 34.85 34.8
   unit: pct
   values:
   - 82.0
-  - 38500.0
-  - 38500.0
-  - 38500.0
-  - 36500.0
-  - 38500.0
-  - 27750.0
-  - 37100.0
-  - 34850.0
-  - 34800.0
+  - 38.5
+  - 38.5
+  - 38.5
+  - 36.5
+  - 38.5
+  - 27.75
+  - 37.1
+  - 34.85
+  - 34.8
 - section: Market Report Content
   section_type: null
   source_line: Ultramax 63k 35.5 35.5 0.0% 35.5 33.5 35.5 25.75 34.2 34.2 33.95
   unit: pct
   values:
   - 63.0
-  - 35500.0
-  - 35500.0
-  - 35500.0
-  - 33500.0
-  - 35500.0
-  - 25750.0
-  - 34200.0
-  - 34200.0
-  - 33950.0
+  - 35.5
+  - 35.5
+  - 35.5
+  - 33.5
+  - 35.5
+  - 25.75
+  - 34.2
+  - 34.2
+  - 33.95
 - section: Market Report Content
   section_type: null
   source_line: Handysize 38k 31.0 31.0 0.0% 31.0 29.5 31.0 19.5 30.3 29.75 30.4
   unit: pct
   values:
   - 38.0
-  - 31000.0
-  - 31000.0
-  - 31000.0
-  - 29500.0
-  - 31000.0
-  - 19500.0
-  - 30300.0
-  - 29750.0
-  - 30400.0
+  - 31.0
+  - 31.0
+  - 31.0
+  - 29.5
+  - 31.0
+  - 19.5
+  - 30.3
+  - 29.75
+  - 30.4
 regions:
 - china
 - atlantic
@@ -1212,7 +1207,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/intermodal_23_09_2026_intermodal_weekly_market_report_week_38_2026_broker_s_insi.md
+source_path: reports/broker_reports/2026/carriers/intermodal_23_09_2026_intermodal_weekly_market_report_week_38_2026_broker_s_insi.md
 source_stem: intermodal_23_09_2026_intermodal_weekly_market_report_week_38_2026_broker_s_insi
 source_url: https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-38-2026-brokers-insight/
 summary: 'Intermodal Weekly Market Report Week 38 2026 Broker''s Insight

@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2016_02_26_reading_tanker_tea_leaves__root",
+  "doc_id": "poten_tankers_no_date_poten_2016_02_26_reading_tanker_tea_leaves",
+  "parent_id": null,
+  "title": "Reading Tanker Tea Leaves",
+  "section_path": [
+    "Reading Tanker Tea Leaves"
+  ],
+  "section_path_text": "Reading Tanker Tea Leaves",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "IEA paints lukewarm outlook for crude oil tankers\nEvery year around this time, the International Energy Agency (IEA) publishes their Medium Term Oil Market Report. The report includes the customary oil supply and demand forecasts and refinery dynamics. Most interesting for us in the tanker industry is their detailed discussion of the crude oil trade flows.",
+  "keywords": [
+    "china",
+    "atlantic",
+    "west_africa",
+    "europe",
+    "india",
+    "crude_oil",
+    "mb/d",
+    "oil",
+    "crude",
+    "iea",
+    "demand",
+    "oecd"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1087,
+  "source_path": "reports/poten/2016/poten_2016-02-26_reading-tanker-tea-leaves.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_02_26_reading_tanker_tea_leaves__s01_iea_paints_lukewarm_outlook_for_crude_oil_tankers",
+      "doc_id": "poten_tankers_no_date_poten_2016_02_26_reading_tanker_tea_leaves",
+      "parent_id": "poten_tankers_no_date_poten_2016_02_26_reading_tanker_tea_leaves__root",
+      "title": "IEA paints lukewarm outlook for crude oil tankers",
+      "section_path": [
+        "IEA paints lukewarm outlook for crude oil tankers"
+      ],
+      "section_path_text": "IEA paints lukewarm outlook for crude oil tankers",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Every year around this time, the International Energy Agency (IEA) publishes their Medium Term Oil Market Report. The report includes the customary oil supply and demand forecasts and refinery dynamics.",
+      "keywords": [
+        "china",
+        "west_africa",
+        "europe",
+        "india",
+        "crude_oil",
+        "mb/d",
+        "oil",
+        "iea"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 589,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_02_26_reading_tanker_tea_leaves__s02_trade_in_mb_d",
+      "doc_id": "poten_tankers_no_date_poten_2016_02_26_reading_tanker_tea_leaves",
+      "parent_id": "poten_tankers_no_date_poten_2016_02_26_reading_tanker_tea_leaves__root",
+      "title": "Trade in Mb/d",
+      "section_path": [
+        "Trade in Mb/d"
+      ],
+      "section_path_text": "Trade in Mb/d",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Trade in Ton Miles (Bln) Import Region 2015 2021 Change 2015 2021 Change OECD Americas 3.9 3.5 -0.4 1,251 1,139 -112.1 OECD Europe 9.6 8.8 -0.8 2,070 1,927 -142.5 OECD Asia/Oceania 5.8 4.6 -1.2 1,741 1,395 -346.7 China 6.6 8.4 +1.8 2,196 2,711 +514.2 Other Asia 7.1 8.4 +1.3 1,005 1,183 +178.3 33.0 33.7 +0.7 8,264 8,355 +91.1 2.1% 1.1% recent months as the price spread between U.S. based crudes and Brent has decreased (partly as a result of the U.S.",
+      "keywords": [
+        "china",
+        "atlantic",
+        "europe",
+        "india",
+        "crude_oil",
+        "expected",
+        "oecd",
+        "trade"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 479,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

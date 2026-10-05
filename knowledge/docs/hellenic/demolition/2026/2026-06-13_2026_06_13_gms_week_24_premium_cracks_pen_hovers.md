@@ -7,6 +7,7 @@ commodities:
 date: '2026-06-13'
 doc_id: hellenic_demolition_2026-06-13_2026_06_13_gms_week_24_premium_cracks_pen_hovers
 document_type: demolition_update
+is_error_page: false
 key_entities:
 - China
 - Vale
@@ -119,7 +120,7 @@ numeric_observations:
   - -13.0
   - 24.0
   - 126202530.0
-  - 8.0
+  - 38.0
   - 24.0
   - 23.0
 - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_126202530_a38d024dd023.jpg'
@@ -128,7 +129,7 @@ numeric_observations:
   unit: null
   values:
   - 600.0
-  - 25.0
+  - 125.0
 - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_126202530_a38d024dd023.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (72.0, 72.0)'
@@ -364,6 +365,7 @@ numeric_observations:
     clause runs, the strait normalises
   unit: null
   values:
+  - 3.0
   - 30.0
 - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
@@ -418,7 +420,7 @@ numeric_observations:
   unit: pct
   values:
   - 5.1
-  - 26.0
+  - 2026.0
   - -27.0
   - 6.6
 - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
@@ -911,9 +913,9 @@ numeric_observations:
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
   values:
-  - 30.21
+  - 30210.0
   - 899.0669
-  - 91.278
+  - 91278.0
   - 300.5253
 - section: 'Linked asset: 2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf'
   section_type: linked_pdf
@@ -938,7 +940,7 @@ numeric_observations:
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
   values:
-  - 86.216
+  - 86216.0
   - 75.19
   - 82.1
   - 4650.072

@@ -1,0 +1,174 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_01_14_how_the_west_was_won__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_01_14_how_the_west_was_won",
+  "parent_id": null,
+  "title": "How the West Was Won",
+  "section_path": [
+    "How the West Was Won"
+  ],
+  "section_path_text": "How the West Was Won",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "How the West Was Won\nThis past week, an oil leak originating from a pump station serving Alaska's North Slope resulted in a shut‐down of production of nearly 600,000 barrels per day. This amount, equaling nearly 10% of total United States output, can have a dramatic impact on the worldwide energy complex, particularly with crude oil prices trading just below three year highs. However, beyond the resulting energy price movements, the leak and subsequent shutdown should shift attention to the effects such events have on tanker markets.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "meg",
+    "crude_oil",
+    "fixture",
+    "activity",
+    "crude",
+    "uswc",
+    "year",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 754,
+  "source_path": "reports/poten/2011/poten_2011-01-14_how-the-west-was-won.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_01_14_how_the_west_was_won__s01_how_the_west_was_won",
+      "doc_id": "poten_tankers_no_date_poten_2011_01_14_how_the_west_was_won",
+      "parent_id": "poten_tankers_no_date_poten_2011_01_14_how_the_west_was_won__root",
+      "title": "How the West Was Won",
+      "section_path": [
+        "How the West Was Won"
+      ],
+      "section_path_text": "How the West Was Won",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This past week, an oil leak originating from a pump station serving Alaska's North Slope resulted in a shut‐down of production of nearly 600,000 barrels per day. This amount, equaling nearly 10% of total United States output, can have a dramatic impact on the worldwide energy complex, particularly with crude oil prices trading just below three year highs.",
+      "keywords": [
+        "crude_oil",
+        "crude",
+        "disruptions",
+        "uswc",
+        "are",
+        "below",
+        "energy",
+        "events"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 263,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_01_14_how_the_west_was_won__s02_saudi_arabia",
+      "doc_id": "poten_tankers_no_date_poten_2011_01_14_how_the_west_was_won",
+      "parent_id": "poten_tankers_no_date_poten_2011_01_14_how_the_west_was_won__root",
+      "title": "Saudi Arabia",
+      "section_path": [
+        "Saudi Arabia"
+      ],
+      "section_path_text": "Saudi Arabia",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Canada Ecuador Iraq Russia Crude Oil Imports",
+      "keywords": [
+        "crude_oil",
+        "canada",
+        "crude",
+        "ecuador",
+        "imports",
+        "iraq",
+        "oil",
+        "russia"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_01_14_how_the_west_was_won__s03_size_certainly_matters",
+      "doc_id": "poten_tankers_no_date_poten_2011_01_14_how_the_west_was_won",
+      "parent_id": "poten_tankers_no_date_poten_2011_01_14_how_the_west_was_won__root",
+      "title": "Size Certainly Matters",
+      "section_path": [
+        "Size Certainly Matters"
+      ],
+      "section_path_text": "Size Certainly Matters",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "With full‐year 2010 data not yet available, a summary showing average projected volumes of 2010's five largest crude exporters to the USWC and their five‐year export history demonstrates a marked increase in the U.S. importation of Russian Espo Crude from Kozmino.",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "five",
+        "trade",
+        "year",
+        "crude",
+        "increase",
+        "kozmino"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 163,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_01_14_how_the_west_was_won__s04_of_reported_spot_fixture_volume",
+      "doc_id": "poten_tankers_no_date_poten_2011_01_14_how_the_west_was_won",
+      "parent_id": "poten_tankers_no_date_poten_2011_01_14_how_the_west_was_won__root",
+      "title": "% of Reported Spot Fixture Volume",
+      "section_path": [
+        "% of Reported Spot Fixture Volume"
+      ],
+      "section_path_text": "% of Reported Spot Fixture Volume",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Panamax fixture activity discharging USWC has proven to be remarkably consistent over the last five years relative to the other tanker classes. The noticeable change occurring in 2010 came in the Aframax, Suezmax, and VLCC classes which all saw a somewhat dramatic change in percentages of overall fixture market share versus the year prior.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "meg",
+        "fixture",
+        "activity",
+        "relative"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 183,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_01_14_how_the_west_was_won__s05_far_east_movement",
+      "doc_id": "poten_tankers_no_date_poten_2011_01_14_how_the_west_was_won",
+      "parent_id": "poten_tankers_no_date_poten_2011_01_14_how_the_west_was_won__root",
+      "title": "Far East Movement",
+      "section_path": [
+        "Far East Movement"
+      ],
+      "section_path_text": "Far East Movement",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "United States West Coast markets will continue to evolve in the face of expanding eastern market economies, and new supply sources coming on line. What this may mean for tanker owners over the long term is difficult to predict.",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "markets",
+        "term",
+        "are",
+        "but",
+        "canadian",
+        "coast"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 112,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

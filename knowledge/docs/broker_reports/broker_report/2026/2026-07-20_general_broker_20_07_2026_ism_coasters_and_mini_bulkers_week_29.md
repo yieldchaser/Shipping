@@ -101,7 +101,7 @@ numeric_observations:
   source_line: $19.5-20/t. Meanwhile, the segment for shipments
   unit: usd
   values:
-  - 19500.0
+  - 19.5
   - -20.0
 - section: Market Report Content
   section_type: null

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2019_05_24_opec_opec_or_nopec__root",
+  "doc_id": "poten_tankers_no_date_poten_2019_05_24_opec_opec_or_nopec",
+  "parent_id": null,
+  "title": "OPEC OPEC or NOPEC",
+  "section_path": [
+    "OPEC OPEC or NOPEC"
+  ],
+  "section_path_text": "OPEC OPEC or NOPEC",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "OPEC continues to have an outsized impact on crude tankers\nOPEC production has always been a significant driver of tanker demand and rate volatility. Most of its membership (and oil production) resides in the Middle East (75% in March 2019) and most of the demand for its product comes from Asia. The infrastructure on both sides of this trade is highly efficient and because of their economies of scale, VLCCs dominate the Middle East to Asia trade.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "europe",
+    "india",
+    "crude_oil",
+    "oil",
+    "opec",
+    "production",
+    "crude",
+    "venezuela"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 895,
+  "source_path": "reports/poten/2019/poten_2019-05-24_opec-opec-or-nopec.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_05_24_opec_opec_or_nopec__s01_opec_continues_to_have_an_outsized_impact_on_crude_tankers",
+      "doc_id": "poten_tankers_no_date_poten_2019_05_24_opec_opec_or_nopec",
+      "parent_id": "poten_tankers_no_date_poten_2019_05_24_opec_opec_or_nopec__root",
+      "title": "OPEC continues to have an outsized impact on crude tankers",
+      "section_path": [
+        "OPEC continues to have an outsized impact on crude tankers"
+      ],
+      "section_path_text": "OPEC continues to have an outsized impact on crude tankers",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "OPEC production has always been a significant driver of tanker demand and rate volatility. Most of its membership (and oil production) resides in the Middle East (75% in March 2019) and most of the demand for its product comes from Asia.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "europe",
+        "india",
+        "crude_oil",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 881,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

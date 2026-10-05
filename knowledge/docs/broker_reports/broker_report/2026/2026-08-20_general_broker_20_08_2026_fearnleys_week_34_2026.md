@@ -282,7 +282,7 @@ numeric_observations:
     around USD 13 to
   unit: usd
   values:
-  - 13400.0
+  - 13.4
   - 13.0
 - section: Market Report Content
   section_type: null
@@ -325,7 +325,7 @@ numeric_observations:
   source_line: $13.29 -$0.19
   unit: usd
   values:
-  - 13290.0
+  - 13.29
   - 0.19
 - section: Market Report Content
   section_type: null
@@ -585,7 +585,7 @@ numeric_observations:
   unit: usd
   values:
   - 369.91
-  - 22800.0
+  - 22.8
 - section: Market Report Content
   section_type: null
   source_line: $540 $0
@@ -610,7 +610,7 @@ numeric_observations:
   unit: usd
   values:
   - 485.84
-  - 30580.0
+  - 30.58
 - section: Market Report Content
   section_type: null
   source_line: $570 $0
@@ -655,29 +655,29 @@ numeric_observations:
   source_line: Capesize $71.0 $56.0
   unit: usd
   values:
-  - 71000.0
-  - 56000.0
+  - 71.0
+  - 56.0
 - section: Market Report Content
   section_type: null
   source_line: Kamsarmax $41.0 $32.0
   unit: usd
   values:
-  - 41000.0
-  - 32000.0
+  - 41.0
+  - 32.0
 - section: Market Report Content
   section_type: null
   source_line: Ultramax $38.0 $30.0
   unit: usd
   values:
-  - 38000.0
-  - 30000.0
+  - 38.0
+  - 30.0
 - section: Market Report Content
   section_type: null
   source_line: Handysize $31.0 $23.0
   unit: usd
   values:
-  - 31000.0
-  - 23000.0
+  - 31.0
+  - 23.0
 - section: Market Report Content
   section_type: null
   source_line: VLCC $152.0 $122.0
@@ -691,15 +691,15 @@ numeric_observations:
   unit: usd
   values:
   - 103.0
-  - 88000.0
+  - 88.0
 - section: Market Report Content
   section_type: null
   source_line: Aframax / LR2 $82.0 $71.5
   unit: usd
   values:
   - 2.0
-  - 82000.0
-  - 71500.0
+  - 82.0
+  - 71.5
 - section: Market Report Content
   section_type: null
   source_line: 06Market Brief
@@ -724,7 +724,7 @@ numeric_observations:
   source_line: $83.97 $0.42
   unit: usd
   values:
-  - 83970.0
+  - 83.97
   - 0.42
 - section: Market Report Content
   section_type: null

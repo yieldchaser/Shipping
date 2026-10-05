@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2021_11_05_making_waves_in_the_pacific__root",
+  "doc_id": "poten_tankers_no_date_poten_2021_11_05_making_waves_in_the_pacific",
+  "parent_id": null,
+  "title": "Making Waves In The Pacific",
+  "section_path": [
+    "Making Waves In The Pacific"
+  ],
+  "section_path_text": "Making Waves In The Pacific",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Aframax trades in the Pacific are due for a change\nThe Aframax crude oil trades tend to have a regional focus. Some of the most important trading areas for Aframaxes are the US Gulf/Caribbean, the North Sea/Baltic and the Mediterranean. Because Aframaxes are most competitive on short- to medium haul voyages, they are much less prevalent in the trades from the Middle East and West Africa, which tend to be dominated by VLCCs and Suezmaxes.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "brazil",
+    "australia",
+    "pacific",
+    "west_africa",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "voyages"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 897,
+  "source_path": "reports/poten/2021/poten_2021-11-05_making-waves-in-the-pacific.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2021_11_05_making_waves_in_the_pacific__s01_the_aframax_trades_in_the_pacific_are_due_for_a_change",
+      "doc_id": "poten_tankers_no_date_poten_2021_11_05_making_waves_in_the_pacific",
+      "parent_id": "poten_tankers_no_date_poten_2021_11_05_making_waves_in_the_pacific__root",
+      "title": "The Aframax trades in the Pacific are due for a change",
+      "section_path": [
+        "The Aframax trades in the Pacific are due for a change"
+      ],
+      "section_path_text": "The Aframax trades in the Pacific are due for a change",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Aframax crude oil trades tend to have a regional focus. Some of the most important trading areas for Aframaxes are the US Gulf/Caribbean, the North Sea/Baltic and the Mediterranean.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "brazil",
+        "australia",
+        "pacific",
+        "west_africa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 884,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

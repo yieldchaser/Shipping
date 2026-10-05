@@ -1,0 +1,168 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2006_08_25_balancing_act__root",
+  "doc_id": "poten_tankers_no_date_poten_2006_08_25_balancing_act",
+  "parent_id": null,
+  "title": "Balancing Act",
+  "section_path": [
+    "Balancing Act"
+  ],
+  "section_path_text": "Balancing Act",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Balancing Act\nThe recent indications made by the Federal Reserve hinted at the idea that the U.S. Among the leading indicators that point to a potential slowdown in the economy are the decline in new home sales and orders for durable goods- cars, household appliances etc. Recently at an industry conference, Exxon Mobil Chairman and CEO Rex Tillerson commented that, \"[Oil] prices at these levels are not healthy for economies anywhere.\" This begs the question: how much will high oil prices impact global economic growth?",
+  "keywords": [
+    "crude_oil",
+    "products",
+    "gas",
+    "gasoline",
+    "sales",
+    "are",
+    "demand",
+    "not",
+    "prices",
+    "auto",
+    "consumption",
+    "economy"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 480,
+  "source_path": "reports/poten/2006/poten_2006-08-25_balancing-act.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_08_25_balancing_act__s01_balancing_act",
+      "doc_id": "poten_tankers_no_date_poten_2006_08_25_balancing_act",
+      "parent_id": "poten_tankers_no_date_poten_2006_08_25_balancing_act__root",
+      "title": "Balancing Act",
+      "section_path": [
+        "Balancing Act"
+      ],
+      "section_path_text": "Balancing Act",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The recent indications made by the Federal Reserve hinted at the idea that the U.S. Among the leading indicators that point to a potential slowdown in the economy are the decline in new home sales and orders for durable goods- cars, household appliances etc.",
+      "keywords": [
+        "crude_oil",
+        "are",
+        "economy",
+        "high",
+        "oil",
+        "prices",
+        "among",
+        "anywhere."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 108,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_08_25_balancing_act__s02_oil_prices",
+      "doc_id": "poten_tankers_no_date_poten_2006_08_25_balancing_act",
+      "parent_id": "poten_tankers_no_date_poten_2006_08_25_balancing_act__root",
+      "title": "Oil Prices",
+      "section_path": [
+        "Oil Prices"
+      ],
+      "section_path_text": "Oil Prices",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Change in GDP The chart on the previous page shows the quarter-on-quarter change in GDP experienced by the U.S. versus crude oil prices, and an outlook for 2007.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "energy",
+        "gdp",
+        "change",
+        "does",
+        "economy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 122,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_08_25_balancing_act__s03_auto_sales_2006",
+      "doc_id": "poten_tankers_no_date_poten_2006_08_25_balancing_act",
+      "parent_id": "poten_tankers_no_date_poten_2006_08_25_balancing_act__root",
+      "title": "Auto Sales - 2006",
+      "section_path": [
+        "Auto Sales - 2006"
+      ],
+      "section_path_text": "Auto Sales - 2006",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "auto",
+        "sales"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_08_25_balancing_act__s04_gasoline_demand_2005",
+      "doc_id": "poten_tankers_no_date_poten_2006_08_25_balancing_act",
+      "parent_id": "poten_tankers_no_date_poten_2006_08_25_balancing_act__root",
+      "title": "Gasoline Demand - 2005",
+      "section_path": [
+        "Gasoline Demand - 2005"
+      ],
+      "section_path_text": "Gasoline Demand - 2005",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Gasoline Demand - 2006 The graph above shows the total U.S. auto sales versus gasoline consumption for 2005 and 2006.",
+      "keywords": [
+        "products",
+        "gas",
+        "gasoline",
+        "sales",
+        "are",
+        "auto",
+        "consumption",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 118,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_08_25_balancing_act__s05_it_s_a_delicate_balance",
+      "doc_id": "poten_tankers_no_date_poten_2006_08_25_balancing_act",
+      "parent_id": "poten_tankers_no_date_poten_2006_08_25_balancing_act__root",
+      "title": "It's a Delicate Balance",
+      "section_path": [
+        "It's a Delicate Balance"
+      ],
+      "section_path_text": "It's a Delicate Balance",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "While demand for crude oil and economic growth are all good things, the price implications can sometimes prove to be unsustainable. Perhaps there is some gasoline demand 'correction' in the future, but it does not appear to be in the near term.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "demand",
+        "but",
+        "consumption",
+        "gasoline",
+        "less"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 95,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2013_04_26_the_growing_presence_of_the_united_states_as_energy_exporter__root",
+  "doc_id": "poten_tankers_no_date_poten_2013_04_26_the_growing_presence_of_the_united_states_as_energy_exporter",
+  "parent_id": null,
+  "title": "The Growing Presence of the United States as Energy Exporter",
+  "section_path": [
+    "The Growing Presence of the United States as Energy Exporter"
+  ],
+  "section_path_text": "The Growing Presence of the United States as Energy Exporter",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "US refined product\nA combination of increased crude oil production and slumping refined product demand has shifted refinery marketing dynamics in the United States. US distillate exports have increased from 1.01 million barrels per day (mbpd) in 2012 versus 172 thousand barrels per day (kbpd) in 2000. Although much attention has been placed on this five-fold increase, gasoline exports have also increased from 162 kbpd in 2000 to 505 kbpd in 2012.",
+  "keywords": [
+    "brazil",
+    "atlantic",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "gasoline",
+    "distillate",
+    "increased",
+    "exports",
+    "demand",
+    "production"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1058,
+  "source_path": "reports/poten/2013/poten_2013-04-26_the-growing-presence-of-the-united-states-as-energy-exporter.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_04_26_the_growing_presence_of_the_united_states_as_energy_exporter__s01_us_refined_product",
+      "doc_id": "poten_tankers_no_date_poten_2013_04_26_the_growing_presence_of_the_united_states_as_energy_exporter",
+      "parent_id": "poten_tankers_no_date_poten_2013_04_26_the_growing_presence_of_the_united_states_as_energy_exporter__root",
+      "title": "US refined product",
+      "section_path": [
+        "US refined product"
+      ],
+      "section_path_text": "US refined product",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "A combination of increased crude oil production and slumping refined product demand has shifted refinery marketing dynamics in the United States. US distillate exports have increased from 1.01 million barrels per day (mbpd) in 2012 versus 172 thousand barrels per day (kbpd) in 2000.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "exports",
+        "increased",
+        "kbpd",
+        "barrels",
+        "day"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 132,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_04_26_the_growing_presence_of_the_united_states_as_energy_exporter__s02_strongest_pickup_has",
+      "doc_id": "poten_tankers_no_date_poten_2013_04_26_the_growing_presence_of_the_united_states_as_energy_exporter",
+      "parent_id": "poten_tankers_no_date_poten_2013_04_26_the_growing_presence_of_the_united_states_as_energy_exporter__root",
+      "title": "Strongest pickup has",
+      "section_path": [
+        "Strongest pickup has"
+      ],
+      "section_path_text": "Strongest pickup has",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "been since middle of last decade, though distillate volumes falling of late",
+      "keywords": [
+        "decade",
+        "distillate",
+        "falling",
+        "last",
+        "late",
+        "middle",
+        "since",
+        "though"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_04_26_the_growing_presence_of_the_united_states_as_energy_exporter__s03_distillate",
+      "doc_id": "poten_tankers_no_date_poten_2013_04_26_the_growing_presence_of_the_united_states_as_energy_exporter",
+      "parent_id": "poten_tankers_no_date_poten_2013_04_26_the_growing_presence_of_the_united_states_as_energy_exporter__root",
+      "title": "Distillate",
+      "section_path": [
+        "Distillate"
+      ],
+      "section_path_text": "Distillate",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Gasoline The following tables show the most frequent destinations for US gasoline and distillate exports. Mexico has historically been the most active importer of both gasoline and distillate, having for many years sent crude oil to the US, and then importing refined products.",
+      "keywords": [
+        "brazil",
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "distillate",
+        "gasoline",
+        "fixtures"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 220,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_04_26_the_growing_presence_of_the_united_states_as_energy_exporter__s04_european_and_south",
+      "doc_id": "poten_tankers_no_date_poten_2013_04_26_the_growing_presence_of_the_united_states_as_energy_exporter",
+      "parent_id": "poten_tankers_no_date_poten_2013_04_26_the_growing_presence_of_the_united_states_as_energy_exporter__root",
+      "title": "European and South",
+      "section_path": [
+        "European and South"
+      ],
+      "section_path_text": "European and South",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "American importers demanding increasing quantities of US refined products",
+      "keywords": [
+        "products",
+        "american",
+        "demanding",
+        "importers",
+        "increasing",
+        "quantities",
+        "refined"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 10,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_04_26_the_growing_presence_of_the_united_states_as_energy_exporter__s05_rank",
+      "doc_id": "poten_tankers_no_date_poten_2013_04_26_the_growing_presence_of_the_united_states_as_energy_exporter",
+      "parent_id": "poten_tankers_no_date_poten_2013_04_26_the_growing_presence_of_the_united_states_as_energy_exporter__root",
+      "title": "Rank",
+      "section_path": [
+        "Rank"
+      ],
+      "section_path_text": "Rank",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "2000 2012 Distillate exports have grown at a clip of almost 16% per year since 2000, while gasoline exports have been growing just under 10% per year over the same period. Why are these incremental volumes available?",
+      "keywords": [
+        "products",
+        "gas",
+        "distillate",
+        "gasoline",
+        "increased",
+        "since",
+        "imports",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 234,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_04_26_the_growing_presence_of_the_united_states_as_energy_exporter__s06_production_increasing_in",
+      "doc_id": "poten_tankers_no_date_poten_2013_04_26_the_growing_presence_of_the_united_states_as_energy_exporter",
+      "parent_id": "poten_tankers_no_date_poten_2013_04_26_the_growing_presence_of_the_united_states_as_energy_exporter__root",
+      "title": "Production increasing in",
+      "section_path": [
+        "Production increasing in"
+      ],
+      "section_path_text": "Production increasing in",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "the face of declining consumption and flat stocks",
+      "keywords": [
+        "consumption",
+        "declining",
+        "face",
+        "flat",
+        "stocks"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_04_26_the_growing_presence_of_the_united_states_as_energy_exporter__s07_consume",
+      "doc_id": "poten_tankers_no_date_poten_2013_04_26_the_growing_presence_of_the_united_states_as_energy_exporter",
+      "parent_id": "poten_tankers_no_date_poten_2013_04_26_the_growing_presence_of_the_united_states_as_energy_exporter__root",
+      "title": "Consume",
+      "section_path": [
+        "Consume"
+      ],
+      "section_path_text": "Consume",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Production Stocks (rhs) US refiners have benefited from increased demand for distillate and gasoline in two ways. First, these refiners increased their distillation, FCC, and hydrocracker capacities in anticipation of an increase in US demand that did not materialize.",
+      "keywords": [
+        "atlantic",
+        "europe",
+        "products",
+        "gas",
+        "gasoline",
+        "increased",
+        "moving",
+        "refiners"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 280,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_04_26_the_growing_presence_of_the_united_states_as_energy_exporter__s08_mr_deliveries_have_been",
+      "doc_id": "poten_tankers_no_date_poten_2013_04_26_the_growing_presence_of_the_united_states_as_energy_exporter",
+      "parent_id": "poten_tankers_no_date_poten_2013_04_26_the_growing_presence_of_the_united_states_as_energy_exporter__root",
+      "title": "MR deliveries have been",
+      "section_path": [
+        "MR deliveries have been"
+      ],
+      "section_path_text": "MR deliveries have been",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "strong, but orderbook is even stronger",
+      "keywords": [
+        "but",
+        "even",
+        "orderbook",
+        "strong",
+        "stronger"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_04_26_the_growing_presence_of_the_united_states_as_energy_exporter__s09_16_years",
+      "doc_id": "poten_tankers_no_date_poten_2013_04_26_the_growing_presence_of_the_united_states_as_energy_exporter",
+      "parent_id": "poten_tankers_no_date_poten_2013_04_26_the_growing_presence_of_the_united_states_as_energy_exporter__root",
+      "title": "16+ Years",
+      "section_path": [
+        "16+ Years"
+      ],
+      "section_path_text": "16+ Years",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "The prospect of crude oil exports from the United States, a result of increasing North American tight oil production, continues to gain steam among energy analysts. Such discussions conjure protectionist thoughts among many in Washington, but the fact is that the US is increasingly playing the role of energy exporter already.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "among",
+        "crude",
+        "demand",
+        "energy",
+        "production",
+        "already."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 92,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_04_26_the_growing_presence_of_the_united_states_as_energy_exporter__s10_continuation_of_us_trend",
+      "doc_id": "poten_tankers_no_date_poten_2013_04_26_the_growing_presence_of_the_united_states_as_energy_exporter",
+      "parent_id": "poten_tankers_no_date_poten_2013_04_26_the_growing_presence_of_the_united_states_as_energy_exporter__root",
+      "title": "Continuation of US trend",
+      "section_path": [
+        "Continuation of US trend"
+      ],
+      "section_path_text": "Continuation of US trend",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "would support clean demand, but will owners overorder?",
+      "keywords": [
+        "but",
+        "clean",
+        "demand",
+        "overorder",
+        "owners",
+        "support",
+        "would"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

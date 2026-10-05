@@ -98,7 +98,7 @@ numeric_observations:
   unit: pct
   values:
   - 3628.0
-  - 13870.0
+  - 13.87
 - section: Market Report Content
   section_type: null
   source_line: restricted regional agricultural outflows-with monthly wheat shipments
@@ -112,7 +112,7 @@ numeric_observations:
     the ongoing closure of the Strait of
   unit: null
   values:
-  - 6300.0
+  - 6.3
 - section: Market Report Content
   section_type: null
   source_line: Hormuz has stalled roughly a quarter of global fertiliser trade and
@@ -127,7 +127,7 @@ numeric_observations:
     points, and stands as the highest
   unit: pct
   values:
-  - 13870.0
+  - 13.87
   - 3628.0
 - section: Market Report Content
   section_type: null
@@ -142,7 +142,7 @@ numeric_observations:
     chartering from the three major
   unit: pct
   values:
-  - 20400.0
+  - 20.4
   - 6427.0
 - section: Market Report Content
   section_type: null
@@ -212,19 +212,19 @@ numeric_observations:
   source_line: 'WoW: +13.87%'
   unit: pct
   values:
-  - 13870.0
+  - 13.87
 - section: Market Report Content
   section_type: null
   source_line: 'YoY: +83.32%'
   unit: pct
   values:
-  - 83320.0
+  - 83.32
 - section: Market Report Content
   section_type: null
   source_line: 'WoW: +20.45%'
   unit: pct
   values:
-  - 20450.0
+  - 20.45
 - section: Market Report Content
   section_type: null
   source_line: 'YoY: +126.70%'
@@ -236,13 +236,13 @@ numeric_observations:
   source_line: 'WoW: +5.75%'
   unit: pct
   values:
-  - 5750.0
+  - 5.75
 - section: Market Report Content
   section_type: null
   source_line: 'YoY: +35.85%'
   unit: pct
   values:
-  - 35850.0
+  - 35.85
 - section: Market Report Content
   section_type: null
   source_line: 'WoW: +1.70%'
@@ -254,7 +254,7 @@ numeric_observations:
   source_line: 'YoY: +15.04%'
   unit: pct
   values:
-  - 15040.0
+  - 15.04
 - section: Market Report Content
   section_type: null
   source_line: 'WoW: +2.16%'
@@ -266,7 +266,7 @@ numeric_observations:
   source_line: 'YoY: +14.36%'
   unit: pct
   values:
-  - 14360.0
+  - 14.36
 - section: Market Report Content
   section_type: null
   source_line: CAPESIZE 180,000 $76M $82M $71M $56M (E) $35M
@@ -308,7 +308,7 @@ numeric_observations:
   values:
   - 180120.0
   - 2010.0
-  - 38000.0
+  - 38.0
 - section: Market Report Content
   section_type: null
   source_line: NBA PEACE CAPE 174,766 2004 / CHINA 19.0 UNDISCLOSED
@@ -316,7 +316,7 @@ numeric_observations:
   values:
   - 174766.0
   - 2004.0
-  - 19000.0
+  - 19.0
 - section: Market Report Content
   section_type: null
   source_line: KM MT. JADE KMAX 81,487 2008 / JAPAN 15.0 UNDISCLOSED
@@ -324,7 +324,7 @@ numeric_observations:
   values:
   - 81487.0
   - 2008.0
-  - 15000.0
+  - 15.0
 - section: Market Report Content
   section_type: null
   source_line: HARVEST SMAX 58,779 2008 / CHINA 13.8 UNDISCLOSED
@@ -332,7 +332,7 @@ numeric_observations:
   values:
   - 58779.0
   - 2008.0
-  - 13800.0
+  - 13.8
 - section: Market Report Content
   section_type: null
   source_line: KANCHANA NAREE SMAX 56,920 2011 / CHINA 14.6 CHINESE BUYERS
@@ -340,7 +340,7 @@ numeric_observations:
   values:
   - 56920.0
   - 2011.0
-  - 14600.0
+  - 14.6
 - section: Market Report Content
   section_type: null
   source_line: CBW LIAN YUN GANG SMAX 56,869 2011 / CHINA 10.5 MIDDLE EASTERN
@@ -348,7 +348,7 @@ numeric_observations:
   values:
   - 56869.0
   - 2011.0
-  - 10500.0
+  - 10.5
 - section: Market Report Content
   section_type: null
   source_line: FLC HAPPINESS SMAX 56,799 2009 / CHINA 13.0 CHINESE BUYERS
@@ -356,7 +356,7 @@ numeric_observations:
   values:
   - 56799.0
   - 2009.0
-  - 13000.0
+  - 13.0
 - section: Market Report Content
   section_type: null
   source_line: SILVER STAR SMAX 55,725 2006 / JAPAN 8.6 CHINESE BUYERS
@@ -364,7 +364,7 @@ numeric_observations:
   values:
   - 55725.0
   - 2006.0
-  - 8600.0
+  - 8.6
 - section: Market Report Content
   section_type: null
   source_line: OCEAN GLORY HMAX 48,437 2001 / JAPAN 5.7 UNDISCLOSED
@@ -372,7 +372,7 @@ numeric_observations:
   values:
   - 48437.0
   - 2001.0
-  - 5700.0
+  - 5.7
 - section: Market Report Content
   section_type: null
   source_line: DEVBULK SINEM HANDY 38,009 2013 / VIETNAM 15.2 DUTCH BUYERS
@@ -380,7 +380,7 @@ numeric_observations:
   values:
   - 38009.0
   - 2013.0
-  - 15200.0
+  - 15.2
 - section: Market Report Content
   section_type: null
   source_line: snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 4
@@ -659,7 +659,7 @@ numeric_observations:
   values:
   - 320261.0
   - 2011.0
-  - 97000.0
+  - 97.0
 - section: Market Report Content
   section_type: null
   source_line: CAPE BENAT SUEZ 156,642 2010 / CHINA 62.5 LILA GLOBAL
@@ -667,7 +667,7 @@ numeric_observations:
   values:
   - 156642.0
   - 2010.0
-  - 62500.0
+  - 62.5
 - section: Market Report Content
   section_type: null
   source_line: ICE SUPREME SUEZ 146,356 2007 / JAPAN 56.0 GREEK BUYER
@@ -675,7 +675,7 @@ numeric_observations:
   values:
   - 146356.0
   - 2007.0
-  - 56000.0
+  - 56.0
 - section: Market Report Content
   section_type: null
   source_line: MINERVA NOUNOU AFRA 114,850 2006 / S. KOREA 40.1 CHINESE BUYERS
@@ -683,7 +683,7 @@ numeric_observations:
   values:
   - 114850.0
   - 2006.0
-  - 40100.0
+  - 40.1
 - section: Market Report Content
   section_type: null
   source_line: CABO SAN VICENTE LR1 63,605 2008 / S. KOREA 22.0 GREEK BUYERS
@@ -692,7 +692,7 @@ numeric_observations:
   - 1.0
   - 63605.0
   - 2008.0
-  - 22000.0
+  - 22.0
 - section: Market Report Content
   section_type: null
   source_line: MINERVA XANTHE MR 50,922 2006 / S. KOREA 16.0 CHINESE BUYERS
@@ -700,7 +700,7 @@ numeric_observations:
   values:
   - 50922.0
   - 2006.0
-  - 16000.0
+  - 16.0
 - section: Market Report Content
   section_type: null
   source_line: WINFORT MR 47,171 2005 / CROATIA 13.0 UNDISCLOSED
@@ -708,7 +708,7 @@ numeric_observations:
   values:
   - 47171.0
   - 2005.0
-  - 13000.0
+  - 13.0
 - section: Market Report Content
   section_type: null
   source_line: CONCEPT MR 47,171 2005 / CROATIA 13.0 UNDISCLOSED
@@ -716,7 +716,7 @@ numeric_observations:
   values:
   - 47171.0
   - 2005.0
-  - 13000.0
+  - 13.0
 - section: Market Report Content
   section_type: null
   source_line: CHEM 14,367 2008 / JAPAN 14.3 (STST) ASIAN BUYERS
@@ -724,7 +724,7 @@ numeric_observations:
   values:
   - 14367.0
   - 2008.0
-  - 14300.0
+  - 14.3
 - section: Market Report Content
   section_type: null
   source_line: snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 7
@@ -803,11 +803,11 @@ numeric_observations:
     to 43.2%, as cascading vessel
   unit: pct
   values:
-  - 19200.0
+  - 19.2
   - 21.0
-  - 20100.0
-  - 34600.0
-  - 43200.0
+  - 20.1
+  - 34.6
+  - 43.2
 - section: Market Report Content
   section_type: null
   source_line: 900 - 1,200 Geared $25M $29M $23M $18M $12M
@@ -851,7 +851,7 @@ numeric_observations:
   values:
   - 4730.0
   - 2008.0
-  - 34500.0
+  - 34.5
 - section: Market Report Content
   section_type: null
   source_line: snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 9

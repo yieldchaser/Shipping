@@ -1,0 +1,140 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_09_26_clean_cuts__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_09_26_clean_cuts",
+  "parent_id": null,
+  "title": "Clean Cuts",
+  "section_path": [
+    "Clean Cuts"
+  ],
+  "section_path_text": "Clean Cuts",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Clean Cuts\nOne market that has stood out rate-wise recently is the clean product trade in the East. While freight rates for the Aframaxes in the East trading dirty cargo saw a sharp decline recently, rates for the clean product trade appear to have been unaffected. The chart below shows the relationship on a time charter equivalent (TCE) basis for Aframaxes trading Arabian Gulf to Southeast Asia on 80kt and Long-Range 2 (LR2) product carriers trading Arabian Gulf - Far East on 75kt carrying clean products.",
+  "keywords": [
+    "aframax",
+    "brazil",
+    "meg",
+    "products",
+    "clean",
+    "trading",
+    "dirty",
+    "east",
+    "far",
+    "product",
+    "aframaxes",
+    "arabian"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 591,
+  "source_path": "reports/poten/2008/poten_2008-09-26_clean-cuts.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_09_26_clean_cuts__s01_clean_cuts",
+      "doc_id": "poten_tankers_no_date_poten_2008_09_26_clean_cuts",
+      "parent_id": "poten_tankers_no_date_poten_2008_09_26_clean_cuts__root",
+      "title": "Clean Cuts",
+      "section_path": [
+        "Clean Cuts"
+      ],
+      "section_path_text": "Clean Cuts",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "One market that has stood out rate-wise recently is the clean product trade in the East. While freight rates for the Aframaxes in the East trading dirty cargo saw a sharp decline recently, rates for the clean product trade appear to have been unaffected.",
+      "keywords": [
+        "aframax",
+        "brazil",
+        "meg",
+        "products",
+        "clean",
+        "product",
+        "trading",
+        "aframaxes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 188,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_09_26_clean_cuts__s02_get_dirty",
+      "doc_id": "poten_tankers_no_date_poten_2008_09_26_clean_cuts",
+      "parent_id": "poten_tankers_no_date_poten_2008_09_26_clean_cuts__root",
+      "title": "Get Dirty?",
+      "section_path": [
+        "Get Dirty?"
+      ],
+      "section_path_text": "Get Dirty?",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Ships that have coated cargo tanks have improved trading flexibility and can carry dirty cargoes as well as clean petroleum products. Shipowners can transition between clean and dirty trading, but cost and time associated with cleaning the cargo tanks must be warranted by higher earning potential.",
+      "keywords": [
+        "aframax",
+        "meg",
+        "products",
+        "trading",
+        "clean",
+        "dirty",
+        "aframaxes",
+        "cargo"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 211,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_09_26_clean_cuts__s03_crude_carrier",
+      "doc_id": "poten_tankers_no_date_poten_2008_09_26_clean_cuts",
+      "parent_id": "poten_tankers_no_date_poten_2008_09_26_clean_cuts__root",
+      "title": "Crude Carrier",
+      "section_path": [
+        "Crude Carrier"
+      ],
+      "section_path_text": "Crude Carrier",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "carrier",
+        "product"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_09_26_clean_cuts__s04_easy_come_easy_go",
+      "doc_id": "poten_tankers_no_date_poten_2008_09_26_clean_cuts",
+      "parent_id": "poten_tankers_no_date_poten_2008_09_26_clean_cuts__root",
+      "title": "Easy Come, Easy Go",
+      "section_path": [
+        "Easy Come, Easy Go"
+      ],
+      "section_path_text": "Easy Come, Easy Go",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The ebb and flow of the clean product trade is driven by refinery runs and the price relationships between the markets. With demand for refined products in the Far East facing downward pressure, the region's refiners have reduced their runs.",
+      "keywords": [
+        "meg",
+        "products",
+        "demand",
+        "east",
+        "far",
+        "naphtha",
+        "arabian",
+        "cargoes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 172,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

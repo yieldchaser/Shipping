@@ -141,7 +141,7 @@ numeric_observations:
     at USD 24.4 Mn
   unit: usd
   values:
-  - 24400.0
+  - 24.4
 - section: Market Report Content
   section_type: null
   source_line: boosting sentiment. Rates jumped from WS 260 to WS 330! Guyana followed
@@ -229,7 +229,7 @@ numeric_observations:
     6.5 Mn has
   unit: usd
   values:
-  - 6500.0
+  - 6.5
 - section: Market Report Content
   section_type: null
   source_line: have not been thoroughly tested publicly, but freight can be estimated
@@ -404,9 +404,9 @@ numeric_observations:
   source_line: Δ W-O-W 9.2 9.1 10.9
   unit: null
   values:
-  - 9200.0
-  - 9100.0
-  - 10900.0
+  - 9.2
+  - 9.1
+  - 10.9
 - section: Market Report Content
   section_type: null
   source_line: 6 Route Qty $ / Day W-O-W

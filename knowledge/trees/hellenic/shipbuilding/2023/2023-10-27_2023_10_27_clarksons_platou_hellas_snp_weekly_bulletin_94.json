@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNew Building - In tankers this week, James Fisher signed two firm, plus two optional\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-10-27_clarksons-platou-hellas-snp-weekly-bulletin-94_report-27-10-2023_15ede91ba3b0.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-10-27_clarksons-platou-hellas-snp-weekly-bulletin-94_report-27-10-2023_15ede91ba3b0.pdf\n\n[Page 1]\nClarksons Hellas Weekly Bulletin 27th October 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 5S60MC C8.2\nASL NEPTUNE 82,372 2009 OSHIMA SS 04/24 USD 16.2 M GREEKS\nBWTS fitted\nDD 04/24\nMAN B. 6S60ME-C8.2\n81,005 2014 JMU BWTS fitted SS 08/24 USD 27.4 M U/D\nBRENDA\nSCRUBBER fitted DD 08/24\nMAN B.",
+  "summary": "Main\nNew Building - In tankers this week, James Fisher signed two firm, plus two optional\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-10-27_clarksons-platou-hellas-snp-weekly-bulletin-94_report-27-10-2023_15ede91ba3b0.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2023-10-27_clarksons-platou-hellas-snp-weekly-bulletin-94_report-27-10-2023_15ede91ba3b0.pdf\n\n**th**\n\n# Clarksons Hellas Weekly Bulletin27 October 2023\n\n# Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n|ASL NEPTUNE|82,372|2009 OSHIMA|MAN B. 5S60MC C8.2 BWTS fitted|SS 04/24 DD 04/24|USD 16.2 M|GREEKS|\n|BRENDA|81,005|2014 JMU|MAN B. 6S60ME-C8.2 BWTS fitted SCRUBBER fitted|SS 08/24 DD 08/24|USD 27.4 M|U/D|\n|IOANNA POL|50,238|2004 MITSUI|MAN B.",
   "keywords": [
     "lng",
     "lpg",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1921,
-  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-10-27_clarksons-platou-hellas-snp-weekly-bulletin-94.html",
+  "token_count": 1931,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-10-27_clarksons-platou-hellas-snp-weekly-bulletin-94.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-94",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-10-27_clarksons-platou-hellas-snp-weekly-bulletin-94_report-27-10-2023_15ede91ba3b0.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-10-27_clarksons-platou-hellas-snp-weekly-bulletin-94_report-27-10-2023_15ede91ba3b0.pdf\n\n[Page 1]\nClarksons Hellas Weekly Bulletin 27th October 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 5S60MC C8.2\nASL NEPTUNE 82,372 2009 OSHIMA SS 04/24 USD 16.2 M GREEKS\nBWTS fitted\nDD 04/24\nMAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-10-27_clarksons-platou-hellas-snp-weekly-bulletin-94_report-27-10-2023_15ede91ba3b0.pdf\n\n**th**\n\n# Clarksons Hellas Weekly Bulletin27 October 2023\n\n# Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n|ASL NEPTUNE|82,372|2009 OSHIMA|MAN B. 5S60MC C8.2 BWTS fitted|SS 04/24 DD 04/24|USD 16.2 M|GREEKS|\n|BRENDA|81,005|2014 JMU|MAN B.",
       "keywords": [
         "lng",
         "lpg",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1844,
+      "token_count": 1854,
       "section_type": "linked_pdf",
       "children": []
     }

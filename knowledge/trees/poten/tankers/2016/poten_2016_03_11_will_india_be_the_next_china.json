@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2016_03_11_will_india_be_the_next_china__root",
+  "doc_id": "poten_tankers_no_date_poten_2016_03_11_will_india_be_the_next_china",
+  "parent_id": null,
+  "title": "Will India Be the Next China",
+  "section_path": [
+    "Will India Be the Next China"
+  ],
+  "section_path_text": "Will India Be the Next China",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Which tanker segments will benefit from India's growth? In recent months, a consensus view has been forming that India will be replacing China as the center of the world's oil demand growth. In the most recent Medium-Term Oil Market Report, the IEA describes the Indian demand outlook as \"particularly favorable\", with 1.1 million barrels per day (mb/d) of demand forecast to be added to 2021, an average annual increase of 4.2%.",
+  "keywords": [
+    "china",
+    "west_africa",
+    "india",
+    "crude_oil",
+    "products",
+    "gas",
+    "oil",
+    "demand",
+    "growth",
+    "b/d",
+    "crude",
+    "indian"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 810,
+  "source_path": "reports/poten/2016/poten_2016-03-11_will-india-be-the-next-china.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_03_11_will_india_be_the_next_china__s01_which_tanker_segments_will_benefit_from_india_s_growth",
+      "doc_id": "poten_tankers_no_date_poten_2016_03_11_will_india_be_the_next_china",
+      "parent_id": "poten_tankers_no_date_poten_2016_03_11_will_india_be_the_next_china__root",
+      "title": "Which tanker segments will benefit from India's growth?",
+      "section_path": [
+        "Which tanker segments will benefit from India's growth?"
+      ],
+      "section_path_text": "Which tanker segments will benefit from India's growth?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In recent months, a consensus view has been forming that India will be replacing China as the center of the world's oil demand growth. In the most recent Medium-Term Oil Market Report, the IEA describes the Indian demand outlook as \"particularly favorable\", with 1.1 million barrels per day (mb/d) of demand forecast to be added to 2021, an average annual increase of 4.2%.",
+      "keywords": [
+        "china",
+        "west_africa",
+        "india",
+        "crude_oil",
+        "products",
+        "gas",
+        "oil",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 800,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -9,7 +9,7 @@
   "section_path_text": "Breakwave Tanker Report 5.5.2026",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nVLCC Atlantic Support vs AG Uncertainty - Since the onset of the geopolitical disruption, what initially appeared\nSource: Breakwave Advisors\n\nLinked asset: 2026-05-05_breakwave-tanker-report-5-5-2026_breakwavetankersmay52026report_25ccc44d71d8.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2026-05-05_breakwave-tanker-report-5-5-2026_breakwavetankersmay52026report_25ccc44d71d8.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nMay 5, 2026\n• VLCC Atlantic Support vs AG Uncertainty - Since the onset of the geopolitical\nShort-term Indicators\ndisruption, what initially appeared to be a short-term reaction in the VLCC market is\nMomentum: Neutral\nnow developing into a more meaningful shift, with a clearer divide emerging\nbetween the AG and the Atlantic. In the Middle East, transit risk through the Strait Sentiment: Neutral\nof Hormuz remains the key issue. \"freedom of Fundamentals: Positive\nnavigation\" plan aimed at releasing vessels effectively trapped in the region have\nadded further uncertainty, particularly given Iran's opposition.",
+  "summary": "Main\nVLCC Atlantic Support vs AG Uncertainty - Since the onset of the geopolitical disruption, what initially appeared\nSource: Breakwave Advisors\n\nLinked asset: 2026-05-05_breakwave-tanker-report-5-5-2026_breakwavetankersmay52026report_25ccc44d71d8.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2026-05-05_breakwave-tanker-report-5-5-2026_breakwavetankersmay52026report_25ccc44d71d8.pdf\n\n# Tanker Shipping\n\n## Bi-Weekly Industry Report\n\n### May 5, 2026\n\n- **VLCC Atlantic Support vs AG Uncertainty -** Since the onset of the geopolitical disruption, what initially appeared to be a short-term reaction in the VLCC market is now developing into a more meaningful shift, with a **clearer divide** emerging between the **AG and the Atlantic**. In the Middle East, transit risk through the Strait of Hormuz remains the key issue. \"freedom of navigation\" plan aimed at releasing vessels effectively trapped in the region have added further uncertainty, particularly given Iran's opposition.",
   "keywords": [
     "vlcc",
     "suezmax",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1788,
-  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-05-05_breakwave-tanker-report-5-5-2026.html",
+  "token_count": 1877,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-05-05_breakwave-tanker-report-5-5-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-5-5-2026",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-05-05_breakwave-tanker-report-5-5-2026_breakwavetankersmay52026report_25ccc44d71d8.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-05-05_breakwave-tanker-report-5-5-2026_breakwavetankersmay52026report_25ccc44d71d8.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nMay 5, 2026\n• VLCC Atlantic Support vs AG Uncertainty - Since the onset of the geopolitical\nShort-term Indicators\ndisruption, what initially appeared to be a short-term reaction in the VLCC market is\nMomentum: Neutral\nnow developing into a more meaningful shift, with a clearer divide emerging\nbetween the AG and the Atlantic. In the Middle East, transit risk through the Strait Sentiment: Neutral\nof Hormuz remains the key issue.",
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-05-05_breakwave-tanker-report-5-5-2026_breakwavetankersmay52026report_25ccc44d71d8.pdf\n\n# Tanker Shipping\n\n## Bi-Weekly Industry Report\n\n### May 5, 2026\n\n- **VLCC Atlantic Support vs AG Uncertainty -** Since the onset of the geopolitical disruption, what initially appeared to be a short-term reaction in the VLCC market is now developing into a more meaningful shift, with a **clearer divide** emerging between the **AG and the Atlantic**. In the Middle East, transit risk through the Strait of Hormuz remains the key issue.",
       "keywords": [
         "vlcc",
         "suezmax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1718,
+      "token_count": 1807,
       "section_type": "linked_pdf",
       "children": []
     }

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2014_11_07_shipowners_pleased_with_energy_east__root",
+  "doc_id": "poten_tankers_no_date_poten_2014_11_07_shipowners_pleased_with_energy_east",
+  "parent_id": null,
+  "title": "Shipowners Pleased With Energy East",
+  "section_path": [
+    "Shipowners Pleased With Energy East"
+  ],
+  "section_path_text": "Shipowners Pleased With Energy East",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The proposed Energy East Pipeline will be a game-\nShipowners Pleased With Energy East sands based crude arrived in Montreal via rail and these were likely one- offs. However, the potential for exports could increase significantly when Enbridge's reversal of Line 9 (currently running from Montreal to Westover, Ontario) is completed, bringing an additional 300,000 b/d of mostly heavy sour crudes, as well as some U.S. However, the big changes will happen by the end of 2018, when the Energy East pipeline is projected to be finished.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "europe",
+    "india",
+    "us_gulf",
+    "crude_oil",
+    "crude",
+    "east",
+    "canadian"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 757,
+  "source_path": "reports/poten/2014/poten_2014-11-07_shipowners-pleased-with-energy-east.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_11_07_shipowners_pleased_with_energy_east__s01_the_proposed_energy_east_pipeline_will_be_a_game",
+      "doc_id": "poten_tankers_no_date_poten_2014_11_07_shipowners_pleased_with_energy_east",
+      "parent_id": "poten_tankers_no_date_poten_2014_11_07_shipowners_pleased_with_energy_east__root",
+      "title": "The proposed Energy East Pipeline will be a game-",
+      "section_path": [
+        "The proposed Energy East Pipeline will be a game-"
+      ],
+      "section_path_text": "The proposed Energy East Pipeline will be a game-",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Shipowners Pleased With Energy East sands based crude arrived in Montreal via rail and these were likely one- offs. However, the potential for exports could increase significantly when Enbridge's reversal of Line 9 (currently running from Montreal to Westover, Ontario) is completed, bringing an additional 300,000 b/d of mostly heavy sour crudes, as well as some U.S.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "atlantic",
+        "meg",
+        "west_africa",
+        "europe",
+        "india",
+        "us_gulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 747,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

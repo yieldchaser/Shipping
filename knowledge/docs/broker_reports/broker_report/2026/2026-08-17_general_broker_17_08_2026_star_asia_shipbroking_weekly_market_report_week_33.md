@@ -97,7 +97,7 @@ numeric_observations:
   unit: pct
   values:
   - 2863.0
-  - 7320.0
+  - 7.32
 - section: Market Report Content
   section_type: null
   source_line: main Baltic Dry Index pulled back after its recent weather-driven surge,
@@ -124,7 +124,7 @@ numeric_observations:
     contrast, BPI posted a 3% drop over the
   unit: pct
   values:
-  - 11500.0
+  - 11.5
   - 3.0
 - section: Market Report Content
   section_type: null
@@ -209,7 +209,7 @@ numeric_observations:
   source_line: 'YoY: +40.07%'
   unit: pct
   values:
-  - 40070.0
+  - 40.07
 - section: Market Report Content
   section_type: null
   source_line: 'WoW: -11.51%'
@@ -221,7 +221,7 @@ numeric_observations:
   source_line: 'YoY: +37.72%'
   unit: pct
   values:
-  - 37720.0
+  - 37.72
 - section: Market Report Content
   section_type: null
   source_line: 'WoW: -3.05%'
@@ -233,7 +233,7 @@ numeric_observations:
   source_line: 'YoY: +37.36%'
   unit: pct
   values:
-  - 37360.0
+  - 37.36
 - section: Market Report Content
   section_type: null
   source_line: 'WoW: +1.19%'
@@ -245,7 +245,7 @@ numeric_observations:
   source_line: 'YoY: +19.88%'
   unit: pct
   values:
-  - 19880.0
+  - 19.88
 - section: Market Report Content
   section_type: null
   source_line: 'WoW: -0.92%'
@@ -257,7 +257,7 @@ numeric_observations:
   source_line: 'YoY: +24.07%'
   unit: pct
   values:
-  - 24070.0
+  - 24.07
 - section: Market Report Content
   section_type: null
   source_line: CAPESIZE 180,000 $76M $82M $71M $56M (E) $35M
@@ -299,7 +299,7 @@ numeric_observations:
   values:
   - 182162.0
   - 2022.0
-  - 50000.0
+  - 50.0
 - section: Market Report Content
   section_type: null
   source_line: ORANGE TIGER CAPE 181,395 2011 / JAPAN 36.5 UNDISCLOSED
@@ -307,7 +307,7 @@ numeric_observations:
   values:
   - 181395.0
   - 2011.0
-  - 36500.0
+  - 36.5
 - section: Market Report Content
   section_type: null
   source_line: AQUAVITA AIM KMAX 82,192 2019 / JAPAN 38.2 EUROPEAN
@@ -315,7 +315,7 @@ numeric_observations:
   values:
   - 82192.0
   - 2019.0
-  - 38200.0
+  - 38.2
 - section: Market Report Content
   section_type: null
   source_line: VELOS JASPER KMAX 82,030 2012 / JAPAN 23.5 UNDISCLOSED
@@ -323,7 +323,7 @@ numeric_observations:
   values:
   - 82030.0
   - 2012.0
-  - 23500.0
+  - 23.5
 - section: Market Report Content
   section_type: null
   source_line: MEDI POSITANO KMAX 81,661 2015 / JAPAN 31.6 UNDISCLOSED
@@ -331,7 +331,7 @@ numeric_observations:
   values:
   - 81661.0
   - 2015.0
-  - 31600.0
+  - 31.6
 - section: Market Report Content
   section_type: null
   source_line: ROYAL HOPE KMAX 81,011 2015 / JAPAN 30.8 UNDISCLOSED
@@ -339,7 +339,7 @@ numeric_observations:
   values:
   - 81011.0
   - 2015.0
-  - 30800.0
+  - 30.8
 - section: Market Report Content
   section_type: null
   source_line: UNION LOTUS UMAX 63,685 2015 / CHINA 25.0 UNDISCLOSED
@@ -347,7 +347,7 @@ numeric_observations:
   values:
   - 63685.0
   - 2015.0
-  - 25000.0
+  - 25.0
 - section: Market Report Content
   section_type: null
   source_line: RONG FU HANDY 28,419 1999 / JAPAN 4.8 CHINESE BUYERS
@@ -630,7 +630,7 @@ numeric_observations:
   values:
   - 50353.0
   - 2004.0
-  - 11900.0
+  - 11.9
 - section: Market Report Content
   section_type: null
   source_line: ANCHOR 18 PROD /
@@ -644,7 +644,7 @@ numeric_observations:
   values:
   - 19971.0
   - 2009.0
-  - 16400.0
+  - 16.4
 - section: Market Report Content
   section_type: null
   source_line: snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 7
@@ -783,7 +783,7 @@ numeric_observations:
   values:
   - 2262.0
   - 2002.0
-  - 13500.0
+  - 13.5
 - section: Market Report Content
   section_type: null
   source_line: A ONTAKE FEEDER 1,096 2023 / JAPAN 26.8 UNDISCLOSED
@@ -791,7 +791,7 @@ numeric_observations:
   values:
   - 1096.0
   - 2023.0
-  - 26800.0
+  - 26.8
 - section: Market Report Content
   section_type: null
   source_line: snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 9
@@ -1018,8 +1018,8 @@ numeric_observations:
     borrowing costs and industrial
   unit: pct
   values:
-  - 5250.0
-  - 6700.0
+  - 5.25
+  - 6.7
 - section: Market Report Content
   section_type: null
   source_line: Alang Anchorage & Beaching Position - August 2026

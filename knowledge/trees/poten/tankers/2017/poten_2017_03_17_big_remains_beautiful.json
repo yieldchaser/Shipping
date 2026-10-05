@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2017_03_17_big_remains_beautiful__root",
+  "doc_id": "poten_tankers_no_date_poten_2017_03_17_big_remains_beautiful",
+  "parent_id": null,
+  "title": "Big Remains Beautiful",
+  "section_path": [
+    "Big Remains Beautiful"
+  ],
+  "section_path_text": "Big Remains Beautiful",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "VLCC ton-mile demand continues to show healthy growth\nGlobal VLCC trades are dominated by two regions: exports are primarily coming from the countries around the Arabian Gulf and the destination of most of the worlds' crude oil is Asia. The most recent movement data from Lloyd's List Intelligence confirms this once again. VLCC ton-mile demand in 2016 was a solid 6.6% higher than in 2015, driven largely by a 10% increase in exports from the Middle East.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "australia",
+    "meg",
+    "west_africa",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "crude_oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 867,
+  "source_path": "reports/poten/2017/poten_2017-03-17_big-remains-beautiful.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2017_03_17_big_remains_beautiful__s01_vlcc_ton_mile_demand_continues_to_show_healthy_growth",
+      "doc_id": "poten_tankers_no_date_poten_2017_03_17_big_remains_beautiful",
+      "parent_id": "poten_tankers_no_date_poten_2017_03_17_big_remains_beautiful__root",
+      "title": "VLCC ton-mile demand continues to show healthy growth",
+      "section_path": [
+        "VLCC ton-mile demand continues to show healthy growth"
+      ],
+      "section_path_text": "VLCC ton-mile demand continues to show healthy growth",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Global VLCC trades are dominated by two regions: exports are primarily coming from the countries around the Arabian Gulf and the destination of most of the worlds' crude oil is Asia. The most recent movement data from Lloyd's List Intelligence confirms this once again.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "australia",
+        "meg",
+        "west_africa",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 856,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

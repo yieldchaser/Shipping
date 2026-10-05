@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 31,
+  "token_count": 1198,
   "source_path": "reports/hellenic/demolition/2026/2026-07-18_best-oasis-weekly-recycling-market-report-17-july-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-17-july-2026",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 29,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2026-07-18_2026_07_18_best_oasis_weekly_recycling_market_report_17_july_2026__s02_linked_asset_2026_07_18_best_oasis_weekly_recycling_market_report_17_july_2026_weekly_ship_recycling_report_11_july_6cff93a35a42_pdf",
+      "doc_id": "hellenic_demolition_2026-07-18_2026_07_18_best_oasis_weekly_recycling_market_report_17_july_2026",
+      "parent_id": "hellenic_demolition_2026-07-18_2026_07_18_best_oasis_weekly_recycling_market_report_17_july_2026__root",
+      "title": "Linked asset: 2026-07-18_best-oasis-weekly-recycling-market-report-17-july-2026_weekly-ship-recycling-report-11-july_6cff93a35a42.pdf",
+      "section_path": [
+        "Linked asset: 2026-07-18_best-oasis-weekly-recycling-market-report-17-july-2026_weekly-ship-recycling-report-11-july_6cff93a35a42.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-07-18_best-oasis-weekly-recycling-market-report-17-july-2026_weekly-ship-recycling-report-11-july_6cff93a35a42.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2026-07-18_best-oasis-weekly-recycling-market-report-17-july-2026_weekly-ship-recycling-report-11-july_6cff93a35a42.pdf\n\n# WEEKLY SHIP RECYCLING REPORT\n\n## (11 JULY - 17 JULY) 2026\n\n## OUR OFFICES\n\n**Scan to view the Tide Table**\n\n**Head Office:** 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E **Contact**: +971 4575 4667 **Visit** : www.best-oasis.com **Email**: bol@bol.ae\n\n## MARKET SUMMARY\n\n## INDIA\n\nThe Indian market strengthened during the week due to the limited availability of steel plates, as slow cutting activity and several vessels remaining away from shore restricted supply. This improvement is expected to be temporary, with conditions likely to change over the coming weeks.",
+      "keywords": [
+        "lpg",
+        "china",
+        "europe",
+        "india",
+        "steel",
+        "gas",
+        "recycling",
+        "vessels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1119,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

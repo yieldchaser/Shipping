@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2018_02_09_outages_and_turnarounds__root",
+  "doc_id": "poten_tankers_no_date_poten_2018_02_09_outages_and_turnarounds",
+  "parent_id": null,
+  "title": "Outages and Turnarounds",
+  "section_path": [
+    "Outages and Turnarounds"
+  ],
+  "section_path_text": "Outages and Turnarounds",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Does refining maintenance impact crude flows? According to the latest IEA Oil Market Report, global refinery crude throughput reached 82.2 million barrels per day (mb/d) in December 2017, some 500,000 b/d more than in December 2016. For 2017 as a whole, throughput averaged 80.8 mb/d, a solid 1.5 mb/d higher than the year before.",
+  "keywords": [
+    "china",
+    "crude_oil",
+    "products",
+    "gas",
+    "crude",
+    "are",
+    "refining",
+    "refinery",
+    "u.s.",
+    "imports",
+    "maintenance",
+    "oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 838,
+  "source_path": "reports/poten/2018/poten_2018-02-09_outages-and-turnarounds.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_02_09_outages_and_turnarounds__s01_does_refining_maintenance_impact_crude_flows",
+      "doc_id": "poten_tankers_no_date_poten_2018_02_09_outages_and_turnarounds",
+      "parent_id": "poten_tankers_no_date_poten_2018_02_09_outages_and_turnarounds__root",
+      "title": "Does refining maintenance impact crude flows?",
+      "section_path": [
+        "Does refining maintenance impact crude flows?"
+      ],
+      "section_path_text": "Does refining maintenance impact crude flows?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "According to the latest IEA Oil Market Report, global refinery crude throughput reached 82.2 million barrels per day (mb/d) in December 2017, some 500,000 b/d more than in December 2016. For 2017 as a whole, throughput averaged 80.8 mb/d, a solid 1.5 mb/d higher than the year before.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "products",
+        "gas",
+        "crude",
+        "are",
+        "refinery",
+        "refining"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 831,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

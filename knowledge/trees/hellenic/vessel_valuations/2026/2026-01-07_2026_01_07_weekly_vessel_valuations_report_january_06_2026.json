@@ -17,17 +17,17 @@
     "handysize",
     "suezmax",
     "container",
-    "mil",
     "noo",
-    "usd",
+    "mil",
     "nok",
-    "sok",
-    "stable"
+    "usd",
+    "handy",
+    "sok"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 964,
-  "source_path": "corpus/02-hellenic/vessel_valuations/2026/2026-01-07_weekly-vessel-valuations-report-january-06-2026.html",
+  "token_count": 1767,
+  "source_path": "reports/hellenic/vessel_valuations/2026/2026-01-07_weekly-vessel-valuations-report-january-06-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-january-06-2026",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-01-07_weekly-vessel-valuations-report-january-06-2026_img1_7120252_5bcbcb9e1c70.jpeg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2026/assets/2026-01-07_weekly-vessel-valuations-report-january-06-2026_img1_7120252_5bcbcb9e1c70.jpeg\n\nLinked image asset: 2026-01-07_weekly-vessel-valuations-report-january-06-2026_img1_7120252_5bcbcb9e1c70.jpeg\n\nImage metadata: JPEG 600x278 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\n(D) VesselsValue_-£-_ $$\n06 January 2026 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra um MR Cape Pmax ‘Supra Handy posed Prax Handy Fax\n6 10.1% 10.2% 114% 10.9% 0.0% 0.0% 0.3% om 10.1% OA 70.0% OK 06%\n320k 160k Sk Sk SOK 180k 8m 62k 38 7000 4250 1780 noo\n5 10.0% 09% 10.3% 10.9% 10.0% 05% 0.0% +05% 0.0% 04% 70.0% 10% O5S%\n520k 160k nOk Tsk SOK 180K 82k 60k 3a 7000 4250 780 noo\n» 10.2% AS® Om 10.9% 0.0% 105% O66 10.9% Om Om 70.0% Vs OS*\n320k 160k nOk Sk SOK 180K 80k 60k Sk 7000 4250 1780 noo\ns 20.2% As OS% 10.9% Os \"ws as 6.6% +636 Om 0.0% 20% OS%\n30k 160k NOK Tsk SOK 180k 80k 60k 32k 7000 4250 1780 noo\n20 10.2% 10.8% ms 10.9% 0.7% 164% ms ae 0.0% Om 0. 26% 05%\nS0k 160k NOK WOK 45k 180k Tsk SSk 30k 7000 4250 780 noo\ns 10.1% a Ams 109% As +10.0% 0.7% \"38% +0.2% 0.0% 03% \"29% OS%\n300k 1SSk 10Sk 70k 45k 75k Tk Sk",
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-01-07_weekly-vessel-valuations-report-january-06-2026_img1_7120252_5bcbcb9e1c70.jpeg\n\nLinked image asset: 2026-01-07_weekly-vessel-valuations-report-january-06-2026_img1_7120252_5bcbcb9e1c70.jpeg\n\nImage metadata: JPEG 600x278 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\n[structured table]\n| | | | | | $$ | | | | | | | | | |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 06 | January 2026 | | | | | VV | Mini Matrix | - | Weekly | Change | | | | |\n| | | | | Tankers | | | | | Bulkers | | | Containers | | |\n| | Year | vice | Suez | Afra | um | MR | Cape | Pmax | ‘Supra | Handy | | Prax | Handy | |\n| | 6 | 10.1% | 10.2% | | 10.9% | 0.0% | 0.0% | 0.3% | om | 10.1% | | 70.0% | OK | 06% |\n| | | 320k | 160k | Sk | Sk | SOK | 180k | 8m | 62k | 38 | 7000 | 4250 | 1780 | noo |\n| | 5 | 10.0% | 09% | 10.3% | 10.9% | | | 0.0% | +05% | 0.0% | 04% | 70.0% | 10% | O5S% |\n| | | 520k | 160k | nOk | | | 180K | 82k | 60k | 3a | 7000 | 4250 | 780 | noo |\n| | | 10.2% | | Om | 10.9% | 0.0% | 105% | O66 | 10.9% | Om | Om | | Vs | OS* |\n| | | 320k | 160k | nOk | Sk | | 180K | 80k | 60k | | 7000 | 4250 | 1780 | noo |\n| | s | 20.2",
       "keywords": [
         "capesize",
         "supramax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 649,
+      "token_count": 1452,
       "section_type": "linked_image_asset",
       "children": []
     }

@@ -1,0 +1,292 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2013_01_11_north_american_production_continues_to_alter_cargo_flows__root",
+  "doc_id": "poten_tankers_no_date_poten_2013_01_11_north_american_production_continues_to_alter_cargo_flows",
+  "parent_id": null,
+  "title": "North American Production Continues to Alter Cargo Flows",
+  "section_path": [
+    "North American Production Continues to Alter Cargo Flows"
+  ],
+  "section_path_text": "North American Production Continues to Alter Cargo Flows",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Latest EIA report\nThe US Energy Information Agency (EIA) released their first Short-Term Energy Outlook (STEO) of 2013 earlier this week to much fanfare in the financial press. A continuation of production capacity increases in North America was indeed front page news. Although the growth to date in North American production has been well-documented, EIA forecasts a continuation of strong output growth in the near future.",
+  "keywords": [
+    "crude_oil",
+    "crude",
+    "north",
+    "production",
+    "imports",
+    "american",
+    "canadian",
+    "growth",
+    "america",
+    "demand",
+    "development",
+    "eia"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 496,
+  "source_path": "reports/poten/2013/poten_2013-01-11_north-american-production-continues-to-alter-cargo-flows.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_01_11_north_american_production_continues_to_alter_cargo_flows__s01_latest_eia_report",
+      "doc_id": "poten_tankers_no_date_poten_2013_01_11_north_american_production_continues_to_alter_cargo_flows",
+      "parent_id": "poten_tankers_no_date_poten_2013_01_11_north_american_production_continues_to_alter_cargo_flows__root",
+      "title": "Latest EIA report",
+      "section_path": [
+        "Latest EIA report"
+      ],
+      "section_path_text": "Latest EIA report",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The US Energy Information Agency (EIA) released their first Short-Term Energy Outlook (STEO) of 2013 earlier this week to much fanfare in the financial press. A continuation of production capacity increases in North America was indeed front page news.",
+      "keywords": [
+        "crude_oil",
+        "north",
+        "production",
+        "growth",
+        "america",
+        "american",
+        "between",
+        "continuation"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 188,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_01_11_north_american_production_continues_to_alter_cargo_flows__s02_production_forecast_for",
+      "doc_id": "poten_tankers_no_date_poten_2013_01_11_north_american_production_continues_to_alter_cargo_flows",
+      "parent_id": "poten_tankers_no_date_poten_2013_01_11_north_american_production_continues_to_alter_cargo_flows__root",
+      "title": "Production forecast for",
+      "section_path": [
+        "Production forecast for"
+      ],
+      "section_path_text": "Production forecast for",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "2013 is almost 1.5 mbpd higher than last year's estimate 1q07 1q09 1q11 1q13F 1q15F 1q17F",
+      "keywords": [
+        "almost",
+        "estimate",
+        "higher",
+        "last",
+        "mbpd",
+        "q07",
+        "q09",
+        "q11"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 43,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_01_11_north_american_production_continues_to_alter_cargo_flows__s03_jan_12",
+      "doc_id": "poten_tankers_no_date_poten_2013_01_11_north_american_production_continues_to_alter_cargo_flows",
+      "parent_id": "poten_tankers_no_date_poten_2013_01_11_north_american_production_continues_to_alter_cargo_flows__root",
+      "title": "Jan 12",
+      "section_path": [
+        "Jan 12"
+      ],
+      "section_path_text": "Jan 12",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "current",
+        "jul"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_01_11_north_american_production_continues_to_alter_cargo_flows__s04_north_american_output",
+      "doc_id": "poten_tankers_no_date_poten_2013_01_11_north_american_production_continues_to_alter_cargo_flows",
+      "parent_id": "poten_tankers_no_date_poten_2013_01_11_north_american_production_continues_to_alter_cargo_flows__root",
+      "title": "North American output",
+      "section_path": [
+        "North American output"
+      ],
+      "section_path_text": "North American output",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "forecast",
+        "remains",
+        "strong"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_01_11_north_american_production_continues_to_alter_cargo_flows__s05_u_s_crude_run_growth",
+      "doc_id": "poten_tankers_no_date_poten_2013_01_11_north_american_production_continues_to_alter_cargo_flows",
+      "parent_id": "poten_tankers_no_date_poten_2013_01_11_north_american_production_continues_to_alter_cargo_flows__root",
+      "title": "U.S. crude run growth",
+      "section_path": [
+        "U.S. crude run growth"
+      ],
+      "section_path_text": "U.S. crude run growth",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "remains relatively flat over outlook period 2015F 2018F",
+      "keywords": [
+        "flat",
+        "outlook",
+        "period",
+        "relatively",
+        "remains"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_01_11_north_american_production_continues_to_alter_cargo_flows__s06_us_output_plus",
+      "doc_id": "poten_tankers_no_date_poten_2013_01_11_north_american_production_continues_to_alter_cargo_flows",
+      "parent_id": "poten_tankers_no_date_poten_2013_01_11_north_american_production_continues_to_alter_cargo_flows__root",
+      "title": "US output, plus",
+      "section_path": [
+        "US output, plus"
+      ],
+      "section_path_text": "US output, plus",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Canadian & Mexican imports to reach 78% of US refiners' crude demand",
+      "keywords": [
+        "canadian",
+        "crude",
+        "demand",
+        "imports",
+        "mexican",
+        "reach",
+        "refiners"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 16,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_01_11_north_american_production_continues_to_alter_cargo_flows__s07_u_s_seaborne_crude",
+      "doc_id": "poten_tankers_no_date_poten_2013_01_11_north_american_production_continues_to_alter_cargo_flows",
+      "parent_id": "poten_tankers_no_date_poten_2013_01_11_north_american_production_continues_to_alter_cargo_flows__root",
+      "title": "U.S. seaborne crude",
+      "section_path": [
+        "U.S. seaborne crude"
+      ],
+      "section_path_text": "U.S. seaborne crude",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "imports from outside North America to approach 3 mbpd 2013F 2016F",
+      "keywords": [
+        "america",
+        "approach",
+        "imports",
+        "mbpd",
+        "north",
+        "outside"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 19,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_01_11_north_american_production_continues_to_alter_cargo_flows__s08_us_production",
+      "doc_id": "poten_tankers_no_date_poten_2013_01_11_north_american_production_continues_to_alter_cargo_flows",
+      "parent_id": "poten_tankers_no_date_poten_2013_01_11_north_american_production_continues_to_alter_cargo_flows__root",
+      "title": "US Production",
+      "section_path": [
+        "US Production"
+      ],
+      "section_path_text": "US Production",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "N Amer Imports Oth Imports frequently discussed in the shipping media, a return to historical crude storage levels would further depress US crude tonne-mile demand.",
+      "keywords": [
+        "crude",
+        "imports",
+        "amer",
+        "demand.",
+        "depress",
+        "discussed",
+        "frequently",
+        "further"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 30,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_01_11_north_american_production_continues_to_alter_cargo_flows__s09_us_crude_tonne_mile",
+      "doc_id": "poten_tankers_no_date_poten_2013_01_11_north_american_production_continues_to_alter_cargo_flows",
+      "parent_id": "poten_tankers_no_date_poten_2013_01_11_north_american_production_continues_to_alter_cargo_flows__root",
+      "title": "US crude tonne-mile",
+      "section_path": [
+        "US crude tonne-mile"
+      ],
+      "section_path_text": "US crude tonne-mile",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "",
+      "keywords": [
+        "demand",
+        "feel",
+        "pressure..."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_01_11_north_american_production_continues_to_alter_cargo_flows__s10_canadian_seaborne",
+      "doc_id": "poten_tankers_no_date_poten_2013_01_11_north_american_production_continues_to_alter_cargo_flows",
+      "parent_id": "poten_tankers_no_date_poten_2013_01_11_north_american_production_continues_to_alter_cargo_flows__root",
+      "title": "Canadian seaborne",
+      "section_path": [
+        "Canadian seaborne"
+      ],
+      "section_path_text": "Canadian seaborne",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "exports to Asian refiners would offset decline... Although steadily-increasing North American production is a negative development for tanker demand, there are, in fact, offsetting effects that may help soften the blow.",
+      "keywords": [
+        "development",
+        "any",
+        "export",
+        "further",
+        "infrastructure",
+        "north",
+        "abate",
+        "ability"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 106,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

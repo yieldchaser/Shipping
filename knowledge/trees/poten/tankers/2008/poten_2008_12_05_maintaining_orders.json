@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_12_05_maintaining_orders__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_12_05_maintaining_orders",
+  "parent_id": null,
+  "title": "Maintaining Orders",
+  "section_path": [
+    "Maintaining Orders"
+  ],
+  "section_path_text": "Maintaining Orders",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Maintaining Orders\nThe credit crisis has created a great deal of speculation about the actual deliverability of the worldwide shipping orderbook. While much of the concern has initially been focused on the dry bulk sector, tanker owners and investors are anxiously awaiting the prognosis for their sector. Up to now, the tanker market has been insulated from cancellations due to a stable freight market, credit-worthiness of market participants and a relatively low level of asset price correction compared to other sectors.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "orderbook",
+    "orders",
+    "placed",
+    "companies",
+    "total",
+    "are",
+    "placing",
+    "private",
+    "shipyard"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 524,
+  "source_path": "reports/poten/2008/poten_2008-12-05_maintaining-orders.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_12_05_maintaining_orders__s01_maintaining_orders",
+      "doc_id": "poten_tankers_no_date_poten_2008_12_05_maintaining_orders",
+      "parent_id": "poten_tankers_no_date_poten_2008_12_05_maintaining_orders__root",
+      "title": "Maintaining Orders",
+      "section_path": [
+        "Maintaining Orders"
+      ],
+      "section_path_text": "Maintaining Orders",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The credit crisis has created a great deal of speculation about the actual deliverability of the worldwide shipping orderbook. While much of the concern has initially been focused on the dry bulk sector, tanker owners and investors are anxiously awaiting the prognosis for their sector.",
+      "keywords": [
+        "vlcc",
+        "able",
+        "are",
+        "deliverability",
+        "must",
+        "orderbook",
+        "placing",
+        "shipowner"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 166,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_12_05_maintaining_orders__s02_vlcc_orderbook_by_owner",
+      "doc_id": "poten_tankers_no_date_poten_2008_12_05_maintaining_orders",
+      "parent_id": "poten_tankers_no_date_poten_2008_12_05_maintaining_orders__root",
+      "title": "VLCC Orderbook by Owner",
+      "section_path": [
+        "VLCC Orderbook by Owner"
+      ],
+      "section_path_text": "VLCC Orderbook by Owner",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "In the tanker market, many placing the orders as well as the shipbuilders have strong ties to governments and public sources of funding. Of the VLCC orderbook, only 35% of the orders have been placed by private companies and the balance, about 65%, has been placed by government-related or publicly listed companies.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "companies",
+        "orders",
+        "private",
+        "many",
+        "orderbook"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 156,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_12_05_maintaining_orders__s03_at_the_shipyards",
+      "doc_id": "poten_tankers_no_date_poten_2008_12_05_maintaining_orders",
+      "parent_id": "poten_tankers_no_date_poten_2008_12_05_maintaining_orders__root",
+      "title": "At the shipyards",
+      "section_path": [
+        "At the shipyards"
+      ],
+      "section_path_text": "At the shipyards",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The chart below shows the total orderbook and the type of shipyard that is responsible for construction. The majority of the new VLCCs have been placed at established yards.",
+      "keywords": [
+        "vlcc",
+        "below",
+        "chart",
+        "construction.",
+        "established",
+        "majority",
+        "new",
+        "orderbook"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 35,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_12_05_maintaining_orders__s04_vlcc_orderbook_by_shipyard",
+      "doc_id": "poten_tankers_no_date_poten_2008_12_05_maintaining_orders",
+      "parent_id": "poten_tankers_no_date_poten_2008_12_05_maintaining_orders__root",
+      "title": "VLCC Orderbook by Shipyard",
+      "section_path": [
+        "VLCC Orderbook by Shipyard"
+      ],
+      "section_path_text": "VLCC Orderbook by Shipyard",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "For the VLCC sector, about 30% of the total orders have been placed at yards with strong government backing and almost 65% have been placed at publicly-listed, experienced shipyards. Most notably, greenfield yards only account for roughly 5% of the orderbook across all of the large tanker classes.",
+      "keywords": [
+        "vlcc",
+        "any",
+        "experienced",
+        "orderbook",
+        "placed",
+        "total",
+        "yards",
+        "account"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 143,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

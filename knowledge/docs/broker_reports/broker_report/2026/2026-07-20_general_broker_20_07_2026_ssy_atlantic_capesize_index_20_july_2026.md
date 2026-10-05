@@ -61,8 +61,8 @@ numeric_observations:
   - 150000.0
   - 10.0
   - 10.0
-  - 9150.0
-  - 8800.0
+  - 9.15
+  - 8.8
 - section: Market Report Content
   section_type: null
   source_line: TUBARAO/ROTTERDAM 170,000/10% 10% 15.65 15.05
@@ -71,8 +71,8 @@ numeric_observations:
   - 170000.0
   - 10.0
   - 10.0
-  - 15650.0
-  - 15050.0
+  - 15.65
+  - 15.05
 - section: Market Report Content
   section_type: null
   source_line: RICHARDS BAY/ROTTERDAM 150,000/10% 10% 15.80 15.20
@@ -81,8 +81,8 @@ numeric_observations:
   - 150000.0
   - 10.0
   - 10.0
-  - 15800.0
-  - 15200.0
+  - 15.8
+  - 15.2
 - section: Market Report Content
   section_type: null
   source_line: SEVEN ISLANDS/ROTTERDAM 170,000/10% 10% 14.45 13.80
@@ -91,8 +91,8 @@ numeric_observations:
   - 170000.0
   - 10.0
   - 10.0
-  - 14450.0
-  - 13800.0
+  - 14.45
+  - 13.8
 - section: Market Report Content
   section_type: null
   source_line: PUERTO BOLIVAR/ROTTERDAM 160,000/10% 10% 19.95 19.30
@@ -101,8 +101,8 @@ numeric_observations:
   - 160000.0
   - 10.0
   - 10.0
-  - 19950.0
-  - 19300.0
+  - 19.95
+  - 19.3
 - section: Market Report Content
   section_type: null
   source_line: NOUADHIBOU/QINGDAO 170,000/10% 10% 32.10 31.80
@@ -111,8 +111,8 @@ numeric_observations:
   - 170000.0
   - 10.0
   - 10.0
-  - 32100.0
-  - 31800.0
+  - 32.1
+  - 31.8
 - section: Market Report Content
   section_type: null
   source_line: TUBARAO/JAPAN 160,000/10% 10% 32.70 32.40
@@ -121,8 +121,8 @@ numeric_observations:
   - 160000.0
   - 10.0
   - 10.0
-  - 32700.000000000004
-  - 32400.0
+  - 32.7
+  - 32.4
 - section: Market Report Content
   section_type: null
   source_line: TUBARAO/QINGDAO 160,000/10% 10% 33.00 32.70
@@ -131,8 +131,8 @@ numeric_observations:
   - 160000.0
   - 10.0
   - 10.0
-  - 33000.0
-  - 32700.000000000004
+  - 33.0
+  - 32.7
 - section: Market Report Content
   section_type: null
   source_line: T/C TRIP CONT/FAR EAST 180,000 DWT 10% 12.73 11.97
@@ -140,8 +140,8 @@ numeric_observations:
   values:
   - 180000.0
   - 10.0
-  - 12730.0
-  - 11970.0
+  - 12.73
+  - 11.97
 - section: Market Report Content
   section_type: null
   source_line: T/C TRANSATLANTIC ROUND 180,000 DWT 10% 8.15 7.63
@@ -149,8 +149,8 @@ numeric_observations:
   values:
   - 180000.0
   - 10.0
-  - 8150.0
-  - 7630.0
+  - 8.15
+  - 7.63
 - section: Market Report Content
   section_type: null
   source_line: Calculated Index 14,465 14,028

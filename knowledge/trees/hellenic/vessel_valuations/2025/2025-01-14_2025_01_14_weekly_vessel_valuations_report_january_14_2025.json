@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1255,
-  "source_path": "corpus/02-hellenic/vessel_valuations/2025/2025-01-14_weekly-vessel-valuations-report-january-14-2025.html",
+  "token_count": 2133,
+  "source_path": "reports/hellenic/vessel_valuations/2025/2025-01-14_weekly-vessel-valuations-report-january-14-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-january-14-2025",
   "children": [
     {
@@ -69,20 +69,20 @@
       "section_path_text": "Linked asset: 2025-01-14_weekly-vessel-valuations-report-january-14-2025_img1_1412024_8f55cabe95ed.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2025/assets/2025-01-14_weekly-vessel-valuations-report-january-14-2025_img1_1412024_8f55cabe95ed.jpg\n\nLinked image asset: 2025-01-14_weekly-vessel-valuations-report-january-14-2025_img1_1412024_8f55cabe95ed.jpg\n\nImage metadata: JPEG 678x255 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\nDs) NN\n14 January 2025 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra tRI MR Cape Pmax Supra Handy ‘ ne Pmax Handy Fmax\n0 0.3% 0.5% 2.2% -1LA% \"1.3% 0.7% 0.0% 0.4% 0.4% 40.1% 40.1% +0.6% 0.0%\n320k 160k 115k 75k SOk 180k 82k 62k 38k 7000 4250 1750 1100\n5 0.3% 0.6% 2.2% \"14% \"1.3% 0.7% 0.0% 0.9% 0.6% 40.1% 40.1% 40.5% 40.2%\n320k 160k 110k 75k 50k 180k 82k 60k 38k 7000 4250 1750 1100\n10 0.3% 0.6% \"2.2% \"14% \"1.3% 0.7% 0.0% \"14% 0.9% 0.2% 0.0% 40.5% 40.3%\n320k 160k 110k 75k 50k 180k 80k 60k 35k 7000 4250 1750 1100\n15 \"0.3% -0.6% -2.2% -1.4% -1,3% \"0.7% -O0.1% -1.7% -1.1% 40.6% 0.0% +0.5% --0,8%\n310k 160k 110k 75k 50k 180k 80k 55k 30k 7000 4250 1750 1100\n20 0.2% 0.6% 2.2% -14% -1.3% 0.7% 0.0% -1.7% \"1.2% +1.0% 0.0% +0.4% -3.6%\n310k 160k 110k 70k 45k 180k 75k SSk 30k 7000 4250 1750 1100\n25 0.2% 0.7% 2.2% 14% \"14% 0.7%",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2025/assets/2025-01-14_weekly-vessel-valuations-report-january-14-2025_img1_1412024_8f55cabe95ed.jpg\n\nLinked image asset: 2025-01-14_weekly-vessel-valuations-report-january-14-2025_img1_1412024_8f55cabe95ed.jpg\n\nImage metadata: JPEG 678x255 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\n[structured table]\n| 14 | January 2025 | | | | | VV | Mini Matrix | - | Weekly | Change | | | | |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| | | | | Tankers | | | | | Bulkers | | | Containers | | |\n| | Year | vice | Suez | Afra | tRI | MR | Cape | Pmax | Supra | Handy | ne | Pmax | Handy | Fmax |\n| | 0 | | | | | \"1.3% | | 0.0% | 0.4% | | | 40.1% | +0.6% | 0.0% |\n| | | 320k | 160k | 115k | 75k | SOk | 180k | 82k | 62k | 38k | 7000 | 4250 | 1750 | 1100 |\n| | 5 | | 0.6% | 2.2% | \"14% | \"1.3% | 0.7% | 0.0% | 0.9% | | 40.1% | | | 40.2% |\n| | | 320k | 160k | 110k | 75k | 50k | 180k | 82k | 60k | 38k | 7000 | 4250 | 1750 | 1100 |\n| | 10 | 0.3% | 0.6% | \"2.2% | \"14% | \"1.3% | 0.7% | 0.0% | \"14% | 0.9% | | 0.0% | 40.5% | 40.3% |\n| | | 320k | 160k | 110k | 75k | 50k | 180k | 80k | 60k | 35k | 7000 | 4250 | 1750 | 1100 |\n| | 15 | \"0.3% | -0.6",
       "keywords": [
         "capesize",
         "supramax",
         "handysize",
         "container",
-        "asset",
         "handy",
-        "image",
-        "pmax"
+        "pmax",
+        "afra",
+        "asset"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 786,
+      "token_count": 1664,
       "section_type": "linked_image_asset",
       "children": []
     }

@@ -9,7 +9,7 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 11.25.2025",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nElevated Spot Rates Show Q4 Seasonality Alive and Well - Consistent with historical trends, the fourth quarter is once again poised\nSource: Breakwave Advisors\n\nLinked asset: 2025-11-25_breakwave-dry-bulk-shipping-report-11-25-2025_breakwavedrynovember252025report_708bade02973.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2025-11-25_breakwave-dry-bulk-shipping-report-11-25-2025_breakwavedrynovember252025report_708bade02973.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nNovember 25, 2025\n• Elevated Spot Rates Show Q4 Seasonality Alive and Well - Consistent with\nShort-term Indicators\nhistorical trends, the fourth quarter is once again poised to be the strongest period\nMomentum: Neutral\nof the year for dry bulk shipping. Current Capesize rates exceeding $30,000,\ncoupled with lower-than-average rate volatility, suggest market confidence in Sentiment: Positive\nforward pricing, with elevated rates projected even for Q1. We hold a dissenting Fundamentals: Negative\nview.",
+  "summary": "Main\nElevated Spot Rates Show Q4 Seasonality Alive and Well - Consistent with historical trends, the fourth quarter is once again poised\nSource: Breakwave Advisors\n\nLinked asset: 2025-11-25_breakwave-dry-bulk-shipping-report-11-25-2025_breakwavedrynovember252025report_708bade02973.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2025-11-25_breakwave-dry-bulk-shipping-report-11-25-2025_breakwavedrynovember252025report_708bade02973.pdf\n\n# Dry Bulk Shipping\n\n## Bi-Weekly Industry Report\n\n### November 25, 2025\n\n- **Elevated Spot Rates Show Q4 Seasonality Alive and Well -** Consistent with historical trends, the fourth quarter is once again poised to be **the strongest period** **of the year** for dry bulk shipping. Current Capesize rates exceeding $30,000, coupled with lower-than-average rate volatility, **suggest market confidence** in forward pricing, with elevated rates projected even for Q1. While we anticipate a **stable market** overall for the coming year, we believe the expected **Q1 rate strength will not fully materialize**.",
   "keywords": [
     "capesize",
     "panamax",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1700,
-  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-11-25_breakwave-dry-bulk-shipping-report-11-25-2025.html",
+  "token_count": 1817,
+  "source_path": "reports/hellenic/shipbuilding/2025/2025-11-25_breakwave-dry-bulk-shipping-report-11-25-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-11-25-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-11-25_breakwave-dry-bulk-shipping-report-11-25-2025_breakwavedrynovember252025report_708bade02973.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-11-25_breakwave-dry-bulk-shipping-report-11-25-2025_breakwavedrynovember252025report_708bade02973.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nNovember 25, 2025\n• Elevated Spot Rates Show Q4 Seasonality Alive and Well - Consistent with\nShort-term Indicators\nhistorical trends, the fourth quarter is once again poised to be the strongest period\nMomentum: Neutral\nof the year for dry bulk shipping. Current Capesize rates exceeding $30,000,\ncoupled with lower-than-average rate volatility, suggest market confidence in Sentiment: Positive\nforward pricing, with elevated rates projected even for Q1.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-11-25_breakwave-dry-bulk-shipping-report-11-25-2025_breakwavedrynovember252025report_708bade02973.pdf\n\n# Dry Bulk Shipping\n\n## Bi-Weekly Industry Report\n\n### November 25, 2025\n\n- **Elevated Spot Rates Show Q4 Seasonality Alive and Well -** Consistent with historical trends, the fourth quarter is once again poised to be **the strongest period** **of the year** for dry bulk shipping. Current Capesize rates exceeding $30,000, coupled with lower-than-average rate volatility, **suggest market confidence** in forward pricing, with elevated rates projected even for Q1.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1621,
+      "token_count": 1738,
       "section_type": "linked_pdf",
       "children": []
     }

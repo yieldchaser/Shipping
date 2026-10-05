@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2006_04_14_stocking_stuffers__root",
+  "doc_id": "poten_tankers_no_date_poten_2006_04_14_stocking_stuffers",
+  "parent_id": null,
+  "title": "Stocking Stuffers",
+  "section_path": [
+    "Stocking Stuffers"
+  ],
+  "section_path_text": "Stocking Stuffers",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Stocking Stuffers\nCrude stocks in the US have been reaching levels not seen since April 1999 when they were at roughly the same levels and crude prices much lower. What is surprising is that even though crude prices have seen a rapid increase over the month of March, the US has yet to determine that enough is enough. Last week, stocks accumulated to over 345 million barrels.",
+  "keywords": [
+    "pacific",
+    "europe",
+    "japan",
+    "crude_oil",
+    "crude",
+    "refinery",
+    "are",
+    "stocks",
+    "year",
+    "but",
+    "demand",
+    "inventory"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 748,
+  "source_path": "reports/poten/2006/poten_2006-04-14_stocking-stuffers.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_04_14_stocking_stuffers__s01_stocking_stuffers",
+      "doc_id": "poten_tankers_no_date_poten_2006_04_14_stocking_stuffers",
+      "parent_id": "poten_tankers_no_date_poten_2006_04_14_stocking_stuffers__root",
+      "title": "Stocking Stuffers",
+      "section_path": [
+        "Stocking Stuffers"
+      ],
+      "section_path_text": "Stocking Stuffers",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Crude stocks in the US have been reaching levels not seen since April 1999 when they were at roughly the same levels and crude prices much lower. What is surprising is that even though crude prices have seen a rapid increase over the month of March, the US has yet to determine that enough is enough.",
+      "keywords": [
+        "crude",
+        "levels",
+        "prices",
+        "seen",
+        "stocks",
+        "accumulated",
+        "april",
+        "barrels."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 74,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_04_14_stocking_stuffers__s02_refinery_demand",
+      "doc_id": "poten_tankers_no_date_poten_2006_04_14_stocking_stuffers",
+      "parent_id": "poten_tankers_no_date_poten_2006_04_14_stocking_stuffers__root",
+      "title": "Refinery Demand",
+      "section_path": [
+        "Refinery Demand"
+      ],
+      "section_path_text": "Refinery Demand",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "To complicate matters for the shipping industry, the run-up in stocks has come at the time of the year that exhibits the lowest refinery utilization. In 2005 the first half of the year refinery utilization in the US was between 90 - 95%, as shown on the graph below.",
+      "keywords": [
+        "year",
+        "operating",
+        "refineries",
+        "refinery",
+        "are",
+        "below.",
+        "between",
+        "come"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 105,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_04_14_stocking_stuffers__s03_hurricane_katrina",
+      "doc_id": "poten_tankers_no_date_poten_2006_04_14_stocking_stuffers",
+      "parent_id": "poten_tankers_no_date_poten_2006_04_14_stocking_stuffers__root",
+      "title": "Hurricane Katrina",
+      "section_path": [
+        "Hurricane Katrina"
+      ],
+      "section_path_text": "Hurricane Katrina",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "BP's refinery of Texas City was damaged by Hurricane Rita and was scheduled to reopen the first week of April, but will most likely do so later in the month. Similarly ConocoPhillips' Alliance refinery and Murphy Oil's Meraux refinery have yet to resume operations, but are expected to do so this month.",
+      "keywords": [
+        "pacific",
+        "europe",
+        "japan",
+        "crude_oil",
+        "per",
+        "refinery",
+        "but",
+        "expected"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 322,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_04_14_stocking_stuffers__s04_days_inventory",
+      "doc_id": "poten_tankers_no_date_poten_2006_04_14_stocking_stuffers",
+      "parent_id": "poten_tankers_no_date_poten_2006_04_14_stocking_stuffers__root",
+      "title": "Days Inventory",
+      "section_path": [
+        "Days Inventory"
+      ],
+      "section_path_text": "Days Inventory",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "With crude stocks are at a relatively high level, it is perhaps not surprising that the number of days of crude inventory is also rising. Since the beginning of the year the days coverage provided by the inventory has been increasing.",
+      "keywords": [
+        "crude",
+        "are",
+        "inventory",
+        "stocks",
+        "days",
+        "even",
+        "but",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 231,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

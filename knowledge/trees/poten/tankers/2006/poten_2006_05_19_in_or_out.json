@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2006_05_19_in_or_out__root",
+  "doc_id": "poten_tankers_no_date_poten_2006_05_19_in_or_out",
+  "parent_id": null,
+  "title": "In or Out?",
+  "section_path": [
+    "In or Out?"
+  ],
+  "section_path_text": "In or Out?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "When looking at the mounting tanker orderbook, the International Maritime Organization (IMO) phase-out regulation for single-hull tonnage serves as a natural check for a potential oversupply of ships in the future. Owners, charterers and analysts use this phase-out schedule in developing predictions about the future supply of tonnage in the world market. The question facing the tanker market is most likely one that the IMO and other regulatory bodies do not want to address: will these ships really stop trading?",
+  "keywords": [
+    "meg",
+    "europe",
+    "products",
+    "ships",
+    "phase-out",
+    "hull",
+    "imo",
+    "not",
+    "fleet",
+    "non-double",
+    "tonnage",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 556,
+  "source_path": "reports/poten/2006/poten_2006-05-19_in-or-out.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_05_19_in_or_out__s01_in_or_out",
+      "doc_id": "poten_tankers_no_date_poten_2006_05_19_in_or_out",
+      "parent_id": "poten_tankers_no_date_poten_2006_05_19_in_or_out__root",
+      "title": "In or Out?",
+      "section_path": [
+        "In or Out?"
+      ],
+      "section_path_text": "In or Out?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "When looking at the mounting tanker orderbook, the International Maritime Organization (IMO) phase-out regulation for single-hull tonnage serves as a natural check for a potential oversupply of ships in the future. Owners, charterers and analysts use this phase-out schedule in developing predictions about the future supply of tonnage in the world market.",
+      "keywords": [
+        "imo",
+        "phase-out",
+        "ships",
+        "tonnage",
+        "address",
+        "analysts",
+        "bodies",
+        "charterers"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 97,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_05_19_in_or_out__s02_of_fleet_non_dh",
+      "doc_id": "poten_tankers_no_date_poten_2006_05_19_in_or_out",
+      "parent_id": "poten_tankers_no_date_poten_2006_05_19_in_or_out__root",
+      "title": "% of Fleet Non-DH",
+      "section_path": [
+        "% of Fleet Non-DH"
+      ],
+      "section_path_text": "% of Fleet Non-DH",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "2004 2005 2006 YTD The chart on the previous page shows the relative percentage of the reported fixtures on non-double hull tonnage. Today about 30% of the fleet is single- hull, double-bottomed or double-sided.",
+      "keywords": [
+        "meg",
+        "europe",
+        "products",
+        "hull",
+        "ships",
+        "non-double",
+        "not",
+        "phase-out"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 448,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

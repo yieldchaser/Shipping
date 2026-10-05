@@ -1,0 +1,196 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2009_03_06_shape_up_and_ship_out__root",
+  "doc_id": "poten_tankers_no_date_poten_2009_03_06_shape_up_and_ship_out",
+  "parent_id": null,
+  "title": "Shape Up and Ship Out",
+  "section_path": [
+    "Shape Up and Ship Out"
+  ],
+  "section_path_text": "Shape Up and Ship Out",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Shape Up and Ship Out\nSince the emergence of moving goods by sea, men and women willing to forego a stationary, shore‐side occupation have made the walk up ship gangways around the world, playing a pivotal role in the past, present and future of globalization. It is pretty much universally agreed that the lifestyle is not for the faint of heart. Life at sea can be dangerous; both physically and mentally unforgiving.",
+  "keywords": [
+    "brazil",
+    "europe",
+    "convention",
+    "ilo",
+    "shipowners",
+    "fleet",
+    "life",
+    "maritime",
+    "sea",
+    "ship",
+    "are",
+    "international"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1115,
+  "source_path": "reports/poten/2009/poten_2009-03-06_shape-up-and-ship-out.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_03_06_shape_up_and_ship_out__s01_shape_up_and_ship_out",
+      "doc_id": "poten_tankers_no_date_poten_2009_03_06_shape_up_and_ship_out",
+      "parent_id": "poten_tankers_no_date_poten_2009_03_06_shape_up_and_ship_out__root",
+      "title": "Shape Up and Ship Out",
+      "section_path": [
+        "Shape Up and Ship Out"
+      ],
+      "section_path_text": "Shape Up and Ship Out",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Since the emergence of moving goods by sea, men and women willing to forego a stationary, shore‐side occupation have made the walk up ship gangways around the world, playing a pivotal role in the past, present and future of globalization. It is pretty much universally agreed that the lifestyle is not for the faint of heart.",
+      "keywords": [
+        "brazil",
+        "sea",
+        "all",
+        "are",
+        "fleet",
+        "life",
+        "seafarers",
+        "world"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 243,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_03_06_shape_up_and_ship_out__s02_fleet",
+      "doc_id": "poten_tankers_no_date_poten_2009_03_06_shape_up_and_ship_out",
+      "parent_id": "poten_tankers_no_date_poten_2009_03_06_shape_up_and_ship_out__root",
+      "title": "Fleet",
+      "section_path": [
+        "Fleet"
+      ],
+      "section_path_text": "Fleet",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Seafarer Demand It is estimated that over 82,000 seafarers are needed to fulfill the current tanker fleet's manning requirements. Only considering what is presently on order, this means the tanker fleet will require over 30,000 new seafarers through 2015, or roughly 35% of its current manpower.",
+      "keywords": [
+        "current",
+        "fleet",
+        "seafarers",
+        "appealing",
+        "are",
+        "considering",
+        "demand",
+        "enticing"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 100,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_03_06_shape_up_and_ship_out__s03_tightening_the_belt",
+      "doc_id": "poten_tankers_no_date_poten_2009_03_06_shape_up_and_ship_out",
+      "parent_id": "poten_tankers_no_date_poten_2009_03_06_shape_up_and_ship_out__root",
+      "title": "Tightening the Belt",
+      "section_path": [
+        "Tightening the Belt"
+      ],
+      "section_path_text": "Tightening the Belt",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The impending implementation of the ILO Maritime Convention 2006 will bring more stringent regulations intending to improve the life of the seafarer. On a practical basis this convention will have very real implications on ship operations and commercial activity.",
+      "keywords": [
+        "convention",
+        "ilo",
+        "title",
+        "maritime",
+        "international",
+        "below",
+        "care",
+        "conditions"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 356,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_03_06_shape_up_and_ship_out__s04_liberia",
+      "doc_id": "poten_tankers_no_date_poten_2009_03_06_shape_up_and_ship_out",
+      "parent_id": "poten_tankers_no_date_poten_2009_03_06_shape_up_and_ship_out__root",
+      "title": "Liberia",
+      "section_path": [
+        "Liberia"
+      ],
+      "section_path_text": "Liberia",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "bahamas",
+        "panama"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_03_06_shape_up_and_ship_out__s05_marshall_islands",
+      "doc_id": "poten_tankers_no_date_poten_2009_03_06_shape_up_and_ship_out",
+      "parent_id": "poten_tankers_no_date_poten_2009_03_06_shape_up_and_ship_out__root",
+      "title": "Marshall Islands",
+      "section_path": [
+        "Marshall Islands"
+      ],
+      "section_path_text": "Marshall Islands",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Norway Other No doubt, the ILO Maritime Convention 2006 will come with a price tag that will be passed on to shipowners who may try to pass the costs on to shippers and charterers but may not always be successful. While this new legislation will come with a slew of benefits for the seafarer, increased vessel operating expenses and hindered trade are the other repercussions.",
+      "keywords": [
+        "come",
+        "may",
+        "other",
+        "always",
+        "are",
+        "benefits",
+        "but",
+        "charterers"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 79,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_03_06_shape_up_and_ship_out__s06_sent_to_detention",
+      "doc_id": "poten_tankers_no_date_poten_2009_03_06_shape_up_and_ship_out",
+      "parent_id": "poten_tankers_no_date_poten_2009_03_06_shape_up_and_ship_out__root",
+      "title": "Sent to Detention",
+      "section_path": [
+        "Sent to Detention"
+      ],
+      "section_path_text": "Sent to Detention",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "While the most salient feature of this new legislation for shipowners may initially be the costs incurred to restore and update living and working conditions aboard tankers, these expenses will be generally minor compared to increased wages, welfare and medical costs which will further bleed the coffers. Although the Convention has good intentions, opening the door to a better lifestyle at sea, the underlying implications will undoubtedly squeeze shipowners.",
+      "keywords": [
+        "europe",
+        "shipowners",
+        "costs",
+        "expenses",
+        "increased",
+        "charterers",
+        "convention",
+        "could"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 305,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

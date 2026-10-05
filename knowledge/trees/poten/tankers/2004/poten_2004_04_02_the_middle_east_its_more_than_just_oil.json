@@ -1,0 +1,193 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2004_04_02_the_middle_east_its_more_than_just_oil__root",
+  "doc_id": "poten_tankers_no_date_poten_2004_04_02_the_middle_east_its_more_than_just_oil",
+  "parent_id": null,
+  "title": "The Middle East It's More Than Just Oil!",
+  "section_path": [
+    "The Middle East It's More Than Just Oil!"
+  ],
+  "section_path_text": "The Middle East It's More Than Just Oil!",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Middle East\nIt's More Than Just Oil! The Middle East has always been an important and strategic trading region throughout world history. Today the region remains a critical part of the world economy.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "west_africa",
+    "europe",
+    "india",
+    "crude_oil",
+    "gas",
+    "east",
+    "middle",
+    "energy",
+    "oil",
+    "region"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 574,
+  "source_path": "reports/poten/2004/poten_2004-04-02_the-middle-east-its-more-than-just-oil.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_04_02_the_middle_east_its_more_than_just_oil__s01_the_middle_east",
+      "doc_id": "poten_tankers_no_date_poten_2004_04_02_the_middle_east_its_more_than_just_oil",
+      "parent_id": "poten_tankers_no_date_poten_2004_04_02_the_middle_east_its_more_than_just_oil__root",
+      "title": "The Middle East",
+      "section_path": [
+        "The Middle East"
+      ],
+      "section_path_text": "The Middle East",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Middle East has always been an important and strategic trading region throughout world history. Today the region remains a critical part of the world economy.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "west_africa",
+        "europe",
+        "india",
+        "crude_oil",
+        "gas",
+        "east"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 332,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_04_02_the_middle_east_its_more_than_just_oil__s02_far_east",
+      "doc_id": "poten_tankers_no_date_poten_2004_04_02_the_middle_east_its_more_than_just_oil",
+      "parent_id": "poten_tankers_no_date_poten_2004_04_02_the_middle_east_its_more_than_just_oil__root",
+      "title": "Far East",
+      "section_path": [
+        "Far East"
+      ],
+      "section_path_text": "Far East",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "europe",
+        "asia",
+        "usa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_04_02_the_middle_east_its_more_than_just_oil__s03_communication_is_the_key",
+      "doc_id": "poten_tankers_no_date_poten_2004_04_02_the_middle_east_its_more_than_just_oil",
+      "parent_id": "poten_tankers_no_date_poten_2004_04_02_the_middle_east_its_more_than_just_oil__root",
+      "title": "Communication is the Key!",
+      "section_path": [
+        "Communication is the Key!"
+      ],
+      "section_path_text": "Communication is the Key!",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "This important region will be the center of attention for Columbia University's School for International and Public Affairs Center for Energy, Marine Transportation and Public Policy. The Energy Center is hosting an executive regional briefing program entitled \"Focus: The Middle East.\" This executive development program is scheduled to take place April 18-24 at the IBM Conference Center in Palisades, NY.",
+      "keywords": [
+        "center",
+        "conference",
+        "energy",
+        "executive",
+        "middle",
+        "program",
+        "public",
+        "affairs"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 95,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_04_02_the_middle_east_its_more_than_just_oil__s04_what_the_term_middle_east_means",
+      "doc_id": "poten_tankers_no_date_poten_2004_04_02_the_middle_east_its_more_than_just_oil",
+      "parent_id": "poten_tankers_no_date_poten_2004_04_02_the_middle_east_its_more_than_just_oil__root",
+      "title": "Ø What the term \"Middle East\" means",
+      "section_path": [
+        "Ø What the term \"Middle East\" means"
+      ],
+      "section_path_text": "Ø What the term \"Middle East\" means",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Ø The implications of the energy business and of oil market power on",
+      "keywords": [
+        "crude_oil",
+        "business",
+        "energy",
+        "implications",
+        "oil",
+        "power"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 14,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_04_02_the_middle_east_its_more_than_just_oil__s05_water_s_central_role_in_the_region",
+      "doc_id": "poten_tankers_no_date_poten_2004_04_02_the_middle_east_its_more_than_just_oil",
+      "parent_id": "poten_tankers_no_date_poten_2004_04_02_the_middle_east_its_more_than_just_oil__root",
+      "title": "Ø Water's central role in the region",
+      "section_path": [
+        "Ø Water's central role in the region"
+      ],
+      "section_path_text": "Ø Water's central role in the region",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Ø The political, economic, social and religious climate in the wake of the",
+      "keywords": [
+        "climate",
+        "economic",
+        "political",
+        "religious",
+        "social",
+        "wake"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 16,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_04_02_the_middle_east_its_more_than_just_oil__s06_cultural_and_social_norms_that_must_be_understood_and_accommodated",
+      "doc_id": "poten_tankers_no_date_poten_2004_04_02_the_middle_east_its_more_than_just_oil",
+      "parent_id": "poten_tankers_no_date_poten_2004_04_02_the_middle_east_its_more_than_just_oil__root",
+      "title": "cultural and social norms that must be understood and accommodated",
+      "section_path": [
+        "cultural and social norms that must be understood and accommodated"
+      ],
+      "section_path_text": "cultural and social norms that must be understood and accommodated",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "With the professional and educational resources of a leading university, this program promises to deliver a clear and comprehensive picture of the region today. For further conference information, please contact the Center for Energy, Marine Transportation and Public Policy at 212-854-0602 or e-mail energy@Columbia.edu.",
+      "keywords": [
+        "energy",
+        "center",
+        "clear",
+        "columbia.edu.",
+        "comprehensive",
+        "conference",
+        "contact",
+        "deliver"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 60,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

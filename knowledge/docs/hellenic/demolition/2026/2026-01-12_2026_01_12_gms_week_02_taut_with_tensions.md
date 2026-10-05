@@ -7,6 +7,7 @@ commodities:
 date: '2026-01-12'
 doc_id: hellenic_demolition_2026-01-12_2026_01_12_gms_week_02_taut_with_tensions
 document_type: demolition_update
+is_error_page: false
 key_entities:
 - China
 keywords:
@@ -96,9 +97,11 @@ numeric_observations:
   - -1.0
   - -12.0
   - 2.0
+  - 1.0
   - 9786.0
   - 2613.0
-  - 4.0
+  - 8.0
+  - 34.0
 - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
   source_line: January 9 th, 2026
@@ -205,6 +208,7 @@ numeric_observations:
     vanishing demand and
   unit: null
   values:
+  - 4.0
   - 2025.0
 - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
@@ -658,9 +662,9 @@ numeric_observations:
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
   values:
-  - 30.21
+  - 30210.0
   - 899.0669
-  - 91.278
+  - 91278.0
   - 300.5253
 - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_ship-recycling-market-insight-week-0_3923c14c4270.pdf'
   section_type: linked_pdf
@@ -685,7 +689,7 @@ numeric_observations:
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
   values:
-  - 86.216
+  - 86216.0
   - 75.19
   - 82.1
   - 4650.072
@@ -707,16 +711,18 @@ numeric_observations:
   - -1.0
   - -12.0
   - 2.0
+  - 1.0
   - 9786.0
   - 2613.0
-  - 4.0
+  - 8.0
+  - 34.0
 - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_img1_09786_2613adc8e34b.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 687x153 mode=RGB'
   unit: null
   values:
   - 687.0
-  - 53.0
+  - 153.0
 - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_img1_09786_2613adc8e34b.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'
@@ -731,6 +737,7 @@ numeric_observations:
   values:
   - 2.0
   - 390.0
+  - 10.0
   - 420.0
 - section: 'Linked asset: 2026-01-12_gms-week-02-taut-with-tensions_img1_09786_2613adc8e34b.jpg'
   section_type: linked_image_asset

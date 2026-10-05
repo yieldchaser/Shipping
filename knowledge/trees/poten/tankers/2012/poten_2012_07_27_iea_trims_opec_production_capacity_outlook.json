@@ -1,0 +1,343 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook__root",
+  "doc_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook",
+  "parent_id": null,
+  "title": "IEA Trims OPEC Production Capacity Outlook",
+  "section_path": [
+    "IEA Trims OPEC Production Capacity Outlook"
+  ],
+  "section_path_text": "IEA Trims OPEC Production Capacity Outlook",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "2013 by 1.07 mbpd\nIn addition to cutting demand estimates in its recent Oil Market Report, the International Energy Agency (IEA) sliced its forecasts for OPEC production capacity during 2013 by 1.07 mbpd since its December 2011 report. Baseline revisions and cuts in Iranian capacity, due to tighter sanctions, featured in the estimate reduction, which leaves AG capacity on a much slower trajectory. Combined with new refineries coming on line in the region, the new estimates imply a much lower level of crude export capacity available for VLCCs.",
+  "keywords": [
+    "vlcc",
+    "crude_oil",
+    "capacity",
+    "opec",
+    "mbpd",
+    "crude",
+    "during",
+    "production",
+    "spare",
+    "demand",
+    "but",
+    "estimates"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 703,
+  "source_path": "reports/poten/2012/poten_2012-07-27_iea-trims-opec-production-capacity-outlook.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook__s01_2013_by_1_07_mbpd",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook__root",
+      "title": "2013 by 1.07 mbpd",
+      "section_path": [
+        "2013 by 1.07 mbpd"
+      ],
+      "section_path_text": "2013 by 1.07 mbpd",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In addition to cutting demand estimates in its recent Oil Market Report, the International Energy Agency (IEA) sliced its forecasts for OPEC production capacity during 2013 by 1.07 mbpd since its December 2011 report. Baseline revisions and cuts in Iranian capacity, due to tighter sanctions, featured in the estimate reduction, which leaves AG capacity on a much slower trajectory.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "capacity",
+        "its",
+        "estimates",
+        "much",
+        "new",
+        "addition"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 108,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook__s02_iea_cut_opec_production",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook__root",
+      "title": "IEA cut OPEC production",
+      "section_path": [
+        "IEA cut OPEC production"
+      ],
+      "section_path_text": "IEA cut OPEC production",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "capacity estimates for 2013 by 1.07 mbpd",
+      "keywords": [
+        "capacity",
+        "estimates",
+        "mbpd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook__s03_libya_producing_wild",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook__root",
+      "title": "Libya producing wild",
+      "section_path": [
+        "Libya producing wild"
+      ],
+      "section_path_text": "Libya producing wild",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "swings in capacity, but AG growth slipping 2012F 2014F 2016F",
+      "keywords": [
+        "but",
+        "capacity",
+        "growth",
+        "slipping",
+        "swings"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 21,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook__s04_ag",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook__root",
+      "title": "AG",
+      "section_path": [
+        "AG"
+      ],
+      "section_path_text": "AG",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "africa",
+        "amer",
+        "lat"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook__s05_iranian_sanctions_cutting",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook__root",
+      "title": "Iranian sanctions cutting",
+      "section_path": [
+        "Iranian sanctions cutting"
+      ],
+      "section_path_text": "Iranian sanctions cutting",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "exports and capacity estimates This has left the AG region with only a 0.12 mbpd gain in capacity for 2013, as Iraqi and UAE capacity gains and the start-up of the Saudi Manifa field in late-2013 just manage to outpace Iranian losses. Estimates based upon the IEA's December update forecasts suggest that the AG could only see 0.71 of capacity growth during 2013-16, while total OPEC sustainable production capacity could rise by 1.78 mbpd during the four-year period.",
+      "keywords": [
+        "crude_oil",
+        "capacity",
+        "during",
+        "mbpd",
+        "could",
+        "estimates",
+        "growth",
+        "only"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 180,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook__s06_ag_capacity_rising_slowly",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook__root",
+      "title": "AG capacity rising slowly",
+      "section_path": [
+        "AG capacity rising slowly"
+      ],
+      "section_path_text": "AG capacity rising slowly",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "...with new refineries cutting export capacity Meanwhile, the combination of production capacity estimate cuts and sharply-higher Saudi Arabian output has eroded OPEC spare production capacity. As illustrated in the chart below, OPEC spare capacity has slid from a peak of 6.81 mbpd in early-2010, when OPEC crude production dropped below 29 mbpd, to 3.15 mbpd in June 2012, as OPEC crude output flirts with 32 mbpd..",
+      "keywords": [
+        "crude_oil",
+        "opec",
+        "capacity",
+        "mbpd",
+        "production",
+        "below",
+        "crude",
+        "output"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 107,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook__s07_ag_spare_capacity",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook__root",
+      "title": "AG spare capacity",
+      "section_path": [
+        "AG spare capacity"
+      ],
+      "section_path_text": "AG spare capacity",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "",
+      "keywords": [
+        "crude_oil",
+        "dominates",
+        "opec",
+        "total"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook__s08_ag",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook__root",
+      "title": "AG",
+      "section_path": [
+        "AG"
+      ],
+      "section_path_text": "AG",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "",
+      "keywords": [
+        "africa",
+        "amer",
+        "lat"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook__s09_with_opec_over",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook__root",
+      "title": "With OPEC over-",
+      "section_path": [
+        "With OPEC over-"
+      ],
+      "section_path_text": "With OPEC over-",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "producing, spare capacity not as tight as it seems Brent crude oil price did manage to hit $125/bbl during the Spring, but the market remained over-supplied with large stock builds, during a period of weakening macroeconomic demand fundamentals.",
+      "keywords": [
+        "crude_oil",
+        "during",
+        "bbl",
+        "brent",
+        "builds",
+        "but",
+        "capacity",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 49,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook__s10_as_a_percent_of_global_demand",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook__root",
+      "title": "as a Percent of Global Demand",
+      "section_path": [
+        "as a Percent of Global Demand"
+      ],
+      "section_path_text": "as a Percent of Global Demand",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "Relative to demand, spare capacity was near 2008 levels, but price response less violent 1q07 1q09 1q11 1q13F 1q15F",
+      "keywords": [
+        "but",
+        "capacity",
+        "demand",
+        "less",
+        "levels",
+        "near",
+        "price",
+        "q07"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 40,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook__s11_opec_spare_capacity",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook__root",
+      "title": "OPEC spare capacity",
+      "section_path": [
+        "OPEC spare capacity"
+      ],
+      "section_path_text": "OPEC spare capacity",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "rises as cartel backs away from stock builds Slower development of non-OPEC crude projects or stronger-than-expected oil demand growth could push the call on OPEC crude higher, boosting oil tanker demand, but would also cut into OPEC spare capacity, bringing it back towards 3%. This pattern of constrained and then relaxed commodity supply chains is providing a useful price rationing process for the global economy, but an oversupplied dirty tanker sector still remains caught the middle.",
+      "keywords": [
+        "crude_oil",
+        "but",
+        "crude",
+        "demand",
+        "oil",
+        "opec",
+        "away",
+        "back"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 95,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook__s12_constrained_oil_supply",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_27_iea_trims_opec_production_capacity_outlook__root",
+      "title": "Constrained oil supply",
+      "section_path": [
+        "Constrained oil supply"
+      ],
+      "section_path_text": "Constrained oil supply",
+      "level": 1,
+      "ordinal": 12,
+      "summary": "becoming an issuefor the tanker sector",
+      "keywords": [
+        "becoming",
+        "issuefor",
+        "sector"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -59,7 +59,7 @@ numeric_observations:
   - 150000.0
   - 10.0
   - 10.0
-  - 8600.0
+  - 8.6
 - section: Market Report Content
   section_type: null
   source_line: Atlantic Capesize Index London:+44 (0)20 7977 7404Email:research@ssyglobal.comWebsiteSSYGlobal.com

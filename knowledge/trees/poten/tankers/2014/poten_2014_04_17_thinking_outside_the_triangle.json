@@ -1,0 +1,117 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2014_04_17_thinking_outside_the_triangle__root",
+  "doc_id": "poten_tankers_no_date_poten_2014_04_17_thinking_outside_the_triangle",
+  "parent_id": null,
+  "title": "Thinking Outside the Triangle",
+  "section_path": [
+    "Thinking Outside the Triangle"
+  ],
+  "section_path_text": "Thinking Outside the Triangle",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Thinking Outside the Triangle\nAlthough US refined products exports largely underpin medium-range (MR) product tanker demand in the Atlantic Basin, there is little evidence of similar stability in US Gulf - UK Continent (TC14) freight rates. In many of the crude oil trades, high demand for crude oil in a particular market leads to high demand for ships and, often, robust freight rates. Because the Atlantic Basin refined product market is short-haul in nature and driven by traders' arbitrage activities, it is far more fickle.",
+  "keywords": [
+    "atlantic",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "cargoes",
+    "usa",
+    "are",
+    "demand",
+    "product",
+    "trades",
+    "fixtures"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 692,
+  "source_path": "reports/poten/2014/poten_2014-04-17_thinking-outside-the-triangle.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_04_17_thinking_outside_the_triangle__s01_thinking_outside_the_triangle",
+      "doc_id": "poten_tankers_no_date_poten_2014_04_17_thinking_outside_the_triangle",
+      "parent_id": "poten_tankers_no_date_poten_2014_04_17_thinking_outside_the_triangle__root",
+      "title": "Thinking Outside the Triangle",
+      "section_path": [
+        "Thinking Outside the Triangle"
+      ],
+      "section_path_text": "Thinking Outside the Triangle",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Although US refined products exports largely underpin medium-range (MR) product tanker demand in the Atlantic Basin, there is little evidence of similar stability in US Gulf - UK Continent (TC14) freight rates. In many of the crude oil trades, high demand for crude oil in a particular market leads to high demand for ships and, often, robust freight rates.",
+      "keywords": [
+        "atlantic",
+        "europe",
+        "us_gulf",
+        "crude_oil",
+        "products",
+        "are",
+        "product",
+        "trades"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 349,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_04_17_thinking_outside_the_triangle__s02_reported_spot_mr_fixtures",
+      "doc_id": "poten_tankers_no_date_poten_2014_04_17_thinking_outside_the_triangle",
+      "parent_id": "poten_tankers_no_date_poten_2014_04_17_thinking_outside_the_triangle__root",
+      "title": "Reported Spot MR Fixtures",
+      "section_path": [
+        "Reported Spot MR Fixtures"
+      ],
+      "section_path_text": "Reported Spot MR Fixtures",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "2014 Annualized USA - UKC 222 95 189 238 124 33 107 USA - ECSA 9 52 88 92 84 54 176 USA - CAR 74 130 181 164 196 88 286 USA - OPTS 37 67 52 54 205 45 146 2009 2010 2011 2012 2013 2014 YTD",
+      "keywords": [
+        "usa",
+        "annualized",
+        "car",
+        "ecsa",
+        "opts",
+        "ukc",
+        "ytd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 95,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_04_17_thinking_outside_the_triangle__s03_ukc_usa",
+      "doc_id": "poten_tankers_no_date_poten_2014_04_17_thinking_outside_the_triangle",
+      "parent_id": "poten_tankers_no_date_poten_2014_04_17_thinking_outside_the_triangle__root",
+      "title": "UKC - USA",
+      "section_path": [
+        "UKC - USA"
+      ],
+      "section_path_text": "UKC - USA",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "451 420 446 357 129 105 341 That said, on an annualized basis, the number of cargoes moving from Europe to the United States appears to be on the rise. There have already been 105 fixtures reported this year, suggesting that 2014 volumes could more in line with previous years.",
+      "keywords": [
+        "atlantic",
+        "europe",
+        "us_gulf",
+        "cargoes",
+        "gulf",
+        "increase",
+        "moving",
+        "opportunity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 230,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

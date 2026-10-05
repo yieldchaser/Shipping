@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2020_03_13_march_madness__root",
+  "doc_id": "poten_tankers_no_date_poten_2020_03_13_march_madness",
+  "parent_id": null,
+  "title": "March Madness",
+  "section_path": [
+    "March Madness"
+  ],
+  "section_path_text": "March Madness",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Tanker fixtures jump as producers prime the pump\nWe are near the end of another week of almost unprecedented volatility in the oil and tanker markets. It seems that the COVID-19 outbreak has put people and markets on edge and any change in outlook or unexpected event has an outsized impact on the markets. After the OPEC+ meeting concluded without an agreement one week ago, a quick succession of events in the oil market turned the crude oil tanker market upside down.",
+  "keywords": [
+    "vlcc",
+    "europe",
+    "crude_oil",
+    "oil",
+    "bahri",
+    "saudi",
+    "are",
+    "vessels",
+    "fixtures",
+    "per",
+    "vlccs",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 870,
+  "source_path": "reports/poten/2020/poten_2020-03-13_march-madness.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_03_13_march_madness__s01_tanker_fixtures_jump_as_producers_prime_the_pump",
+      "doc_id": "poten_tankers_no_date_poten_2020_03_13_march_madness",
+      "parent_id": "poten_tankers_no_date_poten_2020_03_13_march_madness__root",
+      "title": "Tanker fixtures jump as producers prime the pump",
+      "section_path": [
+        "Tanker fixtures jump as producers prime the pump"
+      ],
+      "section_path_text": "Tanker fixtures jump as producers prime the pump",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "We are near the end of another week of almost unprecedented volatility in the oil and tanker markets. It seems that the COVID-19 outbreak has put people and markets on edge and any change in outlook or unexpected event has an outsized impact on the markets.",
+      "keywords": [
+        "vlcc",
+        "europe",
+        "crude_oil",
+        "oil",
+        "bahri",
+        "saudi",
+        "are",
+        "vessels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 860,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

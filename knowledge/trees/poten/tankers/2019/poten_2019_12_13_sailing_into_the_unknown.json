@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2019_12_13_sailing_into_the_unknown__root",
+  "doc_id": "poten_tankers_no_date_poten_2019_12_13_sailing_into_the_unknown",
+  "parent_id": null,
+  "title": "Sailing Into The Unknown",
+  "section_path": [
+    "Sailing Into The Unknown"
+  ],
+  "section_path_text": "Sailing Into The Unknown",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "What will happen to the fuel oil trade post IMO 2020? Heavy fuel oil is the heaviest commercial fuel that can be obtained from crude oil, i.e., heavier than gasoline, jet fuel and diesel. Traditional bunker fuel is almost literally the \"bottom of the barrel\"; the only products denser than High Sulphur Fuel Oil (HSFO) are carbon black feedstock and asphalt.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "atlantic",
+    "singapore",
+    "crude_oil",
+    "products",
+    "gas",
+    "fuel",
+    "oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 916,
+  "source_path": "reports/poten/2019/poten_2019-12-13_sailing-into-the-unknown.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_12_13_sailing_into_the_unknown__s01_what_will_happen_to_the_fuel_oil_trade_post_imo_2020",
+      "doc_id": "poten_tankers_no_date_poten_2019_12_13_sailing_into_the_unknown",
+      "parent_id": "poten_tankers_no_date_poten_2019_12_13_sailing_into_the_unknown__root",
+      "title": "What will happen to the fuel oil trade post IMO 2020?",
+      "section_path": [
+        "What will happen to the fuel oil trade post IMO 2020?"
+      ],
+      "section_path_text": "What will happen to the fuel oil trade post IMO 2020?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Heavy fuel oil is the heaviest commercial fuel that can be obtained from crude oil, i.e., heavier than gasoline, jet fuel and diesel. Traditional bunker fuel is almost literally the \"bottom of the barrel\"; the only products denser than High Sulphur Fuel Oil (HSFO) are carbon black feedstock and asphalt.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "atlantic",
+        "singapore",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 902,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2020_05_22_oil_markets_are_rebalancing__root",
+  "doc_id": "poten_tankers_no_date_poten_2020_05_22_oil_markets_are_rebalancing",
+  "parent_id": null,
+  "title": "Oil Markets Are Rebalancing",
+  "section_path": [
+    "Oil Markets Are Rebalancing"
+  ],
+  "section_path_text": "Oil Markets Are Rebalancing",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Production cuts are having an impact\nWhat a difference a few weeks make. Freight rates in April went from strength to strength for both crude oil and product tankers as shipowners had the upper hand in a market where charterers were scrambling to get their hands on tanker capacity. The fear of running out of land-based storage capacity, in combination with a strong contango in the oil market spiked demand for floating storage.",
+  "keywords": [
+    "china",
+    "brazil",
+    "pacific",
+    "meg",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "mb/d",
+    "exports",
+    "down",
+    "may",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 901,
+  "source_path": "reports/poten/2020/poten_2020-05-22_oil-markets-are-rebalancing.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_05_22_oil_markets_are_rebalancing__s01_production_cuts_are_having_an_impact",
+      "doc_id": "poten_tankers_no_date_poten_2020_05_22_oil_markets_are_rebalancing",
+      "parent_id": "poten_tankers_no_date_poten_2020_05_22_oil_markets_are_rebalancing__root",
+      "title": "Production cuts are having an impact",
+      "section_path": [
+        "Production cuts are having an impact"
+      ],
+      "section_path_text": "Production cuts are having an impact",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "What a difference a few weeks make. Freight rates in April went from strength to strength for both crude oil and product tankers as shipowners had the upper hand in a market where charterers were scrambling to get their hands on tanker capacity.",
+      "keywords": [
+        "china",
+        "brazil",
+        "pacific",
+        "meg",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "mb/d"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 894,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

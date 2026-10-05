@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1246,
-  "source_path": "corpus/02-hellenic/vessel_valuations/2025/2025-10-29_weekly-vessel-valuations-report-october-29-2025.html",
+  "token_count": 2006,
+  "source_path": "reports/hellenic/vessel_valuations/2025/2025-10-29_weekly-vessel-valuations-report-october-29-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-october-29-2025",
   "children": [
     {
@@ -69,20 +69,20 @@
       "section_path_text": "Linked asset: 2025-10-29_weekly-vessel-valuations-report-october-29-2025_img1_2910202514_7df0a2f9f072.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2025/assets/2025-10-29_weekly-vessel-valuations-report-october-29-2025_img1_2910202514_7df0a2f9f072.jpg\n\nLinked image asset: 2025-10-29_weekly-vessel-valuations-report-october-29-2025_img1_2910202514_7df0a2f9f072.jpg\n\nImage metadata: JPEG 600x278 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\n© Vessels Va ere Pai\n29 October 2025 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra um mR Cape Pmax ‘Supra Handy nests Prax Handy Fmax\n6 102% 0.1% = 03% OK 10.2% 10.1% 30.7% 03% 10.5% 03% 02% OFF 05%\n320k 160k Sk Tsk SOK 180k 8m 62k 38% 7000 4250 80 noo\ns 10.1% 0.0% 03% ON +0.2% 10.1% 16% 03% 20.2% O36 02% 03% -*1.8%\n220k 160k NOk Sk SOK 180k ame 60k 38 7000 4250 780 noo\n= 104% 10.1% 03% 09% 40.2% 10.1% -+20% 04% 02% 03% 02% 03% 135%\n20k 160k nOk Sk SOk 180K 80k 60k Sk 7000 4250 780 100\n6 10.7% 0.0% 03% 22% +0.2% 10.1% 18% 08K BH 03% 0 OTH HAH\nB0k 160k NOK 73k SOk 180k 80k SSK 30k 7000 4250-80-00. ee 105% 0.0% 03% 3K +0.2% 10.0% 406% ZH LA 03% 02% 03K 12K\nSk 160k NOk 70% 45k 180k 75k SSK 30k 7000 «4250-80-00.",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2025/assets/2025-10-29_weekly-vessel-valuations-report-october-29-2025_img1_2910202514_7df0a2f9f072.jpg\n\nLinked image asset: 2025-10-29_weekly-vessel-valuations-report-october-29-2025_img1_2910202514_7df0a2f9f072.jpg\n\nImage metadata: JPEG 600x278 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\n[structured table]\n| © | Va ere | | | | | | | | | | | |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 29 October | 2025 | | | | VV Mini Matrix | - | Weekly | Change | | | | |\n| | | | Tankers | | | | Bulkers | | | | Containers | |\n| Year | vice | Suez | Afra | um mR | Cape | Pmax | ‘Supra | Handy | | | Handy | Fmax |\n| | 102% | | = 03% | OK | 10.1% | | 03% | | 03% | 02% | OFF | |\n| | 320k | 160k | Sk | | 180k | 8m | 62k | 38% | 7000 | 4250 | 80 | noo |\n| | 10.1% | 0.0% | | | 10.1% | | 03% | | | 02% | 03% | |\n| s | | | | | | | | | | | | |\n| | 220k | 160k | | | 180k | ame | 60k | 38 | 7000 | 4250 | 780 | noo |\n| | 104% | 10.1% | 03% | 09% | 10.1% | | 04% | 02% | 03% | 02% | 03% | 135% |\n| = | | | | | | | | | | | | |\n| | 20k | 160k | | SOk | 180K | 80k | 60k | | 7000 | 4250 | 780 | 100 |\n| | 10.7% | 0.0% | 03% | 22% +0.2% | 10.1% | | 08K | ",
       "keywords": [
         "capesize",
         "supramax",
         "handysize",
         "container",
-        "nok",
         "sok",
-        "ssk",
-        "asset"
+        "nok",
+        "handy",
+        "noo"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 654,
+      "token_count": 1414,
       "section_type": "linked_image_asset",
       "children": []
     }

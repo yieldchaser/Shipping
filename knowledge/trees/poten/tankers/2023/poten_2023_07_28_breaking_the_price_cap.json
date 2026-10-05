@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2023_07_28_breaking_the_price_cap__root",
+  "doc_id": "poten_tankers_no_date_poten_2023_07_28_breaking_the_price_cap",
+  "parent_id": null,
+  "title": "Breaking The Price Cap",
+  "section_path": [
+    "Breaking The Price Cap"
+  ],
+  "section_path_text": "Breaking The Price Cap",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Are owners leaving the Russian crude export trade? When the G7 introduced the crude oil price cap in December 2022, the idea was to keep the oil flowing, but at the same time limiting the oil export revenues for Russia as a punishment for their invasion of Ukraine. The price cap was set at $60/barrel, which is the maximum sales price at which marine service providers (owners, charterers, insurers, brokers, etc.) from G7 and EU countries can be involved in the Russian crude oil trade.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "india",
+    "crude_oil",
+    "russian",
+    "price",
+    "owners",
+    "russia",
+    "western",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 925,
+  "source_path": "reports/poten/2023/poten_2023-07-28_breaking-the-price-cap.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2023_07_28_breaking_the_price_cap__s01_are_owners_leaving_the_russian_crude_export_trade",
+      "doc_id": "poten_tankers_no_date_poten_2023_07_28_breaking_the_price_cap",
+      "parent_id": "poten_tankers_no_date_poten_2023_07_28_breaking_the_price_cap__root",
+      "title": "Are owners leaving the Russian crude export trade?",
+      "section_path": [
+        "Are owners leaving the Russian crude export trade?"
+      ],
+      "section_path_text": "Are owners leaving the Russian crude export trade?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "When the G7 introduced the crude oil price cap in December 2022, the idea was to keep the oil flowing, but at the same time limiting the oil export revenues for Russia as a punishment for their invasion of Ukraine. The price cap was set at $60/barrel, which is the maximum sales price at which marine service providers (owners, charterers, insurers, brokers, etc.) from G7 and EU countries can be involved in the Russian crude oil trade.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "india",
+        "crude_oil",
+        "russian",
+        "price"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 916,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2012_05_11_after_the_stock_build__root",
+  "doc_id": "poten_tankers_no_date_poten_2012_05_11_after_the_stock_build",
+  "parent_id": null,
+  "title": "After the Stock Build",
+  "section_path": [
+    "After the Stock Build"
+  ],
+  "section_path_text": "After the Stock Build",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "After the Stock Build\nIn this week's Petroleum Status Report, the US Energy Intelligence Agency (EIA) reported that US commercial crude inventories rose a higher-than-expected 3.7 MB last week, to 379.5 MB, the highest level since 1990. Crude oil prices declined on the news, also confronted by electoral uncertainty and recessionary conditions in Europe and weaker Chinese economic statistics. US crude stocks have jumped by 14.3 MB, or 511 kbpd, during the past four weeks, supported by a 3.5 MB rise in Cushing stocks, still awaiting an outlet in the Seaway pipeline reversal that starts on May 17th.",
+  "keywords": [
+    "china",
+    "meg",
+    "europe",
+    "crude_oil",
+    "gas",
+    "crude",
+    "during",
+    "mbpd",
+    "four",
+    "higher",
+    "kbpd",
+    "stocks"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 519,
+  "source_path": "reports/poten/2012/poten_2012-05-11_after-the-stock-build.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_05_11_after_the_stock_build__s01_after_the_stock_build",
+      "doc_id": "poten_tankers_no_date_poten_2012_05_11_after_the_stock_build",
+      "parent_id": "poten_tankers_no_date_poten_2012_05_11_after_the_stock_build__root",
+      "title": "After the Stock Build",
+      "section_path": [
+        "After the Stock Build"
+      ],
+      "section_path_text": "After the Stock Build",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In this week's Petroleum Status Report, the US Energy Intelligence Agency (EIA) reported that US commercial crude inventories rose a higher-than-expected 3.7 MB last week, to 379.5 MB, the highest level since 1990. Crude oil prices declined on the news, also confronted by electoral uncertainty and recessionary conditions in Europe and weaker Chinese economic statistics.",
+      "keywords": [
+        "china",
+        "europe",
+        "crude_oil",
+        "crude",
+        "cushing",
+        "inventories",
+        "still",
+        "stocks"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 168,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_05_11_after_the_stock_build__s02_total_us",
+      "doc_id": "poten_tankers_no_date_poten_2012_05_11_after_the_stock_build",
+      "parent_id": "poten_tankers_no_date_poten_2012_05_11_after_the_stock_build__root",
+      "title": "Total US",
+      "section_path": [
+        "Total US"
+      ],
+      "section_path_text": "Total US",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "US excl Cushing Source: EIA The inventory builds should not be surprising. Saudi Arabia has led a sharp rise in OPEC production, to 31.62 mbpd in April, which is prompting global stock building during the seasonal slide in crude runs, given the uncertainties surrounding the Iranian sanctions.",
+      "keywords": [
+        "meg",
+        "crude_oil",
+        "crude",
+        "during",
+        "mbpd",
+        "four",
+        "higher",
+        "first"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 335,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_05_11_after_the_stock_build__s03_mogas",
+      "doc_id": "poten_tankers_no_date_poten_2012_05_11_after_the_stock_build",
+      "parent_id": "poten_tankers_no_date_poten_2012_05_11_after_the_stock_build__root",
+      "title": "Mogas",
+      "section_path": [
+        "Mogas"
+      ],
+      "section_path_text": "Mogas",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "distillate",
+        "jet"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2022_07_15_spr_releases_turbocharge_us_crude_exports__root",
+  "doc_id": "poten_tankers_no_date_poten_2022_07_15_spr_releases_turbocharge_us_crude_exports",
+  "parent_id": null,
+  "title": "SPR Releases Turbocharge U.S. Crude Exports",
+  "section_path": [
+    "SPR Releases Turbocharge U.S. Crude Exports"
+  ],
+  "section_path_text": "SPR Releases Turbocharge U.S. Crude Exports",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Increasing flows from US Gulf will boost tanker demand\nFollowing the Russian invasion of Ukraine in February 2022, the United States has started to release crude oil from its Strategic Petroleum Reserve (SPR) to address the significant global supply disruptions that resulted from the conflict and related sanctions. The volumes that are being released are unprecedented. The Biden administration sold an initial 30 million barrels in March.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "atlantic",
+    "europe",
+    "india",
+    "us_gulf",
+    "crude_oil",
+    "oil",
+    "u.s.",
+    "crude",
+    "are",
+    "spr"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 945,
+  "source_path": "reports/poten/2022/poten_2022-07-15_spr-releases-turbocharge-us-crude-exports.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_07_15_spr_releases_turbocharge_us_crude_exports__s01_increasing_flows_from_us_gulf_will_boost_tanker_demand",
+      "doc_id": "poten_tankers_no_date_poten_2022_07_15_spr_releases_turbocharge_us_crude_exports",
+      "parent_id": "poten_tankers_no_date_poten_2022_07_15_spr_releases_turbocharge_us_crude_exports__root",
+      "title": "Increasing flows from US Gulf will boost tanker demand",
+      "section_path": [
+        "Increasing flows from US Gulf will boost tanker demand"
+      ],
+      "section_path_text": "Increasing flows from US Gulf will boost tanker demand",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Following the Russian invasion of Ukraine in February 2022, the United States has started to release crude oil from its Strategic Petroleum Reserve (SPR) to address the significant global supply disruptions that resulted from the conflict and related sanctions. The volumes that are being released are unprecedented.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "atlantic",
+        "europe",
+        "india",
+        "crude_oil",
+        "oil",
+        "u.s."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 935,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

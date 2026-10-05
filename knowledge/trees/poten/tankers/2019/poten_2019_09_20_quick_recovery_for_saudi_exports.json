@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2019_09_20_quick_recovery_for_saudi_exports__root",
+  "doc_id": "poten_tankers_no_date_poten_2019_09_20_quick_recovery_for_saudi_exports",
+  "parent_id": null,
+  "title": "Quick Recovery For Saudi Exports",
+  "section_path": [
+    "Quick Recovery For Saudi Exports"
+  ],
+  "section_path_text": "Quick Recovery For Saudi Exports",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Quick Recovery For Saudi Oil Exports? On September 14, 2019, the Abqaiq crude oil processing plant, as well as facilities related to the Khurais oilfield were attacked with drones and missiles. These facilities processed about 5.7 Million barrels per day (Mb/d) of crude oil to make it suitable for transportation and refining.",
+  "keywords": [
+    "vlcc",
+    "atlantic",
+    "meg",
+    "crude_oil",
+    "products",
+    "saudi",
+    "oil",
+    "crude",
+    "arabia",
+    "are",
+    "day",
+    "light"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 856,
+  "source_path": "reports/poten/2019/poten_2019-09-20_quick-recovery-for-saudi-exports.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_09_20_quick_recovery_for_saudi_exports__s01_quick_recovery_for_saudi_oil_exports",
+      "doc_id": "poten_tankers_no_date_poten_2019_09_20_quick_recovery_for_saudi_exports",
+      "parent_id": "poten_tankers_no_date_poten_2019_09_20_quick_recovery_for_saudi_exports__root",
+      "title": "Quick Recovery For Saudi Oil Exports?",
+      "section_path": [
+        "Quick Recovery For Saudi Oil Exports?"
+      ],
+      "section_path_text": "Quick Recovery For Saudi Oil Exports?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "On September 14, 2019, the Abqaiq crude oil processing plant, as well as facilities related to the Khurais oilfield were attacked with drones and missiles. These facilities processed about 5.7 Million barrels per day (Mb/d) of crude oil to make it suitable for transportation and refining.",
+      "keywords": [
+        "vlcc",
+        "atlantic",
+        "meg",
+        "crude_oil",
+        "products",
+        "saudi",
+        "crude",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 848,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

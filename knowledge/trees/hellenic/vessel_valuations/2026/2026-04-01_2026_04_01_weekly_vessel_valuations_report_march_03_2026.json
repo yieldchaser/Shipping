@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1254,
-  "source_path": "corpus/02-hellenic/vessel_valuations/2026/2026-04-01_weekly-vessel-valuations-report-march-03-2026.html",
+  "token_count": 1991,
+  "source_path": "reports/hellenic/vessel_valuations/2026/2026-04-01_weekly-vessel-valuations-report-march-03-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-march-03-2026",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-04-01_weekly-vessel-valuations-report-march-03-2026_14202511_adcf5a3c1749.jpeg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2026/assets/2026-04-01_weekly-vessel-valuations-report-march-03-2026_14202511_adcf5a3c1749.jpeg\n\nLinked image asset: 2026-04-01_weekly-vessel-valuations-report-march-03-2026_14202511_adcf5a3c1749.jpeg\n\nImage metadata: JPEG 600x278 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\n(D) Vessels Vale) pa\n31 March 2026 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra mi MR Cape Pmax ‘Supra Handy poe Prax Handy Fmax\nAe +2 7 10.6% 12% 0.6% 06% ass 104% +O. 10.1% 10.8% 102%\n© 320k 160k Sk Sk SOK 180k 8% 62k 38% 7000 4250 80 noo\ns 14% #23 HLH 60S LDH 06% 09% HOA 00% = 0.0% 0.6K 03%\n520k 160k nNOk 78k SOK 180K oak 60k 3a 7000 4250 780 noo\n= Seo) lt eS) sd 06% 401% 125% 10.5% 0% 10.2% 10.7% 0.8%\n320k 160k nOk Sk SOK 180K 80k 60k Sk 7000 4250 1780 noo\n* Src rt et Ys 00% 10.7% 129% 10.4% 0% 10.3% LHL\n30k = 160k NOk 78k Sk 180k 80k 60k 3k 7000 «4250-80-00\n5 4% 474 OTH NH 06% 102% 129% 10.41 102% «403% SH\nSk 160k NOk 70K 45k 180k 75k SSK 30k 7000 4250-8000.",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2026/assets/2026-04-01_weekly-vessel-valuations-report-march-03-2026_14202511_adcf5a3c1749.jpeg\n\nLinked image asset: 2026-04-01_weekly-vessel-valuations-report-march-03-2026_14202511_adcf5a3c1749.jpeg\n\nImage metadata: JPEG 600x278 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\n[structured table]\n| | Vessels | | | | | | pa | | | | | | |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 31 March | 2026 | | | | VV | Mini Matrix | - | Weekly | Change | | | | |\n| | | | Tankers | | | | | Bulkers | | | | Containers | |\n| Year | vice | Suez | Afra | | MR | Cape | Pmax | ‘Supra | Handy | | Prax | Handy | Fmax |\n| © | Ae | +2 | 7 | 10.6% | 12% | 0.6% | 06% | ass | 104% | | | 10.8% | 102% |\n| | 320k | 160k | Sk | Sk | SOK | 180k | 8% | 62k | 38% | 7000 | 4250 | 80 | noo |\n| | 14% | | | | | 06% | | | | 00% | | | 03% |\n| | 520k | 160k | nNOk | 78k | | 180K | oak | 60k | 3a | 7000 | 4250 | 780 | noo |\n| | | | | | | 06% | | 125% | 10.5% | 0% | | 10.7% | |\n| = | | | | | | | | | | | | | |\n| | 320k | 160k | nOk | Sk | | 180K | 80k | 60k | | 7000 | 4250 | 1780 | noo |\n| | | | | | | 00% | 10.7% | 129% | 10.4% | | | | |\n| | 30k | 160k | NOk | 78",
       "keywords": [
         "capesize",
         "supramax",
@@ -78,11 +78,11 @@
         "brazil",
         "nok",
         "noo",
-        "sok"
+        "handy"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 599,
+      "token_count": 1336,
       "section_type": "linked_image_asset",
       "children": []
     }

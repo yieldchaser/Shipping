@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2014_06_13_putting_the_mess_in_mesopotamia__root",
+  "doc_id": "poten_tankers_no_date_poten_2014_06_13_putting_the_mess_in_mesopotamia",
+  "parent_id": null,
+  "title": "Putting the Mess in Mesopotamia",
+  "section_path": [
+    "Putting the Mess in Mesopotamia"
+  ],
+  "section_path_text": "Putting the Mess in Mesopotamia",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "1 Iraqi Crude Oil Production\nA troublesome turn of events Things appear to be heating up in Iraq, and not just the temperature. Sunni militia, mainly affiliated with the Islamic State of Iraq and greater Syria (ISIS) captured territory in the northern part of the country, including Mosul the second largest city in Iraq, and Tikrit, closer to Baghdad. So far the Sunni insurgents have not threatened the oil rich territory around Kirkuk and the southern part of the country.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "meg",
+    "crude_oil",
+    "gas",
+    "oil",
+    "iraq",
+    "crude",
+    "its",
+    "but",
+    "are",
+    "country"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 971,
+  "source_path": "reports/poten/2014/poten_2014-06-13_putting-the-mess-in-mesopotamia.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_06_13_putting_the_mess_in_mesopotamia__s01_fig_1_iraqi_crude_oil_production",
+      "doc_id": "poten_tankers_no_date_poten_2014_06_13_putting_the_mess_in_mesopotamia",
+      "parent_id": "poten_tankers_no_date_poten_2014_06_13_putting_the_mess_in_mesopotamia__root",
+      "title": "Fig. 1 Iraqi Crude Oil Production",
+      "section_path": [
+        "Fig. 1 Iraqi Crude Oil Production"
+      ],
+      "section_path_text": "Fig. 1 Iraqi Crude Oil Production",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "A troublesome turn of events Things appear to be heating up in Iraq, and not just the temperature. Sunni militia, mainly affiliated with the Islamic State of Iraq and greater Syria (ISIS) captured territory in the northern part of the country, including Mosul the second largest city in Iraq, and Tikrit, closer to Baghdad.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "meg",
+        "crude_oil",
+        "gas",
+        "iraq",
+        "oil",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 754,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_06_13_putting_the_mess_in_mesopotamia__s02_basrah_crude_oil",
+      "doc_id": "poten_tankers_no_date_poten_2014_06_13_putting_the_mess_in_mesopotamia",
+      "parent_id": "poten_tankers_no_date_poten_2014_06_13_putting_the_mess_in_mesopotamia__root",
+      "title": "Basrah Crude Oil",
+      "section_path": [
+        "Basrah Crude Oil"
+      ],
+      "section_path_text": "Basrah Crude Oil",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Price/Bbl $M M Barrels $M M Barrels $M M Barrels Jul‐13 $66.4 6,695 $5.6 577 $72.0 7,272 $101.00 Aug‐13 $71.6 7,467 $8.4 889 $80.0 8,356 $104.45 Sep‐13 $54.6 5,723 $7.5 788 $62.1 6,511 $104.87 Oct‐13 $63.8 6,539 $6.0 621 $69.8 7,160 $102.58 Nov‐13 $62.2 6,376 $9.2 948 $71.4 7,324 $102.58 Dec‐13 $64.5 6,634 $8.1 836 $72.6 7,470 $102.89",
+      "keywords": [
+        "crude_oil",
+        "barrels",
+        "aug",
+        "avg.",
+        "crude",
+        "dec",
+        "jul",
+        "kirkuk"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 201,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

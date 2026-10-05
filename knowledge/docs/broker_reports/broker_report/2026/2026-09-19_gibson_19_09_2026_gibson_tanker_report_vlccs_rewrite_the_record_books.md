@@ -62,7 +62,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/gibson_19_09_2026_gibson_tanker_report_vlccs_rewrite_the_record_books.md
+source_path: reports/broker_reports/2026/carriers/gibson_19_09_2026_gibson_tanker_report_vlccs_rewrite_the_record_books.md
 source_stem: gibson_19_09_2026_gibson_tanker_report_vlccs_rewrite_the_record_books
 source_url: https://www.hellenicshippingnews.com/gibson-tanker-report-vlccs-rewrite-the-record-books/
 summary: 'Gibson tanker report - VLCCs Rewrite the Record Books

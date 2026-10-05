@@ -74,7 +74,7 @@ numeric_observations:
   unit: pct
   values:
   - 10.0
-  - 12500.0
+  - 12.5
 - section: Market Report Content
   section_type: null
   source_line: tariff wall that was struck down by the Supreme Court. President Trump's
@@ -96,7 +96,7 @@ numeric_observations:
     forced labour. Critics argue the
   unit: pct
   values:
-  - 99400.0
+  - 99.4
 - section: Market Report Content
   section_type: null
   source_line: administration is using Section 301 to recreate the broad tariff regime
@@ -154,7 +154,7 @@ numeric_observations:
     multi-month highs of 8.7 days. In
   unit: null
   values:
-  - 8700.0
+  - 8.7
 - section: Market Report Content
   section_type: null
   source_line: contrast, BPI dropped to 2,024 points, while the BSI slipped to 1,694
@@ -253,7 +253,7 @@ numeric_observations:
   source_line: 'YoY: +21.53%'
   unit: pct
   values:
-  - 21530.0
+  - 21.53
 - section: Market Report Content
   section_type: null
   source_line: 'WoW: +4.59%'
@@ -265,7 +265,7 @@ numeric_observations:
   source_line: 'YoY: +11.91%'
   unit: pct
   values:
-  - 11910.0
+  - 11.91
 - section: Market Report Content
   section_type: null
   source_line: 'WoW: -10.32%'
@@ -277,7 +277,7 @@ numeric_observations:
   source_line: 'YoY: +10.12%'
   unit: pct
   values:
-  - 10120.0
+  - 10.12
 - section: Market Report Content
   section_type: null
   source_line: 'WoW: -2.08%'
@@ -289,7 +289,7 @@ numeric_observations:
   source_line: 'YoY: +30.91%'
   unit: pct
   values:
-  - 30910.0
+  - 30.91
 - section: Market Report Content
   section_type: null
   source_line: 'WoW: +0.11%'
@@ -301,7 +301,7 @@ numeric_observations:
   source_line: 'YoY: +32.70%'
   unit: pct
   values:
-  - 32700.000000000004
+  - 32.7
 - section: Market Report Content
   section_type: null
   source_line: CAPESIZE 180,000 $76M $82M $70M $55M (E) $35M
@@ -342,7 +342,7 @@ numeric_observations:
   values:
   - 179523.0
   - 2012.0
-  - 37500.0
+  - 37.5
 - section: Market Report Content
   section_type: null
   source_line: NICHOLAS G. S CAPE 179,221 2010 / S. KOREA 34.5 UNDISCLOSED
@@ -350,7 +350,7 @@ numeric_observations:
   values:
   - 179221.0
   - 2010.0
-  - 34500.0
+  - 34.5
 - section: Market Report Content
   section_type: null
   source_line: ANDROMEDA KMAX 82,258 2022 / CHINA 37.5 EACH SWISS BUYERS
@@ -358,7 +358,7 @@ numeric_observations:
   values:
   - 82258.0
   - 2022.0
-  - 37500.0
+  - 37.5
 - section: Market Report Content
   section_type: null
   source_line: / BRITA OLDENDORFF UMAX 62,623 2020 / JAPAN 37.0 EACH MEGHNA PVC LTD
@@ -366,7 +366,7 @@ numeric_observations:
   values:
   - 62623.0
   - 2020.0
-  - 37000.0
+  - 37.0
 - section: Market Report Content
   section_type: null
   source_line: INCE BEYLERBEYI UMAX 61,429 2012 / JAPAN 22.0 MIDSTAR
@@ -374,7 +374,7 @@ numeric_observations:
   values:
   - 61429.0
   - 2012.0
-  - 22000.0
+  - 22.0
 - section: Market Report Content
   section_type: null
   source_line: IVS CRIMSON CREEK SMAX 57,945 2014 / JAPAN 23.3 GREEK BUYERS
@@ -382,7 +382,7 @@ numeric_observations:
   values:
   - 57945.0
   - 2014.0
-  - 23300.0
+  - 23.3
 - section: Market Report Content
   section_type: null
   source_line: HPC ATLANTIC SMAX 56,064 2013 / JAPAN 19.5 UNDISCLOSED
@@ -390,7 +390,7 @@ numeric_observations:
   values:
   - 56064.0
   - 2013.0
-  - 19500.0
+  - 19.5
 - section: Market Report Content
   section_type: null
   source_line: AEGIR SELMER SMAX 55,874 2011 / JAPAN 16.2 UNDISCLOSED
@@ -398,7 +398,7 @@ numeric_observations:
   values:
   - 55874.0
   - 2011.0
-  - 16200.0
+  - 16.2
 - section: Market Report Content
   section_type: null
   source_line: SEAMEC GALLANT HANDY 32,289 2011 / CHINA 9.5 UNDISCLOSED
@@ -406,7 +406,7 @@ numeric_observations:
   values:
   - 32289.0
   - 2011.0
-  - 9500.0
+  - 9.5
 - section: Market Report Content
   section_type: null
   source_line: snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 4
@@ -481,7 +481,7 @@ numeric_observations:
   unit: pct
   values:
   - 2502.0
-  - 10320.0
+  - 10.32
 - section: Market Report Content
   section_type: null
   source_line: Sea placed critical Middle Eastern export channels under severe strain.
@@ -495,9 +495,9 @@ numeric_observations:
     reach US $89.57, extending cumulative
   unit: pct
   values:
-  - 98030.0
+  - 98.03
   - 3.16
-  - 89570.0
+  - 89.57
 - section: Market Report Content
   section_type: null
   source_line: price gains to nearly 20% over the past fortnight. The latest price
@@ -558,7 +558,7 @@ numeric_observations:
   source_line: 'WoW: +10.32%'
   unit: pct
   values:
-  - 10320.0
+  - 10.32
 - section: Market Report Content
   section_type: null
   source_line: 'YoY: +183.67%'
@@ -570,7 +570,7 @@ numeric_observations:
   source_line: 'WoW: +11.83%'
   unit: pct
   values:
-  - 11830.0
+  - 11.83
 - section: Market Report Content
   section_type: null
   source_line: 'YoY: +108.39%'
@@ -638,7 +638,7 @@ numeric_observations:
   values:
   - 19995.0
   - 2012.0
-  - 22700.0
+  - 22.7
 - section: Market Report Content
   section_type: null
   source_line: DING HENG 39 PROD /
@@ -652,7 +652,7 @@ numeric_observations:
   values:
   - 19994.0
   - 2008.0
-  - 18300.0
+  - 18.3
 - section: Market Report Content
   section_type: null
   source_line: CHEM 19,773 2004 / JAPAN 11.5 (STST) UNDISCLOSED
@@ -660,7 +660,7 @@ numeric_observations:
   values:
   - 19773.0
   - 2004.0
-  - 11500.0
+  - 11.5
 - section: Market Report Content
   section_type: null
   source_line: snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 7
@@ -777,7 +777,7 @@ numeric_observations:
   values:
   - 1118.0
   - 2003.0
-  - 11000.0
+  - 11.0
 - section: Market Report Content
   section_type: null
   source_line: snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 9
@@ -1017,7 +1017,7 @@ numeric_observations:
   unit: null
   values:
   - 24603.0
-  - 24070.0
+  - 24.07
   - 2026.0
 - section: Market Report Content
   section_type: null
@@ -1025,7 +1025,7 @@ numeric_observations:
   unit: null
   values:
   - 3152.0
-  - 23070.0
+  - 23.07
   - 2026.0
 regions:
 - china

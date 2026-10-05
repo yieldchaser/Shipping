@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2009_07_17_between_iraq_and_a_hard_place__root",
+  "doc_id": "poten_tankers_no_date_poten_2009_07_17_between_iraq_and_a_hard_place",
+  "parent_id": null,
+  "title": "Between Iraq and a Hard Place",
+  "section_path": [
+    "Between Iraq and a Hard Place"
+  ],
+  "section_path_text": "Between Iraq and a Hard Place",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Between Iraq and a Hard Place\nIn recent weeks, Iraq has made headlines again; however this time not because of casualties, war or civil strife. After more than half a decade of instability and reconstruction, the oil‐rich nation is now pressing the opportunities to host foreign commerce. Nestled between the two largest proven reserves of oil, Saudi Arabia and Iran, Iraq follows suit as the third largest proven conventional oil‐reserve at approximately 115 billion bbls.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "meg",
+    "europe",
+    "crude_oil",
+    "gas",
+    "oil",
+    "iraq",
+    "fields",
+    "not",
+    "arabian",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 777,
+  "source_path": "reports/poten/2009/poten_2009-07-17_between-iraq-and-a-hard-place.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_07_17_between_iraq_and_a_hard_place__s01_between_iraq_and_a_hard_place",
+      "doc_id": "poten_tankers_no_date_poten_2009_07_17_between_iraq_and_a_hard_place",
+      "parent_id": "poten_tankers_no_date_poten_2009_07_17_between_iraq_and_a_hard_place__root",
+      "title": "Between Iraq and a Hard Place",
+      "section_path": [
+        "Between Iraq and a Hard Place"
+      ],
+      "section_path_text": "Between Iraq and a Hard Place",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In recent weeks, Iraq has made headlines again; however this time not because of casualties, war or civil strife. After more than half a decade of instability and reconstruction, the oil‐rich nation is now pressing the opportunities to host foreign commerce.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "gas",
+        "oil",
+        "iraq",
+        "after",
+        "foreign",
+        "its"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 267,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_07_17_between_iraq_and_a_hard_place__s02_oil_rich",
+      "doc_id": "poten_tankers_no_date_poten_2009_07_17_between_iraq_and_a_hard_place",
+      "parent_id": "poten_tankers_no_date_poten_2009_07_17_between_iraq_and_a_hard_place__root",
+      "title": "Oil Rich",
+      "section_path": [
+        "Oil Rich"
+      ],
+      "section_path_text": "Oil Rich",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "There are approximately 71 oil fields located within Iraq. The Rumaila field, which was awarded to BP and CNPC is located in Southern Iraq ‐ not far from Basrah.",
+      "keywords": [
+        "crude_oil",
+        "gas",
+        "fields",
+        "not",
+        "oil",
+        "but",
+        "first",
+        "five"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 155,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_07_17_between_iraq_and_a_hard_place__s03_top_conventional_oil_reserves_2009",
+      "doc_id": "poten_tankers_no_date_poten_2009_07_17_between_iraq_and_a_hard_place",
+      "parent_id": "poten_tankers_no_date_poten_2009_07_17_between_iraq_and_a_hard_place__root",
+      "title": "Top Conventional Oil Reserves ‐ 2009",
+      "section_path": [
+        "Top Conventional Oil Reserves ‐ 2009"
+      ],
+      "section_path_text": "Top Conventional Oil Reserves ‐ 2009",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "However, approaching Iraq for its black gold is a little trickier, or so it seems by the recent bidding. Without a doubt, the newly formed consortium and their successful contract will help to alleviate some uneasiness related to breaking into the Iraqi market and working with the Oil Ministry.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "europe",
+        "crude_oil",
+        "oil",
+        "iraq",
+        "arabian",
+        "even"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 333,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

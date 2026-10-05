@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2006_06_30_api_the_golden_year__root",
+  "doc_id": "poten_tankers_no_date_poten_2006_06_30_api_the_golden_year",
+  "parent_id": null,
+  "title": "API: The Golden Year",
+  "section_path": [
+    "API: The Golden Year"
+  ],
+  "section_path_text": "API: The Golden Year",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "API: The Golden Year\nSince 1956, industry experts have been gathering biennially for the API Tanker Conference. This year's conference entitled, \"Natural Disaster Response and Recovery\" featured several well-appointed panels. This topic is especially fitting as many shipping, refining and oil companies were devastated in last year's hurricane season and the 2006 hurricane season has just begun.",
+  "keywords": [
+    "lng",
+    "us_gulf",
+    "crude_oil",
+    "gas",
+    "was",
+    "response",
+    "spoke",
+    "companies",
+    "conference",
+    "discussion",
+    "president",
+    "efforts"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 984,
+  "source_path": "reports/poten/2006/poten_2006-06-30_api-the-golden-year.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_06_30_api_the_golden_year__s01_api_the_golden_year",
+      "doc_id": "poten_tankers_no_date_poten_2006_06_30_api_the_golden_year",
+      "parent_id": "poten_tankers_no_date_poten_2006_06_30_api_the_golden_year__root",
+      "title": "API: The Golden Year",
+      "section_path": [
+        "API: The Golden Year"
+      ],
+      "section_path_text": "API: The Golden Year",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Since 1956, industry experts have been gathering biennially for the API Tanker Conference. This year's conference entitled, \"Natural Disaster Response and Recovery\" featured several well-appointed panels.",
+      "keywords": [
+        "crude_oil",
+        "conference",
+        "hurricane",
+        "response",
+        "administration",
+        "disaster",
+        "discussed",
+        "each"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 291,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_06_30_api_the_golden_year__s02_have_a_back_up_plan",
+      "doc_id": "poten_tankers_no_date_poten_2006_06_30_api_the_golden_year",
+      "parent_id": "poten_tankers_no_date_poten_2006_06_30_api_the_golden_year__root",
+      "title": "Have a Back-up Plan",
+      "section_path": [
+        "Have a Back-up Plan"
+      ],
+      "section_path_text": "Have a Back-up Plan",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Private industry was also given an opportunity to voice opinions about effective tactics and practices in response to these compromising situations. Jonathan Whitworth, CEO of Maritrans, Inc.",
+      "keywords": [
+        "lng",
+        "us_gulf",
+        "crude_oil",
+        "gas",
+        "was",
+        "response",
+        "spoke",
+        "companies"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 681,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

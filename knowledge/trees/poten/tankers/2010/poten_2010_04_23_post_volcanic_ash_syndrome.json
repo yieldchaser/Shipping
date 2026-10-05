@@ -1,0 +1,174 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_04_23_post_volcanic_ash_syndrome__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_04_23_post_volcanic_ash_syndrome",
+  "parent_id": null,
+  "title": "Post Volcanic Ash Syndrome",
+  "section_path": [
+    "Post Volcanic Ash Syndrome"
+  ],
+  "section_path_text": "Post Volcanic Ash Syndrome",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Post Volcanic Ash Syndrome\nAs market dynamics unleashed along with columns of smoke and ash from the Eyjafjallajokull volcano continue to work their way through the international economy, the full effect of the week's events has yet to fully reveal itself. It is already clear that the cessation of airplane traffic across Europe sharply reduced demand for jet fuel in the region, with consequences that filtered through crude oil and refined product markets this week. The tanker market impact of the transportation chaos, however, will become clearer only in the days to come, as refiners, traders, charterers and owners continue to digest this week's developments.",
+  "keywords": [
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "fuel",
+    "jet",
+    "storage",
+    "refiners",
+    "demand",
+    "floating",
+    "cargoes",
+    "european"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1059,
+  "source_path": "reports/poten/2010/poten_2010-04-23_post-volcanic-ash-syndrome.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_04_23_post_volcanic_ash_syndrome__s01_post_volcanic_ash_syndrome",
+      "doc_id": "poten_tankers_no_date_poten_2010_04_23_post_volcanic_ash_syndrome",
+      "parent_id": "poten_tankers_no_date_poten_2010_04_23_post_volcanic_ash_syndrome__root",
+      "title": "Post Volcanic Ash Syndrome",
+      "section_path": [
+        "Post Volcanic Ash Syndrome"
+      ],
+      "section_path_text": "Post Volcanic Ash Syndrome",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As market dynamics unleashed along with columns of smoke and ash from the Eyjafjallajokull volcano continue to work their way through the international economy, the full effect of the week's events has yet to fully reveal itself. It is already clear that the cessation of airplane traffic across Europe sharply reduced demand for jet fuel in the region, with consequences that filtered through crude oil and refined product markets this week.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "products",
+        "fuel",
+        "jet",
+        "demand",
+        "already",
+        "continue"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 235,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_04_23_post_volcanic_ash_syndrome__s02_mt",
+      "doc_id": "poten_tankers_no_date_poten_2010_04_23_post_volcanic_ash_syndrome",
+      "parent_id": "poten_tankers_no_date_poten_2010_04_23_post_volcanic_ash_syndrome__root",
+      "title": "$ / mt",
+      "section_path": [
+        "$ / mt"
+      ],
+      "section_path_text": "$ / mt",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Jet fuel cargoes are often delivered to pipelines that carry supplies directly to airports and storage at these sites tends to be limited. With flights grounded and little additional onshore storage available, the logistics of delivering jet fuel to customers in Northwest Europe were severely complicated, prompting some airlines to declare force majeure and stop accepting delivery.",
+      "keywords": [
+        "europe",
+        "products",
+        "fuel",
+        "jet",
+        "deliveries",
+        "storage",
+        "cargoes",
+        "force"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 180,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_04_23_post_volcanic_ash_syndrome__s03_majeure_challenges",
+      "doc_id": "poten_tankers_no_date_poten_2010_04_23_post_volcanic_ash_syndrome",
+      "parent_id": "poten_tankers_no_date_poten_2010_04_23_post_volcanic_ash_syndrome__root",
+      "title": "\"Majeure\" Challenges",
+      "section_path": [
+        "\"Majeure\" Challenges"
+      ],
+      "section_path_text": "\"Majeure\" Challenges",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "With some of the fuel's main customers unable to accept delivery, European refiners must confront the challenge of what to do with jet fuel supplies intended for the continent's cancelled flights. Area refiners producing unneeded kerosene have two main options: they can blend the excess fuel into middle distillates or change their configurations to reduce jet fuel production.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "fuel",
+        "jet",
+        "refiners",
+        "excess"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 236,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_04_23_post_volcanic_ash_syndrome__s04_floating_inquiries",
+      "doc_id": "poten_tankers_no_date_poten_2010_04_23_post_volcanic_ash_syndrome",
+      "parent_id": "poten_tankers_no_date_poten_2010_04_23_post_volcanic_ash_syndrome__root",
+      "title": "Floating Inquiries",
+      "section_path": [
+        "Floating Inquiries"
+      ],
+      "section_path_text": "Floating Inquiries",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "A contango pricing structure in European jet fuel to gasoil swap markets was widened by the sharp drop in near‐term jet fuel demand following the flight stoppage. The premium for jet fuel in Northwest Europe over gasoil futures on the ICE exchange narrowed from $45 per metric ton on April 15 to $35 per metric ton on April 19, as shown in the following chart.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "fuel",
+        "jet",
+        "storage",
+        "april"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 176,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_04_23_post_volcanic_ash_syndrome__s05_tankers_awaiting",
+      "doc_id": "poten_tankers_no_date_poten_2010_04_23_post_volcanic_ash_syndrome",
+      "parent_id": "poten_tankers_no_date_poten_2010_04_23_post_volcanic_ash_syndrome__root",
+      "title": "Tankers Awaiting",
+      "section_path": [
+        "Tankers Awaiting"
+      ],
+      "section_path_text": "Tankers Awaiting",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Going forward, unwinding the logjam surrounding delivery of jet fuel to airports in Europe is likely to keep ships out of the market and could lend some support to clean carrier freight rates. Some increase in floating storage fixtures as a result of opportunities created by the jet fuel demand disruptions in Europe this week is likely, though which cargoes are most likely to be stored on those fixtures depends mostly on what regional refiners choose to do with their jet fuel.",
+      "keywords": [
+        "europe",
+        "products",
+        "jet",
+        "storage",
+        "floating",
+        "fuel",
+        "likely",
+        "clean"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 206,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

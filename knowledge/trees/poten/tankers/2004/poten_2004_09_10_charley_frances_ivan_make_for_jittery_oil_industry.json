@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2004_09_10_charley_frances_ivan_make_for_jittery_oil_industry__root",
+  "doc_id": "poten_tankers_no_date_poten_2004_09_10_charley_frances_ivan_make_for_jittery_oil_industry",
+  "parent_id": null,
+  "title": "Charley, Frances & Ivan Make for Jittery Oil Industry",
+  "section_path": [
+    "Charley, Frances & Ivan Make for Jittery Oil Industry"
+  ],
+  "section_path_text": "Charley, Frances & Ivan Make for Jittery Oil Industry",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Charley, Frances & Ivan\nMake for Jittery Oil Industry Anyone who doubted or maybe just forgot that the end of summer into early fall is hurricane season, let the rule of three forever be the reminder. Hurricane Charley made landfall in Florida on Aug. 13 destroying an estimated $15 billion worth of property and homes.",
+  "keywords": [
+    "aframax",
+    "us_gulf",
+    "crude_oil",
+    "oil",
+    "ivan",
+    "hurricane",
+    "activity",
+    "bahamas",
+    "florida",
+    "frances",
+    "increased",
+    "potential"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 461,
+  "source_path": "reports/poten/2004/poten_2004-09-10_charley-frances-ivan-make-for-jittery-oil-industry.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_09_10_charley_frances_ivan_make_for_jittery_oil_industry__s01_charley_frances_ivan",
+      "doc_id": "poten_tankers_no_date_poten_2004_09_10_charley_frances_ivan_make_for_jittery_oil_industry",
+      "parent_id": "poten_tankers_no_date_poten_2004_09_10_charley_frances_ivan_make_for_jittery_oil_industry__root",
+      "title": "Charley, Frances & Ivan",
+      "section_path": [
+        "Charley, Frances & Ivan"
+      ],
+      "section_path_text": "Charley, Frances & Ivan",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Make for Jittery Oil Industry Anyone who doubted or maybe just forgot that the end of summer into early fall is hurricane season, let the rule of three forever be the reminder. Hurricane Charley made landfall in Florida on Aug.",
+      "keywords": [
+        "us_gulf",
+        "crude_oil",
+        "oil",
+        "hurricane",
+        "ivan",
+        "bahamas",
+        "florida",
+        "potential"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 328,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_09_10_charley_frances_ivan_make_for_jittery_oil_industry__s02_doe_poten",
+      "doc_id": "poten_tankers_no_date_poten_2004_09_10_charley_frances_ivan_make_for_jittery_oil_industry",
+      "parent_id": "poten_tankers_no_date_poten_2004_09_10_charley_frances_ivan_make_for_jittery_oil_industry__root",
+      "title": "DOE/ Poten",
+      "section_path": [
+        "DOE/ Poten"
+      ],
+      "section_path_text": "DOE/ Poten",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "What Has this Done to the Tanker Market? As shown below, Aframax fixture activity and hence rates have fallen since the beginning of August when there were no hurricanes in the forecast.",
+      "keywords": [
+        "aframax",
+        "august",
+        "activity",
+        "activity.",
+        "beginning",
+        "below",
+        "day",
+        "done"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 58,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_09_10_charley_frances_ivan_make_for_jittery_oil_industry__s03_aframax_carib_fixture_activity_and_rates",
+      "doc_id": "poten_tankers_no_date_poten_2004_09_10_charley_frances_ivan_make_for_jittery_oil_industry",
+      "parent_id": "poten_tankers_no_date_poten_2004_09_10_charley_frances_ivan_make_for_jittery_oil_industry__root",
+      "title": "Aframax Carib Fixture Activity and Rates",
+      "section_path": [
+        "Aframax Carib Fixture Activity and Rates"
+      ],
+      "section_path_text": "Aframax Carib Fixture Activity and Rates",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "When Ivan blows over and refinery operations return to normal, it is very likely that numerous cargoes will need to be fixed to get the US back on schedule. Increased activity usually means increased rates, so look for a firming market in the weeks to come.",
+      "keywords": [
+        "increased",
+        "activity",
+        "back",
+        "blows",
+        "cargoes",
+        "come.",
+        "firming",
+        "fixed"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 52,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

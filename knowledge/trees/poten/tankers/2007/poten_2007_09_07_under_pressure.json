@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_09_07_under_pressure__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_09_07_under_pressure",
+  "parent_id": null,
+  "title": "Under Pressure",
+  "section_path": [
+    "Under Pressure"
+  ],
+  "section_path_text": "Under Pressure",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Under Pressure\nIn anticipation of the Organization of Petroleum Exporting Countries (OPEC) meeting next week, both the crude oil and shipping markets are busily trying to assess whether production quotas are likely to see movement. While changes in the stated production quota levels sometimes have little effect on the amount of crude oil seen in the market, decisions made by OPEC serve the important purpose of conveying the Organization's sentiments toward price and crude oil supply in general. The chart below shows the historic and expected crude oil production capacity for the member countries, including Iraq which is currently not part of the quota system.",
+  "keywords": [
+    "vlcc",
+    "meg",
+    "west_africa",
+    "crude_oil",
+    "production",
+    "crude",
+    "oil",
+    "opec",
+    "amount",
+    "arabian",
+    "are",
+    "barrels"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 438,
+  "source_path": "reports/poten/2007/poten_2007-09-07_under-pressure.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_09_07_under_pressure__s01_under_pressure",
+      "doc_id": "poten_tankers_no_date_poten_2007_09_07_under_pressure",
+      "parent_id": "poten_tankers_no_date_poten_2007_09_07_under_pressure__root",
+      "title": "Under Pressure",
+      "section_path": [
+        "Under Pressure"
+      ],
+      "section_path_text": "Under Pressure",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In anticipation of the Organization of Petroleum Exporting Countries (OPEC) meeting next week, both the crude oil and shipping markets are busily trying to assess whether production quotas are likely to see movement. While changes in the stated production quota levels sometimes have little effect on the amount of crude oil seen in the market, decisions made by OPEC serve the important purpose of conveying the Organization's sentiments toward price and crude oil supply in general.",
+      "keywords": [
+        "crude_oil",
+        "crude",
+        "oil",
+        "production",
+        "are",
+        "countries",
+        "opec",
+        "organization"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 116,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_09_07_under_pressure__s02_crude_capacity",
+      "doc_id": "poten_tankers_no_date_poten_2007_09_07_under_pressure",
+      "parent_id": "poten_tankers_no_date_poten_2007_09_07_under_pressure__root",
+      "title": "Crude Capacity",
+      "section_path": [
+        "Crude Capacity"
+      ],
+      "section_path_text": "Crude Capacity",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "NGLs & Other Liquids While the Organization is anticipating significant product capacity increases over the next few years - 13% by 2010 - the quota system can serve as a powerful tool in limiting the amount of crude oil exports that are actually seen in the market. The meeting next week will likely provide the shipping market with a pivotal signal as to what can be expected for the last quarter of 2007.",
+      "keywords": [
+        "crude_oil",
+        "can",
+        "next",
+        "actually",
+        "amount",
+        "anticipating",
+        "are",
+        "capacity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 84,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_09_07_under_pressure__s03_hit_or_miss",
+      "doc_id": "poten_tankers_no_date_poten_2007_09_07_under_pressure",
+      "parent_id": "poten_tankers_no_date_poten_2007_09_07_under_pressure__root",
+      "title": "Hit or Miss",
+      "section_path": [
+        "Hit or Miss"
+      ],
+      "section_path_text": "Hit or Miss",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Although some member countries have had a history of missing the mark with respect to production quotas, there has been evidence that OPEC crude oil production has declined throughout 2007 on the whole around 1 million barrels per day.",
+      "keywords": [
+        "crude_oil",
+        "production",
+        "although",
+        "around",
+        "barrels",
+        "countries",
+        "crude",
+        "day."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 45,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_09_07_under_pressure__s04_production_october_2006",
+      "doc_id": "poten_tankers_no_date_poten_2007_09_07_under_pressure",
+      "parent_id": "poten_tankers_no_date_poten_2007_09_07_under_pressure__root",
+      "title": "Production - October 2006",
+      "section_path": [
+        "Production - October 2006"
+      ],
+      "section_path_text": "Production - October 2006",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Production - July 2007 Significant declines in production can have large effects on the tanker market, especially over a prolonged period of time. To speak in approximate terms, a 1 million barrel per day decline in Arabian Gulf exports would eliminate demand for 40 VLCCs assuming all of the barrels go West or 20 VLCCs assuming all of the barrels go East.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "west_africa",
+        "crude_oil",
+        "arabian",
+        "demand",
+        "gulf",
+        "production"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 175,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

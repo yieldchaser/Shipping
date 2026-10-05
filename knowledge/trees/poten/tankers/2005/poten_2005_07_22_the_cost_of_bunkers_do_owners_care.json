@@ -1,0 +1,174 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_07_22_the_cost_of_bunkers_do_owners_care__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_07_22_the_cost_of_bunkers_do_owners_care",
+  "parent_id": null,
+  "title": "The Cost of Bunkers, Do Owners Care?",
+  "section_path": [
+    "The Cost of Bunkers, Do Owners Care?"
+  ],
+  "section_path_text": "The Cost of Bunkers, Do Owners Care?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Cost of Bunkers, Do Owners Care? The cost of bunkers is a major component of an owner's voyage expense. In paying for the bunkers, the owner is creating a source of revenue for oil companies.",
+  "keywords": [
+    "vlcc",
+    "crude_oil",
+    "revenue",
+    "bunkers",
+    "portion",
+    "bunker",
+    "cost",
+    "oil",
+    "owner",
+    "pay",
+    "cargo",
+    "chart"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 517,
+  "source_path": "reports/poten/2005/poten_2005-07-22_the-cost-of-bunkers-do-owners-care.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_07_22_the_cost_of_bunkers_do_owners_care__s01_the_cost_of_bunkers_do_owners_care",
+      "doc_id": "poten_tankers_no_date_poten_2005_07_22_the_cost_of_bunkers_do_owners_care",
+      "parent_id": "poten_tankers_no_date_poten_2005_07_22_the_cost_of_bunkers_do_owners_care__root",
+      "title": "The Cost of Bunkers, Do Owners Care?",
+      "section_path": [
+        "The Cost of Bunkers, Do Owners Care?"
+      ],
+      "section_path_text": "The Cost of Bunkers, Do Owners Care?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The cost of bunkers is a major component of an owner's voyage expense. In paying for the bunkers, the owner is creating a source of revenue for oil companies.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "bunkers",
+        "companies",
+        "owner",
+        "ag/east.",
+        "back",
+        "cargo"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 69,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_07_22_the_cost_of_bunkers_do_owners_care__s02_ws_rate_for_vlccs_trading_ag_east",
+      "doc_id": "poten_tankers_no_date_poten_2005_07_22_the_cost_of_bunkers_do_owners_care",
+      "parent_id": "poten_tankers_no_date_poten_2005_07_22_the_cost_of_bunkers_do_owners_care__root",
+      "title": "WS Rate for VLCCs Trading AG/East",
+      "section_path": [
+        "WS Rate for VLCCs Trading AG/East"
+      ],
+      "section_path_text": "WS Rate for VLCCs Trading AG/East",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "This freight rate becomes a freight bill to be paid by the oil company once the cargo is delivered. The chart on the next page shows the freight revenue for a single VLCC voyage AG/East and the portion of the freight revenue that represents the bunker cost .",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "revenue",
+        "ag/east",
+        "becomes",
+        "bill",
+        "bunker",
+        "cargo"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 52,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_07_22_the_cost_of_bunkers_do_owners_care__s03_bunker_cost",
+      "doc_id": "poten_tankers_no_date_poten_2005_07_22_the_cost_of_bunkers_do_owners_care",
+      "parent_id": "poten_tankers_no_date_poten_2005_07_22_the_cost_of_bunkers_do_owners_care__root",
+      "title": "Bunker Cost",
+      "section_path": [
+        "Bunker Cost"
+      ],
+      "section_path_text": "Bunker Cost",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Freight Revenue Net of Bunkers The above chart seems to suggest that only a small portion of the freight revenue is related to bunkers. The portion of the bunker cost contained in the freight revenue, shown below, has varied from a low of 6% in November 2004 to a high of 51% in April and August of 2002.",
+      "keywords": [
+        "revenue",
+        "portion",
+        "bunkers",
+        "above",
+        "april",
+        "august",
+        "average",
+        "below"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 93,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_07_22_the_cost_of_bunkers_do_owners_care__s04_portion_of_freight_revenue_to_pay_for_bunkers",
+      "doc_id": "poten_tankers_no_date_poten_2005_07_22_the_cost_of_bunkers_do_owners_care",
+      "parent_id": "poten_tankers_no_date_poten_2005_07_22_the_cost_of_bunkers_do_owners_care__root",
+      "title": "Portion of Freight Revenue to Pay for Bunkers",
+      "section_path": [
+        "Portion of Freight Revenue to Pay for Bunkers"
+      ],
+      "section_path_text": "Portion of Freight Revenue to Pay for Bunkers",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Fluctuations in the portion of freight revenue to cover bunkers reflect changes in bunker prices and in the spot market. Of the two, the latter is much more significant.",
+      "keywords": [
+        "bunkers",
+        "charges",
+        "earnings.",
+        "portion",
+        "after",
+        "because",
+        "below",
+        "bunker"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 144,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_07_22_the_cost_of_bunkers_do_owners_care__s05_lest_we_forget",
+      "doc_id": "poten_tankers_no_date_poten_2005_07_22_the_cost_of_bunkers_do_owners_care",
+      "parent_id": "poten_tankers_no_date_poten_2005_07_22_the_cost_of_bunkers_do_owners_care__root",
+      "title": "Lest We Forget",
+      "section_path": [
+        "Lest We Forget"
+      ],
+      "section_path_text": "Lest We Forget",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The record proportion of the bunker cost to the freight revenue was 100%, which occurred during the tanker depression of the 1980s when VLCC freight rates fell to WS17. The hapless owner, after carrying a cargo halfway around the world, was given a check for the freight, which he turned over and endorsed back to the oil company to pay for the bunkers.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "bunker",
+        "revenue",
+        "was",
+        "after",
+        "around",
+        "back"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 116,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

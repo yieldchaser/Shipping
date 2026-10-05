@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2024_04_26_the_sanctions_are_back__root",
+  "doc_id": "poten_tankers_no_date_poten_2024_04_26_the_sanctions_are_back",
+  "parent_id": null,
+  "title": "The Sanctions Are Back",
+  "section_path": [
+    "The Sanctions Are Back"
+  ],
+  "section_path_text": "The Sanctions Are Back",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "US reverses relief of sanctions on Venezuela\nBack in October 2023, the U.S. Treasury Department announced that it would ease sanctions against companies that trade in Venezuelan oil or invest in the country for an initial period of six months. The main reason for the partial relief of sanctions was to encourage Venezuela's President Nicolas Maduro to enable democratic elections to take place in July 2024.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "europe",
+    "india",
+    "crude_oil",
+    "oil",
+    "sanctions",
+    "venezuelan",
+    "are",
+    "relief"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 870,
+  "source_path": "reports/poten/2024/poten_2024-04-26_the-sanctions-are-back.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2024_04_26_the_sanctions_are_back__s01_us_reverses_relief_of_sanctions_on_venezuela",
+      "doc_id": "poten_tankers_no_date_poten_2024_04_26_the_sanctions_are_back",
+      "parent_id": "poten_tankers_no_date_poten_2024_04_26_the_sanctions_are_back__root",
+      "title": "US reverses relief of sanctions on Venezuela",
+      "section_path": [
+        "US reverses relief of sanctions on Venezuela"
+      ],
+      "section_path_text": "US reverses relief of sanctions on Venezuela",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Back in October 2023, the U.S. Treasury Department announced that it would ease sanctions against companies that trade in Venezuelan oil or invest in the country for an initial period of six months.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "europe",
+        "india",
+        "crude_oil",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 861,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

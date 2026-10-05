@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2014_10_17_condensates_to_the_rescue__root",
+  "doc_id": "poten_tankers_no_date_poten_2014_10_17_condensates_to_the_rescue",
+  "parent_id": null,
+  "title": "Condensates to the Rescue?",
+  "section_path": [
+    "Condensates to the Rescue?"
+  ],
+  "section_path_text": "Condensates to the Rescue?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "condensate exports provide a boost to\nthe Aframax tanker segment? In June of this year two American companies, Enterprise Product Partners and Pioneer Natural Resources, received permission to export slightly treated condensates from the United States. Since then American oil producers and shipowners alike have become excited about the potential of a significant new export trade out of the United States.",
+  "keywords": [
+    "aframax",
+    "australia",
+    "crude_oil",
+    "products",
+    "gas",
+    "condensates",
+    "are",
+    "oil",
+    "crude",
+    "exports",
+    "production",
+    "export"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 571,
+  "source_path": "reports/poten/2014/poten_2014-10-17_condensates-to-the-rescue.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_10_17_condensates_to_the_rescue__s01_will_growing_u_s_condensate_exports_provide_a_boost_to",
+      "doc_id": "poten_tankers_no_date_poten_2014_10_17_condensates_to_the_rescue",
+      "parent_id": "poten_tankers_no_date_poten_2014_10_17_condensates_to_the_rescue__root",
+      "title": "Will growing U.S. condensate exports provide a boost to",
+      "section_path": [
+        "Will growing U.S. condensate exports provide a boost to"
+      ],
+      "section_path_text": "Will growing U.S. condensate exports provide a boost to",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In June of this year two American companies, Enterprise Product Partners and Pioneer Natural Resources, received permission to export slightly treated condensates from the United States. Since then American oil producers and shipowners alike have become excited about the potential of a significant new export trade out of the United States.",
+      "keywords": [
+        "aframax",
+        "australia",
+        "crude_oil",
+        "products",
+        "gas",
+        "condensates",
+        "are",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 557,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2018_11_30_worldscales_not_so_flat_rates__root",
+  "doc_id": "poten_tankers_no_date_poten_2018_11_30_worldscales_not_so_flat_rates",
+  "parent_id": null,
+  "title": "Worldscales Not So Flat Rates",
+  "section_path": [
+    "Worldscales Not So Flat Rates"
+  ],
+  "section_path_text": "Worldscales Not So Flat Rates",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "A preview of the bunker price impact on Worldscale flat rates\nWorldscale is preparing to release its new flat rates for 2019. Just like last year, and for every year since the current Worldscale system was established some 50 years ago, the bunker prices are the biggest factor influencing the changes in flat rates from 2018 to 2019. Based on the increase in average fuel prices we expect flat rates to increase by 15-20%, a similar change to last year.",
+  "keywords": [
+    "worldscale",
+    "bunker",
+    "flat",
+    "sulphur",
+    "costs",
+    "fuel",
+    "average",
+    "prices",
+    "year",
+    "are",
+    "increase",
+    "calculation"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 761,
+  "source_path": "reports/poten/2018/poten_2018-11-30_worldscales-not-so-flat-rates.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_11_30_worldscales_not_so_flat_rates__s01_a_preview_of_the_bunker_price_impact_on_worldscale_flat_rates",
+      "doc_id": "poten_tankers_no_date_poten_2018_11_30_worldscales_not_so_flat_rates",
+      "parent_id": "poten_tankers_no_date_poten_2018_11_30_worldscales_not_so_flat_rates__root",
+      "title": "A preview of the bunker price impact on Worldscale flat rates",
+      "section_path": [
+        "A preview of the bunker price impact on Worldscale flat rates"
+      ],
+      "section_path_text": "A preview of the bunker price impact on Worldscale flat rates",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Worldscale is preparing to release its new flat rates for 2019. Just like last year, and for every year since the current Worldscale system was established some 50 years ago, the bunker prices are the biggest factor influencing the changes in flat rates from 2018 to 2019.",
+      "keywords": [
+        "worldscale",
+        "bunker",
+        "sulphur",
+        "costs",
+        "flat",
+        "fuel",
+        "average",
+        "prices"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 748,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

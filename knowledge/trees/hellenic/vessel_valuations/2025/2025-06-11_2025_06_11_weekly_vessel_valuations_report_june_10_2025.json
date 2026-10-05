@@ -20,14 +20,14 @@
     "usd",
     "sold",
     "dwt",
+    "noo",
     "value",
-    "buyers",
-    "chemical/product"
+    "buyers"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1305,
-  "source_path": "corpus/02-hellenic/vessel_valuations/2025/2025-06-11_weekly-vessel-valuations-report-june-10-2025.html",
+  "token_count": 2102,
+  "source_path": "reports/hellenic/vessel_valuations/2025/2025-06-11_weekly-vessel-valuations-report-june-10-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-june-10-2025",
   "children": [
     {
@@ -69,20 +69,20 @@
       "section_path_text": "Linked asset: 2025-06-11_weekly-vessel-valuations-report-june-10-2025_img1_11620253_23663b83d919.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2025/assets/2025-06-11_weekly-vessel-valuations-report-june-10-2025_img1_11620253_23663b83d919.jpg\n\nLinked image asset: 2025-06-11_weekly-vessel-valuations-report-june-10-2025_img1_11620253_23663b83d919.jpg\n\nImage metadata: JPEG 678x309 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\n© VesselsVabue@ § Appa\n10 June 2025 VV Mini Matrix - Weekly Change\nwae Lone A\nfont SAM OMOEA! RIT URI MRT SMA ES RET RET BES SS Re ARM\nA 0.0% 0.0% 40.1% -O.% 02% 03% \"0.96 -O.% 02% \"Ls +0.7% +086 40.4%\n320k 160k nSk 75k 50k Ok 82k 62k 38k 7000 42507500\n0.0% 0.1% 0.0% 0.16 02% -O3% 0.1% 02% 0.7% +0.4% +1S% 0B +05%\n: 320k 160k NNO 75k SOk 10k 82k 60k 38k 7000 4250 «SOOO\nio 0.0% 0.1% 0.0% 02% 0.1% 03% 0.1% 03% \"13% 18% 123% 108% 105%\n320k 160k NN0k 78k SOk 180k 80k 60k 35k 7000 4250 1780 noo\ns 0.0% 0.0% 10.1% 02% 0.1% 03% 0.1% 1.0% 18% *3.0% 12.9% 108% +0.6%\nSNOk 160k NOk 78k SOK 180k 80k SSk 30k 7000 4250 1780 noo\n20 0.0% 0.0% 40.1% -O.% 0.1% 04% 0.1% \"1.0% 24% +3.6% +24% 108% 10.4%\n310k 160k nNOk 70K 45k 180k 78k SSk 30k 7000 4250 1780 noo\n0.0% 0.1% +03% -O.%6 0.1% 32% \"33% 00% 2s +3.6% 04% +0.7% \"0.1%\n* 300k -‘ISSK_-(105k 70k 45k 17Sk 75k 48k 30k",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2025/assets/2025-06-11_weekly-vessel-valuations-report-june-10-2025_img1_11620253_23663b83d919.jpg\n\nLinked image asset: 2025-06-11_weekly-vessel-valuations-report-june-10-2025_img1_11620253_23663b83d919.jpg\n\nImage metadata: JPEG 678x309 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\n[structured table]\n| © | | VesselsVabue@ | | Appa | | | | | | | | | |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 10 | June 2025 | | | | | VV | Mini Matrix - | Weekly | Change | | | | |\n| | | | | wae | | | | | | | | A | |\n| | font | SAM | | RIT | URI | MRT | SMA | RET | RET | BES | | Re | ARM |\n| | A | 0.0% | 0.0% | | | 02% | 03% | -O.% | 02% | | | +086 | |\n| | | 320k | 160k | nSk | 75k | 50k | Ok 82k | 62k | 38k | 7000 | | | |\n| | : | 0.0% | | 0.0% | | 02% | -O3% | | 0.7% | | | | |\n| | | 320k | | | 75k | SOk | 10k 82k | 60k | 38k | 7000 | 4250 | | |\n| | io | 0.0% | | 0.0% | 02% | | 03% | 03% | | 18% | 123% | 108% | 105% |\n| | | 320k | 160k | | | SOk | 180k 80k | 60k | | 7000 | 4250 | 1780 | noo |\n| | s | 0.0% | 0.0% | 10.1% | 02% | 0.1% | 03% | 1.0% | 18% | | 12.9% | 108% | |\n| | | | 160k | | | SOK | 180k 80k | SSk | 30k | 7000 | 4250 | 17",
       "keywords": [
         "noo",
         "sok",
-        "asset",
-        "image",
         "ret",
         "ssk",
         "appa",
-        "arm"
+        "arm",
+        "asset",
+        "bes"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 710,
+      "token_count": 1507,
       "section_type": "linked_image_asset",
       "children": []
     }

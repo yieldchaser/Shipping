@@ -31,15 +31,17 @@ linked_assets_ingested: 1
 linked_assets_mirrored: 1
 linked_assets_skipped: 0
 market_tone: neutral
-numeric_observation_count: 32
+numeric_observation_count: 44
 numeric_observations:
-- section: Main
+- &id001
+  section: Main
   section_type: null
   source_line: 'Tanker: Mid-age LR1s have firmed slightly.'
   unit: null
   values:
   - 1.0
-- section: Main
+- &id002
+  section: Main
   section_type: null
   source_line: Aframaxes Bunga Kelana 7 and Bunga Kelana 8 (105,200 DWT, Jan & Mar
     2004, Samsung) sold in an en bloc deal for USD 26.60 mil, VV en bloc value USD
@@ -50,9 +52,10 @@ numeric_observations:
   - 8.0
   - 105200.0
   - 2004.0
-  - 26600.0
-  - 24530.0
-- section: Main
+  - 26.6
+  - 24.53
+- &id003
+  section: Main
   section_type: null
   source_line: MR2 Ocean Mars (50,300 DWT, May 2007, SLS) sold to Greek buyers for
     USD 9.00 mil, VV value USD 9.86 mil - At Auction.
@@ -61,9 +64,10 @@ numeric_observations:
   - 2.0
   - 50300.0
   - 2007.0
-  - 9000.0
-  - 9860.0
-- section: Main
+  - 9.0
+  - 9.86
+- &id004
+  section: Main
   section_type: null
   source_line: Panamax Elinda Mare (79,600 DWT, Dec 2010, New Century) sold for USD
     20.00 mil, VV value USD 19.11 mil - BWTS fitted.
@@ -71,9 +75,10 @@ numeric_observations:
   values:
   - 79600.0
   - 2010.0
-  - 20000.0
-  - 19110.0
-- section: Main
+  - 20.0
+  - 19.11
+- &id005
+  section: Main
   section_type: null
   source_line: Panamax Sea Vision (77,200 DWT, Jan 2015, Imabari) sold to Greek buyers
     for USD 30.50 mil, VV value USD 29.34 mil - BWTS fitted.
@@ -81,9 +86,10 @@ numeric_observations:
   values:
   - 77200.0
   - 2015.0
-  - 30500.0
-  - 29340.0
-- section: Main
+  - 30.5
+  - 29.34
+- &id006
+  section: Main
   section_type: null
   source_line: Panamax Palais (75,400 DWT, Jan 2014, Jiangsu Rongsheng) sold to Chinese
     buyers for USD 23.30 mil, VV value USD 22.16 mil - BWTS fitted.
@@ -91,9 +97,10 @@ numeric_observations:
   values:
   - 75400.0
   - 2014.0
-  - 23300.0
-  - 22160.0
-- section: Main
+  - 23.3
+  - 22.16
+- &id007
+  section: Main
   section_type: null
   source_line: Ultramax Sailing Sky (61,300 DWT, Jun 2014, Shin Kasado Dock) sold
     to Vietnamese buyers for USD 27.60 mil, VV value USD 28.98 mil - BWTS fitted.
@@ -101,9 +108,10 @@ numeric_observations:
   values:
   - 61300.0
   - 2014.0
-  - 27600.0
-  - 28980.0
-- section: Main
+  - 27.6
+  - 28.98
+- &id008
+  section: Main
   section_type: null
   source_line: Supramaxes Million Bell (58,700 DWT, Oct 2012, Kawasaki) and Glad Mark
     (58,600 DWT, Jul 2012, Kawasaki) sold in an en bloc deal for USD 45.00 mil, VV
@@ -114,9 +122,10 @@ numeric_observations:
   - 2012.0
   - 58600.0
   - 2012.0
-  - 45000.0
-  - 47990.0
-- section: Main
+  - 45.0
+  - 47.99
+- &id009
+  section: Main
   section_type: null
   source_line: Supramax Gutian Loyal (52,700 DWT, Nov 2004, Oshima) sold for USD 13.80
     mil, VV value USD 14.26 mil - BWTS fitted.
@@ -124,9 +133,10 @@ numeric_observations:
   values:
   - 52700.0
   - 2004.0
-  - 13800.0
-  - 14260.0
-- section: Main
+  - 13.8
+  - 14.26
+- &id010
+  section: Main
   section_type: null
   source_line: Handy Bulker Cielo Di Gaspesie (36,700 DWT, Jul 2012, Hyundai Mipo)
     sold for USD 19.10 mil, VV value USD 20.76 mil - BWTS fitted.
@@ -134,9 +144,10 @@ numeric_observations:
   values:
   - 36700.0
   - 2012.0
-  - 19100.0
-  - 20760.0
-- section: Main
+  - 19.1
+  - 20.76
+- &id011
+  section: Main
   section_type: null
   source_line: Handy Bulker Ocean Rider (34,300 DWT, Oct 2009, Shinhan) sold for USD
     14.10 mil, VV value USD 14.74 mil - BWTS fitted.
@@ -144,9 +155,10 @@ numeric_observations:
   values:
   - 34300.0
   - 2009.0
-  - 14100.0
-  - 14740.0
-- section: Main
+  - 14.1
+  - 14.74
+- &id012
+  section: Main
   section_type: null
   source_line: Handy Bulker Cactus K (31,900 DWT, Jun 2011, Hakodate Dock) sold to
     Greek buyers for USD 16.80 mil, VV value USD 16.52 mil - SS/DD Passed, BWTS fitted.
@@ -154,9 +166,10 @@ numeric_observations:
   values:
   - 31900.0
   - 2011.0
-  - 16800.0
-  - 16520.0
-- section: Main
+  - 16.8
+  - 16.52
+- &id013
+  section: Main
   section_type: null
   source_line: Handy Bulker Golden Daisy (28,400 DWT, May 2014, I-S) sold to Singaporean
     buyers for USD 16.50 mil, VV value USD 17.02 mil - BWTS fitted.
@@ -164,9 +177,10 @@ numeric_observations:
   values:
   - 28400.0
   - 2014.0
-  - 16500.0
-  - 17020.0
-- section: Main
+  - 16.5
+  - 17.02
+- &id014
+  section: Main
   section_type: null
   source_line: Post Panamax Cape Chronos (6,900 TEU, Hanjin Subic, Jun 2015) sold
     to Oman Shipping Co SAOC for USD 132.00 mil, VV value USD 124.32 mil - Prompt
@@ -177,7 +191,8 @@ numeric_observations:
   - 2015.0
   - 132.0
   - 124.32
-- section: Main
+- &id015
+  section: Main
   section_type: null
   source_line: 'Image reference: assets/2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
   unit: null
@@ -191,7 +206,8 @@ numeric_observations:
   - 20210928.0
   - 110.0
   - 72616.0
-- section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
+- &id016
+  section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
   unit: null
@@ -205,50 +221,207 @@ numeric_observations:
   - 20210928.0
   - 110.0
   - 72616.0
-- section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
+- &id017
+  section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 678x281 mode=RGB'
   unit: null
   values:
   - 678.0
   - 281.0
-- section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
+- &id018
+  section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (96, 96)'
   unit: null
   values:
   - 96.0
   - 96.0
-- section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
+- &id019
+  section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
+  section_type: linked_image_asset
+  source_line: '| 28 September | 2021 | | | VV | Mini | Matrix | - Weekly | Change
+    | | | | |'
+  unit: null
+  values:
+  - 28.0
+  - 2021.0
+- &id020
+  section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 10.5% | 40.2% | 41.2% | | 40.1% | 40.0% | 42.0% | -0.9% 42.3%
+    | 41.5% | 10.4% | 10.2% | 10.9% |'
+  unit: pct
+  values:
+  - 10.5
+  - 40.2
+  - 41.2
+  - 40.1
+  - 40.0
+  - 42.0
+  - -0.9
+  - 42.3
+  - 41.5
+  - 10.4
+- &id021
+  section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 320K | 160K | | | | | | | 7000 | | | |'
+  unit: null
+  values:
+  - 320.0
+  - 160.0
+  - 7000.0
+- &id022
+  section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 10.5% | 40.2% | 40.5% | 424% | | 40.5% | 40.9% | 42.3% | 12.0%
+    | 104% | 10.3% | 10.5% |'
+  unit: pct
+  values:
+  - 10.5
+  - 40.2
+  - 40.5
+  - 424.0
+  - 40.5
+  - 40.9
+  - 42.3
+  - 12.0
+  - 104.0
+  - 10.3
+- &id023
+  section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
+  section_type: linked_image_asset
+  source_line: '| | "20% | 160K | 110K 75K | | | | | | | | | |'
+  unit: pct
+  values:
+  - 20.0
+  - 160.0
+  - 110.0
+  - 75.0
+- &id024
+  section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 10.5% | 10.2% | 0.1% 12.4% | 145% | | 40.6% | | 42.396 | 12.7%
+    | 104% | 104% | 10.5% |'
+  unit: pct
+  values:
+  - 10.5
+  - 10.2
+  - 0.1
+  - 12.4
+  - 145.0
+  - 40.6
+  - 42396.0
+  - 12.7
+  - 104.0
+  - 104.0
+- &id025
+  section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 310K | 160K | 110K | | | | | | | | | |'
+  unit: null
+  values:
+  - 310.0
+  - 160.0
+  - 110.0
+- &id026
+  section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 10.5% | 10.2% | 0.4% 13.9% | | 41.5% | 47.2% | 42.5% | 42.2% |
+    43.1% | 104% | 10.6% | 10.9% |'
+  unit: pct
+  values:
+  - 10.5
+  - 10.2
+  - 0.4
+  - 13.9
+  - 41.5
+  - 47.2
+  - 42.5
+  - 42.2
+  - 43.1
+  - 104.0
+- &id027
+  section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
+  section_type: linked_image_asset
+  source_line: '| | "310K | 160K | 110K | | | | | | | | | |'
+  unit: null
+  values:
+  - 310.0
+  - 160.0
+  - 110.0
+- &id028
+  section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 0.0% | 0.0% | 0.0% 0.0% | | | 0.0% | 46.7% | 2.2% 42.2% | 42.9%
+    | 10.3% | 40.7% | |'
+  unit: pct
+  values:
+  - 46.7
+  - 2.2
+  - 42.2
+  - 42.9
+  - 10.3
+  - 40.7
+- &id029
+  section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 300K | 155K | 103 | | | | | | 6500 | | | |'
+  unit: null
+  values:
+  - 300.0
+  - 155.0
+  - 103.0
+  - 6500.0
+- &id030
+  section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 0.0% | N/A | 0.0% 0.0% | 010% | | 0.0% | | 2.3% 42.2% | 47.1%
+    | 10.3% | 40.0% | 42.3% |'
+  unit: pct
+  values:
+  - 10.0
+  - 2.3
+  - 42.2
+  - 47.1
+  - 10.3
+  - 40.0
+  - 42.3
+- &id031
+  section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
   section_type: linked_image_asset
   source_line: 28 September 2021 VV Mini Matrix - Weekly Change
   unit: null
   values:
   - 28.0
   - 2021.0
-- section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
+- &id032
+  section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
   section_type: linked_image_asset
   source_line: Age VLCC Suez Afra LR1 MR Cape Pmax Supra Handy Pea Pmax Handy = Fmax
   unit: null
   values:
   - 1.0
-- section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
+- &id033
+  section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
   section_type: linked_image_asset
   source_line: 0 40.5% +0.2% +0.8% +1.2% +0.1% 40.8% +2.0% -0.9% +2.3% +1.5% +0.4%
     +0.2% +0.9%
   unit: pct
   values:
-  - 40500.0
+  - 40.5
   - 0.2
   - 0.8
   - 1.2
   - 0.1
-  - 40800.0
+  - 40.8
   - 2.0
   - -0.9
   - 2.3
   - 1.5
-- section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
+- &id034
+  section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
   section_type: linked_image_asset
   source_line: 320K 160K 110K 75K SOK 180K 82K 60K 37K 7000 4250 1750 1100
   unit: null
@@ -263,23 +436,25 @@ numeric_observations:
   - 37.0
   - 7000.0
   - 4250.0
-- section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
+- &id035
+  section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
   section_type: linked_image_asset
   source_line: 5 40.5% +0.2% +0.5% +1.4% +3.4% 40.5% +0.9% -1.8% +2.3% +2.0% +0.4%
     +0.3% +0.5%
   unit: pct
   values:
   - 5.0
-  - 40500.0
+  - 40.5
   - 0.2
   - 0.5
   - 1.4
   - 3.4
-  - 40500.0
+  - 40.5
   - 0.9
   - -1.8
   - 2.3
-- section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
+- &id036
+  section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
   section_type: linked_image_asset
   source_line: 320K 160K 110K 75K SOK 180K 80K 60K 30K 7000 4250 1750 1100
   unit: null
@@ -294,23 +469,25 @@ numeric_observations:
   - 30.0
   - 7000.0
   - 4250.0
-- section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
+- &id037
+  section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
   section_type: linked_image_asset
   source_line: 10 40.5% +0.2% -0.1% +2.4% +44.5% +0.6% +1.4% -2.5% +2.3% +2.7% +0.4%
     +0.4% +0.5%
   unit: pct
   values:
   - 10.0
-  - 40500.0
+  - 40.5
   - 0.2
   - -0.1
   - 2.4
-  - 44500.0
+  - 44.5
   - 0.6
   - 1.4
   - -2.5
   - 2.3
-- section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
+- &id038
+  section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
   section_type: linked_image_asset
   source_line: 310K 160K 110K 75K SOK 180K 80K 60K 30K 7000 4250 1750 1100
   unit: null
@@ -325,23 +502,25 @@ numeric_observations:
   - 30.0
   - 7000.0
   - 4250.0
-- section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
+- &id039
+  section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
   section_type: linked_image_asset
   source_line: 15 40.5% +0.2% -0.4% +3.9% +1.5% 42.2% +3.5% -2.4% +2.2% 43.1% +0.4%
     +0.6% +0.9%
   unit: pct
   values:
   - 15.0
-  - 40500.0
+  - 40.5
   - 0.2
   - -0.4
   - 3.9
   - 1.5
-  - 42200.0
+  - 42.2
   - 3.5
   - -2.4
   - 2.2
-- section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
+- &id040
+  section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
   section_type: linked_image_asset
   source_line: 310K 160K 110K 70K 45K 180K 75K SSK 30K 7000 4250 1750 1100
   unit: null
@@ -356,7 +535,8 @@ numeric_observations:
   - 30.0
   - 7000.0
   - 4250.0
-- section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
+- &id041
+  section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
   section_type: linked_image_asset
   source_line: 20 0.0% 0.0% 0.0% 0.0% -0.8% 0.0% +6.7% -2.2% +2.2% 42.9% +0.3% +0.7%
     +1.6%
@@ -364,14 +544,15 @@ numeric_observations:
   values:
   - 20.0
   - -0.8
-  - 6700.0
+  - 6.7
   - -2.2
   - 2.2
-  - 42900.0
+  - 42.9
   - 0.3
   - 0.7
   - 1.6
-- section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
+- &id042
+  section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
   section_type: linked_image_asset
   source_line: 300K 155K 105K 70K 45K 175K 75K 50K 30K 6500 4000 1750 1100
   unit: null
@@ -386,21 +567,23 @@ numeric_observations:
   - 50.0
   - 30.0
   - 6500.0
-- section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
+- &id043
+  section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
   section_type: linked_image_asset
   source_line: 25 0.0% N/A 0.0% 0.0% 0.0% 0.0% +10.5% -2.3% 42.2% +2.1% +0.3% +0.8%
     +2.3%
   unit: pct
   values:
   - 25.0
-  - 10500.0
+  - 10.5
   - -2.3
-  - 42200.0
+  - 42.2
   - 2.1
   - 0.3
   - 0.8
   - 2.3
-- section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
+- &id044
+  section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
   section_type: linked_image_asset
   source_line: 295K N/A 100K 65K 45K 160K 70K 48K 30K 5500 4000 1750 1100
   unit: null
@@ -424,378 +607,54 @@ regions:
 - singapore
 section_count: 2
 signals:
-  numeric_observation_count: 30
+  numeric_observation_count: 44
   numeric_observations:
-  - section: Main
-    section_type: null
-    source_line: Aframaxes Bunga Kelana 7 and Bunga Kelana 8 (105,200 DWT, Jan & Mar
-      2004, Samsung) sold in an en bloc deal for USD 26.60 mil, VV en bloc value USD
-      24.53 mil - DD Due.
-    unit: usd
-    values:
-    - 7.0
-    - 8.0
-    - 105200.0
-    - 2004.0
-    - 26.6
-    - 24.53
-  - section: Main
-    section_type: null
-    source_line: MR2 Ocean Mars (50,300 DWT, May 2007, SLS) sold to Greek buyers for
-      USD 9.00 mil, VV value USD 9.86 mil - At Auction.
-    unit: usd
-    values:
-    - 50300.0
-    - 2007.0
-    - 9.0
-    - 9.86
-  - section: Main
-    section_type: null
-    source_line: Panamax Elinda Mare (79,600 DWT, Dec 2010, New Century) sold for
-      USD 20.00 mil, VV value USD 19.11 mil - BWTS fitted.
-    unit: usd
-    values:
-    - 79600.0
-    - 2010.0
-    - 20.0
-    - 19.11
-  - section: Main
-    section_type: null
-    source_line: Panamax Sea Vision (77,200 DWT, Jan 2015, Imabari) sold to Greek
-      buyers for USD 30.50 mil, VV value USD 29.34 mil - BWTS fitted.
-    unit: usd
-    values:
-    - 77200.0
-    - 2015.0
-    - 30.5
-    - 29.34
-  - section: Main
-    section_type: null
-    source_line: Panamax Palais (75,400 DWT, Jan 2014, Jiangsu Rongsheng) sold to
-      Chinese buyers for USD 23.30 mil, VV value USD 22.16 mil - BWTS fitted.
-    unit: usd
-    values:
-    - 75400.0
-    - 2014.0
-    - 23.3
-    - 22.16
-  - section: Main
-    section_type: null
-    source_line: Ultramax Sailing Sky (61,300 DWT, Jun 2014, Shin Kasado Dock) sold
-      to Vietnamese buyers for USD 27.60 mil, VV value USD 28.98 mil - BWTS fitted.
-    unit: usd
-    values:
-    - 61300.0
-    - 2014.0
-    - 27.6
-    - 28.98
-  - section: Main
-    section_type: null
-    source_line: Supramaxes Million Bell (58,700 DWT, Oct 2012, Kawasaki) and Glad
-      Mark (58,600 DWT, Jul 2012, Kawasaki) sold in an en bloc deal for USD 45.00
-      mil, VV value USD 47.99 mil - Forward Dely.
-    unit: usd
-    values:
-    - 58700.0
-    - 2012.0
-    - 58600.0
-    - 2012.0
-    - 45.0
-    - 47.99
-  - section: Main
-    section_type: null
-    source_line: Supramax Gutian Loyal (52,700 DWT, Nov 2004, Oshima) sold for USD
-      13.80 mil, VV value USD 14.26 mil - BWTS fitted.
-    unit: usd
-    values:
-    - 52700.0
-    - 2004.0
-    - 13.8
-    - 14.26
-  - section: Main
-    section_type: null
-    source_line: Handy Bulker Cielo Di Gaspesie (36,700 DWT, Jul 2012, Hyundai Mipo)
-      sold for USD 19.10 mil, VV value USD 20.76 mil - BWTS fitted.
-    unit: usd
-    values:
-    - 36700.0
-    - 2012.0
-    - 19.1
-    - 20.76
-  - section: Main
-    section_type: null
-    source_line: Handy Bulker Ocean Rider (34,300 DWT, Oct 2009, Shinhan) sold for
-      USD 14.10 mil, VV value USD 14.74 mil - BWTS fitted.
-    unit: usd
-    values:
-    - 34300.0
-    - 2009.0
-    - 14.1
-    - 14.74
-  - section: Main
-    section_type: null
-    source_line: Handy Bulker Cactus K (31,900 DWT, Jun 2011, Hakodate Dock) sold
-      to Greek buyers for USD 16.80 mil, VV value USD 16.52 mil - SS/DD Passed, BWTS
-      fitted.
-    unit: usd
-    values:
-    - 31900.0
-    - 2011.0
-    - 16.8
-    - 16.52
-  - section: Main
-    section_type: null
-    source_line: Handy Bulker Golden Daisy (28,400 DWT, May 2014, I-S) sold to Singaporean
-      buyers for USD 16.50 mil, VV value USD 17.02 mil - BWTS fitted.
-    unit: usd
-    values:
-    - 28400.0
-    - 2014.0
-    - 16.5
-    - 17.02
-  - section: Main
-    section_type: null
-    source_line: Post Panamax Cape Chronos (6,900 TEU, Hanjin Subic, Jun 2015) sold
-      to Oman Shipping Co SAOC for USD 132.00 mil, VV value USD 124.32 mil - Prompt
-      delivery, BWTS fitted.
-    unit: usd
-    values:
-    - 6900.0
-    - 2015.0
-    - 132.0
-    - 124.32
-  - section: Main
-    section_type: null
-    source_line: 'Image reference: assets/2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
-    unit: null
-    values:
-    - 2021.0
-    - -9.0
-    - -28.0
-    - 28.0
-    - -2021.0
-    - 20210928.0
-    - 10.0
-    - 2616.0
-  - section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
-    section_type: linked_image_asset
-    source_line: 'Linked image asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
-    unit: null
-    values:
-    - 2021.0
-    - -9.0
-    - -28.0
-    - 28.0
-    - -2021.0
-    - 20210928.0
-    - 10.0
-    - 2616.0
-  - section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
-    section_type: linked_image_asset
-    source_line: 'Image metadata: JPEG 678x281 mode=RGB'
-    unit: null
-    values:
-    - 678.0
-    - 81.0
-  - section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
-    section_type: linked_image_asset
-    source_line: 'dpi: (96, 96)'
-    unit: null
-    values:
-    - 96.0
-    - 96.0
-  - section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
-    section_type: linked_image_asset
-    source_line: 28 September 2021 VV Mini Matrix - Weekly Change
-    unit: null
-    values:
-    - 28.0
-    - 2021.0
-  - section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
-    section_type: linked_image_asset
-    source_line: 0 40.5% +0.2% +0.8% +1.2% +0.1% 40.8% +2.0% -0.9% +2.3% +1.5% +0.4%
-      +0.2% +0.9%
-    unit: pct
-    values:
-    - 40.5
-    - 0.2
-    - 0.8
-    - 1.2
-    - 0.1
-    - 40.8
-    - 2.0
-    - -0.9
-    - 2.3
-    - 1.5
-  - section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
-    section_type: linked_image_asset
-    source_line: 320K 160K 110K 75K SOK 180K 82K 60K 37K 7000 4250 1750 1100
-    unit: null
-    values:
-    - 320.0
-    - 160.0
-    - 110.0
-    - 75.0
-    - 180.0
-    - 82.0
-    - 60.0
-    - 37.0
-    - 7000.0
-    - 4250.0
-  - section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
-    section_type: linked_image_asset
-    source_line: 5 40.5% +0.2% +0.5% +1.4% +3.4% 40.5% +0.9% -1.8% +2.3% +2.0% +0.4%
-      +0.3% +0.5%
-    unit: pct
-    values:
-    - 5.0
-    - 40.5
-    - 0.2
-    - 0.5
-    - 1.4
-    - 3.4
-    - 40.5
-    - 0.9
-    - -1.8
-    - 2.3
-  - section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
-    section_type: linked_image_asset
-    source_line: 320K 160K 110K 75K SOK 180K 80K 60K 30K 7000 4250 1750 1100
-    unit: null
-    values:
-    - 320.0
-    - 160.0
-    - 110.0
-    - 75.0
-    - 180.0
-    - 80.0
-    - 60.0
-    - 30.0
-    - 7000.0
-    - 4250.0
-  - section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
-    section_type: linked_image_asset
-    source_line: 10 40.5% +0.2% -0.1% +2.4% +44.5% +0.6% +1.4% -2.5% +2.3% +2.7% +0.4%
-      +0.4% +0.5%
-    unit: pct
-    values:
-    - 10.0
-    - 40.5
-    - 0.2
-    - -0.1
-    - 2.4
-    - 44.5
-    - 0.6
-    - 1.4
-    - -2.5
-    - 2.3
-  - section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
-    section_type: linked_image_asset
-    source_line: 310K 160K 110K 75K SOK 180K 80K 60K 30K 7000 4250 1750 1100
-    unit: null
-    values:
-    - 310.0
-    - 160.0
-    - 110.0
-    - 75.0
-    - 180.0
-    - 80.0
-    - 60.0
-    - 30.0
-    - 7000.0
-    - 4250.0
-  - section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
-    section_type: linked_image_asset
-    source_line: 15 40.5% +0.2% -0.4% +3.9% +1.5% 42.2% +3.5% -2.4% +2.2% 43.1% +0.4%
-      +0.6% +0.9%
-    unit: pct
-    values:
-    - 15.0
-    - 40.5
-    - 0.2
-    - -0.4
-    - 3.9
-    - 1.5
-    - 42.2
-    - 3.5
-    - -2.4
-    - 2.2
-  - section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
-    section_type: linked_image_asset
-    source_line: 310K 160K 110K 70K 45K 180K 75K SSK 30K 7000 4250 1750 1100
-    unit: null
-    values:
-    - 310.0
-    - 160.0
-    - 110.0
-    - 70.0
-    - 45.0
-    - 180.0
-    - 75.0
-    - 30.0
-    - 7000.0
-    - 4250.0
-  - section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
-    section_type: linked_image_asset
-    source_line: 20 0.0% 0.0% 0.0% 0.0% -0.8% 0.0% +6.7% -2.2% +2.2% 42.9% +0.3% +0.7%
-      +1.6%
-    unit: pct
-    values:
-    - 20.0
-    - -0.8
-    - 6.7
-    - -2.2
-    - 2.2
-    - 42.9
-    - 0.3
-    - 0.7
-    - 1.6
-  - section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
-    section_type: linked_image_asset
-    source_line: 300K 155K 105K 70K 45K 175K 75K 50K 30K 6500 4000 1750 1100
-    unit: null
-    values:
-    - 300.0
-    - 155.0
-    - 105.0
-    - 70.0
-    - 45.0
-    - 175.0
-    - 75.0
-    - 50.0
-    - 30.0
-    - 6500.0
-  - section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
-    section_type: linked_image_asset
-    source_line: 25 0.0% N/A 0.0% 0.0% 0.0% 0.0% +10.5% -2.3% 42.2% +2.1% +0.3% +0.8%
-      +2.3%
-    unit: pct
-    values:
-    - 25.0
-    - 10.5
-    - -2.3
-    - 42.2
-    - 2.1
-    - 0.3
-    - 0.8
-    - 2.3
-  - section: 'Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg'
-    section_type: linked_image_asset
-    source_line: 295K N/A 100K 65K 45K 160K 70K 48K 30K 5500 4000 1750 1100
-    unit: null
-    values:
-    - 295.0
-    - 100.0
-    - 65.0
-    - 45.0
-    - 160.0
-    - 70.0
-    - 48.0
-    - 30.0
-    - 5500.0
-    - 4000.0
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - *id010
+  - *id011
+  - *id012
+  - *id013
+  - *id014
+  - *id015
+  - *id016
+  - *id017
+  - *id018
+  - *id019
+  - *id020
+  - *id021
+  - *id022
+  - *id023
+  - *id024
+  - *id025
+  - *id026
+  - *id027
+  - *id028
+  - *id029
+  - *id030
+  - *id031
+  - *id032
+  - *id033
+  - *id034
+  - *id035
+  - *id036
+  - *id037
+  - *id038
+  - *id039
+  - *id040
+  - *id041
+  - *id042
+  - *id043
+  - *id044
 source: hellenic
-source_path: corpus/02-hellenic/vessel_valuations/2021/2021-09-28_weekly-vessel-valuations-report-september-28-2021.html
+source_path: reports/hellenic/vessel_valuations/2021/2021-09-28_weekly-vessel-valuations-report-september-28-2021.html
 source_stem: 2021-09-28_weekly-vessel-valuations-report-september-28-2021
 source_url: https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-september-28-2021
 summary: 'Main
@@ -856,7 +715,28 @@ Image metadata: JPEG 678x281 mode=RGB
 Embedded info:
 dpi: (96, 96)
 
-OCR text:
+[structured table]
+|  |  |  |  |  |  |  | AAA |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 28 September | 2021 |  |  | VV | Mini | Matrix | - Weekly | Change |  |  |  |  |
+|  |  |  | Tankers |  |  |  | Bulkers |  |  |  | containers |  |
+| Age | vicc | Suez | Afra |  |  | Cape | Pmax | Supra Handy | pO’ | Pmax | Handy | Fmax |
+|  | 10.5% | 40.2% | 41.2% |  | 40.1% | 40.0% | 42.0% | -0.9% 42.3% | 41.5% | 10.4% | 10.2% | 10.9% |
+|  | 320K | 160K |  |  |  |  |  |  | 7000 |  |  |  |
+|  | 10.5% | 40.2% | 40.5% | 424% |  | 40.5% | 40.9% | 42.3% | 12.0% | 104% | 10.3% | 10.5% |
+|  | “20% | 160K | 110K 75K |  |  |  |  |  |  |  |  |  |
+|  | 10.5% | 10.2% | 0.1% 12.4% | 145% |  | 40.6% |  | 42.396 | 12.7% | 104% | 104% | 10.5% |
+| o |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 310K | 160K | 110K |  |  |  |  |  |  |  |  |  |
+|  | 10.5% | 10.2% | 0.4% 13.9% |  | 41.5% | 47.2% | 42.5% | 42.2% | 43.1% | 104% | 10.6% | 10.9% |
+|  | “310K | 160K | 110K |  |  |  |  |  |  |  |  |  |
+|  | 0.0% | 0.0% | 0.0% 0.0% |  |  | 0.0% | 46.7% | 2.2% 42.2% | 42.9% | 10.3% | 40.7% |  |
+|  | 300K | 155K | 103 |  |  |  |  |  | 6500 |  |  |  |
+|  | 0.0% | N/A | 0.0% 0.0% | 010% |  | 0.0% |  | 2.3% 42.2% | 47.1% | 10.3% | 40.0% | 42.3% |
+|  |  |  |  |  |  | I |  |  |  |  |  |  |
+|  |  | hie | ae | ete |  |  | gna |  |  | ete |  |  |
+
+[raw ocr]
 oO VesselsValue™ -_-_-S-sX-_-SEwr aa HE]
 28 September 2021 VV Mini Matrix - Weekly Change
 Tankers Bulkers Containers

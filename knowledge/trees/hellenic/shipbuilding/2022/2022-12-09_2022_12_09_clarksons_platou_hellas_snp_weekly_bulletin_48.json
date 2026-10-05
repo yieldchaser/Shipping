@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNew Building: In the gas carrier market, China Merchants Energy Shipping announced contracting two firm 175k\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-12-09_clarksons-platou-hellas-snp-weekly-bulletin-48_report-09-12-2022_92804d38cad6.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-12-09_clarksons-platou-hellas-snp-weekly-bulletin-48_report-09-12-2022_92804d38cad6.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 09 December 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nXS USD 25 M\n2016 TSUNEISHI MAN B. 6S60ME-C8.2 SS 01/26\nNORD POLLUX 81,839 GREEKS\n(CEBU) BWTS Fitted DD 12/23 (Basis Delivery in\nMay 2023)\nMITSUBISHI 6UEC52LA\nSS 12/25\nCYGNUS 32,642 2005 KANDA 4 x 30 T, LOGS Fitted USD 9.5 M MIDDLE EASTERNS\nDD 11/23\nBWTS Fitted\nMAN B. 6S42MC7.2\nSS 01/25\nGANT GRACE 28,375 2010 IMABARI 4 x 30 T, LOGS Fitted USD 12.5 M UAE BASED\nDD 01/25\nBWTS Fitted\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\n2018 TSUNEISHI MAN B.",
+  "summary": "Main\nNew Building: In the gas carrier market, China Merchants Energy Shipping announced contracting two firm 175k\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-12-09_clarksons-platou-hellas-snp-weekly-bulletin-48_report-09-12-2022_92804d38cad6.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2022-12-09_clarksons-platou-hellas-snp-weekly-bulletin-48_report-09-12-2022_92804d38cad6.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin09 December 2022\n\n# Bulk Carriers\n\n### Vessel DWT Built Details SS/DD Price Buyer\n\nXS USD 25 M **NORD POLLUX** 81,839 2016 (CEBU) TSUNEISHI MAN B. 6S60ME BWTS Fitted -C8.2 DD 12/ SS 01/26 23 (Basis Delivery in GREEKS May 2023)\n\nMITSUBISHI 6UEC52LA SS 12/25 **CYGNUS** 32,642 2005 KANDA 4 x 30 T, LOGS Fitted DD 11/23 USD 9.5 M MIDDLE EASTERNS BWTS Fitted MAN B. 6S42MC7.2 SS 01/25 **GANT GRACE** 28,375 2010 IMABARI 4 x 30 T, LOGS Fitted DD 01/25 USD 12.5 M UAE BASED BWTS Fitted\n\n# Tankers - Chemicals - LPG/LNGs\n\n### Vessel DWT Built Details SS/DD Price Buyer\n\n**SOUTHERN ROUSE** 108,467 2018 TSUNEISHI ZOSEN MAN B.",
   "keywords": [
     "handysize",
     "lng",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2235,
-  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-12-09_clarksons-platou-hellas-snp-weekly-bulletin-48.html",
+  "token_count": 2281,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-12-09_clarksons-platou-hellas-snp-weekly-bulletin-48.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-48",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-12-09_clarksons-platou-hellas-snp-weekly-bulletin-48_report-09-12-2022_92804d38cad6.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-12-09_clarksons-platou-hellas-snp-weekly-bulletin-48_report-09-12-2022_92804d38cad6.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 09 December 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nXS USD 25 M\n2016 TSUNEISHI MAN B. 6S60ME-C8.2 SS 01/26\nNORD POLLUX 81,839 GREEKS\n(CEBU) BWTS Fitted DD 12/23 (Basis Delivery in\nMay 2023)\nMITSUBISHI 6UEC52LA\nSS 12/25\nCYGNUS 32,642 2005 KANDA 4 x 30 T, LOGS Fitted USD 9.5 M MIDDLE EASTERNS\nDD 11/23\nBWTS Fitted\nMAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-12-09_clarksons-platou-hellas-snp-weekly-bulletin-48_report-09-12-2022_92804d38cad6.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin09 December 2022\n\n# Bulk Carriers\n\n### Vessel DWT Built Details SS/DD Price Buyer\n\nXS USD 25 M **NORD POLLUX** 81,839 2016 (CEBU) TSUNEISHI MAN B. 6S60ME BWTS Fitted -C8.2 DD 12/ SS 01/26 23 (Basis Delivery in GREEKS May 2023)\n\nMITSUBISHI 6UEC52LA SS 12/25 **CYGNUS** 32,642 2005 KANDA 4 x 30 T, LOGS Fitted DD 11/23 USD 9.5 M MIDDLE EASTERNS BWTS Fitted MAN B.",
       "keywords": [
         "handysize",
         "lng",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2156,
+      "token_count": 2202,
       "section_type": "linked_pdf",
       "children": []
     }

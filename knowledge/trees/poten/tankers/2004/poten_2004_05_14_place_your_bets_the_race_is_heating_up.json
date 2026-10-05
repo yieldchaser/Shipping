@@ -1,0 +1,223 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2004_05_14_place_your_bets_the_race_is_heating_up__root",
+  "doc_id": "poten_tankers_no_date_poten_2004_05_14_place_your_bets_the_race_is_heating_up",
+  "parent_id": null,
+  "title": "Place Your Bets The Race Is Heating Up!",
+  "section_path": [
+    "Place Your Bets The Race Is Heating Up!"
+  ],
+  "section_path_text": "Place Your Bets The Race Is Heating Up!",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Place Your Bets\nThe Race Is Heating Up! First one horse is in the lead, then another. The crowd hollers and moans as one moves ahead and the other falls behind.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "crude_oil",
+    "oil",
+    "demand",
+    "world",
+    "growth",
+    "ahead",
+    "are",
+    "but",
+    "shows",
+    "both"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 667,
+  "source_path": "reports/poten/2004/poten_2004-05-14_place-your-bets-the-race-is-heating-up.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_05_14_place_your_bets_the_race_is_heating_up__s01_place_your_bets",
+      "doc_id": "poten_tankers_no_date_poten_2004_05_14_place_your_bets_the_race_is_heating_up",
+      "parent_id": "poten_tankers_no_date_poten_2004_05_14_place_your_bets_the_race_is_heating_up__root",
+      "title": "Place Your Bets",
+      "section_path": [
+        "Place Your Bets"
+      ],
+      "section_path_text": "Place Your Bets",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "First one horse is in the lead, then another. The crowd hollers and moans as one moves ahead and the other falls behind.",
+      "keywords": [
+        "crude_oil",
+        "demand",
+        "ahead",
+        "oil",
+        "crowd",
+        "horse",
+        "gets",
+        "moans"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 111,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_05_14_place_your_bets_the_race_is_heating_up__s02_world_oil_consumption",
+      "doc_id": "poten_tankers_no_date_poten_2004_05_14_place_your_bets_the_race_is_heating_up",
+      "parent_id": "poten_tankers_no_date_poten_2004_05_14_place_your_bets_the_race_is_heating_up__root",
+      "title": "World Oil Consumption",
+      "section_path": [
+        "World Oil Consumption"
+      ],
+      "section_path_text": "World Oil Consumption",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The previous chart shows that oil prices roughly follow demand. In 2000, the world economies peaked with a simultaneous climax of oil demand and prices.",
+      "keywords": [
+        "panamax",
+        "crude_oil",
+        "oil",
+        "economies",
+        "are",
+        "both",
+        "demand",
+        "prices"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 141,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_05_14_place_your_bets_the_race_is_heating_up__s03_mm_dwt",
+      "doc_id": "poten_tankers_no_date_poten_2004_05_14_place_your_bets_the_race_is_heating_up",
+      "parent_id": "poten_tankers_no_date_poten_2004_05_14_place_your_bets_the_race_is_heating_up__root",
+      "title": "MM Dwt",
+      "section_path": [
+        "MM Dwt"
+      ],
+      "section_path_text": "MM Dwt",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "bpd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_05_14_place_your_bets_the_race_is_heating_up__s04_mm_dwt",
+      "doc_id": "poten_tankers_no_date_poten_2004_05_14_place_your_bets_the_race_is_heating_up",
+      "parent_id": "poten_tankers_no_date_poten_2004_05_14_place_your_bets_the_race_is_heating_up__root",
+      "title": "MM Dwt",
+      "section_path": [
+        "MM Dwt"
+      ],
+      "section_path_text": "MM Dwt",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Rising oil demand means a greater demand for tankers to transport oil. So we would expect higher tanker rates.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "but",
+        "demand",
+        "early",
+        "are",
+        "demand.",
+        "graph"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 135,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_05_14_place_your_bets_the_race_is_heating_up__s05_ws_rates_ag_to_fe_2002_to_present",
+      "doc_id": "poten_tankers_no_date_poten_2004_05_14_place_your_bets_the_race_is_heating_up",
+      "parent_id": "poten_tankers_no_date_poten_2004_05_14_place_your_bets_the_race_is_heating_up__root",
+      "title": "WS Rates AG to FE 2002 to Present",
+      "section_path": [
+        "WS Rates AG to FE 2002 to Present"
+      ],
+      "section_path_text": "WS Rates AG to FE 2002 to Present",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Will Oil Demand Overtake Tanker Supply? World oil consumption and crude carrier demand both grew about 3% in 2003 but things may be changing now.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "carrier",
+        "consumption",
+        "crude",
+        "demand",
+        "million",
+        "recent"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 95,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_05_14_place_your_bets_the_race_is_heating_up__s06_annual",
+      "doc_id": "poten_tankers_no_date_poten_2004_05_14_place_your_bets_the_race_is_heating_up",
+      "parent_id": "poten_tankers_no_date_poten_2004_05_14_place_your_bets_the_race_is_heating_up__root",
+      "title": "Annual",
+      "section_path": [
+        "Annual"
+      ],
+      "section_path_text": "Annual",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Growth 2003 240.0 3.2% 2004 244.2 1.6% 2005 247.5 1.4% 2006 253.8 2.5% Thus, world oil growth of 3% exceeds our estimate of world crude carrier growth of 1.6%.",
+      "keywords": [
+        "crude_oil",
+        "growth",
+        "world",
+        "carrier",
+        "crude",
+        "estimate",
+        "exceeds",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 73,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_05_14_place_your_bets_the_race_is_heating_up__s07_mm_dwt",
+      "doc_id": "poten_tankers_no_date_poten_2004_05_14_place_your_bets_the_race_is_heating_up",
+      "parent_id": "poten_tankers_no_date_poten_2004_05_14_place_your_bets_the_race_is_heating_up__root",
+      "title": "(MM Dwt)",
+      "section_path": [
+        "(MM Dwt)"
+      ],
+      "section_path_text": "(MM Dwt)",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Maybe It's Not a Narrow Race Rates have generally weakened from their historical highs of January because ship deliveries got ahead of growth in oil demand. In the short-run, it looks like oil growth will beat out tanker supply keeping rates relatively strong.",
+      "keywords": [
+        "crude_oil",
+        "because",
+        "growth",
+        "like",
+        "looks",
+        "oil",
+        "place",
+        "ahead"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 73,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

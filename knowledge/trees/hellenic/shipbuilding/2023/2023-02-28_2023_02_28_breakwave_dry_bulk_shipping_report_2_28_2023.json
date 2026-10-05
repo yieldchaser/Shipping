@@ -9,7 +9,7 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 2.28.2023",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nBottom is in, slope of recovery remains debatable - Following a long period of dreadful market conditions, the dry bulk market seems Download PDF\nSource: Breakwave Advisors\n\nLinked asset: 2023-02-28_breakwave-dry-bulk-shipping-report-2-28-2023_breakwavefebruary282023report_8120d586eaec.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-02-28_breakwave-dry-bulk-shipping-report-2-28-2023_breakwavefebruary282023report_8120d586eaec.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nFebruary 28, 2023\nBreakwave Dry Futures Index: 1,341 Baltic Dry Index (spot): 935 Short-term Indicators:\n↑ 30D: 24.4% ↑ 30D: 38.3% Momentum: Positive\n↑ YTD: 29.0% ↓ YTD: -38.3% Sentiment: Neutral\n↓ YOY: -45.4% ↓ YOY: -55.0% Fundamentals: Positive\nBi-Weekly Report\n• Bottom is in, slope of recovery remains debatable - Following a long period of dreadful market conditions, the dry\nbulk market seems to have finally found a bottom. The recent steep rally in rates appears impressive in percentage\nterms, but in actual dollars the improvement has been marginal. After all, across vessel classes, the increase in spot\nrates from recent lows has been less than $5,000/day.",
+  "summary": "Main\nBottom is in, slope of recovery remains debatable - Following a long period of dreadful market conditions, the dry bulk market seems Download PDF\nSource: Breakwave Advisors\n\nLinked asset: 2023-02-28_breakwave-dry-bulk-shipping-report-2-28-2023_breakwavefebruary282023report_8120d586eaec.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2023-02-28_breakwave-dry-bulk-shipping-report-2-28-2023_breakwavefebruary282023report_8120d586eaec.pdf\n\n|||BDRY|||||\n|---|---|---|---|---|---|---|\n||↑ ↑ ↓|Dry Bulk Shipping Breakwave Dry Futures Index: 30D: 24.4% YTD: 29.0% YOY: -45.4%|1,341 ↑ ↓ ↓|Baltic Dry Index (spot): 30D: 38.3% YTD: -38.3% YOY: -55.0%|935 Momentum: Sentiment: Fundamentals:|February 28, 2023 Short-term Indicators: Positive Neutral Positive|\n|• • •||Bi-Weekly Report might take longer to resolve than we anticipate. Dry bulk focus shifts back to fundamentals -|Bottom is in, slope of recovery remains debatable - One step forward, two steps back when it comes to China's economic activity - opinion that the odds point to higher activity for the months to come. Supramax and a weighted average maturity of approximately 50-70 days.|bulk market seems to have finally found a bottom",
   "keywords": [
     "capesize",
     "panamax",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1482,
-  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-02-28_breakwave-dry-bulk-shipping-report-2-28-2023.html",
+  "token_count": 1530,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-02-28_breakwave-dry-bulk-shipping-report-2-28-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-2-28-2023",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-02-28_breakwave-dry-bulk-shipping-report-2-28-2023_breakwavefebruary282023report_8120d586eaec.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-02-28_breakwave-dry-bulk-shipping-report-2-28-2023_breakwavefebruary282023report_8120d586eaec.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nFebruary 28, 2023\nBreakwave Dry Futures Index: 1,341 Baltic Dry Index (spot): 935 Short-term Indicators:\n↑ 30D: 24.4% ↑ 30D: 38.3% Momentum: Positive\n↑ YTD: 29.0% ↓ YTD: -38.3% Sentiment: Neutral\n↓ YOY: -45.4% ↓ YOY: -55.0% Fundamentals: Positive\nBi-Weekly Report\n• Bottom is in, slope of recovery remains debatable - Following a long period of dreadful market conditions, the dry\nbulk market seems to have finally found a bottom. The recent steep rally in rates appears impressive in percentage\nterms, but in actual dollars the improvement has been marginal.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-02-28_breakwave-dry-bulk-shipping-report-2-28-2023_breakwavefebruary282023report_8120d586eaec.pdf\n\n|||BDRY|||||\n|---|---|---|---|---|---|---|\n||↑ ↑ ↓|Dry Bulk Shipping Breakwave Dry Futures Index: 30D: 24.4% YTD: 29.0% YOY: -45.4%|1,341 ↑ ↓ ↓|Baltic Dry Index (spot): 30D: 38.3% YTD: -38.3% YOY: -55.0%|935 Momentum: Sentiment: Fundamentals:|February 28, 2023 Short-term Indicators: Positive Neutral Positive|\n|• • •||Bi-Weekly Report might take longer to resolve than we anticipate. Dry bulk focus shifts back to fundamentals -|Bottom is in, slope of recovery remains debatable - One step forward, two steps back when it comes to China's economic activity - opinion that the odds point to higher activity for the months to come.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1404,
+      "token_count": 1452,
       "section_type": "linked_pdf",
       "children": []
     }

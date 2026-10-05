@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_08_15_as_demand_withers__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_08_15_as_demand_withers",
+  "parent_id": null,
+  "title": "As Demand Withers",
+  "section_path": [
+    "As Demand Withers"
+  ],
+  "section_path_text": "As Demand Withers",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The joys of summertime: barbeques, picnics and best of all - vacations! Traditionally, this time of year sees throngs of Americans zoom off in their vehicles to relaxing destinations. Judging by the recent trail-off in the Energy Information Agency's (EIA) assessment of gasoline supplied, however, Americans seem to be zooming noticeably less this year than they have in past ones.",
+  "keywords": [
+    "brazil",
+    "atlantic",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "gasoline",
+    "supply",
+    "demand",
+    "reported",
+    "lower",
+    "year"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 649,
+  "source_path": "reports/poten/2008/poten_2008-08-15_as-demand-withers.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_08_15_as_demand_withers__s01_as_demand_withers",
+      "doc_id": "poten_tankers_no_date_poten_2008_08_15_as_demand_withers",
+      "parent_id": "poten_tankers_no_date_poten_2008_08_15_as_demand_withers__root",
+      "title": "As Demand Withers",
+      "section_path": [
+        "As Demand Withers"
+      ],
+      "section_path_text": "As Demand Withers",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The joys of summertime: barbeques, picnics and best of all - vacations! Traditionally, this time of year sees throngs of Americans zoom off in their vehicles to relaxing destinations.",
+      "keywords": [
+        "brazil",
+        "products",
+        "gas",
+        "gasoline",
+        "americans",
+        "energy",
+        "less",
+        "past"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 160,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_08_15_as_demand_withers__s02_gasoline_supplied_kbpd",
+      "doc_id": "poten_tankers_no_date_poten_2008_08_15_as_demand_withers",
+      "parent_id": "poten_tankers_no_date_poten_2008_08_15_as_demand_withers__root",
+      "title": "Gasoline Supplied, kbpd",
+      "section_path": [
+        "Gasoline Supplied, kbpd"
+      ],
+      "section_path_text": "Gasoline Supplied, kbpd",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Gasoline Supplied adjusted for ethanol, kbpd If July 2008's reported gasoline supply is adjusted for ethanol's 30 percent lower energy, this supply - on a strictly hydrocarbon basis - would be about 200 thousand bbl/day less than the EIA's valuation of 9.48 million bbl/day. The red square on the preceding chart approximates this adjusted supply level.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "gasoline",
+        "adjusted",
+        "lower",
+        "supply",
+        "chart"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 164,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_08_15_as_demand_withers__s03_utilization_percent",
+      "doc_id": "poten_tankers_no_date_poten_2008_08_15_as_demand_withers",
+      "parent_id": "poten_tankers_no_date_poten_2008_08_15_as_demand_withers__root",
+      "title": "Utilization, percent",
+      "section_path": [
+        "Utilization, percent"
+      ],
+      "section_path_text": "Utilization, percent",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Refinery Utilization, % of Operable Capacity 3-2-1 Crack Spread Despite the decline in US gasoline demand, reported fixtures of gasoline stocks moving from the UK Continent to the USA this year appear comparable to those of last year. The average reported monthly fixtures for the first half of each year are similar - 61 during 2007 versus 59 in the first half of this year.",
+      "keywords": [
+        "brazil",
+        "atlantic",
+        "europe",
+        "products",
+        "gas",
+        "reported",
+        "fixtures",
+        "half"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 148,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_08_15_as_demand_withers__s04_atlantic_coast",
+      "doc_id": "poten_tankers_no_date_poten_2008_08_15_as_demand_withers",
+      "parent_id": "poten_tankers_no_date_poten_2008_08_15_as_demand_withers__root",
+      "title": "Atlantic Coast",
+      "section_path": [
+        "Atlantic Coast"
+      ],
+      "section_path_text": "Atlantic Coast",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Whatever lies ahead for the volume of US gasoline demand, the trade of gasoline stocks from across the Atlantic will remain interlinked with supply. So far, the pull back in demand has had minimal impact on vessel fixtures or earnings.",
+      "keywords": [
+        "atlantic",
+        "products",
+        "gas",
+        "gasoline",
+        "inventories",
+        "demand",
+        "demand.",
+        "may"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 156,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

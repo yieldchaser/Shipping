@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-10-03_advanced_shipping_03_10_2026_advanced_shipping_trading_weekly_shipping_marke__root",
+  "doc_id": "broker_reports_broker_report_2026-10-03_advanced_shipping_03_10_2026_advanced_shipping_trading_weekly_shipping_marke",
+  "parent_id": null,
+  "title": "Advanced Shipping & Trading - WEEKLY SHIPPING MARKET REPORT WEEK 40 2026",
+  "section_path": [
+    "Advanced Shipping & Trading - WEEKLY SHIPPING MARKET REPORT WEEK 40 2026"
+  ],
+  "section_path_text": "Advanced Shipping & Trading - WEEKLY SHIPPING MARKET REPORT WEEK 40 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Advanced Shipping & Trading - WEEKLY SHIPPING MARKET REPORT WEEK 40 2026\n**Broker**: Advanced Shipping\n**Published Date**: 03/10/2026\n**Source URL**: [https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-40-2026/](https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-40-2026/)\n\nMarket Report Content\nWEEKLY SHIPPING MARKET REPORT - pg. 1\nWeek 40 (25th Sep to 2nd Oct 2026)\nBulkers\nHinode Kaiun have committed their Kamsarmax \" New Wavelet \" 82/2021\nNACKS, China (SS 07/2031, DD 07/2029) at high USD 38 mill basis delivery\nQ1 2027. By way of comparison, the sister vessel \"GCL Hazira\" 82/2021\nNACKS, China (SS/DD 11/2026) was committed a week ago basis SS/DD\npassed at the same levels.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "lpg",
+    "container",
+    "china",
+    "brazil",
+    "australia"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 6722,
+  "source_path": "reports/broker_reports/2026/advanced_shipping/advanced_shipping_03_10_2026_advanced_shipping_trading_weekly_shipping_marke.md",
+  "source_url": "https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-40-2026/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-10-03_advanced_shipping_03_10_2026_advanced_shipping_trading_weekly_shipping_marke__s01_advanced_shipping_trading_weekly_shipping_market_report_week_40_2026",
+      "doc_id": "broker_reports_broker_report_2026-10-03_advanced_shipping_03_10_2026_advanced_shipping_trading_weekly_shipping_marke",
+      "parent_id": "broker_reports_broker_report_2026-10-03_advanced_shipping_03_10_2026_advanced_shipping_trading_weekly_shipping_marke__root",
+      "title": "Advanced Shipping & Trading - WEEKLY SHIPPING MARKET REPORT WEEK 40 2026",
+      "section_path": [
+        "Advanced Shipping & Trading - WEEKLY SHIPPING MARKET REPORT WEEK 40 2026"
+      ],
+      "section_path_text": "Advanced Shipping & Trading - WEEKLY SHIPPING MARKET REPORT WEEK 40 2026",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: Advanced Shipping\n**Published Date**: 03/10/2026\n**Source URL**: [https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-40-2026/](https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-40-2026/)",
+      "keywords": [
+        "https",
+        "www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-40-2026",
+        "advanced",
+        "broker",
+        "date",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 80,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-10-03_advanced_shipping_03_10_2026_advanced_shipping_trading_weekly_shipping_marke__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-10-03_advanced_shipping_03_10_2026_advanced_shipping_trading_weekly_shipping_marke",
+      "parent_id": "broker_reports_broker_report_2026-10-03_advanced_shipping_03_10_2026_advanced_shipping_trading_weekly_shipping_marke__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "WEEKLY SHIPPING MARKET REPORT - pg. 1\nWeek 40 (25th Sep to 2nd Oct 2026)\nBulkers\nHinode Kaiun have committed their Kamsarmax \" New Wavelet \" 82/2021\nNACKS, China (SS 07/2031, DD 07/2029) at high USD 38 mill basis delivery\nQ1 2027.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "lpg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6619,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

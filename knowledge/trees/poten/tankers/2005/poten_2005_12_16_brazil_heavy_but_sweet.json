@@ -1,0 +1,173 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_12_16_brazil_heavy_but_sweet__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_12_16_brazil_heavy_but_sweet",
+  "parent_id": null,
+  "title": "Brazil- Heavy, but Sweet",
+  "section_path": [
+    "Brazil- Heavy, but Sweet"
+  ],
+  "section_path_text": "Brazil- Heavy, but Sweet",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Brazil- Heavy, but Sweet\nBrazil is South America's largest nation occupying more than half of the continent with its largest population of 185 million. Brazil, the tenth largest energy consumer in the world and the third largest in the Western Hemisphere after the Unites States and Canada, is undergoing rapid development with a growing population: a prescription for greater energy consumption. The following chart compares Brazil's oil production and consumption with oil reserves, which are now second in South America after Venezuela.",
+  "keywords": [
+    "suezmax",
+    "aframax",
+    "brazil",
+    "west_africa",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "oil",
+    "its",
+    "bpd",
+    "campos"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1152,
+  "source_path": "reports/poten/2005/poten_2005-12-16_brazil-heavy-but-sweet.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_12_16_brazil_heavy_but_sweet__s01_brazil_heavy_but_sweet",
+      "doc_id": "poten_tankers_no_date_poten_2005_12_16_brazil_heavy_but_sweet",
+      "parent_id": "poten_tankers_no_date_poten_2005_12_16_brazil_heavy_but_sweet__root",
+      "title": "Brazil- Heavy, but Sweet",
+      "section_path": [
+        "Brazil- Heavy, but Sweet"
+      ],
+      "section_path_text": "Brazil- Heavy, but Sweet",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Brazil is South America's largest nation occupying more than half of the continent with its largest population of 185 million. Brazil, the tenth largest energy consumer in the world and the third largest in the Western Hemisphere after the Unites States and Canada, is undergoing rapid development with a growing population: a prescription for greater energy consumption.",
+      "keywords": [
+        "brazil",
+        "europe",
+        "crude_oil",
+        "largest",
+        "after",
+        "america",
+        "energy",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 89,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_12_16_brazil_heavy_but_sweet__s02_consumption",
+      "doc_id": "poten_tankers_no_date_poten_2005_12_16_brazil_heavy_but_sweet",
+      "parent_id": "poten_tankers_no_date_poten_2005_12_16_brazil_heavy_but_sweet__root",
+      "title": "Consumption",
+      "section_path": [
+        "Consumption"
+      ],
+      "section_path_text": "Consumption",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Production Oil Reserves Oil Imports Rapidly Declining",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "declining",
+        "imports",
+        "production",
+        "rapidly",
+        "reserves"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 10,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_12_16_brazil_heavy_but_sweet__s03_oil_reserves",
+      "doc_id": "poten_tankers_no_date_poten_2005_12_16_brazil_heavy_but_sweet",
+      "parent_id": "poten_tankers_no_date_poten_2005_12_16_brazil_heavy_but_sweet__root",
+      "title": "Oil Reserves",
+      "section_path": [
+        "Oil Reserves"
+      ],
+      "section_path_text": "Oil Reserves",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Rapidly Increasing Although Brazil has exhibited significant overall economic progress averaging 4.5% since 1981, growth has been marked by fits and starts with contractions occurring regularly followed by spurts of rapid growth. The latest retreat occurred in 2003 when the economy faltered with negative growth of 0.2%, but rapidly recouped in 2004 with growth of 5.1%.",
+      "keywords": [
+        "suezmax",
+        "aframax",
+        "brazil",
+        "us_gulf",
+        "crude_oil",
+        "products",
+        "bpd",
+        "campos"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 796,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_12_16_brazil_heavy_but_sweet__s04_other",
+      "doc_id": "poten_tankers_no_date_poten_2005_12_16_brazil_heavy_but_sweet",
+      "parent_id": "poten_tankers_no_date_poten_2005_12_16_brazil_heavy_but_sweet__root",
+      "title": "Other",
+      "section_path": [
+        "Other"
+      ],
+      "section_path_text": "Other",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Africa Brazil The chart on the next page shows Petrobras clean fixture activity. Clean fixture activity, while relatively constant from 1995 to 2001, fell substantially in 2002 and 2003 from refinery capacity additions.",
+      "keywords": [
+        "brazil",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "products",
+        "clean",
+        "fixture",
+        "activity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 110,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_12_16_brazil_heavy_but_sweet__s05_other",
+      "doc_id": "poten_tankers_no_date_poten_2005_12_16_brazil_heavy_but_sweet",
+      "parent_id": "poten_tankers_no_date_poten_2005_12_16_brazil_heavy_but_sweet__root",
+      "title": "Other",
+      "section_path": [
+        "Other"
+      ],
+      "section_path_text": "Other",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Med AG Carib Brazil A New Trend in Place We see significant growing Petrobras presence in the dirty spot fixture market for processing its new supplies of heavy sweet offshore crude. Fixture activity should remain constant for importing lighter crudes for its domestic refineries.",
+      "keywords": [
+        "brazil",
+        "crude_oil",
+        "products",
+        "its",
+        "fixture",
+        "oil",
+        "activity",
+        "domestic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 128,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

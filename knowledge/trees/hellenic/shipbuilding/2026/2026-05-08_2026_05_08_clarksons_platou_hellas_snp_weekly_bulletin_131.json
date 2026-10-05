@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nTanker\n\nLinked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nThis week, the Dry Bulk sector has been at the forefront of market attention. The already firm sentiment\nstrengthened further, supported by improving freight fundamentals, as reflected in the overall week-\non-week increase of the BDI.",
+  "summary": "Main\nTanker\n\nLinked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf\n\n### Clarkson Hellas Ltd. # Desk Talk\n\nThis week, the Dry Bulk sector has been at the forefront of market attention. The already firm sentiment strengthened further, supported by improving freight fundamentals, as reflected in the overall week- on-week increase of the BDI.",
   "keywords": [
     "panamax",
     "supramax",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1617,
-  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131.html",
+  "token_count": 1651,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-131",
   "children": [
     {
@@ -60,7 +60,7 @@
       "section_path_text": "Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nThis week, the Dry Bulk sector has been at the forefront of market attention.",
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf\n\n### Clarkson Hellas Ltd. # Desk Talk\n\nThis week, the Dry Bulk sector has been at the forefront of market attention.",
       "keywords": [
         "panamax",
         "supramax",
@@ -73,7 +73,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1565,
+      "token_count": 1599,
       "section_type": "linked_pdf",
       "children": []
     }

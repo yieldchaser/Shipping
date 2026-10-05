@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_05_02_spread_is_the_word__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_05_02_spread_is_the_word",
+  "parent_id": null,
+  "title": "Spread is the Word",
+  "section_path": [
+    "Spread is the Word"
+  ],
+  "section_path_text": "Spread is the Word",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Spread is the Word\nThere is no doubt that the tanker market has become increasingly complex in the past several years. Changing trade patterns, increased demand for ships, high profile incidents, and increased regulations have all served to affect the day-to-day spot market rates in the various ways. The VLCC market in particular has been affected by changes in the chartering preferences of spot market players.",
+  "keywords": [
+    "vlcc",
+    "meg",
+    "crude_oil",
+    "hull",
+    "non-double",
+    "vessels",
+    "are",
+    "per",
+    "ships",
+    "all",
+    "far",
+    "increased"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 544,
+  "source_path": "reports/poten/2008/poten_2008-05-02_spread-is-the-word.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_05_02_spread_is_the_word__s01_spread_is_the_word",
+      "doc_id": "poten_tankers_no_date_poten_2008_05_02_spread_is_the_word",
+      "parent_id": "poten_tankers_no_date_poten_2008_05_02_spread_is_the_word__root",
+      "title": "Spread is the Word",
+      "section_path": [
+        "Spread is the Word"
+      ],
+      "section_path_text": "Spread is the Word",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "There is no doubt that the tanker market has become increasingly complex in the past several years. Changing trade patterns, increased demand for ships, high profile incidents, and increased regulations have all served to affect the day-to-day spot market rates in the various ways.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "become",
+        "but",
+        "far",
+        "increased",
+        "affect",
+        "affected"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 160,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_05_02_spread_is_the_word__s02_non_dh_dh_ratio",
+      "doc_id": "poten_tankers_no_date_poten_2008_05_02_spread_is_the_word",
+      "parent_id": "poten_tankers_no_date_poten_2008_05_02_spread_is_the_word__root",
+      "title": "Non-DH/DH Ratio",
+      "section_path": [
+        "Non-DH/DH Ratio"
+      ],
+      "section_path_text": "Non-DH/DH Ratio",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Non-DH WS Rate DH WS Rate For 2007 non-double hull vessels earned about $5,000 per day less than their double hull brethren. In 2008 thus far, this average spread widened to $21,000 less per day.",
+      "keywords": [
+        "hull",
+        "less",
+        "per",
+        "average",
+        "brethren.",
+        "day",
+        "day.",
+        "double"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 51,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_05_02_spread_is_the_word__s03_incidental_effects",
+      "doc_id": "poten_tankers_no_date_poten_2008_05_02_spread_is_the_word",
+      "parent_id": "poten_tankers_no_date_poten_2008_05_02_spread_is_the_word__root",
+      "title": "Incidental Effects",
+      "section_path": [
+        "Incidental Effects"
+      ],
+      "section_path_text": "Incidental Effects",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The reaction of the market to the Hebei Spirit incident in December was not as unanimous as one may expect. While the South Korean maritime authority may be looking to set an example for the region by accelerating the phase-out of non double-hull usage, on a practical basis non-double hull ships continue to trade.",
+      "keywords": [
+        "hull",
+        "non-double",
+        "are",
+        "charterers",
+        "may",
+        "often",
+        "vessels",
+        "what"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 161,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_05_02_spread_is_the_word__s04_facts_figures",
+      "doc_id": "poten_tankers_no_date_poten_2008_05_02_spread_is_the_word",
+      "parent_id": "poten_tankers_no_date_poten_2008_05_02_spread_is_the_word__root",
+      "title": "Facts & Figures",
+      "section_path": [
+        "Facts & Figures"
+      ],
+      "section_path_text": "Facts & Figures",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The cost-benefit relationship is particularly relevant to the market today as the potential freight savings can make the non-double hull ships quite appealing. At today's spot market rates, there is a 45 WS point discount for a non-double hull VLCC on the Arabian Gulf - South Korea trade.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "crude_oil",
+        "savings",
+        "all",
+        "are",
+        "can",
+        "hull"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 151,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

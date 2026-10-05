@@ -1,0 +1,195 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_02_01_singled_out__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_02_01_singled_out",
+  "parent_id": null,
+  "title": "Singled Out",
+  "section_path": [
+    "Singled Out"
+  ],
+  "section_path_text": "Singled Out",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Singled Out\nThe eventual fate of the single-hull tanker fleet is clear: these vessels must exit the market by 2015 or when they reach 25 years of age. However, with that date still several years off, the intermediate outlook for this fleet remains fairly uncertain. The recent spill off the coast of South Korea has prompted concerns that the phase-out schedule will rapidly accelerate.",
+  "keywords": [
+    "vlcc",
+    "hull",
+    "vessels",
+    "fleet",
+    "non-double",
+    "are",
+    "could",
+    "non",
+    "although",
+    "below",
+    "chart",
+    "double"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 516,
+  "source_path": "reports/poten/2008/poten_2008-02-01_singled-out.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_02_01_singled_out__s01_singled_out",
+      "doc_id": "poten_tankers_no_date_poten_2008_02_01_singled_out",
+      "parent_id": "poten_tankers_no_date_poten_2008_02_01_singled_out__root",
+      "title": "Singled Out",
+      "section_path": [
+        "Singled Out"
+      ],
+      "section_path_text": "Singled Out",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The eventual fate of the single-hull tanker fleet is clear: these vessels must exit the market by 2015 or when they reach 25 years of age. However, with that date still several years off, the intermediate outlook for this fleet remains fairly uncertain.",
+      "keywords": [
+        "vlcc",
+        "hull",
+        "off",
+        "years",
+        "fixtures",
+        "fleet",
+        "non-double",
+        "reported"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 150,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_02_01_singled_out__s02_non_double_hull_vlcc_reported_spot_fixtures",
+      "doc_id": "poten_tankers_no_date_poten_2008_02_01_singled_out",
+      "parent_id": "poten_tankers_no_date_poten_2008_02_01_singled_out__root",
+      "title": "Non-Double Hull VLCC Reported Spot Fixtures",
+      "section_path": [
+        "Non-Double Hull VLCC Reported Spot Fixtures"
+      ],
+      "section_path_text": "Non-Double Hull VLCC Reported Spot Fixtures",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "As the non-double hull market has been a sizeable percentage of the total spot market, it would seem that policy changes with regard to non-double hull tankers in 2008 could have widespread implications across the market. Although an accelerated phase-out of non-double hulls seems as though it would particularly affect the supply side of the equation, the repercussions could be smaller than anticipated.",
+      "keywords": [
+        "non-double",
+        "could",
+        "hull",
+        "would",
+        "accelerated",
+        "affect",
+        "although",
+        "anticipated."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 76,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_02_01_singled_out__s03_trading_today",
+      "doc_id": "poten_tankers_no_date_poten_2008_02_01_singled_out",
+      "parent_id": "poten_tankers_no_date_poten_2008_02_01_singled_out__root",
+      "title": "Trading Today",
+      "section_path": [
+        "Trading Today"
+      ],
+      "section_path_text": "Trading Today",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The chart below shows the fleet profile for VLCCs by hull type. Out of a fleet of approximately 500 vessels trading today, 28% are non- double hull.",
+      "keywords": [
+        "vlcc",
+        "fleet",
+        "vessels",
+        "actual",
+        "approximately",
+        "are",
+        "below",
+        "capacity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 63,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_02_01_singled_out__s04_non_dh",
+      "doc_id": "poten_tankers_no_date_poten_2008_02_01_singled_out",
+      "parent_id": "poten_tankers_no_date_poten_2008_02_01_singled_out__root",
+      "title": "Non-DH",
+      "section_path": [
+        "Non-DH"
+      ],
+      "section_path_text": "Non-DH",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "DH The chart below shows the average deadweight of the VLCC fleet based on build year. Over time, the average size of these vessels has increased quite considerably.",
+      "keywords": [
+        "vlcc",
+        "average",
+        "based",
+        "below",
+        "build",
+        "chart",
+        "considerably.",
+        "deadweight"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 33,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_02_01_singled_out__s05_dh",
+      "doc_id": "poten_tankers_no_date_poten_2008_02_01_singled_out",
+      "parent_id": "poten_tankers_no_date_poten_2008_02_01_singled_out__root",
+      "title": "DH",
+      "section_path": [
+        "DH"
+      ],
+      "section_path_text": "DH",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "",
+      "keywords": [
+        "non"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_02_01_singled_out__s06_apples_to_apples",
+      "doc_id": "poten_tankers_no_date_poten_2008_02_01_singled_out",
+      "parent_id": "poten_tankers_no_date_poten_2008_02_01_singled_out__root",
+      "title": "Apples to Apples",
+      "section_path": [
+        "Apples to Apples"
+      ],
+      "section_path_text": "Apples to Apples",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Aside from the smaller cargo-carrying capacity, non-double hull VLCCs are generally slower, and are fixed less frequently, than their modern counterparts. This suggests that for the most part, the market has already begun to commercially phase-out these older vessels in favor of more modern ships.",
+      "keywords": [
+        "vlcc",
+        "vessels",
+        "modern",
+        "are",
+        "could",
+        "deliver",
+        "fleet",
+        "hull"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 161,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

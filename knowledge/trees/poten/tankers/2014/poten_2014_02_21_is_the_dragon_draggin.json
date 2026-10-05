@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2014_02_21_is_the_dragon_draggin__root",
+  "doc_id": "poten_tankers_no_date_poten_2014_02_21_is_the_dragon_draggin",
+  "parent_id": null,
+  "title": "Is the Dragon Draggin'?",
+  "section_path": [
+    "Is the Dragon Draggin'?"
+  ],
+  "section_path_text": "Is the Dragon Draggin'?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "For most of the past decade, China has been the saving grace for the tanker, and other, shipping markets. While economic malaise pervaded in the West, China's economic dragon appeared difficult to tame. Recently released data suggest that China's incremental demand growth for transportation fuels may not be as robust as some originally anticipated.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "brazil",
+    "meg",
+    "west_africa",
+    "singapore",
+    "crude_oil",
+    "demand",
+    "chinese",
+    "oil",
+    "per",
+    "capacity"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 593,
+  "source_path": "reports/poten/2014/poten_2014-02-21_is-the-dragon-draggin.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_02_21_is_the_dragon_draggin__s01_is_the_dragon_draggin",
+      "doc_id": "poten_tankers_no_date_poten_2014_02_21_is_the_dragon_draggin",
+      "parent_id": "poten_tankers_no_date_poten_2014_02_21_is_the_dragon_draggin__root",
+      "title": "Is the Dragon Draggin'?",
+      "section_path": [
+        "Is the Dragon Draggin'?"
+      ],
+      "section_path_text": "Is the Dragon Draggin'?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "For most of the past decade, China has been the saving grace for the tanker, and other, shipping markets. While economic malaise pervaded in the West, China's economic dragon appeared difficult to tame.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "brazil",
+        "singapore",
+        "demand",
+        "chinese",
+        "but",
+        "economic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 246,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_02_21_is_the_dragon_draggin__s02_to_china",
+      "doc_id": "poten_tankers_no_date_poten_2014_02_21_is_the_dragon_draggin",
+      "parent_id": "poten_tankers_no_date_poten_2014_02_21_is_the_dragon_draggin__root",
+      "title": "To China",
+      "section_path": [
+        "To China"
+      ],
+      "section_path_text": "To China",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "To Singapore % Influence The catalyst that sparked the past decade's significant uptick in VLCC demand was the expansion of Chinese refining capacity in the early 2000's. Demand for approximately 80 VLCCs was created when crude oil inputs increased from around 4.5 million barrels per day to current levels of around 7 million barrels per day.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "meg",
+        "west_africa",
+        "singapore",
+        "crude_oil",
+        "demand",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 337,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

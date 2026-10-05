@@ -1,0 +1,230 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2006_01_06_the_tallest_and_the_strongest__root",
+  "doc_id": "poten_tankers_no_date_poten_2006_01_06_the_tallest_and_the_strongest",
+  "parent_id": null,
+  "title": "The Tallest and the Strongest",
+  "section_path": [
+    "The Tallest and the Strongest"
+  ],
+  "section_path_text": "The Tallest and the Strongest",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Tallest and the Strongest\nNow that the 2005 National Championship College Football (American style) have been settled it's time to look at the Worldwide Chartering Championship for the oil and dirty petroleum (DPP) market. Surprisingly, the total activity in the sector is essentially unchanged from last year. Total dirty spot fixtures rose by just 19 fixtures from 10,412 in 2004 to 10,433 in 2005.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "brazil",
+    "crude_oil",
+    "charterers",
+    "fixtures",
+    "dirty",
+    "top",
+    "shell",
+    "ten"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1097,
+  "source_path": "reports/poten/2006/poten_2006-01-06_the-tallest-and-the-strongest.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_01_06_the_tallest_and_the_strongest__s01_the_tallest_and_the_strongest",
+      "doc_id": "poten_tankers_no_date_poten_2006_01_06_the_tallest_and_the_strongest",
+      "parent_id": "poten_tankers_no_date_poten_2006_01_06_the_tallest_and_the_strongest__root",
+      "title": "The Tallest and the Strongest",
+      "section_path": [
+        "The Tallest and the Strongest"
+      ],
+      "section_path_text": "The Tallest and the Strongest",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Now that the 2005 National Championship College Football (American style) have been settled it's time to look at the Worldwide Chartering Championship for the oil and dirty petroleum (DPP) market. Surprisingly, the total activity in the sector is essentially unchanged from last year.",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "crude_oil",
+        "fixtures",
+        "dirty",
+        "championship",
+        "ground",
+        "reported"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 167,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_01_06_the_tallest_and_the_strongest__s02_top_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2006_01_06_the_tallest_and_the_strongest",
+      "parent_id": "poten_tankers_no_date_poten_2006_01_06_the_tallest_and_the_strongest__root",
+      "title": "Top Charterers",
+      "section_path": [
+        "Top Charterers"
+      ],
+      "section_path_text": "Top Charterers",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Although Texas won the Football championship, they would only hold the number three spot with London based companies the clear winners. The top ten charterers for dirty fixtures are shown below.",
+      "keywords": [
+        "brazil",
+        "crude_oil",
+        "fixtures",
+        "top",
+        "all",
+        "charterers",
+        "companies",
+        "dirty"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 571,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_01_06_the_tallest_and_the_strongest__s03_vlccs",
+      "doc_id": "poten_tankers_no_date_poten_2006_01_06_the_tallest_and_the_strongest",
+      "parent_id": "poten_tankers_no_date_poten_2006_01_06_the_tallest_and_the_strongest__root",
+      "title": "VLCCs",
+      "section_path": [
+        "VLCCs"
+      ],
+      "section_path_text": "VLCCs",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The top ten charterers for VLCCs in 2005 are shown in the chart on the following page. Cumulatively, they account for 44% of the 1,797 spot fixtures.",
+      "keywords": [
+        "vlcc",
+        "charterers",
+        "vlccs",
+        "account",
+        "are",
+        "chart",
+        "cumulatively",
+        "exxonmobil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 66,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_01_06_the_tallest_and_the_strongest__s04_suezmaxes",
+      "doc_id": "poten_tankers_no_date_poten_2006_01_06_the_tallest_and_the_strongest",
+      "parent_id": "poten_tankers_no_date_poten_2006_01_06_the_tallest_and_the_strongest__root",
+      "title": "Suezmaxes",
+      "section_path": [
+        "Suezmaxes"
+      ],
+      "section_path_text": "Suezmaxes",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The top ten charterers for Suezmaxes account for 47% of the 2,132 dirty spot fixtures in 2005. Sun, Shell, BP, and Total were the most active spot charterers of Suezmaxes in 2005",
+      "keywords": [
+        "suezmax",
+        "charterers",
+        "suezmaxes",
+        "account",
+        "active",
+        "dirty",
+        "fixtures",
+        "shell"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 53,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_01_06_the_tallest_and_the_strongest__s05_aframaxes",
+      "doc_id": "poten_tankers_no_date_poten_2006_01_06_the_tallest_and_the_strongest",
+      "parent_id": "poten_tankers_no_date_poten_2006_01_06_the_tallest_and_the_strongest__root",
+      "title": "Aframaxes",
+      "section_path": [
+        "Aframaxes"
+      ],
+      "section_path_text": "Aframaxes",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The top ten charterers for Aframaxes account for 45% of 4,641 dirty spot fixtures in 2005. Shell, Vitol, and BP were the predominant charterers of dirty spot Aframax vessels in 2005.",
+      "keywords": [
+        "aframax",
+        "charterers",
+        "dirty",
+        "account",
+        "aframaxes",
+        "fixtures",
+        "predominant",
+        "shell"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 50,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_01_06_the_tallest_and_the_strongest__s06_panamaxes",
+      "doc_id": "poten_tankers_no_date_poten_2006_01_06_the_tallest_and_the_strongest",
+      "parent_id": "poten_tankers_no_date_poten_2006_01_06_the_tallest_and_the_strongest__root",
+      "title": "Panamaxes",
+      "section_path": [
+        "Panamaxes"
+      ],
+      "section_path_text": "Panamaxes",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "The top ten charterers for Panamaxes account for 63% of the 858 dirty spot fixtures in 2005. Glencore, Ursa, Shell, and Valero were the leading charterers of spot dirty Panamaxes in 2005.",
+      "keywords": [
+        "panamax",
+        "brazil",
+        "charterers",
+        "dirty",
+        "panamaxes",
+        "account",
+        "fixtures",
+        "glencore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 54,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_01_06_the_tallest_and_the_strongest__s07_conclusion",
+      "doc_id": "poten_tankers_no_date_poten_2006_01_06_the_tallest_and_the_strongest",
+      "parent_id": "poten_tankers_no_date_poten_2006_01_06_the_tallest_and_the_strongest__root",
+      "title": "Conclusion",
+      "section_path": [
+        "Conclusion"
+      ],
+      "section_path_text": "Conclusion",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Following robust fixture growth in 2004, spot market volumes remained largely unchanged in 2005 across major vessel sizes. With fixture volume at such strong levels, overall vessel demand is high and rates are up.",
+      "keywords": [
+        "crude_oil",
+        "demand",
+        "fixture",
+        "major",
+        "strong",
+        "vessel",
+        "are",
+        "but"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 104,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

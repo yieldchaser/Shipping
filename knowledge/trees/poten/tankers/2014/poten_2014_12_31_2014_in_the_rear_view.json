@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2014_12_31_2014_in_the_rear_view__root",
+  "doc_id": "poten_tankers_no_date_poten_2014_12_31_2014_in_the_rear_view",
+  "parent_id": null,
+  "title": "2014 In The Rear View",
+  "section_path": [
+    "2014 In The Rear View"
+  ],
+  "section_path_text": "2014 In The Rear View",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "2014 In The Rear View\nUpdate and Review of 2014 Tanker Opinions The end of the year is often a time of reflection and subsequent planning for the new year ahead. In this last issue of this year we will review the current status of the most relevant topics that were discussed throughout the year. Not surprisingly, the significant rise of U.S.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "west_africa",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "crude",
+    "year",
+    "condensates",
+    "u.s.",
+    "was"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 661,
+  "source_path": "reports/poten/2014/poten_2014-12-31_2014-in-the-rear-view.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_12_31_2014_in_the_rear_view__s01_2014_in_the_rear_view",
+      "doc_id": "poten_tankers_no_date_poten_2014_12_31_2014_in_the_rear_view",
+      "parent_id": "poten_tankers_no_date_poten_2014_12_31_2014_in_the_rear_view__root",
+      "title": "2014 In The Rear View",
+      "section_path": [
+        "2014 In The Rear View"
+      ],
+      "section_path_text": "2014 In The Rear View",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Update and Review of 2014 Tanker Opinions The end of the year is often a time of reflection and subsequent planning for the new year ahead. In this last issue of this year we will review the current status of the most relevant topics that were discussed throughout the year.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "west_africa",
+        "europe",
+        "india",
+        "crude_oil",
+        "products",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 654,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2016_02_12_the_haves_and_the_have_nots_3__root",
+  "doc_id": "poten_tankers_no_date_poten_2016_02_12_the_haves_and_the_have_nots_3",
+  "parent_id": null,
+  "title": "The Haves And The Have Nots 3",
+  "section_path": [
+    "The Haves And The Have Nots 3"
+  ],
+  "section_path_text": "The Haves And The Have Nots 3",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Haves And The Have Nots\nDuring their meeting on 27 November 2014, the members of the Organization of the Petroleum Exporting Countries (\"OPEC\") decided not to cut production to arrest a slide in global oil prices. The next day Brent oil fell more than $6 to $71.25, a price decline described at the time as \"sending benchmark crude plunging to a fresh four-year low\". Ah, the good ol' days ...",
+  "keywords": [
+    "vlcc",
+    "aframax",
+    "meg",
+    "crude_oil",
+    "oil",
+    "production",
+    "opec",
+    "are",
+    "crude",
+    "countries",
+    "b/d",
+    "increase"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 880,
+  "source_path": "reports/poten/2016/poten_2016-02-12_the-haves-and-the-have-nots-3.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_02_12_the_haves_and_the_have_nots_3__s01_the_haves_and_the_have_nots",
+      "doc_id": "poten_tankers_no_date_poten_2016_02_12_the_haves_and_the_have_nots_3",
+      "parent_id": "poten_tankers_no_date_poten_2016_02_12_the_haves_and_the_have_nots_3__root",
+      "title": "The Haves And The Have Nots",
+      "section_path": [
+        "The Haves And The Have Nots"
+      ],
+      "section_path_text": "The Haves And The Have Nots",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "During their meeting on 27 November 2014, the members of the Organization of the Petroleum Exporting Countries (\"OPEC\") decided not to cut production to arrest a slide in global oil prices. The next day Brent oil fell more than $6 to $71.25, a price decline described at the time as \"sending benchmark crude plunging to a fresh four-year low\".",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "meg",
+        "crude_oil",
+        "oil",
+        "production",
+        "opec",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 871,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

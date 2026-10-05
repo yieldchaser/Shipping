@@ -7,6 +7,7 @@ commodities:
 date: '2026-05-29'
 doc_id: hellenic_demolition_2026-05-29_2026_05_29_gms_week_22_deal_struck_doors_shut
 document_type: demolition_update
+is_error_page: false
 key_entities:
 - China
 - Vale
@@ -30,7 +31,7 @@ linked_assets_ingested: 2
 linked_assets_mirrored: 2
 linked_assets_skipped: 1
 market_tone: constructive
-numeric_observation_count: 112
+numeric_observation_count: 116
 numeric_observations:
 - section: Main
   section_type: null
@@ -114,14 +115,15 @@ numeric_observations:
   - -29.0
   - 22.0
   - 2952025.0
-  - 36.0
+  - 7.0
+  - 336.0
 - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_2952025_acd7ba336fde.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 600x135 mode=RGB'
   unit: null
   values:
   - 600.0
-  - 35.0
+  - 135.0
 - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_2952025_acd7ba336fde.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (72.0, 72.0)'
@@ -293,6 +295,13 @@ numeric_observations:
   - 123.18
 - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
+  source_line: band that has now contained the Taka for the entirety of Q2 without
+    a single breach in either
+  unit: null
+  values:
+  - 2.0
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+  section_type: linked_pdf
   source_line: direction. The band has survived the diplomatic whipsaw, Brent's collapse
     to USD 96, the Indian
   unit: usd
@@ -351,6 +360,13 @@ numeric_observations:
   values:
   - 17.0
   - 21.0
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+  section_type: linked_pdf
+  source_line: 'opened, which is its own quiet irony: the financing that was the binding
+    constraint in Q1 is now'
+  unit: null
+  values:
+  - 1.0
 - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: Bangladesh's April CPI at 9.04%, released in Week 21, remains the operative
@@ -513,6 +529,14 @@ numeric_observations:
   - 29.0
 - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
+  source_line: restoring the routing economics that the blockade suspended. That erosion
+    is a Q3 and Q4 question.
+  unit: null
+  values:
+  - 3.0
+  - 4.0
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+  section_type: linked_pdf
   source_line: Local steel plate prices at PKR 195,000 per ton held the Week 20 step-up
     through the holiday, with
   unit: null
@@ -623,6 +647,13 @@ numeric_observations:
   values:
   - 415.0
   - 420.0
+- section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
+  section_type: linked_pdf
+  source_line: Turkey's relevance this Q2 remains confined to the EU-regulated tonnage
+    segment, where Basel
+  unit: null
+  values:
+  - 2.0
 - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
   source_line: For Week 22 of 2026, GMS Market Rankings / Vessel indications are as
@@ -840,9 +871,9 @@ numeric_observations:
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
   values:
-  - 30.21
+  - 30210.0
   - 899.0669
-  - 91.278
+  - 91278.0
   - 300.5253
 - section: 'Linked asset: 2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf'
   section_type: linked_pdf
@@ -867,7 +898,7 @@ numeric_observations:
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
   values:
-  - 86.216
+  - 86216.0
   - 75.19
   - 82.1
   - 4650.072

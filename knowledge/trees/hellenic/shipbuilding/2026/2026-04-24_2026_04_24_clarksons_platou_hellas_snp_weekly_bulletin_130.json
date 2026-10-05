@@ -16,18 +16,18 @@
     "suezmax",
     "aframax",
     "china",
-    "abt",
-    "dwt",
-    "sti",
     "usd",
-    "scrubber",
-    "sold",
+    "sti",
+    "any",
+    "information",
+    "dwt",
+    "abt",
     "enbloc"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 542,
-  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-04-24_clarksons-platou-hellas-snp-weekly-bulletin-130.html",
+  "token_count": 2521,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-04-24_clarksons-platou-hellas-snp-weekly-bulletin-130.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-130",
   "children": [
     {
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 540,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-04-24_2026_04_24_clarksons_platou_hellas_snp_weekly_bulletin_130__s02_linked_asset_2026_04_24_clarksons_platou_hellas_snp_weekly_bulletin_130_weekly_sales_24th_april_2026_93d16c070032_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-04-24_2026_04_24_clarksons_platou_hellas_snp_weekly_bulletin_130",
+      "parent_id": "hellenic_shipbuilding_2026-04-24_2026_04_24_clarksons_platou_hellas_snp_weekly_bulletin_130__root",
+      "title": "Linked asset: 2026-04-24_clarksons-platou-hellas-snp-weekly-bulletin-130_weekly-sales-24th-april-2026_93d16c070032.pdf",
+      "section_path": [
+        "Linked asset: 2026-04-24_clarksons-platou-hellas-snp-weekly-bulletin-130_weekly-sales-24th-april-2026_93d16c070032.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-04-24_clarksons-platou-hellas-snp-weekly-bulletin-130_weekly-sales-24th-april-2026_93d16c070032.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-04-24_clarksons-platou-hellas-snp-weekly-bulletin-130_weekly-sales-24th-april-2026_93d16c070032.pdf\n\n### Clarkson Hellas Ltd. # Desk Talk\n\nThis week, tankers received attention across all segments.",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "suezmax",
+        "aframax",
+        "china",
+        "any",
+        "information",
+        "usd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1931,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

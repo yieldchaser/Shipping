@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2020_10_30_letting_it_all_out__root",
+  "doc_id": "poten_tankers_no_date_poten_2020_10_30_letting_it_all_out",
+  "parent_id": null,
+  "title": "Letting It All Out",
+  "section_path": [
+    "Letting It All Out"
+  ],
+  "section_path_text": "Letting It All Out",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Libyan oil is hitting an oversupplied market\nWe last discussed Libya in our Weekly Opinion a little over two months ago (July 17, 2020 - \"Libya's Rollercoaster Ride\"). At the time the country's production and exports were reduced to almost zero because of the continued fighting between the two factions that controlled the west and the east of the country, respectively. Although the situation was bad for Libya, the country's production and export struggles were quite helpful for the other members of OPEC, as they were trying to reduce production in the midst of the Covid-19 pandemic.",
+  "keywords": [
+    "suezmax",
+    "aframax",
+    "europe",
+    "crude_oil",
+    "libya",
+    "oil",
+    "production",
+    "b/d",
+    "exports",
+    "million",
+    "opec",
+    "was"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 992,
+  "source_path": "reports/poten/2020/poten_2020-10-30_letting-it-all-out.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_10_30_letting_it_all_out__s01_libyan_oil_is_hitting_an_oversupplied_market",
+      "doc_id": "poten_tankers_no_date_poten_2020_10_30_letting_it_all_out",
+      "parent_id": "poten_tankers_no_date_poten_2020_10_30_letting_it_all_out__root",
+      "title": "Libyan oil is hitting an oversupplied market",
+      "section_path": [
+        "Libyan oil is hitting an oversupplied market"
+      ],
+      "section_path_text": "Libyan oil is hitting an oversupplied market",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "We last discussed Libya in our Weekly Opinion a little over two months ago (July 17, 2020 - \"Libya's Rollercoaster Ride\"). At the time the country's production and exports were reduced to almost zero because of the continued fighting between the two factions that controlled the west and the east of the country, respectively.",
+      "keywords": [
+        "suezmax",
+        "aframax",
+        "europe",
+        "crude_oil",
+        "libya",
+        "oil",
+        "production",
+        "b/d"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 981,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

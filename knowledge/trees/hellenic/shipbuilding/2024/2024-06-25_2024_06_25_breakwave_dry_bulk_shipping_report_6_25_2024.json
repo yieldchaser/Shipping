@@ -9,7 +9,7 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 6.25.2024",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nVolatility Declines as Spot Rates Remain Rangebound - Not much has changed over the past fortnight, as Capesize spot rates hover in the mid/low-20,000s range\nSource: Breakwave Advisors\n\nLinked asset: 2024-06-25_breakwave-dry-bulk-shipping-report-6-25-2024_breakwavedryjune252024report_69c94182261d.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2024-06-25_breakwave-dry-bulk-shipping-report-6-25-2024_breakwavedryjune252024report_69c94182261d.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nJune 25, 2024\nBreakwave Dry Futures Index: 2,028 Baltic Dry Index (spot): 1,997 Short-term Indicators:\n↓ 30D: -2.5% ↑ 30D: 11.1% Momentum: Neutral\n↑ YTD: 35.3% ↓ YTD: -4.6% Sentiment: Neutral\n↑ YOY: 41.7% ↑ YOY: 61.0% Fundamentals: Negative\nBi-Weekly Report\n• Volatility Declines as Spot Rates Remain Rangebound - Not much has changed over the past fortnight, as Capesize\nspot rates hover in the mid/low-20,000s range and the futures curve remains relatively flat to spot. Such lack of\nvolatility is quite unusual for the otherwise unstable Capesize market, but it seems the current elevated conference\nrates are satisfactory for both buyers and sellers. As we look into the rest of the summer, we believe we ",
+  "summary": "Main\nVolatility Declines as Spot Rates Remain Rangebound - Not much has changed over the past fortnight, as Capesize spot rates hover in the mid/low-20,000s range\nSource: Breakwave Advisors\n\nLinked asset: 2024-06-25_breakwave-dry-bulk-shipping-report-6-25-2024_breakwavedryjune252024report_69c94182261d.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2024-06-25_breakwave-dry-bulk-shipping-report-6-25-2024_breakwavedryjune252024report_69c94182261d.pdf\n\n# BDRY\n\n## Dry Bulk Shipping\n\n**June 25, 2024**\n\n|Breakwave Dry Futures Index:||Baltic Dry Index (spot):|Short-term Indicators:||\n|---|---|---|---|---|\n|↓|30D: -2.5%|↑ 30D: 11.1%|Momentum:|Neutral|\n|↑|YTD: 35.3%|↓ YTD: -4.6%|Sentiment:|Neutral|\n|↑|YOY: 41.7%|↑ YOY: 61.0%|Fundamentals:|Negative|\n\n##### 2,028 1,997\n\n#### <u>Bi-Weekly Report</u>\n\n- **Volatility Declines as Spot Rates Remain Rangebound -** Not much has changed over the past fortnight, as Capesize spot rates hover in the mid/low-20,000s range and the **futures** curve remains relatively **flat to spot**. Such **lack of** **volatility** is quite **unusual** for the otherwise unstable Capesize market, but it seems the current elevated conference rates are satisfactory f",
   "keywords": [
     "capesize",
     "panamax",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1544,
-  "source_path": "corpus/02-hellenic/shipbuilding/2024/2024-06-25_breakwave-dry-bulk-shipping-report-6-25-2024.html",
+  "token_count": 1675,
+  "source_path": "reports/hellenic/shipbuilding/2024/2024-06-25_breakwave-dry-bulk-shipping-report-6-25-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-6-25-2024",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2024-06-25_breakwave-dry-bulk-shipping-report-6-25-2024_breakwavedryjune252024report_69c94182261d.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2024-06-25_breakwave-dry-bulk-shipping-report-6-25-2024_breakwavedryjune252024report_69c94182261d.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nJune 25, 2024\nBreakwave Dry Futures Index: 2,028 Baltic Dry Index (spot): 1,997 Short-term Indicators:\n↓ 30D: -2.5% ↑ 30D: 11.1% Momentum: Neutral\n↑ YTD: 35.3% ↓ YTD: -4.6% Sentiment: Neutral\n↑ YOY: 41.7% ↑ YOY: 61.0% Fundamentals: Negative\nBi-Weekly Report\n• Volatility Declines as Spot Rates Remain Rangebound - Not much has changed over the past fortnight, as Capesize\nspot rates hover in the mid/low-20,000s range and the futures curve remains relatively flat to spot. Such lack of\nvolatility is quite unusual for the otherwise unstable Capesize market, but it seems the current elevated conference\nrates are satisfactory for both buyers and sellers.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2024-06-25_breakwave-dry-bulk-shipping-report-6-25-2024_breakwavedryjune252024report_69c94182261d.pdf\n\n# BDRY\n\n## Dry Bulk Shipping\n\n**June 25, 2024**\n\n|Breakwave Dry Futures Index:||Baltic Dry Index (spot):|Short-term Indicators:||\n|---|---|---|---|---|\n|↓|30D: -2.5%|↑ 30D: 11.1%|Momentum:|Neutral|\n|↑|YTD: 35.3%|↓ YTD: -4.6%|Sentiment:|Neutral|\n|↑|YOY: 41.7%|↑ YOY: 61.0%|Fundamentals:|Negative|\n\n##### 2,028 1,997\n\n#### <u>Bi-Weekly Report</u>\n\n- **Volatility Declines as Spot Rates Remain Rangebound -** Not much has changed over the past fortnight, as Capesize spot rates hover in the mid/low-20,000s range and the **futures** curve remains relatively **flat to spot**. Such **lack of** **volatility** is quite **unusual** for the otherwise unstable Capesize market, but it seems the current elevated conference rates are satisfactory for both buyers and sellers.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1452,
+      "token_count": 1583,
       "section_type": "linked_pdf",
       "children": []
     }

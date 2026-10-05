@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2022_04_29_vlcc_outlook_remains_foggy_002__root",
+  "doc_id": "poten_tankers_no_date_poten_2022_04_29_vlcc_outlook_remains_foggy_002",
+  "parent_id": null,
+  "title": "VLCC Outlook Remains Foggy 002",
+  "section_path": [
+    "VLCC Outlook Remains Foggy 002"
+  ],
+  "section_path_text": "VLCC Outlook Remains Foggy 002",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "VLCC Outlook Remains Foggy\nAccording to Lloyd's List Intelligence vessel movement data, VLCC TonMiles increased by about 4.8% in the first quarter of 2022 compared to 2021 Q4 and by 4.6% compared to the first quarter of last year. The oil market and trade flows during the first quarter were affected by some major events: First of all, by the invasion of Ukraine, which started in February 2022 and second by the resurgence of Covid in China which led to significant lockdowns in a number of major cities. Both of these developments will continue to affect trade flows for at least the coming months.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "atlantic",
+    "west_africa",
+    "europe",
+    "india",
+    "singapore",
+    "crude_oil",
+    "cargoes",
+    "exports",
+    "month"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 907,
+  "source_path": "reports/poten/2022/poten_2022-04-29_vlcc-outlook-remains-foggy-002.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_04_29_vlcc_outlook_remains_foggy_002__s01_vlcc_outlook_remains_foggy",
+      "doc_id": "poten_tankers_no_date_poten_2022_04_29_vlcc_outlook_remains_foggy_002",
+      "parent_id": "poten_tankers_no_date_poten_2022_04_29_vlcc_outlook_remains_foggy_002__root",
+      "title": "VLCC Outlook Remains Foggy",
+      "section_path": [
+        "VLCC Outlook Remains Foggy"
+      ],
+      "section_path_text": "VLCC Outlook Remains Foggy",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "According to Lloyd's List Intelligence vessel movement data, VLCC TonMiles increased by about 4.8% in the first quarter of 2022 compared to 2021 Q4 and by 4.6% compared to the first quarter of last year. The oil market and trade flows during the first quarter were affected by some major events: First of all, by the invasion of Ukraine, which started in February 2022 and second by the resurgence of Covid in China which led to significant lockdowns in a number of major cities.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "atlantic",
+        "west_africa",
+        "europe",
+        "india",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 899,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2019_08_16_recession_ahead__root",
+  "doc_id": "poten_tankers_no_date_poten_2019_08_16_recession_ahead",
+  "parent_id": null,
+  "title": "Recession Ahead",
+  "section_path": [
+    "Recession Ahead"
+  ],
+  "section_path_text": "Recession Ahead",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Will an economic slowdown threaten the tanker market? The magazine 'the Economist' had an article this morning that talked about the inverted yield curve. That is a situation where the yield on ten-year government bonds falls below the yield on two-year ones.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "europe",
+    "india",
+    "crude_oil",
+    "global",
+    "oil",
+    "was",
+    "growth",
+    "gdp",
+    "impact",
+    "recession"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 979,
+  "source_path": "reports/poten/2019/poten_2019-08-16_recession-ahead.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_08_16_recession_ahead__s01_will_an_economic_slowdown_threaten_the_tanker_market",
+      "doc_id": "poten_tankers_no_date_poten_2019_08_16_recession_ahead",
+      "parent_id": "poten_tankers_no_date_poten_2019_08_16_recession_ahead__root",
+      "title": "Will an economic slowdown threaten the tanker market?",
+      "section_path": [
+        "Will an economic slowdown threaten the tanker market?"
+      ],
+      "section_path_text": "Will an economic slowdown threaten the tanker market?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The magazine 'the Economist' had an article this morning that talked about the inverted yield curve. That is a situation where the yield on ten-year government bonds falls below the yield on two-year ones.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "europe",
+        "india",
+        "crude_oil",
+        "global",
+        "oil",
+        "was"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 970,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

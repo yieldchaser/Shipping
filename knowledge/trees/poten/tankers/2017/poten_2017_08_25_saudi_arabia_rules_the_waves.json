@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2017_08_25_saudi_arabia_rules_the_waves__root",
+  "doc_id": "poten_tankers_no_date_poten_2017_08_25_saudi_arabia_rules_the_waves",
+  "parent_id": null,
+  "title": "Saudi Arabia Rules The Waves",
+  "section_path": [
+    "Saudi Arabia Rules The Waves"
+  ],
+  "section_path_text": "Saudi Arabia Rules The Waves",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Saudi Arabian Exports drive the VLCC market\nSaudi Arabia is the largest oil producer in OPEC, accounting for about 30% of total OPEC crude oil production and they are the third largest oil producer in the world (after the U.S. However, Saudi Arabia is very important to the tanker market as they are by far the largest seaborne crude oil exporter in the world. This week we are looking into developments in Saudi Arabian oil exports.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "crude_oil",
+    "products",
+    "saudi",
+    "oil",
+    "crude",
+    "exports"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 836,
+  "source_path": "reports/poten/2017/poten_2017-08-25_saudi-arabia-rules-the-waves.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2017_08_25_saudi_arabia_rules_the_waves__s01_saudi_arabian_exports_drive_the_vlcc_market",
+      "doc_id": "poten_tankers_no_date_poten_2017_08_25_saudi_arabia_rules_the_waves",
+      "parent_id": "poten_tankers_no_date_poten_2017_08_25_saudi_arabia_rules_the_waves__root",
+      "title": "Saudi Arabian Exports drive the VLCC market",
+      "section_path": [
+        "Saudi Arabian Exports drive the VLCC market"
+      ],
+      "section_path_text": "Saudi Arabian Exports drive the VLCC market",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Saudi Arabia is the largest oil producer in OPEC, accounting for about 30% of total OPEC crude oil production and they are the third largest oil producer in the world (after the U.S. However, Saudi Arabia is very important to the tanker market as they are by far the largest seaborne crude oil exporter in the world.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 826,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

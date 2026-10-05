@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2017_03_10_looking_into_ieas_crystal_ball__root",
+  "doc_id": "poten_tankers_no_date_poten_2017_03_10_looking_into_ieas_crystal_ball",
+  "parent_id": null,
+  "title": "Looking into IEAs Crystal Ball",
+  "section_path": [
+    "Looking into IEAs Crystal Ball"
+  ],
+  "section_path_text": "Looking into IEAs Crystal Ball",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "IEA oil market report is kind to ship owners\nEarlier this week, the International Energy Agency (IEA) published their annual medium term oil market outlook, now called 'Oil 2017'. The publication covers projections for oil supply and demand and refining as well as the outlook for the crude oil and products trades. This week, we will take a look at their projections and the likely impact on the tanker markets.",
+  "keywords": [
+    "brazil",
+    "atlantic",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "oil",
+    "mb/d",
+    "crude",
+    "demand",
+    "iea",
+    "kb/d"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 624,
+  "source_path": "reports/poten/2017/poten_2017-03-10_looking-into-ieas-crystal-ball.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2017_03_10_looking_into_ieas_crystal_ball__s01_iea_oil_market_report_is_kind_to_ship_owners",
+      "doc_id": "poten_tankers_no_date_poten_2017_03_10_looking_into_ieas_crystal_ball",
+      "parent_id": "poten_tankers_no_date_poten_2017_03_10_looking_into_ieas_crystal_ball__root",
+      "title": "IEA oil market report is kind to ship owners",
+      "section_path": [
+        "IEA oil market report is kind to ship owners"
+      ],
+      "section_path_text": "IEA oil market report is kind to ship owners",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Earlier this week, the International Energy Agency (IEA) published their annual medium term oil market outlook, now called 'Oil 2017'. The publication covers projections for oil supply and demand and refining as well as the outlook for the crude oil and products trades.",
+      "keywords": [
+        "brazil",
+        "atlantic",
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "oil",
+        "mb/d"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 613,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_09_30_how_low_can_you_go__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_09_30_how_low_can_you_go",
+  "parent_id": null,
+  "title": "How Low Can You Go?",
+  "section_path": [
+    "How Low Can You Go?"
+  ],
+  "section_path_text": "How Low Can You Go?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "September marks the end of a particularly brutal summer. Assessed earnings on the Arabian Gulf to Far East benchmark trade averaged less than $5,700 per day from July through September. As we stand at the threshold of the historically lucrative fourth quarter, the market is holding its collective breath for an uptick in rates.",
+  "keywords": [
+    "vlcc",
+    "aframax",
+    "brazil",
+    "meg",
+    "crude_oil",
+    "day",
+    "time",
+    "owners",
+    "are",
+    "earnings",
+    "charter",
+    "per"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1141,
+  "source_path": "reports/poten/2011/poten_2011-09-30_how-low-can-you-go.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_09_30_how_low_can_you_go__s01_how_low_can_you_go",
+      "doc_id": "poten_tankers_no_date_poten_2011_09_30_how_low_can_you_go",
+      "parent_id": "poten_tankers_no_date_poten_2011_09_30_how_low_can_you_go__root",
+      "title": "How Low Can You Go?",
+      "section_path": [
+        "How Low Can You Go?"
+      ],
+      "section_path_text": "How Low Can You Go?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "September marks the end of a particularly brutal summer. Assessed earnings on the Arabian Gulf to Far East benchmark trade averaged less than $5,700 per day from July through September.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "earnings",
+        "are",
+        "far",
+        "arabian",
+        "averaged",
+        "benchmark"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 187,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_09_30_how_low_can_you_go__s02_maximum",
+      "doc_id": "poten_tankers_no_date_poten_2011_09_30_how_low_can_you_go",
+      "parent_id": "poten_tankers_no_date_poten_2011_09_30_how_low_can_you_go__root",
+      "title": "Maximum",
+      "section_path": [
+        "Maximum"
+      ],
+      "section_path_text": "Maximum",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "average",
+        "minimum"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_09_30_how_low_can_you_go__s03_weeks_below_opex",
+      "doc_id": "poten_tankers_no_date_poten_2011_09_30_how_low_can_you_go",
+      "parent_id": "poten_tankers_no_date_poten_2011_09_30_how_low_can_you_go__root",
+      "title": "Weeks below Opex",
+      "section_path": [
+        "Weeks below Opex"
+      ],
+      "section_path_text": "Weeks below Opex",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "In most rational markets, vessel operating expense will serve as a floor for rate levels. Operating expenses include day‐to‐day costs of running a ship such as crewing and supplies, and are assessed between $10,000 and $12,000 per day for a modern VLCC.",
+      "keywords": [
+        "vlcc",
+        "brazil",
+        "meg",
+        "day",
+        "earnings",
+        "operating",
+        "per",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 194,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_09_30_how_low_can_you_go__s04_buying_time",
+      "doc_id": "poten_tankers_no_date_poten_2011_09_30_how_low_can_you_go",
+      "parent_id": "poten_tankers_no_date_poten_2011_09_30_how_low_can_you_go__root",
+      "title": "Buying Time",
+      "section_path": [
+        "Buying Time"
+      ],
+      "section_path_text": "Buying Time",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "While operating expense may reflect a short‐term floor, the more important number over the long term is the vessel breakeven cost. This yardstick reflects the rate required for owners to recover both the day‐to‐day operating expense as well as the original cost of their investment.",
+      "keywords": [
+        "owners",
+        "can",
+        "day",
+        "expense",
+        "operating",
+        "term",
+        "ability",
+        "average"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 130,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_09_30_how_low_can_you_go__s05_chart_vlcc_earnings_spot_vs_time_charter",
+      "doc_id": "poten_tankers_no_date_poten_2011_09_30_how_low_can_you_go",
+      "parent_id": "poten_tankers_no_date_poten_2011_09_30_how_low_can_you_go__root",
+      "title": "Chart: VLCC Earnings ‐ Spot vs. Time Charter",
+      "section_path": [
+        "Chart: VLCC Earnings ‐ Spot vs. Time Charter"
+      ],
+      "section_path_text": "Chart: VLCC Earnings ‐ Spot vs. Time Charter",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "2005‐2008 Average 2008 2009 Jan‐11 Current In a \"normal\" market, rates lessen as the term of the charter increases, becoming more reflective of vessel breakeven. However, this trend reverses in a weak market.",
+      "keywords": [
+        "vlcc",
+        "time",
+        "charter",
+        "are",
+        "assessed",
+        "current",
+        "day",
+        "many"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 165,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_09_30_how_low_can_you_go__s06_tricks_of_the_trade",
+      "doc_id": "poten_tankers_no_date_poten_2011_09_30_how_low_can_you_go",
+      "parent_id": "poten_tankers_no_date_poten_2011_09_30_how_low_can_you_go__root",
+      "title": "Tricks of the Trade",
+      "section_path": [
+        "Tricks of the Trade"
+      ],
+      "section_path_text": "Tricks of the Trade",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Supply has been the driving factor behind weak rates. Expectations of continued fleet growth do no favors for the forward outlook, nor do rumors of additional newbuilding programs.",
+      "keywords": [
+        "vlcc",
+        "fleet",
+        "growth",
+        "additional",
+        "behind",
+        "chart",
+        "continued",
+        "driving"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 72,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_09_30_how_low_can_you_go__s07_vlcc_fleet",
+      "doc_id": "poten_tankers_no_date_poten_2011_09_30_how_low_can_you_go",
+      "parent_id": "poten_tankers_no_date_poten_2011_09_30_how_low_can_you_go__root",
+      "title": "VLCC Fleet",
+      "section_path": [
+        "VLCC Fleet"
+      ],
+      "section_path_text": "VLCC Fleet",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Global Oil Demand Simply put, there are too many ships, and rationalization of supply is the only thing likely to breathe any life back into the market. Slow steaming ships, ostensibly to improve fuel efficiency, helps absorb tonnage from a supply perspective, as does employment of tonnage in floating storage deals.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "ships",
+        "supply",
+        "tonnage",
+        "absorb",
+        "additional",
+        "any"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 104,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_09_30_how_low_can_you_go__s08_laying_it_out",
+      "doc_id": "poten_tankers_no_date_poten_2011_09_30_how_low_can_you_go",
+      "parent_id": "poten_tankers_no_date_poten_2011_09_30_how_low_can_you_go__root",
+      "title": "Laying it Out",
+      "section_path": [
+        "Laying it Out"
+      ],
+      "section_path_text": "Laying it Out",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "The past few weeks have seen increased utterance of the \"L\" word. A brand new Aframax tanker was reported as going straight from yard to layup, leading to increased speculation that more owners could choose to idle their tonnage in the coming months.",
+      "keywords": [
+        "aframax",
+        "layup",
+        "tonnage",
+        "choose",
+        "could",
+        "day",
+        "following",
+        "increased"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 240,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_04_27_trade_traffic__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_04_27_trade_traffic",
+  "parent_id": null,
+  "title": "Trade & Traffic",
+  "section_path": [
+    "Trade & Traffic"
+  ],
+  "section_path_text": "Trade & Traffic",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Trade & Traffic\nNew York City was the scene of an enlightening lunchtime discussion by the current United States Maritime Administrator, Sean Connaughton. The occasion was the quarterly Port of New York Kings Point Fort Schuyler Luncheon. Connaughton highlighted some of the key challenges that the Maritime Administration (MARAD) is facing, but also some of the opportunities that exist in the United States.",
+  "keywords": [
+    "container",
+    "are",
+    "united",
+    "new",
+    "states",
+    "require",
+    "would",
+    "york",
+    "amount",
+    "areas",
+    "barge",
+    "challenges"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 504,
+  "source_path": "reports/poten/2007/poten_2007-04-27_trade-traffic.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_04_27_trade_traffic__s01_trade_traffic",
+      "doc_id": "poten_tankers_no_date_poten_2007_04_27_trade_traffic",
+      "parent_id": "poten_tankers_no_date_poten_2007_04_27_trade_traffic__root",
+      "title": "Trade & Traffic",
+      "section_path": [
+        "Trade & Traffic"
+      ],
+      "section_path_text": "Trade & Traffic",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "New York City was the scene of an enlightening lunchtime discussion by the current United States Maritime Administrator, Sean Connaughton. The occasion was the quarterly Port of New York Kings Point Fort Schuyler Luncheon.",
+      "keywords": [
+        "united",
+        "are",
+        "facing",
+        "infrastructure",
+        "maritime",
+        "new",
+        "states",
+        "was"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 137,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_04_27_trade_traffic__s02_alternative_means",
+      "doc_id": "poten_tankers_no_date_poten_2007_04_27_trade_traffic",
+      "parent_id": "poten_tankers_no_date_poten_2007_04_27_trade_traffic__root",
+      "title": "Alternative Means",
+      "section_path": [
+        "Alternative Means"
+      ],
+      "section_path_text": "Alternative Means",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The areas in the United States that experience the most amount of freight traffic are those that are more densely populated. The I-95 highway corridor that runs between Washington D.C., New York and Boston sees more than 1.2 million hours of truck delays each year.",
+      "keywords": [
+        "container",
+        "require",
+        "would",
+        "are",
+        "areas",
+        "amount",
+        "barge",
+        "could"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 183,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_04_27_trade_traffic__s03_making_the_investment",
+      "doc_id": "poten_tankers_no_date_poten_2007_04_27_trade_traffic",
+      "parent_id": "poten_tankers_no_date_poten_2007_04_27_trade_traffic__root",
+      "title": "Making the Investment",
+      "section_path": [
+        "Making the Investment"
+      ],
+      "section_path_text": "Making the Investment",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Although the use of inland waterways is one way to alleviate road congestion, there are still challenges ahead for the large coastal ports that receive goods from overseas. Expanding the existing ports is a logical solution to reducing congestion and delays, but there are many obstacles preventing these expansions.",
+      "keywords": [
+        "are",
+        "challenges",
+        "congestion",
+        "goods",
+        "new",
+        "ports",
+        "administration",
+        "ahead"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 173,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

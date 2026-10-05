@@ -20,14 +20,14 @@
     "china",
     "usd",
     "values",
+    "asset",
     "mil",
-    "mil.",
-    "older"
+    "mil."
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 775,
-  "source_path": "corpus/02-hellenic/vessel_valuations/2026/2026-07-01_weekly-vessel-valuations-report-june-30-2026.html",
+  "token_count": 732,
+  "source_path": "reports/hellenic/vessel_valuations/2026/2026-07-01_weekly-vessel-valuations-report-june-30-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-june-30-2026",
   "children": [
     {
@@ -54,22 +54,22 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 414,
+      "token_count": 379,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_vessel_valuations_2026-07-01_2026_07_01_weekly_vessel_valuations_report_june_30_2026__s02_linked_asset_2026_07_01_weekly_vessel_valuations_report_june_30_2026_img1_172025_3f9e0e3e8858_jpg",
+      "node_id": "hellenic_vessel_valuations_2026-07-01_2026_07_01_weekly_vessel_valuations_report_june_30_2026__s02_linked_asset_2026_07_01_weekly_vessel_valuations_report_june_30_2026_172025_3f9e0e3e8858_jpg",
       "doc_id": "hellenic_vessel_valuations_2026-07-01_2026_07_01_weekly_vessel_valuations_report_june_30_2026",
       "parent_id": "hellenic_vessel_valuations_2026-07-01_2026_07_01_weekly_vessel_valuations_report_june_30_2026__root",
-      "title": "Linked asset: 2026-07-01_weekly-vessel-valuations-report-june-30-2026_img1_172025_3f9e0e3e8858.jpg",
+      "title": "Linked asset: 2026-07-01_weekly-vessel-valuations-report-june-30-2026_172025_3f9e0e3e8858.jpg",
       "section_path": [
-        "Linked asset: 2026-07-01_weekly-vessel-valuations-report-june-30-2026_img1_172025_3f9e0e3e8858.jpg"
+        "Linked asset: 2026-07-01_weekly-vessel-valuations-report-june-30-2026_172025_3f9e0e3e8858.jpg"
       ],
-      "section_path_text": "Linked asset: 2026-07-01_weekly-vessel-valuations-report-june-30-2026_img1_172025_3f9e0e3e8858.jpg",
+      "section_path_text": "Linked asset: 2026-07-01_weekly-vessel-valuations-report-june-30-2026_172025_3f9e0e3e8858.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2026/assets/2026-07-01_weekly-vessel-valuations-report-june-30-2026_img1_172025_3f9e0e3e8858.jpg\n\nLinked image asset: 2026-07-01_weekly-vessel-valuations-report-june-30-2026_img1_172025_3f9e0e3e8858.jpg\n\nImage metadata: JPEG 600x279 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\n(D) VeesselsVal Ue\n30 June 2026 VV Mini Matrix - Weekly Change\nTakers maner Container\nwer we see a\nre a a es Ce Td\n: Ae Cd us ™ = i ~ oo \" bal an us ad\na ae ac ae as am may ws\n, a i / = = ~ ™ - \" ~~ an uo ie\nCc ae ac a Cn a Cd\n\" a - ca ™ Ll - ~ - \" - a um ie\na ae a TS a a Cc ee ar\ned ve To] / \" = - ~ - am - ae ed ad\nSea a a Pe ae Ts wm aes\n* ue \" i a - = a Bad ae wm rd\nPr a Pa a Td mae Naas\n* - 19% - = a us = 7 Lt ee oad us ie",
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-07-01_weekly-vessel-valuations-report-june-30-2026_172025_3f9e0e3e8858.jpg\n\nLinked image asset: 2026-07-01_weekly-vessel-valuations-report-june-30-2026_172025_3f9e0e3e8858.jpg\n\nImage metadata: JPEG 600x279 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\n(D) VeesselsVal Ue\n30 June 2026 VV Mini Matrix - Weekly Change\nTakers maner Container\nwer we see a\nre a a es Ce Td\n: Ae Cd us ™ = i ~ oo \" bal an us ad\na ae ac ae as am may ws\n, a i / = = ~ ™ - \" ~~ an uo ie\nCc ae ac a Cn a Cd\n\" a - ca ™ Ll - ~ - \" - a um ie\na ae a TS a a Cc ee ar\ned ve To] / \" = - ~ - am - ae ed ad\nSea a a Pe ae Ts wm aes\n* ue \" i a - = a Bad ae wm rd\nPr a Pa a Td mae Naas\n* - 19% - = a us = 7 Lt ee oad us ie",
       "keywords": [
         "container",
         "asset",
@@ -78,11 +78,11 @@
         "bad",
         "bal",
         "change",
-        "corpus/02-hellenic/vessel_valuations/2026/assets/2026-07-01_weekly-vessel-valuations-report-june-30-2026_img1_172025_3f9e0e3e8858.jpg"
+        "dpi"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 316,
+      "token_count": 310,
       "section_type": "linked_image_asset",
       "children": []
     }

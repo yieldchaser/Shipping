@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2025_05_09_opec_adds_fuel_to_the_fire__root",
+  "doc_id": "poten_tankers_no_date_poten_2025_05_09_opec_adds_fuel_to_the_fire",
+  "parent_id": null,
+  "title": "OPEC Adds Fuel To The Fire",
+  "section_path": [
+    "OPEC Adds Fuel To The Fire"
+  ],
+  "section_path_text": "OPEC Adds Fuel To The Fire",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Another production increase suggests a change in strategy\nAbout one month ago, we wrote our tanker opinion about the surprise decision of OPEC+ to increase production well above the monthly increase previously indicated (\" OPEC Springs A Surprise \" ). On April 3, the eight OPEC+ countries that committed to voluntary production adjustments in 2023, decided to bring back 411,000 b/d in May, three times the April 2025 increase of 137,000 b/d. Most analysts expected this to be a one-off production boost.",
+  "keywords": [
+    "vlcc",
+    "crude_oil",
+    "opec",
+    "production",
+    "opec-8",
+    "increase",
+    "are",
+    "group",
+    "increases",
+    "countries",
+    "exports",
+    "oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 896,
+  "source_path": "reports/poten/2025/poten_2025-05-09_opec-adds-fuel-to-the-fire.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2025_05_09_opec_adds_fuel_to_the_fire__s01_another_production_increase_suggests_a_change_in_strategy",
+      "doc_id": "poten_tankers_no_date_poten_2025_05_09_opec_adds_fuel_to_the_fire",
+      "parent_id": "poten_tankers_no_date_poten_2025_05_09_opec_adds_fuel_to_the_fire__root",
+      "title": "Another production increase suggests a change in strategy",
+      "section_path": [
+        "Another production increase suggests a change in strategy"
+      ],
+      "section_path_text": "Another production increase suggests a change in strategy",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "About one month ago, we wrote our tanker opinion about the surprise decision of OPEC+ to increase production well above the monthly increase previously indicated (\" OPEC Springs A Surprise \" ). On April 3, the eight OPEC+ countries that committed to voluntary production adjustments in 2023, decided to bring back 411,000 b/d in May, three times the April 2025 increase of 137,000 b/d.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "opec",
+        "production",
+        "opec-8",
+        "are",
+        "group",
+        "increase"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 887,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2004_12_30_exactly_what_is_in_store_for_us__root",
+  "doc_id": "poten_tankers_no_date_poten_2004_12_30_exactly_what_is_in_store_for_us",
+  "parent_id": null,
+  "title": "Exactly What Is In Store for Us?",
+  "section_path": [
+    "Exactly What Is In Store for Us?"
+  ],
+  "section_path_text": "Exactly What Is In Store for Us?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Exactly What Is In Store for Us? It is no secret that China is driving several commodity markets, not just oil. Focusing on oil, 2004 can only be described as a banner year, but how long can this last?",
+  "keywords": [
+    "vlcc",
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "crude_oil",
+    "fixtures",
+    "bpd",
+    "average",
+    "but",
+    "east"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 770,
+  "source_path": "reports/poten/2004/poten_2004-12-30_exactly-what-is-in-store-for-us.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_12_30_exactly_what_is_in_store_for_us__s01_exactly_what_is_in_store_for_us",
+      "doc_id": "poten_tankers_no_date_poten_2004_12_30_exactly_what_is_in_store_for_us",
+      "parent_id": "poten_tankers_no_date_poten_2004_12_30_exactly_what_is_in_store_for_us__root",
+      "title": "Exactly What Is In Store for Us?",
+      "section_path": [
+        "Exactly What Is In Store for Us?"
+      ],
+      "section_path_text": "Exactly What Is In Store for Us?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "It is no secret that China is driving several commodity markets, not just oil. Focusing on oil, 2004 can only be described as a banner year, but how long can this last?",
+      "keywords": [
+        "vlcc",
+        "china",
+        "crude_oil",
+        "but",
+        "can",
+        "floor",
+        "oil",
+        "prices"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 130,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_12_30_exactly_what_is_in_store_for_us__s02_chart_ag_spot_fiixtures_vs_vlcc_rates_ag_east",
+      "doc_id": "poten_tankers_no_date_poten_2004_12_30_exactly_what_is_in_store_for_us",
+      "parent_id": "poten_tankers_no_date_poten_2004_12_30_exactly_what_is_in_store_for_us__root",
+      "title": "Chart: # AG Spot Fiixtures vs VLCC Rates AG/East",
+      "section_path": [
+        "Chart: # AG Spot Fiixtures vs VLCC Rates AG/East"
+      ],
+      "section_path_text": "Chart: # AG Spot Fiixtures vs VLCC Rates AG/East",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "There is a strong degree of correlation between total AG fixtures and average VLCC rates AG/East of 94%. If this relationship still holds for next year, always something to keep in mind, a change of 100 fixtures over the course of the year will affect the annual average WS rate by 25 points.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "japan",
+        "change",
+        "east",
+        "far",
+        "fixtures",
+        "activity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 132,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_12_30_exactly_what_is_in_store_for_us__s03_far_east",
+      "doc_id": "poten_tankers_no_date_poten_2004_12_30_exactly_what_is_in_store_for_us",
+      "parent_id": "poten_tankers_no_date_poten_2004_12_30_exactly_what_is_in_store_for_us__root",
+      "title": "Far East",
+      "section_path": [
+        "Far East"
+      ],
+      "section_path_text": "Far East",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "China India The United States, including both coasts and eastern Canada, exhibited growth in fixture activity. This long haul trade has a strong impact on rates and reflects IEA estimates of 0.5 million bpd gain in North American consumption between 2003 and 2004.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "crude_oil",
+        "bpd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 481,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nIn tankers this week, FureBear (Furetank and Algoma joint venture) announced ordering two firm 18k dwt Chemical tankers at CMJL Yangzhou\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-08-19_clarksons-platou-hellas-snp-weekly-bulletin-32_report-19-08-2022_39780c6a147f.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-08-19_clarksons-platou-hellas-snp-weekly-bulletin-32_report-19-08-2022_39780c6a147f.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 19 August 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMITSUBISHI 6UEC52LA SS 12/22\nDEM FIVE 31,842 2002 HAKODATE 4 x 30 T DD 12/22 RGN USD 11 M U/D\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\nZEYNEP 158,060\nMAN B.&W. 6G70ME-C9.5 SS 08/25\n2020 HHI BWTS & Scrubber fitted DD 08/23 USD 222.5 M\nAYSE C 158,060\n(En Bloc deal NORWEGIANS\nSS 03/25 including six-year (c/o SFL Corp)\nISTANBUL 159,500 time charters to\n2015 BOHAI MAN B. 6S70ME-C8.2 DD 05/23 Koch Industries)\nBWTS & Scrubber fitted SS 01/25\nATINA 159,500\nDD 04/23\nMAN B.",
+  "summary": "Main\nIn tankers this week, FureBear (Furetank and Algoma joint venture) announced ordering two firm 18k dwt Chemical tankers at CMJL Yangzhou\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-08-19_clarksons-platou-hellas-snp-weekly-bulletin-32_report-19-08-2022_39780c6a147f.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2022-08-19_clarksons-platou-hellas-snp-weekly-bulletin-32_report-19-08-2022_39780c6a147f.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin19 August 2022\n\n# Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n||||MITSUBISHI 6UEC52LA|SS 12/22|||\n|DEM FIVE|31,842|2002 HAKODATE|4 x 30 T|DD 12/22|RGN USD 11 M|U/D|\n\n# Tankers - Chemicals - LPG/LNGs\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n|ZEYNEP|158,060|2020 HHI ISTANBUL|MAN B. 6G70ME -C9.5 BWTS & Scrubber fitted 159,500|SS 08/25 DD 08/23 2015 BOHAI ATINA|USD 222.5 M (En Bloc deal including six-year time charters to Koch Industries) AYSE C MAN B. 6S70ME-C8.2 BWTS & Scrubber fitted 159,500|NORWEGIANS (c/o SFL Corp) 158,060 SS 03/25 DD 05/23 SS 01/25 DD 04/23|\n|RIDGEBURY SATURN|49,999|2007 HMD|MAN B.",
   "keywords": [
     "capesize",
     "lng",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1925,
-  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-08-19_clarksons-platou-hellas-snp-weekly-bulletin-32.html",
+  "token_count": 2025,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-08-19_clarksons-platou-hellas-snp-weekly-bulletin-32.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-32",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-08-19_clarksons-platou-hellas-snp-weekly-bulletin-32_report-19-08-2022_39780c6a147f.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-08-19_clarksons-platou-hellas-snp-weekly-bulletin-32_report-19-08-2022_39780c6a147f.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 19 August 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMITSUBISHI 6UEC52LA SS 12/22\nDEM FIVE 31,842 2002 HAKODATE 4 x 30 T DD 12/22 RGN USD 11 M U/D\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\nZEYNEP 158,060\nMAN B.&W. 6G70ME-C9.5 SS 08/25\n2020 HHI BWTS & Scrubber fitted DD 08/23 USD 222.5 M\nAYSE C 158,060\n(En Bloc deal NORWEGIANS\nSS 03/25 including six-year (c/o SFL Corp)\nISTANBUL 159,500 time charters to\n2015 BOHAI MAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-08-19_clarksons-platou-hellas-snp-weekly-bulletin-32_report-19-08-2022_39780c6a147f.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin19 August 2022\n\n# Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n||||MITSUBISHI 6UEC52LA|SS 12/22|||\n|DEM FIVE|31,842|2002 HAKODATE|4 x 30 T|DD 12/22|RGN USD 11 M|U/D|\n\n# Tankers - Chemicals - LPG/LNGs\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n|ZEYNEP|158,060|2020 HHI ISTANBUL|MAN B. 6G70ME -C9.5 BWTS & Scrubber fitted 159,500|SS 08/25 DD 08/23 2015 BOHAI ATINA|USD 222.5 M (En Bloc deal including six-year time charters to Koch Industries) AYSE C MAN B.",
       "keywords": [
         "capesize",
         "lng",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1829,
+      "token_count": 1929,
       "section_type": "linked_pdf",
       "children": []
     }

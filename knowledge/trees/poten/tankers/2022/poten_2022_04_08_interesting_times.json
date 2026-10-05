@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2022_04_08_interesting_times__root",
+  "doc_id": "poten_tankers_no_date_poten_2022_04_08_interesting_times",
+  "parent_id": null,
+  "title": "Interesting Times",
+  "section_path": [
+    "Interesting Times"
+  ],
+  "section_path_text": "Interesting Times",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Living in \"Interesting Times\"\nThe English expression \"May you live in interesting times\", is claimed to be a translation of a Chinese curse, where \"interesting times\" are usually times of trouble. The tanker industry is indeed living in interesting times. It suffered from a high level of adversity and uncertainty with several supply and demand shocks in the oil markets in recent years and it does not appear that the situation will settle down any time soon.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "crude_oil",
+    "oil",
+    "are",
+    "was",
+    "demand",
+    "new",
+    "tankers",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 883,
+  "source_path": "reports/poten/2022/poten_2022-04-08_interesting-times.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_04_08_interesting_times__s01_living_in_interesting_times",
+      "doc_id": "poten_tankers_no_date_poten_2022_04_08_interesting_times",
+      "parent_id": "poten_tankers_no_date_poten_2022_04_08_interesting_times__root",
+      "title": "Living in \"Interesting Times\"",
+      "section_path": [
+        "Living in \"Interesting Times\""
+      ],
+      "section_path_text": "Living in \"Interesting Times\"",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The English expression \"May you live in interesting times\", is claimed to be a translation of a Chinese curse, where \"interesting times\" are usually times of trouble. The tanker industry is indeed living in interesting times.",
+      "keywords": [
+        "aframax",
+        "china",
+        "crude_oil",
+        "oil",
+        "are",
+        "was",
+        "crude",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 565,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_04_08_interesting_times__s02_week",
+      "doc_id": "poten_tankers_no_date_poten_2022_04_08_interesting_times",
+      "parent_id": "poten_tankers_no_date_poten_2022_04_08_interesting_times__root",
+      "title": "Week",
+      "section_path": [
+        "Week"
+      ],
+      "section_path_text": "Week",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "and Suezmax tankers, which were most directly affected. However, product tankers have also moved up significantly and more recently, even VLCC-rates, which were lagging the market, have started to rise.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "crude_oil",
+        "new",
+        "address",
+        "are",
+        "could"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 309,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

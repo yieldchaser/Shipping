@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2022_05_20_no_easy_way_out__root",
+  "doc_id": "poten_tankers_no_date_poten_2022_05_20_no_easy_way_out",
+  "parent_id": null,
+  "title": "No Easy Way Out",
+  "section_path": [
+    "No Easy Way Out"
+  ],
+  "section_path_text": "No Easy Way Out",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "OPEC is facing challenges balancing the market\nOil supply and prices have been front and center since the Russian invasion of Ukraine, even though Brent prices were already approaching $100/barrel, their highest level since the summer of 2014, prior to hostilities breaking out. The oil markets were already tightening as rapidly recovering oil demand was facing a slow return of production. This, in combination with ever tightening sanctions against Russia, which is a major crude oil producer and exporter, has made it into a full-blown crisis.",
+  "keywords": [
+    "crude_oil",
+    "products",
+    "gas",
+    "opec",
+    "production",
+    "b/d",
+    "oil",
+    "are",
+    "mb/d",
+    "but",
+    "middle",
+    "saudi"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 962,
+  "source_path": "reports/poten/2022/poten_2022-05-20_no-easy-way-out.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_05_20_no_easy_way_out__s01_opec_is_facing_challenges_balancing_the_market",
+      "doc_id": "poten_tankers_no_date_poten_2022_05_20_no_easy_way_out",
+      "parent_id": "poten_tankers_no_date_poten_2022_05_20_no_easy_way_out__root",
+      "title": "OPEC is facing challenges balancing the market",
+      "section_path": [
+        "OPEC is facing challenges balancing the market"
+      ],
+      "section_path_text": "OPEC is facing challenges balancing the market",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Oil supply and prices have been front and center since the Russian invasion of Ukraine, even though Brent prices were already approaching $100/barrel, their highest level since the summer of 2014, prior to hostilities breaking out. The oil markets were already tightening as rapidly recovering oil demand was facing a slow return of production.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "opec",
+        "production",
+        "b/d",
+        "oil",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 953,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

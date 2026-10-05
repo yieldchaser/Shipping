@@ -1,0 +1,222 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2014_08_08_dig_dig_dig_se_ora__root",
+  "doc_id": "poten_tankers_no_date_poten_2014_08_08_dig_dig_dig_se_ora",
+  "parent_id": null,
+  "title": "Dig, Dig, Dig Señora",
+  "section_path": [
+    "Dig, Dig, Dig Señora"
+  ],
+  "section_path_text": "Dig, Dig, Dig Señora",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "1 Proposed Canal Route\nJump in the line, build a canal on time While infrastructure projects, especially canals, bear a certain element of inherent skepticism, their impact on global trade flows should not be taken lightly. Although the Panama Canal's expansion will likely have a more muted effect on the tanker market than other shipping sectors, cost overruns and work stoppage has evoked a ho-hum prognosis for the project in general. While endeavoring not to pile on to initial project hype, the recent announcements about the construction of a second Caribbean to Pacific canal, in Nicaragua, should prick some ears.",
+  "keywords": [
+    "vlcc",
+    "container",
+    "atlantic",
+    "pacific",
+    "us_gulf",
+    "crude_oil",
+    "canal",
+    "panama",
+    "tankers",
+    "nicaraguan",
+    "not",
+    "cargo"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 905,
+  "source_path": "reports/poten/2014/poten_2014-08-08_dig-dig-dig-señora.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_08_08_dig_dig_dig_se_ora__s01_fig_1_proposed_canal_route",
+      "doc_id": "poten_tankers_no_date_poten_2014_08_08_dig_dig_dig_se_ora",
+      "parent_id": "poten_tankers_no_date_poten_2014_08_08_dig_dig_dig_se_ora__root",
+      "title": "Fig. 1 Proposed Canal Route",
+      "section_path": [
+        "Fig. 1 Proposed Canal Route"
+      ],
+      "section_path_text": "Fig. 1 Proposed Canal Route",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Jump in the line, build a canal on time While infrastructure projects, especially canals, bear a certain element of inherent skepticism, their impact on global trade flows should not be taken lightly. Although the Panama Canal's expansion will likely have a more muted effect on the tanker market than other shipping sectors, cost overruns and work stoppage has evoked a ho-hum prognosis for the project in general.",
+      "keywords": [
+        "vlcc",
+        "container",
+        "atlantic",
+        "pacific",
+        "us_gulf",
+        "crude_oil",
+        "canal",
+        "panama"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 702,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_08_08_dig_dig_dig_se_ora__s02_vessel_type",
+      "doc_id": "poten_tankers_no_date_poten_2014_08_08_dig_dig_dig_se_ora",
+      "parent_id": "poten_tankers_no_date_poten_2014_08_08_dig_dig_dig_se_ora__root",
+      "title": "Vessel Type",
+      "section_path": [
+        "Vessel Type"
+      ],
+      "section_path_text": "Vessel Type",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Number of Transits Tolls (thousands) Long Tons of Cargo (thousands)",
+      "keywords": [
+        "thousands",
+        "cargo",
+        "long",
+        "number",
+        "tolls",
+        "tons",
+        "transits"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 19,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_08_08_dig_dig_dig_se_ora__s03_container",
+      "doc_id": "poten_tankers_no_date_poten_2014_08_08_dig_dig_dig_se_ora",
+      "parent_id": "poten_tankers_no_date_poten_2014_08_08_dig_dig_dig_se_ora__root",
+      "title": "Container",
+      "section_path": [
+        "Container"
+      ],
+      "section_path_text": "Container",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "3,103 3,331 951,392 960,083 47,144 50,755",
+      "keywords": [],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 23,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_08_08_dig_dig_dig_se_ora__s04_dry_bulk",
+      "doc_id": "poten_tankers_no_date_poten_2014_08_08_dig_dig_dig_se_ora",
+      "parent_id": "poten_tankers_no_date_poten_2014_08_08_dig_dig_dig_se_ora__root",
+      "title": "Dry Bulk",
+      "section_path": [
+        "Dry Bulk"
+      ],
+      "section_path_text": "Dry Bulk",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "2,903 3,339 321,012 337,690 93,664 98,620",
+      "keywords": [],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 23,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_08_08_dig_dig_dig_se_ora__s05_tankers",
+      "doc_id": "poten_tankers_no_date_poten_2014_08_08_dig_dig_dig_se_ora",
+      "parent_id": "poten_tankers_no_date_poten_2014_08_08_dig_dig_dig_se_ora__root",
+      "title": "Tankers",
+      "section_path": [
+        "Tankers"
+      ],
+      "section_path_text": "Tankers",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "2,468 2,475 233,033 212,195 49,604 47,979",
+      "keywords": [],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 23,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_08_08_dig_dig_dig_se_ora__s06_vehicle_carriers",
+      "doc_id": "poten_tankers_no_date_poten_2014_08_08_dig_dig_dig_se_ora",
+      "parent_id": "poten_tankers_no_date_poten_2014_08_08_dig_dig_dig_se_ora__root",
+      "title": "Vehicle Carriers",
+      "section_path": [
+        "Vehicle Carriers"
+      ],
+      "section_path_text": "Vehicle Carriers",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "666 669 156,433 153,861 3,463 3,501",
+      "keywords": [],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 19,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_08_08_dig_dig_dig_se_ora__s07_refrigerated",
+      "doc_id": "poten_tankers_no_date_poten_2014_08_08_dig_dig_dig_se_ora",
+      "parent_id": "poten_tankers_no_date_poten_2014_08_08_dig_dig_dig_se_ora__root",
+      "title": "Refrigerated",
+      "section_path": [
+        "Refrigerated"
+      ],
+      "section_path_text": "Refrigerated",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "1,110 1,116 51,355 50,535 3,796 3,543",
+      "keywords": [],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 23,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_08_08_dig_dig_dig_se_ora__s08_general_cargo",
+      "doc_id": "poten_tankers_no_date_poten_2014_08_08_dig_dig_dig_se_ora",
+      "parent_id": "poten_tankers_no_date_poten_2014_08_08_dig_dig_dig_se_ora__root",
+      "title": "General Cargo",
+      "section_path": [
+        "General Cargo"
+      ],
+      "section_path_text": "General Cargo",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "899 917 45,046 42,659 6,733 6,494",
+      "keywords": [],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 19,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_08_08_dig_dig_dig_se_ora__s09_passengers",
+      "doc_id": "poten_tankers_no_date_poten_2014_08_08_dig_dig_dig_se_ora",
+      "parent_id": "poten_tankers_no_date_poten_2014_08_08_dig_dig_dig_se_ora__root",
+      "title": "Passengers",
+      "section_path": [
+        "Passengers"
+      ],
+      "section_path_text": "Passengers",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "205 211 39,424 39,785 - -",
+      "keywords": [],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

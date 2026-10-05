@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_03_14_burgeoning_bunkers__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_03_14_burgeoning_bunkers",
+  "parent_id": null,
+  "title": "Burgeoning Bunkers",
+  "section_path": [
+    "Burgeoning Bunkers"
+  ],
+  "section_path_text": "Burgeoning Bunkers",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Burgeoning Bunkers\nThe growing industry awareness of air quality and emissions in the world's ports could be a catalyst for major change in the bunker market. In the next few weeks the International Maritime Organization (IMO) is expected to meet and try to reach some agreement on both the specification of marine fuels and standards to be imposed. This issue has been hotly contested among shipowners and refiners as these parties can expect to bear the brunt of any increased costs that may result from higher spec fuels.",
+  "keywords": [
+    "europe",
+    "singapore",
+    "crude_oil",
+    "products",
+    "bunker",
+    "are",
+    "fuels",
+    "prices",
+    "higher",
+    "refiners",
+    "sulfur",
+    "can"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 669,
+  "source_path": "reports/poten/2008/poten_2008-03-14_burgeoning-bunkers.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_03_14_burgeoning_bunkers__s01_burgeoning_bunkers",
+      "doc_id": "poten_tankers_no_date_poten_2008_03_14_burgeoning_bunkers",
+      "parent_id": "poten_tankers_no_date_poten_2008_03_14_burgeoning_bunkers__root",
+      "title": "Burgeoning Bunkers",
+      "section_path": [
+        "Burgeoning Bunkers"
+      ],
+      "section_path_text": "Burgeoning Bunkers",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The growing industry awareness of air quality and emissions in the world's ports could be a catalyst for major change in the bunker market. In the next few weeks the International Maritime Organization (IMO) is expected to meet and try to reach some agreement on both the specification of marine fuels and standards to be imposed.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "bunker",
+        "fuels",
+        "higher",
+        "marine",
+        "mdo",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 179,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_03_14_burgeoning_bunkers__s02_speculating_on_specs",
+      "doc_id": "poten_tankers_no_date_poten_2008_03_14_burgeoning_bunkers",
+      "parent_id": "poten_tankers_no_date_poten_2008_03_14_burgeoning_bunkers__root",
+      "title": "Speculating on Specs",
+      "section_path": [
+        "Speculating on Specs"
+      ],
+      "section_path_text": "Speculating on Specs",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Currently, there are just a few areas that have taken aggressive steps toward limiting emissions. The Sulfur Emission Control Area (SECA) in the Baltic and Northwest Europe are setting an example for other environmentally sensitive, highly trafficked ports.",
+      "keywords": [
+        "europe",
+        "are",
+        "proposals",
+        "sulfur",
+        "aggressive",
+        "burn",
+        "can",
+        "fuels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 185,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_03_14_burgeoning_bunkers__s03_enough_to_go_around",
+      "doc_id": "poten_tankers_no_date_poten_2008_03_14_burgeoning_bunkers",
+      "parent_id": "poten_tankers_no_date_poten_2008_03_14_burgeoning_bunkers__root",
+      "title": "Enough to Go Around",
+      "section_path": [
+        "Enough to Go Around"
+      ],
+      "section_path_text": "Enough to Go Around",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "As part of the debate on policy, there are a number of practical considerations that must be taken into account. The bunker market is growing quite rapidly worldwide.",
+      "keywords": [
+        "singapore",
+        "bunker",
+        "sales",
+        "account.",
+        "amount",
+        "annual",
+        "are",
+        "below"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 65,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_03_14_burgeoning_bunkers__s04_thousand_metric_tons",
+      "doc_id": "poten_tankers_no_date_poten_2008_03_14_burgeoning_bunkers",
+      "parent_id": "poten_tankers_no_date_poten_2008_03_14_burgeoning_bunkers__root",
+      "title": "Thousand Metric Tons",
+      "section_path": [
+        "Thousand Metric Tons"
+      ],
+      "section_path_text": "Thousand Metric Tons",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "With the expected growth of seaborne trade worldwide, an expanding market for bunkers is expected. While in general this demand is expected to grow, the availability of suitable supply could be a mounting concern.",
+      "keywords": [
+        "bunker",
+        "distillate",
+        "prices",
+        "could",
+        "demand",
+        "expected",
+        "fuels",
+        "hard"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 217,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2009_12_18_can_this_ever_work__root",
+  "doc_id": "poten_tankers_no_date_poten_2009_12_18_can_this_ever_work",
+  "parent_id": null,
+  "title": "Can This Ever Work ?",
+  "section_path": [
+    "Can This Ever Work ?"
+  ],
+  "section_path_text": "Can This Ever Work ?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "In a press release for its Annual Energy Outlook, the Energy Information Administration (EIA) candidly acknowledges that the United States is unlikely to meet long‐term biofuels blending targets. Significant doubts also remain as to whether or not the United States will even be able to produce the level of biofuels mandated for blending next year. Moreover, the Environmental Protection Agency (EPA) is taking extra time to consider raising the allowable ethanol gasoline blending percentage from the current limit of 10 to 15 percent.",
+  "keywords": [
+    "coal",
+    "grain",
+    "products",
+    "gas",
+    "biofuels",
+    "ethanol",
+    "water",
+    "blending",
+    "epa",
+    "fuel",
+    "gasoline",
+    "waiver"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1434,
+  "source_path": "reports/poten/2009/poten_2009-12-18_can-this-ever-work.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_12_18_can_this_ever_work__s01_can_this_ever_work",
+      "doc_id": "poten_tankers_no_date_poten_2009_12_18_can_this_ever_work",
+      "parent_id": "poten_tankers_no_date_poten_2009_12_18_can_this_ever_work__root",
+      "title": "Can This Ever Work ?",
+      "section_path": [
+        "Can This Ever Work ?"
+      ],
+      "section_path_text": "Can This Ever Work ?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In a press release for its Annual Energy Outlook, the Energy Information Administration (EIA) candidly acknowledges that the United States is unlikely to meet long‐term biofuels blending targets. Significant doubts also remain as to whether or not the United States will even be able to produce the level of biofuels mandated for blending next year.",
+      "keywords": [
+        "products",
+        "gas",
+        "biofuels",
+        "blending",
+        "energy",
+        "fuel",
+        "act",
+        "billion"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 273,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_12_18_can_this_ever_work__s02_corn_ethanol",
+      "doc_id": "poten_tankers_no_date_poten_2009_12_18_can_this_ever_work",
+      "parent_id": "poten_tankers_no_date_poten_2009_12_18_can_this_ever_work__root",
+      "title": "Corn Ethanol",
+      "section_path": [
+        "Corn Ethanol"
+      ],
+      "section_path_text": "Corn Ethanol",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "This past March, an application for a waiver to raise the maximum allowable ethanol content in gasoline from 10 to 15 percent was submitted by a coalition of ethanol producers. The coalition's proposal was an effort to help their struggling industry, which is threatened by dropping gasoline demand and the auto parc's move towards more efficient vehicles.",
+      "keywords": [
+        "coal",
+        "products",
+        "gas",
+        "waiver",
+        "epa",
+        "ethanol",
+        "blends",
+        "engines"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 367,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_12_18_can_this_ever_work__s03_great_expectations",
+      "doc_id": "poten_tankers_no_date_poten_2009_12_18_can_this_ever_work",
+      "parent_id": "poten_tankers_no_date_poten_2009_12_18_can_this_ever_work__root",
+      "title": "Great Expectations",
+      "section_path": [
+        "Great Expectations"
+      ],
+      "section_path_text": "Great Expectations",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "One of the reasons the EIA expects the US to fall short of the goals set forth in the original RFS is that they were formulated on assumptions of continued technological progress in the development of non‐grain, \"second generation\" cellulosic biofuels. Cellulosic biofuels are those derived from renewable biomass feedstocks such as fast growing grasses, cereal straw and forest residues among others.",
+      "keywords": [
+        "grain",
+        "biofuels",
+        "biofuels.",
+        "cellulosic",
+        "advanced",
+        "development",
+        "gallons",
+        "generation"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 197,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_12_18_can_this_ever_work__s04_no_water_left_behind",
+      "doc_id": "poten_tankers_no_date_poten_2009_12_18_can_this_ever_work",
+      "parent_id": "poten_tankers_no_date_poten_2009_12_18_can_this_ever_work__root",
+      "title": "No Water Left Behind",
+      "section_path": [
+        "No Water Left Behind"
+      ],
+      "section_path_text": "No Water Left Behind",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "During his campaign, President Obama called for higher volumes of advanced biofuels partially to ensure the overall sustainability of the biofuels program. Now it appears that the program is coming under greater scrutiny.",
+      "keywords": [
+        "grain",
+        "water",
+        "biofuels",
+        "ethanol",
+        "fixes",
+        "gao",
+        "impact",
+        "increased"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 260,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_12_18_can_this_ever_work__s05_conclusion",
+      "doc_id": "poten_tankers_no_date_poten_2009_12_18_can_this_ever_work",
+      "parent_id": "poten_tankers_no_date_poten_2009_12_18_can_this_ever_work__root",
+      "title": "Conclusion",
+      "section_path": [
+        "Conclusion"
+      ],
+      "section_path_text": "Conclusion",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The apparent stalemate in Copenhagen serves as a reminder of the need to balance aspirations with practicality when crafting sweeping policies for a less carbon‐intensive economy. Aggressive biofuels targets were set deliberately to push the industry forward, but the emerging challenges facing the ethanol industry highlights the need to reexamine the assumptions which underpin current policy.",
+      "keywords": [
+        "products",
+        "gas",
+        "e85",
+        "biofuels",
+        "blending",
+        "ethanol",
+        "fuel",
+        "gasoline"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 317,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

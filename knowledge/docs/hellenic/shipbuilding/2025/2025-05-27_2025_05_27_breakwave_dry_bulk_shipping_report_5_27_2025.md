@@ -34,85 +34,83 @@ linked_assets_ingested: 1
 linked_assets_mirrored: 1
 linked_assets_skipped: 0
 market_tone: constructive
-numeric_observation_count: 28
+numeric_observation_count: 24
 numeric_observations:
-- section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
+- &id001
+  section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
   section_type: linked_pdf
-  source_line: May 27, 2025
+  source_line: '### May 27, 2025'
   unit: null
   values:
   - 27.0
   - 2025.0
-- section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
+- &id002
+  section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
   section_type: linked_pdf
-  source_line: iron ore prices have remained stable at approximately $100 per ton,
-    while coal
+  source_line: '- **Stability Persists Albeit Nervousness Amongst Market Participants
+    -** Since early April, the dry bulk market has seen **limited activity**, with
+    spot indices remaining within a broad range and freight futures gradually declining
+    toward spot rates. To date,'
   unit: usd
   values:
   - 100.0
-- section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
+- &id003
+  section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
   section_type: linked_pdf
-  source_line: '30D: -11.8% ↓'
+  source_line: '- **Iron Ore Prices Stable as Market Awaits New Supply -** Iron ore
+    prices remain unexpectedly **stable** despite an outlook characterized by weak
+    supply and demand fundamentals. With the upcoming addition of West African production,
+    most notably from the **Si'
+  unit: null
+  values:
+  - 2024.0
+  - 2025.0
+- &id004
+  section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
+  section_type: linked_pdf
+  source_line: '#### 1369'
+  unit: null
+  values:
+  - 1369.0
+- &id005
+  section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
+  section_type: linked_pdf
+  source_line: '*30D: -11.8%* **↓** *YTD: 35.0%* **↑** *YOY: -34.2%* **↓**'
   unit: pct
   values:
   - 30.0
   - -11.8
-- section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-  section_type: linked_pdf
-  source_line: 'YTD: 35.0% ↑'
-  unit: pct
-  values:
-  - 35000.0
-- section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-  section_type: linked_pdf
-  source_line: 'YOY: -34.2% ↓'
-  unit: pct
-  values:
+  - 35.0
   - -34.2
-- section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
+- &id006
+  section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
   section_type: linked_pdf
-  source_line: 'trigger upward spikes, particularly given the prevailing positive
-    sentiment in the 30D: -2.4% ↓'
+  source_line: '#### 1340'
+  unit: null
+  values:
+  - 1340.0
+- &id007
+  section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
+  section_type: linked_pdf
+  source_line: '**(spot):** *30D: -2.4%* **↓** *YTD: 34.4%* **↑** *YOY: -25.4%* **↓**'
   unit: pct
   values:
   - 30.0
   - -2.4
-- section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-  section_type: linked_pdf
-  source_line: 'YTD: 34.4% ↑'
-  unit: pct
-  values:
-  - 34400.0
-- section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-  section_type: linked_pdf
-  source_line: 'YOY: -25.4% ↓'
-  unit: pct
-  values:
+  - 34.4
   - -25.4
-- section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
+- &id008
+  section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
   section_type: linked_pdf
-  source_line: lower for the full year compared to 2024. The longer distances associated
-    with the
-  unit: null
-  values:
-  - 2024.0
-- section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-  section_type: linked_pdf
-  source_line: new West African supply are expected to benefit the shipping market
-    in 2025.
-  unit: null
-  values:
-  - 2025.0
-- section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-  section_type: linked_pdf
-  source_line: Breakwave Advisors LLC  17 State Street  New York, NY  breakwaveadvisors.com
+  source_line: Breakwave Advisors LLC ÷ 17 State Street ÷ New York, NY ÷
   unit: null
   values:
   - 17.0
-- section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
+- &id009
+  section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
   section_type: linked_pdf
-  source_line: Jul-24 Aug-24 Sep-24 Oct-24 Nov-24 Dec-24 Jan-25 Feb-25 Mar-25 Apr-25
-    May-25
+  source_line: BDIY (spot) BDRYFF (futures) 0 Jul-24 Aug-24 Sep-24 Oct-24 Nov-24 Dec-24
+    Jan-25 Feb-25 Mar-25 Apr-25 May-25
   unit: null
   values:
   - 24.0
@@ -125,122 +123,136 @@ numeric_observations:
   - 25.0
   - 25.0
   - 25.0
-- section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
+- &id010
+  section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
   section_type: linked_pdf
-  source_line: The Baltic Dry Index (BDI) measures the average spot rates for dry
-    bulk freight with a sector weighting of 40% Capesize, 30% Panamax and 30% Supramax.
+  source_line: '*The Baltic Dry Index (BDI) measures the average spot rates for dry
+    bulk freight with a sector weighting of 40% Capesize, 30% Panamax and 30% Supramax.*
+    *The Breakwave Dry Futures Index (BDRYFF) is designed to track freight futures
+    contracts with a sector weig'
   unit: pct
   values:
   - 40.0
   - 30.0
   - 30.0
-- section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-  section_type: linked_pdf
-  source_line: The Breakwave Dry Futures Index (BDRYFF) is designed to track freight
-    futures contracts with a sector weighting of 50% Capesize, 40% Panamax and 10%
-  unit: pct
-  values:
   - 50.0
   - 40.0
   - 10.0
-- section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-  section_type: linked_pdf
-  source_line: Supramax and a weighted average maturity of approximately 50-70 days.
-  unit: null
-  values:
   - 50.0
   - -70.0
-- section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
+- &id011
+  section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
   section_type: linked_pdf
-  source_line: China Steel Production 259mt 1.08%
+  source_line: '|China Steel Production|259mt|1.08%|'
   unit: tonnage
   values:
   - 259.0
   - 1.08
-- section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
+- &id012
+  section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
   section_type: linked_pdf
-  source_line: China Steel Inventories 4.9mt -22.64%
+  source_line: '|China Steel Inventories|4.9mt|-22.64%|'
   unit: tonnage
   values:
   - 4.9
   - -22.64
-- section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
+- &id013
+  section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
   section_type: linked_pdf
-  source_line: China Iron Ore Inventories 137mt -5.82%
+  source_line: '|China Iron Ore Inventories|137mt|-5.82%|'
   unit: tonnage
   values:
   - 137.0
   - -5.82
-- section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
+- &id014
+  section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
   section_type: linked_pdf
-  source_line: China Iron Ore Imports 388mt -5.71%
+  source_line: '|China Iron Ore Imports|388mt|-5.71%|'
   unit: tonnage
   values:
   - 388.0
   - -5.71
-- section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
+- &id015
+  section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
   section_type: linked_pdf
-  source_line: China Coal Imports 153mt -5.26%
+  source_line: '|China Coal Imports|153mt|-5.26%|'
   unit: tonnage
   values:
   - 153.0
   - -5.26
-- section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
+- &id016
+  section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
   section_type: linked_pdf
-  source_line: China Soybean Imports 23mt -14.58%
+  source_line: '|China Soybean Imports|23mt|-14.58%|'
   unit: tonnage
   values:
   - 23.0
   - -14.58
-- section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
+- &id017
+  section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
   section_type: linked_pdf
-  source_line: Brazil Iron Ore Exports 85mt 1.15%
+  source_line: '|Brazil Iron Ore Exports|85mt|1.15%|'
   unit: tonnage
   values:
   - 85.0
   - 1.15
-- section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
+- &id018
+  section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
   section_type: linked_pdf
-  source_line: Australia Iron Ore Exports 208mt -1.56%
+  source_line: '|Australia Iron Ore Exports|208mt|-1.56%|'
   unit: tonnage
   values:
   - 208.0
   - -1.56
-- section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
+- &id019
+  section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
   section_type: linked_pdf
-  source_line: Dry Bulk Fleet 1035 mdwt 2.6%
+  source_line: '|Dry Bulk Fleet|1035 mdwt|2.6%|'
   unit: pct
   values:
   - 1035.0
   - 2.6
-- section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
+- &id020
+  section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
   section_type: linked_pdf
-  source_line: Baltic Dry Index, Average 1,192 -34.3%
+  source_line: '|Baltic Dry Index, Average|1,192|-34.3%|'
   unit: pct
   values:
   - 1192.0
   - -34.3
-- section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
+- &id021
+  section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
   section_type: linked_pdf
-  source_line: Capesize Spot Rates, Average 13,883 -40.5%
+  source_line: '|Capesize Spot Rates, Average|13,883|-40.5%|'
   unit: pct
   values:
   - 13883.0
   - -40.5
-- section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
+- &id022
+  section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
   section_type: linked_pdf
-  source_line: Panamax Spot rates, Average 8,985 -37.7%
+  source_line: '|Panamax Spot rates, Average|8,985|-37.7%|'
   unit: pct
   values:
   - 8985.0
   - -37.7
-- section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
+- &id023
+  section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
   section_type: linked_pdf
-  source_line: The Funds are not a mutual funds or any other type of investment company
-    within the meaning of the Investment Company Act of 1940, as amended,
+  source_line: '***Sources**: Bloomberg, IEA, Clarksons and Breakwave Advisors* <u>Disclaimer:</u>
+    *This research report has been prepared by Breakwave Advisors LLC solely for general
+    information purposes and for the recipient''s internal use only.* ***This report
+    does not con'
   unit: null
   values:
   - 1940.0
+- &id024
+  section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
+  section_type: linked_pdf
+  source_line: Breakwave Advisors LLC ÷ 17 State Street ÷ New York, NY ÷ <u>breakwaveadvisors.com</u>
+  unit: null
+  values:
+  - 17.0
 regions:
 - china
 - japan
@@ -250,215 +262,34 @@ regions:
 - west_africa
 section_count: 2
 signals:
-  numeric_observation_count: 28
+  numeric_observation_count: 24
   numeric_observations:
-  - section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-    section_type: linked_pdf
-    source_line: May 27, 2025
-    unit: null
-    values:
-    - 27.0
-    - 2025.0
-  - section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-    section_type: linked_pdf
-    source_line: iron ore prices have remained stable at approximately $100 per ton,
-      while coal
-    unit: usd
-    values:
-    - 100.0
-  - section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-    section_type: linked_pdf
-    source_line: '30D: -11.8% ↓'
-    unit: pct
-    values:
-    - 30.0
-    - -11.8
-  - section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-    section_type: linked_pdf
-    source_line: 'YTD: 35.0% ↑'
-    unit: pct
-    values:
-    - 35.0
-  - section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-    section_type: linked_pdf
-    source_line: 'YOY: -34.2% ↓'
-    unit: pct
-    values:
-    - -34.2
-  - section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-    section_type: linked_pdf
-    source_line: 'trigger upward spikes, particularly given the prevailing positive
-      sentiment in the 30D: -2.4% ↓'
-    unit: pct
-    values:
-    - 30.0
-    - -2.4
-  - section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-    section_type: linked_pdf
-    source_line: 'YTD: 34.4% ↑'
-    unit: pct
-    values:
-    - 34.4
-  - section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-    section_type: linked_pdf
-    source_line: 'YOY: -25.4% ↓'
-    unit: pct
-    values:
-    - -25.4
-  - section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-    section_type: linked_pdf
-    source_line: lower for the full year compared to 2024. The longer distances associated
-      with the
-    unit: null
-    values:
-    - 2024.0
-  - section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-    section_type: linked_pdf
-    source_line: new West African supply are expected to benefit the shipping market
-      in 2025.
-    unit: null
-    values:
-    - 2025.0
-  - section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-    section_type: linked_pdf
-    source_line: Breakwave Advisors LLC  17 State Street  New York, NY  breakwaveadvisors.com
-    unit: null
-    values:
-    - 17.0
-  - section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-    section_type: linked_pdf
-    source_line: Jul-24 Aug-24 Sep-24 Oct-24 Nov-24 Dec-24 Jan-25 Feb-25 Mar-25 Apr-25
-      May-25
-    unit: null
-    values:
-    - 24.0
-    - 24.0
-    - 24.0
-    - 24.0
-    - 24.0
-    - 24.0
-    - 25.0
-    - 25.0
-    - 25.0
-    - 25.0
-  - section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-    section_type: linked_pdf
-    source_line: The Baltic Dry Index (BDI) measures the average spot rates for dry
-      bulk freight with a sector weighting of 40% Capesize, 30% Panamax and 30% Supramax.
-    unit: pct
-    values:
-    - 40.0
-    - 30.0
-    - 30.0
-  - section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-    section_type: linked_pdf
-    source_line: The Breakwave Dry Futures Index (BDRYFF) is designed to track freight
-      futures contracts with a sector weighting of 50% Capesize, 40% Panamax and 10%
-    unit: pct
-    values:
-    - 50.0
-    - 40.0
-    - 10.0
-  - section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-    section_type: linked_pdf
-    source_line: Supramax and a weighted average maturity of approximately 50-70 days.
-    unit: null
-    values:
-    - 50.0
-    - -70.0
-  - section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-    section_type: linked_pdf
-    source_line: China Steel Production 259mt 1.08%
-    unit: tonnage
-    values:
-    - 259.0
-    - 1.08
-  - section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-    section_type: linked_pdf
-    source_line: China Steel Inventories 4.9mt -22.64%
-    unit: tonnage
-    values:
-    - 4.9
-    - -22.64
-  - section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-    section_type: linked_pdf
-    source_line: China Iron Ore Inventories 137mt -5.82%
-    unit: tonnage
-    values:
-    - 137.0
-    - -5.82
-  - section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-    section_type: linked_pdf
-    source_line: China Iron Ore Imports 388mt -5.71%
-    unit: tonnage
-    values:
-    - 388.0
-    - -5.71
-  - section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-    section_type: linked_pdf
-    source_line: China Coal Imports 153mt -5.26%
-    unit: tonnage
-    values:
-    - 153.0
-    - -5.26
-  - section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-    section_type: linked_pdf
-    source_line: China Soybean Imports 23mt -14.58%
-    unit: tonnage
-    values:
-    - 23.0
-    - -14.58
-  - section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-    section_type: linked_pdf
-    source_line: Brazil Iron Ore Exports 85mt 1.15%
-    unit: tonnage
-    values:
-    - 85.0
-    - 1.15
-  - section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-    section_type: linked_pdf
-    source_line: Australia Iron Ore Exports 208mt -1.56%
-    unit: tonnage
-    values:
-    - 208.0
-    - -1.56
-  - section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-    section_type: linked_pdf
-    source_line: Dry Bulk Fleet 1035 mdwt 2.6%
-    unit: pct
-    values:
-    - 1035.0
-    - 2.6
-  - section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-    section_type: linked_pdf
-    source_line: Baltic Dry Index, Average 1,192 -34.3%
-    unit: pct
-    values:
-    - 1192.0
-    - -34.3
-  - section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-    section_type: linked_pdf
-    source_line: Capesize Spot Rates, Average 13,883 -40.5%
-    unit: pct
-    values:
-    - 13883.0
-    - -40.5
-  - section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-    section_type: linked_pdf
-    source_line: Panamax Spot rates, Average 8,985 -37.7%
-    unit: pct
-    values:
-    - 8985.0
-    - -37.7
-  - section: 'Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf'
-    section_type: linked_pdf
-    source_line: The Funds are not a mutual funds or any other type of investment
-      company within the meaning of the Investment Company Act of 1940, as amended,
-    unit: null
-    values:
-    - 1940.0
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - *id010
+  - *id011
+  - *id012
+  - *id013
+  - *id014
+  - *id015
+  - *id016
+  - *id017
+  - *id018
+  - *id019
+  - *id020
+  - *id021
+  - *id022
+  - *id023
+  - *id024
 source: hellenic
-source_path: corpus/02-hellenic/shipbuilding/2025/2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025.html
+source_path: reports/hellenic/shipbuilding/2025/2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025.html
 source_stem: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025
 source_url: https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-5-27-2025
 summary: 'Main
@@ -471,33 +302,23 @@ summary: 'Main
 
   Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf
 
-  Source asset: reports/hellenic/shipbuilding/pdfs/2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf
+  Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf
 
 
-  [Page 1]
+  # Dry Bulk Shipping
 
-  Dry Bulk Shipping
 
-  Bi-Weekly Industry Report
+  ## Bi-Weekly Industry Report
 
-  May 27, 2025
 
-  • Stability Persists Albeit Nervousness Amongst Market Participants - Since
+  ### May 27, 2025
 
-  Short-term Indicators
 
-  early April, the dry bulk market has seen limited activity, with spot indices
-
-  Momentum: Neutral
-
+  - **Stability Persists Albeit Nervousness Amongst Market Participants -** Since
+  early April, the dry bulk market has seen **limited activity**, with spot indices
   remaining within a broad range and freight futures gradually declining toward spot
-
-  Sentiment: Positive
-
-  rates. To date, freight rates have shown little inclination to rise significantly.
-  In
-
-  terms of overall volume, both coal and iron ore trading remain subdued.'
+  rates. To date, freight rates have shown **little inclination to rise significantly**.
+  In terms of overall volume, both coal and iron ore trading remain subdued.'
 themes:
 - capesize
 - panamax
@@ -525,20 +346,15 @@ Stability Persists Albeit Nervousness Amongst Market Participants - Since early 
 Source: Breakwave Advisors
 
 Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf
-Source asset: reports/hellenic/shipbuilding/pdfs/2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf
+Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf
 
-[Page 1]
-Dry Bulk Shipping
-Bi-Weekly Industry Report
-May 27, 2025
-• Stability Persists Albeit Nervousness Amongst Market Participants - Since
-Short-term Indicators
-early April, the dry bulk market has seen limited activity, with spot indices
-Momentum: Neutral
-remaining within a broad range and freight futures gradually declining toward spot
-Sentiment: Positive
-rates. To date, freight rates have shown little inclination to rise significantly. In
-terms of overall volume, both coal and iron ore trading remain subdued.
+# Dry Bulk Shipping
+
+## Bi-Weekly Industry Report
+
+### May 27, 2025
+
+- **Stability Persists Albeit Nervousness Amongst Market Participants -** Since early April, the dry bulk market has seen **limited activity**, with spot indices remaining within a broad range and freight futures gradually declining toward spot rates. To date, freight rates have shown **little inclination to rise significantly**. In terms of overall volume, both coal and iron ore trading remain subdued.
 
 ## Main
 Stability Persists Albeit Nervousness Amongst Market Participants - Since early April, the dry bulk market has seen limited activity
@@ -547,102 +363,68 @@ Source: Breakwave Advisors
 ## Linked asset: 2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf
 Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-05-27_breakwave-dry-bulk-shipping-report-5-27-2025_breakwavedrymay272025report_de9b5a4c1faf.pdf
 
-[Page 1]
-Dry Bulk Shipping
-Bi-Weekly Industry Report
-May 27, 2025
-• Stability Persists Albeit Nervousness Amongst Market Participants - Since
-Short-term Indicators
-early April, the dry bulk market has seen limited activity, with spot indices
-Momentum: Neutral
-remaining within a broad range and freight futures gradually declining toward spot
-Sentiment: Positive
-rates. To date, freight rates have shown little inclination to rise significantly. In
-terms of overall volume, both coal and iron ore trading remain subdued. Notably, Fundamentals: Neutral
-iron ore prices have remained stable at approximately $100 per ton, while coal
-prices have fallen to multi-year lows. As we approach the summer months, Breakwave Dry
-1369
-increased volatility in the Capesize spot market is anticipated, aligning with historical Futures Index:
-seasonal patterns. The West Africa region is expected to experience a slowdown in
-30D: -11.8% ↓
-bauxite shipments due to seasonal rains commencing in early to mid-July.
-YTD: 35.0% ↑
-Conversely, Brazil's iron ore exports are projected to remain strong at relatively high
-levels throughout the remainder of the year. The dynamic between export volumes
-YOY: -34.2% ↓
-from these two regions will be key in shaping the Capesize market in the months
-ahead. Overall, we expect activity levels to remain steady, supporting current Baltic Dry Index
-1340
-price levels. However, any potential tightening caused by positioning could quickly (spot):
-trigger upward spikes, particularly given the prevailing positive sentiment in the 30D: -2.4% ↓
-industry. This optimism is also reflected in the robust pricing levels observed in the
-YTD: 34.4% ↑
-secondhand vessel market.
-YOY: -25.4% ↓
-• Iron Ore Prices Stable as Market Awaits New Supply - Iron ore prices remain
-unexpectedly stable despite an outlook characterized by weak supply and demand
-fundamentals. With the upcoming addition of West African production, most notably Reuters: BDRY.K
-from the Simandou project, which is expected to commence shipping its first cargo Bloomberg: BDRY US
-in late November, there appears to be limited risk of tightness in the physical Exchange: NYSE
-market in the near term. On the demand side, we anticipate a slight decline in
-Chinese steel production this year, reflecting both domestic and international Breakwave Advisors Research
-weakness. Steel export volumes from China likely peaked last year, and recent research@breakwaveadvisors.com
-trade tensions are expected to further constrain export volumes. While this does not
-suggest a collapse in demand, it is probable that China's iron ore imports will be
-lower for the full year compared to 2024. The longer distances associated with the
-new West African supply are expected to benefit the shipping market in 2025.
-However, the overall volume of cargo in transit remains relatively modest, which
-continues to be a structural downside for seaborne bulk trade.
-• Our Long-term View - The last few years have been characterized by increased
-geopolitical uncertainty. Going forward, we expect such events to continue to affect
-global trade and have a meaningful impact on effective vessel supply. Combined
-with the potential for a multi-year cyclical rebound in China's economic activity
-following the recent economic turmoil, dry bulk shipping should experience higher
-volatility on top of a secular tightness driven by stable bulk commodity demand and
-a slower fleet growth owing to a relatively low orderbook.
-Breakwave Advisors LLC  17 State Street  New York, NY  breakwaveadvisors.com
+# Dry Bulk Shipping
 
-[Page 2]
-Baltic Dry Index (BDIY) vs Breakwave Dry Futures Index (BDRYFF)
-2500
-2000
-1500
-1000
-500
-BDIY (spot) BDRYFF (futures)
-0
-Jul-24 Aug-24 Sep-24 Oct-24 Nov-24 Dec-24 Jan-25 Feb-25 Mar-25 Apr-25 May-25
-The Baltic Dry Index (BDI) measures the average spot rates for dry bulk freight with a sector weighting of 40% Capesize, 30% Panamax and 30% Supramax.
-The Breakwave Dry Futures Index (BDRYFF) is designed to track freight futures contracts with a sector weighting of 50% Capesize, 40% Panamax and 10%
-Supramax and a weighted average maturity of approximately 50-70 days.
-Dry Bulk Fundamentals
-Demand YTD YOY
-China Steel Production 259mt 1.08%
-China Steel Inventories 4.9mt -22.64%
-China Iron Ore Inventories 137mt -5.82%
-China Iron Ore Imports 388mt -5.71%
-China Coal Imports 153mt -5.26%
-China Soybean Imports 23mt -14.58%
-Brazil Iron Ore Exports 85mt 1.15%
-Australia Iron Ore Exports 208mt -1.56%
-Supply
-Dry Bulk Fleet 1035 mdwt 2.6%
-Freight Rates
-Baltic Dry Index, Average 1,192 -34.3%
-Capesize Spot Rates, Average 13,883 -40.5%
-Panamax Spot rates, Average 8,985 -37.7%
-Note: All numbers as of latest available; Imports/Exports/Production are YTD sums as of latest reported; Inventories/Fleet are weekly totals
-Sources: Bloomberg, IEA, Clarksons and Breakwave Advisors
-Disclaimer: This research report has been prepared by Breakwave Advisors LLC solely for general information purposes and for the recipient's internal use only.
-This report does not constitute and will not form part of and should not be construed as a solicitation of any offer or advice to buy or sell any security,
-commodity or instrument or related derivative or to participate in any trading or investment strategy. The opinions and estimates included herein reflect
-views and available information as of the dates specified and may have been and may be subject to change without notice. An investment in BDRY and/or BWET
-("the Funds") involves significant risks. You could lose all or part of your investment in the Funds, and each of the Fund's performance could trail that of other
-investments. The value of the Shares of the Funds relates directly to the value of, and realized profit or loss from, the Freight Futures and other assets held by the
-Fund, and fluctuations in price could materially affect the Funds' shares. Investments in freight futures typically fluctuate in value with changes in spot charter rates.
-Charter rates for dry bulk and tanker vessels are volatile and have declined significantly since their historic highs and may remain at low levels or decrease further
-in the future. The Funds will not take defensive positions to protect against declining freight rates, which could cause a decline to the value of the Funds' shares.
-The Funds are not a mutual funds or any other type of investment company within the meaning of the Investment Company Act of 1940, as amended,
-and are not subject to regulation thereunder.
-Please visit www.breakwaveadvisors.com/disclosures
-Breakwave Advisors LLC  17 State Street  New York, NY  breakwaveadvisors.com
+## Bi-Weekly Industry Report
+
+### May 27, 2025
+
+- **Stability Persists Albeit Nervousness Amongst Market Participants –** Since early April, the dry bulk market has seen **limited activity**, with spot indices remaining within a broad range and freight futures gradually declining toward spot rates. To date, freight rates have shown **little inclination to rise significantly**. In terms of overall volume, both coal and iron ore trading remain subdued. Notably, **iron ore prices** have remained **stable** at approximately $100 per ton, while coal prices have fallen to multi-year lows. As we approach the summer months, increased volatility in the Capesize spot market is anticipated, aligning with historical seasonal patterns. The West Africa region is expected to experience a slowdown in bauxite shipments due to seasonal rains commencing in early to mid-July. Conversely, Brazil's iron ore exports are projected to remain strong at relatively high levels throughout the remainder of the year. The dynamic between export volumes from these two regions will be key in shaping the Capesize market in the months ahead. Overall, we **expect activity levels to remain steady**, supporting current price levels. However, any potential tightening caused by positioning could quickly trigger upward spikes, particularly given the prevailing **positive sentiment** in the industry. This optimism is also reflected in the robust pricing levels observed in the secondhand vessel market.
+- **Iron Ore Prices Stable as Market Awaits New Supply –** Iron ore prices remain unexpectedly **stable** despite an outlook characterized by weak supply and demand fundamentals. With the upcoming addition of West African production, most notably from the **Simandou project**, which is expected to commence shipping its first cargo in late November, there appears to be **limited risk of tightness** in the physical market in the near term. On the demand side, we anticipate a **slight decline** in **Chinese steel production** this year, reflecting both domestic and international weakness. Steel **export volumes** from China likely **peaked** last year, and recent trade tensions are expected to further constrain export volumes. While this does not suggest a collapse in demand, it is probable that China's **iron ore imports** will be **lower** for the full year compared to 2024. The **longer distances** associated with the new West African supply are expected to **benefit** the shipping market in 2025. However, the overall volume of cargo in transit remains relatively modest, which continues to be a structural downside for seaborne bulk trade.
+- **Our Long-term View –** The last few years have been characterized by increased geopolitical uncertainty. Going forward, we expect such events to continue to affect global trade and have a meaningful impact on effective vessel supply. Combined with the potential for a multi-year cyclical rebound in China’s economic activity following the recent economic turmoil, dry bulk shipping should experience higher volatility on top of a secular tightness driven by stable bulk commodity demand and a slower fleet growth owing to a relatively low orderbook.
+#### Short-term Indicators
+
+*Momentum:* **Neutral** *Sentiment:* **Positive** *Fundamentals:* **Neutral**
+
+#### Breakwave Dry
+
+#### 1369
+
+#### Futures Index:
+
+*30D: -11.8%* **↓** *YTD: 35.0%* **↑** *YOY: -34.2%* **↓**
+
+#### Baltic Dry Index
+
+#### 1340
+
+**(spot):** *30D: -2.4%* **↓** *YTD: 34.4%* **↑** *YOY: -25.4%* **↓**
+
+Breakwave Advisors LLC ÷ 17 State Street ÷ New York, NY ÷
+
+**Reuters: BDRY.K** **Bloomberg: BDRY US** **Exchange: NYSE**
+
+**Breakwave Advisors Research** <u>research@breakwaveadvisors.com</u>
+
+<u>breakwaveadvisors.com</u>
+
+### Baltic Dry Index (BDIY) vs Breakwave Dry Futures Index (BDRYFF)
+
+BDIY (spot) BDRYFF (futures) 0 Jul-24 Aug-24 Sep-24 Oct-24 Nov-24 Dec-24 Jan-25 Feb-25 Mar-25 Apr-25 May-25
+
+*The Baltic Dry Index (BDI) measures the average spot rates for dry bulk freight with a sector weighting of 40% Capesize, 30% Panamax and 30% Supramax.* *The Breakwave Dry Futures Index (BDRYFF) is designed to track freight futures contracts with a sector weighting of 50% Capesize, 40% Panamax and 10%* *Supramax and a weighted average maturity of approximately 50-70 days.*
+
+## Dry Bulk Fundamentals
+
+|Demand|YTD|YOY|
+|---|---|---|
+|China Steel Production|259mt|1.08%|
+|China Steel Inventories|4.9mt|-22.64%|
+|China Iron Ore Inventories|137mt|-5.82%|
+|China Iron Ore Imports|388mt|-5.71%|
+|China Coal Imports|153mt|-5.26%|
+|China Soybean Imports|23mt|-14.58%|
+|Brazil Iron Ore Exports|85mt|1.15%|
+|Australia Iron Ore Exports|208mt|-1.56%|
+|Supply|||
+|Dry Bulk Fleet|1035 mdwt|2.6%|
+|Freight Rates|||
+|Baltic Dry Index, Average|1,192|-34.3%|
+|Capesize Spot Rates, Average|13,883|-40.5%|
+|Panamax Spot rates, Average|8,985|-37.7%|
+
+<u>Note</u>*: All numbers as of latest available; Imports/Exports/Production are YTD sums as of latest reported; Inventories/Fleet are weekly totals*
+
+***Sources**: Bloomberg, IEA, Clarksons and Breakwave Advisors* <u>Disclaimer:</u> *This research report has been prepared by Breakwave Advisors LLC solely for general information purposes and for the recipient's internal use only.* ***This report does not constitute and will not form part of and should not be construed as a solicitation of any offer or advice to buy or sell any security,*** ***commodity or instrument or related derivative or to participate in any trading or investment strategy**. The opinions and estimates included herein reflect* *views and available information as of the dates specified and may have been and may be subject to change without notice. An investment in BDRY and/or BWET* *(“the Funds”) involves significant risks. You could lose all or part of your investment in the Funds, and each of the Fund’s performance could trail that of other* *investments. The value of the Shares of the Funds relates directly to the value of, and realized profit or loss from, the Freight Futures and other assets held by the* *Fund, and fluctuations in price could materially affect the Funds’ shares. Investments in freight futures typically fluctuate in value with changes in spot charter rates.* *Charter rates for dry bulk and tanker vessels are volatile and have declined significantly since their historic highs and may remain at low levels or decrease further* *in the future. The Funds will not take defensive positions to protect against declining freight rates, which could cause a decline to the value of the Funds’ shares.* ***The Funds are not a mutual funds or any other type of investment company within the meaning of the Investment Company Act of 1940, as amended,*** ***and are not subject to regulation thereunder.*** *Please visit* <u>www.breakwaveadvisors.com/disclosures</u>
+
+Breakwave Advisors LLC ÷ 17 State Street ÷ New York, NY ÷ <u>breakwaveadvisors.com</u>

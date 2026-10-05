@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_05_28_driving_towards_normality__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_05_28_driving_towards_normality",
+  "parent_id": null,
+  "title": "Driving Towards Normality",
+  "section_path": [
+    "Driving Towards Normality"
+  ],
+  "section_path_text": "Driving Towards Normality",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Driving Towards Normality\nThe American summer driving season that typically kicks off with Memorial Day weekend is a period when oil and tanker markets traditionally anticipate an uptick in refined product demand. For each of the past two years, however, the durability of this seasonal demand surge has been tested by extraordinary conditions in oil markets driven largely by conditions in the economy. In 2008, traffic volumes were depressed by oil prices that hovered near $130 per barrel and last year demand was sapped by lingering effects of the then‐recent economic melt‐down.",
+  "keywords": [
+    "atlantic",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "demand",
+    "year",
+    "driving",
+    "increase",
+    "recent",
+    "oil",
+    "summer"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 862,
+  "source_path": "reports/poten/2010/poten_2010-05-28_driving-towards-normality.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_05_28_driving_towards_normality__s01_driving_towards_normality",
+      "doc_id": "poten_tankers_no_date_poten_2010_05_28_driving_towards_normality",
+      "parent_id": "poten_tankers_no_date_poten_2010_05_28_driving_towards_normality__root",
+      "title": "Driving Towards Normality",
+      "section_path": [
+        "Driving Towards Normality"
+      ],
+      "section_path_text": "Driving Towards Normality",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The American summer driving season that typically kicks off with Memorial Day weekend is a period when oil and tanker markets traditionally anticipate an uptick in refined product demand. For each of the past two years, however, the durability of this seasonal demand surge has been tested by extraordinary conditions in oil markets driven largely by conditions in the economy.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "increase",
+        "year",
+        "demand",
+        "aaa",
+        "last"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 328,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_05_28_driving_towards_normality__s02_priced_to_move",
+      "doc_id": "poten_tankers_no_date_poten_2010_05_28_driving_towards_normality",
+      "parent_id": "poten_tankers_no_date_poten_2010_05_28_driving_towards_normality__root",
+      "title": "Priced to Move",
+      "section_path": [
+        "Priced to Move"
+      ],
+      "section_path_text": "Priced to Move",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Pressured by the European debt crisis, a strengthening dollar and various geopolitical concerns, recent weeks have seen the price of crude oil drop sharply; from an average of about $84 per barrel in April to the current level of $74.55 per barrel. The Energy Information Administration (EIA), reports that April witnessed a stabilization and modest turnaround in gasoline consumption in the United States.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "prices",
+        "gasoline",
+        "recent",
+        "april"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 153,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_05_28_driving_towards_normality__s03_premium",
+      "doc_id": "poten_tankers_no_date_poten_2010_05_28_driving_towards_normality",
+      "parent_id": "poten_tankers_no_date_poten_2010_05_28_driving_towards_normality__root",
+      "title": "Premium",
+      "section_path": [
+        "Premium"
+      ],
+      "section_path_text": "Premium",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Regular Current Price Premium Current Price Regular Whether incremental demand is met by imports or higher output from domestic refineries is generally determined by a delicate equilibrium between freight rates and refinery utilization. In years past, the seasonal uptick in refined product demand that accompanies summer driving season could be relied on to lend some support to freight rates for clean tankers.",
+      "keywords": [
+        "atlantic",
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "driving",
+        "season",
+        "summer"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 368,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

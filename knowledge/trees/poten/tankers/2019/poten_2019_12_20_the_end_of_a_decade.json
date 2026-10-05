@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2019_12_20_the_end_of_a_decade__root",
+  "doc_id": "poten_tankers_no_date_poten_2019_12_20_the_end_of_a_decade",
+  "parent_id": null,
+  "title": "The End Of A Decade",
+  "section_path": [
+    "The End Of A Decade"
+  ],
+  "section_path_text": "The End Of A Decade",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The last decade has been nothing like the previous one\nWe are approaching the end of the second decade of the 21 st century and we want to use this Tanker Opinion to reflect on the previous two decades to see what changed and what stayed the same. The period 2010-2019 has seen a very different tanker market than the previous decade of 2000- 2009. Oil demand and supply, as well as tradeflows changed dramatically.",
+  "keywords": [
+    "vlcc",
+    "container",
+    "china",
+    "europe",
+    "japan",
+    "crude_oil",
+    "oil",
+    "decade",
+    "demand",
+    "was",
+    "years",
+    "fleet"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 958,
+  "source_path": "reports/poten/2019/poten_2019-12-20_the-end-of-a-decade.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_12_20_the_end_of_a_decade__s01_the_last_decade_has_been_nothing_like_the_previous_one",
+      "doc_id": "poten_tankers_no_date_poten_2019_12_20_the_end_of_a_decade",
+      "parent_id": "poten_tankers_no_date_poten_2019_12_20_the_end_of_a_decade__root",
+      "title": "The last decade has been nothing like the previous one",
+      "section_path": [
+        "The last decade has been nothing like the previous one"
+      ],
+      "section_path_text": "The last decade has been nothing like the previous one",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "We are approaching the end of the second decade of the 21 st century and we want to use this Tanker Opinion to reflect on the previous two decades to see what changed and what stayed the same. The period 2010-2019 has seen a very different tanker market than the previous decade of 2000- 2009.",
+      "keywords": [
+        "vlcc",
+        "container",
+        "china",
+        "europe",
+        "japan",
+        "crude_oil",
+        "oil",
+        "decade"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 947,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

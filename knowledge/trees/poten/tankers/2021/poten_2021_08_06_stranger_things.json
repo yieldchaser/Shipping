@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2021_08_06_stranger_things__root",
+  "doc_id": "poten_tankers_no_date_poten_2021_08_06_stranger_things",
+  "parent_id": null,
+  "title": "Stranger Things",
+  "section_path": [
+    "Stranger Things"
+  ],
+  "section_path_text": "Stranger Things",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "crude oil imports are rebounding as the economy reopens\nThe United States started to import crude oil in meaningful quantities after World War II. In the 1970s, the growth in imports accelerated, increasing from about 1.5 Million barrels per day (Mb/d) in 1970 to close to 7.0 Mb/d in 1979. The Iranian revolution in 1979 sparked the world's second oil shock.",
+  "keywords": [
+    "vlcc",
+    "aframax",
+    "atlantic",
+    "pacific",
+    "crude_oil",
+    "oil",
+    "u.s.",
+    "imports",
+    "crude",
+    "coast",
+    "production",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 964,
+  "source_path": "reports/poten/2021/poten_2021-08-06_stranger-things.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2021_08_06_stranger_things__s01_u_s_crude_oil_imports_are_rebounding_as_the_economy_reopens",
+      "doc_id": "poten_tankers_no_date_poten_2021_08_06_stranger_things",
+      "parent_id": "poten_tankers_no_date_poten_2021_08_06_stranger_things__root",
+      "title": "U.S. crude oil imports are rebounding as the economy reopens",
+      "section_path": [
+        "U.S. crude oil imports are rebounding as the economy reopens"
+      ],
+      "section_path_text": "U.S. crude oil imports are rebounding as the economy reopens",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The United States started to import crude oil in meaningful quantities after World War II. In the 1970s, the growth in imports accelerated, increasing from about 1.5 Million barrels per day (Mb/d) in 1970 to close to 7.0 Mb/d in 1979.",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "atlantic",
+        "pacific",
+        "crude_oil",
+        "oil",
+        "u.s.",
+        "imports"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 949,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

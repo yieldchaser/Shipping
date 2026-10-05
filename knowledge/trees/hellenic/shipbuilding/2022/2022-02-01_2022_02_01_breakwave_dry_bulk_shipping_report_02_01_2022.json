@@ -9,7 +9,7 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 02.01.2022",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nBottom is in for Capesizes, but upside capped by seasonality - The Capesize market has experienced significant weakness over the last few\nSource: Breakwave Advisors\n\nLinked asset: 2022-02-01_breakwave-dry-bulk-shipping-report-02-01-2022_breakwavefebruary12022report_148d6b27c559.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-02-01_breakwave-dry-bulk-shipping-report-02-01-2022_breakwavefebruary12022report_148d6b27c559.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nFebruary 1, 2022\nBreakwave Dry Futures Index: 1,897 Baltic Dry Index (spot): 1,418 Short-term Indicators:\n↓ 30D: -2.5% ↓ 30D: -36.0% Momentum: Neutral\n↓ YTD: -2.5% ↓ YTD: -36.0% Sentiment: Neutral\n↑ YOY: 66.2% ↓ YOY: -2.3% Fundamentals: Neutral\nBi-Weekly Report\n• Bottom is in for Capesizes, but upside capped by seasonality - The Capesize market has experienced significant\nweakness over the last few weeks with spot rates reaching almost zero in the main reported routes around the\nglobe. Although February is historically considered the weakest month of the year for dry bulk, we believe Capesize\nrates have already seen the lows for this year. However, that does not necessarily mean a sharp recovery is\nimminent.",
+  "summary": "Main\nBottom is in for Capesizes, but upside capped by seasonality - The Capesize market has experienced significant weakness over the last few\nSource: Breakwave Advisors\n\nLinked asset: 2022-02-01_breakwave-dry-bulk-shipping-report-02-01-2022_breakwavefebruary12022report_148d6b27c559.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2022-02-01_breakwave-dry-bulk-shipping-report-02-01-2022_breakwavefebruary12022report_148d6b27c559.pdf\n\n|||BDRY|||||\n|---|---|---|---|---|---|---|\n||↓ ↓ ↑|Dry Bulk Shipping Breakwave Dry Futures Index: 30D: -2.5% YTD: -2.5% YOY: 66.2%|1,897 ↓ ↓ ↓|Baltic Dry Index (spot): 30D: -36.0% YTD: -36.0% YOY: -2.3%|1,418 Momentum: Sentiment: Fundamentals:|February 1, 2022 Short-term Indicators: Neutral Neutral Neutral|\n|• • •||Bi-Weekly Report been implementing across the economy. Dry bulk upcycle to continue in 2022 -|Bottom is in for Capesizes, but upside capped by seasonality - As China's credit impulse turns higher, so does dry bulk... but with a lag - Supramax and a weighted average maturity of approximately 50-70 days.|weakness over the last few weeks with spot rates reaching almost zero in the main reported routes around the globe.",
   "keywords": [
     "capesize",
     "panamax",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1480,
-  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-02-01_breakwave-dry-bulk-shipping-report-02-01-2022.html",
+  "token_count": 1513,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-02-01_breakwave-dry-bulk-shipping-report-02-01-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-02-01-2022",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-02-01_breakwave-dry-bulk-shipping-report-02-01-2022_breakwavefebruary12022report_148d6b27c559.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-02-01_breakwave-dry-bulk-shipping-report-02-01-2022_breakwavefebruary12022report_148d6b27c559.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nFebruary 1, 2022\nBreakwave Dry Futures Index: 1,897 Baltic Dry Index (spot): 1,418 Short-term Indicators:\n↓ 30D: -2.5% ↓ 30D: -36.0% Momentum: Neutral\n↓ YTD: -2.5% ↓ YTD: -36.0% Sentiment: Neutral\n↑ YOY: 66.2% ↓ YOY: -2.3% Fundamentals: Neutral\nBi-Weekly Report\n• Bottom is in for Capesizes, but upside capped by seasonality - The Capesize market has experienced significant\nweakness over the last few weeks with spot rates reaching almost zero in the main reported routes around the\nglobe. Although February is historically considered the weakest month of the year for dry bulk, we believe Capesize\nrates have already seen the lows for this year.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-02-01_breakwave-dry-bulk-shipping-report-02-01-2022_breakwavefebruary12022report_148d6b27c559.pdf\n\n|||BDRY|||||\n|---|---|---|---|---|---|---|\n||↓ ↓ ↑|Dry Bulk Shipping Breakwave Dry Futures Index: 30D: -2.5% YTD: -2.5% YOY: 66.2%|1,897 ↓ ↓ ↓|Baltic Dry Index (spot): 30D: -36.0% YTD: -36.0% YOY: -2.3%|1,418 Momentum: Sentiment: Fundamentals:|February 1, 2022 Short-term Indicators: Neutral Neutral Neutral|\n|• • •||Bi-Weekly Report been implementing across the economy. Dry bulk upcycle to continue in 2022 -|Bottom is in for Capesizes, but upside capped by seasonality - As China's credit impulse turns higher, so does dry bulk...",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1400,
+      "token_count": 1433,
       "section_type": "linked_pdf",
       "children": []
     }

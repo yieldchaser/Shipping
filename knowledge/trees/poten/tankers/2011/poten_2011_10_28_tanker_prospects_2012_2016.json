@@ -1,0 +1,230 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_10_28_tanker_prospects_2012_2016__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_10_28_tanker_prospects_2012_2016",
+  "parent_id": null,
+  "title": "Tanker Prospects 2012 ‐ 2016",
+  "section_path": [
+    "Tanker Prospects 2012 ‐ 2016"
+  ],
+  "section_path_text": "Tanker Prospects 2012 ‐ 2016",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Tanker Prospects 2012 ‐ 2016\nThe past year has been characterized by much pessimism. Freight rates have remained well below breakeven levels for many ship owners and frequently have been insufficient to even cover operating expenses. Crude oil demand is at all time highs and geopolitical unrest has further complicated the availability of crude oil.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "atlantic",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 971,
+  "source_path": "reports/poten/2011/poten_2011-10-28_tanker-prospects-2012-2016.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_10_28_tanker_prospects_2012_2016__s01_tanker_prospects_2012_2016",
+      "doc_id": "poten_tankers_no_date_poten_2011_10_28_tanker_prospects_2012_2016",
+      "parent_id": "poten_tankers_no_date_poten_2011_10_28_tanker_prospects_2012_2016__root",
+      "title": "Tanker Prospects 2012 ‐ 2016",
+      "section_path": [
+        "Tanker Prospects 2012 ‐ 2016"
+      ],
+      "section_path_text": "Tanker Prospects 2012 ‐ 2016",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The past year has been characterized by much pessimism. Freight rates have remained well below breakeven levels for many ship owners and frequently have been insufficient to even cover operating expenses.",
+      "keywords": [
+        "crude_oil",
+        "are",
+        "crude",
+        "further",
+        "rates.",
+        "would",
+        "afloat",
+        "ahead."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 184,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_10_28_tanker_prospects_2012_2016__s02_economy_of_scaling_back",
+      "doc_id": "poten_tankers_no_date_poten_2011_10_28_tanker_prospects_2012_2016",
+      "parent_id": "poten_tankers_no_date_poten_2011_10_28_tanker_prospects_2012_2016__root",
+      "title": "Economy of Scaling Back",
+      "section_path": [
+        "Economy of Scaling Back"
+      ],
+      "section_path_text": "Economy of Scaling Back",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Even amid significant economic and energy consumption growth in emerging markets, the fragile state of mature economies has hindered a full scale global recovery. Lagging growth continues to pressure demand for petroleum in these regions.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "consumption",
+        "economies",
+        "energy",
+        "growth",
+        "kbd",
+        "additional"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 104,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_10_28_tanker_prospects_2012_2016__s03_united_states",
+      "doc_id": "poten_tankers_no_date_poten_2011_10_28_tanker_prospects_2012_2016",
+      "parent_id": "poten_tankers_no_date_poten_2011_10_28_tanker_prospects_2012_2016__root",
+      "title": "United States",
+      "section_path": [
+        "United States"
+      ],
+      "section_path_text": "United States",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Europe 5* China Total World As petroleum demand contracts in the United States and Europe, the health of the tanker market depends on emerging market economies, particularly those in Asia. China was responsible for 37% of the growth in crude oil demand in 2010 and is expected to account for over one third of total demand growth in the year to come.",
+      "keywords": [
+        "china",
+        "europe",
+        "crude_oil",
+        "demand",
+        "crude",
+        "oil",
+        "growth",
+        "total"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 118,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_10_28_tanker_prospects_2012_2016__s04_refining_matters",
+      "doc_id": "poten_tankers_no_date_poten_2011_10_28_tanker_prospects_2012_2016",
+      "parent_id": "poten_tankers_no_date_poten_2011_10_28_tanker_prospects_2012_2016__root",
+      "title": "Refining Matters",
+      "section_path": [
+        "Refining Matters"
+      ],
+      "section_path_text": "Refining Matters",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Price divergence among similar grades of crude oil has challenged the economic landscape for refiners dependent on Brent‐priced streams. The premium of the Brent crude oil price benchmark to West Texas Intermediate (WTI) has risen to an average of $18 per barrel since January 2011, as seen in the chart below.",
+      "keywords": [
+        "capesize",
+        "crude_oil",
+        "brent",
+        "crude",
+        "oil",
+        "price",
+        "among",
+        "average"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 64,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_10_28_tanker_prospects_2012_2016__s05_brent_premium",
+      "doc_id": "poten_tankers_no_date_poten_2011_10_28_tanker_prospects_2012_2016",
+      "parent_id": "poten_tankers_no_date_poten_2011_10_28_tanker_prospects_2012_2016__root",
+      "title": "Brent Premium",
+      "section_path": [
+        "Brent Premium"
+      ],
+      "section_path_text": "Brent Premium",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "5 Year Average This wide price spread has resulted in uneven refining prospects, particularly for some North American companies dependent on processing imported light sweet grades. This year saw Sunoco announce plans to divest itself of its Pennsylvania refineries, and ConocoPhillips has already begun to idle its Trainer, PA facility.",
+      "keywords": [
+        "atlantic",
+        "us_gulf",
+        "crude_oil",
+        "products",
+        "oil",
+        "capacity",
+        "coast",
+        "could"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 210,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_10_28_tanker_prospects_2012_2016__s06_waiting_out_the_recovery",
+      "doc_id": "poten_tankers_no_date_poten_2011_10_28_tanker_prospects_2012_2016",
+      "parent_id": "poten_tankers_no_date_poten_2011_10_28_tanker_prospects_2012_2016__root",
+      "title": "Waiting Out the Recovery",
+      "section_path": [
+        "Waiting Out the Recovery"
+      ],
+      "section_path_text": "Waiting Out the Recovery",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Without question, tanker oversupply is much to blame for the current state of affairs. The supply overhang has overshadowed real demand increases, as seen in the chart below.",
+      "keywords": [
+        "affairs.",
+        "below.",
+        "blame",
+        "chart",
+        "current",
+        "demand",
+        "increases",
+        "much"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 35,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_10_28_tanker_prospects_2012_2016__s07_no_ships",
+      "doc_id": "poten_tankers_no_date_poten_2011_10_28_tanker_prospects_2012_2016",
+      "parent_id": "poten_tankers_no_date_poten_2011_10_28_tanker_prospects_2012_2016__root",
+      "title": "No. Ships",
+      "section_path": [
+        "No. Ships"
+      ],
+      "section_path_text": "No. Ships",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Spot: AG‐FE (260kt) 1 Year TC 3 Year TC 5 Year TC Since the majority of single hull vessels have already exited the trading fleet, reconciliation of supply will likely result from voluntary removal of older double hull tonnage. Age restrictions at terminals and more stringent industry standards for trading vessels, together with high scrap prices, might convince owners of older double hull vessels to finally exit the market.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "year",
+        "hull",
+        "vessels",
+        "asset"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 217,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_12_30_opec_on_opec__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_12_30_opec_on_opec",
+  "parent_id": null,
+  "title": "OPEC on OPEC",
+  "section_path": [
+    "OPEC on OPEC"
+  ],
+  "section_path_text": "OPEC on OPEC",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "OPEC on OPEC\nOPEC's website (www.opec.org) has a lot of interesting information on its plans to expand crude oil and refinery expansion. If we view high oil prices as the consequence of the supply of oil production and refinery capacity feeling the pinch of 85 million bpd demand, which continues to grow, then this information is invaluable in assessing the future direction of tanker prospects. Crude Production Constraints As we have noted previously in our report \"The Fall of Oil Empires\" of July 8, 2005, the United States, the United Kingdom, Indonesia, Colombia, and Egypt have falling production.",
+  "keywords": [
+    "china",
+    "brazil",
+    "meg",
+    "west_africa",
+    "india",
+    "crude_oil",
+    "products",
+    "gas",
+    "refinery",
+    "capacity",
+    "oil",
+    "opec"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 803,
+  "source_path": "reports/poten/2005/poten_2005-12-30_opec-on-opec.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_12_30_opec_on_opec__s01_opec_on_opec",
+      "doc_id": "poten_tankers_no_date_poten_2005_12_30_opec_on_opec",
+      "parent_id": "poten_tankers_no_date_poten_2005_12_30_opec_on_opec__root",
+      "title": "OPEC on OPEC",
+      "section_path": [
+        "OPEC on OPEC"
+      ],
+      "section_path_text": "OPEC on OPEC",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "OPEC's website (www.opec.org) has a lot of interesting information on its plans to expand crude oil and refinery expansion. If we view high oil prices as the consequence of the supply of oil production and refinery capacity feeling the pinch of 85 million bpd demand, which continues to grow, then this information is invaluable in assessing the future direction of tanker prospects.",
+      "keywords": [
+        "china",
+        "brazil",
+        "meg",
+        "west_africa",
+        "india",
+        "crude_oil",
+        "oil",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 410,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_12_30_opec_on_opec__s02_chart_refinery_capacity_constraints",
+      "doc_id": "poten_tankers_no_date_poten_2005_12_30_opec_on_opec",
+      "parent_id": "poten_tankers_no_date_poten_2005_12_30_opec_on_opec__root",
+      "title": "Chart: Refinery Capacity Constraints",
+      "section_path": [
+        "Chart: Refinery Capacity Constraints"
+      ],
+      "section_path_text": "Chart: Refinery Capacity Constraints",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Consumers however do not buy crude oil, but gasoline, diesel and jet fuel among other products. Producing more crude oil means nothing to the end user if refinery capacity does not expand to handle incremental demand.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "products",
+        "gas",
+        "capacity",
+        "oil",
+        "refinery",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 184,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_12_30_opec_on_opec__s03_chart_planned_expansion_of_opec_refinery_capacity",
+      "doc_id": "poten_tankers_no_date_poten_2005_12_30_opec_on_opec",
+      "parent_id": "poten_tankers_no_date_poten_2005_12_30_opec_on_opec__root",
+      "title": "Chart: Planned Expansion of OPEC Refinery Capacity",
+      "section_path": [
+        "Chart: Planned Expansion of OPEC Refinery Capacity"
+      ],
+      "section_path_text": "Chart: Planned Expansion of OPEC Refinery Capacity",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The significant expansion of Middle East refinery capacity along with refinery expansion plans in India and China stand in stark contrast to what is happening in the Western Hemisphere. Yes, there will be refinery creep that expands overall capacity and yes, there is talk about building new refineries (as long as they're not located in the United States).",
+      "keywords": [
+        "china",
+        "india",
+        "products",
+        "refinery",
+        "capacity",
+        "are",
+        "east",
+        "middle"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 185,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

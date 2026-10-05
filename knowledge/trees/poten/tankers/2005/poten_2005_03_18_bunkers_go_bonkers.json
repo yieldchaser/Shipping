@@ -1,0 +1,174 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_03_18_bunkers_go_bonkers__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_03_18_bunkers_go_bonkers",
+  "parent_id": null,
+  "title": "Bunkers Go Bonkers",
+  "section_path": [
+    "Bunkers Go Bonkers"
+  ],
+  "section_path_text": "Bunkers Go Bonkers",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Bunkers Go Bonkers\nHow are bunkers (380 CST) over $200 a ton, and marine diesel oil (MDO) inching close to $500 per ton, hitting the shipowner's pocket book? The following chart shows bunker prices in Singapore and crude oil prices (Dubai) since 1999. MDO\nCrude CST As seen above, bunker prices follow crude oil prices to some extent (a moderately weak R Square of 40%).",
+  "keywords": [
+    "vlcc",
+    "china",
+    "singapore",
+    "japan",
+    "crude_oil",
+    "products",
+    "prices",
+    "oil",
+    "bunker",
+    "crude",
+    "bunkers",
+    "fuel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 415,
+  "source_path": "reports/poten/2005/poten_2005-03-18_bunkers-go-bonkers.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_03_18_bunkers_go_bonkers__s01_bunkers_go_bonkers",
+      "doc_id": "poten_tankers_no_date_poten_2005_03_18_bunkers_go_bonkers",
+      "parent_id": "poten_tankers_no_date_poten_2005_03_18_bunkers_go_bonkers__root",
+      "title": "Bunkers Go Bonkers",
+      "section_path": [
+        "Bunkers Go Bonkers"
+      ],
+      "section_path_text": "Bunkers Go Bonkers",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "How are bunkers (380 CST) over $200 a ton, and marine diesel oil (MDO) inching close to $500 per ton, hitting the shipowner's pocket book? The following chart shows bunker prices in Singapore and crude oil prices (Dubai) since 1999.",
+      "keywords": [
+        "singapore",
+        "crude_oil",
+        "products",
+        "oil",
+        "prices",
+        "ton",
+        "are",
+        "bunker"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 60,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_03_18_bunkers_go_bonkers__s02_mdo",
+      "doc_id": "poten_tankers_no_date_poten_2005_03_18_bunkers_go_bonkers",
+      "parent_id": "poten_tankers_no_date_poten_2005_03_18_bunkers_go_bonkers__root",
+      "title": "MDO",
+      "section_path": [
+        "MDO"
+      ],
+      "section_path_text": "MDO",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Crude CST As seen above, bunker prices follow crude oil prices to some extent (a moderately weak R Square of 40%). The spread between the two varies depending on refinery output, fuel oil availability, and demand for fuel oil in refinery centers.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "crude",
+        "fuel",
+        "prices",
+        "refinery",
+        "above",
+        "availability"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 50,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_03_18_bunkers_go_bonkers__s03_jan_99",
+      "doc_id": "poten_tankers_no_date_poten_2005_03_18_bunkers_go_bonkers",
+      "parent_id": "poten_tankers_no_date_poten_2005_03_18_bunkers_go_bonkers__root",
+      "title": "Jan-99",
+      "section_path": [
+        "Jan-99"
+      ],
+      "section_path_text": "Jan-99",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Jan-00 Jan-01 Jan-02 Jan-03 Jan-04 Jan-05 ($80) The principal driver behind the rising spread between crude and bunker prices since 2003 is the rapidly escalating price of crude oil. The growing demand for resids in China to fuel its economy has increased bunker prices, but not to the extent of the increased price of crude, which may be reflecting the world of oil hitting supply capacity constraints.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "japan",
+        "crude_oil",
+        "bunker",
+        "crude",
+        "prices",
+        "increased"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 113,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_03_18_bunkers_go_bonkers__s04_vlcc_ag_japan_spot_ws_tce_rates",
+      "doc_id": "poten_tankers_no_date_poten_2005_03_18_bunkers_go_bonkers",
+      "parent_id": "poten_tankers_no_date_poten_2005_03_18_bunkers_go_bonkers__root",
+      "title": "VLCC AG/Japan Spot WS & TCE Rates",
+      "section_path": [
+        "VLCC AG/Japan Spot WS & TCE Rates"
+      ],
+      "section_path_text": "VLCC AG/Japan Spot WS & TCE Rates",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The following chart shows the differential in WS points to compensate for fluctuations in bunker prices from the average price of bunkers in 2001. (WS rates adjusted to reflect changes in the annual base rate).",
+      "keywords": [
+        "adjusted",
+        "annual",
+        "average",
+        "base",
+        "bunker",
+        "bunkers",
+        "changes",
+        "chart"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 41,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_03_18_bunkers_go_bonkers__s05_bunkers_going_bonkers",
+      "doc_id": "poten_tankers_no_date_poten_2005_03_18_bunkers_go_bonkers",
+      "parent_id": "poten_tankers_no_date_poten_2005_03_18_bunkers_go_bonkers__root",
+      "title": "Bunkers Going Bonkers?",
+      "section_path": [
+        "Bunkers Going Bonkers?"
+      ],
+      "section_path_text": "Bunkers Going Bonkers?",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Yes, in absolute terms the cost of bunkers has escalated; no, in relative terms compared to spot WS rates at today's robust levels. Owners are still making plenty of money and giving up a few extra WS points to the bunker suppliers can't be hurting that much.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "owners",
+        "cost",
+        "extra",
+        "giving",
+        "hurting",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 118,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

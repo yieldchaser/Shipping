@@ -1,0 +1,195 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_12_28_peak_month_theory__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_12_28_peak_month_theory",
+  "parent_id": null,
+  "title": "Peak Month Theory",
+  "section_path": [
+    "Peak Month Theory"
+  ],
+  "section_path_text": "Peak Month Theory",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Peak Month Theory\nAs the split-second when unseen electrons magically switch the date in our computers from this year to the next approaches, we thought it fitting to reflect on the split-second changes in rates that can occur in the spot tanker market. Looking back on 2007, the following chart highlights that VLCC rates from the AG to Far East were, on average, mostly below the monthly Worldscale rate experienced in the prior eleven years. But while rates were less than inspiring during the first ten months of 2007, they did not establish a new monthly low, either.",
+  "keywords": [
+    "vlcc",
+    "brazil",
+    "average",
+    "tce",
+    "monthly",
+    "yearly",
+    "highest",
+    "east",
+    "far",
+    "fixtures",
+    "rank",
+    "volatility"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 745,
+  "source_path": "reports/poten/2007/poten_2007-12-28_peak-month-theory.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_12_28_peak_month_theory__s01_peak_month_theory",
+      "doc_id": "poten_tankers_no_date_poten_2007_12_28_peak_month_theory",
+      "parent_id": "poten_tankers_no_date_poten_2007_12_28_peak_month_theory__root",
+      "title": "Peak Month Theory",
+      "section_path": [
+        "Peak Month Theory"
+      ],
+      "section_path_text": "Peak Month Theory",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As the split-second when unseen electrons magically switch the date in our computers from this year to the next approaches, we thought it fitting to reflect on the split-second changes in rates that can occur in the spot tanker market. Looking back on 2007, the following chart highlights that VLCC rates from the AG to Far East were, on average, mostly below the monthly Worldscale rate experienced in the prior eleven years.",
+      "keywords": [
+        "vlcc",
+        "monthly",
+        "split-second",
+        "approaches",
+        "average",
+        "back",
+        "below",
+        "but"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 112,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_12_28_peak_month_theory__s02_min",
+      "doc_id": "poten_tankers_no_date_poten_2007_12_28_peak_month_theory",
+      "parent_id": "poten_tankers_no_date_poten_2007_12_28_peak_month_theory__root",
+      "title": "Min",
+      "section_path": [
+        "Min"
+      ],
+      "section_path_text": "Min",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Max VLCC Ave WS '96-'06 Jan to Dec (est) 2007 From a rate perspective, the exciting - and likely memorable - part of 2007 is the market's current level. Spurred by a host of market dynamics, AG to Far East VLCC rates spiked in the later part of November, and they have remained near these heady levels through December.",
+      "keywords": [
+        "vlcc",
+        "fixtures",
+        "rank",
+        "part",
+        "around",
+        "ave",
+        "average",
+        "basis"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 182,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_12_28_peak_month_theory__s03_ws",
+      "doc_id": "poten_tankers_no_date_poten_2007_12_28_peak_month_theory",
+      "parent_id": "poten_tankers_no_date_poten_2007_12_28_peak_month_theory__root",
+      "title": "WS",
+      "section_path": [
+        "WS"
+      ],
+      "section_path_text": "WS",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Rank 1996 62.6 10 1997 70.6 7 1998 64.1 9 1999 48.1 12 2000 109.9 2 2001 64.8 8 2002 49.4 11 2003 93.0 4 2004 145.4 1 2005 100.8 3 2006 87.0 5 2007 80.5 6",
+      "keywords": [
+        "rank"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 109,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_12_28_peak_month_theory__s04_average",
+      "doc_id": "poten_tankers_no_date_poten_2007_12_28_peak_month_theory",
+      "parent_id": "poten_tankers_no_date_poten_2007_12_28_peak_month_theory__root",
+      "title": "Average",
+      "section_path": [
+        "Average"
+      ],
+      "section_path_text": "Average",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Yearly WS From a daily time charter equivalent earnings (TCE) stance, however, 2007 ranks as the third best year over the last twelve for AG to Far East voyages in double hulled VLCCs. 1996 to 2007 $45,197 $91,483 $40,989 $46,286",
+      "keywords": [
+        "vlcc",
+        "brazil",
+        "best",
+        "charter",
+        "daily",
+        "double",
+        "earnings",
+        "east"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 68,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_12_28_peak_month_theory__s05_volatility_monthly_high_tce_minus_yearly_average_tce",
+      "doc_id": "poten_tankers_no_date_poten_2007_12_28_peak_month_theory",
+      "parent_id": "poten_tankers_no_date_poten_2007_12_28_peak_month_theory__root",
+      "title": "\"Volatility\" = Monthly High TCE minus Yearly Average TCE",
+      "section_path": [
+        "\"Volatility\" = Monthly High TCE minus Yearly Average TCE"
+      ],
+      "section_path_text": "\"Volatility\" = Monthly High TCE minus Yearly Average TCE",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "But using yearly averages masks the month-to-month volatility in TCEs. If the highest monthly TCE is removed from its yearly average - as a means of canceling the highest earning month's contribution - a different ranking order emerges for AG - Far East VLCC TCEs.",
+      "keywords": [
+        "vlcc",
+        "average",
+        "highest",
+        "tce",
+        "monthly",
+        "volatility",
+        "yearly",
+        "fourth"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 164,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_12_28_peak_month_theory__s06_difference_highest_average_day",
+      "doc_id": "poten_tankers_no_date_poten_2007_12_28_peak_month_theory",
+      "parent_id": "poten_tankers_no_date_poten_2007_12_28_peak_month_theory__root",
+      "title": "Difference: Highest-Average, $/day",
+      "section_path": [
+        "Difference: Highest-Average, $/day"
+      ],
+      "section_path_text": "Difference: Highest-Average, $/day",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "With roughly 110 spot VLCC fixtures monthly in a fleet some 500 vessels strong, tanker owners have about a 20 percent chance of being lucky and hitting the jackpot in a peak month. Lately, though, it seems that owners participating in the fourth quarter spot market stand a better chance of being lucky than in the other quarters of the year.",
+      "keywords": [
+        "vlcc",
+        "being",
+        "chance",
+        "lucky",
+        "owners",
+        "better",
+        "fixtures",
+        "fleet"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 71,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

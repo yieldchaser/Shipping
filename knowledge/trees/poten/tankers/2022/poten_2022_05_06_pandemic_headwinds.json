@@ -1,0 +1,292 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds__root",
+  "doc_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds",
+  "parent_id": null,
+  "title": "Pandemic Headwinds",
+  "section_path": [
+    "Pandemic Headwinds"
+  ],
+  "section_path_text": "Pandemic Headwinds",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Brazil\nUS Gulf Venezuela Since the first outbreak of Covid-19 in Wuhan in late 2019, China has opted for an aggressive policy to fight the virus. It isolated Wuhan and forced the citizens of the city to stay home for several weeks in early 2020 to prevent the spread of the virus and has targeted a Zero-COVID policy since then. This policy was successful during 2020 and 2021 as the rest of the world went through several waves of infections and China was relatively unaffected.",
+  "keywords": [
+    "vlcc",
+    "aframax",
+    "china",
+    "brazil",
+    "west_africa",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "gas",
+    "oil",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 933,
+  "source_path": "reports/poten/2022/poten_2022-05-06_pandemic-headwinds.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds__s01_brazil",
+      "doc_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds",
+      "parent_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds__root",
+      "title": "Brazil",
+      "section_path": [
+        "Brazil"
+      ],
+      "section_path_text": "Brazil",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "US Gulf Venezuela Since the first outbreak of Covid-19 in Wuhan in late 2019, China has opted for an aggressive policy to fight the virus. It isolated Wuhan and forced the citizens of the city to stay home for several weeks in early 2020 to prevent the spread of the virus and has targeted a Zero-COVID policy since then.",
+      "keywords": [
+        "china",
+        "us_gulf",
+        "crude_oil",
+        "several",
+        "oil",
+        "policy",
+        "since",
+        "aggressive"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 261,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds__s02_north_sea",
+      "doc_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds",
+      "parent_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds__root",
+      "title": "North Sea",
+      "section_path": [
+        "North Sea"
+      ],
+      "section_path_text": "North Sea",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "russia",
+        "urals"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds__s03_btc_azeri",
+      "doc_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds",
+      "parent_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds__root",
+      "title": "BTC Azeri",
+      "section_path": [
+        "BTC Azeri"
+      ],
+      "section_path_text": "BTC Azeri",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "caspian",
+        "cpc"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds__s04_libya",
+      "doc_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds",
+      "parent_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds__root",
+      "title": "Libya",
+      "section_path": [
+        "Libya"
+      ],
+      "section_path_text": "Libya",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "oman"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds__s05_qatar",
+      "doc_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds",
+      "parent_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds__root",
+      "title": "Qatar",
+      "section_path": [
+        "Qatar"
+      ],
+      "section_path_text": "Qatar",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Saudi Arabia South Sudan In their latest report, the IEA (using Blavatnik School of Government data) estimates that in March 2022, 220 Million people lived in areas affected by school closures, large scale workplace stoppages and stay at home orders. Beijing and Shanghai get the most attention, but many other areas in the country are also affected.",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "china",
+        "west_africa",
+        "crude_oil",
+        "products",
+        "gas",
+        "kb/d"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 325,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds__s06_brazil",
+      "doc_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds",
+      "parent_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds__root",
+      "title": "Brazil",
+      "section_path": [
+        "Brazil"
+      ],
+      "section_path_text": "Brazil",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "",
+      "keywords": [
+        "us_gulf",
+        "gulf",
+        "venezuela"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds__s07_april",
+      "doc_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds",
+      "parent_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds__root",
+      "title": "April",
+      "section_path": [
+        "April"
+      ],
+      "section_path_text": "April",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "",
+      "keywords": [
+        "march"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds__s08_north_sea",
+      "doc_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds",
+      "parent_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds__root",
+      "title": "North Sea",
+      "section_path": [
+        "North Sea"
+      ],
+      "section_path_text": "North Sea",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "",
+      "keywords": [
+        "russia",
+        "urals"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds__s09_btc_azeri",
+      "doc_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds",
+      "parent_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds__root",
+      "title": "BTC Azeri",
+      "section_path": [
+        "BTC Azeri"
+      ],
+      "section_path_text": "BTC Azeri",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "",
+      "keywords": [
+        "caspian",
+        "cpc"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds__s10_libya",
+      "doc_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds",
+      "parent_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds__root",
+      "title": "Libya",
+      "section_path": [
+        "Libya"
+      ],
+      "section_path_text": "Libya",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "",
+      "keywords": [
+        "oman"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds__s11_qatar",
+      "doc_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds",
+      "parent_id": "poten_tankers_no_date_poten_2022_05_06_pandemic_headwinds__root",
+      "title": "Qatar",
+      "section_path": [
+        "Qatar"
+      ],
+      "section_path_text": "Qatar",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "Saudi Arabia South Sudan In 2021 China represented about 33% of global crude oil related TonMile demand, (Graph 2) although this reflects to some degree the demand impact from COVID in Western countries. This clearly shows the importance of China and of Asia in general for the oil tanker market.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "europe",
+        "crude_oil",
+        "oil",
+        "demand",
+        "are",
+        "imports"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 279,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

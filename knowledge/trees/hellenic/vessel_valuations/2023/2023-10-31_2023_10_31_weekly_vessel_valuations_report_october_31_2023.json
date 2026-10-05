@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1318,
-  "source_path": "corpus/02-hellenic/vessel_valuations/2023/2023-10-31_weekly-vessel-valuations-report-october-31-2023.html",
+  "token_count": 2341,
+  "source_path": "reports/hellenic/vessel_valuations/2023/2023-10-31_weekly-vessel-valuations-report-october-31-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-october-31-2023",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-10-31_weekly-vessel-valuations-report-october-31-2023_img1_3110223yt_c8286c6a8a2a.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2023/assets/2023-10-31_weekly-vessel-valuations-report-october-31-2023_img1_3110223yt_c8286c6a8a2a.jpg\n\nLinked image asset: 2023-10-31_weekly-vessel-valuations-report-october-31-2023_img1_3110223yt_c8286c6a8a2a.jpg\n\nImage metadata: JPEG 678x256 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\n() VesselsValue™- -A\n31 October 2023 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge VLCC Sucz Afra LR MR Cape Pmax Supra Handy Pmax Pmax Handy = Fmax\n° 40.1% +2.0% +1.0% -0.3% +0.8% +0.4% 0.5% - +0.6% - -0.3% 0.5% -0.9% -+2.2% - -0.9%\n320k 160k 110k 75k 50k 180k 82k 60k 38k 7000 4250 1750 1100\ns 0.0% +2.7% +1.4% -0.3% +0.6% +0.3% 0.9% +0.1% +0.9% \"1.0% -0.8% +1.9% -0.8%\n320k 160k 110k 75k 50k 180k 80k 60k 38k 7000 ©4250 1750 1100\n20 0.0% +7.8% +1.9% -0.3% 0.0% +0.3% -1.1% = +0.4% +0.8% 0.9% -0.8% +1.0% -0.8%\n320k 160k 110k 75k 50k 180k 80k 60k 32k 7000 «4250 1750 1100\n15 0.0% +1.9% +2.2% -0.3% -0.2% 40.3% -1.2% +1.7% -0.6% 0.0% -0.8% -0.5% -0.9%\n310k 160k 110k 75k 50k 180k 80k 55k 30k 7000 = 4250 1750 1100\n20 0.0% 40.1% 12.4% 0.3% 40.6% 0.0% --1.2% 43.3% -2.6% 11.7% 0.7% -1.9% -1.0%\n305k 155k 105k 70k 45k 175k 75k 50k 30k 6500 ",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2023/assets/2023-10-31_weekly-vessel-valuations-report-october-31-2023_img1_3110223yt_c8286c6a8a2a.jpg\n\nLinked image asset: 2023-10-31_weekly-vessel-valuations-report-october-31-2023_img1_3110223yt_c8286c6a8a2a.jpg\n\nImage metadata: JPEG 678x256 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\n[structured table]\n| 31 October | 2023 | | | | VV | Mini Matrix | - | Weekly | Change | | | | |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| | | | Tankers | | | | | Bulkers | | | | Containers | |\n| Age | VLCC | Sucz | Afra | LR | MR | Cape | Pmax | Supra | Handy | Pmax | Pmax | Handy | = Fmax |\n| | 40.1% | | +1.0% | -0.3% | +0.8% | +0.4% | | | | 0.5% | | | |\n| ° | | | | | | | | | | | | | |\n| | 320k | 160k | 110k | 75k | 50k | 180k | 82k | 60k | 38k | 7000 | 4250 | 1750 | 1100 |\n| | | | +1.4% | -0.3% | +0.6% | +0.3% | | +0.1% | +0.9% | \"1.0% | -0.8% | +1.9% | -0.8% |\n| s | | | | | | | | | | | | | |\n| | 320k | 160k | 110k | 75k | 50k | 180k | 80k | 60k | 38k | 7000 | ©4250 | 1750 | 1100 |\n| | 0.0% | | +1.9% | -0.3% | 0.0% | +0.3% | | +0.4% | | 0.9% | -0.8% | +1.0% | -0.8% |\n| 20 | | | | | | | | | | | | | |\n| | 320k | 160k | 110k | 75k | 50",
       "keywords": [
         "capesize",
         "supramax",
@@ -77,12 +77,12 @@
         "vlcc",
         "container",
         "pmax",
-        "asset",
-        "handy"
+        "handy",
+        "n/a"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 813,
+      "token_count": 1836,
       "section_type": "linked_image_asset",
       "children": []
     }

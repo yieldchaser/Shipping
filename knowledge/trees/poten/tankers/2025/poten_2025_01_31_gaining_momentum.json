@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2025_01_31_gaining_momentum__root",
+  "doc_id": "poten_tankers_no_date_poten_2025_01_31_gaining_momentum",
+  "parent_id": null,
+  "title": "Gaining Momentum",
+  "section_path": [
+    "Gaining Momentum"
+  ],
+  "section_path_text": "Gaining Momentum",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Nigeria's Dangote refinery is nearing full capacity\nThis week, various publications reported that Nigerian gasoline imports are on track to reach their lowest levels since 2017. If the initial data proves correct and holds for the rest of the month of January, seaborne clean product imports will be around 164,000 b/d, of which 111,000 b/d is gasoline. There are several factors that contribute to this decline in imports, but the ramp up of the 650,000 b/d Dangote refinery is the main driver.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "brazil",
+    "atlantic",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "dangote",
+    "refinery",
+    "imports"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 953,
+  "source_path": "reports/poten/2025/poten_2025-01-31_gaining-momentum.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2025_01_31_gaining_momentum__s01_nigeria_s_dangote_refinery_is_nearing_full_capacity",
+      "doc_id": "poten_tankers_no_date_poten_2025_01_31_gaining_momentum",
+      "parent_id": "poten_tankers_no_date_poten_2025_01_31_gaining_momentum__root",
+      "title": "Nigeria's Dangote refinery is nearing full capacity",
+      "section_path": [
+        "Nigeria's Dangote refinery is nearing full capacity"
+      ],
+      "section_path_text": "Nigeria's Dangote refinery is nearing full capacity",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This week, various publications reported that Nigerian gasoline imports are on track to reach their lowest levels since 2017. If the initial data proves correct and holds for the rest of the month of January, seaborne clean product imports will be around 164,000 b/d, of which 111,000 b/d is gasoline.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "brazil",
+        "atlantic",
+        "europe",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 941,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

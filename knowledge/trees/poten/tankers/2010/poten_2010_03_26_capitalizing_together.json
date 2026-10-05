@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_03_26_capitalizing_together__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_03_26_capitalizing_together",
+  "parent_id": null,
+  "title": "Capitalizing Together",
+  "section_path": [
+    "Capitalizing Together"
+  ],
+  "section_path_text": "Capitalizing Together",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Capitalizing Together\nCapitalizing Together 4 th Annual Capital Link Forum The buzz of finance in shipping returned to the Metropolitan Club in New York City this past Thursday as Capital Link hosted the 4th annual Invest in International Shipping forum. The single day event included a sea of shipowners, finance houses, bankers and market analysts all of whom contributed via panels and general market discussions. Attendees listened intently as panelists from the capital markets, tankers and drybulk gave their respective take on the health of the shipping market and pressing issues for the year to come.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "brazil",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "india",
+    "crude_oil",
+    "mr.",
+    "crude",
+    "new",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1171,
+  "source_path": "reports/poten/2010/poten_2010-03-26_capitalizing-together.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_03_26_capitalizing_together__s01_capitalizing_together",
+      "doc_id": "poten_tankers_no_date_poten_2010_03_26_capitalizing_together",
+      "parent_id": "poten_tankers_no_date_poten_2010_03_26_capitalizing_together__root",
+      "title": "Capitalizing Together",
+      "section_path": [
+        "Capitalizing Together"
+      ],
+      "section_path_text": "Capitalizing Together",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Capitalizing Together 4 th Annual Capital Link Forum The buzz of finance in shipping returned to the Metropolitan Club in New York City this past Thursday as Capital Link hosted the 4th annual Invest in International Shipping forum. The single day event included a sea of shipowners, finance houses, bankers and market analysts all of whom contributed via panels and general market discussions.",
+      "keywords": [
+        "capital",
+        "forum",
+        "all",
+        "annual",
+        "attendees",
+        "finance",
+        "link",
+        "panels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 216,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_03_26_capitalizing_together__s02_chart_pti_vs_equity_index",
+      "doc_id": "poten_tankers_no_date_poten_2010_03_26_capitalizing_together",
+      "parent_id": "poten_tankers_no_date_poten_2010_03_26_capitalizing_together__root",
+      "title": "Chart: PTI vs Equity Index",
+      "section_path": [
+        "Chart: PTI vs Equity Index"
+      ],
+      "section_path_text": "Chart: PTI vs Equity Index",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The PTI is up 72 points or over 250% since the end of August 2009, following a brisk start to tanker markets in the beginning of the year, signaling signs of a recovering freight market.",
+      "keywords": [
+        "august",
+        "beginning",
+        "brisk",
+        "end",
+        "following",
+        "market.",
+        "markets",
+        "points"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 44,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_03_26_capitalizing_together__s03_the_tanker_romp",
+      "doc_id": "poten_tankers_no_date_poten_2010_03_26_capitalizing_together",
+      "parent_id": "poten_tankers_no_date_poten_2010_03_26_capitalizing_together__root",
+      "title": "The Tanker Romp",
+      "section_path": [
+        "The Tanker Romp"
+      ],
+      "section_path_text": "The Tanker Romp",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The afternoon was a tanker filled romp with panelists reaching across both the crude oil and refined product tanker vessel sectors. Fotis Giannakoulis, VP of Research at Morgan Stanley moderated the crude oil tanker panel which consisted of Mr.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "brazil",
+        "atlantic",
+        "meg",
+        "west_africa",
+        "india",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 607,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_03_26_capitalizing_together__s04_supply_story",
+      "doc_id": "poten_tankers_no_date_poten_2010_03_26_capitalizing_together",
+      "parent_id": "poten_tankers_no_date_poten_2010_03_26_capitalizing_together__root",
+      "title": "Supply Story",
+      "section_path": [
+        "Supply Story"
+      ],
+      "section_path_text": "Supply Story",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "In addition to speaking on behalf of their respective tanker trades, there was much discussion in regards to the elephant looming in the back of the room - newbuild orders. While last year's tanker panel focused primarily on long‐term charter coverage, this year focused quite a bit on supply as shipowners pointed out that there are still a vast amount of ships scheduled to be delivered in the coming years, especially as 2009 encountered \"slippage\" or delays in both the crude oil and product tanker sectors.",
+      "keywords": [
+        "crude_oil",
+        "delays",
+        "both",
+        "conference",
+        "even",
+        "focused",
+        "occasional",
+        "operating"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 283,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

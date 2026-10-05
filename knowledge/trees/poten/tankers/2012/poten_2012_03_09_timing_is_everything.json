@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2012_03_09_timing_is_everything__root",
+  "doc_id": "poten_tankers_no_date_poten_2012_03_09_timing_is_everything",
+  "parent_id": null,
+  "title": "Timing is Everything",
+  "section_path": [
+    "Timing is Everything"
+  ],
+  "section_path_text": "Timing is Everything",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Timing is Everything\nIn the mid‐1970s, the idea of creating a vast reserve of petroleum in the US to buffer the nation from future crude oil supply shocks gave birth to the US' Strategic Petroleum Reserve (SPR). It was hoped that establishing the crude oil reserves would cushion American citizens from gasoline supply angst. In times of need, the President would be able to call upon these vast crude oil reserves as a means of keeping America's refineries fed.",
+  "keywords": [
+    "vlcc",
+    "meg",
+    "crude_oil",
+    "products",
+    "gas",
+    "oil",
+    "crude",
+    "prices",
+    "release",
+    "reserve",
+    "supply",
+    "gasoline"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 498,
+  "source_path": "reports/poten/2012/poten_2012-03-09_timing-is-everything.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_03_09_timing_is_everything__s01_timing_is_everything",
+      "doc_id": "poten_tankers_no_date_poten_2012_03_09_timing_is_everything",
+      "parent_id": "poten_tankers_no_date_poten_2012_03_09_timing_is_everything__root",
+      "title": "Timing is Everything",
+      "section_path": [
+        "Timing is Everything"
+      ],
+      "section_path_text": "Timing is Everything",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In the mid‐1970s, the idea of creating a vast reserve of petroleum in the US to buffer the nation from future crude oil supply shocks gave birth to the US' Strategic Petroleum Reserve (SPR). It was hoped that establishing the crude oil reserves would cushion American citizens from gasoline supply angst.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "crude_oil",
+        "products",
+        "gas",
+        "oil",
+        "crude",
+        "prices"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 494,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

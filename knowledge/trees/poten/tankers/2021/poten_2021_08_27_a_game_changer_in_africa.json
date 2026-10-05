@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2021_08_27_a_game_changer_in_africa__root",
+  "doc_id": "poten_tankers_no_date_poten_2021_08_27_a_game_changer_in_africa",
+  "parent_id": null,
+  "title": "A Game Changer In Africa",
+  "section_path": [
+    "A Game Changer In Africa"
+  ],
+  "section_path_text": "A Game Changer In Africa",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The impact of this new refinery in Nigeria will be significant\nOn August 25, 2021, the Nigerian National Petroleum Corporation (NNPC) announced that it will supply 300,000 barrels per day (b/d) of crude oil to the new 650,000 b/d Dangote oil refinery, which is under construction in the Lekki Free Zone on Nigeria's coast, approximately 30 miles east of the commercial capital of Lagos. When it is commissioned, the Dangote refinery, Africa's largest, will dramatically change the crude oil and refined product balances in Nigeria and the wider West Africa region. This will also have a major impact on the tanker market.",
+  "keywords": [
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "lpg",
+    "atlantic",
+    "pacific",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "dangote"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 910,
+  "source_path": "reports/poten/2021/poten_2021-08-27_a-game-changer-in-africa.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2021_08_27_a_game_changer_in_africa__s01_the_impact_of_this_new_refinery_in_nigeria_will_be_significant",
+      "doc_id": "poten_tankers_no_date_poten_2021_08_27_a_game_changer_in_africa",
+      "parent_id": "poten_tankers_no_date_poten_2021_08_27_a_game_changer_in_africa__root",
+      "title": "The impact of this new refinery in Nigeria will be significant",
+      "section_path": [
+        "The impact of this new refinery in Nigeria will be significant"
+      ],
+      "section_path_text": "The impact of this new refinery in Nigeria will be significant",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "On August 25, 2021, the Nigerian National Petroleum Corporation (NNPC) announced that it will supply 300,000 barrels per day (b/d) of crude oil to the new 650,000 b/d Dangote oil refinery, which is under construction in the Lekki Free Zone on Nigeria's coast, approximately 30 miles east of the commercial capital of Lagos. When it is commissioned, the Dangote refinery, Africa's largest, will dramatically change the crude oil and refined product balances in Nigeria and the wider West Africa region.",
+      "keywords": [
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "lpg",
+        "atlantic",
+        "pacific",
+        "west_africa",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 898,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

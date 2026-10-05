@@ -1,0 +1,172 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_11_09_the_outlook_for_energy_a_view_to_2030__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_11_09_the_outlook_for_energy_a_view_to_2030",
+  "parent_id": null,
+  "title": "The Outlook for Energy: A View to 2030",
+  "section_path": [
+    "The Outlook for Energy: A View to 2030"
+  ],
+  "section_path_text": "The Outlook for Energy: A View to 2030",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Outlook for Energy: A View to 2030\nThe oil industry is one that is often characterized by fast paced decision making. It is therefore sometimes easy to forget that executives at oil companies are also challenged with making long-term decisions that can and do often impact their companies many years in the future. ExxonMobil is a company that has been among the best at long-term planning and execution.",
+  "keywords": [
+    "coal",
+    "crude_oil",
+    "gas",
+    "energy",
+    "exxonmobil",
+    "demand",
+    "outlook",
+    "growth",
+    "oil",
+    "are",
+    "below",
+    "columbia"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 520,
+  "source_path": "reports/poten/2007/poten_2007-11-09_the-outlook-for-energy-a-view-to-2030.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_11_09_the_outlook_for_energy_a_view_to_2030__s01_the_outlook_for_energy_a_view_to_2030",
+      "doc_id": "poten_tankers_no_date_poten_2007_11_09_the_outlook_for_energy_a_view_to_2030",
+      "parent_id": "poten_tankers_no_date_poten_2007_11_09_the_outlook_for_energy_a_view_to_2030__root",
+      "title": "The Outlook for Energy: A View to 2030",
+      "section_path": [
+        "The Outlook for Energy: A View to 2030"
+      ],
+      "section_path_text": "The Outlook for Energy: A View to 2030",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The oil industry is one that is often characterized by fast paced decision making. It is therefore sometimes easy to forget that executives at oil companies are also challenged with making long-term decisions that can and do often impact their companies many years in the future.",
+      "keywords": [
+        "crude_oil",
+        "gas",
+        "exxonmobil",
+        "oil",
+        "companies",
+        "energy",
+        "long-term",
+        "often"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 133,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_11_09_the_outlook_for_energy_a_view_to_2030__s02_disproportionate_demand_growth",
+      "doc_id": "poten_tankers_no_date_poten_2007_11_09_the_outlook_for_energy_a_view_to_2030",
+      "parent_id": "poten_tankers_no_date_poten_2007_11_09_the_outlook_for_energy_a_view_to_2030__root",
+      "title": "Disproportionate Demand Growth",
+      "section_path": [
+        "Disproportionate Demand Growth"
+      ],
+      "section_path_text": "Disproportionate Demand Growth",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The outlook highlighted the significant role that OECD countries play given that they comprise approximately 80% of energy demand. However, since 1980, the growth rate in energy demand for non-OECD countries has been four times faster.",
+      "keywords": [
+        "countries",
+        "energy",
+        "growth",
+        "outlook",
+        "analysis",
+        "approximately",
+        "below",
+        "comprise"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 83,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_11_09_the_outlook_for_energy_a_view_to_2030__s03_more_pieces_of_the_puzzle",
+      "doc_id": "poten_tankers_no_date_poten_2007_11_09_the_outlook_for_energy_a_view_to_2030",
+      "parent_id": "poten_tankers_no_date_poten_2007_11_09_the_outlook_for_energy_a_view_to_2030__root",
+      "title": "More Pieces of the Puzzle",
+      "section_path": [
+        "More Pieces of the Puzzle"
+      ],
+      "section_path_text": "More Pieces of the Puzzle",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The presentation addressed many other key points of interest, such as the role of nuclear, power generation and expectations for renewable energy sources. Some of the conclusions from the presentation are outlined below: x Global energy demand is projected to grow at 1.3% per year",
+      "keywords": [
+        "energy",
+        "presentation",
+        "addressed",
+        "are",
+        "below",
+        "conclusions",
+        "demand",
+        "expectations"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 53,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_11_09_the_outlook_for_energy_a_view_to_2030__s04_considerations",
+      "doc_id": "poten_tankers_no_date_poten_2007_11_09_the_outlook_for_energy_a_view_to_2030",
+      "parent_id": "poten_tankers_no_date_poten_2007_11_09_the_outlook_for_energy_a_view_to_2030__root",
+      "title": "considerations",
+      "section_path": [
+        "considerations"
+      ],
+      "section_path_text": "considerations",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "x Demand growth and fuel mix will lead to increased CO 2",
+      "keywords": [
+        "demand",
+        "fuel",
+        "growth",
+        "increased",
+        "lead",
+        "mix"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_11_09_the_outlook_for_energy_a_view_to_2030__s05_emissions",
+      "doc_id": "poten_tankers_no_date_poten_2007_11_09_the_outlook_for_energy_a_view_to_2030",
+      "parent_id": "poten_tankers_no_date_poten_2007_11_09_the_outlook_for_energy_a_view_to_2030__root",
+      "title": "emissions",
+      "section_path": [
+        "emissions"
+      ],
+      "section_path_text": "emissions",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Traditional energy outlooks by most analysts start with the EIA information as a base case. While ExxonMobil uses some information from EIA, they differ significantly in their long term outlook for U.S.",
+      "keywords": [
+        "coal",
+        "crude_oil",
+        "gas",
+        "exxonmobil",
+        "energy",
+        "information",
+        "outlook",
+        "columbia"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 205,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

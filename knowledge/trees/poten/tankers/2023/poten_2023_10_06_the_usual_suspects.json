@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2023_10_06_the_usual_suspects__root",
+  "doc_id": "poten_tankers_no_date_poten_2023_10_06_the_usual_suspects",
+  "parent_id": null,
+  "title": "The Usual Suspects",
+  "section_path": [
+    "The Usual Suspects"
+  ],
+  "section_path_text": "The Usual Suspects",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "China remains key to crude tanker demand in 2024\nThe IEA estimates that China has now overtaken the US as the country with the largest refining capacity with 18.2 million barrels per day (Mb/d) in 2022, representing about 17.7% of the global capacity. The IEA projects that China's refining capacity will grow by a further 1.5 Mb/d by 2028 to 19.7Mb/d. As China only produces about 4.3 Mb/d crude oil, they are by far the largest importer of crude oil and therefore a significant driver of the tanker market.",
+  "keywords": [
+    "vlcc",
+    "aframax",
+    "china",
+    "brazil",
+    "atlantic",
+    "crude_oil",
+    "products",
+    "gas",
+    "crude",
+    "oil",
+    "mb/d",
+    "imports"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1006,
+  "source_path": "reports/poten/2023/poten_2023-10-06_the-usual-suspects.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2023_10_06_the_usual_suspects__s01_china_remains_key_to_crude_tanker_demand_in_2024",
+      "doc_id": "poten_tankers_no_date_poten_2023_10_06_the_usual_suspects",
+      "parent_id": "poten_tankers_no_date_poten_2023_10_06_the_usual_suspects__root",
+      "title": "China remains key to crude tanker demand in 2024",
+      "section_path": [
+        "China remains key to crude tanker demand in 2024"
+      ],
+      "section_path_text": "China remains key to crude tanker demand in 2024",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The IEA estimates that China has now overtaken the US as the country with the largest refining capacity with 18.2 million barrels per day (Mb/d) in 2022, representing about 17.7% of the global capacity. The IEA projects that China's refining capacity will grow by a further 1.5 Mb/d by 2028 to 19.7Mb/d.",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "china",
+        "brazil",
+        "atlantic",
+        "crude_oil",
+        "products",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 994,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

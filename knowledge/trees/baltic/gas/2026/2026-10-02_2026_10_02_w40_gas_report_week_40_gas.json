@@ -1,0 +1,90 @@
+{
+  "node_id": "baltic_gas_2026-10-02_2026_10_02_w40_gas_report_week_40_gas__root",
+  "doc_id": "baltic_gas_2026-10-02_2026_10_02_w40_gas_report_week_40_gas",
+  "parent_id": null,
+  "title": "Gas report - Week 40",
+  "section_path": [
+    "Gas report - Week 40"
+  ],
+  "section_path_text": "Gas report - Week 40",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "LNG\nThe LNG market experienced a mixed week, with last week's improving sentiment failing to translate into a sustained recovery in spot earnings. The Pacific market proved more resilient, supported by stronger demand and a relatively tighter vessel list. On the BLNG1 Australia-Japan route, rates increased by $1,300 week-on-week to settle at $37,700/day.",
+  "keywords": [
+    "lng",
+    "lpg",
+    "australia",
+    "atlantic",
+    "pacific",
+    "europe",
+    "us_gulf",
+    "japan",
+    "gas",
+    "route",
+    "day.",
+    "vessel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 455,
+  "source_path": "reports/baltic/gas/2026/2026-10-02_W40_gas-report-week-40_gas.html",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "baltic_gas_2026-10-02_2026_10_02_w40_gas_report_week_40_gas__s01_lng",
+      "doc_id": "baltic_gas_2026-10-02_2026_10_02_w40_gas_report_week_40_gas",
+      "parent_id": "baltic_gas_2026-10-02_2026_10_02_w40_gas_report_week_40_gas__root",
+      "title": "LNG",
+      "section_path": [
+        "LNG"
+      ],
+      "section_path_text": "LNG",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The LNG market experienced a mixed week, with last week's improving sentiment failing to translate into a sustained recovery in spot earnings. The Pacific market proved more resilient, supported by stronger demand and a relatively tighter vessel list.",
+      "keywords": [
+        "lng",
+        "australia",
+        "atlantic",
+        "pacific",
+        "europe",
+        "us_gulf",
+        "japan",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 268,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "baltic_gas_2026-10-02_2026_10_02_w40_gas_report_week_40_gas__s02_lpg",
+      "doc_id": "baltic_gas_2026-10-02_2026_10_02_w40_gas_report_week_40_gas",
+      "parent_id": "baltic_gas_2026-10-02_2026_10_02_w40_gas_report_week_40_gas__root",
+      "title": "LPG",
+      "section_path": [
+        "LPG"
+      ],
+      "section_path_text": "LPG",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The LPG market remained firm this week despite a relatively quiet start, with a limited number of fixtures concluded. Vessel availability remained tight throughout the week.",
+      "keywords": [
+        "lpg",
+        "gas",
+        "route",
+        "day.",
+        "remained",
+        "tce",
+        "despite",
+        "earnings"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 181,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

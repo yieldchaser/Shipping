@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 5485,
+  "token_count": 2135,
   "source_path": "reports/hellenic/demolition/2026/2026-09-19_gms-week-38-freight-pays-beaches-wait.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-38-freight-pays-beaches-wait",
   "children": [
@@ -102,15 +102,15 @@
         "capesize",
         "panamax",
         "supramax",
-        "vlcc",
-        "container",
-        "china",
-        "brazil",
-        "atlantic"
+        "atlantic",
+        "europe",
+        "india",
+        "are",
+        "its"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 4375,
+      "token_count": 1025,
       "section_type": "linked_pdf",
       "children": []
     }

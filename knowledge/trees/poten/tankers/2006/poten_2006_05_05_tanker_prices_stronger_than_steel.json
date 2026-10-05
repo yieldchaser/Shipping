@@ -1,0 +1,174 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2006_05_05_tanker_prices_stronger_than_steel__root",
+  "doc_id": "poten_tankers_no_date_poten_2006_05_05_tanker_prices_stronger_than_steel",
+  "parent_id": null,
+  "title": "Tanker Prices: Stronger than Steel",
+  "section_path": [
+    "Tanker Prices: Stronger than Steel"
+  ],
+  "section_path_text": "Tanker Prices: Stronger than Steel",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Tanker Prices: Stronger than Steel\ns for tankers have remained at historically high levels, yet the order book continues to expand each week. New shipyards are cropping up and available capacity for a delivery by 2009 is also filling up. In summary, the market for shipbuilding is tight.",
+  "keywords": [
+    "vlcc",
+    "steel",
+    "are",
+    "csr",
+    "first",
+    "owners",
+    "prices",
+    "prices.",
+    "quarter",
+    "basis",
+    "each",
+    "increase"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 600,
+  "source_path": "reports/poten/2006/poten_2006-05-05_tanker-prices-stronger-than-steel.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_05_05_tanker_prices_stronger_than_steel__s01_tanker_prices_stronger_than_steel",
+      "doc_id": "poten_tankers_no_date_poten_2006_05_05_tanker_prices_stronger_than_steel",
+      "parent_id": "poten_tankers_no_date_poten_2006_05_05_tanker_prices_stronger_than_steel__root",
+      "title": "Tanker Prices: Stronger than Steel",
+      "section_path": [
+        "Tanker Prices: Stronger than Steel"
+      ],
+      "section_path_text": "Tanker Prices: Stronger than Steel",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "s for tankers have remained at historically high levels, yet the order book continues to expand each week. New shipyards are cropping up and available capacity for a delivery by 2009 is also filling up.",
+      "keywords": [
+        "are",
+        "available",
+        "capacity",
+        "continues",
+        "cropping",
+        "delivery",
+        "each",
+        "expand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 53,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_05_05_tanker_prices_stronger_than_steel__s02_vlcc_newbuild_price",
+      "doc_id": "poten_tankers_no_date_poten_2006_05_05_tanker_prices_stronger_than_steel",
+      "parent_id": "poten_tankers_no_date_poten_2006_05_05_tanker_prices_stronger_than_steel__root",
+      "title": "VLCC Newbuild Price",
+      "section_path": [
+        "VLCC Newbuild Price"
+      ],
+      "section_path_text": "VLCC Newbuild Price",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Newbuild prices are the result of a number of factors, the most influential of which are speculation for strong future earnings, shortness of berth capacity, and rising steel prices.",
+      "keywords": [
+        "steel",
+        "are",
+        "berth",
+        "capacity",
+        "earnings",
+        "factors",
+        "future",
+        "influential"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 35,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_05_05_tanker_prices_stronger_than_steel__s03_playing_by_new_rules",
+      "doc_id": "poten_tankers_no_date_poten_2006_05_05_tanker_prices_stronger_than_steel",
+      "parent_id": "poten_tankers_no_date_poten_2006_05_05_tanker_prices_stronger_than_steel__root",
+      "title": "Playing By New Rules",
+      "section_path": [
+        "Playing By New Rules"
+      ],
+      "section_path_text": "Playing By New Rules",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "On April 1, 2006 Common Structural Rules (CSR) for Tankers took effect and their implementation has placed additional upward pressure on prices. The CSR was established by a venture of three classification societies, known as the Joint Tanker Project: Lloyd's Register, American Bureau of Shipping and Det Norske Veritas.",
+      "keywords": [
+        "csr",
+        "basis",
+        "classification",
+        "design",
+        "issues",
+        "societies",
+        "was",
+        "additional"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 125,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_05_05_tanker_prices_stronger_than_steel__s04_heavy_lifting",
+      "doc_id": "poten_tankers_no_date_poten_2006_05_05_tanker_prices_stronger_than_steel",
+      "parent_id": "poten_tankers_no_date_poten_2006_05_05_tanker_prices_stronger_than_steel__root",
+      "title": "Heavy Lifting",
+      "section_path": [
+        "Heavy Lifting"
+      ],
+      "section_path_text": "Heavy Lifting",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Overall, the amount of steel required for each ship is set to increase between 3-7% depending on the size of the vessel. Given current approximate steel price increase of around $600/ton and an estimated 40,000 tons of steel in a VLCC, expect at least another $1 million increase in prices.",
+      "keywords": [
+        "vlcc",
+        "steel",
+        "increase",
+        "owners",
+        "each",
+        "first",
+        "quarter",
+        "versus"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 214,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_05_05_tanker_prices_stronger_than_steel__s05_week_1",
+      "doc_id": "poten_tankers_no_date_poten_2006_05_05_tanker_prices_stronger_than_steel",
+      "parent_id": "poten_tankers_no_date_poten_2006_05_05_tanker_prices_stronger_than_steel__root",
+      "title": "Week 1",
+      "section_path": [
+        "Week 1"
+      ],
+      "section_path_text": "Week 1",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Week 5 Week 9 Week 13 Week 17 The total number of tankers greater than 30,000 MT ordered in the first quarter of 2006 is 104, as compared to first quarter of last year that posted only 61. Many of those ordered in 2006 are VLCCs.",
+      "keywords": [
+        "vlcc",
+        "steel",
+        "are",
+        "first",
+        "five",
+        "ordered",
+        "prices",
+        "quarter"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 145,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

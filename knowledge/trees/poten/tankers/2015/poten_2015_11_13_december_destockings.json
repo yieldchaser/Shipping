@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2015_11_13_december_destockings__root",
+  "doc_id": "poten_tankers_no_date_poten_2015_11_13_december_destockings",
+  "parent_id": null,
+  "title": "December deStockings",
+  "section_path": [
+    "December deStockings"
+  ],
+  "section_path_text": "December deStockings",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Impact of Year End Crude Oil Inventory Management\nAs the end of the year approaches, companies are looking at their financial performance and their balance sheets to take steps to optimize their financial results and manage their tax liabilities. For refiners and other oil companies, this includes reviewing their inventory levels to improve their working capital positions and in some places to reduce their tax bill on inventories. Will this have an impact on the tanker market in the final months of 2015?",
+  "keywords": [
+    "crude_oil",
+    "oil",
+    "are",
+    "inventory",
+    "companies",
+    "tax",
+    "u.s.",
+    "padd",
+    "year",
+    "crude",
+    "december",
+    "inventories"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 704,
+  "source_path": "reports/poten/2015/poten_2015-11-13_december-destockings.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2015_11_13_december_destockings__s01_impact_of_year_end_crude_oil_inventory_management",
+      "doc_id": "poten_tankers_no_date_poten_2015_11_13_december_destockings",
+      "parent_id": "poten_tankers_no_date_poten_2015_11_13_december_destockings__root",
+      "title": "Impact of Year End Crude Oil Inventory Management",
+      "section_path": [
+        "Impact of Year End Crude Oil Inventory Management"
+      ],
+      "section_path_text": "Impact of Year End Crude Oil Inventory Management",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As the end of the year approaches, companies are looking at their financial performance and their balance sheets to take steps to optimize their financial results and manage their tax liabilities. For refiners and other oil companies, this includes reviewing their inventory levels to improve their working capital positions and in some places to reduce their tax bill on inventories.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "are",
+        "companies",
+        "inventory",
+        "tax",
+        "u.s.",
+        "padd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 694,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

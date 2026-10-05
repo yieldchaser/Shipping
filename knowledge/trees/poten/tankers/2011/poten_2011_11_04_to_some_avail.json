@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_11_04_to_some_avail__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_11_04_to_some_avail",
+  "parent_id": null,
+  "title": "To Some Avail",
+  "section_path": [
+    "To Some Avail"
+  ],
+  "section_path_text": "To Some Avail",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "To Some Avail\nThe pre‐Halloween snow storm on the US Atlantic coast and the impending winter weather in the northern hemisphere are stoking tanker owners' hopes for any kind of a market rally. The fourth quarter has sometimes been known to be lucrative for tanker owners as completion of refinery maintenance, seasonal petroleum demand and reduced daylight hours have historically increased demand for ships. An uptick in freight rates in the last weeks of October has many hoping for more signs of a winter upswing, but fundamentals remain strained, dampening the degree of upside potential.",
+  "keywords": [
+    "vlcc",
+    "atlantic",
+    "meg",
+    "crude_oil",
+    "average",
+    "charterers",
+    "liftings",
+    "arabian",
+    "gulf",
+    "october",
+    "availabilities",
+    "availability"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 593,
+  "source_path": "reports/poten/2011/poten_2011-11-04_to-some-avail.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_11_04_to_some_avail__s01_to_some_avail",
+      "doc_id": "poten_tankers_no_date_poten_2011_11_04_to_some_avail",
+      "parent_id": "poten_tankers_no_date_poten_2011_11_04_to_some_avail__root",
+      "title": "To Some Avail",
+      "section_path": [
+        "To Some Avail"
+      ],
+      "section_path_text": "To Some Avail",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The pre‐Halloween snow storm on the US Atlantic coast and the impending winter weather in the northern hemisphere are stoking tanker owners' hopes for any kind of a market rally. The fourth quarter has sometimes been known to be lucrative for tanker owners as completion of refinery maintenance, seasonal petroleum demand and reduced daylight hours have historically increased demand for ships.",
+      "keywords": [
+        "atlantic",
+        "meg",
+        "demand",
+        "owners",
+        "winter",
+        "against",
+        "any",
+        "arabian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 208,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_11_04_to_some_avail__s02_liftings",
+      "doc_id": "poten_tankers_no_date_poten_2011_11_04_to_some_avail",
+      "parent_id": "poten_tankers_no_date_poten_2011_11_04_to_some_avail__root",
+      "title": "Liftings",
+      "section_path": [
+        "Liftings"
+      ],
+      "section_path_text": "Liftings",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Spot Availability ‐ Next 30 Days Period Average ‐ Availabilities The VLCC spot availability \"next 30 days\" in the Arabian Gulf averaged about 40 vessels from 2001‐ 2004. From January 2009 to present, that number has increased to almost 90 ships, reflecting a 115% increase in total availabilities, while the average number of liftings increased by 6% comparatively.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "crude_oil",
+        "average",
+        "arabian",
+        "availabilities",
+        "gulf",
+        "liftings"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 186,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_11_04_to_some_avail__s03_liftings",
+      "doc_id": "poten_tankers_no_date_poten_2011_11_04_to_some_avail",
+      "parent_id": "poten_tankers_no_date_poten_2011_11_04_to_some_avail__root",
+      "title": "Liftings",
+      "section_path": [
+        "Liftings"
+      ],
+      "section_path_text": "Liftings",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Worldscale Rate While the supply overhang is tough to evade, the upturn in VLCC rates seen in late‐October was largely driven by the sensitivity of charterers' lifting dates. Vetting requirements, the quality of available tonnage, and the increasing unwillingness of charterers to conduct business with companies under financial pressure has resulted in the emergence of a tiered supply situation.",
+      "keywords": [
+        "vlcc",
+        "charterers",
+        "business",
+        "largely",
+        "quality",
+        "supply",
+        "tiered",
+        "available"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 186,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

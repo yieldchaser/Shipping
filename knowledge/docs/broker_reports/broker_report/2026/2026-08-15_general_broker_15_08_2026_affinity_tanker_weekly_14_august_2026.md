@@ -215,7 +215,7 @@ numeric_observations:
     Mn is now on
   unit: usd
   values:
-  - 6200.0
+  - 6.2
 - section: Market Report Content
   section_type: null
   source_line: this has also moved on well, with a 20-point improvement leading to
@@ -377,9 +377,9 @@ numeric_observations:
   source_line: Δ W-O-W 8.6 8.2 9.9
   unit: null
   values:
-  - 8600.0
-  - 8200.0
-  - 9900.0
+  - 8.6
+  - 8.2
+  - 9.9
 - section: Market Report Content
   section_type: null
   source_line: 6 Route Qty $ / Day W-O-W

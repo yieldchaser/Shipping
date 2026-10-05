@@ -125,7 +125,7 @@ numeric_observations:
   source_line: accounted for 29.5% of global
   unit: pct
   values:
-  - 29500.0
+  - 29.5
 - section: Market Report Content
   section_type: null
   source_line: 40%, reflecting the ongoing war in
@@ -137,7 +137,7 @@ numeric_observations:
   source_line: +9.3% y-o-y to 165.5 mln t in Jan-
   unit: pct
   values:
-  - 9300.0
+  - 9.3
   - 165.5
 - section: Market Report Content
   section_type: null
@@ -145,20 +145,20 @@ numeric_observations:
   unit: pct
   values:
   - 2026.0
-  - 12000.0
+  - 12.0
 - section: Market Report Content
   section_type: null
   source_line: by +34.2% y-o-y to 188.9 mln t.
   unit: pct
   values:
-  - 34200.0
+  - 34.2
   - 188.9
 - section: Market Report Content
   section_type: null
   source_line: +15.4% y-o-y to 137.5 mln t.
   unit: pct
   values:
-  - 15400.0
+  - 15.4
   - 137.5
 - section: Market Report Content
   section_type: null
@@ -172,13 +172,13 @@ numeric_observations:
   source_line: From ASEAN exports rose by +11.2%
   unit: pct
   values:
-  - 11200.0
+  - 11.2
 - section: Market Report Content
   section_type: null
   source_line: y-o-y to 78.5 mln t in Jan-Aug 2026
   unit: null
   values:
-  - 78500.0
+  - 78.5
   - 2026.0
 - section: Market Report Content
   section_type: null
@@ -191,7 +191,7 @@ numeric_observations:
   source_line: accounting for 19.0% of global trade.
   unit: pct
   values:
-  - 19000.0
+  - 19.0
 - section: Market Report Content
   section_type: null
   source_line: Imports into the EU27 increased by
@@ -210,7 +210,7 @@ numeric_observations:
   source_line: accounting for 22.6% of global trade,
   unit: pct
   values:
-  - 22600.0
+  - 22.6
 - section: Market Report Content
   section_type: null
   source_line: -7.6% y-o-y to 176.6 mln t. Imports
@@ -237,14 +237,14 @@ numeric_observations:
   unit: pct
   values:
   - -11.0
-  - 82500.0
+  - 82.5
 - section: Market Report Content
   section_type: null
   source_line: imports fell by -15.1% y-o-y to 63.0
   unit: pct
   values:
   - -15.1
-  - 63000.0
+  - 63.0
 - section: Market Report Content
   section_type: null
   source_line: mln t in Jan-Aug 2026.
@@ -256,20 +256,20 @@ numeric_observations:
   source_line: +5.6% y-o-y to 85.8 mln t in Jan-Aug
   unit: pct
   values:
-  - 5600.0
-  - 85800.0
+  - 5.6
+  - 85.8
 - section: Market Report Content
   section_type: null
   source_line: crude oil in the world, with a 19.0%
   unit: pct
   values:
-  - 19000.0
+  - 19.0
 - section: Market Report Content
   section_type: null
   source_line: the European Union, whose 22.6%
   unit: pct
   values:
-  - 22600.0
+  - 22.6
 - section: Market Report Content
   section_type: null
   source_line: In Jan-Dec 2025, imports into China
@@ -306,7 +306,7 @@ numeric_observations:
   source_line: About 76.5 percent of volumes
   unit: null
   values:
-  - 76500.0
+  - 76.5
 - section: Market Report Content
   section_type: null
   source_line: discharged in China in Jan-Aug 2026
@@ -318,19 +318,19 @@ numeric_observations:
   source_line: were carried in VLCCs, about 5.0
   unit: null
   values:
-  - 5000.0
+  - 5.0
 - section: Market Report Content
   section_type: null
   source_line: and 17.8 percent in Aframaxes.
   unit: null
   values:
-  - 17800.0
+  - 17.8
 - section: Market Report Content
   section_type: null
   source_line: 'China are: Dongjiakou (28.9 mln'
   unit: null
   values:
-  - 28900.0
+  - 28.9
 - section: Market Report Content
   section_type: null
   source_line: tonnes in Jan-Aug 2026),
@@ -342,70 +342,70 @@ numeric_observations:
   source_line: Ningbo/Zhoushan (27.7 mln t),
   unit: null
   values:
-  - 27700.0
+  - 27.7
 - section: Market Report Content
   section_type: null
   source_line: Lanshan (24.7), Beilun (14.8),
   unit: null
   values:
-  - 24700.0
-  - 14800.0
+  - 24.7
+  - 14.8
 - section: Market Report Content
   section_type: null
   source_line: Zhoushan (13.0), Dalian (12.5),
   unit: null
   values:
-  - 13000.0
-  - 12500.0
+  - 13.0
+  - 12.5
 - section: Market Report Content
   section_type: null
   source_line: Qingdao (12.4), Zhanjiang (11.2),
   unit: null
   values:
-  - 12400.0
-  - 11200.0
+  - 12.4
+  - 11.2
 - section: Market Report Content
   section_type: null
   source_line: Quanzhou (11.1), Huizhou (10.9),
   unit: null
   values:
-  - 11100.0
-  - 10900.0
+  - 11.1
+  - 10.9
 - section: Market Report Content
   section_type: null
   source_line: Tianjin (10.7), Longkou (9.1), Jieyang
   unit: null
   values:
-  - 10700.0
-  - 9100.0
+  - 10.7
+  - 9.1
 - section: Market Report Content
   section_type: null
   source_line: (8.8), Shuidong (8.4), Yantai (8.3),
   unit: null
   values:
-  - 8800.0
-  - 8400.0
-  - 8300.0
+  - 8.8
+  - 8.4
+  - 8.3
 - section: Market Report Content
   section_type: null
   source_line: Cezi (7.6), and Yangpu (7.3).
   unit: null
   values:
-  - 7600.0
-  - 7300.0
+  - 7.6
+  - 7.3
 - section: Market Report Content
   section_type: null
   source_line: has collapsed to 32.6% in Jan-Aug
   unit: pct
   values:
-  - 32600.0
+  - 32.6
 - section: Market Report Content
   section_type: null
   source_line: 2026 from 45.6% in the same period
   unit: pct
   values:
   - 2026.0
-  - 45600.0
+  - 45.6
 - section: Market Report Content
   section_type: null
   source_line: In Jan-Aug 2026, Brazil overtook
@@ -417,19 +417,19 @@ numeric_observations:
   source_line: to China, accounting for 14.1% of
   unit: pct
   values:
-  - 14100.0
+  - 14.1
 - section: Market Report Content
   section_type: null
   source_line: volumes, ahead of Russia at 13.6%
   unit: pct
   values:
-  - 13600.0
+  - 13.6
 - section: Market Report Content
   section_type: null
   source_line: and Saudi Arabia at 13.2%.
   unit: pct
   values:
-  - 13200.0
+  - 13.2
 - section: Market Report Content
   section_type: null
   source_line: In Jan-Aug 2026, China imported
@@ -441,7 +441,7 @@ numeric_observations:
   source_line: 34.4 mln tonnes of crude oil from
   unit: null
   values:
-  - 34400.0
+  - 34.4
 - section: Market Report Content
   section_type: null
   source_line: Saudi Arabia, down -30.9% y-o-y on
@@ -459,7 +459,7 @@ numeric_observations:
   source_line: o-y to 14.5 mln t, and from Kuwait
   unit: null
   values:
-  - 14500.0
+  - 14.5
 - section: Market Report Content
   section_type: null
   source_line: by -78.7% y-o-y to 2.0 mln t.
@@ -473,27 +473,27 @@ numeric_observations:
   unit: pct
   values:
   - -29.1
-  - 13600.0
+  - 13.6
 - section: Market Report Content
   section_type: null
   source_line: -21.4% y-o-y to 18.3 mln t.
   unit: pct
   values:
   - -21.4
-  - 18300.0
+  - 18.3
 - section: Market Report Content
   section_type: null
   source_line: by +31.3% y-o-y in Jan-Aug 2026 to
   unit: pct
   values:
-  - 31300.0
+  - 31.3
   - 2026.0
 - section: Market Report Content
   section_type: null
   source_line: 35.7 mln t.
   unit: null
   values:
-  - 35700.0
+  - 35.7
 - section: Market Report Content
   section_type: null
   source_line: Russian oil) decreased by -30.1% y-o-
@@ -505,7 +505,7 @@ numeric_observations:
   source_line: y to 28.3 mln t in Jan-Aug 2026, and
   unit: null
   values:
-  - 28300.0
+  - 28.3
   - 2026.0
 - section: Market Report Content
   section_type: null
@@ -513,20 +513,20 @@ numeric_observations:
   unit: pct
   values:
   - -21.8
-  - 28600.0
+  - 28.6
 - section: Market Report Content
   section_type: null
   source_line: Volumes from Canada rose to 8.5
   unit: null
   values:
-  - 8500.0
+  - 8.5
 - section: Market Report Content
   section_type: null
   source_line: mln t in Jan-Aug 2026 from 6.6 mln t
   unit: null
   values:
   - 2026.0
-  - 6600.0
+  - 6.6
 - section: Market Report Content
   section_type: null
   source_line: in the same period in Jan-Aug 2025.
@@ -688,13 +688,13 @@ numeric_observations:
   source_line: shipments rising to $42.79 billion in
   unit: usd
   values:
-  - 42790.0
+  - 42.79
 - section: Market Report Content
   section_type: null
   source_line: April-August from $40.39 billion a
   unit: usd
   values:
-  - 40390.0
+  - 40.39
 - section: Market Report Content
   section_type: null
   source_line: Europe faces Q4 jet fuel supply
@@ -755,13 +755,13 @@ numeric_observations:
   source_line: of 20.09 million metric tons of the
   unit: null
   values:
-  - 20090.0
+  - 20.09
 - section: Market Report Content
   section_type: null
   source_line: 19.88 million in September 2018,
   unit: null
   values:
-  - 19880.0
+  - 19.88
   - 2018.0
 - section: Market Report Content
   section_type: null
@@ -801,7 +801,7 @@ numeric_observations:
   source_line: to USD 17.20/wmt on 14 September
   unit: tonnage
   values:
-  - 17200.0
+  - 17.2
   - 14.0
 regions:
 - china
@@ -819,7 +819,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/bancosta_23_09_2026_banchero_costa_weekly_market_report_week_38_2026.md
+source_path: reports/broker_reports/2026/banchero_costa/bancosta_23_09_2026_banchero_costa_weekly_market_report_week_38_2026.md
 source_stem: bancosta_23_09_2026_banchero_costa_weekly_market_report_week_38_2026
 source_url: https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-38-2026/
 summary: 'Banchero Costa Weekly Market Report, Week 38 2026

@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNew building in dry bulk this week, it has been reported Clients of Sea Pioneer Shipping ordered three firm 82k dwt\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-02-24_clarksons-platou-hellas-snp-weekly-bulletin-58_report-24-02-2023_3adbc946b8ef.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-02-24_clarksons-platou-hellas-snp-weekly-bulletin-58_report-24-02-2023_3adbc946b8ef.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 24 February 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 5S50ME-B9.3\n2015 TAIZHOU SS 09/25\nINTERLINK PRIORITY 38,709 Ice Class 1C, 4 x 30 T USD 19.8 M EUROPEANS\nKOUAN DD 11/23\nOHBH, BWTS Fitted\n2007 COCHIN MAN B. 6S42MC7.1 SS 02/26\nPATRONUS 30,587 Box Shaped, 4 x30 T MID USD 7 M TURKISH\nDD 03/24\n(INDIA) BWTS Fitted\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\nSS 04/23\nCOSGLORY LAKE 299,145 2003 UNIVERSAL MAN B.",
+  "summary": "Main\nNew building in dry bulk this week, it has been reported Clients of Sea Pioneer Shipping ordered three firm 82k dwt\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-02-24_clarksons-platou-hellas-snp-weekly-bulletin-58_report-24-02-2023_3adbc946b8ef.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2023-02-24_clarksons-platou-hellas-snp-weekly-bulletin-58_report-24-02-2023_3adbc946b8ef.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin24 February 2023\n\n# Bulk Carriers\n\n### Vessel DWT Built Details SS/DD Price Buyer\n\nMAN B. 5S50ME-B9.3 2015 TAIZHOU SS 09/25 **INTERLINK PRIORITY** 38,709 Ice Class 1C, 4 x 30 T USD 19.8 M EUROPEANS KOUAN DD 11/23 OHBH, BWTS Fitted\n\n2007 COCHIN MAN B. 6S42MC7.1 SS 02/26 **PATRONUS** 30,587 Box Shaped, 4 x30 T MID USD 7 M TURKISH (INDIA) BWTS Fitted DD 03/24\n\n# Tankers - Chemicals - LPG/LNGs\n\n|Vessel|DWT|Built||Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|---|\n|COSGLORY LAKE|299,145|2003 UNIVERSAL||MAN B.",
   "keywords": [
     "lng",
     "lpg",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1933,
-  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-02-24_clarksons-platou-hellas-snp-weekly-bulletin-58.html",
+  "token_count": 2020,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-02-24_clarksons-platou-hellas-snp-weekly-bulletin-58.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-58",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-02-24_clarksons-platou-hellas-snp-weekly-bulletin-58_report-24-02-2023_3adbc946b8ef.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-02-24_clarksons-platou-hellas-snp-weekly-bulletin-58_report-24-02-2023_3adbc946b8ef.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 24 February 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 5S50ME-B9.3\n2015 TAIZHOU SS 09/25\nINTERLINK PRIORITY 38,709 Ice Class 1C, 4 x 30 T USD 19.8 M EUROPEANS\nKOUAN DD 11/23\nOHBH, BWTS Fitted\n2007 COCHIN MAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-02-24_clarksons-platou-hellas-snp-weekly-bulletin-58_report-24-02-2023_3adbc946b8ef.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin24 February 2023\n\n# Bulk Carriers\n\n### Vessel DWT Built Details SS/DD Price Buyer\n\nMAN B. 5S50ME-B9.3 2015 TAIZHOU SS 09/25 **INTERLINK PRIORITY** 38,709 Ice Class 1C, 4 x 30 T USD 19.8 M EUROPEANS KOUAN DD 11/23 OHBH, BWTS Fitted\n\n2007 COCHIN MAN B.",
       "keywords": [
         "lng",
         "lpg",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1849,
+      "token_count": 1936,
       "section_type": "linked_pdf",
       "children": []
     }

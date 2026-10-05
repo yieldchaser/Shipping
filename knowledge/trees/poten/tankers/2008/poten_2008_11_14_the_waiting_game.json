@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_11_14_the_waiting_game__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_11_14_the_waiting_game",
+  "parent_id": null,
+  "title": "The Waiting Game",
+  "section_path": [
+    "The Waiting Game"
+  ],
+  "section_path_text": "The Waiting Game",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Waiting Game\nThe combination of general uncertainty and little activity in the sale and purchase market make the task of assessing asset prices challenging. With few reported deals acting as a benchmark, pessimism has been the primary driver in weakening vessel prices. As shipyards and the market formulate prices, there are some commonalities regardless of sector: steel, labor, engines, piping and finishings.",
+  "keywords": [
+    "vlcc",
+    "steel",
+    "prices",
+    "asset",
+    "financing",
+    "are",
+    "anticipated",
+    "may",
+    "orderbook",
+    "price",
+    "again",
+    "assessed"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 460,
+  "source_path": "reports/poten/2008/poten_2008-11-14_the-waiting-game.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_11_14_the_waiting_game__s01_the_waiting_game",
+      "doc_id": "poten_tankers_no_date_poten_2008_11_14_the_waiting_game",
+      "parent_id": "poten_tankers_no_date_poten_2008_11_14_the_waiting_game__root",
+      "title": "The Waiting Game",
+      "section_path": [
+        "The Waiting Game"
+      ],
+      "section_path_text": "The Waiting Game",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The combination of general uncertainty and little activity in the sale and purchase market make the task of assessing asset prices challenging. With few reported deals acting as a benchmark, pessimism has been the primary driver in weakening vessel prices.",
+      "keywords": [
+        "vlcc",
+        "steel",
+        "price",
+        "prices",
+        "prices.",
+        "acting",
+        "activity",
+        "although"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 134,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_11_14_the_waiting_game__s02_assessed_asset_price",
+      "doc_id": "poten_tankers_no_date_poten_2008_11_14_the_waiting_game",
+      "parent_id": "poten_tankers_no_date_poten_2008_11_14_the_waiting_game__root",
+      "title": "Assessed Asset Price",
+      "section_path": [
+        "Assessed Asset Price"
+      ],
+      "section_path_text": "Assessed Asset Price",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "In the past few weeks, prices have - in theory - declined. Nevertheless, levels today are generally in line with prices at the start of this year.",
+      "keywords": [
+        "prices",
+        "are",
+        "argue",
+        "asset",
+        "but",
+        "can",
+        "collapse",
+        "correcting"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 65,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_11_14_the_waiting_game__s03_take_it_to_the_bank",
+      "doc_id": "poten_tankers_no_date_poten_2008_11_14_the_waiting_game",
+      "parent_id": "poten_tankers_no_date_poten_2008_11_14_the_waiting_game__root",
+      "title": "Take it to the bank",
+      "section_path": [
+        "Take it to the bank"
+      ],
+      "section_path_text": "Take it to the bank",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The financing challenges represent a large concern for shipowners and yards. The chart represents the current orderbook value estimated at $590 billion for all vessels and the anticipated required financing by sector.",
+      "keywords": [
+        "financing",
+        "billion",
+        "all",
+        "anticipated",
+        "assuming",
+        "challenges",
+        "chart",
+        "concern"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 58,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_11_14_the_waiting_game__s04_orderbook_cost",
+      "doc_id": "poten_tankers_no_date_poten_2008_11_14_the_waiting_game",
+      "parent_id": "poten_tankers_no_date_poten_2008_11_14_the_waiting_game__root",
+      "title": "Orderbook Cost",
+      "section_path": [
+        "Orderbook Cost"
+      ],
+      "section_path_text": "Orderbook Cost",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Anticipated Financing While it is generally understood that banks will be hard pressed to add further shipping loans to their portfolios for the remainder of this year, the expectations are that lending will resume in 2009. The required debt needed to finance the orderbook is quite substantial, but the aftermath of bank restructuring may allow for capital to once again become available.",
+      "keywords": [
+        "again",
+        "anticipated",
+        "are",
+        "asset",
+        "assets",
+        "available",
+        "capital",
+        "could"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 184,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

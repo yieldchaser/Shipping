@@ -1,0 +1,244 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_03_25_and_the_beat_goes_on__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_03_25_and_the_beat_goes_on",
+  "parent_id": null,
+  "title": "And the Beat Goes On",
+  "section_path": [
+    "And the Beat Goes On"
+  ],
+  "section_path_text": "And the Beat Goes On",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "And the Beat Goes On\nOne of the big drivers of tanker demand is worldwide demand for crude oil. As shown below, the trend has been clearly up and is projected to remain that way. World Oil Consumption\n2002 2003 2004 2005 Proj 60 What may not be apparent in looking at absolute values is the degree of change and the rate of change in oil consumption.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "australia",
+    "pacific",
+    "meg",
+    "europe",
+    "japan",
+    "crude_oil",
+    "oil",
+    "growth",
+    "opec",
+    "world"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 711,
+  "source_path": "reports/poten/2005/poten_2005-03-25_and-the-beat-goes-on.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_03_25_and_the_beat_goes_on__s01_and_the_beat_goes_on",
+      "doc_id": "poten_tankers_no_date_poten_2005_03_25_and_the_beat_goes_on",
+      "parent_id": "poten_tankers_no_date_poten_2005_03_25_and_the_beat_goes_on__root",
+      "title": "And the Beat Goes On",
+      "section_path": [
+        "And the Beat Goes On"
+      ],
+      "section_path_text": "And the Beat Goes On",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "One of the big drivers of tanker demand is worldwide demand for crude oil. As shown below, the trend has been clearly up and is projected to remain that way.",
+      "keywords": [
+        "crude_oil",
+        "demand",
+        "below",
+        "big",
+        "clearly",
+        "crude",
+        "drivers",
+        "oil."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 33,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_03_25_and_the_beat_goes_on__s02_world_oil_consumption",
+      "doc_id": "poten_tankers_no_date_poten_2005_03_25_and_the_beat_goes_on",
+      "parent_id": "poten_tankers_no_date_poten_2005_03_25_and_the_beat_goes_on__root",
+      "title": "World Oil Consumption",
+      "section_path": [
+        "World Oil Consumption"
+      ],
+      "section_path_text": "World Oil Consumption",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "2002 2003 2004 2005 Proj 60 What may not be apparent in looking at absolute values is the degree of change and the rate of change in oil consumption. The rate of change has actually been accelerating over the last two years as seen on the next page along with the rate of change for a selection of consuming areas.",
+      "keywords": [
+        "crude_oil",
+        "change",
+        "absolute",
+        "accelerating",
+        "actually",
+        "along",
+        "apparent",
+        "areas."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 70,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_03_25_and_the_beat_goes_on__s03_demand_accelerating",
+      "doc_id": "poten_tankers_no_date_poten_2005_03_25_and_the_beat_goes_on",
+      "parent_id": "poten_tankers_no_date_poten_2005_03_25_and_the_beat_goes_on__root",
+      "title": "Demand Accelerating",
+      "section_path": [
+        "Demand Accelerating"
+      ],
+      "section_path_text": "Demand Accelerating",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "With the exception of OECD Pacific (Japan, Korea, Australia, and New Zealand), oil consumption growth rates over the last two years have been accelerating. Even Europe is showing increased growth after almost two decades of stagnant or decreasing demand.",
+      "keywords": [
+        "australia",
+        "pacific",
+        "europe",
+        "japan",
+        "crude_oil",
+        "growth",
+        "two",
+        "accelerating."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 65,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_03_25_and_the_beat_goes_on__s04_year_to_year_percentage_change_in_oil_consumption",
+      "doc_id": "poten_tankers_no_date_poten_2005_03_25_and_the_beat_goes_on",
+      "parent_id": "poten_tankers_no_date_poten_2005_03_25_and_the_beat_goes_on__root",
+      "title": "Year to Year Percentage Change in Oil Consumption",
+      "section_path": [
+        "Year to Year Percentage Change in Oil Consumption"
+      ],
+      "section_path_text": "Year to Year Percentage Change in Oil Consumption",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "proj"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 20,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_03_25_and_the_beat_goes_on__s05_world",
+      "doc_id": "poten_tankers_no_date_poten_2005_03_25_and_the_beat_goes_on",
+      "parent_id": "poten_tankers_no_date_poten_2005_03_25_and_the_beat_goes_on__root",
+      "title": "World",
+      "section_path": [
+        "World"
+      ],
+      "section_path_text": "World",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "North America OECD Europe OECD Pacific Other Asia China",
+      "keywords": [
+        "china",
+        "pacific",
+        "europe",
+        "oecd",
+        "america",
+        "asia",
+        "north",
+        "other"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_03_25_and_the_beat_goes_on__s06_non_opec_supply_lagging",
+      "doc_id": "poten_tankers_no_date_poten_2005_03_25_and_the_beat_goes_on",
+      "parent_id": "poten_tankers_no_date_poten_2005_03_25_and_the_beat_goes_on__root",
+      "title": "Non-OPEC Supply Lagging",
+      "section_path": [
+        "Non-OPEC Supply Lagging"
+      ],
+      "section_path_text": "Non-OPEC Supply Lagging",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "The chart on the next page shows changes in non-OPEC supply. North America exhibited no growth in supply between 2003 and 2004 and China exhibited no growth in supply between 2002 and 2003.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "growth",
+        "opec",
+        "between",
+        "exhibited",
+        "keep",
+        "non-opec"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 185,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_03_25_and_the_beat_goes_on__s07_year_to_year_percentage_change_in_oil_supply",
+      "doc_id": "poten_tankers_no_date_poten_2005_03_25_and_the_beat_goes_on",
+      "parent_id": "poten_tankers_no_date_poten_2005_03_25_and_the_beat_goes_on__root",
+      "title": "Year to Year Percentage Change in Oil Supply",
+      "section_path": [
+        "Year to Year Percentage Change in Oil Supply"
+      ],
+      "section_path_text": "Year to Year Percentage Change in Oil Supply",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "",
+      "keywords": [
+        "proj"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 20,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_03_25_and_the_beat_goes_on__s08_north_america",
+      "doc_id": "poten_tankers_no_date_poten_2005_03_25_and_the_beat_goes_on",
+      "parent_id": "poten_tankers_no_date_poten_2005_03_25_and_the_beat_goes_on__root",
+      "title": "North America",
+      "section_path": [
+        "North America"
+      ],
+      "section_path_text": "North America",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Europe Russia Africa China OPEC Not surprisingly, 2002-2004 were years of growth for OPEC Arabian Gulf crude exports. Key Question- as shown on the chart, OPEC AG production appears to be topping out, but this is misleading.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "meg",
+        "europe",
+        "crude_oil",
+        "oil",
+        "high",
+        "not"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 262,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

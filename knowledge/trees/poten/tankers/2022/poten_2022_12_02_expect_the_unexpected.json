@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2022_12_02_expect_the_unexpected__root",
+  "doc_id": "poten_tankers_no_date_poten_2022_12_02_expect_the_unexpected",
+  "parent_id": null,
+  "title": "Expect The Unexpected",
+  "section_path": [
+    "Expect The Unexpected"
+  ],
+  "section_path_text": "Expect The Unexpected",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The oil and tanker markets remain volatile and unpredictable\nAs we are approaching the December 5 deadline, the oil and tanker markets continue to be both volatile and unpredictable. At the time of writing, the EU seems to have agreed a $60/barrel oil price cap for Russian oil. Some EU countries, such as Poland, which thought that price was too high and did not punish Russian oil revenues enough, have dropped their opposition.",
+  "keywords": [
+    "china",
+    "crude_oil",
+    "oil",
+    "price",
+    "cap",
+    "russian",
+    "not",
+    "russia",
+    "are",
+    "opec",
+    "december",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 873,
+  "source_path": "reports/poten/2022/poten_2022-12-02_expect-the-unexpected.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_12_02_expect_the_unexpected__s01_the_oil_and_tanker_markets_remain_volatile_and_unpredictable",
+      "doc_id": "poten_tankers_no_date_poten_2022_12_02_expect_the_unexpected",
+      "parent_id": "poten_tankers_no_date_poten_2022_12_02_expect_the_unexpected__root",
+      "title": "The oil and tanker markets remain volatile and unpredictable",
+      "section_path": [
+        "The oil and tanker markets remain volatile and unpredictable"
+      ],
+      "section_path_text": "The oil and tanker markets remain volatile and unpredictable",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As we are approaching the December 5 deadline, the oil and tanker markets continue to be both volatile and unpredictable. At the time of writing, the EU seems to have agreed a $60/barrel oil price cap for Russian oil.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "oil",
+        "price",
+        "cap",
+        "russian",
+        "not",
+        "russia"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 863,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_04_01_100_per_barrel_crude_april_fool__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_04_01_100_per_barrel_crude_april_fool",
+  "parent_id": null,
+  "title": "$100+ Per Barrel Crude: April Fool?",
+  "section_path": [
+    "$100+ Per Barrel Crude: April Fool?"
+  ],
+  "section_path_text": "$100+ Per Barrel Crude: April Fool?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "$100+ Per Barrel Crude: April Fool? Goldman Sachs did a gutsy thing: they stuck their neck out. They have publicly commented that the upper range of their price forecast might spike at $105 per barrel.",
+  "keywords": [
+    "china",
+    "europe",
+    "japan",
+    "grain",
+    "crude_oil",
+    "products",
+    "gas",
+    "oil",
+    "per",
+    "prices",
+    "americans",
+    "gasoline"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1017,
+  "source_path": "reports/poten/2005/poten_2005-04-01_100-per-barrel-crude-april-fool.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_04_01_100_per_barrel_crude_april_fool__s01_100_per_barrel_crude_april_fool",
+      "doc_id": "poten_tankers_no_date_poten_2005_04_01_100_per_barrel_crude_april_fool",
+      "parent_id": "poten_tankers_no_date_poten_2005_04_01_100_per_barrel_crude_april_fool__root",
+      "title": "$100+ Per Barrel Crude: April Fool?",
+      "section_path": [
+        "$100+ Per Barrel Crude: April Fool?"
+      ],
+      "section_path_text": "$100+ Per Barrel Crude: April Fool?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Goldman Sachs did a gutsy thing: they stuck their neck out. They have publicly commented that the upper range of their price forecast might spike at $105 per barrel.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "products",
+        "gas",
+        "per",
+        "forecast",
+        "americans",
+        "barrel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 352,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_04_01_100_per_barrel_crude_april_fool__s02_constant_2003",
+      "doc_id": "poten_tankers_no_date_poten_2005_04_01_100_per_barrel_crude_april_fool",
+      "parent_id": "poten_tankers_no_date_poten_2005_04_01_100_per_barrel_crude_april_fool__root",
+      "title": "Constant 2003$",
+      "section_path": [
+        "Constant 2003$"
+      ],
+      "section_path_text": "Constant 2003$",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "current"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_04_01_100_per_barrel_crude_april_fool__s03_today_s_price",
+      "doc_id": "poten_tankers_no_date_poten_2005_04_01_100_per_barrel_crude_april_fool",
+      "parent_id": "poten_tankers_no_date_poten_2005_04_01_100_per_barrel_crude_april_fool__root",
+      "title": "Today's Price",
+      "section_path": [
+        "Today's Price"
+      ],
+      "section_path_text": "Today's Price",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "How Did Americans React Back Then? The following chart shows total gasoline consumption from 1970 to 1990.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "change",
+        "gasoline",
+        "americans",
+        "back",
+        "between"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 41,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_04_01_100_per_barrel_crude_april_fool__s04_oil_price_constant",
+      "doc_id": "poten_tankers_no_date_poten_2005_04_01_100_per_barrel_crude_april_fool",
+      "parent_id": "poten_tankers_no_date_poten_2005_04_01_100_per_barrel_crude_april_fool__root",
+      "title": "Oil Price Constant $",
+      "section_path": [
+        "Oil Price Constant $"
+      ],
+      "section_path_text": "Oil Price Constant $",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Gasoline Consumption Americans endured a decade of oil price increases of unprecedented magnitude before there was any real reduction in gasoline consumption. And when they did cut back on gasoline consumption, they continued to do so after the price of oil began to fall.",
+      "keywords": [
+        "grain",
+        "crude_oil",
+        "products",
+        "gas",
+        "gasoline",
+        "consumption",
+        "oil",
+        "fall."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 63,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_04_01_100_per_barrel_crude_april_fool__s05_what_can_we_conclude",
+      "doc_id": "poten_tankers_no_date_poten_2005_04_01_100_per_barrel_crude_april_fool",
+      "parent_id": "poten_tankers_no_date_poten_2005_04_01_100_per_barrel_crude_april_fool__root",
+      "title": "What Can We Conclude?",
+      "section_path": [
+        "What Can We Conclude?"
+      ],
+      "section_path_text": "What Can We Conclude?",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Americans don't seem to know a thing about Economics 101- they violate all the rules! They buy more as prices climb and buy less when prices fall.",
+      "keywords": [
+        "buy",
+        "per",
+        "prices",
+        "when",
+        "all",
+        "americans",
+        "automobile.",
+        "behavior"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 60,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_04_01_100_per_barrel_crude_april_fool__s06_oil_price_constant",
+      "doc_id": "poten_tankers_no_date_poten_2005_04_01_100_per_barrel_crude_april_fool",
+      "parent_id": "poten_tankers_no_date_poten_2005_04_01_100_per_barrel_crude_april_fool__root",
+      "title": "Oil Price Constant $",
+      "section_path": [
+        "Oil Price Constant $"
+      ],
+      "section_path_text": "Oil Price Constant $",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "000 Miles Driven Here we see the classic economical reaction to high oil prices- Americans reduced miles driven per year by about 10% through a combination of car pooling, thinking twice about 30 separate trips to the shopping mall, and driving to nearby rather than faraway summer vacation spots. The chart on the following page shows the change in fuel mileage for the American automobile fleet.",
+      "keywords": [
+        "europe",
+        "japan",
+        "crude_oil",
+        "gas",
+        "automobile",
+        "americans",
+        "driven",
+        "miles"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 135,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_04_01_100_per_barrel_crude_april_fool__s07_oil_price_constant",
+      "doc_id": "poten_tankers_no_date_poten_2005_04_01_100_per_barrel_crude_april_fool",
+      "parent_id": "poten_tankers_no_date_poten_2005_04_01_100_per_barrel_crude_april_fool__root",
+      "title": "Oil Price Constant $",
+      "section_path": [
+        "Oil Price Constant $"
+      ],
+      "section_path_text": "Oil Price Constant $",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "",
+      "keywords": [
+        "gallon",
+        "miles",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_04_01_100_per_barrel_crude_april_fool__s08_so_what_s_in_store",
+      "doc_id": "poten_tankers_no_date_poten_2005_04_01_100_per_barrel_crude_april_fool",
+      "parent_id": "poten_tankers_no_date_poten_2005_04_01_100_per_barrel_crude_april_fool__root",
+      "title": "So What's in Store?",
+      "section_path": [
+        "So What's in Store?"
+      ],
+      "section_path_text": "So What's in Store?",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "If the past is prelude to the future, oil prices will have to escalate much further from present levels and stay there for an appreciable span of time before Americans make a meaningful change in driving habits and automobile purchases. On the margin there will be some consideration to driving less and buying hybrids over SUVs and Hummers.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "products",
+        "gas",
+        "oil",
+        "prices",
+        "automobile",
+        "light"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 314,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2022_10_14_the_battle_for_african_barrels__root",
+  "doc_id": "poten_tankers_no_date_poten_2022_10_14_the_battle_for_african_barrels",
+  "parent_id": null,
+  "title": "The Battle For African Barrels",
+  "section_path": [
+    "The Battle For African Barrels"
+  ],
+  "section_path_text": "The Battle For African Barrels",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The changes in African export flows will impact tankers\nIn August 2021, we wrote a Tanker Opinion about the impact that the new 650,000 b/d Dangote refinery in Nigeria will have on the tanker market once it starts up (27 August 2021, A Game Changer In Africa ). At the time, the target date was in 2022, but now the startup is expected to be in the first half of 2023. As we explained in the previous Tanker Opinion, the impact of the new refinery on the fuel supply in Nigeria will be significant (a \"Game Changer\").",
+  "keywords": [
+    "china",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "oil",
+    "crude",
+    "nigeria",
+    "angola",
+    "are",
+    "can",
+    "chinese",
+    "its"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 982,
+  "source_path": "reports/poten/2022/poten_2022-10-14_the-battle-for-african-barrels.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_10_14_the_battle_for_african_barrels__s01_the_changes_in_african_export_flows_will_impact_tankers",
+      "doc_id": "poten_tankers_no_date_poten_2022_10_14_the_battle_for_african_barrels",
+      "parent_id": "poten_tankers_no_date_poten_2022_10_14_the_battle_for_african_barrels__root",
+      "title": "The changes in African export flows will impact tankers",
+      "section_path": [
+        "The changes in African export flows will impact tankers"
+      ],
+      "section_path_text": "The changes in African export flows will impact tankers",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In August 2021, we wrote a Tanker Opinion about the impact that the new 650,000 b/d Dangote refinery in Nigeria will have on the tanker market once it starts up (27 August 2021, A Game Changer In Africa ). At the time, the target date was in 2022, but now the startup is expected to be in the first half of 2023.",
+      "keywords": [
+        "china",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "oil",
+        "crude",
+        "nigeria",
+        "angola"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 971,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

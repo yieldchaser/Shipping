@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2025_08_29_the_next_african_giant__root",
+  "doc_id": "poten_tankers_no_date_poten_2025_08_29_the_next_african_giant",
+  "parent_id": null,
+  "title": "The Next African Giant",
+  "section_path": [
+    "The Next African Giant"
+  ],
+  "section_path_text": "The Next African Giant",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "A bright future for oil production and exports from Namibia\nAfrica has always been a prolific source of new oil discoveries. In West Africa, countries like Nigeria and Angola have been a mainstay of the international oil markets for decades. Others, like The Republic of the Congo, Ghana, Gabon, and Equatorial Guinea, are more recent additions to the energy landscape.",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "suezmax",
+    "brazil",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "gas",
+    "oil",
+    "africa",
+    "namibia",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 648,
+  "source_path": "reports/poten/2025/poten_2025-08-29_the-next-african-giant.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2025_08_29_the_next_african_giant__s01_a_bright_future_for_oil_production_and_exports_from_namibia",
+      "doc_id": "poten_tankers_no_date_poten_2025_08_29_the_next_african_giant",
+      "parent_id": "poten_tankers_no_date_poten_2025_08_29_the_next_african_giant__root",
+      "title": "A bright future for oil production and exports from Namibia",
+      "section_path": [
+        "A bright future for oil production and exports from Namibia"
+      ],
+      "section_path_text": "A bright future for oil production and exports from Namibia",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Africa has always been a prolific source of new oil discoveries. In West Africa, countries like Nigeria and Angola have been a mainstay of the international oil markets for decades.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "suezmax",
+        "brazil",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 636,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -25,7 +25,7 @@ keywords:
 - clarksons
 - its
 market_tone: constructive
-numeric_observation_count: 23
+numeric_observation_count: 22
 numeric_observations:
 - section: CLARKSONS HELLAS - SnP WEEKLY
   section_type: null
@@ -70,7 +70,7 @@ numeric_observations:
   values:
   - 82167.0
   - 2012.0
-  - 23500.0
+  - 23.5
 - section: Market Report Content
   section_type: null
   source_line: Meanwhile, a 1999-built Handysize, the "Rong Fu" (28,419 DWT, Imabari
@@ -128,12 +128,6 @@ numeric_observations:
   values:
   - 11.0
   - 2026.0
-- section: Market Report Content
-  section_type: null
-  source_line: USD 23.5 M U/D
-  unit: usd
-  values:
-  - 23500.0
 - section: Market Report Content
   section_type: null
   source_line: RONG FU 28,419 1999 IMABARI SB B. & W. 6S42MC6

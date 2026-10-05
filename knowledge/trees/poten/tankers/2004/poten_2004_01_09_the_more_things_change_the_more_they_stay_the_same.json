@@ -1,0 +1,274 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2004_01_09_the_more_things_change_the_more_they_stay_the_same__root",
+  "doc_id": "poten_tankers_no_date_poten_2004_01_09_the_more_things_change_the_more_they_stay_the_same",
+  "parent_id": null,
+  "title": "The More Things Change... The More They Stay the Same",
+  "section_path": [
+    "The More Things Change... The More They Stay the Same"
+  ],
+  "section_path_text": "The More Things Change... The More They Stay the Same",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The More They Stay the Same\nThe 2003 tanker market will be remembered as one of considerable volatility enhanced by fluctuating natural gas prices, European Union double- hull regulations and increased demand which saw rates soar from below cash breakeven in the summer to record World Scale levels in December. On the cusp of the new year, owners of VLCCs and Suezmaxes received upwards of $90,000/day. One thing that has not changed, however is that the majority of spot market activity each year is created by relatively few charterers.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "brazil",
+    "west_africa",
+    "europe",
+    "india",
+    "crude_oil",
+    "gas",
+    "charterers"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1221,
+  "source_path": "reports/poten/2004/poten_2004-01-09_the-more-things-change-the-more-they-stay-the-same.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_01_09_the_more_things_change_the_more_they_stay_the_same__s01_the_more_things_change_the_more_they_stay_the_same",
+      "doc_id": "poten_tankers_no_date_poten_2004_01_09_the_more_things_change_the_more_they_stay_the_same",
+      "parent_id": "poten_tankers_no_date_poten_2004_01_09_the_more_things_change_the_more_they_stay_the_same__root",
+      "title": "The More Things Change... The More They Stay the Same",
+      "section_path": [
+        "The More Things Change... The More They Stay the Same"
+      ],
+      "section_path_text": "The More Things Change... The More They Stay the Same",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The 2003 tanker market will be remembered as one of considerable volatility enhanced by fluctuating natural gas prices, European Union double- hull regulations and increased demand which saw rates soar from below cash breakeven in the summer to record World Scale levels in December. On the cusp of the new year, owners of VLCCs and Suezmaxes received upwards of $90,000/day.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "europe",
+        "gas",
+        "one",
+        "year",
+        "activity",
+        "below"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 106,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_01_09_the_more_things_change_the_more_they_stay_the_same__s02_comparing_charterers_with_fixture_activity",
+      "doc_id": "poten_tankers_no_date_poten_2004_01_09_the_more_things_change_the_more_they_stay_the_same",
+      "parent_id": "poten_tankers_no_date_poten_2004_01_09_the_more_things_change_the_more_they_stay_the_same__root",
+      "title": "Comparing Charterers with Fixture Activity",
+      "section_path": [
+        "Comparing Charterers with Fixture Activity"
+      ],
+      "section_path_text": "Comparing Charterers with Fixture Activity",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "25% of the Charterers Are Responsible for",
+      "keywords": [
+        "are",
+        "charterers",
+        "responsible"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_01_09_the_more_things_change_the_more_they_stay_the_same__s03_of_fixtures",
+      "doc_id": "poten_tankers_no_date_poten_2004_01_09_the_more_things_change_the_more_they_stay_the_same",
+      "parent_id": "poten_tankers_no_date_poten_2004_01_09_the_more_things_change_the_more_they_stay_the_same__root",
+      "title": "% of Fixtures",
+      "section_path": [
+        "% of Fixtures"
+      ],
+      "section_path_text": "% of Fixtures",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "0% 20% 40% 60% 80% 100% % of Charterers",
+      "keywords": [
+        "charterers"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 21,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_01_09_the_more_things_change_the_more_they_stay_the_same__s04_who_s_the_biggest_charterer",
+      "doc_id": "poten_tankers_no_date_poten_2004_01_09_the_more_things_change_the_more_they_stay_the_same",
+      "parent_id": "poten_tankers_no_date_poten_2004_01_09_the_more_things_change_the_more_they_stay_the_same__root",
+      "title": "Who's the Biggest Charterer?",
+      "section_path": [
+        "Who's the Biggest Charterer?"
+      ],
+      "section_path_text": "Who's the Biggest Charterer?",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Poten's spot fixture database tracked 12,617 total fixtures in 2003. Excluding failed fixtures, a total of 10,554 were concluded.",
+      "keywords": [
+        "aframax",
+        "china",
+        "brazil",
+        "india",
+        "crude_oil",
+        "fixtures",
+        "total",
+        "half"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 632,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_01_09_the_more_things_change_the_more_they_stay_the_same__s05_vlccs_big_ships_small_number_of_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2004_01_09_the_more_things_change_the_more_they_stay_the_same",
+      "parent_id": "poten_tankers_no_date_poten_2004_01_09_the_more_things_change_the_more_they_stay_the_same__root",
+      "title": "VLCCs - Big Ships, Small Number of Charterers",
+      "section_path": [
+        "VLCCs - Big Ships, Small Number of Charterers"
+      ],
+      "section_path_text": "VLCCs - Big Ships, Small Number of Charterers",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Of the top 20 charterers last year, only four - Lukoil, Tamoil, Reliance and Hess - did not fix VLCCs. A little more than a third of the 244 charterers that fixed at least one vessel greater than 50,000 dwt, also fixed a VLCC (92 to be precise) in 2003.",
+      "keywords": [
+        "vlcc",
+        "west_africa",
+        "india",
+        "crude_oil",
+        "charterers",
+        "oil",
+        "fixed",
+        "africa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 119,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_01_09_the_more_things_change_the_more_they_stay_the_same__s06_suezmaxes_rank_behind_aframaxes",
+      "doc_id": "poten_tankers_no_date_poten_2004_01_09_the_more_things_change_the_more_they_stay_the_same",
+      "parent_id": "poten_tankers_no_date_poten_2004_01_09_the_more_things_change_the_more_they_stay_the_same__root",
+      "title": "Suezmaxes Rank Behind Aframaxes",
+      "section_path": [
+        "Suezmaxes Rank Behind Aframaxes"
+      ],
+      "section_path_text": "Suezmaxes Rank Behind Aframaxes",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "With about 2,100 spot charters concluded on Suezmaxes, this tanker size outpaced VLCCs by more than 18% despite being only about 60% of the size of the VLCC fleet (about 260 Suezmaxes vs. Shell and ExxonMobil again lead the pack, with Sunoco, BP and Total each chartering more than 100 ships.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "size",
+        "suezmaxes",
+        "vlccs",
+        "again",
+        "being",
+        "chartering"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 87,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_01_09_the_more_things_change_the_more_they_stay_the_same__s07_aframaxes_crown_jewel_of_the_spot_market",
+      "doc_id": "poten_tankers_no_date_poten_2004_01_09_the_more_things_change_the_more_they_stay_the_same",
+      "parent_id": "poten_tankers_no_date_poten_2004_01_09_the_more_things_change_the_more_they_stay_the_same__root",
+      "title": "Aframaxes - Crown Jewel of the Spot Market",
+      "section_path": [
+        "Aframaxes - Crown Jewel of the Spot Market"
+      ],
+      "section_path_text": "Aframaxes - Crown Jewel of the Spot Market",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "By far, Aframaxes saw the most fixtures in 2003. Shell used the agile fleet overwhelmingly, more than double any other charterer.",
+      "keywords": [
+        "aframax",
+        "aframaxes",
+        "charterers",
+        "shell",
+        "accounted",
+        "activity.",
+        "again",
+        "agile"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 70,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_01_09_the_more_things_change_the_more_they_stay_the_same__s08_panamax_the_trading_companies_lead_the_way",
+      "doc_id": "poten_tankers_no_date_poten_2004_01_09_the_more_things_change_the_more_they_stay_the_same",
+      "parent_id": "poten_tankers_no_date_poten_2004_01_09_the_more_things_change_the_more_they_stay_the_same__root",
+      "title": "Panamax - The Trading Companies Lead the Way",
+      "section_path": [
+        "Panamax - The Trading Companies Lead the Way"
+      ],
+      "section_path_text": "Panamax - The Trading Companies Lead the Way",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "The mix of top charterers in terms of fixture activity in this market segment reflects the nature of this trade. Fuel oil, the primary commodity transported, is actively traded.",
+      "keywords": [
+        "crude_oil",
+        "actively",
+        "activity",
+        "charterers",
+        "commodity",
+        "fixture",
+        "fuel",
+        "mix"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 34,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_01_09_the_more_things_change_the_more_they_stay_the_same__s09_el_paso",
+      "doc_id": "poten_tankers_no_date_poten_2004_01_09_the_more_things_change_the_more_they_stay_the_same",
+      "parent_id": "poten_tankers_no_date_poten_2004_01_09_the_more_things_change_the_more_they_stay_the_same__root",
+      "title": "El Paso",
+      "section_path": [
+        "El Paso"
+      ],
+      "section_path_text": "El Paso",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "So despite record rate levels and continued consolidation in the oil industry, the top charterers still account for most of the activity. The spot market remains a vital part of the transportation system and perhaps just as importantly allows for analysis to resolve the age old question, \"Who's the biggest?\"",
+      "keywords": [
+        "crude_oil",
+        "account",
+        "activity.",
+        "age",
+        "allows",
+        "analysis",
+        "biggest",
+        "change..."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 62,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

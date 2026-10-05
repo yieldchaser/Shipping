@@ -1,0 +1,174 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_01_04_the_freight_factor__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_01_04_the_freight_factor",
+  "parent_id": null,
+  "title": "The Freight Factor",
+  "section_path": [
+    "The Freight Factor"
+  ],
+  "section_path_text": "The Freight Factor",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Freight Factor\nThis week crude oil prices touched the $100 per barrel mark and have continued to hover around that level. Regardless of the impact on physical demand and supply, this price does have some significance if only as a psychological threshold. With 2008 officially under way, many are trying to formulate outlooks on which direction the price of the barrel will ultimately head.",
+  "keywords": [
+    "vlcc",
+    "meg",
+    "crude_oil",
+    "price",
+    "barrel",
+    "crude",
+    "oil",
+    "per",
+    "average",
+    "transportation",
+    "chart",
+    "although"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 523,
+  "source_path": "reports/poten/2008/poten_2008-01-04_the-freight-factor.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_01_04_the_freight_factor__s01_the_freight_factor",
+      "doc_id": "poten_tankers_no_date_poten_2008_01_04_the_freight_factor",
+      "parent_id": "poten_tankers_no_date_poten_2008_01_04_the_freight_factor__root",
+      "title": "The Freight Factor",
+      "section_path": [
+        "The Freight Factor"
+      ],
+      "section_path_text": "The Freight Factor",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This week crude oil prices touched the $100 per barrel mark and have continued to hover around that level. Regardless of the impact on physical demand and supply, this price does have some significance if only as a psychological threshold.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "crude_oil",
+        "barrel",
+        "per",
+        "price",
+        "oil",
+        "costs"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 179,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_01_04_the_freight_factor__s02_chart_charterers_transportation_cost_per_barrel",
+      "doc_id": "poten_tankers_no_date_poten_2008_01_04_the_freight_factor",
+      "parent_id": "poten_tankers_no_date_poten_2008_01_04_the_freight_factor__root",
+      "title": "Chart: Charterers' Transportation Cost Per Barrel",
+      "section_path": [
+        "Chart: Charterers' Transportation Cost Per Barrel"
+      ],
+      "section_path_text": "Chart: Charterers' Transportation Cost Per Barrel",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The 10-year average freight rate is $1.49 per barrel whereas the 2007 average freight rate is only 30% higher at $1.93 per barrel. Although the average price of transportation has increased over the long-term historical average, it has not been to the same degree that the barrel price of crude oil has risen.",
+      "keywords": [
+        "crude_oil",
+        "average",
+        "per",
+        "barrel",
+        "price",
+        "barrel.",
+        "crude",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 101,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_01_04_the_freight_factor__s03_on_a_percentage_basis",
+      "doc_id": "poten_tankers_no_date_poten_2008_01_04_the_freight_factor",
+      "parent_id": "poten_tankers_no_date_poten_2008_01_04_the_freight_factor__root",
+      "title": "On A Percentage Basis",
+      "section_path": [
+        "On A Percentage Basis"
+      ],
+      "section_path_text": "On A Percentage Basis",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The chart below shows the price of transportation as a percentage of the barrel price the benchmark West Texas Intermediate (WTI) spot crude oil on a monthly basis. On average over the past ten years, the price of transportation has been 4% of the price of the crude oil.",
+      "keywords": [
+        "crude_oil",
+        "price",
+        "crude",
+        "transportation",
+        "average",
+        "barrel",
+        "basis.",
+        "below"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 57,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_01_04_the_freight_factor__s04_chart_freight_crude_oil_barrel_cost",
+      "doc_id": "poten_tankers_no_date_poten_2008_01_04_the_freight_factor",
+      "parent_id": "poten_tankers_no_date_poten_2008_01_04_the_freight_factor__root",
+      "title": "Chart: Freight / Crude Oil Barrel Cost",
+      "section_path": [
+        "Chart: Freight / Crude Oil Barrel Cost"
+      ],
+      "section_path_text": "Chart: Freight / Crude Oil Barrel Cost",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Over 70% of the time, the price of transportation has stayed between 2-6% of the price of crude oil and as the chart shows above, however this percentage has primarily been in the 2-4% range in the past two years.",
+      "keywords": [
+        "crude_oil",
+        "price",
+        "above",
+        "between",
+        "chart",
+        "crude",
+        "oil",
+        "past"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 53,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_01_04_the_freight_factor__s05_freight_effect",
+      "doc_id": "poten_tankers_no_date_poten_2008_01_04_the_freight_factor",
+      "parent_id": "poten_tankers_no_date_poten_2008_01_04_the_freight_factor__root",
+      "title": "Freight Effect",
+      "section_path": [
+        "Freight Effect"
+      ],
+      "section_path_text": "Freight Effect",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Although the price of crude oil is higher, any increases in the price of freight seem to be absorbed through the opportunities gained on the commodity side. Certainly for the foreseeable future, shipping will be a critical component in many trading activities.",
+      "keywords": [
+        "crude_oil",
+        "price",
+        "although",
+        "can",
+        "crude",
+        "oil",
+        "absorbed",
+        "activities."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 100,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

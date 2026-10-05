@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nIn containers this week, CSSC Huangpu Wenchong Shipyard confirmed taking orders for two firm 2,700 TEU Container vessels\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-02-18_clarksons-platou-hellas-snp-weekly-bulletin-9_report-18-02-2022_95be0b661ee7.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-02-18_clarksons-platou-hellas-snp-weekly-bulletin-9_report-18-02-2022_95be0b661ee7.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 18 February 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 5S50MC SS 12/23\nBONANZA 73,613 2003 JIANGNAN RGN USD 11 M U/D\nBWTS fitted DD 03/22\nMAN-B&W 6S50ME-B9.3\nSS 06/26\nULTRA EXCELLENCE 61,214 2016 IMABARI 4 X 30 T XS USD 30 M U/D\nDD 09/24\nBWTS fitted\nMAN-B&W 6S42MC7.2 SS 03/22 LOW USD 15 M\nMAJESTY 34,375 2011 DAESUN GREEKS\n4 X 30 T DD 03/22 (BWTS included)\nMAN-B&W 6S42MC7.2\nSS 08/25\nTRAMONTANA 28,351 2010 SHIMANAMI 4 X 30 T USD 14.5 M RUSSIANS\nDD 09/23\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 10/22 GREEKS\nBERGITTA 105,827 2007 TSUNEISHI MAN-B&W 6S60MC6.1 USD 16.5 M\nDD 10/22 (c/o Westport)\nMAN-B&W 6S50MC-C8.2 SS 04/26\nJUPITER EXPRESS 45,950 2012 SHIN KURU",
+  "summary": "Main\nIn containers this week, CSSC Huangpu Wenchong Shipyard confirmed taking orders for two firm 2,700 TEU Container vessels\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-02-18_clarksons-platou-hellas-snp-weekly-bulletin-9_report-18-02-2022_95be0b661ee7.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2022-02-18_clarksons-platou-hellas-snp-weekly-bulletin-9_report-18-02-2022_95be0b661ee7.pdf\n\n# ` Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 18 February 2022\n\n## BULK CARRIERS\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|BONANZA|73,613|2003 JIANGNAN|MANBWTS fitted -B&W 5S50MC|SS 12/23 DD 03/22|RGN USD 11 M|U/D|\n|ULTRA EXCELLENCE|61,214|2016 IMABARI|MAN-B&W 6S50ME-B9.3 4 X 30 T BWTS fitted|SS 06/26 DD 09/24|XS USD 30 M|U/D|\n|MAJESTY|34,375|2011 DAESUN|MAN-B&W 6S42MC 7.2 4 X 30 T|SS 03/22 DD 03/22|LOW USD 15 M (BWTS included)|GREEKS|\n|TRAMONTANA|28,351|2010 SHIMANAMI|MAN-B&W 6S42MC7.2 4 X 30 T BWTS fitted|SS 08/25 DD 09/23|USD 14.5 M|RUSSIANS|\n\n## <u>TANKERS - CHEMICALS - LPG/LNGs</u>\n\nVESSEL <u>DWT</u> BLT DETAILS <u>SS/DD</u> PRICE BUYER **BERGITTA** 105,827 2007 TSUNEISHI MAN-B&W 6S60MC6.1 DD 10/22 SS 10/22 USD 16.5 M (c/o Westport",
   "keywords": [
     "capesize",
     "lng",
@@ -17,17 +17,17 @@
     "container",
     "europe",
     "india",
+    "crude_oil",
     "gas",
     "clarksons",
-    "information",
     "platou",
-    "any",
-    "usd"
+    "usd",
+    "any"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2213,
-  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-02-18_clarksons-platou-hellas-snp-weekly-bulletin-9.html",
+  "token_count": 2225,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-02-18_clarksons-platou-hellas-snp-weekly-bulletin-9.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-9",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-02-18_clarksons-platou-hellas-snp-weekly-bulletin-9_report-18-02-2022_95be0b661ee7.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-02-18_clarksons-platou-hellas-snp-weekly-bulletin-9_report-18-02-2022_95be0b661ee7.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 18 February 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 5S50MC SS 12/23\nBONANZA 73,613 2003 JIANGNAN RGN USD 11 M U/D\nBWTS fitted DD 03/22\nMAN-B&W 6S50ME-B9.3\nSS 06/26\nULTRA EXCELLENCE 61,214 2016 IMABARI 4 X 30 T XS USD 30 M U/D\nDD 09/24\nBWTS fitted\nMAN-B&W 6S42MC7.2 SS 03/22 LOW USD 15 M\nMAJESTY 34,375 2011 DAESUN GREEKS\n4 X 30 T DD 03/22 (BWTS included)\nMAN-B&W 6S42MC7.2\nSS 08/25\nTRAMONTANA 28,351 2010 SHIMANAMI 4 X 30 T USD 14.5 M RUSSIANS\nDD 09/23\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 10/22 GREEKS\nBERGITTA 105,827 2007 TSUNEISHI MAN-B&W 6S60MC6.1 USD 16.5 M\nDD 10/22 (c/o Westport)\nMAN-B&W 6S50MC-C8.2 SS 04/26\nJUPITER EXPRESS 45,950 2012 SHIN KURUSHIMA RGN USD 18.5 M U/D\nEpoxy, 4 Pumps, BWTS fitted DD 05/24\nPage 1 of 3\n\n[Page 2]\n1\nSale and Purchase\nHellas S&P Weekly Bulletin 18 February 2022\nNEW BUILDING\nIn containers this week, CSSC Huangpu Wenchong Shipyard confirmed taking orders for two firm 2,700 TEU Cont",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-02-18_clarksons-platou-hellas-snp-weekly-bulletin-9_report-18-02-2022_95be0b661ee7.pdf\n\n# ` Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 18 February 2022\n\n## BULK CARRIERS\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|BONANZA|73,613|2003 JIANGNAN|MANBWTS fitted -B&W 5S50MC|SS 12/23 DD 03/22|RGN USD 11 M|U/D|\n|ULTRA EXCELLENCE|61,214|2016 IMABARI|MAN-B&W 6S50ME-B9.3 4 X 30 T BWTS fitted|SS 06/26 DD 09/24|XS USD 30 M|U/D|\n|MAJESTY|34,375|2011 DAESUN|MAN-B&W 6S42MC 7.2 4 X 30 T|SS 03/22 DD 03/22|LOW USD 15 M (BWTS included)|GREEKS|\n|TRAMONTANA|28,351|2010 SHIMANAMI|MAN-B&W 6S42MC7.2 4 X 30 T BWTS fitted|SS 08/25 DD 09/23|USD 14.5 M|RUSSIANS|\n\n## <u>TANKERS - CHEMICALS - LPG/LNGs</u>\n\nVESSEL <u>DWT</u> BLT DETAILS <u>SS/DD</u> PRICE BUYER **BERGITTA** 105,827 2007 TSUNEISHI MAN-B&W 6S60MC6.1 DD 10/22 SS 10/22 USD 16.5 M (c/o Westport) GREEKS\n\n**JUPITER EXPRESS** 45,950 2012 SHIN KURUSHIMA Epo MAN xy, -B&W 6S50MC 4 Pumps, BWTS fit -C8.2 ted DD 05/24 SS 04/26 RGN USD 18.5 M U/D\n\n## NEW BUILDING\n\nIn containers this week, CSSC Huangpu Wenchong Shipyard confirmed taking orders for two firm 2,700 TEU Con",
       "keywords": [
         "capesize",
         "lng",
@@ -77,12 +77,12 @@
         "container",
         "europe",
         "india",
-        "gas",
-        "clarksons"
+        "crude_oil",
+        "gas"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2126,
+      "token_count": 2138,
       "section_type": "linked_pdf",
       "children": []
     }

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2025_03_07_trumps_tariffs__root",
+  "doc_id": "poten_tankers_no_date_poten_2025_03_07_trumps_tariffs",
+  "parent_id": null,
+  "title": "Trumps Tariffs",
+  "section_path": [
+    "Trumps Tariffs"
+  ],
+  "section_path_text": "Trumps Tariffs",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Will Trump's Tariffs Boost Tanker Rates? Over the last six weeks, U.S. President Trump has imposed and postponed tariffs on Canada and Mexico several times.",
+  "keywords": [
+    "aframax",
+    "atlantic",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "products",
+    "u.s.",
+    "are",
+    "crude",
+    "canada",
+    "oil",
+    "tariffs"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1048,
+  "source_path": "reports/poten/2025/poten_2025-03-07_trumps-tariffs.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2025_03_07_trumps_tariffs__s01_will_trump_s_tariffs_boost_tanker_rates",
+      "doc_id": "poten_tankers_no_date_poten_2025_03_07_trumps_tariffs",
+      "parent_id": "poten_tankers_no_date_poten_2025_03_07_trumps_tariffs__root",
+      "title": "Will Trump's Tariffs Boost Tanker Rates?",
+      "section_path": [
+        "Will Trump's Tariffs Boost Tanker Rates?"
+      ],
+      "section_path_text": "Will Trump's Tariffs Boost Tanker Rates?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Over the last six weeks, U.S. President Trump has imposed and postponed tariffs on Canada and Mexico several times.",
+      "keywords": [
+        "aframax",
+        "atlantic",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "products",
+        "u.s.",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1038,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

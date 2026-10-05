@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2026_04_24_opec_at_a_crossroads__root",
+  "doc_id": "poten_tankers_no_date_poten_2026_04_24_opec_at_a_crossroads",
+  "parent_id": null,
+  "title": "OPEC At A Crossroads",
+  "section_path": [
+    "OPEC At A Crossroads"
+  ],
+  "section_path_text": "OPEC At A Crossroads",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Will OPEC's influence fade or will the cartel adapt again? The crisis in the Middle East and, in particular, the blockade of the Strait of Hormuz, one of the world's most important maritime chokepoints, has reminded oil markets of the importance of Middle East OPEC. It also highlighted that the key drivers to OPEC's influence is not only the cartel's massive oil reserves, production levels and spare capacity, but also the ability of its members to reliably and cheaply ship these barrels to global markets.",
+  "keywords": [
+    "brazil",
+    "coal",
+    "crude_oil",
+    "gas",
+    "opec",
+    "oil",
+    "members",
+    "cartel",
+    "countries",
+    "iran",
+    "prices",
+    "can"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 990,
+  "source_path": "reports/poten/2026/poten_2026-04-24_opec-at-a-crossroads.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2026_04_24_opec_at_a_crossroads__s01_will_opec_s_influence_fade_or_will_the_cartel_adapt_again",
+      "doc_id": "poten_tankers_no_date_poten_2026_04_24_opec_at_a_crossroads",
+      "parent_id": "poten_tankers_no_date_poten_2026_04_24_opec_at_a_crossroads__root",
+      "title": "Will OPEC's influence fade or will the cartel adapt again?",
+      "section_path": [
+        "Will OPEC's influence fade or will the cartel adapt again?"
+      ],
+      "section_path_text": "Will OPEC's influence fade or will the cartel adapt again?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The crisis in the Middle East and, in particular, the blockade of the Strait of Hormuz, one of the world's most important maritime chokepoints, has reminded oil markets of the importance of Middle East OPEC. It also highlighted that the key drivers to OPEC's influence is not only the cartel's massive oil reserves, production levels and spare capacity, but also the ability of its members to reliably and cheaply ship these barrels to global markets.",
+      "keywords": [
+        "brazil",
+        "coal",
+        "crude_oil",
+        "gas",
+        "opec",
+        "oil",
+        "members",
+        "countries"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 977,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

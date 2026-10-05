@@ -1,0 +1,202 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_09_02_rock_us_like_a_hurricane__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_09_02_rock_us_like_a_hurricane",
+  "parent_id": null,
+  "title": "Rock U.S. Like a Hurricane",
+  "section_path": [
+    "Rock U.S. Like a Hurricane"
+  ],
+  "section_path_text": "Rock U.S. Like a Hurricane",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Like a Hurricane\nHurricane Irene made its way up the eastern seaboard over the course of last week, hitting some of the densest population centers in the United States. In the days leading up to the storm, governments and businesses took preemptive measures to mitigate any lasting damage, including closure of refineries, terminals, ports, and mass transit. The precautions taken indicate that the United States' leaders have learned from past mistakes.",
+  "keywords": [
+    "atlantic",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "gas",
+    "kbd",
+    "shut",
+    "irene",
+    "its",
+    "coast",
+    "gasoline",
+    "storm"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 894,
+  "source_path": "reports/poten/2011/poten_2011-09-02_rock-us-like-a-hurricane.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_09_02_rock_us_like_a_hurricane__s01_rock_u_s_like_a_hurricane",
+      "doc_id": "poten_tankers_no_date_poten_2011_09_02_rock_us_like_a_hurricane",
+      "parent_id": "poten_tankers_no_date_poten_2011_09_02_rock_us_like_a_hurricane__root",
+      "title": "Rock U.S. Like a Hurricane",
+      "section_path": [
+        "Rock U.S. Like a Hurricane"
+      ],
+      "section_path_text": "Rock U.S. Like a Hurricane",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Hurricane Irene made its way up the eastern seaboard over the course of last week, hitting some of the densest population centers in the United States. In the days leading up to the storm, governments and businesses took preemptive measures to mitigate any lasting damage, including closure of refineries, terminals, ports, and mass transit.",
+      "keywords": [
+        "irene",
+        "still",
+        "storm",
+        "united",
+        "affected",
+        "after",
+        "almost",
+        "amply"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 148,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_09_02_rock_us_like_a_hurricane__s02_shut_it_down",
+      "doc_id": "poten_tankers_no_date_poten_2011_09_02_rock_us_like_a_hurricane",
+      "parent_id": "poten_tankers_no_date_poten_2011_09_02_rock_us_like_a_hurricane__root",
+      "title": "Shut it Down",
+      "section_path": [
+        "Shut it Down"
+      ],
+      "section_path_text": "Shut it Down",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The East Coast saw temporary closure of 477 kbd as a result of Irene, amounting to about 30% of total PADD I capacity, as seen in the table below.",
+      "keywords": [
+        "amounting",
+        "below.",
+        "capacity",
+        "closure",
+        "coast",
+        "east",
+        "irene",
+        "kbd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 38,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_09_02_rock_us_like_a_hurricane__s03_status_of_major_padd_i_refineries_following_irene",
+      "doc_id": "poten_tankers_no_date_poten_2011_09_02_rock_us_like_a_hurricane",
+      "parent_id": "poten_tankers_no_date_poten_2011_09_02_rock_us_like_a_hurricane__root",
+      "title": "Status of Major PADD I Refineries Following Irene",
+      "section_path": [
+        "Status of Major PADD I Refineries Following Irene"
+      ],
+      "section_path_text": "Status of Major PADD I Refineries Following Irene",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "(kbd) Capacity Closure (kbd) Status Sunoco Marcus Hook, PA 194 54 Restarting after cut to 140 kbd ConocoPhillips Trainer, PA 185 45 Restarting after cut to 140 kbd ConocoPhillips Linden, NJ 238 238 Shut Hess Port Reading, NJ 70 ‐ Normal (FCC Capacity) Sunoco Philadelphia, PA 335 140 Girard Point 90 90 Crude unit shut by flooding 90 50 FCC cut to 40 kbd PBF Energy Delaware City 190 ‐ Normal PBF Energy Paulsboro, NJ 160 ‐ Normal Total 1,372 477",
+      "keywords": [
+        "kbd",
+        "cut",
+        "normal",
+        "after",
+        "capacity",
+        "conocophillips",
+        "energy",
+        "fcc"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 138,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_09_02_rock_us_like_a_hurricane__s04_company",
+      "doc_id": "poten_tankers_no_date_poten_2011_09_02_rock_us_like_a_hurricane",
+      "parent_id": "poten_tankers_no_date_poten_2011_09_02_rock_us_like_a_hurricane__root",
+      "title": "Company",
+      "section_path": [
+        "Company"
+      ],
+      "section_path_text": "Company",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Location As a precaution, ConocoPhillips shut its 238 kbd Bayway refinery in Linden, New Jersey, as well as its terminals prior to the storm. The refinery remained shut the beginning of this week, however news reports have stated that they began the restart process almost immediately after the storm.",
+      "keywords": [
+        "us_gulf",
+        "crude_oil",
+        "its",
+        "kbd",
+        "refinery",
+        "shut",
+        "storm.",
+        "expected"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 180,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_09_02_rock_us_like_a_hurricane__s05_quick_on_the_draw",
+      "doc_id": "poten_tankers_no_date_poten_2011_09_02_rock_us_like_a_hurricane",
+      "parent_id": "poten_tankers_no_date_poten_2011_09_02_rock_us_like_a_hurricane__root",
+      "title": "Quick on the Draw?",
+      "section_path": [
+        "Quick on the Draw?"
+      ],
+      "section_path_text": "Quick on the Draw?",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Generally, we would expect a drawing on stocks as refineries restart. As of August 26, East Coast gasoline stocks stood at 54 million barrels, as seen in the chart below.",
+      "keywords": [
+        "products",
+        "gas",
+        "stocks",
+        "august",
+        "barrels",
+        "below.",
+        "chart",
+        "coast"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 38,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_09_02_rock_us_like_a_hurricane__s06_padd_i_gasoline_stocks",
+      "doc_id": "poten_tankers_no_date_poten_2011_09_02_rock_us_like_a_hurricane",
+      "parent_id": "poten_tankers_no_date_poten_2011_09_02_rock_us_like_a_hurricane__root",
+      "title": "PADD I Gasoline Stocks",
+      "section_path": [
+        "PADD I Gasoline Stocks"
+      ],
+      "section_path_text": "PADD I Gasoline Stocks",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Five Year Average Even with a slight reduction in PADD I gasoline inventories over the past few weeks, stocks appear sufficient to make up for any production lost as result of last week's closures. However, the past week has shown that despite adequate stores of petroleum product, regional shortages can result from crimps in the supply chain.",
+      "keywords": [
+        "atlantic",
+        "products",
+        "gas",
+        "product",
+        "gasoline",
+        "past",
+        "regional",
+        "shortages"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 312,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

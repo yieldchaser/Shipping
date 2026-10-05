@@ -9,7 +9,7 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 02.15.2022",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nToo fast-too high, as Capesize rates take a breather - During the past two weeks the Capesize market came back to life, with the Atlantic\nSource: Breakwave Advisors\n\nLinked asset: 2022-02-15_breakwave-dry-bulk-shipping-report-02-15-2022_breakwavefebruary152022report_6500060223ae.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-02-15_breakwave-dry-bulk-shipping-report-02-15-2022_breakwavefebruary152022report_6500060223ae.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nFebruary 15, 2022\nBreakwave Dry Futures Index: 2,451 Baltic Dry Index (spot): 1,984 Short-term Indicators:\n↑ 30D: 26.6% ↑ 30D: 12.5% Momentum: Positive\n↑ YTD: 17.0% ↓ YTD: -10.5% Sentiment: Positive\n↑ YOY: 70.7% ↑ YOY: 48.2% Fundamentals: Neutral\nBi-Weekly Report\n• Too fast-too high, as Capesize rates take a breather - During the past two weeks the Capesize market came back\nto life, with the Atlantic market leading the way on the back of strong West Africa activity and some decent demand\nfor N. Still, the market is lagging Brazilian iron ore, and although sentiment has firmed\nquite a bit as evident by the steep contango in the futures market, more needs to fundamentally be done in the\nsupply/demand balance for rates",
+  "summary": "Main\nToo fast-too high, as Capesize rates take a breather - During the past two weeks the Capesize market came back to life, with the Atlantic\nSource: Breakwave Advisors\n\nLinked asset: 2022-02-15_breakwave-dry-bulk-shipping-report-02-15-2022_breakwavefebruary152022report_6500060223ae.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2022-02-15_breakwave-dry-bulk-shipping-report-02-15-2022_breakwavefebruary152022report_6500060223ae.pdf\n\n|||BDRY||||||\n|---|---|---|---|---|---|---|---|\n||↑ ↑ ↑|Dry Bulk Shipping Breakwave Dry Futures Index: 30D: 26.6% YTD: 17.0% YOY: 70.7%|2,451 ↑ ↓ ↑|Baltic Dry Index (spot): 30D: 12.5% YTD: -10.5% YOY: 48.2%|1,984|Short-term Indicators: Momentum: Sentiment: Fundamentals:|February 15, 2022 Positive Positive Neutral|\n|• • •||Bi-Weekly Report Dry bulk upcycle to continue in 2022 -|Too fast-too high, as Capesize rates take a breather - The Russia-Ukraine conflict impact on dry bulk depends on sanctions as well as intensity - Supramax and a weighted average maturity of approximately 50-70 days.|to life, with the Atlantic market leading the way on the back of strong West Africa activity and some decent demand for N. Still, the market is lagging Brazili",
   "keywords": [
     "capesize",
     "panamax",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1510,
-  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-02-15_breakwave-dry-bulk-shipping-report-02-15-2022.html",
+  "token_count": 1548,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-02-15_breakwave-dry-bulk-shipping-report-02-15-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-02-15-2022",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-02-15_breakwave-dry-bulk-shipping-report-02-15-2022_breakwavefebruary152022report_6500060223ae.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-02-15_breakwave-dry-bulk-shipping-report-02-15-2022_breakwavefebruary152022report_6500060223ae.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nFebruary 15, 2022\nBreakwave Dry Futures Index: 2,451 Baltic Dry Index (spot): 1,984 Short-term Indicators:\n↑ 30D: 26.6% ↑ 30D: 12.5% Momentum: Positive\n↑ YTD: 17.0% ↓ YTD: -10.5% Sentiment: Positive\n↑ YOY: 70.7% ↑ YOY: 48.2% Fundamentals: Neutral\nBi-Weekly Report\n• Too fast-too high, as Capesize rates take a breather - During the past two weeks the Capesize market came back\nto life, with the Atlantic market leading the way on the back of strong West Africa activity and some decent demand\nfor N. Still, the market is lagging Brazilian iron ore, and although sentiment has firmed\nquite a bit as evident by the steep contango in the futures market, more needs to fundamentally be done in the\nsupply/demand balance for rates to move further up.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-02-15_breakwave-dry-bulk-shipping-report-02-15-2022_breakwavefebruary152022report_6500060223ae.pdf\n\n|||BDRY||||||\n|---|---|---|---|---|---|---|---|\n||↑ ↑ ↑|Dry Bulk Shipping Breakwave Dry Futures Index: 30D: 26.6% YTD: 17.0% YOY: 70.7%|2,451 ↑ ↓ ↑|Baltic Dry Index (spot): 30D: 12.5% YTD: -10.5% YOY: 48.2%|1,984|Short-term Indicators: Momentum: Sentiment: Fundamentals:|February 15, 2022 Positive Positive Neutral|\n|• • •||Bi-Weekly Report Dry bulk upcycle to continue in 2022 -|Too fast-too high, as Capesize rates take a breather - The Russia-Ukraine conflict impact on dry bulk depends on sanctions as well as intensity - Supramax and a weighted average maturity of approximately 50-70 days.|to life, with the Atlantic market leading the way on the back of strong West Africa activity and some decent demand for N. Still, the market is lagging Brazilian iron ore, and although sentiment has firmed quite a bit as evident by the steep contango in the futures market, more needs to fundamentally be done in the supply/demand balance for rates to move further up.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1427,
+      "token_count": 1465,
       "section_type": "linked_pdf",
       "children": []
     }

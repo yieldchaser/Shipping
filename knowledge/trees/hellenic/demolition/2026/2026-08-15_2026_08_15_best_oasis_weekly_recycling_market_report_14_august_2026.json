@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 31,
+  "token_count": 1078,
   "source_path": "reports/hellenic/demolition/2026/2026-08-15_best-oasis-weekly-recycling-market-report-14-august-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-14-august-2026",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 29,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2026-08-15_2026_08_15_best_oasis_weekly_recycling_market_report_14_august_2026__s02_linked_asset_2026_08_15_best_oasis_weekly_recycling_market_report_14_august_2026_weekly_ship_recycling_report_08_augu_4ca6a14ecc27_pdf",
+      "doc_id": "hellenic_demolition_2026-08-15_2026_08_15_best_oasis_weekly_recycling_market_report_14_august_2026",
+      "parent_id": "hellenic_demolition_2026-08-15_2026_08_15_best_oasis_weekly_recycling_market_report_14_august_2026__root",
+      "title": "Linked asset: 2026-08-15_best-oasis-weekly-recycling-market-report-14-august-2026_weekly-ship-recycling-report-08-augu_4ca6a14ecc27.pdf",
+      "section_path": [
+        "Linked asset: 2026-08-15_best-oasis-weekly-recycling-market-report-14-august-2026_weekly-ship-recycling-report-08-augu_4ca6a14ecc27.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-08-15_best-oasis-weekly-recycling-market-report-14-august-2026_weekly-ship-recycling-report-08-augu_4ca6a14ecc27.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2026-08-15_best-oasis-weekly-recycling-market-report-14-august-2026_weekly-ship-recycling-report-08-augu_4ca6a14ecc27.pdf\n\n# WEEKLY SHIP RECYCLING REPORT\n\n## (08 AUGUST - 14 AUGUST) 2026\n\n## OUR OFFICES\n\n**Scan to view the Tide Table**\n\n**Head Office:** 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E **Contact**: +971 4575 4667 **Visit** : www.best-oasis.com **Email**: bol@bol.ae\n\n## MARKET SUMMARY\n\n## INDIA\n\nThe Indian market remains active, particularly for specialized tonnage such as reefers and passenger vessels, while local steel prices have declined from the previous week. Recent sales of a passenger vessel and a reefer have achieved strong levels, reflecting continued interest for such specialized units.",
+      "keywords": [
+        "china",
+        "india",
+        "steel",
+        "previous",
+        "usd",
+        "delivered",
+        "recycling",
+        "tonnage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 998,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

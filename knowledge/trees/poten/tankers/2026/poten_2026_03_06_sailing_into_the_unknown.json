@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2026_03_06_sailing_into_the_unknown__root",
+  "doc_id": "poten_tankers_no_date_poten_2026_03_06_sailing_into_the_unknown",
+  "parent_id": null,
+  "title": "Sailing Into The Unknown",
+  "section_path": [
+    "Sailing Into The Unknown"
+  ],
+  "section_path_text": "Sailing Into The Unknown",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Iran conflict creates massive uncertainty\nIt is rare for us to cover the same topic two Tanker Opinions in a row, but these are unusual circumstances. Last Friday, we discussed several possible scenarios with respect to Iran in our Opinion titled \"Will He Or Won't He?\". On Saturday morning, the answer came.",
+  "keywords": [
+    "vlcc",
+    "meg",
+    "india",
+    "crude_oil",
+    "products",
+    "are",
+    "oil",
+    "strait",
+    "tankers",
+    "u.s.",
+    "arabian",
+    "gulf"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 962,
+  "source_path": "reports/poten/2026/poten_2026-03-06_sailing-into-the-unknown.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2026_03_06_sailing_into_the_unknown__s01_iran_conflict_creates_massive_uncertainty",
+      "doc_id": "poten_tankers_no_date_poten_2026_03_06_sailing_into_the_unknown",
+      "parent_id": "poten_tankers_no_date_poten_2026_03_06_sailing_into_the_unknown__root",
+      "title": "Iran conflict creates massive uncertainty",
+      "section_path": [
+        "Iran conflict creates massive uncertainty"
+      ],
+      "section_path_text": "Iran conflict creates massive uncertainty",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "It is rare for us to cover the same topic two Tanker Opinions in a row, but these are unusual circumstances. Last Friday, we discussed several possible scenarios with respect to Iran in our Opinion titled \"Will He Or Won't He?\".",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "india",
+        "crude_oil",
+        "products",
+        "are",
+        "oil",
+        "strait"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 956,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

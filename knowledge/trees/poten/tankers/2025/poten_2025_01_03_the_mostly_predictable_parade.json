@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2025_01_03_the_mostly_predictable_parade__root",
+  "doc_id": "poten_tankers_no_date_poten_2025_01_03_the_mostly_predictable_parade",
+  "parent_id": null,
+  "title": "The (Mostly) Predictable Parade",
+  "section_path": [
+    "The (Mostly) Predictable Parade"
+  ],
+  "section_path_text": "The (Mostly) Predictable Parade",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Top Reported Dirty Spot Charterers for 2024*\nRelative to last year, there are a few changes in our annual rankings for 2024. While Unipec remained on top, its reported cargo volumes and market share dropped slightly for the second year running, illustrating a softening economy and a slowdown in Chinese oil demand growth. Another notable change was the entry of Polish charterer PKN Orlen in the top 20 (at #16) for the first time as it diversifies its crude oil supplies away from pipelined Russian barrels to seaborne crude from the Middle East and the North Sea, among others.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "brazil",
+    "india",
+    "crude_oil",
+    "top",
+    "total",
+    "charterers",
+    "chevron",
+    "down"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1121,
+  "source_path": "reports/poten/2025/poten_2025-01-03_the-mostly-predictable-parade.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2025_01_03_the_mostly_predictable_parade__s01_top_reported_dirty_spot_charterers_for_2024",
+      "doc_id": "poten_tankers_no_date_poten_2025_01_03_the_mostly_predictable_parade",
+      "parent_id": "poten_tankers_no_date_poten_2025_01_03_the_mostly_predictable_parade__root",
+      "title": "Top Reported Dirty Spot Charterers for 2024*",
+      "section_path": [
+        "Top Reported Dirty Spot Charterers for 2024*"
+      ],
+      "section_path_text": "Top Reported Dirty Spot Charterers for 2024*",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Relative to last year, there are a few changes in our annual rankings for 2024. While Unipec remained on top, its reported cargo volumes and market share dropped slightly for the second year running, illustrating a softening economy and a slowdown in Chinese oil demand growth.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "total",
+        "cargo",
+        "top",
+        "charterer",
+        "crude",
+        "fixtures"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 692,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2025_01_03_the_mostly_predictable_parade__s02_chart_top_10_vlcc_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2025_01_03_the_mostly_predictable_parade",
+      "parent_id": "poten_tankers_no_date_poten_2025_01_03_the_mostly_predictable_parade__root",
+      "title": "Chart: Top 10 VLCC Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 VLCC Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 VLCC Spot Charterers",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Unipec remains the most important charterer in the VLCC spot market in 2024, although the fixture count is down by 25 from 2023. The less dominant position of China is further illustrated by the fact that two other Chinese charterers, Sinochem and PetroChina, dropped out of the top 10.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "brazil",
+        "india",
+        "down",
+        "further",
+        "players",
+        "although"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 122,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2025_01_03_the_mostly_predictable_parade__s03_chart_top_10_suezmax_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2025_01_03_the_mostly_predictable_parade",
+      "parent_id": "poten_tankers_no_date_poten_2025_01_03_the_mostly_predictable_parade__root",
+      "title": "Chart: Top 10 Suezmax Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 Suezmax Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 Suezmax Spot Charterers",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "In the Suezmax segment, ExxonMobil claimed the #1 spot, followed by Repsol. Total re-entered the top 10 at #3.",
+      "keywords": [
+        "suezmax",
+        "compared",
+        "places",
+        "top",
+        "total",
+        "all",
+        "altogether.",
+        "chevron"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 128,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2025_01_03_the_mostly_predictable_parade__s04_chart_top_10_aframax_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2025_01_03_the_mostly_predictable_parade",
+      "parent_id": "poten_tankers_no_date_poten_2025_01_03_the_mostly_predictable_parade__root",
+      "title": "Chart: Top 10 Aframax Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 Aframax Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 Aframax Spot Charterers",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The Aframax segment showed significant changes. Chevron moved up two places to #1.",
+      "keywords": [
+        "aframax",
+        "crude_oil",
+        "above",
+        "activity",
+        "activity.",
+        "another",
+        "assembled",
+        "azerbaijan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 133,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

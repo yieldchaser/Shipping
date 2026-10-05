@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2019_05_31_trumps_tariffs_threat__root",
+  "doc_id": "poten_tankers_no_date_poten_2019_05_31_trumps_tariffs_threat",
+  "parent_id": null,
+  "title": "Trumps Tariffs Threat",
+  "section_path": [
+    "Trumps Tariffs Threat"
+  ],
+  "section_path_text": "Trumps Tariffs Threat",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "What are the implications for the oil and tanker market? On May 30, President Trump tweeted that he will impose 5% tariffs on all imports from Mexico unless they do more to reduce the inflow of Central American migrants into the U.S. The tariffs will start on June 10 th and will increase monthly by 5% points until they reach 25% (by October).",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "brazil",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "crude",
+    "u.s.",
+    "mexico",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 844,
+  "source_path": "reports/poten/2019/poten_2019-05-31_trumps-tariffs-threat.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_05_31_trumps_tariffs_threat__s01_what_are_the_implications_for_the_oil_and_tanker_market",
+      "doc_id": "poten_tankers_no_date_poten_2019_05_31_trumps_tariffs_threat",
+      "parent_id": "poten_tankers_no_date_poten_2019_05_31_trumps_tariffs_threat__root",
+      "title": "What are the implications for the oil and tanker market?",
+      "section_path": [
+        "What are the implications for the oil and tanker market?"
+      ],
+      "section_path_text": "What are the implications for the oil and tanker market?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "On May 30, President Trump tweeted that he will impose 5% tariffs on all imports from Mexico unless they do more to reduce the inflow of Central American migrants into the U.S. The tariffs will start on June 10 th and will increase monthly by 5% points until they reach 25% (by October).",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "brazil",
+        "europe",
+        "india",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 833,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

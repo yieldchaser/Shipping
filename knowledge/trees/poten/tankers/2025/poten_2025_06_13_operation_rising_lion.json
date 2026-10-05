@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2025_06_13_operation_rising_lion__root",
+  "doc_id": "poten_tankers_no_date_poten_2025_06_13_operation_rising_lion",
+  "parent_id": null,
+  "title": "Operation Rising Lion",
+  "section_path": [
+    "Operation Rising Lion"
+  ],
+  "section_path_text": "Operation Rising Lion",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Israel launches an attack on Iran\nIn the early hours of Friday, June 13, Israel launched several waves of airstrikes on Iran, targeting command-and-control centers, ballistic-missile bases and air-defense batteries as well as nuclear installations. The attacks also killed several Iranian military commanders and nuclear scientists. Israel indicated that this is only the beginning of a campaign that can last for days or even weeks.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "meg",
+    "crude_oil",
+    "iran",
+    "oil",
+    "are",
+    "israel",
+    "attack",
+    "but",
+    "energy",
+    "not"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 912,
+  "source_path": "reports/poten/2025/poten_2025-06-13_operation-rising-lion.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2025_06_13_operation_rising_lion__s01_israel_launches_an_attack_on_iran",
+      "doc_id": "poten_tankers_no_date_poten_2025_06_13_operation_rising_lion",
+      "parent_id": "poten_tankers_no_date_poten_2025_06_13_operation_rising_lion__root",
+      "title": "Israel launches an attack on Iran",
+      "section_path": [
+        "Israel launches an attack on Iran"
+      ],
+      "section_path_text": "Israel launches an attack on Iran",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In the early hours of Friday, June 13, Israel launched several waves of airstrikes on Iran, targeting command-and-control centers, ballistic-missile bases and air-defense batteries as well as nuclear installations. The attacks also killed several Iranian military commanders and nuclear scientists.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "meg",
+        "crude_oil",
+        "iran",
+        "oil",
+        "are",
+        "but"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 905,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

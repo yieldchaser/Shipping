@@ -6,6 +6,7 @@ commodities:
 date: '2026-05-25'
 doc_id: hellenic_demolition_2026-05-25_2026_05_25_gms_week_21_passage_opens_window_closes
 document_type: demolition_update
+is_error_page: false
 key_entities:
 - China
 - Vale
@@ -30,7 +31,7 @@ linked_assets_ingested: 2
 linked_assets_mirrored: 2
 linked_assets_skipped: 1
 market_tone: constructive
-numeric_observation_count: 155
+numeric_observation_count: 156
 numeric_observations:
 - section: Main
   section_type: null
@@ -76,9 +77,9 @@ numeric_observations:
   - 4880.0
   - 40760.0
   - 43000.0
+  - 5.0
   - 20548.0
   - 22691.0
-  - 19800.0
 - section: Main
   section_type: null
   source_line: 'Currency divergence has widened to its sharpest configuration of the
@@ -139,16 +140,16 @@ numeric_observations:
   - -25.0
   - 21.0
   - 120874.0
-  - 6.0
-  - 6.0
-  - 40.0
+  - 66.0
+  - 56.0
+  - 140.0
 - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_120874_0e66eb56f140.png'
   section_type: linked_image_asset
   source_line: 'Image metadata: PNG 685x155 mode=RGBA'
   unit: null
   values:
   - 685.0
-  - 55.0
+  - 155.0
 - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_120874_0e66eb56f140.png'
   section_type: linked_image_asset
   source_line: 'dpi: (119.9896, 119.9896)'
@@ -286,6 +287,7 @@ numeric_observations:
   unit: usd
   values:
   - 43000.0
+  - 5.0
 - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: 20,548 on Monday to USD 22,691 by Friday, while Supramax held broadly
@@ -426,6 +428,7 @@ numeric_observations:
   unit: null
   values:
   - 123.18
+  - 2.0
 - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: direction through the diplomatic whipsaw, Brent's recovery, the May
@@ -529,6 +532,7 @@ numeric_observations:
   unit: null
   values:
   - 20.0
+  - 2.0
 - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: ceiling for converting demand into executed beachings before yards
@@ -911,6 +915,13 @@ numeric_observations:
   - 2026.0
 - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
+  source_line: disinflation narrative of Q1 is decisively over. Independent estimates
+    remain materially above the
+  unit: null
+  values:
+  - 1.0
+- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
+  section_type: linked_pdf
   source_line: official series, with ENAG at 54.62% and Istanbul Chamber data at 37.68%.
     The TCMB's 16% year-
   unit: pct
@@ -968,6 +979,7 @@ numeric_observations:
   unit: null
   values:
   - 96.97
+  - 2.0
 - section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
   section_type: linked_pdf
   source_line: For Week 21 of 2026, GMS Market Rankings / Vessel indications are as
@@ -1052,12 +1064,6 @@ numeric_observations:
   unit: null
   values:
   - 124.5
-- section: 'Linked asset: 2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf'
-  section_type: linked_pdf
-  source_line: to meet India's total crude oil demand for nearly 5 days.
-  unit: null
-  values:
-  - 5.0
 regions:
 - india
 - china

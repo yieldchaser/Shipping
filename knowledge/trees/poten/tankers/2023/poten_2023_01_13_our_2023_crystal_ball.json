@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2023_01_13_our_2023_crystal_ball__root",
+  "doc_id": "poten_tankers_no_date_poten_2023_01_13_our_2023_crystal_ball",
+  "parent_id": null,
+  "title": "Our 2023 Crystal Ball",
+  "section_path": [
+    "Our 2023 Crystal Ball"
+  ],
+  "section_path_text": "Our 2023 Crystal Ball",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Key tanker market developments for 2023\nMany researchers and analysts start the new year with a forecast of what will happen in the markets. This is a very dangerous thing to do; just look at the last three years. Nobody forecasted Covid-19 and - apart from a few Kremlin insiders - the Russian invasion of Ukraine was also totally unexpected.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "lng",
+    "container",
+    "china",
+    "atlantic",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1044,
+  "source_path": "reports/poten/2023/poten_2023-01-13_our-2023-crystal-ball.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2023_01_13_our_2023_crystal_ball__s01_key_tanker_market_developments_for_2023",
+      "doc_id": "poten_tankers_no_date_poten_2023_01_13_our_2023_crystal_ball",
+      "parent_id": "poten_tankers_no_date_poten_2023_01_13_our_2023_crystal_ball__root",
+      "title": "Key tanker market developments for 2023",
+      "section_path": [
+        "Key tanker market developments for 2023"
+      ],
+      "section_path_text": "Key tanker market developments for 2023",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Many researchers and analysts start the new year with a forecast of what will happen in the markets. This is a very dangerous thing to do; just look at the last three years.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "lng",
+        "container",
+        "china",
+        "atlantic",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1035,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

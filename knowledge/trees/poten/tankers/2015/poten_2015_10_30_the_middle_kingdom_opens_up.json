@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2015_10_30_the_middle_kingdom_opens_up__root",
+  "doc_id": "poten_tankers_no_date_poten_2015_10_30_the_middle_kingdom_opens_up",
+  "parent_id": null,
+  "title": "The Middle Kingdom Opens Up",
+  "section_path": [
+    "The Middle Kingdom Opens Up"
+  ],
+  "section_path_text": "The Middle Kingdom Opens Up",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "China's influence on the tanker market is increasing\nSince the early 2000's, China developed into an important player in the international crude oil markets as it needed to import increasing volumes to feed its rapidly growing refining industry. China became a net importer of crude oil in the mid- 1990s and rapidly increased its imports over the last 20 years. In September 2013, China's net imports of petroleum and other liquids exceeded those of the United States for the first time.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "brazil",
+    "crude_oil",
+    "oil",
+    "crude",
+    "million",
+    "its",
+    "barrels",
+    "import",
+    "imports",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 666,
+  "source_path": "reports/poten/2015/poten_2015-10-30_the-middle-kingdom-opens-up.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2015_10_30_the_middle_kingdom_opens_up__s01_china_s_influence_on_the_tanker_market_is_increasing",
+      "doc_id": "poten_tankers_no_date_poten_2015_10_30_the_middle_kingdom_opens_up",
+      "parent_id": "poten_tankers_no_date_poten_2015_10_30_the_middle_kingdom_opens_up__root",
+      "title": "China's influence on the tanker market is increasing",
+      "section_path": [
+        "China's influence on the tanker market is increasing"
+      ],
+      "section_path_text": "China's influence on the tanker market is increasing",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Since the early 2000's, China developed into an important player in the international crude oil markets as it needed to import increasing volumes to feed its rapidly growing refining industry. China became a net importer of crude oil in the mid- 1990s and rapidly increased its imports over the last 20 years.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "brazil",
+        "crude_oil",
+        "oil",
+        "crude",
+        "million",
+        "its"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 656,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

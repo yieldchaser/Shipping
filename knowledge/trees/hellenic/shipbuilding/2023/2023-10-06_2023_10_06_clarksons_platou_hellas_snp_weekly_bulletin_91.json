@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNew building in tankers this week, Clients of Athenian Sea Carriers have extended their series of 18.5k dwt Chemical Tankers at Wuchang Shipbuilding\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-10-06_clarksons-platou-hellas-snp-weekly-bulletin-91_report-06-10-2023_7981d2504db0.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-10-06_clarksons-platou-hellas-snp-weekly-bulletin-91_report-06-10-2023_7981d2504db0.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 06 Oct 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B.& W. 6S70MC-\nAM GIJON 178,462 2011 MITSUI C7.2, SS 11/25 USD 25.75 M GREEKS\nDD 11/23\nBWTS fitted\n2010 JIANGSU\nCAPE STAR 175,366 MAN B. 6S70MC6.2, SS 07/25 USD 21.5 M U/D\nRONGSHENG BWTS fitted DD 07/25\n2022 JIANGSU NEW MAN B.",
+  "summary": "Main\nNew building in tankers this week, Clients of Athenian Sea Carriers have extended their series of 18.5k dwt Chemical Tankers at Wuchang Shipbuilding\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-10-06_clarksons-platou-hellas-snp-weekly-bulletin-91_report-06-10-2023_7981d2504db0.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2023-10-06_clarksons-platou-hellas-snp-weekly-bulletin-91_report-06-10-2023_7981d2504db0.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin06 Oct 2023\n\n# Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n|AM GIJON|178,462|2011 MITSUI|MAN B.& W. 6S70MC- C7.2, BWTS fitted|SS 11/25 DD 11/23|USD 25.75 M|GREEKS|\n|CAPE STAR|175,366|2010 JIANGSU RONGSHENG|MAN B. 6S70MC6.2, BWTS fitted|SS 07/25 DD 07/25|USD 21.5 M|U/D|\n|KUNO OLDENDORFF|82,206|2022 JIANGSU NEW HANTONG|MAN B.",
   "keywords": [
     "capesize",
     "lng",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2217,
-  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-10-06_clarksons-platou-hellas-snp-weekly-bulletin-91.html",
+  "token_count": 2304,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-10-06_clarksons-platou-hellas-snp-weekly-bulletin-91.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-91",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-10-06_clarksons-platou-hellas-snp-weekly-bulletin-91_report-06-10-2023_7981d2504db0.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-10-06_clarksons-platou-hellas-snp-weekly-bulletin-91_report-06-10-2023_7981d2504db0.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 06 Oct 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B.& W. 6S70MC-\nAM GIJON 178,462 2011 MITSUI C7.2, SS 11/25 USD 25.75 M GREEKS\nDD 11/23\nBWTS fitted\n2010 JIANGSU\nCAPE STAR 175,366 MAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-10-06_clarksons-platou-hellas-snp-weekly-bulletin-91_report-06-10-2023_7981d2504db0.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin06 Oct 2023\n\n# Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n|AM GIJON|178,462|2011 MITSUI|MAN B.& W. 6S70MC- C7.2, BWTS fitted|SS 11/25 DD 11/23|USD 25.75 M|GREEKS|\n|CAPE STAR|175,366|2010 JIANGSU RONGSHENG|MAN B.",
       "keywords": [
         "capesize",
         "lng",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2122,
+      "token_count": 2209,
       "section_type": "linked_pdf",
       "children": []
     }

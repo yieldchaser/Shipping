@@ -49,9 +49,9 @@ numeric_observations:
   - 1.17
   - 1.0
   - -9.0
-  - 34450.0
+  - 34.45
   - 14.0
-  - 26910.0
+  - 26.91
   - 19.0
   - 4.2
 - &id002
@@ -145,7 +145,7 @@ numeric_observations:
   - 718.0
   - 610.0
   - 963.0
-  - 89800.0
+  - 89.8
   - 0.07
   - 0.1
 - &id010
@@ -200,7 +200,7 @@ numeric_observations:
   - 0.13
   - 116.85
   - 123.12
-  - 98230.0
+  - 98.23
   - 171.65
 - &id014
   section: 'Linked asset: 2026-09-07_mmi-daily-iron-ore-index-report-september-7-2026_07092026chinese332_38c52f375c0a.jpg'
@@ -274,7 +274,7 @@ numeric_observations:
   - 812.0
   - 663.0
   - 1063.0
-  - 96060.0
+  - 96.06
 - &id020
   section: 'Linked asset: 2026-09-07_mmi-daily-iron-ore-index-report-september-7-2026_07092026chinese332_38c52f375c0a.jpg'
   section_type: linked_image_asset
@@ -291,7 +291,7 @@ numeric_observations:
   - 718.0
   - 610.0
   - 963.0
-  - 89800.0
+  - 89.8
 - &id021
   section: 'Linked asset: 2026-09-07_mmi-daily-iron-ore-index-report-september-7-2026_07092026chinese332_38c52f375c0a.jpg'
   section_type: linked_image_asset
@@ -345,7 +345,7 @@ numeric_observations:
   - 0.13
   - 116.85
   - 123.12
-  - 98230.0
+  - 98.23
   - 171.65
 - &id025
   section: 'Linked asset: 2026-09-07_mmi-daily-iron-ore-index-report-september-7-2026_07092026chinese332_38c52f375c0a.jpg'
@@ -426,7 +426,7 @@ numeric_observations:
   source_line: '## 98.45'
   unit: null
   values:
-  - 98450.0
+  - 98.45
 - &id034
   section: 'Linked asset: 2026-09-07_mmi-daily-iron-ore-index-report-september-7-2026_mmi-daily-iron-ore-report-for-7th-se_2c62b4776d31.pdf'
   section_type: linked_pdf
@@ -457,7 +457,7 @@ numeric_observations:
   source_line: '## 7.50 1.03%'
   unit: pct
   values:
-  - 7500.0
+  - 7.5
   - 1.03
 - &id038
   section: 'Linked asset: 2026-09-07_mmi-daily-iron-ore-index-report-september-7-2026_mmi-daily-iron-ore-report-for-7th-se_2c62b4776d31.pdf'
@@ -481,7 +481,7 @@ numeric_observations:
   source_line: '## 41.09'
   unit: null
   values:
-  - 41090.0
+  - 41.09
 - &id041
   section: 'Linked asset: 2026-09-07_mmi-daily-iron-ore-index-report-september-7-2026_mmi-daily-iron-ore-report-for-7th-se_2c62b4776d31.pdf'
   section_type: linked_pdf
@@ -605,7 +605,7 @@ numeric_observations:
   values:
   - 7.0
   - 2026.0
-  - 5300.0
+  - 5.3
 - &id057
   section: 'Linked asset: 2026-09-07_mmi-daily-iron-ore-index-report-september-7-2026_mmi-daily-iron-ore-report-for-7th-se_2c62b4776d31.pdf'
   section_type: linked_pdf
@@ -619,7 +619,7 @@ numeric_observations:
   source_line: '## 18.49'
   unit: null
   values:
-  - 18490.0
+  - 18.49
 - &id059
   section: 'Linked asset: 2026-09-07_mmi-daily-iron-ore-index-report-september-7-2026_mmi-daily-iron-ore-report-for-7th-se_2c62b4776d31.pdf'
   section_type: linked_pdf
@@ -627,14 +627,14 @@ numeric_observations:
   unit: pct
   values:
   - 1.43
-  - 8400.0
+  - 8.4
 - &id060
   section: 'Linked asset: 2026-09-07_mmi-daily-iron-ore-index-report-september-7-2026_mmi-daily-iron-ore-report-for-7th-se_2c62b4776d31.pdf'
   section_type: linked_pdf
   source_line: '## 11.95'
   unit: null
   values:
-  - 11950.0
+  - 11.95
 - &id061
   section: 'Linked asset: 2026-09-07_mmi-daily-iron-ore-index-report-september-7-2026_mmi-daily-iron-ore-report-for-7th-se_2c62b4776d31.pdf'
   section_type: linked_pdf
@@ -680,7 +680,7 @@ numeric_observations:
   source_line: '**Iron Ore Port Stock (FOT Qingdao)** **IOPLI 62.5% Fe Lump RMB/t**'
   unit: pct
   values:
-  - 62500.0
+  - 62.5
 - &id067
   section: 'Linked asset: 2026-09-07_mmi-daily-iron-ore-index-report-september-7-2026_mmi-daily-iron-ore-report-for-7th-se_2c62b4776d31.pdf'
   section_type: linked_pdf
@@ -771,7 +771,7 @@ numeric_observations:
   - 62.0
   - 62.0
   - 0.2
-  - 96060.0
+  - 96.06
   - 0.2
   - 0.2
 - &id078
@@ -935,7 +935,7 @@ numeric_observations:
   source_line: '|70.00|650.00|'
   unit: null
   values:
-  - 70000.0
+  - 70.0
   - 650.0
 - section: 'Linked asset: 2026-09-07_mmi-daily-iron-ore-index-report-september-7-2026_mmi-daily-iron-ore-report-for-7th-se_2c62b4776d31.pdf'
   section_type: linked_pdf
@@ -992,7 +992,7 @@ numeric_observations:
   values:
   - 60.0
   - 63.0
-  - 5000.0
+  - 5.0
   - 60.0
   - 63.0
   - 1.5
@@ -1003,7 +1003,7 @@ numeric_observations:
   values:
   - 60.0
   - 63.0
-  - 5000.0
+  - 5.0
   - 60.0
   - 63.0
   - 1.5
@@ -1014,7 +1014,7 @@ numeric_observations:
   values:
   - 63.0
   - 64.0
-  - 62000.0
+  - 62.0
   - -3.0
   - 63.0
   - 64.0
@@ -1027,7 +1027,7 @@ numeric_observations:
   - 1.0
   - 64.0
   - 65.0
-  - 62000.0
+  - 62.0
   - -3.0
   - 64.0
   - 65.0
@@ -1038,27 +1038,27 @@ numeric_observations:
   unit: pct
   values:
   - 65.0
-  - 65500.0
-  - 62000.0
+  - 65.5
+  - 62.0
   - -3.0
   - 65.0
-  - 65500.0
+  - 65.5
   - 2.0
 - section: 'Linked asset: 2026-09-07_mmi-daily-iron-ore-index-report-september-7-2026_mmi-daily-iron-ore-report-for-7th-se_2c62b4776d31.pdf'
   section_type: linked_pdf
   source_line: '||Low Grade Fe|5.00|0.00||||'
   unit: null
   values:
-  - 5000.0
+  - 5.0
 - section: 'Linked asset: 2026-09-07_mmi-daily-iron-ore-index-report-september-7-2026_mmi-daily-iron-ore-report-for-7th-se_2c62b4776d31.pdf'
   section_type: linked_pdf
   source_line: '||High Fe Grade Al <2.25%|10.00|0.00|High Fe Grade Al <2.25%|5.50|0.00|'
   unit: pct
   values:
   - 2.25
-  - 10000.0
+  - 10.0
   - 2.25
-  - 5500.0
+  - 5.5
 - section: 'Linked asset: 2026-09-07_mmi-daily-iron-ore-index-report-september-7-2026_mmi-daily-iron-ore-report-for-7th-se_2c62b4776d31.pdf'
   section_type: linked_pdf
   source_line: '|1% Alumina|High Fe Grade Al 2.25-4% Low Fe Grade Al <2.25% Low Fe
@@ -1071,9 +1071,9 @@ numeric_observations:
   - 2.25
   - 2.25
   - -4.0
-  - 5000.0
-  - 20000.0
-  - 5000.0
+  - 5.0
+  - 20.0
+  - 5.0
   - -5.0
 - section: 'Linked asset: 2026-09-07_mmi-daily-iron-ore-index-report-september-7-2026_mmi-daily-iron-ore-report-for-7th-se_2c62b4776d31.pdf'
   section_type: linked_pdf
@@ -1081,7 +1081,7 @@ numeric_observations:
   unit: pct
   values:
   - 4.0
-  - 10000.0
+  - 10.0
   - 4.0
   - 3.5
 - section: 'Linked asset: 2026-09-07_mmi-daily-iron-ore-index-report-september-7-2026_mmi-daily-iron-ore-report-for-7th-se_2c62b4776d31.pdf'
@@ -1093,9 +1093,9 @@ numeric_observations:
   - 1.0
   - 4.0
   - -6.5
-  - 11000.0
+  - 11.0
   - 4.0
-  - 6500.0
+  - 6.5
   - 0.5
   - -0.25
 - section: 'Linked asset: 2026-09-07_mmi-daily-iron-ore-index-report-september-7-2026_mmi-daily-iron-ore-report-for-7th-se_2c62b4776d31.pdf'
@@ -1103,7 +1103,7 @@ numeric_observations:
   source_line: '||Low Fe Grade|5.00|-4.00||||'
   unit: null
   values:
-  - 5000.0
+  - 5.0
   - -4.0
 - section: 'Linked asset: 2026-09-07_mmi-daily-iron-ore-index-report-september-7-2026_mmi-daily-iron-ore-report-for-7th-se_2c62b4776d31.pdf'
   section_type: linked_pdf
@@ -1113,7 +1113,7 @@ numeric_observations:
   - 0.01
   - 0.09
   - 0.115
-  - 9000.0
+  - 9.0
   - 0.09
   - 0.115
   - 0.5
@@ -1127,8 +1127,8 @@ numeric_observations:
   - 0.15
   - 0.09
   - 0.1
-  - 9000.0
-  - 5000.0
+  - 9.0
+  - 5.0
   - 0.115
   - 0.15
   - 1.75
@@ -1239,14 +1239,14 @@ numeric_observations:
   source_line: 7.00 40
   unit: null
   values:
-  - 7000.0
+  - 7.0
   - 40.0
 - section: 'Linked asset: 2026-09-07_mmi-daily-iron-ore-index-report-september-7-2026_mmi-daily-iron-ore-report-for-7th-se_2c62b4776d31.pdf'
   section_type: linked_pdf
   source_line: 6.00 30
   unit: null
   values:
-  - 6000.0
+  - 6.0
   - 30.0
 regions:
 - china
@@ -1272,9 +1272,9 @@ signals:
     - 1.17
     - 1.0
     - -9.0
-    - 34450.0
+    - 34.45
     - 14.0
-    - 26910.0
+    - 26.91
   - metric: index
     source_line: 'Linked asset: 2026-09-07_mmi-daily-iron-ore-index-report-september-7-2026_07092026chinese332_38c52f375c0a.jpg'
     unit: null
@@ -1336,7 +1336,7 @@ signals:
     - 0.13
     - 116.85
     - 123.12
-    - 98230.0
+    - 98.23
     - 171.65
   - metric: numeric_observation
     source_line: '| Week Ending | Sep 4th, 2026 | \| | FOT | Qingdao (inc. | 13% VAT),
@@ -1482,7 +1482,7 @@ signals:
     source_line: '**Iron Ore Port Stock (FOT Qingdao)** **IOPLI 62.5% Fe Lump RMB/t**'
     unit: pct
     values:
-    - 62500.0
+    - 62.5
   - metric: index_62_fines
     source_line: '**IRON ORE PORT STOCK INDEX (IOPI)** **Sep 7th, 2026 FOT Qingdao
       (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc. 13% VAT), USD/dry
@@ -1497,7 +1497,7 @@ signals:
     - 62.0
     - 62.0
     - 0.2
-    - 96060.0
+    - 96.06
   - metric: index_62_fines
     source_line: '**IRON ORE PORT LUMP INDEX (IOPLI)** **Week Ending Sep 4th, 2026
       FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc. 13% VAT),
@@ -1618,7 +1618,7 @@ signals:
     values:
     - 60.0
     - 63.0
-    - 5000.0
+    - 5.0
     - 0.0
     - 60.0
     - 63.0
@@ -1631,7 +1631,7 @@ signals:
     - 1.0
     - 64.0
     - 65.0
-    - 62000.0
+    - 62.0
     - -3.0
     - 64.0
     - 65.0
@@ -1669,7 +1669,7 @@ signals:
       Equivalent (5-day average)
     unit: usd_per_dmt
     values:
-    - 62500.0
+    - 62.5
     - 62.0
     - 62.0
     - 62.0
@@ -1707,7 +1707,7 @@ signals:
     - 9.0
     - 4.0
     - 62.0
-    - 95040.0
+    - 95.04
     - 0.0
     - 1.0
   - metric: index_62_fines
@@ -1720,9 +1720,9 @@ signals:
     - 65.0
     - 62.0
     - 58.0
-    - 65000.0
-    - 62000.0
-    - 58000.0
+    - 65.0
+    - 62.0
+    - 58.0
     - 1.4
     - 2.25
   - metric: index_62_fines
@@ -1749,11 +1749,11 @@ signals:
     - 7.0
     - 2026.0
     - 62.0
-    - 60880.0
+    - 60.88
     - 2.35
     - 4.45
     - 0.055
-    - 9260.0
+    - 9.26
   - metric: index_62_fines
     source_line: '|Sep 7th, 2026 SSF FMG Blended Fines Robe River Western Fines Atlas
       Fines Yandi|Specifications applied for 58% brand assessments Fe Alumina Silica
@@ -1764,11 +1764,11 @@ signals:
     - 7.0
     - 2026.0
     - 58.0
-    - 56490.0
+    - 56.49
     - 3.2
-    - 6190.0
+    - 6.19
     - 0.065
-    - 9180.0
+    - 9.18
   - metric: index_62_fines
     source_line: '**CONTACT US** **MMI Singapore Office Details**:ÊLevelÊ28,ÊManulifeÊTower,Ê8ÊCrossÊStreetÊSingapore.ÊTel:Ê+Ê65Ê6850Ê7629ÊE:Êprices@mmiprices.comÊÊ
       **SMM Singapore Office Details**:ÊLevelÊ28,ÊManulifeÊTower,Ê8ÊCrossÊStreetÊSingapore.ÊTel:Ê+Ê65Ê6850Ê7630ÊE:Êserv'

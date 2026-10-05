@@ -1,0 +1,174 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_03_28_dieselizing_the_usa__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_03_28_dieselizing_the_usa",
+  "parent_id": null,
+  "title": "Dieselizing the USA",
+  "section_path": [
+    "Dieselizing the USA"
+  ],
+  "section_path_text": "Dieselizing the USA",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Dieselizing the USA\nAs US motorists continue to cope with their gasoline addiction, some are being lured to a different designer fuel by its enchanting, Siren-like offering of a lower per-mile cost. Driven by this - perhaps temporary - cost-benefit euphoria, more and more motorists are being enticed by vehicles igniting ultra-low sulfur diesel. Illustrating the present per-mile cost advantage of diesel over gasoline, the chart below approximates these costs based on the wholesale price of these fuels in the New York Harbor area.",
+  "keywords": [
+    "crude_oil",
+    "products",
+    "gas",
+    "diesel",
+    "yield",
+    "gasoline",
+    "refinery",
+    "higher",
+    "mogas",
+    "price",
+    "are",
+    "chart"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 667,
+  "source_path": "reports/poten/2008/poten_2008-03-28_dieselizing-the-usa.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_03_28_dieselizing_the_usa__s01_dieselizing_the_usa",
+      "doc_id": "poten_tankers_no_date_poten_2008_03_28_dieselizing_the_usa",
+      "parent_id": "poten_tankers_no_date_poten_2008_03_28_dieselizing_the_usa__root",
+      "title": "Dieselizing the USA",
+      "section_path": [
+        "Dieselizing the USA"
+      ],
+      "section_path_text": "Dieselizing the USA",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As US motorists continue to cope with their gasoline addiction, some are being lured to a different designer fuel by its enchanting, Siren-like offering of a lower per-mile cost. Driven by this - perhaps temporary - cost-benefit euphoria, more and more motorists are being enticed by vehicles igniting ultra-low sulfur diesel.",
+      "keywords": [
+        "products",
+        "gas",
+        "are",
+        "costs",
+        "motorists",
+        "being",
+        "gasoline",
+        "per-mile"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 129,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_03_28_dieselizing_the_usa__s02_diesel_mileage_cost_mile",
+      "doc_id": "poten_tankers_no_date_poten_2008_03_28_dieselizing_the_usa",
+      "parent_id": "poten_tankers_no_date_poten_2008_03_28_dieselizing_the_usa__root",
+      "title": "Diesel Mileage Cost, $/mile",
+      "section_path": [
+        "Diesel Mileage Cost, $/mile"
+      ],
+      "section_path_text": "Diesel Mileage Cost, $/mile",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Gasoline Mileage Cost, $/mile The preceding chart was derived on the basis of gasoline powered vehicles meeting the CAFE fuel efficiency standard of 27.5 miles per gallon. For this comparison, diesel vehicles were assigned a fuel efficiency some 30 percent greater than this standard.",
+      "keywords": [
+        "products",
+        "gas",
+        "diesel",
+        "cost",
+        "efficiency",
+        "fuel",
+        "gasoline",
+        "vehicles"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 109,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_03_28_dieselizing_the_usa__s03_with_high_price_comes_more_volume",
+      "doc_id": "poten_tankers_no_date_poten_2008_03_28_dieselizing_the_usa",
+      "parent_id": "poten_tankers_no_date_poten_2008_03_28_dieselizing_the_usa__root",
+      "title": "With High Price Comes More Volume",
+      "section_path": [
+        "With High Price Comes More Volume"
+      ],
+      "section_path_text": "With High Price Comes More Volume",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Since the end of last summer, diesel's wholesale price has consistently remained above that of gasoline's. In view of the general price relationship trend between these fuels over the last few years, as displayed in the chart below, diesel's recent prolonged premium seems unusual.",
+      "keywords": [
+        "products",
+        "gas",
+        "diesel",
+        "last",
+        "price",
+        "above",
+        "below",
+        "between"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 52,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_03_28_dieselizing_the_usa__s04_nyh_usld_bbl",
+      "doc_id": "poten_tankers_no_date_poten_2008_03_28_dieselizing_the_usa",
+      "parent_id": "poten_tankers_no_date_poten_2008_03_28_dieselizing_the_usa__root",
+      "title": "NYH USLD, $/bbl",
+      "section_path": [
+        "NYH USLD, $/bbl"
+      ],
+      "section_path_text": "NYH USLD, $/bbl",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "NYH UNL Regular gasoline, $/bbl While high prices might wring more diesel from domestic refineries, how much more production can be raised remains to be demonstrated. The chart below suggests that the yield of distillate from US refineries has - on average - increased in recent times.",
+      "keywords": [
+        "products",
+        "gas",
+        "yield",
+        "refinery",
+        "mogas",
+        "distillate",
+        "net",
+        "total"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 187,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_03_28_dieselizing_the_usa__s05_bringing_the_diesel_home",
+      "doc_id": "poten_tankers_no_date_poten_2008_03_28_dieselizing_the_usa",
+      "parent_id": "poten_tankers_no_date_poten_2008_03_28_dieselizing_the_usa__root",
+      "title": "Bringing the Diesel Home",
+      "section_path": [
+        "Bringing the Diesel Home"
+      ],
+      "section_path_text": "Bringing the Diesel Home",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The present moves afoot to expand US refining capacity also seem to be configured with an awareness of diesel's growing importance to US motorists. But if the demand for diesel explodes beyond the ability of these additions to satisfy, other supply measures would be needed.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "diesel",
+        "crude",
+        "higher",
+        "demand",
+        "oil",
+        "oils"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 151,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

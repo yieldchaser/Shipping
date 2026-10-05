@@ -1,0 +1,174 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2004_02_27_corn_aint_only_for_farm_animals_anymore__root",
+  "doc_id": "poten_tankers_no_date_poten_2004_02_27_corn_aint_only_for_farm_animals_anymore",
+  "parent_id": null,
+  "title": "Corn Ain't Only for Farm Animals Anymore",
+  "section_path": [
+    "Corn Ain't Only for Farm Animals Anymore"
+  ],
+  "section_path_text": "Corn Ain't Only for Farm Animals Anymore",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Corn Ain't Only for Farm Animals Anymore\nLaws in 17 US states enacted during the past four years and expected to be implemented through 2006 require the oil industry to add ethanol, a corn-based substance to gasoline in lieu of methyl tertiary butyl ether or MTBE. The net effect of this change will be increased reliance on imported gasoline this summer and beyond. The federal government is subsidizing what amounts to moonshine-fueled vehicles for 53 cents per gallon of ethanol.",
+  "keywords": [
+    "europe",
+    "us_gulf",
+    "grain",
+    "crude_oil",
+    "products",
+    "gas",
+    "gasoline",
+    "ethanol",
+    "bpd",
+    "states",
+    "summer",
+    "compounds"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 673,
+  "source_path": "reports/poten/2004/poten_2004-02-27_corn-aint-only-for-farm-animals-anymore.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_02_27_corn_aint_only_for_farm_animals_anymore__s01_corn_ain_t_only_for_farm_animals_anymore",
+      "doc_id": "poten_tankers_no_date_poten_2004_02_27_corn_aint_only_for_farm_animals_anymore",
+      "parent_id": "poten_tankers_no_date_poten_2004_02_27_corn_aint_only_for_farm_animals_anymore__root",
+      "title": "Corn Ain't Only for Farm Animals Anymore",
+      "section_path": [
+        "Corn Ain't Only for Farm Animals Anymore"
+      ],
+      "section_path_text": "Corn Ain't Only for Farm Animals Anymore",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Laws in 17 US states enacted during the past four years and expected to be implemented through 2006 require the oil industry to add ethanol, a corn-based substance to gasoline in lieu of methyl tertiary butyl ether or MTBE. The net effect of this change will be increased reliance on imported gasoline this summer and beyond.",
+      "keywords": [
+        "us_gulf",
+        "grain",
+        "crude_oil",
+        "products",
+        "gas",
+        "ethanol",
+        "gasoline",
+        "states"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 454,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_02_27_corn_aint_only_for_farm_animals_anymore__s02_automobiles",
+      "doc_id": "poten_tankers_no_date_poten_2004_02_27_corn_aint_only_for_farm_animals_anymore",
+      "parent_id": "poten_tankers_no_date_poten_2004_02_27_corn_aint_only_for_farm_animals_anymore__root",
+      "title": "Automobiles",
+      "section_path": [
+        "Automobiles"
+      ],
+      "section_path_text": "Automobiles",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "With less fuel-efficient vehicles making up a larger portion of the vehicle population, gasoline consumption has risen by 200,000 bpd per year, on average, during the last three years.",
+      "keywords": [
+        "products",
+        "gas",
+        "average",
+        "bpd",
+        "consumption",
+        "during",
+        "fuel-efficient",
+        "gasoline"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 38,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_02_27_corn_aint_only_for_farm_animals_anymore__s03_us_gasoline_consumption",
+      "doc_id": "poten_tankers_no_date_poten_2004_02_27_corn_aint_only_for_farm_animals_anymore",
+      "parent_id": "poten_tankers_no_date_poten_2004_02_27_corn_aint_only_for_farm_animals_anymore__root",
+      "title": "US Gasoline Consumption",
+      "section_path": [
+        "US Gasoline Consumption"
+      ],
+      "section_path_text": "US Gasoline Consumption",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "While US imports have risen on average by 50,000 bpd per year as seen in the graph below.",
+      "keywords": [
+        "average",
+        "below.",
+        "bpd",
+        "graph",
+        "imports",
+        "per",
+        "risen",
+        "seen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 23,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_02_27_corn_aint_only_for_farm_animals_anymore__s04_us_gasoline_imports",
+      "doc_id": "poten_tankers_no_date_poten_2004_02_27_corn_aint_only_for_farm_animals_anymore",
+      "parent_id": "poten_tankers_no_date_poten_2004_02_27_corn_aint_only_for_farm_animals_anymore__root",
+      "title": "US Gasoline Imports",
+      "section_path": [
+        "US Gasoline Imports"
+      ],
+      "section_path_text": "US Gasoline Imports",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "When considered only in summer months, consumption has dramatically increased from 8.8 million bpd in 2000 to 9.1 million bpd last summer, as seen in the graph below.",
+      "keywords": [
+        "bpd",
+        "million",
+        "summer",
+        "below.",
+        "considered",
+        "consumption",
+        "dramatically",
+        "graph"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 41,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_02_27_corn_aint_only_for_farm_animals_anymore__s05_conclusion",
+      "doc_id": "poten_tankers_no_date_poten_2004_02_27_corn_aint_only_for_farm_animals_anymore",
+      "parent_id": "poten_tankers_no_date_poten_2004_02_27_corn_aint_only_for_farm_animals_anymore__root",
+      "title": "Conclusion",
+      "section_path": [
+        "Conclusion"
+      ],
+      "section_path_text": "Conclusion",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "If ethanol use spreads further across the US, domestic production of gasoline will be adversely affected because refinery capacity is not being built and the volume of gasoline throughput is limited by ethanol's compounds. At the very least, this coming summer driving season will be a good litmus test as to how the use of ethanol will affect gasoline imports.",
+      "keywords": [
+        "europe",
+        "products",
+        "gas",
+        "ethanol",
+        "gasoline",
+        "absorb",
+        "adversely",
+        "affect"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 90,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

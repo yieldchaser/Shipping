@@ -8,6 +8,7 @@ commodities:
 date: '2024-06-27'
 doc_id: hellenic_dry_charter_2024-06-27_2024_06_27_oceanos_ntua_national_technical_university_of_athens_greece
 document_type: charter_estimates
+is_error_page: false
 key_entities: []
 keywords:
 - ntua

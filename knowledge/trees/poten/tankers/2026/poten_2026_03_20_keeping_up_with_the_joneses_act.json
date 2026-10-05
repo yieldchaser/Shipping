@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2026_03_20_keeping_up_with_the_joneses_act__root",
+  "doc_id": "poten_tankers_no_date_poten_2026_03_20_keeping_up_with_the_joneses_act",
+  "parent_id": null,
+  "title": "Keeping Up With The Joneses (Act)",
+  "section_path": [
+    "Keeping Up With The Joneses (Act)"
+  ],
+  "section_path_text": "Keeping Up With The Joneses (Act)",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "What will be the impact of the 60-day waiver? On March 18, 2026, the Trump administration announced the approval of a 60-day Jones Act waiver to allow foreign-flagged ship to move cargoes between U.S. The Jones Act (official name: Merchant Marine Act of 1920), is a federal statute that requires the use of U.S.-flagged, U.S.-built, U.S.-owned (at least 75%) and U.S.-operated (at least 75% crewed by U.S.",
+  "keywords": [
+    "atlantic",
+    "coal",
+    "crude_oil",
+    "products",
+    "gas",
+    "u.s.",
+    "act",
+    "jones",
+    "waiver",
+    "are",
+    "coast",
+    "domestic"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 952,
+  "source_path": "reports/poten/2026/poten_2026-03-20_keeping-up-with-the-joneses-act.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2026_03_20_keeping_up_with_the_joneses_act__s01_what_will_be_the_impact_of_the_60_day_waiver",
+      "doc_id": "poten_tankers_no_date_poten_2026_03_20_keeping_up_with_the_joneses_act",
+      "parent_id": "poten_tankers_no_date_poten_2026_03_20_keeping_up_with_the_joneses_act__root",
+      "title": "What will be the impact of the 60-day waiver?",
+      "section_path": [
+        "What will be the impact of the 60-day waiver?"
+      ],
+      "section_path_text": "What will be the impact of the 60-day waiver?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "On March 18, 2026, the Trump administration announced the approval of a 60-day Jones Act waiver to allow foreign-flagged ship to move cargoes between U.S. The Jones Act (official name: Merchant Marine Act of 1920), is a federal statute that requires the use of U.S.-flagged, U.S.-built, U.S.-owned (at least 75%) and U.S.-operated (at least 75% crewed by U.S.",
+      "keywords": [
+        "atlantic",
+        "coal",
+        "crude_oil",
+        "products",
+        "gas",
+        "u.s.",
+        "act",
+        "jones"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 940,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2009_09_25_single_and_waiting_to_mingle__root",
+  "doc_id": "poten_tankers_no_date_poten_2009_09_25_single_and_waiting_to_mingle",
+  "parent_id": null,
+  "title": "Single and Waiting to Mingle",
+  "section_path": [
+    "Single and Waiting to Mingle"
+  ],
+  "section_path_text": "Single and Waiting to Mingle",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Single and Waiting to Mingle\nHeading into the fourth quarter, it is becoming apparent that 2009 is not shaping up to be the pivotal year as many had expected regarding the single hull fleet. Some shipowners hoped that the planned removal of single hull tankers would have provided support to freight rates and asset prices this year. While the expected phase‐out has certainly played a major role in fleet renewal and newbuilding activity over the past five years, the removal of this fleet may not be the immediate boon to the market as some had hoped.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "meg",
+    "india",
+    "singapore",
+    "japan",
+    "crude_oil",
+    "hull",
+    "single",
+    "tankers",
+    "discharge",
+    "ships"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 964,
+  "source_path": "reports/poten/2009/poten_2009-09-25_single-and-waiting-to-mingle.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_09_25_single_and_waiting_to_mingle__s01_single_and_waiting_to_mingle",
+      "doc_id": "poten_tankers_no_date_poten_2009_09_25_single_and_waiting_to_mingle",
+      "parent_id": "poten_tankers_no_date_poten_2009_09_25_single_and_waiting_to_mingle__root",
+      "title": "Single and Waiting to Mingle",
+      "section_path": [
+        "Single and Waiting to Mingle"
+      ],
+      "section_path_text": "Single and Waiting to Mingle",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Heading into the fourth quarter, it is becoming apparent that 2009 is not shaping up to be the pivotal year as many had expected regarding the single hull fleet. Some shipowners hoped that the planned removal of single hull tankers would have provided support to freight rates and asset prices this year.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "india",
+        "singapore",
+        "japan",
+        "single",
+        "discharge",
+        "hull"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 275,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_09_25_single_and_waiting_to_mingle__s02_on_incident",
+      "doc_id": "poten_tankers_no_date_poten_2009_09_25_single_and_waiting_to_mingle",
+      "parent_id": "poten_tankers_no_date_poten_2009_09_25_single_and_waiting_to_mingle__root",
+      "title": "On Incident",
+      "section_path": [
+        "On Incident"
+      ],
+      "section_path_text": "On Incident",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Prior to the Hebei Spirit incident in December 2007, South Korea was generally expected to allow non‐double hull tankers to trade in its ports through 2015. South Korea had long been the top discharge port for the single hull tankers that were the subject of International Maritime Organization (IMO) regulations requiring the vessels stop trading by 2015.",
+      "keywords": [
+        "crude_oil",
+        "hull",
+        "single",
+        "tankers",
+        "korea",
+        "regulations",
+        "south",
+        "trading"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 219,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_09_25_single_and_waiting_to_mingle__s03_making_the_market",
+      "doc_id": "poten_tankers_no_date_poten_2009_09_25_single_and_waiting_to_mingle",
+      "parent_id": "poten_tankers_no_date_poten_2009_09_25_single_and_waiting_to_mingle__root",
+      "title": "Making the Market",
+      "section_path": [
+        "Making the Market"
+      ],
+      "section_path_text": "Making the Market",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The economics supporting the continued trade in single hull tankers are being seriously tested in the current market. Historically, the advantage offered by single hull tankers was that they traded at a discount compared to their double hulled counterparts.",
+      "keywords": [
+        "hull",
+        "single",
+        "historically",
+        "largely",
+        "tankers",
+        "advantage",
+        "are",
+        "being"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 131,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_09_25_single_and_waiting_to_mingle__s04_differential",
+      "doc_id": "poten_tankers_no_date_poten_2009_09_25_single_and_waiting_to_mingle",
+      "parent_id": "poten_tankers_no_date_poten_2009_09_25_single_and_waiting_to_mingle__root",
+      "title": "Differential",
+      "section_path": [
+        "Differential"
+      ],
+      "section_path_text": "Differential",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "AG‐FE (260kt) DH AG‐FE (260kt) Non‐DH Lower capital expenses of single hull tankers has enabled shipowners to keep the older ships operational until the practice is banned altogether. Shipowners will take their chances and hold onto these ships in hopes they will be the beneficiaries of future market spikes.",
+      "keywords": [
+        "meg",
+        "hull",
+        "single",
+        "ships",
+        "out",
+        "vessels",
+        "are",
+        "future"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 321,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

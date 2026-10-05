@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2026-04-17_clarksons-platou-hellas-snp-weekly-bulletin-129_weekly-sales-17th-april-2026_3d1d5ec2415b.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2026-04-17_clarksons-platou-hellas-snp-weekly-bulletin-129_weekly-sales-17th-april-2026_3d1d5ec2415b.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nConfirming the cautious sentiment of the previous weeks, this week's S&P market indicated a selective\nand targeted appetite, with few but firmly priced transactions taking place in both the Dry and Wet\nsegments. While the general momentum feels steady, Buyers appear disciplined on pricing.",
+  "summary": "Main\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2026-04-17_clarksons-platou-hellas-snp-weekly-bulletin-129_weekly-sales-17th-april-2026_3d1d5ec2415b.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2026-04-17_clarksons-platou-hellas-snp-weekly-bulletin-129_weekly-sales-17th-april-2026_3d1d5ec2415b.pdf\n\n### Clarkson Hellas Ltd. # Desk Talk\n\nConfirming the cautious sentiment of the previous weeks, this week's S&P market indicated a selective and targeted appetite, with few but firmly priced transactions taking place in both the Dry and Wet segments. While the general momentum feels steady, Buyers appear disciplined on pricing.",
   "keywords": [
     "supramax",
     "handysize",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1760,
-  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-04-17_clarksons-platou-hellas-snp-weekly-bulletin-129.html",
+  "token_count": 1805,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-04-17_clarksons-platou-hellas-snp-weekly-bulletin-129.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-129",
   "children": [
     {
@@ -66,7 +66,7 @@
       "section_path_text": "Linked asset: 2026-04-17_clarksons-platou-hellas-snp-weekly-bulletin-129_weekly-sales-17th-april-2026_3d1d5ec2415b.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-04-17_clarksons-platou-hellas-snp-weekly-bulletin-129_weekly-sales-17th-april-2026_3d1d5ec2415b.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nConfirming the cautious sentiment of the previous weeks, this week's S&P market indicated a selective\nand targeted appetite, with few but firmly priced transactions taking place in both the Dry and Wet\nsegments.",
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-04-17_clarksons-platou-hellas-snp-weekly-bulletin-129_weekly-sales-17th-april-2026_3d1d5ec2415b.pdf\n\n### Clarkson Hellas Ltd. # Desk Talk\n\nConfirming the cautious sentiment of the previous weeks, this week's S&P market indicated a selective and targeted appetite, with few but firmly priced transactions taking place in both the Dry and Wet segments.",
       "keywords": [
         "supramax",
         "handysize",
@@ -79,7 +79,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1697,
+      "token_count": 1742,
       "section_type": "linked_pdf",
       "children": []
     }

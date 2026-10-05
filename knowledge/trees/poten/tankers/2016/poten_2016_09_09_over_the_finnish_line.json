@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2016_09_09_over_the_finnish_line__root",
+  "doc_id": "poten_tankers_no_date_poten_2016_09_09_over_the_finnish_line",
+  "parent_id": null,
+  "title": "Over The Finnish Line",
+  "section_path": [
+    "Over The Finnish Line"
+  ],
+  "section_path_text": "Over The Finnish Line",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Ballast Water Treatment Regulations Finally Ratified\nEarlier this week, Finland ratified the IMO's Ballast Water Management Convention (BWMC), raising the percentage of world tonnage to 35.1441% and the number of ratifying countries to 52. This means that the hurdle of 30 countries representing 35% of the world's merchant fleet has now been met and on September 8, 2017 (one year from now), the BWMC will enter into force. While the approval process for this new regime - meant to protect local ecosystems from the impacts of invasive species - took a very long time, it may still come too soon for some owners.",
+  "keywords": [
+    "vlcc",
+    "container",
+    "crude_oil",
+    "gas",
+    "systems",
+    "ballast",
+    "are",
+    "water",
+    "may",
+    "treatment",
+    "imo",
+    "not"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 836,
+  "source_path": "reports/poten/2016/poten_2016-09-09_over-the-finnish-line.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_09_09_over_the_finnish_line__s01_ballast_water_treatment_regulations_finally_ratified",
+      "doc_id": "poten_tankers_no_date_poten_2016_09_09_over_the_finnish_line",
+      "parent_id": "poten_tankers_no_date_poten_2016_09_09_over_the_finnish_line__root",
+      "title": "Ballast Water Treatment Regulations Finally Ratified",
+      "section_path": [
+        "Ballast Water Treatment Regulations Finally Ratified"
+      ],
+      "section_path_text": "Ballast Water Treatment Regulations Finally Ratified",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Earlier this week, Finland ratified the IMO's Ballast Water Management Convention (BWMC), raising the percentage of world tonnage to 35.1441% and the number of ratifying countries to 52. This means that the hurdle of 30 countries representing 35% of the world's merchant fleet has now been met and on September 8, 2017 (one year from now), the BWMC will enter into force.",
+      "keywords": [
+        "bwmc",
+        "countries",
+        "now",
+        "world",
+        "approval",
+        "ballast",
+        "come",
+        "convention"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 126,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_09_09_over_the_finnish_line__s02_the",
+      "doc_id": "poten_tankers_no_date_poten_2016_09_09_over_the_finnish_line",
+      "parent_id": "poten_tankers_no_date_poten_2016_09_09_over_the_finnish_line__root",
+      "title": "The",
+      "section_path": [
+        "The"
+      ],
+      "section_path_text": "The",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "\"International Convention for the Control and Management of Ships' Ballast Water and Sediments\" was adopted by the IMO more than 12 years ago (in February 2004). However, as Intertanko pointed out in their press release: \"the IMO has yet to complete its work on reviewing and revising the G-8 type approval guidelines for ballast water management systems.\" There are currently more than 50 treatment systems on the market that are approved under the current IMO regime, but not all of these systems may be granted final approval by the IMO.",
+      "keywords": [
+        "vlcc",
+        "container",
+        "crude_oil",
+        "gas",
+        "systems",
+        "are",
+        "ballast",
+        "may"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 699,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

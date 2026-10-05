@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2025_09_12_more_pressure_on_putin__root",
+  "doc_id": "poten_tankers_no_date_poten_2025_09_12_more_pressure_on_putin",
+  "parent_id": null,
+  "title": "More Pressure On Putin",
+  "section_path": [
+    "More Pressure On Putin"
+  ],
+  "section_path_text": "More Pressure On Putin",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "G7 countries are discussing significant additional sanctions\nOne month ago, there was cautious optimism about a possible resolution to the conflict in Ukraine. President Putin and President Trump met in Alaska on August 15, and while the summit did not produce any formal agreements or jointly signed declarations, both leaders described the meeting as productive. However, there has been no progress since.",
+  "keywords": [
+    "suezmax",
+    "aframax",
+    "china",
+    "europe",
+    "india",
+    "japan",
+    "crude_oil",
+    "products",
+    "russian",
+    "are",
+    "u.s.",
+    "not"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 883,
+  "source_path": "reports/poten/2025/poten_2025-09-12_more-pressure-on-putin.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2025_09_12_more_pressure_on_putin__s01_g7_countries_are_discussing_significant_additional_sanctions",
+      "doc_id": "poten_tankers_no_date_poten_2025_09_12_more_pressure_on_putin",
+      "parent_id": "poten_tankers_no_date_poten_2025_09_12_more_pressure_on_putin__root",
+      "title": "G7 countries are discussing significant additional sanctions",
+      "section_path": [
+        "G7 countries are discussing significant additional sanctions"
+      ],
+      "section_path_text": "G7 countries are discussing significant additional sanctions",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "One month ago, there was cautious optimism about a possible resolution to the conflict in Ukraine. President Putin and President Trump met in Alaska on August 15, and while the summit did not produce any formal agreements or jointly signed declarations, both leaders described the meeting as productive.",
+      "keywords": [
+        "suezmax",
+        "aframax",
+        "china",
+        "europe",
+        "india",
+        "japan",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 874,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_08_01_bargain_hunting__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_08_01_bargain_hunting",
+  "parent_id": null,
+  "title": "Bargain Hunting",
+  "section_path": [
+    "Bargain Hunting"
+  ],
+  "section_path_text": "Bargain Hunting",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Bargain Hunting\nNewbuilding asset prices have continued to escalate through 2008 to date and are strikingly above long-term historical averages. Since January of this year, VLCC prices have increased almost $10 million to a current assessed level of $158 million. The other large crude oil carriers, Suezmax and Aframaxes have increased a more modest $6.5 and $4.5 million respectively.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "meg",
+    "west_africa",
+    "us_gulf",
+    "crude_oil",
+    "prices",
+    "day",
+    "per",
+    "newbuilding",
+    "million"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 689,
+  "source_path": "reports/poten/2008/poten_2008-08-01_bargain-hunting.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_08_01_bargain_hunting__s01_bargain_hunting",
+      "doc_id": "poten_tankers_no_date_poten_2008_08_01_bargain_hunting",
+      "parent_id": "poten_tankers_no_date_poten_2008_08_01_bargain_hunting__root",
+      "title": "Bargain Hunting",
+      "section_path": [
+        "Bargain Hunting"
+      ],
+      "section_path_text": "Bargain Hunting",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Newbuilding asset prices have continued to escalate through 2008 to date and are strikingly above long-term historical averages. Since January of this year, VLCC prices have increased almost $10 million to a current assessed level of $158 million.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "crude_oil",
+        "prices",
+        "assessed",
+        "increased",
+        "million"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 132,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_08_01_bargain_hunting__s02_vlcc_to_suezmax",
+      "doc_id": "poten_tankers_no_date_poten_2008_08_01_bargain_hunting",
+      "parent_id": "poten_tankers_no_date_poten_2008_08_01_bargain_hunting__root",
+      "title": "VLCC to Suezmax",
+      "section_path": [
+        "VLCC to Suezmax"
+      ],
+      "section_path_text": "VLCC to Suezmax",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Suezmax to Aframax VLCC to Aframax For context, the chart below shows the rise in average prices on an annual basis for the large crude tanker sectors.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "annual",
+        "average",
+        "basis",
+        "below",
+        "chart"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 34,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_08_01_bargain_hunting__s03_vlcc",
+      "doc_id": "poten_tankers_no_date_poten_2008_08_01_bargain_hunting",
+      "parent_id": "poten_tankers_no_date_poten_2008_08_01_bargain_hunting__root",
+      "title": "VLCC",
+      "section_path": [
+        "VLCC"
+      ],
+      "section_path_text": "VLCC",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "change",
+        "newbuilding"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_08_01_bargain_hunting__s04_suezmax",
+      "doc_id": "poten_tankers_no_date_poten_2008_08_01_bargain_hunting",
+      "parent_id": "poten_tankers_no_date_poten_2008_08_01_bargain_hunting__root",
+      "title": "Suezmax",
+      "section_path": [
+        "Suezmax"
+      ],
+      "section_path_text": "Suezmax",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "change",
+        "newbuilding"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_08_01_bargain_hunting__s05_aframax",
+      "doc_id": "poten_tankers_no_date_poten_2008_08_01_bargain_hunting",
+      "parent_id": "poten_tankers_no_date_poten_2008_08_01_bargain_hunting__root",
+      "title": "Aframax",
+      "section_path": [
+        "Aframax"
+      ],
+      "section_path_text": "Aframax",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Newbuilding % Change 2005 $120.2 $74.1 $61.3 2006 $124.1 3% $76.2 3% $63.1 3% 2007 $135.8 9% $84.6 11% $68.1 8% 2008 YTD $153.3 13% $94.3 11% $75.5 11% 2005 - 2008 YTD Average $131.5 $81.2 $66.2 As the prices and the stakes increase, shipowners are faced with more challenging investment decisions. In search of the most economic alternative, buyers must determine breakeven rate levels to meet their required returns.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "day",
+        "million",
+        "per",
+        "are",
+        "break-even",
+        "life"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 272,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_08_01_bargain_hunting__s06_the_reality",
+      "doc_id": "poten_tankers_no_date_poten_2008_08_01_bargain_hunting",
+      "parent_id": "poten_tankers_no_date_poten_2008_08_01_bargain_hunting__root",
+      "title": "The Reality",
+      "section_path": [
+        "The Reality"
+      ],
+      "section_path_text": "The Reality",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "The chart below shows the relative earnings for VLCCs on the voyage Arabian Gulf - Far East (260kt) and Suezmaxes West Africa - US Gulf (130kt).",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "meg",
+        "west_africa",
+        "us_gulf",
+        "gulf",
+        "africa",
+        "arabian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 37,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_08_01_bargain_hunting__s07_ag_fe_260kt",
+      "doc_id": "poten_tankers_no_date_poten_2008_08_01_bargain_hunting",
+      "parent_id": "poten_tankers_no_date_poten_2008_08_01_bargain_hunting__root",
+      "title": "AG - FE (260kt)",
+      "section_path": [
+        "AG - FE (260kt)"
+      ],
+      "section_path_text": "AG - FE (260kt)",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "WAF - USA (130kt) On average since January 2000, VLCCs have earned $56,000 per day as compared to Suezmaxes which have earned $39,000 per day - a difference of $17,000 per day which is enough of a margin even for today's newbuilding prices. In the past 18 months, however, this differential has nearly doubled to over $30,000 per day in these two markets suggesting that the spread in earnings appears to be outweighing the spread in the asset prices.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "west_africa",
+        "day",
+        "per",
+        "earned",
+        "prices",
+        "prices."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 171,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_12_19_tanker_prospects_2009_2013__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_12_19_tanker_prospects_2009_2013",
+  "parent_id": null,
+  "title": "Tanker Prospects 2009 - 2013",
+  "section_path": [
+    "Tanker Prospects 2009 - 2013"
+  ],
+  "section_path_text": "Tanker Prospects 2009 - 2013",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "A Medium-Term Outlook\nThe tanker market has experienced one of the strongest 12 month earnings periods ever. But the collapse of the financial markets and the tumultuous state of many economies has thrown a curve ball to tanker market players. The outlook for crude oil and refined product demand remains clouded by a weaker near-term economic forecast.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "brazil",
+    "crude_oil",
+    "outlook",
+    "demand",
+    "markets",
+    "publication",
+    "information",
+    "january"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 351,
+  "source_path": "reports/poten/2008/poten_2008-12-19_tanker-prospects-2009-2013.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_12_19_tanker_prospects_2009_2013__s01_a_medium_term_outlook",
+      "doc_id": "poten_tankers_no_date_poten_2008_12_19_tanker_prospects_2009_2013",
+      "parent_id": "poten_tankers_no_date_poten_2008_12_19_tanker_prospects_2009_2013__root",
+      "title": "A Medium-Term Outlook",
+      "section_path": [
+        "A Medium-Term Outlook"
+      ],
+      "section_path_text": "A Medium-Term Outlook",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The tanker market has experienced one of the strongest 12 month earnings periods ever. But the collapse of the financial markets and the tumultuous state of many economies has thrown a curve ball to tanker market players.",
+      "keywords": [
+        "crude_oil",
+        "demand",
+        "markets",
+        "supply",
+        "added",
+        "ago.",
+        "ball",
+        "between"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 138,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_12_19_tanker_prospects_2009_2013__s02_time_charter_equivalent_day",
+      "doc_id": "poten_tankers_no_date_poten_2008_12_19_tanker_prospects_2009_2013",
+      "parent_id": "poten_tankers_no_date_poten_2008_12_19_tanker_prospects_2009_2013__root",
+      "title": "Time Charter Equivalent ($/day)",
+      "section_path": [
+        "Time Charter Equivalent ($/day)"
+      ],
+      "section_path_text": "Time Charter Equivalent ($/day)",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "provide a comprehensive and thoroughly researched review and outlook for the tanker market for the 12 th consecutive year. Tanker Prospects 2009 - 2013 explores the key issues facing the industry today.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "publication",
+        "information",
+        "january",
+        "outlook"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 200,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

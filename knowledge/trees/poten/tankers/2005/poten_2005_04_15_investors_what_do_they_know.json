@@ -1,0 +1,191 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_04_15_investors_what_do_they_know__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_04_15_investors_what_do_they_know",
+  "parent_id": null,
+  "title": "Investors- What Do They Know?",
+  "section_path": [
+    "Investors- What Do They Know?"
+  ],
+  "section_path_text": "Investors- What Do They Know?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Tanker rates and equity values have parted company once again. The following chart shows the historical values of the Poten Tanker Index and the Equity Index. The tanker index is the average timecharter equivalent rate for crude carrier categories (Panamax to VLCC) weighted by the number of vessels in each category.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "brazil",
+    "equity",
+    "era",
+    "investors",
+    "pti",
+    "average",
+    "indices",
+    "its",
+    "per",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 922,
+  "source_path": "reports/poten/2005/poten_2005-04-15_investors-what-do-they-know.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_04_15_investors_what_do_they_know__s01_investors_what_do_they_know",
+      "doc_id": "poten_tankers_no_date_poten_2005_04_15_investors_what_do_they_know",
+      "parent_id": "poten_tankers_no_date_poten_2005_04_15_investors_what_do_they_know__root",
+      "title": "Investors- What Do They Know?",
+      "section_path": [
+        "Investors- What Do They Know?"
+      ],
+      "section_path_text": "Investors- What Do They Know?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Tanker rates and equity values have parted company once again. The following chart shows the historical values of the Poten Tanker Index and the Equity Index.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "brazil",
+        "average",
+        "equity",
+        "historical",
+        "its",
+        "values"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 139,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_04_15_investors_what_do_they_know__s02_pti",
+      "doc_id": "poten_tankers_no_date_poten_2005_04_15_investors_what_do_they_know",
+      "parent_id": "poten_tankers_no_date_poten_2005_04_15_investors_what_do_they_know__root",
+      "title": "PTI",
+      "section_path": [
+        "PTI"
+      ],
+      "section_path_text": "PTI",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "equity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_04_15_investors_what_do_they_know__s03_era_i",
+      "doc_id": "poten_tankers_no_date_poten_2005_04_15_investors_what_do_they_know",
+      "parent_id": "poten_tankers_no_date_poten_2005_04_15_investors_what_do_they_know__root",
+      "title": "Era I",
+      "section_path": [
+        "Era I"
+      ],
+      "section_path_text": "Era I",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Era II Era III What Now?",
+      "keywords": [
+        "era",
+        "iii",
+        "now",
+        "what"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_04_15_investors_what_do_they_know__s04_era_i",
+      "doc_id": "poten_tankers_no_date_poten_2005_04_15_investors_what_do_they_know",
+      "parent_id": "poten_tankers_no_date_poten_2005_04_15_investors_what_do_they_know__root",
+      "title": "Era I",
+      "section_path": [
+        "Era I"
+      ],
+      "section_path_text": "Era I",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Era I was a time when vessel earnings and stock prices were closely correlated. The R Square from the inception of the two indices in January 1997 to June 2000 was a respectable 73%.",
+      "keywords": [
+        "era",
+        "indices",
+        "two",
+        "was",
+        "below.",
+        "between",
+        "closely",
+        "correlated."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 80,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_04_15_investors_what_do_they_know__s05_equity_less_tanker_indices",
+      "doc_id": "poten_tankers_no_date_poten_2005_04_15_investors_what_do_they_know",
+      "parent_id": "poten_tankers_no_date_poten_2005_04_15_investors_what_do_they_know__root",
+      "title": "Equity Less Tanker Indices",
+      "section_path": [
+        "Equity Less Tanker Indices"
+      ],
+      "section_path_text": "Equity Less Tanker Indices",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Generally speaking the equity index has been higher than the tanker rate index except during times of peak tanker rates. The divergence between the two indices has never been greater as it is now.",
+      "keywords": [
+        "vlcc",
+        "equity",
+        "after",
+        "ag/far",
+        "august",
+        "average",
+        "between",
+        "but"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 152,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_04_15_investors_what_do_they_know__s06_era_iii",
+      "doc_id": "poten_tankers_no_date_poten_2005_04_15_investors_what_do_they_know",
+      "parent_id": "poten_tankers_no_date_poten_2005_04_15_investors_what_do_they_know__root",
+      "title": "Era III",
+      "section_path": [
+        "Era III"
+      ],
+      "section_path_text": "Era III",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "In late 2002, the tanker market changed like no one could possibly imagine with the sinking of the Erika . Although rates would have gone up somewhat from growing demand as the world economies continued to expand after the Southeast Asian economic crisis, the reduction in available supply by charterers avoiding older single hull tankers worked wonders for tanker owners of modern tonnage.",
+      "keywords": [
+        "vlcc",
+        "equity",
+        "investors",
+        "pti",
+        "are",
+        "per",
+        "earnings",
+        "hit"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 510,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

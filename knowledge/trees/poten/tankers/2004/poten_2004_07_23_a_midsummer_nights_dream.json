@@ -1,0 +1,174 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2004_07_23_a_midsummer_nights_dream__root",
+  "doc_id": "poten_tankers_no_date_poten_2004_07_23_a_midsummer_nights_dream",
+  "parent_id": null,
+  "title": "A Midsummer Night's Dream!",
+  "section_path": [
+    "A Midsummer Night's Dream!"
+  ],
+  "section_path_text": "A Midsummer Night's Dream!",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "As in the Shakespearian play where reality seems a dream, VLCC rates this July are the real thing, though seem something pulled from a dream. July rates are the highest they've been in any July over the past ten years. A combination of factors is causing this phenomenon not the least of which is tight tonnage supply and a significant increase in oil flowing worldwide.",
+  "keywords": [
+    "vlcc",
+    "meg",
+    "japan",
+    "crude_oil",
+    "july",
+    "are",
+    "oil",
+    "highest",
+    "per",
+    "demand",
+    "million",
+    "all"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 737,
+  "source_path": "reports/poten/2004/poten_2004-07-23_a-midsummer-nights-dream.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_07_23_a_midsummer_nights_dream__s01_a_midsummer_night_s_dream",
+      "doc_id": "poten_tankers_no_date_poten_2004_07_23_a_midsummer_nights_dream",
+      "parent_id": "poten_tankers_no_date_poten_2004_07_23_a_midsummer_nights_dream__root",
+      "title": "A Midsummer Night's Dream!",
+      "section_path": [
+        "A Midsummer Night's Dream!"
+      ],
+      "section_path_text": "A Midsummer Night's Dream!",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As in the Shakespearian play where reality seems a dream, VLCC rates this July are the real thing, though seem something pulled from a dream. July rates are the highest they've been in any July over the past ten years.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "july",
+        "are",
+        "any",
+        "averaged",
+        "averaging",
+        "causing"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 115,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_07_23_a_midsummer_nights_dream__s02_the_iraq_factor",
+      "doc_id": "poten_tankers_no_date_poten_2004_07_23_a_midsummer_nights_dream",
+      "parent_id": "poten_tankers_no_date_poten_2004_07_23_a_midsummer_nights_dream__root",
+      "title": "The Iraq Factor",
+      "section_path": [
+        "The Iraq Factor"
+      ],
+      "section_path_text": "The Iraq Factor",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Crude oil output from Iraq's Basra Oil Terminal, which was under siege in early summer with a barrage of attacks that halted, then halved exports, is back up to export levels of 1.7 million bpd from lows of about 800,000 bpd in June. Still, charterers are not all that eager to fix vessels to Basra because of the attacks and this has caused rates to increase for those who are willing.",
+      "keywords": [
+        "crude_oil",
+        "cost",
+        "oil",
+        "per",
+        "are",
+        "attacks",
+        "barrel",
+        "basra"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 151,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_07_23_a_midsummer_nights_dream__s03_per_barrel",
+      "doc_id": "poten_tankers_no_date_poten_2004_07_23_a_midsummer_nights_dream",
+      "parent_id": "poten_tankers_no_date_poten_2004_07_23_a_midsummer_nights_dream__root",
+      "title": "$ per Barrel",
+      "section_path": [
+        "$ per Barrel"
+      ],
+      "section_path_text": "$ per Barrel",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Worldwide Oil Demand Highest in 10 Years In just the 1st and 2nd quarters of 2004, worldwide oil production at 82.2 million bpd is at its highest in 14 years, according to Energy Information Administration data, with demand reaching 82.5 million bpd in the 4th quarter of 2004. The International Energy Agency predicts that demand will grow to an average of 81.1 million barrels per day for all of 2004, the highest growth rate in 10 years.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "japan",
+        "crude_oil",
+        "highest",
+        "million",
+        "are",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 306,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_07_23_a_midsummer_nights_dream__s04_the_dream",
+      "doc_id": "poten_tankers_no_date_poten_2004_07_23_a_midsummer_nights_dream",
+      "parent_id": "poten_tankers_no_date_poten_2004_07_23_a_midsummer_nights_dream__root",
+      "title": "The Dream",
+      "section_path": [
+        "The Dream"
+      ],
+      "section_path_text": "The Dream",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Currently, the number of available vessels looking ahead 30 days is around 30, also an anomaly looking back at the past three years, where vessels figures have tended to be about 40-45 vessels, as seen in the graph below.",
+      "keywords": [
+        "vessels",
+        "looking",
+        "ahead",
+        "anomaly",
+        "around",
+        "available",
+        "back",
+        "below."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 49,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_07_23_a_midsummer_nights_dream__s05_vlccs",
+      "doc_id": "poten_tankers_no_date_poten_2004_07_23_a_midsummer_nights_dream",
+      "parent_id": "poten_tankers_no_date_poten_2004_07_23_a_midsummer_nights_dream__root",
+      "title": "# VLCCs",
+      "section_path": [
+        "# VLCCs"
+      ],
+      "section_path_text": "# VLCCs",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The VLCC market is reaping the benefit of high oil demand fueled by developing economies. It looks as if VLCCs will maintain a high level of employment through the remainder of this year and early next year.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "demand",
+        "high",
+        "next",
+        "year.",
+        "affect",
+        "benefit"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 93,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_10_08_whats_on_the_horizon_asba_2010_annual_cargo_conference__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_10_08_whats_on_the_horizon_asba_2010_annual_cargo_conference",
+  "parent_id": null,
+  "title": "What's on the Horizon?\\\" ASBA 2010 ANNUAL CARGO CONFERENCE",
+  "section_path": [
+    "What's on the Horizon?\\\" ASBA 2010 ANNUAL CARGO CONFERENCE"
+  ],
+  "section_path_text": "What's on the Horizon?\\\" ASBA 2010 ANNUAL CARGO CONFERENCE",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "ASBA 2010 ANNUAL CARGO CONFERENCE\nLast week industry experts gathered in Miami at the Eden Roc Hotel for the Annual ASBA Cargo Conference. This year's excellent panel of speakers were asked to confront the question of \"What's on the Horizon?\" Monday morning the conference opened with Jeanne Cardona, 'Executive Director of ASBA,' introducing the Tanker Panel. The topics discussed varied from the process of U.S Flag vessel recycling to the implication of Sanctions on Iran.",
+  "keywords": [
+    "brazil",
+    "europe",
+    "japan",
+    "coal",
+    "bauxite",
+    "gas",
+    "conference",
+    "asba",
+    "carbon",
+    "fuel",
+    "not",
+    "standards"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 696,
+  "source_path": "reports/poten/2010/poten_2010-10-08_whats-on-the-horizon-asba-2010-annual-cargo-conference.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_10_08_whats_on_the_horizon_asba_2010_annual_cargo_conference__s01_asba_2010_annual_cargo_conference",
+      "doc_id": "poten_tankers_no_date_poten_2010_10_08_whats_on_the_horizon_asba_2010_annual_cargo_conference",
+      "parent_id": "poten_tankers_no_date_poten_2010_10_08_whats_on_the_horizon_asba_2010_annual_cargo_conference__root",
+      "title": "ASBA 2010 ANNUAL CARGO CONFERENCE",
+      "section_path": [
+        "ASBA 2010 ANNUAL CARGO CONFERENCE"
+      ],
+      "section_path_text": "ASBA 2010 ANNUAL CARGO CONFERENCE",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Last week industry experts gathered in Miami at the Eden Roc Hotel for the Annual ASBA Cargo Conference. This year's excellent panel of speakers were asked to confront the question of \"What's on the Horizon?\" Monday morning the conference opened with Jeanne Cardona, 'Executive Director of ASBA,' introducing the Tanker Panel.",
+      "keywords": [
+        "brazil",
+        "europe",
+        "japan",
+        "coal",
+        "bauxite",
+        "gas",
+        "fuel",
+        "standards"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 478,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_10_08_whats_on_the_horizon_asba_2010_annual_cargo_conference__s02_total_fleet",
+      "doc_id": "poten_tankers_no_date_poten_2010_10_08_whats_on_the_horizon_asba_2010_annual_cargo_conference",
+      "parent_id": "poten_tankers_no_date_poten_2010_10_08_whats_on_the_horizon_asba_2010_annual_cargo_conference__root",
+      "title": "Total Fleet",
+      "section_path": [
+        "Total Fleet"
+      ],
+      "section_path_text": "Total Fleet",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The issue of carbon emission proposals is very much prevalent as even this week a similar proposal to cut carbon emissions from new ships was met with failure. Delegates of International Maritime Organization (IMO) Marine Environment Protection Committee met to discuss technical and operational measures aimed at reducing greenhouse gas emissions from ships, however, there was little consensus on the proposals.",
+      "keywords": [
+        "brazil",
+        "gas",
+        "carbon",
+        "emissions",
+        "was",
+        "conference",
+        "delegates",
+        "even"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 201,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

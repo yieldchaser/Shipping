@@ -1,0 +1,192 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2009_10_16_polar_express__root",
+  "doc_id": "poten_tankers_no_date_poten_2009_10_16_polar_express",
+  "parent_id": null,
+  "title": "Polar Express",
+  "section_path": [
+    "Polar Express"
+  ],
+  "section_path_text": "Polar Express",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Polar Express\nLast month, retreating sea ice allowed two multipurpose heavy‐lift project carriers to complete a voyage through the Northeast Passage from South Korea, around the Russian Arctic, and on to Rotterdam. Beluga Shipping, the German company whose vessels completed the trip, called it the first non‐Russian commercial voyage through the route. Upon the trip's completion, some commentators heralded the opened sea lane as a global warming's \"silver lining.\" While news of the recent transit is newsworthy, claims that the Northeast Passage will transform trade routes in the near term are overblown.",
+  "keywords": [
+    "china",
+    "west_africa",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "crude_oil",
+    "gas",
+    "passage",
+    "ice",
+    "northeast",
+    "oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1159,
+  "source_path": "reports/poten/2009/poten_2009-10-16_polar-express.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_10_16_polar_express__s01_polar_express",
+      "doc_id": "poten_tankers_no_date_poten_2009_10_16_polar_express",
+      "parent_id": "poten_tankers_no_date_poten_2009_10_16_polar_express__root",
+      "title": "Polar Express",
+      "section_path": [
+        "Polar Express"
+      ],
+      "section_path_text": "Polar Express",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Last month, retreating sea ice allowed two multipurpose heavy‐lift project carriers to complete a voyage through the Northeast Passage from South Korea, around the Russian Arctic, and on to Rotterdam. Beluga Shipping, the German company whose vessels completed the trip, called it the first non‐Russian commercial voyage through the route.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "beluga",
+        "passage",
+        "are",
+        "northeast",
+        "russian",
+        "voyage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 288,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_10_16_polar_express__s02_usa",
+      "doc_id": "poten_tankers_no_date_poten_2009_10_16_polar_express",
+      "parent_id": "poten_tankers_no_date_poten_2009_10_16_polar_express__root",
+      "title": "USA",
+      "section_path": [
+        "USA"
+      ],
+      "section_path_text": "USA",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The ships then proceeded along Russia's arctic coast, through the Bering Strait and on to the Siberian port of Novyi, where their cargo was unloaded on September 7. The vessels then left the passage and continued on to Murmansk and further to Rotterdam, which they reached in late September.",
+      "keywords": [
+        "europe",
+        "then",
+        "along",
+        "arctic",
+        "bering",
+        "cargo",
+        "coast",
+        "continued"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 62,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_10_16_polar_express__s03_arctic",
+      "doc_id": "poten_tankers_no_date_poten_2009_10_16_polar_express",
+      "parent_id": "poten_tankers_no_date_poten_2009_10_16_polar_express__root",
+      "title": "Arctic",
+      "section_path": [
+        "Arctic"
+      ],
+      "section_path_text": "Arctic",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "ocean"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_10_16_polar_express__s04_murmansk",
+      "doc_id": "poten_tankers_no_date_poten_2009_10_16_polar_express",
+      "parent_id": "poten_tankers_no_date_poten_2009_10_16_polar_express__root",
+      "title": "Murmansk",
+      "section_path": [
+        "Murmansk"
+      ],
+      "section_path_text": "Murmansk",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The vessels' path is shown in the map to the right.",
+      "keywords": [
+        "map",
+        "path",
+        "right.",
+        "shown",
+        "vessels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_10_16_polar_express__s05_rotterdam",
+      "doc_id": "poten_tankers_no_date_poten_2009_10_16_polar_express",
+      "parent_id": "poten_tankers_no_date_poten_2009_10_16_polar_express__root",
+      "title": "Rotterdam",
+      "section_path": [
+        "Rotterdam"
+      ],
+      "section_path_text": "Rotterdam",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The traditional route takes ships through the South China Sea, past Singapore, around India and through the Suez Canal. Earlier this summer, Norway's foreign minister told an audience in England that the \"pirate‐free\" route would cut tanker transit times between Europe and Asia by 40 percent within a decade, fueling speculation that the Northeast Passage could emerge as a summertime competitor to the Suez Canal.",
+      "keywords": [
+        "china",
+        "west_africa",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "crude_oil",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 636,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_10_16_polar_express__s06_eurasia",
+      "doc_id": "poten_tankers_no_date_poten_2009_10_16_polar_express",
+      "parent_id": "poten_tankers_no_date_poten_2009_10_16_polar_express__root",
+      "title": "Eurasia",
+      "section_path": [
+        "Eurasia"
+      ],
+      "section_path_text": "Eurasia",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "There may be a time when a constellation of circumstances align to make the Northeast Passage an efficient route for a tanker with a very specific cargo and positioning, but it is unlikely that many owners will react to the recent news by jumping to on the ice class bandwagon. The tanker industry would nonetheless be well‐served to follow developments surrounding the Northeast Passage closely.",
+      "keywords": [
+        "crude_oil",
+        "passage",
+        "ice",
+        "northeast",
+        "out",
+        "align",
+        "are",
+        "bandwagon."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 137,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

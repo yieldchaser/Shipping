@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNEW BUILDING: In tankers this week, Mitsui OSK Lines announced ordering one firm 50,000 dwt Ice-breaking MR at GSI Nansha\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-02-11_clarksons-platou-hellas-snp-weekly-bulletin-8_report-11-02-2022_62f4ca4b1bda.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-02-11_clarksons-platou-hellas-snp-weekly-bulletin-8_report-11-02-2022_62f4ca4b1bda.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 11 February 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 07/22\nBAOSTEEL EVOLUTION 206,331 2007 IMABARI MAN-B&W 6S70MC-C RGN USD 19.5 M GREEKS\nDD 07/22\nSS 07/26\nNAVIOS PROSPERITY 82,535 2007 TSUNEISHI ZOSEN MAN-B&W 6S60MC6.1 USD 16.4 M U/D\nDD 12/23\nMAN-B&W 6S50MC-C SS 01/24\nGRAVITY 56,546 2014 JIANGSU HANTONG USD 16.8 M CHINESE\n4 x 30 T DD 04/22\nMAN-B&W 6S50MC-C8.2\nSS 10/26\nBUMBLEBEE 55,628 2011 MITSUI 4 x 30 T RGN USD 20.5 M\nDD 10/24\nBWTS fitted\nM. EASTERNS\nMITSUBISHI 6UEC45LSE\nSS 02/23\nSUPER VALENTINA 33,382 2013 SHIN KURUSHIMA 4 x 30 T RGN USD 18 M\nDD 02/23\nOHBH, BWTS fitted\nMAN-B&W 6S50MC-C8.1\nSS 01/26\nPOLA ANISIA 46,412 2006 OSHIMA 4 x 30 T USD 13.4 M U/D\nDD 03/24\nBWTS fitted\nTANKERS - CHEMICALS - LP",
+  "summary": "Main\nNEW BUILDING: In tankers this week, Mitsui OSK Lines announced ordering one firm 50,000 dwt Ice-breaking MR at GSI Nansha\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-02-11_clarksons-platou-hellas-snp-weekly-bulletin-8_report-11-02-2022_62f4ca4b1bda.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2022-02-11_clarksons-platou-hellas-snp-weekly-bulletin-8_report-11-02-2022_62f4ca4b1bda.pdf\n\n# ` Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 11 February 2022\n\n## BULK CARRIERS\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|BAOSTEEL EVOLUTION|206,331|2007 IMABARI|MAN-B&W 6S70MC-C|SS 07/22 DD 07/22|RGN USD 19.5 M|GREEKS|\n|NAVIOS PROSPERITY|82,535|2007 TSUNEISHI ZOSEN|MAN-B&W 6S60MC6.1|SS 07/26 DD 12/23|USD 16.4 M|U/D|\n|GRAVITY|56,546|2014 JIANGSU HANTONG|MAN-B&W 6S50MC -C 4 x 30 T|SS 01/24 DD 04/22|USD 16.8 M|CHINESE|\n|BUMBLEBEE|55,628|2011 MITSUI|MAN-B&W 6S50MC-C8.2 4 x 30 T BWTS fitted|SS 10/26 DD 10/24|RGN USD 20.5 M|M. EASTERNS|\n|SUPER VALENTINA|33,382|2013 SHIN KURUSHIMA|MITSUBISHI 6UEC45LSE 4 x 30 T OHBH, BWTS fitted|SS 02/23 DD 02/23|RGN USD 18 M||\n|POLA ANISIA|46,412|2006 OSHIMA|MAN-B&W 6S50MC-C8.1 4 x 30 T BWTS fitted|SS 01/26",
   "keywords": [
     "capesize",
     "lng",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2276,
-  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-02-11_clarksons-platou-hellas-snp-weekly-bulletin-8.html",
+  "token_count": 2551,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-02-11_clarksons-platou-hellas-snp-weekly-bulletin-8.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-8",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-02-11_clarksons-platou-hellas-snp-weekly-bulletin-8_report-11-02-2022_62f4ca4b1bda.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-02-11_clarksons-platou-hellas-snp-weekly-bulletin-8_report-11-02-2022_62f4ca4b1bda.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 11 February 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 07/22\nBAOSTEEL EVOLUTION 206,331 2007 IMABARI MAN-B&W 6S70MC-C RGN USD 19.5 M GREEKS\nDD 07/22\nSS 07/26\nNAVIOS PROSPERITY 82,535 2007 TSUNEISHI ZOSEN MAN-B&W 6S60MC6.1 USD 16.4 M U/D\nDD 12/23\nMAN-B&W 6S50MC-C SS 01/24\nGRAVITY 56,546 2014 JIANGSU HANTONG USD 16.8 M CHINESE\n4 x 30 T DD 04/22\nMAN-B&W 6S50MC-C8.2\nSS 10/26\nBUMBLEBEE 55,628 2011 MITSUI 4 x 30 T RGN USD 20.5 M\nDD 10/24\nBWTS fitted\nM. EASTERNS\nMITSUBISHI 6UEC45LSE\nSS 02/23\nSUPER VALENTINA 33,382 2013 SHIN KURUSHIMA 4 x 30 T RGN USD 18 M\nDD 02/23\nOHBH, BWTS fitted\nMAN-B&W 6S50MC-C8.1\nSS 01/26\nPOLA ANISIA 46,412 2006 OSHIMA 4 x 30 T USD 13.4 M U/D\nDD 03/24\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nUSA BASED\nMAN-B&W 6S50MC-C SS 04/26 (c/o International\nRED EAGLE 74,997 2011 SUNGDONG USD 19.5 M\nBWTS fitted DD 12/24 Seaways) - swap deal\nwith \"ALPINE MAYA\"\nSINGAPORE BASED\nMAN-B&W 6S50MC-C\nSS 03/25 (c/o Adhart Shipping)",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-02-11_clarksons-platou-hellas-snp-weekly-bulletin-8_report-11-02-2022_62f4ca4b1bda.pdf\n\n# ` Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 11 February 2022\n\n## BULK CARRIERS\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|BAOSTEEL EVOLUTION|206,331|2007 IMABARI|MAN-B&W 6S70MC-C|SS 07/22 DD 07/22|RGN USD 19.5 M|GREEKS|\n|NAVIOS PROSPERITY|82,535|2007 TSUNEISHI ZOSEN|MAN-B&W 6S60MC6.1|SS 07/26 DD 12/23|USD 16.4 M|U/D|\n|GRAVITY|56,546|2014 JIANGSU HANTONG|MAN-B&W 6S50MC -C 4 x 30 T|SS 01/24 DD 04/22|USD 16.8 M|CHINESE|\n|BUMBLEBEE|55,628|2011 MITSUI|MAN-B&W 6S50MC-C8.2 4 x 30 T BWTS fitted|SS 10/26 DD 10/24|RGN USD 20.5 M|M. EASTERNS|\n|SUPER VALENTINA|33,382|2013 SHIN KURUSHIMA|MITSUBISHI 6UEC45LSE 4 x 30 T OHBH, BWTS fitted|SS 02/23 DD 02/23|RGN USD 18 M||\n|POLA ANISIA|46,412|2006 OSHIMA|MAN-B&W 6S50MC-C8.1 4 x 30 T BWTS fitted|SS 01/26 DD 03/24|USD 13.4 M|U/D|\n\n## <u>TANKERS - CHEMICALS - LPG/LNGs</u>\n\nVESSEL <u>DWT</u> BLT DETAILS <u>SS/DD</u> PRICE BUYER USA BASED MAN-BWTS fitted B&W 6S50MC-C SS 0124/2 (c/o International **RED EAGLE** 74,997 2011 SUNGDONG USD 19.5 M DD /264 Seaways)- swap deal <u>wi",
       "keywords": [
         "capesize",
         "lng",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2181,
+      "token_count": 2456,
       "section_type": "linked_pdf",
       "children": []
     }

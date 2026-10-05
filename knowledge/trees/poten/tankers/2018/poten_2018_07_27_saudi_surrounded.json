@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2018_07_27_saudi_surrounded__root",
+  "doc_id": "poten_tankers_no_date_poten_2018_07_27_saudi_surrounded",
+  "parent_id": null,
+  "title": "Saudi Surrounded",
+  "section_path": [
+    "Saudi Surrounded"
+  ],
+  "section_path_text": "Saudi Surrounded",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Oil from the Kingdom flows through many chokepoints\nOn Wednesday, July 25, Yemeni Houthi militia attacked two Saudi VLCCs after they passed through the Bab el-Mandeb Strait, a waterway that links the Gulf of Aden with the Red Sea. In response, Khalid al-Falih, Minister of Energy, Industry and Mineral Resources of the Kingdom and chairman of Saudi Aramco announced that Saudi Arabia would temporarily halt oil shipments through the Bab el-Mandeb Strait \"until the situation becomes clearer and the maritime transit through Bab el- Mandeb is safe.\" Although it appears that the Houthi militia specifically target the merchant ships from nations supporting the Saudi led Coalition (SLC), there is always a risk of collateral damage or misidentification to all merchant traffic, including those not flagged to SLC states and Intertanko has urged their members transiting to this area to \"utilize the Maritime Security Transit Corridor while remaining as far from the Yemen coast as navigationally safe.\" While we expect that the impact of the attack on the Bahri VLCCs will be both temporary and limited, it highlights some of the vulnerabilities for the largest OPEC producer as it depends on some of ",
+  "keywords": [
+    "vlcc",
+    "meg",
+    "europe",
+    "coal",
+    "crude_oil",
+    "products",
+    "oil",
+    "saudi",
+    "crude",
+    "strait",
+    "bab",
+    "coast"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 906,
+  "source_path": "reports/poten/2018/poten_2018-07-27_saudi-surrounded.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_07_27_saudi_surrounded__s01_oil_from_the_kingdom_flows_through_many_chokepoints",
+      "doc_id": "poten_tankers_no_date_poten_2018_07_27_saudi_surrounded",
+      "parent_id": "poten_tankers_no_date_poten_2018_07_27_saudi_surrounded__root",
+      "title": "Oil from the Kingdom flows through many chokepoints",
+      "section_path": [
+        "Oil from the Kingdom flows through many chokepoints"
+      ],
+      "section_path_text": "Oil from the Kingdom flows through many chokepoints",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "On Wednesday, July 25, Yemeni Houthi militia attacked two Saudi VLCCs after they passed through the Bab el-Mandeb Strait, a waterway that links the Gulf of Aden with the Red Sea. In response, Khalid al-Falih, Minister of Energy, Industry and Mineral Resources of the Kingdom and chairman of Saudi Aramco announced that Saudi Arabia would temporarily halt oil shipments through the Bab el-Mandeb Strait \"until the situation becomes clearer and the maritime transit through Bab el- Mandeb is safe.\" Although it appears that the Houthi militia specifically target the merchant ships from nations supporting the Saudi led Coalition (SLC), there is always a risk of collateral damage or misidentification to all merchant traffic, including those not flagged to SLC states and Intertanko has urged their members transiting to this area to \"utilize the Maritime Security Transit Corridor while remaining as far from the Yemen coast as navigationally safe.\" While we expect that the impact of the attack on the Bahri VLCCs will be both temporary and limited, it highlights some of the vulnerabilities for the largest OPEC producer as it depends on some of the biggest oil transit chokepoints for its crude oi",
+      "keywords": [
+        "vlcc",
+        "europe",
+        "coal",
+        "crude_oil",
+        "products",
+        "saudi",
+        "oil",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 620,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_07_27_saudi_surrounded__s02_note_excludes_product_cargoes_60_000_tons",
+      "doc_id": "poten_tankers_no_date_poten_2018_07_27_saudi_surrounded",
+      "parent_id": "poten_tankers_no_date_poten_2018_07_27_saudi_surrounded__root",
+      "title": "Note: Excludes product cargoes < 60,000 tons",
+      "section_path": [
+        "Note: Excludes product cargoes < 60,000 tons"
+      ],
+      "section_path_text": "Note: Excludes product cargoes < 60,000 tons",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The Suez Canal itself is also a potential chokepoint for the Saudis. In 2016, the Suez Canal and the Sumed pipeline combined accounted for about 5.5 million b/d of crude oil and refined product movements.",
+      "keywords": [
+        "meg",
+        "crude_oil",
+        "oil",
+        "crude",
+        "hormuz",
+        "saudi",
+        "strait",
+        "arabian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 262,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

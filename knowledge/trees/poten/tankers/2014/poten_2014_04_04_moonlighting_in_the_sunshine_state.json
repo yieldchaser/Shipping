@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2014_04_04_moonlighting_in_the_sunshine_state__root",
+  "doc_id": "poten_tankers_no_date_poten_2014_04_04_moonlighting_in_the_sunshine_state",
+  "parent_id": null,
+  "title": "Moonlighting in the Sunshine State",
+  "section_path": [
+    "Moonlighting in the Sunshine State"
+  ],
+  "section_path_text": "Moonlighting in the Sunshine State",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "This Week In Petroleum\nA recent, This Week In Petroleum , published by the US Department of Energy's Energy Information Agency (EIA) suggested that a shift in Florida's gasoline supplies could be underway. Florida is essentially entirely dependent on gasoline imports from neighboring states or other countries, the majority of which require marine transportation. The EIA suggested that due to a shortage in Jones Act tonnage and high transportation costs, incremental gasoline cargoes would likely be increasingly sourced from foreign markets.",
+  "keywords": [
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "gas",
+    "foreign",
+    "florida",
+    "gasoline",
+    "jones",
+    "act",
+    "per",
+    "cost"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 687,
+  "source_path": "reports/poten/2014/poten_2014-04-04_moonlighting-in-the-sunshine-state.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_04_04_moonlighting_in_the_sunshine_state__s01_this_week_in_petroleum",
+      "doc_id": "poten_tankers_no_date_poten_2014_04_04_moonlighting_in_the_sunshine_state",
+      "parent_id": "poten_tankers_no_date_poten_2014_04_04_moonlighting_in_the_sunshine_state__root",
+      "title": "This Week In Petroleum",
+      "section_path": [
+        "This Week In Petroleum"
+      ],
+      "section_path_text": "This Week In Petroleum",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "A recent, This Week In Petroleum , published by the US Department of Energy's Energy Information Agency (EIA) suggested that a shift in Florida's gasoline supplies could be underway. Florida is essentially entirely dependent on gasoline imports from neighboring states or other countries, the majority of which require marine transportation.",
+      "keywords": [
+        "europe",
+        "us_gulf",
+        "crude_oil",
+        "products",
+        "gas",
+        "foreign",
+        "florida",
+        "gasoline"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 682,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

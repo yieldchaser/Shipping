@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2024_07_12_will_the_dragon_rise_again__root",
+  "doc_id": "poten_tankers_no_date_poten_2024_07_12_will_the_dragon_rise_again",
+  "parent_id": null,
+  "title": "Will The Dragon Rise Again",
+  "section_path": [
+    "Will The Dragon Rise Again"
+  ],
+  "section_path_text": "Will The Dragon Rise Again",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chinese Oil Demand Growth Slows Down\nChinese oil demand has been growing rapidly over the past decades as the country developed and became the manufacturing hub for the world. According to the IEA, Chinese oil demand increased from 4.6 million barrel per day (Mb/d) in 2000 to 16.6 Mb/d in 2023, growing from 6.0% of global demand to 16.3%. Over this period, 47% of global oil demand growth originated in China.",
+  "keywords": [
+    "china",
+    "crude_oil",
+    "products",
+    "gas",
+    "demand",
+    "oil",
+    "chinese",
+    "mb/d",
+    "growth",
+    "imports",
+    "crude",
+    "iea"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 915,
+  "source_path": "reports/poten/2024/poten_2024-07-12_will-the-dragon-rise-again.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2024_07_12_will_the_dragon_rise_again__s01_chinese_oil_demand_growth_slows_down",
+      "doc_id": "poten_tankers_no_date_poten_2024_07_12_will_the_dragon_rise_again",
+      "parent_id": "poten_tankers_no_date_poten_2024_07_12_will_the_dragon_rise_again__root",
+      "title": "Chinese Oil Demand Growth Slows Down",
+      "section_path": [
+        "Chinese Oil Demand Growth Slows Down"
+      ],
+      "section_path_text": "Chinese Oil Demand Growth Slows Down",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Chinese oil demand has been growing rapidly over the past decades as the country developed and became the manufacturing hub for the world. According to the IEA, Chinese oil demand increased from 4.6 million barrel per day (Mb/d) in 2000 to 16.6 Mb/d in 2023, growing from 6.0% of global demand to 16.3%.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "products",
+        "gas",
+        "demand",
+        "oil",
+        "chinese",
+        "mb/d"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 907,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

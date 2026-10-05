@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2023_03_17_here_we_go_again__root",
+  "doc_id": "poten_tankers_no_date_poten_2023_03_17_here_we_go_again",
+  "parent_id": null,
+  "title": "Here We Go Again",
+  "section_path": [
+    "Here We Go Again"
+  ],
+  "section_path_text": "Here We Go Again",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Is interest in tanker newbuildings picking up? Despite the dramatic increase in rates and secondhand prices since the Russian invasion of Ukraine, the tanker orderbook has remained at historically low levels. Limited shipyard capacity, high newbuilding prices and the uncertainty around marine fuels in combination with tightening environmental regulations has so far prevented (or delayed?) the typical boom-bust cycle in tanker shipping.",
+  "keywords": [
+    "panamax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "lng",
+    "container",
+    "china",
+    "crude_oil",
+    "gas",
+    "are",
+    "owners"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 918,
+  "source_path": "reports/poten/2023/poten_2023-03-17_here-we-go-again.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2023_03_17_here_we_go_again__s01_is_interest_in_tanker_newbuildings_picking_up",
+      "doc_id": "poten_tankers_no_date_poten_2023_03_17_here_we_go_again",
+      "parent_id": "poten_tankers_no_date_poten_2023_03_17_here_we_go_again__root",
+      "title": "Is interest in tanker newbuildings picking up?",
+      "section_path": [
+        "Is interest in tanker newbuildings picking up?"
+      ],
+      "section_path_text": "Is interest in tanker newbuildings picking up?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Despite the dramatic increase in rates and secondhand prices since the Russian invasion of Ukraine, the tanker orderbook has remained at historically low levels. Limited shipyard capacity, high newbuilding prices and the uncertainty around marine fuels in combination with tightening environmental regulations has so far prevented (or delayed?) the typical boom-bust cycle in tanker shipping.",
+      "keywords": [
+        "panamax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "lng",
+        "container",
+        "china"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 908,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

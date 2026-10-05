@@ -1,0 +1,174 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2009_12_31_the_roaring_00s__root",
+  "doc_id": "poten_tankers_no_date_poten_2009_12_31_the_roaring_00s",
+  "parent_id": null,
+  "title": "The Roaring 00's",
+  "section_path": [
+    "The Roaring 00's"
+  ],
+  "section_path_text": "The Roaring 00's",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Roaring 00's\nAs a painful year draws to a close, it is worth remembering that the end of 2009 also caps off what is likely to be remembered as one of the strongest decades in the history of the tanker market. For much of the past ten years, industry participants have seen the visibility of tankers rise as demand growth in developing markets sent them to ever‐more distant shores. As had been the case in decades before, swelling volumes on long‐haul routes, the development of new sources of supply and generally shifting trade patterns rewarded those who remained flexible most handsomely.",
+  "keywords": [
+    "china",
+    "brazil",
+    "meg",
+    "crude_oil",
+    "demand",
+    "growth",
+    "year",
+    "years",
+    "average",
+    "decade",
+    "oil",
+    "past"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 822,
+  "source_path": "reports/poten/2009/poten_2009-12-31_the-roaring-00s.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_12_31_the_roaring_00s__s01_the_roaring_00_s",
+      "doc_id": "poten_tankers_no_date_poten_2009_12_31_the_roaring_00s",
+      "parent_id": "poten_tankers_no_date_poten_2009_12_31_the_roaring_00s__root",
+      "title": "The Roaring 00's",
+      "section_path": [
+        "The Roaring 00's"
+      ],
+      "section_path_text": "The Roaring 00's",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As a painful year draws to a close, it is worth remembering that the end of 2009 also caps off what is likely to be remembered as one of the strongest decades in the history of the tanker market. For much of the past ten years, industry participants have seen the visibility of tankers rise as demand growth in developing markets sent them to ever‐more distant shores.",
+      "keywords": [
+        "meg",
+        "per",
+        "year",
+        "average",
+        "monthly",
+        "one",
+        "past",
+        "years"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 298,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_12_31_the_roaring_00s__s02_ag_fe_260kt",
+      "doc_id": "poten_tankers_no_date_poten_2009_12_31_the_roaring_00s",
+      "parent_id": "poten_tankers_no_date_poten_2009_12_31_the_roaring_00s__root",
+      "title": "AG ‐ FE (260kt)",
+      "section_path": [
+        "AG ‐ FE (260kt)"
+      ],
+      "section_path_text": "AG ‐ FE (260kt)",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "1YR TC 3YR TC The enormous gap between the spot market's average and top earnings helped attract new sources of capital into the industry. The heightened profile of tankers was reflected in a frenzy of shipping‐related IPOs and a series of newbuilding orders placed with an expectation of selling the delivered vessel for profit.",
+      "keywords": [
+        "crude_oil",
+        "attract",
+        "average",
+        "between",
+        "built",
+        "bull",
+        "capital",
+        "coincided"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 102,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_12_31_the_roaring_00s__s03_demand_develops",
+      "doc_id": "poten_tankers_no_date_poten_2009_12_31_the_roaring_00s",
+      "parent_id": "poten_tankers_no_date_poten_2009_12_31_the_roaring_00s__root",
+      "title": "Demand Develops",
+      "section_path": [
+        "Demand Develops"
+      ],
+      "section_path_text": "Demand Develops",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "That bull market was spurred largely by rapidly expanding crude oil and refined product demand in the developing world. As shown in the chart below, Chinese demand growth played a particularly important role in sustaining the growth of overall crude oil and refined product demand over the decade.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "demand",
+        "crude",
+        "growth",
+        "oil",
+        "product",
+        "refined"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 51,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_12_31_the_roaring_00s__s04_china",
+      "doc_id": "poten_tankers_no_date_poten_2009_12_31_the_roaring_00s",
+      "parent_id": "poten_tankers_no_date_poten_2009_12_31_the_roaring_00s__root",
+      "title": "China",
+      "section_path": [
+        "China"
+      ],
+      "section_path_text": "China",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Other World While demand growth began to weaken in the United States and other demand centers after 2005, consistent demand increases from China placed it squarely at the center of the market's focus during the second half of the decade. This dynamic has only strengthened in the wake of the economic crisis, which presented China with opportunities to secure its future supply at reduced prices.",
+      "keywords": [
+        "china",
+        "brazil",
+        "crude_oil",
+        "demand",
+        "growth",
+        "during",
+        "economic",
+        "other"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 145,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_12_31_the_roaring_00s__s05_cyclical_thinking",
+      "doc_id": "poten_tankers_no_date_poten_2009_12_31_the_roaring_00s",
+      "parent_id": "poten_tankers_no_date_poten_2009_12_31_the_roaring_00s__root",
+      "title": "Cyclical Thinking",
+      "section_path": [
+        "Cyclical Thinking"
+      ],
+      "section_path_text": "Cyclical Thinking",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The current state of the tanker market reflects wider conditions of the international economy just as the explosive growth experienced earlier in the decade was a product of expansionary forces that prevailed at the time. While few would understate the seriousness of the challenges currently facing the tanker market, it can be argued that the state of despair is heightened when those challenges are viewed from the perspective of the market highs experienced in the middle years of the 2000s.",
+      "keywords": [
+        "are",
+        "can",
+        "challenges",
+        "decade",
+        "demand",
+        "enough",
+        "experienced",
+        "growth"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 200,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

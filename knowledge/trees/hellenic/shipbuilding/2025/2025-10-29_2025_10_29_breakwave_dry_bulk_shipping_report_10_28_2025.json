@@ -9,7 +9,7 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 10.28.2025",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nContinuing Changes in Trade Policies Dominate Dry Bulk Headlines - Political and global trade policies continue to shape freight sentiment,\nSource: Breakwave Advisors\n\nLinked asset: 2025-10-29_breakwave-dry-bulk-shipping-report-10-28-2025_breakwavedryoctober282025report_e4675f27072a.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2025-10-29_breakwave-dry-bulk-shipping-report-10-28-2025_breakwavedryoctober282025report_e4675f27072a.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nOctober 28, 2025\n• Continuing Changes in Trade Policies Dominate Dry Bulk Headlines - Political\nShort-term Indicators\nand global trade policies continue to shape freight sentiment, with the current\nMomentum: Negative\ndiscussion centering on agricultural products in the most recent. A potential US-\nChina trade agreement, whatever its scope, has improved sentiment in the dry Sentiment: Neutral\nbulk sector, particularly for grain-focused Panamax and Supramax segments. Fundamentals: Neutral\nAlthough US agricultural exports have diminished in importance for global freight\ntrading, any meaningful, even if brief, adjustment could positively impact fourth-\nBreakwave Dry\nquarter spot rates.",
+  "summary": "Main\nContinuing Changes in Trade Policies Dominate Dry Bulk Headlines - Political and global trade policies continue to shape freight sentiment,\nSource: Breakwave Advisors\n\nLinked asset: 2025-10-29_breakwave-dry-bulk-shipping-report-10-28-2025_breakwavedryoctober282025report_e4675f27072a.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2025-10-29_breakwave-dry-bulk-shipping-report-10-28-2025_breakwavedryoctober282025report_e4675f27072a.pdf\n\n# Dry Bulk Shipping\n\n## Bi-Weekly Industry Report\n\n### October 28, 2025\n\n- **Continuing Changes in Trade Policies Dominate Dry Bulk Headlines -** Political and global **trade policies continue to shape freight sentiment**, with the current discussion centering on agricultural products in the most recent. A potential US- China trade agreement, whatever its scope, has **improved sentiment** in the dry bulk sector, particularly for grain-focused Panamax and Supramax segments. Although **US agricultural exports have diminished** in importance for global freight trading, any meaningful, even if brief, adjustment could positively impact fourth- quarter spot rates.",
   "keywords": [
     "capesize",
     "panamax",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1672,
-  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-10-29_breakwave-dry-bulk-shipping-report-10-28-2025.html",
+  "token_count": 1758,
+  "source_path": "reports/hellenic/shipbuilding/2025/2025-10-29_breakwave-dry-bulk-shipping-report-10-28-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-10-28-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-10-29_breakwave-dry-bulk-shipping-report-10-28-2025_breakwavedryoctober282025report_e4675f27072a.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-10-29_breakwave-dry-bulk-shipping-report-10-28-2025_breakwavedryoctober282025report_e4675f27072a.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nOctober 28, 2025\n• Continuing Changes in Trade Policies Dominate Dry Bulk Headlines - Political\nShort-term Indicators\nand global trade policies continue to shape freight sentiment, with the current\nMomentum: Negative\ndiscussion centering on agricultural products in the most recent. A potential US-\nChina trade agreement, whatever its scope, has improved sentiment in the dry Sentiment: Neutral\nbulk sector, particularly for grain-focused Panamax and Supramax segments.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-10-29_breakwave-dry-bulk-shipping-report-10-28-2025_breakwavedryoctober282025report_e4675f27072a.pdf\n\n# Dry Bulk Shipping\n\n## Bi-Weekly Industry Report\n\n### October 28, 2025\n\n- **Continuing Changes in Trade Policies Dominate Dry Bulk Headlines -** Political and global **trade policies continue to shape freight sentiment**, with the current discussion centering on agricultural products in the most recent. A potential US- China trade agreement, whatever its scope, has **improved sentiment** in the dry bulk sector, particularly for grain-focused Panamax and Supramax segments.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1596,
+      "token_count": 1682,
       "section_type": "linked_pdf",
       "children": []
     }

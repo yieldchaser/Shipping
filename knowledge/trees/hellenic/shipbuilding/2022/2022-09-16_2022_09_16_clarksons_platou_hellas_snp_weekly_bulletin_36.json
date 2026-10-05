@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nIn dry bulk this week, CSSC Huangpu Wenchong contracted two firm 85k dwt Kamsarmaxes for domestic\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-09-16_clarksons-platou-hellas-snp-weekly-bulletin-36_report-16-09-2022_e15e932d55c6.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-09-16_clarksons-platou-hellas-snp-weekly-bulletin-36_report-16-09-2022_e15e932d55c6.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 16 September 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nSS 12/22\nSPRING BRAVE 206,306 2007 IMABARI MAN B. 6S70MC-C7.1 DD12/22 USD 17 M U/D\nSAGARJEET 58,079 2009 TSUNEISHI, SS 05/24\nMAN-B&W 6S50MC-C8.2 USD 16 M U/D\nZHOUSHAN DD 05/24\n4 X 30 T\nAQUARIUS 77 35,737 2016 TSUNEISHI, MAN-B&W 6S50ME-B9.3 SS 02/26\nUSD 21 M U/D\nCEBU 4 X 30 T, BWTS FITTED DD 03/24\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 7S60MC6.1, SS 11/26\nBEKS ATLANTICA 114,895 2006 SAMSUNG USD 33 M MIDDLE EASTERNS\nBWTS FITTED, ICE 1A DD 02/25\nMAN B.",
+  "summary": "Main\nIn dry bulk this week, CSSC Huangpu Wenchong contracted two firm 85k dwt Kamsarmaxes for domestic\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-09-16_clarksons-platou-hellas-snp-weekly-bulletin-36_report-16-09-2022_e15e932d55c6.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2022-09-16_clarksons-platou-hellas-snp-weekly-bulletin-36_report-16-09-2022_e15e932d55c6.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin16 September 2022\n\n# Bulk Carriers\n\n### Vessel DWT Built Details SS/DD Price Buyer\n\n**SPRING BRAVE** 206,306 2007 IMABARI MAN B. 6S70MC-C7.1 SS 12/22 USD 17 M U/D DD12/22\n\n**SAGARJEET** 58,079 2009 TSUNEISHI, MAN-B&W 6S50MC-C8.2 SS 05/24 USD 16 M U/D ZHOUSHAN 4 X 30 T DD 05/24\n\n**AQUARIUS 77** 35,737 2016 TSUNEISHI, MAN-B&W 6S50ME-B9.3 SS 02/26 USD 21 M U/D CEBU 4 X 30 T, BWTS FITTED DD 03/24\n\n# Tankers - Chemicals - LPG/LNGs\n\n### Vessel DWT Built Details SS/DD Price Buyer\n\n**BEKS ATLANTICA** 114,895 2006 SAMSUNG MAN B. 7S60MC BWTS FITTED, ICE 1A6.1, DD 02/25 SS 11/26 USD 33 M MIDDLE EASTERNS\n\n**STENA PROVENCE** 65,125 2006 BRODOSPLIT MAN B.",
   "keywords": [
     "lng",
     "lpg",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2026,
-  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-09-16_clarksons-platou-hellas-snp-weekly-bulletin-36.html",
+  "token_count": 2076,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-09-16_clarksons-platou-hellas-snp-weekly-bulletin-36.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-36",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-09-16_clarksons-platou-hellas-snp-weekly-bulletin-36_report-16-09-2022_e15e932d55c6.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-09-16_clarksons-platou-hellas-snp-weekly-bulletin-36_report-16-09-2022_e15e932d55c6.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 16 September 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nSS 12/22\nSPRING BRAVE 206,306 2007 IMABARI MAN B. 6S70MC-C7.1 DD12/22 USD 17 M U/D\nSAGARJEET 58,079 2009 TSUNEISHI, SS 05/24\nMAN-B&W 6S50MC-C8.2 USD 16 M U/D\nZHOUSHAN DD 05/24\n4 X 30 T\nAQUARIUS 77 35,737 2016 TSUNEISHI, MAN-B&W 6S50ME-B9.3 SS 02/26\nUSD 21 M U/D\nCEBU 4 X 30 T, BWTS FITTED DD 03/24\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\nMAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-09-16_clarksons-platou-hellas-snp-weekly-bulletin-36_report-16-09-2022_e15e932d55c6.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin16 September 2022\n\n# Bulk Carriers\n\n### Vessel DWT Built Details SS/DD Price Buyer\n\n**SPRING BRAVE** 206,306 2007 IMABARI MAN B. 6S70MC-C7.1 SS 12/22 USD 17 M U/D DD12/22\n\n**SAGARJEET** 58,079 2009 TSUNEISHI, MAN-B&W 6S50MC-C8.2 SS 05/24 USD 16 M U/D ZHOUSHAN 4 X 30 T DD 05/24\n\n**AQUARIUS 77** 35,737 2016 TSUNEISHI, MAN-B&W 6S50ME-B9.3 SS 02/26 USD 21 M U/D CEBU 4 X 30 T, BWTS FITTED DD 03/24\n\n# Tankers - Chemicals - LPG/LNGs\n\n### Vessel DWT Built Details SS/DD Price Buyer\n\n**BEKS ATLANTICA** 114,895 2006 SAMSUNG MAN B.",
       "keywords": [
         "lng",
         "lpg",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1940,
+      "token_count": 1990,
       "section_type": "linked_pdf",
       "children": []
     }

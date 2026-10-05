@@ -1,0 +1,163 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2004_08_20_reality_versus_perception_oil_spills__root",
+  "doc_id": "poten_tankers_no_date_poten_2004_08_20_reality_versus_perception_oil_spills",
+  "parent_id": null,
+  "title": "Reality Versus Perception: Oil Spills",
+  "section_path": [
+    "Reality Versus Perception: Oil Spills"
+  ],
+  "section_path_text": "Reality Versus Perception: Oil Spills",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Reality Versus Perception: Oil Spills\nReality Versus Perception:\n\nOil Spills\nThe general public's perception of oil spills is that tankers are a major source of pollution on the high seas, that their record, if anything, is worsening, and that little is being done to correct the situation. The irony and reality is that the greatest oil polluter is nature itself. Restricting our attention to the coastal waters surrounding North America, average annual releases of petroleum were 260,000 tons during the 1990s according to the National Research Council publication Oil in the Sea III: Inputs, Fates, and Effects.",
+  "keywords": [
+    "atlantic",
+    "crude_oil",
+    "oil",
+    "spills",
+    "tons",
+    "perception",
+    "public",
+    "reality",
+    "tankers",
+    "during",
+    "per",
+    "source"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 835,
+  "source_path": "reports/poten/2004/poten_2004-08-20_reality-versus-perception-oil-spills.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_08_20_reality_versus_perception_oil_spills__s01_reality_versus_perception_oil_spills",
+      "doc_id": "poten_tankers_no_date_poten_2004_08_20_reality_versus_perception_oil_spills",
+      "parent_id": "poten_tankers_no_date_poten_2004_08_20_reality_versus_perception_oil_spills__root",
+      "title": "Reality Versus Perception: Oil Spills",
+      "section_path": [
+        "Reality Versus Perception: Oil Spills"
+      ],
+      "section_path_text": "Reality Versus Perception: Oil Spills",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "perception",
+        "reality",
+        "versus"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_08_20_reality_versus_perception_oil_spills__s02_oil_spills",
+      "doc_id": "poten_tankers_no_date_poten_2004_08_20_reality_versus_perception_oil_spills",
+      "parent_id": "poten_tankers_no_date_poten_2004_08_20_reality_versus_perception_oil_spills__root",
+      "title": "Oil Spills",
+      "section_path": [
+        "Oil Spills"
+      ],
+      "section_path_text": "Oil Spills",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The general public's perception of oil spills is that tankers are a major source of pollution on the high seas, that their record, if anything, is worsening, and that little is being done to correct the situation. The irony and reality is that the greatest oil polluter is nature itself.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "tons",
+        "pennsylvania",
+        "petroleum",
+        "sea",
+        "according",
+        "age"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 191,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_08_20_reality_versus_perception_oil_spills__s03_nature",
+      "doc_id": "poten_tankers_no_date_poten_2004_08_20_reality_versus_perception_oil_spills",
+      "parent_id": "poten_tankers_no_date_poten_2004_08_20_reality_versus_perception_oil_spills__root",
+      "title": "Nature",
+      "section_path": [
+        "Nature"
+      ],
+      "section_path_text": "Nature",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "160 (63%) Extraction In June, Dr. Marcus, Professor of Marine Systems, Department of Ocean Engineering at the Massachusetts Institute of Technology spoke about this phenomenon at the API Biennial Conference in a presentation entitled: Improving the Tanker Industry's Image.",
+      "keywords": [
+        "crude_oil",
+        "spills",
+        "tons",
+        "oil",
+        "per",
+        "during",
+        "source",
+        "year"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 361,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_08_20_reality_versus_perception_oil_spills__s04_abt_summer",
+      "doc_id": "poten_tankers_no_date_poten_2004_08_20_reality_versus_perception_oil_spills",
+      "parent_id": "poten_tankers_no_date_poten_2004_08_20_reality_versus_perception_oil_spills__root",
+      "title": "ABT Summer",
+      "section_path": [
+        "ABT Summer"
+      ],
+      "section_path_text": "ABT Summer",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "exxon",
+        "valdez"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_08_20_reality_versus_perception_oil_spills__s05_reality",
+      "doc_id": "poten_tankers_no_date_poten_2004_08_20_reality_versus_perception_oil_spills",
+      "parent_id": "poten_tankers_no_date_poten_2004_08_20_reality_versus_perception_oil_spills__root",
+      "title": "Reality",
+      "section_path": [
+        "Reality"
+      ],
+      "section_path_text": "Reality",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The reality is that the quantity of oil spilled has declined relative to the amount of oil transiting the world's seas. Perception The public's perception is quite different.",
+      "keywords": [
+        "atlantic",
+        "crude_oil",
+        "public",
+        "oil",
+        "perception",
+        "tons",
+        "its",
+        "out"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 252,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

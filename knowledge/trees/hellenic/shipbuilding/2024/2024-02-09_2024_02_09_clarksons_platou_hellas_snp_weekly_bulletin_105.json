@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNew building in tankers this week, Dalian announced contracting four firm plus two optional LNG dual fuel 300k dwt VLCCs with an unnamed owner\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 09 Feb 2024\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nSS 06/27\nSOLAR OAK\n2021NEW MAN-B&W 6G70ME-C10.5 DD 05/25\n208,892 USD 66 M each U/D\nTIMES BWTS & SCRUBBER FITTED SS 01/26\nSOLAR NOVA\nDD 02/24\nSOLAR PRIDE 210,000 2020\nMAN-B&W 6G70ME-C9.5 SS 11/25\nSHANGHAI USD 65 M each U/D\nBWTS & SCRUBBER FITTED DD 11/25\nSOLAR QUANTUM 207,999 WAIGAOQIAO\nSS 08/2024\nQING MAY 206,117 2011 MAN B. 6S70MC-\nDD 05/24 USD 73M en\nSHANGHAI C7.2 U/D\nSS 07/24 bloc\nLAN MAY 206,007 WAIGAOQIAO BWTS & SCRUBBER FITTED\nDD 07/24\n2011\nMAN B. 6S70MC6.2 SS 01/26\nZHONG MAY 176,403 SHANGHAI U/D EUROPEAN\nBWTS FITTED DD 01/26\nWAIGAOQIAO\n2011\nMAN B.",
+  "summary": "Main\nNew building in tankers this week, Dalian announced contracting four firm plus two optional LNG dual fuel 300k dwt VLCCs with an unnamed owner\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin09 Feb 2024\n\n# Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n|SOLAR OAK|208,892|2021NEW TIMES|MAN-B&W 6G70ME-C10.5 BWTS & SCRUBBER FITTED|SS 06/27 DD 05/25|USD 66 M each SOLAR NOVA|U/D SS 01/26 DD 02/24|\n|SOLAR PRIDE|210,000|2020 SHANGHAI WAIGAOQIAO|MAN-B&W 6G70ME-C9.5 BWTS & SCRUBBER FITTED|SS 11/25 DD 11/25|USD 65 M each SOLAR QUANTUM|U/D 207,999|\n|QING MAY|206,117|2011 SHANGHAI WAIGAOQIAO|MAN B. 6S70MC- C7.2 BWTS & SCRUBBER FITTED|SS 08/2024 DD 05/24 LAN MAY|USD 73M en bloc 206,007|U/D SS 07/24 DD 07/24|\n|ZHONG MAY|176,403|2011 SHANGHAI WAIGAOQIAO|MAN B. 6S70MC6.2 BWTS FITTED|SS 01/26 DD 01/26|U/D|EUROPEAN|\n|YUE MAY|176,000|2011 SHANGHAI W",
   "keywords": [
     "vlcc",
     "lng",
@@ -22,12 +22,12 @@
     "steel",
     "gas",
     "any",
-    "clarksons"
+    "information"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2458,
-  "source_path": "corpus/02-hellenic/shipbuilding/2024/2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105.html",
+  "token_count": 2525,
+  "source_path": "reports/hellenic/shipbuilding/2024/2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-105",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 09 Feb 2024\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nSS 06/27\nSOLAR OAK\n2021NEW MAN-B&W 6G70ME-C10.5 DD 05/25\n208,892 USD 66 M each U/D\nTIMES BWTS & SCRUBBER FITTED SS 01/26\nSOLAR NOVA\nDD 02/24\nSOLAR PRIDE 210,000 2020\nMAN-B&W 6G70ME-C9.5 SS 11/25\nSHANGHAI USD 65 M each U/D\nBWTS & SCRUBBER FITTED DD 11/25\nSOLAR QUANTUM 207,999 WAIGAOQIAO\nSS 08/2024\nQING MAY 206,117 2011 MAN B. 6S70MC-\nDD 05/24 USD 73M en\nSHANGHAI C7.2 U/D\nSS 07/24 bloc\nLAN MAY 206,007 WAIGAOQIAO BWTS & SCRUBBER FITTED\nDD 07/24\n2011\nMAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin09 Feb 2024\n\n# Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n|SOLAR OAK|208,892|2021NEW TIMES|MAN-B&W 6G70ME-C10.5 BWTS & SCRUBBER FITTED|SS 06/27 DD 05/25|USD 66 M each SOLAR NOVA|U/D SS 01/26 DD 02/24|\n|SOLAR PRIDE|210,000|2020 SHANGHAI WAIGAOQIAO|MAN-B&W 6G70ME-C9.5 BWTS & SCRUBBER FITTED|SS 11/25 DD 11/25|USD 65 M each SOLAR QUANTUM|U/D 207,999|\n|QING MAY|206,117|2011 SHANGHAI WAIGAOQIAO|MAN B. 6S70MC- C7.2 BWTS & SCRUBBER FITTED|SS 08/2024 DD 05/24 LAN MAY|USD 73M en bloc 206,007|U/D SS 07/24 DD 07/24|\n|ZHONG MAY|176,403|2011 SHANGHAI WAIGAOQIAO|MAN B.",
       "keywords": [
         "vlcc",
         "lng",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2369,
+      "token_count": 2436,
       "section_type": "linked_pdf",
       "children": []
     }

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2019_11_01_2020_vision_on_freight_costs__root",
+  "doc_id": "poten_tankers_no_date_poten_2019_11_01_2020_vision_on_freight_costs",
+  "parent_id": null,
+  "title": "2020 Vision on Freight Costs",
+  "section_path": [
+    "2020 Vision on Freight Costs"
+  ],
+  "section_path_text": "2020 Vision on Freight Costs",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Impact of IMO 2020 on Freight Rates\nAnyone who follows the shipping industry or is involved in the refining business will be aware of the fuel change affecting the shipping markets in 2020, with the implementation of the International Maritime Organization (IMO) Sulphur regulations. After January 1, 2020, ships will be required to burn fuel with a maximum Sulphur content of 0.5%, compared to 3.5% currently. Alternatively, owners can install exhaust gas cleaning equipment (often called scrubbers) on the ships, but only a small percentage of ships will have such equipment by the start of the year.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "brazil",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "gas",
+    "fuel",
+    "mgo",
+    "ships",
+    "prices"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 875,
+  "source_path": "reports/poten/2019/poten_2019-11-01_2020-vision-on-freight-costs.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_11_01_2020_vision_on_freight_costs__s01_the_impact_of_imo_2020_on_freight_rates",
+      "doc_id": "poten_tankers_no_date_poten_2019_11_01_2020_vision_on_freight_costs",
+      "parent_id": "poten_tankers_no_date_poten_2019_11_01_2020_vision_on_freight_costs__root",
+      "title": "The Impact of IMO 2020 on Freight Rates",
+      "section_path": [
+        "The Impact of IMO 2020 on Freight Rates"
+      ],
+      "section_path_text": "The Impact of IMO 2020 on Freight Rates",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Anyone who follows the shipping industry or is involved in the refining business will be aware of the fuel change affecting the shipping markets in 2020, with the implementation of the International Maritime Organization (IMO) Sulphur regulations. After January 1, 2020, ships will be required to burn fuel with a maximum Sulphur content of 0.5%, compared to 3.5% currently.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "brazil",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 864,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

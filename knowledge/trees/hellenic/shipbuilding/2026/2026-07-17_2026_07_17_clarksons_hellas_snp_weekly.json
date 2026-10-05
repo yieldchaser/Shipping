@@ -22,12 +22,12 @@
     "europe",
     "crude_oil",
     "gas",
-    "abt"
+    "any"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 655,
-  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-07-17_clarksons-hellas-snp-weekly.html",
+  "token_count": 2292,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-07-17_clarksons-hellas-snp-weekly.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly",
   "children": [
     {
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 653,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-07-17_2026_07_17_clarksons_hellas_snp_weekly__s02_linked_asset_2026_07_17_clarksons_hellas_snp_weekly_weekly_sales_17th_july_2026_b7aab37b9ff2_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-07-17_2026_07_17_clarksons_hellas_snp_weekly",
+      "parent_id": "hellenic_shipbuilding_2026-07-17_2026_07_17_clarksons_hellas_snp_weekly__root",
+      "title": "Linked asset: 2026-07-17_clarksons-hellas-snp-weekly_weekly-sales-17th-july-2026_b7aab37b9ff2.pdf",
+      "section_path": [
+        "Linked asset: 2026-07-17_clarksons-hellas-snp-weekly_weekly-sales-17th-july-2026_b7aab37b9ff2.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-07-17_clarksons-hellas-snp-weekly_weekly-sales-17th-july-2026_b7aab37b9ff2.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-07-17_clarksons-hellas-snp-weekly_weekly-sales-17th-july-2026_b7aab37b9ff2.pdf\n\n### Clarkson Hellas Ltd. # Desk Talk\n\nNearing the end of the second week after the interim peace deal between Iran and United States began to break down, and amid renewed attacks on vessels in the MEG, we've now reached the lowest daily total tonnage transit number through the SoH at 0.2m GT on Monday, amounting to >95% below typical daily volumes.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "lng",
+        "china",
+        "meg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1596,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

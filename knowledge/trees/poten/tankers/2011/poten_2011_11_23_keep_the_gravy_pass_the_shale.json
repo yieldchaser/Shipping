@@ -1,0 +1,245 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_11_23_keep_the_gravy_pass_the_shale__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_11_23_keep_the_gravy_pass_the_shale",
+  "parent_id": null,
+  "title": "Keep the Gravy, Pass the Shale!",
+  "section_path": [
+    "Keep the Gravy, Pass the Shale!"
+  ],
+  "section_path_text": "Keep the Gravy, Pass the Shale!",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Keep the Gravy, Pass the Shale! As the United States prepares to celebrate the bounty of the harvest this Thanksgiving holiday, some refiners in the mid Continent and US Gulf are celebrating an abundance of another sort. After years of declining domestic crude oil output, development of unconventional and offshore reserves and general advances in technology have led to dramatic increases in US crude oil production.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "meg",
+    "west_africa",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "oil",
+    "crude",
+    "production",
+    "domestic",
+    "kbd"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1298,
+  "source_path": "reports/poten/2011/poten_2011-11-23_keep-the-gravy-pass-the-shale.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_11_23_keep_the_gravy_pass_the_shale__s01_keep_the_gravy_pass_the_shale",
+      "doc_id": "poten_tankers_no_date_poten_2011_11_23_keep_the_gravy_pass_the_shale",
+      "parent_id": "poten_tankers_no_date_poten_2011_11_23_keep_the_gravy_pass_the_shale__root",
+      "title": "Keep the Gravy, Pass the Shale!",
+      "section_path": [
+        "Keep the Gravy, Pass the Shale!"
+      ],
+      "section_path_text": "Keep the Gravy, Pass the Shale!",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As the United States prepares to celebrate the bounty of the harvest this Thanksgiving holiday, some refiners in the mid Continent and US Gulf are celebrating an abundance of another sort. After years of declining domestic crude oil output, development of unconventional and offshore reserves and general advances in technology have led to dramatic increases in US crude oil production.",
+      "keywords": [
+        "europe",
+        "us_gulf",
+        "crude_oil",
+        "crude",
+        "oil",
+        "domestic",
+        "increased",
+        "mbd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 286,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_11_23_keep_the_gravy_pass_the_shale__s02_us_crude_oil_production_v_domestic_demand",
+      "doc_id": "poten_tankers_no_date_poten_2011_11_23_keep_the_gravy_pass_the_shale",
+      "parent_id": "poten_tankers_no_date_poten_2011_11_23_keep_the_gravy_pass_the_shale__root",
+      "title": "US Crude Oil Production v. Domestic Demand",
+      "section_path": [
+        "US Crude Oil Production v. Domestic Demand"
+      ],
+      "section_path_text": "US Crude Oil Production v. Domestic Demand",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 YTD 2011 Est",
+      "keywords": [
+        "est",
+        "ytd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 41,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_11_23_keep_the_gravy_pass_the_shale__s03_us_crude_oil_production",
+      "doc_id": "poten_tankers_no_date_poten_2011_11_23_keep_the_gravy_pass_the_shale",
+      "parent_id": "poten_tankers_no_date_poten_2011_11_23_keep_the_gravy_pass_the_shale__root",
+      "title": "US Crude Oil Production",
+      "section_path": [
+        "US Crude Oil Production"
+      ],
+      "section_path_text": "US Crude Oil Production",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Total Demand Expansion of production in the Gulf of Mexico has accounted for the lion's share of this growth. Federal offshore production in the Gulf of Mexico has increased by 250 kbd since 2007 accounting for 45% of total domestic crude oil supply growth, however production over 2011 has averaged about 50 kbd lower than levels seen last year.",
+      "keywords": [
+        "us_gulf",
+        "crude_oil",
+        "kbd",
+        "production",
+        "oil",
+        "shale",
+        "crude",
+        "gulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 155,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_11_23_keep_the_gravy_pass_the_shale__s04_are_we_there_yet",
+      "doc_id": "poten_tankers_no_date_poten_2011_11_23_keep_the_gravy_pass_the_shale",
+      "parent_id": "poten_tankers_no_date_poten_2011_11_23_keep_the_gravy_pass_the_shale__root",
+      "title": "Are We There Yet?",
+      "section_path": [
+        "Are We There Yet?"
+      ],
+      "section_path_text": "Are We There Yet?",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Production from these shale oil reserves is anticipated to rise further over the coming years. Pipeline operators are predicting Bakken crude oil production to rise to 600 kbd in 2012.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "crude",
+        "cushing",
+        "oil",
+        "kbd",
+        "production",
+        "relative"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 250,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_11_23_keep_the_gravy_pass_the_shale__s05_35",
+      "doc_id": "poten_tankers_no_date_poten_2011_11_23_keep_the_gravy_pass_the_shale",
+      "parent_id": "poten_tankers_no_date_poten_2011_11_23_keep_the_gravy_pass_the_shale__root",
+      "title": "‐$35",
+      "section_path": [
+        "‐$35"
+      ],
+      "section_path_text": "‐$35",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Crude Oil Stocks ‐ Cushing, OK Source: EIA WTI Discount to Brent The discount of WTI to Brent has averaged $17 per barrel in 2011, a dramatic reversal of the long‐ term historical trend which saw WTI trade at a slight premium to the Brent benchmark. Today, the discount of WTI to Brent has diminished to less than $10 per barrel.",
+      "keywords": [
+        "crude_oil",
+        "brent",
+        "wti",
+        "discount",
+        "crude",
+        "oil",
+        "per",
+        "averaged"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 117,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_11_23_keep_the_gravy_pass_the_shale__s06_absorbing_the_discount",
+      "doc_id": "poten_tankers_no_date_poten_2011_11_23_keep_the_gravy_pass_the_shale",
+      "parent_id": "poten_tankers_no_date_poten_2011_11_23_keep_the_gravy_pass_the_shale__root",
+      "title": "Absorbing the Discount",
+      "section_path": [
+        "Absorbing the Discount"
+      ],
+      "section_path_text": "Absorbing the Discount",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "The comparatively attractive pricing of domestic crude oil streams is likely in part a factor of their relative high transportation cost. In absence of pipeline infrastructure to easily move crude oil to its markets, landlocked oil must be transported by truck or rail.",
+      "keywords": [
+        "suezmax",
+        "west_africa",
+        "us_gulf",
+        "crude_oil",
+        "oil",
+        "crude",
+        "per",
+        "transport"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 200,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_11_23_keep_the_gravy_pass_the_shale__s07_reported_spot_vlcc_fixture_volumes_to_usa_incl_uswc",
+      "doc_id": "poten_tankers_no_date_poten_2011_11_23_keep_the_gravy_pass_the_shale",
+      "parent_id": "poten_tankers_no_date_poten_2011_11_23_keep_the_gravy_pass_the_shale__root",
+      "title": "Reported Spot VLCC Fixture Volumes to USA (incl. USWC)",
+      "section_path": [
+        "Reported Spot VLCC Fixture Volumes to USA (incl. USWC)"
+      ],
+      "section_path_text": "Reported Spot VLCC Fixture Volumes to USA (incl. USWC)",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 YTD",
+      "keywords": [
+        "ytd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 37,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_11_23_keep_the_gravy_pass_the_shale__s08_arabian_gulf",
+      "doc_id": "poten_tankers_no_date_poten_2011_11_23_keep_the_gravy_pass_the_shale",
+      "parent_id": "poten_tankers_no_date_poten_2011_11_23_keep_the_gravy_pass_the_shale__root",
+      "title": "Arabian Gulf",
+      "section_path": [
+        "Arabian Gulf"
+      ],
+      "section_path_text": "Arabian Gulf",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Caribbean West Africa Mediterranean UK Continent Other However, it is not clear that these domestic grades will remain as attractive once transportation infrastructure catches up with production. Expansion of pipeline networks and trade by rail and barge is likely to increase demand for these barrels by relieving bottlenecks and expanding their markets.",
+      "keywords": [
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "crude",
+        "grades",
+        "demand",
+        "domestic",
+        "gap"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 147,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

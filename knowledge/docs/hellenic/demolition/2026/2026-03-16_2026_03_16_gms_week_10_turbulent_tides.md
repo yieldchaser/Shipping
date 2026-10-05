@@ -7,6 +7,7 @@ commodities:
 date: '2026-03-16'
 doc_id: hellenic_demolition_2026-03-16_2026_03_16_gms_week_10_turbulent_tides
 document_type: demolition_update
+is_error_page: false
 key_entities:
 - China
 - Middle East
@@ -88,15 +89,15 @@ numeric_observations:
   - -16.0
   - 10.0
   - 16320255.0
-  - 945.0
-  - 64598.0
+  - 1945.0
+  - 764598.0
 - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_16320255_a1945b764598.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 696x154 mode=RGB'
   unit: null
   values:
   - 696.0
-  - 54.0
+  - 154.0
 - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_16320255_a1945b764598.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (72.0, 72.0)'
@@ -825,9 +826,9 @@ numeric_observations:
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
   values:
-  - 30.21
+  - 30210.0
   - 899.0669
-  - 91.278
+  - 91278.0
   - 300.5253
 - section: 'Linked asset: 2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf'
   section_type: linked_pdf
@@ -852,7 +853,7 @@ numeric_observations:
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
   values:
-  - 86.216
+  - 86216.0
   - 75.19
   - 82.1
   - 4650.072

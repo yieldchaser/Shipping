@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2025_09_05_crisis_in_caracas__root",
+  "doc_id": "poten_tankers_no_date_poten_2025_09_05_crisis_in_caracas",
+  "parent_id": null,
+  "title": "Crisis In Caracas",
+  "section_path": [
+    "Crisis In Caracas"
+  ],
+  "section_path_text": "Crisis In Caracas",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Turmoil around Venezuela heightens market uncertainty\nVenezuela is never far from the news, especially in the United States. Its close proximity and status as a major oil producer made the country one of the largest crude oil suppliers to the United States. Until 1999, when Hugo Chavez came to power, the U.S.",
+  "keywords": [
+    "vlcc",
+    "aframax",
+    "china",
+    "crude_oil",
+    "u.s.",
+    "chevron",
+    "venezuela",
+    "exports",
+    "venezuelan",
+    "crude",
+    "oil",
+    "export"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 880,
+  "source_path": "reports/poten/2025/poten_2025-09-05_crisis-in-caracas.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2025_09_05_crisis_in_caracas__s01_turmoil_around_venezuela_heightens_market_uncertainty",
+      "doc_id": "poten_tankers_no_date_poten_2025_09_05_crisis_in_caracas",
+      "parent_id": "poten_tankers_no_date_poten_2025_09_05_crisis_in_caracas__root",
+      "title": "Turmoil around Venezuela heightens market uncertainty",
+      "section_path": [
+        "Turmoil around Venezuela heightens market uncertainty"
+      ],
+      "section_path_text": "Turmoil around Venezuela heightens market uncertainty",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Venezuela is never far from the news, especially in the United States. Its close proximity and status as a major oil producer made the country one of the largest crude oil suppliers to the United States.",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "china",
+        "crude_oil",
+        "u.s.",
+        "chevron",
+        "exports",
+        "venezuela"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 871,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

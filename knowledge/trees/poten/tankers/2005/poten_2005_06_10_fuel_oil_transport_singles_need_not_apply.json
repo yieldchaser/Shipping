@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_06_10_fuel_oil_transport_singles_need_not_apply__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_06_10_fuel_oil_transport_singles_need_not_apply",
+  "parent_id": null,
+  "title": "Fuel Oil Transport - Singles Need Not Apply!",
+  "section_path": [
+    "Fuel Oil Transport - Singles Need Not Apply!"
+  ],
+  "section_path_text": "Fuel Oil Transport - Singles Need Not Apply!",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Fuel Oil Transport - Singles Need Not Apply! Of all forms of oil, fuel oil is one of the worst pollutants as it has no light ends to evaporate. It is a persistent pollutant that, for the most part, only nature can slowly disperse.",
+  "keywords": [
+    "panamax",
+    "handysize",
+    "aframax",
+    "europe",
+    "crude_oil",
+    "hull",
+    "oil",
+    "single",
+    "tankers",
+    "double",
+    "fuel",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 908,
+  "source_path": "reports/poten/2005/poten_2005-06-10_fuel-oil-transport-singles-need-not-apply.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_06_10_fuel_oil_transport_singles_need_not_apply__s01_fuel_oil_transport_singles_need_not_apply",
+      "doc_id": "poten_tankers_no_date_poten_2005_06_10_fuel_oil_transport_singles_need_not_apply",
+      "parent_id": "poten_tankers_no_date_poten_2005_06_10_fuel_oil_transport_singles_need_not_apply__root",
+      "title": "Fuel Oil Transport - Singles Need Not Apply!",
+      "section_path": [
+        "Fuel Oil Transport - Singles Need Not Apply!"
+      ],
+      "section_path_text": "Fuel Oil Transport - Singles Need Not Apply!",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Of all forms of oil, fuel oil is one of the worst pollutants as it has no light ends to evaporate. It is a persistent pollutant that, for the most part, only nature can slowly disperse.",
+      "keywords": [
+        "panamax",
+        "handysize",
+        "aframax",
+        "europe",
+        "crude_oil",
+        "oil",
+        "hull",
+        "single"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 427,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_06_10_fuel_oil_transport_singles_need_not_apply__s02_other",
+      "doc_id": "poten_tankers_no_date_poten_2005_06_10_fuel_oil_transport_singles_need_not_apply",
+      "parent_id": "poten_tankers_no_date_poten_2005_06_10_fuel_oil_transport_singles_need_not_apply__root",
+      "title": "Other*",
+      "section_path": [
+        "Other*"
+      ],
+      "section_path_text": "Other*",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Single Double * Includes double bottom and double sided tankers. As shown on the next page, the current level of fixture activity amounts to only 10%, compared to over 60% of spot dirty fixtures at the beginning of 2004.",
+      "keywords": [
+        "double",
+        "activity",
+        "amounts",
+        "beginning",
+        "bottom",
+        "compared",
+        "current",
+        "dirty"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 49,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_06_10_fuel_oil_transport_singles_need_not_apply__s03_participation_single_hull_panamaxes_in_spot_dirty_fixtures",
+      "doc_id": "poten_tankers_no_date_poten_2005_06_10_fuel_oil_transport_singles_need_not_apply",
+      "parent_id": "poten_tankers_no_date_poten_2005_06_10_fuel_oil_transport_singles_need_not_apply__root",
+      "title": "% Participation Single Hull Panamaxes in Spot Dirty Fixtures",
+      "section_path": [
+        "% Participation Single Hull Panamaxes in Spot Dirty Fixtures"
+      ],
+      "section_path_text": "% Participation Single Hull Panamaxes in Spot Dirty Fixtures",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Single hull Panamax tankers remain active in the Caribs/U.S. ports must comply with the U.S.",
+      "keywords": [
+        "panamax",
+        "crude_oil",
+        "hull",
+        "single",
+        "tankers",
+        "oil",
+        "u.s.",
+        "act"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 83,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_06_10_fuel_oil_transport_singles_need_not_apply__s04_double",
+      "doc_id": "poten_tankers_no_date_poten_2005_06_10_fuel_oil_transport_singles_need_not_apply",
+      "parent_id": "poten_tankers_no_date_poten_2005_06_10_fuel_oil_transport_singles_need_not_apply__root",
+      "title": "Double",
+      "section_path": [
+        "Double"
+      ],
+      "section_path_text": "Double",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Single The average Worldscale point spread between double and single hull Panamaxes trading dirty Carib/US since January 2004 has been 34 WS points, or an estimated $10,000-$12,000 per day. The point spread is indicative of two phenomena: O Single hull tankers excluded from EU and IMO nations are concentrating in areas where employment is available.",
+      "keywords": [
+        "panamax",
+        "crude_oil",
+        "hull",
+        "tankers",
+        "oil",
+        "single",
+        "are",
+        "double"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 323,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

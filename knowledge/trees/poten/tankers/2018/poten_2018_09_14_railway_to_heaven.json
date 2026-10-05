@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2018_09_14_railway_to_heaven__root",
+  "doc_id": "poten_tankers_no_date_poten_2018_09_14_railway_to_heaven",
+  "parent_id": null,
+  "title": "Railway To Heaven",
+  "section_path": [
+    "Railway To Heaven"
+  ],
+  "section_path_text": "Railway To Heaven",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Is crude by rail making a comeback in North America? Large oceangoing tankers are generally considered the most cost-efficient way to move crude oil over long distances across the world. Pipelines are a quick, reliable and cost effective alternative although by their nature, they are less flexible.",
+  "keywords": [
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "crude",
+    "oil",
+    "rail",
+    "are",
+    "u.s.",
+    "significant",
+    "b/d",
+    "canada",
+    "cbr"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 919,
+  "source_path": "reports/poten/2018/poten_2018-09-14_railway-to-heaven.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_09_14_railway_to_heaven__s01_is_crude_by_rail_making_a_comeback_in_north_america",
+      "doc_id": "poten_tankers_no_date_poten_2018_09_14_railway_to_heaven",
+      "parent_id": "poten_tankers_no_date_poten_2018_09_14_railway_to_heaven__root",
+      "title": "Is crude by rail making a comeback in North America?",
+      "section_path": [
+        "Is crude by rail making a comeback in North America?"
+      ],
+      "section_path_text": "Is crude by rail making a comeback in North America?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Large oceangoing tankers are generally considered the most cost-efficient way to move crude oil over long distances across the world. Pipelines are a quick, reliable and cost effective alternative although by their nature, they are less flexible.",
+      "keywords": [
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "crude",
+        "oil",
+        "rail",
+        "are",
+        "u.s."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 908,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

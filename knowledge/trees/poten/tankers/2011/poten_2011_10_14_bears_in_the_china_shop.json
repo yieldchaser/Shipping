@@ -1,0 +1,219 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_10_14_bears_in_the_china_shop__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_10_14_bears_in_the_china_shop",
+  "parent_id": null,
+  "title": "Bears in the China Shop",
+  "section_path": [
+    "Bears in the China Shop"
+  ],
+  "section_path_text": "Bears in the China Shop",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Bears in the China Shop\nRecent figures indicating a cooling of Chinese growth have generated fresh concern over the health of the global economy. The tanker market in particular has been banking on a rally of non‐OECD petroleum demand, seeing projected increases in Chinese petroleum consumption as one of the few rays of light in this year's dark market. However, even in the face of possible moderation, shifting trade patterns and expansion of overall Chinese involvement in petroleum spot trade still leaves potential for development of ton mile demand in the coming years.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "atlantic",
+    "europe",
+    "crude_oil",
+    "products",
+    "chinese",
+    "demand",
+    "petroleum",
+    "growth",
+    "trade",
+    "year"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 759,
+  "source_path": "reports/poten/2011/poten_2011-10-14_bears-in-the-china-shop.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_10_14_bears_in_the_china_shop__s01_bears_in_the_china_shop",
+      "doc_id": "poten_tankers_no_date_poten_2011_10_14_bears_in_the_china_shop",
+      "parent_id": "poten_tankers_no_date_poten_2011_10_14_bears_in_the_china_shop__root",
+      "title": "Bears in the China Shop",
+      "section_path": [
+        "Bears in the China Shop"
+      ],
+      "section_path_text": "Bears in the China Shop",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Recent figures indicating a cooling of Chinese growth have generated fresh concern over the health of the global economy. The tanker market in particular has been banking on a rally of non‐OECD petroleum demand, seeing projected increases in Chinese petroleum consumption as one of the few rays of light in this year's dark market.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "chinese",
+        "petroleum",
+        "demand",
+        "year",
+        "growth",
+        "trade"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 168,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_10_14_bears_in_the_china_shop__s02_total_chinese_demand",
+      "doc_id": "poten_tankers_no_date_poten_2011_10_14_bears_in_the_china_shop",
+      "parent_id": "poten_tankers_no_date_poten_2011_10_14_bears_in_the_china_shop__root",
+      "title": "Total Chinese Demand",
+      "section_path": [
+        "Total Chinese Demand"
+      ],
+      "section_path_text": "Total Chinese Demand",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "y‐o‐y Growth Additionally, customs data released on Thursday show that China's September crude oil imports fell 12% year‐on‐year, and have remained below 5 million barrels per day for four consecutive months. Troubles in the United States and Europe do have the potential to negatively impact China's rate of growth, as Chinese petroleum demand is driven largely by manufacturing and export activity.",
+      "keywords": [
+        "china",
+        "europe",
+        "crude_oil",
+        "chinese",
+        "demand",
+        "growth",
+        "petroleum",
+        "year"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 126,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_10_14_bears_in_the_china_shop__s03_spot_check",
+      "doc_id": "poten_tankers_no_date_poten_2011_10_14_bears_in_the_china_shop",
+      "parent_id": "poten_tankers_no_date_poten_2011_10_14_bears_in_the_china_shop__root",
+      "title": "Spot Check",
+      "section_path": [
+        "Spot Check"
+      ],
+      "section_path_text": "Spot Check",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The dampened projection of Chinese growth masks the increases in VLCC spot market demand seen this year. It is expected that by the end of 2011, total reported VLCC spot fixture volumes will reach levels 20% higher than seen two years prior, as shown in the chart below.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "seen",
+        "below.",
+        "chart",
+        "chinese",
+        "dampened",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 59,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_10_14_bears_in_the_china_shop__s04_chart_reported_vlcc_fixtures_by_charterer_2009_2011e",
+      "doc_id": "poten_tankers_no_date_poten_2011_10_14_bears_in_the_china_shop",
+      "parent_id": "poten_tankers_no_date_poten_2011_10_14_bears_in_the_china_shop__root",
+      "title": "Chart: Reported VLCC Fixtures by Charterer ‐ 2009 ‐ 2011E",
+      "section_path": [
+        "Chart: Reported VLCC Fixtures by Charterer ‐ 2009 ‐ 2011E"
+      ],
+      "section_path_text": "Chart: Reported VLCC Fixtures by Charterer ‐ 2009 ‐ 2011E",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "2009 2010 2011 E Chinese Content: 23% 27% 30%",
+      "keywords": [
+        "china",
+        "chinese",
+        "content"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 21,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_10_14_bears_in_the_china_shop__s05_unipec",
+      "doc_id": "poten_tankers_no_date_poten_2011_10_14_bears_in_the_china_shop",
+      "parent_id": "poten_tankers_no_date_poten_2011_10_14_bears_in_the_china_shop__root",
+      "title": "Unipec",
+      "section_path": [
+        "Unipec"
+      ],
+      "section_path_text": "Unipec",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "PetroChina Day Harvest Non‐Chinese Charterers This growth has been driven largely by the activity of Chinese charterers, who are expected to account for an impressive 30% of total VLCC spot fixture volumes in 2011. While China's growing domestic demand for petroleum products can account for much of this new activity, it is also attributable to increased involvement of Chinese entities in global petroleum trade.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "atlantic",
+        "crude_oil",
+        "products",
+        "chinese",
+        "charterers",
+        "activity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 242,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_10_14_bears_in_the_china_shop__s06_uk_continent",
+      "doc_id": "poten_tankers_no_date_poten_2011_10_14_bears_in_the_china_shop",
+      "parent_id": "poten_tankers_no_date_poten_2011_10_14_bears_in_the_china_shop__root",
+      "title": "UK Continent /",
+      "section_path": [
+        "UK Continent /"
+      ],
+      "section_path_text": "UK Continent /",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "",
+      "keywords": [
+        "europe",
+        "mediterranean"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_10_14_bears_in_the_china_shop__s07_2011e",
+      "doc_id": "poten_tankers_no_date_poten_2011_10_14_bears_in_the_china_shop",
+      "parent_id": "poten_tankers_no_date_poten_2011_10_14_bears_in_the_china_shop__root",
+      "title": "2011E",
+      "section_path": [
+        "2011E"
+      ],
+      "section_path_text": "2011E",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "The expansion of these trade lanes, in part a consequence of increased sourcing of light sweet barrels from producers west of Suez, is expected to drive tanker ton mile demand in the years to come, and has added significance to trades that were once considered opportunistic backhaul movements . Worries that cooling Chinese demand will single handedly sabotage freight rate recovery seem disproportionately pessimistic, at least as long as Chinese charterers are willing to share their business with foreign owners.",
+      "keywords": [
+        "china",
+        "chinese",
+        "demand",
+        "added",
+        "are",
+        "backhaul",
+        "barrels",
+        "business"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 92,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

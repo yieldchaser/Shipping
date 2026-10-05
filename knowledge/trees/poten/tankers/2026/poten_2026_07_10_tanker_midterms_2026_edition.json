@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2026_07_10_tanker_midterms_2026_edition__root",
+  "doc_id": "poten_tankers_no_date_poten_2026_07_10_tanker_midterms_2026_edition",
+  "parent_id": null,
+  "title": "Tanker Midterms 2026 Edition",
+  "section_path": [
+    "Tanker Midterms 2026 Edition"
+  ],
+  "section_path_text": "Tanker Midterms 2026 Edition",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Top Reported Dirty Spot Charterers for 1H 2026*\nThe first six months of 2026 are behind us and the conflict in the Middle East has dominated the headlines globally. It has also had a profound impact on the oil and tanker markets, as reflected in this review of the reported spot activity. Effectively removing the Arabian Gulf from the tanker spot market for four months has dented fixture volumes.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "brazil",
+    "meg",
+    "crude_oil",
+    "reported",
+    "top",
+    "fixtures",
+    "total",
+    "charterers"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1057,
+  "source_path": "reports/poten/2026/poten_2026-07-10_tanker-midterms-2026-edition.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2026_07_10_tanker_midterms_2026_edition__s01_top_reported_dirty_spot_charterers_for_1h_2026",
+      "doc_id": "poten_tankers_no_date_poten_2026_07_10_tanker_midterms_2026_edition",
+      "parent_id": "poten_tankers_no_date_poten_2026_07_10_tanker_midterms_2026_edition__root",
+      "title": "Top Reported Dirty Spot Charterers for 1H 2026*",
+      "section_path": [
+        "Top Reported Dirty Spot Charterers for 1H 2026*"
+      ],
+      "section_path_text": "Top Reported Dirty Spot Charterers for 1H 2026*",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The first six months of 2026 are behind us and the conflict in the Middle East has dominated the headlines globally. It has also had a profound impact on the oil and tanker markets, as reflected in this review of the reported spot activity.",
+      "keywords": [
+        "china",
+        "meg",
+        "crude_oil",
+        "total",
+        "reported",
+        "cargo",
+        "fixtures",
+        "months"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 652,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2026_07_10_tanker_midterms_2026_edition__s02_chart_top_10_vlcc_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2026_07_10_tanker_midterms_2026_edition",
+      "parent_id": "poten_tankers_no_date_poten_2026_07_10_tanker_midterms_2026_edition__root",
+      "title": "Chart: Top 10 VLCC Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 VLCC Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 VLCC Spot Charterers",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "China significantly reduced its crude oil imports in the aftermath of the conflict in the Middle East. That shows in the VLCC spot fixture count.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "brazil",
+        "crude_oil",
+        "fixtures",
+        "its",
+        "crude",
+        "fixture"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 132,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2026_07_10_tanker_midterms_2026_edition__s03_chart_top_10_suezmax_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2026_07_10_tanker_midterms_2026_edition",
+      "parent_id": "poten_tankers_no_date_poten_2026_07_10_tanker_midterms_2026_edition__root",
+      "title": "Chart: Top 10 Suezmax Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 Suezmax Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 Suezmax Spot Charterers",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "In H1 2026, the Suezmax segment was dominated by the traditional oil majors, with Chevron, Total, ExxonMobil, BP and Shell making up the top 5. Suezmax volumes were less impacted by the closure of the Strait of Hormuz.",
+      "keywords": [
+        "suezmax",
+        "crude_oil",
+        "chevron",
+        "closure",
+        "declined",
+        "dominated",
+        "exxonmobil",
+        "fixtures"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 80,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2026_07_10_tanker_midterms_2026_edition__s04_chart_top_10_aframax_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2026_07_10_tanker_midterms_2026_edition",
+      "parent_id": "poten_tankers_no_date_poten_2026_07_10_tanker_midterms_2026_edition__root",
+      "title": "Chart: Top 10 Aframax Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 Aframax Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 Aframax Spot Charterers",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Vitol remains the largest reported Aframax spot charterer in 1H 2025 ahead of BP and Chevron. In the Aframax segment, Heritage Energy, PK Orlen and Unipec dropped out of the top 10.",
+      "keywords": [
+        "aframax",
+        "reported",
+        "above",
+        "activity",
+        "activity.",
+        "ahead",
+        "almost",
+        "assembled"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 144,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

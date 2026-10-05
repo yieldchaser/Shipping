@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_03_30_great_expectations__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_03_30_great_expectations",
+  "parent_id": null,
+  "title": "Great Expectations",
+  "section_path": [
+    "Great Expectations"
+  ],
+  "section_path_text": "Great Expectations",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Great Expectations\nIn today's market oil companies are continuously managing complex and expensive upstream projects in an unpredictable price environment. BP just published their \"Annual Review 2006\". The report provides a clear summary of some of the top challenges that oil companies face today.",
+  "keywords": [
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "oil",
+    "are",
+    "companies",
+    "new",
+    "challenges",
+    "crude",
+    "projects",
+    "safety",
+    "energy"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 618,
+  "source_path": "reports/poten/2007/poten_2007-03-30_great-expectations.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_03_30_great_expectations__s01_great_expectations",
+      "doc_id": "poten_tankers_no_date_poten_2007_03_30_great_expectations",
+      "parent_id": "poten_tankers_no_date_poten_2007_03_30_great_expectations__root",
+      "title": "Great Expectations",
+      "section_path": [
+        "Great Expectations"
+      ],
+      "section_path_text": "Great Expectations",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In today's market oil companies are continuously managing complex and expensive upstream projects in an unpredictable price environment. BP just published their \"Annual Review 2006\".",
+      "keywords": [
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "oil",
+        "are",
+        "companies",
+        "new",
+        "challenges"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 614,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

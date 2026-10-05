@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2016_10_28_from_russia_with_love__root",
+  "doc_id": "poten_tankers_no_date_poten_2016_10_28_from_russia_with_love",
+  "parent_id": null,
+  "title": "From Russia With Love",
+  "section_path": [
+    "From Russia With Love"
+  ],
+  "section_path_text": "From Russia With Love",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The increasing importance of Russia in the oil markets\nFrom Russia With Love Fig. 1: Russian Crude Oil Production and Refinery Intake Russia has been an important player in the energy markets for many years. If anybody needed a reminder, the Energy Information Agency (EIA) recently published an updated \"Country Analysis Brief\" on Russia and the numbers continue to be impressive: Russia is the world's third largest producer of petroleum and other liquids (after Saudi Arabia and the United States) and the second largest producer of dry natural gas (the U.S.",
+  "keywords": [
+    "suezmax",
+    "aframax",
+    "china",
+    "atlantic",
+    "pacific",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "coal",
+    "crude_oil",
+    "gas"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 990,
+  "source_path": "reports/poten/2016/poten_2016-10-28_from-russia-with-love.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_10_28_from_russia_with_love__s01_the_increasing_importance_of_russia_in_the_oil_markets",
+      "doc_id": "poten_tankers_no_date_poten_2016_10_28_from_russia_with_love",
+      "parent_id": "poten_tankers_no_date_poten_2016_10_28_from_russia_with_love__root",
+      "title": "The increasing importance of Russia in the oil markets",
+      "section_path": [
+        "The increasing importance of Russia in the oil markets"
+      ],
+      "section_path_text": "The increasing importance of Russia in the oil markets",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "1: Russian Crude Oil Production and Refinery Intake Russia has been an important player in the energy markets for many years. If anybody needed a reminder, the Energy Information Agency (EIA) recently published an updated \"Country Analysis Brief\" on Russia and the numbers continue to be impressive: Russia is the world's third largest producer of petroleum and other liquids (after Saudi Arabia and the United States) and the second largest producer of dry natural gas (the U.S.",
+      "keywords": [
+        "suezmax",
+        "aframax",
+        "china",
+        "atlantic",
+        "pacific",
+        "europe",
+        "india",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 980,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

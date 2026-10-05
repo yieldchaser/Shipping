@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2020_11_06_a_brave_new_world__root",
+  "doc_id": "poten_tankers_no_date_poten_2020_11_06_a_brave_new_world",
+  "parent_id": null,
+  "title": "A Brave New World",
+  "section_path": [
+    "A Brave New World"
+  ],
+  "section_path_text": "A Brave New World",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Trends in long term oil demand can have a profound impact\non the tanker market. In October, three oil analysts published their long-term outlook for the energy industry. The IEA released their annual 'World Energy Outlook', OPEC issued their annual 'World Oil Outlook 2045' and BP announced their new strategy during their investor event, which was accompanied by their 'Energy Outlook 2020 Edition'.",
+  "keywords": [
+    "crude_oil",
+    "gas",
+    "demand",
+    "energy",
+    "oil",
+    "world",
+    "iea",
+    "scenarios",
+    "outlook",
+    "scenario",
+    "alternative",
+    "net"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 968,
+  "source_path": "reports/poten/2020/poten_2020-11-06_a-brave-new-world.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_11_06_a_brave_new_world__s01_trends_in_long_term_oil_demand_can_have_a_profound_impact",
+      "doc_id": "poten_tankers_no_date_poten_2020_11_06_a_brave_new_world",
+      "parent_id": "poten_tankers_no_date_poten_2020_11_06_a_brave_new_world__root",
+      "title": "Trends in long term oil demand can have a profound impact",
+      "section_path": [
+        "Trends in long term oil demand can have a profound impact"
+      ],
+      "section_path_text": "Trends in long term oil demand can have a profound impact",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In October, three oil analysts published their long-term outlook for the energy industry. The IEA released their annual 'World Energy Outlook', OPEC issued their annual 'World Oil Outlook 2045' and BP announced their new strategy during their investor event, which was accompanied by their 'Energy Outlook 2020 Edition'.",
+      "keywords": [
+        "crude_oil",
+        "gas",
+        "energy",
+        "oil",
+        "demand",
+        "outlook",
+        "scenarios",
+        "world"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 501,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_11_06_a_brave_new_world__s02_iea_steps",
+      "doc_id": "poten_tankers_no_date_poten_2020_11_06_a_brave_new_world",
+      "parent_id": "poten_tankers_no_date_poten_2020_11_06_a_brave_new_world__root",
+      "title": "IEA (STEPS)",
+      "section_path": [
+        "IEA (STEPS)"
+      ],
+      "section_path_text": "IEA (STEPS)",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "BP (Rapid) BP (Net Zero) BP (Bus. as Usual) timeframe with 2.1 and 1.5 Mb/d respectively , driven by the economic recovery from Covid-19 and a catch-up demand from aviation, road transportation and industry.",
+      "keywords": [
+        "crude_oil",
+        "demand",
+        "world",
+        "need",
+        "net",
+        "new",
+        "scenario",
+        "zero"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 447,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

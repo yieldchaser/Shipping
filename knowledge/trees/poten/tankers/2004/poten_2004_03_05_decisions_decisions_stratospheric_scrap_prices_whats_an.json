@@ -1,0 +1,198 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2004_03_05_decisions_decisions_stratospheric_scrap_prices_whats_an__root",
+  "doc_id": "poten_tankers_no_date_poten_2004_03_05_decisions_decisions_stratospheric_scrap_prices_whats_an",
+  "parent_id": null,
+  "title": "Decisions, Decisions, Stratospheric Scrap Prices: What's An Owner to Do?",
+  "section_path": [
+    "Decisions, Decisions, Stratospheric Scrap Prices: What's An Owner to Do?"
+  ],
+  "section_path_text": "Decisions, Decisions, Stratospheric Scrap Prices: What's An Owner to Do?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Decisions, Decisions, Stratospheric Scrap Prices: What's An Owner to Do? Decisions, Decisions, Stratospheric Scrap Prices:\n\nWhat's An Owner to Do? It's a good time to own a ship that needs scrapping.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "iron_ore",
+    "coal",
+    "steel",
+    "prices",
+    "scrap",
+    "are",
+    "high",
+    "when",
+    "scrapping",
+    "owners"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 775,
+  "source_path": "reports/poten/2004/poten_2004-03-05_decisions-decisions-stratospheric-scrap-prices-whats-an.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_03_05_decisions_decisions_stratospheric_scrap_prices_whats_an__s01_decisions_decisions_stratospheric_scrap_prices_what_s_an_owner_to_do",
+      "doc_id": "poten_tankers_no_date_poten_2004_03_05_decisions_decisions_stratospheric_scrap_prices_whats_an",
+      "parent_id": "poten_tankers_no_date_poten_2004_03_05_decisions_decisions_stratospheric_scrap_prices_whats_an__root",
+      "title": "Decisions, Decisions, Stratospheric Scrap Prices: What's An Owner to Do?",
+      "section_path": [
+        "Decisions, Decisions, Stratospheric Scrap Prices: What's An Owner to Do?"
+      ],
+      "section_path_text": "Decisions, Decisions, Stratospheric Scrap Prices: What's An Owner to Do?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "decisions",
+        "prices",
+        "scrap",
+        "stratospheric"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 12,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_03_05_decisions_decisions_stratospheric_scrap_prices_whats_an__s02_what_s_an_owner_to_do",
+      "doc_id": "poten_tankers_no_date_poten_2004_03_05_decisions_decisions_stratospheric_scrap_prices_whats_an",
+      "parent_id": "poten_tankers_no_date_poten_2004_03_05_decisions_decisions_stratospheric_scrap_prices_whats_an__root",
+      "title": "What's An Owner to Do?",
+      "section_path": [
+        "What's An Owner to Do?"
+      ],
+      "section_path_text": "What's An Owner to Do?",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "It's a good time to own a ship that needs scrapping. With rates reaching $400 per ton, and in some cases even higher, the industry has never seen such high prices paid for scrap vessels.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "iron_ore",
+        "coal",
+        "steel",
+        "prices",
+        "scrap",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 359,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_03_05_decisions_decisions_stratospheric_scrap_prices_whats_an__s03_chart_scrap_prices_vs_steel_prices",
+      "doc_id": "poten_tankers_no_date_poten_2004_03_05_decisions_decisions_stratospheric_scrap_prices_whats_an",
+      "parent_id": "poten_tankers_no_date_poten_2004_03_05_decisions_decisions_stratospheric_scrap_prices_whats_an__root",
+      "title": "Chart: Scrap Prices vs Steel Prices",
+      "section_path": [
+        "Chart: Scrap Prices vs Steel Prices"
+      ],
+      "section_path_text": "Chart: Scrap Prices vs Steel Prices",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Scrap Prices and WS Rates Neck in Neck Historically, owners have scrapped vessels when Worldscale (WS) rates are low, and have kept ships afloat when rates are robust. As shown on the next page, owners are now facing a difficult decision.",
+      "keywords": [
+        "are",
+        "high",
+        "historically",
+        "neck",
+        "owners",
+        "prices",
+        "scrap",
+        "when"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 73,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_03_05_decisions_decisions_stratospheric_scrap_prices_whats_an__s04_chart_scrap_prices_vs_ws_rates",
+      "doc_id": "poten_tankers_no_date_poten_2004_03_05_decisions_decisions_stratospheric_scrap_prices_whats_an",
+      "parent_id": "poten_tankers_no_date_poten_2004_03_05_decisions_decisions_stratospheric_scrap_prices_whats_an__root",
+      "title": "Chart: Scrap Prices Vs WS Rates",
+      "section_path": [
+        "Chart: Scrap Prices Vs WS Rates"
+      ],
+      "section_path_text": "Chart: Scrap Prices Vs WS Rates",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "When Tonnage is Low, Scrap Prices are High One conclusion we can draw from the graph below is that the lack of available vessels for scrapping is also driving prices up. Since spot market rates are so high right now, this is a logical conclusion.",
+      "keywords": [
+        "prices",
+        "are",
+        "high",
+        "scrap",
+        "when",
+        "graph",
+        "low",
+        "scrapping"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 91,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_03_05_decisions_decisions_stratospheric_scrap_prices_whats_an__s05_chart_scrap_prices_vs_ldt_scrapped",
+      "doc_id": "poten_tankers_no_date_poten_2004_03_05_decisions_decisions_stratospheric_scrap_prices_whats_an",
+      "parent_id": "poten_tankers_no_date_poten_2004_03_05_decisions_decisions_stratospheric_scrap_prices_whats_an__root",
+      "title": "Chart: Scrap Prices vs LDT Scrapped",
+      "section_path": [
+        "Chart: Scrap Prices vs LDT Scrapped"
+      ],
+      "section_path_text": "Chart: Scrap Prices vs LDT Scrapped",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The chart below shows that scrapping activity does inversely follow tanker rates. Scrapping activity tends to rise when tanker rates are low and vice-versa.",
+      "keywords": [
+        "steel",
+        "scrapping",
+        "activity",
+        "justify",
+        "rates.",
+        "scrap",
+        "special",
+        "survey"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 126,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_03_05_decisions_decisions_stratospheric_scrap_prices_whats_an__s06_what_to_do",
+      "doc_id": "poten_tankers_no_date_poten_2004_03_05_decisions_decisions_stratospheric_scrap_prices_whats_an",
+      "parent_id": "poten_tankers_no_date_poten_2004_03_05_decisions_decisions_stratospheric_scrap_prices_whats_an__root",
+      "title": "What to Do?",
+      "section_path": [
+        "What to Do?"
+      ],
+      "section_path_text": "What to Do?",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "While scrap prices are high, tanker owners with older tonnage are probably wise to keep trading in the spot market. But at the slightest sign of weakness, grab $400/ton and run with it.",
+      "keywords": [
+        "are",
+        "but",
+        "down",
+        "even",
+        "good",
+        "grab",
+        "high",
+        "idea."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 58,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

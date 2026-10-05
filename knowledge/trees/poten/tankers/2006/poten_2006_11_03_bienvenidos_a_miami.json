@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2006_11_03_bienvenidos_a_miami__root",
+  "doc_id": "poten_tankers_no_date_poten_2006_11_03_bienvenidos_a_miami",
+  "parent_id": null,
+  "title": "Bienvenidos a Miami",
+  "section_path": [
+    "Bienvenidos a Miami"
+  ],
+  "section_path_text": "Bienvenidos a Miami",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Bienvenidos a Miami\nThis past week members of the energy industry convened for the 26 th Annual Fuel Oil/Energy Buyers' Conference in Miami Beach, Florida. The topics discussed ranged from macro drivers for worldwide energy consumption to the role of fuel oil in the energy mix. The variety of companies that were in attendance stimulated interesting discussions, both in the conference room and at the dinner table.",
+  "keywords": [
+    "china",
+    "singapore",
+    "crude_oil",
+    "products",
+    "fuel",
+    "oil",
+    "conference",
+    "energy",
+    "companies",
+    "oil.",
+    "addressed",
+    "annual"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 605,
+  "source_path": "reports/poten/2006/poten_2006-11-03_bienvenidos-a-miami.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_11_03_bienvenidos_a_miami__s01_bienvenidos_a_miami",
+      "doc_id": "poten_tankers_no_date_poten_2006_11_03_bienvenidos_a_miami",
+      "parent_id": "poten_tankers_no_date_poten_2006_11_03_bienvenidos_a_miami__root",
+      "title": "Bienvenidos a Miami",
+      "section_path": [
+        "Bienvenidos a Miami"
+      ],
+      "section_path_text": "Bienvenidos a Miami",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This past week members of the energy industry convened for the 26 th Annual Fuel Oil/Energy Buyers' Conference in Miami Beach, Florida. The topics discussed ranged from macro drivers for worldwide energy consumption to the role of fuel oil in the energy mix.",
+      "keywords": [
+        "crude_oil",
+        "energy",
+        "fuel",
+        "annual",
+        "conference",
+        "oil",
+        "attendance",
+        "based"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 110,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_11_03_bienvenidos_a_miami__s02_million_tons",
+      "doc_id": "poten_tankers_no_date_poten_2006_11_03_bienvenidos_a_miami",
+      "parent_id": "poten_tankers_no_date_poten_2006_11_03_bienvenidos_a_miami__root",
+      "title": "Million Tons",
+      "section_path": [
+        "Million Tons"
+      ],
+      "section_path_text": "Million Tons",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Annual 2006 2007 Projected As fuel oil accounts for roughly 12% of the total spot fixtures for a one-year period, understanding trade flows and arbitrage opportunities is relevant to shippers and traders of fuel oil. Shown below is the spot market activity for the past 12 months for the various vessel sizes.",
+      "keywords": [
+        "crude_oil",
+        "fuel",
+        "accounts",
+        "activity",
+        "annual",
+        "arbitrage",
+        "below",
+        "fixtures"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 67,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_11_03_bienvenidos_a_miami__s03_crude",
+      "doc_id": "poten_tankers_no_date_poten_2006_11_03_bienvenidos_a_miami",
+      "parent_id": "poten_tankers_no_date_poten_2006_11_03_bienvenidos_a_miami__root",
+      "title": "Crude",
+      "section_path": [
+        "Crude"
+      ],
+      "section_path_text": "Crude",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Fuel Oil Clean Other Dirty In summary, demand for fuel oil is set to remain an important part of the energy mix in the long-term. No Fueling Around The best part of this conference, besides the boat cruise and late night escapades, is listening to various views on how companies manage complex issues relating to fuel oil.",
+      "keywords": [
+        "china",
+        "singapore",
+        "crude_oil",
+        "products",
+        "fuel",
+        "oil",
+        "conference",
+        "addressed"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 414,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

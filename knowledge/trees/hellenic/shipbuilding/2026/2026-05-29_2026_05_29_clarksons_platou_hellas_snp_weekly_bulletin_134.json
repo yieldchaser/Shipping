@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2596,
-  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-05-29_clarksons-platou-hellas-snp-weekly-bulletin-134.html",
+  "token_count": 2674,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-05-29_clarksons-platou-hellas-snp-weekly-bulletin-134.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-134",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-05-29_clarksons-platou-hellas-snp-weekly-bulletin-134_weekly-sales-29th-may-2026_28ba45ac5be5.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-05-29_clarksons-platou-hellas-snp-weekly-bulletin-134_weekly-sales-29th-may-2026_28ba45ac5be5.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nAs we enter the vibrant week of Posidonia, market sentiment is on positive tune and the SnP activity\nremains busy across both Dry and Tanker segments.",
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-05-29_clarksons-platou-hellas-snp-weekly-bulletin-134_weekly-sales-29th-may-2026_28ba45ac5be5.pdf\n\n### Clarkson Hellas Ltd. # Desk Talk\n\nAs we enter the vibrant week of Posidonia, market sentiment is on positive tune and the SnP activity remains busy across both Dry and Tanker segments.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1894,
+      "token_count": 1972,
       "section_type": "linked_pdf",
       "children": []
     }

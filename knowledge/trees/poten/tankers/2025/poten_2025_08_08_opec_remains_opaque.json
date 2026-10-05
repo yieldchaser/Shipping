@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2025_08_08_opec_remains_opaque__root",
+  "doc_id": "poten_tankers_no_date_poten_2025_08_08_opec_remains_opaque",
+  "parent_id": null,
+  "title": "OPEC Remains Opaque",
+  "section_path": [
+    "OPEC Remains Opaque"
+  ],
+  "section_path_text": "OPEC Remains Opaque",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Quotas are up, but actual production and exports are lagging\nOPEC crude oil production and, in particular the cartel's exports, are an important driver for the crude oil tanker market. The production of most independent oil companies in the world is based on market signals such as price, profitability, as well as economic conditions. This is not how OPEC countries typically operate.",
+  "keywords": [
+    "vlcc",
+    "crude_oil",
+    "production",
+    "opec",
+    "oil",
+    "are",
+    "cuts",
+    "quotas",
+    "countries",
+    "exports",
+    "since",
+    "april"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 932,
+  "source_path": "reports/poten/2025/poten_2025-08-08_opec-remains-opaque.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2025_08_08_opec_remains_opaque__s01_quotas_are_up_but_actual_production_and_exports_are_lagging",
+      "doc_id": "poten_tankers_no_date_poten_2025_08_08_opec_remains_opaque",
+      "parent_id": "poten_tankers_no_date_poten_2025_08_08_opec_remains_opaque__root",
+      "title": "Quotas are up, but actual production and exports are lagging",
+      "section_path": [
+        "Quotas are up, but actual production and exports are lagging"
+      ],
+      "section_path_text": "Quotas are up, but actual production and exports are lagging",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "OPEC crude oil production and, in particular the cartel's exports, are an important driver for the crude oil tanker market. The production of most independent oil companies in the world is based on market signals such as price, profitability, as well as economic conditions.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "production",
+        "opec",
+        "oil",
+        "cuts",
+        "are",
+        "countries"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 918,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2015_08_21_to_beach_or_not_to_beach__root",
+  "doc_id": "poten_tankers_no_date_poten_2015_08_21_to_beach_or_not_to_beach",
+  "parent_id": null,
+  "title": "To Beach or Not to Beach",
+  "section_path": [
+    "To Beach or Not to Beach"
+  ],
+  "section_path_text": "To Beach or Not to Beach",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The uncertain future of vessel recycling\nBenjamin Franklin once said \"in this world nothing can be said to be certain, except death and taxes\". In the world of shipping, only half of this statement is generally true. Most shipowners worldwide have historically managed to avoid paying taxes, but merchant vessels do have a finite lifespan.",
+  "keywords": [
+    "china",
+    "europe",
+    "india",
+    "steel",
+    "are",
+    "recycling",
+    "vessels",
+    "ship",
+    "but",
+    "shipowners",
+    "international",
+    "world"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 698,
+  "source_path": "reports/poten/2015/poten_2015-08-21_to-beach-or-not-to-beach.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2015_08_21_to_beach_or_not_to_beach__s01_the_uncertain_future_of_vessel_recycling",
+      "doc_id": "poten_tankers_no_date_poten_2015_08_21_to_beach_or_not_to_beach",
+      "parent_id": "poten_tankers_no_date_poten_2015_08_21_to_beach_or_not_to_beach__root",
+      "title": "The uncertain future of vessel recycling",
+      "section_path": [
+        "The uncertain future of vessel recycling"
+      ],
+      "section_path_text": "The uncertain future of vessel recycling",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Benjamin Franklin once said \"in this world nothing can be said to be certain, except death and taxes\". In the world of shipping, only half of this statement is generally true.",
+      "keywords": [
+        "europe",
+        "india",
+        "steel",
+        "are",
+        "recycling",
+        "ship",
+        "vessels",
+        "but"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 474,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2015_08_21_to_beach_or_not_to_beach__s02_scrapping_activity_by_country_2010_2015_ytd",
+      "doc_id": "poten_tankers_no_date_poten_2015_08_21_to_beach_or_not_to_beach",
+      "parent_id": "poten_tankers_no_date_poten_2015_08_21_to_beach_or_not_to_beach__root",
+      "title": "Scrapping Activity by Country (2010 - 2015 YTD)",
+      "section_path": [
+        "Scrapping Activity by Country (2010 - 2015 YTD)"
+      ],
+      "section_path_text": "Scrapping Activity by Country (2010 - 2015 YTD)",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "At the moment, this convention has only been endorsed by three countries (one of them Norway). The European Union is expected to publish a list of ship recycling facilities globally that meet certain environmental and occupational health and safety standards and it is unlikely that any of the South Asian beaching yards will make the list.",
+      "keywords": [
+        "china",
+        "europe",
+        "are",
+        "yards",
+        "recycling",
+        "shipowners",
+        "significant",
+        "south"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 201,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

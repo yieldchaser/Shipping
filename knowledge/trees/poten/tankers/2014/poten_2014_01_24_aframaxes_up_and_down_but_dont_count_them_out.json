@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2014_01_24_aframaxes_up_and_down_but_dont_count_them_out__root",
+  "doc_id": "poten_tankers_no_date_poten_2014_01_24_aframaxes_up_and_down_but_dont_count_them_out",
+  "parent_id": null,
+  "title": "Aframaxes: Up and Down, But Don't Count Them Out",
+  "section_path": [
+    "Aframaxes: Up and Down, But Don't Count Them Out"
+  ],
+  "section_path_text": "Aframaxes: Up and Down, But Don't Count Them Out",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Aframaxes: Up and Down, But Don't Count Them Out\nThe past few weeks have proven to be a wild ride for the Aframax sector. Although freight rates are falling precipitously, recent volatility suggests that this market may still have a heartbeat yet. For the majority of the past few years, spot Aframax time charter equivalents (TCEs) have bumbled along at lackluster levels save for the occasional rate spike here or there.",
+  "keywords": [
+    "vlcc",
+    "aframax",
+    "brazil",
+    "atlantic",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "oil",
+    "could",
+    "range",
+    "aframaxes",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 708,
+  "source_path": "reports/poten/2014/poten_2014-01-24_aframaxes-up-and-down-but-dont-count-them-out.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_01_24_aframaxes_up_and_down_but_dont_count_them_out__s01_aframaxes_up_and_down_but_don_t_count_them_out",
+      "doc_id": "poten_tankers_no_date_poten_2014_01_24_aframaxes_up_and_down_but_dont_count_them_out",
+      "parent_id": "poten_tankers_no_date_poten_2014_01_24_aframaxes_up_and_down_but_dont_count_them_out__root",
+      "title": "Aframaxes: Up and Down, But Don't Count Them Out",
+      "section_path": [
+        "Aframaxes: Up and Down, But Don't Count Them Out"
+      ],
+      "section_path_text": "Aframaxes: Up and Down, But Don't Count Them Out",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The past few weeks have proven to be a wild ride for the Aframax sector. Although freight rates are falling precipitously, recent volatility suggests that this market may still have a heartbeat yet.",
+      "keywords": [
+        "aframax",
+        "brazil",
+        "us_gulf",
+        "crude_oil",
+        "afra",
+        "oil",
+        "recent",
+        "charter"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 328,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_01_24_aframaxes_up_and_down_but_dont_count_them_out__s02_type",
+      "doc_id": "poten_tankers_no_date_poten_2014_01_24_aframaxes_up_and_down_but_dont_count_them_out",
+      "parent_id": "poten_tankers_no_date_poten_2014_01_24_aframaxes_up_and_down_but_dont_count_them_out__root",
+      "title": "Type",
+      "section_path": [
+        "Type"
+      ],
+      "section_path_text": "Type",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Name DWT Range General Purpose GP 16,500 - 24,999 Medium Range MR 25,000 - 44,999 Large Range 1 LR-1 45,000 - 79,999 Large Range 2 LR-2 80,000 - 159,999 Very Large Crude Carrier VLCC 160,000 - 319,999 Ultra Large Crude Carrier ULCC 320,000 + Over time, like all other tanker sectors, the deadweight designation has evolved to its current range of 80,000 - 130,000 tons. The chart below shows the position that the major oil companies have with respect to Aframaxes.",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "crude_oil",
+        "range",
+        "large",
+        "aframaxes",
+        "carrier",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 208,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_01_24_aframaxes_up_and_down_but_dont_count_them_out__s03_aframax_percentage_of_total_fleet",
+      "doc_id": "poten_tankers_no_date_poten_2014_01_24_aframaxes_up_and_down_but_dont_count_them_out",
+      "parent_id": "poten_tankers_no_date_poten_2014_01_24_aframaxes_up_and_down_but_dont_count_them_out__root",
+      "title": "Aframax Percentage of Total Fleet",
+      "section_path": [
+        "Aframax Percentage of Total Fleet"
+      ],
+      "section_path_text": "Aframax Percentage of Total Fleet",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "2005 Current The recent volatility in spot market rates suggests that the balance between supply and demand for Aframaxes could be more constrained. Most recently, delays in the US Gulf due to weather, restricted daylight hours in the Bosphorus, and trans-Atlantic efforts to satiate demand in Europe resulted in upward pressure on freight rates.",
+      "keywords": [
+        "aframax",
+        "atlantic",
+        "europe",
+        "us_gulf",
+        "crude_oil",
+        "could",
+        "crude",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 147,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNew building in containers this week, CMA CGM ordered eight firm methanol dual fuel 9,200 TEU containerships at CSSC Shanghai Waigaoqiao\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-09-29_clarksons-platou-hellas-snp-weekly-bulletin-90_report-29-09-2023_a43360f024ea.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-09-29_clarksons-platou-hellas-snp-weekly-bulletin-90_report-29-09-2023_a43360f024ea.pdf\n\n[Page 1]\nClarksons Hellas Weekly Bulletin 29th September 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nSUIGO 174,802 2011 NAMURA MAN B. 6S70MC6.2 SS 11/26 RGN USD 24 M GREEKS\nBWTS fitted DD 08/24\n2010 CSC\n57,017 MAN B. 6S50MC-C8.2 SS 01/25 USD 11.5 M U/D\nSUPRA THESSAL QINGSHAN BWTS fitted DD 01/25\n56,851\n2011 TIANJIN\nM A N B.",
+  "summary": "Main\nNew building in containers this week, CMA CGM ordered eight firm methanol dual fuel 9,200 TEU containerships at CSSC Shanghai Waigaoqiao\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-09-29_clarksons-platou-hellas-snp-weekly-bulletin-90_report-29-09-2023_a43360f024ea.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2023-09-29_clarksons-platou-hellas-snp-weekly-bulletin-90_report-29-09-2023_a43360f024ea.pdf\n\n**th**\n\n# Clarksons Hellas Weekly Bulletin29 September 2023\n\n# Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n|SUIGO|174,802|2011 NAMURA|MAN B. 6S70MC6.2 BWTS fitted|SS 11/26 DD 08/24|RGN USD 24 M|GREEKS|\n|SUPRA THESSAL|57,017|2010 CSC QINGSHAN|MAN B. 6S50MC-C8.2 BWTS fitted|SS 01/25 DD 01/25|USD 11.5 M|U/D|\n|HEILAN SONG|56,851|2011 TIANJIN XINGANG|MAN B.",
   "keywords": [
     "supramax",
     "lng",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2050,
-  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-09-29_clarksons-platou-hellas-snp-weekly-bulletin-90.html",
+  "token_count": 2073,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-09-29_clarksons-platou-hellas-snp-weekly-bulletin-90.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-90",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-09-29_clarksons-platou-hellas-snp-weekly-bulletin-90_report-29-09-2023_a43360f024ea.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-09-29_clarksons-platou-hellas-snp-weekly-bulletin-90_report-29-09-2023_a43360f024ea.pdf\n\n[Page 1]\nClarksons Hellas Weekly Bulletin 29th September 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nSUIGO 174,802 2011 NAMURA MAN B. 6S70MC6.2 SS 11/26 RGN USD 24 M GREEKS\nBWTS fitted DD 08/24\n2010 CSC\n57,017 MAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-09-29_clarksons-platou-hellas-snp-weekly-bulletin-90_report-29-09-2023_a43360f024ea.pdf\n\n**th**\n\n# Clarksons Hellas Weekly Bulletin29 September 2023\n\n# Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n|SUIGO|174,802|2011 NAMURA|MAN B. 6S70MC6.2 BWTS fitted|SS 11/26 DD 08/24|RGN USD 24 M|GREEKS|\n|SUPRA THESSAL|57,017|2010 CSC QINGSHAN|MAN B.",
       "keywords": [
         "supramax",
         "lng",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1958,
+      "token_count": 1981,
       "section_type": "linked_pdf",
       "children": []
     }

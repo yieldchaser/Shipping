@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_06_11_taking_the_long_view__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_06_11_taking_the_long_view",
+  "parent_id": null,
+  "title": "Taking the Long View",
+  "section_path": [
+    "Taking the Long View"
+  ],
+  "section_path_text": "Taking the Long View",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Taking the Long View\nAs the company deals with an array of short‐term challenges related to the disastrous oil spill in the U.S. Gulf of Mexico, BP briefly turned its attention to the long‐term this week with the release of its annual Statistical Review. For the 59 th year, BP has provided the energy industry with an overview of up‐to‐date statistics on production and consumption of various energy sources in markets all around the world.",
+  "keywords": [
+    "brazil",
+    "pacific",
+    "us_gulf",
+    "coal",
+    "crude_oil",
+    "gas",
+    "oil",
+    "year",
+    "demand",
+    "energy",
+    "last",
+    "since"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 690,
+  "source_path": "reports/poten/2010/poten_2010-06-11_taking-the-long-view.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_06_11_taking_the_long_view__s01_taking_the_long_view",
+      "doc_id": "poten_tankers_no_date_poten_2010_06_11_taking_the_long_view",
+      "parent_id": "poten_tankers_no_date_poten_2010_06_11_taking_the_long_view__root",
+      "title": "Taking the Long View",
+      "section_path": [
+        "Taking the Long View"
+      ],
+      "section_path_text": "Taking the Long View",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As the company deals with an array of short‐term challenges related to the disastrous oil spill in the U.S. Gulf of Mexico, BP briefly turned its attention to the long‐term this week with the release of its annual Statistical Review.",
+      "keywords": [
+        "pacific",
+        "us_gulf",
+        "coal",
+        "crude_oil",
+        "gas",
+        "energy",
+        "consumption",
+        "since"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 270,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_06_11_taking_the_long_view__s02_us_leading_non_opec_growth",
+      "doc_id": "poten_tankers_no_date_poten_2010_06_11_taking_the_long_view",
+      "parent_id": "poten_tankers_no_date_poten_2010_06_11_taking_the_long_view__root",
+      "title": "US: Leading Non‐ OPEC Growth",
+      "section_path": [
+        "US: Leading Non‐ OPEC Growth"
+      ],
+      "section_path_text": "US: Leading Non‐ OPEC Growth",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "BP sees global oil consumption as having fallen some 1.2 million barrels per day last year, which is also the largest fall since 1982. Drops in oil demand were not consistent across regions, though, with OECD demand displaying the sharpest decline on record while oil demand in non‐ OECD countries continued to grow, albeit at a slower pace.",
+      "keywords": [
+        "brazil",
+        "us_gulf",
+        "crude_oil",
+        "oil",
+        "decline",
+        "production",
+        "year",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 295,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_06_11_taking_the_long_view__s03_thousand_barrels_per_day",
+      "doc_id": "poten_tankers_no_date_poten_2010_06_11_taking_the_long_view",
+      "parent_id": "poten_tankers_no_date_poten_2010_06_11_taking_the_long_view__root",
+      "title": "Thousand Barrels Per Day",
+      "section_path": [
+        "Thousand Barrels Per Day"
+      ],
+      "section_path_text": "Thousand Barrels Per Day",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Last year's plunging demand for oil helped to make it a landmark year which many in the energy and tanker markets would like to forget. Although many of the figures related in this year's Statistical Review serve to remind just how challenging conditions have become, they also contain important reminders of long‐established trends that will support oil and tanker markets in the future.",
+      "keywords": [
+        "crude_oil",
+        "year",
+        "although",
+        "demand",
+        "its",
+        "many",
+        "markets",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 104,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

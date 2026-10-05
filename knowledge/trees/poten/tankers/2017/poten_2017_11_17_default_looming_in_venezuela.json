@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2017_11_17_default_looming_in_venezuela__root",
+  "doc_id": "poten_tankers_no_date_poten_2017_11_17_default_looming_in_venezuela",
+  "parent_id": null,
+  "title": "Default Looming In Venezuela",
+  "section_path": [
+    "Default Looming In Venezuela"
+  ],
+  "section_path_text": "Default Looming In Venezuela",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Further complications for this troubled oil producer\nOn Monday, November 13, Standard & Poor's (S&P), one of the world's leading credit rating agencies, lowered Venezuela's Long-Term Foreign Currency Rating to 'SD', meaning it had selectively defaulted on a specific issue or class of obligations. On Tuesday, S&P also downgraded Venezuela's state oil company Petroleos de Venezuela (PDVSA) to 'SD' on a missed interest payment. While several analysts have indicated for some time that a Venezuelan default was inevitable, it still came as a shock, because the country has made extraordinary efforts to continue to make payments.",
+  "keywords": [
+    "vlcc",
+    "aframax",
+    "china",
+    "crude_oil",
+    "venezuela",
+    "u.s.",
+    "exports",
+    "oil",
+    "venezuelan",
+    "crude",
+    "its",
+    "b/d"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 818,
+  "source_path": "reports/poten/2017/poten_2017-11-17_default-looming-in-venezuela.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2017_11_17_default_looming_in_venezuela__s01_further_complications_for_this_troubled_oil_producer",
+      "doc_id": "poten_tankers_no_date_poten_2017_11_17_default_looming_in_venezuela",
+      "parent_id": "poten_tankers_no_date_poten_2017_11_17_default_looming_in_venezuela__root",
+      "title": "Further complications for this troubled oil producer",
+      "section_path": [
+        "Further complications for this troubled oil producer"
+      ],
+      "section_path_text": "Further complications for this troubled oil producer",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "On Monday, November 13, Standard & Poor's (S&P), one of the world's leading credit rating agencies, lowered Venezuela's Long-Term Foreign Currency Rating to 'SD', meaning it had selectively defaulted on a specific issue or class of obligations. On Tuesday, S&P also downgraded Venezuela's state oil company Petroleos de Venezuela (PDVSA) to 'SD' on a missed interest payment.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "venezuela",
+        "country",
+        "its",
+        "oil",
+        "government",
+        "long-term"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 555,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2017_11_17_default_looming_in_venezuela__s02_note_venezuela_exports_include_bonaire_and_curacao_terminals",
+      "doc_id": "poten_tankers_no_date_poten_2017_11_17_default_looming_in_venezuela",
+      "parent_id": "poten_tankers_no_date_poten_2017_11_17_default_looming_in_venezuela__root",
+      "title": "Note: Venezuela Exports Include Bonaire and Curacao Terminals",
+      "section_path": [
+        "Note: Venezuela Exports Include Bonaire and Curacao Terminals"
+      ],
+      "section_path_text": "Note: Venezuela Exports Include Bonaire and Curacao Terminals",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "above 1.6 mb/d, some 500,000 b/d below the February number. Not surprisingly, exports to the U.S.",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "china",
+        "crude_oil",
+        "u.s.",
+        "crude",
+        "exports",
+        "situation"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 239,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

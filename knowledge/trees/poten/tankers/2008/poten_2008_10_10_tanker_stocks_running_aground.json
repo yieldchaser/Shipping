@@ -1,0 +1,188 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_10_10_tanker_stocks_running_aground__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_10_10_tanker_stocks_running_aground",
+  "parent_id": null,
+  "title": "Tanker Stocks Running Aground",
+  "section_path": [
+    "Tanker Stocks Running Aground"
+  ],
+  "section_path_text": "Tanker Stocks Running Aground",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Tanker Stocks Running Aground\nInvestors around the world are collectively holding their breath watching the values of equities deteriorate daily. The credit crisis has transcended into a rapid slide in the broader equity indexes and stock prices are getting crushed by the minute. Shipping equities have been swept up in the tide, despite how these companies are performing in the freight markets.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "brazil",
+    "crude_oil",
+    "are",
+    "companies",
+    "term",
+    "value",
+    "prices",
+    "asset",
+    "cash"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 828,
+  "source_path": "reports/poten/2008/poten_2008-10-10_tanker-stocks-running-aground.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_10_10_tanker_stocks_running_aground__s01_tanker_stocks_running_aground",
+      "doc_id": "poten_tankers_no_date_poten_2008_10_10_tanker_stocks_running_aground",
+      "parent_id": "poten_tankers_no_date_poten_2008_10_10_tanker_stocks_running_aground__root",
+      "title": "Tanker Stocks Running Aground",
+      "section_path": [
+        "Tanker Stocks Running Aground"
+      ],
+      "section_path_text": "Tanker Stocks Running Aground",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Investors around the world are collectively holding their breath watching the values of equities deteriorate daily. The credit crisis has transcended into a rapid slide in the broader equity indexes and stock prices are getting crushed by the minute.",
+      "keywords": [
+        "are",
+        "prices",
+        "companies",
+        "equities",
+        "equity",
+        "stock",
+        "adopt",
+        "although"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 139,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_10_10_tanker_stocks_running_aground__s02_osg",
+      "doc_id": "poten_tankers_no_date_poten_2008_10_10_tanker_stocks_running_aground",
+      "parent_id": "poten_tankers_no_date_poten_2008_10_10_tanker_stocks_running_aground__root",
+      "title": "OSG",
+      "section_path": [
+        "OSG"
+      ],
+      "section_path_text": "OSG",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "fro"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_10_10_tanker_stocks_running_aground__s03_tk",
+      "doc_id": "poten_tankers_no_date_poten_2008_10_10_tanker_stocks_running_aground",
+      "parent_id": "poten_tankers_no_date_poten_2008_10_10_tanker_stocks_running_aground__root",
+      "title": "TK",
+      "section_path": [
+        "TK"
+      ],
+      "section_path_text": "TK",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "VLCCF TNP GMR The disconnect between market value of the equities and the potential value of the assets is very striking and cannot be sustained in the longer-run. Value is in the eye of the beholder At present, the market capitalization of many tanker stocks are at levels far less than what the physical value of the ships would suggest.",
+      "keywords": [
+        "vlcc",
+        "value",
+        "asset",
+        "net",
+        "are",
+        "companies",
+        "levels",
+        "many"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 264,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_10_10_tanker_stocks_running_aground__s04_shares",
+      "doc_id": "poten_tankers_no_date_poten_2008_10_10_tanker_stocks_running_aground",
+      "parent_id": "poten_tankers_no_date_poten_2008_10_10_tanker_stocks_running_aground__root",
+      "title": "Shares",
+      "section_path": [
+        "Shares"
+      ],
+      "section_path_text": "Shares",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "capitalization",
+        "outstanding"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_10_10_tanker_stocks_running_aground__s05_strategy",
+      "doc_id": "poten_tankers_no_date_poten_2008_10_10_tanker_stocks_running_aground",
+      "parent_id": "poten_tankers_no_date_poten_2008_10_10_tanker_stocks_running_aground__root",
+      "title": "Strategy",
+      "section_path": [
+        "Strategy"
+      ],
+      "section_path_text": "Strategy",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "OSG 30.4 $1,149 93 Spot & Term FRO 74.9 $2,324 82 Spot & Term TK 72.3 $1,351 90 Spot & Term VLCCF 17.1 $223 4 Term TNP 37.7 $797 25 Term GMR 31.3 $345 23 Spot & Term",
+      "keywords": [
+        "vlcc",
+        "term",
+        "fro",
+        "gmr",
+        "osg",
+        "tnp",
+        "vlccf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 80,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_10_10_tanker_stocks_running_aground__s06_oil_tankers",
+      "doc_id": "poten_tankers_no_date_poten_2008_10_10_tanker_stocks_running_aground",
+      "parent_id": "poten_tankers_no_date_poten_2008_10_10_tanker_stocks_running_aground__root",
+      "title": "Oil Tankers",
+      "section_path": [
+        "Oil Tankers"
+      ],
+      "section_path_text": "Oil Tankers",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "For example, General Maritime has 23 tankers mixed between Suezmaxes and Aframaxes. Just looking at the Suezmax fleet alone, the 11 owned ships could have an average value of around $100 million per ship, or about one billion for just this part of the fleet.",
+      "keywords": [
+        "suezmax",
+        "aframax",
+        "brazil",
+        "cash",
+        "companies",
+        "are",
+        "could",
+        "fleet"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 309,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

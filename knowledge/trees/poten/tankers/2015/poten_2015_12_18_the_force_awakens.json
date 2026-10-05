@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2015_12_18_the_force_awakens__root",
+  "doc_id": "poten_tankers_no_date_poten_2015_12_18_the_force_awakens",
+  "parent_id": null,
+  "title": "The Force Awakens",
+  "section_path": [
+    "The Force Awakens"
+  ],
+  "section_path_text": "The Force Awakens",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "crude oil exports will change the oil and tanker market\nIn the highly unlikely scenario that you did not hear about it, the new Star Wars movie is opening in the U.S. this weekend and Congress passed a bill to lift the 40-year ban on U.S. crude exports is a big deal and within a few days many articles and opinion pieces have come out to explain what this means for oil prices, refining margins, the WTI/Brent spread and many other factors.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "u.s.",
+    "oil",
+    "crude",
+    "exports",
+    "but"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 873,
+  "source_path": "reports/poten/2015/poten_2015-12-18_the-force-awakens.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2015_12_18_the_force_awakens__s01_u_s_crude_oil_exports_will_change_the_oil_and_tanker_market",
+      "doc_id": "poten_tankers_no_date_poten_2015_12_18_the_force_awakens",
+      "parent_id": "poten_tankers_no_date_poten_2015_12_18_the_force_awakens__root",
+      "title": "U.S. crude oil exports will change the oil and tanker market",
+      "section_path": [
+        "U.S. crude oil exports will change the oil and tanker market"
+      ],
+      "section_path_text": "U.S. crude oil exports will change the oil and tanker market",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In the highly unlikely scenario that you did not hear about it, the new Star Wars movie is opening in the U.S. this weekend and Congress passed a bill to lift the 40-year ban on U.S.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "u.s."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 859,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

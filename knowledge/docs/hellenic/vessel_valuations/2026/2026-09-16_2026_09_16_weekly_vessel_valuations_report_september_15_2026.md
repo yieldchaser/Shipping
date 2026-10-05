@@ -26,15 +26,16 @@ keywords:
 - usd
 - mil
 - sold
-linked_assets_discovered: 2
+linked_assets_discovered: 1
 linked_assets_failed: 0
 linked_assets_ingested: 1
 linked_assets_mirrored: 1
-linked_assets_skipped: 1
+linked_assets_skipped: 0
 market_tone: neutral
 numeric_observation_count: 23
 numeric_observations:
-- section: Main
+- &id001
+  section: Main
   section_type: null
   source_line: Capesize Erato (180,100 DWT, Feb 2010) sold to an undisclosed South
     Korean buyer for USD 36.75 mil, VV Value USD 35.71 mil.
@@ -42,9 +43,10 @@ numeric_observations:
   values:
   - 180100.0
   - 2010.0
-  - 36750.0
-  - 35710.0
-- section: Main
+  - 36.75
+  - 35.71
+- &id002
+  section: Main
   section_type: null
   source_line: Panamax KM MT Jade (81,200 DWT, Oct 2008) sold to an undisclosed Chinese
     buyer for USD 16.0 mil, VV Value USD 15.69 mil.
@@ -52,9 +54,10 @@ numeric_observations:
   values:
   - 81200.0
   - 2008.0
-  - 16000.0
-  - 15690.0
-- section: Main
+  - 16.0
+  - 15.69
+- &id003
+  section: Main
   section_type: null
   source_line: Ultramax IVS Dunes (62,700 DWT, Sep 2020) sold inc. TC to an undisclosed
     Chinese buyer for USD 36.8 mil, VV Value USD 36.34 mil.
@@ -62,9 +65,10 @@ numeric_observations:
   values:
   - 62700.0
   - 2020.0
-  - 36800.0
-  - 36340.0
-- section: Main
+  - 36.8
+  - 36.34
+- &id004
+  section: Main
   section_type: null
   source_line: Handysize Wooyang Cles (39,200 DWT, Jul 2014) sold to undisclosed buyers
     for USD 18.8 mil, VV Value USD 18.22 mil.
@@ -72,9 +76,10 @@ numeric_observations:
   values:
   - 39200.0
   - 2014.0
-  - 18800.0
-  - 18220.0
-- section: Main
+  - 18.8
+  - 18.22
+- &id005
+  section: Main
   section_type: null
   source_line: Tanker S&P values pushed sharply higher this week, with owner appetite
     for VLCC and Suezmax tonnage building fast against the backdrop of ongoing Strait
@@ -83,7 +88,8 @@ numeric_observations:
   unit: usd
   values:
   - 130.0
-- section: Main
+- &id006
+  section: Main
   section_type: null
   source_line: VLCC Ashoka (302,600 DWT, Mar 2010) sold to an Unknown Middle Eastern
     buyer for USD 130.0 mil, VV Value USD 108.36 mil.
@@ -93,7 +99,8 @@ numeric_observations:
   - 2010.0
   - 130.0
   - 108.36
-- section: Main
+- &id007
+  section: Main
   section_type: null
   source_line: VLCC Norns (310,000 DWT, Oct 2009) sold to Onex DMCC for USD 112.0
     mil, VV Value USD 104.01 mil.
@@ -103,7 +110,8 @@ numeric_observations:
   - 2009.0
   - 112.0
   - 104.01
-- section: Main
+- &id008
+  section: Main
   section_type: null
   source_line: VLCC Nissos Heraclea (313,500 DWT, May 2009) sold to Onex DMCC for
     USD 112.0 mil, VV Value USD 106.26 mil.
@@ -113,7 +121,8 @@ numeric_observations:
   - 2009.0
   - 112.0
   - 106.26
-- section: Main
+- &id009
+  section: Main
   section_type: null
   source_line: VLCC Xi Xiu (309,200 DWT, Jan 2003) sold to Onex DMCC for USD 60.0
     mil, VV Value USD 61.94 mil.
@@ -121,9 +130,10 @@ numeric_observations:
   values:
   - 309200.0
   - 2003.0
-  - 60000.0
-  - 61940.0
-- section: Main
+  - 60.0
+  - 61.94
+- &id010
+  section: Main
   section_type: null
   source_line: Suezmax Evridiki and Orpheas (both 167,300 DWT, 2007-built) sold en
     bloc to Onex DMCC for USD 68.0 mil each, VV Values USD 55.39 mil and USD 56.43
@@ -132,10 +142,11 @@ numeric_observations:
   values:
   - 167300.0
   - 2007.0
-  - 68000.0
-  - 55390.0
-  - 56430.0
-- section: Main
+  - 68.0
+  - 55.39
+  - 56.43
+- &id011
+  section: Main
   section_type: null
   source_line: Suezmax Seaways Sabine (158,500 DWT, Jul 2012) sold to Trafigura for
     USD 78.0 mil, VV Value USD 71.53 mil.
@@ -143,9 +154,10 @@ numeric_observations:
   values:
   - 158500.0
   - 2012.0
-  - 78000.0
-  - 71530.0
-- section: Main
+  - 78.0
+  - 71.53
+- &id012
+  section: Main
   section_type: null
   source_line: Aframax Green Adventure (114,300 DWT, Sep 2022) sold to Minerva Marine
     for USD 83.0 mil, VV Value USD 80.77 mil.
@@ -153,9 +165,10 @@ numeric_observations:
   values:
   - 114300.0
   - 2022.0
-  - 83000.0
-  - 80770.0
-- section: Main
+  - 83.0
+  - 80.77
+- &id013
+  section: Main
   section_type: null
   source_line: MR2 (Chemical/Product) Lvm Aaron (50,900 DWT, May 2014) sold to Besiktas
     Likid Tasimacilik for USD 35.5 mil, VV Value USD 34.72 mil.
@@ -164,9 +177,10 @@ numeric_observations:
   - 2.0
   - 50900.0
   - 2014.0
-  - 35500.0
-  - 34720.0
-- section: Main
+  - 35.5
+  - 34.72
+- &id014
+  section: Main
   section_type: null
   source_line: Sub Panamax Container Erasmus Ninja (2,546 TEU, Nov 2007) sold fwd
     dely to MSC for USD 30.5 mil, VV Value USD 28.37 mil.
@@ -174,26 +188,19 @@ numeric_observations:
   values:
   - 2546.0
   - 2007.0
-  - 30500.0
-  - 28370.0
-- section: Main
+  - 30.5
+  - 28.37
+- &id015
+  section: Main
   section_type: null
-  source_line: 'Image reference: assets/2026-09-16_weekly-vessel-valuations-report-september-15-2026_img1_16092026df_fb6b09f7c3c6.jpg'
+  source_line: 'Linked asset: 16092026df.jpg'
   unit: null
   values:
-  - 2026.0
-  - -9.0
-  - -16.0
-  - 15.0
-  - -2026.0
-  - 1.0
   - 16092026.0
-  - 6.0
-  - 9.0
-  - 7.0
-- section: 'Linked asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_img1_16092026df_fb6b09f7c3c6.jpg'
+- &id016
+  section: 'Linked asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_16092026df_fb6b09f7c3c6.jpg'
   section_type: linked_image_asset
-  source_line: 'Linked image asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_img1_16092026df_fb6b09f7c3c6.jpg'
+  source_line: 'Linked image asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_16092026df_fb6b09f7c3c6.jpg'
   unit: null
   values:
   - 2026.0
@@ -201,52 +208,59 @@ numeric_observations:
   - -16.0
   - 15.0
   - -2026.0
-  - 1.0
   - 16092026.0
   - 6.0
   - 9.0
   - 7.0
-- section: 'Linked asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_img1_16092026df_fb6b09f7c3c6.jpg'
+  - 3.0
+- &id017
+  section: 'Linked asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_16092026df_fb6b09f7c3c6.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 687x278 mode=RGB'
   unit: null
   values:
   - 687.0
   - 278.0
-- section: 'Linked asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_img1_16092026df_fb6b09f7c3c6.jpg'
+- &id018
+  section: 'Linked asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_16092026df_fb6b09f7c3c6.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (96, 96)'
   unit: null
   values:
   - 96.0
   - 96.0
-- section: 'Linked asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_img1_16092026df_fb6b09f7c3c6.jpg'
+- &id019
+  section: 'Linked asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_16092026df_fb6b09f7c3c6.jpg'
   section_type: linked_image_asset
   source_line: 15 September 2026 VV Mini Matrix - Weekly Change
   unit: null
   values:
   - 15.0
   - 2026.0
-- section: 'Linked asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_img1_16092026df_fb6b09f7c3c6.jpg'
+- &id020
+  section: 'Linked asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_16092026df_fb6b09f7c3c6.jpg'
   section_type: linked_image_asset
   source_line: sd a 18 us ™ Ld ~ _ an = noo as ue -e
   unit: null
   values:
   - 18.0
-- section: 'Linked asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_img1_16092026df_fb6b09f7c3c6.jpg'
+- &id021
+  section: 'Linked asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_16092026df_fb6b09f7c3c6.jpg'
   section_type: linked_image_asset
   source_line: = a ‘oan od ms 1. " ~ ce baad ae os ne
   unit: null
   values:
   - 1.0
-- section: 'Linked asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_img1_16092026df_fb6b09f7c3c6.jpg'
+- &id022
+  section: 'Linked asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_16092026df_fb6b09f7c3c6.jpg'
   section_type: linked_image_asset
   source_line: ed aie a8 ie "ae "a 108 m Me Ed baad as se ie
   unit: null
   values:
   - 8.0
   - 108.0
-- section: 'Linked asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_img1_16092026df_fb6b09f7c3c6.jpg'
+- &id023
+  section: 'Linked asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_16092026df_fb6b09f7c3c6.jpg'
   section_type: linked_image_asset
   source_line: '* ee Be ot ad cd 8 ms Me ea eo Cal se ue'
   unit: null
@@ -262,226 +276,31 @@ section_count: 2
 signals:
   numeric_observation_count: 23
   numeric_observations:
-  - section: Main
-    section_type: null
-    source_line: Capesize Erato (180,100 DWT, Feb 2010) sold to an undisclosed South
-      Korean buyer for USD 36.75 mil, VV Value USD 35.71 mil.
-    unit: usd
-    values:
-    - 180100.0
-    - 2010.0
-    - 36750.0
-    - 35710.0
-  - section: Main
-    section_type: null
-    source_line: Panamax KM MT Jade (81,200 DWT, Oct 2008) sold to an undisclosed
-      Chinese buyer for USD 16.0 mil, VV Value USD 15.69 mil.
-    unit: tonnage
-    values:
-    - 81200.0
-    - 2008.0
-    - 16000.0
-    - 15690.0
-  - section: Main
-    section_type: null
-    source_line: Ultramax IVS Dunes (62,700 DWT, Sep 2020) sold inc. TC to an undisclosed
-      Chinese buyer for USD 36.8 mil, VV Value USD 36.34 mil.
-    unit: usd
-    values:
-    - 62700.0
-    - 2020.0
-    - 36800.0
-    - 36340.0
-  - section: Main
-    section_type: null
-    source_line: Handysize Wooyang Cles (39,200 DWT, Jul 2014) sold to undisclosed
-      buyers for USD 18.8 mil, VV Value USD 18.22 mil.
-    unit: usd
-    values:
-    - 39200.0
-    - 2014.0
-    - 18800.0
-    - 18220.0
-  - section: Main
-    section_type: null
-    source_line: Tanker S&P values pushed sharply higher this week, with owner appetite
-      for VLCC and Suezmax tonnage building fast against the backdrop of ongoing Strait
-      of Hormuz disruption and a wave of fresh buying activity from a single active
-      Middle Eastern buyer across b
-    unit: usd
-    values:
-    - 130.0
-  - section: Main
-    section_type: null
-    source_line: VLCC Ashoka (302,600 DWT, Mar 2010) sold to an Unknown Middle Eastern
-      buyer for USD 130.0 mil, VV Value USD 108.36 mil.
-    unit: usd
-    values:
-    - 302600.0
-    - 2010.0
-    - 130.0
-    - 108.36
-  - section: Main
-    section_type: null
-    source_line: VLCC Norns (310,000 DWT, Oct 2009) sold to Onex DMCC for USD 112.0
-      mil, VV Value USD 104.01 mil.
-    unit: usd
-    values:
-    - 310000.0
-    - 2009.0
-    - 112.0
-    - 104.01
-  - section: Main
-    section_type: null
-    source_line: VLCC Nissos Heraclea (313,500 DWT, May 2009) sold to Onex DMCC for
-      USD 112.0 mil, VV Value USD 106.26 mil.
-    unit: usd
-    values:
-    - 313500.0
-    - 2009.0
-    - 112.0
-    - 106.26
-  - section: Main
-    section_type: null
-    source_line: VLCC Xi Xiu (309,200 DWT, Jan 2003) sold to Onex DMCC for USD 60.0
-      mil, VV Value USD 61.94 mil.
-    unit: usd
-    values:
-    - 309200.0
-    - 2003.0
-    - 60000.0
-    - 61940.0
-  - section: Main
-    section_type: null
-    source_line: Suezmax Evridiki and Orpheas (both 167,300 DWT, 2007-built) sold
-      en bloc to Onex DMCC for USD 68.0 mil each, VV Values USD 55.39 mil and USD
-      56.43 mil respectively.
-    unit: usd
-    values:
-    - 167300.0
-    - 2007.0
-    - 68000.0
-    - 55390.0
-    - 56430.0
-  - section: Main
-    section_type: null
-    source_line: Suezmax Seaways Sabine (158,500 DWT, Jul 2012) sold to Trafigura
-      for USD 78.0 mil, VV Value USD 71.53 mil.
-    unit: usd
-    values:
-    - 158500.0
-    - 2012.0
-    - 78000.0
-    - 71530.0
-  - section: Main
-    section_type: null
-    source_line: Aframax Green Adventure (114,300 DWT, Sep 2022) sold to Minerva Marine
-      for USD 83.0 mil, VV Value USD 80.77 mil.
-    unit: usd
-    values:
-    - 114300.0
-    - 2022.0
-    - 83000.0
-    - 80770.0
-  - section: Main
-    section_type: null
-    source_line: MR2 (Chemical/Product) Lvm Aaron (50,900 DWT, May 2014) sold to Besiktas
-      Likid Tasimacilik for USD 35.5 mil, VV Value USD 34.72 mil.
-    unit: tonnage
-    values:
-    - 2.0
-    - 50900.0
-    - 2014.0
-    - 35500.0
-    - 34720.0
-  - section: Main
-    section_type: null
-    source_line: Sub Panamax Container Erasmus Ninja (2,546 TEU, Nov 2007) sold fwd
-      dely to MSC for USD 30.5 mil, VV Value USD 28.37 mil.
-    unit: usd
-    values:
-    - 2546.0
-    - 2007.0
-    - 30500.0
-    - 28370.0
-  - section: Main
-    section_type: null
-    source_line: 'Image reference: assets/2026-09-16_weekly-vessel-valuations-report-september-15-2026_img1_16092026df_fb6b09f7c3c6.jpg'
-    unit: null
-    values:
-    - 2026.0
-    - -9.0
-    - -16.0
-    - 15.0
-    - -2026.0
-    - 1.0
-    - 16092026.0
-    - 6.0
-    - 9.0
-    - 7.0
-  - section: 'Linked asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_img1_16092026df_fb6b09f7c3c6.jpg'
-    section_type: linked_image_asset
-    source_line: 'Linked image asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_img1_16092026df_fb6b09f7c3c6.jpg'
-    unit: null
-    values:
-    - 2026.0
-    - -9.0
-    - -16.0
-    - 15.0
-    - -2026.0
-    - 1.0
-    - 16092026.0
-    - 6.0
-    - 9.0
-    - 7.0
-  - section: 'Linked asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_img1_16092026df_fb6b09f7c3c6.jpg'
-    section_type: linked_image_asset
-    source_line: 'Image metadata: JPEG 687x278 mode=RGB'
-    unit: null
-    values:
-    - 687.0
-    - 278.0
-  - section: 'Linked asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_img1_16092026df_fb6b09f7c3c6.jpg'
-    section_type: linked_image_asset
-    source_line: 'dpi: (96, 96)'
-    unit: null
-    values:
-    - 96.0
-    - 96.0
-  - section: 'Linked asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_img1_16092026df_fb6b09f7c3c6.jpg'
-    section_type: linked_image_asset
-    source_line: 15 September 2026 VV Mini Matrix - Weekly Change
-    unit: null
-    values:
-    - 15.0
-    - 2026.0
-  - section: 'Linked asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_img1_16092026df_fb6b09f7c3c6.jpg'
-    section_type: linked_image_asset
-    source_line: sd a 18 us ™ Ld ~ _ an = noo as ue -e
-    unit: null
-    values:
-    - 18.0
-  - section: 'Linked asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_img1_16092026df_fb6b09f7c3c6.jpg'
-    section_type: linked_image_asset
-    source_line: = a ‘oan od ms 1. " ~ ce baad ae os ne
-    unit: null
-    values:
-    - 1.0
-  - section: 'Linked asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_img1_16092026df_fb6b09f7c3c6.jpg'
-    section_type: linked_image_asset
-    source_line: ed aie a8 ie "ae "a 108 m Me Ed baad as se ie
-    unit: null
-    values:
-    - 8.0
-    - 108.0
-  - section: 'Linked asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_img1_16092026df_fb6b09f7c3c6.jpg'
-    section_type: linked_image_asset
-    source_line: '* ee Be ot ad cd 8 ms Me ea eo Cal se ue'
-    unit: null
-    values:
-    - 8.0
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - *id010
+  - *id011
+  - *id012
+  - *id013
+  - *id014
+  - *id015
+  - *id016
+  - *id017
+  - *id018
+  - *id019
+  - *id020
+  - *id021
+  - *id022
+  - *id023
 source: hellenic
-source_path: corpus/02-hellenic/vessel_valuations/2026/2026-09-16_weekly-vessel-valuations-report-september-15-2026.html
+source_path: reports/hellenic/vessel_valuations/2026/2026-09-16_weekly-vessel-valuations-report-september-15-2026.html
 source_stem: 2026-09-16_weekly-vessel-valuations-report-september-15-2026
 source_url: https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-september-15-2026
 summary: 'Main
@@ -537,12 +356,12 @@ MR2 (Chemical/Product) Lvm Aaron (50,900 DWT, May 2014) sold to Besiktas Likid T
 Containers
 Older Sub Panamax values came up a little this week off the back of the sale of the Erasmus Ninja, highlighting the demand for vessels of this size.
 Sub Panamax Container Erasmus Ninja (2,546 TEU, Nov 2007) sold fwd dely to MSC for USD 30.5 mil, VV Value USD 28.37 mil.
-Image reference: assets/2026-09-16_weekly-vessel-valuations-report-september-15-2026_img1_16092026df_fb6b09f7c3c6.jpg
+Linked asset: 16092026df.jpg
 
-## Linked asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_img1_16092026df_fb6b09f7c3c6.jpg
-Source asset: corpus/02-hellenic/vessel_valuations/2026/assets/2026-09-16_weekly-vessel-valuations-report-september-15-2026_img1_16092026df_fb6b09f7c3c6.jpg
+## Linked asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_16092026df_fb6b09f7c3c6.jpg
+Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-09-16_weekly-vessel-valuations-report-september-15-2026_16092026df_fb6b09f7c3c6.jpg
 
-Linked image asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_img1_16092026df_fb6b09f7c3c6.jpg
+Linked image asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_16092026df_fb6b09f7c3c6.jpg
 
 Image metadata: JPEG 687x278 mode=RGB
 

@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 26,
+  "token_count": 968,
   "source_path": "reports/hellenic/demolition/2026/2026-05-05_best-oasis-weekly-recycling-market-report-1-may-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-1-may-2026",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 24,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2026-05-05_2026_05_05_best_oasis_weekly_recycling_market_report_1_may_2026__s02_linked_asset_2026_05_05_best_oasis_weekly_recycling_market_report_1_may_2026_weekly_ship_recycling_report_25_apri_69af36cf75f1_pdf",
+      "doc_id": "hellenic_demolition_2026-05-05_2026_05_05_best_oasis_weekly_recycling_market_report_1_may_2026",
+      "parent_id": "hellenic_demolition_2026-05-05_2026_05_05_best_oasis_weekly_recycling_market_report_1_may_2026__root",
+      "title": "Linked asset: 2026-05-05_best-oasis-weekly-recycling-market-report-1-may-2026_weekly-ship-recycling-report-25-apri_69af36cf75f1.pdf",
+      "section_path": [
+        "Linked asset: 2026-05-05_best-oasis-weekly-recycling-market-report-1-may-2026_weekly-ship-recycling-report-25-apri_69af36cf75f1.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-05-05_best-oasis-weekly-recycling-market-report-1-may-2026_weekly-ship-recycling-report-25-apri_69af36cf75f1.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2026-05-05_best-oasis-weekly-recycling-market-report-1-may-2026_weekly-ship-recycling-report-25-apri_69af36cf75f1.pdf\n\n# WEEKLY SHIP RECYCLING REPORT\n\n## (25 APRIL - 01 MAY) 2026\n\n## OUR OFFICES\n\n**Scan to view the Tide Table**\n\n**Head Office:** 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E **Contact**: +971 4575 4667 **Visit** : www.best-oasis.com **Email**: bol@bol.ae\n\n## MARKET SUMMARY\n\n## INDIA\n\nThe Indian market has experienced downward pressure this week, primarily driven by a sharp depreciation of the INR against the USD, which has forced local price levels lower. Despite weaker underlying fundamentals, ship recycling sentiment remains cautiously positive, with recyclers showing resilience in expectations of near-term improvement.",
+      "keywords": [
+        "india",
+        "steel",
+        "recycling",
+        "previous",
+        "usd",
+        "loss",
+        "are",
+        "firm"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 894,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

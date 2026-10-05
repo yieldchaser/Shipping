@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_05_23_start_your_engines__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_05_23_start_your_engines",
+  "parent_id": null,
+  "title": "Start Your Engines",
+  "section_path": [
+    "Start Your Engines"
+  ],
+  "section_path_text": "Start Your Engines",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Start Your Engines\nThis weekend may serve as one of the first official tests of whether demand for products can withstand current price levels. With crude oil prices hovering around $130 per barrel, refined product prices have been on the rise as well. The American Automobile Association estimates that 37.87 million Americans will travel 50 miles or more this weekend, marking a .9% decrease from last year.",
+  "keywords": [
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "gasoline",
+    "prices",
+    "diesel",
+    "price",
+    "demand",
+    "levels",
+    "weekend",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 429,
+  "source_path": "reports/poten/2008/poten_2008-05-23_start-your-engines.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_05_23_start_your_engines__s01_start_your_engines",
+      "doc_id": "poten_tankers_no_date_poten_2008_05_23_start_your_engines",
+      "parent_id": "poten_tankers_no_date_poten_2008_05_23_start_your_engines__root",
+      "title": "Start Your Engines",
+      "section_path": [
+        "Start Your Engines"
+      ],
+      "section_path_text": "Start Your Engines",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This weekend may serve as one of the first official tests of whether demand for products can withstand current price levels. With crude oil prices hovering around $130 per barrel, refined product prices have been on the rise as well.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "price",
+        "prices",
+        "weekend",
+        "can",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 172,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_05_23_start_your_engines__s02_wti",
+      "doc_id": "poten_tankers_no_date_poten_2008_05_23_start_your_engines",
+      "parent_id": "poten_tankers_no_date_poten_2008_05_23_start_your_engines__root",
+      "title": "WTI",
+      "section_path": [
+        "WTI"
+      ],
+      "section_path_text": "WTI",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "87 Oct Gasoline 93 Oct Gasoline Diesel Regular gasoline has increased 35%, while the prices of diesel and crude oil have essentially doubled. What this suggests is that at present, the economic incentives for refiners to maximize gasoline are less compelling.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "gasoline",
+        "diesel",
+        "oct",
+        "are",
+        "compelling."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 50,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_05_23_start_your_engines__s03_diesel_does_it",
+      "doc_id": "poten_tankers_no_date_poten_2008_05_23_start_your_engines",
+      "parent_id": "poten_tankers_no_date_poten_2008_05_23_start_your_engines__root",
+      "title": "Diesel does it",
+      "section_path": [
+        "Diesel does it"
+      ],
+      "section_path_text": "Diesel does it",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Higher diesel prices in the States have directly contributed to gasoline stock draws in recent weeks: refiners are not replenishing gasoline stocks and concentrating on more profitable diesel production. The chart below shows the relative stock levels for both diesel and gasoline.",
+      "keywords": [
+        "products",
+        "gas",
+        "diesel",
+        "gasoline",
+        "stock",
+        "are",
+        "below",
+        "both"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 47,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_05_23_start_your_engines__s04_gasoline_stocks",
+      "doc_id": "poten_tankers_no_date_poten_2008_05_23_start_your_engines",
+      "parent_id": "poten_tankers_no_date_poten_2008_05_23_start_your_engines__root",
+      "title": "Gasoline Stocks",
+      "section_path": [
+        "Gasoline Stocks"
+      ],
+      "section_path_text": "Gasoline Stocks",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Distillate Stocks The current supply balance for gasoline suggests that short-term demand bursts, such as the holiday weekend, can contribute to a price spike. In addition, diesel's favorable pricing reduces refiners' incentive to produce gasoline, thus supporting overall higher gasoline price levels in the longer-term.",
+      "keywords": [
+        "europe",
+        "products",
+        "gas",
+        "gasoline",
+        "prices",
+        "demand",
+        "few",
+        "higher"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 144,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

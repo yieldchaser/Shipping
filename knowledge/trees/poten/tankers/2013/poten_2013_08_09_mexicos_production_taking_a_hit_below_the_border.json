@@ -1,0 +1,174 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2013_08_09_mexicos_production_taking_a_hit_below_the_border__root",
+  "doc_id": "poten_tankers_no_date_poten_2013_08_09_mexicos_production_taking_a_hit_below_the_border",
+  "parent_id": null,
+  "title": "Mexico's Production: Taking a Hit Below the Border",
+  "section_path": [
+    "Mexico's Production: Taking a Hit Below the Border"
+  ],
+  "section_path_text": "Mexico's Production: Taking a Hit Below the Border",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Foreign investment\nThe steady decline of Mexico's crude oil production not only poses threats to the nation's GDP, but also to the health of the tanker market in the Caribbean basin. Mexican crude oil exports have fallen by a striking 1 million barrels per day (mbpd) since 2004 with total production rates now hovering around 2.5 million barrels per day. Now however, with support from President Enrique Pena Nieto, private investors may have the opportunity to reverse the country's crude oil fate.",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "aframax",
+    "china",
+    "us_gulf",
+    "crude_oil",
+    "oil",
+    "mexico",
+    "crude",
+    "production",
+    "barrels",
+    "exports"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 725,
+  "source_path": "reports/poten/2013/poten_2013-08-09_mexicos-production-taking-a-hit-below-the-border.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_08_09_mexicos_production_taking_a_hit_below_the_border__s01_foreign_investment",
+      "doc_id": "poten_tankers_no_date_poten_2013_08_09_mexicos_production_taking_a_hit_below_the_border",
+      "parent_id": "poten_tankers_no_date_poten_2013_08_09_mexicos_production_taking_a_hit_below_the_border__root",
+      "title": "Foreign investment",
+      "section_path": [
+        "Foreign investment"
+      ],
+      "section_path_text": "Foreign investment",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The steady decline of Mexico's crude oil production not only poses threats to the nation's GDP, but also to the health of the tanker market in the Caribbean basin. Mexican crude oil exports have fallen by a striking 1 million barrels per day (mbpd) since 2004 with total production rates now hovering around 2.5 million barrels per day.",
+      "keywords": [
+        "aframax",
+        "china",
+        "us_gulf",
+        "crude_oil",
+        "oil",
+        "mexico",
+        "crude",
+        "barrels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 286,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_08_09_mexicos_production_taking_a_hit_below_the_border__s02_constitution_amendments",
+      "doc_id": "poten_tankers_no_date_poten_2013_08_09_mexicos_production_taking_a_hit_below_the_border",
+      "parent_id": "poten_tankers_no_date_poten_2013_08_09_mexicos_production_taking_a_hit_below_the_border__root",
+      "title": "Constitution amendments",
+      "section_path": [
+        "Constitution amendments"
+      ],
+      "section_path_text": "Constitution amendments",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "need to be made to end monopoly Striking the balance between public and private investment can be challenging for oil producing nations. Market forces suggest stimulating competition between private investors is a logical way to reach a markets full potential.",
+      "keywords": [
+        "crude_oil",
+        "between",
+        "crude",
+        "oil",
+        "private",
+        "production",
+        "balance",
+        "can"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 79,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_08_09_mexicos_production_taking_a_hit_below_the_border__s03_although_an_increase_in",
+      "doc_id": "poten_tankers_no_date_poten_2013_08_09_mexicos_production_taking_a_hit_below_the_border",
+      "parent_id": "poten_tankers_no_date_poten_2013_08_09_mexicos_production_taking_a_hit_below_the_border__root",
+      "title": "Although an increase in",
+      "section_path": [
+        "Although an increase in"
+      ],
+      "section_path_text": "Although an increase in",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "proven reserves, Mexico's oil production dips Historically, Mexico has relied heavily on the U.S. consumes roughly 80 percent of the total exports.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "barrels",
+        "day",
+        "per",
+        "u.s.",
+        "crude",
+        "mexico"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 131,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_08_09_mexicos_production_taking_a_hit_below_the_border__s04_pemex_increasing",
+      "doc_id": "poten_tankers_no_date_poten_2013_08_09_mexicos_production_taking_a_hit_below_the_border",
+      "parent_id": "poten_tankers_no_date_poten_2013_08_09_mexicos_production_taking_a_hit_below_the_border__root",
+      "title": "Pemex increasing",
+      "section_path": [
+        "Pemex increasing"
+      ],
+      "section_path_text": "Pemex increasing",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "exports to Asia The chart below shows the declining trend of Aframax fixtures from Mexico to U.S. Overall, total reported spot fixtures have declined 14% in 2013.",
+      "keywords": [
+        "aframax",
+        "fixtures",
+        "asia",
+        "below",
+        "chart",
+        "declined",
+        "declining",
+        "destinations."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 38,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_08_09_mexicos_production_taking_a_hit_below_the_border__s05_declining_trend_of",
+      "doc_id": "poten_tankers_no_date_poten_2013_08_09_mexicos_production_taking_a_hit_below_the_border",
+      "parent_id": "poten_tankers_no_date_poten_2013_08_09_mexicos_production_taking_a_hit_below_the_border__root",
+      "title": "Declining trend of",
+      "section_path": [
+        "Declining trend of"
+      ],
+      "section_path_text": "Declining trend of",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "For now, the lost ton-miles are hurting the Aframax sector, but trade agreements with China could see this tanker segment be employed in much longer hauls. In fact, the completion of the expansion of the Panama Canal next summer could further facilitate new trades to the East, as fully laden Aframaxes will be able to transit this canal.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "aframax",
+        "china",
+        "crude_oil",
+        "could",
+        "production",
+        "would"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 169,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

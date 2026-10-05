@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1173,
-  "source_path": "corpus/02-hellenic/vessel_valuations/2026/2026-05-19_weekly-vessel-valuations-report-may-19-2026.html",
+  "token_count": 1134,
+  "source_path": "reports/hellenic/vessel_valuations/2026/2026-05-19_weekly-vessel-valuations-report-may-19-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-may-19-2026",
   "children": [
     {
@@ -54,22 +54,22 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 799,
+      "token_count": 768,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_vessel_valuations_2026-05-19_2026_05_19_weekly_vessel_valuations_report_may_19_2026__s02_linked_asset_2026_05_19_weekly_vessel_valuations_report_may_19_2026_img1_195202518_346e82ac0cba_jpg",
+      "node_id": "hellenic_vessel_valuations_2026-05-19_2026_05_19_weekly_vessel_valuations_report_may_19_2026__s02_linked_asset_2026_05_19_weekly_vessel_valuations_report_may_19_2026_195202518_346e82ac0cba_jpg",
       "doc_id": "hellenic_vessel_valuations_2026-05-19_2026_05_19_weekly_vessel_valuations_report_may_19_2026",
       "parent_id": "hellenic_vessel_valuations_2026-05-19_2026_05_19_weekly_vessel_valuations_report_may_19_2026__root",
-      "title": "Linked asset: 2026-05-19_weekly-vessel-valuations-report-may-19-2026_img1_195202518_346e82ac0cba.jpg",
+      "title": "Linked asset: 2026-05-19_weekly-vessel-valuations-report-may-19-2026_195202518_346e82ac0cba.jpg",
       "section_path": [
-        "Linked asset: 2026-05-19_weekly-vessel-valuations-report-may-19-2026_img1_195202518_346e82ac0cba.jpg"
+        "Linked asset: 2026-05-19_weekly-vessel-valuations-report-may-19-2026_195202518_346e82ac0cba.jpg"
       ],
-      "section_path_text": "Linked asset: 2026-05-19_weekly-vessel-valuations-report-may-19-2026_img1_195202518_346e82ac0cba.jpg",
+      "section_path_text": "Linked asset: 2026-05-19_weekly-vessel-valuations-report-may-19-2026_195202518_346e82ac0cba.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2026/assets/2026-05-19_weekly-vessel-valuations-report-may-19-2026_img1_195202518_346e82ac0cba.jpg\n\nLinked image asset: 2026-05-19_weekly-vessel-valuations-report-may-19-2026_img1_195202518_346e82ac0cba.jpg\n\nImage metadata: JPEG 600x279 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\n(D) VeesselsValUe\n19 May 2026 VV Mini Matrix - Weekly Change\nTeeken Behe Conteeens\nYew Mee Seer vee uo bal me ten Sepee Neot Pet Pee Peer Homty ton\nPe a ne Ce) cer rT 9\n7 na - ua ™ = - ne a _ ee ae hd ue\nPe eT a a es Pe et\n7 nm \"a / ™\" = - a \"- we ae me ne\na ee ee sua Pr. re 9\n= i Me /- \"= = vo -~ - ot eo ae ms ne\nre ar ec oa Pee 9\n.",
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-05-19_weekly-vessel-valuations-report-may-19-2026_195202518_346e82ac0cba.jpg\n\nLinked image asset: 2026-05-19_weekly-vessel-valuations-report-may-19-2026_195202518_346e82ac0cba.jpg\n\nImage metadata: JPEG 600x279 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\n(D) VeesselsValUe\n19 May 2026 VV Mini Matrix - Weekly Change\nTeeken Behe Conteeens\nYew Mee Seer vee uo bal me ten Sepee Neot Pet Pee Peer Homty ton\nPe a ne Ce) cer rT 9\n7 na - ua ™ = - ne a _ ee ae hd ue\nPe eT a a es Pe et\n7 nm \"a / ™\" = - a \"- we ae me ne\na ee ee sua Pr. re 9\n= i Me /- \"= = vo -~ - ot eo ae ms ne\nre ar ec oa Pee 9\n.",
       "keywords": [
         "asset",
         "image",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 332,
+      "token_count": 326,
       "section_type": "linked_image_asset",
       "children": []
     }

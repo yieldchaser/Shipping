@@ -21,13 +21,13 @@
     "steel",
     "mil",
     "usd",
-    "sold",
-    "value"
+    "noo",
+    "sold"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1528,
-  "source_path": "corpus/02-hellenic/vessel_valuations/2026/2026-02-19_weekly-vessel-valuations-report-february-10-2026.html",
+  "token_count": 2346,
+  "source_path": "reports/hellenic/vessel_valuations/2026/2026-02-19_weekly-vessel-valuations-report-february-10-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-february-10-2026",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-02-19_weekly-vessel-valuations-report-february-10-2026_img1_192202511_abc3ac490533.jpeg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2026/assets/2026-02-19_weekly-vessel-valuations-report-february-10-2026_img1_192202511_abc3ac490533.jpeg\n\nLinked image asset: 2026-02-19_weekly-vessel-valuations-report-february-10-2026_img1_192202511_abc3ac490533.jpeg\n\nImage metadata: JPEG 687x318 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\n>) VesselsValue@_---------\n17 February 2026 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra Lat MR Cape Pmax Supra Handy pe . Pmax Handy Fmax\nis +1.4% 14% 10.8% *22% 40.2% 91.5% 40.3% 10.1% 0.0% 0.1% -O.1% 0.0% -O0.B%\n320k 160k Sk 75k SOk 180k 82k 62k 38k 7000 4250 1780 noo\n+20% o14% *1.0% 246% +0.2% 91.4% 10.4% 40.1% 0.0% 0.1% -O.1% 0.0% 0.4%\n.",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2026/assets/2026-02-19_weekly-vessel-valuations-report-february-10-2026_img1_192202511_abc3ac490533.jpeg\n\nLinked image asset: 2026-02-19_weekly-vessel-valuations-report-february-10-2026_img1_192202511_abc3ac490533.jpeg\n\nImage metadata: JPEG 687x318 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\n[structured table]\n| 17 February | 2026 | | | | VV | Mini Matrix | - | Weekly | Change | | | | |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| | | | Tankers | | | | | Bulkers | | | | Containers | |\n| Year | vice | Suez | Afra | Lat | MR | Cape | Pmax | Supra | Handy | pe | Pmax | Handy | Fmax |\n| | +1.4% | | | | | 91.5% | | | 0.0% | | -O.1% | 0.0% | |\n| | 320k | 160k | | 75k | SOk | 180k | 82k | 62k | 38k | 7000 | 4250 | 1780 | noo |\n| . | +20% | | | | | 91.4% | 10.4% | 40.1% | 0.0% | | -O.1% | 0.0% | |\n| | 320k | 160k | nok | 75k | SOk | 180k | 82k | 60k | 38k | 7000 | 4250 | 1750 | noo |\n| | +2.7% | +1.6% | 41.6% | | +0.2% | +1.4% | | 40.1% | 0.1% | 0.2% | | 0.0% | 0.0% |\n| | 320k | 160k | nok | 75k | SOk | 180k | 80k | 60K | 35k | 7000 | 4250 | 1750 | noo |\n| | +2.9% | +2.0% | +14% | +14,0% | +0.2% | +1.4% | +0.3% | +0.1% | 0.0",
       "keywords": [
         "capesize",
         "supramax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 756,
+      "token_count": 1574,
       "section_type": "linked_image_asset",
       "children": []
     }

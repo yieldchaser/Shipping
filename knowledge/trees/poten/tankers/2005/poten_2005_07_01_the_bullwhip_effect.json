@@ -1,0 +1,232 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_07_01_the_bullwhip_effect__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_07_01_the_bullwhip_effect",
+  "parent_id": null,
+  "title": "The Bullwhip Effect",
+  "section_path": [
+    "The Bullwhip Effect"
+  ],
+  "section_path_text": "The Bullwhip Effect",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Bullwhip Effect\nThe bullwhip effect is a phenomenon noticed in supply chains where the failure of a buyer to communicate nothing but a spastic order now and then creates an increasing degree of disorder as orders cascade from the first tier supplier to second and third-tier suppliers, and beyond, increasing inventory throughout the chain. If the buyer communicates the actual production schedule to the suppliers, then the suppliers have the information necessary to adjust their production to actual demand, significantly reducing inventory. Thus information can make a market operate more smoothly.",
+  "keywords": [
+    "brazil",
+    "atlantic",
+    "europe",
+    "crude_oil",
+    "products",
+    "caribs",
+    "transatlantic",
+    "may",
+    "bullwhip",
+    "demand",
+    "effect",
+    "activity"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 619,
+  "source_path": "reports/poten/2005/poten_2005-07-01_the-bullwhip-effect.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_07_01_the_bullwhip_effect__s01_the_bullwhip_effect",
+      "doc_id": "poten_tankers_no_date_poten_2005_07_01_the_bullwhip_effect",
+      "parent_id": "poten_tankers_no_date_poten_2005_07_01_the_bullwhip_effect__root",
+      "title": "The Bullwhip Effect",
+      "section_path": [
+        "The Bullwhip Effect"
+      ],
+      "section_path_text": "The Bullwhip Effect",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The bullwhip effect is a phenomenon noticed in supply chains where the failure of a buyer to communicate nothing but a spastic order now and then creates an increasing degree of disorder as orders cascade from the first tier supplier to second and third-tier suppliers, and beyond, increasing inventory throughout the chain. If the buyer communicates the actual production schedule to the suppliers, then the suppliers have the information necessary to adjust their production to actual demand, significantly reducing inventory.",
+      "keywords": [
+        "information",
+        "suppliers",
+        "actual",
+        "bullwhip",
+        "buyer",
+        "effect",
+        "increasing",
+        "production"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 120,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_07_01_the_bullwhip_effect__s02_ukc_usac",
+      "doc_id": "poten_tankers_no_date_poten_2005_07_01_the_bullwhip_effect",
+      "parent_id": "poten_tankers_no_date_poten_2005_07_01_the_bullwhip_effect__root",
+      "title": "UKC-USAC",
+      "section_path": [
+        "UKC-USAC"
+      ],
+      "section_path_text": "UKC-USAC",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "carib",
+        "usa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_07_01_the_bullwhip_effect__s03_start_the_same_end_the_same",
+      "doc_id": "poten_tankers_no_date_poten_2005_07_01_the_bullwhip_effect",
+      "parent_id": "poten_tankers_no_date_poten_2005_07_01_the_bullwhip_effect__root",
+      "title": "Start the Same - End the Same",
+      "section_path": [
+        "Start the Same - End the Same"
+      ],
+      "section_path_text": "Start the Same - End the Same",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "In early April of this year, Worldscale rates trans-Atlantic and Caribs upcoast were the same. Thereafter they began to diverge, as trans-Atlantic voyages provided a higher return than Caribs upcoast.",
+      "keywords": [
+        "atlantic",
+        "europe",
+        "caribs",
+        "trans-atlantic",
+        "activity",
+        "april",
+        "began",
+        "can"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 82,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_07_01_the_bullwhip_effect__s04_caribs",
+      "doc_id": "poten_tankers_no_date_poten_2005_07_01_the_bullwhip_effect",
+      "parent_id": "poten_tankers_no_date_poten_2005_07_01_the_bullwhip_effect__root",
+      "title": "Caribs",
+      "section_path": [
+        "Caribs"
+      ],
+      "section_path_text": "Caribs",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_07_01_the_bullwhip_effect__s05_caribs",
+      "doc_id": "poten_tankers_no_date_poten_2005_07_01_the_bullwhip_effect",
+      "parent_id": "poten_tankers_no_date_poten_2005_07_01_the_bullwhip_effect__root",
+      "title": "Caribs",
+      "section_path": [
+        "Caribs"
+      ],
+      "section_path_text": "Caribs",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "",
+      "keywords": [
+        "atlantic",
+        "transatlantic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_07_01_the_bullwhip_effect__s06_demand_more_balanced",
+      "doc_id": "poten_tankers_no_date_poten_2005_07_01_the_bullwhip_effect",
+      "parent_id": "poten_tankers_no_date_poten_2005_07_01_the_bullwhip_effect__root",
+      "title": "Demand More Balanced",
+      "section_path": [
+        "Demand More Balanced"
+      ],
+      "section_path_text": "Demand More Balanced",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "The premium for transatlantic trading persisted through May, attracting vessels out of the Caribbean to ballast over to Europe. This of course is the free market at work as owners changed employment patterns of their vessels to maximize returns.",
+      "keywords": [
+        "brazil",
+        "atlantic",
+        "europe",
+        "crude_oil",
+        "may",
+        "transatlantic",
+        "activity",
+        "fixture"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 276,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_07_01_the_bullwhip_effect__s07_transatlantic",
+      "doc_id": "poten_tankers_no_date_poten_2005_07_01_the_bullwhip_effect",
+      "parent_id": "poten_tankers_no_date_poten_2005_07_01_the_bullwhip_effect__root",
+      "title": "Transatlantic",
+      "section_path": [
+        "Transatlantic"
+      ],
+      "section_path_text": "Transatlantic",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "",
+      "keywords": [
+        "caribs"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_07_01_the_bullwhip_effect__s08_trend_up",
+      "doc_id": "poten_tankers_no_date_poten_2005_07_01_the_bullwhip_effect",
+      "parent_id": "poten_tankers_no_date_poten_2005_07_01_the_bullwhip_effect__root",
+      "title": "Trend Up!",
+      "section_path": [
+        "Trend Up!"
+      ],
+      "section_path_text": "Trend Up!",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "From 2002 through 2004, 51% of all fixtures were Caribs upcoast. So far in 2005, the percentage of Caribs upcoast fixtures has declined to 47.6%.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "products",
+        "caribs",
+        "fixtures",
+        "all",
+        "but",
+        "capacity."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 90,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

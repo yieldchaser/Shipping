@@ -1,0 +1,202 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_04_20_no_longer_crudely_related__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_04_20_no_longer_crudely_related",
+  "parent_id": null,
+  "title": "No Longer Crudely Related",
+  "section_path": [
+    "No Longer Crudely Related"
+  ],
+  "section_path_text": "No Longer Crudely Related",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "No Longer Crudely Related\nRecent events - some transient and some not - appear to have compromised any sense of a \"typical\" price relationship between West Texas Intermediate (WTI) and Brent crude oils. These crude oils have similar sulfur contents, but as WTI is lighter, the market perceives it as more valuable. As both these crude oils have futures market, their price relationship is closely followed.",
+  "keywords": [
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "crude",
+    "wti",
+    "oil",
+    "price",
+    "premium",
+    "brent",
+    "monthly",
+    "oils",
+    "average"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 696,
+  "source_path": "reports/poten/2007/poten_2007-04-20_no-longer-crudely-related.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_04_20_no_longer_crudely_related__s01_no_longer_crudely_related",
+      "doc_id": "poten_tankers_no_date_poten_2007_04_20_no_longer_crudely_related",
+      "parent_id": "poten_tankers_no_date_poten_2007_04_20_no_longer_crudely_related__root",
+      "title": "No Longer Crudely Related",
+      "section_path": [
+        "No Longer Crudely Related"
+      ],
+      "section_path_text": "No Longer Crudely Related",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Recent events - some transient and some not - appear to have compromised any sense of a \"typical\" price relationship between West Texas Intermediate (WTI) and Brent crude oils. These crude oils have similar sulfur contents, but as WTI is lighter, the market perceives it as more valuable.",
+      "keywords": [
+        "crude_oil",
+        "price",
+        "crude",
+        "relationship",
+        "wti",
+        "brent",
+        "oils",
+        "any"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 146,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_04_20_no_longer_crudely_related__s02_wti_brent_price_spread_bbl",
+      "doc_id": "poten_tankers_no_date_poten_2007_04_20_no_longer_crudely_related",
+      "parent_id": "poten_tankers_no_date_poten_2007_04_20_no_longer_crudely_related__root",
+      "title": "WTI-Brent Price Spread, $/bbl",
+      "section_path": [
+        "WTI-Brent Price Spread, $/bbl"
+      ],
+      "section_path_text": "WTI-Brent Price Spread, $/bbl",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "On the plot of highs, WTI's premium reached a monthly peak of almost $5 per barrel over Brent in November 2004. Market repercussions of Kuwait's invasion in August 1990 led to Brent's temporary rise over WTI and produced a premium low one month later.",
+      "keywords": [
+        "brent",
+        "monthly",
+        "wti",
+        "highs",
+        "lows",
+        "premium",
+        "above",
+        "almost"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 93,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_04_20_no_longer_crudely_related__s03_ukc_crude_oil_imports_into_the_us_gulf_coast",
+      "doc_id": "poten_tankers_no_date_poten_2007_04_20_no_longer_crudely_related",
+      "parent_id": "poten_tankers_no_date_poten_2007_04_20_no_longer_crudely_related__root",
+      "title": "UKC Crude Oil Imports Into the US Gulf Coast",
+      "section_path": [
+        "UKC Crude Oil Imports Into the US Gulf Coast"
+      ],
+      "section_path_text": "UKC Crude Oil Imports Into the US Gulf Coast",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Translating reported spot market fixture data into US Gulf Coast crude oil import volumes from the UK Continent indicates a generally declining trend over the past few years.",
+      "keywords": [
+        "europe",
+        "us_gulf",
+        "crude_oil",
+        "coast",
+        "continent",
+        "crude",
+        "data",
+        "declining"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 31,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_04_20_no_longer_crudely_related__s04_2007_prorated",
+      "doc_id": "poten_tankers_no_date_poten_2007_04_20_no_longer_crudely_related",
+      "parent_id": "poten_tankers_no_date_poten_2007_04_20_no_longer_crudely_related__root",
+      "title": "2007 prorated",
+      "section_path": [
+        "2007 prorated"
+      ],
+      "section_path_text": "2007 prorated",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "This trend is consistent with an overall decline in North Sea exports. What is surprising is that crude oil movements did not drop in 2007 as the cost of Brent became relatively pricey in the US market.",
+      "keywords": [
+        "crude_oil",
+        "became",
+        "brent",
+        "consistent",
+        "cost",
+        "crude",
+        "decline",
+        "did"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 41,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_04_20_no_longer_crudely_related__s05_a_harbinger",
+      "doc_id": "poten_tankers_no_date_poten_2007_04_20_no_longer_crudely_related",
+      "parent_id": "poten_tankers_no_date_poten_2007_04_20_no_longer_crudely_related__root",
+      "title": "A Harbinger",
+      "section_path": [
+        "A Harbinger"
+      ],
+      "section_path_text": "A Harbinger",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Although WTI's premium stayed mostly positive in 2006, it only occasionally exceeded the premium's composite monthly average of the preceding 18 years. The start of 2007 saw WTI's premium return to near its historic monthly average - but for only a short time.",
+      "keywords": [
+        "crude_oil",
+        "wti",
+        "premium",
+        "crude",
+        "average",
+        "canadian",
+        "cushing",
+        "monthly"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 163,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_04_20_no_longer_crudely_related__s06_nothing_is_perfect",
+      "doc_id": "poten_tankers_no_date_poten_2007_04_20_no_longer_crudely_related",
+      "parent_id": "poten_tankers_no_date_poten_2007_04_20_no_longer_crudely_related__root",
+      "title": "Nothing Is Perfect",
+      "section_path": [
+        "Nothing Is Perfect"
+      ],
+      "section_path_text": "Nothing Is Perfect",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Managing price risk using crude oil futures isn't a perfect game. With experience and history, market players have learned to accept all the warts, pimples and idiosyncrasies attached to futures.",
+      "keywords": [
+        "crude_oil",
+        "crude",
+        "oil",
+        "underlying",
+        "change",
+        "demand",
+        "how",
+        "oils."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 176,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

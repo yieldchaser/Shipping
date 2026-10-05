@@ -1,0 +1,191 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2006_06_16_filling_in_the_gap__root",
+  "doc_id": "poten_tankers_no_date_poten_2006_06_16_filling_in_the_gap",
+  "parent_id": null,
+  "title": "Filling In The Gap",
+  "section_path": [
+    "Filling In The Gap"
+  ],
+  "section_path_text": "Filling In The Gap",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Filling In The Gap\nWhile many countries have recently been struggling to maintain their crude oil production, the world has yet to truly be affected by a shortage in supply. There are several instances today where countries are unable to produce at peak levels. While much of the focus is on the cases where crude oil capacity has suffered, many countries have increased their production to satisfy global demand.",
+  "keywords": [
+    "vlcc",
+    "meg",
+    "crude_oil",
+    "demand",
+    "east",
+    "year",
+    "amount",
+    "are",
+    "crude",
+    "far",
+    "increased",
+    "suez"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 862,
+  "source_path": "reports/poten/2006/poten_2006-06-16_filling-in-the-gap.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_06_16_filling_in_the_gap__s01_filling_in_the_gap",
+      "doc_id": "poten_tankers_no_date_poten_2006_06_16_filling_in_the_gap",
+      "parent_id": "poten_tankers_no_date_poten_2006_06_16_filling_in_the_gap__root",
+      "title": "Filling In The Gap",
+      "section_path": [
+        "Filling In The Gap"
+      ],
+      "section_path_text": "Filling In The Gap",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "While many countries have recently been struggling to maintain their crude oil production, the world has yet to truly be affected by a shortage in supply. There are several instances today where countries are unable to produce at peak levels.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "crude_oil",
+        "countries",
+        "crude",
+        "are",
+        "many",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 134,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_06_16_filling_in_the_gap__s02_east_of_suez",
+      "doc_id": "poten_tankers_no_date_poten_2006_06_16_filling_in_the_gap",
+      "parent_id": "poten_tankers_no_date_poten_2006_06_16_filling_in_the_gap__root",
+      "title": "East of Suez",
+      "section_path": [
+        "East of Suez"
+      ],
+      "section_path_text": "East of Suez",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "red",
+        "sea",
+        "suez",
+        "west"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_06_16_filling_in_the_gap__s03_developments_in_demand",
+      "doc_id": "poten_tankers_no_date_poten_2006_06_16_filling_in_the_gap",
+      "parent_id": "poten_tankers_no_date_poten_2006_06_16_filling_in_the_gap__root",
+      "title": "Developments in Demand",
+      "section_path": [
+        "Developments in Demand"
+      ],
+      "section_path_text": "Developments in Demand",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The graph on the previous page shows the total reported VLCC spot liftings ex-AG for the first 6 months of 2005 and 2006. The discharge area for these liftings has been designated East of Suez, West of Suez or Red Sea.",
+      "keywords": [
+        "vlcc",
+        "amount",
+        "increased",
+        "liftings",
+        "east",
+        "far",
+        "tonnage",
+        "total"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 279,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_06_16_filling_in_the_gap__s04_daily_ws_rate_assessment",
+      "doc_id": "poten_tankers_no_date_poten_2006_06_16_filling_in_the_gap",
+      "parent_id": "poten_tankers_no_date_poten_2006_06_16_filling_in_the_gap__root",
+      "title": "Daily WS Rate Assessment",
+      "section_path": [
+        "Daily WS Rate Assessment"
+      ],
+      "section_path_text": "Daily WS Rate Assessment",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "It is no surprise that the two are inversely related as tighter tonnage supply inevitably leads to higher rates. Combined with the pressures from the demand side, owners have seen a rapid rise in earnings in the past few weeks.",
+      "keywords": [
+        "are",
+        "combined",
+        "demand",
+        "earnings",
+        "few",
+        "higher",
+        "inevitably",
+        "inversely"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 45,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_06_16_filling_in_the_gap__s05_ag_far_east_average_ws_rate",
+      "doc_id": "poten_tankers_no_date_poten_2006_06_16_filling_in_the_gap",
+      "parent_id": "poten_tankers_no_date_poten_2006_06_16_filling_in_the_gap__root",
+      "title": "AG - FAR EAST Average WS Rate",
+      "section_path": [
+        "AG - FAR EAST Average WS Rate"
+      ],
+      "section_path_text": "AG - FAR EAST Average WS Rate",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "88.6 94.0 86.1 74.3 76.5 72.4 82.0 2005 73.4 147.8 93.0 84.7 69.5 57.5 87.7 2006 85.0 111.4 78.5 55.5 70.1 120.0 86.8",
+      "keywords": [
+        "avg."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 98,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_06_16_filling_in_the_gap__s06_difference_05_06",
+      "doc_id": "poten_tankers_no_date_poten_2006_06_16_filling_in_the_gap",
+      "parent_id": "poten_tankers_no_date_poten_2006_06_16_filling_in_the_gap__root",
+      "title": "Difference '05 - '06",
+      "section_path": [
+        "Difference '05 - '06"
+      ],
+      "section_path_text": "Difference '05 - '06",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "11.6 -36.4 -14.5 -29.2 0.6 62.5 -0.9 The chart above represents the differential between 2006 and 2005 average WS rates. So far this month, rates are considerably higher than levels last year and well above the long term June averages.",
+      "keywords": [
+        "vlcc",
+        "storage",
+        "above",
+        "are",
+        "cargo",
+        "crude",
+        "demand",
+        "higher"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 262,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

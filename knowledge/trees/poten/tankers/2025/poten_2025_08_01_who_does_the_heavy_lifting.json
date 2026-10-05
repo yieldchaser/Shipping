@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2025_08_01_who_does_the_heavy_lifting__root",
+  "doc_id": "poten_tankers_no_date_poten_2025_08_01_who_does_the_heavy_lifting",
+  "parent_id": null,
+  "title": "Who Does The Heavy Lifting",
+  "section_path": [
+    "Who Does The Heavy Lifting"
+  ],
+  "section_path_text": "Who Does The Heavy Lifting",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Canada and Venezuela reshuffle heavy crude flows\nCrude oil flows in and around the United States are changing, affecting imports and exports around North America. Some of the changes are driven by the shifts in supply and demand for certain types of crude oil, heavy crude in particular. In this Weekly Tanker Opinion, we will discuss developments in Canada, Mexico and Venezuela in particular and how they are having an impact on the oil and tanker markets.",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "aframax",
+    "china",
+    "us_gulf",
+    "crude_oil",
+    "crude",
+    "u.s.",
+    "oil",
+    "heavy",
+    "are",
+    "canada"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 982,
+  "source_path": "reports/poten/2025/poten_2025-08-01_who-does-the-heavy-lifting.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2025_08_01_who_does_the_heavy_lifting__s01_canada_and_venezuela_reshuffle_heavy_crude_flows",
+      "doc_id": "poten_tankers_no_date_poten_2025_08_01_who_does_the_heavy_lifting",
+      "parent_id": "poten_tankers_no_date_poten_2025_08_01_who_does_the_heavy_lifting__root",
+      "title": "Canada and Venezuela reshuffle heavy crude flows",
+      "section_path": [
+        "Canada and Venezuela reshuffle heavy crude flows"
+      ],
+      "section_path_text": "Canada and Venezuela reshuffle heavy crude flows",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Crude oil flows in and around the United States are changing, affecting imports and exports around North America. Some of the changes are driven by the shifts in supply and demand for certain types of crude oil, heavy crude in particular.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "aframax",
+        "china",
+        "us_gulf",
+        "crude_oil",
+        "crude",
+        "u.s."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 973,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

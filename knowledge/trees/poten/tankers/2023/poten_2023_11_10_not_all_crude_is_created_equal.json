@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2023_11_10_not_all_crude_is_created_equal__root",
+  "doc_id": "poten_tankers_no_date_poten_2023_11_10_not_all_crude_is_created_equal",
+  "parent_id": null,
+  "title": "Not All Crude Is Created Equal",
+  "section_path": [
+    "Not All Crude Is Created Equal"
+  ],
+  "section_path_text": "Not All Crude Is Created Equal",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "is both a key importer and exporter of crude oil\nIt is hard to overestimate the importance of the United States in the tanker market. It is a large importer and exporter of both refined products and crude oil, and as a result it generates a lot of ton-mile demand for tankers. In this Week's Tanker Opinion, we will focus on the role of the U.S.",
+  "keywords": [
+    "atlantic",
+    "crude_oil",
+    "products",
+    "oil",
+    "u.s.",
+    "crude",
+    "imports",
+    "mb/d",
+    "was",
+    "but",
+    "domestic",
+    "increase"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 980,
+  "source_path": "reports/poten/2023/poten_2023-11-10_not-all-crude-is-created-equal.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2023_11_10_not_all_crude_is_created_equal__s01_the_u_s_is_both_a_key_importer_and_exporter_of_crude_oil",
+      "doc_id": "poten_tankers_no_date_poten_2023_11_10_not_all_crude_is_created_equal",
+      "parent_id": "poten_tankers_no_date_poten_2023_11_10_not_all_crude_is_created_equal__root",
+      "title": "The U.S. is both a key importer and exporter of crude oil",
+      "section_path": [
+        "The U.S. is both a key importer and exporter of crude oil"
+      ],
+      "section_path_text": "The U.S. is both a key importer and exporter of crude oil",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "It is hard to overestimate the importance of the United States in the tanker market. It is a large importer and exporter of both refined products and crude oil, and as a result it generates a lot of ton-mile demand for tankers.",
+      "keywords": [
+        "atlantic",
+        "crude_oil",
+        "products",
+        "oil",
+        "u.s.",
+        "crude",
+        "imports",
+        "mb/d"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 965,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

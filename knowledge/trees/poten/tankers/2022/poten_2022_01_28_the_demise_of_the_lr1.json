@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2022_01_28_the_demise_of_the_lr1__root",
+  "doc_id": "poten_tankers_no_date_poten_2022_01_28_the_demise_of_the_lr1",
+  "parent_id": null,
+  "title": "The Demise of the LR1",
+  "section_path": [
+    "The Demise of the LR1"
+  ],
+  "section_path_text": "The Demise of the LR1",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Demise Of The Panamax Tanker\nFor many years now, the fleet of dirty Panamax tankers has been declining. According to our fleet statistics, there are only 93 Panamax tankers left, with an average age of 14.8 years. There are no Panamaxes on order and some 63% of the fleet is older than 15 years.",
+  "keywords": [
+    "panamax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "meg",
+    "products",
+    "tankers",
+    "are",
+    "vessels",
+    "fleet",
+    "product"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 976,
+  "source_path": "reports/poten/2022/poten_2022-01-28_the-demise-of-the-lr1.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_01_28_the_demise_of_the_lr1__s01_the_demise_of_the_panamax_tanker",
+      "doc_id": "poten_tankers_no_date_poten_2022_01_28_the_demise_of_the_lr1",
+      "parent_id": "poten_tankers_no_date_poten_2022_01_28_the_demise_of_the_lr1__root",
+      "title": "The Demise Of The Panamax Tanker",
+      "section_path": [
+        "The Demise Of The Panamax Tanker"
+      ],
+      "section_path_text": "The Demise Of The Panamax Tanker",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "For many years now, the fleet of dirty Panamax tankers has been declining. According to our fleet statistics, there are only 93 Panamax tankers left, with an average age of 14.8 years.",
+      "keywords": [
+        "panamax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "meg",
+        "products",
+        "tankers"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 966,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_10_19_beyond_fundamentals__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_10_19_beyond_fundamentals",
+  "parent_id": null,
+  "title": "Beyond Fundamentals",
+  "section_path": [
+    "Beyond Fundamentals"
+  ],
+  "section_path_text": "Beyond Fundamentals",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Beyond Fundamentals\nIt appears that those who initially predicted the days of $100 barrels of oil may soon be able to say \"told you so.\" Back in April 2005, we wrote a Weekly Opinion entitled \"$100+ Per Barrel Crude: April Fool?\" This Opinion focused on a report wherein Goldman Sachs analysts predicted price levels of such magnitude. In the past few weeks the price of crude broke into the $80 per barrel price range, above where it had generally remained for most of the second quarter, before pushing its way toward $90 per barrel. The chart below shows the price for West Texas Intermediate (WTI) on a year-on-year comparison with 2006.",
+  "keywords": [
+    "capesize",
+    "crude_oil",
+    "crude",
+    "price",
+    "days",
+    "generally",
+    "increase",
+    "levels",
+    "per",
+    "prices",
+    "stock",
+    "supply"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 517,
+  "source_path": "reports/poten/2007/poten_2007-10-19_beyond-fundamentals.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_10_19_beyond_fundamentals__s01_beyond_fundamentals",
+      "doc_id": "poten_tankers_no_date_poten_2007_10_19_beyond_fundamentals",
+      "parent_id": "poten_tankers_no_date_poten_2007_10_19_beyond_fundamentals__root",
+      "title": "Beyond Fundamentals",
+      "section_path": [
+        "Beyond Fundamentals"
+      ],
+      "section_path_text": "Beyond Fundamentals",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "It appears that those who initially predicted the days of $100 barrels of oil may soon be able to say \"told you so.\" Back in April 2005, we wrote a Weekly Opinion entitled \"$100+ Per Barrel Crude: April Fool?\" This Opinion focused on a report wherein Goldman Sachs analysts predicted price levels of such magnitude. In the past few weeks the price of crude broke into the $80 per barrel price range, above where it had generally remained for most of the second quarter, before pushing its way toward $90 per barrel.",
+      "keywords": [
+        "crude_oil",
+        "price",
+        "per",
+        "april",
+        "barrel",
+        "crude",
+        "opinion",
+        "predicted"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 135,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_10_19_beyond_fundamentals__s02_wti_prices",
+      "doc_id": "poten_tankers_no_date_poten_2007_10_19_beyond_fundamentals",
+      "parent_id": "poten_tankers_no_date_poten_2007_10_19_beyond_fundamentals__root",
+      "title": "WTI Prices",
+      "section_path": [
+        "WTI Prices"
+      ],
+      "section_path_text": "WTI Prices",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The scapegoat, for lack of a better word, for these price spurts has been \"geopolitical tension\" but it is difficult to attribute a near $20 run-up in the price of crude to this generally pervasive condition that has been present in the market for quite some time. Since mid-August, crude oil prices have increased approximately 25%.",
+      "keywords": [
+        "capesize",
+        "crude_oil",
+        "crude",
+        "present",
+        "price",
+        "prices",
+        "appear",
+        "approximately"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 122,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_10_19_beyond_fundamentals__s03_stocks_speak",
+      "doc_id": "poten_tankers_no_date_poten_2007_10_19_beyond_fundamentals",
+      "parent_id": "poten_tankers_no_date_poten_2007_10_19_beyond_fundamentals__root",
+      "title": "Stocks Speak",
+      "section_path": [
+        "Stocks Speak"
+      ],
+      "section_path_text": "Stocks Speak",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "According to the International Energy Agency (IEA), crude stock levels for OECD countries have generally been increasing since March of this year and appear to have been at the top of the five-year range through the end of the second quarter. OECD stock levels are nearly a billion barrels, according to the most recently available data.",
+      "keywords": [
+        "stock",
+        "according",
+        "energy",
+        "levels",
+        "oecd",
+        "recent",
+        "administration",
+        "agency"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 120,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_10_19_beyond_fundamentals__s04_crude_stocks",
+      "doc_id": "poten_tankers_no_date_poten_2007_10_19_beyond_fundamentals",
+      "parent_id": "poten_tankers_no_date_poten_2007_10_19_beyond_fundamentals__root",
+      "title": "Crude Stocks",
+      "section_path": [
+        "Crude Stocks"
+      ],
+      "section_path_text": "Crude Stocks",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Days Supply While it is likely that producers may increase production to meet the actual increases in demand going forward, there is little reason to believe that they will increase production simply as a mechanism to control prices. When taking a fundamental approach to the market, it is easier to see that the price increase is likely driven by those in the market taking speculative positions.",
+      "keywords": [
+        "increase",
+        "likely",
+        "production",
+        "taking",
+        "actual",
+        "approach",
+        "attracted",
+        "become"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 124,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

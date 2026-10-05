@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2019_08_09_venezuelas_struggles_continue__root",
+  "doc_id": "poten_tankers_no_date_poten_2019_08_09_venezuelas_struggles_continue",
+  "parent_id": null,
+  "title": "Venezuelas Struggles Continue",
+  "section_path": [
+    "Venezuelas Struggles Continue"
+  ],
+  "section_path_text": "Venezuelas Struggles Continue",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "tightens sanctions against former regional powerhouse\nThe reports of the imminent demise of the regime of Nicolas Maduro of Venezuela (like the death of Mark Twain in 1897) have been greatly exaggerated. Venezuela has been subject to ever tightening sanctions since the Maduro regime cracked down on civilian protests in 2014. Citing severe human rights violations, President Obama imposed sanctions on a number of Venezuelan individuals.",
+  "keywords": [
+    "vlcc",
+    "aframax",
+    "china",
+    "india",
+    "crude_oil",
+    "sanctions",
+    "venezuela",
+    "crude",
+    "pdvsa",
+    "oil",
+    "are",
+    "still"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 885,
+  "source_path": "reports/poten/2019/poten_2019-08-09_venezuelas-struggles-continue.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_08_09_venezuelas_struggles_continue__s01_u_s_tightens_sanctions_against_former_regional_powerhouse",
+      "doc_id": "poten_tankers_no_date_poten_2019_08_09_venezuelas_struggles_continue",
+      "parent_id": "poten_tankers_no_date_poten_2019_08_09_venezuelas_struggles_continue__root",
+      "title": "U.S. tightens sanctions against former regional powerhouse",
+      "section_path": [
+        "U.S. tightens sanctions against former regional powerhouse"
+      ],
+      "section_path_text": "U.S. tightens sanctions against former regional powerhouse",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The reports of the imminent demise of the regime of Nicolas Maduro of Venezuela (like the death of Mark Twain in 1897) have been greatly exaggerated. Venezuela has been subject to ever tightening sanctions since the Maduro regime cracked down on civilian protests in 2014.",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "china",
+        "india",
+        "crude_oil",
+        "venezuela",
+        "sanctions",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 874,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

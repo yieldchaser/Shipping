@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2018_05_11_sanctions_snap_back__root",
+  "doc_id": "poten_tankers_no_date_poten_2018_05_11_sanctions_snap_back",
+  "parent_id": null,
+  "title": "Sanctions Snap Back",
+  "section_path": [
+    "Sanctions Snap Back"
+  ],
+  "section_path_text": "Sanctions Snap Back",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Iran Sanctions Snap Back\nTo nobody's surprise, President Trump decided to withdraw the United States from the 2015 international nuclear deal with Iran. The other signatories (China, France, Russia, the U.K., Germany, and Iran) have decided to stay in, at least for now. However, the secondary sanctions that will be reimposed by the U.S.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "europe",
+    "india",
+    "japan",
+    "crude_oil",
+    "sanctions",
+    "u.s.",
+    "mb/d",
+    "crude",
+    "iran"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 834,
+  "source_path": "reports/poten/2018/poten_2018-05-11_sanctions-snap-back.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_05_11_sanctions_snap_back__s01_iran_sanctions_snap_back",
+      "doc_id": "poten_tankers_no_date_poten_2018_05_11_sanctions_snap_back",
+      "parent_id": "poten_tankers_no_date_poten_2018_05_11_sanctions_snap_back__root",
+      "title": "Iran Sanctions Snap Back",
+      "section_path": [
+        "Iran Sanctions Snap Back"
+      ],
+      "section_path_text": "Iran Sanctions Snap Back",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "To nobody's surprise, President Trump decided to withdraw the United States from the 2015 international nuclear deal with Iran. The other signatories (China, France, Russia, the U.K., Germany, and Iran) have decided to stay in, at least for now.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "europe",
+        "india",
+        "japan",
+        "crude_oil",
+        "sanctions"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 828,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

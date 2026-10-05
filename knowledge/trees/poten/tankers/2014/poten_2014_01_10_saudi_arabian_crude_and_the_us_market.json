@@ -1,0 +1,174 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2014_01_10_saudi_arabian_crude_and_the_us_market__root",
+  "doc_id": "poten_tankers_no_date_poten_2014_01_10_saudi_arabian_crude_and_the_us_market",
+  "parent_id": null,
+  "title": "Saudi Arabian Crude and the US Market",
+  "section_path": [
+    "Saudi Arabian Crude and the US Market"
+  ],
+  "section_path_text": "Saudi Arabian Crude and the US Market",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Saudi Arabian Crude and the US Market\nOver the past few years US domestic crude oil production has supplanted foreign crude oil imports. To the extent that they possibly can, domestic refiners have shifted to local grades that have trended at an often significant price discount. Interestingly, however, fixture activity on the Arabian Gulf to US Gulf trade route remains robust.",
+  "keywords": [
+    "vlcc",
+    "meg",
+    "us_gulf",
+    "crude_oil",
+    "crude",
+    "saudi",
+    "arabian",
+    "oil",
+    "discount",
+    "gulf",
+    "price",
+    "trend"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 558,
+  "source_path": "reports/poten/2014/poten_2014-01-10_saudi-arabian-crude-and-the-us-market.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_01_10_saudi_arabian_crude_and_the_us_market__s01_saudi_arabian_crude_and_the_us_market",
+      "doc_id": "poten_tankers_no_date_poten_2014_01_10_saudi_arabian_crude_and_the_us_market",
+      "parent_id": "poten_tankers_no_date_poten_2014_01_10_saudi_arabian_crude_and_the_us_market__root",
+      "title": "Saudi Arabian Crude and the US Market",
+      "section_path": [
+        "Saudi Arabian Crude and the US Market"
+      ],
+      "section_path_text": "Saudi Arabian Crude and the US Market",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Over the past few years US domestic crude oil production has supplanted foreign crude oil imports. To the extent that they possibly can, domestic refiners have shifted to local grades that have trended at an often significant price discount.",
+      "keywords": [
+        "meg",
+        "us_gulf",
+        "crude_oil",
+        "oil",
+        "crude",
+        "domestic",
+        "gulf",
+        "arabian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 130,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_01_10_saudi_arabian_crude_and_the_us_market__s02_reported_spot_market",
+      "doc_id": "poten_tankers_no_date_poten_2014_01_10_saudi_arabian_crude_and_the_us_market",
+      "parent_id": "poten_tankers_no_date_poten_2014_01_10_saudi_arabian_crude_and_the_us_market__root",
+      "title": "Reported spot market",
+      "section_path": [
+        "Reported spot market"
+      ],
+      "section_path_text": "Reported spot market",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "activity from the Arabian Gulf remains on an upward trend since 2010 in spite of rising US crude production.",
+      "keywords": [
+        "meg",
+        "activity",
+        "arabian",
+        "crude",
+        "gulf",
+        "production.",
+        "remains",
+        "rising"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 22,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_01_10_saudi_arabian_crude_and_the_us_market__s03_tons_month",
+      "doc_id": "poten_tankers_no_date_poten_2014_01_10_saudi_arabian_crude_and_the_us_market",
+      "parent_id": "poten_tankers_no_date_poten_2014_01_10_saudi_arabian_crude_and_the_us_market__root",
+      "title": "Tons/Month",
+      "section_path": [
+        "Tons/Month"
+      ],
+      "section_path_text": "Tons/Month",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "US inland crude grades typically trade at a discount to WTI due to limited transportation options available to bring crude oil to market. In addition, the prohibition of exports limits price parity against to foreign grades.",
+      "keywords": [
+        "meg",
+        "crude_oil",
+        "crude",
+        "discount",
+        "price",
+        "are",
+        "bakken",
+        "saudi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 153,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_01_10_saudi_arabian_crude_and_the_us_market__s04_eia_data_supports_a",
+      "doc_id": "poten_tankers_no_date_poten_2014_01_10_saudi_arabian_crude_and_the_us_market",
+      "parent_id": "poten_tankers_no_date_poten_2014_01_10_saudi_arabian_crude_and_the_us_market__root",
+      "title": "EIA Data supports a",
+      "section_path": [
+        "EIA Data supports a"
+      ],
+      "section_path_text": "EIA Data supports a",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "general upward trend in imports since 2010, although imports have not reached pre financial crisis levels.",
+      "keywords": [
+        "imports",
+        "although",
+        "crisis",
+        "financial",
+        "general",
+        "levels.",
+        "not",
+        "pre"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 20,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_01_10_saudi_arabian_crude_and_the_us_market__s05_wti_bakken_spread",
+      "doc_id": "poten_tankers_no_date_poten_2014_01_10_saudi_arabian_crude_and_the_us_market",
+      "parent_id": "poten_tankers_no_date_poten_2014_01_10_saudi_arabian_crude_and_the_us_market__root",
+      "title": "WTI/Bakken Spread",
+      "section_path": [
+        "WTI/Bakken Spread"
+      ],
+      "section_path_text": "WTI/Bakken Spread",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Saudi Price Discount (US vs Asia) Saudi Arabian exports to the US have followed a general upward trend since 2010. The drop in imports during the February to March time period appears to coincide with the refinery turnaround window in the US Gulf; normally between February and March.",
+      "keywords": [
+        "vlcc",
+        "us_gulf",
+        "crude_oil",
+        "crude",
+        "exports",
+        "saudi",
+        "imports",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 201,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

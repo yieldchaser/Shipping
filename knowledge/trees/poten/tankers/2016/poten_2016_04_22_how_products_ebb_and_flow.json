@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2016_04_22_how_products_ebb_and_flow__root",
+  "doc_id": "poten_tankers_no_date_poten_2016_04_22_how_products_ebb_and_flow",
+  "parent_id": null,
+  "title": "How Products Ebb And Flow",
+  "section_path": [
+    "How Products Ebb And Flow"
+  ],
+  "section_path_text": "How Products Ebb And Flow",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Changes in Product Demand Drive Trade Flows\nSince the global financial crisis, when product trades declined as a result of a sudden pull-back in oil demand, the oil trades (both crude and products) have made a comeback. However, the individual products that are driving the expansion of oil demand are not all growing at the same rate. Also, product demand is growing at different rates in different regions of the world.",
+  "keywords": [
+    "lpg",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "europe",
+    "singapore",
+    "crude_oil",
+    "products",
+    "gas",
+    "demand",
+    "oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 884,
+  "source_path": "reports/poten/2016/poten_2016-04-22_how-products-ebb-and-flow.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_04_22_how_products_ebb_and_flow__s01_changes_in_product_demand_drive_trade_flows",
+      "doc_id": "poten_tankers_no_date_poten_2016_04_22_how_products_ebb_and_flow",
+      "parent_id": "poten_tankers_no_date_poten_2016_04_22_how_products_ebb_and_flow__root",
+      "title": "Changes in Product Demand Drive Trade Flows",
+      "section_path": [
+        "Changes in Product Demand Drive Trade Flows"
+      ],
+      "section_path_text": "Changes in Product Demand Drive Trade Flows",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Since the global financial crisis, when product trades declined as a result of a sudden pull-back in oil demand, the oil trades (both crude and products) have made a comeback. However, the individual products that are driving the expansion of oil demand are not all growing at the same rate.",
+      "keywords": [
+        "lpg",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "europe",
+        "singapore",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 875,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

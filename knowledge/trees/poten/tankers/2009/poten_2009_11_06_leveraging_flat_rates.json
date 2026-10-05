@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2009_11_06_leveraging_flat_rates__root",
+  "doc_id": "poten_tankers_no_date_poten_2009_11_06_leveraging_flat_rates",
+  "parent_id": null,
+  "title": "Leveraging Flat Rates",
+  "section_path": [
+    "Leveraging Flat Rates"
+  ],
+  "section_path_text": "Leveraging Flat Rates",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Leveraging Flat Rates\nEach year, the Worldscale Association adjusts the flat rates which serve as the starting point for negotiating the cost of carrying crude oil and refined products on tankers. Under normal conditions, this annual revision ritual does not have a dramatic impact on tanker markets, aside from forcing owners and charterers to adjust to the new rates during the first weeks of the year. Following five straight years of flat rate increases, Worldscale's downward revision of its 2010 flat rates, announced yesterday, reverses some 2009's usual characteristics rates and sets the stage for another round of negotiation between owners and charterers at year's end.",
+  "keywords": [
+    "crude_oil",
+    "products",
+    "flat",
+    "worldscale",
+    "year",
+    "announced",
+    "annual",
+    "average",
+    "owners",
+    "bunker",
+    "impact",
+    "revision"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 541,
+  "source_path": "reports/poten/2009/poten_2009-11-06_leveraging-flat-rates.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_11_06_leveraging_flat_rates__s01_leveraging_flat_rates",
+      "doc_id": "poten_tankers_no_date_poten_2009_11_06_leveraging_flat_rates",
+      "parent_id": "poten_tankers_no_date_poten_2009_11_06_leveraging_flat_rates__root",
+      "title": "Leveraging Flat Rates",
+      "section_path": [
+        "Leveraging Flat Rates"
+      ],
+      "section_path_text": "Leveraging Flat Rates",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Each year, the Worldscale Association adjusts the flat rates which serve as the starting point for negotiating the cost of carrying crude oil and refined products on tankers. Under normal conditions, this annual revision ritual does not have a dramatic impact on tanker markets, aside from forcing owners and charterers to adjust to the new rates during the first weeks of the year.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "flat",
+        "worldscale",
+        "announced",
+        "charterers",
+        "decrease",
+        "impact"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 210,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_11_06_leveraging_flat_rates__s02_ag_loop",
+      "doc_id": "poten_tankers_no_date_poten_2009_11_06_leveraging_flat_rates",
+      "parent_id": "poten_tankers_no_date_poten_2009_11_06_leveraging_flat_rates__root",
+      "title": "AG ‐ LOOP",
+      "section_path": [
+        "AG ‐ LOOP"
+      ],
+      "section_path_text": "AG ‐ LOOP",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The rising price of bunkers has been the central force driving the annual bumps in Worldscale flat rates in recent years. The Worldscale bunker assumption is an average of assessments of 380 cSt bunker fuel between October 1 to September 30 provided by LQM Petroleum Services.",
+      "keywords": [
+        "flat",
+        "average",
+        "bunker",
+        "calculated",
+        "price",
+        "worldscale",
+        "annual",
+        "assessments"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 95,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_11_06_leveraging_flat_rates__s03_hfo",
+      "doc_id": "poten_tankers_no_date_poten_2009_11_06_leveraging_flat_rates",
+      "parent_id": "poten_tankers_no_date_poten_2009_11_06_leveraging_flat_rates__root",
+      "title": "HFO",
+      "section_path": [
+        "HFO"
+      ],
+      "section_path_text": "HFO",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "In addition to adjustments for bunker prices, the annual rate revisions to Worldscale rates are also designed to reflect changes in port costs and transit fees. This year, Worldscale opted to retain its language relating to existing Emissions Control Areas and announced it will make allowances at all EU ports for cost of 0.1% sulfur, which will be required from January 1, 2010 in compliance with the EU Sulphur Directive.",
+      "keywords": [
+        "worldscale",
+        "year",
+        "announced",
+        "annual",
+        "costs",
+        "flat",
+        "owners",
+        "take"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 222,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

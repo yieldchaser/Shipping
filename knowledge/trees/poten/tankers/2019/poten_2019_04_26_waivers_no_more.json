@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2019_04_26_waivers_no_more__root",
+  "doc_id": "poten_tankers_no_date_poten_2019_04_26_waivers_no_more",
+  "parent_id": null,
+  "title": "Waivers No More",
+  "section_path": [
+    "Waivers No More"
+  ],
+  "section_path_text": "Waivers No More",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "decides not to renew Iranian export waivers\nOn Monday April 22, the U.S. announced that it will not extend the sanctions waivers when they expire on May 2 nd . The stated objective of the Trump administration is to force Iranian crude oil and condensate exports to zero.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "europe",
+    "india",
+    "japan",
+    "crude_oil",
+    "crude",
+    "iran",
+    "iranian",
+    "oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 904,
+  "source_path": "reports/poten/2019/poten_2019-04-26_waivers-no-more.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_04_26_waivers_no_more__s01_u_s_decides_not_to_renew_iranian_export_waivers",
+      "doc_id": "poten_tankers_no_date_poten_2019_04_26_waivers_no_more",
+      "parent_id": "poten_tankers_no_date_poten_2019_04_26_waivers_no_more__root",
+      "title": "U.S. decides not to renew Iranian export waivers",
+      "section_path": [
+        "U.S. decides not to renew Iranian export waivers"
+      ],
+      "section_path_text": "U.S. decides not to renew Iranian export waivers",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "On Monday April 22, the U.S. announced that it will not extend the sanctions waivers when they expire on May 2 nd .",
+      "keywords": [
+        "china",
+        "europe",
+        "india",
+        "japan",
+        "crude_oil",
+        "crude",
+        "iran",
+        "iranian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 604,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_04_26_waivers_no_more__s02_china",
+      "doc_id": "poten_tankers_no_date_poten_2019_04_26_waivers_no_more",
+      "parent_id": "poten_tankers_no_date_poten_2019_04_26_waivers_no_more__root",
+      "title": "China",
+      "section_path": [
+        "China"
+      ],
+      "section_path_text": "China",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "India Korea Other Asia Turkey Other Med UKC Other Saudi Arabia and UAE have announced that they will make sure the oil market remains well supplied. However, this might mean that they must exceed their quota under the OPEC+ production cut agreement.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "india",
+        "crude_oil",
+        "crude",
+        "iran",
+        "iranian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 286,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

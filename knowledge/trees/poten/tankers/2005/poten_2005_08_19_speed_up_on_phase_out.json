@@ -1,0 +1,167 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_08_19_speed_up_on_phase_out__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_08_19_speed_up_on_phase_out",
+  "parent_id": null,
+  "title": "Speed Up on Phase Out",
+  "section_path": [
+    "Speed Up on Phase Out"
+  ],
+  "section_path_text": "Speed Up on Phase Out",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Speed Up on Phase Out\nThis week we examine the VLCC fleet with regard to the impact of regulatory phase-out of single hull tankers. The VLCC fleet size over the last 10 years has been static as shown below. This stable fleet size is a result of annual scrapping activity more or less equaling newbuilding deliveries until 2004, when scrapping activity declined significantly.",
+  "keywords": [
+    "vlcc",
+    "crude_oil",
+    "products",
+    "fleet",
+    "are",
+    "vessels",
+    "hull",
+    "single",
+    "phase-out",
+    "deliveries",
+    "less",
+    "tankers"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 839,
+  "source_path": "reports/poten/2005/poten_2005-08-19_speed-up-on-phase-out.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_08_19_speed_up_on_phase_out__s01_speed_up_on_phase_out",
+      "doc_id": "poten_tankers_no_date_poten_2005_08_19_speed_up_on_phase_out",
+      "parent_id": "poten_tankers_no_date_poten_2005_08_19_speed_up_on_phase_out__root",
+      "title": "Speed Up on Phase Out",
+      "section_path": [
+        "Speed Up on Phase Out"
+      ],
+      "section_path_text": "Speed Up on Phase Out",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This week we examine the VLCC fleet with regard to the impact of regulatory phase-out of single hull tankers. The VLCC fleet size over the last 10 years has been static as shown below.",
+      "keywords": [
+        "vlcc",
+        "fleet",
+        "activity",
+        "scrapping",
+        "size",
+        "annual",
+        "below.",
+        "declined"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 103,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_08_19_speed_up_on_phase_out__s02_delivered",
+      "doc_id": "poten_tankers_no_date_poten_2005_08_19_speed_up_on_phase_out",
+      "parent_id": "poten_tankers_no_date_poten_2005_08_19_speed_up_on_phase_out__root",
+      "title": "DELIVERED",
+      "section_path": [
+        "DELIVERED"
+      ],
+      "section_path_text": "DELIVERED",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "SCRAPPED Even though the VLCC fleet has stagnated numerically, double hull vessels built in the 1990s and 2000s are faster, larger, more fuel-efficient, and operate more days per year than those being scrapped. 1 Newer VLCCs are approximately 20% more productive than the vessels they are replacing.",
+      "keywords": [
+        "vlcc",
+        "are",
+        "hull",
+        "phase-out",
+        "tankers",
+        "double",
+        "fleet",
+        "single"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 252,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_08_19_speed_up_on_phase_out__s03_20_yrs",
+      "doc_id": "poten_tankers_no_date_poten_2005_08_19_speed_up_on_phase_out",
+      "parent_id": "poten_tankers_no_date_poten_2005_08_19_speed_up_on_phase_out__root",
+      "title": ">20 Yrs",
+      "section_path": [
+        ">20 Yrs"
+      ],
+      "section_path_text": ">20 Yrs",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "yrs"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_08_19_speed_up_on_phase_out__s04_single_hull",
+      "doc_id": "poten_tankers_no_date_poten_2005_08_19_speed_up_on_phase_out",
+      "parent_id": "poten_tankers_no_date_poten_2005_08_19_speed_up_on_phase_out__root",
+      "title": "Single Hull",
+      "section_path": [
+        "Single Hull"
+      ],
+      "section_path_text": "Single Hull",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "VLCC FLEET 172 Vessels as of 8/05 15 Yrs or Less 69% 1995 1990 1985 1980 1975 Year Built 1 Faster is a matter of fuel economics reflecting the relationship between speed and fuel consumption for diesel versus steam turbine propulsion. Operating days per year for newbuildings are higher, naturally, than older vessels that require more off-hire time for repairs and maintenance.",
+      "keywords": [
+        "vlcc",
+        "products",
+        "vessels",
+        "are",
+        "fleet",
+        "before",
+        "fuel",
+        "less"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 237,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_08_19_speed_up_on_phase_out__s05_deliveries",
+      "doc_id": "poten_tankers_no_date_poten_2005_08_19_speed_up_on_phase_out",
+      "parent_id": "poten_tankers_no_date_poten_2005_08_19_speed_up_on_phase_out__root",
+      "title": "Deliveries",
+      "section_path": [
+        "Deliveries"
+      ],
+      "section_path_text": "Deliveries",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Anticipated Deliveries Removals Anticipated Removals The Erika sinking in late 1999 and the Prestige sinking in late 2003 introduced age preference into the chartering decisions of oil companies, reducing supply below physical availability and helping to cause the greatest charter rate rise in the history of tankers. The new MARPOL provision on single hull phase- out actually could have a greater impact on vessel supply than the Erika and Prestige combined.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "anticipated",
+        "availability",
+        "compensate",
+        "erika",
+        "late",
+        "many"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 216,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

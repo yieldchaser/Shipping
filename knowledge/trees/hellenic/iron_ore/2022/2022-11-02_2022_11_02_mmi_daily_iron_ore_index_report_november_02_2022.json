@@ -9,7 +9,7 @@
   "section_path_text": "MMi Daily Iron Ore Index Report November 02 2022",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Chinese iron ore and steelmaking prices 02/11/2022\nDCE iron ore futures rose by 2.28 % today, the main contract closed 629. The traders' willingness to ship is more. The steel mills are purchaseon demand.",
+  "summary": "Main\nDCE iron ore futures rose by 2.28 % today, the main contract closed 629. The traders' willingness to ship is more. The steel mills are purchaseon demand.",
   "keywords": [
     "china",
     "brazil",
@@ -22,11 +22,11 @@
     "fines",
     "iron",
     "ore",
-    "nov"
+    "change"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 11441,
+  "token_count": 10694,
   "source_path": "reports/hellenic/iron_ore/2022/2022-11-02_mmi-daily-iron-ore-index-report-november-02-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-november-02-2022",
   "children": [
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-11-02_mmi-daily-iron-ore-index-report-november-02-2022_mmi-daily-iron-ore-report-for-2th-no_6783480513a0.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2022-11-02_mmi-daily-iron-ore-index-report-november-02-2022_mmi-daily-iron-ore-report-for-2th-no_6783480513a0.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report Nov 2nd, 2022\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n653 864 613\n0 0.00% -10.00 -1.14% 0 0.00%\nNov 2nd, 2022 Nov 2nd, 2022 Nov 2nd, 2022\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n83.90 94.45 860\n-5.20 -5.84% -1.30 -1.36% -10 -1.15%\nNov 2nd, 2022 Nov 2nd, 2022 Week Ending Oct 28th, 2022\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2301 (Jan) RMB/t (3pm close) November 22 USD/dmt RB2301 (Jan) RMB/t\n629.00 80.35 3485\n1.00 0.16% 3.18 4.12% 0 0.00%\nNov 2nd, 2022 (3pm close) Nov 2nd, 2022 (5.30 pm Print) Nov 2nd, 2022 (3pm close)\nFreight Rates Steel Price\nC3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Steel Rebar (C",
+      "summary": "Source asset: corpus/02-hellenic/iron_ore/pdfs/2022-11-02_mmi-daily-iron-ore-index-report-november-02-2022_mmi-daily-iron-ore-report-for-2th-no_6783480513a0.pdf\n\nMMi Daily Iron Ore Index Report Nov 2nd, 2022\n\n**Iron Ore Port Stock (FOT Qingdao)** **IOPI62 62% Fe Fines RMB/t**\n\n**653**\n\n## 0 0.00%\n\n**Nov 2nd, 2022**\n\n**Iron Ore Seaborne (CFR Qingdao)** **IOSI62 62% Fe Fines USD/dmt**\n\n## 83.90\n\n## -5.20-5.84%\n\n**Nov 2nd, 2022**\n\n**DCE Iron Ore 62% Fines** **I2301 (Jan) RMB/t (3pm close)**\n\n## 629.00\n\n## 1.00 0.16%\n\n**Nov 2nd, 2022 (3pm close)**\n\n**C3, Tubarao-Qingdao USD/t**\n\n## 19.31\n\n## -0.34-1.73%\n\n**Nov 1st, 2022**\n\n**Iron Ore Inventory at Chinese Ports (35) million tonnes**\n\n## 126.17\n\n## 0.35 0.28%\n\n**Week Ending Oct 28th, 2022**\n\nwww.mmiprices.com\n\n# MMi Dashboard\n\n**Iron Ore Price Indices**\n\n**Iron Ore Port Stock (FOT Qingdao)** **IOPI65 65% Fe Fines RMB/t**\n\n**864**\n\n## -10.00-1.14%\n\n**Nov 2nd, 2022**\n\n**Iron Ore Seaborne (CFR Qingdao)** **IOSI65 65% Fe Fines USD/dmt**\n\n## 94.45\n\n## -1.30-1.36%\n\n**Nov 2nd, 2022**\n\n**Exchange Traded Contracts**\n\n**SGX Iron Ore (CFR Qingdao) 62% Fe Fines** **November 22 USD/dmt**\n\n## 80.35\n\n## 3.18 4.12%\n\n**Nov 2nd, 2022 (5.30 pm Print)**\n\n**",
       "keywords": [
         "china",
         "brazil",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 10035,
+      "token_count": 9286,
       "section_type": "linked_pdf",
       "children": []
     },
@@ -97,7 +97,7 @@
       "section_path_text": "Linked asset: 2022-11-02_mmi-daily-iron-ore-index-report-november-02-2022_img1_23fgd_0e459a16fbe6.jpg",
       "level": 1,
       "ordinal": 3,
-      "summary": "Source asset: reports/hellenic/iron_ore/2022/assets/2022-11-02_mmi-daily-iron-ore-index-report-november-02-2022_img1_23fgd_0e459a16fbe6.jpg\n\nLinked image asset: 2022-11-02_mmi-daily-iron-ore-index-report-november-02-2022_img1_23fgd_0e459a16fbe6.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nMMi Daily Iron Ore Index Report i) Nov 2nd, 2022\nIRON ORE PORT STOCK INDEX (IOP!)\n‘Nov 2nd, 2022 | FOT Qingdao (inc. 13% VAT), RMB/wet tonne | CFR Qingdao Equivalent (exc.",
+      "summary": "Source asset: corpus/02-hellenic/iron_ore/2022/assets/2022-11-02_mmi-daily-iron-ore-index-report-november-02-2022_img1_23fgd_0e459a16fbe6.jpg\n\nLinked image asset: 2022-11-02_mmi-daily-iron-ore-index-report-november-02-2022_img1_23fgd_0e459a16fbe6.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nMMi Daily Iron Ore Index Report i) Nov 2nd, 2022\nIRON ORE PORT STOCK INDEX (IOP!)\n‘Nov 2nd, 2022 | FOT Qingdao (inc. 13% VAT), RMB/wet tonne | CFR Qingdao Equivalent (exc.",
       "keywords": [
         "china",
         "brazil",
@@ -110,7 +110,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 975,
+      "token_count": 977,
       "section_type": "linked_image_asset",
       "children": []
     }

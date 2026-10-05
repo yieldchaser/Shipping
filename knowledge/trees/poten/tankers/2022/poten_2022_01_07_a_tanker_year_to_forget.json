@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2022_01_07_a_tanker_year_to_forget__root",
+  "doc_id": "poten_tankers_no_date_poten_2022_01_07_a_tanker_year_to_forget",
+  "parent_id": null,
+  "title": "A Tanker Year To Forget",
+  "section_path": [
+    "A Tanker Year To Forget"
+  ],
+  "section_path_text": "A Tanker Year To Forget",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Top Reported Dirty Spot Charterers for 2021*\nIt would be an understatement to say that 2021 was a disappointing year for the tanker market. The recovery that many pundits expected did not materialize and average dirty tanker rates fell to multi-decade lows. The tanker malaise was primarily due to an oversupply of vessels in the face of a tepid increase in demand.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "india",
+    "crude_oil",
+    "top",
+    "was",
+    "fixtures",
+    "reported",
+    "charterers",
+    "not"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1077,
+  "source_path": "reports/poten/2022/poten_2022-01-07_a-tanker-year-to-forget.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_01_07_a_tanker_year_to_forget__s01_top_reported_dirty_spot_charterers_for_2021",
+      "doc_id": "poten_tankers_no_date_poten_2022_01_07_a_tanker_year_to_forget",
+      "parent_id": "poten_tankers_no_date_poten_2022_01_07_a_tanker_year_to_forget__root",
+      "title": "Top Reported Dirty Spot Charterers for 2021*",
+      "section_path": [
+        "Top Reported Dirty Spot Charterers for 2021*"
+      ],
+      "section_path_text": "Top Reported Dirty Spot Charterers for 2021*",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "It would be an understatement to say that 2021 was a disappointing year for the tanker market. The recovery that many pundits expected did not materialize and average dirty tanker rates fell to multi-decade lows.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "crude_oil",
+        "was",
+        "top",
+        "fixtures"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 849,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_01_07_a_tanker_year_to_forget__s02_chart_top_10_vlcc_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2022_01_07_a_tanker_year_to_forget",
+      "parent_id": "poten_tankers_no_date_poten_2022_01_07_a_tanker_year_to_forget__root",
+      "title": "Chart: Top 10 VLCC Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 VLCC Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 VLCC Spot Charterers",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Indian charterers IOC and BPCL, who typically feature near the top of the Suezmax rankings are now absent. IOC moved from 4 th to 2 nd in the VLCC rankings, so they may have replaced some Suezmaxes with VLCCs last year.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "india",
+        "ioc",
+        "rankings",
+        "absent.",
+        "are",
+        "bpcl"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 87,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_01_07_a_tanker_year_to_forget__s03_chart_top_10_aframax_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2022_01_07_a_tanker_year_to_forget",
+      "parent_id": "poten_tankers_no_date_poten_2022_01_07_a_tanker_year_to_forget__root",
+      "title": "Chart: Top 10 Aframax Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 Aframax Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 Aframax Spot Charterers",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "1, while BP and Shell switched places on top of the rankings in the Aframax segment. Glencore dropped out of the top 10, making room for Aramco.",
+      "keywords": [
+        "aframax",
+        "fixtures.",
+        "reported",
+        "top",
+        "above",
+        "activity.",
+        "aramco.",
+        "assembled"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 107,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

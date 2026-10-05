@@ -5,6 +5,7 @@ commodities:
 date: '2026-04-18'
 doc_id: hellenic_demolition_2026-04-18_2026_04_18_best_oasis_weekly_recycling_market_report_17_april_2026
 document_type: demolition_update
+is_error_page: false
 key_entities: []
 keywords:
 - container

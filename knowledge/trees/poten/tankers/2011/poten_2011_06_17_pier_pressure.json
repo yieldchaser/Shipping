@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_06_17_pier_pressure__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_06_17_pier_pressure",
+  "parent_id": null,
+  "title": "Pier Pressure",
+  "section_path": [
+    "Pier Pressure"
+  ],
+  "section_path_text": "Pier Pressure",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Pier Pressure\nThe proposed project to expand Pier 400 - Berth 408 in the port of Los Angeles has engendered a fair bit of media coverage recently and begged questions as to the potential impact on the tanker market and the surrounding environment. Although it will not be the first berth capable of accommodating Very Large Crude Carriers (VLCCs) on the United States West Coast, the commencement of the project could yield material impacts on the overall traffic patterns, demurrage and turn around time for vessels moving into the Port of Los Angeles. However at present, it is difficult to see the imminent need for expanded berth capacity given the tepid economic climate.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "meg",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "crude",
+    "oil",
+    "project",
+    "west",
+    "coast"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1083,
+  "source_path": "reports/poten/2011/poten_2011-06-17_pier-pressure.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_06_17_pier_pressure__s01_pier_pressure",
+      "doc_id": "poten_tankers_no_date_poten_2011_06_17_pier_pressure",
+      "parent_id": "poten_tankers_no_date_poten_2011_06_17_pier_pressure__root",
+      "title": "Pier Pressure",
+      "section_path": [
+        "Pier Pressure"
+      ],
+      "section_path_text": "Pier Pressure",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The proposed project to expand Pier 400 - Berth 408 in the port of Los Angeles has engendered a fair bit of media coverage recently and begged questions as to the potential impact on the tanker market and the surrounding environment. Although it will not be the first berth capable of accommodating Very Large Crude Carriers (VLCCs) on the United States West Coast, the commencement of the project could yield material impacts on the overall traffic patterns, demurrage and turn around time for vessels moving into the Port of Los Angeles.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "crude",
+        "oil",
+        "barrels",
+        "berth",
+        "coast",
+        "day"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 279,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_06_17_pier_pressure__s02_crude_oil_imports",
+      "doc_id": "poten_tankers_no_date_poten_2011_06_17_pier_pressure",
+      "parent_id": "poten_tankers_no_date_poten_2011_06_17_pier_pressure__root",
+      "title": "Crude Oil Imports",
+      "section_path": [
+        "Crude Oil Imports"
+      ],
+      "section_path_text": "Crude Oil Imports",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "While the petroleum handling capacity of the proposed Pier 400 project is impressive - a stated throughput of up to 200 VLCCs per year - the actual volume of international tanker calls will likely be significantly less. Of the imported barrels for the entire U.S.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "meg",
+        "crude_oil",
+        "are",
+        "calls",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 219,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_06_17_pier_pressure__s03_crude_oil_fixtures_to_uswc",
+      "doc_id": "poten_tankers_no_date_poten_2011_06_17_pier_pressure",
+      "parent_id": "poten_tankers_no_date_poten_2011_06_17_pier_pressure__root",
+      "title": "Crude Oil Fixtures to USWC",
+      "section_path": [
+        "Crude Oil Fixtures to USWC"
+      ],
+      "section_path_text": "Crude Oil Fixtures to USWC",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "So far in 2011, Suezmax and Aframaxes comprise nearly 60% of the overall reported crude oil fixture volume discharging United States West Coast (including Hawaii).",
+      "keywords": [
+        "suezmax",
+        "aframax",
+        "crude_oil",
+        "aframaxes",
+        "coast",
+        "comprise",
+        "crude",
+        "discharging"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 37,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_06_17_pier_pressure__s04_diesel_death_drama",
+      "doc_id": "poten_tankers_no_date_poten_2011_06_17_pier_pressure",
+      "parent_id": "poten_tankers_no_date_poten_2011_06_17_pier_pressure__root",
+      "title": "Diesel Death Drama",
+      "section_path": [
+        "Diesel Death Drama"
+      ],
+      "section_path_text": "Diesel Death Drama",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "At present, vessels calling California ports burn 1.5%S max MDO or 0.5%S max MGO within 24 nm as regulated by the California Air Resource Board (CARB). When the North American Emission Control Area (ECA) commences in August 2012, it will extend to 200 nm off the coast requiring ships to burn IFO 1.0%S max for the incremental distance.* The change in fuel requirements will complicate and make more costly the operations of shore side discharge, potentially furthering the case for offshore lightering or even the development of an offshore terminal.",
+      "keywords": [
+        "vlcc",
+        "us_gulf",
+        "crude_oil",
+        "california",
+        "demand",
+        "existing",
+        "fuel",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 525,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

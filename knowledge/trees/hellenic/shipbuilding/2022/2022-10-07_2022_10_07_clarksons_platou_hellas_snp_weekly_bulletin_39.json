@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNew Building: In tankers this week, DH Shipbuilding (formerly Daehan) announced two sets of tanker orders. The yard announced that Euronav\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-10-07_clarksons-platou-hellas-snp-weekly-bulletin-39_report-07-10-2022_263f08597aab.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-10-07_clarksons-platou-hellas-snp-weekly-bulletin-39_report-07-10-2022_263f08597aab.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 07 October 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN-B&W 6S50ME-C8.2\nOCEAN ADVENTURE 57,814 2015 TSUNEISHI SS 10/25\n4x30 T, BWTS Fitted LOW USD 23 M JAPANESE\nZOSEN DD 01/24\nMAN B. 6S46MC-C7.2\nPROMISE 2 32,401 2010 SAMHO SS 09/25 MIDDLE\n4x30 T, LOGS & BWTS Fitted HIGH USD 13 M\nDD 09/23 EASTERNS\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\nMAN B.",
+  "summary": "Main\nNew Building: In tankers this week, DH Shipbuilding (formerly Daehan) announced two sets of tanker orders. The yard announced that Euronav\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-10-07_clarksons-platou-hellas-snp-weekly-bulletin-39_report-07-10-2022_263f08597aab.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2022-10-07_clarksons-platou-hellas-snp-weekly-bulletin-39_report-07-10-2022_263f08597aab.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin07 October 2022\n\n# Bulk Carriers\n\n### Vessel DWT Built Details SS/DD Price Buyer\n\nMAN-B&W 6S50ME-C8.2 **OCEAN ADVENTURE** 57,814 2015 TSUNEISHI 4x30 T, BWTS Fitted SS 10/25 LOW USD 23 M JAPANESE ZOSEN DD 01/24 MAN B. 6S46MC-C7.2 **PROMISE 2** 32,401 2010 SAMHO 4x30 T, LOGS & BWTS Fitted SS 09/25 HIGH USD 13 M MIDDLE DD 09/23 EASTERNS\n\n# Tankers - Chemicals - LPG/LNGs\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n|CAP GUILLAUME|158,889|2006 SAMSUNG|MAN B.",
   "keywords": [
     "suezmax",
     "aframax",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2027,
-  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-10-07_clarksons-platou-hellas-snp-weekly-bulletin-39.html",
+  "token_count": 2079,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-10-07_clarksons-platou-hellas-snp-weekly-bulletin-39.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-39",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-10-07_clarksons-platou-hellas-snp-weekly-bulletin-39_report-07-10-2022_263f08597aab.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-10-07_clarksons-platou-hellas-snp-weekly-bulletin-39_report-07-10-2022_263f08597aab.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 07 October 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN-B&W 6S50ME-C8.2\nOCEAN ADVENTURE 57,814 2015 TSUNEISHI SS 10/25\n4x30 T, BWTS Fitted LOW USD 23 M JAPANESE\nZOSEN DD 01/24\nMAN B. 6S46MC-C7.2\nPROMISE 2 32,401 2010 SAMHO SS 09/25 MIDDLE\n4x30 T, LOGS & BWTS Fitted HIGH USD 13 M\nDD 09/23 EASTERNS\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\nMAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-10-07_clarksons-platou-hellas-snp-weekly-bulletin-39_report-07-10-2022_263f08597aab.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin07 October 2022\n\n# Bulk Carriers\n\n### Vessel DWT Built Details SS/DD Price Buyer\n\nMAN-B&W 6S50ME-C8.2 **OCEAN ADVENTURE** 57,814 2015 TSUNEISHI 4x30 T, BWTS Fitted SS 10/25 LOW USD 23 M JAPANESE ZOSEN DD 01/24 MAN B. 6S46MC-C7.2 **PROMISE 2** 32,401 2010 SAMHO 4x30 T, LOGS & BWTS Fitted SS 09/25 HIGH USD 13 M MIDDLE DD 09/23 EASTERNS\n\n# Tankers - Chemicals - LPG/LNGs\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n|CAP GUILLAUME|158,889|2006 SAMSUNG|MAN B.",
       "keywords": [
         "suezmax",
         "aframax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1938,
+      "token_count": 1990,
       "section_type": "linked_pdf",
       "children": []
     }

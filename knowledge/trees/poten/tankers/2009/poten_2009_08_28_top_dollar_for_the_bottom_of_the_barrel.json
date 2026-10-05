@@ -1,0 +1,140 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2009_08_28_top_dollar_for_the_bottom_of_the_barrel__root",
+  "doc_id": "poten_tankers_no_date_poten_2009_08_28_top_dollar_for_the_bottom_of_the_barrel",
+  "parent_id": null,
+  "title": "Top Dollar for the Bottom of the Barrel",
+  "section_path": [
+    "Top Dollar for the Bottom of the Barrel"
+  ],
+  "section_path_text": "Top Dollar for the Bottom of the Barrel",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Top Dollar for the Bottom of the Barrel\nThe cost of bunker fuel has always been a central component of determining a tanker's earnings, and in recent weeks, rising fuel costs have once again come to complicate an already‐challenging tanker market. Faced with surging fuel prices at a time of weak earnings and depressed demand, owners currently mired in the summer doldrums find themselves asking: what's causing the rise in bunker prices and how long can it be sustained? This time it is not just the universal increase in crude oil price that is causing bunker prices to rise.",
+  "keywords": [
+    "vlcc",
+    "meg",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "gas",
+    "bunker",
+    "crude",
+    "fuel",
+    "oil",
+    "prices",
+    "heavy"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 645,
+  "source_path": "reports/poten/2009/poten_2009-08-28_top-dollar-for-the-bottom-of-the-barrel.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_08_28_top_dollar_for_the_bottom_of_the_barrel__s01_top_dollar_for_the_bottom_of_the_barrel",
+      "doc_id": "poten_tankers_no_date_poten_2009_08_28_top_dollar_for_the_bottom_of_the_barrel",
+      "parent_id": "poten_tankers_no_date_poten_2009_08_28_top_dollar_for_the_bottom_of_the_barrel__root",
+      "title": "Top Dollar for the Bottom of the Barrel",
+      "section_path": [
+        "Top Dollar for the Bottom of the Barrel"
+      ],
+      "section_path_text": "Top Dollar for the Bottom of the Barrel",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The cost of bunker fuel has always been a central component of determining a tanker's earnings, and in recent weeks, rising fuel costs have once again come to complicate an already‐challenging tanker market. Faced with surging fuel prices at a time of weak earnings and depressed demand, owners currently mired in the summer doldrums find themselves asking: what's causing the rise in bunker prices and how long can it be sustained?",
+      "keywords": [
+        "crude_oil",
+        "bunker",
+        "prices",
+        "crude",
+        "fuel",
+        "already",
+        "causing",
+        "currently"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 184,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_08_28_top_dollar_for_the_bottom_of_the_barrel__s02_average_4_81_bbl",
+      "doc_id": "poten_tankers_no_date_poten_2009_08_28_top_dollar_for_the_bottom_of_the_barrel",
+      "parent_id": "poten_tankers_no_date_poten_2009_08_28_top_dollar_for_the_bottom_of_the_barrel__root",
+      "title": "Average $4.81/bbl",
+      "section_path": [
+        "Average $4.81/bbl"
+      ],
+      "section_path_text": "Average $4.81/bbl",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "average",
+        "bbl"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_08_28_top_dollar_for_the_bottom_of_the_barrel__s03_2",
+      "doc_id": "poten_tankers_no_date_poten_2009_08_28_top_dollar_for_the_bottom_of_the_barrel",
+      "parent_id": "poten_tankers_no_date_poten_2009_08_28_top_dollar_for_the_bottom_of_the_barrel__root",
+      "title": "$(2)",
+      "section_path": [
+        "$(2)"
+      ],
+      "section_path_text": "$(2)",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The narrowing differential between light and heavy crude oils is playing a leading role in the recent rise in the cost of bunker fuel. As sources of heavy crude oil production hold back for whatever reason, refineries configured to process these traditionally less‐ expensive heavy oils have been forced to pay higher prices.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "us_gulf",
+        "crude_oil",
+        "products",
+        "gas",
+        "crude",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 345,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_08_28_top_dollar_for_the_bottom_of_the_barrel__s04_ag_fe_260kt",
+      "doc_id": "poten_tankers_no_date_poten_2009_08_28_top_dollar_for_the_bottom_of_the_barrel",
+      "parent_id": "poten_tankers_no_date_poten_2009_08_28_top_dollar_for_the_bottom_of_the_barrel__root",
+      "title": "AG ‐ FE (260kt)",
+      "section_path": [
+        "AG ‐ FE (260kt)"
+      ],
+      "section_path_text": "AG ‐ FE (260kt)",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "% Fuel Cost While the factors contributing to the recent rise in bunker prices are relatively easy to identify, determining how long they will continue to push prices up is difficult. Owners currently watching fuel costs sap already diminished earnings may be well served to learn about the factors currently pushing up bunker prices.",
+      "keywords": [
+        "bunker",
+        "prices",
+        "continue",
+        "currently",
+        "factors",
+        "fuel",
+        "may",
+        "already"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 80,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

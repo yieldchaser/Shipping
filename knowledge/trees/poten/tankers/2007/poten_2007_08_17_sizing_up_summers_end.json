@@ -1,0 +1,195 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_08_17_sizing_up_summers_end__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_08_17_sizing_up_summers_end",
+  "parent_id": null,
+  "title": "Sizing Up Summer's End",
+  "section_path": [
+    "Sizing Up Summer's End"
+  ],
+  "section_path_text": "Sizing Up Summer's End",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Sizing Up Summer's End\nFor the past several weeks the spot freight market has been experiencing weaknesses. Regardless of market levels today, owners and charterers are still challenged with the task of making long-term strategic decisions. Although not a perfect indicator, the fundamentals of crude oil supply can offer a guide as to what can be expected of rates in times of uncertainty.",
+  "keywords": [
+    "vlcc",
+    "brazil",
+    "meg",
+    "us_gulf",
+    "crude_oil",
+    "crude",
+    "oil",
+    "refinery",
+    "stocks",
+    "utilization",
+    "chart",
+    "levels"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 583,
+  "source_path": "reports/poten/2007/poten_2007-08-17_sizing-up-summers-end.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_08_17_sizing_up_summers_end__s01_sizing_up_summer_s_end",
+      "doc_id": "poten_tankers_no_date_poten_2007_08_17_sizing_up_summers_end",
+      "parent_id": "poten_tankers_no_date_poten_2007_08_17_sizing_up_summers_end__root",
+      "title": "Sizing Up Summer's End",
+      "section_path": [
+        "Sizing Up Summer's End"
+      ],
+      "section_path_text": "Sizing Up Summer's End",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "For the past several weeks the spot freight market has been experiencing weaknesses. Regardless of market levels today, owners and charterers are still challenged with the task of making long-term strategic decisions.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "crude",
+        "oil",
+        "are",
+        "can",
+        "inventory",
+        "levels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 164,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_08_17_sizing_up_summers_end__s02_us_crude_oil_inventory",
+      "doc_id": "poten_tankers_no_date_poten_2007_08_17_sizing_up_summers_end",
+      "parent_id": "poten_tankers_no_date_poten_2007_08_17_sizing_up_summers_end__root",
+      "title": "US Crude Oil Inventory",
+      "section_path": [
+        "US Crude Oil Inventory"
+      ],
+      "section_path_text": "US Crude Oil Inventory",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "tce"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_08_17_sizing_up_summers_end__s03_from_stocks_to_rates",
+      "doc_id": "poten_tankers_no_date_poten_2007_08_17_sizing_up_summers_end",
+      "parent_id": "poten_tankers_no_date_poten_2007_08_17_sizing_up_summers_end__root",
+      "title": "From Stocks to Rates",
+      "section_path": [
+        "From Stocks to Rates"
+      ],
+      "section_path_text": "From Stocks to Rates",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Shown below is a chart highlighting the tendency of time charter equivalents (TCEs) for VLCCs Arabian Gulf to US Gulf for 2006 and year- to-date 2007 versus their corresponding US crude oil inventory. TCEs and inventories are the weekly assessed.",
+      "keywords": [
+        "vlcc",
+        "brazil",
+        "meg",
+        "us_gulf",
+        "crude_oil",
+        "tces",
+        "chart",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 92,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_08_17_sizing_up_summers_end__s04_us_crude_oil_inventory_thousand_barrels",
+      "doc_id": "poten_tankers_no_date_poten_2007_08_17_sizing_up_summers_end",
+      "parent_id": "poten_tankers_no_date_poten_2007_08_17_sizing_up_summers_end__root",
+      "title": "US Crude Oil Inventory, Thousand Barrels",
+      "section_path": [
+        "US Crude Oil Inventory, Thousand Barrels"
+      ],
+      "section_path_text": "US Crude Oil Inventory, Thousand Barrels",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "From a longer-term seasonal perspective, the anomaly came in the second-half of 2006. Whereas in other years rates tended to firm through the fourth quarter of the year, freight rates in fourth quarter 2006 (shown on the first chart) were decidedly weaker than those seen in the summer months.",
+      "keywords": [
+        "fourth",
+        "quarter",
+        "can",
+        "seasonal",
+        "weaker",
+        "anomaly",
+        "came",
+        "chart"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 106,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_08_17_sizing_up_summers_end__s05_the_missing_link",
+      "doc_id": "poten_tankers_no_date_poten_2007_08_17_sizing_up_summers_end",
+      "parent_id": "poten_tankers_no_date_poten_2007_08_17_sizing_up_summers_end__root",
+      "title": "The Missing Link",
+      "section_path": [
+        "The Missing Link"
+      ],
+      "section_path_text": "The Missing Link",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "One element that links the degree to which stocks are depleted and the level of imports required is refinery utilization. The chart below shows the U.S.",
+      "keywords": [
+        "refinery",
+        "utilization",
+        "capacity",
+        "operable",
+        "percentage",
+        "ability",
+        "above",
+        "actual"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 97,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_08_17_sizing_up_summers_end__s06_refinery_utilization",
+      "doc_id": "poten_tankers_no_date_poten_2007_08_17_sizing_up_summers_end",
+      "parent_id": "poten_tankers_no_date_poten_2007_08_17_sizing_up_summers_end__root",
+      "title": "Refinery Utilization (%)",
+      "section_path": [
+        "Refinery Utilization (%)"
+      ],
+      "section_path_text": "Refinery Utilization (%)",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "In the past few weeks, US crude oil stocks have begun to decline, which suggests that import levels will soon be on the rise. With refinery utilization levels approaching the highs for the year, there is a good chance that crude oil import needs could be accelerated.",
+      "keywords": [
+        "crude_oil",
+        "crude",
+        "few",
+        "import",
+        "levels",
+        "oil",
+        "year",
+        "accelerated."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 83,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

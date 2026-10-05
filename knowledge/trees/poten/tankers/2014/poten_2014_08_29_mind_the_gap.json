@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2014_08_29_mind_the_gap__root",
+  "doc_id": "poten_tankers_no_date_poten_2014_08_29_mind_the_gap",
+  "parent_id": null,
+  "title": "Mind the Gap!",
+  "section_path": [
+    "Mind the Gap!"
+  ],
+  "section_path_text": "Mind the Gap!",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "vessels\nPoten will start assessing TC rates for both ECO and non-ECO vessels In 2011, as rising crude oil prices pushed bunker prices to new highs, shipyards started to market new tanker designs. When bunker prices reached $600/MT (for 380cst), fuel accounted for the majority of freight costs, and many tanker owners resorted to \"slow steaming\" to reduce fuel expenses. Speed proved to be much less important than fuel consumption in this market environment.",
+  "keywords": [
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "crude_oil",
+    "eco",
+    "vessels",
+    "fuel",
+    "new",
+    "non-eco",
+    "one",
+    "prices"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 602,
+  "source_path": "reports/poten/2014/poten_2014-08-29_mind-the-gap.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_08_29_mind_the_gap__s01_vessels",
+      "doc_id": "poten_tankers_no_date_poten_2014_08_29_mind_the_gap",
+      "parent_id": "poten_tankers_no_date_poten_2014_08_29_mind_the_gap__root",
+      "title": "vessels",
+      "section_path": [
+        "vessels"
+      ],
+      "section_path_text": "vessels",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Poten will start assessing TC rates for both ECO and non-ECO vessels In 2011, as rising crude oil prices pushed bunker prices to new highs, shipyards started to market new tanker designs. When bunker prices reached $600/MT (for 380cst), fuel accounted for the majority of freight costs, and many tanker owners resorted to \"slow steaming\" to reduce fuel expenses.",
+      "keywords": [
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "crude_oil",
+        "eco",
+        "vessels",
+        "fuel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 598,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

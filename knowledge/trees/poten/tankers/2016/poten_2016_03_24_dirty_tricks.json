@@ -1,0 +1,155 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2016_03_24_dirty_tricks__root",
+  "doc_id": "poten_tankers_no_date_poten_2016_03_24_dirty_tricks",
+  "parent_id": null,
+  "title": "Dirty Tricks",
+  "section_path": [
+    "Dirty Tricks"
+  ],
+  "section_path_text": "Dirty Tricks",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Crude Oil Trade Flows Keep Changing Year Over Year\nAs we are approaching the end of the first quarter of 2016, we have taken a closer look at our dirty fixture information for 2015 as it compares to 2014 and Q1 2016. The objective is to identify dirty trade routes that have seen significant changes from one year to the next. We use the spot fixture information for 2016 year-to-date to see if these changes could be the beginning of a trend or if they were a one-off aberration, not to be repeated.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "atlantic",
+    "pacific",
+    "meg",
+    "west_africa",
+    "europe",
+    "india",
+    "crude_oil",
+    "fixtures"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 887,
+  "source_path": "reports/poten/2016/poten_2016-03-24_dirty-tricks.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_03_24_dirty_tricks__s01_crude_oil_trade_flows_keep_changing_year_over_year",
+      "doc_id": "poten_tankers_no_date_poten_2016_03_24_dirty_tricks",
+      "parent_id": "poten_tankers_no_date_poten_2016_03_24_dirty_tricks__root",
+      "title": "Crude Oil Trade Flows Keep Changing Year Over Year",
+      "section_path": [
+        "Crude Oil Trade Flows Keep Changing Year Over Year"
+      ],
+      "section_path_text": "Crude Oil Trade Flows Keep Changing Year Over Year",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As we are approaching the end of the first quarter of 2016, we have taken a closer look at our dirty fixture information for 2015 as it compares to 2014 and Q1 2016. The objective is to identify dirty trade routes that have seen significant changes from one year to the next.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "atlantic",
+        "pacific",
+        "meg",
+        "west_africa",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 587,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_03_24_dirty_tricks__s02_intra_me",
+      "doc_id": "poten_tankers_no_date_poten_2016_03_24_dirty_tricks",
+      "parent_id": "poten_tankers_no_date_poten_2016_03_24_dirty_tricks__root",
+      "title": "Intra ME",
+      "section_path": [
+        "Intra ME"
+      ],
+      "section_path_text": "Intra ME",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "me-n.am."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_03_24_dirty_tricks__s03_intra_asia",
+      "doc_id": "poten_tankers_no_date_poten_2016_03_24_dirty_tricks",
+      "parent_id": "poten_tankers_no_date_poten_2016_03_24_dirty_tricks__root",
+      "title": "Intra Asia",
+      "section_path": [
+        "Intra Asia"
+      ],
+      "section_path_text": "Intra Asia",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "am.",
+        "intra"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_03_24_dirty_tricks__s04_intra_m_east",
+      "doc_id": "poten_tankers_no_date_poten_2016_03_24_dirty_tricks",
+      "parent_id": "poten_tankers_no_date_poten_2016_03_24_dirty_tricks__root",
+      "title": "Intra M.East",
+      "section_path": [
+        "Intra M.East"
+      ],
+      "section_path_text": "Intra M.East",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "am.",
+        "l.am-n"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_03_24_dirty_tricks__s05_intra_europe",
+      "doc_id": "poten_tankers_no_date_poten_2016_03_24_dirty_tricks",
+      "parent_id": "poten_tankers_no_date_poten_2016_03_24_dirty_tricks__root",
+      "title": "Intra Europe",
+      "section_path": [
+        "Intra Europe"
+      ],
+      "section_path_text": "Intra Europe",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Similar to the VLCCs, reported Suezmax fixtures into the Atlantic Basin generally went down from 2014 to 2015, in particular to destinations in the UKC, the Mediterranean and the U.S. Based on the reported fixtures, the situation in the Aframax market is somewhat less positive than it is for the larger crude carriers.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "atlantic",
+        "europe",
+        "crude_oil",
+        "crude",
+        "fixtures"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 253,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

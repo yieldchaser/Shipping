@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2018_07_20_to_scrap_or_to_scrub__root",
+  "doc_id": "poten_tankers_no_date_poten_2018_07_20_to_scrap_or_to_scrub",
+  "parent_id": null,
+  "title": "To Scrap Or To Scrub",
+  "section_path": [
+    "To Scrap Or To Scrub"
+  ],
+  "section_path_text": "To Scrap Or To Scrub",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Owners of older tankers face a dilemma\nTanker scrapping has been on an upswing this year and in a recent interview, an executive from the demolition industry highlighted the main drivers for demolition in the tanker industry: (the outlook for) freight rates, current scrap prices and the demolition activity in other shipping segments are always a factor. Regulatory changes can also be a driver, particularly if there are significant rule changes on the horizon. The phase out of single hull vessels in the period 1999-2003, for example, pushed up demolition levels during that period.",
+  "keywords": [
+    "vlcc",
+    "scrap",
+    "owners",
+    "are",
+    "owner",
+    "scrapping",
+    "demolition",
+    "may",
+    "prices",
+    "current",
+    "earnings",
+    "vessel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 874,
+  "source_path": "reports/poten/2018/poten_2018-07-20_to-scrap-or-to-scrub.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_07_20_to_scrap_or_to_scrub__s01_owners_of_older_tankers_face_a_dilemma",
+      "doc_id": "poten_tankers_no_date_poten_2018_07_20_to_scrap_or_to_scrub",
+      "parent_id": "poten_tankers_no_date_poten_2018_07_20_to_scrap_or_to_scrub__root",
+      "title": "Owners of older tankers face a dilemma",
+      "section_path": [
+        "Owners of older tankers face a dilemma"
+      ],
+      "section_path_text": "Owners of older tankers face a dilemma",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Tanker scrapping has been on an upswing this year and in a recent interview, an executive from the demolition industry highlighted the main drivers for demolition in the tanker industry: (the outlook for) freight rates, current scrap prices and the demolition activity in other shipping segments are always a factor. Regulatory changes can also be a driver, particularly if there are significant rule changes on the horizon.",
+      "keywords": [
+        "vlcc",
+        "scrap",
+        "are",
+        "owners",
+        "owner",
+        "scrapping",
+        "demolition",
+        "may"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 865,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

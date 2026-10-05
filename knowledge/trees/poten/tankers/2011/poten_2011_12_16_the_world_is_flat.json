@@ -1,0 +1,198 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_12_16_the_world_is_flat__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_12_16_the_world_is_flat",
+  "parent_id": null,
+  "title": "The World is Flat",
+  "section_path": [
+    "The World is Flat"
+  ],
+  "section_path_text": "The World is Flat",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The World is Flat\nChristmas is just around the corner. If you're a member of the Worldscale Association, Santa Claus may have already brought you a brand new blue book. The organization has released its schedule of 2012 nominal freight rates.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "brazil",
+    "grain",
+    "crude_oil",
+    "products",
+    "flat",
+    "worldscale",
+    "fuel",
+    "point",
+    "oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 731,
+  "source_path": "reports/poten/2011/poten_2011-12-16_the-world-is-flat.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_16_the_world_is_flat__s01_the_world_is_flat",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_16_the_world_is_flat",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_16_the_world_is_flat__root",
+      "title": "The World is Flat",
+      "section_path": [
+        "The World is Flat"
+      ],
+      "section_path_text": "The World is Flat",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Christmas is just around the corner. If you're a member of the Worldscale Association, Santa Claus may have already brought you a brand new blue book.",
+      "keywords": [
+        "grain",
+        "crude_oil",
+        "products",
+        "flat",
+        "are",
+        "beginning",
+        "crude",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 225,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_16_the_world_is_flat__s02_ras_tanura_loop",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_16_the_world_is_flat",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_16_the_world_is_flat__root",
+      "title": "Ras Tanura ‐ LOOP",
+      "section_path": [
+        "Ras Tanura ‐ LOOP"
+      ],
+      "section_path_text": "Ras Tanura ‐ LOOP",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Ras Tanura ‐ Yokohama Bonny ‐ Philadelphia Puerto La Cruz ‐",
+      "keywords": [
+        "bonny",
+        "cruz",
+        "philadelphia",
+        "puerto",
+        "ras",
+        "tanura",
+        "yokohama"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 19,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_16_the_world_is_flat__s03_fuel_for_thought",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_16_the_world_is_flat",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_16_the_world_is_flat__root",
+      "title": "Fuel for Thought",
+      "section_path": [
+        "Fuel for Thought"
+      ],
+      "section_path_text": "Fuel for Thought",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The cost of marine fuel tends to rise and fall with the price of crude oil, and volatility over the past years has caused material fluctuations in Worldscale rate levels. The cost of 380 cSt bunker fuel purchased in Fujairah rose from $475 per ton in January to over $660 per ton today, or almost 40%, and reached a high of $687 a ton over the month of November.",
+      "keywords": [
+        "crude_oil",
+        "fuel",
+        "price",
+        "ton",
+        "bunker",
+        "cost",
+        "cst",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 142,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_16_the_world_is_flat__s04_worldscale_assumption",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_16_the_world_is_flat",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_16_the_world_is_flat__root",
+      "title": "Worldscale Assumption",
+      "section_path": [
+        "Worldscale Assumption"
+      ],
+      "section_path_text": "Worldscale Assumption",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "380 cSt Fuel Price basis Fujairah",
+      "keywords": [
+        "basis",
+        "cst",
+        "fuel",
+        "fujairah",
+        "price"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_16_the_world_is_flat__s05_pointing_it_out",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_16_the_world_is_flat",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_16_the_world_is_flat__root",
+      "title": "Pointing it Out",
+      "section_path": [
+        "Pointing it Out"
+      ],
+      "section_path_text": "Pointing it Out",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The base level of flat rates will dictate how sensitive the market is to changes in Worldscale points. The chart below compares the amount one Worldscale point can add to charterer's freight costs and tanker time charter equivalent earnings.",
+      "keywords": [
+        "brazil",
+        "worldscale",
+        "add",
+        "amount",
+        "base",
+        "below",
+        "can",
+        "changes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 45,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_16_the_world_is_flat__s06_worldscale_point",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_16_the_world_is_flat",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_16_the_world_is_flat__root",
+      "title": "Δ +/‐ Worldscale Point",
+      "section_path": [
+        "Δ +/‐ Worldscale Point"
+      ],
+      "section_path_text": "Δ +/‐ Worldscale Point",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Charterer's Freight Paid Tanker Owner's Earnings Charterer's Freight Paid Tanker Owner's Earnings Vessel Size Voyage Basis $USD $/Day $USD $/Day VLCC (280kt) Ras Tanura ‐ LOOP $108,100 $1,400 $129,700 $1,700 VLCC (260kt) Ras Tanura ‐ Yokohama $58,100 $1,350 $69,300 $1,600 Suezmax (130kt) Bonny ‐ Philadelphia $23,000 $650 $28,350 $800 Aframax (70kt) Puerto La Cruz ‐ Houston $6,600 $375 $7,050 $400 2012's higher flat rates mean that more weight will be placed on the incremental Worldscale point once the new scale is implemented. There tends to be a little bit of confusion toward the end of the year as the tanker chartering community begins to quote rates on the new scale, particularly on trades where the absolute flat rate increase is not as high.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "scale",
+        "charterer",
+        "day",
+        "earnings",
+        "flat"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 253,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_03_04_suezmaxes_surface_calm_hidden_undercurrents__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_03_04_suezmaxes_surface_calm_hidden_undercurrents",
+  "parent_id": null,
+  "title": "Suezmaxes Surface Calm - Hidden Undercurrents",
+  "section_path": [
+    "Suezmaxes Surface Calm - Hidden Undercurrents"
+  ],
+  "section_path_text": "Suezmaxes Surface Calm - Hidden Undercurrents",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Suezmaxes\nSurface Calm - Hidden Undercurrents The volume of Suezmax spot fixtures has been around 2,100 since 2000 other than for a dip in 2001. But there have been changes in where Suezmaxes have been loading. Other\nRed Sea Carib AG UKC B.Sea/Med W.Africa The number of fixtures from West Africa was roughly the same in 2004 as in 2000, but there were more fixtures from the Black Sea/Mediterranean and the Arabian Gulf.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "brazil",
+    "australia",
+    "meg",
+    "west_africa",
+    "europe",
+    "india",
+    "crude_oil",
+    "ukc",
+    "fixtures"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 821,
+  "source_path": "reports/poten/2005/poten_2005-03-04_suezmaxes-surface-calm-hidden-undercurrents.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_03_04_suezmaxes_surface_calm_hidden_undercurrents__s01_suezmaxes",
+      "doc_id": "poten_tankers_no_date_poten_2005_03_04_suezmaxes_surface_calm_hidden_undercurrents",
+      "parent_id": "poten_tankers_no_date_poten_2005_03_04_suezmaxes_surface_calm_hidden_undercurrents__root",
+      "title": "Suezmaxes",
+      "section_path": [
+        "Suezmaxes"
+      ],
+      "section_path_text": "Suezmaxes",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Surface Calm - Hidden Undercurrents The volume of Suezmax spot fixtures has been around 2,100 since 2000 other than for a dip in 2001. But there have been changes in where Suezmaxes have been loading.",
+      "keywords": [
+        "suezmax",
+        "around",
+        "but",
+        "calm",
+        "changes",
+        "dip",
+        "fixtures",
+        "hidden"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 52,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_03_04_suezmaxes_surface_calm_hidden_undercurrents__s02_other",
+      "doc_id": "poten_tankers_no_date_poten_2005_03_04_suezmaxes_surface_calm_hidden_undercurrents",
+      "parent_id": "poten_tankers_no_date_poten_2005_03_04_suezmaxes_surface_calm_hidden_undercurrents__root",
+      "title": "Other",
+      "section_path": [
+        "Other"
+      ],
+      "section_path_text": "Other",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Red Sea Carib AG UKC B.Sea/Med W.Africa The number of fixtures from West Africa was roughly the same in 2004 as in 2000, but there were more fixtures from the Black Sea/Mediterranean and the Arabian Gulf. These have been more or less balanced by a decline in the number of UKC and Caribbean fixtures.",
+      "keywords": [
+        "meg",
+        "west_africa",
+        "europe",
+        "fixtures",
+        "number",
+        "ukc",
+        "africa",
+        "arabian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 99,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_03_04_suezmaxes_surface_calm_hidden_undercurrents__s03_ukc",
+      "doc_id": "poten_tankers_no_date_poten_2005_03_04_suezmaxes_surface_calm_hidden_undercurrents",
+      "parent_id": "poten_tankers_no_date_poten_2005_03_04_suezmaxes_surface_calm_hidden_undercurrents__root",
+      "title": "UKC",
+      "section_path": [
+        "UKC"
+      ],
+      "section_path_text": "UKC",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "r.sea"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_03_04_suezmaxes_surface_calm_hidden_undercurrents__s04_ukc",
+      "doc_id": "poten_tankers_no_date_poten_2005_03_04_suezmaxes_surface_calm_hidden_undercurrents",
+      "parent_id": "poten_tankers_no_date_poten_2005_03_04_suezmaxes_surface_calm_hidden_undercurrents__root",
+      "title": "UKC",
+      "section_path": [
+        "UKC"
+      ],
+      "section_path_text": "UKC",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_03_04_suezmaxes_surface_calm_hidden_undercurrents__s05_b_sea_med",
+      "doc_id": "poten_tankers_no_date_poten_2005_03_04_suezmaxes_surface_calm_hidden_undercurrents",
+      "parent_id": "poten_tankers_no_date_poten_2005_03_04_suezmaxes_surface_calm_hidden_undercurrents__root",
+      "title": "B.Sea/Med",
+      "section_path": [
+        "B.Sea/Med"
+      ],
+      "section_path_text": "B.Sea/Med",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Black Sea/Mediterranean Load Area in First Place The increased number of liftings out of the Black Sea and North Africa is now greater than the number of liftings out of West Africa. West Africa, which held first place since 2000, is now in second place.",
+      "keywords": [
+        "west_africa",
+        "europe",
+        "africa",
+        "black",
+        "first",
+        "liftings",
+        "now",
+        "number"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 57,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_03_04_suezmaxes_surface_calm_hidden_undercurrents__s06_other",
+      "doc_id": "poten_tankers_no_date_poten_2005_03_04_suezmaxes_surface_calm_hidden_undercurrents",
+      "parent_id": "poten_tankers_no_date_poten_2005_03_04_suezmaxes_surface_calm_hidden_undercurrents__root",
+      "title": "Other",
+      "section_path": [
+        "Other"
+      ],
+      "section_path_text": "Other",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "USA UKC Med While increased fixture activity in the Black Sea is good news to Suezmax owners, the average voyage length is shortening with fewer fixtures on the longer voyage to the UKC (down 87% in 4 years) and much greater activity on the shorter voyage within the Med (up 210% in 4 years). This decline in ton-mile demand is partly compensated by a rising long haul trade to the United States from 3 fixtures in 2000 to 50 in 2004.",
+      "keywords": [
+        "suezmax",
+        "west_africa",
+        "europe",
+        "med",
+        "voyage",
+        "activity",
+        "africa",
+        "decline"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 177,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_03_04_suezmaxes_surface_calm_hidden_undercurrents__s07_other",
+      "doc_id": "poten_tankers_no_date_poten_2005_03_04_suezmaxes_surface_calm_hidden_undercurrents",
+      "parent_id": "poten_tankers_no_date_poten_2005_03_04_suezmaxes_surface_calm_hidden_undercurrents__root",
+      "title": "Other",
+      "section_path": [
+        "Other"
+      ],
+      "section_path_text": "Other",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Carib ECSA UKC Med USA The United States has been picking up the slack from the fall-off in fixtures to the UKC and Mediterranean as Caspian crude backs out West African crude in Europe. Fixture activity to East Coast South America, primarily Brazil, has declined as Brazilian domestic (offshore) production moves the nation closer to self-sufficiency.",
+      "keywords": [
+        "suezmax",
+        "china",
+        "brazil",
+        "meg",
+        "west_africa",
+        "europe",
+        "arabian",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 108,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_03_04_suezmaxes_surface_calm_hidden_undercurrents__s08_other",
+      "doc_id": "poten_tankers_no_date_poten_2005_03_04_suezmaxes_surface_calm_hidden_undercurrents",
+      "parent_id": "poten_tankers_no_date_poten_2005_03_04_suezmaxes_surface_calm_hidden_undercurrents__root",
+      "title": "Other",
+      "section_path": [
+        "Other"
+      ],
+      "section_path_text": "Other",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "W of Suez Australia SE Asia S Asia China&FE As China's economy continues to expand, Suezmaxes will see increasing business to move crude to ports that cannot accommodate VLCCs. Spot fixtures to South Asia, mainly India, and Southeast Asia do not display any consistent pattern, but fixtures West of Suez, the original purpose for Suezmaxes, are growing rather dramatically.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "australia",
+        "europe",
+        "india",
+        "crude_oil",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 294,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

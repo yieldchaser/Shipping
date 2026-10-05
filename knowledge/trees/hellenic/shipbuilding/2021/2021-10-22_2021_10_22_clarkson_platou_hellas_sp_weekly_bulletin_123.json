@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nIn tankers, Samsung announced taking order for seven firm 120k dwt Shuttle Tankers from an unknown owner\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2021-10-22_clarkson-platou-hellas-sp-weekly-bulletin-123_report-22-10-2021_2911eb2266e5.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2021-10-22_clarkson-platou-hellas-sp-weekly-bulletin-123_report-22-10-2021_2911eb2266e5.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 22 October 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 12/21\nBLUEMOON 170,089 2002 IHI SULZER 6RTA72 USD 15.75 M CHINESE\nDD 12/21\nMAN-B&W 6S60ME-C8.2 SS 01/22\nLENA B 81,922 2017 TSUNEISHI ZHOUSHAN USD 35.2 M F. EASTERNS\nBWTS fitted DD 01/22\nSS 01/22 USD 16.73 M\nSHANDONG HAI CHANG 75,200 2011 PENGLAI MAN-B&W 5S60MC-C CHINESE\nDD 01/22 (Online auction)\nMAN-B&W 6S50MC-C8.2\nSS 04/26\nKANOURA 61,396 2013 IWAGI 4 x 30 T LOW USD 28 M U/D\nDD 04/24\nBWTS fitted\nMAN-B&W 6S50MC6.1 SS 09/24\nPACIFIC 08 52,471 2004 TSUNEISHI ZOSEN USD 15.35 M CHINESE\n4 x 30 T DD 11/22\nMITSUBISHI 6UEC45LSE\nSS 01/26\nGLOBAL PASSION 33,686 2011 SHIN KOCHI 4 x 30 T RGN USD 17.5 M U/D\nDD 01/24\nBWTS fitted\nMAN-B&W 6S42MC7.2\nSS 03/26\nQUEEN ASIA 28,425 2011 I-S 4 ",
+  "summary": "Main\nIn tankers, Samsung announced taking order for seven firm 120k dwt Shuttle Tankers from an unknown owner\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2021-10-22_clarkson-platou-hellas-sp-weekly-bulletin-123_report-22-10-2021_2911eb2266e5.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2021-10-22_clarkson-platou-hellas-sp-weekly-bulletin-123_report-22-10-2021_2911eb2266e5.pdf\n\n# Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 22 October 2021\n\n## <u>BULK CARRIERS</u>\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|BLUEMOON|170,089|2002 IHI|SULZER 6RTA72|DD 12/21 SS 12/21|USD 15.75 M|CHINESE|\n|LENA B|81,922|2017 TSUNEISHI ZHOUSHAN|MAN-B&W 6S60ME BWTS fitted|DD 01/22 SS 01/22|USD 35.2 M|F. EASTERNS|\n|SHANDONG HAI CHANG|75,200|2011 PENGLAI|MAN-B&W 5S60MC-C MAN-B&W 6S50MC-C8.2|DD 01/22 SS 01/22 SS 04/26|USD 16.73 M (Online auction)|CHINESE|\n|KANOURA|61,396|2013 IWAGI|4 x 30 T BWTS fitted|DD 04/24|LOW USD 28 M|U/D|\n|PACIFIC 08|52,471|2004 TSUNEISHI ZOSEN|MAN-B&W 6S50MC6.1 4 x 30 T MITSUBISHI 6UEC45LSE|DD 11/22 SS 09/24 SS 01/26|USD 15.35 M|CHINESE|\n|GLOBAL PASSION|33,686|2011 SHIN KOCHI|4 x 30 T BWTS fitted MAN-B&W 6S42MC7.2|DD 01/24 SS 03/26",
   "keywords": [
     "lng",
     "lpg",
@@ -20,14 +20,14 @@
     "india",
     "products",
     "gas",
-    "clarksons",
+    "any",
     "information",
-    "platou"
+    "clarksons"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2515,
-  "source_path": "corpus/02-hellenic/shipbuilding/2021/2021-10-22_clarkson-platou-hellas-sp-weekly-bulletin-123.html",
+  "token_count": 2379,
+  "source_path": "reports/hellenic/shipbuilding/2021/2021-10-22_clarkson-platou-hellas-sp-weekly-bulletin-123.html",
   "source_url": "https://www.hellenicshippingnews.com/clarkson-platou-hellas-sp-weekly-bulletin-123",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2021-10-22_clarkson-platou-hellas-sp-weekly-bulletin-123_report-22-10-2021_2911eb2266e5.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-10-22_clarkson-platou-hellas-sp-weekly-bulletin-123_report-22-10-2021_2911eb2266e5.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 22 October 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 12/21\nBLUEMOON 170,089 2002 IHI SULZER 6RTA72 USD 15.75 M CHINESE\nDD 12/21\nMAN-B&W 6S60ME-C8.2 SS 01/22\nLENA B 81,922 2017 TSUNEISHI ZHOUSHAN USD 35.2 M F. EASTERNS\nBWTS fitted DD 01/22\nSS 01/22 USD 16.73 M\nSHANDONG HAI CHANG 75,200 2011 PENGLAI MAN-B&W 5S60MC-C CHINESE\nDD 01/22 (Online auction)\nMAN-B&W 6S50MC-C8.2\nSS 04/26\nKANOURA 61,396 2013 IWAGI 4 x 30 T LOW USD 28 M U/D\nDD 04/24\nBWTS fitted\nMAN-B&W 6S50MC6.1 SS 09/24\nPACIFIC 08 52,471 2004 TSUNEISHI ZOSEN USD 15.35 M CHINESE\n4 x 30 T DD 11/22\nMITSUBISHI 6UEC45LSE\nSS 01/26\nGLOBAL PASSION 33,686 2011 SHIN KOCHI 4 x 30 T RGN USD 17.5 M U/D\nDD 01/24\nBWTS fitted\nMAN-B&W 6S42MC7.2\nSS 03/26\nQUEEN ASIA 28,425 2011 I-S 4 x 30 T RGN USD 15 M U/D\nDD 03/24\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\n- - - - - - -\nPage 1 of 3\n\n[Page 2]\n1\nSale and Purchase\nHellas S&P Weekly Bulletin 22 October 2021\nNEW BUILDING\nIn tankers, Samsung ann",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-10-22_clarkson-platou-hellas-sp-weekly-bulletin-123_report-22-10-2021_2911eb2266e5.pdf\n\n# Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 22 October 2021\n\n## <u>BULK CARRIERS</u>\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|BLUEMOON|170,089|2002 IHI|SULZER 6RTA72|DD 12/21 SS 12/21|USD 15.75 M|CHINESE|\n|LENA B|81,922|2017 TSUNEISHI ZHOUSHAN|MAN-B&W 6S60ME BWTS fitted|DD 01/22 SS 01/22|USD 35.2 M|F. EASTERNS|\n|SHANDONG HAI CHANG|75,200|2011 PENGLAI|MAN-B&W 5S60MC-C MAN-B&W 6S50MC-C8.2|DD 01/22 SS 01/22 SS 04/26|USD 16.73 M (Online auction)|CHINESE|\n|KANOURA|61,396|2013 IWAGI|4 x 30 T BWTS fitted|DD 04/24|LOW USD 28 M|U/D|\n|PACIFIC 08|52,471|2004 TSUNEISHI ZOSEN|MAN-B&W 6S50MC6.1 4 x 30 T MITSUBISHI 6UEC45LSE|DD 11/22 SS 09/24 SS 01/26|USD 15.35 M|CHINESE|\n|GLOBAL PASSION|33,686|2011 SHIN KOCHI|4 x 30 T BWTS fitted MAN-B&W 6S42MC7.2|DD 01/24 SS 03/26|RGN USD 17.5 M|U/D|\n|QUEEN ASIA|28,425|2011 I-S|4 x 30 T BWTS fitted|DD 03/24|RGN USD 15 M|U/D|\n\n-C8.2\n\n## <u>TANKERS - CHEMICALS - LPG/LNGs</u>\n\nVESSEL <u>DWT</u> BLT DETAILS <u>SS/DD</u> PRICE BUYER **-**------\n\n## Sale and Purchase Hellas S&P Weekly ",
       "keywords": [
         "lng",
         "lpg",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2434,
+      "token_count": 2298,
       "section_type": "linked_pdf",
       "children": []
     }

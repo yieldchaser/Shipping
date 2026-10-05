@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNew building in gas carriers this week, Hyundai HI announced contracting three firm 98k CBM VLECs with an unnamed owner, reported to be MOL\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-12-15_clarksons-platou-hellas-snp-weekly-bulletin-100_report-15-12-2023_c3959fca7601.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-12-15_clarksons-platou-hellas-snp-weekly-bulletin-100_report-15-12-2023_c3959fca7601.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 15 Dec 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nULTRA TIGER 83,611 2009 SANOYAS MAN B & W 6S60MC-C7.2 SS 11/23 LOW USD 16 M U/D\nBWTS fitted DD 11/23\n2013 TSUNEISHI\nPEAK DAWN 81,902 MAN B & W 6S60MC-C7.2 SS 11/28 RGN USD 23 M U/D\nZHOUSHAN BWTS fitted DD 10/26\n2014 SOSCO\nPORT LEONE 63,756 MAN B & W 5S60ME-C8.2 SS 06/24 USD 21.5 M U/D\nZHOUSHAN BWTS fitted DD 06/24\nSUPRA ONIKI 57,022 2010 QINGSHAN MAN B & W 6S50MC-C8.2 SS 07/25 RGN USD 11 M U/D\nBWTS fitted DD 07/25\nCLIPPER 2010 JIANGSU\n37,852 Wartsila 2-stroke 6RTA48T SS 01/25 XS USD 11 M TURKISH\nCOPENHAGEN EASTERN DD 01/25\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\nJESSICA D 300,976 2004 HHI Sulzer 7",
+  "summary": "Main\nNew building in gas carriers this week, Hyundai HI announced contracting three firm 98k CBM VLECs with an unnamed owner, reported to be MOL\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-12-15_clarksons-platou-hellas-snp-weekly-bulletin-100_report-15-12-2023_c3959fca7601.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2023-12-15_clarksons-platou-hellas-snp-weekly-bulletin-100_report-15-12-2023_c3959fca7601.pdf\n\n**SALE & PURCHASE**\n\n## Clarksons Hellas Weekly Bulletin15 Dec 2023\n\n# Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n|ULTRA TIGER|83,611|2009 SANOYAS|MAN B & W 6S60MC-C7.2 BWTS fitted|SS 11/23 DD 11/23|LOW USD 16 M|U/D|\n|PEAK DAWN|81,902|2013 TSUNEISHI ZHOUSHAN|MAN B & W 6S60MC-C7.2 BWTS fitted|SS 11/28 DD 10/26|RGN USD 23 M|U/D|\n|PORT LEONE|63,756|2014 SOSCO ZHOUSHAN|MAN B & W 5S60ME-C8.2 BWTS fitted|SS 06/24 DD 06/24|USD 21.5 M|U/D|\n|SUPRA ONIKI|57,022|2010 QINGSHAN|MAN B & W 6S50MC-C8.2 BWTS fitted|SS 07/25 DD 07/25|RGN USD 11 M|U/D|\n|CLIPPER COPENHAGEN|37,852|2010 JIANGSU EASTERN|Wartsila 2-stroke 6RTA48T|SS 01/25 DD 01/25|XS USD 11 M|TURKISH|\n\n# Tankers - Chemicals - LPG/LNGs\n\n|Vessel|DWT|Built|Details|SS",
   "keywords": [
     "supramax",
     "lng",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1787,
-  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-12-15_clarksons-platou-hellas-snp-weekly-bulletin-100.html",
+  "token_count": 1929,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-12-15_clarksons-platou-hellas-snp-weekly-bulletin-100.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-100",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-12-15_clarksons-platou-hellas-snp-weekly-bulletin-100_report-15-12-2023_c3959fca7601.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-12-15_clarksons-platou-hellas-snp-weekly-bulletin-100_report-15-12-2023_c3959fca7601.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 15 Dec 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nULTRA TIGER 83,611 2009 SANOYAS MAN B & W 6S60MC-C7.2 SS 11/23 LOW USD 16 M U/D\nBWTS fitted DD 11/23\n2013 TSUNEISHI\nPEAK DAWN 81,902 MAN B & W 6S60MC-C7.2 SS 11/28 RGN USD 23 M U/D\nZHOUSHAN BWTS fitted DD 10/26\n2014 SOSCO\nPORT LEONE 63,756 MAN B & W 5S60ME-C8.2 SS 06/24 USD 21.5 M U/D\nZHOUSHAN BWTS fitted DD 06/24\nSUPRA ONIKI 57,022 2010 QINGSHAN MAN B & W 6S50MC-C8.2 SS 07/25 RGN USD 11 M U/D\nBWTS fitted DD 07/25\nCLIPPER 2010 JIANGSU\n37,852 Wartsila 2-stroke 6RTA48T SS 01/25 XS USD 11 M TURKISH\nCOPENHAGEN EASTERN DD 01/25\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\nJESSICA D 300,976 2004 HHI Sulzer 7RTA84T-D SS 07/24 RGN USD 35 M U/D\nDD 07/24\nNew Building\nIn gas carriers this week, Hyundai HI announced contracting three firm 98k CBM VLECs with an unnamed owner, reported to be MOL, with\nthe vessels all expected to have delivered by June 2027. Nantong CIMC SOE announced contracting a f",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-12-15_clarksons-platou-hellas-snp-weekly-bulletin-100_report-15-12-2023_c3959fca7601.pdf\n\n**SALE & PURCHASE**\n\n## Clarksons Hellas Weekly Bulletin15 Dec 2023\n\n# Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n|ULTRA TIGER|83,611|2009 SANOYAS|MAN B & W 6S60MC-C7.2 BWTS fitted|SS 11/23 DD 11/23|LOW USD 16 M|U/D|\n|PEAK DAWN|81,902|2013 TSUNEISHI ZHOUSHAN|MAN B & W 6S60MC-C7.2 BWTS fitted|SS 11/28 DD 10/26|RGN USD 23 M|U/D|\n|PORT LEONE|63,756|2014 SOSCO ZHOUSHAN|MAN B & W 5S60ME-C8.2 BWTS fitted|SS 06/24 DD 06/24|USD 21.5 M|U/D|\n|SUPRA ONIKI|57,022|2010 QINGSHAN|MAN B & W 6S50MC-C8.2 BWTS fitted|SS 07/25 DD 07/25|RGN USD 11 M|U/D|\n|CLIPPER COPENHAGEN|37,852|2010 JIANGSU EASTERN|Wartsila 2-stroke 6RTA48T|SS 01/25 DD 01/25|XS USD 11 M|TURKISH|\n\n# Tankers - Chemicals - LPG/LNGs\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n|||||SS 07/24|||\n|JESSICA D|300,976|2004 HHI|Sulzer 7RTA84T-D|DD 07/24|RGN USD 35 M|U/D|\n\n# New Building\n\n# In gas carriers this week, Hyundai HI announced contracting three firm 98k CBM VLECs with an unnamed owner, reported to be MOL, with\n\n# ",
       "keywords": [
         "supramax",
         "lng",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1697,
+      "token_count": 1839,
       "section_type": "linked_pdf",
       "children": []
     }

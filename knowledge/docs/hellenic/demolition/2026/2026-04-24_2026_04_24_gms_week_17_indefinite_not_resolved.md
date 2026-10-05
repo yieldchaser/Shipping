@@ -8,6 +8,7 @@ commodities:
 date: '2026-04-24'
 doc_id: hellenic_demolition_2026-04-24_2026_04_24_gms_week_17_indefinite_not_resolved
 document_type: demolition_update
+is_error_page: false
 key_entities:
 - China
 - Brazil
@@ -32,7 +33,7 @@ linked_assets_ingested: 2
 linked_assets_mirrored: 2
 linked_assets_skipped: 1
 market_tone: cautiously_bearish
-numeric_observation_count: 116
+numeric_observation_count: 120
 numeric_observations:
 - section: Main
   section_type: null
@@ -68,6 +69,7 @@ numeric_observations:
   - 23.0
   - 150.0
   - 2523.0
+  - 1.0
 - section: Main
   section_type: null
   source_line: Currencies reflect re-embedded risk. USD to INR has weakened to 93.80
@@ -119,14 +121,15 @@ numeric_observations:
   - 17.0
   - 24520253.0
   - 461058.0
-  - 3.0
+  - 5.0
+  - 63.0
 - section: 'Linked asset: 2026-04-24_gms-week-17-indefinite-not-resolved_24520253_461058f5c63e.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 687x152 mode=RGB'
   unit: null
   values:
   - 687.0
-  - 52.0
+  - 152.0
 - section: 'Linked asset: 2026-04-24_gms-week-17-indefinite-not-resolved_24520253_461058f5c63e.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (72.0, 72.0)'
@@ -261,6 +264,13 @@ numeric_observations:
   - 2523.0
 - section: 'Linked asset: 2026-04-24_gms-week-17-indefinite-not-resolved_ship-recycling-market-insight-week-1_21208f79d9d6.pdf'
   section_type: linked_pdf
+  source_line: Supramax also firmer. The expected Q1 tonnage release has now been
+    deferred for a third
+  unit: null
+  values:
+  - 1.0
+- section: 'Linked asset: 2026-04-24_gms-week-17-indefinite-not-resolved_ship-recycling-market-insight-week-1_21208f79d9d6.pdf'
+  section_type: linked_pdf
   source_line: Currencies reflect re-embedded risk. USD to INR has weakened to 93.80
     after partial RBI unwinding,
   unit: usd
@@ -329,6 +339,13 @@ numeric_observations:
   - 17.0
 - section: 'Linked asset: 2026-04-24_gms-week-17-indefinite-not-resolved_ship-recycling-market-insight-week-1_21208f79d9d6.pdf'
   section_type: linked_pdf
+  source_line: post-Eid reopening. The central bank approvals that defined Q1 friction
+    have now moved
+  unit: null
+  values:
+  - 1.0
+- section: 'Linked asset: 2026-04-24_gms-week-17-indefinite-not-resolved_ship-recycling-market-insight-week-1_21208f79d9d6.pdf'
+  section_type: linked_pdf
   source_line: policy rate at 10%, with foreign exchange reserves reported at USD
     34.12 billion as of March, and
   unit: pct
@@ -390,6 +407,8 @@ numeric_observations:
   unit: null
   values:
   - 17.0
+  - 1.0
+  - 2.0
 - section: 'Linked asset: 2026-04-24_gms-week-17-indefinite-not-resolved_ship-recycling-market-insight-week-1_21208f79d9d6.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
@@ -584,6 +603,13 @@ numeric_observations:
   - 22.0
 - section: 'Linked asset: 2026-04-24_gms-week-17-indefinite-not-resolved_ship-recycling-market-insight-week-1_21208f79d9d6.pdf'
   section_type: linked_pdf
+  source_line: was a week ago. Pakistan enters the second half of Q2's pre-monsoon
+    window on the firmest
+  unit: null
+  values:
+  - 2.0
+- section: 'Linked asset: 2026-04-24_gms-week-17-indefinite-not-resolved_ship-recycling-market-insight-week-1_21208f79d9d6.pdf'
+  section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
@@ -674,6 +700,13 @@ numeric_observations:
   values:
   - 460.0
   - 495.0
+- section: 'Linked asset: 2026-04-24_gms-week-17-indefinite-not-resolved_ship-recycling-market-insight-week-1_21208f79d9d6.pdf'
+  section_type: linked_pdf
+  source_line: price. Turkey's relevance this Q2 is confined to that niche. The fresh
+    escalation in the Gulf does not
+  unit: null
+  values:
+  - 2.0
 - section: 'Linked asset: 2026-04-24_gms-week-17-indefinite-not-resolved_ship-recycling-market-insight-week-1_21208f79d9d6.pdf'
   section_type: linked_pdf
   source_line: change this. Nothing in Week 17 does.
@@ -861,9 +894,9 @@ numeric_observations:
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
   values:
-  - 30.21
+  - 30210.0
   - 899.0669
-  - 91.278
+  - 91278.0
   - 300.5253
 - section: 'Linked asset: 2026-04-24_gms-week-17-indefinite-not-resolved_ship-recycling-market-insight-week-1_21208f79d9d6.pdf'
   section_type: linked_pdf
@@ -888,7 +921,7 @@ numeric_observations:
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
   values:
-  - 86.216
+  - 86216.0
   - 75.19
   - 82.1
   - 4650.072

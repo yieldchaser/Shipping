@@ -1,0 +1,174 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_01_28_light_sweet_dire_divergence__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_01_28_light_sweet_dire_divergence",
+  "parent_id": null,
+  "title": "Light Sweet Dire Divergence",
+  "section_path": [
+    "Light Sweet Dire Divergence"
+  ],
+  "section_path_text": "Light Sweet Dire Divergence",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Light Sweet Dire Divergence\nSince the start of the New Year, a sharp divergence in the spread between Light Sweet West Texas Intermediate crude (better known as WTI) and Brent crude oil price has been a topic of heated conversation and debate in the trading community. With the Brent premium this morning hitting an all‐time high in excess of $12 per barrel to the often‐quoted WTI contract price, a host of questions are being raised from the physical relevance of these contracts to the potential impact on the world economy. A look back at the occurrence of this relatively new phenomenon, the factors, and what it means for the tanker markets, reveals some interesting trends.",
+  "keywords": [
+    "crude_oil",
+    "wti",
+    "brent",
+    "spread",
+    "crude",
+    "oil",
+    "physical",
+    "price",
+    "are",
+    "premium",
+    "trading",
+    "contract"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1116,
+  "source_path": "reports/poten/2011/poten_2011-01-28_light-sweet-dire-divergence.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_01_28_light_sweet_dire_divergence__s01_light_sweet_dire_divergence",
+      "doc_id": "poten_tankers_no_date_poten_2011_01_28_light_sweet_dire_divergence",
+      "parent_id": "poten_tankers_no_date_poten_2011_01_28_light_sweet_dire_divergence__root",
+      "title": "Light Sweet Dire Divergence",
+      "section_path": [
+        "Light Sweet Dire Divergence"
+      ],
+      "section_path_text": "Light Sweet Dire Divergence",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Since the start of the New Year, a sharp divergence in the spread between Light Sweet West Texas Intermediate crude (better known as WTI) and Brent crude oil price has been a topic of heated conversation and debate in the trading community. With the Brent premium this morning hitting an all‐time high in excess of $12 per barrel to the often‐quoted WTI contract price, a host of questions are being raised from the physical relevance of these contracts to the potential impact on the world economy.",
+      "keywords": [
+        "crude_oil",
+        "brent",
+        "crude",
+        "new",
+        "price",
+        "wti",
+        "all",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 137,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_01_28_light_sweet_dire_divergence__s02_wti_brent_spread",
+      "doc_id": "poten_tankers_no_date_poten_2011_01_28_light_sweet_dire_divergence",
+      "parent_id": "poten_tankers_no_date_poten_2011_01_28_light_sweet_dire_divergence__root",
+      "title": "WTI/Brent Spread",
+      "section_path": [
+        "WTI/Brent Spread"
+      ],
+      "section_path_text": "WTI/Brent Spread",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Looking at the historical divergence between the WTI and Brent contracts on the chart above, it is easy to see why the recent spike has much of the trading world abuzz with an array of explanations and analysis as to what's causing the disparity. The $12.27 per barrel spread recorded this morning represents the highest premium Brent has ever traded to WTI.",
+      "keywords": [
+        "crude_oil",
+        "brent",
+        "premium",
+        "wti",
+        "traded",
+        "spread",
+        "trading",
+        "again"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 239,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_01_28_light_sweet_dire_divergence__s03_cushing_s_cushion",
+      "doc_id": "poten_tankers_no_date_poten_2011_01_28_light_sweet_dire_divergence",
+      "parent_id": "poten_tankers_no_date_poten_2011_01_28_light_sweet_dire_divergence__root",
+      "title": "Cushing's Cushion",
+      "section_path": [
+        "Cushing's Cushion"
+      ],
+      "section_path_text": "Cushing's Cushion",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Common factors cited for the price divergence most often include several of the following logical reasons. Increased Canadian oil sands exports are likely creating a supply glut and bottlenecks at the NYMEX delivery point in Cushing, Oklahoma for WTI, depressing prices.",
+      "keywords": [
+        "crude_oil",
+        "cited",
+        "are",
+        "north",
+        "oil",
+        "physical",
+        "price",
+        "prices."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 165,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_01_28_light_sweet_dire_divergence__s04_pti",
+      "doc_id": "poten_tankers_no_date_poten_2011_01_28_light_sweet_dire_divergence",
+      "parent_id": "poten_tankers_no_date_poten_2011_01_28_light_sweet_dire_divergence__root",
+      "title": "PTI",
+      "section_path": [
+        "PTI"
+      ],
+      "section_path_text": "PTI",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "WTI/Brent Spread Looking at a comparison of the Poten Tanker Index' historical reaction to the price spreads in the above graph hardly leads one to conclude the spread has resulted in meaningful shipping activity in the form of sustained healthy freight rates. In fact, given the resulting collapse of shipping rates following the 2008‐2009 jump in the Brent‐WTI spread, and the current depressed tanker market levels in the face of the current spike, the picture again seems to be pointing to a bleak outlook if the arbitrage (or lack thereof) is any indicator of future tanker market health.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "physical",
+        "wti",
+        "crude",
+        "benchmark",
+        "contract",
+        "price"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 402,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_01_28_light_sweet_dire_divergence__s05_conclusive_correlations",
+      "doc_id": "poten_tankers_no_date_poten_2011_01_28_light_sweet_dire_divergence",
+      "parent_id": "poten_tankers_no_date_poten_2011_01_28_light_sweet_dire_divergence__root",
+      "title": "Conclusive Correlations?",
+      "section_path": [
+        "Conclusive Correlations?"
+      ],
+      "section_path_text": "Conclusive Correlations?",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Given the past correlations between the WTI/Brent spread and tanker rates, it makes it difficult to get excited about tanker rate prospects in the face of the dramatic spreads the markets are again seeing. Regardless of whether supply gluts at Cushing, supply declines in Brent, or a more conspiratorial trading scheme is at the heart of the divergence, it does not appear shipping rates are experiencing any revitalization in the face of a seemingly blatant arbitrage opportunity.",
+      "keywords": [
+        "any",
+        "are",
+        "face",
+        "not",
+        "spreads",
+        "supply",
+        "wti/brent",
+        "again"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 146,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

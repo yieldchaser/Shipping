@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1736,
-  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135.html",
+  "token_count": 1735,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-135",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf\n\n[Page 1]\nClarkson Hellas Ltd. One of the biggest and busiest Posidonia events ever.",
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf\n\n### Clarkson Hellas Ltd. # Desk Talk\n\nWhat a week!",
       "keywords": [
         "supramax",
         "china",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1301,
+      "token_count": 1300,
       "section_type": "linked_pdf",
       "children": []
     }

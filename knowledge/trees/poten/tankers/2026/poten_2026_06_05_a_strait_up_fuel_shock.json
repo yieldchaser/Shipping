@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2026_06_05_a_strait_up_fuel_shock__root",
+  "doc_id": "poten_tankers_no_date_poten_2026_06_05_a_strait_up_fuel_shock",
+  "parent_id": null,
+  "title": "A Strait Up Fuel Shock",
+  "section_path": [
+    "A Strait Up Fuel Shock"
+  ],
+  "section_path_text": "A Strait Up Fuel Shock",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "How the Iran War rewired the refined product trade\nAfter the U.S. - Iran war caused a near complete closure of the Strait of Hormuz, it wasn't only crude that affected the oil markets. Refined products were significantly impacted as well.",
+  "keywords": [
+    "lpg",
+    "brazil",
+    "australia",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "europe",
+    "india",
+    "japan",
+    "crude_oil",
+    "products",
+    "gas"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 965,
+  "source_path": "reports/poten/2026/poten_2026-06-05_a-strait-up-fuel-shock.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2026_06_05_a_strait_up_fuel_shock__s01_how_the_iran_war_rewired_the_refined_product_trade",
+      "doc_id": "poten_tankers_no_date_poten_2026_06_05_a_strait_up_fuel_shock",
+      "parent_id": "poten_tankers_no_date_poten_2026_06_05_a_strait_up_fuel_shock__root",
+      "title": "How the Iran War rewired the refined product trade",
+      "section_path": [
+        "How the Iran War rewired the refined product trade"
+      ],
+      "section_path_text": "How the Iran War rewired the refined product trade",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "- Iran war caused a near complete closure of the Strait of Hormuz, it wasn't only crude that affected the oil markets. Refined products were significantly impacted as well.",
+      "keywords": [
+        "lpg",
+        "brazil",
+        "australia",
+        "atlantic",
+        "meg",
+        "west_africa",
+        "europe",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 954,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

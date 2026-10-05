@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2017_06_02_us_driving_seasonality__root",
+  "doc_id": "poten_tankers_no_date_poten_2017_06_02_us_driving_seasonality",
+  "parent_id": null,
+  "title": "U.S. Driving Seasonality",
+  "section_path": [
+    "U.S. Driving Seasonality"
+  ],
+  "section_path_text": "U.S. Driving Seasonality",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Does the summer still represent a high in gasoline demand? This week's Memorial Day unofficially kicked off the annual U.S. summer driving season which typically ends on Labor Day, another holiday weekend in early September.",
+  "keywords": [
+    "atlantic",
+    "europe",
+    "products",
+    "gas",
+    "gasoline",
+    "u.s.",
+    "average",
+    "b/d",
+    "demand",
+    "summer",
+    "day",
+    "high"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 859,
+  "source_path": "reports/poten/2017/poten_2017-06-02_us-driving-seasonality.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2017_06_02_us_driving_seasonality__s01_does_the_summer_still_represent_a_high_in_gasoline_demand",
+      "doc_id": "poten_tankers_no_date_poten_2017_06_02_us_driving_seasonality",
+      "parent_id": "poten_tankers_no_date_poten_2017_06_02_us_driving_seasonality__root",
+      "title": "Does the summer still represent a high in gasoline demand?",
+      "section_path": [
+        "Does the summer still represent a high in gasoline demand?"
+      ],
+      "section_path_text": "Does the summer still represent a high in gasoline demand?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This week's Memorial Day unofficially kicked off the annual U.S. summer driving season which typically ends on Labor Day, another holiday weekend in early September.",
+      "keywords": [
+        "atlantic",
+        "europe",
+        "products",
+        "gas",
+        "gasoline",
+        "u.s.",
+        "average",
+        "b/d"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 848,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

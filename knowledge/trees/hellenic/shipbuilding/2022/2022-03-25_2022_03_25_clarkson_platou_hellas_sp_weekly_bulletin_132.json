@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNEW BUILDING: In the gas carrier market, Daewoo (DSME) announced taking orders for three firm 200k CBM LNG Carriers from an\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-03-25_clarkson-platou-hellas-sp-weekly-bulletin-132_report-25-03-2022_da5da0e81d51.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-03-25_clarkson-platou-hellas-sp-weekly-bulletin-132_report-25-03-2022_da5da0e81d51.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 25 March 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 6S50MC-C8.2 SS 04/26 USD 17.88 M\nDAYANG CENTURY 56,780 2012 CSC JIANGDONG CHINESE\nCR 4 x 30, BWTS fitted DD 05/24 (online auction)\nMAN-B&W 6S50MC-C8.2 SS 01/23 USD 19.6 M\nSEACON SINGAPORE 56,450 2013 TAIZHOU SANFU CHINESE\nCR 4 x 30 DD 01/23 (online auction)\nMAN-B&W 6S50MC6.1 SS 09/26\nSHANGRILA 52,342 2001 TSUNEISHI HIGH USD 12 M U/D\nCR 4 x 30, BWTS fitted DD 10/24\nMAN-B&W 6S50MC6.1 SS 01/25\nLUCKY SEA 52,246 2005 SINOPACIFIC DAYANG RGN USD 12 M CHINESE\nCR 4 x 30 DD 02/23\nMAN-B&W 6S50MC-C8.2 SS 08/26 RGN USD 24.5 M\nOCEAN IBIS 38,486 2013 MINAMINIPPON U/D\nCR 4 x 30 DD 11/23 (BBHP)\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUY",
+  "summary": "Main\nNEW BUILDING: In the gas carrier market, Daewoo (DSME) announced taking orders for three firm 200k CBM LNG Carriers from an\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-03-25_clarkson-platou-hellas-sp-weekly-bulletin-132_report-25-03-2022_da5da0e81d51.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2022-03-25_clarkson-platou-hellas-sp-weekly-bulletin-132_report-25-03-2022_da5da0e81d51.pdf\n\n# Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 25 March 2022\n\n## BULK CARRIERS\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|DAYANG CENTURY|56,780|2012 CSC JIANGDONG|MAN B&W 6S50MCfitted -C8.2 CR -4 x 30, BWTS|SS 04/26 DD 05/ 24|.88 M) (USD 17 online auction|CHINESE|\n|SEACON SINGAPORE|56,450|2013 TAIZHOU SANFU|MAN-B&W 6S50MC -C8.2 CR 4 x 30|SS 01/23 DD 01/23|USD 19.6 M (online auction)|CHINESE|\n|SHANGRILA|52,342|2001 TSUNEISHI|MAN W, BWTS fitted 6S50MC6.1 CR 4 -B x & 30|SS 09/26 DD 10/24|HIGH USD 12 M|U/D|\n|LUCKY SEA|52,246|2005 SINOPACIFIC DAYANG|MAN-B&W CR 4 6S50MC6.1 x 30|SS 01/25 DD 02/ 23|RGN USD 12 M|CHINESE|\n|OCEAN IBIS|38,486|2013 MINAMINIPPON|MAN-B&W 6S50MC -C8.2 CR 4 x 30|SS 08/26 DD 11/23|RGN (BBHP USD 24.5 M )|U/D|\n\n## <u>TANKER",
   "keywords": [
     "lng",
     "lpg",
@@ -19,15 +19,15 @@
     "europe",
     "india",
     "singapore",
+    "crude_oil",
     "steel",
     "gas",
-    "clarksons",
-    "any"
+    "clarksons"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2251,
-  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-03-25_clarkson-platou-hellas-sp-weekly-bulletin-132.html",
+  "token_count": 2280,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-03-25_clarkson-platou-hellas-sp-weekly-bulletin-132.html",
   "source_url": "https://www.hellenicshippingnews.com/clarkson-platou-hellas-sp-weekly-bulletin-132",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-03-25_clarkson-platou-hellas-sp-weekly-bulletin-132_report-25-03-2022_da5da0e81d51.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-03-25_clarkson-platou-hellas-sp-weekly-bulletin-132_report-25-03-2022_da5da0e81d51.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 25 March 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 6S50MC-C8.2 SS 04/26 USD 17.88 M\nDAYANG CENTURY 56,780 2012 CSC JIANGDONG CHINESE\nCR 4 x 30, BWTS fitted DD 05/24 (online auction)\nMAN-B&W 6S50MC-C8.2 SS 01/23 USD 19.6 M\nSEACON SINGAPORE 56,450 2013 TAIZHOU SANFU CHINESE\nCR 4 x 30 DD 01/23 (online auction)\nMAN-B&W 6S50MC6.1 SS 09/26\nSHANGRILA 52,342 2001 TSUNEISHI HIGH USD 12 M U/D\nCR 4 x 30, BWTS fitted DD 10/24\nMAN-B&W 6S50MC6.1 SS 01/25\nLUCKY SEA 52,246 2005 SINOPACIFIC DAYANG RGN USD 12 M CHINESE\nCR 4 x 30 DD 02/23\nMAN-B&W 6S50MC-C8.2 SS 08/26 RGN USD 24.5 M\nOCEAN IBIS 38,486 2013 MINAMINIPPON U/D\nCR 4 x 30 DD 11/23 (BBHP)\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 07/24\nENEOS TOKYO 300,976 2004 IHI SULZER 7RTA84T RGN USD 30 M CHINESE\nDD 07/22\nMAN-B&W 7S60MC-C7.1\nSS 05/26\nPROTEAS 117,055 2006 HHI ICE 1A, 12 tanks epoxy RGN 20.1 M U/D\nDD 08/24\nBWTS fitted\nPage 1 of 3\n\n[Page 2]\nSale and Purchase\nHellas S&P Weekly Bulletin 25 Ma",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-03-25_clarkson-platou-hellas-sp-weekly-bulletin-132_report-25-03-2022_da5da0e81d51.pdf\n\n# Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 25 March 2022\n\n## BULK CARRIERS\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|DAYANG CENTURY|56,780|2012 CSC JIANGDONG|MAN B&W 6S50MCfitted -C8.2 CR -4 x 30, BWTS|SS 04/26 DD 05/ 24|.88 M) (USD 17 online auction|CHINESE|\n|SEACON SINGAPORE|56,450|2013 TAIZHOU SANFU|MAN-B&W 6S50MC -C8.2 CR 4 x 30|SS 01/23 DD 01/23|USD 19.6 M (online auction)|CHINESE|\n|SHANGRILA|52,342|2001 TSUNEISHI|MAN W, BWTS fitted 6S50MC6.1 CR 4 -B x & 30|SS 09/26 DD 10/24|HIGH USD 12 M|U/D|\n|LUCKY SEA|52,246|2005 SINOPACIFIC DAYANG|MAN-B&W CR 4 6S50MC6.1 x 30|SS 01/25 DD 02/ 23|RGN USD 12 M|CHINESE|\n|OCEAN IBIS|38,486|2013 MINAMINIPPON|MAN-B&W 6S50MC -C8.2 CR 4 x 30|SS 08/26 DD 11/23|RGN (BBHP USD 24.5 M )|U/D|\n\n## <u>TANKERS - CHEMICALS - LPG/LNGs</u>\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|ENEOS TOKYO|300,976|2004 IHI|SULZER 7RTA84T MAN-B&W 7S60MC-C7.1|DD 07/22 SS 07/24 SS 05/26|RGN USD 30 M|CHINESE|\n|PROTEAS|117,055|2006 HHI|ICE 1A, 12 tanks epoxy BWTS fi",
       "keywords": [
         "lng",
         "lpg",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2160,
+      "token_count": 2189,
       "section_type": "linked_pdf",
       "children": []
     }

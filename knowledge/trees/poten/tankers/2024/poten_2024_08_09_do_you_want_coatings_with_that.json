@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2024_08_09_do_you_want_coatings_with_that__root",
+  "doc_id": "poten_tankers_no_date_poten_2024_08_09_do_you_want_coatings_with_that",
+  "parent_id": null,
+  "title": "Do You Want Coatings With That",
+  "section_path": [
+    "Do You Want Coatings With That"
+  ],
+  "section_path_text": "Do You Want Coatings With That",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Owners choose to pay a premium for optionality\nA comparison of the newbuilding orderbook for Aframax and LR2 tankers shows a strong preference for the coated or clean version of this versatile tanker segment. There are only 40 crude Aframaxes on order, representing a very modest 4.7% of the existing fleet of 854 tankers. The LR2 orderbook, on the other hand consists of 158 vessels, a massive 53.6% of the existing fleet (295 vessels).",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "europe",
+    "crude_oil",
+    "products",
+    "clean",
+    "are",
+    "dirty",
+    "aframaxes",
+    "lr2s",
+    "tankers"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 874,
+  "source_path": "reports/poten/2024/poten_2024-08-09_do-you-want-coatings-with-that.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2024_08_09_do_you_want_coatings_with_that__s01_owners_choose_to_pay_a_premium_for_optionality",
+      "doc_id": "poten_tankers_no_date_poten_2024_08_09_do_you_want_coatings_with_that",
+      "parent_id": "poten_tankers_no_date_poten_2024_08_09_do_you_want_coatings_with_that__root",
+      "title": "Owners choose to pay a premium for optionality",
+      "section_path": [
+        "Owners choose to pay a premium for optionality"
+      ],
+      "section_path_text": "Owners choose to pay a premium for optionality",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "A comparison of the newbuilding orderbook for Aframax and LR2 tankers shows a strong preference for the coated or clean version of this versatile tanker segment. There are only 40 crude Aframaxes on order, representing a very modest 4.7% of the existing fleet of 854 tankers.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "europe",
+        "crude_oil",
+        "products",
+        "clean",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 864,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

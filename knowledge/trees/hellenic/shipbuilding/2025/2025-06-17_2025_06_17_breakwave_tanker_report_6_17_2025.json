@@ -9,7 +9,7 @@
   "section_path_text": "Breakwave Tanker Report 6.17.2025",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nBlack Swans Everywhere as VLCCs Surge - The most severe conflict in the Middle East in decades has introduced\nSource: Breakwave Advisors\n\nLinked asset: 2025-06-17_breakwave-tanker-report-6-17-2025_breakwavetankersjune172025report_237e21488365.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2025-06-17_breakwave-tanker-report-6-17-2025_breakwavetankersjune172025report_237e21488365.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nJune 17, 2025\n• Black Swans Everywhere as VLCCs Surge - The most severe conflict in the\nShort-term Indicators\nMiddle East in decades has introduced considerable instability into the oil markets,\nMomentum: Positive\nwhich in turn has impacted tanker shipping operations. The ongoing war\nSentiment: Positive\nbetween Israel and Iran has significantly heightened risks to oil supplies, while the\ntrajectory of the situation remains uncertain in the coming days and weeks. Given Fundamentals: Positive\nthat the broader Middle East accounts for more than 25% of seaborne oil, such\nincreased uncertainty is to be expected.",
+  "summary": "Main\nBlack Swans Everywhere as VLCCs Surge - The most severe conflict in the Middle East in decades has introduced\nSource: Breakwave Advisors\n\nLinked asset: 2025-06-17_breakwave-tanker-report-6-17-2025_breakwavetankersjune172025report_237e21488365.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2025-06-17_breakwave-tanker-report-6-17-2025_breakwavetankersjune172025report_237e21488365.pdf\n\n# Tanker Shipping\n\n## Bi-Weekly Industry Report\n\n### June 17, 2025\n\n#### Short-term Indicators\n\n*Momentum:* **Positive** *Sentiment:* **Positive** *Fundamentals:* **Positive**\n\n- **Black Swans Everywhere as VLCCs Surge -** The most **severe conflict** in the Middle East in decades has introduced considerable instability into the oil markets, which in turn **has impacted tanker shipping operations**. The ongoing war between Israel and Iran has significantly heightened risks to oil supplies, while the trajectory of the situation remains **uncertain** in the coming days and weeks. Given that the broader Middle East accounts for more than 25% of seaborne oil, such increased uncertainty is to be expected.",
   "keywords": [
     "vlcc",
     "suezmax",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1773,
-  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-06-17_breakwave-tanker-report-6-17-2025.html",
+  "token_count": 1831,
+  "source_path": "reports/hellenic/shipbuilding/2025/2025-06-17_breakwave-tanker-report-6-17-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-6-17-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-06-17_breakwave-tanker-report-6-17-2025_breakwavetankersjune172025report_237e21488365.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-06-17_breakwave-tanker-report-6-17-2025_breakwavetankersjune172025report_237e21488365.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nJune 17, 2025\n• Black Swans Everywhere as VLCCs Surge - The most severe conflict in the\nShort-term Indicators\nMiddle East in decades has introduced considerable instability into the oil markets,\nMomentum: Positive\nwhich in turn has impacted tanker shipping operations. The ongoing war\nSentiment: Positive\nbetween Israel and Iran has significantly heightened risks to oil supplies, while the\ntrajectory of the situation remains uncertain in the coming days and weeks.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-06-17_breakwave-tanker-report-6-17-2025_breakwavetankersjune172025report_237e21488365.pdf\n\n# Tanker Shipping\n\n## Bi-Weekly Industry Report\n\n### June 17, 2025\n\n#### Short-term Indicators\n\n*Momentum:* **Positive** *Sentiment:* **Positive** *Fundamentals:* **Positive**\n\n- **Black Swans Everywhere as VLCCs Surge -** The most **severe conflict** in the Middle East in decades has introduced considerable instability into the oil markets, which in turn **has impacted tanker shipping operations**. The ongoing war between Israel and Iran has significantly heightened risks to oil supplies, while the trajectory of the situation remains **uncertain** in the coming days and weeks.",
       "keywords": [
         "vlcc",
         "suezmax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1702,
+      "token_count": 1760,
       "section_type": "linked_pdf",
       "children": []
     }

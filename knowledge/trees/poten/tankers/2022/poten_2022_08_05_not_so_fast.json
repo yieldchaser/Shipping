@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2022_08_05_not_so_fast__root",
+  "doc_id": "poten_tankers_no_date_poten_2022_08_05_not_so_fast",
+  "parent_id": null,
+  "title": "Not So Fast",
+  "section_path": [
+    "Not So Fast"
+  ],
+  "section_path_text": "Not So Fast",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Are sanctions on Russian oil being relaxed? During the six months since Russia invaded Ukraine, the United States, the United Kingdom and the European Union have announced multiple rounds of sanctions targeting the Russian government, Russian companies as well as specific individuals. Every new round of sanctions was stricter and more comprehensive than the previous one.",
+  "keywords": [
+    "capesize",
+    "china",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "oil",
+    "sanctions",
+    "russian",
+    "insurance",
+    "ban",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 896,
+  "source_path": "reports/poten/2022/poten_2022-08-05_not-so-fast.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_08_05_not_so_fast__s01_are_sanctions_on_russian_oil_being_relaxed",
+      "doc_id": "poten_tankers_no_date_poten_2022_08_05_not_so_fast",
+      "parent_id": "poten_tankers_no_date_poten_2022_08_05_not_so_fast__root",
+      "title": "Are sanctions on Russian oil being relaxed?",
+      "section_path": [
+        "Are sanctions on Russian oil being relaxed?"
+      ],
+      "section_path_text": "Are sanctions on Russian oil being relaxed?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "During the six months since Russia invaded Ukraine, the United States, the United Kingdom and the European Union have announced multiple rounds of sanctions targeting the Russian government, Russian companies as well as specific individuals. Every new round of sanctions was stricter and more comprehensive than the previous one.",
+      "keywords": [
+        "capesize",
+        "china",
+        "europe",
+        "india",
+        "crude_oil",
+        "products",
+        "oil",
+        "sanctions"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 888,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

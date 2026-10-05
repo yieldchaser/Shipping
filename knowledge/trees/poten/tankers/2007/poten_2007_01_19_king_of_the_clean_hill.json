@@ -1,0 +1,174 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_01_19_king_of_the_clean_hill__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_01_19_king_of_the_clean_hill",
+  "parent_id": null,
+  "title": "King of the Clean Hill",
+  "section_path": [
+    "King of the Clean Hill"
+  ],
+  "section_path_text": "King of the Clean Hill",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "King of the Clean Hill\nThe annual reviews of the most active charterers in the tanker market are widely read by many different market participants. It is important to keep perspective on what the fixture information truly represents- the fixtures that are reported openly in the market. As was pointed out in last week's Opinion, The Top Bananas , comprehensive fixture information is becoming more opaque as the market sees increases in contracts of affreightment, consecutive voyages and term business.",
+  "keywords": [
+    "panamax",
+    "handysize",
+    "aframax",
+    "meg",
+    "europe",
+    "crude_oil",
+    "products",
+    "fixtures",
+    "clean",
+    "reported",
+    "total",
+    "number"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 933,
+  "source_path": "reports/poten/2007/poten_2007-01-19_king-of-the-clean-hill.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_01_19_king_of_the_clean_hill__s01_king_of_the_clean_hill",
+      "doc_id": "poten_tankers_no_date_poten_2007_01_19_king_of_the_clean_hill",
+      "parent_id": "poten_tankers_no_date_poten_2007_01_19_king_of_the_clean_hill__root",
+      "title": "King of the Clean Hill",
+      "section_path": [
+        "King of the Clean Hill"
+      ],
+      "section_path_text": "King of the Clean Hill",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The annual reviews of the most active charterers in the tanker market are widely read by many different market participants. It is important to keep perspective on what the fixture information truly represents- the fixtures that are reported openly in the market.",
+      "keywords": [
+        "are",
+        "fixture",
+        "fixtures",
+        "information",
+        "reported",
+        "above",
+        "active",
+        "affreightment"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 145,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_01_19_king_of_the_clean_hill__s02_top_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2007_01_19_king_of_the_clean_hill",
+      "parent_id": "poten_tankers_no_date_poten_2007_01_19_king_of_the_clean_hill__root",
+      "title": "Top Charterers",
+      "section_path": [
+        "Top Charterers"
+      ],
+      "section_path_text": "Top Charterers",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Shell retains the top position with the greatest number of reported clean spot market fixtures (recall that they are number one in dirty fixtures as well.) Vitol climbed to the number two slot, as BP slid to number three. Lukoil rose to the number six position, from number 11 in 2005.",
+      "keywords": [
+        "panamax",
+        "aframax",
+        "meg",
+        "europe",
+        "crude_oil",
+        "fixtures",
+        "clean",
+        "total"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 524,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_01_19_king_of_the_clean_hill__s03_titan",
+      "doc_id": "poten_tankers_no_date_poten_2007_01_19_king_of_the_clean_hill",
+      "parent_id": "poten_tankers_no_date_poten_2007_01_19_king_of_the_clean_hill__root",
+      "title": "Titan",
+      "section_path": [
+        "Titan"
+      ],
+      "section_path_text": "Titan",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Clean activity significantly outweighs dirty activity in the Handymax sector, accounting for 88% of all reported spot fixture activity. There was an increase of 6% in reported spot fixtures from 2005 to 2006.",
+      "keywords": [
+        "handysize",
+        "europe",
+        "activity",
+        "fixtures",
+        "handymax",
+        "reported",
+        "accounting",
+        "activity."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 74,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_01_19_king_of_the_clean_hill__s04_pmi",
+      "doc_id": "poten_tankers_no_date_poten_2007_01_19_king_of_the_clean_hill",
+      "parent_id": "poten_tankers_no_date_poten_2007_01_19_king_of_the_clean_hill__root",
+      "title": "PMI",
+      "section_path": [
+        "PMI"
+      ],
+      "section_path_text": "PMI",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The total amount of reported clean spot fixtures increased 9% from 2005. The total number of reported spot fixtures in 2006 was 1,313 with Lukoil as the largest charterer.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "fixtures",
+        "reported",
+        "total",
+        "activity",
+        "amount",
+        "charterer."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 54,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_01_19_king_of_the_clean_hill__s05_less_transparent",
+      "doc_id": "poten_tankers_no_date_poten_2007_01_19_king_of_the_clean_hill",
+      "parent_id": "poten_tankers_no_date_poten_2007_01_19_king_of_the_clean_hill__root",
+      "title": "Less Transparent",
+      "section_path": [
+        "Less Transparent"
+      ],
+      "section_path_text": "Less Transparent",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "As more and more traders charter-in to build fleets of clean product carriers, the amount of reported spot fixtures will not reflect the amount of clean products actually moving on tankers. However, our assessment is that the information that is summarized in the preceding pages is still an accurate reflection of who are the most active charterers in the market.",
+      "keywords": [
+        "products",
+        "clean",
+        "product",
+        "amount",
+        "carriers",
+        "demand",
+        "who",
+        "accurate"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 116,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

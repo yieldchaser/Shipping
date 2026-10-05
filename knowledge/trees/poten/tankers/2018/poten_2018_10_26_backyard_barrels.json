@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2018_10_26_backyard_barrels__root",
+  "doc_id": "poten_tankers_no_date_poten_2018_10_26_backyard_barrels",
+  "parent_id": null,
+  "title": "Backyard Barrels",
+  "section_path": [
+    "Backyard Barrels"
+  ],
+  "section_path_text": "Backyard Barrels",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "refining is filling the gap in South America\nSometimes things just work out. Until 2006, the United States was a significant (and growing) net importer of refined products. imports of petroleum products peaked at the end of 2005 at 4.5 million barrels per day (b/d).",
+  "keywords": [
+    "brazil",
+    "atlantic",
+    "crude_oil",
+    "products",
+    "gas",
+    "u.s.",
+    "product",
+    "million",
+    "b/d",
+    "exports",
+    "are",
+    "refining"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 919,
+  "source_path": "reports/poten/2018/poten_2018-10-26_backyard-barrels.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_10_26_backyard_barrels__s01_growth_in_u_s_refining_is_filling_the_gap_in_south_america",
+      "doc_id": "poten_tankers_no_date_poten_2018_10_26_backyard_barrels",
+      "parent_id": "poten_tankers_no_date_poten_2018_10_26_backyard_barrels__root",
+      "title": "Growth in U.S. refining is filling the gap in South America",
+      "section_path": [
+        "Growth in U.S. refining is filling the gap in South America"
+      ],
+      "section_path_text": "Growth in U.S. refining is filling the gap in South America",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Until 2006, the United States was a significant (and growing) net importer of refined products. imports of petroleum products peaked at the end of 2005 at 4.5 million barrels per day (b/d).",
+      "keywords": [
+        "brazil",
+        "atlantic",
+        "crude_oil",
+        "products",
+        "gas",
+        "u.s.",
+        "product",
+        "million"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 904,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

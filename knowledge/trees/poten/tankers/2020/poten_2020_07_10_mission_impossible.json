@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2020_07_10_mission_impossible__root",
+  "doc_id": "poten_tankers_no_date_poten_2020_07_10_mission_impossible",
+  "parent_id": null,
+  "title": "Mission Impossible",
+  "section_path": [
+    "Mission Impossible"
+  ],
+  "section_path_text": "Mission Impossible",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Crude oil pipelines in North America are facing challenges\nThis week, we have seen a number of setbacks for the U.S. oil & gas industry as several pipelines have been canceled, delayed or - in the case of the Dakota Access Pipeline (DAPL) - ordered to be taken out of service pending an environmental review. Opposition to building new or expanding existing pipelines in North America (the U.S.",
+  "keywords": [
+    "crude_oil",
+    "gas",
+    "crude",
+    "oil",
+    "dapl",
+    "bakken",
+    "u.s.",
+    "pipeline",
+    "are",
+    "b/d",
+    "capacity",
+    "north"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 931,
+  "source_path": "reports/poten/2020/poten_2020-07-10_mission-impossible.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_07_10_mission_impossible__s01_crude_oil_pipelines_in_north_america_are_facing_challenges",
+      "doc_id": "poten_tankers_no_date_poten_2020_07_10_mission_impossible",
+      "parent_id": "poten_tankers_no_date_poten_2020_07_10_mission_impossible__root",
+      "title": "Crude oil pipelines in North America are facing challenges",
+      "section_path": [
+        "Crude oil pipelines in North America are facing challenges"
+      ],
+      "section_path_text": "Crude oil pipelines in North America are facing challenges",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This week, we have seen a number of setbacks for the U.S. oil & gas industry as several pipelines have been canceled, delayed or - in the case of the Dakota Access Pipeline (DAPL) - ordered to be taken out of service pending an environmental review.",
+      "keywords": [
+        "crude_oil",
+        "gas",
+        "crude",
+        "dapl",
+        "oil",
+        "bakken",
+        "u.s.",
+        "pipeline"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 920,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

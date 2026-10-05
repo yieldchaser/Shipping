@@ -9,7 +9,7 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 1.7.2025",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNew Year Brings New Challenges, but It Is Weather That Will Determine Rates Near Term -The Christmas break provided little new insight\nSource: Breakwave Advisors\n\nLinked asset: 2025-01-07_breakwave-dry-bulk-shipping-report-1-7-2025_breakwavedryjanuary72025report_d915bf343bea.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2025-01-07_breakwave-dry-bulk-shipping-report-1-7-2025_breakwavedryjanuary72025report_d915bf343bea.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nJanuary 7, 2025\nBreakwave Dry Futures Index: 1,054 Baltic Dry Index (spot): 1,043 Short-term Indicators:\n↑ 30D: 0.1% ↓ 30D: -10.6% Momentum: Positive\n↑ YTD: 3.9% ↑ YTD: 4.6% Sentiment: Positive\n↓ YOY: -30.4% ↓ YOY: -50.6% Fundamentals: Neutral\nBi-Weekly Report\n• New Year Brings New Challenges, but It Is Weather That Will Determine Rates Near Term -The Christmas break\nprovided little new insight into an otherwise challenging dry bulk market. While the sharp declines seen in the previous\nmonth appear to have moderated, the sector enters a seasonally weak period, with freight rates at their lowest levels\nin many months. As previously discussed, this downturn is not unexpected; the market had been overly optimistic in\nantici",
+  "summary": "Main\nNew Year Brings New Challenges, but It Is Weather That Will Determine Rates Near Term -The Christmas break provided little new insight\nSource: Breakwave Advisors\n\nLinked asset: 2025-01-07_breakwave-dry-bulk-shipping-report-1-7-2025_breakwavedryjanuary72025report_d915bf343bea.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2025-01-07_breakwave-dry-bulk-shipping-report-1-7-2025_breakwavedryjanuary72025report_d915bf343bea.pdf\n\n||BDRY|||||||\n|---|---|---|---|---|---|---|---|\n||↑ ↑ ↓|Dry Bulk Shipping Breakwave Dry Futures Index: 30D: 0.1% YTD: 3.9% YOY: -30.4%|1,054|↓ ↑ ↓|Baltic Dry Index (spot): 30D: -10.6% YTD: 4.6% YOY: -50.6%|1,043 Momentum: Sentiment: Fundamentals:|January 7, 2025 Short-term Indicators: Positive Positive Neutral|\n|• • •||Bi-Weekly Report ahead, there are limited near-term Our Long-term View - a weighted average maturity of approximately 50-70 days.|China's Economic Progression Remains Subject to the Trump Administration's Policies commodity demand and a slower fleet growth owing to a relatively low orderbook.|New Year Brings New Challenges, but It Is Weather That Will Determine Rates Near Term catalysts likely to push and permanent shifts in energy and",
   "keywords": [
     "capesize",
     "panamax",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1460,
-  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-01-07_breakwave-dry-bulk-shipping-report-1-7-2025.html",
+  "token_count": 1488,
+  "source_path": "reports/hellenic/shipbuilding/2025/2025-01-07_breakwave-dry-bulk-shipping-report-1-7-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-1-7-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-01-07_breakwave-dry-bulk-shipping-report-1-7-2025_breakwavedryjanuary72025report_d915bf343bea.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-01-07_breakwave-dry-bulk-shipping-report-1-7-2025_breakwavedryjanuary72025report_d915bf343bea.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nJanuary 7, 2025\nBreakwave Dry Futures Index: 1,054 Baltic Dry Index (spot): 1,043 Short-term Indicators:\n↑ 30D: 0.1% ↓ 30D: -10.6% Momentum: Positive\n↑ YTD: 3.9% ↑ YTD: 4.6% Sentiment: Positive\n↓ YOY: -30.4% ↓ YOY: -50.6% Fundamentals: Neutral\nBi-Weekly Report\n• New Year Brings New Challenges, but It Is Weather That Will Determine Rates Near Term -The Christmas break\nprovided little new insight into an otherwise challenging dry bulk market. While the sharp declines seen in the previous\nmonth appear to have moderated, the sector enters a seasonally weak period, with freight rates at their lowest levels\nin many months.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-01-07_breakwave-dry-bulk-shipping-report-1-7-2025_breakwavedryjanuary72025report_d915bf343bea.pdf\n\n||BDRY|||||||\n|---|---|---|---|---|---|---|---|\n||↑ ↑ ↓|Dry Bulk Shipping Breakwave Dry Futures Index: 30D: 0.1% YTD: 3.9% YOY: -30.4%|1,054|↓ ↑ ↓|Baltic Dry Index (spot): 30D: -10.6% YTD: 4.6% YOY: -50.6%|1,043 Momentum: Sentiment: Fundamentals:|January 7, 2025 Short-term Indicators: Positive Positive Neutral|\n|• • •||Bi-Weekly Report ahead, there are limited near-term Our Long-term View - a weighted average maturity of approximately 50-70 days.|China's Economic Progression Remains Subject to the Trump Administration's Policies commodity demand and a slower fleet growth owing to a relatively low orderbook.|New Year Brings New Challenges, but It Is Weather That Will Determine Rates Near Term catalysts likely to push and permanent shifts in energy and material infrastructure demand due to environmental policies.|provided little new insight into an otherwise challenging dry bulk market. While the sharp declines seen in the previous month appear to have moderated, the sector enters a seasonally weak period, with freight rates at the",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1383,
+      "token_count": 1411,
       "section_type": "linked_pdf",
       "children": []
     }

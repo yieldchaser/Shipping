@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2012_04_05_diversifying_outlets__root",
+  "doc_id": "poten_tankers_no_date_poten_2012_04_05_diversifying_outlets",
+  "parent_id": null,
+  "title": "Diversifying Outlets",
+  "section_path": [
+    "Diversifying Outlets"
+  ],
+  "section_path_text": "Diversifying Outlets",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Diversifying Outlets\nArguments occasionally spawn diversification. Oil pipeline tariff squabbles with Belarus in 2008 prompted Russia to develop alternative routes that bypassed their neighbor. One result was the country's decision to build the Baltic Pipeline System 2 (BPS2) as shown in the following map.",
+  "keywords": [
+    "aframax",
+    "europe",
+    "crude_oil",
+    "oil",
+    "flows",
+    "pipeline",
+    "demand",
+    "kbd",
+    "port",
+    "russian",
+    "vessel",
+    "belarus"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 409,
+  "source_path": "reports/poten/2012/poten_2012-04-05_diversifying-outlets.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_04_05_diversifying_outlets__s01_diversifying_outlets",
+      "doc_id": "poten_tankers_no_date_poten_2012_04_05_diversifying_outlets",
+      "parent_id": "poten_tankers_no_date_poten_2012_04_05_diversifying_outlets__root",
+      "title": "Diversifying Outlets",
+      "section_path": [
+        "Diversifying Outlets"
+      ],
+      "section_path_text": "Diversifying Outlets",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Oil pipeline tariff squabbles with Belarus in 2008 prompted Russia to develop alternative routes that bypassed their neighbor. One result was the country's decision to build the Baltic Pipeline System 2 (BPS2) as shown in the following map.",
+      "keywords": [
+        "aframax",
+        "europe",
+        "crude_oil",
+        "oil",
+        "flows",
+        "pipeline",
+        "demand",
+        "kbd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 403,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

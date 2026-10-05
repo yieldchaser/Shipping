@@ -9,7 +9,7 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 6.20.2023",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nFutures curve continues to adjust to an uninspiring macro outlook - With the summer months upon us, dry bulk markets are faced\nSource: Breakwave Advisors\n\nLinked asset: 2023-06-20_breakwave-dry-bulk-shipping-report-6-20-2023_breakwavejune202023report_3545fba907d0.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-06-20_breakwave-dry-bulk-shipping-report-6-20-2023_breakwavejune202023report_3545fba907d0.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nJune 20, 2023\nBreakwave Dry Futures Index: 1,400 Baltic Dry Index (spot): 1,076 Short-term Indicators:\n↓ 30D: -9.0% ↓ 30D: -27.1% Momentum: Positive\n↑ YTD: 36.3% ↓ YTD: -29.0% Sentiment: Neutral\n↓ YOY: -51.8% ↓ YOY: -56.3% Fundamentals: Neutral\nBi-Weekly Report\n• Futures curve continues to adjust to an uninspiring macro outlook - With the summer months upon us, dry bulk\nmarkets are faced with softening economic activity out of China, which remains the main demand driver for the\nsector. So far China has failed to excite, and although the year-over-year comps look impressive, one should always\nkeep in mind the considerable base effects on such comparisons. On more normalized levels, iron ore imports into\nChina have now been relatively ste",
+  "summary": "Main\nFutures curve continues to adjust to an uninspiring macro outlook - With the summer months upon us, dry bulk markets are faced\nSource: Breakwave Advisors\n\nLinked asset: 2023-06-20_breakwave-dry-bulk-shipping-report-6-20-2023_breakwavejune202023report_3545fba907d0.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2023-06-20_breakwave-dry-bulk-shipping-report-6-20-2023_breakwavejune202023report_3545fba907d0.pdf\n\n# BDRY\n\n## Dry Bulk Shipping\n\n**June 20, 2023**\n\n##### Breakwave Dry Futures Index: 1,400 Baltic Dry Index (spot): 1,076 Short-term Indicators:\n\n**↓** *30D: -9.0%* **↓** *30D: -27.1% Momentum:* **Positive** **↑** *YTD: 36.3%* **↓** *YTD: -29.0% Sentiment:* **Neutral** **↓** *YOY: -51.8%* **↓** *YOY: -56.3% Fundamentals:* **Neutral**\n\n#### <u>Bi-Weekly Report</u>\n\n- **Futures curve continues to adjust to an uninspiring macro outlook -** With the summer months upon us, dry bulk markets are faced with softening economic activity out of China, which remains the main demand driver for the sector. So far China has failed to excite, and although the **year-over-year comps look impressive**, one should always keep in mind the considerable **base effects** on such comparison",
   "keywords": [
     "capesize",
     "panamax",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1470,
-  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-06-20_breakwave-dry-bulk-shipping-report-6-20-2023.html",
+  "token_count": 1574,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-06-20_breakwave-dry-bulk-shipping-report-6-20-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-6-20-2023",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-06-20_breakwave-dry-bulk-shipping-report-6-20-2023_breakwavejune202023report_3545fba907d0.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-06-20_breakwave-dry-bulk-shipping-report-6-20-2023_breakwavejune202023report_3545fba907d0.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nJune 20, 2023\nBreakwave Dry Futures Index: 1,400 Baltic Dry Index (spot): 1,076 Short-term Indicators:\n↓ 30D: -9.0% ↓ 30D: -27.1% Momentum: Positive\n↑ YTD: 36.3% ↓ YTD: -29.0% Sentiment: Neutral\n↓ YOY: -51.8% ↓ YOY: -56.3% Fundamentals: Neutral\nBi-Weekly Report\n• Futures curve continues to adjust to an uninspiring macro outlook - With the summer months upon us, dry bulk\nmarkets are faced with softening economic activity out of China, which remains the main demand driver for the\nsector. So far China has failed to excite, and although the year-over-year comps look impressive, one should always\nkeep in mind the considerable base effects on such comparisons.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-06-20_breakwave-dry-bulk-shipping-report-6-20-2023_breakwavejune202023report_3545fba907d0.pdf\n\n# BDRY\n\n## Dry Bulk Shipping\n\n**June 20, 2023**\n\n##### Breakwave Dry Futures Index: 1,400 Baltic Dry Index (spot): 1,076 Short-term Indicators:\n\n**↓** *30D: -9.0%* **↓** *30D: -27.1% Momentum:* **Positive** **↑** *YTD: 36.3%* **↓** *YTD: -29.0% Sentiment:* **Neutral** **↓** *YOY: -51.8%* **↓** *YOY: -56.3% Fundamentals:* **Neutral**\n\n#### <u>Bi-Weekly Report</u>\n\n- **Futures curve continues to adjust to an uninspiring macro outlook -** With the summer months upon us, dry bulk markets are faced with softening economic activity out of China, which remains the main demand driver for the sector. So far China has failed to excite, and although the **year-over-year comps look impressive**, one should always keep in mind the considerable **base effects** on such comparisons.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1393,
+      "token_count": 1497,
       "section_type": "linked_pdf",
       "children": []
     }

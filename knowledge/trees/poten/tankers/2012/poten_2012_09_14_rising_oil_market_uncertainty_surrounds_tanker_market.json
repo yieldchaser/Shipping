@@ -1,0 +1,319 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market__root",
+  "doc_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market",
+  "parent_id": null,
+  "title": "Rising Oil Market Uncertainty Surrounds Tanker Market",
+  "section_path": [
+    "Rising Oil Market Uncertainty Surrounds Tanker Market"
+  ],
+  "section_path_text": "Rising Oil Market Uncertainty Surrounds Tanker Market",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Oil market fundamentals\nThe recent Oil Market Report (OMR) from the International Energy Agency (IEA) was unremarkable in its lack of revisions to its forecasts. The agency kept both oil demand growth estimates and non-OPEC supply forecasts roughly unchanged, while providing small baseline adjustments to demand. Beneath this forecasting calm, however, the agency highlighted the conflicting forces that are leading to greater oil market uncertainty.",
+  "keywords": [
+    "atlantic",
+    "europe",
+    "grain",
+    "crude_oil",
+    "products",
+    "crude",
+    "are",
+    "oil",
+    "runs",
+    "stocks",
+    "higher",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1053,
+  "source_path": "reports/poten/2012/poten_2012-09-14_rising-oil-market-uncertainty-surrounds-tanker-market.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market__s01_oil_market_fundamentals",
+      "doc_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market",
+      "parent_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market__root",
+      "title": "Oil market fundamentals",
+      "section_path": [
+        "Oil market fundamentals"
+      ],
+      "section_path_text": "Oil market fundamentals",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The recent Oil Market Report (OMR) from the International Energy Agency (IEA) was unremarkable in its lack of revisions to its forecasts. The agency kept both oil demand growth estimates and non-OPEC supply forecasts roughly unchanged, while providing small baseline adjustments to demand.",
+      "keywords": [
+        "crude_oil",
+        "are",
+        "demand",
+        "oil",
+        "agency",
+        "crude",
+        "its",
+        "supply"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 141,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market__s02_mid_distillate_stocks_are",
+      "doc_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market",
+      "parent_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market__root",
+      "title": "Mid-distillate stocks are",
+      "section_path": [
+        "Mid-distillate stocks are"
+      ],
+      "section_path_text": "Mid-distillate stocks are",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "low",
+        "uncomfortably"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market__s03_diesel_prices_and_cracks",
+      "doc_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market",
+      "parent_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market__root",
+      "title": "Diesel prices and cracks",
+      "section_path": [
+        "Diesel prices and cracks"
+      ],
+      "section_path_text": "Diesel prices and cracks",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "are signaling market tightness In contrast, crude inventories are healthier, following several quarters of OPEC overproduction and stock building, due to anxieties over Iranian sanctions. In July OECD crude stocks were 31.6 MB higher year-over-year (yoy), with the majority of the excess located in the US.",
+      "keywords": [
+        "crude_oil",
+        "crude",
+        "are",
+        "following",
+        "inventories",
+        "yoy",
+        "above",
+        "accelerating"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 122,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market__s04_higher_crude_runs_and",
+      "doc_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market",
+      "parent_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market__root",
+      "title": "Higher crude runs and",
+      "section_path": [
+        "Higher crude runs and"
+      ],
+      "section_path_text": "Higher crude runs and",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Hurricane Isaac sliced US crude stocks",
+      "keywords": [
+        "crude",
+        "hurricane",
+        "isaac",
+        "sliced",
+        "stocks"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market__s05_us_imports_were_falling",
+      "doc_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market",
+      "parent_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market__root",
+      "title": "US imports were falling",
+      "section_path": [
+        "US imports were falling"
+      ],
+      "section_path_text": "US imports were falling",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "",
+      "keywords": [
+        "before",
+        "isaac"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market__s06_padd3_crude_stocks",
+      "doc_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market",
+      "parent_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market__root",
+      "title": "PADD3 crude stocks",
+      "section_path": [
+        "PADD3 crude stocks"
+      ],
+      "section_path_text": "PADD3 crude stocks",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "back to normal The IEA, in its assessment of global inventory positions, cited a weak seasonal build of OECD industry oil stocks of only 10.6 MB in July and a counter-seasonal draw of 21.8 MB in August, led by the 23.7 MB drop in crude stocks. The US crude situation drove much of this activity, and some of the counter-seasonal effect was from the timing of Isaac in August, when statistically, September is the peak month for GoM production losses, given the higher incidence of hurricanes and major hurricanes (Category 3 or greater) during the month.",
+      "keywords": [
+        "crude_oil",
+        "crude",
+        "global",
+        "higher",
+        "cover",
+        "its",
+        "oecd",
+        "q12"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 306,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market__s07_refiners_responding_to",
+      "doc_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market",
+      "parent_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market__root",
+      "title": "Refiners responding to",
+      "section_path": [
+        "Refiners responding to"
+      ],
+      "section_path_text": "Refiners responding to",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "higher margins with rising crude runs",
+      "keywords": [
+        "crude",
+        "higher",
+        "margins",
+        "rising",
+        "runs"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market__s08_higher_crude_runs_should",
+      "doc_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market",
+      "parent_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market__root",
+      "title": "Higher crude runs should",
+      "section_path": [
+        "Higher crude runs should"
+      ],
+      "section_path_text": "Higher crude runs should",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "",
+      "keywords": [
+        "crude",
+        "equilibrate",
+        "markets",
+        "product"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market__s09_us_destocking_brought",
+      "doc_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market",
+      "parent_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market__root",
+      "title": "US destocking brought",
+      "section_path": [
+        "US destocking brought"
+      ],
+      "section_path_text": "US destocking brought",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "...but imports to remain under seasonal pressure",
+      "keywords": [
+        "but",
+        "forward...",
+        "imports",
+        "pain",
+        "pressure",
+        "remain",
+        "seasonal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 14,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market__s10_global_crude_runs",
+      "doc_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market",
+      "parent_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market__root",
+      "title": "Global Crude Runs",
+      "section_path": [
+        "Global Crude Runs"
+      ],
+      "section_path_text": "Global Crude Runs",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "This would imply higher-than-forecast crude runs in Europe, once refiners complete Autumn maintenance and a slower seasonal decline in US crude runs. Much of the anticipated US destocking that would have suppressed crude tanker demand in 4q12 occurred in 3q12, bringing forward the freight rate pain so evident this summer.",
+      "keywords": [
+        "atlantic",
+        "europe",
+        "grain",
+        "crude_oil",
+        "crude",
+        "markets",
+        "commodity",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 365,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market__s11_aggressive_quantitative",
+      "doc_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market",
+      "parent_id": "poten_tankers_no_date_poten_2012_09_14_rising_oil_market_uncertainty_surrounds_tanker_market__root",
+      "title": "Aggressive quantitative",
+      "section_path": [
+        "Aggressive quantitative"
+      ],
+      "section_path_text": "Aggressive quantitative",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "easing and rising Islamist anti-Western violence are not a good mix",
+      "keywords": [
+        "anti-western",
+        "are",
+        "easing",
+        "good",
+        "islamist",
+        "mix",
+        "not",
+        "rising"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 14,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

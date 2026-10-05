@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNEW BUILDING: In tankers this week, clients of Navios Maritime Partners announced ordering four firm 115k dwt LR2 product tankers at K Shipbuilding\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-05-06_clarksons-platou-hellas-snp-weekly-bulletin-17_report-06-05-2022_267c616612da.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-05-06_clarksons-platou-hellas-snp-weekly-bulletin-17_report-06-05-2022_267c616612da.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 6 May 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 06/2024\nSIANA 73,127 1999 HHI MAN-B&W 5S60MC USD 9.2 M GREEKS\nDD 06/2022\nMAN-B&W 6S50MC-C SS 07/2025\nAMOY DREAM 56,874 2010 XIAMEN MID USD 17 M GREEKS\n4 X 30 T DD 05/2023\nWartsila 5RT-flex50-B\nSS 05/2024\nEREDINE 39,855 2014 CHENGXI 4 X 36 T USD 24.5 M CANADIANS\nDD 05/2024\nLOGS - BWTS fitted\nWartsila 5RT-flex50-B\nSS 01/2025\nERISKAY 39,810 2015 CHENGXI 4 X 36 T U/D EUROPEANS\nDD 03/2023\nLOGS - BWTS fitted\nMAN-B&W 6S42MC7.2\nSS 06/2022\nIONIC HUNTRESS 34,062 2012 DAE SUN 4 X 30 T USD 19.5 M EUROPEANS\nDD 06/2022\nBWTS fitted\nMAN-B&W 6S42MC\nSS 04/2025\nIRONGATE 28,136 2015 I-S 4 X 30 T RGN USD 18 M FAR EASTERNS\nDD 06/2023\nBWTS fitted\nTA",
+  "summary": "Main\nNEW BUILDING: In tankers this week, clients of Navios Maritime Partners announced ordering four firm 115k dwt LR2 product tankers at K Shipbuilding\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-05-06_clarksons-platou-hellas-snp-weekly-bulletin-17_report-06-05-2022_267c616612da.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2022-05-06_clarksons-platou-hellas-snp-weekly-bulletin-17_report-06-05-2022_267c616612da.pdf\n\n# ` Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 6 May 2022\n\n## BULK CARRIERS\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|SIANA|73,127|1999 HHI|MAN-B&W 5S60MC|SS 06/2024 DD 06/2022|USD 9.2 M|GREEKS|\n|AMOY DREAM|56,874|2010 XIAMEN|MAN-B&W 6S50MC-C 4 X 30 T|SS 07/2025 DD 05/2023|MID USD 17 M|GREEKS|\n|EREDINE|39,855|2014 CHENGXI|Wartsila 5RT-flex50-B 4 X 36 T LOGS-BWTS fitted|SS 05/2024 DD 05/2024|USD 24.5 M|CANADIANS|\n|ERISKAY|39,810|2015 CHENGXI|Wartsila 5RT-flex50-B 4 X 36 T LOGS-BWTS fitted|SS 01/2025 DD 03/2023|U/D|EUROPEANS|\n|IONIC HUNTRESS|34,062|2012 DAE SUN|MAN-B&W 6S42MC7.2 4 X 30 T BWTS fitted|SS 06/2022 DD 06/2022|USD 19.5 M|EUROPEANS|\n|IRONGATE|28,136|2015 I-S|MAN-B&W 6S42MC 4 X 30 T BWTS fitted|SS 04/2",
   "keywords": [
     "lng",
     "lpg",
@@ -17,17 +17,17 @@
     "china",
     "europe",
     "gas",
-    "any",
-    "information",
-    "clarksons",
     "platou",
+    "clarksons",
+    "any",
     "its",
-    "may"
+    "information",
+    "loss"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1879,
-  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-05-06_clarksons-platou-hellas-snp-weekly-bulletin-17.html",
+  "token_count": 2145,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-05-06_clarksons-platou-hellas-snp-weekly-bulletin-17.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-17",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-05-06_clarksons-platou-hellas-snp-weekly-bulletin-17_report-06-05-2022_267c616612da.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-05-06_clarksons-platou-hellas-snp-weekly-bulletin-17_report-06-05-2022_267c616612da.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 6 May 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 06/2024\nSIANA 73,127 1999 HHI MAN-B&W 5S60MC USD 9.2 M GREEKS\nDD 06/2022\nMAN-B&W 6S50MC-C SS 07/2025\nAMOY DREAM 56,874 2010 XIAMEN MID USD 17 M GREEKS\n4 X 30 T DD 05/2023\nWartsila 5RT-flex50-B\nSS 05/2024\nEREDINE 39,855 2014 CHENGXI 4 X 36 T USD 24.5 M CANADIANS\nDD 05/2024\nLOGS - BWTS fitted\nWartsila 5RT-flex50-B\nSS 01/2025\nERISKAY 39,810 2015 CHENGXI 4 X 36 T U/D EUROPEANS\nDD 03/2023\nLOGS - BWTS fitted\nMAN-B&W 6S42MC7.2\nSS 06/2022\nIONIC HUNTRESS 34,062 2012 DAE SUN 4 X 30 T USD 19.5 M EUROPEANS\nDD 06/2022\nBWTS fitted\nMAN-B&W 6S42MC\nSS 04/2025\nIRONGATE 28,136 2015 I-S 4 X 30 T RGN USD 18 M FAR EASTERNS\nDD 06/2023\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 07/2022\nFSL HONG KONG 115,719 2007 SAMSUNG MAN-B&W 6S60MC-C USD 19.4 M CHINESE\nDD 07/2022\nPage 1 of 3\n\n[Page 2]\n1\nSale and Purchase\nHellas S&P Weekly Bulletin 6 May 2022\nNEW BUILDING\nIn tankers this week, clients of Navios ",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-05-06_clarksons-platou-hellas-snp-weekly-bulletin-17_report-06-05-2022_267c616612da.pdf\n\n# ` Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 6 May 2022\n\n## BULK CARRIERS\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|SIANA|73,127|1999 HHI|MAN-B&W 5S60MC|SS 06/2024 DD 06/2022|USD 9.2 M|GREEKS|\n|AMOY DREAM|56,874|2010 XIAMEN|MAN-B&W 6S50MC-C 4 X 30 T|SS 07/2025 DD 05/2023|MID USD 17 M|GREEKS|\n|EREDINE|39,855|2014 CHENGXI|Wartsila 5RT-flex50-B 4 X 36 T LOGS-BWTS fitted|SS 05/2024 DD 05/2024|USD 24.5 M|CANADIANS|\n|ERISKAY|39,810|2015 CHENGXI|Wartsila 5RT-flex50-B 4 X 36 T LOGS-BWTS fitted|SS 01/2025 DD 03/2023|U/D|EUROPEANS|\n|IONIC HUNTRESS|34,062|2012 DAE SUN|MAN-B&W 6S42MC7.2 4 X 30 T BWTS fitted|SS 06/2022 DD 06/2022|USD 19.5 M|EUROPEANS|\n|IRONGATE|28,136|2015 I-S|MAN-B&W 6S42MC 4 X 30 T BWTS fitted|SS 04/2025 DD 06/2023|RGN USD 18 M|FAR EASTERNS|\n\n## <u>TANKERS - CHEMICALS - LPG/LNGs</u>\n\n## VESSEL <u>DWT</u> BLT DETAILS <u>SS/DD</u> PRICE BUYER\n\nSS 07/2022 **FSL HONG KONG** 115,719 2007 SAMSUNG MAN-B&W 6S60MC-C USD 19.4 M CHINESE DD 07/2022\n\n## NEW BUILDING\n\nIn tankers this week, clients of Navios",
       "keywords": [
         "lng",
         "lpg",
@@ -77,12 +77,12 @@
         "china",
         "europe",
         "gas",
-        "any",
-        "information"
+        "platou",
+        "clarksons"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1788,
+      "token_count": 2054,
       "section_type": "linked_pdf",
       "children": []
     }

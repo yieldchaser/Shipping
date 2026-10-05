@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2016_05_06_will_canada_spark_a_tanker_rally__root",
+  "doc_id": "poten_tankers_no_date_poten_2016_05_06_will_canada_spark_a_tanker_rally",
+  "parent_id": null,
+  "title": "Will Canada Spark a Tanker Rally",
+  "section_path": [
+    "Will Canada Spark a Tanker Rally"
+  ],
+  "section_path_text": "Will Canada Spark a Tanker Rally",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "What will be the impact of the wildfires in Alberta? The oil market has been oversupplied for much of the last 18 months, resulting in a significant decline in oil prices. Strong oil demand growth in 2015 was more than offset by supply growth as projects sanctioned during the industry's heyday continued to come onstream.",
+  "keywords": [
+    "capesize",
+    "aframax",
+    "crude_oil",
+    "production",
+    "oil",
+    "fires",
+    "crude",
+    "are",
+    "u.s.",
+    "affected",
+    "crudes",
+    "pipeline"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 784,
+  "source_path": "reports/poten/2016/poten_2016-05-06_will-canada-spark-a-tanker-rally.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_05_06_will_canada_spark_a_tanker_rally__s01_what_will_be_the_impact_of_the_wildfires_in_alberta",
+      "doc_id": "poten_tankers_no_date_poten_2016_05_06_will_canada_spark_a_tanker_rally",
+      "parent_id": "poten_tankers_no_date_poten_2016_05_06_will_canada_spark_a_tanker_rally__root",
+      "title": "What will be the impact of the wildfires in Alberta?",
+      "section_path": [
+        "What will be the impact of the wildfires in Alberta?"
+      ],
+      "section_path_text": "What will be the impact of the wildfires in Alberta?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The oil market has been oversupplied for much of the last 18 months, resulting in a significant decline in oil prices. Strong oil demand growth in 2015 was more than offset by supply growth as projects sanctioned during the industry's heyday continued to come onstream.",
+      "keywords": [
+        "crude_oil",
+        "production",
+        "oil",
+        "fires",
+        "crude",
+        "u.s.",
+        "are",
+        "several"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 516,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_05_06_will_canada_spark_a_tanker_rally__s02_according_to_genscape_an_oil_analysis_firm_that_monitors",
+      "doc_id": "poten_tankers_no_date_poten_2016_05_06_will_canada_spark_a_tanker_rally",
+      "parent_id": "poten_tankers_no_date_poten_2016_05_06_will_canada_spark_a_tanker_rally__root",
+      "title": "According to Genscape, an oil analysis firm that monitors",
+      "section_path": [
+        "According to Genscape, an oil analysis firm that monitors"
+      ],
+      "section_path_text": "According to Genscape, an oil analysis firm that monitors",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "storage and pipeline throughput, crude oil inventories in the region stood at 26.5 million barrels at the end of April, up about 4 million barrels from a year earlier. This suggests that there is ample room to continue supplying the market for a number of days.",
+      "keywords": [
+        "aframax",
+        "crude_oil",
+        "crudes",
+        "crude",
+        "likely",
+        "are",
+        "barrels",
+        "could"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 244,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

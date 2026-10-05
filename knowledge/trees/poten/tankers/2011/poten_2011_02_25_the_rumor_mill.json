@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_02_25_the_rumor_mill__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_02_25_the_rumor_mill",
+  "parent_id": null,
+  "title": "The Rumor Mill",
+  "section_path": [
+    "The Rumor Mill"
+  ],
+  "section_path_text": "The Rumor Mill",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Rumor Mill\nA single act of self immolation in Tunisia over two months ago has been attributed to starting the current blaze of revolution in the Middle East. Details of the \"Jasmine Revolution\" spread quickly, however media reports have been characterized by uncertainty more than anything else. Speculation and hearsay have been broadcasted along with eyewitness accounts, and crude oil markets have seemingly responded to each new nugget of gossip with knee‐jerk reactions.",
+  "keywords": [
+    "meg",
+    "crude_oil",
+    "oil",
+    "saudi",
+    "arabia",
+    "countries",
+    "crude",
+    "per",
+    "arab",
+    "arabian",
+    "markets",
+    "other"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 774,
+  "source_path": "reports/poten/2011/poten_2011-02-25_the-rumor-mill.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_02_25_the_rumor_mill__s01_the_rumor_mill",
+      "doc_id": "poten_tankers_no_date_poten_2011_02_25_the_rumor_mill",
+      "parent_id": "poten_tankers_no_date_poten_2011_02_25_the_rumor_mill__root",
+      "title": "The Rumor Mill",
+      "section_path": [
+        "The Rumor Mill"
+      ],
+      "section_path_text": "The Rumor Mill",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "A single act of self immolation in Tunisia over two months ago has been attributed to starting the current blaze of revolution in the Middle East. Details of the \"Jasmine Revolution\" spread quickly, however media reports have been characterized by uncertainty more than anything else.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "crude",
+        "barrels",
+        "day",
+        "million",
+        "per",
+        "markets"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 235,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_02_25_the_rumor_mill__s02_saudi_arabia",
+      "doc_id": "poten_tankers_no_date_poten_2011_02_25_the_rumor_mill",
+      "parent_id": "poten_tankers_no_date_poten_2011_02_25_the_rumor_mill__root",
+      "title": "Saudi Arabia",
+      "section_path": [
+        "Saudi Arabia"
+      ],
+      "section_path_text": "Saudi Arabia",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Other Arabian Gulf North Africa Other Saudi Arabia's swing capacity is well in excess of Libyan production lost since the onset of the unrest. While providing a modicum of comfort to markets, many concerns remain.",
+      "keywords": [
+        "meg",
+        "arabian",
+        "other",
+        "along",
+        "chart",
+        "countries",
+        "gulf",
+        "north"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 170,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_02_25_the_rumor_mill__s03_gdp_per_capita_usd",
+      "doc_id": "poten_tankers_no_date_poten_2011_02_25_the_rumor_mill",
+      "parent_id": "poten_tankers_no_date_poten_2011_02_25_the_rumor_mill__root",
+      "title": "GDP per Capita (USD)",
+      "section_path": [
+        "GDP per Capita (USD)"
+      ],
+      "section_path_text": "GDP per Capita (USD)",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The states of the Gulf Cooperation Council (GCC), which include Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates, together supplied over 25% percent of the world's crude oil in 2009. The threat of political upheaval in these countries poses varying degrees of risk to international oil supplies.",
+      "keywords": [
+        "crude_oil",
+        "arab",
+        "countries",
+        "oil",
+        "saudi",
+        "arabia",
+        "are",
+        "bahrain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 353,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2004_09_17_opec_quotas_up__root",
+  "doc_id": "poten_tankers_no_date_poten_2004_09_17_opec_quotas_up",
+  "parent_id": null,
+  "title": "OPEC Quotas: Up",
+  "section_path": [
+    "OPEC Quotas: Up"
+  ],
+  "section_path_text": "OPEC Quotas: Up",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "This week's OPEC announcement that it would raise production quotas by one million barrels per day to help stave off high oil prices might have impacted actual production, but not the goal to lower prices. With every OPEC announcement to raise production, some other world event thwarts its intention to reduce oil prices. Could it be that world oil demand is so high that no matter what OPEC does it is like an echo in the Grand Canyon?",
+  "keywords": [
+    "west_africa",
+    "us_gulf",
+    "crude_oil",
+    "production",
+    "oil",
+    "million",
+    "world",
+    "bpd",
+    "its",
+    "are",
+    "demand",
+    "not"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 535,
+  "source_path": "reports/poten/2004/poten_2004-09-17_opec-quotas-up.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_09_17_opec_quotas_up__s01_what_gives",
+      "doc_id": "poten_tankers_no_date_poten_2004_09_17_opec_quotas_up",
+      "parent_id": "poten_tankers_no_date_poten_2004_09_17_opec_quotas_up__root",
+      "title": "What Gives?",
+      "section_path": [
+        "What Gives?"
+      ],
+      "section_path_text": "What Gives?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This week's OPEC announcement that it would raise production quotas by one million barrels per day to help stave off high oil prices might have impacted actual production, but not the goal to lower prices. With every OPEC announcement to raise production, some other world event thwarts its intention to reduce oil prices.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "opec",
+        "production",
+        "announcement",
+        "high",
+        "prices.",
+        "raise"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 89,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_09_17_opec_quotas_up__s02_over",
+      "doc_id": "poten_tankers_no_date_poten_2004_09_17_opec_quotas_up",
+      "parent_id": "poten_tankers_no_date_poten_2004_09_17_opec_quotas_up__root",
+      "title": "Over",
+      "section_path": [
+        "Over"
+      ],
+      "section_path_text": "Over",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "5 MM Bpd in 4 Years!",
+      "keywords": [
+        "bpd",
+        "years"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_09_17_opec_quotas_up__s03_1st_qtr_2004",
+      "doc_id": "poten_tankers_no_date_poten_2004_09_17_opec_quotas_up",
+      "parent_id": "poten_tankers_no_date_poten_2004_09_17_opec_quotas_up__root",
+      "title": "1st Qtr 2004",
+      "section_path": [
+        "1st Qtr 2004"
+      ],
+      "section_path_text": "1st Qtr 2004",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "During the past four years, world oil demand has increased by 5 million bpd to more than 80 million bpd as seen in the graph on the preceding page. OPEC has increased its production steadily since last year to nearly 30 million barrels per day, which meets nearly 40% of the world's oil demand.",
+      "keywords": [
+        "crude_oil",
+        "million",
+        "oil",
+        "bpd",
+        "day",
+        "increased",
+        "nearly",
+        "world"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 87,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_09_17_opec_quotas_up__s04_west_texas_monthly_crude_prices",
+      "doc_id": "poten_tankers_no_date_poten_2004_09_17_opec_quotas_up",
+      "parent_id": "poten_tankers_no_date_poten_2004_09_17_opec_quotas_up__root",
+      "title": "West Texas Monthly Crude Prices",
+      "section_path": [
+        "West Texas Monthly Crude Prices"
+      ],
+      "section_path_text": "West Texas Monthly Crude Prices",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Continued sabotage of Iraqi pipelines, Russia's impoundment of Yukos' assets, and horrendous weather each contribute to supply uncertainty. Even though OPEC production is stable, the rest of the world is not.",
+      "keywords": [
+        "crude_oil",
+        "production",
+        "its",
+        "million",
+        "saudi",
+        "arabia",
+        "world",
+        "bpd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 183,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_09_17_opec_quotas_up__s05_of_production",
+      "doc_id": "poten_tankers_no_date_poten_2004_09_17_opec_quotas_up",
+      "parent_id": "poten_tankers_no_date_poten_2004_09_17_opec_quotas_up__root",
+      "title": "% of Production",
+      "section_path": [
+        "% of Production"
+      ],
+      "section_path_text": "% of Production",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "As world oil demand continues to grow, Saudi Arabia will be less able to contribute to satisfying demand. Next year, one million bpd of Caspian crude are presumed to come through the BTC (Baku-Tbilisi-Ceyhan) pipeline.",
+      "keywords": [
+        "west_africa",
+        "us_gulf",
+        "crude_oil",
+        "are",
+        "oil",
+        "bpd",
+        "but",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 143,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

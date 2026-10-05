@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2026_05_29_chinas_balancing_act__root",
+  "doc_id": "poten_tankers_no_date_poten_2026_05_29_chinas_balancing_act",
+  "parent_id": null,
+  "title": "Chinas Balancing Act",
+  "section_path": [
+    "Chinas Balancing Act"
+  ],
+  "section_path_text": "Chinas Balancing Act",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "China holds the key to the tanker market\nChina is by far the largest crude oil importer in the world, most of it seaborne. Over the last 10 years, China's seaborne imports grew from 6.9 Million barrels per day (Mb/d) in 2016 to 10.6 Mb/d in 2025, an average increase of 5% per year. This upward trend continued in the early months of 2026, until the closure of the Strait of Hormuz started to impact China's import levels.",
+  "keywords": [
+    "vlcc",
+    "aframax",
+    "china",
+    "brazil",
+    "atlantic",
+    "west_africa",
+    "crude_oil",
+    "oil",
+    "imports",
+    "chinese",
+    "crude",
+    "million"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 967,
+  "source_path": "reports/poten/2026/poten_2026-05-29_chinas-balancing-act.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2026_05_29_chinas_balancing_act__s01_china_holds_the_key_to_the_tanker_market",
+      "doc_id": "poten_tankers_no_date_poten_2026_05_29_chinas_balancing_act",
+      "parent_id": "poten_tankers_no_date_poten_2026_05_29_chinas_balancing_act__root",
+      "title": "China holds the key to the tanker market",
+      "section_path": [
+        "China holds the key to the tanker market"
+      ],
+      "section_path_text": "China holds the key to the tanker market",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "China is by far the largest crude oil importer in the world, most of it seaborne. Over the last 10 years, China's seaborne imports grew from 6.9 Million barrels per day (Mb/d) in 2016 to 10.6 Mb/d in 2025, an average increase of 5% per year.",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "china",
+        "brazil",
+        "atlantic",
+        "west_africa",
+        "crude_oil",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 958,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

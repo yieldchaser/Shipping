@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2023_02_03_the_only_constant_is_change__root",
+  "doc_id": "poten_tankers_no_date_poten_2023_02_03_the_only_constant_is_change",
+  "parent_id": null,
+  "title": "The Only Constant is Change",
+  "section_path": [
+    "The Only Constant is Change"
+  ],
+  "section_path_text": "The Only Constant is Change",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Global dirty trade routes-reshuffle again in 2022\nThis is our third edition of Poten's ranking of the Top 20 Global Dirty Trade Routes (covering both crude oil and dirty products). The last two editions (2020 and 2021) showed significant changes in various trade routes and this year is no different. While the global Covid-19 pandemic was the main driver of the changes in 2020 and 2021, the Russian invasion of Ukraine was the catalyst of many of the changes last year.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "brazil",
+    "atlantic",
+    "west_africa",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "gas"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 868,
+  "source_path": "reports/poten/2023/poten_2023-02-03_the-only-constant-is-change.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2023_02_03_the_only_constant_is_change__s01_global_dirty_trade_routes_reshuffle_again_in_2022",
+      "doc_id": "poten_tankers_no_date_poten_2023_02_03_the_only_constant_is_change",
+      "parent_id": "poten_tankers_no_date_poten_2023_02_03_the_only_constant_is_change__root",
+      "title": "Global dirty trade routes-reshuffle again in 2022",
+      "section_path": [
+        "Global dirty trade routes-reshuffle again in 2022"
+      ],
+      "section_path_text": "Global dirty trade routes-reshuffle again in 2022",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This is our third edition of Poten's ranking of the Top 20 Global Dirty Trade Routes (covering both crude oil and dirty products). The last two editions (2020 and 2021) showed significant changes in various trade routes and this year is no different.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "brazil",
+        "atlantic",
+        "west_africa",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 855,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

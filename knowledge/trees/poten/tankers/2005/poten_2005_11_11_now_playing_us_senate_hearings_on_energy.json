@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_11_11_now_playing_us_senate_hearings_on_energy__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_11_11_now_playing_us_senate_hearings_on_energy",
+  "parent_id": null,
+  "title": "Now Playing: \\\"U.S. Senate Hearings on Energy",
+  "section_path": [
+    "Now Playing: \\\"U.S. Senate Hearings on Energy"
+  ],
+  "section_path_text": "Now Playing: \\\"U.S. Senate Hearings on Energy",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Senate Hearings on Energy\nThis past week, the U.S. Senate Committee on Commerce, Science and Transportation along with the Senate Committee on Energy and Natural Resources held a joint and public hearing on energy pricing and profits. Each committee has 22 members for a total of 44 senators drawn together to cross examine five top executives from ExxonMobil, Chevron, ConocoPhillips, BP America, and Shell Oil.",
+  "keywords": [
+    "crude_oil",
+    "products",
+    "gas",
+    "energy",
+    "was",
+    "gasoline",
+    "prices",
+    "hearing",
+    "increased",
+    "oil",
+    "are",
+    "can"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 699,
+  "source_path": "reports/poten/2005/poten_2005-11-11_now-playing-us-senate-hearings-on-energy.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_11_11_now_playing_us_senate_hearings_on_energy__s01_now_playing_u_s_senate_hearings_on_energy",
+      "doc_id": "poten_tankers_no_date_poten_2005_11_11_now_playing_us_senate_hearings_on_energy",
+      "parent_id": "poten_tankers_no_date_poten_2005_11_11_now_playing_us_senate_hearings_on_energy__root",
+      "title": "Now Playing: \"U.S. Senate Hearings on Energy",
+      "section_path": [
+        "Now Playing: \"U.S. Senate Hearings on Energy"
+      ],
+      "section_path_text": "Now Playing: \"U.S. Senate Hearings on Energy",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Senate Committee on Commerce, Science and Transportation along with the Senate Committee on Energy and Natural Resources held a joint and public hearing on energy pricing and profits. Each committee has 22 members for a total of 44 senators drawn together to cross examine five top executives from ExxonMobil, Chevron, ConocoPhillips, BP America, and Shell Oil.",
+      "keywords": [
+        "crude_oil",
+        "committee",
+        "energy",
+        "senate",
+        "addressing",
+        "along",
+        "america",
+        "chevron"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 99,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_11_11_now_playing_us_senate_hearings_on_energy__s02_chart_did_the_oil_companies_fail_to_add_refining_capacity",
+      "doc_id": "poten_tankers_no_date_poten_2005_11_11_now_playing_us_senate_hearings_on_energy",
+      "parent_id": "poten_tankers_no_date_poten_2005_11_11_now_playing_us_senate_hearings_on_energy__root",
+      "title": "Chart: Ø Did the oil companies fail to add refining capacity?",
+      "section_path": [
+        "Chart: Ø Did the oil companies fail to add refining capacity?"
+      ],
+      "section_path_text": "Chart: Ø Did the oil companies fail to add refining capacity?",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Ø Are the oil companies making enough progress in exploration? The actual impact of the hearings was for those involved to have a chance to display a fairly thorough misunderstanding of the fundamental economic laws of supply and demand, the world oil markets, and the role of oil companies in dealing with the challenges of the energy business.",
+      "keywords": [
+        "crude_oil",
+        "energy",
+        "prices",
+        "was",
+        "hearing",
+        "high",
+        "oil",
+        "really"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 266,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_11_11_now_playing_us_senate_hearings_on_energy__s03_u_s_gasoline_consumption_retail_price",
+      "doc_id": "poten_tankers_no_date_poten_2005_11_11_now_playing_us_senate_hearings_on_energy",
+      "parent_id": "poten_tankers_no_date_poten_2005_11_11_now_playing_us_senate_hearings_on_energy__root",
+      "title": "U.S. Gasoline Consumption & Retail Price",
+      "section_path": [
+        "U.S. Gasoline Consumption & Retail Price"
+      ],
+      "section_path_text": "U.S. Gasoline Consumption & Retail Price",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "$/Gallon Gasoline Consumption For those who live and work in such places as Houston, Los Angeles, New York, Fairfax, you have probably not noticed a significant reduction in commuting times. The incremental cost of gasoline has gone up by about $20 per week (30 miles each way to work at 15 miles to the gallon for a SUV; a $1 dollar increase in gasoline prices translates to $4 per day round trip in extra commuting expenses.) This incremental $80 per month is nominal when compared to the increased mortgage payments that have resulted from rising interest rates caused by the looming deficits by the federal government and increased taxes thanks to the Alternative Minimum Tax.",
+      "keywords": [
+        "products",
+        "gas",
+        "gasoline",
+        "increased",
+        "can",
+        "per",
+        "work",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 298,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

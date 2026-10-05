@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2018_08_17_indonesia_talks_turkey__root",
+  "doc_id": "poten_tankers_no_date_poten_2018_08_17_indonesia_talks_turkey",
+  "parent_id": null,
+  "title": "Indonesia Talks Turkey",
+  "section_path": [
+    "Indonesia Talks Turkey"
+  ],
+  "section_path_text": "Indonesia Talks Turkey",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Key Asian producer wants to keep its oil in the country\nThe financial crisis in Turkey has created sharp fluctuations in the value of the Turkish Lira and a general weakening of emerging market currencies over the last two weeks. One of the countries that is affected is Indonesia, a large oil producer in Asia. Indonesia, which faces a significant (and growing) current account deficit, has seen its currency weaken significantly this year.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "australia",
+    "atlantic",
+    "pacific",
+    "meg",
+    "west_africa",
+    "singapore",
+    "crude_oil",
+    "indonesia"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 868,
+  "source_path": "reports/poten/2018/poten_2018-08-17_indonesia-talks-turkey.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_08_17_indonesia_talks_turkey__s01_key_asian_producer_wants_to_keep_its_oil_in_the_country",
+      "doc_id": "poten_tankers_no_date_poten_2018_08_17_indonesia_talks_turkey",
+      "parent_id": "poten_tankers_no_date_poten_2018_08_17_indonesia_talks_turkey__root",
+      "title": "Key Asian producer wants to keep its oil in the country",
+      "section_path": [
+        "Key Asian producer wants to keep its oil in the country"
+      ],
+      "section_path_text": "Key Asian producer wants to keep its oil in the country",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The financial crisis in Turkey has created sharp fluctuations in the value of the Turkish Lira and a general weakening of emerging market currencies over the last two weeks. One of the countries that is affected is Indonesia, a large oil producer in Asia.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "australia",
+        "atlantic",
+        "pacific",
+        "meg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 856,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

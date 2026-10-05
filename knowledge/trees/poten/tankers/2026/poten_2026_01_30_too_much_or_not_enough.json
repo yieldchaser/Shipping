@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2026_01_30_too_much_or_not_enough__root",
+  "doc_id": "poten_tankers_no_date_poten_2026_01_30_too_much_or_not_enough",
+  "parent_id": null,
+  "title": "Too Much Or Not Enough",
+  "section_path": [
+    "Too Much Or Not Enough"
+  ],
+  "section_path_text": "Too Much Or Not Enough",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "A growing tanker orderbook starts an age-old discussion\nLast week, in our annual forecasting opinion (\" A Fool's Game? \"), we prognosticated that the tanker orderbook will decline in 2026. We are still early in the year, but the headlines from many of the trade publications seem to indicate that this may not happen.",
+  "keywords": [
+    "vlcc",
+    "crude_oil",
+    "are",
+    "fleet",
+    "owners",
+    "orderbook",
+    "periods",
+    "high",
+    "newbuildings",
+    "not",
+    "recent",
+    "secondhand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 875,
+  "source_path": "reports/poten/2026/poten_2026-01-30_too-much-or-not-enough.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2026_01_30_too_much_or_not_enough__s01_a_growing_tanker_orderbook_starts_an_age_old_discussion",
+      "doc_id": "poten_tankers_no_date_poten_2026_01_30_too_much_or_not_enough",
+      "parent_id": "poten_tankers_no_date_poten_2026_01_30_too_much_or_not_enough__root",
+      "title": "A growing tanker orderbook starts an age-old discussion",
+      "section_path": [
+        "A growing tanker orderbook starts an age-old discussion"
+      ],
+      "section_path_text": "A growing tanker orderbook starts an age-old discussion",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Last week, in our annual forecasting opinion (\" A Fool's Game? \"), we prognosticated that the tanker orderbook will decline in 2026.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "are",
+        "fleet",
+        "owners",
+        "periods",
+        "high",
+        "newbuildings"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 864,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

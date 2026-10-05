@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2018_07_06_sanctions_extreme_edition__root",
+  "doc_id": "poten_tankers_no_date_poten_2018_07_06_sanctions_extreme_edition",
+  "parent_id": null,
+  "title": "Sanctions Extreme Edition",
+  "section_path": [
+    "Sanctions Extreme Edition"
+  ],
+  "section_path_text": "Sanctions Extreme Edition",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "sanctions are reducing Iran exports close to zero? Most analysts, including ourselves in our Weekly Opinion of May 11 (\" Iran Sanctions Snap Back \"), expected the reduction in Iranian export to be gradual and limited. We thought the reduction could eventually reach 500-600,000 b/d (from an average of 2.6 mb/d in 2018 YTD down to 2.0 - 2.1 mb/d).",
+  "keywords": [
+    "china",
+    "india",
+    "japan",
+    "crude_oil",
+    "are",
+    "iranian",
+    "u.s.",
+    "iran",
+    "oil",
+    "b/d",
+    "exports",
+    "sanctions"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 866,
+  "source_path": "reports/poten/2018/poten_2018-07-06_sanctions-extreme-edition.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_07_06_sanctions_extreme_edition__s01_what_if_u_s_sanctions_are_reducing_iran_exports_close_to_zero",
+      "doc_id": "poten_tankers_no_date_poten_2018_07_06_sanctions_extreme_edition",
+      "parent_id": "poten_tankers_no_date_poten_2018_07_06_sanctions_extreme_edition__root",
+      "title": "What if U.S. sanctions are reducing Iran exports close to zero?",
+      "section_path": [
+        "What if U.S. sanctions are reducing Iran exports close to zero?"
+      ],
+      "section_path_text": "What if U.S. sanctions are reducing Iran exports close to zero?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Most analysts, including ourselves in our Weekly Opinion of May 11 (\" Iran Sanctions Snap Back \"), expected the reduction in Iranian export to be gradual and limited. We thought the reduction could eventually reach 500-600,000 b/d (from an average of 2.6 mb/d in 2018 YTD down to 2.0 - 2.1 mb/d).",
+      "keywords": [
+        "china",
+        "india",
+        "japan",
+        "crude_oil",
+        "are",
+        "iranian",
+        "u.s.",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 852,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

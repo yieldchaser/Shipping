@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2012_04_20_removing_bottlenecks__root",
+  "doc_id": "poten_tankers_no_date_poten_2012_04_20_removing_bottlenecks",
+  "parent_id": null,
+  "title": "Removing Bottlenecks",
+  "section_path": [
+    "Removing Bottlenecks"
+  ],
+  "section_path_text": "Removing Bottlenecks",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Removing Bottlenecks\nThe main culprit behind the recent uncharacteristically deep discount of West Texas Intermediate's (WTI) price compared to Brent is the rapid rise of domestic and Canadian oil flows into Cushing, Oklahoma. Faced with costly and constricted transportation routes out of the Cushing terminal, crude oil producers rely on price discounts to make these typically light, low sulfur oils attractive. Helping to ease the cost of moving inland crude oil to US Gulf Coast markets is the flow reversal of the Seaway pipeline that is scheduled for completion this coming May.",
+  "keywords": [
+    "suezmax",
+    "meg",
+    "west_africa",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "gas",
+    "oil",
+    "gulf",
+    "coast",
+    "crude",
+    "flows"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 681,
+  "source_path": "reports/poten/2012/poten_2012-04-20_removing-bottlenecks.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_04_20_removing_bottlenecks__s01_removing_bottlenecks",
+      "doc_id": "poten_tankers_no_date_poten_2012_04_20_removing_bottlenecks",
+      "parent_id": "poten_tankers_no_date_poten_2012_04_20_removing_bottlenecks__root",
+      "title": "Removing Bottlenecks",
+      "section_path": [
+        "Removing Bottlenecks"
+      ],
+      "section_path_text": "Removing Bottlenecks",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The main culprit behind the recent uncharacteristically deep discount of West Texas Intermediate's (WTI) price compared to Brent is the rapid rise of domestic and Canadian oil flows into Cushing, Oklahoma. Faced with costly and constricted transportation routes out of the Cushing terminal, crude oil producers rely on price discounts to make these typically light, low sulfur oils attractive.",
+      "keywords": [
+        "meg",
+        "west_africa",
+        "us_gulf",
+        "crude_oil",
+        "oil",
+        "gulf",
+        "coast",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 305,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_04_20_removing_bottlenecks__s02_crude_oil_imports",
+      "doc_id": "poten_tankers_no_date_poten_2012_04_20_removing_bottlenecks",
+      "parent_id": "poten_tankers_no_date_poten_2012_04_20_removing_bottlenecks__root",
+      "title": "Crude Oil Imports",
+      "section_path": [
+        "Crude Oil Imports"
+      ],
+      "section_path_text": "Crude Oil Imports",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The following chart reveals that current Gulf Coast refinery operations are geared towards squeezing more distillate and less gasoline from the crude oil they process .",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "are",
+        "chart",
+        "coast",
+        "crude",
+        "current"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 28,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_04_20_removing_bottlenecks__s03_volume_percent",
+      "doc_id": "poten_tankers_no_date_poten_2012_04_20_removing_bottlenecks",
+      "parent_id": "poten_tankers_no_date_poten_2012_04_20_removing_bottlenecks__root",
+      "title": "Volume Percent",
+      "section_path": [
+        "Volume Percent"
+      ],
+      "section_path_text": "Volume Percent",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Compared to WTI-like oil from Cushing, West African ones typically contain more distillate, and less gasoline-making naphtha. Hence, the product yield characteristics of West Africa's oil better fit the current product output targets of most of the area's refiners.",
+      "keywords": [
+        "suezmax",
+        "west_africa",
+        "us_gulf",
+        "crude_oil",
+        "products",
+        "gas",
+        "oil",
+        "coast"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 334,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

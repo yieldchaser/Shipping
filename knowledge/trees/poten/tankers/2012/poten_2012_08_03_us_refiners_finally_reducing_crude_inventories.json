@@ -1,0 +1,416 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories__root",
+  "doc_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories",
+  "parent_id": null,
+  "title": "US Refiners Finally Reducing Crude Inventories",
+  "section_path": [
+    "US Refiners Finally Reducing Crude Inventories"
+  ],
+  "section_path_text": "US Refiners Finally Reducing Crude Inventories",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "domestic production\nAccording to monthly data and weekly estimates from the Energy Information Administration (EIA), US domestic crude production continues to surge higher on increasing drilling activity. Meanwhile, US refiners are finally beginning to draw their crude stocks lower, from multi-year peaks, on higher crude runs and moderately-lower crude imports. This continuing dynamic would imply sharply lower crude imports for the remainder of 2012, to levels not seen since 1997.",
+  "keywords": [
+    "crude_oil",
+    "gas",
+    "crude",
+    "production",
+    "oil",
+    "kbpd",
+    "stocks",
+    "yoy",
+    "above",
+    "q12",
+    "would",
+    "imports"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1009,
+  "source_path": "reports/poten/2012/poten_2012-08-03_us-refiners-finally-reducing-crude-inventories.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories__s01_domestic_production",
+      "doc_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories",
+      "parent_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories__root",
+      "title": "domestic production",
+      "section_path": [
+        "domestic production"
+      ],
+      "section_path_text": "domestic production",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "According to monthly data and weekly estimates from the Energy Information Administration (EIA), US domestic crude production continues to surge higher on increasing drilling activity. Meanwhile, US refiners are finally beginning to draw their crude stocks lower, from multi-year peaks, on higher crude runs and moderately-lower crude imports.",
+      "keywords": [
+        "crude",
+        "higher",
+        "lower",
+        "according",
+        "activity.",
+        "administration",
+        "are",
+        "beginning"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 86,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories__s02_us_crude_stocks",
+      "doc_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories",
+      "parent_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories__root",
+      "title": "US Crude stocks",
+      "section_path": [
+        "US Crude stocks"
+      ],
+      "section_path_text": "US Crude stocks",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "declining despite higher domestic production Unattractive natural gas prices have shifted exploration towards wet gas and shale oil, and the surge in the oil rig count has driven an exponential rise in tight oil production. As shown in the chart below, crude oil production has jumped massively in four states that could serve as a proxy for tight oil production -- North Dakota (Bakken), Colorado/Wyoming (Niobrara) and onshore Texas (Eagle Ford, Austin Chalk).",
+      "keywords": [
+        "crude_oil",
+        "gas",
+        "oil",
+        "production",
+        "tight",
+        "austin",
+        "bakken",
+        "below"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 97,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories__s03_massive_shift_in_rig",
+      "doc_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories",
+      "parent_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories__root",
+      "title": "Massive shift in rig",
+      "section_path": [
+        "Massive shift in rig"
+      ],
+      "section_path_text": "Massive shift in rig",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "activity to oil is driving surge in shale oil output",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "activity",
+        "driving",
+        "output",
+        "shale",
+        "surge"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 10,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories__s04_yoy_change_kbpd",
+      "doc_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories",
+      "parent_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories__root",
+      "title": "yoy Change, kbpd",
+      "section_path": [
+        "yoy Change, kbpd"
+      ],
+      "section_path_text": "yoy Change, kbpd",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "1q02 1q04 1q06 1q08 1q10 1q12",
+      "keywords": [
+        "q02",
+        "q04",
+        "q06",
+        "q08",
+        "q10",
+        "q12"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 23,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories__s05_tx_nd_co_wy_oil_prodn_rhs",
+      "doc_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories",
+      "parent_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories__root",
+      "title": "TX/ND/CO/WY Oil Prodn (rhs)",
+      "section_path": [
+        "TX/ND/CO/WY Oil Prodn (rhs)"
+      ],
+      "section_path_text": "TX/ND/CO/WY Oil Prodn (rhs)",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "",
+      "keywords": [
+        "crude_oil",
+        "count",
+        "lhs",
+        "oil",
+        "rig"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories__s06_us_crude_production",
+      "doc_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories",
+      "parent_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories__root",
+      "title": "US crude production",
+      "section_path": [
+        "US crude production"
+      ],
+      "section_path_text": "US crude production",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "",
+      "keywords": [
+        "gains",
+        "kbpd",
+        "nearing"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories__s07_recent_rig_activity",
+      "doc_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories",
+      "parent_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories__root",
+      "title": "Recent rig activity",
+      "section_path": [
+        "Recent rig activity"
+      ],
+      "section_path_text": "Recent rig activity",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "suggests additional rises in crude production",
+      "keywords": [
+        "additional",
+        "crude",
+        "production",
+        "rises",
+        "suggests"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories__s08_crude_stocks_hit_22_year",
+      "doc_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories",
+      "parent_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories__root",
+      "title": "Crude stocks hit 22-year",
+      "section_path": [
+        "Crude stocks hit 22-year"
+      ],
+      "section_path_text": "Crude stocks hit 22-year",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "",
+      "keywords": [
+        "highs",
+        "june"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories__s09_and_have_declined_in",
+      "doc_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories",
+      "parent_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories__root",
+      "title": "And have declined in",
+      "section_path": [
+        "And have declined in"
+      ],
+      "section_path_text": "And have declined in",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "seasonal pattern on higher crude runs",
+      "keywords": [
+        "crude",
+        "higher",
+        "pattern",
+        "runs",
+        "seasonal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories__s10_refinery_utilisations_hit",
+      "doc_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories",
+      "parent_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories__root",
+      "title": "Refinery utilisations hit",
+      "section_path": [
+        "Refinery utilisations hit"
+      ],
+      "section_path_text": "Refinery utilisations hit",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "92.3% in July, while crude imports fell 410 kbpd yoy",
+      "keywords": [
+        "crude",
+        "fell",
+        "imports",
+        "july",
+        "kbpd",
+        "yoy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 17,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories__s11_u_s_crude_oil_inventories",
+      "doc_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories",
+      "parent_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories__root",
+      "title": "U.S. Crude Oil Inventories",
+      "section_path": [
+        "U.S. Crude Oil Inventories"
+      ],
+      "section_path_text": "U.S. Crude Oil Inventories",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "subsequent data revisions by the EIA could show higher productions. Also with the national oil rig count rising to 1,429 this week, according to Baker Hughes - versus the 1,368 rig second quarter average shown in the chart - production numbers should continue to rise.",
+      "keywords": [
+        "crude_oil",
+        "gas",
+        "crude",
+        "above",
+        "production",
+        "stocks",
+        "average",
+        "days"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 426,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories__s12_forecast_for_crude_stocks",
+      "doc_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories",
+      "parent_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories__root",
+      "title": "Forecast for crude stocks",
+      "section_path": [
+        "Forecast for crude stocks"
+      ],
+      "section_path_text": "Forecast for crude stocks",
+      "level": 1,
+      "ordinal": 12,
+      "summary": "to stay 8.4% above historical averages The impact on crude imports could be dramatic under a moderate refining environment. Refinery utilisation forecasts of 91.7% in 3q12 and 86.9% during 4q12 would represent a 1.3 percentage point yoy improvement in utilisations during 2h12 and are close to EIA estimates.",
+      "keywords": [
+        "would",
+        "during",
+        "yoy",
+        "crude",
+        "imports",
+        "kbpd",
+        "q12",
+        "h12"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 193,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories__s13_yet_crude_imports_would",
+      "doc_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories",
+      "parent_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories__root",
+      "title": "Yet crude imports would",
+      "section_path": [
+        "Yet crude imports would"
+      ],
+      "section_path_text": "Yet crude imports would",
+      "level": 1,
+      "ordinal": 13,
+      "summary": "need to plunge by 1 mbpd yoy in 4q12",
+      "keywords": [
+        "mbpd",
+        "need",
+        "plunge",
+        "q12",
+        "yoy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories__s14_inventory_adjustment",
+      "doc_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories",
+      "parent_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories__root",
+      "title": "Inventory adjustment",
+      "section_path": [
+        "Inventory adjustment"
+      ],
+      "section_path_text": "Inventory adjustment",
+      "level": 1,
+      "ordinal": 14,
+      "summary": "",
+      "keywords": [
+        "accelerate",
+        "q12",
+        "would"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories__s15_delay_of_crude_import",
+      "doc_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories",
+      "parent_id": "poten_tankers_no_date_poten_2012_08_03_us_refiners_finally_reducing_crude_inventories__root",
+      "title": "Delay of crude import",
+      "section_path": [
+        "Delay of crude import"
+      ],
+      "section_path_text": "Delay of crude import",
+      "level": 1,
+      "ordinal": 15,
+      "summary": "",
+      "keywords": [
+        "adjustment",
+        "may",
+        "painful"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

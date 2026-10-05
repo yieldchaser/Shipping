@@ -1,0 +1,174 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_04_29_bottoms_on_bottoms__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_04_29_bottoms_on_bottoms",
+  "parent_id": null,
+  "title": "Bottoms on Bottoms!",
+  "section_path": [
+    "Bottoms on Bottoms!"
+  ],
+  "section_path_text": "Bottoms on Bottoms!",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Transporting Fuel Oil from Europe to the Far East\nThis week's report is based on a speech by Larry Axelrod of Poten & Partners on Transporting Fuel Oil from Europe to the Far East . The speech was made at the IPE/Confidence Conference on Fuel Oil and Heating Oil - Processing, Trading, Transportation in Antwerp, Belgium, on April 21-23. Russian Fuel Oil Exports Skyrocketing Russian seaborne exports of fuel oil from Baltic and Black Sea ports have nearly tripled from 15.8 million tons in 1998 to 43.2 million tons in 2004.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "europe",
+    "crude_oil",
+    "gas",
+    "oil",
+    "fuel",
+    "far",
+    "sea",
+    "east"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 525,
+  "source_path": "reports/poten/2005/poten_2005-04-29_bottoms-on-bottoms.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_04_29_bottoms_on_bottoms__s01_transporting_fuel_oil_from_europe_to_the_far_east",
+      "doc_id": "poten_tankers_no_date_poten_2005_04_29_bottoms_on_bottoms",
+      "parent_id": "poten_tankers_no_date_poten_2005_04_29_bottoms_on_bottoms__root",
+      "title": "Transporting Fuel Oil from Europe to the Far East",
+      "section_path": [
+        "Transporting Fuel Oil from Europe to the Far East"
+      ],
+      "section_path_text": "Transporting Fuel Oil from Europe to the Far East",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This week's report is based on a speech by Larry Axelrod of Poten & Partners on Transporting Fuel Oil from Europe to the Far East . The speech was made at the IPE/Confidence Conference on Fuel Oil and Heating Oil - Processing, Trading, Transportation in Antwerp, Belgium, on April 21-23.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "oil",
+        "fuel",
+        "exports",
+        "million",
+        "russian",
+        "speech"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 116,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_04_29_bottoms_on_bottoms__s02_black_sea",
+      "doc_id": "poten_tankers_no_date_poten_2005_04_29_bottoms_on_bottoms",
+      "parent_id": "poten_tankers_no_date_poten_2005_04_29_bottoms_on_bottoms__root",
+      "title": "Black Sea",
+      "section_path": [
+        "Black Sea"
+      ],
+      "section_path_text": "Black Sea",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Baltic Sea The surge in fuel oil exports stems primarily from the substitution of natural gas for fuel oil in Russia. Over 70% of Russian fuel oil exports are from the Baltic Sea, with key exporting ports being Ventspils (Latvia), Klaipeda (Lithuania), Tallinn (Estonia), and St.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "europe",
+        "crude_oil",
+        "gas",
+        "fuel",
+        "oil",
+        "sea"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 204,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_04_29_bottoms_on_bottoms__s03_imports",
+      "doc_id": "poten_tankers_no_date_poten_2005_04_29_bottoms_on_bottoms",
+      "parent_id": "poten_tankers_no_date_poten_2005_04_29_bottoms_on_bottoms__root",
+      "title": "Imports",
+      "section_path": [
+        "Imports"
+      ],
+      "section_path_text": "Imports",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Domestic Supply The following chart shows the annual growth in fuel oil fixtures in Aframaxes, Suezmaxes, and VLCCs from Europe to the Far East.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "europe",
+        "crude_oil",
+        "aframaxes",
+        "annual",
+        "chart"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 35,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_04_29_bottoms_on_bottoms__s04_spot_fuel_oil_fixtures_europe_to_far_east",
+      "doc_id": "poten_tankers_no_date_poten_2005_04_29_bottoms_on_bottoms",
+      "parent_id": "poten_tankers_no_date_poten_2005_04_29_bottoms_on_bottoms__root",
+      "title": "Spot Fuel Oil Fixtures Europe to Far East",
+      "section_path": [
+        "Spot Fuel Oil Fixtures Europe to Far East"
+      ],
+      "section_path_text": "Spot Fuel Oil Fixtures Europe to Far East",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "While all tanker classes have benefited from the rising movement of fuel oil from Russia to China, the proportion of cargoes carried in larger-sized classes has been growing. For instance, VLCCs carried 39% of the volume of fuel oil in 2002 and 54% in 2004.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "crude_oil",
+        "carried",
+        "classes",
+        "fuel",
+        "oil",
+        "all"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 61,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_04_29_bottoms_on_bottoms__s05_and_of_the_future",
+      "doc_id": "poten_tankers_no_date_poten_2005_04_29_bottoms_on_bottoms",
+      "parent_id": "poten_tankers_no_date_poten_2005_04_29_bottoms_on_bottoms__root",
+      "title": "And of the Future?",
+      "section_path": [
+        "And of the Future?"
+      ],
+      "section_path_text": "And of the Future?",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "As long as China's economy keeps growing, even at a more subdued rate, fuel oil can be expected to continue to move in large quantities from Europe to the Far East over the coming years. For the complete text of Larry's speech, please contact Ms.",
+      "keywords": [
+        "china",
+        "europe",
+        "crude_oil",
+        "can",
+        "coming",
+        "complete",
+        "contact",
+        "continue"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 78,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

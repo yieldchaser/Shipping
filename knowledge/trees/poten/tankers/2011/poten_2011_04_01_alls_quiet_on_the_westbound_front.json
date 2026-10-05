@@ -1,0 +1,360 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front",
+  "parent_id": null,
+  "title": "All's Quiet on the Westbound Front",
+  "section_path": [
+    "All's Quiet on the Westbound Front"
+  ],
+  "section_path_text": "All's Quiet on the Westbound Front",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "All's Quiet on the Westbound Front\nWhile the role of the United States as the largest crude oil consumer should not be understated, a change in supply logistics has over time led to a decline in significance of what was once a prominent tanker trade. In 2011 to‐date, VLCC rates from the Arabian Gulf to the US Gulf have hardly come up for air at a time when rates to points East from varying load areas have stabilized at more palatable levels to shipowners. Over time, the discount applied to voyages west has increased largely due to the rise in Atlantic loading opportunities to meet heightened eastern demand.",
+  "keywords": [
+    "vlcc",
+    "brazil",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "india",
+    "us_gulf",
+    "crude_oil",
+    "gulf",
+    "arabian",
+    "voyage",
+    "west"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 950,
+  "source_path": "reports/poten/2011/poten_2011-04-01_alls-quiet-on-the-westbound-front.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front__s01_all_s_quiet_on_the_westbound_front",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front__root",
+      "title": "All's Quiet on the Westbound Front",
+      "section_path": [
+        "All's Quiet on the Westbound Front"
+      ],
+      "section_path_text": "All's Quiet on the Westbound Front",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "While the role of the United States as the largest crude oil consumer should not be understated, a change in supply logistics has over time led to a decline in significance of what was once a prominent tanker trade. In 2011 to‐date, VLCC rates from the Arabian Gulf to the US Gulf have hardly come up for air at a time when rates to points East from varying load areas have stabilized at more palatable levels to shipowners.",
+      "keywords": [
+        "vlcc",
+        "atlantic",
+        "meg",
+        "us_gulf",
+        "crude_oil",
+        "gulf",
+        "arabian",
+        "time"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 170,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front__s02_westbound_discount",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front__root",
+      "title": "Westbound Discount",
+      "section_path": [
+        "Westbound Discount"
+      ],
+      "section_path_text": "Westbound Discount",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Average for 2‐Year Period The long‐term average rate since 2000 for the Arabian Gulf - East voyage is $49,400 per day, while Arabian Gulf - West is $31,900 per day. The current context for Arabian Gulf - West returns on a time charter equivalent basis ‐$4,600 per day when calculated on a roundtrip basis.",
+      "keywords": [
+        "brazil",
+        "meg",
+        "arabian",
+        "gulf",
+        "per",
+        "west",
+        "average",
+        "current"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 132,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front__s03_eastbound_not_down",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front__root",
+      "title": "Eastbound, Not Down",
+      "section_path": [
+        "Eastbound, Not Down"
+      ],
+      "section_path_text": "Eastbound, Not Down",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "These days, is not uncommon to see rates Arabian Gulf to the US Gulf at negative time charter equivalent (TCE) levels as shipowners are simply looking for repositioning cargoes that bring their vessels to the Atlantic Basin. The volume of VLCC spot fixtures going from load ports in the Atlantic Basin ‐ namely West Africa, the Caribbean, and the east coast of South America ‐ to discharge ports in the Far East, Southeast Asia, and India has increased significantly in proportion to the traditional Arabian Gulf to United States trade.",
+      "keywords": [
+        "vlcc",
+        "brazil",
+        "atlantic",
+        "meg",
+        "west_africa",
+        "india",
+        "us_gulf",
+        "gulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 147,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front__s04_chart_vlcc_fixtures_by_trade_lane",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front__root",
+      "title": "Chart: VLCC Fixtures by Trade Lane",
+      "section_path": [
+        "Chart: VLCC Fixtures by Trade Lane"
+      ],
+      "section_path_text": "Chart: VLCC Fixtures by Trade Lane",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "2005 2006 2007 2008 2009 2010 2011 YTD",
+      "keywords": [
+        "ytd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 22,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front__s05_ag_usa",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front__root",
+      "title": "AG ‐ USA",
+      "section_path": [
+        "AG ‐ USA"
+      ],
+      "section_path_text": "AG ‐ USA",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Atlantic Basin ‐ East There has been a general shift in the market towards Atlantic Basin crudes moving to eastern destinations. This indicates that there is ample opportunity for owners to take advantage of the more attractive economics of a triangulation voyage in which a ship picks up a second \"backhaul\" cargo instead of returning to its original load port in ballast.",
+      "keywords": [
+        "brazil",
+        "atlantic",
+        "meg",
+        "west_africa",
+        "days",
+        "earnings",
+        "voyage",
+        "backhaul"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 236,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front__s06_voyage_2",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front__root",
+      "title": "Voyage 2",
+      "section_path": [
+        "Voyage 2"
+      ],
+      "section_path_text": "Voyage 2",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "",
+      "keywords": [
+        "west_africa",
+        "africa",
+        "ballast",
+        "west"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front__s07_voyage_2",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front__root",
+      "title": "Voyage 2",
+      "section_path": [
+        "Voyage 2"
+      ],
+      "section_path_text": "Voyage 2",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "",
+      "keywords": [
+        "west_africa",
+        "africa",
+        "ballast",
+        "west"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front__s08_voyage_4",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front__root",
+      "title": "Voyage 4",
+      "section_path": [
+        "Voyage 4"
+      ],
+      "section_path_text": "Voyage 4",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "",
+      "keywords": [
+        "meg",
+        "arabian",
+        "ballast",
+        "gulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front__s09_voyage_4",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front__root",
+      "title": "Voyage 4",
+      "section_path": [
+        "Voyage 4"
+      ],
+      "section_path_text": "Voyage 4",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "",
+      "keywords": [
+        "meg",
+        "arabian",
+        "ballast",
+        "gulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front__s10_voyage_1",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front__root",
+      "title": "Voyage 1",
+      "section_path": [
+        "Voyage 1"
+      ],
+      "section_path_text": "Voyage 1",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "",
+      "keywords": [
+        "us_gulf",
+        "gulf",
+        "laden"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front__s11_voyage_1",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front__root",
+      "title": "Voyage 1",
+      "section_path": [
+        "Voyage 1"
+      ],
+      "section_path_text": "Voyage 1",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "",
+      "keywords": [
+        "us_gulf",
+        "gulf",
+        "laden"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front__s12_voyage_3",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front__root",
+      "title": "Voyage 3",
+      "section_path": [
+        "Voyage 3"
+      ],
+      "section_path_text": "Voyage 3",
+      "level": 1,
+      "ordinal": 12,
+      "summary": "",
+      "keywords": [
+        "east",
+        "far",
+        "laden"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front__s13_voyage_3",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_01_alls_quiet_on_the_westbound_front__root",
+      "title": "Voyage 3",
+      "section_path": [
+        "Voyage 3"
+      ],
+      "section_path_text": "Voyage 3",
+      "level": 1,
+      "ordinal": 13,
+      "summary": "Laden to Far East As immediate US demand for Arabian crude oil has slackened, the market may be witnessing the marginalization of the Arabian Gulf to US Gulf VLCC trade. Once an important benchmark of international tanker earnings, it appears to have evolved into little more than a means of repositioning.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "us_gulf",
+        "crude_oil",
+        "arabian",
+        "earnings",
+        "gulf",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 118,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

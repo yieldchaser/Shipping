@@ -1,0 +1,195 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2009_10_23_barrels_bound_east__root",
+  "doc_id": "poten_tankers_no_date_poten_2009_10_23_barrels_bound_east",
+  "parent_id": null,
+  "title": "Barrels Bound East",
+  "section_path": [
+    "Barrels Bound East"
+  ],
+  "section_path_text": "Barrels Bound East",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Barrels Bound East\nThe rapid growth of China's oil demand has forced a transition from self‐sufficiency enjoyed in the early 1990s toward dependence on imports for about half of its crude oil requirement. Managing their growing import dependence has become a central concern of policy planners in Beijing and an important factor in the development of present and future tanker trade routes. As shown in the chart below, Chinese crude oil production has remained flat in recent years as its demand has risen sharply.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "brazil",
+    "meg",
+    "west_africa",
+    "us_gulf",
+    "crude_oil",
+    "gas",
+    "oil",
+    "chinese",
+    "crude",
+    "future"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 814,
+  "source_path": "reports/poten/2009/poten_2009-10-23_barrels-bound-east.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_10_23_barrels_bound_east__s01_barrels_bound_east",
+      "doc_id": "poten_tankers_no_date_poten_2009_10_23_barrels_bound_east",
+      "parent_id": "poten_tankers_no_date_poten_2009_10_23_barrels_bound_east__root",
+      "title": "Barrels Bound East",
+      "section_path": [
+        "Barrels Bound East"
+      ],
+      "section_path_text": "Barrels Bound East",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The rapid growth of China's oil demand has forced a transition from self‐sufficiency enjoyed in the early 1990s toward dependence on imports for about half of its crude oil requirement. Managing their growing import dependence has become a central concern of policy planners in Beijing and an important factor in the development of present and future tanker trade routes.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "oil",
+        "demand",
+        "growth",
+        "crude",
+        "dependence",
+        "future"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 153,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_10_23_barrels_bound_east__s02_domestic_production",
+      "doc_id": "poten_tankers_no_date_poten_2009_10_23_barrels_bound_east",
+      "parent_id": "poten_tankers_no_date_poten_2009_10_23_barrels_bound_east__root",
+      "title": "Domestic Production",
+      "section_path": [
+        "Domestic Production"
+      ],
+      "section_path_text": "Domestic Production",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Consumption In the first half of 2009, as total crude oil consumption fell 3.2 mbd compared with 2008 levels, resilience in the Chinese economy helped stave off a complete collapse in the global economy. A $586 billion stimulus package China launched last year to counteract the impact of the economic crisis was focused on boosting domestic consumption of goods and services.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "gas",
+        "oil",
+        "consumption",
+        "economic",
+        "billion",
+        "crisis"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 237,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_10_23_barrels_bound_east__s03_have_trade_will_travel",
+      "doc_id": "poten_tankers_no_date_poten_2009_10_23_barrels_bound_east",
+      "parent_id": "poten_tankers_no_date_poten_2009_10_23_barrels_bound_east__root",
+      "title": "Have Trade, Will Travel",
+      "section_path": [
+        "Have Trade, Will Travel"
+      ],
+      "section_path_text": "Have Trade, Will Travel",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Though some future Chinese imports will be received through pipelines, tanker owners have reason to welcome China's recent energy investments as they will ultimately result in incremental increases in ton‐mile demand. Chinese sponsored exports have already helped transform the West Africa to Far East voyage from a sleepy backhaul into a primary money‐ making voyage and Venezuela's increased exports to China have supported Caribbean to Far East rates.",
+      "keywords": [
+        "china",
+        "west_africa",
+        "chinese",
+        "east",
+        "exports",
+        "far",
+        "recent",
+        "reported"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 134,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_10_23_barrels_bound_east__s04_reported_spot_vlcc_liftings_2004_2009_ytd",
+      "doc_id": "poten_tankers_no_date_poten_2009_10_23_barrels_bound_east",
+      "parent_id": "poten_tankers_no_date_poten_2009_10_23_barrels_bound_east__root",
+      "title": "Reported Spot VLCC Liftings 2004 ‐ 2009 YTD",
+      "section_path": [
+        "Reported Spot VLCC Liftings 2004 ‐ 2009 YTD"
+      ],
+      "section_path_text": "Reported Spot VLCC Liftings 2004 ‐ 2009 YTD",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "2004 2005 2006 2007 2008 2009 YTD",
+      "keywords": [
+        "ytd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 19,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_10_23_barrels_bound_east__s05_ag_china",
+      "doc_id": "poten_tankers_no_date_poten_2009_10_23_barrels_bound_east",
+      "parent_id": "poten_tankers_no_date_poten_2009_10_23_barrels_bound_east__root",
+      "title": "AG ‐ China",
+      "section_path": [
+        "AG ‐ China"
+      ],
+      "section_path_text": "AG ‐ China",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "AG ‐ US Gulf WAF ‐ China WAF ‐ USAC/US Gulf About half of Chinese crude oil imports come from the Middle East and cargoes bound for China are expected to continue as a major factor in supporting rates out of the Arabian Gulf. Another producer expected to see increased volumes headed for China is Brazil.",
+      "keywords": [
+        "china",
+        "brazil",
+        "meg",
+        "west_africa",
+        "us_gulf",
+        "crude_oil",
+        "chinese",
+        "come"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 109,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_10_23_barrels_bound_east__s06_wild_card",
+      "doc_id": "poten_tankers_no_date_poten_2009_10_23_barrels_bound_east",
+      "parent_id": "poten_tankers_no_date_poten_2009_10_23_barrels_bound_east__root",
+      "title": "Wild Card",
+      "section_path": [
+        "Wild Card"
+      ],
+      "section_path_text": "Wild Card",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Perhaps the largest wildcard with respect to the shipping markets will be China's interest in developing a domestic fleet for the transportation of imported barrels. If China takes the reins on shipping, the market for crude oil tankers could become fragmented.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "tankers",
+        "could",
+        "domestic",
+        "fleet",
+        "large",
+        "access"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 120,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

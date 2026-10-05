@@ -52,7 +52,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/gibson_26_09_2026_gibson_tanker_report_clean_catchup.md
+source_path: reports/broker_reports/2026/carriers/gibson_26_09_2026_gibson_tanker_report_clean_catchup.md
 source_stem: gibson_26_09_2026_gibson_tanker_report_clean_catchup
 source_url: https://www.hellenicshippingnews.com/gibson-tanker-report-clean-catchup/
 summary: 'Gibson tanker report - Clean Catchup

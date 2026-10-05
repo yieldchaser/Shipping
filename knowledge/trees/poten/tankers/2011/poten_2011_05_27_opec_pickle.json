@@ -1,0 +1,174 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_05_27_opec_pickle__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_05_27_opec_pickle",
+  "parent_id": null,
+  "title": "OPEC Pickle",
+  "section_path": [
+    "OPEC Pickle"
+  ],
+  "section_path_text": "OPEC Pickle",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "OPEC Pickle\nThe past three years have produced an extremely volatile crude oil market, as prices have waivered up and down with uncertainties of the strength of the global economy and security of global supplies. As current conflicts in oil producing nations intensify, strong demand growth in emerging economies has caused concern over a global shortage of petroleum supplies. Brent oil, the benchmark used to price much of the world's internationally traded crude oil, climbed above $100 per barrel in the beginning of February this year.",
+  "keywords": [
+    "china",
+    "meg",
+    "west_africa",
+    "india",
+    "japan",
+    "crude_oil",
+    "oil",
+    "crude",
+    "opec",
+    "demand",
+    "africa",
+    "mbd"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 979,
+  "source_path": "reports/poten/2011/poten_2011-05-27_opec-pickle.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_05_27_opec_pickle__s01_opec_pickle",
+      "doc_id": "poten_tankers_no_date_poten_2011_05_27_opec_pickle",
+      "parent_id": "poten_tankers_no_date_poten_2011_05_27_opec_pickle__root",
+      "title": "OPEC Pickle",
+      "section_path": [
+        "OPEC Pickle"
+      ],
+      "section_path_text": "OPEC Pickle",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The past three years have produced an extremely volatile crude oil market, as prices have waivered up and down with uncertainties of the strength of the global economy and security of global supplies. As current conflicts in oil producing nations intensify, strong demand growth in emerging economies has caused concern over a global shortage of petroleum supplies.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "brent",
+        "prices",
+        "above",
+        "crude",
+        "global",
+        "opec"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 252,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_05_27_opec_pickle__s02_brent_price",
+      "doc_id": "poten_tankers_no_date_poten_2011_05_27_opec_pickle",
+      "parent_id": "poten_tankers_no_date_poten_2011_05_27_opec_pickle__root",
+      "title": "Brent Price",
+      "section_path": [
+        "Brent Price"
+      ],
+      "section_path_text": "Brent Price",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "3 Year Average 6 Month Average Source: Bloomberg, Poten The Middle East and North Africa are home to 8 of the 12 OPEC member nations. The Arabian Gulf nations of OPEC - Iran, Iraq, Kuwait, Qatar, Saudi Arabia, and the United Arab Emirates ‐ are home to over two thirds of the cartel's capacity and according to the organization's own figures, produced almost 20 mbd of crude oil in 2010, accounting for nearly one quarter of crude oil supplied worldwide.",
+      "keywords": [
+        "meg",
+        "crude_oil",
+        "are",
+        "average",
+        "crude",
+        "home",
+        "oil",
+        "opec"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 104,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_05_27_opec_pickle__s03_plenty_for_everyone",
+      "doc_id": "poten_tankers_no_date_poten_2011_05_27_opec_pickle",
+      "parent_id": "poten_tankers_no_date_poten_2011_05_27_opec_pickle__root",
+      "title": "Plenty for Everyone?",
+      "section_path": [
+        "Plenty for Everyone?"
+      ],
+      "section_path_text": "Plenty for Everyone?",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "At just over 1.5 mbd in 2010, Libyan production accounted for about 5% of total OPEC production and less than 2% of total world oil production. According to the latest oil market report released by the International Energy Agency (IEA), global oil supply dipped by 50 kbd month‐on‐ month to total 87.5 mbd in April, largely as a result of the drastically reduced crude oil output from Libya.",
+      "keywords": [
+        "china",
+        "india",
+        "japan",
+        "crude_oil",
+        "oil",
+        "demand",
+        "mbd",
+        "opec"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 333,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_05_27_opec_pickle__s04_north_africa",
+      "doc_id": "poten_tankers_no_date_poten_2011_05_27_opec_pickle",
+      "parent_id": "poten_tankers_no_date_poten_2011_05_27_opec_pickle__root",
+      "title": "North Africa",
+      "section_path": [
+        "North Africa"
+      ],
+      "section_path_text": "North Africa",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Arabian Gulf Caribbean West Africa Other According to reported spot fixture data, around 70% of crude shipped to these east‐of‐Suez nations in 2010 came from producers in the Arabian Gulf. However, the amount of crude oil sourced from North and West Africa and the Caribbean has increased significantly over the past five years.",
+      "keywords": [
+        "meg",
+        "west_africa",
+        "crude_oil",
+        "million",
+        "africa",
+        "west",
+        "arabian",
+        "caribbean"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 131,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_05_27_opec_pickle__s05_man_that_s_heavy",
+      "doc_id": "poten_tankers_no_date_poten_2011_05_27_opec_pickle",
+      "parent_id": "poten_tankers_no_date_poten_2011_05_27_opec_pickle__root",
+      "title": "Man, That's Heavy",
+      "section_path": [
+        "Man, That's Heavy"
+      ],
+      "section_path_text": "Man, That's Heavy",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Projected increases in Indian and Chinese refinery capacity to meet increased domestic demand for transportation fuels will likely draw heavily on distillate rich crude oil streams. This increased demand could continue to drive up the price of light sweet crude grades, particularly if Libyan production does not resume relatively quickly.",
+      "keywords": [
+        "china",
+        "india",
+        "crude_oil",
+        "light",
+        "crude",
+        "arab",
+        "demand",
+        "grades"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 135,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

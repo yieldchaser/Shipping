@@ -1,0 +1,282 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_01_21_product_power_outage_2010s_top_clean_charterers__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_01_21_product_power_outage_2010s_top_clean_charterers",
+  "parent_id": null,
+  "title": "Product Power (Outage?): 2010's Top Clean Charterers",
+  "section_path": [
+    "Product Power (Outage?): 2010's Top Clean Charterers"
+  ],
+  "section_path_text": "Product Power (Outage?): 2010's Top Clean Charterers",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Product Power (Outage?): 2010's Top Clean Charterers\nAn analysis of world‐wide clean tanker spot fixture volume in 2010 characterizes a sobering picture of developed‐world economic health. A significant 8.3% contraction in total reported fixtures from 2009 marks a downturn from what had seemed to be a market on the mend from the depths of the 2008 financial crisis. Although many pundits point to a rapidly‐growing eastern demand for tonnage in crude tanker markets as reason for optimism, nearly all market participants are left scratching their heads looking for any similar signs of optimism in the product shipping market.",
+  "keywords": [
+    "panamax",
+    "handysize",
+    "aframax",
+    "china",
+    "meg",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "total",
+    "clean",
+    "top"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1488,
+  "source_path": "reports/poten/2011/poten_2011-01-21_product-power-outage-2010s-top-clean-charterers.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_01_21_product_power_outage_2010s_top_clean_charterers__s01_product_power_outage_2010_s_top_clean_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2011_01_21_product_power_outage_2010s_top_clean_charterers",
+      "parent_id": "poten_tankers_no_date_poten_2011_01_21_product_power_outage_2010s_top_clean_charterers__root",
+      "title": "Product Power (Outage?): 2010's Top Clean Charterers",
+      "section_path": [
+        "Product Power (Outage?): 2010's Top Clean Charterers"
+      ],
+      "section_path_text": "Product Power (Outage?): 2010's Top Clean Charterers",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "An analysis of world‐wide clean tanker spot fixture volume in 2010 characterizes a sobering picture of developed‐world economic health. A significant 8.3% contraction in total reported fixtures from 2009 marks a downturn from what had seemed to be a market on the mend from the depths of the 2008 financial crisis.",
+      "keywords": [
+        "aframax",
+        "reported",
+        "activity",
+        "fixture",
+        "optimism",
+        "are",
+        "clean",
+        "total"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 189,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_01_21_product_power_outage_2010s_top_clean_charterers__s02_lr2_80_119kdwt",
+      "doc_id": "poten_tankers_no_date_poten_2011_01_21_product_power_outage_2010s_top_clean_charterers",
+      "parent_id": "poten_tankers_no_date_poten_2011_01_21_product_power_outage_2010s_top_clean_charterers__root",
+      "title": "LR2 (80‐119kdwt)",
+      "section_path": [
+        "LR2 (80‐119kdwt)"
+      ],
+      "section_path_text": "LR2 (80‐119kdwt)",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "handysize",
+        "kdwt",
+        "lr1",
+        "mr/handy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 22,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_01_21_product_power_outage_2010s_top_clean_charterers__s03_the_voltron_crew",
+      "doc_id": "poten_tankers_no_date_poten_2011_01_21_product_power_outage_2010s_top_clean_charterers",
+      "parent_id": "poten_tankers_no_date_poten_2011_01_21_product_power_outage_2010s_top_clean_charterers__root",
+      "title": "The Voltron Crew",
+      "section_path": [
+        "The Voltron Crew"
+      ],
+      "section_path_text": "The Voltron Crew",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Instead of absolute fixture volume which can present a skewed view of total activity, this report focuses on the percent of total reported activity concluded by each company. Shell maintained its position from 2009 as the world's largest clean charterer by fixture count (a distinction they also hold as 2010's top crude tanker spot charterer) despite their total market share falling nearly 2% from the previous year.",
+      "keywords": [
+        "crude_oil",
+        "total",
+        "fixtures",
+        "top",
+        "reported",
+        "charterer",
+        "clean",
+        "fixture"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 523,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_01_21_product_power_outage_2010s_top_clean_charterers__s04_ballers_and_shot_callers",
+      "doc_id": "poten_tankers_no_date_poten_2011_01_21_product_power_outage_2010s_top_clean_charterers",
+      "parent_id": "poten_tankers_no_date_poten_2011_01_21_product_power_outage_2010s_top_clean_charterers__root",
+      "title": "Ballers and Shot‐Callers",
+      "section_path": [
+        "Ballers and Shot‐Callers"
+      ],
+      "section_path_text": "Ballers and Shot‐Callers",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Aframax ‐ LR2 (80,000 - 119,999 DWT) Clean Aframax (LR2) activity for 2010 showed a slight shake‐up in the top 10 charterers for the sector with Vitol edging BP as the world's largest charterer representing 8% of total market share. Last year's number one charterer, Shell, found themselves in fourth position this year behind Vitol, BP, and Total.",
+      "keywords": [
+        "aframax",
+        "charterer",
+        "lr2",
+        "sector",
+        "top",
+        "vitol",
+        "year",
+        "activity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 136,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_01_21_product_power_outage_2010s_top_clean_charterers__s05_cargill",
+      "doc_id": "poten_tankers_no_date_poten_2011_01_21_product_power_outage_2010s_top_clean_charterers",
+      "parent_id": "poten_tankers_no_date_poten_2011_01_21_product_power_outage_2010s_top_clean_charterers__root",
+      "title": "Cargill",
+      "section_path": [
+        "Cargill"
+      ],
+      "section_path_text": "Cargill",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The predominant clean trade for Aframaxes continues to be the Arabian Gulf to Far East naphtha trade - a trend that seems poised to grow with the continued expansion of emerging market economies. The Aframax/LR2 sector also proved to be the only sector experiencing growth in clean fixture volume in 2010 - a trend undoubtedly attributable to growing eastern demand for refined products.",
+      "keywords": [
+        "aframax",
+        "meg",
+        "products",
+        "clean",
+        "sector",
+        "trade",
+        "trend",
+        "aframax/lr2"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 75,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_01_21_product_power_outage_2010s_top_clean_charterers__s06_panamax_lr1_60_000_79_999_dwt",
+      "doc_id": "poten_tankers_no_date_poten_2011_01_21_product_power_outage_2010s_top_clean_charterers",
+      "parent_id": "poten_tankers_no_date_poten_2011_01_21_product_power_outage_2010s_top_clean_charterers__root",
+      "title": "Panamax ‐ LR1 (60,000 - 79,999 DWT)",
+      "section_path": [
+        "Panamax ‐ LR1 (60,000 - 79,999 DWT)"
+      ],
+      "section_path_text": "Panamax ‐ LR1 (60,000 - 79,999 DWT)",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Clean Panamax (LR1) chartering activity in 2010 saw a decline of 56 reported fixtures, or 7.3% from 2009 levels reflecting a weaker Arabian Gulf to UK Continent trade. Within the sector, the top six charterers showed no shakeup at all from 2009 as Shell, Vitol, Total, BP, Itochu, and ST Shipping all found themselves, respectively, holding the same positions from last year.",
+      "keywords": [
+        "panamax",
+        "meg",
+        "europe",
+        "all",
+        "charterers",
+        "sector",
+        "top",
+        "activity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 134,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_01_21_product_power_outage_2010s_top_clean_charterers__s07_handymax_37_500_59_999_dwt",
+      "doc_id": "poten_tankers_no_date_poten_2011_01_21_product_power_outage_2010s_top_clean_charterers",
+      "parent_id": "poten_tankers_no_date_poten_2011_01_21_product_power_outage_2010s_top_clean_charterers__root",
+      "title": "Handymax (37,500 - 59,999 DWT)",
+      "section_path": [
+        "Handymax (37,500 - 59,999 DWT)"
+      ],
+      "section_path_text": "Handymax (37,500 - 59,999 DWT)",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Clean Handymax activity, making up the lion's share of total clean market fixtures, saw a decline of 159 reported fixtures, or 4.3% from 2009 levels.",
+      "keywords": [
+        "handysize",
+        "clean",
+        "fixtures",
+        "activity",
+        "decline",
+        "handymax",
+        "levels.",
+        "lion"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 38,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_01_21_product_power_outage_2010s_top_clean_charterers__s08_pmi",
+      "doc_id": "poten_tankers_no_date_poten_2011_01_21_product_power_outage_2010s_top_clean_charterers",
+      "parent_id": "poten_tankers_no_date_poten_2011_01_21_product_power_outage_2010s_top_clean_charterers__root",
+      "title": "PMI",
+      "section_path": [
+        "PMI"
+      ],
+      "section_path_text": "PMI",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "The ranks of the top five charterers within the sector fluctuated, but remained unchanged as Shell and Vitol reversed order in the top two positions from 2009 with Shell holding the crown at 6% of total reported market share. Vitol was followed by Total and ST Shipping who also swapped places from 2009 as 3 rd and 4 th largest charterers by volume, respectively in 2010 with BP holding onto its 5 th place position within the sector.",
+      "keywords": [
+        "top",
+        "charterers",
+        "holding",
+        "shell",
+        "total",
+        "vitol",
+        "all",
+        "but"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 151,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_01_21_product_power_outage_2010s_top_clean_charterers__s09_what_s_ahead_for_2011",
+      "doc_id": "poten_tankers_no_date_poten_2011_01_21_product_power_outage_2010s_top_clean_charterers",
+      "parent_id": "poten_tankers_no_date_poten_2011_01_21_product_power_outage_2010s_top_clean_charterers__root",
+      "title": "What's Ahead for 2011?",
+      "section_path": [
+        "What's Ahead for 2011?"
+      ],
+      "section_path_text": "What's Ahead for 2011?",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "The outlook for the clean tanker markets will go hand in hand with the economic health of product‐importing countries. Sluggish growth in the developed world will continue to hamper the sector's health to the dismay of market participants.",
+      "keywords": [
+        "china",
+        "europe",
+        "india",
+        "clean",
+        "markets",
+        "product",
+        "continue",
+        "economic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 136,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

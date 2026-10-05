@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2015_10_23_reading_the_tea_leaves__root",
+  "doc_id": "poten_tankers_no_date_poten_2015_10_23_reading_the_tea_leaves",
+  "parent_id": null,
+  "title": "Reading The Tea Leaves",
+  "section_path": [
+    "Reading The Tea Leaves"
+  ],
+  "section_path_text": "Reading The Tea Leaves",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Another round of oil demand growth projections\nThis is the time of the year that most investment banks as well as the various international oil and energy organizations, such as the International Energy Agency (IEA), the Energy Information Administration (EIA) and the Organization of the Petroleum Exporting Countries (OPEC), go on record with their forecasts for oil demand for next year. It is often said that there are two types of forecasts ... Despite this, news agencies watch these releases closely for clues about the direction of oil demand and prices.",
+  "keywords": [
+    "china",
+    "atlantic",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "oil",
+    "demand",
+    "growth",
+    "was",
+    "year",
+    "b/d"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 793,
+  "source_path": "reports/poten/2015/poten_2015-10-23_reading-the-tea-leaves.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2015_10_23_reading_the_tea_leaves__s01_another_round_of_oil_demand_growth_projections",
+      "doc_id": "poten_tankers_no_date_poten_2015_10_23_reading_the_tea_leaves",
+      "parent_id": "poten_tankers_no_date_poten_2015_10_23_reading_the_tea_leaves__root",
+      "title": "Another round of oil demand growth projections",
+      "section_path": [
+        "Another round of oil demand growth projections"
+      ],
+      "section_path_text": "Another round of oil demand growth projections",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This is the time of the year that most investment banks as well as the various international oil and energy organizations, such as the International Energy Agency (IEA), the Energy Information Administration (EIA) and the Organization of the Petroleum Exporting Countries (OPEC), go on record with their forecasts for oil demand for next year. It is often said that there are two types of forecasts ...",
+      "keywords": [
+        "china",
+        "atlantic",
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "oil",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 785,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

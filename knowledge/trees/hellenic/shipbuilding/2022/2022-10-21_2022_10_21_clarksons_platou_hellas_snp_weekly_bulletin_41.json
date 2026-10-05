@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNew Building: In tankers this week, it has been reported that EPS contracted four firm plus two optional 50k dwt MRs at New Times\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-10-21_clarksons-platou-hellas-snp-weekly-bulletin-41_report-21-10-2022_eeda4ab2a02a.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-10-21_clarksons-platou-hellas-snp-weekly-bulletin-41_report-21-10-2022_eeda4ab2a02a.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 21 October 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC6.1 SS 06/26\nARETHOUSA 169,770 2001 SASEBO HI BWTS Fitted DD 07/24 USD 15.1 M GREEKS\nMAN B. 6S60MC-C7.2\nCMB 95,707 2012 KOYO SS 11/22\nBWTS Due USD 20.8 M CHINESE\nCHARDONNAY DD 11/22\nMAN-B&W 6S60MC6.2\nLARA VENTURE 93,758 2011 SS 09/26\nBWTS Fitted USD 20.2 M M.",
+  "summary": "Main\nNew Building: In tankers this week, it has been reported that EPS contracted four firm plus two optional 50k dwt MRs at New Times\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-10-21_clarksons-platou-hellas-snp-weekly-bulletin-41_report-21-10-2022_eeda4ab2a02a.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2022-10-21_clarksons-platou-hellas-snp-weekly-bulletin-41_report-21-10-2022_eeda4ab2a02a.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin21 October 2022\n\n# Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n|ARETHOUSA|169,770|2001 SASEBO HI|MAN B. 6S70MC6.1 BWTS Fitted|SS 06/26 DD 07/24|USD 15.1 M|GREEKS|\n|CMB CHARDONNAY|95,707|2012 KOYO|MAN B. 6S60MC-C7.2 BWTS Due|SS 11/22 DD 11/22|USD 20.8 M|CHINESE|\n|LARA VENTURE|93,758|2011 SHANHAIGUAN|MAN-B&W 6S60MC6.2 BWTS Fitted|SS 09/26 DD 11/24|USD 20.2 M|M.",
   "keywords": [
     "lng",
     "lpg",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2608,
-  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-10-21_clarksons-platou-hellas-snp-weekly-bulletin-41.html",
+  "token_count": 2680,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-10-21_clarksons-platou-hellas-snp-weekly-bulletin-41.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-41",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-10-21_clarksons-platou-hellas-snp-weekly-bulletin-41_report-21-10-2022_eeda4ab2a02a.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-10-21_clarksons-platou-hellas-snp-weekly-bulletin-41_report-21-10-2022_eeda4ab2a02a.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 21 October 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC6.1 SS 06/26\nARETHOUSA 169,770 2001 SASEBO HI BWTS Fitted DD 07/24 USD 15.1 M GREEKS\nMAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-10-21_clarksons-platou-hellas-snp-weekly-bulletin-41_report-21-10-2022_eeda4ab2a02a.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin21 October 2022\n\n# Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n|ARETHOUSA|169,770|2001 SASEBO HI|MAN B. 6S70MC6.1 BWTS Fitted|SS 06/26 DD 07/24|USD 15.1 M|GREEKS|\n|CMB CHARDONNAY|95,707|2012 KOYO|MAN B.",
       "keywords": [
         "lng",
         "lpg",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2518,
+      "token_count": 2590,
       "section_type": "linked_pdf",
       "children": []
     }

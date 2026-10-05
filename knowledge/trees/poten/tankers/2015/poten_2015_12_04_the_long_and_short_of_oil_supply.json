@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2015_12_04_the_long_and_short_of_oil_supply__root",
+  "doc_id": "poten_tankers_no_date_poten_2015_12_04_the_long_and_short_of_oil_supply",
+  "parent_id": null,
+  "title": "The Long and Short of Oil Supply",
+  "section_path": [
+    "The Long and Short of Oil Supply"
+  ],
+  "section_path_text": "The Long and Short of Oil Supply",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Higher production and low price affecting spare capacity\nGlobal crude oil production has increased over the last year, even though prices have declined significantly over the last 18 months. According to the International Energy Agency (IEA), crude oil production (incl. NGL and Biofuel) increased from 93.6 Million barrels per day (Mb/d) in 2014 to an estimated 96.1 Mb/d in 2015, an increase of 2.5 Mb/d.",
+  "keywords": [
+    "china",
+    "crude_oil",
+    "production",
+    "oil",
+    "mb/d",
+    "capacity",
+    "increase",
+    "increased",
+    "are",
+    "opec",
+    "prices",
+    "recent"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 891,
+  "source_path": "reports/poten/2015/poten_2015-12-04_the-long-and-short-of-oil-supply.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2015_12_04_the_long_and_short_of_oil_supply__s01_higher_production_and_low_price_affecting_spare_capacity",
+      "doc_id": "poten_tankers_no_date_poten_2015_12_04_the_long_and_short_of_oil_supply",
+      "parent_id": "poten_tankers_no_date_poten_2015_12_04_the_long_and_short_of_oil_supply__root",
+      "title": "Higher production and low price affecting spare capacity",
+      "section_path": [
+        "Higher production and low price affecting spare capacity"
+      ],
+      "section_path_text": "Higher production and low price affecting spare capacity",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Global crude oil production has increased over the last year, even though prices have declined significantly over the last 18 months. According to the International Energy Agency (IEA), crude oil production (incl.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "oil",
+        "production",
+        "mb/d",
+        "capacity",
+        "increase",
+        "increased"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 882,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

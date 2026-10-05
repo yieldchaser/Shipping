@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2024_11_15_fill_it_up__root",
+  "doc_id": "poten_tankers_no_date_poten_2024_11_15_fill_it_up",
+  "parent_id": null,
+  "title": "Fill It Up",
+  "section_path": [
+    "Fill It Up"
+  ],
+  "section_path_text": "Fill It Up",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "What are the market implications if the US SPR is refilled? In a continuation of our series that discusses the potential implications for the oil and tanker markets of a second Trump administration, we will take a look at the U.S. As we discussed last week, the incoming president is a strong supporter of the domestic oil industry, and favors U.S.",
+  "keywords": [
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "spr",
+    "oil",
+    "barrels",
+    "million",
+    "domestic",
+    "trump",
+    "refill",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 925,
+  "source_path": "reports/poten/2024/poten_2024-11-15_fill-it-up.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2024_11_15_fill_it_up__s01_what_are_the_market_implications_if_the_us_spr_is_refilled",
+      "doc_id": "poten_tankers_no_date_poten_2024_11_15_fill_it_up",
+      "parent_id": "poten_tankers_no_date_poten_2024_11_15_fill_it_up__root",
+      "title": "What are the market implications if the US SPR is refilled?",
+      "section_path": [
+        "What are the market implications if the US SPR is refilled?"
+      ],
+      "section_path_text": "What are the market implications if the US SPR is refilled?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In a continuation of our series that discusses the potential implications for the oil and tanker markets of a second Trump administration, we will take a look at the U.S. As we discussed last week, the incoming president is a strong supporter of the domestic oil industry, and favors U.S.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "spr",
+        "oil",
+        "barrels",
+        "million"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 912,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

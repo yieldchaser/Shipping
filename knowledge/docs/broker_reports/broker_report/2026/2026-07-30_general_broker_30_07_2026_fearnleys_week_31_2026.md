@@ -186,7 +186,7 @@ numeric_observations:
   unit: usd
   values:
   - 12.0
-  - 12250.0
+  - 12.25
 - section: Market Report Content
   section_type: null
   source_line: August dates. Refreshed ideas today are at high USD 11s and low USD
@@ -242,7 +242,7 @@ numeric_observations:
   source_line: $11.95 -$0.22
   unit: usd
   values:
-  - 11950.0
+  - 11.95
   - 0.22
 - section: Market Report Content
   section_type: null
@@ -492,7 +492,7 @@ numeric_observations:
   unit: usd
   values:
   - 343.53
-  - 33220.0
+  - 33.22
 - section: Market Report Content
   section_type: null
   source_line: $440 $0
@@ -517,7 +517,7 @@ numeric_observations:
   unit: usd
   values:
   - 455.26
-  - 27460.0
+  - 27.46
 - section: Market Report Content
   section_type: null
   source_line: $480 $0
@@ -561,29 +561,29 @@ numeric_observations:
   source_line: Capesize $74.0 $59.0
   unit: usd
   values:
-  - 74000.0
-  - 59000.0
+  - 74.0
+  - 59.0
 - section: Market Report Content
   section_type: null
   source_line: Kamsarmax $38.5 $31.0
   unit: usd
   values:
-  - 38500.0
-  - 31000.0
+  - 38.5
+  - 31.0
 - section: Market Report Content
   section_type: null
   source_line: Ultramax $38.0 $30.0
   unit: usd
   values:
-  - 38000.0
-  - 30000.0
+  - 38.0
+  - 30.0
 - section: Market Report Content
   section_type: null
   source_line: Handysize $30.5 $23.0
   unit: usd
   values:
-  - 30500.0
-  - 23000.0
+  - 30.5
+  - 23.0
 - section: Market Report Content
   section_type: null
   source_line: VLCC $140.0 $110.0
@@ -597,15 +597,15 @@ numeric_observations:
   unit: usd
   values:
   - 103.0
-  - 85500.0
+  - 85.5
 - section: Market Report Content
   section_type: null
   source_line: Aframax / LR2 $80.0 $70.0
   unit: usd
   values:
   - 2.0
-  - 80000.0
-  - 70000.0
+  - 80.0
+  - 70.0
 - section: Market Report Content
   section_type: null
   source_line: 06Market Brief

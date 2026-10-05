@@ -61,8 +61,8 @@ numeric_observations:
   - 150000.0
   - 10.0
   - 10.0
-  - 10400.0
-  - 10200.0
+  - 10.4
+  - 10.2
 - section: Market Report Content
   section_type: null
   source_line: TUBARAO/ROTTERDAM 170,000/10% 10% 19.70 19.60
@@ -71,8 +71,8 @@ numeric_observations:
   - 170000.0
   - 10.0
   - 10.0
-  - 19700.0
-  - 19600.0
+  - 19.7
+  - 19.6
 - section: Market Report Content
   section_type: null
   source_line: RICHARDS BAY/ROTTERDAM 150,000/10% 10% 20.95 20.85
@@ -81,8 +81,8 @@ numeric_observations:
   - 150000.0
   - 10.0
   - 10.0
-  - 20950.0
-  - 20850.0
+  - 20.95
+  - 20.85
 - section: Market Report Content
   section_type: null
   source_line: SEVEN ISLANDS/ROTTERDAM 170,000/10% 10% 16.00 15.70
@@ -91,8 +91,8 @@ numeric_observations:
   - 170000.0
   - 10.0
   - 10.0
-  - 16000.0
-  - 15700.0
+  - 16.0
+  - 15.7
 - section: Market Report Content
   section_type: null
   source_line: PUERTO BOLIVAR/ROTTERDAM 160,000/10% 10% 23.45 23.15
@@ -101,8 +101,8 @@ numeric_observations:
   - 160000.0
   - 10.0
   - 10.0
-  - 23450.0
-  - 23150.0
+  - 23.45
+  - 23.15
 - section: Market Report Content
   section_type: null
   source_line: NOUADHIBOU/QINGDAO 170,000/10% 10% 42.75 43.60
@@ -111,8 +111,8 @@ numeric_observations:
   - 170000.0
   - 10.0
   - 10.0
-  - 42750.0
-  - 43600.0
+  - 42.75
+  - 43.6
 - section: Market Report Content
   section_type: null
   source_line: TUBARAO/JAPAN 160,000/10% 10% 41.80 42.65
@@ -121,8 +121,8 @@ numeric_observations:
   - 160000.0
   - 10.0
   - 10.0
-  - 41800.0
-  - 42650.0
+  - 41.8
+  - 42.65
 - section: Market Report Content
   section_type: null
   source_line: TUBARAO/QINGDAO 160,000/10% 10% 42.10 42.95
@@ -131,8 +131,8 @@ numeric_observations:
   - 160000.0
   - 10.0
   - 10.0
-  - 42100.0
-  - 42950.0
+  - 42.1
+  - 42.95
 - section: Market Report Content
   section_type: null
   source_line: T/C TRIP CONT/FAR EAST 180,000 DWT 10% 14.80 14.75
@@ -140,8 +140,8 @@ numeric_observations:
   values:
   - 180000.0
   - 10.0
-  - 14800.0
-  - 14750.0
+  - 14.8
+  - 14.75
 - section: Market Report Content
   section_type: null
   source_line: T/C TRANSATLANTIC ROUND 180,000 DWT 10% 9.52 9.25
@@ -149,8 +149,8 @@ numeric_observations:
   values:
   - 180000.0
   - 10.0
-  - 9520.0
-  - 9250.0
+  - 9.52
+  - 9.25
 - section: Market Report Content
   section_type: null
   source_line: Calculated Index 17,887 17,920
@@ -247,7 +247,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/ssy_21_09_2026_ssy_atlantic_capesize_index_21_september_2026.md
+source_path: reports/broker_reports/2026/carriers/ssy_21_09_2026_ssy_atlantic_capesize_index_21_september_2026.md
 source_stem: ssy_21_09_2026_ssy_atlantic_capesize_index_21_september_2026
 source_url: https://www.hellenicshippingnews.com/ssy-atlantic-capesize-index-21-september-2026/
 summary: 'SSY ATLANTIC CAPESIZE INDEX 21 SEPTEMBER 2026

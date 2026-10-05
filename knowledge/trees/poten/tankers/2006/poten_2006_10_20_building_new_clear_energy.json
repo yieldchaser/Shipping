@@ -1,0 +1,139 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2006_10_20_building_new_clear_energy__root",
+  "doc_id": "poten_tankers_no_date_poten_2006_10_20_building_new_clear_energy",
+  "parent_id": null,
+  "title": "Building New-clear Energy",
+  "section_path": [
+    "Building New-clear Energy"
+  ],
+  "section_path_text": "Building New-clear Energy",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Building New-clear Energy\nWhile worldwide crude oil demand remains near record levels driven by increased economic activity, the overall energy demand mix that is projected to emerge is perhaps unexpected. Though crude oil was once a primary source of all energy, changes in the market, especially higher prices for crude, have made alternatives commercially viable in certain capacities. For example, natural gas has competed with petroleum for use in residential heating and industry.",
+  "keywords": [
+    "crude_oil",
+    "products",
+    "gas",
+    "energy",
+    "nuclear",
+    "oil",
+    "are",
+    "crude",
+    "demand",
+    "electricity",
+    "not",
+    "petroleum"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 550,
+  "source_path": "reports/poten/2006/poten_2006-10-20_building-new-clear-energy.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_10_20_building_new_clear_energy__s01_building_new_clear_energy",
+      "doc_id": "poten_tankers_no_date_poten_2006_10_20_building_new_clear_energy",
+      "parent_id": "poten_tankers_no_date_poten_2006_10_20_building_new_clear_energy__root",
+      "title": "Building New-clear Energy",
+      "section_path": [
+        "Building New-clear Energy"
+      ],
+      "section_path_text": "Building New-clear Energy",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "While worldwide crude oil demand remains near record levels driven by increased economic activity, the overall energy demand mix that is projected to emerge is perhaps unexpected. Though crude oil was once a primary source of all energy, changes in the market, especially higher prices for crude, have made alternatives commercially viable in certain capacities.",
+      "keywords": [
+        "crude_oil",
+        "gas",
+        "energy",
+        "crude",
+        "oil",
+        "demand",
+        "driven",
+        "viable"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 151,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_10_20_building_new_clear_energy__s02_actual",
+      "doc_id": "poten_tankers_no_date_poten_2006_10_20_building_new_clear_energy",
+      "parent_id": "poten_tankers_no_date_poten_2006_10_20_building_new_clear_energy__root",
+      "title": "Actual",
+      "section_path": [
+        "Actual"
+      ],
+      "section_path_text": "Actual",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "projected"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_10_20_building_new_clear_energy__s03_on_the_horizon",
+      "doc_id": "poten_tankers_no_date_poten_2006_10_20_building_new_clear_energy",
+      "parent_id": "poten_tankers_no_date_poten_2006_10_20_building_new_clear_energy__root",
+      "title": "On the Horizon",
+      "section_path": [
+        "On the Horizon"
+      ],
+      "section_path_text": "On the Horizon",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The chart on the previous page represents the EIA's outlook for total energy consumption in the United States in terms of quadrillion Btus. The total demand for petroleum products and nuclear power are both expected to increase in the next five to ten years.",
+      "keywords": [
+        "products",
+        "are",
+        "built",
+        "nuclear",
+        "power",
+        "states",
+        "total",
+        "united"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 112,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_10_20_building_new_clear_energy__s04_gaining_perspective",
+      "doc_id": "poten_tankers_no_date_poten_2006_10_20_building_new_clear_energy",
+      "parent_id": "poten_tankers_no_date_poten_2006_10_20_building_new_clear_energy__root",
+      "title": "Gaining Perspective",
+      "section_path": [
+        "Gaining Perspective"
+      ],
+      "section_path_text": "Gaining Perspective",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "In the United States and other developed nations, nuclear energy is used primarily for electricity generation, as it does not have much commercial use in the transportation sector or as a feedstock. Nuclear energy has been demonstrated as best suited for large grid electricity generation, a characteristic that inhibits worldwide adoption of the technology.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "nuclear",
+        "energy",
+        "oil",
+        "electricity",
+        "not",
+        "generation"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 270,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

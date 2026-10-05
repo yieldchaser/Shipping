@@ -1,0 +1,137 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2009_11_20_already_in_ship_shape__root",
+  "doc_id": "poten_tankers_no_date_poten_2009_11_20_already_in_ship_shape",
+  "parent_id": null,
+  "title": "Already in Ship Shape",
+  "section_path": [
+    "Already in Ship Shape"
+  ],
+  "section_path_text": "Already in Ship Shape",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Already in Ship Shape\nLate last month, a malfunctioning valve on the barge supplying a product tanker reportedly caused it to spill between 400 and 800 gallons (between 9 and 19 barrels) of bunker fuel into San Francisco Bay. The spill reignited an environmental group's campaign for a ban on the use of residual bunker fuel, an effort initiated following the Cosco Busan spill in 2007. The campaign aims to introduce regulation that would stop the use of the residual bunker fuel in commercial shipping altogether.",
+  "keywords": [
+    "china",
+    "europe",
+    "crude_oil",
+    "products",
+    "spills",
+    "fuel",
+    "oil",
+    "spill",
+    "tankers",
+    "bunker",
+    "itopf",
+    "significant"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1004,
+  "source_path": "reports/poten/2009/poten_2009-11-20_already-in-ship-shape.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_11_20_already_in_ship_shape__s01_already_in_ship_shape",
+      "doc_id": "poten_tankers_no_date_poten_2009_11_20_already_in_ship_shape",
+      "parent_id": "poten_tankers_no_date_poten_2009_11_20_already_in_ship_shape__root",
+      "title": "Already in Ship Shape",
+      "section_path": [
+        "Already in Ship Shape"
+      ],
+      "section_path_text": "Already in Ship Shape",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Late last month, a malfunctioning valve on the barge supplying a product tanker reportedly caused it to spill between 400 and 800 gallons (between 9 and 19 barrels) of bunker fuel into San Francisco Bay. The spill reignited an environmental group's campaign for a ban on the use of residual bunker fuel, an effort initiated following the Cosco Busan spill in 2007.",
+      "keywords": [
+        "crude_oil",
+        "spills",
+        "oil",
+        "spill",
+        "fuel",
+        "public",
+        "tankers",
+        "bunker"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 404,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_11_20_already_in_ship_shape__s02_no_spills",
+      "doc_id": "poten_tankers_no_date_poten_2009_11_20_already_in_ship_shape",
+      "parent_id": "poten_tankers_no_date_poten_2009_11_20_already_in_ship_shape__root",
+      "title": "No. Spills",
+      "section_path": [
+        "No. Spills"
+      ],
+      "section_path_text": "No. Spills",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_11_20_already_in_ship_shape__s03_700_tonnes",
+      "doc_id": "poten_tankers_no_date_poten_2009_11_20_already_in_ship_shape",
+      "parent_id": "poten_tankers_no_date_poten_2009_11_20_already_in_ship_shape__root",
+      "title": ">700 Tonnes",
+      "section_path": [
+        ">700 Tonnes"
+      ],
+      "section_path_text": ">700 Tonnes",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The ITOPF has tracked accidental spills by tankers, combined carriers and barges since 1974. The group categorizes small spills as those involving less than 7 tons, medium‐sized spills as between 7 and 700 tons and large spills (as mentioned) as anything exceeding 700 tons.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "spills",
+        "tons",
+        "itopf",
+        "oil",
+        "tankers",
+        "partners"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 217,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_11_20_already_in_ship_shape__s04_metric_tons_spilled",
+      "doc_id": "poten_tankers_no_date_poten_2009_11_20_already_in_ship_shape",
+      "parent_id": "poten_tankers_no_date_poten_2009_11_20_already_in_ship_shape__root",
+      "title": "Metric Tons Spilled",
+      "section_path": [
+        "Metric Tons Spilled"
+      ],
+      "section_path_text": "Metric Tons Spilled",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Well‐intentioned as it may be, there are several problems with responding to the recent spill with a ban on the use of residual bunker fuel. Primarily, this initiative ignores the ongoing tightening of marine fuel regulation which is already underway.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "products",
+        "fuel",
+        "bunker",
+        "marine",
+        "recent",
+        "regulation"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 346,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

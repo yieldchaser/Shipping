@@ -1,0 +1,294 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_07_29_getting_back_to_inventory_basics__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_07_29_getting_back_to_inventory_basics",
+  "parent_id": null,
+  "title": "Getting Back to (Inventory) Basics?",
+  "section_path": [
+    "Getting Back to (Inventory) Basics?"
+  ],
+  "section_path_text": "Getting Back to (Inventory) Basics?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "In the good ol' days, the purpose of oil inventories was to cover contingencies and uncertainties. Greater amounts of inventory on hand meant greater coverage to mitigate the risk of supply interruptions. Since inventory was viewed as basically an insurance policy, \"the more the better\" drove inventory volumes.",
+  "keywords": [
+    "crude_oil",
+    "products",
+    "gas",
+    "inventory",
+    "days",
+    "oil",
+    "consumption",
+    "crude",
+    "gasoline",
+    "inventories",
+    "since",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 889,
+  "source_path": "reports/poten/2005/poten_2005-07-29_getting-back-to-inventory-basics.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_07_29_getting_back_to_inventory_basics__s01_getting_back_to_inventory_basics",
+      "doc_id": "poten_tankers_no_date_poten_2005_07_29_getting_back_to_inventory_basics",
+      "parent_id": "poten_tankers_no_date_poten_2005_07_29_getting_back_to_inventory_basics__root",
+      "title": "Getting Back to (Inventory) Basics?",
+      "section_path": [
+        "Getting Back to (Inventory) Basics?"
+      ],
+      "section_path_text": "Getting Back to (Inventory) Basics?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In the good ol' days, the purpose of oil inventories was to cover contingencies and uncertainties. Greater amounts of inventory on hand meant greater coverage to mitigate the risk of supply interruptions.",
+      "keywords": [
+        "crude_oil",
+        "inventory",
+        "days",
+        "greater",
+        "hand",
+        "oil",
+        "since",
+        "was"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 86,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_07_29_getting_back_to_inventory_basics__s02_crude",
+      "doc_id": "poten_tankers_no_date_poten_2005_07_29_getting_back_to_inventory_basics",
+      "parent_id": "poten_tankers_no_date_poten_2005_07_29_getting_back_to_inventory_basics__root",
+      "title": "Crude",
+      "section_path": [
+        "Crude"
+      ],
+      "section_path_text": "Crude",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "consumption",
+        "days",
+        "inventory"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_07_29_getting_back_to_inventory_basics__s03_days_in_inventory",
+      "doc_id": "poten_tankers_no_date_poten_2005_07_29_getting_back_to_inventory_basics",
+      "parent_id": "poten_tankers_no_date_poten_2005_07_29_getting_back_to_inventory_basics__root",
+      "title": "Days in Inventory",
+      "section_path": [
+        "Days in Inventory"
+      ],
+      "section_path_text": "Days in Inventory",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The average inventory of crude oil since 1990 has been 318 million barrels and the average days of consumption in inventory 22.2 days. Both the volume of inventory and the days of inventory on hand have been in a general decline, reflecting a changing attitude towards inventory from that of an asset to a cost.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "inventory",
+        "oil",
+        "crude",
+        "cost",
+        "prices"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 300,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_07_29_getting_back_to_inventory_basics__s04_gasoline",
+      "doc_id": "poten_tankers_no_date_poten_2005_07_29_getting_back_to_inventory_basics",
+      "parent_id": "poten_tankers_no_date_poten_2005_07_29_getting_back_to_inventory_basics__root",
+      "title": "Gasoline",
+      "section_path": [
+        "Gasoline"
+      ],
+      "section_path_text": "Gasoline",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "consumption",
+        "days",
+        "inventory"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_07_29_getting_back_to_inventory_basics__s05_days_in_inventory",
+      "doc_id": "poten_tankers_no_date_poten_2005_07_29_getting_back_to_inventory_basics",
+      "parent_id": "poten_tankers_no_date_poten_2005_07_29_getting_back_to_inventory_basics__root",
+      "title": "Days in Inventory",
+      "section_path": [
+        "Days in Inventory"
+      ],
+      "section_path_text": "Days in Inventory",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Gasoline inventories have a much greater seasonal swing than crude oil as they are generally accumulated in the spring in anticipation of the peak summer driving season. Thus gasoline inventories in the United States are a buffer against seasonal demand.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "days",
+        "gasoline",
+        "inventories",
+        "are",
+        "gasoil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 167,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_07_29_getting_back_to_inventory_basics__s06_gasoil",
+      "doc_id": "poten_tankers_no_date_poten_2005_07_29_getting_back_to_inventory_basics",
+      "parent_id": "poten_tankers_no_date_poten_2005_07_29_getting_back_to_inventory_basics__root",
+      "title": "Gasoil",
+      "section_path": [
+        "Gasoil"
+      ],
+      "section_path_text": "Gasoil",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "",
+      "keywords": [
+        "consumption",
+        "days",
+        "inventory"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_07_29_getting_back_to_inventory_basics__s07_days_in_inventory",
+      "doc_id": "poten_tankers_no_date_poten_2005_07_29_getting_back_to_inventory_basics",
+      "parent_id": "poten_tankers_no_date_poten_2005_07_29_getting_back_to_inventory_basics__root",
+      "title": "Days in Inventory",
+      "section_path": [
+        "Days in Inventory"
+      ],
+      "section_path_text": "Days in Inventory",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Also similar to gasoline, overall inventory has remained about the same, averaging 121.7 million barrels since 1990. However, there has also been a significant decline in days of consumption in inventory from about 41 days in the early 1990s to 27 days in recent years for an overall average of 35.8 days.",
+      "keywords": [
+        "products",
+        "gas",
+        "days",
+        "inventory",
+        "overall",
+        "average",
+        "averaging",
+        "barrels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 70,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_07_29_getting_back_to_inventory_basics__s08_jet_fuel",
+      "doc_id": "poten_tankers_no_date_poten_2005_07_29_getting_back_to_inventory_basics",
+      "parent_id": "poten_tankers_no_date_poten_2005_07_29_getting_back_to_inventory_basics__root",
+      "title": "Jet Fuel",
+      "section_path": [
+        "Jet Fuel"
+      ],
+      "section_path_text": "Jet Fuel",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Jet fuel (kerosene) has shown the least change both in the volume of inventory and in the degree of decline in days of consumption in inventory. Average inventories have been 41 million barrels whereas days of consumption has declined from about 32 days in the early 1990s to a current level of about 25 days since the mid 1990s.",
+      "keywords": [
+        "products",
+        "days",
+        "consumption",
+        "average",
+        "barrels",
+        "both",
+        "change",
+        "current"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 75,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_07_29_getting_back_to_inventory_basics__s09_jet_fuel",
+      "doc_id": "poten_tankers_no_date_poten_2005_07_29_getting_back_to_inventory_basics",
+      "parent_id": "poten_tankers_no_date_poten_2005_07_29_getting_back_to_inventory_basics__root",
+      "title": "Jet Fuel",
+      "section_path": [
+        "Jet Fuel"
+      ],
+      "section_path_text": "Jet Fuel",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "",
+      "keywords": [
+        "consumption",
+        "days",
+        "inventory"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_07_29_getting_back_to_inventory_basics__s10_so_what_s_the_story",
+      "doc_id": "poten_tankers_no_date_poten_2005_07_29_getting_back_to_inventory_basics",
+      "parent_id": "poten_tankers_no_date_poten_2005_07_29_getting_back_to_inventory_basics__root",
+      "title": "So What's the Story?",
+      "section_path": [
+        "So What's the Story?"
+      ],
+      "section_path_text": "So What's the Story?",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "There appears to be some reversion back to inventory as a means to mitigate the risk of supply interruptions and away from acting as a sink for corporate capital. Indeed a contango market permits oil companies to hedge against accumulating high priced crude oil if indeed the present run up in crude prices should falter.",
+      "keywords": [
+        "crude_oil",
+        "inventory",
+        "buildup",
+        "contango",
+        "crude",
+        "indeed",
+        "oil",
+        "permits"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 124,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

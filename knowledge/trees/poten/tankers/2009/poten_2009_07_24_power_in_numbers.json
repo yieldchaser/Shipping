@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2009_07_24_power_in_numbers__root",
+  "doc_id": "poten_tankers_no_date_poten_2009_07_24_power_in_numbers",
+  "parent_id": null,
+  "title": "Power in Numbers",
+  "section_path": [
+    "Power in Numbers"
+  ],
+  "section_path_text": "Power in Numbers",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Power in Numbers\nAs if an extension of the arm of US bureaucracy, the tanker market is slugging along relentlessly with freight levels capable of beating down even the most optimistic. Unlike the US Congress which takes summer recess for the month of August, tankers are here to stay. However, after July's routing of positive returns on both the dirty and clean side ‐ which left earnings on some voyages with negative earnings ‐ the futilitarian thought process may have many shipowners looking for a break from what could be a long month ahead.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "brazil",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "day",
+    "gulf",
+    "per"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 864,
+  "source_path": "reports/poten/2009/poten_2009-07-24_power-in-numbers.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_07_24_power_in_numbers__s01_power_in_numbers",
+      "doc_id": "poten_tankers_no_date_poten_2009_07_24_power_in_numbers",
+      "parent_id": "poten_tankers_no_date_poten_2009_07_24_power_in_numbers__root",
+      "title": "Power in Numbers",
+      "section_path": [
+        "Power in Numbers"
+      ],
+      "section_path_text": "Power in Numbers",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As if an extension of the arm of US bureaucracy, the tanker market is slugging along relentlessly with freight levels capable of beating down even the most optimistic. Unlike the US Congress which takes summer recess for the month of August, tankers are here to stay.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "brazil",
+        "meg",
+        "west_africa",
+        "us_gulf",
+        "crude_oil",
+        "day"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 309,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_07_24_power_in_numbers__s02_does_it_add_up",
+      "doc_id": "poten_tankers_no_date_poten_2009_07_24_power_in_numbers",
+      "parent_id": "poten_tankers_no_date_poten_2009_07_24_power_in_numbers__root",
+      "title": "Does it Add Up?",
+      "section_path": [
+        "Does it Add Up?"
+      ],
+      "section_path_text": "Does it Add Up?",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The use of triangulation provides owners with the ability to push the utilization of their vessel over 100%, increasing the timecharter equivalent (TCE) for the duration of the voyage. For example, a VLCC making the standard voyage from the Arabian Gulf to LOOP would load and discharge a single cargo before returning to the Arabian Gulf for another voyage after roughly 76 days round‐trip.",
+      "keywords": [
+        "vlcc",
+        "brazil",
+        "meg",
+        "west_africa",
+        "arabian",
+        "gulf",
+        "push",
+        "utilization"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 273,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_07_24_power_in_numbers__s03_ag_loop",
+      "doc_id": "poten_tankers_no_date_poten_2009_07_24_power_in_numbers",
+      "parent_id": "poten_tankers_no_date_poten_2009_07_24_power_in_numbers__root",
+      "title": "AG‐LOOP",
+      "section_path": [
+        "AG‐LOOP"
+      ],
+      "section_path_text": "AG‐LOOP",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Triangulation (280kt) (280kt) + (260kt) Voyage Revenue $3,036,000 $6,525,000 Voyage Costs $2,702,000 $4,407,000 Total Days 76 112 TCE $4,395 $18,911 Another example of where triangulation is apparent is the clean product market. The benchmark trade, UK Continent to the US Atlantic Coast on 37kt of cargo, is currently earning roughly $6,000 per day.",
+      "keywords": [
+        "atlantic",
+        "europe",
+        "us_gulf",
+        "cargo",
+        "another",
+        "per",
+        "triangulation",
+        "voyage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 164,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_07_24_power_in_numbers__s04_effectively_earning",
+      "doc_id": "poten_tankers_no_date_poten_2009_07_24_power_in_numbers",
+      "parent_id": "poten_tankers_no_date_poten_2009_07_24_power_in_numbers__root",
+      "title": "Effectively Earning",
+      "section_path": [
+        "Effectively Earning"
+      ],
+      "section_path_text": "Effectively Earning",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "So even as the assessed timecharter equivalent dips below $0 per day or struggles to match break‐even costs, owner's are not willing to throw in the towel yet. Simple freight economics may point the current market to lay‐ups and premature scrapping but there is more than meets the eye.",
+      "keywords": [
+        "brazil",
+        "not",
+        "even",
+        "are",
+        "assessed",
+        "basis.",
+        "below",
+        "break"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 100,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

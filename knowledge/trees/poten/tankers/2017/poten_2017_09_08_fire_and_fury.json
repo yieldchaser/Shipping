@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2017_09_08_fire_and_fury__root",
+  "doc_id": "poten_tankers_no_date_poten_2017_09_08_fire_and_fury",
+  "parent_id": null,
+  "title": "Fire and Fury",
+  "section_path": [
+    "Fire and Fury"
+  ],
+  "section_path_text": "Fire and Fury",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "market\nThe potential impact of a North Korea conflict on the tanker market In recent weeks and months, North Korea has never been far from the headlines. Tensions were already high before the country performed another nuclear test and detonated its most powerful bomb yet. A week prior, on August 28, Japan was on high alert as the North Koreans fired a ballistic missile over the island of Hokkaido.",
+  "keywords": [
+    "china",
+    "japan",
+    "coal",
+    "crude_oil",
+    "products",
+    "gas",
+    "oil",
+    "north",
+    "korea",
+    "are",
+    "crude",
+    "but"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 811,
+  "source_path": "reports/poten/2017/poten_2017-09-08_fire-and-fury.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2017_09_08_fire_and_fury__s01_market",
+      "doc_id": "poten_tankers_no_date_poten_2017_09_08_fire_and_fury",
+      "parent_id": "poten_tankers_no_date_poten_2017_09_08_fire_and_fury__root",
+      "title": "market",
+      "section_path": [
+        "market"
+      ],
+      "section_path_text": "market",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The potential impact of a North Korea conflict on the tanker market In recent weeks and months, North Korea has never been far from the headlines. Tensions were already high before the country performed another nuclear test and detonated its most powerful bomb yet.",
+      "keywords": [
+        "china",
+        "japan",
+        "coal",
+        "crude_oil",
+        "products",
+        "gas",
+        "oil",
+        "north"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 579,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2017_09_08_fire_and_fury__s02_korean_peninsula",
+      "doc_id": "poten_tankers_no_date_poten_2017_09_08_fire_and_fury",
+      "parent_id": "poten_tankers_no_date_poten_2017_09_08_fire_and_fury__root",
+      "title": "Korean Peninsula",
+      "section_path": [
+        "Korean Peninsula"
+      ],
+      "section_path_text": "Korean Peninsula",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Petroleum products also fuel North Korea's military, including their rockets. In the unlikely event that Russia and China will agree to a permanent ban on oil and product exports, one has to assume that North Korea will have stockpiles to sustain critical operations for a significant period of time.",
+      "keywords": [
+        "china",
+        "japan",
+        "crude_oil",
+        "products",
+        "oil",
+        "korea",
+        "military",
+        "would"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 225,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2026_02_27_will_he_or_wont_he__root",
+  "doc_id": "poten_tankers_no_date_poten_2026_02_27_will_he_or_wont_he",
+  "parent_id": null,
+  "title": "Will He Or Wont He",
+  "section_path": [
+    "Will He Or Wont He"
+  ],
+  "section_path_text": "Will He Or Wont He",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Considering alternative Iran scenarios\nIran, its nuclear program and the regime's strained relationship with the U.S. and Israel is dominating the oil and tanker markets again. Talks about a new nuclear deal are under way.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "meg",
+    "crude_oil",
+    "oil",
+    "iran",
+    "u.s.",
+    "iranian",
+    "are",
+    "deal",
+    "not",
+    "its"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 862,
+  "source_path": "reports/poten/2026/poten_2026-02-27_will-he-or-wont-he.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2026_02_27_will_he_or_wont_he__s01_considering_alternative_iran_scenarios",
+      "doc_id": "poten_tankers_no_date_poten_2026_02_27_will_he_or_wont_he",
+      "parent_id": "poten_tankers_no_date_poten_2026_02_27_will_he_or_wont_he__root",
+      "title": "Considering alternative Iran scenarios",
+      "section_path": [
+        "Considering alternative Iran scenarios"
+      ],
+      "section_path_text": "Considering alternative Iran scenarios",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Iran, its nuclear program and the regime's strained relationship with the U.S. and Israel is dominating the oil and tanker markets again.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "meg",
+        "crude_oil",
+        "oil",
+        "iran",
+        "u.s.",
+        "iranian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 857,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

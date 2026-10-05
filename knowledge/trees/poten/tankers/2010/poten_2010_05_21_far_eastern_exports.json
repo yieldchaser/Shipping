@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_05_21_far_eastern_exports__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_05_21_far_eastern_exports",
+  "parent_id": null,
+  "title": "Far Eastern Exports?",
+  "section_path": [
+    "Far Eastern Exports?"
+  ],
+  "section_path_text": "Far Eastern Exports?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "A surge in production coinciding with Organization of Petroleum Exporting Countries (OPEC) cuts allowed Russia to briefly assume the role of the world's largest crude oil exporter in 2009. Russia has maintained high levels of crude oil production this year, but it is the country's expanding export infrastructure that has been felt most directly within the tanker market. A new pipeline and recently‐christened Kozmino Oil Terminal are the latest developments in the Eastern Siberia ‐ Pacific Ocean (ESPO) project and they have already demonstrated potential to offset some long‐haul ton‐mile demand from the Arabian Gulf.",
+  "keywords": [
+    "vlcc",
+    "aframax",
+    "china",
+    "pacific",
+    "meg",
+    "japan",
+    "crude_oil",
+    "products",
+    "gas",
+    "oil",
+    "kozmino",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 940,
+  "source_path": "reports/poten/2010/poten_2010-05-21_far-eastern-exports.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_05_21_far_eastern_exports__s01_far_eastern_exports",
+      "doc_id": "poten_tankers_no_date_poten_2010_05_21_far_eastern_exports",
+      "parent_id": "poten_tankers_no_date_poten_2010_05_21_far_eastern_exports__root",
+      "title": "Far Eastern Exports?",
+      "section_path": [
+        "Far Eastern Exports?"
+      ],
+      "section_path_text": "Far Eastern Exports?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "A surge in production coinciding with Organization of Petroleum Exporting Countries (OPEC) cuts allowed Russia to briefly assume the role of the world's largest crude oil exporter in 2009. Russia has maintained high levels of crude oil production this year, but it is the country's expanding export infrastructure that has been felt most directly within the tanker market.",
+      "keywords": [
+        "pacific",
+        "meg",
+        "crude_oil",
+        "oil",
+        "pipeline",
+        "crude",
+        "espo",
+        "kozmino"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 320,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_05_21_far_eastern_exports__s02_mongolia",
+      "doc_id": "poten_tankers_no_date_poten_2010_05_21_far_eastern_exports",
+      "parent_id": "poten_tankers_no_date_poten_2010_05_21_far_eastern_exports__root",
+      "title": "Mongolia",
+      "section_path": [
+        "Mongolia"
+      ],
+      "section_path_text": "Mongolia",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The Kozmino Oil Port has a 21 meter depth and can accommodate tankers with deadweights between 80,000 and 150,000 dwt. The standard cargo size from Kozmino is about 100,000 mt and since the port's opening, cargoes have overwhelmingly been carried on Aframax tankers.",
+      "keywords": [
+        "aframax",
+        "crude_oil",
+        "kozmino",
+        "fixtures",
+        "port",
+        "reported",
+        "since",
+        "accommodate"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 136,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_05_21_far_eastern_exports__s03_jan_10",
+      "doc_id": "poten_tankers_no_date_poten_2010_05_21_far_eastern_exports",
+      "parent_id": "poten_tankers_no_date_poten_2010_05_21_far_eastern_exports__root",
+      "title": "Jan ‐ 10",
+      "section_path": [
+        "Jan ‐ 10"
+      ],
+      "section_path_text": "Jan ‐ 10",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Feb‐10 Mar ‐ 10 Apr ‐ 10 May‐10 TD More than half of reported spot fixtures from Kozmino have gone to South Korea, with Japan and the West Coast of the United States as the next most frequent destinations reported for these cargoes. Smaller percentages of ex‐Kozmino fixtures have reportedly been exported to China, Thailand, Taiwan and elsewhere in region.",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "china",
+        "meg",
+        "japan",
+        "crude_oil",
+        "products",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 469,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -25,7 +25,7 @@ keywords:
 - usd
 - information
 market_tone: constructive
-numeric_observation_count: 48
+numeric_observation_count: 46
 numeric_observations:
 - section: CLARKSONS HELLAS - SnP WEEKLY
   section_type: null
@@ -81,12 +81,6 @@ numeric_observations:
   - 2015.0
 - section: Market Report Content
   section_type: null
-  source_line: TSUNEISHI ZHOUSHAN) has been acquired by Indian interests for USD 29.25m.
-  unit: usd
-  values:
-  - 29250.0
-- section: Market Report Content
-  section_type: null
   source_line: The BBG WUZHOU (ABT 82K DWT, 2016, TSUNEISHI ZHOUSHAN) was sold via
     auction at xs USD 29m, which
   unit: usd
@@ -122,15 +116,8 @@ numeric_observations:
     UI CHIBA) was acquired by
   unit: usd
   values:
-  - 19500.0
   - 50.0
   - 2001.0
-- section: Market Report Content
-  section_type: null
-  source_line: Chinese interest for USD 7.5m.
-  unit: usd
-  values:
-  - 7500.0
 - section: Market Report Content
   section_type: null
   source_line: C/o CMB.TECH have sold their very modern Korean-built scrubber-fitted
@@ -150,7 +137,7 @@ numeric_observations:
   source_line: 56.9m with delivery by the end of this year.
   unit: null
   values:
-  - 56900.0
+  - 56.9
 - section: Market Report Content
   section_type: null
   source_line: On the MR segment, Clients of Onex DMCC have committed their two Hyundai
@@ -188,7 +175,7 @@ numeric_observations:
   values:
   - 6.0
   - 60.0
-  - 8200.0
+  - 8.2
   - 8.0
   - 30.0
 - section: Market Report Content
@@ -212,7 +199,7 @@ numeric_observations:
   values:
   - 6.0
   - 60.0
-  - 8200.0
+  - 8.2
   - 10.0
   - 30.0
 - section: Market Report Content
@@ -222,7 +209,6 @@ numeric_observations:
   values:
   - 2.0
   - 29.0
-  - 29250.0
 - section: Market Report Content
   section_type: null
   source_line: BBG WUZHOU 81,895 2016 TSUNEISHI
@@ -237,7 +223,7 @@ numeric_observations:
   values:
   - 6.0
   - 60.0
-  - 8200.0
+  - 8.2
   - 10.0
   - 26.0
 - section: Market Report Content
@@ -256,7 +242,7 @@ numeric_observations:
   - 2015.0
   - 6.0
   - 60.0
-  - 8200.0
+  - 8.2
   - 5.0
   - 30.0
 - section: Market Report Content
@@ -275,7 +261,7 @@ numeric_observations:
   - 2012.0
   - 6.0
   - 50.0
-  - 8200.0
+  - 8.2
 - section: Market Report Content
   section_type: null
   source_line: 'C: 4X31T'
@@ -297,7 +283,6 @@ numeric_observations:
   values:
   - 4.0
   - 27.0
-  - 19500.0
 - section: Market Report Content
   section_type: null
   source_line: GLORY BRIDGE 50,077 2001 MITSUI CHIBA B&W 6S50MC-C
@@ -328,7 +313,6 @@ numeric_observations:
   values:
   - 6.0
   - 29.0
-  - 7500.0
 - section: Market Report Content
   section_type: null
   source_line: BRISTOL 157,077 2024 HD HYUNDAI SAMHO B&W 6G70ME-C10.5
@@ -338,7 +322,7 @@ numeric_observations:
   - 2024.0
   - 6.0
   - 70.0
-  - 10500.0
+  - 10.5
 - section: Market Report Content
   section_type: null
   source_line: SS 02/29
@@ -363,7 +347,7 @@ numeric_observations:
   - 2026.0
   - 6.0
   - 50.0
-  - 10700.0
+  - 10.7
   - 50.0
 - section: Market Report Content
   section_type: null
@@ -375,7 +359,7 @@ numeric_observations:
   - 2026.0
   - 6.0
   - 50.0
-  - 10700.0
+  - 10.7
   - 50.0
 - section: Market Report Content
   section_type: null

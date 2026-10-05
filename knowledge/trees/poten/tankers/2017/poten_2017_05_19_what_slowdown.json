@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2017_05_19_what_slowdown__root",
+  "doc_id": "poten_tankers_no_date_poten_2017_05_19_what_slowdown",
+  "parent_id": null,
+  "title": "What Slowdown",
+  "section_path": [
+    "What Slowdown"
+  ],
+  "section_path_text": "What Slowdown",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "China's crude oil demand and imports remain strong\nSince the early years of this century, China has been the growth engine of the bulk shipping markets. In recent years, China's annual growth rates have slowed from the heady double digit levels that were not unusual 10 years ago. However, since the country's absolute demand levels are so much higher, China's lower growth rates still translate into material ton and ton mile demand expansion for the tanker market.",
+  "keywords": [
+    "china",
+    "brazil",
+    "crude_oil",
+    "products",
+    "gas",
+    "demand",
+    "oil",
+    "crude",
+    "year",
+    "april",
+    "imports",
+    "growth"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 899,
+  "source_path": "reports/poten/2017/poten_2017-05-19_what-slowdown.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2017_05_19_what_slowdown__s01_china_s_crude_oil_demand_and_imports_remain_strong",
+      "doc_id": "poten_tankers_no_date_poten_2017_05_19_what_slowdown",
+      "parent_id": "poten_tankers_no_date_poten_2017_05_19_what_slowdown__root",
+      "title": "China's crude oil demand and imports remain strong",
+      "section_path": [
+        "China's crude oil demand and imports remain strong"
+      ],
+      "section_path_text": "China's crude oil demand and imports remain strong",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Since the early years of this century, China has been the growth engine of the bulk shipping markets. In recent years, China's annual growth rates have slowed from the heady double digit levels that were not unusual 10 years ago.",
+      "keywords": [
+        "china",
+        "brazil",
+        "crude_oil",
+        "demand",
+        "oil",
+        "crude",
+        "year",
+        "april"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 655,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2017_05_19_what_slowdown__s02_thousand_mt",
+      "doc_id": "poten_tankers_no_date_poten_2017_05_19_what_slowdown",
+      "parent_id": "poten_tankers_no_date_poten_2017_05_19_what_slowdown__root",
+      "title": "Thousand MT",
+      "section_path": [
+        "Thousand MT"
+      ],
+      "section_path_text": "Thousand MT",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "China Crude Oil Imports Top 10 Countries The outlook for China's economy is positive, despite some deceleration in April. Most economists believe China will achieve its GDP growth target of 6.5% this year.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "products",
+        "gas",
+        "demand",
+        "oil",
+        "alternative",
+        "energy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 230,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

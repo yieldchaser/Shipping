@@ -497,16 +497,16 @@ numeric_observations:
     Qingdao,
   unit: null
   values:
-  - 15950.0
-  - 17200.0
+  - 15.95
+  - 17.2
 - section: Market Report Content
   section_type: null
   source_line: 41.90/43.00 fio, alongside a Seven Islands run reaching USD 46.65 fio.
   unit: usd
   values:
-  - 41900.0
-  - 43000.0
-  - 46650.0
+  - 41.9
+  - 43.0
+  - 46.65
 - section: Market Report Content
   section_type: null
   source_line: between USD 19,000/25,000 pd. Australian rounds with redelivery in
@@ -1050,7 +1050,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/advanced_shipping_19_09_2026_advanced_shipping_trading_weekly_shipping_marke.md
+source_path: reports/broker_reports/2026/advanced_shipping/advanced_shipping_19_09_2026_advanced_shipping_trading_weekly_shipping_marke.md
 source_stem: advanced_shipping_19_09_2026_advanced_shipping_trading_weekly_shipping_marke
 source_url: https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-38-2026/
 summary: 'Advanced Shipping & Trading - WEEKLY SHIPPING MARKET REPORT WEEK 38 2026

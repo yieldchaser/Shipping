@@ -21,13 +21,13 @@
     "europe",
     "japan",
     "crude_oil",
-    "are",
-    "crude"
+    "any",
+    "are"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 642,
-  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-07-24_clarksons-hellas-snp-weekly-2.html",
+  "token_count": 2521,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-07-24_clarksons-hellas-snp-weekly-2.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-2",
   "children": [
     {
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 640,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-07-24_2026_07_24_clarksons_hellas_snp_weekly_2__s02_linked_asset_2026_07_24_clarksons_hellas_snp_weekly_2_weekly_sales_24th_july_2026_c976a6675bb2_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-07-24_2026_07_24_clarksons_hellas_snp_weekly_2",
+      "parent_id": "hellenic_shipbuilding_2026-07-24_2026_07_24_clarksons_hellas_snp_weekly_2__root",
+      "title": "Linked asset: 2026-07-24_clarksons-hellas-snp-weekly-2_weekly-sales-24th-july-2026_c976a6675bb2.pdf",
+      "section_path": [
+        "Linked asset: 2026-07-24_clarksons-hellas-snp-weekly-2_weekly-sales-24th-july-2026_c976a6675bb2.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-07-24_clarksons-hellas-snp-weekly-2_weekly-sales-24th-july-2026_c976a6675bb2.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-07-24_clarksons-hellas-snp-weekly-2_weekly-sales-24th-july-2026_c976a6675bb2.pdf\n\n### Clarkson Hellas Ltd. # Desk Talk\n\nWith the conflict in the Middle East Gulf escalating further, this week's incidents mark the first Houthi attacks on vessels within the Red Sea in over 6 months, and more specifically on two Saudi-linked tankers, a 2003 built LR2 and a 2007 built VLCC.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "meg",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1837,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

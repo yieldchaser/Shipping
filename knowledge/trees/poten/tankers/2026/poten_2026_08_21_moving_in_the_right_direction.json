@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2026_08_21_moving_in_the_right_direction__root",
+  "doc_id": "poten_tankers_no_date_poten_2026_08_21_moving_in_the_right_direction",
+  "parent_id": null,
+  "title": "Moving In The Right Direction",
+  "section_path": [
+    "Moving In The Right Direction"
+  ],
+  "section_path_text": "Moving In The Right Direction",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Venezuela's production and exports are recovering\nOn January 3 rd of this year, Venezuelan president Maduro and his wife were captured by U.S. special forces in a predawn raid and flown to the United States to face criminal charges. Delcy Rodriguez, Maduro's former Vice President and Oil Minister, was officially sworn in as the interim president of Venezuela on January 5, 2026.",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "europe",
+    "india",
+    "crude_oil",
+    "venezuela",
+    "u.s.",
+    "oil",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 951,
+  "source_path": "reports/poten/2026/poten_2026-08-21_moving-in-the-right-direction.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2026_08_21_moving_in_the_right_direction__s01_venezuela_s_production_and_exports_are_recovering",
+      "doc_id": "poten_tankers_no_date_poten_2026_08_21_moving_in_the_right_direction",
+      "parent_id": "poten_tankers_no_date_poten_2026_08_21_moving_in_the_right_direction__root",
+      "title": "Venezuela's production and exports are recovering",
+      "section_path": [
+        "Venezuela's production and exports are recovering"
+      ],
+      "section_path_text": "Venezuela's production and exports are recovering",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "On January 3 rd of this year, Venezuelan president Maduro and his wife were captured by U.S. special forces in a predawn raid and flown to the United States to face criminal charges.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "europe",
+        "india",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 941,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

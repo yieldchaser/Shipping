@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2024_01_05_deja_vu_all_over_again__root",
+  "doc_id": "poten_tankers_no_date_poten_2024_01_05_deja_vu_all_over_again",
+  "parent_id": null,
+  "title": "Deja Vu All Over Again",
+  "section_path": [
+    "Deja Vu All Over Again"
+  ],
+  "section_path_text": "Deja Vu All Over Again",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Top Reported Dirty Spot Charterers for 2023*\nOur annual rankings in 2023 showed few surprises. The usual suspects topped the lists. Unipec - to nobody's surprise - remains No.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "brazil",
+    "top",
+    "total",
+    "fixtures",
+    "reported",
+    "shell",
+    "unipec",
+    "new"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1184,
+  "source_path": "reports/poten/2024/poten_2024-01-05_deja-vu-all-over-again.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2024_01_05_deja_vu_all_over_again__s01_top_reported_dirty_spot_charterers_for_2023",
+      "doc_id": "poten_tankers_no_date_poten_2024_01_05_deja_vu_all_over_again",
+      "parent_id": "poten_tankers_no_date_poten_2024_01_05_deja_vu_all_over_again__root",
+      "title": "Top Reported Dirty Spot Charterers for 2023*",
+      "section_path": [
+        "Top Reported Dirty Spot Charterers for 2023*"
+      ],
+      "section_path_text": "Top Reported Dirty Spot Charterers for 2023*",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Our annual rankings in 2023 showed few surprises. The usual suspects topped the lists.",
+      "keywords": [
+        "china",
+        "total",
+        "new",
+        "cargo",
+        "fixtures",
+        "top",
+        "unipec",
+        "versus"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 749,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2024_01_05_deja_vu_all_over_again__s02_chart_top_10_vlcc_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2024_01_05_deja_vu_all_over_again",
+      "parent_id": "poten_tankers_no_date_poten_2024_01_05_deja_vu_all_over_again__root",
+      "title": "Chart: Top 10 VLCC Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 VLCC Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 VLCC Spot Charterers",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Unipec's decline relative to last year was concentrated in the VLCC segment (down 51 fixtures), while many of the other large players in this segment increased their activity. Largest gainers were Petrobras (+34), Shell (+24) and GS Caltex (+23).",
+      "keywords": [
+        "vlcc",
+        "caltex",
+        "fixtures",
+        "last",
+        "moved",
+        "petrobras",
+        "place",
+        "segment"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 139,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2024_01_05_deja_vu_all_over_again__s03_chart_top_10_suezmax_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2024_01_05_deja_vu_all_over_again",
+      "parent_id": "poten_tankers_no_date_poten_2024_01_05_deja_vu_all_over_again__root",
+      "title": "Chart: Top 10 Suezmax Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 Suezmax Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 Suezmax Spot Charterers",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "In the Suezmax segment, Total maintained the #1 spot, followed by ExxonMobil. Big gainers were Shell, which moved from 10 th to 3 rd and Unipec (from 9 th to 6 th ).",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "brazil",
+        "activity",
+        "are",
+        "barrels",
+        "being",
+        "big"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 105,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2024_01_05_deja_vu_all_over_again__s04_chart_top_10_aframax_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2024_01_05_deja_vu_all_over_again",
+      "parent_id": "poten_tankers_no_date_poten_2024_01_05_deja_vu_all_over_again__root",
+      "title": "Chart: Top 10 Aframax Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 Aframax Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 Aframax Spot Charterers",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The Aframax segment showed significant changes with a relative stable group of charterers. There is only one new entrant in the top 10: Aramco replaces Unipec.",
+      "keywords": [
+        "aframax",
+        "fixtures",
+        "less",
+        "reported",
+        "above",
+        "active",
+        "activity",
+        "activity."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 145,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

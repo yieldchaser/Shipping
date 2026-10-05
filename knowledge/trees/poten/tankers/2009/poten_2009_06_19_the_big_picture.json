@@ -1,0 +1,174 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2009_06_19_the_big_picture__root",
+  "doc_id": "poten_tankers_no_date_poten_2009_06_19_the_big_picture",
+  "parent_id": null,
+  "title": "The Big Picture",
+  "section_path": [
+    "The Big Picture"
+  ],
+  "section_path_text": "The Big Picture",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Statistical Review of World Energy 2009,\nThe Big Picture 2009 BP Statistical Review of World Energy In the Statistical Review of World Energy 2009, BP provides a long term historical view of the energy markets, and a clear recap of what is arguably one of the most volatile years for energy ‐ 2008. Tony Hayward, BP's Group Chief Executive summed up the analysis by saying, \"Our data confirms that the world has enough proved reserves of oil, natural gas and coal to meet the world's needs for decades to come. The challenges the world faces in growing supplies to meet future demand are not below the ground, they are above ground.",
+  "keywords": [
+    "coal",
+    "crude_oil",
+    "gas",
+    "oil",
+    "energy",
+    "world",
+    "crude",
+    "consumption",
+    "countries",
+    "growth",
+    "oecd",
+    "reserves"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 769,
+  "source_path": "reports/poten/2009/poten_2009-06-19_the-big-picture.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_06_19_the_big_picture__s01_statistical_review_of_world_energy_2009",
+      "doc_id": "poten_tankers_no_date_poten_2009_06_19_the_big_picture",
+      "parent_id": "poten_tankers_no_date_poten_2009_06_19_the_big_picture__root",
+      "title": "Statistical Review of World Energy 2009,",
+      "section_path": [
+        "Statistical Review of World Energy 2009,"
+      ],
+      "section_path_text": "Statistical Review of World Energy 2009,",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Big Picture 2009 BP Statistical Review of World Energy In the Statistical Review of World Energy 2009, BP provides a long term historical view of the energy markets, and a clear recap of what is arguably one of the most volatile years for energy ‐ 2008. Tony Hayward, BP's Group Chief Executive summed up the analysis by saying, \"Our data confirms that the world has enough proved reserves of oil, natural gas and coal to meet the world's needs for decades to come.",
+      "keywords": [
+        "coal",
+        "crude_oil",
+        "gas",
+        "oil",
+        "world",
+        "crude",
+        "energy",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 254,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_06_19_the_big_picture__s02_billion_bbls",
+      "doc_id": "poten_tankers_no_date_poten_2009_06_19_the_big_picture",
+      "parent_id": "poten_tankers_no_date_poten_2009_06_19_the_big_picture__root",
+      "title": "(Billion Bbls)",
+      "section_path": [
+        "(Billion Bbls)"
+      ],
+      "section_path_text": "(Billion Bbls)",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Currently, the Organization of Petroleum Exporting Countries (OPEC) controls 76% of reserves, non‐OPEC countries account for 14% and the Former Soviet Union has 10%. The reserve to production ratio has remained in the 40 year range since 1998 (coal's reserve to production ratio is 120 years).",
+      "keywords": [
+        "coal",
+        "crude_oil",
+        "countries",
+        "opec",
+        "production",
+        "ratio",
+        "reserve",
+        "reserves"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 90,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_06_19_the_big_picture__s03_identifying_the_growth",
+      "doc_id": "poten_tankers_no_date_poten_2009_06_19_the_big_picture",
+      "parent_id": "poten_tankers_no_date_poten_2009_06_19_the_big_picture__root",
+      "title": "Identifying the Growth",
+      "section_path": [
+        "Identifying the Growth"
+      ],
+      "section_path_text": "Identifying the Growth",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Since 1995, world oil consumption has grown by roughly 14.8 mbd. While the OECD countries have traditionally held the lion's share of this pie, the distribution has changed in recent years.",
+      "keywords": [
+        "crude_oil",
+        "consumption",
+        "energy",
+        "world",
+        "countries",
+        "oecd",
+        "accounted",
+        "emes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 179,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_06_19_the_big_picture__s04_in_the_mix",
+      "doc_id": "poten_tankers_no_date_poten_2009_06_19_the_big_picture",
+      "parent_id": "poten_tankers_no_date_poten_2009_06_19_the_big_picture__root",
+      "title": "In the Mix",
+      "section_path": [
+        "In the Mix"
+      ],
+      "section_path_text": "In the Mix",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Not surprisingly, oil continues to provide the predominant source of energy worldwide, 35% of total consumption. Oil saw a decline of 0.6%, very similar to nuclear, year on year, while coal, gas and hydro sources saw an increase of between 2.5‐3% each.",
+      "keywords": [
+        "coal",
+        "crude_oil",
+        "gas",
+        "energy",
+        "oil",
+        "each.",
+        "hydro",
+        "nuclear"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 140,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_06_19_the_big_picture__s05_oil",
+      "doc_id": "poten_tankers_no_date_poten_2009_06_19_the_big_picture",
+      "parent_id": "poten_tankers_no_date_poten_2009_06_19_the_big_picture__root",
+      "title": "Oil",
+      "section_path": [
+        "Oil"
+      ],
+      "section_path_text": "Oil",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Coal Gas Hydro Nuclear Improving economic conditions, however slight, will ramp up the call on worldwide energy supplies. With the non‐OECD growth potential, and OECD recovery, looming on the horizon, crude oil supplies will come under increasing pressure.",
+      "keywords": [
+        "coal",
+        "crude_oil",
+        "gas",
+        "crude",
+        "economic",
+        "oecd",
+        "oil",
+        "prices"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 79,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

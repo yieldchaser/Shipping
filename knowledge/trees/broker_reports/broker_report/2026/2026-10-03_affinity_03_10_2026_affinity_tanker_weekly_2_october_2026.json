@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-10-03_affinity_03_10_2026_affinity_tanker_weekly_2_october_2026__root",
+  "doc_id": "broker_reports_broker_report_2026-10-03_affinity_03_10_2026_affinity_tanker_weekly_2_october_2026",
+  "parent_id": null,
+  "title": "Affinity Tanker Weekly, 2 October 2026",
+  "section_path": [
+    "Affinity Tanker Weekly, 2 October 2026"
+  ],
+  "section_path_text": "Affinity Tanker Weekly, 2 October 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Affinity Tanker Weekly, 2 October 2026\n**Broker**: Affinity\n**Published Date**: 03/10/2026\n**Source URL**: [https://www.hellenicshippingnews.com/affinity-tanker-weekly-2-october-2026/](https://www.hellenicshippingnews.com/affinity-tanker-weekly-2-october-2026/)\n\nMarket Report Content\nAffinity Research LLP, 44th Floor,\nThe Leadenhall Building, 122 Leadenhall Street,\nLondon, EC3A 8EE, United Kingdom\nT. affinityship.comAFFINITY TANKER WEEKLY\n02 OCTOBER 2026\n1\nCrude Tanker Comments\nThe VLCC market ends the week on a high with a tight list, growing demand for prompt\ncrude, and firming East of Suez. The rapid strengthening in the Atlantic Suezmax\nmarket has been a key contributor, with a WAFR-UKC Suezmax on subs at four figures.",
+  "keywords": [
+    "capesize",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "australia",
+    "atlantic",
+    "west_africa",
+    "europe",
+    "us_gulf",
+    "singapore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2973,
+  "source_path": "reports/broker_reports/2026/affinity/affinity_03_10_2026_affinity_tanker_weekly_2_october_2026.md",
+  "source_url": "https://www.hellenicshippingnews.com/affinity-tanker-weekly-2-october-2026/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-10-03_affinity_03_10_2026_affinity_tanker_weekly_2_october_2026__s01_affinity_tanker_weekly_2_october_2026",
+      "doc_id": "broker_reports_broker_report_2026-10-03_affinity_03_10_2026_affinity_tanker_weekly_2_october_2026",
+      "parent_id": "broker_reports_broker_report_2026-10-03_affinity_03_10_2026_affinity_tanker_weekly_2_october_2026__root",
+      "title": "Affinity Tanker Weekly, 2 October 2026",
+      "section_path": [
+        "Affinity Tanker Weekly, 2 October 2026"
+      ],
+      "section_path_text": "Affinity Tanker Weekly, 2 October 2026",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: Affinity\n**Published Date**: 03/10/2026\n**Source URL**: [https://www.hellenicshippingnews.com/affinity-tanker-weekly-2-october-2026/](https://www.hellenicshippingnews.com/affinity-tanker-weekly-2-october-2026/)",
+      "keywords": [
+        "https",
+        "www.hellenicshippingnews.com/affinity-tanker-weekly-2-october-2026",
+        "affinity",
+        "broker",
+        "date",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 74,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-10-03_affinity_03_10_2026_affinity_tanker_weekly_2_october_2026__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-10-03_affinity_03_10_2026_affinity_tanker_weekly_2_october_2026",
+      "parent_id": "broker_reports_broker_report_2026-10-03_affinity_03_10_2026_affinity_tanker_weekly_2_october_2026__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Affinity Research LLP, 44th Floor,\nThe Leadenhall Building, 122 Leadenhall Street,\nLondon, EC3A 8EE, United Kingdom\nT. affinityship.comAFFINITY TANKER WEEKLY\n02 OCTOBER 2026\n1\nCrude Tanker Comments\nThe VLCC market ends the week on a high with a tight list, growing demand for prompt\ncrude, and firming East of Suez.",
+      "keywords": [
+        "capesize",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "australia",
+        "atlantic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2881,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

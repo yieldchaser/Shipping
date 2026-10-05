@@ -33,7 +33,8 @@ linked_assets_skipped: 0
 market_tone: neutral
 numeric_observation_count: 13
 numeric_observations:
-- section: Main
+- &id001
+  section: Main
   section_type: null
   source_line: Kamsarmax Polynesia Queen (82,200 DWT, 2012, Tsuneishi Zhoushan) sold
     by Laus Ocean Shipping for USD 21 mil, VV Value USD 21.1 mil.
@@ -42,8 +43,9 @@ numeric_observations:
   - 82200.0
   - 2012.0
   - 21.0
-  - 21100.0
-- section: Main
+  - 21.1
+- &id002
+  section: Main
   section_type: null
   source_line: Ultramax Livita (63,500 DWT, 2017, Shin Kasado Dock) sold by Ugland
     Bulk Shipping AS for USD 30.5 mil, VV Value USD 30.9 mil.
@@ -51,9 +53,10 @@ numeric_observations:
   values:
   - 63500.0
   - 2017.0
-  - 30500.0
-  - 30900.0
-- section: Main
+  - 30.5
+  - 30.9
+- &id003
+  section: Main
   section_type: null
   source_line: Supramax Sea Abigail (53,300 DWT, 2003, Kanasashi) sold by Sea Castle
     Ship Management to UAE buyers for USD 8.8 mil, VV Value USD 8.7 mil.
@@ -61,9 +64,10 @@ numeric_observations:
   values:
   - 53300.0
   - 2003.0
-  - 8800.0
-  - 8700.0
-- section: Main
+  - 8.8
+  - 8.7
+- &id004
+  section: Main
   section_type: null
   source_line: Handy HTK Lucky (28,500 DWT, 2003, Imabari) sold by HTK Shipping &
     Import Export to Chinese buyers for USD 6 mil, VV Value USD 5.6 mil.
@@ -72,8 +76,9 @@ numeric_observations:
   - 28500.0
   - 2003.0
   - 6.0
-  - 5600.0
-- section: Main
+  - 5.6
+- &id005
+  section: Main
   section_type: null
   source_line: Feedermax Alexander B (1,221 TEU, 2006, Detlef Hegemann Rolandwerft)
     sold to undisclosed buyers for USD 11.5 mil, VV Value USD 11 mil.
@@ -81,9 +86,10 @@ numeric_observations:
   values:
   - 1221.0
   - 2006.0
-  - 11500.0
+  - 11.5
   - 11.0
-- section: Main
+- &id006
+  section: Main
   section_type: null
   source_line: Feedermax A Goryu (1,096 TEU, 2023, Kyokuyo) sold to Chinese buyers
     for USD 26.5 mil, VV Value USD 27 mil.
@@ -91,15 +97,17 @@ numeric_observations:
   values:
   - 1096.0
   - 2023.0
-  - 26500.0
+  - 26.5
   - 27.0
-- section: Main
+- &id007
+  section: Main
   section_type: null
   source_line: 'Linked asset: 15720250.jpg'
   unit: null
   values:
   - 15720250.0
-- section: 'Linked asset: 2026-07-15_weekly-vessel-valuations-report-july-15-2026_15720250_c88c24b07201.jpg'
+- &id008
+  section: 'Linked asset: 2026-07-15_weekly-vessel-valuations-report-july-15-2026_15720250_c88c24b07201.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2026-07-15_weekly-vessel-valuations-report-july-15-2026_15720250_c88c24b07201.jpg'
   unit: null
@@ -113,34 +121,39 @@ numeric_observations:
   - 88.0
   - 24.0
   - 7201.0
-- section: 'Linked asset: 2026-07-15_weekly-vessel-valuations-report-july-15-2026_15720250_c88c24b07201.jpg'
+- &id009
+  section: 'Linked asset: 2026-07-15_weekly-vessel-valuations-report-july-15-2026_15720250_c88c24b07201.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 600x279 mode=RGB'
   unit: null
   values:
   - 600.0
   - 279.0
-- section: 'Linked asset: 2026-07-15_weekly-vessel-valuations-report-july-15-2026_15720250_c88c24b07201.jpg'
+- &id010
+  section: 'Linked asset: 2026-07-15_weekly-vessel-valuations-report-july-15-2026_15720250_c88c24b07201.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (72.0, 72.0)'
   unit: null
   values:
-  - 72000.0
-  - 72000.0
-- section: 'Linked asset: 2026-07-15_weekly-vessel-valuations-report-july-15-2026_15720250_c88c24b07201.jpg'
+  - 72.0
+  - 72.0
+- &id011
+  section: 'Linked asset: 2026-07-15_weekly-vessel-valuations-report-july-15-2026_15720250_c88c24b07201.jpg'
   section_type: linked_image_asset
   source_line: 15 July 2026 VV Mini Matrix - Weekly Change
   unit: null
   values:
   - 15.0
   - 2026.0
-- section: 'Linked asset: 2026-07-15_weekly-vessel-valuations-report-july-15-2026_15720250_c88c24b07201.jpg'
+- &id012
+  section: 'Linked asset: 2026-07-15_weekly-vessel-valuations-report-july-15-2026_15720250_c88c24b07201.jpg'
   section_type: linked_image_asset
   source_line: ‘ a cal ue ™ = ~ _ - = - an me 1
   unit: null
   values:
   - 1.0
-- section: 'Linked asset: 2026-07-15_weekly-vessel-valuations-report-july-15-2026_15720250_c88c24b07201.jpg'
+- &id013
+  section: 'Linked asset: 2026-07-15_weekly-vessel-valuations-report-july-15-2026_15720250_c88c24b07201.jpg'
   section_type: linked_image_asset
   source_line: SS Ses eho = 2 ahs Se =
   unit: null
@@ -156,121 +169,21 @@ section_count: 2
 signals:
   numeric_observation_count: 13
   numeric_observations:
-  - section: Main
-    section_type: null
-    source_line: Kamsarmax Polynesia Queen (82,200 DWT, 2012, Tsuneishi Zhoushan)
-      sold by Laus Ocean Shipping for USD 21 mil, VV Value USD 21.1 mil.
-    unit: usd
-    values:
-    - 82200.0
-    - 2012.0
-    - 21.0
-    - 21100.0
-  - section: Main
-    section_type: null
-    source_line: Ultramax Livita (63,500 DWT, 2017, Shin Kasado Dock) sold by Ugland
-      Bulk Shipping AS for USD 30.5 mil, VV Value USD 30.9 mil.
-    unit: usd
-    values:
-    - 63500.0
-    - 2017.0
-    - 30500.0
-    - 30900.0
-  - section: Main
-    section_type: null
-    source_line: Supramax Sea Abigail (53,300 DWT, 2003, Kanasashi) sold by Sea Castle
-      Ship Management to UAE buyers for USD 8.8 mil, VV Value USD 8.7 mil.
-    unit: usd
-    values:
-    - 53300.0
-    - 2003.0
-    - 8800.0
-    - 8700.0
-  - section: Main
-    section_type: null
-    source_line: Handy HTK Lucky (28,500 DWT, 2003, Imabari) sold by HTK Shipping
-      & Import Export to Chinese buyers for USD 6 mil, VV Value USD 5.6 mil.
-    unit: usd
-    values:
-    - 28500.0
-    - 2003.0
-    - 6.0
-    - 5600.0
-  - section: Main
-    section_type: null
-    source_line: Feedermax Alexander B (1,221 TEU, 2006, Detlef Hegemann Rolandwerft)
-      sold to undisclosed buyers for USD 11.5 mil, VV Value USD 11 mil.
-    unit: usd
-    values:
-    - 1221.0
-    - 2006.0
-    - 11500.0
-    - 11.0
-  - section: Main
-    section_type: null
-    source_line: Feedermax A Goryu (1,096 TEU, 2023, Kyokuyo) sold to Chinese buyers
-      for USD 26.5 mil, VV Value USD 27 mil.
-    unit: usd
-    values:
-    - 1096.0
-    - 2023.0
-    - 26500.0
-    - 27.0
-  - section: Main
-    section_type: null
-    source_line: 'Linked asset: 15720250.jpg'
-    unit: null
-    values:
-    - 15720250.0
-  - section: 'Linked asset: 2026-07-15_weekly-vessel-valuations-report-july-15-2026_15720250_c88c24b07201.jpg'
-    section_type: linked_image_asset
-    source_line: 'Linked image asset: 2026-07-15_weekly-vessel-valuations-report-july-15-2026_15720250_c88c24b07201.jpg'
-    unit: null
-    values:
-    - 2026.0
-    - -7.0
-    - -15.0
-    - 15.0
-    - -2026.0
-    - 15720250.0
-    - 88.0
-    - 24.0
-    - 7201.0
-  - section: 'Linked asset: 2026-07-15_weekly-vessel-valuations-report-july-15-2026_15720250_c88c24b07201.jpg'
-    section_type: linked_image_asset
-    source_line: 'Image metadata: JPEG 600x279 mode=RGB'
-    unit: null
-    values:
-    - 600.0
-    - 279.0
-  - section: 'Linked asset: 2026-07-15_weekly-vessel-valuations-report-july-15-2026_15720250_c88c24b07201.jpg'
-    section_type: linked_image_asset
-    source_line: 'dpi: (72.0, 72.0)'
-    unit: null
-    values:
-    - 72000.0
-    - 72000.0
-  - section: 'Linked asset: 2026-07-15_weekly-vessel-valuations-report-july-15-2026_15720250_c88c24b07201.jpg'
-    section_type: linked_image_asset
-    source_line: 15 July 2026 VV Mini Matrix - Weekly Change
-    unit: null
-    values:
-    - 15.0
-    - 2026.0
-  - section: 'Linked asset: 2026-07-15_weekly-vessel-valuations-report-july-15-2026_15720250_c88c24b07201.jpg'
-    section_type: linked_image_asset
-    source_line: ‘ a cal ue ™ = ~ _ - = - an me 1
-    unit: null
-    values:
-    - 1.0
-  - section: 'Linked asset: 2026-07-15_weekly-vessel-valuations-report-july-15-2026_15720250_c88c24b07201.jpg'
-    section_type: linked_image_asset
-    source_line: SS Ses eho = 2 ahs Se =
-    unit: null
-    values:
-    - 2.0
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - *id010
+  - *id011
+  - *id012
+  - *id013
 source: hellenic
-source_path: corpus/02-hellenic/vessel_valuations/2026/2026-07-15_weekly-vessel-valuations-report-july-15-2026.html
+source_path: reports/hellenic/vessel_valuations/2026/2026-07-15_weekly-vessel-valuations-report-july-15-2026.html
 source_stem: 2026-07-15_weekly-vessel-valuations-report-july-15-2026
 source_url: https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-july-15-2026
 summary: 'Main
@@ -317,7 +230,7 @@ Feedermax A Goryu (1,096 TEU, 2023, Kyokuyo) sold to Chinese buyers for USD 26.5
 Linked asset: 15720250.jpg
 
 ## Linked asset: 2026-07-15_weekly-vessel-valuations-report-july-15-2026_15720250_c88c24b07201.jpg
-Source asset: corpus/02-hellenic/vessel_valuations/2026/assets/2026-07-15_weekly-vessel-valuations-report-july-15-2026_15720250_c88c24b07201.jpg
+Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-07-15_weekly-vessel-valuations-report-july-15-2026_15720250_c88c24b07201.jpg
 
 Linked image asset: 2026-07-15_weekly-vessel-valuations-report-july-15-2026_15720250_c88c24b07201.jpg
 

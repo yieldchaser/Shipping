@@ -1,0 +1,234 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2013_06_14_russian_crude_runs_and_transportation_optionality_cut__root",
+  "doc_id": "poten_tankers_no_date_poten_2013_06_14_russian_crude_runs_and_transportation_optionality_cut",
+  "parent_id": null,
+  "title": "Russian Crude Runs and Transportation Optionality Cut Baltic Exports",
+  "section_path": [
+    "Russian Crude Runs and Transportation Optionality Cut Baltic Exports"
+  ],
+  "section_path_text": "Russian Crude Runs and Transportation Optionality Cut Baltic Exports",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Russia experiencing\nRussia, an original member of the BRICS group of emerging markets, has experienced renewed post-financial crisis macroeconomic growth, though not at the same clip as some of its peers. This growth has led to increased domestic demand for clean products. At the same time, Russia's refinery infrastructure is notably inefficient.",
+  "keywords": [
+    "brazil",
+    "pacific",
+    "europe",
+    "crude_oil",
+    "products",
+    "crude",
+    "oil",
+    "russia",
+    "growth",
+    "increased",
+    "demand",
+    "product"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 547,
+  "source_path": "reports/poten/2013/poten_2013-06-14_russian-crude-runs-and-transportation-optionality-cut.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_06_14_russian_crude_runs_and_transportation_optionality_cut__s01_russia_experiencing",
+      "doc_id": "poten_tankers_no_date_poten_2013_06_14_russian_crude_runs_and_transportation_optionality_cut",
+      "parent_id": "poten_tankers_no_date_poten_2013_06_14_russian_crude_runs_and_transportation_optionality_cut__root",
+      "title": "Russia experiencing",
+      "section_path": [
+        "Russia experiencing"
+      ],
+      "section_path_text": "Russia experiencing",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Russia, an original member of the BRICS group of emerging markets, has experienced renewed post-financial crisis macroeconomic growth, though not at the same clip as some of its peers. This growth has led to increased domestic demand for clean products.",
+      "keywords": [
+        "brazil",
+        "crude_oil",
+        "products",
+        "oil",
+        "demand",
+        "crude",
+        "growth",
+        "product"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 251,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_06_14_russian_crude_runs_and_transportation_optionality_cut__s02_refinery_infrastructure",
+      "doc_id": "poten_tankers_no_date_poten_2013_06_14_russian_crude_runs_and_transportation_optionality_cut",
+      "parent_id": "poten_tankers_no_date_poten_2013_06_14_russian_crude_runs_and_transportation_optionality_cut__root",
+      "title": "Refinery infrastructure",
+      "section_path": [
+        "Refinery infrastructure"
+      ],
+      "section_path_text": "Refinery infrastructure",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "not improving during period of product demand growth",
+      "keywords": [
+        "demand",
+        "during",
+        "growth",
+        "improving",
+        "not",
+        "period",
+        "product"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_06_14_russian_crude_runs_and_transportation_optionality_cut__s03_russia_real_gdp_change",
+      "doc_id": "poten_tankers_no_date_poten_2013_06_14_russian_crude_runs_and_transportation_optionality_cut",
+      "parent_id": "poten_tankers_no_date_poten_2013_06_14_russian_crude_runs_and_transportation_optionality_cut__root",
+      "title": "Russia Real GDP Change",
+      "section_path": [
+        "Russia Real GDP Change"
+      ],
+      "section_path_text": "Russia Real GDP Change",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Annual Data, Actual and Forecast, 2006-2015 2006 2008 2010 2012 2014F Russian crude oil production, which had also tapered off as a result of the financial crisis, has seen healthy growth levels as well. According to IEA, Russia currently stands as the world's largest producer of crude oil.",
+      "keywords": [
+        "crude_oil",
+        "crude",
+        "increased",
+        "growth",
+        "oil",
+        "production",
+        "runs",
+        "according"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 116,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_06_14_russian_crude_runs_and_transportation_optionality_cut__s04_domestic_crude_oil",
+      "doc_id": "poten_tankers_no_date_poten_2013_06_14_russian_crude_runs_and_transportation_optionality_cut",
+      "parent_id": "poten_tankers_no_date_poten_2013_06_14_russian_crude_runs_and_transportation_optionality_cut__root",
+      "title": "Domestic crude oil",
+      "section_path": [
+        "Domestic crude oil"
+      ],
+      "section_path_text": "Domestic crude oil",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "...as are estimated reserves As noted late last year (see 14 December 2012 Opinion ), Russia's increased export market optionality by way of new pipelines and expansions has prompted higher volumes of loadings at Kozmino and a reduction in those from Baltic ports such as Primorsk. As opposed to other major producers such as the United States, Russia actually has spare transportation capacity to some of its traditional trading partners, notably in Europe.",
+      "keywords": [
+        "europe",
+        "export",
+        "opinion",
+        "russia",
+        "see",
+        "actually",
+        "appear",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 118,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_06_14_russian_crude_runs_and_transportation_optionality_cut__s05_pacific_liftings_gained_at",
+      "doc_id": "poten_tankers_no_date_poten_2013_06_14_russian_crude_runs_and_transportation_optionality_cut",
+      "parent_id": "poten_tankers_no_date_poten_2013_06_14_russian_crude_runs_and_transportation_optionality_cut__root",
+      "title": "Pacific liftings gained at",
+      "section_path": [
+        "Pacific liftings gained at"
+      ],
+      "section_path_text": "Pacific liftings gained at",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "expense of those in the Baltic",
+      "keywords": [
+        "expense"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_06_14_russian_crude_runs_and_transportation_optionality_cut__s06_january",
+      "doc_id": "poten_tankers_no_date_poten_2013_06_14_russian_crude_runs_and_transportation_optionality_cut",
+      "parent_id": "poten_tankers_no_date_poten_2013_06_14_russian_crude_runs_and_transportation_optionality_cut__root",
+      "title": "January",
+      "section_path": [
+        "January"
+      ],
+      "section_path_text": "January",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "",
+      "keywords": [
+        "april",
+        "february",
+        "march",
+        "may"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_06_14_russian_crude_runs_and_transportation_optionality_cut__s07_kozmino",
+      "doc_id": "poten_tankers_no_date_poten_2013_06_14_russian_crude_runs_and_transportation_optionality_cut",
+      "parent_id": "poten_tankers_no_date_poten_2013_06_14_russian_crude_runs_and_transportation_optionality_cut__root",
+      "title": "Kozmino",
+      "section_path": [
+        "Kozmino"
+      ],
+      "section_path_text": "Kozmino",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "",
+      "keywords": [
+        "primorsk"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_06_14_russian_crude_runs_and_transportation_optionality_cut__s08_export_flows_poised_to",
+      "doc_id": "poten_tankers_no_date_poten_2013_06_14_russian_crude_runs_and_transportation_optionality_cut",
+      "parent_id": "poten_tankers_no_date_poten_2013_06_14_russian_crude_runs_and_transportation_optionality_cut__root",
+      "title": "Export flows poised to",
+      "section_path": [
+        "Export flows poised to"
+      ],
+      "section_path_text": "Export flows poised to",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "",
+      "keywords": [
+        "continue",
+        "east",
+        "shift"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

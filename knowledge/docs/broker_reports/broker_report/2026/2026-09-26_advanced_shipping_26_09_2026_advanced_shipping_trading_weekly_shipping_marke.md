@@ -437,24 +437,24 @@ numeric_observations:
     the
   unit: usd
   values:
-  - 16250.0
-  - 16750.0
+  - 16.25
+  - 16.75
 - section: Market Report Content
   section_type: null
   source_line: options, achieved USD 43.50 fio . Transatlantic and regional Atlantic
     activity
   unit: usd
   values:
-  - 43500.0
+  - 43.5
 - section: Market Report Content
   section_type: null
   source_line: USD 26.50/27.25 fio, while a Narvik departure to Erdemir reached USD
     23.75
   unit: usd
   values:
-  - 26500.0
-  - 27250.0
-  - 23750.0
+  - 26.5
+  - 27.25
+  - 23.75
 - section: Market Report Content
   section_type: null
   source_line: settled between USD 19,500/20,000 pd. Australian rounds with redelivery
@@ -1050,7 +1050,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/advanced_shipping_26_09_2026_advanced_shipping_trading_weekly_shipping_marke.md
+source_path: reports/broker_reports/2026/advanced_shipping/advanced_shipping_26_09_2026_advanced_shipping_trading_weekly_shipping_marke.md
 source_stem: advanced_shipping_26_09_2026_advanced_shipping_trading_weekly_shipping_marke
 source_url: https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-39-2026/
 summary: 'Advanced Shipping & Trading - WEEKLY SHIPPING MARKET REPORT WEEK 39 2026

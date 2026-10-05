@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2019_09_16_our_preliminary_thoughts_on_the_attacks_on_saudi_oil__root",
+  "doc_id": "poten_tankers_no_date_poten_2019_09_16_our_preliminary_thoughts_on_the_attacks_on_saudi_oil",
+  "parent_id": null,
+  "title": "Our Preliminary Thoughts on the Attacks on Saudi Oil Facilities",
+  "section_path": [
+    "Our Preliminary Thoughts on the Attacks on Saudi Oil Facilities"
+  ],
+  "section_path_text": "Our Preliminary Thoughts on the Attacks on Saudi Oil Facilities",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Our Preliminary Thoughts on the Attacks on Saudi Oil Facilities\nOil Prices and Tanker Rates are significantly higher. Berthing has resumed in Ras Tanura, after being interrupted on Saturday Two Saudi oil facilities were attacked on Saturday, September 14. These facilities process 5.7 million barrels per day, more than half of Saudi Arabia's output and more than 5% of global crude oil production.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "meg",
+    "europe",
+    "crude_oil",
+    "oil",
+    "saudi",
+    "are",
+    "prices",
+    "after",
+    "arabia",
+    "facilities"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 886,
+  "source_path": "reports/poten/2019/poten_2019-09-16_our-preliminary-thoughts-on-the-attacks-on-saudi-oil.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_09_16_our_preliminary_thoughts_on_the_attacks_on_saudi_oil__s01_our_preliminary_thoughts_on_the_attacks_on_saudi_oil_facilities",
+      "doc_id": "poten_tankers_no_date_poten_2019_09_16_our_preliminary_thoughts_on_the_attacks_on_saudi_oil",
+      "parent_id": "poten_tankers_no_date_poten_2019_09_16_our_preliminary_thoughts_on_the_attacks_on_saudi_oil__root",
+      "title": "Our Preliminary Thoughts on the Attacks on Saudi Oil Facilities",
+      "section_path": [
+        "Our Preliminary Thoughts on the Attacks on Saudi Oil Facilities"
+      ],
+      "section_path_text": "Our Preliminary Thoughts on the Attacks on Saudi Oil Facilities",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Oil Prices and Tanker Rates are significantly higher. Berthing has resumed in Ras Tanura, after being interrupted on Saturday Two Saudi oil facilities were attacked on Saturday, September 14.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "meg",
+        "europe",
+        "crude_oil",
+        "oil",
+        "saudi",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 874,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

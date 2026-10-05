@@ -9,7 +9,7 @@
   "section_path_text": "Breakwave Tanker Report 8.27.2024",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nUncertainty Looms for VLCCs as Activity Slows Down - Another rally in spot VLCC rates ended up being just a short-term spike\nSource: Breakwave Advisors\n\nLinked asset: 2024-08-27_breakwave-tanker-report-8-27-2024_breakwavetankersaugust272024report_7e7623737f25.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2024-08-27_breakwave-tanker-report-8-27-2024_breakwavetankersaugust272024report_7e7623737f25.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nAugust 27, 2024\nBreakwave Tanker Futures Index: 1,248 VLCC Middle East-Asia Spot Rates: $12.78 Short-term Indicators:\n↑ 30D: 4.3% ↓ 30D: -5.2% Momentum: Positive\n↑ YTD: 2.8% ↓ YTD: -3.5% Sentiment: Positive\n↓ YOY: -6.3% ↑ YOY: 5.9% Fundamentals: Neutral\nBi-Weekly Report\n• Uncertainty Looms for VLCCs as Activity Slows Down - Another rally in spot VLCC rates ended up being just a short-term\nspike, as spot rates are back to mid-August lows after hitting multi-month highs. Activity lost its initial strong momentum\nfor the core AG-East VLCC market and quickly charterers took advantage of the imbalance, driving spot rates down. Consequently, owner's sentiment deteriorated, with Charterers fixing well below last done levels.",
+  "summary": "Main\nUncertainty Looms for VLCCs as Activity Slows Down - Another rally in spot VLCC rates ended up being just a short-term spike\nSource: Breakwave Advisors\n\nLinked asset: 2024-08-27_breakwave-tanker-report-8-27-2024_breakwavetankersaugust272024report_7e7623737f25.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2024-08-27_breakwave-tanker-report-8-27-2024_breakwavetankersaugust272024report_7e7623737f25.pdf\n\n# BWET\n\n## Tanker Shipping\n\n**August 27, 2024**\n\n**Breakwave Tanker Futures Index: 1,248 VLCC Middle East-Asia Spot Rates: $12.78 Short-term Indicators:**\n\n|↑|30D: 4.3%|↓ 30D: -5.2%|Momentum:|Positive|\n|---|---|---|---|---|\n|↑|YTD: 2.8%|↓ YTD: -3.5%|Sentiment:|Positive|\n|↓|YOY: -6.3%|↑ YOY: 5.9%|Fundamentals:|Neutral|\n\n### <u>Bi-Weekly Report</u>\n\n- **Uncertainty Looms for VLCCs as Activity Slows Down -** Another rally in spot VLCC rates ended up being just a **short-term** **spike**, as spot rates are back to **mid-August lows after hitting multi-month highs**. Activity lost its initial strong momentum for the core AG-East VLCC market and quickly **charterers took advantage** of the imbalance, driving spot rates down. Consequently, owner's **sentiment deteriorated**, wit",
   "keywords": [
     "vlcc",
     "suezmax",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1550,
-  "source_path": "corpus/02-hellenic/shipbuilding/2024/2024-08-27_breakwave-tanker-report-8-27-2024.html",
+  "token_count": 1692,
+  "source_path": "reports/hellenic/shipbuilding/2024/2024-08-27_breakwave-tanker-report-8-27-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-8-27-2024",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2024-08-27_breakwave-tanker-report-8-27-2024_breakwavetankersaugust272024report_7e7623737f25.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2024-08-27_breakwave-tanker-report-8-27-2024_breakwavetankersaugust272024report_7e7623737f25.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nAugust 27, 2024\nBreakwave Tanker Futures Index: 1,248 VLCC Middle East-Asia Spot Rates: $12.78 Short-term Indicators:\n↑ 30D: 4.3% ↓ 30D: -5.2% Momentum: Positive\n↑ YTD: 2.8% ↓ YTD: -3.5% Sentiment: Positive\n↓ YOY: -6.3% ↑ YOY: 5.9% Fundamentals: Neutral\nBi-Weekly Report\n• Uncertainty Looms for VLCCs as Activity Slows Down - Another rally in spot VLCC rates ended up being just a short-term\nspike, as spot rates are back to mid-August lows after hitting multi-month highs. Activity lost its initial strong momentum\nfor the core AG-East VLCC market and quickly charterers took advantage of the imbalance, driving spot rates down.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2024-08-27_breakwave-tanker-report-8-27-2024_breakwavetankersaugust272024report_7e7623737f25.pdf\n\n# BWET\n\n## Tanker Shipping\n\n**August 27, 2024**\n\n**Breakwave Tanker Futures Index: 1,248 VLCC Middle East-Asia Spot Rates: $12.78 Short-term Indicators:**\n\n|↑|30D: 4.3%|↓ 30D: -5.2%|Momentum:|Positive|\n|---|---|---|---|---|\n|↑|YTD: 2.8%|↓ YTD: -3.5%|Sentiment:|Positive|\n|↓|YOY: -6.3%|↑ YOY: 5.9%|Fundamentals:|Neutral|\n\n### <u>Bi-Weekly Report</u>\n\n- **Uncertainty Looms for VLCCs as Activity Slows Down -** Another rally in spot VLCC rates ended up being just a **short-term** **spike**, as spot rates are back to **mid-August lows after hitting multi-month highs**. Activity lost its initial strong momentum for the core AG-East VLCC market and quickly **charterers took advantage** of the imbalance, driving spot rates down.",
       "keywords": [
         "vlcc",
         "suezmax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1469,
+      "token_count": 1611,
       "section_type": "linked_pdf",
       "children": []
     }

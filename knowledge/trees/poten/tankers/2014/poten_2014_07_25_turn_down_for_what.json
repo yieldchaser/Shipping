@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2014_07_25_turn_down_for_what__root",
+  "doc_id": "poten_tankers_no_date_poten_2014_07_25_turn_down_for_what",
+  "parent_id": null,
+  "title": "Turn Down for What?",
+  "section_path": [
+    "Turn Down for What?"
+  ],
+  "section_path_text": "Turn Down for What?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "A Restoration of Balance\nIn general, the seasonality of the tanker market typically leads to weaker spot market rates in the mid-late summer months. Historically, the fourth and first quarters of the year have had the strongest freight rates, for most sectors, due to heightened winter demand in the northern hemisphere, weather and restricted daylight hours in key ports or waterways. However, this summer, it appears that freight rates could be on the brink of a trend buck.",
+  "keywords": [
+    "vlcc",
+    "brazil",
+    "meg",
+    "crude_oil",
+    "year",
+    "could",
+    "earnings",
+    "what",
+    "balance",
+    "crude",
+    "demand",
+    "fig."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 630,
+  "source_path": "reports/poten/2014/poten_2014-07-25_turn-down-for-what.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_07_25_turn_down_for_what__s01_a_restoration_of_balance",
+      "doc_id": "poten_tankers_no_date_poten_2014_07_25_turn_down_for_what",
+      "parent_id": "poten_tankers_no_date_poten_2014_07_25_turn_down_for_what__root",
+      "title": "A Restoration of Balance",
+      "section_path": [
+        "A Restoration of Balance"
+      ],
+      "section_path_text": "A Restoration of Balance",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In general, the seasonality of the tanker market typically leads to weaker spot market rates in the mid-late summer months. Historically, the fourth and first quarters of the year have had the strongest freight rates, for most sectors, due to heightened winter demand in the northern hemisphere, weather and restricted daylight hours in key ports or waterways.",
+      "keywords": [
+        "vlcc",
+        "brazil",
+        "meg",
+        "crude_oil",
+        "year",
+        "could",
+        "earnings",
+        "what"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 625,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2021_04_30_balance_of_trade__root",
+  "doc_id": "poten_tankers_no_date_poten_2021_04_30_balance_of_trade",
+  "parent_id": null,
+  "title": "Balance of Trade",
+  "section_path": [
+    "Balance of Trade"
+  ],
+  "section_path_text": "Balance of Trade",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Changing trade patterns impact West Coast VLCC employment\nHistorically, the global VLCC trade has been dominated by large volumes of crude oil moving from the Arabian Gulf to Europe, the U.S. The west coast of Latin America and the United States did not generate a lot of VLCC demand. The only regular trade used to be from the AG to the U.S.",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "aframax",
+    "china",
+    "atlantic",
+    "pacific",
+    "meg",
+    "europe",
+    "crude_oil",
+    "west",
+    "coast",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 914,
+  "source_path": "reports/poten/2021/poten_2021-04-30_balance-of-trade.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2021_04_30_balance_of_trade__s01_changing_trade_patterns_impact_west_coast_vlcc_employment",
+      "doc_id": "poten_tankers_no_date_poten_2021_04_30_balance_of_trade",
+      "parent_id": "poten_tankers_no_date_poten_2021_04_30_balance_of_trade__root",
+      "title": "Changing trade patterns impact West Coast VLCC employment",
+      "section_path": [
+        "Changing trade patterns impact West Coast VLCC employment"
+      ],
+      "section_path_text": "Changing trade patterns impact West Coast VLCC employment",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Historically, the global VLCC trade has been dominated by large volumes of crude oil moving from the Arabian Gulf to Europe, the U.S. The west coast of Latin America and the United States did not generate a lot of VLCC demand.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "aframax",
+        "china",
+        "atlantic",
+        "pacific",
+        "meg",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 904,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

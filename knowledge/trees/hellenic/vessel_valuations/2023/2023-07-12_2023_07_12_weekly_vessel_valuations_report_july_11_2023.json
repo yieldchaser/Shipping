@@ -9,7 +9,7 @@
   "section_path_text": "Weekly Vessel Valuations Report, July 11 2023",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nBulkers : Values for mid-age Capesize have decreased following recent sales\nCapesize BC Agios Charalambous (184,900 DWT, May 2003, Mitsui Ichihara) sold to unknown Indian buyers for USD 14 mil, VV Value USD 13.50 mil\nCapesize BC Aquamarine (182,100 DWT, Jul 2009, Odense Steel) sold to New Shipping for USD 18.25 mil, VV Value USD 20.60 mil\nCapesize BC Ocean Cobalt (180,200 DWT, Jul 2008, Imabari) sold to unknown Chinese buyers for USD 19.50 mil (SS/DD Passed), VV Value USD 18.70 mil\nTankers : VLCC values expected to soften in the next week\nMR2 Yongsheng Ocean (45,000 DWT, Jun 1997, Halla) sold to Unidisclosed buyers for USD 7.20 mil (BWTS), VV Value USD 8.40 mil\nContainers : Post Panamax Containers have firmed over 9% as a result of the en bloc resales bought by MSC\nPost Panamax London Bridge and Dubai Bridge (8,000 TEU, Mar 2024, Hyundai HI) sold to MSC in an enbloc deal for USD 200 mil, VV Value USD 191.47 mil\nImage reference: assets/2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg\n\nLinked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg\nSource asset: reports/hellenic/",
+  "summary": "Main\nBulkers : Values for mid-age Capesize have decreased following recent sales\nCapesize BC Agios Charalambous (184,900 DWT, May 2003, Mitsui Ichihara) sold to unknown Indian buyers for USD 14 mil, VV Value USD 13.50 mil\nCapesize BC Aquamarine (182,100 DWT, Jul 2009, Odense Steel) sold to New Shipping for USD 18.25 mil, VV Value USD 20.60 mil\nCapesize BC Ocean Cobalt (180,200 DWT, Jul 2008, Imabari) sold to unknown Chinese buyers for USD 19.50 mil (SS/DD Passed), VV Value USD 18.70 mil\nTankers : VLCC values expected to soften in the next week\nMR2 Yongsheng Ocean (45,000 DWT, Jun 1997, Halla) sold to Unidisclosed buyers for USD 7.20 mil (BWTS), VV Value USD 8.40 mil\nContainers : Post Panamax Containers have firmed over 9% as a result of the en bloc resales bought by MSC\nPost Panamax London Bridge and Dubai Bridge (8,000 TEU, Mar 2024, Hyundai HI) sold to MSC in an enbloc deal for USD 200 mil, VV Value USD 191.47 mil\nImage reference: assets/2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg\n\nLinked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg\nSource asset: corpus/02-helleni",
   "keywords": [
     "capesize",
     "panamax",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1208,
-  "source_path": "corpus/02-hellenic/vessel_valuations/2023/2023-07-12_weekly-vessel-valuations-report-july-11-2023.html",
+  "token_count": 2233,
+  "source_path": "reports/hellenic/vessel_valuations/2023/2023-07-12_weekly-vessel-valuations-report-july-11-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-july-11-2023",
   "children": [
     {
@@ -69,20 +69,20 @@
       "section_path_text": "Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2023/assets/2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg\n\nLinked image asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg\n\nImage metadata: JPEG 678x259 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\nO vesselsValue= | $$\n11 July 2023 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge vice Sucz Afra tR1 MR Cape Pmax Supra Handy oan Pmax Handy Fmax\n5 10.4% +1.0% 41.3% 410.5% 40.3% 0.4% 0.2% 1.5% --0.6% +10,0% -0.2% 0.8% = -0.5%\n320k 160k 110k 75k 50k 180k 82k 60k 38k 7000 4250 1750 1100\n5 40.5% - +1.0% - +1.3% 40.5% - +0.3% 1.3% <10% 0.7% = -0.7% +4.8% 0.1% - -0.8% - +0.7%\n320k 160k 110k 75k 50k 180k 80k 60k 38k 7000 4250 1750 1100\nio 40.5% +1.0% +1.3% 40.5% +0.4% -2.5% -1.6% 0.0% -0.7% +1.5% -0.2% --0.7% - +1.0%\n320k 160k 110k 75k 50k 180k 80k 60k 32k 7000 4250 1750 1100\n1s 40.5% 41.1% +1.3% +0.5% +0.3% \"3.5% -1.5% +0.5% -0.7% 0.3% §--0.2% = -0.8% = +0.2%\n310k 160k 110k 75k 50k 180k 80k 55k 30k 7000 4250 1750 1100\na 10.5% 41.2% 41.3% 40.6% -+0.3% 0.0% 1.2% 12.0% 0.6% 0.9% 0.1% 0.8% 1.5%\n305k 155k 105k 70k 4",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2023/assets/2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg\n\nLinked image asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg\n\nImage metadata: JPEG 678x259 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\n[structured table]\n| O | | | | | | | | | | | | | |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 11 July | 2023 | | | | VV | Mini Matrix | - | Weekly | Change | | | | |\n| | | | Tankers | | | | | Bulkers | | | | Containers | |\n| Age | vice | Sucz | Afra | | MR | Cape | Pmax | Supra | Handy | oan | Pmax | Handy | Fmax |\n| | 10.4% | | 41.3% | 410.5% | 40.3% | 0.4% | | | | | -0.2% | | -0.5% |\n| 5 | | | | | | | | | | | | | |\n| | 320k | 160k | 110k | 75k | 50k | 180k | 82k | 60k | 38k | 7000 | 4250 | 1750 | 1100 |\n| | 40.5% | | | 40.5% | +0.3% | 1.3% | | = | -0.7% | +4.8% | | - -0.8% | - +0.7% |\n| 5 | | | | | | | | | | | | | |\n| | 320k | 160k | 110k | 75k | 50k | 180k | 80k | 60k | 38k | 7000 | 4250 | 1750 | 1100 |\n| | 40.5% | +1.0% | +1.3% | | | -2.5% | | 0.0% | | +1.5% | | | - +1.0% |\n| io | | | | | | | | | | | | | |\n| |",
       "keywords": [
         "capesize",
         "supramax",
         "handysize",
         "container",
-        "asset",
         "handy",
-        "image",
-        "n/a"
+        "n/a",
+        "pmax",
+        "afra"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 821,
+      "token_count": 1846,
       "section_type": "linked_image_asset",
       "children": []
     }

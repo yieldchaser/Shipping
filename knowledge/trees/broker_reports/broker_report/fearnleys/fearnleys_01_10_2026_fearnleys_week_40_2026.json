@@ -1,0 +1,538 @@
+{
+  "node_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__root",
+  "doc_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026",
+  "parent_id": null,
+  "title": "Fearnleys Weekly Report - Week 40, 2026",
+  "section_path": [
+    "Fearnleys Weekly Report - Week 40, 2026"
+  ],
+  "section_path_text": "Fearnleys Weekly Report - Week 40, 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Fearnleys Weekly Market Report (Week 40, 2026)\n**Issue Date:** 2026-10-01 | **Pages:** 20 | **Publisher:** Fearnleys AS\n**Source Document:** `corpus/01-brokers/fearnleys/2026/fearnleys_01_10_2026_fearnleys_week_40_2026.pdf`\n\nVlcc\nThere has been a perceived slowdown in activity over the last few days and a bit of \"profit taking\" would always be expected in a market yielding USD 750-800k/day (the cost of waiting is the same). However, a lot of under the radar fixing has been concluded with rates continuing to trade in the mid- to high WS 700's from Fujairah to Far East destination and into the WS 800-900's for shorter options. Saudi having restarted operations on the East-West Pipeline has prompted fresh enquiries from Yanbu, with two Korean charterers forking out USD 55 million for the longer route via the Suez Canal and COGH.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "brazil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2566,
+  "source_path": "reports/broker_reports/2026/fearnleys/fearnleys_01_10_2026_fearnleys_week_40_2026.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__s01_fearnleys_weekly_market_report_week_40_2026",
+      "doc_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026",
+      "parent_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__root",
+      "title": "Fearnleys Weekly Market Report (Week 40, 2026)",
+      "section_path": [
+        "Fearnleys Weekly Market Report (Week 40, 2026)"
+      ],
+      "section_path_text": "Fearnleys Weekly Market Report (Week 40, 2026)",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Issue Date:** 2026-10-01 | **Pages:** 20 | **Publisher:** Fearnleys AS\n**Source Document:** `corpus/01-brokers/fearnleys/2026/fearnleys_01_10_2026_fearnleys_week_40_2026.pdf`",
+      "keywords": [
+        "corpus/01-brokers/fearnleys/2026/fearnleys_01_10_2026_fearnleys_week_40_2026.pdf",
+        "date",
+        "document",
+        "fearnleys",
+        "issue",
+        "pages",
+        "publisher",
+        "source"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 65,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__s02_vlcc",
+      "doc_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026",
+      "parent_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__root",
+      "title": "Vlcc",
+      "section_path": [
+        "Vlcc"
+      ],
+      "section_path_text": "Vlcc",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "There has been a perceived slowdown in activity over the last few days and a bit of \"profit taking\" would always be expected in a market yielding USD 750-800k/day (the cost of waiting is the same). However, a lot of under the radar fixing has been concluded with rates continuing to trade in the mid- to high WS 700's from Fujairah to Far East destination and into the WS 800-900's for shorter options.",
+      "keywords": [
+        "million",
+        "route",
+        "usd",
+        "via",
+        "yanbu",
+        "above",
+        "activity",
+        "al-mandab"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 204,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__s03_aframax",
+      "doc_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026",
+      "parent_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__root",
+      "title": "Aframax",
+      "section_path": [
+        "Aframax"
+      ],
+      "section_path_text": "Aframax",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "the Saudi East-West pipeline restored, regional exports are now just 11% below pre- war levels which is a remarkable recovery for a region still ⁠at war. Position lists are still tight, and the weather is not helping, all in all a perfect storm (no pun intended).",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "brazil",
+        "atlantic",
+        "west_africa",
+        "are",
+        "activity",
+        "all"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 271,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__s04_north_sea",
+      "doc_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026",
+      "parent_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__root",
+      "title": "North Sea",
+      "section_path": [
+        "North Sea"
+      ],
+      "section_path_text": "North Sea",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "A slow start to the week with relets getting programmed and some dates moving in the West Coast Norway programs. Rates remain firm with list continuing to be thinned with vessels heading both to the US and Mediterranean for longer more attractive returns especially those that have missed the dates and are looking at significant waiting time.",
+      "keywords": [
+        "europe",
+        "dates",
+        "end",
+        "firm",
+        "remain",
+        "start",
+        "are",
+        "attractive"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 123,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__s05_mediterranean",
+      "doc_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026",
+      "parent_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__root",
+      "title": "Mediterranean",
+      "section_path": [
+        "Mediterranean"
+      ],
+      "section_path_text": "Mediterranean",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Steady activity in the Mediterranean/Black Sea with charterers now trying to cover as quietly as possibly their cargoes. List is somewhat balanced with the prompt vessels looking to ballast TA and then everyone is looking for the best available dates.",
+      "keywords": [
+        "europe",
+        "looking",
+        "activity",
+        "after",
+        "available",
+        "balanced",
+        "ballast",
+        "best"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 73,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__s06_dirty_spot_freight_rates",
+      "doc_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026",
+      "parent_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__root",
+      "title": "Dirty Spot Freight Rates",
+      "section_path": [
+        "Dirty Spot Freight Rates"
+      ],
+      "section_path_text": "Dirty Spot Freight Rates",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Route | Vessel Size | Current (WS) | Change\n:--- | :---: | :---: | :---:\nMEG/WEST | 280' | 625 | 0.0\nMEG/Japan | 280' | 1,150 | 0.0\nMEG/Singapore | 280' | 1,175 | 0.0\nWAF/FEAST | 260' | 495 | -30\nWAF/USAC | 130' | 457.5 | 0.0\nSidi Kerir/W Med | 80' | 510 | 0.0\nN. Afr/Euromed | 80' | 80 | 0.0\nUK/Cont | 80' | 415 | 0.0\nCaribs/USG | 70' | 645 | +1",
+      "keywords": [
+        "meg",
+        "west_africa",
+        "singapore",
+        "japan",
+        "afr/euromed",
+        "caribs/usg",
+        "change",
+        "current"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 189,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__s07_period_rates_fleet_availability",
+      "doc_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026",
+      "parent_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__root",
+      "title": "Period Rates & Fleet Availability",
+      "section_path": [
+        "Period Rates & Fleet Availability"
+      ],
+      "section_path_text": "Period Rates & Fleet Availability",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Metric / Vessel Class | Vessel Size | Current | Change\n:--- | :---: | :---: | :---:\n1 Year T/C - ECO / SCRUBBER | Modern | 185,000 | 0.0",
+      "keywords": [
+        "vessel",
+        "change",
+        "class",
+        "current",
+        "eco",
+        "metric",
+        "modern",
+        "scrubber"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 51,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__s08_capesize",
+      "doc_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026",
+      "parent_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__root",
+      "title": "Capesize",
+      "section_path": [
+        "Capesize"
+      ],
+      "section_path_text": "Capesize",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Capes across all segments were in decline this week amid a clear imbalance of tonnage and demand, with Pacific leading the softening. With FFAs showing more positive sentiment in the days to come, we hope to see improved market levels going forward.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "pacific",
+        "west_africa",
+        "iron_ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 338,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__s09_supramax",
+      "doc_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026",
+      "parent_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__root",
+      "title": "Supramax",
+      "section_path": [
+        "Supramax"
+      ],
+      "section_path_text": "Supramax",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "week while the holidays run their course, with constructive Atlantic fundamentals and the Q4 grain program providing the more supportive backdrop into the 2H October. The Supramax market remained generally firm, supported by improved demand in the US Gulf, steady South Atlantic activity, and strong Continent demand driven by scrap, while the Mediterranean stayed softer due to limited cargo.",
+      "keywords": [
+        "supramax",
+        "handysize",
+        "atlantic",
+        "pacific",
+        "europe",
+        "us_gulf",
+        "grain",
+        "activity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 115,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__s10_spot_freight_rates_indices",
+      "doc_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026",
+      "parent_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__root",
+      "title": "Spot Freight Rates & Indices",
+      "section_path": [
+        "Spot Freight Rates & Indices"
+      ],
+      "section_path_text": "Spot Freight Rates & Indices",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "Route / Benchmark | Vessel Size / Type | Current | Change\n:--- | :---: | :---: | :---:\nTCE Cont/Far East | Capesize | 86,344 | -839\nAustralia/China | Capesize | 13.4 | -0.3\nPacific RV | Capesize | 34,364 | -1,306\nTransatlantic RV | Panamax | 21,673 | -50\nTCE Cont/Far East | Capesize | 30,761 | -76\nTCE Far East/Cont | Panamax | 13,150 | -19\nTCE Far East RV | Panamax | 20,878 | -169\nUS Gulf - China/South Japan | Supramax | 32,906 | -138",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "australia",
+        "atlantic",
+        "pacific",
+        "us_gulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 171,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__s11_market_commentary",
+      "doc_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026",
+      "parent_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__root",
+      "title": "Market Commentary",
+      "section_path": [
+        "Market Commentary"
+      ],
+      "section_path_text": "Market Commentary",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "November shows 10 ships in the first decade and 4 in the second decade. The week has been quiet so far with the arb coming in.",
+      "keywords": [
+        "arb",
+        "availability",
+        "canal",
+        "christmas",
+        "coming",
+        "conditions",
+        "decade",
+        "decade."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 48,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__s12_lpg_rates_fob_prices",
+      "doc_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026",
+      "parent_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__root",
+      "title": "LPG Rates & FOB Prices",
+      "section_path": [
+        "LPG Rates & FOB Prices"
+      ],
+      "section_path_text": "LPG Rates & FOB Prices",
+      "level": 1,
+      "ordinal": 12,
+      "summary": "Benchmark / Route | Vessel / Cargo | Current | Change\n:--- | :---: | :---: | :---:\nVLGC | 84' | 6,300,000 | 0.0\nLGC | 60' | 3,500,000 | 0.0\nMGC | 38' | 1,800,000 | 0.0\nCOASTER Europe | 3 500-5 000 cbm | 450,000 | -25,000\nFOB North Sea/Ansi | Propane/Butane | 526.5 | 0.0\nSaudi Arabia/CP | Propane/Butane | 625 | 0.0\nMT Belvieu | Propane/Butane | 446.8 | 0.0\nFOB North Sea/Ansi | Propane/Butane | 600 | 0.0\nSaudi Arabia/CP | Propane/Butane | 660 | 0.0\nMT Belvieu | Propane/Butane | 600.5 | 0.0\nSonatrach/Bethioua | Propane/Butane | 610 | 0.0",
+      "keywords": [
+        "europe",
+        "propane/butane",
+        "arabia/cp",
+        "belvieu",
+        "fob",
+        "north",
+        "saudi",
+        "sea/ansi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 256,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__s13_activity_levels",
+      "doc_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026",
+      "parent_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__root",
+      "title": "Activity Levels",
+      "section_path": [
+        "Activity Levels"
+      ],
+      "section_path_text": "Activity Levels",
+      "level": 1,
+      "ordinal": 13,
+      "summary": "Sector | Activity Status\n:--- | :---:\nTank Activity | Strong\nLpg Activity | Strong\nContainer Activity | Strong\nOther Activity | Moderate",
+      "keywords": [
+        "lpg",
+        "container",
+        "gas",
+        "activity",
+        "strong",
+        "moderate",
+        "other",
+        "sector"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 31,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__s14_indicative_newbuilding_prices_m",
+      "doc_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026",
+      "parent_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__root",
+      "title": "Indicative Newbuilding Prices ($M)",
+      "section_path": [
+        "Indicative Newbuilding Prices ($M)"
+      ],
+      "section_path_text": "Indicative Newbuilding Prices ($M)",
+      "level": 1,
+      "ordinal": 14,
+      "summary": "Vessel Type | Size | Current ($M) | Change ($M)\n:--- | :---: | :---: | :---:\nVLCC | 300' | $130.0 | $0.0\nSuezmax | 150' | $85.0 | $0.0\nAframax | 110' | $74.0 | $0.0\nProduct | 50' | $49.5 | $0.0\nNewcastlemax | 210' | $82.0 | $0.0\nKamsarmax | 82' | $38.5 | $0.0\nUltramax | 64' | $36.0 | $0.0\nLNGC (MEGI) (cbm) | 170' | $250.0 | $0.0",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "lng",
+        "meg",
+        "gas",
+        "cbm",
+        "change"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 178,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__s15_dry_bulk",
+      "doc_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026",
+      "parent_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__root",
+      "title": "Dry Bulk",
+      "section_path": [
+        "Dry Bulk"
+      ],
+      "section_path_text": "Dry Bulk",
+      "level": 1,
+      "ordinal": 15,
+      "summary": "Vessel Class | 5 Year Old ($M) | 10 Year Old ($M)\n:--- | :---: | :---:\nCapesize | $75.0 | $60.0\nKamsarmax | $41.0 | $32.0\nUltramax | $39.0 | $30.0\nHandysize | $31.0 | $24.0",
+      "keywords": [
+        "capesize",
+        "handysize",
+        "old",
+        "year",
+        "class",
+        "kamsarmax",
+        "ultramax",
+        "vessel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 84,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__s16_tankers_wet",
+      "doc_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026",
+      "parent_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__root",
+      "title": "Tankers (Wet)",
+      "section_path": [
+        "Tankers (Wet)"
+      ],
+      "section_path_text": "Tankers (Wet)",
+      "level": 1,
+      "ordinal": 16,
+      "summary": "Vessel Class | 5 Year Old ($M) | 10 Year Old ($M)\n:--- | :---: | :---:\nVLCC | $185.0 | $160.0\nSuezmax | $115.0 | $100.0\nAframax / LR2 | $86.0 | $75.5",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "old",
+        "year",
+        "class",
+        "lr2",
+        "vessel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 72,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__s17_exchange_rates_interest_rates",
+      "doc_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026",
+      "parent_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__root",
+      "title": "Exchange Rates & Interest Rates",
+      "section_path": [
+        "Exchange Rates & Interest Rates"
+      ],
+      "section_path_text": "Exchange Rates & Interest Rates",
+      "level": 1,
+      "ordinal": 17,
+      "summary": "Indicator | Category | Rate | Change\n:--- | :--- | :---: | :---:\nUSD/JPY | Exchange Rates | 157.1 | 0.0\nUSD/NOK | Exchange Rates | 9.6 | 0.0\nUSD/KRW | Exchange Rates | 1,235.5 | -7.3\nEUR/USD | Exchange Rates | 1.1 | -7.3\nSOFR USD | Interest Rates | 3.6 | -0.0",
+      "keywords": [
+        "category",
+        "change",
+        "eur/usd",
+        "indicator",
+        "interest",
+        "sofr",
+        "usd",
+        "usd/jpy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 108,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__s18_commodity_prices_bunkers",
+      "doc_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026",
+      "parent_id": "broker_reports_broker_report_no_date_fearnleys_01_10_2026_fearnleys_week_40_2026__root",
+      "title": "Commodity Prices & Bunkers",
+      "section_path": [
+        "Commodity Prices & Bunkers"
+      ],
+      "section_path_text": "Commodity Prices & Bunkers",
+      "level": 1,
+      "ordinal": 18,
+      "summary": "Benchmark | Location / Grade | Price | Change\n:--- | :--- | :---: | :---:\nBrent Spot | Spot | 84.0 | 0.0\n380 CST | Fuel Oil | 458 | -1\nMGO | Gasoil | 902 | 0.0\n380 CST | Fuel Oil | 444 | 0.0",
+      "keywords": [
+        "crude_oil",
+        "gas",
+        "cst",
+        "fuel",
+        "oil",
+        "benchmark",
+        "brent",
+        "change"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 78,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

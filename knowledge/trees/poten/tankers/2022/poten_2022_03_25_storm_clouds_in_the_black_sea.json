@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2022_03_25_storm_clouds_in_the_black_sea__root",
+  "doc_id": "poten_tankers_no_date_poten_2022_03_25_storm_clouds_in_the_black_sea",
+  "parent_id": null,
+  "title": "Storm Clouds In The Black Sea",
+  "section_path": [
+    "Storm Clouds In The Black Sea"
+  ],
+  "section_path_text": "Storm Clouds In The Black Sea",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "CPC pipeline outage further complicates European oil balances\nOn Tuesday, 22 March 2022, the Caspian Pipeline Consortium (CPC) announced that a diver examination of the Single Point Mooring (SPM) equipment at the marine terminal near Novorossiysk in the Black Sea revealed storm damage to two of the three SPM's, leading to the temporary decommissioning of all three SPMs. As of Friday, March 25, 2022, the damaged SPM- 2 and SPM-3 remain out, while the third loading buoy, SPM-1, which was offline in September 2021 for repairs,, is expected to resume operations. Repairs to SPM-2 and 3 could take several weeks to complete.",
+  "keywords": [
+    "suezmax",
+    "aframax",
+    "china",
+    "europe",
+    "crude_oil",
+    "cpc",
+    "oil",
+    "pipeline",
+    "crude",
+    "black",
+    "could",
+    "sea"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 970,
+  "source_path": "reports/poten/2022/poten_2022-03-25_storm-clouds-in-the-black-sea.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_03_25_storm_clouds_in_the_black_sea__s01_cpc_pipeline_outage_further_complicates_european_oil_balances",
+      "doc_id": "poten_tankers_no_date_poten_2022_03_25_storm_clouds_in_the_black_sea",
+      "parent_id": "poten_tankers_no_date_poten_2022_03_25_storm_clouds_in_the_black_sea__root",
+      "title": "CPC pipeline outage further complicates European oil balances",
+      "section_path": [
+        "CPC pipeline outage further complicates European oil balances"
+      ],
+      "section_path_text": "CPC pipeline outage further complicates European oil balances",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "On Tuesday, 22 March 2022, the Caspian Pipeline Consortium (CPC) announced that a diver examination of the Single Point Mooring (SPM) equipment at the marine terminal near Novorossiysk in the Black Sea revealed storm damage to two of the three SPM's, leading to the temporary decommissioning of all three SPMs. As of Friday, March 25, 2022, the damaged SPM- 2 and SPM-3 remain out, while the third loading buoy, SPM-1, which was offline in September 2021 for repairs,, is expected to resume operations.",
+      "keywords": [
+        "suezmax",
+        "aframax",
+        "china",
+        "europe",
+        "crude_oil",
+        "cpc",
+        "oil",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 959,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

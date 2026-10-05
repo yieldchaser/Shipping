@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNew building in the gas carrier market this week, CSSC Dalian announced orders for three firm 175k CBM LNG Carriers for China Energy Shipping. Source: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-09-01_clarksons-platou-hellas-snp-weekly-bulletin-86_report-01-09-2023_cc9fc1689f46.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-09-01_clarksons-platou-hellas-snp-weekly-bulletin-86_report-01-09-2023_cc9fc1689f46.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 01 Sep 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\n2011 JIANGSU\nYUAN FU STAR 174,013 MAN B. 6S70MC6.2, SS 01/27 HIGH USD 22 M TURKISH\nRONGSHENG BWTS fitted DD 01/25\n2012 TSUNEISHI\nPORT STAR 82,177 MAN B.",
+  "summary": "Main\nNew building in the gas carrier market this week, CSSC Dalian announced orders for three firm 175k CBM LNG Carriers for China Energy Shipping. Source: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-09-01_clarksons-platou-hellas-snp-weekly-bulletin-86_report-01-09-2023_cc9fc1689f46.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2023-09-01_clarksons-platou-hellas-snp-weekly-bulletin-86_report-01-09-2023_cc9fc1689f46.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin01 Sep 2023\n\n# Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n|YUAN FU STAR|174,013|2011 JIANGSU RONGSHENG|MAN B. 6S70MC6.2, BWTS fitted|SS 01/27 DD 01/25|HIGH USD 22 M|TURKISH|\n|PORT STAR|82,177|2012 TSUNEISHI ZHOUSHAN|MAN B.",
   "keywords": [
     "lng",
     "lpg",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1842,
-  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-09-01_clarksons-platou-hellas-snp-weekly-bulletin-86.html",
+  "token_count": 1948,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-09-01_clarksons-platou-hellas-snp-weekly-bulletin-86.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-86",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-09-01_clarksons-platou-hellas-snp-weekly-bulletin-86_report-01-09-2023_cc9fc1689f46.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-09-01_clarksons-platou-hellas-snp-weekly-bulletin-86_report-01-09-2023_cc9fc1689f46.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 01 Sep 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\n2011 JIANGSU\nYUAN FU STAR 174,013 MAN B. 6S70MC6.2, SS 01/27 HIGH USD 22 M TURKISH\nRONGSHENG BWTS fitted DD 01/25\n2012 TSUNEISHI\nPORT STAR 82,177 MAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-09-01_clarksons-platou-hellas-snp-weekly-bulletin-86_report-01-09-2023_cc9fc1689f46.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin01 Sep 2023\n\n# Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n|YUAN FU STAR|174,013|2011 JIANGSU RONGSHENG|MAN B. 6S70MC6.2, BWTS fitted|SS 01/27 DD 01/25|HIGH USD 22 M|TURKISH|\n|PORT STAR|82,177|2012 TSUNEISHI ZHOUSHAN|MAN B.",
       "keywords": [
         "lng",
         "lpg",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1753,
+      "token_count": 1859,
       "section_type": "linked_pdf",
       "children": []
     }

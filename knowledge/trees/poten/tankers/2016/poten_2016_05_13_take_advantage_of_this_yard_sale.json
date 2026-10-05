@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2016_05_13_take_advantage_of_this_yard_sale__root",
+  "doc_id": "poten_tankers_no_date_poten_2016_05_13_take_advantage_of_this_yard_sale",
+  "parent_id": null,
+  "title": "Take Advantage of This Yard Sale",
+  "section_path": [
+    "Take Advantage of This Yard Sale"
+  ],
+  "section_path_text": "Take Advantage of This Yard Sale",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "This may be a good time to invest\nTanker prices have been trending down in recent months, even though freight rates in most tanker segments have been strong. This week, Poten assesses the contract price for a newbuilding VLCC at $90 million and a 5 year old vessel is valued at $74.5 million. Over the last decade, tanker prices have rarely been this low and this only happened when the freight market was depressed.",
+  "keywords": [
+    "vlcc",
+    "crude_oil",
+    "are",
+    "prices",
+    "oil",
+    "time",
+    "demand",
+    "healthy",
+    "last",
+    "newbuilding",
+    "down",
+    "good"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 722,
+  "source_path": "reports/poten/2016/poten_2016-05-13_take-advantage-of-this-yard-sale.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_05_13_take_advantage_of_this_yard_sale__s01_this_may_be_a_good_time_to_invest",
+      "doc_id": "poten_tankers_no_date_poten_2016_05_13_take_advantage_of_this_yard_sale",
+      "parent_id": "poten_tankers_no_date_poten_2016_05_13_take_advantage_of_this_yard_sale__root",
+      "title": "This may be a good time to invest",
+      "section_path": [
+        "This may be a good time to invest"
+      ],
+      "section_path_text": "This may be a good time to invest",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Tanker prices have been trending down in recent months, even though freight rates in most tanker segments have been strong. This week, Poten assesses the contract price for a newbuilding VLCC at $90 million and a 5 year old vessel is valued at $74.5 million.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "are",
+        "prices",
+        "oil",
+        "demand",
+        "healthy",
+        "last"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 713,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

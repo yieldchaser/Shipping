@@ -1,0 +1,133 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2013_08_30_adding_fuel_to_the_eco_ship_fire__root",
+  "doc_id": "poten_tankers_no_date_poten_2013_08_30_adding_fuel_to_the_eco_ship_fire",
+  "parent_id": null,
+  "title": "Adding Fuel to the Eco Ship Fire",
+  "section_path": [
+    "Adding Fuel to the Eco Ship Fire"
+  ],
+  "section_path_text": "Adding Fuel to the Eco Ship Fire",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Adding Fuel to the Eco Ship Fire\nThe historically weak freight environment continues to batter the earnings of tanker companies the world over. The high and low tides of revenue opportunities have introduced a persistent theme of cost control by bringing accute attention to the bottom line. At first, the tightening of the proverbial belt was a concern for charterers as it registered the possibility of slack maintenance - something has got to give, afterall.",
+  "keywords": [
+    "brazil",
+    "atlantic",
+    "europe",
+    "crude_oil",
+    "products",
+    "eco",
+    "fuel",
+    "per",
+    "are",
+    "laden",
+    "mt/day",
+    "savings"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 583,
+  "source_path": "reports/poten/2013/poten_2013-08-30_adding-fuel-to-the-eco-ship-fire.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_08_30_adding_fuel_to_the_eco_ship_fire__s01_adding_fuel_to_the_eco_ship_fire",
+      "doc_id": "poten_tankers_no_date_poten_2013_08_30_adding_fuel_to_the_eco_ship_fire",
+      "parent_id": "poten_tankers_no_date_poten_2013_08_30_adding_fuel_to_the_eco_ship_fire__root",
+      "title": "Adding Fuel to the Eco Ship Fire",
+      "section_path": [
+        "Adding Fuel to the Eco Ship Fire"
+      ],
+      "section_path_text": "Adding Fuel to the Eco Ship Fire",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The historically weak freight environment continues to batter the earnings of tanker companies the world over. The high and low tides of revenue opportunities have introduced a persistent theme of cost control by bringing accute attention to the bottom line.",
+      "keywords": [
+        "brazil",
+        "atlantic",
+        "europe",
+        "crude_oil",
+        "products",
+        "fuel",
+        "per",
+        "day."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 348,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_08_30_adding_fuel_to_the_eco_ship_fire__s02_eco_mr",
+      "doc_id": "poten_tankers_no_date_poten_2013_08_30_adding_fuel_to_the_eco_ship_fire",
+      "parent_id": "poten_tankers_no_date_poten_2013_08_30_adding_fuel_to_the_eco_ship_fire__root",
+      "title": "Eco MR",
+      "section_path": [
+        "Eco MR"
+      ],
+      "section_path_text": "Eco MR",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "standard"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_08_30_adding_fuel_to_the_eco_ship_fire__s03_laden",
+      "doc_id": "poten_tankers_no_date_poten_2013_08_30_adding_fuel_to_the_eco_ship_fire",
+      "parent_id": "poten_tankers_no_date_poten_2013_08_30_adding_fuel_to_the_eco_ship_fire__root",
+      "title": "Laden",
+      "section_path": [
+        "Laden"
+      ],
+      "section_path_text": "Laden",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "ballast",
+        "laden"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_08_30_adding_fuel_to_the_eco_ship_fire__s04_kts",
+      "doc_id": "poten_tankers_no_date_poten_2013_08_30_adding_fuel_to_the_eco_ship_fire",
+      "parent_id": "poten_tankers_no_date_poten_2013_08_30_adding_fuel_to_the_eco_ship_fire__root",
+      "title": "Kts",
+      "section_path": [
+        "Kts"
+      ],
+      "section_path_text": "Kts",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "MT/Day MT/Day MT/Day MT/Day At this rate, it is not surprising to see why eco vessels are effectively commanding a premium of a few thousand dollars per day in the time charter market. It is also interesting to note, however that the spot market Worldscale rates do not reflect a two-tiered market in any way.",
+      "keywords": [
+        "eco",
+        "mt/day",
+        "are",
+        "conditions",
+        "ability",
+        "any",
+        "not",
+        "seem"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 208,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

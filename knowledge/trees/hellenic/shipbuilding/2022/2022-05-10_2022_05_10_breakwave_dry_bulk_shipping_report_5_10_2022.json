@@ -9,7 +9,7 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 5.10.2022",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nDry bulk defies global market rout - The Capesize market has finally showed signs of strength, with spot rates doubling over the past few\nSource: Breakwave Advisors\n\nLinked asset: 2022-05-10_breakwave-dry-bulk-shipping-report-5-10-2022_breakwavemay102022report_576fc3a74bbf.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-05-10_breakwave-dry-bulk-shipping-report-5-10-2022_breakwavemay102022report_576fc3a74bbf.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nMay 10, 2022\nBreakwave Dry Futures Index: 3,249 Baltic Dry Index (spot): 2,831 Short-term Indicators:\n↑ 30D: 18.8% ↑ 30D: 37.8% Momentum: Positive\n↑ YTD: 56.1% ↑ YTD: 27.7% Sentiment: Positive\n↑ YOY: 2.9% ↓ YOY: -11.1% Fundamentals: Positive\nBi-Weekly Report\n• Dry bulk defies global market rout - The Capesize market has finally showed signs of strength, with spot rates\ndoubling over the past few weeks, catching up to what in hindsight was an accurate futures market versus one that\nat that time seemed way too optimistic. With all major dry bulk segments earning rates in the high-20,000 range,\ndry bulk is currently thriving relative to a macro backdrop of recessionary fears and gloomy growth forecasts. Indeed,\ndry bulk is proving",
+  "summary": "Main\nDry bulk defies global market rout - The Capesize market has finally showed signs of strength, with spot rates doubling over the past few\nSource: Breakwave Advisors\n\nLinked asset: 2022-05-10_breakwave-dry-bulk-shipping-report-5-10-2022_breakwavemay102022report_576fc3a74bbf.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2022-05-10_breakwave-dry-bulk-shipping-report-5-10-2022_breakwavemay102022report_576fc3a74bbf.pdf\n\n|||BDRY||||||\n|---|---|---|---|---|---|---|---|\n||↑ ↑ ↑|Dry Bulk Shipping Breakwave Dry Futures Index: 30D: 18.8% YTD: 56.1% YOY: 2.9%|3,249|↑ ↑ ↓|Baltic Dry Index (spot): 30D: 37.8% YTD: 27.7% YOY: -11.1%|2,831 Momentum: Sentiment: Fundamentals:|May 10, 2022 Short-term Indicators: Positive Positive Positive|\n|• • •||Bi-Weekly Report Dry bulk defies global market rout - war in Ukraine, Dry bulk upcycle to continue in 2022 -|China's dry bulk imports down 9% year-to-date mainly driven by lockdowns - Supramax and a weighted average maturity of approximately 50-70 days.|are once again enjoying relatively high freight rates with little areas of concern in the near term. then an otherwise severe downcycle would have been averted to the benefit of dry bulk owners.",
   "keywords": [
     "capesize",
     "panamax",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1482,
-  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-05-10_breakwave-dry-bulk-shipping-report-5-10-2022.html",
+  "token_count": 1507,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-05-10_breakwave-dry-bulk-shipping-report-5-10-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-5-10-2022",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-05-10_breakwave-dry-bulk-shipping-report-5-10-2022_breakwavemay102022report_576fc3a74bbf.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-05-10_breakwave-dry-bulk-shipping-report-5-10-2022_breakwavemay102022report_576fc3a74bbf.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nMay 10, 2022\nBreakwave Dry Futures Index: 3,249 Baltic Dry Index (spot): 2,831 Short-term Indicators:\n↑ 30D: 18.8% ↑ 30D: 37.8% Momentum: Positive\n↑ YTD: 56.1% ↑ YTD: 27.7% Sentiment: Positive\n↑ YOY: 2.9% ↓ YOY: -11.1% Fundamentals: Positive\nBi-Weekly Report\n• Dry bulk defies global market rout - The Capesize market has finally showed signs of strength, with spot rates\ndoubling over the past few weeks, catching up to what in hindsight was an accurate futures market versus one that\nat that time seemed way too optimistic. With all major dry bulk segments earning rates in the high-20,000 range,\ndry bulk is currently thriving relative to a macro backdrop of recessionary fears and gloomy growth forecasts.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-05-10_breakwave-dry-bulk-shipping-report-5-10-2022_breakwavemay102022report_576fc3a74bbf.pdf\n\n|||BDRY||||||\n|---|---|---|---|---|---|---|---|\n||↑ ↑ ↑|Dry Bulk Shipping Breakwave Dry Futures Index: 30D: 18.8% YTD: 56.1% YOY: 2.9%|3,249|↑ ↑ ↓|Baltic Dry Index (spot): 30D: 37.8% YTD: 27.7% YOY: -11.1%|2,831 Momentum: Sentiment: Fundamentals:|May 10, 2022 Short-term Indicators: Positive Positive Positive|\n|• • •||Bi-Weekly Report Dry bulk defies global market rout - war in Ukraine, Dry bulk upcycle to continue in 2022 -|China's dry bulk imports down 9% year-to-date mainly driven by lockdowns - Supramax and a weighted average maturity of approximately 50-70 days.|are once again enjoying relatively high freight rates with little areas of concern in the near term. then an otherwise severe downcycle would have been averted to the benefit of dry bulk owners.|doubling over the past few weeks, catching up to what in hindsight was an accurate futures market versus one that at that time seemed way too optimistic.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1402,
+      "token_count": 1427,
       "section_type": "linked_pdf",
       "children": []
     }

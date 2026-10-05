@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2019_06_07_dark_clouds_or_silver_lining__root",
+  "doc_id": "poten_tankers_no_date_poten_2019_06_07_dark_clouds_or_silver_lining",
+  "parent_id": null,
+  "title": "Dark Clouds or Silver Lining",
+  "section_path": [
+    "Dark Clouds or Silver Lining"
+  ],
+  "section_path_text": "Dark Clouds or Silver Lining",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The outlook for oil demand is not as bright\nUntil recently, the consensus view on crude prices, oil supply and demand as well as tanker rates, was that we would face challenges in the first half of the year, but that the outlook for the second half of the year and into 2020 would be much brighter. However, there are indications that there could be some risks on the horizon, in particular as it relates to oil demand. While we are not predicting gloom and doom, it is prudent to check some of these factors and see how they may impact the tanker market in the next 6-12 months.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "india",
+    "japan",
+    "grain",
+    "crude_oil",
+    "oil",
+    "demand",
+    "growth",
+    "prices",
+    "would"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 796,
+  "source_path": "reports/poten/2019/poten_2019-06-07_dark-clouds-or-silver-lining.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_06_07_dark_clouds_or_silver_lining__s01_the_outlook_for_oil_demand_is_not_as_bright",
+      "doc_id": "poten_tankers_no_date_poten_2019_06_07_dark_clouds_or_silver_lining",
+      "parent_id": "poten_tankers_no_date_poten_2019_06_07_dark_clouds_or_silver_lining__root",
+      "title": "The outlook for oil demand is not as bright",
+      "section_path": [
+        "The outlook for oil demand is not as bright"
+      ],
+      "section_path_text": "The outlook for oil demand is not as bright",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Until recently, the consensus view on crude prices, oil supply and demand as well as tanker rates, was that we would face challenges in the first half of the year, but that the outlook for the second half of the year and into 2020 would be much brighter. However, there are indications that there could be some risks on the horizon, in particular as it relates to oil demand.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "india",
+        "japan",
+        "grain",
+        "crude_oil",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 786,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

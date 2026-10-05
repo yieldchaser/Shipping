@@ -1,0 +1,142 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_11_21_happy_thanksgiving__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_11_21_happy_thanksgiving",
+  "parent_id": null,
+  "title": "Happy Thanksgiving!",
+  "section_path": [
+    "Happy Thanksgiving!"
+  ],
+  "section_path_text": "Happy Thanksgiving!",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Thanksgiving marks the official start to the holiday season in the U.S. and generally represents a time for reflection. Despite a current weak spot market there is still much to be thankful for in the tanker market.",
+  "keywords": [
+    "crude_oil",
+    "equity",
+    "above",
+    "are",
+    "continue",
+    "despite",
+    "energy",
+    "generally",
+    "holiday",
+    "major",
+    "oil",
+    "poten"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 228,
+  "source_path": "reports/poten/2007/poten_2007-11-21_happy-thanksgiving.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_11_21_happy_thanksgiving__s01_happy_thanksgiving",
+      "doc_id": "poten_tankers_no_date_poten_2007_11_21_happy_thanksgiving",
+      "parent_id": "poten_tankers_no_date_poten_2007_11_21_happy_thanksgiving__root",
+      "title": "Happy Thanksgiving!",
+      "section_path": [
+        "Happy Thanksgiving!"
+      ],
+      "section_path_text": "Happy Thanksgiving!",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Thanksgiving marks the official start to the holiday season in the U.S. and generally represents a time for reflection.",
+      "keywords": [
+        "equity",
+        "generally",
+        "poten",
+        "above",
+        "base",
+        "below",
+        "comparing",
+        "current"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 98,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_11_21_happy_thanksgiving__s02_equity_index",
+      "doc_id": "poten_tankers_no_date_poten_2007_11_21_happy_thanksgiving",
+      "parent_id": "poten_tankers_no_date_poten_2007_11_21_happy_thanksgiving__root",
+      "title": "Equity Index",
+      "section_path": [
+        "Equity Index"
+      ],
+      "section_path_text": "Equity Index",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "In the spirit of the holiday, we have compiled a list of some good reasons to be thankful:",
+      "keywords": [
+        "compiled",
+        "good",
+        "holiday",
+        "list",
+        "reasons",
+        "spirit",
+        "thankful"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 20,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_11_21_happy_thanksgiving__s03_the_major_world_economies_are_comparatively_healthy_and",
+      "doc_id": "poten_tankers_no_date_poten_2007_11_21_happy_thanksgiving",
+      "parent_id": "poten_tankers_no_date_poten_2007_11_21_happy_thanksgiving__root",
+      "title": "The major world economies are comparatively healthy and",
+      "section_path": [
+        "The major world economies are comparatively healthy and"
+      ],
+      "section_path_text": "The major world economies are comparatively healthy and",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "growing, this strength will continue to create demand for energy Crude oil and refined product continue to be a major source of the energy needed to meet the demands of developing countries The oil market remains well supplied despite threats from geopolitical tensions While the tanker orderbook looks overwhelming, all of the vessels will not deliver at once. For most tanker sectors, freight rates are still above long-",
+      "keywords": [
+        "crude_oil",
+        "continue",
+        "energy",
+        "oil",
+        "above",
+        "all",
+        "are",
+        "countries"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 76,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_11_21_happy_thanksgiving__s04_term_historical_averages",
+      "doc_id": "poten_tankers_no_date_poten_2007_11_21_happy_thanksgiving",
+      "parent_id": "poten_tankers_no_date_poten_2007_11_21_happy_thanksgiving__root",
+      "title": "term historical averages",
+      "section_path": [
+        "term historical averages"
+      ],
+      "section_path_text": "term historical averages",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Enough about tankers, let's talk about the dry bulk market...",
+      "keywords": [
+        "enough",
+        "let",
+        "market...",
+        "talk",
+        "tankers"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 14,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

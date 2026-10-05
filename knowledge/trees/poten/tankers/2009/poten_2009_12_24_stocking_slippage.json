@@ -1,0 +1,167 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2009_12_24_stocking_slippage__root",
+  "doc_id": "poten_tankers_no_date_poten_2009_12_24_stocking_slippage",
+  "parent_id": null,
+  "title": "Stocking Slippage",
+  "section_path": [
+    "Stocking Slippage"
+  ],
+  "section_path_text": "Stocking Slippage",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Stocking Slippage\nThis time last year, the tanker market found itself partially insulated from the pressures being felt in other shipping sectors, but nevertheless many remained fearful that 2009 would see the market wracked by cancellations and bank failures. While the past year has certainly been challenging for tankers, the worst sale and purchase market fears have yet to materialize. What did materialize this year was a sharp drop in the value of both modern and secondhand tonnage.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "crude_oil",
+    "year",
+    "but",
+    "purchase",
+    "sale",
+    "banks",
+    "owners",
+    "percent",
+    "tankers"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 796,
+  "source_path": "reports/poten/2009/poten_2009-12-24_stocking-slippage.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_12_24_stocking_slippage__s01_stocking_slippage",
+      "doc_id": "poten_tankers_no_date_poten_2009_12_24_stocking_slippage",
+      "parent_id": "poten_tankers_no_date_poten_2009_12_24_stocking_slippage__root",
+      "title": "Stocking Slippage",
+      "section_path": [
+        "Stocking Slippage"
+      ],
+      "section_path_text": "Stocking Slippage",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This time last year, the tanker market found itself partially insulated from the pressures being felt in other shipping sectors, but nevertheless many remained fearful that 2009 would see the market wracked by cancellations and bank failures. While the past year has certainly been challenging for tankers, the worst sale and purchase market fears have yet to materialize.",
+      "keywords": [
+        "vlcc",
+        "year",
+        "but",
+        "last",
+        "percent",
+        "purchase",
+        "sale",
+        "secondhand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 185,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_12_24_stocking_slippage__s02_second_hand",
+      "doc_id": "poten_tankers_no_date_poten_2009_12_24_stocking_slippage",
+      "parent_id": "poten_tankers_no_date_poten_2009_12_24_stocking_slippage__root",
+      "title": "Second Hand",
+      "section_path": [
+        "Second Hand"
+      ],
+      "section_path_text": "Second Hand",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "New Building After years of relatively easy access to financing from banks, liquidity problems in the wake of the economic crisis brought sale and purchase activity to a virtual standstill in early 2009. Many owners were forced to negotiate waivers and extensions of existing debt covenants.",
+      "keywords": [
+        "suezmax",
+        "china",
+        "crude_oil",
+        "activity",
+        "financing",
+        "after",
+        "banks",
+        "covenants."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 248,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_12_24_stocking_slippage__s03_orderbook_impact",
+      "doc_id": "poten_tankers_no_date_poten_2009_12_24_stocking_slippage",
+      "parent_id": "poten_tankers_no_date_poten_2009_12_24_stocking_slippage__root",
+      "title": "Orderbook Impact",
+      "section_path": [
+        "Orderbook Impact"
+      ],
+      "section_path_text": "Orderbook Impact",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Worsening sentiment in the sale and purchase market also had an impact on those invested in the looming orderbook. With owners who placed orders at shipyards during boom years experiencing liquidity problems, the possibility of acquiring \"distressed assets\" led to the creation of a number of private equity funds looking for such opportunities.",
+      "keywords": [
+        "assets",
+        "owners",
+        "acquiring",
+        "arrivals.",
+        "below",
+        "boom",
+        "but",
+        "cancellations"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 157,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_12_24_stocking_slippage__s04_on_order",
+      "doc_id": "poten_tankers_no_date_poten_2009_12_24_stocking_slippage",
+      "parent_id": "poten_tankers_no_date_poten_2009_12_24_stocking_slippage__root",
+      "title": "On Order",
+      "section_path": [
+        "On Order"
+      ],
+      "section_path_text": "On Order",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "slippage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_12_24_stocking_slippage__s05_seasons_greetings",
+      "doc_id": "poten_tankers_no_date_poten_2009_12_24_stocking_slippage",
+      "parent_id": "poten_tankers_no_date_poten_2009_12_24_stocking_slippage__root",
+      "title": "Seasons Greetings!",
+      "section_path": [
+        "Seasons Greetings!"
+      ],
+      "section_path_text": "Seasons Greetings!",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Bank lending is not expected to return in earnest during 2010 and shipping finance will be forced to continue adapting to difficult conditions. Nevertheless, there is reason to hope the worst is behind us.",
+      "keywords": [
+        "banks",
+        "but",
+        "continue",
+        "declines",
+        "much",
+        "prices",
+        "tankers",
+        "tonnage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 181,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

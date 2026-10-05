@@ -1,0 +1,140 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2009_09_18_winds_of_change_for_marine_bunker_fuel_regulations__root",
+  "doc_id": "poten_tankers_no_date_poten_2009_09_18_winds_of_change_for_marine_bunker_fuel_regulations",
+  "parent_id": null,
+  "title": "Winds of Change for Marine Bunker Fuel Regulations",
+  "section_path": [
+    "Winds of Change for Marine Bunker Fuel Regulations"
+  ],
+  "section_path_text": "Winds of Change for Marine Bunker Fuel Regulations",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Winds of Change for Marine Bunker Fuel Regulations\nAt the moment, the specter of tightening regulation is a fact of life across nearly every niche of the energy industry. Governments worldwide are working both separately and together to develop limits on sulfur and carbon emissions from industry, improvements in mileage standards for automobiles and better oversight of derivatives trading. While all of these regulatory efforts will eventually impact the tanker industry, the effort to reduce sulfur content of marine bunker fuels is of immediate concern for both the bunkering and shipping industries.",
+  "keywords": [
+    "atlantic",
+    "pacific",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "sulfur",
+    "fuel",
+    "marine",
+    "bunker",
+    "eca",
+    "content"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1237,
+  "source_path": "reports/poten/2009/poten_2009-09-18_winds-of-change-for-marine-bunker-fuel-regulations.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_09_18_winds_of_change_for_marine_bunker_fuel_regulations__s01_winds_of_change_for_marine_bunker_fuel_regulations",
+      "doc_id": "poten_tankers_no_date_poten_2009_09_18_winds_of_change_for_marine_bunker_fuel_regulations",
+      "parent_id": "poten_tankers_no_date_poten_2009_09_18_winds_of_change_for_marine_bunker_fuel_regulations__root",
+      "title": "Winds of Change for Marine Bunker Fuel Regulations",
+      "section_path": [
+        "Winds of Change for Marine Bunker Fuel Regulations"
+      ],
+      "section_path_text": "Winds of Change for Marine Bunker Fuel Regulations",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "At the moment, the specter of tightening regulation is a fact of life across nearly every niche of the energy industry. Governments worldwide are working both separately and together to develop limits on sulfur and carbon emissions from industry, improvements in mileage standards for automobiles and better oversight of derivatives trading.",
+      "keywords": [
+        "atlantic",
+        "pacific",
+        "crude_oil",
+        "products",
+        "gas",
+        "sulfur",
+        "bunker",
+        "eca"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 547,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_09_18_winds_of_change_for_marine_bunker_fuel_regulations__s02_high_sulfur",
+      "doc_id": "poten_tankers_no_date_poten_2009_09_18_winds_of_change_for_marine_bunker_fuel_regulations",
+      "parent_id": "poten_tankers_no_date_poten_2009_09_18_winds_of_change_for_marine_bunker_fuel_regulations__root",
+      "title": "High Sulfur",
+      "section_path": [
+        "High Sulfur"
+      ],
+      "section_path_text": "High Sulfur",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "low",
+        "sulfur"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_09_18_winds_of_change_for_marine_bunker_fuel_regulations__s03_high_sulfur",
+      "doc_id": "poten_tankers_no_date_poten_2009_09_18_winds_of_change_for_marine_bunker_fuel_regulations",
+      "parent_id": "poten_tankers_no_date_poten_2009_09_18_winds_of_change_for_marine_bunker_fuel_regulations__root",
+      "title": "High Sulfur",
+      "section_path": [
+        "High Sulfur"
+      ],
+      "section_path_text": "High Sulfur",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Low Sulfur Gasoil/Diesel North America 299 100 129 European ECA 454 126 146",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "america",
+        "eca",
+        "european",
+        "gasoil/diesel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 25,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_09_18_winds_of_change_for_marine_bunker_fuel_regulations__s04_high_sulfur",
+      "doc_id": "poten_tankers_no_date_poten_2009_09_18_winds_of_change_for_marine_bunker_fuel_regulations",
+      "parent_id": "poten_tankers_no_date_poten_2009_09_18_winds_of_change_for_marine_bunker_fuel_regulations__root",
+      "title": "High Sulfur",
+      "section_path": [
+        "High Sulfur"
+      ],
+      "section_path_text": "High Sulfur",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Low Sulfur Gasoil/Diesel North America 17.1 5.6 6.5 European ECA 25.9 7.1 7.3 Changes in demand for low sulfur bunker fuel in these ECAs pivots on ship traffic and not its sulfur content. Demand for low sulfur heavy residual bunkers is rendered inelastic at a given level of traffic by the ECAs' mandates.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "fuel",
+        "sulfur",
+        "marine",
+        "low"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 633,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

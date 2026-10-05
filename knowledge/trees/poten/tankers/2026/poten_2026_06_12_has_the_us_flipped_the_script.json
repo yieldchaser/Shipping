@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2026_06_12_has_the_us_flipped_the_script__root",
+  "doc_id": "poten_tankers_no_date_poten_2026_06_12_has_the_us_flipped_the_script",
+  "parent_id": null,
+  "title": "Has The U.S. Flipped The Script",
+  "section_path": [
+    "Has The U.S. Flipped The Script"
+  ],
+  "section_path_text": "Has The U.S. Flipped The Script",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Iranian flows are halted, while other oil is trickling through\nAccording to both the US and Iran, the warring parties are inching closer towards an agreement on a Memorandum of Understanding (MoU). The MoU will set the terms of a more permanent ceasefire between the belligerents. It has been reported that this would be for an initial 60-day period in which the Strait of Hormuz (SoH) would be reopened without restrictions, the US blockade will be removed, and Iran would be able to export oil.",
+  "keywords": [
+    "crude_oil",
+    "products",
+    "iranian",
+    "soh",
+    "vessels",
+    "ships",
+    "iran",
+    "would",
+    "according",
+    "blockade",
+    "traffic",
+    "was"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 930,
+  "source_path": "reports/poten/2026/poten_2026-06-12_has-the-us-flipped-the-script.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2026_06_12_has_the_us_flipped_the_script__s01_iranian_flows_are_halted_while_other_oil_is_trickling_through",
+      "doc_id": "poten_tankers_no_date_poten_2026_06_12_has_the_us_flipped_the_script",
+      "parent_id": "poten_tankers_no_date_poten_2026_06_12_has_the_us_flipped_the_script__root",
+      "title": "Iranian flows are halted, while other oil is trickling through",
+      "section_path": [
+        "Iranian flows are halted, while other oil is trickling through"
+      ],
+      "section_path_text": "Iranian flows are halted, while other oil is trickling through",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "According to both the US and Iran, the warring parties are inching closer towards an agreement on a Memorandum of Understanding (MoU). The MoU will set the terms of a more permanent ceasefire between the belligerents.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "soh",
+        "vessels",
+        "iranian",
+        "ships",
+        "iran",
+        "would"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 916,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

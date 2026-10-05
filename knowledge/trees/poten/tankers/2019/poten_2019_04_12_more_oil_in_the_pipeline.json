@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2019_04_12_more_oil_in_the_pipeline__root",
+  "doc_id": "poten_tankers_no_date_poten_2019_04_12_more_oil_in_the_pipeline",
+  "parent_id": null,
+  "title": "More Oil In The Pipeline",
+  "section_path": [
+    "More Oil In The Pipeline"
+  ],
+  "section_path_text": "More Oil In The Pipeline",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Developments in West Texas Pipeline Capacity\nAs anybody who follows the oil industry knows, U.S. crude oil production has grown rapidly in recent years. According to the EIA, the U.S.",
+  "keywords": [
+    "vlcc",
+    "crude_oil",
+    "pipeline",
+    "production",
+    "oil",
+    "capacity",
+    "crude",
+    "are",
+    "kb/d",
+    "growth",
+    "mb/d",
+    "new"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 817,
+  "source_path": "reports/poten/2019/poten_2019-04-12_more-oil-in-the-pipeline.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_04_12_more_oil_in_the_pipeline__s01_developments_in_west_texas_pipeline_capacity",
+      "doc_id": "poten_tankers_no_date_poten_2019_04_12_more_oil_in_the_pipeline",
+      "parent_id": "poten_tankers_no_date_poten_2019_04_12_more_oil_in_the_pipeline__root",
+      "title": "Developments in West Texas Pipeline Capacity",
+      "section_path": [
+        "Developments in West Texas Pipeline Capacity"
+      ],
+      "section_path_text": "Developments in West Texas Pipeline Capacity",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As anybody who follows the oil industry knows, U.S. crude oil production has grown rapidly in recent years.",
+      "keywords": [
+        "crude_oil",
+        "pipeline",
+        "production",
+        "oil",
+        "capacity",
+        "kb/d",
+        "new",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 573,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_04_12_more_oil_in_the_pipeline__s02_chart_planned_permian_eagle_ford_oil_pipeline_capacity_vs_lto_production",
+      "doc_id": "poten_tankers_no_date_poten_2019_04_12_more_oil_in_the_pipeline",
+      "parent_id": "poten_tankers_no_date_poten_2019_04_12_more_oil_in_the_pipeline__root",
+      "title": "Chart: Planned Permian/Eagle Ford Oil Pipeline Capacity vs LTO Production",
+      "section_path": [
+        "Chart: Planned Permian/Eagle Ford Oil Pipeline Capacity vs LTO Production"
+      ],
+      "section_path_text": "Chart: Planned Permian/Eagle Ford Oil Pipeline Capacity vs LTO Production",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Combined, these pipelines added 625 Kb/d in take-away capacity, enough to eliminate the shortfall. Several large pipeline projects, adding up to more than 2Mb/d, are scheduled to come online before the end of 2020 and additional projects for completion thereafter are announced.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "pipeline",
+        "crude",
+        "production",
+        "projects",
+        "are",
+        "additional"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 220,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

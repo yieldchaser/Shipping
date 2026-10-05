@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_12_03_paying_to_play__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_12_03_paying_to_play",
+  "parent_id": null,
+  "title": "Paying To Play",
+  "section_path": [
+    "Paying To Play"
+  ],
+  "section_path_text": "Paying To Play",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Paying To Play\nWhile the relative strengths of the leading world economies will be the ultimate driver of sustained trade growth, it is the relative strength of currencies which are being discussed as potential drivers of the tanker asset market in the near term. Debate surrounding currency pressures have become a topic of increasing significance between the United States and China. Shipbuilding in particular finds itself at the forefront of this entanglement in countries like South Korea, where businesses must regularly manage the inflow of foreign currency with the domestic outflow.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "prices",
+    "dollar",
+    "are",
+    "currency",
+    "newbuilding",
+    "asset",
+    "assets",
+    "further",
+    "increase",
+    "investors"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 740,
+  "source_path": "reports/poten/2010/poten_2010-12-03_paying-to-play.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_12_03_paying_to_play__s01_paying_to_play",
+      "doc_id": "poten_tankers_no_date_poten_2010_12_03_paying_to_play",
+      "parent_id": "poten_tankers_no_date_poten_2010_12_03_paying_to_play__root",
+      "title": "Paying To Play",
+      "section_path": [
+        "Paying To Play"
+      ],
+      "section_path_text": "Paying To Play",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "While the relative strengths of the leading world economies will be the ultimate driver of sustained trade growth, it is the relative strength of currencies which are being discussed as potential drivers of the tanker asset market in the near term. Debate surrounding currency pressures have become a topic of increasing significance between the United States and China.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "currency",
+        "prices",
+        "relative",
+        "are",
+        "asset",
+        "environment"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 292,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_12_03_paying_to_play__s02_usd_million",
+      "doc_id": "poten_tankers_no_date_poten_2010_12_03_paying_to_play",
+      "parent_id": "poten_tankers_no_date_poten_2010_12_03_paying_to_play__root",
+      "title": "USD Million",
+      "section_path": [
+        "USD Million"
+      ],
+      "section_path_text": "USD Million",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Current newbuilding VLCC prices are assessed to be $107 million, a nominal increase of 53% since the start of the above time series. However, since January 2000 the value of the dollar has decreased approximately 27%.",
+      "keywords": [
+        "vlcc",
+        "prices",
+        "dollar",
+        "increase",
+        "overall",
+        "pressure",
+        "since",
+        "supply"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 180,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_12_03_paying_to_play__s03_what_s_in_a_dollar",
+      "doc_id": "poten_tankers_no_date_poten_2010_12_03_paying_to_play",
+      "parent_id": "poten_tankers_no_date_poten_2010_12_03_paying_to_play__root",
+      "title": "What's in a dollar?",
+      "section_path": [
+        "What's in a dollar?"
+      ],
+      "section_path_text": "What's in a dollar?",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "It is likely that the shipyards themselves will bear the brunt of this currency risk, seeking to balance getting paid in dollars and running their business in local currency. Since January 2008, the Korean won has appreciated roughly 20% versus the US dollar making the cost of services and goods in Korea that much more costly.",
+      "keywords": [
+        "china",
+        "appreciated",
+        "balance",
+        "bear",
+        "brunt",
+        "business",
+        "cost",
+        "costly."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 89,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_12_03_paying_to_play__s04_krw",
+      "doc_id": "poten_tankers_no_date_poten_2010_12_03_paying_to_play",
+      "parent_id": "poten_tankers_no_date_poten_2010_12_03_paying_to_play__root",
+      "title": "KRW",
+      "section_path": [
+        "KRW"
+      ],
+      "section_path_text": "KRW",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "EUR CNY While the idea of holding cash under today's economic conditions may seem less than appealing, sinking money into newbuilding assets may be just as risky as ever. Shipowners are cautioned to look at the long‐term repercussions of adding further padding to the existing orderbook.",
+      "keywords": [
+        "fleet",
+        "further",
+        "long",
+        "look",
+        "may",
+        "potential",
+        "secondhand",
+        "shipowners"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 162,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended__root",
+  "doc_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended",
+  "parent_id": null,
+  "title": "A Product Tanker Investment Hypothesis, Overextended",
+  "section_path": [
+    "A Product Tanker Investment Hypothesis, Overextended"
+  ],
+  "section_path_text": "A Product Tanker Investment Hypothesis, Overextended",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "IEA makes case for\nToday's release of the long-awaited Medium-term Oil Market Report (MTOMR) by the International Energy Agency (IEA) featured a more relaxed oil market forecast for the next five years -- driven by weaker global demand growth, stronger North American supply and rising Iraqi production capacity. The agency went to great lengths to dramatise a \"deeply transformed\" global oil map, as a rebalancing of regional supply and demand would drive crude trade flows lower, but boost longer-haul product movements. Of course, the market has embraced this product tanker investment hypothesis for years, and the fundamentals remain still intact, so this is hardly new news.",
+  "keywords": [
+    "china",
+    "brazil",
+    "atlantic",
+    "pacific",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "gas",
+    "demand",
+    "refining",
+    "capacity"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1243,
+  "source_path": "reports/poten/2012/poten_2012-10-12_a-product-tanker-investment-hypothesis-overextended.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended__s01_iea_makes_case_for",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended__root",
+      "title": "IEA makes case for",
+      "section_path": [
+        "IEA makes case for"
+      ],
+      "section_path_text": "IEA makes case for",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Today's release of the long-awaited Medium-term Oil Market Report (MTOMR) by the International Energy Agency (IEA) featured a more relaxed oil market forecast for the next five years -- driven by weaker global demand growth, stronger North American supply and rising Iraqi production capacity. The agency went to great lengths to dramatise a \"deeply transformed\" global oil map, as a rebalancing of regional supply and demand would drive crude trade flows lower, but boost longer-haul product movements.",
+      "keywords": [
+        "china",
+        "india",
+        "crude_oil",
+        "product",
+        "but",
+        "demand",
+        "oil",
+        "agency"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 216,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended__s02_china_and_ag_dominate",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended__root",
+      "title": "China and AG dominate",
+      "section_path": [
+        "China and AG dominate"
+      ],
+      "section_path_text": "China and AG dominate",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "expansion",
+        "plans",
+        "refinery"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended__s03_atlantic_basin",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended__root",
+      "title": "Atlantic Basin",
+      "section_path": [
+        "Atlantic Basin"
+      ],
+      "section_path_text": "Atlantic Basin",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "China India & Oth Asia Middle East Other 8.8 mbpd of refinery projects possible Atlantic Basin capacity, despite the delay of Brazilian projects. Still, against forecast demand growth of 5.8 mbpd during 2013-17, gross refinery capacity additions would overwhelm demand, suggesting additional refinery closures to balance supply and demand.",
+      "keywords": [
+        "china",
+        "brazil",
+        "atlantic",
+        "europe",
+        "india",
+        "products",
+        "capacity",
+        "refinery"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 111,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended__s04_gross_additions_would",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended__root",
+      "title": "Gross additions would",
+      "section_path": [
+        "Gross additions would"
+      ],
+      "section_path_text": "Gross additions would",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "be 50% more than incremental demand The implied volume of these closures is becoming excessive, however, and pushing the limits of potential refinery rationalisation, given regional product demand requirements and investor behaviour. Poten refinery forecasts include 2.3 mbpd of net shutdowns, to bring net distillation capacity additions to 6.5 mbpd, which is close to the current IEA outlook.",
+      "keywords": [
+        "demand",
+        "mbpd",
+        "net",
+        "additions",
+        "forecasts",
+        "refinery",
+        "becoming",
+        "behaviour."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 118,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended__s05_forecast_2_3_mbpd_of",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended__root",
+      "title": "Forecast 2.3 mbpd of",
+      "section_path": [
+        "Forecast 2.3 mbpd of"
+      ],
+      "section_path_text": "Forecast 2.3 mbpd of",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "refinery closures may not be enough",
+      "keywords": [
+        "closures",
+        "enough",
+        "may",
+        "not",
+        "refinery"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended__s06_refinery_expansion_plans",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended__root",
+      "title": "Refinery expansion plans",
+      "section_path": [
+        "Refinery expansion plans"
+      ],
+      "section_path_text": "Refinery expansion plans",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "would outpace demand and suppress utilisations 2013F 2014F 2015F 2016F 2017F",
+      "keywords": [
+        "demand",
+        "outpace",
+        "suppress",
+        "utilisations",
+        "would"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 28,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended__s07_global_demand",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended__root",
+      "title": "Global Demand",
+      "section_path": [
+        "Global Demand"
+      ],
+      "section_path_text": "Global Demand",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "",
+      "keywords": [
+        "capy",
+        "crude",
+        "intake",
+        "net",
+        "refining"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended__s08_rising_share_of_liquids",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended__root",
+      "title": "Rising share of liquids",
+      "section_path": [
+        "Rising share of liquids"
+      ],
+      "section_path_text": "Rising share of liquids",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "supply bypassing the refining system Incredibly, this implies that refiners must shut down more than 4 mbpd of refining capacity during the next five years, just to keep utilisations at the lacklustre levels of today. Current Poten forecasts for 2.3 mbpd of refinery shutdowns during 2013-17 provide a 1.3 mbpd decline in European capacity, or 9%, and a 0.9 mbpd, or 12%, cut in OECD Pacific capacity during 2013-17.",
+      "keywords": [
+        "atlantic",
+        "pacific",
+        "europe",
+        "refining",
+        "capacity",
+        "during",
+        "mbpd",
+        "new"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 208,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended__s09_refinery_shutdowns_of",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended__root",
+      "title": "Refinery shutdowns of",
+      "section_path": [
+        "Refinery shutdowns of"
+      ],
+      "section_path_text": "Refinery shutdowns of",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "2.3 mbpd should cut OECD capacity... ...but refineries are hard to kill So, something has to give.",
+      "keywords": [
+        "china",
+        "brazil",
+        "atlantic",
+        "are",
+        "building",
+        "but",
+        "capacity",
+        "oecd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 123,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended__s10_someone_has_to_stop",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended__root",
+      "title": "Someone has to stop",
+      "section_path": [
+        "Someone has to stop"
+      ],
+      "section_path_text": "Someone has to stop",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "",
+      "keywords": [
+        "building",
+        "new",
+        "refineries"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended__s11_consistent_pattern_of",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended__root",
+      "title": "Consistent pattern of",
+      "section_path": [
+        "Consistent pattern of"
+      ],
+      "section_path_text": "Consistent pattern of",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "modest Chinese net exports of transport fuel",
+      "keywords": [
+        "china",
+        "chinese",
+        "exports",
+        "fuel",
+        "modest",
+        "net",
+        "transport"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended__s12_gasoline",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended__root",
+      "title": "Gasoline",
+      "section_path": [
+        "Gasoline"
+      ],
+      "section_path_text": "Gasoline",
+      "level": 1,
+      "ordinal": 12,
+      "summary": "",
+      "keywords": [
+        "crude_oil",
+        "gas",
+        "gasoil",
+        "jet"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended__s13_chinese_as_pragmatists",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended__root",
+      "title": "Chinese as pragmatists?",
+      "section_path": [
+        "Chinese as pragmatists?"
+      ],
+      "section_path_text": "Chinese as pragmatists?",
+      "level": 1,
+      "ordinal": 13,
+      "summary": "So, the IEA arguing that China would become a \"new powerhouse in product exports\" was surprising. This assertion is based upon the agency's lower demand forecasts for China, which have sliced 2016 demand estimates by 1.14 mbpd from their June 2011 MTOMR.",
+      "keywords": [
+        "china",
+        "europe",
+        "india",
+        "products",
+        "gas",
+        "demand",
+        "chinese",
+        "export"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 234,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended__s14_job_as_export",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_12_a_product_tanker_investment_hypothesis_overextended__root",
+      "title": "Job as export",
+      "section_path": [
+        "Job as export"
+      ],
+      "section_path_text": "Job as export",
+      "level": 1,
+      "ordinal": 14,
+      "summary": "...Chinese gasoline exports welcome The demand fundamentals supporting the product tanker investment hypothesis remain in place, but overextending this premise to new geographies, when the refining industry faces severe threats to profitability, is unsettling. The product tanker investment case faces its own potential threat from renewed MR ordering and \"eco-design\" marketing-- it does not need an additional ordering rationale from an illusory export potential.",
+      "keywords": [
+        "china",
+        "products",
+        "gas",
+        "ordering",
+        "faces",
+        "investment",
+        "product",
+        "additional"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 92,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2026_07_31_surviving_the_sanctions__root",
+  "doc_id": "poten_tankers_no_date_poten_2026_07_31_surviving_the_sanctions",
+  "parent_id": null,
+  "title": "Surviving The Sanctions",
+  "section_path": [
+    "Surviving The Sanctions"
+  ],
+  "section_path_text": "Surviving The Sanctions",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Russia adjusts to changes in global oil markets\nThe Russia - Ukraine war started on 24 February 2022, when Moscow invaded its neighbor. The invasion triggered widespread condemnation, and a coalition of over 40 countries has imposed coordinated economic sanctions on Russia as a result. This international response consists primarily of the \"G7+ coalition,\" which includes all major Western economies and several key Asian and Pacific nations.",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "pacific",
+    "europe",
+    "india",
+    "coal",
+    "crude_oil",
+    "russia",
+    "oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 884,
+  "source_path": "reports/poten/2026/poten_2026-07-31_surviving-the-sanctions.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2026_07_31_surviving_the_sanctions__s01_russia_adjusts_to_changes_in_global_oil_markets",
+      "doc_id": "poten_tankers_no_date_poten_2026_07_31_surviving_the_sanctions",
+      "parent_id": "poten_tankers_no_date_poten_2026_07_31_surviving_the_sanctions__root",
+      "title": "Russia adjusts to changes in global oil markets",
+      "section_path": [
+        "Russia adjusts to changes in global oil markets"
+      ],
+      "section_path_text": "Russia adjusts to changes in global oil markets",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Russia - Ukraine war started on 24 February 2022, when Moscow invaded its neighbor. The invasion triggered widespread condemnation, and a coalition of over 40 countries has imposed coordinated economic sanctions on Russia as a result.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "pacific",
+        "europe",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 875,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

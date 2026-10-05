@@ -1,0 +1,133 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2004_12_24_double_feature__root",
+  "doc_id": "poten_tankers_no_date_poten_2004_12_24_double_feature",
+  "parent_id": null,
+  "title": "Double Feature",
+  "section_path": [
+    "Double Feature"
+  ],
+  "section_path_text": "Double Feature",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Double Feature\nThe Ghost of Christmas Past In The Christmas Carol by Charles Dickens, Scrooge was given a glimpse of Christmas Past and of Christmas Present. Unlike the visions seen by Scrooge, Christmas Present is a lot different than Christmas Past. The Ghosts of\nDecembers Past\n\nAnd\nThe Reality of\n\nIt's a Wonderful Life\nJimmy Stewart starred in this Christmas movie of what life would have been like if Jimmy Stewart, playing an individual who doubted his self-worth, had not been born.",
+  "keywords": [
+    "handysize",
+    "vlcc",
+    "aframax",
+    "christmas",
+    "aframaxes",
+    "average",
+    "day",
+    "december",
+    "handymaxes",
+    "million",
+    "not",
+    "past"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 241,
+  "source_path": "reports/poten/2004/poten_2004-12-24_double-feature.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_12_24_double_feature__s01_double_feature",
+      "doc_id": "poten_tankers_no_date_poten_2004_12_24_double_feature",
+      "parent_id": "poten_tankers_no_date_poten_2004_12_24_double_feature__root",
+      "title": "Double Feature",
+      "section_path": [
+        "Double Feature"
+      ],
+      "section_path_text": "Double Feature",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Ghost of Christmas Past In The Christmas Carol by Charles Dickens, Scrooge was given a glimpse of Christmas Past and of Christmas Present. Unlike the visions seen by Scrooge, Christmas Present is a lot different than Christmas Past.",
+      "keywords": [
+        "christmas",
+        "past",
+        "scrooge",
+        "carol",
+        "charles",
+        "dickens",
+        "different",
+        "ghost"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 47,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_12_24_double_feature__s02_the_ghosts_of",
+      "doc_id": "poten_tankers_no_date_poten_2004_12_24_double_feature",
+      "parent_id": "poten_tankers_no_date_poten_2004_12_24_double_feature__root",
+      "title": "The Ghosts of",
+      "section_path": [
+        "The Ghosts of"
+      ],
+      "section_path_text": "The Ghosts of",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "decembers",
+        "past"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_12_24_double_feature__s03_and",
+      "doc_id": "poten_tankers_no_date_poten_2004_12_24_double_feature",
+      "parent_id": "poten_tankers_no_date_poten_2004_12_24_double_feature__root",
+      "title": "And",
+      "section_path": [
+        "And"
+      ],
+      "section_path_text": "And",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "reality"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_12_24_double_feature__s04_it_s_a_wonderful_life",
+      "doc_id": "poten_tankers_no_date_poten_2004_12_24_double_feature",
+      "parent_id": "poten_tankers_no_date_poten_2004_12_24_double_feature__root",
+      "title": "It's a Wonderful Life",
+      "section_path": [
+        "It's a Wonderful Life"
+      ],
+      "section_path_text": "It's a Wonderful Life",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Jimmy Stewart starred in this Christmas movie of what life would have been like if Jimmy Stewart, playing an individual who doubted his self-worth, had not been born. Only then could Stewart see the positive influence he had on so many lives that touched his own.",
+      "keywords": [
+        "handysize",
+        "vlcc",
+        "aframax",
+        "aframaxes",
+        "average",
+        "christmas",
+        "day",
+        "december"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 170,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

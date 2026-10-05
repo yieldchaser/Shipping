@@ -1,0 +1,230 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_09_09_syria_of_events__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_09_09_syria_of_events",
+  "parent_id": null,
+  "title": "Syria of Events",
+  "section_path": [
+    "Syria of Events"
+  ],
+  "section_path_text": "Syria of Events",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Syria of Events\nThe violent response of Syrian leader Bashar al Assad to the ongoing pro‐democracy protests since March of this year has been met with horror and condemnation from the international community. In an unprecedented move, the nations of the Gulf Cooperation Council (GCC) recalled their ambassadors from Syria, showing clearly the regional lack of support for the Assad regime. The United States has prohibited import of any Syrian petroleum and has forbidden US citizens and businesses from involvement in Syria's energy sector.",
+  "keywords": [
+    "vlcc",
+    "aframax",
+    "europe",
+    "crude_oil",
+    "gas",
+    "oil",
+    "syria",
+    "crude",
+    "syrian",
+    "are",
+    "export",
+    "pipeline"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1046,
+  "source_path": "reports/poten/2011/poten_2011-09-09_syria-of-events.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_09_09_syria_of_events__s01_syria_of_events",
+      "doc_id": "poten_tankers_no_date_poten_2011_09_09_syria_of_events",
+      "parent_id": "poten_tankers_no_date_poten_2011_09_09_syria_of_events__root",
+      "title": "Syria of Events",
+      "section_path": [
+        "Syria of Events"
+      ],
+      "section_path_text": "Syria of Events",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The violent response of Syrian leader Bashar al Assad to the ongoing pro‐democracy protests since March of this year has been met with horror and condemnation from the international community. In an unprecedented move, the nations of the Gulf Cooperation Council (GCC) recalled their ambassadors from Syria, showing clearly the regional lack of support for the Assad regime.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "syria",
+        "assad",
+        "syrian",
+        "are",
+        "exports",
+        "likely"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 223,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_09_09_syria_of_events__s02_uk_continent",
+      "doc_id": "poten_tankers_no_date_poten_2011_09_09_syria_of_events",
+      "parent_id": "poten_tankers_no_date_poten_2011_09_09_syria_of_events__root",
+      "title": "UK Continent",
+      "section_path": [
+        "UK Continent"
+      ],
+      "section_path_text": "UK Continent",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "USA Syria itself is not a major crude oil exporter. Syrian crude oil production peaked in 1996 at 580 kbd and has declined over the past fifteen years.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "oil",
+        "crude",
+        "syrian",
+        "was",
+        "kbd",
+        "syria"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 355,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_09_09_syria_of_events__s03_pipe_dreams",
+      "doc_id": "poten_tankers_no_date_poten_2011_09_09_syria_of_events",
+      "parent_id": "poten_tankers_no_date_poten_2011_09_09_syria_of_events__root",
+      "title": "Pipe Dreams",
+      "section_path": [
+        "Pipe Dreams"
+      ],
+      "section_path_text": "Pipe Dreams",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Syria's heavy crude is not as abundant or as painful to replace as Libya's lost light sweet barrels, but in the current crude oil supply (and price) environment, any little bit hurts. Additionally, both sanctions and political upheaval are likely to stand in the way of planned infrastructure projects that would boost export capacity from neighboring crude oil producers through Syria's Mediterranean seaports.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "crude",
+        "oil",
+        "syria",
+        "two",
+        "abundant",
+        "additionally"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 104,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_09_09_syria_of_events__s04_ceyhan",
+      "doc_id": "poten_tankers_no_date_poten_2011_09_09_syria_of_events",
+      "parent_id": "poten_tankers_no_date_poten_2011_09_09_syria_of_events__root",
+      "title": "Ceyhan",
+      "section_path": [
+        "Ceyhan"
+      ],
+      "section_path_text": "Ceyhan",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "turkey"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_09_09_syria_of_events__s05_ceyhan",
+      "doc_id": "poten_tankers_no_date_poten_2011_09_09_syria_of_events",
+      "parent_id": "poten_tankers_no_date_poten_2011_09_09_syria_of_events__root",
+      "title": "Ceyhan",
+      "section_path": [
+        "Ceyhan"
+      ],
+      "section_path_text": "Ceyhan",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "",
+      "keywords": [
+        "turkey"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_09_09_syria_of_events__s06_kirkuk",
+      "doc_id": "poten_tankers_no_date_poten_2011_09_09_syria_of_events",
+      "parent_id": "poten_tankers_no_date_poten_2011_09_09_syria_of_events__root",
+      "title": "Kirkuk",
+      "section_path": [
+        "Kirkuk"
+      ],
+      "section_path_text": "Kirkuk",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "",
+      "keywords": [
+        "nineweh"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_09_09_syria_of_events__s07_kirkuk",
+      "doc_id": "poten_tankers_no_date_poten_2011_09_09_syria_of_events",
+      "parent_id": "poten_tankers_no_date_poten_2011_09_09_syria_of_events__root",
+      "title": "Kirkuk",
+      "section_path": [
+        "Kirkuk"
+      ],
+      "section_path_text": "Kirkuk",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "",
+      "keywords": [
+        "nineweh"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_09_09_syria_of_events__s08_proposed_pipeline",
+      "doc_id": "poten_tankers_no_date_poten_2011_09_09_syria_of_events",
+      "parent_id": "poten_tankers_no_date_poten_2011_09_09_syria_of_events__root",
+      "title": "Proposed pipeline",
+      "section_path": [
+        "Proposed pipeline"
+      ],
+      "section_path_text": "Proposed pipeline",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "The aforementioned pipeline connecting the northern Iraqi oil region of Kirkuk to the Syrian Mediterranean port of Baniyas has been under repair since 2007. Ongoing bottlenecks at export terminals have been the main impediment to increasing the flow of Iraqi oil to market, and Syria is central in ongoing plans to expand regional oil and gas pipeline networks.",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "europe",
+        "crude_oil",
+        "gas",
+        "oil",
+        "syria",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 315,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

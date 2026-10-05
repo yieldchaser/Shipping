@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNew building in the tanker market this week, clients of Dynacom are reported to have placed an order for 10 x 115,000 dwt\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-04-28_clarksons-platou-hellas-snp-weekly-bulletin-67_report-28-04-2023_ac6dcbdc87d9.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-04-28_clarksons-platou-hellas-snp-weekly-bulletin-67_report-28-04-2023_ac6dcbdc87d9.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 28 April 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\n2012 JIANGSU MAN B. 6S60MC-C8.1 SS 09/27\nDL IVY 81,805 RGN USD 17 M TURKISH\nEASTERN Tier II, BWTS Fitted DD 02/26\n2009 TSUNEISHI MAN B. 6S60MC6.2 SS 01/24\nPALMA BULKER 75,843 RGN USD 18 M GREEKS\nZOSEN BWTS Fitted DD 01/24\n2010 SINOTRANS & MAN B.",
+  "summary": "Main\nNew building in the tanker market this week, clients of Dynacom are reported to have placed an order for 10 x 115,000 dwt\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-04-28_clarksons-platou-hellas-snp-weekly-bulletin-67_report-28-04-2023_ac6dcbdc87d9.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2023-04-28_clarksons-platou-hellas-snp-weekly-bulletin-67_report-28-04-2023_ac6dcbdc87d9.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin28 April 2023\n\n# Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n|DL IVY|81,805|2012 JIANGSU EASTERN|MAN B. 6S60MC Tier II, BWTS Fitted-C8.1|SS 09/27 DD 02/ 26|RGN USD 17 M|TURKISH|\n|PALMA BULKER|75,843|2009ZOSEN TSUNEISHI|MAN B. 6S60MC6.2 BWTS Fitted|SS 01/24 DD 01/ 24|RGN USD 18 M|GREEKS|\n|OREN|56,877|2010 SINOTRANS & CSC JIANGDONG|MAN B.",
   "keywords": [
     "handysize",
     "lng",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2396,
-  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-04-28_clarksons-platou-hellas-snp-weekly-bulletin-67.html",
+  "token_count": 2502,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-04-28_clarksons-platou-hellas-snp-weekly-bulletin-67.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-67",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-04-28_clarksons-platou-hellas-snp-weekly-bulletin-67_report-28-04-2023_ac6dcbdc87d9.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-04-28_clarksons-platou-hellas-snp-weekly-bulletin-67_report-28-04-2023_ac6dcbdc87d9.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 28 April 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\n2012 JIANGSU MAN B. 6S60MC-C8.1 SS 09/27\nDL IVY 81,805 RGN USD 17 M TURKISH\nEASTERN Tier II, BWTS Fitted DD 02/26\n2009 TSUNEISHI MAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-04-28_clarksons-platou-hellas-snp-weekly-bulletin-67_report-28-04-2023_ac6dcbdc87d9.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin28 April 2023\n\n# Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n|DL IVY|81,805|2012 JIANGSU EASTERN|MAN B. 6S60MC Tier II, BWTS Fitted-C8.1|SS 09/27 DD 02/ 26|RGN USD 17 M|TURKISH|\n|PALMA BULKER|75,843|2009ZOSEN TSUNEISHI|MAN B.",
       "keywords": [
         "handysize",
         "lng",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2307,
+      "token_count": 2413,
       "section_type": "linked_pdf",
       "children": []
     }

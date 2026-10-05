@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2017_08_04_libya_primes_the_pump__root",
+  "doc_id": "poten_tankers_no_date_poten_2017_08_04_libya_primes_the_pump",
+  "parent_id": null,
+  "title": "Libya Primes The Pump",
+  "section_path": [
+    "Libya Primes The Pump"
+  ],
+  "section_path_text": "Libya Primes The Pump",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Production surge helps the tanker market\nThe big turnaround in Libya started in the fall of last year and in October 2016, production reached 510,000 b/d, 82% above the June levels. Libyan production continued to increase through January 2017 (690,000 b/d) before it stagnated for a few months. However, in May and June, production (and export) growth accelerated again.",
+  "keywords": [
+    "suezmax",
+    "aframax",
+    "china",
+    "europe",
+    "singapore",
+    "crude_oil",
+    "libya",
+    "production",
+    "oil",
+    "million",
+    "barrels",
+    "destinations"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 738,
+  "source_path": "reports/poten/2017/poten_2017-08-04_libya-primes-the-pump.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2017_08_04_libya_primes_the_pump__s01_production_surge_helps_the_tanker_market",
+      "doc_id": "poten_tankers_no_date_poten_2017_08_04_libya_primes_the_pump",
+      "parent_id": "poten_tankers_no_date_poten_2017_08_04_libya_primes_the_pump__root",
+      "title": "Production surge helps the tanker market",
+      "section_path": [
+        "Production surge helps the tanker market"
+      ],
+      "section_path_text": "Production surge helps the tanker market",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The big turnaround in Libya started in the fall of last year and in October 2016, production reached 510,000 b/d, 82% above the June levels. Libyan production continued to increase through January 2017 (690,000 b/d) before it stagnated for a few months.",
+      "keywords": [
+        "suezmax",
+        "aframax",
+        "china",
+        "europe",
+        "singapore",
+        "crude_oil",
+        "libya",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 731,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

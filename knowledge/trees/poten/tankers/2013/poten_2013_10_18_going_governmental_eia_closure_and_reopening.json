@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2013_10_18_going_governmental_eia_closure_and_reopening__root",
+  "doc_id": "poten_tankers_no_date_poten_2013_10_18_going_governmental_eia_closure_and_reopening",
+  "parent_id": null,
+  "title": "Going GovernMental: EIA Closure and Reopening",
+  "section_path": [
+    "Going GovernMental: EIA Closure and Reopening"
+  ],
+  "section_path_text": "Going GovernMental: EIA Closure and Reopening",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Going GovernMental: EIA Closure and Reopening\nCollecting oil inventories and trade flow data at a government agency is particularly challenging - especially when your agency has shut down. Although the United States government is now back in business, the closure left the financial oil trading community without its weekly benchmark - the Department of Energy's inventory report. For these traders, correctly anticipating weekly movements in oil inventories can prove to be quite lucrative.",
+  "keywords": [
+    "crude_oil",
+    "products",
+    "data",
+    "oil",
+    "eia",
+    "are",
+    "import",
+    "companies",
+    "company",
+    "crude",
+    "level",
+    "volumes"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 529,
+  "source_path": "reports/poten/2013/poten_2013-10-18_going-governmental-eia-closure-and-reopening.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_10_18_going_governmental_eia_closure_and_reopening__s01_going_governmental_eia_closure_and_reopening",
+      "doc_id": "poten_tankers_no_date_poten_2013_10_18_going_governmental_eia_closure_and_reopening",
+      "parent_id": "poten_tankers_no_date_poten_2013_10_18_going_governmental_eia_closure_and_reopening__root",
+      "title": "Going GovernMental: EIA Closure and Reopening",
+      "section_path": [
+        "Going GovernMental: EIA Closure and Reopening"
+      ],
+      "section_path_text": "Going GovernMental: EIA Closure and Reopening",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Collecting oil inventories and trade flow data at a government agency is particularly challenging - especially when your agency has shut down. Although the United States government is now back in business, the closure left the financial oil trading community without its weekly benchmark - the Department of Energy's inventory report.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "data",
+        "oil",
+        "are",
+        "eia",
+        "import",
+        "companies"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 517,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

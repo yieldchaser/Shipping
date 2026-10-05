@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_05_06_imf_outlook_up_away_or_is_it__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_05_06_imf_outlook_up_away_or_is_it",
+  "parent_id": null,
+  "title": "IMF Outlook Up & Away Or Is It?",
+  "section_path": [
+    "IMF Outlook Up & Away Or Is It?"
+  ],
+  "section_path_text": "IMF Outlook Up & Away Or Is It?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "With one major exception, crude oil closely follows economic activity. The International Monetary Fund (IMF) has recently published its World Economic Outlook. The IMF has looked at the world around us and sees continued economic growth.",
+  "keywords": [
+    "china",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "gas",
+    "economic",
+    "oil",
+    "growth",
+    "imf",
+    "consumption",
+    "million"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 805,
+  "source_path": "reports/poten/2005/poten_2005-05-06_imf-outlook-up-away-or-is-it.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_05_06_imf_outlook_up_away_or_is_it__s01_or_is_it",
+      "doc_id": "poten_tankers_no_date_poten_2005_05_06_imf_outlook_up_away_or_is_it",
+      "parent_id": "poten_tankers_no_date_poten_2005_05_06_imf_outlook_up_away_or_is_it__root",
+      "title": "Or Is It?",
+      "section_path": [
+        "Or Is It?"
+      ],
+      "section_path_text": "Or Is It?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "With one major exception, crude oil closely follows economic activity. The International Monetary Fund (IMF) has recently published its World Economic Outlook.",
+      "keywords": [
+        "crude_oil",
+        "economic",
+        "imf",
+        "world",
+        "activity.",
+        "around",
+        "cargoes.",
+        "closely"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 50,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_05_06_imf_outlook_up_away_or_is_it__s02_u_s_5_05",
+      "doc_id": "poten_tankers_no_date_poten_2005_05_06_imf_outlook_up_away_or_is_it",
+      "parent_id": "poten_tankers_no_date_poten_2005_05_06_imf_outlook_up_away_or_is_it__root",
+      "title": "U.S. 5/05",
+      "section_path": [
+        "U.S. 5/05"
+      ],
+      "section_path_text": "U.S. 5/05",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "9/04 Europe 5/05 Europe 9/04 The previous chart shows actual economic growth for 2003 and 2004. The two projections for economic growth in 2005 and 2006 compare the most current issue of the World Economic Outlook with the September 2004 issue.",
+      "keywords": [
+        "china",
+        "europe",
+        "india",
+        "crude_oil",
+        "products",
+        "gas",
+        "economic",
+        "growth"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 236,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_05_06_imf_outlook_up_away_or_is_it__s03_china_5_05",
+      "doc_id": "poten_tankers_no_date_poten_2005_05_06_imf_outlook_up_away_or_is_it",
+      "parent_id": "poten_tankers_no_date_poten_2005_05_06_imf_outlook_up_away_or_is_it__root",
+      "title": "China 5/05",
+      "section_path": [
+        "China 5/05"
+      ],
+      "section_path_text": "China 5/05",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "China 9/04 India 5/05 India 9/04 According to our regression model, continued growth at 8.5% per year in economic activity will increase China's oil consumption by 3 million bpd by 2010. India is projected to have economic growth of 6.7% in 2005 and 6.4% in 2006.",
+      "keywords": [
+        "china",
+        "india",
+        "crude_oil",
+        "products",
+        "gas",
+        "oil",
+        "economic",
+        "million"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 501,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

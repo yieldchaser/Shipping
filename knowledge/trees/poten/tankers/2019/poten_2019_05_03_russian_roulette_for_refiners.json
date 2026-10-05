@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2019_05_03_russian_roulette_for_refiners__root",
+  "doc_id": "poten_tankers_no_date_poten_2019_05_03_russian_roulette_for_refiners",
+  "parent_id": null,
+  "title": "Russian Roulette for Refiners",
+  "section_path": [
+    "Russian Roulette for Refiners"
+  ],
+  "section_path_text": "Russian Roulette for Refiners",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Contaminated Ural crudes disrupt Russian exports\nLast week, reports surfaced that Russian Urals crude flowing through the Druzhba pipeline was contaminated with organic chloride. Refiners in Germany, Poland, Belarus, Hungary, the Czech Republic and Slovakia all stopped accepting supplies of Russian Urals crude. Official numbers have not been released, but analysts estimate that at least 35 million barrels of oil have been contaminated.",
+  "keywords": [
+    "aframax",
+    "atlantic",
+    "europe",
+    "crude_oil",
+    "crude",
+    "oil",
+    "are",
+    "russian",
+    "urals",
+    "ust-luga",
+    "can",
+    "not"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 891,
+  "source_path": "reports/poten/2019/poten_2019-05-03_russian-roulette-for-refiners.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_05_03_russian_roulette_for_refiners__s01_contaminated_ural_crudes_disrupt_russian_exports",
+      "doc_id": "poten_tankers_no_date_poten_2019_05_03_russian_roulette_for_refiners",
+      "parent_id": "poten_tankers_no_date_poten_2019_05_03_russian_roulette_for_refiners__root",
+      "title": "Contaminated Ural crudes disrupt Russian exports",
+      "section_path": [
+        "Contaminated Ural crudes disrupt Russian exports"
+      ],
+      "section_path_text": "Contaminated Ural crudes disrupt Russian exports",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Last week, reports surfaced that Russian Urals crude flowing through the Druzhba pipeline was contaminated with organic chloride. Refiners in Germany, Poland, Belarus, Hungary, the Czech Republic and Slovakia all stopped accepting supplies of Russian Urals crude.",
+      "keywords": [
+        "aframax",
+        "atlantic",
+        "europe",
+        "crude_oil",
+        "crude",
+        "oil",
+        "are",
+        "urals"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 880,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

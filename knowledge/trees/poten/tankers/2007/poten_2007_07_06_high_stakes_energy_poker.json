@@ -1,0 +1,202 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_07_06_high_stakes_energy_poker__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_07_06_high_stakes_energy_poker",
+  "parent_id": null,
+  "title": "High Stakes Energy Poker",
+  "section_path": [
+    "High Stakes Energy Poker"
+  ],
+  "section_path_text": "High Stakes Energy Poker",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "High Stakes Energy Poker\nPosturing and jockeying recently by supply-side energy market players created what some might construe as a high stakes game of poker. The US Government's cards propose a massive boost in ethanol output. US refiners' cards are their expansion plans for existing plants.",
+  "keywords": [
+    "brazil",
+    "grain",
+    "crude_oil",
+    "are",
+    "ethanol",
+    "refiners",
+    "capacity",
+    "energy",
+    "oil",
+    "considered",
+    "game",
+    "but"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 974,
+  "source_path": "reports/poten/2007/poten_2007-07-06_high-stakes-energy-poker.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_07_06_high_stakes_energy_poker__s01_high_stakes_energy_poker",
+      "doc_id": "poten_tankers_no_date_poten_2007_07_06_high_stakes_energy_poker",
+      "parent_id": "poten_tankers_no_date_poten_2007_07_06_high_stakes_energy_poker__root",
+      "title": "High Stakes Energy Poker",
+      "section_path": [
+        "High Stakes Energy Poker"
+      ],
+      "section_path_text": "High Stakes Energy Poker",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Posturing and jockeying recently by supply-side energy market players created what some might construe as a high stakes game of poker. The US Government's cards propose a massive boost in ethanol output.",
+      "keywords": [
+        "crude_oil",
+        "game",
+        "are",
+        "cards",
+        "ethanol",
+        "expansion",
+        "plans",
+        "players"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 143,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_07_06_high_stakes_energy_poker__s02_mandated_corn_based",
+      "doc_id": "poten_tankers_no_date_poten_2007_07_06_high_stakes_energy_poker",
+      "parent_id": "poten_tankers_no_date_poten_2007_07_06_high_stakes_energy_poker__root",
+      "title": "Mandated Corn-based",
+      "section_path": [
+        "Mandated Corn-based"
+      ],
+      "section_path_text": "Mandated Corn-based",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Legislation is afoot to require 2.4 million bbl/day of US ethanol use by 2022 - of which about one million bbl/day are mandated to come from corn-based production and the rest from \"cellulosic\" sources. While the process to turn corn into ethanol has been practiced for centuries, the process for teasing it from cellulosic sources is still merely a laboratory curiosity.",
+      "keywords": [
+        "grain",
+        "ethanol",
+        "bbl/day",
+        "fuel",
+        "legislation",
+        "million",
+        "process",
+        "cellulosic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 240,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_07_06_high_stakes_energy_poker__s03_refining_their_game_plan",
+      "doc_id": "poten_tankers_no_date_poten_2007_07_06_high_stakes_energy_poker",
+      "parent_id": "poten_tankers_no_date_poten_2007_07_06_high_stakes_energy_poker__root",
+      "title": "Refining Their Game Plan",
+      "section_path": [
+        "Refining Their Game Plan"
+      ],
+      "section_path_text": "Refining Their Game Plan",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "As the conservative tally of expansion plans below shows, about half of the capacity refiners once planned is now being re-evaluated.",
+      "keywords": [
+        "being",
+        "below",
+        "capacity",
+        "conservative",
+        "expansion",
+        "half",
+        "now",
+        "once"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 27,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_07_06_high_stakes_energy_poker__s04_chart_us_refining_capacity_additions",
+      "doc_id": "poten_tankers_no_date_poten_2007_07_06_high_stakes_energy_poker",
+      "parent_id": "poten_tankers_no_date_poten_2007_07_06_high_stakes_energy_poker__root",
+      "title": "Chart: US Refining Capacity Additions",
+      "section_path": [
+        "Chart: US Refining Capacity Additions"
+      ],
+      "section_path_text": "Chart: US Refining Capacity Additions",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Year Status Company Location State kbpd 2009 In-progress Coffeyville Coffeyville KA 20 2010-11 In-progress Marathon Garyville LA 180 2010-11 Under review Motiva Port Arthur TX 325 525 2010 Delayed Big West Oil Bakersfield CA 55 Considered ChevronTexaco Pascagoula MS 200 Considered Astra/Petrobras Pasadena TX 100 Considered Holly Artesia NM 17 Considered Valero St Charles LA 50 Considered Valero Port Arthur TX 125 547 Potential new capacity additions 1,072 Refiners remember, but don't usually learn. They remember both their long periods of operating with excess, inefficient capacity and the negative refining margins this overcapacity brought.",
+      "keywords": [
+        "brazil",
+        "crude_oil",
+        "considered",
+        "refiners",
+        "are",
+        "capacity",
+        "remember",
+        "arthur"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 228,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_07_06_high_stakes_energy_poker__s05_opec_s_mixed_signals",
+      "doc_id": "poten_tankers_no_date_poten_2007_07_06_high_stakes_energy_poker",
+      "parent_id": "poten_tankers_no_date_poten_2007_07_06_high_stakes_energy_poker__root",
+      "title": "OPEC's Mixed Signals",
+      "section_path": [
+        "OPEC's Mixed Signals"
+      ],
+      "section_path_text": "OPEC's Mixed Signals",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "While OPEC contends that fossil fuels will remain the dominant energy source for the foreseeable future, any actions to reduce oil dependency seems to provoke this organization's concern. As the world attempts to diversify towards alternative energy sources, the in- roads of alternatives into oil's share of the energy mix seem inevitable - but slow to happen.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "energy",
+        "alternative",
+        "alternatives",
+        "cost",
+        "opec",
+        "price"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 131,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_07_06_high_stakes_energy_poker__s06_sailing_through",
+      "doc_id": "poten_tankers_no_date_poten_2007_07_06_high_stakes_energy_poker",
+      "parent_id": "poten_tankers_no_date_poten_2007_07_06_high_stakes_energy_poker__root",
+      "title": "Sailing Through",
+      "section_path": [
+        "Sailing Through"
+      ],
+      "section_path_text": "Sailing Through",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Clearly, the stakes are high for planning new production capacity - in either the upstream or downstream energy sectors. For tanker owners, the stakes are high too in planning future fleets.",
+      "keywords": [
+        "brazil",
+        "crude_oil",
+        "planning",
+        "are",
+        "future",
+        "high",
+        "not",
+        "petroleum"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 167,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -22,12 +22,12 @@
     "usd",
     "sold",
     "value",
-    "dwt"
+    "noo"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1257,
-  "source_path": "corpus/02-hellenic/vessel_valuations/2025/2025-11-11_weekly-vessel-valuations-report-november-11-2025.html",
+  "token_count": 2107,
+  "source_path": "reports/hellenic/vessel_valuations/2025/2025-11-11_weekly-vessel-valuations-report-november-11-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-november-11-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-11-11_weekly-vessel-valuations-report-november-11-2025_img1_111120259_c8de2e9a01d1.jpeg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2025/assets/2025-11-11_weekly-vessel-valuations-report-november-11-2025_img1_111120259_c8de2e9a01d1.jpeg\n\nLinked image asset: 2025-11-11_weekly-vessel-valuations-report-november-11-2025_img1_111120259_c8de2e9a01d1.jpeg\n\nImage metadata: JPEG 600x278 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\n© VessetsValre ADM\n11 November 2025 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra mi MR Cape Pmax ‘Supra Handy poet Prax Handy Fmax\n6 10. 0.0% 10.6% 10.1% us Om 10.1% Om 10.3% Om 0.0% Om 7\"\n320k 160k Sk Sk SOK 180k 8m 62k 38 7000 4250 1780 noo\ns 10.1% 40.3% 405% 40.1% 0.0% OM 10.1% 105% 0.4% OTK 02% 02% = 30%\n520k 160k nNOk 78k SOK 180K ame 60k 3a 7000 4250 780 noo\n= 10.1% 108% «103% «0.03% ON 40.0% 40.8% LI.",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2025/assets/2025-11-11_weekly-vessel-valuations-report-november-11-2025_img1_111120259_c8de2e9a01d1.jpeg\n\nLinked image asset: 2025-11-11_weekly-vessel-valuations-report-november-11-2025_img1_111120259_c8de2e9a01d1.jpeg\n\nImage metadata: JPEG 600x278 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\n[structured table]\n| © | | | | | | | ADM | | | | | | |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 11 November | 2025 | | | | VV | Mini Matrix | - | Weekly | Change | | | | |\n| | | | Tankers | | | | | Bulkers | | | Containers | | |\n| Year | vice | Suez | Afra | | MR | Cape | Pmax | ‘Supra | Handy | | | Handy | Fmax |\n| 6 | 10. | 0.0% | 10.6% | 10.1% | us | Om | 10.1% | | 10.3% | Om | 0.0% | Om | |\n| | 320k | 160k | Sk | Sk | SOK | 180k | 8m | 62k | 38 | 7000 | 4250 | 1780 | noo |\n| | 10.1% | 40.3% | 405% | 40.1% | 0.0% | OM | 10.1% | | | | 02% | 02% | = |\n| s | | | | | | | | | | | | | |\n| | 520k | 160k | nNOk | 78k | | 180K | ame | 60k | 3a | 7000 | 4250 | 780 | noo |\n| | 10.1% | 108% | | | «0.03% | | | 40.8% | | 02% | 405% | 02% | 35% |\n| = | | | | | | | | | | | | | |\n| | 320k | 160k | nOk | Sk | | 180K | 80k | 60k | | 7000 | 4",
       "keywords": [
         "capesize",
         "supramax",
@@ -77,12 +77,12 @@
         "container",
         "noo",
         "sok",
-        "nok",
-        "ssk"
+        "ssk",
+        "nok"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 643,
+      "token_count": 1493,
       "section_type": "linked_image_asset",
       "children": []
     }

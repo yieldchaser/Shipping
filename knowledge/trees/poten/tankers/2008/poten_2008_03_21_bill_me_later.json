@@ -1,0 +1,169 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_03_21_bill_me_later__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_03_21_bill_me_later",
+  "parent_id": null,
+  "title": "Bill Me Later",
+  "section_path": [
+    "Bill Me Later"
+  ],
+  "section_path_text": "Bill Me Later",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Bill Me Later\nThe past couple of weeks have been quite tumultuous in the United States financial markets. The wild ride was capped with the fire sale of a cornerstone American investment bank. Bear Stearns was salvaged with a $2 per share offer from JP Morgan giving the bank a total value of less than the current price for two modern VLCCs.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "lng",
+    "lpg",
+    "container",
+    "grain",
+    "gas",
+    "orderbook",
+    "bear",
+    "investment"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 576,
+  "source_path": "reports/poten/2008/poten_2008-03-21_bill-me-later.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_03_21_bill_me_later__s01_bill_me_later",
+      "doc_id": "poten_tankers_no_date_poten_2008_03_21_bill_me_later",
+      "parent_id": "poten_tankers_no_date_poten_2008_03_21_bill_me_later__root",
+      "title": "Bill Me Later",
+      "section_path": [
+        "Bill Me Later"
+      ],
+      "section_path_text": "Bill Me Later",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The past couple of weeks have been quite tumultuous in the United States financial markets. The wild ride was capped with the fire sale of a cornerstone American investment bank.",
+      "keywords": [
+        "vlcc",
+        "grain",
+        "american",
+        "bear",
+        "financial",
+        "past",
+        "price",
+        "share"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 143,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_03_21_bill_me_later__s02_s_p_500",
+      "doc_id": "poten_tankers_no_date_poten_2008_03_21_bill_me_later",
+      "parent_id": "poten_tankers_no_date_poten_2008_03_21_bill_me_later__root",
+      "title": "S&P 500",
+      "section_path": [
+        "S&P 500"
+      ],
+      "section_path_text": "S&P 500",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "bear",
+        "bsc",
+        "stearns"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_03_21_bill_me_later__s03_can_it_happen_to_tankers",
+      "doc_id": "poten_tankers_no_date_poten_2008_03_21_bill_me_later",
+      "parent_id": "poten_tankers_no_date_poten_2008_03_21_bill_me_later__root",
+      "title": "Can It Happen To Tankers?",
+      "section_path": [
+        "Can It Happen To Tankers?"
+      ],
+      "section_path_text": "Can It Happen To Tankers?",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The question is whether or not the tanker market could experience a similar liquidity crisis. The table below shows the size of the orderbook in the large tanker sectors and the approximate values at current price assessments.",
+      "keywords": [
+        "delivery",
+        "orderbook",
+        "approximate",
+        "assessments.",
+        "banks",
+        "based",
+        "below",
+        "beyond"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 101,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_03_21_bill_me_later__s04_orderbook_count",
+      "doc_id": "poten_tankers_no_date_poten_2008_03_21_bill_me_later",
+      "parent_id": "poten_tankers_no_date_poten_2008_03_21_bill_me_later__root",
+      "title": "Orderbook Count",
+      "section_path": [
+        "Orderbook Count"
+      ],
+      "section_path_text": "Orderbook Count",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Price Assumption Total Orderbook Value 2009 2010 2011+ ($ Million) ($ Billions) VLCC 60 58 40 $150 $29.4 Suezmax 54 41 21 $92 $12.7 Aframax 105 83 30 $76 $21.5 Panamax 46 25 19 $67 $9.2 MR 228 171 97 $52 $37.9 Total 493 378 207 $110.8 The above figure of $110 billion excludes the financing needed for chemical carriers, dry bulk carriers, container ships, LNG and LPG tankers and the vast orderbook for the offshore sector. With a conservative 70%/30% debt to debt to equity financing structure, the implication is that tanker owners will need to tap into the markets for nearly $80 billion.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "lng",
+        "lpg",
+        "container",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 178,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_03_21_bill_me_later__s05_cash_or_credit",
+      "doc_id": "poten_tankers_no_date_poten_2008_03_21_bill_me_later",
+      "parent_id": "poten_tankers_no_date_poten_2008_03_21_bill_me_later__root",
+      "title": "Cash or Credit?",
+      "section_path": [
+        "Cash or Credit?"
+      ],
+      "section_path_text": "Cash or Credit?",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The tie between shipping and the investment community, and Wall Street in particular, has been growing stronger for the past several years. The coming months and years will be a test of this bond.",
+      "keywords": [
+        "companies",
+        "investment",
+        "liquidity",
+        "and/or",
+        "banking",
+        "banks",
+        "bear",
+        "between"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 121,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

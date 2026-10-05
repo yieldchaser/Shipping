@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2019_01_04_top_dirty_charterers__root",
+  "doc_id": "poten_tankers_no_date_poten_2019_01_04_top_dirty_charterers",
+  "parent_id": null,
+  "title": "Top Dirty Charterers",
+  "section_path": [
+    "Top Dirty Charterers"
+  ],
+  "section_path_text": "Top Dirty Charterers",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "It's Lonely At The Top\nIn the latest ranking of the largest dirty spot charterers we observe some small changes. Not at the top, where Unipec strengthened its position. Its share grew from 13.8% in 2017 to 14.7% last year.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "brazil",
+    "crude_oil",
+    "top",
+    "total",
+    "charterers",
+    "fixtures",
+    "reported",
+    "exxonmobil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1130,
+  "source_path": "reports/poten/2019/poten_2019-01-04_top-dirty-charterers.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_01_04_top_dirty_charterers__s01_it_s_lonely_at_the_top",
+      "doc_id": "poten_tankers_no_date_poten_2019_01_04_top_dirty_charterers",
+      "parent_id": "poten_tankers_no_date_poten_2019_01_04_top_dirty_charterers__root",
+      "title": "It's Lonely At The Top",
+      "section_path": [
+        "It's Lonely At The Top"
+      ],
+      "section_path_text": "It's Lonely At The Top",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In the latest ranking of the largest dirty spot charterers we observe some small changes. Not at the top, where Unipec strengthened its position.",
+      "keywords": [
+        "china",
+        "brazil",
+        "crude_oil",
+        "top",
+        "total",
+        "ioc",
+        "vitol",
+        "dirty"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 656,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_01_04_top_dirty_charterers__s02_chart_top_10_vlcc_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2019_01_04_top_dirty_charterers",
+      "parent_id": "poten_tankers_no_date_poten_2019_01_04_top_dirty_charterers__root",
+      "title": "Chart: Top 10 VLCC Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 VLCC Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 VLCC Spot Charterers",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "In the VLCC segment, Unipec continued to grow. In 2018, we counted 703 reported fixtures for the Chinese charterer, more than the 2 nd through 8 th largest VLCC charterers combined.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "crude_oil",
+        "charterers",
+        "continued",
+        "fixtures",
+        "moved",
+        "reported"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 141,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_01_04_top_dirty_charterers__s03_chart_top_10_suezmax_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2019_01_04_top_dirty_charterers",
+      "parent_id": "poten_tankers_no_date_poten_2019_01_04_top_dirty_charterers__root",
+      "title": "Chart: Top 10 Suezmax Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 Suezmax Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 Suezmax Spot Charterers",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "In 2018, we recorded 181 Suezmax fixtures for Repsol, one more than Chevron and five more than Shell. This was enough for Repsol to leapfrog both companies and land in first place.",
+      "keywords": [
+        "suezmax",
+        "top",
+        "eni",
+        "fixtures",
+        "repsol",
+        "unipec",
+        "are",
+        "both"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 159,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_01_04_top_dirty_charterers__s04_chart_top_10_aframax_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2019_01_04_top_dirty_charterers",
+      "parent_id": "poten_tankers_no_date_poten_2019_01_04_top_dirty_charterers__root",
+      "title": "Chart: Top 10 Aframax Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 Aframax Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 Aframax Spot Charterers",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Vitol remained the largest Aframax charterer, while fellow traders Glencore (9 th ) and Trafigura (10 th ) lost some ground compared to 2017. The Western supermajors (Shell, BP, Total, Chevron and ExxonMobil) also maintained a strong presence in the Aframax segment.",
+      "keywords": [
+        "aframax",
+        "reported",
+        "above",
+        "activity.",
+        "assembled",
+        "charterer",
+        "chevron",
+        "compared"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 132,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

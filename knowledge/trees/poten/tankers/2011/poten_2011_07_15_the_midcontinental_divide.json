@@ -1,0 +1,382 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide",
+  "parent_id": null,
+  "title": "The Mid‐Continental Divide",
+  "section_path": [
+    "The Mid‐Continental Divide"
+  ],
+  "section_path_text": "The Mid‐Continental Divide",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Mid‐Continental Divide\nA recent pipeline spill into Montana's Yellowstone River has added fuel to the fire surrounding the TransCanada Keystone pipeline expansion. Opponents to the project have been vocal on both sides of the American‐Canadian border for various reasons, environmental concerns chief among them. Record high crude oil inventories at Cushing, Oklahoma and slack demand from American consumers, however, have called into question the real need for the pipeline expansion and the underlying motives of those angling for its completion, especially on the American side.",
+  "keywords": [
+    "brazil",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "steel",
+    "oil",
+    "crude",
+    "cushing",
+    "wti",
+    "price",
+    "american",
+    "canadian"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1059,
+  "source_path": "reports/poten/2011/poten_2011-07-15_the-midcontinental-divide.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide__s01_the_mid_continental_divide",
+      "doc_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide",
+      "parent_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide__root",
+      "title": "The Mid‐Continental Divide",
+      "section_path": [
+        "The Mid‐Continental Divide"
+      ],
+      "section_path_text": "The Mid‐Continental Divide",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "A recent pipeline spill into Montana's Yellowstone River has added fuel to the fire surrounding the TransCanada Keystone pipeline expansion. Opponents to the project have been vocal on both sides of the American‐Canadian border for various reasons, environmental concerns chief among them.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "american",
+        "pipeline",
+        "crude",
+        "are",
+        "but",
+        "high"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 180,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide__s02_legend",
+      "doc_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide",
+      "parent_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide__root",
+      "title": "LEGEND",
+      "section_path": [
+        "LEGEND"
+      ],
+      "section_path_text": "LEGEND",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Phase 1: Hardisty to Steele City, Wood River & Patoka",
+      "keywords": [
+        "steel",
+        "city",
+        "hardisty",
+        "patoka",
+        "phase",
+        "river",
+        "steele",
+        "wood"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide__s03_hardisty",
+      "doc_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide",
+      "parent_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide__root",
+      "title": "Hardisty",
+      "section_path": [
+        "Hardisty"
+      ],
+      "section_path_text": "Hardisty",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Phase 2: Steele City to Cushing",
+      "keywords": [
+        "steel",
+        "city",
+        "cushing",
+        "phase",
+        "steele"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide__s04_calgary",
+      "doc_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide",
+      "parent_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide__root",
+      "title": "Calgary",
+      "section_path": [
+        "Calgary"
+      ],
+      "section_path_text": "Calgary",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Regina Winnipeg Phase 3: Cushing to Houston & Port Arthur",
+      "keywords": [
+        "arthur",
+        "cushing",
+        "houston",
+        "phase",
+        "port",
+        "regina",
+        "winnipeg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 14,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide__s05_helena",
+      "doc_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide",
+      "parent_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide__root",
+      "title": "Helena",
+      "section_path": [
+        "Helena"
+      ],
+      "section_path_text": "Helena",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Baker Phase 4: Hardisty to Steele City",
+      "keywords": [
+        "steel",
+        "baker",
+        "city",
+        "hardisty",
+        "phase",
+        "steele"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide__s06_canadian_crude_oil",
+      "doc_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide",
+      "parent_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide__root",
+      "title": "Canadian crude oil",
+      "section_path": [
+        "Canadian crude oil"
+      ],
+      "section_path_text": "Canadian crude oil",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "",
+      "keywords": [
+        "reserves",
+        "u.s.a."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide__s07_american_crude_oil",
+      "doc_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide",
+      "parent_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide__root",
+      "title": "American crude oil",
+      "section_path": [
+        "American crude oil"
+      ],
+      "section_path_text": "American crude oil",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "",
+      "keywords": [
+        "reserves"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide__s08_patoka",
+      "doc_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide",
+      "parent_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide__root",
+      "title": "Patoka",
+      "section_path": [
+        "Patoka"
+      ],
+      "section_path_text": "Patoka",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "",
+      "keywords": [
+        "river",
+        "wood"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide__s09_keystone_hardisty",
+      "doc_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide",
+      "parent_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide__root",
+      "title": "Keystone Hardisty",
+      "section_path": [
+        "Keystone Hardisty"
+      ],
+      "section_path_text": "Keystone Hardisty",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "",
+      "keywords": [
+        "terminals"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide__s10_oklahoma",
+      "doc_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide",
+      "parent_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide__root",
+      "title": "Oklahoma",
+      "section_path": [
+        "Oklahoma"
+      ],
+      "section_path_text": "Oklahoma",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "",
+      "keywords": [
+        "city",
+        "cushing"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide__s11_houston",
+      "doc_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide",
+      "parent_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide__root",
+      "title": "Houston",
+      "section_path": [
+        "Houston"
+      ],
+      "section_path_text": "Houston",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "In June 2010 TransCanada commenced commercial operation of the first phase of the Keystone Pipeline System, which brings crude oil directly from Hardisty, Alberta to market hubs in the U.S. Phase II, a 36‐inch pipeline connecting Steele City, Nebraska to the storage and distribution facilities at Cushing, Oklahoma came online in February of this year.",
+      "keywords": [
+        "us_gulf",
+        "crude_oil",
+        "steel",
+        "approval",
+        "canadian",
+        "oil",
+        "phase",
+        "pipeline"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 146,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide__s12_canadian_bacon_barrel_politics",
+      "doc_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide",
+      "parent_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide__root",
+      "title": "Canadian Bacon Barrel Politics",
+      "section_path": [
+        "Canadian Bacon Barrel Politics"
+      ],
+      "section_path_text": "Canadian Bacon Barrel Politics",
+      "level": 1,
+      "ordinal": 12,
+      "summary": "Enhancement of American energy security has been cited as the paramount reason for expanding Canadian crude oil export capacity to the United States. Canada is already the single largest supplier of imported crude to the United States and the country's oil sands contain the world's second largest oil reserves, after Saudi Arabia.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "crude",
+        "barrels",
+        "stocks",
+        "cushing",
+        "million",
+        "price"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 230,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide__s13_end_of_month",
+      "doc_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide",
+      "parent_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide__root",
+      "title": "End of month",
+      "section_path": [
+        "End of month"
+      ],
+      "section_path_text": "End of month",
+      "level": 1,
+      "ordinal": 13,
+      "summary": "",
+      "keywords": [
+        "april",
+        "stocks"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide__s14_bbls_m",
+      "doc_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide",
+      "parent_id": "poten_tankers_no_date_poten_2011_07_15_the_midcontinental_divide__root",
+      "title": "(bbls, m)",
+      "section_path": [
+        "(bbls, m)"
+      ],
+      "section_path_text": "(bbls, m)",
+      "level": 1,
+      "ordinal": 14,
+      "summary": "End Stocks at Cushing, OK Brent Price WTI Price Due to its low sulfur content and lighter characteristics, WTI has historically traded at a slight premium to Brent. In the Poten opinion Light Sweet Dire Divergence , the reversal in pricing structure among WTI and Brent was addressed as WTI's discount to Brent soared to $12 per barrel.",
+      "keywords": [
+        "brazil",
+        "us_gulf",
+        "crude_oil",
+        "wti",
+        "price",
+        "brent",
+        "but",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 368,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

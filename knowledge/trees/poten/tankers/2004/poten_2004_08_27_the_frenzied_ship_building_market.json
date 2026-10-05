@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2004_08_27_the_frenzied_ship_building_market__root",
+  "doc_id": "poten_tankers_no_date_poten_2004_08_27_the_frenzied_ship_building_market",
+  "parent_id": null,
+  "title": "The Frenzied Ship Building Market",
+  "section_path": [
+    "The Frenzied Ship Building Market"
+  ],
+  "section_path_text": "The Frenzied Ship Building Market",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Frenzied Ship Building Market\nEven as the lull of August manifests itself in the empty desks of colleagues on vacation and voice mail messages in place of a real voice on the phone, vessel prices for all ship sizes continue to rise. Contributing factors include high steel prices and lack of available berth space in shipyards as well as owners wanting to purchase vessels to take advantage of high oil demand and a rise in OPEC production. Newbuilding prices on VLCCs are up by $30 million from last year; $14 million for Suezmaxes; $15 million for Aframaxes and $7 million for Panamax vessels, as shown in the graph below.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "japan",
+    "crude_oil",
+    "steel",
+    "prices",
+    "demand",
+    "million",
+    "oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 641,
+  "source_path": "reports/poten/2004/poten_2004-08-27_the-frenzied-ship-building-market.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_08_27_the_frenzied_ship_building_market__s01_the_frenzied_ship_building_market",
+      "doc_id": "poten_tankers_no_date_poten_2004_08_27_the_frenzied_ship_building_market",
+      "parent_id": "poten_tankers_no_date_poten_2004_08_27_the_frenzied_ship_building_market__root",
+      "title": "The Frenzied Ship Building Market",
+      "section_path": [
+        "The Frenzied Ship Building Market"
+      ],
+      "section_path_text": "The Frenzied Ship Building Market",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Even as the lull of August manifests itself in the empty desks of colleagues on vacation and voice mail messages in place of a real voice on the phone, vessel prices for all ship sizes continue to rise. Contributing factors include high steel prices and lack of available berth space in shipyards as well as owners wanting to purchase vessels to take advantage of high oil demand and a rise in OPEC production.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "crude_oil",
+        "steel",
+        "million",
+        "prices"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 129,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_08_27_the_frenzied_ship_building_market__s02_millions_of",
+      "doc_id": "poten_tankers_no_date_poten_2004_08_27_the_frenzied_ship_building_market",
+      "parent_id": "poten_tankers_no_date_poten_2004_08_27_the_frenzied_ship_building_market__root",
+      "title": "Millions of $",
+      "section_path": [
+        "Millions of $"
+      ],
+      "section_path_text": "Millions of $",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Steel Prices Out of Control With steel in demand for China's growth and yards soaking up steel to complete existing orders, new orders are being priced out of an average market range. Steel prices have reached $600 per ton, as seen in the graph below, double what they were two years ago.",
+      "keywords": [
+        "china",
+        "japan",
+        "steel",
+        "orders",
+        "out",
+        "per",
+        "prices",
+        "ago."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 73,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_08_27_the_frenzied_ship_building_market__s03_us_ton",
+      "doc_id": "poten_tankers_no_date_poten_2004_08_27_the_frenzied_ship_building_market",
+      "parent_id": "poten_tankers_no_date_poten_2004_08_27_the_frenzied_ship_building_market__root",
+      "title": "US$/ton",
+      "section_path": [
+        "US$/ton"
+      ],
+      "section_path_text": "US$/ton",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The litany of reasons for high steel prices include the favorite excuse of China, but also steel consumed in the reconstruction of Iraq and a shortage of scrap steel to make rebar, reinforcing steel rods, used in construction. The use of rebar made from new steel rather than scrap becomes another demand factor pushing up steel prices.",
+      "keywords": [
+        "china",
+        "steel",
+        "prices",
+        "shipbuilders",
+        "another",
+        "cost",
+        "explain",
+        "high"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 185,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_08_27_the_frenzied_ship_building_market__s04_strong_oil_demand",
+      "doc_id": "poten_tankers_no_date_poten_2004_08_27_the_frenzied_ship_building_market",
+      "parent_id": "poten_tankers_no_date_poten_2004_08_27_the_frenzied_ship_building_market__root",
+      "title": "Strong Oil Demand",
+      "section_path": [
+        "Strong Oil Demand"
+      ],
+      "section_path_text": "Strong Oil Demand",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Orders have increased on OPEC's rise in oil production and high worldwide oil demand. The International Energy Agency predicts that demand for oil will reach 82.5 million barrels per day in the 4th quarter of 2004, the highest growth rate in 10 years.",
+      "keywords": [
+        "crude_oil",
+        "steel",
+        "oil",
+        "demand",
+        "million",
+        "agency",
+        "barrels",
+        "bpd."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 233,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -111,7 +111,7 @@ numeric_observations:
     index climbed 6.93 % to
   unit: pct
   values:
-  - 6930.0
+  - 6.93
 - section: Market Report Content
   section_type: null
   source_line: 2,407 points-while the Supramax index nudged up to 1,786 points, cementing
@@ -216,7 +216,7 @@ numeric_observations:
   source_line: 'YoY: +51.66%'
   unit: pct
   values:
-  - 51660.0
+  - 51.66
 - section: Market Report Content
   section_type: null
   source_line: 'WoW: +0.28%'
@@ -228,19 +228,19 @@ numeric_observations:
   source_line: 'YoY: +59.47%'
   unit: pct
   values:
-  - 59470.0
+  - 59.47
 - section: Market Report Content
   section_type: null
   source_line: 'WoW: +6.93%'
   unit: pct
   values:
-  - 6930.0
+  - 6.93
 - section: Market Report Content
   section_type: null
   source_line: 'YoY: +31.39%'
   unit: pct
   values:
-  - 31390.0
+  - 31.39
 - section: Market Report Content
   section_type: null
   source_line: 'WoW: +1.08%'
@@ -252,7 +252,7 @@ numeric_observations:
   source_line: 'YoY: +20.76%'
   unit: pct
   values:
-  - 20760.0
+  - 20.76
 - section: Market Report Content
   section_type: null
   source_line: 'WoW: +2.33%'
@@ -264,7 +264,7 @@ numeric_observations:
   source_line: 'YoY: +20.21%'
   unit: pct
   values:
-  - 20210.0
+  - 20.21
 - section: Market Report Content
   section_type: null
   source_line: CAPESIZE 180,000 $76M $82M $71M $56M (E) $35M
@@ -306,7 +306,7 @@ numeric_observations:
   values:
   - 174092.0
   - 2006.0
-  - 25000.0
+  - 25.0
 - section: Market Report Content
   section_type: null
   source_line: PMAX 89,892 2013 / JAPAN 21.4 EACH CHINESE BUYER
@@ -314,7 +314,7 @@ numeric_observations:
   values:
   - 89892.0
   - 2013.0
-  - 21400.0
+  - 21.4
 - section: Market Report Content
   section_type: null
   source_line: BORA KMAX 81,682 2014 / CHINA 22.0 GREEK BUYER
@@ -322,7 +322,7 @@ numeric_observations:
   values:
   - 81682.0
   - 2014.0
-  - 22000.0
+  - 22.0
 - section: Market Report Content
   section_type: null
   source_line: KING LOONG PMAX 77,430 2006 / JAPAN 13.0 CHINESE BUYER
@@ -330,7 +330,7 @@ numeric_observations:
   values:
   - 77430.0
   - 2006.0
-  - 13000.0
+  - 13.0
 - section: Market Report Content
   section_type: null
   source_line: JSHT 297 UMAX 63,500 2026 / CHINA 39.0 UNDISCLOSED
@@ -339,7 +339,7 @@ numeric_observations:
   - 297.0
   - 63500.0
   - 2026.0
-  - 39000.0
+  - 39.0
 - section: Market Report Content
   section_type: null
   source_line: INDIGO BREEZE UMAX 60,430 2017 / JAPAN 30.0 UNDISCLOSED
@@ -347,7 +347,7 @@ numeric_observations:
   values:
   - 60430.0
   - 2017.0
-  - 30000.0
+  - 30.0
 - section: Market Report Content
   section_type: null
   source_line: DESERT SPRING SMAX 57,437 2012 / S. KOREA 17.9 GREEK BUYER
@@ -355,7 +355,7 @@ numeric_observations:
   values:
   - 57437.0
   - 2012.0
-  - 17900.0
+  - 17.9
 - section: Market Report Content
   section_type: null
   source_line: PLACID SEA SMAX 55,676
@@ -369,7 +369,7 @@ numeric_observations:
   values:
   - 55604.0
   - 2004.0
-  - 10000.0
+  - 10.0
 - section: Market Report Content
   section_type: null
   source_line: VELA SMAX 53,565 2007 / VIETNAM 10.0 CHINESE BUYER
@@ -377,7 +377,7 @@ numeric_observations:
   values:
   - 53565.0
   - 2007.0
-  - 10000.0
+  - 10.0
 - section: Market Report Content
   section_type: null
   source_line: IVS KESTREL HANDY 32,768 2014 / JAPAN 17.0 UNDISCLOSED
@@ -385,7 +385,7 @@ numeric_observations:
   values:
   - 32768.0
   - 2014.0
-  - 17000.0
+  - 17.0
 - section: Market Report Content
   section_type: null
   source_line: snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 4
@@ -460,7 +460,7 @@ numeric_observations:
   unit: pct
   values:
   - 5366.0
-  - 9530.0
+  - 9.53
 - section: Market Report Content
   section_type: null
   source_line: Yanbu since September 16. Before that disruption, the conduit had been
@@ -601,7 +601,7 @@ numeric_observations:
   source_line: 'WoW: +9.53%'
   unit: pct
   values:
-  - 9530.0
+  - 9.53
 - section: Market Report Content
   section_type: null
   source_line: 'YoY: +367.42%'
@@ -613,7 +613,7 @@ numeric_observations:
   source_line: 'WoW: +11.17%'
   unit: pct
   values:
-  - 11170.0
+  - 11.17
 - section: Market Report Content
   section_type: null
   source_line: 'YoY: +243.95%'
@@ -689,7 +689,7 @@ numeric_observations:
   values:
   - 164714.0
   - 2011.0
-  - 83000.0
+  - 83.0
 - section: Market Report Content
   section_type: null
   source_line: GRAFF SUEZ 150,678 2001 / JAPAN 45.0 GREEK BUYER
@@ -697,7 +697,7 @@ numeric_observations:
   values:
   - 150678.0
   - 2001.0
-  - 45000.0
+  - 45.0
 - section: Market Report Content
   section_type: null
   source_line: KOS LR2 115,026 2025 / CHINA 95.0 GREEK BUYER
@@ -706,7 +706,7 @@ numeric_observations:
   - 2.0
   - 115026.0
   - 2025.0
-  - 95000.0
+  - 95.0
 - section: Market Report Content
   section_type: null
   source_line: PS AMALFI LR2 108,958 2010 / CHINA 45.0 CHINESE BUYER
@@ -715,7 +715,7 @@ numeric_observations:
   - 2.0
   - 108958.0
   - 2010.0
-  - 45000.0
+  - 45.0
 - section: Market Report Content
   section_type: null
   source_line: VIENNA WOOD LR2 105,304 2010 / JAPAN 49.8 UNDISCLOSED
@@ -724,7 +724,7 @@ numeric_observations:
   - 2.0
   - 105304.0
   - 2010.0
-  - 49800.0
+  - 49.8
 - section: Market Report Content
   section_type: null
   source_line: ENDEAVOUR MR 49,997 2013 / S. KOREA 34.0 TURKISH BUYER
@@ -732,7 +732,7 @@ numeric_observations:
   values:
   - 49997.0
   - 2013.0
-  - 34000.0
+  - 34.0
 - section: Market Report Content
   section_type: null
   source_line: PUFFIN TWO SMALL 7,022 2009 / CHINA 4.5 MIDDLE EASTERN
@@ -820,7 +820,7 @@ numeric_observations:
   unit: pct
   values:
   - 2027.0
-  - 5100.0
+  - 5.1
 - section: Market Report Content
   section_type: null
   source_line: Cape of Good Hope diversions could reduce vessel demand by up to 10%
@@ -871,7 +871,7 @@ numeric_observations:
   values:
   - 1698.0
   - 2008.0
-  - 22000.0
+  - 22.0
 - section: Market Report Content
   section_type: null
   source_line: snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 9
@@ -1026,7 +1026,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/star_asia_28_09_2026_star_asia_shipbroking_weekly_market_report_week_39.md
+source_path: reports/broker_reports/2026/carriers/star_asia_28_09_2026_star_asia_shipbroking_weekly_market_report_week_39.md
 source_stem: star_asia_28_09_2026_star_asia_shipbroking_weekly_market_report_week_39
 source_url: https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-39-4/
 summary: 'Star Asia Shipbroking Weekly Market Report - WEEK 39

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2025_05_02_all_hands_on_deck__root",
+  "doc_id": "poten_tankers_no_date_poten_2025_05_02_all_hands_on_deck",
+  "parent_id": null,
+  "title": "All Hands On Deck!",
+  "section_path": [
+    "All Hands On Deck!"
+  ],
+  "section_path_text": "All Hands On Deck!",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The domestic maritime industry never received so much interest in the United States as in the last few months. It seems that a new piece of legislation is being introduced every week. Last week, in our Opinion piece about the USTR (\" Make America Build Ships Again?",
+  "keywords": [
+    "china",
+    "crude_oil",
+    "act",
+    "maritime",
+    "vessels",
+    "are",
+    "fleet",
+    "u.s.",
+    "foreign",
+    "built",
+    "new",
+    "other"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 927,
+  "source_path": "reports/poten/2025/poten_2025-05-02_all-hands-on-deck.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2025_05_02_all_hands_on_deck__s01_building_the_u_s_into_a_maritime_powerhouse",
+      "doc_id": "poten_tankers_no_date_poten_2025_05_02_all_hands_on_deck",
+      "parent_id": "poten_tankers_no_date_poten_2025_05_02_all_hands_on_deck__root",
+      "title": "Building the U.S. into a Maritime Powerhouse.",
+      "section_path": [
+        "Building the U.S. into a Maritime Powerhouse."
+      ],
+      "section_path_text": "Building the U.S. into a Maritime Powerhouse.",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The domestic maritime industry never received so much interest in the United States as in the last few months. It seems that a new piece of legislation is being introduced every week.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "act",
+        "maritime",
+        "vessels",
+        "are",
+        "fleet",
+        "foreign"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 916,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

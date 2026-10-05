@@ -42,13 +42,13 @@ numeric_observations:
   unit: tonnage
   values:
   - 4.41
-  - 31320.0
-  - 16390.0
+  - 31.32
+  - 16.39
   - 4.8
-  - 37405.8
+  - 37.4058
   - 20.0
-  - 8020.0
-  - 34406.5
+  - 8.02
+  - 34.4065
   - 0.5
   - 715.0
 - &id002
@@ -153,12 +153,12 @@ numeric_observations:
   source_line: 96.70 USD/dmt 1 1 3.25 USD/dmt 83 7.61 re
   unit: usd_per_unit
   values:
-  - 96700.0
+  - 96.7
   - 1.0
   - 1.0
   - 3.25
   - 83.0
-  - 7610.0
+  - 7.61
 - &id013
   section: 'Linked asset: 2026-09-21_mmi-daily-iron-ore-index-report-september-21-2026_21092026chinese_9b9a4c3d1aef.jpg'
   section_type: linked_image_asset
@@ -179,7 +179,7 @@ numeric_observations:
   - -0.46
   - 0.15
   - -0.13
-  - 8330.0
+  - 8.33
   - -0.98
 - &id015
   section: 'Linked asset: 2026-09-21_mmi-daily-iron-ore-index-report-september-21-2026_21092026chinese_9b9a4c3d1aef.jpg'
@@ -187,7 +187,7 @@ numeric_observations:
   source_line: MTD avg 97.14 MTD avg 115.26 MTD avg 841.26
   unit: tonnage
   values:
-  - 97140.0
+  - 97.14
   - 115.26
   - 841.26
 - &id016
@@ -214,7 +214,7 @@ numeric_observations:
   source_line: '# 97.21USD/dmt 715.0yuan/mt'
   unit: usd_per_unit
   values:
-  - 97210.0
+  - 97.21
   - 715.0
 - &id019
   section: 'Linked asset: 2026-09-21_mmi-daily-iron-ore-index-report-september-21-2026_mmi-daily-iron-ore-report-for-21th-s_51a77e05b920.pdf'
@@ -232,7 +232,7 @@ numeric_observations:
   source_line: MTD avg 98.04 MTD avg 721.7 As of Sep 19 · vs Sep 18
   unit: tonnage
   values:
-  - 98040.0
+  - 98.04
   - 721.7
   - 19.0
   - 18.0
@@ -292,7 +292,7 @@ numeric_observations:
   source_line: '## 96.70 USD/dmt 113.25 USD/dmt 837.61 yuan/mt'
   unit: usd_per_unit
   values:
-  - 96700.0
+  - 96.7
   - 113.25
   - 837.61
 - &id027
@@ -308,7 +308,7 @@ numeric_observations:
   - -0.13
   - -8.33
   - -0.98
-  - 97140.0
+  - 97.14
   - 115.26
   - 841.26
   - 18.0
@@ -322,13 +322,13 @@ numeric_observations:
   unit: tonnage
   values:
   - 4.41
-  - 31320.0
-  - 16390.0
+  - 31.32
+  - 16.39
   - 4.8
-  - 37405.8
+  - 37.4058
   - 20.0
-  - 8020.0
-  - 34406.5
+  - 8.02
+  - 34.4065
   - 0.5
   - 715.0
 - &id029
@@ -340,15 +340,15 @@ numeric_observations:
     fell back to 34.4065 million
   unit: tonnage
   values:
-  - 31320.0
+  - 31.32
   - 4.41
-  - 16390.0
+  - 16.39
   - 4.8
-  - 34406.5
+  - 34.4065
   - -8.02
-  - 19495.7
+  - 19.4957
   - -6.08
-  - 7415.5
+  - 7.4155
   - -5.69
 - &id030
   section: 'Linked asset: 2026-09-21_mmi-daily-iron-ore-index-report-september-21-2026_mmi-daily-iron-ore-report-for-21th-s_51a77e05b920.pdf'
@@ -359,13 +359,13 @@ numeric_observations:
     recovered 1.87% to USD 16.38/mt, '
   unit: tonnage
   values:
-  - 6480.0
+  - 6.48
   - -2.84
   - 5.0
   - 1.87
-  - 16379.999999999998
+  - 16.38
   - 3.0
-  - 42710.0
+  - 42.71
   - 0.35
   - 18.0
 - &id031
@@ -394,7 +394,7 @@ numeric_observations:
     and mine concentrate stoc
   unit: tonnage
   values:
-  - 58200.0
+  - 58.2
   - 1.8
   - 900000.0
   - 28000.0
@@ -470,28 +470,28 @@ numeric_observations:
   source_line: '#### PB Fines 60.8% Daily'
   unit: pct
   values:
-  - 60800.0
+  - 60.8
 - &id041
   section: 'Linked asset: 2026-09-21_mmi-daily-iron-ore-index-report-september-21-2026_mmi-daily-iron-ore-report-for-21th-s_51a77e05b920.pdf'
   section_type: linked_pdf
   source_line: '#### Newman Fines 61.2% Daily'
   unit: pct
   values:
-  - 61200.0
+  - 61.2
 - &id042
   section: 'Linked asset: 2026-09-21_mmi-daily-iron-ore-index-report-september-21-2026_mmi-daily-iron-ore-report-for-21th-s_51a77e05b920.pdf'
   section_type: linked_pdf
   source_line: '#### Mac Fines 60.8% Daily'
   unit: pct
   values:
-  - 60800.0
+  - 60.8
 - &id043
   section: 'Linked asset: 2026-09-21_mmi-daily-iron-ore-index-report-september-21-2026_mmi-daily-iron-ore-report-for-21th-s_51a77e05b920.pdf'
   section_type: linked_pdf
   source_line: '#### BRBF 62.5% Daily'
   unit: pct
   values:
-  - 62500.0
+  - 62.5
 - &id044
   section: 'Linked asset: 2026-09-21_mmi-daily-iron-ore-index-report-september-21-2026_mmi-daily-iron-ore-report-for-21th-s_51a77e05b920.pdf'
   section_type: linked_pdf
@@ -505,7 +505,7 @@ numeric_observations:
   source_line: '#### Super Special Fines (SSF) 56.5% Daily'
   unit: pct
   values:
-  - 56500.0
+  - 56.5
 - &id046
   section: 'Linked asset: 2026-09-21_mmi-daily-iron-ore-index-report-september-21-2026_mmi-daily-iron-ore-report-for-21th-s_51a77e05b920.pdf'
   section_type: linked_pdf
@@ -519,7 +519,7 @@ numeric_observations:
   source_line: '#### PB Lump 61.5% Daily'
   unit: pct
   values:
-  - 61500.0
+  - 61.5
 - &id048
   section: 'Linked asset: 2026-09-21_mmi-daily-iron-ore-index-report-september-21-2026_mmi-daily-iron-ore-report-for-21th-s_51a77e05b920.pdf'
   section_type: linked_pdf
@@ -552,7 +552,7 @@ numeric_observations:
   source_line: '* PB Lump 61.6% Daily121.01 ▲ +0.77 +0.64% 121.55'
   unit: pct
   values:
-  - 61600.0
+  - 61.6
   - 121.01
   - 0.77
   - 0.64
@@ -563,7 +563,7 @@ numeric_observations:
   source_line: BRBF 62.5% Daily101.34 ▲ +0.76 +0.76% 101.69
   unit: pct
   values:
-  - 62500.0
+  - 62.5
   - 101.34
   - 0.76
   - 0.76
@@ -574,11 +574,11 @@ numeric_observations:
   source_line: '* Newman Fines 61.2% Daily93.93 ▲ +0.76 +0.82% 94.55'
   unit: pct
   values:
-  - 61200.0
-  - 93930.0
+  - 61.2
+  - 93.93
   - 0.76
   - 0.82
-  - 94550.0
+  - 94.55
 - &id053
   section: 'Linked asset: 2026-09-21_mmi-daily-iron-ore-index-report-september-21-2026_mmi-daily-iron-ore-report-for-21th-s_51a77e05b920.pdf'
   section_type: linked_pdf
@@ -586,32 +586,32 @@ numeric_observations:
   unit: pct
   values:
   - 61.0
-  - 93640.0
+  - 93.64
   - 0.76
   - 0.82
-  - 94130.0
+  - 94.13
 - &id054
   section: 'Linked asset: 2026-09-21_mmi-daily-iron-ore-index-report-september-21-2026_mmi-daily-iron-ore-report-for-21th-s_51a77e05b920.pdf'
   section_type: linked_pdf
   source_line: Jimblebar Fines 60.5% Daily91.79 ▲ +0.76 +0.83% 90.87
   unit: pct
   values:
-  - 60500.0
-  - 91790.0
+  - 60.5
+  - 91.79
   - 0.76
   - 0.83
-  - 90870.0
+  - 90.87
 - &id055
   section: 'Linked asset: 2026-09-21_mmi-daily-iron-ore-index-report-september-21-2026_mmi-daily-iron-ore-report-for-21th-s_51a77e05b920.pdf'
   section_type: linked_pdf
   source_line: FMG Blend Fines 58.5% Daily89.37 ▲ +0.76 +0.86% 88.41
   unit: pct
   values:
-  - 58500.0
-  - 89370.0
+  - 58.5
+  - 89.37
   - 0.76
   - 0.86
-  - 88410.0
+  - 88.41
 - &id056
   section: 'Linked asset: 2026-09-21_mmi-daily-iron-ore-index-report-september-21-2026_mmi-daily-iron-ore-report-for-21th-s_51a77e05b920.pdf'
   section_type: linked_pdf
@@ -630,10 +630,10 @@ numeric_observations:
   unit: pct
   values:
   - 57.0
-  - 73550.0
+  - 73.55
   - 0.75
   - 1.03
-  - 74020.0
+  - 74.02
 - &id058
   section: 'Linked asset: 2026-09-21_mmi-daily-iron-ore-index-report-september-21-2026_mmi-daily-iron-ore-report-for-21th-s_51a77e05b920.pdf'
   section_type: linked_pdf
@@ -641,10 +641,10 @@ numeric_observations:
   unit: pct
   values:
   - 57.0
-  - 68990.0
+  - 68.99
   - -0.67
   - -0.96
-  - 69730.0
+  - 69.73
 - &id059
   section: 'Linked asset: 2026-09-21_mmi-daily-iron-ore-index-report-september-21-2026_mmi-daily-iron-ore-report-for-21th-s_51a77e05b920.pdf'
   section_type: linked_pdf
@@ -652,7 +652,7 @@ numeric_observations:
   unit: usd_per_unit
   values:
   - 61.0
-  - 97140.0
+  - 97.14
   - 1.89
   - -8.7
 - &id060
@@ -771,7 +771,7 @@ numeric_observations:
   - 0.5
   - -0.07
   - 18.0
-  - 97210.0
+  - 97.21
   - 19.0
   - 0.86
   - 0.89
@@ -785,7 +785,7 @@ numeric_observations:
     and buying continues this w
   unit: pct
   values:
-  - 16390.0
+  - 16.39
 - &id071
   section: 'Linked asset: 2026-09-21_mmi-daily-iron-ore-index-report-september-21-2026_mmi-daily-iron-ore-report-for-21th-s_51a77e05b920.pdf'
   section_type: linked_pdf
@@ -797,13 +797,13 @@ numeric_observations:
   values:
   - 16.0
   - 242.0
-  - 88930.0
+  - 88.93
   - -0.15
   - 2.3991
   - -3700.0
-  - 78610.0
+  - 78.61
   - 4.37
-  - 20500.0
+  - 20.5
 - &id072
   section: 'Linked asset: 2026-09-21_mmi-daily-iron-ore-index-report-september-21-2026_mmi-daily-iron-ore-report-for-21th-s_51a77e05b920.pdf'
   section_type: linked_pdf
@@ -813,16 +813,16 @@ numeric_observations:
     mt (-2.9993 million mt, -8.02%), '
   unit: tonnage
   values:
-  - 31320.0
+  - 31.32
   - 4.41
-  - 16390.0
+  - 16.39
   - 4.8
-  - 34406.5
+  - 34.4065
   - -2.9993
   - -8.02
-  - 19495.7
+  - 19.4957
   - -6.08
-  - 7415.5
+  - 7.4155
 - &id073
   section: 'Linked asset: 2026-09-21_mmi-daily-iron-ore-index-report-september-21-2026_mmi-daily-iron-ore-report-for-21th-s_51a77e05b920.pdf'
   section_type: linked_pdf
@@ -832,14 +832,14 @@ numeric_observations:
     slide: C5 Australia→China reco'
   unit: tonnage
   values:
-  - 6480.0
+  - 6.48
   - -2.84
   - 5.0
   - 0.3
-  - 16379.999999999998
+  - 16.38
   - 1.87
   - 3.0
-  - 42710.0
+  - 42.71
   - 0.15
   - 0.35
 - &id074
@@ -868,7 +868,7 @@ numeric_observations:
     are returning to normal operat
   unit: tonnage
   values:
-  - 58200.0
+  - 58.2
   - 1.8
   - 900000.0
   - 28000.0
@@ -883,13 +883,13 @@ numeric_observations:
     lagged supply shock begins to '
   unit: worldscale_pct
   values:
-  - 6480.0
+  - 6.48
   - 4.41
-  - 16390.0
-  - 31320.0
+  - 16.39
+  - 31.32
   - -2.84
-  - 8020.0
-  - 34406.5
+  - 8.02
+  - 34.4065
   - 35.0
   - 144.33
   - 3.21
@@ -919,7 +919,7 @@ numeric_observations:
   - 21.0
   - 2026.0
   - -2.84
-  - 6480.0
+  - 6.48
 - &id080
   section: 'Linked asset: 2026-09-21_mmi-daily-iron-ore-index-report-september-21-2026_mmi-daily-iron-ore-report-for-21th-s_51a77e05b920.pdf'
   section_type: linked_pdf
@@ -961,7 +961,7 @@ regions:
 section_count: 3
 signals:
   benchmark_prices:
-    index_58_fines: 58.0
+    index_58_fines: 58.5
     index_65_fines: 61.0
   iron_ore_metrics:
   - metric: index
@@ -1002,12 +1002,12 @@ signals:
     source_line: 96.70 USD/dmt 1 1 3.25 USD/dmt 83 7.61 re
     unit: usd_per_dmt
     values:
-    - 96700.0
+    - 96.7
     - 1.0
     - 1.0
     - 3.25
     - 83.0
-    - 7610.0
+    - 7.61
   - metric: index
     source_line: 'Linked asset: 2026-09-21_mmi-daily-iron-ore-index-report-september-21-2026_mmi-daily-iron-ore-report-for-21th-s_51a77e05b920.pdf'
     unit: null
@@ -1030,13 +1030,13 @@ signals:
     source_line: '# 97.21USD/dmt 715.0yuan/mt'
     unit: usd_per_dmt
     values:
-    - 97210.0
+    - 97.21
     - 715.0
   - metric: numeric_observation
     source_line: '## 96.70 USD/dmt 113.25 USD/dmt 837.61 yuan/mt'
     unit: usd_per_dmt
     values:
-    - 96700.0
+    - 96.7
     - 113.25
     - 837.61
   - metric: index
@@ -1050,7 +1050,7 @@ signals:
     - -0.13
     - -8.33
     - -0.98
-    - 97140.0
+    - 97.14
     - 115.26
   - metric: numeric_observation
     source_line: Restocking is nearing its end and buying has turned price-sensitive.
@@ -1071,17 +1071,17 @@ signals:
     source_line: '#### PB Fines 60.8% Daily'
     unit: pct
     values:
-    - 60800.0
+    - 60.8
   - metric: numeric_observation
     source_line: '#### Newman Fines 61.2% Daily'
     unit: pct
     values:
-    - 61200.0
+    - 61.2
   - metric: numeric_observation
     source_line: '#### Super Special Fines (SSF) 56.5% Daily'
     unit: pct
     values:
-    - 56500.0
+    - 56.5
   - metric: index_65_fines
     source_line: '#### Carajas Fines (IOCJ) 65% Daily'
     unit: pct
@@ -1113,62 +1113,62 @@ signals:
     source_line: '* Newman Fines 61.2% Daily93.93 ▲ +0.76 +0.82% 94.55'
     unit: pct
     values:
-    - 61200.0
-    - 93930.0
+    - 61.2
+    - 93.93
     - 0.76
     - 0.82
-    - 94550.0
+    - 94.55
   - metric: numeric_observation
     source_line: Mac Fines 61% Daily93.64 ▲ +0.76 +0.82% 94.13
     unit: pct
     values:
     - 61.0
-    - 93640.0
+    - 93.64
     - 0.76
     - 0.82
-    - 94130.0
+    - 94.13
   - metric: numeric_observation
     source_line: Jimblebar Fines 60.5% Daily91.79 ▲ +0.76 +0.83% 90.87
     unit: pct
     values:
-    - 60500.0
-    - 91790.0
+    - 60.5
+    - 91.79
     - 0.76
     - 0.83
-    - 90870.0
+    - 90.87
   - metric: index_58_fines
     source_line: FMG Blend Fines 58.5% Daily89.37 ▲ +0.76 +0.86% 88.41
     unit: pct
     values:
-    - 58500.0
-    - 89370.0
+    - 58.5
+    - 89.37
     - 0.76
     - 0.86
-    - 88410.0
+    - 88.41
   - metric: numeric_observation
     source_line: Super Special Fines (SSF) 57% Daily73.55 ▲ +0.75 +1.03% 74.02
     unit: pct
     values:
     - 57.0
-    - 73550.0
+    - 73.55
     - 0.75
     - 1.03
-    - 74020.0
+    - 74.02
   - metric: numeric_observation
     source_line: Indian Fines 57% Daily68.99 ▼ -0.67-0.96% 69.73
     unit: pct
     values:
     - 57.0
-    - 68990.0
+    - 68.99
     - -0.67
     - -0.96
-    - 69730.0
+    - 69.73
   - metric: index
     source_line: SMM MMi 61% Iron Ore Seaborne Index Daily97.14 +1.89%-8.7% USD/dmt
     unit: usd_per_dmt
     values:
     - 61.0
-    - 97140.0
+    - 97.14
     - 1.89
     - -8.7
   - metric: index_65_fines
@@ -1258,7 +1258,7 @@ signals:
     - 0.5
     - -0.07
     - 18.0
-    - 97210.0
+    - 97.21
     - 19.0
     - 0.86
   - metric: index
@@ -1283,13 +1283,13 @@ signals:
       the lagged supply shock begins to '
     unit: usd_per_dmt
     values:
-    - 6480.0
+    - 6.48
     - 4.41
-    - 16390.0
-    - 31320.0
+    - 16.39
+    - 31.32
     - -2.84
-    - 8020.0
-    - 34406.5
+    - 8.02
+    - 34.4065
     - 35.0
   - metric: numeric_observation
     source_line: '[SMM Iron Ore Shipping] Global shipments down 8% WoW last week;
@@ -1306,7 +1306,7 @@ signals:
     - 21.0
     - 2026.0
     - -2.84
-    - 6480.0
+    - 6.48
   metric_units:
   - pct
   - usd

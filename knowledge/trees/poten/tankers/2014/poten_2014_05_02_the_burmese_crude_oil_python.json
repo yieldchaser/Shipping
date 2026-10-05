@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2014_05_02_the_burmese_crude_oil_python__root",
+  "doc_id": "poten_tankers_no_date_poten_2014_05_02_the_burmese_crude_oil_python",
+  "parent_id": null,
+  "title": "The Burmese Crude Oil Python",
+  "section_path": [
+    "The Burmese Crude Oil Python"
+  ],
+  "section_path_text": "The Burmese Crude Oil Python",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "1 Sino-Burma Pipeline Map\nWhat's the deal with the short cut to the East: When thinking about the prognosis for tanker demand growth, the most immediate threat, second to the construction of a canal, is the development of overland transportation. Pipeline projects are typically painstaking efforts that involve buy-in from inherently conflicted stakeholders. Federal and local governments, citizens, regulators, oil companies and refiners must come together to balance transportation economics against political interests in a multi-billion dollar arena: not an easy task.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "meg",
+    "crude_oil",
+    "products",
+    "gas",
+    "oil",
+    "pipeline",
+    "crude",
+    "demand",
+    "east",
+    "new"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 879,
+  "source_path": "reports/poten/2014/poten_2014-05-02_the-burmese-crude-oil-python.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_05_02_the_burmese_crude_oil_python__s01_fig_1_sino_burma_pipeline_map",
+      "doc_id": "poten_tankers_no_date_poten_2014_05_02_the_burmese_crude_oil_python",
+      "parent_id": "poten_tankers_no_date_poten_2014_05_02_the_burmese_crude_oil_python__root",
+      "title": "Fig. 1 Sino-Burma Pipeline Map",
+      "section_path": [
+        "Fig. 1 Sino-Burma Pipeline Map"
+      ],
+      "section_path_text": "Fig. 1 Sino-Burma Pipeline Map",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "What's the deal with the short cut to the East: When thinking about the prognosis for tanker demand growth, the most immediate threat, second to the construction of a canal, is the development of overland transportation. Pipeline projects are typically painstaking efforts that involve buy-in from inherently conflicted stakeholders.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "crude_oil",
+        "products",
+        "gas",
+        "oil",
+        "pipeline",
+        "east"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 537,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_05_02_the_burmese_crude_oil_python__s02_chart_top_10_vlcc_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2014_05_02_the_burmese_crude_oil_python",
+      "parent_id": "poten_tankers_no_date_poten_2014_05_02_the_burmese_crude_oil_python__root",
+      "title": "Chart: Top 10 VLCC Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 VLCC Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 VLCC Spot Charterers",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The flow of an additional 440,000 barrels of crude oil per day between the Middle East, the likely crude oil source, and Myanmar could create demand for an additional 6-7 VLCCs per year on a dedicated basis. While all demand for ships, no matter how small, should be seen as good demand, the broader health of the VLCC market will continue to hinge on the expansion and construction of additional refineries and strategic stockpiling in the more populated Eastern provinces ( See Fig 2 .) China's environmental overseers imposed restrictions on new projects for the nation's two largest refiners, China National Petroleum Corp (CNPC) and China Petrochemical Corp.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "meg",
+        "crude_oil",
+        "crude",
+        "demand",
+        "oil",
+        "additional"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 319,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

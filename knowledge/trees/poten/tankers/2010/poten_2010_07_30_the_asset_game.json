@@ -1,0 +1,171 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_07_30_the_asset_game__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_07_30_the_asset_game",
+  "parent_id": null,
+  "title": "The Asset Game",
+  "section_path": [
+    "The Asset Game"
+  ],
+  "section_path_text": "The Asset Game",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Asset Game\nOne can't help but notice a disconnect between slipping freight rates, weak demand fundamentals and the surge of newbuilding tanker orders seen in recent months. Asset values are derived from the expected earning of that asset over its life, but with the tanker market sending mixed signals on the pace of recovery, other forces are ostensibly in play. The chart below displays the relationship between asset prices and spot market freight rates in the VLCC sector over the past few years.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "crude_oil",
+    "asset",
+    "are",
+    "new",
+    "newbuilding",
+    "orders",
+    "secondhand",
+    "can",
+    "game"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 648,
+  "source_path": "reports/poten/2010/poten_2010-07-30_the-asset-game.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_07_30_the_asset_game__s01_the_asset_game",
+      "doc_id": "poten_tankers_no_date_poten_2010_07_30_the_asset_game",
+      "parent_id": "poten_tankers_no_date_poten_2010_07_30_the_asset_game__root",
+      "title": "The Asset Game",
+      "section_path": [
+        "The Asset Game"
+      ],
+      "section_path_text": "The Asset Game",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "One can't help but notice a disconnect between slipping freight rates, weak demand fundamentals and the surge of newbuilding tanker orders seen in recent months. Asset values are derived from the expected earning of that asset over its life, but with the tanker market sending mixed signals on the pace of recovery, other forces are ostensibly in play.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "asset",
+        "are",
+        "between",
+        "but",
+        "orders",
+        "recent"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 135,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_07_30_the_asset_game__s02_vlcc_newbuilding_price",
+      "doc_id": "poten_tankers_no_date_poten_2010_07_30_the_asset_game",
+      "parent_id": "poten_tankers_no_date_poten_2010_07_30_the_asset_game__root",
+      "title": "VLCC Newbuilding Price",
+      "section_path": [
+        "VLCC Newbuilding Price"
+      ],
+      "section_path_text": "VLCC Newbuilding Price",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "AG ‐ FE (260kt) Over the past two years, a lack of liquidity in both financing ability and the amount of deal flow left a tanker asset market that was largely untested. Not surprisingly, the credit crunch was largely responsible for this turn of events.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "secondhand",
+        "largely",
+        "newbuilding",
+        "not",
+        "ordered"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 183,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_07_30_the_asset_game__s03_new_orders_china",
+      "doc_id": "poten_tankers_no_date_poten_2010_07_30_the_asset_game",
+      "parent_id": "poten_tankers_no_date_poten_2010_07_30_the_asset_game__root",
+      "title": "New Orders ‐ China",
+      "section_path": [
+        "New Orders ‐ China"
+      ],
+      "section_path_text": "New Orders ‐ China",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "korea",
+        "new",
+        "newbuilding",
+        "orders",
+        "secondhand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 10,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_07_30_the_asset_game__s04_new_orders_china",
+      "doc_id": "poten_tankers_no_date_poten_2010_07_30_the_asset_game",
+      "parent_id": "poten_tankers_no_date_poten_2010_07_30_the_asset_game__root",
+      "title": "New Orders ‐ China",
+      "section_path": [
+        "New Orders ‐ China"
+      ],
+      "section_path_text": "New Orders ‐ China",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "New Orders ‐ Korea Secondhand:Newbuilding The reason for the heightened interest in newbuildings is likely two fold. Forward delivery allows shipowners to enter the market with a brand new asset at some point in the future, hopefully during the demand recovery.",
+      "keywords": [
+        "new",
+        "shipowners",
+        "allows",
+        "are",
+        "asset",
+        "assets",
+        "brand",
+        "buyers"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 79,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_07_30_the_asset_game__s05_perception_reality",
+      "doc_id": "poten_tankers_no_date_poten_2010_07_30_the_asset_game",
+      "parent_id": "poten_tankers_no_date_poten_2010_07_30_the_asset_game__root",
+      "title": "Perception & Reality",
+      "section_path": [
+        "Perception & Reality"
+      ],
+      "section_path_text": "Perception & Reality",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "For better or worse, expectations, momentum, and emotion are factors that can significantly impact shipowners' decision making. Although more intangible than raw materials costs, these perceived drivers can have a substantial impact and can trigger a run‐up in prices quite easily.",
+      "keywords": [
+        "are",
+        "can",
+        "game",
+        "asset",
+        "back",
+        "cycle",
+        "impact",
+        "likely"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 213,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

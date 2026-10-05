@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2018_03_16_looks_familiar__root",
+  "doc_id": "poten_tankers_no_date_poten_2018_03_16_looks_familiar",
+  "parent_id": null,
+  "title": "Looks Familiar",
+  "section_path": [
+    "Looks Familiar"
+  ],
+  "section_path_text": "Looks Familiar",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The beginning is similar - will the ending be the same? The expression \"history repeats itself\" is very appropriate in the shipping markets. Seasonality and market cycles usually repeat themselves with a certain predictability.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "europe",
+    "crude_oil",
+    "oil",
+    "are",
+    "year",
+    "prices",
+    "fleet",
+    "growth",
+    "similar",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1062,
+  "source_path": "reports/poten/2018/poten_2018-03-16_looks-familiar.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_03_16_looks_familiar__s01_the_beginning_is_similar_will_the_ending_be_the_same",
+      "doc_id": "poten_tankers_no_date_poten_2018_03_16_looks_familiar",
+      "parent_id": "poten_tankers_no_date_poten_2018_03_16_looks_familiar__root",
+      "title": "The beginning is similar - will the ending be the same?",
+      "section_path": [
+        "The beginning is similar - will the ending be the same?"
+      ],
+      "section_path_text": "The beginning is similar - will the ending be the same?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The expression \"history repeats itself\" is very appropriate in the shipping markets. Seasonality and market cycles usually repeat themselves with a certain predictability.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "europe",
+        "crude_oil",
+        "fleet",
+        "prices",
+        "year",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 691,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_03_16_looks_familiar__s02_2018_opec_is_latest_available_usa_is_forecast",
+      "doc_id": "poten_tankers_no_date_poten_2018_03_16_looks_familiar",
+      "parent_id": "poten_tankers_no_date_poten_2018_03_16_looks_familiar__root",
+      "title": "2018* OPEC is latest available; USA is forecast",
+      "section_path": [
+        "2018* OPEC is latest available; USA is forecast"
+      ],
+      "section_path_text": "2018* OPEC is latest available; USA is forecast",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "expected as oil demand grew by 1.23 mb/d (1.4%), some 50%(!) higher than forecast earlier in the year. The current IEA outlook for 2018 is more positive with demand growth of 1.39 mb/d (1.4%).",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "oil",
+        "are",
+        "demand",
+        "opec",
+        "production",
+        "u.s."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 345,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

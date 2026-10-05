@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2022_01_21_russian_roulette__root",
+  "doc_id": "poten_tankers_no_date_poten_2022_01_21_russian_roulette",
+  "parent_id": null,
+  "title": "Russian Roulette",
+  "section_path": [
+    "Russian Roulette"
+  ],
+  "section_path_text": "Russian Roulette",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Russia's conflict with Ukraine can have major repercussions\nRussia has accumulated troops along the border with Ukraine and there is widespread concern that Russia may invade its neighbor. We do not have any particular insight into the likelihood of a conflict, but we thought it would be interesting to think about the potential implications for the energy and shipping markets if an invasion indeed happens. have threatened Russia with sanctions if it moves against Ukraine.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "atlantic",
+    "pacific",
+    "europe",
+    "coal",
+    "crude_oil",
+    "products",
+    "gas",
+    "russia"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 903,
+  "source_path": "reports/poten/2022/poten_2022-01-21_russian-roulette.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_01_21_russian_roulette__s01_russia_s_conflict_with_ukraine_can_have_major_repercussions",
+      "doc_id": "poten_tankers_no_date_poten_2022_01_21_russian_roulette",
+      "parent_id": "poten_tankers_no_date_poten_2022_01_21_russian_roulette__root",
+      "title": "Russia's conflict with Ukraine can have major repercussions",
+      "section_path": [
+        "Russia's conflict with Ukraine can have major repercussions"
+      ],
+      "section_path_text": "Russia's conflict with Ukraine can have major repercussions",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Russia has accumulated troops along the border with Ukraine and there is widespread concern that Russia may invade its neighbor. We do not have any particular insight into the likelihood of a conflict, but we thought it would be interesting to think about the potential implications for the energy and shipping markets if an invasion indeed happens.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "atlantic",
+        "pacific",
+        "europe",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 893,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

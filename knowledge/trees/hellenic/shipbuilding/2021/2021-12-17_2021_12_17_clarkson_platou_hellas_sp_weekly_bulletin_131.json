@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNEW BUILDING :In dry bulk this week, Chengxi signed contracts for four firm plus four optional 63.5k dwt Ultramaxes with Huaxia Financial Leasing\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 17 December 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nNORD ADAGIO N/A\nMAN-B&W 6S50ME-B9.3\nUSD 33.5 M\n61,000 DELY FEB '22 ex NACKS 4 x 30 T SINGAPOREANS\nEach\nBWTS fitted\nNORD ARPEGGIO N/A\nMAN-B&W 6S50ME-B9.3\nSS 02/23\nNORD COLUMBIA 60,396 2018 OSHIMA 4 x 30 T RGN USD 32 M U/D\nDD 02/23\nBWTS, Scrubber fitted\nMAN-B&W 6S50MC-C\nSS 08/25\nFERONIA 56,058 2007 MITSUI 4 x 30 T USD 16.4 M U/D\nDD 11/23\nBWTS fitted\nSS 08/26\nNORDCOLORADO 37,976\nMAN-B&W 5G50ME-B9.3 DD 08/24\nUSD 42.8 M\n2016 ZHEJIANG OUHUA 4 x 30 T U/D\nEn bloc\nBWTS fitted SS 01/26\nNORDRUBICON 37,985\nDD 01/24\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nDELY MAY/JUNE '22 ex HYUNDAI USD 98 M\n2 x VLCC RESALES",
+  "summary": "Main\nNEW BUILDING :In dry bulk this week, Chengxi signed contracts for four firm plus four optional 63.5k dwt Ultramaxes with Huaxia Financial Leasing\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf\n\n|`||||||||||\n|---|---|---|---|---|---|---|---|---|---|\n|||Sale and Purchase||||||||\n||Hellas S&P Weekly Bulletin||||||||17 December 2021|\n||BULK CARRIERS|||||||||\n||VESSEL|DWT||BLT||DETAILS|SS/DD|PRICE|BUYER|\n||NORD ADAGIO|||||MAN-B&W 6S50ME-B9.3|N/A|USD 33.5 M||\n||NORD ARPEGGIO|61,000||DELY FEB '22 ex NACKS||4 x 30 T BWTS fitted|N/A|Each|SINGAPOREANS|\n||NORD COLUMBIA|60,396||2018 OSHIMA||MAN-B&W 6S50ME-B9.3 4 x 30 T BWTS, Scrubber fitted|SS 02/23 DD 02/23|RGN USD 32 M|U/D|\n||FERONIA|56,058||2007 MITSUI||MAN-B&W 6S50MC-C 4 x 30 T BWTS fitted|SS 08/25 DD 11/23|USD 16.4 M|U/D|\n||NORDCOLORADO|37,976||||MAN-B&W 5G50ME-B9.3|SS 08/26 DD 08/24|USD 4 2.8 M||\n||NORDRUBICON|37,985 TANKERS - CHEMICALS - LPG/LNGs||2016 ZHEJIANG OUHUA||4 x 30 T BWTS fitted|SS 01/2",
   "keywords": [
     "vlcc",
     "lng",
@@ -18,16 +18,16 @@
     "india",
     "singapore",
     "gas",
-    "clarksons",
     "any",
     "information",
+    "clarksons",
     "platou",
     "its"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2453,
-  "source_path": "corpus/02-hellenic/shipbuilding/2021/2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131.html",
+  "token_count": 2320,
+  "source_path": "reports/hellenic/shipbuilding/2021/2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131.html",
   "source_url": "https://www.hellenicshippingnews.com/clarkson-platou-hellas-sp-weekly-bulletin-131",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 17 December 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nNORD ADAGIO N/A\nMAN-B&W 6S50ME-B9.3\nUSD 33.5 M\n61,000 DELY FEB '22 ex NACKS 4 x 30 T SINGAPOREANS\nEach\nBWTS fitted\nNORD ARPEGGIO N/A\nMAN-B&W 6S50ME-B9.3\nSS 02/23\nNORD COLUMBIA 60,396 2018 OSHIMA 4 x 30 T RGN USD 32 M U/D\nDD 02/23\nBWTS, Scrubber fitted\nMAN-B&W 6S50MC-C\nSS 08/25\nFERONIA 56,058 2007 MITSUI 4 x 30 T USD 16.4 M U/D\nDD 11/23\nBWTS fitted\nSS 08/26\nNORDCOLORADO 37,976\nMAN-B&W 5G50ME-B9.3 DD 08/24\nUSD 42.8 M\n2016 ZHEJIANG OUHUA 4 x 30 T U/D\nEn bloc\nBWTS fitted SS 01/26\nNORDRUBICON 37,985\nDD 01/24\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nDELY MAY/JUNE '22 ex HYUNDAI USD 98 M\n2 x VLCC RESALES 300,000 Scrubber fitted N/A GREEKS\nSAMHO Each\nSS 02/25\nATHENIAN HARMONY 298,996 2010 HHI MAN-B&W 6S90MC-C USD 42.5 M GREEKS\nDD 02/23\nSS 07/25\nSILVER 107,507\nSS 07/23\nMAN-B&W 6S60MC-C7.2 RGN USD 49 M\n2010 TSUNEISHI GREEKS\nBWTS fitted En bloc\nSS 09/25\nGOLD 107,488\nDD 09/25\nSS 06/22\nGUANABARA 1",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf\n\n|`||||||||||\n|---|---|---|---|---|---|---|---|---|---|\n|||Sale and Purchase||||||||\n||Hellas S&P Weekly Bulletin||||||||17 December 2021|\n||BULK CARRIERS|||||||||\n||VESSEL|DWT||BLT||DETAILS|SS/DD|PRICE|BUYER|\n||NORD ADAGIO|||||MAN-B&W 6S50ME-B9.3|N/A|USD 33.5 M||\n||NORD ARPEGGIO|61,000||DELY FEB '22 ex NACKS||4 x 30 T BWTS fitted|N/A|Each|SINGAPOREANS|\n||NORD COLUMBIA|60,396||2018 OSHIMA||MAN-B&W 6S50ME-B9.3 4 x 30 T BWTS, Scrubber fitted|SS 02/23 DD 02/23|RGN USD 32 M|U/D|\n||FERONIA|56,058||2007 MITSUI||MAN-B&W 6S50MC-C 4 x 30 T BWTS fitted|SS 08/25 DD 11/23|USD 16.4 M|U/D|\n||NORDCOLORADO|37,976||||MAN-B&W 5G50ME-B9.3|SS 08/26 DD 08/24|USD 4 2.8 M||\n||NORDRUBICON|37,985 TANKERS - CHEMICALS - LPG/LNGs||2016 ZHEJIANG OUHUA||4 x 30 T BWTS fitted|SS 01/26 DD 01/24|En bloc|U/D|\n||VESSEL 2 x VLCC RESALES|DWT 300,000||BLT DELY MAY/JUNE '22 ex HYUNDAI SAMHO||DETAILS Scrubber fitted|SS/DD N/A|PRICE USD 98 M Each|BUYER GREEKS|\n||ATHENIAN HARMONY|298,996||2010 HHI||MAN-B&W 6S90MC-C|SS 02/25 DD 02/23|USD 42.5 M|GREEKS|\n||SILVER|107,507||||MAN-B&W 6S60",
       "keywords": [
         "vlcc",
         "lng",
@@ -78,11 +78,11 @@
         "india",
         "singapore",
         "gas",
-        "clarksons"
+        "any"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2361,
+      "token_count": 2228,
       "section_type": "linked_pdf",
       "children": []
     }

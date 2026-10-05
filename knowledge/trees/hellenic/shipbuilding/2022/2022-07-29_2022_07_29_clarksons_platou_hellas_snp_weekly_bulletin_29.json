@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nIn tankers this week, it has been reported that Pacific Carriers ordered two 50k dwt MR's at K Shipbuilding\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-07-29_clarksons-platou-hellas-snp-weekly-bulletin-29_report-29-07-2022_45899fec9b24.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-07-29_clarksons-platou-hellas-snp-weekly-bulletin-29_report-29-07-2022_45899fec9b24.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 29 July 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 7S50MC-C8.1 SS 08/26\nBONANZA YR 76,465 2006 TSUNEISHI BWTS fitted DD 09/24 USD 16.5 M MIDDLE EASTERNS\nMAN B. 6S50MC-C8.2 SS 07/26\nSOPHIA K 55,612 2011 MITSUI 4 x 30 T, BWTS fitted DD 10/23 USD 22.9 M UAE BASED\nMAN B.",
+  "summary": "Main\nIn tankers this week, it has been reported that Pacific Carriers ordered two 50k dwt MR's at K Shipbuilding\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-07-29_clarksons-platou-hellas-snp-weekly-bulletin-29_report-29-07-2022_45899fec9b24.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2022-07-29_clarksons-platou-hellas-snp-weekly-bulletin-29_report-29-07-2022_45899fec9b24.pdf\n\n**SALE & PURCHASE**\n\n## Clarksons Hellas Weekly Bulletin29 July 2022\n\n# Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n|BONANZA YR|76,465|2006 TSUNEISHI|MAN B. 7S50MC-C8.1 BWTS fitted|SS 08/26 DD 09/24|USD 16.5 M|MIDDLE EASTERNS|\n|SOPHIA K|55,612|2011 MITSUI|MAN B. 6S50MC-C8.2 4 x 30 T, BWTS fitted|SS 07/26 DD 10/23|USD 22.9 M|UAE BASED|\n|CRETE TRADER|53,428|2009 SINOPACIFIC|MAN B.",
   "keywords": [
     "lng",
     "lpg",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2282,
-  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-07-29_clarksons-platou-hellas-snp-weekly-bulletin-29.html",
+  "token_count": 2375,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-07-29_clarksons-platou-hellas-snp-weekly-bulletin-29.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-29",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-07-29_clarksons-platou-hellas-snp-weekly-bulletin-29_report-29-07-2022_45899fec9b24.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-07-29_clarksons-platou-hellas-snp-weekly-bulletin-29_report-29-07-2022_45899fec9b24.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 29 July 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 7S50MC-C8.1 SS 08/26\nBONANZA YR 76,465 2006 TSUNEISHI BWTS fitted DD 09/24 USD 16.5 M MIDDLE EASTERNS\nMAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-07-29_clarksons-platou-hellas-snp-weekly-bulletin-29_report-29-07-2022_45899fec9b24.pdf\n\n**SALE & PURCHASE**\n\n## Clarksons Hellas Weekly Bulletin29 July 2022\n\n# Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n|BONANZA YR|76,465|2006 TSUNEISHI|MAN B. 7S50MC-C8.1 BWTS fitted|SS 08/26 DD 09/24|USD 16.5 M|MIDDLE EASTERNS|\n|SOPHIA K|55,612|2011 MITSUI|MAN B.",
       "keywords": [
         "lng",
         "lpg",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2197,
+      "token_count": 2290,
       "section_type": "linked_pdf",
       "children": []
     }

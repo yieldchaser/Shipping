@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2015_04_10_the_other_middle_east_exports__root",
+  "doc_id": "poten_tankers_no_date_poten_2015_04_10_the_other_middle_east_exports",
+  "parent_id": null,
+  "title": "The Other Middle East Exports",
+  "section_path": [
+    "The Other Middle East Exports"
+  ],
+  "section_path_text": "The Other Middle East Exports",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Product exports start to deliver on their promise\nMiddle Eastern oil powerhouse Saudi Arabia has been eyeing the product export markets for several years now. Exporting refined petroleum products in addition to crude oil is advantageous to OPEC members as refined products have a higher value and are not subject to the OPEC quota regime. However, while refining capacity in the Middle East, and Saudi Arabia in particular, has expanded significantly, domestic demand in these countries has also shown rapid growth.",
+  "keywords": [
+    "suezmax",
+    "meg",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "product",
+    "refinery",
+    "saudi",
+    "are",
+    "exports",
+    "arabia"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 726,
+  "source_path": "reports/poten/2015/poten_2015-04-10_the-other-middle-east-exports.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2015_04_10_the_other_middle_east_exports__s01_product_exports_start_to_deliver_on_their_promise",
+      "doc_id": "poten_tankers_no_date_poten_2015_04_10_the_other_middle_east_exports",
+      "parent_id": "poten_tankers_no_date_poten_2015_04_10_the_other_middle_east_exports__root",
+      "title": "Product exports start to deliver on their promise",
+      "section_path": [
+        "Product exports start to deliver on their promise"
+      ],
+      "section_path_text": "Product exports start to deliver on their promise",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Middle Eastern oil powerhouse Saudi Arabia has been eyeing the product export markets for several years now. Exporting refined petroleum products in addition to crude oil is advantageous to OPEC members as refined products have a higher value and are not subject to the OPEC quota regime.",
+      "keywords": [
+        "suezmax",
+        "meg",
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "product",
+        "refinery"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 717,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

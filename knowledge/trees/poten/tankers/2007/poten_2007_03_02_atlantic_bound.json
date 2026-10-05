@@ -1,0 +1,168 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_03_02_atlantic_bound__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_03_02_atlantic_bound",
+  "parent_id": null,
+  "title": "Atlantic Bound",
+  "section_path": [
+    "Atlantic Bound"
+  ],
+  "section_path_text": "Atlantic Bound",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Atlantic Bound\nA recent Wall Street Journal article indicated that US crude oil imports from Africa surpassed those of the Middle East in 2006, for the first time in over 20 years. The trend has been in place for the better part of the past 18 months. As recently as five years ago Middle East imports were substantially more than those from Africa.",
+  "keywords": [
+    "vlcc",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "africa",
+    "are",
+    "east",
+    "barrels",
+    "imports",
+    "level"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 556,
+  "source_path": "reports/poten/2007/poten_2007-03-02_atlantic-bound.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_03_02_atlantic_bound__s01_atlantic_bound",
+      "doc_id": "poten_tankers_no_date_poten_2007_03_02_atlantic_bound",
+      "parent_id": "poten_tankers_no_date_poten_2007_03_02_atlantic_bound__root",
+      "title": "Atlantic Bound",
+      "section_path": [
+        "Atlantic Bound"
+      ],
+      "section_path_text": "Atlantic Bound",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "A recent Wall Street Journal article indicated that US crude oil imports from Africa surpassed those of the Middle East in 2006, for the first time in over 20 years. The trend has been in place for the better part of the past 18 months.",
+      "keywords": [
+        "crude_oil",
+        "east",
+        "middle",
+        "import",
+        "africa.",
+        "barrels",
+        "imports",
+        "level"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 125,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_03_02_atlantic_bound__s02_middle_east_imports",
+      "doc_id": "poten_tankers_no_date_poten_2007_03_02_atlantic_bound",
+      "parent_id": "poten_tankers_no_date_poten_2007_03_02_atlantic_bound__root",
+      "title": "Middle East Imports",
+      "section_path": [
+        "Middle East Imports"
+      ],
+      "section_path_text": "Middle East Imports",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "africa",
+        "imports"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_03_02_atlantic_bound__s03_africa_is_in_the_med_too",
+      "doc_id": "poten_tankers_no_date_poten_2007_03_02_atlantic_bound",
+      "parent_id": "poten_tankers_no_date_poten_2007_03_02_atlantic_bound__root",
+      "title": "Africa is in the Med Too!",
+      "section_path": [
+        "Africa is in the Med Too!"
+      ],
+      "section_path_text": "Africa is in the Med Too!",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Interestingly, some of the largest contributors in Africa to this marked increase have not been West African players, but rather those with Mediterranean coastlines. Currently the largest exporter from these two regions is, not surprisingly, Saudi Arabia at a level of around 1.4 million barrels per day.",
+      "keywords": [
+        "west_africa",
+        "europe",
+        "largest",
+        "level",
+        "not",
+        "africa",
+        "african",
+        "algeria"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 92,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_03_02_atlantic_bound__s04_total_exports_to_us_in_thousand_barrels_per_day",
+      "doc_id": "poten_tankers_no_date_poten_2007_03_02_atlantic_bound",
+      "parent_id": "poten_tankers_no_date_poten_2007_03_02_atlantic_bound__root",
+      "title": "Total Exports to US in Thousand Barrels per Day",
+      "section_path": [
+        "Total Exports to US in Thousand Barrels per Day"
+      ],
+      "section_path_text": "Total Exports to US in Thousand Barrels per Day",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "2006 Average 2006 Peak Month Saudi Arabia 1,434 1,582 Algeria 356 522 Libya 68 110 Chad 94 126 As Libya and Algeria are subject to OPEC quotas, varying production levels can to be expected. In terms of an impact on tanker demand however, any incremental imports to the United States, no matter how small, generally have a positive impact on ton-mile demand.",
+      "keywords": [
+        "crude_oil",
+        "algeria",
+        "impact",
+        "libya",
+        "any",
+        "arabia",
+        "are",
+        "average"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 85,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_03_02_atlantic_bound__s05_more_please",
+      "doc_id": "poten_tankers_no_date_poten_2007_03_02_atlantic_bound",
+      "parent_id": "poten_tankers_no_date_poten_2007_03_02_atlantic_bound__root",
+      "title": "More Please",
+      "section_path": [
+        "More Please"
+      ],
+      "section_path_text": "More Please",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The exports from West and North Africa are in addition to the Arabian Gulf crude supplies that are already established in the market. With this in mind, demand for vessels in the Arabian Gulf will remain firm as demand in the Atlantic Basin increases.",
+      "keywords": [
+        "vlcc",
+        "atlantic",
+        "meg",
+        "west_africa",
+        "europe",
+        "are",
+        "arabian",
+        "basin"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 222,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

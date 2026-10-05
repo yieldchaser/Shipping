@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2024_02_02_do_you_want_coatings_with_that__root",
+  "doc_id": "poten_tankers_no_date_poten_2024_02_02_do_you_want_coatings_with_that",
+  "parent_id": null,
+  "title": "Do You Want Coatings With That",
+  "section_path": [
+    "Do You Want Coatings With That"
+  ],
+  "section_path_text": "Do You Want Coatings With That",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Aframax and LR2 tankers are sharing the limelight\nAfter the Russian invasion of Ukraine, the G7 imposed sanctions on the Russian oil industry. This led to significant trade disruptions as Europe stopped importing Russian crude and products and the regime in the Kremlin was forced to find alternative clients for their oil. Infrastructure limitations at Russia's export terminals, where VLCCs cannot load, have historically favored Aframaxes and (to a lesser extent) Suezmaxes.",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "are",
+    "clean",
+    "lr2s"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 991,
+  "source_path": "reports/poten/2024/poten_2024-02-02_do-you-want-coatings-with-that.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2024_02_02_do_you_want_coatings_with_that__s01_aframax_and_lr2_tankers_are_sharing_the_limelight",
+      "doc_id": "poten_tankers_no_date_poten_2024_02_02_do_you_want_coatings_with_that",
+      "parent_id": "poten_tankers_no_date_poten_2024_02_02_do_you_want_coatings_with_that__root",
+      "title": "Aframax and LR2 tankers are sharing the limelight",
+      "section_path": [
+        "Aframax and LR2 tankers are sharing the limelight"
+      ],
+      "section_path_text": "Aframax and LR2 tankers are sharing the limelight",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "After the Russian invasion of Ukraine, the G7 imposed sanctions on the Russian oil industry. This led to significant trade disruptions as Europe stopped importing Russian crude and products and the regime in the Kremlin was forced to find alternative clients for their oil.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "europe",
+        "india",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 977,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

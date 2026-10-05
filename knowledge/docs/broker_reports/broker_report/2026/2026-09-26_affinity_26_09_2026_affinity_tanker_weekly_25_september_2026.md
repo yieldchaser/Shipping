@@ -96,7 +96,7 @@ numeric_observations:
     the laycan
   unit: usd
   values:
-  - 47750.0
+  - 47.75
 - section: Market Report Content
   section_type: null
   source_line: replenished. TD20 was assessed around WS 490 on Monday before bottoming
@@ -225,7 +225,7 @@ numeric_observations:
   source_line: moved substantially, with USD 9.5 Mn on subs for a WCI-UKCONT via Bab-el-Mandeb
   unit: usd
   values:
-  - 9500.0
+  - 9.5
 - section: Market Report Content
   section_type: null
   source_line: agreed, USD 2 Mn above last done.
@@ -239,7 +239,7 @@ numeric_observations:
   unit: usd
   values:
   - 200000.0
-  - 6650.0
+  - 6.65
 - section: Market Report Content
   section_type: null
   source_line: LR1 owners have seen freight go from good to great without showing
@@ -275,15 +275,15 @@ numeric_observations:
     failed; still,
   unit: usd
   values:
-  - 6500.0
+  - 6.5
 - section: Market Report Content
   section_type: null
   source_line: market ideas now sit closer to USD 7.5 Mn for the same route, and USD
     8.25 Mn to
   unit: usd
   values:
-  - 7500.0
-  - 8250.0
+  - 7.5
+  - 8.25
 - section: Market Report Content
   section_type: null
   source_line: travel via Cape of Good Hope. One LR1 Duqm stem was covered by a Med-based
@@ -583,7 +583,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/affinity_26_09_2026_affinity_tanker_weekly_25_september_2026.md
+source_path: reports/broker_reports/2026/affinity/affinity_26_09_2026_affinity_tanker_weekly_25_september_2026.md
 source_stem: affinity_26_09_2026_affinity_tanker_weekly_25_september_2026
 source_url: https://www.hellenicshippingnews.com/affinity-tanker-weekly-25-september-2026/
 summary: 'Affinity Tanker Weekly, 25 September 2026

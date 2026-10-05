@@ -1,0 +1,164 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_09_02_katrina__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_09_02_katrina",
+  "parent_id": null,
+  "title": "KATRINA!",
+  "section_path": [
+    "KATRINA!"
+  ],
+  "section_path_text": "KATRINA!",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Hurricane Katrina's effect on New Orleans and surrounding areas has been likened to the 1906 San Francisco earthquake that essentially wiped out an entire city. Like Katrina's impact on New Orleans, much of the resulting damage to San Francisco was collateral in nature. The earthquake shattered buildings, but it also shattered manufactured gas and water pipelines.",
+  "keywords": [
+    "atlantic",
+    "europe",
+    "japan",
+    "crude_oil",
+    "products",
+    "gas",
+    "million",
+    "katrina",
+    "barrels",
+    "oil",
+    "bpd",
+    "but"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1332,
+  "source_path": "reports/poten/2005/poten_2005-09-02_katrina.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_09_02_katrina__s01_katrina",
+      "doc_id": "poten_tankers_no_date_poten_2005_09_02_katrina",
+      "parent_id": "poten_tankers_no_date_poten_2005_09_02_katrina__root",
+      "title": "KATRINA!",
+      "section_path": [
+        "KATRINA!"
+      ],
+      "section_path_text": "KATRINA!",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Hurricane Katrina's effect on New Orleans and surrounding areas has been likened to the 1906 San Francisco earthquake that essentially wiped out an entire city. Like Katrina's impact on New Orleans, much of the resulting damage to San Francisco was collateral in nature.",
+      "keywords": [
+        "atlantic",
+        "europe",
+        "japan",
+        "crude_oil",
+        "products",
+        "gas",
+        "million",
+        "barrels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 907,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_09_02_katrina__s02_tanker_market_implications",
+      "doc_id": "poten_tankers_no_date_poten_2005_09_02_katrina",
+      "parent_id": "poten_tankers_no_date_poten_2005_09_02_katrina__root",
+      "title": "Tanker Market Implications",
+      "section_path": [
+        "Tanker Market Implications"
+      ],
+      "section_path_text": "Tanker Market Implications",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "refineries is approximately 15.6 million bpd. Katrina has demobilized an estimated 2 million bpd of refinery output, or about 13% of the nation's capacity.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "million",
+        "bpd",
+        "capacity",
+        "crude",
+        "two"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 242,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_09_02_katrina__s03_product",
+      "doc_id": "poten_tankers_no_date_poten_2005_09_02_katrina",
+      "parent_id": "poten_tankers_no_date_poten_2005_09_02_katrina__root",
+      "title": "Product",
+      "section_path": [
+        "Product"
+      ],
+      "section_path_text": "Product",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_09_02_katrina__s04_rates_jumped",
+      "doc_id": "poten_tankers_no_date_poten_2005_09_02_katrina",
+      "parent_id": "poten_tankers_no_date_poten_2005_09_02_katrina__root",
+      "title": "Rates Jumped",
+      "section_path": [
+        "Rates Jumped"
+      ],
+      "section_path_text": "Rates Jumped",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "From a Lack of Available Tonnage Katrina Strikes!",
+      "keywords": [
+        "available",
+        "katrina",
+        "lack",
+        "strikes",
+        "tonnage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_09_02_katrina__s05_what_s_next",
+      "doc_id": "poten_tankers_no_date_poten_2005_09_02_katrina",
+      "parent_id": "poten_tankers_no_date_poten_2005_09_02_katrina__root",
+      "title": "What's Next?",
+      "section_path": [
+        "What's Next?"
+      ],
+      "section_path_text": "What's Next?",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The government's relaxing of regulations on clean product specifications will have a marginal impact. The reopening of the Colonial pipeline removes the rationale for granting Jones Act waivers.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "clean",
+        "government",
+        "product",
+        "supply",
+        "act"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 148,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

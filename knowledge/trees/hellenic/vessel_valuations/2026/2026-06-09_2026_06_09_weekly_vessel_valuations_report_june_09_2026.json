@@ -22,12 +22,12 @@
     "mil.",
     "sold",
     "value",
-    "dwt"
+    "asset"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 827,
-  "source_path": "corpus/02-hellenic/vessel_valuations/2026/2026-06-09_weekly-vessel-valuations-report-june-09-2026.html",
+  "token_count": 788,
+  "source_path": "reports/hellenic/vessel_valuations/2026/2026-06-09_weekly-vessel-valuations-report-june-09-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-june-09-2026",
   "children": [
     {
@@ -54,22 +54,22 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 459,
+      "token_count": 428,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_vessel_valuations_2026-06-09_2026_06_09_weekly_vessel_valuations_report_june_09_2026__s02_linked_asset_2026_06_09_weekly_vessel_valuations_report_june_09_2026_img1_9620250_328b3ee34caa_jpg",
+      "node_id": "hellenic_vessel_valuations_2026-06-09_2026_06_09_weekly_vessel_valuations_report_june_09_2026__s02_linked_asset_2026_06_09_weekly_vessel_valuations_report_june_09_2026_9620250_328b3ee34caa_jpg",
       "doc_id": "hellenic_vessel_valuations_2026-06-09_2026_06_09_weekly_vessel_valuations_report_june_09_2026",
       "parent_id": "hellenic_vessel_valuations_2026-06-09_2026_06_09_weekly_vessel_valuations_report_june_09_2026__root",
-      "title": "Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg",
+      "title": "Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_9620250_328b3ee34caa.jpg",
       "section_path": [
-        "Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg"
+        "Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_9620250_328b3ee34caa.jpg"
       ],
-      "section_path_text": "Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg",
+      "section_path_text": "Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_9620250_328b3ee34caa.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2026/assets/2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg\n\nLinked image asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg\n\nImage metadata: JPEG 600x279 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nQ VesselsValue\n09 June 2026 VV Mini Matrix « Weekly Change\nThaker Bolen Containers\n7 ee eee ee\nSo oS oy Se = & Bho = = =\n. ne -~ ns = CT ~~ \" CT 700 ase use see\nen ee ee Ce ee\n7 a - cd _ \" - ~ bad ase me ae.",
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-06-09_weekly-vessel-valuations-report-june-09-2026_9620250_328b3ee34caa.jpg\n\nLinked image asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_9620250_328b3ee34caa.jpg\n\nImage metadata: JPEG 600x279 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nQ VesselsValue\n09 June 2026 VV Mini Matrix « Weekly Change\nThaker Bolen Containers\n7 ee eee ee\nSo oS oy Se = & Bho = = =\n. ne -~ ns = CT ~~ \" CT 700 ase use see\nen ee ee Ce ee\n7 a - cd _ \" - ~ bad ase me ae.",
       "keywords": [
         "container",
         "ase",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 326,
+      "token_count": 320,
       "section_type": "linked_image_asset",
       "children": []
     }

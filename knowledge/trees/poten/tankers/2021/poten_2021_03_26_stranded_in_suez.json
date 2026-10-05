@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2021_03_26_stranded_in_suez__root",
+  "doc_id": "poten_tankers_no_date_poten_2021_03_26_stranded_in_suez",
+  "parent_id": null,
+  "title": "Stranded In Suez",
+  "section_path": [
+    "Stranded In Suez"
+  ],
+  "section_path_text": "Stranded In Suez",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "What will be the impact of the Suez Canal Closure? On Tuesday morning, March 23, the 20,388 TEU containership 'Ever Given' ran aground in the Suez Canal, blocking all traffic through the canal. So far, efforts to dislodge the vessel with tugs, have been in vain.",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "suezmax",
+    "container",
+    "china",
+    "atlantic",
+    "pacific",
+    "europe",
+    "india",
+    "crude_oil",
+    "canal",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 930,
+  "source_path": "reports/poten/2021/poten_2021-03-26_stranded-in-suez.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2021_03_26_stranded_in_suez__s01_what_will_be_the_impact_of_the_suez_canal_closure",
+      "doc_id": "poten_tankers_no_date_poten_2021_03_26_stranded_in_suez",
+      "parent_id": "poten_tankers_no_date_poten_2021_03_26_stranded_in_suez__root",
+      "title": "What will be the impact of the Suez Canal Closure?",
+      "section_path": [
+        "What will be the impact of the Suez Canal Closure?"
+      ],
+      "section_path_text": "What will be the impact of the Suez Canal Closure?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "On Tuesday morning, March 23, the 20,388 TEU containership 'Ever Given' ran aground in the Suez Canal, blocking all traffic through the canal. So far, efforts to dislodge the vessel with tugs, have been in vain.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "suezmax",
+        "container",
+        "china",
+        "atlantic",
+        "pacific",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 918,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

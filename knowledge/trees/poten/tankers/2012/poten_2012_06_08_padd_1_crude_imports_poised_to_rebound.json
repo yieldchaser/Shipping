@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2012_06_08_padd_1_crude_imports_poised_to_rebound__root",
+  "doc_id": "poten_tankers_no_date_poten_2012_06_08_padd_1_crude_imports_poised_to_rebound",
+  "parent_id": null,
+  "title": "PADD 1 Crude Imports Poised to Rebound",
+  "section_path": [
+    "PADD 1 Crude Imports Poised to Rebound"
+  ],
+  "section_path_text": "PADD 1 Crude Imports Poised to Rebound",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "PADD 1 Crude Imports Poised to Rebound\nAt first glance, crude oil import data for PADD 1 (representing the US East Coast) might suggest that volumes are in the midst of a steady decline that might continue for many more months. As the chart below shows, PADD 1 crude imports were near their 5-year lows in March, the most recent monthly data available. In fact, imports into this crucial bellwether of the US economy are down nearly 250 thousand barrels per day since summer 2010.",
+  "keywords": [
+    "suezmax",
+    "atlantic",
+    "west_africa",
+    "crude_oil",
+    "barrels",
+    "imports",
+    "padd",
+    "volumes",
+    "crude",
+    "per",
+    "west",
+    "africa"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 552,
+  "source_path": "reports/poten/2012/poten_2012-06-08_padd-1-crude-imports-poised-to-rebound.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_06_08_padd_1_crude_imports_poised_to_rebound__s01_padd_1_crude_imports_poised_to_rebound",
+      "doc_id": "poten_tankers_no_date_poten_2012_06_08_padd_1_crude_imports_poised_to_rebound",
+      "parent_id": "poten_tankers_no_date_poten_2012_06_08_padd_1_crude_imports_poised_to_rebound__root",
+      "title": "PADD 1 Crude Imports Poised to Rebound",
+      "section_path": [
+        "PADD 1 Crude Imports Poised to Rebound"
+      ],
+      "section_path_text": "PADD 1 Crude Imports Poised to Rebound",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "At first glance, crude oil import data for PADD 1 (representing the US East Coast) might suggest that volumes are in the midst of a steady decline that might continue for many more months. As the chart below shows, PADD 1 crude imports were near their 5-year lows in March, the most recent monthly data available.",
+      "keywords": [
+        "suezmax",
+        "atlantic",
+        "west_africa",
+        "crude_oil",
+        "barrels",
+        "volumes",
+        "imports",
+        "padd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 539,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

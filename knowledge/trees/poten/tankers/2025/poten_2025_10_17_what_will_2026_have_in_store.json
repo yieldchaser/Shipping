@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2025_10_17_what_will_2026_have_in_store__root",
+  "doc_id": "poten_tankers_no_date_poten_2025_10_17_what_will_2026_have_in_store",
+  "parent_id": null,
+  "title": "What Will 2026 Have In Store",
+  "section_path": [
+    "What Will 2026 Have In Store"
+  ],
+  "section_path_text": "What Will 2026 Have In Store",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "What will crude oil overproduction do to tanker rates? Global oil demand growth declined markedly in recent years after the strong recovery from the COVID depression. The International Energy Agency (IEA) estimates that global oil demand increased by 2.8 Million barrels per day (Mb/d) in 2022 and by 1.9 Mb/d in 2023 as the world recovered from the COVID slump.",
+  "keywords": [
+    "china",
+    "crude_oil",
+    "oil",
+    "mb/d",
+    "opec",
+    "demand",
+    "growth",
+    "production",
+    "supply",
+    "iea",
+    "eia",
+    "inventories"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 990,
+  "source_path": "reports/poten/2025/poten_2025-10-17_what-will-2026-have-in-store.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2025_10_17_what_will_2026_have_in_store__s01_what_will_crude_oil_overproduction_do_to_tanker_rates",
+      "doc_id": "poten_tankers_no_date_poten_2025_10_17_what_will_2026_have_in_store",
+      "parent_id": "poten_tankers_no_date_poten_2025_10_17_what_will_2026_have_in_store__root",
+      "title": "What will crude oil overproduction do to tanker rates?",
+      "section_path": [
+        "What will crude oil overproduction do to tanker rates?"
+      ],
+      "section_path_text": "What will crude oil overproduction do to tanker rates?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Global oil demand growth declined markedly in recent years after the strong recovery from the COVID depression. The International Energy Agency (IEA) estimates that global oil demand increased by 2.8 Million barrels per day (Mb/d) in 2022 and by 1.9 Mb/d in 2023 as the world recovered from the COVID slump.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "oil",
+        "mb/d",
+        "opec",
+        "demand",
+        "growth",
+        "production"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 979,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

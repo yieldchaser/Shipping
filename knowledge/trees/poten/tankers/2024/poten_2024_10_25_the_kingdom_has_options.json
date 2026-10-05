@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2024_10_25_the_kingdom_has_options__root",
+  "doc_id": "poten_tankers_no_date_poten_2024_10_25_the_kingdom_has_options",
+  "parent_id": null,
+  "title": "The Kingdom Has Options",
+  "section_path": [
+    "The Kingdom Has Options"
+  ],
+  "section_path_text": "The Kingdom Has Options",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Saudi Arabia is using alternative export outlets\nSaudi Arabia is the dominant player in the OPEC cartel. It has the highest export quota and the most spare capacity. That is why pundits always look at the Kingdon to try to determine where OPEC policy might be heading.",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "atlantic",
+    "meg",
+    "india",
+    "japan",
+    "crude_oil",
+    "products",
+    "saudi",
+    "oil",
+    "arabia"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 980,
+  "source_path": "reports/poten/2024/poten_2024-10-25_the-kingdom-has-options.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2024_10_25_the_kingdom_has_options__s01_saudi_arabia_is_using_alternative_export_outlets",
+      "doc_id": "poten_tankers_no_date_poten_2024_10_25_the_kingdom_has_options",
+      "parent_id": "poten_tankers_no_date_poten_2024_10_25_the_kingdom_has_options__root",
+      "title": "Saudi Arabia is using alternative export outlets",
+      "section_path": [
+        "Saudi Arabia is using alternative export outlets"
+      ],
+      "section_path_text": "Saudi Arabia is using alternative export outlets",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Saudi Arabia is the dominant player in the OPEC cartel. It has the highest export quota and the most spare capacity.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "atlantic",
+        "meg",
+        "india",
+        "japan",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 972,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

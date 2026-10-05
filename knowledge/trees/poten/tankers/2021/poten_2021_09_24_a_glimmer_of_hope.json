@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2021_09_24_a_glimmer_of_hope__root",
+  "doc_id": "poten_tankers_no_date_poten_2021_09_24_a_glimmer_of_hope",
+  "parent_id": null,
+  "title": "A Glimmer of Hope",
+  "section_path": [
+    "A Glimmer of Hope"
+  ],
+  "section_path_text": "A Glimmer of Hope",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Combination of factors could increase oil and tanker demand\nOver the long term, fundamental supply and demand factors, such as global oil demand and fleet size determine the direction of tanker freight rates. However, in the short- to medium term other factors, such as market psychology, geopolitics or weather events can have a significant impact on top of market fundamentals and seasonality. As we are approaching the 4 th quarter of 2021, it seems that the combination of gradually improving oil demand fundamentals, in combination with seasonal factors and the impact of adverse weather events could propel oil demand higher during the winter season in the Northern Hemisphere.",
+  "keywords": [
+    "lng",
+    "europe",
+    "japan",
+    "crude_oil",
+    "products",
+    "gas",
+    "oil",
+    "demand",
+    "are",
+    "could",
+    "global",
+    "mb/d"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 906,
+  "source_path": "reports/poten/2021/poten_2021-09-24_a-glimmer-of-hope.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2021_09_24_a_glimmer_of_hope__s01_combination_of_factors_could_increase_oil_and_tanker_demand",
+      "doc_id": "poten_tankers_no_date_poten_2021_09_24_a_glimmer_of_hope",
+      "parent_id": "poten_tankers_no_date_poten_2021_09_24_a_glimmer_of_hope__root",
+      "title": "Combination of factors could increase oil and tanker demand",
+      "section_path": [
+        "Combination of factors could increase oil and tanker demand"
+      ],
+      "section_path_text": "Combination of factors could increase oil and tanker demand",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Over the long term, fundamental supply and demand factors, such as global oil demand and fleet size determine the direction of tanker freight rates. However, in the short- to medium term other factors, such as market psychology, geopolitics or weather events can have a significant impact on top of market fundamentals and seasonality.",
+      "keywords": [
+        "lng",
+        "europe",
+        "japan",
+        "crude_oil",
+        "products",
+        "gas",
+        "oil",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 895,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

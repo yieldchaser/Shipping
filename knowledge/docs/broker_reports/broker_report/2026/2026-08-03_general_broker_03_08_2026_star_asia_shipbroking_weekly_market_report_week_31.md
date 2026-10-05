@@ -103,7 +103,7 @@ numeric_observations:
   source_line: while the Supramax index dropped 5.02% to 1,609 points.
   unit: pct
   values:
-  - 5020.0
+  - 5.02
   - 1609.0
 - section: Market Report Content
   section_type: null
@@ -204,7 +204,7 @@ numeric_observations:
   source_line: 'YoY: +36.40%'
   unit: pct
   values:
-  - 36400.0
+  - 36.4
 - section: Market Report Content
   section_type: null
   source_line: 'WoW: +0.26%'
@@ -216,7 +216,7 @@ numeric_observations:
   source_line: 'YoY: +32.63%'
   unit: pct
   values:
-  - 32630.000000000004
+  - 32.63
 - section: Market Report Content
   section_type: null
   source_line: 'WoW: +3.11%'
@@ -228,7 +228,7 @@ numeric_observations:
   source_line: 'YoY: +25.80%'
   unit: pct
   values:
-  - 25800.0
+  - 25.8
 - section: Market Report Content
   section_type: null
   source_line: 'WoW: -5.02%'
@@ -240,7 +240,7 @@ numeric_observations:
   source_line: 'YoY: +26.89%'
   unit: pct
   values:
-  - 26890.0
+  - 26.89
 - section: Market Report Content
   section_type: null
   source_line: 'WoW: -1.99%'
@@ -252,7 +252,7 @@ numeric_observations:
   source_line: 'YoY: +30.83%'
   unit: pct
   values:
-  - 30830.0
+  - 30.83
 - section: Market Report Content
   section_type: null
   source_line: CAPESIZE 180,000 $76M $82M $70M $55M (E) $35M
@@ -293,7 +293,7 @@ numeric_observations:
   values:
   - 178929.0
   - 2012.0
-  - 37500.0
+  - 37.5
 - section: Market Report Content
   section_type: null
   source_line: YARRA PMAX 78,184 2015 / JAPAN 28.5 CHINESE BUYERS
@@ -301,7 +301,7 @@ numeric_observations:
   values:
   - 78184.0
   - 2015.0
-  - 28500.0
+  - 28.5
 - section: Market Report Content
   section_type: null
   source_line: G.B CORRADO PMAX 77,062 2008 / JAPAN 15.0 S. KOREAN
@@ -309,7 +309,7 @@ numeric_observations:
   values:
   - 77062.0
   - 2008.0
-  - 15000.0
+  - 15.0
 - section: Market Report Content
   section_type: null
   source_line: IVESTOS 8 PMAX 75,239 2008 / CHINA 11.7 CHINESE BUYERS
@@ -318,7 +318,7 @@ numeric_observations:
   - 8.0
   - 75239.0
   - 2008.0
-  - 11700.0
+  - 11.7
 - section: Market Report Content
   section_type: null
   source_line: SEACON TOKYO PMAX 66,628 2023 / CHINA 41.6 OBE SHIPS
@@ -326,7 +326,7 @@ numeric_observations:
   values:
   - 66628.0
   - 2023.0
-  - 41600.0
+  - 41.6
 - section: Market Report Content
   section_type: null
   source_line: AMIS WISDOM VI UMAX 61,456 2011 / JAPAN 22.1 UNDISCLOSED
@@ -334,7 +334,7 @@ numeric_observations:
   values:
   - 61456.0
   - 2011.0
-  - 22100.0
+  - 22.1
 - section: Market Report Content
   section_type: null
   source_line: VENUS HALO SMAX 55,848 2012 / JAPAN 19.0 EACH UNDISCLOSED
@@ -342,7 +342,7 @@ numeric_observations:
   values:
   - 55848.0
   - 2012.0
-  - 19000.0
+  - 19.0
 - section: Market Report Content
   section_type: null
   source_line: CAPT EUGENE SMAX 55,499 2010 / JAPAN 16.8 CHINESE BUYERS
@@ -350,7 +350,7 @@ numeric_observations:
   values:
   - 55499.0
   - 2010.0
-  - 16800.0
+  - 16.8
 - section: Market Report Content
   section_type: null
   source_line: NIKOS N SMAX 53,815 2011 / CHINA 15.0 UNDISCLOSED
@@ -358,7 +358,7 @@ numeric_observations:
   values:
   - 53815.0
   - 2011.0
-  - 15000.0
+  - 15.0
 - section: Market Report Content
   section_type: null
   source_line: VIVA ECLIPSE SMAX 53,800 2009 / CHINA 11.8 CHINESE BUYERS
@@ -366,7 +366,7 @@ numeric_observations:
   values:
   - 53800.0
   - 2009.0
-  - 11800.0
+  - 11.8
 - section: Market Report Content
   section_type: null
   source_line: IKAN LANDUK HANDY 37,115 2013 / JAPAN 17.0 UNDISCLOSED
@@ -374,7 +374,7 @@ numeric_observations:
   values:
   - 37115.0
   - 2013.0
-  - 17000.0
+  - 17.0
 - section: Market Report Content
   section_type: null
   source_line: ATLANTIC NAVIGATOR II HANDY 30,345 2003 / CHINA 12.0 CHINESE BUYERS
@@ -382,7 +382,7 @@ numeric_observations:
   values:
   - 30345.0
   - 2003.0
-  - 12000.0
+  - 12.0
 - section: Market Report Content
   section_type: null
   source_line: LIBERATOR HANDY 28,414 2006 / JAPAN 6.7 UNDISCLOSED
@@ -390,7 +390,7 @@ numeric_observations:
   values:
   - 28414.0
   - 2006.0
-  - 6700.0
+  - 6.7
 - section: Market Report Content
   section_type: null
   source_line: snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 4
@@ -581,7 +581,7 @@ numeric_observations:
   source_line: 'WoW: +6.33%'
   unit: pct
   values:
-  - 6330.0
+  - 6.33
 - section: Market Report Content
   section_type: null
   source_line: 'YoY: +115.23%'
@@ -657,7 +657,7 @@ numeric_observations:
   values:
   - 109999.0
   - 2009.0
-  - 48000.0
+  - 48.0
 - section: Market Report Content
   section_type: null
   source_line: EVA HONGKONG VLCC 19,861 2017 / JAPAN 30.0 UNDISCLOSED
@@ -665,7 +665,7 @@ numeric_observations:
   values:
   - 19861.0
   - 2017.0
-  - 30000.0
+  - 30.0
 - section: Market Report Content
   section_type: null
   source_line: snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 7
@@ -789,7 +789,7 @@ numeric_observations:
   values:
   - 3752.0
   - 2007.0
-  - 38800.0
+  - 38.8
 - section: Market Report Content
   section_type: null
   source_line: snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 9
@@ -1037,7 +1037,7 @@ numeric_observations:
     high of 7.3% in June, powered by a
   unit: pct
   values:
-  - 7300.0
+  - 7.3
 regions:
 - china
 - atlantic

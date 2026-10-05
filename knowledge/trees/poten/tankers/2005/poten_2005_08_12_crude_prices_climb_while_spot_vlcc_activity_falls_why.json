@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_08_12_crude_prices_climb_while_spot_vlcc_activity_falls_why__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_08_12_crude_prices_climb_while_spot_vlcc_activity_falls_why",
+  "parent_id": null,
+  "title": "Crude Prices Climb While Spot VLCC Activity Falls Why?",
+  "section_path": [
+    "Crude Prices Climb While Spot VLCC Activity Falls Why?"
+  ],
+  "section_path_text": "Crude Prices Climb While Spot VLCC Activity Falls Why?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "According to the Associated Press and Reuters, the reasons for oil bouncing around $66 per barrel are: Ø World oil demand at peak levels with little spare capacity. Ø Worries over potential supply disruptions. Embassy and consulates in Saudi Arabia as a precaution against possible terrorist attacks.",
+  "keywords": [
+    "vlcc",
+    "meg",
+    "india",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "gas",
+    "oil",
+    "are",
+    "crude",
+    "activity",
+    "fixture"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 494,
+  "source_path": "reports/poten/2005/poten_2005-08-12_crude-prices-climb-while-spot-vlcc-activity-falls-why.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_08_12_crude_prices_climb_while_spot_vlcc_activity_falls_why__s01_why",
+      "doc_id": "poten_tankers_no_date_poten_2005_08_12_crude_prices_climb_while_spot_vlcc_activity_falls_why",
+      "parent_id": "poten_tankers_no_date_poten_2005_08_12_crude_prices_climb_while_spot_vlcc_activity_falls_why__root",
+      "title": "Why?",
+      "section_path": [
+        "Why?"
+      ],
+      "section_path_text": "Why?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "According to the Associated Press and Reuters, the reasons for oil bouncing around $66 per barrel are: Ø World oil demand at peak levels with little spare capacity. Ø Worries over potential supply disruptions.",
+      "keywords": [
+        "vlcc",
+        "india",
+        "us_gulf",
+        "crude_oil",
+        "products",
+        "gas",
+        "oil",
+        "refinery"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 268,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_08_12_crude_prices_climb_while_spot_vlcc_activity_falls_why__s02_arabian_gulf_monthly_vlcc_fixture_activity",
+      "doc_id": "poten_tankers_no_date_poten_2005_08_12_crude_prices_climb_while_spot_vlcc_activity_falls_why",
+      "parent_id": "poten_tankers_no_date_poten_2005_08_12_crude_prices_climb_while_spot_vlcc_activity_falls_why__root",
+      "title": "Arabian Gulf Monthly VLCC Fixture Activity",
+      "section_path": [
+        "Arabian Gulf Monthly VLCC Fixture Activity"
+      ],
+      "section_path_text": "Arabian Gulf Monthly VLCC Fixture Activity",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The following chart shows that crude inventories are at record levels since 2000 and gasoline inventories are certainly in line with past levels.",
+      "keywords": [
+        "products",
+        "gas",
+        "are",
+        "inventories",
+        "certainly",
+        "chart",
+        "crude",
+        "following"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 37,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_08_12_crude_prices_climb_while_spot_vlcc_activity_falls_why__s03_crude",
+      "doc_id": "poten_tankers_no_date_poten_2005_08_12_crude_prices_climb_while_spot_vlcc_activity_falls_why",
+      "parent_id": "poten_tankers_no_date_poten_2005_08_12_crude_prices_climb_while_spot_vlcc_activity_falls_why__root",
+      "title": "Crude",
+      "section_path": [
+        "Crude"
+      ],
+      "section_path_text": "Crude",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Gasoline 2000 2001 2002 2003 2004 2005 Current 0 Maybe We Are Looking in the Wrong Place Maybe the responsibility of high crude oil prices lies with hedge funds loading up on crude oil futures, which cause near-term crude future prices to jump. This then becomes the new marker for OPEC cash sales.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "oil",
+        "crude",
+        "prices",
+        "then",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 174,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

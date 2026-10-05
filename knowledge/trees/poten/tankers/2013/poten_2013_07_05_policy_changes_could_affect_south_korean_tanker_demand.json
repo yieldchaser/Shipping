@@ -1,0 +1,226 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2013_07_05_policy_changes_could_affect_south_korean_tanker_demand__root",
+  "doc_id": "poten_tankers_no_date_poten_2013_07_05_policy_changes_could_affect_south_korean_tanker_demand",
+  "parent_id": null,
+  "title": "Policy Changes Could Affect South Korean Tanker Demand",
+  "section_path": [
+    "Policy Changes Could Affect South Korean Tanker Demand"
+  ],
+  "section_path_text": "Policy Changes Could Affect South Korean Tanker Demand",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Policy Changes Could Affect South Korean Tanker Demand\nEffective July 1 st , South Korea, the fifth largest buyer of crude cargoes in the world, confirmed the elimination of tax rebates on refined product exports sourced from countries with which they shared a free-trade agreement (FTA). While this move will likely negatively impact the amount of crude oil South Korea imports from the North Sea, it should not be too detrimental to the South Korean demand for tankers as a whole due to the relatively small market share of North Sea crude. And although this policy change will dampen tanker movement from the North Sea to South Korea, another newly implemented policy favoring non-Middle Eastern crude oil could balance out or even overtake the demand negatives associated with the change.",
+  "keywords": [
+    "vlcc",
+    "brazil",
+    "europe",
+    "crude_oil",
+    "south",
+    "crude",
+    "korea",
+    "demand",
+    "imports",
+    "north",
+    "oil",
+    "sea"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 919,
+  "source_path": "reports/poten/2013/poten_2013-07-05_policy-changes-could-affect-south-korean-tanker-demand.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_07_05_policy_changes_could_affect_south_korean_tanker_demand__s01_policy_changes_could_affect_south_korean_tanker_demand",
+      "doc_id": "poten_tankers_no_date_poten_2013_07_05_policy_changes_could_affect_south_korean_tanker_demand",
+      "parent_id": "poten_tankers_no_date_poten_2013_07_05_policy_changes_could_affect_south_korean_tanker_demand__root",
+      "title": "Policy Changes Could Affect South Korean Tanker Demand",
+      "section_path": [
+        "Policy Changes Could Affect South Korean Tanker Demand"
+      ],
+      "section_path_text": "Policy Changes Could Affect South Korean Tanker Demand",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Effective July 1 st , South Korea, the fifth largest buyer of crude cargoes in the world, confirmed the elimination of tax rebates on refined product exports sourced from countries with which they shared a free-trade agreement (FTA). While this move will likely negatively impact the amount of crude oil South Korea imports from the North Sea, it should not be too detrimental to the South Korean demand for tankers as a whole due to the relatively small market share of North Sea crude.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "south",
+        "crude",
+        "eastern",
+        "korea",
+        "non-middle",
+        "north"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 250,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_07_05_policy_changes_could_affect_south_korean_tanker_demand__s02_south_korea_wants_to",
+      "doc_id": "poten_tankers_no_date_poten_2013_07_05_policy_changes_could_affect_south_korean_tanker_demand",
+      "parent_id": "poten_tankers_no_date_poten_2013_07_05_policy_changes_could_affect_south_korean_tanker_demand__root",
+      "title": "South Korea wants to",
+      "section_path": [
+        "South Korea wants to"
+      ],
+      "section_path_text": "South Korea wants to",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "reduce dependence on Middle Eastern crude oil In terms of the effect that these policy changes have had on tanker demand en route to South Korea, the number of fixtures from the North Sea to South Korea is expected to decrease as shipments will be halved from 110,000 to 55,000 bpd, according to estimates by analysts JBC Energy GmbH. This change is equivalent to about 2.5 VLCCs' worth of demand.",
+      "keywords": [
+        "vlcc",
+        "brazil",
+        "crude_oil",
+        "crude",
+        "korea",
+        "oil",
+        "south",
+        "according"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 155,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_07_05_policy_changes_could_affect_south_korean_tanker_demand__s03_policy_changes_could",
+      "doc_id": "poten_tankers_no_date_poten_2013_07_05_policy_changes_could_affect_south_korean_tanker_demand",
+      "parent_id": "poten_tankers_no_date_poten_2013_07_05_policy_changes_could_affect_south_korean_tanker_demand__root",
+      "title": "Policy changes could",
+      "section_path": [
+        "Policy changes could"
+      ],
+      "section_path_text": "Policy changes could",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "decrease VLCC movement from the North Sea to South Korea",
+      "keywords": [
+        "vlcc",
+        "decrease",
+        "korea",
+        "movement",
+        "north",
+        "sea",
+        "south"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 12,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_07_05_policy_changes_could_affect_south_korean_tanker_demand__s04_vlcc_spot_fixture",
+      "doc_id": "poten_tankers_no_date_poten_2013_07_05_policy_changes_could_affect_south_korean_tanker_demand",
+      "parent_id": "poten_tankers_no_date_poten_2013_07_05_policy_changes_could_affect_south_korean_tanker_demand__root",
+      "title": "VLCC spot fixture",
+      "section_path": [
+        "VLCC spot fixture"
+      ],
+      "section_path_text": "VLCC spot fixture",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "movement to South Korea has had a steady upward trend since January 2011 In addition, global scrutiny of Iran's nuclear program, led by the United States, has resulted in South Korea's pledge to reduce its crude imports from Iran by 15% over the next six months, which is in addition to the 20% drop that took place from December 2012 to May 2013. Overall, the cuts should reduce Iranian imports from around 185,000 bpd to 126,000 bpd, a 32% reduction over the course of a year, according to Reuters.",
+      "keywords": [
+        "imports",
+        "south",
+        "addition",
+        "bpd",
+        "crude",
+        "iran",
+        "iranian",
+        "korea"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 149,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_07_05_policy_changes_could_affect_south_korean_tanker_demand__s05_forced_reduction_of",
+      "doc_id": "poten_tankers_no_date_poten_2013_07_05_policy_changes_could_affect_south_korean_tanker_demand",
+      "parent_id": "poten_tankers_no_date_poten_2013_07_05_policy_changes_could_affect_south_korean_tanker_demand__root",
+      "title": "Forced reduction of",
+      "section_path": [
+        "Forced reduction of"
+      ],
+      "section_path_text": "Forced reduction of",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Iranian crude imports could shift South Korean crude demand back to the North Sea The changes to South Korean imports could result in the short-term weakening of tanker demand as refiners shift the sources of their crude oil. Despite potential short-term reduction of imports from the North Sea and Iran, South Korea still plans to add roughly 100 kbd of refining capacity over the next few years.",
+      "keywords": [
+        "crude_oil",
+        "crude",
+        "imports",
+        "south",
+        "demand",
+        "korean",
+        "capacity",
+        "could"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 133,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_07_05_policy_changes_could_affect_south_korean_tanker_demand__s06_south_korea_continues",
+      "doc_id": "poten_tankers_no_date_poten_2013_07_05_policy_changes_could_affect_south_korean_tanker_demand",
+      "parent_id": "poten_tankers_no_date_poten_2013_07_05_policy_changes_could_affect_south_korean_tanker_demand__root",
+      "title": "South Korea continues",
+      "section_path": [
+        "South Korea continues"
+      ],
+      "section_path_text": "South Korea continues",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "to add refinery capacity South Korea's additional refining capacity is scheduled to outpace refined product demand growth, which has hovered between 2.1 and 2.3 mbd for the last decade. In fact, increasing energy efficiency standards and a declining population could result in a downward trend for South Korean product demand, according to the EIA.",
+      "keywords": [
+        "crude_oil",
+        "demand",
+        "south",
+        "korea",
+        "capacity",
+        "crude",
+        "product",
+        "could"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 173,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_07_05_policy_changes_could_affect_south_korean_tanker_demand__s07_market_forces_could",
+      "doc_id": "poten_tankers_no_date_poten_2013_07_05_policy_changes_could_affect_south_korean_tanker_demand",
+      "parent_id": "poten_tankers_no_date_poten_2013_07_05_policy_changes_could_affect_south_korean_tanker_demand__root",
+      "title": "Market forces could",
+      "section_path": [
+        "Market forces could"
+      ],
+      "section_path_text": "Market forces could",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "overwhelm negative impacts of policy shift",
+      "keywords": [
+        "impacts",
+        "negative",
+        "overwhelm",
+        "policy",
+        "shift"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

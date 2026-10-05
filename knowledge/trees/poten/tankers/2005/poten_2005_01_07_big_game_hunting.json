@@ -1,0 +1,258 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_01_07_big_game_hunting__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_01_07_big_game_hunting",
+  "parent_id": null,
+  "title": "Big Game Hunting",
+  "section_path": [
+    "Big Game Hunting"
+  ],
+  "section_path_text": "Big Game Hunting",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Big Game Hunting\nNow that the year has closed on the strongest tanker market in a generation, the time has come to reflect upon those charterers who helped make it so. We know from reviewing past years activity that about 25% of the charterers account for about 80% of the activity. Excluding failed fixtures (a surprising 20% of activity) the Poten Spot Fixture Database recorded 10,491 fixtures.",
+  "keywords": [
+    "panamax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "brazil",
+    "india",
+    "crude_oil",
+    "charterers",
+    "fixtures",
+    "oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1345,
+  "source_path": "reports/poten/2005/poten_2005-01-07_big-game-hunting.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_01_07_big_game_hunting__s01_big_game_hunting",
+      "doc_id": "poten_tankers_no_date_poten_2005_01_07_big_game_hunting",
+      "parent_id": "poten_tankers_no_date_poten_2005_01_07_big_game_hunting__root",
+      "title": "Big Game Hunting",
+      "section_path": [
+        "Big Game Hunting"
+      ],
+      "section_path_text": "Big Game Hunting",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Now that the year has closed on the strongest tanker market in a generation, the time has come to reflect upon those charterers who helped make it so. We know from reviewing past years activity that about 25% of the charterers account for about 80% of the activity.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "fixtures",
+        "activity",
+        "charterers",
+        "equal",
+        "account"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 152,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_01_07_big_game_hunting__s02_reflecting_decreased_trading_opportunities_due_to_eu_regulations_on_the",
+      "doc_id": "poten_tankers_no_date_poten_2005_01_07_big_game_hunting",
+      "parent_id": "poten_tankers_no_date_poten_2005_01_07_big_game_hunting__root",
+      "title": "Reflecting decreased trading opportunities due to EU regulations on the",
+      "section_path": [
+        "Reflecting decreased trading opportunities due to EU regulations on the"
+      ],
+      "section_path_text": "Reflecting decreased trading opportunities due to EU regulations on the",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "carriage of fuel oil, the Panamax sector fixtures declined from 1,235 to 975 for 2004; Dirty Handymax fixtures were up in 2004 by about 100 fixtures to 428 as the above noted Panamax cargoes generally went on these smaller size vessels.",
+      "keywords": [
+        "panamax",
+        "handysize",
+        "crude_oil",
+        "fixtures",
+        "above",
+        "cargoes",
+        "carriage",
+        "declined"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 59,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_01_07_big_game_hunting__s03_who_s_the_biggest_charterer",
+      "doc_id": "poten_tankers_no_date_poten_2005_01_07_big_game_hunting",
+      "parent_id": "poten_tankers_no_date_poten_2005_01_07_big_game_hunting__root",
+      "title": "Who's the Biggest Charterer?",
+      "section_path": [
+        "Who's the Biggest Charterer?"
+      ],
+      "section_path_text": "Who's the Biggest Charterer?",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "As in the past, Shell maintains the top ranking as the largest spot charterer of crude oil and fuel oil vessels. A total of 235 different charterers fixed at least one ship, but as noted below, the top 20 companies account for just over 50% of the activity.",
+      "keywords": [
+        "suezmax",
+        "aframax",
+        "china",
+        "brazil",
+        "india",
+        "crude_oil",
+        "oil",
+        "fixtures"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 660,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_01_07_big_game_hunting__s04_2004_vessels_by_fixture_type",
+      "doc_id": "poten_tankers_no_date_poten_2005_01_07_big_game_hunting",
+      "parent_id": "poten_tankers_no_date_poten_2005_01_07_big_game_hunting__root",
+      "title": "2004 Vessels by Fixture Type",
+      "section_path": [
+        "2004 Vessels by Fixture Type"
+      ],
+      "section_path_text": "2004 Vessels by Fixture Type",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "VLCC charterers - Major Oil Companies and Governments Lead With 1889 fixtures the VLCC spot market lagged the Suezmaxes by 10% even though the fleet is significantly larger - mainly due to the long AG-USG voyages that employ the big ships for months at a time. ExxonMobil and Shell lead the pack as usual though 5 of the Top 10 charterers are now Far Eastern or South Asian companies.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "crude_oil",
+        "charterers",
+        "fixtures",
+        "lead",
+        "though",
+        "top"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 99,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_01_07_big_game_hunting__s05_s_oil",
+      "doc_id": "poten_tankers_no_date_poten_2005_01_07_big_game_hunting",
+      "parent_id": "poten_tankers_no_date_poten_2005_01_07_big_game_hunting__root",
+      "title": "S Oil",
+      "section_path": [
+        "S Oil"
+      ],
+      "section_path_text": "S Oil",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Suezmax charterers - an elite club Of the top 25 charterers in 2004 all took at least 5 Suezmaxes on the spot market. However, the top 10 charterers made up 50% of the activity - a select few.",
+      "keywords": [
+        "suezmax",
+        "china",
+        "crude_oil",
+        "charterers",
+        "top",
+        "activity",
+        "all",
+        "chart"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 109,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_01_07_big_game_hunting__s06_chinaoil",
+      "doc_id": "poten_tankers_no_date_poten_2005_01_07_big_game_hunting",
+      "parent_id": "poten_tankers_no_date_poten_2005_01_07_big_game_hunting__root",
+      "title": "Chinaoil",
+      "section_path": [
+        "Chinaoil"
+      ],
+      "section_path_text": "Chinaoil",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Aframaxes - Most Active in the Spot Market The Aframax market maintained its place as the most active spot tanker segment. Shell also holds a huge lead in this segment over their closest competitor - Total with BP coming in a close third.",
+      "keywords": [
+        "aframax",
+        "active",
+        "aframaxes",
+        "charterers",
+        "close",
+        "closest",
+        "coming",
+        "competitor"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 68,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_01_07_big_game_hunting__s07_petroval",
+      "doc_id": "poten_tankers_no_date_poten_2005_01_07_big_game_hunting",
+      "parent_id": "poten_tankers_no_date_poten_2005_01_07_big_game_hunting__root",
+      "title": "Petroval",
+      "section_path": [
+        "Petroval"
+      ],
+      "section_path_text": "Petroval",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Panamaxes - Tools of the Trader Panamaxes primarily transport fuel oil - leading to the preponderance of trading companies in the top ten for this vessel segment. Don't rule out some of the majors though with Shell, BP, ChevronTexaco and ConocoPhillips all present in our top 10.",
+      "keywords": [
+        "panamax",
+        "crude_oil",
+        "panamaxes",
+        "top",
+        "all",
+        "chevrontexaco",
+        "companies",
+        "conocophillips"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 64,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_01_07_big_game_hunting__s08_adam",
+      "doc_id": "poten_tankers_no_date_poten_2005_01_07_big_game_hunting",
+      "parent_id": "poten_tankers_no_date_poten_2005_01_07_big_game_hunting__root",
+      "title": "Adam",
+      "section_path": [
+        "Adam"
+      ],
+      "section_path_text": "Adam",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Much the Same as Last Year 2004 saw record tanker rates and fixing activity in the spot market just like 2003. In addition, the main charterers have remained the same with the major integrated oil companies leading the way as usual.",
+      "keywords": [
+        "crude_oil",
+        "same",
+        "biggest",
+        "just",
+        "year",
+        "activity",
+        "addition",
+        "another"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 89,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

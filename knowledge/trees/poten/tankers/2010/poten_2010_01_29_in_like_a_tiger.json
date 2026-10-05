@@ -1,0 +1,274 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_01_29_in_like_a_tiger__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_01_29_in_like_a_tiger",
+  "parent_id": null,
+  "title": "In Like A Tiger...",
+  "section_path": [
+    "In Like A Tiger..."
+  ],
+  "section_path_text": "In Like A Tiger...",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "In the opening of 2010, the freight market has acted like a tiger as the freight rates have surged across the board. Just a year ago, market fundamentals seemed far bleaker while tanker freight rates were hanging on, waiting for the proverbial \"other shoe to drop.\" A year ago, Poten & Partners conducted an open survey on the tanker and oil markets ( In the Year of the Ox , January 23, 2009) to gather popular opinions on the upcoming year. At that time, expectations of mergers, acquisitions, and volatility were common themes.",
+  "keywords": [
+    "vlcc",
+    "meg",
+    "us_gulf",
+    "crude_oil",
+    "per",
+    "would",
+    "oil",
+    "year",
+    "price",
+    "prices",
+    "was",
+    "when"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1090,
+  "source_path": "reports/poten/2010/poten_2010-01-29_in-like-a-tiger.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_01_29_in_like_a_tiger__s01_in_like_a_tiger",
+      "doc_id": "poten_tankers_no_date_poten_2010_01_29_in_like_a_tiger",
+      "parent_id": "poten_tankers_no_date_poten_2010_01_29_in_like_a_tiger__root",
+      "title": "In Like A Tiger...",
+      "section_path": [
+        "In Like A Tiger..."
+      ],
+      "section_path_text": "In Like A Tiger...",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In the opening of 2010, the freight market has acted like a tiger as the freight rates have surged across the board. Just a year ago, market fundamentals seemed far bleaker while tanker freight rates were hanging on, waiting for the proverbial \"other shoe to drop.\" A year ago, Poten & Partners conducted an open survey on the tanker and oil markets ( In the Year of the Ox , January 23, 2009) to gather popular opinions on the upcoming year.",
+      "keywords": [
+        "crude_oil",
+        "year",
+        "ago",
+        "seemed",
+        "acquisitions",
+        "acted",
+        "bleaker",
+        "board."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 143,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_01_29_in_like_a_tiger__s02_economics_and_banking",
+      "doc_id": "poten_tankers_no_date_poten_2010_01_29_in_like_a_tiger",
+      "parent_id": "poten_tankers_no_date_poten_2010_01_29_in_like_a_tiger__root",
+      "title": "Economics and Banking",
+      "section_path": [
+        "Economics and Banking"
+      ],
+      "section_path_text": "Economics and Banking",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The vast majority of replies to the survey believed that a recovery in the US economy would take a year or more, with 46% believing economic improvement would take a year and 32% thinking it would take at least two. Economic improvement can hinge on many factors, but by using the Dow Jones Industrial average as one initial indicator of confidence there has been some improvement.",
+      "keywords": [
+        "improvement",
+        "take",
+        "was",
+        "would",
+        "bank",
+        "economic",
+        "economy",
+        "investment"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 235,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_01_29_in_like_a_tiger__s03_crude_oil_demand_and_price",
+      "doc_id": "poten_tankers_no_date_poten_2010_01_29_in_like_a_tiger",
+      "parent_id": "poten_tankers_no_date_poten_2010_01_29_in_like_a_tiger__root",
+      "title": "Crude Oil Demand and Price",
+      "section_path": [
+        "Crude Oil Demand and Price"
+      ],
+      "section_path_text": "Crude Oil Demand and Price",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "When polled about expectations on whether crude oil demand would remain flat, increase or decrease, respondents were evenly divided amongst the three. Based on the latest market report, the year‐on‐year increase in first quarter 2010 worldwide crude oil consumption is estimated to be 1.65 million barrels per day, or about 2%, according to the IEA.",
+      "keywords": [
+        "crude_oil",
+        "per",
+        "oil",
+        "barrel",
+        "crude",
+        "barrel.",
+        "hit",
+        "price"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 180,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_01_29_in_like_a_tiger__s04_major_mergers_and_freight_rates",
+      "doc_id": "poten_tankers_no_date_poten_2010_01_29_in_like_a_tiger",
+      "parent_id": "poten_tankers_no_date_poten_2010_01_29_in_like_a_tiger__root",
+      "title": "Major Mergers and Freight Rates",
+      "section_path": [
+        "Major Mergers and Freight Rates"
+      ],
+      "section_path_text": "Major Mergers and Freight Rates",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "When asked whether VLCC freight rates would average $75,000 per day, $50,000 per day or $20,000 per day, 73% of people replied $50,000 per day. The chart below shows the spot market rates for Arabian Gulf to Far East and the US Gulf.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "us_gulf",
+        "per",
+        "day",
+        "below",
+        "arabian",
+        "asked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 69,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_01_29_in_like_a_tiger__s05_average_earnings_day",
+      "doc_id": "poten_tankers_no_date_poten_2010_01_29_in_like_a_tiger",
+      "parent_id": "poten_tankers_no_date_poten_2010_01_29_in_like_a_tiger__root",
+      "title": "Average Earnings ($/day)",
+      "section_path": [
+        "Average Earnings ($/day)"
+      ],
+      "section_path_text": "Average Earnings ($/day)",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "AG ‐ FE (260kt): $26,029 AG ‐ LOOP (280kt): $14,184 Top Answer: $50,000",
+      "keywords": [
+        "answer",
+        "loop",
+        "top"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 31,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_01_29_in_like_a_tiger__s06_ag_fe_260kt",
+      "doc_id": "poten_tankers_no_date_poten_2010_01_29_in_like_a_tiger",
+      "parent_id": "poten_tankers_no_date_poten_2010_01_29_in_like_a_tiger__root",
+      "title": "AG ‐ FE (260kt)",
+      "section_path": [
+        "AG ‐ FE (260kt)"
+      ],
+      "section_path_text": "AG ‐ FE (260kt)",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "",
+      "keywords": [
+        "loop"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_01_29_in_like_a_tiger__s07_73_answered",
+      "doc_id": "poten_tankers_no_date_poten_2010_01_29_in_like_a_tiger",
+      "parent_id": "poten_tankers_no_date_poten_2010_01_29_in_like_a_tiger__root",
+      "title": "73% Answered",
+      "section_path": [
+        "73% Answered"
+      ],
+      "section_path_text": "73% Answered",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "When asked about whether the first merger would take place amongst tanker companies or major oil companies, 66% of people expected tanker companies to converge. Although many expected consolidation in 2009, the market did not produce any major mergers.",
+      "keywords": [
+        "crude_oil",
+        "companies",
+        "expected",
+        "major",
+        "although",
+        "amongst",
+        "any",
+        "asked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 48,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_01_29_in_like_a_tiger__s08_asset_prices_and_newbuildings",
+      "doc_id": "poten_tankers_no_date_poten_2010_01_29_in_like_a_tiger",
+      "parent_id": "poten_tankers_no_date_poten_2010_01_29_in_like_a_tiger__root",
+      "title": "Asset Prices and Newbuildings",
+      "section_path": [
+        "Asset Prices and Newbuildings"
+      ],
+      "section_path_text": "Asset Prices and Newbuildings",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "The relative values in the asset markets have continued to leave many waiting for the flurry of activity on the back of strained financial conditions within companies. While the secondhand sale and purchase market seems to have seen its share of transactions, the newbuilding market has continued to remain quiet, with the notable exception of a few national oil company orders having been placed.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "newbuilding",
+        "asset",
+        "continued",
+        "million",
+        "prices",
+        "replies"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 193,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_01_29_in_like_a_tiger__s09_out_like_a_lamb",
+      "doc_id": "poten_tankers_no_date_poten_2010_01_29_in_like_a_tiger",
+      "parent_id": "poten_tankers_no_date_poten_2010_01_29_in_like_a_tiger__root",
+      "title": "...Out like a lamb?",
+      "section_path": [
+        "...Out like a lamb?"
+      ],
+      "section_path_text": "...Out like a lamb?",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "With some of the expected events having yet‐to‐materialize by the end of 2009, does that mean 2010 is poised for some shakeups? Perhaps the short‐term upward price pressure on assets will convince the market that the bottom has passed, spurring some interest in shipping assets, or companies on the whole, and also create some opportunities for mergers, acquisitions or newbuilding orders.",
+      "keywords": [
+        "assets",
+        "still",
+        "acquisitions",
+        "any",
+        "available",
+        "banks",
+        "bottom",
+        "challenge"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 124,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

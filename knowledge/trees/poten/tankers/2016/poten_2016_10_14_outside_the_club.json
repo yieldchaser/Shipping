@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2016_10_14_outside_the_club__root",
+  "doc_id": "poten_tankers_no_date_poten_2016_10_14_outside_the_club",
+  "parent_id": null,
+  "title": "Outside the Club",
+  "section_path": [
+    "Outside the Club"
+  ],
+  "section_path_text": "Outside the Club",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Non-OPEC crude oil production developments\nOutside the Club Fig. 1: Change in Crude Oil Production Over the last couple of weeks, the focus of the energy world has shifted back to OPEC after Non-OPEC stole the limelight for a number of years. The International Energy Agency (IEA) estimates that 2016 total Non-OPEC crude oil production will amount to 52.0 Million barrels per day (Mb/d), down from a peak of 53.5 Mb/d in Q4 2015 and about 62% of global crude oil supply.",
+  "keywords": [
+    "china",
+    "brazil",
+    "crude_oil",
+    "gas",
+    "production",
+    "oil",
+    "mb/d",
+    "crude",
+    "non-opec",
+    "u.s.",
+    "opec",
+    "prices"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 898,
+  "source_path": "reports/poten/2016/poten_2016-10-14_outside-the-club.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_10_14_outside_the_club__s01_non_opec_crude_oil_production_developments",
+      "doc_id": "poten_tankers_no_date_poten_2016_10_14_outside_the_club",
+      "parent_id": "poten_tankers_no_date_poten_2016_10_14_outside_the_club__root",
+      "title": "Non-OPEC crude oil production developments",
+      "section_path": [
+        "Non-OPEC crude oil production developments"
+      ],
+      "section_path_text": "Non-OPEC crude oil production developments",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "1: Change in Crude Oil Production Over the last couple of weeks, the focus of the energy world has shifted back to OPEC after Non-OPEC stole the limelight for a number of years. The International Energy Agency (IEA) estimates that 2016 total Non-OPEC crude oil production will amount to 52.0 Million barrels per day (Mb/d), down from a peak of 53.5 Mb/d in Q4 2015 and about 62% of global crude oil supply.",
+      "keywords": [
+        "china",
+        "brazil",
+        "crude_oil",
+        "gas",
+        "production",
+        "oil",
+        "mb/d",
+        "u.s."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 890,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

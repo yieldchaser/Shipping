@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2661,
-  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-03-07_clarksons-platou-hellas-snp-weekly-bulletin-124.html",
+  "token_count": 2711,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-03-07_clarksons-platou-hellas-snp-weekly-bulletin-124.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-124",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-03-07_clarksons-platou-hellas-snp-weekly-bulletin-124_weekly-sales-06th-mar-2026_a723773b6d2c.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-03-07_clarksons-platou-hellas-snp-weekly-bulletin-124_weekly-sales-06th-mar-2026_a723773b6d2c.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nAsset prices, particularly in the Tanker sector, have seen a remarkable upswing following the sharp spike\nin freight rates triggered by the developments in the Middle East.",
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-03-07_clarksons-platou-hellas-snp-weekly-bulletin-124_weekly-sales-06th-mar-2026_a723773b6d2c.pdf\n\n### Clarkson Hellas Ltd. # Desk Talk\n\nAsset prices, particularly in the Tanker sector, have seen a remarkable upswing following the sharp spike in freight rates triggered by the developments in the Middle East.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2076,
+      "token_count": 2126,
       "section_type": "linked_pdf",
       "children": []
     }

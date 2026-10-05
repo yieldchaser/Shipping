@@ -1,0 +1,209 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2004_07_30_from_yukos_with_love__root",
+  "doc_id": "poten_tankers_no_date_poten_2004_07_30_from_yukos_with_love",
+  "parent_id": null,
+  "title": "From Yukos With Love",
+  "section_path": [
+    "From Yukos With Love"
+  ],
+  "section_path_text": "From Yukos With Love",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "From Yukos With Love\nRussia's near stoppage this week of 1.8 million bpd of oil production caused a slight panic in the oil market. Crude oil futures rose to a 21-year high of $43 dollars per barrel yesterday on the Russian government's announcement that it had curtailed Yukos, the country's largest oil producer, from producing and selling oil. Press reports said the Russian Government would not let the company operate because it owed huge amounts of money in back taxes.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "oil",
+    "would",
+    "crude",
+    "sea",
+    "black",
+    "per"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1112,
+  "source_path": "reports/poten/2004/poten_2004-07-30_from-yukos-with-love.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_07_30_from_yukos_with_love__s01_from_yukos_with_love",
+      "doc_id": "poten_tankers_no_date_poten_2004_07_30_from_yukos_with_love",
+      "parent_id": "poten_tankers_no_date_poten_2004_07_30_from_yukos_with_love__root",
+      "title": "From Yukos With Love",
+      "section_path": [
+        "From Yukos With Love"
+      ],
+      "section_path_text": "From Yukos With Love",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Russia's near stoppage this week of 1.8 million bpd of oil production caused a slight panic in the oil market. Crude oil futures rose to a 21-year high of $43 dollars per barrel yesterday on the Russian government's announcement that it had curtailed Yukos, the country's largest oil producer, from producing and selling oil.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "crude",
+        "russian",
+        "its",
+        "million",
+        "russia",
+        "would"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 347,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_07_30_from_yukos_with_love__s02_fall_of",
+      "doc_id": "poten_tankers_no_date_poten_2004_07_30_from_yukos_with_love",
+      "parent_id": "poten_tankers_no_date_poten_2004_07_30_from_yukos_with_love__root",
+      "title": "Fall of",
+      "section_path": [
+        "Fall of"
+      ],
+      "section_path_text": "Fall of",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "communism"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_07_30_from_yukos_with_love__s03_export",
+      "doc_id": "poten_tankers_no_date_poten_2004_07_30_from_yukos_with_love",
+      "parent_id": "poten_tankers_no_date_poten_2004_07_30_from_yukos_with_love__root",
+      "title": "Export",
+      "section_path": [
+        "Export"
+      ],
+      "section_path_text": "Export",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "potential"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_07_30_from_yukos_with_love__s04_exports",
+      "doc_id": "poten_tankers_no_date_poten_2004_07_30_from_yukos_with_love",
+      "parent_id": "poten_tankers_no_date_poten_2004_07_30_from_yukos_with_love__root",
+      "title": "Exports",
+      "section_path": [
+        "Exports"
+      ],
+      "section_path_text": "Exports",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "expanding"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_07_30_from_yukos_with_love__s05_the_vlcc_impact",
+      "doc_id": "poten_tankers_no_date_poten_2004_07_30_from_yukos_with_love",
+      "parent_id": "poten_tankers_no_date_poten_2004_07_30_from_yukos_with_love__root",
+      "title": "The VLCC Impact",
+      "section_path": [
+        "The VLCC Impact"
+      ],
+      "section_path_text": "The VLCC Impact",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Let's say that Yukos had been forced to halt oil production. If it were a total cessation for a short period of time, replacement crude could come from inventories.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "per",
+        "would"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 515,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_07_30_from_yukos_with_love__s06_charterer",
+      "doc_id": "poten_tankers_no_date_poten_2004_07_30_from_yukos_with_love",
+      "parent_id": "poten_tankers_no_date_poten_2004_07_30_from_yukos_with_love__root",
+      "title": "Charterer",
+      "section_path": [
+        "Charterer"
+      ],
+      "section_path_text": "Charterer",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Load/Discharge ChevronTexaco Black Sea- Med Sibneft Baltic-UKC Lukoil Black Sea- Med EuroPet Baltic-UKC Karran Black Sea- Med Alpine Black Sea- Med Vitol Black Sea- Med Cargill Baltic-UKC Gunvor Black Sea- Med BP Black Sea- Med",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "black",
+        "med",
+        "sea",
+        "baltic-ukc",
+        "alpine",
+        "cargill"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 67,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_07_30_from_yukos_with_love__s07_financial_woes_high_demand",
+      "doc_id": "poten_tankers_no_date_poten_2004_07_30_from_yukos_with_love",
+      "parent_id": "poten_tankers_no_date_poten_2004_07_30_from_yukos_with_love__root",
+      "title": "Financial Woes, High Demand",
+      "section_path": [
+        "Financial Woes, High Demand"
+      ],
+      "section_path_text": "Financial Woes, High Demand",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Yukos' financial troubles come at a time when oil demand is particularly high and violence in Iraq threatens output in that Middle Eastern country. Attacks against oil workers in Saudi Arabia leave the rest of the world a bit cautious about relying solely on that country's oil supply.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "world",
+        "yukos",
+        "come",
+        "demand",
+        "high",
+        "not"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 144,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

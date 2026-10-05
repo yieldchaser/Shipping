@@ -1,0 +1,249 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2004_10_22_aframax_runup_myth_or_reality__root",
+  "doc_id": "poten_tankers_no_date_poten_2004_10_22_aframax_runup_myth_or_reality",
+  "parent_id": null,
+  "title": "Aframax Runup Myth or Reality?",
+  "section_path": [
+    "Aframax Runup Myth or Reality?"
+  ],
+  "section_path_text": "Aframax Runup Myth or Reality?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "With current weekly average Aframax rates at WS 400 ($60,000 per day), with several individual fixtures at record breaking WS 450 in the past two weeks, we might wonder whether shipowners are experiencing an extremely pleasing dream with an alarm clock about to go off or have rates risen to a \"permanently high plateau?\"\n\nIs It Vessel Availability? Aframax availability in terms of vessel arrivals over the next 20 days has averaged 25 vessels since August with a present availability of 30 vessels. Hence a shortage of vessel availability cannot be an explanation for the high rates.",
+  "keywords": [
+    "aframax",
+    "china",
+    "meg",
+    "europe",
+    "india",
+    "japan",
+    "products",
+    "fixture",
+    "load",
+    "activity",
+    "area",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 600,
+  "source_path": "reports/poten/2004/poten_2004-10-22_aframax-runup-myth-or-reality.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_10_22_aframax_runup_myth_or_reality__s01_aframax_runup_myth_or_reality",
+      "doc_id": "poten_tankers_no_date_poten_2004_10_22_aframax_runup_myth_or_reality",
+      "parent_id": "poten_tankers_no_date_poten_2004_10_22_aframax_runup_myth_or_reality__root",
+      "title": "Aframax Runup Myth or Reality?",
+      "section_path": [
+        "Aframax Runup Myth or Reality?"
+      ],
+      "section_path_text": "Aframax Runup Myth or Reality?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "With current weekly average Aframax rates at WS 400 ($60,000 per day), with several individual fixtures at record breaking WS 450 in the past two weeks, we might wonder whether shipowners are experiencing an extremely pleasing dream with an alarm clock about to go off or have rates risen to a \"permanently high plateau?\"",
+      "keywords": [
+        "aframax",
+        "alarm",
+        "are",
+        "average",
+        "breaking",
+        "clock",
+        "current",
+        "day"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 67,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_10_22_aframax_runup_myth_or_reality__s02_is_it_vessel_availability",
+      "doc_id": "poten_tankers_no_date_poten_2004_10_22_aframax_runup_myth_or_reality",
+      "parent_id": "poten_tankers_no_date_poten_2004_10_22_aframax_runup_myth_or_reality__root",
+      "title": "Is It Vessel Availability?",
+      "section_path": [
+        "Is It Vessel Availability?"
+      ],
+      "section_path_text": "Is It Vessel Availability?",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Aframax availability in terms of vessel arrivals over the next 20 days has averaged 25 vessels since August with a present availability of 30 vessels. Hence a shortage of vessel availability cannot be an explanation for the high rates.",
+      "keywords": [
+        "aframax",
+        "availability",
+        "vessel",
+        "arrivals",
+        "august",
+        "averaged",
+        "cannot",
+        "days"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 46,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_10_22_aframax_runup_myth_or_reality__s03_is_it_fixture_activity",
+      "doc_id": "poten_tankers_no_date_poten_2004_10_22_aframax_runup_myth_or_reality",
+      "parent_id": "poten_tankers_no_date_poten_2004_10_22_aframax_runup_myth_or_reality__root",
+      "title": "Is It Fixture Activity?",
+      "section_path": [
+        "Is It Fixture Activity?"
+      ],
+      "section_path_text": "Is It Fixture Activity?",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The following chart shows that fixture activity in 2004 is slightly lagging 2002 and 2003.",
+      "keywords": [
+        "activity",
+        "chart",
+        "fixture",
+        "following",
+        "lagging",
+        "shows",
+        "slightly"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 23,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_10_22_aframax_runup_myth_or_reality__s04_aframax_spot_fixture_activity",
+      "doc_id": "poten_tankers_no_date_poten_2004_10_22_aframax_runup_myth_or_reality",
+      "parent_id": "poten_tankers_no_date_poten_2004_10_22_aframax_runup_myth_or_reality__root",
+      "title": "Aframax Spot Fixture Activity",
+      "section_path": [
+        "Aframax Spot Fixture Activity"
+      ],
+      "section_path_text": "Aframax Spot Fixture Activity",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Total fixtures in 2002 were 5,890, 5,870 in 2003, and an annualized estimate of 5,830 in 2004, down by less than 1%. Thus a rush to fix does not appear to be an explanation as to why rates are so high.",
+      "keywords": [
+        "meg",
+        "europe",
+        "load",
+        "area",
+        "fixtures",
+        "not",
+        "shift",
+        "trading"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 132,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_10_22_aframax_runup_myth_or_reality__s05_n_europe",
+      "doc_id": "poten_tankers_no_date_poten_2004_10_22_aframax_runup_myth_or_reality",
+      "parent_id": "poten_tankers_no_date_poten_2004_10_22_aframax_runup_myth_or_reality__root",
+      "title": "N. Europe",
+      "section_path": [
+        "N. Europe"
+      ],
+      "section_path_text": "N. Europe",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "",
+      "keywords": [
+        "area",
+        "load"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_10_22_aframax_runup_myth_or_reality__s06_mediterranean",
+      "doc_id": "poten_tankers_no_date_poten_2004_10_22_aframax_runup_myth_or_reality",
+      "parent_id": "poten_tankers_no_date_poten_2004_10_22_aframax_runup_myth_or_reality__root",
+      "title": "Mediterranean",
+      "section_path": [
+        "Mediterranean"
+      ],
+      "section_path_text": "Mediterranean",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "The following chart shows total AG fixture activity.",
+      "keywords": [
+        "activity.",
+        "chart",
+        "fixture",
+        "following",
+        "shows",
+        "total"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_10_22_aframax_runup_myth_or_reality__s07_ag_load_area",
+      "doc_id": "poten_tankers_no_date_poten_2004_10_22_aframax_runup_myth_or_reality",
+      "parent_id": "poten_tankers_no_date_poten_2004_10_22_aframax_runup_myth_or_reality__root",
+      "title": "AG Load Area",
+      "section_path": [
+        "AG Load Area"
+      ],
+      "section_path_text": "AG Load Area",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "The AG load area exhibits greater fixture activity on all three key trades: AG to the Far East (naphtha to Japan, crude to northern China), crude to India, and a combination of clean and dirty cargoes to Southeast Asia and southern China. The other load area that has grown is northern Europe.",
+      "keywords": [
+        "china",
+        "europe",
+        "india",
+        "japan",
+        "products",
+        "area",
+        "crude",
+        "load"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 62,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_10_22_aframax_runup_myth_or_reality__s08_n_europe_load_area",
+      "doc_id": "poten_tankers_no_date_poten_2004_10_22_aframax_runup_myth_or_reality",
+      "parent_id": "poten_tankers_no_date_poten_2004_10_22_aframax_runup_myth_or_reality__root",
+      "title": "N. Europe Load Area",
+      "section_path": [
+        "N. Europe Load Area"
+      ],
+      "section_path_text": "N. Europe Load Area",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "An examination of the underlying fixtures shows that the most common trade is intra-regional shipping of North Sea crude cargoes, which is essentially constant. Growth is primarily in the longer-haul UKC to US trades to satisfy growing U.S.",
+      "keywords": [
+        "aframax",
+        "crude",
+        "demand",
+        "trade",
+        "activity",
+        "are",
+        "but",
+        "explanation"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 208,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

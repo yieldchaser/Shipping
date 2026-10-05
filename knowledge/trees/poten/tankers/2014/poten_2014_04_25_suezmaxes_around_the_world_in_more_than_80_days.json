@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2014_04_25_suezmaxes_around_the_world_in_more_than_80_days__root",
+  "doc_id": "poten_tankers_no_date_poten_2014_04_25_suezmaxes_around_the_world_in_more_than_80_days",
+  "parent_id": null,
+  "title": "Suezmaxes: Around The World In More Than 80 Days",
+  "section_path": [
+    "Suezmaxes: Around The World In More Than 80 Days"
+  ],
+  "section_path_text": "Suezmaxes: Around The World In More Than 80 Days",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "1 Suezmax Fixtures by Load Zone\nTrade Growth Where It May Be Least Expected: The staggering decline in crude oil trade volumes between West Africa and the United States has led many to cursorily dismiss the Suezmax sector on the whole. Diminished light‐sweet crude oil import requirements by the United States, and little reason to believe in their near‐term return, has rightfully called the relevance of Bonny ‐ Philadelphia as the benchmark trade into question. Afterall, without its beloved TD5, what is a Suezmax to do?",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "total",
+    "reported",
+    "west",
+    "fixtures"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1092,
+  "source_path": "reports/poten/2014/poten_2014-04-25_suezmaxes-around-the-world-in-more-than-80-days.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_04_25_suezmaxes_around_the_world_in_more_than_80_days__s01_fig_1_suezmax_fixtures_by_load_zone",
+      "doc_id": "poten_tankers_no_date_poten_2014_04_25_suezmaxes_around_the_world_in_more_than_80_days",
+      "parent_id": "poten_tankers_no_date_poten_2014_04_25_suezmaxes_around_the_world_in_more_than_80_days__root",
+      "title": "Fig. 1 Suezmax Fixtures by Load Zone",
+      "section_path": [
+        "Fig. 1 Suezmax Fixtures by Load Zone"
+      ],
+      "section_path_text": "Fig. 1 Suezmax Fixtures by Load Zone",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Trade Growth Where It May Be Least Expected: The staggering decline in crude oil trade volumes between West Africa and the United States has led many to cursorily dismiss the Suezmax sector on the whole. Diminished light‐sweet crude oil import requirements by the United States, and little reason to believe in their near‐term return, has rightfully called the relevance of Bonny ‐ Philadelphia as the benchmark trade into question.",
+      "keywords": [
+        "suezmax",
+        "atlantic",
+        "meg",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "total",
+        "west"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 476,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_04_25_suezmaxes_around_the_world_in_more_than_80_days__s02_trade_route",
+      "doc_id": "poten_tankers_no_date_poten_2014_04_25_suezmaxes_around_the_world_in_more_than_80_days",
+      "parent_id": "poten_tankers_no_date_poten_2014_04_25_suezmaxes_around_the_world_in_more_than_80_days__root",
+      "title": "Trade Route",
+      "section_path": [
+        "Trade Route"
+      ],
+      "section_path_text": "Trade Route",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "2009 2010 2011 2012 2013 2014 YTD 2014 FY* from January 2013. Crude oil flows were already compromised with a reported 37% reduction in total volumes between 2012 and 2013.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "meg",
+        "us_gulf",
+        "crude_oil",
+        "total",
+        "considered",
+        "fixtures"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 600,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

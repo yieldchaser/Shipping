@@ -1,0 +1,167 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_06_10_baby_its_wild_world__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_06_10_baby_its_wild_world",
+  "parent_id": null,
+  "title": "Baby, It's Wild World",
+  "section_path": [
+    "Baby, It's Wild World"
+  ],
+  "section_path_text": "Baby, It's Wild World",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Baby, It's a Wild World\n2011 is shaping up to be quite the year. We managed to escape the End of Days, but a heady combination of natural disaster, political conflict, and financial starts and stalls have made some pessimistic (if not apocalyptic) about the future health of the major developed economies in the near term. This week delegates from the member countries of the Organization of Petroleum Exporting Countries (OPEC) left their spring meeting in Vienna with many a scowl, but for the first time in twenty years, nary a resolution.",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "china",
+    "europe",
+    "crude_oil",
+    "oil",
+    "opec",
+    "crude",
+    "global",
+    "production",
+    "consumption",
+    "energy"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1122,
+  "source_path": "reports/poten/2011/poten_2011-06-10_baby-its-wild-world.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_06_10_baby_its_wild_world__s01_baby_it_s_a_wild_world",
+      "doc_id": "poten_tankers_no_date_poten_2011_06_10_baby_its_wild_world",
+      "parent_id": "poten_tankers_no_date_poten_2011_06_10_baby_its_wild_world__root",
+      "title": "Baby, It's a Wild World",
+      "section_path": [
+        "Baby, It's a Wild World"
+      ],
+      "section_path_text": "Baby, It's a Wild World",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "2011 is shaping up to be quite the year. We managed to escape the End of Days, but a heady combination of natural disaster, political conflict, and financial starts and stalls have made some pessimistic (if not apocalyptic) about the future health of the major developed economies in the near term.",
+      "keywords": [
+        "capesize",
+        "crude_oil",
+        "oil",
+        "crude",
+        "global",
+        "energy",
+        "opec",
+        "but"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 324,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_06_10_baby_its_wild_world__s02_china",
+      "doc_id": "poten_tankers_no_date_poten_2011_06_10_baby_its_wild_world",
+      "parent_id": "poten_tankers_no_date_poten_2011_06_10_baby_its_wild_world__root",
+      "title": "China",
+      "section_path": [
+        "China"
+      ],
+      "section_path_text": "China",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "US Total World Global oil consumption grew by 2.7 mbd or 3.1% to reach a record level of 87.4 mbd, the largest percentage increase seen since 2004. OECD consumption grew by 0.9%, or 480 kbd, the first increase since 2005.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "consumption",
+        "grew",
+        "oecd",
+        "energy",
+        "global",
+        "growth"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 170,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_06_10_baby_its_wild_world__s03_it_s_hard_to_get_by_just_upon_a_smile",
+      "doc_id": "poten_tankers_no_date_poten_2011_06_10_baby_its_wild_world",
+      "parent_id": "poten_tankers_no_date_poten_2011_06_10_baby_its_wild_world__root",
+      "title": "It's Hard to Get By, Just Upon a Smile",
+      "section_path": [
+        "It's Hard to Get By, Just Upon a Smile"
+      ],
+      "section_path_text": "It's Hard to Get By, Just Upon a Smile",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Global oil production, on the other hand, only increased 1.8 mbd over 2010, or 2.2%, amid reduced production discipline from OPEC countries. Accounting for 33.6% of global energy consumption, oil remains the world's leading fuel, and although diversifying sources of crude oil worldwide has reduced somewhat the call on OPEC nations to meet global energy requirements, the role of OPEC in supplying this vital commodity should not be understated.",
+      "keywords": [
+        "crude_oil",
+        "opec",
+        "production",
+        "oil",
+        "crude",
+        "global",
+        "mbd",
+        "april"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 278,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_06_10_baby_its_wild_world__s04_position_on_increase",
+      "doc_id": "poten_tankers_no_date_poten_2011_06_10_baby_its_wild_world",
+      "parent_id": "poten_tankers_no_date_poten_2011_06_10_baby_its_wild_world__root",
+      "title": "Position on Increase",
+      "section_path": [
+        "Position on Increase"
+      ],
+      "section_path_text": "Position on Increase",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "ecuador"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_06_10_baby_its_wild_world__s05_saudi_arabia",
+      "doc_id": "poten_tankers_no_date_poten_2011_06_10_baby_its_wild_world",
+      "parent_id": "poten_tankers_no_date_poten_2011_06_10_baby_its_wild_world__root",
+      "title": "Saudi Arabia",
+      "section_path": [
+        "Saudi Arabia"
+      ],
+      "section_path_text": "Saudi Arabia",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "But Then a Lot of Nice Things Turn Bad Out There Since the early 1980's, the primary aim of OPEC has been to control crude oil supply to prevent supply gluts and stabilize prices for producing nations. Saudi Arabia has previously cited a $70 Ͳ $80 per barrel price range as mutually agreeable to crude oil producers and consumers.",
+      "keywords": [
+        "vlcc",
+        "europe",
+        "crude_oil",
+        "opec",
+        "prices",
+        "could",
+        "oil",
+        "output"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 317,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

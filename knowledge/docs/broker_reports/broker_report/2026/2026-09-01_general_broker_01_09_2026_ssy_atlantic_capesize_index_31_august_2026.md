@@ -71,8 +71,8 @@ numeric_observations:
   - 150000.0
   - 10.0
   - 10.0
-  - 8550.0
-  - 9450.0
+  - 8.55
+  - 9.45
 - section: Atlantic Capesize Index
   section_type: null
   source_line: TUBARAO/ROTTERDAM | 170,000/10% | 10% | 15.25 | 17.75
@@ -81,8 +81,8 @@ numeric_observations:
   - 170000.0
   - 10.0
   - 10.0
-  - 15250.0
-  - 17750.0
+  - 15.25
+  - 17.75
 - section: Atlantic Capesize Index
   section_type: null
   source_line: RICHARDS BAY/ROTTERDAM | 150,000/10% | 10% | 17.00 | 19.00
@@ -91,8 +91,8 @@ numeric_observations:
   - 150000.0
   - 10.0
   - 10.0
-  - 17000.0
-  - 19000.0
+  - 17.0
+  - 19.0
 - section: Atlantic Capesize Index
   section_type: null
   source_line: SEVEN ISLANDS/ROTTERDAM | 170,000/10% | 10% | 13.70 | 15.30
@@ -101,8 +101,8 @@ numeric_observations:
   - 170000.0
   - 10.0
   - 10.0
-  - 13700.0
-  - 15300.0
+  - 13.7
+  - 15.3
 - section: Atlantic Capesize Index
   section_type: null
   source_line: PUERTO BOLIVAR/ROTTERDAM | 160,000/10% | 10% | 18.85 | 21.50
@@ -111,8 +111,8 @@ numeric_observations:
   - 160000.0
   - 10.0
   - 10.0
-  - 18850.0
-  - 21500.0
+  - 18.85
+  - 21.5
 - section: Atlantic Capesize Index
   section_type: null
   source_line: NOUADHIBOU/QINGDAO | 170,000/10% | 10% | 35.95 | 39.00
@@ -121,8 +121,8 @@ numeric_observations:
   - 170000.0
   - 10.0
   - 10.0
-  - 35950.0
-  - 39000.0
+  - 35.95
+  - 39.0
 - section: Atlantic Capesize Index
   section_type: null
   source_line: TUBARAO/JAPAN | 160,000/10% | 10% | 35.50 | 38.05
@@ -131,8 +131,8 @@ numeric_observations:
   - 160000.0
   - 10.0
   - 10.0
-  - 35500.0
-  - 38050.0
+  - 35.5
+  - 38.05
 - section: Atlantic Capesize Index
   section_type: null
   source_line: TUBARAO/QINGDAO | 160,000/10% | 10% | 35.80 | 38.35
@@ -141,8 +141,8 @@ numeric_observations:
   - 160000.0
   - 10.0
   - 10.0
-  - 35800.0
-  - 38350.0
+  - 35.8
+  - 38.35
 - section: Atlantic Capesize Index
   section_type: null
   source_line: T/C TRIP CONT/FAR EAST | 180,000 DWT | 10% | 12.54 | 13.51
@@ -150,8 +150,8 @@ numeric_observations:
   values:
   - 180000.0
   - 10.0
-  - 12540.0
-  - 13510.0
+  - 12.54
+  - 13.51
 - section: Atlantic Capesize Index
   section_type: null
   source_line: T/C TRANSATLANTIC ROUND | 180,000 DWT | 10% | 6.80 | 8.78
@@ -159,8 +159,8 @@ numeric_observations:
   values:
   - 180000.0
   - 10.0
-  - 6800.0
-  - 8780.0
+  - 6.8
+  - 8.78
 - section: Atlantic Capesize Index
   section_type: null
   source_line: Calculated Index | 14,713 | 16,357

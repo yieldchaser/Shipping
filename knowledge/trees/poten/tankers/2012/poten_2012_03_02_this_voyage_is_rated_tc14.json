@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2012_03_02_this_voyage_is_rated_tc14__root",
+  "doc_id": "poten_tankers_no_date_poten_2012_03_02_this_voyage_is_rated_tc14",
+  "parent_id": null,
+  "title": "This Voyage is Rated TC14",
+  "section_path": [
+    "This Voyage is Rated TC14"
+  ],
+  "section_path_text": "This Voyage is Rated TC14",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "This Voyage is Rated TC14\nThe refined product imbalance between the United States and Europe is a structural blessing for trading companies and ship owners alike. Ship owners can increase the utilization of their assets with very little, if any, repositioning costs by securing cargoes both coming and going. Likewise, trading companies are able to capture arbitrage opportunities on top of existing contract movements.",
+  "keywords": [
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "gulf",
+    "tc14",
+    "trade",
+    "paper",
+    "volumes",
+    "clean",
+    "haul",
+    "increased"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 567,
+  "source_path": "reports/poten/2012/poten_2012-03-02_this-voyage-is-rated-tc14.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_03_02_this_voyage_is_rated_tc14__s01_this_voyage_is_rated_tc14",
+      "doc_id": "poten_tankers_no_date_poten_2012_03_02_this_voyage_is_rated_tc14",
+      "parent_id": "poten_tankers_no_date_poten_2012_03_02_this_voyage_is_rated_tc14__root",
+      "title": "This Voyage is Rated TC14",
+      "section_path": [
+        "This Voyage is Rated TC14"
+      ],
+      "section_path_text": "This Voyage is Rated TC14",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The refined product imbalance between the United States and Europe is a structural blessing for trading companies and ship owners alike. Ship owners can increase the utilization of their assets with very little, if any, repositioning costs by securing cargoes both coming and going.",
+      "keywords": [
+        "europe",
+        "us_gulf",
+        "products",
+        "gulf",
+        "trade",
+        "haul",
+        "back",
+        "between"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 229,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_03_02_this_voyage_is_rated_tc14__s02_ws_rate_ratio_tc14_tc2",
+      "doc_id": "poten_tankers_no_date_poten_2012_03_02_this_voyage_is_rated_tc14",
+      "parent_id": "poten_tankers_no_date_poten_2012_03_02_this_voyage_is_rated_tc14__root",
+      "title": "WS Rate Ratio (TC14/TC2)",
+      "section_path": [
+        "WS Rate Ratio (TC14/TC2)"
+      ],
+      "section_path_text": "WS Rate Ratio (TC14/TC2)",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "TC14: USG ‐ UKC (38,000 MT) TC2: UKC ‐ USAC (37,000 MT) Relative Rate Strength The Baltic Exchange has just recently introduced the TC14 index on a trial basis. The new route is assessed basis Houston - Amsterdam on 38,000 MT for vessels with a maximum age of 15 years and major oil company approval.",
+      "keywords": [
+        "crude_oil",
+        "higher",
+        "tc14",
+        "traded",
+        "ukc",
+        "volumes",
+        "according",
+        "age"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 151,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_03_02_this_voyage_is_rated_tc14__s03_paper_covers_physical",
+      "doc_id": "poten_tankers_no_date_poten_2012_03_02_this_voyage_is_rated_tc14",
+      "parent_id": "poten_tankers_no_date_poten_2012_03_02_this_voyage_is_rated_tc14__root",
+      "title": "Paper Covers Physical",
+      "section_path": [
+        "Paper Covers Physical"
+      ],
+      "section_path_text": "Paper Covers Physical",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The backhaul trade had typically been opportunistic and seasonal in nature as incremental distillate was pushed out of the US Gulf coast. Today, the structurally long distillate position in the US Gulf has lent support to the steady volumes moving out of the region.",
+      "keywords": [
+        "us_gulf",
+        "gulf",
+        "average",
+        "distillate",
+        "long",
+        "number",
+        "out",
+        "backhaul"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 92,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_03_02_this_voyage_is_rated_tc14__s04_usg_ukc_reported_spot_fixture_activity",
+      "doc_id": "poten_tankers_no_date_poten_2012_03_02_this_voyage_is_rated_tc14",
+      "parent_id": "poten_tankers_no_date_poten_2012_03_02_this_voyage_is_rated_tc14__root",
+      "title": "USG ‐ UKC Reported Spot Fixture Activity",
+      "section_path": [
+        "USG ‐ UKC Reported Spot Fixture Activity"
+      ],
+      "section_path_text": "USG ‐ UKC Reported Spot Fixture Activity",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "As domestic consumption in the United States continues to languish, it can be expected that new US refining capacity will push additional product into foreign markets. The growth of exports volumes plus the accessibility of freight paper markets could allow traders to take better advantage of market arbitrage opportunity mitigating the freight risk component of the transaction.",
+      "keywords": [
+        "accessibility",
+        "additional",
+        "advantage",
+        "allow",
+        "arbitrage",
+        "better",
+        "can",
+        "capacity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 63,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

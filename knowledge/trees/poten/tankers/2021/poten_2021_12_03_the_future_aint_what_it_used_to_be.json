@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2021_12_03_the_future_aint_what_it_used_to_be__root",
+  "doc_id": "poten_tankers_no_date_poten_2021_12_03_the_future_aint_what_it_used_to_be",
+  "parent_id": null,
+  "title": "The Future Aint What It Used To Be",
+  "section_path": [
+    "The Future Aint What It Used To Be"
+  ],
+  "section_path_text": "The Future Aint What It Used To Be",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Tanker markets are more uncertain than ever\nThis is not a good time to be a prognosticator. A combination of factors has made forecasting the direction of the tanker market increasingly difficult. Yesterday, OPEC+ decided to raise oil production in January 2022 by 400,000 b/d in line with their long-term plan to unwind last years' production cuts by September 2022.",
+  "keywords": [
+    "china",
+    "india",
+    "japan",
+    "crude_oil",
+    "oil",
+    "are",
+    "iran",
+    "market.",
+    "u.s.",
+    "deal",
+    "barrels",
+    "could"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 916,
+  "source_path": "reports/poten/2021/poten_2021-12-03_the-future-aint-what-it-used-to-be.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2021_12_03_the_future_aint_what_it_used_to_be__s01_tanker_markets_are_more_uncertain_than_ever",
+      "doc_id": "poten_tankers_no_date_poten_2021_12_03_the_future_aint_what_it_used_to_be",
+      "parent_id": "poten_tankers_no_date_poten_2021_12_03_the_future_aint_what_it_used_to_be__root",
+      "title": "Tanker markets are more uncertain than ever",
+      "section_path": [
+        "Tanker markets are more uncertain than ever"
+      ],
+      "section_path_text": "Tanker markets are more uncertain than ever",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This is not a good time to be a prognosticator. A combination of factors has made forecasting the direction of the tanker market increasingly difficult.",
+      "keywords": [
+        "china",
+        "india",
+        "japan",
+        "crude_oil",
+        "oil",
+        "iran",
+        "are",
+        "market."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 907,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

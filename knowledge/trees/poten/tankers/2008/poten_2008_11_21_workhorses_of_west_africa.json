@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_11_21_workhorses_of_west_africa__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_11_21_workhorses_of_west_africa",
+  "parent_id": null,
+  "title": "Workhorses of West Africa",
+  "section_path": [
+    "Workhorses of West Africa"
+  ],
+  "section_path_text": "Workhorses of West Africa",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Workhorses of West Africa\nCrude oil liftings in West Africa have kept tankers buzzing in 2008 and Suezmaxes in particular have been the beneficiaries of heightened activity. The chart below shows reported spot market liftings out of the region on a monthly basis in 2007 and 2008 by vessel size. The number of Suezmax liftings, with the exception of July, have been consistently higher in 2008 on a monthly basis than in 2007 and VLCC activity has been lower.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "brazil",
+    "atlantic",
+    "west_africa",
+    "crude_oil",
+    "west",
+    "africa",
+    "average",
+    "liftings",
+    "vlccs",
+    "basis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 614,
+  "source_path": "reports/poten/2008/poten_2008-11-21_workhorses-of-west-africa.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_11_21_workhorses_of_west_africa__s01_workhorses_of_west_africa",
+      "doc_id": "poten_tankers_no_date_poten_2008_11_21_workhorses_of_west_africa",
+      "parent_id": "poten_tankers_no_date_poten_2008_11_21_workhorses_of_west_africa__root",
+      "title": "Workhorses of West Africa",
+      "section_path": [
+        "Workhorses of West Africa"
+      ],
+      "section_path_text": "Workhorses of West Africa",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Crude oil liftings in West Africa have kept tankers buzzing in 2008 and Suezmaxes in particular have been the beneficiaries of heightened activity. The chart below shows reported spot market liftings out of the region on a monthly basis in 2007 and 2008 by vessel size.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "west_africa",
+        "crude_oil",
+        "liftings",
+        "africa",
+        "basis",
+        "below"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 169,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_11_21_workhorses_of_west_africa__s02_reported_spot_liftings_per_month",
+      "doc_id": "poten_tankers_no_date_poten_2008_11_21_workhorses_of_west_africa",
+      "parent_id": "poten_tankers_no_date_poten_2008_11_21_workhorses_of_west_africa__root",
+      "title": "Reported Spot Liftings Per Month",
+      "section_path": [
+        "Reported Spot Liftings Per Month"
+      ],
+      "section_path_text": "Reported Spot Liftings Per Month",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "West Africa's OPEC members, Nigeria and Angola, had an estimated combined production output in October 2008 of 3.8 million barrels per day and the new quotas effective November 2008 are at a very similar combined level. Unless further cuts are enacted, it is unlikely actions of these two producers' will have too much of an effect on the shipping market.",
+      "keywords": [
+        "west_africa",
+        "crude_oil",
+        "are",
+        "combined",
+        "actions",
+        "africa",
+        "angola",
+        "barrels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 75,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_11_21_workhorses_of_west_africa__s03_allure_of_the_atlantic",
+      "doc_id": "poten_tankers_no_date_poten_2008_11_21_workhorses_of_west_africa",
+      "parent_id": "poten_tankers_no_date_poten_2008_11_21_workhorses_of_west_africa__root",
+      "title": "Allure of the Atlantic",
+      "section_path": [
+        "Allure of the Atlantic"
+      ],
+      "section_path_text": "Allure of the Atlantic",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Limited opportunities for non-double hull ships in the Atlantic Basin tend to keep the tonnage lists in check, effectively reducing the pool of competition amongst owners. The chart below shows the assessed rates for VLCCs and Suezmaxes on a time charter equivalent (TCE) basis for liftings out of West Africa.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "brazil",
+        "atlantic",
+        "west_africa",
+        "below",
+        "day",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 95,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_11_21_workhorses_of_west_africa__s04_waf_usa_260kt",
+      "doc_id": "poten_tankers_no_date_poten_2008_11_21_workhorses_of_west_africa",
+      "parent_id": "poten_tankers_no_date_poten_2008_11_21_workhorses_of_west_africa__root",
+      "title": "WAF - USA (260kt)",
+      "section_path": [
+        "WAF - USA (260kt)"
+      ],
+      "section_path_text": "WAF - USA (260kt)",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "WAF - USA (130kt) 12 Mo. Suezmax Average Since cargoes are stemmed as 130,000 MT (approximately 1 millon barrels) the market is attractive to both VLCCs and Suezmaxes.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "west_africa",
+        "average",
+        "differential",
+        "two",
+        "vlccs",
+        "cargoes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 246,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

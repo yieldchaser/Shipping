@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2019_09_06_hide_and_seek_on_the_high_seas__root",
+  "doc_id": "poten_tankers_no_date_poten_2019_09_06_hide_and_seek_on_the_high_seas",
+  "parent_id": null,
+  "title": "Hide and Seek on the High Seas",
+  "section_path": [
+    "Hide and Seek on the High Seas"
+  ],
+  "section_path_text": "Hide and Seek on the High Seas",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Iranian crude oil exports continue to decline\nJust when you think you have seen it all in the ongoing conflict between Iran and the United States, a report emerges that a representative of the U.S. State Department offered to pay millions of U.S. dollars to the master of the Iranian tanker Adrian Darya 1 to divert the disputed tanker to an American designated destination.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "europe",
+    "india",
+    "crude_oil",
+    "gas",
+    "iran",
+    "exports",
+    "oil",
+    "iranian",
+    "u.s.",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 926,
+  "source_path": "reports/poten/2019/poten_2019-09-06_hide-and-seek-on-the-high-seas.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_09_06_hide_and_seek_on_the_high_seas__s01_iranian_crude_oil_exports_continue_to_decline",
+      "doc_id": "poten_tankers_no_date_poten_2019_09_06_hide_and_seek_on_the_high_seas",
+      "parent_id": "poten_tankers_no_date_poten_2019_09_06_hide_and_seek_on_the_high_seas__root",
+      "title": "Iranian crude oil exports continue to decline",
+      "section_path": [
+        "Iranian crude oil exports continue to decline"
+      ],
+      "section_path_text": "Iranian crude oil exports continue to decline",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Just when you think you have seen it all in the ongoing conflict between Iran and the United States, a report emerges that a representative of the U.S. State Department offered to pay millions of U.S.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "europe",
+        "india",
+        "crude_oil",
+        "gas",
+        "iran",
+        "exports"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 917,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

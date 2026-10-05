@@ -1,0 +1,208 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2012_05_25_shifting_fsu_export_flows__root",
+  "doc_id": "poten_tankers_no_date_poten_2012_05_25_shifting_fsu_export_flows",
+  "parent_id": null,
+  "title": "Shifting FSU Export Flows",
+  "section_path": [
+    "Shifting FSU Export Flows"
+  ],
+  "section_path_text": "Shifting FSU Export Flows",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Shifting FSU Export Flows\nAfter providing 2.8 mbpd of incremental liquids supply during 2004‐09, production growth in the former Soviet Union (FSU) slowed significantly during 2010‐11, as shown in the chart below. Easing global oil demand growth, field maintenance issues in Azerbaijan and Kazakhstan, expansion work on the Caspian Pipeline Consortium (CPC) pipeline and new field development delays all contributed to the FSU slowdown. Russian production, however, has continued to hit new post‐Soviet highs, benefitting from additional output at the Vankor field and other eastern Siberia greenfield projects.",
+  "keywords": [
+    "china",
+    "europe",
+    "crude_oil",
+    "products",
+    "fsu",
+    "pipeline",
+    "crude",
+    "export",
+    "kbpd",
+    "russia",
+    "mbpd",
+    "western"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 864,
+  "source_path": "reports/poten/2012/poten_2012-05-25_shifting-fsu-export-flows.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_05_25_shifting_fsu_export_flows__s01_shifting_fsu_export_flows",
+      "doc_id": "poten_tankers_no_date_poten_2012_05_25_shifting_fsu_export_flows",
+      "parent_id": "poten_tankers_no_date_poten_2012_05_25_shifting_fsu_export_flows__root",
+      "title": "Shifting FSU Export Flows",
+      "section_path": [
+        "Shifting FSU Export Flows"
+      ],
+      "section_path_text": "Shifting FSU Export Flows",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "After providing 2.8 mbpd of incremental liquids supply during 2004‐09, production growth in the former Soviet Union (FSU) slowed significantly during 2010‐11, as shown in the chart below. Easing global oil demand growth, field maintenance issues in Azerbaijan and Kazakhstan, expansion work on the Caspian Pipeline Consortium (CPC) pipeline and new field development delays all contributed to the FSU slowdown.",
+      "keywords": [
+        "crude_oil",
+        "field",
+        "during",
+        "fsu",
+        "growth",
+        "new",
+        "pipeline",
+        "production"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 125,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_05_25_shifting_fsu_export_flows__s02_yoy_change_by_country",
+      "doc_id": "poten_tankers_no_date_poten_2012_05_25_shifting_fsu_export_flows",
+      "parent_id": "poten_tankers_no_date_poten_2012_05_25_shifting_fsu_export_flows__root",
+      "title": "yoy Change, by Country",
+      "section_path": [
+        "yoy Change, by Country"
+      ],
+      "section_path_text": "yoy Change, by Country",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_05_25_shifting_fsu_export_flows__s03_russia",
+      "doc_id": "poten_tankers_no_date_poten_2012_05_25_shifting_fsu_export_flows",
+      "parent_id": "poten_tankers_no_date_poten_2012_05_25_shifting_fsu_export_flows__root",
+      "title": "Russia",
+      "section_path": [
+        "Russia"
+      ],
+      "section_path_text": "Russia",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Kazakhstan Azerbaijan Other FSU Despite the limited production outlook, FSU producers have invested significantly in export infrastructure. With the new 600 kbpd BPS‐2 pipeline to Ust‐Luga, the 700 kbpd expansion of the CPC pipeline in 2013‐14, the 160 kbpd increase in the Kazakhstan‐to‐China pipeline in 2013 and the 400 kbpd addition to the ESPO pipeline to Kozmino due in late‐2012, the FSU region will have added a cumulative total of 1.9 mbpd to its export capacity by 2015.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "products",
+        "kbpd",
+        "crude",
+        "fsu",
+        "export",
+        "fuel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 361,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_05_25_shifting_fsu_export_flows__s04_fsu_production",
+      "doc_id": "poten_tankers_no_date_poten_2012_05_25_shifting_fsu_export_flows",
+      "parent_id": "poten_tankers_no_date_poten_2012_05_25_shifting_fsu_export_flows__root",
+      "title": "FSU Production",
+      "section_path": [
+        "FSU Production"
+      ],
+      "section_path_text": "FSU Production",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "yoy Change, by Disposition 2012F 2014F 2016F",
+      "keywords": [
+        "change",
+        "disposition",
+        "yoy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 19,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_05_25_shifting_fsu_export_flows__s05_export",
+      "doc_id": "poten_tankers_no_date_poten_2012_05_25_shifting_fsu_export_flows",
+      "parent_id": "poten_tankers_no_date_poten_2012_05_25_shifting_fsu_export_flows__root",
+      "title": "Export",
+      "section_path": [
+        "Export"
+      ],
+      "section_path_text": "Export",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Crude Runs Within the current framework, however, the emergence of this much pipeline capacity against declining export volumes provides flexibility to producers. The 400 kbpd increase of the combined ESPO complex to 1.0 mbpd will allow Russia to supply additional crude into the growth markets of Asia, while potentially establishing ESPO Blend as the benchmark crude in the region, supplanting thinly‐traded Tapis.",
+      "keywords": [
+        "china",
+        "europe",
+        "asian",
+        "mbpd",
+        "western",
+        "would",
+        "crude",
+        "espo"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 285,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_05_25_shifting_fsu_export_flows__s06_fsu_crude_exports",
+      "doc_id": "poten_tankers_no_date_poten_2012_05_25_shifting_fsu_export_flows",
+      "parent_id": "poten_tankers_no_date_poten_2012_05_25_shifting_fsu_export_flows__root",
+      "title": "FSU Crude Exports",
+      "section_path": [
+        "FSU Crude Exports"
+      ],
+      "section_path_text": "FSU Crude Exports",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "yoy Change, by Route 2012F 2014F 2016F",
+      "keywords": [
+        "change",
+        "route",
+        "yoy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 18,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_05_25_shifting_fsu_export_flows__s07_western_seaborne",
+      "doc_id": "poten_tankers_no_date_poten_2012_05_25_shifting_fsu_export_flows",
+      "parent_id": "poten_tankers_no_date_poten_2012_05_25_shifting_fsu_export_flows__root",
+      "title": "Western Seaborne",
+      "section_path": [
+        "Western Seaborne"
+      ],
+      "section_path_text": "Western Seaborne",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Asia Sea Western Pipeline Asia P/L",
+      "keywords": [
+        "asia",
+        "p/l",
+        "pipeline",
+        "sea",
+        "western"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

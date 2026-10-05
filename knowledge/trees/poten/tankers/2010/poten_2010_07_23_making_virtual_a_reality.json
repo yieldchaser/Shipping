@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_07_23_making_virtual_a_reality__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_07_23_making_virtual_a_reality",
+  "parent_id": null,
+  "title": "Making Virtual A Reality",
+  "section_path": [
+    "Making Virtual A Reality"
+  ],
+  "section_path_text": "Making Virtual A Reality",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Making Virtual A Reality\nFacing a likely future of tightened environmental regulation and rising marine fuel costs, efforts are underway to standardize efficiency practices in the tanker industry. Chief among these efforts is the \"Virtual Arrival\" scheme developed by Intertanko and the Oil Companies International Marine Forum (OCIMF). Though not strictly speaking a slow steaming proposal, Virtual Arrival similarly encourages consensus between ship owners and ports on speed and arrival time as a way to alleviate port congestion.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "grain",
+    "crude_oil",
+    "gas",
+    "arrival",
+    "virtual",
+    "are",
+    "system",
+    "emissions",
+    "regulation",
+    "voyage"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1078,
+  "source_path": "reports/poten/2010/poten_2010-07-23_making-virtual-a-reality.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_07_23_making_virtual_a_reality__s01_making_virtual_a_reality",
+      "doc_id": "poten_tankers_no_date_poten_2010_07_23_making_virtual_a_reality",
+      "parent_id": "poten_tankers_no_date_poten_2010_07_23_making_virtual_a_reality__root",
+      "title": "Making Virtual A Reality",
+      "section_path": [
+        "Making Virtual A Reality"
+      ],
+      "section_path_text": "Making Virtual A Reality",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Facing a likely future of tightened environmental regulation and rising marine fuel costs, efforts are underway to standardize efficiency practices in the tanker industry. Chief among these efforts is the \"Virtual Arrival\" scheme developed by Intertanko and the Oil Companies International Marine Forum (OCIMF).",
+      "keywords": [
+        "crude_oil",
+        "gas",
+        "arrival",
+        "time",
+        "virtual",
+        "are",
+        "assigned",
+        "efficiency"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 233,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_07_23_making_virtual_a_reality__s02_not_so_slow",
+      "doc_id": "poten_tankers_no_date_poten_2010_07_23_making_virtual_a_reality",
+      "parent_id": "poten_tankers_no_date_poten_2010_07_23_making_virtual_a_reality__root",
+      "title": "Not - So - Slow!",
+      "section_path": [
+        "Not - So - Slow!"
+      ],
+      "section_path_text": "Not - So - Slow!",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The International Maritime Organization (IMO) working group to promote the idea has recognized that for it to be successful it must be accepted by all involved parties. Attempts to introduce the Virtual Arrival clause into charterparties have received a mostly luke‐warm reception thus far.",
+      "keywords": [
+        "arrival",
+        "virtual",
+        "are",
+        "any",
+        "between",
+        "costs",
+        "savings",
+        "ship"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 208,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_07_23_making_virtual_a_reality__s03_per_voyage",
+      "doc_id": "poten_tankers_no_date_poten_2010_07_23_making_virtual_a_reality",
+      "parent_id": "poten_tankers_no_date_poten_2010_07_23_making_virtual_a_reality__root",
+      "title": "$ per voyage",
+      "section_path": [
+        "$ per voyage"
+      ],
+      "section_path_text": "$ per voyage",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Ras Tanura ‐ Yokohama ‐ VLCC Bonny ‐ Philadelphia ‐ Suezmax Ras Tannura ‐ LOOP ‐ VLCC The routing companies required by the Virtual Arrival system are third‐party assessors equipped and trusted to assess weather conditions and provide the most efficient route and speed for individual tankers. These assessors must then be trusted to provide an auditable post‐voyage record in compliance with all legal requirements.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "grain",
+        "crude_oil",
+        "arrival",
+        "virtual",
+        "system",
+        "assessors"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 347,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_07_23_making_virtual_a_reality__s04_preparing_to_measure_emissions",
+      "doc_id": "poten_tankers_no_date_poten_2010_07_23_making_virtual_a_reality",
+      "parent_id": "poten_tankers_no_date_poten_2010_07_23_making_virtual_a_reality__root",
+      "title": "Preparing to Measure Emissions",
+      "section_path": [
+        "Preparing to Measure Emissions"
+      ],
+      "section_path_text": "Preparing to Measure Emissions",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Despite the failure of UN Climate Change negotiators in Copenhagen to incorporate shipping into their final Accord last year, there is a suspicion among some that regulation of maritime emissions of greenhouse gases at some level is inevitable. In March, the Marine Environmental Protection Committee (MEPC) of the IMO met in London to discuss competing proposals for market‐based measures to regulate marine emissions of greenhouse gases.",
+      "keywords": [
+        "gas",
+        "emissions",
+        "arrival",
+        "greenhouse",
+        "regulation",
+        "virtual",
+        "are",
+        "based"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 269,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

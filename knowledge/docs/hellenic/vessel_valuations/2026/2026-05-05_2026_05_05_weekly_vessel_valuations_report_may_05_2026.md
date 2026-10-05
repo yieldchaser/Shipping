@@ -23,17 +23,18 @@ keywords:
 - gas
 - usd
 - mil
+- noo
 - sold
-- value
 linked_assets_discovered: 1
 linked_assets_failed: 0
 linked_assets_ingested: 1
 linked_assets_mirrored: 1
 linked_assets_skipped: 0
 market_tone: neutral
-numeric_observation_count: 27
+numeric_observation_count: 40
 numeric_observations:
-- section: Main
+- &id001
+  section: Main
   section_type: null
   source_line: Panamax BC Donousa (76,400 DWT, Jun 2004, Tsuneishi Zosen) sold by
     Dileton Maritime for USD 9.3 mil, VV Value USD 8.7 mil.
@@ -41,9 +42,10 @@ numeric_observations:
   values:
   - 76400.0
   - 2004.0
-  - 9300.0
-  - 8700.0
-- section: Main
+  - 9.3
+  - 8.7
+- &id002
+  section: Main
   section_type: null
   source_line: Ultramax Amstel Tiger (60,500 DWT, Aug 2016, Oshima) sold by Triton
     Navigation SS/DD Due for USD 27.8 mil, VV Value USD 28.2 mil.
@@ -51,9 +53,10 @@ numeric_observations:
   values:
   - 60500.0
   - 2016.0
-  - 27800.0
-  - 28200.0
-- section: Main
+  - 27.8
+  - 28.2
+- &id003
+  section: Main
   section_type: null
   source_line: Supramax Honcho (56,600 DWT, May 2011, COSCO HI) bought by Greek buyers
     SS/DD Due for USD 13.4 mil, VV Value USD 14.1 mil.
@@ -61,9 +64,10 @@ numeric_observations:
   values:
   - 56600.0
   - 2011.0
-  - 13400.0
-  - 14100.0
-- section: Main
+  - 13.4
+  - 14.1
+- &id004
+  section: Main
   section_type: null
   source_line: 'Tankers: 8-year-old Aframaxes are currently selling at parity with
     newbuild values, driven by its versatility and sustained demand across the Tanker
@@ -71,7 +75,8 @@ numeric_observations:
   unit: null
   values:
   - 8.0
-- section: Main
+- &id005
+  section: Main
   section_type: null
   source_line: Suezmax Aegean Horizon (158,700 DWT, Aug 2007, HHI Ulsan) sold to undisclosed
     buyers for USD 50.10 mil, VV Value USD 47.58 mil
@@ -79,9 +84,10 @@ numeric_observations:
   values:
   - 158700.0
   - 2007.0
-  - 50100.0
-  - 47580.0
-- section: Main
+  - 50.1
+  - 47.58
+- &id006
+  section: Main
   section_type: null
   source_line: Aframax Southern Reverence (108,700 DWT, Mar 2018, Tsuneishi Zosen)
     sold for USD 75 mil, VV Value USD 76.36 mil
@@ -90,8 +96,9 @@ numeric_observations:
   - 108700.0
   - 2018.0
   - 75.0
-  - 76360.0
-- section: Main
+  - 76.36
+- &id007
+  section: Main
   section_type: null
   source_line: Aframax Pusaka Borneo (108,500 DWT, Nov 2018, Tsuneishi Zosen) sold
     to Eurotankers for USD 76.5 mil, VV Value USD 78.18 mil
@@ -99,9 +106,10 @@ numeric_observations:
   values:
   - 108500.0
   - 2018.0
-  - 76500.0
-  - 78180.0
-- section: Main
+  - 76.5
+  - 78.18
+- &id008
+  section: Main
   section_type: null
   source_line: MR2 Orion (51,900 DWT, Mar 2010, Hyundai Mipo) sold to unknown Greek
     buyers for USD 25.00 mil, VV value USD 24.63 mil
@@ -110,9 +118,10 @@ numeric_observations:
   - 2.0
   - 51900.0
   - 2010.0
-  - 25000.0
-  - 24630.0
-- section: Main
+  - 25.0
+  - 24.63
+- &id009
+  section: Main
   section_type: null
   source_line: Handy Container Perito Moreno (1,740 TEU, Dec 2009, Guangzhou Wenchong)
     sold by NSC Schifffahrtsgesellschaft for USD 23 mil, VV Value USD 21.8 mil.
@@ -121,8 +130,9 @@ numeric_observations:
   - 1740.0
   - 2009.0
   - 23.0
-  - 21800.0
-- section: Main
+  - 21.8
+- &id010
+  section: Main
   section_type: null
   source_line: Feedermax Pacanda (1,049 TEU, May 2007, Dae Sun) sold by Pegasus Shipping
     for USD 11.5 mil, VV Value USD 11.75 mil.
@@ -130,15 +140,17 @@ numeric_observations:
   values:
   - 1049.0
   - 2007.0
-  - 11500.0
-  - 11750.0
-- section: Main
+  - 11.5
+  - 11.75
+- &id011
+  section: Main
   section_type: null
   source_line: 'Linked asset: 552025.jpg'
   unit: null
   values:
   - 552025.0
-- section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
+- &id012
+  section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
   unit: null
@@ -152,28 +164,239 @@ numeric_observations:
   - 90.0
   - 5.0
   - 53.0
-- section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
+- &id013
+  section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 600x279 mode=RGB'
   unit: null
   values:
   - 600.0
   - 279.0
-- section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
+- &id014
+  section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (72.0, 72.0)'
   unit: null
   values:
-  - 72000.0
-  - 72000.0
-- section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
+  - 72.0
+  - 72.0
+- &id015
+  section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 05 May 2026 | | | | | VV | Mini Matrix | - | Weekly | Change |
+    | | | |'
+  unit: null
+  values:
+  - 5.0
+  - 2026.0
+- &id016
+  section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
+  section_type: linked_image_asset
+  source_line: '| | ° | 1.0% | 0.6% | 20.1% | 10.2% | 20.9% | 10.6% | 0.0% | OD |
+    02% | 7188 | 0.2% | | 70.3% |'
+  unit: pct
+  values:
+  - 1.0
+  - 0.6
+  - 20.1
+  - 10.2
+  - 20.9
+  - 10.6
+  - 2.0
+  - 7188.0
+  - 0.2
+  - 70.3
+- &id017
+  section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
+  section_type: linked_image_asset
+  source_line: '| | | 5 320k | "160k | | 73k | 50k | a 180k | 82k | 62k | 38k | 5
+    7000" | 4280 | 5 | noo |'
+  unit: null
+  values:
+  - 5.0
+  - 320.0
+  - 160.0
+  - 73.0
+  - 50.0
+  - 180.0
+  - 82.0
+  - 62.0
+  - 38.0
+  - 5.0
+- &id018
+  section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 5 | Ls | OS® | | 70.2% | 1s | 705% | 02 | 10.9% | OD | 117% |
+    20.2% | 1s | 10.2% |'
+  unit: pct
+  values:
+  - 5.0
+  - 70.2
+  - 1.0
+  - 705.0
+  - 2.0
+  - 10.9
+  - 117.0
+  - 20.2
+  - 1.0
+  - 10.2
+- &id019
+  section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
+  section_type: linked_image_asset
+  source_line: '| | | 320k | "160k | nok | 5 73k | S0k | 180k | 82 | 60k | 38k | 7000"
+    | 4250 | | noo |'
+  unit: null
+  values:
+  - 320.0
+  - 160.0
+  - 5.0
+  - 73.0
+  - 180.0
+  - 82.0
+  - 60.0
+  - 38.0
+  - 7000.0
+  - 4250.0
+- &id020
+  section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
+  section_type: linked_image_asset
+  source_line: '| | w | Vs | | 06% | 10.2% | 123% | 705% | | +2.0% | 02% | | 20.2%
+    | 718% | 0.0% |'
+  unit: pct
+  values:
+  - 6.0
+  - 10.2
+  - 123.0
+  - 705.0
+  - 2.0
+  - 2.0
+  - 20.2
+  - 718.0
+- &id021
+  section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
+  section_type: linked_image_asset
+  source_line: '| | | 320k | "160k | nok | 73k | . 50k | 180k | 80k | 60k | 35k |
+    5 | " - 4280 " | . 1780 | noo |'
+  unit: null
+  values:
+  - 320.0
+  - 160.0
+  - 73.0
+  - 50.0
+  - 180.0
+  - 80.0
+  - 60.0
+  - 35.0
+  - 5.0
+  - 4280.0
+- &id022
+  section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
+  section_type: linked_image_asset
+  source_line: '| | s | 08s | 20.1% | 202% | 20.2% | 13.6% | 105% | | +28B% | O02
+    | | 20.2% | +28% | |'
+  unit: pct
+  values:
+  - 8.0
+  - 20.1
+  - 202.0
+  - 20.2
+  - 13.6
+  - 105.0
+  - 28.0
+  - 2.0
+  - 20.2
+  - 28.0
+- &id023
+  section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
+  section_type: linked_image_asset
+  source_line: '| | | | "160k | nok | 73k | 50k | 5 180k | "80k | = 60k | 32k | 7000
+    | 4250 ° | 1780 | noo |'
+  unit: null
+  values:
+  - 160.0
+  - 73.0
+  - 50.0
+  - 5.0
+  - 180.0
+  - 80.0
+  - 60.0
+  - 32.0
+  - 7000.0
+  - 4250.0
+- &id024
+  section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 20 | 710% | 70.8% | 710% | 20.2% | 74 | 70.6% | Dh | 735% | ON
+    | 10.6% | 20.3% | 738% | 08% |'
+  unit: pct
+  values:
+  - 20.0
+  - 710.0
+  - 70.8
+  - 710.0
+  - 20.2
+  - 74.0
+  - 70.6
+  - 735.0
+  - 10.6
+  - 20.3
+- &id025
+  section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
+  section_type: linked_image_asset
+  source_line: '| | | F | "160k | . nok | 70K | 45k | 5 180k | 7k | 55k | . 30k |
+    5 7000" | . 4280 | . 1780 | . noo |'
+  unit: null
+  values:
+  - 160.0
+  - 70.0
+  - 45.0
+  - 5.0
+  - 180.0
+  - 7.0
+  - 55.0
+  - 30.0
+  - 5.0
+  - 7000.0
+- &id026
+  section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 2 | 717% | 718% | 712 | | +0.7% | 705% | 1a | | 02% | 0.0% | 20.4%
+    | | Ass |'
+  unit: pct
+  values:
+  - 2.0
+  - 717.0
+  - 718.0
+  - 712.0
+  - 0.7
+  - 705.0
+  - 1.0
+  - 2.0
+  - 20.4
+- &id027
+  section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
+  section_type: linked_image_asset
+  source_line: '| \| | | | | 105k | 70k | 45k | | 7Sk | | 30k | 6500 | 4000 | | noo
+    |'
+  unit: null
+  values:
+  - 105.0
+  - 70.0
+  - 45.0
+  - 7.0
+  - 30.0
+  - 6500.0
+  - 4000.0
+- &id028
+  section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
   section_type: linked_image_asset
   source_line: 05 May 2026 VV Mini Matrix - Weekly Change
   unit: null
   values:
   - 5.0
   - 2026.0
-- section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
+- &id029
+  section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
   section_type: linked_image_asset
   source_line: '° 5 1.0% . 0.6% S 20.1% 3 10.2% : 20.9% a 10.6% Bs 0.0% > OD - 02%
     5 7188 2 0.2% 5 71s if 70.3%'
@@ -182,14 +405,15 @@ numeric_observations:
   - 5.0
   - 1.0
   - 0.6
-  - 20100.0
+  - 20.1
   - 3.0
-  - 10200.0
-  - 20900.0
-  - 10600.0
+  - 10.2
+  - 20.9
+  - 10.6
   - 2.0
   - 5.0
-- section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
+- &id030
+  section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
   section_type: linked_image_asset
   source_line: 320k "160k miSk 73k 50k 180k 82k 62k 38k 7000" 4280 ° 1780 noo
   unit: null
@@ -204,7 +428,8 @@ numeric_observations:
   - 38.0
   - 7000.0
   - 4280.0
-- section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
+- &id031
+  section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
   section_type: linked_image_asset
   source_line: '5 I Ls : OS® . OBR 5 70.2% P 1s L. 705% - 02 ; 10.9% OD i 117% ‘ 20.2%
     : 1s . 10.2%'
@@ -212,15 +437,16 @@ numeric_observations:
   values:
   - 5.0
   - 5.0
-  - 70200.0
+  - 70.2
   - 1.0
   - 705.0
   - 2.0
-  - 10900.0
+  - 10.9
   - 117.0
-  - 20200.0
+  - 20.2
   - 1.0
-- section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
+- &id032
+  section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
   section_type: linked_image_asset
   source_line: 320k "160k nok 73k S0k 180k 82 60k 38k 7000" 4250 ° 1780 noo
   unit: null
@@ -235,14 +461,15 @@ numeric_observations:
   - 7000.0
   - 4250.0
   - 1780.0
-- section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
+- &id033
+  section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
   section_type: linked_image_asset
   source_line: 'w ; Vs : Os . 06% . 10.2% . 123% ; 705% . *1.0% 3 +2.0% 02% 5 +156
     - 20.2% . 718% 5 0.0%'
   unit: pct
   values:
   - 6.0
-  - 10200.0
+  - 10.2
   - 123.0
   - 705.0
   - 1.0
@@ -251,7 +478,8 @@ numeric_observations:
   - 2.0
   - 5.0
   - 156.0
-- section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
+- &id034
+  section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
   section_type: linked_image_asset
   source_line: 320k "160k nok 73k 50k 180k 80k 60k 35k ooo " 4280 " 1780 noo
   unit: null
@@ -266,23 +494,25 @@ numeric_observations:
   - 35.0
   - 4280.0
   - 1780.0
-- section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
+- &id035
+  section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
   section_type: linked_image_asset
   source_line: s b 08s rs 20.1% * 202% 20.2% z 13.6% 5 105% e 135% = +28B% , O02 5
     7s - 20.2% o +28% % O3*
   unit: pct
   values:
   - 8.0
-  - 20100.0
+  - 20.1
   - 202.0
-  - 20200.0
-  - 13600.0
+  - 20.2
+  - 13.6
   - 5.0
   - 105.0
   - 135.0
   - 28.0
   - 2.0
-- section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
+- &id036
+  section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
   section_type: linked_image_asset
   source_line: S0k "160k nok 73k 50k 180k "80k 60k 32k 7000 " 4250 ° 1780 noo
   unit: null
@@ -297,7 +527,8 @@ numeric_observations:
   - 7000.0
   - 4250.0
   - 1780.0
-- section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
+- &id037
+  section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
   section_type: linked_image_asset
   source_line: 20 F 710% ‘ 70.8% . 710% " 20.2% ~ 74 5 70.6% . Dh ; 735% . ON 5 10.6%
     . 20.3% . 738% . 08%
@@ -305,15 +536,16 @@ numeric_observations:
   values:
   - 20.0
   - 710.0
-  - 70800.0
+  - 70.8
   - 710.0
-  - 20200.0
+  - 20.2
   - 74.0
   - 5.0
-  - 70600.0
+  - 70.6
   - 735.0
   - 5.0
-- section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
+- &id038
+  section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
   section_type: linked_image_asset
   source_line: R0k "160k nok 70K 45k 180k 7k 55k 30k 7000" 4280 ° 1780 noo
   unit: null
@@ -328,7 +560,8 @@ numeric_observations:
   - 7000.0
   - 4280.0
   - 1780.0
-- section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
+- &id039
+  section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
   section_type: linked_image_asset
   source_line: 2 717% 718% 712 70.0% +0.7% 705% 1a 737% 02% 0.0% 20.4% 4a Ass
   unit: pct
@@ -337,13 +570,14 @@ numeric_observations:
   - 717.0
   - 718.0
   - 712.0
-  - 70000.0
+  - 70.0
   - 0.7
   - 705.0
   - 1.0
   - 737.0
   - 2.0
-- section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
+- &id040
+  section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
   section_type: linked_image_asset
   source_line: '| 300k 1SSk 105k 70k 45k 175k 7Sk 50k 30k 6500 4000 1780 noo'
   unit: null
@@ -366,333 +600,50 @@ regions:
 - meg
 section_count: 2
 signals:
-  numeric_observation_count: 27
+  numeric_observation_count: 40
   numeric_observations:
-  - section: Main
-    section_type: null
-    source_line: Panamax BC Donousa (76,400 DWT, Jun 2004, Tsuneishi Zosen) sold by
-      Dileton Maritime for USD 9.3 mil, VV Value USD 8.7 mil.
-    unit: usd
-    values:
-    - 76400.0
-    - 2004.0
-    - 9.3
-    - 8.7
-  - section: Main
-    section_type: null
-    source_line: Ultramax Amstel Tiger (60,500 DWT, Aug 2016, Oshima) sold by Triton
-      Navigation SS/DD Due for USD 27.8 mil, VV Value USD 28.2 mil.
-    unit: usd
-    values:
-    - 60500.0
-    - 2016.0
-    - 27.8
-    - 28.2
-  - section: Main
-    section_type: null
-    source_line: Supramax Honcho (56,600 DWT, May 2011, COSCO HI) bought by Greek
-      buyers SS/DD Due for USD 13.4 mil, VV Value USD 14.1 mil.
-    unit: usd
-    values:
-    - 56600.0
-    - 2011.0
-    - 13.4
-    - 14.1
-  - section: Main
-    section_type: null
-    source_line: 'Tankers: 8-year-old Aframaxes are currently selling at parity with
-      newbuild values, driven by its versatility and sustained demand across the Tanker
-      sector.'
-    unit: null
-    values:
-    - 8.0
-  - section: Main
-    section_type: null
-    source_line: Suezmax Aegean Horizon (158,700 DWT, Aug 2007, HHI Ulsan) sold to
-      undisclosed buyers for USD 50.10 mil, VV Value USD 47.58 mil
-    unit: usd
-    values:
-    - 158700.0
-    - 2007.0
-    - 50.1
-    - 47.58
-  - section: Main
-    section_type: null
-    source_line: Aframax Southern Reverence (108,700 DWT, Mar 2018, Tsuneishi Zosen)
-      sold for USD 75 mil, VV Value USD 76.36 mil
-    unit: usd
-    values:
-    - 108700.0
-    - 2018.0
-    - 75.0
-    - 76.36
-  - section: Main
-    section_type: null
-    source_line: Aframax Pusaka Borneo (108,500 DWT, Nov 2018, Tsuneishi Zosen) sold
-      to Eurotankers for USD 76.5 mil, VV Value USD 78.18 mil
-    unit: usd
-    values:
-    - 108500.0
-    - 2018.0
-    - 76.5
-    - 78.18
-  - section: Main
-    section_type: null
-    source_line: MR2 Orion (51,900 DWT, Mar 2010, Hyundai Mipo) sold to unknown Greek
-      buyers for USD 25.00 mil, VV value USD 24.63 mil
-    unit: usd
-    values:
-    - 51900.0
-    - 2010.0
-    - 25.0
-    - 24.63
-  - section: Main
-    section_type: null
-    source_line: Handy Container Perito Moreno (1,740 TEU, Dec 2009, Guangzhou Wenchong)
-      sold by NSC Schifffahrtsgesellschaft for USD 23 mil, VV Value USD 21.8 mil.
-    unit: usd
-    values:
-    - 1740.0
-    - 2009.0
-    - 23.0
-    - 21.8
-  - section: Main
-    section_type: null
-    source_line: Feedermax Pacanda (1,049 TEU, May 2007, Dae Sun) sold by Pegasus
-      Shipping for USD 11.5 mil, VV Value USD 11.75 mil.
-    unit: usd
-    values:
-    - 1049.0
-    - 2007.0
-    - 11.5
-    - 11.75
-  - section: Main
-    section_type: null
-    source_line: 'Linked asset: 552025.jpg'
-    unit: null
-    values:
-    - 552025.0
-  - section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
-    section_type: linked_image_asset
-    source_line: 'Linked image asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
-    unit: null
-    values:
-    - 2026.0
-    - -5.0
-    - -5.0
-    - 5.0
-    - -2026.0
-    - 552025.0
-    - 90.0
-    - 3.0
-  - section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
-    section_type: linked_image_asset
-    source_line: 'Image metadata: JPEG 600x279 mode=RGB'
-    unit: null
-    values:
-    - 600.0
-    - 79.0
-  - section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
-    section_type: linked_image_asset
-    source_line: 'dpi: (72.0, 72.0)'
-    unit: null
-    values:
-    - 72.0
-    - 72.0
-  - section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
-    section_type: linked_image_asset
-    source_line: 05 May 2026 VV Mini Matrix - Weekly Change
-    unit: null
-    values:
-    - 5.0
-    - 2026.0
-  - section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
-    section_type: linked_image_asset
-    source_line: '° 5 1.0% . 0.6% S 20.1% 3 10.2% : 20.9% a 10.6% Bs 0.0% > OD - 02%
-      5 7188 2 0.2% 5 71s if 70.3%'
-    unit: pct
-    values:
-    - 5.0
-    - 1.0
-    - 0.6
-    - 20.1
-    - 3.0
-    - 10.2
-    - 20.9
-    - 10.6
-    - 2.0
-    - 5.0
-  - section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
-    section_type: linked_image_asset
-    source_line: 320k "160k miSk 73k 50k 180k 82k 62k 38k 7000" 4280 ° 1780 noo
-    unit: null
-    values:
-    - 320.0
-    - 160.0
-    - 73.0
-    - 50.0
-    - 180.0
-    - 82.0
-    - 62.0
-    - 38.0
-    - 7000.0
-    - 4280.0
-  - section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
-    section_type: linked_image_asset
-    source_line: '5 I Ls : OS® . OBR 5 70.2% P 1s L. 705% - 02 ; 10.9% OD i 117% ‘
-      20.2% : 1s . 10.2%'
-    unit: pct
-    values:
-    - 5.0
-    - 5.0
-    - 70.2
-    - 1.0
-    - 705.0
-    - 2.0
-    - 10.9
-    - 117.0
-    - 20.2
-    - 1.0
-  - section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
-    section_type: linked_image_asset
-    source_line: 320k "160k nok 73k S0k 180k 82 60k 38k 7000" 4250 ° 1780 noo
-    unit: null
-    values:
-    - 320.0
-    - 160.0
-    - 73.0
-    - 180.0
-    - 82.0
-    - 60.0
-    - 38.0
-    - 7000.0
-    - 4250.0
-    - 1780.0
-  - section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
-    section_type: linked_image_asset
-    source_line: 'w ; Vs : Os . 06% . 10.2% . 123% ; 705% . *1.0% 3 +2.0% 02% 5 +156
-      - 20.2% . 718% 5 0.0%'
-    unit: pct
-    values:
-    - 6.0
-    - 10.2
-    - 123.0
-    - 705.0
-    - 1.0
-    - 3.0
-    - 2.0
-    - 2.0
-    - 5.0
-    - 156.0
-  - section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
-    section_type: linked_image_asset
-    source_line: 320k "160k nok 73k 50k 180k 80k 60k 35k ooo " 4280 " 1780 noo
-    unit: null
-    values:
-    - 320.0
-    - 160.0
-    - 73.0
-    - 50.0
-    - 180.0
-    - 80.0
-    - 60.0
-    - 35.0
-    - 4280.0
-    - 1780.0
-  - section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
-    section_type: linked_image_asset
-    source_line: s b 08s rs 20.1% * 202% 20.2% z 13.6% 5 105% e 135% = +28B% , O02
-      5 7s - 20.2% o +28% % O3*
-    unit: pct
-    values:
-    - 8.0
-    - 20.1
-    - 202.0
-    - 20.2
-    - 13.6
-    - 5.0
-    - 105.0
-    - 135.0
-    - 28.0
-    - 2.0
-  - section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
-    section_type: linked_image_asset
-    source_line: S0k "160k nok 73k 50k 180k "80k 60k 32k 7000 " 4250 ° 1780 noo
-    unit: null
-    values:
-    - 160.0
-    - 73.0
-    - 50.0
-    - 180.0
-    - 80.0
-    - 60.0
-    - 32.0
-    - 7000.0
-    - 4250.0
-    - 1780.0
-  - section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
-    section_type: linked_image_asset
-    source_line: 20 F 710% ‘ 70.8% . 710% " 20.2% ~ 74 5 70.6% . Dh ; 735% . ON 5
-      10.6% . 20.3% . 738% . 08%
-    unit: pct
-    values:
-    - 20.0
-    - 710.0
-    - 70.8
-    - 710.0
-    - 20.2
-    - 74.0
-    - 5.0
-    - 70.6
-    - 735.0
-    - 5.0
-  - section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
-    section_type: linked_image_asset
-    source_line: R0k "160k nok 70K 45k 180k 7k 55k 30k 7000" 4280 ° 1780 noo
-    unit: null
-    values:
-    - 160.0
-    - 70.0
-    - 45.0
-    - 180.0
-    - 7.0
-    - 55.0
-    - 30.0
-    - 7000.0
-    - 4280.0
-    - 1780.0
-  - section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
-    section_type: linked_image_asset
-    source_line: 2 717% 718% 712 70.0% +0.7% 705% 1a 737% 02% 0.0% 20.4% 4a Ass
-    unit: pct
-    values:
-    - 2.0
-    - 717.0
-    - 718.0
-    - 712.0
-    - 70.0
-    - 0.7
-    - 705.0
-    - 1.0
-    - 737.0
-    - 2.0
-  - section: 'Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg'
-    section_type: linked_image_asset
-    source_line: '| 300k 1SSk 105k 70k 45k 175k 7Sk 50k 30k 6500 4000 1780 noo'
-    unit: null
-    values:
-    - 300.0
-    - 1.0
-    - 105.0
-    - 70.0
-    - 45.0
-    - 175.0
-    - 7.0
-    - 50.0
-    - 30.0
-    - 6500.0
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - *id010
+  - *id011
+  - *id012
+  - *id013
+  - *id014
+  - *id015
+  - *id016
+  - *id017
+  - *id018
+  - *id019
+  - *id020
+  - *id021
+  - *id022
+  - *id023
+  - *id024
+  - *id025
+  - *id026
+  - *id027
+  - *id028
+  - *id029
+  - *id030
+  - *id031
+  - *id032
+  - *id033
+  - *id034
+  - *id035
+  - *id036
+  - *id037
+  - *id038
+  - *id039
+  - *id040
 source: hellenic
-source_path: corpus/02-hellenic/vessel_valuations/2026/2026-05-05_weekly-vessel-valuations-report-may-05-2026.html
+source_path: reports/hellenic/vessel_valuations/2026/2026-05-05_weekly-vessel-valuations-report-may-05-2026.html
 source_stem: 2026-05-05_weekly-vessel-valuations-report-may-05-2026
 source_url: https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-may-05-2026
 summary: 'Main
@@ -741,7 +692,7 @@ Feedermax Pacanda (1,049 TEU, May 2007, Dae Sun) sold by Pegasus Shipping for US
 Linked asset: 552025.jpg
 
 ## Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg
-Source asset: corpus/02-hellenic/vessel_valuations/2026/assets/2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg
+Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg
 
 Linked image asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg
 
@@ -750,7 +701,26 @@ Image metadata: JPEG 600x279 mode=RGB
 Embedded info:
 dpi: (72.0, 72.0)
 
-OCR text:
+[structured table]
+| © | Vessels |  |  |  |  |  |  | mma |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|  | 05 May 2026 |  |  |  |  | VV | Mini Matrix | - | Weekly | Change |  |  |  |  |
+|  |  |  |  | Tankers |  |  |  |  | Bulkers |  |  | Containers |  |  |
+|  | Year |  | Suez | Afra | um | mn | Cape |  | = Supra. | Handy |  | Pmax | Handy | Fmax |
+|  | ° | 1.0% | 0.6% | 20.1% | 10.2% | 20.9% | 10.6% | 0.0% | OD | 02% | 7188 | 0.2% |  | 70.3% |
+|  |  | 5 320k | "160k |  | 73k | 50k | a 180k | 82k | 62k | 38k | 5 7000" | 4280 | 5 | noo |
+|  | 5 | Ls | OS® |  | 70.2% | 1s | 705% | 02 | 10.9% | OD | 117% | 20.2% | 1s | 10.2% |
+|  |  | 320k | "160k | nok | 5 73k | S0k | 180k | 82 | 60k | 38k | 7000" | 4250 |  | noo |
+|  | w | Vs |  | 06% | 10.2% | 123% | 705% |  | +2.0% | 02% |  | 20.2% | 718% | 0.0% |
+|  |  | 320k | "160k | nok | 73k | . 50k | 180k | 80k | 60k | 35k | 5 | ” - 4280 " | . 1780 | noo |
+|  | s | 08s | 20.1% | 202% | 20.2% | 13.6% | 105% |  | +28B% | O02 |  | 20.2% | +28% |  |
+|  |  |  | "160k | nok | 73k | 50k | 5 180k | "80k | = 60k | 32k | 7000 | 4250 ° | 1780 | noo |
+|  | 20 | 710% | 70.8% | 710% | 20.2% | 74 | 70.6% | Dh | 735% | ON | 10.6% | 20.3% | 738% | 08% |
+|  |  | F | "160k | . nok | 70K | 45k | 5 180k | 7k | 55k | . 30k | 5 7000" | . 4280 | . 1780 | . noo |
+|  | 2 | 717% | 718% | 712 |  | +0.7% | 705% | 1a |  | 02% | 0.0% | 20.4% |  | Ass |
+| \| |  |  |  | 105k | 70k | 45k |  | 7Sk |  | 30k | 6500 | 4000 |  | noo |
+
+[raw ocr]
 © Vessels Vase mma
 05 May 2026 VV Mini Matrix - Weekly Change
 Tankers Bulkers Containers

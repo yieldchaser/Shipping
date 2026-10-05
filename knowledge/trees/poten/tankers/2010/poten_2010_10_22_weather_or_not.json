@@ -1,0 +1,219 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_10_22_weather_or_not__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_10_22_weather_or_not",
+  "parent_id": null,
+  "title": "Weather or Not",
+  "section_path": [
+    "Weather or Not"
+  ],
+  "section_path_text": "Weather or Not",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "EIA's Winter Fuels Outlook\nLast week the Energy Intelligence Agency (EIA) released its annual winter fuels outlook, outlining what the Department of Energy's analysts expect winter will bring for one of the world's largest energy consumers. On October 18 th , industry participants gathered in midtown Manhattan to hear Dr. Richard Newell, the Administrator of the EIA, present the organization's forecasts at the New York Energy Forum.",
+  "keywords": [
+    "atlantic",
+    "crude_oil",
+    "products",
+    "gas",
+    "heating",
+    "winter",
+    "demand",
+    "energy",
+    "forecast",
+    "fuel",
+    "eia",
+    "noaa"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 798,
+  "source_path": "reports/poten/2010/poten_2010-10-22_weather-or-not.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_10_22_weather_or_not__s01_eia_s_winter_fuels_outlook",
+      "doc_id": "poten_tankers_no_date_poten_2010_10_22_weather_or_not",
+      "parent_id": "poten_tankers_no_date_poten_2010_10_22_weather_or_not__root",
+      "title": "EIA's Winter Fuels Outlook",
+      "section_path": [
+        "EIA's Winter Fuels Outlook"
+      ],
+      "section_path_text": "EIA's Winter Fuels Outlook",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Last week the Energy Intelligence Agency (EIA) released its annual winter fuels outlook, outlining what the Department of Energy's analysts expect winter will bring for one of the world's largest energy consumers. On October 18 th , industry participants gathered in midtown Manhattan to hear Dr.",
+      "keywords": [
+        "crude_oil",
+        "gas",
+        "energy",
+        "winter",
+        "demand",
+        "dr.",
+        "eia",
+        "newell"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 203,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_10_22_weather_or_not__s02_u_s_population_weighted_heating_degree_days",
+      "doc_id": "poten_tankers_no_date_poten_2010_10_22_weather_or_not",
+      "parent_id": "poten_tankers_no_date_poten_2010_10_22_weather_or_not__root",
+      "title": "U.S. Population Weighted Heating Degree Days",
+      "section_path": [
+        "U.S. Population Weighted Heating Degree Days"
+      ],
+      "section_path_text": "U.S. Population Weighted Heating Degree Days",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "2009‐2010 2010‐2011 (NOAA forecast) NOAA formulates its outlook based upon predicted heating degree days, a quantitative index which reflects the demand for energy necessary to cool or heat homes and businesses. Heating degree days are calculated by taking the sum of negative differences between the mean daily temperature and comfortable room temperature, which the NOAA defines as 65 degrees Fahrenheit.",
+      "keywords": [
+        "heating",
+        "noaa",
+        "temperature",
+        "demand",
+        "forecast",
+        "fuel",
+        "days",
+        "degree"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 168,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_10_22_weather_or_not__s03_united_states_primary_heating_fuel_use_by_region",
+      "doc_id": "poten_tankers_no_date_poten_2010_10_22_weather_or_not",
+      "parent_id": "poten_tankers_no_date_poten_2010_10_22_weather_or_not__root",
+      "title": "United States Primary Heating Fuel Use by Region",
+      "section_path": [
+        "United States Primary Heating Fuel Use by Region"
+      ],
+      "section_path_text": "United States Primary Heating Fuel Use by Region",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The Northeastern states, which are home to several of the nation's most densely populated metropolitan areas, make up the primary market for heating oil in the United States. According to the EIA, 30% of households in the Northeastern United States use distillate fuels as their primary heating fuel, accounting for 80% of US heating oil consumption.",
+      "keywords": [
+        "atlantic",
+        "crude_oil",
+        "heating",
+        "states",
+        "northeastern",
+        "oil",
+        "united",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 134,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_10_22_weather_or_not__s04_stuffed_stockings",
+      "doc_id": "poten_tankers_no_date_poten_2010_10_22_weather_or_not",
+      "parent_id": "poten_tankers_no_date_poten_2010_10_22_weather_or_not__root",
+      "title": "Stuffed Stockings",
+      "section_path": [
+        "Stuffed Stockings"
+      ],
+      "section_path_text": "Stuffed Stockings",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Increased demand for distillates this winter could equate to stronger tanker earnings. However, even in a case where temperatures dip below the levels predicted by NOAA, high inventory levels may keep tanker owners from realizing incremental demand increases.",
+      "keywords": [
+        "below",
+        "demand",
+        "levels",
+        "are",
+        "case",
+        "chart",
+        "could",
+        "current"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 74,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_10_22_weather_or_not__s05_historical",
+      "doc_id": "poten_tankers_no_date_poten_2010_10_22_weather_or_not",
+      "parent_id": "poten_tankers_no_date_poten_2010_10_22_weather_or_not__root",
+      "title": "Historical",
+      "section_path": [
+        "Historical"
+      ],
+      "section_path_text": "Historical",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "",
+      "keywords": [
+        "forecast"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_10_22_weather_or_not__s06_normal_range",
+      "doc_id": "poten_tankers_no_date_poten_2010_10_22_weather_or_not",
+      "parent_id": "poten_tankers_no_date_poten_2010_10_22_weather_or_not__root",
+      "title": "Normal Range",
+      "section_path": [
+        "Normal Range"
+      ],
+      "section_path_text": "Normal Range",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "",
+      "keywords": [
+        "base",
+        "case",
+        "forecast",
+        "inventories"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_10_22_weather_or_not__s07_forecast_10_colder",
+      "doc_id": "poten_tankers_no_date_poten_2010_10_22_weather_or_not",
+      "parent_id": "poten_tankers_no_date_poten_2010_10_22_weather_or_not__root",
+      "title": "Forecast ‐ 10% Colder",
+      "section_path": [
+        "Forecast ‐ 10% Colder"
+      ],
+      "section_path_text": "Forecast ‐ 10% Colder",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Forecast ‐ 10% Warmer The EIA expects that even in a scenario where winter temperatures are 10% colder than anticipated, heating fuel inventories will likely stay high enough to prevent major supply disruptions. This is likely to dampen the need for imports, however stronger demand for refined petroleum products can do no harm to the product tanker market and may help finally lift earnings out of the summer doldrums.",
+      "keywords": [
+        "products",
+        "winter",
+        "demand",
+        "heating",
+        "help",
+        "likely",
+        "may",
+        "supply"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 163,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

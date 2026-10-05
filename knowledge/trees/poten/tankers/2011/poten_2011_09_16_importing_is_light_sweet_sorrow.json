@@ -1,0 +1,218 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_09_16_importing_is_light_sweet_sorrow__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_09_16_importing_is_light_sweet_sorrow",
+  "parent_id": null,
+  "title": "Importing is Light Sweet Sorrow",
+  "section_path": [
+    "Importing is Light Sweet Sorrow"
+  ],
+  "section_path_text": "Importing is Light Sweet Sorrow",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Importing is Light Sweet Sorrow\nLast Tuesday, US Atlantic Coast refiner Sunoco announced its plans to exit the refining business by unloading its \"unprofitable\" refineries in Philadelphia and Marcus Hook, Pennsylvania. These refineries have a combined crude oil distillation capacity of over 500 kbd, and Sunoco has stated that if no buyers emerge for the facilities, they will idle the main processing units in July 2012. Over the course of this year, refiners on the US Atlantic Coast, especially those such as Sunoco with equipment designed to process mostly light, low sulfur crude oil, have struggled with depressed domestic demand for their products and increasingly dear prices for their raw materials.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "atlantic",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "products",
+    "crude",
+    "oil",
+    "sunoco",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1045,
+  "source_path": "reports/poten/2011/poten_2011-09-16_importing-is-light-sweet-sorrow.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_09_16_importing_is_light_sweet_sorrow__s01_importing_is_light_sweet_sorrow",
+      "doc_id": "poten_tankers_no_date_poten_2011_09_16_importing_is_light_sweet_sorrow",
+      "parent_id": "poten_tankers_no_date_poten_2011_09_16_importing_is_light_sweet_sorrow__root",
+      "title": "Importing is Light Sweet Sorrow",
+      "section_path": [
+        "Importing is Light Sweet Sorrow"
+      ],
+      "section_path_text": "Importing is Light Sweet Sorrow",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Last Tuesday, US Atlantic Coast refiner Sunoco announced its plans to exit the refining business by unloading its \"unprofitable\" refineries in Philadelphia and Marcus Hook, Pennsylvania. These refineries have a combined crude oil distillation capacity of over 500 kbd, and Sunoco has stated that if no buyers emerge for the facilities, they will idle the main processing units in July 2012.",
+      "keywords": [
+        "suezmax",
+        "china",
+        "atlantic",
+        "west_africa",
+        "crude_oil",
+        "products",
+        "sunoco",
+        "refineries"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 330,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_09_16_importing_is_light_sweet_sorrow__s02_west_african",
+      "doc_id": "poten_tankers_no_date_poten_2011_09_16_importing_is_light_sweet_sorrow",
+      "parent_id": "poten_tankers_no_date_poten_2011_09_16_importing_is_light_sweet_sorrow__root",
+      "title": "West African",
+      "section_path": [
+        "West African"
+      ],
+      "section_path_text": "West African",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "streams accounted for 69% of Sunoco's June imports",
+      "keywords": [
+        "accounted",
+        "imports",
+        "june",
+        "streams",
+        "sunoco"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 12,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_09_16_importing_is_light_sweet_sorrow__s03_cameroon",
+      "doc_id": "poten_tankers_no_date_poten_2011_09_16_importing_is_light_sweet_sorrow",
+      "parent_id": "poten_tankers_no_date_poten_2011_09_16_importing_is_light_sweet_sorrow__root",
+      "title": "Cameroon",
+      "section_path": [
+        "Cameroon"
+      ],
+      "section_path_text": "Cameroon",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "According to data from the US Energy Intelligence Agency (EIA), Nigerian imports alone accounted for almost half of Sunoco's crude oil imports in the month of June. Most seaborne streams consumed by coastal refineries are priced off of the Brent crude oil benchmark.",
+      "keywords": [
+        "crude_oil",
+        "crude",
+        "oil",
+        "almost",
+        "brent",
+        "imports",
+        "according",
+        "accounted"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 90,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_09_16_importing_is_light_sweet_sorrow__s04_brent_spot_price",
+      "doc_id": "poten_tankers_no_date_poten_2011_09_16_importing_is_light_sweet_sorrow",
+      "parent_id": "poten_tankers_no_date_poten_2011_09_16_importing_is_light_sweet_sorrow__root",
+      "title": "Brent Spot Price",
+      "section_path": [
+        "Brent Spot Price"
+      ],
+      "section_path_text": "Brent Spot Price",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Nigeria Bonny Light Brent Blend This year has also seen the premium for light sweet grades, such as Nigerian Bonny Light, increase along with tightened supply of these quality barrels. The premium of Nigerian Bonny Light to Brent crude has averaged $1.14 per barrel above Brent from 2001‐2010.",
+      "keywords": [
+        "crude_oil",
+        "crude",
+        "light",
+        "bonny",
+        "brent",
+        "premium",
+        "refiners",
+        "running"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 136,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_09_16_importing_is_light_sweet_sorrow__s05_sweet_sailing",
+      "doc_id": "poten_tankers_no_date_poten_2011_09_16_importing_is_light_sweet_sorrow",
+      "parent_id": "poten_tankers_no_date_poten_2011_09_16_importing_is_light_sweet_sorrow__root",
+      "title": "Sweet Sailing",
+      "section_path": [
+        "Sweet Sailing"
+      ],
+      "section_path_text": "Sweet Sailing",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The past five years have seen overall reported crude oil spot fixture volumes to the US Atlantic coast gradually wane, falling from nearly 48 million tons in 2005 to just over 25 million tons last year, as seen in the chart on the following page.",
+      "keywords": [
+        "atlantic",
+        "crude_oil",
+        "million",
+        "seen",
+        "tons",
+        "chart",
+        "coast",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 53,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_09_16_importing_is_light_sweet_sorrow__s06_total_volumes_mmt",
+      "doc_id": "poten_tankers_no_date_poten_2011_09_16_importing_is_light_sweet_sorrow",
+      "parent_id": "poten_tankers_no_date_poten_2011_09_16_importing_is_light_sweet_sorrow__root",
+      "title": "Total Volumes (mMT)",
+      "section_path": [
+        "Total Volumes (mMT)"
+      ],
+      "section_path_text": "Total Volumes (mMT)",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "2005 2006 2007 2008 2009 2010 2011 E",
+      "keywords": [],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 21,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_09_16_importing_is_light_sweet_sorrow__s07_vlcc",
+      "doc_id": "poten_tankers_no_date_poten_2011_09_16_importing_is_light_sweet_sorrow",
+      "parent_id": "poten_tankers_no_date_poten_2011_09_16_importing_is_light_sweet_sorrow__root",
+      "title": "VLCC",
+      "section_path": [
+        "VLCC"
+      ],
+      "section_path_text": "VLCC",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Total Fixture Volumes The majority of these volumes are lifted on Suezmax tankers from West Africa, the Mediterranean and UK Continent. Last year saw nearly 150 Suezmax fixtures to the US Atlantic Coast from Atlantic Basin and Mediterranean markets, accounting for about 8% of reported fixture activity in the sector worldwide.",
+      "keywords": [
+        "suezmax",
+        "atlantic",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "crude",
+        "oil",
+        "sunoco"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 368,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

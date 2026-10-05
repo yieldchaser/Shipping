@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2018_02_16_darkest_before_dawn__root",
+  "doc_id": "poten_tankers_no_date_poten_2018_02_16_darkest_before_dawn",
+  "parent_id": null,
+  "title": "Darkest Before Dawn",
+  "section_path": [
+    "Darkest Before Dawn"
+  ],
+  "section_path_text": "Darkest Before Dawn",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "(When) will the tanker market improve? The tanker market of the end of 2017 and the beginning of 2018 will probably be remembered as one of the worst in recent history. The fact that the tanker market of the 1980s was much worse (and probably lasted longer) is of little consolation to shipowners experiencing earnings that regularly do not cover vessel operating expenses, let alone corporate overhead and financing costs.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "atlantic",
+    "europe",
+    "crude_oil",
+    "are",
+    "markets",
+    "not",
+    "product",
+    "could",
+    "deliveries",
+    "oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 829,
+  "source_path": "reports/poten/2018/poten_2018-02-16_darkest-before-dawn.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_02_16_darkest_before_dawn__s01_when_will_the_tanker_market_improve",
+      "doc_id": "poten_tankers_no_date_poten_2018_02_16_darkest_before_dawn",
+      "parent_id": "poten_tankers_no_date_poten_2018_02_16_darkest_before_dawn__root",
+      "title": "(When) will the tanker market improve?",
+      "section_path": [
+        "(When) will the tanker market improve?"
+      ],
+      "section_path_text": "(When) will the tanker market improve?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The tanker market of the end of 2017 and the beginning of 2018 will probably be remembered as one of the worst in recent history. The fact that the tanker market of the 1980s was much worse (and probably lasted longer) is of little consolation to shipowners experiencing earnings that regularly do not cover vessel operating expenses, let alone corporate overhead and financing costs.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "atlantic",
+        "europe",
+        "crude_oil",
+        "are",
+        "markets",
+        "not"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 820,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

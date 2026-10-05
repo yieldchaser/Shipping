@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2017_10_13_flat_rate_on_the_rise_again__root",
+  "doc_id": "poten_tankers_no_date_poten_2017_10_13_flat_rate_on_the_rise_again",
+  "parent_id": null,
+  "title": "Flat Rate On The Rise Again",
+  "section_path": [
+    "Flat Rate On The Rise Again"
+  ],
+  "section_path_text": "Flat Rate On The Rise Again",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Flat Rates On The Rise Again\nAs the end of the year approaches, the Worldscale Association prepares to calculate the new flat rates that are going to be used by the tanker industry in 2018. Last week they announced the bunker prices that will be used for the 2018 flat rate calculations; the actual rates are typically published in December. This week we will look at the estimated flat rates for next year for some of the main trade routes.",
+  "keywords": [
+    "crude_oil",
+    "costs",
+    "flat",
+    "bunker",
+    "are",
+    "oil",
+    "prices",
+    "port",
+    "system",
+    "worldscale",
+    "year",
+    "after"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 730,
+  "source_path": "reports/poten/2017/poten_2017-10-13_flat-rate-on-the-rise-again.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2017_10_13_flat_rate_on_the_rise_again__s01_flat_rates_on_the_rise_again",
+      "doc_id": "poten_tankers_no_date_poten_2017_10_13_flat_rate_on_the_rise_again",
+      "parent_id": "poten_tankers_no_date_poten_2017_10_13_flat_rate_on_the_rise_again__root",
+      "title": "Flat Rates On The Rise Again",
+      "section_path": [
+        "Flat Rates On The Rise Again"
+      ],
+      "section_path_text": "Flat Rates On The Rise Again",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As the end of the year approaches, the Worldscale Association prepares to calculate the new flat rates that are going to be used by the tanker industry in 2018. Last week they announced the bunker prices that will be used for the 2018 flat rate calculations; the actual rates are typically published in December.",
+      "keywords": [
+        "crude_oil",
+        "costs",
+        "are",
+        "flat",
+        "bunker",
+        "port",
+        "system",
+        "voyage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 463,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2017_10_13_flat_rate_on_the_rise_again__s02_worldscale_bunker_prices_and_flat_rates_for_major_routes",
+      "doc_id": "poten_tankers_no_date_poten_2017_10_13_flat_rate_on_the_rise_again",
+      "parent_id": "poten_tankers_no_date_poten_2017_10_13_flat_rate_on_the_rise_again__root",
+      "title": "Worldscale Bunker Prices and Flat Rates for Major Routes",
+      "section_path": [
+        "Worldscale Bunker Prices and Flat Rates for Major Routes"
+      ],
+      "section_path_text": "Worldscale Bunker Prices and Flat Rates for Major Routes",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Bunker prices have declined from approximately $600/ton in the first half of 2014 as OPEC initially decided to defend its market share against growing oil production by U.S. Lower oil prices forced commercial oil producers to cut capital investments to preserve capital and government producers to use reduced oil revenues for state budgets rather than reinvestment in oil production.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "prices",
+        "bunker",
+        "flat",
+        "producers",
+        "production",
+        "capital"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 248,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

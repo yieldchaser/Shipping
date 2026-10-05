@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2017_10_27_taking_stock__root",
+  "doc_id": "poten_tankers_no_date_poten_2017_10_27_taking_stock",
+  "parent_id": null,
+  "title": "Taking Stock",
+  "section_path": [
+    "Taking Stock"
+  ],
+  "section_path_text": "Taking Stock",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The impact of oil market rebalancing on the tanker market\nWhen OPEC announced their first production cuts in eight years in September 2016, it was clear that the key objective was to drain record global oil inventories and bring a certain balance back to the oil markets. OPEC hoped that this would lead to a recovery in oil prices. The original six-month deal started on January 1, 2017 and cut a combined 1.8 million of production from OPEC and select non-OPEC producers (including Russia).",
+  "keywords": [
+    "meg",
+    "crude_oil",
+    "oil",
+    "opec",
+    "u.s.",
+    "cuts",
+    "million",
+    "production",
+    "crude",
+    "barrels",
+    "inventories",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 865,
+  "source_path": "reports/poten/2017/poten_2017-10-27_taking-stock.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2017_10_27_taking_stock__s01_the_impact_of_oil_market_rebalancing_on_the_tanker_market",
+      "doc_id": "poten_tankers_no_date_poten_2017_10_27_taking_stock",
+      "parent_id": "poten_tankers_no_date_poten_2017_10_27_taking_stock__root",
+      "title": "The impact of oil market rebalancing on the tanker market",
+      "section_path": [
+        "The impact of oil market rebalancing on the tanker market"
+      ],
+      "section_path_text": "The impact of oil market rebalancing on the tanker market",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "When OPEC announced their first production cuts in eight years in September 2016, it was clear that the key objective was to drain record global oil inventories and bring a certain balance back to the oil markets. OPEC hoped that this would lead to a recovery in oil prices.",
+      "keywords": [
+        "meg",
+        "crude_oil",
+        "oil",
+        "opec",
+        "u.s.",
+        "cuts",
+        "million",
+        "production"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 852,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

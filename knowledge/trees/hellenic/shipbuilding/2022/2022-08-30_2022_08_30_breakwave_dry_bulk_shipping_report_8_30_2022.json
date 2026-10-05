@@ -9,7 +9,7 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 8.30.2022",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nBottoming is a process; better days lie ahead for dry bulk - As the month of August comes to an end\nSource: Breakwave Advisors\n\nLinked asset: 2022-08-30_breakwave-dry-bulk-shipping-report-8-30-2022_breakwaveaugust302022report_3476a1b5958f.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-08-30_breakwave-dry-bulk-shipping-report-8-30-2022_breakwaveaugust302022report_3476a1b5958f.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nAugust 30, 2022\nBreakwave Dry Futures Baltic Dry Index\nIndex: 1,276 (spot): 1,082 Short-term Indicators:\n↓ 30D: -33.7% ↓ 30D: -42.9% Momentum: Negative\n↓ YTD: -38.7% ↓ YTD: -51.2% Sentiment: Negative\n↓ YOY: -66.0% ↓ YOY: -74.5% Fundamentals: Negative\nBi-Weekly Report\n• Bottoming is a process; better days lie ahead for dry bulk - As the month of August comes to an end, the dry bulk\nmarket is faced with numerous questions that have not been relevant during the past couple of years when the\nnarrative was dominated by issues like Covid-19 lockdowns, crew detentions, port congestion, supply chain\nbreakdowns and shifting trade patterns. With the focus now turning to the more traditional drivers for dry bulk\nrates, namely China and the associated industries driving ",
+  "summary": "Main\nBottoming is a process; better days lie ahead for dry bulk - As the month of August comes to an end\nSource: Breakwave Advisors\n\nLinked asset: 2022-08-30_breakwave-dry-bulk-shipping-report-8-30-2022_breakwaveaugust302022report_3476a1b5958f.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2022-08-30_breakwave-dry-bulk-shipping-report-8-30-2022_breakwaveaugust302022report_3476a1b5958f.pdf\n\n||BDRY|||||||\n|---|---|---|---|---|---|---|---|\n||Index: ↓ ↓ ↓|Dry Bulk Shipping Breakwave Dry Futures 30D: -33.7% YTD: -38.7% YOY: -66.0%|1,276 ↓ ↓ ↓|Baltic Dry Index (spot): 30D: -42.9% YTD: -51.2% YOY: -74.5%||1,082 Momentum: Sentiment: Fundamentals:|August 30, 2022 Short-term Indicators: Negative Negative Negative|\n|• • •||Bi-Weekly Report Dry bulk focus shifts back to fundamentals -|Bottoming is a process; better days lie ahead for dry bulk - expectations reflect a new reality or just sour trader's sentiment due to an ailing spot market. Another week, another stimulus announcement from China - returning back to the driver's seat as the dominant force of bulk imports. Supramax and a weighted average maturity of approximately 50-70 days.|thus, we remain optimistic for the medium-term o",
   "keywords": [
     "capesize",
     "panamax",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1470,
-  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-08-30_breakwave-dry-bulk-shipping-report-8-30-2022.html",
+  "token_count": 1505,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-08-30_breakwave-dry-bulk-shipping-report-8-30-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-8-30-2022",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-08-30_breakwave-dry-bulk-shipping-report-8-30-2022_breakwaveaugust302022report_3476a1b5958f.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-08-30_breakwave-dry-bulk-shipping-report-8-30-2022_breakwaveaugust302022report_3476a1b5958f.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nAugust 30, 2022\nBreakwave Dry Futures Baltic Dry Index\nIndex: 1,276 (spot): 1,082 Short-term Indicators:\n↓ 30D: -33.7% ↓ 30D: -42.9% Momentum: Negative\n↓ YTD: -38.7% ↓ YTD: -51.2% Sentiment: Negative\n↓ YOY: -66.0% ↓ YOY: -74.5% Fundamentals: Negative\nBi-Weekly Report\n• Bottoming is a process; better days lie ahead for dry bulk - As the month of August comes to an end, the dry bulk\nmarket is faced with numerous questions that have not been relevant during the past couple of years when the\nnarrative was dominated by issues like Covid-19 lockdowns, crew detentions, port congestion, supply chain\nbreakdowns and shifting trade patterns. With the focus now turning to the more traditional drivers for dry bulk\nrates, namely China and the associated industries driving the country's appetite for bulk materials, once again iron\nore demand and China's buying seasonality becomes extremely relevant.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-08-30_breakwave-dry-bulk-shipping-report-8-30-2022_breakwaveaugust302022report_3476a1b5958f.pdf\n\n||BDRY|||||||\n|---|---|---|---|---|---|---|---|\n||Index: ↓ ↓ ↓|Dry Bulk Shipping Breakwave Dry Futures 30D: -33.7% YTD: -38.7% YOY: -66.0%|1,276 ↓ ↓ ↓|Baltic Dry Index (spot): 30D: -42.9% YTD: -51.2% YOY: -74.5%||1,082 Momentum: Sentiment: Fundamentals:|August 30, 2022 Short-term Indicators: Negative Negative Negative|\n|• • •||Bi-Weekly Report Dry bulk focus shifts back to fundamentals -|Bottoming is a process; better days lie ahead for dry bulk - expectations reflect a new reality or just sour trader's sentiment due to an ailing spot market. Another week, another stimulus announcement from China - returning back to the driver's seat as the dominant force of bulk imports.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1394,
+      "token_count": 1429,
       "section_type": "linked_pdf",
       "children": []
     }

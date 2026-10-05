@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_06_13_why_is_the_oil_price_high__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_06_13_why_is_the_oil_price_high",
+  "parent_id": null,
+  "title": "Why Is The Oil Price High",
+  "section_path": [
+    "Why Is The Oil Price High"
+  ],
+  "section_path_text": "Why Is The Oil Price High",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Why Is The Oil Price High\nTo give some perspective on the many intertwined factors that continue to push oil's price to ever loftier levels, Michael D. Tusiani, Chairman and CEO of Poten & Partners, shared his views of not only these factors, but also of what should be done to mitigate them with Lloyd's List readers earlier this week. The article that follows captures the full essence of what was published by Lloyd's List on June 9th.",
+  "keywords": [
+    "china",
+    "india",
+    "japan",
+    "coal",
+    "grain",
+    "crude_oil",
+    "products",
+    "gas",
+    "oil",
+    "price",
+    "energy",
+    "not"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1693,
+  "source_path": "reports/poten/2008/poten_2008-06-13_why-is-the-oil-price-high.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_06_13_why_is_the_oil_price_high__s01_why_is_the_oil_price_high",
+      "doc_id": "poten_tankers_no_date_poten_2008_06_13_why_is_the_oil_price_high",
+      "parent_id": "poten_tankers_no_date_poten_2008_06_13_why_is_the_oil_price_high__root",
+      "title": "Why Is The Oil Price High",
+      "section_path": [
+        "Why Is The Oil Price High"
+      ],
+      "section_path_text": "Why Is The Oil Price High",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "To give some perspective on the many intertwined factors that continue to push oil's price to ever loftier levels, Michael D. Tusiani, Chairman and CEO of Poten & Partners, shared his views of not only these factors, but also of what should be done to mitigate them with Lloyd's List readers earlier this week.",
+      "keywords": [
+        "china",
+        "india",
+        "grain",
+        "crude_oil",
+        "products",
+        "gas",
+        "oil",
+        "price"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1111,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_06_13_why_is_the_oil_price_high__s02_so_what_can_be_done",
+      "doc_id": "poten_tankers_no_date_poten_2008_06_13_why_is_the_oil_price_high",
+      "parent_id": "poten_tankers_no_date_poten_2008_06_13_why_is_the_oil_price_high__root",
+      "title": "So, what can be done?",
+      "section_path": [
+        "So, what can be done?"
+      ],
+      "section_path_text": "So, what can be done?",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "In recent months, in order to demonstrate their willingness to combat the high price of oil, some legislators have been suggesting some rather nonsensical solutions such as a summer moratorium on the federal gas tax; a windfall profit tax on oil companies; a clampdown on futures trading; an attempt to claim that OPEC is an illegal monopoly under US Law; halting the approvals of military sales to Saudi Arabia, etc. These efforts are only detracting from the actions that need to be taken.",
+      "keywords": [
+        "japan",
+        "coal",
+        "grain",
+        "crude_oil",
+        "products",
+        "gas",
+        "energy",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 568,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -7,6 +7,7 @@ commodities:
 date: '2025-12-08'
 doc_id: hellenic_demolition_2025-12-08_2025_12_08_gms_week_49_turkey_and_hamstrung
 document_type: demolition_update
+is_error_page: false
 key_entities:
 - China
 keywords:
@@ -106,7 +107,11 @@ numeric_observations:
   - -12.0
   - -8.0
   - 49.0
+  - 1.0
   - 81220253.0
+  - 1.0
+  - 5.0
+  - 84.0
   - 4.0
 - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
@@ -333,6 +338,7 @@ numeric_observations:
     whilst several more yards in Bangladesh
   unit: null
   values:
+  - 1.0
   - 2026.0
 - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
@@ -685,9 +691,9 @@ numeric_observations:
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
   values:
-  - 30.21
+  - 30210.0
   - 899.0669
-  - 91.278
+  - 91278.0
   - 300.5253
 - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_ship-recycling-market-insight-week-4_2cdd4a896238.pdf'
   section_type: linked_pdf
@@ -712,7 +718,7 @@ numeric_observations:
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
   values:
-  - 86.216
+  - 86216.0
   - 75.19
   - 82.1
   - 4650.072
@@ -734,7 +740,11 @@ numeric_observations:
   - -12.0
   - -8.0
   - 49.0
+  - 1.0
   - 81220253.0
+  - 1.0
+  - 5.0
+  - 84.0
   - 4.0
 - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_img1_81220253_c1e5de84a0e4.jpg'
   section_type: linked_image_asset
@@ -742,7 +752,7 @@ numeric_observations:
   unit: null
   values:
   - 687.0
-  - 48.0
+  - 148.0
 - section: 'Linked asset: 2025-12-08_gms-week-49-turkey-and-hamstrung_img1_81220253_c1e5de84a0e4.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (144.0, 144.0)'

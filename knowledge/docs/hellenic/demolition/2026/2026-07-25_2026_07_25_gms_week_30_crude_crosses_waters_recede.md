@@ -8,6 +8,7 @@ commodities:
 date: '2026-07-25'
 doc_id: hellenic_demolition_2026-07-25_2026_07_25_gms_week_30_crude_crosses_waters_recede
 document_type: demolition_update
+is_error_page: false
 key_entities:
 - China
 - Vale
@@ -24,16 +25,15 @@ keywords:
 - iron_ore
 - coal
 - crude_oil
-linked_assets_discovered: 4
+linked_assets_discovered: 3
 linked_assets_failed: 0
 linked_assets_ingested: 2
 linked_assets_mirrored: 2
-linked_assets_skipped: 2
+linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 109
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Oil did what oil does when chokepoints multiply. Brent crossed USD
     100 on Thursday for the first time since May before easing to USD 97.63 by Friday,
@@ -42,14 +42,13 @@ numeric_observations:
   unit: usd
   values:
   - 100.0
-  - 97630.0
-  - 89770.0
+  - 97.63
+  - 89.77
   - 17.0
   - 19.0
   - 21.0
   - 1869.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Freight, which spent last week ignoring the war, spent this week ignoring
     its own rally. The Baltic Dry Index fell more than six percent last week to 2,752
@@ -60,13 +59,12 @@ numeric_observations:
   - 2752.0
   - 2671.0
   - 2.0
-  - 5600.0
-  - 5100.0
+  - 5.6
+  - 5.1
   - 3889.0
   - 1738.0
   - 2022.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: The data calendar offered no fresh inflation prints. June's readings,
     from Washington's 3.5% to Karachi's 11.1%, remain operative until August, each
@@ -75,17 +73,16 @@ numeric_observations:
   unit: usd_per_unit
   values:
   - 3.5
-  - 11100.0
+  - 11.1
   - 100.0
   - 37.0
-  - 96880.0
-  - 96970.0
-  - 96500.0
+  - 96.88
+  - 96.97
+  - 96.5
   - 123.35
-  - 47350.0
+  - 47.35
   - 278.4
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: 'In Bangladesh, the human toll from this month''s flooding has risen
     to 57 confirmed dead, most in Cox''s Bazar, including thirteen Rohingya refugees,
@@ -95,8 +92,7 @@ numeric_observations:
   values:
   - 57.0
   - 111.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Commercially, Chattogram is stirring. Port operations have largely
     normalised, and a threatened 48-hour container transport strike was announced
@@ -105,8 +101,7 @@ numeric_observations:
   unit: null
   values:
   - 48.0
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 30 of 2026, GMS Market Rankings / Vessel indications are as
     below.
@@ -114,78 +109,134 @@ numeric_observations:
   values:
   - 30.0
   - 2026.0
-- &id007
-  section: Main
+- section: Main
   section_type: null
-  source_line: 'Image reference: assets/2026-07-25_gms-week-30-crude-crosses-waters-recede_img1_7856_57dae5cef5e7.jpg'
+  source_line: 'Linked asset: 7856.jpg'
+  unit: null
+  values:
+  - 7856.0
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_7856_57dae5cef5e7.jpg'
+  section_type: linked_image_asset
+  source_line: 'Linked image asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_7856_57dae5cef5e7.jpg'
   unit: null
   values:
   - 2026.0
   - -7.0
   - -25.0
   - 30.0
-  - 1.0
   - 7856.0
   - 57.0
   - 5.0
   - 5.0
   - 7.0
-- &id008
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_7856_57dae5cef5e7.jpg'
+  section_type: linked_image_asset
+  source_line: 'Image metadata: JPEG 692x157 mode=RGB'
+  unit: null
+  values:
+  - 692.0
+  - 157.0
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_7856_57dae5cef5e7.jpg'
+  section_type: linked_image_asset
+  source_line: 'dpi: (120, 120)'
+  unit: null
+  values:
+  - 120.0
+  - 120.0
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_7856_57dae5cef5e7.jpg'
+  section_type: linked_image_asset
+  source_line: Bangladesh 445-450 / LDT | 465-470 /LDT | 475-480 / LDT
+  unit: null
+  values:
+  - 445.0
+  - -450.0
+  - 465.0
+  - -470.0
+  - 475.0
+  - -480.0
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_7856_57dae5cef5e7.jpg'
+  section_type: linked_image_asset
+  source_line: '[2 [Pakistan | Steady -_|_443-448/LDT | 463-468/LDT | 473-478/ LDT'
+  unit: null
+  values:
+  - 2.0
+  - 443.0
+  - -448.0
+  - 463.0
+  - -468.0
+  - 473.0
+  - -478.0
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_7856_57dae5cef5e7.jpg'
+  section_type: linked_image_asset
+  source_line: 420-425 / LDT | 440-445 / LDT | 450-455 / LDT
+  unit: null
+  values:
+  - 420.0
+  - -425.0
+  - 440.0
+  - -445.0
+  - 450.0
+  - -455.0
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_7856_57dae5cef5e7.jpg'
+  section_type: linked_image_asset
+  source_line: '[4 [Turkey | Softening | 262-264/LDT | 272-274/ LDT | 282-284/ LDT'
+  unit: null
+  values:
+  - 4.0
+  - 262.0
+  - -264.0
+  - 272.0
+  - -274.0
+  - 282.0
+  - -284.0
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: 1. ` *I
   unit: null
   values:
   - 1.0
-- &id009
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: July 24th, 2026
   unit: null
   values:
   - 24.0
   - 2026.0
-- &id010
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: Week 30
   unit: null
   values:
   - 30.0
-- &id011
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: Volume 282, Issue 1245
   unit: null
   values:
   - 282.0
   - 1245.0
-- &id012
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: • Crude tops $100.
   unit: usd
   values:
   - 100.0
-- &id013
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: Oil did what oil does when chokepoints multiply. Brent crossed USD
     100 on Thursday for the first time since May
   unit: usd
   values:
   - 100.0
-- &id014
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: before easing to USD 97.63 by Friday, with WTI near USD 89.77, still
     leaving crude up roughly ten percent on the
   unit: usd
   values:
-  - 97630.0
-  - 89770.0
-- &id015
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+  - 97.63
+  - 89.77
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: Consortium terminal on July 17, 19, and 21 halted operations, forcing
     Kazakhstan, which routes some four-fifths of
@@ -194,16 +245,14 @@ numeric_observations:
   - 17.0
   - 19.0
   - 21.0
-- &id016
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: and around the Cape of Good Hope, itineraries last considered state-of-the-art
     in 1869 and during the Ever Given's
   unit: null
   values:
   - 1869.0
-- &id017
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: than six percent last week to 2,752 and kept going, touching 2,671
     on Monday, its lowest since July 2, as the Capesize
@@ -212,18 +261,16 @@ numeric_observations:
   - 2752.0
   - 2671.0
   - 2.0
-- &id018
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: index dr opped 5.6% and then another 5.1% to 3,889 on softer iron ore
     and coal enquiry and improving vessel
   unit: pct
   values:
-  - 5600.0
-  - 5100.0
+  - 5.6
+  - 5.1
   - 3889.0
-- &id019
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: availability. The Supramax index, contrary as ever, climbed to 1,738,
     its highest since August 2022. Last week's edition
@@ -231,77 +278,68 @@ numeric_observations:
   values:
   - 1738.0
   - 2022.0
-- &id020
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: The data calendar offered no fresh inflation prints. June's readings,
     from Washington's 3.5% to Karachi's 11.1%,
   unit: pct
   values:
   - 3.5
-  - 11100.0
-- &id021
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+  - 11.1
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: Dre main operative until August, each now arguing in advance with an
     oil price that spent Thursday above USD 100.
   unit: usd
   values:
   - 100.0
-- &id022
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: 'The TCMB filled the vacuum by holding at 37% for a fourth consecutive
     meeting. Currencies did the talking instead:'
   unit: pct
   values:
   - 37.0
-- &id023
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: USD/INR touched 96.88 on Thursday, near May's 96.97 record, before
     recovering toward 96.50; the Taka held at
   unit: usd_per_unit
   values:
-  - 96880.0
-  - 96970.0
-  - 96500.0
-- &id024
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+  - 96.88
+  - 96.97
+  - 96.5
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: • Waters recede. 123.35; the Lira set fresh records near 47.35; and
     the Pakistani Rupee closed near 278.40, again inside a quarter-rupee
   unit: null
   values:
   - 123.35
-  - 47350.0
+  - 47.35
   - 278.4
-- &id025
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: In Bangladesh, the human toll from this month's flooding has risen
     to 57 confirmed dead, most in Cox's Bazar,
   unit: null
   values:
   - 57.0
-- &id026
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: shelters have consolidated to 111, relief allocations continue to move,
     and forecasters are watching river basins rather
   unit: null
   values:
   - 111.0
-- &id027
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: Commercially, Chattogram is stirring. Port operations have largely
     normalised, and a threatened 48-hour container
   unit: null
   values:
   - 48.0
-- &id028
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: GMS market rankings / pricing for week 30 of 2026 are on Page 5.
   unit: null
@@ -309,32 +347,28 @@ numeric_observations:
   - 30.0
   - 2026.0
   - 5.0
-- &id029
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id030
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: The confirmed death toll from this month's floods and landslides has
     reached 57, according to the
   unit: null
   values:
   - 57.0
-- &id031
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: reporting period. Cox's Bazar accounts for 32 of the dead, including
     thirteen Rohingya refugees
   unit: null
   values:
   - 32.0
-- &id032
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: 'waters are now receding: 111 shelters remain open with roughly 4,000
     people still in them, down'
@@ -342,16 +376,14 @@ numeric_observations:
   values:
   - 111.0
   - 4000.0
-- &id033
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: Recovery begins. vessel waiting back near a day and a half, and a threatened
     48-hour prime mover and flatbed strike
   unit: null
   values:
   - 48.0
-- &id034
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: the monsoon passes. Beaching eyes now turn to the July 29 to August
     1 tide window, the first with
@@ -359,8 +391,7 @@ numeric_observations:
   values:
   - 29.0
   - 1.0
-- &id035
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: meaningful capacity since the rains began, with a second window to
     follow August 12 to 15. The
@@ -368,58 +399,51 @@ numeric_observations:
   values:
   - 12.0
   - 15.0
-- &id036
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: bulkers and units free of compliance exposure. USD/BDT held near 123.35
     at the top of its
   unit: usd_per_unit
   values:
   - 123.35
-- &id037
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: established band, and with no inflation print due until early August,
     June's 9.16% remains the
   unit: pct
   values:
-  - 9160.0
-- &id038
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+  - 9.16
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id039
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: USD/INR touched 96.88 on Thursday, its closest approach yet to the
     May 21 record of approximately
   unit: usd_per_unit
   values:
-  - 96880.0
+  - 96.88
   - 21.0
-- &id040
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: 96.97, before a Friday recovery returned it toward 96.50. The Reserve
     Bank remained visible, smoothing
   unit: null
   values:
-  - 96970.0
-  - 96500.0
-- &id041
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+  - 96.97
+  - 96.5
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: With no CPI print due until mid-August, June's 4.38% surprise stands
     as the operative number, and
   unit: pct
   values:
   - 4.38
-- &id042
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: Local steel plate at Alang firmed through the week from approximately
     INR 38,200 toward INR 38,500,
@@ -427,16 +451,14 @@ numeric_observations:
   values:
   - 38200.0
   - 38500.0
-- &id043
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: with the USD equivalent approaching USD 400 as monsoon-slowed cutting
     activity tightened plate
   unit: usd
   values:
   - 400.0
-- &id044
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: than appetite. The July 11 to 20 tide window closed with little fanfare;
     the next opens Monday, July 27,
@@ -445,64 +467,56 @@ numeric_observations:
   - 11.0
   - 20.0
   - 27.0
-- &id045
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: and runs through August 4.
   unit: null
   values:
   - 4.0
-- &id046
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: 'position is otherwise unchanged for a fourth consecutive week: the
     deepest capacity, more than 115'
   unit: null
   values:
   - 115.0
-- &id047
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: Valaris MS-1 Semi Sub 28,761 Undisclosed Price (‘as is' Indonesia)
   unit: null
   values:
   - 1.0
   - 28761.0
-- &id048
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id049
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: approaches rather than more. Oil's week above USD 100, meanwhile, is
     the development
   unit: usd
   values:
   - 100.0
-- &id050
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: USD/PKR closed near 278.40, once again inside a quarter-rupee weekly
     range, through a thirteenth
   unit: usd_per_unit
   values:
   - 278.4
-- &id051
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: 11.5% policy rate and disciplined reserve management continue to take
     the credit, and June's 11.1%
   unit: pct
   values:
-  - 11500.0
-  - 11100.0
-- &id052
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+  - 11.5
+  - 11.1
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: hopes fiscal. local plate prices held near PKR 196,000 for most of
     the week before firming to PKR 200,000 on
@@ -510,63 +524,55 @@ numeric_observations:
   values:
   - 196000.0
   - 200000.0
-- &id053
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: Friday, equivalent to approximately USD 714 per tonne. Actual consumption
     has yet to follow that
   unit: usd
   values:
   - 714.0
-- &id054
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id055
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: The TCMB kept its policy rate at 37% on Thursday, the fourth consecutive
     hold, noting that
   unit: pct
   values:
   - 37.0
-- &id056
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: 47.35 regardless, with the central bank still selling into the market
     to keep depreciation orderly and
   unit: null
   values:
-  - 47350.0
-- &id057
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+  - 47.35
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: the effective overnight rate near 40% doing the heavy lifting.
   unit: pct
   values:
   - 40.0
-- &id058
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: June's official 32.11%, the lowest since March, remains the headline
     figure; the Inflation Research
   unit: pct
   values:
-  - 32110.0
-- &id059
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+  - 32.11
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: Group's independent estimate of 51.4% remains the argument. Both are
     now stale. The July print
   unit: pct
   values:
-  - 51400.0
-- &id060
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+  - 51.4
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: Aliaga's plate indications held at USD 263 to 285 per LDT across vessel
     types, structurally
@@ -574,8 +580,7 @@ numeric_observations:
   values:
   - 263.0
   - 285.0
-- &id061
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: For Week 30 of 2026, GMS Market Rankings / Vessel indications are as
     below.
@@ -583,8 +588,7 @@ numeric_observations:
   values:
   - 30.0
   - 2026.0
-- &id062
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Softening 445-450 / LDT 465-470 / LDT 475-480 / LDT
   unit: null
@@ -596,8 +600,7 @@ numeric_observations:
   - -470.0
   - 475.0
   - -480.0
-- &id063
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan Steady 443-448 / LDT 463-468 / LDT 473-478 / LDT
   unit: null
@@ -609,8 +612,7 @@ numeric_observations:
   - -468.0
   - 473.0
   - -478.0
-- &id064
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: 3 India Steady 420-425 / LDT 440-445 / LDT 450-455 / LDT
   unit: null
@@ -622,8 +624,7 @@ numeric_observations:
   - -445.0
   - 450.0
   - -455.0
-- &id065
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Softening 262-264 / LDT 272-274 / LDT 282-284 / LDT
   unit: null
@@ -635,47 +636,41 @@ numeric_observations:
   - -274.0
   - 282.0
   - -284.0
-- &id066
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id067
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line:  69.16 million tonnes of steel recovered through ship recycling at
     Alang is enough to manufacture
   unit: null
   values:
-  - 69160.0
-- &id068
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+  - 69.16
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: approximately 69 million passenger vehicles.
   unit: null
   values:
   - 69.0
-- &id069
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line:  72.55 million MT of CO₂ emissions avoided through ship recycling
     at Alang is equivalent to the
   unit: tonnage
   values:
-  - 72550.0
-- &id070
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+  - 72.55
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: annual carbon sequestration of approximately 72.6 million acres of
     forest.
   unit: null
   values:
-  - 72600.0
-- &id071
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+  - 72.6
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: August 15 - Independence Day July 27 - August 04
   unit: null
@@ -683,8 +678,7 @@ numeric_observations:
   - 15.0
   - 27.0
   - 4.0
-- &id072
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: August 05 - July Uprising Day July 29 - August 01
   unit: null
@@ -692,8 +686,7 @@ numeric_observations:
   - 5.0
   - 29.0
   - 1.0
-- &id073
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: August 26 - Eid-e-Milad-un-Nabi August 12 - August 15
   unit: null
@@ -701,45 +694,39 @@ numeric_observations:
   - 26.0
   - 12.0
   - 15.0
-- &id074
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: August 14 - Independence Day
   unit: null
   values:
   - 14.0
-- &id075
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: August 30 - Victory Day
   unit: null
   values:
   - 30.0
-- &id076
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: August 25 - Eid Milad-un-Nabi
   unit: null
   values:
   - 25.0
-- &id077
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: GMS Port Reports Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id078
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of July 24, 2026
   unit: null
   values:
   - 24.0
   - 2026.0
-- &id079
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: 1 Stolt Kikyo 3,305 Chemical Tanker Arrived July 19
   unit: null
@@ -747,8 +734,7 @@ numeric_observations:
   - 1.0
   - 3305.0
   - 19.0
-- &id080
-  section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: 2 Gautam 780 Supply Delivered July 18
   unit: null
@@ -850,7 +836,7 @@ numeric_observations:
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
   values:
-  - 49400.0
+  - 49.4
   - 3197.9963
   - 1.24
   - 505.9716
@@ -860,17 +846,17 @@ numeric_observations:
   unit: null
   values:
   - 86216.0
-  - 75190.0
-  - 82100.0
+  - 75.19
+  - 82.1
   - 4650.072
 - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
   values:
-  - 65682.3
+  - 65.6823
   - 8037.0
-  - 81300.0
+  - 81.3
   - 5453.6311
 - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
   section_type: linked_pdf
@@ -941,81 +927,6 @@ numeric_observations:
   values:
   - 8.0
   - 8.0
-- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_img1_7856_57dae5cef5e7.jpg'
-  section_type: linked_image_asset
-  source_line: 'Linked image asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_img1_7856_57dae5cef5e7.jpg'
-  unit: null
-  values:
-  - 2026.0
-  - -7.0
-  - -25.0
-  - 30.0
-  - 1.0
-  - 7856.0
-  - 57.0
-  - 5.0
-  - 5.0
-  - 7.0
-- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_img1_7856_57dae5cef5e7.jpg'
-  section_type: linked_image_asset
-  source_line: 'Image metadata: JPEG 692x157 mode=RGB'
-  unit: null
-  values:
-  - 692.0
-  - 157.0
-- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_img1_7856_57dae5cef5e7.jpg'
-  section_type: linked_image_asset
-  source_line: 'dpi: (120, 120)'
-  unit: null
-  values:
-  - 120.0
-  - 120.0
-- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_img1_7856_57dae5cef5e7.jpg'
-  section_type: linked_image_asset
-  source_line: Bangladesh 445-450 / LDT | 465-470 /LDT | 475-480 / LDT
-  unit: null
-  values:
-  - 445.0
-  - -450.0
-  - 465.0
-  - -470.0
-  - 475.0
-  - -480.0
-- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_img1_7856_57dae5cef5e7.jpg'
-  section_type: linked_image_asset
-  source_line: '[2 [Pakistan | Steady -_|_443-448/LDT | 463-468/LDT | 473-478/ LDT'
-  unit: null
-  values:
-  - 2.0
-  - 443.0
-  - -448.0
-  - 463.0
-  - -468.0
-  - 473.0
-  - -478.0
-- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_img1_7856_57dae5cef5e7.jpg'
-  section_type: linked_image_asset
-  source_line: 420-425 / LDT | 440-445 / LDT | 450-455 / LDT
-  unit: null
-  values:
-  - 420.0
-  - -425.0
-  - 440.0
-  - -445.0
-  - 450.0
-  - -455.0
-- section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_img1_7856_57dae5cef5e7.jpg'
-  section_type: linked_image_asset
-  source_line: '[4 [Turkey | Softening | 262-264/LDT | 272-274/ LDT | 282-284/ LDT'
-  unit: null
-  values:
-  - 4.0
-  - 262.0
-  - -264.0
-  - 272.0
-  - -274.0
-  - 282.0
-  - -284.0
 regions:
 - india
 - china
@@ -1027,86 +938,650 @@ section_count: 3
 signals:
   numeric_observation_count: 109
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: 'Oil did what oil does when chokepoints multiply. Brent crossed USD
+      100 on Thursday for the first time since May before easing to USD 97.63 by Friday,
+      with WTI near USD 89.77, still leaving crude up roughly ten percent on the week.
+      A third front opened quietly '
+    unit: usd
+    values:
+    - 100.0
+    - 97630.0
+    - 89770.0
+    - 17.0
+    - 19.0
+    - 21.0
+    - 1869.0
+  - section: Main
+    section_type: null
+    source_line: Freight, which spent last week ignoring the war, spent this week
+      ignoring its own rally. The Baltic Dry Index fell more than six percent last
+      week to 2,752 and kept going, touching 2,671 on Monday, its lowest since July
+      2, as the Capesize index dropped 5.6% an
+    unit: pct
+    values:
+    - 2752.0
+    - 2671.0
+    - 2.0
+    - 5600.0
+    - 5100.0
+    - 3889.0
+    - 1738.0
+    - 2022.0
+  - section: Main
+    section_type: null
+    source_line: The data calendar offered no fresh inflation prints. June's readings,
+      from Washington's 3.5% to Karachi's 11.1%, remain operative until August, each
+      now arguing in advance with an oil price that spent Thursday above USD 100.
+      The TCMB filled the vacuum by holdi
+    unit: usd_per_unit
+    values:
+    - 3.5
+    - 11100.0
+    - 100.0
+    - 37.0
+    - 96880.0
+    - 96970.0
+    - 96500.0
+    - 123.35
+    - 47350.0
+    - 278.4
+  - section: Main
+    section_type: null
+    source_line: 'In Bangladesh, the human toll from this month''s flooding has risen
+      to 57 confirmed dead, most in Cox''s Bazar, including thirteen Rohingya refugees,
+      with more than a million people affected at the peak. The waters are receding:
+      shelters have consolidated to 111'
+    unit: null
+    values:
+    - 57.0
+    - 111.0
+  - section: Main
+    section_type: null
+    source_line: 'Commercially, Chattogram is stirring. Port operations have largely
+      normalised, and a threatened 48-hour container transport strike was announced
+      and withdrawn within the same week, resolved, unlike the weather, by conversation.
+      The week''s sharpest lesson came '
+    unit: null
+    values:
+    - 48.0
+  - section: Main
+    section_type: null
+    source_line: For Week 30 of 2026, GMS Market Rankings / Vessel indications are
+      as below.
+    unit: null
+    values:
+    - 30.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2026-07-25_gms-week-30-crude-crosses-waters-recede_img1_7856_57dae5cef5e7.jpg'
+    unit: null
+    values:
+    - 2026.0
+    - -7.0
+    - -25.0
+    - 30.0
+    - 1.0
+    - 7856.0
+    - 57.0
+    - 5.0
+    - 5.0
+    - 7.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: 1. ` *I
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: July 24th, 2026
+    unit: null
+    values:
+    - 24.0
+    - 2026.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: Week 30
+    unit: null
+    values:
+    - 30.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: Volume 282, Issue 1245
+    unit: null
+    values:
+    - 282.0
+    - 1245.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: • Crude tops $100.
+    unit: usd
+    values:
+    - 100.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: Oil did what oil does when chokepoints multiply. Brent crossed USD
+      100 on Thursday for the first time since May
+    unit: usd
+    values:
+    - 100.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: before easing to USD 97.63 by Friday, with WTI near USD 89.77, still
+      leaving crude up roughly ten percent on the
+    unit: usd
+    values:
+    - 97630.0
+    - 89770.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: Consortium terminal on July 17, 19, and 21 halted operations, forcing
+      Kazakhstan, which routes some four-fifths of
+    unit: null
+    values:
+    - 17.0
+    - 19.0
+    - 21.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: and around the Cape of Good Hope, itineraries last considered state-of-the-art
+      in 1869 and during the Ever Given's
+    unit: null
+    values:
+    - 1869.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: than six percent last week to 2,752 and kept going, touching 2,671
+      on Monday, its lowest since July 2, as the Capesize
+    unit: null
+    values:
+    - 2752.0
+    - 2671.0
+    - 2.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: index dr opped 5.6% and then another 5.1% to 3,889 on softer iron
+      ore and coal enquiry and improving vessel
+    unit: pct
+    values:
+    - 5600.0
+    - 5100.0
+    - 3889.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: availability. The Supramax index, contrary as ever, climbed to 1,738,
+      its highest since August 2022. Last week's edition
+    unit: null
+    values:
+    - 1738.0
+    - 2022.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: The data calendar offered no fresh inflation prints. June's readings,
+      from Washington's 3.5% to Karachi's 11.1%,
+    unit: pct
+    values:
+    - 3.5
+    - 11100.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: Dre main operative until August, each now arguing in advance with
+      an oil price that spent Thursday above USD 100.
+    unit: usd
+    values:
+    - 100.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: 'The TCMB filled the vacuum by holding at 37% for a fourth consecutive
+      meeting. Currencies did the talking instead:'
+    unit: pct
+    values:
+    - 37.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: USD/INR touched 96.88 on Thursday, near May's 96.97 record, before
+      recovering toward 96.50; the Taka held at
+    unit: usd_per_unit
+    values:
+    - 96880.0
+    - 96970.0
+    - 96500.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: • Waters recede. 123.35; the Lira set fresh records near 47.35; and
+      the Pakistani Rupee closed near 278.40, again inside a quarter-rupee
+    unit: null
+    values:
+    - 123.35
+    - 47350.0
+    - 278.4
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: In Bangladesh, the human toll from this month's flooding has risen
+      to 57 confirmed dead, most in Cox's Bazar,
+    unit: null
+    values:
+    - 57.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: shelters have consolidated to 111, relief allocations continue to
+      move, and forecasters are watching river basins rather
+    unit: null
+    values:
+    - 111.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: Commercially, Chattogram is stirring. Port operations have largely
+      normalised, and a threatened 48-hour container
+    unit: null
+    values:
+    - 48.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: GMS market rankings / pricing for week 30 of 2026 are on Page 5.
+    unit: null
+    values:
+    - 30.0
+    - 2026.0
+    - 5.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: The confirmed death toll from this month's floods and landslides
+      has reached 57, according to the
+    unit: null
+    values:
+    - 57.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: reporting period. Cox's Bazar accounts for 32 of the dead, including
+      thirteen Rohingya refugees
+    unit: null
+    values:
+    - 32.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: 'waters are now receding: 111 shelters remain open with roughly 4,000
+      people still in them, down'
+    unit: null
+    values:
+    - 111.0
+    - 4000.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: Recovery begins. vessel waiting back near a day and a half, and a
+      threatened 48-hour prime mover and flatbed strike
+    unit: null
+    values:
+    - 48.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: the monsoon passes. Beaching eyes now turn to the July 29 to August
+      1 tide window, the first with
+    unit: null
+    values:
+    - 29.0
+    - 1.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: meaningful capacity since the rains began, with a second window to
+      follow August 12 to 15. The
+    unit: null
+    values:
+    - 12.0
+    - 15.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: bulkers and units free of compliance exposure. USD/BDT held near
+      123.35 at the top of its
+    unit: usd_per_unit
+    values:
+    - 123.35
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: established band, and with no inflation print due until early August,
+      June's 9.16% remains the
+    unit: pct
+    values:
+    - 9160.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: USD/INR touched 96.88 on Thursday, its closest approach yet to the
+      May 21 record of approximately
+    unit: usd_per_unit
+    values:
+    - 96880.0
+    - 21.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: 96.97, before a Friday recovery returned it toward 96.50. The Reserve
+      Bank remained visible, smoothing
+    unit: null
+    values:
+    - 96970.0
+    - 96500.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: With no CPI print due until mid-August, June's 4.38% surprise stands
+      as the operative number, and
+    unit: pct
+    values:
+    - 4.38
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: Local steel plate at Alang firmed through the week from approximately
+      INR 38,200 toward INR 38,500,
+    unit: null
+    values:
+    - 38200.0
+    - 38500.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: with the USD equivalent approaching USD 400 as monsoon-slowed cutting
+      activity tightened plate
+    unit: usd
+    values:
+    - 400.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: than appetite. The July 11 to 20 tide window closed with little fanfare;
+      the next opens Monday, July 27,
+    unit: null
+    values:
+    - 11.0
+    - 20.0
+    - 27.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: and runs through August 4.
+    unit: null
+    values:
+    - 4.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: 'position is otherwise unchanged for a fourth consecutive week: the
+      deepest capacity, more than 115'
+    unit: null
+    values:
+    - 115.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: Valaris MS-1 Semi Sub 28,761 Undisclosed Price (‘as is' Indonesia)
+    unit: null
+    values:
+    - 1.0
+    - 28761.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: approaches rather than more. Oil's week above USD 100, meanwhile,
+      is the development
+    unit: usd
+    values:
+    - 100.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: USD/PKR closed near 278.40, once again inside a quarter-rupee weekly
+      range, through a thirteenth
+    unit: usd_per_unit
+    values:
+    - 278.4
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: 11.5% policy rate and disciplined reserve management continue to
+      take the credit, and June's 11.1%
+    unit: pct
+    values:
+    - 11500.0
+    - 11100.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: hopes fiscal. local plate prices held near PKR 196,000 for most of
+      the week before firming to PKR 200,000 on
+    unit: null
+    values:
+    - 196000.0
+    - 200000.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: Friday, equivalent to approximately USD 714 per tonne. Actual consumption
+      has yet to follow that
+    unit: usd
+    values:
+    - 714.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: The TCMB kept its policy rate at 37% on Thursday, the fourth consecutive
+      hold, noting that
+    unit: pct
+    values:
+    - 37.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: 47.35 regardless, with the central bank still selling into the market
+      to keep depreciation orderly and
+    unit: null
+    values:
+    - 47350.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: the effective overnight rate near 40% doing the heavy lifting.
+    unit: pct
+    values:
+    - 40.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: June's official 32.11%, the lowest since March, remains the headline
+      figure; the Inflation Research
+    unit: pct
+    values:
+    - 32110.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: Group's independent estimate of 51.4% remains the argument. Both
+      are now stale. The July print
+    unit: pct
+    values:
+    - 51400.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: Aliaga's plate indications held at USD 263 to 285 per LDT across
+      vessel types, structurally
+    unit: usd
+    values:
+    - 263.0
+    - 285.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: For Week 30 of 2026, GMS Market Rankings / Vessel indications are
+      as below.
+    unit: null
+    values:
+    - 30.0
+    - 2026.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Softening 445-450 / LDT 465-470 / LDT 475-480 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 445.0
+    - -450.0
+    - 465.0
+    - -470.0
+    - 475.0
+    - -480.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan Steady 443-448 / LDT 463-468 / LDT 473-478 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 443.0
+    - -448.0
+    - 463.0
+    - -468.0
+    - 473.0
+    - -478.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Steady 420-425 / LDT 440-445 / LDT 450-455 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 420.0
+    - -425.0
+    - 440.0
+    - -445.0
+    - 450.0
+    - -455.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Softening 262-264 / LDT 272-274 / LDT 282-284 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 262.0
+    - -264.0
+    - 272.0
+    - -274.0
+    - 282.0
+    - -284.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line:  69.16 million tonnes of steel recovered through ship recycling
+      at Alang is enough to manufacture
+    unit: null
+    values:
+    - 69160.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: approximately 69 million passenger vehicles.
+    unit: null
+    values:
+    - 69.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line:  72.55 million MT of CO₂ emissions avoided through ship recycling
+      at Alang is equivalent to the
+    unit: tonnage
+    values:
+    - 72550.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: annual carbon sequestration of approximately 72.6 million acres of
+      forest.
+    unit: null
+    values:
+    - 72600.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: August 15 - Independence Day July 27 - August 04
+    unit: null
+    values:
+    - 15.0
+    - 27.0
+    - 4.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: August 05 - July Uprising Day July 29 - August 01
+    unit: null
+    values:
+    - 5.0
+    - 29.0
+    - 1.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: August 26 - Eid-e-Milad-un-Nabi August 12 - August 15
+    unit: null
+    values:
+    - 26.0
+    - 12.0
+    - 15.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: August 14 - Independence Day
+    unit: null
+    values:
+    - 14.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: August 30 - Victory Day
+    unit: null
+    values:
+    - 30.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: August 25 - Eid Milad-un-Nabi
+    unit: null
+    values:
+    - 25.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: GMS Port Reports Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of July 24, 2026
+    unit: null
+    values:
+    - 24.0
+    - 2026.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: 1 Stolt Kikyo 3,305 Chemical Tanker Arrived July 19
+    unit: null
+    values:
+    - 1.0
+    - 3305.0
+    - 19.0
+  - section: 'Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf'
+    section_type: linked_pdf
+    source_line: 2 Gautam 780 Supply Delivered July 18
+    unit: null
+    values:
+    - 2.0
+    - 780.0
+    - 18.0
 source: hellenic
 source_path: reports/hellenic/demolition/2026/2026-07-25_gms-week-30-crude-crosses-waters-recede.html
 source_stem: 2026-07-25_gms-week-30-crude-crosses-waters-recede
@@ -1127,7 +1602,7 @@ themes:
 - china
 - brazil
 - europe
-title: GMS Week 30- CRUDE CROSSES, WATERS RECEDE
+title: GMS Week 30 - CRUDE CROSSES, WATERS RECEDE
 vessel_classes:
 - capesize
 - panamax
@@ -1152,8 +1627,27 @@ In Bangladesh, the human toll from this month's flooding has risen to 57 confirm
 Commercially, Chattogram is stirring. Port operations have largely normalised, and a threatened 48-hour container transport strike was announced and withdrawn within the same week, resolved, unlike the weather, by conversation. The week's sharpest lesson came from compliance: a tanker was sanctioned after arrival and after clearances were complete, caught between anchorage and beach, while appetite across the basin tilted firmly toward bulkers and clean-history units.
 The war has opened a second front at sea just as the weather has closed its front on land, and the beach is drying out in time to receive whatever gets through. The market remains paused, not broken. The ships wait for passage. The yards, at last, wait only for the tide.
 For Week 30 of 2026, GMS Market Rankings / Vessel indications are as below.
-Image reference: assets/2026-07-25_gms-week-30-crude-crosses-waters-recede_img1_7856_57dae5cef5e7.jpg
+Linked asset: 7856.jpg
 Source: GMS,Inc. https://www.gmsinc.net/gms_new/index.php/web
+
+## Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_7856_57dae5cef5e7.jpg
+Source asset: reports/hellenic/demolition/2026/assets/2026-07-25_gms-week-30-crude-crosses-waters-recede_7856_57dae5cef5e7.jpg
+
+Linked image asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_7856_57dae5cef5e7.jpg
+
+Image metadata: JPEG 692x157 mode=RGB
+
+Embedded info:
+dpi: (120, 120)
+
+OCR text:
+; ee Dry Bulk Tankers Containers
+Rank Location Sentiment ois e Z
+USD/LDT___USD/LDT__USD/LDT
+Bangladesh 445-450 / LDT | 465-470 /LDT | 475-480 / LDT
+[2 [Pakistan | Steady -_|_443-448/LDT | 463-468/LDT | 473-478/ LDT
+420-425 / LDT | 440-445 / LDT | 450-455 / LDT
+[4 [Turkey | Softening | 262-264/LDT | 272-274/ LDT | 282-284/ LDT
 
 ## Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf
 Source asset: reports/hellenic/demolition/pdfs/2026-07-25_gms-week-30-crude-crosses-waters-recede_ship-recycling-market-insight-week-3_992b5a3661f6.pdf
@@ -2069,22 +2563,3 @@ S D
 E L
 / T
 Steel Plate Prices Page 8 of 8
-
-## Linked asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_img1_7856_57dae5cef5e7.jpg
-Source asset: reports/hellenic/demolition/2026/assets/2026-07-25_gms-week-30-crude-crosses-waters-recede_img1_7856_57dae5cef5e7.jpg
-
-Linked image asset: 2026-07-25_gms-week-30-crude-crosses-waters-recede_img1_7856_57dae5cef5e7.jpg
-
-Image metadata: JPEG 692x157 mode=RGB
-
-Embedded info:
-dpi: (120, 120)
-
-OCR text:
-; ee Dry Bulk Tankers Containers
-Rank Location Sentiment ois e Z
-USD/LDT___USD/LDT__USD/LDT
-Bangladesh 445-450 / LDT | 465-470 /LDT | 475-480 / LDT
-[2 [Pakistan | Steady -_|_443-448/LDT | 463-468/LDT | 473-478/ LDT
-420-425 / LDT | 440-445 / LDT | 450-455 / LDT
-[4 [Turkey | Softening | 262-264/LDT | 272-274/ LDT | 282-284/ LDT

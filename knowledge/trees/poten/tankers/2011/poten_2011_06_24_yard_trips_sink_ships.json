@@ -1,0 +1,174 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_06_24_yard_trips_sink_ships__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_06_24_yard_trips_sink_ships",
+  "parent_id": null,
+  "title": "Yard Trips Sink Ships",
+  "section_path": [
+    "Yard Trips Sink Ships"
+  ],
+  "section_path_text": "Yard Trips Sink Ships",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Yard Trips Sink Ships\nPublic companies, private equity groups and new entrants to the shipping markets convened at various finance conferences this week bringing both enthusiasm and raising valid questions about the long‐term prognosis for recovery in tanker freight rates. Recent comments made to the press and Wall Street have created some cause for concern as well‐established tanker shipping companies seem to appear somewhat cavalier about the oversupply situation. While we appreciate the confidence in the resilience of the market, tanker shipping companies should be cautioned that the overall demand climate seems well satisfied by the developing fleet for the near term.",
+  "keywords": [
+    "suezmax",
+    "atlantic",
+    "west_africa",
+    "crude_oil",
+    "demand",
+    "new",
+    "newbuilding",
+    "orders",
+    "asset",
+    "between",
+    "companies",
+    "earnings"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 765,
+  "source_path": "reports/poten/2011/poten_2011-06-24_yard-trips-sink-ships.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_06_24_yard_trips_sink_ships__s01_yard_trips_sink_ships",
+      "doc_id": "poten_tankers_no_date_poten_2011_06_24_yard_trips_sink_ships",
+      "parent_id": "poten_tankers_no_date_poten_2011_06_24_yard_trips_sink_ships__root",
+      "title": "Yard Trips Sink Ships",
+      "section_path": [
+        "Yard Trips Sink Ships"
+      ],
+      "section_path_text": "Yard Trips Sink Ships",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Public companies, private equity groups and new entrants to the shipping markets convened at various finance conferences this week bringing both enthusiasm and raising valid questions about the long‐term prognosis for recovery in tanker freight rates. Recent comments made to the press and Wall Street have created some cause for concern as well‐established tanker shipping companies seem to appear somewhat cavalier about the oversupply situation.",
+      "keywords": [
+        "suezmax",
+        "companies",
+        "asset",
+        "investors",
+        "long",
+        "low",
+        "markets",
+        "new"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 263,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_06_24_yard_trips_sink_ships__s02_newbuilding_orders",
+      "doc_id": "poten_tankers_no_date_poten_2011_06_24_yard_trips_sink_ships",
+      "parent_id": "poten_tankers_no_date_poten_2011_06_24_yard_trips_sink_ships__root",
+      "title": "Newbuilding Orders",
+      "section_path": [
+        "Newbuilding Orders"
+      ],
+      "section_path_text": "Newbuilding Orders",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Month on Month Change in WAF ‐ USAC (130kt) This suggests that those seeking deals may see changes in spot market rates as a harbinger of overall market recovery. However, looking at what has happened in the Suezmax sector over the past two years underscores the risk of relying too heavily on spot market trends to direct investment decisions.",
+      "keywords": [
+        "suezmax",
+        "west_africa",
+        "month",
+        "change",
+        "changes",
+        "deals",
+        "decisions.",
+        "direct"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 71,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_06_24_yard_trips_sink_ships__s03_bubble_trouble",
+      "doc_id": "poten_tankers_no_date_poten_2011_06_24_yard_trips_sink_ships",
+      "parent_id": "poten_tankers_no_date_poten_2011_06_24_yard_trips_sink_ships__root",
+      "title": "Bubble Trouble",
+      "section_path": [
+        "Bubble Trouble"
+      ],
+      "section_path_text": "Bubble Trouble",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Suezmax earnings took a nosedive with the rest of the tanker market in the third quarter of 2009, averaging only $8,300 per day on the West Africa to US Atlantic coast trade in the months between July and September of 2009. Earnings rallied over the first and second quarters of 2010 to average over $29,500 per day, a rate about 20% less than the long term historical average at the time.",
+      "keywords": [
+        "suezmax",
+        "atlantic",
+        "west_africa",
+        "newbuilding",
+        "orders",
+        "average",
+        "between",
+        "day"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 209,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_06_24_yard_trips_sink_ships__s04_fleet_utilization",
+      "doc_id": "poten_tankers_no_date_poten_2011_06_24_yard_trips_sink_ships",
+      "parent_id": "poten_tankers_no_date_poten_2011_06_24_yard_trips_sink_ships__root",
+      "title": "Fleet Utilization (%)",
+      "section_path": [
+        "Fleet Utilization (%)"
+      ],
+      "section_path_text": "Fleet Utilization (%)",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "2010 Outlook 2011 Outlook The extra tonnage piled on the forward book over the course of last year is likely to weigh on the supply demand balance for the next two years. Over that time, owners will likely have to endure more of the same headaches until global crude oil demand grows and new trade patterns develop to bridge the gap between shipping requirements and the supply of ships competing for cargoes.",
+      "keywords": [
+        "crude_oil",
+        "demand",
+        "likely",
+        "outlook",
+        "supply",
+        "balance",
+        "between",
+        "bridge"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 80,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_06_24_yard_trips_sink_ships__s05_hold_your_horses",
+      "doc_id": "poten_tankers_no_date_poten_2011_06_24_yard_trips_sink_ships",
+      "parent_id": "poten_tankers_no_date_poten_2011_06_24_yard_trips_sink_ships__root",
+      "title": "Hold Your Horses",
+      "section_path": [
+        "Hold Your Horses"
+      ],
+      "section_path_text": "Hold Your Horses",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Although it seems players may have gotten accustomed to the current freight rate environment, revenues are not stable enough just yet to make asset plays at their behest. Despite encouraging signs, it is still a weak market, and it is in the best interest of shipowning participants to nurse it back to health.",
+      "keywords": [
+        "new",
+        "accustomed",
+        "adequately",
+        "although",
+        "are",
+        "asset",
+        "back",
+        "behest."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 117,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

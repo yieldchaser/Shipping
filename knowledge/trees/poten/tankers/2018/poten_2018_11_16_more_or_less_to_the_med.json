@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2018_11_16_more_or_less_to_the_med__root",
+  "doc_id": "poten_tankers_no_date_poten_2018_11_16_more_or_less_to_the_med",
+  "parent_id": null,
+  "title": "More Or Less To The Med",
+  "section_path": [
+    "More Or Less To The Med"
+  ],
+  "section_path_text": "More Or Less To The Med",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Iraqi deal with Kurds will raise exports through Ceyhan\nOn Friday, 16 November 2018, the Government of Iraq restarted exports of Kirkuk crude oil through the Iraq - Turkey pipeline. Initial volumes flowing through the pipeline average 50,000 barrels per day (b/d). The target is to achieve 100,000 b/d in the coming weeks with the potential for significantly more in the future.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "meg",
+    "europe",
+    "crude_oil",
+    "iraqi",
+    "exports",
+    "b/d",
+    "iraq",
+    "ceyhan",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 928,
+  "source_path": "reports/poten/2018/poten_2018-11-16_more-or-less-to-the-med.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_11_16_more_or_less_to_the_med__s01_iraqi_deal_with_kurds_will_raise_exports_through_ceyhan",
+      "doc_id": "poten_tankers_no_date_poten_2018_11_16_more_or_less_to_the_med",
+      "parent_id": "poten_tankers_no_date_poten_2018_11_16_more_or_less_to_the_med__root",
+      "title": "Iraqi deal with Kurds will raise exports through Ceyhan",
+      "section_path": [
+        "Iraqi deal with Kurds will raise exports through Ceyhan"
+      ],
+      "section_path_text": "Iraqi deal with Kurds will raise exports through Ceyhan",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "On Friday, 16 November 2018, the Government of Iraq restarted exports of Kirkuk crude oil through the Iraq - Turkey pipeline. Initial volumes flowing through the pipeline average 50,000 barrels per day (b/d).",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "meg",
+        "europe",
+        "crude_oil",
+        "iraqi",
+        "exports"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 915,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -7,6 +7,7 @@ commodities:
 date: '2026-01-19'
 doc_id: hellenic_demolition_2026-01-19_2026_01_19_gms_week_03_reverberations
 document_type: demolition_update
+is_error_page: false
 key_entities:
 - China
 keywords:
@@ -28,7 +29,7 @@ linked_assets_ingested: 2
 linked_assets_mirrored: 2
 linked_assets_skipped: 1
 market_tone: cautiously_bearish
-numeric_observation_count: 90
+numeric_observation_count: 91
 numeric_observations:
 - section: Main
   section_type: null
@@ -85,11 +86,12 @@ numeric_observations:
   - -1.0
   - -19.0
   - 3.0
+  - 1.0
   - 6345.0
   - 50.0
   - 3.0
-  - 42.0
-  - 5.0
+  - 142.0
+  - 65.0
 - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: January 16th, 2026 "True humility is not thinking less of yourself;
@@ -385,6 +387,12 @@ numeric_observations:
   unit: null
   values:
   - 43.27
+- section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
+  section_type: linked_pdf
+  source_line: move given the possibility of a busier Q1 ahead.
+  unit: null
+  values:
+  - 1.0
 - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
   source_line: For Week 3 of 2026, GMS Market Rankings / vessel indications are as
@@ -689,9 +697,9 @@ numeric_observations:
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
   values:
-  - 30.21
+  - 30210.0
   - 899.0669
-  - 91.278
+  - 91278.0
   - 300.5253
 - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_ship-recycling-market-insight-week-0_88d43f5d9423.pdf'
   section_type: linked_pdf
@@ -716,7 +724,7 @@ numeric_observations:
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
   values:
-  - 86.216
+  - 86216.0
   - 75.19
   - 82.1
   - 4650.072
@@ -738,18 +746,19 @@ numeric_observations:
   - -1.0
   - -19.0
   - 3.0
+  - 1.0
   - 6345.0
   - 50.0
   - 3.0
-  - 42.0
-  - 5.0
+  - 142.0
+  - 65.0
 - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_img1_6345_50a03f142b65.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 690x148 mode=RGB'
   unit: null
   values:
   - 690.0
-  - 48.0
+  - 148.0
 - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_img1_6345_50a03f142b65.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'
@@ -764,6 +773,7 @@ numeric_observations:
   values:
   - 2.0
   - 390.0
+  - 10.0
   - 420.0
 - section: 'Linked asset: 2026-01-19_gms-week-03-reverberations_img1_6345_50a03f142b65.jpg'
   section_type: linked_image_asset

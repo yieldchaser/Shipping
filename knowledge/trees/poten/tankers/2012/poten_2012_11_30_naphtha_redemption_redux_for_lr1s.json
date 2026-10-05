@@ -1,0 +1,368 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s__root",
+  "doc_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s",
+  "parent_id": null,
+  "title": "Naphtha Redemption Redux for LR1s",
+  "section_path": [
+    "Naphtha Redemption Redux for LR1s"
+  ],
+  "section_path_text": "Naphtha Redemption Redux for LR1s",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "LR1 rates have risen\nAs we noted in this space in April of this year, a surge in Asian naphtha demand provided a brief respite for LR1 tanker owners operating along the benchmark Baltic TC5 route. We likewise noted that the rate spike was unsustainable, and rate gains indeed subsided a few months later as naphtha demand growth was tempered. However, a recent increase in LR1 fixtures has generated a renewed surge in spot rates as LR1s have reached peaks of $19,100/day - up from $7,600 at the beginning of October.",
+  "keywords": [
+    "china",
+    "singapore",
+    "japan",
+    "products",
+    "naphtha",
+    "demand",
+    "lr1",
+    "year",
+    "domestic",
+    "low",
+    "owners",
+    "should"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 582,
+  "source_path": "reports/poten/2012/poten_2012-11-30_naphtha-redemption-redux-for-lr1s.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s__s01_lr1_rates_have_risen",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s__root",
+      "title": "LR1 rates have risen",
+      "section_path": [
+        "LR1 rates have risen"
+      ],
+      "section_path_text": "LR1 rates have risen",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As we noted in this space in April of this year, a surge in Asian naphtha demand provided a brief respite for LR1 tanker owners operating along the benchmark Baltic TC5 route. We likewise noted that the rate spike was unsustainable, and rate gains indeed subsided a few months later as naphtha demand growth was tempered.",
+      "keywords": [
+        "products",
+        "demand",
+        "lr1",
+        "naphtha",
+        "noted",
+        "surge",
+        "was",
+        "again"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 136,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s__s02_asian_naphtha_import",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s__root",
+      "title": "Asian naphtha import",
+      "section_path": [
+        "Asian naphtha import"
+      ],
+      "section_path_text": "Asian naphtha import",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "volumes collapsed in March, but have recovered since",
+      "keywords": [
+        "but",
+        "collapsed",
+        "march",
+        "recovered",
+        "since",
+        "volumes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 10,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s__s03_korea",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s__root",
+      "title": "Korea",
+      "section_path": [
+        "Korea"
+      ],
+      "section_path_text": "Korea",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "china",
+        "japan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s__s04_oecd_forecasts_gdp",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s__root",
+      "title": "OECD forecasts GDP",
+      "section_path": [
+        "OECD forecasts GDP"
+      ],
+      "section_path_text": "OECD forecasts GDP",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "asia",
+        "growth",
+        "much"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s__s05_chinese_pmi_figures",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s__root",
+      "title": "Chinese PMI figures",
+      "section_path": [
+        "Chinese PMI figures"
+      ],
+      "section_path_text": "Chinese PMI figures",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "indicate domestic manufacturing is starting to expand again",
+      "keywords": [
+        "again",
+        "domestic",
+        "expand",
+        "indicate",
+        "manufacturing",
+        "starting"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s__s06_hsbc",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s__root",
+      "title": "HSBC",
+      "section_path": [
+        "HSBC"
+      ],
+      "section_path_text": "HSBC",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "",
+      "keywords": [
+        "official",
+        "pmi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s__s07_naphtha_prices_have",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s__root",
+      "title": "Naphtha prices have",
+      "section_path": [
+        "Naphtha prices have"
+      ],
+      "section_path_text": "Naphtha prices have",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "",
+      "keywords": [
+        "june...",
+        "recovered",
+        "since"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s__s08_singapore_naphtha_crack_spread",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s__root",
+      "title": "Singapore Naphtha Crack Spread",
+      "section_path": [
+        "Singapore Naphtha Crack Spread"
+      ],
+      "section_path_text": "Singapore Naphtha Crack Spread",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "...yet naphtha crack spreads remain range- bound Compounding the impacts of economic growth are low levels of domestic production of naphtha in Japan. Japanese refineries, running at relatively low utilization rates due to weak domestic demand for refined products, produce limited amounts of naphtha.",
+      "keywords": [
+        "japan",
+        "products",
+        "naphtha",
+        "demand",
+        "domestic",
+        "low",
+        "ag-east",
+        "amounts"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 90,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s__s09_japanese_domestic",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s__root",
+      "title": "Japanese domestic",
+      "section_path": [
+        "Japanese domestic"
+      ],
+      "section_path_text": "Japanese domestic",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "naphtha production at very low levels...",
+      "keywords": [
+        "products",
+        "levels...",
+        "low",
+        "naphtha",
+        "production",
+        "very"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s__s10_5_year_japanese_refinery_utilization_rates",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s__root",
+      "title": "5 Year Japanese Refinery Utilization Rates",
+      "section_path": [
+        "5 Year Japanese Refinery Utilization Rates"
+      ],
+      "section_path_text": "5 Year Japanese Refinery Utilization Rates",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "...due to five year low refinery utilization",
+      "keywords": [
+        "due",
+        "five",
+        "low",
+        "refinery",
+        "utilization",
+        "year"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s__s11_k_mt",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s__root",
+      "title": "k MT",
+      "section_path": [
+        "k MT"
+      ],
+      "section_path_text": "k MT",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "Finally, extremely poor TC5 earnings at the tail end of 2011 and beginning of 2012 incentivized owners to explore other options such as moving out of the clean market and beginning to move crude cargoes. Poten data suggests that this move happened increasingly frequently in early 2012.",
+      "keywords": [
+        "beginning",
+        "move",
+        "cargoes.",
+        "clean",
+        "crude",
+        "data",
+        "early",
+        "earnings"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 60,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s__s12_lr1_owners_reacted_to",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s__root",
+      "title": "LR1 owners reacted to",
+      "section_path": [
+        "LR1 owners reacted to"
+      ],
+      "section_path_text": "LR1 owners reacted to",
+      "level": 1,
+      "ordinal": 12,
+      "summary": "poor earnings a year ago The numbers of AG-East naphtha fixtures on LR1s increased almost 40% from July to October, helping to significantly reduce available tonnage and strengthen freight rates. These movements have brought naphtha demand and pricing in-line with levels that are supported by underlying refinery and petrochemical facility economics.",
+      "keywords": [
+        "products",
+        "movements",
+        "naphtha",
+        "rates.",
+        "should",
+        "tonnage",
+        "year",
+        "ag-east"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 159,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s__s13_long_term_demand_side",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_30_naphtha_redemption_redux_for_lr1s__root",
+      "title": "Long-term demand-side",
+      "section_path": [
+        "Long-term demand-side"
+      ],
+      "section_path_text": "Long-term demand-side",
+      "level": 1,
+      "ordinal": 13,
+      "summary": "indicators are strong, but short-term rate spike should subside",
+      "keywords": [
+        "are",
+        "but",
+        "indicators",
+        "short-term",
+        "should",
+        "spike",
+        "strong",
+        "subside"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

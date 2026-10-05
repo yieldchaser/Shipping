@@ -1,0 +1,369 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues__root",
+  "doc_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues",
+  "parent_id": null,
+  "title": "US Crude Stock Build Continues",
+  "section_path": [
+    "US Crude Stock Build Continues"
+  ],
+  "section_path_text": "US Crude Stock Build Continues",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Extended US crude stock\nbuild a rising threat to tanker demand\n\nUS crude stocks are\n45 MB above the five- year average and 8% higher yoy\n\nCrude inventories not\nfollowing typical summer seasonal patterns US crude runs higher, despite lower US demand\n\n5-yr Range\nSix weeks ago, we observed that a surprise US crude inventory build was consistent with seasonal patterns, risk aversion ahead of Iran sanctions, trapped Cushing storage and Motiva stock building. We suggested that these rising inventories, driven by surging US shale oil production, poised a threat to crude tanker demand on any normalisation of inventory levels in a weakening demand environment. Since then, US crude stocks have continued to rise against historical seasonal patterns -- despite strong crude runs -- thus raising the stakes in the prospects for the tanker market Although US product demand year-to-date through May has been 337 kbpd lower year- over-year (yoy), US crude runs have actually risen, jumping by 312 kbpd yoy during the first five months of 2012.",
+  "keywords": [
+    "crude_oil",
+    "products",
+    "gas",
+    "crude",
+    "padd3",
+    "demand",
+    "inventories",
+    "runs",
+    "are",
+    "kbpd",
+    "motiva",
+    "yoy"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 727,
+  "source_path": "reports/poten/2012/poten_2012-06-22_us-crude-stock-build-continues.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues__s01_extended_us_crude_stock",
+      "doc_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues",
+      "parent_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues__root",
+      "title": "Extended US crude stock",
+      "section_path": [
+        "Extended US crude stock"
+      ],
+      "section_path_text": "Extended US crude stock",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "build a rising threat to tanker demand",
+      "keywords": [
+        "build",
+        "demand",
+        "rising",
+        "threat"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues__s02_us_crude_stocks_are",
+      "doc_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues",
+      "parent_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues__root",
+      "title": "US crude stocks are",
+      "section_path": [
+        "US crude stocks are"
+      ],
+      "section_path_text": "US crude stocks are",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "45 MB above the five- year average and 8% higher yoy",
+      "keywords": [
+        "above",
+        "average",
+        "five",
+        "higher",
+        "year",
+        "yoy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues__s03_crude_inventories_not",
+      "doc_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues",
+      "parent_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues__root",
+      "title": "Crude inventories not",
+      "section_path": [
+        "Crude inventories not"
+      ],
+      "section_path_text": "Crude inventories not",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "following typical summer seasonal patterns US crude runs higher, despite lower US demand",
+      "keywords": [
+        "crude",
+        "demand",
+        "despite",
+        "following",
+        "higher",
+        "lower",
+        "patterns",
+        "runs"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 14,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues__s04_5_yr_range",
+      "doc_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues",
+      "parent_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues__root",
+      "title": "5-yr Range",
+      "section_path": [
+        "5-yr Range"
+      ],
+      "section_path_text": "5-yr Range",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Six weeks ago, we observed that a surprise US crude inventory build was consistent with seasonal patterns, risk aversion ahead of Iran sanctions, trapped Cushing storage and Motiva stock building. We suggested that these rising inventories, driven by surging US shale oil production, poised a threat to crude tanker demand on any normalisation of inventory levels in a weakening demand environment.",
+      "keywords": [
+        "crude_oil",
+        "gas",
+        "crude",
+        "kbpd",
+        "yoy",
+        "demand",
+        "runs",
+        "higher"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 234,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues__s05_padd3_crude_runs",
+      "doc_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues",
+      "parent_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues__root",
+      "title": "PADD3 crude runs",
+      "section_path": [
+        "PADD3 crude runs"
+      ],
+      "section_path_text": "PADD3 crude runs",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "leading rise on diesel export demand",
+      "keywords": [
+        "products",
+        "demand",
+        "diesel",
+        "export",
+        "leading",
+        "rise"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues__s06_padd3",
+      "doc_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues",
+      "parent_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues__root",
+      "title": "PADD3",
+      "section_path": [
+        "PADD3"
+      ],
+      "section_path_text": "PADD3",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "",
+      "keywords": [
+        "other",
+        "padd2"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues__s07_onshore_texas_crude",
+      "doc_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues",
+      "parent_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues__root",
+      "title": "Onshore Texas crude",
+      "section_path": [
+        "Onshore Texas crude"
+      ],
+      "section_path_text": "Onshore Texas crude",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "output actually leading US production gains Some of this action is coming from an unexpected source, as Saudi Arabia has halted shipments of crude to Motiva's Port Arthur, Texas refinery, which has shut down its recent 325 kbpd expansion for several months due to corrosion problems. Motiva would have built up at least 25 days worth of crude inventories before the start-up of the expansion, or 8 MB.",
+      "keywords": [
+        "crude",
+        "motiva",
+        "arthur",
+        "during",
+        "expansion",
+        "inventories",
+        "jump",
+        "kbpd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 165,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues__s08_motiva_port_arthur_story",
+      "doc_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues",
+      "parent_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues__root",
+      "title": "Motiva Port Arthur story",
+      "section_path": [
+        "Motiva Port Arthur story"
+      ],
+      "section_path_text": "Motiva Port Arthur story",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "has contributed to inventory rise Although the 190 MB of PADD3 crude inventories are at a three-year high and are 7% above five-year averages, they are not excessive relative to increased crude runs. As illustrated in the chart below, PADD3 crude inventories, at 24.7 days of forward crude runs, are not outside historical patterns, even when Motiva's expansion is excluded",
+      "keywords": [
+        "are",
+        "crude",
+        "inventories",
+        "not",
+        "padd3",
+        "above",
+        "although",
+        "averages"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 82,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues__s09_padd3_crude_stocks_not",
+      "doc_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues",
+      "parent_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues__root",
+      "title": "PADD3 crude stocks not",
+      "section_path": [
+        "PADD3 crude stocks not"
+      ],
+      "section_path_text": "PADD3 crude stocks not",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "that high relative to crude runs from forward demand. As suspected, the sharp rise in Cushing stocks within PADD2 are distorting US crude inventories, when expressed as days crude runs.",
+      "keywords": [
+        "crude",
+        "are",
+        "cushing",
+        "days",
+        "demand.",
+        "distorting",
+        "expressed",
+        "forward"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 39,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues__s10_the_primary_stock_build",
+      "doc_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues",
+      "parent_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues__root",
+      "title": "The primary stock build",
+      "section_path": [
+        "The primary stock build"
+      ],
+      "section_path_text": "The primary stock build",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "",
+      "keywords": [
+        "crude",
+        "culprit",
+        "cushing",
+        "trapped"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues__s11_usg_padd3",
+      "doc_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues",
+      "parent_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues__root",
+      "title": "USG (PADD3)",
+      "section_path": [
+        "USG (PADD3)"
+      ],
+      "section_path_text": "USG (PADD3)",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "",
+      "keywords": [
+        "midwest",
+        "padd2",
+        "total"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues__s12_year_end_inventory",
+      "doc_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues",
+      "parent_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues__root",
+      "title": "Year-end inventory",
+      "section_path": [
+        "Year-end inventory"
+      ],
+      "section_path_text": "Year-end inventory",
+      "level": 1,
+      "ordinal": 12,
+      "summary": "management could slash US import demand After all, excess oil inventories cannot continue forever and will achieve some sort of mean reversion. Tanker market participants have been anticipating a negative tonne- mile impact from rising US shale oil production, but have been sheltered from its effects through inventory building.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "achieve",
+        "after",
+        "all",
+        "anticipating",
+        "building.",
+        "but"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 64,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues__s13_demand_brought_forward",
+      "doc_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues",
+      "parent_id": "poten_tankers_no_date_poten_2012_06_22_us_crude_stock_build_continues__root",
+      "title": "Demand brought forward",
+      "section_path": [
+        "Demand brought forward"
+      ],
+      "section_path_text": "Demand brought forward",
+      "level": 1,
+      "ordinal": 13,
+      "summary": "",
+      "keywords": [
+        "repaid",
+        "ultimately"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

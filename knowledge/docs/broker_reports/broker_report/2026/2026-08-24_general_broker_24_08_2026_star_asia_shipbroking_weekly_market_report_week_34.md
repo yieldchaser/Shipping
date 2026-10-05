@@ -131,7 +131,7 @@ numeric_observations:
   unit: pct
   values:
   - 5.0
-  - 11500.0
+  - 11.5
 - section: Market Report Content
   section_type: null
   source_line: most key routes, bringing Pacific r/v down to US$37,250's with T/A
@@ -188,7 +188,7 @@ numeric_observations:
   source_line: 'YoY: +46.14%'
   unit: pct
   values:
-  - 46140.0
+  - 46.14
 - section: Market Report Content
   section_type: null
   source_line: 'WoW: +0.31%'
@@ -200,7 +200,7 @@ numeric_observations:
   source_line: 'YoY: +62.98%'
   unit: pct
   values:
-  - 62980.0
+  - 62.98
 - section: Market Report Content
   section_type: null
   source_line: 'WoW: -5.61%'
@@ -212,7 +212,7 @@ numeric_observations:
   source_line: 'YoY: +18.81%'
   unit: pct
   values:
-  - 18810.0
+  - 18.81
 - section: Market Report Content
   section_type: null
   source_line: 'WoW: +1.11%'
@@ -224,7 +224,7 @@ numeric_observations:
   source_line: 'YoY: +15.17%'
   unit: pct
   values:
-  - 15170.0
+  - 15.17
 - section: Market Report Content
   section_type: null
   source_line: 'WoW: +0.92%'
@@ -236,7 +236,7 @@ numeric_observations:
   source_line: 'YoY: +20.55%'
   unit: pct
   values:
-  - 20550.0
+  - 20.55
 - section: Market Report Content
   section_type: null
   source_line: CAPESIZE 180,000 $76M $82M $71M $56M (E) $35M
@@ -278,7 +278,7 @@ numeric_observations:
   values:
   - 175085.0
   - 2004.0
-  - 18500.0
+  - 18.5
 - section: Market Report Content
   section_type: null
   source_line: BBG WUZHOU KMAX 81,895 2016 / CHINA 29.0 UNDISCLOSED
@@ -286,7 +286,7 @@ numeric_observations:
   values:
   - 81895.0
   - 2016.0
-  - 29000.0
+  - 29.0
 - section: Market Report Content
   section_type: null
   source_line: PRESINGE KMAX 81,886 2015 / CHINA 31.0 UNDISCLOSED
@@ -294,7 +294,7 @@ numeric_observations:
   values:
   - 81886.0
   - 2015.0
-  - 31000.0
+  - 31.0
 - section: Market Report Content
   section_type: null
   source_line: KARTINI SAMUDRA PMAX 73,592 2004 / S. KOREA 7.5 CHINESE BUYERS
@@ -302,7 +302,7 @@ numeric_observations:
   values:
   - 73592.0
   - 2004.0
-  - 7500.0
+  - 7.5
 - section: Market Report Content
   section_type: null
   source_line: GRAMOS UMAX 61,171 2019 / CHINA 34.5 GREEK BUYERS
@@ -310,7 +310,7 @@ numeric_observations:
   values:
   - 61171.0
   - 2019.0
-  - 34500.0
+  - 34.5
 - section: Market Report Content
   section_type: null
   source_line: GLOBAL ORIOLE SMAX 58,716 2012 / CHINA 19.0 UNDISCLOSED
@@ -318,7 +318,7 @@ numeric_observations:
   values:
   - 58716.0
   - 2012.0
-  - 19000.0
+  - 19.0
 - section: Market Report Content
   section_type: null
   source_line: LILA MUNDRA SMAX 57,269 2009 / CHINA 12.5 UNDISCLOSED
@@ -326,7 +326,7 @@ numeric_observations:
   values:
   - 57269.0
   - 2009.0
-  - 12500.0
+  - 12.5
 - section: Market Report Content
   section_type: null
   source_line: snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 4
@@ -401,7 +401,7 @@ numeric_observations:
   unit: pct
   values:
   - 3004.0
-  - 9560.0
+  - 9.56
 - section: Market Report Content
   section_type: null
   source_line: US$500,000 mark, with single-voyage lump-sum fixtures reaching a staggering
@@ -453,7 +453,7 @@ numeric_observations:
     million in 2025, with Iranian shipments
   unit: null
   values:
-  - 9500.0
+  - 9.5
   - 21.0
   - 2025.0
 - section: Market Report Content
@@ -464,7 +464,7 @@ numeric_observations:
   values:
   - 294000.0
   - 0.3
-  - 12500.0
+  - 12.5
 - section: Market Report Content
   section_type: null
   source_line: BPD -supported by a 25 to 28 million barrel draw on domestic inventories-and
@@ -570,7 +570,7 @@ numeric_observations:
   source_line: 'WoW: +9.56%'
   unit: pct
   values:
-  - 9560.0
+  - 9.56
 - section: Market Report Content
   section_type: null
   source_line: 'YoY: +188.29%'
@@ -650,7 +650,7 @@ numeric_observations:
   values:
   - 158425.0
   - 2007.0
-  - 49700.0
+  - 49.7
 - section: Market Report Content
   section_type: null
   source_line: BRISTOL SUEZ 157,077 2024 / S. KOREA 123.0 NAFTOMAR
@@ -666,7 +666,7 @@ numeric_observations:
   values:
   - 50100.0
   - 2026.0
-  - 59000.0
+  - 59.0
 - section: Market Report Content
   section_type: null
   source_line: ATLANTIC EAGLE MR 47,128 2007 / S. KOREA 18.0 UNDISCLOSED
@@ -674,7 +674,7 @@ numeric_observations:
   values:
   - 47128.0
   - 2007.0
-  - 18000.0
+  - 18.0
 - section: Market Report Content
   section_type: null
   source_line: MUMBAI MR 46,818 2003 / S. KOREA 10.35 UNDISCLOSED
@@ -682,7 +682,7 @@ numeric_observations:
   values:
   - 46818.0
   - 2003.0
-  - 10350.0
+  - 10.35
 - section: Market Report Content
   section_type: null
   source_line: MAERSK KATE MR 39,756 2010 / CHINA 21.9 GREEK BUYERS
@@ -690,7 +690,7 @@ numeric_observations:
   values:
   - 39756.0
   - 2010.0
-  - 21900.0
+  - 21.9
 - section: Market Report Content
   section_type: null
   source_line: 19,998 2016 / JAPAN 33.0 (STST) UNDISCLOSED
@@ -698,7 +698,7 @@ numeric_observations:
   values:
   - 19998.0
   - 2016.0
-  - 33000.0
+  - 33.0
 - section: Market Report Content
   section_type: null
   source_line: snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 7
@@ -816,7 +816,7 @@ numeric_observations:
   values:
   - 1794.0
   - 2008.0
-  - 18500.0
+  - 18.5
 - section: Market Report Content
   section_type: null
   source_line: snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 9

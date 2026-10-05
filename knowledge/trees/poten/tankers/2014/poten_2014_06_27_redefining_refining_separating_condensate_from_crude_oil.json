@@ -1,0 +1,141 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2014_06_27_redefining_refining_separating_condensate_from_crude_oil__root",
+  "doc_id": "poten_tankers_no_date_poten_2014_06_27_redefining_refining_separating_condensate_from_crude_oil",
+  "parent_id": null,
+  "title": "Redefining Refining: Separating Condensate from Crude Oil",
+  "section_path": [
+    "Redefining Refining: Separating Condensate from Crude Oil"
+  ],
+  "section_path_text": "Redefining Refining: Separating Condensate from Crude Oil",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "2 US Crude Oil Production by Grade\nSmall toes in the export waters This week's kerfuffle was prompted by a Wall Street Journal (WSJ) article that boldly claimed: \"The Obama administration cleared the way for the first exports of unrefined American oil in nearly four decades, allowing energy companies to start chipping away at the longtime ban on selling U.S. oil abroad.\" Well, that's one way to sell newspapers. While not entirely true in the way the WSJ would have one believe at first blush, the express permission via a Private Letter Ruling by the Department of Commerce Bureau of Industry and Security (BIS) that grants two companies, Pioneer Natural Resources Co.",
+  "keywords": [
+    "crude_oil",
+    "products",
+    "gas",
+    "oil",
+    "crude",
+    "splitter",
+    "are",
+    "condensate",
+    "phase",
+    "lease",
+    "bis",
+    "export"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 950,
+  "source_path": "reports/poten/2014/poten_2014-06-27_redefining-refining-separating-condensate-from-crude-oil.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_06_27_redefining_refining_separating_condensate_from_crude_oil__s01_fig_2_us_crude_oil_production_by_grade",
+      "doc_id": "poten_tankers_no_date_poten_2014_06_27_redefining_refining_separating_condensate_from_crude_oil",
+      "parent_id": "poten_tankers_no_date_poten_2014_06_27_redefining_refining_separating_condensate_from_crude_oil__root",
+      "title": "Fig. 2 US Crude Oil Production by Grade",
+      "section_path": [
+        "Fig. 2 US Crude Oil Production by Grade"
+      ],
+      "section_path_text": "Fig. 2 US Crude Oil Production by Grade",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Small toes in the export waters This week's kerfuffle was prompted by a Wall Street Journal (WSJ) article that boldly claimed: \"The Obama administration cleared the way for the first exports of unrefined American oil in nearly four decades, allowing energy companies to start chipping away at the longtime ban on selling U.S. oil abroad.\" Well, that's one way to sell newspapers.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "condensate",
+        "bis",
+        "companies",
+        "export",
+        "lease"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 348,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_06_27_redefining_refining_separating_condensate_from_crude_oil__s02_project",
+      "doc_id": "poten_tankers_no_date_poten_2014_06_27_redefining_refining_separating_condensate_from_crude_oil",
+      "parent_id": "poten_tankers_no_date_poten_2014_06_27_redefining_refining_separating_condensate_from_crude_oil__root",
+      "title": "Project",
+      "section_path": [
+        "Project"
+      ],
+      "section_path_text": "Project",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "kbd In Service Date Galena Park Splitter Phase I 50 Q3 2014",
+      "keywords": [
+        "date",
+        "galena",
+        "kbd",
+        "park",
+        "phase",
+        "service",
+        "splitter"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 18,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_06_27_redefining_refining_separating_condensate_from_crude_oil__s03_canton_splitter",
+      "doc_id": "poten_tankers_no_date_poten_2014_06_27_redefining_refining_separating_condensate_from_crude_oil",
+      "parent_id": "poten_tankers_no_date_poten_2014_06_27_redefining_refining_separating_condensate_from_crude_oil__root",
+      "title": "Canton Splitter",
+      "section_path": [
+        "Canton Splitter"
+      ],
+      "section_path_text": "Canton Splitter",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "17.5 Q4 2014 Galena Park Splitter Phase II 50 Q2 2015",
+      "keywords": [
+        "galena",
+        "park",
+        "phase",
+        "splitter"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 22,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_06_27_redefining_refining_separating_condensate_from_crude_oil__s04_cattlesburg_splitter",
+      "doc_id": "poten_tankers_no_date_poten_2014_06_27_redefining_refining_separating_condensate_from_crude_oil",
+      "parent_id": "poten_tankers_no_date_poten_2014_06_27_redefining_refining_separating_condensate_from_crude_oil__root",
+      "title": "Cattlesburg Splitter",
+      "section_path": [
+        "Cattlesburg Splitter"
+      ],
+      "section_path_text": "Cattlesburg Splitter",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "17.5 Q2 2015 CCI Corpus Splitter Phase 1 50 Q2 2015 Magellan Corpus Splitter Phase 1 50 Q1 2016 CCI Corpus Splitter Phase 2 50 Q2 2016 Magellan Corpus Splitter Phase 2 50 Q1 2018 ultra-light crude oils or lease condensates, the material can then be exported. Does the BIS precedent then make these projects for naught?",
+      "keywords": [
+        "crude_oil",
+        "gas",
+        "crude",
+        "oil",
+        "are",
+        "phase",
+        "corpus",
+        "splitter"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 534,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

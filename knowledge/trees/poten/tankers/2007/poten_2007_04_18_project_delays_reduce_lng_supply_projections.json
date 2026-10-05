@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_04_18_project_delays_reduce_lng_supply_projections__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_04_18_project_delays_reduce_lng_supply_projections",
+  "parent_id": null,
+  "title": "Project Delays Reduce LNG Supply Projections",
+  "section_path": [
+    "Project Delays Reduce LNG Supply Projections"
+  ],
+  "section_path_text": "Project Delays Reduce LNG Supply Projections",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Technology\nProjects in Africa are the largest culprits, with three ventures totaling 40 MMt/y in Nigeria alone. This covers two development phases at OKLNG as well as an expansion train at Nigeria LNG and the grassroots Brass LNG project, all of which are jockeying for resources. And sky- rocketing costs could potentially derail OKLNG, whose partners are now in exclusive negotiations with a joint venture comprising France's Technip and the Italian firm Snamprogetti.",
+  "keywords": [
+    "lng",
+    "australia",
+    "europe",
+    "crude_oil",
+    "gas",
+    "are",
+    "other",
+    "project",
+    "projects",
+    "epc",
+    "nigeria",
+    "only"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 835,
+  "source_path": "reports/poten/2007/poten_2007-04-18_project-delays-reduce-lng-supply-projections.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_04_18_project_delays_reduce_lng_supply_projections__s01_technology",
+      "doc_id": "poten_tankers_no_date_poten_2007_04_18_project_delays_reduce_lng_supply_projections",
+      "parent_id": "poten_tankers_no_date_poten_2007_04_18_project_delays_reduce_lng_supply_projections__root",
+      "title": "Technology",
+      "section_path": [
+        "Technology"
+      ],
+      "section_path_text": "Technology",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Projects in Africa are the largest culprits, with three ventures totaling 40 MMt/y in Nigeria alone. This covers two development phases at OKLNG as well as an expansion train at Nigeria LNG and the grassroots Brass LNG project, all of which are jockeying for resources.",
+      "keywords": [
+        "lng",
+        "australia",
+        "europe",
+        "gas",
+        "are",
+        "only",
+        "project",
+        "two"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 461,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_04_18_project_delays_reduce_lng_supply_projections__s02_2004_projection_x",
+      "doc_id": "poten_tankers_no_date_poten_2007_04_18_project_delays_reduce_lng_supply_projections",
+      "parent_id": "poten_tankers_no_date_poten_2007_04_18_project_delays_reduce_lng_supply_projections__root",
+      "title": "2004 projection X",
+      "section_path": [
+        "2004 projection X"
+      ],
+      "section_path_text": "2004 projection X",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Other projects have been forced to renegotiate fiscal terms, gas supply agreements, partnership arrangements and other commercial details before proceeding. Despite these hurdles, the most likely candidates for the next development phase remain unchanged from previous projections.",
+      "keywords": [
+        "lng",
+        "australia",
+        "crude_oil",
+        "gas",
+        "are",
+        "other",
+        "projects",
+        "all"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 228,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_04_18_project_delays_reduce_lng_supply_projections__s03_technology",
+      "doc_id": "poten_tankers_no_date_poten_2007_04_18_project_delays_reduce_lng_supply_projections",
+      "parent_id": "poten_tankers_no_date_poten_2007_04_18_project_delays_reduce_lng_supply_projections__root",
+      "title": "Technology",
+      "section_path": [
+        "Technology"
+      ],
+      "section_path_text": "Technology",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Potential projects in remote or politically-uncertain environments could also advance if risks are identified and mitigated. Opportunities in Russia, Iran, Venezuela, Papua New Guinea and Libya, amongst others, need more definition but are attracting attention from big-name industry players.",
+      "keywords": [
+        "lng",
+        "crude_oil",
+        "gas",
+        "are",
+        "oil",
+        "advance",
+        "amongst",
+        "attention"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 137,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

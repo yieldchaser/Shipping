@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2023_12_15_taking_the_long_way_home__root",
+  "doc_id": "poten_tankers_no_date_poten_2023_12_15_taking_the_long_way_home",
+  "parent_id": null,
+  "title": "Taking The Long Way Home",
+  "section_path": [
+    "Taking The Long Way Home"
+  ],
+  "section_path_text": "Taking The Long Way Home",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Trans Mountain Expansion Will Transform Pacific Trades\nIn the second quarter of 2024, the Trans Mountain expansion project is expected be finalized. That is, if further delays can be avoided. The expansion will add about 590 thousand barrels of oil per day (b/d) of capacity to the Trans Mountain Pipeline, increasing it to 890 thousand b/d.",
+  "keywords": [
+    "aframax",
+    "china",
+    "pacific",
+    "europe",
+    "us_gulf",
+    "japan",
+    "crude_oil",
+    "products",
+    "tankers",
+    "trades",
+    "are",
+    "coast"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 855,
+  "source_path": "reports/poten/2023/poten_2023-12-15_taking-the-long-way-home.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2023_12_15_taking_the_long_way_home__s01_trans_mountain_expansion_will_transform_pacific_trades",
+      "doc_id": "poten_tankers_no_date_poten_2023_12_15_taking_the_long_way_home",
+      "parent_id": "poten_tankers_no_date_poten_2023_12_15_taking_the_long_way_home__root",
+      "title": "Trans Mountain Expansion Will Transform Pacific Trades",
+      "section_path": [
+        "Trans Mountain Expansion Will Transform Pacific Trades"
+      ],
+      "section_path_text": "Trans Mountain Expansion Will Transform Pacific Trades",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In the second quarter of 2024, the Trans Mountain expansion project is expected be finalized. That is, if further delays can be avoided.",
+      "keywords": [
+        "aframax",
+        "china",
+        "pacific",
+        "europe",
+        "us_gulf",
+        "japan",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 847,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

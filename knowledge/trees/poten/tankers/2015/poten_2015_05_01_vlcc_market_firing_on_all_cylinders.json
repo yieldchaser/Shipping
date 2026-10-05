@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2015_05_01_vlcc_market_firing_on_all_cylinders__root",
+  "doc_id": "poten_tankers_no_date_poten_2015_05_01_vlcc_market_firing_on_all_cylinders",
+  "parent_id": null,
+  "title": "VLCC Market Firing On All Cylinders",
+  "section_path": [
+    "VLCC Market Firing On All Cylinders"
+  ],
+  "section_path_text": "VLCC Market Firing On All Cylinders",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Owners reaping the benefits of a strong market\nOn April 30, Euronav released its results for the first quarter of 2015. A day earlier, DHT did the same. Both companies produced stellar earnings for the first quarter of the year on the back of solid results for their crude oil tankers, in particular the VLCCs, which make up the majority of these companies' fleets.",
+  "keywords": [
+    "vlcc",
+    "europe",
+    "india",
+    "crude_oil",
+    "oil",
+    "crude",
+    "demand",
+    "growth",
+    "opec",
+    "owners",
+    "tankers",
+    "year"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 714,
+  "source_path": "reports/poten/2015/poten_2015-05-01_vlcc-market-firing-on-all-cylinders.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2015_05_01_vlcc_market_firing_on_all_cylinders__s01_owners_reaping_the_benefits_of_a_strong_market",
+      "doc_id": "poten_tankers_no_date_poten_2015_05_01_vlcc_market_firing_on_all_cylinders",
+      "parent_id": "poten_tankers_no_date_poten_2015_05_01_vlcc_market_firing_on_all_cylinders__root",
+      "title": "Owners reaping the benefits of a strong market",
+      "section_path": [
+        "Owners reaping the benefits of a strong market"
+      ],
+      "section_path_text": "Owners reaping the benefits of a strong market",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "On April 30, Euronav released its results for the first quarter of 2015. A day earlier, DHT did the same.",
+      "keywords": [
+        "vlcc",
+        "europe",
+        "india",
+        "crude_oil",
+        "oil",
+        "crude",
+        "demand",
+        "growth"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 704,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

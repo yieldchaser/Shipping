@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2022_02_11_us_exports_to_the_rescue__root",
+  "doc_id": "poten_tankers_no_date_poten_2022_02_11_us_exports_to_the_rescue",
+  "parent_id": null,
+  "title": "US Exports to the Rescue",
+  "section_path": [
+    "US Exports to the Rescue"
+  ],
+  "section_path_text": "US Exports to the Rescue",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "production and exports could boost ton-miles\nPersistent high oil prices amid a tight global oil market have created a powerful incentive for U.S. crude oil producers to put more rigs to use and expand tight oil production. Major producers like ExxonMobil and Chevron have announced in their recent quarterly earnings calls that they will boost production by 25% and 10% respectively.",
+  "keywords": [
+    "vlcc",
+    "crude_oil",
+    "u.s.",
+    "oil",
+    "mb/d",
+    "crude",
+    "exports",
+    "production",
+    "additional",
+    "average",
+    "asia",
+    "b/d"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1068,
+  "source_path": "reports/poten/2022/poten_2022-02-11_us-exports-to-the-rescue.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_02_11_us_exports_to_the_rescue__s01_growing_u_s_production_and_exports_could_boost_ton_miles",
+      "doc_id": "poten_tankers_no_date_poten_2022_02_11_us_exports_to_the_rescue",
+      "parent_id": "poten_tankers_no_date_poten_2022_02_11_us_exports_to_the_rescue__root",
+      "title": "Growing U.S. production and exports could boost ton-miles",
+      "section_path": [
+        "Growing U.S. production and exports could boost ton-miles"
+      ],
+      "section_path_text": "Growing U.S. production and exports could boost ton-miles",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Persistent high oil prices amid a tight global oil market have created a powerful incentive for U.S. crude oil producers to put more rigs to use and expand tight oil production.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "u.s.",
+        "oil",
+        "mb/d",
+        "crude",
+        "exports",
+        "production"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1055,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

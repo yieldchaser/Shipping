@@ -1,0 +1,240 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2014_03_14_do_you_need_to_clean_up_your_act__root",
+  "doc_id": "poten_tankers_no_date_poten_2014_03_14_do_you_need_to_clean_up_your_act",
+  "parent_id": null,
+  "title": "Do You Need to Clean Up Your Act?",
+  "section_path": [
+    "Do You Need to Clean Up Your Act?"
+  ],
+  "section_path_text": "Do You Need to Clean Up Your Act?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Do You Need to Clean Up Your Act? One critical decision a shipowner faces when ordering an Aframax is whether or not to coat the vessel's tanks to allow for clean refined product carriage. In the few years leading up to the market peak in 2008, anticipation and excitement for long-haul refined products trades gained momentum.",
+  "keywords": [
+    "capesize",
+    "aframax",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "europe",
+    "india",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "gas",
+    "lr2"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1158,
+  "source_path": "reports/poten/2014/poten_2014-03-14_do-you-need-to-clean-up-your-act.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_03_14_do_you_need_to_clean_up_your_act__s01_do_you_need_to_clean_up_your_act",
+      "doc_id": "poten_tankers_no_date_poten_2014_03_14_do_you_need_to_clean_up_your_act",
+      "parent_id": "poten_tankers_no_date_poten_2014_03_14_do_you_need_to_clean_up_your_act__root",
+      "title": "Do You Need to Clean Up Your Act?",
+      "section_path": [
+        "Do You Need to Clean Up Your Act?"
+      ],
+      "section_path_text": "Do You Need to Clean Up Your Act?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "One critical decision a shipowner faces when ordering an Aframax is whether or not to coat the vessel's tanks to allow for clean refined product carriage. In the few years leading up to the market peak in 2008, anticipation and excitement for long-haul refined products trades gained momentum.",
+      "keywords": [
+        "capesize",
+        "aframax",
+        "crude_oil",
+        "products",
+        "product",
+        "refined",
+        "refineries",
+        "refining"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 235,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_03_14_do_you_need_to_clean_up_your_act__s02_ag",
+      "doc_id": "poten_tankers_no_date_poten_2014_03_14_do_you_need_to_clean_up_your_act",
+      "parent_id": "poten_tankers_no_date_poten_2014_03_14_do_you_need_to_clean_up_your_act__root",
+      "title": "AG",
+      "section_path": [
+        "AG"
+      ],
+      "section_path_text": "AG",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "AUS CAR ECC ECSA FE MED RED SEA",
+      "keywords": [
+        "aus",
+        "car",
+        "ecc",
+        "ecsa",
+        "med",
+        "red",
+        "sea"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 10,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_03_14_do_you_need_to_clean_up_your_act__s03_sea",
+      "doc_id": "poten_tankers_no_date_poten_2014_03_14_do_you_need_to_clean_up_your_act",
+      "parent_id": "poten_tankers_no_date_poten_2014_03_14_do_you_need_to_clean_up_your_act__root",
+      "title": "SEA",
+      "section_path": [
+        "SEA"
+      ],
+      "section_path_text": "SEA",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "south"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_03_14_do_you_need_to_clean_up_your_act__s04_ukc",
+      "doc_id": "poten_tankers_no_date_poten_2014_03_14_do_you_need_to_clean_up_your_act",
+      "parent_id": "poten_tankers_no_date_poten_2014_03_14_do_you_need_to_clean_up_your_act__root",
+      "title": "UKC",
+      "section_path": [
+        "UKC"
+      ],
+      "section_path_text": "UKC",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "west_africa",
+        "usa",
+        "waf",
+        "wcsa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_03_14_do_you_need_to_clean_up_your_act__s05_asia",
+      "doc_id": "poten_tankers_no_date_poten_2014_03_14_do_you_need_to_clean_up_your_act",
+      "parent_id": "poten_tankers_no_date_poten_2014_03_14_do_you_need_to_clean_up_your_act__root",
+      "title": "ASIA",
+      "section_path": [
+        "ASIA"
+      ],
+      "section_path_text": "ASIA",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "2006 - 2012 Outlook 2011 - 2017 Outlook 2013 - 2018 Outlook In 2006, planned capacity additions were projected to total 7.6 million barrels by 2012; 25% of additions would take their form in large export refineries to be built in the Middle East. In actuality, global additions over that period only amounted to 5.3 million barrels per day.",
+      "keywords": [
+        "atlantic",
+        "meg",
+        "europe",
+        "india",
+        "products",
+        "gas",
+        "barrels",
+        "million"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 373,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_03_14_do_you_need_to_clean_up_your_act__s06_ag",
+      "doc_id": "poten_tankers_no_date_poten_2014_03_14_do_you_need_to_clean_up_your_act",
+      "parent_id": "poten_tankers_no_date_poten_2014_03_14_do_you_need_to_clean_up_your_act__root",
+      "title": "AG",
+      "section_path": [
+        "AG"
+      ],
+      "section_path_text": "AG",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "",
+      "keywords": [
+        "asia",
+        "south"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_03_14_do_you_need_to_clean_up_your_act__s07_ag",
+      "doc_id": "poten_tankers_no_date_poten_2014_03_14_do_you_need_to_clean_up_your_act",
+      "parent_id": "poten_tankers_no_date_poten_2014_03_14_do_you_need_to_clean_up_your_act__root",
+      "title": "AG",
+      "section_path": [
+        "AG"
+      ],
+      "section_path_text": "AG",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "SOUTH ASIA Reported spot LR2 fixtures from the Arabian Gulf increased a noteworthy 26% between 2012 and 2013, however not due to the service of Atlantic Basin customers. Naphtha, to supply far eastern demand, has continued to be the cargo of importance.",
+      "keywords": [
+        "aframax",
+        "atlantic",
+        "meg",
+        "europe",
+        "india",
+        "us_gulf",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 222,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_03_14_do_you_need_to_clean_up_your_act__s08_trade_vessel",
+      "doc_id": "poten_tankers_no_date_poten_2014_03_14_do_you_need_to_clean_up_your_act",
+      "parent_id": "poten_tankers_no_date_poten_2014_03_14_do_you_need_to_clean_up_your_act__root",
+      "title": "Trade/Vessel",
+      "section_path": [
+        "Trade/Vessel"
+      ],
+      "section_path_text": "Trade/Vessel",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "FY 2013 2009 - 2013 2004 - 2013 CAR - USA (70kt) DTY $36,793 $15,052 $11,024 $23,516 MED - MED (80kt) DTY $28,121 $8,404 $11,206 $24,730 AG - FE (75kt) CLN $7,802 $11,667 $11,698 $22,281 Aframax 1-Yr TC $14,863 $12,206 $15,616 $24,506 Aframax 3-Yr TC $15,719 $14,289 $17,054 $22,834 Aframax 5-Yr TC $17,000 $15,558 $17,999 $19,201 LR2 1-Yr TC $15,969 $15,594 $16,740 $25,263 LR2 3-Yr TC $17,000 $16,590 $17,838 $23,375 LR2 5-Yr TC $17,625 $17,121 $16,850 $16,850 Most of the Aframaxes and LR2s plying the oceans today are involved in the dirty trade of crude oil and heavier products, and for the forseeable future, that is where they are likely to stay.",
+      "keywords": [
+        "aframax",
+        "crude_oil",
+        "products",
+        "lr2",
+        "are",
+        "dty",
+        "med",
+        "aframaxes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 276,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

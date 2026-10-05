@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1459,
-  "source_path": "corpus/02-hellenic/vessel_valuations/2023/2023-02-28_weekly-vessel-valuations-report-february-28-2023.html",
+  "token_count": 2241,
+  "source_path": "reports/hellenic/vessel_valuations/2023/2023-02-28_weekly-vessel-valuations-report-february-28-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-february-28-2023",
   "children": [
     {
@@ -69,20 +69,20 @@
       "section_path_text": "Linked asset: 2023-02-28_weekly-vessel-valuations-report-february-28-2023_img1_2822023_7b6c2f8cb786.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2023/assets/2023-02-28_weekly-vessel-valuations-report-february-28-2023_img1_2822023_7b6c2f8cb786.jpg\n\nLinked image asset: 2023-02-28_weekly-vessel-valuations-report-february-28-2023_img1_2822023_7b6c2f8cb786.jpg\n\nImage metadata: JPEG 678x259 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\nOv I Vi i ~\n28 February 2023 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge VLCC Suez Afra LRI MR Cape Pmax Supra Handy pate Pmax Handy Fmax\n. 0.0% 0.0% -6.0% -3.4% -1.0% +0.9% +0.1% +0,9% +0.3% +2.6% -0,2% +0.5% -0.3%\n320K 160K 110K = 75K 50K 180K 82K = GOK 38K 7000 4250 «1750 --1100\n5 +0.1% 40.1% -2.2% 0.0% 0.0% +0.7% +0.1% +0.9% +0.3% +1.4% -0.3% +0.9% +1.2%\n320K 160K 110K 75K 50K 180K 80K 60K 38K 7000 «4250.",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2023/assets/2023-02-28_weekly-vessel-valuations-report-february-28-2023_img1_2822023_7b6c2f8cb786.jpg\n\nLinked image asset: 2023-02-28_weekly-vessel-valuations-report-february-28-2023_img1_2822023_7b6c2f8cb786.jpg\n\nImage metadata: JPEG 678x259 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\n[structured table]\n| © | vessetsValue | | | | | | | | | | | |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 28 Febuary | 2023, | | | | W | Mini Matrix | - | Weekly | Change | | | |\n| | | | Tankers | | | | | Bulkers | | | containers | |\n| Age | icc | Suez | Afra | LRT | MR | ‘Cape | Pmax | Supra | Handy | pmax | Mandy | Fmax |\n| | 0.0% | 0.0% | 6.0% | | 1.0% | 10.9% | 40.1% | 40.9% | 40.3% | 0.2% | +0.5% | -0.9% |\n| | BRK | 160k | | | | | 82K | | 38K | | 425017501500 | |\n| ° | | | | | | | | | | | | |\n| | 320 | \"160K | 110K | 73K | SOK | 180% | \"80k | OK | 30K | 7000 | 425017501100 | |\n| | | | 0.7 | 40.3% | 40.7% | | 0.0% | | 40.39% | 0.2% | | +2.7% |\n| to | | | | | | | | | | | | |\n| | 320K | 160K' | 110K | 75K | 50K | | | 60K | 32K | 7000' 43501750. | | 1500 |\n| = | | | | | | | | | | | | |\n| | 310K | 360K | 110K | 75K | SOK | 180\" | \"0K | 55",
       "keywords": [
         "capesize",
         "supramax",
         "handysize",
         "vlcc",
         "container",
-        "asset",
+        "pmax",
         "handy",
-        "image"
+        "n/a"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 814,
+      "token_count": 1596,
       "section_type": "linked_image_asset",
       "children": []
     }

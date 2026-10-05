@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2019_06_28_tanker_midterms__root",
+  "doc_id": "poten_tankers_no_date_poten_2019_06_28_tanker_midterms",
+  "parent_id": null,
+  "title": "Tanker Midterms",
+  "section_path": [
+    "Tanker Midterms"
+  ],
+  "section_path_text": "Tanker Midterms",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Top Reported Dirty Spot Charterers for 1H 2019*\nWe have reached the middle of the year, so it is time to take stock of the spot fixture volumes in the tanker market and see if we can observe any movements in the rankings of the largest dirty spot charterers (yes, Unipec is still on top). The overall volume of reported dirty spot fixtures in H1 2019 showed an unusual decline compared to the same period in 2018 (from 5,409 to 4,623). The total cargo volume fixed on spot voyages also declined by 13%, similar to the decline in overall cargo volumes (using AIS data), mainly due to lower AG exports and lower imports into the US Gulf.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "atlantic",
+    "us_gulf",
+    "crude_oil",
+    "fixtures",
+    "reported",
+    "total",
+    "top",
+    "charterers"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1073,
+  "source_path": "reports/poten/2019/poten_2019-06-28_tanker-midterms.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_06_28_tanker_midterms__s01_top_reported_dirty_spot_charterers_for_1h_2019",
+      "doc_id": "poten_tankers_no_date_poten_2019_06_28_tanker_midterms",
+      "parent_id": "poten_tankers_no_date_poten_2019_06_28_tanker_midterms__root",
+      "title": "Top Reported Dirty Spot Charterers for 1H 2019*",
+      "section_path": [
+        "Top Reported Dirty Spot Charterers for 1H 2019*"
+      ],
+      "section_path_text": "Top Reported Dirty Spot Charterers for 1H 2019*",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "We have reached the middle of the year, so it is time to take stock of the spot fixture volumes in the tanker market and see if we can observe any movements in the rankings of the largest dirty spot charterers (yes, Unipec is still on top). The overall volume of reported dirty spot fixtures in H1 2019 showed an unusual decline compared to the same period in 2018 (from 5,409 to 4,623).",
+      "keywords": [
+        "china",
+        "us_gulf",
+        "crude_oil",
+        "total",
+        "cargo",
+        "dirty",
+        "decline",
+        "fixtures"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 665,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_06_28_tanker_midterms__s02_chart_top_10_vlcc_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2019_06_28_tanker_midterms",
+      "parent_id": "poten_tankers_no_date_poten_2019_06_28_tanker_midterms__root",
+      "title": "Chart: Top 10 VLCC Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 VLCC Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 VLCC Spot Charterers",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "In the VLCC segment, Unipec continues to be in a league of its own, although the number of spot fixtures declined somewhat, but fixtures of smaller ships increased, and their total cargo volume increased. More reported VLCC fixtures are attributed to the Chinese giant than to the next eight largest VLCC charterers combined.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "fixtures",
+        "reported",
+        "charterers",
+        "number",
+        "total",
+        "activity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 137,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_06_28_tanker_midterms__s03_chart_top_10_suezmax_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2019_06_28_tanker_midterms",
+      "parent_id": "poten_tankers_no_date_poten_2019_06_28_tanker_midterms__root",
+      "title": "Chart: Top 10 Suezmax Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 Suezmax Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 Suezmax Spot Charterers",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "In the Suezmax segment, Shell took over the top spot from Chevron. Unipec is a notable newcomer to the top Suezmax charterer list, mainly due to increased Suezmax imports from Libya and more intra-Asian shipments.",
+      "keywords": [
+        "suezmax",
+        "due",
+        "increased",
+        "mainly",
+        "top",
+        "charterer",
+        "chevron.",
+        "exports"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 118,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_06_28_tanker_midterms__s04_top_10_aframax_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2019_06_28_tanker_midterms",
+      "parent_id": "poten_tankers_no_date_poten_2019_06_28_tanker_midterms__root",
+      "title": "Top 10 Aframax Spot Charterers",
+      "section_path": [
+        "Top 10 Aframax Spot Charterers"
+      ],
+      "section_path_text": "Top 10 Aframax Spot Charterers",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "In the Aframax segment, Shell and Vitol traded places. Unipec also made the Aframax list this year as they became more active in Atlantic trades.",
+      "keywords": [
+        "aframax",
+        "atlantic",
+        "fixtures",
+        "reported",
+        "above",
+        "active",
+        "activity.",
+        "assembled"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 106,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

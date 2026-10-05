@@ -80,14 +80,14 @@ numeric_observations:
     US$44.8 million-
   unit: usd
   values:
-  - 44800.0
+  - 44.8
 - section: Market Report Content
   section_type: null
   source_line: equating to nearly US$22.50 per barrel and more than doubling costs
     recorded prior to the outbreak of
   unit: usd
   values:
-  - 22500.0
+  - 22.5
 - section: Market Report Content
   section_type: null
   source_line: benchmark government bond yields climbed toward 5%, driven by mounting
@@ -161,7 +161,7 @@ numeric_observations:
     fixtures down to US $15.95/ton.
   unit: usd
   values:
-  - 15950.0
+  - 15.95
 - section: Market Report Content
   section_type: null
   source_line: Reflecting this Pacific-led retreat, Pacific R/V dropped sharply to
@@ -245,7 +245,7 @@ numeric_observations:
   source_line: 'YoY: +67.82%'
   unit: pct
   values:
-  - 67820.0
+  - 67.82
 - section: Market Report Content
   section_type: null
   source_line: 'WoW: -6.48%'
@@ -257,7 +257,7 @@ numeric_observations:
   source_line: 'YoY: +22.01%'
   unit: pct
   values:
-  - 22010.0
+  - 22.01
 - section: Market Report Content
   section_type: null
   source_line: 'WoW: +2.79%'
@@ -269,19 +269,19 @@ numeric_observations:
   source_line: 'YoY: +18.67%'
   unit: pct
   values:
-  - 18670.0
+  - 18.67
 - section: Market Report Content
   section_type: null
   source_line: 'WoW: +5.11%'
   unit: pct
   values:
-  - 5110.0
+  - 5.11
 - section: Market Report Content
   section_type: null
   source_line: 'YoY: +21.23%'
   unit: pct
   values:
-  - 21230.0
+  - 21.23
 - section: Market Report Content
   section_type: null
   source_line: CAPESIZE 180,000 $76M $82M $71M $56M (E) $35M
@@ -323,7 +323,7 @@ numeric_observations:
   values:
   - 180727.0
   - 2009.0
-  - 30800.0
+  - 30.8
 - section: Market Report Content
   section_type: null
   source_line: PMAX 84,947 2016 / JAPAN 34.0 GREEK BUYERS
@@ -331,7 +331,7 @@ numeric_observations:
   values:
   - 84947.0
   - 2016.0
-  - 34000.0
+  - 34.0
 - section: Market Report Content
   section_type: null
   source_line: BW JAPAN KMAX 81,609 2019 / PHILIPPINES 38.5 GESCO
@@ -339,7 +339,7 @@ numeric_observations:
   values:
   - 81609.0
   - 2019.0
-  - 38500.0
+  - 38.5
 - section: Market Report Content
   section_type: null
   source_line: DAEBO GLADSTONE KMAX 81,399 2013 / S. KOREA 21.0 UNDISCLOSED
@@ -347,7 +347,7 @@ numeric_observations:
   values:
   - 81399.0
   - 2013.0
-  - 21000.0
+  - 21.0
 - section: Market Report Content
   section_type: null
   source_line: SEA ORION PMAX 76,602 2005 / JAPAN 11.5 UNDISCLOSED
@@ -355,7 +355,7 @@ numeric_observations:
   values:
   - 76602.0
   - 2005.0
-  - 11500.0
+  - 11.5
 - section: Market Report Content
   section_type: null
   source_line: AE JUPITER PMAX 74,475 2007 / CHINA 11.5 UNDISCLOSED
@@ -363,7 +363,7 @@ numeric_observations:
   values:
   - 74475.0
   - 2007.0
-  - 11500.0
+  - 11.5
 - section: Market Report Content
   section_type: null
   source_line: OCEAN TIANBO UMAX 63,455 2016 / CHINA 27.6 BESIKTAS
@@ -371,7 +371,7 @@ numeric_observations:
   values:
   - 63455.0
   - 2016.0
-  - 27600.0
+  - 27.6
 - section: Market Report Content
   section_type: null
   source_line: SKY KNIGHT SMAX 58,078 2012 / JAPAN 21.6 UNDISCLOSED
@@ -379,7 +379,7 @@ numeric_observations:
   values:
   - 58078.0
   - 2012.0
-  - 21600.0
+  - 21.6
 - section: Market Report Content
   section_type: null
   source_line: LUZON SMAX 55,657 2010 / JAPAN 18.2 CHINESE BUYERS
@@ -387,7 +387,7 @@ numeric_observations:
   values:
   - 55657.0
   - 2010.0
-  - 18200.0
+  - 18.2
 - section: Market Report Content
   section_type: null
   source_line: BOSTON HARMONY HANDY 38,561 2015 / JAPAN 24.0 GREEK BUYERS
@@ -395,7 +395,7 @@ numeric_observations:
   values:
   - 38561.0
   - 2015.0
-  - 24000.0
+  - 24.0
 - section: Market Report Content
   section_type: null
   source_line: ANGELIC ANNA HANDY 37,187 2012 / JAPAN 15.0 UNDISCLOSED
@@ -403,7 +403,7 @@ numeric_observations:
   values:
   - 37187.0
   - 2012.0
-  - 15000.0
+  - 15.0
 - section: Market Report Content
   section_type: null
   source_line: ZE HUI HANDY 35,212 2011 / CHINA 11.0 GERMAN BUYERS
@@ -411,7 +411,7 @@ numeric_observations:
   values:
   - 35212.0
   - 2011.0
-  - 11000.0
+  - 11.0
 - section: Market Report Content
   section_type: null
   source_line: TBC KAILASH HANDY 35,152 2011 / CHINA 9.5 INDIAN BUYERS
@@ -419,7 +419,7 @@ numeric_observations:
   values:
   - 35152.0
   - 2011.0
-  - 9500.0
+  - 9.5
 - section: Market Report Content
   section_type: null
   source_line: snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 4
@@ -494,7 +494,7 @@ numeric_observations:
   unit: pct
   values:
   - 4899.0
-  - 44730.0
+  - 44.73
 - section: Market Report Content
   section_type: null
   source_line: Global crude tanker rates have reached an unprecedented milestone,
@@ -633,7 +633,7 @@ numeric_observations:
   source_line: 'WoW: +44.73%'
   unit: pct
   values:
-  - 44730.0
+  - 44.73
 - section: Market Report Content
   section_type: null
   source_line: 'YoY: +328.61%'
@@ -645,7 +645,7 @@ numeric_observations:
   source_line: 'WoW: +8.55%'
   unit: pct
   values:
-  - 8550.0
+  - 8.55
 - section: Market Report Content
   section_type: null
   source_line: 'YoY: +214.40%'
@@ -714,7 +714,7 @@ numeric_observations:
   - 5.0
   - 362929.0
   - 2002.0
-  - 55000.0
+  - 55.0
 - section: Market Report Content
   section_type: null
   source_line: RAIN CUBIS VLCC 319,429 2008 / S. KOREA 91.0 ONEX DMCC
@@ -722,7 +722,7 @@ numeric_observations:
   values:
   - 319429.0
   - 2008.0
-  - 91000.0
+  - 91.0
 - section: Market Report Content
   section_type: null
   source_line: NISSOS HERACLEA VLCC 313,525 2009 / S. KOREA 112.0 ONEX DMCC
@@ -738,7 +738,7 @@ numeric_observations:
   values:
   - 308491.0
   - 2000.0
-  - 38000.0
+  - 38.0
 - section: Market Report Content
   section_type: null
   source_line: XI XIU VLCC 299,996 2003 / S. KOREA 60.0 ONEX DMCC
@@ -746,7 +746,7 @@ numeric_observations:
   values:
   - 299996.0
   - 2003.0
-  - 60000.0
+  - 60.0
 - section: Market Report Content
   section_type: null
   source_line: SEAWAYS SABINE SUEZ 158,493 2012 / S. KOREA 78.0 TRAFIGURA LTD
@@ -754,7 +754,7 @@ numeric_observations:
   values:
   - 158493.0
   - 2012.0
-  - 78000.0
+  - 78.0
 - section: Market Report Content
   section_type: null
   source_line: GREEN ADVENTURE AFRA 114,319 2022 / CHINA 83.0 GREEK BUYER
@@ -762,7 +762,7 @@ numeric_observations:
   values:
   - 114319.0
   - 2022.0
-  - 83000.0
+  - 83.0
 - section: Market Report Content
   section_type: null
   source_line: KTS BROWN PROD/CHEM 13,071 2008 / S. KOREA 10.0 VIETNAMESE BUYER
@@ -770,7 +770,7 @@ numeric_observations:
   values:
   - 13071.0
   - 2008.0
-  - 10000.0
+  - 10.0
 - section: Market Report Content
   section_type: null
   source_line: snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 7
@@ -880,7 +880,7 @@ numeric_observations:
   - 1.0
   - 4363.0
   - 2007.0
-  - 43000.0
+  - 43.0
 - section: Market Report Content
   section_type: null
   source_line: snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 9
@@ -1036,7 +1036,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.md
+source_path: reports/broker_reports/2026/carriers/star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.md
 source_stem: star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38
 source_url: https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-38-4/
 summary: 'Star Asia Shipbroking Weekly Market Report - WEEK 38

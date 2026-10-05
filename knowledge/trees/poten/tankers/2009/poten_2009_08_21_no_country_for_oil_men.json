@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2009_08_21_no_country_for_oil_men__root",
+  "doc_id": "poten_tankers_no_date_poten_2009_08_21_no_country_for_oil_men",
+  "parent_id": null,
+  "title": "No Country for Oil Men",
+  "section_path": [
+    "No Country for Oil Men"
+  ],
+  "section_path_text": "No Country for Oil Men",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "No Country for Oil Men\nNo Country for Oil Men The American Clean Energy and Security Act of 2009 In March, Henry A. Waxman of the Energy and Commerce Committee and Edward J. Markey of the Energy and Environment Subcommittee unleashed an 800 lb angry gorilla on the energy industry.",
+  "keywords": [
+    "brazil",
+    "crude_oil",
+    "gas",
+    "energy",
+    "american",
+    "oil",
+    "aces",
+    "carbon",
+    "act",
+    "companies",
+    "legislation",
+    "clean"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1129,
+  "source_path": "reports/poten/2009/poten_2009-08-21_no-country-for-oil-men.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_08_21_no_country_for_oil_men__s01_no_country_for_oil_men",
+      "doc_id": "poten_tankers_no_date_poten_2009_08_21_no_country_for_oil_men",
+      "parent_id": "poten_tankers_no_date_poten_2009_08_21_no_country_for_oil_men__root",
+      "title": "No Country for Oil Men",
+      "section_path": [
+        "No Country for Oil Men"
+      ],
+      "section_path_text": "No Country for Oil Men",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "No Country for Oil Men The American Clean Energy and Security Act of 2009 In March, Henry A. Waxman of the Energy and Commerce Committee and Edward J.",
+      "keywords": [
+        "crude_oil",
+        "energy",
+        "american",
+        "aces",
+        "act",
+        "cost",
+        "legislation",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 528,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_08_21_no_country_for_oil_men__s02_pricey_provisions",
+      "doc_id": "poten_tankers_no_date_poten_2009_08_21_no_country_for_oil_men",
+      "parent_id": "poten_tankers_no_date_poten_2009_08_21_no_country_for_oil_men__root",
+      "title": "Pricey Provisions",
+      "section_path": [
+        "Pricey Provisions"
+      ],
+      "section_path_text": "Pricey Provisions",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Under the ACES, companies qualifying as \"major US sources of emissions\" will obtain an allowance for each ton of carbon or carbon equivalent emitted into the atmosphere. The Congressional Budget Office (CBO) has projected that in 2005 dollars, the price to be paid to emit one ton of carbon will be $16 in 2015 and more than double to $36 by 2030.",
+      "keywords": [
+        "brazil",
+        "crude_oil",
+        "gas",
+        "carbon",
+        "power",
+        "refiners",
+        "according",
+        "aces"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 293,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_08_21_no_country_for_oil_men__s03_talking_down_big_oil",
+      "doc_id": "poten_tankers_no_date_poten_2009_08_21_no_country_for_oil_men",
+      "parent_id": "poten_tankers_no_date_poten_2009_08_21_no_country_for_oil_men__root",
+      "title": "Talking Down 'Big Oil'",
+      "section_path": [
+        "Talking Down 'Big Oil'"
+      ],
+      "section_path_text": "Talking Down 'Big Oil'",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Energy legislation has taken a backseat to healthcare in recent weeks, but a series of upcoming rallies will bring the issue back into the political spotlight before a version of the ACES is considered by the Senate in the fall. Upcoming Energy Citizen rallies, planned for more than twenty cities across the country, offer an opportunity for a much‐needed airing of the petroleum industry's concerns regarding the Waxman‐Markey bill.",
+      "keywords": [
+        "crude_oil",
+        "energy",
+        "petroleum",
+        "rallies",
+        "simply",
+        "act",
+        "american",
+        "bill."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 291,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2017_08_18_same_old_suezmax_market__root",
+  "doc_id": "poten_tankers_no_date_poten_2017_08_18_same_old_suezmax_market",
+  "parent_id": null,
+  "title": "Same Old Suezmax Market",
+  "section_path": [
+    "Same Old Suezmax Market"
+  ],
+  "section_path_text": "Same Old Suezmax Market",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Fleet growth continues to weigh down Suezmax rates\nPoten monitors the Suezmax market for its customers on an ongoing basis. Our Suezmax desk looks at the tonnage profile, reviews the ships that are open in the next 30-day window as well as the overhang (ships before the window) in each of the four main loading zones that they follow in detail. Utilizing all the market information they collect, our spot brokers can make an assessment of where they think the market will be heading the following week.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "atlantic",
+    "pacific",
+    "west_africa",
+    "europe",
+    "india",
+    "crude_oil",
+    "year",
+    "suezmaxes",
+    "are",
+    "day"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 931,
+  "source_path": "reports/poten/2017/poten_2017-08-18_same-old-suezmax-market.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2017_08_18_same_old_suezmax_market__s01_fleet_growth_continues_to_weigh_down_suezmax_rates",
+      "doc_id": "poten_tankers_no_date_poten_2017_08_18_same_old_suezmax_market",
+      "parent_id": "poten_tankers_no_date_poten_2017_08_18_same_old_suezmax_market__root",
+      "title": "Fleet growth continues to weigh down Suezmax rates",
+      "section_path": [
+        "Fleet growth continues to weigh down Suezmax rates"
+      ],
+      "section_path_text": "Fleet growth continues to weigh down Suezmax rates",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Poten monitors the Suezmax market for its customers on an ongoing basis. Our Suezmax desk looks at the tonnage profile, reviews the ships that are open in the next 30-day window as well as the overhang (ships before the window) in each of the four main loading zones that they follow in detail.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "atlantic",
+        "pacific",
+        "west_africa",
+        "europe",
+        "india",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 919,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

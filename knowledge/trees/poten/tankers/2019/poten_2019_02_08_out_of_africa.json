@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2019_02_08_out_of_africa__root",
+  "doc_id": "poten_tankers_no_date_poten_2019_02_08_out_of_africa",
+  "parent_id": null,
+  "title": "Out Of Africa",
+  "section_path": [
+    "Out Of Africa"
+  ],
+  "section_path_text": "Out Of Africa",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Crude exports from this continent are mixed\nThe African oil industry has seen significant changes in recent years as one of their primary export markets, the United States, has ramped up oil production and, as a result, reduced imports from Africa dramatically (in 2008, the U.S. bought 40% of West African exports). According to the IEA, Africa produces about 7.25 Million barrels per day (Mb/d), predominantly in West and North Africa.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "production",
+    "oil",
+    "exports",
+    "mb/d",
+    "african",
+    "africa"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 896,
+  "source_path": "reports/poten/2019/poten_2019-02-08_out-of-africa.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_02_08_out_of_africa__s01_crude_exports_from_this_continent_are_mixed",
+      "doc_id": "poten_tankers_no_date_poten_2019_02_08_out_of_africa",
+      "parent_id": "poten_tankers_no_date_poten_2019_02_08_out_of_africa__root",
+      "title": "Crude exports from this continent are mixed",
+      "section_path": [
+        "Crude exports from this continent are mixed"
+      ],
+      "section_path_text": "Crude exports from this continent are mixed",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The African oil industry has seen significant changes in recent years as one of their primary export markets, the United States, has ramped up oil production and, as a result, reduced imports from Africa dramatically (in 2008, the U.S. bought 40% of West African exports).",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "production",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 887,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

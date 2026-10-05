@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2020_08_21_a_long_way_back__root",
+  "doc_id": "poten_tankers_no_date_poten_2020_08_21_a_long_way_back",
+  "parent_id": null,
+  "title": "A Long Way Back",
+  "section_path": [
+    "A Long Way Back"
+  ],
+  "section_path_text": "A Long Way Back",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Oil demand recovery not expected until 2022\nLast week, the three main oil market analysis agencies (International Energy Agency (IEA), OPEC and the US Energy Information Administration (EIA)), published their short-term oil market forecasts for 2020 and 2021. This week we will take a look at their outlook for oil demand recovery, after Covid-19 devastated demand in Q2, and what this might mean for the tanker markets. The IEA estimates that global oil demand in the second quarter of 2020 declined to 83.2 Mb/d from 99.3 Mb/d in the prior year (-16.2%), as many countries announced restrictions to slow the spread of Covid-19.",
+  "keywords": [
+    "china",
+    "pacific",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "gas",
+    "demand",
+    "oil",
+    "compared",
+    "iea",
+    "recovery"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 881,
+  "source_path": "reports/poten/2020/poten_2020-08-21_a-long-way-back.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_08_21_a_long_way_back__s01_oil_demand_recovery_not_expected_until_2022",
+      "doc_id": "poten_tankers_no_date_poten_2020_08_21_a_long_way_back",
+      "parent_id": "poten_tankers_no_date_poten_2020_08_21_a_long_way_back__root",
+      "title": "Oil demand recovery not expected until 2022",
+      "section_path": [
+        "Oil demand recovery not expected until 2022"
+      ],
+      "section_path_text": "Oil demand recovery not expected until 2022",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Last week, the three main oil market analysis agencies (International Energy Agency (IEA), OPEC and the US Energy Information Administration (EIA)), published their short-term oil market forecasts for 2020 and 2021. This week we will take a look at their outlook for oil demand recovery, after Covid-19 devastated demand in Q2, and what this might mean for the tanker markets.",
+      "keywords": [
+        "china",
+        "pacific",
+        "europe",
+        "india",
+        "crude_oil",
+        "products",
+        "gas",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 871,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

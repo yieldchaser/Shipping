@@ -1,0 +1,196 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2019_12_27_changes_are_coming__root",
+  "doc_id": "poten_tankers_no_date_poten_2019_12_27_changes_are_coming",
+  "parent_id": null,
+  "title": "Changes Are Coming",
+  "section_path": [
+    "Changes Are Coming"
+  ],
+  "section_path_text": "Changes Are Coming",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "IMO 2020 will become reality on January 1 st\nWhen the clock strikes 12 midnight on December 31 st , the new IMO 2020 bunker fuel regulations will become effective. To be compliant, shipowners worldwide will have to switch to low sulphur fuels (0.5%) or use scrubbers to clean their exhaust gasses. Obviously, shipowners, charterers, refiners, bunker suppliers and other market participants do not wait until December 31 st to make changes.",
+  "keywords": [
+    "lng",
+    "china",
+    "brazil",
+    "west_africa",
+    "europe",
+    "us_gulf",
+    "japan",
+    "crude_oil",
+    "products",
+    "gas",
+    "compliant",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1080,
+  "source_path": "reports/poten/2019/poten_2019-12-27_changes-are-coming.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_12_27_changes_are_coming__s01_imo_2020_will_become_reality_on_january_1_st",
+      "doc_id": "poten_tankers_no_date_poten_2019_12_27_changes_are_coming",
+      "parent_id": "poten_tankers_no_date_poten_2019_12_27_changes_are_coming__root",
+      "title": "IMO 2020 will become reality on January 1 st",
+      "section_path": [
+        "IMO 2020 will become reality on January 1 st"
+      ],
+      "section_path_text": "IMO 2020 will become reality on January 1 st",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "When the clock strikes 12 midnight on December 31 st , the new IMO 2020 bunker fuel regulations will become effective. To be compliant, shipowners worldwide will have to switch to low sulphur fuels (0.5%) or use scrubbers to clean their exhaust gasses.",
+      "keywords": [
+        "lng",
+        "brazil",
+        "crude_oil",
+        "products",
+        "gas",
+        "compliant",
+        "are",
+        "fuels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 558,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_12_27_changes_are_coming__s02_voyage",
+      "doc_id": "poten_tankers_no_date_poten_2019_12_27_changes_are_coming",
+      "parent_id": "poten_tankers_no_date_poten_2019_12_27_changes_are_coming__root",
+      "title": "Voyage",
+      "section_path": [
+        "Voyage"
+      ],
+      "section_path_text": "Voyage",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "VLSFO HSFO TCE (HSFO) TCE (VLSFO) Difference % ($/ton) ($/ton) ($/day) ($/day) ($/day)",
+      "keywords": [
+        "day",
+        "hsfo",
+        "tce",
+        "ton",
+        "vlsfo",
+        "difference"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 40,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_12_27_changes_are_coming__s03_ag_china_270kt",
+      "doc_id": "poten_tankers_no_date_poten_2019_12_27_changes_are_coming",
+      "parent_id": "poten_tankers_no_date_poten_2019_12_27_changes_are_coming__root",
+      "title": "AG - China (270Kt)",
+      "section_path": [
+        "AG - China (270Kt)"
+      ],
+      "section_path_text": "AG - China (270Kt)",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "122.50 $710 $320 $108,118 $83,660 $24,458 -23%",
+      "keywords": [],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 22,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_12_27_changes_are_coming__s04_waf_ukc_130kt",
+      "doc_id": "poten_tankers_no_date_poten_2019_12_27_changes_are_coming",
+      "parent_id": "poten_tankers_no_date_poten_2019_12_27_changes_are_coming__root",
+      "title": "WAF - UKC (130Kt)",
+      "section_path": [
+        "WAF - UKC (130Kt)"
+      ],
+      "section_path_text": "WAF - UKC (130Kt)",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "165.00 $655 $290 $72,668 $58,145 $14,523 -20% Caribs - US Gulf (70Kt) 290.00 $641 $365 $81,459 $74,860 $6,599 -8%",
+      "keywords": [
+        "us_gulf",
+        "caribs",
+        "gulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 55,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_12_27_changes_are_coming__s05_ag_japan_75kt",
+      "doc_id": "poten_tankers_no_date_poten_2019_12_27_changes_are_coming",
+      "parent_id": "poten_tankers_no_date_poten_2019_12_27_changes_are_coming__root",
+      "title": "AG - Japan (75Kt)",
+      "section_path": [
+        "AG - Japan (75Kt)"
+      ],
+      "section_path_text": "AG - Japan (75Kt)",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "187.50 $710 $320 $45,568 $31,609 $13,959 -31%",
+      "keywords": [],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 22,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_12_27_changes_are_coming__s06_ag_japan_55kt",
+      "doc_id": "poten_tankers_no_date_poten_2019_12_27_changes_are_coming",
+      "parent_id": "poten_tankers_no_date_poten_2019_12_27_changes_are_coming__root",
+      "title": "AG - Japan (55Kt)",
+      "section_path": [
+        "AG - Japan (55Kt)"
+      ],
+      "section_path_text": "AG - Japan (55Kt)",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "190.00 $710 $320 $32,431 $20,345 $12,086 -37%",
+      "keywords": [],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 22,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_12_27_changes_are_coming__s07_ukc_usac_38kt",
+      "doc_id": "poten_tankers_no_date_poten_2019_12_27_changes_are_coming",
+      "parent_id": "poten_tankers_no_date_poten_2019_12_27_changes_are_coming__root",
+      "title": "UKC - USAC (38Kt)",
+      "section_path": [
+        "UKC - USAC (38Kt)"
+      ],
+      "section_path_text": "UKC - USAC (38Kt)",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "205.00 $603 $313 $27,261 $23,997 $3,264 -12% that are equipped with cokers, are looking to utilize certain types of residual fuel oil in lieu of heavier sour crudes. Falling HSFO prices have made this a potential alternative feedstock.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "prices",
+        "are",
+        "fuel",
+        "hsfo",
+        "based",
+        "vlsfo"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 300,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

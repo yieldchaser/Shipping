@@ -9,7 +9,7 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 9.16.2025",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nSpot Indices Stabilize at Elevated Levels with Q4 in Sight - The recent push in spot dry bulk indices that lifted the market to relatively high levels\nSource: Breakwave Advisors\n\nLinked asset: 2025-09-16_breakwave-dry-bulk-shipping-report-9-16-2025_breakwavedryseptember162025report_ec8b5daa9c9f.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2025-09-16_breakwave-dry-bulk-shipping-report-9-16-2025_breakwavedryseptember162025report_ec8b5daa9c9f.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nSeptember 16, 2025\n• Spot Indices Stabilize at Elevated Levels with Q4 in Sight - The recent push in\nShort-term Indicators\nspot dry bulk indices that lifted the market to relatively high levels seem at first\nMomentum: Negative\nsight to have run its course. Nonetheless, we continue to observe a well-supported\nspot market as we approach the seasonally strong fourth quarter. While it is true Sentiment: Neutral\nthat freight spot rates rarely remain static, we believe there is real potential for an Fundamentals: Neutral\neven higher move in rates, which we view as outweighing the near-term risk of\nlower average rates.",
+  "summary": "Main\nSpot Indices Stabilize at Elevated Levels with Q4 in Sight - The recent push in spot dry bulk indices that lifted the market to relatively high levels\nSource: Breakwave Advisors\n\nLinked asset: 2025-09-16_breakwave-dry-bulk-shipping-report-9-16-2025_breakwavedryseptember162025report_ec8b5daa9c9f.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2025-09-16_breakwave-dry-bulk-shipping-report-9-16-2025_breakwavedryseptember162025report_ec8b5daa9c9f.pdf\n\n# Dry Bulk Shipping\n\n## Bi-Weekly Industry Report\n\n### September 16, 2025\n\n- **Spot Indices Stabilize at Elevated Levels with Q4 in Sight -** The recent push in spot dry bulk indices that lifted the market to **relatively high levels** seem at first sight to have run its course. Nonetheless, we continue to observe a well-supported spot market as we approach the **seasonally strong fourth** quarter. While it is true that freight spot rates rarely remain static, we believe there is real potential for an even **higher move in rates**, which we view as outweighing the near-term risk of lower average rates.",
   "keywords": [
     "capesize",
     "panamax",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1670,
-  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-09-16_breakwave-dry-bulk-shipping-report-9-16-2025.html",
+  "token_count": 1762,
+  "source_path": "reports/hellenic/shipbuilding/2025/2025-09-16_breakwave-dry-bulk-shipping-report-9-16-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-9-16-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-09-16_breakwave-dry-bulk-shipping-report-9-16-2025_breakwavedryseptember162025report_ec8b5daa9c9f.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-09-16_breakwave-dry-bulk-shipping-report-9-16-2025_breakwavedryseptember162025report_ec8b5daa9c9f.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nSeptember 16, 2025\n• Spot Indices Stabilize at Elevated Levels with Q4 in Sight - The recent push in\nShort-term Indicators\nspot dry bulk indices that lifted the market to relatively high levels seem at first\nMomentum: Negative\nsight to have run its course. Nonetheless, we continue to observe a well-supported\nspot market as we approach the seasonally strong fourth quarter.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-09-16_breakwave-dry-bulk-shipping-report-9-16-2025_breakwavedryseptember162025report_ec8b5daa9c9f.pdf\n\n# Dry Bulk Shipping\n\n## Bi-Weekly Industry Report\n\n### September 16, 2025\n\n- **Spot Indices Stabilize at Elevated Levels with Q4 in Sight -** The recent push in spot dry bulk indices that lifted the market to **relatively high levels** seem at first sight to have run its course. Nonetheless, we continue to observe a well-supported spot market as we approach the **seasonally strong fourth** quarter.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1583,
+      "token_count": 1675,
       "section_type": "linked_pdf",
       "children": []
     }

@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_06_15_down_to_the_sea_in_ships__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_06_15_down_to_the_sea_in_ships",
+  "parent_id": null,
+  "title": "Down to the Sea in Ships",
+  "section_path": [
+    "Down to the Sea in Ships"
+  ],
+  "section_path_text": "Down to the Sea in Ships",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Down to the Sea in Ships\nIt is generally agreed that the quality of petroleum shipping has improved greatly in recent years due to tanker owners' commitment to quality in combination with the stringent standards of charterers. While there have been changes in ship design in efforts to meet safety and environmental standards, one concern remains on the horizon. As the world fleet of ships continues to grow, some are apprehensive about the human element and the ability to crew ships.",
+  "keywords": [
+    "officers",
+    "are",
+    "crew",
+    "owners",
+    "quality",
+    "shortage",
+    "standards",
+    "below",
+    "career",
+    "chart",
+    "commitment",
+    "efforts"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 356,
+  "source_path": "reports/poten/2007/poten_2007-06-15_down-to-the-sea-in-ships.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_06_15_down_to_the_sea_in_ships__s01_down_to_the_sea_in_ships",
+      "doc_id": "poten_tankers_no_date_poten_2007_06_15_down_to_the_sea_in_ships",
+      "parent_id": "poten_tankers_no_date_poten_2007_06_15_down_to_the_sea_in_ships__root",
+      "title": "Down to the Sea in Ships",
+      "section_path": [
+        "Down to the Sea in Ships"
+      ],
+      "section_path_text": "Down to the Sea in Ships",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "It is generally agreed that the quality of petroleum shipping has improved greatly in recent years due to tanker owners' commitment to quality in combination with the stringent standards of charterers. While there have been changes in ship design in efforts to meet safety and environmental standards, one concern remains on the horizon.",
+      "keywords": [
+        "crew",
+        "officers",
+        "quality",
+        "standards",
+        "ability",
+        "agreed",
+        "apprehensive",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 132,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_06_15_down_to_the_sea_in_ships__s02_officers",
+      "doc_id": "poten_tankers_no_date_poten_2007_06_15_down_to_the_sea_in_ships",
+      "parent_id": "poten_tankers_no_date_poten_2007_06_15_down_to_the_sea_in_ships__root",
+      "title": "Officers",
+      "section_path": [
+        "Officers"
+      ],
+      "section_path_text": "Officers",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Ratings It is interesting to note that while there is not an overall shortage of seafarers, a shortage of officers exists today and is expected to worsen in the longer term. Regardless, shipowners continue to place orders and book berth space.",
+      "keywords": [
+        "shortage",
+        "below",
+        "berth",
+        "chart",
+        "continue",
+        "current",
+        "deadweight.",
+        "exists"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 67,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_06_15_down_to_the_sea_in_ships__s03_staying_seaborne",
+      "doc_id": "poten_tankers_no_date_poten_2007_06_15_down_to_the_sea_in_ships",
+      "parent_id": "poten_tankers_no_date_poten_2007_06_15_down_to_the_sea_in_ships__root",
+      "title": "Staying Seaborne",
+      "section_path": [
+        "Staying Seaborne"
+      ],
+      "section_path_text": "Staying Seaborne",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "In addition to maintaining high standards of vessel quality, owners must somehow attract and persuade officers into remaining at sea. This is increasingly difficult in an environment that involves the inherent and obvious risks of seafaring, long assignments and time away from families, as well as exposure to potential criminal liability.",
+      "keywords": [
+        "are",
+        "career",
+        "officers",
+        "owners",
+        "academies.",
+        "addition",
+        "ashore",
+        "assignments"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 142,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

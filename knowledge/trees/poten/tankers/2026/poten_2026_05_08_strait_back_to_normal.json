@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2026_05_08_strait_back_to_normal__root",
+  "doc_id": "poten_tankers_no_date_poten_2026_05_08_strait_back_to_normal",
+  "parent_id": null,
+  "title": "Strait Back To Normal",
+  "section_path": [
+    "Strait Back To Normal"
+  ],
+  "section_path_text": "Strait Back To Normal",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "What happens after the Strait of Hormuz reopens? It has been 69 days since the U.S. and Israeli military campaign against Iran started.",
+  "keywords": [
+    "atlantic",
+    "crude_oil",
+    "products",
+    "scenario",
+    "but",
+    "strait",
+    "oil",
+    "hormuz",
+    "prices",
+    "back",
+    "because",
+    "not"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 893,
+  "source_path": "reports/poten/2026/poten_2026-05-08_strait-back-to-normal.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2026_05_08_strait_back_to_normal__s01_what_happens_after_the_strait_of_hormuz_reopens",
+      "doc_id": "poten_tankers_no_date_poten_2026_05_08_strait_back_to_normal",
+      "parent_id": "poten_tankers_no_date_poten_2026_05_08_strait_back_to_normal__root",
+      "title": "What happens after the Strait of Hormuz reopens?",
+      "section_path": [
+        "What happens after the Strait of Hormuz reopens?"
+      ],
+      "section_path_text": "What happens after the Strait of Hormuz reopens?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "It has been 69 days since the U.S. and Israeli military campaign against Iran started.",
+      "keywords": [
+        "atlantic",
+        "crude_oil",
+        "products",
+        "scenario",
+        "but",
+        "oil",
+        "strait",
+        "prices"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 882,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

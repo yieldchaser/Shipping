@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2016_12_09_the_dark_days_before_christmas__root",
+  "doc_id": "poten_tankers_no_date_poten_2016_12_09_the_dark_days_before_christmas",
+  "parent_id": null,
+  "title": "The Dark Days Before Christmas",
+  "section_path": [
+    "The Dark Days Before Christmas"
+  ],
+  "section_path_text": "The Dark Days Before Christmas",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Tanker market may receive a lump of coal from China\nClouds have been gathering above the tanker market for some time now. The orderbook for delivery in 2017, particularly for crude oil tankers, is high and the prospects for oil demand growth have been muted. The recently announced OPEC production cuts came on top of that.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "brazil",
+    "australia",
+    "west_africa",
+    "coal",
+    "crude_oil",
+    "oil",
+    "growth",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 908,
+  "source_path": "reports/poten/2016/poten_2016-12-09_the-dark-days-before-christmas.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_12_09_the_dark_days_before_christmas__s01_tanker_market_may_receive_a_lump_of_coal_from_china",
+      "doc_id": "poten_tankers_no_date_poten_2016_12_09_the_dark_days_before_christmas",
+      "parent_id": "poten_tankers_no_date_poten_2016_12_09_the_dark_days_before_christmas__root",
+      "title": "Tanker market may receive a lump of coal from China",
+      "section_path": [
+        "Tanker market may receive a lump of coal from China"
+      ],
+      "section_path_text": "Tanker market may receive a lump of coal from China",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Clouds have been gathering above the tanker market for some time now. The orderbook for delivery in 2017, particularly for crude oil tankers, is high and the prospects for oil demand growth have been muted.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "brazil",
+        "australia",
+        "west_africa",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 896,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

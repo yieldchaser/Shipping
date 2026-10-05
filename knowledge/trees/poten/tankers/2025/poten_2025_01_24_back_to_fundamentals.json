@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2025_01_24_back_to_fundamentals__root",
+  "doc_id": "poten_tankers_no_date_poten_2025_01_24_back_to_fundamentals",
+  "parent_id": null,
+  "title": "Back To Fundamentals",
+  "section_path": [
+    "Back To Fundamentals"
+  ],
+  "section_path_text": "Back To Fundamentals",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Underlying oil supply/demand drivers seem supportive\nIn recent years, the narrative in the oil and tanker markets has focused mostly on geopolitical events. The conflicts in Europe and the Middle East have upended global trade flows. Furthermore, the proliferation of sanctions against Russia and other rogue regimes (including Iran and Venezuela) has accelerated the growth of the \"dark fleet\", which operates outside the mainstream tanker markets.",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "europe",
+    "india",
+    "crude_oil",
+    "oil",
+    "demand",
+    "growth",
+    "global",
+    "mb/d",
+    "opec"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 960,
+  "source_path": "reports/poten/2025/poten_2025-01-24_back-to-fundamentals.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2025_01_24_back_to_fundamentals__s01_underlying_oil_supply_demand_drivers_seem_supportive",
+      "doc_id": "poten_tankers_no_date_poten_2025_01_24_back_to_fundamentals",
+      "parent_id": "poten_tankers_no_date_poten_2025_01_24_back_to_fundamentals__root",
+      "title": "Underlying oil supply/demand drivers seem supportive",
+      "section_path": [
+        "Underlying oil supply/demand drivers seem supportive"
+      ],
+      "section_path_text": "Underlying oil supply/demand drivers seem supportive",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In recent years, the narrative in the oil and tanker markets has focused mostly on geopolitical events. The conflicts in Europe and the Middle East have upended global trade flows.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "europe",
+        "india",
+        "crude_oil",
+        "oil",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 950,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -9,21 +9,25 @@
   "section_path_text": "SSY PACIFIC CAPESIZE INDEX 18 MAY 2026",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nSSY PACIFIC CAPESIZE INDEX 18 MAY 2026\nSource: SSY Consultancy & Research",
+  "summary": "Main\nSSY PACIFIC CAPESIZE INDEX 18 MAY 2026\nSource: SSY Consultancy & Research\n\nLinked asset: 2026-05-18_ssy-pacific-capesize-index-18-may-2026_20260515-pacific-capesize-report_090a95d37484.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2026-05-18_ssy-pacific-capesize-index-18-may-2026_20260515-pacific-capesize-report_090a95d37484.pdf\n\n## 18th May 2026\n\n# Pacific Capesize Index\n\nLondon: +44 (0)20 7977 7404 Email: research@ssyglobal.com Website SSYGlobal.com\n\n||||08/05/2026|15/05/2026|\n|---|---|---|---|---|\n|Trade|Cargo Size|Weight|$/t|$/t|\n|RICHARDS BAY/MUNDRA|150,000/10%|10%|19.75|20.45|\n|DAMPIER/QINGDAO|170,000/10%|10%|15.20|15.00|\n|SALDAHNA BAY/QINGDAO|170,000/10%|10%|26.45|27.15|\n|RICHARDS BAY/FANGCHENG|150,000/10%|10%|26.60|27.30|\n|CAPE LAMBERT/ROTTERDAM|160,000/10%|10%|20.05|21.05|\n|QUEENSLAND/JAPAN|150,000/10%|10%|19.90|20.40|\n|QUEENSLAND/ROTTERDAM|150,000/10%|10%|28.15|29.35|\n|NSW/ZHOUSHAN|130,000/10%|10%|19.20|19.10|\n|T/C TRIP FAR EAST/CONT|180,000 DWT|10%|3.46|3.67|\n|T/C TRANSPACIFIC ROUND|180,000 DWT|10%|7.56|7.52|\n|Calculated Index|||10,871|11,116|\n|Change on Previous Index|||+928|+245|\n|Change on Four Weeks Ago|||+2,382|+1,807|\n|Change on Previous Year|||+6,132|+",
   "keywords": [
     "capesize",
     "pacific",
+    "europe",
+    "japan",
     "ssy",
-    "consultancy",
-    "main",
-    "may",
+    "any",
+    "information",
+    "change",
+    "dwt",
+    "not",
     "research",
-    "source"
+    "t/c"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 25,
-  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-05-18_ssy-pacific-capesize-index-18-may-2026.html",
+  "token_count": 948,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-05-18_ssy-pacific-capesize-index-18-may-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/ssy-pacific-capesize-index-18-may-2026",
   "children": [
     {
@@ -51,6 +55,34 @@
       "page_end": null,
       "token_count": 23,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-05-18_2026_05_18_ssy_pacific_capesize_index_18_may_2026__s02_linked_asset_2026_05_18_ssy_pacific_capesize_index_18_may_2026_20260515_pacific_capesize_report_090a95d37484_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-05-18_2026_05_18_ssy_pacific_capesize_index_18_may_2026",
+      "parent_id": "hellenic_shipbuilding_2026-05-18_2026_05_18_ssy_pacific_capesize_index_18_may_2026__root",
+      "title": "Linked asset: 2026-05-18_ssy-pacific-capesize-index-18-may-2026_20260515-pacific-capesize-report_090a95d37484.pdf",
+      "section_path": [
+        "Linked asset: 2026-05-18_ssy-pacific-capesize-index-18-may-2026_20260515-pacific-capesize-report_090a95d37484.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-05-18_ssy-pacific-capesize-index-18-may-2026_20260515-pacific-capesize-report_090a95d37484.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-05-18_ssy-pacific-capesize-index-18-may-2026_20260515-pacific-capesize-report_090a95d37484.pdf\n\n## 18th May 2026\n\n# Pacific Capesize Index\n\nLondon: +44 (0)20 7977 7404 Email: research@ssyglobal.com Website SSYGlobal.com\n\n||||08/05/2026|15/05/2026|\n|---|---|---|---|---|\n|Trade|Cargo Size|Weight|$/t|$/t|\n|RICHARDS BAY/MUNDRA|150,000/10%|10%|19.75|20.45|\n|DAMPIER/QINGDAO|170,000/10%|10%|15.20|15.00|\n|SALDAHNA BAY/QINGDAO|170,000/10%|10%|26.45|27.15|\n|RICHARDS BAY/FANGCHENG|150,000/10%|10%|26.60|27.30|\n|CAPE LAMBERT/ROTTERDAM|160,000/10%|10%|20.05|21.05|\n|QUEENSLAND/JAPAN|150,000/10%|10%|19.90|20.40|\n|QUEENSLAND/ROTTERDAM|150,000/10%|10%|28.15|29.35|\n|NSW/ZHOUSHAN|130,000/10%|10%|19.20|19.10|\n|T/C TRIP FAR EAST/CONT|180,000 DWT|10%|3.46|3.67|\n|T/C TRANSPACIFIC ROUND|180,000 DWT|10%|7.56|7.52|\n|Calculated Index|||10,871|11,116|\n|Change on Previous Index|||+928|+245|\n|Change on Four Weeks Ago|||+2,382|+1,807|\n|Change on Previous Year|||+6,132|+6,006|\n|Change on Two Years Ago|||+4,112 $/Day|+3,841 $/Day|\n|T/C TRIP FAR EAST/CONT|180,000 DWT||20,500|21,750|\n|T/C TRANSPACIFIC ROUND|180,000 DWT||44,750|44,500|\n\n## SSY Pacific Capesize Inde",
+      "keywords": [
+        "capesize",
+        "pacific",
+        "europe",
+        "japan",
+        "any",
+        "information",
+        "change",
+        "dwt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 878,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

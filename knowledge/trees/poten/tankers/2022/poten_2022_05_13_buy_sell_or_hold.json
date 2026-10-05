@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2022_05_13_buy_sell_or_hold__root",
+  "doc_id": "poten_tankers_no_date_poten_2022_05_13_buy_sell_or_hold",
+  "parent_id": null,
+  "title": "Buy Sell or Hold",
+  "section_path": [
+    "Buy Sell or Hold"
+  ],
+  "section_path_text": "Buy Sell or Hold",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Tanker owners have tough choices to make\nThe oil tanker industry is in a transition period at the same as it is slowly coming out of a depressed rate environment while facing geopolitical turmoil. Within the industry, especially among the publicly traded companies, we are seeing some movement towards consolidation as investors are positioning themselves for the next upturn. While it is not new for our industry to be pulled in several different directions at the same time, the current situation highlights the particular challenges facing shipowners today.",
+  "keywords": [
+    "vlcc",
+    "lng",
+    "container",
+    "china",
+    "crude_oil",
+    "products",
+    "gas",
+    "are",
+    "oil",
+    "not",
+    "fuel",
+    "next"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 885,
+  "source_path": "reports/poten/2022/poten_2022-05-13_buy-sell-or-hold.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_05_13_buy_sell_or_hold__s01_tanker_owners_have_tough_choices_to_make",
+      "doc_id": "poten_tankers_no_date_poten_2022_05_13_buy_sell_or_hold",
+      "parent_id": "poten_tankers_no_date_poten_2022_05_13_buy_sell_or_hold__root",
+      "title": "Tanker owners have tough choices to make",
+      "section_path": [
+        "Tanker owners have tough choices to make"
+      ],
+      "section_path_text": "Tanker owners have tough choices to make",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The oil tanker industry is in a transition period at the same as it is slowly coming out of a depressed rate environment while facing geopolitical turmoil. Within the industry, especially among the publicly traded companies, we are seeing some movement towards consolidation as investors are positioning themselves for the next upturn.",
+      "keywords": [
+        "vlcc",
+        "lng",
+        "container",
+        "china",
+        "crude_oil",
+        "products",
+        "gas",
+        "not"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 535,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_05_13_buy_sell_or_hold__s02_raises_another_question_what_propulsion_system_should_an_owner_choose",
+      "doc_id": "poten_tankers_no_date_poten_2022_05_13_buy_sell_or_hold",
+      "parent_id": "poten_tankers_no_date_poten_2022_05_13_buy_sell_or_hold__root",
+      "title": "raises another question: What propulsion system should an owner choose?",
+      "section_path": [
+        "raises another question: What propulsion system should an owner choose?"
+      ],
+      "section_path_text": "raises another question: What propulsion system should an owner choose?",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The need to reduce Green House Gas emissions and reduce the carbon intensity of shipping has led to new environmental regulations such as EEXI and CII. The eventual phase out of fossil fuels has forced owners to think about alternative engine choices.",
+      "keywords": [
+        "vlcc",
+        "lng",
+        "crude_oil",
+        "gas",
+        "are",
+        "fuel",
+        "alternative",
+        "new"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 328,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

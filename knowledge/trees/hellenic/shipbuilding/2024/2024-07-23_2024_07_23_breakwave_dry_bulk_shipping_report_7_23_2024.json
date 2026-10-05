@@ -9,7 +9,7 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 7.23.2024",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nFreight Futures Volatility Collapses to Record Lows as Spot Rates Remain Rangebound - The highly volatile dry bulk\nSource: Breakwave Advisors\n\nLinked asset: 2024-07-23_breakwave-dry-bulk-shipping-report-7-23-2024_breakwavedryjuly232024report_3c2713cc49bd.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2024-07-23_breakwave-dry-bulk-shipping-report-7-23-2024_breakwavedryjuly232024report_3c2713cc49bd.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nJuly 23, 2024\nBreakwave Dry Futures Index: 2,072 Baltic Dry Index (spot): 1,896 Short-term Indicators:\n↑ 30D: 2.1% ↓ 30D: -5.1% Momentum: Neutral\n↑ YTD: 38.2% ↓ YTD: -9.5% Sentiment: Neutral\n↑ YOY: 74.4% ↑ YOY: 93.9% Fundamentals: Negative\nBi-Weekly Report\n• Freight Futures Volatility Collapses to Record Lows as Spot Rates Remain Rangebound - The highly volatile dry bulk\nfreight market has been in a deep summer hibernation for the past two months with freight futures volatility recently\nhitting record lows. It is highly unusual to experience such a rather stable market for dry bulk rates, a market that\nhistorically has demonstrated significant idiosyncratic instability reflecting the unique regional and temporary\nimbalances of supply and dema",
+  "summary": "Main\nFreight Futures Volatility Collapses to Record Lows as Spot Rates Remain Rangebound - The highly volatile dry bulk\nSource: Breakwave Advisors\n\nLinked asset: 2024-07-23_breakwave-dry-bulk-shipping-report-7-23-2024_breakwavedryjuly232024report_3c2713cc49bd.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2024-07-23_breakwave-dry-bulk-shipping-report-7-23-2024_breakwavedryjuly232024report_3c2713cc49bd.pdf\n\n# BDRY\n\n## Dry Bulk Shipping\n\n**July 23, 2024**\n\n**Breakwave Dry Futures Index: 2,072 Baltic Dry Index (spot): 1,896 Short-term Indicators:**\n\n|↑|30D: 2.1%|↓ 30D: -5.1%|Momentum:|Neutral|\n|---|---|---|---|---|\n|↑|YTD: 38.2%|↓ YTD: -9.5%|Sentiment:|Neutral|\n|↑|YOY: 74.4%|↑ YOY: 93.9%|Fundamentals:|Negative|\n\n#### <u>Bi-Weekly Report</u>\n\n- **Freight Futures Volatility Collapses to Record Lows as Spot Rates Remain Rangebound -** The highly volatile dry bulk freight market has been in **a deep summer hibernation** for the past two months with freight futures volatility recently hitting record lows. It is highly unusual to experience such a rather **stable market** for dry bulk rates, a market that historically has demonstrated significant **idiosyncratic instability** reflec",
   "keywords": [
     "capesize",
     "panamax",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1493,
-  "source_path": "corpus/02-hellenic/shipbuilding/2024/2024-07-23_breakwave-dry-bulk-shipping-report-7-23-2024.html",
+  "token_count": 1610,
+  "source_path": "reports/hellenic/shipbuilding/2024/2024-07-23_breakwave-dry-bulk-shipping-report-7-23-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-7-23-2024",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2024-07-23_breakwave-dry-bulk-shipping-report-7-23-2024_breakwavedryjuly232024report_3c2713cc49bd.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2024-07-23_breakwave-dry-bulk-shipping-report-7-23-2024_breakwavedryjuly232024report_3c2713cc49bd.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nJuly 23, 2024\nBreakwave Dry Futures Index: 2,072 Baltic Dry Index (spot): 1,896 Short-term Indicators:\n↑ 30D: 2.1% ↓ 30D: -5.1% Momentum: Neutral\n↑ YTD: 38.2% ↓ YTD: -9.5% Sentiment: Neutral\n↑ YOY: 74.4% ↑ YOY: 93.9% Fundamentals: Negative\nBi-Weekly Report\n• Freight Futures Volatility Collapses to Record Lows as Spot Rates Remain Rangebound - The highly volatile dry bulk\nfreight market has been in a deep summer hibernation for the past two months with freight futures volatility recently\nhitting record lows. It is highly unusual to experience such a rather stable market for dry bulk rates, a market that\nhistorically has demonstrated significant idiosyncratic instability reflecting the unique regional and temporary\nimbalances of supply and demand for vessels.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2024-07-23_breakwave-dry-bulk-shipping-report-7-23-2024_breakwavedryjuly232024report_3c2713cc49bd.pdf\n\n# BDRY\n\n## Dry Bulk Shipping\n\n**July 23, 2024**\n\n**Breakwave Dry Futures Index: 2,072 Baltic Dry Index (spot): 1,896 Short-term Indicators:**\n\n|↑|30D: 2.1%|↓ 30D: -5.1%|Momentum:|Neutral|\n|---|---|---|---|---|\n|↑|YTD: 38.2%|↓ YTD: -9.5%|Sentiment:|Neutral|\n|↑|YOY: 74.4%|↑ YOY: 93.9%|Fundamentals:|Negative|\n\n#### <u>Bi-Weekly Report</u>\n\n- **Freight Futures Volatility Collapses to Record Lows as Spot Rates Remain Rangebound -** The highly volatile dry bulk freight market has been in **a deep summer hibernation** for the past two months with freight futures volatility recently hitting record lows. It is highly unusual to experience such a rather **stable market** for dry bulk rates, a market that historically has demonstrated significant **idiosyncratic instability** reflecting the unique regional and temporary imbalances of supply and demand for vessels.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1416,
+      "token_count": 1533,
       "section_type": "linked_pdf",
       "children": []
     }

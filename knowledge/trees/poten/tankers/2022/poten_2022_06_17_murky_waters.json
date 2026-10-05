@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2022_06_17_murky_waters__root",
+  "doc_id": "poten_tankers_no_date_poten_2022_06_17_murky_waters",
+  "parent_id": null,
+  "title": "Murky Waters",
+  "section_path": [
+    "Murky Waters"
+  ],
+  "section_path_text": "Murky Waters",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Oil Market Outlook for 2023\nThis week, the International Energy Agency (IEA) published its June Oil Market Report. The June edition is traditionally the first time they provide their view on the next year. The US Energy Information Administration (EIA) has produced a monthly outlook for 2023 since the beginning of the year in their Short Term Energy Outlook.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "brazil",
+    "atlantic",
+    "west_africa",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "gas"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 883,
+  "source_path": "reports/poten/2022/poten_2022-06-17_murky-waters.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_06_17_murky_waters__s01_oil_market_outlook_for_2023",
+      "doc_id": "poten_tankers_no_date_poten_2022_06_17_murky_waters",
+      "parent_id": "poten_tankers_no_date_poten_2022_06_17_murky_waters__root",
+      "title": "Oil Market Outlook for 2023",
+      "section_path": [
+        "Oil Market Outlook for 2023"
+      ],
+      "section_path_text": "Oil Market Outlook for 2023",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This week, the International Energy Agency (IEA) published its June Oil Market Report. The June edition is traditionally the first time they provide their view on the next year.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "brazil",
+        "atlantic",
+        "west_africa",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 875,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

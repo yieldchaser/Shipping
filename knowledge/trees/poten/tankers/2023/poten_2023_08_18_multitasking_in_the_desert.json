@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2023_08_18_multitasking_in_the_desert__root",
+  "doc_id": "poten_tankers_no_date_poten_2023_08_18_multitasking_in_the_desert",
+  "parent_id": null,
+  "title": "Multitasking In The Desert",
+  "section_path": [
+    "Multitasking In The Desert"
+  ],
+  "section_path_text": "Multitasking In The Desert",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Saudi Arabia also plays a major role in the product trades\nSaudi Arabia is a powerhouse in the crude oil markets. It is one of the largest oil producers in the world and it is one of the founding members and the unofficial leader of the OPEC cartel. In addition, the Kingdom is also a major player in the refined product market.",
+  "keywords": [
+    "aframax",
+    "china",
+    "atlantic",
+    "pacific",
+    "meg",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "crude_oil",
+    "products",
+    "gas"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 912,
+  "source_path": "reports/poten/2023/poten_2023-08-18_multitasking-in-the-desert.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2023_08_18_multitasking_in_the_desert__s01_saudi_arabia_also_plays_a_major_role_in_the_product_trades",
+      "doc_id": "poten_tankers_no_date_poten_2023_08_18_multitasking_in_the_desert",
+      "parent_id": "poten_tankers_no_date_poten_2023_08_18_multitasking_in_the_desert__root",
+      "title": "Saudi Arabia also plays a major role in the product trades",
+      "section_path": [
+        "Saudi Arabia also plays a major role in the product trades"
+      ],
+      "section_path_text": "Saudi Arabia also plays a major role in the product trades",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Saudi Arabia is a powerhouse in the crude oil markets. It is one of the largest oil producers in the world and it is one of the founding members and the unofficial leader of the OPEC cartel.",
+      "keywords": [
+        "aframax",
+        "china",
+        "atlantic",
+        "pacific",
+        "meg",
+        "europe",
+        "india",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 900,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

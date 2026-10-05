@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2016_06_24_tankers_brexit_strategy__root",
+  "doc_id": "poten_tankers_no_date_poten_2016_06_24_tankers_brexit_strategy",
+  "parent_id": null,
+  "title": "Tankers Brexit Strategy",
+  "section_path": [
+    "Tankers Brexit Strategy"
+  ],
+  "section_path_text": "Tankers Brexit Strategy",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "What (if anything) do we do now? On a lazy summer day (in New York at least), the world woke up to the news that voters in the United Kingdom voted to leave the European Union after being a member since 1973. As most people worldwide expected the 'Remain' camp to prevail in the end, the Exit vote came as a shock and, as a result, currency, commodity and stock markets are in turmoil across the globe.",
+  "keywords": [
+    "china",
+    "brazil",
+    "europe",
+    "singapore",
+    "japan",
+    "crude_oil",
+    "products",
+    "gas",
+    "oil",
+    "crude",
+    "countries",
+    "could"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 845,
+  "source_path": "reports/poten/2016/poten_2016-06-24_tankers-brexit-strategy.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_06_24_tankers_brexit_strategy__s01_what_if_anything_do_we_do_now",
+      "doc_id": "poten_tankers_no_date_poten_2016_06_24_tankers_brexit_strategy",
+      "parent_id": "poten_tankers_no_date_poten_2016_06_24_tankers_brexit_strategy__root",
+      "title": "What (if anything) do we do now?",
+      "section_path": [
+        "What (if anything) do we do now?"
+      ],
+      "section_path_text": "What (if anything) do we do now?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "On a lazy summer day (in New York at least), the world woke up to the news that voters in the United Kingdom voted to leave the European Union after being a member since 1973. As most people worldwide expected the 'Remain' camp to prevail in the end, the Exit vote came as a shock and, as a result, currency, commodity and stock markets are in turmoil across the globe.",
+      "keywords": [
+        "china",
+        "brazil",
+        "europe",
+        "singapore",
+        "japan",
+        "crude_oil",
+        "products",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 835,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

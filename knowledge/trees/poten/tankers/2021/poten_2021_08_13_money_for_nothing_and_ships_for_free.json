@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2021_08_13_money_for_nothing_and_ships_for_free__root",
+  "doc_id": "poten_tankers_no_date_poten_2021_08_13_money_for_nothing_and_ships_for_free",
+  "parent_id": null,
+  "title": "Money For Nothing And Ships For Free",
+  "section_path": [
+    "Money For Nothing And Ships For Free"
+  ],
+  "section_path_text": "Money For Nothing And Ships For Free",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Explaining the variability in tanker owners' TCE's\nShipowners use a concept called Time Charter Equivalent earnings (TCE's) to compare earnings across alternative trade routes and to measure spot rates relative to the earnings of a time charter. TCE's, which are measured in US dollars per day ($/day), are defined as the daily earnings that are left after the owner pays for fuel and port expenses (voyage related costs). These TCE earnings are meant to pay for the fixed daily costs of operating a vessel, i.e.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "brazil",
+    "meg",
+    "us_gulf",
+    "crude_oil",
+    "earnings",
+    "tce",
+    "are",
+    "owners",
+    "day",
+    "vessel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1141,
+  "source_path": "reports/poten/2021/poten_2021-08-13_money-for-nothing-and-ships-for-free.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2021_08_13_money_for_nothing_and_ships_for_free__s01_explaining_the_variability_in_tanker_owners_tce_s",
+      "doc_id": "poten_tankers_no_date_poten_2021_08_13_money_for_nothing_and_ships_for_free",
+      "parent_id": "poten_tankers_no_date_poten_2021_08_13_money_for_nothing_and_ships_for_free__root",
+      "title": "Explaining the variability in tanker owners' TCE's",
+      "section_path": [
+        "Explaining the variability in tanker owners' TCE's"
+      ],
+      "section_path_text": "Explaining the variability in tanker owners' TCE's",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Shipowners use a concept called Time Charter Equivalent earnings (TCE's) to compare earnings across alternative trade routes and to measure spot rates relative to the earnings of a time charter. TCE's, which are measured in US dollars per day ($/day), are defined as the daily earnings that are left after the owner pays for fuel and port expenses (voyage related costs).",
+      "keywords": [
+        "vlcc",
+        "china",
+        "brazil",
+        "meg",
+        "us_gulf",
+        "crude_oil",
+        "earnings",
+        "tce"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1129,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

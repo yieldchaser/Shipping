@@ -15,20 +15,21 @@ keywords:
 - europe
 - india
 - gas
-- any
-- information
-- clarksons
 - platou
+- clarksons
 - delivery
+- firm
+- any
 linked_assets_discovered: 1
 linked_assets_failed: 0
 linked_assets_ingested: 1
 linked_assets_mirrored: 1
 linked_assets_skipped: 0
 market_tone: neutral
-numeric_observation_count: 55
+numeric_observation_count: 19
 numeric_observations:
-- section: Main
+- &id001
+  section: Main
   section_type: null
   source_line: In the tanker market, it was reported that an unknown owner ordered
     two firm 50k dwt MR tankers at STX, with both vessels to be delivered in 4Q
@@ -36,227 +37,146 @@ numeric_observations:
   values:
   - 50.0
   - 4.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
+- &id002
+  section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
   section_type: linked_pdf
-  source_line: Hellas S&P Weekly Bulletin 16 July 2021
+  source_line: '## Hellas S&P Weekly Bulletin 16 July 2021'
   unit: null
   values:
   - 16.0
   - 2021.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
+- &id003
+  section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
   section_type: linked_pdf
-  source_line: MAN-B&W 6S70MC-C SS 10/25
-  unit: null
-  values:
-  - 6.0
-  - 70.0
-  - 10.0
-  - 25.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: BULK DENMARK 181,458 2010 KOYO RGN USD 31 M GREEKS
+  source_line: '|BULK DENMARK|181,458|2010 KOYO|MAN-B&W 6S70MC-C BWTS & Scrubber fitted|SS
+    10/25 DD 11/23|RGN USD 31 M|GREEKS|'
   unit: usd
   values:
   - 181458.0
   - 2010.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: BWTS & Scrubber fitted DD 11/23
-  unit: null
-  values:
+  - 6.0
+  - 70.0
+  - 10.0
+  - 25.0
   - 11.0
   - 23.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
+- &id004
+  section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
   section_type: linked_pdf
-  source_line: MAN-B&W 6S60MC-C SS 09/25 USD 21 M
+  source_line: '|LOWLANDS GREEN|95,650|2011 IMABARI|MAN-B B&W 6S60MC -C WTS fitted|SS
+    09/25 DD 12/23|USD 21 M (Delivery Jan 2022)|U/D|'
   unit: usd
   values:
+  - 95650.0
+  - 2011.0
   - 6.0
   - 60.0
   - 9.0
   - 25.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: LOWLANDS GREEN 95,650 2011 IMABARI U/D
-  unit: null
-  values:
-  - 95650.0
-  - 2011.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: BWTS fitted DD 12/23 (Delivery Jan 2022)
-  unit: null
-  values:
   - 12.0
   - 23.0
   - 2022.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
+- &id005
+  section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
   section_type: linked_pdf
-  source_line: MAN-B&W 7S50MC-C SS 02/26
-  unit: null
-  values:
-  - 7.0
-  - 50.0
-  - 2.0
-  - 26.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: NAVIOS MARCO POLO 80,647 2011 UNIVERSAL HIGH $ 22 U/D
+  source_line: '|NAVIOS MARCO POLO|80,647|2011 UNIVERSAL|MAN-B B&W 7S50MC -C WTS fitted|SS
+    02/26 DD 02/24|HIGH $ 22|U/D|'
   unit: usd
   values:
   - 80647.0
   - 2011.0
-  - 22.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: BWTS fitted DD 02/24
-  unit: null
-  values:
+  - 7.0
+  - 50.0
+  - 2.0
+  - 26.0
   - 2.0
   - 24.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: MAN-B&W 6S50MC-C8.1 SS 06/22 CHINESE
-  unit: null
-  values:
-  - 6.0
-  - 50.0
-  - 8100.0
-  - 6.0
   - 22.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
+- &id006
+  section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
   section_type: linked_pdf
-  source_line: BELFRI 55,866 2007 KAWASAKI USD 15.3 M
+  source_line: '|BELFRI|55,866|2007 KAWASAKI|MAN-B&W 6S50MC -C8.1 4 x 30 T|SS 06/22
+    DD 06/22|USD 15.3 M|CHINESE (c/o J inhui)|'
   unit: usd
   values:
   - 55866.0
   - 2007.0
-  - 15300.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: 4 x 30 T DD 06/22 (c/o Jinhui)
-  unit: null
-  values:
+  - 6.0
+  - 50.0
+  - 8.1
   - 4.0
   - 30.0
   - 6.0
   - 22.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: MAN-B&W 6S42MC
-  unit: null
-  values:
   - 6.0
-  - 42.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
+- &id007
+  section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
   section_type: linked_pdf
-  source_line: SS 01/26
-  unit: null
-  values:
-  - 1.0
-  - 26.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: GREAT RESOURCE 31,776 2010 GUANGZHOU HUANGPU 4 x 30 T USD 12.6 M GREEKS
+  source_line: '|GREAT RESOURCE|31,776|2010 GUANGZHOU HUANGPU|MAN-B&W 6S42MC 4 x 30
+    T BWTS fitted, Ice-1B|SS 01/26 DD 11/23|USD 12.6 M|GREEKS|'
   unit: usd
   values:
   - 31776.0
   - 2010.0
+  - 6.0
+  - 42.0
   - 4.0
   - 30.0
-  - 12600.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: DD 11/23
-  unit: null
-  values:
-  - 11.0
-  - 23.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: BWTS fitted, Ice-1B
-  unit: null
-  values:
   - 1.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
+  - 1.0
+  - 26.0
+  - 11.0
+- &id008
+  section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
   section_type: linked_pdf
-  source_line: SS 10/22 HIGH USD 12 M HK BASED
+  source_line: '|KING RICE|28,250|2012 I-S|MAN-B&W 6S42MC 4 x 30 T BWTS fitted|SS
+    10/22 DD 10/22|HIGH USD 12 M (Delivery Jan 2022)|HK BA SED (c/o Tayl or Maritime
+    )|'
   unit: usd
-  values:
-  - 10.0
-  - 22.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: KING RICE 28,250 2012 I-S 4 x 30 T
-  unit: null
   values:
   - 28250.0
   - 2012.0
+  - 6.0
+  - 42.0
   - 4.0
   - 30.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: DD 10/22 (Delivery Jan 2022) (c/o Taylor Maritime)
-  unit: null
-  values:
   - 10.0
   - 22.0
-  - 2022.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
+  - 10.0
+  - 22.0
+- &id009
+  section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
   section_type: linked_pdf
-  source_line: SS 03/25
-  unit: null
-  values:
-  - 3.0
-  - 25.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: TAKAHASHI 314,020 2007 NACKS MAN-B&W 7S80MC-C RGN USD 34 M GREEKS
+  source_line: '|TAKAHASHI|314,020|2007 NACKS|MAN-B&W 7S80MC-C|DD 03/23 SS 03/25|RGN
+    USD 34 M|GREEKS|'
   unit: usd
   values:
   - 314020.0
   - 2007.0
   - 7.0
   - 80.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: DD 03/23
-  unit: null
-  values:
   - 3.0
   - 23.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
+  - 3.0
+  - 25.0
+- &id010
+  section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
   section_type: linked_pdf
-  source_line: MAN-B&W 6S50MC-C SS 04/22
-  unit: null
-  values:
-  - 6.0
-  - 50.0
-  - 4.0
-  - 22.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: FS SINCERITY 48,045 2009 NAIKAI HIGH USD 13 M U/D
+  source_line: '|FS SINCERITY|48,045|2009 NAIKAI|MAN-B&W 6S50MC 4 Pumps|-C D SS 04/22
+    D 04/22|HIGH USD 13 M|U/D|'
   unit: usd
   values:
   - 48045.0
   - 2009.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: 4 Pumps DD 04/22
-  unit: null
-  values:
+  - 6.0
+  - 50.0
   - 4.0
   - 4.0
   - 22.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: Page 1 of 3
-  unit: null
-  values:
-  - 1.0
-  - 3.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
+  - 4.0
+  - 22.0
+- &id011
+  section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
   section_type: linked_pdf
   source_line: In the tanker market, it was reported that an unknown owner ordered
     two firm 50k dwt MR tankers at STX, with both vessels to be delivered in 4Q
@@ -264,131 +184,60 @@ numeric_observations:
   values:
   - 50.0
   - 4.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
+- &id012
+  section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
   section_type: linked_pdf
   source_line: 2022. In the gas carrier market, there were a number of orders this
     week all linked with the Shell charter deal. Pan Ocean announced ordering two
+    firm 174k CBM LNG Carriers at Hyundai HI (Ulsan), with delivery of both vessels
+    set for Q4 2024. The yard also rev
   unit: null
   values:
   - 2022.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: firm 174k CBM LNG Carriers at Hyundai HI (Ulsan), with delivery of
-    both vessels set for Q4 2024. The yard also revealed contracting two firm 174k
-  unit: null
-  values:
   - 174.0
   - 4.0
   - 2024.0
   - 174.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: CBM LNG Carriers for an unknown owner, with delivery of the first vessel
-    expected within 1H 2025, and the second vessel in 3Q 2025. Hyundai
-  unit: null
-  values:
   - 1.0
   - 2025.0
   - 3.0
   - 2025.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: Samho announced taking order for two firm 174k CBM LNG Carriers for
-    an unknown owner, with delivery of the vessels also expected within 1H
-  unit: null
-  values:
   - 174.0
-  - 1.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
+- &id013
+  section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
   section_type: linked_pdf
-  source_line: 2025 and 3Q 2025. In containers, COSCO Yangzhou disclosed orders for
-    four firm 16,180 TEU container vessels from COSCO Shipping Lines, with
-  unit: null
-  values:
-  - 2025.0
-  - 3.0
-  - 2025.0
-  - 16180.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: delivery slated to take place from June 2025 through to December 2025.
-    The yard also revealed contracting six firm 14,092 TEU boxships, again with
-  unit: null
-  values:
-  - 2025.0
-  - 2025.0
-  - 14092.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: COSCO Shipping Lines, with delivery of the vessels to begin in 1H 2024
-    and continue until September 2024. In general cargo, Volga Shipping
-  unit: null
-  values:
-  - 1.0
-  - 2024.0
-  - 2024.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: ordered four firm 7.17k dwt General Cargo vessels at Okskaya Shipyard,
-    with delivery to take place throughout 2022 and 2023. In the car carrier
-  unit: null
-  values:
-  - 7170.0
-  - 2022.0
-  - 2023.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: market, Wallenius Lines announced ordering two firm LNG dual-fuel 6,500
-    CEU PCC's at Yantai CIMC Raffles. The deal has two set of options and
-  unit: null
-  values:
-  - 6500.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: delivery of the firm vessels will be within 2023.
-  unit: null
-  values:
-  - 2023.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: its neighbouring counterparts, with price levels still in the mid-low
-    500's, although a rare unit for HKC recycling would be sure to catch their attention
-  unit: null
+  source_line: 'The summer holiday period has certainly been felt this week as the
+    market has felt the quietest it has been all year with the lack of workable tonnage
+    alarmingly low, with few sales to report. This is a trend that now looks set to
+    continue and could result in '
+  unit: usd
   values:
   - 500.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: Recycling yards would be willing to indicate in the mid USD 300's for
-    prompt units. With the EU facilities being a case-by-case basis, due to the limited
-  unit: usd
-  values:
   - 300.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: around the high USD200's.
-  unit: usd
-  values:
   - 200.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
+- &id014
+  section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
   section_type: linked_pdf
-  source_line: MR NAUTILUS 43,538 1998 CROATIA 10,650 LDT USD 570 / LDT PAKISTAN
+  source_line: '**MR NAUTILUS** 43,538 1998 CROATIA 10,650 LDT USD 570 / LDT PAKISTAN'
   unit: usd
   values:
   - 43538.0
   - 1998.0
   - 10650.0
   - 570.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
+- &id015
+  section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
   section_type: linked_pdf
-  source_line: BDI 3039 - 34 EURO/USD 1.18207 BUNKERS ROTTERDAM SPORE FUJAIRAH
+  source_line: '|BDI|3039|- 34|EURO/USD|1.18207|BUNKERS|ROTTERDAM|SPORE|FUJAIRAH|'
   unit: usd
   values:
   - 3039.0
   - 34.0
   - 1.18207
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
+- &id016
+  section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
   section_type: linked_pdf
-  source_line: BCI 3442 - 18 YEN/USD 0.00910 VLSFO 530.00 550.50 544.50
+  source_line: '|BCI|3442|- 18|YEN/USD|0.00910|VLSFO|530.00|550.50|544.50|'
   unit: usd
   values:
   - 3442.0
@@ -396,9 +245,10 @@ numeric_observations:
   - 530.0
   - 550.5
   - 544.5
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
+- &id017
+  section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
   section_type: linked_pdf
-  source_line: BPI 3635 - 73 BRENT MGO 592.00 591.00 654.00
+  source_line: '|BPI|3635|- 73|BRENT||MGO|592.00|591.00|654.00|'
   unit: null
   values:
   - 3635.0
@@ -406,79 +256,40 @@ numeric_observations:
   - 592.0
   - 591.0
   - 654.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
+- &id018
+  section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
   section_type: linked_pdf
-  source_line: BSI 2775 - 24 73.58 IFO 380 410.50 422.50 418.00
+  source_line: '|BSI BHSI|2775 1669|- 24 + 7|73.58||IFO 380|410.50|422.50|418.00|'
   unit: null
   values:
   - 2775.0
+  - 1669.0
   - 24.0
-  - 73580.0
+  - 7.0
+  - 73.58
   - 380.0
   - 410.5
   - 422.5
   - 418.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
+- &id019
+  section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
   section_type: linked_pdf
-  source_line: BHSI 1669 + 7
-  unit: null
-  values:
-  - 1669.0
-  - 7.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: Page 2 of 3
-  unit: null
-  values:
-  - 2.0
-  - 3.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: '62 Kifissias Avenue ("Clarksons Platou") for general information purposes.
-    The Information is drawn from Clarksons Platou''s database and other sources.
-    Clarksons Platou advises that: (i) any Information extracted from Clarksons Platou''s
-    database is'
+  source_line: '|Clarksons Platou (Hellas) Ltd. 62 Kifissias Avenue Marousi 151 25
+    Greece Direct +(30) 210 458 6700 Fax +(30) 210 458 6799 snp@clarksons.gr www.clarksons.com||Thematerialand
+    theinformation (including, without limitation, any futurerates) contained herein
+    (toge'
   unit: null
   values:
   - 62.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: 151 25 Clarksons Platou has taken reasonable care in the compilation
-    of the Information and believes it to be accurate and correct, data compilation
-    is subject to limited audit and validation procedures and may accordingly contain
-    errors; (iv)
-  unit: null
-  values:
   - 151.0
   - 25.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: Direct +(30) 210 458 6700
-  unit: null
-  values:
   - 30.0
   - 210.0
   - 458.0
   - 6700.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: Fax +(30) 210 458 6799 This Information is confidential and is solely
-    for the internal use of the recipient. Neither the whole nor any part of the Information
-    may be disclosed to, or used or relied upon by, any other person or used for any
-    other purpose withou
-  unit: null
-  values:
   - 30.0
   - 210.0
   - 458.0
-  - 6799.0
-- section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-  section_type: linked_pdf
-  source_line: Page 3 of 3
-  unit: null
-  values:
-  - 3.0
-  - 3.0
 regions:
 - china
 - japan
@@ -486,449 +297,29 @@ regions:
 - india
 section_count: 2
 signals:
-  numeric_observation_count: 54
+  numeric_observation_count: 19
   numeric_observations:
-  - section: Main
-    section_type: null
-    source_line: In the tanker market, it was reported that an unknown owner ordered
-      two firm 50k dwt MR tankers at STX, with both vessels to be delivered in 4Q
-    unit: null
-    values:
-    - 50.0
-    - 4.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: Hellas S&P Weekly Bulletin 16 July 2021
-    unit: null
-    values:
-    - 16.0
-    - 2021.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: MAN-B&W 6S70MC-C SS 10/25
-    unit: null
-    values:
-    - 6.0
-    - 10.0
-    - 25.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: BULK DENMARK 181,458 2010 KOYO RGN USD 31 M GREEKS
-    unit: usd
-    values:
-    - 181458.0
-    - 2010.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: BWTS & Scrubber fitted DD 11/23
-    unit: null
-    values:
-    - 11.0
-    - 23.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: MAN-B&W 6S60MC-C SS 09/25 USD 21 M
-    unit: usd
-    values:
-    - 6.0
-    - 9.0
-    - 25.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: LOWLANDS GREEN 95,650 2011 IMABARI U/D
-    unit: null
-    values:
-    - 95650.0
-    - 2011.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: BWTS fitted DD 12/23 (Delivery Jan 2022)
-    unit: null
-    values:
-    - 12.0
-    - 23.0
-    - 2022.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: MAN-B&W 7S50MC-C SS 02/26
-    unit: null
-    values:
-    - 7.0
-    - 2.0
-    - 26.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: NAVIOS MARCO POLO 80,647 2011 UNIVERSAL HIGH $ 22 U/D
-    unit: usd
-    values:
-    - 80647.0
-    - 2011.0
-    - 22.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: BWTS fitted DD 02/24
-    unit: null
-    values:
-    - 2.0
-    - 24.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: MAN-B&W 6S50MC-C8.1 SS 06/22 CHINESE
-    unit: null
-    values:
-    - 6.0
-    - 1.0
-    - 6.0
-    - 22.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: BELFRI 55,866 2007 KAWASAKI USD 15.3 M
-    unit: usd
-    values:
-    - 55866.0
-    - 2007.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: 4 x 30 T DD 06/22 (c/o Jinhui)
-    unit: null
-    values:
-    - 4.0
-    - 30.0
-    - 6.0
-    - 22.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: MAN-B&W 6S42MC
-    unit: null
-    values:
-    - 6.0
-    - 2.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: SS 01/26
-    unit: null
-    values:
-    - 1.0
-    - 26.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: GREAT RESOURCE 31,776 2010 GUANGZHOU HUANGPU 4 x 30 T USD 12.6 M
-      GREEKS
-    unit: usd
-    values:
-    - 31776.0
-    - 2010.0
-    - 4.0
-    - 30.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: DD 11/23
-    unit: null
-    values:
-    - 11.0
-    - 23.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: BWTS fitted, Ice-1B
-    unit: null
-    values:
-    - 1.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: SS 10/22 HIGH USD 12 M HK BASED
-    unit: usd
-    values:
-    - 10.0
-    - 22.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: KING RICE 28,250 2012 I-S 4 x 30 T
-    unit: null
-    values:
-    - 28250.0
-    - 2012.0
-    - 4.0
-    - 30.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: DD 10/22 (Delivery Jan 2022) (c/o Taylor Maritime)
-    unit: null
-    values:
-    - 10.0
-    - 22.0
-    - 2022.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: SS 03/25
-    unit: null
-    values:
-    - 3.0
-    - 25.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: TAKAHASHI 314,020 2007 NACKS MAN-B&W 7S80MC-C RGN USD 34 M GREEKS
-    unit: usd
-    values:
-    - 314020.0
-    - 2007.0
-    - 7.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: DD 03/23
-    unit: null
-    values:
-    - 3.0
-    - 23.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: MAN-B&W 6S50MC-C SS 04/22
-    unit: null
-    values:
-    - 6.0
-    - 4.0
-    - 22.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: FS SINCERITY 48,045 2009 NAIKAI HIGH USD 13 M U/D
-    unit: usd
-    values:
-    - 48045.0
-    - 2009.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: 4 Pumps DD 04/22
-    unit: null
-    values:
-    - 4.0
-    - 4.0
-    - 22.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: Page 1 of 3
-    unit: null
-    values:
-    - 1.0
-    - 3.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: In the tanker market, it was reported that an unknown owner ordered
-      two firm 50k dwt MR tankers at STX, with both vessels to be delivered in 4Q
-    unit: null
-    values:
-    - 50.0
-    - 4.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: 2022. In the gas carrier market, there were a number of orders this
-      week all linked with the Shell charter deal. Pan Ocean announced ordering two
-    unit: null
-    values:
-    - 2022.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: firm 174k CBM LNG Carriers at Hyundai HI (Ulsan), with delivery of
-      both vessels set for Q4 2024. The yard also revealed contracting two firm 174k
-    unit: null
-    values:
-    - 174.0
-    - 2024.0
-    - 174.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: CBM LNG Carriers for an unknown owner, with delivery of the first
-      vessel expected within 1H 2025, and the second vessel in 3Q 2025. Hyundai
-    unit: null
-    values:
-    - 1.0
-    - 2025.0
-    - 3.0
-    - 2025.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: Samho announced taking order for two firm 174k CBM LNG Carriers for
-      an unknown owner, with delivery of the vessels also expected within 1H
-    unit: null
-    values:
-    - 174.0
-    - 1.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: 2025 and 3Q 2025. In containers, COSCO Yangzhou disclosed orders
-      for four firm 16,180 TEU container vessels from COSCO Shipping Lines, with
-    unit: null
-    values:
-    - 2025.0
-    - 3.0
-    - 2025.0
-    - 16180.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: delivery slated to take place from June 2025 through to December
-      2025. The yard also revealed contracting six firm 14,092 TEU boxships, again
-      with
-    unit: null
-    values:
-    - 2025.0
-    - 2025.0
-    - 14092.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: COSCO Shipping Lines, with delivery of the vessels to begin in 1H
-      2024 and continue until September 2024. In general cargo, Volga Shipping
-    unit: null
-    values:
-    - 1.0
-    - 2024.0
-    - 2024.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: ordered four firm 7.17k dwt General Cargo vessels at Okskaya Shipyard,
-      with delivery to take place throughout 2022 and 2023. In the car carrier
-    unit: null
-    values:
-    - 7.17
-    - 2022.0
-    - 2023.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: market, Wallenius Lines announced ordering two firm LNG dual-fuel
-      6,500 CEU PCC's at Yantai CIMC Raffles. The deal has two set of options and
-    unit: null
-    values:
-    - 6500.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: delivery of the firm vessels will be within 2023.
-    unit: null
-    values:
-    - 2023.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: its neighbouring counterparts, with price levels still in the mid-low
-      500's, although a rare unit for HKC recycling would be sure to catch their attention
-    unit: null
-    values:
-    - 500.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: Recycling yards would be willing to indicate in the mid USD 300's
-      for prompt units. With the EU facilities being a case-by-case basis, due to
-      the limited
-    unit: usd
-    values:
-    - 300.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: MR NAUTILUS 43,538 1998 CROATIA 10,650 LDT USD 570 / LDT PAKISTAN
-    unit: usd
-    values:
-    - 43538.0
-    - 1998.0
-    - 10650.0
-    - 570.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: BDI 3039 - 34 EURO/USD 1.18207 BUNKERS ROTTERDAM SPORE FUJAIRAH
-    unit: usd
-    values:
-    - 3039.0
-    - 34.0
-    - 1.18207
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: BCI 3442 - 18 YEN/USD 0.00910 VLSFO 530.00 550.50 544.50
-    unit: usd
-    values:
-    - 3442.0
-    - 18.0
-    - 530.0
-    - 550.5
-    - 544.5
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: BPI 3635 - 73 BRENT MGO 592.00 591.00 654.00
-    unit: null
-    values:
-    - 3635.0
-    - 73.0
-    - 592.0
-    - 591.0
-    - 654.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: BSI 2775 - 24 73.58 IFO 380 410.50 422.50 418.00
-    unit: null
-    values:
-    - 2775.0
-    - 24.0
-    - 73.58
-    - 380.0
-    - 410.5
-    - 422.5
-    - 418.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: BHSI 1669 + 7
-    unit: null
-    values:
-    - 1669.0
-    - 7.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: Page 2 of 3
-    unit: null
-    values:
-    - 2.0
-    - 3.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: '62 Kifissias Avenue ("Clarksons Platou") for general information
-      purposes. The Information is drawn from Clarksons Platou''s database and other
-      sources. Clarksons Platou advises that: (i) any Information extracted from Clarksons
-      Platou''s database is'
-    unit: null
-    values:
-    - 62.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: 151 25 Clarksons Platou has taken reasonable care in the compilation
-      of the Information and believes it to be accurate and correct, data compilation
-      is subject to limited audit and validation procedures and may accordingly contain
-      errors; (iv)
-    unit: null
-    values:
-    - 151.0
-    - 25.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: Direct +(30) 210 458 6700
-    unit: null
-    values:
-    - 30.0
-    - 210.0
-    - 458.0
-    - 6700.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: Fax +(30) 210 458 6799 This Information is confidential and is solely
-      for the internal use of the recipient. Neither the whole nor any part of the
-      Information may be disclosed to, or used or relied upon by, any other person
-      or used for any other purpose withou
-    unit: null
-    values:
-    - 30.0
-    - 210.0
-    - 458.0
-    - 6799.0
-  - section: 'Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf'
-    section_type: linked_pdf
-    source_line: Page 3 of 3
-    unit: null
-    values:
-    - 3.0
-    - 3.0
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - *id010
+  - *id011
+  - *id012
+  - *id013
+  - *id014
+  - *id015
+  - *id016
+  - *id017
+  - *id018
+  - *id019
 source: hellenic
-source_path: corpus/02-hellenic/shipbuilding/2021/2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109.html
+source_path: reports/hellenic/shipbuilding/2021/2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109.html
 source_stem: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109
 source_url: https://www.hellenicshippingnews.com/clarkson-platou-hellas-sp-weekly-bulletin-109
 summary: 'Main
@@ -941,60 +332,38 @@ summary: 'Main
 
   Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf
 
-  Source asset: reports/hellenic/shipbuilding/pdfs/2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf
+  Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf
 
 
-  [Page 1]
+  # Sale and Purchase
 
-  Sale and Purchase
 
-  Hellas S&P Weekly Bulletin 16 July 2021
+  ## Hellas S&P Weekly Bulletin 16 July 2021
 
-  BULK CARRIERS
 
-  VESSEL DWT BLT DETAILS SS/DD PRICE BUYER
+  ## BULK CARRIERS
 
-  MAN-B&W 6S70MC-C SS 10/25
 
-  BULK DENMARK 181,458 2010 KOYO RGN USD 31 M GREEKS
+  |VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|
 
-  BWTS & Scrubber fitted DD 11/23
+  |---|---|---|---|---|---|---|
 
-  MAN-B&W 6S60MC-C SS 09/25 USD 21 M
+  |BULK DENMARK|181,458|2010 KOYO|MAN-B&W 6S70MC-C BWTS & Scrubber fitted|SS 10/25
+  DD 11/23|RGN USD 31 M|GREEKS|
 
-  LOWLANDS GREEN 95,650 2011 IMABARI U/D
+  |LOWLANDS GREEN|95,650|2011 IMABARI|MAN-B B&W 6S60MC -C WTS fitted|SS 09/25 DD 12/23|USD
+  21 M (Delivery Jan 2022)|U/D|
 
-  BWTS fitted DD 12/23 (Delivery Jan 2022)
+  |NAVIOS MARCO POLO|80,647|2011 UNIVERSAL|MAN-B B&W 7S50MC -C WTS fitted|SS 02/26
+  DD 02/24|HIGH $ 22|U/D|
 
-  MAN-B&W 7S50MC-C SS 02/26
+  |BELFRI|55,866|2007 KAWASAKI|MAN-B&W 6S50MC -C8.1 4 x 30 T|SS 06/22 DD 06/22|USD
+  15.3 M|CHINESE (c/o J inhui)|
 
-  NAVIOS MARCO POLO 80,647 2011 UNIVERSAL HIGH $ 22 U/D
+  |GREAT RESOURCE|31,776|2010 GUANGZHOU HUANGPU|MAN-B&W 6S42MC 4 x 30 T BWTS fitted,
+  Ice-1B|SS 01/26 DD 11/23|USD 12.6 M|GREEKS|
 
-  BWTS fitted DD 02/24
-
-  MAN-B&W 6S50MC-C8.1 SS 06/22 CHINESE
-
-  BELFRI 55,866 2007 KAWASAKI USD 15.3 M
-
-  4 x 30 T DD 06/22 (c/o Jinhui)
-
-  MAN-B&W 6S42MC
-
-  SS 01/26
-
-  GREAT RESOURCE 31,776 2010 GUANGZHOU HUANGPU 4 x 30 T USD 12.6 M GREEKS
-
-  DD 11/23
-
-  BWTS fitted, Ice-1B
-
-  MAN-B&W 6S42MC
-
-  SS 10/22 HIGH USD 12 M HK BASED
-
-  KING RICE 28,250 2012 I-S 4 x 30 T
-
-  DD 1'
+  |KING RICE|28,250|2012 I-S|MAN-B&W'
 themes:
 - lng
 - lpg
@@ -1022,34 +391,22 @@ In the tanker market, it was reported that an unknown owner ordered two firm 50k
 Source: Clarkson Platou (Hellas) ltd
 
 Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf
-Source asset: reports/hellenic/shipbuilding/pdfs/2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf
+Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf
 
-[Page 1]
-Sale and Purchase
-Hellas S&P Weekly Bulletin 16 July 2021
-BULK CARRIERS
-VESSEL DWT BLT DETAILS SS/DD PRICE BUYER
-MAN-B&W 6S70MC-C SS 10/25
-BULK DENMARK 181,458 2010 KOYO RGN USD 31 M GREEKS
-BWTS & Scrubber fitted DD 11/23
-MAN-B&W 6S60MC-C SS 09/25 USD 21 M
-LOWLANDS GREEN 95,650 2011 IMABARI U/D
-BWTS fitted DD 12/23 (Delivery Jan 2022)
-MAN-B&W 7S50MC-C SS 02/26
-NAVIOS MARCO POLO 80,647 2011 UNIVERSAL HIGH $ 22 U/D
-BWTS fitted DD 02/24
-MAN-B&W 6S50MC-C8.1 SS 06/22 CHINESE
-BELFRI 55,866 2007 KAWASAKI USD 15.3 M
-4 x 30 T DD 06/22 (c/o Jinhui)
-MAN-B&W 6S42MC
-SS 01/26
-GREAT RESOURCE 31,776 2010 GUANGZHOU HUANGPU 4 x 30 T USD 12.6 M GREEKS
-DD 11/23
-BWTS fitted, Ice-1B
-MAN-B&W 6S42MC
-SS 10/22 HIGH USD 12 M HK BASED
-KING RICE 28,250 2012 I-S 4 x 30 T
-DD 1
+# Sale and Purchase
+
+## Hellas S&P Weekly Bulletin 16 July 2021
+
+## BULK CARRIERS
+
+|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|
+|---|---|---|---|---|---|---|
+|BULK DENMARK|181,458|2010 KOYO|MAN-B&W 6S70MC-C BWTS & Scrubber fitted|SS 10/25 DD 11/23|RGN USD 31 M|GREEKS|
+|LOWLANDS GREEN|95,650|2011 IMABARI|MAN-B B&W 6S60MC -C WTS fitted|SS 09/25 DD 12/23|USD 21 M (Delivery Jan 2022)|U/D|
+|NAVIOS MARCO POLO|80,647|2011 UNIVERSAL|MAN-B B&W 7S50MC -C WTS fitted|SS 02/26 DD 02/24|HIGH $ 22|U/D|
+|BELFRI|55,866|2007 KAWASAKI|MAN-B&W 6S50MC -C8.1 4 x 30 T|SS 06/22 DD 06/22|USD 15.3 M|CHINESE (c/o J inhui)|
+|GREAT RESOURCE|31,776|2010 GUANGZHOU HUANGPU|MAN-B&W 6S42MC 4 x 30 T BWTS fitted, Ice-1B|SS 01/26 DD 11/23|USD 12.6 M|GREEKS|
+|KING RICE|28,250|2012 I-S|MAN-B&W
 
 ## Main
 In the tanker market, it was reported that an unknown owner ordered two firm 50k dwt MR tankers at STX, with both vessels to be delivered in 4Q
@@ -1058,109 +415,60 @@ Source: Clarkson Platou (Hellas) ltd
 ## Linked asset: 2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf
 Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf
 
-[Page 1]
-Sale and Purchase
-Hellas S&P Weekly Bulletin 16 July 2021
-BULK CARRIERS
-VESSEL DWT BLT DETAILS SS/DD PRICE BUYER
-MAN-B&W 6S70MC-C SS 10/25
-BULK DENMARK 181,458 2010 KOYO RGN USD 31 M GREEKS
-BWTS & Scrubber fitted DD 11/23
-MAN-B&W 6S60MC-C SS 09/25 USD 21 M
-LOWLANDS GREEN 95,650 2011 IMABARI U/D
-BWTS fitted DD 12/23 (Delivery Jan 2022)
-MAN-B&W 7S50MC-C SS 02/26
-NAVIOS MARCO POLO 80,647 2011 UNIVERSAL HIGH $ 22 U/D
-BWTS fitted DD 02/24
-MAN-B&W 6S50MC-C8.1 SS 06/22 CHINESE
-BELFRI 55,866 2007 KAWASAKI USD 15.3 M
-4 x 30 T DD 06/22 (c/o Jinhui)
-MAN-B&W 6S42MC
-SS 01/26
-GREAT RESOURCE 31,776 2010 GUANGZHOU HUANGPU 4 x 30 T USD 12.6 M GREEKS
-DD 11/23
-BWTS fitted, Ice-1B
-MAN-B&W 6S42MC
-SS 10/22 HIGH USD 12 M HK BASED
-KING RICE 28,250 2012 I-S 4 x 30 T
-DD 10/22 (Delivery Jan 2022) (c/o Taylor Maritime)
-BWTS fitted
-TANKERS - CHEMICALS - LPG/LNGs
-VESSEL DWT BLT DETAILS SS/DD PRICE BUYER
-SS 03/25
-TAKAHASHI 314,020 2007 NACKS MAN-B&W 7S80MC-C RGN USD 34 M GREEKS
-DD 03/23
-MAN-B&W 6S50MC-C SS 04/22
-FS SINCERITY 48,045 2009 NAIKAI HIGH USD 13 M U/D
-4 Pumps DD 04/22
-NEW BUILDING
-Page 1 of 3
+# Sale and Purchase
 
-[Page 2]
-1
-Sale and Purchase
-Hellas S&P Weekly Bulletin 16 July 2021
+## Hellas S&P Weekly Bulletin 16 July 2021
+
+## BULK CARRIERS
+
+|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|
+|---|---|---|---|---|---|---|
+|BULK DENMARK|181,458|2010 KOYO|MAN-B&W 6S70MC-C BWTS & Scrubber fitted|SS 10/25 DD 11/23|RGN USD 31 M|GREEKS|
+|LOWLANDS GREEN|95,650|2011 IMABARI|MAN-B B&W 6S60MC -C WTS fitted|SS 09/25 DD 12/23|USD 21 M (Delivery Jan 2022)|U/D|
+|NAVIOS MARCO POLO|80,647|2011 UNIVERSAL|MAN-B B&W 7S50MC -C WTS fitted|SS 02/26 DD 02/24|HIGH $ 22|U/D|
+|BELFRI|55,866|2007 KAWASAKI|MAN-B&W 6S50MC -C8.1 4 x 30 T|SS 06/22 DD 06/22|USD 15.3 M|CHINESE (c/o J inhui)|
+|GREAT RESOURCE|31,776|2010 GUANGZHOU HUANGPU|MAN-B&W 6S42MC 4 x 30 T BWTS fitted, Ice-1B|SS 01/26 DD 11/23|USD 12.6 M|GREEKS|
+|KING RICE|28,250|2012 I-S|MAN-B&W 6S42MC 4 x 30 T BWTS fitted|SS 10/22 DD 10/22|HIGH USD 12 M (Delivery Jan 2022)|HK BA SED (c/o Tayl or Maritime )|
+
+## TANKERS – CHEMICALS – LPG/LNGs
+
+|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|
+|---|---|---|---|---|---|---|
+|TAKAHASHI|314,020|2007 NACKS|MAN-B&W 7S80MC-C|DD 03/23 SS 03/25|RGN USD 34 M|GREEKS|
+|FS SINCERITY|48,045|2009 NAIKAI|MAN-B&W 6S50MC 4 Pumps|-C D SS 04/22 D 04/22|HIGH USD 13 M|U/D|
+
+## NEW BUILDING
+
 In the tanker market, it was reported that an unknown owner ordered two firm 50k dwt MR tankers at STX, with both vessels to be delivered in 4Q
-2022. In the gas carrier market, there were a number of orders this week all linked with the Shell charter deal. Pan Ocean announced ordering two
-firm 174k CBM LNG Carriers at Hyundai HI (Ulsan), with delivery of both vessels set for Q4 2024. The yard also revealed contracting two firm 174k
-CBM LNG Carriers for an unknown owner, with delivery of the first vessel expected within 1H 2025, and the second vessel in 3Q 2025. Hyundai
-Samho announced taking order for two firm 174k CBM LNG Carriers for an unknown owner, with delivery of the vessels also expected within 1H
-2025 and 3Q 2025. In containers, COSCO Yangzhou disclosed orders for four firm 16,180 TEU container vessels from COSCO Shipping Lines, with
-delivery slated to take place from June 2025 through to December 2025. The yard also revealed contracting six firm 14,092 TEU boxships, again with
-COSCO Shipping Lines, with delivery of the vessels to begin in 1H 2024 and continue until September 2024. In general cargo, Volga Shipping
-ordered four firm 7.17k dwt General Cargo vessels at Okskaya Shipyard, with delivery to take place throughout 2022 and 2023. In the car carrier
-market, Wallenius Lines announced ordering two firm LNG dual-fuel 6,500 CEU PCC's at Yantai CIMC Raffles. The deal has two set of options and
-delivery of the firm vessels will be within 2023.
-RECYCLING
-Winding Down!
-The summer holiday period has certainly been felt this week as the market has felt the quietest it has been all year with the lack of workable tonnage
-alarmingly low, with few sales to report. This is a trend that now looks set to continue and could result in one of the most inactive summers for the
-market in quite some time, with there still being no clear sign of where the flow of tonnage is going to come from due to the continuing firm freight
-markets. With Eid holidays taking place next week in Pakistan and Bangladesh, operations from these locations next week may slow. We again
-emphasise that there should not be too much of a price depreciation and feel these impressive levels look set to stay in Pakistan and Bangladesh,
-with demand still high locally and the world economy continues to recover after the Pandemic. This has meant India continues to lag some way behind
-its neighbouring counterparts, with price levels still in the mid-low 500's, although a rare unit for HKC recycling would be sure to catch their attention
-and cause an eager move. Much like the sub-continent, the rates from Turkey have made steady improvements over the last few weeks and non EU
-Recycling yards would be willing to indicate in the mid USD 300's for prompt units. With the EU facilities being a case-by-case basis, due to the limited
-number of yards (and whether such a plot is open at a specific time), pricing is still the highest we have seen for EU recycling with levels hovering
-around the high USD200's.
-DEMOLITION
-BULK CARRIERS - GCs - MPPs
-VESSEL DWT BLT DETAILS PRICE DELIVERY
-- - - - - -
-TANKERS - CHEMICALS - LPGs
-VESSEL DWT BLT DETAILS PRICE DELIVERY
-MR NAUTILUS 43,538 1998 CROATIA 10,650 LDT USD 570 / LDT PAKISTAN
-BALTIC INDEX EXCHANGE RATE BUNKER PRICES
-BDI 3039 - 34 EURO/USD 1.18207 BUNKERS ROTTERDAM SPORE FUJAIRAH
-BCI 3442 - 18 YEN/USD 0.00910 VLSFO 530.00 550.50 544.50
-BPI 3635 - 73 BRENT MGO 592.00 591.00 654.00
-BSI 2775 - 24 73.58 IFO 380 410.50 422.50 418.00
-BHSI 1669 + 7
-Page 2 of 3
 
-[Page 3]
-1
-Sale and Purchase
-Hellas S&P Weekly Bulletin 16 July 2021
-Contacts
-Clarksons Platou (Hellas) Ltd. The material and the information (including, without limitation, any future rates) contained herein (together, the "Information") are provided by H. Clarkson & Co. Ltd
-62 Kifissias Avenue ("Clarksons Platou") for general information purposes. The Information is drawn from Clarksons Platou's database and other sources. Clarksons Platou advises that: (i) any Information extracted from Clarksons Platou's database is
-Marousi derived from estimates or subjective judgments; (ii) any Information extracted from the databases of other maritime data collection agencies may differ from the Information extracted from Clarksons Platous' database; (iii ) whilst
-151 25 Clarksons Platou has taken reasonable care in the compilation of the Information and believes it to be accurate and correct, data compilation is subject to limited audit and validation procedures and may accordingly contain errors; (iv)
-the provision of the Information does not obviate any need to make appropriate further enquiries; (v) the provision of the Information is not an endorsement of any commercial policies and/or any conclusions by Clarksons Platou and its
-Greece 'connected persons', and is not intended to recommend any decision by the recipient; (vi) shipping is a variable and cyclical business and any forecasting concerning it may not be accurate. The Information is provided on "as is" and "as
-available" basis. Clarksons Platou and its ‘connected persons' make no representations or warranties of any kind, express or implied about the completeness, accuracy, reliability, suitability or availability with respect to the Information.
-Any reliance placed on such Information is therefore strictly at the recipient's own risk.
-Direct +(30) 210 458 6700
-Fax +(30) 210 458 6799 This Information is confidential and is solely for the internal use of the recipient. Neither the whole nor any part of the Information may be disclosed to, or used or relied upon by, any other person or used for any other purpose without the
-snp@clarksons.gr prior written consent of Clarksons Platou. Especially, the information is not to be used in any document for the purposes of raising finance whether by way of debt or equity. All intellectual property rights are fully reserved by Clarksons
-Platou, its ‘connected persons' and/or its licensors.
-www.clarksons.com
-To the extent permitted by law, Clarksons Platou and its ‘connected persons' shall not be liable to the recipient or any third party for any loss, liability or damage, cost or expense including without limitation, direct, indirect, consequential
-loss or damage, any loss of profit, loss of use, loss of or interruption in business, loss of goodwill, loss of data arising out of, or in connection with, the use of and the reliance on the Information whether in contract, tort, negligence,
-bailment, breach of statutory duty or otherwise, even if foreseeable.
-These exclusions do not apply to (i) death or personal injury caused by the negligence of Clarksons Platou and its‘connected persons' or (ii) the liability of Clarksons Platou and its ‘connected persons' for fraud or fraudulent
-misrepresentation. In this disclaimer 'connected persons' means, in relation to Clarksons Platou, its ultimate holding company, subsidiaries and subsidiary undertakings of its ultimate holding company and the respective shareholders,
-directors, officers, employees and agents of each of them. This disclaimer shall be governed by and construed in accordance with English law.
-Page 3 of 3
+2022. In the gas carrier market, there were a number of orders this week all linked with the Shell charter deal. Pan Ocean announced ordering two firm 174k CBM LNG Carriers at Hyundai HI (Ulsan), with delivery of both vessels set for Q4 2024. The yard also revealed contracting two firm 174k CBM LNG Carriers for an unknown owner, with delivery of the first vessel expected within 1H 2025, and the second vessel in 3Q 2025. Hyundai Samho announced taking order for two firm 174k CBM LNG Carriers for an unknown owner, with delivery of the vessels also expected within 1H 2025 and 3Q 2025. In containers, COSCO Yangzhou disclosed orders for four firm 16,180 TEU container vessels from COSCO Shipping Lines, with delivery slated to take place from June 2025 through to December 2025. The yard also revealed contracting six firm 14,092 TEU boxships, again with COSCO Shipping Lines, with delivery of the vessels to begin in 1H 2024 and continue until September 2024. In general cargo, Volga Shipping ordered four firm 7.17k dwt General Cargo vessels at Okskaya Shipyard, with delivery to take place throughout 2022 and 2023. In the car carrier market, Wallenius Lines announced ordering two firm LNG dual-fuel 6,500 CEU PCC’s at Yantai CIMC Raffles. The deal has two set of options and delivery of the firm vessels will be within 2023.
+## RECYCLING
+
+## <u>Winding Down!</u>
+
+The summer holiday period has certainly been felt this week as the market has felt the quietest it has been all year with the lack of workable tonnage alarmingly low, with few sales to report. This is a trend that now looks set to continue and could result in one of the most inactive summers for the market in quite some time, with there still being no clear sign of where the flow of tonnage is going to come from due to the continuing firm freight markets. With Eid holidays taking place next week in Pakistan and Bangladesh, operations from these locations next week may slow. We again emphasise that there should not be too much of a price depreciation and feel these impressive levels look set to stay in Pakistan and Bangladesh, with demand still high locally and the world economy continues to recover after the Pandemic. This has meant India continues to lag some way behind its neighbouring counterparts, with price levels still in the mid-low 500’s, although a rare unit for HKC recycling would be sure to catch their attention and cause an eager move. Much like the sub-continent, the rates from Turkey have made steady improvements over the last few weeks and non EU Recycling yards would be willing to indicate in the mid USD 300’s for prompt units. With the EU facilities being a case-by-case basis, due to the limited number of yards (and whether such a plot is open at a specific time), pricing is still the highest we have seen for EU recycling with levels hovering around the high USD200’s.
+
+## DEMOLITION
+
+## BULK CARRIERS – GCs-MPPs
+
+## VESSEL DWT <u>BLT</u> DETAILS PRICE DELIVERY
+
+**-**-----
+
+## TANKERS – CHEMICALS – LPGs
+
+## VESSEL <u>DWT</u> BLT DETAILS PRICE DELIVERY
+
+**MR NAUTILUS** 43,538 1998 CROATIA 10,650 LDT USD 570 / LDT PAKISTAN
+
+|BAL|TIC INDEX||EXCHANGE RATE|||BUNKER PRICES|||
+|---|---|---|---|---|---|---|---|---|
+|BDI|3039|- 34|EURO/USD|1.18207|BUNKERS|ROTTERDAM|SPORE|FUJAIRAH|
+|BCI|3442|- 18|YEN/USD|0.00910|VLSFO|530.00|550.50|544.50|
+|BPI|3635|- 73|BRENT||MGO|592.00|591.00|654.00|
+|BSI BHSI|2775 1669|- 24 + 7|73.58||IFO 380|410.50|422.50|418.00|
+
+|||Contacts|
+|---|---|---|
+|Clarksons Platou (Hellas) Ltd. 62 Kifissias Avenue Marousi 151 25 Greece Direct +(30) 210 458 6700 Fax +(30) 210 458 6799 snp@clarksons.gr www.clarksons.com||Thematerialand theinformation (including, without limitation, any futurerates) contained herein (together, the "Information") areprovided by H. Clarkson & Co. Ltd ("Clarksons Platou") for general information purposes. The Information is drawn from Clarksons Platou's database and other sources. Clarksons Platou advises that: (i) any Information extracted from Clarksons Platou's database is d d nfrs om es tima r surebje gme; (ii)coam nypilIn forma n ex cte abas ofaotccu hera r m mcorr e da olleacco tion mbjec ay dtiffto erlim froited m tau hedIin fornd ma trac om C larksons ' dy atab asen e; (irro ii)rw Celarirve kso Platou hastes takoen asctiv onae j blud e ca re ints n the atio n of titohe Inftra orm atdiofn roam ndthe belideavte s it toesbe te aarnitid etcat,cdat mpaig laetinci oneiss su t a vation ex lidation prtoed cedfrur es and may aPlccato orduisngl contai s; h(ilst iv) theprovision of the Information does notobviate any need tomakeappropriate further enquiries; (v) theprovision of the Informationis notan endorsement of anycommercial policies and/or any conclusions by Clarksons Platou and its 'connected persons', andisnotintended torecommend any decision by the recipient; (vi) shipping is avariableand cyclicalbusinessand anyforecastingconcerningit may not beaccurate. The Information is providedon "as is" and “as available” basis. Clarksons Platou and its ‘connected persons’ make no representations or warranties of any kind, express or implied about the completeness, accuracy, reliability, suitability or availability with respect to the Information. Any relianceplaced on such Information is thereforestrictlyattherecipient's own risk. Th is Iwri nfottrm is co nfid and i lely orethce rnalinufose of ttion he ris ecno ipitetnot.be Neiuth hean whol r anntyfopa tof therpIo nsfores o mati onisma sed eto, orw usaeyd oforde rebliet d pon by, an the rson or orre anfully yothre erser puvre pd osbeyw t th prior enatcio onnse nt of Cent larkiasl ons Ps so latou. Efsp ialin ly, tethe rma seedr tin y doecnuome r trh e pu f ra ingy finbaendicesclwoheth r by orueq uity. A ll inyteolle ctrupe al pro pertyuse righd f ts a Clithou arkso ne s Platou, its ‘connectedpersons’ and/orits licensors. To the extent permitted by law, Clarksons Platou and its ‘connected persons’ shall not be liable to the recipient or anythird party for any loss, liability or damage, cost or expense including without limitation, direct, indirect, consequential loss or damage, any loss of profit, loss of use, loss of or interruption in business, loss of goodwill, loss of data arising out of, or in connection with, the use of and the reliance on the Information whether in contract, tort, negligence, bailment, breachof statutory duty or otherwise, even if foreseeable. These exclusions do not apply to (i) death or personal injury caused by the negligence of Clarksons Platou and its‘connected persons’ or (ii) the liability of Clarksons Platou and its ‘connected persons’ for fraud or fraudulent misrepresentation. In this disclaimer 'connected persons' means, in relation to Clarksons Platou, its ultimate holding company, subsidiaries and subsidiary undertakings of its ultimate holding company and the respective shareholders, directors, officers, employeesand agentsofeachofthem. This disclaimershallbegovernedby andconstrued inaccordancewith Englishlaw.|

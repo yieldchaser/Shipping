@@ -34,7 +34,7 @@ regions:
 section_count: 1
 signals: {}
 source: hellenic
-source_path: corpus/02-hellenic/shipbuilding/2024/2024-05-26_flange-mounted-upending-tool-fmut.html
+source_path: reports/hellenic/shipbuilding/2024/2024-05-26_flange-mounted-upending-tool-fmut.html
 source_stem: 2024-05-26_flange-mounted-upending-tool-fmut
 source_url: https://www.hellenicshippingnews.com/flange-mounted-upending-tool-fmut
 summary: 'Main

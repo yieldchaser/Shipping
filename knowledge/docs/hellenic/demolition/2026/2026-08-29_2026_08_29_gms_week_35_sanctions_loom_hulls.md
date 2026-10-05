@@ -32,8 +32,7 @@ linked_assets_skipped: 1
 market_tone: constructive
 numeric_observation_count: 86
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Oil meanwhile surrendered much of the previous week's advance. Brent
     retreated back toward the high USD 80s per barrel, while WTI eased into the low
@@ -43,8 +42,7 @@ numeric_observations:
   values:
   - 80.0
   - 80.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Freight moved firmly the other way. The Baltic Dry Index rallied above
     3,100 to its strongest level since early June, with Capesizes leading the advance
@@ -53,8 +51,7 @@ numeric_observations:
   unit: null
   values:
   - 3100.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 35 of 2026, GMS Market Rankings / Vessel indications are as
     below.
@@ -62,15 +59,13 @@ numeric_observations:
   values:
   - 35.0
   - 2026.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Linked asset: 28082026.jpg'
   unit: null
   values:
   - 28082026.0
-- &id005
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_28082026_785b1a8349c4.jpg'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_28082026_785b1a8349c4.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_28082026_785b1a8349c4.jpg'
   unit: null
@@ -84,24 +79,21 @@ numeric_observations:
   - 1.0
   - 8349.0
   - 4.0
-- &id006
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_28082026_785b1a8349c4.jpg'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_28082026_785b1a8349c4.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 691x150 mode=RGB'
   unit: null
   values:
   - 691.0
   - 150.0
-- &id007
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_28082026_785b1a8349c4.jpg'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_28082026_785b1a8349c4.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'
   unit: null
   values:
   - 120.0
   - 120.0
-- &id008
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_28082026_785b1a8349c4.jpg'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_28082026_785b1a8349c4.jpg'
   section_type: linked_image_asset
   source_line: '[| 1 | Pakistan | Steady | 520/LDT_| 540/LDT | _550/LDT.'
   unit: null
@@ -110,8 +102,7 @@ numeric_observations:
   - 520.0
   - 540.0
   - 550.0
-- &id009
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_28082026_785b1a8349c4.jpg'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_28082026_785b1a8349c4.jpg'
   section_type: linked_image_asset
   source_line: '[2 [Bangladesh | Steady | _500/LDT 520/LDT. 530 / LDT'
   unit: null
@@ -120,8 +111,7 @@ numeric_observations:
   - 500.0
   - 520.0
   - 530.0
-- &id010
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_28082026_785b1a8349c4.jpg'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_28082026_785b1a8349c4.jpg'
   section_type: linked_image_asset
   source_line: 465/LDT | 485/LDT | _495/LDT
   unit: null
@@ -129,8 +119,7 @@ numeric_observations:
   - 465.0
   - 485.0
   - 495.0
-- &id011
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_28082026_785b1a8349c4.jpg'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_28082026_785b1a8349c4.jpg'
   section_type: linked_image_asset
   source_line: '[4 [Turkey [Steady _| 262-264 LDT_| 272-274/ LDT | 282-284/ LDT'
   unit: null
@@ -142,15 +131,13 @@ numeric_observations:
   - -274.0
   - 282.0
   - -284.0
-- &id012
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: 1. ` *I
   unit: null
   values:
   - 1.0
-- &id013
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: August 2 8th, 2026
   unit: null
@@ -158,47 +145,41 @@ numeric_observations:
   - 2.0
   - 8.0
   - 2026.0
-- &id014
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: Week 35
   unit: null
   values:
   - 35.0
-- &id015
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: Volume 282, Issue 1250
   unit: null
   values:
   - 282.0
   - 1250.0
-- &id016
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: Oil meanwhile surrendered much of the previous week's advance. Brent
     retreated back toward the high USD 80s per
   unit: usd
   values:
   - 80.0
-- &id017
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: barrel, while WTI eased into the low USD 80s as improving Gulf flows
     removed some of the urgency from the supply
   unit: usd
   values:
   - 80.0
-- &id018
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: Freight moved firmly the other way. The Baltic Dry Index rallied above
     3,100 to its strongest level since early June,
   unit: null
   values:
   - 3100.0
-- &id019
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: GMS market rankings / pricing for week 35 of 2026 are on Page 5.
   unit: null
@@ -206,24 +187,21 @@ numeric_observations:
   - 35.0
   - 2026.0
   - 5.0
-- &id020
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id021
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: previously secured tonnage through the latest tide. Than and Param
     were delivered on August 28,
   unit: null
   values:
   - 28.0
-- &id022
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: Bursa on August 27 and Wantong 498 on August 25, while the sizeable
     27,824 LDT FPSO Glow
@@ -233,16 +211,14 @@ numeric_observations:
   - 498.0
   - 25.0
   - 27824.0
-- &id023
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: arrived on August 27 and Orange Link remains another recent arrival.
     The beach is therefore
   unit: null
   values:
   - 27.0
-- &id024
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: Local steel offered no fresh direction, holding at BDT 64,000 per ton,
     or approximately USD 522 per
@@ -250,8 +226,7 @@ numeric_observations:
   values:
   - 64000.0
   - 522.0
-- &id025
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: range, with Bangladesh Bank's spot reference rate closing August 27
     near BDT 123.07 to the Dollar.
@@ -259,32 +234,28 @@ numeric_observations:
   values:
   - 27.0
   - 123.07
-- &id026
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: GGMMSS WWeeeekkllyy Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id027
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: The latest port position adds further weight to that improving picture,
     with the 18,848 LDT LPG carrier
   unit: null
   values:
   - 18848.0
-- &id028
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: Ble In arriving at Alang on August 23. It follows a productive run
     of specialist deliveries through recent Specialists lead.
   unit: null
   values:
   - 23.0
-- &id029
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: plate started the period at INR 40,500 per ton, strengthened through
     INR 41,000 and briefly touched
@@ -292,8 +263,7 @@ numeric_observations:
   values:
   - 40500.0
   - 41000.0
-- &id030
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: INR 41,300, before closing Friday back at INR 41,000, equivalent to
     approximately USD 429 per ton
@@ -302,32 +272,28 @@ numeric_observations:
   - 41300.0
   - 41000.0
   - 429.0
-- &id031
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: against USD 423 at the start of the period. The Rupee has been similarly
     supportive, recovering from
   unit: usd
   values:
   - 423.0
-- &id032
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: last week's 95.77 area to around 95.55 against the Dollar by Friday.
   unit: null
   values:
-  - 95770.0
-  - 95550.0
-- &id033
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+  - 95.77
+  - 95.55
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id034
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: committed above USD 550 to USD 560/LDT. That burst of buying finally
     satisfied part of the pent-
@@ -335,16 +301,14 @@ numeric_observations:
   values:
   - 550.0
   - 560.0
-- &id035
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: The inevitable correction has now followed. Local steel fell from PKR
     203,000 per ton, or
   unit: null
   values:
   - 203000.0
-- &id036
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: approximately USD 730 per ton, to PKR 200,000, near USD 720 per ton,
     from August 25 onward.
@@ -354,8 +318,7 @@ numeric_observations:
   - 200000.0
   - 720.0
   - 25.0
-- &id037
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: Prices correct. the waterfront. The 8,128 LDT container vessel Visakha
     and the 4,990 LDT tanker Lyra both arrived
@@ -363,72 +326,63 @@ numeric_observations:
   values:
   - 8128.0
   - 4990.0
-- &id038
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: at Gadani on August 21. Last week's unusual situation, where Pakistan
     had risen to the top of the
   unit: null
   values:
   - 21.0
-- &id039
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: The Rupee remains another firm pillar beneath the market. The State
     Bank's August 28 revaluation
   unit: null
   values:
   - 28.0
-- &id040
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: rate stood at approximately PKR 277.50 to the Dollar, continuing the
     remarkable stability and
   unit: null
   values:
   - 277.5
-- &id041
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id042
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: HROUGH 48, NICHE HOLDS
   unit: null
   values:
   - 48.0
-- &id043
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: The Lira continued its orderly slide this week, with USD/TRY moving
     into the 48.1 to 48.2 range and
   unit: usd_per_unit
   values:
-  - 48100.0
-  - 48200.0
-- &id044
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+  - 48.1
+  - 48.2
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: official inflation reading remains 31.75% annually and 1.78% monthly,
     while August consumer
   unit: pct
   values:
-  - 31750.0
+  - 31.75
   - 1.78
-- &id045
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: confidence improved modestly to 90.8.
   unit: null
   values:
-  - 90800.0
-- &id046
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+  - 90.8
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: For Week 35 of 2026, GMS Market Rankings / Vessel indications are as
     below.
@@ -436,8 +390,7 @@ numeric_observations:
   values:
   - 35.0
   - 2026.0
-- &id047
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: 1 Pakistan Steady 520 / LDT 540 / LDT 550 / LDT
   unit: null
@@ -446,8 +399,7 @@ numeric_observations:
   - 520.0
   - 540.0
   - 550.0
-- &id048
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: 2 Bangladesh Steady 500 / LDT 520 / LDT 530 / LDT
   unit: null
@@ -456,8 +408,7 @@ numeric_observations:
   - 500.0
   - 520.0
   - 530.0
-- &id049
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: 3 India Steady 465 / LDT 485 / LDT 495 / LDT
   unit: null
@@ -466,8 +417,7 @@ numeric_observations:
   - 465.0
   - 485.0
   - 495.0
-- &id050
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Steady 262-264 / LDT 272-274 / LDT 282-284 / LDT
   unit: null
@@ -479,38 +429,33 @@ numeric_observations:
   - -274.0
   - 282.0
   - -284.0
-- &id051
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id052
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line:  44.4 billion kWh of energy saved through ship recycling at Alang
     could power more than
   unit: null
   values:
-  - 44400.0
-- &id053
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+  - 44.4
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: 3 million households for 10 years.
   unit: null
   values:
   - 3.0
-- &id054
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: than 276 million cubic yards of material.
   unit: null
   values:
   - 276.0
-- &id055
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: September 04 - Janmashtami August 26 - September 03
   unit: null
@@ -518,8 +463,7 @@ numeric_observations:
   - 4.0
   - 26.0
   - 3.0
-- &id056
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: October 02 - Mahatma Gandhi's Birthday September 08 - September 16
   unit: null
@@ -527,55 +471,48 @@ numeric_observations:
   - 2.0
   - 8.0
   - 16.0
-- &id057
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: August 28 - August 31
   unit: null
   values:
   - 28.0
   - 31.0
-- &id058
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: September 04 - Janmashtami
   unit: null
   values:
   - 4.0
-- &id059
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: September 10 - September 13
   unit: null
   values:
   - 10.0
   - 13.0
-- &id060
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: November 09 - Allama Iqbal Day August 30 - Victory Day
   unit: null
   values:
   - 9.0
   - 30.0
-- &id061
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: GMS Port Reports Page 7 of 8
   unit: null
   values:
   - 7.0
   - 8.0
-- &id062
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: ALANG - Port Position as of August 28, 2026
   unit: null
   values:
   - 28.0
   - 2026.0
-- &id063
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: 1 Ble In 18,848 LPG Carrier Arrived August 23
   unit: null
@@ -583,16 +520,14 @@ numeric_observations:
   - 1.0
   - 18848.0
   - 23.0
-- &id064
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: CHATTOGRAM - Port Position as of August 28, 2026
   unit: null
   values:
   - 28.0
   - 2026.0
-- &id065
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: 1 Than 6,357 Wood Chip Carrier Delivered August 28
   unit: null
@@ -600,8 +535,7 @@ numeric_observations:
   - 1.0
   - 6357.0
   - 28.0
-- &id066
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: 2 Param 9,520 Bulk Carrier Delivered August 28
   unit: null
@@ -609,8 +543,7 @@ numeric_observations:
   - 2.0
   - 9520.0
   - 28.0
-- &id067
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: 3 Glow (D/VSL) 27,824 FPSO Arrived August 27
   unit: null
@@ -618,8 +551,7 @@ numeric_observations:
   - 3.0
   - 27824.0
   - 27.0
-- &id068
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: 4 Bursa 15,965 Tanker Delivered August 27
   unit: null
@@ -627,8 +559,7 @@ numeric_observations:
   - 4.0
   - 15965.0
   - 27.0
-- &id069
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: 5 Wantong 498 1,589 Waste Disposal Vessel Delivered August 25
   unit: null
@@ -637,8 +568,7 @@ numeric_observations:
   - 498.0
   - 1589.0
   - 25.0
-- &id070
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: 6 Orange Link 3,846 Bulk Carrier Arrived August 22
   unit: null
@@ -646,16 +576,14 @@ numeric_observations:
   - 6.0
   - 3846.0
   - 22.0
-- &id071
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: GADANI - Port Position as of August 28, 2026
   unit: null
   values:
   - 28.0
   - 2026.0
-- &id072
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: 1 Visakha 8,128 Container Arrived August 21
   unit: null
@@ -663,8 +591,7 @@ numeric_observations:
   - 1.0
   - 8128.0
   - 21.0
-- &id073
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: 2 Lyra 4,990 Tanker Arrived August 21
   unit: null
@@ -672,16 +599,14 @@ numeric_observations:
   - 2.0
   - 4990.0
   - 21.0
-- &id074
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: Steel Plate Prices Page 8 of 8
   unit: null
   values:
   - 8.0
   - 8.0
-- &id075
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: 8/22/2026 422.98 40,500.00 730.48 203,000.00 522.24 64,000.00 308.75
   unit: null
@@ -696,8 +621,7 @@ numeric_observations:
   - 522.24
   - 64000.0
   - 308.75
-- &id076
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: 8/23/2026 422.98 40,500.00 730.48 203,000.00 522.24 64,000.00 308.75
   unit: null
@@ -712,8 +636,7 @@ numeric_observations:
   - 522.24
   - 64000.0
   - 308.75
-- &id077
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: 8/24/2026 428.20 41,000.00 730.48 203,000.00 522.24 64,000.00 308.75
   unit: null
@@ -728,8 +651,7 @@ numeric_observations:
   - 522.24
   - 64000.0
   - 308.75
-- &id078
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: 8/25/2026 429.72 41,000.00 719.94 200,000.00 522.24 64,000.00 310.23
   unit: null
@@ -744,8 +666,7 @@ numeric_observations:
   - 522.24
   - 64000.0
   - 310.23
-- &id079
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: 8/26/2026 432.87 41,300.00 719.94 200,000.00 522.24 64,000.00 310.23
   unit: null
@@ -760,8 +681,7 @@ numeric_observations:
   - 522.24
   - 64000.0
   - 310.23
-- &id080
-  section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+- section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: 8/27/2026 429.45 41,000.00 719.94 200,000.00 522.24 64,000.00 310.23
   unit: null
@@ -814,7 +734,7 @@ numeric_observations:
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
   values:
-  - 49400.0
+  - 49.4
   - 3197.9963
   - 1.24
   - 505.9716
@@ -824,17 +744,17 @@ numeric_observations:
   unit: null
   values:
   - 86216.0
-  - 75190.0
-  - 82100.0
+  - 75.19
+  - 82.1
   - 4650.072
 - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
   values:
-  - 65682.3
+  - 65.6823
   - 8037.0
-  - 81300.0
+  - 81.3
   - 5453.6311
 regions:
 - india
@@ -847,86 +767,670 @@ section_count: 3
 signals:
   numeric_observation_count: 86
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: Oil meanwhile surrendered much of the previous week's advance. Brent
+      retreated back toward the high USD 80s per barrel, while WTI eased into the
+      low USD 80s as improving Gulf flows removed some of the urgency from the supply
+      story. The political impasse remain
+    unit: usd
+    values:
+    - 80.0
+    - 80.0
+  - section: Main
+    section_type: null
+    source_line: Freight moved firmly the other way. The Baltic Dry Index rallied
+      above 3,100 to its strongest level since early June, with Capesizes leading
+      the advance while Panamax and Supramax markets remained healthy. Tanker earnings
+      also continue to benefit from Gulf dis
+    unit: null
+    values:
+    - 3100.0
+  - section: Main
+    section_type: null
+    source_line: For Week 35 of 2026, GMS Market Rankings / Vessel indications are
+      as below.
+    unit: null
+    values:
+    - 35.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: 'Linked asset: 28082026.jpg'
+    unit: null
+    values:
+    - 28082026.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_28082026_785b1a8349c4.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_28082026_785b1a8349c4.jpg'
+    unit: null
+    values:
+    - 2026.0
+    - -8.0
+    - -29.0
+    - 35.0
+    - 28082026.0
+    - 785.0
+    - 1.0
+    - 8349.0
+    - 4.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_28082026_785b1a8349c4.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 691x150 mode=RGB'
+    unit: null
+    values:
+    - 691.0
+    - 150.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_28082026_785b1a8349c4.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (120, 120)'
+    unit: null
+    values:
+    - 120.0
+    - 120.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_28082026_785b1a8349c4.jpg'
+    section_type: linked_image_asset
+    source_line: '[| 1 | Pakistan | Steady | 520/LDT_| 540/LDT | _550/LDT.'
+    unit: null
+    values:
+    - 1.0
+    - 520.0
+    - 540.0
+    - 550.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_28082026_785b1a8349c4.jpg'
+    section_type: linked_image_asset
+    source_line: '[2 [Bangladesh | Steady | _500/LDT 520/LDT. 530 / LDT'
+    unit: null
+    values:
+    - 2.0
+    - 500.0
+    - 520.0
+    - 530.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_28082026_785b1a8349c4.jpg'
+    section_type: linked_image_asset
+    source_line: 465/LDT | 485/LDT | _495/LDT
+    unit: null
+    values:
+    - 465.0
+    - 485.0
+    - 495.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_28082026_785b1a8349c4.jpg'
+    section_type: linked_image_asset
+    source_line: '[4 [Turkey [Steady _| 262-264 LDT_| 272-274/ LDT | 282-284/ LDT'
+    unit: null
+    values:
+    - 4.0
+    - 262.0
+    - -264.0
+    - 272.0
+    - -274.0
+    - 282.0
+    - -284.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: 1. ` *I
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: August 2 8th, 2026
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+    - 2026.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: Week 35
+    unit: null
+    values:
+    - 35.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: Volume 282, Issue 1250
+    unit: null
+    values:
+    - 282.0
+    - 1250.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: Oil meanwhile surrendered much of the previous week's advance. Brent
+      retreated back toward the high USD 80s per
+    unit: usd
+    values:
+    - 80.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: barrel, while WTI eased into the low USD 80s as improving Gulf flows
+      removed some of the urgency from the supply
+    unit: usd
+    values:
+    - 80.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: Freight moved firmly the other way. The Baltic Dry Index rallied
+      above 3,100 to its strongest level since early June,
+    unit: null
+    values:
+    - 3100.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: GMS market rankings / pricing for week 35 of 2026 are on Page 5.
+    unit: null
+    values:
+    - 35.0
+    - 2026.0
+    - 5.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: previously secured tonnage through the latest tide. Than and Param
+      were delivered on August 28,
+    unit: null
+    values:
+    - 28.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: Bursa on August 27 and Wantong 498 on August 25, while the sizeable
+      27,824 LDT FPSO Glow
+    unit: null
+    values:
+    - 27.0
+    - 498.0
+    - 25.0
+    - 27824.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: arrived on August 27 and Orange Link remains another recent arrival.
+      The beach is therefore
+    unit: null
+    values:
+    - 27.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: Local steel offered no fresh direction, holding at BDT 64,000 per
+      ton, or approximately USD 522 per
+    unit: usd
+    values:
+    - 64000.0
+    - 522.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: range, with Bangladesh Bank's spot reference rate closing August
+      27 near BDT 123.07 to the Dollar.
+    unit: null
+    values:
+    - 27.0
+    - 123.07
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: GGMMSS WWeeeekkllyy Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: The latest port position adds further weight to that improving picture,
+      with the 18,848 LDT LPG carrier
+    unit: null
+    values:
+    - 18848.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: Ble In arriving at Alang on August 23. It follows a productive run
+      of specialist deliveries through recent Specialists lead.
+    unit: null
+    values:
+    - 23.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: plate started the period at INR 40,500 per ton, strengthened through
+      INR 41,000 and briefly touched
+    unit: null
+    values:
+    - 40500.0
+    - 41000.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: INR 41,300, before closing Friday back at INR 41,000, equivalent
+      to approximately USD 429 per ton
+    unit: usd
+    values:
+    - 41300.0
+    - 41000.0
+    - 429.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: against USD 423 at the start of the period. The Rupee has been similarly
+      supportive, recovering from
+    unit: usd
+    values:
+    - 423.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: last week's 95.77 area to around 95.55 against the Dollar by Friday.
+    unit: null
+    values:
+    - 95770.0
+    - 95550.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: committed above USD 550 to USD 560/LDT. That burst of buying finally
+      satisfied part of the pent-
+    unit: usd
+    values:
+    - 550.0
+    - 560.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: The inevitable correction has now followed. Local steel fell from
+      PKR 203,000 per ton, or
+    unit: null
+    values:
+    - 203000.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: approximately USD 730 per ton, to PKR 200,000, near USD 720 per ton,
+      from August 25 onward.
+    unit: usd
+    values:
+    - 730.0
+    - 200000.0
+    - 720.0
+    - 25.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: Prices correct. the waterfront. The 8,128 LDT container vessel Visakha
+      and the 4,990 LDT tanker Lyra both arrived
+    unit: null
+    values:
+    - 8128.0
+    - 4990.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: at Gadani on August 21. Last week's unusual situation, where Pakistan
+      had risen to the top of the
+    unit: null
+    values:
+    - 21.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: The Rupee remains another firm pillar beneath the market. The State
+      Bank's August 28 revaluation
+    unit: null
+    values:
+    - 28.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: rate stood at approximately PKR 277.50 to the Dollar, continuing
+      the remarkable stability and
+    unit: null
+    values:
+    - 277.5
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: HROUGH 48, NICHE HOLDS
+    unit: null
+    values:
+    - 48.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: The Lira continued its orderly slide this week, with USD/TRY moving
+      into the 48.1 to 48.2 range and
+    unit: usd_per_unit
+    values:
+    - 48100.0
+    - 48200.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: official inflation reading remains 31.75% annually and 1.78% monthly,
+      while August consumer
+    unit: pct
+    values:
+    - 31750.0
+    - 1.78
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: confidence improved modestly to 90.8.
+    unit: null
+    values:
+    - 90800.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: For Week 35 of 2026, GMS Market Rankings / Vessel indications are
+      as below.
+    unit: null
+    values:
+    - 35.0
+    - 2026.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: 1 Pakistan Steady 520 / LDT 540 / LDT 550 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 520.0
+    - 540.0
+    - 550.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: 2 Bangladesh Steady 500 / LDT 520 / LDT 530 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 500.0
+    - 520.0
+    - 530.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Steady 465 / LDT 485 / LDT 495 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 465.0
+    - 485.0
+    - 495.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Steady 262-264 / LDT 272-274 / LDT 282-284 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 262.0
+    - -264.0
+    - 272.0
+    - -274.0
+    - 282.0
+    - -284.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line:  44.4 billion kWh of energy saved through ship recycling at Alang
+      could power more than
+    unit: null
+    values:
+    - 44400.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: 3 million households for 10 years.
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: than 276 million cubic yards of material.
+    unit: null
+    values:
+    - 276.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: September 04 - Janmashtami August 26 - September 03
+    unit: null
+    values:
+    - 4.0
+    - 26.0
+    - 3.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: October 02 - Mahatma Gandhi's Birthday September 08 - September 16
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+    - 16.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: August 28 - August 31
+    unit: null
+    values:
+    - 28.0
+    - 31.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: September 04 - Janmashtami
+    unit: null
+    values:
+    - 4.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: September 10 - September 13
+    unit: null
+    values:
+    - 10.0
+    - 13.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: November 09 - Allama Iqbal Day August 30 - Victory Day
+    unit: null
+    values:
+    - 9.0
+    - 30.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: GMS Port Reports Page 7 of 8
+    unit: null
+    values:
+    - 7.0
+    - 8.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: ALANG - Port Position as of August 28, 2026
+    unit: null
+    values:
+    - 28.0
+    - 2026.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: 1 Ble In 18,848 LPG Carrier Arrived August 23
+    unit: null
+    values:
+    - 1.0
+    - 18848.0
+    - 23.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: CHATTOGRAM - Port Position as of August 28, 2026
+    unit: null
+    values:
+    - 28.0
+    - 2026.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: 1 Than 6,357 Wood Chip Carrier Delivered August 28
+    unit: null
+    values:
+    - 1.0
+    - 6357.0
+    - 28.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: 2 Param 9,520 Bulk Carrier Delivered August 28
+    unit: null
+    values:
+    - 2.0
+    - 9520.0
+    - 28.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: 3 Glow (D/VSL) 27,824 FPSO Arrived August 27
+    unit: null
+    values:
+    - 3.0
+    - 27824.0
+    - 27.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: 4 Bursa 15,965 Tanker Delivered August 27
+    unit: null
+    values:
+    - 4.0
+    - 15965.0
+    - 27.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: 5 Wantong 498 1,589 Waste Disposal Vessel Delivered August 25
+    unit: null
+    values:
+    - 5.0
+    - 498.0
+    - 1589.0
+    - 25.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: 6 Orange Link 3,846 Bulk Carrier Arrived August 22
+    unit: null
+    values:
+    - 6.0
+    - 3846.0
+    - 22.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: GADANI - Port Position as of August 28, 2026
+    unit: null
+    values:
+    - 28.0
+    - 2026.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: 1 Visakha 8,128 Container Arrived August 21
+    unit: null
+    values:
+    - 1.0
+    - 8128.0
+    - 21.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: 2 Lyra 4,990 Tanker Arrived August 21
+    unit: null
+    values:
+    - 2.0
+    - 4990.0
+    - 21.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: Steel Plate Prices Page 8 of 8
+    unit: null
+    values:
+    - 8.0
+    - 8.0
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: 8/22/2026 422.98 40,500.00 730.48 203,000.00 522.24 64,000.00 308.75
+    unit: null
+    values:
+    - 8.0
+    - 22.0
+    - 2026.0
+    - 422.98
+    - 40500.0
+    - 730.48
+    - 203000.0
+    - 522.24
+    - 64000.0
+    - 308.75
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: 8/23/2026 422.98 40,500.00 730.48 203,000.00 522.24 64,000.00 308.75
+    unit: null
+    values:
+    - 8.0
+    - 23.0
+    - 2026.0
+    - 422.98
+    - 40500.0
+    - 730.48
+    - 203000.0
+    - 522.24
+    - 64000.0
+    - 308.75
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: 8/24/2026 428.20 41,000.00 730.48 203,000.00 522.24 64,000.00 308.75
+    unit: null
+    values:
+    - 8.0
+    - 24.0
+    - 2026.0
+    - 428.2
+    - 41000.0
+    - 730.48
+    - 203000.0
+    - 522.24
+    - 64000.0
+    - 308.75
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: 8/25/2026 429.72 41,000.00 719.94 200,000.00 522.24 64,000.00 310.23
+    unit: null
+    values:
+    - 8.0
+    - 25.0
+    - 2026.0
+    - 429.72
+    - 41000.0
+    - 719.94
+    - 200000.0
+    - 522.24
+    - 64000.0
+    - 310.23
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: 8/26/2026 432.87 41,300.00 719.94 200,000.00 522.24 64,000.00 310.23
+    unit: null
+    values:
+    - 8.0
+    - 26.0
+    - 2026.0
+    - 432.87
+    - 41300.0
+    - 719.94
+    - 200000.0
+    - 522.24
+    - 64000.0
+    - 310.23
+  - section: 'Linked asset: 2026-08-29_gms-week-35-sanctions-loom-hulls_ship-recycling-market-insight-week-3_27f80d68d6a1.pdf'
+    section_type: linked_pdf
+    source_line: 8/27/2026 429.45 41,000.00 719.94 200,000.00 522.24 64,000.00 310.23
+    unit: null
+    values:
+    - 8.0
+    - 27.0
+    - 2026.0
+    - 429.45
+    - 41000.0
+    - 719.94
+    - 200000.0
+    - 522.24
+    - 64000.0
+    - 310.23
 source: hellenic
 source_path: reports/hellenic/demolition/2026/2026-08-29_gms-week-35-sanctions-loom-hulls.html
 source_stem: 2026-08-29_gms-week-35-sanctions-loom-hulls

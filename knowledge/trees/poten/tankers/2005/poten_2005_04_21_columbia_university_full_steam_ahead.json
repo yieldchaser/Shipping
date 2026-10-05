@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_04_21_columbia_university_full_steam_ahead__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_04_21_columbia_university_full_steam_ahead",
+  "parent_id": null,
+  "title": "Columbia University: Full Steam Ahead!",
+  "section_path": [
+    "Columbia University: Full Steam Ahead!"
+  ],
+  "section_path_text": "Columbia University: Full Steam Ahead!",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "New York City has long been considered a financial epicenter and is home to the world's largest stock exchange on Wall Street, the NYMEX for commodity trading and a very active over-the-counter bond market. In recent years energy has taken a more central role in world affairs and New York City is once again playing a leading role. The Center for Energy, Marine Transportation and Public Policy at Columbia University (CEMTPP) has fostered the development of a burgeoning community of energy enthusiasts in both industry and academia.",
+  "keywords": [
+    "china",
+    "crude_oil",
+    "energy",
+    "center",
+    "transportation",
+    "exxonmobil",
+    "was",
+    "clear",
+    "growth",
+    "marine",
+    "market.",
+    "policy"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 679,
+  "source_path": "reports/poten/2005/poten_2005-04-21_columbia-university-full-steam-ahead.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_04_21_columbia_university_full_steam_ahead__s01_columbia_university_full_steam_ahead",
+      "doc_id": "poten_tankers_no_date_poten_2005_04_21_columbia_university_full_steam_ahead",
+      "parent_id": "poten_tankers_no_date_poten_2005_04_21_columbia_university_full_steam_ahead__root",
+      "title": "Columbia University: Full Steam Ahead!",
+      "section_path": [
+        "Columbia University: Full Steam Ahead!"
+      ],
+      "section_path_text": "Columbia University: Full Steam Ahead!",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "New York City has long been considered a financial epicenter and is home to the world's largest stock exchange on Wall Street, the NYMEX for commodity trading and a very active over-the-counter bond market. In recent years energy has taken a more central role in world affairs and New York City is once again playing a leading role.",
+      "keywords": [
+        "energy",
+        "center",
+        "transportation",
+        "marine",
+        "policy",
+        "analysis",
+        "city",
+        "courses"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 258,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_04_21_columbia_university_full_steam_ahead__s02_it_takes_industry_support_too",
+      "doc_id": "poten_tankers_no_date_poten_2005_04_21_columbia_university_full_steam_ahead",
+      "parent_id": "poten_tankers_no_date_poten_2005_04_21_columbia_university_full_steam_ahead__root",
+      "title": "It Takes Industry Support Too!",
+      "section_path": [
+        "It Takes Industry Support Too!"
+      ],
+      "section_path_text": "It Takes Industry Support Too!",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "In addition to the dedicated faculty that teaches the core coursework the curriculum is enhanced with industry executives. It is not surprising to see the head of a transportation group for a large oil company lecturing students about the intricacies of serving the needs of a complex worldwide refining system or the CEO of a large public tanker company sharing his views on the tanker market.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "energy",
+        "center",
+        "exxonmobil",
+        "clear",
+        "growth",
+        "was"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 407,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2023_07_14_sea_change_in_product_trades__root",
+  "doc_id": "poten_tankers_no_date_poten_2023_07_14_sea_change_in_product_trades",
+  "parent_id": null,
+  "title": "Sea Change In Product Trades",
+  "section_path": [
+    "Sea Change In Product Trades"
+  ],
+  "section_path_text": "Sea Change In Product Trades",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "European import ban has boosted global product flows\nIn retaliation for the invasion of Ukraine, the EU banned the imports of all Russian refined products starting 5 February 2023. At the same time, a global price cap was put in place by the G7 countries. This price cap bars Russian access to western shipping companies, insurers and other maritime service providers, unless the refined products are sold for $100/barrel or less.",
+  "keywords": [
+    "handysize",
+    "brazil",
+    "west_africa",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "gas",
+    "product",
+    "russia",
+    "russian",
+    "countries"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 894,
+  "source_path": "reports/poten/2023/poten_2023-07-14_sea-change-in-product-trades.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2023_07_14_sea_change_in_product_trades__s01_european_import_ban_has_boosted_global_product_flows",
+      "doc_id": "poten_tankers_no_date_poten_2023_07_14_sea_change_in_product_trades",
+      "parent_id": "poten_tankers_no_date_poten_2023_07_14_sea_change_in_product_trades__root",
+      "title": "European import ban has boosted global product flows",
+      "section_path": [
+        "European import ban has boosted global product flows"
+      ],
+      "section_path_text": "European import ban has boosted global product flows",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In retaliation for the invasion of Ukraine, the EU banned the imports of all Russian refined products starting 5 February 2023. At the same time, a global price cap was put in place by the G7 countries.",
+      "keywords": [
+        "handysize",
+        "brazil",
+        "west_africa",
+        "europe",
+        "india",
+        "crude_oil",
+        "products",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 885,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

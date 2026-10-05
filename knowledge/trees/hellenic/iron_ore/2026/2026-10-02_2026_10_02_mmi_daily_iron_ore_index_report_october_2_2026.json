@@ -1,0 +1,118 @@
+{
+  "node_id": "hellenic_iron_ore_2026-10-02_2026_10_02_mmi_daily_iron_ore_index_report_october_2_2026__root",
+  "doc_id": "hellenic_iron_ore_2026-10-02_2026_10_02_mmi_daily_iron_ore_index_report_october_2_2026",
+  "parent_id": null,
+  "title": "MMI Daily Iron Ore Index Report October 2 2026",
+  "section_path": [
+    "MMI Daily Iron Ore Index Report October 2 2026"
+  ],
+  "section_path_text": "MMI Daily Iron Ore Index Report October 2 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nOn the second session of the holiday China stayed dark across the board and the seaborne market againpriced alone: the MMi 61% seaborne index fell to USD 92.35/dmt (-0.70%) and the 65% to 111.15 (-0.54%). Across the two closed sessions the 61% is down USD 1.85 (-1.96%) and the 65% USD 0.85 (-0.76%), widening the index-basis high-low spread from USD 17.80 to 18.80 - the same direction as the port spot spread reaching 200 yuan/wmt before the break. At the brand level, though, the structure inverted overnight: yesterday low grades led the fall, today they stood alone on the upside.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "india",
+    "iron_ore",
+    "products",
+    "smm",
+    "ore",
+    "fines",
+    "holiday",
+    "usd",
+    "daily"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 6192,
+  "source_path": "reports/hellenic/iron_ore/2026/2026-10-02_mmi-daily-iron-ore-index-report-october-2-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-october-2-2026",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2026-10-02_2026_10_02_mmi_daily_iron_ore_index_report_october_2_2026__s01_main",
+      "doc_id": "hellenic_iron_ore_2026-10-02_2026_10_02_mmi_daily_iron_ore_index_report_october_2_2026",
+      "parent_id": "hellenic_iron_ore_2026-10-02_2026_10_02_mmi_daily_iron_ore_index_report_october_2_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "On the second session of the holiday China stayed dark across the board and the seaborne market againpriced alone: the MMi 61% seaborne index fell to USD 92.35/dmt (-0.70%) and the 65% to 111.15 (-0.54%). Across the two closed sessions the 61% is down USD 1.85 (-1.96%) and the 65% USD 0.85 (-0.76%), widening the index-basis high-low spread from USD 17.80 to 18.80 - the same direction as the port spot spread reaching 200 yuan/wmt before the break.",
+      "keywords": [
+        "china",
+        "brazil",
+        "iron_ore",
+        "usd",
+        "fines",
+        "cut",
+        "first",
+        "guidance"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 682,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2026-10-02_2026_10_02_mmi_daily_iron_ore_index_report_october_2_2026__s02_linked_asset_2026_10_02_mmi_daily_iron_ore_index_report_october_2_2026_222_9702c127b4f4_jpg",
+      "doc_id": "hellenic_iron_ore_2026-10-02_2026_10_02_mmi_daily_iron_ore_index_report_october_2_2026",
+      "parent_id": "hellenic_iron_ore_2026-10-02_2026_10_02_mmi_daily_iron_ore_index_report_october_2_2026__root",
+      "title": "Linked asset: 2026-10-02_mmi-daily-iron-ore-index-report-october-2-2026_222_9702c127b4f4.jpg",
+      "section_path": [
+        "Linked asset: 2026-10-02_mmi-daily-iron-ore-index-report-october-2-2026_222_9702c127b4f4.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-10-02_mmi-daily-iron-ore-index-report-october-2-2026_222_9702c127b4f4.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/iron_ore/2026/assets/2026-10-02_mmi-daily-iron-ore-index-report-october-2-2026_222_9702c127b4f4.jpg\n\nLinked image asset: 2026-10-02_mmi-daily-iron-ore-index-report-october-2-2026_222_9702c127b4f4.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\n| ul SMM Iron Ore Price Index Seaborne as of Oct 2: port spot not quoted\nMMi 61% Port Spot Daily MMi 58% Port Spot Daily MMi 65% Port Spot Daily\n674 yuan/wmt 638 yuan/wmt 838 yuan/wmt\nNo quotation (holiday) No quotation (holiday) No quotation (holiday)\nas of 09-30 as of 09-30 as of 09-30\nMTD avg 692 MTD avg 647 MTD avg 840\nMMi 61% Seaborne Index Daily MMi 65% Seaborne Index Daily SMM Domestic Ore Composite Index\nDaily\n92.35 USD/dmt 1 1 1 1 5 USD/dmt 83 1 59 7\nv-0. So\n0.65 -0.70% 0.60 -0.54% ¥-5.86 -0.70%\nMTD avg 92.67 MTD avg 111.45 MTD avg 840.09\nwww.mmiprices.com jarek@mmiprices.com",
+      "keywords": [
+        "iron_ore",
+        "avg",
+        "daily",
+        "mtd",
+        "mmi",
+        "port",
+        "holiday",
+        "quotation"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 372,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2026-10-02_2026_10_02_mmi_daily_iron_ore_index_report_october_2_2026__s03_linked_asset_2026_10_02_mmi_daily_iron_ore_index_report_october_2_2026_iron_ore_daily_20261002_en_656b031cfa28_pdf",
+      "doc_id": "hellenic_iron_ore_2026-10-02_2026_10_02_mmi_daily_iron_ore_index_report_october_2_2026",
+      "parent_id": "hellenic_iron_ore_2026-10-02_2026_10_02_mmi_daily_iron_ore_index_report_october_2_2026__root",
+      "title": "Linked asset: 2026-10-02_mmi-daily-iron-ore-index-report-october-2-2026_iron-ore-daily-20261002-en_656b031cfa28.pdf",
+      "section_path": [
+        "Linked asset: 2026-10-02_mmi-daily-iron-ore-index-report-october-2-2026_iron-ore-daily-20261002-en_656b031cfa28.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-10-02_mmi-daily-iron-ore-index-report-october-2-2026_iron-ore-daily-20261002-en_656b031cfa28.pdf",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2026-10-02_mmi-daily-iron-ore-index-report-october-2-2026_iron-ore-daily-20261002-en_656b031cfa28.pdf\n\nSMM IRON ORE D A I LY\n\n2026-10-02 Friday · Imported & Domestic Ore · Prices · Supply-Demand · Inventory · Commentary\n\nSource SMM Data-pro\n\n### Futures ContractsClosing price\n\nSGX Iron Ore Most-traded Contract Daily DCE Iron Ore Most-traded I2701 Daily\n\n# 93.43USD/dmt 702.5yuan/mt\n\n#### ▼ -0.07-0.07% ▲ +3.5 +0.50%\n\nMTD avg 93.43 MTD avg 717.4 As of Oct 1 · vs Sep 30 Closed for the National Day holiday · close as of Sep 30\n\n### SMM Iron Ore Price IndexSeaborne as of Oct 2 · port spot not quoted\n\nMMi 61% Port Spot Daily MMi 58% Port Spot Daily MMi 65% Port Spot Daily\n\n## 674 yuan/wmt 638 yuan/wmt 838 yuan/wmt\n\nNo quotation (holiday) No quotation (holiday) No quotation (holiday) as of 09-30 as of 09-30 as of 09-30 MTD avg 692 MTD avg 647 MTD avg 840\n\nMMi 61% Seaborne Index Daily MMi 65% Seaborne Index Daily SMM Domestic Ore Composite Index Daily\n\n## 92.35 USD/dmt 111.15 USD/dmt 831.59 yuan/mt\n\n▼ -0.65-0.70% ▼ -0.60-0.54%\n\n|||||▼ -5.86|-0.70%|\n|---|---|---|---|---|---|\n|MTD avg 92.67||MTD avg 111.45||MTD avg 840.09 index as of Sep 24 · vs Se",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "india",
+        "iron_ore",
+        "products",
+        "smm",
+        "ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5046,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

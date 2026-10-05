@@ -1,0 +1,230 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2009_03_20_the_mean_clean_streets__root",
+  "doc_id": "poten_tankers_no_date_poten_2009_03_20_the_mean_clean_streets",
+  "parent_id": null,
+  "title": "The Mean Clean Streets",
+  "section_path": [
+    "The Mean Clean Streets"
+  ],
+  "section_path_text": "The Mean Clean Streets",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Mean Clean Streets\nA year ago, United States gasoline stocks had reached a 15 year high at over 235 million bbls in the coffers. Since then, gasoline stocks have retreated to as low as 178 million bbls before recovering to the current level of 215 million bbls - still down 7% from last March's high. In contrast, US crude oil working stocks reached a 15 year high this March at over 353 million bbls.",
+  "keywords": [
+    "brazil",
+    "atlantic",
+    "europe",
+    "grain",
+    "crude_oil",
+    "products",
+    "gas",
+    "gasoline",
+    "crude",
+    "oil",
+    "stocks",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 805,
+  "source_path": "reports/poten/2009/poten_2009-03-20_the-mean-clean-streets.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_03_20_the_mean_clean_streets__s01_the_mean_clean_streets",
+      "doc_id": "poten_tankers_no_date_poten_2009_03_20_the_mean_clean_streets",
+      "parent_id": "poten_tankers_no_date_poten_2009_03_20_the_mean_clean_streets__root",
+      "title": "The Mean Clean Streets",
+      "section_path": [
+        "The Mean Clean Streets"
+      ],
+      "section_path_text": "The Mean Clean Streets",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "A year ago, United States gasoline stocks had reached a 15 year high at over 235 million bbls in the coffers. Since then, gasoline stocks have retreated to as low as 178 million bbls before recovering to the current level of 215 million bbls - still down 7% from last March's high.",
+      "keywords": [
+        "grain",
+        "crude_oil",
+        "products",
+        "gas",
+        "gasoline",
+        "million",
+        "stocks",
+        "bbls"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 185,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_03_20_the_mean_clean_streets__s02_crude_oil_excluding_spr",
+      "doc_id": "poten_tankers_no_date_poten_2009_03_20_the_mean_clean_streets",
+      "parent_id": "poten_tankers_no_date_poten_2009_03_20_the_mean_clean_streets__root",
+      "title": "Crude Oil (Excluding SPR*)",
+      "section_path": [
+        "Crude Oil (Excluding SPR*)"
+      ],
+      "section_path_text": "Crude Oil (Excluding SPR*)",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Gasoline Linear (Crude Oil (Excluding SPR*)) Linear (Gasoline)",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "gasoline",
+        "linear",
+        "crude",
+        "excluding",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 17,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_03_20_the_mean_clean_streets__s03_spr_strategic_petroleum_reserves",
+      "doc_id": "poten_tankers_no_date_poten_2009_03_20_the_mean_clean_streets",
+      "parent_id": "poten_tankers_no_date_poten_2009_03_20_the_mean_clean_streets__root",
+      "title": "*SPR: Strategic Petroleum Reserves",
+      "section_path": [
+        "*SPR: Strategic Petroleum Reserves"
+      ],
+      "section_path_text": "*SPR: Strategic Petroleum Reserves",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The deflation in the price of crude oil since the record high of July 2008 coupled with softened demand has prompted stocks to reach their current level. Lower gasoline stocks, on the other hand, may be traced back to decreased refinery utilization to support fragile margins.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "stocks",
+        "back",
+        "coupled",
+        "crude",
+        "current"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 53,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_03_20_the_mean_clean_streets__s04_use_it_or_lose_it",
+      "doc_id": "poten_tankers_no_date_poten_2009_03_20_the_mean_clean_streets",
+      "parent_id": "poten_tankers_no_date_poten_2009_03_20_the_mean_clean_streets__root",
+      "title": "Use It or Lose It",
+      "section_path": [
+        "Use It or Lose It"
+      ],
+      "section_path_text": "Use It or Lose It",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "According to the Energy Intelligence Agency (EIA) current US refinery utilization is at 82.1%, well below the five‐year average of 89.5%. Since the beginning of 2009 US refinery utilization has been below long term averages, and as seen in the chart below, is following a downward trend of sub‐average production levels.",
+      "keywords": [
+        "below",
+        "utilization",
+        "average",
+        "iii",
+        "long",
+        "refinery",
+        "according",
+        "activity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 112,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_03_20_the_mean_clean_streets__s05_gasoline_imports",
+      "doc_id": "poten_tankers_no_date_poten_2009_03_20_the_mean_clean_streets",
+      "parent_id": "poten_tankers_no_date_poten_2009_03_20_the_mean_clean_streets__root",
+      "title": "Gasoline Imports",
+      "section_path": [
+        "Gasoline Imports"
+      ],
+      "section_path_text": "Gasoline Imports",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Refinery Utilization Linear (Gasoline Imports) The dotted trend line in the chart above provides a linear representation of how US gasoline imports have progressed over the past six years. While the opening months of 2009 have seen weekly import levels both 25% above and below their five‐year average of roughly 1 million bbls per day, the long‐term upward import trend could likely mean more cargoes for the MR market when demand revives.",
+      "keywords": [
+        "products",
+        "gas",
+        "above",
+        "gasoline",
+        "import",
+        "imports",
+        "linear",
+        "trend"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 93,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_03_20_the_mean_clean_streets__s06_cracking_the_market",
+      "doc_id": "poten_tankers_no_date_poten_2009_03_20_the_mean_clean_streets",
+      "parent_id": "poten_tankers_no_date_poten_2009_03_20_the_mean_clean_streets__root",
+      "title": "Cracking the Market",
+      "section_path": [
+        "Cracking the Market"
+      ],
+      "section_path_text": "Cracking the Market",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "MR owners may be searching for any glimmer of hope as freight rates in the UK Continent - US Atlantic Coast (UKC‐USAC) and Caribbean - US Atlantic Coast (CAR‐USAC) trades recently reflected timecharter equivalent earnings of roughly $4,000 per day and $6,700 per day, respectively. While these near break‐even earnings haunt MR owners for now, hope could lie in the US refinery crack spread.",
+      "keywords": [
+        "brazil",
+        "atlantic",
+        "europe",
+        "products",
+        "gas",
+        "coast",
+        "crack",
+        "day"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 148,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_03_20_the_mean_clean_streets__s07_to_drive_or_not_to_drive",
+      "doc_id": "poten_tankers_no_date_poten_2009_03_20_the_mean_clean_streets",
+      "parent_id": "poten_tankers_no_date_poten_2009_03_20_the_mean_clean_streets__root",
+      "title": "To Drive or Not to Drive?",
+      "section_path": [
+        "To Drive or Not to Drive?"
+      ],
+      "section_path_text": "To Drive or Not to Drive?",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Summer is a few months away and the prospect of the peak driving season traditionally leads to a rise in gasoline stocks this time of year. However now with the anticipated lower demand potential and weaker pricing, this does not seem to be the case.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "demand",
+        "gasoline",
+        "any",
+        "crude",
+        "does"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 153,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2021_05_14_no_quick_fix_1__root",
+  "doc_id": "poten_tankers_no_date_poten_2021_05_14_no_quick_fix_1",
+  "parent_id": null,
+  "title": "No Quick Fix 1",
+  "section_path": [
+    "No Quick Fix 1"
+  ],
+  "section_path_text": "No Quick Fix 1",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "No Quick Fix\nTanker market pundits seem to be in either one of two camps. The optimists foresee a rapid recovery of rates in the second half of 2021, driven by post Covid demand recovery, while the pessimists don't see any recovery before 2022 or even 2023. The main argument of the pessimists is the overcapacity in the tanker market.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "crude_oil",
+    "demand",
+    "oil",
+    "recovery",
+    "crude",
+    "fleet",
+    "levels",
+    "ton-mile",
+    "was"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 941,
+  "source_path": "reports/poten/2021/poten_2021-05-14_no-quick-fix-1.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2021_05_14_no_quick_fix_1__s01_no_quick_fix",
+      "doc_id": "poten_tankers_no_date_poten_2021_05_14_no_quick_fix_1",
+      "parent_id": "poten_tankers_no_date_poten_2021_05_14_no_quick_fix_1__root",
+      "title": "No Quick Fix",
+      "section_path": [
+        "No Quick Fix"
+      ],
+      "section_path_text": "No Quick Fix",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Tanker market pundits seem to be in either one of two camps. The optimists foresee a rapid recovery of rates in the second half of 2021, driven by post Covid demand recovery, while the pessimists don't see any recovery before 2022 or even 2023.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "crude_oil",
+        "demand",
+        "oil",
+        "recovery",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 937,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2024_06_07_danger_ahead__root",
+  "doc_id": "poten_tankers_no_date_poten_2024_06_07_danger_ahead",
+  "parent_id": null,
+  "title": "Danger Ahead",
+  "section_path": [
+    "Danger Ahead"
+  ],
+  "section_path_text": "Danger Ahead",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Weather forecasters predict a very active hurricane season\nWe are in June and that means, that the Atlantic hurricane season, which runs from June 1 st to November 30 th , has officially started. On May 23, the National Oceanic and Atmospheric Administration (NOAA) announced their 2024 Atlantic hurricane season outlook and they expected it to be the most active one America has ever experienced. According to the NOAA, there is an 85% chance of an above normal season.",
+  "keywords": [
+    "atlantic",
+    "pacific",
+    "us_gulf",
+    "crude_oil",
+    "gas",
+    "oil",
+    "hurricanes",
+    "hurricane",
+    "u.s.",
+    "major",
+    "gulf",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 930,
+  "source_path": "reports/poten/2024/poten_2024-06-07_danger-ahead.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2024_06_07_danger_ahead__s01_weather_forecasters_predict_a_very_active_hurricane_season",
+      "doc_id": "poten_tankers_no_date_poten_2024_06_07_danger_ahead",
+      "parent_id": "poten_tankers_no_date_poten_2024_06_07_danger_ahead__root",
+      "title": "Weather forecasters predict a very active hurricane season",
+      "section_path": [
+        "Weather forecasters predict a very active hurricane season"
+      ],
+      "section_path_text": "Weather forecasters predict a very active hurricane season",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "We are in June and that means, that the Atlantic hurricane season, which runs from June 1 st to November 30 th , has officially started. On May 23, the National Oceanic and Atmospheric Administration (NOAA) announced their 2024 Atlantic hurricane season outlook and they expected it to be the most active one America has ever experienced.",
+      "keywords": [
+        "atlantic",
+        "pacific",
+        "us_gulf",
+        "crude_oil",
+        "gas",
+        "oil",
+        "hurricanes",
+        "u.s."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 920,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

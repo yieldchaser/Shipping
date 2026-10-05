@@ -1,0 +1,209 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_03_16_irans_irony__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_03_16_irans_irony",
+  "parent_id": null,
+  "title": "Iran's Irony",
+  "section_path": [
+    "Iran's Irony"
+  ],
+  "section_path_text": "Iran's Irony",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Iran's Irony\nAfter the February 21, 2007 deadline to cease uranium enrichment went unheeded, the UN quickly reached a decision to pursue additional sanctions against Iran. Members of the UN are working toward a proposed resolution that would put an embargo on Iranian arms exports and expand the freezing assets and accounts belonging to individuals and companies that are potentially involved in nuclear and ballistics programs. The stricter sanctions will likely further complicate the relationship between Iran and the West.",
+  "keywords": [
+    "crude_oil",
+    "products",
+    "gas",
+    "iran",
+    "bbl/day",
+    "oil",
+    "per",
+    "capacity",
+    "crude",
+    "gasoline",
+    "are",
+    "consumption"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 558,
+  "source_path": "reports/poten/2007/poten_2007-03-16_irans-irony.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_03_16_irans_irony__s01_iran_s_irony",
+      "doc_id": "poten_tankers_no_date_poten_2007_03_16_irans_irony",
+      "parent_id": "poten_tankers_no_date_poten_2007_03_16_irans_irony__root",
+      "title": "Iran's Irony",
+      "section_path": [
+        "Iran's Irony"
+      ],
+      "section_path_text": "Iran's Irony",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "After the February 21, 2007 deadline to cease uranium enrichment went unheeded, the UN quickly reached a decision to pursue additional sanctions against Iran. Members of the UN are working toward a proposed resolution that would put an embargo on Iranian arms exports and expand the freezing assets and accounts belonging to individuals and companies that are potentially involved in nuclear and ballistics programs.",
+      "keywords": [
+        "crude_oil",
+        "iran",
+        "are",
+        "oil",
+        "sanctions",
+        "supply",
+        "accounts",
+        "additional"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 128,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_03_16_irans_irony__s02_iranian",
+      "doc_id": "poten_tankers_no_date_poten_2007_03_16_irans_irony",
+      "parent_id": "poten_tankers_no_date_poten_2007_03_16_irans_irony__root",
+      "title": "Iranian",
+      "section_path": [
+        "Iranian"
+      ],
+      "section_path_text": "Iranian",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "revolution"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_03_16_irans_irony__s03_production",
+      "doc_id": "poten_tankers_no_date_poten_2007_03_16_irans_irony",
+      "parent_id": "poten_tankers_no_date_poten_2007_03_16_irans_irony__root",
+      "title": "Production",
+      "section_path": [
+        "Production"
+      ],
+      "section_path_text": "Production",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "One trait that puts Iran at a significant disadvantage is its high reliance on imported gasoline and refined products. What is surprising is that a country with such vast crude oil and natural gas resources has not focused on building refining capacity in step with growing domestic demand.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "capacity",
+        "refining",
+        "bbl/day",
+        "country",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 116,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_03_16_irans_irony__s04_kermanshah",
+      "doc_id": "poten_tankers_no_date_poten_2007_03_16_irans_irony",
+      "parent_id": "poten_tankers_no_date_poten_2007_03_16_irans_irony__root",
+      "title": "Kermanshah",
+      "section_path": [
+        "Kermanshah"
+      ],
+      "section_path_text": "Kermanshah",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "bbl/day"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_03_16_irans_irony__s05_lavan_island",
+      "doc_id": "poten_tankers_no_date_poten_2007_03_16_irans_irony",
+      "parent_id": "poten_tankers_no_date_poten_2007_03_16_irans_irony__root",
+      "title": "Lavan Island",
+      "section_path": [
+        "Lavan Island"
+      ],
+      "section_path_text": "Lavan Island",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "",
+      "keywords": [
+        "bbl/day"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_03_16_irans_irony__s06_bandar_abbas",
+      "doc_id": "poten_tankers_no_date_poten_2007_03_16_irans_irony",
+      "parent_id": "poten_tankers_no_date_poten_2007_03_16_irans_irony__root",
+      "title": "Bandar Abbas",
+      "section_path": [
+        "Bandar Abbas"
+      ],
+      "section_path_text": "Bandar Abbas",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "232,000 bbl/day Not surprisingly, government controls and petroleum subsidies have encouraged waste and been a drain on the fiscal health of the country. Gasoline consumption in Iran is reportedly growing at a rapid annual pace of 10% per year, a statistic that is linked to the fact that the country's population doubled in the past 40 years, and the price of gasoline is cheap.",
+      "keywords": [
+        "products",
+        "gas",
+        "per",
+        "gasoline",
+        "price",
+        "reportedly",
+        "annual",
+        "approved"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 126,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_03_16_irans_irony__s07_tapping_the_industry",
+      "doc_id": "poten_tankers_no_date_poten_2007_03_16_irans_irony",
+      "parent_id": "poten_tankers_no_date_poten_2007_03_16_irans_irony__root",
+      "title": "Tapping the Industry",
+      "section_path": [
+        "Tapping the Industry"
+      ],
+      "section_path_text": "Tapping the Industry",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "US congressmen in particular are urging even more stringent sanctions on foreign companies investing in Iran's oil and gas sectors. In addition, the UN strongly urges that new grants or loans be barred, with the exception of those aimed toward humanitarianism.",
+      "keywords": [
+        "crude_oil",
+        "gas",
+        "foreign",
+        "nearly",
+        "oil",
+        "production",
+        "according",
+        "action."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 141,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

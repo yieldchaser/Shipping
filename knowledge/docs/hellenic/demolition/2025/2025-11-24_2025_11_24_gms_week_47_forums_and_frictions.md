@@ -7,6 +7,7 @@ commodities:
 date: '2025-11-24'
 doc_id: hellenic_demolition_2025-11-24_2025_11_24_gms_week_47_forums_and_frictions
 document_type: demolition_update
+is_error_page: false
 key_entities:
 - China
 keywords:
@@ -101,10 +102,11 @@ numeric_observations:
   - -11.0
   - -24.0
   - 47.0
+  - 1.0
   - 1566.0
   - 57449.0
-  - 5.0
-  - 3.0
+  - 95.0
+  - 83.0
 - section: 'Linked asset: 2025-11-24_gms-week-47-forums-and-frictions_ship-recycling-market-insight-week-4_5f2ad405b927.pdf'
   section_type: linked_pdf
   source_line: Novemb er 21st, 2025
@@ -809,9 +811,9 @@ numeric_observations:
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
   values:
-  - 30.21
+  - 30210.0
   - 899.0669
-  - 91.278
+  - 91278.0
   - 300.5253
 - section: 'Linked asset: 2025-11-24_gms-week-47-forums-and-frictions_ship-recycling-market-insight-week-4_5f2ad405b927.pdf'
   section_type: linked_pdf
@@ -836,7 +838,7 @@ numeric_observations:
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
   values:
-  - 86.216
+  - 86216.0
   - 75.19
   - 82.1
   - 4650.072
@@ -858,17 +860,18 @@ numeric_observations:
   - -11.0
   - -24.0
   - 47.0
+  - 1.0
   - 1566.0
   - 57449.0
-  - 5.0
-  - 3.0
+  - 95.0
+  - 83.0
 - section: 'Linked asset: 2025-11-24_gms-week-47-forums-and-frictions_img1_1566_57449df95f83.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 688x153 mode=RGB'
   unit: null
   values:
   - 688.0
-  - 53.0
+  - 153.0
 - section: 'Linked asset: 2025-11-24_gms-week-47-forums-and-frictions_img1_1566_57449df95f83.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'

@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_10_15_whatever_floats_your_boat__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_10_15_whatever_floats_your_boat",
+  "parent_id": null,
+  "title": "Whatever Floats Your Boat",
+  "section_path": [
+    "Whatever Floats Your Boat"
+  ],
+  "section_path_text": "Whatever Floats Your Boat",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Whatever Floats Your Boat\nIt seems that summer has made bears of us all. And with the outlook for the fourth quarter looking less promising, owners and analysts alike have been searching for signs of life in a seemingly comatose tanker market. The single hull phase out has marched on with little observable effect, and the influx of newbuilding tonnage is stoking fears of overcapacity.",
+  "keywords": [
+    "vlcc",
+    "crude_oil",
+    "storage",
+    "crude",
+    "oil",
+    "contango",
+    "floating",
+    "cost",
+    "deals",
+    "month",
+    "barrel",
+    "brent"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 618,
+  "source_path": "reports/poten/2010/poten_2010-10-15_whatever-floats-your-boat.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_10_15_whatever_floats_your_boat__s01_whatever_floats_your_boat",
+      "doc_id": "poten_tankers_no_date_poten_2010_10_15_whatever_floats_your_boat",
+      "parent_id": "poten_tankers_no_date_poten_2010_10_15_whatever_floats_your_boat__root",
+      "title": "Whatever Floats Your Boat",
+      "section_path": [
+        "Whatever Floats Your Boat"
+      ],
+      "section_path_text": "Whatever Floats Your Boat",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "It seems that summer has made bears of us all. And with the outlook for the fourth quarter looking less promising, owners and analysts alike have been searching for signs of life in a seemingly comatose tanker market.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "storage",
+        "crude",
+        "made",
+        "market.",
+        "oil",
+        "quarter"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 189,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_10_15_whatever_floats_your_boat__s02_million_bbls",
+      "doc_id": "poten_tankers_no_date_poten_2010_10_15_whatever_floats_your_boat",
+      "parent_id": "poten_tankers_no_date_poten_2010_10_15_whatever_floats_your_boat__root",
+      "title": "Million BBLS",
+      "section_path": [
+        "Million BBLS"
+      ],
+      "section_path_text": "Million BBLS",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "One cannot mention floating storage without a brief song and dance about petroleum markets. The dance here of course is the contango, which occurs when the spot price of a commodity is lower than the future price.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "crude",
+        "storage",
+        "oil",
+        "brent",
+        "contango",
+        "cost"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 307,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_10_15_whatever_floats_your_boat__s03_chart_6_month_crude_oil_contango_vs_cost_of_floating_storage",
+      "doc_id": "poten_tankers_no_date_poten_2010_10_15_whatever_floats_your_boat",
+      "parent_id": "poten_tankers_no_date_poten_2010_10_15_whatever_floats_your_boat__root",
+      "title": "Chart: 6 Month Crude Oil Contango vs. Cost of Floating Storage",
+      "section_path": [
+        "Chart: 6 Month Crude Oil Contango vs. Cost of Floating Storage"
+      ],
+      "section_path_text": "Chart: 6 Month Crude Oil Contango vs. Cost of Floating Storage",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Floating Storage Cost per Barrel ‐ 6 Month Crude Oil Contango ‐ 6 Month These additional costs are significant factors in the profitability of storage plays and further narrow the window of opportunity for traders seeking to hold cargo at sea. While the past year and a half has seen the crude oil market in constant contango, demand for floating storage deals are unlikely to emerge unless the spread between spot and future crude oil prices opens wide enough to cover these operational costs.",
+      "keywords": [
+        "crude_oil",
+        "crude",
+        "oil",
+        "storage",
+        "are",
+        "contango",
+        "floating",
+        "month"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 94,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

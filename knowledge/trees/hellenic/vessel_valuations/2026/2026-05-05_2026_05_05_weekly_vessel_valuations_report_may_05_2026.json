@@ -21,13 +21,13 @@
     "gas",
     "usd",
     "mil",
-    "sold",
-    "value"
+    "noo",
+    "sold"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1324,
-  "source_path": "corpus/02-hellenic/vessel_valuations/2026/2026-05-05_weekly-vessel-valuations-report-may-05-2026.html",
+  "token_count": 2201,
+  "source_path": "reports/hellenic/vessel_valuations/2026/2026-05-05_weekly-vessel-valuations-report-may-05-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-may-05-2026",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2026/assets/2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg\n\nLinked image asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg\n\nImage metadata: JPEG 600x279 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\n© Vessels Vase mma\n05 May 2026 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra um mn Cape Pmax = Supra. Handy fscs Pmax Handy Fmax\n° 5 1.0% .",
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg\n\nLinked image asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg\n\nImage metadata: JPEG 600x279 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\n[structured table]\n| © | Vessels | | | | | | | mma | | | | | | |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| | 05 May 2026 | | | | | VV | Mini Matrix | - | Weekly | Change | | | | |\n| | | | | Tankers | | | | | Bulkers | | | Containers | | |\n| | Year | | Suez | Afra | um | mn | Cape | | = Supra. | Handy | | Pmax | Handy | Fmax |\n| | ° | 1.0% | 0.6% | 20.1% | 10.2% | 20.9% | 10.6% | 0.0% | OD | 02% | 7188 | 0.2% | | 70.3% |\n| | | 5 320k | \"160k | | 73k | 50k | a 180k | 82k | 62k | 38k | 5 7000\" | 4280 | 5 | noo |\n| | 5 | Ls | OS® | | 70.2% | 1s | 705% | 02 | 10.9% | OD | 117% | 20.2% | 1s | 10.2% |\n| | | 320k | \"160k | nok | 5 73k | S0k | 180k | 82 | 60k | 38k | 7000\" | 4250 | | noo |\n| | w | Vs | | 06% | 10.2% | 123% | 705% | | +2.0% | 02% | | 20.2% | 718% | 0.0% |\n| | | 320k | \"160k | nok | 73k | .",
       "keywords": [
         "capesize",
         "supramax",
@@ -77,12 +77,12 @@
         "container",
         "noo",
         "nok",
-        "asset",
-        "handy"
+        "handy",
+        "pmax"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 757,
+      "token_count": 1634,
       "section_type": "linked_image_asset",
       "children": []
     }

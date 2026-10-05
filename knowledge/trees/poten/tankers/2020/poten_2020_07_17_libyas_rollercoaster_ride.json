@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2020_07_17_libyas_rollercoaster_ride__root",
+  "doc_id": "poten_tankers_no_date_poten_2020_07_17_libyas_rollercoaster_ride",
+  "parent_id": null,
+  "title": "Libyas Rollercoaster Ride",
+  "section_path": [
+    "Libyas Rollercoaster Ride"
+  ],
+  "section_path_text": "Libyas Rollercoaster Ride",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Oil exports have collapsed (again) this year\nAfter several years of relative stability, the oil export situation in Libya deteriorated again in January of this year. The fighting between the warring factions in the west and the east of the country intensified and the leader of the Libyan National Army (LNA), Mr. Khalifa Haftar instructed the closure of Libya's eastern oil ports.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "europe",
+    "crude_oil",
+    "oil",
+    "libya",
+    "libyan",
+    "country",
+    "crude",
+    "production"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 885,
+  "source_path": "reports/poten/2020/poten_2020-07-17_libyas-rollercoaster-ride.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_07_17_libyas_rollercoaster_ride__s01_oil_exports_have_collapsed_again_this_year",
+      "doc_id": "poten_tankers_no_date_poten_2020_07_17_libyas_rollercoaster_ride",
+      "parent_id": "poten_tankers_no_date_poten_2020_07_17_libyas_rollercoaster_ride__root",
+      "title": "Oil exports have collapsed (again) this year",
+      "section_path": [
+        "Oil exports have collapsed (again) this year"
+      ],
+      "section_path_text": "Oil exports have collapsed (again) this year",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "After several years of relative stability, the oil export situation in Libya deteriorated again in January of this year. The fighting between the warring factions in the west and the east of the country intensified and the leader of the Libyan National Army (LNA), Mr.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "europe",
+        "crude_oil",
+        "oil",
+        "libya"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 875,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

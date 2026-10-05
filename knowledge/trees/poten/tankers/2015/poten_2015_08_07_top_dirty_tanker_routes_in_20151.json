@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2015_08_07_top_dirty_tanker_routes_in_20151__root",
+  "doc_id": "poten_tankers_no_date_poten_2015_08_07_top_dirty_tanker_routes_in_20151",
+  "parent_id": null,
+  "title": "Top Dirty Tanker Routes in 20151",
+  "section_path": [
+    "Top Dirty Tanker Routes in 20151"
+  ],
+  "section_path_text": "Top Dirty Tanker Routes in 20151",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Top Dirty Tanker Routes in 2015\nyear? Rank | Charterer | Fixtures | % of Fixtures | Cumulative % of Fixtures | Prev Rank\n--- | --- | --- | --- | --- | ---\n1 | AG | 1\n2 | Med | 2\n3 | AG | 4\n4 | UKC | 3\n5 | W Africa | 5\n6 | AG | 8\n7 | Med | 10\n8 | Caribs | 6\n9 | W Africa | 9\n10 | AG | 7\n11 | W Africa | 13\n12 | Far East | 17\n13 | SE Asia | 12\n14 | SE Asia | 14\n15 | AG | 15\nFor many years Poten has kept track of and reported on the largest dirty spot charterers (see \"Who's on First?\", January 9, 2015) based on reported spot fixtures. We thought it would be interesting to use the same data to rank the busiest dirty tanker routes worldwide.",
+  "keywords": [
+    "suezmax",
+    "aframax",
+    "china",
+    "brazil",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "europe",
+    "india",
+    "us_gulf",
+    "japan",
+    "crude_oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 890,
+  "source_path": "reports/poten/2015/poten_2015-08-07_top-dirty-tanker-routes-in-20151.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2015_08_07_top_dirty_tanker_routes_in_20151__s01_top_dirty_tanker_routes_in_2015",
+      "doc_id": "poten_tankers_no_date_poten_2015_08_07_top_dirty_tanker_routes_in_20151",
+      "parent_id": "poten_tankers_no_date_poten_2015_08_07_top_dirty_tanker_routes_in_20151__root",
+      "title": "Top Dirty Tanker Routes in 2015",
+      "section_path": [
+        "Top Dirty Tanker Routes in 2015"
+      ],
+      "section_path_text": "Top Dirty Tanker Routes in 2015",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Rank | Charterer | Fixtures | % of Fixtures | Cumulative % of Fixtures | Prev Rank\n--- | --- | --- | --- | --- | ---\n1 | AG | 1\n2 | Med | 2\n3 | AG | 4\n4 | UKC | 3\n5 | W Africa | 5\n6 | AG | 8\n7 | Med | 10\n8 | Caribs | 6\n9 | W Africa | 9\n10 | AG | 7\n11 | W Africa | 13\n12 | Far East | 17\n13 | SE Asia | 12\n14 | SE Asia | 14\n15 | AG | 15\nFor many years Poten has kept track of and reported on the largest dirty spot charterers (see \"Who's on First?\", January 9, 2015) based on reported spot fixtures. We thought it would be interesting to use the same data to rank the busiest dirty tanker routes worldwide.",
+      "keywords": [
+        "suezmax",
+        "aframax",
+        "china",
+        "brazil",
+        "atlantic",
+        "meg",
+        "west_africa",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 880,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

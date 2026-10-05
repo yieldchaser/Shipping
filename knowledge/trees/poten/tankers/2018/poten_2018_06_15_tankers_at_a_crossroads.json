@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2018_06_15_tankers_at_a_crossroads__root",
+  "doc_id": "poten_tankers_no_date_poten_2018_06_15_tankers_at_a_crossroads",
+  "parent_id": null,
+  "title": "Tankers At A Crossroads",
+  "section_path": [
+    "Tankers At A Crossroads"
+  ],
+  "section_path_text": "Tankers At A Crossroads",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Can growing ton-mile demand turn the market? The freight markets for 2018 have so far been disappointing for crude oil tankers. For the VLCC market, the supply-demand balance and the resulting freight rates are predominantly driven by OPEC production and exports.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "brazil",
+    "west_africa",
+    "europe",
+    "india",
+    "crude_oil",
+    "gas",
+    "increased",
+    "exports",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 890,
+  "source_path": "reports/poten/2018/poten_2018-06-15_tankers-at-a-crossroads.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_06_15_tankers_at_a_crossroads__s01_can_growing_ton_mile_demand_turn_the_market",
+      "doc_id": "poten_tankers_no_date_poten_2018_06_15_tankers_at_a_crossroads",
+      "parent_id": "poten_tankers_no_date_poten_2018_06_15_tankers_at_a_crossroads__root",
+      "title": "Can growing ton-mile demand turn the market?",
+      "section_path": [
+        "Can growing ton-mile demand turn the market?"
+      ],
+      "section_path_text": "Can growing ton-mile demand turn the market?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The freight markets for 2018 have so far been disappointing for crude oil tankers. For the VLCC market, the supply-demand balance and the resulting freight rates are predominantly driven by OPEC production and exports.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "brazil",
+        "west_africa",
+        "europe",
+        "india",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 881,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

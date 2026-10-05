@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNEW BUILDING : In dry bulk this week, it was reported that Zhejiang Dachen Shipping declared a pair of optional 47k dwt Coastal trading Handymax bulkers\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2021-11-26_clarkson-platou-hellas-sp-weekly-bulletin-128_report-26-11-2021_abfc968835c9.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2021-11-26_clarkson-platou-hellas-sp-weekly-bulletin-128_report-26-11-2021_abfc968835c9.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 26 November 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nLOW USD 20 M\nSS 04/22\nCHINA STEEL REALIST 203,512 2007 CSBC MAN-B&W 6S70MC-C (dely basis SS passed, CHINESE\nDD 04/22\nBWTS fitted)\n1 x RESALE 181,291 DELY MAR/APRIL 2022 ex NAMURA MAN-B&W 6G70ME-C9.5 N/A HIGH USD 59 M GREEKS\nMAN-B&W 6S46ME-B8.3\nSS 01/22 USD 27 M\nNEW DAYS 38,230 2017 SHIN KOCHI 4 x 30T U/D\nDD 01/22 (dely basis SS passed)\nBWTS fitted\nMITSUBISHI 6UEC45LSE\nSS 12/22\nROYAL JUSTICE 36,976 2012 SAIKI 4 x 30 T USD 18.5 M GREEKS\nDD 12/22\nBWTS fitted, OHBH\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 05/24\nNORDMERKUR 74,999 2004 HHI MAN-B&W 6S60MC-C RGN USD 10 M INDIANS\nDD 06/22\nMAN-B&W 6",
+  "summary": "Main\nNEW BUILDING : In dry bulk this week, it was reported that Zhejiang Dachen Shipping declared a pair of optional 47k dwt Coastal trading Handymax bulkers\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2021-11-26_clarkson-platou-hellas-sp-weekly-bulletin-128_report-26-11-2021_abfc968835c9.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2021-11-26_clarkson-platou-hellas-sp-weekly-bulletin-128_report-26-11-2021_abfc968835c9.pdf\n\n# Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 26 November 2021\n\n## BULK CARRIERS\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|CHINA STEEL REALIST|203,512|2007 CSBC|MAN-B&W 6S70MC-C|SS 04/22 DD 04/22|LOW USD 20 M (dely basis SS passed, BWTS fitted)|CHINESE|\n|1 x RESALE|181,291|DELY MAR/APRIL 2022 ex NAMURA|MAN-B&W 6G70ME-C9.5|N/A|HIGH USD 59 M|GREEKS|\n|NEW DAYS|38,230|2017 SHIN KOCHI|MAN-B&W 6S46ME-B8.3 4 x 30T BWTS fitted|SS 01/22 DD 01/22|(dely USD 27 M basis SS passed)|U/D|\n|ROYAL JUSTICE|36,976|2012 SAIKI|MITSUBISHI 6UEC45LSE 4 x 30 T BWTS fitted, OHBH|SS 12/22 DD 12/22|USD 18.5 M|GREEKS|\n\n## <u>TANKERS - CHEMICALS - LPG/LNGs</u>\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|NOR",
   "keywords": [
     "handysize",
     "lng",
@@ -20,14 +20,14 @@
     "india",
     "steel",
     "gas",
-    "any",
-    "information",
-    "clarksons"
+    "platou",
+    "clarksons",
+    "any"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2081,
-  "source_path": "corpus/02-hellenic/shipbuilding/2021/2021-11-26_clarkson-platou-hellas-sp-weekly-bulletin-128.html",
+  "token_count": 2364,
+  "source_path": "reports/hellenic/shipbuilding/2021/2021-11-26_clarkson-platou-hellas-sp-weekly-bulletin-128.html",
   "source_url": "https://www.hellenicshippingnews.com/clarkson-platou-hellas-sp-weekly-bulletin-128",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2021-11-26_clarkson-platou-hellas-sp-weekly-bulletin-128_report-26-11-2021_abfc968835c9.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-11-26_clarkson-platou-hellas-sp-weekly-bulletin-128_report-26-11-2021_abfc968835c9.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 26 November 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nLOW USD 20 M\nSS 04/22\nCHINA STEEL REALIST 203,512 2007 CSBC MAN-B&W 6S70MC-C (dely basis SS passed, CHINESE\nDD 04/22\nBWTS fitted)\n1 x RESALE 181,291 DELY MAR/APRIL 2022 ex NAMURA MAN-B&W 6G70ME-C9.5 N/A HIGH USD 59 M GREEKS\nMAN-B&W 6S46ME-B8.3\nSS 01/22 USD 27 M\nNEW DAYS 38,230 2017 SHIN KOCHI 4 x 30T U/D\nDD 01/22 (dely basis SS passed)\nBWTS fitted\nMITSUBISHI 6UEC45LSE\nSS 12/22\nROYAL JUSTICE 36,976 2012 SAIKI 4 x 30 T USD 18.5 M GREEKS\nDD 12/22\nBWTS fitted, OHBH\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 05/24\nNORDMERKUR 74,999 2004 HHI MAN-B&W 6S60MC-C RGN USD 10 M INDIANS\nDD 06/22\nMAN-B&W 6S60MC-C SS 03/26\nARCTIC BAY 50,844 2006 STX RGN USD 11.5 M U/D\nIMO III, ICE 1A, BWTS fitted DD 05/24\nPage 1 of 3\n\n[Page 2]\n1\nSale and Purchase\nHellas S&P Weekly Bulletin 26 November 2021\nNEW BUILDING\nIn dry bulk this week, it was reported that Zhejiang Dachen Shipping declared a pair of optional 47k",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-11-26_clarkson-platou-hellas-sp-weekly-bulletin-128_report-26-11-2021_abfc968835c9.pdf\n\n# Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 26 November 2021\n\n## BULK CARRIERS\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|CHINA STEEL REALIST|203,512|2007 CSBC|MAN-B&W 6S70MC-C|SS 04/22 DD 04/22|LOW USD 20 M (dely basis SS passed, BWTS fitted)|CHINESE|\n|1 x RESALE|181,291|DELY MAR/APRIL 2022 ex NAMURA|MAN-B&W 6G70ME-C9.5|N/A|HIGH USD 59 M|GREEKS|\n|NEW DAYS|38,230|2017 SHIN KOCHI|MAN-B&W 6S46ME-B8.3 4 x 30T BWTS fitted|SS 01/22 DD 01/22|(dely USD 27 M basis SS passed)|U/D|\n|ROYAL JUSTICE|36,976|2012 SAIKI|MITSUBISHI 6UEC45LSE 4 x 30 T BWTS fitted, OHBH|SS 12/22 DD 12/22|USD 18.5 M|GREEKS|\n\n## <u>TANKERS - CHEMICALS - LPG/LNGs</u>\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|NORDMERKUR|74,999|2004 HHI|MAN-B&W 6S60MC-C|DD 0 SS 05/24 6/22|RGN USD 10 M|INDIANS|\n|ARCTIC BAY|50,844|2006 STX|IMO III, ICE MAN-B&W 6S60MC|-C DD 05/24 SS 03/26|RGN USD 11.5 M|U/D|\n\n1A, BWTS fitted\n\n## NEW BUILDING\n\nIn dry bulk this week, it was reported that Zhejiang Dachen Shipping declared a pair of ",
       "keywords": [
         "handysize",
         "lng",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1989,
+      "token_count": 2272,
       "section_type": "linked_pdf",
       "children": []
     }

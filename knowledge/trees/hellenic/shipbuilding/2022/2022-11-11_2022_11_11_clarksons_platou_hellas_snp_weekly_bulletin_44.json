@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNew Building in the gas carrier market, Hudong Zhonghua announced orders for three firm\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-11-11_clarksons-platou-hellas-snp-weekly-bulletin-44_report-11-11-2022_e4f34d6167ee.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-11-11_clarksons-platou-hellas-snp-weekly-bulletin-44_report-11-11-2022_e4f34d6167ee.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 11 November 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC-C7.2 SS 07/26\nNAVIOS OBELIKS 181,415 2012 KOYO BWTS & Scrubber Fitted DD 09/23 HIGH USD 29 M U/D\nMAN B. 6S60ME-C8.2\nCMB PARTNER 81,805 2016 TSUNEISHI SS 11/26\nBWTS Fitted USD 29 M GREEKS\n(CEBU) DD 11/24\nMAN-B&W 6S60MC-C8.2 SS 08/25\nKEY LIGHT 83,027 2012 SANOYAS BWTS Fitted DD 08/23 USD 23 M JAPANESE\nMAN B.",
+  "summary": "Main\nNew Building in the gas carrier market, Hudong Zhonghua announced orders for three firm\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-11-11_clarksons-platou-hellas-snp-weekly-bulletin-44_report-11-11-2022_e4f34d6167ee.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2022-11-11_clarksons-platou-hellas-snp-weekly-bulletin-44_report-11-11-2022_e4f34d6167ee.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin11 November 2022\n\n# Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n|NAVIOS OBELIKS|181,415|2012 KOYO|MAN B. 6S70MC-C7.2 BWTS & Scrubber Fitted|SS 07/26 DD 09/23|HIGH USD 29 M|U/D|\n|CMB PARTNER|81,805|2016 TSUNEISHI (CEBU)|MAN B. 6S60ME-C8.2 BWTS Fitted|SS 11/26 DD 11/24|USD 29 M|GREEKS|\n|KEY LIGHT|83,027|2012 SANOYAS|MAN-B&W 6S60MC-C8.2 BWTS Fitted|SS 08/25 DD 08/23|USD 23 M|JAPANESE|\n|OCEAN ROSEMARY|82,265|2013 DALIAN|MAN B.",
   "keywords": [
     "capesize",
     "panamax",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2319,
-  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-11-11_clarksons-platou-hellas-snp-weekly-bulletin-44.html",
+  "token_count": 2391,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-11-11_clarksons-platou-hellas-snp-weekly-bulletin-44.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-44",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-11-11_clarksons-platou-hellas-snp-weekly-bulletin-44_report-11-11-2022_e4f34d6167ee.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-11-11_clarksons-platou-hellas-snp-weekly-bulletin-44_report-11-11-2022_e4f34d6167ee.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 11 November 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC-C7.2 SS 07/26\nNAVIOS OBELIKS 181,415 2012 KOYO BWTS & Scrubber Fitted DD 09/23 HIGH USD 29 M U/D\nMAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-11-11_clarksons-platou-hellas-snp-weekly-bulletin-44_report-11-11-2022_e4f34d6167ee.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin11 November 2022\n\n# Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n|NAVIOS OBELIKS|181,415|2012 KOYO|MAN B. 6S70MC-C7.2 BWTS & Scrubber Fitted|SS 07/26 DD 09/23|HIGH USD 29 M|U/D|\n|CMB PARTNER|81,805|2016 TSUNEISHI (CEBU)|MAN B.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2242,
+      "token_count": 2314,
       "section_type": "linked_pdf",
       "children": []
     }

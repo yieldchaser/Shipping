@@ -1,0 +1,142 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2012_05_04_zombie_refineries__root",
+  "doc_id": "poten_tankers_no_date_poten_2012_05_04_zombie_refineries",
+  "parent_id": null,
+  "title": "Zombie Refineries",
+  "section_path": [
+    "Zombie Refineries"
+  ],
+  "section_path_text": "Zombie Refineries",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Atlantic Basin refineries that the market had relegated to the graveyard of unfit plants in an expanding world of more-sophisticated Pacific Basin capacity, are coming back to life under new management. During the past week, three announcements reminded market participants that refinery capacity is hard to kill. agreed to buy the 185 kbpd Trainer, PA refinery from ConocoPhillips (Phillips 66) for $150 million.",
+  "keywords": [
+    "atlantic",
+    "pacific",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "capacity",
+    "refinery",
+    "kbpd",
+    "basin",
+    "refining",
+    "would"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 989,
+  "source_path": "reports/poten/2012/poten_2012-05-04_zombie-refineries.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_05_04_zombie_refineries__s01_zombie_refineries",
+      "doc_id": "poten_tankers_no_date_poten_2012_05_04_zombie_refineries",
+      "parent_id": "poten_tankers_no_date_poten_2012_05_04_zombie_refineries__root",
+      "title": "Zombie Refineries",
+      "section_path": [
+        "Zombie Refineries"
+      ],
+      "section_path_text": "Zombie Refineries",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Atlantic Basin refineries that the market had relegated to the graveyard of unfit plants in an expanding world of more-sophisticated Pacific Basin capacity, are coming back to life under new management. During the past week, three announcements reminded market participants that refinery capacity is hard to kill.",
+      "keywords": [
+        "atlantic",
+        "pacific",
+        "refinery",
+        "capacity",
+        "kbpd",
+        "petroplus",
+        "agreed",
+        "basin"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 197,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_05_04_zombie_refineries__s02_atlantic_basin_refinery_net_changes",
+      "doc_id": "poten_tankers_no_date_poten_2012_05_04_zombie_refineries",
+      "parent_id": "poten_tankers_no_date_poten_2012_05_04_zombie_refineries__root",
+      "title": "Atlantic Basin Refinery Net Changes",
+      "section_path": [
+        "Atlantic Basin Refinery Net Changes"
+      ],
+      "section_path_text": "Atlantic Basin Refinery Net Changes",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "q09",
+        "q10",
+        "q11",
+        "q12"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_05_04_zombie_refineries__s03_shutdowns",
+      "doc_id": "poten_tankers_no_date_poten_2012_05_04_zombie_refineries",
+      "parent_id": "poten_tankers_no_date_poten_2012_05_04_zombie_refineries__root",
+      "title": "Shutdowns",
+      "section_path": [
+        "Shutdowns"
+      ],
+      "section_path_text": "Shutdowns",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Restarts Additions Sources: Poten, Various In addition to this week's announcements, the private equity firm, Carlyle Group LP, is rumoured to be interested in acquiring a joint venture stake in Sunoco's 335 kbpd Philadelphia refinery, slated for shutdown in July, while the French government pursues a Sarkozy-led initiative to keep Petroplus' 162 kbpd Petit-Couronne refinery running under an agreement with Shell. This implies that following 3,466 kbpd of cumulative Atlantic Basin shutdowns since 2009, another 940 kbpd of refineries have restarted or will be restarting, while refiners have added 1,016 kbpd of cumulative new capacity.",
+      "keywords": [
+        "atlantic",
+        "crude_oil",
+        "products",
+        "capacity",
+        "kbpd",
+        "refinery",
+        "basin",
+        "cumulative"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 404,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_05_04_zombie_refineries__s04_med_v_urals",
+      "doc_id": "poten_tankers_no_date_poten_2012_05_04_zombie_refineries",
+      "parent_id": "poten_tankers_no_date_poten_2012_05_04_zombie_refineries__root",
+      "title": "Med v Urals",
+      "section_path": [
+        "Med v Urals"
+      ],
+      "section_path_text": "Med v Urals",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "NWE v Brent In fact, European refining margins reversed earlier gains this week, partially on the news of 360 kbpd of refining capacity coming back on line, as well as a spate of negative European economic indicators, as shown in the above chart. Gasoline spot crack spreads had spiked previously on product tightness from refinery outages, but the prospect of additional crude runs in an uncertain demand environment pressured sentiment.",
+      "keywords": [
+        "atlantic",
+        "europe",
+        "products",
+        "gas",
+        "would",
+        "capacity",
+        "refining",
+        "returns"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 351,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

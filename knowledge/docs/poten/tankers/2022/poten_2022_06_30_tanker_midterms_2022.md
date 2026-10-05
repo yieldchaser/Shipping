@@ -1,0 +1,395 @@
+---
+category: tankers
+commodities:
+- crude_oil
+- products
+date: null
+doc_id: poten_tankers_no_date_poten_2022_06_30_tanker_midterms_2022
+document_type: analyst_opinion
+is_error_page: false
+key_entities:
+- China
+- Middle East
+keywords:
+- vlcc
+- suezmax
+- aframax
+- china
+- europe
+- india
+- crude_oil
+- top
+- charterers
+- reported
+- total
+- dropped
+market_tone: constructive
+numeric_observation_count: 27
+numeric_observations:
+- section: Top Reported Dirty Spot Charterers for 1H 2022*
+  section_type: null
+  source_line: 'As we are getting ready to celebrate Independence Day in the United
+    States this weekend, it is time to publish our midterm report. This year, the
+    fixture counts appear to be influenced by two key events: (1) the global recovery
+    from the Covid-19 pandemic and ('
+  unit: pct
+  values:
+  - 1.0
+  - 19.0
+  - 2.0
+  - 2021.0
+  - 19.0
+  - 8.0
+  - 20.0
+- section: Top Reported Dirty Spot Charterers for 1H 2022*
+  section_type: null
+  source_line: 1 | Unipec | 113,362 | 19.2% | 1 | 490
+  unit: pct
+  values:
+  - 1.0
+  - 113362.0
+  - 19.2
+  - 1.0
+  - 490.0
+- section: Top Reported Dirty Spot Charterers for 1H 2022*
+  section_type: null
+  source_line: 2 | ExxonMobil | 20,324 | 3.4% | 4 | 199
+  unit: pct
+  values:
+  - 2.0
+  - 20324.0
+  - 3.4
+  - 4.0
+  - 199.0
+- section: Top Reported Dirty Spot Charterers for 1H 2022*
+  section_type: null
+  source_line: 3 | Shell | 19,030 | 3.4% | 2 | 175
+  unit: pct
+  values:
+  - 3.0
+  - 19030.0
+  - 3.4
+  - 2.0
+  - 175.0
+- section: Top Reported Dirty Spot Charterers for 1H 2022*
+  section_type: null
+  source_line: 4 | VITOL | 16,370 | 2.8% | 3 | 174
+  unit: pct
+  values:
+  - 4.0
+  - 16370.0
+  - 2.8
+  - 3.0
+  - 174.0
+- section: Top Reported Dirty Spot Charterers for 1H 2022*
+  section_type: null
+  source_line: 5 | BP | 16,355 | 2.8% | 5 | 137
+  unit: pct
+  values:
+  - 5.0
+  - 16355.0
+  - 2.8
+  - 5.0
+  - 137.0
+- section: Top Reported Dirty Spot Charterers for 1H 2022*
+  section_type: null
+  source_line: 6 | IOC | 15,163 | 2.8% | 8 | 102
+  unit: pct
+  values:
+  - 6.0
+  - 15163.0
+  - 2.8
+  - 8.0
+  - 102.0
+- section: Top Reported Dirty Spot Charterers for 1H 2022*
+  section_type: null
+  source_line: 7 | Total | 13,033 | 2.6% | 6 | 117
+  unit: pct
+  values:
+  - 7.0
+  - 13033.0
+  - 2.6
+  - 6.0
+  - 117.0
+- section: Top Reported Dirty Spot Charterers for 1H 2022*
+  section_type: null
+  source_line: 8 | Chevron | 12,885 | 2.2% | 7 | 116
+  unit: pct
+  values:
+  - 8.0
+  - 12885.0
+  - 2.2
+  - 7.0
+  - 116.0
+- section: Top Reported Dirty Spot Charterers for 1H 2022*
+  section_type: null
+  source_line: 9 | Petrochina | 11,743 | 2.2% | 12 | 91
+  unit: pct
+  values:
+  - 9.0
+  - 11743.0
+  - 2.2
+  - 12.0
+  - 91.0
+- section: Top Reported Dirty Spot Charterers for 1H 2022*
+  section_type: null
+  source_line: 10 | PTT | 10,185 | 2.0% | 30 | 85
+  unit: pct
+  values:
+  - 10.0
+  - 10185.0
+  - 2.0
+  - 30.0
+  - 85.0
+- section: Top Reported Dirty Spot Charterers for 1H 2022*
+  section_type: null
+  source_line: 11 | REPSOL | 9,995 | 1.7% | 13 | 68
+  unit: pct
+  values:
+  - 11.0
+  - 9995.0
+  - 1.7
+  - 13.0
+  - 68.0
+- section: Top Reported Dirty Spot Charterers for 1H 2022*
+  section_type: null
+  source_line: 12 | Petrobras | 9,089 | 1.7% | 9 | 86
+  unit: pct
+  values:
+  - 12.0
+  - 9089.0
+  - 1.7
+  - 9.0
+  - 86.0
+- section: Top Reported Dirty Spot Charterers for 1H 2022*
+  section_type: null
+  source_line: 13 | TRAFIGURA | 9,080 | 1.5% | 10 | 37
+  unit: pct
+  values:
+  - 13.0
+  - 9080.0
+  - 1.5
+  - 10.0
+  - 37.0
+- section: Top Reported Dirty Spot Charterers for 1H 2022*
+  section_type: null
+  source_line: 14 | Sinochem | 8,755 | 1.5% | 14 | 42
+  unit: pct
+  values:
+  - 14.0
+  - 8755.0
+  - 1.5
+  - 14.0
+  - 42.0
+- section: Top Reported Dirty Spot Charterers for 1H 2022*
+  section_type: null
+  source_line: 15 | Reliance | 8,532 | 1.5% | 18 | 61
+  unit: pct
+  values:
+  - 15.0
+  - 8532.0
+  - 1.5
+  - 18.0
+  - 61.0
+- section: Top Reported Dirty Spot Charterers for 1H 2022*
+  section_type: null
+  source_line: 16 | BPCL | 8,180 | 1.4% | 17 | 39
+  unit: pct
+  values:
+  - 16.0
+  - 8180.0
+  - 1.4
+  - 17.0
+  - 39.0
+- section: Top Reported Dirty Spot Charterers for 1H 2022*
+  section_type: null
+  source_line: 17 | SK Corp | 7,510 | 1.3% | 33
+  unit: pct
+  values:
+  - 17.0
+  - 7510.0
+  - 1.3
+  - 33.0
+- section: Top Reported Dirty Spot Charterers for 1H 2022*
+  section_type: null
+  source_line: 18 | Hyundai | 7,192 | 1.2% | 20 | 76
+  unit: pct
+  values:
+  - 18.0
+  - 7192.0
+  - 1.2
+  - 20.0
+  - 76.0
+- section: Top Reported Dirty Spot Charterers for 1H 2022*
+  section_type: null
+  source_line: 19 | Phillips 66 | 6,775 | 1.1% | 28 | 63
+  unit: pct
+  values:
+  - 19.0
+  - 66.0
+  - 6775.0
+  - 1.1
+  - 28.0
+  - 63.0
+- section: Top Reported Dirty Spot Charterers for 1H 2022*
+  section_type: null
+  source_line: 20 | Lukoil | 6,597 | 1.1% | 11 | 66
+  unit: pct
+  values:
+  - 20.0
+  - 6597.0
+  - 1.1
+  - 11.0
+  - 66.0
+- section: Top Reported Dirty Spot Charterers for 1H 2022*
+  section_type: null
+  source_line: Top 20 | 330,155 | 57.5% | 2,264
+  unit: pct
+  values:
+  - 20.0
+  - 330155.0
+  - 57.5
+  - 2264.0
+- section: Top Reported Dirty Spot Charterers for 1H 2022*
+  section_type: null
+  source_line: Others | 260,237 | 42.5% | 1,714
+  unit: pct
+  values:
+  - 260237.0
+  - 42.5
+  - 1714.0
+- section: Top Reported Dirty Spot Charterers for 1H 2022*
+  section_type: null
+  source_line: Total | 590,392 | 100.0% | 3,978
+  unit: pct
+  values:
+  - 590392.0
+  - 100.0
+  - 3978.0
+- section: 'Chart: Top 10 VLCC Spot Charterers'
+  section_type: null
+  source_line: 'Unipec reinforced its position at the top of the VLCC segment, increasing
+    its number of VLCC fixtures from 329 in H1 2021 to 378 in H1 2022. ExxonMobil
+    moved up from 8 th to 2 nd , while Petrobras dropped out of the top 10 (down to
+    20 th ). PTT (the Petroleum '
+  unit: null
+  values:
+  - 329.0
+  - 1.0
+  - 2021.0
+  - 378.0
+  - 1.0
+  - 2022.0
+  - 8.0
+  - 2.0
+  - 10.0
+  - 20.0
+- section: 'Chart: Top 10 Suezmax Spot Charterers'
+  section_type: null
+  source_line: Quite a few changes in the Suezmax segment, with ExxonMobil back on
+    top. Shell dropped from 1 st to 10 th , while Total moved the other way, from
+    10 th to 2 nd in the rankings. IOC, one of the Indian charterers that dropped
+    out of the top 10 last year, is back
+  unit: null
+  values:
+  - 1.0
+  - 10.0
+  - 10.0
+  - 2.0
+  - 10.0
+  - 4.0
+  - 1.0
+  - 2022.0
+- section: 'Chart: Top 10 Aframax Spot Charterers'
+  section_type: null
+  source_line: 'In the Aframax segment, ExxonMobil claimed the top spot, relegating
+    Vitol to 2 nd . Shell stayed on 3 rd , joined by fellow oil majors BP and Chevron
+    in 5 th and 6 th . Unipec (No. 8 last year) moved up to 4 th . Trafigura, Lukoil
+    and Clearlake dropped out of '
+  unit: null
+  values:
+  - 2.0
+  - 3.0
+  - 5.0
+  - 6.0
+  - 8.0
+  - 4.0
+  - 10.0
+  - 7.0
+  - 8.0
+  - 66.0
+regions:
+- meg
+- china
+- atlantic
+- pacific
+- europe
+- india
+section_count: 4
+signals: {}
+source: poten
+source_path: reports/poten/2022/poten_2022-06-30_tanker-midterms-2022.md
+source_stem: poten_2022-06-30_tanker-midterms-2022
+source_url: null
+summary: 'Top Reported Dirty Spot Charterers for 1H 2022*
+
+  As we are getting ready to celebrate Independence Day in the United States this
+  weekend, it is time to publish our midterm report. This year, the fixture counts
+  appear to be influenced by two key events: (1) the global recovery from the Covid-19
+  pandemic and (2) the Russian invasion of Ukraine. Compared to the first half of
+  2021, the number of reported VLCC fixtures increased 19%, but Suezmax and Aframax
+  transactions were down 8% and 20% respectively.'
+themes:
+- vlcc
+- suezmax
+- aframax
+- china
+- europe
+- india
+title: Tanker Midterms 2022
+vessel_classes:
+- vlcc
+- suezmax
+- aframax
+---
+
+## Summary
+Top Reported Dirty Spot Charterers for 1H 2022*
+As we are getting ready to celebrate Independence Day in the United States this weekend, it is time to publish our midterm report. This year, the fixture counts appear to be influenced by two key events: (1) the global recovery from the Covid-19 pandemic and (2) the Russian invasion of Ukraine. Compared to the first half of 2021, the number of reported VLCC fixtures increased 19%, but Suezmax and Aframax transactions were down 8% and 20% respectively.
+
+## Top Reported Dirty Spot Charterers for 1H 2022*
+As we are getting ready to celebrate Independence Day in the United States this weekend, it is time to publish our midterm report. This year, the fixture counts appear to be influenced by two key events: (1) the global recovery from the Covid-19 pandemic and (2) the Russian invasion of Ukraine. Compared to the first half of 2021, the number of reported VLCC fixtures increased 19%, but Suezmax and Aframax transactions were down 8% and 20% respectively. The post-pandemic oil demand recovery helped the VLCCs, while the Western sanctions on Russia likely reduced the number of reported spot fixtures for the smaller crude oil tankers.
+Rank | Charterer | Reported Total Cargo (MT 000s) | % of Total Dirty Cargoes | Prev Rank | Fixtures
+--- | --- | --- | --- | --- | ---
+1 | Unipec | 113,362 | 19.2% | 1 | 490
+2 | ExxonMobil | 20,324 | 3.4% | 4 | 199
+3 | Shell | 19,030 | 3.4% | 2 | 175
+4 | VITOL | 16,370 | 2.8% | 3 | 174
+5 | BP | 16,355 | 2.8% | 5 | 137
+6 | IOC | 15,163 | 2.8% | 8 | 102
+7 | Total | 13,033 | 2.6% | 6 | 117
+8 | Chevron | 12,885 | 2.2% | 7 | 116
+9 | Petrochina | 11,743 | 2.2% | 12 | 91
+10 | PTT | 10,185 | 2.0% | 30 | 85
+11 | REPSOL | 9,995 | 1.7% | 13 | 68
+12 | Petrobras | 9,089 | 1.7% | 9 | 86
+13 | TRAFIGURA | 9,080 | 1.5% | 10 | 37
+14 | Sinochem | 8,755 | 1.5% | 14 | 42
+15 | Reliance | 8,532 | 1.5% | 18 | 61
+16 | BPCL | 8,180 | 1.4% | 17 | 39
+17 | SK Corp | 7,510 | 1.3% | 33
+18 | Hyundai | 7,192 | 1.2% | 20 | 76
+19 | Phillips 66 | 6,775 | 1.1% | 28 | 63
+20 | Lukoil | 6,597 | 1.1% | 11 | 66
+Top 20 | 330,155 | 57.5% | 2,264
+Others | 260,237 | 42.5% | 1,714
+Total | 590,392 | 100.0% | 3,978
+
+## Chart: Top 10 VLCC Spot Charterers
+Unipec reinforced its position at the top of the VLCC segment, increasing its number of VLCC fixtures from 329 in H1 2021 to 378 in H1 2022. ExxonMobil moved up from 8 th to 2 nd , while Petrobras dropped out of the top 10 (down to 20 th ). PTT (the Petroleum Authority of Thailand is a new entrant at No. 9.
+
+## Chart: Top 10 Suezmax Spot Charterers
+Quite a few changes in the Suezmax segment, with ExxonMobil back on top. Shell dropped from 1 st to 10 th , while Total moved the other way, from 10 th to 2 nd in the rankings. IOC, one of the Indian charterers that dropped out of the top 10 last year, is back in 4 th place in 1H 2022, helped by an increase in liftings from the Mediterranean and the Middle East.
+
+## Chart: Top 10 Aframax Spot Charterers
+In the Aframax segment, ExxonMobil claimed the top spot, relegating Vitol to 2 nd . Shell stayed on 3 rd , joined by fellow oil majors BP and Chevron in 5 th and 6 th . Unipec (No. 8 last year) moved up to 4 th . Trafigura, Lukoil and Clearlake dropped out of the top 10, replaced by PTT (7 th ), Aramco (8 th ) and Phillips 66 (9 th ). * The above report has been assembled from market intelligence and reported spot market activity. As such, it may not provide a complete picture of the market due to the private nature of many spot market fixtures.

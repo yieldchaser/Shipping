@@ -1,0 +1,140 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2006_10_06_time_to_term__root",
+  "doc_id": "poten_tankers_no_date_poten_2006_10_06_time_to_term",
+  "parent_id": null,
+  "title": "Time to Term",
+  "section_path": [
+    "Time to Term"
+  ],
+  "section_path_text": "Time to Term",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Time to Term\nWith the demand for crude oil and clean products continuing to grow it is not surprising that demand for seaborne transportation is increasing. The marked strength in time charter rates in the past few months has served as one indication that the spot market is expected to maintain or even perhaps increase from current levels for the medium-term. This is particularly true for product carriers.",
+  "keywords": [
+    "handysize",
+    "brazil",
+    "atlantic",
+    "crude_oil",
+    "products",
+    "gas",
+    "time",
+    "charter",
+    "handymax",
+    "per",
+    "period",
+    "utilization"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 514,
+  "source_path": "reports/poten/2006/poten_2006-10-06_time-to-term.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_10_06_time_to_term__s01_time_to_term",
+      "doc_id": "poten_tankers_no_date_poten_2006_10_06_time_to_term",
+      "parent_id": "poten_tankers_no_date_poten_2006_10_06_time_to_term__root",
+      "title": "Time to Term",
+      "section_path": [
+        "Time to Term"
+      ],
+      "section_path_text": "Time to Term",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "With the demand for crude oil and clean products continuing to grow it is not surprising that demand for seaborne transportation is increasing. The marked strength in time charter rates in the past few months has served as one indication that the spot market is expected to maintain or even perhaps increase from current levels for the medium-term.",
+      "keywords": [
+        "handysize",
+        "crude_oil",
+        "products",
+        "demand",
+        "months",
+        "number",
+        "reported",
+        "time"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 134,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_10_06_time_to_term__s02_january_september",
+      "doc_id": "poten_tankers_no_date_poten_2006_10_06_time_to_term",
+      "parent_id": "poten_tankers_no_date_poten_2006_10_06_time_to_term__root",
+      "title": "January - September",
+      "section_path": [
+        "January - September"
+      ],
+      "section_path_text": "January - September",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "december",
+        "october"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_10_06_time_to_term__s03_chart_period_versus_spot",
+      "doc_id": "poten_tankers_no_date_poten_2006_10_06_time_to_term",
+      "parent_id": "poten_tankers_no_date_poten_2006_10_06_time_to_term__root",
+      "title": "Chart: Period Versus Spot",
+      "section_path": [
+        "Chart: Period Versus Spot"
+      ],
+      "section_path_text": "Chart: Period Versus Spot",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The graph below shows the relationship between the spot market rates converted to dollars per day (Time Charter Equivalent or TCE) for the Handymax voyage Caribbean to the US Atlantic Coast and the three-year time charter rate since 2002. CAR - USAC (38kt) - TCE Time Charter - 3 Year In general, the spot market time charter equivalents are expected to be higher than period charter rates as the spot market entails more risk in the form of idle time.",
+      "keywords": [
+        "handysize",
+        "brazil",
+        "atlantic",
+        "charter",
+        "time",
+        "per",
+        "average",
+        "day"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 240,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_10_06_time_to_term__s04_forward_fixing",
+      "doc_id": "poten_tankers_no_date_poten_2006_10_06_time_to_term",
+      "parent_id": "poten_tankers_no_date_poten_2006_10_06_time_to_term__root",
+      "title": "Forward Fixing",
+      "section_path": [
+        "Forward Fixing"
+      ],
+      "section_path_text": "Forward Fixing",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The largest time charterers of Handymax product carriers have been the trading companies who have taken rather large overall positions in this sector. The current three year charter rate for a modern Handymax with prompt delivery is assessed close to $23,000 per day.",
+      "keywords": [
+        "handysize",
+        "crude_oil",
+        "products",
+        "gas",
+        "companies",
+        "are",
+        "handymax",
+        "overall"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 116,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

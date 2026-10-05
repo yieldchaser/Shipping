@@ -1,0 +1,141 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2009_11_25_talking_turkey__root",
+  "doc_id": "poten_tankers_no_date_poten_2009_11_25_talking_turkey",
+  "parent_id": null,
+  "title": "Talking Turkey",
+  "section_path": [
+    "Talking Turkey"
+  ],
+  "section_path_text": "Talking Turkey",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Talking Turkey\nFor many in the tanker industry, 2009 has been a tough year. Shipowners and charterers alike can commiserate about low demand for crude oil and refined products as well as the limping pace of growth in many economies. That said, the Thanksgiving holiday seems to spark some excitement that the market could be poised for a turnaround ‐ if only based on past years' experience!",
+  "keywords": [
+    "vlcc",
+    "brazil",
+    "meg",
+    "crude_oil",
+    "products",
+    "volatility",
+    "demand",
+    "can",
+    "q07",
+    "q08",
+    "q09",
+    "thanksgiving"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 744,
+  "source_path": "reports/poten/2009/poten_2009-11-25_talking-turkey.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_11_25_talking_turkey__s01_talking_turkey",
+      "doc_id": "poten_tankers_no_date_poten_2009_11_25_talking_turkey",
+      "parent_id": "poten_tankers_no_date_poten_2009_11_25_talking_turkey__root",
+      "title": "Talking Turkey",
+      "section_path": [
+        "Talking Turkey"
+      ],
+      "section_path_text": "Talking Turkey",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "For many in the tanker industry, 2009 has been a tough year. Shipowners and charterers alike can commiserate about low demand for crude oil and refined products as well as the limping pace of growth in many economies.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "crude_oil",
+        "products",
+        "demand",
+        "between",
+        "can",
+        "month"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 355,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_11_25_talking_turkey__s02_and_seasons_go",
+      "doc_id": "poten_tankers_no_date_poten_2009_11_25_talking_turkey",
+      "parent_id": "poten_tankers_no_date_poten_2009_11_25_talking_turkey__root",
+      "title": "......And Seasons Go",
+      "section_path": [
+        "......And Seasons Go"
+      ],
+      "section_path_text": "......And Seasons Go",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Aside from fluctuations in demand, volatility in the tanker market can be divided into two broad categories; unforeseen delays and psychology of market participants. While the extreme volatility that drove the market to new highs in late 2007 and early 2008 has receded, participants in the tanker industry should continue expecting the unexpected.",
+      "keywords": [
+        "brazil",
+        "meg",
+        "volatility",
+        "end",
+        "can",
+        "day.",
+        "june",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 237,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_11_25_talking_turkey__s03_standard_deviation_ws_rates",
+      "doc_id": "poten_tankers_no_date_poten_2009_11_25_talking_turkey",
+      "parent_id": "poten_tankers_no_date_poten_2009_11_25_talking_turkey__root",
+      "title": "Standard Deviation (WS Rates)",
+      "section_path": [
+        "Standard Deviation (WS Rates)"
+      ],
+      "section_path_text": "Standard Deviation (WS Rates)",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "1Q07 2Q07 3Q07 4Q07 1Q08 2Q08 3Q08 4Q08 1Q09 2Q09 3Q09 4Q09",
+      "keywords": [
+        "q07",
+        "q08",
+        "q09"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 47,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_11_25_talking_turkey__s04_happy_thanksgiving",
+      "doc_id": "poten_tankers_no_date_poten_2009_11_25_talking_turkey",
+      "parent_id": "poten_tankers_no_date_poten_2009_11_25_talking_turkey__root",
+      "title": "Happy Thanksgiving!",
+      "section_path": [
+        "Happy Thanksgiving!"
+      ],
+      "section_path_text": "Happy Thanksgiving!",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "While it is easy for some shipowners to look back fondly on the perfect storm of surging demand and tight tonnage which began just before Thanksgiving 2007, 2009 rate trends have served as a reminder that what comes up, must come down. An additional reminder to those participating in tomorrow's holiday; resist the temptation to take a post‐dinner nap, you could just miss a jump in the market!",
+      "keywords": [
+        "just",
+        "reminder",
+        "additional",
+        "back",
+        "before",
+        "began",
+        "come",
+        "comes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 86,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

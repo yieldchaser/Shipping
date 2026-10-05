@@ -1,0 +1,195 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_04_22_what_me_worry__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_04_22_what_me_worry",
+  "parent_id": null,
+  "title": "What Me Worry?",
+  "section_path": [
+    "What Me Worry?"
+  ],
+  "section_path_text": "What Me Worry?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The two locomotives of world economic activity are China and the United States. China has just reported economic growth for the most recent quarter on an annualized basis of 9.5%. This magnitude of economic growth should increase oil consumption by another 0.5 million bpd, good news for tanker owners.",
+  "keywords": [
+    "china",
+    "crude_oil",
+    "inflation",
+    "u.s.",
+    "are",
+    "economic",
+    "imports",
+    "other",
+    "term",
+    "dollar",
+    "increase",
+    "oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1074,
+  "source_path": "reports/poten/2005/poten_2005-04-22_what-me-worry.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_04_22_what_me_worry__s01_what_me_worry",
+      "doc_id": "poten_tankers_no_date_poten_2005_04_22_what_me_worry",
+      "parent_id": "poten_tankers_no_date_poten_2005_04_22_what_me_worry__root",
+      "title": "What Me Worry?",
+      "section_path": [
+        "What Me Worry?"
+      ],
+      "section_path_text": "What Me Worry?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The two locomotives of world economic activity are China and the United States. China has just reported economic growth for the most recent quarter on an annualized basis of 9.5%.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "u.s.",
+        "economic",
+        "growth",
+        "are",
+        "economy",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 150,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_04_22_what_me_worry__s02_times_of_accelerated_inflation",
+      "doc_id": "poten_tankers_no_date_poten_2005_04_22_what_me_worry",
+      "parent_id": "poten_tankers_no_date_poten_2005_04_22_what_me_worry__root",
+      "title": "Times of Accelerated Inflation",
+      "section_path": [
+        "Times of Accelerated Inflation"
+      ],
+      "section_path_text": "Times of Accelerated Inflation",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Yes, inflation has accelerated in recent months (5.5% on an annualized basis), but this is not unusual in itself as there have been other periods of accelerated inflation only to be followed by periods of more subdued inflation. The question is whether this is just another statistical blip or does it presage our entering an extended period of higher inflation?",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "inflation",
+        "accelerated",
+        "higher",
+        "narrowing",
+        "oil",
+        "other"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 213,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_04_22_what_me_worry__s03_short_and_long_term_u_s_treasury_yields",
+      "doc_id": "poten_tankers_no_date_poten_2005_04_22_what_me_worry",
+      "parent_id": "poten_tankers_no_date_poten_2005_04_22_what_me_worry__root",
+      "title": "Short and Long Term U.S. Treasury Yields",
+      "section_path": [
+        "Short and Long Term U.S. Treasury Yields"
+      ],
+      "section_path_text": "Short and Long Term U.S. Treasury Yields",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "10-Year 30-Day The differential between long and short term rates is narrowing only because the Federal Reserve increased overnight Fed rates to 2.75%. Long term rates are relatively unchanged.",
+      "keywords": [
+        "china",
+        "dollar",
+        "other",
+        "term",
+        "are",
+        "costs",
+        "inflation",
+        "short"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 313,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_04_22_what_me_worry__s04_u_s_gdp",
+      "doc_id": "poten_tankers_no_date_poten_2005_04_22_what_me_worry",
+      "parent_id": "poten_tankers_no_date_poten_2005_04_22_what_me_worry__root",
+      "title": "U.S. GDP",
+      "section_path": [
+        "U.S. GDP"
+      ],
+      "section_path_text": "U.S. GDP",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "constant"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_04_22_what_me_worry__s05_stagnant",
+      "doc_id": "poten_tankers_no_date_poten_2005_04_22_what_me_worry",
+      "parent_id": "poten_tankers_no_date_poten_2005_04_22_what_me_worry__root",
+      "title": "Stagnant",
+      "section_path": [
+        "Stagnant"
+      ],
+      "section_path_text": "Stagnant",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The chart on the next page is the ratio of sales to inventory published by the U.S. The ratio of 1.3 months of inventory to cover a month of sales is very low.",
+      "keywords": [
+        "inventory",
+        "ratio",
+        "sales",
+        "being",
+        "bureau.",
+        "census",
+        "chart",
+        "cover"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 77,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_04_22_what_me_worry__s06_inventory_to_sales_ratio",
+      "doc_id": "poten_tankers_no_date_poten_2005_04_22_what_me_worry",
+      "parent_id": "poten_tankers_no_date_poten_2005_04_22_what_me_worry__root",
+      "title": "Inventory to Sales Ratio",
+      "section_path": [
+        "Inventory to Sales Ratio"
+      ],
+      "section_path_text": "Inventory to Sales Ratio",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Other indicators of economic activity are, generally speaking, on the optimistic side. One worrisome trend, however, is the U.S.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "activity",
+        "affect",
+        "economic",
+        "imports",
+        "trade",
+        "u.s."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 277,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

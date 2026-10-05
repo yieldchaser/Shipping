@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_02_16_ceyhan_rising__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_02_16_ceyhan_rising",
+  "parent_id": null,
+  "title": "Ceyhan Rising",
+  "section_path": [
+    "Ceyhan Rising"
+  ],
+  "section_path_text": "Ceyhan Rising",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Ceyhan Rising\nBereft of traditional Iraqi Kirkuk crude oil barrels by the US invasion of Iraq, liftings from Ceyhan withered from their bustling activity of the late 1990's. Despite the continuing unreliability of the Kirkuk-Ceyhan pipeline, this port's lifts are exhibiting signs of rebounding lifting activity. Key to this recovery is last year's introduction of Azeri crude oil to world markets through inauguration of the Baku- Tbilisi-Ceyhan (BTC) pipeline (see Poten Weekly Opinion June 9, 2006).",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "crude_oil",
+    "crude",
+    "oil",
+    "pipeline",
+    "ceyhan",
+    "barrels",
+    "btc",
+    "east",
+    "fixtures"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 583,
+  "source_path": "reports/poten/2007/poten_2007-02-16_ceyhan-rising.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_02_16_ceyhan_rising__s01_ceyhan_rising",
+      "doc_id": "poten_tankers_no_date_poten_2007_02_16_ceyhan_rising",
+      "parent_id": "poten_tankers_no_date_poten_2007_02_16_ceyhan_rising__root",
+      "title": "Ceyhan Rising",
+      "section_path": [
+        "Ceyhan Rising"
+      ],
+      "section_path_text": "Ceyhan Rising",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Bereft of traditional Iraqi Kirkuk crude oil barrels by the US invasion of Iraq, liftings from Ceyhan withered from their bustling activity of the late 1990's. Despite the continuing unreliability of the Kirkuk-Ceyhan pipeline, this port's lifts are exhibiting signs of rebounding lifting activity.",
+      "keywords": [
+        "crude_oil",
+        "crude",
+        "oil",
+        "pipeline",
+        "azeri",
+        "activity",
+        "activity.",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 143,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_02_16_ceyhan_rising__s02_pushing_barrels",
+      "doc_id": "poten_tankers_no_date_poten_2007_02_16_ceyhan_rising",
+      "parent_id": "poten_tankers_no_date_poten_2007_02_16_ceyhan_rising__root",
+      "title": "Pushing Barrels",
+      "section_path": [
+        "Pushing Barrels"
+      ],
+      "section_path_text": "Pushing Barrels",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The nearly 1,100 mile BTC pipeline began filling its 10 million barrel working inventory in May 2005. Eleven months later, Ceyhan's first cargo of Azeri crude oil was loaded onto a tanker late last June.",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "crude_oil",
+        "million",
+        "per",
+        "pipeline",
+        "barrel",
+        "barrels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 190,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_02_16_ceyhan_rising__s03_ceyhan_fixtures_since_june_2006_percent_share_by_vessel",
+      "doc_id": "poten_tankers_no_date_poten_2007_02_16_ceyhan_rising",
+      "parent_id": "poten_tankers_no_date_poten_2007_02_16_ceyhan_rising__root",
+      "title": "Ceyhan Fixtures Since June 2006: Percent Share by Vessel",
+      "section_path": [
+        "Ceyhan Fixtures Since June 2006: Percent Share by Vessel"
+      ],
+      "section_path_text": "Ceyhan Fixtures Since June 2006: Percent Share by Vessel",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "In addition to increased activity, as shown on the table on the next page, slightly more than 10% of the spot market fixtures done since June 2006 have moved to East of Suez destinations.",
+      "keywords": [
+        "activity",
+        "addition",
+        "destinations.",
+        "done",
+        "east",
+        "fixtures",
+        "increased",
+        "june"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 42,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_02_16_ceyhan_rising__s04_vessel_size",
+      "doc_id": "poten_tankers_no_date_poten_2007_02_16_ceyhan_rising",
+      "parent_id": "poten_tankers_no_date_poten_2007_02_16_ceyhan_rising__root",
+      "title": "Vessel Size",
+      "section_path": [
+        "Vessel Size"
+      ],
+      "section_path_text": "Vessel Size",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "USA Med East of Suez Other Total VLCC 2 4 6 Suezmax 12 11 5 2 30 Aframax 44 1 4 49 Total 14 55 10 6 85 As the BTC pipeline's throughput increases to its designed rate, liftings from Ceyhan will naturally rise. With refiners continually seeking sweet crude oils - especially those in the Far East - movements of crude oil to destinations East of Suez will continue.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "crude_oil",
+        "crude",
+        "east",
+        "destinations",
+        "enough"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 177,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

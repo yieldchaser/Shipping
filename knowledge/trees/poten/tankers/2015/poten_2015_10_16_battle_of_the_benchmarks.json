@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2015_10_16_battle_of_the_benchmarks__root",
+  "doc_id": "poten_tankers_no_date_poten_2015_10_16_battle_of_the_benchmarks",
+  "parent_id": null,
+  "title": "Battle of the Benchmarks",
+  "section_path": [
+    "Battle of the Benchmarks"
+  ],
+  "section_path_text": "Battle of the Benchmarks",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "East Coast Refiners' Crude Sourcing\nStrong growth in U.S. shale oil production in recent years has led to material reductions in U.S. imports declined from 9.2 Million barrel per day (Mb/d) in 2010 to 7.3 Mb/d in 2014.",
+  "keywords": [
+    "suezmax",
+    "atlantic",
+    "west_africa",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "gas",
+    "coast",
+    "crude",
+    "u.s.",
+    "east"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 820,
+  "source_path": "reports/poten/2015/poten_2015-10-16_battle-of-the-benchmarks.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2015_10_16_battle_of_the_benchmarks__s01_east_coast_refiners_crude_sourcing",
+      "doc_id": "poten_tankers_no_date_poten_2015_10_16_battle_of_the_benchmarks",
+      "parent_id": "poten_tankers_no_date_poten_2015_10_16_battle_of_the_benchmarks__root",
+      "title": "East Coast Refiners' Crude Sourcing",
+      "section_path": [
+        "East Coast Refiners' Crude Sourcing"
+      ],
+      "section_path_text": "East Coast Refiners' Crude Sourcing",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "shale oil production in recent years has led to material reductions in U.S. imports declined from 9.2 Million barrel per day (Mb/d) in 2010 to 7.3 Mb/d in 2014.",
+      "keywords": [
+        "suezmax",
+        "atlantic",
+        "west_africa",
+        "europe",
+        "us_gulf",
+        "crude_oil",
+        "products",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 810,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

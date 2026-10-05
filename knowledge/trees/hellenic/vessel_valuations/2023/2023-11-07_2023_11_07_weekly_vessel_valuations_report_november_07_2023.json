@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1372,
-  "source_path": "corpus/02-hellenic/vessel_valuations/2023/2023-11-07_weekly-vessel-valuations-report-november-07-2023.html",
+  "token_count": 2351,
+  "source_path": "reports/hellenic/vessel_valuations/2023/2023-11-07_weekly-vessel-valuations-report-november-07-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-november-07-2023",
   "children": [
     {
@@ -69,20 +69,20 @@
       "section_path_text": "Linked asset: 2023-11-07_weekly-vessel-valuations-report-november-07-2023_img1_7112023_a7cd56c28864.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2023/assets/2023-11-07_weekly-vessel-valuations-report-november-07-2023_img1_7112023_a7cd56c28864.jpg\n\nLinked image asset: 2023-11-07_weekly-vessel-valuations-report-november-07-2023_img1_7112023_a7cd56c28864.jpg\n\nImage metadata: JPEG 678x256 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\ntb) VesseisVake\n07 November 2023 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge VLCC Suez Afra, LR mR Cape Pmax Supra, Mandy = POS pmax Mandy Fmax\n‘ 0.0% 0.1% 0.1% 40.5% 0.0% 0.5% 0.5% 40.6% 40.3% 0.8% 0.9% 0.9% -1.2%\n320k 160k 1108 75k 50k 190% 82k Oe 38k 7000 4250-1780 1100\n5 40.7% -0.1% 0.1% 0.2% +0.1% 0.0% 40.6% +0.3% -0.3% 0.8% -0.9% 0.8% \"1.2%\n3208 160% 110% 75k SOk 180% 80% 6on 388 7000 4250 1750 1100\n10 40.1% = =-0.1% 0.1% 40.2% +0.1% 0.3% 40.9% +0.7% 0.2% 0.8% 0.9% 0.9% 1.4%\n320% 160% 110% 75k SOk 180% 80% 608 32k 7000 4250 1750 1100\n15 19% 0.2% 0.1% +2.0% 0.0% 0.4% 40.6% +1.5% 40.5% 0.8% 0.9% 0.9% \"1.4%\n310k 160% 110k 75k SOk 180% 80% Sse 30k 7000 4250 1730 1100\n20 3.6% 0.2% 0.1% 5.4% 02% 0.0% 0.1% ‘24% +1.3% 0.8% 0.9% 0.9% 1.4%\n305k = «1SSk 105k 70k 45k 173k 75k 50k 30k 6500 4000 «17501100\nad 3.5% N/A 0.1% N/A -0.4",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2023/assets/2023-11-07_weekly-vessel-valuations-report-november-07-2023_img1_7112023_a7cd56c28864.jpg\n\nLinked image asset: 2023-11-07_weekly-vessel-valuations-report-november-07-2023_img1_7112023_a7cd56c28864.jpg\n\nImage metadata: JPEG 678x256 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\n[structured table]\n| 07 November | 2023 | | | | VV | Mini Matrix | - | Weekly | Change | | | | |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| | | | Tankers | | | | | Bulkers | | | | Containers | |\n| Age | VLCC | Suez | | | mR | Cape | Pmax | Supra, | Mandy | = POS | pmax | Mandy | Fmax |\n| | 0.0% | | 0.1% | 40.5% | 0.0% | 0.5% | | | 40.3% | 0.8% | | | -1.2% |\n| | 320k | | | 75k | 50k | 190% | 82k | Oe | 38k | 7000 | | | |\n| | 40.7% | -0.1% | 0.1% | 0.2% | +0.1% | 0.0% | 40.6% | +0.3% | -0.3% | | -0.9% | | \"1.2% |\n| 5 | | | | | | | | | | | | | |\n| | 3208 | 160% | 110% | 75k | | 180% | 80% | | | 7000 | 4250 | 1750 | 1100 |\n| | 40.1% | | 0.1% | 40.2% | +0.1% | 0.3% | 40.9% | +0.7% | 0.2% | | | | |\n| 10 | | | | | | | | | | | | | |\n| | 320% | 160% | 110% | 75k | SOk | 180% | 80% | 608 | 32k | 7000 | 4250 | 1750 | 1100 |\n| | 19% | 0.2% | 0.1",
       "keywords": [
         "capesize",
         "supramax",
         "vlcc",
         "container",
         "sok",
-        "asset",
-        "image",
-        "mandy"
+        "mandy",
+        "n/a",
+        "pmax"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 790,
+      "token_count": 1769,
       "section_type": "linked_image_asset",
       "children": []
     }

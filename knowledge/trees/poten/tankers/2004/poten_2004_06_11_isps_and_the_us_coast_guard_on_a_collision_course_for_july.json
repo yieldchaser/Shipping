@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2004_06_11_isps_and_the_us_coast_guard_on_a_collision_course_for_july__root",
+  "doc_id": "poten_tankers_no_date_poten_2004_06_11_isps_and_the_us_coast_guard_on_a_collision_course_for_july",
+  "parent_id": null,
+  "title": "ISPS and the US Coast Guard - On a Collision Course for July 1st?",
+  "section_path": [
+    "ISPS and the US Coast Guard - On a Collision Course for July 1st?"
+  ],
+  "section_path_text": "ISPS and the US Coast Guard - On a Collision Course for July 1st?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "ISPS and the US Coast Guard - On a Collision Course for July 1st? Post-September 11th, the shipping industry, like many others, came up with its own contingency plan to thwart potential acts of terrorism on ships and terminals and July 1st is the due date for compliance with the provisions. The International Ship and Port Facility Security (ISPS) Code came into being after the Maritime Safety Committee within the International Maritime Organization (IMO) met with 108 national governments for a year to design the program.",
+  "keywords": [
+    "panamax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "container",
+    "china",
+    "australia",
+    "europe",
+    "japan",
+    "crude_oil",
+    "security"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1082,
+  "source_path": "reports/poten/2004/poten_2004-06-11_isps-and-the-us-coast-guard-on-a-collision-course-for-july.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_06_11_isps_and_the_us_coast_guard_on_a_collision_course_for_july__s01_isps_and_the_us_coast_guard_on_a_collision_course_for_july_1st",
+      "doc_id": "poten_tankers_no_date_poten_2004_06_11_isps_and_the_us_coast_guard_on_a_collision_course_for_july",
+      "parent_id": "poten_tankers_no_date_poten_2004_06_11_isps_and_the_us_coast_guard_on_a_collision_course_for_july__root",
+      "title": "ISPS and the US Coast Guard - On a Collision Course for July 1st?",
+      "section_path": [
+        "ISPS and the US Coast Guard - On a Collision Course for July 1st?"
+      ],
+      "section_path_text": "ISPS and the US Coast Guard - On a Collision Course for July 1st?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Post-September 11th, the shipping industry, like many others, came up with its own contingency plan to thwart potential acts of terrorism on ships and terminals and July 1st is the due date for compliance with the provisions. The International Ship and Port Facility Security (ISPS) Code came into being after the Maritime Safety Committee within the International Maritime Organization (IMO) met with 108 national governments for a year to design the program.",
+      "keywords": [
+        "security",
+        "ship",
+        "code",
+        "compliance",
+        "international",
+        "maritime",
+        "ports",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 271,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_06_11_isps_and_the_us_coast_guard_on_a_collision_course_for_july__s02_what_will_safety_cost",
+      "doc_id": "poten_tankers_no_date_poten_2004_06_11_isps_and_the_us_coast_guard_on_a_collision_course_for_july",
+      "parent_id": "poten_tankers_no_date_poten_2004_06_11_isps_and_the_us_coast_guard_on_a_collision_course_for_july__root",
+      "title": "What Will Safety Cost?",
+      "section_path": [
+        "What Will Safety Cost?"
+      ],
+      "section_path_text": "What Will Safety Cost?",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "While the Coast Guard will be busy implementing these security measures, charterers may incur demurrage charges if a ship is delayed from reaching a port. Various new charter party clauses have been introduced to clarify whether owners or charterers will be responsible for inspection/compliance charges for any delays.",
+      "keywords": [
+        "panamax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "crude_oil",
+        "demurrage",
+        "charges"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 258,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_06_11_isps_and_the_us_coast_guard_on_a_collision_course_for_july__s03_isps_code_summarized",
+      "doc_id": "poten_tankers_no_date_poten_2004_06_11_isps_and_the_us_coast_guard_on_a_collision_course_for_july",
+      "parent_id": "poten_tankers_no_date_poten_2004_06_11_isps_and_the_us_coast_guard_on_a_collision_course_for_july__root",
+      "title": "ISPS Code Summarized",
+      "section_path": [
+        "ISPS Code Summarized"
+      ],
+      "section_path_text": "ISPS Code Summarized",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Starting on July 1st and lasting through September 30, 2004, port state control will carry out a concentrated inspection campaign (CIC). The CIC is not limited to the United States, but includes the nations who are signatories to the Paris, Tokyo and Black Sea Memoranda of Understanding (MOU).",
+      "keywords": [
+        "container",
+        "china",
+        "australia",
+        "europe",
+        "japan",
+        "security",
+        "are",
+        "ship"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 523,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

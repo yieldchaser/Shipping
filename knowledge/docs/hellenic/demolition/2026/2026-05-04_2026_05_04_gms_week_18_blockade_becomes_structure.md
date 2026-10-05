@@ -8,6 +8,7 @@ commodities:
 date: '2026-05-04'
 doc_id: hellenic_demolition_2026-05-04_2026_05_04_gms_week_18_blockade_becomes_structure
 document_type: demolition_update
+is_error_page: false
 key_entities:
 - China
 - Vale
@@ -30,7 +31,7 @@ linked_assets_ingested: 2
 linked_assets_mirrored: 2
 linked_assets_skipped: 1
 market_tone: constructive
-numeric_observation_count: 139
+numeric_observation_count: 141
 numeric_observations:
 - section: Main
   section_type: null
@@ -117,6 +118,8 @@ numeric_observations:
   unit: worldscale_pct
   values:
   - 17.0
+  - 1.0
+  - 2.0
   - 4.0
 - section: Main
   section_type: null
@@ -143,7 +146,7 @@ numeric_observations:
   - 18.0
   - 9786.0
   - 6.0
-  - 52842.0
+  - 352842.0
   - 41.0
 - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_9786_6c352842b041.jpg'
   section_type: linked_image_asset
@@ -151,7 +154,7 @@ numeric_observations:
   unit: null
   values:
   - 688.0
-  - 52.0
+  - 152.0
 - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_9786_6c352842b041.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'
@@ -355,12 +358,14 @@ numeric_observations:
   unit: null
   values:
   - 17.0
+  - 1.0
 - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: into Q2 is now confirmed. With Brent at multi year highs, Hormuz flows
     at 4% of normal, no
   unit: worldscale_pct
   values:
+  - 2.0
   - 4.0
 - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
@@ -394,6 +399,7 @@ numeric_observations:
   values:
   - 17.0
   - 122.85
+  - 2.0
 - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: Index move to approximately 100.3 has not translated into proportional
@@ -425,6 +431,13 @@ numeric_observations:
   - 564.0
   - 578.0
   - 17.0
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+  section_type: linked_pdf
+  source_line: The Letter of Credit pipeline that defined Q1 friction has now substantially
+    cleared. Post-Eid central
+  unit: null
+  values:
+  - 1.0
 - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: bank approvals reached an operational rhythm during Week 17 and have
@@ -627,6 +640,13 @@ numeric_observations:
   - 18.0
 - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
+  source_line: firmest of any sub-continent destination this Q2. The unresolved question
+    remains whether this
+  unit: null
+  values:
+  - 2.0
+- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
+  section_type: linked_pdf
   source_line: than it was at the start of Week 17. Pakistan has the most to consolidate
     if the configuration holds.
   unit: null
@@ -741,6 +761,7 @@ numeric_observations:
   values:
   - 460.0
   - 495.0
+  - 2.0
 - section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
   section_type: linked_pdf
   source_line: For Week 18 of 2026, GMS Market Rankings / vessel indications are as
@@ -1010,24 +1031,6 @@ numeric_observations:
   unit: null
   values:
   - 1659.0
-- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
-  section_type: linked_pdf
-  source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
-  unit: null
-  values:
-  - 30.21
-  - 899.0669
-  - 91.278
-  - 300.5253
-- section: 'Linked asset: 2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf'
-  section_type: linked_pdf
-  source_line: 'Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720'
-  unit: null
-  values:
-  - 1.301
-  - 759.924
-  - 971.4
-  - 423.072
 regions:
 - india
 - china

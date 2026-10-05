@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2023_05_26_similar_but_not_the_same__root",
+  "doc_id": "poten_tankers_no_date_poten_2023_05_26_similar_but_not_the_same",
+  "parent_id": null,
+  "title": "Similar But Not The Same",
+  "section_path": [
+    "Similar But Not The Same"
+  ],
+  "section_path_text": "Similar But Not The Same",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "driving season is about to start\nWe are approaching the last Monday of May. Americans are preparing for Memorial Day (a federal holiday in the United States for honoring and U.S. military personnel who died while serving in the United States Armed Forces).",
+  "keywords": [
+    "atlantic",
+    "crude_oil",
+    "products",
+    "gas",
+    "gasoline",
+    "last",
+    "year",
+    "are",
+    "summer",
+    "u.s.",
+    "average",
+    "driving"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 978,
+  "source_path": "reports/poten/2023/poten_2023-05-26_similar-but-not-the-same.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2023_05_26_similar_but_not_the_same__s01_the_2023_u_s_driving_season_is_about_to_start",
+      "doc_id": "poten_tankers_no_date_poten_2023_05_26_similar_but_not_the_same",
+      "parent_id": "poten_tankers_no_date_poten_2023_05_26_similar_but_not_the_same__root",
+      "title": "The 2023 U.S. driving season is about to start",
+      "section_path": [
+        "The 2023 U.S. driving season is about to start"
+      ],
+      "section_path_text": "The 2023 U.S. driving season is about to start",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "We are approaching the last Monday of May. Americans are preparing for Memorial Day (a federal holiday in the United States for honoring and U.S.",
+      "keywords": [
+        "atlantic",
+        "crude_oil",
+        "products",
+        "gas",
+        "gasoline",
+        "last",
+        "year",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 964,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2006_12_01_a_non_november__root",
+  "doc_id": "poten_tankers_no_date_poten_2006_12_01_a_non_november",
+  "parent_id": null,
+  "title": "A Non-November",
+  "section_path": [
+    "A Non-November"
+  ],
+  "section_path_text": "A Non-November",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "A Non-November\nThe VLCC spot market has followed up on a very strong third quarter with an extremely weak fourth quarter to-date. Strong summer rates, at a time of the year when rates have been relatively weak historically, may have created some false hope about the freight prospects for the end of the year. There was much reason to believe that this year's fourth quarter was poised to be just as strong as 2004 and 2005.",
+  "keywords": [
+    "vlcc",
+    "brazil",
+    "meg",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "gas",
+    "crude",
+    "refinery",
+    "utilization",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 450,
+  "source_path": "reports/poten/2006/poten_2006-12-01_a-non-november.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_12_01_a_non_november__s01_a_non_november",
+      "doc_id": "poten_tankers_no_date_poten_2006_12_01_a_non_november",
+      "parent_id": "poten_tankers_no_date_poten_2006_12_01_a_non_november__root",
+      "title": "A Non-November",
+      "section_path": [
+        "A Non-November"
+      ],
+      "section_path_text": "A Non-November",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The VLCC spot market has followed up on a very strong third quarter with an extremely weak fourth quarter to-date. Strong summer rates, at a time of the year when rates have been relatively weak historically, may have created some false hope about the freight prospects for the end of the year.",
+      "keywords": [
+        "vlcc",
+        "brazil",
+        "meg",
+        "us_gulf",
+        "quarter",
+        "fourth",
+        "strong",
+        "year"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 177,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_12_01_a_non_november__s02_still_stocked",
+      "doc_id": "poten_tankers_no_date_poten_2006_12_01_a_non_november",
+      "parent_id": "poten_tankers_no_date_poten_2006_12_01_a_non_november__root",
+      "title": "Still Stocked",
+      "section_path": [
+        "Still Stocked"
+      ],
+      "section_path_text": "Still Stocked",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The combination of low refinery utilization and high crude oil stocks has led to lower demand for crude oil imports in the US. The chart below shows refinery utilization.",
+      "keywords": [
+        "crude_oil",
+        "refinery",
+        "crude",
+        "november",
+        "oil",
+        "utilization",
+        "below",
+        "chart"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 59,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_12_01_a_non_november__s03_refinery_utilization",
+      "doc_id": "poten_tankers_no_date_poten_2006_12_01_a_non_november",
+      "parent_id": "poten_tankers_no_date_poten_2006_12_01_a_non_november__root",
+      "title": "Refinery Utilization (%)",
+      "section_path": [
+        "Refinery Utilization (%)"
+      ],
+      "section_path_text": "Refinery Utilization (%)",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Crude oil stocks in the United States are still well above historic levels at over 340 million barrels. The chart below shows crude oil stocks in the United States.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "crude",
+        "demand",
+        "utilization",
+        "barrels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 199,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

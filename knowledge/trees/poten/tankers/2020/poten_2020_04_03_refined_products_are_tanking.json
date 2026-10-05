@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2020_04_03_refined_products_are_tanking__root",
+  "doc_id": "poten_tankers_no_date_poten_2020_04_03_refined_products_are_tanking",
+  "parent_id": null,
+  "title": "Refined Products Are Tanking",
+  "section_path": [
+    "Refined Products Are Tanking"
+  ],
+  "section_path_text": "Refined Products Are Tanking",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Floating storage on product tankers is on the rise\nIn the last few weeks, since the collapse of the OPEC+ deal and the various announcements of oil production growth by Saudi Arabia and other producers, the focus of the oil markets has been squarely on the crude oil tanker market and VLCCs in particular. Record spot rates and rapidly rising floating storage levels dominated the headlines. However, on the oil demand side of the equation, it is not the crude oil producers that are on the frontlines.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "product",
+    "demand",
+    "are",
+    "jet"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 788,
+  "source_path": "reports/poten/2020/poten_2020-04-03_refined-products-are-tanking.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_04_03_refined_products_are_tanking__s01_floating_storage_on_product_tankers_is_on_the_rise",
+      "doc_id": "poten_tankers_no_date_poten_2020_04_03_refined_products_are_tanking",
+      "parent_id": "poten_tankers_no_date_poten_2020_04_03_refined_products_are_tanking__root",
+      "title": "Floating storage on product tankers is on the rise",
+      "section_path": [
+        "Floating storage on product tankers is on the rise"
+      ],
+      "section_path_text": "Floating storage on product tankers is on the rise",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In the last few weeks, since the collapse of the OPEC+ deal and the various announcements of oil production growth by Saudi Arabia and other producers, the focus of the oil markets has been squarely on the crude oil tanker market and VLCCs in particular. Record spot rates and rapidly rising floating storage levels dominated the headlines.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "europe",
+        "crude_oil",
+        "products",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 777,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

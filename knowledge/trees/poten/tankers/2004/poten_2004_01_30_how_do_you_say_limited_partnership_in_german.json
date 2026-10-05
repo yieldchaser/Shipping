@@ -1,0 +1,132 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2004_01_30_how_do_you_say_limited_partnership_in_german__root",
+  "doc_id": "poten_tankers_no_date_poten_2004_01_30_how_do_you_say_limited_partnership_in_german",
+  "parent_id": null,
+  "title": "How Do You Say \\\"Limited Partnership\\\" in German?",
+  "section_path": [
+    "How Do You Say \\\"Limited Partnership\\\" in German?"
+  ],
+  "section_path_text": "How Do You Say \\\"Limited Partnership\\\" in German?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "How Do You Say \"Limited Partnership\" in German? How Do You Say \"Limited Partnership\" in German? January 30, 2004 The tanker market is welcoming a relatively new purchasing structure thanks to the German government's tax code.",
+  "keywords": [
+    "container",
+    "tax",
+    "vessel",
+    "german",
+    "time",
+    "are",
+    "can",
+    "charter",
+    "equity",
+    "scheme",
+    "years",
+    "accelerated"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 821,
+  "source_path": "reports/poten/2004/poten_2004-01-30_how-do-you-say-limited-partnership-in-german.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_01_30_how_do_you_say_limited_partnership_in_german__s01_how_do_you_say_limited_partnership_in_german",
+      "doc_id": "poten_tankers_no_date_poten_2004_01_30_how_do_you_say_limited_partnership_in_german",
+      "parent_id": "poten_tankers_no_date_poten_2004_01_30_how_do_you_say_limited_partnership_in_german__root",
+      "title": "How Do You Say \"Limited Partnership\" in German?",
+      "section_path": [
+        "How Do You Say \"Limited Partnership\" in German?"
+      ],
+      "section_path_text": "How Do You Say \"Limited Partnership\" in German?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "How Do You Say \"Limited Partnership\" in German? January 30, 2004 The tanker market is welcoming a relatively new purchasing structure thanks to the German government's tax code.",
+      "keywords": [
+        "container",
+        "tax",
+        "german",
+        "limited",
+        "structure",
+        "years",
+        "abbreviation",
+        "allows"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 132,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_01_30_how_do_you_say_limited_partnership_in_german__s02_individual",
+      "doc_id": "poten_tankers_no_date_poten_2004_01_30_how_do_you_say_limited_partnership_in_german",
+      "parent_id": "poten_tankers_no_date_poten_2004_01_30_how_do_you_say_limited_partnership_in_german__root",
+      "title": "Individual",
+      "section_path": [
+        "Individual"
+      ],
+      "section_path_text": "Individual",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "high-income"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_01_30_how_do_you_say_limited_partnership_in_german__s03_operating",
+      "doc_id": "poten_tankers_no_date_poten_2004_01_30_how_do_you_say_limited_partnership_in_german",
+      "parent_id": "poten_tankers_no_date_poten_2004_01_30_how_do_you_say_limited_partnership_in_german__root",
+      "title": "Operating",
+      "section_path": [
+        "Operating"
+      ],
+      "section_path_text": "Operating",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "agreement"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_01_30_how_do_you_say_limited_partnership_in_german__s04_seller",
+      "doc_id": "poten_tankers_no_date_poten_2004_01_30_how_do_you_say_limited_partnership_in_german",
+      "parent_id": "poten_tankers_no_date_poten_2004_01_30_how_do_you_say_limited_partnership_in_german__root",
+      "title": "(Seller)",
+      "section_path": [
+        "(Seller)"
+      ],
+      "section_path_text": "(Seller)",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "How Does It Work - Start with the Money... In order to purchase a vessel, the KG raises money from private individuals generally through financial intermediaries.",
+      "keywords": [
+        "vessel",
+        "tax",
+        "time",
+        "are",
+        "german",
+        "charter",
+        "equity",
+        "accelerated"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 664,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

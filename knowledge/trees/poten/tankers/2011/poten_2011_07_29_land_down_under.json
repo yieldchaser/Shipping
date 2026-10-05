@@ -1,0 +1,195 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_07_29_land_down_under__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_07_29_land_down_under",
+  "parent_id": null,
+  "title": "Land Down Under",
+  "section_path": [
+    "Land Down Under"
+  ],
+  "section_path_text": "Land Down Under",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Land Down Under\nDespite persistent weakness in most OECD economies, continued demand for Australia's commodities, particularly from its rapidly developing Asian neighbors, has helped the country's economy to rebound from the Great Recession much faster than its European and North American peers. Energy exports make up a significant portion of Australia's GDP, and the country has continued to invest in developing these outbound resources. In the face of declining crude oil volumes, Australia has shifted attention to its more abundant hydrocarbons, namely, natural gas.",
+  "keywords": [
+    "aframax",
+    "lng",
+    "china",
+    "australia",
+    "pacific",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "gas",
+    "production",
+    "oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 714,
+  "source_path": "reports/poten/2011/poten_2011-07-29_land-down-under.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_07_29_land_down_under__s01_land_down_under",
+      "doc_id": "poten_tankers_no_date_poten_2011_07_29_land_down_under",
+      "parent_id": "poten_tankers_no_date_poten_2011_07_29_land_down_under__root",
+      "title": "Land Down Under",
+      "section_path": [
+        "Land Down Under"
+      ],
+      "section_path_text": "Land Down Under",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Despite persistent weakness in most OECD economies, continued demand for Australia's commodities, particularly from its rapidly developing Asian neighbors, has helped the country's economy to rebound from the Great Recession much faster than its European and North American peers. Energy exports make up a significant portion of Australia's GDP, and the country has continued to invest in developing these outbound resources.",
+      "keywords": [
+        "lng",
+        "australia",
+        "pacific",
+        "europe",
+        "crude_oil",
+        "gas",
+        "oil",
+        "production"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 280,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_07_29_land_down_under__s02_australian_oil_production",
+      "doc_id": "poten_tankers_no_date_poten_2011_07_29_land_down_under",
+      "parent_id": "poten_tankers_no_date_poten_2011_07_29_land_down_under__root",
+      "title": "Australian Oil Production",
+      "section_path": [
+        "Australian Oil Production"
+      ],
+      "section_path_text": "Australian Oil Production",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "australia",
+        "australian",
+        "fixture",
+        "reported",
+        "volumes",
+        "vs."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 10,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_07_29_land_down_under__s03_reported_fixture_volumes",
+      "doc_id": "poten_tankers_no_date_poten_2011_07_29_land_down_under",
+      "parent_id": "poten_tankers_no_date_poten_2011_07_29_land_down_under__root",
+      "title": "Reported Fixture Volumes",
+      "section_path": [
+        "Reported Fixture Volumes"
+      ],
+      "section_path_text": "Reported Fixture Volumes",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Total Oil Production It is estimated that Australia's oil production will increase to reach 620 kbd over the course of 2012. Some of this gain will come from incremental output at Australia's existing fields and developments planned to come on stream in the next two years.",
+      "keywords": [
+        "lng",
+        "australia",
+        "crude_oil",
+        "gas",
+        "production",
+        "come",
+        "oil",
+        "additionally"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 80,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_07_29_land_down_under__s04_getting_pacific",
+      "doc_id": "poten_tankers_no_date_poten_2011_07_29_land_down_under",
+      "parent_id": "poten_tankers_no_date_poten_2011_07_29_land_down_under__root",
+      "title": "Getting Pacific",
+      "section_path": [
+        "Getting Pacific"
+      ],
+      "section_path_text": "Getting Pacific",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Australia's condensate production is poised to add over 250 kbd by 2015. If all new production is exported, this could create demand for over 180 additional Aframax voyages.",
+      "keywords": [
+        "aframax",
+        "australia",
+        "crude_oil",
+        "condensate",
+        "demand",
+        "australian",
+        "production",
+        "accounted"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 130,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_07_29_land_down_under__s05_nw_australia_north",
+      "doc_id": "poten_tankers_no_date_poten_2011_07_29_land_down_under",
+      "parent_id": "poten_tankers_no_date_poten_2011_07_29_land_down_under__root",
+      "title": "NW Australia - North",
+      "section_path": [
+        "NW Australia - North"
+      ],
+      "section_path_text": "NW Australia - North",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "",
+      "keywords": [
+        "american",
+        "coast",
+        "west"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_07_29_land_down_under__s06_projected_trade_lane",
+      "doc_id": "poten_tankers_no_date_poten_2011_07_29_land_down_under",
+      "parent_id": "poten_tankers_no_date_poten_2011_07_29_land_down_under__root",
+      "title": "Projected trade lane",
+      "section_path": [
+        "Projected trade lane"
+      ],
+      "section_path_text": "Projected trade lane",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "The largest markets for Australia's condensate exports include some of the fastest growing economies worldwide, and it is likely that trade with these Asian markets will grow as condensate production also increases. The anticipated growth in automobile demand in both India and China will likely whet regional refiners' appetite for high‐naphtha content oils.",
+      "keywords": [
+        "aframax",
+        "china",
+        "australia",
+        "india",
+        "crude_oil",
+        "products",
+        "gas",
+        "condensate"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 183,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2023_03_24_going_going_down__root",
+  "doc_id": "poten_tankers_no_date_poten_2023_03_24_going_going_down",
+  "parent_id": null,
+  "title": "Going Going Down",
+  "section_path": [
+    "Going Going Down"
+  ],
+  "section_path_text": "Going Going Down",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "West African crude oil exports have been gradually declining\nWest Africa is home to two significant crude oil producers and a large number of smaller players. The two largest producers are Nigeria and Angola, and they dominate the West African export market. There are many smaller producers, like Cameroon, Gabon, Ghana, Equatorial Guinea and Togo, but their exports don't play a significant role in the seaborne export market.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "west_africa",
+    "europe",
+    "india",
+    "crude_oil",
+    "angola",
+    "crude",
+    "nigeria",
+    "its",
+    "oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 962,
+  "source_path": "reports/poten/2023/poten_2023-03-24_going-going-down.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2023_03_24_going_going_down__s01_west_african_crude_oil_exports_have_been_gradually_declining",
+      "doc_id": "poten_tankers_no_date_poten_2023_03_24_going_going_down",
+      "parent_id": "poten_tankers_no_date_poten_2023_03_24_going_going_down__root",
+      "title": "West African crude oil exports have been gradually declining",
+      "section_path": [
+        "West African crude oil exports have been gradually declining"
+      ],
+      "section_path_text": "West African crude oil exports have been gradually declining",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "West Africa is home to two significant crude oil producers and a large number of smaller players. The two largest producers are Nigeria and Angola, and they dominate the West African export market.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "west_africa",
+        "europe",
+        "india",
+        "crude_oil",
+        "angola"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 952,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

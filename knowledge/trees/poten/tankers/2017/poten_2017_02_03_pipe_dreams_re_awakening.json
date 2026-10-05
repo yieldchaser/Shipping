@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2017_02_03_pipe_dreams_re_awakening__root",
+  "doc_id": "poten_tankers_no_date_poten_2017_02_03_pipe_dreams_re_awakening",
+  "parent_id": null,
+  "title": "Pipe Dreams Re Awakening",
+  "section_path": [
+    "Pipe Dreams Re Awakening"
+  ],
+  "section_path_text": "Pipe Dreams Re Awakening",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "What will these pipelines mean for the U.S. On January 24, in his first week in office, President Trump issued several memos and an executive order aimed at streamlining and expediting approvals for midstream infrastructure (like pipelines). Two of the projects that President Trump would like to see approved (fulfilling some of his election campaign promises) are the Keystone XL Pipeline (\"KXL\") and the Dakota Access Pipeline (\"DAPL\").",
+  "keywords": [
+    "vlcc",
+    "atlantic",
+    "crude_oil",
+    "steel",
+    "pipeline",
+    "oil",
+    "u.s.",
+    "are",
+    "crude",
+    "canadian",
+    "north",
+    "president"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 973,
+  "source_path": "reports/poten/2017/poten_2017-02-03_pipe-dreams-re-awakening.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2017_02_03_pipe_dreams_re_awakening__s01_what_will_these_pipelines_mean_for_the_u_s_crude_trade",
+      "doc_id": "poten_tankers_no_date_poten_2017_02_03_pipe_dreams_re_awakening",
+      "parent_id": "poten_tankers_no_date_poten_2017_02_03_pipe_dreams_re_awakening__root",
+      "title": "What will these pipelines mean for the U.S. crude trade?",
+      "section_path": [
+        "What will these pipelines mean for the U.S. crude trade?"
+      ],
+      "section_path_text": "What will these pipelines mean for the U.S. crude trade?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "On January 24, in his first week in office, President Trump issued several memos and an executive order aimed at streamlining and expediting approvals for midstream infrastructure (like pipelines). Two of the projects that President Trump would like to see approved (fulfilling some of his election campaign promises) are the Keystone XL Pipeline (\"KXL\") and the Dakota Access Pipeline (\"DAPL\").",
+      "keywords": [
+        "vlcc",
+        "atlantic",
+        "crude_oil",
+        "steel",
+        "pipeline",
+        "oil",
+        "are",
+        "u.s."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 960,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-09-28_ism_28_09_2026_ism_coasters_and_mini_bulkers_week_39__root",
+  "doc_id": "broker_reports_broker_report_2026-09-28_ism_28_09_2026_ism_coasters_and_mini_bulkers_week_39",
+  "parent_id": null,
+  "title": "ISM coasters and mini bulkers - Week 39",
+  "section_path": [
+    "ISM coasters and mini bulkers - Week 39"
+  ],
+  "section_path_text": "ISM coasters and mini bulkers - Week 39",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "ISM coasters and mini bulkers - Week 39\n**Broker**: Ism\n**Published Date**: 28/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-39-2/](https://www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-39-2/)\n\nMarket Report Content\nCHARTERING MARKET AT HAND:\nHANDYSIZE AND SUPRAMAX/ULTRAMAX// WEEK 39\nSupramax/Ultramax and Handy Markets Strengthen Across the Atlantic\nSpot South Atlantic Supramax/Ultramax market\ncontinues to strengthen this week. Rates have risen\nacross all routes, with some deals being signed\nsignificantly above previous levels. In West Africa,\nshipowners are expecting a similar upward trend,\nparticularly in terms of shipments to India.",
+  "keywords": [
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "atlantic",
+    "west_africa",
+    "europe",
+    "india",
+    "coal",
+    "grain",
+    "steel",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1801,
+  "source_path": "reports/broker_reports/2026/ism/ism_28_09_2026_ism_coasters_and_mini_bulkers_week_39.md",
+  "source_url": "https://www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-39-2/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-09-28_ism_28_09_2026_ism_coasters_and_mini_bulkers_week_39__s01_ism_coasters_and_mini_bulkers_week_39",
+      "doc_id": "broker_reports_broker_report_2026-09-28_ism_28_09_2026_ism_coasters_and_mini_bulkers_week_39",
+      "parent_id": "broker_reports_broker_report_2026-09-28_ism_28_09_2026_ism_coasters_and_mini_bulkers_week_39__root",
+      "title": "ISM coasters and mini bulkers - Week 39",
+      "section_path": [
+        "ISM coasters and mini bulkers - Week 39"
+      ],
+      "section_path_text": "ISM coasters and mini bulkers - Week 39",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: Ism\n**Published Date**: 28/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-39-2/](https://www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-39-2/)",
+      "keywords": [
+        "https",
+        "www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-39-2",
+        "broker",
+        "date",
+        "ism",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 72,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-09-28_ism_28_09_2026_ism_coasters_and_mini_bulkers_week_39__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-09-28_ism_28_09_2026_ism_coasters_and_mini_bulkers_week_39",
+      "parent_id": "broker_reports_broker_report_2026-09-28_ism_28_09_2026_ism_coasters_and_mini_bulkers_week_39__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "CHARTERING MARKET AT HAND:\nHANDYSIZE AND SUPRAMAX/ULTRAMAX// WEEK 39\nSupramax/Ultramax and Handy Markets Strengthen Across the Atlantic\nSpot South Atlantic Supramax/Ultramax market\ncontinues to strengthen this week. Rates have risen\nacross all routes, with some deals being signed\nsignificantly above previous levels.",
+      "keywords": [
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "atlantic",
+        "west_africa",
+        "europe",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1712,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

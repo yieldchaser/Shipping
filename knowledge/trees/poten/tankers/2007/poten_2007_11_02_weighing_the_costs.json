@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_11_02_weighing_the_costs__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_11_02_weighing_the_costs",
+  "parent_id": null,
+  "title": "Weighing the Costs",
+  "section_path": [
+    "Weighing the Costs"
+  ],
+  "section_path_text": "Weighing the Costs",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Bunker Prices & WS Rates\nWhile it is sometimes hard for the general public to engender sympathy for shipowners that have enjoyed record earnings in recent years, the fact remains that in today's market fuel costs are an increasingly higher percentage of total earnings. The chart below shows the fuel costs per day on VLCCs and Handymaxes for the market today and one year ago, as well as the associated WS rates and analogous time charter equivalents (TCEs). Total Bunker Costs\n2007 $40,357 **Laden Consumption assume VLCC (92 MT per day) / Handymax (34 MT per day) At present, the two vessel segments that are getting hardest hit by higher bunker prices in are the VLCCs and the Handymaxes.",
+  "keywords": [
+    "handysize",
+    "vlcc",
+    "brazil",
+    "meg",
+    "crude_oil",
+    "products",
+    "gas",
+    "fuel",
+    "are",
+    "bunker",
+    "today",
+    "higher"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 385,
+  "source_path": "reports/poten/2007/poten_2007-11-02_weighing-the-costs.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_11_02_weighing_the_costs__s01_bunker_prices_ws_rates",
+      "doc_id": "poten_tankers_no_date_poten_2007_11_02_weighing_the_costs",
+      "parent_id": "poten_tankers_no_date_poten_2007_11_02_weighing_the_costs__root",
+      "title": "Bunker Prices & WS Rates",
+      "section_path": [
+        "Bunker Prices & WS Rates"
+      ],
+      "section_path_text": "Bunker Prices & WS Rates",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "While it is sometimes hard for the general public to engender sympathy for shipowners that have enjoyed record earnings in recent years, the fact remains that in today's market fuel costs are an increasingly higher percentage of total earnings. The chart below shows the fuel costs per day on VLCCs and Handymaxes for the market today and one year ago, as well as the associated WS rates and analogous time charter equivalents (TCEs).",
+      "keywords": [
+        "handysize",
+        "vlcc",
+        "brazil",
+        "costs",
+        "fuel",
+        "today",
+        "ago",
+        "analogous"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 87,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_11_02_weighing_the_costs__s02_total_bunker_costs",
+      "doc_id": "poten_tankers_no_date_poten_2007_11_02_weighing_the_costs",
+      "parent_id": "poten_tankers_no_date_poten_2007_11_02_weighing_the_costs__root",
+      "title": "Total Bunker Costs",
+      "section_path": [
+        "Total Bunker Costs"
+      ],
+      "section_path_text": "Total Bunker Costs",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "2007 $40,357 **Laden Consumption assume VLCC (92 MT per day) / Handymax (34 MT per day) At present, the two vessel segments that are getting hardest hit by higher bunker prices in are the VLCCs and the Handymaxes. At current market levels, on a VLCC Arabian Gulf - Far East voyage over 60% of total voyage revenue goes toward paying the fuel bill, as compared to a year ago when 31% of total revenue went to fuel.",
+      "keywords": [
+        "handysize",
+        "vlcc",
+        "meg",
+        "are",
+        "compared",
+        "revenue",
+        "voyage",
+        "day"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 165,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_11_02_weighing_the_costs__s03_few_signs_of_relief",
+      "doc_id": "poten_tankers_no_date_poten_2007_11_02_weighing_the_costs",
+      "parent_id": "poten_tankers_no_date_poten_2007_11_02_weighing_the_costs__root",
+      "title": "Few Signs of Relief",
+      "section_path": [
+        "Few Signs of Relief"
+      ],
+      "section_path_text": "Few Signs of Relief",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Clearly, the increase in bunker prices can be tied to higher overall crude oil prices, but relative price strengths of products is a key driver for refiners looking to increase margins. Unfortunately for shipowners, the current price strength of fuel oil to crude oil is only about 65%.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "oil",
+        "price",
+        "refiners",
+        "bunker",
+        "can"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 116,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

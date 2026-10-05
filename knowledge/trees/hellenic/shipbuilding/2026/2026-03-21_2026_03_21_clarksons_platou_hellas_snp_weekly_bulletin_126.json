@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1794,
-  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126.html",
+  "token_count": 1810,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-126",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nThe S&P market remains active, with asset values in both the tanker and dry bulk sectors remaining firm.",
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf\n\n### Clarkson Hellas Ltd. # Desk Talk\n\nThe S&P market remains active, with asset values in both the tanker and dry bulk sectors remaining firm.",
       "keywords": [
         "panamax",
         "supramax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1418,
+      "token_count": 1434,
       "section_type": "linked_pdf",
       "children": []
     }

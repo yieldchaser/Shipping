@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_11_30_the_knife_edge__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_11_30_the_knife_edge",
+  "parent_id": null,
+  "title": "The Knife Edge",
+  "section_path": [
+    "The Knife Edge"
+  ],
+  "section_path_text": "The Knife Edge",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Knife Edge\nIn the past week the spot tanker market experienced a sizeable upward swing. Spot VLCC rates increased significantly creating some momentum to put the fourth quarter in motion. With strong crude oil demand prevailing worldwide, the total volume of VLCC fixture activity has seen a significant increase in 2007 to date.",
+  "keywords": [
+    "vlcc",
+    "brazil",
+    "meg",
+    "us_gulf",
+    "crude_oil",
+    "gulf",
+    "activity",
+    "arabian",
+    "day",
+    "worldwide",
+    "increase",
+    "one-day"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 374,
+  "source_path": "reports/poten/2007/poten_2007-11-30_the-knife-edge.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_11_30_the_knife_edge__s01_the_knife_edge",
+      "doc_id": "poten_tankers_no_date_poten_2007_11_30_the_knife_edge",
+      "parent_id": "poten_tankers_no_date_poten_2007_11_30_the_knife_edge__root",
+      "title": "The Knife Edge",
+      "section_path": [
+        "The Knife Edge"
+      ],
+      "section_path_text": "The Knife Edge",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In the past week the spot tanker market experienced a sizeable upward swing. Spot VLCC rates increased significantly creating some momentum to put the fourth quarter in motion.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "activity",
+        "worldwide",
+        "fixture",
+        "fixtures",
+        "reported",
+        "since"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 119,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_11_30_the_knife_edge__s02_spot_market_activity_vlcc",
+      "doc_id": "poten_tankers_no_date_poten_2007_11_30_the_knife_edge",
+      "parent_id": "poten_tankers_no_date_poten_2007_11_30_the_knife_edge__root",
+      "title": "Spot Market Activity - VLCC",
+      "section_path": [
+        "Spot Market Activity - VLCC"
+      ],
+      "section_path_text": "Spot Market Activity - VLCC",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The increase in worldwide VLCC activity contributed to less VLCC supply in the Arabian Gulf, a key demand area for VLCCs. The chart below shows the daily Worldscale (WS) rate for VLCCs Arabian Gulf - Far East compared to the availability of vessels in the Arabian Gulf the next 30 days.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "arabian",
+        "gulf",
+        "activity",
+        "area",
+        "availability",
+        "below"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 64,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_11_30_the_knife_edge__s03_next_30_days",
+      "doc_id": "poten_tankers_no_date_poten_2007_11_30_the_knife_edge",
+      "parent_id": "poten_tankers_no_date_poten_2007_11_30_the_knife_edge__root",
+      "title": "Next 30 Days",
+      "section_path": [
+        "Next 30 Days"
+      ],
+      "section_path_text": "Next 30 Days",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "VLCC WS (AG - FE) A tightened supply of vessels available to meet cargoes creates an environment in which rates can become quite volatile, and subject to significant upswings.",
+      "keywords": [
+        "vlcc",
+        "available",
+        "become",
+        "can",
+        "cargoes",
+        "creates",
+        "environment",
+        "meet"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 37,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_11_30_the_knife_edge__s04_run_up_in_rates",
+      "doc_id": "poten_tankers_no_date_poten_2007_11_30_the_knife_edge",
+      "parent_id": "poten_tankers_no_date_poten_2007_11_30_the_knife_edge__root",
+      "title": "Run-Up in Rates",
+      "section_path": [
+        "Run-Up in Rates"
+      ],
+      "section_path_text": "Run-Up in Rates",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Last week saw the largest one-day increase in WS rates in the past five years- a 50 WS point jump! Day rates on VLCCs in the Arabian Gulf - Far East are achieving $150,000 per day on a timecharter equivalent (TCE) basis.",
+      "keywords": [
+        "vlcc",
+        "brazil",
+        "meg",
+        "us_gulf",
+        "day",
+        "gulf",
+        "one-day",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 133,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

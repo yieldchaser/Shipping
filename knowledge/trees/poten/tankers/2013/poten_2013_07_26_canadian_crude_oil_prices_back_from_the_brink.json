@@ -1,0 +1,144 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2013_07_26_canadian_crude_oil_prices_back_from_the_brink__root",
+  "doc_id": "poten_tankers_no_date_poten_2013_07_26_canadian_crude_oil_prices_back_from_the_brink",
+  "parent_id": null,
+  "title": "Canadian Crude Oil Prices Back from the Brink",
+  "section_path": [
+    "Canadian Crude Oil Prices Back from the Brink"
+  ],
+  "section_path_text": "Canadian Crude Oil Prices Back from the Brink",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Canadian Crude Oil Prices Back from the Brink\nFrom 4Q2012 to 1Q2013, the Western Canadian Select (WCS) crude oil benchmark experienced historically low prices during a period when Canadian crude oil production underwent rapid growth that shows no signs of slowing (see 8 February 2013 Opinion ). WCS's struggles were caused by this influx in crude oil production and the resulting transportation bottleneck. While the building of TransCanada Corp.'s highly contested Keystone XL pipeline could provide relief to this supply glut, the project awaits U.S.",
+  "keywords": [
+    "pacific",
+    "crude_oil",
+    "oil",
+    "crude",
+    "canadian",
+    "rail",
+    "u.s.",
+    "are",
+    "heavy",
+    "prices",
+    "transportation",
+    "wcs"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 645,
+  "source_path": "reports/poten/2013/poten_2013-07-26_canadian-crude-oil-prices-back-from-the-brink.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_07_26_canadian_crude_oil_prices_back_from_the_brink__s01_canadian_crude_oil_prices_back_from_the_brink",
+      "doc_id": "poten_tankers_no_date_poten_2013_07_26_canadian_crude_oil_prices_back_from_the_brink",
+      "parent_id": "poten_tankers_no_date_poten_2013_07_26_canadian_crude_oil_prices_back_from_the_brink__root",
+      "title": "Canadian Crude Oil Prices Back from the Brink",
+      "section_path": [
+        "Canadian Crude Oil Prices Back from the Brink"
+      ],
+      "section_path_text": "Canadian Crude Oil Prices Back from the Brink",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "From 4Q2012 to 1Q2013, the Western Canadian Select (WCS) crude oil benchmark experienced historically low prices during a period when Canadian crude oil production underwent rapid growth that shows no signs of slowing (see 8 February 2013 Opinion ). WCS's struggles were caused by this influx in crude oil production and the resulting transportation bottleneck.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "crude",
+        "canadian",
+        "prices",
+        "wcs",
+        "barrel",
+        "bloomberg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 294,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_07_26_canadian_crude_oil_prices_back_from_the_brink__s02_rail_cars_have_provided",
+      "doc_id": "poten_tankers_no_date_poten_2013_07_26_canadian_crude_oil_prices_back_from_the_brink",
+      "parent_id": "poten_tankers_no_date_poten_2013_07_26_canadian_crude_oil_prices_back_from_the_brink__root",
+      "title": "Rail cars have provided",
+      "section_path": [
+        "Rail cars have provided"
+      ],
+      "section_path_text": "Rail cars have provided",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "relief to the WCS oil supply overflow The aforementioned surge in rail transportation of Canadian crude oil has been stark. The number of rail cars used to transport oil has more than tripled over the last two years, rising from a low of 4,549 in June of 2011 to 14,217 in April of 2013.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "crude",
+        "canadian",
+        "rail",
+        "car",
+        "grades",
+        "heavier"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 295,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_07_26_canadian_crude_oil_prices_back_from_the_brink__s03_u_s_refineries_are",
+      "doc_id": "poten_tankers_no_date_poten_2013_07_26_canadian_crude_oil_prices_back_from_the_brink",
+      "parent_id": "poten_tankers_no_date_poten_2013_07_26_canadian_crude_oil_prices_back_from_the_brink__root",
+      "title": "U.S. refineries are",
+      "section_path": [
+        "U.S. refineries are"
+      ],
+      "section_path_text": "U.S. refineries are",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "unable to process Canada's heavy crude at a high rate",
+      "keywords": [
+        "canada",
+        "crude",
+        "heavy",
+        "high",
+        "process",
+        "unable"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_07_26_canadian_crude_oil_prices_back_from_the_brink__s04_early_pipeline_plans",
+      "doc_id": "poten_tankers_no_date_poten_2013_07_26_canadian_crude_oil_prices_back_from_the_brink",
+      "parent_id": "poten_tankers_no_date_poten_2013_07_26_canadian_crude_oil_prices_back_from_the_brink__root",
+      "title": "Early pipeline plans",
+      "section_path": [
+        "Early pipeline plans"
+      ],
+      "section_path_text": "Early pipeline plans",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "could shift Canadian crude oil from the limited market in North America to Pacific Basin refiners",
+      "keywords": [
+        "pacific",
+        "crude_oil",
+        "america",
+        "basin",
+        "canadian",
+        "could",
+        "crude",
+        "limited"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 17,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

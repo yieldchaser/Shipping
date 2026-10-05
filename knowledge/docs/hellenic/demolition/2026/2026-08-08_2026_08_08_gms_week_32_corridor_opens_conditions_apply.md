@@ -7,6 +7,7 @@ commodities:
 date: '2026-08-08'
 doc_id: hellenic_demolition_2026-08-08_2026_08_08_gms_week_32_corridor_opens_conditions_apply
 document_type: demolition_update
+is_error_page: false
 key_entities:
 - China
 - Vale
@@ -31,8 +32,7 @@ linked_assets_skipped: 1
 market_tone: constructive
 numeric_observation_count: 113
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: 'The week produced the war''s strangest artifact yet: a peace process
     with a price list. Iran and Oman agreed a temporaryshipping corridor through Hormuz,
@@ -42,8 +42,7 @@ numeric_observations:
   values:
   - 20.0
   - 20.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Oil deflated into the diplomacy and rebounded into the fine print.
     Brent fell for three sessions, helped by Saudi Aramco cutting Asian prices and
@@ -53,13 +52,12 @@ numeric_observations:
   values:
   - 2018.0
   - 3.0
-  - 82840.0
-  - 77670.0
+  - 82.84
+  - 77.67
   - 5.0
   - 15.0
   - 50.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Freight has made up its mind emphatically. The Baltic Dry Index rose
     four sessions to 3,063, crossing 3,000 for the first time since early June, while
@@ -69,14 +67,13 @@ numeric_observations:
   values:
   - 3063.0
   - 3000.0
-  - 6600.0
+  - 6.6
   - 5094.0
   - 2275.0
   - 15.0
   - 1608.0
   - 20.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: 'The data drought broke. Pakistan''s July CPI eased to 9.2% from 11.1%,
     back in single digits, though monthly prices rose 1.2% and the improvement owes
@@ -84,18 +81,17 @@ numeric_observations:
     CPI eased to 31.75%, against an '
   unit: usd_per_unit
   values:
-  - 9200.0
-  - 11100.0
+  - 9.2
+  - 11.1
   - 1.2
-  - 11500.0
-  - 31750.0
-  - 50490.0
-  - 9160.0
-  - 95200.0
+  - 11.5
+  - 31.75
+  - 50.49
+  - 9.16
+  - 95.2
   - 123.55
-  - 47710.0
-- &id005
-  section: Main
+  - 47.71
+- section: Main
   section_type: null
   source_line: At the beaches, Chattogram's July 29 to August 1 window cleared the
     flood-era backlog and closed on schedule, with anchorage rebuilding toward the
@@ -108,8 +104,7 @@ numeric_observations:
   - 12.0
   - 15.0
   - 57.0
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 32 of 2026, GMS Market Rankings / Vessel indications are as
     below.
@@ -117,15 +112,13 @@ numeric_observations:
   values:
   - 32.0
   - 2026.0
-- &id007
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Linked asset: 080812.jpg'
   unit: null
   values:
   - 80812.0
-- &id008
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_080812_22c9316177d5.jpg'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_080812_22c9316177d5.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_080812_22c9316177d5.jpg'
   unit: null
@@ -138,31 +131,27 @@ numeric_observations:
   - 22.0
   - 9316177.0
   - 5.0
-- &id009
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_080812_22c9316177d5.jpg'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_080812_22c9316177d5.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 687x150 mode=RGB'
   unit: null
   values:
   - 687.0
   - 150.0
-- &id010
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_080812_22c9316177d5.jpg'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_080812_22c9316177d5.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'
   unit: null
   values:
   - 120.0
   - 120.0
-- &id011
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_080812_22c9316177d5.jpg'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_080812_22c9316177d5.jpg'
   section_type: linked_image_asset
   source_line: 'Rank Location Sentiment 2 : :'
   unit: null
   values:
   - 2.0
-- &id012
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_080812_22c9316177d5.jpg'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_080812_22c9316177d5.jpg'
   section_type: linked_image_asset
   source_line: Bangladesh | Steady | 445-450/LDT | 465-470/LDT | 475-480/ LDT
   unit: null
@@ -173,8 +162,7 @@ numeric_observations:
   - -470.0
   - 475.0
   - -480.0
-- &id013
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_080812_22c9316177d5.jpg'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_080812_22c9316177d5.jpg'
   section_type: linked_image_asset
   source_line: '[2 [Pakistan | Steady _| 443-448/LDT | 463-468 /LDT | 473-478/LDT'
   unit: null
@@ -186,8 +174,7 @@ numeric_observations:
   - -468.0
   - 473.0
   - -478.0
-- &id014
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_080812_22c9316177d5.jpg'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_080812_22c9316177d5.jpg'
   section_type: linked_image_asset
   source_line: 422-427 / LDT_| 442-447 / LDT | 452-457 / LDT
   unit: null
@@ -198,8 +185,7 @@ numeric_observations:
   - -447.0
   - 452.0
   - -457.0
-- &id015
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_080812_22c9316177d5.jpg'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_080812_22c9316177d5.jpg'
   section_type: linked_image_asset
   source_line: '[4 [Turkey [Steady _| 262-264 LDT_| 272-274/ LDT | 282-284/ LDT'
   unit: null
@@ -211,54 +197,47 @@ numeric_observations:
   - -274.0
   - 282.0
   - -284.0
-- &id016
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: 1. ` *I
   unit: null
   values:
   - 1.0
-- &id017
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: August 0 7th, 2026
   unit: null
   values:
   - 7.0
   - 2026.0
-- &id018
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: Week 32
   unit: null
   values:
   - 32.0
-- &id019
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: Volume 282, Issue 1247
   unit: null
   values:
   - 282.0
   - 1247.0
-- &id020
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: hostile states to pay compensation before passage, imposing penalties
     of 20% of cargo value for violations, and
   unit: pct
   values:
   - 20.0
-- &id021
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: making full reopening conditional on Washington lifting its naval blockade.
     Washington floated a 20% Hormuz
   unit: pct
   values:
   - 20.0
-- &id022
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: Aramco cutting Asian prices and US crude inventories rising from their
     lowest levels since 2018, before bouncing 3%
@@ -266,18 +245,16 @@ numeric_observations:
   values:
   - 2018.0
   - 3.0
-- &id023
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: on Thursday as the transit bill circulated. Brent closed near USD 82.84
     and WTI at USD 77.67, down roughly 5% on
   unit: pct
   values:
-  - 82840.0
-  - 77670.0
+  - 82.84
+  - 77.67
   - 5.0
-- &id024
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: the week and 15% from the July peak. Urals is up more than 50% on the
     month. The clearest beneficiary of a Gulf war
@@ -285,8 +262,7 @@ numeric_observations:
   values:
   - 15.0
   - 50.0
-- &id025
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: Freight has made up its mind emphatically. The Baltic Dry Index rose
     four sessions to 3,063, crossing 3,000 for the
@@ -294,18 +270,16 @@ numeric_observations:
   values:
   - 3063.0
   - 3000.0
-- &id026
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: first time since early June, while Capesizes surged 6.6% in a day to
     5,0 94 before both paused Thursday. Panamaxes
   unit: pct
   values:
-  - 6600.0
+  - 6.6
   - 50.0
   - 94.0
-- &id027
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: reached 2,275, their best since June 15, while Supramax sat out the
     party at 1,608. Capesize earnings are up more than
@@ -314,69 +288,61 @@ numeric_observations:
   - 2275.0
   - 15.0
   - 1608.0
-- &id028
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: '20% in a week, and the recycling implication is familiar: the beach''s
     stiffest competition is not another beach, but a'
   unit: pct
   values:
   - 20.0
-- &id029
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: The data drought broke. Pakistan's July CPI eased to 9.2% from 11.1%,
     back in single digits, though monthly prices
   unit: pct
   values:
-  - 9200.0
-  - 11100.0
-- &id030
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+  - 9.2
+  - 11.1
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: rose 1.2% and the improvement owes more to arithmetic than relief.
     The SBP held at 11.5%. Turkey's official July CPI
   unit: pct
   values:
   - 1.2
-  - 11500.0
-- &id031
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+  - 11.5
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: Dea sed to 31.75%, against an independent estimate of 50.49%. Both
     cooled. The gap did not. Bangladesh's print had
   unit: pct
   values:
-  - 31750.0
-  - 50490.0
-- &id032
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+  - 31.75
+  - 50.49
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: not landed by publication, leaving June's 9.16% operative, with US
     and India CPI due Wednesday. Currencies moved
   unit: pct
   values:
-  - 9160.0
-- &id033
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+  - 9.16
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: • Inflation eases. first. USD/INR strengthened to near 95.20, its best
     since spring; the Taka held near 123.55; the Lira set fresh records
   unit: usd_per_unit
   values:
-  - 95200.0
+  - 95.2
   - 123.55
-- &id034
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: near 47.71; and the Pakistani Rupee closed near 278.20, again inside
     a quarter-rupee range, now less a pattern than a
   unit: null
   values:
-  - 47710.0
+  - 47.71
   - 278.2
-- &id035
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: At the beaches, Chattogram's July 29 to August 1 window cleared the
     flood-era backlog and closed on schedule, with
@@ -384,8 +350,7 @@ numeric_observations:
   values:
   - 29.0
   - 1.0
-- &id036
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: anchorage rebuilding toward the August 12 to 15 tides. Bangladesh retained
     the basin's best prices and firmest buyer
@@ -393,16 +358,14 @@ numeric_observations:
   values:
   - 12.0
   - 15.0
-- &id037
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: confidence, while recovery from a month that killed at least 57 people
     is now measured in reopened yards rather than
   unit: null
   values:
   - 57.0
-- &id038
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: GMS market rankings / pricing for week 32 of 2026 are on Page 5.
   unit: null
@@ -410,16 +373,14 @@ numeric_observations:
   - 32.0
   - 2026.0
   - 5.0
-- &id039
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id040
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: The July 29 to August 1 tide window closed on schedule on Saturday,
     clearing the backlog that
@@ -427,8 +388,7 @@ numeric_observations:
   values:
   - 29.0
   - 1.0
-- &id041
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: window from August 12 to 15. The monsoon has eased, yards are operating
     normally, and recovery
@@ -436,40 +396,35 @@ numeric_observations:
   values:
   - 12.0
   - 15.0
-- &id042
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: from a month that killed at least 57 people is now measured in reopened
     plots and moving cranes
   unit: null
   values:
   - 57.0
-- &id043
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: with mid-sized unit s the preferred hunting ground. Local plate eased
     from BDT 64,700 to BDT
   unit: null
   values:
   - 64700.0
-- &id044
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: 64,000 early in the week and held there through Friday, while vessel
     indications remained
   unit: null
   values:
   - 64000.0
-- &id045
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: The July inflation print had not landed by publication, leaving June's
     9.16% operative a little longer.
   unit: pct
   values:
-  - 9160.0
-- &id046
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+  - 9.16
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: 123.55, still pressing against the top of its band beneath the February
     2025 record of 123.87, while
@@ -478,48 +433,42 @@ numeric_observations:
   - 123.55
   - 2025.0
   - 123.87
-- &id047
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id048
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: USD/INR extended its recovery to near 95.20 by Friday, the Rupee's
     strongest level since spring, as
   unit: usd_per_unit
   values:
-  - 95200.0
-- &id049
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+  - 95.2
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: second week, while Wednesday's CPI print, June's 4.38% surprise still
     the operative number, will be
   unit: pct
   values:
   - 4.38
-- &id050
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: struck against a barrel roughly 15% cheaper than its July peak. The
     IMF, for good measure, nudged
   unit: pct
   values:
   - 15.0
-- &id051
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: India's 2026 growth forecast up to 6.5% on resilient domestic demand.
   unit: pct
   values:
   - 2026.0
-  - 6500.0
-- &id052
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+  - 6.5
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: subdued. Plate climbed from INR 38,300 to INR 39,200 through the week,
     while the strengthening
@@ -527,40 +476,35 @@ numeric_observations:
   values:
   - 38300.0
   - 39200.0
-- &id053
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: Rupee lifted the USD equivalent to about USD 411.50 by Friday. This
     time the plate moved with the
   unit: usd
   values:
   - 411.5
-- &id054
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: August 9 to 18.
   unit: null
   values:
   - 9.0
   - 18.0
-- &id055
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: The two-yard EU List proposal remains pending, the dark-fleet lane
     remains open, and more than 115
   unit: null
   values:
   - 115.0
-- &id056
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id057
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: PKR 200,000 per ton near USD 714, and buying appetite remains firm.
     The empty beach, for now,
@@ -568,36 +512,32 @@ numeric_observations:
   values:
   - 200000.0
   - 714.0
-- &id058
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: Pakistan's July CPI eased to 9.2% from 11.1%, back in single digits
     for the first time in months,
   unit: pct
   values:
-  - 9200.0
-  - 11100.0
-- &id059
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+  - 9.2
+  - 11.1
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: Ni ne point two. though prices still rose 1.2% on the month. Urban
     inflation ran 8.7% against 9.9% rural, while food
   unit: pct
   values:
   - 1.2
-  - 8700.0
-  - 9900.0
-- &id060
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+  - 8.7
+  - 9.9
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: remained the largest contributor at 10.6%. The SBP, meeting days before
     the print, held at 11.5%
   unit: pct
   values:
-  - 10600.0
-  - 11500.0
-- &id061
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+  - 10.6
+  - 11.5
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: and repeated its expectation of reaching the 5% to 7% target band by
     June. The direction is right.
@@ -605,57 +545,50 @@ numeric_observations:
   values:
   - 5.0
   - 7.0
-- &id062
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: USD/PKR closed near 278.20, once again inside a quarter-rupee weekly
     range through a corridor
   unit: usd_per_unit
   values:
   - 278.2
-- &id063
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: Rupee, metronome. deal, a toll bill, a 5% move in crude and its own
     inflation print. The description settled on in these
   unit: pct
   values:
   - 5.0
-- &id064
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id065
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: July CPI eased for a second consecutive month to 31.75%, the lowest
     since March and slightly below
   unit: pct
   values:
-  - 31750.0
-- &id066
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+  - 31.75
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: forecasts, even as monthly inflation accelerated to a three-month high
     of 1.78%. The Inflation
   unit: pct
   values:
   - 1.78
-- &id067
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: Research Group's parallel estimate eased too, to 50.49%, measures cooled,
     and the roughly 19-point
   unit: pct
   values:
-  - 50490.0
+  - 50.49
   - 19.0
-- &id068
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: while the central bank's next quarterly report lands August 13 and
     September 10 MPC is the next
@@ -663,16 +596,14 @@ numeric_observations:
   values:
   - 13.0
   - 10.0
-- &id069
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: USD/TRY set fresh records near 47.71, the managed slide continuing
     at its familiar pace, with the
   unit: usd_per_unit
   values:
-  - 47710.0
-- &id070
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+  - 47.71
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: effective overnight rate near 40% still carrying the policy load while
     the headline 37% waits for the
@@ -680,8 +611,7 @@ numeric_observations:
   values:
   - 40.0
   - 37.0
-- &id071
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: Aliaga's vessel indications held at USD 262 to 284 per LDT across vessel
     types, stable but
@@ -689,8 +619,7 @@ numeric_observations:
   values:
   - 262.0
   - 284.0
-- &id072
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: For Week 32 of 2026, GMS Market Rankings / Vessel indications are as
     below.
@@ -698,8 +627,7 @@ numeric_observations:
   values:
   - 32.0
   - 2026.0
-- &id073
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Steady 445-450 / LDT 465-470 / LDT 475-480 / LDT
   unit: null
@@ -711,8 +639,7 @@ numeric_observations:
   - -470.0
   - 475.0
   - -480.0
-- &id074
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan Steady 443-448 / LDT 463-468 / LDT 473-478 / LDT
   unit: null
@@ -724,8 +651,7 @@ numeric_observations:
   - -468.0
   - 473.0
   - -478.0
-- &id075
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: 3 India Steady 422-427 / LDT 442-447 / LDT 452-457 / LDT
   unit: null
@@ -737,8 +663,7 @@ numeric_observations:
   - -447.0
   - 452.0
   - -457.0
-- &id076
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Steady 262-264 / LDT 272-274 / LDT 282-284 / LDT
   unit: null
@@ -750,37 +675,33 @@ numeric_observations:
   - -274.0
   - 282.0
   - -284.0
-- &id077
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id078
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line:  72.55 million tonnes of CO₂ avoided through ship recycling at Alang
     is comparable to the emissions
   unit: null
   values:
-  - 72550.0
-- &id079
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+  - 72.55
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: from burning roughly 31 billion litres of petrol.
   unit: null
   values:
   - 31.0
-- &id080
-  section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+- section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line:  Ship recycling at Alang is estimated to have saved around 44.4 TWh
     of energy, enough to power
   unit: null
   values:
-  - 44400.0
+  - 44.4
 - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: August 09 - August 18
@@ -930,7 +851,7 @@ numeric_observations:
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
   values:
-  - 49400.0
+  - 49.4
   - 3197.9963
   - 1.24
   - 505.9716
@@ -940,17 +861,17 @@ numeric_observations:
   unit: null
   values:
   - 86216.0
-  - 75190.0
-  - 82100.0
+  - 75.19
+  - 82.1
   - 4650.072
 - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
   values:
-  - 65682.3
+  - 65.6823
   - 8037.0
-  - 81300.0
+  - 81.3
   - 5453.6311
 - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
   section_type: linked_pdf
@@ -1047,86 +968,676 @@ section_count: 3
 signals:
   numeric_observation_count: 113
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: 'The week produced the war''s strangest artifact yet: a peace process
+      with a price list. Iran and Oman agreed a temporaryshipping corridor through
+      Hormuz, explicitly not a full reopening, while US officials said a nuclear agreement
+      was within reach. Tehran''s par'
+    unit: pct
+    values:
+    - 20.0
+    - 20.0
+  - section: Main
+    section_type: null
+    source_line: Oil deflated into the diplomacy and rebounded into the fine print.
+      Brent fell for three sessions, helped by Saudi Aramco cutting Asian prices and
+      US crude inventories rising from their lowest levels since 2018, before bouncing
+      3% on Thursday as the transit bil
+    unit: pct
+    values:
+    - 2018.0
+    - 3.0
+    - 82840.0
+    - 77670.0
+    - 5.0
+    - 15.0
+    - 50.0
+  - section: Main
+    section_type: null
+    source_line: Freight has made up its mind emphatically. The Baltic Dry Index rose
+      four sessions to 3,063, crossing 3,000 for the first time since early June,
+      while Capesizes surged 6.6% in a day to 5,094 before both paused Thursday. Panamaxes
+      reached 2,275, their best sinc
+    unit: pct
+    values:
+    - 3063.0
+    - 3000.0
+    - 6600.0
+    - 5094.0
+    - 2275.0
+    - 15.0
+    - 1608.0
+    - 20.0
+  - section: Main
+    section_type: null
+    source_line: 'The data drought broke. Pakistan''s July CPI eased to 9.2% from
+      11.1%, back in single digits, though monthly prices rose 1.2% and the improvement
+      owes more to arithmetic than relief. The SBP held at 11.5%. Turkey''s official
+      July CPI eased to 31.75%, against an '
+    unit: usd_per_unit
+    values:
+    - 9200.0
+    - 11100.0
+    - 1.2
+    - 11500.0
+    - 31750.0
+    - 50490.0
+    - 9160.0
+    - 95200.0
+    - 123.55
+    - 47710.0
+  - section: Main
+    section_type: null
+    source_line: At the beaches, Chattogram's July 29 to August 1 window cleared the
+      flood-era backlog and closed on schedule, with anchorage rebuilding toward the
+      August 12 to 15 tides. Bangladesh retained the basin's best prices and firmest
+      buyer confidence, while recovery f
+    unit: null
+    values:
+    - 29.0
+    - 1.0
+    - 12.0
+    - 15.0
+    - 57.0
+  - section: Main
+    section_type: null
+    source_line: For Week 32 of 2026, GMS Market Rankings / Vessel indications are
+      as below.
+    unit: null
+    values:
+    - 32.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: 'Linked asset: 080812.jpg'
+    unit: null
+    values:
+    - 80812.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_080812_22c9316177d5.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_080812_22c9316177d5.jpg'
+    unit: null
+    values:
+    - 2026.0
+    - -8.0
+    - -8.0
+    - 32.0
+    - 80812.0
+    - 22.0
+    - 9316177.0
+    - 5.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_080812_22c9316177d5.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 687x150 mode=RGB'
+    unit: null
+    values:
+    - 687.0
+    - 150.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_080812_22c9316177d5.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (120, 120)'
+    unit: null
+    values:
+    - 120.0
+    - 120.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_080812_22c9316177d5.jpg'
+    section_type: linked_image_asset
+    source_line: 'Rank Location Sentiment 2 : :'
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_080812_22c9316177d5.jpg'
+    section_type: linked_image_asset
+    source_line: Bangladesh | Steady | 445-450/LDT | 465-470/LDT | 475-480/ LDT
+    unit: null
+    values:
+    - 445.0
+    - -450.0
+    - 465.0
+    - -470.0
+    - 475.0
+    - -480.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_080812_22c9316177d5.jpg'
+    section_type: linked_image_asset
+    source_line: '[2 [Pakistan | Steady _| 443-448/LDT | 463-468 /LDT | 473-478/LDT'
+    unit: null
+    values:
+    - 2.0
+    - 443.0
+    - -448.0
+    - 463.0
+    - -468.0
+    - 473.0
+    - -478.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_080812_22c9316177d5.jpg'
+    section_type: linked_image_asset
+    source_line: 422-427 / LDT_| 442-447 / LDT | 452-457 / LDT
+    unit: null
+    values:
+    - 422.0
+    - -427.0
+    - 442.0
+    - -447.0
+    - 452.0
+    - -457.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_080812_22c9316177d5.jpg'
+    section_type: linked_image_asset
+    source_line: '[4 [Turkey [Steady _| 262-264 LDT_| 272-274/ LDT | 282-284/ LDT'
+    unit: null
+    values:
+    - 4.0
+    - 262.0
+    - -264.0
+    - 272.0
+    - -274.0
+    - 282.0
+    - -284.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: 1. ` *I
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: August 0 7th, 2026
+    unit: null
+    values:
+    - 7.0
+    - 2026.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: Week 32
+    unit: null
+    values:
+    - 32.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: Volume 282, Issue 1247
+    unit: null
+    values:
+    - 282.0
+    - 1247.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: hostile states to pay compensation before passage, imposing penalties
+      of 20% of cargo value for violations, and
+    unit: pct
+    values:
+    - 20.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: making full reopening conditional on Washington lifting its naval
+      blockade. Washington floated a 20% Hormuz
+    unit: pct
+    values:
+    - 20.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: Aramco cutting Asian prices and US crude inventories rising from
+      their lowest levels since 2018, before bouncing 3%
+    unit: pct
+    values:
+    - 2018.0
+    - 3.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: on Thursday as the transit bill circulated. Brent closed near USD
+      82.84 and WTI at USD 77.67, down roughly 5% on
+    unit: pct
+    values:
+    - 82840.0
+    - 77670.0
+    - 5.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: the week and 15% from the July peak. Urals is up more than 50% on
+      the month. The clearest beneficiary of a Gulf war
+    unit: pct
+    values:
+    - 15.0
+    - 50.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: Freight has made up its mind emphatically. The Baltic Dry Index rose
+      four sessions to 3,063, crossing 3,000 for the
+    unit: null
+    values:
+    - 3063.0
+    - 3000.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: first time since early June, while Capesizes surged 6.6% in a day
+      to 5,0 94 before both paused Thursday. Panamaxes
+    unit: pct
+    values:
+    - 6600.0
+    - 50.0
+    - 94.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: reached 2,275, their best since June 15, while Supramax sat out the
+      party at 1,608. Capesize earnings are up more than
+    unit: null
+    values:
+    - 2275.0
+    - 15.0
+    - 1608.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: '20% in a week, and the recycling implication is familiar: the beach''s
+      stiffest competition is not another beach, but a'
+    unit: pct
+    values:
+    - 20.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: The data drought broke. Pakistan's July CPI eased to 9.2% from 11.1%,
+      back in single digits, though monthly prices
+    unit: pct
+    values:
+    - 9200.0
+    - 11100.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: rose 1.2% and the improvement owes more to arithmetic than relief.
+      The SBP held at 11.5%. Turkey's official July CPI
+    unit: pct
+    values:
+    - 1.2
+    - 11500.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: Dea sed to 31.75%, against an independent estimate of 50.49%. Both
+      cooled. The gap did not. Bangladesh's print had
+    unit: pct
+    values:
+    - 31750.0
+    - 50490.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: not landed by publication, leaving June's 9.16% operative, with US
+      and India CPI due Wednesday. Currencies moved
+    unit: pct
+    values:
+    - 9160.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: • Inflation eases. first. USD/INR strengthened to near 95.20, its
+      best since spring; the Taka held near 123.55; the Lira set fresh records
+    unit: usd_per_unit
+    values:
+    - 95200.0
+    - 123.55
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: near 47.71; and the Pakistani Rupee closed near 278.20, again inside
+      a quarter-rupee range, now less a pattern than a
+    unit: null
+    values:
+    - 47710.0
+    - 278.2
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: At the beaches, Chattogram's July 29 to August 1 window cleared the
+      flood-era backlog and closed on schedule, with
+    unit: null
+    values:
+    - 29.0
+    - 1.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: anchorage rebuilding toward the August 12 to 15 tides. Bangladesh
+      retained the basin's best prices and firmest buyer
+    unit: null
+    values:
+    - 12.0
+    - 15.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: confidence, while recovery from a month that killed at least 57 people
+      is now measured in reopened yards rather than
+    unit: null
+    values:
+    - 57.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: GMS market rankings / pricing for week 32 of 2026 are on Page 5.
+    unit: null
+    values:
+    - 32.0
+    - 2026.0
+    - 5.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: The July 29 to August 1 tide window closed on schedule on Saturday,
+      clearing the backlog that
+    unit: null
+    values:
+    - 29.0
+    - 1.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: window from August 12 to 15. The monsoon has eased, yards are operating
+      normally, and recovery
+    unit: null
+    values:
+    - 12.0
+    - 15.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: from a month that killed at least 57 people is now measured in reopened
+      plots and moving cranes
+    unit: null
+    values:
+    - 57.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: with mid-sized unit s the preferred hunting ground. Local plate eased
+      from BDT 64,700 to BDT
+    unit: null
+    values:
+    - 64700.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: 64,000 early in the week and held there through Friday, while vessel
+      indications remained
+    unit: null
+    values:
+    - 64000.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: The July inflation print had not landed by publication, leaving June's
+      9.16% operative a little longer.
+    unit: pct
+    values:
+    - 9160.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: 123.55, still pressing against the top of its band beneath the February
+      2025 record of 123.87, while
+    unit: null
+    values:
+    - 123.55
+    - 2025.0
+    - 123.87
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: USD/INR extended its recovery to near 95.20 by Friday, the Rupee's
+      strongest level since spring, as
+    unit: usd_per_unit
+    values:
+    - 95200.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: second week, while Wednesday's CPI print, June's 4.38% surprise still
+      the operative number, will be
+    unit: pct
+    values:
+    - 4.38
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: struck against a barrel roughly 15% cheaper than its July peak. The
+      IMF, for good measure, nudged
+    unit: pct
+    values:
+    - 15.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: India's 2026 growth forecast up to 6.5% on resilient domestic demand.
+    unit: pct
+    values:
+    - 2026.0
+    - 6500.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: subdued. Plate climbed from INR 38,300 to INR 39,200 through the
+      week, while the strengthening
+    unit: null
+    values:
+    - 38300.0
+    - 39200.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: Rupee lifted the USD equivalent to about USD 411.50 by Friday. This
+      time the plate moved with the
+    unit: usd
+    values:
+    - 411.5
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: August 9 to 18.
+    unit: null
+    values:
+    - 9.0
+    - 18.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: The two-yard EU List proposal remains pending, the dark-fleet lane
+      remains open, and more than 115
+    unit: null
+    values:
+    - 115.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: PKR 200,000 per ton near USD 714, and buying appetite remains firm.
+      The empty beach, for now,
+    unit: usd
+    values:
+    - 200000.0
+    - 714.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: Pakistan's July CPI eased to 9.2% from 11.1%, back in single digits
+      for the first time in months,
+    unit: pct
+    values:
+    - 9200.0
+    - 11100.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: Ni ne point two. though prices still rose 1.2% on the month. Urban
+      inflation ran 8.7% against 9.9% rural, while food
+    unit: pct
+    values:
+    - 1.2
+    - 8700.0
+    - 9900.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: remained the largest contributor at 10.6%. The SBP, meeting days
+      before the print, held at 11.5%
+    unit: pct
+    values:
+    - 10600.0
+    - 11500.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: and repeated its expectation of reaching the 5% to 7% target band
+      by June. The direction is right.
+    unit: pct
+    values:
+    - 5.0
+    - 7.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: USD/PKR closed near 278.20, once again inside a quarter-rupee weekly
+      range through a corridor
+    unit: usd_per_unit
+    values:
+    - 278.2
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: Rupee, metronome. deal, a toll bill, a 5% move in crude and its own
+      inflation print. The description settled on in these
+    unit: pct
+    values:
+    - 5.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: July CPI eased for a second consecutive month to 31.75%, the lowest
+      since March and slightly below
+    unit: pct
+    values:
+    - 31750.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: forecasts, even as monthly inflation accelerated to a three-month
+      high of 1.78%. The Inflation
+    unit: pct
+    values:
+    - 1.78
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: Research Group's parallel estimate eased too, to 50.49%, measures
+      cooled, and the roughly 19-point
+    unit: pct
+    values:
+    - 50490.0
+    - 19.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: while the central bank's next quarterly report lands August 13 and
+      September 10 MPC is the next
+    unit: null
+    values:
+    - 13.0
+    - 10.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: USD/TRY set fresh records near 47.71, the managed slide continuing
+      at its familiar pace, with the
+    unit: usd_per_unit
+    values:
+    - 47710.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: effective overnight rate near 40% still carrying the policy load
+      while the headline 37% waits for the
+    unit: pct
+    values:
+    - 40.0
+    - 37.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: Aliaga's vessel indications held at USD 262 to 284 per LDT across
+      vessel types, stable but
+    unit: usd
+    values:
+    - 262.0
+    - 284.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: For Week 32 of 2026, GMS Market Rankings / Vessel indications are
+      as below.
+    unit: null
+    values:
+    - 32.0
+    - 2026.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Steady 445-450 / LDT 465-470 / LDT 475-480 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 445.0
+    - -450.0
+    - 465.0
+    - -470.0
+    - 475.0
+    - -480.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan Steady 443-448 / LDT 463-468 / LDT 473-478 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 443.0
+    - -448.0
+    - 463.0
+    - -468.0
+    - 473.0
+    - -478.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Steady 422-427 / LDT 442-447 / LDT 452-457 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 422.0
+    - -427.0
+    - 442.0
+    - -447.0
+    - 452.0
+    - -457.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Steady 262-264 / LDT 272-274 / LDT 282-284 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 262.0
+    - -264.0
+    - 272.0
+    - -274.0
+    - 282.0
+    - -284.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line:  72.55 million tonnes of CO₂ avoided through ship recycling at Alang
+      is comparable to the emissions
+    unit: null
+    values:
+    - 72550.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line: from burning roughly 31 billion litres of petrol.
+    unit: null
+    values:
+    - 31.0
+  - section: 'Linked asset: 2026-08-08_gms-week-32-corridor-opens-conditions-apply_ship-recycling-market-insight-week-3_9ae63e2d33be.pdf'
+    section_type: linked_pdf
+    source_line:  Ship recycling at Alang is estimated to have saved around 44.4
+      TWh of energy, enough to power
+    unit: null
+    values:
+    - 44400.0
 source: hellenic
 source_path: reports/hellenic/demolition/2026/2026-08-08_gms-week-32-corridor-opens-conditions-apply.html
 source_stem: 2026-08-08_gms-week-32-corridor-opens-conditions-apply

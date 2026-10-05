@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 140,
-  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-09-08_breakwave-tanker-report-9-8-2026.html",
+  "token_count": 1885,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-09-08_breakwave-tanker-report-9-8-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-9-8-2026",
   "children": [
     {
@@ -69,15 +69,20 @@
       "section_path_text": "Linked asset: 2026-09-08_breakwave-tanker-report-9-8-2026_breakwavetankersseptember82026report_5588a1c8eaa9.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-09-08_breakwave-tanker-report-9-8-2026_breakwavetankersseptember82026report_5588a1c8eaa9.pdf\n\n# Tanker Shipping",
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-09-08_breakwave-tanker-report-9-8-2026_breakwavetankersseptember82026report_5588a1c8eaa9.pdf\n\n# Tanker Shipping\n\n## Bi-Weekly Industry Report\n\n### September 8, 2026\n\n- **Atlantic Strength and Hormuz Risk Support VLCC Premiums -** Firmer enquiry from the US Gulf, Brazil and West Africa is absorbing prompt VLCC tonnage and limiting the number of ships available to ballast towards the Middle East while owners considering Arabian Gulf employment must also factor in the **security,** **insurance and operational exposure** associated with Hormuz, increasing the cost of attracting vessels east. Iraq's Basrah exports recovered alongside improved, although still selective, access through Hormuz, with Iraqi crude exports increasing from approximately 1.35 mb/d in July to ~2.35 mb/d in August after certain tankers were permitted to transit.",
       "keywords": [
-        "asset",
-        "corpus/02-hellenic/shipbuilding/pdfs/2026-09-08_breakwave-tanker-report-9-8-2026_breakwavetankersseptember82026report_5588a1c8eaa9.pdf",
-        "source"
+        "vlcc",
+        "suezmax",
+        "china",
+        "brazil",
+        "atlantic",
+        "meg",
+        "west_africa",
+        "europe"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 60,
+      "token_count": 1805,
       "section_type": "linked_pdf",
       "children": []
     }

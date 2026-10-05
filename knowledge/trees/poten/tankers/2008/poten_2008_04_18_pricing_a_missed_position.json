@@ -1,0 +1,156 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_04_18_pricing_a_missed_position__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_04_18_pricing_a_missed_position",
+  "parent_id": null,
+  "title": "Pricing a Missed Position",
+  "section_path": [
+    "Pricing a Missed Position"
+  ],
+  "section_path_text": "Pricing a Missed Position",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Pricing a Missed Position\nTrans-Atlantic time charter equivalent (TCE) rates for clean MR vessels for most of this year were noticeably weaker than those during similar periods of recent years. Both February's and March's daily average TCE were below the lowest average TCE in those months during the last five years. Yet in the span of only a few days this week, TCE's for this route spiked some $12,000 per day to end at just over $34,000 per day on Friday.",
+  "keywords": [
+    "brazil",
+    "atlantic",
+    "europe",
+    "products",
+    "gas",
+    "tce",
+    "activity",
+    "fixture",
+    "day",
+    "per",
+    "average",
+    "below"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 431,
+  "source_path": "reports/poten/2008/poten_2008-04-18_pricing-a-missed-position.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_04_18_pricing_a_missed_position__s01_pricing_a_missed_position",
+      "doc_id": "poten_tankers_no_date_poten_2008_04_18_pricing_a_missed_position",
+      "parent_id": "poten_tankers_no_date_poten_2008_04_18_pricing_a_missed_position__root",
+      "title": "Pricing a Missed Position",
+      "section_path": [
+        "Pricing a Missed Position"
+      ],
+      "section_path_text": "Pricing a Missed Position",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Trans-Atlantic time charter equivalent (TCE) rates for clean MR vessels for most of this year were noticeably weaker than those during similar periods of recent years. Both February's and March's daily average TCE were below the lowest average TCE in those months during the last five years.",
+      "keywords": [
+        "brazil",
+        "atlantic",
+        "tce",
+        "during",
+        "average",
+        "below",
+        "day",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 146,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_04_18_pricing_a_missed_position__s02_min_max_tce_range",
+      "doc_id": "poten_tankers_no_date_poten_2008_04_18_pricing_a_missed_position",
+      "parent_id": "poten_tankers_no_date_poten_2008_04_18_pricing_a_missed_position__root",
+      "title": "Min/Max TCE Range",
+      "section_path": [
+        "Min/Max TCE Range"
+      ],
+      "section_path_text": "Min/Max TCE Range",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 14,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_04_18_pricing_a_missed_position__s03_min",
+      "doc_id": "poten_tankers_no_date_poten_2008_04_18_pricing_a_missed_position",
+      "parent_id": "poten_tankers_no_date_poten_2008_04_18_pricing_a_missed_position__root",
+      "title": "Min",
+      "section_path": [
+        "Min"
+      ],
+      "section_path_text": "Min",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_04_18_pricing_a_missed_position__s04_figuring_fixture_activity",
+      "doc_id": "poten_tankers_no_date_poten_2008_04_18_pricing_a_missed_position",
+      "parent_id": "poten_tankers_no_date_poten_2008_04_18_pricing_a_missed_position__root",
+      "title": "Figuring Fixture Activity",
+      "section_path": [
+        "Figuring Fixture Activity"
+      ],
+      "section_path_text": "Figuring Fixture Activity",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Sometimes sudden increases or decreases in fixture activity reported for a particular route provide a clue to as to why its hire rates suddenly shift, too. The generally lower fixture activity so far in 2008 compared to the same period of 2006 and 2007 supports the observation of 2008's lower freight rates.",
+      "keywords": [
+        "activity",
+        "fixture",
+        "lower",
+        "reported",
+        "apparent",
+        "below",
+        "buildup",
+        "chart"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 90,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_04_18_pricing_a_missed_position__s05_week",
+      "doc_id": "poten_tankers_no_date_poten_2008_04_18_pricing_a_missed_position",
+      "parent_id": "poten_tankers_no_date_poten_2008_04_18_pricing_a_missed_position__root",
+      "title": "Week",
+      "section_path": [
+        "Week"
+      ],
+      "section_path_text": "Week",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Ave Weekly Volume 2007 This progressive buildup of activity to rush gasoline cargoes across the Atlantic ahead of early May's changeover to a lower vapor pressure specification along the US East Coast, tightened a balanced clean MR market. The reported fixture activity this week - number sixteen - for clean MRs sailing trans-Atlantic from the UK Continent was about the weekly average of 2007.",
+      "keywords": [
+        "atlantic",
+        "europe",
+        "products",
+        "gas",
+        "activity",
+        "cargoes",
+        "clean",
+        "day"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 151,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2019_03_29_imo2020_will_fuel_the_product_markets__root",
+  "doc_id": "poten_tankers_no_date_poten_2019_03_29_imo2020_will_fuel_the_product_markets",
+  "parent_id": null,
+  "title": "IMO2020 Will Fuel the Product Markets",
+  "section_path": [
+    "IMO2020 Will Fuel the Product Markets"
+  ],
+  "section_path_text": "IMO2020 Will Fuel the Product Markets",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "IMO 2020 Will Fuel Product Markets\nFor most regulatory changes the optimal solutions are typically becoming clearer as the deadline is nearing. IMO 2020 does not (yet) appear to be conforming to that rule. Nine months before the oil and shipping industry is implementing one of the most dramatic changes in product specification the world has ever seen, many uncertainties around fuel availability, product specifications and compliance remain.",
+  "keywords": [
+    "lng",
+    "brazil",
+    "europe",
+    "singapore",
+    "crude_oil",
+    "products",
+    "gas",
+    "fuel",
+    "are",
+    "bunker",
+    "compliant",
+    "fuels"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 843,
+  "source_path": "reports/poten/2019/poten_2019-03-29_imo2020-will-fuel-the-product-markets.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_03_29_imo2020_will_fuel_the_product_markets__s01_imo_2020_will_fuel_product_markets",
+      "doc_id": "poten_tankers_no_date_poten_2019_03_29_imo2020_will_fuel_the_product_markets",
+      "parent_id": "poten_tankers_no_date_poten_2019_03_29_imo2020_will_fuel_the_product_markets__root",
+      "title": "IMO 2020 Will Fuel Product Markets",
+      "section_path": [
+        "IMO 2020 Will Fuel Product Markets"
+      ],
+      "section_path_text": "IMO 2020 Will Fuel Product Markets",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "For most regulatory changes the optimal solutions are typically becoming clearer as the deadline is nearing. IMO 2020 does not (yet) appear to be conforming to that rule.",
+      "keywords": [
+        "lng",
+        "brazil",
+        "europe",
+        "singapore",
+        "crude_oil",
+        "products",
+        "gas",
+        "fuel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 834,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

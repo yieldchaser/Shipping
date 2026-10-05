@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2006_07_14_venezuela_heavy_on_crude__root",
+  "doc_id": "poten_tankers_no_date_poten_2006_07_14_venezuela_heavy_on_crude",
+  "parent_id": null,
+  "title": "Venezuela: Heavy on Crude",
+  "section_path": [
+    "Venezuela: Heavy on Crude"
+  ],
+  "section_path_text": "Venezuela: Heavy on Crude",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Venezuela: Heavy on Crude\nLately in the political arena, a great deal of discussion has surrounded the oil exporting country of Venezuela. Its President, Hugo Chavez, seems to be one of those figures whose words powerfully influence oil price volatility. In the past few weeks, industry and political experts have indicated that Venezuela may significantly reduce oil exports to the U.S.",
+  "keywords": [
+    "vlcc",
+    "aframax",
+    "china",
+    "west_africa",
+    "crude_oil",
+    "venezuela",
+    "u.s.",
+    "scenario",
+    "exports",
+    "arabia",
+    "are",
+    "imports"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 851,
+  "source_path": "reports/poten/2006/poten_2006-07-14_venezuela-heavy-on-crude.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_07_14_venezuela_heavy_on_crude__s01_venezuela_heavy_on_crude",
+      "doc_id": "poten_tankers_no_date_poten_2006_07_14_venezuela_heavy_on_crude",
+      "parent_id": "poten_tankers_no_date_poten_2006_07_14_venezuela_heavy_on_crude__root",
+      "title": "Venezuela: Heavy on Crude",
+      "section_path": [
+        "Venezuela: Heavy on Crude"
+      ],
+      "section_path_text": "Venezuela: Heavy on Crude",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Lately in the political arena, a great deal of discussion has surrounded the oil exporting country of Venezuela. Its President, Hugo Chavez, seems to be one of those figures whose words powerfully influence oil price volatility.",
+      "keywords": [
+        "china",
+        "west_africa",
+        "crude_oil",
+        "venezuela",
+        "past",
+        "u.s.",
+        "oil",
+        "total"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 410,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_07_14_venezuela_heavy_on_crude__s02_base_case",
+      "doc_id": "poten_tankers_no_date_poten_2006_07_14_venezuela_heavy_on_crude",
+      "parent_id": "poten_tankers_no_date_poten_2006_07_14_venezuela_heavy_on_crude__root",
+      "title": "Base Case",
+      "section_path": [
+        "Base Case"
+      ],
+      "section_path_text": "Base Case",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Scenario #1 Scenario #2 Exporter Tons/Day % Tons/Day % Tons/Day % Saudi Arabia 180,556 13% 222,222 16% 263,889 19% Nigeria 152,778 11% 194,444 14% 236,111 17% Venezuela 166,667 12% 83,333 6% 0 0% Other 888,889 64% 888,889 64% 888,889 64% Total US Imports 1,388,889 100% 1,388,889 100% 1,388,889 100% Scenario #1 implies that exports from Venezuela to the U.S. are half of the current levels.",
+      "keywords": [
+        "vlcc",
+        "scenario",
+        "exports",
+        "tons/day",
+        "u.s.",
+        "arabia",
+        "are",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 306,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_07_14_venezuela_heavy_on_crude__s03_chart_dream_vs_reality",
+      "doc_id": "poten_tankers_no_date_poten_2006_07_14_venezuela_heavy_on_crude",
+      "parent_id": "poten_tankers_no_date_poten_2006_07_14_venezuela_heavy_on_crude__root",
+      "title": "Chart: Dream vs. Reality",
+      "section_path": [
+        "Chart: Dream vs. Reality"
+      ],
+      "section_path_text": "Chart: Dream vs. Reality",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "imports from Venezuela are lower so far this year as compared to 2005 average levels. If this trend continues, it is certain that we will be on the path increasing demand for tonnage.",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "owners",
+        "tonnage.",
+        "u.s.",
+        "voyages",
+        "according",
+        "activity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 116,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

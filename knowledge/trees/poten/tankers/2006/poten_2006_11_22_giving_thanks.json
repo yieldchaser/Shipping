@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2006_11_22_giving_thanks__root",
+  "doc_id": "poten_tankers_no_date_poten_2006_11_22_giving_thanks",
+  "parent_id": null,
+  "title": "Giving Thanks",
+  "section_path": [
+    "Giving Thanks"
+  ],
+  "section_path_text": "Giving Thanks",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Giving Thanks\nFor many, the Thanksgiving holiday in the United States is characteristically a time for gathering with friends and family and hopefully reflecting upon a successful year. 2006 is certainly another year that has exceeded many peoples' expectations. For those in the tanker industry, there is much for which to be thankful.",
+  "keywords": [
+    "crude_oil",
+    "products",
+    "oil",
+    "company",
+    "crude",
+    "economic",
+    "growth",
+    "many",
+    "poten",
+    "reasons",
+    "street",
+    "thankful"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 244,
+  "source_path": "reports/poten/2006/poten_2006-11-22_giving-thanks.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_11_22_giving_thanks__s01_giving_thanks",
+      "doc_id": "poten_tankers_no_date_poten_2006_11_22_giving_thanks",
+      "parent_id": "poten_tankers_no_date_poten_2006_11_22_giving_thanks__root",
+      "title": "Giving Thanks",
+      "section_path": [
+        "Giving Thanks"
+      ],
+      "section_path_text": "Giving Thanks",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "For many, the Thanksgiving holiday in the United States is characteristically a time for gathering with friends and family and hopefully reflecting upon a successful year. 2006 is certainly another year that has exceeded many peoples' expectations.",
+      "keywords": [
+        "many",
+        "poten",
+        "another",
+        "are",
+        "below",
+        "both",
+        "certainly",
+        "characteristically"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 96,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_11_22_giving_thanks__s02_reasons_to_give_thanks",
+      "doc_id": "poten_tankers_no_date_poten_2006_11_22_giving_thanks",
+      "parent_id": "poten_tankers_no_date_poten_2006_11_22_giving_thanks__root",
+      "title": "Reasons to Give Thanks",
+      "section_path": [
+        "Reasons to Give Thanks"
+      ],
+      "section_path_text": "Reasons to Give Thanks",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "As we sit in front of our televisions tomorrow and watch football (American style) and eat copious quantities of turkey and trimmings, we can reflect on the following reasons to be thankful:",
+      "keywords": [
+        "american",
+        "can",
+        "copious",
+        "eat",
+        "following",
+        "football",
+        "front",
+        "our"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 40,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_11_22_giving_thanks__s03_relatively_strong_worldwide_economic_growth_driving_increased",
+      "doc_id": "poten_tankers_no_date_poten_2006_11_22_giving_thanks",
+      "parent_id": "poten_tankers_no_date_poten_2006_11_22_giving_thanks__root",
+      "title": "¡ Relatively strong worldwide economic growth driving increased",
+      "section_path": [
+        "¡ Relatively strong worldwide economic growth driving increased"
+      ],
+      "section_path_text": "¡ Relatively strong worldwide economic growth driving increased",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "demand for crude oil and products ¡ A crude oil price that seems to be in a range that has not stifled economic growth, and kept oil company profits high ¡ Tanker rates that have allowed owners to invest in new ships and pay down debt, making it easier to sustain weaknesses in the market ¡ Continued investor interest from Wall Street to Main Street in shipping and oil company stocks ¡ An expected outcome for 2007 that should keep us all thankful",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "oil",
+        "company",
+        "crude",
+        "street",
+        "all",
+        "allowed"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 89,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

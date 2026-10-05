@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2025_03_14_closing_the_door_again_on_venezuela__root",
+  "doc_id": "poten_tankers_no_date_poten_2025_03_14_closing_the_door_again_on_venezuela",
+  "parent_id": null,
+  "title": "Closing the Door (Again) On Venezuela",
+  "section_path": [
+    "Closing the Door (Again) On Venezuela"
+  ],
+  "section_path_text": "Closing the Door (Again) On Venezuela",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Production and exports will suffer as Chevron license revoked\nDuring the first Trump administration, the U.S. ramped up sanctions on Venezuela as part of a \"maximum pressure\" campaign. The aim was to oust Venezuela's President Nicolas Maduro and support opposition leader Juan Guaido.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "brazil",
+    "atlantic",
+    "pacific",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "venezuela"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 990,
+  "source_path": "reports/poten/2025/poten_2025-03-14_closing-the-door-again-on-venezuela.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2025_03_14_closing_the_door_again_on_venezuela__s01_production_and_exports_will_suffer_as_chevron_license_revoked",
+      "doc_id": "poten_tankers_no_date_poten_2025_03_14_closing_the_door_again_on_venezuela",
+      "parent_id": "poten_tankers_no_date_poten_2025_03_14_closing_the_door_again_on_venezuela__root",
+      "title": "Production and exports will suffer as Chevron license revoked",
+      "section_path": [
+        "Production and exports will suffer as Chevron license revoked"
+      ],
+      "section_path_text": "Production and exports will suffer as Chevron license revoked",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "During the first Trump administration, the U.S. ramped up sanctions on Venezuela as part of a \"maximum pressure\" campaign.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "brazil",
+        "atlantic",
+        "pacific",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 980,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

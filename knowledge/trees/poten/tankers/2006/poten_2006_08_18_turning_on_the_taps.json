@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2006_08_18_turning_on_the_taps__root",
+  "doc_id": "poten_tankers_no_date_poten_2006_08_18_turning_on_the_taps",
+  "parent_id": null,
+  "title": "Turning on the Taps",
+  "section_path": [
+    "Turning on the Taps"
+  ],
+  "section_path_text": "Turning on the Taps",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Turning on the Taps\nWhen considering crude production in West Africa, it is often a first inclination to consider what is not being produced. Civil unrest and other supply disruptions, specifically in Nigeria, have been the focus of attention for several months. The reality is that as this region is becoming increasingly important for meeting global oil demand, many of the producers are stepping up to the task.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "brazil",
+    "atlantic",
+    "west_africa",
+    "crude_oil",
+    "production",
+    "compared",
+    "july",
+    "liftings",
+    "nigeria",
+    "projects"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 429,
+  "source_path": "reports/poten/2006/poten_2006-08-18_turning-on-the-taps.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_08_18_turning_on_the_taps__s01_turning_on_the_taps",
+      "doc_id": "poten_tankers_no_date_poten_2006_08_18_turning_on_the_taps",
+      "parent_id": "poten_tankers_no_date_poten_2006_08_18_turning_on_the_taps__root",
+      "title": "Turning on the Taps",
+      "section_path": [
+        "Turning on the Taps"
+      ],
+      "section_path_text": "Turning on the Taps",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "When considering crude production in West Africa, it is often a first inclination to consider what is not being produced. Civil unrest and other supply disruptions, specifically in Nigeria, have been the focus of attention for several months.",
+      "keywords": [
+        "west_africa",
+        "crude_oil",
+        "are",
+        "being",
+        "production",
+        "africa",
+        "april.",
+        "attention"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 97,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_08_18_turning_on_the_taps__s02_nigerian_production_000_bbl_day",
+      "doc_id": "poten_tankers_no_date_poten_2006_08_18_turning_on_the_taps",
+      "parent_id": "poten_tankers_no_date_poten_2006_08_18_turning_on_the_taps__root",
+      "title": "Nigerian Production (000 bbl/day)",
+      "section_path": [
+        "Nigerian Production (000 bbl/day)"
+      ],
+      "section_path_text": "Nigerian Production (000 bbl/day)",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "2003 2004 2005 2006 2007 Estimate The IEA outlook estimates that 29% of non-OPEC growth in 2007 will come from increased production from projects in Africa. The main contributors to this will likely be the offshore projects in Angola and Equatorial Guinea.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "west_africa",
+        "crude_oil",
+        "july",
+        "liftings",
+        "reported",
+        "africa."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 135,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_08_18_turning_on_the_taps__s03_time_charter_equivalent_waf_usac_130kt",
+      "doc_id": "poten_tankers_no_date_poten_2006_08_18_turning_on_the_taps",
+      "parent_id": "poten_tankers_no_date_poten_2006_08_18_turning_on_the_taps__root",
+      "title": "Time Charter Equivalent WAF - USAC (130kt)",
+      "section_path": [
+        "Time Charter Equivalent WAF - USAC (130kt)"
+      ],
+      "section_path_text": "Time Charter Equivalent WAF - USAC (130kt)",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The chart above shows the Suezmax time charter equivalents (TCE) for voyages West Africa to the U.S. For the first half of this year rates mirrored those seen in 2005.",
+      "keywords": [
+        "suezmax",
+        "brazil",
+        "atlantic",
+        "west_africa",
+        "year",
+        "above",
+        "africa",
+        "ago."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 85,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_08_18_turning_on_the_taps__s04_ensuring_supply",
+      "doc_id": "poten_tankers_no_date_poten_2006_08_18_turning_on_the_taps",
+      "parent_id": "poten_tankers_no_date_poten_2006_08_18_turning_on_the_taps__root",
+      "title": "Ensuring Supply",
+      "section_path": [
+        "Ensuring Supply"
+      ],
+      "section_path_text": "Ensuring Supply",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "While disruptions in Nigeria have plagued many of the long-existing channels, replacement supply has recently started to come through other terminals in Nigeria, Erha and Bonga in particular. As the region regains lost production more cargoes will flow from these African nations.",
+      "keywords": [
+        "nigeria",
+        "region",
+        "african",
+        "alike.",
+        "bonga",
+        "both",
+        "cargoes",
+        "channels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 80,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

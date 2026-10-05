@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2022_06_30_tanker_midterms_2022__root",
+  "doc_id": "poten_tankers_no_date_poten_2022_06_30_tanker_midterms_2022",
+  "parent_id": null,
+  "title": "Tanker Midterms 2022",
+  "section_path": [
+    "Tanker Midterms 2022"
+  ],
+  "section_path_text": "Tanker Midterms 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Top Reported Dirty Spot Charterers for 1H 2022*\nAs we are getting ready to celebrate Independence Day in the United States this weekend, it is time to publish our midterm report. This year, the fixture counts appear to be influenced by two key events: (1) the global recovery from the Covid-19 pandemic and (2) the Russian invasion of Ukraine. Compared to the first half of 2021, the number of reported VLCC fixtures increased 19%, but Suezmax and Aframax transactions were down 8% and 20% respectively.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "europe",
+    "india",
+    "crude_oil",
+    "top",
+    "charterers",
+    "reported",
+    "total",
+    "dropped"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1052,
+  "source_path": "reports/poten/2022/poten_2022-06-30_tanker-midterms-2022.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_06_30_tanker_midterms_2022__s01_top_reported_dirty_spot_charterers_for_1h_2022",
+      "doc_id": "poten_tankers_no_date_poten_2022_06_30_tanker_midterms_2022",
+      "parent_id": "poten_tankers_no_date_poten_2022_06_30_tanker_midterms_2022__root",
+      "title": "Top Reported Dirty Spot Charterers for 1H 2022*",
+      "section_path": [
+        "Top Reported Dirty Spot Charterers for 1H 2022*"
+      ],
+      "section_path_text": "Top Reported Dirty Spot Charterers for 1H 2022*",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As we are getting ready to celebrate Independence Day in the United States this weekend, it is time to publish our midterm report. This year, the fixture counts appear to be influenced by two key events: (1) the global recovery from the Covid-19 pandemic and (2) the Russian invasion of Ukraine.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "crude_oil",
+        "total",
+        "fixtures",
+        "reported"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 671,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_06_30_tanker_midterms_2022__s02_chart_top_10_vlcc_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2022_06_30_tanker_midterms_2022",
+      "parent_id": "poten_tankers_no_date_poten_2022_06_30_tanker_midterms_2022__root",
+      "title": "Chart: Top 10 VLCC Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 VLCC Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 VLCC Spot Charterers",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Unipec reinforced its position at the top of the VLCC segment, increasing its number of VLCC fixtures from 329 in H1 2021 to 378 in H1 2022. ExxonMobil moved up from 8 th to 2 nd , while Petrobras dropped out of the top 10 (down to 20 th ).",
+      "keywords": [
+        "vlcc",
+        "its",
+        "top",
+        "authority",
+        "down",
+        "dropped",
+        "entrant",
+        "exxonmobil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 90,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_06_30_tanker_midterms_2022__s03_chart_top_10_suezmax_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2022_06_30_tanker_midterms_2022",
+      "parent_id": "poten_tankers_no_date_poten_2022_06_30_tanker_midterms_2022__root",
+      "title": "Chart: Top 10 Suezmax Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 Suezmax Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 Suezmax Spot Charterers",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Quite a few changes in the Suezmax segment, with ExxonMobil back on top. Shell dropped from 1 st to 10 th , while Total moved the other way, from 10 th to 2 nd in the rankings.",
+      "keywords": [
+        "suezmax",
+        "europe",
+        "india",
+        "back",
+        "dropped",
+        "changes",
+        "charterers",
+        "east."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 98,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_06_30_tanker_midterms_2022__s04_chart_top_10_aframax_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2022_06_30_tanker_midterms_2022",
+      "parent_id": "poten_tankers_no_date_poten_2022_06_30_tanker_midterms_2022__root",
+      "title": "Chart: Top 10 Aframax Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 Aframax Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 Aframax Spot Charterers",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "In the Aframax segment, ExxonMobil claimed the top spot, relegating Vitol to 2 nd . Shell stayed on 3 rd , joined by fellow oil majors BP and Chevron in 5 th and 6 th .",
+      "keywords": [
+        "aframax",
+        "crude_oil",
+        "top",
+        "above",
+        "activity.",
+        "aramco",
+        "assembled",
+        "chevron"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 144,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

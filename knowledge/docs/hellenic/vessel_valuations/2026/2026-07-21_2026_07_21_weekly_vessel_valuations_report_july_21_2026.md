@@ -33,7 +33,8 @@ linked_assets_skipped: 0
 market_tone: cautiously_bearish
 numeric_observation_count: 18
 numeric_observations:
-- section: Main
+- &id001
+  section: Main
   section_type: null
   source_line: Capesize Aashna (180,000 DWT, 2012, Hanjin Subic) sold to Chinese buyers
     for USD 37.5 mil, VV Value USD 39.2 mil.
@@ -41,9 +42,10 @@ numeric_observations:
   values:
   - 180000.0
   - 2012.0
-  - 37500.0
-  - 39200.0
-- section: Main
+  - 37.5
+  - 39.2
+- &id002
+  section: Main
   section_type: null
   source_line: Ultramax Wooyang Belos (63,600 DWT, 2016, Shin Kasado Dock) sold SS/DD
     Passed to German buyers for USD 30.7 mil, VV Value USD 29.5 mil.
@@ -51,9 +53,10 @@ numeric_observations:
   values:
   - 63600.0
   - 2016.0
-  - 30700.0
-  - 29500.0
-- section: Main
+  - 30.7
+  - 29.5
+- &id003
+  section: Main
   section_type: null
   source_line: 'Tankers: The Tanker S&P market stayed quiet this week, with just two
     MR2 sales concluding. Secondhand values firmed further up the age curve, with
@@ -62,7 +65,8 @@ numeric_observations:
   values:
   - 2.0
   - 2.0
-- section: Main
+- &id004
+  section: Main
   section_type: null
   source_line: MR2 Minerva Rita (51,000 DWT, 2005, STX Offshore) sold by Minerva Marine
     to Chinese buyers for USD 16.2 mil, VV Value USD 16.3 mil.
@@ -71,9 +75,10 @@ numeric_observations:
   - 2.0
   - 51000.0
   - 2005.0
-  - 16200.0
-  - 16300.0
-- section: Main
+  - 16.2
+  - 16.3
+- &id005
+  section: Main
   section_type: null
   source_line: MR2 MFM Memphis (48,100 DWT, 2011, Iwagi Zosen) sold by Montfort Maritime
     for USD 26.8 mil, VV Value USD 24.1 mil.
@@ -82,9 +87,10 @@ numeric_observations:
   - 2.0
   - 48100.0
   - 2011.0
-  - 26800.0
-  - 24100.0
-- section: Main
+  - 26.8
+  - 24.1
+- &id006
+  section: Main
   section_type: null
   source_line: Post Panamax EA Cetus & EA Centaurus (7,092 TEU each, 2023/2024, SWS)
     sold en bloc by X-Press Feeders to MPC Container Ships for USD 85 mil each, inc
@@ -95,9 +101,10 @@ numeric_observations:
   - 2023.0
   - 2024.0
   - 85.0
-  - 89300.0
-  - 88700.0
-- section: Main
+  - 89.3
+  - 88.7
+- &id007
+  section: Main
   section_type: null
   source_line: Post Panamax MH Pegasus & MH Perseus (7,092 TEU each, 2023, SWS) sold
     en bloc by MH Ship Holding to MPC Container Ships for USD 85 mil each, inc TC.
@@ -107,14 +114,16 @@ numeric_observations:
   - 7092.0
   - 2023.0
   - 85.0
-  - 88400.0
-- section: Main
+  - 88.4
+- &id008
+  section: Main
   section_type: null
   source_line: 'Linked asset: 21072026vessel.jpg'
   unit: null
   values:
   - 21072026.0
-- section: 'Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg'
+- &id009
+  section: 'Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg'
   unit: null
@@ -127,59 +136,68 @@ numeric_observations:
   - 21072026.0
   - 282069.0
   - 5081.0
-- section: 'Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg'
+- &id010
+  section: 'Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 600x268 mode=RGB'
   unit: null
   values:
   - 600.0
   - 268.0
-- section: 'Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg'
+- &id011
+  section: 'Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'
   unit: null
   values:
   - 120.0
   - 120.0
-- section: 'Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg'
+- &id012
+  section: 'Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg'
   section_type: linked_image_asset
   source_line: 21 towMou 2026 VV Mini Matrix - Weekly Change
   unit: null
   values:
   - 21.0
   - 2026.0
-- section: 'Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg'
+- &id013
+  section: 'Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg'
   section_type: linked_image_asset
   source_line: ee 4 meta mts
   unit: tonnage
   values:
   - 4.0
-- section: 'Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg'
+- &id014
+  section: 'Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg'
   section_type: linked_image_asset
   source_line: ® ne "a 3 a " a a ms 8 an ed ee
   unit: null
   values:
   - 3.0
   - 8.0
-- section: 'Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg'
+- &id015
+  section: 'Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg'
   section_type: linked_image_asset
   source_line: 3 a Cd ". bd me ue " - Ld ~~ an hed -
   unit: null
   values:
   - 3.0
-- section: 'Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg'
+- &id016
+  section: 'Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg'
   section_type: linked_image_asset
   source_line: ® ue a . ™ od ~ _ - a 78 ae ms se
   unit: null
   values:
   - 78.0
-- section: 'Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg'
+- &id017
+  section: 'Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg'
   section_type: linked_image_asset
   source_line: an 4 ams oer et ee ee ee
   unit: null
   values:
   - 4.0
-- section: 'Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg'
+- &id018
+  section: 'Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg'
   section_type: linked_image_asset
   source_line: as cd um am ™ a ™ ™ Ld 08 - am ae
   unit: null
@@ -195,167 +213,32 @@ section_count: 2
 signals:
   numeric_observation_count: 18
   numeric_observations:
-  - section: Main
-    section_type: null
-    source_line: Capesize Aashna (180,000 DWT, 2012, Hanjin Subic) sold to Chinese
-      buyers for USD 37.5 mil, VV Value USD 39.2 mil.
-    unit: usd
-    values:
-    - 180000.0
-    - 2012.0
-    - 37500.0
-    - 39200.0
-  - section: Main
-    section_type: null
-    source_line: Ultramax Wooyang Belos (63,600 DWT, 2016, Shin Kasado Dock) sold
-      SS/DD Passed to German buyers for USD 30.7 mil, VV Value USD 29.5 mil.
-    unit: usd
-    values:
-    - 63600.0
-    - 2016.0
-    - 30700.0
-    - 29500.0
-  - section: Main
-    section_type: null
-    source_line: 'Tankers: The Tanker S&P market stayed quiet this week, with just
-      two MR2 sales concluding. Secondhand values firmed further up the age curve,
-      with older MR2 tonnage continuing to climb, while values elsewhere held broadly
-      stable.'
-    unit: null
-    values:
-    - 2.0
-    - 2.0
-  - section: Main
-    section_type: null
-    source_line: MR2 Minerva Rita (51,000 DWT, 2005, STX Offshore) sold by Minerva
-      Marine to Chinese buyers for USD 16.2 mil, VV Value USD 16.3 mil.
-    unit: usd
-    values:
-    - 2.0
-    - 51000.0
-    - 2005.0
-    - 16200.0
-    - 16300.0
-  - section: Main
-    section_type: null
-    source_line: MR2 MFM Memphis (48,100 DWT, 2011, Iwagi Zosen) sold by Montfort
-      Maritime for USD 26.8 mil, VV Value USD 24.1 mil.
-    unit: usd
-    values:
-    - 2.0
-    - 48100.0
-    - 2011.0
-    - 26800.0
-    - 24100.0
-  - section: Main
-    section_type: null
-    source_line: Post Panamax EA Cetus & EA Centaurus (7,092 TEU each, 2023/2024,
-      SWS) sold en bloc by X-Press Feeders to MPC Container Ships for USD 85 mil each,
-      inc TC. VV Values USD 89.3 mil / USD 88.7 mil.
-    unit: usd
-    values:
-    - 7092.0
-    - 2023.0
-    - 2024.0
-    - 85.0
-    - 89300.0
-    - 88700.0
-  - section: Main
-    section_type: null
-    source_line: Post Panamax MH Pegasus & MH Perseus (7,092 TEU each, 2023, SWS)
-      sold en bloc by MH Ship Holding to MPC Container Ships for USD 85 mil each,
-      inc TC. VV Value USD 88.4 mil each.
-    unit: usd
-    values:
-    - 7092.0
-    - 2023.0
-    - 85.0
-    - 88400.0
-  - section: Main
-    section_type: null
-    source_line: 'Linked asset: 21072026vessel.jpg'
-    unit: null
-    values:
-    - 21072026.0
-  - section: 'Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg'
-    section_type: linked_image_asset
-    source_line: 'Linked image asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg'
-    unit: null
-    values:
-    - 2026.0
-    - -7.0
-    - -21.0
-    - 21.0
-    - -2026.0
-    - 21072026.0
-    - 282069.0
-    - 5081.0
-  - section: 'Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg'
-    section_type: linked_image_asset
-    source_line: 'Image metadata: JPEG 600x268 mode=RGB'
-    unit: null
-    values:
-    - 600.0
-    - 268.0
-  - section: 'Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg'
-    section_type: linked_image_asset
-    source_line: 'dpi: (120, 120)'
-    unit: null
-    values:
-    - 120.0
-    - 120.0
-  - section: 'Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg'
-    section_type: linked_image_asset
-    source_line: 21 towMou 2026 VV Mini Matrix - Weekly Change
-    unit: null
-    values:
-    - 21.0
-    - 2026.0
-  - section: 'Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg'
-    section_type: linked_image_asset
-    source_line: ee 4 meta mts
-    unit: tonnage
-    values:
-    - 4.0
-  - section: 'Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg'
-    section_type: linked_image_asset
-    source_line: ® ne "a 3 a " a a ms 8 an ed ee
-    unit: null
-    values:
-    - 3.0
-    - 8.0
-  - section: 'Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg'
-    section_type: linked_image_asset
-    source_line: 3 a Cd ". bd me ue " - Ld ~~ an hed -
-    unit: null
-    values:
-    - 3.0
-  - section: 'Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg'
-    section_type: linked_image_asset
-    source_line: ® ue a . ™ od ~ _ - a 78 ae ms se
-    unit: null
-    values:
-    - 78.0
-  - section: 'Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg'
-    section_type: linked_image_asset
-    source_line: an 4 ams oer et ee ee ee
-    unit: null
-    values:
-    - 4.0
-  - section: 'Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg'
-    section_type: linked_image_asset
-    source_line: as cd um am ™ a ™ ™ Ld 08 - am ae
-    unit: null
-    values:
-    - 8.0
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - *id010
+  - *id011
+  - *id012
+  - *id013
+  - *id014
+  - *id015
+  - *id016
+  - *id017
+  - *id018
 source: hellenic
-source_path: corpus/02-hellenic/vessel_valuations/2026/2026-07-21_weekly-vessel-valuations-report-july-21-2026.html
+source_path: reports/hellenic/vessel_valuations/2026/2026-07-21_weekly-vessel-valuations-report-july-21-2026.html
 source_stem: 2026-07-21_weekly-vessel-valuations-report-july-21-2026
 source_url: https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-july-21-2026
 summary: 'Main
 
   Bulkers: Bulker values largely held steady this week, with few clean sales reported.
-  Capesize values were the exception, dipping this week on the back of soft pricing
+  Capesize values were the exception, dipping thisweek on the back of soft pricing
   for the Aashna to Chinese buyers. Capesize Aashna (180,000 DWT, 2012, Hanjin Subic)
   sold to Chinese buyers for USD 37.5 mil, VV Value USD 39.2 mil.'
 themes:
@@ -379,10 +262,10 @@ vessel_classes:
 
 ## Summary
 Main
-Bulkers: Bulker values largely held steady this week, with few clean sales reported. Capesize values were the exception, dipping this week on the back of soft pricing for the Aashna to Chinese buyers. Capesize Aashna (180,000 DWT, 2012, Hanjin Subic) sold to Chinese buyers for USD 37.5 mil, VV Value USD 39.2 mil.
+Bulkers: Bulker values largely held steady this week, with few clean sales reported. Capesize values were the exception, dipping thisweek on the back of soft pricing for the Aashna to Chinese buyers. Capesize Aashna (180,000 DWT, 2012, Hanjin Subic) sold to Chinese buyers for USD 37.5 mil, VV Value USD 39.2 mil.
 
 ## Main
-Bulkers: Bulker values largely held steady this week, with few clean sales reported. Capesize values were the exception, dipping this week on the back of soft pricing for the Aashna to Chinese buyers.
+Bulkers: Bulker values largely held steady this week, with few clean sales reported. Capesize values were the exception, dipping thisweek on the back of soft pricing for the Aashna to Chinese buyers.
 Capesize Aashna (180,000 DWT, 2012, Hanjin Subic) sold to Chinese buyers for USD 37.5 mil, VV Value USD 39.2 mil.
 Ultramax Wooyang Belos (63,600 DWT, 2016, Shin Kasado Dock) sold SS/DD Passed to German buyers for USD 30.7 mil, VV Value USD 29.5 mil.
 Tankers: The Tanker S&P market stayed quiet this week, with just two MR2 sales concluding. Secondhand values firmed further up the age curve, with older MR2 tonnage continuing to climb, while values elsewhere held broadly stable.
@@ -394,7 +277,7 @@ Post Panamax MH Pegasus & MH Perseus (7,092 TEU each, 2023, SWS) sold en bloc by
 Linked asset: 21072026vessel.jpg
 
 ## Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg
-Source asset: corpus/02-hellenic/vessel_valuations/2026/assets/2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg
+Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg
 
 Linked image asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg
 

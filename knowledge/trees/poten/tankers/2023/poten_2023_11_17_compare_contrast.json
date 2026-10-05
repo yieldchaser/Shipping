@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2023_11_17_compare_contrast__root",
+  "doc_id": "poten_tankers_no_date_poten_2023_11_17_compare_contrast",
+  "parent_id": null,
+  "title": "Compare & Contrast",
+  "section_path": [
+    "Compare & Contrast"
+  ],
+  "section_path_text": "Compare & Contrast",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Divergent views on future oil demand from IEA and OPEC\nEarlier this week, both OPEC and the IEA came out with their Monthly Oil Market Reports for November. It proved to be an interesting read. Both organizations have quite a different read on what is happening in 2023 as well as what the outlook is for 2024.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "brazil",
+    "atlantic",
+    "pacific",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "demand",
+    "opec",
+    "iea"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 987,
+  "source_path": "reports/poten/2023/poten_2023-11-17_compare-contrast.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2023_11_17_compare_contrast__s01_divergent_views_on_future_oil_demand_from_iea_and_opec",
+      "doc_id": "poten_tankers_no_date_poten_2023_11_17_compare_contrast",
+      "parent_id": "poten_tankers_no_date_poten_2023_11_17_compare_contrast__root",
+      "title": "Divergent views on future oil demand from IEA and OPEC",
+      "section_path": [
+        "Divergent views on future oil demand from IEA and OPEC"
+      ],
+      "section_path_text": "Divergent views on future oil demand from IEA and OPEC",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Earlier this week, both OPEC and the IEA came out with their Monthly Oil Market Reports for November. It proved to be an interesting read.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "brazil",
+        "atlantic",
+        "pacific",
+        "europe",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 972,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

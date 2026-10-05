@@ -9,7 +9,7 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 1.6.2026",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNew Year Brings Optimism - Despite a relatively long holiday break, spot indices have shown little movement. Source: Breakwave Advisors\n\nLinked asset: 2026-01-06_breakwave-dry-bulk-shipping-report-1-6-2026_breakwavedryjanuary62026report_8554231a5c08.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2026-01-06_breakwave-dry-bulk-shipping-report-1-6-2026_breakwavedryjanuary62026report_8554231a5c08.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nJanuary 6, 2026\n• New Year Brings Optimism - Despite a relatively long holiday break, spot indices\nShort-term Indicators\nhave shown little movement. While Capesize rates are drifting lower, this trend is\nMomentum: Negative\nanticipated and well-priced into the futures curve, though Panamax rates remain\nweak and Supramax rates are currently underperforming in a catch-up phase.",
+  "summary": "Main\nNew Year Brings Optimism - Despite a relatively long holiday break, spot indices have shown little movement. Source: Breakwave Advisors\n\nLinked asset: 2026-01-06_breakwave-dry-bulk-shipping-report-1-6-2026_breakwavedryjanuary62026report_8554231a5c08.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2026-01-06_breakwave-dry-bulk-shipping-report-1-6-2026_breakwavedryjanuary62026report_8554231a5c08.pdf\n\n# Dry Bulk Shipping\n\n## Bi-Weekly Industry Report\n\n### January 6, 2026\n\n- **New Year Brings Optimism -** Despite a relatively long holiday break, spot indices have shown little movement. While **Capesize rates are drifting lower**, this trend is anticipated and well-priced into the futures curve, though Panamax rates remain weak and Supramax rates are currently underperforming in a catch-up phase.",
   "keywords": [
     "capesize",
     "panamax",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1612,
-  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-01-06_breakwave-dry-bulk-shipping-report-1-6-2026.html",
+  "token_count": 1698,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-01-06_breakwave-dry-bulk-shipping-report-1-6-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-1-6-2026",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-01-06_breakwave-dry-bulk-shipping-report-1-6-2026_breakwavedryjanuary62026report_8554231a5c08.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-01-06_breakwave-dry-bulk-shipping-report-1-6-2026_breakwavedryjanuary62026report_8554231a5c08.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nJanuary 6, 2026\n• New Year Brings Optimism - Despite a relatively long holiday break, spot indices\nShort-term Indicators\nhave shown little movement. While Capesize rates are drifting lower, this trend is\nMomentum: Negative\nanticipated and well-priced into the futures curve, though Panamax rates remain\nweak and Supramax rates are currently underperforming in a catch-up phase.",
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-01-06_breakwave-dry-bulk-shipping-report-1-6-2026_breakwavedryjanuary62026report_8554231a5c08.pdf\n\n# Dry Bulk Shipping\n\n## Bi-Weekly Industry Report\n\n### January 6, 2026\n\n- **New Year Brings Optimism -** Despite a relatively long holiday break, spot indices have shown little movement. While **Capesize rates are drifting lower**, this trend is anticipated and well-priced into the futures curve, though Panamax rates remain weak and Supramax rates are currently underperforming in a catch-up phase.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1538,
+      "token_count": 1624,
       "section_type": "linked_pdf",
       "children": []
     }

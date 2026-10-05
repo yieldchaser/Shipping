@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2018_09_07_keeping_an_eye_on_the_hurricanes__root",
+  "doc_id": "poten_tankers_no_date_poten_2018_09_07_keeping_an_eye_on_the_hurricanes",
+  "parent_id": null,
+  "title": "Keeping An Eye On The Hurricanes",
+  "section_path": [
+    "Keeping An Eye On The Hurricanes"
+  ],
+  "section_path_text": "Keeping An Eye On The Hurricanes",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Keeping An Eye On The Hurricanes\nPotential impact of tropical storms in the US Gulf is increasing This week, tropical storm Gordon, the first major weather event of the 2018 hurricane season, carved through the eastern Gulf of Mexico, making landfall just west of the Alabama-Mississippi border on Tuesday night. While this storm caused minimal property damage, it was a poignant reminder of the risks facing the significant (and growing) energy sector in the U.S. One year ago, Hurricane Harvey, the most powerful storm to hit the U.S.",
+  "keywords": [
+    "vlcc",
+    "aframax",
+    "china",
+    "atlantic",
+    "pacific",
+    "us_gulf",
+    "japan",
+    "crude_oil",
+    "gas",
+    "hurricane",
+    "gulf",
+    "u.s."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 898,
+  "source_path": "reports/poten/2018/poten_2018-09-07_keeping-an-eye-on-the-hurricanes.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_09_07_keeping_an_eye_on_the_hurricanes__s01_keeping_an_eye_on_the_hurricanes",
+      "doc_id": "poten_tankers_no_date_poten_2018_09_07_keeping_an_eye_on_the_hurricanes",
+      "parent_id": "poten_tankers_no_date_poten_2018_09_07_keeping_an_eye_on_the_hurricanes__root",
+      "title": "Keeping An Eye On The Hurricanes",
+      "section_path": [
+        "Keeping An Eye On The Hurricanes"
+      ],
+      "section_path_text": "Keeping An Eye On The Hurricanes",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Potential impact of tropical storms in the US Gulf is increasing This week, tropical storm Gordon, the first major weather event of the 2018 hurricane season, carved through the eastern Gulf of Mexico, making landfall just west of the Alabama-Mississippi border on Tuesday night. While this storm caused minimal property damage, it was a poignant reminder of the risks facing the significant (and growing) energy sector in the U.S.",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "china",
+        "atlantic",
+        "pacific",
+        "us_gulf",
+        "japan",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 891,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

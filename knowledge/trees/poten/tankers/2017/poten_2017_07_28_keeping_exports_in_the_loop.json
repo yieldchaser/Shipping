@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2017_07_28_keeping_exports_in_the_loop__root",
+  "doc_id": "poten_tankers_no_date_poten_2017_07_28_keeping_exports_in_the_loop",
+  "parent_id": null,
+  "title": "Keeping Exports in the LOOP",
+  "section_path": [
+    "Keeping Exports in the LOOP"
+  ],
+  "section_path_text": "Keeping Exports in the LOOP",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The impact of a VLCC export terminal in the U.S. Gulf\nThe announcement this week that Louisiana Offshore Oil Port (LOOP) is thinking about getting involved in the crude oil export business is a big deal. LOOP is the only port in the contiguous United States that can receive fully laden VLCCs (or even ULCCs).",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "atlantic",
+    "pacific",
+    "india",
+    "singapore",
+    "japan",
+    "crude_oil",
+    "u.s."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 934,
+  "source_path": "reports/poten/2017/poten_2017-07-28_keeping-exports-in-the-loop.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2017_07_28_keeping_exports_in_the_loop__s01_the_impact_of_a_vlcc_export_terminal_in_the_u_s_gulf",
+      "doc_id": "poten_tankers_no_date_poten_2017_07_28_keeping_exports_in_the_loop",
+      "parent_id": "poten_tankers_no_date_poten_2017_07_28_keeping_exports_in_the_loop__root",
+      "title": "The impact of a VLCC export terminal in the U.S. Gulf",
+      "section_path": [
+        "The impact of a VLCC export terminal in the U.S. Gulf"
+      ],
+      "section_path_text": "The impact of a VLCC export terminal in the U.S. Gulf",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The announcement this week that Louisiana Offshore Oil Port (LOOP) is thinking about getting involved in the crude oil export business is a big deal. LOOP is the only port in the contiguous United States that can receive fully laden VLCCs (or even ULCCs).",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "atlantic",
+        "pacific",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 919,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

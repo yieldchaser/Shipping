@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_05_13_mississippi__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_05_13_mississippi",
+  "parent_id": null,
+  "title": "M‐I‐S‐S‐I‐S‐S‐I‐P‐P‐I",
+  "section_path": [
+    "M‐I‐S‐S‐I‐S‐S‐I‐P‐P‐I"
+  ],
+  "section_path_text": "M‐I‐S‐S‐I‐S‐S‐I‐P‐P‐I",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "M‐I‐S‐S‐I‐S‐S‐I‐P‐P‐I\nThe Mississippi River is America's largest contiguous waterway, and a vital transportation way for the domestic petroleum supply chain. The mighty Mississippi flows 2,348 miles from Lake Itasca, Minnesota to empty south of New Orleans, draining water from 31 of America's 50 states into the Gulf of Mexico and tributary waterways. Ironically, the current torrent of water downstream has many foreseeing shortages in downstream supply of a different sort.",
+  "keywords": [
+    "brazil",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "gas",
+    "gasoline",
+    "mississippi",
+    "prices",
+    "seen",
+    "domestic",
+    "far",
+    "flood"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 721,
+  "source_path": "reports/poten/2011/poten_2011-05-13_mississippi.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_05_13_mississippi__s01_m_i_s_s_i_s_s_i_p_p_i",
+      "doc_id": "poten_tankers_no_date_poten_2011_05_13_mississippi",
+      "parent_id": "poten_tankers_no_date_poten_2011_05_13_mississippi__root",
+      "title": "M‐I‐S‐S‐I‐S‐S‐I‐P‐P‐I",
+      "section_path": [
+        "M‐I‐S‐S‐I‐S‐S‐I‐P‐P‐I"
+      ],
+      "section_path_text": "M‐I‐S‐S‐I‐S‐S‐I‐P‐P‐I",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Mississippi River is America's largest contiguous waterway, and a vital transportation way for the domestic petroleum supply chain. The mighty Mississippi flows 2,348 miles from Lake Itasca, Minnesota to empty south of New Orleans, draining water from 31 of America's 50 states into the Gulf of Mexico and tributary waterways.",
+      "keywords": [
+        "us_gulf",
+        "crude_oil",
+        "products",
+        "gas",
+        "gasoline",
+        "domestic",
+        "mississippi",
+        "recent"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 306,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_05_13_mississippi__s02_better_safe_than_sorry",
+      "doc_id": "poten_tankers_no_date_poten_2011_05_13_mississippi",
+      "parent_id": "poten_tankers_no_date_poten_2011_05_13_mississippi__root",
+      "title": "Better Safe Than Sorry",
+      "section_path": [
+        "Better Safe Than Sorry"
+      ],
+      "section_path_text": "Better Safe Than Sorry",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "As a result of the high crude oil prices seen thus far in 2011, US gasoline prices have been rising steadily since the beginning of the year. Additionally, speculative pressure, fuelled by geopolitical uncertainty and tighter supply of the light, sweet grades preferred for gasoline production has driven gasoline futures to remain steadily above spot prices since the end of the first quarter, as seen in the chart below.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "gasoline",
+        "prices",
+        "seen",
+        "since",
+        "steadily"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 79,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_05_13_mississippi__s03_spot",
+      "doc_id": "poten_tankers_no_date_poten_2011_05_13_mississippi",
+      "parent_id": "poten_tankers_no_date_poten_2011_05_13_mississippi__root",
+      "title": "Spot",
+      "section_path": [
+        "Spot"
+      ],
+      "section_path_text": "Spot",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "1 Month Forward After a brief dip at the end of April, future prices for gasoline jumped the beginning of this week upon the first reports of Mississippi flooding. Traders anticipated shortages from possible refinery closures and supply chain disruptions.",
+      "keywords": [
+        "brazil",
+        "us_gulf",
+        "products",
+        "gas",
+        "far",
+        "flood",
+        "inland",
+        "mississippi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 307,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

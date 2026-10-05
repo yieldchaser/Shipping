@@ -1,0 +1,112 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2009_07_02_restraining_order__root",
+  "doc_id": "poten_tankers_no_date_poten_2009_07_02_restraining_order",
+  "parent_id": null,
+  "title": "Restraining Order",
+  "section_path": [
+    "Restraining Order"
+  ],
+  "section_path_text": "Restraining Order",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Restraining Order\nAfter duking it out with the economy in the second half of 2008, the tanker and dry bulk market took a hard fought 12 th round tumble. Rumors have circulated that 20‐60% of the global orderbook may be cancelled or delayed. Shipyards have scrambled to enforce contracts with their clients and generate some semblance of a cash flow.",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "suezmax",
+    "brazil",
+    "crude_oil",
+    "orderbook",
+    "yards",
+    "owners",
+    "are",
+    "both",
+    "may",
+    "newbuilding"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 870,
+  "source_path": "reports/poten/2009/poten_2009-07-02_restraining-order.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_07_02_restraining_order__s01_restraining_order",
+      "doc_id": "poten_tankers_no_date_poten_2009_07_02_restraining_order",
+      "parent_id": "poten_tankers_no_date_poten_2009_07_02_restraining_order__root",
+      "title": "Restraining Order",
+      "section_path": [
+        "Restraining Order"
+      ],
+      "section_path_text": "Restraining Order",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "After duking it out with the economy in the second half of 2008, the tanker and dry bulk market took a hard fought 12 th round tumble. Rumors have circulated that 20‐60% of the global orderbook may be cancelled or delayed.",
+      "keywords": [
+        "crude_oil",
+        "orderbook",
+        "may",
+        "delays",
+        "deliveries",
+        "global",
+        "not",
+        "out"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 311,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_07_02_restraining_order__s02_2009_tanker_orderbook",
+      "doc_id": "poten_tankers_no_date_poten_2009_07_02_restraining_order",
+      "parent_id": "poten_tankers_no_date_poten_2009_07_02_restraining_order__root",
+      "title": "2009 Tanker Orderbook",
+      "section_path": [
+        "2009 Tanker Orderbook"
+      ],
+      "section_path_text": "2009 Tanker Orderbook",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "2009 Delivered 2009 On Order 2010+ On Order",
+      "keywords": [
+        "order",
+        "delivered"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_07_02_restraining_order__s03_look_familiar",
+      "doc_id": "poten_tankers_no_date_poten_2009_07_02_restraining_order",
+      "parent_id": "poten_tankers_no_date_poten_2009_07_02_restraining_order__root",
+      "title": "Look Familiar?",
+      "section_path": [
+        "Look Familiar?"
+      ],
+      "section_path_text": "Look Familiar?",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The $250 billion shortfall within a $500 billion orderbook resembles the VLCC ordering frenzy that took pace in the mid 1970's: in both cases, the number of unfinanced newbuildings presented a substantial problem. Currently, banks lack the capacity to fix this gap and with more rigorous credit requirements since the downturn began, they are reluctant to throw money at anyone, let alone in the shipping industry.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "suezmax",
+        "brazil",
+        "orderbook",
+        "owners",
+        "yards",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 528,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

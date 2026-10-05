@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1561,
-  "source_path": "corpus/02-hellenic/vessel_valuations/2022/2022-05-03_weekly-vessel-valuations-report-may-03-2022.html",
+  "token_count": 2619,
+  "source_path": "reports/hellenic/vessel_valuations/2022/2022-05-03_weekly-vessel-valuations-report-may-03-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-may-03-2022",
   "children": [
     {
@@ -69,20 +69,20 @@
       "section_path_text": "Linked asset: 2022-05-03_weekly-vessel-valuations-report-may-03-2022_matrix-03-may-2022_a6e7d950f48f.png",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2022/assets/2022-05-03_weekly-vessel-valuations-report-may-03-2022_matrix-03-may-2022_a6e7d950f48f.png\n\nLinked image asset: 2022-05-03_weekly-vessel-valuations-report-may-03-2022_matrix-03-may-2022_a6e7d950f48f.png\n\nImage metadata: PNG 678x252 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\nOCR text:\n© VesselsValuey\n03 May 2022 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge vicc «Suez = Afra. LRA MR Cape Pmax Supra Handy pot Pmax Handy Fmax\n° 0.0% +0.8% 0.0% +0.3% +1.2% +0.7% +0.3% +0.8% +0.6% +1.7% -0.9% -5.2% -1.9%\n520K «160K 110K 75K SOK 180K 82K OK 37K 7000 4250 ©1750 «= 1100\ns 0.0% +1.4% +0.2% +0.1% +1.2% +0.7% +0.3% +1.1% +0.6% +1.7% -0.9% -5.2% -1.9%\n520K 160K 110K.",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2022/assets/2022-05-03_weekly-vessel-valuations-report-may-03-2022_matrix-03-may-2022_a6e7d950f48f.png\n\nLinked image asset: 2022-05-03_weekly-vessel-valuations-report-may-03-2022_matrix-03-may-2022_a6e7d950f48f.png\n\nImage metadata: PNG 678x252 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\n[structured table]\n| © | | | | | | | | | | | | | |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 03 May | 2022 | | | | VV | Mini Matrix | - | Weekly | Change | | | | |\n| | | | Tankers | | | | | Bulkers | | | | Containers | |\n| Age | vicc | «Suez | = Afra. | LRA | MR | Cape | Pmax | Supra | Handy | pot | Pmax | Handy | Fmax |\n| | 0.0% | +0.8% | 0.0% | +0.3% | +1.2% | +0.7% | +0.3% | +0.8% | +0.6% | +1.7% | -0.9% | -5.2% | -1.9% |\n| ° | | | | | | | | | | | | | |\n| | 520K | «160K | | | SOK | 180K | | | | 7000 | 4250 | ©1750 | «= 1100 |\n| | 0.0% | +1.4% | +0.2% | +0.1% | +1.2% | +0.7% | +0.3% | +1.1% | +0.6% | +1.7% | -0.9% | -5.2% | -1.9% |\n| s | | | | | | | | | | | | | |\n| | 520K | | | | | 180K | 80K | | | 7000 | 4250 | 1750 | ©1100 |\n| | 0.0% | +2.2% | | +0.6% | +1.2% | +0.7% | +0.3% | +1.3% | +0.6% | +1.7% ",
       "keywords": [
         "capesize",
         "supramax",
         "handysize",
         "container",
         "sok",
-        "asset",
-        "gok",
-        "handy"
+        "handy",
+        "pmax",
+        "n/a"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 816,
+      "token_count": 1874,
       "section_type": "linked_image_asset",
       "children": []
     }

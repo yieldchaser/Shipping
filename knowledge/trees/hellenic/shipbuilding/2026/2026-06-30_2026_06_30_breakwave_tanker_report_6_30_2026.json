@@ -9,7 +9,7 @@
   "section_path_text": "Breakwave Tanker Report 6.30.2026",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nVLCC Spot Drops from Crisis Highs, but Volatility Remains - The Very Large Crude Carrier (VLCC) Arabian Gulf (AG) market\nSource: Breakwave Advisors\n\nLinked asset: 2026-06-30_breakwave-tanker-report-6-30-2026_breakwavetankersjune302026report_19efd5a76b05.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2026-06-30_breakwave-tanker-report-6-30-2026_breakwavetankersjune302026report_19efd5a76b05.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nJune 30, 2026\n• VLCC Spot Drops from Crisis Highs, but Volatility Remains - The Very Large\nShort-term Indicators\nCrude Carrier (VLCC) Arabian Gulf (AG) market experienced extreme volatility\nMomentum: Negative\nduring the past week, with spot rates fluctuating sharply due to dynamic geopolitical\nrisks in the Strait of Hormuz. While shipowners continually evaluate risk-versus- Sentiment: Negative\nreward profiles for regional transits, sentiment is supported by a tangible recovery Fundamentals: Positive\nin Middle Eastern supply, driven by Saudi Arabia resuming loadings at Ras Tanura\nalongside expanded export programs from ADNOC, Qatar, Iraq, Kuwait, and Iran. Breakwave Tanker\nConversely, weakening Chinese demand presents a significant ",
+  "summary": "Main\nVLCC Spot Drops from Crisis Highs, but Volatility Remains - The Very Large Crude Carrier (VLCC) Arabian Gulf (AG) market\nSource: Breakwave Advisors\n\nLinked asset: 2026-06-30_breakwave-tanker-report-6-30-2026_breakwavetankersjune302026report_19efd5a76b05.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2026-06-30_breakwave-tanker-report-6-30-2026_breakwavetankersjune302026report_19efd5a76b05.pdf\n\n# Tanker Shipping\n\n## Bi-Weekly Industry Report\n\n### June 30, 2026\n\n- **VLCC Spot Drops from Crisis Highs, but Volatility Remains -** The Very Large Crude Carrier (VLCC) Arabian Gulf (AG) market experienced extreme volatility during the past week, with spot rates fluctuating sharply due to dynamic geopolitical risks in the Strait of Hormuz. While shipowners continually evaluate risk-versus- reward profiles for regional transits, sentiment is supported by a tangible recovery in Middle Eastern supply, driven by Saudi Arabia resuming loadings at Ras Tanura alongside expanded export programs from ADNOC, Qatar, Iraq, Kuwait, and Iran. Conversely, weakening Chinese demand presents a significant headwind; preliminary data indicates June imports have fallen to approximately 6.4 million bar",
   "keywords": [
     "vlcc",
     "suezmax",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1677,
-  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-06-30_breakwave-tanker-report-6-30-2026.html",
+  "token_count": 1740,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-06-30_breakwave-tanker-report-6-30-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-6-30-2026",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-06-30_breakwave-tanker-report-6-30-2026_breakwavetankersjune302026report_19efd5a76b05.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-06-30_breakwave-tanker-report-6-30-2026_breakwavetankersjune302026report_19efd5a76b05.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nJune 30, 2026\n• VLCC Spot Drops from Crisis Highs, but Volatility Remains - The Very Large\nShort-term Indicators\nCrude Carrier (VLCC) Arabian Gulf (AG) market experienced extreme volatility\nMomentum: Negative\nduring the past week, with spot rates fluctuating sharply due to dynamic geopolitical\nrisks in the Strait of Hormuz. While shipowners continually evaluate risk-versus- Sentiment: Negative\nreward profiles for regional transits, sentiment is supported by a tangible recovery Fundamentals: Positive\nin Middle Eastern supply, driven by Saudi Arabia resuming loadings at Ras Tanura\nalongside expanded export programs from ADNOC, Qatar, Iraq, Kuwait, and Iran.",
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-06-30_breakwave-tanker-report-6-30-2026_breakwavetankersjune302026report_19efd5a76b05.pdf\n\n# Tanker Shipping\n\n## Bi-Weekly Industry Report\n\n### June 30, 2026\n\n- **VLCC Spot Drops from Crisis Highs, but Volatility Remains -** The Very Large Crude Carrier (VLCC) Arabian Gulf (AG) market experienced extreme volatility during the past week, with spot rates fluctuating sharply due to dynamic geopolitical risks in the Strait of Hormuz. While shipowners continually evaluate risk-versus- reward profiles for regional transits, sentiment is supported by a tangible recovery in Middle Eastern supply, driven by Saudi Arabia resuming loadings at Ras Tanura alongside expanded export programs from ADNOC, Qatar, Iraq, Kuwait, and Iran.",
       "keywords": [
         "vlcc",
         "suezmax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1595,
+      "token_count": 1658,
       "section_type": "linked_pdf",
       "children": []
     }

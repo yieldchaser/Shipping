@@ -1,0 +1,230 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2006_04_28_passing_the_buck__root",
+  "doc_id": "poten_tankers_no_date_poten_2006_04_28_passing_the_buck",
+  "parent_id": null,
+  "title": "Passing The Buck",
+  "section_path": [
+    "Passing The Buck"
+  ],
+  "section_path_text": "Passing The Buck",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Passing The Buck\nAs gasoline prices in the United States have begun their climb towards $3.00 per gallon, the chorus of industry bashing has been growing louder. What is impressive is how little knowledge is displayed about the oil industry and the underlying causes of today's relatively high prices at the pump. Perhaps even more disturbing is the list of potential \"solutions\" being offered to help mitigate the effect of higher prices.",
+  "keywords": [
+    "crude_oil",
+    "products",
+    "gas",
+    "gasoline",
+    "price",
+    "crude",
+    "prices",
+    "gallon",
+    "oil",
+    "tax",
+    "are",
+    "per"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 862,
+  "source_path": "reports/poten/2006/poten_2006-04-28_passing-the-buck.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_04_28_passing_the_buck__s01_passing_the_buck",
+      "doc_id": "poten_tankers_no_date_poten_2006_04_28_passing_the_buck",
+      "parent_id": "poten_tankers_no_date_poten_2006_04_28_passing_the_buck__root",
+      "title": "Passing The Buck",
+      "section_path": [
+        "Passing The Buck"
+      ],
+      "section_path_text": "Passing The Buck",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As gasoline prices in the United States have begun their climb towards $3.00 per gallon, the chorus of industry bashing has been growing louder. What is impressive is how little knowledge is displayed about the oil industry and the underlying causes of today's relatively high prices at the pump.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "prices",
+        "bashing",
+        "begun",
+        "being",
+        "causes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 81,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_04_28_passing_the_buck__s02_short_term_solutions",
+      "doc_id": "poten_tankers_no_date_poten_2006_04_28_passing_the_buck",
+      "parent_id": "poten_tankers_no_date_poten_2006_04_28_passing_the_buck__root",
+      "title": "Short-Term \"Solutions\"",
+      "section_path": [
+        "Short-Term \"Solutions\""
+      ],
+      "section_path_text": "Short-Term \"Solutions\"",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "• A $100 tax rebate if the family income is less than about $200,000 per year • Eliminate the federal tax on gasoline (about 18 cents per gallon) • Delay implementation of new environmental regulations • Stop adding crude to the Strategic Petroleum Reserve Long-Term \"Solutions\"\n• Impose a wind-fall profit tax • Open Alaska to more drilling • Provide large tax credits for buying hybrid cars And every congressman's favorite: launching investigations into price gouging.",
+      "keywords": [
+        "products",
+        "gas",
+        "tax",
+        "per",
+        "adding",
+        "alaska",
+        "buying",
+        "cars"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 96,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_04_28_passing_the_buck__s03_crude_oil_costs_are_up",
+      "doc_id": "poten_tankers_no_date_poten_2006_04_28_passing_the_buck",
+      "parent_id": "poten_tankers_no_date_poten_2006_04_28_passing_the_buck__root",
+      "title": "Crude Oil Costs Are Up",
+      "section_path": [
+        "Crude Oil Costs Are Up"
+      ],
+      "section_path_text": "Crude Oil Costs Are Up",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The graph below shows the NYMEX wholesale cash prices for gasoline and crude for the past 12 months and the ratio of crude price to gasoline. Guess what, since January the price of crude accounts for about 86% of the price of wholesale gasoline.",
+      "keywords": [
+        "products",
+        "gas",
+        "crude",
+        "price",
+        "prices",
+        "gasoline",
+        "are",
+        "correlation"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 151,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_04_28_passing_the_buck__s04_gasoline_unleaded",
+      "doc_id": "poten_tankers_no_date_poten_2006_04_28_passing_the_buck",
+      "parent_id": "poten_tankers_no_date_poten_2006_04_28_passing_the_buck__root",
+      "title": "Gasoline Unleaded",
+      "section_path": [
+        "Gasoline Unleaded"
+      ],
+      "section_path_text": "Gasoline Unleaded",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Crude Oil Crude/Gas Ratio In short, recent run-ups in gasoline prices cannot be linked to just oil prices. The challenge is finding what has been driving gasoline prices.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "gasoline",
+        "crude",
+        "oil",
+        "prices",
+        "prices."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 54,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_04_28_passing_the_buck__s05_pennies_on_the_gallon",
+      "doc_id": "poten_tankers_no_date_poten_2006_04_28_passing_the_buck",
+      "parent_id": "poten_tankers_no_date_poten_2006_04_28_passing_the_buck__root",
+      "title": "Pennies on the Gallon?",
+      "section_path": [
+        "Pennies on the Gallon?"
+      ],
+      "section_path_text": "Pennies on the Gallon?",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Understanding what makes up the retail price of a gallon of gasoline is the first step in solving the problem. Crude oil is not the only cost element.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "price",
+        "gallon",
+        "crude",
+        "distribution",
+        "february"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 136,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_04_28_passing_the_buck__s06_us_doe_february_2006",
+      "doc_id": "poten_tankers_no_date_poten_2006_04_28_passing_the_buck",
+      "parent_id": "poten_tankers_no_date_poten_2006_04_28_passing_the_buck__root",
+      "title": "US DOE (February 2006)",
+      "section_path": [
+        "US DOE (February 2006)"
+      ],
+      "section_path_text": "US DOE (February 2006)",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Figures from the American Petroleum Institute indicate that eight states in the US tax gasoline upwards of $.50 per gallon, while California, Hawaii and New York tax more than $.60 per gallon. Department of Transportation estimates that the annual gas tax burden for every person in the United States (including children) amounts to $271.",
+      "keywords": [
+        "products",
+        "gas",
+        "tax",
+        "gasoline",
+        "only",
+        "per",
+        "states",
+        "alleviate"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 91,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_04_28_passing_the_buck__s07_supply_chain_squeeze",
+      "doc_id": "poten_tankers_no_date_poten_2006_04_28_passing_the_buck",
+      "parent_id": "poten_tankers_no_date_poten_2006_04_28_passing_the_buck__root",
+      "title": "Supply Chain Squeeze",
+      "section_path": [
+        "Supply Chain Squeeze"
+      ],
+      "section_path_text": "Supply Chain Squeeze",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Changing environmental regulations that have increased the demand for ethanol have also contributed to supply tightness for gasoline. The effect on price was not unexpected in Washington.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "demand",
+        "price",
+        "are",
+        "changing",
+        "effects"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 207,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

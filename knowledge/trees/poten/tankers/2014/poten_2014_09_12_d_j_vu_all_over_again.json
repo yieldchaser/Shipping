@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2014_09_12_d_j_vu_all_over_again__root",
+  "doc_id": "poten_tankers_no_date_poten_2014_09_12_d_j_vu_all_over_again",
+  "parent_id": null,
+  "title": "Déjà vu all over again?",
+  "section_path": [
+    "Déjà vu all over again?"
+  ],
+  "section_path_text": "Déjà vu all over again?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Will the 2014/15 winter tanker market be a repeat of the\nprevious one? As the regular US baseball season is winding down, the fans are looking forward to the playoffs. Similarly, the people involved in the tanker market are back in full swing after the summer and start to focus on the winter season.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "atlantic",
+    "pacific",
+    "crude_oil",
+    "products",
+    "gas",
+    "winter",
+    "oil",
+    "demand",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 533,
+  "source_path": "reports/poten/2014/poten_2014-09-12_déjà-vu-all-over-again.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_09_12_d_j_vu_all_over_again__s01_will_the_2014_15_winter_tanker_market_be_a_repeat_of_the",
+      "doc_id": "poten_tankers_no_date_poten_2014_09_12_d_j_vu_all_over_again",
+      "parent_id": "poten_tankers_no_date_poten_2014_09_12_d_j_vu_all_over_again__root",
+      "title": "Will the 2014/15 winter tanker market be a repeat of the",
+      "section_path": [
+        "Will the 2014/15 winter tanker market be a repeat of the"
+      ],
+      "section_path_text": "Will the 2014/15 winter tanker market be a repeat of the",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As the regular US baseball season is winding down, the fans are looking forward to the playoffs. Similarly, the people involved in the tanker market are back in full swing after the summer and start to focus on the winter season.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "demand",
+        "oil",
+        "winter",
+        "are",
+        "seasonality"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 323,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_09_12_d_j_vu_all_over_again__s02_winter_than_in_the_summer_heavy_weather_is_more",
+      "doc_id": "poten_tankers_no_date_poten_2014_09_12_d_j_vu_all_over_again",
+      "parent_id": "poten_tankers_no_date_poten_2014_09_12_d_j_vu_all_over_again__root",
+      "title": "winter than in the summer. Heavy weather is more",
+      "section_path": [
+        "winter than in the summer. Heavy weather is more"
+      ],
+      "section_path_text": "winter than in the summer. Heavy weather is more",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "in the northern hemisphere (Atlantic and Pacific), with storms and ice affecting vessel speed and utilization. In the winter there are also frequent occurrences of fog in the Bosphorus which invariably leads to delays thus tying up tonnage.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "atlantic",
+        "pacific",
+        "crude_oil",
+        "last",
+        "winter"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 183,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

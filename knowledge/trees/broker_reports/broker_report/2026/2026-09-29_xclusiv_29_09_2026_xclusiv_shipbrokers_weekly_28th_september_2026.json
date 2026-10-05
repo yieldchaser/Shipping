@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-09-29_xclusiv_29_09_2026_xclusiv_shipbrokers_weekly_28th_september_2026__root",
+  "doc_id": "broker_reports_broker_report_2026-09-29_xclusiv_29_09_2026_xclusiv_shipbrokers_weekly_28th_september_2026",
+  "parent_id": null,
+  "title": "Xclusiv Shipbrokers Weekly 28th September 2026",
+  "section_path": [
+    "Xclusiv Shipbrokers Weekly 28th September 2026"
+  ],
+  "section_path_text": "Xclusiv Shipbrokers Weekly 28th September 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Xclusiv Shipbrokers Weekly 28th September 2026\n**Broker**: Xclusiv\n**Published Date**: 29/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-28th-september-2026/](https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-28th-september-2026/)\n\nMarket Report Content\nCapes on a High\nThe Capesize market has emerged as one of the clearest\nexamples of how improved cargo demand, stronger\ntonne-mile fundamentals and tighter vessel availability\ncan translate into materially better freight earnings and\nasset values. Based on Signal Ocean data, between 1 Jan-\nuary and 25 September 2026, Capesize dry bulk move-\nments reached 1,198.68 million MT across 9,555 voyages,\nup 4.4% from 1,148.06 million MT and 9,367 voyages dur-\ning the same period of 2025. Australia remained the dom-\ninant loading origin, with volumes rising 3.9% to 658.42\nmillion MT, while Guinea recorded the most significant\nexpansion, increasing 36.9% to 149.88 million MT and\novertaking Brazil, where volumes slipped 1.4% to 133.82 million MT.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "lng",
+    "container",
+    "china",
+    "brazil",
+    "australia"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 8347,
+  "source_path": "reports/broker_reports/2026/xclusiv/xclusiv_29_09_2026_xclusiv_shipbrokers_weekly_28th_september_2026.md",
+  "source_url": "https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-28th-september-2026/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-09-29_xclusiv_29_09_2026_xclusiv_shipbrokers_weekly_28th_september_2026__s01_xclusiv_shipbrokers_weekly_28th_september_2026",
+      "doc_id": "broker_reports_broker_report_2026-09-29_xclusiv_29_09_2026_xclusiv_shipbrokers_weekly_28th_september_2026",
+      "parent_id": "broker_reports_broker_report_2026-09-29_xclusiv_29_09_2026_xclusiv_shipbrokers_weekly_28th_september_2026__root",
+      "title": "Xclusiv Shipbrokers Weekly 28th September 2026",
+      "section_path": [
+        "Xclusiv Shipbrokers Weekly 28th September 2026"
+      ],
+      "section_path_text": "Xclusiv Shipbrokers Weekly 28th September 2026",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: Xclusiv\n**Published Date**: 29/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-28th-september-2026/](https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-28th-september-2026/)",
+      "keywords": [
+        "https",
+        "www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-28th-september-2026",
+        "broker",
+        "date",
+        "published",
+        "source",
+        "url",
+        "xclusiv"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 81,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-09-29_xclusiv_29_09_2026_xclusiv_shipbrokers_weekly_28th_september_2026__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-09-29_xclusiv_29_09_2026_xclusiv_shipbrokers_weekly_28th_september_2026",
+      "parent_id": "broker_reports_broker_report_2026-09-29_xclusiv_29_09_2026_xclusiv_shipbrokers_weekly_28th_september_2026__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Capes on a High\nThe Capesize market has emerged as one of the clearest\nexamples of how improved cargo demand, stronger\ntonne-mile fundamentals and tighter vessel availability\ncan translate into materially better freight earnings and\nasset values. Based on Signal Ocean data, between 1 Jan-\nuary and 25 September 2026, Capesize dry bulk move-\nments reached 1,198.68 million MT across 9,555 voyages,\nup 4.4% from 1,148.06 million MT and 9,367 voyages dur-\ning the same period of 2025.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "lng"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8246,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

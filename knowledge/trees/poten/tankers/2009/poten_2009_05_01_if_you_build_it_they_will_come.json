@@ -1,0 +1,288 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2009_05_01_if_you_build_it_they_will_come__root",
+  "doc_id": "poten_tankers_no_date_poten_2009_05_01_if_you_build_it_they_will_come",
+  "parent_id": null,
+  "title": "If You Build it, They Will Come",
+  "section_path": [
+    "If You Build it, They Will Come"
+  ],
+  "section_path_text": "If You Build it, They Will Come",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "If You Build it, They Will Come\nIn 2006, the Panama Canal Authority (ACP) announced a $5.25 billion expansion proposal. It was a period of global economic growth and expanding shipping markets. Now, just three years later, the project finds itself in a very different environment.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "suezmax",
+    "lpg",
+    "container",
+    "atlantic",
+    "pacific",
+    "west_africa",
+    "grain",
+    "crude_oil",
+    "gas",
+    "canal"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1111,
+  "source_path": "reports/poten/2009/poten_2009-05-01_if-you-build-it-they-will-come.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_05_01_if_you_build_it_they_will_come__s01_if_you_build_it_they_will_come",
+      "doc_id": "poten_tankers_no_date_poten_2009_05_01_if_you_build_it_they_will_come",
+      "parent_id": "poten_tankers_no_date_poten_2009_05_01_if_you_build_it_they_will_come__root",
+      "title": "If You Build it, They Will Come",
+      "section_path": [
+        "If You Build it, They Will Come"
+      ],
+      "section_path_text": "If You Build it, They Will Come",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In 2006, the Panama Canal Authority (ACP) announced a $5.25 billion expansion proposal. It was a period of global economic growth and expanding shipping markets.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "suezmax",
+        "container",
+        "canal",
+        "expansion",
+        "acp",
+        "economic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 272,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_05_01_if_you_build_it_they_will_come__s02_fy_2006",
+      "doc_id": "poten_tankers_no_date_poten_2009_05_01_if_you_build_it_they_will_come",
+      "parent_id": "poten_tankers_no_date_poten_2009_05_01_if_you_build_it_they_will_come__root",
+      "title": "FY ‐ 2006",
+      "section_path": [
+        "FY ‐ 2006"
+      ],
+      "section_path_text": "FY ‐ 2006",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "FY ‐ 2007 FY ‐ 2008",
+      "keywords": [],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 12,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_05_01_if_you_build_it_they_will_come__s03_tanker_lpg",
+      "doc_id": "poten_tankers_no_date_poten_2009_05_01_if_you_build_it_they_will_come",
+      "parent_id": "poten_tankers_no_date_poten_2009_05_01_if_you_build_it_they_will_come__root",
+      "title": "Tanker/LPG",
+      "section_path": [
+        "Tanker/LPG"
+      ],
+      "section_path_text": "Tanker/LPG",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "container",
+        "drybulk"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_05_01_if_you_build_it_they_will_come__s04_vehicle_roro",
+      "doc_id": "poten_tankers_no_date_poten_2009_05_01_if_you_build_it_they_will_come",
+      "parent_id": "poten_tankers_no_date_poten_2009_05_01_if_you_build_it_they_will_come__root",
+      "title": "Vehicle/RoRo",
+      "section_path": [
+        "Vehicle/RoRo"
+      ],
+      "section_path_text": "Vehicle/RoRo",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Reefer Other Although on‐time and on‐budget so far, some details and hurdles surrounding the expansion still remain to be tackled. For example, the ACP is undergoing the selection process for contractors to design and build the locks - the most expensive and arguably the most important part of the project.",
+      "keywords": [
+        "acp",
+        "according",
+        "although",
+        "billion",
+        "budget",
+        "canal",
+        "other",
+        "toll"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 262,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_05_01_if_you_build_it_they_will_come__s05_canal_customers",
+      "doc_id": "poten_tankers_no_date_poten_2009_05_01_if_you_build_it_they_will_come",
+      "parent_id": "poten_tankers_no_date_poten_2009_05_01_if_you_build_it_they_will_come__root",
+      "title": "Canal Customers",
+      "section_path": [
+        "Canal Customers"
+      ],
+      "section_path_text": "Canal Customers",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The chart below shows the principal cargoes moved over the past three fiscal years. Container shipping is the major contributor to both tolls and cargo passage each year and has shown 14% or 7.7 million tons of growth moved through since fiscal year 2006.",
+      "keywords": [
+        "container",
+        "fiscal",
+        "moved",
+        "year",
+        "below",
+        "both",
+        "cargo",
+        "cargoes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 55,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_05_01_if_you_build_it_they_will_come__s06_chemical",
+      "doc_id": "poten_tankers_no_date_poten_2009_05_01_if_you_build_it_they_will_come",
+      "parent_id": "poten_tankers_no_date_poten_2009_05_01_if_you_build_it_they_will_come__root",
+      "title": "Chemical",
+      "section_path": [
+        "Chemical"
+      ],
+      "section_path_text": "Chemical",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "",
+      "keywords": [
+        "grain",
+        "grains",
+        "ores/metals",
+        "petroleum/pet."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_05_01_if_you_build_it_they_will_come__s07_containers",
+      "doc_id": "poten_tankers_no_date_poten_2009_05_01_if_you_build_it_they_will_come",
+      "parent_id": "poten_tankers_no_date_poten_2009_05_01_if_you_build_it_they_will_come__root",
+      "title": "Containers",
+      "section_path": [
+        "Containers"
+      ],
+      "section_path_text": "Containers",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "",
+      "keywords": [
+        "other"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_05_01_if_you_build_it_they_will_come__s08_fy_2006",
+      "doc_id": "poten_tankers_no_date_poten_2009_05_01_if_you_build_it_they_will_come",
+      "parent_id": "poten_tankers_no_date_poten_2009_05_01_if_you_build_it_they_will_come__root",
+      "title": "FY ‐ 2006",
+      "section_path": [
+        "FY ‐ 2006"
+      ],
+      "section_path_text": "FY ‐ 2006",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "FY ‐ 2007 FY ‐ 2008 The direction in which cargo is moving gives rise to either expanded or new trade lanes. According to ACP statistics, petroleum and petroleum product traffic moving from the Atlantic to the Pacific through the Canal has grown 30% or roughly 5.8 million tons (approximately 115 incremental Panamax‐sized transits) from fiscal year 2006 to 2008 demonstrating the Canal's growing relevance in the tanker trade.",
+      "keywords": [
+        "panamax",
+        "atlantic",
+        "pacific",
+        "canal",
+        "moving",
+        "petroleum",
+        "according",
+        "acp"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 97,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_05_01_if_you_build_it_they_will_come__s09_atlantic_to_pacific",
+      "doc_id": "poten_tankers_no_date_poten_2009_05_01_if_you_build_it_they_will_come",
+      "parent_id": "poten_tankers_no_date_poten_2009_05_01_if_you_build_it_they_will_come__root",
+      "title": "Atlantic to Pacific",
+      "section_path": [
+        "Atlantic to Pacific"
+      ],
+      "section_path_text": "Atlantic to Pacific",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Pacific to Atlantic FY ‐ 2006 19,889 11,233 FY ‐ 2007 23,409 8,667 FY ‐ 2008 25,783 9,409 On the horizon lies the opportunity for the ACP to seize the traffic growth of both the container and tanker markets over the long‐term. The benefit to containerized goods is greater direct shipping access between the Far East and the US East Coast avoiding both cross‐country rail and truck use.",
+      "keywords": [
+        "suezmax",
+        "container",
+        "atlantic",
+        "pacific",
+        "west_africa",
+        "crude_oil",
+        "east",
+        "both"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 148,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_05_01_if_you_build_it_they_will_come__s10_the_canal_of_dreams",
+      "doc_id": "poten_tankers_no_date_poten_2009_05_01_if_you_build_it_they_will_come",
+      "parent_id": "poten_tankers_no_date_poten_2009_05_01_if_you_build_it_they_will_come__root",
+      "title": "The Canal of Dreams",
+      "section_path": [
+        "The Canal of Dreams"
+      ],
+      "section_path_text": "The Canal of Dreams",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "As shipowners and charterers alike are in cost cutting mode, the ACP should look to do the same. In a low freight rate and slackened demand environment it is unlikely that shipowners and charterers will feel pressured to pay an expensive toll just to take the most direct route.",
+      "keywords": [
+        "tolls",
+        "acp",
+        "charterers",
+        "current",
+        "demand",
+        "expansion",
+        "may",
+        "september"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 196,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

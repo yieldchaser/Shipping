@@ -9,7 +9,7 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 3.29.2022",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nCapesize futures premiums might not be that extreme after all - As we stare into the second quarter of the year, the futures market remains\nSource: Breakwave Advisors\n\nLinked asset: 2022-03-29_breakwave-dry-bulk-shipping-report-3-29-2022_breakwavemarch292022report_fa3d8b7edb2c.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-03-29_breakwave-dry-bulk-shipping-report-3-29-2022_breakwavemarch292022report_fa3d8b7edb2c.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nMarch 29, 2022\nBreakwave Dry Futures Index: 2,872 Baltic Dry Index (spot): 2,484 Short-term Indicators:\n↑ 30D: 23.6% ↑ 30D: 21.8% Momentum: Negative\n↑ YTD: 38.0% ↑ YTD: 12.0% Sentiment: Positive\n↑ YOY: 24.6% ↑ YOY: 14.0% Fundamentals: Positive\nBi-Weekly Report\n• Capesize futures premiums might not be that extreme after all - As we stare into the second quarter of the year,\nthe futures market remains overly optimistic about the progression of the spot Capesize rates, with a contango that\ncurrently stands at ~45% on the front month alone. The consensus view (at least based on our recent conversations)\nis that such premiums make little sense once one looks at the current state of the spot market, especially in the\nAtlantic, ",
+  "summary": "Main\nCapesize futures premiums might not be that extreme after all - As we stare into the second quarter of the year, the futures market remains\nSource: Breakwave Advisors\n\nLinked asset: 2022-03-29_breakwave-dry-bulk-shipping-report-3-29-2022_breakwavemarch292022report_fa3d8b7edb2c.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2022-03-29_breakwave-dry-bulk-shipping-report-3-29-2022_breakwavemarch292022report_fa3d8b7edb2c.pdf\n\n|||BDRY||||||\n|---|---|---|---|---|---|---|---|\n||↑ ↑ ↑|Dry Bulk Shipping Breakwave Dry Futures Index: 30D: 23.6% YTD: 38.0% YOY: 24.6%|2,872 ↑ ↑ ↑|30D: 21.8% YTD: 12.0% YOY: 14.0%|Baltic Dry Index (spot):|2,484 Momentum: Sentiment: Fundamentals:|March 29, 2022 Short-term Indicators: Negative Positive Positive|\n|• • •||Bi-Weekly Report Dry bulk upcycle to continue in 2022 -|Capesize futures premiums might not be that extreme after all - the next move in the overall freight futures curve for the rest of the year. Deja vu, as shipping once again turns its attention to China - Supramax and a weighted average maturity of approximately 50-70 days.|the futures market remains overly optimistic about the progression of the spot Capesize rates, with a contango",
   "keywords": [
     "capesize",
     "panamax",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1511,
-  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-03-29_breakwave-dry-bulk-shipping-report-3-29-2022.html",
+  "token_count": 1531,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-03-29_breakwave-dry-bulk-shipping-report-3-29-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-3-29-2022",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-03-29_breakwave-dry-bulk-shipping-report-3-29-2022_breakwavemarch292022report_fa3d8b7edb2c.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-03-29_breakwave-dry-bulk-shipping-report-3-29-2022_breakwavemarch292022report_fa3d8b7edb2c.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nMarch 29, 2022\nBreakwave Dry Futures Index: 2,872 Baltic Dry Index (spot): 2,484 Short-term Indicators:\n↑ 30D: 23.6% ↑ 30D: 21.8% Momentum: Negative\n↑ YTD: 38.0% ↑ YTD: 12.0% Sentiment: Positive\n↑ YOY: 24.6% ↑ YOY: 14.0% Fundamentals: Positive\nBi-Weekly Report\n• Capesize futures premiums might not be that extreme after all - As we stare into the second quarter of the year,\nthe futures market remains overly optimistic about the progression of the spot Capesize rates, with a contango that\ncurrently stands at ~45% on the front month alone. The consensus view (at least based on our recent conversations)\nis that such premiums make little sense once one looks at the current state of the spot market, especially in the\nAtlantic, where an accumulation of open ships has recently tilted the balance towards the charterers favor (weaker\nrates).",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-03-29_breakwave-dry-bulk-shipping-report-3-29-2022_breakwavemarch292022report_fa3d8b7edb2c.pdf\n\n|||BDRY||||||\n|---|---|---|---|---|---|---|---|\n||↑ ↑ ↑|Dry Bulk Shipping Breakwave Dry Futures Index: 30D: 23.6% YTD: 38.0% YOY: 24.6%|2,872 ↑ ↑ ↑|30D: 21.8% YTD: 12.0% YOY: 14.0%|Baltic Dry Index (spot):|2,484 Momentum: Sentiment: Fundamentals:|March 29, 2022 Short-term Indicators: Negative Positive Positive|\n|• • •||Bi-Weekly Report Dry bulk upcycle to continue in 2022 -|Capesize futures premiums might not be that extreme after all - the next move in the overall freight futures curve for the rest of the year. Deja vu, as shipping once again turns its attention to China - Supramax and a weighted average maturity of approximately 50-70 days.|the futures market remains overly optimistic about the progression of the spot Capesize rates, with a contango that currently stands at ~45% on the front month alone.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1430,
+      "token_count": 1450,
       "section_type": "linked_pdf",
       "children": []
     }

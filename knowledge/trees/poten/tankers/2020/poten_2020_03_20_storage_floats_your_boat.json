@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2020_03_20_storage_floats_your_boat__root",
+  "doc_id": "poten_tankers_no_date_poten_2020_03_20_storage_floats_your_boat",
+  "parent_id": null,
+  "title": "Storage Floats Your Boat",
+  "section_path": [
+    "Storage Floats Your Boat"
+  ],
+  "section_path_text": "Storage Floats Your Boat",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Floating storage can provide temporary boost to tankers\nTwo weeks ago, the OPEC+ deal fell apart and the major OPEC producers started to export \"at will\". The global spread of the coronavirus had already curtailed oil demand, so it was immediately clear that most of this additional oil would go into storage, either fixed on land or floating on the oceans. In this Weekly Opinion, we want to explain the economics of floating storage and discuss how the situation may be different this time from previous markets with excess crude supply.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "crude_oil",
+    "storage",
+    "oil",
+    "floating",
+    "are",
+    "crude",
+    "barrels",
+    "demand",
+    "day",
+    "global"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 823,
+  "source_path": "reports/poten/2020/poten_2020-03-20_storage-floats-your-boat.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_03_20_storage_floats_your_boat__s01_floating_storage_can_provide_temporary_boost_to_tankers",
+      "doc_id": "poten_tankers_no_date_poten_2020_03_20_storage_floats_your_boat",
+      "parent_id": "poten_tankers_no_date_poten_2020_03_20_storage_floats_your_boat__root",
+      "title": "Floating storage can provide temporary boost to tankers",
+      "section_path": [
+        "Floating storage can provide temporary boost to tankers"
+      ],
+      "section_path_text": "Floating storage can provide temporary boost to tankers",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Two weeks ago, the OPEC+ deal fell apart and the major OPEC producers started to export \"at will\". The global spread of the coronavirus had already curtailed oil demand, so it was immediately clear that most of this additional oil would go into storage, either fixed on land or floating on the oceans.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "crude_oil",
+        "oil",
+        "storage",
+        "floating",
+        "are",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 813,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

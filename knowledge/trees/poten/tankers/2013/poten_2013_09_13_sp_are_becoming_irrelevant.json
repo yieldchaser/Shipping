@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2013_09_13_sp_are_becoming_irrelevant__root",
+  "doc_id": "poten_tankers_no_date_poten_2013_09_13_sp_are_becoming_irrelevant",
+  "parent_id": null,
+  "title": "S.P. aRe Becoming Irrelevant?",
+  "section_path": [
+    "S.P. aRe Becoming Irrelevant?"
+  ],
+  "section_path_text": "S.P. aRe Becoming Irrelevant?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The recent flux in light-sweet crude oil supplies in the Atlantic Basin highlights the United States' recent strides towards crude oil self-sufficiency. Although short-term upward pressure on crude oil prices appears to have temporized for the moment, threats to supply, if only perceived, can have wild impacts. Typically, if crude oil prices get too high, the powers that be in Washington reach for the Strategic Petroleum Reserve (SPR) taps.",
+  "keywords": [
+    "capesize",
+    "atlantic",
+    "crude_oil",
+    "gas",
+    "oil",
+    "spr",
+    "crude",
+    "prices",
+    "release",
+    "per",
+    "are",
+    "barrel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 515,
+  "source_path": "reports/poten/2013/poten_2013-09-13_sp-are-becoming-irrelevant.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_09_13_sp_are_becoming_irrelevant__s01_s_p_are_becoming_irrelevant",
+      "doc_id": "poten_tankers_no_date_poten_2013_09_13_sp_are_becoming_irrelevant",
+      "parent_id": "poten_tankers_no_date_poten_2013_09_13_sp_are_becoming_irrelevant__root",
+      "title": "S.P. aRe Becoming Irrelevant?",
+      "section_path": [
+        "S.P. aRe Becoming Irrelevant?"
+      ],
+      "section_path_text": "S.P. aRe Becoming Irrelevant?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The recent flux in light-sweet crude oil supplies in the Atlantic Basin highlights the United States' recent strides towards crude oil self-sufficiency. Although short-term upward pressure on crude oil prices appears to have temporized for the moment, threats to supply, if only perceived, can have wild impacts.",
+      "keywords": [
+        "atlantic",
+        "crude_oil",
+        "oil",
+        "spr",
+        "crude",
+        "approximately",
+        "barrels",
+        "basin"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 256,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_09_13_sp_are_becoming_irrelevant__s02_july_2011_release",
+      "doc_id": "poten_tankers_no_date_poten_2013_09_13_sp_are_becoming_irrelevant",
+      "parent_id": "poten_tankers_no_date_poten_2013_09_13_sp_are_becoming_irrelevant__root",
+      "title": "July 2011 release",
+      "section_path": [
+        "July 2011 release"
+      ],
+      "section_path_text": "July 2011 release",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "In July 2011, President Obama authorized the release of 30 million barrels of SPR crude oil to be sold on the open market. While on the surface the SPR release appeared as if it would bring needed relief at the gas pump, this move effectively created a firesale for crude oil (prices dropped $4 on the day) much to the delight of its purchasers without any direct benefit to the American consumer (prices recovered quickly thereafter).",
+      "keywords": [
+        "capesize",
+        "crude_oil",
+        "gas",
+        "crude",
+        "oil",
+        "prices",
+        "release",
+        "spr"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 243,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

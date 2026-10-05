@@ -6,6 +6,7 @@ commodities:
 date: '2026-05-09'
 doc_id: hellenic_demolition_2026-05-09_2026_05_09_best_oasis_weekly_recycling_market_report_8_may_2026
 document_type: demolition_update
+is_error_page: false
 key_entities:
 - Brazil
 keywords:

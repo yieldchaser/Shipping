@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-29T17:19:17Z",
-  "current_date": "2026-09-29",
-  "warning_count": 5,
+  "generated_at": "2026-10-05T23:07:36Z",
+  "current_date": "2026-10-05",
+  "warning_count": 4,
   "high_severity_count": 0,
   "status_counts": {
     "sources": {
@@ -12,53 +12,10 @@
       "healthy": 10
     },
     "divergences": {
-      "watch": 5
+      "watch": 4
     }
   },
   "warnings": [
-    {
-      "severity": "watch",
-      "kind": "topic_divergence",
-      "key": "coal_and_grain_flows",
-      "message": "Coal and Grain Flows shows recent tone divergence: baltic reads constructive while hellenic reads neutral.",
-      "details": {
-        "topic_id": "coal_and_grain_flows",
-        "title": "Coal and Grain Flows",
-        "severity": "watch",
-        "score_diff": 0.75,
-        "source_scores": [
-          {
-            "source": "hellenic",
-            "avg_tone_score": 0.0,
-            "dominant_tone": "neutral",
-            "doc_count": 6,
-            "latest_date": "2026-09-23"
-          },
-          {
-            "source": "breakwave",
-            "avg_tone_score": 0.45,
-            "dominant_tone": "constructive",
-            "doc_count": 5,
-            "latest_date": "2026-09-29"
-          },
-          {
-            "source": "breakwave_insights",
-            "avg_tone_score": 0.54,
-            "dominant_tone": "constructive",
-            "doc_count": 6,
-            "latest_date": "2026-09-29"
-          },
-          {
-            "source": "baltic",
-            "avg_tone_score": 0.75,
-            "dominant_tone": "constructive",
-            "doc_count": 6,
-            "latest_date": "2026-09-25"
-          }
-        ],
-        "message": "Coal and Grain Flows shows recent tone divergence: baltic reads constructive while hellenic reads neutral."
-      }
-    },
     {
       "severity": "watch",
       "kind": "topic_divergence",
@@ -68,28 +25,28 @@
         "topic_id": "oil_and_opec",
         "title": "Oil and OPEC",
         "severity": "watch",
-        "score_diff": 0.83,
+        "score_diff": 0.92,
         "source_scores": [
           {
             "source": "hellenic",
-            "avg_tone_score": -0.08,
+            "avg_tone_score": -0.17,
             "dominant_tone": "neutral",
             "doc_count": 6,
-            "latest_date": "2026-09-23"
+            "latest_date": "2026-09-30"
           },
           {
             "source": "baltic",
             "avg_tone_score": -0.04,
             "dominant_tone": "neutral",
             "doc_count": 6,
-            "latest_date": "2026-09-25"
+            "latest_date": "2026-10-02"
           },
           {
             "source": "breakwave_insights",
             "avg_tone_score": 0.54,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-09-29"
+            "latest_date": "2026-10-05"
           },
           {
             "source": "breakwave",
@@ -106,7 +63,7 @@
       "severity": "watch",
       "kind": "topic_divergence",
       "key": "panamax_and_supramax",
-      "message": "Panamax and Supramax shows recent tone divergence: baltic reads constructive while hellenic reads neutral.",
+      "message": "Panamax and Supramax shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral.",
       "details": {
         "topic_id": "panamax_and_supramax",
         "title": "Panamax and Supramax",
@@ -118,7 +75,7 @@
             "avg_tone_score": -0.08,
             "dominant_tone": "neutral",
             "doc_count": 6,
-            "latest_date": "2026-09-23"
+            "latest_date": "2026-09-30"
           },
           {
             "source": "breakwave",
@@ -128,21 +85,21 @@
             "latest_date": "2026-09-29"
           },
           {
+            "source": "baltic",
+            "avg_tone_score": 0.62,
+            "dominant_tone": "constructive",
+            "doc_count": 6,
+            "latest_date": "2026-10-02"
+          },
+          {
             "source": "breakwave_insights",
             "avg_tone_score": 0.75,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-09-29"
-          },
-          {
-            "source": "baltic",
-            "avg_tone_score": 0.75,
-            "dominant_tone": "constructive",
-            "doc_count": 6,
-            "latest_date": "2026-09-25"
+            "latest_date": "2026-10-05"
           }
         ],
-        "message": "Panamax and Supramax shows recent tone divergence: baltic reads constructive while hellenic reads neutral."
+        "message": "Panamax and Supramax shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral."
       }
     },
     {
@@ -161,21 +118,21 @@
             "avg_tone_score": -0.04,
             "dominant_tone": "neutral",
             "doc_count": 6,
-            "latest_date": "2026-09-25"
+            "latest_date": "2026-10-02"
           },
           {
             "source": "hellenic",
-            "avg_tone_score": 0.5,
-            "dominant_tone": "constructive",
+            "avg_tone_score": 0.17,
+            "dominant_tone": "neutral",
             "doc_count": 6,
-            "latest_date": "2026-09-29"
+            "latest_date": "2026-09-30"
           },
           {
             "source": "breakwave_insights",
-            "avg_tone_score": 0.54,
+            "avg_tone_score": 0.62,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-09-29"
+            "latest_date": "2026-10-05"
           },
           {
             "source": "breakwave",
@@ -197,28 +154,28 @@
         "topic_id": "vlcc_and_suezmax",
         "title": "VLCC and Suezmax",
         "severity": "watch",
-        "score_diff": 0.83,
+        "score_diff": 0.92,
         "source_scores": [
           {
             "source": "hellenic",
-            "avg_tone_score": -0.08,
+            "avg_tone_score": -0.17,
             "dominant_tone": "neutral",
             "doc_count": 6,
-            "latest_date": "2026-09-23"
+            "latest_date": "2026-09-30"
           },
           {
             "source": "baltic",
             "avg_tone_score": -0.04,
             "dominant_tone": "neutral",
             "doc_count": 6,
-            "latest_date": "2026-09-25"
+            "latest_date": "2026-10-02"
           },
           {
             "source": "breakwave_insights",
-            "avg_tone_score": 0.54,
+            "avg_tone_score": 0.75,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-09-29"
+            "latest_date": "2026-10-05"
           },
           {
             "source": "breakwave",

@@ -1,0 +1,202 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2004_07_16_a_romp_down_memory_lane_pacific_basin__root",
+  "doc_id": "poten_tankers_no_date_poten_2004_07_16_a_romp_down_memory_lane_pacific_basin",
+  "parent_id": null,
+  "title": "A Romp Down Memory Lane Pacific Basin",
+  "section_path": [
+    "A Romp Down Memory Lane Pacific Basin"
+  ],
+  "section_path_text": "A Romp Down Memory Lane Pacific Basin",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Pacific Basin\nIn our July 7, 2004 report, we looked at BP's Statistical Review of World Energy and reviewed demand in the Atlantic basin. This week we examine Pacific basin demand. China China, now Asia's largest importer and second only to the United States, is a major driver of tanker demand.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "atlantic",
+    "pacific",
+    "west_africa",
+    "europe",
+    "india",
+    "crude_oil",
+    "east",
+    "middle",
+    "exports",
+    "basin"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 457,
+  "source_path": "reports/poten/2004/poten_2004-07-16_a-romp-down-memory-lane-pacific-basin.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_07_16_a_romp_down_memory_lane_pacific_basin__s01_pacific_basin",
+      "doc_id": "poten_tankers_no_date_poten_2004_07_16_a_romp_down_memory_lane_pacific_basin",
+      "parent_id": "poten_tankers_no_date_poten_2004_07_16_a_romp_down_memory_lane_pacific_basin__root",
+      "title": "Pacific Basin",
+      "section_path": [
+        "Pacific Basin"
+      ],
+      "section_path_text": "Pacific Basin",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In our July 7, 2004 report, we looked at BP's Statistical Review of World Energy and reviewed demand in the Atlantic basin. This week we examine Pacific basin demand.",
+      "keywords": [
+        "china",
+        "atlantic",
+        "pacific",
+        "demand.",
+        "asia",
+        "basin",
+        "basin.",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 61,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_07_16_a_romp_down_memory_lane_pacific_basin__s02_india",
+      "doc_id": "poten_tankers_no_date_poten_2004_07_16_a_romp_down_memory_lane_pacific_basin",
+      "parent_id": "poten_tankers_no_date_poten_2004_07_16_a_romp_down_memory_lane_pacific_basin__root",
+      "title": "India",
+      "section_path": [
+        "India"
+      ],
+      "section_path_text": "India",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "While China has been desperately attempting to increase its domestic crude production with only marginal success, it is not the only driver in this market. As seen in its growing consumption rate below, India is gaining in importance, although its impact is not as significant as China's.",
+      "keywords": [
+        "china",
+        "india",
+        "its",
+        "not",
+        "only",
+        "although",
+        "attempting",
+        "below"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 53,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_07_16_a_romp_down_memory_lane_pacific_basin__s03_indonesia",
+      "doc_id": "poten_tankers_no_date_poten_2004_07_16_a_romp_down_memory_lane_pacific_basin",
+      "parent_id": "poten_tankers_no_date_poten_2004_07_16_a_romp_down_memory_lane_pacific_basin__root",
+      "title": "Indonesia",
+      "section_path": [
+        "Indonesia"
+      ],
+      "section_path_text": "Indonesia",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "India is barely able to maintain its domestic crude production. The not-so slow death of Indonesia as an oil exporter is worth noting.",
+      "keywords": [
+        "pacific",
+        "india",
+        "crude_oil",
+        "able",
+        "barely",
+        "basin",
+        "crude",
+        "death"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 41,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_07_16_a_romp_down_memory_lane_pacific_basin__s04_pacific_basin_gains",
+      "doc_id": "poten_tankers_no_date_poten_2004_07_16_a_romp_down_memory_lane_pacific_basin",
+      "parent_id": "poten_tankers_no_date_poten_2004_07_16_a_romp_down_memory_lane_pacific_basin__root",
+      "title": "Pacific Basin Gains",
+      "section_path": [
+        "Pacific Basin Gains"
+      ],
+      "section_path_text": "Pacific Basin Gains",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The following chart shows the expanding demand for imported oil for all the nations in the Pacific basin. Production gains are concentrated in Malaysia, Thailand, Vietnam and China.",
+      "keywords": [
+        "china",
+        "pacific",
+        "crude_oil",
+        "gain",
+        "production",
+        "all",
+        "are",
+        "basin."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 57,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_07_16_a_romp_down_memory_lane_pacific_basin__s05_pacific_basin",
+      "doc_id": "poten_tankers_no_date_poten_2004_07_16_a_romp_down_memory_lane_pacific_basin",
+      "parent_id": "poten_tankers_no_date_poten_2004_07_16_a_romp_down_memory_lane_pacific_basin__root",
+      "title": "Pacific Basin",
+      "section_path": [
+        "Pacific Basin"
+      ],
+      "section_path_text": "Pacific Basin",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "As impressive as import demand to Asia and North America has been, the decrease in import demand in Europe has been sufficient to stabilize Middle East exports at 1999 levels.",
+      "keywords": [
+        "europe",
+        "demand",
+        "import",
+        "america",
+        "asia",
+        "decrease",
+        "east",
+        "exports"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 34,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_07_16_a_romp_down_memory_lane_pacific_basin__s06_middle_east_crude_exports",
+      "doc_id": "poten_tankers_no_date_poten_2004_07_16_a_romp_down_memory_lane_pacific_basin",
+      "parent_id": "poten_tankers_no_date_poten_2004_07_16_a_romp_down_memory_lane_pacific_basin__root",
+      "title": "Middle East Crude Exports",
+      "section_path": [
+        "Middle East Crude Exports"
+      ],
+      "section_path_text": "Middle East Crude Exports",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "What of the Future for Middle East Exports? The future of Middle East exports is a netting exercise between growth in demand in the Atlantic and Pacific basins less increased production from non- Middle East sources such as Russia, the North Sea, the Caspian region, North and West Africa, and the U.S.",
+      "keywords": [
+        "vlcc",
+        "atlantic",
+        "pacific",
+        "west_africa",
+        "crude_oil",
+        "east",
+        "middle",
+        "exports"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 188,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

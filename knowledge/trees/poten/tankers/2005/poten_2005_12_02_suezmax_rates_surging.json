@@ -1,0 +1,202 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_12_02_suezmax_rates_surging__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_12_02_suezmax_rates_surging",
+  "parent_id": null,
+  "title": "Suezmax Rates Surging",
+  "section_path": [
+    "Suezmax Rates Surging"
+  ],
+  "section_path_text": "Suezmax Rates Surging",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Suezmax Rates Surging\nWith tanker rates across all sectors currently at levels well above long-term averages, it is impressive to note the rally in Suezmax rates over the past three months. Suezmax owners' earnings have surged by more than 350% on average worldwide since the beginning of September. Charterers are currently paying $3.92 per barrel (WS245), as opposed to $1.84 (WS115) in early September for a Suezmax cargo West Africa-U.S.",
+  "keywords": [
+    "suezmax",
+    "brazil",
+    "meg",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "crude",
+    "per",
+    "are",
+    "average",
+    "barrel",
+    "october"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 659,
+  "source_path": "reports/poten/2005/poten_2005-12-02_suezmax-rates-surging.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_12_02_suezmax_rates_surging__s01_suezmax_rates_surging",
+      "doc_id": "poten_tankers_no_date_poten_2005_12_02_suezmax_rates_surging",
+      "parent_id": "poten_tankers_no_date_poten_2005_12_02_suezmax_rates_surging__root",
+      "title": "Suezmax Rates Surging",
+      "section_path": [
+        "Suezmax Rates Surging"
+      ],
+      "section_path_text": "Suezmax Rates Surging",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "With tanker rates across all sectors currently at levels well above long-term averages, it is impressive to note the rally in Suezmax rates over the past three months. Suezmax owners' earnings have surged by more than 350% on average worldwide since the beginning of September.",
+      "keywords": [
+        "suezmax",
+        "west_africa",
+        "barrel",
+        "per",
+        "beginning",
+        "cargo",
+        "currently",
+        "september."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 133,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_12_02_suezmax_rates_surging__s02_north_sea",
+      "doc_id": "poten_tankers_no_date_poten_2005_12_02_suezmax_rates_surging",
+      "parent_id": "poten_tankers_no_date_poten_2005_12_02_suezmax_rates_surging__root",
+      "title": "North Sea",
+      "section_path": [
+        "North Sea"
+      ],
+      "section_path_text": "North Sea",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Africa Far East 05-Aug 19-Aug 02-Sep 16-Sep 30-Sep 14-Oct 28-Oct 11-Nov 25-Nov $0",
+      "keywords": [
+        "sep",
+        "aug",
+        "nov",
+        "oct",
+        "africa",
+        "average",
+        "east",
+        "far"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 36,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_12_02_suezmax_rates_surging__s03_why_the_surge",
+      "doc_id": "poten_tankers_no_date_poten_2005_12_02_suezmax_rates_surging",
+      "parent_id": "poten_tankers_no_date_poten_2005_12_02_suezmax_rates_surging__root",
+      "title": "Why the Surge?",
+      "section_path": [
+        "Why the Surge?"
+      ],
+      "section_path_text": "Why the Surge?",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Not surprisingly, one major reason is that delays at the Bosphorus have been steadily climbing and are now longer than they were this time last year. The delays started to increase at the end of October when fog closed the Bosphorus for three days.",
+      "keywords": [
+        "suezmax",
+        "delays",
+        "are",
+        "bosphorus",
+        "days",
+        "october",
+        "steadily",
+        "time"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 112,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_12_02_suezmax_rates_surging__s04_days_delay_bosphorus_transits",
+      "doc_id": "poten_tankers_no_date_poten_2005_12_02_suezmax_rates_surging",
+      "parent_id": "poten_tankers_no_date_poten_2005_12_02_suezmax_rates_surging__root",
+      "title": "Days Delay Bosphorus Transits",
+      "section_path": [
+        "Days Delay Bosphorus Transits"
+      ],
+      "section_path_text": "Days Delay Bosphorus Transits",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "At the same time that delays have been increasing, spot market November fixture volume has been increasing. UK/Continent spot fixtures of 30 in November were up from 23 in October, West Africa spot fixtures of 69 in November up from 61 in October, and the Arabian Gulf spot fixtures of 36 fixtures in November up from 30 in October, further straining available tonnage.",
+      "keywords": [
+        "suezmax",
+        "brazil",
+        "meg",
+        "west_africa",
+        "europe",
+        "per",
+        "fixtures",
+        "november"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 256,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_12_02_suezmax_rates_surging__s05_it_s_all_relative",
+      "doc_id": "poten_tankers_no_date_poten_2005_12_02_suezmax_rates_surging",
+      "parent_id": "poten_tankers_no_date_poten_2005_12_02_suezmax_rates_surging__root",
+      "title": "It's All Relative",
+      "section_path": [
+        "It's All Relative"
+      ],
+      "section_path_text": "It's All Relative",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "As shown below, the relatively high tanker rates as a percentage of the delivered cost of crude are only half of their peak from a year ago, thanks to higher crude prices and lower rates than a year ago.",
+      "keywords": [
+        "crude",
+        "year",
+        "ago",
+        "ago.",
+        "are",
+        "below",
+        "cost",
+        "delivered"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 42,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_12_02_suezmax_rates_surging__s06_crude_price_shipping_cost_as_of_crude_price",
+      "doc_id": "poten_tankers_no_date_poten_2005_12_02_suezmax_rates_surging",
+      "parent_id": "poten_tankers_no_date_poten_2005_12_02_suezmax_rates_surging__root",
+      "title": "Crude Price & Shipping Cost as % of Crude Price",
+      "section_path": [
+        "Crude Price & Shipping Cost as % of Crude Price"
+      ],
+      "section_path_text": "Crude Price & Shipping Cost as % of Crude Price",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "% of Crude Crude Oil Price Since the weather will remain a factor throughout the winter, crude oil demand will remain strong, and with deliveries coming slowly, expect the market to remain firm!",
+      "keywords": [
+        "crude_oil",
+        "crude",
+        "remain",
+        "oil",
+        "coming",
+        "deliveries",
+        "demand",
+        "expect"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 39,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

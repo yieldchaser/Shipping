@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2024_09_27_stepping_off_the_gas__root",
+  "doc_id": "poten_tankers_no_date_poten_2024_09_27_stepping_off_the_gas",
+  "parent_id": null,
+  "title": "Stepping Off The Gas",
+  "section_path": [
+    "Stepping Off The Gas"
+  ],
+  "section_path_text": "Stepping Off The Gas",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Atlantic gasoline market is changing? It will surprise nobody that the United States is the largest consumer of gasoline in the world. consumed on average 8.8 Mb/d of gasoline.",
+  "keywords": [
+    "china",
+    "brazil",
+    "atlantic",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "gas",
+    "u.s.",
+    "gasoline",
+    "are",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1001,
+  "source_path": "reports/poten/2024/poten_2024-09-27_stepping-off-the-gas.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2024_09_27_stepping_off_the_gas__s01_the_atlantic_gasoline_market_is_changing",
+      "doc_id": "poten_tankers_no_date_poten_2024_09_27_stepping_off_the_gas",
+      "parent_id": "poten_tankers_no_date_poten_2024_09_27_stepping_off_the_gas__root",
+      "title": "The Atlantic gasoline market is changing?",
+      "section_path": [
+        "The Atlantic gasoline market is changing?"
+      ],
+      "section_path_text": "The Atlantic gasoline market is changing?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "It will surprise nobody that the United States is the largest consumer of gasoline in the world. consumed on average 8.8 Mb/d of gasoline.",
+      "keywords": [
+        "china",
+        "brazil",
+        "atlantic",
+        "europe",
+        "india",
+        "crude_oil",
+        "products",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 994,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

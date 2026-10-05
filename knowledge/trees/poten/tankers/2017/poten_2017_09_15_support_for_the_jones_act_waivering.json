@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2017_09_15_support_for_the_jones_act_waivering__root",
+  "doc_id": "poten_tankers_no_date_poten_2017_09_15_support_for_the_jones_act_waivering",
+  "parent_id": null,
+  "title": "Support for the Jones Act Waivering",
+  "section_path": [
+    "Support for the Jones Act Waivering"
+  ],
+  "section_path_text": "Support for the Jones Act Waivering",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Jones Act temporary suspended in wake of major hurricanes\nOn September 13, Elaine Duke, the Department of Homeland Security's (DHS) Acting Secretary extended the limited Jones Act waiver for international flag tankers until September 22, 2017. The original waiver was issued on September 8, in advance of hurricane Irma making landfall in Florida. The waiver is 'limited' in the sense that it applies only to certain commodities - specifically, \"refined petroleum products, including gasoline, diesel and jet fuel.",
+  "keywords": [
+    "products",
+    "gas",
+    "act",
+    "jones",
+    "florida",
+    "product",
+    "petroleum",
+    "are",
+    "refined",
+    "waiver",
+    "was",
+    "after"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 758,
+  "source_path": "reports/poten/2017/poten_2017-09-15_support-for-the-jones-act-waivering.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2017_09_15_support_for_the_jones_act_waivering__s01_jones_act_temporary_suspended_in_wake_of_major_hurricanes",
+      "doc_id": "poten_tankers_no_date_poten_2017_09_15_support_for_the_jones_act_waivering",
+      "parent_id": "poten_tankers_no_date_poten_2017_09_15_support_for_the_jones_act_waivering__root",
+      "title": "Jones Act temporary suspended in wake of major hurricanes",
+      "section_path": [
+        "Jones Act temporary suspended in wake of major hurricanes"
+      ],
+      "section_path_text": "Jones Act temporary suspended in wake of major hurricanes",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "On September 13, Elaine Duke, the Department of Homeland Security's (DHS) Acting Secretary extended the limited Jones Act waiver for international flag tankers until September 22, 2017. The original waiver was issued on September 8, in advance of hurricane Irma making landfall in Florida.",
+      "keywords": [
+        "products",
+        "gas",
+        "act",
+        "jones",
+        "florida",
+        "product",
+        "petroleum",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 748,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

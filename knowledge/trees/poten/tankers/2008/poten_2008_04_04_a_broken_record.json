@@ -1,0 +1,141 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_04_04_a_broken_record__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_04_04_a_broken_record",
+  "parent_id": null,
+  "title": "A Broken Record",
+  "section_path": [
+    "A Broken Record"
+  ],
+  "section_path_text": "A Broken Record",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "A Broken Record\nst , also known as April Fool's Day, the United States House of Representatives' Select Committee on Energy Independence and Global Warming hosted executives from ExxonMobil, Shell, Chevron, ConocoPhillips, and BP. The goal was yet again to interrogate these big five integrated oil majors regarding the causes of gasoline prices that, as the graph below shows, have reached $3.29 per gallon (WTI crude has fluctuated between $100 and $110 for much of the last month). While this session did little to lower consumers' transportation costs, it did show that some lawmakers may be unfamiliar with the oil and gas business, especially via some of the suggested measures to lower voters' gasoline prices.",
+  "keywords": [
+    "crude_oil",
+    "products",
+    "gas",
+    "gasoline",
+    "crude",
+    "prices",
+    "energy",
+    "lower",
+    "per",
+    "oil",
+    "prices.",
+    "renewable"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 771,
+  "source_path": "reports/poten/2008/poten_2008-04-04_a-broken-record.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_04_04_a_broken_record__s01_a_broken_record",
+      "doc_id": "poten_tankers_no_date_poten_2008_04_04_a_broken_record",
+      "parent_id": "poten_tankers_no_date_poten_2008_04_04_a_broken_record__root",
+      "title": "A Broken Record",
+      "section_path": [
+        "A Broken Record"
+      ],
+      "section_path_text": "A Broken Record",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "st , also known as April Fool's Day, the United States House of Representatives' Select Committee on Energy Independence and Global Warming hosted executives from ExxonMobil, Shell, Chevron, ConocoPhillips, and BP. The goal was yet again to interrogate these big five integrated oil majors regarding the causes of gasoline prices that, as the graph below shows, have reached $3.29 per gallon (WTI crude has fluctuated between $100 and $110 for much of the last month).",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "did",
+        "gasoline",
+        "lower",
+        "oil",
+        "again"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 143,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_04_04_a_broken_record__s02_crude",
+      "doc_id": "poten_tankers_no_date_poten_2008_04_04_a_broken_record",
+      "parent_id": "poten_tankers_no_date_poten_2008_04_04_a_broken_record__root",
+      "title": "Crude",
+      "section_path": [
+        "Crude"
+      ],
+      "section_path_text": "Crude",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "products",
+        "gas",
+        "gasoline"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_04_04_a_broken_record__s03_start_with_the_facts",
+      "doc_id": "poten_tankers_no_date_poten_2008_04_04_a_broken_record",
+      "parent_id": "poten_tankers_no_date_poten_2008_04_04_a_broken_record__root",
+      "title": "Start with the Facts",
+      "section_path": [
+        "Start with the Facts"
+      ],
+      "section_path_text": "Start with the Facts",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "As the oil company executives (and several well informed Members of Congress) pointed out, the main cause for record high gasoline prices is record high crude prices: WTI crude prices have been consistently above $100 per barrel and have even reached $110 per barrel on occasion over the last month. In fact, the R-Squared correlation between gasoline prices and crude prices from Jan 2000 to the present has been 91%.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "gasoline",
+        "prices",
+        "energy",
+        "lower",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 432,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_04_04_a_broken_record__s04_is_there_a_solution",
+      "doc_id": "poten_tankers_no_date_poten_2008_04_04_a_broken_record",
+      "parent_id": "poten_tankers_no_date_poten_2008_04_04_a_broken_record__root",
+      "title": "Is There a Solution?",
+      "section_path": [
+        "Is There a Solution?"
+      ],
+      "section_path_text": "Is There a Solution?",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The US economy has been hurt by several recent developments. Like all other net importing countries, the US has seen a sudden rush of cash out of the economy thanks to higher crude prices.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "crude",
+        "per",
+        "pressure",
+        "prices",
+        "would"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 176,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_10_28_are_we_moving_towards_chaos__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_10_28_are_we_moving_towards_chaos",
+  "parent_id": null,
+  "title": "Are We Moving Towards Chaos?",
+  "section_path": [
+    "Are We Moving Towards Chaos?"
+  ],
+  "section_path_text": "Are We Moving Towards Chaos?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chaos is the inherent unpredictability of the behavior of a natural system. Volatility is therefore a measure of chaos. The following chart shows that the short-term swings between highs and lows for Aframax earnings are becoming more pronounced.",
+  "keywords": [
+    "panamax",
+    "handysize",
+    "aframax",
+    "singapore",
+    "crude_oil",
+    "standard",
+    "deviation",
+    "are",
+    "caribs",
+    "upcoast",
+    "cargo",
+    "risk"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 763,
+  "source_path": "reports/poten/2005/poten_2005-10-28_are-we-moving-towards-chaos.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_10_28_are_we_moving_towards_chaos__s01_are_we_moving_towards_chaos",
+      "doc_id": "poten_tankers_no_date_poten_2005_10_28_are_we_moving_towards_chaos",
+      "parent_id": "poten_tankers_no_date_poten_2005_10_28_are_we_moving_towards_chaos__root",
+      "title": "Are We Moving Towards Chaos?",
+      "section_path": [
+        "Are We Moving Towards Chaos?"
+      ],
+      "section_path_text": "Are We Moving Towards Chaos?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Chaos is the inherent unpredictability of the behavior of a natural system. Volatility is therefore a measure of chaos.",
+      "keywords": [
+        "aframax",
+        "chaos",
+        "are",
+        "becoming",
+        "behavior",
+        "between",
+        "chaos.",
+        "chart"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 49,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_10_28_are_we_moving_towards_chaos__s02_caribs_upcoast",
+      "doc_id": "poten_tankers_no_date_poten_2005_10_28_are_we_moving_towards_chaos",
+      "parent_id": "poten_tankers_no_date_poten_2005_10_28_are_we_moving_towards_chaos__root",
+      "title": "Caribs Upcoast",
+      "section_path": [
+        "Caribs Upcoast"
+      ],
+      "section_path_text": "Caribs Upcoast",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Intra-Med Singapore Far East The standard deviation is associated with the risk of price or rate changes and is a good measure of volatility. The higher the standard deviation, the greater the risk of an adverse price or rate change as price stability is low.",
+      "keywords": [
+        "aframax",
+        "singapore",
+        "risk",
+        "deviation",
+        "price",
+        "standard",
+        "associated",
+        "difficult"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 139,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_10_28_are_we_moving_towards_chaos__s03_caribs_upcoast",
+      "doc_id": "poten_tankers_no_date_poten_2005_10_28_are_we_moving_towards_chaos",
+      "parent_id": "poten_tankers_no_date_poten_2005_10_28_are_we_moving_towards_chaos__root",
+      "title": "Caribs Upcoast",
+      "section_path": [
+        "Caribs Upcoast"
+      ],
+      "section_path_text": "Caribs Upcoast",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Intra-Med Singapore Far East Plus or minus one standard deviation from a mean represents about 2/3 of the underlying data. In December 2004 when rates averaged about $65,000 per day and the standard deviation was about $30,000 per day, the chances of rates being between $35,000 and $95,000 per day was only 67%.",
+      "keywords": [
+        "panamax",
+        "handysize",
+        "aframax",
+        "singapore",
+        "day",
+        "deviation",
+        "per",
+        "standard"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 129,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_10_28_are_we_moving_towards_chaos__s04_running_standard_deviation_of_tanker_tce_earnings",
+      "doc_id": "poten_tankers_no_date_poten_2005_10_28_are_we_moving_towards_chaos",
+      "parent_id": "poten_tankers_no_date_poten_2005_10_28_are_we_moving_towards_chaos__root",
+      "title": "Running Standard Deviation of Tanker TCE Earnings",
+      "section_path": [
+        "Running Standard Deviation of Tanker TCE Earnings"
+      ],
+      "section_path_text": "Running Standard Deviation of Tanker TCE Earnings",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "While the standard deviation for Panamaxes trading Caribs upcoast accompanied the increasing volatility with Aframaxes during the first two cycles, volatility has remained essentially unchanged during the last cycle. For Handymaxes trading Caribs upcoast, the trend is up, but far more subdued than that for Panamaxes and Aframaxes.",
+      "keywords": [
+        "panamax",
+        "handysize",
+        "aframax",
+        "crude_oil",
+        "cargo",
+        "caribs",
+        "upcoast",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 270,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_10_28_are_we_moving_towards_chaos__s05_cargo_tons",
+      "doc_id": "poten_tankers_no_date_poten_2005_10_28_are_we_moving_towards_chaos",
+      "parent_id": "poten_tankers_no_date_poten_2005_10_28_are_we_moving_towards_chaos__root",
+      "title": "Cargo Tons",
+      "section_path": [
+        "Cargo Tons"
+      ],
+      "section_path_text": "Cargo Tons",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Stand Dev So What Does This Mean? Under these circumstances of a thinner market, less spare capacity to handle variations in oil demand, and the weather, owners and charterers have a greater challenge in deciding what position to take.",
+      "keywords": [
+        "crude_oil",
+        "charterers",
+        "owners",
+        "what",
+        "cost",
+        "should",
+        "stabilize",
+        "activity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 142,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

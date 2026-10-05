@@ -9,262 +9,185 @@ document_type: shipbuilding_update
 is_error_page: false
 key_entities:
 - China
-- Pacific basin
 keywords:
 - lng
 - lpg
 - china
-- pacific
 - europe
 - india
 - crude_oil
 - gas
-- any
-- information
-- clarksons
 - platou
+- any
+- clarksons
+- its
+- information
 linked_assets_discovered: 1
 linked_assets_failed: 0
 linked_assets_ingested: 1
 linked_assets_mirrored: 1
 linked_assets_skipped: 0
 market_tone: constructive
-numeric_observation_count: 40
+numeric_observation_count: 16
 numeric_observations:
-- section: Main
+- &id001
+  section: Main
   section_type: null
   source_line: NEW BUILDING:Ιn dry bulk this week, Beihai announced signing two firm
     210k dwt Newcastlemax with Zheijiang Xiehai Shipping,
   unit: null
   values:
   - 210.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
+- &id002
+  section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
   section_type: linked_pdf
-  source_line: Hellas S&P Weekly Bulletin 20 August 2021
+  source_line: '## Hellas S&P Weekly Bulletin 20 August 2021 BULK CARRIERS'
   unit: null
   values:
   - 20.0
   - 2021.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
+- &id003
+  section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
   section_type: linked_pdf
-  source_line: SS 03/23
-  unit: null
-  values:
-  - 3.0
-  - 23.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-  section_type: linked_pdf
-  source_line: PRISCILLA VENTURE 77,283 2008 OSHIMA MAN-B&W 5S60MC-C7.1 LOW USD 18
-    M CHINESE
+  source_line: '|PRISCILLA VENTURE|77,283|2008 OSHIMA|MAN-B&W 5S60MC-C7.1|SS 03/233
+    DD 03/2|LOW USD 18 M|CHINESE|'
   unit: usd
   values:
   - 77283.0
   - 2008.0
   - 5.0
   - 60.0
-  - 7100.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-  section_type: linked_pdf
-  source_line: DD 03/23
-  unit: null
-  values:
+  - 7.1
   - 3.0
-  - 23.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
+  - 233.0
+  - 3.0
+  - 2.0
+- &id004
+  section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
   section_type: linked_pdf
-  source_line: MAN-B&W 5G60ME-C9.2
-  unit: null
-  values:
-  - 5.0
-  - 60.0
-  - 9200.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-  section_type: linked_pdf
-  source_line: SS 04/24
-  unit: null
-  values:
-  - 4.0
-  - 24.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-  section_type: linked_pdf
-  source_line: ASIA RUBY II 62,996 2014 CSC JINLING 4 x 36 T V. HIGH USD 24 M U/D
+  source_line: '|ASIA RUBY II|62,996|2014 CSC JINLING|MAN-B&W 5G60ME-C9.2 4 x 36 T
+    BWTS fitted|SS 04/242 DD 04/2|V. HIGH USD 24 M|U/D|'
   unit: usd
   values:
   - 62996.0
   - 2014.0
+  - 5.0
+  - 60.0
+  - 9.2
   - 4.0
   - 36.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-  section_type: linked_pdf
-  source_line: DD 04/22
-  unit: null
-  values:
   - 4.0
-  - 22.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
+  - 242.0
+  - 4.0
+- &id005
+  section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
   section_type: linked_pdf
-  source_line: SS 07/24
-  unit: null
-  values:
-  - 7.0
-  - 24.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-  section_type: linked_pdf
-  source_line: ASIA RUBY IV 62,982 2014 CSC JINLING 4 x 36 T USD 24.5 M U/D
+  source_line: '|ASIA RUBY IV|62,982|2014 CSC JINLING|MAN-B&W 5G60ME-C9.2 4 x 36 T
+    BWTS fitted|SS 07/242 DD 08/2|USD 24.5 M|U/D|'
   unit: usd
   values:
   - 62982.0
   - 2014.0
+  - 5.0
+  - 60.0
+  - 9.2
   - 4.0
   - 36.0
-  - 24500.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-  section_type: linked_pdf
-  source_line: DD 08/22
-  unit: null
-  values:
+  - 7.0
+  - 242.0
   - 8.0
-  - 22.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
+- &id006
+  section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
   section_type: linked_pdf
-  source_line: MAN-B&W 6S46ME-B8.3
-  unit: null
-  values:
-  - 6.0
-  - 46.0
-  - 8300.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-  section_type: linked_pdf
-  source_line: SS 04/24 HK BASED
-  unit: null
-  values:
-  - 4.0
-  - 24.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-  section_type: linked_pdf
-  source_line: NEREUS ISLAND 37,920 2014 IMABARI 4 X 30 T RGN USD 21 M
+  source_line: '|NEREUS ISLAND|37,920|2014 IMABARI|MAN-B&W 6S46ME-B8.3 4 X 30 T BWTS
+    fitted|SS 04/242 DD 03/2|RGN USD 21 M|HK BASED (c/o Pac ific Basin)|'
   unit: usd
   values:
   - 37920.0
   - 2014.0
+  - 6.0
+  - 46.0
+  - 8.3
   - 4.0
   - 30.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-  section_type: linked_pdf
-  source_line: DD 03/22 (c/o Pacific Basin)
-  unit: null
-  values:
+  - 4.0
+  - 242.0
   - 3.0
-  - 22.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
+- &id007
+  section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
   section_type: linked_pdf
-  source_line: MAN-B&W 6S42MC
-  unit: null
-  values:
-  - 6.0
-  - 42.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-  section_type: linked_pdf
-  source_line: SS 07/22 HK BASED
-  unit: null
-  values:
-  - 7.0
-  - 22.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-  section_type: linked_pdf
-  source_line: GLORIOUS SAIKI 37,154 2012 SAIKI 4 x 30 T RGN USD 17 M
+  source_line: '|GLORIOUS SAIKI|37,154|2012 SAIKI|MAN-B&W 6S42MC 4 x 30 T BWTS fitted|SS
+    07/22 DD 07/22|RGN USD 17 M|HK BA SED (c/o Tayl or Maritime )|'
   unit: usd
   values:
   - 37154.0
   - 2012.0
+  - 6.0
+  - 42.0
   - 4.0
   - 30.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-  section_type: linked_pdf
-  source_line: DD 07/22 (c/o Taylor Maritime)
-  unit: null
-  values:
   - 7.0
   - 22.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-  section_type: linked_pdf
-  source_line: Page 1 of 3
-  unit: null
-  values:
-  - 1.0
-  - 3.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
+  - 7.0
+  - 22.0
+- &id008
+  section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
   section_type: linked_pdf
   source_line: In dry bulk this week, Beihai announced signing two firm 210k dwt Newcastlemax
-    with Zheijiang Xiehai Shipping, with
+    with Zheijiang Xiehai Shipping, with delivery of both vessels expected within
+    2023. It is being reported that Taizhou Jiahang Shipping ordered two firm 85k
+    Kamsarmax at Tianjin Xing
   unit: null
   values:
   - 210.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-  section_type: linked_pdf
-  source_line: delivery of both vessels expected within 2023. It is being reported
-    that Taizhou Jiahang Shipping ordered two firm 85k
-  unit: null
-  values:
   - 2023.0
   - 85.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-  section_type: linked_pdf
-  source_line: Kamsarmax at Tianjin Xingang Shipyard, with delivery of both vessels
-    expected within 1Q 2023.
-  unit: null
-  values:
   - 1.0
   - 2023.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-  section_type: linked_pdf
-  source_line: In the car carrier market, SFL Corporation announced orders for two
-    further LNG dual-fuel 7,000 CEU PCC's at GSI Nansha. The
-  unit: null
-  values:
   - 7000.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-  section_type: linked_pdf
-  source_line: vessels bring the series to four overall, with delivery expected in
-    1Q and 2Q 2024.
-  unit: null
-  values:
   - 1.0
   - 2.0
   - 2024.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
+- &id009
+  section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
   section_type: linked_pdf
-  source_line: moment, whilst supply remains limited, any slight negative correction
-    should recover soon keeping recycling prices at the current 10-
+  source_line: With a slight correction from Bangladesh and Pakistan this week, activity
+    across the board seemed to slow once again after the recent flurry of late Summer
+    sales. The momentum that was gained appeared to lose its grasp this week as there
+    was some talk that sev
   unit: null
   values:
   - 10.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
+- &id010
+  section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
   section_type: linked_pdf
-  source_line: ANGEL 18
+  source_line: '## ANGEL 18'
   unit: null
   values:
   - 18.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
+- &id011
+  section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
   section_type: linked_pdf
-  source_line: 11,629 1998 3,228 LDT USD 875 / LDT INDIA
+  source_line: 11,629 1998 3,228 LDT USD 875 / LDT INDIA **(Chemical tanker)**
   unit: usd
   values:
   - 11629.0
   - 1998.0
   - 3228.0
   - 875.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
+- &id012
+  section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
   section_type: linked_pdf
-  source_line: BDI 4092 + 116 EURO/USD 1.16835 BUNKERS ROTTERDAM SPORE FUJAIRAH
+  source_line: '|BDI|4092|+ 116|EURO/USD|1.16835|BUNKERS|ROTTERDAM|SPORE|FUJAIRAH|'
   unit: usd
   values:
   - 4092.0
   - 116.0
   - 1.16835
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
+- &id013
+  section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
   section_type: linked_pdf
-  source_line: BCI 5997 + 286 YEN/USD 0.00910 VLSFO 475.00 505.00 496.50
+  source_line: '|BCI|5997|+ 286|YEN/USD|0.00910|VLSFO|475.00|505.00|496.50|'
   unit: usd
   values:
   - 5997.0
@@ -272,9 +195,10 @@ numeric_observations:
   - 475.0
   - 505.0
   - 496.5
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
+- &id014
+  section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
   section_type: linked_pdf
-  source_line: BPI 3785 + 31 BRENT MGO 527.50 532.50 622.50
+  source_line: '|BPI|3785|+ 31|BRENT||MGO|527.50|532.50|622.50|'
   unit: null
   values:
   - 3785.0
@@ -282,412 +206,67 @@ numeric_observations:
   - 527.5
   - 532.5
   - 622.5
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
+- &id015
+  section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
   section_type: linked_pdf
-  source_line: BSI 3276 + 39 66.275 IFO 380 386.50 394.50 402.50
+  source_line: '|BSI BHSI|3276 1878|+ 39 + 7|66.275||IFO 380|386.50|394.50|402.50|'
   unit: null
   values:
   - 3276.0
+  - 1878.0
   - 39.0
+  - 7.0
   - 66275.0
   - 380.0
   - 386.5
   - 394.5
   - 402.5
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
+- &id016
+  section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
   section_type: linked_pdf
-  source_line: BHSI 1878 + 7
-  unit: null
-  values:
-  - 1878.0
-  - 7.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-  section_type: linked_pdf
-  source_line: Page 2 of 3
-  unit: null
-  values:
-  - 2.0
-  - 3.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-  section_type: linked_pdf
-  source_line: '62 Kifissias Avenue ("Clarksons Platou") for general information purposes.
-    The Information is drawn from Clarksons Platou''s database and other sources.
-    Clarksons Platou advises that: (i) any Information extracted from Clarksons Platou''s
-    database is'
+  source_line: '|Clarksons Platou (Hellas) Ltd. 62 Kifissias Avenue Marousi 151 25
+    Greece Direct +(30) 210 458 6700 Fax +(30) 210 458 6799 snp@clarksons.gr www.clarksons.com||Thematerialand
+    theinformation (including, without limitation, any futurerates) contained herein
+    (toge'
   unit: null
   values:
   - 62.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-  section_type: linked_pdf
-  source_line: 151 25 Clarksons Platou has taken reasonable care in the compilation
-    of the Information and believes it to be accurate and correct, data compilation
-    is subject to limited audit and validation procedures and may accordingly contain
-    errors; (iv)
-  unit: null
-  values:
   - 151.0
   - 25.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-  section_type: linked_pdf
-  source_line: Direct +(30) 210 458 6700
-  unit: null
-  values:
   - 30.0
   - 210.0
   - 458.0
   - 6700.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-  section_type: linked_pdf
-  source_line: Fax +(30) 210 458 6799 This Information is confidential and is solely
-    for the internal use of the recipient. Neither the whole nor any part of the Information
-    may be disclosed to, or used or relied upon by, any other person or used for any
-    other purpose withou
-  unit: null
-  values:
   - 30.0
   - 210.0
   - 458.0
-  - 6799.0
-- section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-  section_type: linked_pdf
-  source_line: Page 3 of 3
-  unit: null
-  values:
-  - 3.0
-  - 3.0
 regions:
 - china
 - japan
 - europe
-- pacific
 - india
 section_count: 2
 signals:
-  numeric_observation_count: 40
+  numeric_observation_count: 16
   numeric_observations:
-  - section: Main
-    section_type: null
-    source_line: NEW BUILDING:Ιn dry bulk this week, Beihai announced signing two
-      firm 210k dwt Newcastlemax with Zheijiang Xiehai Shipping,
-    unit: null
-    values:
-    - 210.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: Hellas S&P Weekly Bulletin 20 August 2021
-    unit: null
-    values:
-    - 20.0
-    - 2021.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: SS 03/23
-    unit: null
-    values:
-    - 3.0
-    - 23.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: PRISCILLA VENTURE 77,283 2008 OSHIMA MAN-B&W 5S60MC-C7.1 LOW USD
-      18 M CHINESE
-    unit: usd
-    values:
-    - 77283.0
-    - 2008.0
-    - 5.0
-    - 1.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: DD 03/23
-    unit: null
-    values:
-    - 3.0
-    - 23.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: MAN-B&W 5G60ME-C9.2
-    unit: null
-    values:
-    - 5.0
-    - 2.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: SS 04/24
-    unit: null
-    values:
-    - 4.0
-    - 24.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: ASIA RUBY II 62,996 2014 CSC JINLING 4 x 36 T V. HIGH USD 24 M U/D
-    unit: usd
-    values:
-    - 62996.0
-    - 2014.0
-    - 4.0
-    - 36.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: DD 04/22
-    unit: null
-    values:
-    - 4.0
-    - 22.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: SS 07/24
-    unit: null
-    values:
-    - 7.0
-    - 24.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: ASIA RUBY IV 62,982 2014 CSC JINLING 4 x 36 T USD 24.5 M U/D
-    unit: usd
-    values:
-    - 62982.0
-    - 2014.0
-    - 4.0
-    - 36.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: DD 08/22
-    unit: null
-    values:
-    - 8.0
-    - 22.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: MAN-B&W 6S46ME-B8.3
-    unit: null
-    values:
-    - 6.0
-    - 6.0
-    - 3.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: SS 04/24 HK BASED
-    unit: null
-    values:
-    - 4.0
-    - 24.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: NEREUS ISLAND 37,920 2014 IMABARI 4 X 30 T RGN USD 21 M
-    unit: usd
-    values:
-    - 37920.0
-    - 2014.0
-    - 4.0
-    - 30.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: DD 03/22 (c/o Pacific Basin)
-    unit: null
-    values:
-    - 3.0
-    - 22.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: MAN-B&W 6S42MC
-    unit: null
-    values:
-    - 6.0
-    - 2.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: SS 07/22 HK BASED
-    unit: null
-    values:
-    - 7.0
-    - 22.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: GLORIOUS SAIKI 37,154 2012 SAIKI 4 x 30 T RGN USD 17 M
-    unit: usd
-    values:
-    - 37154.0
-    - 2012.0
-    - 4.0
-    - 30.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: DD 07/22 (c/o Taylor Maritime)
-    unit: null
-    values:
-    - 7.0
-    - 22.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: Page 1 of 3
-    unit: null
-    values:
-    - 1.0
-    - 3.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: In dry bulk this week, Beihai announced signing two firm 210k dwt
-      Newcastlemax with Zheijiang Xiehai Shipping, with
-    unit: null
-    values:
-    - 210.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: delivery of both vessels expected within 2023. It is being reported
-      that Taizhou Jiahang Shipping ordered two firm 85k
-    unit: null
-    values:
-    - 2023.0
-    - 85.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: Kamsarmax at Tianjin Xingang Shipyard, with delivery of both vessels
-      expected within 1Q 2023.
-    unit: null
-    values:
-    - 1.0
-    - 2023.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: In the car carrier market, SFL Corporation announced orders for two
-      further LNG dual-fuel 7,000 CEU PCC's at GSI Nansha. The
-    unit: null
-    values:
-    - 7000.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: vessels bring the series to four overall, with delivery expected
-      in 1Q and 2Q 2024.
-    unit: null
-    values:
-    - 1.0
-    - 2.0
-    - 2024.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: moment, whilst supply remains limited, any slight negative correction
-      should recover soon keeping recycling prices at the current 10-
-    unit: null
-    values:
-    - 10.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: ANGEL 18
-    unit: null
-    values:
-    - 18.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: 11,629 1998 3,228 LDT USD 875 / LDT INDIA
-    unit: usd
-    values:
-    - 11629.0
-    - 1998.0
-    - 3228.0
-    - 875.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: BDI 4092 + 116 EURO/USD 1.16835 BUNKERS ROTTERDAM SPORE FUJAIRAH
-    unit: usd
-    values:
-    - 4092.0
-    - 116.0
-    - 1.16835
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: BCI 5997 + 286 YEN/USD 0.00910 VLSFO 475.00 505.00 496.50
-    unit: usd
-    values:
-    - 5997.0
-    - 286.0
-    - 475.0
-    - 505.0
-    - 496.5
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: BPI 3785 + 31 BRENT MGO 527.50 532.50 622.50
-    unit: null
-    values:
-    - 3785.0
-    - 31.0
-    - 527.5
-    - 532.5
-    - 622.5
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: BSI 3276 + 39 66.275 IFO 380 386.50 394.50 402.50
-    unit: null
-    values:
-    - 3276.0
-    - 39.0
-    - 66.275
-    - 380.0
-    - 386.5
-    - 394.5
-    - 402.5
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: BHSI 1878 + 7
-    unit: null
-    values:
-    - 1878.0
-    - 7.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: Page 2 of 3
-    unit: null
-    values:
-    - 2.0
-    - 3.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: '62 Kifissias Avenue ("Clarksons Platou") for general information
-      purposes. The Information is drawn from Clarksons Platou''s database and other
-      sources. Clarksons Platou advises that: (i) any Information extracted from Clarksons
-      Platou''s database is'
-    unit: null
-    values:
-    - 62.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: 151 25 Clarksons Platou has taken reasonable care in the compilation
-      of the Information and believes it to be accurate and correct, data compilation
-      is subject to limited audit and validation procedures and may accordingly contain
-      errors; (iv)
-    unit: null
-    values:
-    - 151.0
-    - 25.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: Direct +(30) 210 458 6700
-    unit: null
-    values:
-    - 30.0
-    - 210.0
-    - 458.0
-    - 6700.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: Fax +(30) 210 458 6799 This Information is confidential and is solely
-      for the internal use of the recipient. Neither the whole nor any part of the
-      Information may be disclosed to, or used or relied upon by, any other person
-      or used for any other purpose withou
-    unit: null
-    values:
-    - 30.0
-    - 210.0
-    - 458.0
-    - 6799.0
-  - section: 'Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf'
-    section_type: linked_pdf
-    source_line: Page 3 of 3
-    unit: null
-    values:
-    - 3.0
-    - 3.0
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - *id010
+  - *id011
+  - *id012
+  - *id013
+  - *id014
+  - *id015
+  - *id016
 source: hellenic
-source_path: corpus/02-hellenic/shipbuilding/2021/2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114.html
+source_path: reports/hellenic/shipbuilding/2021/2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114.html
 source_stem: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114
 source_url: https://www.hellenicshippingnews.com/clarkson-platou-hellas-sp-weekly-bulletin-114
 summary: 'Main
@@ -700,75 +279,43 @@ summary: 'Main
 
   Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf
 
-  Source asset: reports/hellenic/shipbuilding/pdfs/2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf
+  Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf
 
 
-  [Page 1]
+  # Sale and Purchase
 
-  Sale and Purchase
 
-  Hellas S&P Weekly Bulletin 20 August 2021
+  ## Hellas S&P Weekly Bulletin 20 August 2021 BULK CARRIERS
 
-  BULK CARRIERS
 
-  VESSEL DWT BLT DETAILS SS/DD PRICE BUYER
+  |VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|
 
-  SS 03/23
+  |---|---|---|---|---|---|---|
 
-  PRISCILLA VENTURE 77,283 2008 OSHIMA MAN-B&W 5S60MC-C7.1 LOW USD 18 M CHINESE
+  |PRISCILLA VENTURE|77,283|2008 OSHIMA|MAN-B&W 5S60MC-C7.1|SS 03/233 DD 03/2|LOW
+  USD 18 M|CHINESE|
 
-  DD 03/23
+  |ASIA RUBY II|62,996|2014 CSC JINLING|MAN-B&W 5G60ME-C9.2 4 x 36 T BWTS fitted|SS
+  04/242 DD 04/2|V. HIGH USD 24 M|U/D|
 
-  MAN-B&W 5G60ME-C9.2
+  |ASIA RUBY IV|62,982|2014 CSC JINLING|MAN-B&W 5G60ME-C9.2 4 x 36 T BWTS fitted|SS
+  07/242 DD 08/2|USD 24.5 M|U/D|
 
-  SS 04/24
+  |NEREUS ISLAND|37,920|2014 IMABARI|MAN-B&W 6S46ME-B8.3 4 X 30 T BWTS fitted|SS 04/242
+  DD 03/2|RGN USD 21 M|HK BASED (c/o Pac ific Basin)|
 
-  ASIA RUBY II 62,996 2014 CSC JINLING 4 x 36 T V. HIGH USD 24 M U/D
+  |GLORIOUS SAIKI|37,154|2012 SAIKI|MAN-B&W 6S42MC 4 x 30 T BWTS fitted|SS 07/22 DD
+  07/22|RGN USD 17 M|HK BA SED (c/o Tayl or Maritime )|
 
-  DD 04/22
 
-  BWTS fitted
-
-  MAN-B&W 5G60ME-C9.2
-
-  SS 07/24
-
-  ASIA RUBY IV 62,982 2014 CSC JINLING 4 x 36 T USD 24.5 M U/D
-
-  DD 08/22
-
-  BWTS fitted
-
-  MAN-B&W 6S46ME-B8.3
-
-  SS 04/24 HK BASED
-
-  NEREUS ISLAND 37,920 2014 IMABARI 4 X 30 T RGN USD 21 M
-
-  DD 03/22 (c/o Pacific Basin)
-
-  BWTS fitted
-
-  MAN-B&W 6S42MC
-
-  SS 07/22 HK BASED
-
-  GLORIOUS SAIKI 37,154 2012 SAIKI 4 x 30 T RGN USD 17 M
-
-  DD 07/22 (c/o Taylor Maritime)
-
-  BWTS fitted
-
-  TANKERS - CHEMICALS - LPG/LNGs
-
-  VESSEL DWT BLT DETAILS SS/DD PRICE BUYER'
+  ## <u>TANKERS - CHEMICAL'
 themes:
 - lng
 - lpg
 - china
-- pacific
 - europe
 - india
+- crude_oil
 title: CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN
 vessel_classes:
 - capesize
@@ -789,38 +336,21 @@ NEW BUILDING:Ιn dry bulk this week, Beihai announced signing two firm 210k dwt 
 Source: Clarkson Platou (Hellas) ltd
 
 Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf
-Source asset: reports/hellenic/shipbuilding/pdfs/2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf
+Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf
 
-[Page 1]
-Sale and Purchase
-Hellas S&P Weekly Bulletin 20 August 2021
-BULK CARRIERS
-VESSEL DWT BLT DETAILS SS/DD PRICE BUYER
-SS 03/23
-PRISCILLA VENTURE 77,283 2008 OSHIMA MAN-B&W 5S60MC-C7.1 LOW USD 18 M CHINESE
-DD 03/23
-MAN-B&W 5G60ME-C9.2
-SS 04/24
-ASIA RUBY II 62,996 2014 CSC JINLING 4 x 36 T V. HIGH USD 24 M U/D
-DD 04/22
-BWTS fitted
-MAN-B&W 5G60ME-C9.2
-SS 07/24
-ASIA RUBY IV 62,982 2014 CSC JINLING 4 x 36 T USD 24.5 M U/D
-DD 08/22
-BWTS fitted
-MAN-B&W 6S46ME-B8.3
-SS 04/24 HK BASED
-NEREUS ISLAND 37,920 2014 IMABARI 4 X 30 T RGN USD 21 M
-DD 03/22 (c/o Pacific Basin)
-BWTS fitted
-MAN-B&W 6S42MC
-SS 07/22 HK BASED
-GLORIOUS SAIKI 37,154 2012 SAIKI 4 x 30 T RGN USD 17 M
-DD 07/22 (c/o Taylor Maritime)
-BWTS fitted
-TANKERS - CHEMICALS - LPG/LNGs
-VESSEL DWT BLT DETAILS SS/DD PRICE BUYER
+# Sale and Purchase
+
+## Hellas S&P Weekly Bulletin 20 August 2021 BULK CARRIERS
+
+|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|
+|---|---|---|---|---|---|---|
+|PRISCILLA VENTURE|77,283|2008 OSHIMA|MAN-B&W 5S60MC-C7.1|SS 03/233 DD 03/2|LOW USD 18 M|CHINESE|
+|ASIA RUBY II|62,996|2014 CSC JINLING|MAN-B&W 5G60ME-C9.2 4 x 36 T BWTS fitted|SS 04/242 DD 04/2|V. HIGH USD 24 M|U/D|
+|ASIA RUBY IV|62,982|2014 CSC JINLING|MAN-B&W 5G60ME-C9.2 4 x 36 T BWTS fitted|SS 07/242 DD 08/2|USD 24.5 M|U/D|
+|NEREUS ISLAND|37,920|2014 IMABARI|MAN-B&W 6S46ME-B8.3 4 X 30 T BWTS fitted|SS 04/242 DD 03/2|RGN USD 21 M|HK BASED (c/o Pac ific Basin)|
+|GLORIOUS SAIKI|37,154|2012 SAIKI|MAN-B&W 6S42MC 4 x 30 T BWTS fitted|SS 07/22 DD 07/22|RGN USD 17 M|HK BA SED (c/o Tayl or Maritime )|
+
+## <u>TANKERS - CHEMICAL
 
 ## Main
 NEW BUILDING:Ιn dry bulk this week, Beihai announced signing two firm 210k dwt Newcastlemax with Zheijiang Xiehai Shipping,
@@ -829,100 +359,55 @@ Source: Clarkson Platou (Hellas) ltd
 ## Linked asset: 2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf
 Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf
 
-[Page 1]
-Sale and Purchase
-Hellas S&P Weekly Bulletin 20 August 2021
-BULK CARRIERS
-VESSEL DWT BLT DETAILS SS/DD PRICE BUYER
-SS 03/23
-PRISCILLA VENTURE 77,283 2008 OSHIMA MAN-B&W 5S60MC-C7.1 LOW USD 18 M CHINESE
-DD 03/23
-MAN-B&W 5G60ME-C9.2
-SS 04/24
-ASIA RUBY II 62,996 2014 CSC JINLING 4 x 36 T V. HIGH USD 24 M U/D
-DD 04/22
-BWTS fitted
-MAN-B&W 5G60ME-C9.2
-SS 07/24
-ASIA RUBY IV 62,982 2014 CSC JINLING 4 x 36 T USD 24.5 M U/D
-DD 08/22
-BWTS fitted
-MAN-B&W 6S46ME-B8.3
-SS 04/24 HK BASED
-NEREUS ISLAND 37,920 2014 IMABARI 4 X 30 T RGN USD 21 M
-DD 03/22 (c/o Pacific Basin)
-BWTS fitted
-MAN-B&W 6S42MC
-SS 07/22 HK BASED
-GLORIOUS SAIKI 37,154 2012 SAIKI 4 x 30 T RGN USD 17 M
-DD 07/22 (c/o Taylor Maritime)
-BWTS fitted
-TANKERS - CHEMICALS - LPG/LNGs
-VESSEL DWT BLT DETAILS SS/DD PRICE BUYER
-- - - - - - -
-Page 1 of 3
+# Sale and Purchase
 
-[Page 2]
-1
-Sale and Purchase
-Hellas S&P Weekly Bulletin 20 August 2021
-NEW BUILDING
-In dry bulk this week, Beihai announced signing two firm 210k dwt Newcastlemax with Zheijiang Xiehai Shipping, with
-delivery of both vessels expected within 2023. It is being reported that Taizhou Jiahang Shipping ordered two firm 85k
-Kamsarmax at Tianjin Xingang Shipyard, with delivery of both vessels expected within 1Q 2023.
-In the car carrier market, SFL Corporation announced orders for two further LNG dual-fuel 7,000 CEU PCC's at GSI Nansha. The
-vessels bring the series to four overall, with delivery expected in 1Q and 2Q 2024.
-RECYCLING
-Precariously Poised!
-With a slight correction from Bangladesh and Pakistan this week, activity across the board seemed to slow once again
-after the recent flurry of late Summer sales. The momentum that was gained appeared to lose its grasp this week as there
-was some talk that several owners who were looking to sell their units decided to temporise for the time being. The Indian
-recyclers may now be in a position to step in as levels return to an area where the Alang recyclers can once again
-compete for the conventional tonnage, not just those units that require HKC recycling.
-Any available unit will no doubt arrive from the beleaguered tanker sector where any recovery hangs in the balance after Coronavirus
-flare ups in China disrupt its economic recovery and ultimately affecting the demand for Oil. If the recovery is slowed, then the promise
-of wet units on a large scale may finally arrive and appease the appetite for some of the Indian sub continental breakers. But for the
-moment, whilst supply remains limited, any slight negative correction should recover soon keeping recycling prices at the current 10-
-year high, allowing Owners to continue to reap the benefits.
-DEMOLITION
-BULK CARRIERS - GCs - MPPs
-VESSEL DWT BLT DETAILS PRICE DELIVERY
-- - - - - -
-TANKERS - CHEMICALS - LPGs
-VESSEL DWT BLT DETAILS PRICE DELIVERY
-ANGEL 18
-11,629 1998 3,228 LDT USD 875 / LDT INDIA
-(Chemical tanker)
-BALTIC INDEX EXCHANGE RATE BUNKER PRICES
-BDI 4092 + 116 EURO/USD 1.16835 BUNKERS ROTTERDAM SPORE FUJAIRAH
-BCI 5997 + 286 YEN/USD 0.00910 VLSFO 475.00 505.00 496.50
-BPI 3785 + 31 BRENT MGO 527.50 532.50 622.50
-BSI 3276 + 39 66.275 IFO 380 386.50 394.50 402.50
-BHSI 1878 + 7
-Page 2 of 3
+## Hellas S&P Weekly Bulletin 20 August 2021 BULK CARRIERS
 
-[Page 3]
-1
-Sale and Purchase
-Hellas S&P Weekly Bulletin 20 August 2021
-Contacts
-Clarksons Platou (Hellas) Ltd. The material and the information (including, without limitation, any future rates) contained herein (together, the "Information") are provided by H. Clarkson & Co. Ltd
-62 Kifissias Avenue ("Clarksons Platou") for general information purposes. The Information is drawn from Clarksons Platou's database and other sources. Clarksons Platou advises that: (i) any Information extracted from Clarksons Platou's database is
-Marousi derived from estimates or subjective judgments; (ii) any Information extracted from the databases of other maritime data collection agencies may differ from the Information extracted from Clarksons Platous' database; (iii ) whilst
-151 25 Clarksons Platou has taken reasonable care in the compilation of the Information and believes it to be accurate and correct, data compilation is subject to limited audit and validation procedures and may accordingly contain errors; (iv)
-the provision of the Information does not obviate any need to make appropriate further enquiries; (v) the provision of the Information is not an endorsement of any commercial policies and/or any conclusions by Clarksons Platou and its
-Greece 'connected persons', and is not intended to recommend any decision by the recipient; (vi) shipping is a variable and cyclical business and any forecasting concerning it may not be accurate. The Information is provided on "as is" and "as
-available" basis. Clarksons Platou and its ‘connected persons' make no representations or warranties of any kind, express or implied about the completeness, accuracy, reliability, suitability or availability with respect to the Information.
-Any reliance placed on such Information is therefore strictly at the recipient's own risk.
-Direct +(30) 210 458 6700
-Fax +(30) 210 458 6799 This Information is confidential and is solely for the internal use of the recipient. Neither the whole nor any part of the Information may be disclosed to, or used or relied upon by, any other person or used for any other purpose without the
-snp@clarksons.gr prior written consent of Clarksons Platou. Especially, the information is not to be used in any document for the purposes of raising finance whether by way of debt or equity. All intellectual property rights are fully reserved by Clarksons
-Platou, its ‘connected persons' and/or its licensors.
-www.clarksons.com
-To the extent permitted by law, Clarksons Platou and its ‘connected persons' shall not be liable to the recipient or any third party for any loss, liability or damage, cost or expense including without limitation, direct, indirect, consequential
-loss or damage, any loss of profit, loss of use, loss of or interruption in business, loss of goodwill, loss of data arising out of, or in connection with, the use of and the reliance on the Information whether in contract, tort, negligence,
-bailment, breach of statutory duty or otherwise, even if foreseeable.
-These exclusions do not apply to (i) death or personal injury caused by the negligence of Clarksons Platou and its‘connected persons' or (ii) the liability of Clarksons Platou and its ‘connected persons' for fraud or fraudulent
-misrepresentation. In this disclaimer 'connected persons' means, in relation to Clarksons Platou, its ultimate holding company, subsidiaries and subsidiary undertakings of its ultimate holding company and the respective shareholders,
-directors, officers, employees and agents of each of them. This disclaimer shall be governed by and construed in accordance with English law.
-Page 3 of 3
+|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|
+|---|---|---|---|---|---|---|
+|PRISCILLA VENTURE|77,283|2008 OSHIMA|MAN-B&W 5S60MC-C7.1|SS 03/233 DD 03/2|LOW USD 18 M|CHINESE|
+|ASIA RUBY II|62,996|2014 CSC JINLING|MAN-B&W 5G60ME-C9.2 4 x 36 T BWTS fitted|SS 04/242 DD 04/2|V. HIGH USD 24 M|U/D|
+|ASIA RUBY IV|62,982|2014 CSC JINLING|MAN-B&W 5G60ME-C9.2 4 x 36 T BWTS fitted|SS 07/242 DD 08/2|USD 24.5 M|U/D|
+|NEREUS ISLAND|37,920|2014 IMABARI|MAN-B&W 6S46ME-B8.3 4 X 30 T BWTS fitted|SS 04/242 DD 03/2|RGN USD 21 M|HK BASED (c/o Pac ific Basin)|
+|GLORIOUS SAIKI|37,154|2012 SAIKI|MAN-B&W 6S42MC 4 x 30 T BWTS fitted|SS 07/22 DD 07/22|RGN USD 17 M|HK BA SED (c/o Tayl or Maritime )|
+
+## <u>TANKERS – CHEMICALS – LPG/LNGs</u>
+
+VESSEL <u>DWT</u> BLT DETAILS <u>SS/DD</u> PRICE BUYER **-**------
+
+## NEW BUILDING
+
+In dry bulk this week, Beihai announced signing two firm 210k dwt Newcastlemax with Zheijiang Xiehai Shipping, with delivery of both vessels expected within 2023. It is being reported that Taizhou Jiahang Shipping ordered two firm 85k Kamsarmax at Tianjin Xingang Shipyard, with delivery of both vessels expected within 1Q 2023. In the car carrier market, SFL Corporation announced orders for two further LNG dual-fuel 7,000 CEU PCC’s at GSI Nansha. The vessels bring the series to four overall, with delivery expected in 1Q and 2Q 2024.
+
+## RECYCLING
+
+## <u>Precariously Poised!</u>
+
+With a slight correction from Bangladesh and Pakistan this week, activity across the board seemed to slow once again after the recent flurry of late Summer sales. The momentum that was gained appeared to lose its grasp this week as there was some talk that several owners who were looking to sell their units decided to temporise for the time being. The Indian recyclers may now be in a position to step in as levels return to an area where the Alang recyclers can once again compete for the conventional tonnage, not just those units that require HKC recycling. Any available unit will no doubt arrive from the beleaguered tanker sector where any recovery hangs in the balance after Coronavirus flare ups in China disrupt its economic recovery and ultimately affecting the demand for Oil. If the recovery is slowed, then the promise of wet units on a large scale may finally arrive and appease the appetite for some of the Indian sub continental breakers. But for the moment, whilst supply remains limited, any slight negative correction should recover soon keeping recycling prices at the current 10- year high, allowing Owners to continue to reap the benefits.
+
+## DEMOLITION
+
+## BULK CARRIERS – GCs-MPPs
+
+## VESSEL DWT <u>BLT</u> DETAILS PRICE DELIVERY
+
+**-**-----
+
+## TANKERS – CHEMICALS – LPGs
+
+## VESSEL <u>DWT</u> BLT DETAILS PRICE DELIVERY
+
+## ANGEL 18
+
+11,629 1998 3,228 LDT USD 875 / LDT INDIA **(Chemical tanker)**
+
+|BAL|TIC INDEX||EXCHANGE RATE|||BUNKER PRICES|||
+|---|---|---|---|---|---|---|---|---|
+|BDI|4092|+ 116|EURO/USD|1.16835|BUNKERS|ROTTERDAM|SPORE|FUJAIRAH|
+|BCI|5997|+ 286|YEN/USD|0.00910|VLSFO|475.00|505.00|496.50|
+|BPI|3785|+ 31|BRENT||MGO|527.50|532.50|622.50|
+|BSI BHSI|3276 1878|+ 39 + 7|66.275||IFO 380|386.50|394.50|402.50|
+
+|Contacts|||
+|---|---|---|
+|Clarksons Platou (Hellas) Ltd. 62 Kifissias Avenue Marousi 151 25 Greece Direct +(30) 210 458 6700 Fax +(30) 210 458 6799 snp@clarksons.gr www.clarksons.com||Thematerialand theinformation (including, without limitation, any futurerates) contained herein (together, the "Information") areprovided by H. Clarkson & Co. Ltd ("Clarksons Platou") for general information purposes. The Information is drawn from Clarksons Platou's database and other sources. Clarksons Platou advises that: (i) any Information extracted from Clarksons Platou's database is d d nfrs om es tima r surebje gme; (ii)coam nypilIn forma n ex cte abas ofaotccu hera r m mcorr e da olleacco tion mbjec ay dtiffto erlim froited m tau hedIin fornd ma trac om C larksons ' dy atab asen e; (irro ii)rw Celarirve kso Platou hastes takoen asctiv onae j blud e ca re ints n the atio n of titohe Inftra orm atdiofn roam ndthe belideavte s it toesbe te aarnitid etcat,cdat mpaig laetinci oneiss su t a vation ex lidation prtoed cedfrur es and may aPlccato orduisngl contai s; h(ilst iv) theprovision of the Information does notobviate any need tomakeappropriate further enquiries; (v) theprovision of the Informationis notan endorsement of anycommercial policies and/or any conclusions by Clarksons Platou and its 'connected persons', andisnotintended torecommend any decision by the recipient; (vi) shipping is avariableand cyclicalbusinessand anyforecastingconcerningit may not beaccurate. The Information is providedon "as is" and “as available” basis. Clarksons Platou and its ‘connected persons’ make no representations or warranties of any kind, express or implied about the completeness, accuracy, reliability, suitability or availability with respect to the Information. Any relianceplaced on such Information is thereforestrictlyattherecipient's own risk. Th is Iwri nfottrm is co nfid and i lely orethce rnalinufose of ttion he ris ecno ipitetnot.be Neiuth hean whol r anntyfopa tof therpIo nsfores o mati onisma sed eto, orw usaeyd oforde rebliet d pon by, an the rson or orre anfully yothre erser puvre pd osbeyw t th prior enatcio onnse nt of Cent larkiasl ons Ps so latou. Efsp ialin ly, tethe rma seedr tin y doecnuome r trh e pu f ra ingy finbaendicesclwoheth r by orueq uity. A ll inyteolle ctrupe al pro pertyuse righd f ts a Clithou arkso ne s Platou, its ‘connectedpersons’ and/orits licensors. To the extent permitted by law, Clarksons Platou and its ‘connected persons’ shall not be liable to the recipient or anythird party for any loss, liability or damage, cost or expense including without limitation, direct, indirect, consequential loss or damage, any loss of profit, loss of use, loss of or interruption in business, loss of goodwill, loss of data arising out of, or in connection with, the use of and the reliance on the Information whether in contract, tort, negligence, bailment, breachof statutory duty or otherwise, even if foreseeable. These exclusions do not apply to (i) death or personal injury caused by the negligence of Clarksons Platou and its‘connected persons’ or (ii) the liability of Clarksons Platou and its ‘connected persons’ for fraud or fraudulent misrepresentation. In this disclaimer 'connected persons' means, in relation to Clarksons Platou, its ultimate holding company, subsidiaries and subsidiary undertakings of its ultimate holding company and the respective shareholders, directors, officers, employeesand agentsofeachofthem. This disclaimershallbegovernedby andconstrued inaccordancewith Englishlaw.|

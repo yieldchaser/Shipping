@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2024_11_01_energy_independence_in_asia__root",
+  "doc_id": "poten_tankers_no_date_poten_2024_11_01_energy_independence_in_asia",
+  "parent_id": null,
+  "title": "Energy Independence In Asia",
+  "section_path": [
+    "Energy Independence In Asia"
+  ],
+  "section_path_text": "Energy Independence In Asia",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Vietnam's growth ambitions could change trade flows\nVietnam is an oil producer, crude oil importer and exporter. It plans to continue to invest in the petroleum sector. The country already boasts two refineries, but is planning to add more capacity since it still needs to import products.",
+  "keywords": [
+    "handysize",
+    "vlcc",
+    "china",
+    "australia",
+    "pacific",
+    "singapore",
+    "japan",
+    "crude_oil",
+    "products",
+    "gas",
+    "vietnam",
+    "oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 957,
+  "source_path": "reports/poten/2024/poten_2024-11-01_energy-independence-in-asia.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2024_11_01_energy_independence_in_asia__s01_vietnam_s_growth_ambitions_could_change_trade_flows",
+      "doc_id": "poten_tankers_no_date_poten_2024_11_01_energy_independence_in_asia",
+      "parent_id": "poten_tankers_no_date_poten_2024_11_01_energy_independence_in_asia__root",
+      "title": "Vietnam's growth ambitions could change trade flows",
+      "section_path": [
+        "Vietnam's growth ambitions could change trade flows"
+      ],
+      "section_path_text": "Vietnam's growth ambitions could change trade flows",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Vietnam is an oil producer, crude oil importer and exporter. It plans to continue to invest in the petroleum sector.",
+      "keywords": [
+        "handysize",
+        "vlcc",
+        "china",
+        "australia",
+        "pacific",
+        "singapore",
+        "japan",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 947,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

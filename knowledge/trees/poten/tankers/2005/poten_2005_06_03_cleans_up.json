@@ -1,0 +1,223 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_06_03_cleans_up__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_06_03_cleans_up",
+  "parent_id": null,
+  "title": "Cleans Up!",
+  "section_path": [
+    "Cleans Up!"
+  ],
+  "section_path_text": "Cleans Up!",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The clean up position on a baseball team is where the fourth batter has the opportunity to clean up the bases by hitting a home run. Product carriers may be hitting a home run with U.S. refineries operating at full utilization in the face of growing oil demand.",
+  "keywords": [
+    "panamax",
+    "handysize",
+    "meg",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "clean",
+    "fixtures",
+    "product",
+    "chart",
+    "imports"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 566,
+  "source_path": "reports/poten/2005/poten_2005-06-03_cleans-up.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_06_03_cleans_up__s01_cleans_up",
+      "doc_id": "poten_tankers_no_date_poten_2005_06_03_cleans_up",
+      "parent_id": "poten_tankers_no_date_poten_2005_06_03_cleans_up__root",
+      "title": "Cleans Up!",
+      "section_path": [
+        "Cleans Up!"
+      ],
+      "section_path_text": "Cleans Up!",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The clean up position on a baseball team is where the fourth batter has the opportunity to clean up the bases by hitting a home run. Product carriers may be hitting a home run with U.S.",
+      "keywords": [
+        "crude_oil",
+        "clean",
+        "growing",
+        "hitting",
+        "home",
+        "product",
+        "should",
+        "accelerating."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 75,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_06_03_cleans_up__s02_accelerating_growth",
+      "doc_id": "poten_tankers_no_date_poten_2005_06_03_cleans_up",
+      "parent_id": "poten_tankers_no_date_poten_2005_06_03_cleans_up__root",
+      "title": "Accelerating Growth!",
+      "section_path": [
+        "Accelerating Growth!"
+      ],
+      "section_path_text": "Accelerating Growth!",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The above chart shows that this observation is true- the rate of growth of product imports is indeed accelerating. The next chart shows the volume of spot clean fixtures for small, handymax, and panamax tankers (2005 figures are annualized).",
+      "keywords": [
+        "panamax",
+        "handysize",
+        "chart",
+        "shows",
+        "above",
+        "accelerating.",
+        "annualized",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 50,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_06_03_cleans_up__s03_chart_spot_clean_fixtures_by_vessel_type",
+      "doc_id": "poten_tankers_no_date_poten_2005_06_03_cleans_up",
+      "parent_id": "poten_tankers_no_date_poten_2005_06_03_cleans_up__root",
+      "title": "Chart: # Spot Clean Fixtures by Vessel Type",
+      "section_path": [
+        "Chart: # Spot Clean Fixtures by Vessel Type"
+      ],
+      "section_path_text": "Chart: # Spot Clean Fixtures by Vessel Type",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "On the surface, the fall in fixture volume is counter-intuitive to increasing imports, but there has been a movement to larger-sized handymaxes at the expense of small product carriers. % Fixture Activity by Vessel Type 2000 2005 Small 24% 12% Handy 63% 79% Panamax 13% 9% The number of clean trading panamaxes handling U.S.",
+      "keywords": [
+        "panamax",
+        "handysize",
+        "europe",
+        "fixture",
+        "activity",
+        "but",
+        "clean",
+        "fixtures"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 175,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_06_03_cleans_up__s04_other",
+      "doc_id": "poten_tankers_no_date_poten_2005_06_03_cleans_up",
+      "parent_id": "poten_tankers_no_date_poten_2005_06_03_cleans_up__root",
+      "title": "Other",
+      "section_path": [
+        "Other"
+      ],
+      "section_path_text": "Other",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Asia Europe Caribs The following chart translates spot fixtures to voyage days to show the impact of having a larger percentage of UKC voyages.",
+      "keywords": [
+        "europe",
+        "asia",
+        "caribs",
+        "chart",
+        "days",
+        "fixtures",
+        "following",
+        "having"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 28,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_06_03_cleans_up__s05_other",
+      "doc_id": "poten_tankers_no_date_poten_2005_06_03_cleans_up",
+      "parent_id": "poten_tankers_no_date_poten_2005_06_03_cleans_up__root",
+      "title": "Other",
+      "section_path": [
+        "Other"
+      ],
+      "section_path_text": "Other",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "",
+      "keywords": [
+        "europe",
+        "asia",
+        "caribs"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_06_03_cleans_up__s06_voyage_days",
+      "doc_id": "poten_tankers_no_date_poten_2005_06_03_cleans_up",
+      "parent_id": "poten_tankers_no_date_poten_2005_06_03_cleans_up__root",
+      "title": "Voyage Days",
+      "section_path": [
+        "Voyage Days"
+      ],
+      "section_path_text": "Voyage Days",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "The 10% increase in the number of handymax fixtures since 2000 translates to a 12% increase in the number of voyage days over the same period of time. The rise would have been more pronounced were it not for the fall-off in the number of Far East fixtures.",
+      "keywords": [
+        "handysize",
+        "meg",
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "clean",
+        "number"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 181,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_06_03_cleans_up__s07_another_upward_trend",
+      "doc_id": "poten_tankers_no_date_poten_2005_06_03_cleans_up",
+      "parent_id": "poten_tankers_no_date_poten_2005_06_03_cleans_up__root",
+      "title": "Another Upward Trend!",
+      "section_path": [
+        "Another Upward Trend!"
+      ],
+      "section_path_text": "Another Upward Trend!",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "It looks to us that the clean up batter is about to hit a home run!",
+      "keywords": [
+        "batter",
+        "clean",
+        "hit",
+        "home",
+        "looks",
+        "run"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 17,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

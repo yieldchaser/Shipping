@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2026_02_20_does_the_buy_and_hold_strategy_still_work__root",
+  "doc_id": "poten_tankers_no_date_poten_2026_02_20_does_the_buy_and_hold_strategy_still_work",
+  "parent_id": null,
+  "title": "Does The Buy And Hold Strategy Still Work",
+  "section_path": [
+    "Does The Buy And Hold Strategy Still Work"
+  ],
+  "section_path_text": "Does The Buy And Hold Strategy Still Work",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The VLCC market is in the spotlight again\nIn the tanker market it is always the VLCCs that catch the imagination. They are very large (hence the name) and have very high earnings potential. VLCCs earnings are also very volatile and over the lifetime of a vessel (20-25 years), daily earnings can (and will) fluctuate between $0 (zero!) and $100,000/day or more.",
+  "keywords": [
+    "vlcc",
+    "crude_oil",
+    "are",
+    "earnings",
+    "was",
+    "owner",
+    "prices",
+    "vessel",
+    "can",
+    "many",
+    "million",
+    "period"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 953,
+  "source_path": "reports/poten/2026/poten_2026-02-20_does-the-buy-and-hold-strategy-still-work.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2026_02_20_does_the_buy_and_hold_strategy_still_work__s01_the_vlcc_market_is_in_the_spotlight_again",
+      "doc_id": "poten_tankers_no_date_poten_2026_02_20_does_the_buy_and_hold_strategy_still_work",
+      "parent_id": "poten_tankers_no_date_poten_2026_02_20_does_the_buy_and_hold_strategy_still_work__root",
+      "title": "The VLCC market is in the spotlight again",
+      "section_path": [
+        "The VLCC market is in the spotlight again"
+      ],
+      "section_path_text": "The VLCC market is in the spotlight again",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In the tanker market it is always the VLCCs that catch the imagination. They are very large (hence the name) and have very high earnings potential.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "are",
+        "earnings",
+        "was",
+        "owner",
+        "prices",
+        "vessel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 943,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2013_08_16_summer_dreams_for_suezmaxes__root",
+  "doc_id": "poten_tankers_no_date_poten_2013_08_16_summer_dreams_for_suezmaxes",
+  "parent_id": null,
+  "title": "Summer Dreams for Suezmaxes",
+  "section_path": [
+    "Summer Dreams for Suezmaxes"
+  ],
+  "section_path_text": "Summer Dreams for Suezmaxes",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Suezmax demand\nThe languishing West African Suezmax trade saw a much needed boost in activity last month. The upswing can likely be credited to the recent collapse in the West Texas Intermediate (WTI) and Brent crude oil price spread. Freight rates for the West African Suezmax market were once a stalwart of the tanker business, but the recent tumult of the of US East Coast refining complex introduced an unforeseen amount of risk to this trade.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "brazil",
+    "atlantic",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "west",
+    "demand",
+    "african",
+    "per",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 516,
+  "source_path": "reports/poten/2013/poten_2013-08-16_summer-dreams-for-suezmaxes.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_08_16_summer_dreams_for_suezmaxes__s01_suezmax_demand",
+      "doc_id": "poten_tankers_no_date_poten_2013_08_16_summer_dreams_for_suezmaxes",
+      "parent_id": "poten_tankers_no_date_poten_2013_08_16_summer_dreams_for_suezmaxes__root",
+      "title": "Suezmax demand",
+      "section_path": [
+        "Suezmax demand"
+      ],
+      "section_path_text": "Suezmax demand",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The languishing West African Suezmax trade saw a much needed boost in activity last month. The upswing can likely be credited to the recent collapse in the West Texas Intermediate (WTI) and Brent crude oil price spread.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "atlantic",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "west",
+        "african"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 233,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_08_16_summer_dreams_for_suezmaxes__s02_july_reported_spot",
+      "doc_id": "poten_tankers_no_date_poten_2013_08_16_summer_dreams_for_suezmaxes",
+      "parent_id": "poten_tankers_no_date_poten_2013_08_16_summer_dreams_for_suezmaxes__root",
+      "title": "July reported spot",
+      "section_path": [
+        "July reported spot"
+      ],
+      "section_path_text": "July reported spot",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "fixtures ex‐West Africa top 95 Since the start of 2012, there has been an average of 60 fixtures per month; last month saw 95. Time charter equivalents responded accordingly to the delight of many shipowners.",
+      "keywords": [
+        "brazil",
+        "west_africa",
+        "per",
+        "day",
+        "fixtures",
+        "month",
+        "since",
+        "td5"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 116,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_08_16_summer_dreams_for_suezmaxes__s03_freight_rates_feel_the",
+      "doc_id": "poten_tankers_no_date_poten_2013_08_16_summer_dreams_for_suezmaxes",
+      "parent_id": "poten_tankers_no_date_poten_2013_08_16_summer_dreams_for_suezmaxes__root",
+      "title": "Freight rates feel the",
+      "section_path": [
+        "Freight rates feel the"
+      ],
+      "section_path_text": "Freight rates feel the",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "heat Despite its recent strengths, the long‐term health of the West African Suezmax trade remains vulnerable. Demand fundamentals hinge largely on the use of West African crude in shorter‐haul markets.",
+      "keywords": [
+        "suezmax",
+        "west_africa",
+        "crude_oil",
+        "african",
+        "crude",
+        "recent",
+        "spread",
+        "west"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 76,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_08_16_summer_dreams_for_suezmaxes__s04_supply_fundamentals",
+      "doc_id": "poten_tankers_no_date_poten_2013_08_16_summer_dreams_for_suezmaxes",
+      "parent_id": "poten_tankers_no_date_poten_2013_08_16_summer_dreams_for_suezmaxes__root",
+      "title": "Supply fundamentals",
+      "section_path": [
+        "Supply fundamentals"
+      ],
+      "section_path_text": "Supply fundamentals",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "continue to be a bear Beyond the current demand fundamentals, fleet supply risks abound. For perspective, the current fleet is approximately 440 vessels with an orderbook of over 50 vessels, or 11%.",
+      "keywords": [
+        "suezmax",
+        "west_africa",
+        "europe",
+        "current",
+        "demand",
+        "fleet",
+        "vessels",
+        "abound."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 73,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

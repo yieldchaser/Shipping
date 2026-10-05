@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2016_07_29_oil_on_the_move__root",
+  "doc_id": "poten_tankers_no_date_poten_2016_07_29_oil_on_the_move",
+  "parent_id": null,
+  "title": "Oil on the Move",
+  "section_path": [
+    "Oil on the Move"
+  ],
+  "section_path_text": "Oil on the Move",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "VLCC voyages increase in line with fleet development\nQuite a lot has happened over the last 12-18 months: North American crude oil production has been declining for some time now; Iran has reentered the market and oil production in Iraq and Saudi Arabia has increased. Production growth in Middle East OPEC has been partially offset by outages in Libya and Nigeria. Now that the first half of 2016 is behind us, let's look at how these market developments have affected tanker trade flows.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "brazil",
+    "atlantic",
+    "west_africa",
+    "europe",
+    "india",
+    "japan",
+    "crude_oil",
+    "voyages",
+    "trade"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 814,
+  "source_path": "reports/poten/2016/poten_2016-07-29_oil-on-the-move.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_07_29_oil_on_the_move__s01_vlcc_voyages_increase_in_line_with_fleet_development",
+      "doc_id": "poten_tankers_no_date_poten_2016_07_29_oil_on_the_move",
+      "parent_id": "poten_tankers_no_date_poten_2016_07_29_oil_on_the_move__root",
+      "title": "VLCC voyages increase in line with fleet development",
+      "section_path": [
+        "VLCC voyages increase in line with fleet development"
+      ],
+      "section_path_text": "VLCC voyages increase in line with fleet development",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Quite a lot has happened over the last 12-18 months: North American crude oil production has been declining for some time now; Iran has reentered the market and oil production in Iraq and Saudi Arabia has increased. Production growth in Middle East OPEC has been partially offset by outages in Libya and Nigeria.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "brazil",
+        "atlantic",
+        "west_africa",
+        "europe",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 803,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

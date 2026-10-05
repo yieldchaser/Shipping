@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_07_03_dirty_talk__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_07_03_dirty_talk",
+  "parent_id": null,
+  "title": "Dirty Talk",
+  "section_path": [
+    "Dirty Talk"
+  ],
+  "section_path_text": "Dirty Talk",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Dirty Talk\nProducers, traders, brokers, buyers, regulators and financiers gathered this June in Houston at Platts 5 th annual Bunker & Residual Fuel Oil Conference to hear other industry players' views of what the future holds for the \"bottom of the barrel\" oils. All of the presentations outlined the general notion that the fuel oil industry grapples with fast- changing developments such as heavier crude slates, refinery upgrades, decline in consumption by the electricity and manufacturing industries, and fuel oil quality modifications reflecting increasing environmental concerns. To give some perspective on the direction marine fuel regulations are headed, Stefka Ilieva, a fuel oil analyst and editor of Poten's monthly publication Fuel Oil in World Markets , was invited as a panel speaker to share her views on the impact of the International Maritime Organization's (IMO) bunker fuel standards on bunker production as well as possible solutions.",
+  "keywords": [
+    "brazil",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "fuel",
+    "bunker",
+    "sulfur",
+    "oil",
+    "annex",
+    "marine",
+    "may"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1180,
+  "source_path": "reports/poten/2008/poten_2008-07-03_dirty-talk.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_07_03_dirty_talk__s01_dirty_talk",
+      "doc_id": "poten_tankers_no_date_poten_2008_07_03_dirty_talk",
+      "parent_id": "poten_tankers_no_date_poten_2008_07_03_dirty_talk__root",
+      "title": "Dirty Talk",
+      "section_path": [
+        "Dirty Talk"
+      ],
+      "section_path_text": "Dirty Talk",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Producers, traders, brokers, buyers, regulators and financiers gathered this June in Houston at Platts 5 th annual Bunker & Residual Fuel Oil Conference to hear other industry players' views of what the future holds for the \"bottom of the barrel\" oils. All of the presentations outlined the general notion that the fuel oil industry grapples with fast- changing developments such as heavier crude slates, refinery upgrades, decline in consumption by the electricity and manufacturing industries, and fuel oil quality modifications reflecting increasing environmental concerns.",
+      "keywords": [
+        "crude_oil",
+        "fuel",
+        "oil",
+        "sulfur",
+        "bunker",
+        "imo",
+        "marine",
+        "annex"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 360,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_07_03_dirty_talk__s02_year",
+      "doc_id": "poten_tankers_no_date_poten_2008_07_03_dirty_talk",
+      "parent_id": "poten_tankers_no_date_poten_2008_07_03_dirty_talk__root",
+      "title": "Year",
+      "section_path": [
+        "Year"
+      ],
+      "section_path_text": "Year",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Date Regulation Historical Legislation 2005 May 19 4.5%S global bunker fuel cap 2006 May 19 Baltic SECA 1.5%S enters into force 2007 Nov 22 North Sea SECA 1.5%S commences Future Legislation 2010 Mar 1 1.0%S max restrictions in the SECAs from current 1.5%S 2012 Jan 1 3.5%S global bunker fuel cap from current 4.5%S cap 2015 Jan 1 0.10%S max restriction in the SECAs 2020 / 2025 Jan 1 0.5%S global bunker fuel cap (subject to feasibility study in 2018) The Annex VI revisions call for worldwide bunker fuel sulfur maximum to be reduced to 3.5% by January 1 st 2012. Further proposals call for a 0.5% sulfur limit on January 1 st 2020, subject to a feasibility study to be completed by 2018.",
+      "keywords": [
+        "brazil",
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "fuel",
+        "bunker",
+        "may"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 815,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

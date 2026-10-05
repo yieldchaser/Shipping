@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_10_07_high_oil_prices_tanker_demand__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_10_07_high_oil_prices_tanker_demand",
+  "parent_id": null,
+  "title": "High Oil Prices & Tanker Demand",
+  "section_path": [
+    "High Oil Prices & Tanker Demand"
+  ],
+  "section_path_text": "High Oil Prices & Tanker Demand",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "High Oil Prices & Tanker Demand\nWith oil prices hovering above $60 per barrel and U.S. Gulf oil production currently 77.5% shut in, what is the outlook for tanker owners if oil prices remain high? The following chart shows the latest available data on U.S.",
+  "keywords": [
+    "coal",
+    "crude_oil",
+    "products",
+    "gas",
+    "oil",
+    "consumption",
+    "prices",
+    "high",
+    "gasoline",
+    "are",
+    "not",
+    "u.s."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 759,
+  "source_path": "reports/poten/2005/poten_2005-10-07_high-oil-prices-tanker-demand.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_10_07_high_oil_prices_tanker_demand__s01_high_oil_prices_tanker_demand",
+      "doc_id": "poten_tankers_no_date_poten_2005_10_07_high_oil_prices_tanker_demand",
+      "parent_id": "poten_tankers_no_date_poten_2005_10_07_high_oil_prices_tanker_demand__root",
+      "title": "High Oil Prices & Tanker Demand",
+      "section_path": [
+        "High Oil Prices & Tanker Demand"
+      ],
+      "section_path_text": "High Oil Prices & Tanker Demand",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "With oil prices hovering above $60 per barrel and U.S. Gulf oil production currently 77.5% shut in, what is the outlook for tanker owners if oil prices remain high?",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "oil",
+        "gasoline",
+        "prices",
+        "u.s.",
+        "above"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 60,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_10_07_high_oil_prices_tanker_demand__s02_inventory",
+      "doc_id": "poten_tankers_no_date_poten_2005_10_07_high_oil_prices_tanker_demand",
+      "parent_id": "poten_tankers_no_date_poten_2005_10_07_high_oil_prices_tanker_demand__root",
+      "title": "Inventory",
+      "section_path": [
+        "Inventory"
+      ],
+      "section_path_text": "Inventory",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Imports Refinery Output Gasoline inventories have been falling since the beginning of July as refinery output held steady until hurricanes Katrina and Rita wrecked havoc on Gulf facilities. Imports have proven effective in keeping this market somewhat balanced in the face of refinery shortfalls.",
+      "keywords": [
+        "products",
+        "gas",
+        "consumption",
+        "imports",
+        "refinery",
+        "gasoline",
+        "disruptions",
+        "inventory"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 148,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_10_07_high_oil_prices_tanker_demand__s03_u_s_gasoline_consumption_and_price",
+      "doc_id": "poten_tankers_no_date_poten_2005_10_07_high_oil_prices_tanker_demand",
+      "parent_id": "poten_tankers_no_date_poten_2005_10_07_high_oil_prices_tanker_demand__root",
+      "title": "U.S. Gasoline Consumption and Price",
+      "section_path": [
+        "U.S. Gasoline Consumption and Price"
+      ],
+      "section_path_text": "U.S. Gasoline Consumption and Price",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The classical economic relation between price and consumption is that as price increases, consumption decreases. The above chart does not bear this out.",
+      "keywords": [
+        "coal",
+        "crude_oil",
+        "products",
+        "gas",
+        "oil",
+        "prices",
+        "consumption",
+        "high"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 532,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

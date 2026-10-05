@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_12_24_above_the_average__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_12_24_above_the_average",
+  "parent_id": null,
+  "title": "Above the Average",
+  "section_path": [
+    "Above the Average"
+  ],
+  "section_path_text": "Above the Average",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Above the Average\nThe long-term health of the tanker market in general is driven by underlying fundamentals such as demand for crude oil and products, but the day-to-day relationship between supply and demand for ships drives rate volatility. The regional balance of available ships versus their demand can trigger sharp peaks and troughs in rates depending on requirements of particular trades. The trend over the long-term has been that of increased volatility in rates.",
+  "keywords": [
+    "vlcc",
+    "brazil",
+    "meg",
+    "crude_oil",
+    "products",
+    "average",
+    "annual",
+    "past",
+    "peak",
+    "but",
+    "demand",
+    "fourth"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 715,
+  "source_path": "reports/poten/2008/poten_2008-12-24_above-the-average.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_12_24_above_the_average__s01_above_the_average",
+      "doc_id": "poten_tankers_no_date_poten_2008_12_24_above_the_average",
+      "parent_id": "poten_tankers_no_date_poten_2008_12_24_above_the_average__root",
+      "title": "Above the Average",
+      "section_path": [
+        "Above the Average"
+      ],
+      "section_path_text": "Above the Average",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The long-term health of the tanker market in general is driven by underlying fundamentals such as demand for crude oil and products, but the day-to-day relationship between supply and demand for ships drives rate volatility. The regional balance of available ships versus their demand can trigger sharp peaks and troughs in rates depending on requirements of particular trades.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "crude_oil",
+        "products",
+        "but",
+        "demand",
+        "fixtures",
+        "average"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 235,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_12_24_above_the_average__s02_year",
+      "doc_id": "poten_tankers_no_date_poten_2008_12_24_above_the_average",
+      "parent_id": "poten_tankers_no_date_poten_2008_12_24_above_the_average__root",
+      "title": "Year",
+      "section_path": [
+        "Year"
+      ],
+      "section_path_text": "Year",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Average WS Rate WS Rank 1998 64.1 9 1999 48.1 10 2000 109.9 3 2001 64.8 8 2002 49.8 11 2003 93.0 5 2004 148.0 1 2005 100.4 4 2006 89.5 6 2007 79.5 7 2008* 119.5 2 A fourth quarter spike in rates is generally the main driver of the strong annual average freight rates of the past few years. Although the peak was not seen in fourth quarter 2008, the market still saw a great deal of volatility due to other outstanding months.",
+      "keywords": [
+        "brazil",
+        "average",
+        "annual",
+        "peak",
+        "month",
+        "past",
+        "fourth",
+        "one"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 473,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

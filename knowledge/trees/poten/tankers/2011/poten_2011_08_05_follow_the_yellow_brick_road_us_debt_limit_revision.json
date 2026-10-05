@@ -1,0 +1,197 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_08_05_follow_the_yellow_brick_road_us_debt_limit_revision__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_08_05_follow_the_yellow_brick_road_us_debt_limit_revision",
+  "parent_id": null,
+  "title": "Follow The Yellow Brick Road - US Debt Limit Revision",
+  "section_path": [
+    "Follow The Yellow Brick Road - US Debt Limit Revision"
+  ],
+  "section_path_text": "Follow The Yellow Brick Road - US Debt Limit Revision",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Follow The Yellow Brick Road - US Debt Limit Revision\nWelcome to Oz! While it is nothing new, now more than ever it seems the United States government is making a sport of changing the rules of the game while it is in play. This week, the revision of the United States debt ceiling serves as the primary example.",
+  "keywords": [
+    "crude_oil",
+    "debt",
+    "limit",
+    "prices",
+    "crude",
+    "economic",
+    "oil",
+    "public",
+    "united",
+    "concerns",
+    "government",
+    "states"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1076,
+  "source_path": "reports/poten/2011/poten_2011-08-05_follow-the-yellow-brick-road-us-debt-limit-revision.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_08_05_follow_the_yellow_brick_road_us_debt_limit_revision__s01_follow_the_yellow_brick_road_us_debt_limit_revision",
+      "doc_id": "poten_tankers_no_date_poten_2011_08_05_follow_the_yellow_brick_road_us_debt_limit_revision",
+      "parent_id": "poten_tankers_no_date_poten_2011_08_05_follow_the_yellow_brick_road_us_debt_limit_revision__root",
+      "title": "Follow The Yellow Brick Road - US Debt Limit Revision",
+      "section_path": [
+        "Follow The Yellow Brick Road - US Debt Limit Revision"
+      ],
+      "section_path_text": "Follow The Yellow Brick Road - US Debt Limit Revision",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "While it is nothing new, now more than ever it seems the United States government is making a sport of changing the rules of the game while it is in play. This week, the revision of the United States debt ceiling serves as the primary example.",
+      "keywords": [
+        "debt",
+        "would",
+        "economic",
+        "limit",
+        "rules",
+        "states",
+        "united",
+        "american"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 322,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_08_05_follow_the_yellow_brick_road_us_debt_limit_revision__s02_public_debt",
+      "doc_id": "poten_tankers_no_date_poten_2011_08_05_follow_the_yellow_brick_road_us_debt_limit_revision",
+      "parent_id": "poten_tankers_no_date_poten_2011_08_05_follow_the_yellow_brick_road_us_debt_limit_revision__root",
+      "title": "Public Debt",
+      "section_path": [
+        "Public Debt"
+      ],
+      "section_path_text": "Public Debt",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Debt Limit New Debt Limit Gold Price 1 Debt Limit: Myth v. Fact , Department of the Treasury; graph sources Bloomberg, US Department of Treasury Concerns about future currency debasement seem to be validated by the previous chart that compares public debt and the debt limit versus the price of gold.",
+      "keywords": [
+        "debt",
+        "limit",
+        "currency",
+        "department",
+        "price",
+        "treasury",
+        "amount",
+        "bloomberg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 86,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_08_05_follow_the_yellow_brick_road_us_debt_limit_revision__s03_the_people_behind_the_curtain",
+      "doc_id": "poten_tankers_no_date_poten_2011_08_05_follow_the_yellow_brick_road_us_debt_limit_revision",
+      "parent_id": "poten_tankers_no_date_poten_2011_08_05_follow_the_yellow_brick_road_us_debt_limit_revision__root",
+      "title": "The People Behind the Curtain",
+      "section_path": [
+        "The People Behind the Curtain"
+      ],
+      "section_path_text": "The People Behind the Curtain",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "With increasingly wide‐spread politicization, it is interesting to note the reaction of crude oil prices and currencies to specific events over the past year and a half. The publicity of the Greek debt crisis rightfully created concerns about the weakening Euro.",
+      "keywords": [
+        "crude_oil",
+        "was",
+        "concerns",
+        "crude",
+        "dollar",
+        "oil",
+        "prices",
+        "value"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 176,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_08_05_follow_the_yellow_brick_road_us_debt_limit_revision__s04_greece_debt_crisis",
+      "doc_id": "poten_tankers_no_date_poten_2011_08_05_follow_the_yellow_brick_road_us_debt_limit_revision",
+      "parent_id": "poten_tankers_no_date_poten_2011_08_05_follow_the_yellow_brick_road_us_debt_limit_revision__root",
+      "title": "Greece Debt Crisis",
+      "section_path": [
+        "Greece Debt Crisis"
+      ],
+      "section_path_text": "Greece Debt Crisis",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "implementation",
+        "lead",
+        "qe2"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_08_05_follow_the_yellow_brick_road_us_debt_limit_revision__s05_cme_margin_hikes",
+      "doc_id": "poten_tankers_no_date_poten_2011_08_05_follow_the_yellow_brick_road_us_debt_limit_revision",
+      "parent_id": "poten_tankers_no_date_poten_2011_08_05_follow_the_yellow_brick_road_us_debt_limit_revision__root",
+      "title": "CME margin hikes",
+      "section_path": [
+        "CME margin hikes"
+      ],
+      "section_path_text": "CME margin hikes",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "$/EUR Brent Crude WTI Highlighted in the recent Opinion, Uncle Sam's Slight of Hand , the United States government stepped in once again in attempts to defuse concerns over rising commodity prices by releasing Strategic Petroleum Reserves (SPR) stateside. The spread between West Texas Intermediate (WTI), the land‐locked benchmark contract, and Brent crude oil, which is typically thought to be a better barometer of international prices, has persisted.",
+      "keywords": [
+        "crude_oil",
+        "prices",
+        "crude",
+        "oil",
+        "petroleum",
+        "wti",
+        "brent",
+        "international"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 185,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_08_05_follow_the_yellow_brick_road_us_debt_limit_revision__s06_flying_monkeys",
+      "doc_id": "poten_tankers_no_date_poten_2011_08_05_follow_the_yellow_brick_road_us_debt_limit_revision",
+      "parent_id": "poten_tankers_no_date_poten_2011_08_05_follow_the_yellow_brick_road_us_debt_limit_revision__root",
+      "title": "Flying Monkeys",
+      "section_path": [
+        "Flying Monkeys"
+      ],
+      "section_path_text": "Flying Monkeys",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "The confluence of the series of policy changes in recent history will hopefully raise awareness among the public about decisions being made in Washington. The most troublesome element continues to be that America's future is being dictated by a select group of power‐hungry individuals that have personal motives at heart (read: re‐election).",
+      "keywords": [
+        "america",
+        "being",
+        "challenge",
+        "decisions",
+        "economic",
+        "lack",
+        "accountability",
+        "affairs."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 264,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

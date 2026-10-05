@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2016_02_19_tankers_are_like_a_box_of_chocolate_3__root",
+  "doc_id": "poten_tankers_no_date_poten_2016_02_19_tankers_are_like_a_box_of_chocolate_3",
+  "parent_id": null,
+  "title": "Tankers Are Like A Box Of Chocolate 3",
+  "section_path": [
+    "Tankers Are Like A Box Of Chocolate 3"
+  ],
+  "section_path_text": "Tankers Are Like A Box Of Chocolate 3",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Tankers Are Like A Box Of Chocolates\nThe uncertainty around the direction of the tanker market has increased since the start of 2016. At current production levels, the markets for both crude oil and (certain) refined products seem oversupplied, which supports healthy spot rates for both crude oil and product tankers. Tanker market bulls argue that if crude producers keep pumping oil at full tilt and refiners continue to process it at high levels, the tanker market will have another banner year.",
+  "keywords": [
+    "europe",
+    "crude_oil",
+    "products",
+    "oil",
+    "crude",
+    "prices",
+    "refining",
+    "levels",
+    "margins",
+    "below",
+    "brent",
+    "could"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 901,
+  "source_path": "reports/poten/2016/poten_2016-02-19_tankers-are-like-a-box-of-chocolate-3.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_02_19_tankers_are_like_a_box_of_chocolate_3__s01_tankers_are_like_a_box_of_chocolates",
+      "doc_id": "poten_tankers_no_date_poten_2016_02_19_tankers_are_like_a_box_of_chocolate_3",
+      "parent_id": "poten_tankers_no_date_poten_2016_02_19_tankers_are_like_a_box_of_chocolate_3__root",
+      "title": "Tankers Are Like A Box Of Chocolates",
+      "section_path": [
+        "Tankers Are Like A Box Of Chocolates"
+      ],
+      "section_path_text": "Tankers Are Like A Box Of Chocolates",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The uncertainty around the direction of the tanker market has increased since the start of 2016. At current production levels, the markets for both crude oil and (certain) refined products seem oversupplied, which supports healthy spot rates for both crude oil and product tankers.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "products",
+        "oil",
+        "crude",
+        "prices",
+        "refining",
+        "levels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 890,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

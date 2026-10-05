@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNew building in Tankers this week, International Seaways are reported to have signed for 2+2 x LR1s at K Shipbuilding. Delivery of these scrubber fitted\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-08-11_clarksons-platou-hellas-snp-weekly-bulletin-83_report-11082023_29f222369ee2.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-08-11_clarksons-platou-hellas-snp-weekly-bulletin-83_report-11082023_29f222369ee2.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 11th August 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN-B&W 6S70MC-C7.1, SS 02/24\nARIADNE 180,010 2009 DAEWOO XS USD 21 M U/D\nBWTS FITTED DD 02/24\nNAVIOS SOUTHERN MAN B. 6S60MC-C7.2 SS 04/28\n82,224 2013 TSUNEISHI USD 21.5 M GREEKS\nSTAR BWTS fitted DD 04/26\nZOSEN\n2017 TSUNEISHI MAN B.",
+  "summary": "Main\nNew building in Tankers this week, International Seaways are reported to have signed for 2+2 x LR1s at K Shipbuilding. Delivery of these scrubber fitted\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-08-11_clarksons-platou-hellas-snp-weekly-bulletin-83_report-11082023_29f222369ee2.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2023-08-11_clarksons-platou-hellas-snp-weekly-bulletin-83_report-11082023_29f222369ee2.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin11th August 2023\n\n# Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n|ARIADNE|180,010|2009 DAEWOO|MAN-B&W 6S70MC BWTS FITTED -C7.1,|SS 02/24 DD 02/24|XS USD 21 M|U/D|\n|NAVIOS SOUTHERN STAR|82,224|2013 TSUNEISHI ZOSEN|MAN B. 6S60MC-C7.2 BWTS fitted|SS 04/28 DD 04/26|USD 21.5 M|GREEKS|\n|KK MINERAL|45,429|2017 TSUNEISHI ZHOUSHAN|MAN B.",
   "keywords": [
     "lng",
     "lpg",
@@ -19,15 +19,15 @@
     "india",
     "singapore",
     "japan",
-    "crude_oil",
     "steel",
     "gas",
-    "clarksons"
+    "any",
+    "information"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 4883,
-  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-08-11_clarksons-platou-hellas-snp-weekly-bulletin-83.html",
+  "token_count": 2924,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-08-11_clarksons-platou-hellas-snp-weekly-bulletin-83.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-83",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-08-11_clarksons-platou-hellas-snp-weekly-bulletin-83_report-11082023_29f222369ee2.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-08-11_clarksons-platou-hellas-snp-weekly-bulletin-83_report-11082023_29f222369ee2.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 11th August 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN-B&W 6S70MC-C7.1, SS 02/24\nARIADNE 180,010 2009 DAEWOO XS USD 21 M U/D\nBWTS FITTED DD 02/24\nNAVIOS SOUTHERN MAN B. 6S60MC-C7.2 SS 04/28\n82,224 2013 TSUNEISHI USD 21.5 M GREEKS\nSTAR BWTS fitted DD 04/26\nZOSEN\n2017 TSUNEISHI MAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-08-11_clarksons-platou-hellas-snp-weekly-bulletin-83_report-11082023_29f222369ee2.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin11th August 2023\n\n# Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n|ARIADNE|180,010|2009 DAEWOO|MAN-B&W 6S70MC BWTS FITTED -C7.1,|SS 02/24 DD 02/24|XS USD 21 M|U/D|\n|NAVIOS SOUTHERN STAR|82,224|2013 TSUNEISHI ZOSEN|MAN B. 6S60MC-C7.2 BWTS fitted|SS 04/28 DD 04/26|USD 21.5 M|GREEKS|\n|KK MINERAL|45,429|2017 TSUNEISHI ZHOUSHAN|MAN B.",
       "keywords": [
         "lng",
         "lpg",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 4792,
+      "token_count": 2833,
       "section_type": "linked_pdf",
       "children": []
     }

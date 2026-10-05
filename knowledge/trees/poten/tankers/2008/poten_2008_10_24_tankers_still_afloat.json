@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_10_24_tankers_still_afloat__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_10_24_tankers_still_afloat",
+  "parent_id": null,
+  "title": "Tankers Still Afloat",
+  "section_path": [
+    "Tankers Still Afloat"
+  ],
+  "section_path_text": "Tankers Still Afloat",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Tankers Still Afloat\nThe shipping markets tend to ebb and flow with the health and cycles of the world economy and trade. While it is sometimes difficult to determine the root causes of the bursts in the market, a downward correction in freight rates can be felt quickly especially if there is a surplus of tonnage. Sudden changes in demand and consumption patterns can convert a well supplied market into one with a capacity glut to the detriment of shipowners.",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "container",
+    "meg",
+    "crude_oil",
+    "gas",
+    "demand",
+    "market.",
+    "q09",
+    "are",
+    "different",
+    "oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 604,
+  "source_path": "reports/poten/2008/poten_2008-10-24_tankers-still-afloat.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_10_24_tankers_still_afloat__s01_tankers_still_afloat",
+      "doc_id": "poten_tankers_no_date_poten_2008_10_24_tankers_still_afloat",
+      "parent_id": "poten_tankers_no_date_poten_2008_10_24_tankers_still_afloat__root",
+      "title": "Tankers Still Afloat",
+      "section_path": [
+        "Tankers Still Afloat"
+      ],
+      "section_path_text": "Tankers Still Afloat",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The shipping markets tend to ebb and flow with the health and cycles of the world economy and trade. While it is sometimes difficult to determine the root causes of the bursts in the market, a downward correction in freight rates can be felt quickly especially if there is a surplus of tonnage.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "container",
+        "meg",
+        "gas",
+        "can",
+        "far",
+        "one"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 175,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_10_24_tankers_still_afloat__s02_comparitive_freight_rates",
+      "doc_id": "poten_tankers_no_date_poten_2008_10_24_tankers_still_afloat",
+      "parent_id": "poten_tankers_no_date_poten_2008_10_24_tankers_still_afloat__root",
+      "title": "Comparitive Freight Rates",
+      "section_path": [
+        "Comparitive Freight Rates"
+      ],
+      "section_path_text": "Comparitive Freight Rates",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "It appears that dry bulk shipping has fallen victim to a few of the classic symptoms of a market bubble. Demand for dry bulk commodities grew creating congestion at ports with insufficient infrastructure.",
+      "keywords": [
+        "commodities",
+        "demand",
+        "different",
+        "market.",
+        "ships",
+        "add",
+        "among",
+        "appears"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 185,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_10_24_tankers_still_afloat__s03_key_driving_factors",
+      "doc_id": "poten_tankers_no_date_poten_2008_10_24_tankers_still_afloat",
+      "parent_id": "poten_tankers_no_date_poten_2008_10_24_tankers_still_afloat__root",
+      "title": "Key Driving Factors",
+      "section_path": [
+        "Key Driving Factors"
+      ],
+      "section_path_text": "Key Driving Factors",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Demand for oil continues to grow. Although demand figures have been revised downward recently due to the slowing global economy, analysts still expect growth in consumption to be between 300,000 to 600,000 barrels per day next year.",
+      "keywords": [
+        "crude_oil",
+        "demand",
+        "although",
+        "analysts",
+        "barrels",
+        "between",
+        "consumption",
+        "continues"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 46,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_10_24_tankers_still_afloat__s04_million_barrels_per_day",
+      "doc_id": "poten_tankers_no_date_poten_2008_10_24_tankers_still_afloat",
+      "parent_id": "poten_tankers_no_date_poten_2008_10_24_tankers_still_afloat__root",
+      "title": "Million Barrels Per Day",
+      "section_path": [
+        "Million Barrels Per Day"
+      ],
+      "section_path_text": "Million Barrels Per Day",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "2Q08 3Q08 4Q08 1Q09 2Q09 3Q09 4Q09 The oil market for the most part consists of blue-chip charterers with very few ships on time charter that are subsequently outchartered at higher rates. Hence the likelihood of a daisy chain of defaults is quite small.",
+      "keywords": [
+        "crude_oil",
+        "q09",
+        "are",
+        "q08",
+        "assets",
+        "companies",
+        "oil",
+        "acquisitions"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 176,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

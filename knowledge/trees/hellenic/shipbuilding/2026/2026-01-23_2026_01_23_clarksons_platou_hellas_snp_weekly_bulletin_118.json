@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2150,
-  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118.html",
+  "token_count": 2172,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-118",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nAnother active week on the tanker front, with a steady flow of transactions and ongoing negotiations\ntaking place across all vessel segments.",
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf\n\n### Clarkson Hellas Ltd. # Desk Talk\n\nAnother active week on the tanker front, with a steady flow of transactions and ongoing negotiations taking place across all vessel segments.",
       "keywords": [
         "panamax",
         "handysize",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1649,
+      "token_count": 1671,
       "section_type": "linked_pdf",
       "children": []
     }

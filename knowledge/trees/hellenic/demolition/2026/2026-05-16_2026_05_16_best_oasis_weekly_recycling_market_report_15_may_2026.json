@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 32,
+  "token_count": 1038,
   "source_path": "reports/hellenic/demolition/2026/2026-05-16_best-oasis-weekly-recycling-market-report-15-may-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-15-may-2026",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 30,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2026-05-16_2026_05_16_best_oasis_weekly_recycling_market_report_15_may_2026__s02_linked_asset_2026_05_16_best_oasis_weekly_recycling_market_report_15_may_2026_weekly_ship_recycling_report_09_may_09cbd4b6a3cd_pdf",
+      "doc_id": "hellenic_demolition_2026-05-16_2026_05_16_best_oasis_weekly_recycling_market_report_15_may_2026",
+      "parent_id": "hellenic_demolition_2026-05-16_2026_05_16_best_oasis_weekly_recycling_market_report_15_may_2026__root",
+      "title": "Linked asset: 2026-05-16_best-oasis-weekly-recycling-market-report-15-may-2026_weekly-ship-recycling-report-09-may-_09cbd4b6a3cd.pdf",
+      "section_path": [
+        "Linked asset: 2026-05-16_best-oasis-weekly-recycling-market-report-15-may-2026_weekly-ship-recycling-report-09-may-_09cbd4b6a3cd.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-05-16_best-oasis-weekly-recycling-market-report-15-may-2026_weekly-ship-recycling-report-09-may-_09cbd4b6a3cd.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2026-05-16_best-oasis-weekly-recycling-market-report-15-may-2026_weekly-ship-recycling-report-09-may-_09cbd4b6a3cd.pdf\n\n# WEEKLY SHIP RECYCLING REPORT\n\n## (09 MAY - 15 MAY) 2026\n\n## OUR OFFICES\n\n**Scan to view the Tide Table**\n\n**Head Office:** 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E **Contact**: +971 4575 4667 **Visit** : www.best-oasis.com **Email**: bol@bol.ae\n\n## MARKET SUMMARY\n\n## INDIA\n\nThe India market has softened this week, with sentiment under pressure due to the rising exchange rate and a more cautious economic outlook. Buyers remain less inclined to commit at current levels, as higher day-to-day costs, slower construction activity and weaker steel demand continue to affect overall buying appetite.",
+      "keywords": [
+        "container",
+        "brazil",
+        "india",
+        "steel",
+        "activity",
+        "remains",
+        "sentiment",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 957,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

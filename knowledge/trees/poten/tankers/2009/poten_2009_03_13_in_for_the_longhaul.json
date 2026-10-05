@@ -1,0 +1,216 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2009_03_13_in_for_the_longhaul__root",
+  "doc_id": "poten_tankers_no_date_poten_2009_03_13_in_for_the_longhaul",
+  "parent_id": null,
+  "title": "In For the Long‐Haul",
+  "section_path": [
+    "In For the Long‐Haul"
+  ],
+  "section_path_text": "In For the Long‐Haul",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "In For the Long‐Haul\nThe Organization of Petroleum Exporting Countries (OPEC) will hold their 152 nd meeting in Vienna, Austria on Sunday to discuss current market conditions and business strategy. Production cuts will no doubt top the agenda and moreover the necessity for countries to adhere to the quota. Many will be closely paying attention to the decisions made at the meeting ‐ specifically those in the tanker market.",
+  "keywords": [
+    "vlcc",
+    "brazil",
+    "atlantic",
+    "pacific",
+    "meg",
+    "europe",
+    "india",
+    "us_gulf",
+    "crude_oil",
+    "per",
+    "demand",
+    "barrels"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1097,
+  "source_path": "reports/poten/2009/poten_2009-03-13_in-for-the-longhaul.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_03_13_in_for_the_longhaul__s01_in_for_the_long_haul",
+      "doc_id": "poten_tankers_no_date_poten_2009_03_13_in_for_the_longhaul",
+      "parent_id": "poten_tankers_no_date_poten_2009_03_13_in_for_the_longhaul__root",
+      "title": "In For the Long‐Haul",
+      "section_path": [
+        "In For the Long‐Haul"
+      ],
+      "section_path_text": "In For the Long‐Haul",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Organization of Petroleum Exporting Countries (OPEC) will hold their 152 nd meeting in Vienna, Austria on Sunday to discuss current market conditions and business strategy. Production cuts will no doubt top the agenda and moreover the necessity for countries to adhere to the quota.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "crude_oil",
+        "barrels",
+        "million",
+        "per",
+        "production",
+        "day"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 265,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_03_13_in_for_the_longhaul__s02_arabian_gulf_liftings",
+      "doc_id": "poten_tankers_no_date_poten_2009_03_13_in_for_the_longhaul",
+      "parent_id": "poten_tankers_no_date_poten_2009_03_13_in_for_the_longhaul__root",
+      "title": "Arabian Gulf Liftings",
+      "section_path": [
+        "Arabian Gulf Liftings"
+      ],
+      "section_path_text": "Arabian Gulf Liftings",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "While the Arabian Gulf does not represent the entire OPEC pie, powerhouse producers Saudi Arabia, Kuwait and Iran can help set the tone for the tanker market. Saudi Arabia is the largest producer among the OPEC members and the latest IEA numbers reveal that November 2008 through January 2009 saw reduced production by 710,000 barrels per day; roughly one third of a full VLCC cargo per day.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "crude_oil",
+        "per",
+        "arabia",
+        "opec",
+        "roughly",
+        "saudi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 109,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_03_13_in_for_the_longhaul__s03_the_world_is_round",
+      "doc_id": "poten_tankers_no_date_poten_2009_03_13_in_for_the_longhaul",
+      "parent_id": "poten_tankers_no_date_poten_2009_03_13_in_for_the_longhaul__root",
+      "title": "The World is Round",
+      "section_path": [
+        "The World is Round"
+      ],
+      "section_path_text": "The World is Round",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "When comparing lower OPEC production levels to the decline in worldwide demand for crude oil, it appears there is a growing disconnect. Worldwide demand figures suggest declines of roughly 1 million barrels per day, far less then the volumes removed under the current quota ruling.",
+      "keywords": [
+        "vlcc",
+        "atlantic",
+        "pacific",
+        "meg",
+        "europe",
+        "india",
+        "crude_oil",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 350,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_03_13_in_for_the_longhaul__s04_shown_in_vlcc_equivalent_units",
+      "doc_id": "poten_tankers_no_date_poten_2009_03_13_in_for_the_longhaul",
+      "parent_id": "poten_tankers_no_date_poten_2009_03_13_in_for_the_longhaul__root",
+      "title": "Shown in VLCC Equivalent Units",
+      "section_path": [
+        "Shown in VLCC Equivalent Units"
+      ],
+      "section_path_text": "Shown in VLCC Equivalent Units",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "(M Bbls/day) 0.5 1 1.5 2 2.5 3 3.5 4 4.5 4.2",
+      "keywords": [
+        "bbls/day"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 38,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_03_13_in_for_the_longhaul__s05_cuts",
+      "doc_id": "poten_tankers_no_date_poten_2009_03_13_in_for_the_longhaul",
+      "parent_id": "poten_tankers_no_date_poten_2009_03_13_in_for_the_longhaul__root",
+      "title": "CUTS",
+      "section_path": [
+        "CUTS"
+      ],
+      "section_path_text": "CUTS",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "",
+      "keywords": [
+        "replacement"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_03_13_in_for_the_longhaul__s06_ag_far_east",
+      "doc_id": "poten_tankers_no_date_poten_2009_03_13_in_for_the_longhaul",
+      "parent_id": "poten_tankers_no_date_poten_2009_03_13_in_for_the_longhaul__root",
+      "title": "AG - Far East",
+      "section_path": [
+        "AG - Far East"
+      ],
+      "section_path_text": "AG - Far East",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "‐9 ‐17 ‐26 ‐35 ‐43 ‐52 ‐61 ‐69 ‐78 ‐73 AG - US Gulf ‐4 ‐9 ‐13 ‐18 ‐22 ‐27 ‐31 ‐36 ‐40 ‐38 Caribbean - Far East 4 7 11 15 19 22 26 30 34 31 EC South America - Far East 6 12 17 23 29 35 41 47 52 49 UK Continent - US Gulf 2 3 5 7 9 10 12 14 16 15 Mediterranean- US Gulf 2 5 7 9 11 14 16 18 21 19 Net Demand for VLCCs 0 1 1 2 2 3 3 4 4 4",
+      "keywords": [
+        "vlcc",
+        "europe",
+        "us_gulf",
+        "gulf",
+        "east",
+        "far",
+        "america",
+        "caribbean"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 188,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_03_13_in_for_the_longhaul__s07_repositioning",
+      "doc_id": "poten_tankers_no_date_poten_2009_03_13_in_for_the_longhaul",
+      "parent_id": "poten_tankers_no_date_poten_2009_03_13_in_for_the_longhaul__root",
+      "title": "Repositioning",
+      "section_path": [
+        "Repositioning"
+      ],
+      "section_path_text": "Repositioning",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Although the likelihood of finding millions of barrels per day of incremental crude from Non‐OPEC suppliers will be challenging there are some producer nations that seem in position to pitch in where the market allows. However, with floating storage still in the mix a few wild cards could swing the market at any point.",
+      "keywords": [
+        "crude_oil",
+        "crude",
+        "demand",
+        "allows.",
+        "although",
+        "any",
+        "are",
+        "barrels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 103,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

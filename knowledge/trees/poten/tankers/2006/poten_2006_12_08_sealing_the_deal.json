@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2006_12_08_sealing_the_deal__root",
+  "doc_id": "poten_tankers_no_date_poten_2006_12_08_sealing_the_deal",
+  "parent_id": null,
+  "title": "Sealing The Deal",
+  "section_path": [
+    "Sealing The Deal"
+  ],
+  "section_path_text": "Sealing The Deal",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Sealing The Deal\nThe significant increase in newbuilding tanker prices is well known. From $67.3 million in October of 2003, prices climbed rapidly over the next 18 months and have remained relatively steady at a price in the range of $128 million. With a strong orderbook for all vessel sectors, the market for newbuilding vessels does not appear to be losing momentum.",
+  "keywords": [
+    "vlcc",
+    "products",
+    "steel",
+    "are",
+    "vessel",
+    "coating",
+    "tanks",
+    "all",
+    "cargo",
+    "increased",
+    "ballast",
+    "imo"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 718,
+  "source_path": "reports/poten/2006/poten_2006-12-08_sealing-the-deal.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_12_08_sealing_the_deal__s01_sealing_the_deal",
+      "doc_id": "poten_tankers_no_date_poten_2006_12_08_sealing_the_deal",
+      "parent_id": "poten_tankers_no_date_poten_2006_12_08_sealing_the_deal__root",
+      "title": "Sealing The Deal",
+      "section_path": [
+        "Sealing The Deal"
+      ],
+      "section_path_text": "Sealing The Deal",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The significant increase in newbuilding tanker prices is well known. From $67.3 million in October of 2003, prices climbed rapidly over the next 18 months and have remained relatively steady at a price in the range of $128 million.",
+      "keywords": [
+        "vlcc",
+        "prices",
+        "newbuilding",
+        "vessel",
+        "all",
+        "appear",
+        "are",
+        "assessed"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 125,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_12_08_sealing_the_deal__s02_ratio",
+      "doc_id": "poten_tankers_no_date_poten_2006_12_08_sealing_the_deal",
+      "parent_id": "poten_tankers_no_date_poten_2006_12_08_sealing_the_deal__root",
+      "title": "Ratio",
+      "section_path": [
+        "Ratio"
+      ],
+      "section_path_text": "Ratio",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "VLCC Newbuilding VLCC Second Hand Most industry people are familiar with the International Maritime Organization's (IMO) regulations regarding the phase-out of non- double hulled tankers. This phase-out regulation has led to increased ordering at shipyards, but there are several other initiatives that may further increase the price of tankers or keep them at present levels.",
+      "keywords": [
+        "vlcc",
+        "steel",
+        "are",
+        "vessel",
+        "regulatory",
+        "designed",
+        "increased",
+        "other"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 186,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_12_08_sealing_the_deal__s03_a_primer_for_coatings",
+      "doc_id": "poten_tankers_no_date_poten_2006_12_08_sealing_the_deal",
+      "parent_id": "poten_tankers_no_date_poten_2006_12_08_sealing_the_deal__root",
+      "title": "A Primer for Coatings",
+      "section_path": [
+        "A Primer for Coatings"
+      ],
+      "section_path_text": "A Primer for Coatings",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Protective coatings have traditionally been applied to cargo tanks in vessels that are designed to carry clean products. The newbuilding market is seeing increased interest on coating larger vessels.",
+      "keywords": [
+        "products",
+        "coating",
+        "tanks",
+        "are",
+        "cargo",
+        "all",
+        "ballast",
+        "imo"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 394,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

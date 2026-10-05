@@ -11,6 +11,7 @@ commodities:
 date: '2026-01-28'
 doc_id: breakwave_insights_insights_2026-01-28_2026_01_28_energy_markets_on_edge_amid_supply_risks
 document_type: insights_note
+is_error_page: false
 key_entities:
 - China
 - Brazil
@@ -31,12 +32,12 @@ keywords:
 - asset
 - image
 linked_assets_discovered: 5
-linked_assets_failed: 1
+linked_assets_failed: 0
 linked_assets_ingested: 2
-linked_assets_mirrored: 3
-linked_assets_skipped: 2
+linked_assets_mirrored: 2
+linked_assets_skipped: 3
 market_tone: neutral
-numeric_observation_count: 44
+numeric_observation_count: 45
 numeric_observations:
 - section: Main
   section_type: null
@@ -50,9 +51,20 @@ numeric_observations:
   - 2026.0
   - -1.0
   - -28.0
-  - 4.0
-  - 4.0
-  - 5.0
+  - 3.0
+  - 84.0
+  - 9.0
+- section: Market Commentary
+  section_type: null
+  source_line: Gold pushed higher, consolidating gains above USD5,000/oz, as investors
+    look ahead to the upcoming Fed rate decision. A pause after three consecutive
+    cuts remains the consensus view, however data overnight provide some reasons why
+    we don't expect an extended p
+  unit: usd
+  values:
+  - 5000.0
+  - 40.0
+  - 2.0
 - section: Market Commentary
   section_type: null
   source_line: Copper was under pressure in Asian trading, as the USD steadied. Sentiment
@@ -108,9 +120,9 @@ numeric_observations:
   - 2026.0
   - -1.0
   - -28.0
-  - 4.0
-  - 4.0
-  - 5.0
+  - 3.0
+  - 84.0
+  - 9.0
 - section: 'Linked asset: 2026-01-28_energy-markets-on-edge-amid-supply-risks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33f4e92a0cdf.png'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2026-01-28_energy-markets-on-edge-amid-supply-risks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33f4e92a0cdf.png'
@@ -119,18 +131,20 @@ numeric_observations:
   - 2026.0
   - -1.0
   - -28.0
-  - 4.0
-  - 4.0
-  - 5.0
-  - 33.0
-  - 2.0
+  - 3.0
+  - 84.0
+  - 9.0
+  - 3.0
+  - 9.0
+  - 8.0
+  - 84.0
 - section: 'Linked asset: 2026-01-28_energy-markets-on-edge-amid-supply-risks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33f4e92a0cdf.png'
   section_type: linked_image_asset
   source_line: 'Image metadata: PNG 853x599 mode=RGBA'
   unit: null
   values:
   - 853.0
-  - 99.0
+  - 599.0
 - section: 'Linked asset: 2026-01-28_energy-markets-on-edge-amid-supply-risks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33f4e92a0cdf.png'
   section_type: linked_image_asset
   source_line: 'dpi: (95.9866, 95.9866)'
@@ -189,7 +203,7 @@ numeric_observations:
   unit: null
   values:
   - 236.5
-  - 50.0
+  - 850.0
 - section: 'Linked asset: 2026-01-28_energy-markets-on-edge-amid-supply-risks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33f4e92a0cdf.png'
   section_type: linked_image_asset
   source_line: Gold $/oz 5,159.6 uso/ee -_
@@ -253,7 +267,7 @@ numeric_observations:
   source_line: accu s74 awe | ppg [SY
   unit: null
   values:
-  - 4.0
+  - 74.0
 - section: 'Linked asset: 2026-01-28_energy-markets-on-edge-amid-supply-risks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33f4e92a0cdf.png'
   section_type: linked_image_asset
   source_line: Nz 57.1 non 0440 Se aE Tw SN Eww
@@ -286,18 +300,20 @@ numeric_observations:
   - 2026.0
   - -1.0
   - -28.0
-  - 4.0
-  - 4.0
-  - 5.0
+  - 3.0
+  - 84.0
+  - 9.0
+  - 3.0
+  - 9.0
   - 8.0
-  - 5.0
+  - 84.0
 - section: 'Linked asset: 2026-01-28_energy-markets-on-edge-amid-supply-risks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_08d95f8e0d30.png'
   section_type: linked_image_asset
   source_line: 'Image metadata: PNG 878x495 mode=RGBA'
   unit: null
   values:
   - 878.0
-  - 95.0
+  - 495.0
 - section: 'Linked asset: 2026-01-28_energy-markets-on-edge-amid-supply-risks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_08d95f8e0d30.png'
   section_type: linked_image_asset
   source_line: 'dpi: (95.9866, 95.9866)'

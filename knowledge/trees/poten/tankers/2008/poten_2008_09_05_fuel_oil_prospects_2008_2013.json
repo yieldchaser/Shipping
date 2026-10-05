@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_09_05_fuel_oil_prospects_2008_2013__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_09_05_fuel_oil_prospects_2008_2013",
+  "parent_id": null,
+  "title": "Fuel Oil Prospects 2008-2013",
+  "section_path": [
+    "Fuel Oil Prospects 2008-2013"
+  ],
+  "section_path_text": "Fuel Oil Prospects 2008-2013",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "A Mid-Term Outlook\nThe fuel oil industry will continue its pace of fast-changing developments. Fuel oil, \"the bottom of the barrel product\", has experienced supply swings reflecting the offsetting effects of heavier crude slates and refinery upgrades which favor production of lighter and more profitable petroleum products. At the same time, residual fuel is experiencing a rapid increase in consumption by the marine industry and a decline in consumption by the electricity and manufacturing industries.",
+  "keywords": [
+    "crude_oil",
+    "products",
+    "fuel",
+    "oil",
+    "marine",
+    "outlook",
+    "residual",
+    "consumption",
+    "increase",
+    "increasing",
+    "july",
+    "market."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 344,
+  "source_path": "reports/poten/2008/poten_2008-09-05_fuel-oil-prospects-2008-2013.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_09_05_fuel_oil_prospects_2008_2013__s01_a_mid_term_outlook",
+      "doc_id": "poten_tankers_no_date_poten_2008_09_05_fuel_oil_prospects_2008_2013",
+      "parent_id": "poten_tankers_no_date_poten_2008_09_05_fuel_oil_prospects_2008_2013__root",
+      "title": "A Mid-Term Outlook",
+      "section_path": [
+        "A Mid-Term Outlook"
+      ],
+      "section_path_text": "A Mid-Term Outlook",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The fuel oil industry will continue its pace of fast-changing developments. Fuel oil, \"the bottom of the barrel product\", has experienced supply swings reflecting the offsetting effects of heavier crude slates and refinery upgrades which favor production of lighter and more profitable petroleum products.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "fuel",
+        "oil",
+        "consumption",
+        "increase",
+        "increasing",
+        "activity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 132,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_09_05_fuel_oil_prospects_2008_2013__s02_july_2003_july_2008",
+      "doc_id": "poten_tankers_no_date_poten_2008_09_05_fuel_oil_prospects_2008_2013",
+      "parent_id": "poten_tankers_no_date_poten_2008_09_05_fuel_oil_prospects_2008_2013__root",
+      "title": "July 2003 - July 2008",
+      "section_path": [
+        "July 2003 - July 2008"
+      ],
+      "section_path_text": "July 2003 - July 2008",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "comprehensive and thoroughly researched review and outlook for the fuel oil market. Fuel Oil Prospects 2008-2013 explores the key issues facing residual fuel industry professionals today.",
+      "keywords": [
+        "crude_oil",
+        "fuel",
+        "oil",
+        "marine",
+        "market.",
+        "outlook",
+        "publication",
+        "refining"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 196,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nIn tankers this week, MOL announced ordering two firm 309k dwt VLCC's at Dalian COSCO KHI (DACKs)\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 26 August 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S46ME-B8.5\nFW ADVENTURER 34,487 2019 HAKODATE SS 01/24\n4 x 30 T, Logs fitted USD 28.3 M GREEKS\nDD 01/24\nBWTS fitted\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 7S60MC6.1 SS 03/23\nIMPERIA 114,849 2006 SAMSUNG USD 32 M U/D\nIce Class 1A, BWTS fitted DD 03/23\nMAN B.",
+  "summary": "Main\nIn tankers this week, MOL announced ordering two firm 309k dwt VLCC's at Dalian COSCO KHI (DACKs)\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin26 August 2022\n\n# Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n||||MAN B. 6S46ME-B8.5||||\n|FW ADVENTURER|34,487|2019 HAKODATE|4 x 30 T, Logs fitted BWTS fitted|SS 01/24 DD 01/24|USD 28.3 M|GREEKS|\n\n# Tankers - Chemicals - LPG/LNGs\n\n### Vessel DWT Built Details SS/DD Price Buyer\n\n**IMPERIA** 114,849 2006 SAMSUNG IMAN B. 7S60MC6.1 ce Class 1A, BWTS fitted DD 03/23 SS 03/23 USD 32 M U/D\n\nMAN B.",
   "keywords": [
     "handysize",
     "vlcc",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1984,
-  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33.html",
+  "token_count": 2053,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-33",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 26 August 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S46ME-B8.5\nFW ADVENTURER 34,487 2019 HAKODATE SS 01/24\n4 x 30 T, Logs fitted USD 28.3 M GREEKS\nDD 01/24\nBWTS fitted\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\nMAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin26 August 2022\n\n# Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n||||MAN B. 6S46ME-B8.5||||\n|FW ADVENTURER|34,487|2019 HAKODATE|4 x 30 T, Logs fitted BWTS fitted|SS 01/24 DD 01/24|USD 28.3 M|GREEKS|\n\n# Tankers - Chemicals - LPG/LNGs\n\n### Vessel DWT Built Details SS/DD Price Buyer\n\n**IMPERIA** 114,849 2006 SAMSUNG IMAN B.",
       "keywords": [
         "handysize",
         "vlcc",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1893,
+      "token_count": 1962,
       "section_type": "linked_pdf",
       "children": []
     }

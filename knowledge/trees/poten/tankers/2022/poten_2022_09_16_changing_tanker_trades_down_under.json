@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2022_09_16_changing_tanker_trades_down_under__root",
+  "doc_id": "poten_tankers_no_date_poten_2022_09_16_changing_tanker_trades_down_under",
+  "parent_id": null,
+  "title": "Changing Tanker Trades Down Under",
+  "section_path": [
+    "Changing Tanker Trades Down Under"
+  ],
+  "section_path_text": "Changing Tanker Trades Down Under",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The impact of refinery closures in Australia and New Zealand\nAustralia and New Zealand are a case study of how quickly circumstances can change in the oil markets. Prior to the pandemic, smaller, older and less sophisticated refineries in both countries were already being squeezed by large-scale export-oriented refineries throughout the Middle East and Asia. The continued growth of these facilities created oversupply and low refining margins in the region.",
+  "keywords": [
+    "panamax",
+    "suezmax",
+    "aframax",
+    "china",
+    "australia",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "crude_oil",
+    "products",
+    "gas"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 853,
+  "source_path": "reports/poten/2022/poten_2022-09-16_changing-tanker-trades-down-under.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_09_16_changing_tanker_trades_down_under__s01_the_impact_of_refinery_closures_in_australia_and_new_zealand",
+      "doc_id": "poten_tankers_no_date_poten_2022_09_16_changing_tanker_trades_down_under",
+      "parent_id": "poten_tankers_no_date_poten_2022_09_16_changing_tanker_trades_down_under__root",
+      "title": "The impact of refinery closures in Australia and New Zealand",
+      "section_path": [
+        "The impact of refinery closures in Australia and New Zealand"
+      ],
+      "section_path_text": "The impact of refinery closures in Australia and New Zealand",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Australia and New Zealand are a case study of how quickly circumstances can change in the oil markets. Prior to the pandemic, smaller, older and less sophisticated refineries in both countries were already being squeezed by large-scale export-oriented refineries throughout the Middle East and Asia.",
+      "keywords": [
+        "panamax",
+        "suezmax",
+        "aframax",
+        "china",
+        "australia",
+        "europe",
+        "india",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 842,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

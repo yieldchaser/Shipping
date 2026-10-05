@@ -9,7 +9,7 @@
   "section_path_text": "MMi Daily Iron Ore Index Report August 03 2021",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Chinese iron ore and steelmaking prices 03/08/2021\nAccording to data tracked by SMM, 74 ships arrived at domestic main ports from July 25-31. Arrivals of cargoes are estimated to stand at 11.85million mt, down 130,000 mt from the previous week, and a decrease of 3.11 million mt from the same period last year. Shipments that departed Australian ports were estimated to decrease 170,000 mt week on week to 16.53 million mt, and that from Brazilian ports increased 670,000 million mt to 7.79 million mt on a weekly basis, up 14.1 million mt on the year.",
+  "summary": "Main\nAccording to data tracked by SMM, 74 ships arrived at domestic main ports from July 25-31. Arrivals of cargoes are estimated to stand at 11.85million mt, down 130,000 mt from the previous week, and a decrease of 3.11 million mt from the same period last year. Shipments that departed Australian ports were estimated to decrease 170,000 mt week on week to 16.53 million mt, and that from Brazilian ports increased 670,000 million mt to 7.79 million mt on a weekly basis, up 14.1 million mt on the year.",
   "keywords": [
     "china",
     "brazil",
@@ -20,14 +20,14 @@
     "steel",
     "cid",
     "fines",
+    "change",
     "aug",
-    "high",
-    "change"
+    "qingdao"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 33545,
-  "source_path": "corpus/02-hellenic/iron_ore/2021/2021-08-03_mmi-daily-iron-ore-index-report-august-03-2021.html",
+  "token_count": 34696,
+  "source_path": "reports/hellenic/iron_ore/2021/2021-08-03_mmi-daily-iron-ore-index-report-august-03-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-august-03-2021",
   "children": [
     {
@@ -97,20 +97,20 @@
       "section_path_text": "Linked asset: 2021-08-03_mmi-daily-iron-ore-index-report-august-03-2021_img1_0308chinesed1_8cd828d2b883.jpg",
       "level": 1,
       "ordinal": 3,
-      "summary": "Source asset: corpus/02-hellenic/iron_ore/2021/assets/2021-08-03_mmi-daily-iron-ore-index-report-august-03-2021_img1_0308chinesed1_8cd828d2b883.jpg\n\nLinked image asset: 2021-08-03_mmi-daily-iron-ore-index-report-august-03-2021_img1_0308chinesed1_8cd828d2b883.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nMMi Daily Iron Ore Index Report | Aug 3rd, 2021\nIRON ORE PORT STOCK INDEX (IOP!)\nAug 3rd, 2021 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc.",
+      "summary": "Source asset: corpus/02-hellenic/iron_ore/2021/assets/2021-08-03_mmi-daily-iron-ore-index-report-august-03-2021_img1_0308chinesed1_8cd828d2b883.jpg\n\nLinked image asset: 2021-08-03_mmi-daily-iron-ore-index-report-august-03-2021_img1_0308chinesed1_8cd828d2b883.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\n[structured table]\n| MMi | Daily Iron | Ore Index | Report | | | | \\| | | | Aug 3rd, 2021 | | |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| | | | | | | IRON ORE | PORT | STOCK INDEX | (IOP!) | | | |\n| Aug 3rd, | 2021 | | FOT | Qingdao (inc. | 13% VAT), | RMB/wet | tonne | | | CFR Qingdao Equivalent (exc.",
       "keywords": [
         "china",
         "brazil",
         "australia",
         "iron_ore",
+        "steel",
         "change",
         "ore",
-        "low",
-        "price"
+        "low"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1031,
+      "token_count": 2182,
       "section_type": "linked_image_asset",
       "children": []
     }

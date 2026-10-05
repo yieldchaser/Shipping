@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2018_03_02_navigating_uncertainty__root",
+  "doc_id": "poten_tankers_no_date_poten_2018_03_02_navigating_uncertainty",
+  "parent_id": null,
+  "title": "Navigating Uncertainty",
+  "section_path": [
+    "Navigating Uncertainty"
+  ],
+  "section_path_text": "Navigating Uncertainty",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The potential impact of geopolitics has increased\nBack in 2014, when oil prices were well above $100 per barrel, analysts regularly talked about a geopolitical \"risk premium\" to explain the high oil prices. The theory is that geopolitical tensions, in particular those in oil producing countries or regions, can raise fears of supply shortages and push oil prices higher. However, since the oil price collapse in 2014, the market has been awash in oil and the impact of geopolitical events on the oil markets has been muted.",
+  "keywords": [
+    "china",
+    "europe",
+    "crude_oil",
+    "products",
+    "oil",
+    "production",
+    "opec",
+    "u.s.",
+    "are",
+    "exports",
+    "b/d",
+    "impact"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 839,
+  "source_path": "reports/poten/2018/poten_2018-03-02_navigating-uncertainty.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_03_02_navigating_uncertainty__s01_the_potential_impact_of_geopolitics_has_increased",
+      "doc_id": "poten_tankers_no_date_poten_2018_03_02_navigating_uncertainty",
+      "parent_id": "poten_tankers_no_date_poten_2018_03_02_navigating_uncertainty__root",
+      "title": "The potential impact of geopolitics has increased",
+      "section_path": [
+        "The potential impact of geopolitics has increased"
+      ],
+      "section_path_text": "The potential impact of geopolitics has increased",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Back in 2014, when oil prices were well above $100 per barrel, analysts regularly talked about a geopolitical \"risk premium\" to explain the high oil prices. The theory is that geopolitical tensions, in particular those in oil producing countries or regions, can raise fears of supply shortages and push oil prices higher.",
+      "keywords": [
+        "china",
+        "europe",
+        "crude_oil",
+        "products",
+        "oil",
+        "production",
+        "opec",
+        "u.s."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 830,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

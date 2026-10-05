@@ -1,0 +1,196 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_09_23_katrina_rita_the_one_two_punch__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_09_23_katrina_rita_the_one_two_punch",
+  "parent_id": null,
+  "title": "Katrina-Rita The One-Two Punch",
+  "section_path": [
+    "Katrina-Rita The One-Two Punch"
+  ],
+  "section_path_text": "Katrina-Rita The One-Two Punch",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Katrina-Rita\nThe One-Two Punch Rita is expected to make landfall tomorrow morning in Texas and Louisiana delivering a one-two punch to the nation's most important oil producing and refining region. The impact of Katrina on oil production and refining is well- known; here we speculate on Rita's potential impact on U.S. Gulf production, refining, and tanker demand.",
+  "keywords": [
+    "vlcc",
+    "meg",
+    "crude_oil",
+    "gas",
+    "gulf",
+    "production",
+    "u.s.",
+    "crude",
+    "katrina",
+    "oil",
+    "refineries",
+    "rita"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 811,
+  "source_path": "reports/poten/2005/poten_2005-09-23_katrina-rita-the-one-two-punch.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_09_23_katrina_rita_the_one_two_punch__s01_katrina_rita",
+      "doc_id": "poten_tankers_no_date_poten_2005_09_23_katrina_rita_the_one_two_punch",
+      "parent_id": "poten_tankers_no_date_poten_2005_09_23_katrina_rita_the_one_two_punch__root",
+      "title": "Katrina-Rita",
+      "section_path": [
+        "Katrina-Rita"
+      ],
+      "section_path_text": "Katrina-Rita",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The One-Two Punch Rita is expected to make landfall tomorrow morning in Texas and Louisiana delivering a one-two punch to the nation's most important oil producing and refining region. The impact of Katrina on oil production and refining is well- known; here we speculate on Rita's potential impact on U.S.",
+      "keywords": [
+        "crude_oil",
+        "refining",
+        "impact",
+        "oil",
+        "one-two",
+        "production",
+        "punch",
+        "rita"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 70,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_09_23_katrina_rita_the_one_two_punch__s02_u_s_gulf",
+      "doc_id": "poten_tankers_no_date_poten_2005_09_23_katrina_rita_the_one_two_punch",
+      "parent_id": "poten_tankers_no_date_poten_2005_09_23_katrina_rita_the_one_two_punch__root",
+      "title": "U.S. Gulf",
+      "section_path": [
+        "U.S. Gulf"
+      ],
+      "section_path_text": "U.S. Gulf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "total",
+        "u.s."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_09_23_katrina_rita_the_one_two_punch__s03_crude_production",
+      "doc_id": "poten_tankers_no_date_poten_2005_09_23_katrina_rita_the_one_two_punch",
+      "parent_id": "poten_tankers_no_date_poten_2005_09_23_katrina_rita_the_one_two_punch__root",
+      "title": "Crude Production",
+      "section_path": [
+        "Crude Production"
+      ],
+      "section_path_text": "Crude Production",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Crude Imports Refinery Capacity 0 PAD District 3 encompasses the states of Alabama, Arkansas, Louisiana, Mississippi, New Mexico and Texas. As the above chart shows, the U.S.",
+      "keywords": [
+        "crude_oil",
+        "gas",
+        "crude",
+        "oil",
+        "are",
+        "district",
+        "imports",
+        "liquids"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 135,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_09_23_katrina_rita_the_one_two_punch__s04_u_s_gulf_production_shut_in",
+      "doc_id": "poten_tankers_no_date_poten_2005_09_23_katrina_rita_the_one_two_punch",
+      "parent_id": "poten_tankers_no_date_poten_2005_09_23_katrina_rita_the_one_two_punch__root",
+      "title": "U.S. Gulf Production Shut-in",
+      "section_path": [
+        "U.S. Gulf Production Shut-in"
+      ],
+      "section_path_text": "U.S. Gulf Production Shut-in",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Hurricane damage and precautionary platform and rig evacuations have reduced U.S. Gulf production to 7/8th of 1% of its pre-Katrina levels: 99.125% of Gulf production is shut-in.",
+      "keywords": [
+        "gulf",
+        "production",
+        "u.s.",
+        "katrina",
+        "reduced",
+        "already",
+        "are",
+        "august"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 134,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_09_23_katrina_rita_the_one_two_punch__s05_refinery_problems",
+      "doc_id": "poten_tankers_no_date_poten_2005_09_23_katrina_rita_the_one_two_punch",
+      "parent_id": "poten_tankers_no_date_poten_2005_09_23_katrina_rita_the_one_two_punch__root",
+      "title": "Refinery Problems",
+      "section_path": [
+        "Refinery Problems"
+      ],
+      "section_path_text": "Refinery Problems",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Will refineries miss this crude supply shortfall? Current conservative estimates show pre-cautionary refinery shutdowns in Texas and Louisiana at 3.1 million bpd of refining capacity.",
+      "keywords": [
+        "crude",
+        "houston",
+        "loop",
+        "refineries",
+        "back",
+        "bpd",
+        "gulf",
+        "may"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 195,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_09_23_katrina_rita_the_one_two_punch__s06_effects_on_vlcc_supply",
+      "doc_id": "poten_tankers_no_date_poten_2005_09_23_katrina_rita_the_one_two_punch",
+      "parent_id": "poten_tankers_no_date_poten_2005_09_23_katrina_rita_the_one_two_punch__root",
+      "title": "Effects on VLCC Supply",
+      "section_path": [
+        "Effects on VLCC Supply"
+      ],
+      "section_path_text": "Effects on VLCC Supply",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Focusing on VLCCs, approximately 2 million bpd of crude cannot be discharged in the U.S. Gulf because of hurricane related delays.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "gulf",
+        "means",
+        "u.s.",
+        "vlccs",
+        "charterers",
+        "floating"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 241,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

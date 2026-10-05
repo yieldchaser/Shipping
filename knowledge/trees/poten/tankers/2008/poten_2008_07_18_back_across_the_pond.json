@@ -1,0 +1,174 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_07_18_back_across_the_pond__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_07_18_back_across_the_pond",
+  "parent_id": null,
+  "title": "Back Across The Pond",
+  "section_path": [
+    "Back Across The Pond"
+  ],
+  "section_path_text": "Back Across The Pond",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Back Across The Pond\nThe clean product tanker market has become increasingly complex. New trade routes continue to crop up as traders work quickly to capitalize on available price arbitrage opportunities that arise in the commodity markets. Although regional supply and demand trends contribute to overall price levels, discrepancies in prices between regions are the result of many forces.",
+  "keywords": [
+    "atlantic",
+    "europe",
+    "products",
+    "diesel",
+    "per",
+    "price",
+    "chart",
+    "states",
+    "ton",
+    "trade",
+    "united",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 526,
+  "source_path": "reports/poten/2008/poten_2008-07-18_back-across-the-pond.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_07_18_back_across_the_pond__s01_back_across_the_pond",
+      "doc_id": "poten_tankers_no_date_poten_2008_07_18_back_across_the_pond",
+      "parent_id": "poten_tankers_no_date_poten_2008_07_18_back_across_the_pond__root",
+      "title": "Back Across The Pond",
+      "section_path": [
+        "Back Across The Pond"
+      ],
+      "section_path_text": "Back Across The Pond",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The clean product tanker market has become increasingly complex. New trade routes continue to crop up as traders work quickly to capitalize on available price arbitrage opportunities that arise in the commodity markets.",
+      "keywords": [
+        "europe",
+        "products",
+        "trade",
+        "activity",
+        "although",
+        "compared",
+        "price",
+        "reported"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 161,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_07_18_back_across_the_pond__s02_fixture_count",
+      "doc_id": "poten_tankers_no_date_poten_2008_07_18_back_across_the_pond",
+      "parent_id": "poten_tankers_no_date_poten_2008_07_18_back_across_the_pond__root",
+      "title": "Fixture Count",
+      "section_path": [
+        "Fixture Count"
+      ],
+      "section_path_text": "Fixture Count",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "It can be expected that a small number of movements will take place regardless of the arbitrage due to system requirements within companies, yet the marked increase in volumes during the past three months indicates that larger pricing pressures may be in play. The chart below shows the relative prices for Ultra-Low Sulfur Diesel (ULSD) in the United States (New York) and Europe (Amsterdam-Rotterdam- Antwerp).",
+      "keywords": [
+        "europe",
+        "products",
+        "amsterdam-rotterdam",
+        "antwerp",
+        "arbitrage",
+        "below",
+        "can",
+        "chart"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 85,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_07_18_back_across_the_pond__s03_chart_ulsd_europe_vs_ulsd_united_states",
+      "doc_id": "poten_tankers_no_date_poten_2008_07_18_back_across_the_pond",
+      "parent_id": "poten_tankers_no_date_poten_2008_07_18_back_across_the_pond__root",
+      "title": "Chart: ULSD Europe vs. ULSD United States",
+      "section_path": [
+        "Chart: ULSD Europe vs. ULSD United States"
+      ],
+      "section_path_text": "Chart: ULSD Europe vs. ULSD United States",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Data points in positive territory are a signal to move less expensive product from the United States into a higher priced European market. For the majority of the 2008, the market has seen this type of structure to varying degrees.",
+      "keywords": [
+        "europe",
+        "are",
+        "data",
+        "degrees.",
+        "european",
+        "expensive",
+        "higher",
+        "less"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 45,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_07_18_back_across_the_pond__s04_freight_factors",
+      "doc_id": "poten_tankers_no_date_poten_2008_07_18_back_across_the_pond",
+      "parent_id": "poten_tankers_no_date_poten_2008_07_18_back_across_the_pond__root",
+      "title": "Freight Factors",
+      "section_path": [
+        "Freight Factors"
+      ],
+      "section_path_text": "Freight Factors",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Traders must weigh the anticipated price spread made on the transfer of the cargo in the context of the current freight environment. Rates have been on the rise in the USA - UK Continent market for the past several months based on actual fixture activity.",
+      "keywords": [
+        "europe",
+        "per",
+        "ton",
+        "average",
+        "activity.",
+        "actual",
+        "anticipated",
+        "april"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 117,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_07_18_back_across_the_pond__s05_transportation_mt",
+      "doc_id": "poten_tankers_no_date_poten_2008_07_18_back_across_the_pond",
+      "parent_id": "poten_tankers_no_date_poten_2008_07_18_back_across_the_pond__root",
+      "title": "Transportation ($/MT)",
+      "section_path": [
+        "Transportation ($/MT)"
+      ],
+      "section_path_text": "Transportation ($/MT)",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "In the current environment, the difference in price of the diesel is approximately $70 per ton and the transportation costs for the trade are around $30 per ton. As long as diesel's delivered price in Europe pays its freight costs and adequately rewards traders for their risk, available cargoes will likely continue to flow trans-Atlantic.",
+      "keywords": [
+        "atlantic",
+        "europe",
+        "products",
+        "diesel",
+        "costs",
+        "demand",
+        "likely",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 88,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

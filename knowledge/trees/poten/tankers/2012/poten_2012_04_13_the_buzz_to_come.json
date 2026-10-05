@@ -1,0 +1,142 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2012_04_13_the_buzz_to_come__root",
+  "doc_id": "poten_tankers_no_date_poten_2012_04_13_the_buzz_to_come",
+  "parent_id": null,
+  "title": "The Buzz to Come",
+  "section_path": [
+    "The Buzz to Come"
+  ],
+  "section_path_text": "The Buzz to Come",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Buzz to Come\nTo stop the United States' gasoline production crashing into the 10% ethanol blending wall, the US Environmental Protection Agency (EPA) recently swerved and approved registrations for blends with up to 15 percent of the diluent. While owners of older model vehicles and other internal combustion engines might harbor concerns that use of E15 gasoline might transform their prized possessions into roadside trash, the EPA does not. Elaborate procedures have been formulated by parties-at-interest to prevent the real world miss-fueling and this seems to be enough assurance for the Agency.",
+  "keywords": [
+    "us_gulf",
+    "grain",
+    "crude_oil",
+    "products",
+    "gas",
+    "gasoline",
+    "ethanol",
+    "oil",
+    "e15",
+    "refineries",
+    "percent",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 723,
+  "source_path": "reports/poten/2012/poten_2012-04-13_the-buzz-to-come.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_04_13_the_buzz_to_come__s01_the_buzz_to_come",
+      "doc_id": "poten_tankers_no_date_poten_2012_04_13_the_buzz_to_come",
+      "parent_id": "poten_tankers_no_date_poten_2012_04_13_the_buzz_to_come__root",
+      "title": "The Buzz to Come",
+      "section_path": [
+        "The Buzz to Come"
+      ],
+      "section_path_text": "The Buzz to Come",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "To stop the United States' gasoline production crashing into the 10% ethanol blending wall, the US Environmental Protection Agency (EPA) recently swerved and approved registrations for blends with up to 15 percent of the diluent. While owners of older model vehicles and other internal combustion engines might harbor concerns that use of E15 gasoline might transform their prized possessions into roadside trash, the EPA does not.",
+      "keywords": [
+        "grain",
+        "products",
+        "gas",
+        "gasoline",
+        "ethanol",
+        "epa",
+        "mandated",
+        "other"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 226,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_04_13_the_buzz_to_come__s02_percent_ethanol_in_gasoline",
+      "doc_id": "poten_tankers_no_date_poten_2012_04_13_the_buzz_to_come",
+      "parent_id": "poten_tankers_no_date_poten_2012_04_13_the_buzz_to_come__root",
+      "title": "Percent Ethanol in Gasoline",
+      "section_path": [
+        "Percent Ethanol in Gasoline"
+      ],
+      "section_path_text": "Percent Ethanol in Gasoline",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Ever quick to claim that E15 gasoline will add to ethanol's role in trimming the US dependency on foreign oil, the Renewable Fuels Association (RFA) ignores the real reduction in imports due to burgeoning domestic oil production and dwindling US gasoline demand. Notwithstanding the exaggerated theatrics of ethanol promoters, tanker owners are bound to wonder what, if any, impact the acceptance of E15 gasoline by consumers could have on international oil trade flows - especially those into and out of the US.",
+      "keywords": [
+        "us_gulf",
+        "crude_oil",
+        "products",
+        "gas",
+        "oil",
+        "gasoline",
+        "refineries",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 232,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_04_13_the_buzz_to_come__s03_total_feed_to_refineries",
+      "doc_id": "poten_tankers_no_date_poten_2012_04_13_the_buzz_to_come",
+      "parent_id": "poten_tankers_no_date_poten_2012_04_13_the_buzz_to_come__root",
+      "title": "Total Feed to Refineries",
+      "section_path": [
+        "Total Feed to Refineries"
+      ],
+      "section_path_text": "Total Feed to Refineries",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "gas",
+        "mogas",
+        "produced",
+        "refinery"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_04_13_the_buzz_to_come__s04_refinery_distillate_produced",
+      "doc_id": "poten_tankers_no_date_poten_2012_04_13_the_buzz_to_come",
+      "parent_id": "poten_tankers_no_date_poten_2012_04_13_the_buzz_to_come__root",
+      "title": "Refinery Distillate Produced",
+      "section_path": [
+        "Refinery Distillate Produced"
+      ],
+      "section_path_text": "Refinery Distillate Produced",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Total Mogas & Distillate The EPA's goal is to disperse E15 gasoline from 10,000 stations to vehicles they deemed safe to use this fuel by 2017. Representing less than 10 percent of country's retail outlets, the planned E15 gasoline pumps should not make noticeable ripples through tanker markets.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "gasoline",
+        "ethanol",
+        "oil",
+        "along",
+        "coast"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 233,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

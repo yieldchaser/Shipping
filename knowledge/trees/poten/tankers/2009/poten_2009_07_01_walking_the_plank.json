@@ -1,0 +1,171 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2009_07_01_walking_the_plank__root",
+  "doc_id": "poten_tankers_no_date_poten_2009_07_01_walking_the_plank",
+  "parent_id": null,
+  "title": "Walking The Plank",
+  "section_path": [
+    "Walking The Plank"
+  ],
+  "section_path_text": "Walking The Plank",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Walking The Plank\nAs we have been painfully aware for several months, piracy off the coast of Somalia has been on the rise since 2007 and it poses an increasing effect to the shipping industry. With the Somalian government too shaky to take effective measures, the onus has fallen upon other governments and the shipping industry itself. But questions remain: how is piracy to be combated?",
+  "keywords": [
+    "capesize",
+    "australia",
+    "meg",
+    "india",
+    "japan",
+    "pirates",
+    "government",
+    "but",
+    "piracy",
+    "situation",
+    "somalian",
+    "only"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1043,
+  "source_path": "reports/poten/2009/poten_2009-07-01_walking-the-plank.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_07_01_walking_the_plank__s01_walking_the_plank",
+      "doc_id": "poten_tankers_no_date_poten_2009_07_01_walking_the_plank",
+      "parent_id": "poten_tankers_no_date_poten_2009_07_01_walking_the_plank__root",
+      "title": "Walking The Plank",
+      "section_path": [
+        "Walking The Plank"
+      ],
+      "section_path_text": "Walking The Plank",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As we have been painfully aware for several months, piracy off the coast of Somalia has been on the rise since 2007 and it poses an increasing effect to the shipping industry. With the Somalian government too shaky to take effective measures, the onus has fallen upon other governments and the shipping industry itself.",
+      "keywords": [
+        "piracy",
+        "but",
+        "government",
+        "pirates",
+        "somalian",
+        "attacks",
+        "attempted",
+        "how"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 259,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_07_01_walking_the_plank__s02_far_east",
+      "doc_id": "poten_tankers_no_date_poten_2009_07_01_walking_the_plank",
+      "parent_id": "poten_tankers_no_date_poten_2009_07_01_walking_the_plank__root",
+      "title": "Far East",
+      "section_path": [
+        "Far East"
+      ],
+      "section_path_text": "Far East",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "india",
+        "africa",
+        "americas",
+        "indian",
+        "ocean"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_07_01_walking_the_plank__s03_the_ton_mile_effect",
+      "doc_id": "poten_tankers_no_date_poten_2009_07_01_walking_the_plank",
+      "parent_id": "poten_tankers_no_date_poten_2009_07_01_walking_the_plank__root",
+      "title": "The Ton-Mile Effect",
+      "section_path": [
+        "The Ton-Mile Effect"
+      ],
+      "section_path_text": "The Ton-Mile Effect",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "One result of the heavy pirate presence in the Gulf of Aden is a growing preference among shipowners to re‐route through the Cape of Good Hope. While this move effectively reduces the chances of pirate attack, it is both extremely costly and time‐ consuming.",
+      "keywords": [
+        "capesize",
+        "cape",
+        "good",
+        "per",
+        "pirate",
+        "premiums",
+        "standard",
+        "addition"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 148,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_07_01_walking_the_plank__s04_who_pays_the_price",
+      "doc_id": "poten_tankers_no_date_poten_2009_07_01_walking_the_plank",
+      "parent_id": "poten_tankers_no_date_poten_2009_07_01_walking_the_plank__root",
+      "title": "Who Pays the Price?",
+      "section_path": [
+        "Who Pays the Price?"
+      ],
+      "section_path_text": "Who Pays the Price?",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The route through the Cape of Good Hope is being treated as a stop‐gap; but it might become more permanent as pirates get more violent with their captives. As a result, the pirates have capitalized on the situation to consistently raise their ransom demands, preying on most shipowners' fears for the lives of their crew, as well as their ignorance of the average ransom price.",
+      "keywords": [
+        "capesize",
+        "ransom",
+        "become",
+        "pirates",
+        "becomes",
+        "linked",
+        "situation",
+        "all"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 170,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_07_01_walking_the_plank__s05_what_next",
+      "doc_id": "poten_tankers_no_date_poten_2009_07_01_walking_the_plank",
+      "parent_id": "poten_tankers_no_date_poten_2009_07_01_walking_the_plank__root",
+      "title": "What Next?",
+      "section_path": [
+        "What Next?"
+      ],
+      "section_path_text": "What Next?",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Clearly, the situation calls for government intervention, and fast: the Somalian government has issued a plea for funds to create its own coast guard, and the United States already spear‐heads the Combined Task Force 151 (CTF‐151). The CTF‐151 includes vessels from the United Kingdom, Australia, France, Germany, Italy, Pakistan and Japan as well as aircrafts that aid in patrolling the Gulf of Aden.",
+      "keywords": [
+        "australia",
+        "meg",
+        "japan",
+        "government",
+        "only",
+        "pirates",
+        "would",
+        "coastguard"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 438,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

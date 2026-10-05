@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2016_03_18_growing_at_ludicrous_speed__root",
+  "doc_id": "poten_tankers_no_date_poten_2016_03_18_growing_at_ludicrous_speed",
+  "parent_id": null,
+  "title": "Growing At Ludicrous Speed",
+  "section_path": [
+    "Growing At Ludicrous Speed"
+  ],
+  "section_path_text": "Growing At Ludicrous Speed",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Electric cars will impact future gasoline demand\nGasoline and diesel demand are the mainstay of the oil markets worldwide, as the transport sector accounts for more than half of all of global oil demand. Worldwide population growth and rapid economic progress in developing countries are expected to underpin further growth in transportation fuels. In their latest Medium Term Oil Market Report, the IEA forecasts that non-OECD gasoline demand will rise by 4.0% per annum in 2015-2021, while in the OECD countries it declines by 1.1%.",
+  "keywords": [
+    "china",
+    "europe",
+    "japan",
+    "crude_oil",
+    "products",
+    "gas",
+    "cars",
+    "are",
+    "electric",
+    "demand",
+    "pevs",
+    "norway"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 871,
+  "source_path": "reports/poten/2016/poten_2016-03-18_growing-at-ludicrous-speed.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_03_18_growing_at_ludicrous_speed__s01_electric_cars_will_impact_future_gasoline_demand",
+      "doc_id": "poten_tankers_no_date_poten_2016_03_18_growing_at_ludicrous_speed",
+      "parent_id": "poten_tankers_no_date_poten_2016_03_18_growing_at_ludicrous_speed__root",
+      "title": "Electric cars will impact future gasoline demand",
+      "section_path": [
+        "Electric cars will impact future gasoline demand"
+      ],
+      "section_path_text": "Electric cars will impact future gasoline demand",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Gasoline and diesel demand are the mainstay of the oil markets worldwide, as the transport sector accounts for more than half of all of global oil demand. Worldwide population growth and rapid economic progress in developing countries are expected to underpin further growth in transportation fuels.",
+      "keywords": [
+        "china",
+        "europe",
+        "japan",
+        "crude_oil",
+        "products",
+        "gas",
+        "cars",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 596,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_03_18_growing_at_ludicrous_speed__s02_while_norway_s_circumstances_are_unique_and_cannot_be",
+      "doc_id": "poten_tankers_no_date_poten_2016_03_18_growing_at_ludicrous_speed",
+      "parent_id": "poten_tankers_no_date_poten_2016_03_18_growing_at_ludicrous_speed__root",
+      "title": "While Norway's circumstances are unique and cannot be",
+      "section_path": [
+        "While Norway's circumstances are unique and cannot be"
+      ],
+      "section_path_text": "While Norway's circumstances are unique and cannot be",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "easily translated to other countries in the world, the trend towards cleaner energy and away from fossil fuels is also gaining momentum in other parts of the world. In China, for example, sales of PEV's more than quadrupled in 2015 compared to 2014, most of them modestly priced models from domestic carmakers.",
+      "keywords": [
+        "china",
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "are",
+        "demand",
+        "may"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 257,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

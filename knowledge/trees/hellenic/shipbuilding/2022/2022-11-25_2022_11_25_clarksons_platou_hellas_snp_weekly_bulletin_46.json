@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNew Building: In the gas carrier market this week, Seapeak announced ordering five firm 174k CBM LNG Carriers at Samsung for ExxonMobil Charter,\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-11-25_clarksons-platou-hellas-snp-weekly-bulletin-46_report-25-11-2022_f5c5d3ff3274.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-11-25_clarksons-platou-hellas-snp-weekly-bulletin-46_report-25-11-2022_f5c5d3ff3274.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 25 November 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC-C7.2 SS 08/25\nAQUATAINE 181,725 2010 IMABARI BWTS Fitted DD 11/23 USD 25 M GREEKS\nMAN B. 6S60MC-C8.1\nDL CARNATION 81,805 2014 JIANGSU SS 09/24\nTier II USD 18.8 M GREEKS\nEASTERN DD 09/24\nBWTS Fitted\nMAN B.",
+  "summary": "Main\nNew Building: In the gas carrier market this week, Seapeak announced ordering five firm 174k CBM LNG Carriers at Samsung for ExxonMobil Charter,\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-11-25_clarksons-platou-hellas-snp-weekly-bulletin-46_report-25-11-2022_f5c5d3ff3274.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2022-11-25_clarksons-platou-hellas-snp-weekly-bulletin-46_report-25-11-2022_f5c5d3ff3274.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin25 November 2022\n\n# Bulk Carriers\n\n### Vessel DWT Built Details SS/DD Price Buyer\n\nMAN B. 6S70MC-C7.2 SS 08/25 **AQUATAINE** 181,725 2010 IMABARI BWTS Fitted USD 25 M GREEKS DD 11/23 MAN B. 6S60MC-C8.1 **DL CARNATION** 81,805 2014 JIANGSU Tier II SS 09/24 USD 18.8 M GREEKS EASTERN BWTS Fitted DD 09/24\n\nMAN B.",
   "keywords": [
     "capesize",
     "lng",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2245,
-  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-11-25_clarksons-platou-hellas-snp-weekly-bulletin-46.html",
+  "token_count": 2302,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-11-25_clarksons-platou-hellas-snp-weekly-bulletin-46.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-46",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-11-25_clarksons-platou-hellas-snp-weekly-bulletin-46_report-25-11-2022_f5c5d3ff3274.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-11-25_clarksons-platou-hellas-snp-weekly-bulletin-46_report-25-11-2022_f5c5d3ff3274.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 25 November 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC-C7.2 SS 08/25\nAQUATAINE 181,725 2010 IMABARI BWTS Fitted DD 11/23 USD 25 M GREEKS\nMAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-11-25_clarksons-platou-hellas-snp-weekly-bulletin-46_report-25-11-2022_f5c5d3ff3274.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin25 November 2022\n\n# Bulk Carriers\n\n### Vessel DWT Built Details SS/DD Price Buyer\n\nMAN B. 6S70MC-C7.2 SS 08/25 **AQUATAINE** 181,725 2010 IMABARI BWTS Fitted USD 25 M GREEKS DD 11/23 MAN B.",
       "keywords": [
         "capesize",
         "lng",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2152,
+      "token_count": 2209,
       "section_type": "linked_pdf",
       "children": []
     }

@@ -1,0 +1,173 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_03_11_gas_pains__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_03_11_gas_pains",
+  "parent_id": null,
+  "title": "Gas Pains",
+  "section_path": [
+    "Gas Pains"
+  ],
+  "section_path_text": "Gas Pains",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Gas Pains\nGasoline prices continue to climb despite ample supplies and adequate domestic stockpiles. The apparent disconnect leaves the public and industry members scratching their pocketbooks. Last week's Tanker Opinion discussed the rising trend of product exports from domestic refineries and its implications for the clean product tanker markets.",
+  "keywords": [
+    "crude_oil",
+    "products",
+    "gas",
+    "padd",
+    "domestic",
+    "gasoline",
+    "product",
+    "are",
+    "chart",
+    "clean",
+    "continue",
+    "exports"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 574,
+  "source_path": "reports/poten/2011/poten_2011-03-11_gas-pains.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_03_11_gas_pains__s01_gas_pains",
+      "doc_id": "poten_tankers_no_date_poten_2011_03_11_gas_pains",
+      "parent_id": "poten_tankers_no_date_poten_2011_03_11_gas_pains__root",
+      "title": "Gas Pains",
+      "section_path": [
+        "Gas Pains"
+      ],
+      "section_path_text": "Gas Pains",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Gasoline prices continue to climb despite ample supplies and adequate domestic stockpiles. The apparent disconnect leaves the public and industry members scratching their pocketbooks.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "domestic",
+        "gasoline",
+        "product",
+        "are",
+        "barrels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 198,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_03_11_gas_pains__s02_crack_spread",
+      "doc_id": "poten_tankers_no_date_poten_2011_03_11_gas_pains",
+      "parent_id": "poten_tankers_no_date_poten_2011_03_11_gas_pains__root",
+      "title": "Crack Spread",
+      "section_path": [
+        "Crack Spread"
+      ],
+      "section_path_text": "Crack Spread",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "products",
+        "gas",
+        "brent",
+        "gasoline",
+        "iii",
+        "padd",
+        "wti"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_03_11_gas_pains__s03_questioning_the_economics",
+      "doc_id": "poten_tankers_no_date_poten_2011_03_11_gas_pains",
+      "parent_id": "poten_tankers_no_date_poten_2011_03_11_gas_pains__root",
+      "title": "Questioning the Economics",
+      "section_path": [
+        "Questioning the Economics"
+      ],
+      "section_path_text": "Questioning the Economics",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The chart below shows US refinery utilization over the last year as well as the relative activity of PADD 1, PADD 2, and PADD 3 refiners. As discussed last week and in previous opinions, the price divergence between WTI and Brent crude oil benchmark contracts is creating a very favorable margin environment for PADD 2 refiners with access to the more cheaply‐priced WTI benchmark‐related crude oils and is evidenced through higher utilization figures.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "padd",
+        "benchmark",
+        "crude",
+        "last",
+        "suggest"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 171,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_03_11_gas_pains__s04_total_us",
+      "doc_id": "poten_tankers_no_date_poten_2011_03_11_gas_pains",
+      "parent_id": "poten_tankers_no_date_poten_2011_03_11_gas_pains__root",
+      "title": "Total US",
+      "section_path": [
+        "Total US"
+      ],
+      "section_path_text": "Total US",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "PADD I PADD II PADD III This dynamic could continue to be a mixed blessing for tanker market participants as clean Medium Range or \"MR\" fixture activity continues to climb. The following chart demonstrates the growth of total product exports from the United States, to unspecified locations.",
+      "keywords": [
+        "padd",
+        "activity",
+        "blessing",
+        "chart",
+        "clean",
+        "climb.",
+        "continue",
+        "continues"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 55,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_03_11_gas_pains__s05_spelling_relief",
+      "doc_id": "poten_tankers_no_date_poten_2011_03_11_gas_pains",
+      "parent_id": "poten_tankers_no_date_poten_2011_03_11_gas_pains__root",
+      "title": "Spelling Relief",
+      "section_path": [
+        "Spelling Relief"
+      ],
+      "section_path_text": "Spelling Relief",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The question of high domestic pricing remains in spite of this set of extraordinary circumstances that would seemingly result in negative price movements or a better reconciliation of supply imbalances within the domestic US market. Expect the quality and price arbitrage to continue to pull product out of PADD III and sustain or even increase the need for incremental imports on the East Coast.",
+      "keywords": [
+        "products",
+        "gas",
+        "domestic",
+        "price",
+        "product",
+        "should",
+        "already",
+        "arbitrage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 121,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

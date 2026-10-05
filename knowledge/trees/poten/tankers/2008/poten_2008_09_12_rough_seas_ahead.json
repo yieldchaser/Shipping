@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_09_12_rough_seas_ahead__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_09_12_rough_seas_ahead",
+  "parent_id": null,
+  "title": "Rough Seas Ahead",
+  "section_path": [
+    "Rough Seas Ahead"
+  ],
+  "section_path_text": "Rough Seas Ahead",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Rough Seas Ahead\nThe hurricane season continues full-swing in the Atlantic Basin. Currently, cities along sections of the US Gulf coast are battening down the hatches and evacuating the region for higher ground. Hurricanes are a force to be reckoned with for the oil and gas industry with their effects rippling through the shipping market, too.",
+  "keywords": [
+    "atlantic",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "gas",
+    "gasoline",
+    "already",
+    "are",
+    "coast",
+    "gulf",
+    "hurricane",
+    "per"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 439,
+  "source_path": "reports/poten/2008/poten_2008-09-12_rough-seas-ahead.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_09_12_rough_seas_ahead__s01_rough_seas_ahead",
+      "doc_id": "poten_tankers_no_date_poten_2008_09_12_rough_seas_ahead",
+      "parent_id": "poten_tankers_no_date_poten_2008_09_12_rough_seas_ahead__root",
+      "title": "Rough Seas Ahead",
+      "section_path": [
+        "Rough Seas Ahead"
+      ],
+      "section_path_text": "Rough Seas Ahead",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The hurricane season continues full-swing in the Atlantic Basin. Currently, cities along sections of the US Gulf coast are battening down the hatches and evacuating the region for higher ground.",
+      "keywords": [
+        "atlantic",
+        "us_gulf",
+        "crude_oil",
+        "gas",
+        "hurricane",
+        "are",
+        "expected",
+        "ike"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 158,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_09_12_rough_seas_ahead__s02_ukc_usa_37kt",
+      "doc_id": "poten_tankers_no_date_poten_2008_09_12_rough_seas_ahead",
+      "parent_id": "poten_tankers_no_date_poten_2008_09_12_rough_seas_ahead__root",
+      "title": "UKC - USA (37kt)",
+      "section_path": [
+        "UKC - USA (37kt)"
+      ],
+      "section_path_text": "UKC - USA (37kt)",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The US Gulf Coast is home to about half of the nation's total refining capacity, or approximately 8 million barrels per day. The Houston area specifically has over 2 million barrels per day of refining capacity.",
+      "keywords": [
+        "us_gulf",
+        "crude_oil",
+        "per",
+        "barrels",
+        "capacity",
+        "coast",
+        "gulf",
+        "million"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 102,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_09_12_rough_seas_ahead__s03_already_on_thin_ice",
+      "doc_id": "poten_tankers_no_date_poten_2008_09_12_rough_seas_ahead",
+      "parent_id": "poten_tankers_no_date_poten_2008_09_12_rough_seas_ahead__root",
+      "title": "Already On Thin Ice",
+      "section_path": [
+        "Already On Thin Ice"
+      ],
+      "section_path_text": "Already On Thin Ice",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Gasoline stocks are also at an all time low for the year at 187 million barrels, down over 10% from merely a month ago. The chart below shows the US gasoline stocks against the gallon price of gasoline.",
+      "keywords": [
+        "products",
+        "gas",
+        "gasoline",
+        "stocks",
+        "against",
+        "ago.",
+        "all",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 45,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_09_12_rough_seas_ahead__s04_gasoline_stocks",
+      "doc_id": "poten_tankers_no_date_poten_2008_09_12_rough_seas_ahead",
+      "parent_id": "poten_tankers_no_date_poten_2008_09_12_rough_seas_ahead__root",
+      "title": "Gasoline Stocks",
+      "section_path": [
+        "Gasoline Stocks"
+      ],
+      "section_path_text": "Gasoline Stocks",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Gasoline Price Although gasoline prices have been on the decline recently, the confluence of current events is already contributing to a dramatic reversal in this trend. The storm's path has already caused gasoline to jump to almost $5 per gallon in the Gulf Coast in anticipation of continued refinery shut-downs.",
+      "keywords": [
+        "products",
+        "gas",
+        "already",
+        "gasoline",
+        "coast",
+        "gulf",
+        "storm",
+        "action"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 112,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

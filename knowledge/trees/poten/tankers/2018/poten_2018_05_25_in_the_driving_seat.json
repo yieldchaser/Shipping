@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2018_05_25_in_the_driving_seat__root",
+  "doc_id": "poten_tankers_no_date_poten_2018_05_25_in_the_driving_seat",
+  "parent_id": null,
+  "title": "In The Driving Seat",
+  "section_path": [
+    "In The Driving Seat"
+  ],
+  "section_path_text": "In The Driving Seat",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Oil prices are rising as the summer driving season starts\nMemorial Day weekend marks the beginning of the \"summer driving season\" in the U.S. In addition to the traditional burgers and hot dogs on the grill, gasoline prices typically start sizzling as well. There is generally a seasonal uptick in gasoline demand and prices, for a variety of reasons.",
+  "keywords": [
+    "china",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "gas",
+    "gasoline",
+    "u.s.",
+    "summer",
+    "are",
+    "prices",
+    "imports"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 886,
+  "source_path": "reports/poten/2018/poten_2018-05-25_in-the-driving-seat.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_05_25_in_the_driving_seat__s01_oil_prices_are_rising_as_the_summer_driving_season_starts",
+      "doc_id": "poten_tankers_no_date_poten_2018_05_25_in_the_driving_seat",
+      "parent_id": "poten_tankers_no_date_poten_2018_05_25_in_the_driving_seat__root",
+      "title": "Oil prices are rising as the summer driving season starts",
+      "section_path": [
+        "Oil prices are rising as the summer driving season starts"
+      ],
+      "section_path_text": "Oil prices are rising as the summer driving season starts",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Memorial Day weekend marks the beginning of the \"summer driving season\" in the U.S. In addition to the traditional burgers and hot dogs on the grill, gasoline prices typically start sizzling as well.",
+      "keywords": [
+        "china",
+        "europe",
+        "india",
+        "crude_oil",
+        "products",
+        "gas",
+        "gasoline",
+        "u.s."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 875,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

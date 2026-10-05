@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2019_11_15_challenge_or_opportunity__root",
+  "doc_id": "poten_tankers_no_date_poten_2019_11_15_challenge_or_opportunity",
+  "parent_id": null,
+  "title": "Challenge Or Opportunity",
+  "section_path": [
+    "Challenge Or Opportunity"
+  ],
+  "section_path_text": "Challenge Or Opportunity",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Mixed outlook for refiners as a result of IMO 2020\nAnalysists expect that the implementation of the IMO 2020 sulfur regulations will lead to significant changes in trade flows as refiners worldwide adjust both their crude intake as well as their product output. For sophisticated (\"complex\") refineries with significant upgrade capacity, it will be relatively easy to reduce the output of less desirable products like fuel oil and convert it into more valuable products. However, \"simple\" refineries without coking or hydrocracking capacity don't have this flexibility.",
+  "keywords": [
+    "aframax",
+    "atlantic",
+    "west_africa",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "gas",
+    "crude",
+    "are",
+    "oil",
+    "u.s."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 893,
+  "source_path": "reports/poten/2019/poten_2019-11-15_challenge-or-opportunity.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_11_15_challenge_or_opportunity__s01_mixed_outlook_for_refiners_as_a_result_of_imo_2020",
+      "doc_id": "poten_tankers_no_date_poten_2019_11_15_challenge_or_opportunity",
+      "parent_id": "poten_tankers_no_date_poten_2019_11_15_challenge_or_opportunity__root",
+      "title": "Mixed outlook for refiners as a result of IMO 2020",
+      "section_path": [
+        "Mixed outlook for refiners as a result of IMO 2020"
+      ],
+      "section_path_text": "Mixed outlook for refiners as a result of IMO 2020",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Analysists expect that the implementation of the IMO 2020 sulfur regulations will lead to significant changes in trade flows as refiners worldwide adjust both their crude intake as well as their product output. For sophisticated (\"complex\") refineries with significant upgrade capacity, it will be relatively easy to reduce the output of less desirable products like fuel oil and convert it into more valuable products.",
+      "keywords": [
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "are",
+        "crude",
+        "sulfur"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 572,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_11_15_challenge_or_opportunity__s02_mediterranean",
+      "doc_id": "poten_tankers_no_date_poten_2019_11_15_challenge_or_opportunity",
+      "parent_id": "poten_tankers_no_date_poten_2019_11_15_challenge_or_opportunity__root",
+      "title": "Mediterranean",
+      "section_path": [
+        "Mediterranean"
+      ],
+      "section_path_text": "Mediterranean",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Middle East WAF North Sea US Gulf Other Americas",
+      "keywords": [
+        "west_africa",
+        "us_gulf",
+        "americas",
+        "east",
+        "gulf",
+        "middle",
+        "north",
+        "other"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 10,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_11_15_challenge_or_opportunity__s03_includes_transit_barrels_imported_via_italy",
+      "doc_id": "poten_tankers_no_date_poten_2019_11_15_challenge_or_opportunity",
+      "parent_id": "poten_tankers_no_date_poten_2019_11_15_challenge_or_opportunity__root",
+      "title": "*Includes transit barrels imported via Italy",
+      "section_path": [
+        "*Includes transit barrels imported via Italy"
+      ],
+      "section_path_text": "*Includes transit barrels imported via Italy",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "significant flexibility with respect to their sources of crude oil. The expectation is that IMO 2020 will create a global oversupply of fuel oil and this prospect is already reflected in the pricing of this product.",
+      "keywords": [
+        "aframax",
+        "atlantic",
+        "europe",
+        "crude_oil",
+        "u.s.",
+        "crude",
+        "italy",
+        "fuel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 283,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

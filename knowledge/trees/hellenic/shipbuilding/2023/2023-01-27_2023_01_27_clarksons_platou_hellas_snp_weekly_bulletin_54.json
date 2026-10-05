@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNew building in tankers this week, it has been reported that Clients of Golden Energy Management ordered one firm plus one optional 158k dwt\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-01-27_clarksons-platou-hellas-snp-weekly-bulletin-54_report-27-01-2023_1888c144cf19.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-01-27_clarksons-platou-hellas-snp-weekly-bulletin-54_report-27-01-2023_1888c144cf19.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 27 January 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\n2005 TSUNEISHI MAN B. 6S60MC6.1 SS 06/25\nOCEAN DOMINA 76,255 RGN USD 10.5 M U/D\nZOSEN BWTS Due (Ordered) DD 08/23\nMAN B. 5S50MC-G SS 06/27\nAFRICAN VENTURE 34,721 2012 CHENGXI HIGH USD 12 M U/D\nTier II, 4 x 30 T, BWTS Fitted DD 08/25\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\n2010 NEW MAN B.",
+  "summary": "Main\nNew building in tankers this week, it has been reported that Clients of Golden Energy Management ordered one firm plus one optional 158k dwt\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-01-27_clarksons-platou-hellas-snp-weekly-bulletin-54_report-27-01-2023_1888c144cf19.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2023-01-27_clarksons-platou-hellas-snp-weekly-bulletin-54_report-27-01-2023_1888c144cf19.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin27 January 2023\n\n# Bulk Carriers\n\n### Vessel DWT Built Details SS/DD Price Buyer\n\n**OCEAN DOMINA** 76,255 2005 ZOSEN TSUNEISHI MAN B. 6S60MC6.1 BWTS Due (Ordered) DD 08/ SS 06/25 23 RGN USD 10.5 M U/D\n\n**AFRICAN VENTURE** 34,721 2012 CHENGXI Tier II, 4 x 30 MAN B. 5S50MC-G DD 08/ SS 06/27 25 HIGH USD 12 M U/D\n\n# Tankers - Chemicals - LPG/LNGs\n\n### Vessel DWT Built Details SS/DD Price Buyer\n\n**LEO** 112,719 2010 CENTURY NEW MAN B.",
   "keywords": [
     "suezmax",
     "lng",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1783,
-  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-01-27_clarksons-platou-hellas-snp-weekly-bulletin-54.html",
+  "token_count": 1849,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-01-27_clarksons-platou-hellas-snp-weekly-bulletin-54.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-54",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-01-27_clarksons-platou-hellas-snp-weekly-bulletin-54_report-27-01-2023_1888c144cf19.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-01-27_clarksons-platou-hellas-snp-weekly-bulletin-54_report-27-01-2023_1888c144cf19.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 27 January 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\n2005 TSUNEISHI MAN B. 6S60MC6.1 SS 06/25\nOCEAN DOMINA 76,255 RGN USD 10.5 M U/D\nZOSEN BWTS Due (Ordered) DD 08/23\nMAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-01-27_clarksons-platou-hellas-snp-weekly-bulletin-54_report-27-01-2023_1888c144cf19.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin27 January 2023\n\n# Bulk Carriers\n\n### Vessel DWT Built Details SS/DD Price Buyer\n\n**OCEAN DOMINA** 76,255 2005 ZOSEN TSUNEISHI MAN B. 6S60MC6.1 BWTS Due (Ordered) DD 08/ SS 06/25 23 RGN USD 10.5 M U/D\n\n**AFRICAN VENTURE** 34,721 2012 CHENGXI Tier II, 4 x 30 MAN B.",
       "keywords": [
         "suezmax",
         "lng",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1696,
+      "token_count": 1762,
       "section_type": "linked_pdf",
       "children": []
     }

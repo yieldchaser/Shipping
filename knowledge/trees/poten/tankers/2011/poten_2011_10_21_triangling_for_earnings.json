@@ -1,0 +1,297 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_10_21_triangling_for_earnings__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_10_21_triangling_for_earnings",
+  "parent_id": null,
+  "title": "Tri‐Angling for Earnings",
+  "section_path": [
+    "Tri‐Angling for Earnings"
+  ],
+  "section_path_text": "Tri‐Angling for Earnings",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Tri‐Angling for Earnings\nFreight rates for the Arabian Gulf - US Gulf VLCC voyage have averaged less than Worldscale WS 37 year to date, equating to negative time charter equivalent earnings when calculated at full speed on a round trip basis. As discussed last week , increased Asian demand and diversification of crude oil sources have created more VLCC cargo opportunities in the Atlantic Basin. Additionally, tanker owners in the spot market have pushed for lower voyage speeds as a result of the high bunker price environment.",
+  "keywords": [
+    "vlcc",
+    "brazil",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "us_gulf",
+    "crude_oil",
+    "voyage",
+    "earnings",
+    "ballast",
+    "speed",
+    "gulf"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 929,
+  "source_path": "reports/poten/2011/poten_2011-10-21_triangling-for-earnings.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_10_21_triangling_for_earnings__s01_tri_angling_for_earnings",
+      "doc_id": "poten_tankers_no_date_poten_2011_10_21_triangling_for_earnings",
+      "parent_id": "poten_tankers_no_date_poten_2011_10_21_triangling_for_earnings__root",
+      "title": "Tri‐Angling for Earnings",
+      "section_path": [
+        "Tri‐Angling for Earnings"
+      ],
+      "section_path_text": "Tri‐Angling for Earnings",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Freight rates for the Arabian Gulf - US Gulf VLCC voyage have averaged less than Worldscale WS 37 year to date, equating to negative time charter equivalent earnings when calculated at full speed on a round trip basis. As discussed last week , increased Asian demand and diversification of crude oil sources have created more VLCC cargo opportunities in the Atlantic Basin.",
+      "keywords": [
+        "vlcc",
+        "brazil",
+        "atlantic",
+        "meg",
+        "us_gulf",
+        "crude_oil",
+        "earnings",
+        "gulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 209,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_10_21_triangling_for_earnings__s02_ag_usg_280kt",
+      "doc_id": "poten_tankers_no_date_poten_2011_10_21_triangling_for_earnings",
+      "parent_id": "poten_tankers_no_date_poten_2011_10_21_triangling_for_earnings__root",
+      "title": "AG ‐ USG (280kt)",
+      "section_path": [
+        "AG ‐ USG (280kt)"
+      ],
+      "section_path_text": "AG ‐ USG (280kt)",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "AG ‐ FE (260kt) WAF ‐ FE (260kt) AG/USG/WAF/FE",
+      "keywords": [
+        "west_africa",
+        "ag/usg/waf/fe",
+        "waf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 25,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_10_21_triangling_for_earnings__s03_triangulated_voyage",
+      "doc_id": "poten_tankers_no_date_poten_2011_10_21_triangling_for_earnings",
+      "parent_id": "poten_tankers_no_date_poten_2011_10_21_triangling_for_earnings__root",
+      "title": "Triangulated Voyage",
+      "section_path": [
+        "Triangulated Voyage"
+      ],
+      "section_path_text": "Triangulated Voyage",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "AG ‐ USG ‐ WAF ‐ FE ‐ AG Voyage Assumptions Voyage 1 ‐ Laden Ras Tanura ‐ LOOP (+ piracy avoidance) Voyage 2 ‐ Ballast LOOP ‐ Bonny Voyage 3 ‐ Laden Bonny ‐ Ningpo Voyage 4 ‐ Ballast Ningpo ‐ Ras Tanura Actual earnings will vary widely by vessel as factors such as speed, routing, and time in ballast can drastically influence earnings on a time charter equivalent basis. However, those westbound vessels lucky enough to secure an eastbound backhaul cargo can bolster earnings by both minimizing miles traveled in ballast and generating additional voyage revenue.",
+      "keywords": [
+        "brazil",
+        "west_africa",
+        "voyage",
+        "ballast",
+        "earnings",
+        "bonny",
+        "can",
+        "laden"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 137,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_10_21_triangling_for_earnings__s04_need_for_slow_speed",
+      "doc_id": "poten_tankers_no_date_poten_2011_10_21_triangling_for_earnings",
+      "parent_id": "poten_tankers_no_date_poten_2011_10_21_triangling_for_earnings__root",
+      "title": "Need for (Slow) Speed",
+      "section_path": [
+        "Need for (Slow) Speed"
+      ],
+      "section_path_text": "Need for (Slow) Speed",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Fuel economy plays heavily in earnings potential in today's spot market. The cost of heavy fuel oil bunkers sold in Fujairah has averaged over $640 per ton year to date, over 35% higher than the average from 2006‐2010.",
+      "keywords": [
+        "meg",
+        "us_gulf",
+        "crude_oil",
+        "fuel",
+        "leg",
+        "arabian",
+        "averaged",
+        "ballast"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 181,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_10_21_triangling_for_earnings__s05_comparative_earnings_2011_ytd",
+      "doc_id": "poten_tankers_no_date_poten_2011_10_21_triangling_for_earnings",
+      "parent_id": "poten_tankers_no_date_poten_2011_10_21_triangling_for_earnings__root",
+      "title": "Comparative Earnings 2011 YTD",
+      "section_path": [
+        "Comparative Earnings 2011 YTD"
+      ],
+      "section_path_text": "Comparative Earnings 2011 YTD",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Full speed: 15.5 kt laden / 16 kt ballast Market speed: 14 kt laden / 13.5 kt ballast Piracy deviation: 1,150 nm",
+      "keywords": [
+        "ballast",
+        "laden",
+        "speed",
+        "deviation",
+        "full",
+        "piracy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 39,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_10_21_triangling_for_earnings__s06_round_trip",
+      "doc_id": "poten_tankers_no_date_poten_2011_10_21_triangling_for_earnings",
+      "parent_id": "poten_tankers_no_date_poten_2011_10_21_triangling_for_earnings__root",
+      "title": "Round trip",
+      "section_path": [
+        "Round trip"
+      ],
+      "section_path_text": "Round trip",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "",
+      "keywords": [
+        "round",
+        "triangulated",
+        "trip",
+        "voyage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_10_21_triangling_for_earnings__s07_no_piracy_deviation",
+      "doc_id": "poten_tankers_no_date_poten_2011_10_21_triangling_for_earnings",
+      "parent_id": "poten_tankers_no_date_poten_2011_10_21_triangling_for_earnings__root",
+      "title": "No piracy deviation",
+      "section_path": [
+        "No piracy deviation"
+      ],
+      "section_path_text": "No piracy deviation",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "With piracy deviation With piracy deviation",
+      "keywords": [
+        "deviation",
+        "piracy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_10_21_triangling_for_earnings__s08_full_speed",
+      "doc_id": "poten_tankers_no_date_poten_2011_10_21_triangling_for_earnings",
+      "parent_id": "poten_tankers_no_date_poten_2011_10_21_triangling_for_earnings__root",
+      "title": "Full speed",
+      "section_path": [
+        "Full speed"
+      ],
+      "section_path_text": "Full speed",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Market speed Market Speed Depending on vessel particulars, reducing speeds as indicated above has the potential to increase round trip voyage earnings by over $5,000 per day to $3,900 per day, even after accounting for piracy deviation. At current market rates, the triangulated voyage yields a return of about $8,900 per day.",
+      "keywords": [
+        "per",
+        "day",
+        "day.",
+        "speed",
+        "vessel",
+        "voyage",
+        "above",
+        "accounting"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 95,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_10_21_triangling_for_earnings__s09_three_s_a_crowd",
+      "doc_id": "poten_tankers_no_date_poten_2011_10_21_triangling_for_earnings",
+      "parent_id": "poten_tankers_no_date_poten_2011_10_21_triangling_for_earnings__root",
+      "title": "Three's a Crowd",
+      "section_path": [
+        "Three's a Crowd"
+      ],
+      "section_path_text": "Three's a Crowd",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "There has been little movement year to date in rates for westbound voyages out of the Arabian Gulf, making the profitability of triangulated trade largely dependent on rate strength in the Atlantic Basin. Relatively higher rates for VLCC voyages from West Africa to the Far East have enticed owners to position for this business.",
+      "keywords": [
+        "vlcc",
+        "atlantic",
+        "meg",
+        "west_africa",
+        "arabian",
+        "asia",
+        "east",
+        "far"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 113,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_10_21_triangling_for_earnings__s10_ag_west",
+      "doc_id": "poten_tankers_no_date_poten_2011_10_21_triangling_for_earnings",
+      "parent_id": "poten_tankers_no_date_poten_2011_10_21_triangling_for_earnings__root",
+      "title": "AG ‐ West",
+      "section_path": [
+        "AG ‐ West"
+      ],
+      "section_path_text": "AG ‐ West",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "Atlantic Basin ‐ East Other However, there is risk inherent in the play, and vessel utilization is a major wildcard in a ship's overall profitability. As more owners compete for backhaul cargoes, there is possibility that increased Atlantic Basin supply could put downward pressure on rates.",
+      "keywords": [
+        "atlantic",
+        "basin",
+        "backhaul",
+        "cargoes",
+        "compete",
+        "could",
+        "downward",
+        "east"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 55,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

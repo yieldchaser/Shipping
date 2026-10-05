@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNew building in tankers this week, just the one order as Clients of Performance Shipping announced ordering a firm 114k dwt\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-03-10_clarksons-platou-hellas-snp-weekly-bulletin-60_report-10-03-2023_da66c4c8b6a2.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-03-10_clarksons-platou-hellas-snp-weekly-bulletin-60_report-10-03-2023_da66c4c8b6a2.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 10 March 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\n2016 SINOPACIFIC MAN-B&W 5S60ME-C8.1 SS 04/26\nSOHO PRINCIPAL 63,229 $26.5 M GERMANS\nDAYANG BWTS fitted DD 03/24\n2015 TSUNEISHI MAN-B&W 6S50ME-C8.2 SS 07/25\nIVS PINEHURST 57,811 LOW $23 M GREEKS\nCEBU BWTS fitted DD 11/23\nSS 03/25\nECOPACIFIC 57,696 2010 STX DALIAN MAN-B&W 6S50MC-C8.2 $14.8 M U/D\nDD 09/23\n2013 TIANJIN MAN-B&W 6S50MC-C8.2 SS 05/23\nGLOVIS MAGELLAN 56,582 LOW $15 M U/D\nXINGANG BWTS fitted, Tier II DD 05/23\nMAN-B&W 5S50ME-B9.3 SS 02/26\nBOREAS VENTURE 43,389 2016 QINGSHAN LOW/MID $23 M U/D\nBWTS fitted DD 11/25\nMAN-B&W 6S46MC-C8.2, SS 10/26 LOW/MID $15 M\nOCTBREEZE ISLAND 38,278 2011 SHIMANAMI U/D\nBWTS fitted DD 08/24 suffered collision\nTa",
+  "summary": "Main\nNew building in tankers this week, just the one order as Clients of Performance Shipping announced ordering a firm 114k dwt\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-03-10_clarksons-platou-hellas-snp-weekly-bulletin-60_report-10-03-2023_da66c4c8b6a2.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2023-03-10_clarksons-platou-hellas-snp-weekly-bulletin-60_report-10-03-2023_da66c4c8b6a2.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin10 March 2023\n\n# Bulk Carriers\n\n|Vessel|DWT|Built||Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|---|\n|SOHO PRINCIPAL|63,229|2016 DAYANG SINOPACIFIC||MAN-B&W 5S60ME -C8.1 BWTS fitted|SS 04/26 DD 03/24|$26.5 M|GERMANS|\n|IVS PINEHURST|57,811|2015 CEBU TSUNEISHI||MAN-B&W 6S50ME -C8.2 BWTS fitted|SS 07/25 DD 11/23|LOW $23 M|GREEKS|\n|ECOPACIFIC|57,696|2010 STX DALIAN||MAN-B&W 6S50MC-C8.2|SS 03/25 DD 09/23|$14.8 M|U/D|\n|GLOVIS MAGELLAN|56,582|2013 TIANJIN XINGANG||MAN -B&W 6S50MC-C8.2 BWTS fitted, Tier II|SS 05/23 DD 05/23|LOW $15 M|U/D|\n|BOREAS VENTURE|43,389|2016 QINGSHAN||MAN-B&W 5S50ME -B9.3 BWTS fitted|SS 02/26 DD 11/25|LOW/MID $23 M|U/D|\n|OCTBREEZE ISLAND|38,278|2011 SHIMANAMI||MAN-B&W 6S46MC -C8.2, BWTS fit",
   "keywords": [
     "lng",
     "lpg",
@@ -21,13 +21,13 @@
     "any",
     "clarksons",
     "information",
-    "man-b",
-    "fitted"
+    "fitted",
+    "bwts"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2162,
-  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-03-10_clarksons-platou-hellas-snp-weekly-bulletin-60.html",
+  "token_count": 2290,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-03-10_clarksons-platou-hellas-snp-weekly-bulletin-60.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-60",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-03-10_clarksons-platou-hellas-snp-weekly-bulletin-60_report-10-03-2023_da66c4c8b6a2.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-03-10_clarksons-platou-hellas-snp-weekly-bulletin-60_report-10-03-2023_da66c4c8b6a2.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 10 March 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\n2016 SINOPACIFIC MAN-B&W 5S60ME-C8.1 SS 04/26\nSOHO PRINCIPAL 63,229 $26.5 M GERMANS\nDAYANG BWTS fitted DD 03/24\n2015 TSUNEISHI MAN-B&W 6S50ME-C8.2 SS 07/25\nIVS PINEHURST 57,811 LOW $23 M GREEKS\nCEBU BWTS fitted DD 11/23\nSS 03/25\nECOPACIFIC 57,696 2010 STX DALIAN MAN-B&W 6S50MC-C8.2 $14.8 M U/D\nDD 09/23\n2013 TIANJIN MAN-B&W 6S50MC-C8.2 SS 05/23\nGLOVIS MAGELLAN 56,582 LOW $15 M U/D\nXINGANG BWTS fitted, Tier II DD 05/23\nMAN-B&W 5S50ME-B9.3 SS 02/26\nBOREAS VENTURE 43,389 2016 QINGSHAN LOW/MID $23 M U/D\nBWTS fitted DD 11/25\nMAN-B&W 6S46MC-C8.2, SS 10/26 LOW/MID $15 M\nOCTBREEZE ISLAND 38,278 2011 SHIMANAMI U/D\nBWTS fitted DD 08/24 suffered collision\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\n2007 HYUNDAI MAN-B&W 6S90MC-C MK5 SS 07/27 MIDDLE\nKASSOS I 318,683 $60 M\nSAMHO BWTS & scrubber fitted DD 07/25 EASTERNS\nMAN-B&W 6S90MC-C MK5 SS 12/23\nATHINA II 318,658 2005 HHI $56 M U/D\nScrubber fitt",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-03-10_clarksons-platou-hellas-snp-weekly-bulletin-60_report-10-03-2023_da66c4c8b6a2.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin10 March 2023\n\n# Bulk Carriers\n\n|Vessel|DWT|Built||Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|---|\n|SOHO PRINCIPAL|63,229|2016 DAYANG SINOPACIFIC||MAN-B&W 5S60ME -C8.1 BWTS fitted|SS 04/26 DD 03/24|$26.5 M|GERMANS|\n|IVS PINEHURST|57,811|2015 CEBU TSUNEISHI||MAN-B&W 6S50ME -C8.2 BWTS fitted|SS 07/25 DD 11/23|LOW $23 M|GREEKS|\n|ECOPACIFIC|57,696|2010 STX DALIAN||MAN-B&W 6S50MC-C8.2|SS 03/25 DD 09/23|$14.8 M|U/D|\n|GLOVIS MAGELLAN|56,582|2013 TIANJIN XINGANG||MAN -B&W 6S50MC-C8.2 BWTS fitted, Tier II|SS 05/23 DD 05/23|LOW $15 M|U/D|\n|BOREAS VENTURE|43,389|2016 QINGSHAN||MAN-B&W 5S50ME -B9.3 BWTS fitted|SS 02/26 DD 11/25|LOW/MID $23 M|U/D|\n|OCTBREEZE ISLAND|38,278|2011 SHIMANAMI||MAN-B&W 6S46MC -C8.2, BWTS fitted|SS 10/26 DD 08/24|LOW/MID $15 M suffered collision|U/D|\n\n# Tankers - Chemicals - LPG/LNGs\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n|KASSOS I|318,683|2007 HYUNDAI SAMHO|MAN -B&W 6S90MC-C MK5 BWTS & scrubber fitted|SS 07/27 DD 07/25|$60 ",
       "keywords": [
         "lng",
         "lpg",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2075,
+      "token_count": 2203,
       "section_type": "linked_pdf",
       "children": []
     }

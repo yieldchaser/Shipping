@@ -1,0 +1,298 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_02_11_the_other_canal__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_02_11_the_other_canal",
+  "parent_id": null,
+  "title": "The Other Canal",
+  "section_path": [
+    "The Other Canal"
+  ],
+  "section_path_text": "The Other Canal",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Other Canal\nAs the world's attention remains set on events unfolding in Egypt, the market continues to carefully monitor the stability of the Suez Canal. As was outlined in last week's opinion , volatility at shipping choke points has the potential to change the rate environment overnight. This week marks a notable date for the world's other famous canal an ocean away.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "container",
+    "china",
+    "brazil",
+    "pacific",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "canal"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1117,
+  "source_path": "reports/poten/2011/poten_2011-02-11_the-other-canal.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_02_11_the_other_canal__s01_the_other_canal",
+      "doc_id": "poten_tankers_no_date_poten_2011_02_11_the_other_canal",
+      "parent_id": "poten_tankers_no_date_poten_2011_02_11_the_other_canal__root",
+      "title": "The Other Canal",
+      "section_path": [
+        "The Other Canal"
+      ],
+      "section_path_text": "The Other Canal",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As the world's attention remains set on events unfolding in Egypt, the market continues to carefully monitor the stability of the Suez Canal. As was outlined in last week's opinion , volatility at shipping choke points has the potential to change the rate environment overnight.",
+      "keywords": [
+        "canal",
+        "world",
+        "change",
+        "expansion",
+        "panama",
+        "was",
+        "account",
+        "ago"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 125,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_02_11_the_other_canal__s02_current",
+      "doc_id": "poten_tankers_no_date_poten_2011_02_11_the_other_canal",
+      "parent_id": "poten_tankers_no_date_poten_2011_02_11_the_other_canal__root",
+      "title": "Current",
+      "section_path": [
+        "Current"
+      ],
+      "section_path_text": "Current",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Post Change \"Panamax\" \"Panamax\" Vessel Dimensions, meters Beam 32 49 53% Length 294 366 24% Draft 12 15 25%",
+      "keywords": [
+        "panamax",
+        "beam",
+        "change",
+        "dimensions",
+        "draft",
+        "length",
+        "meters",
+        "post"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 39,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_02_11_the_other_canal__s03_containers",
+      "doc_id": "poten_tankers_no_date_poten_2011_02_11_the_other_canal",
+      "parent_id": "poten_tankers_no_date_poten_2011_02_11_the_other_canal__root",
+      "title": "Containers",
+      "section_path": [
+        "Containers"
+      ],
+      "section_path_text": "Containers",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Current \"Panamax\" limitations versus \"post ‐ Panamax\" limitations demonstrate the additional capacity an expanded canal will accommodate. The expansion will allow passage through the canal of Panamax, Aframax, and some Suezmax vessels with the most‐limiting factor for transit remaining vessel's draft in tropical fresh water.",
+      "keywords": [
+        "panamax",
+        "suezmax",
+        "aframax",
+        "canal",
+        "limitations",
+        "accommodate.",
+        "additional",
+        "allow"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 102,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_02_11_the_other_canal__s04_refinery_rigmarole",
+      "doc_id": "poten_tankers_no_date_poten_2011_02_11_the_other_canal",
+      "parent_id": "poten_tankers_no_date_poten_2011_02_11_the_other_canal__root",
+      "title": "Refinery Rigmarole",
+      "section_path": [
+        "Refinery Rigmarole"
+      ],
+      "section_path_text": "Refinery Rigmarole",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Several major factor limiting potential trade developments include crude characteristics and port restrictions. West Coast are increasingly looking to import Russian ESPO crude oil from Kozmino as an alternative to dwindling domestic supply.",
+      "keywords": [
+        "suezmax",
+        "aframax",
+        "crude_oil",
+        "crude",
+        "oil",
+        "u.s.",
+        "west",
+        "coast"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 213,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_02_11_the_other_canal__s05_eastern",
+      "doc_id": "poten_tankers_no_date_poten_2011_02_11_the_other_canal",
+      "parent_id": "poten_tankers_no_date_poten_2011_02_11_the_other_canal__root",
+      "title": "Eastern",
+      "section_path": [
+        "Eastern"
+      ],
+      "section_path_text": "Eastern",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "",
+      "keywords": [
+        "europe",
+        "mediterranean",
+        "skikda"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_02_11_the_other_canal__s06_eastern",
+      "doc_id": "poten_tankers_no_date_poten_2011_02_11_the_other_canal",
+      "parent_id": "poten_tankers_no_date_poten_2011_02_11_the_other_canal__root",
+      "title": "Eastern",
+      "section_path": [
+        "Eastern"
+      ],
+      "section_path_text": "Eastern",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "",
+      "keywords": [
+        "europe",
+        "mediterranean",
+        "skikda"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_02_11_the_other_canal__s07_west_coast",
+      "doc_id": "poten_tankers_no_date_poten_2011_02_11_the_other_canal",
+      "parent_id": "poten_tankers_no_date_poten_2011_02_11_the_other_canal__root",
+      "title": "West Coast",
+      "section_path": [
+        "West Coast"
+      ],
+      "section_path_text": "West Coast",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "",
+      "keywords": [
+        "america",
+        "south"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_02_11_the_other_canal__s08_west_coast",
+      "doc_id": "poten_tankers_no_date_poten_2011_02_11_the_other_canal",
+      "parent_id": "poten_tankers_no_date_poten_2011_02_11_the_other_canal__root",
+      "title": "West Coast",
+      "section_path": [
+        "West Coast"
+      ],
+      "section_path_text": "West Coast",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "South America Although Ecuadorian, Mexican, and Russian crude oils comprise the majority of imports to the U.S. West Coast, the map above demonstrates the limited tanker trade currently moving crude oil both east and west on Panamax vessels through the canal and potential future trade routes.",
+      "keywords": [
+        "panamax",
+        "suezmax",
+        "aframax",
+        "brazil",
+        "west_africa",
+        "crude_oil",
+        "west",
+        "trade"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 225,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_02_11_the_other_canal__s09_chinese_misconceptions",
+      "doc_id": "poten_tankers_no_date_poten_2011_02_11_the_other_canal",
+      "parent_id": "poten_tankers_no_date_poten_2011_02_11_the_other_canal__root",
+      "title": "Chinese Misconceptions",
+      "section_path": [
+        "Chinese Misconceptions"
+      ],
+      "section_path_text": "Chinese Misconceptions",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "There are a number of sources that have cited the future canal expansion as a benefit to Chinese oil importers. Although there is growing Chinese demand for Caribbean (specifically Venezuelan) crude oil, canal expansion should have very little impact on Chinese imports considering current market trends.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "pacific",
+        "crude_oil",
+        "canal",
+        "chinese",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 133,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_02_11_the_other_canal__s10_what_benefits",
+      "doc_id": "poten_tankers_no_date_poten_2011_02_11_the_other_canal",
+      "parent_id": "poten_tankers_no_date_poten_2011_02_11_the_other_canal__root",
+      "title": "What Benefits?",
+      "section_path": [
+        "What Benefits?"
+      ],
+      "section_path_text": "What Benefits?",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "Looking at total volumes of ship types transiting the canal and existing trade patterns, the scheduled Panama Canal expansion looks to impact the dry bulk shipping market in a more substantial way than it will tanker markets. Lack of a significant tanker volume currently moving through the canal is the most obvious reason the canal expansion is being greeted with little fanfare or notoriety by owners and charterers.",
+      "keywords": [
+        "china",
+        "canal",
+        "expansion",
+        "impact",
+        "little",
+        "markets.",
+        "panama",
+        "patterns"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 228,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

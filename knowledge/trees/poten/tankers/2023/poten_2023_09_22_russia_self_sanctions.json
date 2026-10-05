@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2023_09_22_russia_self_sanctions__root",
+  "doc_id": "poten_tankers_no_date_poten_2023_09_22_russia_self_sanctions",
+  "parent_id": null,
+  "title": "Russia Self Sanctions",
+  "section_path": [
+    "Russia Self Sanctions"
+  ],
+  "section_path_text": "Russia Self Sanctions",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "What is the impact of the Russian fuel export ban? On September 21, 2023, Russia announced that it would temporarily ban exports of diesel and gasoline, to lower the prices of these products for Russian consumers. As global oil prices increased, exports have become more profitable for Russian refiners, raising domestic prices and reducing availability of diesel and gasoline.",
+  "keywords": [
+    "handysize",
+    "brazil",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "exports",
+    "diesel",
+    "russia",
+    "russian",
+    "ban",
+    "export"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 906,
+  "source_path": "reports/poten/2023/poten_2023-09-22_russia-self-sanctions.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2023_09_22_russia_self_sanctions__s01_what_is_the_impact_of_the_russian_fuel_export_ban",
+      "doc_id": "poten_tankers_no_date_poten_2023_09_22_russia_self_sanctions",
+      "parent_id": "poten_tankers_no_date_poten_2023_09_22_russia_self_sanctions__root",
+      "title": "What is the impact of the Russian fuel export ban?",
+      "section_path": [
+        "What is the impact of the Russian fuel export ban?"
+      ],
+      "section_path_text": "What is the impact of the Russian fuel export ban?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "On September 21, 2023, Russia announced that it would temporarily ban exports of diesel and gasoline, to lower the prices of these products for Russian consumers. As global oil prices increased, exports have become more profitable for Russian refiners, raising domestic prices and reducing availability of diesel and gasoline.",
+      "keywords": [
+        "handysize",
+        "brazil",
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "exports",
+        "diesel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 895,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

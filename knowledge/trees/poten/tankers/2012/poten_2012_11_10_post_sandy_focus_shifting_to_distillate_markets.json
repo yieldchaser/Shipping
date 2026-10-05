@@ -1,0 +1,338 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets__root",
+  "doc_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets",
+  "parent_id": null,
+  "title": "Post-Sandy Focus Shifting to Distillate Markets",
+  "section_path": [
+    "Post-Sandy Focus Shifting to Distillate Markets"
+  ],
+  "section_path_text": "Post-Sandy Focus Shifting to Distillate Markets",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "After the gasoline lines,\nWith the New York City area facing severe shortages of gasoline following Hurricane Sandy -- featuring the unwanted 1970s nostalgia of long lines at gas stations and now, odd-even day gasoline rationing -- the regional diesel and heating oil markets have not captured the same level of public attention. This week's storm that brought snow to the region, however, provided an abrupt reminder of approaching winter, and brought distillate inventories back into focus. In fact, New York City temporarily lifted the New York State requirement to burn heating oil with less than 15 ppm sulphur that began this summer, easing shortages.",
+  "keywords": [
+    "atlantic",
+    "crude_oil",
+    "products",
+    "gas",
+    "heating",
+    "distillate",
+    "oil",
+    "padd1",
+    "stocks",
+    "below",
+    "kbpd",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1088,
+  "source_path": "reports/poten/2012/poten_2012-11-10_post-sandy-focus-shifting-to-distillate-markets.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets__s01_after_the_gasoline_lines",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets__root",
+      "title": "After the gasoline lines,",
+      "section_path": [
+        "After the gasoline lines,"
+      ],
+      "section_path_text": "After the gasoline lines,",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "With the New York City area facing severe shortages of gasoline following Hurricane Sandy -- featuring the unwanted 1970s nostalgia of long lines at gas stations and now, odd-even day gasoline rationing -- the regional diesel and heating oil markets have not captured the same level of public attention. This week's storm that brought snow to the region, however, provided an abrupt reminder of approaching winter, and brought distillate inventories back into focus.",
+      "keywords": [
+        "atlantic",
+        "crude_oil",
+        "products",
+        "gas",
+        "heating",
+        "oil",
+        "below",
+        "gasoline"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 256,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets__s02_heating_oil_inventories",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets__root",
+      "title": "Heating oil inventories",
+      "section_path": [
+        "Heating oil inventories"
+      ],
+      "section_path_text": "Heating oil inventories",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "have not seen typical seasonal build",
+      "keywords": [
+        "build",
+        "not",
+        "seasonal",
+        "seen",
+        "typical"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets__s03_mid_atlantic_heating_oil",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets__root",
+      "title": "Mid-Atlantic heating oil",
+      "section_path": [
+        "Mid-Atlantic heating oil"
+      ],
+      "section_path_text": "Mid-Atlantic heating oil",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "stocks are 12.1 MB below 5-year average",
+      "keywords": [
+        "are",
+        "average",
+        "below",
+        "stocks",
+        "year"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 12,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets__s04_lower_heating_oil",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets__root",
+      "title": "Lower heating oil",
+      "section_path": [
+        "Lower heating oil"
+      ],
+      "section_path_text": "Lower heating oil",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "sulphur specs a factor states making plans to follow in the years after that. Major pipeline and terminal operators in New York made the switch to 15 ppm gasoil earlier in 2012.",
+      "keywords": [
+        "atlantic",
+        "crude_oil",
+        "gas",
+        "heating",
+        "oil",
+        "ppm",
+        "below",
+        "distillate"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 253,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets__s05_total_distillate_stocks_not",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets__root",
+      "title": "Total distillate stocks not",
+      "section_path": [
+        "Total distillate stocks not"
+      ],
+      "section_path_text": "Total distillate stocks not",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "",
+      "keywords": [
+        "building",
+        "either"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets__s06_total_distillate_stocks_are",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets__root",
+      "title": "Total distillate stocks are",
+      "section_path": [
+        "Total distillate stocks are"
+      ],
+      "section_path_text": "Total distillate stocks are",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "",
+      "keywords": [
+        "average",
+        "below",
+        "year"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets__s07_padd1_became_net",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets__root",
+      "title": "PADD1 became net",
+      "section_path": [
+        "PADD1 became net"
+      ],
+      "section_path_text": "PADD1 became net",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "distillate exporter in months before Sandy In retrospect, the export push by PADD1 refiners now looks premature, in light of Sandy's disruption. Distillate exports surged to 171 kbpd for the five months though August, a 47% yoy jump, while imports fell by 38% yoy, to 85 kbpd, during the same period.",
+      "keywords": [
+        "distillate",
+        "kbpd",
+        "months",
+        "sandy",
+        "yoy",
+        "additional",
+        "any",
+        "august"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 114,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets__s08_export_push_may_have",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets__root",
+      "title": "Export push may have",
+      "section_path": [
+        "Export push may have"
+      ],
+      "section_path_text": "Export push may have",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "",
+      "keywords": [
+        "premature"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets__s09_weaker_distillate",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets__root",
+      "title": "Weaker distillate",
+      "section_path": [
+        "Weaker distillate"
+      ],
+      "section_path_text": "Weaker distillate",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "",
+      "keywords": [
+        "demand",
+        "exports",
+        "net",
+        "prompted"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets__s10_net_transfers_in",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets__root",
+      "title": "Net Transfers In",
+      "section_path": [
+        "Net Transfers In"
+      ],
+      "section_path_text": "Net Transfers In",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "",
+      "keywords": [
+        "demand",
+        "imports",
+        "net",
+        "refinery"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets__s11_canada_dominant",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets__root",
+      "title": "Canada dominant",
+      "section_path": [
+        "Canada dominant"
+      ],
+      "section_path_text": "Canada dominant",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "supplier, after Caribbean refinery closures With this year's winter likely to return to seasonal norms, following last years' mild conditions, PADD1 refiners will need to rebuild stocks in the coming weeks. Even bringing total distillate stocks back to 41 MB by year end, or 35 days' supply, would require a 50-60 kbpd build during November and December.",
+      "keywords": [
+        "kbpd",
+        "padd1",
+        "back",
+        "build",
+        "demand",
+        "distillate",
+        "during",
+        "following"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 212,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets__s12_most_likely_sources_are",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_10_post_sandy_focus_shifting_to_distillate_markets__root",
+      "title": "Most likely sources are",
+      "section_path": [
+        "Most likely sources are"
+      ],
+      "section_path_text": "Most likely sources are",
+      "level": 1,
+      "ordinal": 12,
+      "summary": "domestic 25-50 kbpd of supply, while another possible domestic source would be the 75 kbpd of net transfers of distillate to PADD2, which operators could cut. Still, PADD1 would need to lose its net exporter status to bring inventories back to acceptable levels.",
+      "keywords": [
+        "atlantic",
+        "could",
+        "kbpd",
+        "net",
+        "distillate",
+        "domestic",
+        "padd1",
+        "still"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 140,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

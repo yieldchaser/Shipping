@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_07_22_treading_water__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_07_22_treading_water",
+  "parent_id": null,
+  "title": "Treading Water",
+  "section_path": [
+    "Treading Water"
+  ],
+  "section_path_text": "Treading Water",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Treading Water\nAs we settle into the third quarter of 2011, outlooks for the health of the global economy have been erratic at best upon headlines out of control debts, stagnant growth, and rising unemployment in developed economies. Despite recent gains in stock market performance, the grim state of macroeconomic affairs does not inspire much investor optimism in European and American markets. Tanker owners have proven incredibly resourceful in getting by, however a look into the economics of vessel ownership suggests that creative solutions may soon be required to navigate the market's choppy waters.",
+  "keywords": [
+    "vlcc",
+    "meg",
+    "europe",
+    "owners",
+    "voyage",
+    "seen",
+    "year",
+    "earnings",
+    "levels",
+    "may",
+    "particularly",
+    "prices"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 593,
+  "source_path": "reports/poten/2011/poten_2011-07-22_treading-water.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_07_22_treading_water__s01_treading_water",
+      "doc_id": "poten_tankers_no_date_poten_2011_07_22_treading_water",
+      "parent_id": "poten_tankers_no_date_poten_2011_07_22_treading_water__root",
+      "title": "Treading Water",
+      "section_path": [
+        "Treading Water"
+      ],
+      "section_path_text": "Treading Water",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As we settle into the third quarter of 2011, outlooks for the health of the global economy have been erratic at best upon headlines out of control debts, stagnant growth, and rising unemployment in developed economies. Despite recent gains in stock market performance, the grim state of macroeconomic affairs does not inspire much investor optimism in European and American markets.",
+      "keywords": [
+        "europe",
+        "seen",
+        "bunker",
+        "owners",
+        "rising",
+        "affairs",
+        "american",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 180,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_07_22_treading_water__s02_fuel_costs",
+      "doc_id": "poten_tankers_no_date_poten_2011_07_22_treading_water",
+      "parent_id": "poten_tankers_no_date_poten_2011_07_22_treading_water__root",
+      "title": "Fuel Costs",
+      "section_path": [
+        "Fuel Costs"
+      ],
+      "section_path_text": "Fuel Costs",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Total Voyage Opex Voyage Revenue The price spike in bunkers seen over the course of this year has drastically eroded profitability, particularly for owners with considerable spot market exposure. With these economics, owners must apply the vast majority of voyage earnings to pay for the voyage itself, and there is very little revenue left for shipowners to meet obligations outside of immediate operating costs.",
+      "keywords": [
+        "voyage",
+        "owners",
+        "revenue",
+        "apply",
+        "bunkers",
+        "considerable",
+        "costs.",
+        "course"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 73,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_07_22_treading_water__s03_what_is_yet_to_come",
+      "doc_id": "poten_tankers_no_date_poten_2011_07_22_treading_water",
+      "parent_id": "poten_tankers_no_date_poten_2011_07_22_treading_water__root",
+      "title": "What is Yet to Come",
+      "section_path": [
+        "What is Yet to Come"
+      ],
+      "section_path_text": "What is Yet to Come",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Trickling revenues may be particularly challenging for highly leveraged companies, especially if their borrowed money has been committed to payments on newbuild vessels. As we previously discussed in our opinion Cover Your Asset , shipping is a cyclical market, and the timing and luck in acquiring assets is often what makes or breaks company earnings.",
+      "keywords": [
+        "break",
+        "committed",
+        "deal",
+        "estimated",
+        "even",
+        "high",
+        "levels",
+        "owners"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 175,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_07_22_treading_water__s04_newbuilding",
+      "doc_id": "poten_tankers_no_date_poten_2011_07_22_treading_water",
+      "parent_id": "poten_tankers_no_date_poten_2011_07_22_treading_water__root",
+      "title": "Newbuilding",
+      "section_path": [
+        "Newbuilding"
+      ],
+      "section_path_text": "Newbuilding",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Breakeven Spot Rate: AG‐FE (260kt) This is over 135% higher than current spot market earnings on the benchmark Arabian Gulf to Far East trade, which have averaged about $17,500 in 2011 year to date, and over 48% higher than the current 1 year time charter rate for a modern VLCC. Although macro fundamentals appear strained for the near term and some tanker owners are facing real financial challenges, the bulk of the most expensive ships on the books have yet to deliver.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "current",
+        "higher",
+        "time",
+        "year",
+        "although",
+        "appear"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 149,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2016_07_01_out_of_sync__root",
+  "doc_id": "poten_tankers_no_date_poten_2016_07_01_out_of_sync",
+  "parent_id": null,
+  "title": "Out of Sync",
+  "section_path": [
+    "Out of Sync"
+  ],
+  "section_path_text": "Out of Sync",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Will freight rates and oil prices re-align? Some days ago we received a request to look into the relationship between tanker rates and oil prices. It seems logical that the two markets are related as tanker rates are driven by the volume of oil that is being moved and the distance between the producer and the consumer.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "crude_oil",
+    "oil",
+    "demand",
+    "prices",
+    "growth",
+    "mb/d",
+    "markets",
+    "are",
+    "but",
+    "production"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 873,
+  "source_path": "reports/poten/2016/poten_2016-07-01_out-of-sync.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_07_01_out_of_sync__s01_will_freight_rates_and_oil_prices_re_align",
+      "doc_id": "poten_tankers_no_date_poten_2016_07_01_out_of_sync",
+      "parent_id": "poten_tankers_no_date_poten_2016_07_01_out_of_sync__root",
+      "title": "Will freight rates and oil prices re-align?",
+      "section_path": [
+        "Will freight rates and oil prices re-align?"
+      ],
+      "section_path_text": "Will freight rates and oil prices re-align?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Some days ago we received a request to look into the relationship between tanker rates and oil prices. It seems logical that the two markets are related as tanker rates are driven by the volume of oil that is being moved and the distance between the producer and the consumer.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "crude_oil",
+        "oil",
+        "demand",
+        "prices",
+        "growth",
+        "mb/d"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 864,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

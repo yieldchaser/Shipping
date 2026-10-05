@@ -7,6 +7,7 @@ commodities:
 date: '2025-11-03'
 doc_id: hellenic_demolition_2025-11-03_2025_11_03_gms_week_44_halloween_november
 document_type: demolition_update
+is_error_page: false
 key_entities:
 - China
 - OPEC
@@ -29,7 +30,7 @@ linked_assets_ingested: 2
 linked_assets_mirrored: 2
 linked_assets_skipped: 1
 market_tone: cautiously_bearish
-numeric_observation_count: 87
+numeric_observation_count: 89
 numeric_observations:
 - section: Main
   section_type: null
@@ -41,6 +42,7 @@ numeric_observations:
   values:
   - 1.0
   - 60.67
+  - 1.0
   - 2026.0
   - 2025.0
 - section: Main
@@ -54,6 +56,15 @@ numeric_observations:
   - 1.3
   - 8.0
   - 2025.0
+- section: Main
+  section_type: null
+  source_line: As a result, the ship recycling industry has continued to endure a
+    stultifying and sluggish Q4 (in line with the numerous quarters spanning the last
+    few years) with declines evident across all sectors and sales (barring the occasional
+    stunners) occurring at ev
+  unit: null
+  values:
+  - 4.0
 - section: Main
   section_type: null
   source_line: Overall, despite a reported end to the U.S.-Chinese trade tit-for-tat,
@@ -80,10 +91,12 @@ numeric_observations:
   - -11.0
   - -3.0
   - 44.0
+  - 1.0
   - 786769.0
   - 8.0
-  - 1.0
-  - 3.0
+  - 8.0
+  - 61.0
+  - 33.0
 - section: 'Linked asset: 2025-11-03_gms-week-44-halloween-november_ship-recycling-market-insight-week-4_b9974a22afd4.pdf'
   section_type: linked_pdf
   source_line: October 31st, 2025
@@ -118,6 +131,7 @@ numeric_observations:
   unit: usd
   values:
   - 60.67
+  - 1.0
   - 2026.0
 - section: 'Linked asset: 2025-11-03_gms-week-44-halloween-november_ship-recycling-market-insight-week-4_b9974a22afd4.pdf'
   section_type: linked_pdf
@@ -146,6 +160,13 @@ numeric_observations:
   unit: null
   values:
   - 2025.0
+- section: 'Linked asset: 2025-11-03_gms-week-44-halloween-november_ship-recycling-market-insight-week-4_b9974a22afd4.pdf'
+  section_type: linked_pdf
+  source_line: A s a result, the ship recycling industry has continued to endure a
+    stultifying and sluggish Q4 (in
+  unit: null
+  values:
+  - 4.0
 - section: 'Linked asset: 2025-11-03_gms-week-44-halloween-november_ship-recycling-market-insight-week-4_b9974a22afd4.pdf'
   section_type: linked_pdf
   source_line: • Harrowing 2025. highlight, including a seemingly steady trickle of
@@ -670,9 +691,9 @@ numeric_observations:
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
   values:
-  - 30.21
+  - 30210.0
   - 899.0669
-  - 91.278
+  - 91278.0
   - 300.5253
 - section: 'Linked asset: 2025-11-03_gms-week-44-halloween-november_ship-recycling-market-insight-week-4_b9974a22afd4.pdf'
   section_type: linked_pdf
@@ -697,7 +718,7 @@ numeric_observations:
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
   values:
-  - 86.216
+  - 86216.0
   - 75.19
   - 82.1
   - 4650.072
@@ -719,17 +740,19 @@ numeric_observations:
   - -11.0
   - -3.0
   - 44.0
+  - 1.0
   - 786769.0
   - 8.0
-  - 1.0
-  - 3.0
+  - 8.0
+  - 61.0
+  - 33.0
 - section: 'Linked asset: 2025-11-03_gms-week-44-halloween-november_img1_786769_8e8e61c33dab.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 687x148 mode=RGB'
   unit: null
   values:
   - 687.0
-  - 48.0
+  - 148.0
 - section: 'Linked asset: 2025-11-03_gms-week-44-halloween-november_img1_786769_8e8e61c33dab.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'

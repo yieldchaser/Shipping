@@ -1,0 +1,351 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes__root",
+  "doc_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes",
+  "parent_id": null,
+  "title": "Japanese Utility Demand Supports Aframaxes",
+  "section_path": [
+    "Japanese Utility Demand Supports Aframaxes"
+  ],
+  "section_path_text": "Japanese Utility Demand Supports Aframaxes",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Japanese utility demand\nAlthough the Japanese government has approved the start-up of two nuclear reactors in July in order to avoid power shortages during peak summer demand, the removal of virtually all of Japan's nuclear generating capacity following the Fukushima disaster in 2011 should continue to support LNG, fuel oil and crude imports in the medium term. Shifting import sourcing patterns for fuel oil and crude for direct burning at Japanese utilities have been supportive for Aframax demand, and this should continue, despite modest declines from the nuclear start-ups. should remain supportive On July 1st, Kansai Electric Power Company restarted its 1,180-megawatt No.",
+  "keywords": [
+    "aframax",
+    "lng",
+    "brazil",
+    "pacific",
+    "meg",
+    "japan",
+    "crude_oil",
+    "gas",
+    "demand",
+    "crude",
+    "japanese",
+    "fuel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 901,
+  "source_path": "reports/poten/2012/poten_2012-07-06_japanese-utility-demand-supports-aframaxes.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes__s01_japanese_utility_demand",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes__root",
+      "title": "Japanese utility demand",
+      "section_path": [
+        "Japanese utility demand"
+      ],
+      "section_path_text": "Japanese utility demand",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Although the Japanese government has approved the start-up of two nuclear reactors in July in order to avoid power shortages during peak summer demand, the removal of virtually all of Japan's nuclear generating capacity following the Fukushima disaster in 2011 should continue to support LNG, fuel oil and crude imports in the medium term. Shifting import sourcing patterns for fuel oil and crude for direct burning at Japanese utilities have been supportive for Aframax demand, and this should continue, despite modest declines from the nuclear start-ups.",
+      "keywords": [
+        "aframax",
+        "lng",
+        "meg",
+        "japan",
+        "crude_oil",
+        "gas",
+        "japanese",
+        "nuclear"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 255,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes__s02_after_two_months_of",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes__root",
+      "title": "After two months of",
+      "section_path": [
+        "After two months of"
+      ],
+      "section_path_text": "After two months of",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "being nuclear-free, Japan restarts two reactors",
+      "keywords": [
+        "japan",
+        "being",
+        "nuclear-free",
+        "reactors",
+        "restarts",
+        "two"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes__s03_fuel_oil_imports_and",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes__root",
+      "title": "Fuel oil imports and",
+      "section_path": [
+        "Fuel oil imports and"
+      ],
+      "section_path_text": "Fuel oil imports and",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "crude direct burn jumping on utility demand",
+      "keywords": [
+        "burn",
+        "crude",
+        "demand",
+        "direct",
+        "jumping",
+        "utility"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes__s04_direct_crude_burn",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes__root",
+      "title": "Direct Crude Burn",
+      "section_path": [
+        "Direct Crude Burn"
+      ],
+      "section_path_text": "Direct Crude Burn",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Fuel Oil Imports 80% above the 2011 average of 303 kbpd, according to data from the Petroleum Association of Japan (PAJ). Moreover, direct crude burn has provided the majority of the gains, rising to 381 kbpd during the first four months of 2012, versus the 99 kbpd rate in 2010, while fuel oil imports have risen by 105 kbpd during the period.",
+      "keywords": [
+        "japan",
+        "crude_oil",
+        "kbpd",
+        "during",
+        "fuel",
+        "imports",
+        "oil",
+        "above"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 87,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes__s05_direct_crude_burn_has",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes__root",
+      "title": "Direct crude burn has",
+      "section_path": [
+        "Direct crude burn has"
+      ],
+      "section_path_text": "Direct crude burn has",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "been the key import driver While crude for direct burn has dominated the surge in oil imports for Japanese utilities, sourcing shifts in heavy/sweet crude imports have provided a dramatic jump in tonne- mile demand, as illustrated in the chart below.",
+      "keywords": [
+        "japan",
+        "crude_oil",
+        "crude",
+        "imports",
+        "below.",
+        "burn",
+        "chart",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 48,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes__s06_japanese_utility_import",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes__root",
+      "title": "Japanese utility import",
+      "section_path": [
+        "Japanese utility import"
+      ],
+      "section_path_text": "Japanese utility import",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "",
+      "keywords": [
+        "demand",
+        "leapt",
+        "seven-fold",
+        "tonne-mile"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes__s07_direct_crude_burn",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes__root",
+      "title": "Direct Crude Burn",
+      "section_path": [
+        "Direct Crude Burn"
+      ],
+      "section_path_text": "Direct Crude Burn",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "",
+      "keywords": [
+        "crude_oil",
+        "fuel",
+        "imports",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes__s08_heightened",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes__root",
+      "title": "Heightened",
+      "section_path": [
+        "Heightened"
+      ],
+      "section_path_text": "Heightened",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "heavy/sweet crude demand is pushing sourcing further afield Aframaxes have benefited from the regional fuel oil and crude import demand from Japanese utilities. Excluding the imports from Gabon, tonne-mile demand during the first four months of 2012 were still four times the level before the tsunami.",
+      "keywords": [
+        "aframax",
+        "brazil",
+        "japan",
+        "crude_oil",
+        "demand",
+        "aframaxes",
+        "crude",
+        "during"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 131,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes__s09_increased_japanese",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes__root",
+      "title": "Increased Japanese",
+      "section_path": [
+        "Increased Japanese"
+      ],
+      "section_path_text": "Increased Japanese",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "demand equivalent to 15 Aframaxes Incremental Japanese utility demand has contributed to the supply/demand environment for Aframaxes, but the recent re-start of the Ohi nuclear units will provide a modest decline in fuel demand. Utility analysts have suggested that Kansai would reduce its more-expensive oil-fired generation, cutting fuel oil and crude oil demand by 60-70 kbpd.",
+      "keywords": [
+        "aframax",
+        "brazil",
+        "japan",
+        "crude_oil",
+        "demand",
+        "aframaxes",
+        "would",
+        "fuel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 111,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes__s10_ohi_nuclear_restarts_to",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes__root",
+      "title": "Ohi nuclear restarts to",
+      "section_path": [
+        "Ohi nuclear restarts to"
+      ],
+      "section_path_text": "Ohi nuclear restarts to",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "cut utility import demand by 10-12% Although additional nuclear restarts would pose a threat to both LNG carrier and tanker demand, the Ohi restarts met with large-scale protests in Japan, suggesting that additional restarts may not be politically viable. Recent opinion polls have indicated that roughly 70% of Japanese voters want the country to abandon nuclear power in the long term, but the utilities still need to meet peak summer demand.",
+      "keywords": [
+        "lng",
+        "japan",
+        "gas",
+        "restarts",
+        "additional",
+        "demand",
+        "nuclear",
+        "abandon"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 87,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes__s11_additional_reactor",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes__root",
+      "title": "Additional reactor",
+      "section_path": [
+        "Additional reactor"
+      ],
+      "section_path_text": "Additional reactor",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "restarts may not be politically viable For the near-term, Japanese utility demand should continue to support Asian Aframax demand, while the anticipated 400 kbpd expansion of the ESPO pipeline should boost demand for exports from Kozmino to Pacific Basin refiners late this year or early next year. With Aframax net fleet growth expected to slide below 1% yoy by year end on slowing deliveries, Asia could continue to provide relief to an unbalanced market.",
+      "keywords": [
+        "aframax",
+        "pacific",
+        "japan",
+        "demand",
+        "continue",
+        "should",
+        "year",
+        "anticipated"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 93,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes__s12_hope_for_asian_aframax",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_06_japanese_utility_demand_supports_aframaxes__root",
+      "title": "Hope for Asian Aframax",
+      "section_path": [
+        "Hope for Asian Aframax"
+      ],
+      "section_path_text": "Hope for Asian Aframax",
+      "level": 1,
+      "ordinal": 12,
+      "summary": "",
+      "keywords": [
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

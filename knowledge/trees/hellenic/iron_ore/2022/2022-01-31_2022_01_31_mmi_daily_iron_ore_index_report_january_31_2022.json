@@ -13,20 +13,20 @@
   "keywords": [
     "china",
     "brazil",
+    "australia",
+    "singapore",
     "iron_ore",
-    "port",
-    "change",
+    "bauxite",
+    "crude_oil",
+    "steel",
+    "fines",
     "ore",
-    "yuan/mt",
-    "high",
-    "holiday",
-    "increased",
-    "iron",
-    "low"
+    "port",
+    "jan"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1172,
+  "token_count": 16068,
   "source_path": "reports/hellenic/iron_ore/2022/2022-01-31_mmi-daily-iron-ore-index-report-january-31-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-january-31-2022",
   "children": [
@@ -59,7 +59,35 @@
       "children": []
     },
     {
-      "node_id": "hellenic_iron_ore_2022-01-31_2022_01_31_mmi_daily_iron_ore_index_report_january_31_2022__s02_linked_asset_2022_01_31_mmi_daily_iron_ore_index_report_january_31_2022_img1_3101chinese45_de3c7b22007e_jpg",
+      "node_id": "hellenic_iron_ore_2022-01-31_2022_01_31_mmi_daily_iron_ore_index_report_january_31_2022__s02_linked_asset_2022_01_31_mmi_daily_iron_ore_index_report_january_31_2022_mmi_daily_iron_ore_report_for_31th_j_44d2e87a7411_pdf",
+      "doc_id": "hellenic_iron_ore_2022-01-31_2022_01_31_mmi_daily_iron_ore_index_report_january_31_2022",
+      "parent_id": "hellenic_iron_ore_2022-01-31_2022_01_31_mmi_daily_iron_ore_index_report_january_31_2022__root",
+      "title": "Linked asset: 2022-01-31_mmi-daily-iron-ore-index-report-january-31-2022_mmi-daily-iron-ore-report-for-31th-j_44d2e87a7411.pdf",
+      "section_path": [
+        "Linked asset: 2022-01-31_mmi-daily-iron-ore-index-report-january-31-2022_mmi-daily-iron-ore-report-for-31th-j_44d2e87a7411.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-01-31_mmi-daily-iron-ore-index-report-january-31-2022_mmi-daily-iron-ore-report-for-31th-j_44d2e87a7411.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: corpus/02-hellenic/iron_ore/pdfs/2022-01-31_mmi-daily-iron-ore-index-report-january-31-2022_mmi-daily-iron-ore-report-for-31th-j_44d2e87a7411.pdf\n\n**968**\n\n**0 0.00%**\n\n**1162**\n\n**0.00 0.00%**\n\n**693**\n\n**0 0.00%**\n\n**829.00**\n\n**60.00 7.80%**\n\n**4829**\n\n**156 3.34%**\n\n**17.91**\n\n**0.00 0.00%**\n\n**6.47**\n\n**0.00 0.00%**\n\n**SHFE Rebar**\n\n**RB2205 (Jan) RMB/t**\n\n**Jan 31st, 2022**\n\n**(3pm close)**\n\n**DCE Iron Ore 62% Fines**\n\n**I2201 (Jan) RMB/t (3pm close)**\n\n**Jan 31st, 2022**\n\n**(3pm close)**\n\n**SGX Iron Ore (CFR Qingdao) 62% Fe Fines**\n\n**December 21 USD/dmt**\n\n**137.75**\n\n**-9.35 -6.36%**\n\n**Jan 31st, 2022**\n\n**(5.30 pm Print)**\n\n# MMi Dashboard\n\n**Iron Ore Price Indices**\n\n| | |\n| --- | --- |\n| **Iron Ore Port Stock (FOT Qingdao)**<br>**IOPI62 62% Fe Fines RMB/t** | |\n| HOLIDAY | |\n| **Jan 31st, 2022** | |\n\n**Iron Ore Port Stock (FOT Qingdao) IOPI65 65% Fe Fines RMB/t**\n\n**Jan 31st, 2022**\n\nHOLIDAY\n\n**Iron Port Stock (FOT Qingdao) IOPI58 58% Fe Fines RMB/t**\n\n**Jan 31st, 2022**\n\nHOLIDAY\n\n**Iron Ore Seaborne (CFR Qingdao) IOSI62 62% Fe Fines USD/dmt**\n\n**144.15**\n\n**0.00 0.00%**\n\n**Jan 31st, 2022**\n\n**Iron Ore Seaborne (CFR Qingdao) IOSI65 65% Fe Fines USD/dmt**\n\n",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "singapore",
+        "iron_ore",
+        "bauxite",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 14840,
+      "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2022-01-31_2022_01_31_mmi_daily_iron_ore_index_report_january_31_2022__s03_linked_asset_2022_01_31_mmi_daily_iron_ore_index_report_january_31_2022_img1_3101chinese45_de3c7b22007e_jpg",
       "doc_id": "hellenic_iron_ore_2022-01-31_2022_01_31_mmi_daily_iron_ore_index_report_january_31_2022",
       "parent_id": "hellenic_iron_ore_2022-01-31_2022_01_31_mmi_daily_iron_ore_index_report_january_31_2022__root",
       "title": "Linked asset: 2022-01-31_mmi-daily-iron-ore-index-report-january-31-2022_img1_3101chinese45_de3c7b22007e.jpg",
@@ -68,8 +96,8 @@
       ],
       "section_path_text": "Linked asset: 2022-01-31_mmi-daily-iron-ore-index-report-january-31-2022_img1_3101chinese45_de3c7b22007e.jpg",
       "level": 1,
-      "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/iron_ore/2022/assets/2022-01-31_mmi-daily-iron-ore-index-report-january-31-2022_img1_3101chinese45_de3c7b22007e.jpg\n\nLinked image asset: 2022-01-31_mmi-daily-iron-ore-index-report-january-31-2022_img1_3101chinese45_de3c7b22007e.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nMMi Daily Iron Ore Index Report Jan 31st, 2022\nIRON ORE PORT STOCK INDEX (IOP!)\nJan 31st, 2022 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc.",
+      "ordinal": 3,
+      "summary": "Source asset: corpus/02-hellenic/iron_ore/2022/assets/2022-01-31_mmi-daily-iron-ore-index-report-january-31-2022_img1_3101chinese45_de3c7b22007e.jpg\n\nLinked image asset: 2022-01-31_mmi-daily-iron-ore-index-report-january-31-2022_img1_3101chinese45_de3c7b22007e.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nMMi Daily Iron Ore Index Report Jan 31st, 2022\nIRON ORE PORT STOCK INDEX (IOP!)\nJan 31st, 2022 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc.",
       "keywords": [
         "china",
         "brazil",
@@ -82,7 +110,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 804,
+      "token_count": 806,
       "section_type": "linked_image_asset",
       "children": []
     }

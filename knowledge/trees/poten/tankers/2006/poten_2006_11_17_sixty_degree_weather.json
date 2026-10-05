@@ -1,0 +1,139 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2006_11_17_sixty_degree_weather__root",
+  "doc_id": "poten_tankers_no_date_poten_2006_11_17_sixty_degree_weather",
+  "parent_id": null,
+  "title": "Sixty Degree Weather",
+  "section_path": [
+    "Sixty Degree Weather"
+  ],
+  "section_path_text": "Sixty Degree Weather",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Sixty Degree Weather\nAs New York City continues to see unseasonably warm temperatures, visitors to town are not the only fortunate ones. Like many others on the East Coast, most New Yorkers are enjoying a respite from heating oil bills. With distillate stocks near historically high levels, product tanker demand has remained relatively weak.",
+  "keywords": [
+    "handysize",
+    "brazil",
+    "grain",
+    "crude_oil",
+    "products",
+    "gas",
+    "demand",
+    "are",
+    "new",
+    "distillate",
+    "distillates",
+    "levels"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 476,
+  "source_path": "reports/poten/2006/poten_2006-11-17_sixty-degree-weather.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_11_17_sixty_degree_weather__s01_sixty_degree_weather",
+      "doc_id": "poten_tankers_no_date_poten_2006_11_17_sixty_degree_weather",
+      "parent_id": "poten_tankers_no_date_poten_2006_11_17_sixty_degree_weather__root",
+      "title": "Sixty Degree Weather",
+      "section_path": [
+        "Sixty Degree Weather"
+      ],
+      "section_path_text": "Sixty Degree Weather",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As New York City continues to see unseasonably warm temperatures, visitors to town are not the only fortunate ones. Like many others on the East Coast, most New Yorkers are enjoying a respite from heating oil bills.",
+      "keywords": [
+        "handysize",
+        "brazil",
+        "crude_oil",
+        "products",
+        "gas",
+        "are",
+        "new",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 156,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_11_17_sixty_degree_weather__s02_worldscale_rate",
+      "doc_id": "poten_tankers_no_date_poten_2006_11_17_sixty_degree_weather",
+      "parent_id": "poten_tankers_no_date_poten_2006_11_17_sixty_degree_weather__root",
+      "title": "Worldscale Rate",
+      "section_path": [
+        "Worldscale Rate"
+      ],
+      "section_path_text": "Worldscale Rate",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "tce"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_11_17_sixty_degree_weather__s03_well_stocked",
+      "doc_id": "poten_tankers_no_date_poten_2006_11_17_sixty_degree_weather",
+      "parent_id": "poten_tankers_no_date_poten_2006_11_17_sixty_degree_weather__root",
+      "title": "Well Stocked",
+      "section_path": [
+        "Well Stocked"
+      ],
+      "section_path_text": "Well Stocked",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Last week in the United States, distillate demand was assessed to be around 4.6 million barrels per day. This marks a substantial increase as compared to the same week a year ago, when demand was at 3.9 million barrels per day.",
+      "keywords": [
+        "barrels",
+        "day.",
+        "demand",
+        "distillate",
+        "levels",
+        "million",
+        "per",
+        "stock"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 104,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_11_17_sixty_degree_weather__s04_replenishing_supplies",
+      "doc_id": "poten_tankers_no_date_poten_2006_11_17_sixty_degree_weather",
+      "parent_id": "poten_tankers_no_date_poten_2006_11_17_sixty_degree_weather__root",
+      "title": "Replenishing Supplies",
+      "section_path": [
+        "Replenishing Supplies"
+      ],
+      "section_path_text": "Replenishing Supplies",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "In the short-run it appears as though the United States is well stocked with distillates. However, as demand for distillates increases through the winter season, finding replacement supplies will now be even more of a challenge.",
+      "keywords": [
+        "grain",
+        "products",
+        "become",
+        "distillates",
+        "sulfur",
+        "suppliers",
+        "traditional",
+        "united"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 195,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

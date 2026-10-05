@@ -9,6 +9,7 @@ commodities:
 date: '2026-04-14'
 doc_id: hellenic_demolition_2026-04-14_2026_04_14_gms_week_15_war_premium_cracks
 document_type: demolition_update
+is_error_page: false
 key_entities:
 - China
 - Brazil
@@ -32,7 +33,7 @@ linked_assets_ingested: 2
 linked_assets_mirrored: 2
 linked_assets_skipped: 1
 market_tone: constructive
-numeric_observation_count: 119
+numeric_observation_count: 129
 numeric_observations:
 - section: Main
   section_type: null
@@ -44,6 +45,8 @@ numeric_observations:
   values:
   - 15.0
   - 109.0
+  - 1.0
+  - 2.0
   - 101.0
   - 8.0
   - 90.0
@@ -57,6 +60,7 @@ numeric_observations:
   values:
   - 2139.0
   - 8.0
+  - 3.0
   - 30.0
   - 2024.0
 - section: Main
@@ -69,6 +73,16 @@ numeric_observations:
   values:
   - 93.21
   - 99.3
+  - 2.0
+- section: Main
+  section_type: null
+  source_line: For recyclers, the oil correction is important but not decisive. Lower
+    fuel costs may eventually undermine trading economics for older vessels, but the
+    move is still too recent to trigger immediate recycling flows. Owners are unlikely
+    to react to a single week
+  unit: null
+  values:
+  - 1.0
 - section: Main
   section_type: null
   source_line: 'As Week 15 closes, the industry stands at a genuine inflection point,
@@ -78,6 +92,8 @@ numeric_observations:
   unit: null
   values:
   - 15.0
+  - 2.0
+  - 2.0
 - section: Main
   section_type: null
   source_line: For Week 15 of 2026, GMS Market Rankings / vessel indications are as
@@ -103,13 +119,16 @@ numeric_observations:
   - 15.0
   - 75634.0
   - 9.0
+  - 9.0
+  - 2.0
+  - 8.0
 - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_75634_9fb9e2ec8ada.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 687x152 mode=RGB'
   unit: null
   values:
   - 687.0
-  - 52.0
+  - 152.0
 - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_75634_9fb9e2ec8ada.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'
@@ -182,12 +201,14 @@ numeric_observations:
   unit: usd
   values:
   - 109.0
+  - 1.0
 - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: early Q2, fell to near USD 101/barrel by week's end, an almost 8% drop
     in a matter of hours. WTI
   unit: pct
   values:
+  - 2.0
   - 101.0
   - 8.0
 - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
@@ -205,6 +226,13 @@ numeric_observations:
   values:
   - 2139.0
   - 8.0
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+  section_type: linked_pdf
+  source_line: to-China iron ore window opened, with the BCI C3 Brazil-to-Qingdao
+    route briefly breaking above
+  unit: null
+  values:
+  - 3.0
 - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: USD 30 /metric ton for the first time since July 2024. Panam ax and
@@ -227,6 +255,14 @@ numeric_observations:
   unit: null
   values:
   - 99.3
+  - 2.0
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+  section_type: linked_pdf
+  source_line: recycling flows. Owners are unlikely to react to a single week's volatility.
+    The Q1 backlog of tonnage
+  unit: null
+  values:
+  - 1.0
 - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: on the GMS App! As Week 15 closes, the industry stands at a genuine
@@ -234,6 +270,20 @@ numeric_observations:
   unit: null
   values:
   - 15.0
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+  section_type: linked_pdf
+  source_line: start of Q2. Whether this moment marks the beginning of supply normalization
+    or merely a
+  unit: null
+  values:
+  - 2.0
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+  section_type: linked_pdf
+  source_line: temporary reprieve in a geopolitically defined market will determine
+    the character of Q2.
+  unit: null
+  values:
+  - 2.0
 - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: GMS market rankings / pricing for week 15 of 2026 are on Page 5.
@@ -269,6 +319,8 @@ numeric_observations:
     exchange rates. With the
   unit: usd
   values:
+  - 1.0
+  - 2.0
   - 578.0
 - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
@@ -287,6 +339,13 @@ numeric_observations:
   unit: null
   values:
   - 14.0
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+  section_type: linked_pdf
+  source_line: through Q1, continues to clear at an accelerating pace. Post-Eid central
+    bank approvals are
+  unit: null
+  values:
+  - 1.0
 - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: is meaningfully less acute entering Week 15. The two OFAC-sanctioned
@@ -317,6 +376,13 @@ numeric_observations:
   unit: pct
   values:
   - 9.09
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+  section_type: linked_pdf
+  source_line: even a partial and sustained release of the Q1 tonnage overhang, arrives
+    at precisely the right
+  unit: null
+  values:
+  - 1.0
 - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: HONG KONG ENERGY LNG 31,340 USD 513/LT LDT ('as is' Linggi, Malaysia
@@ -395,6 +461,13 @@ numeric_observations:
   - 3.21
 - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
+  source_line: Structurally, India's strongest differentiator heading into Q2 remains
+    its HKC compliance
+  unit: null
+  values:
+  - 2.0
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+  section_type: linked_pdf
   source_line: infrastructure. With more than 110 yards holding valid Statements of
     Compliance, Alang retains HKC strength.
   unit: null
@@ -420,6 +493,7 @@ numeric_observations:
     in a narrow 278.58-279.00 range through the'
   unit: null
   values:
+  - 1.0
   - 278.58
   - -279.0
 - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
@@ -471,6 +545,20 @@ numeric_observations:
   - 15.0
 - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
+  source_line: speculative risk rather than an immediate market reality. Pakistan
+    enters the second half of Q2's
+  unit: null
+  values:
+  - 2.0
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+  section_type: linked_pdf
+  source_line: Whether the oil pullback becomes the catalyst that finally releases
+    the Q1 backlog will be the
+  unit: null
+  values:
+  - 1.0
+- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
+  section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
@@ -483,6 +571,7 @@ numeric_observations:
   unit: null
   values:
   - 15.0
+  - 2.0
 - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
   source_line: Week 14 record low of 44.59 to approximately 44.34 against the U.S.
@@ -821,9 +910,9 @@ numeric_observations:
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
   values:
-  - 30.21
+  - 30210.0
   - 899.0669
-  - 91.278
+  - 91278.0
   - 300.5253
 - section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
   section_type: linked_pdf
@@ -848,7 +937,7 @@ numeric_observations:
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
   values:
-  - 86.216
+  - 86216.0
   - 75.19
   - 82.1
   - 4650.072
@@ -921,85 +1010,6 @@ numeric_observations:
   - 2.0
   - 2.0
   - 6.0
-- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
-  section_type: linked_pdf
-  source_line: 4 / 1 0 / 2 0 2 6
-  unit: null
-  values:
-  - 4.0
-  - 1.0
-  - 2.0
-  - 2.0
-  - 6.0
-- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
-  section_type: linked_pdf
-  source_line: 3 8 .2 4
-  unit: null
-  values:
-  - 3.0
-  - 8.0
-  - 2.0
-  - 4.0
-- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
-  section_type: linked_pdf
-  source_line: 4 8 .1 0
-  unit: null
-  values:
-  - 4.0
-  - 8.0
-  - 1.0
-- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
-  section_type: linked_pdf
-  source_line: 5 0 .6 3
-  unit: null
-  values:
-  - 5.0
-  - 6.0
-  - 3.0
-- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
-  section_type: linked_pdf
-  source_line: 5 2 .5 8
-  unit: null
-  values:
-  - 5.0
-  - 2.0
-  - 5.0
-  - 8.0
-- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
-  section_type: linked_pdf
-  source_line: 4 3 .9 4
-  unit: null
-  values:
-  - 4.0
-  - 3.0
-  - 9.0
-  - 4.0
-- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
-  section_type: linked_pdf
-  source_line: 4 1 .1 6
-  unit: null
-  values:
-  - 4.0
-  - 1.0
-  - 1.0
-  - 6.0
-- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
-  section_type: linked_pdf
-  source_line: 5 8 4 .3 6
-  unit: null
-  values:
-  - 5.0
-  - 8.0
-  - 4.0
-  - 3.0
-  - 6.0
-- section: 'Linked asset: 2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf'
-  section_type: linked_pdf
-  source_line: Steel Plate Prices Page 8 of 8
-  unit: null
-  values:
-  - 8.0
-  - 8.0
 regions:
 - india
 - china

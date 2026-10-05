@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2017_12_08_fuel_for_thought__root",
+  "doc_id": "poten_tankers_no_date_poten_2017_12_08_fuel_for_thought",
+  "parent_id": null,
+  "title": "Fuel For Thought",
+  "section_path": [
+    "Fuel For Thought"
+  ],
+  "section_path_text": "Fuel For Thought",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Oil demand growth and refining expansion in 2018\nAs we are approaching the end of 2017, a year most tanker owners would probably rather forget as soon as possible, we want to look forward to 2018, in particular focusing on some of the key elements that will drive tanker demand: oil demand growth and refining expansion. How much more oil will the world need, where will they need it, who will supply the crude and where will it be refined? We already discussed in last week's opinion (\" No Surprise From OPEC \") that, as long as OPEC maintains its productions cuts, most of the incremental crude oil in 2018 will likely be light tight oil coming from the U.S.",
+  "keywords": [
+    "china",
+    "crude_oil",
+    "products",
+    "oil",
+    "crude",
+    "refinery",
+    "growth",
+    "are",
+    "mb/d",
+    "refining",
+    "b/d",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 899,
+  "source_path": "reports/poten/2017/poten_2017-12-08_fuel-for-thought.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2017_12_08_fuel_for_thought__s01_oil_demand_growth_and_refining_expansion_in_2018",
+      "doc_id": "poten_tankers_no_date_poten_2017_12_08_fuel_for_thought",
+      "parent_id": "poten_tankers_no_date_poten_2017_12_08_fuel_for_thought__root",
+      "title": "Oil demand growth and refining expansion in 2018",
+      "section_path": [
+        "Oil demand growth and refining expansion in 2018"
+      ],
+      "section_path_text": "Oil demand growth and refining expansion in 2018",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As we are approaching the end of 2017, a year most tanker owners would probably rather forget as soon as possible, we want to look forward to 2018, in particular focusing on some of the key elements that will drive tanker demand: oil demand growth and refining expansion. How much more oil will the world need, where will they need it, who will supply the crude and where will it be refined?",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "products",
+        "oil",
+        "crude",
+        "refinery",
+        "growth",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 888,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_06_04_drilling_deep__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_06_04_drilling_deep",
+  "parent_id": null,
+  "title": "Drilling Deep?",
+  "section_path": [
+    "Drilling Deep?"
+  ],
+  "section_path_text": "Drilling Deep?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "While it has been evident for weeks that the Deepwater Horizon oil spill is a transformative event for the entire energy industry, a widespread sense of confusion following the announcement of a six‐month moratorium on deepwater drilling in the Gulf of Mexico leaves its near‐term impact largely unclear. If, as some fear, the moratorium drags on past the current six‐ month timeframe, it could exacerbate the United States' long‐term dependence on imported oil and have potentially significant consequences for the development of regional tanker trade flows. On May 27, President Obama announced the cancellation of a recently‐announced lease sale off the coast of Virginia, a delay of plans to drill for oil in Arctic regions and a six month moratorium on drilling in greater than 500 foot water depths within the Gulf of Mexico.",
+  "keywords": [
+    "us_gulf",
+    "crude_oil",
+    "deepwater",
+    "gulf",
+    "moratorium",
+    "could",
+    "drilling",
+    "oil",
+    "production",
+    "six",
+    "delay",
+    "result"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 811,
+  "source_path": "reports/poten/2010/poten_2010-06-04_drilling-deep.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_06_04_drilling_deep__s01_drilling_deep",
+      "doc_id": "poten_tankers_no_date_poten_2010_06_04_drilling_deep",
+      "parent_id": "poten_tankers_no_date_poten_2010_06_04_drilling_deep__root",
+      "title": "Drilling Deep?",
+      "section_path": [
+        "Drilling Deep?"
+      ],
+      "section_path_text": "Drilling Deep?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "While it has been evident for weeks that the Deepwater Horizon oil spill is a transformative event for the entire energy industry, a widespread sense of confusion following the announcement of a six‐month moratorium on deepwater drilling in the Gulf of Mexico leaves its near‐term impact largely unclear. If, as some fear, the moratorium drags on past the current six‐ month timeframe, it could exacerbate the United States' long‐term dependence on imported oil and have potentially significant consequences for the development of regional tanker trade flows.",
+      "keywords": [
+        "us_gulf",
+        "crude_oil",
+        "deepwater",
+        "moratorium",
+        "drilling",
+        "gulf",
+        "month",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 251,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_06_04_drilling_deep__s02_shallow_water",
+      "doc_id": "poten_tankers_no_date_poten_2010_06_04_drilling_deep",
+      "parent_id": "poten_tankers_no_date_poten_2010_06_04_drilling_deep__root",
+      "title": "Shallow‐water",
+      "section_path": [
+        "Shallow‐water"
+      ],
+      "section_path_text": "Shallow‐water",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "mms",
+        "projection",
+        "shallow",
+        "water"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_06_04_drilling_deep__s03_deepwater",
+      "doc_id": "poten_tankers_no_date_poten_2010_06_04_drilling_deep",
+      "parent_id": "poten_tankers_no_date_poten_2010_06_04_drilling_deep__root",
+      "title": "Deepwater",
+      "section_path": [
+        "Deepwater"
+      ],
+      "section_path_text": "Deepwater",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "deepwater",
+        "projection"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_06_04_drilling_deep__s04_confusion_reigns",
+      "doc_id": "poten_tankers_no_date_poten_2010_06_04_drilling_deep",
+      "parent_id": "poten_tankers_no_date_poten_2010_06_04_drilling_deep__root",
+      "title": "Confusion Reigns",
+      "section_path": [
+        "Confusion Reigns"
+      ],
+      "section_path_text": "Confusion Reigns",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The sense of uncertainty which has greeted the announcement of the moratorium reflects the likelihood that attempts to \"pause\" deepwater operations in the Gulf for six months could result in longer delays. Waiting for a report and list of recommendations by a commission appointed by the President could prolong the ban, especially as the political storm surrounding the spill continues to build as mid‐term elections approach.",
+      "keywords": [
+        "us_gulf",
+        "crude_oil",
+        "gulf",
+        "could",
+        "deepwater",
+        "moratorium",
+        "result",
+        "spill"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 381,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_06_04_drilling_deep__s05_per_barrel",
+      "doc_id": "poten_tankers_no_date_poten_2010_06_04_drilling_deep",
+      "parent_id": "poten_tankers_no_date_poten_2010_06_04_drilling_deep__root",
+      "title": "$ per barrel",
+      "section_path": [
+        "$ per barrel"
+      ],
+      "section_path_text": "$ per barrel",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "These developments all threaten to undermine a plan to use domestic drilling to help mitigate dependence on foreign oil announced by the President in March. Deepwater production was an important piece of that plan and an extended delay could result in as much as 400 kb/d in reduced domestic production, according to the American Petroleum Institute.",
+      "keywords": [
+        "crude_oil",
+        "production",
+        "company",
+        "could",
+        "deepwater",
+        "delay",
+        "domestic",
+        "important"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 145,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2023_04_21_where_will_the_oil_be_coming_from__root",
+  "doc_id": "poten_tankers_no_date_poten_2023_04_21_where_will_the_oil_be_coming_from",
+  "parent_id": null,
+  "title": "Where Will The Oil Be Coming From",
+  "section_path": [
+    "Where Will The Oil Be Coming From"
+  ],
+  "section_path_text": "Where Will The Oil Be Coming From",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Which non-OPEC producers are increasing output? A group of OPEC countries announced a crude oil production cut stating in May 2023. Together with a continuation of a Russian production cutback of 500 Kb/d, the total reduction could amount to 1.6 Mb/d, if implemented fully.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "brazil",
+    "europe",
+    "crude_oil",
+    "production",
+    "growth",
+    "opec",
+    "oil",
+    "are",
+    "increase",
+    "kb/d"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1039,
+  "source_path": "reports/poten/2023/poten_2023-04-21_where-will-the-oil-be-coming-from.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2023_04_21_where_will_the_oil_be_coming_from__s01_which_non_opec_producers_are_increasing_output",
+      "doc_id": "poten_tankers_no_date_poten_2023_04_21_where_will_the_oil_be_coming_from",
+      "parent_id": "poten_tankers_no_date_poten_2023_04_21_where_will_the_oil_be_coming_from__root",
+      "title": "Which non-OPEC producers are increasing output?",
+      "section_path": [
+        "Which non-OPEC producers are increasing output?"
+      ],
+      "section_path_text": "Which non-OPEC producers are increasing output?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "A group of OPEC countries announced a crude oil production cut stating in May 2023. Together with a continuation of a Russian production cutback of 500 Kb/d, the total reduction could amount to 1.6 Mb/d, if implemented fully.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "brazil",
+        "europe",
+        "crude_oil",
+        "production",
+        "growth",
+        "opec"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1030,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

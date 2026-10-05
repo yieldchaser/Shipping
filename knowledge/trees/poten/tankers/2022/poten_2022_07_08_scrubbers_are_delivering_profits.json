@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2022_07_08_scrubbers_are_delivering_profits__root",
+  "doc_id": "poten_tankers_no_date_poten_2022_07_08_scrubbers_are_delivering_profits",
+  "parent_id": null,
+  "title": "Scrubbers Are Delivering Profits",
+  "section_path": [
+    "Scrubbers Are Delivering Profits"
+  ],
+  "section_path_text": "Scrubbers Are Delivering Profits",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Delayed Impact Of IMO 2020\nIn late 2019, during the runup towards the implementation of IMO 2020, there was a genuine concern that there may not be enough Very Low Sulphur Fuel Oil (VLSFO) available for the global shipping fleet, and the price spread between 0.5% sulphur VLSFO and 3.5% sulphur HFO (the \"Hi-5 spread\") increased to well above $300 per MT in important bunker ports like Fujairah and Singapore. When 2020 came around, these fears proved to be unfounded. There was enough low sulphur bunker fuel available, and the Hi-5 spread rapidly declined.",
+  "keywords": [
+    "vlcc",
+    "singapore",
+    "crude_oil",
+    "products",
+    "vessels",
+    "are",
+    "scrubber",
+    "between",
+    "oil",
+    "fuel",
+    "scrubbers",
+    "spread"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 843,
+  "source_path": "reports/poten/2022/poten_2022-07-08_scrubbers-are-delivering-profits.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_07_08_scrubbers_are_delivering_profits__s01_the_delayed_impact_of_imo_2020",
+      "doc_id": "poten_tankers_no_date_poten_2022_07_08_scrubbers_are_delivering_profits",
+      "parent_id": "poten_tankers_no_date_poten_2022_07_08_scrubbers_are_delivering_profits__root",
+      "title": "The Delayed Impact Of IMO 2020",
+      "section_path": [
+        "The Delayed Impact Of IMO 2020"
+      ],
+      "section_path_text": "The Delayed Impact Of IMO 2020",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In late 2019, during the runup towards the implementation of IMO 2020, there was a genuine concern that there may not be enough Very Low Sulphur Fuel Oil (VLSFO) available for the global shipping fleet, and the price spread between 0.5% sulphur VLSFO and 3.5% sulphur HFO (the \"Hi-5 spread\") increased to well above $300 per MT in important bunker ports like Fujairah and Singapore. When 2020 came around, these fears proved to be unfounded.",
+      "keywords": [
+        "vlcc",
+        "singapore",
+        "crude_oil",
+        "products",
+        "vessels",
+        "are",
+        "scrubber",
+        "between"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 833,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

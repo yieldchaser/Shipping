@@ -1,0 +1,139 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_12_12_two_to_contango__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_12_12_two_to_contango",
+  "parent_id": null,
+  "title": "Two to Contango",
+  "section_path": [
+    "Two to Contango"
+  ],
+  "section_path_text": "Two to Contango",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Two to Contango\nThe continued decline in the price of crude oil has created opportunities for market players. Crude oil forward price structures generally occur in two forms: backwardation is when the physical spot price is higher than the future price and contango is when the physical spot price is lower than the future price. Although the market has experienced varying degrees of contango in 2008, the differential has been more pronounced in recent weeks.",
+  "keywords": [
+    "vlcc",
+    "meg",
+    "us_gulf",
+    "crude_oil",
+    "per",
+    "price",
+    "barrel",
+    "mo.",
+    "storage",
+    "future",
+    "contango",
+    "costs"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 678,
+  "source_path": "reports/poten/2008/poten_2008-12-12_two-to-contango.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_12_12_two_to_contango__s01_two_to_contango",
+      "doc_id": "poten_tankers_no_date_poten_2008_12_12_two_to_contango",
+      "parent_id": "poten_tankers_no_date_poten_2008_12_12_two_to_contango__root",
+      "title": "Two to Contango",
+      "section_path": [
+        "Two to Contango"
+      ],
+      "section_path_text": "Two to Contango",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The continued decline in the price of crude oil has created opportunities for market players. Crude oil forward price structures generally occur in two forms: backwardation is when the physical spot price is higher than the future price and contango is when the physical spot price is lower than the future price.",
+      "keywords": [
+        "crude_oil",
+        "price",
+        "future",
+        "contango",
+        "crude",
+        "differential",
+        "oil",
+        "physical"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 137,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_12_12_two_to_contango__s02_differential_from_spot_price",
+      "doc_id": "poten_tankers_no_date_poten_2008_12_12_two_to_contango",
+      "parent_id": "poten_tankers_no_date_poten_2008_12_12_two_to_contango__root",
+      "title": "Differential From Spot Price",
+      "section_path": [
+        "Differential From Spot Price"
+      ],
+      "section_path_text": "Differential From Spot Price",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "mo."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 23,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_12_12_two_to_contango__s03_july_price_curve",
+      "doc_id": "poten_tankers_no_date_poten_2008_12_12_two_to_contango",
+      "parent_id": "poten_tankers_no_date_poten_2008_12_12_two_to_contango__root",
+      "title": "July Price Curve",
+      "section_path": [
+        "July Price Curve"
+      ],
+      "section_path_text": "July Price Curve",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "September Price Curve Current Price Curve Source: Bloomberg Those entering into such arrangements must take into account a few considerations as part of such positions. Participants must have the ability to buy the spot crude oil, pay for storage (physically and financially) and to execute an offsetting future position to lock-in the contango spread.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "us_gulf",
+        "crude_oil",
+        "curve",
+        "gulf",
+        "must",
+        "price"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 158,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_12_12_two_to_contango__s04_chart_transportation_cost_per_barrel",
+      "doc_id": "poten_tankers_no_date_poten_2008_12_12_two_to_contango",
+      "parent_id": "poten_tankers_no_date_poten_2008_12_12_two_to_contango__root",
+      "title": "Chart: Transportation Cost Per Barrel",
+      "section_path": [
+        "Chart: Transportation Cost Per Barrel"
+      ],
+      "section_path_text": "Chart: Transportation Cost Per Barrel",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Storage Instead of spot chartering a ship and exercising a storage option, charterers will look to hire a ship for short-term time charter to serve the same purpose. Charterers will pay in the range of $55,000 per day in today's market for a storage period of approximately three to six months.",
+      "keywords": [
+        "crude_oil",
+        "per",
+        "barrel",
+        "storage",
+        "costs",
+        "period",
+        "six",
+        "approximately"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 338,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

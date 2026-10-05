@@ -1,0 +1,216 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_05_20_yukon_trailoff__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_05_20_yukon_trailoff",
+  "parent_id": null,
+  "title": "Yukon Trail‐Off",
+  "section_path": [
+    "Yukon Trail‐Off"
+  ],
+  "section_path_text": "Yukon Trail‐Off",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Yukon Trail‐Off\nSince their discovery in 1968, Alaska's North Slope fields have produced 16.2 billion barrels of crude oil, and have been a vital source of the \"black gold\" fuelling the American economy. The Trans Alaskan Pipeline (TAPS) was built to carry these volumes from 250 miles north of the Arctic Circle, moving barrels 800 miles to ship out of the (relatively) warm water of Port of Valdez on Alaska's southern coast. Today, however, one of America's greatest feats of energy infrastructure may be facing obsolescence as a result of waning production from the American Arctic.",
+  "keywords": [
+    "aframax",
+    "australia",
+    "pacific",
+    "meg",
+    "crude_oil",
+    "oil",
+    "alaska",
+    "volumes",
+    "crude",
+    "coast",
+    "barrels",
+    "taps"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 896,
+  "source_path": "reports/poten/2011/poten_2011-05-20_yukon-trailoff.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_05_20_yukon_trailoff__s01_yukon_trail_off",
+      "doc_id": "poten_tankers_no_date_poten_2011_05_20_yukon_trailoff",
+      "parent_id": "poten_tankers_no_date_poten_2011_05_20_yukon_trailoff__root",
+      "title": "Yukon Trail‐Off",
+      "section_path": [
+        "Yukon Trail‐Off"
+      ],
+      "section_path_text": "Yukon Trail‐Off",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Since their discovery in 1968, Alaska's North Slope fields have produced 16.2 billion barrels of crude oil, and have been a vital source of the \"black gold\" fuelling the American economy. The Trans Alaskan Pipeline (TAPS) was built to carry these volumes from 250 miles north of the Arctic Circle, moving barrels 800 miles to ship out of the (relatively) warm water of Port of Valdez on Alaska's southern coast.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "alaska",
+        "crude",
+        "production",
+        "since",
+        "taps",
+        "alaskan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 265,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_05_20_yukon_trailoff__s02_imports",
+      "doc_id": "poten_tankers_no_date_poten_2011_05_20_yukon_trailoff",
+      "parent_id": "poten_tankers_no_date_poten_2011_05_20_yukon_trailoff__root",
+      "title": "Imports",
+      "section_path": [
+        "Imports"
+      ],
+      "section_path_text": "Imports",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "In the late 1980's, more than 2 million barrels per day moved through TAPS. Alaska's North Slope is still home to the single largest producing field in the United States, Prudhoe Bay, which is currently pumping out over 250 kbd of crude.",
+      "keywords": [
+        "crude_oil",
+        "alaska",
+        "barrels",
+        "north",
+        "per",
+        "slope",
+        "amount",
+        "approximately"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 95,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_05_20_yukon_trailoff__s03_what_would_we_do_for_a_klondike_bar",
+      "doc_id": "poten_tankers_no_date_poten_2011_05_20_yukon_trailoff",
+      "parent_id": "poten_tankers_no_date_poten_2011_05_20_yukon_trailoff__root",
+      "title": "What Would We Do for a Klondike Bar?",
+      "section_path": [
+        "What Would We Do for a Klondike Bar?"
+      ],
+      "section_path_text": "What Would We Do for a Klondike Bar?",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Adding more oil through the pipeline would solve TAPS's pressure problems, but pressure of a different sort has complicated this seemingly simple solution. Much of the remaining North Slope reserves lie in offshore fields in the Beaufort and Chukchi Seas, and the increased offshore drilling regulations following the Deepwater Horizon blowout have held up, and in some cases effectively blocked, plans for drilling in Alaska's northern arctic waters.",
+      "keywords": [
+        "crude_oil",
+        "alaska",
+        "arctic",
+        "drill",
+        "drilling",
+        "offshore",
+        "oil",
+        "pipeline"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 197,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_05_20_yukon_trailoff__s04_i_can_see_russia_from_here",
+      "doc_id": "poten_tankers_no_date_poten_2011_05_20_yukon_trailoff",
+      "parent_id": "poten_tankers_no_date_poten_2011_05_20_yukon_trailoff__root",
+      "title": "I Can See Russia From Here!",
+      "section_path": [
+        "I Can See Russia From Here!"
+      ],
+      "section_path_text": "I Can See Russia From Here!",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "In the meantime, decreased domestic production from Alaskan fields will likely require refiners along the Pacific coast to go to the global market for incremental crude oil supplies. As the world's crude oil sources diversify, West Coast refiners have been able to source foreign imports from fields closer to home, as seen in the chart below.",
+      "keywords": [
+        "pacific",
+        "crude_oil",
+        "coast",
+        "crude",
+        "fields",
+        "oil",
+        "refiners",
+        "able"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 66,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_05_20_yukon_trailoff__s05_reported_spot_fixture_volumes_to_uswc",
+      "doc_id": "poten_tankers_no_date_poten_2011_05_20_yukon_trailoff",
+      "parent_id": "poten_tankers_no_date_poten_2011_05_20_yukon_trailoff__root",
+      "title": "Reported Spot Fixture Volumes to USWC",
+      "section_path": [
+        "Reported Spot Fixture Volumes to USWC"
+      ],
+      "section_path_text": "Reported Spot Fixture Volumes to USWC",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "2005 2006 2007 2008 2009 2010 2011 YTD",
+      "keywords": [
+        "ytd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 22,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_05_20_yukon_trailoff__s06_west_coast_south_central_america",
+      "doc_id": "poten_tankers_no_date_poten_2011_05_20_yukon_trailoff",
+      "parent_id": "poten_tankers_no_date_poten_2011_05_20_yukon_trailoff__root",
+      "title": "West Coast South/Central America",
+      "section_path": [
+        "West Coast South/Central America"
+      ],
+      "section_path_text": "West Coast South/Central America",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "",
+      "keywords": [
+        "other"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_05_20_yukon_trailoff__s07_asia_pacific",
+      "doc_id": "poten_tankers_no_date_poten_2011_05_20_yukon_trailoff",
+      "parent_id": "poten_tankers_no_date_poten_2011_05_20_yukon_trailoff__root",
+      "title": "Asia/Pacific",
+      "section_path": [
+        "Asia/Pacific"
+      ],
+      "section_path_text": "Asia/Pacific",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "In 2007, imports from the Arabian Gulf accounted for over 45% of reported spot fixture volumes to California, Washington and Oregon. Last year, Arabian Gulf volumes accounted for only 36% of reported spot fixture volumes, reflecting a 9% decrease from 2007 levels.",
+      "keywords": [
+        "aframax",
+        "australia",
+        "pacific",
+        "meg",
+        "crude_oil",
+        "volumes",
+        "coast",
+        "accounted"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 200,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

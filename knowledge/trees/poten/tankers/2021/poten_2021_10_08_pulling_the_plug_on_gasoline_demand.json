@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2021_10_08_pulling_the_plug_on_gasoline_demand__root",
+  "doc_id": "poten_tankers_no_date_poten_2021_10_08_pulling_the_plug_on_gasoline_demand",
+  "parent_id": null,
+  "title": "Pulling the Plug On Gasoline Demand",
+  "section_path": [
+    "Pulling the Plug On Gasoline Demand"
+  ],
+  "section_path_text": "Pulling the Plug On Gasoline Demand",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Pulling The Plug On Gasoline\nTransportation fuels make up more than 55% of global oil demand and if the world population switches from cars, trucks, planes and ships powered by fossil fuels to ones that use batteries or - in the case of airplanes and ships - non-fossil fuels, it will have a dramatic impact on global oil demand. Over the years, the debate has switched from if that will happen to when it will happen. The situation in shipping and aviation is complicated.",
+  "keywords": [
+    "china",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "evs",
+    "are",
+    "cars",
+    "oil",
+    "sales",
+    "vehicles",
+    "car"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 926,
+  "source_path": "reports/poten/2021/poten_2021-10-08_pulling-the-plug-on-gasoline-demand.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2021_10_08_pulling_the_plug_on_gasoline_demand__s01_pulling_the_plug_on_gasoline",
+      "doc_id": "poten_tankers_no_date_poten_2021_10_08_pulling_the_plug_on_gasoline_demand",
+      "parent_id": "poten_tankers_no_date_poten_2021_10_08_pulling_the_plug_on_gasoline_demand__root",
+      "title": "Pulling The Plug On Gasoline",
+      "section_path": [
+        "Pulling The Plug On Gasoline"
+      ],
+      "section_path_text": "Pulling The Plug On Gasoline",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Transportation fuels make up more than 55% of global oil demand and if the world population switches from cars, trucks, planes and ships powered by fossil fuels to ones that use batteries or - in the case of airplanes and ships - non-fossil fuels, it will have a dramatic impact on global oil demand. Over the years, the debate has switched from if that will happen to when it will happen.",
+      "keywords": [
+        "china",
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "evs",
+        "are",
+        "cars"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 918,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

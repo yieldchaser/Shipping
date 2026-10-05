@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2018_08_10_build_them_and_they_will_come__root",
+  "doc_id": "poten_tankers_no_date_poten_2018_08_10_build_them_and_they_will_come",
+  "parent_id": null,
+  "title": "Build Them And They Will Come",
+  "section_path": [
+    "Build Them And They Will Come"
+  ],
+  "section_path_text": "Build Them And They Will Come",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Multiple VLCC export terminals are planned offshore US Gulf\nU.S. crude oil exports have been on a tear since the crude oil export ban was lifted at the end of 2015. Initially, most of the export barrels were sold in Canada and Europe and the vessels of choice were Aframaxes and to a lesser extent Suezmaxes.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "brazil",
+    "europe",
+    "us_gulf",
+    "grain",
+    "crude_oil",
+    "export",
+    "oil",
+    "u.s.",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1031,
+  "source_path": "reports/poten/2018/poten_2018-08-10_build-them-and-they-will-come.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_08_10_build_them_and_they_will_come__s01_multiple_vlcc_export_terminals_are_planned_offshore_us_gulf",
+      "doc_id": "poten_tankers_no_date_poten_2018_08_10_build_them_and_they_will_come",
+      "parent_id": "poten_tankers_no_date_poten_2018_08_10_build_them_and_they_will_come__root",
+      "title": "Multiple VLCC export terminals are planned offshore US Gulf",
+      "section_path": [
+        "Multiple VLCC export terminals are planned offshore US Gulf"
+      ],
+      "section_path_text": "Multiple VLCC export terminals are planned offshore US Gulf",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "crude oil exports have been on a tear since the crude oil export ban was lifted at the end of 2015. Initially, most of the export barrels were sold in Canada and Europe and the vessels of choice were Aframaxes and to a lesser extent Suezmaxes.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "brazil",
+        "europe",
+        "grain",
+        "crude_oil",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1020,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

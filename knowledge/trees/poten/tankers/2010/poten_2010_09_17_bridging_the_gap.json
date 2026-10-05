@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_09_17_bridging_the_gap__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_09_17_bridging_the_gap",
+  "parent_id": null,
+  "title": "Bridging the Gap",
+  "section_path": [
+    "Bridging the Gap"
+  ],
+  "section_path_text": "Bridging the Gap",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Bridging the Gap\nThe decades to come will see an increasing focus on limiting the environmental impact of worldwide energy demand growth by reducing carbon dioxide (C02) emissions. The International Energy Agency (IEA) has estimated that more than $45 trillion in investment will be required to produce the halving of global CO2 emissions by 2050 called for by some world leaders. While there have been early signs of progress in this proposed \"decarbonization\" of the global economy, the pace of expected growth dictates that oil and gas will continue to play an integral role in meeting the world's energy demand, even as renewable alternatives are developed.",
+  "keywords": [
+    "china",
+    "india",
+    "japan",
+    "crude_oil",
+    "gas",
+    "energy",
+    "emissions.",
+    "tanaka",
+    "emissions",
+    "mr.",
+    "world",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 790,
+  "source_path": "reports/poten/2010/poten_2010-09-17_bridging-the-gap.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_09_17_bridging_the_gap__s01_bridging_the_gap",
+      "doc_id": "poten_tankers_no_date_poten_2010_09_17_bridging_the_gap",
+      "parent_id": "poten_tankers_no_date_poten_2010_09_17_bridging_the_gap__root",
+      "title": "Bridging the Gap",
+      "section_path": [
+        "Bridging the Gap"
+      ],
+      "section_path_text": "Bridging the Gap",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The decades to come will see an increasing focus on limiting the environmental impact of worldwide energy demand growth by reducing carbon dioxide (C02) emissions. The International Energy Agency (IEA) has estimated that more than $45 trillion in investment will be required to produce the halving of global CO2 emissions by 2050 called for by some world leaders.",
+      "keywords": [
+        "japan",
+        "crude_oil",
+        "gas",
+        "energy",
+        "demand",
+        "emissions.",
+        "iea",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 287,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_09_17_bridging_the_gap__s02_the_practical_the_political",
+      "doc_id": "poten_tankers_no_date_poten_2010_09_17_bridging_the_gap",
+      "parent_id": "poten_tankers_no_date_poten_2010_09_17_bridging_the_gap__root",
+      "title": "The Practical & the Political",
+      "section_path": [
+        "The Practical & the Political"
+      ],
+      "section_path_text": "The Practical & the Political",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "According to Executive Director Tanaka, bringing about the changes envisioned in the BLUE Map scenario will be challenging due to the significant lifestyle changes required of consumers and need for close international cooperation. Specifically, he said meeting the BLUE Map scenario's ambitious goals would require heavy investment in nuclear power plants, renewable power generation and especially carbon capture and storage (CCS) projects around the world.",
+      "keywords": [
+        "china",
+        "india",
+        "consumers",
+        "tanaka",
+        "blue",
+        "changes",
+        "map",
+        "mr."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 188,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_09_17_bridging_the_gap__s03_ecuador",
+      "doc_id": "poten_tankers_no_date_poten_2010_09_17_bridging_the_gap",
+      "parent_id": "poten_tankers_no_date_poten_2010_09_17_bridging_the_gap__root",
+      "title": "Ecuador",
+      "section_path": [
+        "Ecuador"
+      ],
+      "section_path_text": "Ecuador",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Drawing upon his experience in Japan following the 1970s oil shocks, Mr. Tanaka highlighted efficiency as the most important resource currently available to slow the expected growth in emissions.",
+      "keywords": [
+        "china",
+        "japan",
+        "crude_oil",
+        "gas",
+        "energy",
+        "efficiency",
+        "emissions",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 299,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

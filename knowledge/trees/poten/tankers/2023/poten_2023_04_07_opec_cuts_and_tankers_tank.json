@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2023_04_07_opec_cuts_and_tankers_tank__root",
+  "doc_id": "poten_tankers_no_date_poten_2023_04_07_opec_cuts_and_tankers_tank",
+  "parent_id": null,
+  "title": "OPEC Cuts and Tankers Tank",
+  "section_path": [
+    "OPEC Cuts and Tankers Tank"
+  ],
+  "section_path_text": "OPEC Cuts and Tankers Tank",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "OPEC+ Cuts Production To Boost Prices\nIn another case of \"expect the unexpected\", the OPEC+ consortium decided on Sunday, April 2 nd to cut production by more than 1 Mb/d starting in May 2023. This decision was a surprise; the market did not see this coming. The psychological reaction was swift: oil prices rallied, and crude tanker rates initially dropped as people anticipated a tighter oil market and less oil on the water.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "crude_oil",
+    "opec",
+    "oil",
+    "production",
+    "its",
+    "was",
+    "global",
+    "non-opec",
+    "saudi",
+    "arabia"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 999,
+  "source_path": "reports/poten/2023/poten_2023-04-07_opec-cuts-and-tankers-tank.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2023_04_07_opec_cuts_and_tankers_tank__s01_opec_cuts_production_to_boost_prices",
+      "doc_id": "poten_tankers_no_date_poten_2023_04_07_opec_cuts_and_tankers_tank",
+      "parent_id": "poten_tankers_no_date_poten_2023_04_07_opec_cuts_and_tankers_tank__root",
+      "title": "OPEC+ Cuts Production To Boost Prices",
+      "section_path": [
+        "OPEC+ Cuts Production To Boost Prices"
+      ],
+      "section_path_text": "OPEC+ Cuts Production To Boost Prices",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In another case of \"expect the unexpected\", the OPEC+ consortium decided on Sunday, April 2 nd to cut production by more than 1 Mb/d starting in May 2023. This decision was a surprise; the market did not see this coming.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "crude_oil",
+        "opec",
+        "oil",
+        "production",
+        "its",
+        "was"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 989,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

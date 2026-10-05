@@ -1,0 +1,195 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_02_23_the_pacific_arbitrage__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_02_23_the_pacific_arbitrage",
+  "parent_id": null,
+  "title": "The Pacific Arbitrage",
+  "section_path": [
+    "The Pacific Arbitrage"
+  ],
+  "section_path_text": "The Pacific Arbitrage",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Pacific Arbitrage\nWhen considering the current clean market it is difficult not to notice the development of new trade patterns that have emerged over the past several years. In addition to these new trade routes the more established routes have been seeing more traffic. The primary drivers in this evolution have been the regional supply and demand imbalances of clean refined products and the resulting price arbitrages.",
+  "keywords": [
+    "handysize",
+    "pacific",
+    "japan",
+    "products",
+    "gas",
+    "arbitrage",
+    "demand",
+    "price",
+    "product",
+    "costs",
+    "gasoline",
+    "trade"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 719,
+  "source_path": "reports/poten/2007/poten_2007-02-23_the-pacific-arbitrage.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_02_23_the_pacific_arbitrage__s01_the_pacific_arbitrage",
+      "doc_id": "poten_tankers_no_date_poten_2007_02_23_the_pacific_arbitrage",
+      "parent_id": "poten_tankers_no_date_poten_2007_02_23_the_pacific_arbitrage__root",
+      "title": "The Pacific Arbitrage",
+      "section_path": [
+        "The Pacific Arbitrage"
+      ],
+      "section_path_text": "The Pacific Arbitrage",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "When considering the current clean market it is difficult not to notice the development of new trade patterns that have emerged over the past several years. In addition to these new trade routes the more established routes have been seeing more traffic.",
+      "keywords": [
+        "products",
+        "clean",
+        "amount",
+        "current",
+        "demand",
+        "far",
+        "new",
+        "price"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 164,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_02_23_the_pacific_arbitrage__s02_million_tons",
+      "doc_id": "poten_tankers_no_date_poten_2007_02_23_the_pacific_arbitrage",
+      "parent_id": "poten_tankers_no_date_poten_2007_02_23_the_pacific_arbitrage__root",
+      "title": "Million Tons",
+      "section_path": [
+        "Million Tons"
+      ],
+      "section_path_text": "Million Tons",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "2002 2003 2004 2005 2006 2007 YTD",
+      "keywords": [
+        "ytd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 19,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_02_23_the_pacific_arbitrage__s03_total_reported_tons_fixed",
+      "doc_id": "poten_tankers_no_date_poten_2007_02_23_the_pacific_arbitrage",
+      "parent_id": "poten_tankers_no_date_poten_2007_02_23_the_pacific_arbitrage__root",
+      "title": "Total Reported Tons Fixed",
+      "section_path": [
+        "Total Reported Tons Fixed"
+      ],
+      "section_path_text": "Total Reported Tons Fixed",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Annualized Projection It is anticipated that strong demand for high quality refined products will continue on the US West Coast, but there is uncertainty as to how long the price arbitrage window will remain. According to the EIA, total imports for gasoline, diesel and kerosene topped 8.6 million tons for the first 11 months of 2006, which equates to nearly 250 Handymax parcels.",
+      "keywords": [
+        "handysize",
+        "products",
+        "gas",
+        "arbitrage",
+        "demand",
+        "according",
+        "alone.",
+        "annualized"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 119,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_02_23_the_pacific_arbitrage__s04_paying_their_way",
+      "doc_id": "poten_tankers_no_date_poten_2007_02_23_the_pacific_arbitrage",
+      "parent_id": "poten_tankers_no_date_poten_2007_02_23_the_pacific_arbitrage__root",
+      "title": "Paying Their Way",
+      "section_path": [
+        "Paying Their Way"
+      ],
+      "section_path_text": "Paying Their Way",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "At current market levels, transportation costs roughly $41 per metric ton. While the freight market certainly has its swings, when compared to the product price market, freight looks relatively steady.",
+      "keywords": [
+        "japan",
+        "products",
+        "gas",
+        "costs",
+        "transportation",
+        "between",
+        "charterers",
+        "metric"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 90,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_02_23_the_pacific_arbitrage__s05_charterers_transportation_costs",
+      "doc_id": "poten_tankers_no_date_poten_2007_02_23_the_pacific_arbitrage",
+      "parent_id": "poten_tankers_no_date_poten_2007_02_23_the_pacific_arbitrage__root",
+      "title": "Charterers' Transportation Costs",
+      "section_path": [
+        "Charterers' Transportation Costs"
+      ],
+      "section_path_text": "Charterers' Transportation Costs",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Diesel Gasoline For the first three quarters of 2006, the arbitrage did not support the transportation of diesel on this trade, while the price disparity for gasoline tended to stay above freight costs justifying movement. What is most interesting, however, is how prices have been structured so far in 2007.",
+      "keywords": [
+        "products",
+        "gas",
+        "gasoline",
+        "above",
+        "diesel",
+        "metric",
+        "nearly",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 99,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_02_23_the_pacific_arbitrage__s06_the_regulation_wrinkle",
+      "doc_id": "poten_tankers_no_date_poten_2007_02_23_the_pacific_arbitrage",
+      "parent_id": "poten_tankers_no_date_poten_2007_02_23_the_pacific_arbitrage__root",
+      "title": "The Regulation Wrinkle",
+      "section_path": [
+        "The Regulation Wrinkle"
+      ],
+      "section_path_text": "The Regulation Wrinkle",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "A pervasive obstacle throughout several markets, and in particular the US West Coast, has been changing environmental regulations. The data above suggests that at the time of the switch to ultra-low sulfur diesel in mid-October of 2006, refiners were unable to bring enough product to market in order to satisfy demand.",
+      "keywords": [
+        "japan",
+        "products",
+        "product",
+        "are",
+        "already",
+        "appears",
+        "arbitrage",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 194,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

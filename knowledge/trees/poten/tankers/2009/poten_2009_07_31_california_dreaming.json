@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2009_07_31_california_dreaming__root",
+  "doc_id": "poten_tankers_no_date_poten_2009_07_31_california_dreaming",
+  "parent_id": null,
+  "title": "California Dreaming",
+  "section_path": [
+    "California Dreaming"
+  ],
+  "section_path_text": "California Dreaming",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "California Dreaming\nThe California State Assembly has managed to fend off an attempt by a private offshore oil production and exploration company to invade its sphere of influence. Just last week, the proposal to expand on the company's current offshore drilling had climaxed by reaching the plate of the State Assembly, only to be subsequently deflated. For the Golden State, the implications of such a proposal go beyond its borders and resounds around the nation.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "meg",
+    "crude_oil",
+    "gas",
+    "oil",
+    "california",
+    "production",
+    "proposal",
+    "offshore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 834,
+  "source_path": "reports/poten/2009/poten_2009-07-31_california-dreaming.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_07_31_california_dreaming__s01_california_dreaming",
+      "doc_id": "poten_tankers_no_date_poten_2009_07_31_california_dreaming",
+      "parent_id": "poten_tankers_no_date_poten_2009_07_31_california_dreaming__root",
+      "title": "California Dreaming",
+      "section_path": [
+        "California Dreaming"
+      ],
+      "section_path_text": "California Dreaming",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The California State Assembly has managed to fend off an attempt by a private offshore oil production and exploration company to invade its sphere of influence. Just last week, the proposal to expand on the company's current offshore drilling had climaxed by reaching the plate of the State Assembly, only to be subsequently deflated.",
+      "keywords": [
+        "crude_oil",
+        "gas",
+        "proposal",
+        "offshore",
+        "oil",
+        "production",
+        "state",
+        "assembly"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 196,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_07_31_california_dreaming__s02_field_production",
+      "doc_id": "poten_tankers_no_date_poten_2009_07_31_california_dreaming",
+      "parent_id": "poten_tankers_no_date_poten_2009_07_31_california_dreaming__root",
+      "title": "Field Production",
+      "section_path": [
+        "Field Production"
+      ],
+      "section_path_text": "Field Production",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "In just the past twenty years, California oil production has declined by 42% and in the last ten years by 27%. In the offshore sector, production only accounts for 6% of California's total production which can be largely attributed to the impacts of the 1969 environmental ordeal.",
+      "keywords": [
+        "crude_oil",
+        "gas",
+        "oil",
+        "california",
+        "production",
+        "consumption",
+        "offshore",
+        "accounts"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 279,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_07_31_california_dreaming__s03_vlcc",
+      "doc_id": "poten_tankers_no_date_poten_2009_07_31_california_dreaming",
+      "parent_id": "poten_tankers_no_date_poten_2009_07_31_california_dreaming__root",
+      "title": "VLCC",
+      "section_path": [
+        "VLCC"
+      ],
+      "section_path_text": "VLCC",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Suezmax Aframax Panamax MR Projected According to the Energy Intelligence Agency (EIA) total California oil imports over the past five years were approximately 1.4 billion bbls with the majority of seaborne imports arriving via VLCCs from the Arabian Gulf and Panamaxes from Central and South America. Although the total reported annual seaborne crude oil imports are on track to finish in the region of 125 million bbls in 2009, the rejection of the recent proposal will likely encourage an increase in this number for years to come.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "meg",
+        "crude_oil",
+        "energy",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 349,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

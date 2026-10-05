@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 958,
-  "source_path": "corpus/02-hellenic/vessel_valuations/2026/2026-05-28_weekly-vessel-valuations-report-may-26-2026.html",
+  "token_count": 956,
+  "source_path": "reports/hellenic/vessel_valuations/2026/2026-05-28_weekly-vessel-valuations-report-may-26-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-may-26-2026",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-05-28_weekly-vessel-valuations-report-may-26-2026_28520256_1ece4bcd0604.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2026/assets/2026-05-28_weekly-vessel-valuations-report-may-26-2026_28520256_1ece4bcd0604.jpg\n\nLinked image asset: 2026-05-28_weekly-vessel-valuations-report-may-26-2026_28520256_1ece4bcd0604.jpg\n\nImage metadata: JPEG 600x279 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\n(D) Verse lsVal Ue\n28 May 008 VV Mini Matrix - Weekly Change\nTankers Belen Containers\nYer wee see in ue im cme Pann epee Mandy Pet Pmt Pew Mae Fun\novo 0 10 or a 8% oro wn 02% ahd rad on \"N\n‘ a se ua ™ a ve \" a oy awe oe vse 0\na ro ord + a 0% 8% \"mm vm ert aN \" os\n‘ ie 08 10 od oy ne ~~ oy ee ae vse 8\na ro 0 1% a 0% a xa 0% rhs oad - 0%\n. ie 08 1 mm se - \" Ct ma ee oe me 08\nvo a \"0 oa a aa ro oro van or ood - a\n* 1 ie oy ay se ee \" \" oy er oe um 18\na a \"ee or a 1% as 19% ans \"as a nm a\nye see 18 ™ \" ne a coy ve ee oe Oc 8\nws oa 1% 48% a oe a prod am \"a ooo prtd +\n= vn 18 ee me a vm ma se 7 \"00 ~~ ms ue",
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-05-28_weekly-vessel-valuations-report-may-26-2026_28520256_1ece4bcd0604.jpg\n\nLinked image asset: 2026-05-28_weekly-vessel-valuations-report-may-26-2026_28520256_1ece4bcd0604.jpg\n\nImage metadata: JPEG 600x279 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\n(D) Verse lsVal Ue\n28 May 008 VV Mini Matrix - Weekly Change\nTankers Belen Containers\nYer wee see in ue im cme Pann epee Mandy Pet Pmt Pew Mae Fun\novo 0 10 or a 8% oro wn 02% ahd rad on \"N\n‘ a se ua ™ a ve \" a oy awe oe vse 0\na ro ord + a 0% 8% \"mm vm ert aN \" os\n‘ ie 08 10 od oy ne ~~ oy ee ae vse 8\na ro 0 1% a 0% a xa 0% rhs oad - 0%\n. ie 08 1 mm se - \" Ct ma ee oe me 08\nvo a \"0 oa a aa ro oro van or ood - a\n* 1 ie oy ay se ee \" \" oy er oe um 18\na a \"ee or a 1% as 19% ans \"as a nm a\nye see 18 ™ \" ne a coy ve ee oe Oc 8\nws oa 1% 48% a oe a prod am \"a ooo prtd +\n= vn 18 ee me a vm ma se 7 \"00 ~~ ms ue",
       "keywords": [
         "container",
         "asset",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 394,
+      "token_count": 392,
       "section_type": "linked_image_asset",
       "children": []
     }

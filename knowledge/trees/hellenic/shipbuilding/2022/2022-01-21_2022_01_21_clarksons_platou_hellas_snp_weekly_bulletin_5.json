@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNEW BUILDING: In tankers this week, Hyundai Mipo announced taking orders for two firm plus two optional 50k dwt MR's from Asiatic Lloyd\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-01-21_clarksons-platou-hellas-snp-weekly-bulletin-5_report-21-01-2021_a3fb3f45981f.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-01-21_clarksons-platou-hellas-snp-weekly-bulletin-5_report-21-01-2021_a3fb3f45981f.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 21 January 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 6S60MC-C7.2 SS 04/25\nENERGY TRITON 82,122 2012 TSUNEISHI ZOSEN XS USD 25 M CHINESE\nBWTS fitted DD 04/23\nUSD 15.9 M\nMAN-B&W 6S60MC SS 01/26\nCORAL DIAMOND 76,596 2007 IMABARI (Previous deal at $16.4m U/D\nBWTS fitted DD 10/23\nfailed)\nMAN-B&W 6S50MC-C\nSS 04/25\nSITC TAISHAN 58,107 2010 TSUNEISHI ZHOUSHAN 4 x 30 T USD 17.7 M CHINESE\nDD 04/23\nBWTS fitted, Tier II\nWARTSILA 6RT-FLEX50\nSS 08/23\nWEST WIND 56,557 2008 IHI 4 x 30 T RGN USD 17 M INDONESIANS\nDD 08/23\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMITSUBISHI 6UEC50LSII\nSS 03/22\nCHEMWAY GAIA 38,106 2007 SHIN KURUSHIMA 14 Pumps, IMO II/III MID/H",
+  "summary": "Main\nNEW BUILDING: In tankers this week, Hyundai Mipo announced taking orders for two firm plus two optional 50k dwt MR's from Asiatic Lloyd\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-01-21_clarksons-platou-hellas-snp-weekly-bulletin-5_report-21-01-2021_a3fb3f45981f.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2022-01-21_clarksons-platou-hellas-snp-weekly-bulletin-5_report-21-01-2021_a3fb3f45981f.pdf\n\n# ` Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 21 January 2021\n\n## <u>BULK CARRIERS</u>\n\n||VESSEL||DWT||BLT||DETAILS||SS/DD||PRICE||BUYER||\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n||ENERGY TRITON||82,122||2012 TSUNEISHI ZOSEN||MAN-B&W 6S60MC -C7.2 BWTS fitted||SS 04/25 DD 04/23||XS USD 25 M||CHINESE||\n||CORAL DIAMOND||76,596||2007 IMABARI||MANBW -B&W 6S60MC TS fitted||SS 01/26 DD 10/23||USD 15.9 M (Previous deal at $16.4m failed)||U/D||\n||SITC TAISHAN||58,107||2010 TSUNEISHI ZHOUSHAN||MAN-B&W 6S50MC-C 4 x 30 T BWTS fitted, Tier II||SS 04/25 DD 04/23||USD 17.7 M||CHINESE||\n||WEST WIND||56,557||2008 IHI||WARTSILA 6RT-FLEX50 4 x 30 T BWTS fitted||SS 08/233 DD 08/2||RGN USD 17 M||INDONESIANS||\n||TANKERS - CHEMICALS - LPG/LNGs||||||||||||",
   "keywords": [
     "capesize",
     "lng",
@@ -19,15 +19,15 @@
     "europe",
     "india",
     "gas",
-    "clarksons",
     "firm",
-    "information",
-    "platou"
+    "platou",
+    "any",
+    "clarksons"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2361,
-  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-01-21_clarksons-platou-hellas-snp-weekly-bulletin-5.html",
+  "token_count": 2408,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-01-21_clarksons-platou-hellas-snp-weekly-bulletin-5.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-5",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-01-21_clarksons-platou-hellas-snp-weekly-bulletin-5_report-21-01-2021_a3fb3f45981f.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-01-21_clarksons-platou-hellas-snp-weekly-bulletin-5_report-21-01-2021_a3fb3f45981f.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 21 January 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 6S60MC-C7.2 SS 04/25\nENERGY TRITON 82,122 2012 TSUNEISHI ZOSEN XS USD 25 M CHINESE\nBWTS fitted DD 04/23\nUSD 15.9 M\nMAN-B&W 6S60MC SS 01/26\nCORAL DIAMOND 76,596 2007 IMABARI (Previous deal at $16.4m U/D\nBWTS fitted DD 10/23\nfailed)\nMAN-B&W 6S50MC-C\nSS 04/25\nSITC TAISHAN 58,107 2010 TSUNEISHI ZHOUSHAN 4 x 30 T USD 17.7 M CHINESE\nDD 04/23\nBWTS fitted, Tier II\nWARTSILA 6RT-FLEX50\nSS 08/23\nWEST WIND 56,557 2008 IHI 4 x 30 T RGN USD 17 M INDONESIANS\nDD 08/23\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMITSUBISHI 6UEC50LSII\nSS 03/22\nCHEMWAY GAIA 38,106 2007 SHIN KURUSHIMA 14 Pumps, IMO II/III MID/HIGH USD 7 M U/D\nDD 03/22\nBWTS fitted\nPage 1 of 3\n\n[Page 2]\n1\nSale and Purchase\nHellas S&P Weekly Bulletin 21 January 2021\nNEW BUILDING\nIn tankers this week, Hyundai Mipo announced taking orders for two firm plus two optional 50k dwt MR's from Asiatic Lloyd. The vessels will be built",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-01-21_clarksons-platou-hellas-snp-weekly-bulletin-5_report-21-01-2021_a3fb3f45981f.pdf\n\n# ` Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 21 January 2021\n\n## <u>BULK CARRIERS</u>\n\n||VESSEL||DWT||BLT||DETAILS||SS/DD||PRICE||BUYER||\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n||ENERGY TRITON||82,122||2012 TSUNEISHI ZOSEN||MAN-B&W 6S60MC -C7.2 BWTS fitted||SS 04/25 DD 04/23||XS USD 25 M||CHINESE||\n||CORAL DIAMOND||76,596||2007 IMABARI||MANBW -B&W 6S60MC TS fitted||SS 01/26 DD 10/23||USD 15.9 M (Previous deal at $16.4m failed)||U/D||\n||SITC TAISHAN||58,107||2010 TSUNEISHI ZHOUSHAN||MAN-B&W 6S50MC-C 4 x 30 T BWTS fitted, Tier II||SS 04/25 DD 04/23||USD 17.7 M||CHINESE||\n||WEST WIND||56,557||2008 IHI||WARTSILA 6RT-FLEX50 4 x 30 T BWTS fitted||SS 08/233 DD 08/2||RGN USD 17 M||INDONESIANS||\n||TANKERS - CHEMICALS - LPG/LNGs||||||||||||||\n||VESSEL||DWT||BLT||DETAILS||SS/DD||PRICE||BUYER||\n||CHEMWAY GAIA||38,106||2007 SHIN KURUSHIMA||MITSUBISHI 6UEC50LSII 14 Pumps, IMO II/III BWTS fitted||SS 03/22 DD 03/22||MID/HIGH USD 7 M||U/D||\n\n## Sale and Purchase Hellas S&P Weekly Bulletin 21 January 2021\n\n## NEW BUILDING\n\nIn t",
       "keywords": [
         "capesize",
         "lng",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2269,
+      "token_count": 2316,
       "section_type": "linked_pdf",
       "children": []
     }

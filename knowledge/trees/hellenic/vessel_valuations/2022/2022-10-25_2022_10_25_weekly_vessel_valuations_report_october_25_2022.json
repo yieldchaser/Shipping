@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1524,
-  "source_path": "corpus/02-hellenic/vessel_valuations/2022/2022-10-25_weekly-vessel-valuations-report-october-25-2022.html",
+  "token_count": 2087,
+  "source_path": "reports/hellenic/vessel_valuations/2022/2022-10-25_weekly-vessel-valuations-report-october-25-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-october-25-2022",
   "children": [
     {
@@ -69,20 +69,20 @@
       "section_path_text": "Linked asset: 2022-10-25_weekly-vessel-valuations-report-october-25-2022_img1_matrix-25-october-2022_7f534e836f6e.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2022/assets/2022-10-25_weekly-vessel-valuations-report-october-25-2022_img1_matrix-25-october-2022_7f534e836f6e.jpg\n\nLinked image asset: 2022-10-25_weekly-vessel-valuations-report-october-25-2022_img1_matrix-25-october-2022_7f534e836f6e.jpg\n\nImage metadata: JPEG 678x262 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nQ VesselsValue®\n25 October 2022 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge vice Suez Afra LR MR Cape Pmax Supra Handy hoe a Pmax Handy Fmax\n© 40.4% -3.3% 0.0% 0.0% 40.2% 0.5% -0.5% 40.2% +0.3% 5.5% 54% 47.9% -5.1%\n320K 160K 110K 75K SOK 180K 82K 60K 58K 7000 «4250 «1750'S 1100\n5 10.4% -2.4% 0.0% 0.0% -0.1% +0.3% +0.9% +0.1% +0.1% 5.5% -5.6% +7.1% -5.1%\n320K 160K 110K = 75K 50K 180K 80K 60K 35K 7000 «4250-1750 1100\n10 +0.3% -1,9% 0.0% 0.0% -0,6% +2,1% +1.5% 0.0% -0.2% 5.6% -6.0% +4.4% -5.2%\n3IOK 160K «110K 75K 50K 180K 80K 60K 32K 7000 «©4250-1750 1100\nis 40.1% -1.9% 0.0% 0.0% -0.5% +4.6% -0.4% +0.1% -0.6% \"5.7% -6.7% +0.4% -5.3%\n310K 160K 110K 75K 50K 180K 75K 55K 30K 7000 4250 1750 1100\n20 40.1% -2.8% 0.0% -0.1% +0.2% +1.2% -1.9% 40.2% -0.8% -6.1% -7.5% -4.4% -5.4%\n305K 155K 105K 70K 45K 175K 75K ",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2022/assets/2022-10-25_weekly-vessel-valuations-report-october-25-2022_img1_matrix-25-october-2022_7f534e836f6e.jpg\n\nLinked image asset: 2022-10-25_weekly-vessel-valuations-report-october-25-2022_img1_matrix-25-october-2022_7f534e836f6e.jpg\n\nImage metadata: JPEG 678x262 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\n[structured table]\n| © Vessels | | | | | | | | | |\n|---|---|---|---|---|---|---|---|---|---|\n| 25 October 2022 | | | VV Mini Matrix | - | Weekly Change | | | | |\n| | | Tankers | | Bulkers | | | | containers | |\n| foc | VICE Sue | Are | Cave | Pmax | Supra Mandy | Pom | pmax | Mandy | |\n| | | 00% 0.0% | 0.5% | 05% | | | | 17.9% | 3.1% |\n| | 160 | 110K 75K | SOK 160K | | SOK 38K | 7000 | 4250 | | |\n| | | 0.0% 0.0% | 0.15% 10.2% | 10.9% | 19.1% | | | 17.1% | |\n| | \"19% | 0.0% | | 415% | 0.0% | Si | | | 5.2% |\n| to | | | | | | | | | |\n| | ioe | | ‘ok | | nae | 700 | 4280. | | 1300 |\n| | \"19% | 0.0% 0.0% | | | | ‘57% | \"8.7% | | -5.3% |\n| | 160K | 110K | | | | 7000 | | 425017501300 | |\n| | 305K 155K | 105K 70K | 45K 475K | 75K | SOK | 6500 | | 400017501100 | |\n| | N/A | 10.1% | | 3.3% | | | | | |\n| 3 | | | | | | | | | |\n| | 300K N/",
       "keywords": [
         "capesize",
         "supramax",
         "handysize",
         "container",
-        "asset",
-        "handy",
-        "image",
-        "n/a"
+        "n/a",
+        "pmax",
+        "sok",
+        "asset"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 811,
+      "token_count": 1374,
       "section_type": "linked_image_asset",
       "children": []
     }

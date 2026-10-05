@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2025_06_20_more_barrels_from_brazil__root",
+  "doc_id": "poten_tankers_no_date_poten_2025_06_20_more_barrels_from_brazil",
+  "parent_id": null,
+  "title": "More Barrels From Brazil",
+  "section_path": [
+    "More Barrels From Brazil"
+  ],
+  "section_path_text": "More Barrels From Brazil",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Production and export growth will lift tanker demand\nBrazil is by far the largest crude oil producer in South America. It is the 9 th largest crude oil producer in the world, ranking just behind the United Arab Emirate (UAE) but well ahead of Kuwait, which are both members of OPEC. Brazil joined OPEC's \"Declaration of Cooperation\" (OPEC+) in February 2025, but unlike the other members of OPEC+, Brazil does not have any production obligations.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "brazil",
+    "europe",
+    "crude_oil",
+    "production",
+    "oil",
+    "offshore",
+    "are",
+    "fields",
+    "tankers"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 997,
+  "source_path": "reports/poten/2025/poten_2025-06-20_more-barrels-from-brazil.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2025_06_20_more_barrels_from_brazil__s01_production_and_export_growth_will_lift_tanker_demand",
+      "doc_id": "poten_tankers_no_date_poten_2025_06_20_more_barrels_from_brazil",
+      "parent_id": "poten_tankers_no_date_poten_2025_06_20_more_barrels_from_brazil__root",
+      "title": "Production and export growth will lift tanker demand",
+      "section_path": [
+        "Production and export growth will lift tanker demand"
+      ],
+      "section_path_text": "Production and export growth will lift tanker demand",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Brazil is by far the largest crude oil producer in South America. It is the 9 th largest crude oil producer in the world, ranking just behind the United Arab Emirate (UAE) but well ahead of Kuwait, which are both members of OPEC.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "brazil",
+        "europe",
+        "crude_oil",
+        "oil",
+        "production"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 988,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

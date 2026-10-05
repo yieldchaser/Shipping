@@ -1,0 +1,225 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2006_03_10_opec_production_staying_the_course__root",
+  "doc_id": "poten_tankers_no_date_poten_2006_03_10_opec_production_staying_the_course",
+  "parent_id": null,
+  "title": "OPEC Production: Staying the Course",
+  "section_path": [
+    "OPEC Production: Staying the Course"
+  ],
+  "section_path_text": "OPEC Production: Staying the Course",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "OPEC Production: Staying the Course\nOne of the more closely watched meetings for tanker owners and charterers is the quarterly OPEC meeting. On Wednesday March 8th the OPEC producers met and have agreed to keep their official output ceiling on a steady course. The following chart shows OPEC actual production since 2000.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "india",
+    "crude_oil",
+    "opec",
+    "production",
+    "not",
+    "total",
+    "venezuela",
+    "capacity",
+    "increase",
+    "indonesia"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 961,
+  "source_path": "reports/poten/2006/poten_2006-03-10_opec-production-staying-the-course.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_03_10_opec_production_staying_the_course__s01_opec_production_staying_the_course",
+      "doc_id": "poten_tankers_no_date_poten_2006_03_10_opec_production_staying_the_course",
+      "parent_id": "poten_tankers_no_date_poten_2006_03_10_opec_production_staying_the_course__root",
+      "title": "OPEC Production: Staying the Course",
+      "section_path": [
+        "OPEC Production: Staying the Course"
+      ],
+      "section_path_text": "OPEC Production: Staying the Course",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "One of the more closely watched meetings for tanker owners and charterers is the quarterly OPEC meeting. On Wednesday March 8th the OPEC producers met and have agreed to keep their official output ceiling on a steady course.",
+      "keywords": [
+        "crude_oil",
+        "opec",
+        "actual",
+        "agreed",
+        "ceiling",
+        "chart",
+        "charterers",
+        "closely"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 58,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_03_10_opec_production_staying_the_course__s02_venezuela",
+      "doc_id": "poten_tankers_no_date_poten_2006_03_10_opec_production_staying_the_course",
+      "parent_id": "poten_tankers_no_date_poten_2006_03_10_opec_production_staying_the_course__root",
+      "title": "Venezuela",
+      "section_path": [
+        "Venezuela"
+      ],
+      "section_path_text": "Venezuela",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "UAE Saudi Arabia Qatar Nigeria Libya Kuwait Iraq Iran Indonesia Algeria The table on the next page compares the 2002 \"low point\" to average 2005 production. Since 2002, OPEC production has climbed 18% from 26.4 million barrels per day to 31.2 million bpd in 2005.",
+      "keywords": [
+        "crude_oil",
+        "increase",
+        "million",
+        "opec",
+        "production",
+        "production.",
+        "barrel",
+        "day"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 207,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_03_10_opec_production_staying_the_course__s03_opec_production",
+      "doc_id": "poten_tankers_no_date_poten_2006_03_10_opec_production_staying_the_course",
+      "parent_id": "poten_tankers_no_date_poten_2006_03_10_opec_production_staying_the_course__root",
+      "title": "OPEC Production",
+      "section_path": [
+        "OPEC Production"
+      ],
+      "section_path_text": "OPEC Production",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "% Change Algeria 1,306 1,795 37% Indonesia 1,249 1,068 -14% Iran 3,444 4,142 20% Kuwait 1,894 2,523 33% Libya 1,319 1,632 24% Nigeria 2,118 2,621 24% Qatar 679 835 23% Saudi Arabia 7,634 9,555 25% UAE 2,082 2,529 21% Venezuela 2,604 2,567 -1% Total ex-Iraq 24,320 29,266 Iraq 2,032 1,899 -7% Total 26,352 31,165 18% The following chart compares annual OPEC production and VLCC WS rates. The relationship between VLCC rates and OPEC production is evident, although not perfectly correlated.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "opec",
+        "production",
+        "total",
+        "algeria",
+        "although",
+        "annual"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 187,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_03_10_opec_production_staying_the_course__s04_ag_far_east",
+      "doc_id": "poten_tankers_no_date_poten_2006_03_10_opec_production_staying_the_course",
+      "parent_id": "poten_tankers_no_date_poten_2006_03_10_opec_production_staying_the_course__root",
+      "title": "AG - Far East",
+      "section_path": [
+        "AG - Far East"
+      ],
+      "section_path_text": "AG - Far East",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "crude_oil",
+        "opec",
+        "production"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_03_10_opec_production_staying_the_course__s05_k_bpd",
+      "doc_id": "poten_tankers_no_date_poten_2006_03_10_opec_production_staying_the_course",
+      "parent_id": "poten_tankers_no_date_poten_2006_03_10_opec_production_staying_the_course__root",
+      "title": "k BPD",
+      "section_path": [
+        "k BPD"
+      ],
+      "section_path_text": "k BPD",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The following table compares OPEC production with their quotas and capacities. The key point is that most OPEC nations today are producing close to or at their maximum capacity, which in some cases is either below or above their OPEC quotas.",
+      "keywords": [
+        "crude_oil",
+        "opec",
+        "capacity",
+        "above",
+        "arabia.",
+        "are",
+        "below",
+        "bpd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 73,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_03_10_opec_production_staying_the_course__s06_spare",
+      "doc_id": "poten_tankers_no_date_poten_2006_03_10_opec_production_staying_the_course",
+      "parent_id": "poten_tankers_no_date_poten_2006_03_10_opec_production_staying_the_course__root",
+      "title": "Spare",
+      "section_path": [
+        "Spare"
+      ],
+      "section_path_text": "Spare",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Capacity Algeria 1,375 894 1,375 0 Indonesia 925 1,450 925 0 Iran 3,650 4,111 3,650 0 Kuwait 2,275 2,247 2,400 125 Libya 1,700 1,500 1,700 0 Nigeria 2,604 2,306 2,800 196 Qatar 800 726 800 0 Saudi Arabia 9,250 9,100 10,500 1,250 UAE 2,525 2,444 2,525 0 Venezuela 2,703 3,223 2,703 0 Total ex-Iraq 27,807 28,001 29,378 1,571 Iraq 1,840 - 2,500 ?",
+      "keywords": [
+        "total",
+        "algeria",
+        "arabia",
+        "capacity",
+        "ex-iraq",
+        "indonesia",
+        "iran",
+        "iraq"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 186,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_03_10_opec_production_staying_the_course__s07_on_the_razor_s_edge",
+      "doc_id": "poten_tankers_no_date_poten_2006_03_10_opec_production_staying_the_course",
+      "parent_id": "poten_tankers_no_date_poten_2006_03_10_opec_production_staying_the_course__root",
+      "title": "On the Razor's Edge",
+      "section_path": [
+        "On the Razor's Edge"
+      ],
+      "section_path_text": "On the Razor's Edge",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "North Sea production is in a long-term decline with no fields coming on stream to restore production. Consumption in China, India, and the United States is still growing at a heated pace.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "india",
+        "crude_oil",
+        "production",
+        "opec",
+        "oil",
+        "still"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 210,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

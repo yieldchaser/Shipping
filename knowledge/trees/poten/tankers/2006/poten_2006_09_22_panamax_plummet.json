@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2006_09_22_panamax_plummet__root",
+  "doc_id": "poten_tankers_no_date_poten_2006_09_22_panamax_plummet",
+  "parent_id": null,
+  "title": "Panamax Plummet",
+  "section_path": [
+    "Panamax Plummet"
+  ],
+  "section_path_text": "Panamax Plummet",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Panamax Plummet\nWhile most sectors in the tanker market have been experiencing firm rates for the summer and continuing through September, the earnings in the Panamax market have taken a tumble. Within a period of less than one week, worldscale rates fell from WS 225 to WS120 and corresponding earnings fell from $27,500 per day to $8,700 per day on the 50,000-ton on the Caribbean - USA trade. While a sustained market at these levels is unfathomable for the long-term, there are a few unique drivers in the Panamax market that will contribute to continued downward pressure on rates.",
+  "keywords": [
+    "panamax",
+    "crude_oil",
+    "gas",
+    "natural",
+    "fuel",
+    "per",
+    "oil",
+    "price",
+    "prices",
+    "demand",
+    "earnings",
+    "generation"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 514,
+  "source_path": "reports/poten/2006/poten_2006-09-22_panamax-plummet.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_09_22_panamax_plummet__s01_panamax_plummet",
+      "doc_id": "poten_tankers_no_date_poten_2006_09_22_panamax_plummet",
+      "parent_id": "poten_tankers_no_date_poten_2006_09_22_panamax_plummet__root",
+      "title": "Panamax Plummet",
+      "section_path": [
+        "Panamax Plummet"
+      ],
+      "section_path_text": "Panamax Plummet",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "While most sectors in the tanker market have been experiencing firm rates for the summer and continuing through September, the earnings in the Panamax market have taken a tumble. Within a period of less than one week, worldscale rates fell from WS 225 to WS120 and corresponding earnings fell from $27,500 per day to $8,700 per day on the 50,000-ton on the Caribbean - USA trade.",
+      "keywords": [
+        "panamax",
+        "day",
+        "earnings",
+        "fell",
+        "per",
+        "are",
+        "caribbean",
+        "continued"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 121,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_09_22_panamax_plummet__s02_finding_the_cause",
+      "doc_id": "poten_tankers_no_date_poten_2006_09_22_panamax_plummet",
+      "parent_id": "poten_tankers_no_date_poten_2006_09_22_panamax_plummet__root",
+      "title": "Finding the Cause",
+      "section_path": [
+        "Finding the Cause"
+      ],
+      "section_path_text": "Finding the Cause",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The high concentration of fuel oil trading on Panamaxes makes demand for these vessels highly subject to the demand of this commodity. Prices for #6 fuel oil, like prices for crude oil, have been at historically high levels for the past two years with prices climbing from about $100 per ton to well over $300 per ton.",
+      "keywords": [
+        "panamax",
+        "crude_oil",
+        "gas",
+        "fuel",
+        "oil",
+        "per",
+        "natural",
+        "prices"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 188,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_09_22_panamax_plummet__s03_mbtu",
+      "doc_id": "poten_tankers_no_date_poten_2006_09_22_panamax_plummet",
+      "parent_id": "poten_tankers_no_date_poten_2006_09_22_panamax_plummet__root",
+      "title": "($/Mbtu)",
+      "section_path": [
+        "($/Mbtu)"
+      ],
+      "section_path_text": "($/Mbtu)",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Henry Hub Price - $/Mbtu 1 Mo. Ahead Panamax Spot TCE Declining natural gas prices in the past few months have been an incentive for utilities to switch to natural gas-based generation instead of burning the more expensive fuel oil.",
+      "keywords": [
+        "panamax",
+        "crude_oil",
+        "gas",
+        "natural",
+        "ahead",
+        "burning",
+        "declining",
+        "expensive"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 51,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_09_22_panamax_plummet__s04_natural_gas_leading_rates",
+      "doc_id": "poten_tankers_no_date_poten_2006_09_22_panamax_plummet",
+      "parent_id": "poten_tankers_no_date_poten_2006_09_22_panamax_plummet__root",
+      "title": "Natural Gas leading rates?",
+      "section_path": [
+        "Natural Gas leading rates?"
+      ],
+      "section_path_text": "Natural Gas leading rates?",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The chart on the previous page compares the Henry Hub natural gas spot price versus Panamax daily earnings - with a twist. The Panamax rates are actual rates that occurred 30 days later.",
+      "keywords": [
+        "panamax",
+        "crude_oil",
+        "gas",
+        "natural",
+        "chart",
+        "days",
+        "later.",
+        "price"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 134,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

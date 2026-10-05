@@ -7,6 +7,7 @@ commodities:
 date: '2026-04-07'
 doc_id: hellenic_demolition_2026-04-07_2026_04_07_gms_week_14_q2_opens_under_pressure
 document_type: demolition_update
+is_error_page: false
 key_entities:
 - China
 - Vale
@@ -30,7 +31,7 @@ linked_assets_ingested: 2
 linked_assets_mirrored: 2
 linked_assets_skipped: 1
 market_tone: constructive
-numeric_observation_count: 90
+numeric_observation_count: 93
 numeric_observations:
 - section: Main
   section_type: null
@@ -42,6 +43,7 @@ numeric_observations:
   values:
   - 14.0
   - 2026.0
+  - 1.0
   - 109.0
 - section: Main
   section_type: null
@@ -54,6 +56,15 @@ numeric_observations:
   - 94.42
   - 92.73
   - 44.59
+- section: Main
+  section_type: null
+  source_line: 'Even the U.S. Dollar, which has otherwise been a consistent source
+    of pressure on sub-continent markets this year, sent mixed signals again this
+    week, strengthening against the Turkish lira while easing against the Indian rupee.
+    The INR''s recovery offers some '
+  unit: usd
+  values:
+  - 1.0
 - section: Main
   section_type: null
   source_line: Bangladesh remains the standout positive in the region. The post-Eid
@@ -81,6 +92,7 @@ numeric_observations:
   unit: null
   values:
   - 14.0
+  - 2.0
 - section: Main
   section_type: null
   source_line: For Week 14 of 2026, GMS Market Rankings / vessel indications are as
@@ -104,17 +116,18 @@ numeric_observations:
   - -4.0
   - -7.0
   - 14.0
+  - 2.0
   - 604221.0
   - 340.0
-  - 50.0
-  - 97.0
+  - 650.0
+  - 997.0
 - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_0604221_340c650a997b.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 688x152 mode=RGB'
   unit: null
   values:
   - 688.0
-  - 52.0
+  - 152.0
 - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_0604221_340c650a997b.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'
@@ -182,6 +195,7 @@ numeric_observations:
   values:
   - 14.0
   - 2026.0
+  - 1.0
 - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: USD 109/barrel f or a seventh consecutive week and the Strait of Hormuz
@@ -204,6 +218,12 @@ numeric_observations:
   unit: null
   values:
   - 44.59
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+  section_type: linked_pdf
+  source_line: the course of Q1.
+  unit: null
+  values:
+  - 1.0
 - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: has carried into Week 14, with Chattogram recyclers actively seeking
@@ -232,6 +252,7 @@ numeric_observations:
   unit: null
   values:
   - 14.0
+  - 2.0
 - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: GMS market rankings / pricing for week 14 of 2026 are on Page 5.
@@ -256,6 +277,13 @@ numeric_observations:
   - 14.0
 - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
+  source_line: waterfront is more constructive than it has been at any point in Q1,
+    and the Letter of Credit pipeline,
+  unit: null
+  values:
+  - 1.0
+- section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
+  section_type: linked_pdf
   source_line: Bangladeshi steel levels edged fractionally higher to BDT 61,500 this
     week, a modest but
   unit: null
@@ -267,6 +295,7 @@ numeric_observations:
     from last week's
   unit: usd_per_unit
   values:
+  - 1.0
   - 122.91
 - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
@@ -333,6 +362,7 @@ numeric_observations:
   unit: null
   values:
   - 14.0
+  - 1.0
 - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
   source_line: Fir m footing. jump recorded at the end of March, rising from PKR 168,000
@@ -369,6 +399,7 @@ numeric_observations:
     low of 44.59 against the U.S.
   unit: null
   values:
+  - 2.0
   - 44.59
 - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
@@ -732,9 +763,9 @@ numeric_observations:
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
   values:
-  - 30.21
+  - 30210.0
   - 899.0669
-  - 91.278
+  - 91278.0
   - 300.5253
 - section: 'Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf'
   section_type: linked_pdf
@@ -759,7 +790,7 @@ numeric_observations:
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
   values:
-  - 86.216
+  - 86216.0
   - 75.19
   - 82.1
   - 4650.072

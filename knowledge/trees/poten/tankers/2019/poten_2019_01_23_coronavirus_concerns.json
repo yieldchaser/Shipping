@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2019_01_23_coronavirus_concerns__root",
+  "doc_id": "poten_tankers_no_date_poten_2019_01_23_coronavirus_concerns",
+  "parent_id": null,
+  "title": "Coronavirus Concerns",
+  "section_path": [
+    "Coronavirus Concerns"
+  ],
+  "section_path_text": "Coronavirus Concerns",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The potential impact of this virus on the tanker market\nThe coronavirus outbreak, which started in the city of Wuhan in China, has spread across several countries in Asia, with confirmed cases in South Korea, Japan, Taiwan as well as Thailand and Singapore. There has also been one case identified in the United States. According to official counts, more than 600 people have contracted the virus and as of today, at least 17 people have died.",
+  "keywords": [
+    "china",
+    "singapore",
+    "japan",
+    "crude_oil",
+    "products",
+    "gas",
+    "oil",
+    "outbreak",
+    "virus",
+    "demand",
+    "coronavirus",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 726,
+  "source_path": "reports/poten/2019/poten_2019-01-23_coronavirus-concerns.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_01_23_coronavirus_concerns__s01_the_potential_impact_of_this_virus_on_the_tanker_market",
+      "doc_id": "poten_tankers_no_date_poten_2019_01_23_coronavirus_concerns",
+      "parent_id": "poten_tankers_no_date_poten_2019_01_23_coronavirus_concerns__root",
+      "title": "The potential impact of this virus on the tanker market",
+      "section_path": [
+        "The potential impact of this virus on the tanker market"
+      ],
+      "section_path_text": "The potential impact of this virus on the tanker market",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The coronavirus outbreak, which started in the city of Wuhan in China, has spread across several countries in Asia, with confirmed cases in South Korea, Japan, Taiwan as well as Thailand and Singapore. There has also been one case identified in the United States.",
+      "keywords": [
+        "china",
+        "singapore",
+        "japan",
+        "crude_oil",
+        "products",
+        "gas",
+        "oil",
+        "outbreak"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 560,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_01_23_coronavirus_concerns__s02_where_the_coronavirus_has_spread",
+      "doc_id": "poten_tankers_no_date_poten_2019_01_23_coronavirus_concerns",
+      "parent_id": "poten_tankers_no_date_poten_2019_01_23_coronavirus_concerns__root",
+      "title": "Where the Coronavirus Has Spread",
+      "section_path": [
+        "Where the Coronavirus Has Spread"
+      ],
+      "section_path_text": "Where the Coronavirus Has Spread",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The oil market has already traded down as concerns about the coronavirus are mounting and although the tanker market remains strong, rates have started to weaken in recent days. Although these events are not necessarily connected, there is a common element: market psychology is turning negative.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "although",
+        "are",
+        "down",
+        "fear",
+        "strong",
+        "activity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 149,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

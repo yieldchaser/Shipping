@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2006_09_29_driven_to_diesel__root",
+  "doc_id": "poten_tankers_no_date_poten_2006_09_29_driven_to_diesel",
+  "parent_id": null,
+  "title": "Driven to Diesel?",
+  "section_path": [
+    "Driven to Diesel?"
+  ],
+  "section_path_text": "Driven to Diesel?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "In a recent interview with the Wall Street Journal, President Bush reiterated his position on decreasing the United States' reliance on foreign oil and changing driving habits to curb gasoline consumption. Homegrown ethanol technology was offered as a solution. He remarked, \"It's interesting, this [energy] diversification has required federal involvement-federal involvement through tax credits for ethanol, as well as research dollars.\" In a market economy, price should be the ultimate determinant of widespread interest in an alternative fuel source in the United States.",
+  "keywords": [
+    "meg",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "gas",
+    "diesel",
+    "gasoline",
+    "price",
+    "production",
+    "united",
+    "not"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 558,
+  "source_path": "reports/poten/2006/poten_2006-09-29_driven-to-diesel.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_09_29_driven_to_diesel__s01_driven_to_diesel",
+      "doc_id": "poten_tankers_no_date_poten_2006_09_29_driven_to_diesel",
+      "parent_id": "poten_tankers_no_date_poten_2006_09_29_driven_to_diesel__root",
+      "title": "Driven to Diesel?",
+      "section_path": [
+        "Driven to Diesel?"
+      ],
+      "section_path_text": "Driven to Diesel?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In a recent interview with the Wall Street Journal, President Bush reiterated his position on decreasing the United States' reliance on foreign oil and changing driving habits to curb gasoline consumption. Homegrown ethanol technology was offered as a solution.",
+      "keywords": [
+        "meg",
+        "crude_oil",
+        "products",
+        "gas",
+        "ethanol",
+        "gasoline",
+        "not",
+        "research"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 149,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_09_29_driven_to_diesel__s02_diesel_more_valuable",
+      "doc_id": "poten_tankers_no_date_poten_2006_09_29_driven_to_diesel",
+      "parent_id": "poten_tankers_no_date_poten_2006_09_29_driven_to_diesel__root",
+      "title": "Diesel more valuable",
+      "section_path": [
+        "Diesel more valuable"
+      ],
+      "section_path_text": "Diesel more valuable",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The graph on the previous page shows the price spread between the spot US Gulf Coast gasoline and No. When the line is above the x-axis it indicates that gasoline is more expensive and thus more valuable to refiners than diesel.",
+      "keywords": [
+        "us_gulf",
+        "products",
+        "gas",
+        "diesel",
+        "gasoline",
+        "diesel.",
+        "driving",
+        "line"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 161,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_09_29_driven_to_diesel__s03_retail_gasoline_price",
+      "doc_id": "poten_tankers_no_date_poten_2006_09_29_driven_to_diesel",
+      "parent_id": "poten_tankers_no_date_poten_2006_09_29_driven_to_diesel__root",
+      "title": "Retail Gasoline Price",
+      "section_path": [
+        "Retail Gasoline Price"
+      ],
+      "section_path_text": "Retail Gasoline Price",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Retail Diesel Price The chart above shows the nationwide average prices of retail gasoline versus the prices of retail diesel over the last two years. For the time series above, the average price of gasoline is $2.42/gallon while the average price of diesel is $2.49/gallon.",
+      "keywords": [
+        "products",
+        "gas",
+        "average",
+        "diesel",
+        "price",
+        "retail",
+        "above",
+        "gasoline"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 58,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_09_29_driven_to_diesel__s04_changing_the_mix",
+      "doc_id": "poten_tankers_no_date_poten_2006_09_29_driven_to_diesel",
+      "parent_id": "poten_tankers_no_date_poten_2006_09_29_driven_to_diesel__root",
+      "title": "Changing the Mix",
+      "section_path": [
+        "Changing the Mix"
+      ],
+      "section_path_text": "Changing the Mix",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The largest hurdle for the adoption of diesel or other alternatives in the United States is the secure and ample supply of these alternative products. Refineries in the US are currently geared to maximize production of gasoline at the expense of heavier products.",
+      "keywords": [
+        "europe",
+        "products",
+        "gas",
+        "diesel",
+        "production",
+        "gasoline",
+        "are",
+        "capacity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 172,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

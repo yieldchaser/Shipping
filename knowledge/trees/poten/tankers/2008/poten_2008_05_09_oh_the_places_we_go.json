@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_05_09_oh_the_places_we_go__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_05_09_oh_the_places_we_go",
+  "parent_id": null,
+  "title": "Oh, The Places We Go!",
+  "section_path": [
+    "Oh, The Places We Go!"
+  ],
+  "section_path_text": "Oh, The Places We Go!",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The increase in crude oil prices since the start of 2008 has been quite staggering in nominal terms. It seems that the market psychological threshold of $100/barrel is perhaps a thing of the past. While the media continues to play with these numerical values, there have been few changes in the physical market that point to any real decrease in demand for crude oil.",
+  "keywords": [
+    "china",
+    "brazil",
+    "india",
+    "crude_oil",
+    "products",
+    "economies",
+    "energy",
+    "are",
+    "consumption",
+    "growth",
+    "continue",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 534,
+  "source_path": "reports/poten/2008/poten_2008-05-09_oh-the-places-we-go.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_05_09_oh_the_places_we_go__s01_oh_the_places_we_go",
+      "doc_id": "poten_tankers_no_date_poten_2008_05_09_oh_the_places_we_go",
+      "parent_id": "poten_tankers_no_date_poten_2008_05_09_oh_the_places_we_go__root",
+      "title": "Oh, The Places We Go!",
+      "section_path": [
+        "Oh, The Places We Go!"
+      ],
+      "section_path_text": "Oh, The Places We Go!",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The increase in crude oil prices since the start of 2008 has been quite staggering in nominal terms. It seems that the market psychological threshold of $100/barrel is perhaps a thing of the past.",
+      "keywords": [
+        "china",
+        "india",
+        "crude_oil",
+        "demand",
+        "crude",
+        "energy",
+        "administration",
+        "agency"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 178,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_05_09_oh_the_places_we_go__s02_4q2008",
+      "doc_id": "poten_tankers_no_date_poten_2008_05_09_oh_the_places_we_go",
+      "parent_id": "poten_tankers_no_date_poten_2008_05_09_oh_the_places_we_go__root",
+      "title": "4Q2008",
+      "section_path": [
+        "4Q2008"
+      ],
+      "section_path_text": "4Q2008",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Despite the doom and gloom scenarios that are often portrayed by the media, growth continues to take place worldwide. In fact, the shipping market sees first hand the prognosis for development in economies all over the world.",
+      "keywords": [
+        "brazil",
+        "crude_oil",
+        "products",
+        "are",
+        "economies",
+        "economies.",
+        "energy",
+        "petroleum"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 190,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_05_09_oh_the_places_we_go__s03_india",
+      "doc_id": "poten_tankers_no_date_poten_2008_05_09_oh_the_places_we_go",
+      "parent_id": "poten_tankers_no_date_poten_2008_05_09_oh_the_places_we_go__root",
+      "title": "India",
+      "section_path": [
+        "India"
+      ],
+      "section_path_text": "India",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "China USA UAE Since 2000, China's total energy consumption has increased 77% while the US's consumption has increased 1.3%.",
+      "keywords": [
+        "china",
+        "consumption",
+        "increased",
+        "energy",
+        "since",
+        "total",
+        "uae",
+        "usa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 30,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_05_09_oh_the_places_we_go__s04_there_s_shipping",
+      "doc_id": "poten_tankers_no_date_poten_2008_05_09_oh_the_places_we_go",
+      "parent_id": "poten_tankers_no_date_poten_2008_05_09_oh_the_places_we_go__root",
+      "title": "...there's shipping",
+      "section_path": [
+        "...there's shipping"
+      ],
+      "section_path_text": "...there's shipping",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "While the health of the US economy is still an extremely important metric for the health of economies abroad, other nations such as India and China still continue to be forces to be reckoned with. Shipping has been the beneficiary of growing economies in both the wet and dry sectors.",
+      "keywords": [
+        "china",
+        "brazil",
+        "india",
+        "crude_oil",
+        "economies",
+        "continue",
+        "economy",
+        "growth"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 117,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

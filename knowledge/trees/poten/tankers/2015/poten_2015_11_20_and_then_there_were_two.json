@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2015_11_20_and_then_there_were_two__root",
+  "doc_id": "poten_tankers_no_date_poten_2015_11_20_and_then_there_were_two",
+  "parent_id": null,
+  "title": "And Then There Were Two",
+  "section_path": [
+    "And Then There Were Two"
+  ],
+  "section_path_text": "And Then There Were Two",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Canadian Crude Oil Export Options\nCurrently, Canada produces a total of about 4 million barrels of crude oil per day (Mb/d). The production comes from different sources and processes with different economics: About 3.7 Mb/d is Western Canadian oil sands and synthetic crude and about 0.2 Mb/d East Coast is offshore crude. The Western Canadian production is land locked and the vast majority of the oil is currently transported to the US through pipelines and by rail, where it competes in a well-supplied local crude market and with other imports.",
+  "keywords": [
+    "vlcc",
+    "aframax",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "gas",
+    "pipeline",
+    "crude",
+    "canadian",
+    "oil",
+    "western",
+    "east"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 721,
+  "source_path": "reports/poten/2015/poten_2015-11-20_and-then-there-were-two.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2015_11_20_and_then_there_were_two__s01_canadian_crude_oil_export_options",
+      "doc_id": "poten_tankers_no_date_poten_2015_11_20_and_then_there_were_two",
+      "parent_id": "poten_tankers_no_date_poten_2015_11_20_and_then_there_were_two__root",
+      "title": "Canadian Crude Oil Export Options",
+      "section_path": [
+        "Canadian Crude Oil Export Options"
+      ],
+      "section_path_text": "Canadian Crude Oil Export Options",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Currently, Canada produces a total of about 4 million barrels of crude oil per day (Mb/d). The production comes from different sources and processes with different economics: About 3.7 Mb/d is Western Canadian oil sands and synthetic crude and about 0.2 Mb/d East Coast is offshore crude.",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "europe",
+        "us_gulf",
+        "crude_oil",
+        "gas",
+        "pipeline",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 714,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

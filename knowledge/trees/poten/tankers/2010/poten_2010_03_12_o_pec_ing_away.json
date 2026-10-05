@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_03_12_o_pec_ing_away__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_03_12_o_pec_ing_away",
+  "parent_id": null,
+  "title": "O PEC - ing Away",
+  "section_path": [
+    "O PEC - ing Away"
+  ],
+  "section_path_text": "O PEC - ing Away",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "O PEC - ing Away\nWhen the Organization of Petroleum Exporting Countries (OPEC) meets next week in Vienna, they will help formulate a consensus about the future of global economic recovery. Recent weeks have brought some varied, but generally positive signals of economic recovery in the US while crude oil prices have remained near the range identified as \"fair\" by some of OPEC's most influential voices. OPEC raised its 2010 demand projection earlier this week and despite assurances from some of the group's oil ministers that production will remain unchanged, some speculation that rates may indeed change always remains an undercurrent on the eve of an OPEC meeting.",
+  "keywords": [
+    "china",
+    "india",
+    "crude_oil",
+    "products",
+    "gas",
+    "opec",
+    "demand",
+    "production",
+    "day",
+    "per",
+    "barrels",
+    "million"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 733,
+  "source_path": "reports/poten/2010/poten_2010-03-12_o-pec-ing-away.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_03_12_o_pec_ing_away__s01_o_pec_ing_away",
+      "doc_id": "poten_tankers_no_date_poten_2010_03_12_o_pec_ing_away",
+      "parent_id": "poten_tankers_no_date_poten_2010_03_12_o_pec_ing_away__root",
+      "title": "O PEC - ing Away",
+      "section_path": [
+        "O PEC - ing Away"
+      ],
+      "section_path_text": "O PEC - ing Away",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "When the Organization of Petroleum Exporting Countries (OPEC) meets next week in Vienna, they will help formulate a consensus about the future of global economic recovery. Recent weeks have brought some varied, but generally positive signals of economic recovery in the US while crude oil prices have remained near the range identified as \"fair\" by some of OPEC's most influential voices.",
+      "keywords": [
+        "crude_oil",
+        "opec",
+        "crude",
+        "day",
+        "oil",
+        "per",
+        "barrels",
+        "million"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 237,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_03_12_o_pec_ing_away__s02_greater_expectations",
+      "doc_id": "poten_tankers_no_date_poten_2010_03_12_o_pec_ing_away",
+      "parent_id": "poten_tankers_no_date_poten_2010_03_12_o_pec_ing_away__root",
+      "title": "Greater Expectations",
+      "section_path": [
+        "Greater Expectations"
+      ],
+      "section_path_text": "Greater Expectations",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "OPEC expects worldwide demand to grow by 1.1% this year, reaching 86.6 million barrels per day by the fourth quarter to average 85.24 million barrels per day for the year, as shown in the chart below. Repeating what has become a recurring mantra among forecasters of oil demand, OPEC highlighted that this demand growth is expected to be the result of expanding consumption in countries outside the OECD, especially India and China.",
+      "keywords": [
+        "china",
+        "india",
+        "crude_oil",
+        "products",
+        "gas",
+        "demand",
+        "growth",
+        "barrels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 293,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_03_12_o_pec_ing_away__s03_compliance_the_key",
+      "doc_id": "poten_tankers_no_date_poten_2010_03_12_o_pec_ing_away",
+      "parent_id": "poten_tankers_no_date_poten_2010_03_12_o_pec_ing_away__root",
+      "title": "Compliance: The Key",
+      "section_path": [
+        "Compliance: The Key"
+      ],
+      "section_path_text": "Compliance: The Key",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Despite these inklings of economic recovery, one reason why OPEC may choose not to make any changes to stated production levels next week is the fact that some of its members are already exceeding the limits already in place. After maintaining historically high levels of compliance to production quotas introduced last year, recent months have seen this compliance slip.",
+      "keywords": [
+        "crude_oil",
+        "production",
+        "opec",
+        "already",
+        "barrels",
+        "compliance",
+        "day",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 186,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

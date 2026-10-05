@@ -576,7 +576,7 @@ numeric_observations:
   - 11.0
   - 11.0
   - 112000.0
-  - 50802.3
+  - 50.8023
 - section: Market Report Content
   section_type: null
   source_line: 12. Gold - U.S. Dollars and Cents per troy ounce (contract of 100 troy
@@ -627,7 +627,7 @@ numeric_observations:
   values:
   - 30.0
   - 6985.11
-  - 11020.0
+  - 11.02
 - section: Market Report Content
   section_type: null
   source_line: 'mob: +30 698.938.17.45 (whats app/wechat)'
@@ -635,7 +635,7 @@ numeric_observations:
   values:
   - 30.0
   - 698.938
-  - 17450.0
+  - 17.45
 - section: Market Report Content
   section_type: null
   source_line: 'Mob: +30 6970.30.78.08 (whats app/wechat)'
@@ -643,7 +643,7 @@ numeric_observations:
   values:
   - 30.0
   - 6970.3
-  - 78080.0
+  - 78.08
 - section: Market Report Content
   section_type: null
   source_line: 'mob: +30 697.263. 4347'
@@ -680,7 +680,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/agora_18_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator.md
+source_path: reports/broker_reports/2026/agora/agora_18_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator.md
 source_stem: agora_18_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator
 source_url: https://www.hellenicshippingnews.com/agora-shipbroking-corporation-snapshot-of-commercial-indicators-report-week-38-2026/
 summary: 'Agora Shipbroking Corporation: Snapshot of Commercial Indicators Report

@@ -175,7 +175,7 @@ numeric_observations:
   unit: null
   values:
   - 277.5
-  - 42500.0
+  - 42.5
 - section: Rates
   section_type: null
   source_line: UK/Cont | 80'
@@ -552,7 +552,7 @@ numeric_observations:
   source_line: '**6.5''**'
   unit: null
   values:
-  - 6500.0
+  - 6.5
 - section: $580,000
   section_type: null
   source_line: '##### COASTER Europe (3 500-5 000 cbm)'
@@ -566,13 +566,13 @@ numeric_observations:
   source_line: '##### -$15.31'
   unit: usd
   values:
-  - 15310.0
+  - 15.31
 - section: $478.19
   section_type: null
   source_line: '##### -$7.65'
   unit: usd
   values:
-  - 7650.0
+  - 7.65
 - section: $55,000
   section_type: null
   source_line: '##### -$12,500'
@@ -644,7 +644,7 @@ numeric_observations:
   source_line: $49.5 | $0
   unit: usd
   values:
-  - 49500.0
+  - 49.5
 - section: Strong
   section_type: null
   source_line: Newcastlemax | 210'
@@ -687,29 +687,29 @@ numeric_observations:
   source_line: '**Capesize** $71.0 $56.0'
   unit: usd
   values:
-  - 71000.0
-  - 56000.0
+  - 71.0
+  - 56.0
 - section: Prices
   section_type: null
   source_line: '**Kamsarmax** $41.0 $32.0'
   unit: usd
   values:
-  - 41000.0
-  - 32000.0
+  - 41.0
+  - 32.0
 - section: Prices
   section_type: null
   source_line: '**Ultramax** $38.0 $30.0'
   unit: usd
   values:
-  - 38000.0
-  - 30000.0
+  - 38.0
+  - 30.0
 - section: Prices
   section_type: null
   source_line: '**Handysize** $31.0 $23.0'
   unit: usd
   values:
-  - 31000.0
-  - 23000.0
+  - 31.0
+  - 23.0
 - section: Prices
   section_type: null
   source_line: '**VLCC** $152.0 $122.0'
@@ -723,15 +723,15 @@ numeric_observations:
   unit: usd
   values:
   - 103.0
-  - 88000.0
+  - 88.0
 - section: Prices
   section_type: null
   source_line: '**Aframax / LR2** $82.0 $71.5'
   unit: usd
   values:
   - 2.0
-  - 82000.0
-  - 71500.0
+  - 82.0
+  - 71.5
 - section: Prices
   section_type: null
   source_line: '**06**'
@@ -774,7 +774,7 @@ numeric_observations:
   source_line: $83.97 Bunker Prices Singapore 380 CST | $0.42
   unit: usd
   values:
-  - 83970.0
+  - 83.97
   - 380.0
   - 0.42
 - section: 1,235.5
@@ -791,14 +791,14 @@ numeric_observations:
   values:
   - 902.0
   - 380.0
-  - 19500.0
+  - 19.5
 - section: 1,235.5
   section_type: null
   source_line: Rotterdam | $444 | $20.5
   unit: usd
   values:
   - 444.0
-  - 20500.0
+  - 20.5
 - section: 1,235.5
   section_type: null
   source_line: MGO | 380 CST $453.5 $899 Spread MGO/380 CST $445.5 | -$4 $24 $28

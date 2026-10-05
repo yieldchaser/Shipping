@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nIn tankers this week, it has been reported that Clients of Thenamaris ordered two 115k dwt LR2's at HyundaiVinashin\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-06-17_clarksons-platou-hellas-snp-weekly-bulletin-23_report-17-06-2022_190694dc9fdc.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-06-17_clarksons-platou-hellas-snp-weekly-bulletin-23_report-17-06-2022_190694dc9fdc.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 17 June 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS/DD\nCONSTANTIN OLDENDORFF 92,762 Freshly\n2012 COSCO ZHOUSHAN MAN-B&W 6S60MC-C Passed USD 21.65 M UAE BASED\nTier II, BWTS fitted each\nSS 01/27\nCLEMENS OLDENDORFF 92,759\nDD 05/25\nMAN-B&W 6S50MC-C8.1\nSS 07/26\nHAYAMA STAR 52,900 2006 OSHIMA 4 x 30 T USD 17.5 M CHINESE\nDD 07/24\nBWTS fitted\nMAN-B&W 6S50MC-C\nSS 07/24\nCARDINAL 55,362 2004 OSHIMA 4 x 30 T HIGH USD 15 M CHINESE\nDD 06/22\nBWTS fitted\nMAN-B&W 6S50MC-C8.1\nSS 06/25\nEMILIA 53,098 2002 OSHIMA 4 x 30 T USD 13,9 M CHINESE\nDD 07/23\nBWTS included\nMAN-B&W 6S50ME-C\nSS/DD\nANSAC COLUMBIA 37,993 2017 SHIMANAMI 4 x 30.5 T HIGH USD 28 M U/D\nPassed\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD",
+  "summary": "Main\nIn tankers this week, it has been reported that Clients of Thenamaris ordered two 115k dwt LR2's at HyundaiVinashin\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-06-17_clarksons-platou-hellas-snp-weekly-bulletin-23_report-17-06-2022_190694dc9fdc.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2022-06-17_clarksons-platou-hellas-snp-weekly-bulletin-23_report-17-06-2022_190694dc9fdc.pdf\n\n# ` Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 17 June 2022\n\n## BULK CARRIERS\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|CONSTANTIN OLDENDORFF|92,762|2012 COSCO ZHOUSHAN|MAN-B&W 6S60MC-C Tier II, BWTS fitted|SS/DD Freshly Passed CLEMENS OLDENDORFF|USD 21.65 M each 92,759|UAE BASED SS 01/27 DD 05/25|\n|HAYAMA STAR|52,900|2006 OSHIMA|MAN-B&W 6S50MC-C8.1 4 x 30 T BWTS fitted|SS 07/26 DD 07/ 24|USD 17.5 M|CHINESE|\n|CARDINAL|55,362|2004 OSHIMA|MAN-B&W 6S50MC-C 4 x 30 T BWTS fitted|SS 07/24 DD 06/22|HIGH USD 15 M|CHINESE|\n|EMILIA|53,098|2002 OSHIMA|MAN-B&W 6S50MC-C8.1 4 x 30 T BWTS included|SS 06/25 DD 07/23|USD 13,9 M|CHINESE|\n|ANSAC COLUMBIA|37,993|2017 SHIMANAMI|MAN-B&W 6S50ME-C 4 x 30.5 T BWTS fitted|SS/DD P assed|HIGH USD 28 M|U/D|\n\n## <u>TANK",
   "keywords": [
     "vlcc",
     "lng",
@@ -19,15 +19,15 @@
     "europe",
     "india",
     "gas",
-    "any",
-    "information",
+    "platou",
     "clarksons",
-    "platou"
+    "any",
+    "usd"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2247,
-  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-06-17_clarksons-platou-hellas-snp-weekly-bulletin-23.html",
+  "token_count": 2502,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-06-17_clarksons-platou-hellas-snp-weekly-bulletin-23.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-23",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-06-17_clarksons-platou-hellas-snp-weekly-bulletin-23_report-17-06-2022_190694dc9fdc.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-06-17_clarksons-platou-hellas-snp-weekly-bulletin-23_report-17-06-2022_190694dc9fdc.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 17 June 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS/DD\nCONSTANTIN OLDENDORFF 92,762 Freshly\n2012 COSCO ZHOUSHAN MAN-B&W 6S60MC-C Passed USD 21.65 M UAE BASED\nTier II, BWTS fitted each\nSS 01/27\nCLEMENS OLDENDORFF 92,759\nDD 05/25\nMAN-B&W 6S50MC-C8.1\nSS 07/26\nHAYAMA STAR 52,900 2006 OSHIMA 4 x 30 T USD 17.5 M CHINESE\nDD 07/24\nBWTS fitted\nMAN-B&W 6S50MC-C\nSS 07/24\nCARDINAL 55,362 2004 OSHIMA 4 x 30 T HIGH USD 15 M CHINESE\nDD 06/22\nBWTS fitted\nMAN-B&W 6S50MC-C8.1\nSS 06/25\nEMILIA 53,098 2002 OSHIMA 4 x 30 T USD 13,9 M CHINESE\nDD 07/23\nBWTS included\nMAN-B&W 6S50ME-C\nSS/DD\nANSAC COLUMBIA 37,993 2017 SHIMANAMI 4 x 30.5 T HIGH USD 28 M U/D\nPassed\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSULZER 7RTA84T-D\nSS 11/22\nKOHO I 301,045 2002 IHI 3 Pumps, CAP 2 USD 28.5 M U/D\nDD 11/22\nBWTS fitted\nSULZER 7RTA58T\nSS 04/25\nANGELICA SCHULTE 106,433 2005 UNIVERSAL 3 Pumps, CAP 1 HIGH USD 19 M U/D\nDD 05/23\nBWTS fitted\nPage 1 of 3\n\n[Page 2]\n1\nSale and",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-06-17_clarksons-platou-hellas-snp-weekly-bulletin-23_report-17-06-2022_190694dc9fdc.pdf\n\n# ` Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 17 June 2022\n\n## BULK CARRIERS\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|CONSTANTIN OLDENDORFF|92,762|2012 COSCO ZHOUSHAN|MAN-B&W 6S60MC-C Tier II, BWTS fitted|SS/DD Freshly Passed CLEMENS OLDENDORFF|USD 21.65 M each 92,759|UAE BASED SS 01/27 DD 05/25|\n|HAYAMA STAR|52,900|2006 OSHIMA|MAN-B&W 6S50MC-C8.1 4 x 30 T BWTS fitted|SS 07/26 DD 07/ 24|USD 17.5 M|CHINESE|\n|CARDINAL|55,362|2004 OSHIMA|MAN-B&W 6S50MC-C 4 x 30 T BWTS fitted|SS 07/24 DD 06/22|HIGH USD 15 M|CHINESE|\n|EMILIA|53,098|2002 OSHIMA|MAN-B&W 6S50MC-C8.1 4 x 30 T BWTS included|SS 06/25 DD 07/23|USD 13,9 M|CHINESE|\n|ANSAC COLUMBIA|37,993|2017 SHIMANAMI|MAN-B&W 6S50ME-C 4 x 30.5 T BWTS fitted|SS/DD P assed|HIGH USD 28 M|U/D|\n\n## <u>TANKERS - CHEMICALS - LPG/LNGs</u>\n\n## VESSEL <u>DWT</u> BLT DETAILS <u>SS/DD</u> PRICE BUYER\n\nSULZER 7RTA84T-D SS 11/22 **KOHO I** 301,045 2002 IHI 3 Pumps, CAP 2 USD 28.5 M U/D DD 11/22 BWTS fitted SULZER 7RTA58T SS 04/25 **ANGELICA SCHULTE** 106,433 2005 UNIVERSAL 3 ",
       "keywords": [
         "vlcc",
         "lng",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2159,
+      "token_count": 2414,
       "section_type": "linked_pdf",
       "children": []
     }

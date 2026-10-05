@@ -94,7 +94,7 @@ numeric_observations:
   values:
   - 145.0
   - 172.0
-  - 18600.0
+  - 18.6
   - 10.0
   - 115.0
 - section: Market Report Content
@@ -105,7 +105,7 @@ numeric_observations:
   values:
   - 152.0
   - 32.0
-  - 83500.0
+  - 83.5
   - 135.0
 - section: Market Report Content
   section_type: null
@@ -159,12 +159,6 @@ numeric_observations:
   unit: null
   values:
   - -5.0
-- section: Market Report Content
-  section_type: null
-  source_line: pared with 13.6 years in August. Recent transactions un-
-  unit: null
-  values:
-  - 13600.0
 - section: Market Report Content
   section_type: null
   source_line: derline the scale of the repricing. The 2007 -built DHT
@@ -337,7 +331,7 @@ numeric_observations:
   values:
   - 988.0
   - 940.0
-  - 5100.0
+  - 5.1
   - 804.0
   - 661.0
   - 704.0
@@ -348,7 +342,7 @@ numeric_observations:
   values:
   - 4899.0
   - 4015.0
-  - 22000.0
+  - 22.0
   - 2464.0
   - 1068.0
   - 1094.0
@@ -359,7 +353,7 @@ numeric_observations:
   values:
   - 1943.0
   - 1808.0
-  - 7500.0
+  - 7.5
   - 1414.0
   - 667.0
   - 821.0
@@ -624,7 +618,7 @@ numeric_observations:
   source_line: creased by 5.2k/day at USD 24,000/day, while
   unit: usd
   values:
-  - 5200.0
+  - 5.2
   - 24000.0
 - section: Market Report Content
   section_type: null
@@ -824,35 +818,35 @@ numeric_observations:
   source_line: trip is improved by 51.1k/day at USD 557,689/day,
   unit: usd
   values:
-  - 51100.0
+  - 51.1
   - 557689.0
 - section: Market Report Content
   section_type: null
   source_line: 26.5k/day at USD 248,413/day.
   unit: usd
   values:
-  - 26500.0
+  - 26.5
   - 248413.0
 - section: Market Report Content
   section_type: null
   source_line: 32.9k/day at USD 162,238/day. North Sea to Con-
   unit: usd
   values:
-  - 32900.0
+  - 32.9
   - 162238.0
 - section: Market Report Content
   section_type: null
   source_line: tinent trip is up by 43.2k/day at USD 189,659/day,
   unit: usd
   values:
-  - 43200.0
+  - 43.2
   - 189659.0
 - section: Market Report Content
   section_type: null
   source_line: Kuwait to Singapore is up by 86.9k/day at USD
   unit: usd
   values:
-  - 86900.0
+  - 86.9
 - section: Market Report Content
   section_type: null
   source_line: 223,122/day, while route from Caribbean to US
@@ -864,8 +858,15 @@ numeric_observations:
   source_line: Gulf trip is down by 15.4k/day at USD 122,950/
   unit: usd
   values:
-  - 15400.0
+  - 15.4
   - 122950.0
+- section: Market Report Content
+  section_type: null
+  source_line: tralia is up by 43.2k/day at USD 90,913/day &
+  unit: usd
+  values:
+  - 43.2
+  - 90913.0
 regions:
 - china
 - atlantic
@@ -882,7 +883,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/xclusiv_22_09_2026_xclusiv_shipbrokers_weekly_21st_september_2026.md
+source_path: reports/broker_reports/2026/carriers/xclusiv_22_09_2026_xclusiv_shipbrokers_weekly_21st_september_2026.md
 source_stem: xclusiv_22_09_2026_xclusiv_shipbrokers_weekly_21st_september_2026
 source_url: https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-21st-september-2026/
 summary: 'Xclusiv Shipbrokers Weekly 21st September 2026

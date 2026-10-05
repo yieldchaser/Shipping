@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_08_13_brazil_scores_again__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_08_13_brazil_scores_again",
+  "parent_id": null,
+  "title": "Brazil Scores Again",
+  "section_path": [
+    "Brazil Scores Again"
+  ],
+  "section_path_text": "Brazil Scores Again",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Brazil Scores Again\nBrazil's rapidly‐expanding economy has earned it a place among the developing world's economic powerhouses, but it is the country's burgeoning status as a crude oil exporter which has enhanced its importance to the tanker industry. Recent years of offshore crude oil discoveries could put Brazil among the world's largest oil producers while long‐term supply contracts with overseas end users make it a significant source of future ton‐mile demand. With population growth which has moderated as its economy has continued to develop rapidly, Brazil managed to stabilize the energy intensity of its economy in recent years, as seen in the chart below.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "brazil",
+    "crude_oil",
+    "its",
+    "oil",
+    "crude",
+    "production",
+    "reported",
+    "years",
+    "offshore",
+    "economy"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 755,
+  "source_path": "reports/poten/2010/poten_2010-08-13_brazil-scores-again.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_08_13_brazil_scores_again__s01_brazil_scores_again",
+      "doc_id": "poten_tankers_no_date_poten_2010_08_13_brazil_scores_again",
+      "parent_id": "poten_tankers_no_date_poten_2010_08_13_brazil_scores_again__root",
+      "title": "Brazil Scores Again",
+      "section_path": [
+        "Brazil Scores Again"
+      ],
+      "section_path_text": "Brazil Scores Again",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Brazil's rapidly‐expanding economy has earned it a place among the developing world's economic powerhouses, but it is the country's burgeoning status as a crude oil exporter which has enhanced its importance to the tanker industry. Recent years of offshore crude oil discoveries could put Brazil among the world's largest oil producers while long‐term supply contracts with overseas end users make it a significant source of future ton‐mile demand.",
+      "keywords": [
+        "brazil",
+        "crude_oil",
+        "its",
+        "economy",
+        "oil",
+        "crude",
+        "years",
+        "among"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 185,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_08_13_brazil_scores_again__s02_gdp_per_capita_usd",
+      "doc_id": "poten_tankers_no_date_poten_2010_08_13_brazil_scores_again",
+      "parent_id": "poten_tankers_no_date_poten_2010_08_13_brazil_scores_again__root",
+      "title": "GDP Per Capita ($USD)",
+      "section_path": [
+        "GDP Per Capita ($USD)"
+      ],
+      "section_path_text": "GDP Per Capita ($USD)",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Brazil's effort to expand its domestic oil production through the exploration of its offshore resources began decades ago and is starting to make a contribution to its overall energy position. The EIA estimates Brazil's reserves at 12.6 billion barrels, with the majority of supplies located in deep water off its southeastern coast.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "brazil",
+        "crude_oil",
+        "its",
+        "oil",
+        "production",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 474,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_08_13_brazil_scores_again__s03_reported_fixtures_ex_brazil",
+      "doc_id": "poten_tankers_no_date_poten_2010_08_13_brazil_scores_again",
+      "parent_id": "poten_tankers_no_date_poten_2010_08_13_brazil_scores_again__root",
+      "title": "Reported Fixtures Ex‐Brazil",
+      "section_path": [
+        "Reported Fixtures Ex‐Brazil"
+      ],
+      "section_path_text": "Reported Fixtures Ex‐Brazil",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "2008 2009 2010 TYD Through early investment in deepwater drilling and the use of ethanol as transportation fuel, Brazil's has established a leadership position for itself as the world enters a period in which both are forecast to expand significantly around the globe. In the years to come, tanker trade patterns into and out of Brazil will surely come to reflect this increased importance.",
+      "keywords": [
+        "brazil",
+        "come",
+        "are",
+        "around",
+        "both",
+        "deepwater",
+        "drilling",
+        "early"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 76,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

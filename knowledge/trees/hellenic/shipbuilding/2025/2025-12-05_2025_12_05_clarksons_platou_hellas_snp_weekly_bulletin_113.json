@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1791,
-  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-12-05_clarksons-platou-hellas-snp-weekly-bulletin-113.html",
+  "token_count": 1803,
+  "source_path": "reports/hellenic/shipbuilding/2025/2025-12-05_clarksons-platou-hellas-snp-weekly-bulletin-113.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-113",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-12-05_clarksons-platou-hellas-snp-weekly-bulletin-113_weekly-sales-05th-dec-2025_7bc77c7c5920.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-12-05_clarksons-platou-hellas-snp-weekly-bulletin-113_weekly-sales-05th-dec-2025_7bc77c7c5920.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nDry Cargo\nAs the year draws to a close, activity slowed during the first week of December in both the dry and the\nwet sectors.",
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-12-05_clarksons-platou-hellas-snp-weekly-bulletin-113_weekly-sales-05th-dec-2025_7bc77c7c5920.pdf\n\n### Clarkson Hellas Ltd. # Desk Talk\n\n## Dry Cargo\n\nAs the year draws to a close, activity slowed during the first week of December in both the dry and the wet sectors.",
       "keywords": [
         "supramax",
         "china",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1368,
+      "token_count": 1380,
       "section_type": "linked_pdf",
       "children": []
     }

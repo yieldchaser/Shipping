@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2026_05_01_the_times_they_are_a_changin__root",
+  "doc_id": "poten_tankers_no_date_poten_2026_05_01_the_times_they_are_a_changin",
+  "parent_id": null,
+  "title": "The Times They Are A Changin",
+  "section_path": [
+    "The Times They Are A Changin"
+  ],
+  "section_path_text": "The Times They Are A Changin",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Venezuela's turnaround has started\nSince the end of March, the focus of the oil and tanker markets has been on the Middle East in general and Iran and the Strait of Hormuz in particular. There is no doubt that the developments in this region will have profound and long-term implications for the markets. However, in this Tanker Opinion, we want to go back to an event that predates the crisis in the Middle East: The ouster of Nicolás Maduro, the president of Venezuela, who was captured by U.S.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "europe",
+    "india",
+    "crude_oil",
+    "oil",
+    "venezuela",
+    "are",
+    "maduro",
+    "now"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 851,
+  "source_path": "reports/poten/2026/poten_2026-05-01_the-times-they-are-a-changin.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2026_05_01_the_times_they_are_a_changin__s01_venezuela_s_turnaround_has_started",
+      "doc_id": "poten_tankers_no_date_poten_2026_05_01_the_times_they_are_a_changin",
+      "parent_id": "poten_tankers_no_date_poten_2026_05_01_the_times_they_are_a_changin__root",
+      "title": "Venezuela's turnaround has started",
+      "section_path": [
+        "Venezuela's turnaround has started"
+      ],
+      "section_path_text": "Venezuela's turnaround has started",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Since the end of March, the focus of the oil and tanker markets has been on the Middle East in general and Iran and the Strait of Hormuz in particular. There is no doubt that the developments in this region will have profound and long-term implications for the markets.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "europe",
+        "india",
+        "crude_oil",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 843,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

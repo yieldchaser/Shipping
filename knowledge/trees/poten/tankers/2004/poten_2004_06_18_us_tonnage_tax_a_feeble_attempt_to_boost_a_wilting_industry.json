@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2004_06_18_us_tonnage_tax_a_feeble_attempt_to_boost_a_wilting_industry__root",
+  "doc_id": "poten_tankers_no_date_poten_2004_06_18_us_tonnage_tax_a_feeble_attempt_to_boost_a_wilting_industry",
+  "parent_id": null,
+  "title": "US Tonnage Tax A Feeble Attempt to Boost a Wilting Industry",
+  "section_path": [
+    "US Tonnage Tax A Feeble Attempt to Boost a Wilting Industry"
+  ],
+  "section_path_text": "US Tonnage Tax A Feeble Attempt to Boost a Wilting Industry",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "US Tonnage Tax\nA Feeble Attempt to Boost a Wilting Industry Marad has issued an RFP to American shipping companies for up to five clean US-flagged tankers under its Product Carrier Program within the Maritime Security Act of 2003. The first response is due July 2nd. The historical mission of the U.S.",
+  "keywords": [
+    "aframax",
+    "container",
+    "brazil",
+    "europe",
+    "grain",
+    "crude_oil",
+    "products",
+    "u.s.",
+    "flag",
+    "foreign",
+    "costs",
+    "program"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1347,
+  "source_path": "reports/poten/2004/poten_2004-06-18_us-tonnage-tax-a-feeble-attempt-to-boost-a-wilting-industry.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_06_18_us_tonnage_tax_a_feeble_attempt_to_boost_a_wilting_industry__s01_us_tonnage_tax",
+      "doc_id": "poten_tankers_no_date_poten_2004_06_18_us_tonnage_tax_a_feeble_attempt_to_boost_a_wilting_industry",
+      "parent_id": "poten_tankers_no_date_poten_2004_06_18_us_tonnage_tax_a_feeble_attempt_to_boost_a_wilting_industry__root",
+      "title": "US Tonnage Tax",
+      "section_path": [
+        "US Tonnage Tax"
+      ],
+      "section_path_text": "US Tonnage Tax",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "A Feeble Attempt to Boost a Wilting Industry Marad has issued an RFP to American shipping companies for up to five clean US-flagged tankers under its Product Carrier Program within the Maritime Security Act of 2003. The first response is due July 2nd.",
+      "keywords": [
+        "container",
+        "products",
+        "costs",
+        "foreign",
+        "american",
+        "government",
+        "program",
+        "u.s."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 471,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_06_18_us_tonnage_tax_a_feeble_attempt_to_boost_a_wilting_industry__s02_passenger",
+      "doc_id": "poten_tankers_no_date_poten_2004_06_18_us_tonnage_tax_a_feeble_attempt_to_boost_a_wilting_industry",
+      "parent_id": "poten_tankers_no_date_poten_2004_06_18_us_tonnage_tax_a_feeble_attempt_to_boost_a_wilting_industry__root",
+      "title": "Passenger",
+      "section_path": [
+        "Passenger"
+      ],
+      "section_path_text": "Passenger",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Bulk Carrier General Cargo Intermodal Tanker Not the First Attempt to Build the Fleet The MARAD proposal is not the first time the US government has tried to build up a US-operated commercial shipping fleet. During the first and second World Wars, the United States embarked on a massive build up of the merchant marine to support military campaigns in Europe and Asia.",
+      "keywords": [
+        "aframax",
+        "brazil",
+        "europe",
+        "grain",
+        "crude_oil",
+        "products",
+        "u.s.",
+        "flag"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 867,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

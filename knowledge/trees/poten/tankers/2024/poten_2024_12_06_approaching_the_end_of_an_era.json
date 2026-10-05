@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2024_12_06_approaching_the_end_of_an_era__root",
+  "doc_id": "poten_tankers_no_date_poten_2024_12_06_approaching_the_end_of_an_era",
+  "parent_id": null,
+  "title": "Approaching The End Of An Era",
+  "section_path": [
+    "Approaching The End Of An Era"
+  ],
+  "section_path_text": "Approaching The End Of An Era",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Lower North Sea output accelerates fall in ton-mile demand\nYesterday, Equinor and Shell, two major European oil companies with a rich history of exploration and production in the North Sea decided to combine their UK offshore oil and gas assets in a 50/50 Joint Venture (JV). The JV is not growth oriented. To the contrary, the JV will harvest value as the assets naturally decline.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "europe",
+    "crude_oil",
+    "gas",
+    "north",
+    "sea",
+    "oil",
+    "production",
+    "was"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 973,
+  "source_path": "reports/poten/2024/poten_2024-12-06_approaching-the-end-of-an-era.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2024_12_06_approaching_the_end_of_an_era__s01_lower_north_sea_output_accelerates_fall_in_ton_mile_demand",
+      "doc_id": "poten_tankers_no_date_poten_2024_12_06_approaching_the_end_of_an_era",
+      "parent_id": "poten_tankers_no_date_poten_2024_12_06_approaching_the_end_of_an_era__root",
+      "title": "Lower North Sea output accelerates fall in ton-mile demand",
+      "section_path": [
+        "Lower North Sea output accelerates fall in ton-mile demand"
+      ],
+      "section_path_text": "Lower North Sea output accelerates fall in ton-mile demand",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Yesterday, Equinor and Shell, two major European oil companies with a rich history of exploration and production in the North Sea decided to combine their UK offshore oil and gas assets in a 50/50 Joint Venture (JV). The JV is not growth oriented.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "europe",
+        "crude_oil",
+        "gas",
+        "north"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 961,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

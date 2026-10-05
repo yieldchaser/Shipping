@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2016_04_29_lights_out__root",
+  "doc_id": "poten_tankers_no_date_poten_2016_04_29_lights_out",
+  "parent_id": null,
+  "title": "Lights Out",
+  "section_path": [
+    "Lights Out"
+  ],
+  "section_path_text": "Lights Out",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Impact of Venezuela's problems on the tanker market\nVenezuelans can't seem to catch a break. The country's economy, already reeling from the impact of low oil prices, has been dealt another blow by acute power shortages. Venezuela sources about 60% of its electricity from hydroelectric power and the El Nino weather phenomenon has caused severe drought.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "venezuela",
+    "oil",
+    "country",
+    "product"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 837,
+  "source_path": "reports/poten/2016/poten_2016-04-29_lights-out.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_04_29_lights_out__s01_impact_of_venezuela_s_problems_on_the_tanker_market",
+      "doc_id": "poten_tankers_no_date_poten_2016_04_29_lights_out",
+      "parent_id": "poten_tankers_no_date_poten_2016_04_29_lights_out__root",
+      "title": "Impact of Venezuela's problems on the tanker market",
+      "section_path": [
+        "Impact of Venezuela's problems on the tanker market"
+      ],
+      "section_path_text": "Impact of Venezuela's problems on the tanker market",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Venezuelans can't seem to catch a break. The country's economy, already reeling from the impact of low oil prices, has been dealt another blow by acute power shortages.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "europe",
+        "india",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 827,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

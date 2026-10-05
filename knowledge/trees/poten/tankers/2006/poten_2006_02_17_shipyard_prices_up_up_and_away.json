@@ -1,0 +1,215 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2006_02_17_shipyard_prices_up_up_and_away__root",
+  "doc_id": "poten_tankers_no_date_poten_2006_02_17_shipyard_prices_up_up_and_away",
+  "parent_id": null,
+  "title": "Shipyard Prices: Up, Up and Away?",
+  "section_path": [
+    "Shipyard Prices: Up, Up and Away?"
+  ],
+  "section_path_text": "Shipyard Prices: Up, Up and Away?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Shipyard Prices: Up, Up and Away? While most of the interest in the tanker market may focus on rates, a much more long-term item, shipyard prices, captures the attention of owners, charterers, investors, and of course, shipyards. A series of VLCCs have recently been ordered for a reported $129 million per vessel for delivery in the period 2008-2010 from a Korean yard.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "lng",
+    "container",
+    "china",
+    "brazil",
+    "meg",
+    "west_africa",
+    "europe",
+    "steel",
+    "gas"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 744,
+  "source_path": "reports/poten/2006/poten_2006-02-17_shipyard-prices-up-up-and-away.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_02_17_shipyard_prices_up_up_and_away__s01_shipyard_prices_up_up_and_away",
+      "doc_id": "poten_tankers_no_date_poten_2006_02_17_shipyard_prices_up_up_and_away",
+      "parent_id": "poten_tankers_no_date_poten_2006_02_17_shipyard_prices_up_up_and_away__root",
+      "title": "Shipyard Prices: Up, Up and Away?",
+      "section_path": [
+        "Shipyard Prices: Up, Up and Away?"
+      ],
+      "section_path_text": "Shipyard Prices: Up, Up and Away?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "While most of the interest in the tanker market may focus on rates, a much more long-term item, shipyard prices, captures the attention of owners, charterers, investors, and of course, shipyards. A series of VLCCs have recently been ordered for a reported $129 million per vessel for delivery in the period 2008-2010 from a Korean yard.",
+      "keywords": [
+        "vlcc",
+        "prices",
+        "may",
+        "million",
+        "shipyard",
+        "who",
+        "attention",
+        "believed"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 119,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_02_17_shipyard_prices_up_up_and_away__s02_shipyard_price",
+      "doc_id": "poten_tankers_no_date_poten_2006_02_17_shipyard_prices_up_up_and_away",
+      "parent_id": "poten_tankers_no_date_poten_2006_02_17_shipyard_prices_up_up_and_away__root",
+      "title": "Shipyard Price",
+      "section_path": [
+        "Shipyard Price"
+      ],
+      "section_path_text": "Shipyard Price",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "vlcc",
+        "number",
+        "vlccs"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_02_17_shipyard_prices_up_up_and_away__s03_millions",
+      "doc_id": "poten_tankers_no_date_poten_2006_02_17_shipyard_prices_up_up_and_away",
+      "parent_id": "poten_tankers_no_date_poten_2006_02_17_shipyard_prices_up_up_and_away__root",
+      "title": "$Millions",
+      "section_path": [
+        "$Millions"
+      ],
+      "section_path_text": "$Millions",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "million a few years ago was a steep price. At the same time, two option two VLCCs were ordered for delivery from a yard in China reportedly with a significant discount from the Korean yard price.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "brazil",
+        "west_africa",
+        "order",
+        "million",
+        "shipyard"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 280,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_02_17_shipyard_prices_up_up_and_away__s04_shipyard_price",
+      "doc_id": "poten_tankers_no_date_poten_2006_02_17_shipyard_prices_up_up_and_away",
+      "parent_id": "poten_tankers_no_date_poten_2006_02_17_shipyard_prices_up_up_and_away__root",
+      "title": "Shipyard Price",
+      "section_path": [
+        "Shipyard Price"
+      ],
+      "section_path_text": "Shipyard Price",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "suezmax",
+        "number",
+        "suezmaxes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_02_17_shipyard_prices_up_up_and_away__s05_millions",
+      "doc_id": "poten_tankers_no_date_poten_2006_02_17_shipyard_prices_up_up_and_away",
+      "parent_id": "poten_tankers_no_date_poten_2006_02_17_shipyard_prices_up_up_and_away__root",
+      "title": "$Millions",
+      "section_path": [
+        "$Millions"
+      ],
+      "section_path_text": "$Millions",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Aframaxes - Cooling in the Breeze Shipyard prices have cooled a bit since mid-2005 when prices peaked at $68 million in mid-2005. Prices fell slightly below $60 million in the last quarter of 2005 and are now back to $63 million.",
+      "keywords": [
+        "aframax",
+        "meg",
+        "europe",
+        "prices",
+        "are",
+        "last",
+        "million",
+        "newbuilding"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 164,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_02_17_shipyard_prices_up_up_and_away__s06_shipyard_price",
+      "doc_id": "poten_tankers_no_date_poten_2006_02_17_shipyard_prices_up_up_and_away",
+      "parent_id": "poten_tankers_no_date_poten_2006_02_17_shipyard_prices_up_up_and_away__root",
+      "title": "Shipyard Price",
+      "section_path": [
+        "Shipyard Price"
+      ],
+      "section_path_text": "Shipyard Price",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "",
+      "keywords": [
+        "aframax",
+        "aframaxes",
+        "number"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_02_17_shipyard_prices_up_up_and_away__s07_millions",
+      "doc_id": "poten_tankers_no_date_poten_2006_02_17_shipyard_prices_up_up_and_away",
+      "parent_id": "poten_tankers_no_date_poten_2006_02_17_shipyard_prices_up_up_and_away__root",
+      "title": "$Millions",
+      "section_path": [
+        "$Millions"
+      ],
+      "section_path_text": "$Millions",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "There's More to Shipyard Prices Than Tankers Tankers compete for berth space with LNG carriers, containers, and bulk carriers, and other type vessels. Price escalation is centered on VLCCs, which can be interpreted to mean that shipowners' expect continued strong demand from this sector.",
+      "keywords": [
+        "vlcc",
+        "lng",
+        "container",
+        "steel",
+        "gas",
+        "prices",
+        "carriers",
+        "shipyard"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 130,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

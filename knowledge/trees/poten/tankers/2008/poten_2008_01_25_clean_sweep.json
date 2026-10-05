@@ -1,0 +1,286 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_01_25_clean_sweep__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_01_25_clean_sweep",
+  "parent_id": null,
+  "title": "Clean Sweep",
+  "section_path": [
+    "Clean Sweep"
+  ],
+  "section_path_text": "Clean Sweep",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Clean Sweep\nThe complexity of the clean product trade can be seen by looking at the diversity of trades that have emerged in the market in recent years. The prevalence of traders in addition to the large trading programs of oil companies has served to increase the total volume of clean products that is traded in the market. Whether or not trades get reported can sometimes skew the true amount of volume moving in the market.",
+  "keywords": [
+    "panamax",
+    "handysize",
+    "aframax",
+    "brazil",
+    "meg",
+    "europe",
+    "crude_oil",
+    "products",
+    "clean",
+    "reported",
+    "fixtures",
+    "total"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 976,
+  "source_path": "reports/poten/2008/poten_2008-01-25_clean-sweep.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_01_25_clean_sweep__s01_clean_sweep",
+      "doc_id": "poten_tankers_no_date_poten_2008_01_25_clean_sweep",
+      "parent_id": "poten_tankers_no_date_poten_2008_01_25_clean_sweep__root",
+      "title": "Clean Sweep",
+      "section_path": [
+        "Clean Sweep"
+      ],
+      "section_path_text": "Clean Sweep",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The complexity of the clean product trade can be seen by looking at the diversity of trades that have emerged in the market in recent years. The prevalence of traders in addition to the large trading programs of oil companies has served to increase the total volume of clean products that is traded in the market.",
+      "keywords": [
+        "brazil",
+        "crude_oil",
+        "products",
+        "clean",
+        "reported",
+        "fixtures",
+        "amount",
+        "can"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 165,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_01_25_clean_sweep__s02_top_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2008_01_25_clean_sweep",
+      "parent_id": "poten_tankers_no_date_poten_2008_01_25_clean_sweep__root",
+      "title": "Top Charterers",
+      "section_path": [
+        "Top Charterers"
+      ],
+      "section_path_text": "Top Charterers",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Vitol took the top spot this year as the largest clean charterer in the reported spot market. Shell, the largest charter last year, slid to the number two spot.",
+      "keywords": [
+        "fixtures",
+        "charterer",
+        "clearlake",
+        "largest",
+        "number",
+        "rank",
+        "reported",
+        "shell"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 312,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_01_25_clean_sweep__s03_aframax_80_000_119_999_dwt",
+      "doc_id": "poten_tankers_no_date_poten_2008_01_25_clean_sweep",
+      "parent_id": "poten_tankers_no_date_poten_2008_01_25_clean_sweep__root",
+      "title": "Aframax (80,000 - 119,999 DWT)",
+      "section_path": [
+        "Aframax (80,000 - 119,999 DWT)"
+      ],
+      "section_path_text": "Aframax (80,000 - 119,999 DWT)",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "2007 saw an increase in the total volume of reported spot clean Aframax fixtures of 34%. The largest spot charterer was Shell, followed by Vitol - the two largest spot charterers overall.",
+      "keywords": [
+        "aframax",
+        "largest",
+        "charterer",
+        "charterers",
+        "clean",
+        "fixtures",
+        "followed",
+        "increase"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 41,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_01_25_clean_sweep__s04_projector",
+      "doc_id": "poten_tankers_no_date_poten_2008_01_25_clean_sweep",
+      "parent_id": "poten_tankers_no_date_poten_2008_01_25_clean_sweep__root",
+      "title": "Projector",
+      "section_path": [
+        "Projector"
+      ],
+      "section_path_text": "Projector",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The primary trade for clean Aframaxes continues to be Arabian Gulf - Far East with 38% of the total volume. This trade saw an increase in fixture activity of 10% in 2007 from 2006.",
+      "keywords": [
+        "aframax",
+        "meg",
+        "trade",
+        "activity",
+        "aframaxes",
+        "arabian",
+        "clean",
+        "continues"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 46,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_01_25_clean_sweep__s05_panamax_60_000_79_999_dwt",
+      "doc_id": "poten_tankers_no_date_poten_2008_01_25_clean_sweep",
+      "parent_id": "poten_tankers_no_date_poten_2008_01_25_clean_sweep__root",
+      "title": "Panamax (60,000 - 79,999 DWT)",
+      "section_path": [
+        "Panamax (60,000 - 79,999 DWT)"
+      ],
+      "section_path_text": "Panamax (60,000 - 79,999 DWT)",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "At the beginning of 2007, the deadweight designation for Panamaxes changed from between 50,000 - 79,999 DWT to between 60,000 - 79,999 DWT. With fewer vessels in this size range, it is not surprising that less fixture activity is being reported.",
+      "keywords": [
+        "panamax",
+        "between",
+        "activity",
+        "beginning",
+        "being",
+        "changed",
+        "deadweight",
+        "designation"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 64,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_01_25_clean_sweep__s06_titan",
+      "doc_id": "poten_tankers_no_date_poten_2008_01_25_clean_sweep",
+      "parent_id": "poten_tankers_no_date_poten_2008_01_25_clean_sweep__root",
+      "title": "Titan",
+      "section_path": [
+        "Titan"
+      ],
+      "section_path_text": "Titan",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Same as the Aframax sector, the largest charterer is Shell followed by Vitol. The primary trades in the spot market for clean Panamaxes are Arabian Gulf - Far East and UK Continent - United States although these two trades in particular saw a decline in reported spot fixture volume of 9% and 40%, respectively.",
+      "keywords": [
+        "panamax",
+        "handysize",
+        "aframax",
+        "meg",
+        "europe",
+        "crude_oil",
+        "reported",
+        "charterer"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 140,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_01_25_clean_sweep__s07_pmi",
+      "doc_id": "poten_tankers_no_date_poten_2008_01_25_clean_sweep",
+      "parent_id": "poten_tankers_no_date_poten_2008_01_25_clean_sweep__root",
+      "title": "PMI",
+      "section_path": [
+        "PMI"
+      ],
+      "section_path_text": "PMI",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Litasco, the trading company for Lukoil, is also a large charterer of clean Handymaxes in the reported spot market. The leading presence of Litasco can be explained as the majority of clean small reported spot fixtures were in the Mediterranean.",
+      "keywords": [
+        "handysize",
+        "europe",
+        "crude_oil",
+        "clean",
+        "litasco",
+        "reported",
+        "active",
+        "can"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 67,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_01_25_clean_sweep__s08_projector",
+      "doc_id": "poten_tankers_no_date_poten_2008_01_25_clean_sweep",
+      "parent_id": "poten_tankers_no_date_poten_2008_01_25_clean_sweep__root",
+      "title": "Projector",
+      "section_path": [
+        "Projector"
+      ],
+      "section_path_text": "Projector",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "While the spot market is admittedly not a full representation of the total volumes traded, it does serve as an indication as to who are the large charterers in the respective vessel sizes.",
+      "keywords": [
+        "admittedly",
+        "are",
+        "charterers",
+        "does",
+        "full",
+        "indication",
+        "large",
+        "not"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 36,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_01_25_clean_sweep__s09_the_year_to_come",
+      "doc_id": "poten_tankers_no_date_poten_2008_01_25_clean_sweep",
+      "parent_id": "poten_tankers_no_date_poten_2008_01_25_clean_sweep__root",
+      "title": "The Year to Come",
+      "section_path": [
+        "The Year to Come"
+      ],
+      "section_path_text": "The Year to Come",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "The total activity of spot clean fixtures will likely increase, yet the total amount of term chartering and contract coverage increase as well. With demand for refined products growing in some regions faster than domestic supply, demand for product carriers in general will undoubtedly be on the rise.",
+      "keywords": [
+        "products",
+        "demand",
+        "increase",
+        "total",
+        "activity",
+        "amount",
+        "carriers",
+        "chartering"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 53,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

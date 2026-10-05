@@ -9,7 +9,7 @@
   "section_path_text": "Weekly Vessel Valuations Report, June 06 2023",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nBulkers : Bulker Values have remained stable\nUltramax BC Great Venture (61,000 DWT, Sept 2019, Dalian COSCO) sold to unknown Greek buyers for USD 30.40 mil, VV Value USD 30.62 mil\nHandy BC Straits Breeze (31,600 DWT, Apr 2009, Saiki) sold to unknown Turkish buyers for USD 13.00 mil, VV Value USD 13.02 mil\nTankers : Modern VLCC values have softened and will continue to do so, due to the new benchmark sale of Maria P Lemos\nVLCC Maria P Lemos (319,200 DWT, Oct 2018, Hyundai HI) sold to DHT Holdings for USD 94.50 mil, VV Value USD 103.07 mil - SS/DD Due\nSuezmax Front Njord (156,000 DWT, Aug 2010, Jiangsu Ronsheng) sold to undisclosed buyers for USD 44.50 mil, VV Value USD 41.11 mil - DD Due\nPost Panamax (Clean) Amazon Beauty (72,900 DWT, Jan 2004, Hyundai HI) sold to undisclosed buyers for USD 19.50 mil, VV Value 18.66 mil\nContainers : Container values have continued to firm marginally as a result of firming rates\nNo notable sales this week. Image reference: assets/2023-06-06_weekly-vessel-valuations-report-june-06-2023_img1_63203313_dd9ed9e09e35.jpg\n\nLinked asset: 2023-06-06_weekly-vessel-valuations-report-june-06-2023_img1_63203313_dd9ed9e09e35.jpg\nSource asset: reports/hellenic",
+  "summary": "Main\nBulkers : Bulker Values have remained stable\nUltramax BC Great Venture (61,000 DWT, Sept 2019, Dalian COSCO) sold to unknown Greek buyers for USD 30.40 mil, VV Value USD 30.62 mil\nHandy BC Straits Breeze (31,600 DWT, Apr 2009, Saiki) sold to unknown Turkish buyers for USD 13.00 mil, VV Value USD 13.02 mil\nTankers : Modern VLCC values have softened and will continue to do so, due to the new benchmark sale of Maria P Lemos\nVLCC Maria P Lemos (319,200 DWT, Oct 2018, Hyundai HI) sold to DHT Holdings for USD 94.50 mil, VV Value USD 103.07 mil - SS/DD Due\nSuezmax Front Njord (156,000 DWT, Aug 2010, Jiangsu Ronsheng) sold to undisclosed buyers for USD 44.50 mil, VV Value USD 41.11 mil - DD Due\nPost Panamax (Clean) Amazon Beauty (72,900 DWT, Jan 2004, Hyundai HI) sold to undisclosed buyers for USD 19.50 mil, VV Value 18.66 mil\nContainers : Container values have continued to firm marginally as a result of firming rates\nNo notable sales this week. Image reference: assets/2023-06-06_weekly-vessel-valuations-report-june-06-2023_img1_63203313_dd9ed9e09e35.jpg\n\nLinked asset: 2023-06-06_weekly-vessel-valuations-report-june-06-2023_img1_63203313_dd9ed9e09e35.jpg\nSource asset: corpus/02-hellen",
   "keywords": [
     "capesize",
     "panamax",
@@ -21,13 +21,13 @@
     "mil",
     "usd",
     "dwt",
-    "sold",
-    "value"
+    "handy",
+    "sold"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1193,
-  "source_path": "corpus/02-hellenic/vessel_valuations/2023/2023-06-06_weekly-vessel-valuations-report-june-06-2023.html",
+  "token_count": 1721,
+  "source_path": "reports/hellenic/vessel_valuations/2023/2023-06-06_weekly-vessel-valuations-report-june-06-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-june-06-2023",
   "children": [
     {
@@ -69,20 +69,20 @@
       "section_path_text": "Linked asset: 2023-06-06_weekly-vessel-valuations-report-june-06-2023_img1_63203313_dd9ed9e09e35.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2023/assets/2023-06-06_weekly-vessel-valuations-report-june-06-2023_img1_63203313_dd9ed9e09e35.jpg\n\nLinked image asset: 2023-06-06_weekly-vessel-valuations-report-june-06-2023_img1_63203313_dd9ed9e09e35.jpg\n\nImage metadata: JPEG 678x259 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\nO vesselsValue= | $$\n06 dune 2023 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge vice Sucz Afra tR1 MR Cape Pmax Supra Handy one Pmax Handy Fmax\n° 10.2% 0.2% 10.9% 410.4% -0.4% 1.8% 0.4% 1.4% = -0.2% 10.2% 40.3% 40.2% 0.0%\n320k 160k 110k 75k 50k 180k 82k 60k 38k 7000 4250 1750 1100\n5 \"5.4% 40.7% + 1.1% = - 40.6% - -0.2% \"1.8% - 0.4% - 0.5% 0.3% +0.3% 40.3% 40.3% -0.1%\n320k 160k 110k 75k 50k 180k 80k 60k 38k 7000 4250 1750 1100\nio A.8% 41.1% +1.3% 40.4% -0.1% -1.8% -0.4% -0.8% - -0.3% +0.3% +0.3% 40.3% -0.1%\n320k 160k 110k 75k 50k 180k 80k 60k 32k 7000 4250 1750 1100\n15 \"1.6% +0.8% +1.6% 0.0% -0.2% \"1.8% - -0.4% 1.9% - -0.3% +0.3% +0.3% +0.1% -0.1%\n310k 160k 110k 75k 50k 180k 80k 55k 30k 7000 4250 1750 1100\na 11.4% 0.1% 41.7% 0.6% - 0.3% 10.8% 0.4% 3.8% - 0.2% 10.2% 40.3% 0.2% 0.1%\nB0Sk 155k 105k 70k 45k 175k 75k 50k 30k 6500 4000 1",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2023/assets/2023-06-06_weekly-vessel-valuations-report-june-06-2023_img1_63203313_dd9ed9e09e35.jpg\n\nLinked image asset: 2023-06-06_weekly-vessel-valuations-report-june-06-2023_img1_63203313_dd9ed9e09e35.jpg\n\nImage metadata: JPEG 678x259 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\n[structured table]\n| | | $a | a | | | | | |\n|---|---|---|---|---|---|---|---|---|\n| (6 une | 2002 | | W Mini | Matrix - Weekly | Change | | | |\n| | | | Tankers | Butkers | | | containers | |\n| ave | ce | | | Cape | Supra Handy | POE max | Handy | Fax |\n| | 10.2% | 0.2% | 10.9% 104% OAM | | LA 0.9% | 0% | 10.2% | 4% |\n| | \"200 | | | | | | | |\n| | | 40.7% | 400% 0.2% | \"4 | 0.3% | 40.3% 40.2% | 60.3% | |\n| 5 | | | | | | | | |\n| | | 411% | 404% | | | 40.3% | 40.3% | |\n| i | | | | | | | | |\n| | 1.6% | | 1.6% 0.0% | 1.8% \"OAM | 0.3% - | 60.3% 40.3% | 60.1 | 1% |\n| | | | 75k | | | | | |\n| | | 0% | 0.9% | HOH | | | | |\n| | ‘se | 155k | | | | | | |\n| | 12.6% | 1.0% | NIN 0.2% | 10% ODM | 5.9% 0.2% | 10.7% | | 0.1% |\n| os | | | | | | | | |\n| | a | se ee | a eee | ee\" | a ae\" | a | ase | aa |\n\n[raw ocr]\nO vesselsValue= | $$\n06 dune 2023 VV Mini Matrix - Weekly Chang",
       "keywords": [
         "capesize",
         "supramax",
         "handysize",
         "container",
-        "asset",
         "handy",
-        "image",
-        "n/a"
+        "asset",
+        "cape",
+        "change"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 815,
+      "token_count": 1343,
       "section_type": "linked_image_asset",
       "children": []
     }

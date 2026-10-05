@@ -1,0 +1,286 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2006_01_20_now_batting_clean_up__root",
+  "doc_id": "poten_tankers_no_date_poten_2006_01_20_now_batting_clean_up",
+  "parent_id": null,
+  "title": "Now Batting Clean Up....",
+  "section_path": [
+    "Now Batting Clean Up...."
+  ],
+  "section_path_text": "Now Batting Clean Up....",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Caveat Emptor\nThe review each year of the largest charterers for both clean products and crude oil (see the market opinion of January 6 th ) generates some very interesting commentary from the industry. Owners are curious to know more about the locations, dates, and sizes of cargoes that are moving in the market. Charterers invariably comment that the report significantly understates the volume of business that they conduct in the spot market.",
+  "keywords": [
+    "panamax",
+    "handysize",
+    "aframax",
+    "china",
+    "meg",
+    "europe",
+    "india",
+    "japan",
+    "crude_oil",
+    "products",
+    "fixtures",
+    "charterers"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1220,
+  "source_path": "reports/poten/2006/poten_2006-01-20_now-batting-clean-up.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_01_20_now_batting_clean_up__s01_caveat_emptor",
+      "doc_id": "poten_tankers_no_date_poten_2006_01_20_now_batting_clean_up",
+      "parent_id": "poten_tankers_no_date_poten_2006_01_20_now_batting_clean_up__root",
+      "title": "Caveat Emptor",
+      "section_path": [
+        "Caveat Emptor"
+      ],
+      "section_path_text": "Caveat Emptor",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The review each year of the largest charterers for both clean products and crude oil (see the market opinion of January 6 th ) generates some very interesting commentary from the industry. Owners are curious to know more about the locations, dates, and sizes of cargoes that are moving in the market.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "charterers",
+        "are",
+        "fixtures",
+        "top",
+        "but",
+        "clean"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 273,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_01_20_now_batting_clean_up__s02_aframaxes",
+      "doc_id": "poten_tankers_no_date_poten_2006_01_20_now_batting_clean_up",
+      "parent_id": "poten_tankers_no_date_poten_2006_01_20_now_batting_clean_up__root",
+      "title": "Aframaxes",
+      "section_path": [
+        "Aframaxes"
+      ],
+      "section_path_text": "Aframaxes",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "There were 5,135 Aframax spot fixtures, of which less than 10% are clean. The ten leading charterers for the 418 clean spot fixtures are shown below.",
+      "keywords": [
+        "aframax",
+        "fixtures",
+        "are",
+        "charterers",
+        "clean",
+        "rank",
+        "total",
+        "accounted"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 339,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_01_20_now_batting_clean_up__s03_pdi",
+      "doc_id": "poten_tankers_no_date_poten_2006_01_20_now_batting_clean_up",
+      "parent_id": "poten_tankers_no_date_poten_2006_01_20_now_batting_clean_up__root",
+      "title": "PDI",
+      "section_path": [
+        "PDI"
+      ],
+      "section_path_text": "PDI",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Of the 418 fixtures, 64% or 268 loaded in the Arabian Gulf. Most were naphtha cargoes to Japan and other destinations in Asia, but there were 49 clean cargoes to northern Europe.",
+      "keywords": [
+        "aframax",
+        "meg",
+        "europe",
+        "japan",
+        "products",
+        "clean",
+        "cargoes",
+        "fixtures"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 99,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_01_20_now_batting_clean_up__s04_panamaxes",
+      "doc_id": "poten_tankers_no_date_poten_2006_01_20_now_batting_clean_up",
+      "parent_id": "poten_tankers_no_date_poten_2006_01_20_now_batting_clean_up__root",
+      "title": "Panamaxes",
+      "section_path": [
+        "Panamaxes"
+      ],
+      "section_path_text": "Panamaxes",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "There were 1,487 Panamax spot fixtures, of which 938 were dirty. The ten leading charterers for the 549 clean spot fixtures are shown below.",
+      "keywords": [
+        "panamax",
+        "fixtures",
+        "charterers",
+        "clean",
+        "accounted",
+        "all",
+        "are",
+        "below."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 58,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_01_20_now_batting_clean_up__s05_titan",
+      "doc_id": "poten_tankers_no_date_poten_2006_01_20_now_batting_clean_up",
+      "parent_id": "poten_tankers_no_date_poten_2006_01_20_now_batting_clean_up__root",
+      "title": "Titan",
+      "section_path": [
+        "Titan"
+      ],
+      "section_path_text": "Titan",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "298 of the 549 fixtures or 54% were AG liftings of which 51 were to northern Europe with most of the remainder to Japan and other Asian destinations. The next largest movement is 74 fixtures between the UKC and the US, again in response to growing U.S.",
+      "keywords": [
+        "panamax",
+        "europe",
+        "japan",
+        "crude_oil",
+        "employment",
+        "fixtures",
+        "other",
+        "again"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 97,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_01_20_now_batting_clean_up__s06_handymaxes",
+      "doc_id": "poten_tankers_no_date_poten_2006_01_20_now_batting_clean_up",
+      "parent_id": "poten_tankers_no_date_poten_2006_01_20_now_batting_clean_up__root",
+      "title": "Handymaxes",
+      "section_path": [
+        "Handymaxes"
+      ],
+      "section_path_text": "Handymaxes",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Of the total of 3,028 spot fixtures involving Handymaxes, 2,661 were clean. The top ten charterers of clean Handymax fixtures accounted for 43% of all fixtures.",
+      "keywords": [
+        "handysize",
+        "fixtures",
+        "all",
+        "fixtures.",
+        "states",
+        "united",
+        "between",
+        "handymax"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 101,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_01_20_now_batting_clean_up__s07_small_product_carriers",
+      "doc_id": "poten_tankers_no_date_poten_2006_01_20_now_batting_clean_up",
+      "parent_id": "poten_tankers_no_date_poten_2006_01_20_now_batting_clean_up__root",
+      "title": "Small Product Carriers",
+      "section_path": [
+        "Small Product Carriers"
+      ],
+      "section_path_text": "Small Product Carriers",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "There were 1,087 clean spot fixtures involving small product carriers. Below are the top ten charterers, with Shell taking the lead.",
+      "keywords": [
+        "are",
+        "below",
+        "carriers.",
+        "charterers",
+        "clean",
+        "fixtures",
+        "involving",
+        "lead."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 28,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_01_20_now_batting_clean_up__s08_polimeri",
+      "doc_id": "poten_tankers_no_date_poten_2006_01_20_now_batting_clean_up",
+      "parent_id": "poten_tankers_no_date_poten_2006_01_20_now_batting_clean_up__root",
+      "title": "Polimeri",
+      "section_path": [
+        "Polimeri"
+      ],
+      "section_path_text": "Polimeri",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "These ships trade mostly intra-regional such as in the Mediterranean, which is the largest single source of employment.",
+      "keywords": [
+        "europe",
+        "employment.",
+        "intra-regional",
+        "largest",
+        "mediterranean",
+        "mostly",
+        "ships",
+        "single"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 22,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_01_20_now_batting_clean_up__s09_conclusion",
+      "doc_id": "poten_tankers_no_date_poten_2006_01_20_now_batting_clean_up",
+      "parent_id": "poten_tankers_no_date_poten_2006_01_20_now_batting_clean_up__root",
+      "title": "Conclusion",
+      "section_path": [
+        "Conclusion"
+      ],
+      "section_path_text": "Conclusion",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "The total number of clean spot fixtures increased from 2004 to 2005 by a relatively small number (about 70 fixtures). Looking ahead in 2006, the number of fixtures is expected to be well above 2005 levels as refining capacity in the United States remains at full capacity requiring increased imports to meet incremental demand.",
+      "keywords": [
+        "china",
+        "india",
+        "products",
+        "capacity",
+        "fixtures",
+        "number",
+        "cargoes",
+        "clean"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 168,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

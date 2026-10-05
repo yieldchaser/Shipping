@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_04_08_what_happens_when_saudi_production_goes_up__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_04_08_what_happens_when_saudi_production_goes_up",
+  "parent_id": null,
+  "title": "What Happens When Saudi Production Goes Up?",
+  "section_path": [
+    "What Happens When Saudi Production Goes Up?"
+  ],
+  "section_path_text": "What Happens When Saudi Production Goes Up?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "What Happens When Saudi Production Goes Up? Recent press clippings indicate that Saudi Arabia is willing to expand production to prevent runaway oil prices. Apparently memories of the global economic retrenchment stemming from peak oil prices in the late 1970s and early 1980s and the associated collapse in Saudi exports still linger.",
+  "keywords": [
+    "vlcc",
+    "crude_oil",
+    "output",
+    "saudi",
+    "fleet",
+    "since",
+    "square",
+    "value",
+    "along",
+    "are",
+    "exports",
+    "growth"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 672,
+  "source_path": "reports/poten/2005/poten_2005-04-08_what-happens-when-saudi-production-goes-up.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_04_08_what_happens_when_saudi_production_goes_up__s01_what_happens_when_saudi_production_goes_up",
+      "doc_id": "poten_tankers_no_date_poten_2005_04_08_what_happens_when_saudi_production_goes_up",
+      "parent_id": "poten_tankers_no_date_poten_2005_04_08_what_happens_when_saudi_production_goes_up__root",
+      "title": "What Happens When Saudi Production Goes Up?",
+      "section_path": [
+        "What Happens When Saudi Production Goes Up?"
+      ],
+      "section_path_text": "What Happens When Saudi Production Goes Up?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Recent press clippings indicate that Saudi Arabia is willing to expand production to prevent runaway oil prices. Apparently memories of the global economic retrenchment stemming from peak oil prices in the late 1970s and early 1980s and the associated collapse in Saudi exports still linger.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "saudi",
+        "exports",
+        "oil",
+        "ag/far",
+        "always",
+        "apparently"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 96,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_04_08_what_happens_when_saudi_production_goes_up__s02_ag_output",
+      "doc_id": "poten_tankers_no_date_poten_2005_04_08_what_happens_when_saudi_production_goes_up",
+      "parent_id": "poten_tankers_no_date_poten_2005_04_08_what_happens_when_saudi_production_goes_up__root",
+      "title": "AG Output",
+      "section_path": [
+        "AG Output"
+      ],
+      "section_path_text": "AG Output",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "WS Rates The R Square value over a fifteen year period is an anemic 28%; which is another way of saying that 28% of the variation in VLCC rates can be explained by the variation in AG exports. Part of this weak relationship is seen by the general upward trend in AG exports from 1992 to 2000 with no real improvement in VLCC rates.",
+      "keywords": [
+        "vlcc",
+        "chartering",
+        "deliveries",
+        "delivery",
+        "during",
+        "exports.",
+        "fleet",
+        "hull"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 252,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_04_08_what_happens_when_saudi_production_goes_up__s03_ag_output",
+      "doc_id": "poten_tankers_no_date_poten_2005_04_08_what_happens_when_saudi_production_goes_up",
+      "parent_id": "poten_tankers_no_date_poten_2005_04_08_what_happens_when_saudi_production_goes_up__root",
+      "title": "AG Output",
+      "section_path": [
+        "AG Output"
+      ],
+      "section_path_text": "AG Output",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "WS Rates The R Square value since 2000 is a more impressive 58%. A new factor entering the picture since 2002 is the growth in the VLCC fleet.",
+      "keywords": [
+        "vlcc",
+        "since",
+        "are",
+        "being",
+        "fleet",
+        "growth",
+        "start",
+        "chart"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 99,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_04_08_what_happens_when_saudi_production_goes_up__s04_vlccs",
+      "doc_id": "poten_tankers_no_date_poten_2005_04_08_what_happens_when_saudi_production_goes_up",
+      "parent_id": "poten_tankers_no_date_poten_2005_04_08_what_happens_when_saudi_production_goes_up__root",
+      "title": "# VLCCs",
+      "section_path": [
+        "# VLCCs"
+      ],
+      "section_path_text": "# VLCCs",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The R Square value between WS rates and AG output since 2002 is 60%. If we add in the VLCC population along with AG output, the R Square value for the two only improves to 62%.",
+      "keywords": [
+        "vlcc",
+        "output",
+        "square",
+        "value",
+        "along",
+        "bpd",
+        "but",
+        "improvement"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 205,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

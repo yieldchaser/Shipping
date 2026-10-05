@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2014_02_07_no_longer_just_a_pipe_dream__root",
+  "doc_id": "poten_tankers_no_date_poten_2014_02_07_no_longer_just_a_pipe_dream",
+  "parent_id": null,
+  "title": "No Longer Just A Pipe Dream",
+  "section_path": [
+    "No Longer Just A Pipe Dream"
+  ],
+  "section_path_text": "No Longer Just A Pipe Dream",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "No Longer Just A Pipe Dream\nDespite a recently released environmental impact study with a more favorable than expected outcome for would-be shippers, it remains unclear whether the controversial Keystone XL Pipeline expansion will receive final approval from the US State Department. It was logically concluded that regardless of pipeline approval, Canadian tar sand oil will continue to be produced and ultimately move to the US Gulf through means of transportation. While much ado continues to surround the Keystone XL Pipeline in particular, great strides to alleviate crude oil supply congestion at Cushing, OK are starting to take shape.",
+  "keywords": [
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "oil",
+    "pipeline",
+    "crude",
+    "gulf.",
+    "texas",
+    "volumes",
+    "barrels",
+    "day",
+    "keystone"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 552,
+  "source_path": "reports/poten/2014/poten_2014-02-07_no-longer-just-a-pipe-dream.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_02_07_no_longer_just_a_pipe_dream__s01_no_longer_just_a_pipe_dream",
+      "doc_id": "poten_tankers_no_date_poten_2014_02_07_no_longer_just_a_pipe_dream",
+      "parent_id": "poten_tankers_no_date_poten_2014_02_07_no_longer_just_a_pipe_dream__root",
+      "title": "No Longer Just A Pipe Dream",
+      "section_path": [
+        "No Longer Just A Pipe Dream"
+      ],
+      "section_path_text": "No Longer Just A Pipe Dream",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Despite a recently released environmental impact study with a more favorable than expected outcome for would-be shippers, it remains unclear whether the controversial Keystone XL Pipeline expansion will receive final approval from the US State Department. It was logically concluded that regardless of pipeline approval, Canadian tar sand oil will continue to be produced and ultimately move to the US Gulf through means of transportation.",
+      "keywords": [
+        "us_gulf",
+        "crude_oil",
+        "pipeline",
+        "keystone",
+        "oil",
+        "approval",
+        "crude",
+        "gulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 196,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_02_07_no_longer_just_a_pipe_dream__s02_lls_wti",
+      "doc_id": "poten_tankers_no_date_poten_2014_02_07_no_longer_just_a_pipe_dream",
+      "parent_id": "poten_tankers_no_date_poten_2014_02_07_no_longer_just_a_pipe_dream__root",
+      "title": "LLS - WTI",
+      "section_path": [
+        "LLS - WTI"
+      ],
+      "section_path_text": "LLS - WTI",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "A narrowing of the price spread is reflective of general improvements in transportation resulting in higher than usual supplies of light sweet crude oil in the US Gulf. The reversal of the Seaway Pipeline, between Cushing and Freeport, TX, in mid-2012 introduced 400,000 barrels per day of capacity and will, reportedly, be met with an additional twin pipeline that will double throughput volumes this year.",
+      "keywords": [
+        "europe",
+        "us_gulf",
+        "crude_oil",
+        "oil",
+        "crude",
+        "pipeline",
+        "gulf.",
+        "volumes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 343,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

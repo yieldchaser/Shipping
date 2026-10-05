@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1454,
-  "source_path": "corpus/02-hellenic/vessel_valuations/2025/2025-10-07_weekly-vessel-valuations-report-october-07-2025.html",
+  "token_count": 1853,
+  "source_path": "reports/hellenic/vessel_valuations/2025/2025-10-07_weekly-vessel-valuations-report-october-07-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-october-07-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-10-07_weekly-vessel-valuations-report-october-07-2025_img1_710202531_8457e8f33f60.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2025/assets/2025-10-07_weekly-vessel-valuations-report-october-07-2025_img1_710202531_8457e8f33f60.jpg\n\nLinked image asset: 2025-10-07_weekly-vessel-valuations-report-october-07-2025_img1_710202531_8457e8f33f60.jpg\n\nImage metadata: JPEG 678x314 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\nDs) Vrs bs Va a © pt$ me\n07 October 2025 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra La MR Cape Pmax Supra Handy ees. Pmax Handy - Fmax\n40.4% 0.1% *23% 0.0% +0.2% +08% +0.1%6 +05% WAS 0.1% 0.1% 0.7% 02%\n7 320k 60K SK Sk SOK 180k 82k 62k 38k 7000 425078000\n‘ 205% 0.9% *SA% AK +0.2% t4 2% 20.5% *1.0% -OS% 0.1% 10.1% AB 02%\n320k 60K = MOK = Sk SOK 10k = 2k 60k 38K 7000 4250 «S000\nio 1% *1.6% +516 2.6% 20.2% *5.0% 10.4% 71.8% 0.7% 0.1% 0.0% AK 02%\n320k 160k nok 78k SOK 180k 80k 60k 35k 7000 4250 780 noo\ns +1.8% +1.8% +29% 37% 20.2% *3.7% 10.2% +3.3% AK 02% 0.0% 0.6% 0%\n50k 160k nok TSk SOK 180k 80k SSK 30k 7000 4250 1780 noo\n6 +2.1% +1S% +0.7% AM 40.3% +1S% +0.1% 44.8% \"19% 03% 0.1% 20.2% 02%\n510k 160k NOx 70K 45k 180k 75k SSK 30k 7000 4250 780 noo\n+2.1% 40.4% 02% 5.6% +03% 24% 70.2% 97% \"25% 05% 03% 40.7% 03",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2025/assets/2025-10-07_weekly-vessel-valuations-report-october-07-2025_img1_710202531_8457e8f33f60.jpg\n\nLinked image asset: 2025-10-07_weekly-vessel-valuations-report-october-07-2025_img1_710202531_8457e8f33f60.jpg\n\nImage metadata: JPEG 678x314 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\n[structured table]\n| © | | | mi | | | | |\n|---|---|---|---|---|---|---|---|\n| (07 October 2025 | WV | Mini Matrix | - | Weekly Change, | | | |\n| | Tankers | | | Buikers | | Containers | |\n| Ye | | | | | | Hany | ra |\n| 4 | | | | | | | |\n| ‘20k | 160k Sk ke sok | 180k | Bk | Se | 7000 | 425070. | M100 |\n| | 160k Sok | 180k | | 60K se | 7000 | 4250780.",
       "keywords": [
         "capesize",
         "supramax",
@@ -78,11 +78,11 @@
         "sok",
         "noo",
         "asset",
-        "handy"
+        "change"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 707,
+      "token_count": 1106,
       "section_type": "linked_image_asset",
       "children": []
     }

@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nIn tankers this week, it was reported that CNAF Haixin Shipping ordered a 14k dwt Handysize product tanker at Zhejiang Mingfei SB\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-07-01_clarksons-platou-hellas-snp-weekly-bulletin-25_report-01-07-2022_eb0efac3b9b4.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-07-01_clarksons-platou-hellas-snp-weekly-bulletin-25_report-01-07-2022_eb0efac3b9b4.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 01 July 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 11/24\nTHESTELIA K 82,108 2009 TSUNEISHI ZHOUSHAN MAN B. 6S60MC-C7.2 LOW USD 23 M U/D\nDD 05/23\nBWTS fitted\nMAN-B&W 5S60ME-C8.2 HK BASED\nWESTERN SANTOS 63,518 2014 JIAGNSU HANTONG SS/DD 04/24 USD 26.4 M\n4X35T, BWTS fitted (c/o Jinhui)\nRGN USD 23 M\nMAN B. 6S46MC-C7.2 SS 01/27\nMILAU BULKER 38,173 2012 NAIKAI (bss TC attached @ GREEKS\n4X30T, BWTS fitted DD 01/25\n$27K pd until Oct/22)\nMITSUBISHI 6UEC50LSII\nDORTHE OLDENDORFF 37,873 2019 BEIHAI OHBS, 4X45T SS/DD 06/24 USD 25.5 M U/D\nLOGS fitted\nMITSUBISHI 6UEC52LA\nLORD WELLINGTON 31,921 2005 HAKODATE SS/DD 04/25 RGN USD 14.3 M CHINESE\n4X30.5T, BWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT",
+  "summary": "Main\nIn tankers this week, it was reported that CNAF Haixin Shipping ordered a 14k dwt Handysize product tanker at Zhejiang Mingfei SB\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-07-01_clarksons-platou-hellas-snp-weekly-bulletin-25_report-01-07-2022_eb0efac3b9b4.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2022-07-01_clarksons-platou-hellas-snp-weekly-bulletin-25_report-01-07-2022_eb0efac3b9b4.pdf\n\n# ` Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 01 July 2022\n\n## BULK CARRIERS\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|THESTELIA K|82,108|2009 TSUNEISHI ZHOUSHAN|MAN B. 6S60MC-C7.2 BWTS fitted|SS 11/24 DD 05/23|LOW USD 23 M|U/D|\n|WESTERN SANTOS|63,518|2014 JIAGNSU HANTONG|MAN -C8.2 4X-B&W 5S60ME 35T, BWTS fitted|SS/DD 04/24|USD 26.4 M|HK BASED (c/o Jinhui)|\n|MILAU BULKER|38,173|2012 NAIKAI|MAN B. 6S46MC -C7.2 4X30T, BWTS fitted|SS 001/ DD 1/27 25|RGN USD 23 M (bss TC attached @ $27K pd until Oct/22)|GREEKS|\n|DORTHE OLDENDORFF|37,873|2019 BEIHAI|MITSUBISHI 6UEC50LSII OHBS, 4X45T LOGS fitted|SS/DD 06/24|USD 25.5 M|U/D|\n|LORD WELLINGTON|31,921|2005 HAKODATE|MITSUBISHI 6UEC52LA SS/DD 04/25 4X30.5T, BWTS fitted||RGN USD 14.3 M|CHI",
   "keywords": [
     "handysize",
     "lng",
@@ -21,13 +21,13 @@
     "products",
     "steel",
     "gas",
-    "any",
-    "information"
+    "platou",
+    "clarksons"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2258,
-  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-07-01_clarksons-platou-hellas-snp-weekly-bulletin-25.html",
+  "token_count": 2520,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-07-01_clarksons-platou-hellas-snp-weekly-bulletin-25.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-25",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-07-01_clarksons-platou-hellas-snp-weekly-bulletin-25_report-01-07-2022_eb0efac3b9b4.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-07-01_clarksons-platou-hellas-snp-weekly-bulletin-25_report-01-07-2022_eb0efac3b9b4.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 01 July 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 11/24\nTHESTELIA K 82,108 2009 TSUNEISHI ZHOUSHAN MAN B. 6S60MC-C7.2 LOW USD 23 M U/D\nDD 05/23\nBWTS fitted\nMAN-B&W 5S60ME-C8.2 HK BASED\nWESTERN SANTOS 63,518 2014 JIAGNSU HANTONG SS/DD 04/24 USD 26.4 M\n4X35T, BWTS fitted (c/o Jinhui)\nRGN USD 23 M\nMAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-07-01_clarksons-platou-hellas-snp-weekly-bulletin-25_report-01-07-2022_eb0efac3b9b4.pdf\n\n# ` Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 01 July 2022\n\n## BULK CARRIERS\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|THESTELIA K|82,108|2009 TSUNEISHI ZHOUSHAN|MAN B. 6S60MC-C7.2 BWTS fitted|SS 11/24 DD 05/23|LOW USD 23 M|U/D|\n|WESTERN SANTOS|63,518|2014 JIAGNSU HANTONG|MAN -C8.2 4X-B&W 5S60ME 35T, BWTS fitted|SS/DD 04/24|USD 26.4 M|HK BASED (c/o Jinhui)|\n|MILAU BULKER|38,173|2012 NAIKAI|MAN B.",
       "keywords": [
         "handysize",
         "lng",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2162,
+      "token_count": 2424,
       "section_type": "linked_pdf",
       "children": []
     }

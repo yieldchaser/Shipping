@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2016_08_05_glass_half_full_or_half_empty__root",
+  "doc_id": "poten_tankers_no_date_poten_2016_08_05_glass_half_full_or_half_empty",
+  "parent_id": null,
+  "title": "Glass Half Full Or Half Empty",
+  "section_path": [
+    "Glass Half Full Or Half Empty"
+  ],
+  "section_path_text": "Glass Half Full Or Half Empty",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Factors that will drive tanker rates for second half 2016\nThe tanker market has been suffering from rather severe summer doldrums. Earnings across all tanker sectors, from VLCCs down to MRs are at levels not seen since September 2014, the period right before the most recent tanker bull market. While the summer period is historically a slow period of the year and tanker rates typically stage a recovery going into the northern hemisphere winter months, some people are concerned that this might not happen this year, at least not to the same extent.",
+  "keywords": [
+    "vlcc",
+    "brazil",
+    "crude_oil",
+    "half",
+    "oil",
+    "are",
+    "second",
+    "year",
+    "production",
+    "u.s.",
+    "deliveries",
+    "factors"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 827,
+  "source_path": "reports/poten/2016/poten_2016-08-05_glass-half-full-or-half-empty.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_08_05_glass_half_full_or_half_empty__s01_factors_that_will_drive_tanker_rates_for_second_half_2016",
+      "doc_id": "poten_tankers_no_date_poten_2016_08_05_glass_half_full_or_half_empty",
+      "parent_id": "poten_tankers_no_date_poten_2016_08_05_glass_half_full_or_half_empty__root",
+      "title": "Factors that will drive tanker rates for second half 2016",
+      "section_path": [
+        "Factors that will drive tanker rates for second half 2016"
+      ],
+      "section_path_text": "Factors that will drive tanker rates for second half 2016",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The tanker market has been suffering from rather severe summer doldrums. Earnings across all tanker sectors, from VLCCs down to MRs are at levels not seen since September 2014, the period right before the most recent tanker bull market.",
+      "keywords": [
+        "vlcc",
+        "brazil",
+        "crude_oil",
+        "half",
+        "oil",
+        "are",
+        "year",
+        "production"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 814,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

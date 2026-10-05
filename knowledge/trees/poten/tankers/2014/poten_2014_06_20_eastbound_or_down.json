@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2014_06_20_eastbound_or_down__root",
+  "doc_id": "poten_tankers_no_date_poten_2014_06_20_eastbound_or_down",
+  "parent_id": null,
+  "title": "Eastbound or Down",
+  "section_path": [
+    "Eastbound or Down"
+  ],
+  "section_path_text": "Eastbound or Down",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "1 US Crude Oil Imports from Canada v. Total\nCanadian oil flows no matter what Although the term 'energy independence' has significantly receded from US policy vernacular since the advent of shale oil and gas, recent geopolitical developments in Iraq and the Ukraine lend support to arguments made by Keystone XL proponents. Energy independence was a key platform item for President Obama in his first campaign, and perceived or real environmental concerns aside, it seems somewhat hypocritical that Canadian crude oil, which is essentially on the US's doorstep, would not be welcomed with open arms.",
+  "keywords": [
+    "aframax",
+    "atlantic",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "gas",
+    "oil",
+    "crude",
+    "canadian",
+    "barrels",
+    "keystone",
+    "day"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 648,
+  "source_path": "reports/poten/2014/poten_2014-06-20_eastbound-or-down.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_06_20_eastbound_or_down__s01_fig_1_us_crude_oil_imports_from_canada_v_total",
+      "doc_id": "poten_tankers_no_date_poten_2014_06_20_eastbound_or_down",
+      "parent_id": "poten_tankers_no_date_poten_2014_06_20_eastbound_or_down__root",
+      "title": "Fig. 1 US Crude Oil Imports from Canada v. Total",
+      "section_path": [
+        "Fig. 1 US Crude Oil Imports from Canada v. Total"
+      ],
+      "section_path_text": "Fig. 1 US Crude Oil Imports from Canada v. Total",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Canadian oil flows no matter what Although the term 'energy independence' has significantly receded from US policy vernacular since the advent of shale oil and gas, recent geopolitical developments in Iraq and the Ukraine lend support to arguments made by Keystone XL proponents. Energy independence was a key platform item for President Obama in his first campaign, and perceived or real environmental concerns aside, it seems somewhat hypocritical that Canadian crude oil, which is essentially on the US's doorstep, would not be welcomed with open arms.",
+      "keywords": [
+        "aframax",
+        "atlantic",
+        "europe",
+        "us_gulf",
+        "crude_oil",
+        "gas",
+        "oil",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 633,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

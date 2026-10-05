@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2015_07_31_building_for_the_future__root",
+  "doc_id": "poten_tankers_no_date_poten_2015_07_31_building_for_the_future",
+  "parent_id": null,
+  "title": "Building for the Future",
+  "section_path": [
+    "Building for the Future"
+  ],
+  "section_path_text": "Building for the Future",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Should tanker owners take advantage of low yard prices? The tanker market has been doing very well so far this year, both for crude carriers and product tankers. Not surprisingly, contracting has picked up from previous years for most tanker segments.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "west_africa",
+    "crude_oil",
+    "steel",
+    "ordering",
+    "orders",
+    "owners",
+    "prices",
+    "are",
+    "best",
+    "both"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 755,
+  "source_path": "reports/poten/2015/poten_2015-07-31_building-for-the-future.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2015_07_31_building_for_the_future__s01_should_tanker_owners_take_advantage_of_low_yard_prices",
+      "doc_id": "poten_tankers_no_date_poten_2015_07_31_building_for_the_future",
+      "parent_id": "poten_tankers_no_date_poten_2015_07_31_building_for_the_future__root",
+      "title": "Should tanker owners take advantage of low yard prices?",
+      "section_path": [
+        "Should tanker owners take advantage of low yard prices?"
+      ],
+      "section_path_text": "Should tanker owners take advantage of low yard prices?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The tanker market has been doing very well so far this year, both for crude carriers and product tankers. Not surprisingly, contracting has picked up from previous years for most tanker segments.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "west_africa",
+        "crude_oil",
+        "steel",
+        "ordering",
+        "orders",
+        "owners"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 745,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

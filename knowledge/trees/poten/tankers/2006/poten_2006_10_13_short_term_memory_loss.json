@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2006_10_13_short_term_memory_loss__root",
+  "doc_id": "poten_tankers_no_date_poten_2006_10_13_short_term_memory_loss",
+  "parent_id": null,
+  "title": "Short-Term Memory Loss",
+  "section_path": [
+    "Short-Term Memory Loss"
+  ],
+  "section_path_text": "Short-Term Memory Loss",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Short-Term Memory Loss\nMemory loss, at least in some capacity, is associated with the passing of time. Applying this theory to the tanker market, it appears that memories can be extremely short-lived. Day-to-day movements and high volumes of fixture activity can quickly change the definition of what constitutes a strong market.",
+  "keywords": [
+    "vlcc",
+    "brazil",
+    "meg",
+    "crude_oil",
+    "average",
+    "experienced",
+    "annual",
+    "are",
+    "day",
+    "high",
+    "memories",
+    "time"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 643,
+  "source_path": "reports/poten/2006/poten_2006-10-13_short-term-memory-loss.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_10_13_short_term_memory_loss__s01_short_term_memory_loss",
+      "doc_id": "poten_tankers_no_date_poten_2006_10_13_short_term_memory_loss",
+      "parent_id": "poten_tankers_no_date_poten_2006_10_13_short_term_memory_loss__root",
+      "title": "Short-Term Memory Loss",
+      "section_path": [
+        "Short-Term Memory Loss"
+      ],
+      "section_path_text": "Short-Term Memory Loss",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Memory loss, at least in some capacity, is associated with the passing of time. Applying this theory to the tanker market, it appears that memories can be extremely short-lived.",
+      "keywords": [
+        "memories",
+        "can",
+        "movements",
+        "activity",
+        "altogether.",
+        "appears",
+        "applying",
+        "associated"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 97,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_10_13_short_term_memory_loss__s02_basis_sh_dh_reported_spot_fixtures",
+      "doc_id": "poten_tankers_no_date_poten_2006_10_13_short_term_memory_loss",
+      "parent_id": "poten_tankers_no_date_poten_2006_10_13_short_term_memory_loss__root",
+      "title": "* Basis SH & DH Reported Spot Fixtures",
+      "section_path": [
+        "* Basis SH & DH Reported Spot Fixtures"
+      ],
+      "section_path_text": "* Basis SH & DH Reported Spot Fixtures",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The chart on the previous page shows the annual high, low and average Worldscale (WS) rates for VLCCs Arabian Gulf - Far East, based on reported spot fixtures. The market lows experienced from 1996 through 2006 YTD bottomed-out in 2002 at WS 27.5 and plateaued at WS 69 in 2004 - a range of about 40 WS points.",
+      "keywords": [
+        "vlcc",
+        "brazil",
+        "meg",
+        "average",
+        "vlccs",
+        "annual",
+        "experienced",
+        "far"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 242,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_10_13_short_term_memory_loss__s03_annual",
+      "doc_id": "poten_tankers_no_date_poten_2006_10_13_short_term_memory_loss",
+      "parent_id": "poten_tankers_no_date_poten_2006_10_13_short_term_memory_loss__root",
+      "title": "Annual",
+      "section_path": [
+        "Annual"
+      ],
+      "section_path_text": "Annual",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "TCE ($/day) 1996 $30,100 1997 $38,800 1998 $34,100 1999 $18,900 2000 $54,600 2001 $34,200 2002 $20,000 2003 $48,100 2004 $89,300 2005 $52,600 2006 $52,100 1996 - 2006 Avg $42,982 *Basis Ras Tanura - Yokohama (260kt) *90% Utilization What is interesting is that while year-to-date average TCEs for 2006 are $52,100 per day, the April month average was as low as $18,500 per day. Most people will always remember the last quarter of 2004 as having experienced some of the strongest rates in history, while the weakness seen just a few months ago is quickly forgotten.",
+      "keywords": [
+        "average",
+        "day",
+        "per",
+        "ago",
+        "always",
+        "april",
+        "are",
+        "avg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 190,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_10_13_short_term_memory_loss__s04_upward_overall",
+      "doc_id": "poten_tankers_no_date_poten_2006_10_13_short_term_memory_loss",
+      "parent_id": "poten_tankers_no_date_poten_2006_10_13_short_term_memory_loss__root",
+      "title": "Upward Overall",
+      "section_path": [
+        "Upward Overall"
+      ],
+      "section_path_text": "Upward Overall",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The spot market rates have experienced volatility in rates throughout the past few years and the market has continually recovered from weakness. It is important to remember recent history when assessing whether the downward pressure in the spot VLCC market today is a long-term trend.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "demand",
+        "today",
+        "anticipated",
+        "apt",
+        "are",
+        "assessing"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 92,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

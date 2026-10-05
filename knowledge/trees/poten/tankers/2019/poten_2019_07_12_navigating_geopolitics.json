@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2019_07_12_navigating_geopolitics__root",
+  "doc_id": "poten_tankers_no_date_poten_2019_07_12_navigating_geopolitics",
+  "parent_id": null,
+  "title": "Navigating Geopolitics",
+  "section_path": [
+    "Navigating Geopolitics"
+  ],
+  "section_path_text": "Navigating Geopolitics",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Global tension has limited impact on tanker market (so far)\nGeopolitical tension and the tanker market are linked, because there is typically a close relationship between geopolitical events and oil prices. Historically, many of the world's leading oil producing countries are politically unstable and some are at odds with the U.S. Going back to the 1960s, geopolitical events have been the catalyst for many of the biggest moves in tanker rates and prices.",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "meg",
+    "crude_oil",
+    "oil",
+    "geopolitical",
+    "iran",
+    "production",
+    "impact",
+    "significant",
+    "was",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 836,
+  "source_path": "reports/poten/2019/poten_2019-07-12_navigating-geopolitics.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_07_12_navigating_geopolitics__s01_global_tension_has_limited_impact_on_tanker_market_so_far",
+      "doc_id": "poten_tankers_no_date_poten_2019_07_12_navigating_geopolitics",
+      "parent_id": "poten_tankers_no_date_poten_2019_07_12_navigating_geopolitics__root",
+      "title": "Global tension has limited impact on tanker market (so far)",
+      "section_path": [
+        "Global tension has limited impact on tanker market (so far)"
+      ],
+      "section_path_text": "Global tension has limited impact on tanker market (so far)",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Geopolitical tension and the tanker market are linked, because there is typically a close relationship between geopolitical events and oil prices. Historically, many of the world's leading oil producing countries are politically unstable and some are at odds with the U.S.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "meg",
+        "crude_oil",
+        "oil",
+        "geopolitical",
+        "iran",
+        "production"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 824,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

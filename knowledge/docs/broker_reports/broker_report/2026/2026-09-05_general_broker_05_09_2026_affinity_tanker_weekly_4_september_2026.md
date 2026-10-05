@@ -203,9 +203,9 @@ numeric_observations:
   source_line: 13.0 14.0 14.5
   unit: null
   values:
-  - 13000.0
-  - 14000.0
-  - 14500.0
+  - 13.0
+  - 14.0
+  - 14.5
 - section: Qty $ / Day W-O-W
   section_type: null
   source_line: 270,000 704,025 ↑Firmer 80,000 93,061 ↓Softer 260,000 218,803 ↑Firmer

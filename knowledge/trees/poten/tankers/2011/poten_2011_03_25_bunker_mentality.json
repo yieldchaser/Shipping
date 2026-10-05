@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_03_25_bunker_mentality__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_03_25_bunker_mentality",
+  "parent_id": null,
+  "title": "Bunker Mentality",
+  "section_path": [
+    "Bunker Mentality"
+  ],
+  "section_path_text": "Bunker Mentality",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Bunker Mentality\nAs tanker spot‐chartering rates have experienced a mild recovery in recent months, equity analysts and industry pundits alike have eagerly anticipated a rebound in tanker company stocks to little avail. For the past couple years, the steadily‐declining market capitalization of some of the biggest names in the business has come as no surprise given the general state of the freight environment. A wide variety of factors both material and psychological affect the performance of tanker equities in what appears to be a stag‐flationary economic environment in the United States.",
+  "keywords": [
+    "vlcc",
+    "meg",
+    "crude_oil",
+    "prices",
+    "bunker",
+    "can",
+    "equity",
+    "poten",
+    "affect",
+    "are",
+    "earnings",
+    "fuel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 782,
+  "source_path": "reports/poten/2011/poten_2011-03-25_bunker-mentality.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_03_25_bunker_mentality__s01_bunker_mentality",
+      "doc_id": "poten_tankers_no_date_poten_2011_03_25_bunker_mentality",
+      "parent_id": "poten_tankers_no_date_poten_2011_03_25_bunker_mentality__root",
+      "title": "Bunker Mentality",
+      "section_path": [
+        "Bunker Mentality"
+      ],
+      "section_path_text": "Bunker Mentality",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As tanker spot‐chartering rates have experienced a mild recovery in recent months, equity analysts and industry pundits alike have eagerly anticipated a rebound in tanker company stocks to little avail. For the past couple years, the steadily‐declining market capitalization of some of the biggest names in the business has come as no surprise given the general state of the freight environment.",
+      "keywords": [
+        "equities",
+        "equity",
+        "recent",
+        "between",
+        "broader",
+        "earnings",
+        "little",
+        "performance"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 242,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_03_25_bunker_mentality__s02_hunker_down_and_bunker",
+      "doc_id": "poten_tankers_no_date_poten_2011_03_25_bunker_mentality",
+      "parent_id": "poten_tankers_no_date_poten_2011_03_25_bunker_mentality__root",
+      "title": "Hunker Down and Bunker",
+      "section_path": [
+        "Hunker Down and Bunker"
+      ],
+      "section_path_text": "Hunker Down and Bunker",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The most compelling fundamental reason for weakness in the tanker company performance today is the dramatic rise in bunker costs. As outlined in Poten's March monthly Fuel Oil opinion The Squeeze is On , the price spike in bunkers has drastically eroded the slim profitability that ship owners were experiencing for the better part of the last 6 months.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "crude_oil",
+        "bunker",
+        "prices",
+        "fuel",
+        "poten",
+        "higher"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 237,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_03_25_bunker_mentality__s03_ifo_380_price_mt",
+      "doc_id": "poten_tankers_no_date_poten_2011_03_25_bunker_mentality",
+      "parent_id": "poten_tankers_no_date_poten_2011_03_25_bunker_mentality__root",
+      "title": "IFO 380 Price ($/mt)",
+      "section_path": [
+        "IFO 380 Price ($/mt)"
+      ],
+      "section_path_text": "IFO 380 Price ($/mt)",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "IFO 380 Marine Fuel Bunker Prices (Fujairah) Poten Tanker Freight Index Although ship owners attempt to naturally adjust charter rates to maintain levels of profitability, spikes in bunker prices can be difficult to capture given the drawn‐out nature of tanker charter negotiation and the corresponding time lag. This holds true particularly for un‐hedged owners who agree to a spot‐voyage deal basis going market rates and bunker prices only to find that, post‐fixture, their realized bunker costs can be up to 5% higher than what they initially estimated.",
+      "keywords": [
+        "can",
+        "prices",
+        "bunker",
+        "affect",
+        "are",
+        "difficult",
+        "factor",
+        "profitability"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 282,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

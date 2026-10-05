@@ -1,0 +1,174 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_03_09_not_so_fast__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_03_09_not_so_fast",
+  "parent_id": null,
+  "title": "Not So Fast",
+  "section_path": [
+    "Not So Fast"
+  ],
+  "section_path_text": "Not So Fast",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Not So Fast\nAfter last week's stock market tumble, many individuals and businesses paused to think about the stability and autonomy of the US and Chinese economies. The drop that was precipitated by other stock market declines in the Far East, left many wondering whether or not recent strength in the market was based on fundamentals or was simply a result of momentum. While the market has recovered slightly over the last several trading days, it still remains slightly lower than beginning of the year levels.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "brazil",
+    "west_africa",
+    "crude_oil",
+    "not",
+    "was",
+    "many",
+    "stock"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 638,
+  "source_path": "reports/poten/2007/poten_2007-03-09_not-so-fast.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_03_09_not_so_fast__s01_not_so_fast",
+      "doc_id": "poten_tankers_no_date_poten_2007_03_09_not_so_fast",
+      "parent_id": "poten_tankers_no_date_poten_2007_03_09_not_so_fast__root",
+      "title": "Not So Fast",
+      "section_path": [
+        "Not So Fast"
+      ],
+      "section_path_text": "Not So Fast",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "After last week's stock market tumble, many individuals and businesses paused to think about the stability and autonomy of the US and Chinese economies. The drop that was precipitated by other stock market declines in the Far East, left many wondering whether or not recent strength in the market was based on fundamentals or was simply a result of momentum.",
+      "keywords": [
+        "china",
+        "was",
+        "slightly",
+        "stock",
+        "last",
+        "many",
+        "recent",
+        "activity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 147,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_03_09_not_so_fast__s02_dow_jones_industrial_average",
+      "doc_id": "poten_tankers_no_date_poten_2007_03_09_not_so_fast",
+      "parent_id": "poten_tankers_no_date_poten_2007_03_09_not_so_fast__root",
+      "title": "Dow Jones Industrial Average",
+      "section_path": [
+        "Dow Jones Industrial Average"
+      ],
+      "section_path_text": "Dow Jones Industrial Average",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "S&P 500 Although the stock markets have taken a dip, freight rates have remained firm and both crude oil and refined product demand have continued to stay at record levels. With many quick to believe that long- running strength in the freight and equity markets are doomed to come to an end, there is reason to believe that growth will at least continue in the near-term.",
+      "keywords": [
+        "crude_oil",
+        "believe",
+        "markets",
+        "after",
+        "all",
+        "although",
+        "are",
+        "both"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 96,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_03_09_not_so_fast__s03_chart_freight_vs_equity",
+      "doc_id": "poten_tankers_no_date_poten_2007_03_09_not_so_fast",
+      "parent_id": "poten_tankers_no_date_poten_2007_03_09_not_so_fast__root",
+      "title": "Chart: Freight vs. Equity",
+      "section_path": [
+        "Chart: Freight vs. Equity"
+      ],
+      "section_path_text": "Chart: Freight vs. Equity",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Volatility and sensitivity to momentum are two ubiquitous themes in the equity markets and are also constantly present in the freight markets. The chart below shows the Poten Tanker Index versus the Poten Tanker Equity Index.",
+      "keywords": [
+        "are",
+        "equity",
+        "poten",
+        "below",
+        "chart",
+        "constantly",
+        "index.",
+        "markets"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 43,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_03_09_not_so_fast__s04_pti_index",
+      "doc_id": "poten_tankers_no_date_poten_2007_03_09_not_so_fast",
+      "parent_id": "poten_tankers_no_date_poten_2007_03_09_not_so_fast__root",
+      "title": "PTI Index",
+      "section_path": [
+        "PTI Index"
+      ],
+      "section_path_text": "PTI Index",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The public tanker companies appear to be on an upward trend overall, despite being impacted by the stock market decline at the end of February. Even more recently, especially in the past week, the freight markets have been improving across the board for tankers.",
+      "keywords": [
+        "appear",
+        "being",
+        "board",
+        "companies",
+        "decline",
+        "despite",
+        "end",
+        "especially"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 50,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_03_09_not_so_fast__s05_time_charter_equivalent_day",
+      "doc_id": "poten_tankers_no_date_poten_2007_03_09_not_so_fast",
+      "parent_id": "poten_tankers_no_date_poten_2007_03_09_not_so_fast__root",
+      "title": "Time Charter Equivalent ($/day)",
+      "section_path": [
+        "Time Charter Equivalent ($/day)"
+      ],
+      "section_path_text": "Time Charter Equivalent ($/day)",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "This Week - 2006 This Week - 2007 VLCC AG - FE (260kt) $48,226 $70,033 Suezmax WAF - USAC (130kt) $31,522 $33,054 Aframax CAR - USG (70kt) $49,974 $40,661 Panamax CAR - USG (50kt) $23,286 $41,005 MR UKC - TA (37kt) $19,873 $38,028 Looking at where the market was exactly a year ago is particularly interesting to gain perspective, especially in light of the seasonal underlying fundamentals. The tanker fleet is larger than ever, yet rates are still robust.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "west_africa",
+        "crude_oil",
+        "not",
+        "would"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 274,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

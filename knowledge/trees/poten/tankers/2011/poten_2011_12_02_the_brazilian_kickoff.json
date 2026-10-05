@@ -1,0 +1,186 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_12_02_the_brazilian_kickoff__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_12_02_the_brazilian_kickoff",
+  "parent_id": null,
+  "title": "The Brazilian Kickoff",
+  "section_path": [
+    "The Brazilian Kickoff"
+  ],
+  "section_path_text": "The Brazilian Kickoff",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Conference\nOn Wednesday, November 30 th the Council on Foreign Relations held the Rio de Janeiro Investment Conference in New York City to discuss prospects for Brazilian growth and the role of foreign investment in Brazil's rapidly growing economy. Much of the discussion centered on challenges and opportunities in the Brazilian energy sector, which will be pivotal in the country's economic prospects. Development of the enormous crude oil discoveries in Brazil's pre‐salt basins could help to bring the country's output to up to a projected 8 million barrels per day (mbd) by 2020.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "brazil",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "india",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 857,
+  "source_path": "reports/poten/2011/poten_2011-12-02_the-brazilian-kickoff.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_02_the_brazilian_kickoff__s01_conference",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_02_the_brazilian_kickoff",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_02_the_brazilian_kickoff__root",
+      "title": "Conference",
+      "section_path": [
+        "Conference"
+      ],
+      "section_path_text": "Conference",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "On Wednesday, November 30 th the Council on Foreign Relations held the Rio de Janeiro Investment Conference in New York City to discuss prospects for Brazilian growth and the role of foreign investment in Brazil's rapidly growing economy. Much of the discussion centered on challenges and opportunities in the Brazilian energy sector, which will be pivotal in the country's economic prospects.",
+      "keywords": [
+        "brazil",
+        "atlantic",
+        "crude_oil",
+        "crude",
+        "oil",
+        "brazilian",
+        "foreign",
+        "investment"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 325,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_02_the_brazilian_kickoff__s02_dirty_fixtures_loading_brazil_2001_2011_ytd",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_02_the_brazilian_kickoff",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_02_the_brazilian_kickoff__root",
+      "title": "Dirty Fixtures Loading Brazil ‐ 2001 ‐ 2011 YTD",
+      "section_path": [
+        "Dirty Fixtures Loading Brazil ‐ 2001 ‐ 2011 YTD"
+      ],
+      "section_path_text": "Dirty Fixtures Loading Brazil ‐ 2001 ‐ 2011 YTD",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Growth in tanker demand to move Brazilian crude oil volumes has been largest for Suezmax vessels, which have carried approximately two‐thirds of reported spot volumes out of the country 2011 year to date. About 80% of these Suezmax volumes are being sent to US Gulf refiners.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "brazil",
+        "meg",
+        "west_africa",
+        "india",
+        "us_gulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 322,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_02_the_brazilian_kickoff__s03_caribbean",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_02_the_brazilian_kickoff",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_02_the_brazilian_kickoff__root",
+      "title": "Caribbean",
+      "section_path": [
+        "Caribbean"
+      ],
+      "section_path_text": "Caribbean",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "south"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_02_the_brazilian_kickoff__s04_far_east",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_02_the_brazilian_kickoff",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_02_the_brazilian_kickoff__root",
+      "title": "Far East &",
+      "section_path": [
+        "Far East &"
+      ],
+      "section_path_text": "Far East &",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "asia",
+        "southeast"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_02_the_brazilian_kickoff__s05_south_asia",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_02_the_brazilian_kickoff",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_02_the_brazilian_kickoff__root",
+      "title": "South Asia",
+      "section_path": [
+        "South Asia"
+      ],
+      "section_path_text": "South Asia",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "",
+      "keywords": [
+        "west_africa",
+        "africa",
+        "states",
+        "united",
+        "west"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_02_the_brazilian_kickoff__s06_crude_oil",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_02_the_brazilian_kickoff",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_02_the_brazilian_kickoff__root",
+      "title": "Crude Oil",
+      "section_path": [
+        "Crude Oil"
+      ],
+      "section_path_text": "Crude Oil",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Refined Product Brazil currently imports about 20% of its total crude oil requirements, amounting to about 400 kbd. The volume of foreign crude oil coming into Brazil is expected to decrease over time as lighter pre‐ salt reserves are developed and new refining projects able to process heavier oil come onstream.",
+      "keywords": [
+        "china",
+        "brazil",
+        "india",
+        "crude_oil",
+        "oil",
+        "crude",
+        "are",
+        "even"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 165,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

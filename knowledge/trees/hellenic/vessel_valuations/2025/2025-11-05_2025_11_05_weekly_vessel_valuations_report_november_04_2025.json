@@ -18,16 +18,16 @@
     "container",
     "usd",
     "mil",
+    "noo",
     "sold",
     "value",
     "dwt",
-    "handy",
     "nok"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1169,
-  "source_path": "corpus/02-hellenic/vessel_valuations/2025/2025-11-05_weekly-vessel-valuations-report-november-04-2025.html",
+  "token_count": 1971,
+  "source_path": "reports/hellenic/vessel_valuations/2025/2025-11-05_weekly-vessel-valuations-report-november-04-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-november-04-2025",
   "children": [
     {
@@ -69,20 +69,20 @@
       "section_path_text": "Linked asset: 2025-11-05_weekly-vessel-valuations-report-november-04-2025_img1_51120251_3eae0daf6c11.jpeg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2025/assets/2025-11-05_weekly-vessel-valuations-report-november-04-2025_img1_51120251_3eae0daf6c11.jpeg\n\nLinked image asset: 2025-11-05_weekly-vessel-valuations-report-november-04-2025_img1_51120251_3eae0daf6c11.jpeg\n\nImage metadata: JPEG 600x278 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\n© VessetsValre ADM\n04 November 2025 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra mi MR Cape Pmax ‘Supra Handy pasa Prax Handy Fmax\n6 104% 0.0% 0.0% 10.1% -0.6% 03% 103% 01% 0.0% 2% ON BOHR LOK\n320k 160k Sk TSk SOK 180k 82k 62k 38 7000 4250 780 noo\ns 04% 404% 0.0% 0.0% 0.3% 09% 02% 13% 0.0% 22% OM HATH\n320k 160k NOk 78k SOK 180K ame 60k 3a 7000 4250 780 noo\n= 01% 10.8% 0.2% 40. 0.0% 09% 09% 18% 0.0% AM OM KK HOH\n320k 160k nOk Sk SOK 180K 80k 60k Sk 7000 4250 1780 noo\n= 110% LIK 10K 10H 0.9% 03% 10% BH +0.",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2025/assets/2025-11-05_weekly-vessel-valuations-report-november-04-2025_img1_51120251_3eae0daf6c11.jpeg\n\nLinked image asset: 2025-11-05_weekly-vessel-valuations-report-november-04-2025_img1_51120251_3eae0daf6c11.jpeg\n\nImage metadata: JPEG 600x278 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\n[structured table]\n| © | | | | | | | ADM | | | | | | |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 04 November | 2025 | | | | VV | Mini Matrix | - | Weekly | Change | | | | |\n| | | | Tankers | | | | | Bulkers | | | Containers | | |\n| Year | vice | Suez | Afra | | MR | Cape | Pmax | ‘Supra | Handy | | | Handy | Fmax |\n| | 104% | 0.0% | 0.0% | | -0.6% | 03% | 103% | 01% | 0.0% | 2% | ON | BOHR | LOK |\n| | 320k | 160k | Sk | TSk | SOK | 180k | 82k | 62k | 38 | 7000 | 4250 | 780 | noo |\n| | 04% | | 0.0% | | | 09% | 02% | | 0.0% | 22% | | | |\n| s | | | | | | | | | | | | | |\n| | 320k | 160k | NOk | 78k | | 180K | ame | 60k | 3a | 7000 | 4250 | 780 | noo |\n| | | 10.8% | | 40. | 0.0% | 09% | 09% | 18% | 0.0% | | OM | KK | |\n| = | | | | | | | | | | | | | |\n| | 320k | 160k | nOk | Sk | | 180K | 80k | 60k | | 7000 | 4250 | 1780 | noo |\n| |",
       "keywords": [
         "capesize",
         "supramax",
         "handysize",
         "container",
-        "nok",
         "noo",
+        "nok",
         "sok",
-        "asset"
+        "handy"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 612,
+      "token_count": 1414,
       "section_type": "linked_image_asset",
       "children": []
     }

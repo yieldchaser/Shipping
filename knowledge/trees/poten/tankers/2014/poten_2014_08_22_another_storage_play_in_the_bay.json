@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2014_08_22_another_storage_play_in_the_bay__root",
+  "doc_id": "poten_tankers_no_date_poten_2014_08_22_another_storage_play_in_the_bay",
+  "parent_id": null,
+  "title": "Another Storage Play in the Bay?",
+  "section_path": [
+    "Another Storage Play in the Bay?"
+  ],
+  "section_path_text": "Another Storage Play in the Bay?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "1 Reported VLCC & Suezmax Fixtures into South Africa\nEnter Tankers from Stage Left During the last few days, various articles in the oil and shipping press have hinted at the possibility that renewed contango in the oil markets could lead to increased storage plays after several Suezmaxes were fixed for discharge in Saldanha Bay, South Africa. While South Africa has several refineries that run on imported crude oil, the origin of the crudes (North Sea and the Caribbean), as well as the reported discharge port, seems to point to storage rather than refining. The oil companies that have refining operations in South Africa include Chevron, Engen/Petronas, BP, Shell, Total and Sasol.",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "suezmax",
+    "brazil",
+    "atlantic",
+    "pacific",
+    "meg",
+    "west_africa",
+    "crude_oil",
+    "oil",
+    "africa",
+    "south"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 678,
+  "source_path": "reports/poten/2014/poten_2014-08-22_another-storage-play-in-the-bay.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_08_22_another_storage_play_in_the_bay__s01_fig_1_reported_vlcc_suezmax_fixtures_into_south_africa",
+      "doc_id": "poten_tankers_no_date_poten_2014_08_22_another_storage_play_in_the_bay",
+      "parent_id": "poten_tankers_no_date_poten_2014_08_22_another_storage_play_in_the_bay__root",
+      "title": "Fig. 1 Reported VLCC & Suezmax Fixtures into South Africa",
+      "section_path": [
+        "Fig. 1 Reported VLCC & Suezmax Fixtures into South Africa"
+      ],
+      "section_path_text": "Fig. 1 Reported VLCC & Suezmax Fixtures into South Africa",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Enter Tankers from Stage Left During the last few days, various articles in the oil and shipping press have hinted at the possibility that renewed contango in the oil markets could lead to increased storage plays after several Suezmaxes were fixed for discharge in Saldanha Bay, South Africa. While South Africa has several refineries that run on imported crude oil, the origin of the crudes (North Sea and the Caribbean), as well as the reported discharge port, seems to point to storage rather than refining.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "suezmax",
+        "brazil",
+        "atlantic",
+        "pacific",
+        "meg",
+        "west_africa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 661,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2020_06_19_over_a_barrel__root",
+  "doc_id": "poten_tankers_no_date_poten_2020_06_19_over_a_barrel",
+  "parent_id": null,
+  "title": "Over A Barrel",
+  "section_path": [
+    "Over A Barrel"
+  ],
+  "section_path_text": "Over A Barrel",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Sanctions against Venezuela are tightening\nThe situation in Venezuela is going from bad to worse. A recent article in Bloomberg mentioned that Venezuela currently produces only 374,000 barrels per day (b/d). To put this into perspective, this is a little more than 10% of the country's production 55 years ago according to the BP Statistical Review of World Energy 2020, which has oil production data going back to the 1960s.",
+  "keywords": [
+    "china",
+    "india",
+    "singapore",
+    "crude_oil",
+    "venezuela",
+    "crude",
+    "was",
+    "sanctions",
+    "u.s.",
+    "greek",
+    "oil",
+    "years"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 837,
+  "source_path": "reports/poten/2020/poten_2020-06-19_over-a-barrel.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_06_19_over_a_barrel__s01_sanctions_against_venezuela_are_tightening",
+      "doc_id": "poten_tankers_no_date_poten_2020_06_19_over_a_barrel",
+      "parent_id": "poten_tankers_no_date_poten_2020_06_19_over_a_barrel__root",
+      "title": "Sanctions against Venezuela are tightening",
+      "section_path": [
+        "Sanctions against Venezuela are tightening"
+      ],
+      "section_path_text": "Sanctions against Venezuela are tightening",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The situation in Venezuela is going from bad to worse. A recent article in Bloomberg mentioned that Venezuela currently produces only 374,000 barrels per day (b/d).",
+      "keywords": [
+        "china",
+        "india",
+        "singapore",
+        "crude_oil",
+        "venezuela",
+        "crude",
+        "was",
+        "u.s."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 830,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

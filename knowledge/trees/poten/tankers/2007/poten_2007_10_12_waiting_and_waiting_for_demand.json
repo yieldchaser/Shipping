@@ -1,0 +1,172 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_10_12_waiting_and_waiting_for_demand__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_10_12_waiting_and_waiting_for_demand",
+  "parent_id": null,
+  "title": "Waiting and Waiting for Demand",
+  "section_path": [
+    "Waiting and Waiting for Demand"
+  ],
+  "section_path_text": "Waiting and Waiting for Demand",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Waiting and Waiting for Demand\nRefineries are ingenious places. Just pour in crude oil and then wait for their output of high quality fuels and other valuable products to appear. Synchronizing both overall output volumes and the portions of each fuel grade with swings in fuel demand, however, can challenge refiners.",
+  "keywords": [
+    "crude_oil",
+    "products",
+    "gas",
+    "demand",
+    "gasoline",
+    "distillate",
+    "but",
+    "levels",
+    "are",
+    "fuel",
+    "high",
+    "inventories"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 384,
+  "source_path": "reports/poten/2007/poten_2007-10-12_waiting-and-waiting-for-demand.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_10_12_waiting_and_waiting_for_demand__s01_waiting_and_waiting_for_demand",
+      "doc_id": "poten_tankers_no_date_poten_2007_10_12_waiting_and_waiting_for_demand",
+      "parent_id": "poten_tankers_no_date_poten_2007_10_12_waiting_and_waiting_for_demand__root",
+      "title": "Waiting and Waiting for Demand",
+      "section_path": [
+        "Waiting and Waiting for Demand"
+      ],
+      "section_path_text": "Waiting and Waiting for Demand",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Just pour in crude oil and then wait for their output of high quality fuels and other valuable products to appear. Synchronizing both overall output volumes and the portions of each fuel grade with swings in fuel demand, however, can challenge refiners.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "are",
+        "fuel",
+        "inventories",
+        "output",
+        "seasonal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 102,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_10_12_waiting_and_waiting_for_demand__s02_gasoline_low",
+      "doc_id": "poten_tankers_no_date_poten_2007_10_12_waiting_and_waiting_for_demand",
+      "parent_id": "poten_tankers_no_date_poten_2007_10_12_waiting_and_waiting_for_demand__root",
+      "title": "Gasoline Low",
+      "section_path": [
+        "Gasoline Low"
+      ],
+      "section_path_text": "Gasoline Low",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Gasoline High 2007 Gasoline Distillate Low Distillate High 2007 Distillate",
+      "keywords": [
+        "products",
+        "gas",
+        "distillate",
+        "gasoline",
+        "high",
+        "low"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 22,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_10_12_waiting_and_waiting_for_demand__s03_from_whence_cometh_demand",
+      "doc_id": "poten_tankers_no_date_poten_2007_10_12_waiting_and_waiting_for_demand",
+      "parent_id": "poten_tankers_no_date_poten_2007_10_12_waiting_and_waiting_for_demand__root",
+      "title": "From Whence Cometh Demand?",
+      "section_path": [
+        "From Whence Cometh Demand?"
+      ],
+      "section_path_text": "From Whence Cometh Demand?",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "With current gasoline inventories below their recent historic lows, an expectation of higher crudes runs to boost gasoline reserves might prevail. But what if these inventory levels merely reflect an increased level of manufacturing and distribution efficiency which negates the need for higher levels?",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "levels",
+        "but",
+        "gasoline",
+        "higher",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 113,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_10_12_waiting_and_waiting_for_demand__s04_aug_wk_2",
+      "doc_id": "poten_tankers_no_date_poten_2007_10_12_waiting_and_waiting_for_demand",
+      "parent_id": "poten_tankers_no_date_poten_2007_10_12_waiting_and_waiting_for_demand__root",
+      "title": "Aug wk 2",
+      "section_path": [
+        "Aug wk 2"
+      ],
+      "section_path_text": "Aug wk 2",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The first half of 2007 saw US gasoline demand average about 140 thousand bbls/day over the 9.16 MM bbls/day average in this period of 2006. Lately, however, gasoline demand has mirrored that of the same period last year.",
+      "keywords": [
+        "products",
+        "gas",
+        "average",
+        "bbls/day",
+        "demand",
+        "gasoline",
+        "period",
+        "first"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 57,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_10_12_waiting_and_waiting_for_demand__s05_oct_wk_1",
+      "doc_id": "poten_tankers_no_date_poten_2007_10_12_waiting_and_waiting_for_demand",
+      "parent_id": "poten_tankers_no_date_poten_2007_10_12_waiting_and_waiting_for_demand__root",
+      "title": "Oct wk 1",
+      "section_path": [
+        "Oct wk 1"
+      ],
+      "section_path_text": "Oct wk 1",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "US refiners are wrestling with the challenges of adapting their operations to meet not only a seasonal shift in demand for fuel type, but also an overall demand that is similar to that of last year's. So while demand remains fundamentally strong, it will need to increase significantly before the marine transportation system begins to tighten.",
+      "keywords": [
+        "demand",
+        "adapting",
+        "are",
+        "before",
+        "begins",
+        "but",
+        "challenges",
+        "fuel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 62,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

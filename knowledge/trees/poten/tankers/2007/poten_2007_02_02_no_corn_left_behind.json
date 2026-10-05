@@ -1,0 +1,169 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_02_02_no_corn_left_behind__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_02_02_no_corn_left_behind",
+  "parent_id": null,
+  "title": "No Corn Left Behind",
+  "section_path": [
+    "No Corn Left Behind"
+  ],
+  "section_path_text": "No Corn Left Behind",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "No Corn Left Behind\nAn accelerated growth trajectory was spotlighted in President Bush's State of the Union Address for the US ethanol fuel program. From an already mandated blending of nearly 500,000 barrels per day into gasoline by 2012, Mr. Bush proposed catapulting ethanol's inclusion to 2.2 million barrels per day by 2017.",
+  "keywords": [
+    "capesize",
+    "grain",
+    "crude_oil",
+    "products",
+    "gas",
+    "ethanol",
+    "gasoline",
+    "per",
+    "percent",
+    "production",
+    "goal",
+    "content"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 902,
+  "source_path": "reports/poten/2007/poten_2007-02-02_no-corn-left-behind.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_02_02_no_corn_left_behind__s01_no_corn_left_behind",
+      "doc_id": "poten_tankers_no_date_poten_2007_02_02_no_corn_left_behind",
+      "parent_id": "poten_tankers_no_date_poten_2007_02_02_no_corn_left_behind__root",
+      "title": "No Corn Left Behind",
+      "section_path": [
+        "No Corn Left Behind"
+      ],
+      "section_path_text": "No Corn Left Behind",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "An accelerated growth trajectory was spotlighted in President Bush's State of the Union Address for the US ethanol fuel program. From an already mandated blending of nearly 500,000 barrels per day into gasoline by 2012, Mr.",
+      "keywords": [
+        "capesize",
+        "products",
+        "gas",
+        "ethanol",
+        "barrels",
+        "blending",
+        "bush",
+        "day"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 169,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_02_02_no_corn_left_behind__s02_mandated_ethanol_content",
+      "doc_id": "poten_tankers_no_date_poten_2007_02_02_no_corn_left_behind",
+      "parent_id": "poten_tankers_no_date_poten_2007_02_02_no_corn_left_behind__root",
+      "title": "Mandated Ethanol Content",
+      "section_path": [
+        "Mandated Ethanol Content"
+      ],
+      "section_path_text": "Mandated Ethanol Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "content",
+        "ethanol",
+        "proposed"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_02_02_no_corn_left_behind__s03_farmland_use_what_about_the_chicken",
+      "doc_id": "poten_tankers_no_date_poten_2007_02_02_no_corn_left_behind",
+      "parent_id": "poten_tankers_no_date_poten_2007_02_02_no_corn_left_behind__root",
+      "title": "Farmland Use: What About The Chicken?",
+      "section_path": [
+        "Farmland Use: What About The Chicken?"
+      ],
+      "section_path_text": "Farmland Use: What About The Chicken?",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "To jump from 2012's ethanol mandate to 2017's goal implies an impressive production growth rate of over 35 percent per year. The anticipated strains on land use and tax money to provide subsidies to distillers are also impressive.",
+      "keywords": [
+        "grain",
+        "per",
+        "corn",
+        "ethanol",
+        "goal",
+        "jump",
+        "production",
+        "acres"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 238,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_02_02_no_corn_left_behind__s04_the_gasoline_composition",
+      "doc_id": "poten_tankers_no_date_poten_2007_02_02_no_corn_left_behind",
+      "parent_id": "poten_tankers_no_date_poten_2007_02_02_no_corn_left_behind__root",
+      "title": "The Gasoline Composition",
+      "section_path": [
+        "The Gasoline Composition"
+      ],
+      "section_path_text": "The Gasoline Composition",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "From 2000 to 2005, US gasoline consumption grew at a rate of nearly 1.6 percent per year. That compounded rate, however, masks the growth spurt of 2.7 percent between 2001 and 2002 and the lethargy of 0.6 percent between 2004 and 2005.",
+      "keywords": [
+        "products",
+        "gas",
+        "percent",
+        "gasoline",
+        "ethanol",
+        "consumption",
+        "per",
+        "pool"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 220,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_02_02_no_corn_left_behind__s05_us_gasoline_supply",
+      "doc_id": "poten_tankers_no_date_poten_2007_02_02_no_corn_left_behind",
+      "parent_id": "poten_tankers_no_date_poten_2007_02_02_no_corn_left_behind__root",
+      "title": "US Gasoline Supply",
+      "section_path": [
+        "US Gasoline Supply"
+      ],
+      "section_path_text": "US Gasoline Supply",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Expected Hydrocarbon Content The implementation of President Bush's ethanol vision could quickly reduce the hydrocarbon component of gasoline to below their present volumes. Hence, refiners now contemplating additional hydrocarbon-based gasoline production might pause to reflect on the implications of this vision on investment returns.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "gasoline",
+        "continue",
+        "crude",
+        "diesel",
+        "ethanol"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 238,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_08_31_calm_before_the_storm__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_08_31_calm_before_the_storm",
+  "parent_id": null,
+  "title": "Calm Before the Storm?",
+  "section_path": [
+    "Calm Before the Storm?"
+  ],
+  "section_path_text": "Calm Before the Storm?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "As this week marks the second anniversary of Hurricane Katrina, residents of the Gulf Coast can't help but remember how destructive Mother Nature can be at times. While there have been a fewer than average number of hurricanes this season so far, the recent destruction that Hurricane Dean wreaked also served as a reminder that the energy markets face numerous potential hazards when trying to meet customer demands. Refining operations in the US Gulf have faced other obstacles as well that have left some capacity offline and subjected the industry to heightened risk in the face of any storms.",
+  "keywords": [
+    "brazil",
+    "us_gulf",
+    "products",
+    "gas",
+    "levels",
+    "gasoline",
+    "hurricane",
+    "stock",
+    "far",
+    "likely",
+    "meet",
+    "potential"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 592,
+  "source_path": "reports/poten/2007/poten_2007-08-31_calm-before-the-storm.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_08_31_calm_before_the_storm__s01_calm_before_the_storm",
+      "doc_id": "poten_tankers_no_date_poten_2007_08_31_calm_before_the_storm",
+      "parent_id": "poten_tankers_no_date_poten_2007_08_31_calm_before_the_storm__root",
+      "title": "Calm Before the Storm?",
+      "section_path": [
+        "Calm Before the Storm?"
+      ],
+      "section_path_text": "Calm Before the Storm?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As this week marks the second anniversary of Hurricane Katrina, residents of the Gulf Coast can't help but remember how destructive Mother Nature can be at times. While there have been a fewer than average number of hurricanes this season so far, the recent destruction that Hurricane Dean wreaked also served as a reminder that the energy markets face numerous potential hazards when trying to meet customer demands.",
+      "keywords": [
+        "us_gulf",
+        "products",
+        "gas",
+        "hurricane",
+        "can",
+        "face",
+        "gulf",
+        "levels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 166,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_08_31_calm_before_the_storm__s02_us_gasoline_stocks_000_barrels",
+      "doc_id": "poten_tankers_no_date_poten_2007_08_31_calm_before_the_storm",
+      "parent_id": "poten_tankers_no_date_poten_2007_08_31_calm_before_the_storm__root",
+      "title": "US Gasoline Stocks (000 Barrels)",
+      "section_path": [
+        "US Gasoline Stocks (000 Barrels)"
+      ],
+      "section_path_text": "US Gasoline Stocks (000 Barrels)",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "With all of September ahead, as well as increased gasoline consumption with the Labor Day weekend, it is likely levels will continue to dip even further. The weeks ahead may bring a challenge to the US consumers in terms of higher prices, as well as a potential boost for the clean tanker markets as stock levels require replenishment.",
+      "keywords": [
+        "products",
+        "gas",
+        "ahead",
+        "levels",
+        "well",
+        "all",
+        "boost",
+        "bring"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 64,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_08_31_calm_before_the_storm__s03_caribbean_rates_today",
+      "doc_id": "poten_tankers_no_date_poten_2007_08_31_calm_before_the_storm",
+      "parent_id": "poten_tankers_no_date_poten_2007_08_31_calm_before_the_storm__root",
+      "title": "Caribbean Rates Today",
+      "section_path": [
+        "Caribbean Rates Today"
+      ],
+      "section_path_text": "Caribbean Rates Today",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Over the past few weeks the market for product carriers in the Caribbean has continued a weakening trend that started in the beginning of the summer. Gasoline stock building during June may have been a factor that curbed the need for incremental imports of clean products for the balance of the summer.",
+      "keywords": [
+        "brazil",
+        "products",
+        "gas",
+        "per",
+        "summer.",
+        "after",
+        "are",
+        "balance"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 131,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_08_31_calm_before_the_storm__s04_headed_for_higher_rates",
+      "doc_id": "poten_tankers_no_date_poten_2007_08_31_calm_before_the_storm",
+      "parent_id": "poten_tankers_no_date_poten_2007_08_31_calm_before_the_storm__root",
+      "title": "Headed for higher rates?",
+      "section_path": [
+        "Headed for higher rates?"
+      ],
+      "section_path_text": "Headed for higher rates?",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "It is interesting that the correlation between the rates in 2005 and those seen so far in 2007 has been roughly positive 60%, compared to a correlation of negative 33% to 2006. From a purely statistical point of view the rate pattern so far experienced this year suggests that there could be some significant upside potential.",
+      "keywords": [
+        "correlation",
+        "far",
+        "between",
+        "compared",
+        "could",
+        "demand",
+        "expected",
+        "experienced"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 93,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_08_31_calm_before_the_storm__s05_weathering_the_storm",
+      "doc_id": "poten_tankers_no_date_poten_2007_08_31_calm_before_the_storm",
+      "parent_id": "poten_tankers_no_date_poten_2007_08_31_calm_before_the_storm__root",
+      "title": "Weathering the Storm",
+      "section_path": [
+        "Weathering the Storm"
+      ],
+      "section_path_text": "Weathering the Storm",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "While it is challenging to predict the day-to-day weather, let alone the severity of the hurricane seasons, it is even more challenging to predict rates. One thing is fairly certain: the US is in a potentially precarious situation with respect to gasoline.",
+      "keywords": [
+        "products",
+        "gas",
+        "challenging",
+        "meet",
+        "predict",
+        "would",
+        "alone",
+        "amplified"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 107,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

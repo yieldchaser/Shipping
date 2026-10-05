@@ -9,7 +9,7 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 9.03.2024",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nCapesize Spot Rates Move Higher as Seasonality Kicks In - As we previously discussed, mid-August proved to be the turnaround point for Capesize spot rates. Source: Breakwave Advisors\n\nLinked asset: 2024-09-03_breakwave-dry-bulk-shipping-report-9-03-2024_breakwavedryseptember32024report_b31c0dc652a7.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2024-09-03_breakwave-dry-bulk-shipping-report-9-03-2024_breakwavedryseptember32024report_b31c0dc652a7.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nSeptember 3, 2024\nBreakwave Dry Futures Index: 2,153 Baltic Dry Index (spot): 1,814 Short-term Indicators:\n↑ 30D: 12.9% ↑ 30D: 3.0% Momentum: Positive\n↑ YTD: 43.6% ↓ YTD: -13.4% Sentiment: Positive\n↑ YOY: 65.0% ↑ YOY: 65.8% Fundamentals: Neutral\nBi-Weekly Report\n• Capesize Spot Rates Move Higher as Seasonality Kicks In - As we previously discussed, mid-August proved to be the\nturnaround point for Capesize spot rates. Led by the Pacific market, spot rates for the large bulk carriers have steadily\nmoved higher, now approaching the 30,000-mark, as both majors and operators have begun to book vessels for late\nSeptember dates.",
+  "summary": "Main\nCapesize Spot Rates Move Higher as Seasonality Kicks In - As we previously discussed, mid-August proved to be the turnaround point for Capesize spot rates. Source: Breakwave Advisors\n\nLinked asset: 2024-09-03_breakwave-dry-bulk-shipping-report-9-03-2024_breakwavedryseptember32024report_b31c0dc652a7.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2024-09-03_breakwave-dry-bulk-shipping-report-9-03-2024_breakwavedryseptember32024report_b31c0dc652a7.pdf\n\n# BDRY\n\n## Dry Bulk Shipping\n\n**September 3, 2024**\n\n**Breakwave Dry Futures Index: 2,153 Baltic Dry Index (spot): 1,814 Short-term Indicators:**\n\n|↑|30D: 12.9%|↑ 30D: 3.0%|Momentum:|Positive|\n|---|---|---|---|---|\n|↑|YTD: 43.6%|↓ YTD: -13.4%|Sentiment:|Positive|\n|↑|YOY: 65.0%|↑ YOY: 65.8%|Fundamentals:|Neutral|\n\n#### <u>Bi-Weekly Report</u>\n\n- **Capesize Spot Rates Move Higher as Seasonality Kicks In -** As we previously discussed, **mid-August** proved to be the **turnaround** point for Capesize spot rates. Led by the Pacific market, spot rates for the large bulk carriers have steadily moved higher, now approaching the **30,000-mark**, as both majors and operators have begun to book vessels for late September dates.",
   "keywords": [
     "capesize",
     "panamax",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1574,
-  "source_path": "corpus/02-hellenic/shipbuilding/2024/2024-09-03_breakwave-dry-bulk-shipping-report-9-03-2024.html",
+  "token_count": 1677,
+  "source_path": "reports/hellenic/shipbuilding/2024/2024-09-03_breakwave-dry-bulk-shipping-report-9-03-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-9-03-2024",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2024-09-03_breakwave-dry-bulk-shipping-report-9-03-2024_breakwavedryseptember32024report_b31c0dc652a7.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2024-09-03_breakwave-dry-bulk-shipping-report-9-03-2024_breakwavedryseptember32024report_b31c0dc652a7.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nSeptember 3, 2024\nBreakwave Dry Futures Index: 2,153 Baltic Dry Index (spot): 1,814 Short-term Indicators:\n↑ 30D: 12.9% ↑ 30D: 3.0% Momentum: Positive\n↑ YTD: 43.6% ↓ YTD: -13.4% Sentiment: Positive\n↑ YOY: 65.0% ↑ YOY: 65.8% Fundamentals: Neutral\nBi-Weekly Report\n• Capesize Spot Rates Move Higher as Seasonality Kicks In - As we previously discussed, mid-August proved to be the\nturnaround point for Capesize spot rates. Led by the Pacific market, spot rates for the large bulk carriers have steadily\nmoved higher, now approaching the 30,000-mark, as both majors and operators have begun to book vessels for late\nSeptember dates.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2024-09-03_breakwave-dry-bulk-shipping-report-9-03-2024_breakwavedryseptember32024report_b31c0dc652a7.pdf\n\n# BDRY\n\n## Dry Bulk Shipping\n\n**September 3, 2024**\n\n**Breakwave Dry Futures Index: 2,153 Baltic Dry Index (spot): 1,814 Short-term Indicators:**\n\n|↑|30D: 12.9%|↑ 30D: 3.0%|Momentum:|Positive|\n|---|---|---|---|---|\n|↑|YTD: 43.6%|↓ YTD: -13.4%|Sentiment:|Positive|\n|↑|YOY: 65.0%|↑ YOY: 65.8%|Fundamentals:|Neutral|\n\n#### <u>Bi-Weekly Report</u>\n\n- **Capesize Spot Rates Move Higher as Seasonality Kicks In -** As we previously discussed, **mid-August** proved to be the **turnaround** point for Capesize spot rates. Led by the Pacific market, spot rates for the large bulk carriers have steadily moved higher, now approaching the **30,000-mark**, as both majors and operators have begun to book vessels for late September dates.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1485,
+      "token_count": 1588,
       "section_type": "linked_pdf",
       "children": []
     }

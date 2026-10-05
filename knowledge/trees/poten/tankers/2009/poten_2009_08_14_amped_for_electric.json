@@ -1,0 +1,195 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2009_08_14_amped_for_electric__root",
+  "doc_id": "poten_tankers_no_date_poten_2009_08_14_amped_for_electric",
+  "parent_id": null,
+  "title": "Amped for Electric",
+  "section_path": [
+    "Amped for Electric"
+  ],
+  "section_path_text": "Amped for Electric",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Amped for Electric\nAmped for Electric Pulling the plug on conventional autos? A smiley‐faced electrical socket stood in for the zero on a banner announcing General Motors' expectation of 230 miles per gallon rating for the Chevy Volt, its long‐awaited electric car introduced this week. This visible break from the company's gas‐guzzling past earned enough praise from the media to justify the smile on GM's face, but the enthusiasm with which some promote electric cars as a panacea for petroleum's side‐ effects has raised significant questions.",
+  "keywords": [
+    "coal",
+    "crude_oil",
+    "products",
+    "gas",
+    "electric",
+    "not",
+    "are",
+    "technology",
+    "volt",
+    "other",
+    "vehicle",
+    "although"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 754,
+  "source_path": "reports/poten/2009/poten_2009-08-14_amped-for-electric.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_08_14_amped_for_electric__s01_amped_for_electric",
+      "doc_id": "poten_tankers_no_date_poten_2009_08_14_amped_for_electric",
+      "parent_id": "poten_tankers_no_date_poten_2009_08_14_amped_for_electric__root",
+      "title": "Amped for Electric",
+      "section_path": [
+        "Amped for Electric"
+      ],
+      "section_path_text": "Amped for Electric",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Amped for Electric Pulling the plug on conventional autos? A smiley‐faced electrical socket stood in for the zero on a banner announcing General Motors' expectation of 230 miles per gallon rating for the Chevy Volt, its long‐awaited electric car introduced this week.",
+      "keywords": [
+        "products",
+        "gas",
+        "electric",
+        "driving",
+        "but",
+        "company",
+        "miles",
+        "trucks"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 259,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_08_14_amped_for_electric__s02_buses",
+      "doc_id": "poten_tankers_no_date_poten_2009_08_14_amped_for_electric",
+      "parent_id": "poten_tankers_no_date_poten_2009_08_14_amped_for_electric__root",
+      "title": "Buses",
+      "section_path": [
+        "Buses"
+      ],
+      "section_path_text": "Buses",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "GM has yet to release a highway mileage estimate for the Volt, a number which a GM spokesman was quoted as acknowledging would be \"fairly significantly lower\" than the headline‐grabbing 230 mpg announced this week. Although GM and the EPA came to an agreement in September about a testing method that would guarantee a mpg rating above 100, the EPA has not tested the Volt and did not endorse GM's expected rating.",
+      "keywords": [
+        "epa",
+        "mpg",
+        "not",
+        "volt",
+        "would",
+        "above",
+        "acknowledging",
+        "agreement"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 85,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_08_14_amped_for_electric__s03_green_eggs",
+      "doc_id": "poten_tankers_no_date_poten_2009_08_14_amped_for_electric",
+      "parent_id": "poten_tankers_no_date_poten_2009_08_14_amped_for_electric__root",
+      "title": "Green Eggs",
+      "section_path": [
+        "Green Eggs"
+      ],
+      "section_path_text": "Green Eggs",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The environmental advantages electric cars offer over internal combustion engines are far from clear when taking a holistic appraisal of a vehicle's carbon footprint. GM says that plugging into the electricity grid once a day is the key to high‐end performance and that charging can be done at home overnight when demand and rates are lower.",
+      "keywords": [
+        "coal",
+        "gas",
+        "are",
+        "not",
+        "technology",
+        "when",
+        "battery",
+        "clear"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 193,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_08_14_amped_for_electric__s04_and_ham",
+      "doc_id": "poten_tankers_no_date_poten_2009_08_14_amped_for_electric",
+      "parent_id": "poten_tankers_no_date_poten_2009_08_14_amped_for_electric__root",
+      "title": "And Ham",
+      "section_path": [
+        "And Ham"
+      ],
+      "section_path_text": "And Ham",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Although cleverly positioned as green‐tech, it is important to remember that electric cars are not powered by renewables. Coal is the main source of power generation in the US, as shown in the chart below.",
+      "keywords": [
+        "coal",
+        "although",
+        "are",
+        "below.",
+        "cars",
+        "chart",
+        "cleverly",
+        "electric"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 42,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_08_14_amped_for_electric__s05_other",
+      "doc_id": "poten_tankers_no_date_poten_2009_08_14_amped_for_electric",
+      "parent_id": "poten_tankers_no_date_poten_2009_08_14_amped_for_electric__root",
+      "title": "Other",
+      "section_path": [
+        "Other"
+      ],
+      "section_path_text": "Other",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "",
+      "keywords": [
+        "renewables"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_08_14_amped_for_electric__s06_natural_gas",
+      "doc_id": "poten_tankers_no_date_poten_2009_08_14_amped_for_electric",
+      "parent_id": "poten_tankers_no_date_poten_2009_08_14_amped_for_electric__root",
+      "title": "Natural Gas",
+      "section_path": [
+        "Natural Gas"
+      ],
+      "section_path_text": "Natural Gas",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "1% Coke 0.4% The desire to reduce dependence on oil has contributed to the excitement surrounding electric vehicles, but caution should be taken in the rush to embrace electric vehicles that replace dependence on one commodity with dependence on another. Aside from the coal factor, the batteries such as those inside the Volt require vanadium, zinc, bromine, nickel, cobalt, manganese and lithium, among other metals.",
+      "keywords": [
+        "coal",
+        "crude_oil",
+        "dependence",
+        "electric",
+        "present",
+        "vehicles",
+        "actually",
+        "adoption"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 151,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

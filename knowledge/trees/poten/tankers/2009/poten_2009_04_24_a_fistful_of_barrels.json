@@ -1,0 +1,211 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2009_04_24_a_fistful_of_barrels__root",
+  "doc_id": "poten_tankers_no_date_poten_2009_04_24_a_fistful_of_barrels",
+  "parent_id": null,
+  "title": "A Fistful of Barrels",
+  "section_path": [
+    "A Fistful of Barrels"
+  ],
+  "section_path_text": "A Fistful of Barrels",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "A Fistful of Barrels\nEstimating the holdings of unseen petroleum reservoirs - especially those located deep beneath the seabed - is a daunting and imprecise task. Although estimates of established fields usually benefit from seismic and other geological information accumulated over time, estimates of reserves in new discoveries usually lack this luxury. Media rumblings of significant new crude oil finds are typically reported as best estimates based on preliminary data.",
+  "keywords": [
+    "china",
+    "crude_oil",
+    "gas",
+    "oil",
+    "cuba",
+    "cuban",
+    "offshore",
+    "reserves",
+    "crude",
+    "estimates",
+    "fields",
+    "production"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 762,
+  "source_path": "reports/poten/2009/poten_2009-04-24_a-fistful-of-barrels.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_04_24_a_fistful_of_barrels__s01_a_fistful_of_barrels",
+      "doc_id": "poten_tankers_no_date_poten_2009_04_24_a_fistful_of_barrels",
+      "parent_id": "poten_tankers_no_date_poten_2009_04_24_a_fistful_of_barrels__root",
+      "title": "A Fistful of Barrels",
+      "section_path": [
+        "A Fistful of Barrels"
+      ],
+      "section_path_text": "A Fistful of Barrels",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Estimating the holdings of unseen petroleum reservoirs - especially those located deep beneath the seabed - is a daunting and imprecise task. Although estimates of established fields usually benefit from seismic and other geological information accumulated over time, estimates of reserves in new discoveries usually lack this luxury.",
+      "keywords": [
+        "crude_oil",
+        "estimates",
+        "fields",
+        "oil",
+        "are",
+        "based",
+        "guesses",
+        "new"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 160,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_04_24_a_fistful_of_barrels__s02_north_cuban_basin",
+      "doc_id": "poten_tankers_no_date_poten_2009_04_24_a_fistful_of_barrels",
+      "parent_id": "poten_tankers_no_date_poten_2009_04_24_a_fistful_of_barrels__root",
+      "title": "North Cuban Basin",
+      "section_path": [
+        "North Cuban Basin"
+      ],
+      "section_path_text": "North Cuban Basin",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Cuba's present assessment of their offshore finds pegs the recoverable oil potential at up to 20 billion barrels. This estimate, though, is about quadruple the U.S.",
+      "keywords": [
+        "crude_oil",
+        "offshore",
+        "cuba",
+        "estimate",
+        "oil",
+        "additional",
+        "allocation",
+        "assessment"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 95,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_04_24_a_fistful_of_barrels__s03_assigned_blocks",
+      "doc_id": "poten_tankers_no_date_poten_2009_04_24_a_fistful_of_barrels",
+      "parent_id": "poten_tankers_no_date_poten_2009_04_24_a_fistful_of_barrels__root",
+      "title": "Assigned Blocks",
+      "section_path": [
+        "Assigned Blocks"
+      ],
+      "section_path_text": "Assigned Blocks",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "negotiation",
+        "unassigned/in"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_04_24_a_fistful_of_barrels__s04_china_national_petroleum",
+      "doc_id": "poten_tankers_no_date_poten_2009_04_24_a_fistful_of_barrels",
+      "parent_id": "poten_tankers_no_date_poten_2009_04_24_a_fistful_of_barrels__root",
+      "title": "China National Petroleum",
+      "section_path": [
+        "China National Petroleum"
+      ],
+      "section_path_text": "China National Petroleum",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "corp/sonangol"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_04_24_a_fistful_of_barrels__s05_repsol_ypf_statoil_ongc",
+      "doc_id": "poten_tankers_no_date_poten_2009_04_24_a_fistful_of_barrels",
+      "parent_id": "poten_tankers_no_date_poten_2009_04_24_a_fistful_of_barrels__root",
+      "title": "Repsol YPF/Statoil/ONGC",
+      "section_path": [
+        "Repsol YPF/Statoil/ONGC"
+      ],
+      "section_path_text": "Repsol YPF/Statoil/ONGC",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "",
+      "keywords": [
+        "videsh",
+        "ongc"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_04_24_a_fistful_of_barrels__s06_vietnam_oil_gas",
+      "doc_id": "poten_tankers_no_date_poten_2009_04_24_a_fistful_of_barrels",
+      "parent_id": "poten_tankers_no_date_poten_2009_04_24_a_fistful_of_barrels__root",
+      "title": "Vietnam Oil&Gas",
+      "section_path": [
+        "Vietnam Oil&Gas"
+      ],
+      "section_path_text": "Vietnam Oil&Gas",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Cuba's entry into the ranks of net oil exporters naturally depends on many diverse factors. But when - or if - this country does become one, its splash could create ripples in tanker use that could well cascade through vessel sectors and markets.",
+      "keywords": [
+        "crude_oil",
+        "could",
+        "become",
+        "but",
+        "cascade",
+        "country",
+        "create",
+        "cuba"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 49,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_04_24_a_fistful_of_barrels__s07_sailing_through_seas_mined_with_what_ifs",
+      "doc_id": "poten_tankers_no_date_poten_2009_04_24_a_fistful_of_barrels",
+      "parent_id": "poten_tankers_no_date_poten_2009_04_24_a_fistful_of_barrels__root",
+      "title": "Sailing through Seas mined with \"What Ifs\"",
+      "section_path": [
+        "Sailing through Seas mined with \"What Ifs\""
+      ],
+      "section_path_text": "Sailing through Seas mined with \"What Ifs\"",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Cuba's estimate of offshore oil reserves amounts to nearly the quantity of the United States proven crude oil reserves in 2007. If the US produced some 4.6 million barrels per day of crude oil from its reserves of 21.3 billion barrels, how much oil would Cuba likely produce per day?",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "cuba",
+        "production",
+        "reserves",
+        "crude",
+        "cuban",
+        "might"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 386,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

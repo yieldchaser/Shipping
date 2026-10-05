@@ -5,6 +5,7 @@ commodities:
 date: '2025-01-23'
 doc_id: hellenic_demolition_2025-01-23_2025_01_23_black_carbon_scrubbers_the_arctic_clean_arctic_alliance_briefing_for_imo_ppr_12
 document_type: demolition_update
+is_error_page: false
 key_entities: []
 keywords:
 - gas
@@ -36,7 +37,7 @@ numeric_observations:
   unit: null
   values:
   - 12.0
-  - 7.0
+  - 27.0
   - -31.0
   - 2025.0
 regions:

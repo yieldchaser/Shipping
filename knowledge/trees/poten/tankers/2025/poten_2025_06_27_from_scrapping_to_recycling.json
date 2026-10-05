@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2025_06_27_from_scrapping_to_recycling__root",
+  "doc_id": "poten_tankers_no_date_poten_2025_06_27_from_scrapping_to_recycling",
+  "parent_id": null,
+  "title": "From Scrapping To Recycling",
+  "section_path": [
+    "From Scrapping To Recycling"
+  ],
+  "section_path_text": "From Scrapping To Recycling",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Ship recycling enters a new era\nYesterday, on 26 June 2025, the Hong Kong International Convention for the Safe and Environmentally Sound Recycling of Ships (HKC) officially went into effect. The aim of this piece of regulation from the International Maritime Organization (IMO) is to improve the safety and environmental performance of ship recycling yards worldwide. The HKC has been a long time coming.",
+  "keywords": [
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "steel",
+    "are",
+    "recycling",
+    "convention",
+    "hkc",
+    "ship",
+    "fleet",
+    "international"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 876,
+  "source_path": "reports/poten/2025/poten_2025-06-27_from-scrapping-to-recycling.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2025_06_27_from_scrapping_to_recycling__s01_ship_recycling_enters_a_new_era",
+      "doc_id": "poten_tankers_no_date_poten_2025_06_27_from_scrapping_to_recycling",
+      "parent_id": "poten_tankers_no_date_poten_2025_06_27_from_scrapping_to_recycling__root",
+      "title": "Ship recycling enters a new era",
+      "section_path": [
+        "Ship recycling enters a new era"
+      ],
+      "section_path_text": "Ship recycling enters a new era",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Yesterday, on 26 June 2025, the Hong Kong International Convention for the Safe and Environmentally Sound Recycling of Ships (HKC) officially went into effect. The aim of this piece of regulation from the International Maritime Organization (IMO) is to improve the safety and environmental performance of ship recycling yards worldwide.",
+      "keywords": [
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "steel",
+        "are",
+        "recycling",
+        "convention"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 869,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

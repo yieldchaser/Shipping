@@ -20,14 +20,14 @@
     "europe",
     "mil",
     "usd",
-    "buyers",
-    "dwt",
-    "sold"
+    "nok",
+    "noo",
+    "buyers"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1181,
-  "source_path": "corpus/02-hellenic/vessel_valuations/2025/2025-07-02_weekly-vessel-valuations-report-july-01-2025.html",
+  "token_count": 1968,
+  "source_path": "reports/hellenic/vessel_valuations/2025/2025-07-02_weekly-vessel-valuations-report-july-01-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-july-01-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-07-02_weekly-vessel-valuations-report-july-01-2025_img1_2620251_e4f89ef49249.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2025/assets/2025-07-02_weekly-vessel-valuations-report-july-01-2025_img1_2620251_e4f89ef49249.jpg\n\nLinked image asset: 2025-07-02_weekly-vessel-valuations-report-july-01-2025_img1_2620251_e4f89ef49249.jpg\n\nImage metadata: JPEG 678x314 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\nDs) VesselsValue --@-WH-\n01 July 2025 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra La MR Cape Pmax Supra Handy oes. Pmax Handy = Fmax\n70.1% 026 04K 06% 0.1% +03% 70.1% \"16% 0.",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2025/assets/2025-07-02_weekly-vessel-valuations-report-july-01-2025_img1_2620251_e4f89ef49249.jpg\n\nLinked image asset: 2025-07-02_weekly-vessel-valuations-report-july-01-2025_img1_2620251_e4f89ef49249.jpg\n\nImage metadata: JPEG 678x314 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\n[structured table]\n| Ds) | | | | | | | | | | | | |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 01 July 2025 | | | | VV | Mini Matrix | - | Weekly | Change | | | | |\n| | | Tankers | | | | | Bulkers | | | Containers | | |\n| Year | vice Suez | Afra | La | MR | Cape | Pmax | Supra | Handy | | Pmax | Handy | = Fmax |\n| | 026 | | | 0.1% | +03% | 70.1% | \"16% | | 20.2% | 40.4% | | 20.2% |\n| | 320k 160k | nsk | 75k | 50k | 180k | 82k | 62k | 38k | 7000 | 4250-1780 | | |\n| | 0.8% | 04% | 19% | | 104% | 70.16 | 3.9% | 02% | 204% | 205% | 09% | |\n| s | | | | | | | | | | | | |\n| | 320k 160k | | 75k | SOk | 180k | 82k | 60k | 38k | 7000 | 4250 | 1780 | noo |\n| | 0.7% | OS® | | 03% | | +0.1% | | Ls | | 20.5% | 0.0% | |\n| | 320k 160k | NOk | | SOk | 180k | 80k | 60k | 3Sk | 7000 | 4250 | 1790 | noo |\n| s | 70.1% | | | | 10.1% | | 20% | | 20.5% | 205% | 10.3% ",
       "keywords": [
         "capesize",
         "supramax",
@@ -78,11 +78,11 @@
         "nok",
         "noo",
         "sok",
-        "asset"
+        "handy"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 712,
+      "token_count": 1499,
       "section_type": "linked_image_asset",
       "children": []
     }

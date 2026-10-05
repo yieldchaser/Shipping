@@ -1,0 +1,197 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_05_06_the_missing_link__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_05_06_the_missing_link",
+  "parent_id": null,
+  "title": "The Missing Link",
+  "section_path": [
+    "The Missing Link"
+  ],
+  "section_path_text": "The Missing Link",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Missing Link\nAs highlighted in the last Weekly Tanker Opinion, Royal Flush , weakness in the crude oil freight markets continues to be pervasive. The notion of \"too many ships\" is often thrown about as an easy explanation for this phenomenon, but a look at worldwide crude oil consumption certainly helps to make its case. Overall, crude oil consumption worldwide is at record levels.",
+  "keywords": [
+    "china",
+    "brazil",
+    "meg",
+    "india",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "gas",
+    "crude",
+    "gasoline",
+    "oil",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 570,
+  "source_path": "reports/poten/2011/poten_2011-05-06_the-missing-link.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_05_06_the_missing_link__s01_the_missing_link",
+      "doc_id": "poten_tankers_no_date_poten_2011_05_06_the_missing_link",
+      "parent_id": "poten_tankers_no_date_poten_2011_05_06_the_missing_link__root",
+      "title": "The Missing Link",
+      "section_path": [
+        "The Missing Link"
+      ],
+      "section_path_text": "The Missing Link",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As highlighted in the last Weekly Tanker Opinion, Royal Flush , weakness in the crude oil freight markets continues to be pervasive. The notion of \"too many ships\" is often thrown about as an easy explanation for this phenomenon, but a look at worldwide crude oil consumption certainly helps to make its case.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "crude",
+        "oil",
+        "consumption",
+        "prices",
+        "barrels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 193,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_05_06_the_missing_link__s02_gasoline_consumption",
+      "doc_id": "poten_tankers_no_date_poten_2011_05_06_the_missing_link",
+      "parent_id": "poten_tankers_no_date_poten_2011_05_06_the_missing_link__root",
+      "title": "Gasoline Consumption",
+      "section_path": [
+        "Gasoline Consumption"
+      ],
+      "section_path_text": "Gasoline Consumption",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Gasoline Burden (US) The gasoline \"burden\" is the average price of gasoline for the year multiplied by the consumption as a percentage of GDP. Recent history suggests a reluctance of the consumer to cross the 2% threshold without a material effect on demand.",
+      "keywords": [
+        "products",
+        "gas",
+        "gasoline",
+        "burden",
+        "consumer",
+        "price",
+        "suggests",
+        "available"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 92,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_05_06_the_missing_link__s03_demand_blossoms_elsewhere",
+      "doc_id": "poten_tankers_no_date_poten_2011_05_06_the_missing_link",
+      "parent_id": "poten_tankers_no_date_poten_2011_05_06_the_missing_link__root",
+      "title": "Demand Blossoms Elsewhere",
+      "section_path": [
+        "Demand Blossoms Elsewhere"
+      ],
+      "section_path_text": "Demand Blossoms Elsewhere",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Outside of the US, the responsiveness of demand to changes in prices is not felt universally throughout the world. The chart below shows selected countries' consumption as compared to worldwide demand.",
+      "keywords": [
+        "china",
+        "brazil",
+        "india",
+        "demand",
+        "below",
+        "changes",
+        "chart",
+        "compared"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 57,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_05_06_the_missing_link__s04_world_mbd",
+      "doc_id": "poten_tankers_no_date_poten_2011_05_06_the_missing_link",
+      "parent_id": "poten_tankers_no_date_poten_2011_05_06_the_missing_link__root",
+      "title": "World (mbd)",
+      "section_path": [
+        "World (mbd)"
+      ],
+      "section_path_text": "World (mbd)",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "1Q09 2Q09 3Q09 4Q09 1Q10 2Q10 3Q10 4Q10 1Q11 2Q11 3Q11 4Q11",
+      "keywords": [
+        "q09",
+        "q10",
+        "q11"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 47,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_05_06_the_missing_link__s05_us",
+      "doc_id": "poten_tankers_no_date_poten_2011_05_06_the_missing_link",
+      "parent_id": "poten_tankers_no_date_poten_2011_05_06_the_missing_link__root",
+      "title": "US",
+      "section_path": [
+        "US"
+      ],
+      "section_path_text": "US",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "China India Russia Brazil Worldwide Demand Source: IEA Price controls and subsidies in many countries insulate the consumer from the real impact of price swings felt in the international market. While it can be contended that governments will continue to bear the brunt of the costs in favor of broader economic growth, sustainability of such practices remains in question long term.",
+      "keywords": [
+        "china",
+        "brazil",
+        "india",
+        "price",
+        "bear",
+        "broader",
+        "brunt",
+        "can"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 69,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_05_06_the_missing_link__s06_where_do_we_go_from_here",
+      "doc_id": "poten_tankers_no_date_poten_2011_05_06_the_missing_link",
+      "parent_id": "poten_tankers_no_date_poten_2011_05_06_the_missing_link__root",
+      "title": "Where Do We Go From Here?",
+      "section_path": [
+        "Where Do We Go From Here?"
+      ],
+      "section_path_text": "Where Do We Go From Here?",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "The US gasoline consumer is pivotal in determining the future of crude oil imports, and thus tanker trade. While noteworthy, demand in the East has yet to support tanker earnings as the distance from the Arabian Gulf to China is half that to the US Gulf.",
+      "keywords": [
+        "china",
+        "meg",
+        "us_gulf",
+        "crude_oil",
+        "products",
+        "gas",
+        "crude",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 83,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

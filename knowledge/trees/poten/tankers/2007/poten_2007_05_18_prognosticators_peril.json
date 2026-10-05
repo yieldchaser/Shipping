@@ -1,0 +1,174 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_05_18_prognosticators_peril__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_05_18_prognosticators_peril",
+  "parent_id": null,
+  "title": "Prognosticator's Peril",
+  "section_path": [
+    "Prognosticator's Peril"
+  ],
+  "section_path_text": "Prognosticator's Peril",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Prognosticator's Peril\nHaving been blessed with the consistent ability to turn a black, messy fluid into gold, refiners have enjoyed strong margins in recent times. Although the refined products market has exhibited remarkable price resilience, some refiners are rethinking their plans to expand their Midas touch. Congressional testimony given this week by the US Energy Information Administration (EIA) underscored the reluctance of US refiners to commit to tentative expansion plans announced last year.",
+  "keywords": [
+    "brazil",
+    "crude_oil",
+    "products",
+    "gas",
+    "are",
+    "refiners",
+    "refinery",
+    "considered",
+    "expansion",
+    "projects",
+    "refining",
+    "costs"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 660,
+  "source_path": "reports/poten/2007/poten_2007-05-18_prognosticators-peril.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_05_18_prognosticators_peril__s01_prognosticator_s_peril",
+      "doc_id": "poten_tankers_no_date_poten_2007_05_18_prognosticators_peril",
+      "parent_id": "poten_tankers_no_date_poten_2007_05_18_prognosticators_peril__root",
+      "title": "Prognosticator's Peril",
+      "section_path": [
+        "Prognosticator's Peril"
+      ],
+      "section_path_text": "Prognosticator's Peril",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Having been blessed with the consistent ability to turn a black, messy fluid into gold, refiners have enjoyed strong margins in recent times. Although the refined products market has exhibited remarkable price resilience, some refiners are rethinking their plans to expand their Midas touch.",
+      "keywords": [
+        "products",
+        "gas",
+        "refiners",
+        "expansion",
+        "given",
+        "plans",
+        "recent",
+        "ability"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 134,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_05_18_prognosticators_peril__s02_million_barrels_per_day",
+      "doc_id": "poten_tankers_no_date_poten_2007_05_18_prognosticators_peril",
+      "parent_id": "poten_tankers_no_date_poten_2007_05_18_prognosticators_peril__root",
+      "title": "Million Barrels Per Day",
+      "section_path": [
+        "Million Barrels Per Day"
+      ],
+      "section_path_text": "Million Barrels Per Day",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Refinery Utilization Before the hurricanes of 2005, the chart shows refinery utilizations around 90% and occasionally rates even hovering at 95%. Even with most of the hurricane damage now repaired, recent utilization rates have barely hit 90%.",
+      "keywords": [
+        "products",
+        "gas",
+        "before",
+        "even",
+        "hurricanes",
+        "refinery",
+        "utilization",
+        "able"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 71,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_05_18_prognosticators_peril__s03_thinking_long_term",
+      "doc_id": "poten_tankers_no_date_poten_2007_05_18_prognosticators_peril",
+      "parent_id": "poten_tankers_no_date_poten_2007_05_18_prognosticators_peril__root",
+      "title": "Thinking Long-Term",
+      "section_path": [
+        "Thinking Long-Term"
+      ],
+      "section_path_text": "Thinking Long-Term",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The confluence of many factors obstructs the view of future refinery profitability. Economic returns from expansion projects are conceptualized based on estimates of construction costs and expectations of refinery margins.",
+      "keywords": [
+        "are",
+        "projects",
+        "costs",
+        "construction",
+        "margins",
+        "refining",
+        "current",
+        "expansion"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 206,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_05_18_prognosticators_peril__s04_chart_us_refining_capacity_additions",
+      "doc_id": "poten_tankers_no_date_poten_2007_05_18_prognosticators_peril",
+      "parent_id": "poten_tankers_no_date_poten_2007_05_18_prognosticators_peril__root",
+      "title": "Chart: US Refining Capacity Additions",
+      "section_path": [
+        "Chart: US Refining Capacity Additions"
+      ],
+      "section_path_text": "Chart: US Refining Capacity Additions",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Year Status Company Location State kbpd 2009 In Progress Coffeyville Coffeyville KA 20 2010-11 In Progress Marathon Garyville LA 180 2010-11 In Progress Motiva Port Arthur TX 325 525 2010 Delayed Big West Oil Bakersfield CA 55 Considered Chevron Pascagoula MS 200 Considered Astra/Petrobras Pasadena TX 100 Considered Holly Artesia NM 17 Considered Valero St Charles LA 50 Considered Valero Port Arthur TX 125 547",
+      "keywords": [
+        "brazil",
+        "crude_oil",
+        "considered",
+        "progress",
+        "arthur",
+        "coffeyville",
+        "port",
+        "valero"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 115,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_05_18_prognosticators_peril__s05_total_potential_additions_1_072",
+      "doc_id": "poten_tankers_no_date_poten_2007_05_18_prognosticators_peril",
+      "parent_id": "poten_tankers_no_date_poten_2007_05_18_prognosticators_peril__root",
+      "title": "Total Potential Additions 1,072",
+      "section_path": [
+        "Total Potential Additions 1,072"
+      ],
+      "section_path_text": "Total Potential Additions 1,072",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "As ship owners and charterers well know, planning, evaluating and executing significant investments is a perilous task in any market. Commitment to a major refinery expansion in the current investment environment is hindered by a cacophony of commentary on high gasoline prices and the production of more alternative transportation fuels.",
+      "keywords": [
+        "products",
+        "gas",
+        "alternative",
+        "any",
+        "ball",
+        "cacophony",
+        "charterers",
+        "clarifying"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 95,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2006_03_17_mtbe_is_a_four_letter_word__root",
+  "doc_id": "poten_tankers_no_date_poten_2006_03_17_mtbe_is_a_four_letter_word",
+  "parent_id": null,
+  "title": "MTBE is a Four Letter Word",
+  "section_path": [
+    "MTBE is a Four Letter Word"
+  ],
+  "section_path_text": "MTBE is a Four Letter Word",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Background\nThe Clean Air Act of 1990 started the ball rolling with regard to reformulated and oxygenated gasolines and their impact on air quality. These requirements were area- and seasonal-specific. Reformulated and oxygenated gasolines were intended to reduce hydrocarbon emissions that contributed to smog.",
+  "keywords": [
+    "brazil",
+    "grain",
+    "crude_oil",
+    "products",
+    "gas",
+    "ethanol",
+    "gasoline",
+    "mtbe",
+    "reformulated",
+    "was",
+    "act",
+    "ethanol."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1006,
+  "source_path": "reports/poten/2006/poten_2006-03-17_mtbe-is-a-four-letter-word.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_03_17_mtbe_is_a_four_letter_word__s01_background",
+      "doc_id": "poten_tankers_no_date_poten_2006_03_17_mtbe_is_a_four_letter_word",
+      "parent_id": "poten_tankers_no_date_poten_2006_03_17_mtbe_is_a_four_letter_word__root",
+      "title": "Background",
+      "section_path": [
+        "Background"
+      ],
+      "section_path_text": "Background",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Clean Air Act of 1990 started the ball rolling with regard to reformulated and oxygenated gasolines and their impact on air quality. These requirements were area- and seasonal-specific.",
+      "keywords": [
+        "grain",
+        "crude_oil",
+        "products",
+        "gas",
+        "mtbe",
+        "gasoline",
+        "was",
+        "oxygenated"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 307,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_03_17_mtbe_is_a_four_letter_word__s02_new_player",
+      "doc_id": "poten_tankers_no_date_poten_2006_03_17_mtbe_is_a_four_letter_word",
+      "parent_id": "poten_tankers_no_date_poten_2006_03_17_mtbe_is_a_four_letter_word__root",
+      "title": "New Player",
+      "section_path": [
+        "New Player"
+      ],
+      "section_path_text": "New Player",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The Energy Policy Act of 2005 issued last August stepped into the fray over MTBE by: 2 Allowing California's reformulated gasoline to be made without ethanol. 2 Eliminating the requirement of oxygenates for reformulated gasoline for the rest of the nation within 270 days of the passage of the Act.",
+      "keywords": [
+        "brazil",
+        "crude_oil",
+        "products",
+        "gas",
+        "ethanol",
+        "gasoline",
+        "mtbe",
+        "act"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 367,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_03_17_mtbe_is_a_four_letter_word__s03_impact_on_imports",
+      "doc_id": "poten_tankers_no_date_poten_2006_03_17_mtbe_is_a_four_letter_word",
+      "parent_id": "poten_tankers_no_date_poten_2006_03_17_mtbe_is_a_four_letter_word__root",
+      "title": "Impact on Imports",
+      "section_path": [
+        "Impact on Imports"
+      ],
+      "section_path_text": "Impact on Imports",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "In 2005, gasoline imports into the U.S. Northeast (PADD #1) totaled 912,000 bpd split about one-third reformulated and two-thirds conventional gasolines.",
+      "keywords": [
+        "products",
+        "gas",
+        "gasoline",
+        "cents",
+        "gallon",
+        "padd",
+        "per",
+        "reformulated"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 101,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_03_17_mtbe_is_a_four_letter_word__s04_belgium",
+      "doc_id": "poten_tankers_no_date_poten_2006_03_17_mtbe_is_a_four_letter_word",
+      "parent_id": "poten_tankers_no_date_poten_2006_03_17_mtbe_is_a_four_letter_word__root",
+      "title": "Belgium",
+      "section_path": [
+        "Belgium"
+      ],
+      "section_path_text": "Belgium",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The principal sources of conventional motor gasoline are shown below.",
+      "keywords": [
+        "products",
+        "gas",
+        "are",
+        "below.",
+        "conventional",
+        "gasoline",
+        "motor",
+        "principal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 14,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_03_17_mtbe_is_a_four_letter_word__s05_padd_1",
+      "doc_id": "poten_tankers_no_date_poten_2006_03_17_mtbe_is_a_four_letter_word",
+      "parent_id": "poten_tankers_no_date_poten_2006_03_17_mtbe_is_a_four_letter_word__root",
+      "title": "PADD #1",
+      "section_path": [
+        "PADD #1"
+      ],
+      "section_path_text": "PADD #1",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "",
+      "keywords": [
+        "u.k."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_03_17_mtbe_is_a_four_letter_word__s06_germany",
+      "doc_id": "poten_tankers_no_date_poten_2006_03_17_mtbe_is_a_four_letter_word",
+      "parent_id": "poten_tankers_no_date_poten_2006_03_17_mtbe_is_a_four_letter_word__root",
+      "title": "Germany",
+      "section_path": [
+        "Germany"
+      ],
+      "section_path_text": "Germany",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Comparing the two charts shows a marked difference in the suppliers of reformulated and conventional gasoline. Thus suppliers will be differently impacted by the phase out of MTBE in favor of ethanol.",
+      "keywords": [
+        "products",
+        "gas",
+        "gasoline",
+        "mtbe",
+        "suppliers",
+        "ethanol",
+        "loss",
+        "out"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 136,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_03_17_mtbe_is_a_four_letter_word__s07_conclusion",
+      "doc_id": "poten_tankers_no_date_poten_2006_03_17_mtbe_is_a_four_letter_word",
+      "parent_id": "poten_tankers_no_date_poten_2006_03_17_mtbe_is_a_four_letter_word__root",
+      "title": "Conclusion",
+      "section_path": [
+        "Conclusion"
+      ],
+      "section_path_text": "Conclusion",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "It appears that import demand should rise for Reformulated gasoline Blendstock for Oxygenate Blending (RBOB). History has shown us that confused and tight situations open up opportunities for shipowners and traders.",
+      "keywords": [
+        "products",
+        "gas",
+        "confused",
+        "anywhere.",
+        "appears",
+        "blending",
+        "blendstock",
+        "can"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 56,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

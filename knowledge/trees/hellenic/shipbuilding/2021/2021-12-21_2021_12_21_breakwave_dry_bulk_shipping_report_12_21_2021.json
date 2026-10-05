@@ -9,7 +9,7 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 12.21.2021",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nA fascinating year comes to an end, but by no means the cycle is over - With less than two weeks till the New Year, the dry bulk\nSource: Breakwave Advisors\n\nLinked asset: 2021-12-21_breakwave-dry-bulk-shipping-report-12-21-2021_breakwavedecember212021report_0acd0c9f31cf.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2021-12-21_breakwave-dry-bulk-shipping-report-12-21-2021_breakwavedecember212021report_0acd0c9f31cf.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nDecember 21, 2021\nBreakwave Dry Futures Index: 1,940 Baltic Dry Index (spot): 2,371 Short-term Indicators:\n↓ 30D: -13.1% ↓ 30D: -7.1% Momentum: Neutral\n↑ YTD: 95.8% ↑ YTD: 73.6% Sentiment: Neutral\n↑ YOY: 97.1% ↑ YOY: 78.9% Fundamentals: Neutral\nBi-Weekly Report\n• A fascinating year comes to an end, but by no means the cycle is over - With less than two weeks till the New Year,\nthe dry bulk market feels exhausted. As one of the most volatile years in recent memory comes to an end, traders'\nfocus shifts to the first few weeks of January when historically a pickup in activity has been the norm. The\nbackwardation in the Capesize futures curve has now eased significantly, with expectations for a slightly slower\nmarket during the ",
+  "summary": "Main\nA fascinating year comes to an end, but by no means the cycle is over - With less than two weeks till the New Year, the dry bulk\nSource: Breakwave Advisors\n\nLinked asset: 2021-12-21_breakwave-dry-bulk-shipping-report-12-21-2021_breakwavedecember212021report_0acd0c9f31cf.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2021-12-21_breakwave-dry-bulk-shipping-report-12-21-2021_breakwavedecember212021report_0acd0c9f31cf.pdf\n\n|||BDRY||||||\n|---|---|---|---|---|---|---|---|\n||↓ ↑ ↑|Dry Bulk Shipping Breakwave Dry Futures Index: 30D: -13.1% YTD: 95.8% YOY: 97.1%|1,940 ↓ ↑ ↑|Baltic Dry Index (spot): 30D: -7.1% YTD: 73.6% YOY: 78.9%|2,371|Momentum: Sentiment: Fundamentals:|December 21, 2021 Short-term Indicators: Neutral Neutral Neutral|\n|• • •||Bi-Weekly Report Dry bulk upcycle to continue in 2022 -|A fascinating year comes to an end, but by no means the cycle is over - commodity prices, and seasonality, rather than any change on the trajectory of the cycle. Iron ore up 50%+ from the lows despite considerable economic headwinds - and thus lower prices, but the track record of such forecasts has been at best questionable. Supramax and a weighted average maturity of approximately ",
   "keywords": [
     "capesize",
     "panamax",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1502,
-  "source_path": "corpus/02-hellenic/shipbuilding/2021/2021-12-21_breakwave-dry-bulk-shipping-report-12-21-2021.html",
+  "token_count": 1525,
+  "source_path": "reports/hellenic/shipbuilding/2021/2021-12-21_breakwave-dry-bulk-shipping-report-12-21-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-12-21-2021",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2021-12-21_breakwave-dry-bulk-shipping-report-12-21-2021_breakwavedecember212021report_0acd0c9f31cf.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-12-21_breakwave-dry-bulk-shipping-report-12-21-2021_breakwavedecember212021report_0acd0c9f31cf.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nDecember 21, 2021\nBreakwave Dry Futures Index: 1,940 Baltic Dry Index (spot): 2,371 Short-term Indicators:\n↓ 30D: -13.1% ↓ 30D: -7.1% Momentum: Neutral\n↑ YTD: 95.8% ↑ YTD: 73.6% Sentiment: Neutral\n↑ YOY: 97.1% ↑ YOY: 78.9% Fundamentals: Neutral\nBi-Weekly Report\n• A fascinating year comes to an end, but by no means the cycle is over - With less than two weeks till the New Year,\nthe dry bulk market feels exhausted. As one of the most volatile years in recent memory comes to an end, traders'\nfocus shifts to the first few weeks of January when historically a pickup in activity has been the norm.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-12-21_breakwave-dry-bulk-shipping-report-12-21-2021_breakwavedecember212021report_0acd0c9f31cf.pdf\n\n|||BDRY||||||\n|---|---|---|---|---|---|---|---|\n||↓ ↑ ↑|Dry Bulk Shipping Breakwave Dry Futures Index: 30D: -13.1% YTD: 95.8% YOY: 97.1%|1,940 ↓ ↑ ↑|Baltic Dry Index (spot): 30D: -7.1% YTD: 73.6% YOY: 78.9%|2,371|Momentum: Sentiment: Fundamentals:|December 21, 2021 Short-term Indicators: Neutral Neutral Neutral|\n|• • •||Bi-Weekly Report Dry bulk upcycle to continue in 2022 -|A fascinating year comes to an end, but by no means the cycle is over - commodity prices, and seasonality, rather than any change on the trajectory of the cycle. Iron ore up 50%+ from the lows despite considerable economic headwinds - and thus lower prices, but the track record of such forecasts has been at best questionable.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1418,
+      "token_count": 1441,
       "section_type": "linked_pdf",
       "children": []
     }

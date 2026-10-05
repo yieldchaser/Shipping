@@ -18,6 +18,7 @@ keywords:
 - panamax
 - supramax
 - handysize
+- vlcc
 - aframax
 - container
 - china
@@ -25,16 +26,16 @@ keywords:
 - mil
 - sold
 - value
-- dwt
 linked_assets_discovered: 1
 linked_assets_failed: 0
 linked_assets_ingested: 1
 linked_assets_mirrored: 1
 linked_assets_skipped: 0
 market_tone: neutral
-numeric_observation_count: 25
+numeric_observation_count: 40
 numeric_observations:
-- section: Main
+- &id001
+  section: Main
   section_type: null
   source_line: Aframax Taurus Sun (115,600 DWT, May 2007, Sasebo) sold to Westport
     Tankers for USD 17.20 mil, VV value USD 17.02 mil - SS/DD Due.
@@ -42,9 +43,10 @@ numeric_observations:
   values:
   - 115600.0
   - 2007.0
-  - 17200.0
-  - 17020.0
-- section: Main
+  - 17.2
+  - 17.02
+- &id002
+  section: Main
   section_type: null
   source_line: MR2 Alpine Maya (51,500 DWT, Mar 2010, STX Offshore) sold to Betonix
     for USD 16.40 mil, VV value USD 16.43 mil - BWTS Fitted.
@@ -53,9 +55,10 @@ numeric_observations:
   - 2.0
   - 51500.0
   - 2010.0
-  - 16400.0
-  - 16430.0
-- section: Main
+  - 16.4
+  - 16.43
+- &id003
+  section: Main
   section_type: null
   source_line: Capesize Hemingway (207,700 DWT, Apr 2017, SWS) sold to Global Meridian
     Holdings for USD 52.00 mil, VV value USD 52.75 mil - SS/DD Due, BWTS Fitted.
@@ -63,9 +66,10 @@ numeric_observations:
   values:
   - 207700.0
   - 2017.0
-  - 52000.0
-  - 52750.0
-- section: Main
+  - 52.0
+  - 52.75
+- &id004
+  section: Main
   section_type: null
   source_line: Panamax Navios Prosperity (82,600 DWT, Jun 2007, Tadotsu Tsuneishi)
     sold to Greek buyers for USD 16.40 mil, VV value USD 17.79 mil.
@@ -73,9 +77,10 @@ numeric_observations:
   values:
   - 82600.0
   - 2007.0
-  - 16400.0
-  - 17790.0
-- section: Main
+  - 16.4
+  - 17.79
+- &id005
+  section: Main
   section_type: null
   source_line: Supramax Gravity (56,500 DWT, Jan 2014, Jiangsu Hangtong Ship HI) sold
     to Chinese buyers for USD 16.90 mil, VV value USD 17.80 mil - DD Due.
@@ -83,9 +88,10 @@ numeric_observations:
   values:
   - 56500.0
   - 2014.0
-  - 16900.0
-  - 17800.0
-- section: Main
+  - 16.9
+  - 17.8
+- &id006
+  section: Main
   section_type: null
   source_line: Supramax Bumblebee (55,600 DWT, Oct 2011, Mitsui Tamano) sold to Middle
     Eastern buyers for USD 20.50 mil, VV value USD 20.22 mil - SS/DD Passed, BWTS
@@ -94,9 +100,10 @@ numeric_observations:
   values:
   - 55600.0
   - 2011.0
-  - 20500.0
-  - 20220.0
-- section: Main
+  - 20.5
+  - 20.22
+- &id007
+  section: Main
   section_type: null
   source_line: Sub Panamax Vivaldi (2,504 TEU, Jan 2010, Jiangsu Yangzijiang) sold
     for USD 18.00 mil, VV value USD 48.98 mil. - low TC attached.
@@ -104,15 +111,17 @@ numeric_observations:
   values:
   - 2504.0
   - 2010.0
-  - 18000.0
-  - 48980.0
-- section: Main
+  - 18.0
+  - 48.98
+- &id008
+  section: Main
   section_type: null
   source_line: 'Linked asset: Καταγραφή-4.jpg'
   unit: null
   values:
   - -4.0
-- section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
+- &id009
+  section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
   unit: null
@@ -126,34 +135,206 @@ numeric_observations:
   - 8.0
   - 794.0
   - 8805.0
-- section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
+- &id010
+  section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 795x316 mode=RGB'
   unit: null
   values:
   - 795.0
   - 316.0
-- section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
+- &id011
+  section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'
   unit: null
   values:
   - 120.0
   - 120.0
-- section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
+- &id012
+  section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
+  section_type: linked_image_asset
+  source_line: '| 15 February | 2022 | | VV | Mini Matrix - Weekly | Change | | |
+    |'
+  unit: null
+  values:
+  - 15.0
+  - 2022.0
+- &id013
+  section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 1.0% | -1.3% | -0.8% -0.3% | -0.8% | 11.5% | 10.5% 14.4% | 42.8%
+    | 42.1% |'
+  unit: pct
+  values:
+  - 1.0
+  - -1.3
+  - -0.8
+  - -0.3
+  - -0.8
+  - 11.5
+  - 10.5
+  - 14.4
+  - 42.8
+  - 42.1
+- &id014
+  section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 520K | 160K | 10K 75K | | 57K | | | |'
+  unit: null
+  values:
+  - 520.0
+  - 160.0
+  - 10.0
+  - 75.0
+  - 57.0
+- &id015
+  section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
+  section_type: linked_image_asset
+  source_line: '| | | 0.0% | | 0.0% | 40.2% 41.4% | 410.8% 44.6% | 42.8% | 42.1% |'
+  unit: pct
+  values:
+  - 40.2
+  - 41.4
+  - 410.8
+  - 44.6
+  - 42.8
+  - 42.1
+- &id016
+  section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 320K | 160K | | | | 700042501750 | | 1100 |'
+  unit: null
+  values:
+  - 320.0
+  - 160.0
+  - 700042501750.0
+  - 1100.0
+- &id017
+  section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 0.7% | 41.6% | 0.9% 0.0% | -2.8% | | 45.5% | 42.8% | 42.1% |'
+  unit: pct
+  values:
+  - 0.7
+  - 41.6
+  - 0.9
+  - -2.8
+  - 45.5
+  - 42.8
+  - 42.1
+- &id018
+  section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
+  section_type: linked_image_asset
+  source_line: '| 10 | | | | | | | | |'
+  unit: null
+  values:
+  - 10.0
+- &id019
+  section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 310K | 160K | 110K 75K | 8K | = | 7000» | | |'
+  unit: null
+  values:
+  - 310.0
+  - 160.0
+  - 110.0
+  - 75.0
+  - 8.0
+  - 7000.0
+- &id020
+  section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
+  section_type: linked_image_asset
+  source_line: '| | "1.1% | 42.5% | 0.0% +1.5% | | +1.4% | 47.4% | 42.8% | 42.296
+    |'
+  unit: pct
+  values:
+  - 1.1
+  - 42.5
+  - 1.5
+  - 1.4
+  - 47.4
+  - 42.8
+  - 42296.0
+- &id021
+  section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
+  section_type: linked_image_asset
+  source_line: '| | MOK | | | 180K | | | | 1100 |'
+  unit: null
+  values:
+  - 180.0
+  - 1100.0
+- &id022
+  section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 41.6% | 41.5% | 41.5% 41.5% | | 11.4% | 410.8% | 42.7% | 42.1%
+    |'
+  unit: pct
+  values:
+  - 41.6
+  - 41.5
+  - 41.5
+  - 41.5
+  - 11.4
+  - 410.8
+  - 42.7
+  - 42.1
+- &id023
+  section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
+  section_type: linked_image_asset
+  source_line: '| 5 | | | | | | | | |'
+  unit: null
+  values:
+  - 5.0
+- &id024
+  section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 305K | | 105K | | | 4000 | | «1100 |'
+  unit: null
+  values:
+  - 305.0
+  - 105.0
+  - 4000.0
+  - 1100.0
+- &id025
+  section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 415% | N/A | 41.6% | 41.5% | 15% | 414.7% 416.4% | 42.7% | 42.2%
+    |'
+  unit: pct
+  values:
+  - 415.0
+  - 41.6
+  - 41.5
+  - 15.0
+  - 414.7
+  - 416.4
+  - 42.7
+  - 42.2
+- &id026
+  section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
+  section_type: linked_image_asset
+  source_line: '| | ‘300K | «=A | | | | | | |'
+  unit: null
+  values:
+  - 300.0
+- &id027
+  section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
   section_type: linked_image_asset
   source_line: 15 February 2022 VV Mini Matrix - Weekly Change
   unit: null
   values:
   - 15.0
   - 2022.0
-- section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
+- &id028
+  section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
   section_type: linked_image_asset
   source_line: Age vicc Suez Afra LR1_ MR Cape Pmax Supra Mandy OS Pmax Mandy Fmax
   unit: null
   values:
   - 1.0
-- section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
+- &id029
+  section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
   section_type: linked_image_asset
   source_line: ; 1.0% 1.3% 0.0% 0.9% -0.3% -+0.1% 0.8% 40.1% 11.5% 10.5% 44.4% 42.0%
     42.1%
@@ -165,11 +346,12 @@ numeric_observations:
   - -0.3
   - 0.1
   - 0.8
-  - 40100.0
-  - 11500.0
-  - 10500.0
-  - 44400.0
-- section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
+  - 40.1
+  - 11.5
+  - 10.5
+  - 44.4
+- &id030
+  section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
   section_type: linked_image_asset
   source_line: 520K 160K 110K 75K ~-«SOK «180K 82K «GOK 57K 7000 «42501750 ©1100
   unit: null
@@ -184,7 +366,8 @@ numeric_observations:
   - 7000.0
   - 42501750.0
   - 1100.0
-- section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
+- &id031
+  section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
   section_type: linked_image_asset
   source_line: é 0.9% 0.0% -0.7% 0.9% -1.4% 0.0% -1.2% +0.2% +1.4% 40.9% 14.6% 42.8%
     42.1%
@@ -197,10 +380,11 @@ numeric_observations:
   - -1.2
   - 0.2
   - 1.4
-  - 40900.0
-  - 14600.0
-  - 42800.0
-- section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
+  - 40.9
+  - 14.6
+  - 42.8
+- &id032
+  section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
   section_type: linked_image_asset
   source_line: 320K 160K 110K 75K = «SOK 180K = BOK = «GOK 30K 700042501750 1100
   unit: null
@@ -213,7 +397,8 @@ numeric_observations:
   - 30.0
   - 700042501750.0
   - 1100.0
-- section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
+- &id033
+  section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
   section_type: linked_image_asset
   source_line: 10 0.7% 41.6% -0.9% -0.9% 0.0% 0.2% -2.8% 0.0% +1.4% 42.0% 45.5% 42.8%
     42.1%
@@ -221,15 +406,16 @@ numeric_observations:
   values:
   - 10.0
   - 0.7
-  - 41600.0
+  - 41.6
   - -0.9
   - -0.9
   - 0.2
   - -2.8
   - 1.4
-  - 42000.0
-  - 45500.0
-- section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
+  - 42.0
+  - 45.5
+- &id034
+  section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
   section_type: linked_image_asset
   source_line: 310K 160K 110K 75K =-«SOK = «180K BOK © GOK «30K = 7000 «42501750 1100
   unit: null
@@ -243,7 +429,8 @@ numeric_observations:
   - 7000.0
   - 42501750.0
   - 1100.0
-- section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
+- &id035
+  section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
   section_type: linked_image_asset
   source_line: 6 "1.1% 42.5% 0.0% 0.9% +1.5% 0.5% -D.1% 0.7% +1.4% -+4.4% 47.4% 42.8%
     42.29%
@@ -251,7 +438,7 @@ numeric_observations:
   values:
   - 6.0
   - 1.1
-  - 42500.0
+  - 42.5
   - 0.9
   - 1.5
   - 0.5
@@ -259,7 +446,8 @@ numeric_observations:
   - 0.7
   - 1.4
   - 4.4
-- section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
+- &id036
+  section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
   section_type: linked_image_asset
   source_line: MOK 160K 10K 75K SOK 180K 75K = SSK «30K = 70004250 «17501100
   unit: null
@@ -272,7 +460,8 @@ numeric_observations:
   - 30.0
   - 70004250.0
   - 17501100.0
-- section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
+- &id037
+  section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
   section_type: linked_image_asset
   source_line: 5 H1.6% 41.5% 41.5% 41.5% +1.6% $1.69 7.8% "1.5% 41.4% 18.4% 410.8%
     42.7% 42.1%
@@ -280,15 +469,16 @@ numeric_observations:
   values:
   - 5.0
   - 1.6
-  - 41500.0
-  - 41500.0
-  - 41500.0
+  - 41.5
+  - 41.5
+  - 41.5
   - 1.6
   - 1.69
-  - 7800.0
+  - 7.8
   - 1.5
-  - 41400.0
-- section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
+  - 41.4
+- &id038
+  section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
   section_type: linked_image_asset
   source_line: BOSK 155K 105K 70K 45K 173K 75K «SOK «30K «6500 ©4000 «1750 «1100
   unit: null
@@ -303,23 +493,25 @@ numeric_observations:
   - 6500.0
   - 4000.0
   - 1750.0
-- section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
+- &id039
+  section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
   section_type: linked_image_asset
   source_line: ‘is H1S% N/A 41.5% 41.6% +1.4% 41.6% 41.5% 2.3% 41.5% 114.7% 416.4%
     42.7% 42.2%
   unit: pct
   values:
   - 1.0
-  - 41500.0
-  - 41600.0
+  - 41.5
+  - 41.6
   - 1.4
-  - 41600.0
-  - 41500.0
+  - 41.6
+  - 41.5
   - 2.3
-  - 41500.0
+  - 41.5
   - 114.7
   - 416.4
-- section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
+- &id040
+  section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
   section_type: linked_image_asset
   source_line: ‘300K =A «105K-ié‘«SKCOCiCSK'SC:C«CLTOK":SC«*TSK=C*«C«RBKSSCCSOK:~=«S*C*«CSSO.:«S«4000-««1750~=-«1100
   unit: null
@@ -337,299 +529,50 @@ regions:
 - meg
 section_count: 2
 signals:
-  numeric_observation_count: 24
+  numeric_observation_count: 40
   numeric_observations:
-  - section: Main
-    section_type: null
-    source_line: Aframax Taurus Sun (115,600 DWT, May 2007, Sasebo) sold to Westport
-      Tankers for USD 17.20 mil, VV value USD 17.02 mil - SS/DD Due.
-    unit: usd
-    values:
-    - 115600.0
-    - 2007.0
-    - 17.2
-    - 17.02
-  - section: Main
-    section_type: null
-    source_line: MR2 Alpine Maya (51,500 DWT, Mar 2010, STX Offshore) sold to Betonix
-      for USD 16.40 mil, VV value USD 16.43 mil - BWTS Fitted.
-    unit: usd
-    values:
-    - 51500.0
-    - 2010.0
-    - 16.4
-    - 16.43
-  - section: Main
-    section_type: null
-    source_line: Capesize Hemingway (207,700 DWT, Apr 2017, SWS) sold to Global Meridian
-      Holdings for USD 52.00 mil, VV value USD 52.75 mil - SS/DD Due, BWTS Fitted.
-    unit: usd
-    values:
-    - 207700.0
-    - 2017.0
-    - 52.0
-    - 52.75
-  - section: Main
-    section_type: null
-    source_line: Panamax Navios Prosperity (82,600 DWT, Jun 2007, Tadotsu Tsuneishi)
-      sold to Greek buyers for USD 16.40 mil, VV value USD 17.79 mil.
-    unit: usd
-    values:
-    - 82600.0
-    - 2007.0
-    - 16.4
-    - 17.79
-  - section: Main
-    section_type: null
-    source_line: Supramax Gravity (56,500 DWT, Jan 2014, Jiangsu Hangtong Ship HI)
-      sold to Chinese buyers for USD 16.90 mil, VV value USD 17.80 mil - DD Due.
-    unit: usd
-    values:
-    - 56500.0
-    - 2014.0
-    - 16.9
-    - 17.8
-  - section: Main
-    section_type: null
-    source_line: Supramax Bumblebee (55,600 DWT, Oct 2011, Mitsui Tamano) sold to
-      Middle Eastern buyers for USD 20.50 mil, VV value USD 20.22 mil - SS/DD Passed,
-      BWTS Fitted.
-    unit: usd
-    values:
-    - 55600.0
-    - 2011.0
-    - 20.5
-    - 20.22
-  - section: Main
-    section_type: null
-    source_line: Sub Panamax Vivaldi (2,504 TEU, Jan 2010, Jiangsu Yangzijiang) sold
-      for USD 18.00 mil, VV value USD 48.98 mil. - low TC attached.
-    unit: usd
-    values:
-    - 2504.0
-    - 2010.0
-    - 18.0
-    - 48.98
-  - section: Main
-    section_type: null
-    source_line: 'Linked asset: Καταγραφή-4.jpg'
-    unit: null
-    values:
-    - -4.0
-  - section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
-    section_type: linked_image_asset
-    source_line: 'Linked image asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
-    unit: null
-    values:
-    - 2022.0
-    - -2.0
-    - -15.0
-    - 15.0
-    - -2022.0
-    - -4.0
-    - 8.0
-    - 794.0
-    - 805.0
-  - section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
-    section_type: linked_image_asset
-    source_line: 'Image metadata: JPEG 795x316 mode=RGB'
-    unit: null
-    values:
-    - 795.0
-    - 16.0
-  - section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
-    section_type: linked_image_asset
-    source_line: 'dpi: (120, 120)'
-    unit: null
-    values:
-    - 120.0
-    - 120.0
-  - section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
-    section_type: linked_image_asset
-    source_line: 15 February 2022 VV Mini Matrix - Weekly Change
-    unit: null
-    values:
-    - 15.0
-    - 2022.0
-  - section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
-    section_type: linked_image_asset
-    source_line: ; 1.0% 1.3% 0.0% 0.9% -0.3% -+0.1% 0.8% 40.1% 11.5% 10.5% 44.4% 42.0%
-      42.1%
-    unit: pct
-    values:
-    - 1.0
-    - 1.3
-    - 0.9
-    - -0.3
-    - 0.1
-    - 0.8
-    - 40.1
-    - 11.5
-    - 10.5
-    - 44.4
-  - section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
-    section_type: linked_image_asset
-    source_line: 520K 160K 110K 75K ~-«SOK «180K 82K «GOK 57K 7000 «42501750 ©1100
-    unit: null
-    values:
-    - 520.0
-    - 160.0
-    - 110.0
-    - 75.0
-    - 180.0
-    - 82.0
-    - 57.0
-    - 7000.0
-    - 42501750.0
-    - 1100.0
-  - section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
-    section_type: linked_image_asset
-    source_line: é 0.9% 0.0% -0.7% 0.9% -1.4% 0.0% -1.2% +0.2% +1.4% 40.9% 14.6% 42.8%
-      42.1%
-    unit: pct
-    values:
-    - 0.9
-    - -0.7
-    - 0.9
-    - -1.4
-    - -1.2
-    - 0.2
-    - 1.4
-    - 40.9
-    - 14.6
-    - 42.8
-  - section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
-    section_type: linked_image_asset
-    source_line: 320K 160K 110K 75K = «SOK 180K = BOK = «GOK 30K 700042501750 1100
-    unit: null
-    values:
-    - 320.0
-    - 160.0
-    - 110.0
-    - 75.0
-    - 180.0
-    - 30.0
-    - 700042501750.0
-    - 1100.0
-  - section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
-    section_type: linked_image_asset
-    source_line: 10 0.7% 41.6% -0.9% -0.9% 0.0% 0.2% -2.8% 0.0% +1.4% 42.0% 45.5%
-      42.8% 42.1%
-    unit: pct
-    values:
-    - 10.0
-    - 0.7
-    - 41.6
-    - -0.9
-    - -0.9
-    - 0.2
-    - -2.8
-    - 1.4
-    - 42.0
-    - 45.5
-  - section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
-    section_type: linked_image_asset
-    source_line: 310K 160K 110K 75K =-«SOK = «180K BOK © GOK «30K = 7000 «42501750
-      1100
-    unit: null
-    values:
-    - 310.0
-    - 160.0
-    - 110.0
-    - 75.0
-    - 180.0
-    - 30.0
-    - 7000.0
-    - 42501750.0
-    - 1100.0
-  - section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
-    section_type: linked_image_asset
-    source_line: 6 "1.1% 42.5% 0.0% 0.9% +1.5% 0.5% -D.1% 0.7% +1.4% -+4.4% 47.4%
-      42.8% 42.29%
-    unit: pct
-    values:
-    - 6.0
-    - 1.1
-    - 42.5
-    - 0.9
-    - 1.5
-    - 0.5
-    - 1.0
-    - 0.7
-    - 1.4
-    - 4.4
-  - section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
-    section_type: linked_image_asset
-    source_line: MOK 160K 10K 75K SOK 180K 75K = SSK «30K = 70004250 «17501100
-    unit: null
-    values:
-    - 160.0
-    - 10.0
-    - 75.0
-    - 180.0
-    - 75.0
-    - 30.0
-    - 70004250.0
-    - 17501100.0
-  - section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
-    section_type: linked_image_asset
-    source_line: 5 H1.6% 41.5% 41.5% 41.5% +1.6% $1.69 7.8% "1.5% 41.4% 18.4% 410.8%
-      42.7% 42.1%
-    unit: pct
-    values:
-    - 5.0
-    - 6.0
-    - 41.5
-    - 41.5
-    - 41.5
-    - 1.6
-    - 1.69
-    - 7.8
-    - 1.5
-    - 41.4
-  - section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
-    section_type: linked_image_asset
-    source_line: BOSK 155K 105K 70K 45K 173K 75K «SOK «30K «6500 ©4000 «1750 «1100
-    unit: null
-    values:
-    - 155.0
-    - 105.0
-    - 70.0
-    - 45.0
-    - 173.0
-    - 75.0
-    - 30.0
-    - 6500.0
-    - 4000.0
-    - 1750.0
-  - section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
-    section_type: linked_image_asset
-    source_line: ‘is H1S% N/A 41.5% 41.6% +1.4% 41.6% 41.5% 2.3% 41.5% 114.7% 416.4%
-      42.7% 42.2%
-    unit: pct
-    values:
-    - 41.5
-    - 41.6
-    - 1.4
-    - 41.6
-    - 41.5
-    - 2.3
-    - 41.5
-    - 114.7
-    - 416.4
-    - 42.7
-  - section: 'Linked asset: 2022-02-15_weekly-vessel-valuations-report-february-15-2022_καταγραφή-4_8c0794a8805a.jpg'
-    section_type: linked_image_asset
-    source_line: ‘300K =A «105K-ié‘«SKCOCiCSK'SC:C«CLTOK":SC«*TSK=C*«C«RBKSSCCSOK:~=«S*C*«CSSO.:«S«4000-««1750~=-«1100
-    unit: null
-    values:
-    - 300.0
-    - 105.0
-    - 4000.0
-    - 1750.0
-    - 1100.0
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - *id010
+  - *id011
+  - *id012
+  - *id013
+  - *id014
+  - *id015
+  - *id016
+  - *id017
+  - *id018
+  - *id019
+  - *id020
+  - *id021
+  - *id022
+  - *id023
+  - *id024
+  - *id025
+  - *id026
+  - *id027
+  - *id028
+  - *id029
+  - *id030
+  - *id031
+  - *id032
+  - *id033
+  - *id034
+  - *id035
+  - *id036
+  - *id037
+  - *id038
+  - *id039
+  - *id040
 source: hellenic
-source_path: corpus/02-hellenic/vessel_valuations/2022/2022-02-15_weekly-vessel-valuations-report-february-15-2022.html
+source_path: reports/hellenic/vessel_valuations/2022/2022-02-15_weekly-vessel-valuations-report-february-15-2022.html
 source_stem: 2022-02-15_weekly-vessel-valuations-report-february-15-2022
 source_url: https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-february-15-2022
 summary: 'Main
@@ -643,8 +586,8 @@ themes:
 - panamax
 - supramax
 - handysize
+- vlcc
 - aframax
-- container
 title: Weekly Vessel Valuations Report, February 15 2022
 vessel_classes:
 - capesize
@@ -684,7 +627,29 @@ Image metadata: JPEG 795x316 mode=RGB
 Embedded info:
 dpi: (120, 120)
 
-OCR text:
+[structured table]
+| esses | ate |  |  |  | IA |  |  |  |
+|---|---|---|---|---|---|---|---|---|
+| 15 February | 2022 |  | VV | Mini Matrix - Weekly | Change |  |  |  |
+|  |  |  | Tankers | Bulkers |  |  | Containers |  |
+| Age | VLCC | Suez | Afra LRT MR | Pmax | Supra Handy | pmax | Mandy |  |
+|  | 1.0% | -1.3% | -0.8% -0.3% | -0.8% | 11.5% | 10.5% 14.4% | 42.8% | 42.1% |
+|  | 520K | 160K | 10K 75K |  | 57K |  |  |  |
+|  |  | 0.0% |  | 0.0% | 40.2% 41.4% | 410.8% 44.6% | 42.8% | 42.1% |
+|  | 320K | 160K |  |  |  | 700042501750 |  | 1100 |
+|  | 0.7% | 41.6% | 0.9% 0.0% | -2.8% |  | 45.5% | 42.8% | 42.1% |
+| 10 |  |  |  |  |  |  |  |  |
+|  | 310K | 160K | 110K 75K | 8K | = | 7000» |  |  |
+|  | “1.1% | 42.5% | 0.0% +1.5% |  | +1.4% | 47.4% | 42.8% | 42.296 |
+|  | MOK |  |  | 180K |  |  |  | 1100 |
+|  | 41.6% | 41.5% | 41.5% 41.5% |  | 11.4% | 410.8% | 42.7% | 42.1% |
+| 5 |  |  |  |  |  |  |  |  |
+|  | 305K |  | 105K |  |  | 4000 |  | «1100 |
+|  | 415% | N/A | 41.6% | 41.5% | 15% | 414.7% 416.4% | 42.7% | 42.2% |
+| a |  |  |  |  |  |  |  |  |
+|  | ‘300K | «=A |  |  |  |  |  |  |
+
+[raw ocr]
 © Vessels Vane" -©-§ AAA
 15 February 2022 VV Mini Matrix - Weekly Change
 Tankers Bulkers Containers

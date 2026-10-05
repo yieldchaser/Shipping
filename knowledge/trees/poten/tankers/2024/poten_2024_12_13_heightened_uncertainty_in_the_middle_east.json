@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2024_12_13_heightened_uncertainty_in_the_middle_east__root",
+  "doc_id": "poten_tankers_no_date_poten_2024_12_13_heightened_uncertainty_in_the_middle_east",
+  "parent_id": null,
+  "title": "Heightened Uncertainty In The Middle East",
+  "section_path": [
+    "Heightened Uncertainty In The Middle East"
+  ],
+  "section_path_text": "Heightened Uncertainty In The Middle East",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "What is next for a key player in the region? On December 8, 2024, the regime of Bashar al-Assad, the President of Syria, collapsed after rebel forces quickly took over some of the major cities, including Aleppo and ultimately the capital Damascus. The offensive was led by the group Hayat Tahir al-Sham (HTS), but other groups were involved as well.",
+  "keywords": [
+    "europe",
+    "coal",
+    "crude_oil",
+    "products",
+    "gas",
+    "syria",
+    "oil",
+    "government",
+    "was",
+    "regime",
+    "syrian",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 873,
+  "source_path": "reports/poten/2024/poten_2024-12-13_heightened-uncertainty-in-the-middle-east.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2024_12_13_heightened_uncertainty_in_the_middle_east__s01_what_is_next_for_a_key_player_in_the_region",
+      "doc_id": "poten_tankers_no_date_poten_2024_12_13_heightened_uncertainty_in_the_middle_east",
+      "parent_id": "poten_tankers_no_date_poten_2024_12_13_heightened_uncertainty_in_the_middle_east__root",
+      "title": "What is next for a key player in the region?",
+      "section_path": [
+        "What is next for a key player in the region?"
+      ],
+      "section_path_text": "What is next for a key player in the region?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "On December 8, 2024, the regime of Bashar al-Assad, the President of Syria, collapsed after rebel forces quickly took over some of the major cities, including Aleppo and ultimately the capital Damascus. The offensive was led by the group Hayat Tahir al-Sham (HTS), but other groups were involved as well.",
+      "keywords": [
+        "europe",
+        "coal",
+        "crude_oil",
+        "products",
+        "gas",
+        "syria",
+        "oil",
+        "government"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 862,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

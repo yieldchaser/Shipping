@@ -1,0 +1,283 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam__root",
+  "doc_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam",
+  "parent_id": null,
+  "title": "CMA Conference BAM!",
+  "section_path": [
+    "CMA Conference BAM!"
+  ],
+  "section_path_text": "CMA Conference BAM!",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "This past week, ship owners, charterers, brokers, One New Commodore and several past Commodores, as well as numerous maritime-related people gathered at the Westin Hotel in Stamford, Connecticut to press palms, exchange business cards and listen to peers speak at the Shipping 2004 conference hosted by the Connecticut Maritime Association. Referred to as the \"Posidonia of America,\" this year's theme, \"Kicking it Up a Notch!\" a bit of an ode to a celebrity chef, was the group's 19th conference in its 20th year, and was named to recognize the recent record high earnings for ships of all kinds. The conference officially began Monday afternoon with a Dry Cargo Review, after CMA President Donald B.",
+  "keywords": [
+    "lng",
+    "china",
+    "japan",
+    "coal",
+    "grain",
+    "crude_oil",
+    "gas",
+    "his",
+    "was",
+    "are",
+    "conference",
+    "day"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 823,
+  "source_path": "reports/poten/2004/poten_2004-03-26_cma-conference-bam.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam__s01_bam",
+      "doc_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam",
+      "parent_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam__root",
+      "title": "BAM!",
+      "section_path": [
+        "BAM!"
+      ],
+      "section_path_text": "BAM!",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This past week, ship owners, charterers, brokers, One New Commodore and several past Commodores, as well as numerous maritime-related people gathered at the Westin Hotel in Stamford, Connecticut to press palms, exchange business cards and listen to peers speak at the Shipping 2004 conference hosted by the Connecticut Maritime Association. Referred to as the \"Posidonia of America,\" this year's theme, \"Kicking it Up a Notch!\" a bit of an ode to a celebrity chef, was the group's 19th conference in its 20th year, and was named to recognize the recent record high earnings for ships of all kinds.",
+      "keywords": [
+        "lng",
+        "china",
+        "coal",
+        "grain",
+        "gas",
+        "are",
+        "energy",
+        "conference"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 590,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam__s02_japan",
+      "doc_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam",
+      "parent_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam__root",
+      "title": "Japan",
+      "section_path": [
+        "Japan"
+      ],
+      "section_path_text": "Japan",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "nuclear",
+        "problems"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam__s03_gulf",
+      "doc_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam",
+      "parent_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam__root",
+      "title": "Gulf",
+      "section_path": [
+        "Gulf"
+      ],
+      "section_path_text": "Gulf",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "war"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam__s04_china",
+      "doc_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam",
+      "parent_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam__root",
+      "title": "China",
+      "section_path": [
+        "China"
+      ],
+      "section_path_text": "China",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "bubble"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam__s05_gulf",
+      "doc_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam",
+      "parent_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam__root",
+      "title": "Gulf",
+      "section_path": [
+        "Gulf"
+      ],
+      "section_path_text": "Gulf",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "",
+      "keywords": [
+        "war"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam__s06_bosphorus",
+      "doc_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam",
+      "parent_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam__root",
+      "title": "Bosphorus",
+      "section_path": [
+        "Bosphorus"
+      ],
+      "section_path_text": "Bosphorus",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "",
+      "keywords": [
+        "crude_oil",
+        "congestion",
+        "crisis",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam__s07_oil_price",
+      "doc_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam",
+      "parent_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam__root",
+      "title": "Oil Price",
+      "section_path": [
+        "Oil Price"
+      ],
+      "section_path_text": "Oil Price",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "",
+      "keywords": [
+        "collapse"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam__s08_iran",
+      "doc_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam",
+      "parent_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam__root",
+      "title": "Iran",
+      "section_path": [
+        "Iran"
+      ],
+      "section_path_text": "Iran",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "",
+      "keywords": [
+        "revolution"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam__s09_asian",
+      "doc_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam",
+      "parent_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam__root",
+      "title": "Asian",
+      "section_path": [
+        "Asian"
+      ],
+      "section_path_text": "Asian",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "",
+      "keywords": [
+        "economies"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam__s10_exxon",
+      "doc_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam",
+      "parent_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam__root",
+      "title": "Exxon",
+      "section_path": [
+        "Exxon"
+      ],
+      "section_path_text": "Exxon",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "",
+      "keywords": [
+        "valdez"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam__s11_the_new_commodore_honored",
+      "doc_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam",
+      "parent_id": "poten_tankers_no_date_poten_2004_03_26_cma_conference_bam__root",
+      "title": "The New Commodore Honored",
+      "section_path": [
+        "The New Commodore Honored"
+      ],
+      "section_path_text": "The New Commodore Honored",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "The highlight of the conference is the Commodore's Gala Dinner. CMA's 2004 Commodore Award recipient was Peter C.",
+      "keywords": [
+        "day",
+        "his",
+        "was",
+        "cma",
+        "commodore",
+        "conference",
+        "frenzy",
+        "maritime"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 167,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

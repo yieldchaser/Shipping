@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2022_10_07_will_opec_trigger_nopec__root",
+  "doc_id": "poten_tankers_no_date_poten_2022_10_07_will_opec_trigger_nopec",
+  "parent_id": null,
+  "title": "Will OPEC Trigger NOPEC",
+  "section_path": [
+    "Will OPEC Trigger NOPEC"
+  ],
+  "section_path_text": "Will OPEC Trigger NOPEC",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The unintended consequences of OPEC's production cut\nDuring their first in person meeting since Covid hit in 2020, the members of the OPEC+ oil production cartel decided this week to cut their product quota by 2 Million barrels per day (Mb/d), starting in November. Because many OPEC members are already producing well below their quota, the actual cut in in output will likely be around 860,000 b/d, with Saudi Arabia taking the lion's share (440,000 b/d). The other OPEC members that will likely cut production are also in the Middle East: the United Arab Emirates, Kuwait and maybe Iraq.",
+  "keywords": [
+    "china",
+    "crude_oil",
+    "products",
+    "oil",
+    "opec",
+    "production",
+    "would",
+    "are",
+    "million",
+    "barrels",
+    "could",
+    "but"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 901,
+  "source_path": "reports/poten/2022/poten_2022-10-07_will-opec-trigger-nopec.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_10_07_will_opec_trigger_nopec__s01_the_unintended_consequences_of_opec_s_production_cut",
+      "doc_id": "poten_tankers_no_date_poten_2022_10_07_will_opec_trigger_nopec",
+      "parent_id": "poten_tankers_no_date_poten_2022_10_07_will_opec_trigger_nopec__root",
+      "title": "The unintended consequences of OPEC's production cut",
+      "section_path": [
+        "The unintended consequences of OPEC's production cut"
+      ],
+      "section_path_text": "The unintended consequences of OPEC's production cut",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "During their first in person meeting since Covid hit in 2020, the members of the OPEC+ oil production cartel decided this week to cut their product quota by 2 Million barrels per day (Mb/d), starting in November. Because many OPEC members are already producing well below their quota, the actual cut in in output will likely be around 860,000 b/d, with Saudi Arabia taking the lion's share (440,000 b/d).",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "products",
+        "oil",
+        "opec",
+        "would",
+        "are",
+        "million"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 891,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

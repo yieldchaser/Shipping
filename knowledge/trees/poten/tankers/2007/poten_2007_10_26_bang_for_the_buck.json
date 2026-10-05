@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_10_26_bang_for_the_buck__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_10_26_bang_for_the_buck",
+  "parent_id": null,
+  "title": "Bang for the Buck",
+  "section_path": [
+    "Bang for the Buck"
+  ],
+  "section_path_text": "Bang for the Buck",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Bang for the Buck\nThe increase in vessel prices across all sectors has clearly raised the stakes for both shipowners and finance groups that are interested in asset plays. Shipping is an international business with various currencies changing hands. This adds another dimension of financial risk.",
+  "keywords": [
+    "vlcc",
+    "japan",
+    "dollar",
+    "won",
+    "increase",
+    "prices",
+    "yen",
+    "are",
+    "base",
+    "change",
+    "korean",
+    "price"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 492,
+  "source_path": "reports/poten/2007/poten_2007-10-26_bang-for-the-buck.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_10_26_bang_for_the_buck__s01_bang_for_the_buck",
+      "doc_id": "poten_tankers_no_date_poten_2007_10_26_bang_for_the_buck",
+      "parent_id": "poten_tankers_no_date_poten_2007_10_26_bang_for_the_buck__root",
+      "title": "Bang for the Buck",
+      "section_path": [
+        "Bang for the Buck"
+      ],
+      "section_path_text": "Bang for the Buck",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The increase in vessel prices across all sectors has clearly raised the stakes for both shipowners and finance groups that are interested in asset plays. Shipping is an international business with various currencies changing hands.",
+      "keywords": [
+        "vlcc",
+        "currencies",
+        "dollar",
+        "prices",
+        "adds",
+        "against",
+        "all",
+        "another"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 127,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_10_26_bang_for_the_buck__s02_won",
+      "doc_id": "poten_tankers_no_date_poten_2007_10_26_bang_for_the_buck",
+      "parent_id": "poten_tankers_no_date_poten_2007_10_26_bang_for_the_buck__root",
+      "title": "$/Won",
+      "section_path": [
+        "$/Won"
+      ],
+      "section_path_text": "$/Won",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "VLCC NB Price ($) Clearly, currency fluctuations are yet another risk relevant in today's markets that shipowners and charterers have to be wary of this effect as they formulate long-term plans. Perhaps though the ones at greatest risk are the shipyards.",
+      "keywords": [
+        "vlcc",
+        "price",
+        "are",
+        "dollar",
+        "million",
+        "risk",
+        "another",
+        "approximately"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 135,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_10_26_bang_for_the_buck__s03_us_dollar_dive_prices_going_up",
+      "doc_id": "poten_tankers_no_date_poten_2007_10_26_bang_for_the_buck",
+      "parent_id": "poten_tankers_no_date_poten_2007_10_26_bang_for_the_buck__root",
+      "title": "US Dollar Dive, Prices Going Up",
+      "section_path": [
+        "US Dollar Dive, Prices Going Up"
+      ],
+      "section_path_text": "US Dollar Dive, Prices Going Up",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The chart below represents the increase in vessel prices in the South Korean won, Japanese yen and US dollar. The over 100% dollar increase to $140 million reflects a 77% increase in Japanese yen and only a 41% increase in Korean won.",
+      "keywords": [
+        "japan",
+        "increase",
+        "japanese",
+        "korean",
+        "yen",
+        "below",
+        "chart",
+        "dollar"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 52,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_10_26_bang_for_the_buck__s04_change_over_base_month",
+      "doc_id": "poten_tankers_no_date_poten_2007_10_26_bang_for_the_buck",
+      "parent_id": "poten_tankers_no_date_poten_2007_10_26_bang_for_the_buck__root",
+      "title": "% Change Over Base Month",
+      "section_path": [
+        "% Change Over Base Month"
+      ],
+      "section_path_text": "% Change Over Base Month",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "A prolonged trend of US dollar devaluation could prove to be more challenging for shipyards as they work to balance costs. Labor and other costs incurred by yards are paid in local currency subject to their own set of inflationary pressures.",
+      "keywords": [
+        "base",
+        "change",
+        "mo.",
+        "won",
+        "dollar",
+        "dollars",
+        "yen",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 156,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,449 @@
+{
+  "node_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator__root",
+  "doc_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator",
+  "parent_id": null,
+  "title": "Agora Snapshot of Commercial Indicators - Week 39 / 2026",
+  "section_path": [
+    "Agora Snapshot of Commercial Indicators - Week 39 / 2026"
+  ],
+  "section_path_text": "Agora Snapshot of Commercial Indicators - Week 39 / 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Agora Snapshot of Commercial Indicators - Week 39 / 2026\n- **Broker**: Agora Shipbroking Corporation\n- **Reference Date**: 24 September 2026\n- **Number Convention**: **EU** (comma decimal)\n- **Pages**: 5\n\nPage 1: Overview & Market Commentary\n> *\"Week 39 / 2026 (Reference point 24 September 2026) There are ships sailing to many ports, but not a single one goes where life is not painful.\"*\n> - Fernando Pessoa, a Portuguese poet, writer. Introductory Note\nWe consider the herein indicators valuable in decision making since shipping is a derived demand industry with many financial interactions. Turbulent global macro/micro-climate involving stock markets, currency exchanges and opportunity cost for alternative investments affect the shipping market.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "china",
+    "brazil",
+    "europe",
+    "india",
+    "singapore",
+    "grain",
+    "crude_oil",
+    "products",
+    "gas",
+    "contract"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2640,
+  "source_path": "reports/broker_reports/2026/agora/agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator__s01_agora_snapshot_of_commercial_indicators_week_39_2026",
+      "doc_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator",
+      "parent_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator__root",
+      "title": "Agora Snapshot of Commercial Indicators - Week 39 / 2026",
+      "section_path": [
+        "Agora Snapshot of Commercial Indicators - Week 39 / 2026"
+      ],
+      "section_path_text": "Agora Snapshot of Commercial Indicators - Week 39 / 2026",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "- **Broker**: Agora Shipbroking Corporation\n- **Reference Date**: 24 September 2026\n- **Number Convention**: **EU** (comma decimal)\n- **Pages**: 5",
+      "keywords": [
+        "agora",
+        "broker",
+        "comma",
+        "convention",
+        "corporation",
+        "date",
+        "decimal",
+        "number"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 41,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator__s02_page_1_overview_market_commentary",
+      "doc_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator",
+      "parent_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator__root",
+      "title": "Page 1: Overview & Market Commentary",
+      "section_path": [
+        "Page 1: Overview & Market Commentary"
+      ],
+      "section_path_text": "Page 1: Overview & Market Commentary",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "> *\"Week 39 / 2026 (Reference point 24 September 2026) There are ships sailing to many ports, but not a single one goes where life is not painful.\"*\n> - Fernando Pessoa, a Portuguese poet, writer.",
+      "keywords": [
+        "not",
+        "are",
+        "but",
+        "fernando",
+        "goes",
+        "life",
+        "many",
+        "one"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 54,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator__s03_introductory_note",
+      "doc_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator",
+      "parent_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator__root",
+      "title": "Introductory Note",
+      "section_path": [
+        "Introductory Note"
+      ],
+      "section_path_text": "Introductory Note",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "We consider the herein indicators valuable in decision making since shipping is a derived demand industry with many financial interactions. Turbulent global macro/micro-climate involving stock markets, currency exchanges and opportunity cost for alternative investments affect the shipping market.",
+      "keywords": [
+        "our",
+        "affect",
+        "alternative",
+        "always",
+        "available",
+        "brokers",
+        "business.",
+        "combine"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 90,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator__s04_commodity_futures",
+      "doc_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator",
+      "parent_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator__root",
+      "title": "COMMODITY FUTURES",
+      "section_path": [
+        "COMMODITY FUTURES"
+      ],
+      "section_path_text": "COMMODITY FUTURES",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Item | Actual last | % weekly | % 4-weekly\n--- | --- | --- | ---\nCrude Oil1 NYMEX - (USD/Barrel) | 94,61 | -8,38% | 13,26%\nBrent2 ICE EU - (USD/Barrel) | 106,60 | 1,70% | 20,42%\nGas Oil3 ICE EU - (USD/MT) | 1520,25 | 1,98% | 28,37%\nRBOB Gasoline4 NYMEX - (USD/USGallon) | 3,52 | 2,06% | 3,96%\nNatural Gas5 NYMEX - (USD/1mioBTU) | 3,30 | 13,65% | 13,14%\nWheat6 CBOT - (USDCents/Bushel) | 707,00 | -2,75% | -7,07%\nCorn7 CBOT - (USD/Bushel) | 527,50 | -0,57% | -1,12%\nRice (rough)8 CBOT - (USD/Hundredweight) | 16,57 | 4,91% | 8,02%\nSoybeans9 CBOT - (USDCents/Bushel) | 1317,50 | -0,17% | 3,90%\nSoybean Meal10 CBOT - (USD/Shortton) | 372,40 | 0,30% | 9,24%\nSugar #1111 ICE US - (USD/Pound) | 18,61 | 6,83% | 2,31%\nGold12 COMEX - (USD/Troyounce) | 4.298,00 | -2,31% | -7,85%\nSilver13 COMEX - (USD/Troyounce) | 64,00 | -3,17% | -7,82%\nCopper14 (3Months) LME - (USD/MT) | 14,77 | 2,53% | 1,90%\nAluminium15 (3Months) LME -(USD/MT) | 3,23 | -2,27% | 0,50%",
+      "keywords": [
+        "grain",
+        "crude_oil",
+        "products",
+        "gas",
+        "cbot",
+        "ice",
+        "nymex",
+        "usd/mt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 482,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator__s05_exchange_rate",
+      "doc_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator",
+      "parent_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator__root",
+      "title": "EXCHANGE RATE",
+      "section_path": [
+        "EXCHANGE RATE"
+      ],
+      "section_path_text": "EXCHANGE RATE",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Item | Actual last | % weekly | % 4-weekly\n--- | --- | --- | ---\nEUR / USD | 1,1367 | -1,00% | -2,39%\nUSD / INR | 95,939 | 1,06% | 0,41%\nUSD / TRY | 48,855 | 0,37% | 1,50%",
+      "keywords": [
+        "usd",
+        "actual",
+        "eur",
+        "inr",
+        "item",
+        "last",
+        "try"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 83,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator__s06_usd_libor",
+      "doc_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator",
+      "parent_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator__root",
+      "title": "USD LIBOR",
+      "section_path": [
+        "USD LIBOR"
+      ],
+      "section_path_text": "USD LIBOR",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Item | Actual last | % weekly | % 4-weekly\n--- | --- | --- | ---\n12 months | 2,990 | -0,07% | 4,44%",
+      "keywords": [
+        "actual",
+        "item",
+        "last",
+        "months"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 40,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator__s07_10_year_bond",
+      "doc_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator",
+      "parent_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator__root",
+      "title": "10-YEAR BOND",
+      "section_path": [
+        "10-YEAR BOND"
+      ],
+      "section_path_text": "10-YEAR BOND",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Item | Actual last | % weekly | % 4-weekly\n--- | --- | --- | ---\nUSA | 5,193% | 4,97% | 11,15%\nBrazil | 14,200% | -1,11% | -2,70%\nRussia | 16,590% | 0,24% | 2,98%\nIndia | 7,111% | 0,85% | 3,18%\nChina | 1,676% | -0,48% | -1,59%\nS.Africa | 8,860% | 0,85% | 2,72%\nGreece | 4,392% | 3,46% | 11,84%",
+      "keywords": [
+        "china",
+        "brazil",
+        "india",
+        "actual",
+        "greece",
+        "item",
+        "last",
+        "russia"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 157,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator__s08_baltic_exchange",
+      "doc_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator",
+      "parent_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator__root",
+      "title": "BALTIC EXCHANGE",
+      "section_path": [
+        "BALTIC EXCHANGE"
+      ],
+      "section_path_text": "BALTIC EXCHANGE",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Item | Actual last | % weekly | % 4-weekly\n--- | --- | --- | ---\nBDI | 3.473 | 4,11% | 11,78%\nBCI | 5.939 | 5,00% | 15,59%\nBPI | 2.382 | 4,38% | 3,93%\nBSI | 1.782 | 1,14% | 8,33%\nBHSI | 1.003 | 2,35% | 13,85%",
+      "keywords": [
+        "actual",
+        "bci",
+        "bdi",
+        "bhsi",
+        "bpi",
+        "bsi",
+        "item",
+        "last"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 117,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator__s09_bunkers",
+      "doc_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator",
+      "parent_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator__root",
+      "title": "BUNKERS",
+      "section_path": [
+        "BUNKERS"
+      ],
+      "section_path_text": "BUNKERS",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Item | IFO380 | VLSFO | MGO\n--- | --- | --- | ---\nFujairah | $701 | $996 | $1.698\nHouston | $553 | $761 | $1.435\nRotterdam | $610 | $690 | $1.432\nSingapore | $712 | $874 | $1.325",
+      "keywords": [
+        "europe",
+        "singapore",
+        "fujairah",
+        "houston",
+        "ifo380",
+        "item",
+        "mgo",
+        "rotterdam"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 75,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator__s10_stock_markets",
+      "doc_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator",
+      "parent_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator__root",
+      "title": "STOCK MARKETS",
+      "section_path": [
+        "STOCK MARKETS"
+      ],
+      "section_path_text": "STOCK MARKETS",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "Item | Actual last | % weekly | % 4-weekly\n--- | --- | --- | ---\nUSA S&P 500 | 7704,13 | 0,87% | -0,35%\nUSA NASDAQ-100 | 30478,86 | 3,50% | 2,82%\nBrazil IBOVESPA | 183,97 | -1,09% | 5,04%\nRussia RTSI INDEX | 857,94 | 2,96% | 12,41%\nIndia S&P BSE SENSEX | 73580,54 | -4,83% | -4,36%\nChina CSI 300 INDEX | 4439,14 | -0,47% | -4,13%\nS.Africa FTSE/JSE Africa All Share Index | 111564,58 | -2,27% | -4,49%\nGreece ATHENS INDEX COMPOS | 2642,23 | -1,70% | -0,93%",
+      "keywords": [
+        "china",
+        "brazil",
+        "india",
+        "usa",
+        "actual",
+        "africa",
+        "all",
+        "athens"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 213,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator__s11_baltic_exchange_t_c",
+      "doc_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator",
+      "parent_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator__root",
+      "title": "BALTIC EXCHANGE - T/C",
+      "section_path": [
+        "BALTIC EXCHANGE - T/C"
+      ],
+      "section_path_text": "BALTIC EXCHANGE - T/C",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "Item | Actual last | % weekly | % 4-weekly\n--- | --- | --- | ---\nBCI T/C -182.000 dwt | $50.361 | 5,37% | 16,85%\nBPI T/C -82.500dwt | $21.434 | 4,38% | 3,89%\nBSI T/C -63.500 dwt | $22.525 | 1,12% | 8,35%\nBHSI T/C -38.200dwt | $18.061 | 2,43% | 13,96%",
+      "keywords": [
+        "dwt",
+        "t/c",
+        "actual",
+        "bci",
+        "bhsi",
+        "bpi",
+        "bsi",
+        "item"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 130,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator__s12_contract_specifications_commodity_notes",
+      "doc_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator",
+      "parent_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator__root",
+      "title": "Contract Specifications & Commodity Notes",
+      "section_path": [
+        "Contract Specifications & Commodity Notes"
+      ],
+      "section_path_text": "Contract Specifications & Commodity Notes",
+      "level": 1,
+      "ordinal": 12,
+      "summary": "Dollars and Cents per barrel (contract of 1,000 barrels, 1 barrel = 42 us gallons = 158.98 litres = 0.13642565 metric tons)\n2. Dollars and Cents per barrel (contract of 1,000 barrels, 1 barrel = 42 us gallons = 158.98 litres = 0.13642565 metric tons)\n3.",
+      "keywords": [
+        "grain",
+        "crude_oil",
+        "products",
+        "gas",
+        "cents",
+        "contract",
+        "metric",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 550,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator__s13_desks_specialized_divisions",
+      "doc_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator",
+      "parent_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator__root",
+      "title": "Desks & Specialized Divisions",
+      "section_path": [
+        "Desks & Specialized Divisions"
+      ],
+      "section_path_text": "Desks & Specialized Divisions",
+      "level": 1,
+      "ordinal": 13,
+      "summary": "Desk / Division | Contact / Emails\n--- | ---\n**Bulk Desk** | `bulk@agoraships.com`, `panamax@agoraships.com`, `cape@agoraships.com`\n**Mini-Bulk (1-5k DWT)** | `minibulk@agoraships.com`\n**Period T/C Requirements** | `period@agoraships.com`\n**Sale & Purchase (S&P)** | `snp@agoraships.com` (exclusive clients)\n**Tanker Desk** | `tanker@agoraships.com`, `bitumen@agoraships.com`\n**Project / MPP / RoRo** | `project@agoraships.com`, `roro@agoraships.com`",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "agoraships.com",
+        "desk",
+        "period",
+        "project",
+        "roro",
+        "bitumen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 162,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator__s14_key_personnel_management",
+      "doc_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator",
+      "parent_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator__root",
+      "title": "Key Personnel & Management",
+      "section_path": [
+        "Key Personnel & Management"
+      ],
+      "section_path_text": "Key Personnel & Management",
+      "level": 1,
+      "ordinal": 14,
+      "summary": "Alexandros Psarianos, BSc, MSc, FICS** - Managing Director (mob: `+30 6985.11.11.02`)\n- **Mr. Dimitris Vasiliou, BSc** - Chartering Broker (mob: `+30 698.938.17.45`)\n- **Mr.",
+      "keywords": [
+        "mob",
+        "mr.",
+        "bsc",
+        "broker",
+        "chartering",
+        "diploma",
+        "accounting",
+        "akis"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 199,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator__s15_offices_corporate",
+      "doc_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator",
+      "parent_id": "broker_reports_broker_report_no_date_agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator__root",
+      "title": "Offices & Corporate",
+      "section_path": [
+        "Offices & Corporate"
+      ],
+      "section_path_text": "Offices & Corporate",
+      "level": 1,
+      "ordinal": 15,
+      "summary": "9, II Merarchias Str., Piraeus 18535, Greece\n- **London Office**: No. 21, Aylmer Parade, Aylmer Road, London, N2 0AT, United Kingdom\n- **Web**: [www.agoraships.com](http://www.agoraships.com)\n> *Disclaimer: The historical data provided herein are displayed for information purposes only.",
+      "keywords": [
+        "any",
+        "aylmer",
+        "information",
+        "london",
+        "no.",
+        "office",
+        "piraeus",
+        "www.agoraships.com"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 144,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

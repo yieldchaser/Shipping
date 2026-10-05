@@ -1,0 +1,165 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_11_18_the_export_gulf__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_11_18_the_export_gulf",
+  "parent_id": null,
+  "title": "The Export Gulf",
+  "section_path": [
+    "The Export Gulf"
+  ],
+  "section_path_text": "The Export Gulf",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Export Gulf\nThe high price of imported crude oil and decreased domestic consumer demand seen over the course of this year has resulted in uncertain prospects for some US refiners. However, even as some have suffered, others have been able to shift their focus to foreign markets. This year has seen the United States emerge as a net exporter of finished petroleum products.",
+  "keywords": [
+    "brazil",
+    "atlantic",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "gas",
+    "gulf",
+    "oil",
+    "product",
+    "volumes",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 686,
+  "source_path": "reports/poten/2011/poten_2011-11-18_the-export-gulf.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_11_18_the_export_gulf__s01_the_export_gulf",
+      "doc_id": "poten_tankers_no_date_poten_2011_11_18_the_export_gulf",
+      "parent_id": "poten_tankers_no_date_poten_2011_11_18_the_export_gulf__root",
+      "title": "The Export Gulf",
+      "section_path": [
+        "The Export Gulf"
+      ],
+      "section_path_text": "The Export Gulf",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The high price of imported crude oil and decreased domestic consumer demand seen over the course of this year has resulted in uncertain prospects for some US refiners. However, even as some have suffered, others have been able to shift their focus to foreign markets.",
+      "keywords": [
+        "atlantic",
+        "europe",
+        "us_gulf",
+        "crude_oil",
+        "products",
+        "gulf",
+        "seen",
+        "volumes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 201,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_11_18_the_export_gulf__s02_gasoline",
+      "doc_id": "poten_tankers_no_date_poten_2011_11_18_the_export_gulf",
+      "parent_id": "poten_tankers_no_date_poten_2011_11_18_the_export_gulf__root",
+      "title": "Gasoline",
+      "section_path": [
+        "Gasoline"
+      ],
+      "section_path_text": "Gasoline",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "fuel",
+        "distillate",
+        "jet",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_11_18_the_export_gulf__s03_residual_fuel_oil",
+      "doc_id": "poten_tankers_no_date_poten_2011_11_18_the_export_gulf",
+      "parent_id": "poten_tankers_no_date_poten_2011_11_18_the_export_gulf__root",
+      "title": "Residual Fuel Oil",
+      "section_path": [
+        "Residual Fuel Oil"
+      ],
+      "section_path_text": "Residual Fuel Oil",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Total US Demand Total Product Distillate fuel oil exports, which include both heating oil and diesel, averaged almost 600 kbd over 2011 and reached almost 640 kbd in August of this year. The US Energy Intelligence Agency (EIA) has projected that total US liquid fuels consumption will have fallen by 250 kbd year on year over 2011.",
+      "keywords": [
+        "europe",
+        "us_gulf",
+        "crude_oil",
+        "products",
+        "total",
+        "kbd",
+        "product",
+        "almost"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 172,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_11_18_the_export_gulf__s04_million_metric_tons",
+      "doc_id": "poten_tankers_no_date_poten_2011_11_18_the_export_gulf",
+      "parent_id": "poten_tankers_no_date_poten_2011_11_18_the_export_gulf__root",
+      "title": "million Metric Tons",
+      "section_path": [
+        "million Metric Tons"
+      ],
+      "section_path_text": "million Metric Tons",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 YTD",
+      "keywords": [
+        "ytd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 37,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_11_18_the_export_gulf__s05_uk_continent",
+      "doc_id": "poten_tankers_no_date_poten_2011_11_18_the_export_gulf",
+      "parent_id": "poten_tankers_no_date_poten_2011_11_18_the_export_gulf__root",
+      "title": "UK Continent",
+      "section_path": [
+        "UK Continent"
+      ],
+      "section_path_text": "UK Continent",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Mediterranean Caribbean EC South America WC South America Other In addition to growth on the traditional TransAtlantic backhaul trade, both spot fixture data and information released by the EIA suggest that developing economies in South and Central America are also increasingly sourcing barrels from the US Gulf coast. Combined reported clean fixture volumes to the Caribbean and South America grew from 4.4 million MT in 2008 to almost 10 million MT 2011 year to date, reflecting an increase of over 120%.",
+      "keywords": [
+        "brazil",
+        "atlantic",
+        "europe",
+        "us_gulf",
+        "crude_oil",
+        "products",
+        "america",
+        "south"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 247,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

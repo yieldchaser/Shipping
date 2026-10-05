@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_04_30_tarred_and_feathered_etouffee__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_04_30_tarred_and_feathered_etouffee",
+  "parent_id": null,
+  "title": "Tarred and Feathered Etouffee",
+  "section_path": [
+    "Tarred and Feathered Etouffee"
+  ],
+  "section_path_text": "Tarred and Feathered Etouffee",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Tarred and Feathered Etouffee\nThe oil spill which began with an explosion on an oil rig in the U.S. Gulf of Mexico has developed into a rapidly‐deteriorating situation threatening local wildlife and national commerce and is also likely to have longer‐term implications for recently‐announced plans to increase offshore drilling. Unlike past spills of contained volumes, the continuing flow from the site could take up to 90 days to quell, and adds additional pressure and uncertainty to the situation.",
+  "keywords": [
+    "aframax",
+    "us_gulf",
+    "crude_oil",
+    "oil",
+    "spill",
+    "are",
+    "area",
+    "crude",
+    "gulf",
+    "likely",
+    "location",
+    "other"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 927,
+  "source_path": "reports/poten/2010/poten_2010-04-30_tarred-and-feathered-etouffee.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_04_30_tarred_and_feathered_etouffee__s01_tarred_and_feathered_etouffee",
+      "doc_id": "poten_tankers_no_date_poten_2010_04_30_tarred_and_feathered_etouffee",
+      "parent_id": "poten_tankers_no_date_poten_2010_04_30_tarred_and_feathered_etouffee__root",
+      "title": "Tarred and Feathered Etouffee",
+      "section_path": [
+        "Tarred and Feathered Etouffee"
+      ],
+      "section_path_text": "Tarred and Feathered Etouffee",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The oil spill which began with an explosion on an oil rig in the U.S. Gulf of Mexico has developed into a rapidly‐deteriorating situation threatening local wildlife and national commerce and is also likely to have longer‐term implications for recently‐announced plans to increase offshore drilling.",
+      "keywords": [
+        "us_gulf",
+        "crude_oil",
+        "oil",
+        "spill",
+        "among",
+        "days",
+        "explosion",
+        "flow"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 266,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_04_30_tarred_and_feathered_etouffee__s02_location_location_location",
+      "doc_id": "poten_tankers_no_date_poten_2010_04_30_tarred_and_feathered_etouffee",
+      "parent_id": "poten_tankers_no_date_poten_2010_04_30_tarred_and_feathered_etouffee__root",
+      "title": "Location, Location, Location",
+      "section_path": [
+        "Location, Location, Location"
+      ],
+      "section_path_text": "Location, Location, Location",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The volumes of crude oil gushing from the well have inspired widespread comparisons to the 1989 Exxon Valdez oil spill in Alaska, but its location dictates that this spill will have a more significant impact on the spot tanker market. The map below shows the location and distribution of other oil spills that shaped regulation and reputations in oil and tanker industries.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "spill",
+        "location",
+        "other",
+        "spills",
+        "alaska",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 98,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_04_30_tarred_and_feathered_etouffee__s03_historical_oil_spills",
+      "doc_id": "poten_tankers_no_date_poten_2010_04_30_tarred_and_feathered_etouffee",
+      "parent_id": "poten_tankers_no_date_poten_2010_04_30_tarred_and_feathered_etouffee__root",
+      "title": "Historical Oil Spills",
+      "section_path": [
+        "Historical Oil Spills"
+      ],
+      "section_path_text": "Historical Oil Spills",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "While the Exxon Valdez spill complicated operations at just one distant port, the Deepwater Horizon spill is occurring in a heavily‐trafficked area responsible for about 30 percent of US domestic oil production. Ships have been instructed to avoid contact with the heavy black floating oil at all costs and maintain a safe speed while moving through lighter oil on the surface when forced to traverse affected areas.",
+      "keywords": [
+        "aframax",
+        "us_gulf",
+        "crude_oil",
+        "oil",
+        "spill",
+        "area",
+        "are",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 542,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

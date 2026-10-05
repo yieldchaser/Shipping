@@ -32,9 +32,10 @@ linked_assets_ingested: 1
 linked_assets_mirrored: 1
 linked_assets_skipped: 0
 market_tone: cautiously_bearish
-numeric_observation_count: 24
+numeric_observation_count: 40
 numeric_observations:
-- section: Main
+- &id001
+  section: Main
   section_type: null
   source_line: Capesize BC Agios Charalambous (184,900 DWT, May 2003, Mitsui Ichihara)
     sold to unknown Indian buyers for USD 14 mil, VV Value USD 13.50 mil
@@ -43,8 +44,9 @@ numeric_observations:
   - 184900.0
   - 2003.0
   - 14.0
-  - 13500.0
-- section: Main
+  - 13.5
+- &id002
+  section: Main
   section_type: null
   source_line: Capesize BC Aquamarine (182,100 DWT, Jul 2009, Odense Steel) sold to
     New Shipping for USD 18.25 mil, VV Value USD 20.60 mil
@@ -52,9 +54,10 @@ numeric_observations:
   values:
   - 182100.0
   - 2009.0
-  - 18250.0
-  - 20600.0
-- section: Main
+  - 18.25
+  - 20.6
+- &id003
+  section: Main
   section_type: null
   source_line: Capesize BC Ocean Cobalt (180,200 DWT, Jul 2008, Imabari) sold to unknown
     Chinese buyers for USD 19.50 mil (SS/DD Passed), VV Value USD 18.70 mil
@@ -62,9 +65,10 @@ numeric_observations:
   values:
   - 180200.0
   - 2008.0
-  - 19500.0
-  - 18700.0
-- section: Main
+  - 19.5
+  - 18.7
+- &id004
+  section: Main
   section_type: null
   source_line: MR2 Yongsheng Ocean (45,000 DWT, Jun 1997, Halla) sold to Unidisclosed
     buyers for USD 7.20 mil (BWTS), VV Value USD 8.40 mil
@@ -73,16 +77,18 @@ numeric_observations:
   - 2.0
   - 45000.0
   - 1997.0
-  - 7200.0
-  - 8400.0
-- section: Main
+  - 7.2
+  - 8.4
+- &id005
+  section: Main
   section_type: null
   source_line: 'Containers : Post Panamax Containers have firmed over 9% as a result
     of the en bloc resales bought by MSC'
   unit: pct
   values:
   - 9.0
-- section: Main
+- &id006
+  section: Main
   section_type: null
   source_line: Post Panamax London Bridge and Dubai Bridge (8,000 TEU, Mar 2024, Hyundai
     HI) sold to MSC in an enbloc deal for USD 200 mil, VV Value USD 191.47 mil
@@ -92,7 +98,8 @@ numeric_observations:
   - 2024.0
   - 200.0
   - 191.47
-- section: Main
+- &id007
+  section: Main
   section_type: null
   source_line: 'Image reference: assets/2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
   unit: null
@@ -107,7 +114,8 @@ numeric_observations:
   - 2023.0
   - 217.0
   - 9505482.0
-- section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
+- &id008
+  section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
   unit: null
@@ -122,50 +130,276 @@ numeric_observations:
   - 2023.0
   - 217.0
   - 9505482.0
-- section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
+- &id009
+  section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 678x259 mode=RGB'
   unit: null
   values:
   - 678.0
   - 259.0
-- section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
+- &id010
+  section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (96.0, 96.0)'
   unit: null
   values:
-  - 96000.0
-  - 96000.0
-- section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
+  - 96.0
+  - 96.0
+- &id011
+  section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
+  section_type: linked_image_asset
+  source_line: '| 11 July | 2023 | | | | VV | Mini Matrix | - | Weekly | Change |
+    | | | |'
+  unit: null
+  values:
+  - 11.0
+  - 2023.0
+- &id012
+  section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 10.4% | | 41.3% | 410.5% | 40.3% | 0.4% | | | | | -0.2% | | -0.5%
+    |'
+  unit: pct
+  values:
+  - 10.4
+  - 41.3
+  - 410.5
+  - 40.3
+  - 0.4
+  - -0.2
+  - -0.5
+- &id013
+  section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
+  section_type: linked_image_asset
+  source_line: '| 5 | | | | | | | | | | | | | |'
+  unit: null
+  values:
+  - 5.0
+- &id014
+  section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 320k | 160k | 110k | 75k | 50k | 180k | 82k | 60k | 38k | 7000
+    | 4250 | 1750 | 1100 |'
+  unit: null
+  values:
+  - 320.0
+  - 160.0
+  - 110.0
+  - 75.0
+  - 50.0
+  - 180.0
+  - 82.0
+  - 60.0
+  - 38.0
+  - 7000.0
+- &id015
+  section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 40.5% | | | 40.5% | +0.3% | 1.3% | | = | -0.7% | +4.8% | | - -0.8%
+    | - +0.7% |'
+  unit: pct
+  values:
+  - 40.5
+  - 40.5
+  - 0.3
+  - 1.3
+  - -0.7
+  - 4.8
+  - -0.8
+  - 0.7
+- &id016
+  section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 320k | 160k | 110k | 75k | 50k | 180k | 80k | 60k | 38k | 7000
+    | 4250 | 1750 | 1100 |'
+  unit: null
+  values:
+  - 320.0
+  - 160.0
+  - 110.0
+  - 75.0
+  - 50.0
+  - 180.0
+  - 80.0
+  - 60.0
+  - 38.0
+  - 7000.0
+- &id017
+  section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 40.5% | +1.0% | +1.3% | | | -2.5% | | 0.0% | | +1.5% | | | - +1.0%
+    |'
+  unit: pct
+  values:
+  - 40.5
+  - 1.0
+  - 1.3
+  - -2.5
+  - 1.5
+  - 1.0
+- &id018
+  section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 320k | 160k | 110k | 75k | 50k | 180k | 80k | 60k | 32k | 7000
+    | 4250 | 1750 | 1100 |'
+  unit: null
+  values:
+  - 320.0
+  - 160.0
+  - 110.0
+  - 75.0
+  - 50.0
+  - 180.0
+  - 80.0
+  - 60.0
+  - 32.0
+  - 7000.0
+- &id019
+  section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
+  section_type: linked_image_asset
+  source_line: '| | | 41.1% | +1.3% | +0.5% | +0.3% | | -1.5% | +0.5% | -0.7% | 0.3%
+    | | -0.8% | +0.2% |'
+  unit: pct
+  values:
+  - 41.1
+  - 1.3
+  - 0.5
+  - 0.3
+  - -1.5
+  - 0.5
+  - -0.7
+  - 0.3
+  - -0.8
+  - 0.2
+- &id020
+  section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
+  section_type: linked_image_asset
+  source_line: '| 1s | | | | | | | | | | | | | |'
+  unit: null
+  values:
+  - 1.0
+- &id021
+  section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 310k | 160k | 110k | 75k | 50k | 180k | 80k | 55k | 30k | 7000
+    | 4250 | 1750 | 1100 |'
+  unit: null
+  values:
+  - 310.0
+  - 160.0
+  - 110.0
+  - 75.0
+  - 50.0
+  - 180.0
+  - 80.0
+  - 55.0
+  - 30.0
+  - 7000.0
+- &id022
+  section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 10.5% | 41.2% | 41.3% | 40.6% | -+0.3% | 0.0% | | 12.0% | 0.6%
+    | 0.9% | | | 1.5% |'
+  unit: pct
+  values:
+  - 10.5
+  - 41.2
+  - 41.3
+  - 40.6
+  - 0.3
+  - 12.0
+  - 0.6
+  - 0.9
+  - 1.5
+- &id023
+  section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 305k | 155k | 105k | 70k | 45k | 175k | 75k | 50k | 30k | 6500
+    | 4000 | 1750 | 1100 |'
+  unit: null
+  values:
+  - 305.0
+  - 155.0
+  - 105.0
+  - 70.0
+  - 45.0
+  - 175.0
+  - 75.0
+  - 50.0
+  - 30.0
+  - 6500.0
+- &id024
+  section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
+  section_type: linked_image_asset
+  source_line: '| | | | +1.2% | N/A | +0.3% | 0.0% | | | -0.5% | 0.6% | - 0.0% | 0.8%
+    | -4.0% |'
+  unit: pct
+  values:
+  - 1.2
+  - 0.3
+  - -0.5
+  - 0.6
+  - 0.8
+  - -4.0
+- &id025
+  section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
+  section_type: linked_image_asset
+  source_line: '| 25 | | | | | | | | | | | | | |'
+  unit: null
+  values:
+  - 25.0
+- &id026
+  section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 300k | 150k | 105k | N/A | 45k | 170k | 75k | 48k | 30k | 6500
+    | 4000 | 1750 | 1100 |'
+  unit: null
+  values:
+  - 300.0
+  - 150.0
+  - 105.0
+  - 45.0
+  - 170.0
+  - 75.0
+  - 48.0
+  - 30.0
+  - 6500.0
+  - 4000.0
+- &id027
+  section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
   section_type: linked_image_asset
   source_line: 11 July 2023 VV Mini Matrix - Weekly Change
   unit: null
   values:
   - 11.0
   - 2023.0
-- section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
+- &id028
+  section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
   section_type: linked_image_asset
   source_line: Age vice Sucz Afra tR1 MR Cape Pmax Supra Handy oan Pmax Handy Fmax
   unit: null
   values:
   - 1.0
-- section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
+- &id029
+  section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
   section_type: linked_image_asset
   source_line: 5 10.4% +1.0% 41.3% 410.5% 40.3% 0.4% 0.2% 1.5% --0.6% +10,0% -0.2%
     0.8% = -0.5%
   unit: pct
   values:
   - 5.0
-  - 10400.0
+  - 10.4
   - 1.0
-  - 41300.0
+  - 41.3
   - 410.5
-  - 40300.0
+  - 40.3
   - 0.4
   - 0.2
   - 1.5
   - -0.6
-- section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
+- &id030
+  section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
   section_type: linked_image_asset
   source_line: 320k 160k 110k 75k 50k 180k 82k 60k 38k 7000 4250 1750 1100
   unit: null
@@ -180,23 +414,25 @@ numeric_observations:
   - 60.0
   - 38.0
   - 7000.0
-- section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
+- &id031
+  section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
   section_type: linked_image_asset
   source_line: 5 40.5% - +1.0% - +1.3% 40.5% - +0.3% 1.3% <10% 0.7% = -0.7% +4.8%
     0.1% - -0.8% - +0.7%
   unit: pct
   values:
   - 5.0
-  - 40500.0
+  - 40.5
   - 1.0
   - 1.3
-  - 40500.0
+  - 40.5
   - 0.3
   - 1.3
   - 10.0
   - 0.7
   - -0.7
-- section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
+- &id032
+  section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
   section_type: linked_image_asset
   source_line: 320k 160k 110k 75k 50k 180k 80k 60k 38k 7000 4250 1750 1100
   unit: null
@@ -211,23 +447,25 @@ numeric_observations:
   - 60.0
   - 38.0
   - 7000.0
-- section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
+- &id033
+  section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
   section_type: linked_image_asset
   source_line: io 40.5% +1.0% +1.3% 40.5% +0.4% -2.5% -1.6% 0.0% -0.7% +1.5% -0.2%
     --0.7% - +1.0%
   unit: pct
   values:
-  - 40500.0
+  - 40.5
   - 1.0
   - 1.3
-  - 40500.0
+  - 40.5
   - 0.4
   - -2.5
   - -1.6
   - -0.7
   - 1.5
   - -0.2
-- section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
+- &id034
+  section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
   section_type: linked_image_asset
   source_line: 320k 160k 110k 75k 50k 180k 80k 60k 32k 7000 4250 1750 1100
   unit: null
@@ -242,15 +480,16 @@ numeric_observations:
   - 60.0
   - 32.0
   - 7000.0
-- section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
+- &id035
+  section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
   section_type: linked_image_asset
   source_line: 1s 40.5% 41.1% +1.3% +0.5% +0.3% "3.5% -1.5% +0.5% -0.7% 0.3% §--0.2%
     = -0.8% = +0.2%
   unit: pct
   values:
   - 1.0
-  - 40500.0
-  - 41100.0
+  - 40.5
+  - 41.1
   - 1.3
   - 0.5
   - 0.3
@@ -258,7 +497,8 @@ numeric_observations:
   - -1.5
   - 0.5
   - -0.7
-- section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
+- &id036
+  section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
   section_type: linked_image_asset
   source_line: 310k 160k 110k 75k 50k 180k 80k 55k 30k 7000 4250 1750 1100
   unit: null
@@ -273,23 +513,25 @@ numeric_observations:
   - 55.0
   - 30.0
   - 7000.0
-- section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
+- &id037
+  section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
   section_type: linked_image_asset
   source_line: a 10.5% 41.2% 41.3% 40.6% -+0.3% 0.0% 1.2% 12.0% 0.6% 0.9% 0.1% 0.8%
     1.5%
   unit: pct
   values:
-  - 10500.0
-  - 41200.0
-  - 41300.0
-  - 40600.0
+  - 10.5
+  - 41.2
+  - 41.3
+  - 40.6
   - 0.3
   - 1.2
-  - 12000.0
+  - 12.0
   - 0.6
   - 0.9
   - 0.1
-- section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
+- &id038
+  section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
   section_type: linked_image_asset
   source_line: 305k 155k 105k 70k 45k 175k 75k 50k 30k 6500 4000 1750 1100
   unit: null
@@ -304,23 +546,25 @@ numeric_observations:
   - 50.0
   - 30.0
   - 6500.0
-- section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
+- &id039
+  section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
   section_type: linked_image_asset
   source_line: 25 40.5% +1,.3% +1.2% N/A +0.3% 0.0% 10.1% +3.7% -0.5% 0.6% - 0.0%
     0.8% = -4.0%
   unit: pct
   values:
   - 25.0
-  - 40500.0
+  - 40.5
   - 1.3
   - 1.2
   - 0.3
-  - 10100.0
+  - 10.1
   - 3.7
   - -0.5
   - 0.6
   - 0.8
-- section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
+- &id040
+  section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
   section_type: linked_image_asset
   source_line: 300k 150k 105k N/A 45k 170k 75k 48k 30k 6500 4000 1750 1100
   unit: null
@@ -344,304 +588,50 @@ regions:
 - india
 section_count: 2
 signals:
-  numeric_observation_count: 23
+  numeric_observation_count: 40
   numeric_observations:
-  - section: Main
-    section_type: null
-    source_line: Capesize BC Agios Charalambous (184,900 DWT, May 2003, Mitsui Ichihara)
-      sold to unknown Indian buyers for USD 14 mil, VV Value USD 13.50 mil
-    unit: usd
-    values:
-    - 184900.0
-    - 2003.0
-    - 14.0
-    - 13.5
-  - section: Main
-    section_type: null
-    source_line: Capesize BC Aquamarine (182,100 DWT, Jul 2009, Odense Steel) sold
-      to New Shipping for USD 18.25 mil, VV Value USD 20.60 mil
-    unit: usd
-    values:
-    - 182100.0
-    - 2009.0
-    - 18.25
-    - 20.6
-  - section: Main
-    section_type: null
-    source_line: Capesize BC Ocean Cobalt (180,200 DWT, Jul 2008, Imabari) sold to
-      unknown Chinese buyers for USD 19.50 mil (SS/DD Passed), VV Value USD 18.70
-      mil
-    unit: usd
-    values:
-    - 180200.0
-    - 2008.0
-    - 19.5
-    - 18.7
-  - section: Main
-    section_type: null
-    source_line: MR2 Yongsheng Ocean (45,000 DWT, Jun 1997, Halla) sold to Unidisclosed
-      buyers for USD 7.20 mil (BWTS), VV Value USD 8.40 mil
-    unit: usd
-    values:
-    - 45000.0
-    - 1997.0
-    - 7.2
-    - 8.4
-  - section: Main
-    section_type: null
-    source_line: 'Containers : Post Panamax Containers have firmed over 9% as a result
-      of the en bloc resales bought by MSC'
-    unit: pct
-    values:
-    - 9.0
-  - section: Main
-    section_type: null
-    source_line: Post Panamax London Bridge and Dubai Bridge (8,000 TEU, Mar 2024,
-      Hyundai HI) sold to MSC in an enbloc deal for USD 200 mil, VV Value USD 191.47
-      mil
-    unit: usd
-    values:
-    - 8000.0
-    - 2024.0
-    - 200.0
-    - 191.47
-  - section: Main
-    section_type: null
-    source_line: 'Image reference: assets/2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
-    unit: null
-    values:
-    - 2023.0
-    - -7.0
-    - -12.0
-    - 11.0
-    - -2023.0
-    - 11.0
-    - 2023.0
-    - 217.0
-    - 505482.0
-  - section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
-    section_type: linked_image_asset
-    source_line: 'Linked image asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
-    unit: null
-    values:
-    - 2023.0
-    - -7.0
-    - -12.0
-    - 11.0
-    - -2023.0
-    - 11.0
-    - 2023.0
-    - 217.0
-    - 505482.0
-  - section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
-    section_type: linked_image_asset
-    source_line: 'Image metadata: JPEG 678x259 mode=RGB'
-    unit: null
-    values:
-    - 678.0
-    - 59.0
-  - section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
-    section_type: linked_image_asset
-    source_line: 'dpi: (96.0, 96.0)'
-    unit: null
-    values:
-    - 96.0
-    - 96.0
-  - section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
-    section_type: linked_image_asset
-    source_line: 11 July 2023 VV Mini Matrix - Weekly Change
-    unit: null
-    values:
-    - 11.0
-    - 2023.0
-  - section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
-    section_type: linked_image_asset
-    source_line: 5 10.4% +1.0% 41.3% 410.5% 40.3% 0.4% 0.2% 1.5% --0.6% +10,0% -0.2%
-      0.8% = -0.5%
-    unit: pct
-    values:
-    - 5.0
-    - 10.4
-    - 1.0
-    - 41.3
-    - 410.5
-    - 40.3
-    - 0.4
-    - 0.2
-    - 1.5
-    - -0.6
-  - section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
-    section_type: linked_image_asset
-    source_line: 320k 160k 110k 75k 50k 180k 82k 60k 38k 7000 4250 1750 1100
-    unit: null
-    values:
-    - 320.0
-    - 160.0
-    - 110.0
-    - 75.0
-    - 50.0
-    - 180.0
-    - 82.0
-    - 60.0
-    - 38.0
-    - 7000.0
-  - section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
-    section_type: linked_image_asset
-    source_line: 5 40.5% - +1.0% - +1.3% 40.5% - +0.3% 1.3% <10% 0.7% = -0.7% +4.8%
-      0.1% - -0.8% - +0.7%
-    unit: pct
-    values:
-    - 5.0
-    - 40.5
-    - 1.0
-    - 1.3
-    - 40.5
-    - 0.3
-    - 1.3
-    - 10.0
-    - 0.7
-    - -0.7
-  - section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
-    section_type: linked_image_asset
-    source_line: 320k 160k 110k 75k 50k 180k 80k 60k 38k 7000 4250 1750 1100
-    unit: null
-    values:
-    - 320.0
-    - 160.0
-    - 110.0
-    - 75.0
-    - 50.0
-    - 180.0
-    - 80.0
-    - 60.0
-    - 38.0
-    - 7000.0
-  - section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
-    section_type: linked_image_asset
-    source_line: io 40.5% +1.0% +1.3% 40.5% +0.4% -2.5% -1.6% 0.0% -0.7% +1.5% -0.2%
-      --0.7% - +1.0%
-    unit: pct
-    values:
-    - 40.5
-    - 1.0
-    - 1.3
-    - 40.5
-    - 0.4
-    - -2.5
-    - -1.6
-    - -0.7
-    - 1.5
-    - -0.2
-  - section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
-    section_type: linked_image_asset
-    source_line: 320k 160k 110k 75k 50k 180k 80k 60k 32k 7000 4250 1750 1100
-    unit: null
-    values:
-    - 320.0
-    - 160.0
-    - 110.0
-    - 75.0
-    - 50.0
-    - 180.0
-    - 80.0
-    - 60.0
-    - 32.0
-    - 7000.0
-  - section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
-    section_type: linked_image_asset
-    source_line: 1s 40.5% 41.1% +1.3% +0.5% +0.3% "3.5% -1.5% +0.5% -0.7% 0.3% §--0.2%
-      = -0.8% = +0.2%
-    unit: pct
-    values:
-    - 1.0
-    - 40.5
-    - 41.1
-    - 1.3
-    - 0.5
-    - 0.3
-    - 3.5
-    - -1.5
-    - 0.5
-    - -0.7
-  - section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
-    section_type: linked_image_asset
-    source_line: 310k 160k 110k 75k 50k 180k 80k 55k 30k 7000 4250 1750 1100
-    unit: null
-    values:
-    - 310.0
-    - 160.0
-    - 110.0
-    - 75.0
-    - 50.0
-    - 180.0
-    - 80.0
-    - 55.0
-    - 30.0
-    - 7000.0
-  - section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
-    section_type: linked_image_asset
-    source_line: a 10.5% 41.2% 41.3% 40.6% -+0.3% 0.0% 1.2% 12.0% 0.6% 0.9% 0.1% 0.8%
-      1.5%
-    unit: pct
-    values:
-    - 10.5
-    - 41.2
-    - 41.3
-    - 40.6
-    - 0.3
-    - 1.2
-    - 12.0
-    - 0.6
-    - 0.9
-    - 0.1
-  - section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
-    section_type: linked_image_asset
-    source_line: 305k 155k 105k 70k 45k 175k 75k 50k 30k 6500 4000 1750 1100
-    unit: null
-    values:
-    - 305.0
-    - 155.0
-    - 105.0
-    - 70.0
-    - 45.0
-    - 175.0
-    - 75.0
-    - 50.0
-    - 30.0
-    - 6500.0
-  - section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
-    section_type: linked_image_asset
-    source_line: 25 40.5% +1,.3% +1.2% N/A +0.3% 0.0% 10.1% +3.7% -0.5% 0.6% - 0.0%
-      0.8% = -4.0%
-    unit: pct
-    values:
-    - 25.0
-    - 40.5
-    - 1.3
-    - 1.2
-    - 0.3
-    - 10.1
-    - 3.7
-    - -0.5
-    - 0.6
-    - 0.8
-  - section: 'Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg'
-    section_type: linked_image_asset
-    source_line: 300k 150k 105k N/A 45k 170k 75k 48k 30k 6500 4000 1750 1100
-    unit: null
-    values:
-    - 300.0
-    - 150.0
-    - 105.0
-    - 45.0
-    - 170.0
-    - 75.0
-    - 48.0
-    - 30.0
-    - 6500.0
-    - 4000.0
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - *id010
+  - *id011
+  - *id012
+  - *id013
+  - *id014
+  - *id015
+  - *id016
+  - *id017
+  - *id018
+  - *id019
+  - *id020
+  - *id021
+  - *id022
+  - *id023
+  - *id024
+  - *id025
+  - *id026
+  - *id027
+  - *id028
+  - *id029
+  - *id030
+  - *id031
+  - *id032
+  - *id033
+  - *id034
+  - *id035
+  - *id036
+  - *id037
+  - *id038
+  - *id039
+  - *id040
 source: hellenic
-source_path: corpus/02-hellenic/vessel_valuations/2023/2023-07-12_weekly-vessel-valuations-report-july-11-2023.html
+source_path: reports/hellenic/vessel_valuations/2023/2023-07-12_weekly-vessel-valuations-report-july-11-2023.html
 source_stem: 2023-07-12_weekly-vessel-valuations-report-july-11-2023
 source_url: https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-july-11-2023
 summary: 'Main
@@ -673,7 +663,7 @@ summary: 'Main
 
   Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg
 
-  Source asset: reports/hellenic/'
+  Source asset: corpus/02-helleni'
 themes:
 - capesize
 - panamax
@@ -706,7 +696,7 @@ Post Panamax London Bridge and Dubai Bridge (8,000 TEU, Mar 2024, Hyundai HI) so
 Image reference: assets/2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg
 
 Linked asset: 2023-07-12_weekly-vessel-valuations-report-july-11-2023_img1_matrix-11th-july-2023_0217a9505482.jpg
-Source asset: reports/hellenic/
+Source asset: corpus/02-helleni
 
 ## Main
 Bulkers : Values for mid-age Capesize have decreased following recent sales
@@ -729,7 +719,31 @@ Image metadata: JPEG 678x259 mode=RGB
 Embedded info:
 dpi: (96.0, 96.0)
 
-OCR text:
+[structured table]
+| O |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 11 July | 2023 |  |  |  | VV | Mini Matrix | - | Weekly | Change |  |  |  |  |
+|  |  |  | Tankers |  |  |  |  | Bulkers |  |  |  | Containers |  |
+| Age | vice | Sucz | Afra |  | MR | Cape | Pmax | Supra | Handy | oan | Pmax | Handy | Fmax |
+|  | 10.4% |  | 41.3% | 410.5% | 40.3% | 0.4% |  |  |  |  | -0.2% |  | -0.5% |
+| 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 320k | 160k | 110k | 75k | 50k | 180k | 82k | 60k | 38k | 7000 | 4250 | 1750 | 1100 |
+|  | 40.5% |  |  | 40.5% | +0.3% | 1.3% |  | = | -0.7% | +4.8% |  | — -0.8% | — +0.7% |
+| 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 320k | 160k | 110k | 75k | 50k | 180k | 80k | 60k | 38k | 7000 | 4250 | 1750 | 1100 |
+|  | 40.5% | +1.0% | +1.3% |  |  | -2.5% |  | 0.0% |  | +1.5% |  |  | — +1.0% |
+| io |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 320k | 160k | 110k | 75k | 50k | 180k | 80k | 60k | 32k | 7000 | 4250 | 1750 | 1100 |
+|  |  | 41.1% | +1.3% | +0.5% | +0.3% |  | -1.5% | +0.5% | -0.7% | 0.3% |  | -0.8% | +0.2% |
+| 1s |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 310k | 160k | 110k | 75k | 50k | 180k | 80k | 55k | 30k | 7000 | 4250 | 1750 | 1100 |
+|  | 10.5% | 41.2% | 41.3% | 40.6% | —+0.3% | 0.0% |  | 12.0% | 0.6% | 0.9% |  |  | 1.5% |
+|  | 305k | 155k | 105k | 70k | 45k | 175k | 75k | 50k | 30k | 6500 | 4000 | 1750 | 1100 |
+|  |  |  | +1.2% | N/A | +0.3% | 0.0% |  |  | -0.5% | 0.6% | — 0.0% | 0.8% | -4.0% |
+| 25 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 300k | 150k | 105k | N/A | 45k | 170k | 75k | 48k | 30k | 6500 | 4000 | 1750 | 1100 |
+
+[raw ocr]
 O vesselsValue= | $$
 11 July 2023 VV Mini Matrix - Weekly Change
 Tankers Bulkers Containers

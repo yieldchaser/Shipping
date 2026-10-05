@@ -1,0 +1,111 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_10_28_the_27_annual_fuel_oilenergy_buyers_conference__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_10_28_the_27_annual_fuel_oilenergy_buyers_conference",
+  "parent_id": null,
+  "title": "The 27 Annual Fuel Oil/Energy Buyers' Conference,",
+  "section_path": [
+    "The 27 Annual Fuel Oil/Energy Buyers' Conference,"
+  ],
+  "section_path_text": "The 27 Annual Fuel Oil/Energy Buyers' Conference,",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The 27\nSince its inception over a generation ago, the Fuel Oil/Energy Buyers' Conference hosted by Poten & Partners and Frank Swierz Associates has grown into the premier gathering of the world's fuel oil and energy buyers as well as energy service providers. This year's conference will be held October 29-31 and has maintained its traditional Miami Beach, FL location. While dwarfed by crude oil movements, fuel oil is still a pretty big business.",
+  "keywords": [
+    "china",
+    "crude_oil",
+    "oil",
+    "energy",
+    "fuel",
+    "mr.",
+    "conference",
+    "beach",
+    "demand",
+    "global",
+    "storage",
+    "world"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 497,
+  "source_path": "reports/poten/2007/poten_2007-10-28_the-27-annual-fuel-oilenergy-buyers-conference.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_10_28_the_27_annual_fuel_oilenergy_buyers_conference__s01_the_27",
+      "doc_id": "poten_tankers_no_date_poten_2007_10_28_the_27_annual_fuel_oilenergy_buyers_conference",
+      "parent_id": "poten_tankers_no_date_poten_2007_10_28_the_27_annual_fuel_oilenergy_buyers_conference__root",
+      "title": "The 27",
+      "section_path": [
+        "The 27"
+      ],
+      "section_path_text": "The 27",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Since its inception over a generation ago, the Fuel Oil/Energy Buyers' Conference hosted by Poten & Partners and Frank Swierz Associates has grown into the premier gathering of the world's fuel oil and energy buyers as well as energy service providers. This year's conference will be held October 29-31 and has maintained its traditional Miami Beach, FL location.",
+      "keywords": [
+        "crude_oil",
+        "fuel",
+        "oil",
+        "buyers",
+        "conference",
+        "energy",
+        "its",
+        "ago"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 119,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_10_28_the_27_annual_fuel_oilenergy_buyers_conference__s02_million_metric_tons",
+      "doc_id": "poten_tankers_no_date_poten_2007_10_28_the_27_annual_fuel_oilenergy_buyers_conference",
+      "parent_id": "poten_tankers_no_date_poten_2007_10_28_the_27_annual_fuel_oilenergy_buyers_conference__root",
+      "title": "Million metric tons",
+      "section_path": [
+        "Million metric tons"
+      ],
+      "section_path_text": "Million metric tons",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "year-to-date"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_10_28_the_27_annual_fuel_oilenergy_buyers_conference__s03_a_global_business",
+      "doc_id": "poten_tankers_no_date_poten_2007_10_28_the_27_annual_fuel_oilenergy_buyers_conference",
+      "parent_id": "poten_tankers_no_date_poten_2007_10_28_the_27_annual_fuel_oilenergy_buyers_conference__root",
+      "title": "A Global Business",
+      "section_path": [
+        "A Global Business"
+      ],
+      "section_path_text": "A Global Business",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "This year's conference will open with an update on United States Energy Policy. Carmen Difiglio, Deputy Assistant Secretary for Policy Analysis, Office of Policy and International Affairs, U.S.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "oil",
+        "energy",
+        "mr.",
+        "fuel",
+        "conference",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 353,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2026_07_24_another_brick_in_the_wall_v2__root",
+  "doc_id": "poten_tankers_no_date_poten_2026_07_24_another_brick_in_the_wall_v2",
+  "parent_id": null,
+  "title": "Another Brick In The Wall v2",
+  "section_path": [
+    "Another Brick In The Wall v2"
+  ],
+  "section_path_text": "Another Brick In The Wall v2",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Another Brick In The Wall\nOn July 19, Yemen's Houthi rebel movement declared a \"maritime embargo\" against Saudi Arabia. The Houthis stated that the blockade was a direct retaliation for Saudi Arabia's long- running restrictions on Yemen and a recent alleged attack on the Sanaa International Airport. On July 22, the Houthis targeted two oil tankers, the Encelia, an Aframax controlled by Saudi's Bihar International and the Layla, a Bahri VLCC.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "atlantic",
+    "europe",
+    "india",
+    "japan",
+    "crude_oil",
+    "saudi",
+    "crude",
+    "barrels"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 966,
+  "source_path": "reports/poten/2026/poten_2026-07-24_another-brick-in-the-wall-v2.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2026_07_24_another_brick_in_the_wall_v2__s01_another_brick_in_the_wall",
+      "doc_id": "poten_tankers_no_date_poten_2026_07_24_another_brick_in_the_wall_v2",
+      "parent_id": "poten_tankers_no_date_poten_2026_07_24_another_brick_in_the_wall_v2__root",
+      "title": "Another Brick In The Wall",
+      "section_path": [
+        "Another Brick In The Wall"
+      ],
+      "section_path_text": "Another Brick In The Wall",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "On July 19, Yemen's Houthi rebel movement declared a \"maritime embargo\" against Saudi Arabia. The Houthis stated that the blockade was a direct retaliation for Saudi Arabia's long- running restrictions on Yemen and a recent alleged attack on the Sanaa International Airport.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "atlantic",
+        "europe",
+        "india",
+        "japan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 960,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2026_08_14_china_to_the_rescue__root",
+  "doc_id": "poten_tankers_no_date_poten_2026_08_14_china_to_the_rescue",
+  "parent_id": null,
+  "title": "China To The Rescue",
+  "section_path": [
+    "China To The Rescue"
+  ],
+  "section_path_text": "China To The Rescue",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Will Chinese Oil Imports Recover After The Iran War? For several decades, there has been one reliable growth engine for oil demand in the world: China. China's massive growth in oil demand in the early 2000s was the primary driver of the tanker super cycle that lasted from roughly 2001 to 2009.",
+  "keywords": [
+    "china",
+    "atlantic",
+    "crude_oil",
+    "products",
+    "gas",
+    "oil",
+    "imports",
+    "mb/d",
+    "demand",
+    "its",
+    "chinese",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 948,
+  "source_path": "reports/poten/2026/poten_2026-08-14_china-to-the-rescue.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2026_08_14_china_to_the_rescue__s01_will_chinese_oil_imports_recover_after_the_iran_war",
+      "doc_id": "poten_tankers_no_date_poten_2026_08_14_china_to_the_rescue",
+      "parent_id": "poten_tankers_no_date_poten_2026_08_14_china_to_the_rescue__root",
+      "title": "Will Chinese Oil Imports Recover After The Iran War?",
+      "section_path": [
+        "Will Chinese Oil Imports Recover After The Iran War?"
+      ],
+      "section_path_text": "Will Chinese Oil Imports Recover After The Iran War?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "For several decades, there has been one reliable growth engine for oil demand in the world: China. China's massive growth in oil demand in the early 2000s was the primary driver of the tanker super cycle that lasted from roughly 2001 to 2009.",
+      "keywords": [
+        "china",
+        "atlantic",
+        "crude_oil",
+        "products",
+        "gas",
+        "oil",
+        "imports",
+        "mb/d"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 938,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

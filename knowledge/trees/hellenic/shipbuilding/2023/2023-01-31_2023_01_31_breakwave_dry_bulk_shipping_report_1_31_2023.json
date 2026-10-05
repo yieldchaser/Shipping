@@ -9,7 +9,7 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 1.31.2023",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nChinese New Year is over, now what? - One of the slowest weeks of the year in terms of Chinese activity is now\nSource: Breakwave Advisors\n\nLinked asset: 2023-01-31_breakwave-dry-bulk-shipping-report-1-31-2023_breakwavejanuary312023report_d6b65d5ae2c9.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-01-31_breakwave-dry-bulk-shipping-report-1-31-2023_breakwavejanuary312023report_d6b65d5ae2c9.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nJanuary 31, 2023\nBreakwave Dry Futures Index: 1,066 Baltic Dry Index (spot): 676 Short-term Indicators:\n↑ 30D: 3.8% ↓ 30D: -55.4% Momentum: Neutral\n↑ YTD: 3.8% ↓ YTD: -55.4% Sentiment: Neutral\n↓ YOY: -43.4% ↓ YOY: -48.1% Fundamentals: Positive\nBi-Weekly Report\n• Chinese New Year is over, now what? - One of the slowest weeks of the year in terms of Chinese activity is now\nbehind us, and the bulk commodity markets are once again looking forward to what the consensus sees as a solid\nrebound in physical demand for materials.",
+  "summary": "Main\nChinese New Year is over, now what? - One of the slowest weeks of the year in terms of Chinese activity is now\nSource: Breakwave Advisors\n\nLinked asset: 2023-01-31_breakwave-dry-bulk-shipping-report-1-31-2023_breakwavejanuary312023report_d6b65d5ae2c9.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2023-01-31_breakwave-dry-bulk-shipping-report-1-31-2023_breakwavejanuary312023report_d6b65d5ae2c9.pdf\n\n|||BDRY|||||\n|---|---|---|---|---|---|---|\n||↑ ↑ ↓|Dry Bulk Shipping Breakwave Dry Futures Index: 30D: 3.8% YTD: 3.8% YOY: -43.4%|1,066 ↓ ↓ ↓|Baltic Dry Index (spot): 30D: -55.4% YTD: -55.4% YOY: -48.1%|676 Momentum: Sentiment: Fundamentals:|January 31, 2023 Short-term Indicators: Neutral Neutral Positive|\n|• • •||Bi-Weekly Report Chinese New Year is over, now what? - Dry bulk focus shifts back to fundamentals -|quantities to support the new anticipated construction and manufacturing activity.",
   "keywords": [
     "capesize",
     "panamax",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1492,
-  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-01-31_breakwave-dry-bulk-shipping-report-1-31-2023.html",
+  "token_count": 1509,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-01-31_breakwave-dry-bulk-shipping-report-1-31-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-1-31-2023",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-01-31_breakwave-dry-bulk-shipping-report-1-31-2023_breakwavejanuary312023report_d6b65d5ae2c9.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-01-31_breakwave-dry-bulk-shipping-report-1-31-2023_breakwavejanuary312023report_d6b65d5ae2c9.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nJanuary 31, 2023\nBreakwave Dry Futures Index: 1,066 Baltic Dry Index (spot): 676 Short-term Indicators:\n↑ 30D: 3.8% ↓ 30D: -55.4% Momentum: Neutral\n↑ YTD: 3.8% ↓ YTD: -55.4% Sentiment: Neutral\n↓ YOY: -43.4% ↓ YOY: -48.1% Fundamentals: Positive\nBi-Weekly Report\n• Chinese New Year is over, now what? - One of the slowest weeks of the year in terms of Chinese activity is now\nbehind us, and the bulk commodity markets are once again looking forward to what the consensus sees as a solid\nrebound in physical demand for materials.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-01-31_breakwave-dry-bulk-shipping-report-1-31-2023_breakwavejanuary312023report_d6b65d5ae2c9.pdf\n\n|||BDRY|||||\n|---|---|---|---|---|---|---|\n||↑ ↑ ↓|Dry Bulk Shipping Breakwave Dry Futures Index: 30D: 3.8% YTD: 3.8% YOY: -43.4%|1,066 ↓ ↓ ↓|Baltic Dry Index (spot): 30D: -55.4% YTD: -55.4% YOY: -48.1%|676 Momentum: Sentiment: Fundamentals:|January 31, 2023 Short-term Indicators: Neutral Neutral Positive|\n|• • •||Bi-Weekly Report Chinese New Year is over, now what? - Dry bulk focus shifts back to fundamentals -|quantities to support the new anticipated construction and manufacturing activity.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1412,
+      "token_count": 1429,
       "section_type": "linked_pdf",
       "children": []
     }

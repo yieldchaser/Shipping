@@ -1,0 +1,225 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_08_10_ever_volatile_times__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_08_10_ever_volatile_times",
+  "parent_id": null,
+  "title": "Ever Volatile Times",
+  "section_path": [
+    "Ever Volatile Times"
+  ],
+  "section_path_text": "Ever Volatile Times",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Ever Volatile Times\nLife has always been volatile in the tanker industry. While market participants are accustomed to long-term changes in rates, volatility in daily rates is clearly increasing. An analysis of ten years' worth of data suggests greater recent volatility of Worldscale rates for aframaxes in the Caribbean/USA trade.",
+  "keywords": [
+    "aframax",
+    "brazil",
+    "us_gulf",
+    "average",
+    "monthly",
+    "july",
+    "volatility",
+    "below",
+    "high",
+    "day",
+    "deviation",
+    "low"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 552,
+  "source_path": "reports/poten/2007/poten_2007-08-10_ever-volatile-times.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_08_10_ever_volatile_times__s01_ever_volatile_times",
+      "doc_id": "poten_tankers_no_date_poten_2007_08_10_ever_volatile_times",
+      "parent_id": "poten_tankers_no_date_poten_2007_08_10_ever_volatile_times__root",
+      "title": "Ever Volatile Times",
+      "section_path": [
+        "Ever Volatile Times"
+      ],
+      "section_path_text": "Ever Volatile Times",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Life has always been volatile in the tanker industry. While market participants are accustomed to long-term changes in rates, volatility in daily rates is clearly increasing.",
+      "keywords": [
+        "aframax",
+        "us_gulf",
+        "volatility",
+        "average",
+        "greater",
+        "increasing.",
+        "july",
+        "period"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 156,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_08_10_ever_volatile_times__s02_average",
+      "doc_id": "poten_tankers_no_date_poten_2007_08_10_ever_volatile_times",
+      "parent_id": "poten_tankers_no_date_poten_2007_08_10_ever_volatile_times__root",
+      "title": "Average",
+      "section_path": [
+        "Average"
+      ],
+      "section_path_text": "Average",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "deviation",
+        "high",
+        "low",
+        "standard"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_08_10_ever_volatile_times__s03_ws_rate",
+      "doc_id": "poten_tankers_no_date_poten_2007_08_10_ever_volatile_times",
+      "parent_id": "poten_tankers_no_date_poten_2007_08_10_ever_volatile_times__root",
+      "title": "WS Rate",
+      "section_path": [
+        "WS Rate"
+      ],
+      "section_path_text": "WS Rate",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "1997 to 2002 2003 to July 2007 Change, 2nd Half-1st Half Average 153.6 211.5 57.9 Low 100.9 127.5 26.6 High 361.3 403.6 42.3 Standard Deviation 57.9 64.5 6.6",
+      "keywords": [
+        "average",
+        "change",
+        "deviation",
+        "half",
+        "half-1st",
+        "high",
+        "july",
+        "low"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 78,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_08_10_ever_volatile_times__s04_average_performance",
+      "doc_id": "poten_tankers_no_date_poten_2007_08_10_ever_volatile_times",
+      "parent_id": "poten_tankers_no_date_poten_2007_08_10_ever_volatile_times__root",
+      "title": "Average Performance",
+      "section_path": [
+        "Average Performance"
+      ],
+      "section_path_text": "Average Performance",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The chart below contrasts the monthly average January to July 2007 Aframax Worldscale rate for this voyage to rates from 1997 to 2006. Through July of this year, average monthly rates appear to travel around their counterpart averages during 1997 to 2006.",
+      "keywords": [
+        "aframax",
+        "us_gulf",
+        "monthly",
+        "average",
+        "during",
+        "historic",
+        "july",
+        "not"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 156,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_08_10_ever_volatile_times__s05_min",
+      "doc_id": "poten_tankers_no_date_poten_2007_08_10_ever_volatile_times",
+      "parent_id": "poten_tankers_no_date_poten_2007_08_10_ever_volatile_times__root",
+      "title": "Min",
+      "section_path": [
+        "Min"
+      ],
+      "section_path_text": "Min",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Max Aframax Average WS Std Dev Jan to Jul 2007",
+      "keywords": [
+        "aframax",
+        "average",
+        "dev",
+        "jan",
+        "jul",
+        "max",
+        "std"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_08_10_ever_volatile_times__s06_recent_rate_variability",
+      "doc_id": "poten_tankers_no_date_poten_2007_08_10_ever_volatile_times",
+      "parent_id": "poten_tankers_no_date_poten_2007_08_10_ever_volatile_times__root",
+      "title": "Recent Rate Variability",
+      "section_path": [
+        "Recent Rate Variability"
+      ],
+      "section_path_text": "Recent Rate Variability",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "As shown below, Aframax rates have clearly drifted downward through 2007 and even flirted with WS 100 earlier this week.",
+      "keywords": [
+        "aframax",
+        "below",
+        "clearly",
+        "downward",
+        "drifted",
+        "earlier",
+        "even",
+        "flirted"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 27,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_08_10_ever_volatile_times__s07_ws",
+      "doc_id": "poten_tankers_no_date_poten_2007_08_10_ever_volatile_times",
+      "parent_id": "poten_tankers_no_date_poten_2007_08_10_ever_volatile_times__root",
+      "title": "WS",
+      "section_path": [
+        "WS"
+      ],
+      "section_path_text": "WS",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "One Day WS Change Poten At WS rates of 105, modern vessels earn about $8,000 per day on a timecharter equivalent basis. This is far below the nearly $60,000 per day being earned earlier in the year.",
+      "keywords": [
+        "brazil",
+        "day",
+        "per",
+        "basis.",
+        "being",
+        "below",
+        "change",
+        "combined"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 90,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

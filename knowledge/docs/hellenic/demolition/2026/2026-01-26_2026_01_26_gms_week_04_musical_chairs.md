@@ -8,6 +8,7 @@ commodities:
 date: '2026-01-26'
 doc_id: hellenic_demolition_2026-01-26_2026_01_26_gms_week_04_musical_chairs
 document_type: demolition_update
+is_error_page: false
 key_entities:
 - China
 keywords:
@@ -68,10 +69,11 @@ numeric_observations:
   - -1.0
   - -26.0
   - 4.0
+  - 1.0
   - 26012026.0
   - 35.0
-  - 7.0
-  - 925.0
+  - 37.0
+  - 3925.0
 - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: January 23rd, 2026 "Your present circumstances don't determine where
@@ -237,6 +239,7 @@ numeric_observations:
   unit: null
   values:
   - 278.19
+  - 1.0
 - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
   source_line: 2025. Local steel plate prices too , after improving to current levels
@@ -586,9 +589,9 @@ numeric_observations:
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
   values:
-  - 30.21
+  - 30210.0
   - 899.0669
-  - 91.278
+  - 91278.0
   - 300.5253
 - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf'
   section_type: linked_pdf
@@ -613,7 +616,7 @@ numeric_observations:
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
   values:
-  - 86.216
+  - 86216.0
   - 75.19
   - 82.1
   - 4650.072
@@ -635,17 +638,18 @@ numeric_observations:
   - -1.0
   - -26.0
   - 4.0
+  - 1.0
   - 26012026.0
   - 35.0
-  - 7.0
-  - 925.0
+  - 37.0
+  - 3925.0
 - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_img1_26012026v_35ffa37d3925.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 687x153 mode=RGB'
   unit: null
   values:
   - 687.0
-  - 53.0
+  - 153.0
 - section: 'Linked asset: 2026-01-26_gms-week-04-musical-chairs_img1_26012026v_35ffa37d3925.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'

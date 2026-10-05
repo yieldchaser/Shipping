@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_06_17_topping_off_the_us_strategic_petroleum_reserve__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_06_17_topping_off_the_us_strategic_petroleum_reserve",
+  "parent_id": null,
+  "title": "Topping Off the U.S. Strategic Petroleum Reserve",
+  "section_path": [
+    "Topping Off the U.S. Strategic Petroleum Reserve"
+  ],
+  "section_path_text": "Topping Off the U.S. Strategic Petroleum Reserve",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Strategic Petroleum Reserve\nThe Strategic Petroleum Reserve (SPR) was established in December 1975 as a consequence of the Arab oil embargo of 1973. Its purpose was to have a 700 million barrel reserve of crude oil in the event the United States faced another embargo. The SPR received its first shipment in October 1977 after the salt dome storage facilities in the U.S.",
+  "keywords": [
+    "aframax",
+    "meg",
+    "crude_oil",
+    "spr",
+    "crude",
+    "oil",
+    "u.s.",
+    "inventories",
+    "million",
+    "was",
+    "commercial",
+    "disruptions"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 750,
+  "source_path": "reports/poten/2005/poten_2005-06-17_topping-off-the-us-strategic-petroleum-reserve.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_06_17_topping_off_the_us_strategic_petroleum_reserve__s01_topping_off_the_u_s_strategic_petroleum_reserve",
+      "doc_id": "poten_tankers_no_date_poten_2005_06_17_topping_off_the_us_strategic_petroleum_reserve",
+      "parent_id": "poten_tankers_no_date_poten_2005_06_17_topping_off_the_us_strategic_petroleum_reserve__root",
+      "title": "Topping Off the U.S. Strategic Petroleum Reserve",
+      "section_path": [
+        "Topping Off the U.S. Strategic Petroleum Reserve"
+      ],
+      "section_path_text": "Topping Off the U.S. Strategic Petroleum Reserve",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Strategic Petroleum Reserve (SPR) was established in December 1975 as a consequence of the Arab oil embargo of 1973. Its purpose was to have a 700 million barrel reserve of crude oil in the event the United States faced another embargo.",
+      "keywords": [
+        "crude_oil",
+        "its",
+        "spr",
+        "oil",
+        "reserve",
+        "was",
+        "after",
+        "another"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 103,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_06_17_topping_off_the_us_strategic_petroleum_reserve__s02_u_s_strategic_petroleum_reserve",
+      "doc_id": "poten_tankers_no_date_poten_2005_06_17_topping_off_the_us_strategic_petroleum_reserve",
+      "parent_id": "poten_tankers_no_date_poten_2005_06_17_topping_off_the_us_strategic_petroleum_reserve__root",
+      "title": "U.S. Strategic Petroleum Reserve",
+      "section_path": [
+        "U.S. Strategic Petroleum Reserve"
+      ],
+      "section_path_text": "U.S. Strategic Petroleum Reserve",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "It took 15 years for the SPR to reach 600 million barrels (1990) and remained near that level until President George W. Bush's election in 2000 when the fill resumed.",
+      "keywords": [
+        "crude_oil",
+        "spr",
+        "crude",
+        "barrels",
+        "could",
+        "fill",
+        "million",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 209,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_06_17_topping_off_the_us_strategic_petroleum_reserve__s03_u_s_commercial_crude_oil_inventories",
+      "doc_id": "poten_tankers_no_date_poten_2005_06_17_topping_off_the_us_strategic_petroleum_reserve",
+      "parent_id": "poten_tankers_no_date_poten_2005_06_17_topping_off_the_us_strategic_petroleum_reserve__root",
+      "title": "U.S. Commercial Crude Oil Inventories",
+      "section_path": [
+        "U.S. Commercial Crude Oil Inventories"
+      ],
+      "section_path_text": "U.S. Commercial Crude Oil Inventories",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "commercial crude inventories declined sharply during the Iranian Revolution in 1979 when Iranian supply to the world market was severely curtailed. This was unsettling to the oil companies and commercial inventories rose dramatically peaking in 1981.",
+      "keywords": [
+        "crude_oil",
+        "inventories",
+        "was",
+        "commercial",
+        "considered",
+        "crude",
+        "inventory",
+        "inventory."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 150,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_06_17_topping_off_the_us_strategic_petroleum_reserve__s04_oil_company",
+      "doc_id": "poten_tankers_no_date_poten_2005_06_17_topping_off_the_us_strategic_petroleum_reserve",
+      "parent_id": "poten_tankers_no_date_poten_2005_06_17_topping_off_the_us_strategic_petroleum_reserve__root",
+      "title": "Oil Company",
+      "section_path": [
+        "Oil Company"
+      ],
+      "section_path_text": "Oil Company",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Government A goodly portion of U.S. imports of 13 million bpd is not exposed to a high risk of disruption such as imports from Mexico, Canada, and the North Sea.",
+      "keywords": [
+        "aframax",
+        "meg",
+        "crude_oil",
+        "spr",
+        "imports",
+        "bpd",
+        "disruptions",
+        "sources"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 257,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1506,
-  "source_path": "corpus/02-hellenic/vessel_valuations/2021/2021-10-05_weekly-vessel-valuations-report-october-05-2021.html",
+  "token_count": 2247,
+  "source_path": "reports/hellenic/vessel_valuations/2021/2021-10-05_weekly-vessel-valuations-report-october-05-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-october-05-2021",
   "children": [
     {
@@ -69,20 +69,20 @@
       "section_path_text": "Linked asset: 2021-10-05_weekly-vessel-valuations-report-october-05-2021_img1_20211005_14b7e2e27753.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2021/assets/2021-10-05_weekly-vessel-valuations-report-october-05-2021_img1_20211005_14b7e2e27753.jpg\n\nLinked image asset: 2021-10-05_weekly-vessel-valuations-report-october-05-2021_img1_20211005_14b7e2e27753.jpg\n\nImage metadata: JPEG 678x281 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\noO VesselsValue™ -_-_-S-sX-_-SEwr aa HE]\n05 October 2021 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge VLCC Suez Afra LR1 MR Cape Pmax Supra Handy Pea Pmax Handy = Fmax\n0 40.7% +0.7% +2.5% +1.3% +0.2% +1.1% +1.4% +1.0% +1.5% 41.5% +0.1% -0.1% +0.7%\n320K 160K 110K 75K SOK 180K 82K 60K 37K 7000 4250 1750 1100\n5 40.7% -0.1% +2.0% +1.6% +0.2% 40.8% +1.2% +1.1% -1.7% +1.3% +0.1% +0.0% +0.3%\n320K 160K 110K 75K SOK 180K 80K 60K 30K 7000 4250 1750 1100\n10 40.7% -1.8% +1.0% +2.5% +0.3% +1.0% +1.8% +1.0% -2.5% 40.9% +0.0% +0.1% +0.3%\n310K 160K 110K 75K SOK 180K 80K 60K 30K 7000 4250 1750 1100\n15 40.7% -3.1% +0.5% +3.8% +0.3% 42.3% +3.1% +1.0% -2.0% 40.9% +0.0% +0.2% +0.7%\n310K 160K 110K 70K 45K 180K 75K SSK 30K 7000 4250 1750 1100\n20 0.8% -0.8% -0.9% -0.B% -0.8% 0.8% +5.0% +1.0% +0.2% 41.7% -0.1% +0.4% +1.2%\n300K 155K 105K 70K 45K 175K 75",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2021/assets/2021-10-05_weekly-vessel-valuations-report-october-05-2021_img1_20211005_14b7e2e27753.jpg\n\nLinked image asset: 2021-10-05_weekly-vessel-valuations-report-october-05-2021_img1_20211005_14b7e2e27753.jpg\n\nImage metadata: JPEG 678x281 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\n[structured table]\n| | | | | | AAA | | | | | | |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| 05 October | 2021 | | | VV Mini Matrix | - | Weekly | Change | | | | |\n| | | | Tankers | | | Bulkers | | | | containers | |\n| Age | vicc | Suez | Afra | Cape | Pmax | Supra | Handy | pO' | pmax | Handy | Fmax |\n| | 107% | 10.7% | | | | 11.0% | 41.5% | 41.5% | 40.1% | 0.1% | 40.7% |\n| | 320K | 160K | 110K | | | | | | | | |\n| | 10.7% | 0.1% | 12.0% 11.6% | 40.2% 40.0% | 41.2% | | | 11.3% | 10.1% | 10.0% | 10.9% |\n| | \"320% | 160K | 110K | | | | 30K | | | | |\n| | 10.7% | \"1.8% | 42.5% | 10.3% 11.0% | | 1.0% | -2.5% | 40.9% | 10.0% | 10.1% | 10.3% |\n| o | | | | | | | | | | | |\n| | 310K | 160K | | | | | | | | «17501100 | |\n| | 107% | 21% | 105% 13.0% | 103% 47.3% | 42:19 | 11.0% | -2.0% | 10.9% | 10.0% | 10.2% | 10.7% |\n| | \"310K | 160K | 10K | | | | | 7000 | ",
       "keywords": [
         "capesize",
         "supramax",
         "handysize",
         "vlcc",
         "container",
-        "sok",
-        "asset",
-        "handy"
+        "handy",
+        "pmax",
+        "n/a"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 809,
+      "token_count": 1550,
       "section_type": "linked_image_asset",
       "children": []
     }

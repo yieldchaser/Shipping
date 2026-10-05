@@ -1,0 +1,141 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_07_02_harbinger_wind__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_07_02_harbinger_wind",
+  "parent_id": null,
+  "title": "Harbinger Wind?",
+  "section_path": [
+    "Harbinger Wind?"
+  ],
+  "section_path_text": "Harbinger Wind?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "After threatening to follow a path that some projections showed would send it through the heart of the U.S. Gulf of Mexico, Hurricane Alex weakened into a topical depression which broke up over central Mexico this week. Alex peaked on Wednesday as a Category 2 storm which forced the temporary closure of more than 20 percent of domestic crude oil output and delayed ongoing efforts to clean and contain oil spewing from the nearby Macando well.",
+  "keywords": [
+    "atlantic",
+    "us_gulf",
+    "crude_oil",
+    "hurricane",
+    "oil",
+    "alex",
+    "gulf",
+    "production",
+    "storm",
+    "mexico",
+    "hurricanes",
+    "ports"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 784,
+  "source_path": "reports/poten/2010/poten_2010-07-02_harbinger-wind.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_07_02_harbinger_wind__s01_harbinger_wind",
+      "doc_id": "poten_tankers_no_date_poten_2010_07_02_harbinger_wind",
+      "parent_id": "poten_tankers_no_date_poten_2010_07_02_harbinger_wind__root",
+      "title": "Harbinger Wind?",
+      "section_path": [
+        "Harbinger Wind?"
+      ],
+      "section_path_text": "Harbinger Wind?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "After threatening to follow a path that some projections showed would send it through the heart of the U.S. Gulf of Mexico, Hurricane Alex weakened into a topical depression which broke up over central Mexico this week.",
+      "keywords": [
+        "atlantic",
+        "us_gulf",
+        "crude_oil",
+        "hurricane",
+        "alex",
+        "storm",
+        "mexico",
+        "season"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 263,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_07_02_harbinger_wind__s02_closures_outages",
+      "doc_id": "poten_tankers_no_date_poten_2010_07_02_harbinger_wind",
+      "parent_id": "poten_tankers_no_date_poten_2010_07_02_harbinger_wind__root",
+      "title": "Closures & Outages",
+      "section_path": [
+        "Closures & Outages"
+      ],
+      "section_path_text": "Closures & Outages",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "While Hurricane Alex did not come into direct contact with the main oil spill region, the storm did force closures of important oil loading ports and production sites this week. The Louisiana Offshore Oil Port was forced to halt offloading operations on June 29 and two of Mexico's main oil ports on the Gulf Coast were also forced to briefly close.",
+      "keywords": [
+        "us_gulf",
+        "crude_oil",
+        "oil",
+        "production",
+        "ports",
+        "forced",
+        "gulf",
+        "hurricane"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 245,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_07_02_harbinger_wind__s03_hurricane_katrina",
+      "doc_id": "poten_tankers_no_date_poten_2010_07_02_harbinger_wind",
+      "parent_id": "poten_tankers_no_date_poten_2010_07_02_harbinger_wind__root",
+      "title": "Hurricane Katrina",
+      "section_path": [
+        "Hurricane Katrina"
+      ],
+      "section_path_text": "Hurricane Katrina",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "gustav",
+        "hurricanes",
+        "ike"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_07_02_harbinger_wind__s04_offshore_field_production",
+      "doc_id": "poten_tankers_no_date_poten_2010_07_02_harbinger_wind",
+      "parent_id": "poten_tankers_no_date_poten_2010_07_02_harbinger_wind__root",
+      "title": "Offshore Field Production",
+      "section_path": [
+        "Offshore Field Production"
+      ],
+      "section_path_text": "Offshore Field Production",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "This storm also offered a preview of the challenges future storms might pose to clean‐up and recovery efforts in the U.S. Hurricane Alex's fierce winds brought oil‐filled waves to area beaches and raised fears that more oil would be brought into local wetlands.",
+      "keywords": [
+        "us_gulf",
+        "crude_oil",
+        "hurricane",
+        "oil",
+        "alex",
+        "efforts",
+        "gulf",
+        "well"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 249,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

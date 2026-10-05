@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2006_02_10_greeks_and_norwegians_talk_ships__root",
+  "doc_id": "poten_tankers_no_date_poten_2006_02_10_greeks_and_norwegians_talk_ships",
+  "parent_id": null,
+  "title": "Greeks and Norwegians Talk Ships",
+  "section_path": [
+    "Greeks and Norwegians Talk Ships"
+  ],
+  "section_path_text": "Greeks and Norwegians Talk Ships",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Greeks and Norwegians Talk Ships\nThe Twelfth Annual Shipping Conference of the Hellenic and the Norwegian-American Chambers of Commerce was held in New York on February 7 th . This year's theme was \"The Image of Shipping: Perception and Reality.\" As always, the event draws together one of the best cross-sections of industry leaders. This year's conference was no different.",
+  "keywords": [
+    "crude_oil",
+    "was",
+    "companies",
+    "investors",
+    "are",
+    "conference",
+    "act",
+    "image",
+    "jones",
+    "mr.",
+    "perception",
+    "trading"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 960,
+  "source_path": "reports/poten/2006/poten_2006-02-10_greeks-and-norwegians-talk-ships.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_02_10_greeks_and_norwegians_talk_ships__s01_greeks_and_norwegians_talk_ships",
+      "doc_id": "poten_tankers_no_date_poten_2006_02_10_greeks_and_norwegians_talk_ships",
+      "parent_id": "poten_tankers_no_date_poten_2006_02_10_greeks_and_norwegians_talk_ships__root",
+      "title": "Greeks and Norwegians Talk Ships",
+      "section_path": [
+        "Greeks and Norwegians Talk Ships"
+      ],
+      "section_path_text": "Greeks and Norwegians Talk Ships",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Twelfth Annual Shipping Conference of the Hellenic and the Norwegian-American Chambers of Commerce was held in New York on February 7 th . This year's theme was \"The Image of Shipping: Perception and Reality.\" As always, the event draws together one of the best cross-sections of industry leaders.",
+      "keywords": [
+        "crude_oil",
+        "investors",
+        "companies",
+        "image",
+        "perception",
+        "was",
+        "grey",
+        "operations"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 502,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_02_10_greeks_and_norwegians_talk_ships__s02_jones_act_resurrection",
+      "doc_id": "poten_tankers_no_date_poten_2006_02_10_greeks_and_norwegians_talk_ships",
+      "parent_id": "poten_tankers_no_date_poten_2006_02_10_greeks_and_norwegians_talk_ships__root",
+      "title": "Jones Act Resurrection",
+      "section_path": [
+        "Jones Act Resurrection"
+      ],
+      "section_path_text": "Jones Act Resurrection",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Stephen Van Dyck , Chairman of Intertanko, moderated the portion of the conference on the Jones Act fleet. The featured speaker was Morten Arntzen , President and CEO of Overseas Shipholding Group.",
+      "keywords": [
+        "act",
+        "are",
+        "arntzen",
+        "five",
+        "jones",
+        "two",
+        "bareboat",
+        "charters"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 240,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_02_10_greeks_and_norwegians_talk_ships__s03_forward_freight_agreements",
+      "doc_id": "poten_tankers_no_date_poten_2006_02_10_greeks_and_norwegians_talk_ships",
+      "parent_id": "poten_tankers_no_date_poten_2006_02_10_greeks_and_norwegians_talk_ships__root",
+      "title": "Forward Freight Agreements",
+      "section_path": [
+        "Forward Freight Agreements"
+      ],
+      "section_path_text": "Forward Freight Agreements",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The last part of the conference was on the FFA market and whether the market was informative, liquid, and transparent. A key speaker was Per Heilmann of Heidenreich Marine.",
+      "keywords": [
+        "ffa",
+        "trading",
+        "was",
+        "counterparties",
+        "make",
+        "account",
+        "accurately",
+        "actual"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 170,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_02_10_greeks_and_norwegians_talk_ships__s04_see_you_next_year",
+      "doc_id": "poten_tankers_no_date_poten_2006_02_10_greeks_and_norwegians_talk_ships",
+      "parent_id": "poten_tankers_no_date_poten_2006_02_10_greeks_and_norwegians_talk_ships__root",
+      "title": "See You Next Year!",
+      "section_path": [
+        "See You Next Year!"
+      ],
+      "section_path_text": "See You Next Year!",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "With a distinguished list of speakers and panels, this event should be on everyone's \"don't miss\" list.",
+      "keywords": [
+        "distinguished",
+        "don",
+        "event",
+        "everyone",
+        "list",
+        "list.",
+        "miss",
+        "panels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 23,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

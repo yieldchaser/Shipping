@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNEW BUILDING :In tankers this week, Clients of Eastern Mediterranean Maritime are reported to have ordered two firm 115k dwt LR2's at Daehan\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2021-12-10_clarkson-platou-hellas-sp-weekly-bulletin-130_report-10-12-2021_04096d02777b.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2021-12-10_clarkson-platou-hellas-sp-weekly-bulletin-130_report-10-12-2021_04096d02777b.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 10 December 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 02/22\nCAPE TREASURE 180,201 2007 KOYO MAN-B&W 6S70MC-C USD 21.5 M S. KOREANS\nDD 02/22\nMAN-B&W 5S60MC-C8 SS 08/22\nGEORGE P 81,569 2012 GUANGZHOU LONGXUE\nTier II DD 08/22\nUSD 39M EN BLOC GREEKS\nMAN-B&W 5S60MC-C8 SS 09/26\nEGYPTIAN MIKE 81,600 2011 GUANGZHOU LONGXUE\nBWTS fitted DD 08/24\nMAN-B&W 6S50MC-C SS 04/22\nUNIVERSAL BANGKOK 56,729 2012 QINGSHAN HIGH USD 16 M U/D\n4 x 30 T DD 04/22\nMAN-B&W 6S50MC-C\nSS 12/25\nUNIVERSAL BREMEN 56,729 2010 QINGSHAN 4 x 30 T HIGH USD 15 M GREEKS\nDD 01/24\nBWTS fitted\nMAN-B&W 6S42MC\nSS 05/24\nTARGA 28,419 2009 IMABARI 4 x 30 T USD 14.1 M U/D\nDD 03/22\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT ",
+  "summary": "Main\nNEW BUILDING :In tankers this week, Clients of Eastern Mediterranean Maritime are reported to have ordered two firm 115k dwt LR2's at Daehan\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2021-12-10_clarkson-platou-hellas-sp-weekly-bulletin-130_report-10-12-2021_04096d02777b.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2021-12-10_clarkson-platou-hellas-sp-weekly-bulletin-130_report-10-12-2021_04096d02777b.pdf\n\n# ` Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 10 December 2021\n\n## BULK CARRIERS\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|CAPE TREASURE|180,201|2007 KOYO|MAN-B&W 6S70MC-C|SS 02/22 DD 02/22|USD 21.5 M|S. KOREANS|\n|GEORGE P|81,569|2012 GUANGZHOU LONGXUE|MAN-B&W 5S60MC -C8 Tier II|SS 08/22 DD 08/22|USD 39M EN BLOC|GREEKS|\n|EGYPTIAN MIKE|81,600|2011 GUANGZHOU LONGXUE|MAN-B&W 5S60MC -C8 BWTS fitted|SS 09/26 DD 08/24|||\n|UNIVERSAL BANGKOK|56,729|2012 QINGSHAN|MAN-B&W 6S50MC -C 4 x 30 T|SS 04/22 DD 04/22|HIGH USD 16 M|U/D|\n|UNIVERSAL BREMEN|56,729|2010 QINGSHAN|MAN-B&W 6S50MC-C 4 x 30 T BWTS fitted|SS 12/25 DD 01/24|HIGH USD 15 M|GREEKS|\n|TARGA|28,419|2009 IMABARI|MAN-B&W 6S42MC 4 x 30 T BWTS fitted|SS 05/24 DD 03/22|USD 1",
   "keywords": [
     "capesize",
     "lng",
@@ -18,16 +18,16 @@
     "india",
     "steel",
     "gas",
-    "any",
-    "information",
-    "clarksons",
     "platou",
-    "dwt"
+    "clarksons",
+    "any",
+    "dwt",
+    "its"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2030,
-  "source_path": "corpus/02-hellenic/shipbuilding/2021/2021-12-10_clarkson-platou-hellas-sp-weekly-bulletin-130.html",
+  "token_count": 2295,
+  "source_path": "reports/hellenic/shipbuilding/2021/2021-12-10_clarkson-platou-hellas-sp-weekly-bulletin-130.html",
   "source_url": "https://www.hellenicshippingnews.com/clarkson-platou-hellas-sp-weekly-bulletin-130",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2021-12-10_clarkson-platou-hellas-sp-weekly-bulletin-130_report-10-12-2021_04096d02777b.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-12-10_clarkson-platou-hellas-sp-weekly-bulletin-130_report-10-12-2021_04096d02777b.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 10 December 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 02/22\nCAPE TREASURE 180,201 2007 KOYO MAN-B&W 6S70MC-C USD 21.5 M S. KOREANS\nDD 02/22\nMAN-B&W 5S60MC-C8 SS 08/22\nGEORGE P 81,569 2012 GUANGZHOU LONGXUE\nTier II DD 08/22\nUSD 39M EN BLOC GREEKS\nMAN-B&W 5S60MC-C8 SS 09/26\nEGYPTIAN MIKE 81,600 2011 GUANGZHOU LONGXUE\nBWTS fitted DD 08/24\nMAN-B&W 6S50MC-C SS 04/22\nUNIVERSAL BANGKOK 56,729 2012 QINGSHAN HIGH USD 16 M U/D\n4 x 30 T DD 04/22\nMAN-B&W 6S50MC-C\nSS 12/25\nUNIVERSAL BREMEN 56,729 2010 QINGSHAN 4 x 30 T HIGH USD 15 M GREEKS\nDD 01/24\nBWTS fitted\nMAN-B&W 6S42MC\nSS 05/24\nTARGA 28,419 2009 IMABARI 4 x 30 T USD 14.1 M U/D\nDD 03/22\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 6S50ME-C SS 02/25\nHIGH VALOR 46,976 2005 STX USD 10.4 M U/D\nIMO II/III, BWTS fitted DD 05/23\nPage 1 of 3\n\n[Page 2]\n1\nSale and Purchase\nHellas S&P Weekly Bulletin 10 December 2021\nNEW BUILDING\nIn tankers this week, Clients of Eastern Mediterranean Mar",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-12-10_clarkson-platou-hellas-sp-weekly-bulletin-130_report-10-12-2021_04096d02777b.pdf\n\n# ` Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 10 December 2021\n\n## BULK CARRIERS\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|CAPE TREASURE|180,201|2007 KOYO|MAN-B&W 6S70MC-C|SS 02/22 DD 02/22|USD 21.5 M|S. KOREANS|\n|GEORGE P|81,569|2012 GUANGZHOU LONGXUE|MAN-B&W 5S60MC -C8 Tier II|SS 08/22 DD 08/22|USD 39M EN BLOC|GREEKS|\n|EGYPTIAN MIKE|81,600|2011 GUANGZHOU LONGXUE|MAN-B&W 5S60MC -C8 BWTS fitted|SS 09/26 DD 08/24|||\n|UNIVERSAL BANGKOK|56,729|2012 QINGSHAN|MAN-B&W 6S50MC -C 4 x 30 T|SS 04/22 DD 04/22|HIGH USD 16 M|U/D|\n|UNIVERSAL BREMEN|56,729|2010 QINGSHAN|MAN-B&W 6S50MC-C 4 x 30 T BWTS fitted|SS 12/25 DD 01/24|HIGH USD 15 M|GREEKS|\n|TARGA|28,419|2009 IMABARI|MAN-B&W 6S42MC 4 x 30 T BWTS fitted|SS 05/24 DD 03/22|USD 14.1 M|U/D|\n\n## <u>TANKERS - CHEMICALS - LPG/LNGs</u>\n\nVESSEL <u>DWT</u> BLT DETAILS <u>SS/DD</u> PRICE BUYER\n\n**HIGH VALOR** 46,976 2005 STX MAN IMO II/III -B&W 6S50ME, BWTS fitted -C DD 05/23 SS 02/25 USD 10.4 M U/D\n\n## NEW BUILDING\n\nIn tankers this week, Clients of Eastern Mediterranean ",
       "keywords": [
         "capesize",
         "lng",
@@ -78,11 +78,11 @@
         "india",
         "steel",
         "gas",
-        "any"
+        "clarksons"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1939,
+      "token_count": 2204,
       "section_type": "linked_pdf",
       "children": []
     }

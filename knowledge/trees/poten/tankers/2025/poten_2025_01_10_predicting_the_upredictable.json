@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2025_01_10_predicting_the_upredictable__root",
+  "doc_id": "poten_tankers_no_date_poten_2025_01_10_predicting_the_upredictable",
+  "parent_id": null,
+  "title": "Predicting The Upredictable",
+  "section_path": [
+    "Predicting The Upredictable"
+  ],
+  "section_path_text": "Predicting The Upredictable",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Predicting The Unpredictable\nWe are continuing our annual forecasting series and for 2025, we have another set of predictions for the market that we think are possible developments. The highly uncertain economic and (geo) political situation in the world today makes this forecast even more challenging than normal. However, we think that it is important to go through the mental exercise, organize our thoughts and anticipate alternative future developments.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "india",
+    "crude_oil",
+    "products",
+    "gas",
+    "trump",
+    "exports",
+    "oil",
+    "sanctions"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 921,
+  "source_path": "reports/poten/2025/poten_2025-01-10_predicting-the-upredictable.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2025_01_10_predicting_the_upredictable__s01_predicting_the_unpredictable",
+      "doc_id": "poten_tankers_no_date_poten_2025_01_10_predicting_the_upredictable",
+      "parent_id": "poten_tankers_no_date_poten_2025_01_10_predicting_the_upredictable__root",
+      "title": "Predicting The Unpredictable",
+      "section_path": [
+        "Predicting The Unpredictable"
+      ],
+      "section_path_text": "Predicting The Unpredictable",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "We are continuing our annual forecasting series and for 2025, we have another set of predictions for the market that we think are possible developments. The highly uncertain economic and (geo) political situation in the world today makes this forecast even more challenging than normal.",
+      "keywords": [
+        "suezmax",
+        "aframax",
+        "china",
+        "india",
+        "crude_oil",
+        "products",
+        "gas",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 593,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2025_01_10_predicting_the_upredictable__s02_4_iranian_exports_will_decline_from_their_recent_highs",
+      "doc_id": "poten_tankers_no_date_poten_2025_01_10_predicting_the_upredictable",
+      "parent_id": "poten_tankers_no_date_poten_2025_01_10_predicting_the_upredictable__root",
+      "title": "4. Iranian exports will decline from their recent highs",
+      "section_path": [
+        "4. Iranian exports will decline from their recent highs"
+      ],
+      "section_path_text": "4. Iranian exports will decline from their recent highs",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Iranian exports have staged a remarkable recovery in recent years (see Chart 1). During the previous Trump presidency, Iranian exports dropped to below 500,000 b/d.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "crude_oil",
+        "exports",
+        "iranian",
+        "sanctions"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 310,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

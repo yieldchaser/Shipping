@@ -1,0 +1,324 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain__root",
+  "doc_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain",
+  "parent_id": null,
+  "title": "Hurricane Sandy Reverberates throughout Oil Supply Chain",
+  "section_path": [
+    "Hurricane Sandy Reverberates throughout Oil Supply Chain"
+  ],
+  "section_path_text": "Hurricane Sandy Reverberates throughout Oil Supply Chain",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Hurricane Sandy took a\nHurricane Sandy captured headlines during the past week, and her effects will be felt throughout the Northeastern United States to varying degrees for the foreseeable future. Various media outlets note that drivers in New York, New Jersey, and Connecticut have been forced to wait in lines of 100 cars or more to refill their automobiles as they attempt to return to their daily routines. The supply chain has been jolted elsewhere as well: prolonged delays and outages at pipelines, refineries, and terminals have lifted tanker rates both into the region and into areas that compete for tonnage with the region.",
+  "keywords": [
+    "products",
+    "gas",
+    "accounced",
+    "timeline",
+    "gasoline",
+    "supply",
+    "capacity",
+    "hurricane",
+    "motiva",
+    "region",
+    "sandy",
+    "targeting"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 774,
+  "source_path": "reports/poten/2012/poten_2012-11-02_hurricane-sandy-reverberates-throughout-oil-supply-chain.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain__s01_hurricane_sandy_took_a",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain__root",
+      "title": "Hurricane Sandy took a",
+      "section_path": [
+        "Hurricane Sandy took a"
+      ],
+      "section_path_text": "Hurricane Sandy took a",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Hurricane Sandy captured headlines during the past week, and her effects will be felt throughout the Northeastern United States to varying degrees for the foreseeable future. Various media outlets note that drivers in New York, New Jersey, and Connecticut have been forced to wait in lines of 100 cars or more to refill their automobiles as they attempt to return to their daily routines.",
+      "keywords": [
+        "products",
+        "gas",
+        "gasoline",
+        "supply",
+        "demand",
+        "hurricane",
+        "new",
+        "regional"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 212,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain__s02_gasoline_stocks_at_five",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain__root",
+      "title": "Gasoline stocks at five",
+      "section_path": [
+        "Gasoline stocks at five"
+      ],
+      "section_path_text": "Gasoline stocks at five",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "lows",
+        "year"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain__s03_power_outages_and",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain__root",
+      "title": "Power outages and",
+      "section_path": [
+        "Power outages and"
+      ],
+      "section_path_text": "Power outages and",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "flooding largely to blame for short-term issues with gas stations region was briefly stunted for days by the hurricane, as was the availability of ports and the operability of terminals. These disruptions have in turn triggered delays for pipelines feeding into the region and left a significant amount of tonnage waiting to make deliveries into area ports.",
+      "keywords": [
+        "gas",
+        "region",
+        "was",
+        "amount",
+        "area",
+        "availability",
+        "blame",
+        "briefly"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 65,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain__s04_temporary_domino",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain__root",
+      "title": "Temporary domino",
+      "section_path": [
+        "Temporary domino"
+      ],
+      "section_path_text": "Temporary domino",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "effect down the supply chain with fewer nodes to which imports can go Regulatory waivers have changed normal market dynamics, further complicating matters. In anticipation of constrained supplies and rising gas prices - less than a week before Election Day - the US Environmental Protection Agency has issued a temporary waiver enabling the sale of some grades of motor gasoline that would otherwise be prevented under the Clean Air Act.",
+      "keywords": [
+        "products",
+        "gas",
+        "act.",
+        "issued",
+        "otherwise",
+        "supply",
+        "waiver",
+        "would"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 139,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain__s05_regulatory_waivers",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain__root",
+      "title": "Regulatory waivers",
+      "section_path": [
+        "Regulatory waivers"
+      ],
+      "section_path_text": "Regulatory waivers",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "attempt to solve short- term finished product shortage",
+      "keywords": [
+        "attempt",
+        "finished",
+        "product",
+        "short",
+        "shortage",
+        "solve",
+        "term"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain__s06_mr_rates_spiked_with",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain__root",
+      "title": "MR rates spiked with",
+      "section_path": [
+        "MR rates spiked with"
+      ],
+      "section_path_text": "MR rates spiked with",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Sandy's landfall 38 Caribs-USAC 38 USG-UKC",
+      "keywords": [
+        "caribs-usac",
+        "landfall",
+        "sandy",
+        "usg-ukc"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 18,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain__s07_mr_rates_were",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain__root",
+      "title": "MR rates were",
+      "section_path": [
+        "MR rates were"
+      ],
+      "section_path_text": "MR rates were",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "recovering prior to Sandy Meanwhile, refineries and terminals are at various stages of recovery, though the region as a whole is operating at a level far from full capacity:",
+      "keywords": [
+        "are",
+        "capacity",
+        "far",
+        "full",
+        "level",
+        "meanwhile",
+        "operating",
+        "prior"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 34,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain__s08_status",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain__root",
+      "title": "Status",
+      "section_path": [
+        "Status"
+      ],
+      "section_path_text": "Status",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Location Company Capacity (bpd) Port Reading (FCC) Hess 70,000 70,000 Philadelphia Sunoco 355,000 Bayway Phillips 66 238,000 593,000 Trainer Delta 185,000 Paulsboro PBF 185,000 Delaware City PBF 182,200 552,200 Total Capacity in Storm Path 1,215,200",
+      "keywords": [
+        "capacity",
+        "pbf",
+        "bayway",
+        "bpd",
+        "city",
+        "company",
+        "delaware",
+        "delta"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 80,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain__s09_refineries_ports_and",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain__root",
+      "title": "Refineries, ports, and",
+      "section_path": [
+        "Refineries, ports, and"
+      ],
+      "section_path_text": "Refineries, ports, and",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "terminals begin the road to recovery",
+      "keywords": [
+        "begin",
+        "recovery",
+        "road",
+        "terminals"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain__s10_company",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain__root",
+      "title": "Company",
+      "section_path": [
+        "Company"
+      ],
+      "section_path_text": "Company",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "City Status Colonial Pipeline Linden, NJ partial re-open today Hess Groton, CT no accounced timeline IMTT Bayonne, NJ targeting next week Kinder Morgan Carteret, NJ targeting 24-48 hours Kinder Morgan Perth Amboy, NJ targeting 24-48 hours Kinder Morgan Staten Island, NY targeting 24-48 hours Motiva Brooklyn, NY no accounced timeline Motiva Long Island, NY no accounced timeline Motiva Newark, NJ no accounced timeline Motiva Sewaren, NJ no accounced timeline NuStar Energy Linden, NJ partial re-open today Phillips 66 Riverhead, NY no accounced timeline Phillips 66 Tremley Point, NJ no accounced timeline",
+      "keywords": [
+        "accounced",
+        "timeline",
+        "motiva",
+        "targeting",
+        "hours",
+        "kinder",
+        "morgan",
+        "island"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 137,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain__s11_both_gasoline_shortages",
+      "doc_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain",
+      "parent_id": "poten_tankers_no_date_poten_2012_11_02_hurricane_sandy_reverberates_throughout_oil_supply_chain__root",
+      "title": "Both gasoline shortages",
+      "section_path": [
+        "Both gasoline shortages"
+      ],
+      "section_path_text": "Both gasoline shortages",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "and MR rate spike should be short-lived as bottlenecks subside",
+      "keywords": [
+        "bottlenecks",
+        "short-lived",
+        "should",
+        "spike",
+        "subside"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 14,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

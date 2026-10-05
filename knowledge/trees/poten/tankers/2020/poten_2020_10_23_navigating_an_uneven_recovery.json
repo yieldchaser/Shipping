@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2020_10_23_navigating_an_uneven_recovery__root",
+  "doc_id": "poten_tankers_no_date_poten_2020_10_23_navigating_an_uneven_recovery",
+  "parent_id": null,
+  "title": "Navigating An Uneven Recovery",
+  "section_path": [
+    "Navigating An Uneven Recovery"
+  ],
+  "section_path_text": "Navigating An Uneven Recovery",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Covid-19 creates diverging paths for product demand\nWhen analyzing demand prospects for product tankers, analysts take into account differences in projections for the various refined products, such as gasoline, diesel, and jet fuel. Regional variations are also being considered. Some areas are growing faster than others and certain regions are short of certain products, while others are traditionally long.",
+  "keywords": [
+    "china",
+    "atlantic",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "gas",
+    "demand",
+    "product",
+    "oecd",
+    "diesel",
+    "gasoline"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 864,
+  "source_path": "reports/poten/2020/poten_2020-10-23_navigating-an-uneven-recovery.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_10_23_navigating_an_uneven_recovery__s01_covid_19_creates_diverging_paths_for_product_demand",
+      "doc_id": "poten_tankers_no_date_poten_2020_10_23_navigating_an_uneven_recovery",
+      "parent_id": "poten_tankers_no_date_poten_2020_10_23_navigating_an_uneven_recovery__root",
+      "title": "Covid-19 creates diverging paths for product demand",
+      "section_path": [
+        "Covid-19 creates diverging paths for product demand"
+      ],
+      "section_path_text": "Covid-19 creates diverging paths for product demand",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "When analyzing demand prospects for product tankers, analysts take into account differences in projections for the various refined products, such as gasoline, diesel, and jet fuel. Regional variations are also being considered.",
+      "keywords": [
+        "china",
+        "atlantic",
+        "europe",
+        "india",
+        "crude_oil",
+        "products",
+        "gas",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 852,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

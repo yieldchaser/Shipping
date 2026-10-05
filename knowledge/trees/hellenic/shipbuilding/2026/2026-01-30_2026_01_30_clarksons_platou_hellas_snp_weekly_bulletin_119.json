@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1745,
-  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119.html",
+  "token_count": 1761,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-119",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nCompared to previous weeks, the dry bulk market has shown increased strength.",
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf\n\n### Clarkson Hellas Ltd. # Desk Talk\n\nCompared to previous weeks, the dry bulk market has shown increased strength.",
       "keywords": [
         "panamax",
         "vlcc",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1362,
+      "token_count": 1378,
       "section_type": "linked_pdf",
       "children": []
     }

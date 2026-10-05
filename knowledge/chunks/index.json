@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-29T17:23:36Z",
+ "generated_at": "2026-10-05T23:11:23Z",
  "compiler_version": 2,
- "count": 104,
+ "count": 105,
  "files": [
   {
    "file": "baltic_container.jsonl",
@@ -15,7 +15,7 @@
    "path": "knowledge/chunks/baltic_container_2026.jsonl",
    "stem": "baltic_container_2026",
    "year": 2026,
-   "bytes": 211387
+   "bytes": 213739
   },
   {
    "file": "baltic_dry.jsonl",
@@ -29,7 +29,7 @@
    "path": "knowledge/chunks/baltic_dry_2026.jsonl",
    "stem": "baltic_dry_2026",
    "year": 2026,
-   "bytes": 896933
+   "bytes": 905984
   },
   {
    "file": "baltic_gas.jsonl",
@@ -43,7 +43,7 @@
    "path": "knowledge/chunks/baltic_gas_2026.jsonl",
    "stem": "baltic_gas_2026",
    "year": 2026,
-   "bytes": 387360
+   "bytes": 395464
   },
   {
    "file": "baltic_ningbo.jsonl",
@@ -71,7 +71,7 @@
    "path": "knowledge/chunks/baltic_tanker_2026.jsonl",
    "stem": "baltic_tanker_2026",
    "year": 2026,
-   "bytes": 901011
+   "bytes": 911525
   },
   {
    "file": "books.jsonl",
@@ -134,7 +134,7 @@
    "path": "knowledge/chunks/breakwave_insights_insights_2026.jsonl",
    "stem": "breakwave_insights_insights_2026",
    "year": 2026,
-   "bytes": 4254448
+   "bytes": 4392237
   },
   {
    "file": "breakwave_tankers.jsonl",
@@ -169,7 +169,14 @@
    "path": "knowledge/chunks/broker_reports_broker_report_2026.jsonl",
    "stem": "broker_reports_broker_report_2026",
    "year": 2026,
-   "bytes": 5775955
+   "bytes": 6063692
+  },
+  {
+   "file": "broker_reports_broker_report_unknown.jsonl",
+   "path": "knowledge/chunks/broker_reports_broker_report_unknown.jsonl",
+   "stem": "broker_reports_broker_report_unknown",
+   "year": null,
+   "bytes": 390952
   },
   {
    "file": "bunker_and_carbon_spreads_2026.jsonl",
@@ -239,21 +246,21 @@
    "path": "knowledge/chunks/hellenic_demolition_2024.jsonl",
    "stem": "hellenic_demolition_2024",
    "year": 2024,
-   "bytes": 4399980
+   "bytes": 4400462
   },
   {
    "file": "hellenic_demolition_2025.jsonl",
    "path": "knowledge/chunks/hellenic_demolition_2025.jsonl",
    "stem": "hellenic_demolition_2025",
    "year": 2025,
-   "bytes": 4713002
+   "bytes": 4722114
   },
   {
    "file": "hellenic_demolition_2026.jsonl",
    "path": "knowledge/chunks/hellenic_demolition_2026.jsonl",
    "stem": "hellenic_demolition_2026",
    "year": 2026,
-   "bytes": 3067690
+   "bytes": 3069789
   },
   {
    "file": "hellenic_dry_charter.jsonl",
@@ -302,21 +309,21 @@
    "path": "knowledge/chunks/hellenic_dry_charter_2024.jsonl",
    "stem": "hellenic_dry_charter_2024",
    "year": 2024,
-   "bytes": 198169
+   "bytes": 198651
   },
   {
    "file": "hellenic_dry_charter_2025.jsonl",
    "path": "knowledge/chunks/hellenic_dry_charter_2025.jsonl",
    "stem": "hellenic_dry_charter_2025",
    "year": 2025,
-   "bytes": 179176
+   "bytes": 179327
   },
   {
    "file": "hellenic_dry_charter_2026.jsonl",
    "path": "knowledge/chunks/hellenic_dry_charter_2026.jsonl",
    "stem": "hellenic_dry_charter_2026",
    "year": 2026,
-   "bytes": 132435
+   "bytes": 136030
   },
   {
    "file": "hellenic_iron_ore.jsonl",
@@ -344,14 +351,14 @@
    "path": "knowledge/chunks/hellenic_iron_ore_2021.jsonl",
    "stem": "hellenic_iron_ore_2021",
    "year": 2021,
-   "bytes": 25013851
+   "bytes": 26835065
   },
   {
    "file": "hellenic_iron_ore_2022.jsonl",
    "path": "knowledge/chunks/hellenic_iron_ore_2022.jsonl",
    "stem": "hellenic_iron_ore_2022",
    "year": 2022,
-   "bytes": 17509320
+   "bytes": 48740540
   },
   {
    "file": "hellenic_iron_ore_2023.jsonl",
@@ -379,7 +386,7 @@
    "path": "knowledge/chunks/hellenic_iron_ore_2026.jsonl",
    "stem": "hellenic_iron_ore_2026",
    "year": 2026,
-   "bytes": 4955688
+   "bytes": 15134382
   },
   {
    "file": "hellenic_shipbuilding.jsonl",
@@ -393,49 +400,49 @@
    "path": "knowledge/chunks/hellenic_shipbuilding_2014.jsonl",
    "stem": "hellenic_shipbuilding_2014",
    "year": 2014,
-   "bytes": 0
+   "bytes": 905
   },
   {
    "file": "hellenic_shipbuilding_2021.jsonl",
    "path": "knowledge/chunks/hellenic_shipbuilding_2021.jsonl",
    "stem": "hellenic_shipbuilding_2021",
    "year": 2021,
-   "bytes": 0
+   "bytes": 816568
   },
   {
    "file": "hellenic_shipbuilding_2022.jsonl",
    "path": "knowledge/chunks/hellenic_shipbuilding_2022.jsonl",
    "stem": "hellenic_shipbuilding_2022",
    "year": 2022,
-   "bytes": 0
+   "bytes": 1461000
   },
   {
    "file": "hellenic_shipbuilding_2023.jsonl",
    "path": "knowledge/chunks/hellenic_shipbuilding_2023.jsonl",
    "stem": "hellenic_shipbuilding_2023",
    "year": 2023,
-   "bytes": 0
+   "bytes": 1612624
   },
   {
    "file": "hellenic_shipbuilding_2024.jsonl",
    "path": "knowledge/chunks/hellenic_shipbuilding_2024.jsonl",
    "stem": "hellenic_shipbuilding_2024",
    "year": 2024,
-   "bytes": 0
+   "bytes": 874158
   },
   {
    "file": "hellenic_shipbuilding_2025.jsonl",
    "path": "knowledge/chunks/hellenic_shipbuilding_2025.jsonl",
    "stem": "hellenic_shipbuilding_2025",
    "year": 2025,
-   "bytes": 35234
+   "bytes": 1135068
   },
   {
    "file": "hellenic_shipbuilding_2026.jsonl",
    "path": "knowledge/chunks/hellenic_shipbuilding_2026.jsonl",
    "stem": "hellenic_shipbuilding_2026",
    "year": 2026,
-   "bytes": 275900
+   "bytes": 1143098
   },
   {
    "file": "hellenic_tanker_charter.jsonl",
@@ -477,21 +484,21 @@
    "path": "knowledge/chunks/hellenic_tanker_charter_2024.jsonl",
    "stem": "hellenic_tanker_charter_2024",
    "year": 2024,
-   "bytes": 201152
+   "bytes": 201634
   },
   {
    "file": "hellenic_tanker_charter_2025.jsonl",
    "path": "knowledge/chunks/hellenic_tanker_charter_2025.jsonl",
    "stem": "hellenic_tanker_charter_2025",
    "year": 2025,
-   "bytes": 182232
+   "bytes": 182383
   },
   {
    "file": "hellenic_tanker_charter_2026.jsonl",
    "path": "knowledge/chunks/hellenic_tanker_charter_2026.jsonl",
    "stem": "hellenic_tanker_charter_2026",
    "year": 2026,
-   "bytes": 144418
+   "bytes": 151170
   },
   {
    "file": "hellenic_vessel_valuations.jsonl",
@@ -505,210 +512,210 @@
    "path": "knowledge/chunks/hellenic_vessel_valuations_2014.jsonl",
    "stem": "hellenic_vessel_valuations_2014",
    "year": 2014,
-   "bytes": 0
+   "bytes": 932
   },
   {
    "file": "hellenic_vessel_valuations_2021.jsonl",
    "path": "knowledge/chunks/hellenic_vessel_valuations_2021.jsonl",
    "stem": "hellenic_vessel_valuations_2021",
    "year": 2021,
-   "bytes": 0
+   "bytes": 358765
   },
   {
    "file": "hellenic_vessel_valuations_2022.jsonl",
    "path": "knowledge/chunks/hellenic_vessel_valuations_2022.jsonl",
    "stem": "hellenic_vessel_valuations_2022",
    "year": 2022,
-   "bytes": 0
+   "bytes": 710104
   },
   {
    "file": "hellenic_vessel_valuations_2023.jsonl",
    "path": "knowledge/chunks/hellenic_vessel_valuations_2023.jsonl",
    "stem": "hellenic_vessel_valuations_2023",
    "year": 2023,
-   "bytes": 0
+   "bytes": 737933
   },
   {
    "file": "hellenic_vessel_valuations_2024.jsonl",
    "path": "knowledge/chunks/hellenic_vessel_valuations_2024.jsonl",
    "stem": "hellenic_vessel_valuations_2024",
    "year": 2024,
-   "bytes": 0
+   "bytes": 598881
   },
   {
    "file": "hellenic_vessel_valuations_2025.jsonl",
    "path": "knowledge/chunks/hellenic_vessel_valuations_2025.jsonl",
    "stem": "hellenic_vessel_valuations_2025",
    "year": 2025,
-   "bytes": 0
+   "bytes": 693435
   },
   {
    "file": "hellenic_vessel_valuations_2026.jsonl",
    "path": "knowledge/chunks/hellenic_vessel_valuations_2026.jsonl",
    "stem": "hellenic_vessel_valuations_2026",
    "year": 2026,
-   "bytes": 110754
+   "bytes": 503345
   },
   {
    "file": "poten_tankers_2004.jsonl",
    "path": "knowledge/chunks/poten_tankers_2004.jsonl",
    "stem": "poten_tankers_2004",
    "year": 2004,
-   "bytes": 175546
+   "bytes": 743548
   },
   {
    "file": "poten_tankers_2005.jsonl",
    "path": "knowledge/chunks/poten_tankers_2005.jsonl",
    "stem": "poten_tankers_2005",
    "year": 2005,
-   "bytes": 152353
+   "bytes": 682121
   },
   {
    "file": "poten_tankers_2006.jsonl",
    "path": "knowledge/chunks/poten_tankers_2006.jsonl",
    "stem": "poten_tankers_2006",
    "year": 2006,
-   "bytes": 140237
+   "bytes": 574280
   },
   {
    "file": "poten_tankers_2007.jsonl",
    "path": "knowledge/chunks/poten_tankers_2007.jsonl",
    "stem": "poten_tankers_2007",
    "year": 2007,
-   "bytes": 128573
+   "bytes": 513136
   },
   {
    "file": "poten_tankers_2008.jsonl",
    "path": "knowledge/chunks/poten_tankers_2008.jsonl",
    "stem": "poten_tankers_2008",
    "year": 2008,
-   "bytes": 136045
+   "bytes": 561863
   },
   {
    "file": "poten_tankers_2009.jsonl",
    "path": "knowledge/chunks/poten_tankers_2009.jsonl",
    "stem": "poten_tankers_2009",
    "year": 2009,
-   "bytes": 153570
+   "bytes": 684773
   },
   {
    "file": "poten_tankers_2010.jsonl",
    "path": "knowledge/chunks/poten_tankers_2010.jsonl",
    "stem": "poten_tankers_2010",
    "year": 2010,
-   "bytes": 140545
+   "bytes": 610981
   },
   {
    "file": "poten_tankers_2011.jsonl",
    "path": "knowledge/chunks/poten_tankers_2011.jsonl",
    "stem": "poten_tankers_2011",
    "year": 2011,
-   "bytes": 144457
+   "bytes": 742326
   },
   {
    "file": "poten_tankers_2012.jsonl",
    "path": "knowledge/chunks/poten_tankers_2012.jsonl",
    "stem": "poten_tankers_2012",
    "year": 2012,
-   "bytes": 156847
+   "bytes": 852112
   },
   {
    "file": "poten_tankers_2013.jsonl",
    "path": "knowledge/chunks/poten_tankers_2013.jsonl",
    "stem": "poten_tankers_2013",
    "year": 2013,
-   "bytes": 169553
+   "bytes": 794793
   },
   {
    "file": "poten_tankers_2014.jsonl",
    "path": "knowledge/chunks/poten_tankers_2014.jsonl",
    "stem": "poten_tankers_2014",
    "year": 2014,
-   "bytes": 146898
+   "bytes": 529007
   },
   {
    "file": "poten_tankers_2015.jsonl",
    "path": "knowledge/chunks/poten_tankers_2015.jsonl",
    "stem": "poten_tankers_2015",
    "year": 2015,
-   "bytes": 166405
+   "bytes": 508386
   },
   {
    "file": "poten_tankers_2016.jsonl",
    "path": "knowledge/chunks/poten_tankers_2016.jsonl",
    "stem": "poten_tankers_2016",
    "year": 2016,
-   "bytes": 179914
+   "bytes": 606520
   },
   {
    "file": "poten_tankers_2017.jsonl",
    "path": "knowledge/chunks/poten_tankers_2017.jsonl",
    "stem": "poten_tankers_2017",
    "year": 2017,
-   "bytes": 152445
+   "bytes": 545662
   },
   {
    "file": "poten_tankers_2018.jsonl",
    "path": "knowledge/chunks/poten_tankers_2018.jsonl",
    "stem": "poten_tankers_2018",
    "year": 2018,
-   "bytes": 134211
+   "bytes": 536703
   },
   {
    "file": "poten_tankers_2019.jsonl",
    "path": "knowledge/chunks/poten_tankers_2019.jsonl",
    "stem": "poten_tankers_2019",
    "year": 2019,
-   "bytes": 168372
+   "bytes": 600862
   },
   {
    "file": "poten_tankers_2020.jsonl",
    "path": "knowledge/chunks/poten_tankers_2020.jsonl",
    "stem": "poten_tankers_2020",
    "year": 2020,
-   "bytes": 110748
+   "bytes": 422499
   },
   {
    "file": "poten_tankers_2021.jsonl",
    "path": "knowledge/chunks/poten_tankers_2021.jsonl",
    "stem": "poten_tankers_2021",
    "year": 2021,
-   "bytes": 124526
+   "bytes": 497771
   },
   {
    "file": "poten_tankers_2022.jsonl",
    "path": "knowledge/chunks/poten_tankers_2022.jsonl",
    "stem": "poten_tankers_2022",
    "year": 2022,
-   "bytes": 140389
+   "bytes": 550507
   },
   {
    "file": "poten_tankers_2023.jsonl",
    "path": "knowledge/chunks/poten_tankers_2023.jsonl",
    "stem": "poten_tankers_2023",
    "year": 2023,
-   "bytes": 134996
+   "bytes": 535167
   },
   {
    "file": "poten_tankers_2024.jsonl",
    "path": "knowledge/chunks/poten_tankers_2024.jsonl",
    "stem": "poten_tankers_2024",
    "year": 2024,
-   "bytes": 136707
+   "bytes": 535780
   },
   {
    "file": "poten_tankers_2025.jsonl",
    "path": "knowledge/chunks/poten_tankers_2025.jsonl",
    "stem": "poten_tankers_2025",
    "year": 2025,
-   "bytes": 128513
+   "bytes": 501833
   },
   {
    "file": "poten_tankers_2026.jsonl",
    "path": "knowledge/chunks/poten_tankers_2026.jsonl",
    "stem": "poten_tankers_2026",
    "year": 2026,
-   "bytes": 139641
+   "bytes": 445375
   },
   {
    "file": "poten_tankers_2030.jsonl",

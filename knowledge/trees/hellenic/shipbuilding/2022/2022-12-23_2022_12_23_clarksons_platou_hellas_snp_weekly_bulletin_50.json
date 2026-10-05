@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNew building in the gas carrier market, Hyundai Samho disclosed orders for two firm 174k CBM\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 23 December 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S50MC-C8.1 SS 03/25\nALEGRE III 55,808 2007 KAWASAKI USD 14.7 M INDONESIANS\n4 x 30 T, BWTS Fitted DD 01/23\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\n2004 HYUNDAI SS 10/24\nDELTA PIONEER 111,013\nSAMHO HI DD 02/23\nSS 01/25\nDELTA VICTORY 111,006 MAN B. 7S60MC6.1 DD 03/23 USD 140 M\nIce Class 1A DUBAI BASED\nDELTA CAPTAIN 111,009 2005 HYUNDAI Scrubber & BWTS Fitted SS 02/25 (En Bloc)\nSAMHO HI DD 07/23\nSS 03/25\nDELTA SAILOR 111,004\nDD 09/23\nNew Building\nIn the gas carrier market, Hyundai Samho disclosed orders for two firm 174k CBM LNG Carriers for Asyad Shipping, with the\nvessels set to deliver in March and June 2026.",
+  "summary": "Main\nNew building in the gas carrier market, Hyundai Samho disclosed orders for two firm 174k CBM\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin23 December 2022\n\n# Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n||||MAN B. 6S50MC-C8.1|SS 03/25|||\n|ALEGRE III|55,808|2007 KAWASAKI|4 x 30 T, BWTS Fitted|DD 01/23|USD 14.7 M|INDONESIANS|\n\n# Tankers - Chemicals - LPG/LNGs\n\n### Vessel DWT Built Details SS/DD Price Buyer\n\n**DELTA PIONEER** 111,013 2004 SAMHO HI HYUNDAI DD 02/23 SS 10/24\n\n**DELTA VICTORY** 111,006 SS 01/25 MAN B. 7S60MC6.1 DD 03/23 USD 140 M Ice Class 1A (En Bloc) DUBAI BASED **DELTA CAPTAIN** 111,009 2005 HYUNDAI SAMHO HI Scrubber & BWTS Fitted DD 07/23 SS 02/25\n\n**DELTA SAILOR** 111,004 DD 09/ SS 03/25 23\n\n# New Building\n\nIn the gas carrier market, Hyundai Samho disclosed orders for two firm 174k CBM LNG Carriers for Asyad Shipping, with ",
   "keywords": [
     "lng",
     "lpg",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1738,
-  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50.html",
+  "token_count": 1819,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-50",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 23 December 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S50MC-C8.1 SS 03/25\nALEGRE III 55,808 2007 KAWASAKI USD 14.7 M INDONESIANS\n4 x 30 T, BWTS Fitted DD 01/23\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\n2004 HYUNDAI SS 10/24\nDELTA PIONEER 111,013\nSAMHO HI DD 02/23\nSS 01/25\nDELTA VICTORY 111,006 MAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin23 December 2022\n\n# Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n||||MAN B. 6S50MC-C8.1|SS 03/25|||\n|ALEGRE III|55,808|2007 KAWASAKI|4 x 30 T, BWTS Fitted|DD 01/23|USD 14.7 M|INDONESIANS|\n\n# Tankers - Chemicals - LPG/LNGs\n\n### Vessel DWT Built Details SS/DD Price Buyer\n\n**DELTA PIONEER** 111,013 2004 SAMHO HI HYUNDAI DD 02/23 SS 10/24\n\n**DELTA VICTORY** 111,006 SS 01/25 MAN B.",
       "keywords": [
         "lng",
         "lpg",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1657,
+      "token_count": 1738,
       "section_type": "linked_pdf",
       "children": []
     }

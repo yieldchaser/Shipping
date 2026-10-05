@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2018_02_02_scrapping_to_the_rescue__root",
+  "doc_id": "poten_tankers_no_date_poten_2018_02_02_scrapping_to_the_rescue",
+  "parent_id": null,
+  "title": "Scrapping To The Rescue",
+  "section_path": [
+    "Scrapping To The Rescue"
+  ],
+  "section_path_text": "Scrapping To The Rescue",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Increased demolition is needed to rebalance the market\nThe tanker market has started 2018 in the doldrums. One of the main reasons for the depressed rate environment is the oversupply of existing tonnage. On top of that, there are still a significant number of newbuilding deliveries scheduled this year for all the major vessel segments and because OPEC has vowed to keep its production cuts in place (at least through June), ton-mile demand growth may be limited.",
+  "keywords": [
+    "vlcc",
+    "meg",
+    "india",
+    "crude_oil",
+    "are",
+    "years",
+    "scrapping",
+    "vessels",
+    "scrap",
+    "age",
+    "old",
+    "older"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 920,
+  "source_path": "reports/poten/2018/poten_2018-02-02_scrapping-to-the-rescue.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_02_02_scrapping_to_the_rescue__s01_increased_demolition_is_needed_to_rebalance_the_market",
+      "doc_id": "poten_tankers_no_date_poten_2018_02_02_scrapping_to_the_rescue",
+      "parent_id": "poten_tankers_no_date_poten_2018_02_02_scrapping_to_the_rescue__root",
+      "title": "Increased demolition is needed to rebalance the market",
+      "section_path": [
+        "Increased demolition is needed to rebalance the market"
+      ],
+      "section_path_text": "Increased demolition is needed to rebalance the market",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The tanker market has started 2018 in the doldrums. One of the main reasons for the depressed rate environment is the oversupply of existing tonnage.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "india",
+        "crude_oil",
+        "are",
+        "years",
+        "scrapping",
+        "vessels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 910,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

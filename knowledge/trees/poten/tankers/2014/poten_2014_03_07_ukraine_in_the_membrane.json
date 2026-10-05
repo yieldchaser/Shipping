@@ -1,0 +1,140 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2014_03_07_ukraine_in_the_membrane__root",
+  "doc_id": "poten_tankers_no_date_poten_2014_03_07_ukraine_in_the_membrane",
+  "parent_id": null,
+  "title": "Ukraine in the Membrane",
+  "section_path": [
+    "Ukraine in the Membrane"
+  ],
+  "section_path_text": "Ukraine in the Membrane",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Ukraine in the Membrane\nThe recent developments in Ukraine serve as a stark reminder that crude oil and natural gas supply security for captive consumers are only as sure as their provider's next false move. Russia and Saudi Arabia regularly interchange positions as the world's largest oil producer, depending on OPEC production quotas, heightening market sensitivity to sabre-rattling of any sort. As tensions in Ukraine, Crimea and Russia mount, it is not yet clear the full extent to which the conflict will impact natural gas and oil supplies.",
+  "keywords": [
+    "aframax",
+    "brazil",
+    "atlantic",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "gas",
+    "oil",
+    "crude",
+    "per",
+    "are",
+    "black"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 550,
+  "source_path": "reports/poten/2014/poten_2014-03-07_ukraine-in-the-membrane.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_03_07_ukraine_in_the_membrane__s01_ukraine_in_the_membrane",
+      "doc_id": "poten_tankers_no_date_poten_2014_03_07_ukraine_in_the_membrane",
+      "parent_id": "poten_tankers_no_date_poten_2014_03_07_ukraine_in_the_membrane__root",
+      "title": "Ukraine in the Membrane",
+      "section_path": [
+        "Ukraine in the Membrane"
+      ],
+      "section_path_text": "Ukraine in the Membrane",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The recent developments in Ukraine serve as a stark reminder that crude oil and natural gas supply security for captive consumers are only as sure as their provider's next false move. Russia and Saudi Arabia regularly interchange positions as the world's largest oil producer, depending on OPEC production quotas, heightening market sensitivity to sabre-rattling of any sort.",
+      "keywords": [
+        "atlantic",
+        "europe",
+        "crude_oil",
+        "gas",
+        "oil",
+        "russia",
+        "are",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 270,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_03_07_ukraine_in_the_membrane__s02_black_sea",
+      "doc_id": "poten_tankers_no_date_poten_2014_03_07_ukraine_in_the_membrane",
+      "parent_id": "poten_tankers_no_date_poten_2014_03_07_ukraine_in_the_membrane__root",
+      "title": "Black Sea",
+      "section_path": [
+        "Black Sea"
+      ],
+      "section_path_text": "Black Sea",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "arctic/far",
+        "east"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_03_07_ukraine_in_the_membrane__s03_baku_tblisi_ceyhan_pipeline",
+      "doc_id": "poten_tankers_no_date_poten_2014_03_07_ukraine_in_the_membrane",
+      "parent_id": "poten_tankers_no_date_poten_2014_03_07_ukraine_in_the_membrane__root",
+      "title": "Baku-Tblisi-Ceyhan Pipeline",
+      "section_path": [
+        "Baku-Tblisi-Ceyhan Pipeline"
+      ],
+      "section_path_text": "Baku-Tblisi-Ceyhan Pipeline",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Druzhba Pipeline Other Routes Oil trade in the Mediterranean and the Black Sea is dominated by Aframax tankers and historically characterized by volatile charter rates. Transit through the Turkish Straits can be restricted by weather or shortened daylight hours in the winter, creating delays that trigger rate spikes.",
+      "keywords": [
+        "aframax",
+        "europe",
+        "crude_oil",
+        "rates.",
+        "below",
+        "black",
+        "can",
+        "characterized"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 67,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_03_07_ukraine_in_the_membrane__s04_black_sea_mediterranean",
+      "doc_id": "poten_tankers_no_date_poten_2014_03_07_ukraine_in_the_membrane",
+      "parent_id": "poten_tankers_no_date_poten_2014_03_07_ukraine_in_the_membrane__root",
+      "title": "Black Sea - Mediterranean",
+      "section_path": [
+        "Black Sea - Mediterranean"
+      ],
+      "section_path_text": "Black Sea - Mediterranean",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Cross - Mediterranean As recently as February, daily earnings averaged upwards of $60,000 per day on the intra-Mediterranean trades. Current spot rates rates are significantly less, yielding time charter equivalents in the $10,000 to $15,000 per day range, demonstrating the volatility that persists in these regions.",
+      "keywords": [
+        "brazil",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "crude",
+        "per",
+        "urals",
+        "day"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 179,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

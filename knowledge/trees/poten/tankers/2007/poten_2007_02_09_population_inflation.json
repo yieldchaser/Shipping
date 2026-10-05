@@ -1,0 +1,258 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_02_09_population_inflation__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_02_09_population_inflation",
+  "parent_id": null,
+  "title": "Population Inflation",
+  "section_path": [
+    "Population Inflation"
+  ],
+  "section_path_text": "Population Inflation",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Population Inflation\nThe increasing world population presents interesting challenges and opportunities for the energy industry. It is logical that the amount of energy consumed worldwide and the change in the total population move in the same direction. The question arises as to which economies are likely to improve their energy consumption per capita and whether they are willing to sacrifice units of GDP in this pursuit.",
+  "keywords": [
+    "china",
+    "india",
+    "crude_oil",
+    "products",
+    "per",
+    "population",
+    "oil",
+    "gdp",
+    "world",
+    "consumption",
+    "energy",
+    "million"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 667,
+  "source_path": "reports/poten/2007/poten_2007-02-09_population-inflation.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_02_09_population_inflation__s01_population_inflation",
+      "doc_id": "poten_tankers_no_date_poten_2007_02_09_population_inflation",
+      "parent_id": "poten_tankers_no_date_poten_2007_02_09_population_inflation__root",
+      "title": "Population Inflation",
+      "section_path": [
+        "Population Inflation"
+      ],
+      "section_path_text": "Population Inflation",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The increasing world population presents interesting challenges and opportunities for the energy industry. It is logical that the amount of energy consumed worldwide and the change in the total population move in the same direction.",
+      "keywords": [
+        "population",
+        "energy",
+        "world",
+        "are",
+        "since",
+        "amount",
+        "arises",
+        "below"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 115,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_02_09_population_inflation__s02_outlook",
+      "doc_id": "poten_tankers_no_date_poten_2007_02_09_population_inflation",
+      "parent_id": "poten_tankers_no_date_poten_2007_02_09_population_inflation__root",
+      "title": "Outlook",
+      "section_path": [
+        "Outlook"
+      ],
+      "section_path_text": "Outlook",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "2006 Population: China - 1.3 Billion India - 1.1 Billion United States - 300 Million Rest of World - 3.8 Billion TOTAL WORLD - 6.5 Billion",
+      "keywords": [
+        "china",
+        "india",
+        "billion",
+        "world",
+        "million",
+        "population",
+        "rest",
+        "states"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 41,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_02_09_population_inflation__s03_united_states",
+      "doc_id": "poten_tankers_no_date_poten_2007_02_09_population_inflation",
+      "parent_id": "poten_tankers_no_date_poten_2007_02_09_population_inflation__root",
+      "title": "United States",
+      "section_path": [
+        "United States"
+      ],
+      "section_path_text": "United States",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "India China Rest of World World Oil Consumption",
+      "keywords": [
+        "china",
+        "india",
+        "crude_oil",
+        "world",
+        "consumption",
+        "oil",
+        "rest"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_02_09_population_inflation__s04_oil_and_growth",
+      "doc_id": "poten_tankers_no_date_poten_2007_02_09_population_inflation",
+      "parent_id": "poten_tankers_no_date_poten_2007_02_09_population_inflation__root",
+      "title": "Oil and Growth",
+      "section_path": [
+        "Oil and Growth"
+      ],
+      "section_path_text": "Oil and Growth",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Robust economies, particularly in certain emerging markets, can be linked to population growth. While all countries aim to improve their economies, the priorities each maintains can vary greatly.",
+      "keywords": [
+        "crude_oil",
+        "can",
+        "economies",
+        "energy",
+        "gdp",
+        "improve",
+        "may",
+        "nations"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 114,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_02_09_population_inflation__s05_canada",
+      "doc_id": "poten_tankers_no_date_poten_2007_02_09_population_inflation",
+      "parent_id": "poten_tankers_no_date_poten_2007_02_09_population_inflation__root",
+      "title": "Canada",
+      "section_path": [
+        "Canada"
+      ],
+      "section_path_text": "Canada",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "",
+      "keywords": [
+        "hong",
+        "kong"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_02_09_population_inflation__s06_qatar",
+      "doc_id": "poten_tankers_no_date_poten_2007_02_09_population_inflation",
+      "parent_id": "poten_tankers_no_date_poten_2007_02_09_population_inflation__root",
+      "title": "Qatar",
+      "section_path": [
+        "Qatar"
+      ],
+      "section_path_text": "Qatar",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "",
+      "keywords": [],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_02_09_population_inflation__s07_greece",
+      "doc_id": "poten_tankers_no_date_poten_2007_02_09_population_inflation",
+      "parent_id": "poten_tankers_no_date_poten_2007_02_09_population_inflation__root",
+      "title": "Greece",
+      "section_path": [
+        "Greece"
+      ],
+      "section_path_text": "Greece",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "",
+      "keywords": [
+        "korea",
+        "south"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_02_09_population_inflation__s08_bangladesh",
+      "doc_id": "poten_tankers_no_date_poten_2007_02_09_population_inflation",
+      "parent_id": "poten_tankers_no_date_poten_2007_02_09_population_inflation__root",
+      "title": "Bangladesh",
+      "section_path": [
+        "Bangladesh"
+      ],
+      "section_path_text": "Bangladesh",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "",
+      "keywords": [
+        "india",
+        "philippines"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_02_09_population_inflation__s09_gdp_thousand_per_barrel_of_oil_consumed",
+      "doc_id": "poten_tankers_no_date_poten_2007_02_09_population_inflation",
+      "parent_id": "poten_tankers_no_date_poten_2007_02_09_population_inflation__root",
+      "title": "GDP (Thousand $) per Barrel of Oil Consumed",
+      "section_path": [
+        "GDP (Thousand $) per Barrel of Oil Consumed"
+      ],
+      "section_path_text": "GDP (Thousand $) per Barrel of Oil Consumed",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Those countries that experience a lower amount of GDP per unit of oil, specifically those to the left of the $1 million GDP mark, might be more inclined to sacrifice petroleum based energy in favor of alternate sources of energy. Those that experience a high percentage of GDP per unit of oil would be less likely to give it up.",
+      "keywords": [
+        "china",
+        "india",
+        "crude_oil",
+        "products",
+        "per",
+        "million",
+        "oil",
+        "consumption"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 336,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

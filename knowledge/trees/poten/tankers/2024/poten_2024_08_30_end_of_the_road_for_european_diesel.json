@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2024_08_30_end_of_the_road_for_european_diesel__root",
+  "doc_id": "poten_tankers_no_date_poten_2024_08_30_end_of_the_road_for_european_diesel",
+  "parent_id": null,
+  "title": "End Of The Road For European Diesel",
+  "section_path": [
+    "End Of The Road For European Diesel"
+  ],
+  "section_path_text": "End Of The Road For European Diesel",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "However, tanker ton-miles remain robust for the time being\nFor many years, the transatlantic arbitrage trade for product tankers consisted of diesel movements from the United States to Europe and gasoline from Europe back to the U.S. Europe was traditionally short diesel and long gasoline, while the reverse was true in the U.S. This has been the basis for a lucrative triangulation trade that product tankers (mostly MRs) are taking advantage of.",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "china",
+    "atlantic",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "diesel",
+    "demand",
+    "are",
+    "european"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 875,
+  "source_path": "reports/poten/2024/poten_2024-08-30_end-of-the-road-for-european-diesel.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2024_08_30_end_of_the_road_for_european_diesel__s01_however_tanker_ton_miles_remain_robust_for_the_time_being",
+      "doc_id": "poten_tankers_no_date_poten_2024_08_30_end_of_the_road_for_european_diesel",
+      "parent_id": "poten_tankers_no_date_poten_2024_08_30_end_of_the_road_for_european_diesel__root",
+      "title": "However, tanker ton-miles remain robust for the time being",
+      "section_path": [
+        "However, tanker ton-miles remain robust for the time being"
+      ],
+      "section_path_text": "However, tanker ton-miles remain robust for the time being",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "For many years, the transatlantic arbitrage trade for product tankers consisted of diesel movements from the United States to Europe and gasoline from Europe back to the U.S. Europe was traditionally short diesel and long gasoline, while the reverse was true in the U.S.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "china",
+        "atlantic",
+        "europe",
+        "crude_oil",
+        "products",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 862,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

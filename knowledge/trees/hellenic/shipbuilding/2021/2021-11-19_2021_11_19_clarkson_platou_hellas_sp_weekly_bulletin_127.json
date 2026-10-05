@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNEW BUILDING : A relatively quiet week in the market with deals only surfacing in the dry bulk space. Yangzijiang have announced contracts\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2021-11-19_clarkson-platou-hellas-sp-weekly-bulletin-127_report-19-11-2021_0b64ae6557af.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2021-11-19_clarkson-platou-hellas-sp-weekly-bulletin-127_report-19-11-2021_0b64ae6557af.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 19 November 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 08/23\nBUNJI 98,704 2013 TSUNEISHI ZHOUSHAN MAN-B&W 6S60MC-C RGN USD 23 M EUROPEANS\nDD 08/23\nSS 08/22\nSM AURORA 81,970 2012 JIANGSU EASTERN MAN-B&W 6S60MC-C8 RGN/XS USD 21 M CHINESE\nDD 08/22\nMAN-B&W 5S60ME-C8 SS 06/22\nSTAR CRIOS 63,301 2012 SINOPACIFIC DAYANG USD 21.5 M GREEKS\n4 x 36 T DD 06/22\nMAN-B&W 6S50ME-B9.3\nSS 01/23\nNORD COLORADO 60,396 2018 OSHIMA 4 x 30 T XS USD 32 M U/D\nDD 01/23\nBWTS & Scrubber fitted\nMITSUBISHI 6UEC50LSII\nSS 02/26\nCHERRY DREAM 51,703 2011 OSHIMA 4 x 30 T USD 17.5 M U/D\nDD 02/24\nBWTS fitted, OHBH\nMITSUBISHI 6UEC52LA SS 10/22\nSUPER LYDIA 37,406 2007 SAIKI LOW/MID USD 13 M TURKISH\n4 x 30 T DD 10/22\nTANKERS - C",
+  "summary": "Main\nNEW BUILDING : A relatively quiet week in the market with deals only surfacing in the dry bulk space. Yangzijiang have announced contracts\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2021-11-19_clarkson-platou-hellas-sp-weekly-bulletin-127_report-19-11-2021_0b64ae6557af.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2021-11-19_clarkson-platou-hellas-sp-weekly-bulletin-127_report-19-11-2021_0b64ae6557af.pdf\n\n# Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 19 November 2021\n\n## BULK CARRIERS\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|BUNJI|98,704|2013 TSUNEISHI ZHOUSHAN|MAN-B&W 6S60MC-C|SS 08/23 DD 08/23|RGN USD 23 M|EUROPEANS|\n|SM AURORA|81,970|2012 JIANGSU EASTERN|MAN-B&W 6S60MC-C8|SS 08/22 DD 08/22|RGN/XS USD 21 M|CHINESE|\n|STAR CRIOS|63,301|2012 SINOPACIFIC DAYANG|MAN-B&W 5S60ME -C8 4 x 36 T|SS 06/22 DD 06/22|USD 21.5 M|GREEKS|\n|NORD COLORADO|60,396|2018 OSHIMA|MAN-B&W 6S50ME-B9.3 4 x 30 T BWTS & Scrubber fitted|SS 01/23 DD 01/23|XS USD 32 M|U/D|\n|CHERRY DREAM|51,703|2011 OSHIMA|MITSUBISHI 6UEC50LSII 4 x 30 T BWTS fitted, OHBH|SS 02/26 D D 02/24|USD 17.5 M|U/D|\n|SUPER LYDIA|37,406|2007 SAIKI|MITSUBISHI 6UEC52LA 4 x 30 T|SS 10",
   "keywords": [
     "lng",
     "lpg",
@@ -21,13 +21,13 @@
     "products",
     "steel",
     "gas",
-    "any",
-    "information"
+    "platou",
+    "any"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2117,
-  "source_path": "corpus/02-hellenic/shipbuilding/2021/2021-11-19_clarkson-platou-hellas-sp-weekly-bulletin-127.html",
+  "token_count": 2418,
+  "source_path": "reports/hellenic/shipbuilding/2021/2021-11-19_clarkson-platou-hellas-sp-weekly-bulletin-127.html",
   "source_url": "https://www.hellenicshippingnews.com/clarkson-platou-hellas-sp-weekly-bulletin-127",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2021-11-19_clarkson-platou-hellas-sp-weekly-bulletin-127_report-19-11-2021_0b64ae6557af.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-11-19_clarkson-platou-hellas-sp-weekly-bulletin-127_report-19-11-2021_0b64ae6557af.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 19 November 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 08/23\nBUNJI 98,704 2013 TSUNEISHI ZHOUSHAN MAN-B&W 6S60MC-C RGN USD 23 M EUROPEANS\nDD 08/23\nSS 08/22\nSM AURORA 81,970 2012 JIANGSU EASTERN MAN-B&W 6S60MC-C8 RGN/XS USD 21 M CHINESE\nDD 08/22\nMAN-B&W 5S60ME-C8 SS 06/22\nSTAR CRIOS 63,301 2012 SINOPACIFIC DAYANG USD 21.5 M GREEKS\n4 x 36 T DD 06/22\nMAN-B&W 6S50ME-B9.3\nSS 01/23\nNORD COLORADO 60,396 2018 OSHIMA 4 x 30 T XS USD 32 M U/D\nDD 01/23\nBWTS & Scrubber fitted\nMITSUBISHI 6UEC50LSII\nSS 02/26\nCHERRY DREAM 51,703 2011 OSHIMA 4 x 30 T USD 17.5 M U/D\nDD 02/24\nBWTS fitted, OHBH\nMITSUBISHI 6UEC52LA SS 10/22\nSUPER LYDIA 37,406 2007 SAIKI LOW/MID USD 13 M TURKISH\n4 x 30 T DD 10/22\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 02/22\nPTI RHINE 51,218\nDD 02/22\nMAN-B&W 6S50MC-C\n2007 STX USD 9.8 M U/D\n12 Pumps\nSS 03/22\nPTI AMAZON 51,274\nDD 03/22\nMAN-B&W 6S50MC-C8.1 SS 11/21\nSEAWAYS BODIE 37,725 2006 HMD HIGH USD 7 M U/D\nIce 1A DD 11/21\nPage 1 of 3\n\n",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-11-19_clarkson-platou-hellas-sp-weekly-bulletin-127_report-19-11-2021_0b64ae6557af.pdf\n\n# Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 19 November 2021\n\n## BULK CARRIERS\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|BUNJI|98,704|2013 TSUNEISHI ZHOUSHAN|MAN-B&W 6S60MC-C|SS 08/23 DD 08/23|RGN USD 23 M|EUROPEANS|\n|SM AURORA|81,970|2012 JIANGSU EASTERN|MAN-B&W 6S60MC-C8|SS 08/22 DD 08/22|RGN/XS USD 21 M|CHINESE|\n|STAR CRIOS|63,301|2012 SINOPACIFIC DAYANG|MAN-B&W 5S60ME -C8 4 x 36 T|SS 06/22 DD 06/22|USD 21.5 M|GREEKS|\n|NORD COLORADO|60,396|2018 OSHIMA|MAN-B&W 6S50ME-B9.3 4 x 30 T BWTS & Scrubber fitted|SS 01/23 DD 01/23|XS USD 32 M|U/D|\n|CHERRY DREAM|51,703|2011 OSHIMA|MITSUBISHI 6UEC50LSII 4 x 30 T BWTS fitted, OHBH|SS 02/26 D D 02/24|USD 17.5 M|U/D|\n|SUPER LYDIA|37,406|2007 SAIKI|MITSUBISHI 6UEC52LA 4 x 30 T|SS 10//22 22 DD 10|LOW/MID USD 13 M|TURKISH|\n\n## <u>TANKERS - CHEMICALS - LPG/LNGs</u>\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|PTI RHINE|51,218|2007 STX|MAN-B&W 6S50MC 12 Pumps|DD 02/22 SS 02/22 -C SS 03/22|USD 9.8 M|U/D|\n|PTI AMAZON|51,274|||DD 03/22|||\n|SE",
       "keywords": [
         "lng",
         "lpg",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2030,
+      "token_count": 2331,
       "section_type": "linked_pdf",
       "children": []
     }

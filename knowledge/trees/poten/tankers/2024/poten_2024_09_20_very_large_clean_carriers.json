@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2024_09_20_very_large_clean_carriers__root",
+  "doc_id": "poten_tankers_no_date_poten_2024_09_20_very_large_clean_carriers",
+  "parent_id": null,
+  "title": "Very Large Clean Carriers",
+  "section_path": [
+    "Very Large Clean Carriers"
+  ],
+  "section_path_text": "Very Large Clean Carriers",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Unusual markets create unusual trades\nThe tanker industry has a reputation for being a very traditional business. Compared to other industries there has not been a lot of innovation in the way crude oil and petroleum products are moved. This is not a negative judgement.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "meg",
+    "crude_oil",
+    "products",
+    "gas",
+    "tankers",
+    "crude",
+    "are",
+    "clean",
+    "product"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 930,
+  "source_path": "reports/poten/2024/poten_2024-09-20_very-large-clean-carriers.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2024_09_20_very_large_clean_carriers__s01_unusual_markets_create_unusual_trades",
+      "doc_id": "poten_tankers_no_date_poten_2024_09_20_very_large_clean_carriers",
+      "parent_id": "poten_tankers_no_date_poten_2024_09_20_very_large_clean_carriers__root",
+      "title": "Unusual markets create unusual trades",
+      "section_path": [
+        "Unusual markets create unusual trades"
+      ],
+      "section_path_text": "Unusual markets create unusual trades",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The tanker industry has a reputation for being a very traditional business. Compared to other industries there has not been a lot of innovation in the way crude oil and petroleum products are moved.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "meg",
+        "crude_oil",
+        "products",
+        "gas",
+        "tankers"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 923,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

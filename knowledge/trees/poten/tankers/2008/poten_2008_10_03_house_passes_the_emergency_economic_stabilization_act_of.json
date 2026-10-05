@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_10_03_house_passes_the_emergency_economic_stabilization_act_of__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_10_03_house_passes_the_emergency_economic_stabilization_act_of",
+  "parent_id": null,
+  "title": "House Passes the Emergency Economic Stabilization Act of 2008",
+  "section_path": [
+    "House Passes the Emergency Economic Stabilization Act of 2008"
+  ],
+  "section_path_text": "House Passes the Emergency Economic Stabilization Act of 2008",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "House Passes the Emergency Economic Stabilization Act of 2008\nThe following is a reprint of a noteworthy piece published by the law firm Dewey & LeBoeuf LLP. On October 3, 2008, the United States House of Representatives passed the Emergency Economic Stabilization Act of 2008 (the \"Stabilization Act\" or \"Act\"). 1 The Senate had already passed the Stabilization Act on October 1, 2008.",
+  "keywords": [
+    "treasury",
+    "financial",
+    "act",
+    "institutions",
+    "purchase",
+    "assets",
+    "stabilization",
+    "authority",
+    "troubled",
+    "executive",
+    "are",
+    "any"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2453,
+  "source_path": "reports/poten/2008/poten_2008-10-03_house-passes-the-emergency-economic-stabilization-act-of.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_10_03_house_passes_the_emergency_economic_stabilization_act_of__s01_house_passes_the_emergency_economic_stabilization_act_of_2008",
+      "doc_id": "poten_tankers_no_date_poten_2008_10_03_house_passes_the_emergency_economic_stabilization_act_of",
+      "parent_id": "poten_tankers_no_date_poten_2008_10_03_house_passes_the_emergency_economic_stabilization_act_of__root",
+      "title": "House Passes the Emergency Economic Stabilization Act of 2008",
+      "section_path": [
+        "House Passes the Emergency Economic Stabilization Act of 2008"
+      ],
+      "section_path_text": "House Passes the Emergency Economic Stabilization Act of 2008",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The following is a reprint of a noteworthy piece published by the law firm Dewey & LeBoeuf LLP. On October 3, 2008, the United States House of Representatives passed the Emergency Economic Stabilization Act of 2008 (the \"Stabilization Act\" or \"Act\").",
+      "keywords": [
+        "treasury",
+        "financial",
+        "act",
+        "institutions",
+        "purchase",
+        "assets",
+        "authority",
+        "stabilization"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2438,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2026-09-30_2026_09_30_us_diesel_ban_would_reshape_clean_tanker_trade__root",
+  "doc_id": "breakwave_insights_insights_2026-09-30_2026_09_30_us_diesel_ban_would_reshape_clean_tanker_trade",
+  "parent_id": null,
+  "title": "US diesel ban would reshape clean tanker trade",
+  "section_path": [
+    "US diesel ban would reshape clean tanker trade"
+  ],
+  "section_path_text": "US diesel ban would reshape clean tanker trade",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Mary Melton\nThe US diesel export ban, that Mr. Trump has floated as a means of cutting domestic diesel prices in the run-up to the midterm elections, would remove or reduce one of the largest sources of MR employment in the Atlantic. While tonne-miles would increase as Europe and Brazil replace lost US diesel with barrels from the Middle East and Asia, much of that benefit is likely to accrue to LRs rather than MRs.",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "china",
+    "brazil",
+    "atlantic",
+    "meg",
+    "europe",
+    "india",
+    "us_gulf",
+    "products",
+    "diesel",
+    "would"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1756,
+  "source_path": "reports/breakwave/2026/2026-09-30_us-diesel-ban-would-reshape-clean-tanker-trade.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/9/30/us-diesel-ban-would-reshape-clean-tanker-trade",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-09-30_2026_09_30_us_diesel_ban_would_reshape_clean_tanker_trade__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-09-30_2026_09_30_us_diesel_ban_would_reshape_clean_tanker_trade",
+      "parent_id": "breakwave_insights_insights_2026-09-30_2026_09_30_us_diesel_ban_would_reshape_clean_tanker_trade__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Mary Melton\nThe US diesel export ban, that Mr. Trump has floated as a means of cutting domestic diesel prices in the run-up to the midterm elections, would remove or reduce one of the largest sources of MR employment in the Atlantic.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "china",
+        "brazil",
+        "atlantic",
+        "meg",
+        "europe",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1567,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-09-30_2026_09_30_us_diesel_ban_would_reshape_clean_tanker_trade__s02_linked_asset_2026_09_30_us_diesel_ban_would_reshape_clean_tanker_trade_img_445d_image_0_1790697781414_6652e7386293_png",
+      "doc_id": "breakwave_insights_insights_2026-09-30_2026_09_30_us_diesel_ban_would_reshape_clean_tanker_trade",
+      "parent_id": "breakwave_insights_insights_2026-09-30_2026_09_30_us_diesel_ban_would_reshape_clean_tanker_trade__root",
+      "title": "Linked asset: 2026-09-30_us-diesel-ban-would-reshape-clean-tanker-trade_img_445d-image-0-1790697781414_6652e7386293.png",
+      "section_path": [
+        "Linked asset: 2026-09-30_us-diesel-ban-would-reshape-clean-tanker-trade_img_445d-image-0-1790697781414_6652e7386293.png"
+      ],
+      "section_path_text": "Linked asset: 2026-09-30_us-diesel-ban-would-reshape-clean-tanker-trade_img_445d-image-0-1790697781414_6652e7386293.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-09-30_us-diesel-ban-would-reshape-clean-tanker-trade_img_445d-image-0-1790697781414_6652e7386293.png\n\nLinked image asset: 2026-09-30_us-diesel-ban-would-reshape-clean-tanker-trade_img_445d-image-0-1790697781414_6652e7386293.png\n\nImage metadata: PNG 720x591 mode=RGBA\n\nEmbedded info:\ndpi: (149.987, 149.987)\n\nOCR text:\n1, gol a | i\nnl [H rr iy ,",
+      "keywords": [
+        "products",
+        "asset",
+        "image",
+        "dpi",
+        "embedded",
+        "gol",
+        "info",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 142,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_06_03_cover_your_asset__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_06_03_cover_your_asset",
+  "parent_id": null,
+  "title": "Cover Your Asset",
+  "section_path": [
+    "Cover Your Asset"
+  ],
+  "section_path_text": "Cover Your Asset",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Cover Your Asset\nThe low earnings and high bunker prices seen in the market as of late have created a challenging financial environment for many shipowners. However, for every cloud, there is a silver lining. For those taking the long view, depressed markets may present opportunities to acquire cheap assets.",
+  "keywords": [
+    "china",
+    "japan",
+    "newbuilding",
+    "owners",
+    "chinese",
+    "delivery",
+    "price",
+    "yards",
+    "years",
+    "current",
+    "tonnage",
+    "ship"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1156,
+  "source_path": "reports/poten/2011/poten_2011-06-03_cover-your-asset.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_06_03_cover_your_asset__s01_cover_your_asset",
+      "doc_id": "poten_tankers_no_date_poten_2011_06_03_cover_your_asset",
+      "parent_id": "poten_tankers_no_date_poten_2011_06_03_cover_your_asset__root",
+      "title": "Cover Your Asset",
+      "section_path": [
+        "Cover Your Asset"
+      ],
+      "section_path_text": "Cover Your Asset",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The low earnings and high bunker prices seen in the market as of late have created a challenging financial environment for many shipowners. However, for every cloud, there is a silver lining.",
+      "keywords": [
+        "are",
+        "owners",
+        "acquire",
+        "assets.",
+        "attractive",
+        "bunker",
+        "but",
+        "buyers"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 125,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_06_03_cover_your_asset__s02_the_price_is_right",
+      "doc_id": "poten_tankers_no_date_poten_2011_06_03_cover_your_asset",
+      "parent_id": "poten_tankers_no_date_poten_2011_06_03_cover_your_asset__root",
+      "title": "The Price is Right",
+      "section_path": [
+        "The Price is Right"
+      ],
+      "section_path_text": "The Price is Right",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The interest in acquiring assets right now is understandable when one compares current pricing levels with those seen over the past five years. The current assessed price for a product tanker newbuilding at a Korean yard with two years forward delivery is about 30% lower than the market high experienced August of 2008, and around 13% lower than the five year average, as shown in the chart below:",
+      "keywords": [
+        "current",
+        "five",
+        "lower",
+        "acquiring",
+        "around",
+        "assessed",
+        "assets",
+        "august"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 79,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_06_03_cover_your_asset__s03_newbuilding_price",
+      "doc_id": "poten_tankers_no_date_poten_2011_06_03_cover_your_asset",
+      "parent_id": "poten_tankers_no_date_poten_2011_06_03_cover_your_asset__root",
+      "title": "Newbuilding Price",
+      "section_path": [
+        "Newbuilding Price"
+      ],
+      "section_path_text": "Newbuilding Price",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Secondhand Price 5 Year High 5 Year Low 5 Year Average Ship prices tend to move in tandem with charter rates, as asset values reflect the possible return on investment. As a general rule, a secondhand ship will sell at a discount to a newbuilding contract for a brand new vessel, however, certain markets create exceptions to this rule.",
+      "keywords": [
+        "newbuilding",
+        "secondhand",
+        "year",
+        "price",
+        "prices",
+        "ship",
+        "asset",
+        "contract"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 260,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_06_03_cover_your_asset__s04_chinese_takeout",
+      "doc_id": "poten_tankers_no_date_poten_2011_06_03_cover_your_asset",
+      "parent_id": "poten_tankers_no_date_poten_2011_06_03_cover_your_asset__root",
+      "title": "Chinese Takeout",
+      "section_path": [
+        "Chinese Takeout"
+      ],
+      "section_path_text": "Chinese Takeout",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Shipbuilding dynamics have in themselves worked to lure tonnage‐hungry owners to the newbuilding market. Historically, Japan and South Korea have built the vast majority of the tanker orderbook.",
+      "keywords": [
+        "china",
+        "japan",
+        "tonnage",
+        "newbuilding",
+        "actual",
+        "below",
+        "built",
+        "chinese"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 162,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_06_03_cover_your_asset__s05_on_order",
+      "doc_id": "poten_tankers_no_date_poten_2011_06_03_cover_your_asset",
+      "parent_id": "poten_tankers_no_date_poten_2011_06_03_cover_your_asset__root",
+      "title": "On Order",
+      "section_path": [
+        "On Order"
+      ],
+      "section_path_text": "On Order",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Historical 2005 2006 2007 2008 2009 2010 2011 YTD 2011 2012 2013 2014 The past two years have seen a significant amount of slippage and reshuffling of orders at yards, indicating that the rate of overall deliveries is likely to change given the challenges of the current market. In these challenging times, shipyards fearing cancellations have shown an amount of flexibility by working with owners to strategically delay delivery of vessels or convert existing orders to other ship types.",
+      "keywords": [
+        "china",
+        "japan",
+        "chinese",
+        "yards",
+        "orders",
+        "owners",
+        "south",
+        "amount"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 285,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_06_03_cover_your_asset__s06_if_you_build_it_what_will_come",
+      "doc_id": "poten_tankers_no_date_poten_2011_06_03_cover_your_asset",
+      "parent_id": "poten_tankers_no_date_poten_2011_06_03_cover_your_asset__root",
+      "title": "If You Build It, What Will Come",
+      "section_path": [
+        "If You Build It, What Will Come"
+      ],
+      "section_path_text": "If You Build It, What Will Come",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Newbuilding contract prices can be seen as representative of future sentiment, as delivery generally takes place at least two years forward. The degree of speculation does create exposure to risk, as any owner who ordered a ship during the boom years of 2007 and 2008 knows all too well, but for the well‐positioned optimist, bad years in the spot market may be great years to acquire assets.",
+      "keywords": [
+        "years",
+        "bad",
+        "but",
+        "delivery",
+        "newbuilding",
+        "owner",
+        "ship",
+        "well"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 216,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

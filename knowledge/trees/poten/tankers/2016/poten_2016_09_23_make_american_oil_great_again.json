@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2016_09_23_make_american_oil_great_again__root",
+  "doc_id": "poten_tankers_no_date_poten_2016_09_23_make_american_oil_great_again",
+  "parent_id": null,
+  "title": "Make American Oil Great Again",
+  "section_path": [
+    "Make American Oil Great Again"
+  ],
+  "section_path_text": "Make American Oil Great Again",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "US developments will have a big impact on world energy\nThe current state of the tanker market is nothing to write home about, so this week we shift gears and concentrate on longer-term prospects. Energy Information Administration (EIA) issued its Annual Energy Outlook 2016, with projections that focus on the factors expected to shape U.S. It is a 256 page document covering potential changes in U.S.",
+  "keywords": [
+    "vlcc",
+    "atlantic",
+    "coal",
+    "crude_oil",
+    "products",
+    "gas",
+    "oil",
+    "u.s.",
+    "energy",
+    "crude",
+    "mb/d",
+    "eia"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 943,
+  "source_path": "reports/poten/2016/poten_2016-09-23_make-american-oil-great-again.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_09_23_make_american_oil_great_again__s01_us_developments_will_have_a_big_impact_on_world_energy",
+      "doc_id": "poten_tankers_no_date_poten_2016_09_23_make_american_oil_great_again",
+      "parent_id": "poten_tankers_no_date_poten_2016_09_23_make_american_oil_great_again__root",
+      "title": "US developments will have a big impact on world energy",
+      "section_path": [
+        "US developments will have a big impact on world energy"
+      ],
+      "section_path_text": "US developments will have a big impact on world energy",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The current state of the tanker market is nothing to write home about, so this week we shift gears and concentrate on longer-term prospects. Energy Information Administration (EIA) issued its Annual Energy Outlook 2016, with projections that focus on the factors expected to shape U.S.",
+      "keywords": [
+        "vlcc",
+        "atlantic",
+        "coal",
+        "crude_oil",
+        "products",
+        "gas",
+        "oil",
+        "u.s."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 932,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

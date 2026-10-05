@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2019_02_01_fuel_fight__root",
+  "doc_id": "poten_tankers_no_date_poten_2019_02_01_fuel_fight",
+  "parent_id": null,
+  "title": "Fuel Fight",
+  "section_path": [
+    "Fuel Fight"
+  ],
+  "section_path_text": "Fuel Fight",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Transatlantic product flows keep changing\nIn the early 2000's, there was a wide discrepancy between the two trades. There was a significant volume of gasoline moving from Europe to the U.S. while there was only a trickle of diesel moving in the other direction.",
+  "keywords": [
+    "atlantic",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "diesel",
+    "was",
+    "demand",
+    "gasoline",
+    "product",
+    "sulphur",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 535,
+  "source_path": "reports/poten/2019/poten_2019-02-01_fuel-fight.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_02_01_fuel_fight__s01_transatlantic_product_flows_keep_changing",
+      "doc_id": "poten_tankers_no_date_poten_2019_02_01_fuel_fight",
+      "parent_id": "poten_tankers_no_date_poten_2019_02_01_fuel_fight__root",
+      "title": "Transatlantic product flows keep changing",
+      "section_path": [
+        "Transatlantic product flows keep changing"
+      ],
+      "section_path_text": "Transatlantic product flows keep changing",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In the early 2000's, there was a wide discrepancy between the two trades. There was a significant volume of gasoline moving from Europe to the U.S.",
+      "keywords": [
+        "atlantic",
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "diesel",
+        "was",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 527,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

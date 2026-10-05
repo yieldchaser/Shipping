@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2016_05_20_less_out_of_africa__root",
+  "doc_id": "poten_tankers_no_date_poten_2016_05_20_less_out_of_africa",
+  "parent_id": null,
+  "title": "Less Out of Africa",
+  "section_path": [
+    "Less Out of Africa"
+  ],
+  "section_path_text": "Less Out of Africa",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "What are the implications for tanker demand? Nigeria's crude oil production and exports have been hit by severe outages as a result of attacks on oil infrastructure by rebel fighters in the Niger River Delta. Various sources report that Qua Iboe Terminal has shut down operations until further notice.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "west_africa",
+    "europe",
+    "india",
+    "crude_oil",
+    "oil",
+    "nigeria",
+    "crude",
+    "production",
+    "u.s."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 878,
+  "source_path": "reports/poten/2016/poten_2016-05-20_less-out-of-africa.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_05_20_less_out_of_africa__s01_what_are_the_implications_for_tanker_demand",
+      "doc_id": "poten_tankers_no_date_poten_2016_05_20_less_out_of_africa",
+      "parent_id": "poten_tankers_no_date_poten_2016_05_20_less_out_of_africa__root",
+      "title": "What are the implications for tanker demand?",
+      "section_path": [
+        "What are the implications for tanker demand?"
+      ],
+      "section_path_text": "What are the implications for tanker demand?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Nigeria's crude oil production and exports have been hit by severe outages as a result of attacks on oil infrastructure by rebel fighters in the Niger River Delta. Various sources report that Qua Iboe Terminal has shut down operations until further notice.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "west_africa",
+        "europe",
+        "india",
+        "crude_oil",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 870,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

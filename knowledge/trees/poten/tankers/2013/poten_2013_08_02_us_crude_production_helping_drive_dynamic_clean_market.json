@@ -1,0 +1,141 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2013_08_02_us_crude_production_helping_drive_dynamic_clean_market__root",
+  "doc_id": "poten_tankers_no_date_poten_2013_08_02_us_crude_production_helping_drive_dynamic_clean_market",
+  "parent_id": null,
+  "title": "US Crude Production Helping Drive Dynamic Clean Market",
+  "section_path": [
+    "US Crude Production Helping Drive Dynamic Clean Market"
+  ],
+  "section_path_text": "US Crude Production Helping Drive Dynamic Clean Market",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Shale oil leading to surge\nWith United States crude oil production rising to levels unseen in 22 years, the US must find consumers with whom they can place this excess oil. However, the US cannot export any of this crude oil with the exception of limited quantities to Canada due to self-imposed regulatory constraints. Thus the US is left to refine much of this crude and then export it, causing an increase in product tanker movement ex-United States Gulf (USG) to the South American, Central American, and West African (WAF) zones.",
+  "keywords": [
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "product",
+    "oil",
+    "crude",
+    "exports",
+    "european",
+    "america",
+    "american"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 616,
+  "source_path": "reports/poten/2013/poten_2013-08-02_us-crude-production-helping-drive-dynamic-clean-market.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_08_02_us_crude_production_helping_drive_dynamic_clean_market__s01_shale_oil_leading_to_surge",
+      "doc_id": "poten_tankers_no_date_poten_2013_08_02_us_crude_production_helping_drive_dynamic_clean_market",
+      "parent_id": "poten_tankers_no_date_poten_2013_08_02_us_crude_production_helping_drive_dynamic_clean_market__root",
+      "title": "Shale oil leading to surge",
+      "section_path": [
+        "Shale oil leading to surge"
+      ],
+      "section_path_text": "Shale oil leading to surge",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "With United States crude oil production rising to levels unseen in 22 years, the US must find consumers with whom they can place this excess oil. However, the US cannot export any of this crude oil with the exception of limited quantities to Canada due to self-imposed regulatory constraints.",
+      "keywords": [
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "oil",
+        "crude",
+        "product",
+        "american",
+        "european"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 220,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_08_02_us_crude_production_helping_drive_dynamic_clean_market__s02_dirty_imports_falling",
+      "doc_id": "poten_tankers_no_date_poten_2013_08_02_us_crude_production_helping_drive_dynamic_clean_market",
+      "parent_id": "poten_tankers_no_date_poten_2013_08_02_us_crude_production_helping_drive_dynamic_clean_market__root",
+      "title": "Dirty imports falling",
+      "section_path": [
+        "Dirty imports falling"
+      ],
+      "section_path_text": "Dirty imports falling",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "while clean exports gain While product tankers ex-US have always played a prominent role in Latin America, the recent strength of US oil production has further increased these voyages. More surprisingly, the US has shown increased product exports to West Africa, from where America has in the past primarily been an importer of crude oil.",
+      "keywords": [
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "product",
+        "are",
+        "european"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 207,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_08_02_us_crude_production_helping_drive_dynamic_clean_market__s03_us_clean_exports_moving",
+      "doc_id": "poten_tankers_no_date_poten_2013_08_02_us_crude_production_helping_drive_dynamic_clean_market",
+      "parent_id": "poten_tankers_no_date_poten_2013_08_02_us_crude_production_helping_drive_dynamic_clean_market__root",
+      "title": "US clean exports moving",
+      "section_path": [
+        "US clean exports moving"
+      ],
+      "section_path_text": "US clean exports moving",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "into Africa From January to July of this year, the benchmark MR route USG to CAR saw 83 vessels make the voyage, compared to 53 over the same period in 2012. Another reason for the increase to South and Central America is the loss of 226 kbpd of refining capacity this year, highlighted by the closure of the St.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "products",
+        "africa",
+        "america",
+        "capacity",
+        "refined",
+        "year"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 164,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_08_02_us_crude_production_helping_drive_dynamic_clean_market__s04_product_supply_and",
+      "doc_id": "poten_tankers_no_date_poten_2013_08_02_us_crude_production_helping_drive_dynamic_clean_market",
+      "parent_id": "poten_tankers_no_date_poten_2013_08_02_us_crude_production_helping_drive_dynamic_clean_market__root",
+      "title": "Product supply and",
+      "section_path": [
+        "Product supply and"
+      ],
+      "section_path_text": "Product supply and",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "balances",
+        "demand",
+        "flux"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

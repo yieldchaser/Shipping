@@ -1,0 +1,167 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2009_10_09_a_farewell_contango__root",
+  "doc_id": "poten_tankers_no_date_poten_2009_10_09_a_farewell_contango",
+  "parent_id": null,
+  "title": "A Farewell Contango?",
+  "section_path": [
+    "A Farewell Contango?"
+  ],
+  "section_path_text": "A Farewell Contango?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The storage of crude oil and petroleum products at sea has been an important factor in the tanker market throughout 2009. It can be argued that the use of tankers as floating storage by refiners, oil majors, and traders has helped support freight rates by providing term employment for ships in a challenging rate environment. The contango structure in crude oil markets which inspired the uptick in storage fixtures has narrowed since the first quarter of this year and there are indications that the dynamics of floating storage are in flux.",
+  "keywords": [
+    "europe",
+    "singapore",
+    "crude_oil",
+    "products",
+    "oil",
+    "storage",
+    "crude",
+    "contango",
+    "tankers",
+    "mo.",
+    "are",
+    "curve"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 975,
+  "source_path": "reports/poten/2009/poten_2009-10-09_a-farewell-contango.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_10_09_a_farewell_contango__s01_a_farewell_contango",
+      "doc_id": "poten_tankers_no_date_poten_2009_10_09_a_farewell_contango",
+      "parent_id": "poten_tankers_no_date_poten_2009_10_09_a_farewell_contango__root",
+      "title": "A Farewell Contango?",
+      "section_path": [
+        "A Farewell Contango?"
+      ],
+      "section_path_text": "A Farewell Contango?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The storage of crude oil and petroleum products at sea has been an important factor in the tanker market throughout 2009. It can be argued that the use of tankers as floating storage by refiners, oil majors, and traders has helped support freight rates by providing term employment for ships in a challenging rate environment.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "oil",
+        "storage",
+        "crude",
+        "tankers",
+        "are",
+        "contango"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 285,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_10_09_a_farewell_contango__s02_differential_from_spot_price",
+      "doc_id": "poten_tankers_no_date_poten_2009_10_09_a_farewell_contango",
+      "parent_id": "poten_tankers_no_date_poten_2009_10_09_a_farewell_contango__root",
+      "title": "Differential From Spot Price",
+      "section_path": [
+        "Differential From Spot Price"
+      ],
+      "section_path_text": "Differential From Spot Price",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "mo."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 23,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_10_09_a_farewell_contango__s03_december_2008_curve",
+      "doc_id": "poten_tankers_no_date_poten_2009_10_09_a_farewell_contango",
+      "parent_id": "poten_tankers_no_date_poten_2009_10_09_a_farewell_contango__root",
+      "title": "December 2008 Curve",
+      "section_path": [
+        "December 2008 Curve"
+      ],
+      "section_path_text": "December 2008 Curve",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "June 2009 Curve September 2009 Curve October 2009 Curve Tanker storage fixtures are typically short‐term time charters ranging from 30 to 90 days, often with the option to be extended longer. Additionally, vessels continue to be fixed on the spot market with storage options attached.",
+      "keywords": [
+        "europe",
+        "singapore",
+        "crude_oil",
+        "storage",
+        "curve",
+        "current",
+        "tankers",
+        "vessels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 179,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_10_09_a_farewell_contango__s04_unwinding_contango",
+      "doc_id": "poten_tankers_no_date_poten_2009_10_09_a_farewell_contango",
+      "parent_id": "poten_tankers_no_date_poten_2009_10_09_a_farewell_contango__root",
+      "title": "Unwinding Contango",
+      "section_path": [
+        "Unwinding Contango"
+      ],
+      "section_path_text": "Unwinding Contango",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "A number of factors conspired to make storage beneficial for both charterers and owners this year. In December of 2008, with oil prices low in the aftermath of economic collapse, storage fixtures started to have a noticeable impact on the market.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "storage",
+        "crude",
+        "fixtures",
+        "year.",
+        "changes",
+        "december"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 350,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_10_09_a_farewell_contango__s05_back_to_backwardation",
+      "doc_id": "poten_tankers_no_date_poten_2009_10_09_a_farewell_contango",
+      "parent_id": "poten_tankers_no_date_poten_2009_10_09_a_farewell_contango__root",
+      "title": "Back to Backwardation?",
+      "section_path": [
+        "Back to Backwardation?"
+      ],
+      "section_path_text": "Back to Backwardation?",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "If contango is in fact winding down, the reasons behind this change could spell mixed news for the tanker market. A reduction in crude oil in floating storage in the immediate future threatens to reduce import needs of long‐haul crude oil by disgorging volumes of nearby oil to waiting refiners while simultaneously reintroducing ships to the market, undoubtedly depressing rates.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "contango",
+        "crude",
+        "behind",
+        "can",
+        "change",
+        "could"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 108,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

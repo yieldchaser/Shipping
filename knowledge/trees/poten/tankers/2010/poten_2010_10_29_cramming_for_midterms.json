@@ -1,0 +1,196 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_10_29_cramming_for_midterms__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_10_29_cramming_for_midterms",
+  "parent_id": null,
+  "title": "Cramming for Midterms",
+  "section_path": [
+    "Cramming for Midterms"
+  ],
+  "section_path_text": "Cramming for Midterms",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Cramming for Midterms\nTemperatures may be cooling, but the heat is on in the political arena as we quickly approach the time for US midterm elections. While those following the election have likely heard many promises to create new jobs and much about candidates' respective dirty laundry, discussion of future energy policy has been largely absent from this year's political debate. In the 2008 race, consumers felt the pinch of record high gasoline and fuel prices, confounding energy and environmental issues with taxpayers' concern for their bottom line.",
+  "keywords": [
+    "crude_oil",
+    "products",
+    "gas",
+    "energy",
+    "jobs",
+    "american",
+    "domestic",
+    "economy",
+    "likely",
+    "not",
+    "create",
+    "economic"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 717,
+  "source_path": "reports/poten/2010/poten_2010-10-29_cramming-for-midterms.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_10_29_cramming_for_midterms__s01_cramming_for_midterms",
+      "doc_id": "poten_tankers_no_date_poten_2010_10_29_cramming_for_midterms",
+      "parent_id": "poten_tankers_no_date_poten_2010_10_29_cramming_for_midterms__root",
+      "title": "Cramming for Midterms",
+      "section_path": [
+        "Cramming for Midterms"
+      ],
+      "section_path_text": "Cramming for Midterms",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Temperatures may be cooling, but the heat is on in the political arena as we quickly approach the time for US midterm elections. While those following the election have likely heard many promises to create new jobs and much about candidates' respective dirty laundry, discussion of future energy policy has been largely absent from this year's political debate.",
+      "keywords": [
+        "products",
+        "gas",
+        "energy",
+        "american",
+        "candidates",
+        "few",
+        "likely",
+        "many"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 200,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_10_29_cramming_for_midterms__s02_it_s_the_economy_stupid",
+      "doc_id": "poten_tankers_no_date_poten_2010_10_29_cramming_for_midterms",
+      "parent_id": "poten_tankers_no_date_poten_2010_10_29_cramming_for_midterms__root",
+      "title": "It's the Economy, Stupid",
+      "section_path": [
+        "It's the Economy, Stupid"
+      ],
+      "section_path_text": "It's the Economy, Stupid",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The chart below shows that the state of the economy is overwhelmingly the key issue for American voters this election season.",
+      "keywords": [
+        "american",
+        "below",
+        "chart",
+        "economy",
+        "election",
+        "issue",
+        "key",
+        "overwhelmingly"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 22,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_10_29_cramming_for_midterms__s03_size_and_power_of",
+      "doc_id": "poten_tankers_no_date_poten_2010_10_29_cramming_for_midterms",
+      "parent_id": "poten_tankers_no_date_poten_2010_10_29_cramming_for_midterms__root",
+      "title": "Size and Power of",
+      "section_path": [
+        "Size and Power of"
+      ],
+      "section_path_text": "Size and Power of",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "federal",
+        "government"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_10_29_cramming_for_midterms__s04_percentage_of_registered_voters",
+      "doc_id": "poten_tankers_no_date_poten_2010_10_29_cramming_for_midterms",
+      "parent_id": "poten_tankers_no_date_poten_2010_10_29_cramming_for_midterms__root",
+      "title": "Percentage of Registered Voters",
+      "section_path": [
+        "Percentage of Registered Voters"
+      ],
+      "section_path_text": "Percentage of Registered Voters",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "With unemployment hovering around 10 percent and housing foreclosures once again making sweeping headlines, the American public is turning to elected officials to create new jobs and take the measures necessary to jumpstart economic growth.",
+      "keywords": [
+        "again",
+        "american",
+        "around",
+        "create",
+        "economic",
+        "elected",
+        "foreclosures",
+        "growth."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 41,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_10_29_cramming_for_midterms__s05_not_in_my_backyard",
+      "doc_id": "poten_tankers_no_date_poten_2010_10_29_cramming_for_midterms",
+      "parent_id": "poten_tankers_no_date_poten_2010_10_29_cramming_for_midterms__root",
+      "title": "Not in My Backyard",
+      "section_path": [
+        "Not in My Backyard"
+      ],
+      "section_path_text": "Not in My Backyard",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "As shown in the chart below, the US energy production in 2009 was equal to 77% percent of its own requirement. 2009 Domestic US Energy Use by Source vs.",
+      "keywords": [
+        "energy",
+        "below",
+        "billion",
+        "btu",
+        "chart",
+        "domestic",
+        "equal",
+        "imports"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 43,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_10_29_cramming_for_midterms__s06_fossil_fuel_imports",
+      "doc_id": "poten_tankers_no_date_poten_2010_10_29_cramming_for_midterms",
+      "parent_id": "poten_tankers_no_date_poten_2010_10_29_cramming_for_midterms__root",
+      "title": "Fossil Fuel Imports",
+      "section_path": [
+        "Fossil Fuel Imports"
+      ],
+      "section_path_text": "Fossil Fuel Imports",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "According to a 2009 study by PricewaterhouseCoopers, the United States oil and natural gas industry supports more than 9 million domestic jobs and, with a value‐added contribution to the economy of more than $1 trillion US dollars, accounted for 7.5% of the U.S. Placing punitive taxes on domestic energy production and creating legislative red tape prevents the expansion of our domestic energy industry.",
+      "keywords": [
+        "crude_oil",
+        "gas",
+        "jobs",
+        "domestic",
+        "energy",
+        "american",
+        "not",
+        "petroleum"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 371,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

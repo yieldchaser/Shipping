@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2015_06_26_tanker_prices__root",
+  "doc_id": "poten_tankers_no_date_poten_2015_06_26_tanker_prices",
+  "parent_id": null,
+  "title": "Tanker Prices",
+  "section_path": [
+    "Tanker Prices"
+  ],
+  "section_path_text": "Tanker Prices",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Name Your Price\nCrude oil tanker prices have moved somewhat out of sync as of late. In the most recent Marine Project Report, Poten's assessment of a VLCC newbuilding contract is approximately $95.5 million, down $2 million from the end of 2014, while prices for 5 year old VLCCs are currently assessed at $80 million, $5 million higher than in December 2014 (see Figure 1). Developments for Suezmaxes are even more extreme with newbuilding contract price assessments are $2 million lower than levels seen at the end of 2014, while 5 year old values increased by $6 million over the same period.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "crude_oil",
+    "prices",
+    "are",
+    "million",
+    "newbuilding",
+    "year",
+    "during",
+    "hand",
+    "second",
+    "contract"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 744,
+  "source_path": "reports/poten/2015/poten_2015-06-26_tanker-prices.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2015_06_26_tanker_prices__s01_name_your_price",
+      "doc_id": "poten_tankers_no_date_poten_2015_06_26_tanker_prices",
+      "parent_id": "poten_tankers_no_date_poten_2015_06_26_tanker_prices__root",
+      "title": "Name Your Price",
+      "section_path": [
+        "Name Your Price"
+      ],
+      "section_path_text": "Name Your Price",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Crude oil tanker prices have moved somewhat out of sync as of late. In the most recent Marine Project Report, Poten's assessment of a VLCC newbuilding contract is approximately $95.5 million, down $2 million from the end of 2014, while prices for 5 year old VLCCs are currently assessed at $80 million, $5 million higher than in December 2014 (see Figure 1).",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "crude_oil",
+        "prices",
+        "are",
+        "million",
+        "newbuilding",
+        "year"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 740,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

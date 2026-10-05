@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2020_02_14_corona_virus_infects_tanker_market__root",
+  "doc_id": "poten_tankers_no_date_poten_2020_02_14_corona_virus_infects_tanker_market",
+  "parent_id": null,
+  "title": "Corona Virus Infects Tanker Market",
+  "section_path": [
+    "Corona Virus Infects Tanker Market"
+  ],
+  "section_path_text": "Corona Virus Infects Tanker Market",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The spreading virus has myriad effects on tanker supply\nThe corona virus (now officially called COVID-19 by the World Health Organization) continues to spread, albeit primarily among the unfortunate population of mainland China. When we talked about the corona virus in our Weekly Opinion three weeks ago, officials had counted 600 infected people and 17 deaths. The most recent numbers are 60,360 people diagnosed and 1,370 patients that have died.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "atlantic",
+    "crude_oil",
+    "are",
+    "oil",
+    "virus",
+    "chinese",
+    "covid-19",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 822,
+  "source_path": "reports/poten/2020/poten_2020-02-14_corona-virus-infects-tanker-market.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_02_14_corona_virus_infects_tanker_market__s01_the_spreading_virus_has_myriad_effects_on_tanker_supply",
+      "doc_id": "poten_tankers_no_date_poten_2020_02_14_corona_virus_infects_tanker_market",
+      "parent_id": "poten_tankers_no_date_poten_2020_02_14_corona_virus_infects_tanker_market__root",
+      "title": "The spreading virus has myriad effects on tanker supply",
+      "section_path": [
+        "The spreading virus has myriad effects on tanker supply"
+      ],
+      "section_path_text": "The spreading virus has myriad effects on tanker supply",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The corona virus (now officially called COVID-19 by the World Health Organization) continues to spread, albeit primarily among the unfortunate population of mainland China. When we talked about the corona virus in our Weekly Opinion three weeks ago, officials had counted 600 infected people and 17 deaths.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "atlantic",
+        "crude_oil",
+        "are",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 812,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

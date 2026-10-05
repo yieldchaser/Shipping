@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2004_02_13_powering_the_markets_the_chinese_colossus__root",
+  "doc_id": "poten_tankers_no_date_poten_2004_02_13_powering_the_markets_the_chinese_colossus",
+  "parent_id": null,
+  "title": "Powering the Markets: The Chinese Colossus",
+  "section_path": [
+    "Powering the Markets: The Chinese Colossus"
+  ],
+  "section_path_text": "Powering the Markets: The Chinese Colossus",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Powering the Markets: The Chinese Colossus\nOn Tuesday February 10, the Norwegian-American and Hellenic- American Chambers of Commerce held their tenth annual joint shipping conference in the New York Helmsley Hotel. This year's conference entitled \"Powering the Markets: The Chinese Colossus,\" focused specifically on the economic, financial and legal factors within China. China is fueling shipping demand across the entire industry.",
+  "keywords": [
+    "panamax",
+    "container",
+    "china",
+    "atlantic",
+    "japan",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil",
+    "products",
+    "steel",
+    "gas"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1519,
+  "source_path": "reports/poten/2004/poten_2004-02-13_powering-the-markets-the-chinese-colossus.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_02_13_powering_the_markets_the_chinese_colossus__s01_powering_the_markets_the_chinese_colossus",
+      "doc_id": "poten_tankers_no_date_poten_2004_02_13_powering_the_markets_the_chinese_colossus",
+      "parent_id": "poten_tankers_no_date_poten_2004_02_13_powering_the_markets_the_chinese_colossus__root",
+      "title": "Powering the Markets: The Chinese Colossus",
+      "section_path": [
+        "Powering the Markets: The Chinese Colossus"
+      ],
+      "section_path_text": "Powering the Markets: The Chinese Colossus",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "On Tuesday February 10, the Norwegian-American and Hellenic- American Chambers of Commerce held their tenth annual joint shipping conference in the New York Helmsley Hotel. This year's conference entitled \"Powering the Markets: The Chinese Colossus,\" focused specifically on the economic, financial and legal factors within China.",
+      "keywords": [
+        "container",
+        "china",
+        "japan",
+        "crude_oil",
+        "products",
+        "gas",
+        "conference",
+        "year"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 523,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_02_13_powering_the_markets_the_chinese_colossus__s02_net_exporter",
+      "doc_id": "poten_tankers_no_date_poten_2004_02_13_powering_the_markets_the_chinese_colossus",
+      "parent_id": "poten_tankers_no_date_poten_2004_02_13_powering_the_markets_the_chinese_colossus__root",
+      "title": "Net Exporter",
+      "section_path": [
+        "Net Exporter"
+      ],
+      "section_path_text": "Net Exporter",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The Dry Bulk Shipping Effect Anthony Whitworth, chief executive officer of Navios Corp. discussed, \"Measuring the Impact of China on the Dry Bulk Markets.\" Mr.",
+      "keywords": [
+        "panamax",
+        "china",
+        "atlantic",
+        "japan",
+        "iron_ore",
+        "coal",
+        "grain",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 929,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_02_13_powering_the_markets_the_chinese_colossus__s03_conference_conclusion",
+      "doc_id": "poten_tankers_no_date_poten_2004_02_13_powering_the_markets_the_chinese_colossus",
+      "parent_id": "poten_tankers_no_date_poten_2004_02_13_powering_the_markets_the_chinese_colossus__root",
+      "title": "Conference Conclusion",
+      "section_path": [
+        "Conference Conclusion"
+      ],
+      "section_path_text": "Conference Conclusion",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The question that remains is whether or not China will have sustained enough growth to carry itself beyond that. At this point, 2008 seems quite far away.",
+      "keywords": [
+        "china",
+        "away.",
+        "beyond",
+        "carry",
+        "conclusion",
+        "conference",
+        "enough",
+        "far"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 49,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -9,7 +9,7 @@
   "section_path_text": "Breakwave Tanker Report 7.29.2025",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nVLCC Mid-July Gains Reverse as Charterers Regain Control - The VLCC freight market now seems to have shifted back to a charterer-led\nSource: Breakwave Advisors\n\nLinked asset: 2025-07-29_breakwave-tanker-report-7-29-2025_breakwavetankersjuly292025report_883ed44bdf31.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2025-07-29_breakwave-tanker-report-7-29-2025_breakwavetankersjuly292025report_883ed44bdf31.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nJuly 29, 2025\n• VLCC Mid-July Gains Reverse as Charterers Regain Control - The VLCC freight\nShort-term Indicators\nmarket now seems to have shifted back to a charterer-led environment,\nMomentum: Neutral\nreversing the modest gains seen in mid-July. Rates in both the Arabian Gulf (AG)\nand West Africa (WAF) have come under renewed pressure as charterers regain Sentiment: Positive\ncontrol by slowing down the pace of their inquiries for early August cargoes. This Fundamentals: Positive\nrenewed cargo inquiry pressure, combined with ample vessel availability, has\nshifted the balance in favor of freight buyers, leading to lower rates and weaker\nsentiment across both basins.",
+  "summary": "Main\nVLCC Mid-July Gains Reverse as Charterers Regain Control - The VLCC freight market now seems to have shifted back to a charterer-led\nSource: Breakwave Advisors\n\nLinked asset: 2025-07-29_breakwave-tanker-report-7-29-2025_breakwavetankersjuly292025report_883ed44bdf31.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2025-07-29_breakwave-tanker-report-7-29-2025_breakwavetankersjuly292025report_883ed44bdf31.pdf\n\n# Tanker Shipping\n\n## Bi-Weekly Industry Report\n\n### July 29, 2025\n\n- **VLCC Mid-July Gains Reverse as Charterers Regain Control -** The VLCC freight market now seems to **have shifted back to a charterer-led environment**, reversing the modest gains seen in mid-July. Rates in both the Arabian Gulf (AG) and West Africa (WAF) have come under **renewed pressure** as charterers regain control by slowing down the pace of their inquiries for early August cargoes. This renewed cargo inquiry pressure, combined with ample vessel availability, has shifted the balance in **favor of freight buyers**, leading to lower rates and weaker sentiment across both basins.",
   "keywords": [
     "capesize",
     "vlcc",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1765,
-  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-07-29_breakwave-tanker-report-7-29-2025.html",
+  "token_count": 1846,
+  "source_path": "reports/hellenic/shipbuilding/2025/2025-07-29_breakwave-tanker-report-7-29-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-7-29-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-07-29_breakwave-tanker-report-7-29-2025_breakwavetankersjuly292025report_883ed44bdf31.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-07-29_breakwave-tanker-report-7-29-2025_breakwavetankersjuly292025report_883ed44bdf31.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nJuly 29, 2025\n• VLCC Mid-July Gains Reverse as Charterers Regain Control - The VLCC freight\nShort-term Indicators\nmarket now seems to have shifted back to a charterer-led environment,\nMomentum: Neutral\nreversing the modest gains seen in mid-July. Rates in both the Arabian Gulf (AG)\nand West Africa (WAF) have come under renewed pressure as charterers regain Sentiment: Positive\ncontrol by slowing down the pace of their inquiries for early August cargoes.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-07-29_breakwave-tanker-report-7-29-2025_breakwavetankersjuly292025report_883ed44bdf31.pdf\n\n# Tanker Shipping\n\n## Bi-Weekly Industry Report\n\n### July 29, 2025\n\n- **VLCC Mid-July Gains Reverse as Charterers Regain Control -** The VLCC freight market now seems to **have shifted back to a charterer-led environment**, reversing the modest gains seen in mid-July. Rates in both the Arabian Gulf (AG) and West Africa (WAF) have come under **renewed pressure** as charterers regain control by slowing down the pace of their inquiries for early August cargoes.",
       "keywords": [
         "capesize",
         "vlcc",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1684,
+      "token_count": 1765,
       "section_type": "linked_pdf",
       "children": []
     }

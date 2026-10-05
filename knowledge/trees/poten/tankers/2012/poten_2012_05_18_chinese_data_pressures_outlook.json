@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2012_05_18_chinese_data_pressures_outlook__root",
+  "doc_id": "poten_tankers_no_date_poten_2012_05_18_chinese_data_pressures_outlook",
+  "parent_id": null,
+  "title": "Chinese Data Pressures Outlook",
+  "section_path": [
+    "Chinese Data Pressures Outlook"
+  ],
+  "section_path_text": "Chinese Data Pressures Outlook",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chinese Data Pressures Outlook\nFor the past ten years, China has been a reliable source of bullish macroeconomic indicators across many sectors, although China has not been completely insulated from worldwide economic slowdowns and recession. Even as Europe has slipped towards recession and the United States has produced progressively-weaker numbers, sustained Chinese growth had allowed global economists to maintain positive sentiment towards the region amid a two-tier global economy. Unfortunately, recent statistics out of China are looking worrisome.",
+  "keywords": [
+    "china",
+    "europe",
+    "crude_oil",
+    "chinese",
+    "growth",
+    "crude",
+    "capacity",
+    "demand",
+    "global",
+    "indicators",
+    "oil",
+    "runs"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 202,
+  "source_path": "reports/poten/2012/poten_2012-05-18_chinese-data-pressures-outlook.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_05_18_chinese_data_pressures_outlook__s01_chinese_data_pressures_outlook",
+      "doc_id": "poten_tankers_no_date_poten_2012_05_18_chinese_data_pressures_outlook",
+      "parent_id": "poten_tankers_no_date_poten_2012_05_18_chinese_data_pressures_outlook__root",
+      "title": "Chinese Data Pressures Outlook",
+      "section_path": [
+        "Chinese Data Pressures Outlook"
+      ],
+      "section_path_text": "Chinese Data Pressures Outlook",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "For the past ten years, China has been a reliable source of bullish macroeconomic indicators across many sectors, although China has not been completely insulated from worldwide economic slowdowns and recession. Even as Europe has slipped towards recession and the United States has produced progressively-weaker numbers, sustained Chinese growth had allowed global economists to maintain positive sentiment towards the region amid a two-tier global economy.",
+      "keywords": [
+        "china",
+        "europe",
+        "global",
+        "towards",
+        "allowed",
+        "although",
+        "amid",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 88,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_05_18_chinese_data_pressures_outlook__s02_electricity_generation_lhs",
+      "doc_id": "poten_tankers_no_date_poten_2012_05_18_chinese_data_pressures_outlook",
+      "parent_id": "poten_tankers_no_date_poten_2012_05_18_chinese_data_pressures_outlook__root",
+      "title": "Electricity Generation (lhs)",
+      "section_path": [
+        "Electricity Generation (lhs)"
+      ],
+      "section_path_text": "Electricity Generation (lhs)",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "HSBC Manufacturing PMI (rhs) These bearish macro indicators have extended to key oil statistics. For years, strong Chinese oil product demand growth has supported rapid increases in refining capacity and utilisation rates, leading to robust crude runs and crude import demand growth.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "crude",
+        "growth",
+        "capacity",
+        "chinese",
+        "demand",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 102,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

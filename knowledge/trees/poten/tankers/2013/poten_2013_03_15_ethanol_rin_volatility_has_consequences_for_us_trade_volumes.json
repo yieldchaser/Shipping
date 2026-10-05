@@ -1,0 +1,341 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes__root",
+  "doc_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes",
+  "parent_id": null,
+  "title": "Ethanol RIN Volatility has Consequences for US Trade Volumes",
+  "section_path": [
+    "Ethanol RIN Volatility has Consequences for US Trade Volumes"
+  ],
+  "section_path_text": "Ethanol RIN Volatility has Consequences for US Trade Volumes",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Environmental credit\nThe Renewable Identification Number (RIN) market administered by the US Environmental Protection Agency (EPA) has largely been a boondoggle from its inception. A RIN is a number assigned to individual batches of biofuel that are then used by regulated entities to prove that they are in compliance with the EPA's Renewable Fuel Standard (RFS) program. Companies that produce more RINs than they need can sell the credits to those that need to purchase them in order to be in compliance.",
+  "keywords": [
+    "brazil",
+    "grain",
+    "crude_oil",
+    "products",
+    "gas",
+    "ethanol",
+    "rin",
+    "domestic",
+    "production",
+    "demand",
+    "increased",
+    "mogas"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 865,
+  "source_path": "reports/poten/2013/poten_2013-03-15_ethanol-rin-volatility-has-consequences-for-us-trade-volumes.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes__s01_environmental_credit",
+      "doc_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes",
+      "parent_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes__root",
+      "title": "Environmental credit",
+      "section_path": [
+        "Environmental credit"
+      ],
+      "section_path_text": "Environmental credit",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Renewable Identification Number (RIN) market administered by the US Environmental Protection Agency (EPA) has largely been a boondoggle from its inception. A RIN is a number assigned to individual batches of biofuel that are then used by regulated entities to prove that they are in compliance with the EPA's Renewable Fuel Standard (RFS) program.",
+      "keywords": [
+        "credits",
+        "rin",
+        "are",
+        "epa",
+        "renewable",
+        "can",
+        "generated",
+        "need"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 239,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes__s02_credit_prices_have",
+      "doc_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes",
+      "parent_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes__root",
+      "title": "Credit prices have",
+      "section_path": [
+        "Credit prices have"
+      ],
+      "section_path_text": "Credit prices have",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "increased astronomically 2013 RIN 2012 RIN The drastically reduced crush spread is a factor tightening the supply of RINs. It not only developed last summer due to drought conditions, but has largely remained intact as corn prices have stayed about 17% above their level from this time last year.",
+      "keywords": [
+        "grain",
+        "last",
+        "rin",
+        "above",
+        "astronomically",
+        "but",
+        "conditions",
+        "corn"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 64,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes__s03_us_corn_and_ethanol",
+      "doc_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes",
+      "parent_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes__root",
+      "title": "US Corn and Ethanol",
+      "section_path": [
+        "US Corn and Ethanol"
+      ],
+      "section_path_text": "US Corn and Ethanol",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "contract",
+        "daily",
+        "front",
+        "month",
+        "settlement"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes__s04_ethanol_crush_spread",
+      "doc_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes",
+      "parent_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes__root",
+      "title": "Ethanol crush spread",
+      "section_path": [
+        "Ethanol crush spread"
+      ],
+      "section_path_text": "Ethanol crush spread",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "last",
+        "since",
+        "substantially",
+        "summer",
+        "tighter"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes__s05_corn",
+      "doc_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes",
+      "parent_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes__root",
+      "title": "Corn",
+      "section_path": [
+        "Corn"
+      ],
+      "section_path_text": "Corn",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Ethanol Further complicating matters is the fact that the RFS requirement for the volume of renewable fuels to be blended in the United States will rise to 36 billion gallons by 2022, up from nine billion gallons in 2008. This is problematic as there is a \"blend wall\" that dictates most gasoline can contain no more than 10% ethanol.",
+      "keywords": [
+        "products",
+        "gas",
+        "domestic",
+        "billion",
+        "blend",
+        "decreased",
+        "ethanol",
+        "ethanol."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 117,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes__s06_domestic_production",
+      "doc_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes",
+      "parent_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes__root",
+      "title": "Domestic production",
+      "section_path": [
+        "Domestic production"
+      ],
+      "section_path_text": "Domestic production",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "",
+      "keywords": [
+        "converging",
+        "demand",
+        "levels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes__s07_us_ethanol_production",
+      "doc_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes",
+      "parent_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes__root",
+      "title": "US ethanol production",
+      "section_path": [
+        "US ethanol production"
+      ],
+      "section_path_text": "US ethanol production",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "economics and reduction of trade barriers have increased imports",
+      "keywords": [
+        "barriers",
+        "economics",
+        "imports",
+        "increased",
+        "reduction",
+        "trade"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 10,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes__s08_brazilian_ethanol_has",
+      "doc_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes",
+      "parent_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes__root",
+      "title": "Brazilian ethanol has",
+      "section_path": [
+        "Brazilian ethanol has"
+      ],
+      "section_path_text": "Brazilian ethanol has",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "",
+      "keywords": [
+        "gained",
+        "particular"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes__s09_ethanol_blending",
+      "doc_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes",
+      "parent_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes__root",
+      "title": "Ethanol Blending",
+      "section_path": [
+        "Ethanol Blending"
+      ],
+      "section_path_text": "Ethanol Blending",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "",
+      "keywords": [
+        "ethanol",
+        "production"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes__s10_us_ethanol_imports",
+      "doc_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes",
+      "parent_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes__root",
+      "title": "US Ethanol Imports",
+      "section_path": [
+        "US Ethanol Imports"
+      ],
+      "section_path_text": "US Ethanol Imports",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "",
+      "keywords": [
+        "data",
+        "import",
+        "monthly",
+        "zone"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes__s11_car",
+      "doc_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes",
+      "parent_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes__root",
+      "title": "CAR",
+      "section_path": [
+        "CAR"
+      ],
+      "section_path_text": "CAR",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "ECC ECSA SAF UKC WCCA The United States actually became a net ethanol importer in 2012 with the expiration of protectionist ethanol regulations as imports mainly increased from Brazil. RIN price movements, on the other hand, may spur increased domestic ethanol production by improving the aforementioned crush spread, but such a move may beget both higher corn prices and a political backlash in turn.",
+      "keywords": [
+        "brazil",
+        "grain",
+        "crude_oil",
+        "products",
+        "gas",
+        "ethanol",
+        "may",
+        "united"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 267,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes__s12_artificially_inflated_prices",
+      "doc_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes",
+      "parent_id": "poten_tankers_no_date_poten_2013_03_15_ethanol_rin_volatility_has_consequences_for_us_trade_volumes__root",
+      "title": "Artificially inflated prices",
+      "section_path": [
+        "Artificially inflated prices"
+      ],
+      "section_path_text": "Artificially inflated prices",
+      "level": 1,
+      "ordinal": 12,
+      "summary": "bad for mogas demand in the long run South American ethanol producers may be poised in the short-term to take advantage of the self-inflicted problem in the United States. But while this is a positive development for ton-mile demand, the more likely long-term impact is simply higher mogas prices and decreased mogas demand if the policy is not remedied to avoid such ridiculous artificial price swings.",
+      "keywords": [
+        "gas",
+        "demand",
+        "mogas",
+        "advantage",
+        "american",
+        "artificial",
+        "avoid",
+        "bad"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 78,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

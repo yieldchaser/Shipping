@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_09_30_down_for_the_count__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_09_30_down_for_the_count",
+  "parent_id": null,
+  "title": "Down for the Count!",
+  "section_path": [
+    "Down for the Count!"
+  ],
+  "section_path_text": "Down for the Count!",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Minerals Management Service, Katrina-Rita has knocked out 98.59% of U.S. Gulf production (1,478,780 bpd out of pre-Katrina production of 1,500,000 bpd). Shut-in natural gas production is 79.79% of pre- Katrina production of 10 billion cubic feet per day.",
+  "keywords": [
+    "crude_oil",
+    "products",
+    "gas",
+    "bpd",
+    "gulf",
+    "u.s.",
+    "million",
+    "production",
+    "capacity",
+    "refinery",
+    "cargoes",
+    "down"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 654,
+  "source_path": "reports/poten/2005/poten_2005-09-30_down-for-the-count.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_09_30_down_for_the_count__s01_down_for_the_count",
+      "doc_id": "poten_tankers_no_date_poten_2005_09_30_down_for_the_count",
+      "parent_id": "poten_tankers_no_date_poten_2005_09_30_down_for_the_count__root",
+      "title": "Down for the Count!",
+      "section_path": [
+        "Down for the Count!"
+      ],
+      "section_path_text": "Down for the Count!",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Minerals Management Service, Katrina-Rita has knocked out 98.59% of U.S. Gulf production (1,478,780 bpd out of pre-Katrina production of 1,500,000 bpd).",
+      "keywords": [
+        "crude_oil",
+        "gas",
+        "bpd",
+        "production",
+        "out",
+        "u.s.",
+        "gulf",
+        "platform"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 251,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_09_30_down_for_the_count__s02_clean_product_carrier_impact",
+      "doc_id": "poten_tankers_no_date_poten_2005_09_30_down_for_the_count",
+      "parent_id": "poten_tankers_no_date_poten_2005_09_30_down_for_the_count__root",
+      "title": "Clean Product Carrier Impact",
+      "section_path": [
+        "Clean Product Carrier Impact"
+      ],
+      "section_path_text": "Clean Product Carrier Impact",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "There are two problems that refineries have to face: one is getting started and the second is replacing U.S. Gulf crude that has not yet been restored.",
+      "keywords": [
+        "products",
+        "million",
+        "bpd",
+        "refinery",
+        "capacity",
+        "gulf",
+        "u.s.",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 260,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_09_30_down_for_the_count__s03_rates_up",
+      "doc_id": "poten_tankers_no_date_poten_2005_09_30_down_for_the_count",
+      "parent_id": "poten_tankers_no_date_poten_2005_09_30_down_for_the_count__root",
+      "title": "Rates Up!",
+      "section_path": [
+        "Rates Up!"
+      ],
+      "section_path_text": "Rates Up!",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "A 1.5 million bpd sustained shortage translates to 5-6 cargoes per day, or around 300-350 extra cargoes over the next two months as a result of the one-two punch. Cargoes currently being diverted from the Northeast to the Gulf have to be replaced.",
+      "keywords": [
+        "cargoes",
+        "gulf",
+        "one-two",
+        "anytime",
+        "around",
+        "availability",
+        "because",
+        "become"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 129,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

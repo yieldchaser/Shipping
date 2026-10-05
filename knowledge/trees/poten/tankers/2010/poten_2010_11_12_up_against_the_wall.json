@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_11_12_up_against_the_wall__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_11_12_up_against_the_wall",
+  "parent_id": null,
+  "title": "Up Against the Wall",
+  "section_path": [
+    "Up Against the Wall"
+  ],
+  "section_path_text": "Up Against the Wall",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Up Against the Wall\nLast month, the U.S. Environmental Protection Agency (EPA) issued its response to a March 2009 petition from a group of fuel ethanol promoters and producers to allow bringing to market gasoline containing up to 15% ethanol by volume (E15). The response came in the form of a carefully worded waiver and promptly drew howls of complaints from both proponents and opponents of more ethanol blending.",
+  "keywords": [
+    "grain",
+    "crude_oil",
+    "products",
+    "gas",
+    "ethanol",
+    "gasoline",
+    "e15",
+    "vehicles",
+    "epa",
+    "waiver",
+    "but",
+    "both"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1135,
+  "source_path": "reports/poten/2010/poten_2010-11-12_up-against-the-wall.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_11_12_up_against_the_wall__s01_up_against_the_wall",
+      "doc_id": "poten_tankers_no_date_poten_2010_11_12_up_against_the_wall",
+      "parent_id": "poten_tankers_no_date_poten_2010_11_12_up_against_the_wall__root",
+      "title": "Up Against the Wall",
+      "section_path": [
+        "Up Against the Wall"
+      ],
+      "section_path_text": "Up Against the Wall",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Environmental Protection Agency (EPA) issued its response to a March 2009 petition from a group of fuel ethanol promoters and producers to allow bringing to market gasoline containing up to 15% ethanol by volume (E15). The response came in the form of a carefully worded waiver and promptly drew howls of complaints from both proponents and opponents of more ethanol blending.",
+      "keywords": [
+        "products",
+        "gas",
+        "e15",
+        "epa",
+        "ethanol",
+        "waiver",
+        "its",
+        "not"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 303,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_11_12_up_against_the_wall__s02_shared_unhappiness",
+      "doc_id": "poten_tankers_no_date_poten_2010_11_12_up_against_the_wall",
+      "parent_id": "poten_tankers_no_date_poten_2010_11_12_up_against_the_wall__root",
+      "title": "Shared Unhappiness",
+      "section_path": [
+        "Shared Unhappiness"
+      ],
+      "section_path_text": "Shared Unhappiness",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "One thing parties on both sides of the issue seem to have in common is their displeasure with the waiver. Some ethanol proponents bemoan the waiver for only MY 2007 and newer vehicles as a lost opportunity to reduce the nation's dependence on foreign oil as well as a chance to create unelaborated economic opportunity.",
+      "keywords": [
+        "grain",
+        "crude_oil",
+        "products",
+        "gas",
+        "corn",
+        "e15",
+        "based",
+        "gasoline"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 410,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_11_12_up_against_the_wall__s03_volume_ethanol_in_gasoline",
+      "doc_id": "poten_tankers_no_date_poten_2010_11_12_up_against_the_wall",
+      "parent_id": "poten_tankers_no_date_poten_2010_11_12_up_against_the_wall__root",
+      "title": "Volume % Ethanol in Gasoline",
+      "section_path": [
+        "Volume % Ethanol in Gasoline"
+      ],
+      "section_path_text": "Volume % Ethanol in Gasoline",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Percent ETOH in 9 million b/d Gasoline Blending Wall of 15% Ethanol",
+      "keywords": [
+        "products",
+        "gas",
+        "b/d",
+        "blending",
+        "ethanol",
+        "etoh",
+        "gasoline",
+        "million"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 21,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_11_12_up_against_the_wall__s04_avoiding_the_wall",
+      "doc_id": "poten_tankers_no_date_poten_2010_11_12_up_against_the_wall",
+      "parent_id": "poten_tankers_no_date_poten_2010_11_12_up_against_the_wall__root",
+      "title": "Avoiding the Wall",
+      "section_path": [
+        "Avoiding the Wall"
+      ],
+      "section_path_text": "Avoiding the Wall",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The average gasoline consumption last month across the US was in the vicinity of 9 million barrels per day. This rate was used to gauge how the percentage of ethanol will change with its coming increases in volumes blended.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "gasoline",
+        "ethanol",
+        "e15",
+        "vehicles",
+        "blending"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 377,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

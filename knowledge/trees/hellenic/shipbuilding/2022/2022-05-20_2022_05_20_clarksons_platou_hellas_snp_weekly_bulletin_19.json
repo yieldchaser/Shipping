@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNEW BUILDING: In dry bulk, Clients of Globus Maritime announced ordering two firm 64k dwt Ultramaxes at Nantong COSCO KHI\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-05-20_clarksons-platou-hellas-snp-weekly-bulletin-19_report-20-05-2022_e904850f9f57.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-05-20_clarksons-platou-hellas-snp-weekly-bulletin-19_report-20-05-2022_e904850f9f57.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 20 May 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 5S60ME-C8.2\nSS 04/24\nRIO TAMARA 75,610 2014 TAIZHOU CATIC BWTS fitted - Tier II MID/HIGH USD 23 M GERMAN\nDD 07/22\nIce Class 1C\nWartsila 5RT-flex58T SS 01/24\nPALAIS 75,434 2014 JIANGSU RONGSHENG RGN USD 22 M CHINESE\nBWTS fitted - Tier II DD 01/24\nMAN-B&W 7S50MC-C8.2 SS 09/25\nROSCO OLIVE 74,951 2010 SAEBO RGN USD 25 M U/D\nBWTS fitted DD 04/23\nMAN-B&W 6S42MC-C7\nSS 09/26\nJIN DA 35,212 2011 NANJING DONGZE 4 X 30 T RGN USD 17 M CHINESE\nDD 09/24\nBWTS fitted - Tier II\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 7S80MC SS 06/25\nNEW SPIRIT 298,286 2005 UNIVERSAL USD 33.85 M U/D\nBWTS fitted DD 10/23\nPage 1 of 3\n\n[Page 2]\n",
+  "summary": "Main\nNEW BUILDING: In dry bulk, Clients of Globus Maritime announced ordering two firm 64k dwt Ultramaxes at Nantong COSCO KHI\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-05-20_clarksons-platou-hellas-snp-weekly-bulletin-19_report-20-05-2022_e904850f9f57.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2022-05-20_clarksons-platou-hellas-snp-weekly-bulletin-19_report-20-05-2022_e904850f9f57.pdf\n\n# ` Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 20 May 2022\n\n## BULK CARRIERS\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|RIO TAMARA|75,610|2014 TAIZHOU CATIC|MAN-B&W 5S60ME-C8.2 BWTS fitted-Tier II Ice Class 1C|SS 04/24 DD 07/ 22|MID/HIGH USD 23 M|GERMAN|\n|PALAIS|75,434|2014 JIANGSU RONGSHENG|Wartsila 5RT--flex58T BWTS fitted Tier II|SS 01/ D D 01/24 24|RGN USD 22 M|CHINESE|\n|ROSCO OLIVE|74,951|2010 SAEBO|MAN-B&W 7S50MC -C8.2 BWTS fitted|SS 09/25 DD 04/ 23|RGN USD 25 M|U/D|\n|JIN DA|35,212|2011 NANJING DONGZE|MAN-B&W 6S42MC-C7 4 X 30 T BWTS fitted-Tier II|SS 09/26 DD 09/ 24|RGN USD 17 M|CHINESE|\n\n## <u>TANKERS - CHEMICALS - LPG/LNGs</u>\n\nVESSEL <u>DWT</u> BLT DETAILS <u>SS/DD</u> PRICE BUYER\n\nMANBWTS-B&W fitted 7S80MC SS 06/25 **NEW SPIR",
   "keywords": [
     "lng",
     "lpg",
@@ -18,16 +18,16 @@
     "europe",
     "steel",
     "gas",
-    "any",
-    "information",
-    "clarksons",
     "platou",
-    "two"
+    "clarksons",
+    "any",
+    "two",
+    "firm"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2235,
-  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-05-20_clarksons-platou-hellas-snp-weekly-bulletin-19.html",
+  "token_count": 2483,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-05-20_clarksons-platou-hellas-snp-weekly-bulletin-19.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-19",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-05-20_clarksons-platou-hellas-snp-weekly-bulletin-19_report-20-05-2022_e904850f9f57.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-05-20_clarksons-platou-hellas-snp-weekly-bulletin-19_report-20-05-2022_e904850f9f57.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 20 May 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 5S60ME-C8.2\nSS 04/24\nRIO TAMARA 75,610 2014 TAIZHOU CATIC BWTS fitted - Tier II MID/HIGH USD 23 M GERMAN\nDD 07/22\nIce Class 1C\nWartsila 5RT-flex58T SS 01/24\nPALAIS 75,434 2014 JIANGSU RONGSHENG RGN USD 22 M CHINESE\nBWTS fitted - Tier II DD 01/24\nMAN-B&W 7S50MC-C8.2 SS 09/25\nROSCO OLIVE 74,951 2010 SAEBO RGN USD 25 M U/D\nBWTS fitted DD 04/23\nMAN-B&W 6S42MC-C7\nSS 09/26\nJIN DA 35,212 2011 NANJING DONGZE 4 X 30 T RGN USD 17 M CHINESE\nDD 09/24\nBWTS fitted - Tier II\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 7S80MC SS 06/25\nNEW SPIRIT 298,286 2005 UNIVERSAL USD 33.85 M U/D\nBWTS fitted DD 10/23\nPage 1 of 3\n\n[Page 2]\n1\nSale and Purchase\nHellas S&P Weekly Bulletin 20 May 2022\nNEW BUILDING\nIn dry bulk, Clients of Globus Maritime announced ordering two firm 64k dwt Ultramaxes at Nantong COSCO KHI (NACKs), with delivery of the\nvessels set for 2H 2024. A very busy week in the gas carrier",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-05-20_clarksons-platou-hellas-snp-weekly-bulletin-19_report-20-05-2022_e904850f9f57.pdf\n\n# ` Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 20 May 2022\n\n## BULK CARRIERS\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|RIO TAMARA|75,610|2014 TAIZHOU CATIC|MAN-B&W 5S60ME-C8.2 BWTS fitted-Tier II Ice Class 1C|SS 04/24 DD 07/ 22|MID/HIGH USD 23 M|GERMAN|\n|PALAIS|75,434|2014 JIANGSU RONGSHENG|Wartsila 5RT--flex58T BWTS fitted Tier II|SS 01/ D D 01/24 24|RGN USD 22 M|CHINESE|\n|ROSCO OLIVE|74,951|2010 SAEBO|MAN-B&W 7S50MC -C8.2 BWTS fitted|SS 09/25 DD 04/ 23|RGN USD 25 M|U/D|\n|JIN DA|35,212|2011 NANJING DONGZE|MAN-B&W 6S42MC-C7 4 X 30 T BWTS fitted-Tier II|SS 09/26 DD 09/ 24|RGN USD 17 M|CHINESE|\n\n## <u>TANKERS - CHEMICALS - LPG/LNGs</u>\n\nVESSEL <u>DWT</u> BLT DETAILS <u>SS/DD</u> PRICE BUYER\n\nMANBWTS-B&W fitted 7S80MC SS 06/25 **NEW SPIRIT** 298,286 2005 UNIVERSAL USD 33.85 M U/D DD 10/23\n\n## NEW BUILDING\n\nIn dry bulk, Clients of Globus Maritime announced ordering two firm 64k dwt Ultramaxes at Nantong COSCO KHI (NACKs), with delivery of the vessels set for 2H 2024. A very busy week in the gas carrier se",
       "keywords": [
         "lng",
         "lpg",
@@ -78,11 +78,11 @@
         "europe",
         "steel",
         "gas",
-        "any"
+        "platou"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2144,
+      "token_count": 2392,
       "section_type": "linked_pdf",
       "children": []
     }

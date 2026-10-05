@@ -1,0 +1,216 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_08_03_outpacing_energy_demand__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_08_03_outpacing_energy_demand",
+  "parent_id": null,
+  "title": "Outpacing Energy Demand",
+  "section_path": [
+    "Outpacing Energy Demand"
+  ],
+  "section_path_text": "Outpacing Energy Demand",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Outpacing Energy Demand\nWith the need to transport crude oil growing yearly, tanker owners have correspondingly expanded their VLCC fleets. But the growth rate of the VLCC fleet appears to be running ahead of crude oil's production growth rate. Between 2002 and 2006, crude oil production increased by 2.6 percent per year whereas the number of VLCC's grew by a bristling 3.2 percent per year.",
+  "keywords": [
+    "vlcc",
+    "brazil",
+    "crude_oil",
+    "crude",
+    "oil",
+    "fleet",
+    "avails",
+    "ratio",
+    "growth",
+    "percent",
+    "production",
+    "day"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 586,
+  "source_path": "reports/poten/2007/poten_2007-08-03_outpacing-energy-demand.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_08_03_outpacing_energy_demand__s01_outpacing_energy_demand",
+      "doc_id": "poten_tankers_no_date_poten_2007_08_03_outpacing_energy_demand",
+      "parent_id": "poten_tankers_no_date_poten_2007_08_03_outpacing_energy_demand__root",
+      "title": "Outpacing Energy Demand",
+      "section_path": [
+        "Outpacing Energy Demand"
+      ],
+      "section_path_text": "Outpacing Energy Demand",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "With the need to transport crude oil growing yearly, tanker owners have correspondingly expanded their VLCC fleets. But the growth rate of the VLCC fleet appears to be running ahead of crude oil's production growth rate.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "crude",
+        "growth",
+        "oil",
+        "fleet",
+        "per",
+        "percent"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 105,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_08_03_outpacing_energy_demand__s02_ag_fe_tce",
+      "doc_id": "poten_tankers_no_date_poten_2007_08_03_outpacing_energy_demand",
+      "parent_id": "poten_tankers_no_date_poten_2007_08_03_outpacing_energy_demand__root",
+      "title": "AG-FE TCE",
+      "section_path": [
+        "AG-FE TCE"
+      ],
+      "section_path_text": "AG-FE TCE",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "VLCC Next 30 Days As the preceding chart illustrates, there seems to be an implied relationship from early 2004 to now of generally down trending spot time charter rates when 30 day forward VLCC availabilities are trending upwards. One conclusion that is easy to draw from this chart is that increasing VLCC avails dampen spot rates.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "avails",
+        "chart",
+        "day",
+        "trending",
+        "appreciably",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 129,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_08_03_outpacing_energy_demand__s03_ratio_crude_oil",
+      "doc_id": "poten_tankers_no_date_poten_2007_08_03_outpacing_energy_demand",
+      "parent_id": "poten_tankers_no_date_poten_2007_08_03_outpacing_energy_demand__root",
+      "title": "Ratio, Crude Oil",
+      "section_path": [
+        "Ratio, Crude Oil"
+      ],
+      "section_path_text": "Ratio, Crude Oil",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "production/fleet"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_08_03_outpacing_energy_demand__s04_size",
+      "doc_id": "poten_tankers_no_date_poten_2007_08_03_outpacing_energy_demand",
+      "parent_id": "poten_tankers_no_date_poten_2007_08_03_outpacing_energy_demand__root",
+      "title": "Size",
+      "section_path": [
+        "Size"
+      ],
+      "section_path_text": "Size",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "2002 422 44 76.9 0.103 0.182 2003 418 41 79.7 0.097 0.191 2004 444 34 83.1 0.076 0.187 2005 463 55 84.1 0.119 0.182 2006 479 68 85.2 0.142 0.178 YTD 2007 492 79 85.1 0.162 0.173",
+      "keywords": [
+        "ytd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 115,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_08_03_outpacing_energy_demand__s05_iea_poten",
+      "doc_id": "poten_tankers_no_date_poten_2007_08_03_outpacing_energy_demand",
+      "parent_id": "poten_tankers_no_date_poten_2007_08_03_outpacing_energy_demand__root",
+      "title": "IEA/Poten",
+      "section_path": [
+        "IEA/Poten"
+      ],
+      "section_path_text": "IEA/Poten",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Another approach to analyzing the impact increasing avails has on time charter rates is shown below.",
+      "keywords": [
+        "analyzing",
+        "another",
+        "approach",
+        "avails",
+        "below.",
+        "charter",
+        "impact",
+        "increasing"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 18,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_08_03_outpacing_energy_demand__s06_tce",
+      "doc_id": "poten_tankers_no_date_poten_2007_08_03_outpacing_energy_demand",
+      "parent_id": "poten_tankers_no_date_poten_2007_08_03_outpacing_energy_demand__root",
+      "title": "TCE",
+      "section_path": [
+        "TCE"
+      ],
+      "section_path_text": "TCE",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Avails to Fleet Ratio A contracting ratio of avails to fleet size appears to push rates higher whereas an expanding one seems to push rates lower. The current ratio of 0.162 is considerably higher than its level of 0.076 at the market's last rate peak in 2004.",
+      "keywords": [
+        "ratio",
+        "avails",
+        "fleet",
+        "higher",
+        "push",
+        "appears",
+        "considerably",
+        "contracting"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 60,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_08_03_outpacing_energy_demand__s07_a_way_out",
+      "doc_id": "poten_tankers_no_date_poten_2007_08_03_outpacing_energy_demand",
+      "parent_id": "poten_tankers_no_date_poten_2007_08_03_outpacing_energy_demand__root",
+      "title": "A Way Out",
+      "section_path": [
+        "A Way Out"
+      ],
+      "section_path_text": "A Way Out",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "One remedy to the seemingly excessive availability of VLCC's is a pickup in crude oil production to soak up vessel supply. Failing the appearance of this savior, rates might benefit from the VLCC fleet having the equivalent of fewer vessels.",
+      "keywords": [
+        "vlcc",
+        "brazil",
+        "crude_oil",
+        "crude",
+        "oil",
+        "vessel",
+        "appearance",
+        "availability"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 121,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

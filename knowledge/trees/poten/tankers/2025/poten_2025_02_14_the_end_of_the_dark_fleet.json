@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2025_02_14_the_end_of_the_dark_fleet__root",
+  "doc_id": "poten_tankers_no_date_poten_2025_02_14_the_end_of_the_dark_fleet",
+  "parent_id": null,
+  "title": "The End of the Dark Fleet",
+  "section_path": [
+    "The End of the Dark Fleet"
+  ],
+  "section_path_text": "The End of the Dark Fleet",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "End of global conflicts would reduce employment options\nThis week, President Trump announced that he talked to Russian President Putin and with Ukraine's President Zelenskyy to start negotiations to end the war in Ukraine. No details on terms and timing have been released, but if talks are indeed scheduled, this would be a first step in de-escalating the conflict. At the same time, the cease-fire between Hamas and Israel still holds despite tensions, and the Houthi's have suspended their attack on commercial ships passing through the Red Sea.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "india",
+    "crude_oil",
+    "products",
+    "fleet",
+    "sanctioned",
+    "tankers",
+    "dark"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 944,
+  "source_path": "reports/poten/2025/poten_2025-02-14_the-end-of-the-dark-fleet.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2025_02_14_the_end_of_the_dark_fleet__s01_end_of_global_conflicts_would_reduce_employment_options",
+      "doc_id": "poten_tankers_no_date_poten_2025_02_14_the_end_of_the_dark_fleet",
+      "parent_id": "poten_tankers_no_date_poten_2025_02_14_the_end_of_the_dark_fleet__root",
+      "title": "End of global conflicts would reduce employment options",
+      "section_path": [
+        "End of global conflicts would reduce employment options"
+      ],
+      "section_path_text": "End of global conflicts would reduce employment options",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This week, President Trump announced that he talked to Russian President Putin and with Ukraine's President Zelenskyy to start negotiations to end the war in Ukraine. No details on terms and timing have been released, but if talks are indeed scheduled, this would be a first step in de-escalating the conflict.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "india",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 935,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2004_02_20_when_us_refineries_shutdown__root",
+  "doc_id": "poten_tankers_no_date_poten_2004_02_20_when_us_refineries_shutdown",
+  "parent_id": null,
+  "title": "When U.S. Refineries Shutdown...",
+  "section_path": [
+    "When U.S. Refineries Shutdown..."
+  ],
+  "section_path_text": "When U.S. Refineries Shutdown...",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "February 20, 2004 US refineries have been closing up shop for spring maintenance and it's going to be a tight squeeze between facilitating supply and satisfying demand. This year is particularly difficult since, according to a report issued last month by the International Energy Agency, rather than cutting back the customary 2.6%, refineries are expected to cut capacity utilization by about 6%. Oil Input Going Down\nThe chart on the next page shows that refinery throughput has been falling since last spring and is now down to about 14.7 million bpd.",
+  "keywords": [
+    "vlcc",
+    "brazil",
+    "crude_oil",
+    "products",
+    "gas",
+    "throughput",
+    "million",
+    "crude",
+    "refineries",
+    "refinery",
+    "inventories",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 569,
+  "source_path": "reports/poten/2004/poten_2004-02-20_when-us-refineries-shutdown.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_02_20_when_us_refineries_shutdown__s01_when_u_s_refineries_shutdown",
+      "doc_id": "poten_tankers_no_date_poten_2004_02_20_when_us_refineries_shutdown",
+      "parent_id": "poten_tankers_no_date_poten_2004_02_20_when_us_refineries_shutdown__root",
+      "title": "When U.S. Refineries Shutdown...",
+      "section_path": [
+        "When U.S. Refineries Shutdown..."
+      ],
+      "section_path_text": "When U.S. Refineries Shutdown...",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "February 20, 2004 US refineries have been closing up shop for spring maintenance and it's going to be a tight squeeze between facilitating supply and satisfying demand. This year is particularly difficult since, according to a report issued last month by the International Energy Agency, rather than cutting back the customary 2.6%, refineries are expected to cut capacity utilization by about 6%.",
+      "keywords": [
+        "refineries",
+        "according",
+        "agency",
+        "are",
+        "back",
+        "between",
+        "capacity",
+        "closing"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 87,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_02_20_when_us_refineries_shutdown__s02_oil_input_going_down",
+      "doc_id": "poten_tankers_no_date_poten_2004_02_20_when_us_refineries_shutdown",
+      "parent_id": "poten_tankers_no_date_poten_2004_02_20_when_us_refineries_shutdown__root",
+      "title": "Oil Input Going Down",
+      "section_path": [
+        "Oil Input Going Down"
+      ],
+      "section_path_text": "Oil Input Going Down",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The chart on the next page shows that refinery throughput has been falling since last spring and is now down to about 14.7 million bpd. If 14 million bpd is the low point, then throughput could have another 700,000 bpd to fall.",
+      "keywords": [
+        "vlcc",
+        "brazil",
+        "throughput",
+        "refinery",
+        "bpd",
+        "would",
+        "million",
+        "after"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 223,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_02_20_when_us_refineries_shutdown__s03_ref_throughput",
+      "doc_id": "poten_tankers_no_date_poten_2004_02_20_when_us_refineries_shutdown",
+      "parent_id": "poten_tankers_no_date_poten_2004_02_20_when_us_refineries_shutdown__root",
+      "title": "Ref Throughput",
+      "section_path": [
+        "Ref Throughput"
+      ],
+      "section_path_text": "Ref Throughput",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "ag/west"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_02_20_when_us_refineries_shutdown__s04_crude_imports",
+      "doc_id": "poten_tankers_no_date_poten_2004_02_20_when_us_refineries_shutdown",
+      "parent_id": "poten_tankers_no_date_poten_2004_02_20_when_us_refineries_shutdown__root",
+      "title": "Crude Imports",
+      "section_path": [
+        "Crude Imports"
+      ],
+      "section_path_text": "Crude Imports",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "As seen in the graph on the next page, a rolling average of US crude imports have been trending downward. The average imports are down to 9.3 million barrels per day from the 10 million barrels per day needed to satisfy expected summer demand.",
+      "keywords": [
+        "average",
+        "barrels",
+        "day",
+        "imports",
+        "million",
+        "per",
+        "are",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 51,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_02_20_when_us_refineries_shutdown__s05_and_where_are_inventories",
+      "doc_id": "poten_tankers_no_date_poten_2004_02_20_when_us_refineries_shutdown",
+      "parent_id": "poten_tankers_no_date_poten_2004_02_20_when_us_refineries_shutdown__root",
+      "title": "And Where Are Inventories?",
+      "section_path": [
+        "And Where Are Inventories?"
+      ],
+      "section_path_text": "And Where Are Inventories?",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The graph on the next page shows that US crude inventories have fallen to about 250 million barrels, the lowest point during the past three years. While refineries can do little to bring these levels back up right now, eventually inventories will need to be replenished and may send rates back up once refineries resume running at full capacity.",
+      "keywords": [
+        "back",
+        "crude",
+        "inventories",
+        "levels",
+        "price",
+        "refineries",
+        "barrels",
+        "bring"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 91,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_02_20_when_us_refineries_shutdown__s06_weekly_u_s_crude_inventories",
+      "doc_id": "poten_tankers_no_date_poten_2004_02_20_when_us_refineries_shutdown",
+      "parent_id": "poten_tankers_no_date_poten_2004_02_20_when_us_refineries_shutdown__root",
+      "title": "Weekly U.S. Crude Inventories",
+      "section_path": [
+        "Weekly U.S. Crude Inventories"
+      ],
+      "section_path_text": "Weekly U.S. Crude Inventories",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "So Where Does This Leave The Tanker Market? With refinery turnaround putting a kink in crude oil imports and inventories hovering at 270 million barrels, the short-run market could weaken.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "all",
+        "back",
+        "barrels",
+        "could",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 75,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

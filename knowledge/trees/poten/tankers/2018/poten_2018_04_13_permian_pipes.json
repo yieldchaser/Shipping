@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2018_04_13_permian_pipes__root",
+  "doc_id": "poten_tankers_no_date_poten_2018_04_13_permian_pipes",
+  "parent_id": null,
+  "title": "Permian Pipes",
+  "section_path": [
+    "Permian Pipes"
+  ],
+  "section_path_text": "Permian Pipes",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Will pipeline constraints hold back U.S. For any product or commodity to be successful in the marketplace, it is important that it can be produced for a competitive price and in sufficient volumes and is delivered to customers on a timely basis. These rules apply to crude oil as well.",
+  "keywords": [
+    "vlcc",
+    "us_gulf",
+    "crude_oil",
+    "production",
+    "are",
+    "capacity",
+    "crude",
+    "oil",
+    "pipeline",
+    "export",
+    "exports",
+    "new"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 941,
+  "source_path": "reports/poten/2018/poten_2018-04-13_permian-pipes.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_04_13_permian_pipes__s01_will_pipeline_constraints_hold_back_u_s_crude_exports",
+      "doc_id": "poten_tankers_no_date_poten_2018_04_13_permian_pipes",
+      "parent_id": "poten_tankers_no_date_poten_2018_04_13_permian_pipes__root",
+      "title": "Will pipeline constraints hold back U.S. crude exports?",
+      "section_path": [
+        "Will pipeline constraints hold back U.S. crude exports?"
+      ],
+      "section_path_text": "Will pipeline constraints hold back U.S. crude exports?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "For any product or commodity to be successful in the marketplace, it is important that it can be produced for a competitive price and in sufficient volumes and is delivered to customers on a timely basis. These rules apply to crude oil as well.",
+      "keywords": [
+        "crude_oil",
+        "production",
+        "capacity",
+        "are",
+        "new",
+        "oil",
+        "pipeline",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 624,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_04_13_permian_pipes__s02_planned_permian_eagle_ford_pipeline_capacity_and_lto_production",
+      "doc_id": "poten_tankers_no_date_poten_2018_04_13_permian_pipes",
+      "parent_id": "poten_tankers_no_date_poten_2018_04_13_permian_pipes__root",
+      "title": "Planned Permian/Eagle Ford Pipeline Capacity and LTO Production",
+      "section_path": [
+        "Planned Permian/Eagle Ford Pipeline Capacity and LTO Production"
+      ],
+      "section_path_text": "Planned Permian/Eagle Ford Pipeline Capacity and LTO Production",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Gulf that are currently handling crude oil exports: Houston, Beaumont/Port Arthur and Corpus Christi in Texas and St. James is the smallest in terms of capacity.",
+      "keywords": [
+        "vlcc",
+        "us_gulf",
+        "crude_oil",
+        "export",
+        "loop",
+        "are",
+        "crude",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 291,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

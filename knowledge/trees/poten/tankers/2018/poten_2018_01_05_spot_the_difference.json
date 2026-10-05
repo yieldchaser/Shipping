@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2018_01_05_spot_the_difference__root",
+  "doc_id": "poten_tankers_no_date_poten_2018_01_05_spot_the_difference",
+  "parent_id": null,
+  "title": "Spot The Difference",
+  "section_path": [
+    "Spot The Difference"
+  ],
+  "section_path_text": "Spot The Difference",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Top Reported Dirty Spot Charterers for 2017*\nEvery year Poten ranks the dirty spot charterers to see who tops the list in each segment and which companies are moving up or down in the ranking of the largest reported dirty spot charterers*. Each year it is a game of \"spot the difference\", because a lot of the positions do not change year over year. The top 4 of 2017 are the same as the top 4 of 2016.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "india",
+    "crude_oil",
+    "reported",
+    "top",
+    "total",
+    "charterers",
+    "fixtures",
+    "segment"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1122,
+  "source_path": "reports/poten/2018/poten_2018-01-05_spot-the-difference.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_01_05_spot_the_difference__s01_top_reported_dirty_spot_charterers_for_2017",
+      "doc_id": "poten_tankers_no_date_poten_2018_01_05_spot_the_difference",
+      "parent_id": "poten_tankers_no_date_poten_2018_01_05_spot_the_difference__root",
+      "title": "Top Reported Dirty Spot Charterers for 2017*",
+      "section_path": [
+        "Top Reported Dirty Spot Charterers for 2017*"
+      ],
+      "section_path_text": "Top Reported Dirty Spot Charterers for 2017*",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Every year Poten ranks the dirty spot charterers to see who tops the list in each segment and which companies are moving up or down in the ranking of the largest reported dirty spot charterers*. Each year it is a game of \"spot the difference\", because a lot of the positions do not change year over year.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "total",
+        "dirty",
+        "top",
+        "year",
+        "are",
+        "charterers"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 662,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_01_05_spot_the_difference__s02_chart_top_10_vlcc_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2018_01_05_spot_the_difference",
+      "parent_id": "poten_tankers_no_date_poten_2018_01_05_spot_the_difference__root",
+      "title": "Chart: Top 10 VLCC Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 VLCC Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 VLCC Spot Charterers",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "In the VLCC segment, Unipec is extending its lead at the top. In 2017, we counted 611 reported fixtures for the Chinese charterer, 87 (17%) more than in 2016.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "india",
+        "charterers",
+        "fixtures",
+        "chinese",
+        "reported",
+        "segment"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 157,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_01_05_spot_the_difference__s03_chart_top_10_suezmax_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2018_01_05_spot_the_difference",
+      "parent_id": "poten_tankers_no_date_poten_2018_01_05_spot_the_difference__root",
+      "title": "Chart: Top 10 Suezmax Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 Suezmax Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 Suezmax Spot Charterers",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Chevron remained the largest Suezmax charterer in 2017, followed by Shell, which moved up from fourth position last year, while Repsol dropped to third. The number of Shell's reported spot market fixtures in the Suezmax segment increased by 50% year-over-year.",
+      "keywords": [
+        "suezmax",
+        "fixtures",
+        "reported",
+        "dropped",
+        "increased",
+        "number",
+        "shell",
+        "charterer"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 127,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_01_05_spot_the_difference__s04_chart_top_10_aframax_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2018_01_05_spot_the_difference",
+      "parent_id": "poten_tankers_no_date_poten_2018_01_05_spot_the_difference__root",
+      "title": "Chart: Top 10 Aframax Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 Aframax Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 Aframax Spot Charterers",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Vitol remained the largest spot Aframax charterer, staying well ahead of fellow traders Glencore (3 rd ) and Trafigura (8 th ). The Majors continue to feature prominently in this segment, with Shell, Chevron, BP, Total and ExxonMobil all represented in the top 10.",
+      "keywords": [
+        "aframax",
+        "reported",
+        "total",
+        "above",
+        "activity.",
+        "ahead",
+        "all",
+        "assembled"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 130,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

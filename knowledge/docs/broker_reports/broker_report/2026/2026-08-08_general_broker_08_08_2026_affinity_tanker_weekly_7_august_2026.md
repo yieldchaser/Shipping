@@ -291,9 +291,9 @@ numeric_observations:
   source_line: Δ W-O-W 12.0 12.8 12.9
   unit: null
   values:
-  - 12000.0
-  - 12800.0
-  - 12900.0
+  - 12.0
+  - 12.8
+  - 12.9
 - section: Market Report Content
   section_type: null
   source_line: 6 Route Qty $ / Day W-O-W

@@ -61,8 +61,8 @@ numeric_observations:
   - 150000.0
   - 10.0
   - 10.0
-  - 19600.0
-  - 19450.0
+  - 19.6
+  - 19.45
 - section: Market Report Content
   section_type: null
   source_line: DAMPIER/QINGDAO 170,000/10% 10% 16.30 14.10
@@ -71,8 +71,8 @@ numeric_observations:
   - 170000.0
   - 10.0
   - 10.0
-  - 16300.0
-  - 14100.0
+  - 16.3
+  - 14.1
 - section: Market Report Content
   section_type: null
   source_line: SALDAHNA BAY/QINGDAO 170,000/10% 10% 26.30 26.15
@@ -81,8 +81,8 @@ numeric_observations:
   - 170000.0
   - 10.0
   - 10.0
-  - 26300.0
-  - 26150.0
+  - 26.3
+  - 26.15
 - section: Market Report Content
   section_type: null
   source_line: RICHARDS BAY/FANGCHENG 150,000/10% 10% 26.45 26.30
@@ -91,8 +91,8 @@ numeric_observations:
   - 150000.0
   - 10.0
   - 10.0
-  - 26450.0
-  - 26300.0
+  - 26.45
+  - 26.3
 - section: Market Report Content
   section_type: null
   source_line: CAPE LAMBERT/ROTTERDAM 160,000/10% 10% 18.15 17.50
@@ -101,8 +101,8 @@ numeric_observations:
   - 160000.0
   - 10.0
   - 10.0
-  - 18150.0
-  - 17500.0
+  - 18.15
+  - 17.5
 - section: Market Report Content
   section_type: null
   source_line: QUEENSLAND/JAPAN 150,000/10% 10% 20.40 18.25
@@ -111,8 +111,8 @@ numeric_observations:
   - 150000.0
   - 10.0
   - 10.0
-  - 20400.0
-  - 18250.0
+  - 20.4
+  - 18.25
 - section: Market Report Content
   section_type: null
   source_line: QUEENSLAND/ROTTERDAM 150,000/10% 10% 26.35 25.60
@@ -121,8 +121,8 @@ numeric_observations:
   - 150000.0
   - 10.0
   - 10.0
-  - 26350.0
-  - 25600.0
+  - 26.35
+  - 25.6
 - section: Market Report Content
   section_type: null
   source_line: NSW/ZHOUSHAN 130,000/10% 10% 20.85 18.70
@@ -131,8 +131,8 @@ numeric_observations:
   - 130000.0
   - 10.0
   - 10.0
-  - 20850.0
-  - 18700.0
+  - 20.85
+  - 18.7
 - section: Market Report Content
   section_type: null
   source_line: T/C TRIP FAR EAST/CONT 180,000 DWT 10% 2.28 1.90
@@ -149,8 +149,8 @@ numeric_observations:
   values:
   - 180000.0
   - 10.0
-  - 8700.0
-  - 6880.0
+  - 8.7
+  - 6.88
 - section: Market Report Content
   section_type: null
   source_line: Calculated Index 10,850 10,048

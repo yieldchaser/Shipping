@@ -1,0 +1,162 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2020_10_16_supply_side_savior__root",
+  "doc_id": "poten_tankers_no_date_poten_2020_10_16_supply_side_savior",
+  "parent_id": null,
+  "title": "Supply Side Savior",
+  "section_path": [
+    "Supply Side Savior"
+  ],
+  "section_path_text": "Supply Side Savior",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Can low ordering and increased scrapping revive the tanker\nmarket? The tanker market appears to be in dire straits at the moment. Covid-19 continues unabated and is curtailing economic activity and global energy demand in the short-term.",
+  "keywords": [
+    "panamax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "coal",
+    "crude_oil",
+    "gas",
+    "are",
+    "orderbook",
+    "low",
+    "not"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1191,
+  "source_path": "reports/poten/2020/poten_2020-10-16_supply-side-savior.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_10_16_supply_side_savior__s01_can_low_ordering_and_increased_scrapping_revive_the_tanker",
+      "doc_id": "poten_tankers_no_date_poten_2020_10_16_supply_side_savior",
+      "parent_id": "poten_tankers_no_date_poten_2020_10_16_supply_side_savior__root",
+      "title": "Can low ordering and increased scrapping revive the tanker",
+      "section_path": [
+        "Can low ordering and increased scrapping revive the tanker"
+      ],
+      "section_path_text": "Can low ordering and increased scrapping revive the tanker",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The tanker market appears to be in dire straits at the moment. Covid-19 continues unabated and is curtailing economic activity and global energy demand in the short-term.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "coal",
+        "crude_oil",
+        "gas",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 587,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_10_16_supply_side_savior__s02_fleet_statistics",
+      "doc_id": "poten_tankers_no_date_poten_2020_10_16_supply_side_savior",
+      "parent_id": "poten_tankers_no_date_poten_2020_10_16_supply_side_savior__root",
+      "title": "Fleet Statistics",
+      "section_path": [
+        "Fleet Statistics"
+      ],
+      "section_path_text": "Fleet Statistics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "VLCC Suezmax Aframax Panamax LR2 LR1 MR Handy",
+      "keywords": [
+        "panamax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "handy",
+        "lr1",
+        "lr2"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_10_16_supply_side_savior__s03_fleet_count",
+      "doc_id": "poten_tankers_no_date_poten_2020_10_16_supply_side_savior",
+      "parent_id": "poten_tankers_no_date_poten_2020_10_16_supply_side_savior__root",
+      "title": "Fleet Count",
+      "section_path": [
+        "Fleet Count"
+      ],
+      "section_path_text": "Fleet Count",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "828 609 699 83 363 375 1576 529 Fleet (DWT) 255.2 95.1 76.3 5.9 39.8 27.5 76.7 19.9",
+      "keywords": [
+        "dwt",
+        "fleet"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 53,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_10_16_supply_side_savior__s04_orderbook_count",
+      "doc_id": "poten_tankers_no_date_poten_2020_10_16_supply_side_savior",
+      "parent_id": "poten_tankers_no_date_poten_2020_10_16_supply_side_savior__root",
+      "title": "Orderbook Count",
+      "section_path": [
+        "Orderbook Count"
+      ],
+      "section_path_text": "Orderbook Count",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "67 67 79 3 37 14 117 11 Orderbook (DWT) 20.8 10.4 9.0 0.2 4.2 1.0 5.8 0.4 Orderbook % 8.1% 11.0% 11.3% 3.6% 10.2% 3.7% 7.4% 2.1%",
+      "keywords": [
+        "orderbook",
+        "dwt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 96,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_10_16_supply_side_savior__s05_fleet_20yr_by_22",
+      "doc_id": "poten_tankers_no_date_poten_2020_10_16_supply_side_savior",
+      "parent_id": "poten_tankers_no_date_poten_2020_10_16_supply_side_savior__root",
+      "title": "Fleet 20yr by '22",
+      "section_path": [
+        "Fleet 20yr by '22"
+      ],
+      "section_path_text": "Fleet 20yr by '22",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "120.0 88.0 103.0 7.0 33.0 23.0 171.0 124.0 20yr old/Orderbook 179% 131% 130% 233% 89% 164% 146% 1127% there are plenty of floating storage opportunities on offer, many of these vessels will likely be candidates for scrapping. As can be seen in the table, the ratio of \"20yr old / Orderbook\" exceed 100% for every vessel segment, except for the coated Aframaxes (LR2's), which are a relatively modern tanker segment.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "not",
+        "are",
+        "low",
+        "scrapping",
+        "year."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 405,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

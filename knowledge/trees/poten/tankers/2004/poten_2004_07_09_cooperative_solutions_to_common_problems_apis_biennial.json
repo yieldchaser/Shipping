@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2004_07_09_cooperative_solutions_to_common_problems_apis_biennial__root",
+  "doc_id": "poten_tankers_no_date_poten_2004_07_09_cooperative_solutions_to_common_problems_apis_biennial",
+  "parent_id": null,
+  "title": "Cooperative Solutions to Common Problems API's Biennial Tanker Conference",
+  "section_path": [
+    "Cooperative Solutions to Common Problems API's Biennial Tanker Conference"
+  ],
+  "section_path_text": "Cooperative Solutions to Common Problems API's Biennial Tanker Conference",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "API's Biennial Tanker Conference\nOn June 28 th and 29 th , a group of senior oil transportation professionals gathered in San Diego, California for API's biennial tanker conference on Cooperative Solutions to Common Problems. John Rose, General Manager Shipping of Shell Trading Company made introductory remarks that set the stage for the conference. He noted that the tanker industry finds itself in the middle of several emerging issues that call for the cooperation of the tanker industry, federal and state governments, and nongovernmental organizations that have a legitimate interest in the outcome of these issues.",
+  "keywords": [
+    "vlcc",
+    "lng",
+    "atlantic",
+    "pacific",
+    "west_africa",
+    "crude_oil",
+    "gas",
+    "u.s.",
+    "discussed",
+    "oil",
+    "trading",
+    "api"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 891,
+  "source_path": "reports/poten/2004/poten_2004-07-09_cooperative-solutions-to-common-problems-apis-biennial.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_07_09_cooperative_solutions_to_common_problems_apis_biennial__s01_api_s_biennial_tanker_conference",
+      "doc_id": "poten_tankers_no_date_poten_2004_07_09_cooperative_solutions_to_common_problems_apis_biennial",
+      "parent_id": "poten_tankers_no_date_poten_2004_07_09_cooperative_solutions_to_common_problems_apis_biennial__root",
+      "title": "API's Biennial Tanker Conference",
+      "section_path": [
+        "API's Biennial Tanker Conference"
+      ],
+      "section_path_text": "API's Biennial Tanker Conference",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "On June 28 th and 29 th , a group of senior oil transportation professionals gathered in San Diego, California for API's biennial tanker conference on Cooperative Solutions to Common Problems. John Rose, General Manager Shipping of Shell Trading Company made introductory remarks that set the stage for the conference.",
+      "keywords": [
+        "lng",
+        "crude_oil",
+        "gas",
+        "ocimf",
+        "oil",
+        "cooperative",
+        "energy",
+        "exxonmobil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 230,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_07_09_cooperative_solutions_to_common_problems_apis_biennial__s02_www_exxonmobil_com_corporate_newsroom_publications_etrendssite_index_asp",
+      "doc_id": "poten_tankers_no_date_poten_2004_07_09_cooperative_solutions_to_common_problems_apis_biennial",
+      "parent_id": "poten_tankers_no_date_poten_2004_07_09_cooperative_solutions_to_common_problems_apis_biennial__root",
+      "title": "www.exxonmobil.com/corporate/Newsroom/Publications/eTrendsSite/index.asp",
+      "section_path": [
+        "www.exxonmobil.com/corporate/Newsroom/Publications/eTrendsSite/index.asp"
+      ],
+      "section_path_text": "www.exxonmobil.com/corporate/Newsroom/Publications/eTrendsSite/index.asp",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Jeff Goetz of Poten & Partners discussed emerging shipping supply patterns. In his presentation, Jeff illustrated the changing nature of VLCC trading patterns referencing two particular months.",
+      "keywords": [
+        "vlcc",
+        "lng",
+        "atlantic",
+        "pacific",
+        "west_africa",
+        "crude_oil",
+        "gas",
+        "u.s."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 632,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

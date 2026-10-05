@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2019_06_21_refinery_fire_sparks_tanker_rally__root",
+  "doc_id": "poten_tankers_no_date_poten_2019_06_21_refinery_fire_sparks_tanker_rally",
+  "parent_id": null,
+  "title": "Refinery Fire Sparks Tanker Rally",
+  "section_path": [
+    "Refinery Fire Sparks Tanker Rally"
+  ],
+  "section_path_text": "Refinery Fire Sparks Tanker Rally",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Accident at Philadelphia facility could create shortages\nU.S. oil industry news is usually dominated by reporting on shale oil, Permian crude production and crude oil export growth. On the petroleum product side, the focus is typically on growing exports from the U.S.",
+  "keywords": [
+    "lpg",
+    "atlantic",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "gas",
+    "crude",
+    "u.s.",
+    "oil",
+    "are",
+    "kb/d"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 856,
+  "source_path": "reports/poten/2019/poten_2019-06-21_refinery-fire-sparks-tanker-rally.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_06_21_refinery_fire_sparks_tanker_rally__s01_accident_at_philadelphia_facility_could_create_shortages",
+      "doc_id": "poten_tankers_no_date_poten_2019_06_21_refinery_fire_sparks_tanker_rally",
+      "parent_id": "poten_tankers_no_date_poten_2019_06_21_refinery_fire_sparks_tanker_rally__root",
+      "title": "Accident at Philadelphia facility could create shortages",
+      "section_path": [
+        "Accident at Philadelphia facility could create shortages"
+      ],
+      "section_path_text": "Accident at Philadelphia facility could create shortages",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "oil industry news is usually dominated by reporting on shale oil, Permian crude production and crude oil export growth. On the petroleum product side, the focus is typically on growing exports from the U.S.",
+      "keywords": [
+        "lpg",
+        "atlantic",
+        "europe",
+        "india",
+        "crude_oil",
+        "products",
+        "gas",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 847,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -77,7 +77,6 @@ numeric_observations:
   - 2008.0
   - 4.0
   - 30.0
-  - 13800.0
 - section: Tanker
   section_type: null
   source_line: On Tankers, Suezmax **CAPE BENAT** (ABT 157K DWT, 2010, JIANGSU RONGSHENG,
@@ -86,7 +85,7 @@ numeric_observations:
   values:
   - 157.0
   - 2010.0
-  - 62500.0
+  - 62.5
 - section: Tanker
   section_type: null
   source_line: HARVEST | 58,779 | 2008 TSUNEISHI (ZHOUSHAN) | B&W 6S50MC-C8.1 SCRUBBER
@@ -97,7 +96,7 @@ numeric_observations:
   - 2008.0
   - 6.0
   - 50.0
-  - 8100.0
+  - 8.1
   - 4.0
   - 30.0
   - 2.0
@@ -113,12 +112,12 @@ numeric_observations:
   - 2010.0
   - 6.0
   - 70.0
-  - 7200.0
+  - 7.2
   - 3.0
   - 30.0
   - 4.0
   - 28.0
-  - 62500.0
+  - 62.5
 - section: Tanker
   section_type: null
   source_line: 284 Kifissias Avenue | ("Clarksons") for general information purposes.

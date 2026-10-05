@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2016_06_17_summer_doldrums__root",
+  "doc_id": "poten_tankers_no_date_poten_2016_06_17_summer_doldrums",
+  "parent_id": null,
+  "title": "Summer Doldrums",
+  "section_path": [
+    "Summer Doldrums"
+  ],
+  "section_path_text": "Summer Doldrums",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Are tankers facing a typical seasonal summer lull? It is well known that tanker rates, both for crude oil and product tankers, are volatile, cyclical and seasonal. In some years, the extreme volatility of rates as well as the rollercoaster ride of the tanker cycles overwhelms the seasonal factors in the market and it appears that they are no longer there.",
+  "keywords": [
+    "crude_oil",
+    "products",
+    "gas",
+    "demand",
+    "oil",
+    "during",
+    "gasoline",
+    "u.s.",
+    "are",
+    "one",
+    "period",
+    "seasonal"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 639,
+  "source_path": "reports/poten/2016/poten_2016-06-17_summer-doldrums.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_06_17_summer_doldrums__s01_are_tankers_facing_a_typical_seasonal_summer_lull",
+      "doc_id": "poten_tankers_no_date_poten_2016_06_17_summer_doldrums",
+      "parent_id": "poten_tankers_no_date_poten_2016_06_17_summer_doldrums__root",
+      "title": "Are tankers facing a typical seasonal summer lull?",
+      "section_path": [
+        "Are tankers facing a typical seasonal summer lull?"
+      ],
+      "section_path_text": "Are tankers facing a typical seasonal summer lull?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "It is well known that tanker rates, both for crude oil and product tankers, are volatile, cyclical and seasonal. In some years, the extreme volatility of rates as well as the rollercoaster ride of the tanker cycles overwhelms the seasonal factors in the market and it appears that they are no longer there.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "demand",
+        "oil",
+        "during",
+        "gasoline",
+        "u.s."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 628,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

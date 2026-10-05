@@ -11,6 +11,7 @@ commodities:
 date: '2026-05-06'
 doc_id: breakwave_insights_insights_2026-05-06_2026_05_06_oil_falls_as_ceasefire_holds_in_the_middle_east
 document_type: insights_note
+is_error_page: false
 key_entities:
 - China
 - Middle East
@@ -28,10 +29,10 @@ keywords:
 - gas
 - oil
 linked_assets_discovered: 5
-linked_assets_failed: 1
+linked_assets_failed: 0
 linked_assets_ingested: 2
-linked_assets_mirrored: 3
-linked_assets_skipped: 2
+linked_assets_mirrored: 2
+linked_assets_skipped: 3
 market_tone: constructive
 numeric_observation_count: 46
 numeric_observations:
@@ -47,9 +48,9 @@ numeric_observations:
   - 2026.0
   - -5.0
   - -6.0
-  - 4.0
-  - 4.0
-  - 5.0
+  - 3.0
+  - 84.0
+  - 9.0
 - section: Market Commentary
   section_type: null
   source_line: Crude oil prices gave up some of this week's gains as the Middle East
@@ -112,9 +113,9 @@ numeric_observations:
   - 2026.0
   - -5.0
   - -6.0
-  - 4.0
-  - 4.0
-  - 5.0
+  - 3.0
+  - 84.0
+  - 9.0
 - section: 'Linked asset: 2026-05-06_oil-falls-as-ceasefire-holds-in-the-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f8789ef91850.png'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2026-05-06_oil-falls-as-ceasefire-holds-in-the-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f8789ef91850.png'
@@ -123,18 +124,20 @@ numeric_observations:
   - 2026.0
   - -5.0
   - -6.0
-  - 4.0
-  - 4.0
-  - 5.0
-  - 789.0
-  - 1850.0
+  - 3.0
+  - 84.0
+  - 9.0
+  - 3.0
+  - 9.0
+  - 8.0
+  - 84.0
 - section: 'Linked asset: 2026-05-06_oil-falls-as-ceasefire-holds-in-the-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f8789ef91850.png'
   section_type: linked_image_asset
   source_line: 'Image metadata: PNG 847x582 mode=RGBA'
   unit: null
   values:
   - 847.0
-  - 82.0
+  - 582.0
 - section: 'Linked asset: 2026-05-06_oil-falls-as-ceasefire-holds-in-the-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f8789ef91850.png'
   section_type: linked_image_asset
   source_line: 'dpi: (95.9866, 95.9866)'
@@ -287,17 +290,20 @@ numeric_observations:
   - 2026.0
   - -5.0
   - -6.0
-  - 4.0
-  - 4.0
-  - 5.0
-  - 45881.0
+  - 3.0
+  - 84.0
+  - 9.0
+  - 3.0
+  - 9.0
+  - 8.0
+  - 84.0
 - section: 'Linked asset: 2026-05-06_oil-falls-as-ceasefire-holds-in-the-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_45881f90b1b3.png'
   section_type: linked_image_asset
   source_line: 'Image metadata: PNG 836x439 mode=RGBA'
   unit: null
   values:
   - 836.0
-  - 39.0
+  - 439.0
 - section: 'Linked asset: 2026-05-06_oil-falls-as-ceasefire-holds-in-the-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_45881f90b1b3.png'
   section_type: linked_image_asset
   source_line: 'dpi: (95.9866, 95.9866)'
@@ -392,7 +398,7 @@ numeric_observations:
   source_line: 'Source: FlightRadar24, Bloomberg, Macrobond, ANZ Research'
   unit: null
   values:
-  - 4.0
+  - 24.0
 regions:
 - china
 - brazil

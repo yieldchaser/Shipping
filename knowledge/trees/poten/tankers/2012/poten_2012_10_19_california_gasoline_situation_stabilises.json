@@ -1,0 +1,588 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__root",
+  "doc_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises",
+  "parent_id": null,
+  "title": "California Gasoline Situation Stabilises",
+  "section_path": [
+    "California Gasoline Situation Stabilises"
+  ],
+  "section_path_text": "California Gasoline Situation Stabilises",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "California refinery\nFollowing a 50-cent per gallon spike that sent California retail gasoline prices to record levels and as high as $5/gallon in some areas, gasoline supply is finally stabilising in the region. An upset at ExxonMobil's 149.5 kbpd Torrance refinery on October 1, following a prolonged outage at Chevron's 257 kbpd Richmond refinery that began in August, sparked a short burst of panic buying and led to closures of petrol stations that were unable to secure supplies. The consumer outcry at the magnitude of the gasoline price surge and legislators' impassioned calls for regulatory investigation were inevitable, but the entire episode served as a reminder of the isolated geography of that market and its dependency on local refining.",
+  "keywords": [
+    "panamax",
+    "crude_oil",
+    "products",
+    "gas",
+    "gasoline",
+    "padd5",
+    "refinery",
+    "prices",
+    "refiners",
+    "demand",
+    "levels",
+    "price"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1343,
+  "source_path": "reports/poten/2012/poten_2012-10-19_california-gasoline-situation-stabilises.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__s01_california_refinery",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__root",
+      "title": "California refinery",
+      "section_path": [
+        "California refinery"
+      ],
+      "section_path_text": "California refinery",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Following a 50-cent per gallon spike that sent California retail gasoline prices to record levels and as high as $5/gallon in some areas, gasoline supply is finally stabilising in the region. An upset at ExxonMobil's 149.5 kbpd Torrance refinery on October 1, following a prolonged outage at Chevron's 257 kbpd Richmond refinery that began in August, sparked a short burst of panic buying and led to closures of petrol stations that were unable to secure supplies.",
+      "keywords": [
+        "products",
+        "gas",
+        "gasoline",
+        "price",
+        "prices",
+        "california",
+        "data",
+        "eia"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 226,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__s02_retail_prices_for_regular",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__root",
+      "title": "Retail prices for regular",
+      "section_path": [
+        "Retail prices for regular"
+      ],
+      "section_path_text": "Retail prices for regular",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "gasoline hit $5/gal in some areas",
+      "keywords": [
+        "products",
+        "gas",
+        "areas",
+        "gal",
+        "gasoline",
+        "hit"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 10,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__s03_weekly_data",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__root",
+      "title": "Weekly Data",
+      "section_path": [
+        "Weekly Data"
+      ],
+      "section_path_text": "Weekly Data",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "A $0.50/gal spike in spot prices fed into retail prices, but...",
+      "keywords": [
+        "prices",
+        "but...",
+        "fed",
+        "gal",
+        "retail",
+        "spike"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 18,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__s04_la_spot_85_cbob",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__root",
+      "title": "LA Spot 85 CBOB",
+      "section_path": [
+        "LA Spot 85 CBOB"
+      ],
+      "section_path_text": "LA Spot 85 CBOB",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Calif Regular Retail ...subsequent drop in spot prices yet to bring retail prices lower The drama began with a power outage at ExxonMobil's 149.5 kbpd Torrance refinery on Monday, October 1 that forced the shutdown of several units and tightened local product supply. The refinery was back on line and at full production by the end of that week, but a number of other factors contributed to the market response that sent Los Angeles gasoline crack spreads against Alaska North Slope (ANS) crude soaring to $50/bbl, as shown in the chart below.",
+      "keywords": [
+        "products",
+        "gas",
+        "prices",
+        "refinery",
+        "retail",
+        "against",
+        "alaska",
+        "angeles"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 115,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__s05_power_outage_at",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__root",
+      "title": "Power outage at",
+      "section_path": [
+        "Power outage at"
+      ],
+      "section_path_text": "Power outage at",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "ExxonMobil's Torrance refinery sparked the drama",
+      "keywords": [
+        "drama",
+        "exxonmobil",
+        "refinery",
+        "sparked",
+        "torrance"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__s06_leading_to_50_bbl_crack",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__root",
+      "title": "Leading to $50/bbl crack",
+      "section_path": [
+        "Leading to $50/bbl crack"
+      ],
+      "section_path_text": "Leading to $50/bbl crack",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "",
+      "keywords": [
+        "products",
+        "gas",
+        "gasoline",
+        "spreads"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__s07_mb",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__root",
+      "title": "MB",
+      "section_path": [
+        "MB"
+      ],
+      "section_path_text": "MB",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "EIA data indicates that last week, USWC (PADD5) gasoline inventories slipped to 26.3 MB, a decline of 0.3 MB since the end of September, just prior to the Torrance mishap. These low stock levels are occurring during the seasonal low in gasoline inventories, as refiners typically draw down stock of summer-grade gasoline, before building inventories of winter grade.",
+      "keywords": [
+        "products",
+        "gas",
+        "gasoline",
+        "inventories",
+        "levels",
+        "low",
+        "days",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 199,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__s08_seasonal_switch_from",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__root",
+      "title": "Seasonal switch from",
+      "section_path": [
+        "Seasonal switch from"
+      ],
+      "section_path_text": "Seasonal switch from",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "summer to winter grades always an opportunity for mayhem",
+      "keywords": [
+        "always",
+        "grades",
+        "mayhem",
+        "opportunity",
+        "summer",
+        "winter"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 10,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__s09_days_inventories_were_at",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__root",
+      "title": "Days inventories were at",
+      "section_path": [
+        "Days inventories were at"
+      ],
+      "section_path_text": "Days inventories were at",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "lows also Although the price spike could be attributed to bad luck in refining mishaps -- or something more nefarious in Senate sub-committee hearings -- the regional refiners have actually adjusted to the loss of distillation capacity in a rational manner.",
+      "keywords": [
+        "actually",
+        "adjusted",
+        "although",
+        "attributed",
+        "bad",
+        "capacity",
+        "could",
+        "distillation"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 49,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__s10_despite_drama_local",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__root",
+      "title": "Despite drama, local",
+      "section_path": [
+        "Despite drama, local"
+      ],
+      "section_path_text": "Despite drama, local",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "",
+      "keywords": [
+        "adapting",
+        "refiners",
+        "well"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__s11_percent_utilisation",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__root",
+      "title": "Percent Utilisation",
+      "section_path": [
+        "Percent Utilisation"
+      ],
+      "section_path_text": "Percent Utilisation",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "Gasoline output stable, despite drop in refinery utilisations",
+      "keywords": [
+        "products",
+        "gas",
+        "despite",
+        "drop",
+        "gasoline",
+        "output",
+        "refinery",
+        "stable"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__s12_utilisation_lhs",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__root",
+      "title": "Utilisation (lhs)",
+      "section_path": [
+        "Utilisation (lhs)"
+      ],
+      "section_path_text": "Utilisation (lhs)",
+      "level": 1,
+      "ordinal": 12,
+      "summary": "",
+      "keywords": [
+        "products",
+        "gas",
+        "gasoline",
+        "prodn",
+        "rhs"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__s13_other_regional_refiners",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__root",
+      "title": "Other regional refiners",
+      "section_path": [
+        "Other regional refiners"
+      ],
+      "section_path_text": "Other regional refiners",
+      "level": 1,
+      "ordinal": 13,
+      "summary": "boosted runs and offset loss of capacity October, as other regional refiners were happy to increase throughput and take advantage of the $50/bbl gasoline crack spread. Although refinery gasoline output fell sharply from June levels of 1.32 mbpd (0.30 mbpd of finished gasoline and 1.02 mbpd of blendstocks), gasoline production has stabilised near 1.22 mbpd since the Richmond mishap, despite the drop in utilisations.",
+      "keywords": [
+        "products",
+        "gas",
+        "gasoline",
+        "mbpd",
+        "advantage",
+        "although",
+        "bbl",
+        "blendstocks"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 94,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__s14_padd5_gasoline_output",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__root",
+      "title": "PADD5 Gasoline output",
+      "section_path": [
+        "PADD5 Gasoline output"
+      ],
+      "section_path_text": "PADD5 Gasoline output",
+      "level": 1,
+      "ordinal": 14,
+      "summary": "stabilising As we suggested in August, PADD5 refiners have been able to boost gasoline output and yields by importing additional heavy vacuum gasoil (HVGO) as a cracker feedstock. Both the hydrocracker and fluid catalytic cracking units at its Richmond refinery are still operating, despite the loss of distillation capacity.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "hvgo",
+        "imports",
+        "padd5",
+        "richmond",
+        "able"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 104,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__s15_richmond_hydrocracker",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__root",
+      "title": "Richmond hydrocracker",
+      "section_path": [
+        "Richmond hydrocracker"
+      ],
+      "section_path_text": "Richmond hydrocracker",
+      "level": 1,
+      "ordinal": 15,
+      "summary": "",
+      "keywords": [
+        "fcc",
+        "operating",
+        "still"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__s16_imports_of_hvgo_have",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__root",
+      "title": "Imports of HVGO have",
+      "section_path": [
+        "Imports of HVGO have"
+      ],
+      "section_path_text": "Imports of HVGO have",
+      "level": 1,
+      "ordinal": 16,
+      "summary": "",
+      "keywords": [
+        "cracker",
+        "feed",
+        "support",
+        "surged"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__s17_hvgo_imports_have",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__root",
+      "title": "HVGO imports have",
+      "section_path": [
+        "HVGO imports have"
+      ],
+      "section_path_text": "HVGO imports have",
+      "level": 1,
+      "ordinal": 17,
+      "summary": "bolstered dirty Panamax earnings Meanwhile, the loss of refinery capacity and the subsequent gasoline price spike have not created any parallel drama in the clean tanker markets. Despite the large size of the California and PADD5 gasoline market, the regional gasoline balance has been manageable since the financial crisis.",
+      "keywords": [
+        "panamax",
+        "products",
+        "gas",
+        "gasoline",
+        "california",
+        "demand",
+        "padd5",
+        "since"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 153,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__s18_padd5_gasoline_demand",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__root",
+      "title": "PADD5 gasoline demand",
+      "section_path": [
+        "PADD5 gasoline demand"
+      ],
+      "section_path_text": "PADD5 gasoline demand",
+      "level": 1,
+      "ordinal": 18,
+      "summary": "has been in 1.5% annual descent point, the local refining system can meet these gasoline demand levels with utilisations in the 83-84% level, even allowing for the occasional refinery mishap. With a more relaxed gasoline balance, PADD5 gasoline import needs have diminished.",
+      "keywords": [
+        "products",
+        "gas",
+        "gasoline",
+        "balance",
+        "kbpd",
+        "net",
+        "padd5",
+        "allowing"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 114,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__s19_making_for_a_relaxed",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__root",
+      "title": "Making for a relaxed",
+      "section_path": [
+        "Making for a relaxed"
+      ],
+      "section_path_text": "Making for a relaxed",
+      "level": 1,
+      "ordinal": 19,
+      "summary": "",
+      "keywords": [
+        "products",
+        "gas",
+        "balance",
+        "gasoline"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__s20_padd5_has_become_net",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__root",
+      "title": "PADD5 has become net",
+      "section_path": [
+        "PADD5 has become net"
+      ],
+      "section_path_text": "PADD5 has become net",
+      "level": 1,
+      "ordinal": 20,
+      "summary": "...but still relies on other PADDs for modest transfers of gasoline and ethanol 1q03 1q05 1q07 1q09 1q11 Net Transfers In (PADD 3/4) Imports Exports",
+      "keywords": [
+        "products",
+        "gas",
+        "transfers",
+        "but",
+        "ethanol",
+        "exporter",
+        "exports",
+        "gasoline"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 56,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__s21_padd1_refiners_provide",
+      "doc_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises",
+      "parent_id": "poten_tankers_no_date_poten_2012_10_19_california_gasoline_situation_stabilises__root",
+      "title": "PADD1 refiners provide",
+      "section_path": [
+        "PADD1 refiners provide"
+      ],
+      "section_path_text": "PADD1 refiners provide",
+      "level": 1,
+      "ordinal": 21,
+      "summary": "only 10% of gasoline demand ...versus 80-85% from PADD5 refiners",
+      "keywords": [
+        "products",
+        "gas",
+        "demand",
+        "gasoline",
+        "only",
+        "padd5",
+        "refiners",
+        "versus"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 21,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

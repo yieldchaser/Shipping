@@ -242,7 +242,7 @@
       "mom_1y": 61.1,
       "high_52w": 22000.0,
       "low_52w": 13500.0,
-      "pctile_10y": 86.9,
+      "pctile_10y": 86.8,
       "median_10y": 13000,
       "cycle_label": "Bullish (Upper Quartile)",
       "cycle_badge": "bull"
@@ -405,8 +405,8 @@
       "mom_1y": 64.6,
       "high_52w": 32500.0,
       "low_52w": 19000.0,
-      "pctile_10y": 100.0,
-      "median_10y": 21000,
+      "pctile_10y": 99.6,
+      "median_10y": 21500,
       "cycle_label": "Super Bullish (Top 10%)",
       "cycle_badge": "bull-top"
     },
@@ -484,7 +484,7 @@
       "mom_1y": 90.5,
       "high_52w": 40000.0,
       "low_52w": 21000.0,
-      "pctile_10y": 100.0,
+      "pctile_10y": 99.6,
       "median_10y": 24500,
       "cycle_label": "Super Bullish (Top 10%)",
       "cycle_badge": "bull-top"
@@ -563,8 +563,8 @@
       "mom_1y": 83.7,
       "high_52w": 45000.0,
       "low_52w": 22500.0,
-      "pctile_10y": 100.0,
-      "median_10y": 29500,
+      "pctile_10y": 99.2,
+      "median_10y": 30000,
       "cycle_label": "Super Bullish (Top 10%)",
       "cycle_badge": "bull-top"
     },
@@ -642,7 +642,7 @@
       "mom_1y": 142.6,
       "high_52w": 82500.0,
       "low_52w": 32500.0,
-      "pctile_10y": 100.0,
+      "pctile_10y": 99.6,
       "median_10y": 37500,
       "cycle_label": "Super Bullish (Top 10%)",
       "cycle_badge": "bull-top"
@@ -721,8 +721,8 @@
       "mom_1y": 142.6,
       "high_52w": 82500.0,
       "low_52w": 34000.0,
-      "pctile_10y": 100.0,
-      "median_10y": 29500,
+      "pctile_10y": 99.7,
+      "median_10y": 30000,
       "cycle_label": "Super Bullish (Top 10%)",
       "cycle_badge": "bull-top"
     },
@@ -800,7 +800,7 @@
       "mom_1y": 246.2,
       "high_52w": 135000.0,
       "low_52w": 39000.0,
-      "pctile_10y": 100.0,
+      "pctile_10y": 99.7,
       "median_10y": 34500,
       "cycle_label": "Super Bullish (Top 10%)",
       "cycle_badge": "bull-top"
@@ -879,7 +879,7 @@
       "mom_1y": 308.2,
       "high_52w": 200000.0,
       "low_52w": 47500.0,
-      "pctile_10y": 100.0,
+      "pctile_10y": 99.8,
       "median_10y": 44000,
       "cycle_label": "Super Bullish (Top 10%)",
       "cycle_badge": "bull-top"

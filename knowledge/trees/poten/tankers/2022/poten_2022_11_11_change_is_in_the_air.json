@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2022_11_11_change_is_in_the_air__root",
+  "doc_id": "poten_tankers_no_date_poten_2022_11_11_change_is_in_the_air",
+  "parent_id": null,
+  "title": "Change Is In The Air",
+  "section_path": [
+    "Change Is In The Air"
+  ],
+  "section_path_text": "Change Is In The Air",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "What will be the impact of Worldscale changes for 2023\nIn the coming weeks, Worldscale will publish the 2023 Flat Rates. In most other years, bunker prices are the primary driver for changes in the flat rates. However, this year the Worldscale organization decided to make additional changes to their assumptions.",
+  "keywords": [
+    "brazil",
+    "crude_oil",
+    "flat",
+    "worldscale",
+    "bunker",
+    "voyage",
+    "changes",
+    "prices",
+    "year",
+    "system",
+    "increase",
+    "calculated"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 837,
+  "source_path": "reports/poten/2022/poten_2022-11-11_change-is-in-the-air.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_11_11_change_is_in_the_air__s01_what_will_be_the_impact_of_worldscale_changes_for_2023",
+      "doc_id": "poten_tankers_no_date_poten_2022_11_11_change_is_in_the_air",
+      "parent_id": "poten_tankers_no_date_poten_2022_11_11_change_is_in_the_air__root",
+      "title": "What will be the impact of Worldscale changes for 2023",
+      "section_path": [
+        "What will be the impact of Worldscale changes for 2023"
+      ],
+      "section_path_text": "What will be the impact of Worldscale changes for 2023",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In the coming weeks, Worldscale will publish the 2023 Flat Rates. In most other years, bunker prices are the primary driver for changes in the flat rates.",
+      "keywords": [
+        "brazil",
+        "crude_oil",
+        "worldscale",
+        "flat",
+        "year",
+        "system",
+        "bunker",
+        "changes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 546,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_11_11_change_is_in_the_air__s02_worldscale_bunker_prices_and_flat_rates_for_major_routes",
+      "doc_id": "poten_tankers_no_date_poten_2022_11_11_change_is_in_the_air",
+      "parent_id": "poten_tankers_no_date_poten_2022_11_11_change_is_in_the_air__root",
+      "title": "Worldscale Bunker Prices and Flat Rates for Major Routes",
+      "section_path": [
+        "Worldscale Bunker Prices and Flat Rates for Major Routes"
+      ],
+      "section_path_text": "Worldscale Bunker Prices and Flat Rates for Major Routes",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "MGO for the voyage calculations and both of these commodities increased in price as the availability of low sulfur fuel tightened. The table above summarizes the change in flat rates and the bunker prices for some main voyages (due to Worldscale copyright restrictions we can not publish the actual values).",
+      "keywords": [
+        "bunker",
+        "voyage",
+        "flat",
+        "increase",
+        "due",
+        "increases",
+        "can",
+        "changes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 264,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

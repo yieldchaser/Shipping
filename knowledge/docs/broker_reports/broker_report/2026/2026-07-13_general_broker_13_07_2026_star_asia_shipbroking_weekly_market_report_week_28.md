@@ -97,7 +97,7 @@ numeric_observations:
   unit: pct
   values:
   - 2944.0
-  - 8350.0
+  - 8.35
 - section: Market Report Content
   section_type: null
   source_line: construction rush between 2009 and 2011. Although the second half of
@@ -126,7 +126,7 @@ numeric_observations:
     route where fresh fixtures cleared in the
   unit: pct
   values:
-  - 13200.0
+  - 13.2
 - section: Market Report Content
   section_type: null
   source_line: low US$13/ton range. While lower overall iron ore export volumes mean
@@ -220,19 +220,19 @@ numeric_observations:
   source_line: 'WoW: +8.35%'
   unit: pct
   values:
-  - 8350.0
+  - 8.35
 - section: Market Report Content
   section_type: null
   source_line: 'YoY: +77.03%'
   unit: pct
   values:
-  - 77030.0
+  - 77.03
 - section: Market Report Content
   section_type: null
   source_line: 'WoW: +13.54%'
   unit: pct
   values:
-  - 13540.0
+  - 13.54
 - section: Market Report Content
   section_type: null
   source_line: 'YoY: +121.25%'
@@ -250,7 +250,7 @@ numeric_observations:
   source_line: 'YoY: +21.13%'
   unit: pct
   values:
-  - 21130.0
+  - 21.13
 - section: Market Report Content
   section_type: null
   source_line: 'WoW: +1.97%'
@@ -262,7 +262,7 @@ numeric_observations:
   source_line: 'YoY: +39.95%'
   unit: pct
   values:
-  - 39950.0
+  - 39.95
 - section: Market Report Content
   section_type: null
   source_line: 'WoW: -2.87%'
@@ -274,7 +274,7 @@ numeric_observations:
   source_line: 'YoY: +41.86%'
   unit: pct
   values:
-  - 41860.0
+  - 41.86
 - section: Market Report Content
   section_type: null
   source_line: CAPESIZE 180,000 $76M $82M $70M $55M (E) $35M
@@ -315,7 +315,7 @@ numeric_observations:
   values:
   - 92648.0
   - 2011.0
-  - 15250.0
+  - 15.25
 - section: Market Report Content
   section_type: null
   source_line: POLYNESIA QUEEN KMAX 82,177 2012 / CHINA 20.8 CHINESE BUYERS
@@ -323,7 +323,7 @@ numeric_observations:
   values:
   - 82177.0
   - 2012.0
-  - 20800.0
+  - 20.8
 - section: Market Report Content
   section_type: null
   source_line: C.S. OLIVE KMAX 82,175 2009 / JAPAN 17.0 GREEK BUYERS
@@ -331,7 +331,7 @@ numeric_observations:
   values:
   - 82175.0
   - 2009.0
-  - 17000.0
+  - 17.0
 - section: Market Report Content
   section_type: null
   source_line: SCION MATHILDA KMAX 82,144 2024 / CHINA 41.9 CASTOR
@@ -339,7 +339,7 @@ numeric_observations:
   values:
   - 82144.0
   - 2024.0
-  - 41900.0
+  - 41.9
 - section: Market Report Content
   section_type: null
   source_line: THE WISE PMAX 73,593 2007 / CHINA 11.0 UNDISCLOSED
@@ -347,7 +347,7 @@ numeric_observations:
   values:
   - 73593.0
   - 2007.0
-  - 11000.0
+  - 11.0
 - section: Market Report Content
   section_type: null
   source_line: OCEAN AMBITIOUS UMAX 63,577 2016 / CHINA 26.0 UNDISCLOSED
@@ -355,7 +355,7 @@ numeric_observations:
   values:
   - 63577.0
   - 2016.0
-  - 26000.0
+  - 26.0
 - section: Market Report Content
   section_type: null
   source_line: WF ARTEMIS UMAX 63,547 2020 / JAPAN 36.5 UNDISCLOSED
@@ -363,7 +363,7 @@ numeric_observations:
   values:
   - 63547.0
   - 2020.0
-  - 36500.0
+  - 36.5
 - section: Market Report Content
   section_type: null
   source_line: LIVITA UMAX 63,532 2017 / JAPAN 30.5 GREEK BUYERS
@@ -371,7 +371,7 @@ numeric_observations:
   values:
   - 63532.0
   - 2017.0
-  - 30500.0
+  - 30.5
 - section: Market Report Content
   section_type: null
   source_line: HAATO UMAX 61,472 2011 / JAPAN 23.5 ADNOC
@@ -379,7 +379,7 @@ numeric_observations:
   values:
   - 61472.0
   - 2011.0
-  - 23500.0
+  - 23.5
 - section: Market Report Content
   section_type: null
   source_line: ST PAUL SMAX 57,982 2010 / PHILIPPINES 16.8 CHINESE BUYERS
@@ -387,7 +387,7 @@ numeric_observations:
   values:
   - 57982.0
   - 2010.0
-  - 16800.0
+  - 16.8
 - section: Market Report Content
   section_type: null
   source_line: OMEGA S SMAX 56,892 2011 / CHINA 14.3 LEEWAY
@@ -395,7 +395,7 @@ numeric_observations:
   values:
   - 56892.0
   - 2011.0
-  - 14300.0
+  - 14.3
 - section: Market Report Content
   section_type: null
   source_line: AEGIR SELMER SMAX 55,874 2011 / JAPAN 15.9 UNDISCLOSED
@@ -403,7 +403,7 @@ numeric_observations:
   values:
   - 55874.0
   - 2011.0
-  - 15900.0
+  - 15.9
 - section: Market Report Content
   section_type: null
   source_line: UNITY MARIA SMAX 55,705 2012 / S. KOREA 16.5 UNDISCLOSED
@@ -411,7 +411,7 @@ numeric_observations:
   values:
   - 55705.0
   - 2012.0
-  - 16500.0
+  - 16.5
 - section: Market Report Content
   section_type: null
   source_line: VW TRUST SMAX 52,475 2002 / JAPAN 8.0 CHINESE BUYERS
@@ -419,7 +419,7 @@ numeric_observations:
   values:
   - 52475.0
   - 2002.0
-  - 8000.0
+  - 8.0
 - section: Market Report Content
   section_type: null
   source_line: JNS PHOENIX HANDY 40,504 2025 / CHINA 33.0 UNDISCLOSED
@@ -427,7 +427,7 @@ numeric_observations:
   values:
   - 40504.0
   - 2025.0
-  - 33000.0
+  - 33.0
 - section: Market Report Content
   section_type: null
   source_line: AFRICAN PIPER HANDY 34,365 2015 / JAPAN 20.0 UNDISCLOSED
@@ -435,7 +435,7 @@ numeric_observations:
   values:
   - 34365.0
   - 2015.0
-  - 20000.0
+  - 20.0
 - section: Market Report Content
   section_type: null
   source_line: snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 4
@@ -452,7 +452,7 @@ numeric_observations:
   values:
   - 28354.0
   - 2014.0
-  - 12500.0
+  - 12.5
 - section: Market Report Content
   section_type: null
   source_line: SEGMENT (AVG) 2022 2023 2024 2025 2026 YTD
@@ -518,7 +518,7 @@ numeric_observations:
   unit: pct
   values:
   - 1988.0
-  - 7110.0
+  - 7.11
 - section: Market Report Content
   section_type: null
   source_line: revoked the key oil export waiver that had been established under June's
@@ -639,7 +639,7 @@ numeric_observations:
   source_line: 'WoW: +7.11%'
   unit: pct
   values:
-  - 7110.0
+  - 7.11
 - section: Market Report Content
   section_type: null
   source_line: 'YoY: +113.53%'
@@ -657,7 +657,7 @@ numeric_observations:
   source_line: 'YoY: +92.44%'
   unit: pct
   values:
-  - 92440.0
+  - 92.44
 - section: Market Report Content
   section_type: null
   source_line: VLCC 310,000 $130M $175M $140M (E) $112M (E) $62M
@@ -719,7 +719,7 @@ numeric_observations:
   values:
   - 299031.0
   - 2004.0
-  - 50000.0
+  - 50.0
 - section: Market Report Content
   section_type: null
   source_line: JAG LOKESH LR2 105,599 2009 / S. KOREA 44.0
@@ -728,7 +728,7 @@ numeric_observations:
   - 2.0
   - 105599.0
   - 2009.0
-  - 44000.0
+  - 44.0
 - section: Market Report Content
   section_type: null
   source_line: HANSA OSLO MR 51,215 2007 / S. KOREA 20.0 MIDDLE EASTERN
@@ -736,7 +736,7 @@ numeric_observations:
   values:
   - 51215.0
   - 2007.0
-  - 20000.0
+  - 20.0
 - section: Market Report Content
   section_type: null
   source_line: LANIKAI MR 46,342 2002 / S. KOREA 9.5 CHINESE BUYERS
@@ -744,7 +744,7 @@ numeric_observations:
   values:
   - 46342.0
   - 2002.0
-  - 9500.0
+  - 9.5
 - section: Market Report Content
   section_type: null
   source_line: snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 7
@@ -817,7 +817,7 @@ numeric_observations:
     up 10.5% to 4,330 points, while
   unit: pct
   values:
-  - 10500.0
+  - 10.5
   - 4330.0
 - section: Market Report Content
   section_type: null
@@ -869,7 +869,7 @@ numeric_observations:
   values:
   - 809.0
   - 2007.0
-  - 7500.0
+  - 7.5
 - section: Market Report Content
   section_type: null
   source_line: ALEXANDER FEEDER 957 2006 / CHINA 11.5 UNDISCLOSED
@@ -877,7 +877,7 @@ numeric_observations:
   values:
   - 957.0
   - 2006.0
-  - 11500.0
+  - 11.5
 - section: Market Report Content
   section_type: null
   source_line: snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 9

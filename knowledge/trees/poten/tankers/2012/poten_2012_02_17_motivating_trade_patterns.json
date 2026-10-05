@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2012_02_17_motivating_trade_patterns__root",
+  "doc_id": "poten_tankers_no_date_poten_2012_02_17_motivating_trade_patterns",
+  "parent_id": null,
+  "title": "MOTIVAting Trade Patterns",
+  "section_path": [
+    "MOTIVAting Trade Patterns"
+  ],
+  "section_path_text": "MOTIVAting Trade Patterns",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "MOTIVAting Trade Patterns\nFor the past year, discussions of the Arabian Gulf to United States VLCC market have been largely focused on deciphering the true monetary returns to ship owners who embark on this 80 day round trip gamble. Languishing crude oil demand in the United States has sapped volume from the trade while roundtrip time charter equivalent earnings have been negative. A recent resurgence in crude oil movements, however, highlights an upcoming structural change that could help lend vital life support the VLCC market by creating a new element of sustainable westbound demand.",
+  "keywords": [
+    "vlcc",
+    "brazil",
+    "meg",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "demand",
+    "crude",
+    "oil",
+    "exports",
+    "gulf",
+    "arabian"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 541,
+  "source_path": "reports/poten/2012/poten_2012-02-17_motivating-trade-patterns.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_02_17_motivating_trade_patterns__s01_motivating_trade_patterns",
+      "doc_id": "poten_tankers_no_date_poten_2012_02_17_motivating_trade_patterns",
+      "parent_id": "poten_tankers_no_date_poten_2012_02_17_motivating_trade_patterns__root",
+      "title": "MOTIVAting Trade Patterns",
+      "section_path": [
+        "MOTIVAting Trade Patterns"
+      ],
+      "section_path_text": "MOTIVAting Trade Patterns",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "For the past year, discussions of the Arabian Gulf to United States VLCC market have been largely focused on deciphering the true monetary returns to ship owners who embark on this 80 day round trip gamble. Languishing crude oil demand in the United States has sapped volume from the trade while roundtrip time charter equivalent earnings have been negative.",
+      "keywords": [
+        "vlcc",
+        "brazil",
+        "meg",
+        "crude_oil",
+        "crude",
+        "day",
+        "oil",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 192,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_02_17_motivating_trade_patterns__s02_no_reported_spot_liftings",
+      "doc_id": "poten_tankers_no_date_poten_2012_02_17_motivating_trade_patterns",
+      "parent_id": "poten_tankers_no_date_poten_2012_02_17_motivating_trade_patterns__root",
+      "title": "No. Reported Spot Liftings",
+      "section_path": [
+        "No. Reported Spot Liftings"
+      ],
+      "section_path_text": "No. Reported Spot Liftings",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The second highest number of liftings in the past three years occurred in July of 2011. Crude oil liftings have historically been a leading indicator of PADD III crude oil refinery demand due to voyage transit time.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "crude_oil",
+        "crude",
+        "oil",
+        "arabian",
+        "arthur",
+        "port"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 201,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_02_17_motivating_trade_patterns__s03_a_thirsty_gulf_to_feed",
+      "doc_id": "poten_tankers_no_date_poten_2012_02_17_motivating_trade_patterns",
+      "parent_id": "poten_tankers_no_date_poten_2012_02_17_motivating_trade_patterns__root",
+      "title": "A thirsty Gulf to feed",
+      "section_path": [
+        "A thirsty Gulf to feed"
+      ],
+      "section_path_text": "A thirsty Gulf to feed",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Although market conditions have changed significantly since the official announcement of Motiva's expansion in September 2007, new appetite for US Gulf refined products abroad has luckily supplanted growth in domestic markets. The chart below shows the role of exports versus domestic demand in the United States.",
+      "keywords": [
+        "us_gulf",
+        "products",
+        "domestic",
+        "demand",
+        "abroad",
+        "although",
+        "announcement",
+        "appetite"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 67,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_02_17_motivating_trade_patterns__s04_product_exports_kbd",
+      "doc_id": "poten_tankers_no_date_poten_2012_02_17_motivating_trade_patterns",
+      "parent_id": "poten_tankers_no_date_poten_2012_02_17_motivating_trade_patterns__root",
+      "title": "Product Exports (kbd)",
+      "section_path": [
+        "Product Exports (kbd)"
+      ],
+      "section_path_text": "Product Exports (kbd)",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Moving Average) Exports/Domestic Demand Source: EIA As the refined product exports continue to offset decreases in U.S. domestic demand, it seems Motiva's expansion could help both VLCC and MR ship owners alike.",
+      "keywords": [
+        "vlcc",
+        "demand",
+        "exports",
+        "product",
+        "alike.",
+        "average",
+        "both",
+        "continue"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 55,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

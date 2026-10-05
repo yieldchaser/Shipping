@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2015_06_19_the_other_canal_expansion__root",
+  "doc_id": "poten_tankers_no_date_poten_2015_06_19_the_other_canal_expansion",
+  "parent_id": null,
+  "title": "The Other Canal Expansion",
+  "section_path": [
+    "The Other Canal Expansion"
+  ],
+  "section_path_text": "The Other Canal Expansion",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "$8.5 Billion Suez Canal expansion nearing completion\nIn recent months and years, there has been quite some discussion about the expansion of the Panama Canal and its implications for tradeflows. However, a similar capacity expansion of the Suez Canal that will be inaugurated in August of this year has received much less attention. This week we will look at what this expansion entails and what the impact might be.",
+  "keywords": [
+    "capesize",
+    "meg",
+    "europe",
+    "crude_oil",
+    "canal",
+    "suez",
+    "expansion",
+    "vessels",
+    "bound",
+    "capacity",
+    "tankers",
+    "total"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 730,
+  "source_path": "reports/poten/2015/poten_2015-06-19_the-other-canal-expansion.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2015_06_19_the_other_canal_expansion__s01_8_5_billion_suez_canal_expansion_nearing_completion",
+      "doc_id": "poten_tankers_no_date_poten_2015_06_19_the_other_canal_expansion",
+      "parent_id": "poten_tankers_no_date_poten_2015_06_19_the_other_canal_expansion__root",
+      "title": "$8.5 Billion Suez Canal expansion nearing completion",
+      "section_path": [
+        "$8.5 Billion Suez Canal expansion nearing completion"
+      ],
+      "section_path_text": "$8.5 Billion Suez Canal expansion nearing completion",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In recent months and years, there has been quite some discussion about the expansion of the Panama Canal and its implications for tradeflows. However, a similar capacity expansion of the Suez Canal that will be inaugurated in August of this year has received much less attention.",
+      "keywords": [
+        "canal",
+        "vessels",
+        "bound",
+        "expansion",
+        "total",
+        "hours",
+        "length",
+        "north"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 494,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2015_06_19_the_other_canal_expansion__s02_if_more_tankers_can_pass_through_the_suez_canal_tonnage",
+      "doc_id": "poten_tankers_no_date_poten_2015_06_19_the_other_canal_expansion",
+      "parent_id": "poten_tankers_no_date_poten_2015_06_19_the_other_canal_expansion__root",
+      "title": "If more tankers can pass through the Suez Canal, tonnage",
+      "section_path": [
+        "If more tankers can pass through the Suez Canal, tonnage"
+      ],
+      "section_path_text": "If more tankers can pass through the Suez Canal, tonnage",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "A trip from Ras Tanura to LOOP is 12,300 miles (39 days at 13 knots) around the cape and 9,600 through the canal (31 days + 1 day for canal passage), representing savings of about 20%. The savings for voyages to NW Europe are even more significant: about 40%.",
+      "keywords": [
+        "capesize",
+        "meg",
+        "europe",
+        "crude_oil",
+        "canal",
+        "expanded",
+        "around",
+        "authorities"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 209,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

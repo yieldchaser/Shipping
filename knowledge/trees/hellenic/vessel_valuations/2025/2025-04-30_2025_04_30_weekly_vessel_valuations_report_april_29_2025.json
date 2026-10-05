@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1351,
-  "source_path": "corpus/02-hellenic/vessel_valuations/2025/2025-04-30_weekly-vessel-valuations-report-april-29-2025.html",
+  "token_count": 2176,
+  "source_path": "reports/hellenic/vessel_valuations/2025/2025-04-30_weekly-vessel-valuations-report-april-29-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-april-29-2025",
   "children": [
     {
@@ -69,20 +69,20 @@
       "section_path_text": "Linked asset: 2025-04-30_weekly-vessel-valuations-report-april-29-2025_img1_3042025_a97caa1b0f6a.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2025/assets/2025-04-30_weekly-vessel-valuations-report-april-29-2025_img1_3042025_a97caa1b0f6a.jpg\n\nLinked image asset: 2025-04-30_weekly-vessel-valuations-report-april-29-2025_img1_3042025_a97caa1b0f6a.jpg\n\nImage metadata: JPEG 678x314 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\nDs) VesselsValue 2 -~-SS\n29 Apeil 2025 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra ua MR Cape Pmax Supra. Pmax Handy Fax\n> 0.0% 00% 02% 0% 05% 08% 02% 00% 0.1% 40.1% 402% «= 40.2% = 40.4%\n320k 160k nSk 75k SOk 180k 82k 62k 38k 7000 4250 1780 noo\n‘ 0.0% 00% 02% 0.1% -0.4% 12% 02% 02% 00% 10.1% = 0.2% «= 40.2% = 40.7%\n320k 160k Nk 75k 50k 180k 82k 60k 38k 7000 42501780 N00\n~ 0.0% 00% 01% 01% 03% AS% = -O2% «10.4% 0.1% 10.1% «403% «=O.",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2025/assets/2025-04-30_weekly-vessel-valuations-report-april-29-2025_img1_3042025_a97caa1b0f6a.jpg\n\nLinked image asset: 2025-04-30_weekly-vessel-valuations-report-april-29-2025_img1_3042025_a97caa1b0f6a.jpg\n\nImage metadata: JPEG 678x314 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\n[structured table]\n| Ds) | VesselsValue | | | | | | | | | | | | |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 29 Apeil | 2025 | | | | VV | Mini Matrix | - | Weekly | Change | | | | |\n| | | | Tankers | | | | | Bulkers | | | Containers | | |\n| Year | | Suez | Afra | ua | MR | | | | Handy | | Pmax | Handy | |\n| | 0.0% | 00% | 02% | | 05% | 08% | 02% | 00% | | 40.1% | 402% | «= 40.2% = | 40.4% |\n| | 320k | 160k | nSk | 75k | SOk | 180k | 82k | 62k | 38k | 7000 | 4250 | 1780 | noo |\n| | 0.0% | 00% | 02% | | | 12% | 02% | 02% | 00% | 10.1% | = 0.2% | 40.2% | |\n| | 320k | 160k | Nk | 75k | 50k | 180k | 82k | 60k | 38k | 7000 | | | |\n| | 0.0% | 00% | 01% | 01% | | AS% | = -O2% | | | 10.1% | | | |\n| | 320k | 160k | | | SOk | 180k | 80k | 60k | 3Sk | 7000 | 4250 | 1780 | noo |\n| | 0.0% | 00% | 01% | 0.0% | | 10% | | | | 102% | | 40.1% | |\n| | 30k | O",
       "keywords": [
         "capesize",
         "supramax",
         "handysize",
         "container",
         "noo",
-        "nok",
         "sok",
-        "asset"
+        "nok",
+        "handy"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 718,
+      "token_count": 1543,
       "section_type": "linked_image_asset",
       "children": []
     }

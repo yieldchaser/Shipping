@@ -32,7 +32,8 @@ linked_assets_skipped: 0
 market_tone: neutral
 numeric_observation_count: 1
 numeric_observations:
-- section: Main
+- &id001
+  section: Main
   section_type: null
   source_line: 'Black Carbon, Scrubbers & the Arctic: Clean Arctic Alliance Briefing
     for IMO PPR 12 Shipping Meeting'
@@ -49,15 +50,9 @@ section_count: 1
 signals:
   numeric_observation_count: 1
   numeric_observations:
-  - section: Main
-    section_type: null
-    source_line: 'Black Carbon, Scrubbers & the Arctic: Clean Arctic Alliance Briefing
-      for IMO PPR 12 Shipping Meeting'
-    unit: null
-    values:
-    - 12.0
+  - *id001
 source: hellenic
-source_path: corpus/02-hellenic/vessel_valuations/2025/2025-01-23_black-carbon-scrubbers-the-arctic-clean-arctic-alliance-brie.html
+source_path: reports/hellenic/vessel_valuations/2025/2025-01-23_black-carbon-scrubbers-the-arctic-clean-arctic-alliance-brie.html
 source_stem: 2025-01-23_black-carbon-scrubbers-the-arctic-clean-arctic-alliance-brie
 source_url: https://www.hellenicshippingnews.com/black-carbon-scrubbers-the-arctic-clean-arctic-alliance-briefing-for-imo-ppr-12-shipping-meeting
 summary: 'Main

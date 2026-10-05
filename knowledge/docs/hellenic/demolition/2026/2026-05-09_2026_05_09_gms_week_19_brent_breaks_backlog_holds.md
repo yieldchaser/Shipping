@@ -7,6 +7,7 @@ commodities:
 date: '2026-05-09'
 doc_id: hellenic_demolition_2026-05-09_2026_05_09_gms_week_19_brent_breaks_backlog_holds
 document_type: demolition_update
+is_error_page: false
 key_entities:
 - China
 - Vale
@@ -29,7 +30,7 @@ linked_assets_ingested: 2
 linked_assets_mirrored: 2
 linked_assets_skipped: 1
 market_tone: cautiously_bearish
-numeric_observation_count: 126
+numeric_observation_count: 127
 numeric_observations:
 - section: Main
   section_type: null
@@ -117,6 +118,8 @@ numeric_observations:
   unit: null
   values:
   - 18.0
+  - 1.0
+  - 2.0
   - 21.0
 - section: Main
   section_type: null
@@ -151,15 +154,16 @@ numeric_observations:
   - 19.0
   - 95202550.0
   - 66.0
-  - 4.0
-  - 5.0
+  - 44.0
+  - 55.0
+  - 7.0
 - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_95202550_66f44b55e7af.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 688x152 mode=RGB'
   unit: null
   values:
   - 688.0
-  - 52.0
+  - 152.0
 - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_95202550_66f44b55e7af.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (72.0, 72.0)'
@@ -370,12 +374,14 @@ numeric_observations:
   unit: null
   values:
   - 18.0
+  - 1.0
 - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
   source_line: become a Q2 backlog. Owners' decisions over the next 21 days remain
     driven by firm freight, unresolved
   unit: null
   values:
+  - 2.0
   - 21.0
 - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
@@ -415,6 +421,7 @@ numeric_observations:
   unit: null
   values:
   - 123.18
+  - 2.0
   - 100.0
 - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
@@ -771,6 +778,13 @@ numeric_observations:
   - 495.0
 - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
+  source_line: relevance this Q2 remains confined to EU-regulated tonnage where Basel
+    Convention compliance
+  unit: null
+  values:
+  - 2.0
+- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
+  section_type: linked_pdf
   source_line: For Week 19 of 2026, GMS Market Rankings / vessel indications are as
     below.
   unit: null
@@ -983,9 +997,9 @@ numeric_observations:
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
   values:
-  - 30.21
+  - 30210.0
   - 899.0669
-  - 91.278
+  - 91278.0
   - 300.5253
 - section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
   section_type: linked_pdf
@@ -1010,7 +1024,7 @@ numeric_observations:
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
   values:
-  - 86.216
+  - 86216.0
   - 75.19
   - 82.1
   - 4650.072
@@ -1039,14 +1053,6 @@ numeric_observations:
   - 6.0
   - 7.0
   - 2.0
-- section: 'Linked asset: 2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf'
-  section_type: linked_pdf
-  source_line: 2 7 .0 1
-  unit: null
-  values:
-  - 2.0
-  - 7.0
-  - 1.0
 regions:
 - india
 - china

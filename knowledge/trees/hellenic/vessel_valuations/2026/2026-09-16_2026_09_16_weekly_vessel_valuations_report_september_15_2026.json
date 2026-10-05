@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1165,
-  "source_path": "corpus/02-hellenic/vessel_valuations/2026/2026-09-16_weekly-vessel-valuations-report-september-15-2026.html",
+  "token_count": 1122,
+  "source_path": "reports/hellenic/vessel_valuations/2026/2026-09-16_weekly-vessel-valuations-report-september-15-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-september-15-2026",
   "children": [
     {
@@ -54,22 +54,22 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 779,
+      "token_count": 744,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_vessel_valuations_2026-09-16_2026_09_16_weekly_vessel_valuations_report_september_15_2026__s02_linked_asset_2026_09_16_weekly_vessel_valuations_report_september_15_2026_img1_16092026df_fb6b09f7c3c6_jpg",
+      "node_id": "hellenic_vessel_valuations_2026-09-16_2026_09_16_weekly_vessel_valuations_report_september_15_2026__s02_linked_asset_2026_09_16_weekly_vessel_valuations_report_september_15_2026_16092026df_fb6b09f7c3c6_jpg",
       "doc_id": "hellenic_vessel_valuations_2026-09-16_2026_09_16_weekly_vessel_valuations_report_september_15_2026",
       "parent_id": "hellenic_vessel_valuations_2026-09-16_2026_09_16_weekly_vessel_valuations_report_september_15_2026__root",
-      "title": "Linked asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_img1_16092026df_fb6b09f7c3c6.jpg",
+      "title": "Linked asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_16092026df_fb6b09f7c3c6.jpg",
       "section_path": [
-        "Linked asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_img1_16092026df_fb6b09f7c3c6.jpg"
+        "Linked asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_16092026df_fb6b09f7c3c6.jpg"
       ],
-      "section_path_text": "Linked asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_img1_16092026df_fb6b09f7c3c6.jpg",
+      "section_path_text": "Linked asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_16092026df_fb6b09f7c3c6.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2026/assets/2026-09-16_weekly-vessel-valuations-report-september-15-2026_img1_16092026df_fb6b09f7c3c6.jpg\n\nLinked image asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_img1_16092026df_fb6b09f7c3c6.jpg\n\nImage metadata: JPEG 687x278 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\n(>) VesselsValue, ----_$§$_£$@$ $$\n15 September 2026 VV Mini Matrix - Weekly Change\nTankers thers Containers\nvor ce eee ste os soe a a ay Petre Pen any\neT te ee re ne\nsd a 18 us ™ Ld ~ _ an = noo as ue -e\na a So a CC a ee\n. ~- \" ~ Ld oo aM ve ne\na a Se Ce ey a\n= a ‘oan od ms 1.",
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-09-16_weekly-vessel-valuations-report-september-15-2026_16092026df_fb6b09f7c3c6.jpg\n\nLinked image asset: 2026-09-16_weekly-vessel-valuations-report-september-15-2026_16092026df_fb6b09f7c3c6.jpg\n\nImage metadata: JPEG 687x278 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\n(>) VesselsValue, ----_$§$_£$@$ $$\n15 September 2026 VV Mini Matrix - Weekly Change\nTankers thers Containers\nvor ce eee ste os soe a a ay Petre Pen any\neT te ee re ne\nsd a 18 us ™ Ld ~ _ an = noo as ue -e\na a So a CC a ee\n. ~- \" ~ Ld oo aM ve ne\na a Se Ce ey a\n= a ‘oan od ms 1.",
       "keywords": [
         "container",
         "asset",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 339,
+      "token_count": 333,
       "section_type": "linked_image_asset",
       "children": []
     }

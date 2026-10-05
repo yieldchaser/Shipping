@@ -1,0 +1,252 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_10_15_volatility_redux__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_10_15_volatility_redux",
+  "parent_id": null,
+  "title": "Volatility Redux",
+  "section_path": [
+    "Volatility Redux"
+  ],
+  "section_path_text": "Volatility Redux",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Volatility Redux\nOwners of tankers are accustomed to weathering spot markets with occasionally bouncy and volatile rates. An analysis of ten year's worth of Arabian Gulf to Far East VLCC Worldscale rates, however, suggests that since 2002 swings in these rates have grown noticeably greater than those of the prior five years. From the following chart, compared to the period 1997 to 2002, the standard deviation - as a gauge of volatility - of monthly rates from 2003 through August 2007 is nearly 60 percent higher.",
+  "keywords": [
+    "vlcc",
+    "brazil",
+    "meg",
+    "crude_oil",
+    "august",
+    "average",
+    "far",
+    "east",
+    "volatility",
+    "activity",
+    "both",
+    "day"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 501,
+  "source_path": "reports/poten/2007/poten_2007-10-15_volatility-redux.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_10_15_volatility_redux__s01_volatility_redux",
+      "doc_id": "poten_tankers_no_date_poten_2007_10_15_volatility_redux",
+      "parent_id": "poten_tankers_no_date_poten_2007_10_15_volatility_redux__root",
+      "title": "Volatility Redux",
+      "section_path": [
+        "Volatility Redux"
+      ],
+      "section_path_text": "Volatility Redux",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Owners of tankers are accustomed to weathering spot markets with occasionally bouncy and volatile rates. An analysis of ten year's worth of Arabian Gulf to Far East VLCC Worldscale rates, however, suggests that since 2002 swings in these rates have grown noticeably greater than those of the prior five years.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "august",
+        "east",
+        "far",
+        "accustomed",
+        "analysis",
+        "arabian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 126,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_10_15_volatility_redux__s02_average",
+      "doc_id": "poten_tankers_no_date_poten_2007_10_15_volatility_redux",
+      "parent_id": "poten_tankers_no_date_poten_2007_10_15_volatility_redux__root",
+      "title": "Average",
+      "section_path": [
+        "Average"
+      ],
+      "section_path_text": "Average",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "deviation",
+        "high",
+        "low",
+        "standard"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_10_15_volatility_redux__s03_ws_rate",
+      "doc_id": "poten_tankers_no_date_poten_2007_10_15_volatility_redux",
+      "parent_id": "poten_tankers_no_date_poten_2007_10_15_volatility_redux__root",
+      "title": "WS Rate",
+      "section_path": [
+        "WS Rate"
+      ],
+      "section_path_text": "WS Rate",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "1997 to 2002 2003 to August 2007 Change Average 67.8 100.9 33.1 Low 29.5 49.4 19.9 High 166.6 313.5 146.9 Standard Deviation 29.6 47.6 18.1",
+      "keywords": [
+        "august",
+        "average",
+        "change",
+        "deviation",
+        "high",
+        "low",
+        "standard"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 69,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_10_15_volatility_redux__s04_averages_mask_swings",
+      "doc_id": "poten_tankers_no_date_poten_2007_10_15_volatility_redux",
+      "parent_id": "poten_tankers_no_date_poten_2007_10_15_volatility_redux__root",
+      "title": "Averages Mask Swings",
+      "section_path": [
+        "Averages Mask Swings"
+      ],
+      "section_path_text": "Averages Mask Swings",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "As the chart below illustrates, August 2007's monthly average timecharter equivalent (TCE) rate of $22,000 per day is some $14,000 per day less than the ten year average for that month. Perhaps some comfort can be drawn from the usual rise of both TCE rates and their volatility during the fourth quarter of a year.",
+      "keywords": [
+        "brazil",
+        "average",
+        "day",
+        "per",
+        "tce",
+        "august",
+        "behavior",
+        "below"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 93,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_10_15_volatility_redux__s05_min",
+      "doc_id": "poten_tankers_no_date_poten_2007_10_15_volatility_redux",
+      "parent_id": "poten_tankers_no_date_poten_2007_10_15_volatility_redux__root",
+      "title": "Min",
+      "section_path": [
+        "Min"
+      ],
+      "section_path_text": "Min",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Max VLCC Average WS Std Dev Jan to Aug 2007",
+      "keywords": [
+        "vlcc",
+        "aug",
+        "average",
+        "dev",
+        "jan",
+        "max",
+        "std"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_10_15_volatility_redux__s06_low",
+      "doc_id": "poten_tankers_no_date_poten_2007_10_15_volatility_redux",
+      "parent_id": "poten_tankers_no_date_poten_2007_10_15_volatility_redux__root",
+      "title": "Low",
+      "section_path": [
+        "Low"
+      ],
+      "section_path_text": "Low",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "High Average Jan to August 2007 While the strong level of reported VLCC fixtures from the AG to the Far East in the spring of 2007 to some extent mirrors the TCE rates corresponding to this route, these rates have not been supported by fixture activity since this past June.",
+      "keywords": [
+        "vlcc",
+        "activity",
+        "august",
+        "average",
+        "corresponding",
+        "east",
+        "extent",
+        "far"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 58,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_10_15_volatility_redux__s07_rate_lethargy",
+      "doc_id": "poten_tankers_no_date_poten_2007_10_15_volatility_redux",
+      "parent_id": "poten_tankers_no_date_poten_2007_10_15_volatility_redux__root",
+      "title": "Rate Lethargy",
+      "section_path": [
+        "Rate Lethargy"
+      ],
+      "section_path_text": "Rate Lethargy",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "VLCC timecharter equivalent rates for AG to Far East voyages are hovering at their lowest levels experienced so far in 2007 (about $13,000 per day), even though August's fixture activity for this route is above average.",
+      "keywords": [
+        "vlcc",
+        "brazil",
+        "far",
+        "above",
+        "activity",
+        "are",
+        "august",
+        "average."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 49,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_10_15_volatility_redux__s08_we_01_05_2007",
+      "doc_id": "poten_tankers_no_date_poten_2007_10_15_volatility_redux",
+      "parent_id": "poten_tankers_no_date_poten_2007_10_15_volatility_redux__root",
+      "title": "WE - 01/05/2007",
+      "section_path": [
+        "WE - 01/05/2007"
+      ],
+      "section_path_text": "WE - 01/05/2007",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "While both rate and volatility late-year statistical trends might repeat themselves again this year, they might not, either. Perhaps a more tangible hope can be placed in OPEC's recent lifting of production quotas also lifting both VLCC fixture activity and rates.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "both",
+        "lifting",
+        "might",
+        "activity",
+        "again",
+        "can"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 49,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

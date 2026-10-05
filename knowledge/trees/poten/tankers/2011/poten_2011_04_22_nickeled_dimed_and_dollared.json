@@ -1,0 +1,174 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_04_22_nickeled_dimed_and_dollared__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_04_22_nickeled_dimed_and_dollared",
+  "parent_id": null,
+  "title": "Nickeled, Dimed and Dollared",
+  "section_path": [
+    "Nickeled, Dimed and Dollared"
+  ],
+  "section_path_text": "Nickeled, Dimed and Dollared",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Nickeled, Dimed and Dollared\nSpring is in the air: the birds are chirping, the flowers are blooming and the media is blathering to whip the public into a frenzy about high gasoline prices. The chart below shows the national average prices for regular grade gasoline. Prices have increased $1 per gallon since as recently as November 2010.",
+  "keywords": [
+    "atlantic",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "gas",
+    "oil",
+    "gasoline",
+    "crude",
+    "prices",
+    "price",
+    "are",
+    "per"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 672,
+  "source_path": "reports/poten/2011/poten_2011-04-22_nickeled-dimed-and-dollared.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_22_nickeled_dimed_and_dollared__s01_nickeled_dimed_and_dollared",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_22_nickeled_dimed_and_dollared",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_22_nickeled_dimed_and_dollared__root",
+      "title": "Nickeled, Dimed and Dollared",
+      "section_path": [
+        "Nickeled, Dimed and Dollared"
+      ],
+      "section_path_text": "Nickeled, Dimed and Dollared",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Spring is in the air: the birds are chirping, the flowers are blooming and the media is blathering to whip the public into a frenzy about high gasoline prices. The chart below shows the national average prices for regular grade gasoline.",
+      "keywords": [
+        "products",
+        "gas",
+        "are",
+        "help",
+        "prices",
+        "run",
+        "air",
+        "average"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 108,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_22_nickeled_dimed_and_dollared__s02_u_s_retail_gasoline_prices_regular",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_22_nickeled_dimed_and_dollared",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_22_nickeled_dimed_and_dollared__root",
+      "title": "U.S. Retail Gasoline Prices (Regular)",
+      "section_path": [
+        "U.S. Retail Gasoline Prices (Regular)"
+      ],
+      "section_path_text": "U.S. Retail Gasoline Prices (Regular)",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Following a brief correction in the second week of April, crude oil prices bounced back in the last week continuing their relentless march higher. The dynamic of escalating debt in Western economies, geopolitical unrest and continued emerging market demand can be expected to lend strength in pushing crude oil prices forward.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "oil",
+        "per",
+        "prices",
+        "crude",
+        "gallon"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 191,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_22_nickeled_dimed_and_dollared__s03_crude_oil_crushes_it",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_22_nickeled_dimed_and_dollared",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_22_nickeled_dimed_and_dollared__root",
+      "title": "Crude Oil Crushes It",
+      "section_path": [
+        "Crude Oil Crushes It"
+      ],
+      "section_path_text": "Crude Oil Crushes It",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Instead of blaming oil companies and refiners for high gasoline prices, let's look at the cost of their input - crude oil. The chart below shows the relative price strength of New York Harbor gasoline versus the price of West Texas Intermediate (WTI) crude oil on a percentage basis.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "crude",
+        "gasoline",
+        "oil",
+        "relative",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 92,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_22_nickeled_dimed_and_dollared__s04_it_starts_at_home",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_22_nickeled_dimed_and_dollared",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_22_nickeled_dimed_and_dollared__root",
+      "title": "It Starts at Home?",
+      "section_path": [
+        "It Starts at Home?"
+      ],
+      "section_path_text": "It Starts at Home?",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "As America stumbles aimlessly searching for a truly sustainable energy policy, the message from Washington seems to still have a predominantly home grown ring to it. However, on a practical basis, when it comes to gasoline sourcing the US is still filling its tank from abroad.",
+      "keywords": [
+        "atlantic",
+        "us_gulf",
+        "products",
+        "gas",
+        "reported",
+        "bringing",
+        "still",
+        "united"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 146,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_22_nickeled_dimed_and_dollared__s05_reported_spot_market_tanker_fixture_volumes_clean_product",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_22_nickeled_dimed_and_dollared",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_22_nickeled_dimed_and_dollared__root",
+      "title": "Reported Spot Market Tanker Fixture Volumes ‐ Clean Product",
+      "section_path": [
+        "Reported Spot Market Tanker Fixture Volumes ‐ Clean Product"
+      ],
+      "section_path_text": "Reported Spot Market Tanker Fixture Volumes ‐ Clean Product",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Assessing price transparency in the US oil market by elected officials is welcome. Investigators, though, should realize that crude oil price is just one factor that drives gasoline price.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "price",
+        "gasoline",
+        "factor",
+        "falls",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 88,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

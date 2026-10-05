@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nThis week in the gas carrier market, DSME announced contracting seven firm 174k CBM LNG carriers\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-09-09_clarksons-platou-hellas-snp-weekly-bulletin-35_report-09-09-2022_8b83cce5d31c.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-09-09_clarksons-platou-hellas-snp-weekly-bulletin-35_report-09-09-2022_8b83cce5d31c.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 09 September 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S46MC-C7.1 SS 05/25\nECO DESTINY 35,287 2005 SHIKOKU 4 x 30 T, BWTS fitted DD 04/23 USD 12.7 M MIDDLE EASTERNS\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S42MC7.1\n2008 SS 09/22\nCELSIUS MEXICO 20,866 Stainless Steel, 20 Pumps USD 14.9 M CHINESE\nSHIN KURUSHIMA DD 09/22\nIMO II/III, BWTS Due\nNew Building\nThis week in the gas carrier market, DSME announced contracting seven firm 174k CBM LNG carriers, signed with various\nundisclosed owners.",
+  "summary": "Main\nThis week in the gas carrier market, DSME announced contracting seven firm 174k CBM LNG carriers\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-09-09_clarksons-platou-hellas-snp-weekly-bulletin-35_report-09-09-2022_8b83cce5d31c.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2022-09-09_clarksons-platou-hellas-snp-weekly-bulletin-35_report-09-09-2022_8b83cce5d31c.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin09 September 2022\n\n# Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n||||MAN B. 6S46MC-C7.1|SS 05/25|||\n|ECO DESTINY|35,287|2005 SHIKOKU|4 x 30 T, BWTS fitted|DD 04/23|USD 12.7 M|MIDDLE EASTERNS|\n\n# Tankers - Chemicals - LPG/LNGs\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n||||MAN B. 6S42MC7.1||||\n|CELSIUS MEXICO|20,866|SHIN KURUSHIMA|2008 Stainless Steel, 20 Pumps IMO II/III, BWTS Due|SS 09/22 DD 09/22|USD 14.9 M|CHINESE|\n\n# New Building\n\nThis week in the gas carrier market, DSME announced contracting seven firm 174k CBM LNG carriers, signed with various undisclosed owners.",
   "keywords": [
     "capesize",
     "lng",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1913,
-  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-09-09_clarksons-platou-hellas-snp-weekly-bulletin-35.html",
+  "token_count": 2027,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-09-09_clarksons-platou-hellas-snp-weekly-bulletin-35.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-35",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-09-09_clarksons-platou-hellas-snp-weekly-bulletin-35_report-09-09-2022_8b83cce5d31c.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-09-09_clarksons-platou-hellas-snp-weekly-bulletin-35_report-09-09-2022_8b83cce5d31c.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 09 September 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S46MC-C7.1 SS 05/25\nECO DESTINY 35,287 2005 SHIKOKU 4 x 30 T, BWTS fitted DD 04/23 USD 12.7 M MIDDLE EASTERNS\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\nMAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-09-09_clarksons-platou-hellas-snp-weekly-bulletin-35_report-09-09-2022_8b83cce5d31c.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin09 September 2022\n\n# Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n||||MAN B. 6S46MC-C7.1|SS 05/25|||\n|ECO DESTINY|35,287|2005 SHIKOKU|4 x 30 T, BWTS fitted|DD 04/23|USD 12.7 M|MIDDLE EASTERNS|\n\n# Tankers - Chemicals - LPG/LNGs\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n||||MAN B.",
       "keywords": [
         "capesize",
         "lng",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1832,
+      "token_count": 1946,
       "section_type": "linked_pdf",
       "children": []
     }

@@ -59,7 +59,7 @@ numeric_observations:
   - 150000.0
   - 10.0
   - 10.0
-  - 17000.0
+  - 17.0
 - section: Market Report Content
   section_type: null
   source_line: Pacific Capesize Index London:+44 (0)20 7977 7404Email:research@ssyglobal.comWebsiteSSYGlobal.com

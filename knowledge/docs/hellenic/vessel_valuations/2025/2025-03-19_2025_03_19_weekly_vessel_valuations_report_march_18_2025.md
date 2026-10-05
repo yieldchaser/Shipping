@@ -33,7 +33,8 @@ linked_assets_skipped: 0
 market_tone: cautiously_bearish
 numeric_observation_count: 28
 numeric_observations:
-- section: Main
+- &id001
+  section: Main
   section_type: null
   source_line: Capesize BC Mount Song (180,200 DWT, Mar 2010, Koyo Dock) sold SS/DD
     due to Far Eastern buyers for USD 27 mil, VV Value USD 27.57 mil.
@@ -42,8 +43,9 @@ numeric_observations:
   - 180200.0
   - 2010.0
   - 27.0
-  - 27570.0
-- section: Main
+  - 27.57
+- &id002
+  section: Main
   section_type: null
   source_line: Kamsarmax BC Energy Hope (82,100 DWT, Feb 2012, Tsuneishi Zosen) sold
     DD Passed to Unknown Greek buyers for USD 17 mil, VV Value USD 17.79 mil
@@ -52,8 +54,9 @@ numeric_observations:
   - 82100.0
   - 2012.0
   - 17.0
-  - 17790.0
-- section: Main
+  - 17.79
+- &id003
+  section: Main
   section_type: null
   source_line: Handy BC Achilles Bulker (32,700 DWT, Oct 2003, Kanda) sold to Lebanese
     buyers for USD 6.6 mil, VV Value USD 6.22 mil
@@ -61,9 +64,10 @@ numeric_observations:
   values:
   - 32700.0
   - 2003.0
-  - 6600.0
-  - 6220.0
-- section: Main
+  - 6.6
+  - 6.22
+- &id004
+  section: Main
   section_type: null
   source_line: Handy BC (Open Hatch) Seastar Merlin (39,800 DWT, May 2025, Naikai)
     sold to South Korean buyers for USD 34 mil, VV Value USD 34.13 mil
@@ -72,8 +76,9 @@ numeric_observations:
   - 39800.0
   - 2025.0
   - 34.0
-  - 34130.0
-- section: Main
+  - 34.13
+- &id005
+  section: Main
   section_type: null
   source_line: VLCC Australis (299,100 DWT, Nov 2003, Universal) sold for USD 28 mil
     to SEACON trading as an FSU w/out BWTS, VV value USD 33.14 mil.
@@ -82,8 +87,9 @@ numeric_observations:
   - 299100.0
   - 2003.0
   - 28.0
-  - 33140.0
-- section: Main
+  - 33.14
+- &id006
+  section: Main
   section_type: null
   source_line: Teekay sold Suezmax Tianlong Spirit and LR2 Galway Spirit (159,000
     DWT & 105,200 DWT, Jan 2009 & Jan 2007, Bohai Shipbuilding & Hyundai Heavy Ulsan)
@@ -96,8 +102,9 @@ numeric_observations:
   - 2009.0
   - 2007.0
   - 59.0
-  - 61280.0
-- section: Main
+  - 61.28
+- &id007
+  section: Main
   section_type: null
   source_line: MR2 Torm Resilience and Ragnhild (50,000 DWT & 46,200 DWT, 2005, STX
     Offshore) sold to Chinese buyers in an enbloc deal for USD 30 mil, VV enbloc value
@@ -109,8 +116,9 @@ numeric_observations:
   - 46200.0
   - 2005.0
   - 30.0
-  - 30300.0
-- section: Main
+  - 30.3
+- &id008
+  section: Main
   section_type: null
   source_line: MR2 Torm Thames (47,000 DWT, Jul 2005, Hyundai Mipo) sold to unknown
     Chinese for USD 15 mil SS/DD due, VV value USD 15.68 mil.
@@ -120,8 +128,9 @@ numeric_observations:
   - 47000.0
   - 2005.0
   - 15.0
-  - 15680.0
-- section: Main
+  - 15.68
+- &id009
+  section: Main
   section_type: null
   source_line: Handy Containers AS Fabiana and AS Franziska (1,296 TEU & 1,345 TEU,
     Oct 2007 & Jun 2005, Zhejiang Ouhua & Jiangsu Yangzijiang) sold to European buyers
@@ -133,8 +142,9 @@ numeric_observations:
   - 2007.0
   - 2005.0
   - 21.0
-  - 22100.0
-- section: Main
+  - 22.1
+- &id010
+  section: Main
   section_type: null
   source_line: Sub Panamax Haris (2,194 TEU, Nov 2015, Guangzhou Wenchong) sold to
     Neptune Pacific Direct Line for USD 31 mil, VV Value USD 30.68 mil.
@@ -143,8 +153,9 @@ numeric_observations:
   - 2194.0
   - 2015.0
   - 31.0
-  - 30680.0
-- section: Main
+  - 30.68
+- &id011
+  section: Main
   section_type: null
   source_line: 'Image reference: assets/2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
   unit: null
@@ -158,7 +169,8 @@ numeric_observations:
   - 19320251.0
   - 518086495.0
   - 8.0
-- section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
+- &id012
+  section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
   unit: null
@@ -172,40 +184,45 @@ numeric_observations:
   - 19320251.0
   - 518086495.0
   - 8.0
-- section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
+- &id013
+  section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 678x248 mode=RGB'
   unit: null
   values:
   - 678.0
   - 248.0
-- section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
+- &id014
+  section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (96.0, 96.0)'
   unit: null
   values:
-  - 96000.0
-  - 96000.0
-- section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
+  - 96.0
+  - 96.0
+- &id015
+  section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
   section_type: linked_image_asset
   source_line: 18 March 2025 VV Mini Matrix - Weekly Change
   unit: null
   values:
   - 18.0
   - 2025.0
-- section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
+- &id016
+  section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
   section_type: linked_image_asset
   source_line: Year vice Suez Afra iR1 MR Cape Pmax Supra Handy Pmax Pmax Handy Fmax
   unit: null
   values:
   - 1.0
-- section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
+- &id017
+  section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
   section_type: linked_image_asset
   source_line: A 40.1% -0.3% -0.8% -0.2% -0.4% +1.6% +0.4% +0.3% 40.8% -0.2% 40.1%
     40.5% +0.5%
   unit: pct
   values:
-  - 40100.0
+  - 40.1
   - -0.3
   - -0.8
   - -0.2
@@ -213,9 +230,10 @@ numeric_observations:
   - 1.6
   - 0.4
   - 0.3
-  - 40800.0
+  - 40.8
   - -0.2
-- section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
+- &id018
+  section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
   section_type: linked_image_asset
   source_line: 320k 160k 115k 75k SOk 180k 82k 62k 38k 7000 4250 1750 1100
   unit: null
@@ -230,7 +248,8 @@ numeric_observations:
   - 38.0
   - 7000.0
   - 4250.0
-- section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
+- &id019
+  section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
   section_type: linked_image_asset
   source_line: '5 +0.2% -0.3% 0.7% 0.2% 0.4% #1.6% +0.4% +0.3% 40.2% "0.1% +£0.8%
     +0.6% +0.5%'
@@ -245,8 +264,9 @@ numeric_observations:
   - 1.6
   - 0.4
   - 0.3
-  - 40200.0
-- section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
+  - 40.2
+- &id020
+  section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
   section_type: linked_image_asset
   source_line: 320k = 160k = 110k 75k 50k 180k 82k 60k 38k 7000 4250 1750 1100
   unit: null
@@ -261,7 +281,8 @@ numeric_observations:
   - 60.0
   - 38.0
   - 7000.0
-- section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
+- &id021
+  section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
   section_type: linked_image_asset
   source_line: 10 +0.1% 0.3% 0.7% 0.2% "0.4% +1.6% +0.4% +0.3% +0.2% 0.0% +1.4% +40.6%
     +0.5%
@@ -277,7 +298,8 @@ numeric_observations:
   - 0.4
   - 0.3
   - 0.2
-- section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
+- &id022
+  section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
   section_type: linked_image_asset
   source_line: 320k 160k 110k 75k 50k 180k 80k 60k 35k 7000 4250 1750 1100
   unit: null
@@ -292,7 +314,8 @@ numeric_observations:
   - 60.0
   - 35.0
   - 7000.0
-- section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
+- &id023
+  section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
   section_type: linked_image_asset
   source_line: 15 0.0% "0.3% -0.8% -0.2% -0.4% 41.6% +0.4% +0.4% +0.5% 0.0% 41.8%
     +0.5% +0.4%
@@ -303,12 +326,13 @@ numeric_observations:
   - -0.8
   - -0.2
   - -0.4
-  - 41600.0
+  - 41.6
   - 0.4
   - 0.4
   - 0.5
-  - 41800.0
-- section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
+  - 41.8
+- &id024
+  section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
   section_type: linked_image_asset
   source_line: 310k 160k 110k 75k SOk 180k 80k S5Sk 30k 7000 4250 1750 1100
   unit: null
@@ -323,14 +347,15 @@ numeric_observations:
   - 30.0
   - 7000.0
   - 4250.0
-- section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
+- &id025
+  section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
   section_type: linked_image_asset
   source_line: '20 40.1% -0.3% 0.8% 0.2% 0.4% #1.6% +0.4% +0.4% 41.3% "0.1% 38=86941.7%
     40.3% +0.6%'
   unit: pct
   values:
   - 20.0
-  - 40100.0
+  - 40.1
   - -0.3
   - 0.8
   - 0.2
@@ -338,8 +363,9 @@ numeric_observations:
   - 1.6
   - 0.4
   - 0.4
-  - 41300.0
-- section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
+  - 41.3
+- &id026
+  section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
   section_type: linked_image_asset
   source_line: 310k = «160k = 110k 70k 45k 180k 75k 55k 30k 7000 4250 1750 1100
   unit: null
@@ -354,7 +380,8 @@ numeric_observations:
   - 55.0
   - 30.0
   - 7000.0
-- section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
+- &id027
+  section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
   section_type: linked_image_asset
   source_line: 25 +0.3% 0.2% -0.8% -0.2% -0.4% 0.0% 0.0% +0.4% +2.2% "0.2% +0.7% +0.1%
     +0.8%
@@ -370,7 +397,8 @@ numeric_observations:
   - 2.2
   - 0.2
   - 0.7
-- section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
+- &id028
+  section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
   section_type: linked_image_asset
   source_line: 300k 155k 105k 7Ook 45k 175k 75k 48k 30k 6500 4000 1750 1100
   unit: null
@@ -393,349 +421,38 @@ regions:
 - meg
 section_count: 2
 signals:
-  numeric_observation_count: 27
+  numeric_observation_count: 28
   numeric_observations:
-  - section: Main
-    section_type: null
-    source_line: Capesize BC Mount Song (180,200 DWT, Mar 2010, Koyo Dock) sold SS/DD
-      due to Far Eastern buyers for USD 27 mil, VV Value USD 27.57 mil.
-    unit: usd
-    values:
-    - 180200.0
-    - 2010.0
-    - 27.0
-    - 27.57
-  - section: Main
-    section_type: null
-    source_line: Kamsarmax BC Energy Hope (82,100 DWT, Feb 2012, Tsuneishi Zosen)
-      sold DD Passed to Unknown Greek buyers for USD 17 mil, VV Value USD 17.79 mil
-    unit: usd
-    values:
-    - 82100.0
-    - 2012.0
-    - 17.0
-    - 17.79
-  - section: Main
-    section_type: null
-    source_line: Handy BC Achilles Bulker (32,700 DWT, Oct 2003, Kanda) sold to Lebanese
-      buyers for USD 6.6 mil, VV Value USD 6.22 mil
-    unit: usd
-    values:
-    - 32700.0
-    - 2003.0
-    - 6.6
-    - 6.22
-  - section: Main
-    section_type: null
-    source_line: Handy BC (Open Hatch) Seastar Merlin (39,800 DWT, May 2025, Naikai)
-      sold to South Korean buyers for USD 34 mil, VV Value USD 34.13 mil
-    unit: usd
-    values:
-    - 39800.0
-    - 2025.0
-    - 34.0
-    - 34.13
-  - section: Main
-    section_type: null
-    source_line: VLCC Australis (299,100 DWT, Nov 2003, Universal) sold for USD 28
-      mil to SEACON trading as an FSU w/out BWTS, VV value USD 33.14 mil.
-    unit: usd
-    values:
-    - 299100.0
-    - 2003.0
-    - 28.0
-    - 33.14
-  - section: Main
-    section_type: null
-    source_line: Teekay sold Suezmax Tianlong Spirit and LR2 Galway Spirit (159,000
-      DWT & 105,200 DWT, Jan 2009 & Jan 2007, Bohai Shipbuilding & Hyundai Heavy Ulsan)
-      in an en bloc deal for USD 59 mil, VV enbloc value USD 61.28 mil.
-    unit: usd
-    values:
-    - 159000.0
-    - 105200.0
-    - 2009.0
-    - 2007.0
-    - 59.0
-    - 61.28
-  - section: Main
-    section_type: null
-    source_line: MR2 Torm Resilience and Ragnhild (50,000 DWT & 46,200 DWT, 2005,
-      STX Offshore) sold to Chinese buyers in an enbloc deal for USD 30 mil, VV enbloc
-      value USD 30.3 mil respectively.
-    unit: usd
-    values:
-    - 50000.0
-    - 46200.0
-    - 2005.0
-    - 30.0
-    - 30.3
-  - section: Main
-    section_type: null
-    source_line: MR2 Torm Thames (47,000 DWT, Jul 2005, Hyundai Mipo) sold to unknown
-      Chinese for USD 15 mil SS/DD due, VV value USD 15.68 mil.
-    unit: usd
-    values:
-    - 47000.0
-    - 2005.0
-    - 15.0
-    - 15.68
-  - section: Main
-    section_type: null
-    source_line: Handy Containers AS Fabiana and AS Franziska (1,296 TEU & 1,345 TEU,
-      Oct 2007 & Jun 2005, Zhejiang Ouhua & Jiangsu Yangzijiang) sold to European
-      buyers in an en bloc deal for USD 21 mil, VV en bloc value USD 22.1 mil.
-    unit: usd
-    values:
-    - 1296.0
-    - 1345.0
-    - 2007.0
-    - 2005.0
-    - 21.0
-    - 22.1
-  - section: Main
-    section_type: null
-    source_line: Sub Panamax Haris (2,194 TEU, Nov 2015, Guangzhou Wenchong) sold
-      to Neptune Pacific Direct Line for USD 31 mil, VV Value USD 30.68 mil.
-    unit: usd
-    values:
-    - 2194.0
-    - 2015.0
-    - 31.0
-    - 30.68
-  - section: Main
-    section_type: null
-    source_line: 'Image reference: assets/2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
-    unit: null
-    values:
-    - 2025.0
-    - -3.0
-    - -19.0
-    - 18.0
-    - -2025.0
-    - 19320251.0
-    - 518086495.0
-  - section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
-    section_type: linked_image_asset
-    source_line: 'Linked image asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
-    unit: null
-    values:
-    - 2025.0
-    - -3.0
-    - -19.0
-    - 18.0
-    - -2025.0
-    - 19320251.0
-    - 518086495.0
-  - section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
-    section_type: linked_image_asset
-    source_line: 'Image metadata: JPEG 678x248 mode=RGB'
-    unit: null
-    values:
-    - 678.0
-    - 48.0
-  - section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
-    section_type: linked_image_asset
-    source_line: 'dpi: (96.0, 96.0)'
-    unit: null
-    values:
-    - 96.0
-    - 96.0
-  - section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
-    section_type: linked_image_asset
-    source_line: 18 March 2025 VV Mini Matrix - Weekly Change
-    unit: null
-    values:
-    - 18.0
-    - 2025.0
-  - section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
-    section_type: linked_image_asset
-    source_line: A 40.1% -0.3% -0.8% -0.2% -0.4% +1.6% +0.4% +0.3% 40.8% -0.2% 40.1%
-      40.5% +0.5%
-    unit: pct
-    values:
-    - 40.1
-    - -0.3
-    - -0.8
-    - -0.2
-    - -0.4
-    - 1.6
-    - 0.4
-    - 0.3
-    - 40.8
-    - -0.2
-  - section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
-    section_type: linked_image_asset
-    source_line: 320k 160k 115k 75k SOk 180k 82k 62k 38k 7000 4250 1750 1100
-    unit: null
-    values:
-    - 320.0
-    - 160.0
-    - 115.0
-    - 75.0
-    - 180.0
-    - 82.0
-    - 62.0
-    - 38.0
-    - 7000.0
-    - 4250.0
-  - section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
-    section_type: linked_image_asset
-    source_line: '5 +0.2% -0.3% 0.7% 0.2% 0.4% #1.6% +0.4% +0.3% 40.2% "0.1% +£0.8%
-      +0.6% +0.5%'
-    unit: pct
-    values:
-    - 5.0
-    - 0.2
-    - -0.3
-    - 0.7
-    - 0.2
-    - 0.4
-    - 1.6
-    - 0.4
-    - 0.3
-    - 40.2
-  - section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
-    section_type: linked_image_asset
-    source_line: 320k = 160k = 110k 75k 50k 180k 82k 60k 38k 7000 4250 1750 1100
-    unit: null
-    values:
-    - 320.0
-    - 160.0
-    - 110.0
-    - 75.0
-    - 50.0
-    - 180.0
-    - 82.0
-    - 60.0
-    - 38.0
-    - 7000.0
-  - section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
-    section_type: linked_image_asset
-    source_line: 10 +0.1% 0.3% 0.7% 0.2% "0.4% +1.6% +0.4% +0.3% +0.2% 0.0% +1.4%
-      +40.6% +0.5%
-    unit: pct
-    values:
-    - 10.0
-    - 0.1
-    - 0.3
-    - 0.7
-    - 0.2
-    - 0.4
-    - 1.6
-    - 0.4
-    - 0.3
-    - 0.2
-  - section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
-    section_type: linked_image_asset
-    source_line: 320k 160k 110k 75k 50k 180k 80k 60k 35k 7000 4250 1750 1100
-    unit: null
-    values:
-    - 320.0
-    - 160.0
-    - 110.0
-    - 75.0
-    - 50.0
-    - 180.0
-    - 80.0
-    - 60.0
-    - 35.0
-    - 7000.0
-  - section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
-    section_type: linked_image_asset
-    source_line: 15 0.0% "0.3% -0.8% -0.2% -0.4% 41.6% +0.4% +0.4% +0.5% 0.0% 41.8%
-      +0.5% +0.4%
-    unit: pct
-    values:
-    - 15.0
-    - 0.3
-    - -0.8
-    - -0.2
-    - -0.4
-    - 41.6
-    - 0.4
-    - 0.4
-    - 0.5
-    - 41.8
-  - section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
-    section_type: linked_image_asset
-    source_line: 310k 160k 110k 75k SOk 180k 80k S5Sk 30k 7000 4250 1750 1100
-    unit: null
-    values:
-    - 310.0
-    - 160.0
-    - 110.0
-    - 75.0
-    - 180.0
-    - 80.0
-    - 30.0
-    - 7000.0
-    - 4250.0
-    - 1750.0
-  - section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
-    section_type: linked_image_asset
-    source_line: '20 40.1% -0.3% 0.8% 0.2% 0.4% #1.6% +0.4% +0.4% 41.3% "0.1% 38=86941.7%
-      40.3% +0.6%'
-    unit: pct
-    values:
-    - 20.0
-    - 40.1
-    - -0.3
-    - 0.8
-    - 0.2
-    - 0.4
-    - 1.6
-    - 0.4
-    - 0.4
-    - 41.3
-  - section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
-    section_type: linked_image_asset
-    source_line: 310k = «160k = 110k 70k 45k 180k 75k 55k 30k 7000 4250 1750 1100
-    unit: null
-    values:
-    - 310.0
-    - 160.0
-    - 110.0
-    - 70.0
-    - 45.0
-    - 180.0
-    - 75.0
-    - 55.0
-    - 30.0
-    - 7000.0
-  - section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
-    section_type: linked_image_asset
-    source_line: 25 +0.3% 0.2% -0.8% -0.2% -0.4% 0.0% 0.0% +0.4% +2.2% "0.2% +0.7%
-      +0.1% +0.8%
-    unit: pct
-    values:
-    - 25.0
-    - 0.3
-    - 0.2
-    - -0.8
-    - -0.2
-    - -0.4
-    - 0.4
-    - 2.2
-    - 0.2
-    - 0.7
-  - section: 'Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1_19320251_518086495bb8.jpg'
-    section_type: linked_image_asset
-    source_line: 300k 155k 105k 7Ook 45k 175k 75k 48k 30k 6500 4000 1750 1100
-    unit: null
-    values:
-    - 300.0
-    - 155.0
-    - 105.0
-    - 7.0
-    - 45.0
-    - 175.0
-    - 75.0
-    - 48.0
-    - 30.0
-    - 6500.0
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - *id010
+  - *id011
+  - *id012
+  - *id013
+  - *id014
+  - *id015
+  - *id016
+  - *id017
+  - *id018
+  - *id019
+  - *id020
+  - *id021
+  - *id022
+  - *id023
+  - *id024
+  - *id025
+  - *id026
+  - *id027
+  - *id028
 source: hellenic
-source_path: corpus/02-hellenic/vessel_valuations/2025/2025-03-19_weekly-vessel-valuations-report-march-18-2025.html
+source_path: reports/hellenic/vessel_valuations/2025/2025-03-19_weekly-vessel-valuations-report-march-18-2025.html
 source_stem: 2025-03-19_weekly-vessel-valuations-report-march-18-2025
 source_url: https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-march-18-2025
 summary: 'Main

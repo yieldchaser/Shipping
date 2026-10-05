@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2017_09_01_houston_we_have_a_problem__root",
+  "doc_id": "poten_tankers_no_date_poten_2017_09_01_houston_we_have_a_problem",
+  "parent_id": null,
+  "title": "Houston We Have A Problem",
+  "section_path": [
+    "Houston We Have A Problem"
+  ],
+  "section_path_text": "Houston We Have A Problem",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Hurricane Harvey wreaks havoc on the U.S. Gulf coast\nHurricane Harvey, the most powerful storm to hit the U.S. in more than a decade, made landfall on Friday night on the central Texas coast and severely disrupted oil production and refining operations in the region, first around Corpus Christi and Houston and later, as the storm moved, to Beaumont and Port Arthur.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "atlantic",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "gas",
+    "crude",
+    "product",
+    "harvey",
+    "oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 784,
+  "source_path": "reports/poten/2017/poten_2017-09-01_houston-we-have-a-problem.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2017_09_01_houston_we_have_a_problem__s01_hurricane_harvey_wreaks_havoc_on_the_u_s_gulf_coast",
+      "doc_id": "poten_tankers_no_date_poten_2017_09_01_houston_we_have_a_problem",
+      "parent_id": "poten_tankers_no_date_poten_2017_09_01_houston_we_have_a_problem__root",
+      "title": "Hurricane Harvey wreaks havoc on the U.S. Gulf coast",
+      "section_path": [
+        "Hurricane Harvey wreaks havoc on the U.S. Gulf coast"
+      ],
+      "section_path_text": "Hurricane Harvey wreaks havoc on the U.S. Gulf coast",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Hurricane Harvey, the most powerful storm to hit the U.S. in more than a decade, made landfall on Friday night on the central Texas coast and severely disrupted oil production and refining operations in the region, first around Corpus Christi and Houston and later, as the storm moved, to Beaumont and Port Arthur.",
+      "keywords": [
+        "us_gulf",
+        "crude_oil",
+        "products",
+        "gas",
+        "oil",
+        "million",
+        "are",
+        "barrels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 564,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2017_09_01_houston_we_have_a_problem__s02_the_u_s_gulf_coast_is_a_key_energy_hub",
+      "doc_id": "poten_tankers_no_date_poten_2017_09_01_houston_we_have_a_problem",
+      "parent_id": "poten_tankers_no_date_poten_2017_09_01_houston_we_have_a_problem__root",
+      "title": "The U.S. Gulf Coast is a Key Energy Hub",
+      "section_path": [
+        "The U.S. Gulf Coast is a Key Energy Hub"
+      ],
+      "section_path_text": "The U.S. Gulf Coast is a Key Energy Hub",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Price spikes for refined products such as gasoline have opened the arbitrage window. This led to a significant number of transatlantic product tanker fixtures and a sharp increase in UKC-USAC product tanker rates.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "atlantic",
+        "products",
+        "gas",
+        "crude",
+        "product"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 194,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

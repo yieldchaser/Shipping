@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2022_07_29_this_time_it_is_different__root",
+  "doc_id": "poten_tankers_no_date_poten_2022_07_29_this_time_it_is_different",
+  "parent_id": null,
+  "title": "This Time it is Different",
+  "section_path": [
+    "This Time it is Different"
+  ],
+  "section_path_text": "This Time it is Different",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Asset prices are on the rise, flashbacks to 2004-2008? Tanker asset prices have been on a tear lately. VLCC newbuilding prices have increased from $88.4 million in January 2021, to $119 million this month, an increase of 35%.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "lng",
+    "container",
+    "china",
+    "europe",
+    "crude_oil",
+    "steel",
+    "gas",
+    "prices",
+    "are",
+    "newbuilding"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 929,
+  "source_path": "reports/poten/2022/poten_2022-07-29_this-time-it-is-different.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_07_29_this_time_it_is_different__s01_asset_prices_are_on_the_rise_flashbacks_to_2004_2008",
+      "doc_id": "poten_tankers_no_date_poten_2022_07_29_this_time_it_is_different",
+      "parent_id": "poten_tankers_no_date_poten_2022_07_29_this_time_it_is_different__root",
+      "title": "Asset prices are on the rise, flashbacks to 2004-2008?",
+      "section_path": [
+        "Asset prices are on the rise, flashbacks to 2004-2008?"
+      ],
+      "section_path_text": "Asset prices are on the rise, flashbacks to 2004-2008?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Tanker asset prices have been on a tear lately. VLCC newbuilding prices have increased from $88.4 million in January 2021, to $119 million this month, an increase of 35%.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "lng",
+        "container",
+        "china",
+        "crude_oil",
+        "gas",
+        "prices"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 575,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_07_29_this_time_it_is_different__s02_mln_us",
+      "doc_id": "poten_tankers_no_date_poten_2022_07_29_this_time_it_is_different",
+      "parent_id": "poten_tankers_no_date_poten_2022_07_29_this_time_it_is_different__root",
+      "title": "Mln US$",
+      "section_path": [
+        "Mln US$"
+      ],
+      "section_path_text": "Mln US$",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "5 Year Old Tanker Prices need to incorporate choices around fuel and propulsion. None of these factors played a significant role when the previous generation of tankers were ordered 15-20 years ago.",
+      "keywords": [
+        "europe",
+        "steel",
+        "prices",
+        "are",
+        "fuel",
+        "cycle.",
+        "newbuilding",
+        "recovery"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 332,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

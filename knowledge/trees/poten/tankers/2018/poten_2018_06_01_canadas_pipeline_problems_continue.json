@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2018_06_01_canadas_pipeline_problems_continue__root",
+  "doc_id": "poten_tankers_no_date_poten_2018_06_01_canadas_pipeline_problems_continue",
+  "parent_id": null,
+  "title": "Canadas Pipeline Problems Continue",
+  "section_path": [
+    "Canadas Pipeline Problems Continue"
+  ],
+  "section_path_text": "Canadas Pipeline Problems Continue",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "pipelines are a study in contrasts\nThis week, the Canadian federal government announced that they are buying the Trans Mountain pipeline system and its expansion project from current owner Kinder Morgan for C$4.5 billion. The expansion itself (if it goes ahead) is expected to cost an additional C$7.4 billion. It is the latest chapter in a story that has taken many twists and turns.",
+  "keywords": [
+    "aframax",
+    "europe",
+    "crude_oil",
+    "b/d",
+    "canadian",
+    "pipeline",
+    "are",
+    "million",
+    "mountain",
+    "trans",
+    "canada",
+    "expansion"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 876,
+  "source_path": "reports/poten/2018/poten_2018-06-01_canadas-pipeline-problems-continue.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_06_01_canadas_pipeline_problems_continue__s01_canadian_and_u_s_pipelines_are_a_study_in_contrasts",
+      "doc_id": "poten_tankers_no_date_poten_2018_06_01_canadas_pipeline_problems_continue",
+      "parent_id": "poten_tankers_no_date_poten_2018_06_01_canadas_pipeline_problems_continue__root",
+      "title": "Canadian and U.S. pipelines are a study in contrasts",
+      "section_path": [
+        "Canadian and U.S. pipelines are a study in contrasts"
+      ],
+      "section_path_text": "Canadian and U.S. pipelines are a study in contrasts",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This week, the Canadian federal government announced that they are buying the Trans Mountain pipeline system and its expansion project from current owner Kinder Morgan for C$4.5 billion. The expansion itself (if it goes ahead) is expected to cost an additional C$7.4 billion.",
+      "keywords": [
+        "aframax",
+        "crude_oil",
+        "b/d",
+        "canadian",
+        "mountain",
+        "trans",
+        "expansion",
+        "pipeline"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 600,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_06_01_canadas_pipeline_problems_continue__s02_north_american_pipeline_proposals_in_2014",
+      "doc_id": "poten_tankers_no_date_poten_2018_06_01_canadas_pipeline_problems_continue",
+      "parent_id": "poten_tankers_no_date_poten_2018_06_01_canadas_pipeline_problems_continue__root",
+      "title": "North American Pipeline Proposals in 2014",
+      "section_path": [
+        "North American Pipeline Proposals in 2014"
+      ],
+      "section_path_text": "North American Pipeline Proposals in 2014",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "rapidly, Canadian crude is facing more competition and the discount to international benchmark prices at which Canada is selling its crude to the U.S. This costs Canadian producers an estimated C$15.6 billion a year.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "are",
+        "canadian",
+        "u.s.",
+        "canada",
+        "crude",
+        "pipelines"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 253,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

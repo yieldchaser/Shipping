@@ -1,0 +1,142 @@
+---
+category: tankers
+commodities:
+- crude_oil
+- products
+- gas
+date: null
+doc_id: poten_tankers_no_date_poten_2019_04_05_all_eyes_on_the_east
+document_type: analyst_opinion
+is_error_page: false
+key_entities:
+- China
+- Middle East
+keywords:
+- china
+- pacific
+- europe
+- india
+- crude_oil
+- products
+- gas
+- product
+- refining
+- are
+- capacity
+- east
+market_tone: constructive
+numeric_observation_count: 6
+numeric_observations:
+- section: Product flows in the Pacific are expected to increase
+  section_type: null
+  source_line: Refining capacity in Asia has been growing rapidly for many years,
+    driven by continued growth in refined product demand in the region. The Middle
+    East has also added significant capacity. While growing domestic demand is a driver
+    in the Middle East as well, th
+  unit: null
+  values:
+  - 2019.0
+  - -2024.0
+  - 9.1
+  - 2019.0
+  - -2024.0
+- section: Product flows in the Pacific are expected to increase
+  section_type: null
+  source_line: This is not an easy question to answer. To get a complete picture,
+    one cannot only look at refining capacity. Refinery throughput and utilization
+    rates are equally important. There is a significant discrepancy between refining
+    capacity and throughput and utili
+  unit: pct
+  values:
+  - 85.0
+  - 62.0
+  - 58.0
+- section: Product flows in the Pacific are expected to increase
+  section_type: null
+  source_line: The situation in Asia is mixed. India also has a modern, sophisticated
+    refining industry with virtually no idle capacity (99% utilization rate). However,
+    because product demand growth is expected to outpace refining expansion, India
+    may have to cut down on pro
+  unit: pct
+  values:
+  - 99.0
+  - 1.0
+  - 2.0
+- section: Product flows in the Pacific are expected to increase
+  section_type: null
+  source_line: China's refining industry is changing rapidly. On the one hand, it
+    is expanding, with an expected 3.6 mb/d of new capacity added to 2024. Refinery
+    utilization rates in China are not very high to begin with. According to the IEA,
+    they currently stand at 77%. Wi
+  unit: pct
+  values:
+  - 3.6
+  - 2024.0
+  - 77.0
+  - 10.0
+  - -20.0
+- section: Product flows in the Pacific are expected to increase
+  section_type: null
+  source_line: The major state-owned companies like CNOOC and Sinochem account for
+    only a small portion of the refining capacity expansion over the next five years.
+    The majority of China's new capacity (around 54%) will come from independent refiners.
+    The independent refiner
+  unit: pct
+  values:
+  - 54.0
+  - 1.0
+  - 2.0
+- section: Product flows in the Pacific are expected to increase
+  section_type: null
+  source_line: Last, but not least, the Middle East will continue to grow its refining
+    capacity. This region is expected to add 2.3 mb/d in new capacity and a significant
+    portion of this new output will be exported.
+  unit: null
+  values:
+  - 2.3
+regions:
+- meg
+- china
+- atlantic
+- pacific
+- europe
+- india
+section_count: 1
+signals: {}
+source: poten
+source_path: reports/poten/2019/poten_2019-04-05_all-eyes-on-the-east.md
+source_stem: poten_2019-04-05_all-eyes-on-the-east
+source_url: null
+summary: 'Product flows in the Pacific are expected to increase
+
+  Refining capacity in Asia has been growing rapidly for many years, driven by continued
+  growth in refined product demand in the region. The Middle East has also added significant
+  capacity. While growing domestic demand is a driver in the Middle East as well,
+  the large crude oil producers in the region, like Saudi Arabia and Kuwait are also
+  motivated by diversifying their economies and producing more value-added products.'
+themes:
+- china
+- pacific
+- europe
+- india
+- crude_oil
+- products
+title: All Eyes On The East
+vessel_classes:
+- vlcc
+- suezmax
+- aframax
+---
+
+## Summary
+Product flows in the Pacific are expected to increase
+Refining capacity in Asia has been growing rapidly for many years, driven by continued growth in refined product demand in the region. The Middle East has also added significant capacity. While growing domestic demand is a driver in the Middle East as well, the large crude oil producers in the region, like Saudi Arabia and Kuwait are also motivated by diversifying their economies and producing more value-added products.
+
+## Product flows in the Pacific are expected to increase
+Refining capacity in Asia has been growing rapidly for many years, driven by continued growth in refined product demand in the region. The Middle East has also added significant capacity. While growing domestic demand is a driver in the Middle East as well, the large crude oil producers in the region, like Saudi Arabia and Kuwait are also motivated by diversifying their economies and producing more value-added products. Over the next five years (2019-2024), the IEA expects that the global downstream industry will add as much as 9.1 million barrels per day (mb/d) in refining capacity, with markets "East of Suez" (Middle East and Asia) taking care of two-thirds of the total. Since this region will also be the source of two-thirds of refined products demand growth, it appears at first glance that supply and demand are in balance. However, there is a significant discrepancy: the IEA forecasts that the expansion in global refining capacity in the years 2019-2024 is twice the size of worldwide product demand growth over the same period. From the perspective of a product tanker owner, the question is: will this be good or bad for the product tanker market?
+This is not an easy question to answer. To get a complete picture, one cannot only look at refining capacity. Refinery throughput and utilization rates are equally important. There is a significant discrepancy between refining capacity and throughput and utilization rates vary by region. State of the art refining centers like the ones in North America, Europe and the Middle East have relatively high utilization rates (>85%). Latin America and Africa are regions with low refinery utilization rates of 62% and 58% respectively.
+The situation in Asia is mixed. India also has a modern, sophisticated refining industry with virtually no idle capacity (99% utilization rate). However, because product demand growth is expected to outpace refining expansion, India may have to cut down on product exports over the next five years. This would be unfortunate because India has been a major player in the refined products export market, providing employment opportunities for LR1 and LR2 product tankers.
+China's refining industry is changing rapidly. On the one hand, it is expanding, with an expected 3.6 mb/d of new capacity added to 2024. Refinery utilization rates in China are not very high to begin with. According to the IEA, they currently stand at 77%. With the new capacity additions, which far outpace forecasted Chinese demand growth, the expectation is that refining utilization will remain under pressure. It is also possible that China's product exports will pick up. This would be a positive development for the product tanker market. As the IEA points out, China is already a major exporter, regularly shipping between 10-20% of its domestic diesel, gasoline and kerosene output. Some of these exports are transported as far as Europe and the United States.
+The major state-owned companies like CNOOC and Sinochem account for only a small portion of the refining capacity expansion over the next five years. The majority of China's new capacity (around 54%) will come from independent refiners. The independent refiners are dominated by three big players that are planning to build large petrochemical plants in coastal regions. Once these plants are finished, the Chinese will be able to drastically reduce their imports of petrochemicals. The petrochemical plants will source their feedstock (naphtha and condensates) mainly from the Middle East on LR1 and LR2 product carriers.
+Last, but not least, the Middle East will continue to grow its refining capacity. This region is expected to add 2.3 mb/d in new capacity and a significant portion of this new output will be exported.
+In summary, the refining industry is going through major changes with significant expansions planned East of Suez. Overall, this will lead to increased intra- and inter-regional product movements in the Pacific, boding well for product tanker rates over the next few years.

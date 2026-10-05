@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2012_03_16_a_springtime_rally__root",
+  "doc_id": "poten_tankers_no_date_poten_2012_03_16_a_springtime_rally",
+  "parent_id": null,
+  "title": "A Springtime Rally",
+  "section_path": [
+    "A Springtime Rally"
+  ],
+  "section_path_text": "A Springtime Rally",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "A Springtime Rally\nAnyone following the tanker market during the last few years knows that bright spots have been few and far between. This week, however, VLCC spot market rates took upward strides bringing time charter equivalent earnings to levels not seen in quite some time. The combined uptick in fixing activity and waning vessel availability in the Arabian Gulf is a perfect recipe for shipowners in the spot market.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "brazil",
+    "meg",
+    "west_africa",
+    "crude_oil",
+    "charter",
+    "chiba",
+    "day",
+    "per",
+    "term",
+    "time"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 734,
+  "source_path": "reports/poten/2012/poten_2012-03-16_a-springtime-rally.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_03_16_a_springtime_rally__s01_a_springtime_rally",
+      "doc_id": "poten_tankers_no_date_poten_2012_03_16_a_springtime_rally",
+      "parent_id": "poten_tankers_no_date_poten_2012_03_16_a_springtime_rally__root",
+      "title": "A Springtime Rally",
+      "section_path": [
+        "A Springtime Rally"
+      ],
+      "section_path_text": "A Springtime Rally",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Anyone following the tanker market during the last few years knows that bright spots have been few and far between. This week, however, VLCC spot market rates took upward strides bringing time charter equivalent earnings to levels not seen in quite some time.",
+      "keywords": [
+        "vlcc",
+        "brazil",
+        "meg",
+        "west_africa",
+        "charter",
+        "day",
+        "far",
+        "time"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 202,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_03_16_a_springtime_rally__s02_vessel_availablity",
+      "doc_id": "poten_tankers_no_date_poten_2012_03_16_a_springtime_rally",
+      "parent_id": "poten_tankers_no_date_poten_2012_03_16_a_springtime_rally__root",
+      "title": "Vessel Availablity",
+      "section_path": [
+        "Vessel Availablity"
+      ],
+      "section_path_text": "Vessel Availablity",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "VLCC Availability - Next 30 Days WS Rate (AG - FE) WS Rate (WAF - FE) The March Arabian Gulf lifting program developed slowly putting more pressure on the back-end of the month. As a result, VLCC availabilities which have averaged 92 vessels year-to-date have dropped to below 66 vessels on a thirty-day forward basis.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "meg",
+        "west_africa",
+        "crude_oil",
+        "increased",
+        "activity",
+        "gulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 201,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_03_16_a_springtime_rally__s03_rate_rollercoaster_ride",
+      "doc_id": "poten_tankers_no_date_poten_2012_03_16_a_springtime_rally",
+      "parent_id": "poten_tankers_no_date_poten_2012_03_16_a_springtime_rally__root",
+      "title": "Rate Rollercoaster Ride",
+      "section_path": [
+        "Rate Rollercoaster Ride"
+      ],
+      "section_path_text": "Rate Rollercoaster Ride",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Although conspicuously absent for the past few years, the VLCC market is no stranger to volatility. The chart below shows time charter equivalents for Ras Tanura to Chiba and Bonny to Chiba on 260kt, as well as the one-year time charter rates on a weekly basis.",
+      "keywords": [
+        "vlcc",
+        "brazil",
+        "charter",
+        "chiba",
+        "time",
+        "absent",
+        "although",
+        "basis."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 59,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_03_16_a_springtime_rally__s04_vlcc_spot_term_charter_rates",
+      "doc_id": "poten_tankers_no_date_poten_2012_03_16_a_springtime_rally",
+      "parent_id": "poten_tankers_no_date_poten_2012_03_16_a_springtime_rally__root",
+      "title": "VLCC Spot & Term Charter Rates",
+      "section_path": [
+        "VLCC Spot & Term Charter Rates"
+      ],
+      "section_path_text": "VLCC Spot & Term Charter Rates",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "1-Yr TC Ras Tanura - Chiba Bonny - Chiba Spot market rates for both trades have averaged around $53,000 per day over the historical period shown above, while the one-year time charter rate has averaged $49,000 per day. The average disparity between one-year term charter and spot rates is minimal, the relative volatility is not.",
+      "keywords": [
+        "china",
+        "meg",
+        "charter",
+        "term",
+        "per",
+        "chiba",
+        "day",
+        "one-year"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 246,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

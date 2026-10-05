@@ -9,7 +9,7 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 3.3.2026",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nPositive Sentiment Supports Rates Despite Dark Macro Clouds - The dry bulk chartering market has finally reached a phase\nSource: Breakwave Advisors\n\nLinked asset: 2026-03-03_breakwave-dry-bulk-shipping-report-3-3-2026_breakwavedrymarch32026report_73eba37118da.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2026-03-03_breakwave-dry-bulk-shipping-report-3-3-2026_breakwavedrymarch32026report_73eba37118da.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nMarch 3, 2026\n• Positive Sentiment Supports Rates Despite Dark Macro Clouds - The dry bulk\nShort-term Indicators\nchartering market has finally reached a phase of institutional maturity where\nMomentum: Neutral\nfreight derivatives increasingly dictate spot market trajectory, mirroring the evolution\nof other global commodity markets. With daily Forward Freight Agreement (FFA) Sentiment: Neutral\nvolumes now exceeding physical transactions by several orders of magnitude, Fundamentals: Negative\na predominantly bullish futures curve continues to anchor physical spot rates. This\nis a structural shift that has especially transformed Capesize chartering over the\nBreakwave Dry\npast decade.",
+  "summary": "Main\nPositive Sentiment Supports Rates Despite Dark Macro Clouds - The dry bulk chartering market has finally reached a phase\nSource: Breakwave Advisors\n\nLinked asset: 2026-03-03_breakwave-dry-bulk-shipping-report-3-3-2026_breakwavedrymarch32026report_73eba37118da.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2026-03-03_breakwave-dry-bulk-shipping-report-3-3-2026_breakwavedrymarch32026report_73eba37118da.pdf\n\n# Dry Bulk Shipping\n\n## Bi-Weekly Industry Report\n\n### March 3, 2026\n\n- **Positive Sentiment Supports Rates Despite Dark Macro Clouds -** The dry bulk chartering market has finally reached a phase of **institutional maturity** where freight derivatives increasingly dictate spot market trajectory, mirroring the evolution of other global commodity markets. With daily Forward Freight Agreement (FFA) volumes now **exceeding physical transactions by several orders of magnitude**, a predominantly bullish futures curve continues to anchor physical spot rates. This is a structural shift that has especially transformed Capesize chartering over the past decade.",
   "keywords": [
     "capesize",
     "panamax",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1685,
-  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-03-03_breakwave-dry-bulk-shipping-report-3-3-2026.html",
+  "token_count": 1769,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-03-03_breakwave-dry-bulk-shipping-report-3-3-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-3-3-2026",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-03-03_breakwave-dry-bulk-shipping-report-3-3-2026_breakwavedrymarch32026report_73eba37118da.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-03-03_breakwave-dry-bulk-shipping-report-3-3-2026_breakwavedrymarch32026report_73eba37118da.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nMarch 3, 2026\n• Positive Sentiment Supports Rates Despite Dark Macro Clouds - The dry bulk\nShort-term Indicators\nchartering market has finally reached a phase of institutional maturity where\nMomentum: Neutral\nfreight derivatives increasingly dictate spot market trajectory, mirroring the evolution\nof other global commodity markets. With daily Forward Freight Agreement (FFA) Sentiment: Neutral\nvolumes now exceeding physical transactions by several orders of magnitude, Fundamentals: Negative\na predominantly bullish futures curve continues to anchor physical spot rates.",
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-03-03_breakwave-dry-bulk-shipping-report-3-3-2026_breakwavedrymarch32026report_73eba37118da.pdf\n\n# Dry Bulk Shipping\n\n## Bi-Weekly Industry Report\n\n### March 3, 2026\n\n- **Positive Sentiment Supports Rates Despite Dark Macro Clouds -** The dry bulk chartering market has finally reached a phase of **institutional maturity** where freight derivatives increasingly dictate spot market trajectory, mirroring the evolution of other global commodity markets. With daily Forward Freight Agreement (FFA) volumes now **exceeding physical transactions by several orders of magnitude**, a predominantly bullish futures curve continues to anchor physical spot rates.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1611,
+      "token_count": 1695,
       "section_type": "linked_pdf",
       "children": []
     }

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2025_04_11_drill_baby_drill_with_low_oil_prices__root",
+  "doc_id": "poten_tankers_no_date_poten_2025_04_11_drill_baby_drill_with_low_oil_prices",
+  "parent_id": null,
+  "title": "Drill Baby Drill With Low Oil Prices",
+  "section_path": [
+    "Drill Baby Drill With Low Oil Prices"
+  ],
+  "section_path_text": "Drill Baby Drill With Low Oil Prices",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "goal of energy dominance deal with low oil\nprices? crude oil production has grown rapidly over the last decade, even though there were some setbacks along the way. During the COVID driven demand and oil price crash, which was further exacerbated by Saudi Arabian production increases, U.S.",
+  "keywords": [
+    "china",
+    "japan",
+    "crude_oil",
+    "gas",
+    "oil",
+    "production",
+    "u.s.",
+    "demand",
+    "price",
+    "are",
+    "prices",
+    "was"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 864,
+  "source_path": "reports/poten/2025/poten_2025-04-11_drill-baby-drill-with-low-oil-prices.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2025_04_11_drill_baby_drill_with_low_oil_prices__s01_how_will_u_s_goal_of_energy_dominance_deal_with_low_oil",
+      "doc_id": "poten_tankers_no_date_poten_2025_04_11_drill_baby_drill_with_low_oil_prices",
+      "parent_id": "poten_tankers_no_date_poten_2025_04_11_drill_baby_drill_with_low_oil_prices__root",
+      "title": "How will U.S. goal of energy dominance deal with low oil",
+      "section_path": [
+        "How will U.S. goal of energy dominance deal with low oil"
+      ],
+      "section_path_text": "How will U.S. goal of energy dominance deal with low oil",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "crude oil production has grown rapidly over the last decade, even though there were some setbacks along the way. During the COVID driven demand and oil price crash, which was further exacerbated by Saudi Arabian production increases, U.S.",
+      "keywords": [
+        "china",
+        "japan",
+        "crude_oil",
+        "gas",
+        "oil",
+        "production",
+        "u.s.",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 850,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

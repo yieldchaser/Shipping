@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2018_09_28_opecs_bunker_boost__root",
+  "doc_id": "poten_tankers_no_date_poten_2018_09_28_opecs_bunker_boost",
+  "parent_id": null,
+  "title": "OPECs Bunker Boost",
+  "section_path": [
+    "OPECs Bunker Boost"
+  ],
+  "section_path_text": "OPECs Bunker Boost",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "OPEC expects a short-term demand boost in 2020\nLast weekend, OPEC published its annual long-term World Oil Outlook, which forecasts global oil demand through 2040. The forecasters of the Organization of the Petroleum Exporting Countries are relatively optimistic about the prospects of long- term crude oil demand, although demand for its own crude is expected to come under pressure in the next five years as a result of surging U.S. In their 400-page report, the OPEC analysts touch on a wide variety of topics, including regional shifts in GDP and population growth, the changing competitiveness of the various fossil fuels (natural gas, coal and oil) relative to each other and compared to renewables.",
+  "keywords": [
+    "vlcc",
+    "coal",
+    "crude_oil",
+    "gas",
+    "opec",
+    "oil",
+    "demand",
+    "sulphur",
+    "crude",
+    "crudes",
+    "fuel",
+    "compliant"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 906,
+  "source_path": "reports/poten/2018/poten_2018-09-28_opecs-bunker-boost.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_09_28_opecs_bunker_boost__s01_opec_expects_a_short_term_demand_boost_in_2020",
+      "doc_id": "poten_tankers_no_date_poten_2018_09_28_opecs_bunker_boost",
+      "parent_id": "poten_tankers_no_date_poten_2018_09_28_opecs_bunker_boost__root",
+      "title": "OPEC expects a short-term demand boost in 2020",
+      "section_path": [
+        "OPEC expects a short-term demand boost in 2020"
+      ],
+      "section_path_text": "OPEC expects a short-term demand boost in 2020",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Last weekend, OPEC published its annual long-term World Oil Outlook, which forecasts global oil demand through 2040. The forecasters of the Organization of the Petroleum Exporting Countries are relatively optimistic about the prospects of long- term crude oil demand, although demand for its own crude is expected to come under pressure in the next five years as a result of surging U.S.",
+      "keywords": [
+        "vlcc",
+        "coal",
+        "crude_oil",
+        "gas",
+        "oil",
+        "opec",
+        "demand",
+        "sulphur"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 893,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

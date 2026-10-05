@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2018_03_09_favorable_winds_ahead__root",
+  "doc_id": "poten_tankers_no_date_poten_2018_03_09_favorable_winds_ahead",
+  "parent_id": null,
+  "title": "Favorable Winds Ahead",
+  "section_path": [
+    "Favorable Winds Ahead"
+  ],
+  "section_path_text": "Favorable Winds Ahead",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The latest IEA forecast is bullish on tanker trade\nThe overall tone of \"Oil 2018\", the latest IEA annual forecast of global oil demand, supply, refining and trade is fairly positive and many of the specific elements that are discussed in the report are rather bullish for the tanker market. A combination of robust global demand growth, refining capacity expansion and changes in tradeflows could help the recovery in the tanker market. Even the IMO mandated changes in marine fuel specifications that will come into effect in 2020 could have a silver lining for the tanker market.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "brazil",
+    "atlantic",
+    "pacific",
+    "europe",
+    "india",
+    "singapore",
+    "crude_oil",
+    "products",
+    "oil",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 837,
+  "source_path": "reports/poten/2018/poten_2018-03-09_favorable-winds-ahead.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_03_09_favorable_winds_ahead__s01_the_latest_iea_forecast_is_bullish_on_tanker_trade",
+      "doc_id": "poten_tankers_no_date_poten_2018_03_09_favorable_winds_ahead",
+      "parent_id": "poten_tankers_no_date_poten_2018_03_09_favorable_winds_ahead__root",
+      "title": "The latest IEA forecast is bullish on tanker trade",
+      "section_path": [
+        "The latest IEA forecast is bullish on tanker trade"
+      ],
+      "section_path_text": "The latest IEA forecast is bullish on tanker trade",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The overall tone of \"Oil 2018\", the latest IEA annual forecast of global oil demand, supply, refining and trade is fairly positive and many of the specific elements that are discussed in the report are rather bullish for the tanker market. A combination of robust global demand growth, refining capacity expansion and changes in tradeflows could help the recovery in the tanker market.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "brazil",
+        "atlantic",
+        "pacific",
+        "europe",
+        "india",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 826,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

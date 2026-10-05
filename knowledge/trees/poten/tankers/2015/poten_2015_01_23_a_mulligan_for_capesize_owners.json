@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2015_01_23_a_mulligan_for_capesize_owners__root",
+  "doc_id": "poten_tankers_no_date_poten_2015_01_23_a_mulligan_for_capesize_owners",
+  "parent_id": null,
+  "title": "A Mulligan for Capesize Owners?",
+  "section_path": [
+    "A Mulligan for Capesize Owners?"
+  ],
+  "section_path_text": "A Mulligan for Capesize Owners?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "How bulker conversions will impact the tanker market\nWhile the tanker market has gone from strength to strength on the back of sharply lower oil prices and moderate fleet expansion, the dry cargo market, in general, and capesize bulk carriers, in particular, are in the doldrums. The dry bulk orderbook for 2015 and 2016 delivery remains high, in particular for Capesize vessels. Is it realistic to expect that a significant portion of these large bulk carriers are going to be converted to Aframax or Suezmax tankers?",
+  "keywords": [
+    "capesize",
+    "suezmax",
+    "aframax",
+    "crude_oil",
+    "are",
+    "vessels",
+    "conversions",
+    "carriers",
+    "only",
+    "owners",
+    "shipyards",
+    "another"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 647,
+  "source_path": "reports/poten/2015/poten_2015-01-23_a-mulligan-for-capesize-owners.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2015_01_23_a_mulligan_for_capesize_owners__s01_how_bulker_conversions_will_impact_the_tanker_market",
+      "doc_id": "poten_tankers_no_date_poten_2015_01_23_a_mulligan_for_capesize_owners",
+      "parent_id": "poten_tankers_no_date_poten_2015_01_23_a_mulligan_for_capesize_owners__root",
+      "title": "How bulker conversions will impact the tanker market",
+      "section_path": [
+        "How bulker conversions will impact the tanker market"
+      ],
+      "section_path_text": "How bulker conversions will impact the tanker market",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "While the tanker market has gone from strength to strength on the back of sharply lower oil prices and moderate fleet expansion, the dry cargo market, in general, and capesize bulk carriers, in particular, are in the doldrums. The dry bulk orderbook for 2015 and 2016 delivery remains high, in particular for Capesize vessels.",
+      "keywords": [
+        "capesize",
+        "suezmax",
+        "aframax",
+        "crude_oil",
+        "are",
+        "vessels",
+        "carriers",
+        "conversions"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 637,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

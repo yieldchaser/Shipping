@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNew building in tankers this week, Al Seer Marine announced orders for four firm 50k MR tankers at K Shipbuilding. Source: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-11-18_clarksons-platou-hellas-snp-weekly-bulletin-45_report-18-11-2022_bdf8f91df692.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-11-18_clarksons-platou-hellas-snp-weekly-bulletin-45_report-18-11-2022_bdf8f91df692.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 18 November 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC-C7.1\nCHINA STEEL 203,512 2007 CSBC SS 01/27\nBWTS Fitted\nENTREPRENEUR DD 01/25 USD 35.5 M\nGREEKS\nMAN B.",
+  "summary": "Main\nNew building in tankers this week, Al Seer Marine announced orders for four firm 50k MR tankers at K Shipbuilding. Source: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-11-18_clarksons-platou-hellas-snp-weekly-bulletin-45_report-18-11-2022_bdf8f91df692.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2022-11-18_clarksons-platou-hellas-snp-weekly-bulletin-45_report-18-11-2022_bdf8f91df692.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin18 November 2022\n\n# Bulk Carriers\n\n### Vessel DWT Built Details SS/DD Price Buyer\n\nMAN B. 6S70MC-C7.1 **CHINA STEEL** 203,512 2007 CSBC BWTS Fitted SS 01/27 **ENTREPRENEUR** DD 01/25 USD 35.5 M GREEKS MAN B.",
   "keywords": [
     "capesize",
     "lng",
@@ -21,13 +21,13 @@
     "steel",
     "gas",
     "any",
-    "information",
-    "clarksons"
+    "clarksons",
+    "information"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2045,
-  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-11-18_clarksons-platou-hellas-snp-weekly-bulletin-45.html",
+  "token_count": 2118,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-11-18_clarksons-platou-hellas-snp-weekly-bulletin-45.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-45",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-11-18_clarksons-platou-hellas-snp-weekly-bulletin-45_report-18-11-2022_bdf8f91df692.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-11-18_clarksons-platou-hellas-snp-weekly-bulletin-45_report-18-11-2022_bdf8f91df692.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 18 November 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC-C7.1\nCHINA STEEL 203,512 2007 CSBC SS 01/27\nBWTS Fitted\nENTREPRENEUR DD 01/25 USD 35.5 M\nGREEKS\nMAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-11-18_clarksons-platou-hellas-snp-weekly-bulletin-45_report-18-11-2022_bdf8f91df692.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin18 November 2022\n\n# Bulk Carriers\n\n### Vessel DWT Built Details SS/DD Price Buyer\n\nMAN B. 6S70MC-C7.1 **CHINA STEEL** 203,512 2007 CSBC BWTS Fitted SS 01/27 **ENTREPRENEUR** DD 01/25 USD 35.5 M GREEKS MAN B.",
       "keywords": [
         "capesize",
         "lng",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1960,
+      "token_count": 2033,
       "section_type": "linked_pdf",
       "children": []
     }

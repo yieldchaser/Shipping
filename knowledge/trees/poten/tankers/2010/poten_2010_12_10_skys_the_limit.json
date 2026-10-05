@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_12_10_skys_the_limit__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_12_10_skys_the_limit",
+  "parent_id": null,
+  "title": "Sky's The Limit",
+  "section_path": [
+    "Sky's The Limit"
+  ],
+  "section_path_text": "Sky's The Limit",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Sky's The Limit\nThe recent run‐up in crude oil prices has led many to speculate that the emotional threshold of $100 per barrel could be right around the corner. September 2008 was the last time the monthly average crude oil price broke $100 per barrel before falling precipitously to nearly half of that level by April 2009. Two and a half years after its peak of over $140 per barrel, financial regulators continue to debate the root cause of the rapid price increase while trying to craft preventative legislation to inhibit a repeat experience.",
+  "keywords": [
+    "china",
+    "india",
+    "grain",
+    "crude_oil",
+    "products",
+    "oil",
+    "crude",
+    "demand",
+    "price",
+    "barrel",
+    "per",
+    "prices"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 779,
+  "source_path": "reports/poten/2010/poten_2010-12-10_skys-the-limit.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_12_10_skys_the_limit__s01_sky_s_the_limit",
+      "doc_id": "poten_tankers_no_date_poten_2010_12_10_skys_the_limit",
+      "parent_id": "poten_tankers_no_date_poten_2010_12_10_skys_the_limit__root",
+      "title": "Sky's The Limit",
+      "section_path": [
+        "Sky's The Limit"
+      ],
+      "section_path_text": "Sky's The Limit",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The recent run‐up in crude oil prices has led many to speculate that the emotional threshold of $100 per barrel could be right around the corner. September 2008 was the last time the monthly average crude oil price broke $100 per barrel before falling precipitously to nearly half of that level by April 2009.",
+      "keywords": [
+        "grain",
+        "crude_oil",
+        "oil",
+        "prices",
+        "barrel",
+        "could",
+        "crude",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 259,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_12_10_skys_the_limit__s02_nymex_cash_price",
+      "doc_id": "poten_tankers_no_date_poten_2010_12_10_skys_the_limit",
+      "parent_id": "poten_tankers_no_date_poten_2010_12_10_skys_the_limit__root",
+      "title": "NYMEX Cash Price",
+      "section_path": [
+        "NYMEX Cash Price"
+      ],
+      "section_path_text": "NYMEX Cash Price",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "2010 Average Considering global inventories, it is even more difficult to explain the recent upward pressure on prices. The Organization of Economic Cooperation and Development (OECD) countries report total oil stocks of 4.3 billion barrels, or 94 days of forward cover, according to the International Energy Agency (IEA).",
+      "keywords": [
+        "crude_oil",
+        "cover",
+        "days",
+        "forward",
+        "oil",
+        "total",
+        "according",
+        "agency"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 101,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_12_10_skys_the_limit__s03_eastern_bulls_meet_western_bears",
+      "doc_id": "poten_tankers_no_date_poten_2010_12_10_skys_the_limit",
+      "parent_id": "poten_tankers_no_date_poten_2010_12_10_skys_the_limit__root",
+      "title": "Eastern Bulls Meet Western Bears",
+      "section_path": [
+        "Eastern Bulls Meet Western Bears"
+      ],
+      "section_path_text": "Eastern Bulls Meet Western Bears",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "In the face of higher inventories and lagging demand in the largest consuming nation, the United States, it seems as though the upward demand revisions for consumption are being driven solely by the developing world. The chart below shows the IEA's quarterly outlook for global oil demand as of November 2010 versus the outlook as of September 2010.",
+      "keywords": [
+        "china",
+        "india",
+        "crude_oil",
+        "demand",
+        "outlook",
+        "are",
+        "expected",
+        "grow"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 207,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_12_10_skys_the_limit__s04_3q08",
+      "doc_id": "poten_tankers_no_date_poten_2010_12_10_skys_the_limit",
+      "parent_id": "poten_tankers_no_date_poten_2010_12_10_skys_the_limit__root",
+      "title": "3Q08",
+      "section_path": [
+        "3Q08"
+      ],
+      "section_path_text": "3Q08",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Nov 2010 Historical & Outlook Sep 2010 Outlook The Organization of Petroleum Exporting Countries (OPEC) is due to meet on Saturday, but have already signaled to the market that they are unlikely to change production quotas. Price implications aside, OPEC's decision to leave production quotas unchanged primarily signifies that their customer base is receiving appropriate supplies of crude oil.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "crude",
+        "oil",
+        "price",
+        "are",
+        "changes",
+        "opec"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 191,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

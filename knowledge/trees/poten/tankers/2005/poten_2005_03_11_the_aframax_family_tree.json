@@ -1,0 +1,202 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_03_11_the_aframax_family_tree__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_03_11_the_aframax_family_tree",
+  "parent_id": null,
+  "title": "The Aframax Family Tree",
+  "section_path": [
+    "The Aframax Family Tree"
+  ],
+  "section_path_text": "The Aframax Family Tree",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Aframax Family Tree\nFamily trees allow us to figure out who is related to whom- here we are going to figure out the statistical relationships between Aframax rates, timecharter rates, newbuilding prices, and second hand values. The chart below shows the relationship between newbuilding prices and second hand values. Newbuilding Prices\nSecond Hand (5 Yr) Values There is a strong relationship between newbuilding prices and second hand values.",
+  "keywords": [
+    "aframax",
+    "relationship",
+    "between",
+    "newbuilding",
+    "prices",
+    "charter",
+    "family",
+    "strong",
+    "term",
+    "hand",
+    "second",
+    "not"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 665,
+  "source_path": "reports/poten/2005/poten_2005-03-11_the-aframax-family-tree.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_03_11_the_aframax_family_tree__s01_the_aframax_family_tree",
+      "doc_id": "poten_tankers_no_date_poten_2005_03_11_the_aframax_family_tree",
+      "parent_id": "poten_tankers_no_date_poten_2005_03_11_the_aframax_family_tree__root",
+      "title": "The Aframax Family Tree",
+      "section_path": [
+        "The Aframax Family Tree"
+      ],
+      "section_path_text": "The Aframax Family Tree",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Family trees allow us to figure out who is related to whom- here we are going to figure out the statistical relationships between Aframax rates, timecharter rates, newbuilding prices, and second hand values. The chart below shows the relationship between newbuilding prices and second hand values.",
+      "keywords": [
+        "aframax",
+        "between",
+        "hand",
+        "newbuilding",
+        "out",
+        "prices",
+        "second",
+        "values."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 57,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_03_11_the_aframax_family_tree__s02_newbuilding_prices",
+      "doc_id": "poten_tankers_no_date_poten_2005_03_11_the_aframax_family_tree",
+      "parent_id": "poten_tankers_no_date_poten_2005_03_11_the_aframax_family_tree__root",
+      "title": "Newbuilding Prices",
+      "section_path": [
+        "Newbuilding Prices"
+      ],
+      "section_path_text": "Newbuilding Prices",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Second Hand (5 Yr) Values There is a strong relationship between newbuilding prices and second hand values. Normally there is a discount between the two reflecting the age difference, but in strong markets, having a ship is better than waiting for a ship 18 or more months after it has been ordered.",
+      "keywords": [
+        "aframax",
+        "between",
+        "newbuilding",
+        "prices",
+        "relationship",
+        "discount",
+        "hand",
+        "second"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 142,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_03_11_the_aframax_family_tree__s03_newbuilding_prices",
+      "doc_id": "poten_tankers_no_date_poten_2005_03_11_the_aframax_family_tree",
+      "parent_id": "poten_tankers_no_date_poten_2005_03_11_the_aframax_family_tree__root",
+      "title": "Newbuilding Prices",
+      "section_path": [
+        "Newbuilding Prices"
+      ],
+      "section_path_text": "Newbuilding Prices",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "1 Yr Timecharter 3 Yr Timecharter While not quite as strong as the relationship between newbuilding prices and second hand values, there was a strong family resemblance between the three up to last year. The logic of the relationship is that a strong market drives up term charter rates, which in turn increases owners' desires for new tonnage.",
+      "keywords": [
+        "relationship",
+        "between",
+        "strong",
+        "charter",
+        "family",
+        "newbuilding",
+        "orders",
+        "prices"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 129,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_03_11_the_aframax_family_tree__s04_caribs_upcoast",
+      "doc_id": "poten_tankers_no_date_poten_2005_03_11_the_aframax_family_tree",
+      "parent_id": "poten_tankers_no_date_poten_2005_03_11_the_aframax_family_tree__root",
+      "title": "Caribs Upcoast",
+      "section_path": [
+        "Caribs Upcoast"
+      ],
+      "section_path_text": "Caribs Upcoast",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "1 Yr Timecharter 3 Yr Timecharter The relationship is relatively weak because the term charter market is not nearly as volatile as spot rates, although one can see that term charter rates follow the general trend in spot rates.",
+      "keywords": [
+        "charter",
+        "term",
+        "timecharter",
+        "although",
+        "because",
+        "can",
+        "follow",
+        "general"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 48,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_03_11_the_aframax_family_tree__s05_summary",
+      "doc_id": "poten_tankers_no_date_poten_2005_03_11_the_aframax_family_tree",
+      "parent_id": "poten_tankers_no_date_poten_2005_03_11_the_aframax_family_tree__root",
+      "title": "Summary",
+      "section_path": [
+        "Summary"
+      ],
+      "section_path_text": "Summary",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "If we treat R Square values above 95% as a very strong (VS) relationship, 85-90% as a strong relationship (S), 50-85% as a moderately strong relationship (MS), 40-50% as moderately weak (MW) and anything below 40% as weak (W), then the Aframax family tree is:",
+      "keywords": [
+        "aframax",
+        "relationship",
+        "strong",
+        "moderately",
+        "weak",
+        "above",
+        "anything",
+        "below"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 74,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_03_11_the_aframax_family_tree__s06_spot",
+      "doc_id": "poten_tankers_no_date_poten_2005_03_11_the_aframax_family_tree",
+      "parent_id": "poten_tankers_no_date_poten_2005_03_11_the_aframax_family_tree__root",
+      "title": "Spot",
+      "section_path": [
+        "Spot"
+      ],
+      "section_path_text": "Spot",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Prices VS MS S W W 5-Yr S.H. - MS S W W 3-Year T/C MS - S W MW 1-Year T/C MS S - W MW Spot WS W W W - VS 5-Yr Second Hand 3-Year T/C 1-Year T/C The relatively weak relationship does not mean that there is no relationship between the spot market and term charter rates because as seen on the previous page, term charter rates track the general trend of spot market rates.",
+      "keywords": [
+        "aframax",
+        "charter",
+        "relationship",
+        "t/c",
+        "term",
+        "year",
+        "not",
+        "affect"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 191,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

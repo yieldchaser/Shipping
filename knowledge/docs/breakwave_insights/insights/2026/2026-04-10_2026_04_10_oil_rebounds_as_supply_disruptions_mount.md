@@ -10,6 +10,7 @@ commodities:
 date: '2026-04-10'
 doc_id: breakwave_insights_insights_2026-04-10_2026_04_10_oil_rebounds_as_supply_disruptions_mount
 document_type: insights_note
+is_error_page: false
 key_entities:
 - Australia
 - Middle East
@@ -27,10 +28,10 @@ keywords:
 - further
 - its
 linked_assets_discovered: 3
-linked_assets_failed: 1
+linked_assets_failed: 0
 linked_assets_ingested: 0
-linked_assets_mirrored: 1
-linked_assets_skipped: 2
+linked_assets_mirrored: 0
+linked_assets_skipped: 3
 market_tone: constructive
 numeric_observation_count: 4
 numeric_observations:
@@ -57,6 +58,7 @@ numeric_observations:
   - -3.0
   - 2.0
   - -3.5
+  - 2.0
   - 1.0
   - -2.0
 - section: Main

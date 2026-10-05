@@ -1,0 +1,169 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_04_09_volumes_return__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_04_09_volumes_return",
+  "parent_id": null,
+  "title": "Volumes Return",
+  "section_path": [
+    "Volumes Return"
+  ],
+  "section_path_text": "Volumes Return",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Volumes Return\nThe recent strength in VLCC earnings has been propelled mostly by an increase in overall fixture activity and signals of strengthening demand for crude oil and refined products. Less dramatic than the rally which inaugurated 2010, improving conditions for VLCCs have nonetheless provided the market with a degree of optimism as it enters the second quarter, a period which usually witnesses a softening of freight rates. Most notably, there were 99 reported spot VLCC liftings out of the Arabian Gulf in March 2010 and have already been more than 100 liftings from the region so far in the month of April, as shown in the chart below.",
+  "keywords": [
+    "vlcc",
+    "meg",
+    "crude_oil",
+    "products",
+    "gas",
+    "arabian",
+    "gulf",
+    "liftings",
+    "demand",
+    "west",
+    "crude",
+    "improved"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 810,
+  "source_path": "reports/poten/2010/poten_2010-04-09_volumes-return.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_04_09_volumes_return__s01_volumes_return",
+      "doc_id": "poten_tankers_no_date_poten_2010_04_09_volumes_return",
+      "parent_id": "poten_tankers_no_date_poten_2010_04_09_volumes_return__root",
+      "title": "Volumes Return",
+      "section_path": [
+        "Volumes Return"
+      ],
+      "section_path_text": "Volumes Return",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The recent strength in VLCC earnings has been propelled mostly by an increase in overall fixture activity and signals of strengthening demand for crude oil and refined products. Less dramatic than the rally which inaugurated 2010, improving conditions for VLCCs have nonetheless provided the market with a degree of optimism as it enters the second quarter, a period which usually witnesses a softening of freight rates.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "crude_oil",
+        "products",
+        "liftings",
+        "arabian",
+        "gulf",
+        "month"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 219,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_04_09_volumes_return__s02_west",
+      "doc_id": "poten_tankers_no_date_poten_2010_04_09_volumes_return",
+      "parent_id": "poten_tankers_no_date_poten_2010_04_09_volumes_return__root",
+      "title": "West",
+      "section_path": [
+        "West"
+      ],
+      "section_path_text": "West",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "East West % Total Also significant for the progress of the overall economic recovery are increases in the percentage of West‐bound liftings from the Arabian Gulf. 16% of reported April VLCC cargoes leaving the Arabian Gulf are destined for markets in the West, the second consecutive monthly increase in the Western portion of such liftings.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "west",
+        "arabian",
+        "are",
+        "bound",
+        "demand",
+        "markets"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 154,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_04_09_volumes_return__s03_looking_up",
+      "doc_id": "poten_tankers_no_date_poten_2010_04_09_volumes_return",
+      "parent_id": "poten_tankers_no_date_poten_2010_04_09_volumes_return__root",
+      "title": "Looking Up",
+      "section_path": [
+        "Looking Up"
+      ],
+      "section_path_text": "Looking Up",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Indications of increasing fixture activity out of the Arabian Gulf join a series of positive indicators for both the domestic and international economies. The US Commerce Department recently reported that the domestic economy grew at a rate of 5.6% in the fourth quarter of 2009, its fastest pace in six years.",
+      "keywords": [
+        "meg",
+        "crude_oil",
+        "products",
+        "gas",
+        "improved",
+        "last",
+        "refining",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 348,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_04_09_volumes_return__s04_chart_vlcc_spot_earnings_vs_arabian_gulf_availabilities",
+      "doc_id": "poten_tankers_no_date_poten_2010_04_09_volumes_return",
+      "parent_id": "poten_tankers_no_date_poten_2010_04_09_volumes_return__root",
+      "title": "Chart: VLCC Spot Earnings Vs. Arabian Gulf Availabilities",
+      "section_path": [
+        "Chart: VLCC Spot Earnings Vs. Arabian Gulf Availabilities"
+      ],
+      "section_path_text": "Chart: VLCC Spot Earnings Vs. Arabian Gulf Availabilities",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "30 day Availability: 75 79 75 AG ‐ FE (260kt) TCE: $96,841 $25,840 $54,370",
+      "keywords": [
+        "availability",
+        "day",
+        "tce"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 33,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_04_09_volumes_return__s05_ag_fe_260kt",
+      "doc_id": "poten_tankers_no_date_poten_2010_04_09_volumes_return",
+      "parent_id": "poten_tankers_no_date_poten_2010_04_09_volumes_return__root",
+      "title": "AG ‐ FE (260kt)",
+      "section_path": [
+        "AG ‐ FE (260kt)"
+      ],
+      "section_path_text": "AG ‐ FE (260kt)",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "VLCCs Next 30 Days If the fundamentals continue along their current positive trajectory, the strengthening in rates will continue.",
+      "keywords": [
+        "vlcc",
+        "along",
+        "continue",
+        "continue.",
+        "current",
+        "days",
+        "fundamentals",
+        "next"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 24,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

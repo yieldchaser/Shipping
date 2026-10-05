@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2015_04_17_unlce_sams_crystal_ball__root",
+  "doc_id": "poten_tankers_no_date_poten_2015_04_17_unlce_sams_crystal_ball",
+  "parent_id": null,
+  "title": "Unlce Sams Crystal Ball",
+  "section_path": [
+    "Unlce Sams Crystal Ball"
+  ],
+  "section_path_text": "Unlce Sams Crystal Ball",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The impact of US energy trends on the tanker market\nOn April 14, the U.S. Energy Information Administration (EIA) released its Annual Energy Outlook 2015 with projections through 2040. The headline conclusion of the report stated that the United States may become a net energy exporter sometime during the forecast horizon.",
+  "keywords": [
+    "aframax",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "gas",
+    "oil",
+    "exports",
+    "crude",
+    "eia",
+    "case",
+    "high",
+    "energy"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 674,
+  "source_path": "reports/poten/2015/poten_2015-04-17_unlce-sams-crystal-ball.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2015_04_17_unlce_sams_crystal_ball__s01_the_impact_of_us_energy_trends_on_the_tanker_market",
+      "doc_id": "poten_tankers_no_date_poten_2015_04_17_unlce_sams_crystal_ball",
+      "parent_id": "poten_tankers_no_date_poten_2015_04_17_unlce_sams_crystal_ball__root",
+      "title": "The impact of US energy trends on the tanker market",
+      "section_path": [
+        "The impact of US energy trends on the tanker market"
+      ],
+      "section_path_text": "The impact of US energy trends on the tanker market",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Energy Information Administration (EIA) released its Annual Energy Outlook 2015 with projections through 2040. The headline conclusion of the report stated that the United States may become a net energy exporter sometime during the forecast horizon.",
+      "keywords": [
+        "aframax",
+        "us_gulf",
+        "crude_oil",
+        "products",
+        "gas",
+        "oil",
+        "exports",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 663,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

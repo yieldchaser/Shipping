@@ -1,0 +1,163 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_07_09_unwinding_subsidies__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_07_09_unwinding_subsidies",
+  "parent_id": null,
+  "title": "Unwinding Subsidies",
+  "section_path": [
+    "Unwinding Subsidies"
+  ],
+  "section_path_text": "Unwinding Subsidies",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Unwinding Subsidies\nAlongside China, India has emerged as an important driver of many of the trends expected to determine the direction of future oil and tanker markets. Its rapidly‐growing economy has been important in shifting the center of oil demand growth eastward. Additionally, its export refineries have impacted both regional and international refined product trade flows.",
+  "keywords": [
+    "china",
+    "meg",
+    "west_africa",
+    "india",
+    "crude_oil",
+    "products",
+    "gas",
+    "subsidies",
+    "oil",
+    "important",
+    "its",
+    "refiners"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 986,
+  "source_path": "reports/poten/2010/poten_2010-07-09_unwinding-subsidies.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_07_09_unwinding_subsidies__s01_unwinding_subsidies",
+      "doc_id": "poten_tankers_no_date_poten_2010_07_09_unwinding_subsidies",
+      "parent_id": "poten_tankers_no_date_poten_2010_07_09_unwinding_subsidies__root",
+      "title": "Unwinding Subsidies",
+      "section_path": [
+        "Unwinding Subsidies"
+      ],
+      "section_path_text": "Unwinding Subsidies",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Alongside China, India has emerged as an important driver of many of the trends expected to determine the direction of future oil and tanker markets. Its rapidly‐growing economy has been important in shifting the center of oil demand growth eastward.",
+      "keywords": [
+        "china",
+        "india",
+        "crude_oil",
+        "products",
+        "gas",
+        "growth",
+        "important",
+        "its"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 264,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_07_09_unwinding_subsidies__s02_crude_oil_production",
+      "doc_id": "poten_tankers_no_date_poten_2010_07_09_unwinding_subsidies",
+      "parent_id": "poten_tankers_no_date_poten_2010_07_09_unwinding_subsidies__root",
+      "title": "Crude Oil Production",
+      "section_path": [
+        "Crude Oil Production"
+      ],
+      "section_path_text": "Crude Oil Production",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "crude_oil",
+        "crude",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_07_09_unwinding_subsidies__s03_diversification_to_follow",
+      "doc_id": "poten_tankers_no_date_poten_2010_07_09_unwinding_subsidies",
+      "parent_id": "poten_tankers_no_date_poten_2010_07_09_unwinding_subsidies__root",
+      "title": "Diversification to Follow?",
+      "section_path": [
+        "Diversification to Follow?"
+      ],
+      "section_path_text": "Diversification to Follow?",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "One of the most important motivations for the liberalization of gasoline prices in India has been a desire to minimize the economic effects of government subsidies in light of India's recent demand growth. While the Finance Ministry acknowledged that the removal of subsidies would likely bring about an increase in inflation in the near term, the change is also expected to help reduce India's $5.5 billion oil subsidy bill.",
+      "keywords": [
+        "china",
+        "meg",
+        "west_africa",
+        "india",
+        "crude_oil",
+        "products",
+        "gas",
+        "refiners"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 371,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_07_09_unwinding_subsidies__s04_barrels",
+      "doc_id": "poten_tankers_no_date_poten_2010_07_09_unwinding_subsidies",
+      "parent_id": "poten_tankers_no_date_poten_2010_07_09_unwinding_subsidies__root",
+      "title": "Barrels",
+      "section_path": [
+        "Barrels"
+      ],
+      "section_path_text": "Barrels",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "date",
+        "year"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_07_09_unwinding_subsidies__s05_ag",
+      "doc_id": "poten_tankers_no_date_poten_2010_07_09_unwinding_subsidies",
+      "parent_id": "poten_tankers_no_date_poten_2010_07_09_unwinding_subsidies__root",
+      "title": "AG",
+      "section_path": [
+        "AG"
+      ],
+      "section_path_text": "AG",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "CAR MED RS SEA WAF Government subsidies are intended to ensure that the poor have adequate access to fuel supplies, and the debate about subsidies reform in India has been a long and heated one. A previous attempt to remove subsidies in 2002 was derailed when it was ensnarled in election‐ year politics and the recent announcement has also been met with protest marches and strikes.",
+      "keywords": [
+        "west_africa",
+        "india",
+        "crude_oil",
+        "products",
+        "gas",
+        "subsidies",
+        "are",
+        "consumption"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 316,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

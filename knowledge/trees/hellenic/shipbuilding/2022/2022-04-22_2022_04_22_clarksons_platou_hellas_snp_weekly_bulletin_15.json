@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNEW BUILDING: In the dry market, clients of Almi Marine Management are reported to have placed an order at Dalian COSCO KHI for three firm 64k dwt\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-04-22_clarksons-platou-hellas-snp-weekly-bulletin-15_report-23-04-2022_59c9d2476238.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-04-22_clarksons-platou-hellas-snp-weekly-bulletin-15_report-23-04-2022_59c9d2476238.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 23 April 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 7S50MC-C SS 03/25\nCORAL TOPAZ 76,598 2007 SASEBO USD 18.4 M S. KOREANS\nBWTS fitted DD 01/23\nMAN-B&W 6S50MC-C8.1 SS 01/23\nELIM PEACE 51,187 2003 NEW CENTURY USD 12.5 M CHINESE\n4 x 30 T DD 01/23\nSULZER 6RTA48T\nSS 03/24\nCORONA 46,693 1999 SANOYAS 4 x 30 T USD 10.2 M U/D\nDD 06/22\nBWTS fitted\nWARTSILA 5RT-FLEX50-D\nSS 07/25\nDOLCE VITA 38,690 2015 CHENGXI 4 x 30 T USD 25 M U/D\nDD 04/23\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 6S50ME-B9.2 SS 09/26\nLARGO SEA 49,990 2016 SPP RGN USD 30 M U/D\nIMO II/III DD 09/24\nMAN-B&W 6S50MC-C SS 01/24\nTORM GYDA 36,207 2009 HMD USD 13.5 M GREEKS\nI",
+  "summary": "Main\nNEW BUILDING: In the dry market, clients of Almi Marine Management are reported to have placed an order at Dalian COSCO KHI for three firm 64k dwt\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-04-22_clarksons-platou-hellas-snp-weekly-bulletin-15_report-23-04-2022_59c9d2476238.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2022-04-22_clarksons-platou-hellas-snp-weekly-bulletin-15_report-23-04-2022_59c9d2476238.pdf\n\n# Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 23 April 2022\n\n## <u>BULK CARRIERS</u>\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|CORAL TOPAZ|76,598|2007 SASEBO|MAN-BWTS fitted B&W 7S50MC-C|SS 03/25 DD 01/23|USD 18.4 M|S. KOREANS|\n|ELIM PEACE|51,187|2003 NEW CENTURY|MAN-B&W 6S50MC 4 x 30 T SULZER 6RTA48T|-C8.1 DD 01/23 SS 01/23 SS 03/24|USD 12.5 M|CHINESE|\n|CORONA|46,693|1999 SANOYAS|4 x 30 T BWTS fitted WARTSILA 5RT-FLEX50-D SS 07/25|DD 06/22|USD 10.2 M|U/D|\n|DOLCE VITA|38,690|2015 CHENGXI|4 x 30 T BWTS fitted|DD 04/23|USD 25 M|U/D|\n\n## <u>TANKERS - CHEMICALS - LPG/LNGs</u>\n\n|VESSEL|DWT|BLT||DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|---|\n|LARGO SEA|49,990|2016 SPP|MAN-B&W 6S50ME|IMO II/III|-B9.2 DD ",
   "keywords": [
     "capesize",
     "lng",
@@ -18,16 +18,16 @@
     "china",
     "europe",
     "gas",
-    "clarksons",
-    "information",
     "platou",
     "any",
-    "dwt"
+    "clarksons",
+    "dwt",
+    "information"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2382,
-  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-04-22_clarksons-platou-hellas-snp-weekly-bulletin-15.html",
+  "token_count": 2453,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-04-22_clarksons-platou-hellas-snp-weekly-bulletin-15.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-15",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-04-22_clarksons-platou-hellas-snp-weekly-bulletin-15_report-23-04-2022_59c9d2476238.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-04-22_clarksons-platou-hellas-snp-weekly-bulletin-15_report-23-04-2022_59c9d2476238.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 23 April 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 7S50MC-C SS 03/25\nCORAL TOPAZ 76,598 2007 SASEBO USD 18.4 M S. KOREANS\nBWTS fitted DD 01/23\nMAN-B&W 6S50MC-C8.1 SS 01/23\nELIM PEACE 51,187 2003 NEW CENTURY USD 12.5 M CHINESE\n4 x 30 T DD 01/23\nSULZER 6RTA48T\nSS 03/24\nCORONA 46,693 1999 SANOYAS 4 x 30 T USD 10.2 M U/D\nDD 06/22\nBWTS fitted\nWARTSILA 5RT-FLEX50-D\nSS 07/25\nDOLCE VITA 38,690 2015 CHENGXI 4 x 30 T USD 25 M U/D\nDD 04/23\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 6S50ME-B9.2 SS 09/26\nLARGO SEA 49,990 2016 SPP RGN USD 30 M U/D\nIMO II/III DD 09/24\nMAN-B&W 6S50MC-C SS 01/24\nTORM GYDA 36,207 2009 HMD USD 13.5 M GREEKS\nICE 1A DD 11/23\nPage 1 of 3\n\n[Page 2]\n1\nSale and Purchase\nHellas S&P Weekly Bulletin 23 April 2022\nNEW BUILDING\nIn the dry market, clients of Almi Marine Management are reported to have placed an order at Dalian COSCO KHI for three firm 64k dwt ultramax bulk\ncarriers, with expected delivery of t",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-04-22_clarksons-platou-hellas-snp-weekly-bulletin-15_report-23-04-2022_59c9d2476238.pdf\n\n# Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 23 April 2022\n\n## <u>BULK CARRIERS</u>\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|CORAL TOPAZ|76,598|2007 SASEBO|MAN-BWTS fitted B&W 7S50MC-C|SS 03/25 DD 01/23|USD 18.4 M|S. KOREANS|\n|ELIM PEACE|51,187|2003 NEW CENTURY|MAN-B&W 6S50MC 4 x 30 T SULZER 6RTA48T|-C8.1 DD 01/23 SS 01/23 SS 03/24|USD 12.5 M|CHINESE|\n|CORONA|46,693|1999 SANOYAS|4 x 30 T BWTS fitted WARTSILA 5RT-FLEX50-D SS 07/25|DD 06/22|USD 10.2 M|U/D|\n|DOLCE VITA|38,690|2015 CHENGXI|4 x 30 T BWTS fitted|DD 04/23|USD 25 M|U/D|\n\n## <u>TANKERS - CHEMICALS - LPG/LNGs</u>\n\n|VESSEL|DWT|BLT||DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|---|\n|LARGO SEA|49,990|2016 SPP|MAN-B&W 6S50ME|IMO II/III|-B9.2 DD 09/24 SS 09/26|RGN USD 30 M|U/D|\n|TORM GYDA|36,207|2009 HMD|MAN-B&W 6S50MC|ICE 1A|-C DD 11/23 SS 01/24|USD 13.5 M|GREEKS|\n\n## Sale and Purchase Hellas S&P Weekly Bulletin 23 April 2022\n\n## NEW BUILDING\n\nIn the dry market, clients of Almi Marine Management are reported to have placed an order at D",
       "keywords": [
         "capesize",
         "lng",
@@ -78,11 +78,11 @@
         "china",
         "europe",
         "gas",
-        "clarksons"
+        "any"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2286,
+      "token_count": 2357,
       "section_type": "linked_pdf",
       "children": []
     }

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2024_07_19_the_workhorse_powering_the_oil_trades__root",
+  "doc_id": "poten_tankers_no_date_poten_2024_07_19_the_workhorse_powering_the_oil_trades",
+  "parent_id": null,
+  "title": "The Workhorse Powering The Oil Trades",
+  "section_path": [
+    "The Workhorse Powering The Oil Trades"
+  ],
+  "section_path_text": "The Workhorse Powering The Oil Trades",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Tanker owners are bullish on Medium Range product carriers\nThe Medium Range (MR) product tanker typically has around 50,000 dwt capacity and is considered one the most versatile tanker types, capable of moving a wide range of refined products to many of the world's ports. MRs (in our definition, product tankers between 42,000 and 60,000 dwt) are big enough to provide economies of scale, while remaining versatile enough so that they can access most petroleum terminals in the world. That is the reason that MR product tankers are widely considered to be the \"workhorses\" of the product tanker industry.",
+  "keywords": [
+    "lng",
+    "container",
+    "brazil",
+    "crude_oil",
+    "products",
+    "gas",
+    "are",
+    "product",
+    "mrs",
+    "tankers",
+    "demand",
+    "earnings"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 929,
+  "source_path": "reports/poten/2024/poten_2024-07-19_the-workhorse-powering-the-oil-trades.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2024_07_19_the_workhorse_powering_the_oil_trades__s01_tanker_owners_are_bullish_on_medium_range_product_carriers",
+      "doc_id": "poten_tankers_no_date_poten_2024_07_19_the_workhorse_powering_the_oil_trades",
+      "parent_id": "poten_tankers_no_date_poten_2024_07_19_the_workhorse_powering_the_oil_trades__root",
+      "title": "Tanker owners are bullish on Medium Range product carriers",
+      "section_path": [
+        "Tanker owners are bullish on Medium Range product carriers"
+      ],
+      "section_path_text": "Tanker owners are bullish on Medium Range product carriers",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Medium Range (MR) product tanker typically has around 50,000 dwt capacity and is considered one the most versatile tanker types, capable of moving a wide range of refined products to many of the world's ports. MRs (in our definition, product tankers between 42,000 and 60,000 dwt) are big enough to provide economies of scale, while remaining versatile enough so that they can access most petroleum terminals in the world.",
+      "keywords": [
+        "lng",
+        "container",
+        "brazil",
+        "crude_oil",
+        "products",
+        "gas",
+        "are",
+        "mrs"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 918,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

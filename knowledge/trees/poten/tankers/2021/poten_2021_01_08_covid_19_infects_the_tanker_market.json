@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2021_01_08_covid_19_infects_the_tanker_market__root",
+  "doc_id": "poten_tankers_no_date_poten_2021_01_08_covid_19_infects_the_tanker_market",
+  "parent_id": null,
+  "title": "Covid 19 Infects The Tanker Market",
+  "section_path": [
+    "Covid 19 Infects The Tanker Market"
+  ],
+  "section_path_text": "Covid 19 Infects The Tanker Market",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Top Reported Dirty Spot Charterers for 2020*\nFor many people, it will be a relief to put 2020 in the rear-view mirror. It was a year like no other, with many extraordinary events, some highs, but mostly lows. Some of these events reinforced the rankings, while others changed them.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "brazil",
+    "europe",
+    "india",
+    "crude_oil",
+    "top",
+    "total",
+    "reported",
+    "charterers"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1077,
+  "source_path": "reports/poten/2021/poten_2021-01-08_covid-19-infects-the-tanker-market.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2021_01_08_covid_19_infects_the_tanker_market__s01_top_reported_dirty_spot_charterers_for_2020",
+      "doc_id": "poten_tankers_no_date_poten_2021_01_08_covid_19_infects_the_tanker_market",
+      "parent_id": "poten_tankers_no_date_poten_2021_01_08_covid_19_infects_the_tanker_market__root",
+      "title": "Top Reported Dirty Spot Charterers for 2020*",
+      "section_path": [
+        "Top Reported Dirty Spot Charterers for 2020*"
+      ],
+      "section_path_text": "Top Reported Dirty Spot Charterers for 2020*",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "For many people, it will be a relief to put 2020 in the rear-view mirror. It was a year like no other, with many extraordinary events, some highs, but mostly lows.",
+      "keywords": [
+        "china",
+        "europe",
+        "crude_oil",
+        "total",
+        "was",
+        "cargoes",
+        "dirty",
+        "events"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 667,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2021_01_08_covid_19_infects_the_tanker_market__s02_top_10_vlcc_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2021_01_08_covid_19_infects_the_tanker_market",
+      "parent_id": "poten_tankers_no_date_poten_2021_01_08_covid_19_infects_the_tanker_market__root",
+      "title": "Top 10 VLCC Spot Charterers",
+      "section_path": [
+        "Top 10 VLCC Spot Charterers"
+      ],
+      "section_path_text": "Top 10 VLCC Spot Charterers",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "It remains lonely at the top of the VLCC segment. In 2020, Unipec did more (reported) spot fixtures that the next twelve largest VLCC charterers combined.",
+      "keywords": [
+        "vlcc",
+        "fixtures",
+        "moved",
+        "reported",
+        "top",
+        "activity",
+        "another",
+        "bahri"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 125,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2021_01_08_covid_19_infects_the_tanker_market__s03_top_10_suezmax_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2021_01_08_covid_19_infects_the_tanker_market",
+      "parent_id": "poten_tankers_no_date_poten_2021_01_08_covid_19_infects_the_tanker_market__root",
+      "title": "Top 10 Suezmax Spot Charterers",
+      "section_path": [
+        "Top 10 Suezmax Spot Charterers"
+      ],
+      "section_path_text": "Top 10 Suezmax Spot Charterers",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "In the Suezmax segment, several of the top players switched position. ExxonMobil came out on top (they were 4 th the previous year and 9 th in 2018), while Shell moved in opposite direction (from 1 st to 4 th ).",
+      "keywords": [
+        "suezmax",
+        "brazil",
+        "india",
+        "crude_oil",
+        "top",
+        "oil",
+        "brazilian",
+        "came"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 134,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2021_01_08_covid_19_infects_the_tanker_market__s04_top_10_aframax_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2021_01_08_covid_19_infects_the_tanker_market",
+      "parent_id": "poten_tankers_no_date_poten_2021_01_08_covid_19_infects_the_tanker_market__root",
+      "title": "Top 10 Aframax Spot Charterers",
+      "section_path": [
+        "Top 10 Aframax Spot Charterers"
+      ],
+      "section_path_text": "Top 10 Aframax Spot Charterers",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Vitol, Shell and BP maintained their position on top of the rankings in the Aframax segment. Chevron dropped back a few places, while Unipec gained one spot.",
+      "keywords": [
+        "aframax",
+        "fixtures.",
+        "reported",
+        "spot.",
+        "top",
+        "above",
+        "activity.",
+        "assembled"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 111,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

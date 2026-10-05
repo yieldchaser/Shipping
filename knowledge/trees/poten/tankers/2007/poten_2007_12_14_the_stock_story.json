@@ -1,0 +1,174 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_12_14_the_stock_story__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_12_14_the_stock_story",
+  "parent_id": null,
+  "title": "The Stock Story",
+  "section_path": [
+    "The Stock Story"
+  ],
+  "section_path_text": "The Stock Story",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Stock Story\nJust when some were beginning to think the tanker market had begun its decline, spot market rates have rebounded across all markets. In particular, rates in the Atlantic Basin have been at the famed \"fourth quarter 2004\" for a couple of weeks. In our Tanker Opinion, \"The Knife Edge\", we addressed the lack of VLCC availability in the Arabian Gulf that sparked the jump in rates, but the longevity of such a rally is really defined by market fundamentals.",
+  "keywords": [
+    "vlcc",
+    "brazil",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "usg",
+    "arabian",
+    "crude",
+    "gulf"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 554,
+  "source_path": "reports/poten/2007/poten_2007-12-14_the-stock-story.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_12_14_the_stock_story__s01_the_stock_story",
+      "doc_id": "poten_tankers_no_date_poten_2007_12_14_the_stock_story",
+      "parent_id": "poten_tankers_no_date_poten_2007_12_14_the_stock_story__root",
+      "title": "The Stock Story",
+      "section_path": [
+        "The Stock Story"
+      ],
+      "section_path_text": "The Stock Story",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Just when some were beginning to think the tanker market had begun its decline, spot market rates have rebounded across all markets. In particular, rates in the Atlantic Basin have been at the famed \"fourth quarter 2004\" for a couple of weeks.",
+      "keywords": [
+        "vlcc",
+        "brazil",
+        "atlantic",
+        "meg",
+        "crude_oil",
+        "beginning",
+        "can",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 186,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_12_14_the_stock_story__s02_thousand_barrels",
+      "doc_id": "poten_tankers_no_date_poten_2007_12_14_the_stock_story",
+      "parent_id": "poten_tankers_no_date_poten_2007_12_14_the_stock_story__root",
+      "title": "Thousand Barrels",
+      "section_path": [
+        "Thousand Barrels"
+      ],
+      "section_path_text": "Thousand Barrels",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Over the past few weeks, substantial stock draws have taken place in the US during the fourth quarter. Stock levels this week are 15 million barrels less than the first week of October.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "demand",
+        "stock",
+        "are",
+        "barrels",
+        "crude",
+        "draws"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 53,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_12_14_the_stock_story__s03_rate_recap",
+      "doc_id": "poten_tankers_no_date_poten_2007_12_14_the_stock_story",
+      "parent_id": "poten_tankers_no_date_poten_2007_12_14_the_stock_story__root",
+      "title": "Rate Recap",
+      "section_path": [
+        "Rate Recap"
+      ],
+      "section_path_text": "Rate Recap",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "In the past month, rates have increased nearly 900% for VLCCs loading in the Arabian Gulf. One-month ago, the TCE for AG - USG (280kt) was $15,000 per day.",
+      "keywords": [
+        "vlcc",
+        "brazil",
+        "atlantic",
+        "meg",
+        "west_africa",
+        "us_gulf",
+        "arabian",
+        "gulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 113,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_12_14_the_stock_story__s04_daily_spot_market_tce",
+      "doc_id": "poten_tankers_no_date_poten_2007_12_14_the_stock_story",
+      "parent_id": "poten_tankers_no_date_poten_2007_12_14_the_stock_story__root",
+      "title": "Daily Spot Market TCE",
+      "section_path": [
+        "Daily Spot Market TCE"
+      ],
+      "section_path_text": "Daily Spot Market TCE",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Ex-AG one-month rate increases of nearly 900%! Current TCE: AG - FE (260kt) - $260,000 AG - USG (280kt) - $155,100 WAF - USG (260kt) - $182,000",
+      "keywords": [
+        "west_africa",
+        "usg",
+        "current",
+        "ex-ag",
+        "increases",
+        "nearly",
+        "one-month",
+        "tce"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 55,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_12_14_the_stock_story__s05_ag_usg_280kt",
+      "doc_id": "poten_tankers_no_date_poten_2007_12_14_the_stock_story",
+      "parent_id": "poten_tankers_no_date_poten_2007_12_14_the_stock_story__root",
+      "title": "AG - USG (280kt)",
+      "section_path": [
+        "AG - USG (280kt)"
+      ],
+      "section_path_text": "AG - USG (280kt)",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "AG - FE (260kt) WAF - USG (260kt) It appears that rates in the East have tended to lead those in the West. If this pattern is to continue in the next couple of weeks, rates in the West may have the capacity to increase further still.",
+      "keywords": [
+        "west_africa",
+        "crude_oil",
+        "further",
+        "likely",
+        "year.",
+        "appears",
+        "are",
+        "balance"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 120,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2006_03_24_vlccs_emergence_of_a_new_trade__root",
+  "doc_id": "poten_tankers_no_date_poten_2006_03_24_vlccs_emergence_of_a_new_trade",
+  "parent_id": null,
+  "title": "VLCCs - Emergence of a New Trade",
+  "section_path": [
+    "VLCCs - Emergence of a New Trade"
+  ],
+  "section_path_text": "VLCCs - Emergence of a New Trade",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "VLCCs - Emergence of a New Trade\nVLCCs have been the stallions of the ex-Arabian Gulf crude trade for nearly 40 years. They are finding a new backhaul requirement in an emerging dirty products trade- moving fuel oil from West to East. The following chart shows the growth of China's economy and consumption of fuel oil.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "meg",
+    "europe",
+    "us_gulf",
+    "singapore",
+    "crude_oil",
+    "products",
+    "fuel",
+    "oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 820,
+  "source_path": "reports/poten/2006/poten_2006-03-24_vlccs-emergence-of-a-new-trade.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_03_24_vlccs_emergence_of_a_new_trade__s01_vlccs_emergence_of_a_new_trade",
+      "doc_id": "poten_tankers_no_date_poten_2006_03_24_vlccs_emergence_of_a_new_trade",
+      "parent_id": "poten_tankers_no_date_poten_2006_03_24_vlccs_emergence_of_a_new_trade__root",
+      "title": "VLCCs - Emergence of a New Trade",
+      "section_path": [
+        "VLCCs - Emergence of a New Trade"
+      ],
+      "section_path_text": "VLCCs - Emergence of a New Trade",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "VLCCs have been the stallions of the ex-Arabian Gulf crude trade for nearly 40 years. They are finding a new backhaul requirement in an emerging dirty products trade- moving fuel oil from West to East.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "meg",
+        "crude_oil",
+        "products",
+        "fuel",
+        "trade",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 67,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_03_24_vlccs_emergence_of_a_new_trade__s02_economic_growth",
+      "doc_id": "poten_tankers_no_date_poten_2006_03_24_vlccs_emergence_of_a_new_trade",
+      "parent_id": "poten_tankers_no_date_poten_2006_03_24_vlccs_emergence_of_a_new_trade__root",
+      "title": "Economic Growth",
+      "section_path": [
+        "Economic Growth"
+      ],
+      "section_path_text": "Economic Growth",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Fuel Oil Consumption It Isn't Consumption, It's Imports Domestic consumption in China has increased from 33.3 million tons to 47.4 million tons between 1998 and 2005 whereas domestic production has only risen from 18.3 million tons to 23.3 million tons. Under these circumstances, it is not surprising that imports have doubled as shown below.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "million",
+        "consumption",
+        "tons",
+        "domestic",
+        "imports",
+        "below."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 76,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_03_24_vlccs_emergence_of_a_new_trade__s03_exports",
+      "doc_id": "poten_tankers_no_date_poten_2006_03_24_vlccs_emergence_of_a_new_trade",
+      "parent_id": "poten_tankers_no_date_poten_2006_03_24_vlccs_emergence_of_a_new_trade__root",
+      "title": "Exports",
+      "section_path": [
+        "Exports"
+      ],
+      "section_path_text": "Exports",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Imports China's growth in fuel oil imports, particularly since 2002, has mopped up the supply of fuel oil East of Suez. The key West of Suez exporter to meet China's demand is Russia/FSU.",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "china",
+        "europe",
+        "us_gulf",
+        "crude_oil",
+        "fuel",
+        "exports"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 156,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_03_24_vlccs_emergence_of_a_new_trade__s04_baltic_sea",
+      "doc_id": "poten_tankers_no_date_poten_2006_03_24_vlccs_emergence_of_a_new_trade",
+      "parent_id": "poten_tankers_no_date_poten_2006_03_24_vlccs_emergence_of_a_new_trade__root",
+      "title": "Baltic Sea",
+      "section_path": [
+        "Baltic Sea"
+      ],
+      "section_path_text": "Baltic Sea",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Black Sea VLCCs and Fuel Oil Transport Double hull tankers must be used for fuel oil movements in European waters. But double hull tankers also obviate the need for heating.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "meg",
+        "europe",
+        "singapore",
+        "crude_oil",
+        "fuel",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 217,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_03_24_vlccs_emergence_of_a_new_trade__s05_vlccs_won_the_race",
+      "doc_id": "poten_tankers_no_date_poten_2006_03_24_vlccs_emergence_of_a_new_trade",
+      "parent_id": "poten_tankers_no_date_poten_2006_03_24_vlccs_emergence_of_a_new_trade__root",
+      "title": "VLCCs Won the Race",
+      "section_path": [
+        "VLCCs Won the Race"
+      ],
+      "section_path_text": "VLCCs Won the Race",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The average cost of moving fuel oil from the UKC to the Far East in 2005 was $30 per ton on Aframaxes, $22 per ton on Suezmaxes, and $16 per ton on VLCCs. Continuing improvements of ports and terminals to accommodate VLCC shipments of fuel oil could make the VLCC even more economically attractive for this trade.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "europe",
+        "crude_oil",
+        "fuel",
+        "oil",
+        "fixtures"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 275,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

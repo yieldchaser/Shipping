@@ -8,6 +8,7 @@ commodities:
 date: '2026-01-05'
 doc_id: hellenic_iron_ore_2026-01-05_2026_01_05_mmi_daily_iron_ore_index_report_january_05_2026
 document_type: commodity_update
+is_error_page: false
 key_entities:
 - China
 - Brazil
@@ -43,7 +44,7 @@ numeric_observations:
     goods, traders are still active
   unit: pct
   values:
-  - 605.0
+  - 2605.0
   - 797.0
   - 0.95
   - 800.0
@@ -64,9 +65,11 @@ numeric_observations:
   - -5.0
   - 5.0
   - -2026.0
+  - 1.0
   - 5012026.0
   - 957.0
-  - 7.0
+  - 5.0
+  - 87.0
 - &id003
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
@@ -78,247 +81,380 @@ numeric_observations:
 - &id004
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: IOPI61 61% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines
-    RMB/t
+  source_line: '**Iron Ore Port Stock (FOT Qingdao)** **IOPI61 61% Fe Fines RMB/t**'
   unit: pct
   values:
-  - 1.0
   - 61.0
-  - 5.0
-  - 65.0
-  - 8.0
-  - 58.0
+  - 61.0
 - &id005
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: 813 899 718
+  source_line: '**813**'
   unit: null
   values:
   - 813.0
-  - 899.0
-  - 718.0
 - &id006
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: -4 -0.49% -30.00 -3.23% -13 -1.78%
+  source_line: '## -4-0.49%'
   unit: pct
   values:
   - -4.0
   - -0.49
-  - -30.0
-  - -3.23
-  - -13.0
-  - -1.78
 - &id007
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: Jan 5th, 2026 Jan 5th, 2026 Jan 5th, 2026
+  source_line: '**Jan 5th, 2026**'
   unit: null
   values:
-  - 5.0
-  - 2026.0
-  - 5.0
-  - 2026.0
   - 5.0
   - 2026.0
 - &id008
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: IOSI61 61% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5%
-    Fe Lump RMB/t
+  source_line: '**Iron Ore Seaborne (CFR Qingdao)** **IOSI61 61% Fe Fines USD/dmt**'
   unit: usd_per_unit
   values:
-  - 1.0
   - 61.0
-  - 5.0
-  - 65.0
-  - 62.5
+  - 61.0
 - &id009
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: 105.95 121.35 865
+  source_line: '## 105.95'
   unit: null
   values:
   - 105.95
-  - 121.35
-  - 865.0
 - &id010
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: -1.26 -1.17% 0.33 0.27% 3 0.35%
+  source_line: '## -1.26-1.17%'
   unit: pct
   values:
   - -1.26
   - -1.17
-  - 0.33
-  - 0.27
-  - 3.0
-  - 0.35
 - &id011
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: Jan 5th, 2026 Jan 5th, 2026 Week Ending Jan 2nd, 2026
-  unit: null
-  values:
-  - 5.0
-  - 2026.0
-  - 5.0
-  - 2026.0
-  - 2.0
-  - 2026.0
-- &id012
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: DCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE
-    Rebar
+  source_line: '**DCE Iron Ore 62% Fines** **I2605 (May) RMB/t (3pm close)**'
   unit: pct
   values:
   - 62.0
-  - 62.0
-- &id013
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: I2605 (May) RMB/t (3pm close) December 25 USD/dmt RB2605 (Jan) RMB/t
-  unit: usd_per_unit
-  values:
-  - 605.0
+  - 2605.0
   - 3.0
-  - 25.0
-  - 605.0
-- &id014
+- &id012
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: 797.00 106.15 3104
+  source_line: '## 797.00'
   unit: null
   values:
   - 797.0
-  - 106.15
-  - 3104.0
-- &id015
+- &id013
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: 7.50 0.95% 0.80 0.76% -67 -2.11%
+  source_line: '## 7.50 0.95%'
   unit: pct
   values:
   - 7.5
   - 0.95
-  - 0.8
-  - 0.76
-  - -67.0
-  - -2.11
+- &id014
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '**Jan 5th, 2026 (3pm close)**'
+  unit: null
+  values:
+  - 5.0
+  - 2026.0
+  - 3.0
+- &id015
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '**C3, Tubarao-Qingdao USD/t**'
+  unit: usd_per_unit
+  values:
+  - 3.0
 - &id016
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: Jan 5th, 2026 (3pm close) Jan 5th, 2026 (5.30 pm Print) Jan 5th, 2026
-    (3pm close)
-  unit: null
-  values:
-  - 5.0
-  - 2026.0
-  - 3.0
-  - 5.0
-  - 2026.0
-  - 5.3
-  - 5.0
-  - 2026.0
-  - 3.0
-- &id017
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: 23.57 8.75 3171
+  source_line: '## 23.57'
   unit: null
   values:
   - 23.57
-  - 8.75
-  - 3171.0
+- &id017
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '**Jan 2nd, 2026**'
+  unit: null
+  values:
+  - 2.0
+  - 2026.0
 - &id018
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: 0.00 0.0% 0.00 0.0% -10 -0.31%
-  unit: pct
-  values:
-  - -10.0
-  - -0.31
-- &id019
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: Jan 2nd, 2026 Jan 2nd, 2026 Week Ending Jan 2nd, 2026
-  unit: null
-  values:
-  - 2.0
-  - 2026.0
-  - 2.0
-  - 2026.0
-  - 2.0
-  - 2026.0
-- &id020
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: Iron Ore Inventory at Chinese Ports (35) Steel Inventory in China
+  source_line: '**Iron Ore Inventory at Chinese Ports (35) million tonnes**'
   unit: null
   values:
   - 35.0
-- &id021
+- &id019
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: 145.26 8.64 3261
+  source_line: '## 145.26'
   unit: null
   values:
   - 145.26
-  - 8.64
-  - 3261.0
-- &id022
+- &id020
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: 3.53 2.49% 0.00 0.00% -5 -0.17%
+  source_line: '## 3.53 2.49%'
   unit: pct
   values:
   - 3.53
   - 2.49
-  - -5.0
-  - -0.17
-- &id023
+- &id021
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: Week Ending Jan 2nd, 2026 Week Ending Jan 2nd, 2026 Week Ending Jan
-    2nd, 2026
+  source_line: '**Week Ending Jan 2nd, 2026**'
   unit: null
   values:
   - 2.0
   - 2026.0
-  - 2.0
-  - 2026.0
-  - 2.0
-  - 2026.0
+- &id022
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '**Iron Ore Port Stock (FOT Qingdao)** **IOPI65 65% Fe Fines RMB/t**'
+  unit: pct
+  values:
+  - 65.0
+  - 65.0
+- &id023
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '**899**'
+  unit: null
+  values:
+  - 899.0
 - &id024
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: Page 1/6 Jan 5th, 2026
+  source_line: '## -30.00-3.23%'
+  unit: pct
+  values:
+  - -30.0
+  - -3.23
+- &id025
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '**Iron Ore Seaborne (CFR Qingdao)** **IOSI65 65% Fe Fines USD/dmt**'
+  unit: usd_per_unit
+  values:
+  - 65.0
+  - 65.0
+- &id026
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '## 121.35'
+  unit: null
+  values:
+  - 121.35
+- &id027
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '## 0.33 0.27%'
+  unit: pct
+  values:
+  - 0.33
+  - 0.27
+- &id028
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '**SGX Iron Ore (CFR Qingdao) 62% Fe Fines** **December 25 USD/dmt**'
+  unit: usd_per_unit
+  values:
+  - 62.0
+  - 25.0
+- &id029
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '## 106.15'
+  unit: null
+  values:
+  - 106.15
+- &id030
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '## 0.80 0.76%'
+  unit: pct
+  values:
+  - 0.8
+  - 0.76
+- &id031
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '**Jan 5th, 2026 (5.30 pm Print)**'
+  unit: null
+  values:
+  - 5.0
+  - 2026.0
+  - 5.3
+- &id032
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '**C5, W. Australia-Qingdao USD/t**'
+  unit: usd_per_unit
+  values:
+  - 5.0
+- &id033
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '## 8.75'
+  unit: null
+  values:
+  - 8.75
+- &id034
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '## 8.64'
+  unit: null
+  values:
+  - 8.64
+- &id035
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '## Page 1/6'
   unit: null
   values:
   - 1.0
   - 6.0
-  - 5.0
-  - 2026.0
-- &id025
+- &id036
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: Jan 5th, 2026 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao
-    Equivalent (exc. 13% VAT), USD/dry tonne ¹
+  source_line: '**Iron Port Stock (FOT Qingdao)** **IOPI58 58% Fe Fines RMB/t**'
+  unit: pct
+  values:
+  - 58.0
+  - 58.0
+- &id037
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '**718**'
+  unit: null
+  values:
+  - 718.0
+- &id038
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '## -13-1.78%'
+  unit: pct
+  values:
+  - -13.0
+  - -1.78
+- &id039
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '**Iron Ore Port Stock (FOT Qingdao)** **IOPLI 62.5% Fe Lump RMB/t**'
+  unit: pct
+  values:
+  - 62.5
+- &id040
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '**865**'
+  unit: null
+  values:
+  - 865.0
+- &id041
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '## 3 0.35%'
+  unit: pct
+  values:
+  - 3.0
+  - 0.35
+- &id042
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '**SHFE Rebar** **RB2605 (Jan) RMB/t**'
+  unit: null
+  values:
+  - 2605.0
+- &id043
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '## 3104'
+  unit: null
+  values:
+  - 3104.0
+- &id044
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '## -67-2.11%'
+  unit: pct
+  values:
+  - -67.0
+  - -2.11
+- &id045
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '## 3171'
+  unit: null
+  values:
+  - 3171.0
+- &id046
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '## -10-0.31%'
+  unit: pct
+  values:
+  - -10.0
+  - -0.31
+- &id047
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '## 3261'
+  unit: null
+  values:
+  - 3261.0
+- &id048
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '## -5-0.17%'
+  unit: pct
+  values:
+  - -5.0
+  - -0.17
+- &id049
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '## Jan 5th, 2026'
+  unit: null
+  values:
+  - 5.0
+  - 2026.0
+- &id050
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '**IRON ORE PORT STOCK INDEX (IOPI)** **Jan 5th, 2026 FOT Qingdao (inc.
+    13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne ¹**
+    **Index Fe Content Price Change Change % MTD YTD Low ² High ² Price Change Change
+    % MTD YTD Low ² High ²** *'
   unit: usd_per_unit
   values:
   - 5.0
   - 2026.0
   - 13.0
   - 13.0
-- &id026
+  - 62.0
+  - 62.0
+  - -4.0
+  - -0.5
+  - 107.47
+  - -0.51
+- &id051
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: IOPI62 62% Fe Fines 813 -4 -0.5% 787 831 683 1063 107.47 -0.51 -0.5%
-    102.16 108.34 89.33 140.24
+  source_line: '|IOPI62|62% Fe Fines|813|-4|-0.5%|787|831|683|1063|107.47|-0.51|-0.5%|102.16|108.34|89.33|140.24|'
   unit: pct
   values:
-  - 2.0
+  - 62.0
   - 62.0
   - 813.0
   - -4.0
@@ -328,14 +464,13 @@ numeric_observations:
   - 683.0
   - 1063.0
   - 107.47
-- &id027
+- &id052
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: IOPI58 58% Fe Fines 718 -13 -1.8% 691 729 610 963 95.51 -1.75 -1.8%
-    90.22 95.56 80.25 128.13
+  source_line: '|IOPI58|58% Fe Fines|718|-13|-1.8%|691|729|610|963|95.51|-1.75|-1.8%|90.22|95.56|80.25|128.13|'
   unit: pct
   values:
-  - 8.0
+  - 58.0
   - 58.0
   - 718.0
   - -13.0
@@ -345,14 +480,14 @@ numeric_observations:
   - 610.0
   - 963.0
   - 95.51
-- &id028
+- &id053
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: IOPI65 65% Fe Fines 899 -30 -3.2% 899 943 794 1175 119.23 -4.07 -3.3%
-    117.19 123.39 104.47 155.37
+  source_line: '|IOPI65|65% Fe Fines|899 IRON ORE SEABORNE INDEX (IOSI)|-30|-3.2%|899|943|794|1175|119.23|-4.07|-3.3%
+    MARKET COMMENTARY|117.19|123.39|104.47|155.37|'
   unit: pct
   values:
-  - 5.0
+  - 65.0
   - 65.0
   - 899.0
   - -30.0
@@ -362,58 +497,21 @@ numeric_observations:
   - 794.0
   - 1175.0
   - 119.23
-- &id029
+- &id054
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: Jan 5th, 2026 CFR Qingdao, USD/dry tonne Today, Dalian iron ore futures
-    traded with a slight upward trend. The main contract I2605 opened higher and maintained
-    high-level vola(cid:415)lity, finally closing at 797 points, up 0.95% from the
-    previous
+  source_line: '|Jan 5th, 2026||||CFR Qingdao, USD/dry tonne||||||||||||'
   unit: usd_per_unit
   values:
   - 5.0
   - 2026.0
-  - 605.0
-  - 415.0
-  - 797.0
-  - 0.95
-- &id030
+- &id055
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: 'Index Fe Content Price Change Change % MTD YTD Low 2 High 2 I I n
-    n t t e e r r m m s s o o f f s p p ri o c t e g , o th o e d t s r , a t n ra
-    s d a e c(cid:415) rs o a n r e p r s i (cid:415) ce ll o a f c (cid:415) PB ve
-    p i o n w s d h e ip r p in in S g '
-  unit: tonnage
-  values:
-  - 2.0
-  - 2.0
-  - 415.0
-  - 415.0
-  - 415.0
-  - 8.0
-  - 6.0
-  - 5.0
-  - -7.0
-  - 415.0
-- &id031
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: ton, up 5-7 yuan/ton from yesterday.
-  unit: null
-  values:
-  - 5.0
-  - -7.0
-- &id032
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: IOSI62 62% Fe Fines 105.95 -1.26 -1.17% 103.49 109.55 89.79 142.65
-    T si h d e e , m la a s r t k w et e s e e k n 's (cid:415) S m M e M nt s w h
-    a ip s p re in la g (cid:415) d v a e t l a y s p h o o s w i(cid:415) e v d e
-    , t d h r a i t v i g n lo g b th a
+  source_line: '|IOSI62|62% Fe Fines|105.95|-1.26|-1.17%|103.49|109.55|89.79|142.65||||||||'
   unit: pct
   values:
-  - 2.0
+  - 62.0
   - 62.0
   - 105.95
   - -1.26
@@ -422,78 +520,32 @@ numeric_observations:
   - 109.55
   - 89.79
   - 142.65
-  - 415.0
-- &id033
+- &id056
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: supply is s(cid:415)ll at a rela(cid:415)vely high level, and port
-    inventories are expected to con(cid:415)nue to accumulate, which will put some
-    pressure on ore prices.
-  unit: null
+  source_line: '|IOSI65|65% Fe Fines|121.35|0.33 FOT Qingdao (inc. 13% VAT), RMB/wet
+    tonne|0.27%|114.86|123.93 IRON ORE PORT LUMP INDEX (IOPLI)|98.23|171.65||CFR Qingdao
+    Equivalent (exc. 13% VAT), USD/dry tonne||||||'
+  unit: usd_per_unit
   values:
-  - 415.0
-  - 415.0
-  - 415.0
-- &id034
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: 'IOSI65 65% Fe Fines 121.35 0.33 0.27% 114.86 123.93 98.23 171.65 However,
-    with the end of the new year''s steel mill produc(cid:415)on target restric(cid:415)ons,
-    some steel mills'' blast furnaces have resumed produc(cid:415)on one a(cid:332)er
-    another, and the '
-  unit: pct
-  values:
-  - 5.0
+  - 65.0
   - 65.0
   - 121.35
   - 0.33
+  - 13.0
   - 0.27
   - 114.86
   - 123.93
   - 98.23
   - 171.65
-  - 415.0
-- &id035
+- &id057
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: expected to rebound significantly, forming a phased support for iron
-    ore prices. Overall, iron ore prices may con(cid:415)nue to fluctuate strongly
-    in the short term.
-  unit: null
-  values:
-  - 415.0
-- &id036
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: Week Ending Jan 2nd, 2026 FOT Qingdao (inc. 13% VAT), RMB/wet tonne
-    CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne 3
-  unit: usd_per_unit
-  values:
-  - 2.0
-  - 2026.0
-  - 13.0
-  - 13.0
-  - 3.0
-- &id037
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: Index Fe Content Price W-o-W Change % MTD YTD Low 2 High 2 Price W-oW
-    Change % MTD YTD Low 2 High 2
-  unit: tonnage
-  values:
-  - 2.0
-  - 2.0
-  - 2.0
-  - 2.0
-- &id038
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: IOPLI62 62.5% Fe Lump 865 3 0.3% 899 960 820 1210 109.50 0.59 0.54%
-    112.34 120.41 102.77 153.57
+  source_line: '|IOPLI62||865|3 IRON ORE DOMESTIC CONCENTRATE SPOT PRICE ASSESSMENTS
+    AND COMPOSITE INDEX|0.3%|899|960|820|1210|109.50|0.59|0.54%|112.34|120.41|102.77|153.57|'
   unit: pct
   values:
-  - 2.0
-  - 62.5
+  - 62.0
   - 865.0
   - 3.0
   - 0.3
@@ -502,141 +554,185 @@ numeric_observations:
   - 820.0
   - 1210.0
   - 109.5
-- &id039
+  - 0.59
+- &id058
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: Week Ending Jan 2nd, 2026 RMB/tonne (excluding tax) 3 USD/tonne (excluding
-    tax) 3
+  source_line: Today, Dalian iron ore futures traded with a slight upward trend. The
+    main contract I2605 opened higher and maintained high trading day. -level vola�lity,
+    finally closing at 797 points, up 0.95% from the previous **2 2** In terms of
+    spot goods, traders are s�l
+  unit: pct
+  values:
+  - 2605.0
+  - 797.0
+  - 0.95
+  - 2.0
+  - 2.0
+  - 800.0
+  - -806.0
+  - 5.0
+  - -7.0
+  - 5.0
+- &id059
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '**Week Ending Jan 2nd, 20263** **2 2 2 2**'
+  unit: null
+  values:
+  - 2.0
+  - 20263.0
+  - 2.0
+  - 2.0
+  - 2.0
+  - 2.0
+- &id060
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: 62.5% Fe Lump
+  unit: pct
+  values:
+  - 62.5
+- &id061
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '|Week Ending Jan 2nd, 2026 Province Region Product Hebei Hanxing 66%
+    Fe Concentrate Hebei Qian''an 65% Fe Concentrate Liaoning Anshan 65% Fe Concentrate
+    Shandong Zibo 65% Fe Concentrate|Basis Dry Dry Wet Dry|3 RMB/tonne (excluding
+    tax) This week Change % Low ² '
   unit: usd_per_unit
   values:
   - 2.0
   - 2026.0
-  - 3.0
-  - 3.0
-- &id040
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: Hebei Hanxing 66% Fe Concentrate Dry 964 0.8% 859 1226 136.81 1.02%
-    119.88 172.59
-  unit: pct
-  values:
   - 66.0
+  - 65.0
+  - 65.0
+  - 65.0
+  - 3.0
   - 964.0
   - 0.8
   - 859.0
-  - 1226.0
-  - 136.81
-  - 1.02
-  - 119.88
-  - 172.59
-- &id041
+- &id062
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: Hebei Qian'an 65% Fe Concentrate Dry 985 0.5% 880 1300 139.79 0.70%
-    122.81 183.23
-  unit: pct
-  values:
-  - 65.0
-  - 985.0
-  - 0.5
-  - 880.0
-  - 1300.0
-  - 139.79
-  - 0.7
-  - 122.81
-  - 183.23
-- &id042
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: Liaoning Anshan 65% Fe Concentrate Wet 752 0.0% 690 970 106.72 0.18%
-    96.49 136.72
-  unit: pct
-  values:
-  - 65.0
-  - 752.0
-  - 690.0
-  - 970.0
-  - 106.72
-  - 0.18
-  - 96.49
-  - 136.72
-- &id043
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: Shandong Zibo 65% Fe Concentrate Dry 997 0.9% 878 1294 141.49 1.10%
-    122.53 182.16
-  unit: pct
-  values:
-  - 65.0
-  - 997.0
-  - 0.9
-  - 878.0
-  - 1294.0
-  - 141.49
-  - 1.1
-  - 122.53
-  - 182.16
-- &id044
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: 'Week Ending Jan 2nd, 2026 This week Change % Low 2 High 2 ¹ Exchange
-    rate applied: RMB/USD = 7.191 ²Last 12 months'
+  source_line: '|Week Ending Jan 2nd, 2026 China Mines Concentrate Composite Index
+    RMB/WT|This week|2 2 Change % Low High 880.99 -0.91% 802.20 905.40|3|¹ Exchange
+    rate applied: RMB/USD = 7.191 ²Last 12 months Weekly exchange rate applied: RMB/USD
+    =7.19258|'
   unit: pct
   values:
   - 2.0
   - 2026.0
   - 2.0
   - 2.0
-  - 7.191
-- &id045
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: '3 Weekly exchange rate applied: RMB/USD =7.19258'
-  unit: usd
-  values:
-  - 3.0
-  - 7.19258
-- &id046
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: China Mines Concentrate Composite Index RMB/WT 880.99 -0.91% 802.20
-    905.40
-  unit: pct
-  values:
   - 880.99
   - -0.91
   - 802.2
   - 905.4
-- &id047
+  - 3.0
+  - 7191.0
+- &id063
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: Jan 5th, 2026 CFR Qingdao, USD/dry tonne
+  source_line: '**IRON ORE PORT INDEX, FOT QINGDAO (RMB/WT) IRON ORE SEABORNE INDEX,
+    CFR QINGDAO (USD/DMT)** 2050 320 1850 270 1650 1450 220 1250 170 1050 850 120
+    650 70 450'
+  unit: usd_per_unit
+  values:
+  - 2050.0
+  - 320.0
+  - 1850.0
+  - 270.0
+  - 1650.0
+  - 1450.0
+  - 220.0
+  - 1250.0
+  - 170.0
+  - 1050.0
+- &id064
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: 4-Jan-214-Apr-214-Jul-214-Oct-214-Jan-224-Apr-224-Jul-224-Oct-224-Jan-234-Apr-234-Jul-234-Oct-234-Jan-244-Apr-244-Jul-244-Oct-244-Jan-254-Apr-254-Jul-254-Oct-254-Jan-26
+    1-Jan-211-Apr-211-Jul-211-Oct-211-Jan-221-Apr-221-Jul-221-Oct-221-Jan-231-Apr-231-Jul-231-O
+  unit: null
+  values:
+  - 4.0
+  - 214.0
+  - 214.0
+  - 214.0
+  - 214.0
+  - 224.0
+  - 224.0
+  - 224.0
+  - 224.0
+  - 234.0
+- &id065
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '|Jan 5th, 2026||||FOT Qingdao (inc. 13% VAT), RMB/wet tonne|||||CFR
+    Qingdao Equivalent (exc. 13% VAT), USD/dry tonne||'
   unit: usd_per_unit
   values:
   - 5.0
   - 2026.0
-- &id048
+  - 13.0
+  - 13.0
+- &id066
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: IOSI62 62% Fe Fines 104.59 107.88 107.27 106.33 103.49 102.73 109.55
+  source_line: '|IOPI62 62% Fe Fines IOPI58 58% Fe Fines IOPI65 65% Fe Fines|795 683
+    907|801 716 914|792 726 903|805 720 917|787 782 831 691 686 729 899 893 943|103.51
+    89.38 118.58|104.69 94.18 119.85|103.56 95.66 118.69|105.46 95.02 120.64|102.16
+    101.51 108.34 90.22 89.54 95'
   unit: pct
   values:
+  - 62.0
+  - 62.0
+  - 58.0
+  - 58.0
+  - 65.0
+  - 65.0
+  - 795.0
+  - 683.0
+  - 907.0
+  - 801.0
+- &id067
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '**IRON ORE SEABORNE INDEX MONTHLY, QUARTERLY AND YEAR-TO-DATE AVERAGES
+    FREIGHT RATES** **Jan 5th, 2026 CFR Qingdao, USD/dry tonne Jan 2nd, 2026 FREIGHT
+    RATES-DRY BULK US$/wet tonne** **Index Fe Content August September October November
+    MTD QTD YTD Route Design'
+  unit: usd_per_unit
+  values:
+  - 5.0
+  - 2026.0
   - 2.0
+  - 2026.0
+  - 2.0
+  - 2.0
+  - 62.0
   - 62.0
   - 104.59
   - 107.88
-  - 107.27
-  - 106.33
-  - 103.49
-  - 102.73
-  - 109.55
-- &id049
+- &id068
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: IOSI65 65% Fe Fines 118.01 122.98 122.90 122.46 114.86 114.03 123.93
+  source_line: '**0.0%** 5.92 14.89'
   unit: pct
   values:
-  - 5.0
+  - 5.92
+  - 14.89
+- &id069
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '**IOSI65** 65% Fe Fines 118.01 122.98 122.90 122.46 **114.86** 114.03
+    123.93 **Tubarao-Qingdao** C3 **23.57 0.00 0.0%** 16.08 35.02 **IRON ORE PORT
+    LUMP INDEX MONTHLY, QUARTERLY AND YEAR-TO-DATE AVERAGES** **Week Ending Jan 2nd,
+    2026 FOT Qingdao (inc. 13% VAT)'
+  unit: usd_per_unit
+  values:
+  - 65.0
   - 65.0
   - 118.01
   - 122.98
@@ -645,356 +741,90 @@ numeric_observations:
   - 114.86
   - 114.03
   - 123.93
-- &id050
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: Week Ending Jan 2nd, 2026 FOT Qingdao (inc. 13% VAT), RMB/wet tonne
-    CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne ¹
-  unit: usd_per_unit
-  values:
-  - 2.0
-  - 2026.0
-  - 13.0
-  - 13.0
-- &id051
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: IOPLI62 62.5% Fe Lump 921 926 909 880 899 895 960 115.37 116.51 114.52
-    110.83 112.34 111.85 120.41
-  unit: pct
-  values:
-  - 2.0
-  - 62.5
-  - 921.0
-  - 926.0
-  - 909.0
-  - 880.0
-  - 899.0
-  - 895.0
-  - 960.0
-  - 115.37
-- &id052
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: Page 2/6 Jan 5th, 2026
-  unit: null
-  values:
-  - 2.0
-  - 6.0
-  - 5.0
-  - 2026.0
-- &id053
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: 12-naJ-1 12-rpA-1 12-luJ-1 12-tcO-1 22-naJ-1 22-rpA-1 22-luJ-1 22-tcO-1
-    32-naJ-1 32-rpA-1 32-luJ-1 32-tcO-1 42-naJ-1 42-rpA-1 42-luJ-1 42-tcO-1 52-naJ-1
-    52-rpA-1 52-luJ-1 52-tcO-1 62-naJ-1
-  unit: null
-  values:
-  - 12.0
-  - 1.0
-  - 12.0
-  - 1.0
-  - 12.0
-  - 1.0
-  - 12.0
-  - 1.0
-  - 22.0
-  - 1.0
-- &id054
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: IOPI62 IOPI58 IOPI65
-  unit: null
-  values:
-  - 2.0
-  - 8.0
-  - 5.0
-- &id055
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: 12-naJ-4 12-rpA-4 12-luJ-4 12-tcO-4 22-naJ-4 22-rpA-4 22-luJ-4 22-tcO-4
-    32-naJ-4 32-rpA-4 32-luJ-4 32-tcO-4 42-naJ-4 42-rpA-4 42-luJ-4 42-tcO-4 52-naJ-4
-    52-rpA-4 52-luJ-4 52-tcO-4 62-naJ-4
-  unit: null
-  values:
-  - 12.0
-  - 4.0
-  - 12.0
-  - 4.0
-  - 12.0
-  - 4.0
-  - 12.0
-  - 4.0
-  - 22.0
-  - 4.0
-- &id056
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: IOSI62 IOSI65
-  unit: null
-  values:
-  - 2.0
-  - 5.0
-- &id057
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: Jan 5th, 2026 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao
-    Equivalent (exc. 13% VAT), USD/dry tonne
-  unit: usd_per_unit
-  values:
-  - 5.0
-  - 2026.0
-  - 13.0
-  - 13.0
-- &id058
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: IOPI62 62% Fe Fines 795 801 792 805 787 782 831 103.51 104.69 103.56
-    105.46 102.16 101.51 108.34
-  unit: pct
-  values:
-  - 2.0
-  - 62.0
-  - 795.0
-  - 801.0
-  - 792.0
-  - 805.0
-  - 787.0
-  - 782.0
-  - 831.0
-  - 103.51
-- &id059
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: IOPI58 58% Fe Fines 683 716 726 720 691 686 729 89.38 94.18 95.66 95.02
-    90.22 89.54 95.56
-  unit: pct
-  values:
-  - 8.0
-  - 58.0
-  - 683.0
-  - 716.0
-  - 726.0
-  - 720.0
-  - 691.0
-  - 686.0
-  - 729.0
-  - 89.38
-- &id060
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: IOPI65 65% Fe Fines 907 914 903 917 899 893 943 118.58 119.85 118.69
-    120.64 117.19 116.55 123.39
-  unit: pct
-  values:
-  - 5.0
-  - 65.0
-  - 907.0
-  - 914.0
-  - 903.0
-  - 917.0
-  - 899.0
-  - 893.0
-  - 943.0
-  - 118.58
-- &id061
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: Jan 2nd, 2026 FREIGHT RATES - DRY BULK US$/wet tonne
-  unit: usd
-  values:
-  - 2.0
-  - 2026.0
-- &id062
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: Route Designation Change Change % Low 2 High 2
-  unit: pct
-  values:
-  - 2.0
-  - 2.0
-- &id063
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: W. Australia - Qingdao C5 8.75 0.00 0.0% 5.92 14.89
-  unit: pct
-  values:
-  - 8.75
-  - 5.92
-  - 14.89
-- &id064
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: Tubarao - Qingdao C3 23.57 0.00 0.0% 16.08 35.02
-  unit: pct
-  values:
-  - 23.57
-  - 16.08
-  - 35.02
-- &id065
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: Jan 5th, 2026 PORT STOCK INDEX (RMB/WT) Jan 5th, 2026 SEABORNE INDEX
-    (USD/DMT)
-  unit: usd_per_unit
-  values:
-  - 5.0
-  - 2026.0
-  - 5.0
-  - 2026.0
-- &id066
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: Index Fe Content Spread to IOPI62 % Spread to IOPI62 Index Fe Content
-    Spread to IOSI62 % Spread to IOSI62
-  unit: pct
-  values:
-  - 2.0
-  - 2.0
-  - 2.0
-  - 2.0
-- &id067
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: IOPI58 58% Fe Fines -95 -11.69%
-  unit: pct
-  values:
-  - 8.0
-  - 58.0
-  - -95.0
-  - -11.69
-- &id068
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: IOPI65 65% Fe Fines 86 10.58% IOSI65 65% Fe Fines 15.39 14.53%
-  unit: pct
-  values:
-  - 5.0
-  - 65.0
-  - 86.0
-  - 10.58
-  - 5.0
-  - 65.0
-  - 15.39
-  - 14.53
-- &id069
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: '270.00'
-  unit: null
-  values:
-  - 270.0
+  - 3.0
 - &id070
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: '230.00'
+  source_line: '## Page 2/6 Jan 5th, 2026'
   unit: null
   values:
-  - 230.0
-- &id071
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: '190.00'
-  unit: null
-  values:
-  - 190.0
-- &id072
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: '150.00'
-  unit: null
-  values:
-  - 150.0
-- &id073
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: '110.00'
-  unit: null
-  values:
-  - 110.0
-- &id074
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: Page 3/6 Jan 5th, 2026
-  unit: null
-  values:
-  - 3.0
+  - 2.0
   - 6.0
   - 5.0
   - 2026.0
-- &id075
+- &id071
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: 12-naJ-4 12-raM-4 12-yaM-4 12-luJ-4 12-peS-4 12-voN-4 22-naJ-4 22-raM-4
-    22-yaM-4 22-luJ-4 22-peS-4 22-voN-4 32-naJ-4 32-raM-4 32-yaM-4 32-luJ-4 32-peS-4
-    32-voN-4 42-naJ-4 42-raM-4 42-yaM-4 42-luJ-4 42-peS-4 42-voN-4 52-naJ-4 52-raM-4
-    52-yaM-4 52-luJ-4 52-peS-4
+  source_line: 270.00 1,650.00
   unit: null
   values:
-  - 12.0
-  - 4.0
-  - 12.0
-  - 4.0
-  - 12.0
-  - 4.0
-  - 12.0
-  - 4.0
-  - 12.0
-  - 4.0
-- &id076
-  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: 1,650.00
-  unit: null
-  values:
+  - 270.0
   - 1650.0
-- &id077
+- &id072
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
   source_line: 1,550.00
   unit: null
   values:
   - 1550.0
-- &id078
+- &id073
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: 1,450.00
+  source_line: 230.00 1,450.00
   unit: null
   values:
+  - 230.0
   - 1450.0
-- &id079
+- &id074
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
   source_line: 1,350.00
   unit: null
   values:
   - 1350.0
-- &id080
+- &id075
   section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: 1,250.00
+  source_line: 190.00 1,250.00
   unit: null
   values:
+  - 190.0
   - 1250.0
-- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+- &id076
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
   source_line: 1,150.00
   unit: null
   values:
   - 1150.0
-- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+- &id077
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '150.00'
+  unit: null
+  values:
+  - 150.0
+- &id078
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
   source_line: 1,050.00
   unit: null
   values:
   - 1050.0
-- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+- &id079
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
   source_line: '950.00'
   unit: null
   values:
   - 950.0
+- &id080
+  section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '110.00'
+  unit: null
+  values:
+  - 110.0
 - section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
   source_line: '850.00'
@@ -1015,207 +845,72 @@ numeric_observations:
   - 650.0
 - section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: IOSI62 IOPI62 (equivalent) IOSI65 IOPI65 (equivalent)
+  source_line: 4-Jan-214-Mar-214-May-214-Jul-214-Sep-214-Nov-214-Jan-224-Mar-224-May-224-Jul-224-Sep-224-Nov-224-Jan-234-Mar-234-May-234-Jul-234-Sep-234-Nov-234-Jan-244-Mar-244-May-244-Jul-244-Sep-244-Nov-244-Jan-254-Mar-254-May-254-Jul-254-Sep-254-Nov-254-Jan-26
+    4-Jan-21 4-
   unit: null
   values:
-  - 2.0
-  - 2.0
-  - 5.0
-  - 5.0
+  - 4.0
+  - 214.0
+  - 214.0
+  - 214.0
+  - 214.0
+  - 214.0
+  - 214.0
+  - 224.0
+  - 224.0
+  - 224.0
 - section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: Price Change Diff to IOPI62 Price Change Diff to IOSI62
-  unit: null
+  source_line: '|Jan 5th, 2026 Roy Hill SIMEC Fines PB Fines Newman Fines MAC Fines
+    Jimblebar Blended Fines Carajas Fines Brazilian SSF Brazilian Blend Fines RTX
+    Fines West Pilbara Fines|PORT STOCK INDEX (RMB/WT) Price Change Diff to IOPI62
+    774 -5 -39 684 -4 -129 781 -5 -32 7'
+  unit: usd_per_unit
   values:
-  - 2.0
-  - 2.0
-- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: Roy Hill 774 -5 -39 Roy Hill 101.05 0.55 -4.90
-  unit: null
-  values:
+  - 5.0
+  - 2026.0
+  - 62.0
   - 774.0
   - -5.0
   - -39.0
-  - 101.05
-  - 0.55
-  - -4.9
-- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: SIMEC Fines 684 -4 -129 SIMEC Fines 99.20 0.60 -6.75
-  unit: null
-  values:
   - 684.0
   - -4.0
   - -129.0
-  - 99.2
-  - 0.6
-  - -6.75
-- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: PB Fines 781 -5 -32 PB Fines 106.50 -2.35 0.55
-  unit: null
-  values:
   - 781.0
-  - -5.0
-  - -32.0
-  - 106.5
-  - -2.35
-  - 0.55
 - section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: Newman Fines 781 -4 -32 Newman Fines 100.15 0.25 -5.80
-  unit: null
-  values:
-  - 781.0
-  - -4.0
-  - -32.0
-  - 100.15
-  - 0.25
-  - -5.8
-- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: MAC Fines 762 -5 -51 MAC Fines 100.10 0.70 -5.85
-  unit: null
-  values:
-  - 762.0
-  - -5.0
-  - -51.0
-  - 100.1
-  - 0.7
-  - -5.85
-- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: Jimblebar Blended Fines 697 -5 -116 Jimblebar Blended Fines 94.20 0.40
-    -11.75
-  unit: null
-  values:
-  - 697.0
-  - -5.0
-  - -116.0
-  - 94.2
-  - 0.4
-  - -11.75
-- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: Carajas Fines 993 -4 180 Carajas Fines 121.00 0.50 15.05
-  unit: null
-  values:
-  - 993.0
-  - -4.0
-  - 180.0
-  - 121.0
-  - 0.5
-  - 15.05
-- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: Brazilian SSF 775 -5 -38 Brazilian SSF 103.90 0.40 -2.05
-  unit: null
-  values:
-  - 775.0
-  - -5.0
-  - -38.0
-  - 103.9
-  - 0.4
-  - -2.05
-- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: Brazilian Blend Fines 795 -4 -18 Brazilian Blend Fines 112.00 0.55
-    6.05
-  unit: null
-  values:
-  - 795.0
-  - -4.0
-  - -18.0
-  - 112.0
-  - 0.55
-  - 6.05
-- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: RTX Fines 695 -5 -118 RTX Fines 99.70 0.30 -6.25
-  unit: null
-  values:
-  - 695.0
-  - -5.0
-  - -118.0
-  - 99.7
-  - 0.3
-  - -6.25
-- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: West Pilbara Fines 724 -5 -89 West Pilbara Fines 99.20 0.20 -6.75
-  unit: null
-  values:
-  - 724.0
-  - -5.0
-  - -89.0
-  - 99.2
-  - 0.2
-  - -6.75
-- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: Jan 5th, 2026 PORT STOCK INDEX (RMB/WT)
+  source_line: '|Jan 5th, 2026 SSF FMG Blended Fines Robe River Western Fines Atlas
+    Fines Yandi|PORT STOCK INDEX (RMB/WT) Price Change Diff to IOPI58 735 4 17 744
+    4 26 745 4 27 747 4 29 742 4 24 728 4 10|||'
   unit: null
   values:
   - 5.0
   - 2026.0
-- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: Price Change Diff to IOPI58
-  unit: null
-  values:
-  - 8.0
-- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: SSF 735 4 17
-  unit: null
-  values:
+  - 58.0
   - 735.0
   - 4.0
   - 17.0
-- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: FMG Blended Fines 744 4 26
-  unit: null
-  values:
   - 744.0
   - 4.0
   - 26.0
-- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: Robe River 745 4 27
-  unit: null
-  values:
   - 745.0
-  - 4.0
-  - 27.0
 - section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: Western Fines 747 4 29
-  unit: null
+  source_line: '**IRON ORE INDEX NORMALISATION DIFFERENTIALS** **Port Stock Index
+    Product Differentials (RMB/wet tonne) Seaborne Index Product Differentials (USD/dry
+    tonne)** **Applicable range Value Change Applicable range Value Change** High
+    Grade Fe 60 - 63% **9.00 0.00** '
+  unit: usd_per_unit
   values:
-  - 747.0
-  - 4.0
-  - 29.0
+  - 60.0
+  - 63.0
+  - 9.0
+  - 60.0
+  - 63.0
+  - 1.0
 - section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: Atlas Fines 742 4 24
-  unit: null
-  values:
-  - 742.0
-  - 4.0
-  - 24.0
-- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: Yandi 728 4 10
-  unit: null
-  values:
-  - 728.0
-  - 4.0
-  - 10.0
-- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: High Grade Fe 60 - 63% 9.00 0.00 High Grade Fe 60 - 63% 1.00 0.00
+  source_line: '||High Grade Fe 60 - 63%|9.00|0.00|High Grade Fe 60 - 63%|1.00|0.00|'
   unit: pct
   values:
   - 60.0
@@ -1226,7 +921,7 @@ numeric_observations:
   - 1.0
 - section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: High Grade Fe 63 - 64% 5.00 0.00 High Grade Fe 63 - 64% 2.75 0.00
+  source_line: '||High Grade Fe 63 - 64%|5.00|0.00|High Grade Fe 63 - 64%|2.75|0.00|'
   unit: pct
   values:
   - 63.0
@@ -1237,21 +932,19 @@ numeric_observations:
   - 2.75
 - section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: 1% Fe High Grade Fe 64 - 65% 5.00 0.00 1% Fe High Grade Fe 64 - 65%
-    2.75 0.00
+  source_line: '|1% Fe|High Grade Fe 64 - 65%|5.00|0.00|High Grade Fe 64 - 65%|2.75|0.00|'
   unit: pct
   values:
   - 1.0
   - 64.0
   - 65.0
   - 5.0
-  - 1.0
   - 64.0
   - 65.0
   - 2.75
 - section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: High Grade Fe 65 - 65.5% 5.00 0.00 High Grade Fe 65 - 65.5% 2.75 0.00
+  source_line: '||High Grade Fe 65 - 65.5%|5.00|0.00|High Grade Fe 65 - 65.5%|2.75|0.00|'
   unit: pct
   values:
   - 65.0
@@ -1262,14 +955,14 @@ numeric_observations:
   - 2.75
 - section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: Low Grade Fe 24.00 -4.00
+  source_line: '||Low Grade Fe|24.00|-4.00||||'
   unit: null
   values:
   - 24.0
   - -4.0
 - section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: High Fe Grade Al <2.25% 40.00 0.00 High Fe Grade Al <2.25% 6.25 0.00
+  source_line: '||High Fe Grade Al <2.25%|40.00|0.00|High Fe Grade Al <2.25%|6.25|0.00|'
   unit: pct
   values:
   - 2.25
@@ -1278,40 +971,23 @@ numeric_observations:
   - 6.25
 - section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: High Fe Grade Al 2.25-4% 66.00 0.00 High Fe Grade Al 2.25-4% 6.50 0.00
+  source_line: '|1% Alumina|High Fe Grade Al 2.25-4% Low Fe Grade Al <2.25% Low Fe
+    Grade Al 2.25-4%|66.00 28.00 28.00|0.00 0.00 0.00|High Fe Grade Al 2.25-4%|6.50|0.00|'
   unit: pct
   values:
+  - 1.0
+  - 2.25
+  - -4.0
+  - 2.25
   - 2.25
   - -4.0
   - 66.0
-  - 2.25
-  - -4.0
-  - 6.5
-- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: 1% Alumina 1% Alumina
-  unit: pct
-  values:
-  - 1.0
-  - 1.0
-- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: Low Fe Grade Al <2.25% 28.00 0.00
-  unit: pct
-  values:
-  - 2.25
   - 28.0
-- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
-  section_type: linked_pdf
-  source_line: Low Fe Grade Al 2.25-4% 28.00 0.00
-  unit: pct
-  values:
-  - 2.25
-  - -4.0
   - 28.0
+  - 2.25
 - section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: High Fe Grade Si <4% 13.00 -1.00 High Fe Grade Si <4% 2.50 0.00
+  source_line: '||High Fe Grade Si <4%|13.00|-1.00|High Fe Grade Si <4%|2.50|0.00|'
   unit: pct
   values:
   - 4.0
@@ -1321,8 +997,8 @@ numeric_observations:
   - 2.5
 - section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: 1% Silica High Fe Grade Si 4-6.5% 33.00 4.00 1% Silica High Fe Grade
-    Si 4 - 6.5% 3.75 0.00
+  source_line: '|1% Silica|High Fe Grade Si 4-6.5%|33.00|4.00|High Fe Grade Si 4 -
+    6.5%|3.75|0.00|'
   unit: pct
   values:
   - 1.0
@@ -1330,17 +1006,256 @@ numeric_observations:
   - -6.5
   - 33.0
   - 4.0
-  - 1.0
   - 4.0
   - 6.5
   - 3.75
 - section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
   section_type: linked_pdf
-  source_line: Low Fe Grade 13.00 4.00
+  source_line: '||Low Fe Grade|13.00|4.00||||'
   unit: null
   values:
   - 13.0
   - 4.0
+- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '|0.01%|High Fe Grade 0.09%<P<0.115%|5.00|0.00|High Fe Grade 0.09%<P<0.115%|1.00|0.00|'
+  unit: pct
+  values:
+  - 0.01
+  - 0.09
+  - 0.115
+  - 5.0
+  - 0.09
+  - 0.115
+  - 1.0
+- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '|Phosphorus|High Fe Grade 0.115%<P<0.15% Low Fe Grade 0.09<P<0.1%|5.00
+    5.00|0.00 0.00|High Fe Grade 0.115%<P<0.15%|1.00|0.00|'
+  unit: pct
+  values:
+  - 0.115
+  - 0.15
+  - 0.09
+  - 0.1
+  - 5.0
+  - 5.0
+  - 0.115
+  - 0.15
+  - 1.0
+- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '## 1% Fe'
+  unit: pct
+  values:
+  - 1.0
+- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '## 1% Alumina'
+  unit: pct
+  values:
+  - 1.0
+- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '## 1% Silica'
+  unit: pct
+  values:
+  - 1.0
+- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: 0.01% Phosphorus
+  unit: pct
+  values:
+  - 0.01
+- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '**Port Stock Price Differentials to Qingdao Port for PB Fines (RMB/wet
+    tonne)** **Port Value Change Port Value Change Port Value Change Port Value Change**
+    Bayuquan**-45.00 0.00** Fangcheng**-25.00 0.00** Lanshan **0.00 0.00** Rizhao
+    **0.00 0.00**'
+  unit: null
+  values:
+  - -45.0
+  - -25.0
+- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '|Bayuquan|-45.00|0.00|Fangcheng|-25.00|0.00|Lanshan|0.00|0.00|Rizhao|0.00|0.00|'
+  unit: null
+  values:
+  - -45.0
+  - -25.0
+- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '|Beilun|0.00|0.00|Jiangyin|-20.00|0.00|Lianyungang|-5.00|0.00|Shekou|0.00|0.00|'
+  unit: null
+  values:
+  - -20.0
+  - -5.0
+- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '|Caofeidian|-20.00|0.00|Jingtang|-10.00|0.00|Majishan|0.00|0.00|Taicang|-20.00|0.00|'
+  unit: null
+  values:
+  - -20.0
+  - -10.0
+  - -20.0
+- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '|Dalian|0.00|0.00|Lanqiao|0.00|0.00|Qingdao|0.00|0.00|Tianjin|-10.00|0.00|'
+  unit: null
+  values:
+  - -10.0
+- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '## Page 3/6 Jan 5th, 2026'
+  unit: null
+  values:
+  - 3.0
+  - 6.0
+  - 5.0
+  - 2026.0
+- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '**IRON ORE INDEX PREMIUMS/DISCOUNTS** 50% 40% 30% 20% 10% 0% -10%
+    -20% -30% -40% -50%'
+  unit: pct
+  values:
+  - 50.0
+  - 40.0
+  - 30.0
+  - 20.0
+  - 10.0
+  - -10.0
+  - -20.0
+  - -30.0
+  - -40.0
+  - -50.0
+- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: 14-Jan-2114-Mar-2114-May-2114-Jul-2114-Sep-2114-Nov-2114-Jan-2214-Mar-2214-May-2214-Jul-2214-Sep-2214-Nov-2214-Jan-2314-Mar-2314-May-2314-Jul-2314-Sep-2314-Nov-2314-Jan-2414-Mar-2414-May-2414-Jul-2414-Sep-2414-Nov-2414-Jan-2514-Mar-2514-May-2514-Jul-2514-Sep-2
+  unit: pct
+  values:
+  - 14.0
+  - 2114.0
+  - 2114.0
+  - 2114.0
+  - 2114.0
+  - 2114.0
+  - 2114.0
+  - 2214.0
+  - 2214.0
+  - 2214.0
+- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: 0.00 -1.00 -2.00 2021/1/12021/3/12021/5/12021/7/12021/9/12021/11/12022/1/12022/3/12022/5/12022/7/12022/9/12022/11/12023/1/12023/3/12023/5/12023/7/12023/9/12023/11/12024/1/12024/3/12024/5/12024/7/12024/9/12024/11/12025/1/12025/3/12025/5/12025/7/12025/9/12025/11
+  unit: null
+  values:
+  - -1.0
+  - -2.0
+  - 2021.0
+  - 1.0
+  - 12021.0
+  - 3.0
+  - 12021.0
+  - 5.0
+  - 12021.0
+  - 7.0
+- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: 62.5% Fe Lump Premium over 62% Fines RMB/dmtu
+  unit: tonnage
+  values:
+  - 62.5
+  - 62.0
+- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '**TOTAL IRON ORE INVENTORIES AT CHINA PORTS (MILLION TONNES)** 160
+    150 140 130 120 110 100 90'
+  unit: null
+  values:
+  - 160.0
+  - 150.0
+  - 140.0
+  - 130.0
+  - 120.0
+  - 110.0
+  - 100.0
+  - 90.0
+- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: Jan-21Apr-21Jul-21Oct-21Jan-22Apr-22Jul-22Oct-22Jan-23Apr-23Jul-23Oct-23Jan-24Apr-24Jul-24Oct-24Jan-25Apr-25Jul-25Oct-25
+  unit: null
+  values:
+  - 21.0
+  - 21.0
+  - 21.0
+  - 21.0
+  - 22.0
+  - 22.0
+  - 22.0
+  - 22.0
+  - 23.0
+  - 23.0
+- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: 50% 40% 30% 20% 10% 0% -10% -20% -30% -40% 14-Jan-21 14-Jan-22 14-Jan-23
+    14-Jan-24 14-Jan-25
+  unit: pct
+  values:
+  - 50.0
+  - 40.0
+  - 30.0
+  - 20.0
+  - 10.0
+  - -10.0
+  - -20.0
+  - -30.0
+  - -40.0
+  - 14.0
+- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: IOSI65 % Spread to IOSI62
+  unit: pct
+  values:
+  - 65.0
+  - 62.0
+- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: '**IRON ORE SEABORNE TO PORT STOCK PRICE SPREADS (USD/DMT)** 40 30
+    20 10 0 -10 -20 -30 -40'
+  unit: usd_per_unit
+  values:
+  - 40.0
+  - 30.0
+  - 20.0
+  - 10.0
+  - -10.0
+  - -20.0
+  - -30.0
+  - -40.0
+- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: 14-Jan-2114-Mar-2114-May-2114-Jul-2114-Sep-2114-Nov-2114-Jan-2214-Mar-2214-May-22IOSI65
+    Spread to IOPI65 Equivalent (5-day average) 14-Jul-2214-Sep-2214-Nov-2214-Jan-2314-Mar-2314-May-2314-Jul-2314-Sep-2314-Nov-2314-Jan-2414-Mar-2414-May-2414-Jul-2414-Sep-2414
+  unit: null
+  values:
+  - 14.0
+  - 2114.0
+  - 2114.0
+  - 2114.0
+  - 2114.0
+  - 2114.0
+  - 2114.0
+  - 2214.0
+  - 2214.0
+  - 22.0
+- section: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf'
+  section_type: linked_pdf
+  source_line: 1500.00 250.00
+  unit: null
+  values:
+  - 1500.0
+  - 250.0
 regions:
 - china
 - brazil
@@ -1350,8 +1265,8 @@ section_count: 3
 signals:
   benchmark_prices:
     index_58_fines: 58.0
-    index_62_fines: 61.0
-    index_65_fines: 61.0
+    index_62_fines: 62.0
+    index_65_fines: 65.0
   iron_ore_metrics:
   - metric: numeric_observation
     source_line: Today, Dalian iron ore futures traded with a slight upward trend.
@@ -1360,7 +1275,7 @@ signals:
       goods, traders are still active
     unit: pct
     values:
-    - 605.0
+    - 2605.0
     - 797.0
     - 0.95
     - 800.0
@@ -1379,69 +1294,74 @@ signals:
     - -2026.0
     - 5.0
     - 1043.0
-    - 3.0
+    - 5.0
   - metric: index
     source_line: MMi Daily Iron Ore Index Report Jan 5th, 2026
     unit: null
     values:
     - 5.0
     - 2026.0
-  - metric: index_65_fines
-    source_line: IOPI61 61% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe
-      Fines RMB/t
-    unit: pct
-    values:
-    - 1.0
-    - 61.0
-    - 5.0
-    - 65.0
-    - 8.0
-    - 58.0
-  - metric: index_62_fines
-    source_line: IOSI61 61% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5%
-      Fe Lump RMB/t
-    unit: usd_per_dmt
-    values:
-    - 1.0
-    - 61.0
-    - 5.0
-    - 65.0
-    - 62.5
-  - metric: index_62_fines
-    source_line: DCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE
-      Rebar
-    unit: pct
-    values:
-    - 62.0
-    - 62.0
   - metric: numeric_observation
-    source_line: I2605 (May) RMB/t (3pm close) December 25 USD/dmt RB2605 (Jan) RMB/t
-    unit: usd_per_dmt
+    source_line: '**Iron Ore Port Stock (FOT Qingdao)** **IOPI61 61% Fe Fines RMB/t**'
+    unit: pct
     values:
-    - 605.0
+    - 61.0
+    - 61.0
+  - metric: index_62_fines
+    source_line: '**DCE Iron Ore 62% Fines** **I2605 (May) RMB/t (3pm close)**'
+    unit: pct
+    values:
+    - 62.0
+    - 2605.0
     - 3.0
-    - 25.0
-    - 605.0
   - metric: numeric_observation
-    source_line: Iron Ore Inventory at Chinese Ports (35) Steel Inventory in China
+    source_line: '**Iron Ore Inventory at Chinese Ports (35) million tonnes**'
     unit: null
     values:
     - 35.0
+  - metric: index_65_fines
+    source_line: '**Iron Ore Port Stock (FOT Qingdao)** **IOPI65 65% Fe Fines RMB/t**'
+    unit: pct
+    values:
+    - 65.0
+    - 65.0
+  - metric: index_62_fines
+    source_line: '**SGX Iron Ore (CFR Qingdao) 62% Fe Fines** **December 25 USD/dmt**'
+    unit: usd_per_dmt
+    values:
+    - 62.0
+    - 25.0
+  - metric: index_58_fines
+    source_line: '**Iron Port Stock (FOT Qingdao)** **IOPI58 58% Fe Fines RMB/t**'
+    unit: pct
+    values:
+    - 58.0
+    - 58.0
   - metric: numeric_observation
-    source_line: Jan 5th, 2026 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao
-      Equivalent (exc. 13% VAT), USD/dry tonne ¹
+    source_line: '**Iron Ore Port Stock (FOT Qingdao)** **IOPLI 62.5% Fe Lump RMB/t**'
+    unit: pct
+    values:
+    - 62.5
+  - metric: index_62_fines
+    source_line: '**IRON ORE PORT STOCK INDEX (IOPI)** **Jan 5th, 2026 FOT Qingdao
+      (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc. 13% VAT), USD/dry
+      tonne ¹** **Index Fe Content Price Change Change % MTD YTD Low ² High ² Price
+      Change Change % MTD YTD Low ² High ²** *'
     unit: usd
     values:
     - 5.0
     - 2026.0
     - 13.0
     - 13.0
+    - 62.0
+    - 62.0
+    - -4.0
+    - -0.5
   - metric: index_62_fines
-    source_line: IOPI62 62% Fe Fines 813 -4 -0.5% 787 831 683 1063 107.47 -0.51 -0.5%
-      102.16 108.34 89.33 140.24
+    source_line: '|IOPI62|62% Fe Fines|813|-4|-0.5%|787|831|683|1063|107.47|-0.51|-0.5%|102.16|108.34|89.33|140.24|'
     unit: pct
     values:
-    - 2.0
+    - 62.0
     - 62.0
     - 813.0
     - -4.0
@@ -1450,11 +1370,10 @@ signals:
     - 831.0
     - 683.0
   - metric: index_58_fines
-    source_line: IOPI58 58% Fe Fines 718 -13 -1.8% 691 729 610 963 95.51 -1.75 -1.8%
-      90.22 95.56 80.25 128.13
+    source_line: '|IOPI58|58% Fe Fines|718|-13|-1.8%|691|729|610|963|95.51|-1.75|-1.8%|90.22|95.56|80.25|128.13|'
     unit: pct
     values:
-    - 8.0
+    - 58.0
     - 58.0
     - 718.0
     - -13.0
@@ -1463,11 +1382,11 @@ signals:
     - 729.0
     - 610.0
   - metric: index_65_fines
-    source_line: IOPI65 65% Fe Fines 899 -30 -3.2% 899 943 794 1175 119.23 -4.07 -3.3%
-      117.19 123.39 104.47 155.37
+    source_line: '|IOPI65|65% Fe Fines|899 IRON ORE SEABORNE INDEX (IOSI)|-30|-3.2%|899|943|794|1175|119.23|-4.07|-3.3%
+      MARKET COMMENTARY|117.19|123.39|104.47|155.37|'
     unit: pct
     values:
-    - 5.0
+    - 65.0
     - 65.0
     - 899.0
     - -30.0
@@ -1476,41 +1395,16 @@ signals:
     - 943.0
     - 794.0
   - metric: numeric_observation
-    source_line: Jan 5th, 2026 CFR Qingdao, USD/dry tonne Today, Dalian iron ore futures
-      traded with a slight upward trend. The main contract I2605 opened higher and
-      maintained high-level vola(cid:415)lity, finally closing at 797 points, up 0.95%
-      from the previous
+    source_line: '|Jan 5th, 2026||||CFR Qingdao, USD/dry tonne||||||||||||'
     unit: usd
     values:
     - 5.0
     - 2026.0
-    - 605.0
-    - 415.0
-    - 797.0
-    - 0.95
-  - metric: index
-    source_line: 'Index Fe Content Price Change Change % MTD YTD Low 2 High 2 I I
-      n n t t e e r r m m s s o o f f s p p ri o c t e g , o th o e d t s r , a t
-      n ra s d a e c(cid:415) rs o a n r e p r s i (cid:415) ce ll o a f c (cid:415)
-      PB ve p i o n w s d h e ip r p in in S g '
-    unit: pct
-    values:
-    - 2.0
-    - 2.0
-    - 415.0
-    - 415.0
-    - 415.0
-    - 8.0
-    - 0.0
-    - 0.0
   - metric: index_62_fines
-    source_line: IOSI62 62% Fe Fines 105.95 -1.26 -1.17% 103.49 109.55 89.79 142.65
-      T si h d e e , m la a s r t k w et e s e e k n 's (cid:415) S m M e M nt s w
-      h a ip s p re in la g (cid:415) d v a e t l a y s p h o o s w i(cid:415) e v
-      d e , t d h r a i t v i g n lo g b th a
+    source_line: '|IOSI62|62% Fe Fines|105.95|-1.26|-1.17%|103.49|109.55|89.79|142.65||||||||'
     unit: pct
     values:
-    - 2.0
+    - 62.0
     - 62.0
     - 105.95
     - -1.26
@@ -1519,117 +1413,138 @@ signals:
     - 109.55
     - 89.79
   - metric: index_65_fines
-    source_line: 'IOSI65 65% Fe Fines 121.35 0.33 0.27% 114.86 123.93 98.23 171.65
-      However, with the end of the new year''s steel mill produc(cid:415)on target
-      restric(cid:415)ons, some steel mills'' blast furnaces have resumed produc(cid:415)on
-      one a(cid:332)er another, and the '
-    unit: pct
+    source_line: '|IOSI65|65% Fe Fines|121.35|0.33 FOT Qingdao (inc. 13% VAT), RMB/wet
+      tonne|0.27%|114.86|123.93 IRON ORE PORT LUMP INDEX (IOPLI)|98.23|171.65||CFR
+      Qingdao Equivalent (exc. 13% VAT), USD/dry tonne||||||'
+    unit: usd
     values:
-    - 5.0
+    - 65.0
     - 65.0
     - 121.35
     - 0.33
+    - 13.0
     - 0.27
     - 114.86
     - 123.93
-    - 98.23
-  - metric: numeric_observation
-    source_line: expected to rebound significantly, forming a phased support for iron
-      ore prices. Overall, iron ore prices may con(cid:415)nue to fluctuate strongly
-      in the short term.
-    unit: null
+  - metric: index_62_fines
+    source_line: '|IOPLI62||865|3 IRON ORE DOMESTIC CONCENTRATE SPOT PRICE ASSESSMENTS
+      AND COMPOSITE INDEX|0.3%|899|960|820|1210|109.50|0.59|0.54%|112.34|120.41|102.77|153.57|'
+    unit: pct
     values:
-    - 415.0
+    - 62.0
+    - 865.0
+    - 3.0
+    - 0.3
+    - 899.0
+    - 960.0
+    - 820.0
+    - 1210.0
   - metric: numeric_observation
-    source_line: Week Ending Jan 2nd, 2026 FOT Qingdao (inc. 13% VAT), RMB/wet tonne
-      CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne 3
+    source_line: Today, Dalian iron ore futures traded with a slight upward trend.
+      The main contract I2605 opened higher and maintained high trading day. -level
+      vola�lity, finally closing at 797 points, up 0.95% from the previous **2 2**
+      In terms of spot goods, traders are s�l
+    unit: pct
+    values:
+    - 2605.0
+    - 797.0
+    - 0.95
+    - 2.0
+    - 2.0
+    - 800.0
+    - -806.0
+    - 5.0
+  - metric: numeric_observation
+    source_line: '|Week Ending Jan 2nd, 2026 Province Region Product Hebei Hanxing
+      66% Fe Concentrate Hebei Qian''an 65% Fe Concentrate Liaoning Anshan 65% Fe
+      Concentrate Shandong Zibo 65% Fe Concentrate|Basis Dry Dry Wet Dry|3 RMB/tonne
+      (excluding tax) This week Change % Low ² '
     unit: usd
     values:
     - 2.0
     - 2026.0
-    - 13.0
-    - 13.0
+    - 66.0
+    - 65.0
+    - 65.0
+    - 65.0
     - 3.0
-  - metric: index
-    source_line: Index Fe Content Price W-o-W Change % MTD YTD Low 2 High 2 Price
-      W-oW Change % MTD YTD Low 2 High 2
-    unit: pct
+    - 964.0
+  - metric: index_58_fines
+    source_line: '|Week Ending Jan 2nd, 2026 China Mines Concentrate Composite Index
+      RMB/WT|This week|2 2 Change % Low High 880.99 -0.91% 802.20 905.40|3|¹ Exchange
+      rate applied: RMB/USD = 7.191 ²Last 12 months Weekly exchange rate applied:
+      RMB/USD =7.19258|'
+    unit: usd
     values:
     - 2.0
+    - 2026.0
     - 2.0
     - 2.0
-    - 2.0
-  - metric: numeric_observation
-    source_line: Hebei Qian'an 65% Fe Concentrate Dry 985 0.5% 880 1300 139.79 0.70%
-      122.81 183.23
-    unit: pct
-    values:
-    - 65.0
-    - 985.0
-    - 0.5
-    - 880.0
-    - 1300.0
-    - 139.79
-    - 0.7
-    - 122.81
-  - metric: numeric_observation
-    source_line: Liaoning Anshan 65% Fe Concentrate Wet 752 0.0% 690 970 106.72 0.18%
-      96.49 136.72
-    unit: pct
-    values:
-    - 65.0
-    - 752.0
-    - 0.0
-    - 690.0
-    - 970.0
-    - 106.72
-    - 0.18
-    - 96.49
-  - metric: numeric_observation
-    source_line: Shandong Zibo 65% Fe Concentrate Dry 997 0.9% 878 1294 141.49 1.10%
-      122.53 182.16
-    unit: pct
-    values:
-    - 65.0
-    - 997.0
-    - 0.9
-    - 878.0
-    - 1294.0
-    - 141.49
-    - 1.1
-    - 122.53
-  - metric: index
-    source_line: China Mines Concentrate Composite Index RMB/WT 880.99 -0.91% 802.20
-      905.40
-    unit: pct
-    values:
     - 880.99
     - -0.91
     - 802.2
     - 905.4
+  - metric: index_65_fines
+    source_line: '**IRON ORE PORT INDEX, FOT QINGDAO (RMB/WT) IRON ORE SEABORNE INDEX,
+      CFR QINGDAO (USD/DMT)** 2050 320 1850 270 1650 1450 220 1250 170 1050 850 120
+      650 70 450'
+    unit: usd_per_dmt
+    values:
+    - 2050.0
+    - 320.0
+    - 1850.0
+    - 270.0
+    - 1650.0
+    - 1450.0
+    - 220.0
+    - 1250.0
   - metric: numeric_observation
-    source_line: Jan 5th, 2026 CFR Qingdao, USD/dry tonne
+    source_line: '|Jan 5th, 2026||||FOT Qingdao (inc. 13% VAT), RMB/wet tonne|||||CFR
+      Qingdao Equivalent (exc. 13% VAT), USD/dry tonne||'
     unit: usd
     values:
     - 5.0
     - 2026.0
+    - 13.0
+    - 13.0
   - metric: index_62_fines
-    source_line: IOSI62 62% Fe Fines 104.59 107.88 107.27 106.33 103.49 102.73 109.55
+    source_line: '|IOPI62 62% Fe Fines IOPI58 58% Fe Fines IOPI65 65% Fe Fines|795
+      683 907|801 716 914|792 726 903|805 720 917|787 782 831 691 686 729 899 893
+      943|103.51 89.38 118.58|104.69 94.18 119.85|103.56 95.66 118.69|105.46 95.02
+      120.64|102.16 101.51 108.34 90.22 89.54 95'
     unit: pct
     values:
-    - 2.0
     - 62.0
-    - 104.59
-    - 107.88
-    - 107.27
-    - 106.33
-    - 103.49
-    - 102.73
-  - metric: index_65_fines
-    source_line: IOSI65 65% Fe Fines 118.01 122.98 122.90 122.46 114.86 114.03 123.93
-    unit: pct
+    - 62.0
+    - 58.0
+    - 58.0
+    - 65.0
+    - 65.0
+    - 795.0
+    - 683.0
+  - metric: index_62_fines
+    source_line: '**IRON ORE SEABORNE INDEX MONTHLY, QUARTERLY AND YEAR-TO-DATE AVERAGES
+      FREIGHT RATES** **Jan 5th, 2026 CFR Qingdao, USD/dry tonne Jan 2nd, 2026 FREIGHT
+      RATES-DRY BULK US$/wet tonne** **Index Fe Content August September October November
+      MTD QTD YTD Route Design'
+    unit: usd
     values:
     - 5.0
+    - 2026.0
+    - 2.0
+    - 2026.0
+    - 2.0
+    - 2.0
+    - 62.0
+    - 62.0
+  - metric: index_62_fines
+    source_line: '**IOSI65** 65% Fe Fines 118.01 122.98 122.90 122.46 **114.86** 114.03
+      123.93 **Tubarao-Qingdao** C3 **23.57 0.00 0.0%** 16.08 35.02 **IRON ORE PORT
+      LUMP INDEX MONTHLY, QUARTERLY AND YEAR-TO-DATE AVERAGES** **Week Ending Jan
+      2nd, 2026 FOT Qingdao (inc. 13% VAT)'
+    unit: usd_per_dmt
+    values:
+    - 65.0
     - 65.0
     - 118.01
     - 122.98
@@ -1637,208 +1552,65 @@ signals:
     - 122.46
     - 114.86
     - 114.03
-  - metric: numeric_observation
-    source_line: Week Ending Jan 2nd, 2026 FOT Qingdao (inc. 13% VAT), RMB/wet tonne
-      CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne ¹
-    unit: usd
-    values:
-    - 2.0
-    - 2026.0
-    - 13.0
-    - 13.0
   - metric: index_62_fines
-    source_line: IOPI62 62% Fe Fines 795 801 792 805 787 782 831 103.51 104.69 103.56
-      105.46 102.16 101.51 108.34
-    unit: pct
+    source_line: 4-Jan-214-Mar-214-May-214-Jul-214-Sep-214-Nov-214-Jan-224-Mar-224-May-224-Jul-224-Sep-224-Nov-224-Jan-234-Mar-234-May-234-Jul-234-Sep-234-Nov-234-Jan-244-Mar-244-May-244-Jul-244-Sep-244-Nov-244-Jan-254-Mar-254-May-254-Jul-254-Sep-254-Nov-254-Jan-26
+      4-Jan-21 4-
+    unit: null
     values:
-    - 2.0
-    - 62.0
-    - 795.0
-    - 801.0
-    - 792.0
-    - 805.0
-    - 787.0
-    - 782.0
-  - metric: index_58_fines
-    source_line: IOPI58 58% Fe Fines 683 716 726 720 691 686 729 89.38 94.18 95.66
-      95.02 90.22 89.54 95.56
-    unit: pct
-    values:
-    - 8.0
-    - 58.0
-    - 683.0
-    - 716.0
-    - 726.0
-    - 720.0
-    - 691.0
-    - 686.0
-  - metric: index_65_fines
-    source_line: IOPI65 65% Fe Fines 907 914 903 917 899 893 943 118.58 119.85 118.69
-      120.64 117.19 116.55 123.39
-    unit: pct
-    values:
-    - 5.0
-    - 65.0
-    - 907.0
-    - 914.0
-    - 903.0
-    - 917.0
-    - 899.0
-    - 893.0
-  - metric: index
-    source_line: Jan 5th, 2026 PORT STOCK INDEX (RMB/WT) Jan 5th, 2026 SEABORNE INDEX
-      (USD/DMT)
+    - 4.0
+    - 214.0
+    - 214.0
+    - 214.0
+    - 214.0
+    - 214.0
+    - 214.0
+    - 224.0
+  - metric: index_62_fines
+    source_line: '|Jan 5th, 2026 Roy Hill SIMEC Fines PB Fines Newman Fines MAC Fines
+      Jimblebar Blended Fines Carajas Fines Brazilian SSF Brazilian Blend Fines RTX
+      Fines West Pilbara Fines|PORT STOCK INDEX (RMB/WT) Price Change Diff to IOPI62
+      774 -5 -39 684 -4 -129 781 -5 -32 7'
     unit: usd_per_dmt
     values:
     - 5.0
     - 2026.0
-    - 5.0
-    - 2026.0
-  - metric: index_62_fines
-    source_line: Index Fe Content Spread to IOPI62 % Spread to IOPI62 Index Fe Content
-      Spread to IOSI62 % Spread to IOSI62
-    unit: pct
-    values:
-    - 2.0
-    - 2.0
-    - 2.0
-    - 2.0
-  - metric: index_58_fines
-    source_line: IOPI58 58% Fe Fines -95 -11.69%
-    unit: pct
-    values:
-    - 8.0
-    - 58.0
-    - -95.0
-    - -11.69
-  - metric: index_65_fines
-    source_line: IOPI65 65% Fe Fines 86 10.58% IOSI65 65% Fe Fines 15.39 14.53%
-    unit: pct
-    values:
-    - 5.0
-    - 65.0
-    - 86.0
-    - 10.58
-    - 5.0
-    - 65.0
-    - 15.39
-    - 14.53
-  - metric: numeric_observation
-    source_line: SIMEC Fines 684 -4 -129 SIMEC Fines 99.20 0.60 -6.75
-    unit: null
-    values:
+    - 62.0
+    - 774.0
+    - -5.0
+    - -39.0
     - 684.0
     - -4.0
-    - -129.0
-    - 99.2
-    - 0.6
-    - -6.75
-  - metric: numeric_observation
-    source_line: PB Fines 781 -5 -32 PB Fines 106.50 -2.35 0.55
+  - metric: index_58_fines
+    source_line: '|Jan 5th, 2026 SSF FMG Blended Fines Robe River Western Fines Atlas
+      Fines Yandi|PORT STOCK INDEX (RMB/WT) Price Change Diff to IOPI58 735 4 17 744
+      4 26 745 4 27 747 4 29 742 4 24 728 4 10|||'
     unit: null
     values:
-    - 781.0
-    - -5.0
-    - -32.0
-    - 106.5
-    - -2.35
-    - 0.55
-  - metric: numeric_observation
-    source_line: Newman Fines 781 -4 -32 Newman Fines 100.15 0.25 -5.80
-    unit: null
-    values:
-    - 781.0
-    - -4.0
-    - -32.0
-    - 100.15
-    - 0.25
-    - -5.8
-  - metric: index_62_fines
-    source_line: MAC Fines 762 -5 -51 MAC Fines 100.10 0.70 -5.85
-    unit: null
-    values:
-    - 762.0
-    - -5.0
-    - -51.0
-    - 100.1
-    - 0.7
-    - -5.85
-  - metric: numeric_observation
-    source_line: Jimblebar Blended Fines 697 -5 -116 Jimblebar Blended Fines 94.20
-      0.40 -11.75
-    unit: null
-    values:
-    - 697.0
-    - -5.0
-    - -116.0
-    - 94.2
-    - 0.4
-    - -11.75
-  - metric: numeric_observation
-    source_line: Carajas Fines 993 -4 180 Carajas Fines 121.00 0.50 15.05
-    unit: null
-    values:
-    - 993.0
-    - -4.0
-    - 180.0
-    - 121.0
-    - 0.5
-    - 15.05
-  - metric: numeric_observation
-    source_line: Brazilian Blend Fines 795 -4 -18 Brazilian Blend Fines 112.00 0.55
-      6.05
-    unit: null
-    values:
-    - 795.0
-    - -4.0
-    - -18.0
-    - 112.0
-    - 0.55
-    - 6.05
-  - metric: numeric_observation
-    source_line: RTX Fines 695 -5 -118 RTX Fines 99.70 0.30 -6.25
-    unit: null
-    values:
-    - 695.0
-    - -5.0
-    - -118.0
-    - 99.7
-    - 0.3
-    - -6.25
-  - metric: numeric_observation
-    source_line: West Pilbara Fines 724 -5 -89 West Pilbara Fines 99.20 0.20 -6.75
-    unit: null
-    values:
-    - 724.0
-    - -5.0
-    - -89.0
-    - 99.2
-    - 0.2
-    - -6.75
-  - metric: numeric_observation
-    source_line: FMG Blended Fines 744 4 26
-    unit: null
-    values:
+    - 5.0
+    - 2026.0
+    - 58.0
+    - 735.0
+    - 4.0
+    - 17.0
     - 744.0
     - 4.0
-    - 26.0
-  - metric: numeric_observation
-    source_line: Western Fines 747 4 29
-    unit: null
+  - metric: index
+    source_line: '**IRON ORE INDEX NORMALISATION DIFFERENTIALS** **Port Stock Index
+      Product Differentials (RMB/wet tonne) Seaborne Index Product Differentials (USD/dry
+      tonne)** **Applicable range Value Change Applicable range Value Change** High
+      Grade Fe 60 - 63% **9.00 0.00** '
+    unit: usd
     values:
-    - 747.0
-    - 4.0
-    - 29.0
+    - 60.0
+    - 63.0
+    - 9.0
+    - 0.0
+    - 60.0
+    - 63.0
+    - 1.0
+    - 0.0
   - metric: numeric_observation
-    source_line: Atlas Fines 742 4 24
-    unit: null
-    values:
-    - 742.0
-    - 4.0
-    - 24.0
-  - metric: numeric_observation
-    source_line: 1% Fe High Grade Fe 64 - 65% 5.00 0.00 1% Fe High Grade Fe 64 - 65%
-      2.75 0.00
+    source_line: '|1% Fe|High Grade Fe 64 - 65%|5.00|0.00|High Grade Fe 64 - 65%|2.75|0.00|'
     unit: pct
     values:
     - 1.0
@@ -1846,9 +1618,37 @@ signals:
     - 65.0
     - 5.0
     - 0.0
-    - 1.0
     - 64.0
     - 65.0
+    - 2.75
+  - metric: numeric_observation
+    source_line: '**Port Stock Price Differentials to Qingdao Port for PB Fines (RMB/wet
+      tonne)** **Port Value Change Port Value Change Port Value Change Port Value
+      Change** Bayuquan**-45.00 0.00** Fangcheng**-25.00 0.00** Lanshan **0.00 0.00**
+      Rizhao **0.00 0.00**'
+    unit: null
+    values:
+    - -45.0
+    - 0.0
+    - -25.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+  - metric: premium
+    source_line: '**IRON ORE INDEX PREMIUMS/DISCOUNTS** 50% 40% 30% 20% 10% 0% -10%
+      -20% -30% -40% -50%'
+    unit: pct
+    values:
+    - 50.0
+    - 40.0
+    - 30.0
+    - 20.0
+    - 10.0
+    - 0.0
+    - -10.0
+    - -20.0
   - metric: index_62_fines
     source_line: 62.5% Fe Lump Premium over 62% Fines RMB/dmtu
     unit: usd_per_dmt
@@ -1856,20 +1656,188 @@ signals:
     - 62.5
     - 62.0
   - metric: numeric_observation
-    source_line: Week Ending Jan 2nd, 2026 DCE (RMB/WMT) SGX (USD/DMT)
+    source_line: '**TOTAL IRON ORE INVENTORIES AT CHINA PORTS (MILLION TONNES)** 160
+      150 140 130 120 110 100 90'
+    unit: null
+    values:
+    - 160.0
+    - 150.0
+    - 140.0
+    - 130.0
+    - 120.0
+    - 110.0
+    - 100.0
+    - 90.0
+  - metric: numeric_observation
+    source_line: '**IRON ORE SEABORNE TO PORT STOCK PRICE SPREADS (USD/DMT)** 40 30
+      20 10 0 -10 -20 -30 -40'
+    unit: usd_per_dmt
+    values:
+    - 40.0
+    - 30.0
+    - 20.0
+    - 10.0
+    - 0.0
+    - -10.0
+    - -20.0
+    - -30.0
+  - metric: numeric_observation
+    source_line: RMB/tonne 130.00 USD/DMT
+    unit: usd_per_dmt
+    values:
+    - 130.0
+  - metric: numeric_observation
+    source_line: '|Week Ending Jan 2nd, 2026||DCE (RMB/WMT)|SGX (USD/DMT)|'
     unit: usd_per_dmt
     values:
     - 2.0
     - 2026.0
   - metric: index_62_fines
-    source_line: MMi (Fe 62%), USD/mt exluding tax 107.60 -0.73 Mmi CFR Equivalent
-      index for 1st Feb
+    source_line: '|Product|2026/01/02 Change Change %|MMi (Fe 62%), USD/mt exluding
+      tax|107.60 -0.73|Mmi CFR Equivalent index for 1st Feb|'
     unit: usd
     values:
+    - 2026.0
+    - 1.0
+    - 2.0
     - 62.0
     - 107.6
     - -0.73
     - 1.0
+  - metric: index_62_fines
+    source_line: '|Fe % Alumina % Silica% Phosphorus % Sulphur % Moisture % Sizing
+      Pricing Point Timing (Seaborne) Payment Terms|Iron Ore Index Specifications
+      (Port and Seaborne) 65% Fe Fines 62% Fe Fines 58% Fe Fines 65.00 62.00 58.00
+      1.40 2.25 2.25 1.50 4.00 5.50 0.06 0.09 0.'
+    unit: pct
+    values:
+    - 65.0
+    - 62.0
+    - 58.0
+    - 65.0
+    - 62.0
+    - 58.0
+    - 1.4
+    - 2.25
+  - metric: index_62_fines
+    source_line: '||||MMi iron ore indices are compiled from data provided by companies
+      that are part of the iron ore supply chain and involved in spot market transac-
+      �ons. The indices are calculated using detailed transac�on-level data submi�ed
+      to MMi by these companies. This'
+    unit: pct
+    values:
+    - 62.0
+    - 58.0
+    - 65.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+  - metric: index_62_fines
+    source_line: '|Jan 5th, 2026 Roy Hill SIMEC Fines PB Fines Newman Fines MAC Fines
+      Jimblebar Blended Fines Carajas Fines Brazilian SSF Brazilian Blend Fines RTX
+      Fines West Pilbara Fines|Specifications applied for 62% brand assessments Fe
+      Alumina Silica Phos Moisture 60.88% 2'
+    unit: pct
+    values:
+    - 5.0
+    - 2026.0
+    - 62.0
+    - 60.88
+    - 2.35
+    - 4.45
+    - 0.055
+    - 9.26
+  - metric: index_62_fines
+    source_line: '|Jan 5th, 2026 SSF FMG Blended Fines Robe River Western Fines Atlas
+      Fines Yandi|Specifications applied for 58% brand assessments Fe Alumina Silica
+      Phos Moisture 56.49% 3.20% 6.19% 0.065% 9.18% 58.20% 2.43% 5.54% 0.057% 8.29%
+      56.44% 3.16% 5.73% 0.042% 8.44% 57.'
+    unit: pct
+    values:
+    - 5.0
+    - 2026.0
+    - 58.0
+    - 56.49
+    - 3.2
+    - 6.19
+    - 0.065
+    - 9.18
+  - metric: numeric_observation
+    source_line: '**CONTACT US** **MMI Singapore Office Details**: Level 28, Manulife
+      Tower, 8 Cross Street Singapore. Tel: + 65 6850 7629 E: prices@mmiprices.com
+      **SMM Singapore Office Details**: Level 28, Manulife Tower, 8 Cross Street Singapore.
+      Tel: + 65 6850 7630 E: servic'
+    unit: null
+    values:
+    - 28.0
+    - 8.0
+    - 65.0
+    - 6850.0
+    - 7629.0
+    - 28.0
+    - 8.0
+    - 65.0
+  - metric: index
+    source_line: 'Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_img1_05012026chinese_957ae5e87c3d.jpg'
+    unit: null
+    values:
+    - 2026.0
+    - -1.0
+    - -5.0
+    - 5.0
+    - -2026.0
+    - 1.0
+    - 5012026.0
+    - 957.0
+  - metric: index
+    source_line: '| MMi | Daily Iron Ore | Index | Report | | | | | | | | | | Jan
+      Sth, | 2026 | |'
+    unit: null
+    values:
+    - 2026.0
+  - metric: numeric_observation
+    source_line: '| Jan Sth, | 2026 | | FOT | Qingdao (inc. | 13% VAT), | RMB/wet
+      | tonne | | \| | CFR Qingdao | Equivalent | (exc. 13% | VAT), USD/dry | tonne
+      '' | |'
+    unit: usd
+    values:
+    - 2026.0
+    - 13.0
+    - 13.0
+  - metric: index_62_fines
+    source_line: '| 1OPI62 | \| 62%FeFines\| | 813 | 4 | -0.5% | 787 | 831 | 683 |
+      1063. | \| 107.47 | -0.51 | 0.5% | 102.16 | 108.34 | 89.33 | 140.24 |'
+    unit: pct
+    values:
+    - 1.0
+    - 62.0
+    - 62.0
+    - 813.0
+    - 4.0
+    - -0.5
+    - 787.0
+    - 831.0
+  - metric: index_65_fines
+    source_line: '| 1OPI65 | 65% FeFines\| | 899 | -30 | -3.2% | 899 | 943 | 794 |
+      1175 | 119.23 | -4.07 | -3.3% | 117.19 | 123.39 | 104.47 | 155.37 |'
+    unit: pct
+    values:
+    - 1.0
+    - 65.0
+    - 65.0
+    - 899.0
+    - -30.0
+    - -3.2
+    - 899.0
+    - 943.0
+  - metric: numeric_observation
+    source_line: '| Jan Sth, | 2026 | \| | | CFR Qingdao, | USD/dry | tonne | | |
+      | | | | ee | | |'
+    unit: usd
+    values:
+    - 2026.0
   metric_units:
   - pct
   - usd
@@ -1993,230 +1961,262 @@ Source: Metals Market Index (MMI)
 ## Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf
 Source asset: reports/hellenic/iron_ore/pdfs/2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_mmi-daily-iron-ore-report-for-5th-ja_1043a5b8d53a.pdf
 
-[Page 1]
 MMi Daily Iron Ore Index Report Jan 5th, 2026
-MMi Dashboard
-Iron Ore Price Indices
-Iron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)
-IOPI61 61% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t
-813 899 718
--4 -0.49% -30.00 -3.23% -13 -1.78%
-Jan 5th, 2026 Jan 5th, 2026 Jan 5th, 2026
-Iron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)
-IOSI61 61% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t
-105.95 121.35 865
--1.26 -1.17% 0.33 0.27% 3 0.35%
-Jan 5th, 2026 Jan 5th, 2026 Week Ending Jan 2nd, 2026
-Exchange Traded Contracts
-DCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar
-I2605 (May) RMB/t (3pm close) December 25 USD/dmt RB2605 (Jan) RMB/t
-797.00 106.15 3104
-7.50 0.95% 0.80 0.76% -67 -2.11%
-Jan 5th, 2026 (3pm close) Jan 5th, 2026 (5.30 pm Print) Jan 5th, 2026 (3pm close)
-Freight Rates Steel Price
-C3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Steel Rebar (China Domestic) RMB/t
-23.57 8.75 3171
-HOLIDAY
-HOLIDAY
-0.00 0.0% 0.00 0.0% -10 -0.31%
-Jan 2nd, 2026 Jan 2nd, 2026 Week Ending Jan 2nd, 2026
-Inventory Levels Steel Price
-Iron Ore Inventory at Chinese Ports (35) Steel Inventory in China
-Steel HRC (China Domestic) RMB/t
-million tonnes million tonnes
-145.26 8.64 3261
-3.53 2.49% 0.00 0.00% -5 -0.17%
-Week Ending Jan 2nd, 2026 Week Ending Jan 2nd, 2026 Week Ending Jan 2nd, 2026
-Page 1/6 Jan 5th, 2026
 
-[Page 2]
-MMi Daily Iron Ore Index Report Jan 5th, 2026
-IRON ORE PORT STOCK INDEX (IOPI)
-Jan 5th, 2026 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne ¹
-Index Fe Content Price Change Change % MTD YTD Low ² High ² Price Change Change % MTD YTD Low ² High ²
-IOPI62 62% Fe Fines 813 -4 -0.5% 787 831 683 1063 107.47 -0.51 -0.5% 102.16 108.34 89.33 140.24
-IOPI58 58% Fe Fines 718 -13 -1.8% 691 729 610 963 95.51 -1.75 -1.8% 90.22 95.56 80.25 128.13
-IOPI65 65% Fe Fines 899 -30 -3.2% 899 943 794 1175 119.23 -4.07 -3.3% 117.19 123.39 104.47 155.37
-IRON ORE SEABORNE INDEX (IOSI) MARKET COMMENTARY
-Jan 5th, 2026 CFR Qingdao, USD/dry tonne Today, Dalian iron ore futures traded with a slight upward trend. The main contract I2605 opened higher and maintained high-level vola(cid:415)lity, finally closing at 797 points, up 0.95% from the previous
-trading day.
-Index Fe Content Price Change Change % MTD YTD Low 2 High 2 I I n n t t e e r r m m s s o o f f s p p ri o c t e g , o th o e d t s r , a t n ra s d a e c(cid:415) rs o a n r e p r s i (cid:415) ce ll o a f c (cid:415) PB ve p i o n w s d h e ip r p in in S g h , s a t n e d e o l m ng i l a ls r e a a re w g a e s n 8 e 0 r 0 al - l 8 y 0 i 6 n y th u e a n m /t o o o n d , t u o p p 5 u -7 rc y h u a a se n , / a to n n d f t r h o e m re y a e r s e te f r e d w a y e ; n t q h u e i t r r ie a s n . s T a h c e (cid:415) o o n v e p r r a ic ll e t r o a f n P s B a c p (cid:415) o o w n d a e t r m in o s H p e h b e e r i e a i r n e t a h w e a m s a 8 r 1 k 3 et - 8 is 2 5 s(cid:415) y l u l a w n e / ak.
-ton, up 5-7 yuan/ton from yesterday.
-IOSI62 62% Fe Fines 105.95 -1.26 -1.17% 103.49 109.55 89.79 142.65 T si h d e e , m la a s r t k w et e s e e k n 's (cid:415) S m M e M nt s w h a ip s p re in la g (cid:415) d v a e t l a y s p h o o s w i(cid:415) e v d e , t d h r a i t v i g n lo g b th al e i r m o a n r o ke re t s to h i o p p m e e n n h ts ig i h n e cr r e , a b s u e t d t h sl e ig a h c t t l u y a b l y t r 4 a . n 9 s % a c m (cid:415) o o n n t f h o - l o lo n w -m -u o p n t w h a , s w l h im ile it e a d rr , i v a a n l d s d th e e c r m ea a s r e ke d t b w y a 4 s . 2 c % on m so o l n id t a h (cid:415) -o n n g - a m t o a n h th ig . h In le t v h e e l . s F h r o o r m t t t e h r e m s , u ir p o p n ly o re
-supply is s(cid:415)ll at a rela(cid:415)vely high level, and port inventories are expected to con(cid:415)nue to accumulate, which will put some pressure on ore prices.
-IOSI65 65% Fe Fines 121.35 0.33 0.27% 114.86 123.93 98.23 171.65 However, with the end of the new year's steel mill produc(cid:415)on target restric(cid:415)ons, some steel mills' blast furnaces have resumed produc(cid:415)on one a(cid:332)er another, and the output of molten iron is
-expected to rebound significantly, forming a phased support for iron ore prices. Overall, iron ore prices may con(cid:415)nue to fluctuate strongly in the short term.
-IRON ORE PORT LUMP INDEX (IOPLI)
-Week Ending Jan 2nd, 2026 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne 3
-Index Fe Content Price W-o-W Change % MTD YTD Low 2 High 2 Price W-oW Change % MTD YTD Low 2 High 2
-IOPLI62 62.5% Fe Lump 865 3 0.3% 899 960 820 1210 109.50 0.59 0.54% 112.34 120.41 102.77 153.57
-IRON ORE DOMESTIC CONCENTRATE SPOT PRICE ASSESSMENTS AND COMPOSITE INDEX
-Week Ending Jan 2nd, 2026 RMB/tonne (excluding tax) 3 USD/tonne (excluding tax) 3
-Province Region Product Basis This week Change % Low ² High ² This week Change % Low ² High ²
-Hebei Hanxing 66% Fe Concentrate Dry 964 0.8% 859 1226 136.81 1.02% 119.88 172.59
-Hebei Qian'an 65% Fe Concentrate Dry 985 0.5% 880 1300 139.79 0.70% 122.81 183.23
-Liaoning Anshan 65% Fe Concentrate Wet 752 0.0% 690 970 106.72 0.18% 96.49 136.72
-Shandong Zibo 65% Fe Concentrate Dry 997 0.9% 878 1294 141.49 1.10% 122.53 182.16
-Week Ending Jan 2nd, 2026 This week Change % Low 2 High 2 ¹ Exchange rate applied: RMB/USD = 7.191 ²Last 12 months
-3 Weekly exchange rate applied: RMB/USD =7.19258
-China Mines Concentrate Composite Index RMB/WT 880.99 -0.91% 802.20 905.40
-IRON ORE PORT INDEX, FOT QINGDAO (RMB/WT) IRON ORE SEABORNE INDEX, CFR QINGDAO (USD/DMT)
-2050
-1850
-1650
-1450
-1250
-1050
-850
-650
-450
-IRON ORE PORT STOCK INDEX MONTHLY, QUARTERLY AND YEAR-TO-DATE AVERAGES
-IRON ORE SEABORNE INDEX MONTHLY, QUARTERLY AND YEAR-TO-DATE AVERAGES FREIGHT RATES
-Jan 5th, 2026 CFR Qingdao, USD/dry tonne
-Index Fe Content August September October November MTD QTD YTD
-IOSI62 62% Fe Fines 104.59 107.88 107.27 106.33 103.49 102.73 109.55
-IOSI65 65% Fe Fines 118.01 122.98 122.90 122.46 114.86 114.03 123.93
-IRON ORE PORT LUMP INDEX MONTHLY, QUARTERLY AND YEAR-TO-DATE AVERAGES
-Week Ending Jan 2nd, 2026 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne ¹
-Index Fe Content August September October November MTD QTD YTD August September October November MTD QTD YTD
-IOPLI62 62.5% Fe Lump 921 926 909 880 899 895 960 115.37 116.51 114.52 110.83 112.34 111.85 120.41
-IRON ORE INDEX PREMIUMS/DISCOUNTS
-Page 2/6 Jan 5th, 2026
-COPYRIGHT METALS MARKET INDEX, ALL RIGHTS RESERVED
-12-naJ-1 12-rpA-1 12-luJ-1 12-tcO-1 22-naJ-1 22-rpA-1 22-luJ-1 22-tcO-1 32-naJ-1 32-rpA-1 32-luJ-1 32-tcO-1 42-naJ-1 42-rpA-1 42-luJ-1 42-tcO-1 52-naJ-1 52-rpA-1 52-luJ-1 52-tcO-1 62-naJ-1
-320
-270
-220
-170
-120
-70
-IOPI62 IOPI58 IOPI65
-12-naJ-4 12-rpA-4 12-luJ-4 12-tcO-4 22-naJ-4 22-rpA-4 22-luJ-4 22-tcO-4 32-naJ-4 32-rpA-4 32-luJ-4 32-tcO-4 42-naJ-4 42-rpA-4 42-luJ-4 42-tcO-4 52-naJ-4 52-rpA-4 52-luJ-4 52-tcO-4 62-naJ-4
-IOSI62 IOSI65
-Jan 5th, 2026 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne
-Index Fe Content August September October November MTD QTD YTD August September October November MTD QTD YTD
-IOPI62 62% Fe Fines 795 801 792 805 787 782 831 103.51 104.69 103.56 105.46 102.16 101.51 108.34
-IOPI58 58% Fe Fines 683 716 726 720 691 686 729 89.38 94.18 95.66 95.02 90.22 89.54 95.56
-IOPI65 65% Fe Fines 907 914 903 917 899 893 943 118.58 119.85 118.69 120.64 117.19 116.55 123.39
-Jan 2nd, 2026 FREIGHT RATES - DRY BULK US$/wet tonne
-Route Designation Change Change % Low 2 High 2
-W. Australia - Qingdao C5 8.75 0.00 0.0% 5.92 14.89
-HOLIDAY
-Tubarao - Qingdao C3 23.57 0.00 0.0% 16.08 35.02
-Jan 5th, 2026 PORT STOCK INDEX (RMB/WT) Jan 5th, 2026 SEABORNE INDEX (USD/DMT)
-Index Fe Content Spread to IOPI62 % Spread to IOPI62 Index Fe Content Spread to IOSI62 % Spread to IOSI62
-IOPI58 58% Fe Fines -95 -11.69%
-IOPI65 65% Fe Fines 86 10.58% IOSI65 65% Fe Fines 15.39 14.53%
+**Iron Ore Port Stock (FOT Qingdao)** **IOPI61 61% Fe Fines RMB/t**
 
-[Page 3]
+**813**
+
+## -4-0.49%
+
+**Jan 5th, 2026**
+
+**Iron Ore Seaborne (CFR Qingdao)** **IOSI61 61% Fe Fines USD/dmt**
+
+## 105.95
+
+## -1.26-1.17%
+
+**Jan 5th, 2026**
+
+**DCE Iron Ore 62% Fines** **I2605 (May) RMB/t (3pm close)**
+
+## 797.00
+
+## 7.50 0.95%
+
+**Jan 5th, 2026 (3pm close)**
+
+**C3, Tubarao-Qingdao USD/t**
+
+## 23.57
+
+HOLIDAY
+
+**0.00 0.0%**
+**Jan 2nd, 2026**
+
+**Iron Ore Inventory at Chinese Ports (35) million tonnes**
+
+## 145.26
+
+## 3.53 2.49%
+
+**Week Ending Jan 2nd, 2026**
+
+# MMi Dashboard
+
+## Iron Ore Price Indices
+
+**Iron Ore Port Stock (FOT Qingdao)** **IOPI65 65% Fe Fines RMB/t**
+
+**899**
+
+## -30.00-3.23%
+
+**Jan 5th, 2026**
+
+**Iron Ore Seaborne (CFR Qingdao)** **IOSI65 65% Fe Fines USD/dmt**
+
+## 121.35
+
+## 0.33 0.27%
+
+**Jan 5th, 2026**
+
+## Exchange Traded Contracts
+
+**SGX Iron Ore (CFR Qingdao) 62% Fe Fines** **December 25 USD/dmt**
+
+## 106.15
+
+## 0.80 0.76%
+
+**Jan 5th, 2026 (5.30 pm Print)**
+
+**C5, W. Australia-Qingdao USD/t**
+
+## 8.75
+
+HOLIDAY
+
+**0.00 0.0%**
+**Jan 2nd, 2026**
+
+**Steel Inventory in China million tonnes**
+
+## 8.64
+
+## 0.00 0.00%
+
+**Week Ending Jan 2nd, 2026**
+
+## Page 1/6
+
+**Iron Port Stock (FOT Qingdao)** **IOPI58 58% Fe Fines RMB/t**
+
+**718**
+
+## -13-1.78%
+
+**Jan 5th, 2026**
+
+**Iron Ore Port Stock (FOT Qingdao)** **IOPLI 62.5% Fe Lump RMB/t**
+
+**865**
+
+## 3 0.35%
+
+**Week Ending Jan 2nd, 2026**
+
+**SHFE Rebar** **RB2605 (Jan) RMB/t**
+
+## 3104
+
+## -67-2.11%
+
+**Jan 5th, 2026 (3pm close)**
+
+## Steel Price
+
+**Steel Rebar (China Domestic) RMB/t**
+
+## 3171
+
+## -10-0.31%
+
+**Week Ending Jan 2nd, 2026**
+
+## Steel Price
+
+**Steel HRC (China Domestic) RMB/t**
+
+## 3261
+
+## -5-0.17%
+
+**Week Ending Jan 2nd, 2026**
+
+## Jan 5th, 2026
+
+## Freight Rates
+
+## Inventory Levels
+
 MMi Daily Iron Ore Index Report Jan 5th, 2026
-IRON ORE INDEX COMPARISONS (USD/DMT) CHINA DOMESTIC COMPOSITE MINES INDEX (RMB/Wet Tonne, including VAT)
-270.00
-230.00
-190.00
-150.00
-110.00
-70.00
-IRON ORE BRAND SPOT PRICE ASSESMENTS
-IRON ORE INDEX NORMALISATION DIFFERENTIALS
-Page 3/6 Jan 5th, 2026
+
+**IRON ORE PORT STOCK INDEX (IOPI)** **Jan 5th, 2026 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne ¹** **Index Fe Content Price Change Change % MTD YTD Low ² High ² Price Change Change % MTD YTD Low ² High ²** **IOPI62** 62% Fe Fines**-4-0.5% 107.47-0.51-0.5%** 102.16 108.34 89.33 140.24
+
+|IOPI62|62% Fe Fines|813|-4|-0.5%|787|831|683|1063|107.47|-0.51|-0.5%|102.16|108.34|89.33|140.24|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|IOPI58|58% Fe Fines|718|-13|-1.8%|691|729|610|963|95.51|-1.75|-1.8%|90.22|95.56|80.25|128.13|
+|IOPI65|65% Fe Fines|899 IRON ORE SEABORNE INDEX (IOSI)|-30|-3.2%|899|943|794|1175|119.23|-4.07|-3.3% MARKET COMMENTARY|117.19|123.39|104.47|155.37|
+|Jan 5th, 2026||||CFR Qingdao, USD/dry tonne||||||||||||
+|Index|Fe Content|Price|Change|Change %|MTD|YTD|Low|High||||||||
+|IOSI62|62% Fe Fines|105.95|-1.26|-1.17%|103.49|109.55|89.79|142.65||||||||
+|IOSI65|65% Fe Fines|121.35|0.33 FOT Qingdao (inc. 13% VAT), RMB/wet tonne|0.27%|114.86|123.93 IRON ORE PORT LUMP INDEX (IOPLI)|98.23|171.65||CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne||||||
+|Index|Fe Content|Price|W-o-W|Change %|MTD|YTD|Low|High|Price|W-oW|Change %|MTD|YTD|Low|High|
+|IOPLI62||865|3 IRON ORE DOMESTIC CONCENTRATE SPOT PRICE ASSESSMENTS AND COMPOSITE INDEX|0.3%|899|960|820|1210|109.50|0.59|0.54%|112.34|120.41|102.77|153.57|
+
+Today, Dalian iron ore futures traded with a slight upward trend. The main contract I2605 opened higher and maintained high trading day. -level vola�lity, finally closing at 797 points, up 0.95% from the previous **2 2** In terms of spot goods, traders are s�ll ac�ve in shipping, steel mills are generally in the mood to purchase, and there ar In terms of price, the transac�on price of PB powder in Shandong area was 800-806 yuan/ton, up 5-7 yuan/ton from yesterday; the ton, up 5-7 yuan/ton from yesterday. e few enquiries. The overall transac�on atmosphere in the market is s�ll weak. transac�on price of PB powder in Hebei area was 813-825 yuan/ The market sen�ment was rela�vely posi�ve, driving the market to open higher, but the actual transac�on follow side, last week's SMM shipping data showed that global iron ore shipments increased slightly by 4.9% month-on-month, while arriv -up was limited, and the market was consolida�ng at a high level. From the supply als decreased by 4.2% month-on-month. In the short term, iron ore supply is s�ll at a rela�vely high level, and port inventories are expected to con�nue to accumulate, which will put some pressure on ore prices. However, with the end of the new year's steel mill produc�on target restric�ons, some steel mills' blast furnaces have resu expected to rebound significantly, forming a phased support for iron ore prices. Overall, iron ore prices may con�nue to flumed ctuate strongly in the short term. produc�on one aer another, and the output of molten iron is
+
+**Week Ending Jan 2nd, 20263** **2 2 2 2**
+
+62.5% Fe Lump
+
+|Week Ending Jan 2nd, 2026 Province Region Product Hebei Hanxing 66% Fe Concentrate Hebei Qian'an 65% Fe Concentrate Liaoning Anshan 65% Fe Concentrate Shandong Zibo 65% Fe Concentrate|Basis Dry Dry Wet Dry|3 RMB/tonne (excluding tax) This week Change % Low ² 964 0.8% 859 985 0.5% 880 752 0.0% 690 997 0.9% 878|High ² 1226 1300 970 1294|3 USD/tonne (excluding tax) This week Change % Low ² High ² 136.81 1.02% 119.88 172.59 139.79 0.70% 122.81 183.23 106.72 0.18% 96.49 136.72 141.49 1.10% 122.53 182.16|
+|---|---|---|---|---|
+|Week Ending Jan 2nd, 2026 China Mines Concentrate Composite Index RMB/WT|This week|2 2 Change % Low High 880.99 -0.91% 802.20 905.40|3|¹ Exchange rate applied: RMB/USD = 7.191 ²Last 12 months Weekly exchange rate applied: RMB/USD =7.19258|
+
+**IRON ORE PORT INDEX, FOT QINGDAO (RMB/WT) IRON ORE SEABORNE INDEX, CFR QINGDAO (USD/DMT)** 2050 320 1850 270 1650 1450 220 1250 170 1050 850 120 650 70 450
+
+4-Jan-214-Apr-214-Jul-214-Oct-214-Jan-224-Apr-224-Jul-224-Oct-224-Jan-234-Apr-234-Jul-234-Oct-234-Jan-244-Apr-244-Jul-244-Oct-244-Jan-254-Apr-254-Jul-254-Oct-254-Jan-26 1-Jan-211-Apr-211-Jul-211-Oct-211-Jan-221-Apr-221-Jul-221-Oct-221-Jan-231-Apr-231-Jul-231-Oct-231-Jan-241-Apr-241-Jul-241-Oct-241-Jan-251-Apr-251-Jul-251-Oct-251-Jan-26 IOPI62 IOPI58 IOPI65 IOSI62 IOSI65
+
+**IRON ORE PORT STOCK INDEX MONTHLY, QUARTERLY AND YEAR-TO-DATE AVERAGES**
+
+|Jan 5th, 2026||||FOT Qingdao (inc. 13% VAT), RMB/wet tonne|||||CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne||
+|---|---|---|---|---|---|---|---|---|---|---|
+|Index Fe Content|August|September|October|November|MTD QTD YTD|August|September|October|November|MTD QTD YTD|
+|IOPI62 62% Fe Fines IOPI58 58% Fe Fines IOPI65 65% Fe Fines|795 683 907|801 716 914|792 726 903|805 720 917|787 782 831 691 686 729 899 893 943|103.51 89.38 118.58|104.69 94.18 119.85|103.56 95.66 118.69|105.46 95.02 120.64|102.16 101.51 108.34 90.22 89.54 95.56 117.19 116.55 123.39|
+
+**IRON ORE SEABORNE INDEX MONTHLY, QUARTERLY AND YEAR-TO-DATE AVERAGES FREIGHT RATES** **Jan 5th, 2026 CFR Qingdao, USD/dry tonne Jan 2nd, 2026 FREIGHT RATES-DRY BULK US$/wet tonne** **Index Fe Content August September October November MTD QTD YTD Route Designation Change Change % Low** **2** **High** **2** **IOSI62** 62% Fe Fines 104.59 107.88 107.27 106.33 **103.49** 102.73 109.55 **W. Australia-Qingdao** C5 **8.75 0.00** HOLIDAY
+
+**0.0%** 5.92 14.89
+**IOSI65** 65% Fe Fines 118.01 122.98 122.90 122.46 **114.86** 114.03 123.93 **Tubarao-Qingdao** C3 **23.57 0.00 0.0%** 16.08 35.02 **IRON ORE PORT LUMP INDEX MONTHLY, QUARTERLY AND YEAR-TO-DATE AVERAGES** **Week Ending Jan 2nd, 2026 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne ¹** **Index Fe Content August September October November MTD QTD YTD August September October November MTD QTD YTD** **IOPLI62** 62.5% Fe Lump 921 926 909 880 **899** 895 960 115.37 116.51 114.52 110.83 **112.34** 111.85 120.41 **IRON ORE INDEX PREMIUMS/DISCOUNTS** **Jan 5th, 2026 PORT STOCK INDEX (RMB/WT) Jan 5th, 2026 SEABORNE INDEX (USD/DMT)** Index **Fe Content Spread to IOPI62 % Spread to IOPI62 Index Fe Content Spread to IOSI62 % Spread to IOSI62** IOPI58 58% Fe Fines**-95**-11.69% IOPI65 65% Fe Fines 10.58% **IOSI65** 65% Fe Fines **15.39** 14.53%
+
+## Page 2/6 Jan 5th, 2026
+
 COPYRIGHT METALS MARKET INDEX, ALL RIGHTS RESERVED
-12-naJ-4 12-raM-4 12-yaM-4 12-luJ-4 12-peS-4 12-voN-4 22-naJ-4 22-raM-4 22-yaM-4 22-luJ-4 22-peS-4 22-voN-4 32-naJ-4 32-raM-4 32-yaM-4 32-luJ-4 32-peS-4 32-voN-4 42-naJ-4 42-raM-4 42-yaM-4 42-luJ-4 42-peS-4 42-voN-4 52-naJ-4 52-raM-4 52-yaM-4 52-luJ-4 52-peS-4 52-voN-4 62-naJ-4
-1,650.00
+
+**IRON ORE INDEX COMPARISONS (USD/DMT) CHINA DOMESTIC COMPOSITE MINES INDEX (RMB/Wet Tonne, including VAT)**
+
+270.00 1,650.00
 1,550.00
-1,450.00
+
+230.00 1,450.00
 1,350.00
-1,250.00
+
+190.00 1,250.00
 1,150.00
+
+150.00
 1,050.00
+
 950.00
+110.00
 850.00
 750.00
+70.00
 650.00
-IOSI62 IOPI62 (equivalent) IOSI65 IOPI65 (equivalent)
-12-naJ-4 12-raM-4 12-yaM-4 12-luJ-4 12-peS-4 12-voN-4 22-naJ-4 22-raM-4 22-yaM-4 22-luJ-4 22-peS-4 22-voN-4 32-naJ-4 32-raM-4 32-yaM-4 32-luJ-4 32-peS-4 32-voN-4 42-naJ-4 42-raM-4 42-yaM-4 42-luJ-4 42-peS-4 42-voN-4
-China Domestic Composite Mines Index
-Jan 5th, 2026 PORT STOCK INDEX (RMB/WT) Jan 5th, 2026 SEABORNE INDEX (USD/DMT)
-Price Change Diff to IOPI62 Price Change Diff to IOSI62
-Roy Hill 774 -5 -39 Roy Hill 101.05 0.55 -4.90
-SIMEC Fines 684 -4 -129 SIMEC Fines 99.20 0.60 -6.75
-PB Fines 781 -5 -32 PB Fines 106.50 -2.35 0.55
-Newman Fines 781 -4 -32 Newman Fines 100.15 0.25 -5.80
-MAC Fines 762 -5 -51 MAC Fines 100.10 0.70 -5.85
-Jimblebar Blended Fines 697 -5 -116 Jimblebar Blended Fines 94.20 0.40 -11.75
-Carajas Fines 993 -4 180 Carajas Fines 121.00 0.50 15.05
-Brazilian SSF 775 -5 -38 Brazilian SSF 103.90 0.40 -2.05
-Brazilian Blend Fines 795 -4 -18 Brazilian Blend Fines 112.00 0.55 6.05
-RTX Fines 695 -5 -118 RTX Fines 99.70 0.30 -6.25
-West Pilbara Fines 724 -5 -89 West Pilbara Fines 99.20 0.20 -6.75
-Jan 5th, 2026 PORT STOCK INDEX (RMB/WT)
-Price Change Diff to IOPI58
-SSF 735 4 17
-FMG Blended Fines 744 4 26
-Robe River 745 4 27
-Western Fines 747 4 29
-Atlas Fines 742 4 24
-Yandi 728 4 10
-Port Stock Index Product Differentials (RMB/wet tonne) Seaborne Index Product Differentials (USD/dry tonne)
-Applicable range Value Change Applicable range Value Change
-High Grade Fe 60 - 63% 9.00 0.00 High Grade Fe 60 - 63% 1.00 0.00
-High Grade Fe 63 - 64% 5.00 0.00 High Grade Fe 63 - 64% 2.75 0.00
-1% Fe High Grade Fe 64 - 65% 5.00 0.00 1% Fe High Grade Fe 64 - 65% 2.75 0.00
-High Grade Fe 65 - 65.5% 5.00 0.00 High Grade Fe 65 - 65.5% 2.75 0.00
-Low Grade Fe 24.00 -4.00
-High Fe Grade Al <2.25% 40.00 0.00 High Fe Grade Al <2.25% 6.25 0.00
-High Fe Grade Al 2.25-4% 66.00 0.00 High Fe Grade Al 2.25-4% 6.50 0.00
-1% Alumina 1% Alumina
-Low Fe Grade Al <2.25% 28.00 0.00
-Low Fe Grade Al 2.25-4% 28.00 0.00
-High Fe Grade Si <4% 13.00 -1.00 High Fe Grade Si <4% 2.50 0.00
-1% Silica High Fe Grade Si 4-6.5% 33.00 4.00 1% Silica High Fe Grade Si 4 - 6.5% 3.75 0.00
-Low Fe Grade 13.00 4.00
-High Fe Grade 0.09%<P<0.115% 5.00 0.00 0.01% High Fe Grade 0.09%<P<0.115% 1.00 0.00
-0.01%
-High Fe Grade 0.115%<P<0.15% 5.00 0.00 Phosphorus High Fe Grade 0.115%<P<0.15% 1.00 0.00
-Phosphorus
-Low Fe Grade 0.09<P<0.1% 5.00 0.00
-Port Stock Price Differentials to Qingdao Port for PB Fines (RMB/wet tonne)
-Port Value Change Port Value Change Port Value Change Port Value Change
-Bayuquan -45.00 0.00 Fangcheng -25.00 0.00 Lanshan 0.00 0.00 Rizhao 0.00 0.00
-Beilun 0.00 0.00 Jiangyin -20.00 0.00 Lianyungang -5.00 0.00 Shekou 0.00 0.00
-Caofeidian -20.00 0.00 Jingtang -10.00 0.00 Majishan 0.00 0.00 Taicang -20.00 0.00
-Dalian 0.00 0.00 Lanqiao 0.00 0.00 Qingdao 0.00 0.00 Tianjin -10.00 0.00
+4-Jan-214-Mar-214-May-214-Jul-214-Sep-214-Nov-214-Jan-224-Mar-224-May-224-Jul-224-Sep-224-Nov-224-Jan-234-Mar-234-May-234-Jul-234-Sep-234-Nov-234-Jan-244-Mar-244-May-244-Jul-244-Sep-244-Nov-244-Jan-254-Mar-254-May-254-Jul-254-Sep-254-Nov-254-Jan-26 4-Jan-21 4-Jul-21 4-Jan-22 4-Jul-22 4-Jan-23 4-Jul-23 4-Jan-24 4-Jul-24 4-Mar-214-May-214-Sep-214-Nov-214-Mar-224-May-224-Sep-224-Nov-224-Mar-234-May-234-Sep-234-Nov-234-Mar-244-May-244-Sep-244-Nov-24 IOSI62 IOPI62 (equivalent) IOSI65 IOPI65 (equivalent) China Domestic Composite Mines Index
 
-[Page 4]
+**IRON ORE BRAND SPOT PRICE ASSESMENTS**
+
+|Jan 5th, 2026 Roy Hill SIMEC Fines PB Fines Newman Fines MAC Fines Jimblebar Blended Fines Carajas Fines Brazilian SSF Brazilian Blend Fines RTX Fines West Pilbara Fines|PORT STOCK INDEX (RMB/WT) Price Change Diff to IOPI62 774 -5 -39 684 -4 -129 781 -5 -32 781 -4 -32 762 -5 -51 697 -5 -116 993 -4 180 775 -5 -38 795 -4 -18 695 -5 -118 724 -5 -89|Jan 5th, 2026 Roy Hill SIMEC Fines PB Fines Newman Fines MAC Fines Jimblebar Blended Fines Carajas Fines Brazilian SSF Brazilian Blend Fines RTX Fines West Pilbara Fines|SEABORNE INDEX (USD/DMT) Price Change Diff to IOSI62 101.05 0.55 -4.90 99.20 0.60 -6.75 106.50 -2.35 0.55 100.15 0.25 -5.80 100.10 0.70 -5.85 94.20 0.40 -11.75 121.00 0.50 15.05 103.90 0.40 -2.05 112.00 0.55 6.05 99.70 0.30 -6.25 99.20 0.20 -6.75|
+|---|---|---|---|
+|Jan 5th, 2026 SSF FMG Blended Fines Robe River Western Fines Atlas Fines Yandi|PORT STOCK INDEX (RMB/WT) Price Change Diff to IOPI58 735 4 17 744 4 26 745 4 27 747 4 29 742 4 24 728 4 10|||
+
+**IRON ORE INDEX NORMALISATION DIFFERENTIALS** **Port Stock Index Product Differentials (RMB/wet tonne) Seaborne Index Product Differentials (USD/dry tonne)** **Applicable range Value Change Applicable range Value Change** High Grade Fe 60 - 63% **9.00 0.00** High Grade Fe 60 - 63% **1.00 0.00**
+
+||High Grade Fe 60 - 63%|9.00|0.00|High Grade Fe 60 - 63%|1.00|0.00|
+|---|---|---|---|---|---|---|
+||High Grade Fe 63 - 64%|5.00|0.00|High Grade Fe 63 - 64%|2.75|0.00|
+|1% Fe|High Grade Fe 64 - 65%|5.00|0.00|High Grade Fe 64 - 65%|2.75|0.00|
+||High Grade Fe 65 - 65.5%|5.00|0.00|High Grade Fe 65 - 65.5%|2.75|0.00|
+||Low Grade Fe|24.00|-4.00||||
+||High Fe Grade Al <2.25%|40.00|0.00|High Fe Grade Al <2.25%|6.25|0.00|
+|1% Alumina|High Fe Grade Al 2.25-4% Low Fe Grade Al <2.25% Low Fe Grade Al 2.25-4%|66.00 28.00 28.00|0.00 0.00 0.00|High Fe Grade Al 2.25-4%|6.50|0.00|
+||High Fe Grade Si <4%|13.00|-1.00|High Fe Grade Si <4%|2.50|0.00|
+|1% Silica|High Fe Grade Si 4-6.5%|33.00|4.00|High Fe Grade Si 4 - 6.5%|3.75|0.00|
+||Low Fe Grade|13.00|4.00||||
+|0.01%|High Fe Grade 0.09%<P<0.115%|5.00|0.00|High Fe Grade 0.09%<P<0.115%|1.00|0.00|
+|Phosphorus|High Fe Grade 0.115%<P<0.15% Low Fe Grade 0.09<P<0.1%|5.00 5.00|0.00 0.00|High Fe Grade 0.115%<P<0.15%|1.00|0.00|
+
+## 1% Fe
+
+## 1% Alumina
+
+## 1% Silica
+
+0.01% Phosphorus
+**Port Stock Price Differentials to Qingdao Port for PB Fines (RMB/wet tonne)** **Port Value Change Port Value Change Port Value Change Port Value Change** Bayuquan**-45.00 0.00** Fangcheng**-25.00 0.00** Lanshan **0.00 0.00** Rizhao **0.00 0.00**
+
+|Bayuquan|-45.00|0.00|Fangcheng|-25.00|0.00|Lanshan|0.00|0.00|Rizhao|0.00|0.00|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|Beilun|0.00|0.00|Jiangyin|-20.00|0.00|Lianyungang|-5.00|0.00|Shekou|0.00|0.00|
+|Caofeidian|-20.00|0.00|Jingtang|-10.00|0.00|Majishan|0.00|0.00|Taicang|-20.00|0.00|
+|Dalian|0.00|0.00|Lanqiao|0.00|0.00|Qingdao|0.00|0.00|Tianjin|-10.00|0.00|
+
+## Page 3/6 Jan 5th, 2026
+
 MMi Daily Iron Ore Index Report Jan 5th, 2026
-IRON ORE INDEX PREMIUMS/DISCOUNTS
-50%
-40%
-30%
-20%
-10%
-0%
--10%
--20%
--30%
--40%
--50%
-WEEKLY IRON ORE PORT STOCK LUMP PREMIUM (RMB/DMTU) IRON ORE SEABORNE TO PORT STOCK PRICE SPREADS (USD/DMT)
-TOTAL IRON ORE INVENTORIES AT CHINA PORTS (MILLION TONNES) FUTURE TRADING-FRONT MONTH CLOSING PRICE
-IRON ORE PORT INVENTORIES (MILLION TONNES) IRON ORE FUTURES CONTRACTS
-DRY BULK FREIGHT RATES (USD/MT) TOTAL CHINA IRON ORE IMPORT VOLUMES (MILLION TONNES)
-Page 4/6 Jan 5th, 2026
-COPYRIGHT METALS MARKET INDEX, ALL RIGHTS RESERVED
-12-naJ-41 12-raM-41 12-yaM-41 12-luJ-41 12-peS-41 12-voN-41 22-naJ-41 22-raM-41 22-yaM-41 22-luJ-41 22-peS-41 22-voN-41 32-naJ-41 32-raM-41 32-yaM-41 32-luJ-41 32-peS-41 32-voN-41 42-naJ-41 42-raM-41 42-yaM-41 42-luJ-41 42-peS-41 42-voN-41 52-naJ-41 52-raM-41 52-yaM-41 52-luJ-41 52-peS-41 52-voN-41
-50%
-40%
-30%
-20%
-10%
-0%
--10%
--20%
--30%
--40%
-14-Jan-21 14-Jan-22 14-Jan-23 14-Jan-24 14-Jan-25
-IOPI65 % Spread to IOPI62 IOPI58 % Spread to IOPI62 IOSI65 % Spread to IOSI62
+
+**IRON ORE INDEX PREMIUMS/DISCOUNTS** 50% 40% 30% 20% 10% 0% -10% -20% -30% -40% -50%
+
+14-Jan-2114-Mar-2114-May-2114-Jul-2114-Sep-2114-Nov-2114-Jan-2214-Mar-2214-May-2214-Jul-2214-Sep-2214-Nov-2214-Jan-2314-Mar-2314-May-2314-Jul-2314-Sep-2314-Nov-2314-Jan-2414-Mar-2414-May-2414-Jul-2414-Sep-2414-Nov-2414-Jan-2514-Mar-2514-May-2514-Jul-2514-Sep-2514-Nov-25 IOPI65 % Spread to IOPI62 IOPI58 % Spread to IOPI62
+
+**WEEKLY IRON ORE PORT STOCK LUMP PREMIUM (RMB/DMTU)**
+
 7.00
 6.00
 5.00
@@ -2224,238 +2224,141 @@ IOPI65 % Spread to IOPI62 IOPI58 % Spread to IOPI62 IOSI65 % Spread to IOSI62
 3.00
 2.00
 1.00
-0.00
--1.00
--2.00
-1/1/1202 1/3/1202 1/5/1202 1/7/1202 1/9/1202 1/11/1202 1/1/2202 1/3/2202 1/5/2202 1/7/2202 1/9/2202 1/11/2202 1/1/3202 1/3/3202 1/5/3202 1/7/3202 1/9/3202 1/11/3202 1/1/4202 1/3/4202 1/5/4202 1/7/4202 1/9/4202 1/11/4202 1/1/5202 1/3/5202 1/5/5202 1/7/5202 1/9/5202 1/11/5202
-40
-30
-20
-10
-0
--10
--20
--30
--40
+0.00 -1.00 -2.00 2021/1/12021/3/12021/5/12021/7/12021/9/12021/11/12022/1/12022/3/12022/5/12022/7/12022/9/12022/11/12023/1/12023/3/12023/5/12023/7/12023/9/12023/11/12024/1/12024/3/12024/5/12024/7/12024/9/12024/11/12025/1/12025/3/12025/5/12025/7/12025/9/12025/11/1
 62.5% Fe Lump Premium over 62% Fines RMB/dmtu
-12-naJ-41 12-raM-41 12-yaM-41 12-luJ-41 12-peS-41 12-voN-41 22-naJ-41 22-raM-41 22-yaM-41 22-luJ-41 22-peS-41 22-voN-41 32-naJ-41 32-raM-41 32-yaM-41 32-luJ-41 32-peS-41 32-voN-41 42-naJ-41 42-raM-41 42-yaM-41 42-luJ-41 42-peS-41 42-voN-41 52-naJ-41 52-raM-41 52-yaM-41 52-luJ-41 52-peS-41 52-voN-41
-IOSI65 Spread to IOPI65 Equivalent (5-day average)
-IOSI62 Spread to IOPI62 Equivalent (5-day average)
-160
-150
-140
-130
-120
-110
-100
-90
-12-naJ 12-rpA 12-luJ 12-tcO 22-naJ 22-rpA 22-luJ 22-tcO 32-naJ 32-rpA 32-luJ 32-tcO 42-naJ 42-rpA 42-luJ 42-tcO 52-naJ 52-rpA 52-luJ 52-tcO
+**TOTAL IRON ORE INVENTORIES AT CHINA PORTS (MILLION TONNES)** 160 150 140 130 120 110 100 90
+
+Jan-21Apr-21Jul-21Oct-21Jan-22Apr-22Jul-22Oct-22Jan-23Apr-23Jul-23Oct-23Jan-24Apr-24Jul-24Oct-24Jan-25Apr-25Jul-25Oct-25
+
+**IRON ORE PORT INVENTORIES (MILLION TONNES)**
+
+50% 40% 30% 20% 10% 0% -10% -20% -30% -40% 14-Jan-21 14-Jan-22 14-Jan-23 14-Jan-24 14-Jan-25
+
+IOSI65 % Spread to IOSI62
+
+**IRON ORE SEABORNE TO PORT STOCK PRICE SPREADS (USD/DMT)** 40 30 20 10 0 -10 -20 -30 -40
+
+14-Jan-2114-Mar-2114-May-2114-Jul-2114-Sep-2114-Nov-2114-Jan-2214-Mar-2214-May-22IOSI65 Spread to IOPI65 Equivalent (5-day average) 14-Jul-2214-Sep-2214-Nov-2214-Jan-2314-Mar-2314-May-2314-Jul-2314-Sep-2314-Nov-2314-Jan-2414-Mar-2414-May-2414-Jul-2414-Sep-2414-Nov-2414-Jan-2514-Mar-2514-May-2514-Jul-2514-Sep-2514-Nov-25 IOSI62 Spread to IOPI62 Equivalent (5-day average)
+
+**FUTURE TRADING—FRONT MONTH CLOSING PRICE**
+
 1500.00 250.00
 1400.00 230.00
 1300.00 210.00
-1200.00 190.00 1100.00
+1200.00
+190.00
+1100.00
 170.00
 1000.00
-150.00
 900.00
-130.00
+150.00
+RMB/tonne 130.00 USD/DMT
+
 800.00
 700.00 110.00
 600.00 90.00
-500.00 70.00
-ennot/BMR
-22-naJ-4 22-raM-4 22-yaM-4 22-luJ-4 22-peS-4 22-voN-4 32-naJ-4 32-raM-4 32-yaM-4 32-luJ-4 32-peS-4 32-voN-4 42-naJ-4 42-raM-4 42-yaM-4 42-luJ-4 42-peS-4 42-voN-4 52-naJ-4 52-raM-4 52-yaM-4 52-luJ-4 52-peS-4 52-voN-4 62-naJ-4
-TMD/DSU
+500.00 70.00 4-Jan-224-Mar-224-May-224-Jul-224-Sep-224-Nov-224-Jan-234-Mar-234-May-234-Jul-234-Sep-234-Nov-234-Jan-244-Mar-244-May-244-Jul-244-Sep-244-Nov-244-Jan-254-Mar-254-May-254-Jul-254-Sep-254-Nov-254-Jan-26
 DCE closing price SGX Front Month 5.30pm (RHS)
-60.00
-50.00
-40.00
-30.00
-20.00
-10.00
-0.00
-12-naJ-4 12-raM-4 12-yaM-4 12-luJ-4 12-peS-4 12-voN-4 22-naJ-4 22-raM-4 22-yaM-4 22-luJ-4 22-peS-4 22-voN-4 32-naJ-4 32-raM-4 32-yaM-4 32-luJ-4 32-peS-4 32-voN-4 42-naJ-4 42-raM-4 42-yaM-4 42-luJ-4 42-peS-4 42-voN-4 52-naJ-4 52-raM-4 52-yaM-4 52-luJ-4 52-peS-4 52-voN-4
-Week Ending Jan 2nd, 2026 DCE (RMB/WMT) SGX (USD/DMT)
-Province This week Change % Low 2 High 2 Closing Date Jan 5th, 3pm close Jan 5th, 5:30pm
-Jingtang 14.06 8.07% 8.29 17.20 Contract I2605 Change Change % Jun. 26 Change Change %
-Qingdao 33.23 1.19% 22.28 33.46 Closing Price 797.00 7.50 0.95% 106.15 0.80 0.76%
-Caofeidian 15.14 5.73% 7.56 20.28 Vol traded ('000 lots) 19.55 -5.04 -20.50% 4.13 -3.41 -45.22%
-Tianjin 10.66 -0.93% 6.64 12.36 Open positions ('000 lots) 61.88 2.55 4.29% 35.53 -0.46 -1.27%
-Rizhao 14.62 3.47% 11.52 21.35 Day Low 791.0 6.50 0.83% 105.15 -0.05 -0.05%
-Total (35 Ports) 145.26 2.49% 105.01 150.72 Day High 799.0 3.50 0.44% 106.40 0.40 0.38%
-120
-110
-100
-90
-80
-70
-60
-C5 - W. Australia - Qingdao C3 - Tubarao - Qingdao
 
-[Page 5]
-MMi Daily Iron Ore Index Report Jan 5th, 2026
-STEEL SPOT MARKET PRICES-CHINA CHINESE STEEL MILL PROFITABILITY
-Steel Spot Market RMB/tonne
-Product 2026/01/02 Change Change %
-ReBar HRB400 ɸ18mm 3,171 -10 -0.31%
-Wirerod Q300 ɸ6.5mm 3,361 -11 -0.33%
-HRC Q235/SS400 5.5mm*1500*C 3,261 -5 -0.17%
-CRC SPCC/ST12 1.0mm*1250*2500 3,830 -13 -0.34%
-Medium & Heavy Plate Q235B 20mm 3,360 -10 -0.30%
-GI ST02Z 1.0mm*1000*C 4,110 -10 -0.24%
-Colour Coated Plate 6,350 0 0.00%
-CHINESE STEEL INVENTORIES CHINESE STEEL MILL PROFITABILITY
-1,300
-800
-300
--200
--700
-23-Sep-21 23-Sep-22 23-Sep-23 23-Sep-24 23-Sep-25
-Page 5/6 Jan 5th, 2026
-COPYRIGHT METALS MARKET INDEX, ALL RIGHTS RESERVED
-ennot/BMR
-SMM Tracking of Steel Mill P&L - Rebar and Hot-rolled Coil (RMB/tonne)
-Category Price Change (WoW) Note
-MMi (Fe 62%), USD/mt exluding tax 107.60 -0.73 Mmi CFR Equivalent index for 1st Feb
-Coke 1,660 -55 2nd grade met coke, Tangshan, incl. tax
-Steel Scrap 2,360 0 steel scrap (6mm) in Zhangjiagang, exl. tax
-Billet Cost 2,579 -35 Q234, incl. tax
-Rebar cost - Blast furnace 3,141 -40 calculated based on theoretical weight, incl. tax
-Rebar profit - Blast furnace 39 30 based on Shanghai prices, incl. tax
-Hot-rolled coil cost - Blast furnace 3,224 -40 based on actual weight, incl. tax
-Hot-rolled coil proft - Blast furnace 46 30 based on Shanghai prices, incl. tax
-Note: 1. Costs in the table are caluclated based on todays market prices and facout our management, sales, financial and depreciations fees.
-2. The cost refers to average cost in the industry based on SMM's survey of small, medium and large mills in China
-20
-18
-16
-14
-12
-10
-8
-6
-4
-2
-0
-Rebar Profit for BOF Mill HRC Profit for BOF Mill
-CHINESE STEEL MILL PROFITABILITY-Rebar CHINESE STEEL MILL PROFITABILITY-Hot-rolled Coil
-CHINESE STEEL CONSUMPTION-Rebar CHINESE STEEL CONSUMPTION-Hot-rolled Coil
-CHINESE STEEL PRODUCTION-Rebar CHINESE STEEL PRODUCTION-Hot-rolled Coil
-tm
-noillim
-12-naJ-41 12-raM-41 12-yaM-41 12-luJ-41 12-peS-41 12-voN-41 22-naJ-41 22-raM-41 22-yaM-41 22-luJ-41 22-peS-41 22-voN-41 32-naJ-41 32-raM-41 32-yaM-41 32-luJ-41 32-peS-41 32-voN-41 42-naJ-41 42-raM-41 42-yaM-41 42-luJ-41 42-peS-41 42-voN-41 52-naJ-41 52-raM-41 52-yaM-41 52-luJ-41 52-peS-41 52-voN-41
-Total Social Steel Inventory Total Steel Inventory at Steel Mills
-600.0
-400.0
+**IRON ORE FUTURES CONTRACTS**
+
+|Week Ending Jan 2nd, 2026||DCE (RMB/WMT)|SGX (USD/DMT)|
+|---|---|---|---|
+|2 2 Province This week Change % Low High|Closing Date|Jan 5th, 3pm close|Jan 5th, 5:30pm|
+|Jingtang 14.06 8.07% 8.29 17.20 Qingdao 33.23 1.19% 22.28 33.46 Caofeidian 15.14 5.73% 7.56 20.28 Tianjin 10.66 -0.93% 6.64 12.36 Rizhao 14.62 3.47% 11.52 21.35 Total (35 Ports) 145.26 2.49% 105.01 150.72|Contract Closing Price Vol traded ('000 lots) Open positions ('000 lots) Day Low Day High|I2605 Change Change % 797.00 7.50 0.95% 19.55 -5.04 -20.50% 61.88 2.55 4.29% 791.0 6.50 0.83% 799.0 3.50 0.44%|Jun. 26 Change Change % 106.15 0.80 0.76% 4.13 -3.41 -45.22% 35.53 -0.46 -1.27% 105.15 -0.05 -0.05% 106.40 0.40 0.38%|
+
+**DRY BULK FREIGHT RATES (USD/MT)**
+
+60.00
+
+60.00	120
+50.00	110
+40.00
+100
+30.00
+20.00	90
+10.00	80
+0.00	70
+4-Jan-21 4-Mar-21 4-May-21 4-Jul-21 4-Sep-21 4-Nov-21 4-Jan-22 4-Mar-22 4-May-22 4-Jul-22 4-Sep-22 4-Nov-22 4-Jan-23 4-Mar-23 4-May-23 4-Jul-23 4-Sep-23 4-Nov-23 4-Jan-24 4-Mar-24 4-May-24 4-Jul-24 4-Sep-24 4-Nov-24 4-Jan-25 4-Mar-25 4-May-25 4-Jul-25 4-Sep-25 4-Nov-25	60
+C5 - W. Australia-Qingdao C3 - Tubarao-Qingdao
+
+## Page 4/6
+
+**TOTAL CHINA IRON ORE IMPORT VOLUMES (MILLION TONNES)**
+
+## Jan 5th, 2026
+
+**STEEL SPOT MARKET PRICES—CHINA CHINESE STEEL MILL PROFITABILITY**
+
+|Steel Spot Market RMB/tonne|||SMM Tracking of Steel Mill P&L-Rebar and Hot-rolled Coil (RMB/tonne)||
+|---|---|---|---|---|
+|||Category|Price Change (WoW)|Note|
+|Product|2026/01/02 Change Change %|MMi (Fe 62%), USD/mt exluding tax|107.60 -0.73|Mmi CFR Equivalent index for 1st Feb|
+|ReBar HRB400 ɸ18mm|3,171 -10 -0.31%|Coke|1,660 -55|2nd grade met coke, Tangshan, incl. tax|
+|Wirerod Q300 ɸ6.5mm|3,361 -11 -0.33%|Steel Scrap Billet Cost|2,360 0 2,579 -35|steel scrap (6mm) in Zhangjiagang, exl. tax Q234, incl. tax|
+|HRC Q235/SS400 5.5mm*1500*C|3,261 -5 -0.17%|Rebar cost-Blast furnace|3,141 -40|calculated based on theoretical weight, incl. tax|
+|CRC SPCC/ST12 1.0mm*1250*2500|3,830 -13 -0.34%|Rebar profit-Blast furnace|39 30|based on Shanghai prices, incl. tax|
+|Medium & Heavy Plate Q235B 20mm|3,360 -10 -0.30%|Hot-rolled coil cost-Blast furnace|3,224 -40|based on actual weight, incl. tax|
+|GI ST02Z 1.0mm*1000*C|4,110 -10 -0.24%|Hot-rolled coil proft-Blast furnace|46 30 Note: 1. Cos ts i n the ta bl e a re ca l ucl a ted ba s ed on toda ys ma rket pri ces a nd fa cout our ma na gement, s a l es, fi na nci a l a nd depreci a ti ons fees.|based on Shanghai prices, incl. tax|
+|Colour Coated Plate|6,350 0 0.00%||2. The cos t refers to a vera ge cos t i n the i ndus try ba s ed on SMM's s urvey of s ma l l, medi um a nd l a rge mi l l s i n Chi na||
+
+**CHINESE STEEL INVENTORIES CHINESE STEEL MILL PROFITABILITY**
+
+18 1,300 20 16 12 800 14 10 million mt 6 8 300 4 RMB/tonne 0 -200 2
+
+14-Jan-2114-Mar-2114-May-2114-Jul-2114-Sep-2114-Nov-2114-Jan-2214-Mar-2214-May-2214-Jul-2214-Sep-2214-Nov-2214-Jan-2314-Mar-2314-May-2314-Jul-2314-Sep-2314-Nov-2314-Jan-2414-Mar-2414-May-2414-Jul-2414-Sep-2414-Nov-2414-Jan-2514-Mar-2514-May-2514-Jul-2514-Sep-2514-Nov-25 -700 23-Sep-21 23-Sep-22 23-Sep-23 23-Sep-24 23-Sep-25 Total Social Steel Inventory Total Steel Inventory at Steel Mills Rebar Profit for BOF Mill HRC Profit for BOF Mill
+
+**CHINESE STEEL MILL PROFITABILITY—Rebar CHINESE STEEL MILL PROFITABILITY—Hot-rolled Coil** 2022 2023 2024 2025 2022 2023 2024 2025
+
+600.0 800.00
+400.0 600.00
 200.0
-0.0
--200.0
--400.0
--600.0
--800.0
-01 02 03 04 05 06 07 08 09 10 11 12
-tm/BMR
-2022 2023 2024 2025
-800.00
-600.00
 400.00
 200.00
+0.0
 0.00
--200.00
--400.00
--600.00
--800.00
-01 02 03 04 05 06 07 08 09 10 11 12
-tm/BMR
-2022 2023 2024 2025
-2022 2023 2024 2025 2022 2023 2024 2025
-4500 4000
-3000 3600
-1500 3200
-0 2800
--1500 2400
--3000 2000
-01 02 03 04 05 06 07 08 09 10 11 12 01 02 03 04 05 06 07 08 09 10 11 12
-2022 2023 2024 2025 2022 2023 2024 2025
-4500 3600
-4000
-3400
-3500
-3000 3200
-2500
-3000
-2000
-1500 2800
-01 02 03 04 05 06 07 08 09 10 11 12 01 02 03 04 05 06 07 08 09 10 11 12
+RMB/mt -200.0 RMB/mt -200.00 -400.0 -400.00 -600.0-600.00 -800.0-800.00 01 02 03 04 05 06 07 08 09 10 11 12 01 02 03 04 05 06 07 08 09 10 11 12 **CHINESE STEEL CONSUMPTION—Rebar CHINESE STEEL CONSUMPTION—Hot-rolled Coil** 2022 2023 2024 2025 2022 2023 2024 2025 4500 4000
 
-[Page 6]
-MMi Daily Iron Ore Index Report Jan 5th, 2026
-IRON ORE INDEX SPECIFICATIONS, COMPILATION RATIONALE AND DATA EXCLUSIONS
-Iron Ore Index Specifications (Port and Seaborne) Iron Ore Index Compila(cid:415)on Ra(cid:415)onale and Data Exclusions
-65% Fe Fines 62% Fe Fines 58% Fe Fines 62.5% Fe Lump MMi iron ore indices are compiled from data provided by companies that
-Fe % 65.00 62.00 58.00 62.50 are part of the iron ore supply chain and involved in spot market transac-
-(cid:415)ons. The indices are calculated using detailed transac(cid:415)on-level data
-Alumina % 1.40 2.25 2.25 1.50
-submi(cid:425)ed to MMi by these companies. This data is normalised to the
-Silica% 1.50 4.00 5.50 3.50 appropriate specifica(cid:415)ons and screened to remove outliers before
-volume-weighted average prices are calculated from the remaining core
-Phosphorus % 0.06 0.09 0.05 0.08
-set of data.
-Sulphur % 0.01 0.02 0.02 0.02
-Moisture % 8.00 8.00 9.00 4.00
-Data Exclusions*
-Granular size below 10mm for at least 90% of cargo; Size below 6.3mm max 15%
-Sizing 62% 58% 65%
-maximum of 40% below 150 micron Size above 31.15mm max 25% Port Index 0 0 0
-Seaborne index 0 0
-Pricing Point Qingdao Port (FOT and CFR respectively) FOT Qingdao Port Lump Index 62.5 0
-Timing (Seaborne) Loading within 4 weeks, Delivery within 8 weeks Delivery within 2 weeks * Number of price submissions for iron ore indices that were excluded from
-index calcula(cid:415)ons today as they were anomalous and could not be verified
-Payment Terms L/C at sight L/C at sight or CAD
-IRON ORE DOMESTIC CONCENTRATE INDEX CALCULATION METHODOLOGY
-The compila(cid:415)on method for price index generally refers to the compila(cid:415)on method of CPI price index and other price indices, breakdown the price data and calculate the average value according
-to a certain method, taking the ver(cid:415)cal axis as the regional composite index (average of different grade index) and the horizontal axis as the grade composite index (average of different regional
-index), a total composite index for domes(cid:415)c ore can be output ul(cid:415)mately. The process system is also adopted in the calcula(cid:415)on i.e. each sub-index can be obtained as well.
-AVERAGE IRON ORE SPECIFICATIONS APPLIED FOR BRAND PRICE ASSESSMENTS
-PORT STOCK BRANDS SEABORNE BRANDS
-Jan 5th, 2026 Specifications applied for 62% brand assessments Specifications applied for 62% brand assessments
-Fe Alumina Silica Phos Moisture Fe Alumina Silica Phos Moisture
-Roy Hill 60.88% 2.35% 4.45% 0.055% 9.26% Roy Hill 60.70% 2.30% 4.90% 0.055% 8.00%
-SIMEC Fines 60.00% 2.30% 6.30% 0.060% 6.00% SIMEC Fines 60.00% 2.30% 6.30% 0.060% 6.00%
-PB Fines 61.64% 2.31% 3.87% 0.099% 9.45% PB Fines 62% 62.00% 2.60% 4.30% 0.090% 9.50%
-Newman Fines 62.49% 2.31% 3.98% 0.090% 7.72% Newman Fines 62.30% 2.40% 4.40% 0.090% 8.00%
-MAC Fines 60.43% 2.38% 4.64% 0.078% 7.57% MAC Fines 60.80% 2.35% 4.70% 0.080% 7.80%
-Jimblebar Blended Fines 60.87% 2.95% 4.53% 0.111% 7.32% Jimblebar Blended Fines 60.50% 3.00% 4.50% 0.120% 8.00%
-Carajas Fines 64.90% 1.39% 1.82% 0.080% 7.78% Carajas Fines 65.10% 1.50% 1.70% 0.080% 8.50%
-Brazilian SSF 62.00% 1.00% 6.50% 0.040% 6.00% Brazilian SSF 62.00% 1.00% 6.50% 0.040% 6.00%
-Brazilian Blend Fines 62.56% 1.58% 4.79% 0.091% 8.72% Brazilian Blend Fines 63.00% 1.50% 5.00% 0.070% 7.00%
-RTX Fines 61.00% 3.10% 4.50% 0.135% 7.50% RTX Fines 61.00% 3.10% 4.50% 0.135% 7.50%
-West Pilbara Fines 60.10% 2.30% 4.70% 0.075% 8.50% West Pilbara Fines 60.10% 2.30% 4.70% 0.075% 8.50%
-Jan 5th, 2026 Specifications applied for 58% brand assessments
-Fe Alumina Silica Phos Moisture
-SSF 56.49% 3.20% 6.19% 0.065% 9.18%
-FMG Blended Fines 58.20% 2.43% 5.54% 0.057% 8.29%
-Robe River 56.44% 3.16% 5.73% 0.042% 8.44%
-Western Fines 57.88% 2.87% 7.50% 0.062% 7.45%
-Atlas Fines 58.00% 1.85% 5.50% 0.090% 9.00%
-Yandi 56.87% 1.58% 6.41% 0.042% 9.53%
-BLOOMBERG TICKERS
-PORT STOCK INDICES SEABORNE INDICES
-FOT Qingdao (RMB/wet tonne) CFR Qingdao Equivalent (USD/dry tonne) CFR Qingdao (USD/DMT)
-IOPI62 IRCNQ001 IRCNQ004 IOSI62 IRCN0034
-IOPI58 IRCNQ002 IRCNQ005 IOSI65 IRCN0035
-IOPI65 IRCNQ003 IRCNQ006
-IOPLI62 IRCN0036 IRCN0037
-CONTACT US
-MMI Singapore Office Details: Level 28, Manulife Tower, 8 Cross Street Singapore. Tel: + 65 6850 7629 E: prices@mmiprices.com
-SMM Singapore Office Details: Level 28, Manulife Tower, 8 Cross Street Singapore. Tel: + 65 6850 7630 E: service.en@smm.cn
-SMM Shanghai Office Details: 9th FL, Building 9, Lujiazui So(cid:332)ware Park, No.20, Lane 91, Pudong, Shanghai Tel: +86 021 5155 0306 E: service.en@smm.cn
-This informa(cid:415)on has been prepared by Metals Market Index ("MMi"). Use of the informa(cid:415)on presented here is at your sole risk, and any content, material and/or data presented or otherwise obtained through your use of the informa(cid:415)on in this document is at your own
-discre(cid:415)on and risk and you will be solely responsible for any damage to you personally or your company or organisa(cid:415)on or business associates whatsoever which in anyway results from the use, reliance or applica(cid:415)on of such content material and/or informa(cid:415)on. Certain
-data has been obtained from various sources and any copyright exis(cid:415)ng in such data shall remain the property of the source. Except for the foregoing, MMi retains all copyright within this document. The copying or redistribu(cid:415)on of any part of this document without the
-express wri(cid:425)en authority of MMi is forbidden.
-Page 6/6 Jan 5th, 2026
-COPYRIGHT METALS MARKET INDEX, ALL RIGHTS RESERVED
+3000 3600
+
+1500 3200
+
+0 2800
+
+-1500 2400
+
+-3000 2000 01 02 03 04 05 06 07 08 09 10 11 12 01 02 03 04 05 06 07 08 09 10 11 12 **CHINESE STEEL PRODUCTION—Rebar CHINESE STEEL PRODUCTION—Hot-rolled Coil** 2022 2023 2024 2025 2022 2023 2024 2025 4500 3600 4000 3400 3500 3000 3200
+
+## Page 5/6 Jan 5th, 2026
+
+**IRON ORE INDEX SPECIFICATIONS, COMPILATION RATIONALE AND DATA EXCLUSIONS**
+
+|Fe % Alumina % Silica% Phosphorus % Sulphur % Moisture % Sizing Pricing Point Timing (Seaborne) Payment Terms|Iron Ore Index Specifications (Port and Seaborne) 65% Fe Fines 62% Fe Fines 58% Fe Fines 65.00 62.00 58.00 1.40 2.25 2.25 1.50 4.00 5.50 0.06 0.09 0.05 0.01 0.02 0.02 8.00 8.00 9.00 Granular size below 10mm for at least 90% of cargo; maximum of 40% below 150 micron Qingdao Port (FOT and CFR respectively) Loading within 4 weeks, Delivery within 8 weeks L/C at sight|62.5% Fe Lump 62.50 1.50 3.50 0.08 0.02 4.00 Size below 6.3mm max 15% Size above 31.15mm max 25% FOT Qingdao Port Delivery within 2 weeks L/C at sight or CAD|Iron Ore Index Compila�on Ra�onale and Data Exclusions|
+|---|---|---|---|
+||||MMi iron ore indices are compiled from data provided by companies that are part of the iron ore supply chain and involved in spot market transac- �ons. The indices are calculated using detailed transac�on-level data submi�ed to MMi by these companies. This data is normalised to the appropriate specifica�ons and screened to remove outliers before volume-weighted average prices are calculated from the remaining core set of data. Data Exclusions* 62% 58% 65% Port Index 0 0 0 Seaborne index 0 0 Lump Index 62.5 0 * Number of price submissions for iron ore indices that were excluded from index calcula�ons today as they were anomalous and could not be verified|
+
+**IRON ORE DOMESTIC CONCENTRATE INDEX CALCULATION METHODOLOGY** The compila�on method for price index generally refers to the compila�on method of CPI price index and other price indices, breakdown the price data and calculate the average value according to a certain method, taking the ver�cal axis as the regional composite index (average of different grade index) and the horizontal axis as the grade composite index (average of different regional index), a total composite index for domes�c ore can be output ul�mately. The process system is also adopted in the calcula�on i.e. each sub-index can be obtained as well.
+
+**AVERAGE IRON ORE SPECIFICATIONS APPLIED FOR BRAND PRICE ASSESSMENTS** **PORT STOCK BRANDS SEABORNE BRANDS**
+
+|Jan 5th, 2026 Roy Hill SIMEC Fines PB Fines Newman Fines MAC Fines Jimblebar Blended Fines Carajas Fines Brazilian SSF Brazilian Blend Fines RTX Fines West Pilbara Fines|Specifications applied for 62% brand assessments Fe Alumina Silica Phos Moisture 60.88% 2.35% 4.45% 0.055% 9.26% 60.00% 2.30% 6.30% 0.060% 6.00% 61.64% 2.31% 3.87% 0.099% 9.45% 62.49% 2.31% 3.98% 0.090% 7.72% 60.43% 2.38% 4.64% 0.078% 7.57% 60.87% 2.95% 4.53% 0.111% 7.32% 64.90% 1.39% 1.82% 0.080% 7.78% 62.00% 1.00% 6.50% 0.040% 6.00% 62.56% 1.58% 4.79% 0.091% 8.72% 61.00% 3.10% 4.50% 0.135% 7.50% 60.10% 2.30% 4.70% 0.075% 8.50%|Roy Hill SIMEC Fines PB Fines 62% Newman Fines MAC Fines Jimblebar Blended Fines Carajas Fines Brazilian SSF Brazilian Blend Fines RTX Fines West Pilbara Fines|Specifications applied for 62% brand assessments Fe Alumina Silica Phos Moisture 60.70% 2.30% 4.90% 0.055% 8.00% 60.00% 2.30% 6.30% 0.060% 6.00% 62.00% 2.60% 4.30% 0.090% 9.50% 62.30% 2.40% 4.40% 0.090% 8.00% 60.80% 2.35% 4.70% 0.080% 7.80% 60.50% 3.00% 4.50% 0.120% 8.00% 65.10% 1.50% 1.70% 0.080% 8.50% 62.00% 1.00% 6.50% 0.040% 6.00% 63.00% 1.50% 5.00% 0.070% 7.00% 61.00% 3.10% 4.50% 0.135% 7.50% 60.10% 2.30% 4.70% 0.075% 8.50%|
+|---|---|---|---|
+|Jan 5th, 2026 SSF FMG Blended Fines Robe River Western Fines Atlas Fines Yandi|Specifications applied for 58% brand assessments Fe Alumina Silica Phos Moisture 56.49% 3.20% 6.19% 0.065% 9.18% 58.20% 2.43% 5.54% 0.057% 8.29% 56.44% 3.16% 5.73% 0.042% 8.44% 57.88% 2.87% 7.50% 0.062% 7.45% 58.00% 1.85% 5.50% 0.090% 9.00% 56.87% 1.58% 6.41% 0.042% 9.53%|||
+
+**BLOOMBERG TICKERS** **PORT STOCK INDICES SEABORNE INDICES** **FOT Qingdao (RMB/wet tonne) CFR Qingdao Equivalent (USD/dry tonne) CFR Qingdao (USD/DMT)**
+
+||FOT Qingdao (RMB/wet tonne)|||CFR Qingdao (USD/DMT)|
+|---|---|---|---|---|
+|IOPI62|IRCNQ001|IRCNQ004|IOSI62|IRCN0034|
+|IOPI58|IRCNQ002|IRCNQ005|IOSI65|IRCN0035|
+|IOPI65|IRCNQ003|IRCNQ006|||
+|IOPLI62|IRCN0036|IRCN0037|||
+
+**CONTACT US** **MMI Singapore Office Details**: Level 28, Manulife Tower, 8 Cross Street Singapore. Tel: + 65 6850 7629 E: prices@mmiprices.com **SMM Singapore Office Details**: Level 28, Manulife Tower, 8 Cross Street Singapore. Tel: + 65 6850 7630 E: service.en@smm.cn **SMM Shanghai Office Details:** 9th FL, Building 9, Lujiazui Soware Park, No.20, Lane 91, Pudong, Shanghai Tel: +86 021 5155 0306 E: service.en@smm.cn
+
+This informa�on has been prepared by Metals Market Index ("MMi"). Use of the informa�on presented here is at your sole risk, and any content, material and/or data presented or otherwise obtained through your use of the informa�on in this document is at your own discre�on and risk and you will be solely responsible for any damage to you personally or your company or organisa�on or business associates whatsoever which in anyway results from the use, reliance or applica�on of such content material and/or informa�on. Certain data has been obtained from various sources and any copyright exis�ng in such data shall remain the property of the source. Except for the foregoing, MMi retains all copyright within this document. The copying or redistribu�on of any part of this document without the express wri�en authority of MMi is forbidden.
+
+## Page 6/6 Jan 5th, 2026
 
 ## Linked asset: 2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_img1_05012026chinese_957ae5e87c3d.jpg
 Source asset: reports/hellenic/iron_ore/2026/assets/2026-01-05_mmi-daily-iron-ore-index-report-january-05-2026_img1_05012026chinese_957ae5e87c3d.jpg
@@ -2467,7 +2370,29 @@ Image metadata: JPEG 1600x743 mode=RGB
 Embedded info:
 dpi: (96, 96)
 
-OCR text:
+[structured table]
+| MMi | Daily Iron Ore | Index | Report |  |  |  |  |  |  |  |  |  | Jan Sth, | 2026 |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|  |  |  |  |  |  | IRON ORE | PORT STOCK | INDEX | (IOP!) |  |  |  |  |  |  |
+| Jan Sth, | 2026 |  | FOT | Qingdao (inc. | 13% VAT), | RMB/wet | tonne |  | \| | CFR Qingdao | Equivalent | (exc. 13% | VAT), USD/dry | tonne ' |  |
+|  | \| |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Index | Fe Content | Price | Change | Change% | MTD | YTD | Low? | High? | Price | Change | Change% | MTD | YTD | Low? | High? |
+| 1OPI62 | \| 62%FeFines\| | 813 | 4 | -0.5% | 787 | 831 | 683 | 1063. | \| 107.47 | -0.51 | 0.5% | 102.16 | 108.34 | 89.33 | 140.24 |
+| 1OPI58 |  | 718 | -13 | -1.8% | 691 | 729 | 610 | 963 | 95.51 | -1.75 | 1.8% | 90.22 | 9556 | 80.25 | 128.13 |
+| 1OPI65 | 65% FeFines\| | 899 | -30 | -3.2% | 899 | 943 | 794 | 1175 | 119.23 | -4.07 | -3.3% | 117.19 | 123.39 | 104.47 | 155.37 |
+|  |  | IRON | ORE | SEABORNE | INDEX (IOSI) |  |  |  |  |  | MARKET | COMMENTARY |  |  |  |
+| Jan Sth, | 2026 | \| |  | CFR Qingdao, | USD/dry | tonne |  |  |  |  |  |  | ee |  |  |
+| index | FeContent | \| Price | Change | Change% | MTD | YTD | low? | High? | \|\| See |  |  |  | ea |  |  |
+| losi62 | 62%FeFines\| | 105.95 | -1.26 | -1.17% | 10349 | 10955 | 89.79 | 142.65 | \|\| |  |  |  |  |  |  |
+| 1OSI65 | 65% FeFines\| | 121.35 | 0.33 |  | (11486 | 12393 | 9823 |  | \|\| |  |  |  |  |  |  |
+|  |  |  |  |  |  | IRON ORE | PORT | LUMP INDEX | (IOPLI) |  |  |  |  |  |  |
+| [Week Ending | Jan 2nd, 2026 |  | FOT | Qingdao (inc. | 13% VAT), | RMB/wet | tonne |  |  | CFR Qingdao | Equivalent | (exc. 13% | VAT), USD/dry | tonne |  |
+| Index | FeContent \| | Price | W-o-W | Change% | MTD | YTD | Low? | High? | Price | W-oW | Change% | MTD | YTD | Low * | High? |
+|  | \| 62.5% | 865 | 3 | 0.3% | 899 | 960 | 820 | 1210 | 109.50 | 0.59 | 0.54% | 112.34 | 120.41 | 102.77 | 153.57 |
+|  |  |  |  |  |  |  |  |  | \| |  |  |  |  |  |  |
+|  |  |  |  | www.mmiprices.com |  |  |  |  |  |  | jarek@mmiprices.com |  |  |  |  |
+
+[raw ocr]
 MMi Daily Iron Ore Index Report Jan Sth, 2026
 IRON ORE PORT STOCK INDEX (IOP!)
 JanSth,2026 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne '

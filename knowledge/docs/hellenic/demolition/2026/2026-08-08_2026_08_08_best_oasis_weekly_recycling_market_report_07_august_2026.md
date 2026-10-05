@@ -5,6 +5,7 @@ commodities:
 date: '2026-08-08'
 doc_id: hellenic_demolition_2026-08-08_2026_08_08_best_oasis_weekly_recycling_market_report_07_august_2026
 document_type: demolition_update
+is_error_page: false
 key_entities:
 - China
 keywords:
@@ -28,8 +29,7 @@ linked_assets_skipped: 0
 market_tone: constructive
 numeric_observation_count: 22
 numeric_observations:
-- &id001
-  section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+- section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
   section_type: linked_pdf
   source_line: (01 AUGUST - 07 AUGUST) 2026
   unit: null
@@ -37,8 +37,7 @@ numeric_observations:
   - 1.0
   - 7.0
   - 2026.0
-- &id002
-  section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+- section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
   section_type: linked_pdf
   source_line: 'Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers,
     Dubai, U.A.E'
@@ -46,8 +45,7 @@ numeric_observations:
   values:
   - 3201.0
   - 1.0
-- &id003
-  section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+- section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
   section_type: linked_pdf
   source_line: 'Contact: +971 4575 4667 Visit : www.best-oasis.com Email: bol@bol.ae'
   unit: null
@@ -55,48 +53,43 @@ numeric_observations:
   - 971.0
   - 4575.0
   - 4667.0
-- &id004
-  section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+- section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
   section_type: linked_pdf
   source_line: 'BRENT CRUDE: (90.36 82.17) - 8.19'
   unit: null
   values:
-  - 90360.0
-  - 82170.0
-  - 8189.999999999999
-- &id005
-  section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+  - 90.36
+  - 82.17
+  - 8.19
+- section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
   section_type: linked_pdf
   source_line: 'WTI CRUDE : (85.22 77.11) -8.11'
   unit: null
   values:
-  - 85220.0
-  - 77110.0
+  - 85.22
+  - 77.11
   - -8.11
-- &id006
-  section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+- section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
   section_type: linked_pdf
   source_line: 'This Week : 95.19 This Week : 123.99 This Week : 277.97 This Week
     : 47.7'
   unit: null
   values:
-  - 95190.0
+  - 95.19
   - 123.99
   - 277.97
-  - 47700.0
-- &id007
-  section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+  - 47.7
+- section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
   section_type: linked_pdf
   source_line: 'Previous Week : 95.52 Previous Week : 123.5 Previous Week : 277.85
     Previous Week : 47.5'
   unit: null
   values:
-  - 95520.0
+  - 95.52
   - 123.5
   - 277.85
-  - 47500.0
-- &id008
-  section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+  - 47.5
+- section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
   section_type: linked_pdf
   source_line: 'Gain : 0.33 Loss : 0.49 Loss : 0.12 Loss : 0.2'
   unit: null
@@ -105,8 +98,7 @@ numeric_observations:
   - 0.49
   - 0.12
   - 0.2
-- &id009
-  section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+- section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
   section_type: linked_pdf
   source_line: PPRRIICCEE OOFF HHMMSS 11&&22 ((8800::2200)) AANNDD SSHHRREEDDDDEEDD
   unit: null
@@ -115,48 +107,42 @@ numeric_observations:
   - 22.0
   - 8800.0
   - 2200.0
-- &id010
-  section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+- section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
   section_type: linked_pdf
   source_line: LOCATION HMS 1&2 Shredded W-O-W CHANGE (%)
   unit: pct
   values:
   - 1.0
   - 2.0
-- &id011
-  section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+- section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
   section_type: linked_pdf
   source_line: INDIA 385 395 (0)
   unit: null
   values:
   - 385.0
   - 395.0
-- &id012
-  section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+- section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
   section_type: linked_pdf
   source_line: BANGLADESH 385 395 (0)
   unit: null
   values:
   - 385.0
   - 395.0
-- &id013
-  section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+- section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
   section_type: linked_pdf
   source_line: PAKISTAN 390 395 (0)
   unit: null
   values:
   - 390.0
   - 395.0
-- &id014
-  section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+- section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
   section_type: linked_pdf
   source_line: TURKEY 375 395 (0)
   unit: null
   values:
   - 375.0
   - 395.0
-- &id015
-  section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+- section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
   section_type: linked_pdf
   source_line: INDIA FIRM 460 430 415 (+ 2.35)
   unit: null
@@ -165,8 +151,7 @@ numeric_observations:
   - 430.0
   - 415.0
   - 2.35
-- &id016
-  section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+- section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
   section_type: linked_pdf
   source_line: BANGLADESH FIRM 510 500 455 (+ 2.09)
   unit: null
@@ -175,8 +160,7 @@ numeric_observations:
   - 500.0
   - 455.0
   - 2.09
-- &id017
-  section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+- section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
   section_type: linked_pdf
   source_line: PAKISTAN FIRM 490 480 470 (+ 2.13)
   unit: null
@@ -185,8 +169,7 @@ numeric_observations:
   - 480.0
   - 470.0
   - 2.13
-- &id018
-  section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+- section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
   section_type: linked_pdf
   source_line: TURKEY MODERATE 285 275 265 (0)
   unit: null
@@ -194,31 +177,27 @@ numeric_observations:
   - 285.0
   - 275.0
   - 265.0
-- &id019
-  section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+- section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
   section_type: linked_pdf
   source_line: WANG CHI MOTORTANKER 11,111 DELIVERED CHINA UNDISCLOSED
   unit: null
   values:
   - 11111.0
-- &id020
-  section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+- section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
   section_type: linked_pdf
   source_line: ORANGE LINK BULKER 3,846 DELIVERED CHITTAGONG,BANGLADESH 465
   unit: null
   values:
   - 3846.0
   - 465.0
-- &id021
-  section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+- section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
   section_type: linked_pdf
   source_line: FORTUNE 8 MPP 1,103 DELIVERED GADANI, PAKISTAN UNDISCLOSED
   unit: null
   values:
   - 8.0
   - 1103.0
-- &id022
-  section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+- section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
   section_type: linked_pdf
   source_line: KRONPRINS FREDERIK 8,010 DELIVERED DENMARK UNDISCLOSED
   unit: null
@@ -232,28 +211,180 @@ section_count: 2
 signals:
   numeric_observation_count: 22
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
+  - section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+    section_type: linked_pdf
+    source_line: (01 AUGUST - 07 AUGUST) 2026
+    unit: null
+    values:
+    - 1.0
+    - 7.0
+    - 2026.0
+  - section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+    section_type: linked_pdf
+    source_line: 'Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers,
+      Dubai, U.A.E'
+    unit: null
+    values:
+    - 3201.0
+    - 1.0
+  - section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+    section_type: linked_pdf
+    source_line: 'Contact: +971 4575 4667 Visit : www.best-oasis.com Email: bol@bol.ae'
+    unit: null
+    values:
+    - 971.0
+    - 4575.0
+    - 4667.0
+  - section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+    section_type: linked_pdf
+    source_line: 'BRENT CRUDE: (90.36 82.17) - 8.19'
+    unit: null
+    values:
+    - 90360.0
+    - 82170.0
+    - 8189.999999999999
+  - section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+    section_type: linked_pdf
+    source_line: 'WTI CRUDE : (85.22 77.11) -8.11'
+    unit: null
+    values:
+    - 85220.0
+    - 77110.0
+    - -8.11
+  - section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+    section_type: linked_pdf
+    source_line: 'This Week : 95.19 This Week : 123.99 This Week : 277.97 This Week
+      : 47.7'
+    unit: null
+    values:
+    - 95190.0
+    - 123.99
+    - 277.97
+    - 47700.0
+  - section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+    section_type: linked_pdf
+    source_line: 'Previous Week : 95.52 Previous Week : 123.5 Previous Week : 277.85
+      Previous Week : 47.5'
+    unit: null
+    values:
+    - 95520.0
+    - 123.5
+    - 277.85
+    - 47500.0
+  - section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+    section_type: linked_pdf
+    source_line: 'Gain : 0.33 Loss : 0.49 Loss : 0.12 Loss : 0.2'
+    unit: null
+    values:
+    - 0.33
+    - 0.49
+    - 0.12
+    - 0.2
+  - section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+    section_type: linked_pdf
+    source_line: PPRRIICCEE OOFF HHMMSS 11&&22 ((8800::2200)) AANNDD SSHHRREEDDDDEEDD
+    unit: null
+    values:
+    - 11.0
+    - 22.0
+    - 8800.0
+    - 2200.0
+  - section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+    section_type: linked_pdf
+    source_line: LOCATION HMS 1&2 Shredded W-O-W CHANGE (%)
+    unit: pct
+    values:
+    - 1.0
+    - 2.0
+  - section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+    section_type: linked_pdf
+    source_line: INDIA 385 395 (0)
+    unit: null
+    values:
+    - 385.0
+    - 395.0
+  - section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+    section_type: linked_pdf
+    source_line: BANGLADESH 385 395 (0)
+    unit: null
+    values:
+    - 385.0
+    - 395.0
+  - section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+    section_type: linked_pdf
+    source_line: PAKISTAN 390 395 (0)
+    unit: null
+    values:
+    - 390.0
+    - 395.0
+  - section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+    section_type: linked_pdf
+    source_line: TURKEY 375 395 (0)
+    unit: null
+    values:
+    - 375.0
+    - 395.0
+  - section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+    section_type: linked_pdf
+    source_line: INDIA FIRM 460 430 415 (+ 2.35)
+    unit: null
+    values:
+    - 460.0
+    - 430.0
+    - 415.0
+    - 2.35
+  - section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+    section_type: linked_pdf
+    source_line: BANGLADESH FIRM 510 500 455 (+ 2.09)
+    unit: null
+    values:
+    - 510.0
+    - 500.0
+    - 455.0
+    - 2.09
+  - section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+    section_type: linked_pdf
+    source_line: PAKISTAN FIRM 490 480 470 (+ 2.13)
+    unit: null
+    values:
+    - 490.0
+    - 480.0
+    - 470.0
+    - 2.13
+  - section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+    section_type: linked_pdf
+    source_line: TURKEY MODERATE 285 275 265 (0)
+    unit: null
+    values:
+    - 285.0
+    - 275.0
+    - 265.0
+  - section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+    section_type: linked_pdf
+    source_line: WANG CHI MOTORTANKER 11,111 DELIVERED CHINA UNDISCLOSED
+    unit: null
+    values:
+    - 11111.0
+  - section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+    section_type: linked_pdf
+    source_line: ORANGE LINK BULKER 3,846 DELIVERED CHITTAGONG,BANGLADESH 465
+    unit: null
+    values:
+    - 3846.0
+    - 465.0
+  - section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+    section_type: linked_pdf
+    source_line: FORTUNE 8 MPP 1,103 DELIVERED GADANI, PAKISTAN UNDISCLOSED
+    unit: null
+    values:
+    - 8.0
+    - 1103.0
+  - section: 'Linked asset: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026_weekly-ship-recycling-report-01-augu_7c7df445bf7b.pdf'
+    section_type: linked_pdf
+    source_line: KRONPRINS FREDERIK 8,010 DELIVERED DENMARK UNDISCLOSED
+    unit: null
+    values:
+    - 8010.0
 source: hellenic
 source_path: reports/hellenic/demolition/2026/2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026.html
 source_stem: 2026-08-08_best-oasis-weekly-recycling-market-report-07-august-2026

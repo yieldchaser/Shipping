@@ -9,25 +9,25 @@
   "section_path_text": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNEW BUILDING: In tankers, Wuhu shipyard announced taking order for a firm 5k dwt Shuttle tanker from Shanghai North Sea Shipping\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2021-09-03_clarkson-platou-hellas-sp-weekly-bulletin-116_report-03-09-2021_10d3196bd5bb.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2021-09-03_clarkson-platou-hellas-sp-weekly-bulletin-116_report-03-09-2021_10d3196bd5bb.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 03 September 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 06/26 XS USD 44 M each\nSTELLA NAOMI 181,031\nDD 06/24 (TC attached at 120% of\n2016 SWS MAN-B&W 6G70ME-C9.2 average BCI 4 TC route U/D\nBWTS fitted until end of 2021/early 2022\nSS 06/26\nSTELLA NORA 180,000 with further\nDD 06/24 2 year option thereafter.)\nDELY JULY 2022 MAN-B&W 6S60ME-C8.5 USD 36.03 M\nSDTR IRENE 84,972 N/A CHINESE\nex SHANHAIGUAN TIER III, BWTS fitted (Auction - online platform)\nSS 07/22\nRANGER 82,172 2012 TSUNEISHI ZHOUSHAN MAN-B&W 6S60MC-C RGN USD 24 M U/D\nDD 07/22\nMAN-B&W 6S46MC-C SS 01/22 HK BASED\nNICOLINE BULKER 38,191 2012 NAIKAI RGN USD 20 M\n4 x 30 T DD 01/22 (c/o Pacific Basin)\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT",
+  "summary": "Main\nNEW BUILDING: In tankers, Wuhu shipyard announced taking order for a firm 5k dwt Shuttle tanker from Shanghai North Sea Shipping\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2021-09-03_clarkson-platou-hellas-sp-weekly-bulletin-116_report-03-09-2021_10d3196bd5bb.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2021-09-03_clarkson-platou-hellas-sp-weekly-bulletin-116_report-03-09-2021_10d3196bd5bb.pdf\n\n# Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 03 September 2021\n\n## BULK CARRIERS\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|STELLA NAOMI|181,031|2016 SWS|MAN-B&W 6G70ME BWTS fitted -C9.2|SS 06/26 DD 06/24|XS USD 44 M each (TC attached at 120% of average BCI 4 TC route until end of 2021/early 2022 with further 2 year option thereafter.)|U/D|\n|STELLA NORA|180,000|||SS 06/26 DD 06/24|||\n|SDTR IRENE|84,972|DELY JULY 2022 ex SHANHAIGUAN|MAN -B&W 6S60ME -C8.5 TIER III, BWTS fitted|N/A|USD 36. 03 M (Auction-online p latform)|CHINESE|\n|RANGER|82,172|2012 TSUNEISHI ZHOUSHAN|MAN-B&W 6S60MC-C|SS 07/22 DD 07/22|RGN USD 24 M|U/D|\n|NICOLINE BULKER|38,191|2012 NAIKAI|MAN-B&W 6S46MC -C 4 x 30 T|SS 01/22 DD 0 1/22|RGN USD 20 M|HK BASED (c/o Pac if",
   "keywords": [
     "handysize",
     "lng",
     "lpg",
     "container",
     "china",
-    "pacific",
     "europe",
     "india",
     "japan",
     "steel",
     "gas",
-    "any"
+    "platou",
+    "clarksons"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2147,
-  "source_path": "corpus/02-hellenic/shipbuilding/2021/2021-09-03_clarkson-platou-hellas-sp-weekly-bulletin-116.html",
+  "token_count": 2501,
+  "source_path": "reports/hellenic/shipbuilding/2021/2021-09-03_clarkson-platou-hellas-sp-weekly-bulletin-116.html",
   "source_url": "https://www.hellenicshippingnews.com/clarkson-platou-hellas-sp-weekly-bulletin-116",
   "children": [
     {
@@ -69,20 +69,20 @@
       "section_path_text": "Linked asset: 2021-09-03_clarkson-platou-hellas-sp-weekly-bulletin-116_report-03-09-2021_10d3196bd5bb.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-09-03_clarkson-platou-hellas-sp-weekly-bulletin-116_report-03-09-2021_10d3196bd5bb.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 03 September 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 06/26 XS USD 44 M each\nSTELLA NAOMI 181,031\nDD 06/24 (TC attached at 120% of\n2016 SWS MAN-B&W 6G70ME-C9.2 average BCI 4 TC route U/D\nBWTS fitted until end of 2021/early 2022\nSS 06/26\nSTELLA NORA 180,000 with further\nDD 06/24 2 year option thereafter.)\nDELY JULY 2022 MAN-B&W 6S60ME-C8.5 USD 36.03 M\nSDTR IRENE 84,972 N/A CHINESE\nex SHANHAIGUAN TIER III, BWTS fitted (Auction - online platform)\nSS 07/22\nRANGER 82,172 2012 TSUNEISHI ZHOUSHAN MAN-B&W 6S60MC-C RGN USD 24 M U/D\nDD 07/22\nMAN-B&W 6S46MC-C SS 01/22 HK BASED\nNICOLINE BULKER 38,191 2012 NAIKAI RGN USD 20 M\n4 x 30 T DD 01/22 (c/o Pacific Basin)\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\n- - - - - - -\nPage 1 of 3\n\n[Page 2]\n1\nSale and Purchase\nHellas S&P Weekly Bulletin 03 September 2021\nNEW BUILDING\nIn tankers, Wuhu shipyard announced taking order for a firm 5k dwt Shuttle tanker from Shanghai North Sea Shipping, with delivery expec",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-09-03_clarkson-platou-hellas-sp-weekly-bulletin-116_report-03-09-2021_10d3196bd5bb.pdf\n\n# Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 03 September 2021\n\n## BULK CARRIERS\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|STELLA NAOMI|181,031|2016 SWS|MAN-B&W 6G70ME BWTS fitted -C9.2|SS 06/26 DD 06/24|XS USD 44 M each (TC attached at 120% of average BCI 4 TC route until end of 2021/early 2022 with further 2 year option thereafter.)|U/D|\n|STELLA NORA|180,000|||SS 06/26 DD 06/24|||\n|SDTR IRENE|84,972|DELY JULY 2022 ex SHANHAIGUAN|MAN -B&W 6S60ME -C8.5 TIER III, BWTS fitted|N/A|USD 36. 03 M (Auction-online p latform)|CHINESE|\n|RANGER|82,172|2012 TSUNEISHI ZHOUSHAN|MAN-B&W 6S60MC-C|SS 07/22 DD 07/22|RGN USD 24 M|U/D|\n|NICOLINE BULKER|38,191|2012 NAIKAI|MAN-B&W 6S46MC -C 4 x 30 T|SS 01/22 DD 0 1/22|RGN USD 20 M|HK BASED (c/o Pac ific Basin)|\n\n## <u>TANKERS - CHEMICALS - LPG/LNGs</u>\n\nVESSEL <u>DWT</u> BLT DETAILS <u>SS/DD</u> PRICE BUYER\n\n**-**------\n\n## NEW BUILDING\n\nIn tankers, Wuhu shipyard announced taking order for a firm 5k dwt Shuttle tanker from Shanghai North Sea Shipping, with delivery expected",
       "keywords": [
         "handysize",
         "lng",
         "lpg",
         "container",
         "china",
-        "pacific",
         "europe",
-        "india"
+        "india",
+        "japan"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2058,
+      "token_count": 2412,
       "section_type": "linked_pdf",
       "children": []
     }

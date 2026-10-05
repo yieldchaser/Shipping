@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2021_03_19_the_beginning_of_the_end__root",
+  "doc_id": "poten_tankers_no_date_poten_2021_03_19_the_beginning_of_the_end",
+  "parent_id": null,
+  "title": "The Beginning of the End",
+  "section_path": [
+    "The Beginning of the End"
+  ],
+  "section_path_text": "The Beginning of the End",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "IEA expects lower oil demand growth post Covid-19\nThis week, the IEA published \"Oil 2021 - Analysis and Forecast to 2026\", its medium-term outlook for oil supply and demand. The changes compared to last years' outlook are quite significant, but not unexpected. Not only did the Covid-19 crisis cause an unprecedented collapse in oil demand, it also permanently changed behaviors and it seems to have refocused global governments attention on the need to address climate change and reduce carbon emissions.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "brazil",
+    "australia",
+    "atlantic",
+    "pacific",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "demand",
+    "oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 907,
+  "source_path": "reports/poten/2021/poten_2021-03-19_the-beginning-of-the-end.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2021_03_19_the_beginning_of_the_end__s01_iea_expects_lower_oil_demand_growth_post_covid_19",
+      "doc_id": "poten_tankers_no_date_poten_2021_03_19_the_beginning_of_the_end",
+      "parent_id": "poten_tankers_no_date_poten_2021_03_19_the_beginning_of_the_end__root",
+      "title": "IEA expects lower oil demand growth post Covid-19",
+      "section_path": [
+        "IEA expects lower oil demand growth post Covid-19"
+      ],
+      "section_path_text": "IEA expects lower oil demand growth post Covid-19",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This week, the IEA published \"Oil 2021 - Analysis and Forecast to 2026\", its medium-term outlook for oil supply and demand. The changes compared to last years' outlook are quite significant, but not unexpected.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "brazil",
+        "australia",
+        "atlantic",
+        "pacific",
+        "europe",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 895,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

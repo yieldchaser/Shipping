@@ -1,0 +1,139 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2004_12_03_gyrating_bunker_prices__root",
+  "doc_id": "poten_tankers_no_date_poten_2004_12_03_gyrating_bunker_prices",
+  "parent_id": null,
+  "title": "Gyrating Bunker Prices",
+  "section_path": [
+    "Gyrating Bunker Prices"
+  ],
+  "section_path_text": "Gyrating Bunker Prices",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Gyrating Bunker Prices\nBunker prices are an important part of overall costs for operating a tanker. A Vlcc consuming 90 tons per day and sailing for, say, 320 days per year will consume 28,800 tons of bunkers. At $175 per ton, the average price of bunkers for 2004 in leading bunkering ports, the annual bunker cost is $5 million per year or $14,400 per day for a 350 day operating year including days in port.",
+  "keywords": [
+    "vlcc",
+    "meg",
+    "europe",
+    "bunker",
+    "bunkers",
+    "price",
+    "per",
+    "prices",
+    "are",
+    "average",
+    "bunkering",
+    "costs"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 391,
+  "source_path": "reports/poten/2004/poten_2004-12-03_gyrating-bunker-prices.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_12_03_gyrating_bunker_prices__s01_gyrating_bunker_prices",
+      "doc_id": "poten_tankers_no_date_poten_2004_12_03_gyrating_bunker_prices",
+      "parent_id": "poten_tankers_no_date_poten_2004_12_03_gyrating_bunker_prices__root",
+      "title": "Gyrating Bunker Prices",
+      "section_path": [
+        "Gyrating Bunker Prices"
+      ],
+      "section_path_text": "Gyrating Bunker Prices",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Bunker prices are an important part of overall costs for operating a tanker. A Vlcc consuming 90 tons per day and sailing for, say, 320 days per year will consume 28,800 tons of bunkers.",
+      "keywords": [
+        "vlcc",
+        "per",
+        "bunker",
+        "costs",
+        "day",
+        "operating",
+        "price",
+        "year"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 155,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_12_03_gyrating_bunker_prices__s02_differentials_matter",
+      "doc_id": "poten_tankers_no_date_poten_2004_12_03_gyrating_bunker_prices",
+      "parent_id": "poten_tankers_no_date_poten_2004_12_03_gyrating_bunker_prices__root",
+      "title": "Differentials Matter",
+      "section_path": [
+        "Differentials Matter"
+      ],
+      "section_path_text": "Differentials Matter",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Neglecting cargo intake, if the price of bunkers were the same throughout the world, then it doesn't matter where owners bunker. The differential in bunker prices among the leading bunkering ports in the world shows that it is not just the price of bunkers that is critical in determining profitability, but the managing of bunker purchases.",
+      "keywords": [
+        "price",
+        "bunker",
+        "bunkers",
+        "average",
+        "prices",
+        "range",
+        "shows",
+        "world"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 100,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_12_03_gyrating_bunker_prices__s03_ag_ukc",
+      "doc_id": "poten_tankers_no_date_poten_2004_12_03_gyrating_bunker_prices",
+      "parent_id": "poten_tankers_no_date_poten_2004_12_03_gyrating_bunker_prices__root",
+      "title": "AG-UKC",
+      "section_path": [
+        "AG-UKC"
+      ],
+      "section_path_text": "AG-UKC",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "ag-usg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_12_03_gyrating_bunker_prices__s04_jan_02",
+      "doc_id": "poten_tankers_no_date_poten_2004_12_03_gyrating_bunker_prices",
+      "parent_id": "poten_tankers_no_date_poten_2004_12_03_gyrating_bunker_prices__root",
+      "title": "Jan-02",
+      "section_path": [
+        "Jan-02"
+      ],
+      "section_path_text": "Jan-02",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Jul-02 Jan-03 Jul-03 Jan-04 Jul-04 ($30) Generally speaking bunker prices are higher in the Arabian Gulf than in Rotterdam and Houston. Most of the time this translates to a bunkering policy of buying bunkers in Rotterdam or Houston on a round trip basis.",
+      "keywords": [
+        "meg",
+        "europe",
+        "are",
+        "bunker",
+        "bunkers",
+        "cargo",
+        "rotterdam",
+        "arabian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 111,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

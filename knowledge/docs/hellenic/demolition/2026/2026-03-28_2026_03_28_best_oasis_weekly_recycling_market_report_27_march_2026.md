@@ -5,6 +5,7 @@ commodities:
 date: '2026-03-28'
 doc_id: hellenic_demolition_2026-03-28_2026_03_28_best_oasis_weekly_recycling_market_report_27_march_2026
 document_type: demolition_update
+is_error_page: false
 key_entities: []
 keywords:
 - capesize

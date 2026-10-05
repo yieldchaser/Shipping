@@ -32,9 +32,10 @@ linked_assets_ingested: 1
 linked_assets_mirrored: 1
 linked_assets_skipped: 0
 market_tone: cautiously_bearish
-numeric_observation_count: 30
+numeric_observation_count: 47
 numeric_observations:
-- section: Main
+- &id001
+  section: Main
   section_type: null
   source_line: Panamax Palais (75,400 DWT, Jan 2014, Jiangsu Rongsheng) sold to unknown
     Chinese buyers for USD 22.00 mil, VV Value USD 22.10 mil - DD Passed.
@@ -42,9 +43,10 @@ numeric_observations:
   values:
   - 75400.0
   - 2014.0
-  - 22000.0
-  - 22100.0
-- section: Main
+  - 22.0
+  - 22.1
+- &id002
+  section: Main
   section_type: null
   source_line: Panamax Rosco Olive (75,000 DWT, Sep 2010, Sasebo) sold to unknown
     Chinese buyers for USD 25.00 mil, VV Value USD 22.63 mil - BWTS Fitted.
@@ -52,9 +54,10 @@ numeric_observations:
   values:
   - 75000.0
   - 2010.0
-  - 25000.0
-  - 22630.0
-- section: Main
+  - 25.0
+  - 22.63
+- &id003
+  section: Main
   section_type: null
   source_line: Ultramax Belpareil (63,300 DWT, May 2015, Jiangsu Hantong Ship Heavy
     Industry) sold to unknown Norwegian buyers for USD 29.50 mil, VV Value USD 28.15
@@ -63,10 +66,11 @@ numeric_observations:
   values:
   - 63300.0
   - 2015.0
-  - 29500.0
-  - 28150.0
+  - 29.5
+  - 28.15
   - 27250.0
-- section: Main
+- &id004
+  section: Main
   section_type: null
   source_line: Supramax Serene Juniper (57,300 DWT, Feb 2011, STX Dalian) sold to
     unknown Norwegian buyers for USD 19.20 mil, VV Value USD 19.97 mil - Inc Charter
@@ -75,10 +79,11 @@ numeric_observations:
   values:
   - 57300.0
   - 2011.0
-  - 19200.0
-  - 19970.0
+  - 19.2
+  - 19.97
   - 26000.0
-- section: Main
+- &id005
+  section: Main
   section_type: null
   source_line: Supramax Pan Crocus (57,300 DWT, May 2009, STX Dalian) sold to unknown
     Greek buyers for USD 18.00 mil, VV Value USD 18.52 mil.
@@ -86,9 +91,10 @@ numeric_observations:
   values:
   - 57300.0
   - 2009.0
-  - 18000.0
-  - 18520.0
-- section: Main
+  - 18.0
+  - 18.52
+- &id006
+  section: Main
   section_type: null
   source_line: Handy BC Great Intelligence (38,800 DWT, Nov 2017, Guangzhou Wenchong)
     sold to Unknown Hong Kong, China for USD 21.50 mil, VV Value USD 25.86 mil.
@@ -96,9 +102,10 @@ numeric_observations:
   values:
   - 38800.0
   - 2017.0
-  - 21500.0
-  - 25860.0
-- section: Main
+  - 21.5
+  - 25.86
+- &id007
+  section: Main
   section_type: null
   source_line: Handy BC Jin Da (35,200 DWT, Sep 2011, Dongzhe) sold to unknown Chinese
     buyers for USD 17.30 mil, VV Value USD 17.56 mil.
@@ -106,9 +113,10 @@ numeric_observations:
   values:
   - 35200.0
   - 2011.0
-  - 17300.0
-  - 17560.0
-- section: Main
+  - 17.3
+  - 17.56
+- &id008
+  section: Main
   section_type: null
   source_line: VLCC New Talisman (296,100 DWT, Sep 2009, Bohai Shipbuilding Heavy
     Industry Co) sold to GCC Fuel Supply FZE for USD 38.20 mil, VV Value USD 39.87
@@ -117,9 +125,10 @@ numeric_observations:
   values:
   - 296100.0
   - 2009.0
-  - 38200.0
-  - 39870.0
-- section: Main
+  - 38.2
+  - 39.87
+- &id009
+  section: Main
   section_type: null
   source_line: MR2 St Pauli (50,000 DWT, Apr 2017, Hyundai Mipo) sold to undisclosed
     buyers for USD 33.30 mil, VV Value USD 34.08 mil - SS Due.
@@ -128,9 +137,10 @@ numeric_observations:
   - 2.0
   - 50000.0
   - 2017.0
-  - 33300.0
-  - 34080.0
-- section: Main
+  - 33.3
+  - 34.08
+- &id010
+  section: Main
   section_type: null
   source_line: MR1 (Chem / Product) Claxton Bay (36,700 DWT, Jan 2010, Hyundai Mipo)
     sold to undisclosed buyers for USD 15.50 mil, VV Value USD 17.55 mil - BWTS Fitted.
@@ -139,9 +149,10 @@ numeric_observations:
   - 1.0
   - 36700.0
   - 2010.0
-  - 15500.0
-  - 17550.0
-- section: Main
+  - 15.5
+  - 17.55
+- &id011
+  section: Main
   section_type: null
   source_line: Handy Container Hansa Coburg (1,740 TEU, Apr 2007, Guangzhou Wenchong)
     sold to CMA CGM for USD 30.00 mil, VV Value USD 30.84 mil - SS Due.
@@ -149,9 +160,10 @@ numeric_observations:
   values:
   - 1740.0
   - 2007.0
-  - 30000.0
-  - 30840.0
-- section: Main
+  - 30.0
+  - 30.84
+- &id012
+  section: Main
   section_type: null
   source_line: Handy Container Easline Qingdao (1,510 TEU, Apr 2001, Guangzhou Wenchong)
     sold to MSC for USD 19.00 mil, VV Value USD 22.30 mil.
@@ -159,9 +171,10 @@ numeric_observations:
   values:
   - 1510.0
   - 2001.0
-  - 19000.0
-  - 22300.0
-- section: Main
+  - 19.0
+  - 22.3
+- &id013
+  section: Main
   section_type: null
   source_line: 'Image reference: assets/2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
   unit: null
@@ -176,7 +189,8 @@ numeric_observations:
   - 2022.0
   - 325.0
   - 1.0
-- section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
+- &id014
+  section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
   unit: null
@@ -191,34 +205,274 @@ numeric_observations:
   - 2022.0
   - 325.0
   - 1.0
-- section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
+- &id015
+  section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
   section_type: linked_image_asset
   source_line: 'Image metadata: PNG 678x250 mode=RGBA'
   unit: null
   values:
   - 678.0
   - 250.0
-- section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
+- &id016
+  section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
   section_type: linked_image_asset
   source_line: 'dpi: (143.99259999999998, 143.99259999999998)'
   unit: null
   values:
   - 143.99259999999998
   - 143.99259999999998
-- section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
+- &id017
+  section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
+  section_type: linked_image_asset
+  source_line: '| 24 May | 2022 | | | | VV | Mini Matrix | - | Weekly | Change | |
+    | | |'
+  unit: null
+  values:
+  - 24.0
+  - 2022.0
+- &id018
+  section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
+  section_type: linked_image_asset
+  source_line: '| | +0.2% | +0.1% | 0.0% | 0.0% | +1.0% | +0.1% | +1.1% | -0.5% |
+    -0.4% | 3.4% | -1.5% | -2.1% | -1.8% |'
+  unit: pct
+  values:
+  - 0.2
+  - 0.1
+  - 1.0
+  - 0.1
+  - 1.1
+  - -0.5
+  - -0.4
+  - 3.4
+  - -1.5
+  - -2.1
+- &id019
+  section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
+  section_type: linked_image_asset
+  source_line: '| | 320K | 160K | 110K | 75K | 50K | 180K | 82K | 60K | 37K | 7000
+    | 4250 | 1750 | 1100 |'
+  unit: null
+  values:
+  - 320.0
+  - 160.0
+  - 110.0
+  - 75.0
+  - 50.0
+  - 180.0
+  - 82.0
+  - 60.0
+  - 37.0
+  - 7000.0
+- &id020
+  section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
+  section_type: linked_image_asset
+  source_line: '| | +1.6% | +0.1% | 0.0% | 0.0% | +1.3% | +0.1% | +1.8% | -0.4% |
+    +0.9% | | -1.7% | -2.0% | -1.6% |'
+  unit: pct
+  values:
+  - 1.6
+  - 0.1
+  - 1.3
+  - 0.1
+  - 1.8
+  - -0.4
+  - 0.9
+  - -1.7
+  - -2.0
+  - -1.6
+- &id021
+  section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
+  section_type: linked_image_asset
+  source_line: '| 5 | | | | | | | | | | | | | |'
+  unit: null
+  values:
+  - 5.0
+- &id022
+  section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
+  section_type: linked_image_asset
+  source_line: '| | 320K | 160K | 110K | 75K | 50K | 180K | 80K | 60K | 30K | 7000
+    | 4250 | 1750 | 1100 |'
+  unit: null
+  values:
+  - 320.0
+  - 160.0
+  - 110.0
+  - 75.0
+  - 50.0
+  - 180.0
+  - 80.0
+  - 60.0
+  - 30.0
+  - 7000.0
+- &id023
+  section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
+  section_type: linked_image_asset
+  source_line: '| | 40.1% | +0.1% | 0.0% | 0.0% | 0.0% | +0.1% | +1.7% | 0.0% | +1.3%
+    | | -2.7% | | |'
+  unit: pct
+  values:
+  - 40.1
+  - 0.1
+  - 0.1
+  - 1.7
+  - 1.3
+  - -2.7
+- &id024
+  section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
+  section_type: linked_image_asset
+  source_line: '| 10 | | | | | | | | | | | | | |'
+  unit: null
+  values:
+  - 10.0
+- &id025
+  section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
+  section_type: linked_image_asset
+  source_line: '| | 310K | 160K | 110K | 75K | 50K | 180K | 80K | 60K | 30K | 7000
+    | 4250 | 1750 | 1100 |'
+  unit: null
+  values:
+  - 310.0
+  - 160.0
+  - 110.0
+  - 75.0
+  - 50.0
+  - 180.0
+  - 80.0
+  - 60.0
+  - 30.0
+  - 7000.0
+- &id026
+  section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
+  section_type: linked_image_asset
+  source_line: '| | 0.5% | +0.1% | 0.0% | +0.1% | +0.7% | 40.1% | +0.8% | +0.9% |
+    +0.8% | 3.4% | -4.4% | -1.7% | -0.1% |'
+  unit: pct
+  values:
+  - 0.5
+  - 0.1
+  - 0.1
+  - 0.7
+  - 40.1
+  - 0.8
+  - 0.9
+  - 0.8
+  - 3.4
+  - -4.4
+- &id027
+  section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
+  section_type: linked_image_asset
+  source_line: '| 15 | | | | | | | | | | | | | |'
+  unit: null
+  values:
+  - 15.0
+- &id028
+  section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
+  section_type: linked_image_asset
+  source_line: '| | 310K | 160K | 110K | 75K | 50K | 180K | 75K | 55K | 30K | 7000
+    | 4250 | 1750 | 1100 |'
+  unit: null
+  values:
+  - 310.0
+  - 160.0
+  - 110.0
+  - 75.0
+  - 50.0
+  - 180.0
+  - 75.0
+  - 55.0
+  - 30.0
+  - 7000.0
+- &id029
+  section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
+  section_type: linked_image_asset
+  source_line: '| 20 | +1.4% | -2.8% | | | +3.5% | -2.9% | | +1.5% | -0.4% | | -6.3%
+    | | |'
+  unit: pct
+  values:
+  - 20.0
+  - 1.4
+  - -2.8
+  - 3.5
+  - -2.9
+  - 1.5
+  - -0.4
+  - -6.3
+- &id030
+  section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
+  section_type: linked_image_asset
+  source_line: '| | 305K | 155K | 105K | 70K | 45K | 175K | 75K | 50K | 30K | 6500
+    | 4000 | 1750 | 1100 |'
+  unit: null
+  values:
+  - 305.0
+  - 155.0
+  - 105.0
+  - 70.0
+  - 45.0
+  - 175.0
+  - 75.0
+  - 50.0
+  - 30.0
+  - 6500.0
+- &id031
+  section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
+  section_type: linked_image_asset
+  source_line: '| | 2.8% | N/A | | 2.9% | 2.B% | 2.9% | 24% | +414% | 2.0% | "2.9%
+    | -7.8% | 2.7% | -0.9% |'
+  unit: pct
+  values:
+  - 2.8
+  - 2.9
+  - 2.0
+  - 2.9
+  - 24.0
+  - 414.0
+  - 2.0
+  - 2.9
+  - -7.8
+  - 2.7
+- &id032
+  section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
+  section_type: linked_image_asset
+  source_line: '| 25 | | | | | | | | | | | | | |'
+  unit: null
+  values:
+  - 25.0
+- &id033
+  section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
+  section_type: linked_image_asset
+  source_line: '| | 300K | N/A | 105K | 65K | 45K | 170K | 75K | 48K | 30K | 5500
+    | 4000 | 1750 | 1100 |'
+  unit: null
+  values:
+  - 300.0
+  - 105.0
+  - 65.0
+  - 45.0
+  - 170.0
+  - 75.0
+  - 48.0
+  - 30.0
+  - 5500.0
+  - 4000.0
+- &id034
+  section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
   section_type: linked_image_asset
   source_line: 24 May 2022 VV Mini Matrix - Weekly Change
   unit: null
   values:
   - 24.0
   - 2022.0
-- section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
+- &id035
+  section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
   section_type: linked_image_asset
   source_line: Age VLCC Suez Afra LR1 MR Cape Pmax Supra Handy post Pmax Handy Fmax
   unit: null
   values:
   - 1.0
-- section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
+- &id036
+  section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
   section_type: linked_image_asset
   source_line: ° +0.2% +0.1% 0.0% 0.0% +1.0% +0.1% +1.1% -0.5% -0.4% 3.4% -1.5% -2.1%
     -1.8%
@@ -234,7 +488,8 @@ numeric_observations:
   - 3.4
   - -1.5
   - -2.1
-- section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
+- &id037
+  section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
   section_type: linked_image_asset
   source_line: 320K 160K 110K 75K 50K 180K 82K 60K 37K 7000 4250 1750 1100
   unit: null
@@ -249,7 +504,8 @@ numeric_observations:
   - 60.0
   - 37.0
   - 7000.0
-- section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
+- &id038
+  section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
   section_type: linked_image_asset
   source_line: 5 +1.6% +0.1% 0.0% 0.0% +1.3% +0.1% +1.8% -0.4% +0.9% 34% -1.7% -2.0%
     -1.6%
@@ -265,7 +521,8 @@ numeric_observations:
   - 0.9
   - 34.0
   - -1.7
-- section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
+- &id039
+  section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
   section_type: linked_image_asset
   source_line: 320K 160K 110K 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100
   unit: null
@@ -280,14 +537,15 @@ numeric_observations:
   - 60.0
   - 30.0
   - 7000.0
-- section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
+- &id040
+  section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
   section_type: linked_image_asset
   source_line: 10 40.1% +0.1% 0.0% 0.0% 0.0% +0.1% +1.7% 0.0% +1.3% 3.4% -2.7% -1.8%
     -1.0%
   unit: pct
   values:
   - 10.0
-  - 40100.0
+  - 40.1
   - 0.1
   - 0.1
   - 1.7
@@ -296,7 +554,8 @@ numeric_observations:
   - -2.7
   - -1.8
   - -1.0
-- section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
+- &id041
+  section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
   section_type: linked_image_asset
   source_line: 310K 160K 110K 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100
   unit: null
@@ -311,7 +570,8 @@ numeric_observations:
   - 60.0
   - 30.0
   - 7000.0
-- section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
+- &id042
+  section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
   section_type: linked_image_asset
   source_line: 15 0.5% +0.1% 0.0% +0.1% +0.7% 40.1% +0.8% +0.9% +0.8% 3.4% -4.4% -1.7%
     -0.1%
@@ -322,12 +582,13 @@ numeric_observations:
   - 0.1
   - 0.1
   - 0.7
-  - 40100.0
+  - 40.1
   - 0.8
   - 0.9
   - 0.8
   - 3.4
-- section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
+- &id043
+  section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
   section_type: linked_image_asset
   source_line: 310K 160K 110K 75K 50K 180K 75K 55K 30K 7000 4250 1750 1100
   unit: null
@@ -342,7 +603,8 @@ numeric_observations:
   - 55.0
   - 30.0
   - 7000.0
-- section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
+- &id044
+  section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
   section_type: linked_image_asset
   source_line: 20 +1.4% -2.8% 0.0% -2.9% +3.5% -2.9% -O0.5% +1.5% -0.4% 3.2% -6.3%
     -2.0% +0.2%
@@ -358,7 +620,8 @@ numeric_observations:
   - 1.5
   - -0.4
   - 3.2
-- section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
+- &id045
+  section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
   section_type: linked_image_asset
   source_line: 305K 155K 105K 70K 45K 175K 75K 50K 30K 6500 4000 1750 1100
   unit: null
@@ -373,7 +636,8 @@ numeric_observations:
   - 50.0
   - 30.0
   - 6500.0
-- section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
+- &id046
+  section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
   section_type: linked_image_asset
   source_line: 25 2.8% N/A 2.9% 2.9% 2.B% 2.9% 24% +414% 2.0% "2.9% -7.8% 2.7% -0.9%
   unit: pct
@@ -388,7 +652,8 @@ numeric_observations:
   - 414.0
   - 2.0
   - 2.9
-- section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
+- &id047
+  section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
   section_type: linked_image_asset
   source_line: 300K N/A 105K 65K 45K 170K 75K 48K 30K 5500 4000 1750 1100
   unit: null
@@ -411,368 +676,57 @@ regions:
 - meg
 section_count: 2
 signals:
-  numeric_observation_count: 29
+  numeric_observation_count: 47
   numeric_observations:
-  - section: Main
-    section_type: null
-    source_line: Panamax Palais (75,400 DWT, Jan 2014, Jiangsu Rongsheng) sold to
-      unknown Chinese buyers for USD 22.00 mil, VV Value USD 22.10 mil - DD Passed.
-    unit: usd
-    values:
-    - 75400.0
-    - 2014.0
-    - 22.0
-    - 22.1
-  - section: Main
-    section_type: null
-    source_line: Panamax Rosco Olive (75,000 DWT, Sep 2010, Sasebo) sold to unknown
-      Chinese buyers for USD 25.00 mil, VV Value USD 22.63 mil - BWTS Fitted.
-    unit: usd
-    values:
-    - 75000.0
-    - 2010.0
-    - 25.0
-    - 22.63
-  - section: Main
-    section_type: null
-    source_line: Ultramax Belpareil (63,300 DWT, May 2015, Jiangsu Hantong Ship Heavy
-      Industry) sold to unknown Norwegian buyers for USD 29.50 mil, VV Value USD 28.15
-      mil - Inc Charter (TCB 1 yr 27,250 pd).
-    unit: usd
-    values:
-    - 63300.0
-    - 2015.0
-    - 29.5
-    - 28.15
-    - 27250.0
-  - section: Main
-    section_type: null
-    source_line: Supramax Serene Juniper (57,300 DWT, Feb 2011, STX Dalian) sold to
-      unknown Norwegian buyers for USD 19.20 mil, VV Value USD 19.97 mil - Inc Charter
-      (TC 1 yr USD 26,000 pd).
-    unit: usd
-    values:
-    - 57300.0
-    - 2011.0
-    - 19.2
-    - 19.97
-    - 26000.0
-  - section: Main
-    section_type: null
-    source_line: Supramax Pan Crocus (57,300 DWT, May 2009, STX Dalian) sold to unknown
-      Greek buyers for USD 18.00 mil, VV Value USD 18.52 mil.
-    unit: usd
-    values:
-    - 57300.0
-    - 2009.0
-    - 18.0
-    - 18.52
-  - section: Main
-    section_type: null
-    source_line: Handy BC Great Intelligence (38,800 DWT, Nov 2017, Guangzhou Wenchong)
-      sold to Unknown Hong Kong, China for USD 21.50 mil, VV Value USD 25.86 mil.
-    unit: usd
-    values:
-    - 38800.0
-    - 2017.0
-    - 21.5
-    - 25.86
-  - section: Main
-    section_type: null
-    source_line: Handy BC Jin Da (35,200 DWT, Sep 2011, Dongzhe) sold to unknown Chinese
-      buyers for USD 17.30 mil, VV Value USD 17.56 mil.
-    unit: usd
-    values:
-    - 35200.0
-    - 2011.0
-    - 17.3
-    - 17.56
-  - section: Main
-    section_type: null
-    source_line: VLCC New Talisman (296,100 DWT, Sep 2009, Bohai Shipbuilding Heavy
-      Industry Co) sold to GCC Fuel Supply FZE for USD 38.20 mil, VV Value USD 39.87
-      mil - DD Due.
-    unit: usd
-    values:
-    - 296100.0
-    - 2009.0
-    - 38.2
-    - 39.87
-  - section: Main
-    section_type: null
-    source_line: MR2 St Pauli (50,000 DWT, Apr 2017, Hyundai Mipo) sold to undisclosed
-      buyers for USD 33.30 mil, VV Value USD 34.08 mil - SS Due.
-    unit: usd
-    values:
-    - 50000.0
-    - 2017.0
-    - 33.3
-    - 34.08
-  - section: Main
-    section_type: null
-    source_line: MR1 (Chem / Product) Claxton Bay (36,700 DWT, Jan 2010, Hyundai Mipo)
-      sold to undisclosed buyers for USD 15.50 mil, VV Value USD 17.55 mil - BWTS
-      Fitted.
-    unit: usd
-    values:
-    - 36700.0
-    - 2010.0
-    - 15.5
-    - 17.55
-  - section: Main
-    section_type: null
-    source_line: Handy Container Hansa Coburg (1,740 TEU, Apr 2007, Guangzhou Wenchong)
-      sold to CMA CGM for USD 30.00 mil, VV Value USD 30.84 mil - SS Due.
-    unit: usd
-    values:
-    - 1740.0
-    - 2007.0
-    - 30.0
-    - 30.84
-  - section: Main
-    section_type: null
-    source_line: Handy Container Easline Qingdao (1,510 TEU, Apr 2001, Guangzhou Wenchong)
-      sold to MSC for USD 19.00 mil, VV Value USD 22.30 mil.
-    unit: usd
-    values:
-    - 1510.0
-    - 2001.0
-    - 19.0
-    - 22.3
-  - section: Main
-    section_type: null
-    source_line: 'Image reference: assets/2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
-    unit: null
-    values:
-    - 2022.0
-    - -5.0
-    - -24.0
-    - 24.0
-    - -2022.0
-    - 24.0
-    - 2022.0
-    - 325.0
-  - section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
-    section_type: linked_image_asset
-    source_line: 'Linked image asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
-    unit: null
-    values:
-    - 2022.0
-    - -5.0
-    - -24.0
-    - 24.0
-    - -2022.0
-    - 24.0
-    - 2022.0
-    - 325.0
-  - section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
-    section_type: linked_image_asset
-    source_line: 'Image metadata: PNG 678x250 mode=RGBA'
-    unit: null
-    values:
-    - 678.0
-    - 50.0
-  - section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
-    section_type: linked_image_asset
-    source_line: 'dpi: (143.99259999999998, 143.99259999999998)'
-    unit: null
-    values:
-    - 143.99259999999998
-    - 143.99259999999998
-  - section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
-    section_type: linked_image_asset
-    source_line: 24 May 2022 VV Mini Matrix - Weekly Change
-    unit: null
-    values:
-    - 24.0
-    - 2022.0
-  - section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
-    section_type: linked_image_asset
-    source_line: ° +0.2% +0.1% 0.0% 0.0% +1.0% +0.1% +1.1% -0.5% -0.4% 3.4% -1.5%
-      -2.1% -1.8%
-    unit: pct
-    values:
-    - 0.2
-    - 0.1
-    - 1.0
-    - 0.1
-    - 1.1
-    - -0.5
-    - -0.4
-    - 3.4
-    - -1.5
-    - -2.1
-  - section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
-    section_type: linked_image_asset
-    source_line: 320K 160K 110K 75K 50K 180K 82K 60K 37K 7000 4250 1750 1100
-    unit: null
-    values:
-    - 320.0
-    - 160.0
-    - 110.0
-    - 75.0
-    - 50.0
-    - 180.0
-    - 82.0
-    - 60.0
-    - 37.0
-    - 7000.0
-  - section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
-    section_type: linked_image_asset
-    source_line: 5 +1.6% +0.1% 0.0% 0.0% +1.3% +0.1% +1.8% -0.4% +0.9% 34% -1.7% -2.0%
-      -1.6%
-    unit: pct
-    values:
-    - 5.0
-    - 1.6
-    - 0.1
-    - 1.3
-    - 0.1
-    - 1.8
-    - -0.4
-    - 0.9
-    - 34.0
-    - -1.7
-  - section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
-    section_type: linked_image_asset
-    source_line: 320K 160K 110K 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100
-    unit: null
-    values:
-    - 320.0
-    - 160.0
-    - 110.0
-    - 75.0
-    - 50.0
-    - 180.0
-    - 80.0
-    - 60.0
-    - 30.0
-    - 7000.0
-  - section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
-    section_type: linked_image_asset
-    source_line: 10 40.1% +0.1% 0.0% 0.0% 0.0% +0.1% +1.7% 0.0% +1.3% 3.4% -2.7% -1.8%
-      -1.0%
-    unit: pct
-    values:
-    - 10.0
-    - 40.1
-    - 0.1
-    - 0.1
-    - 1.7
-    - 1.3
-    - 3.4
-    - -2.7
-    - -1.8
-    - -1.0
-  - section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
-    section_type: linked_image_asset
-    source_line: 310K 160K 110K 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100
-    unit: null
-    values:
-    - 310.0
-    - 160.0
-    - 110.0
-    - 75.0
-    - 50.0
-    - 180.0
-    - 80.0
-    - 60.0
-    - 30.0
-    - 7000.0
-  - section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
-    section_type: linked_image_asset
-    source_line: 15 0.5% +0.1% 0.0% +0.1% +0.7% 40.1% +0.8% +0.9% +0.8% 3.4% -4.4%
-      -1.7% -0.1%
-    unit: pct
-    values:
-    - 15.0
-    - 0.5
-    - 0.1
-    - 0.1
-    - 0.7
-    - 40.1
-    - 0.8
-    - 0.9
-    - 0.8
-    - 3.4
-  - section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
-    section_type: linked_image_asset
-    source_line: 310K 160K 110K 75K 50K 180K 75K 55K 30K 7000 4250 1750 1100
-    unit: null
-    values:
-    - 310.0
-    - 160.0
-    - 110.0
-    - 75.0
-    - 50.0
-    - 180.0
-    - 75.0
-    - 55.0
-    - 30.0
-    - 7000.0
-  - section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
-    section_type: linked_image_asset
-    source_line: 20 +1.4% -2.8% 0.0% -2.9% +3.5% -2.9% -O0.5% +1.5% -0.4% 3.2% -6.3%
-      -2.0% +0.2%
-    unit: pct
-    values:
-    - 20.0
-    - 1.4
-    - -2.8
-    - -2.9
-    - 3.5
-    - -2.9
-    - 5.0
-    - 1.5
-    - -0.4
-    - 3.2
-  - section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
-    section_type: linked_image_asset
-    source_line: 305K 155K 105K 70K 45K 175K 75K 50K 30K 6500 4000 1750 1100
-    unit: null
-    values:
-    - 305.0
-    - 155.0
-    - 105.0
-    - 70.0
-    - 45.0
-    - 175.0
-    - 75.0
-    - 50.0
-    - 30.0
-    - 6500.0
-  - section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
-    section_type: linked_image_asset
-    source_line: 25 2.8% N/A 2.9% 2.9% 2.B% 2.9% 24% +414% 2.0% "2.9% -7.8% 2.7% -0.9%
-    unit: pct
-    values:
-    - 25.0
-    - 2.8
-    - 2.9
-    - 2.9
-    - 2.0
-    - 2.9
-    - 24.0
-    - 414.0
-    - 2.0
-    - 2.9
-  - section: 'Linked asset: 2022-05-24_weekly-vessel-valuations-report-may-24-2022_img1_matrix-24-may-2022_325afbb1a0b7.png'
-    section_type: linked_image_asset
-    source_line: 300K N/A 105K 65K 45K 170K 75K 48K 30K 5500 4000 1750 1100
-    unit: null
-    values:
-    - 300.0
-    - 105.0
-    - 65.0
-    - 45.0
-    - 170.0
-    - 75.0
-    - 48.0
-    - 30.0
-    - 5500.0
-    - 4000.0
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - *id010
+  - *id011
+  - *id012
+  - *id013
+  - *id014
+  - *id015
+  - *id016
+  - *id017
+  - *id018
+  - *id019
+  - *id020
+  - *id021
+  - *id022
+  - *id023
+  - *id024
+  - *id025
+  - *id026
+  - *id027
+  - *id028
+  - *id029
+  - *id030
+  - *id031
+  - *id032
+  - *id033
+  - *id034
+  - *id035
+  - *id036
+  - *id037
+  - *id038
+  - *id039
+  - *id040
+  - *id041
+  - *id042
+  - *id043
+  - *id044
+  - *id045
+  - *id046
+  - *id047
 source: hellenic
-source_path: corpus/02-hellenic/vessel_valuations/2022/2022-05-24_weekly-vessel-valuations-report-may-24-2022.html
+source_path: reports/hellenic/vessel_valuations/2022/2022-05-24_weekly-vessel-valuations-report-may-24-2022.html
 source_stem: 2022-05-24_weekly-vessel-valuations-report-may-24-2022
 source_url: https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-may-24-2022
 summary: 'Main
@@ -837,7 +791,30 @@ Image metadata: PNG 678x250 mode=RGBA
 Embedded info:
 dpi: (143.99259999999998, 143.99259999999998)
 
-OCR text:
+[structured table]
+| © |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 24 May | 2022 |  |  |  | VV | Mini Matrix | - | Weekly | Change |  |  |  |  |
+|  |  |  | Tankers |  |  |  |  | Bulkers |  |  |  | Containers |  |
+| Age | VLCC | Suez | Afra |  | MR | Cape | Pmax | Supra | Handy | post | Pmax | Handy | Fmax |
+|  | +0.2% | +0.1% | 0.0% | 0.0% | +1.0% | +0.1% | +1.1% | -0.5% | -0.4% | 3.4% | -1.5% | -2.1% | -1.8% |
+|  | 320K | 160K | 110K | 75K | 50K | 180K | 82K | 60K | 37K | 7000 | 4250 | 1750 | 1100 |
+|  | +1.6% | +0.1% | 0.0% | 0.0% | +1.3% | +0.1% | +1.8% | -0.4% | +0.9% |  | -1.7% | -2.0% | -1.6% |
+| 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 320K | 160K | 110K | 75K | 50K | 180K | 80K | 60K | 30K | 7000 | 4250 | 1750 | 1100 |
+|  | 40.1% | +0.1% | 0.0% | 0.0% | 0.0% | +0.1% | +1.7% | 0.0% | +1.3% |  | -2.7% |  |  |
+| 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 310K | 160K | 110K | 75K | 50K | 180K | 80K | 60K | 30K | 7000 | 4250 | 1750 | 1100 |
+|  | 0.5% | +0.1% | 0.0% | +0.1% | +0.7% | 40.1% | +0.8% | +0.9% | +0.8% | 3.4% | -4.4% | -1.7% | -0.1% |
+| 15 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 310K | 160K | 110K | 75K | 50K | 180K | 75K | 55K | 30K | 7000 | 4250 | 1750 | 1100 |
+| 20 | +1.4% | -2.8% |  |  | +3.5% | -2.9% |  | +1.5% | -0.4% |  | -6.3% |  |  |
+|  | 305K | 155K | 105K | 70K | 45K | 175K | 75K | 50K | 30K | 6500 | 4000 | 1750 | 1100 |
+|  | 2.8% | N/A |  | 2.9% | 2.B% | 2.9% | 24% | +414% | 2.0% | “2.9% | -7.8% | 2.7% | -0.9% |
+| 25 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 300K | N/A | 105K | 65K | 45K | 170K | 75K | 48K | 30K | 5500 | 4000 | 1750 | 1100 |
+
+[raw ocr]
 © VesselsValue@
 24 May 2022 VV Mini Matrix - Weekly Change
 Tankers Bulkers Containers

@@ -1,0 +1,444 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement__root",
+  "doc_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement",
+  "parent_id": null,
+  "title": "Tanker Optimism Must Wait for Macro Improvement",
+  "section_path": [
+    "Tanker Optimism Must Wait for Macro Improvement"
+  ],
+  "section_path_text": "Tanker Optimism Must Wait for Macro Improvement",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "A more optimistic tanker\nLike tanker company earnings reports, the Poten Weekly Tanker Opinion has made for grim reading in recent weeks, with discussions of flagging IEA demand outlooks, rising US crude production driving sharp cuts in crude imports and the prospects of scrapping 15-year old tankers. The relentlessly-negative tone is due, not so much to the dire current earnings environment, but to the uncertain global macroeconomic outlook. Dirty tanker supply should slow meaningfully during 2013, and provide a powerful underpinning to the next tanker market recovery, but until the global economy rebounds and supports strong oil demand growth and crude runs, near-term tanker prospects will remain mired in low utilisations and earnings.",
+  "keywords": [
+    "china",
+    "europe",
+    "india",
+    "iron_ore",
+    "crude_oil",
+    "steel",
+    "demand",
+    "growth",
+    "dirty",
+    "utilisations",
+    "earnings",
+    "fleet"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 864,
+  "source_path": "reports/poten/2012/poten_2012-08-31_tanker-optimism-must-wait-for-macro-improvement.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement__s01_a_more_optimistic_tanker",
+      "doc_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement",
+      "parent_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement__root",
+      "title": "A more optimistic tanker",
+      "section_path": [
+        "A more optimistic tanker"
+      ],
+      "section_path_text": "A more optimistic tanker",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Like tanker company earnings reports, the Poten Weekly Tanker Opinion has made for grim reading in recent weeks, with discussions of flagging IEA demand outlooks, rising US crude production driving sharp cuts in crude imports and the prospects of scrapping 15-year old tankers. The relentlessly-negative tone is due, not so much to the dire current earnings environment, but to the uncertain global macroeconomic outlook.",
+      "keywords": [
+        "crude_oil",
+        "crude",
+        "global",
+        "shown",
+        "but",
+        "demand",
+        "earnings",
+        "economic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 199,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement__s02_global_industrial",
+      "doc_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement",
+      "parent_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement__root",
+      "title": "Global industrial",
+      "section_path": [
+        "Global industrial"
+      ],
+      "section_path_text": "Global industrial",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "growth",
+        "production",
+        "remains",
+        "tepid"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement__s03_india",
+      "doc_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement",
+      "parent_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement__root",
+      "title": "India",
+      "section_path": [
+        "India"
+      ],
+      "section_path_text": "India",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "US ex-Autos China Eurozone Eurozone in recession, China slowing indices are languishing below the contractionary 50 level and Chinese electricity generation is flat year over year. Meanwhile, Chinese iron ore prices are collapsing to levels not seen since 2009, as domestic steel producers shun cargoes and cut their ore inventories, as shown in the chart below.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "are",
+        "chinese",
+        "eurozone",
+        "ore",
+        "below"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 74,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement__s04_chinese_iron_ore_prices",
+      "doc_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement",
+      "parent_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement__root",
+      "title": "Chinese Iron Ore Prices",
+      "section_path": [
+        "Chinese Iron Ore Prices"
+      ],
+      "section_path_text": "Chinese Iron Ore Prices",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "content",
+        "delivered",
+        "tianjin"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement__s05_dramatic_collapse_in",
+      "doc_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement",
+      "parent_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement__root",
+      "title": "Dramatic collapse in",
+      "section_path": [
+        "Dramatic collapse in"
+      ],
+      "section_path_text": "Dramatic collapse in",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Chinese iron ore prices is disturbing",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "chinese",
+        "disturbing",
+        "iron",
+        "ore",
+        "prices"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement__s06_us_mt",
+      "doc_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement",
+      "parent_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement__root",
+      "title": "US$/MT",
+      "section_path": [
+        "US$/MT"
+      ],
+      "section_path_text": "US$/MT",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Does not feel like typical Chinese destocking exercise Given China's share of any incremental dirty tanker tonne-mile demand, its economy must demonstrate a clear return to rapid industrial production gains, in order to produce sufficient oil demand growth for robust crude import demand. In addition, European oil demand must recover to provide some stability or growth to its large refining base, currently at 12 mbpd of crude runs.",
+      "keywords": [
+        "china",
+        "europe",
+        "crude_oil",
+        "demand",
+        "crude",
+        "growth",
+        "its",
+        "must"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 80,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement__s07_chinese_demand_and",
+      "doc_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement",
+      "parent_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement__root",
+      "title": "Chinese demand and",
+      "section_path": [
+        "Chinese demand and"
+      ],
+      "section_path_text": "Chinese demand and",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "European recovery needed This demand growth is critical, given the utilisation hole that the dirty tanker fleet has found itself. As shown in the chart on the following page, dirty tanker utilisation has plunged by 13-14 percentage points since market highs in 2008.",
+      "keywords": [
+        "europe",
+        "demand",
+        "dirty",
+        "fleet",
+        "dwt",
+        "following",
+        "growth",
+        "utilisation"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 143,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement__s08_dirty_tanker_market_has",
+      "doc_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement",
+      "parent_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement__root",
+      "title": "Dirty tanker market has",
+      "section_path": [
+        "Dirty tanker market has"
+      ],
+      "section_path_text": "Dirty tanker market has",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "",
+      "keywords": [
+        "dark",
+        "fallen",
+        "hole",
+        "utilisation"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement__s09_utilisations_are_14_points",
+      "doc_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement",
+      "parent_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement__root",
+      "title": "Utilisations are 14 points",
+      "section_path": [
+        "Utilisations are 14 points"
+      ],
+      "section_path_text": "Utilisations are 14 points",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "",
+      "keywords": [
+        "level",
+        "lower"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement__s10_earnings_and_utilisations",
+      "doc_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement",
+      "parent_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement__root",
+      "title": "Earnings and utilisations",
+      "section_path": [
+        "Earnings and utilisations"
+      ],
+      "section_path_text": "Earnings and utilisations",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "",
+      "keywords": [
+        "exponential",
+        "relationship"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement__s11_high_utilisations_are_an",
+      "doc_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement",
+      "parent_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement__root",
+      "title": "High utilisations are an",
+      "section_path": [
+        "High utilisations are an"
+      ],
+      "section_path_text": "High utilisations are an",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "",
+      "keywords": [
+        "dream...",
+        "ffa",
+        "owner",
+        "trader"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement__s12_indexed_tce_earnings_us_000_day",
+      "doc_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement",
+      "parent_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement__root",
+      "title": "Indexed TCE Earnings, US$000/day",
+      "section_path": [
+        "Indexed TCE Earnings, US$000/day"
+      ],
+      "section_path_text": "Indexed TCE Earnings, US$000/day",
+      "level": 1,
+      "ordinal": 12,
+      "summary": "...low utilisations are a trap for owners and a bore for FFA traders",
+      "keywords": [
+        "are",
+        "bore",
+        "ffa",
+        "low",
+        "owners",
+        "traders",
+        "trap",
+        "utilisations"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 16,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement__s13_small_shifts_in",
+      "doc_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement",
+      "parent_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement__root",
+      "title": "Small shifts in",
+      "section_path": [
+        "Small shifts in"
+      ],
+      "section_path_text": "Small shifts in",
+      "level": 1,
+      "ordinal": 13,
+      "summary": "demand give large jumps in rates",
+      "keywords": [
+        "demand",
+        "give",
+        "jumps",
+        "large"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement__s14_huge_surge_in",
+      "doc_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement",
+      "parent_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement__root",
+      "title": "Huge surge in",
+      "section_path": [
+        "Huge surge in"
+      ],
+      "section_path_text": "Huge surge in",
+      "level": 1,
+      "ordinal": 14,
+      "summary": "",
+      "keywords": [
+        "demand",
+        "earnings",
+        "gains",
+        "needed"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement__s15_dirty_tanker_fleet_utilisation_pct",
+      "doc_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement",
+      "parent_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement__root",
+      "title": "Dirty Tanker Fleet Utilisation, Pct",
+      "section_path": [
+        "Dirty Tanker Fleet Utilisation, Pct"
+      ],
+      "section_path_text": "Dirty Tanker Fleet Utilisation, Pct",
+      "level": 1,
+      "ordinal": 15,
+      "summary": "operating at low utilisations, plentiful supply keeps rates and volatilities low, but more important, a large rise in utilisations is required to bring the market back to a level of tightness that encourages charterer competitiveness. Seasonal demand should provide some near-term earnings relief to owners, but to achieve financially-sustainable earnings, utilisations must jump by at least five percentage points from current levels, with a ten-point surge required to provide desired returns on capital.",
+      "keywords": [
+        "demand",
+        "growth",
+        "low",
+        "still",
+        "supply",
+        "utilisations",
+        "achieve",
+        "but"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 161,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement__s16_high_fleet_growth",
+      "doc_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement",
+      "parent_id": "poten_tankers_no_date_poten_2012_08_31_tanker_optimism_must_wait_for_macro_improvement__root",
+      "title": "High fleet growth",
+      "section_path": [
+        "High fleet growth"
+      ],
+      "section_path_text": "High fleet growth",
+      "level": 1,
+      "ordinal": 16,
+      "summary": "requires rapid demand growth for salvation... Until economic releases start to demonstrate sustained, positive surprises relative to consensus estimates, the dirty tanker outlook remains uninspiring.",
+      "keywords": [
+        "but",
+        "consensus",
+        "demand",
+        "demonstrate",
+        "dirty",
+        "economic",
+        "estimates",
+        "growth"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 39,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

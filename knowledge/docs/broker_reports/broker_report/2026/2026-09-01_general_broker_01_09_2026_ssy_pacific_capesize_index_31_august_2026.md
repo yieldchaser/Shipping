@@ -71,8 +71,8 @@ numeric_observations:
   - 150000.0
   - 10.0
   - 10.0
-  - 19500.0
-  - 20250.0
+  - 19.5
+  - 20.25
 - section: Pacific Capesize Index
   section_type: null
   source_line: DAMPIER/QINGDAO | 170,000/10% | 10% | 14.60 | 16.20
@@ -81,8 +81,8 @@ numeric_observations:
   - 170000.0
   - 10.0
   - 10.0
-  - 14600.0
-  - 16200.0
+  - 14.6
+  - 16.2
 - section: Pacific Capesize Index
   section_type: null
   source_line: SALDAHNA BAY/QINGDAO | 170,000/10% | 10% | 26.20 | 28.60
@@ -91,8 +91,8 @@ numeric_observations:
   - 170000.0
   - 10.0
   - 10.0
-  - 26200.0
-  - 28600.0
+  - 26.2
+  - 28.6
 - section: Pacific Capesize Index
   section_type: null
   source_line: RICHARDS BAY/FANGCHENG | 150,000/10% | 10% | 26.35 | 28.75
@@ -101,8 +101,8 @@ numeric_observations:
   - 150000.0
   - 10.0
   - 10.0
-  - 26350.0
-  - 28750.0
+  - 26.35
+  - 28.75
 - section: Pacific Capesize Index
   section_type: null
   source_line: CAPE LAMBERT/ROTTERDAM | 160,000/10% | 10% | 17.40 | 19.15
@@ -111,8 +111,8 @@ numeric_observations:
   - 160000.0
   - 10.0
   - 10.0
-  - 17400.0
-  - 19150.0
+  - 17.4
+  - 19.15
 - section: Pacific Capesize Index
   section_type: null
   source_line: QUEENSLAND/JAPAN | 150,000/10% | 10% | 18.50 | 20.50
@@ -121,8 +121,8 @@ numeric_observations:
   - 150000.0
   - 10.0
   - 10.0
-  - 18500.0
-  - 20500.0
+  - 18.5
+  - 20.5
 - section: Pacific Capesize Index
   section_type: null
   source_line: QUEENSLAND/ROTTERDAM | 150,000/10% | 10% | 25.40 | 29.85
@@ -131,8 +131,8 @@ numeric_observations:
   - 150000.0
   - 10.0
   - 10.0
-  - 25400.0
-  - 29850.0
+  - 25.4
+  - 29.85
 - section: Pacific Capesize Index
   section_type: null
   source_line: NSW/ZHOUSHAN | 130,000/10% | 10% | 18.95 | 20.95
@@ -141,8 +141,8 @@ numeric_observations:
   - 130000.0
   - 10.0
   - 10.0
-  - 18950.0
-  - 20950.0
+  - 18.95
+  - 20.95
 - section: Pacific Capesize Index
   section_type: null
   source_line: T/C TRIP FAR EAST/CONT | 180,000 DWT | 10% | 1.86 | 2.45
@@ -159,8 +159,8 @@ numeric_observations:
   values:
   - 180000.0
   - 10.0
-  - 7050.0
-  - 8610.0
+  - 7.05
+  - 8.61
 - section: Pacific Capesize Index
   section_type: null
   source_line: Calculated Index | 10,126 | 11,329

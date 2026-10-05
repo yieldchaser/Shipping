@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nIn Dry, it has been reported that Foremost have contracted a pair of 185,000dwt Capesize bulk carriers at Namura Shipyard\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-07-22_clarksons-platou-hellas-snp-weekly-bulletin-28_report-22-07-2022-1_002283c78bf6.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-07-22_clarksons-platou-hellas-snp-weekly-bulletin-28_report-22-07-2022-1_002283c78bf6.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 22 July 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 5S60ME-C8.1\nSS 05/27\nDAYANG CONFIDENCE 63,127 2017 SINOPACIFIC DAYANG 4 x 36 T USD 30.2 M CHINESE\nDD 04/25\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nUSD 27.7 M\nNICHOLAS 115,577 2007 SASEBO MAN B. 6S60MC-C7.1 SS 08/22 (Basis delivery in August CHINESE\n3 Pumps DD 08/22 with SS/DD passed &\nBWTS fitted)\nMAN B. 6S60MC-C7.1\nSS 01/25\nSONGA CORAL 107,081 2005 KOYO 12 Pumps USD 25 M U/D\nDD 01/23\nScrubber fitted\nMAN B.",
+  "summary": "Main\nIn Dry, it has been reported that Foremost have contracted a pair of 185,000dwt Capesize bulk carriers at Namura Shipyard\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-07-22_clarksons-platou-hellas-snp-weekly-bulletin-28_report-22-07-2022-1_002283c78bf6.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2022-07-22_clarksons-platou-hellas-snp-weekly-bulletin-28_report-22-07-2022-1_002283c78bf6.pdf\n\n# ` Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 22 July 2022 BULK CARRIERS\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n||||MAN-B&W 5S60ME-C8.1|SS 05/27|||\n|DAYANG CONFIDENCE|63,127|2017 SINOPACIFIC DAYANG|4 x 36 T BWTS fitted|DD 04/ 25|USD 30.2 M|CHINESE|\n\n## TANKERS - CHEMICALS - LPG/LNGs\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|NICHOLAS|115,577|2007 SASEBO|MAN B. 6S60MC -C7.1 3 Pumps|SS 08/ 22 DD 08/22|USD 27.7 M (Basis delivery in August with SS/DD passed & BWTS fitted)|CHINESE|\n|SONGA CORAL|107,081|2005 KOYO|MAN B. 6S60MC-C7.1 12 Pumps Scrubber fitted|SS 01/ DD 01/25 23|USD 25 M|U/D|\n|GRAND|50,129|2008 SPP|MAN B.",
   "keywords": [
     "capesize",
     "lng",
@@ -20,14 +20,14 @@
     "europe",
     "india",
     "gas",
+    "platou",
     "any",
-    "information",
     "clarksons"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2016,
-  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-07-22_clarksons-platou-hellas-snp-weekly-bulletin-28.html",
+  "token_count": 2290,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-07-22_clarksons-platou-hellas-snp-weekly-bulletin-28.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-28",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-07-22_clarksons-platou-hellas-snp-weekly-bulletin-28_report-22-07-2022-1_002283c78bf6.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-07-22_clarksons-platou-hellas-snp-weekly-bulletin-28_report-22-07-2022-1_002283c78bf6.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 22 July 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 5S60ME-C8.1\nSS 05/27\nDAYANG CONFIDENCE 63,127 2017 SINOPACIFIC DAYANG 4 x 36 T USD 30.2 M CHINESE\nDD 04/25\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nUSD 27.7 M\nNICHOLAS 115,577 2007 SASEBO MAN B. 6S60MC-C7.1 SS 08/22 (Basis delivery in August CHINESE\n3 Pumps DD 08/22 with SS/DD passed &\nBWTS fitted)\nMAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-07-22_clarksons-platou-hellas-snp-weekly-bulletin-28_report-22-07-2022-1_002283c78bf6.pdf\n\n# ` Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 22 July 2022 BULK CARRIERS\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n||||MAN-B&W 5S60ME-C8.1|SS 05/27|||\n|DAYANG CONFIDENCE|63,127|2017 SINOPACIFIC DAYANG|4 x 36 T BWTS fitted|DD 04/ 25|USD 30.2 M|CHINESE|\n\n## TANKERS - CHEMICALS - LPG/LNGs\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|NICHOLAS|115,577|2007 SASEBO|MAN B. 6S60MC -C7.1 3 Pumps|SS 08/ 22 DD 08/22|USD 27.7 M (Basis delivery in August with SS/DD passed & BWTS fitted)|CHINESE|\n|SONGA CORAL|107,081|2005 KOYO|MAN B.",
       "keywords": [
         "capesize",
         "lng",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1925,
+      "token_count": 2199,
       "section_type": "linked_pdf",
       "children": []
     }

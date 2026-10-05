@@ -9,7 +9,7 @@
   "section_path_text": "MMi Daily Iron Ore Index Report September 16 2022",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Chinese iron ore and steelmaking prices 16/09/2022\nDCE iron ore futures declined by 1.24% today, the main contract closed 715. Some traders were active to sell. More steel mills tended topurchase, and purchasing enthusiasm is high.",
+  "summary": "Main\nDCE iron ore futures declined by 1.24% today, the main contract closed 715. Some traders were active to sell. More steel mills tended topurchase, and purchasing enthusiasm is high.",
   "keywords": [
     "china",
     "brazil",
@@ -21,12 +21,12 @@
     "cid",
     "fines",
     "sep",
-    "high",
-    "change"
+    "change",
+    "high"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 35132,
+  "token_count": 35136,
   "source_path": "reports/hellenic/iron_ore/2022/2022-09-16_mmi-daily-iron-ore-index-report-september-16-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-september-16-2022",
   "children": [
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-09-16_mmi-daily-iron-ore-index-report-september-16-2022_mmi-daily-iron-ore-report-for-16th-s_bf01997a1876.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2022-09-16_mmi-daily-iron-ore-index-report-september-16-2022_mmi-daily-iron-ore-report-for-16th-s_bf01997a1876.pdf\n\n[Page 1]\n(cid:68)(cid:68)(cid:349)(cid:3)(cid:24)(cid:258)(cid:349)(cid:367)(cid:455)(cid:3)(cid:47)(cid:396)(cid:381)(cid:374)(cid:3)(cid:75)(cid:396)(cid:286)(cid:3)(cid:47)(cid:374)(cid:282)(cid:286)(cid:454)(cid:3)(cid:90)(cid:286)(cid:393)(cid:381)(cid:396)(cid:410)(cid:3)(cid:3) (cid:3)(cid:3) Sep 16th, 2022\n(cid:68)(cid:68)(cid:349)(cid:3)(cid:24)(cid:258)(cid:400)(cid:346)(cid:271)(cid:381)(cid:258)(cid:396)(cid:282)\n(cid:47)(cid:396)(cid:381)(cid:374)(cid:3)(cid:75)(cid:396)(cid:286)(cid:3)(cid:87)(cid:396)(cid:349)(cid:272)(cid:286)(cid:3)(cid:47)(cid:374)(cid:282)(cid:349)(cid:272)(cid:286)(cid:400)\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n762 862 706\nz\n-13 -1.68% -24.00 -2.71% 4 0.57%\nSep 16th, 2022 Sep 16th, 2022 Sep 16th, 2022\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt",
+      "summary": "Source asset: corpus/02-hellenic/iron_ore/pdfs/2022-09-16_mmi-daily-iron-ore-index-report-september-16-2022_mmi-daily-iron-ore-report-for-16th-s_bf01997a1876.pdf\n\n[Page 1]\n(cid:68)(cid:68)(cid:349)(cid:3)(cid:24)(cid:258)(cid:349)(cid:367)(cid:455)(cid:3)(cid:47)(cid:396)(cid:381)(cid:374)(cid:3)(cid:75)(cid:396)(cid:286)(cid:3)(cid:47)(cid:374)(cid:282)(cid:286)(cid:454)(cid:3)(cid:90)(cid:286)(cid:393)(cid:381)(cid:396)(cid:410)(cid:3)(cid:3) (cid:3)(cid:3) Sep 16th, 2022\n(cid:68)(cid:68)(cid:349)(cid:3)(cid:24)(cid:258)(cid:400)(cid:346)(cid:271)(cid:381)(cid:258)(cid:396)(cid:282)\n(cid:47)(cid:396)(cid:381)(cid:374)(cid:3)(cid:75)(cid:396)(cid:286)(cid:3)(cid:87)(cid:396)(cid:349)(cid:272)(cid:286)(cid:3)(cid:47)(cid:374)(cid:282)(cid:349)(cid:272)(cid:286)(cid:400)\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n762 862 706\nz\n-13 -1.68% -24.00 -2.71% 4 0.57%\nSep 16th, 2022 Sep 16th, 2022 Sep 16th, 2022\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/d",
       "keywords": [
         "china",
         "brazil",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 33706,
+      "token_count": 33708,
       "section_type": "linked_pdf",
       "children": []
     },
@@ -97,7 +97,7 @@
       "section_path_text": "Linked asset: 2022-09-16_mmi-daily-iron-ore-index-report-september-16-2022_img1_1609chinesedf_36d914bb059e.jpg",
       "level": 1,
       "ordinal": 3,
-      "summary": "Source asset: reports/hellenic/iron_ore/2022/assets/2022-09-16_mmi-daily-iron-ore-index-report-september-16-2022_img1_1609chinesedf_36d914bb059e.jpg\n\nLinked image asset: 2022-09-16_mmi-daily-iron-ore-index-report-september-16-2022_img1_1609chinesedf_36d914bb059e.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nMMi Daily Iron Ore Index Report Sep 16th, 2022\nIRON ORE PORT STOCK INDEX (IOP!)\nSep 16th, 2022 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc.",
+      "summary": "Source asset: corpus/02-hellenic/iron_ore/2022/assets/2022-09-16_mmi-daily-iron-ore-index-report-september-16-2022_img1_1609chinesedf_36d914bb059e.jpg\n\nLinked image asset: 2022-09-16_mmi-daily-iron-ore-index-report-september-16-2022_img1_1609chinesedf_36d914bb059e.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nMMi Daily Iron Ore Index Report Sep 16th, 2022\nIRON ORE PORT STOCK INDEX (IOP!)\nSep 16th, 2022 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc.",
       "keywords": [
         "china",
         "brazil",
@@ -110,7 +110,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 990,
+      "token_count": 992,
       "section_type": "linked_image_asset",
       "children": []
     }

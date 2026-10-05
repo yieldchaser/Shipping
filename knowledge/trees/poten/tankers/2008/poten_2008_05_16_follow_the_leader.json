@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_05_16_follow_the_leader__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_05_16_follow_the_leader",
+  "parent_id": null,
+  "title": "Follow The Leader",
+  "section_path": [
+    "Follow The Leader"
+  ],
+  "section_path_text": "Follow The Leader",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Follow The Leader\nThe Atlantic Basin spot tanker market has seen substantial strengthening in the past week, in particular the VLCCs and Suezmaxes from West Africa to the US Gulf. Over the longer-term, the growth of the West African market has been a primary contributor to the overall demand picture for tankers, especially for modern-double hull ships. Since most of the cargoes in this region are on million barrel stems, the employment for Suezmaxes is logical.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "brazil",
+    "atlantic",
+    "west_africa",
+    "us_gulf",
+    "crude_oil",
+    "vlccs",
+    "are",
+    "suezmaxes",
+    "west",
+    "africa"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 627,
+  "source_path": "reports/poten/2008/poten_2008-05-16_follow-the-leader.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_05_16_follow_the_leader__s01_follow_the_leader",
+      "doc_id": "poten_tankers_no_date_poten_2008_05_16_follow_the_leader",
+      "parent_id": "poten_tankers_no_date_poten_2008_05_16_follow_the_leader__root",
+      "title": "Follow The Leader",
+      "section_path": [
+        "Follow The Leader"
+      ],
+      "section_path_text": "Follow The Leader",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Atlantic Basin spot tanker market has seen substantial strengthening in the past week, in particular the VLCCs and Suezmaxes from West Africa to the US Gulf. Over the longer-term, the growth of the West African market has been a primary contributor to the overall demand picture for tankers, especially for modern-double hull ships.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "atlantic",
+        "west_africa",
+        "us_gulf",
+        "suezmaxes",
+        "west",
+        "africa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 198,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_05_16_follow_the_leader__s02_waf_usg_260kt",
+      "doc_id": "poten_tankers_no_date_poten_2008_05_16_follow_the_leader",
+      "parent_id": "poten_tankers_no_date_poten_2008_05_16_follow_the_leader__root",
+      "title": "WAF - USG (260kt)",
+      "section_path": [
+        "WAF - USG (260kt)"
+      ],
+      "section_path_text": "WAF - USG (260kt)",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "WAF - USG (130kt) Rates for VLCCs are currently assessed at WS 215 for VLCCs, or $166,000 per day on a time charter equivalent (TCE) basis, and WS 270 for Suezmaxes, with a TCE of $98,000. The differential between VLCCs and Suezmaxes since the start of 2005 has been 38 WS points on average, representing the psychological break-even point between the two sizes.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "brazil",
+        "west_africa",
+        "per",
+        "vlccs",
+        "average",
+        "may"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 238,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_05_16_follow_the_leader__s03_fueling_the_rates",
+      "doc_id": "poten_tankers_no_date_poten_2008_05_16_follow_the_leader",
+      "parent_id": "poten_tankers_no_date_poten_2008_05_16_follow_the_leader__root",
+      "title": "Fueling the Rates",
+      "section_path": [
+        "Fueling the Rates"
+      ],
+      "section_path_text": "Fueling the Rates",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "What is perhaps most interesting is that despite the recent attempts to hamper production by sabotage, crude oil exports for the month of May are higher than a year ago. The chart below shows the reported spot market lifting volumes for all West Africa exports.",
+      "keywords": [
+        "west_africa",
+        "crude_oil",
+        "africa",
+        "ago.",
+        "all",
+        "are",
+        "attempts",
+        "below"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 49,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_05_16_follow_the_leader__s04_million_tons",
+      "doc_id": "poten_tankers_no_date_poten_2008_05_16_follow_the_leader",
+      "parent_id": "poten_tankers_no_date_poten_2008_05_16_follow_the_leader__root",
+      "title": "Million Tons",
+      "section_path": [
+        "Million Tons"
+      ],
+      "section_path_text": "Million Tons",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Rates are on the rise due to higher demand, but have also been boosted by the selectiveness of terminal operators with respect to vessel approvals. While this factor on its own does not fuel the strength in rates, it does add an element of unpredictability to the available vessel supply in the region.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "west_africa",
+        "crude_oil",
+        "oil",
+        "are",
+        "crude",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 119,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

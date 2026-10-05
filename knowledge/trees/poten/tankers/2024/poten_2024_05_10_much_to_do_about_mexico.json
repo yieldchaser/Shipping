@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2024_05_10_much_to_do_about_mexico__root",
+  "doc_id": "poten_tankers_no_date_poten_2024_05_10_much_to_do_about_mexico",
+  "parent_id": null,
+  "title": "Much To Do About Mexico",
+  "section_path": [
+    "Much To Do About Mexico"
+  ],
+  "section_path_text": "Much To Do About Mexico",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Changes in Mexico could reshuffle regional oil flows\nIn terms of energy, Mexico and the United States have had a symbiotic relationship for many years. A significant portion of Mexico's crude oil production is being exported to its neighbors in the north (primarily the U.S. refiners ship refined products back to Mexico.",
+  "keywords": [
+    "vlcc",
+    "aframax",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "mexico",
+    "crude",
+    "oil",
+    "exports",
+    "u.s.",
+    "its",
+    "mexican"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 929,
+  "source_path": "reports/poten/2024/poten_2024-05-10_much-to-do-about-mexico.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2024_05_10_much_to_do_about_mexico__s01_changes_in_mexico_could_reshuffle_regional_oil_flows",
+      "doc_id": "poten_tankers_no_date_poten_2024_05_10_much_to_do_about_mexico",
+      "parent_id": "poten_tankers_no_date_poten_2024_05_10_much_to_do_about_mexico__root",
+      "title": "Changes in Mexico could reshuffle regional oil flows",
+      "section_path": [
+        "Changes in Mexico could reshuffle regional oil flows"
+      ],
+      "section_path_text": "Changes in Mexico could reshuffle regional oil flows",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In terms of energy, Mexico and the United States have had a symbiotic relationship for many years. A significant portion of Mexico's crude oil production is being exported to its neighbors in the north (primarily the U.S.",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "us_gulf",
+        "crude_oil",
+        "products",
+        "mexico",
+        "crude",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 919,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

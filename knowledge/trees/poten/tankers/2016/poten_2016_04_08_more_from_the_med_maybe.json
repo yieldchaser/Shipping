@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2016_04_08_more_from_the_med_maybe__root",
+  "doc_id": "poten_tankers_no_date_poten_2016_04_08_more_from_the_med_maybe",
+  "parent_id": null,
+  "title": "More From The Med Maybe",
+  "section_path": [
+    "More From The Med Maybe"
+  ],
+  "section_path_text": "More From The Med Maybe",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Recovery of Libyan production and exports not a sure thing\nThe Arab Spring movement, which started in Tunisia in December 2010 and quickly spread throughout North Africa and the Middle East, started to have an impact on Libya in February 2011 and by October of the same year, Muammar Gadaffi, the country's leader since 1969, was ousted and killed. Since then, the country continues to be marred by violence and instability. At an estimated 48 billion barrels, Libya has the largest proved crude oil reserves in Africa and the ninth-largest amount globally.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "libya",
+    "oil",
+    "crude",
+    "libyan"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 874,
+  "source_path": "reports/poten/2016/poten_2016-04-08_more-from-the-med-maybe.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_04_08_more_from_the_med_maybe__s01_recovery_of_libyan_production_and_exports_not_a_sure_thing",
+      "doc_id": "poten_tankers_no_date_poten_2016_04_08_more_from_the_med_maybe",
+      "parent_id": "poten_tankers_no_date_poten_2016_04_08_more_from_the_med_maybe__root",
+      "title": "Recovery of Libyan production and exports not a sure thing",
+      "section_path": [
+        "Recovery of Libyan production and exports not a sure thing"
+      ],
+      "section_path_text": "Recovery of Libyan production and exports not a sure thing",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Arab Spring movement, which started in Tunisia in December 2010 and quickly spread throughout North Africa and the Middle East, started to have an impact on Libya in February 2011 and by October of the same year, Muammar Gadaffi, the country's leader since 1969, was ousted and killed. Since then, the country continues to be marred by violence and instability.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "europe",
+        "india",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 862,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

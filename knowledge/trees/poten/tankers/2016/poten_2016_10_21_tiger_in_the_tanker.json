@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2016_10_21_tiger_in_the_tanker__root",
+  "doc_id": "poten_tankers_no_date_poten_2016_10_21_tiger_in_the_tanker",
+  "parent_id": null,
+  "title": "Tiger In The Tanker",
+  "section_path": [
+    "Tiger In The Tanker"
+  ],
+  "section_path_text": "Tiger In The Tanker",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Long Range products exports from India\nTiger In The Tanker Fig. 1: Indian Product Tanker Commodities: Refining Output vs Demand and Exports\n\nKb/d\nOver much of the last decade, China has been the engine of oil demand growth as construction projects and a booming manufacturing industry, combined with a growing middle class led to double-digit growth in energy demand. India is potentially at the start of a similar development.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "crude_oil",
+    "products",
+    "gas",
+    "demand",
+    "exports",
+    "growth"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 928,
+  "source_path": "reports/poten/2016/poten_2016-10-21_tiger-in-the-tanker.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_10_21_tiger_in_the_tanker__s01_long_range_products_exports_from_india",
+      "doc_id": "poten_tankers_no_date_poten_2016_10_21_tiger_in_the_tanker",
+      "parent_id": "poten_tankers_no_date_poten_2016_10_21_tiger_in_the_tanker__root",
+      "title": "Long Range products exports from India",
+      "section_path": [
+        "Long Range products exports from India"
+      ],
+      "section_path_text": "Long Range products exports from India",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "1: Indian Product Tanker Commodities: Refining Output vs Demand and Exports",
+      "keywords": [
+        "india",
+        "commodities",
+        "demand",
+        "exports",
+        "fig.",
+        "indian",
+        "output",
+        "product"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 26,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_10_21_tiger_in_the_tanker__s02_kb_d",
+      "doc_id": "poten_tankers_no_date_poten_2016_10_21_tiger_in_the_tanker",
+      "parent_id": "poten_tankers_no_date_poten_2016_10_21_tiger_in_the_tanker__root",
+      "title": "Kb/d",
+      "section_path": [
+        "Kb/d"
+      ],
+      "section_path_text": "Kb/d",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Over much of the last decade, China has been the engine of oil demand growth as construction projects and a booming manufacturing industry, combined with a growing middle class led to double-digit growth in energy demand. India is potentially at the start of a similar development.",
+      "keywords": [
+        "china",
+        "india",
+        "crude_oil",
+        "products",
+        "gas",
+        "demand",
+        "exports",
+        "mb/d"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 617,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_10_21_tiger_in_the_tanker__s03_kb_d",
+      "doc_id": "poten_tankers_no_date_poten_2016_10_21_tiger_in_the_tanker",
+      "parent_id": "poten_tankers_no_date_poten_2016_10_21_tiger_in_the_tanker__root",
+      "title": "Kb/d",
+      "section_path": [
+        "Kb/d"
+      ],
+      "section_path_text": "Kb/d",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "estimates that over the first 9 months of 2016, LR tankers exported 25.2 Million tonnes (Mt) of clean products compared to 21.1 Mt in the same period in 2015. The main destinations of these exports were Asian countries with 7.7 Mt in 2016, with Singapore accounting for 45% of these exports.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 268,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

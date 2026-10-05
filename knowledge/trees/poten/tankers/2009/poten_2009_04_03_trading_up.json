@@ -1,0 +1,167 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2009_04_03_trading_up__root",
+  "doc_id": "poten_tankers_no_date_poten_2009_04_03_trading_up",
+  "parent_id": null,
+  "title": "Trading Up?",
+  "section_path": [
+    "Trading Up?"
+  ],
+  "section_path_text": "Trading Up?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The G‐20 met this week in London to address key topics facing the global economic structure maintaining the theme of \"Stability, Growth and Jobs.\" Over the two day period world leaders put their heads together to strike $1.1 trillion deal in an effort to pull the world out of its recession. The International Monetary Fund (IMF) was a major focal point of the summit and has been earmarked $500 billion to deepen its pockets and given a call to increase regulatory policy. On international trade finance, the G‐20 produced a $250 billion package that will likely have a direct impact on shipping.",
+  "keywords": [
+    "vlcc",
+    "crude_oil",
+    "products",
+    "trade",
+    "world",
+    "global",
+    "growth",
+    "demand",
+    "financial",
+    "gdp",
+    "major",
+    "summit"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 860,
+  "source_path": "reports/poten/2009/poten_2009-04-03_trading-up.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_04_03_trading_up__s01_trading_up",
+      "doc_id": "poten_tankers_no_date_poten_2009_04_03_trading_up",
+      "parent_id": "poten_tankers_no_date_poten_2009_04_03_trading_up__root",
+      "title": "Trading Up?",
+      "section_path": [
+        "Trading Up?"
+      ],
+      "section_path_text": "Trading Up?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The G‐20 met this week in London to address key topics facing the global economic structure maintaining the theme of \"Stability, Growth and Jobs.\" Over the two day period world leaders put their heads together to strike $1.1 trillion deal in an effort to pull the world out of its recession. The International Monetary Fund (IMF) was a major focal point of the summit and has been earmarked $500 billion to deepen its pockets and given a call to increase regulatory policy.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "products",
+        "demand",
+        "its",
+        "world",
+        "billion",
+        "international"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 211,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_04_03_trading_up__s02_historical",
+      "doc_id": "poten_tankers_no_date_poten_2009_04_03_trading_up",
+      "parent_id": "poten_tankers_no_date_poten_2009_04_03_trading_up__root",
+      "title": "Historical",
+      "section_path": [
+        "Historical"
+      ],
+      "section_path_text": "Historical",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "outlook"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_04_03_trading_up__s03_world_real_gdp_growth",
+      "doc_id": "poten_tankers_no_date_poten_2009_04_03_trading_up",
+      "parent_id": "poten_tankers_no_date_poten_2009_04_03_trading_up__root",
+      "title": "World Real GDP Growth",
+      "section_path": [
+        "World Real GDP Growth"
+      ],
+      "section_path_text": "World Real GDP Growth",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Ton‐Miles Since 1995, world year‐on‐year GDP percent change has peaked and troughed with VLCC ton‐miles suggesting a correlation between the two. According to the IMF growth in GDP is still expected albeit at a much lower rate than the past several years.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "products",
+        "demand",
+        "gdp",
+        "lower",
+        "miles",
+        "ton"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 98,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_04_03_trading_up__s04_heal_the_world",
+      "doc_id": "poten_tankers_no_date_poten_2009_04_03_trading_up",
+      "parent_id": "poten_tankers_no_date_poten_2009_04_03_trading_up__root",
+      "title": "Heal the World",
+      "section_path": [
+        "Heal the World"
+      ],
+      "section_path_text": "Heal the World",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "With the conclusion of the summit in London on Thursday, \"The Global Plan for Recovery and Reform\" was published on the London Summit website (londonsummit.gov) highlighting six major topics agreed upon for righting the global economy. Below are listed the major goals.",
+      "keywords": [
+        "products",
+        "trade",
+        "global",
+        "financial",
+        "growth",
+        "investment",
+        "major",
+        "was"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 355,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_04_03_trading_up__s05_we_have_come_so_far",
+      "doc_id": "poten_tankers_no_date_poten_2009_04_03_trading_up",
+      "parent_id": "poten_tankers_no_date_poten_2009_04_03_trading_up__root",
+      "title": "We Have Come So Far",
+      "section_path": [
+        "We Have Come So Far"
+      ],
+      "section_path_text": "We Have Come So Far",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "In the afterglow of this summit, the G‐20 will return to their respective nations with ideals set forth in the plan for keeping the doors open on trade. Unfortunately, the global recession has already pushed many nations to more isolationist economical measures.",
+      "keywords": [
+        "forth",
+        "ideals",
+        "nations",
+        "plan",
+        "set",
+        "trade",
+        "afterglow",
+        "already"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 171,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

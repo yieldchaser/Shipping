@@ -1,0 +1,170 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_11_05_seeking_the_spike__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_11_05_seeking_the_spike",
+  "parent_id": null,
+  "title": "Seeking the Spike",
+  "section_path": [
+    "Seeking the Spike"
+  ],
+  "section_path_text": "Seeking the Spike",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Seeking the Spike\nSome slight upward rate pressure has been felt in the VLCC market in the early part of this week, however the sustainability of the upward pressure came into question as spot market rates waffled somewhat mid‐week. With shipowners hoping this could be the spark for a market spike, at this point it seems the position lists are the key to the fate of freight rates. Although there still seems to be ample tonnage for the likely required cargoes, VLCC freight rates have managed to edge higher.",
+  "keywords": [
+    "vlcc",
+    "meg",
+    "west_africa",
+    "crude_oil",
+    "month",
+    "tonnage",
+    "cargoes",
+    "number",
+    "average",
+    "october",
+    "arabian",
+    "gulf"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 703,
+  "source_path": "reports/poten/2010/poten_2010-11-05_seeking-the-spike.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_11_05_seeking_the_spike__s01_seeking_the_spike",
+      "doc_id": "poten_tankers_no_date_poten_2010_11_05_seeking_the_spike",
+      "parent_id": "poten_tankers_no_date_poten_2010_11_05_seeking_the_spike__root",
+      "title": "Seeking the Spike",
+      "section_path": [
+        "Seeking the Spike"
+      ],
+      "section_path_text": "Seeking the Spike",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Some slight upward rate pressure has been felt in the VLCC market in the early part of this week, however the sustainability of the upward pressure came into question as spot market rates waffled somewhat mid‐week. With shipowners hoping this could be the spark for a market spike, at this point it seems the position lists are the key to the fate of freight rates.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "west_africa",
+        "cargoes",
+        "month",
+        "are",
+        "each",
+        "first"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 267,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_11_05_seeking_the_spike__s02_cargo_count",
+      "doc_id": "poten_tankers_no_date_poten_2010_11_05_seeking_the_spike",
+      "parent_id": "poten_tankers_no_date_poten_2010_11_05_seeking_the_spike__root",
+      "title": "Cargo Count",
+      "section_path": [
+        "Cargo Count"
+      ],
+      "section_path_text": "Cargo Count",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Balance of Month WS Rate The noticeable decline in freight rates began in July and has carried through October. Although the total number of cargoes lifted in those months declined to around the 100 mark, the real damper on the market was likely the change in tonnage supply.",
+      "keywords": [
+        "crude_oil",
+        "tonnage",
+        "increase",
+        "resulting",
+        "supply",
+        "although",
+        "around",
+        "balance"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 111,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_11_05_seeking_the_spike__s03_supplies_keep_creeping",
+      "doc_id": "poten_tankers_no_date_poten_2010_11_05_seeking_the_spike",
+      "parent_id": "poten_tankers_no_date_poten_2010_11_05_seeking_the_spike__root",
+      "title": "Supplies Keep Creeping",
+      "section_path": [
+        "Supplies Keep Creeping"
+      ],
+      "section_path_text": "Supplies Keep Creeping",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "New additions to the VLCC fleet have impacted the spot freight rates most directly as the incremental newbuilding deliveries will tend to trade in the spot market. As is shown in the below graph, the average level of available ship supply has increased throughout the year, generally in line with the total number of VLCC deliveries (44 year‐to‐date).",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "deliveries",
+        "year",
+        "additions",
+        "arabian",
+        "availability",
+        "available"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 104,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_11_05_seeking_the_spike__s04_no_of_ships",
+      "doc_id": "poten_tankers_no_date_poten_2010_11_05_seeking_the_spike",
+      "parent_id": "poten_tankers_no_date_poten_2010_11_05_seeking_the_spike__root",
+      "title": "No. of Ships",
+      "section_path": [
+        "No. of Ships"
+      ],
+      "section_path_text": "No. of Ships",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Vessels Available (Next 15 Days) Vessels Available (Next 30 Days)",
+      "keywords": [
+        "available",
+        "days",
+        "next",
+        "vessels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 20,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_11_05_seeking_the_spike__s05_rate_recovery",
+      "doc_id": "poten_tankers_no_date_poten_2010_11_05_seeking_the_spike",
+      "parent_id": "poten_tankers_no_date_poten_2010_11_05_seeking_the_spike__root",
+      "title": "Rate Recovery?",
+      "section_path": [
+        "Rate Recovery?"
+      ],
+      "section_path_text": "Rate Recovery?",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "While the total number of cargoes for October was in line with the 12 month average of 97, the surplus of tonnage led to freight rates of $7,500 per day for the Arabian Gulf to Far East voyage on 260kt. For perspective, October 2010 average rates marked the lowest October rates seen since 1996 and the lowest month‐average rates seen in 2010.",
+      "keywords": [
+        "meg",
+        "average",
+        "october",
+        "asset",
+        "fourth",
+        "lowest",
+        "month",
+        "quarter"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 179,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

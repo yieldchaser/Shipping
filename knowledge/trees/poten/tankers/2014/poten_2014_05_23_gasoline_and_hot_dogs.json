@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2014_05_23_gasoline_and_hot_dogs__root",
+  "doc_id": "poten_tankers_no_date_poten_2014_05_23_gasoline_and_hot_dogs",
+  "parent_id": null,
+  "title": "Gasoline and Hot Dogs",
+  "section_path": [
+    "Gasoline and Hot Dogs"
+  ],
+  "section_path_text": "Gasoline and Hot Dogs",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "This Memorial Day weekend could be poised to bring late spring tidings to product tanker owners trading in the Atlantic Basin. A simple year‐on‐year comparison reveals that the US could be caught shorter‐than‐usual this season as far as gasoline is concerned. A peek into gasoline inventories indicates that they appear to be trending lower in the face of rising seasonal demand.",
+  "keywords": [
+    "atlantic",
+    "europe",
+    "products",
+    "gas",
+    "demand",
+    "could",
+    "gasoline",
+    "year",
+    "day",
+    "total",
+    "are",
+    "barrels"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 451,
+  "source_path": "reports/poten/2014/poten_2014-05-23_gasoline-and-hot-dogs.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_05_23_gasoline_and_hot_dogs__s01_summer_here_we_come",
+      "doc_id": "poten_tankers_no_date_poten_2014_05_23_gasoline_and_hot_dogs",
+      "parent_id": "poten_tankers_no_date_poten_2014_05_23_gasoline_and_hot_dogs__root",
+      "title": "Summer here we come!",
+      "section_path": [
+        "Summer here we come!"
+      ],
+      "section_path_text": "Summer here we come!",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This Memorial Day weekend could be poised to bring late spring tidings to product tanker owners trading in the Atlantic Basin. A simple year‐on‐year comparison reveals that the US could be caught shorter‐than‐usual this season as far as gasoline is concerned.",
+      "keywords": [
+        "atlantic",
+        "europe",
+        "products",
+        "gas",
+        "demand",
+        "could",
+        "gasoline",
+        "year"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 446,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

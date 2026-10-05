@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2021_05_28_are_we_there_yet__root",
+  "doc_id": "poten_tankers_no_date_poten_2021_05_28_are_we_there_yet",
+  "parent_id": null,
+  "title": "Are We There Yet",
+  "section_path": [
+    "Are We There Yet"
+  ],
+  "section_path_text": "Are We There Yet",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The summer driving season in the U.S. is about to start\nTraditionally, the upcoming Memorial Day weekend marks the beginning of the summer driving season in the U.S. For a variety of reasons (weather, summer road trips, school vacations, etc.), Americans tend to drive more in the summer than in the winter, and this year, we have the added dimension of the country coming out of the Covid-19 pandemic.",
+  "keywords": [
+    "atlantic",
+    "products",
+    "gas",
+    "u.s.",
+    "gasoline",
+    "demand",
+    "summer",
+    "electric",
+    "exports",
+    "since",
+    "are",
+    "covid-19"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 940,
+  "source_path": "reports/poten/2021/poten_2021-05-28_are-we-there-yet.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2021_05_28_are_we_there_yet__s01_the_summer_driving_season_in_the_u_s_is_about_to_start",
+      "doc_id": "poten_tankers_no_date_poten_2021_05_28_are_we_there_yet",
+      "parent_id": "poten_tankers_no_date_poten_2021_05_28_are_we_there_yet__root",
+      "title": "The summer driving season in the U.S. is about to start",
+      "section_path": [
+        "The summer driving season in the U.S. is about to start"
+      ],
+      "section_path_text": "The summer driving season in the U.S. is about to start",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Traditionally, the upcoming Memorial Day weekend marks the beginning of the summer driving season in the U.S. For a variety of reasons (weather, summer road trips, school vacations, etc.), Americans tend to drive more in the summer than in the winter, and this year, we have the added dimension of the country coming out of the Covid-19 pandemic.",
+      "keywords": [
+        "products",
+        "gas",
+        "summer",
+        "demand",
+        "growth",
+        "weekend",
+        "covid-19",
+        "drive"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 248,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2021_05_28_are_we_there_yet__s02_kb_d",
+      "doc_id": "poten_tankers_no_date_poten_2021_05_28_are_we_there_yet",
+      "parent_id": "poten_tankers_no_date_poten_2021_05_28_are_we_there_yet__root",
+      "title": "Kb/d",
+      "section_path": [
+        "Kb/d"
+      ],
+      "section_path_text": "Kb/d",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The American Automobile Association (AAA) expects that 37 million people will take trips (50 miles or more) this Memorial Day weekend, an increase of 52% from last year. However, travel will still be down 10% from 2019 and, even in the longer term, gasoline demand is not expected to fully recover to their previous highs due to the increasing penetration of electric vehicles.",
+      "keywords": [
+        "products",
+        "gas",
+        "gasoline",
+        "electric",
+        "u.s.",
+        "capacity",
+        "cars",
+        "circumstances"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 336,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2021_05_28_are_we_there_yet__s03_kb_d",
+      "doc_id": "poten_tankers_no_date_poten_2021_05_28_are_we_there_yet",
+      "parent_id": "poten_tankers_no_date_poten_2021_05_28_are_we_there_yet__root",
+      "title": "Kb/d",
+      "section_path": [
+        "Kb/d"
+      ],
+      "section_path_text": "Kb/d",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "2020 as a result of the pandemic lockdowns. For the first few months of 2021, gasoline demand remained below year-ago levels, but we have seen a strong recovery since March 2021.",
+      "keywords": [
+        "atlantic",
+        "products",
+        "gas",
+        "u.s.",
+        "gasoline",
+        "exports",
+        "demand",
+        "since"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 333,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

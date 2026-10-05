@@ -33,7 +33,8 @@ linked_assets_skipped: 0
 market_tone: neutral
 numeric_observation_count: 24
 numeric_observations:
-- section: Main
+- &id001
+  section: Main
   section_type: null
   source_line: PostPanamax BC Claas Oldendorff (95,800 DWT, Jan 2013, Imabari) sold
     to unknown Singaporean for USD 27.0 mil, VV Value USD 26.5 mil
@@ -41,9 +42,10 @@ numeric_observations:
   values:
   - 95800.0
   - 2013.0
-  - 27000.0
-  - 26500.0
-- section: Main
+  - 27.0
+  - 26.5
+- &id002
+  section: Main
   section_type: null
   source_line: Supramax BC Seacon Yantai (57,000 DWT, Aug 2010, COSCO Zhoushan) sold
     to PT Primatama Energi Mandiri for USD 13.8 mil, VV Value USD 14.8 mil
@@ -51,9 +53,10 @@ numeric_observations:
   values:
   - 57000.0
   - 2010.0
-  - 13800.0
-  - 14800.0
-- section: Main
+  - 13.8
+  - 14.8
+- &id003
+  section: Main
   section_type: null
   source_line: Handy BC SSI Daring (36,200 DWT, Apr 2017, Shikoku Dockyard) sold to
     unknown South Korean buyers for USD 26.7 mil, VV Value USD 24.4 mil
@@ -61,9 +64,10 @@ numeric_observations:
   values:
   - 36200.0
   - 2017.0
-  - 26700.0
-  - 24400.0
-- section: Main
+  - 26.7
+  - 24.4
+- &id004
+  section: Main
   section_type: null
   source_line: Aframax Pacific Treasures & Pacific Jewels (115,200 DWT, Mar 2016,
     Daehan) sold on subs en bloc to Petrovietnam for USD 137 mil, VV Value USD 136.31
@@ -74,7 +78,8 @@ numeric_observations:
   - 2016.0
   - 137.0
   - 136.31
-- section: Main
+- &id005
+  section: Main
   section_type: null
   source_line: MR2 (Chemical/Product) Hafnia Pegasus (50,300 DWT, Oct 2010, Guangzhou
     CSSC Longxue Shipbuilding) sold to undisclosed buyers for USD 28.5 mil, VV Value
@@ -84,9 +89,10 @@ numeric_observations:
   - 2.0
   - 50300.0
   - 2010.0
-  - 28500.0
-  - 28970.0
-- section: Main
+  - 28.5
+  - 28.97
+- &id006
+  section: Main
   section_type: null
   source_line: 8 x MR2 (Chemical/Product) (49,700-50,000 DWT, 2014-2015) sold en bloc
     in a cash and shares deal to Torm for a total of USD 340 mil, VV Value USD 344.5
@@ -101,7 +107,8 @@ numeric_observations:
   - -2015.0
   - 340.0
   - 344.5
-- section: Main
+- &id007
+  section: Main
   section_type: null
   source_line: Secondhand values continued to firm upwards across the board tracking
     earnings, 10YO ULCVs were the exception depreciating c.0.2%
@@ -109,7 +116,8 @@ numeric_observations:
   values:
   - 10.0
   - 0.2
-- section: Main
+- &id008
+  section: Main
   section_type: null
   source_line: 'Image reference: assets/2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
   unit: null
@@ -123,7 +131,8 @@ numeric_observations:
   - 45677.0
   - 4.0
   - 782852292.0
-- section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
+- &id009
+  section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
   unit: null
@@ -137,44 +146,49 @@ numeric_observations:
   - 45677.0
   - 4.0
   - 782852292.0
-- section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
+- &id010
+  section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 678x259 mode=RGB'
   unit: null
   values:
   - 678.0
   - 259.0
-- section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
+- &id011
+  section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (96, 96)'
   unit: null
   values:
   - 96.0
   - 96.0
-- section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
+- &id012
+  section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
   section_type: linked_image_asset
   source_line: 23 July 2024 VV Mini Matrix - Weekly Change
   unit: null
   values:
   - 23.0
   - 2024.0
-- section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
+- &id013
+  section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
   section_type: linked_image_asset
   source_line: ry 40.1% 40.4% +0.6% 40.9% +0.2% 40.3% +2.4% 40.1% +0.4% 41.0% +1.7%
     +2.4% 44.8%
   unit: pct
   values:
-  - 40100.0
-  - 40400.0
+  - 40.1
+  - 40.4
   - 0.6
-  - 40900.0
+  - 40.9
   - 0.2
-  - 40300.0
+  - 40.3
   - 2.4
-  - 40100.0
+  - 40.1
   - 0.4
-  - 41000.0
-- section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
+  - 41.0
+- &id014
+  section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
   section_type: linked_image_asset
   source_line: 320k 160k 110k 75k 50k 180k 82k 60k 38k 7000 4250, «1750-1100
   unit: null
@@ -189,23 +203,25 @@ numeric_observations:
   - 60.0
   - 38.0
   - 7000.0
-- section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
+- &id015
+  section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
   section_type: linked_image_asset
   source_line: '5 40.1% 40.7% +0.6% 40.9% +1.0% 40.3% 41.1% +0.1% +0.8% #1.6% +1.7%
     +2.4% 44.5%'
   unit: pct
   values:
   - 5.0
-  - 40100.0
-  - 40700.0
+  - 40.1
+  - 40.7
   - 0.6
-  - 40900.0
+  - 40.9
   - 1.0
-  - 40300.0
-  - 41100.0
+  - 40.3
+  - 41.1
   - 0.1
   - 0.8
-- section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
+- &id016
+  section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
   section_type: linked_image_asset
   source_line: 320k 160k 110k 75k 50k 180k 80k 60k 38k 7000 4250 = 1750 = 1100
   unit: null
@@ -220,23 +236,25 @@ numeric_observations:
   - 60.0
   - 38.0
   - 7000.0
-- section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
+- &id017
+  section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
   section_type: linked_image_asset
   source_line: 7 40.1% 40.9% +0.6% +0.9% +1.8% 40.3% 40.9% 40.1% +2.1% 42.4% +1.7%
     +2.4% 43.1%
   unit: pct
   values:
   - 7.0
-  - 40100.0
-  - 40900.0
+  - 40.1
+  - 40.9
   - 0.6
   - 0.9
   - 1.8
-  - 40300.0
-  - 40900.0
-  - 40100.0
+  - 40.3
+  - 40.9
+  - 40.1
   - 2.1
-- section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
+- &id018
+  section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
   section_type: linked_image_asset
   source_line: 320k = 160k 110k 75k 50k 180k 80k 60k 32k 7000 4250S «1750 = 1100
   unit: null
@@ -251,23 +269,25 @@ numeric_observations:
   - 60.0
   - 32.0
   - 7000.0
-- section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
+- &id019
+  section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
   section_type: linked_image_asset
   source_line: '- 40.2% +0.9% +0.6% +0.9% +2.1% 40.3% 41.6% +0.1% +2.7% #2.9% +1.7%
     +2.4% +1.3%'
   unit: pct
   values:
-  - 40200.0
+  - 40.2
   - 0.9
   - 0.6
   - 0.9
   - 2.1
-  - 40300.0
-  - 41600.0
+  - 40.3
+  - 41.6
   - 0.1
   - 2.7
   - 2.9
-- section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
+- &id020
+  section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
   section_type: linked_image_asset
   source_line: 310k 160k 110k 75k 50k 180k 80k 55k 30k 7000 4250 = «1750 = 1100
   unit: null
@@ -282,23 +302,25 @@ numeric_observations:
   - 55.0
   - 30.0
   - 7000.0
-- section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
+- &id021
+  section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
   section_type: linked_image_asset
   source_line: ne 40.5% +0.8% +0.6% +0.9% +1.4% 40.3% 42.7% +0.1% +3.1% 42.1% +1.7%
     +2.4% 40.4%
   unit: pct
   values:
-  - 40500.0
+  - 40.5
   - 0.8
   - 0.6
   - 0.9
   - 1.4
-  - 40300.0
-  - 42700.0
+  - 40.3
+  - 42.7
   - 0.1
   - 3.1
-  - 42100.0
-- section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
+  - 42.1
+- &id022
+  section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
   section_type: linked_image_asset
   source_line: 305k 155k 105k 70k 45k 180k 75k 55k 30k 7000 4250 «17501100
   unit: null
@@ -313,23 +335,25 @@ numeric_observations:
   - 55.0
   - 30.0
   - 7000.0
-- section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
+- &id023
+  section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
   section_type: linked_image_asset
   source_line: 25 40.8% +0.4% 40.6% 40.9% -1.9% 0.9% 42.0% 0.0% 43.5% OA% +1.7% +2.4%
     41.8%
   unit: pct
   values:
   - 25.0
-  - 40800.0
+  - 40.8
   - 0.4
-  - 40600.0
-  - 40900.0
+  - 40.6
+  - 40.9
   - -1.9
   - 0.9
-  - 42000.0
-  - 43500.0
+  - 42.0
+  - 43.5
   - 1.7
-- section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
+- &id024
+  section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
   section_type: linked_image_asset
   source_line: 300k «150k 105k 65k 45k 170k 75k 48k 30k 6500 4000 1750 1100 |
   unit: null
@@ -355,315 +379,32 @@ section_count: 2
 signals:
   numeric_observation_count: 24
   numeric_observations:
-  - section: Main
-    section_type: null
-    source_line: PostPanamax BC Claas Oldendorff (95,800 DWT, Jan 2013, Imabari) sold
-      to unknown Singaporean for USD 27.0 mil, VV Value USD 26.5 mil
-    unit: usd
-    values:
-    - 95800.0
-    - 2013.0
-    - 27.0
-    - 26.5
-  - section: Main
-    section_type: null
-    source_line: Supramax BC Seacon Yantai (57,000 DWT, Aug 2010, COSCO Zhoushan)
-      sold to PT Primatama Energi Mandiri for USD 13.8 mil, VV Value USD 14.8 mil
-    unit: usd
-    values:
-    - 57000.0
-    - 2010.0
-    - 13.8
-    - 14.8
-  - section: Main
-    section_type: null
-    source_line: Handy BC SSI Daring (36,200 DWT, Apr 2017, Shikoku Dockyard) sold
-      to unknown South Korean buyers for USD 26.7 mil, VV Value USD 24.4 mil
-    unit: usd
-    values:
-    - 36200.0
-    - 2017.0
-    - 26.7
-    - 24.4
-  - section: Main
-    section_type: null
-    source_line: Aframax Pacific Treasures & Pacific Jewels (115,200 DWT, Mar 2016,
-      Daehan) sold on subs en bloc to Petrovietnam for USD 137 mil, VV Value USD 136.31
-      mil
-    unit: usd
-    values:
-    - 115200.0
-    - 2016.0
-    - 137.0
-    - 136.31
-  - section: Main
-    section_type: null
-    source_line: MR2 (Chemical/Product) Hafnia Pegasus (50,300 DWT, Oct 2010, Guangzhou
-      CSSC Longxue Shipbuilding) sold to undisclosed buyers for USD 28.5 mil, VV Value
-      USD 28.97 mil
-    unit: usd
-    values:
-    - 50300.0
-    - 2010.0
-    - 28.5
-    - 28.97
-  - section: Main
-    section_type: null
-    source_line: 8 x MR2 (Chemical/Product) (49,700-50,000 DWT, 2014-2015) sold en
-      bloc in a cash and shares deal to Torm for a total of USD 340 mil, VV Value
-      USD 344.5 mil
-    unit: usd
-    values:
-    - 8.0
-    - 49700.0
-    - -50000.0
-    - 2014.0
-    - -2015.0
-    - 340.0
-    - 344.5
-  - section: Main
-    section_type: null
-    source_line: Secondhand values continued to firm upwards across the board tracking
-      earnings, 10YO ULCVs were the exception depreciating c.0.2%
-    unit: pct
-    values:
-    - 10.0
-    - 0.2
-  - section: Main
-    section_type: null
-    source_line: 'Image reference: assets/2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
-    unit: null
-    values:
-    - 2024.0
-    - -7.0
-    - -25.0
-    - 23.0
-    - -2024.0
-    - 45677.0
-    - 4.0
-    - 782852292.0
-  - section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
-    section_type: linked_image_asset
-    source_line: 'Linked image asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
-    unit: null
-    values:
-    - 2024.0
-    - -7.0
-    - -25.0
-    - 23.0
-    - -2024.0
-    - 45677.0
-    - 4.0
-    - 782852292.0
-  - section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
-    section_type: linked_image_asset
-    source_line: 'Image metadata: JPEG 678x259 mode=RGB'
-    unit: null
-    values:
-    - 678.0
-    - 59.0
-  - section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
-    section_type: linked_image_asset
-    source_line: 'dpi: (96, 96)'
-    unit: null
-    values:
-    - 96.0
-    - 96.0
-  - section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
-    section_type: linked_image_asset
-    source_line: 23 July 2024 VV Mini Matrix - Weekly Change
-    unit: null
-    values:
-    - 23.0
-    - 2024.0
-  - section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
-    section_type: linked_image_asset
-    source_line: ry 40.1% 40.4% +0.6% 40.9% +0.2% 40.3% +2.4% 40.1% +0.4% 41.0% +1.7%
-      +2.4% 44.8%
-    unit: pct
-    values:
-    - 40.1
-    - 40.4
-    - 0.6
-    - 40.9
-    - 0.2
-    - 40.3
-    - 2.4
-    - 40.1
-    - 0.4
-    - 41.0
-  - section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
-    section_type: linked_image_asset
-    source_line: 320k 160k 110k 75k 50k 180k 82k 60k 38k 7000 4250, «1750-1100
-    unit: null
-    values:
-    - 320.0
-    - 160.0
-    - 110.0
-    - 75.0
-    - 50.0
-    - 180.0
-    - 82.0
-    - 60.0
-    - 38.0
-    - 7000.0
-  - section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
-    section_type: linked_image_asset
-    source_line: '5 40.1% 40.7% +0.6% 40.9% +1.0% 40.3% 41.1% +0.1% +0.8% #1.6% +1.7%
-      +2.4% 44.5%'
-    unit: pct
-    values:
-    - 5.0
-    - 40.1
-    - 40.7
-    - 0.6
-    - 40.9
-    - 1.0
-    - 40.3
-    - 41.1
-    - 0.1
-    - 0.8
-  - section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
-    section_type: linked_image_asset
-    source_line: 320k 160k 110k 75k 50k 180k 80k 60k 38k 7000 4250 = 1750 = 1100
-    unit: null
-    values:
-    - 320.0
-    - 160.0
-    - 110.0
-    - 75.0
-    - 50.0
-    - 180.0
-    - 80.0
-    - 60.0
-    - 38.0
-    - 7000.0
-  - section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
-    section_type: linked_image_asset
-    source_line: 7 40.1% 40.9% +0.6% +0.9% +1.8% 40.3% 40.9% 40.1% +2.1% 42.4% +1.7%
-      +2.4% 43.1%
-    unit: pct
-    values:
-    - 7.0
-    - 40.1
-    - 40.9
-    - 0.6
-    - 0.9
-    - 1.8
-    - 40.3
-    - 40.9
-    - 40.1
-    - 2.1
-  - section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
-    section_type: linked_image_asset
-    source_line: 320k = 160k 110k 75k 50k 180k 80k 60k 32k 7000 4250S «1750 = 1100
-    unit: null
-    values:
-    - 320.0
-    - 160.0
-    - 110.0
-    - 75.0
-    - 50.0
-    - 180.0
-    - 80.0
-    - 60.0
-    - 32.0
-    - 7000.0
-  - section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
-    section_type: linked_image_asset
-    source_line: '- 40.2% +0.9% +0.6% +0.9% +2.1% 40.3% 41.6% +0.1% +2.7% #2.9% +1.7%
-      +2.4% +1.3%'
-    unit: pct
-    values:
-    - 40.2
-    - 0.9
-    - 0.6
-    - 0.9
-    - 2.1
-    - 40.3
-    - 41.6
-    - 0.1
-    - 2.7
-    - 2.9
-  - section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
-    section_type: linked_image_asset
-    source_line: 310k 160k 110k 75k 50k 180k 80k 55k 30k 7000 4250 = «1750 = 1100
-    unit: null
-    values:
-    - 310.0
-    - 160.0
-    - 110.0
-    - 75.0
-    - 50.0
-    - 180.0
-    - 80.0
-    - 55.0
-    - 30.0
-    - 7000.0
-  - section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
-    section_type: linked_image_asset
-    source_line: ne 40.5% +0.8% +0.6% +0.9% +1.4% 40.3% 42.7% +0.1% +3.1% 42.1% +1.7%
-      +2.4% 40.4%
-    unit: pct
-    values:
-    - 40.5
-    - 0.8
-    - 0.6
-    - 0.9
-    - 1.4
-    - 40.3
-    - 42.7
-    - 0.1
-    - 3.1
-    - 42.1
-  - section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
-    section_type: linked_image_asset
-    source_line: 305k 155k 105k 70k 45k 180k 75k 55k 30k 7000 4250 «17501100
-    unit: null
-    values:
-    - 305.0
-    - 155.0
-    - 105.0
-    - 70.0
-    - 45.0
-    - 180.0
-    - 75.0
-    - 55.0
-    - 30.0
-    - 7000.0
-  - section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
-    section_type: linked_image_asset
-    source_line: 25 40.8% +0.4% 40.6% 40.9% -1.9% 0.9% 42.0% 0.0% 43.5% OA% +1.7%
-      +2.4% 41.8%
-    unit: pct
-    values:
-    - 25.0
-    - 40.8
-    - 0.4
-    - 40.6
-    - 40.9
-    - -1.9
-    - 0.9
-    - 42.0
-    - 43.5
-    - 1.7
-  - section: 'Linked asset: 2024-07-25_weekly-vessel-valuations-report-july-23-2024_img1_45677_4b0782852292.jpg'
-    section_type: linked_image_asset
-    source_line: 300k «150k 105k 65k 45k 170k 75k 48k 30k 6500 4000 1750 1100 |
-    unit: null
-    values:
-    - 300.0
-    - 150.0
-    - 105.0
-    - 65.0
-    - 45.0
-    - 170.0
-    - 75.0
-    - 48.0
-    - 30.0
-    - 6500.0
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - *id010
+  - *id011
+  - *id012
+  - *id013
+  - *id014
+  - *id015
+  - *id016
+  - *id017
+  - *id018
+  - *id019
+  - *id020
+  - *id021
+  - *id022
+  - *id023
+  - *id024
 source: hellenic
-source_path: corpus/02-hellenic/vessel_valuations/2024/2024-07-25_weekly-vessel-valuations-report-july-23-2024.html
+source_path: reports/hellenic/vessel_valuations/2024/2024-07-25_weekly-vessel-valuations-report-july-23-2024.html
 source_stem: 2024-07-25_weekly-vessel-valuations-report-july-23-2024
 source_url: https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-july-23-2024
 summary: 'Main

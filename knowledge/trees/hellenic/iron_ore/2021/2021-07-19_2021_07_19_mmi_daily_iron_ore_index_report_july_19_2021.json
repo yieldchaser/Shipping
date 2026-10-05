@@ -9,7 +9,7 @@
   "section_path_text": "MMi Daily Iron Ore Index Report July 19 2021",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Chinese iron ore and steelmaking prices 19/07/2021\nIron ore quotations in the physical port stock market inched down gradually when DCE iron ore futures market vibrated vulnerably. Totaltransactions concluded to be insipid as mills remained on-demands procurements. PBF was closed at 1470-1480yuan/mt in Shandong market, with price falling of 10-20yuan/mt over last Friday, and that in Tangshan market declined by 25yuan/mt to 1470yuan/mt.",
+  "summary": "Main\nIron ore quotations in the physical port stock market inched down gradually when DCE iron ore futures market vibrated vulnerably. Totaltransactions concluded to be insipid as mills remained on-demands procurements. PBF was closed at 1470-1480yuan/mt in Shandong market, with price falling of 10-20yuan/mt over last Friday, and that in Tangshan market declined by 25yuan/mt to 1470yuan/mt.",
   "keywords": [
     "china",
     "brazil",
@@ -22,12 +22,12 @@
     "cid",
     "fines",
     "jul",
-    "high"
+    "change"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 31272,
-  "source_path": "corpus/02-hellenic/iron_ore/2021/2021-07-19_mmi-daily-iron-ore-index-report-july-19-2021.html",
+  "token_count": 32568,
+  "source_path": "reports/hellenic/iron_ore/2021/2021-07-19_mmi-daily-iron-ore-index-report-july-19-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-july-19-2021",
   "children": [
     {
@@ -97,7 +97,7 @@
       "section_path_text": "Linked asset: 2021-07-19_mmi-daily-iron-ore-index-report-july-19-2021_img1_1907chinesef91_373ea7200a41.jpg",
       "level": 1,
       "ordinal": 3,
-      "summary": "Source asset: corpus/02-hellenic/iron_ore/2021/assets/2021-07-19_mmi-daily-iron-ore-index-report-july-19-2021_img1_1907chinesef91_373ea7200a41.jpg\n\nLinked image asset: 2021-07-19_mmi-daily-iron-ore-index-report-july-19-2021_img1_1907chinesef91_373ea7200a41.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nMMi Daily Iron Ore Index Report i Jul 19th, 2021\nIRON ORE PORT STOCK INDEX (IOPI)\nJul 19th, 2021 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc.",
+      "summary": "Source asset: corpus/02-hellenic/iron_ore/2021/assets/2021-07-19_mmi-daily-iron-ore-index-report-july-19-2021_img1_1907chinesef91_373ea7200a41.jpg\n\nLinked image asset: 2021-07-19_mmi-daily-iron-ore-index-report-july-19-2021_img1_1907chinesef91_373ea7200a41.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\n[structured table]\n| MMi | Daily Iron Ore | Index | Report | | | | | | | | | | Jul 19th, | 2021 | | |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| | | | | | | IRON ORE | PORT | STOCK INDEX | | | | | | | | |\n| Jul 19th, | 2021 | | FOT | Qingdao (inc. | 13% VAT), | RMB/wet | tonne | | | CFR Qingdao | Equivalent | (exc.",
       "keywords": [
         "china",
         "brazil",
@@ -106,11 +106,11 @@
         "steel",
         "change",
         "ore",
-        "high"
+        "iron"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 910,
+      "token_count": 2206,
       "section_type": "linked_image_asset",
       "children": []
     }

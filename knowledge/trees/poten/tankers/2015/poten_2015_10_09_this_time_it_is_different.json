@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2015_10_09_this_time_it_is_different__root",
+  "doc_id": "poten_tankers_no_date_poten_2015_10_09_this_time_it_is_different",
+  "parent_id": null,
+  "title": "This Time It Is Different",
+  "section_path": [
+    "This Time It Is Different"
+  ],
+  "section_path_text": "This Time It Is Different",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The VLCC market is hot again, but for different reasons\nLate last week, time charter equivalents (TCE's), a measure of vessel's daily earnings exceeded the magical $100,000 per day mark for VLCC's. This brings back memories from the 2004 - 2008 \"super-cycle\", when this happened on a regular basis. In anticipation of these good times, a large publicly traded shipowner opened their presentation at the annual Marine Money Seminar in New York in June 2003 with a slide that defined a VLCC as a \"Very Large Cash Creator\".",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "brazil",
+    "crude_oil",
+    "day",
+    "was",
+    "million",
+    "orderbook",
+    "even",
+    "july"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 895,
+  "source_path": "reports/poten/2015/poten_2015-10-09_this-time-it-is-different.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2015_10_09_this_time_it_is_different__s01_the_vlcc_market_is_hot_again_but_for_different_reasons",
+      "doc_id": "poten_tankers_no_date_poten_2015_10_09_this_time_it_is_different",
+      "parent_id": "poten_tankers_no_date_poten_2015_10_09_this_time_it_is_different__root",
+      "title": "The VLCC market is hot again, but for different reasons",
+      "section_path": [
+        "The VLCC market is hot again, but for different reasons"
+      ],
+      "section_path_text": "The VLCC market is hot again, but for different reasons",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Late last week, time charter equivalents (TCE's), a measure of vessel's daily earnings exceeded the magical $100,000 per day mark for VLCC's. This brings back memories from the 2004 - 2008 \"super-cycle\", when this happened on a regular basis.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "brazil",
+        "crude_oil",
+        "day",
+        "was"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 882,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

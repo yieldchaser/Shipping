@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1738,
-  "source_path": "corpus/02-hellenic/vessel_valuations/2026/2026-08-25_weekly-vessel-valuations-report-august-25-2026.html",
+  "token_count": 1698,
+  "source_path": "reports/hellenic/vessel_valuations/2026/2026-08-25_weekly-vessel-valuations-report-august-25-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-august-25-2026",
   "children": [
     {
@@ -54,22 +54,22 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 621,
+      "token_count": 589,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_vessel_valuations_2026-08-25_2026_08_25_weekly_vessel_valuations_report_august_25_2026__s02_linked_asset_2026_08_25_weekly_vessel_valuations_report_august_25_2026_img1_2508202633_96d50e087797_jpg",
+      "node_id": "hellenic_vessel_valuations_2026-08-25_2026_08_25_weekly_vessel_valuations_report_august_25_2026__s02_linked_asset_2026_08_25_weekly_vessel_valuations_report_august_25_2026_2508202633_96d50e087797_jpg",
       "doc_id": "hellenic_vessel_valuations_2026-08-25_2026_08_25_weekly_vessel_valuations_report_august_25_2026",
       "parent_id": "hellenic_vessel_valuations_2026-08-25_2026_08_25_weekly_vessel_valuations_report_august_25_2026__root",
-      "title": "Linked asset: 2026-08-25_weekly-vessel-valuations-report-august-25-2026_img1_2508202633_96d50e087797.jpg",
+      "title": "Linked asset: 2026-08-25_weekly-vessel-valuations-report-august-25-2026_2508202633_96d50e087797.jpg",
       "section_path": [
-        "Linked asset: 2026-08-25_weekly-vessel-valuations-report-august-25-2026_img1_2508202633_96d50e087797.jpg"
+        "Linked asset: 2026-08-25_weekly-vessel-valuations-report-august-25-2026_2508202633_96d50e087797.jpg"
       ],
-      "section_path_text": "Linked asset: 2026-08-25_weekly-vessel-valuations-report-august-25-2026_img1_2508202633_96d50e087797.jpg",
+      "section_path_text": "Linked asset: 2026-08-25_weekly-vessel-valuations-report-august-25-2026_2508202633_96d50e087797.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2026/assets/2026-08-25_weekly-vessel-valuations-report-august-25-2026_img1_2508202633_96d50e087797.jpg\n\nLinked image asset: 2026-08-25_weekly-vessel-valuations-report-august-25-2026_img1_2508202633_96d50e087797.jpg\n\nImage metadata: JPEG 687x307 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\n[structured table]\n| 25 August | 2026 | | | | | VV Mini | Matrix - | Weekly Change | | | |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| | | | Tankers | | | | Bulkers | | Containers | | |\n| Yer | vice | Seer | fre | ua | MR | Cape | Pex | Mandy | eet Pour | Maney | Poms |\n| . | 0% | | 102% | om | 22.5% | 05% | | 04% | 10.1% | 33% | |\n| | | ise | 13k | 7k | Se | | at | | 20 | 1730 | 1100 |\n| | 19% | 1a | +0 | ons | | 05% | oo | | 101% | | |\n| | | 1908 | | 7k | Soh | | | ok | 7000 | 1780 | 1100 |\n| .",
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-08-25_weekly-vessel-valuations-report-august-25-2026_2508202633_96d50e087797.jpg\n\nLinked image asset: 2026-08-25_weekly-vessel-valuations-report-august-25-2026_2508202633_96d50e087797.jpg\n\nImage metadata: JPEG 687x307 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\n[structured table]\n| 25 August | 2026 | | | | | VV Mini | Matrix - | Weekly Change | | | |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| | | | Tankers | | | | Bulkers | | Containers | | |\n| Yer | vice | Seer | fre | ua | MR | Cape | Pex | Mandy | eet Pour | Maney | Poms |\n| . | 0% | | 102% | om | 22.5% | 05% | | 04% | 10.1% | 33% | |\n| | | ise | 13k | 7k | Se | | at | | 20 | 1730 | 1100 |\n| | 19% | 1a | +0 | ons | | 05% | oo | | 101% | | |\n| | | 1908 | | 7k | Soh | | | ok | 7000 | 1780 | 1100 |\n| .",
       "keywords": [
         "capesize",
         "container",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1073,
+      "token_count": 1067,
       "section_type": "linked_image_asset",
       "children": []
     }

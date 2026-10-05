@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2017_04_28_rock_versus_sand__root",
+  "doc_id": "poten_tankers_no_date_poten_2017_04_28_rock_versus_sand",
+  "parent_id": null,
+  "title": "Rock versus Sand",
+  "section_path": [
+    "Rock versus Sand"
+  ],
+  "section_path_text": "Rock versus Sand",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Diverging trajectory for two unconventional sources of crude\nAmerican shale is back. Production is going from strength to strength on the back of increased drilling activity and significantly reduced breakeven prices compared to 2014/2015. Even at current prices, which are hovering around $50 per barrel, shale oil can be profitably extracted from fields in the United States.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "singapore",
+    "crude_oil",
+    "gas",
+    "oil",
+    "u.s.",
+    "canadian",
+    "production",
+    "prices",
+    "shale"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 924,
+  "source_path": "reports/poten/2017/poten_2017-04-28_rock-versus-sand.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2017_04_28_rock_versus_sand__s01_diverging_trajectory_for_two_unconventional_sources_of_crude",
+      "doc_id": "poten_tankers_no_date_poten_2017_04_28_rock_versus_sand",
+      "parent_id": "poten_tankers_no_date_poten_2017_04_28_rock_versus_sand__root",
+      "title": "Diverging trajectory for two unconventional sources of crude",
+      "section_path": [
+        "Diverging trajectory for two unconventional sources of crude"
+      ],
+      "section_path_text": "Diverging trajectory for two unconventional sources of crude",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Production is going from strength to strength on the back of increased drilling activity and significantly reduced breakeven prices compared to 2014/2015. Even at current prices, which are hovering around $50 per barrel, shale oil can be profitably extracted from fields in the United States.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "singapore",
+        "crude_oil",
+        "gas",
+        "oil",
+        "u.s."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 913,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

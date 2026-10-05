@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2014_07_03_another_rumble_in_the_jungle__root",
+  "doc_id": "poten_tankers_no_date_poten_2014_07_03_another_rumble_in_the_jungle",
+  "parent_id": null,
+  "title": "Another Rumble in the Jungle",
+  "section_path": [
+    "Another Rumble in the Jungle"
+  ],
+  "section_path_text": "Another Rumble in the Jungle",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "1 Angolan Crude Oil Production\nIs Angola poised to become Africa's top producer? Although the last of the African soccer teams have left the World Cup in the round of 16, the importance of African nations in the worldwide crude oil markets is poised for a more positive fate. The first commercial oil discovery in Angola, then a Portuguese colony, was made back in 1955.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "brazil",
+    "atlantic",
+    "europe",
+    "india",
+    "crude_oil",
+    "angola",
+    "oil",
+    "production",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 777,
+  "source_path": "reports/poten/2014/poten_2014-07-03_another-rumble-in-the-jungle.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_07_03_another_rumble_in_the_jungle__s01_fig_1_angolan_crude_oil_production",
+      "doc_id": "poten_tankers_no_date_poten_2014_07_03_another_rumble_in_the_jungle",
+      "parent_id": "poten_tankers_no_date_poten_2014_07_03_another_rumble_in_the_jungle__root",
+      "title": "Fig. 1 Angolan Crude Oil Production",
+      "section_path": [
+        "Fig. 1 Angolan Crude Oil Production"
+      ],
+      "section_path_text": "Fig. 1 Angolan Crude Oil Production",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Is Angola poised to become Africa's top producer? Although the last of the African soccer teams have left the World Cup in the round of 16, the importance of African nations in the worldwide crude oil markets is poised for a more positive fate.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "brazil",
+        "atlantic",
+        "europe",
+        "india",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 766,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

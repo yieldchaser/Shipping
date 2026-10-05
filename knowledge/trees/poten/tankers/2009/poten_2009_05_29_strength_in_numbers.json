@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2009_05_29_strength_in_numbers__root",
+  "doc_id": "poten_tankers_no_date_poten_2009_05_29_strength_in_numbers",
+  "parent_id": null,
+  "title": "Strength in Numbers",
+  "section_path": [
+    "Strength in Numbers"
+  ],
+  "section_path_text": "Strength in Numbers",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Strength in Numbers\nMaking predictions about the direction of tanker rates is easy; getting it correct is the real challenge. Drawing on today's anecdotal support it is difficult to see a major recovery in freight rates in the near term. The initial step in formulating a view is identifying which factors could have an effect on the freight markets.",
+  "keywords": [
+    "vlcc",
+    "meg",
+    "crude_oil",
+    "worldscale",
+    "analysis",
+    "next",
+    "factors",
+    "one",
+    "test",
+    "variables",
+    "actual",
+    "availability"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 715,
+  "source_path": "reports/poten/2009/poten_2009-05-29_strength-in-numbers.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_05_29_strength_in_numbers__s01_strength_in_numbers",
+      "doc_id": "poten_tankers_no_date_poten_2009_05_29_strength_in_numbers",
+      "parent_id": "poten_tankers_no_date_poten_2009_05_29_strength_in_numbers__root",
+      "title": "Strength in Numbers",
+      "section_path": [
+        "Strength in Numbers"
+      ],
+      "section_path_text": "Strength in Numbers",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Making predictions about the direction of tanker rates is easy; getting it correct is the real challenge. Drawing on today's anecdotal support it is difficult to see a major recovery in freight rates in the near term.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "analysis",
+        "arabian",
+        "different",
+        "factors",
+        "statistical",
+        "actual"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 145,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_05_29_strength_in_numbers__s02_ws_vlcc_actual",
+      "doc_id": "poten_tankers_no_date_poten_2009_05_29_strength_in_numbers",
+      "parent_id": "poten_tankers_no_date_poten_2009_05_29_strength_in_numbers__root",
+      "title": "WS VLCC (Actual)",
+      "section_path": [
+        "WS VLCC (Actual)"
+      ],
+      "section_path_text": "WS VLCC (Actual)",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Test #1 Test #2 Test #3 The most logical starting point for performing the analysis is the historical Worldscale rates themselves. But since Worldscale rates do not exist in a vacuum other factors were considered.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "worldscale",
+        "test",
+        "variables",
+        "next",
+        "year",
+        "analysis"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 380,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_05_29_strength_in_numbers__s03_next_30_days",
+      "doc_id": "poten_tankers_no_date_poten_2009_05_29_strength_in_numbers",
+      "parent_id": "poten_tankers_no_date_poten_2009_05_29_strength_in_numbers__root",
+      "title": "Next 30 Days",
+      "section_path": [
+        "Next 30 Days"
+      ],
+      "section_path_text": "Next 30 Days",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Current Spot AG‐FE (260kt) The statistical analysis did not reveal a clear correlation in the short‐term Worldscale rate and demand, but rather demonstrated the linkage of Worldscale rate and supply of ships. Although variability in the number of ships available over the next 30 days is apparent, the presence of prompt availability has a general cooling effect on the rate environment.",
+      "keywords": [
+        "can",
+        "but",
+        "current",
+        "number",
+        "prompt",
+        "ships",
+        "statistics",
+        "worldscale"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 175,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

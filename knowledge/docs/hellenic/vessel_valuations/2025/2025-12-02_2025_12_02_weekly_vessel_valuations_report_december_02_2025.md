@@ -31,9 +31,10 @@ linked_assets_ingested: 1
 linked_assets_mirrored: 1
 linked_assets_skipped: 0
 market_tone: neutral
-numeric_observation_count: 29
+numeric_observation_count: 42
 numeric_observations:
-- section: Main
+- &id001
+  section: Main
   section_type: null
   source_line: Panamax Key Frontier (80,700 DWT, 2011, Universal) sold SS/DD Passed
     for USD 18.2 mil, VV Value USD 16.73 mil
@@ -41,9 +42,10 @@ numeric_observations:
   values:
   - 80700.0
   - 2011.0
-  - 18200.0
-  - 16730.0
-- section: Main
+  - 18.2
+  - 16.73
+- &id002
+  section: Main
   section_type: null
   source_line: 2x Ultramax (66,000 DWT, 2025-2026, Jiangsu Yangzi-Mitsui) sold in
     an enbloc deal to Precious Shipping for USD 74.5 mil, VV Value USD 75 mil
@@ -53,9 +55,10 @@ numeric_observations:
   - 66000.0
   - 2025.0
   - -2026.0
-  - 74500.0
+  - 74.5
   - 75.0
-- section: Main
+- &id003
+  section: Main
   section_type: null
   source_line: Handysize Trawind Dolphin (33,700 DWT, 2012, Shin Kurushima) sold for
     USD 13.8 mil, VV Value USD 13.63 mil
@@ -63,9 +66,10 @@ numeric_observations:
   values:
   - 33700.0
   - 2012.0
-  - 13800.0
-  - 13630.0
-- section: Main
+  - 13.8
+  - 13.63
+- &id004
+  section: Main
   section_type: null
   source_line: Handysize COSCO Wuyishan (32,000 DWT, 2010, Fujian Mawei) auctioned
     for USD 8.08 mil, VV Value USD 8.11 mil
@@ -73,16 +77,18 @@ numeric_observations:
   values:
   - 32000.0
   - 2010.0
-  - 8080.0
-  - 8109.999999999999
-- section: Main
+  - 8.08
+  - 8.11
+- &id005
+  section: Main
   section_type: null
   source_line: 'Tankers: VV MR Tanker values have firmed this week especially as S&P
     activity has increased including a number of MR2 en bloc deals'
   unit: null
   values:
   - 2.0
-- section: Main
+- &id006
+  section: Main
   section_type: null
   source_line: VLCC Mermaid Hope & Mercury Hope (297,200 DWT, 2011, Universal) sold
     in an en bloc deal by Cido Shipping for USD 120 mil, VV Value USD 124.94 mil
@@ -92,7 +98,8 @@ numeric_observations:
   - 2011.0
   - 120.0
   - 124.94
-- section: Main
+- &id007
+  section: Main
   section_type: null
   source_line: Suezmax Sonangol Namibe (158,400 DWT, Mar 2007, Daewoo) sold to Unknown
     Greek buyers for USD 34 mil, VV Value USD 34.1 mil
@@ -101,8 +108,9 @@ numeric_observations:
   - 158400.0
   - 2007.0
   - 34.0
-  - 34100.0
-- section: Main
+  - 34.1
+- &id008
+  section: Main
   section_type: null
   source_line: MR2 (Chemical/Product) Hafnia Libra & Hafnia Phoenix (52,400 DWT, 2013,
     Guangzhou Shipyard International Company Limited) sold in an en bloc deal by Hafnia
@@ -113,8 +121,9 @@ numeric_observations:
   - 52400.0
   - 2013.0
   - 46.0
-  - 47670.0
-- section: Main
+  - 47.67
+- &id009
+  section: Main
   section_type: null
   source_line: MR2 (Chemical/Product) UOG Syros (51,700 DWT, Aug 2010, Hyundai Mipo)
     sold SS/DD Passed by United Overseas Group for USD 21.5 mil, VV Value USD 21.01
@@ -124,9 +133,10 @@ numeric_observations:
   - 2.0
   - 51700.0
   - 2010.0
-  - 21500.0
-  - 21010.0
-- section: Main
+  - 21.5
+  - 21.01
+- &id010
+  section: Main
   section_type: null
   source_line: MR2 (Chemical/Product) PS Queen & PS Dream (51,200 DWT, Aug 2006, STX
     Offshore) sold in an en bloc deal to Unknown UAE buyers for USD 28 mil, VV Value
@@ -137,8 +147,9 @@ numeric_observations:
   - 51200.0
   - 2006.0
   - 28.0
-  - 27770.0
-- section: Main
+  - 27.77
+- &id011
+  section: Main
   section_type: null
   source_line: Sub Panamax Container Happy Lucky (2,553 TEU, Feb 2008, Naikai Setoda)
     sold DD Passed to Chinese buyers for USD 27.5 mil, VV Value USD 26.41 mil
@@ -146,9 +157,10 @@ numeric_observations:
   values:
   - 2553.0
   - 2008.0
-  - 27500.0
-  - 26410.0
-- section: Main
+  - 27.5
+  - 26.41
+- &id012
+  section: Main
   section_type: null
   source_line: Handy Container Borkum (1,930 TEU, Oct 2023, Guangzhou Wenchong) sold
     to Chinese buyers for USD 36.9 mil, VV Value USD 35.9 mil
@@ -156,9 +168,10 @@ numeric_observations:
   values:
   - 1930.0
   - 2023.0
-  - 36900.0
-  - 35900.0
-- section: Main
+  - 36.9
+  - 35.9
+- &id013
+  section: Main
   section_type: null
   source_line: 'Image reference: assets/2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
   unit: null
@@ -172,7 +185,8 @@ numeric_observations:
   - 2122025.0
   - 9407.0
   - 17.0
-- section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
+- &id014
+  section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
   unit: null
@@ -186,40 +200,216 @@ numeric_observations:
   - 2122025.0
   - 9407.0
   - 17.0
-- section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
+- &id015
+  section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 600x278 mode=RGB'
   unit: null
   values:
   - 600.0
   - 278.0
-- section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
+- &id016
+  section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (96.0, 96.0)'
   unit: null
   values:
-  - 96000.0
-  - 96000.0
-- section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
+  - 96.0
+  - 96.0
+- &id017
+  section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
+  section_type: linked_image_asset
+  source_line: '| 02 December | 2025 | | | | VV | Mini Matrix | - | Weekly | Change
+    | | | | |'
+  unit: null
+  values:
+  - 2.0
+  - 2025.0
+- &id018
+  section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 00% | 10.9% | 108% | 102% | 40.3% | | | | | 03% | OM | OM | |'
+  unit: pct
+  values:
+  - 10.9
+  - 108.0
+  - 102.0
+  - 40.3
+  - 3.0
+- &id019
+  section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 320k | 160k | Sk | | | 180k | 82k | 62k | 38% | 7000 | 4250 |
+    80 | 00 |'
+  unit: pct
+  values:
+  - 320.0
+  - 160.0
+  - 180.0
+  - 82.0
+  - 62.0
+  - 38.0
+  - 7000.0
+  - 4250.0
+  - 80.0
+- &id020
+  section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 00% | 10.9% | 108% | 102% | 10.6% | 16% | | | | 03% | 0M | OM
+    | |'
+  unit: pct
+  values:
+  - 10.9
+  - 108.0
+  - 102.0
+  - 10.6
+  - 16.0
+  - 3.0
+- &id021
+  section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 320k | 160k | nOk | Tsk | SOK | 180K | 82k | 60k | 38% | 7000
+    | 4250 | 780 | noo |'
+  unit: pct
+  values:
+  - 320.0
+  - 160.0
+  - 180.0
+  - 82.0
+  - 60.0
+  - 38.0
+  - 7000.0
+  - 4250.0
+  - 780.0
+- &id022
+  section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 00% | | «10.8% | | HSH | 14% | | LOH | | | 00 | 02K | |'
+  unit: pct
+  values:
+  - 10.8
+  - 14.0
+  - 2.0
+- &id023
+  section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 320k | 160k | nOk | Sk | | 180K | 80k | 60k | | 7000 | 4250 |
+    1780 | noo |'
+  unit: null
+  values:
+  - 320.0
+  - 160.0
+  - 180.0
+  - 80.0
+  - 60.0
+  - 7000.0
+  - 4250.0
+  - 1780.0
+- &id024
+  section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 00% | 40.9% | 108% | 40.2% | | 109% | | | | 02% | 02% | | |'
+  unit: pct
+  values:
+  - 40.9
+  - 108.0
+  - 40.2
+  - 109.0
+  - 2.0
+  - 2.0
+- &id025
+  section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
+  section_type: linked_image_asset
+  source_line: '| | | = 60K | Mk | 73k | 50k | 0k | 80k | 58k | 30k | 7000 | | | |'
+  unit: null
+  values:
+  - 60.0
+  - 73.0
+  - 50.0
+  - 80.0
+  - 58.0
+  - 30.0
+  - 7000.0
+- &id026
+  section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 00% | 409% | 108% | 403% | | 103% | | | | | 02 | AK | |'
+  unit: pct
+  values:
+  - 409.0
+  - 108.0
+  - 403.0
+  - 103.0
+  - 2.0
+- &id027
+  section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
+  section_type: linked_image_asset
+  source_line: '| | | 160k | NOk | 70k | 45k | 180k | 75k | 55k | 30k | 7000 | 4250
+    | | |'
+  unit: null
+  values:
+  - 160.0
+  - 70.0
+  - 45.0
+  - 180.0
+  - 75.0
+  - 55.0
+  - 30.0
+  - 7000.0
+  - 4250.0
+- &id028
+  section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
+  section_type: linked_image_asset
+  source_line: '| | OM | 10.9% | 0.8% | OAH | | 00% | +37 | 0.8% | --+29% | 00% |
+    03% | | |'
+  unit: pct
+  values:
+  - 10.9
+  - 0.8
+  - 37.0
+  - 0.8
+  - 29.0
+  - 3.0
+- &id029
+  section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
+  section_type: linked_image_asset
+  source_line: '| | 300k | = 1SSk | 105k | 70k | 45k | 175k | 75k | 48k | 30k | 6500
+    | 4000 | | |'
+  unit: null
+  values:
+  - 300.0
+  - 1.0
+  - 105.0
+  - 70.0
+  - 45.0
+  - 175.0
+  - 75.0
+  - 48.0
+  - 30.0
+  - 6500.0
+- &id030
+  section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
   section_type: linked_image_asset
   source_line: 02 December 2025 VV Mini Matrix - Weekly Change
   unit: null
   values:
   - 2.0
   - 2025.0
-- section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
+- &id031
+  section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
   section_type: linked_image_asset
   source_line: ‘ 00% 10.9% 108% 102% 40.3% *1S% 108% EKO. 03% OM OM OTH
   unit: pct
   values:
-  - 10900.0
+  - 10.9
   - 108.0
   - 102.0
-  - 40300.0
+  - 40.3
   - 1.0
   - 108.0
   - 3.0
-- section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
+- &id032
+  section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
   section_type: linked_image_asset
   source_line: 320k 160k Sk Sk SOK 180k 82k 62k 38% 7000 4250 80 00
   unit: pct
@@ -233,20 +423,22 @@ numeric_observations:
   - 7000.0
   - 4250.0
   - 80.0
-- section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
+- &id033
+  section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
   section_type: linked_image_asset
   source_line: s 00% 10.9% 108% 102% 10.6% 16% 18K LTH HB 03% 0M OM «02%
   unit: pct
   values:
-  - 10900.0
+  - 10.9
   - 108.0
   - 102.0
-  - 10600.0
+  - 10.6
   - 16.0
   - 18.0
   - 3.0
   - 2.0
-- section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
+- &id034
+  section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
   section_type: linked_image_asset
   source_line: 320k 160k nOk Tsk SOK 180K 82k 60k 38% 7000 4250 780 noo
   unit: pct
@@ -260,19 +452,21 @@ numeric_observations:
   - 7000.0
   - 4250.0
   - 780.0
-- section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
+- &id035
+  section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
   section_type: linked_image_asset
   source_line: '00% 10.9% «10.8% =H HSH 14% RG LOH #28 O36 00 02K 10.6%'
   unit: pct
   values:
-  - 10900.0
-  - 10800.0
+  - 10.9
+  - 10.8
   - 14.0
   - 28.0
   - 36.0
   - 2.0
-  - 10600.0
-- section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
+  - 10.6
+- &id036
+  section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
   section_type: linked_image_asset
   source_line: 320k 160k nOk Sk SOK 180K 80k 60k Sk 7000 4250 1780 noo
   unit: null
@@ -285,22 +479,24 @@ numeric_observations:
   - 7000.0
   - 4250.0
   - 1780.0
-- section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
+- &id037
+  section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
   section_type: linked_image_asset
   source_line: '% 00% 40.9% 108% 40.2% «+23 109% 35.0% LAH #0 02% 02% 40.7% 1.8%'
   unit: pct
   values:
-  - 40900.0
+  - 40.9
   - 108.0
-  - 40200.0
+  - 40.2
   - 23.0
   - 109.0
-  - 35000.0
+  - 35.0
   - 2.0
   - 2.0
-  - 40700.0
+  - 40.7
   - 1.8
-- section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
+- &id038
+  section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
   section_type: linked_image_asset
   source_line: S0k = 60K Mk 73k 50k 0k 80k 58k 30k 7000 42808000.
   unit: null
@@ -313,7 +509,8 @@ numeric_observations:
   - 30.0
   - 7000.0
   - 42808000.0
-- section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
+- &id039
+  section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
   section_type: linked_image_asset
   source_line: 'ws 00% 409% 108% 403% 120% 103% 45.1% ATH #LOM OD 02 AK 13S'
   unit: worldscale_pct
@@ -323,10 +520,11 @@ numeric_observations:
   - 403.0
   - 120.0
   - 103.0
-  - 45100.0
+  - 45.1
   - 2.0
   - 13.0
-- section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
+- &id040
+  section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
   section_type: linked_image_asset
   source_line: B0k 160k NOk 70k 45k 180k 75k 55k 30k 7000 4250 «S000.
   unit: null
@@ -340,20 +538,22 @@ numeric_observations:
   - 30.0
   - 7000.0
   - 4250.0
-- section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
+- &id041
+  section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
   section_type: linked_image_asset
   source_line: _ OM 10.9% 0.8% OAH BA 00% +37 0.8% --+29% 00% 03% 920% 5.6%
   unit: pct
   values:
-  - 10900.0
+  - 10.9
   - 0.8
   - 37.0
   - 0.8
   - 29.0
   - 3.0
   - 920.0
-  - 5600.0
-- section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
+  - 5.6
+- &id042
+  section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
   section_type: linked_image_asset
   source_line: 300k = 1SSk 105k 70k 45k 175k 75k 48k 30k 6500 4000 SO N00
   unit: null
@@ -376,333 +576,52 @@ regions:
 - meg
 section_count: 2
 signals:
-  numeric_observation_count: 28
+  numeric_observation_count: 42
   numeric_observations:
-  - section: Main
-    section_type: null
-    source_line: Panamax Key Frontier (80,700 DWT, 2011, Universal) sold SS/DD Passed
-      for USD 18.2 mil, VV Value USD 16.73 mil
-    unit: usd
-    values:
-    - 80700.0
-    - 2011.0
-    - 18.2
-    - 16.73
-  - section: Main
-    section_type: null
-    source_line: 2x Ultramax (66,000 DWT, 2025-2026, Jiangsu Yangzi-Mitsui) sold in
-      an enbloc deal to Precious Shipping for USD 74.5 mil, VV Value USD 75 mil
-    unit: usd
-    values:
-    - 2.0
-    - 66000.0
-    - 2025.0
-    - -2026.0
-    - 74.5
-    - 75.0
-  - section: Main
-    section_type: null
-    source_line: Handysize Trawind Dolphin (33,700 DWT, 2012, Shin Kurushima) sold
-      for USD 13.8 mil, VV Value USD 13.63 mil
-    unit: usd
-    values:
-    - 33700.0
-    - 2012.0
-    - 13.8
-    - 13.63
-  - section: Main
-    section_type: null
-    source_line: Handysize COSCO Wuyishan (32,000 DWT, 2010, Fujian Mawei) auctioned
-      for USD 8.08 mil, VV Value USD 8.11 mil
-    unit: usd
-    values:
-    - 32000.0
-    - 2010.0
-    - 8.08
-    - 8.11
-  - section: Main
-    section_type: null
-    source_line: VLCC Mermaid Hope & Mercury Hope (297,200 DWT, 2011, Universal) sold
-      in an en bloc deal by Cido Shipping for USD 120 mil, VV Value USD 124.94 mil
-    unit: usd
-    values:
-    - 297200.0
-    - 2011.0
-    - 120.0
-    - 124.94
-  - section: Main
-    section_type: null
-    source_line: Suezmax Sonangol Namibe (158,400 DWT, Mar 2007, Daewoo) sold to Unknown
-      Greek buyers for USD 34 mil, VV Value USD 34.1 mil
-    unit: usd
-    values:
-    - 158400.0
-    - 2007.0
-    - 34.0
-    - 34.1
-  - section: Main
-    section_type: null
-    source_line: MR2 (Chemical/Product) Hafnia Libra & Hafnia Phoenix (52,400 DWT,
-      2013, Guangzhou Shipyard International Company Limited) sold in an en bloc deal
-      by Hafnia for USD 46 mil, VV Value USD 47.67 mil
-    unit: usd
-    values:
-    - 52400.0
-    - 2013.0
-    - 46.0
-    - 47.67
-  - section: Main
-    section_type: null
-    source_line: MR2 (Chemical/Product) UOG Syros (51,700 DWT, Aug 2010, Hyundai Mipo)
-      sold SS/DD Passed by United Overseas Group for USD 21.5 mil, VV Value USD 21.01
-      mil
-    unit: usd
-    values:
-    - 51700.0
-    - 2010.0
-    - 21.5
-    - 21.01
-  - section: Main
-    section_type: null
-    source_line: MR2 (Chemical/Product) PS Queen & PS Dream (51,200 DWT, Aug 2006,
-      STX Offshore) sold in an en bloc deal to Unknown UAE buyers for USD 28 mil,
-      VV Value USD 27.77 mil
-    unit: usd
-    values:
-    - 51200.0
-    - 2006.0
-    - 28.0
-    - 27.77
-  - section: Main
-    section_type: null
-    source_line: Sub Panamax Container Happy Lucky (2,553 TEU, Feb 2008, Naikai Setoda)
-      sold DD Passed to Chinese buyers for USD 27.5 mil, VV Value USD 26.41 mil
-    unit: usd
-    values:
-    - 2553.0
-    - 2008.0
-    - 27.5
-    - 26.41
-  - section: Main
-    section_type: null
-    source_line: Handy Container Borkum (1,930 TEU, Oct 2023, Guangzhou Wenchong)
-      sold to Chinese buyers for USD 36.9 mil, VV Value USD 35.9 mil
-    unit: usd
-    values:
-    - 1930.0
-    - 2023.0
-    - 36.9
-    - 35.9
-  - section: Main
-    section_type: null
-    source_line: 'Image reference: assets/2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
-    unit: null
-    values:
-    - 2025.0
-    - -12.0
-    - -2.0
-    - 2.0
-    - -2025.0
-    - 2122025.0
-    - 9407.0
-    - 17.0
-  - section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
-    section_type: linked_image_asset
-    source_line: 'Linked image asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
-    unit: null
-    values:
-    - 2025.0
-    - -12.0
-    - -2.0
-    - 2.0
-    - -2025.0
-    - 2122025.0
-    - 9407.0
-    - 17.0
-  - section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
-    section_type: linked_image_asset
-    source_line: 'Image metadata: JPEG 600x278 mode=RGB'
-    unit: null
-    values:
-    - 600.0
-    - 78.0
-  - section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
-    section_type: linked_image_asset
-    source_line: 'dpi: (96.0, 96.0)'
-    unit: null
-    values:
-    - 96.0
-    - 96.0
-  - section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
-    section_type: linked_image_asset
-    source_line: 02 December 2025 VV Mini Matrix - Weekly Change
-    unit: null
-    values:
-    - 2.0
-    - 2025.0
-  - section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
-    section_type: linked_image_asset
-    source_line: ‘ 00% 10.9% 108% 102% 40.3% *1S% 108% EKO. 03% OM OM OTH
-    unit: pct
-    values:
-    - 10.9
-    - 108.0
-    - 102.0
-    - 40.3
-    - 1.0
-    - 108.0
-    - 3.0
-  - section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
-    section_type: linked_image_asset
-    source_line: 320k 160k Sk Sk SOK 180k 82k 62k 38% 7000 4250 80 00
-    unit: pct
-    values:
-    - 320.0
-    - 160.0
-    - 180.0
-    - 82.0
-    - 62.0
-    - 38.0
-    - 7000.0
-    - 4250.0
-    - 80.0
-  - section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
-    section_type: linked_image_asset
-    source_line: s 00% 10.9% 108% 102% 10.6% 16% 18K LTH HB 03% 0M OM «02%
-    unit: pct
-    values:
-    - 10.9
-    - 108.0
-    - 102.0
-    - 10.6
-    - 16.0
-    - 18.0
-    - 3.0
-    - 2.0
-  - section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
-    section_type: linked_image_asset
-    source_line: 320k 160k nOk Tsk SOK 180K 82k 60k 38% 7000 4250 780 noo
-    unit: pct
-    values:
-    - 320.0
-    - 160.0
-    - 180.0
-    - 82.0
-    - 60.0
-    - 38.0
-    - 7000.0
-    - 4250.0
-    - 780.0
-  - section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
-    section_type: linked_image_asset
-    source_line: '00% 10.9% «10.8% =H HSH 14% RG LOH #28 O36 00 02K 10.6%'
-    unit: pct
-    values:
-    - 10.9
-    - 10.8
-    - 14.0
-    - 28.0
-    - 6.0
-    - 2.0
-    - 10.6
-  - section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
-    section_type: linked_image_asset
-    source_line: 320k 160k nOk Sk SOK 180K 80k 60k Sk 7000 4250 1780 noo
-    unit: null
-    values:
-    - 320.0
-    - 160.0
-    - 180.0
-    - 80.0
-    - 60.0
-    - 7000.0
-    - 4250.0
-    - 1780.0
-  - section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
-    section_type: linked_image_asset
-    source_line: '% 00% 40.9% 108% 40.2% «+23 109% 35.0% LAH #0 02% 02% 40.7% 1.8%'
-    unit: pct
-    values:
-    - 40.9
-    - 108.0
-    - 40.2
-    - 23.0
-    - 109.0
-    - 35.0
-    - 2.0
-    - 2.0
-    - 40.7
-    - 1.8
-  - section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
-    section_type: linked_image_asset
-    source_line: S0k = 60K Mk 73k 50k 0k 80k 58k 30k 7000 42808000.
-    unit: null
-    values:
-    - 60.0
-    - 73.0
-    - 50.0
-    - 80.0
-    - 58.0
-    - 30.0
-    - 7000.0
-    - 42808000.0
-  - section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
-    section_type: linked_image_asset
-    source_line: 'ws 00% 409% 108% 403% 120% 103% 45.1% ATH #LOM OD 02 AK 13S'
-    unit: worldscale_pct
-    values:
-    - 409.0
-    - 108.0
-    - 403.0
-    - 120.0
-    - 103.0
-    - 45.1
-    - 2.0
-    - 13.0
-  - section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
-    section_type: linked_image_asset
-    source_line: B0k 160k NOk 70k 45k 180k 75k 55k 30k 7000 4250 «S000.
-    unit: null
-    values:
-    - 160.0
-    - 70.0
-    - 45.0
-    - 180.0
-    - 75.0
-    - 55.0
-    - 30.0
-    - 7000.0
-    - 4250.0
-  - section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
-    section_type: linked_image_asset
-    source_line: _ OM 10.9% 0.8% OAH BA 00% +37 0.8% --+29% 00% 03% 920% 5.6%
-    unit: pct
-    values:
-    - 10.9
-    - 0.8
-    - 37.0
-    - 0.8
-    - 29.0
-    - 3.0
-    - 920.0
-    - 5.6
-  - section: 'Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg'
-    section_type: linked_image_asset
-    source_line: 300k = 1SSk 105k 70k 45k 175k 75k 48k 30k 6500 4000 SO N00
-    unit: null
-    values:
-    - 300.0
-    - 1.0
-    - 105.0
-    - 70.0
-    - 45.0
-    - 175.0
-    - 75.0
-    - 48.0
-    - 30.0
-    - 6500.0
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - *id010
+  - *id011
+  - *id012
+  - *id013
+  - *id014
+  - *id015
+  - *id016
+  - *id017
+  - *id018
+  - *id019
+  - *id020
+  - *id021
+  - *id022
+  - *id023
+  - *id024
+  - *id025
+  - *id026
+  - *id027
+  - *id028
+  - *id029
+  - *id030
+  - *id031
+  - *id032
+  - *id033
+  - *id034
+  - *id035
+  - *id036
+  - *id037
+  - *id038
+  - *id039
+  - *id040
+  - *id041
+  - *id042
 source: hellenic
-source_path: corpus/02-hellenic/vessel_valuations/2025/2025-12-02_weekly-vessel-valuations-report-december-02-2025.html
+source_path: reports/hellenic/vessel_valuations/2025/2025-12-02_weekly-vessel-valuations-report-december-02-2025.html
 source_stem: 2025-12-02_weekly-vessel-valuations-report-december-02-2025
 source_url: https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-december-02-2025
 summary: 'Main
@@ -792,7 +711,27 @@ Image metadata: JPEG 600x278 mode=RGB
 Embedded info:
 dpi: (96.0, 96.0)
 
-OCR text:
+[structured table]
+| © |  |  |  |  |  |  | AR |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 02 December | 2025 |  |  |  | VV | Mini Matrix | - | Weekly | Change |  |  |  |  |
+|  |  |  | Tankers |  |  |  |  | Bulkers |  |  |  | Containers |  |
+| Year | vice | Suez | Afra | um | MR | Cape | Pmax | ‘Supra | Handy | — |  | Handy | Fmax |
+|  | 00% | 10.9% | 108% | 102% | 40.3% |  |  |  |  | 03% | OM | OM |  |
+|  | 320k | 160k | Sk |  |  | 180k | 82k | 62k | 38% | 7000 | 4250 | 80 | 00 |
+|  | 00% | 10.9% | 108% | 102% | 10.6% | 16% |  |  |  | 03% | 0M | OM |  |
+| s |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 320k | 160k | nOk | Tsk | SOK | 180K | 82k | 60k | 38% | 7000 | 4250 | 780 | noo |
+|  | 00% |  | «10.8% |  | HSH | 14% |  | LOH |  |  | 00 | 02K |  |
+|  | 320k | 160k | nOk | Sk |  | 180K | 80k | 60k |  | 7000 | 4250 | 1780 | noo |
+|  | 00% | 40.9% | 108% | 40.2% |  | 109% |  |  |  | 02% | 02% |  |  |
+|  |  | = 60K | Mk | 73k | 50k | 0k | 80k | 58k | 30k | 7000 |  |  |  |
+|  | 00% | 409% | 108% | 403% |  | 103% |  |  |  |  | 02 | AK |  |
+|  |  | 160k | NOk | 70k | 45k | 180k | 75k | 55k | 30k | 7000 | 4250 |  |  |
+|  | OM | 10.9% | 0.8% | OAH |  | 00% | +37 | 0.8% | —-+29% | 00% | 03% |  |  |
+|  | 300k | = 1SSk | 105k | 70k | 45k | 175k | 75k | 48k | 30k | 6500 | 4000 |  |  |
+
+[raw ocr]
 © VessetsVal re AR
 02 December 2025 VV Mini Matrix - Weekly Change
 Tankers Bulkers Containers

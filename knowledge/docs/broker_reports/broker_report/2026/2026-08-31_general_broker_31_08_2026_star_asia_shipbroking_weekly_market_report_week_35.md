@@ -89,7 +89,7 @@ numeric_observations:
   unit: null
   values:
   - 2.5
-  - 6300.0
+  - 6.3
   - 120.0
   - 150.0
 - section: 'DRY BULK | BDI: 3,186 ▲12.14% (w-o-w)'
@@ -163,9 +163,9 @@ numeric_observations:
   source_line: 'WoW: +12.14% | WoW: +17.22% | WoW: +10.08% | WoW: +0.43% | WoW: +0.80%'
   unit: pct
   values:
-  - 12140.0
-  - 17220.0
-  - 10080.0
+  - 12.14
+  - 17.22
+  - 10.08
   - 0.43
   - 0.8
 - section: BDI BCI BPI BSI BHSI
@@ -173,11 +173,11 @@ numeric_observations:
   source_line: 'YoY: +57.33% | YoY: +82.43% | YoY: +25.34% | YoY: +12.42% | YoY: +14.86%'
   unit: pct
   values:
-  - 57330.0
-  - 82430.0
-  - 25340.0
-  - 12420.0
-  - 14860.0
+  - 57.33
+  - 82.43
+  - 25.34
+  - 12.42
+  - 14.86
 - section: Vessel Values (USD Million)
   section_type: null
   source_line: CAPESIZE | 180,000 | $76M | $82M | $71M | $56M (E) | $35M
@@ -219,7 +219,7 @@ numeric_observations:
   values:
   - 182263.0
   - 2022.0
-  - 78000.0
+  - 78.0
 - section: Sale & Purchase - Reported Fixtures
   section_type: null
   source_line: MOUNT DAMPIER | CAPE | 181,469 | 2011 / JAPAN | 38.0 | MERCURIA ENERGY
@@ -228,7 +228,7 @@ numeric_observations:
   values:
   - 181469.0
   - 2011.0
-  - 38000.0
+  - 38.0
 - section: Sale & Purchase - Reported Fixtures
   section_type: null
   source_line: EFRAIM A | KMAX | 82,174 | 2010 / CHINA | 20.0 | UNDISCLOSED
@@ -236,7 +236,7 @@ numeric_observations:
   values:
   - 82174.0
   - 2010.0
-  - 20000.0
+  - 20.0
 - section: Sale & Purchase - Reported Fixtures
   section_type: null
   source_line: AMARYLLIS | UMAX | 63,500 | 2013 / CHINA | 24.4 | CHINESE BUYERS
@@ -244,7 +244,7 @@ numeric_observations:
   values:
   - 63500.0
   - 2013.0
-  - 24400.0
+  - 24.4
 - section: Sale & Purchase - Reported Fixtures
   section_type: null
   source_line: EBURY TRADER | SMAX | 56,603 | 2011 / CHINA | 13.0 | CHINESE BUYERS
@@ -252,7 +252,7 @@ numeric_observations:
   values:
   - 56603.0
   - 2011.0
-  - 13000.0
+  - 13.0
 - section: Sale & Purchase - Reported Fixtures
   section_type: null
   source_line: SIDRA | SMAX | 56,140 | 2012 / JAPAN | 19.2 | INDONESIAN BUYERS
@@ -260,7 +260,7 @@ numeric_observations:
   values:
   - 56140.0
   - 2012.0
-  - 19200.0
+  - 19.2
 - section: Sale & Purchase - Reported Fixtures
   section_type: null
   source_line: AMANAH HALMAHERA AMC | SMAX | 56,020 | 2003 / JAPAN | UNDISCLOSED |
@@ -276,7 +276,7 @@ numeric_observations:
   values:
   - 53565.0
   - 2006.0
-  - 11250.0
+  - 11.25
 - section: Sale & Purchase - Reported Fixtures
   section_type: null
   source_line: GLORY BRIDGE | SMAX | 50,077 | 2001 / JAPAN | 7.5 | CHINESE BUYERS
@@ -284,7 +284,7 @@ numeric_observations:
   values:
   - 50077.0
   - 2001.0
-  - 7500.0
+  - 7.5
 - section: Sale & Purchase - Reported Fixtures
   section_type: null
   source_line: ARKLOW SPIRIT | HANDY | 34,905 | 2013 / S. KOREA | 16.6 | UNDISCLOSED
@@ -292,7 +292,7 @@ numeric_observations:
   values:
   - 34905.0
   - 2013.0
-  - 16600.0
+  - 16.6
 - section: Sale & Purchase - Reported Fixtures
   section_type: null
   source_line: SEGMENT (AVG) | 2022 | 2023 | 2024 | 2025 | 2026 YTD
@@ -517,7 +517,7 @@ numeric_observations:
   values:
   - 299095.0
   - 2003.0
-  - 57000.0
+  - 57.0
 - section: Sale & Purchase - Reported Fixtures
   section_type: null
   source_line: GRIT | VLCC | 298,555 | 2003 / S. KOREA | 50.0 | S. KOREAN BUYERS
@@ -525,7 +525,7 @@ numeric_observations:
   values:
   - 298555.0
   - 2003.0
-  - 50000.0
+  - 50.0
 - section: Sale & Purchase - Reported Fixtures
   section_type: null
   source_line: SEASENATOR | AFRA | 105,715 | 2007 / JAPAN | 30.0 | UNDISCLOSED
@@ -533,7 +533,7 @@ numeric_observations:
   values:
   - 105715.0
   - 2007.0
-  - 30000.0
+  - 30.0
 - section: Sale & Purchase - Reported Fixtures
   section_type: null
   source_line: SAI | AFRA | 105,200 | 2004 / S. KOREA | 27.3 | SOLENT SHIPPING & TRADE
@@ -542,7 +542,7 @@ numeric_observations:
   values:
   - 105200.0
   - 2004.0
-  - 27300.0
+  - 27.3
 - section: Sale & Purchase - Reported Fixtures
   section_type: null
   source_line: LUCTOR TURMOIL | MR | 50,383 49,997 | 2011 / JAPAN | 26.0 EACH | UNDISCLOSED
@@ -551,7 +551,7 @@ numeric_observations:
   - 50383.0
   - 49997.0
   - 2011.0
-  - 26000.0
+  - 26.0
 - section: Sale & Purchase - Reported Fixtures
   section_type: null
   source_line: XING TONG 799 | MR | 49,962 | 2011 / JAPAN | 27.2 | SE ASIAN BUYERS
@@ -560,7 +560,7 @@ numeric_observations:
   - 799.0
   - 49962.0
   - 2011.0
-  - 27200.0
+  - 27.2
 - section: Sale & Purchase - Reported Fixtures
   section_type: null
   source_line: VLCC | $25,215 | $41,550 | $45,950 | $45,075 | $121,000
@@ -610,8 +610,8 @@ numeric_observations:
   unit: pct
   values:
   - 3509.54
-  - 9600.0
-  - 13200.0
+  - 9.6
+  - 13.2
 - section: CONTAINERS
   section_type: null
   source_line: 'Meanwhile, severe operational constraints across the Persian Gulf
@@ -631,15 +631,15 @@ numeric_observations:
   unit: pct
   values:
   - 3.14
-  - 7770.0
+  - 7.77
   - 50.0
   - 10.0
-  - 7700.0
+  - 7.7
   - 9.0
-  - 9970.0
-  - 28740.0
-  - 6200.0
-  - 8800.0
+  - 9.97
+  - 28.74
+  - 6.2
+  - 8.8
 - section: Vessel Values (USD Million)
   section_type: null
   source_line: 900 - 1,200 | Geared | $25M | $29M | $23M | $18M | $12M
@@ -683,7 +683,7 @@ numeric_observations:
   values:
   - 1740.0
   - 2011.0
-  - 27000.0
+  - 27.0
 - section: VESSEL TYPE TEU YEAR / BUILT PRICE (USD M) BUYER
   section_type: null
   source_line: SEGMENT (AVG) | 2022 | 2023 | 2024 | 2025 | 2026 YTD
@@ -897,8 +897,8 @@ numeric_observations:
     full-year economic growth '
   unit: pct
   values:
-  - 5250.0
-  - 6700.0
+  - 5.25
+  - 6.7
   - 707.0
 - section: Market Insights
   section_type: null
@@ -915,9 +915,9 @@ numeric_observations:
   unit: null
   values:
   - 18848.0
-  - 23080.0
+  - 23.08
   - 2026.0
-  - 26080.0
+  - 26.08
   - 2026.0
 - section: Alang Anchorage & Beaching Position - August 2026
   section_type: null
@@ -925,9 +925,9 @@ numeric_observations:
   unit: null
   values:
   - 5685.0
-  - 15080.0
+  - 15.08
   - 2026.0
-  - 19080.0
+  - 19.08
   - 2026.0
 - section: Alang Anchorage & Beaching Position - August 2026
   section_type: null
@@ -935,9 +935,9 @@ numeric_observations:
   unit: null
   values:
   - 11552.0
-  - 9080.0
+  - 9.08
   - 2026.0
-  - 12080.0
+  - 12.08
   - 2206.0
 - section: Alang Anchorage & Beaching Position - August 2026
   section_type: null
@@ -945,7 +945,7 @@ numeric_observations:
   unit: null
   values:
   - 43402.0
-  - 31070.0
+  - 31.07
   - 2027.0
   - 4.08
   - 2026.0
@@ -975,7 +975,7 @@ numeric_observations:
   unit: null
   values:
   - 27824.0
-  - 27080.0
+  - 27.08
   - 2026.0
 - section: Chattogram Anchorage & Beaching Position - August 2026
   section_type: null
@@ -983,7 +983,7 @@ numeric_observations:
   unit: null
   values:
   - 3845.0
-  - 22080.0
+  - 22.08
   - 2026.0
 - section: Chattogram Anchorage & Beaching Position - August 2026
   section_type: null
@@ -991,7 +991,7 @@ numeric_observations:
   unit: null
   values:
   - 9520.0
-  - 20080.0
+  - 20.08
   - 2026.0
 - section: Chattogram Anchorage & Beaching Position - August 2026
   section_type: null
@@ -999,7 +999,7 @@ numeric_observations:
   unit: null
   values:
   - 6356.0
-  - 21080.0
+  - 21.08
   - 2026.0
 - section: Chattogram Anchorage & Beaching Position - August 2026
   section_type: null
@@ -1007,7 +1007,7 @@ numeric_observations:
   unit: null
   values:
   - 15965.0
-  - 22080.0
+  - 22.08
   - 2026.0
   - 2708.2026
 - section: Chattogram Anchorage & Beaching Position - August 2026
@@ -1017,9 +1017,9 @@ numeric_observations:
   values:
   - 498.0
   - 1589.0
-  - 16079.999999999998
+  - 16.08
   - 2026.0
-  - 25080.0
+  - 25.08
   - 2026.0
 - section: Chattogram Anchorage & Beaching Position - August 2026
   section_type: null
@@ -1029,7 +1029,7 @@ numeric_observations:
   - 1660.0
   - 1.08
   - 2026.0
-  - 14080.0
+  - 14.08
   - 2025.0
 - section: Chattogram Anchorage & Beaching Position - August 2026
   section_type: null
@@ -1037,9 +1037,9 @@ numeric_observations:
   unit: null
   values:
   - 4085.0
-  - 31070.0
+  - 31.07
   - 2026.0
-  - 13080.0
+  - 13.08
   - 2025.0
 - section: Chattogram Anchorage & Beaching Position - August 2026
   section_type: null
@@ -1047,7 +1047,7 @@ numeric_observations:
   unit: null
   values:
   - 2213.0
-  - 29070.0
+  - 29.07
   - 2026.0
   - 4.08
   - 2026.0
@@ -1060,8 +1060,8 @@ numeric_observations:
   unit: usd
   values:
   - 3.0
-  - 22590.0
-  - 17100.0
+  - 22.59
+  - 17.1
 - section: LYRA TANKER 4,990 21.08.2026
   section_type: null
   source_line: Central Bank of the Republic of Türkiye recently raised its year-end
@@ -1165,7 +1165,7 @@ numeric_observations:
     This upward momentum is further'
   unit: usd
   values:
-  - 6700.0
+  - 6.7
   - 57000.0
 - section: Commodities Focus
   section_type: null
@@ -1205,7 +1205,7 @@ numeric_observations:
     +3.15% | 0%
   unit: pct
   values:
-  - 62500.0
+  - 62.5
   - 98.0
   - 95.0
   - 98.0
@@ -1225,7 +1225,7 @@ numeric_observations:
   unit: tonnage
   values:
   - 14282.5
-  - 29500.0
+  - 29.5
   - 0.21
 - section: Industrial Metal Rates
   section_type: null
@@ -1233,7 +1233,7 @@ numeric_observations:
   unit: tonnage
   values:
   - 3234.5
-  - 9500.0
+  - 9.5
   - 0.29
 - section: Industrial Metal Rates
   section_type: null

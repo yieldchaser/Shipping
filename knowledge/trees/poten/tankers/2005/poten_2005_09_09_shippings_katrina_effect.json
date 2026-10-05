@@ -1,0 +1,174 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_09_09_shippings_katrina_effect__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_09_09_shippings_katrina_effect",
+  "parent_id": null,
+  "title": "Shipping's \\\"Katrina\\\" Effect",
+  "section_path": [
+    "Shipping's \\\"Katrina\\\" Effect"
+  ],
+  "section_path_text": "Shipping's \\\"Katrina\\\" Effect",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Shipping's \"Katrina\" Effect\nAmong many generous displays of solidarity since the tragedy of Hurricane Katrina began to unfold on August 29th, the 26 International Energy Agency (IEA) member nations have collectively agreed to supply the United States with 60 million additional barrels of crude and crude products over the next 30 days. This week we examine the specifics behind these additional supplies, as well as the shipping impact of these generous contributions. How might 2 million incremental barrels per day of crude and products affect tanker demand in the short term?",
+  "keywords": [
+    "handysize",
+    "suezmax",
+    "aframax",
+    "australia",
+    "pacific",
+    "europe",
+    "japan",
+    "crude_oil",
+    "products",
+    "gas",
+    "additional",
+    "iea"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 983,
+  "source_path": "reports/poten/2005/poten_2005-09-09_shippings-katrina-effect.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_09_09_shippings_katrina_effect__s01_shipping_s_katrina_effect",
+      "doc_id": "poten_tankers_no_date_poten_2005_09_09_shippings_katrina_effect",
+      "parent_id": "poten_tankers_no_date_poten_2005_09_09_shippings_katrina_effect__root",
+      "title": "Shipping's \"Katrina\" Effect",
+      "section_path": [
+        "Shipping's \"Katrina\" Effect"
+      ],
+      "section_path_text": "Shipping's \"Katrina\" Effect",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Among many generous displays of solidarity since the tragedy of Hurricane Katrina began to unfold on August 29th, the 26 International Energy Agency (IEA) member nations have collectively agreed to supply the United States with 60 million additional barrels of crude and crude products over the next 30 days. This week we examine the specifics behind these additional supplies, as well as the shipping impact of these generous contributions.",
+      "keywords": [
+        "products",
+        "crude",
+        "additional",
+        "barrels",
+        "generous",
+        "million",
+        "affect",
+        "agency"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 102,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_09_09_shippings_katrina_effect__s02_product_breakdown",
+      "doc_id": "poten_tankers_no_date_poten_2005_09_09_shippings_katrina_effect",
+      "parent_id": "poten_tankers_no_date_poten_2005_09_09_shippings_katrina_effect__root",
+      "title": "Product Breakdown",
+      "section_path": [
+        "Product Breakdown"
+      ],
+      "section_path_text": "Product Breakdown",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "On the previous page one can see the breakdown by product type of the additional supplies offered by IEA member nations. Nearly two-thirds of the product relief offered will come as unrefined crude, with nearly 17% motor gasoline, 14% middle distillates, and the remaining portion as fuel oil.",
+      "keywords": [
+        "japan",
+        "crude_oil",
+        "products",
+        "gas",
+        "additional",
+        "breakdown",
+        "nearly",
+        "offered"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 113,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_09_09_shippings_katrina_effect__s03_bpd",
+      "doc_id": "poten_tankers_no_date_poten_2005_09_09_shippings_katrina_effect",
+      "parent_id": "poten_tankers_no_date_poten_2005_09_09_shippings_katrina_effect__root",
+      "title": "Bpd",
+      "section_path": [
+        "Bpd"
+      ],
+      "section_path_text": "Bpd",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Contribution Australia 1.8% 3.5% 37,800 Austria 0.7% 1.4% 14,700 Belgium 1.0% 2.0% 21,000 Canada 4.6% - 92,000 Czech Republic 0.5% 1.0% 10,500 Denmark 0.4% 0.8% 8,400 Finland 0.5% 1.0% 10,500 France 4.6% 9.0% 96,600 Germany 6.0% 11.7% 126,000 Greece 0.9% 1.8% 18,900 Hungary 0.3% 0.6% 6,300 Ireland 0.4% 0.8% 8,400 Italy 4.1% 8.0% 86,100 Japan 12.2% 23.8% 256,200 Korea 4.8% 9.4% 100,800 Luxembourg 0.2% 0.4% 4,200 Netherlands 1.4% 2.7% 29,400 New Zealand 0.3% 0.6% 6,300 Norway 0.4% 0.8% 8,400 Portugal 0.8% 1.6% 16,800 Spain 3.5% 6.8% 73,500 Sweden 0.7% 1.4% 14,700 Switzerland 0.6% 1.2% 12,600 Turkey 1.4% 2.7% 29,400 United Kingdom 3.6% 7.0% 75,600 United States 44.2% - 884,000 Almost half of the additional supplies will come from the United States and Canada, whose additional supplies will most likely move via pipeline. We have therefore, for our analysis of shipping demand impact, restated the other nations'",
+      "keywords": [
+        "australia",
+        "japan",
+        "united",
+        "additional",
+        "canada",
+        "states",
+        "supplies",
+        "almost"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 431,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_09_09_shippings_katrina_effect__s04_share",
+      "doc_id": "poten_tankers_no_date_poten_2005_09_09_shippings_katrina_effect",
+      "parent_id": "poten_tankers_no_date_poten_2005_09_09_shippings_katrina_effect__root",
+      "title": "Share",
+      "section_path": [
+        "Share"
+      ],
+      "section_path_text": "Share",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "shares in the table on the previous page's third column. The fourth column shows each countries' barrel volumes in terms of barrel per day volumes.",
+      "keywords": [
+        "pacific",
+        "europe",
+        "barrel",
+        "bpd",
+        "iea",
+        "accounting",
+        "america",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 86,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_09_09_shippings_katrina_effect__s05_handymaxes",
+      "doc_id": "poten_tankers_no_date_poten_2005_09_09_shippings_katrina_effect",
+      "parent_id": "poten_tankers_no_date_poten_2005_09_09_shippings_katrina_effect__root",
+      "title": "Handymaxes",
+      "section_path": [
+        "Handymaxes"
+      ],
+      "section_path_text": "Handymaxes",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Aframaxes Suezmaxes 0 Using our assumptions 1 , it would appear that IEA supply increases would increase Handymax demand by 5.1% of the current fleet, Aframaxes by 3.8%, and Suezmaxes by 6.0%. One can also factor in the 960,000 barrels of gasoline that Venezuela has promised to export to the United States.",
+      "keywords": [
+        "handysize",
+        "suezmax",
+        "aframax",
+        "products",
+        "gas",
+        "demand",
+        "would",
+        "aframaxes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 230,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

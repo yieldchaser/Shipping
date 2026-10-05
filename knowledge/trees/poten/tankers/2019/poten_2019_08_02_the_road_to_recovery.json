@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2019_08_02_the_road_to_recovery__root",
+  "doc_id": "poten_tankers_no_date_poten_2019_08_02_the_road_to_recovery",
+  "parent_id": null,
+  "title": "The Road To Recovery",
+  "section_path": [
+    "The Road To Recovery"
+  ],
+  "section_path_text": "The Road To Recovery",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Tanker contracting slows amid challenging rate environment\nThere is a strong correlation between tanker newbuilding activity and tanker rates. Shipowners tend to order more vessels during periods of high rates, when they are flush with cash and banks are more willing to provide financing. However, if the industry orders too many vessels, the subsequent oversupply (when all this new capacity hits the market) tends to push rates down, pessimism sets in and owners stop ordering.",
+  "keywords": [
+    "panamax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "crude_oil",
+    "ordering",
+    "are",
+    "year",
+    "only",
+    "orderbook",
+    "tankers"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 997,
+  "source_path": "reports/poten/2019/poten_2019-08-02_the-road-to-recovery.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_08_02_the_road_to_recovery__s01_tanker_contracting_slows_amid_challenging_rate_environment",
+      "doc_id": "poten_tankers_no_date_poten_2019_08_02_the_road_to_recovery",
+      "parent_id": "poten_tankers_no_date_poten_2019_08_02_the_road_to_recovery__root",
+      "title": "Tanker contracting slows amid challenging rate environment",
+      "section_path": [
+        "Tanker contracting slows amid challenging rate environment"
+      ],
+      "section_path_text": "Tanker contracting slows amid challenging rate environment",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "There is a strong correlation between tanker newbuilding activity and tanker rates. Shipowners tend to order more vessels during periods of high rates, when they are flush with cash and banks are more willing to provide financing.",
+      "keywords": [
+        "panamax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "crude_oil",
+        "ordering",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 988,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

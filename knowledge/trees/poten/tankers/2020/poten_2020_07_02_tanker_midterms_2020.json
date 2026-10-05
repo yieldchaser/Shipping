@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2020_07_02_tanker_midterms_2020__root",
+  "doc_id": "poten_tankers_no_date_poten_2020_07_02_tanker_midterms_2020",
+  "parent_id": null,
+  "title": "Tanker Midterms 2020",
+  "section_path": [
+    "Tanker Midterms 2020"
+  ],
+  "section_path_text": "Tanker Midterms 2020",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Top Reported Dirty Spot Charterers for 1H 2020*\nAs we have reached the end of the first half of 2020, it is good to take stock of this unprecedented year so far. As you will see in the below charts and table, many rankings have stayed the same, but the unusual oil and tanker markets of this year have led to some interesting changes. Not surprisingly, given the massive hit to global oil demand, the overall volume of reported dirty spot fixtures in 1H 2020 declined compared to the same period of 2019 (from 4,623 to 4,305), a reduction of 7%.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "brazil",
+    "crude_oil",
+    "top",
+    "reported",
+    "fixtures",
+    "total",
+    "charterers",
+    "cargo"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1097,
+  "source_path": "reports/poten/2020/poten_2020-07-02_tanker-midterms-2020.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_07_02_tanker_midterms_2020__s01_top_reported_dirty_spot_charterers_for_1h_2020",
+      "doc_id": "poten_tankers_no_date_poten_2020_07_02_tanker_midterms_2020",
+      "parent_id": "poten_tankers_no_date_poten_2020_07_02_tanker_midterms_2020__root",
+      "title": "Top Reported Dirty Spot Charterers for 1H 2020*",
+      "section_path": [
+        "Top Reported Dirty Spot Charterers for 1H 2020*"
+      ],
+      "section_path_text": "Top Reported Dirty Spot Charterers for 1H 2020*",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As we have reached the end of the first half of 2020, it is good to take stock of this unprecedented year so far. As you will see in the below charts and table, many rankings have stayed the same, but the unusual oil and tanker markets of this year have led to some interesting changes.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "total",
+        "cargo",
+        "declined",
+        "dirty",
+        "fixtures",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 674,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_07_02_tanker_midterms_2020__s02_chart_top_10_vlcc_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2020_07_02_tanker_midterms_2020",
+      "parent_id": "poten_tankers_no_date_poten_2020_07_02_tanker_midterms_2020__root",
+      "title": "Chart: Top 10 VLCC Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 VLCC Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 VLCC Spot Charterers",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "In the VLCC segment, the interesting development is not who's on first (Unipec), but the appearance of Bahri in the top 10 of reported spot fixtures. The massive number of spot market fixtures that the Saudi owner concluded in March and April in support of Saudi Arabia's production surge, propelled them to 5 th in the rankings.",
+      "keywords": [
+        "vlcc",
+        "brazil",
+        "moved",
+        "saudi",
+        "another",
+        "appearance",
+        "april",
+        "arabia"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 111,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_07_02_tanker_midterms_2020__s03_chart_top_10_suezmax_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2020_07_02_tanker_midterms_2020",
+      "parent_id": "poten_tankers_no_date_poten_2020_07_02_tanker_midterms_2020__root",
+      "title": "Chart: Top 10 Suezmax Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 Suezmax Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 Suezmax Spot Charterers",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "In the Suezmax segment, it is largely the usual suspects that make up the top 10, albeit in a somewhat different order. Compared to the same period last year, ExxonMobil moved to the top spot, replacing Shell, which comes in 2 nd this year.",
+      "keywords": [
+        "suezmax",
+        "crude_oil",
+        "top",
+        "again",
+        "albeit",
+        "are",
+        "back",
+        "comes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 148,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_07_02_tanker_midterms_2020__s04_chart_top_10_aframax_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2020_07_02_tanker_midterms_2020",
+      "parent_id": "poten_tankers_no_date_poten_2020_07_02_tanker_midterms_2020__root",
+      "title": "Chart: Top 10 Aframax Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 Aframax Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 Aframax Spot Charterers",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "In the Aframax segment, Vitol, Shell and Unipec maintained their position on top of the rankings. The other major oil companies and traders make up the rest of the rankings.",
+      "keywords": [
+        "aframax",
+        "crude_oil",
+        "rankings.",
+        "reported",
+        "above",
+        "activity.",
+        "assembled",
+        "companies"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 115,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

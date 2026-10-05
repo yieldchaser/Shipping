@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2016_06_10_re_balancing_act__root",
+  "doc_id": "poten_tankers_no_date_poten_2016_06_10_re_balancing_act",
+  "parent_id": null,
+  "title": "Re Balancing Act",
+  "section_path": [
+    "Re Balancing Act"
+  ],
+  "section_path_text": "Re Balancing Act",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Are we at the beginning of the long-expected market\nrebalancing? Energy Information Administration (EIA) came out with an analysis brief yesterday discussing oil supply disruptions worldwide. According to the EIA, unplanned global oil supply disruptions reached 3.6 million barrels per day (mb/d) in May 2016 (Fig.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "crude_oil",
+    "oil",
+    "production",
+    "u.s.",
+    "are",
+    "disruptions",
+    "supply",
+    "last",
+    "may",
+    "increase"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 881,
+  "source_path": "reports/poten/2016/poten_2016-06-10_re-balancing-act.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_06_10_re_balancing_act__s01_are_we_at_the_beginning_of_the_long_expected_market",
+      "doc_id": "poten_tankers_no_date_poten_2016_06_10_re_balancing_act",
+      "parent_id": "poten_tankers_no_date_poten_2016_06_10_re_balancing_act__root",
+      "title": "Are we at the beginning of the long-expected market",
+      "section_path": [
+        "Are we at the beginning of the long-expected market"
+      ],
+      "section_path_text": "Are we at the beginning of the long-expected market",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Energy Information Administration (EIA) came out with an analysis brief yesterday discussing oil supply disruptions worldwide. According to the EIA, unplanned global oil supply disruptions reached 3.6 million barrels per day (mb/d) in May 2016 (Fig.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "crude_oil",
+        "oil",
+        "production",
+        "u.s.",
+        "disruptions",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 869,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

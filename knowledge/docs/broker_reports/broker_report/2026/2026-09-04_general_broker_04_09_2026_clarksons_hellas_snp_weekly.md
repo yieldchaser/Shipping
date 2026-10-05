@@ -63,8 +63,8 @@ numeric_observations:
     several tankers reportedly '
   unit: pct
   values:
-  - 15500.0
-  - 17600.0
+  - 15.5
+  - 17.6
   - 1.0
   - 1.0
 - section: Dry Cargo
@@ -77,7 +77,6 @@ numeric_observations:
   values:
   - 57.0
   - 2009.0
-  - 12900.0
   - 56.0
   - 2006.0
 - section: Bulker Sales
@@ -90,7 +89,7 @@ numeric_observations:
   - 2009.0
   - 6.0
   - 50.0
-  - 8200.0
+  - 8.2
   - 4.0
   - 30.0
   - 8.0
@@ -106,9 +105,9 @@ numeric_observations:
   - 2006.0
   - 6.0
   - 50.0
-  - 8100.0
+  - 8.1
   - 4.0
-  - 30500.0
+  - 30.5
   - 10.0
   - 26.0
   - 10.0

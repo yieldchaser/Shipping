@@ -1,0 +1,139 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2004_08_06_naphtha_seeks_tonnage_for_voyages_to_exotic_places__root",
+  "doc_id": "poten_tankers_no_date_poten_2004_08_06_naphtha_seeks_tonnage_for_voyages_to_exotic_places",
+  "parent_id": null,
+  "title": "Naphtha Seeks Tonnage For Voyages to Exotic Places",
+  "section_path": [
+    "Naphtha Seeks Tonnage For Voyages to Exotic Places"
+  ],
+  "section_path_text": "Naphtha Seeks Tonnage For Voyages to Exotic Places",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Naphtha Seeks Tonnage\nFor Voyages to Exotic Places Naphtha, unlike other clean petroleum products, has no retail market of any significance. No one buys a truckload to heat his house or a tankful to power his automobile. Until a few years ago, someone in your neighborhood might have bought a few tons at a time to fuel his F-16.",
+  "keywords": [
+    "panamax",
+    "handysize",
+    "aframax",
+    "brazil",
+    "atlantic",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "naphtha",
+    "mmtons"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1632,
+  "source_path": "reports/poten/2004/poten_2004-08-06_naphtha-seeks-tonnage-for-voyages-to-exotic-places.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_08_06_naphtha_seeks_tonnage_for_voyages_to_exotic_places__s01_naphtha_seeks_tonnage",
+      "doc_id": "poten_tankers_no_date_poten_2004_08_06_naphtha_seeks_tonnage_for_voyages_to_exotic_places",
+      "parent_id": "poten_tankers_no_date_poten_2004_08_06_naphtha_seeks_tonnage_for_voyages_to_exotic_places__root",
+      "title": "Naphtha Seeks Tonnage",
+      "section_path": [
+        "Naphtha Seeks Tonnage"
+      ],
+      "section_path_text": "Naphtha Seeks Tonnage",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "For Voyages to Exotic Places Naphtha, unlike other clean petroleum products, has no retail market of any significance. No one buys a truckload to heat his house or a tankful to power his automobile.",
+      "keywords": [
+        "panamax",
+        "aframax",
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "mmtons",
+        "naphtha"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 577,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_08_06_naphtha_seeks_tonnage_for_voyages_to_exotic_places__s02_long_haul",
+      "doc_id": "poten_tankers_no_date_poten_2004_08_06_naphtha_seeks_tonnage_for_voyages_to_exotic_places",
+      "parent_id": "poten_tankers_no_date_poten_2004_08_06_naphtha_seeks_tonnage_for_voyages_to_exotic_places__root",
+      "title": "Long-haul",
+      "section_path": [
+        "Long-haul"
+      ],
+      "section_path_text": "Long-haul",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Short-haul The graph above shows naphtha traffic on long voyages increasing more than 5 mmt/y between 2003 and 2007. The LR's won't get all of that business.",
+      "keywords": [
+        "handysize",
+        "brazil",
+        "europe",
+        "products",
+        "gas",
+        "naphtha",
+        "east",
+        "all"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 470,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_08_06_naphtha_seeks_tonnage_for_voyages_to_exotic_places__s03_european_naphtha_trade",
+      "doc_id": "poten_tankers_no_date_poten_2004_08_06_naphtha_seeks_tonnage_for_voyages_to_exotic_places",
+      "parent_id": "poten_tankers_no_date_poten_2004_08_06_naphtha_seeks_tonnage_for_voyages_to_exotic_places__root",
+      "title": "European Naphtha Trade",
+      "section_path": [
+        "European Naphtha Trade"
+      ],
+      "section_path_text": "European Naphtha Trade",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "mmtons"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_08_06_naphtha_seeks_tonnage_for_voyages_to_exotic_places__s04_atlantic_basin_to_european_zone",
+      "doc_id": "poten_tankers_no_date_poten_2004_08_06_naphtha_seeks_tonnage_for_voyages_to_exotic_places",
+      "parent_id": "poten_tankers_no_date_poten_2004_08_06_naphtha_seeks_tonnage_for_voyages_to_exotic_places__root",
+      "title": "Atlantic Basin to European zone",
+      "section_path": [
+        "Atlantic Basin to European zone"
+      ],
+      "section_path_text": "Atlantic Basin to European zone",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Med/States continue, but not predictably and at an average level no higher than four to six Handys per month. The predominant flow of naphtha has shifted from West-to-East to East-to- West during the last two years.",
+      "keywords": [
+        "panamax",
+        "handysize",
+        "aframax",
+        "atlantic",
+        "west_africa",
+        "europe",
+        "products",
+        "east"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 556,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_10_14_a_winter_of_discontent__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_10_14_a_winter_of_discontent",
+  "parent_id": null,
+  "title": "A Winter of Discontent",
+  "section_path": [
+    "A Winter of Discontent"
+  ],
+  "section_path_text": "A Winter of Discontent",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "A Winter of Discontent\nOne of the key drivers of demand for tankers is crude and clean product oil demand. One of the most relied upon crude oil and refined products outlooks is published by the U.S. The EIA released an updated Short-Term Energy Outlook and Winter Fuels Outlook on October 12th and it contains some revisions worth noting.",
+  "keywords": [
+    "atlantic",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "gas",
+    "clean",
+    "oil",
+    "per",
+    "prices",
+    "are",
+    "u.s."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 739,
+  "source_path": "reports/poten/2005/poten_2005-10-14_a-winter-of-discontent.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_10_14_a_winter_of_discontent__s01_a_winter_of_discontent",
+      "doc_id": "poten_tankers_no_date_poten_2005_10_14_a_winter_of_discontent",
+      "parent_id": "poten_tankers_no_date_poten_2005_10_14_a_winter_of_discontent__root",
+      "title": "A Winter of Discontent",
+      "section_path": [
+        "A Winter of Discontent"
+      ],
+      "section_path_text": "A Winter of Discontent",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "One of the key drivers of demand for tankers is crude and clean product oil demand. One of the most relied upon crude oil and refined products outlooks is published by the U.S.",
+      "keywords": [
+        "us_gulf",
+        "crude_oil",
+        "products",
+        "gas",
+        "are",
+        "oil",
+        "growth",
+        "prices"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 419,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_10_14_a_winter_of_discontent__s02_effect",
+      "doc_id": "poten_tankers_no_date_poten_2005_10_14_a_winter_of_discontent",
+      "parent_id": "poten_tankers_no_date_poten_2005_10_14_a_winter_of_discontent__root",
+      "title": "Effect",
+      "section_path": [
+        "Effect"
+      ],
+      "section_path_text": "Effect",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Starting from a modest 500,000 tons per month of UKC clean exports to the U.S. Atlantic Coast at the start of 1996, clean cargo exports have been steadily growing reaching an estimated 2,300,000 tons in October.",
+      "keywords": [
+        "atlantic",
+        "europe",
+        "products",
+        "clean",
+        "tons",
+        "u.s.",
+        "cost",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 202,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_10_14_a_winter_of_discontent__s03_conclusion",
+      "doc_id": "poten_tankers_no_date_poten_2005_10_14_a_winter_of_discontent",
+      "parent_id": "poten_tankers_no_date_poten_2005_10_14_a_winter_of_discontent__root",
+      "title": "Conclusion",
+      "section_path": [
+        "Conclusion"
+      ],
+      "section_path_text": "Conclusion",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Sharply rising clean cargo imports coupled with sharply rising freight costs help to explain why U.S. gasoline prices reached $2.56 per gallon, $0.67 greater than the third quarter of 2004.",
+      "keywords": [
+        "us_gulf",
+        "crude_oil",
+        "products",
+        "gas",
+        "higher",
+        "clean",
+        "oil",
+        "prices"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 108,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

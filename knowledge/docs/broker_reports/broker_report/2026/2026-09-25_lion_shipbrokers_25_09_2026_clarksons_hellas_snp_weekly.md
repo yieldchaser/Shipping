@@ -57,7 +57,7 @@ numeric_observations:
     now above 7.5 million barrels a day, as
   unit: null
   values:
-  - 7500.0
+  - 7.5
 - section: Market Report Content
   section_type: null
   source_line: Saudi Arabia routes more crude through the Gulf. Freight costs have
@@ -127,7 +127,7 @@ numeric_observations:
   - 2017.0
   - 6.0
   - 70.0
-  - 9200.0
+  - 9.2
   - 1.0
   - 27.0
 - section: Market Report Content
@@ -147,7 +147,7 @@ numeric_observations:
   - 2009.0
   - 6.0
   - 60.0
-  - 7200.0
+  - 7.2
   - 2.0
   - 29.0
 - section: Market Report Content
@@ -200,7 +200,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/lion_shipbrokers_25_09_2026_clarksons_hellas_snp_weekly.md
+source_path: reports/broker_reports/2026/carriers/lion_shipbrokers_25_09_2026_clarksons_hellas_snp_weekly.md
 source_stem: lion_shipbrokers_25_09_2026_clarksons_hellas_snp_weekly
 source_url: https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-11/
 summary: 'CLARKSONS HELLAS - SnP WEEKLY

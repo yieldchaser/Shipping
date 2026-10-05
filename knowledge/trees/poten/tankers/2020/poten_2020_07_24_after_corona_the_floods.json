@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2020_07_24_after_corona_the_floods__root",
+  "doc_id": "poten_tankers_no_date_poten_2020_07_24_after_corona_the_floods",
+  "parent_id": null,
+  "title": "After Corona The Floods",
+  "section_path": [
+    "After Corona The Floods"
+  ],
+  "section_path_text": "After Corona The Floods",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "China is getting hit by one natural disaster after another\nChina was the first country to be affected by the Corona virus in late 2019. In January 2020, the country instituted a lockdown of the Wuhan area, where most cases were occurring, and instituted travel restrictions. These measures lead to dramatic declines of demand for petroleum products such as jet fuel and gasoline.",
+  "keywords": [
+    "china",
+    "crude_oil",
+    "products",
+    "gas",
+    "demand",
+    "oil",
+    "mb/d",
+    "product",
+    "crude",
+    "are",
+    "country",
+    "due"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 847,
+  "source_path": "reports/poten/2020/poten_2020-07-24_after-corona-the-floods.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_07_24_after_corona_the_floods__s01_china_is_getting_hit_by_one_natural_disaster_after_another",
+      "doc_id": "poten_tankers_no_date_poten_2020_07_24_after_corona_the_floods",
+      "parent_id": "poten_tankers_no_date_poten_2020_07_24_after_corona_the_floods__root",
+      "title": "China is getting hit by one natural disaster after another",
+      "section_path": [
+        "China is getting hit by one natural disaster after another"
+      ],
+      "section_path_text": "China is getting hit by one natural disaster after another",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "China was the first country to be affected by the Corona virus in late 2019. In January 2020, the country instituted a lockdown of the Wuhan area, where most cases were occurring, and instituted travel restrictions.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "products",
+        "gas",
+        "demand",
+        "oil",
+        "mb/d",
+        "product"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 836,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

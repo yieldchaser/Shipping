@@ -9,7 +9,7 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 11.9.2021",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nDry bulk rates drop back down to earth. - As volatility in the dry bulk space returned with a vengeance, so did potential trading\nSource: Breakwave Advisors\n\nLinked asset: 2021-11-09_breakwave-dry-bulk-shipping-report-11-9-2021_breakwavenovember92021report_652c0c2d7baa.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2021-11-09_breakwave-dry-bulk-shipping-report-11-9-2021_breakwavenovember92021report_652c0c2d7baa.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nNovember 9, 2021\nBreakwave Dry Futures Index: 2,227 Baltic Dry Index (spot): 2,718 Short-term Indicators:\n↓ 30D: -50.3% ↓ 30D: -50.8% Momentum: Negative\n↑ YTD: 126.0% ↑ YTD: 99.0% Sentiment: Neutral\n↑ YOY: 110.7% ↑ YOY: 127.3% Fundamentals: Neutral\nBi-Weekly Report\n• Dry bulk rates drop back down to earth. - As volatility in the dry bulk space returned with a\nvengeance, so did potential trading opportunities, and the last leg of this year's spectacular journey might prove a\ngreat one.",
+  "summary": "Main\nDry bulk rates drop back down to earth. - As volatility in the dry bulk space returned with a vengeance, so did potential trading\nSource: Breakwave Advisors\n\nLinked asset: 2021-11-09_breakwave-dry-bulk-shipping-report-11-9-2021_breakwavenovember92021report_652c0c2d7baa.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2021-11-09_breakwave-dry-bulk-shipping-report-11-9-2021_breakwavenovember92021report_652c0c2d7baa.pdf\n\n||BDRY|||||\n|---|---|---|---|---|---|\n||Dry Bulk Shipping Breakwave Dry Futures Index:|2,227|Baltic Dry Index (spot):|2,718|November 9, 2021 Short-term Indicators:|\n|↓|30D: -50.3%|↓|30D: -50.8%|Momentum:|Negative|\n|↑|YTD: 126.0%|↑|YTD: 99.0%|Sentiment:|Neutral|\n|↑|YOY: 110.7%|↑|YOY: 127.3%|Fundamentals:|Neutral|\n|• • •|Bi-Weekly Report Dry bulk upcycle to continue in 2022 -|Dry bulk rates drop back down to earth. - Coal prices stabilize, winter demand will determine the commodity flow balance - Supramax and a weighted average maturity of approximately 50-70 days.|vengeance, so did potential trading opportunities, and the last leg of this year's spectacular journey might prove a great one.",
   "keywords": [
     "capesize",
     "panamax",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1511,
-  "source_path": "corpus/02-hellenic/shipbuilding/2021/2021-11-09_breakwave-dry-bulk-shipping-report-11-9-2021.html",
+  "token_count": 1538,
+  "source_path": "reports/hellenic/shipbuilding/2021/2021-11-09_breakwave-dry-bulk-shipping-report-11-9-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-11-9-2021",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2021-11-09_breakwave-dry-bulk-shipping-report-11-9-2021_breakwavenovember92021report_652c0c2d7baa.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-11-09_breakwave-dry-bulk-shipping-report-11-9-2021_breakwavenovember92021report_652c0c2d7baa.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nNovember 9, 2021\nBreakwave Dry Futures Index: 2,227 Baltic Dry Index (spot): 2,718 Short-term Indicators:\n↓ 30D: -50.3% ↓ 30D: -50.8% Momentum: Negative\n↑ YTD: 126.0% ↑ YTD: 99.0% Sentiment: Neutral\n↑ YOY: 110.7% ↑ YOY: 127.3% Fundamentals: Neutral\nBi-Weekly Report\n• Dry bulk rates drop back down to earth. - As volatility in the dry bulk space returned with a\nvengeance, so did potential trading opportunities, and the last leg of this year's spectacular journey might prove a\ngreat one.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-11-09_breakwave-dry-bulk-shipping-report-11-9-2021_breakwavenovember92021report_652c0c2d7baa.pdf\n\n||BDRY|||||\n|---|---|---|---|---|---|\n||Dry Bulk Shipping Breakwave Dry Futures Index:|2,227|Baltic Dry Index (spot):|2,718|November 9, 2021 Short-term Indicators:|\n|↓|30D: -50.3%|↓|30D: -50.8%|Momentum:|Negative|\n|↑|YTD: 126.0%|↑|YTD: 99.0%|Sentiment:|Neutral|\n|↑|YOY: 110.7%|↑|YOY: 127.3%|Fundamentals:|Neutral|\n|• • •|Bi-Weekly Report Dry bulk upcycle to continue in 2022 -|Dry bulk rates drop back down to earth. - Coal prices stabilize, winter demand will determine the commodity flow balance - Supramax and a weighted average maturity of approximately 50-70 days.|vengeance, so did potential trading opportunities, and the last leg of this year's spectacular journey might prove a great one.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1425,
+      "token_count": 1452,
       "section_type": "linked_pdf",
       "children": []
     }

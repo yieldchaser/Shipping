@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2020_12_18_madness_in_the_med__root",
+  "doc_id": "poten_tankers_no_date_poten_2020_12_18_madness_in_the_med",
+  "parent_id": null,
+  "title": "Madness in the Med",
+  "section_path": [
+    "Madness in the Med"
+  ],
+  "section_path_text": "Madness in the Med",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Why did Suezmax tankers do so poorly in the Mediterranean? Historically, Suezmax tankers have had a strong presence in Mediterranean crude oil exports. The \"Med\" has traditionally been a reliable source of employment for the medium sized crude carriers.",
+  "keywords": [
+    "suezmax",
+    "aframax",
+    "china",
+    "brazil",
+    "atlantic",
+    "europe",
+    "india",
+    "singapore",
+    "crude_oil",
+    "exports",
+    "are",
+    "voyages"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 855,
+  "source_path": "reports/poten/2020/poten_2020-12-18_madness-in-the-med.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_12_18_madness_in_the_med__s01_why_did_suezmax_tankers_do_so_poorly_in_the_mediterranean",
+      "doc_id": "poten_tankers_no_date_poten_2020_12_18_madness_in_the_med",
+      "parent_id": "poten_tankers_no_date_poten_2020_12_18_madness_in_the_med__root",
+      "title": "Why did Suezmax tankers do so poorly in the Mediterranean?",
+      "section_path": [
+        "Why did Suezmax tankers do so poorly in the Mediterranean?"
+      ],
+      "section_path_text": "Why did Suezmax tankers do so poorly in the Mediterranean?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Historically, Suezmax tankers have had a strong presence in Mediterranean crude oil exports. The \"Med\" has traditionally been a reliable source of employment for the medium sized crude carriers.",
+      "keywords": [
+        "suezmax",
+        "aframax",
+        "china",
+        "brazil",
+        "atlantic",
+        "europe",
+        "india",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 841,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

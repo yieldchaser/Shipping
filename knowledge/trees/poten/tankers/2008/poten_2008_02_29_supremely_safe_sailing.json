@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_02_29_supremely_safe_sailing__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_02_29_supremely_safe_sailing",
+  "parent_id": null,
+  "title": "Supremely Safe Sailing",
+  "section_path": [
+    "Supremely Safe Sailing"
+  ],
+  "section_path_text": "Supremely Safe Sailing",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Supremely Safe Sailing\nThe Alaskan crude oil spill in 1989 that spawned the era of double-hulled tankers has also embroiled ExxonMobil in legal entanglements that continue to this day. Now, like a sense of anxiousness carried by a thick fog, the tanker industry world-wide uneasily awaits the U.S. Supreme Court's judgment of whether or not punitive damages are warranted for this tragic spill of oil.",
+  "keywords": [
+    "crude_oil",
+    "oil",
+    "moved",
+    "barrels",
+    "are",
+    "spilled",
+    "bbl",
+    "crude",
+    "reported",
+    "spill",
+    "any",
+    "being"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 432,
+  "source_path": "reports/poten/2008/poten_2008-02-29_supremely-safe-sailing.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_02_29_supremely_safe_sailing__s01_supremely_safe_sailing",
+      "doc_id": "poten_tankers_no_date_poten_2008_02_29_supremely_safe_sailing",
+      "parent_id": "poten_tankers_no_date_poten_2008_02_29_supremely_safe_sailing__root",
+      "title": "Supremely Safe Sailing",
+      "section_path": [
+        "Supremely Safe Sailing"
+      ],
+      "section_path_text": "Supremely Safe Sailing",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Alaskan crude oil spill in 1989 that spawned the era of double-hulled tankers has also embroiled ExxonMobil in legal entanglements that continue to this day. Now, like a sense of anxiousness carried by a thick fog, the tanker industry world-wide uneasily awaits the U.S.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "spill",
+        "crude",
+        "fleet",
+        "other",
+        "alaskan",
+        "anxiousness"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 147,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_02_29_supremely_safe_sailing__s02_center_for_tankership",
+      "doc_id": "poten_tankers_no_date_poten_2008_02_29_supremely_safe_sailing",
+      "parent_id": "poten_tankers_no_date_poten_2008_02_29_supremely_safe_sailing__root",
+      "title": "Center for Tankership",
+      "section_path": [
+        "Center for Tankership"
+      ],
+      "section_path_text": "Center for Tankership",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Excellence The development of refined product and crude oil trade has also spurred the overall growth in tanker trades. As the outlook for the world's oil demand grows relentlessly, the portion of this oil requiring water-borne transportation grows, too.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "barrels",
+        "moved",
+        "reported",
+        "spilled",
+        "grows",
+        "actually"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 141,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_02_29_supremely_safe_sailing__s03_moved",
+      "doc_id": "poten_tankers_no_date_poten_2008_02_29_supremely_safe_sailing",
+      "parent_id": "poten_tankers_no_date_poten_2008_02_29_supremely_safe_sailing__root",
+      "title": "moved",
+      "section_path": [
+        "moved"
+      ],
+      "section_path_text": "moved",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "million spot bbl moved bbl spilled/spot bbl moved While oil companies and ship owners have a large on-board-the- vessel responsibility from both a financial and human perspective, the industry deserves much credit for voyages and trades that are safely concluded on a daily basis. The costs incurred by the tanker industry in trying to achieve zero quantities of oil spilled are daunting.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "are",
+        "bbl",
+        "any",
+        "costs",
+        "moved",
+        "owners"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 129,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

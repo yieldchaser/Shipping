@@ -18,16 +18,16 @@
     "container",
     "usd",
     "dwt",
-    "mil",
+    "handy",
     "k",
-    "sold",
-    "value",
-    "asset"
+    "mil",
+    "k__110k__75k__50k",
+    "pmax"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1153,
-  "source_path": "corpus/02-hellenic/vessel_valuations/2021/2021-08-10_weekly-vessel-valuations-report-august-10-2021.html",
+  "token_count": 2313,
+  "source_path": "reports/hellenic/vessel_valuations/2021/2021-08-10_weekly-vessel-valuations-report-august-10-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-august-10-2021",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2021-08-10_weekly-vessel-valuations-report-august-10-2021_img1_20210810_4a861fcf5917.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2021/assets/2021-08-10_weekly-vessel-valuations-report-august-10-2021_img1_20210810_4a861fcf5917.jpg\n\nLinked image asset: 2021-08-10_weekly-vessel-valuations-report-august-10-2021_img1_20210810_4a861fcf5917.jpg\n\nImage metadata: JPEG 678x309 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\n© VesselsValue\n10 August 2021 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge VLCC Suez Afra' =-sLR1 MR Cape Pmax Supra Handy bibl Pmax Handy Fmax\n0 0.6% 0.4% -1.1% -1.3% 0.1% 0.3% 0.2% +0.0% 0.0% +2.7% +4.5% +3.9% +4.7%\n320K __160K__110K__75K__50K 180K__ 82K __-«60K__37K 7000 4250 1750 __1100\n5 1.5% 0.4% -1.2% -1.3% 0.5% -0.3% 0.2% 0.0% 0.0% +2.7% +4.5% +3.8% +5.2%\n320K _160K__110K__75K__50K 180K ___80K___-*60K__-30K 7000 4250 (1750 _1100\n10 2.8% 0.4% -1.5% -1.3% +0.6% -0.3% -0.2% 0.0% 0.0% +2.7% +4.5% +4.0% +6.6%\n310K 160K __110K__75K__50K 180K ___80K__-«60K__-30K 7000 4250 (1750 __1100\n16 2.5% 0.4% -1.7% -1.3% +2.9% 0.3% 0.1% 0.0% 0.0% +2.7% +4.5% +4.3% +8.5%\n310K 160K __110K__70K__‘45K 180K 75K _-‘55K__30K 7000 4250 (1750 _1400\n20 \"1.1% 41.6% +14.7% 41.6% 41.7% 41.7% 0.2% +0.1% 0.0% +2.7% +4.6% +4.9% +10.6%\n300K 155K 105K ___--7",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2021/assets/2021-08-10_weekly-vessel-valuations-report-august-10-2021_img1_20210810_4a861fcf5917.jpg\n\nLinked image asset: 2021-08-10_weekly-vessel-valuations-report-august-10-2021_img1_20210810_4a861fcf5917.jpg\n\nImage metadata: JPEG 678x309 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\n[structured table]\n| | © | | VesselsValue | | | | | | | | | | | | |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 10 | August 2021 | | | | | VV | Mini Matrix | - | Weekly Change | | | | | | |\n| | | | | Tankers | | | | | Bulkers | | | | Containers | | |\n| | Age | VLCC | Suez | Afra' | | MR | Cape | Pmax | Supra | Handy | | Pmax | Handy | Fmax | |\n| | | 0.6% | | -1.1% | -1.3% | 0.1% | | | +0.0% | 0.0% | +2.7% | +4.5% | +3.9% | +4.7% | |\n| | 0 | | | | | | | | | | | | | | |\n| | | 320K | | __160K__110K__75K__50K | | | 180K__ | | | | 7000 | 4250 | | | |\n| | | 1.5% | | -1.2% | -1.3% | | -0.3% | 0.2% | 0.0% | 0.0% | +2.7% | +4.5% | +3.8% | +5.2% | |\n| | 5 | | | | | | | | | | | | | | |\n| | | 320K | | _160K__110K__75K__50K | | | 180K | | | | 7000 | 4250 | | _1100 | |\n| | | 2.8% | 0.4% | -1.5% | -1.3% | +0.6% | -0.3% | -0.2% | 0.0% | 0.0% | +2.7",
       "keywords": [
         "capesize",
         "supramax",
@@ -77,12 +77,12 @@
         "vlcc",
         "container",
         "k",
-        "asset",
-        "handy"
+        "handy",
+        "k__110k__75k__50k"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 816,
+      "token_count": 1976,
       "section_type": "linked_image_asset",
       "children": []
     }

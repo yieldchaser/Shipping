@@ -9,25 +9,25 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 6.9.2026",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nCapesize Rates Drop to One-Month lows as Fixing Frenzy Stalls - Following an exceptionally strong performance in May,\nSource: Breakwave Advisors",
+  "summary": "Main\nCapesize Rates Drop to One-Month lows as Fixing Frenzy Stalls - Following an exceptionally strong performance in May,\nSource: Breakwave Advisors\n\nLinked asset: 2026-06-09_breakwave-dry-bulk-shipping-report-6-9-2026_breakwavedryjune92026report_b09b0509a9eb.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2026-06-09_breakwave-dry-bulk-shipping-report-6-9-2026_breakwavedryjune92026report_b09b0509a9eb.pdf\n\n# Dry Bulk Shipping\n\n## Bi-Weekly Industry Report\n\n### June 9, 2026\n\n- **Capesize Rates Drop to One-Month lows as Fixing Frenzy Stalls -** Following an **exceptionally strong performance** in May, during which Capesize spot rates reached a 15-year seasonal high, the market has begun to soften, with spot rates subsequently dropping to one-month lows. Due to historically weak seasonal trends in June, this **downward trajectory is anticipated to persist** in the near term; however, freight futures continue to indicate a robust third quarter despite recent market volatility. The **Pacific** spot market currently represents the **weakest** **segment** as the fiscal year-end push approaches its conclusion this month (some Australian miners report on a June 30 Fiscal Year basis).",
   "keywords": [
     "capesize",
-    "drop",
-    "exceptionally",
-    "fixing",
-    "following",
-    "frenzy",
-    "lows",
-    "main",
-    "may",
-    "one-month",
-    "performance",
-    "source"
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "pacific",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil",
+    "steel"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 34,
-  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-06-09_breakwave-dry-bulk-shipping-report-6-9-2026.html",
+  "token_count": 1714,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-06-09_breakwave-dry-bulk-shipping-report-6-9-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-6-9-2026",
   "children": [
     {
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 32,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-06-09_2026_06_09_breakwave_dry_bulk_shipping_report_6_9_2026__s02_linked_asset_2026_06_09_breakwave_dry_bulk_shipping_report_6_9_2026_breakwavedryjune92026report_b09b0509a9eb_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-06-09_2026_06_09_breakwave_dry_bulk_shipping_report_6_9_2026",
+      "parent_id": "hellenic_shipbuilding_2026-06-09_2026_06_09_breakwave_dry_bulk_shipping_report_6_9_2026__root",
+      "title": "Linked asset: 2026-06-09_breakwave-dry-bulk-shipping-report-6-9-2026_breakwavedryjune92026report_b09b0509a9eb.pdf",
+      "section_path": [
+        "Linked asset: 2026-06-09_breakwave-dry-bulk-shipping-report-6-9-2026_breakwavedryjune92026report_b09b0509a9eb.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-06-09_breakwave-dry-bulk-shipping-report-6-9-2026_breakwavedryjune92026report_b09b0509a9eb.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-06-09_breakwave-dry-bulk-shipping-report-6-9-2026_breakwavedryjune92026report_b09b0509a9eb.pdf\n\n# Dry Bulk Shipping\n\n## Bi-Weekly Industry Report\n\n### June 9, 2026\n\n- **Capesize Rates Drop to One-Month lows as Fixing Frenzy Stalls -** Following an **exceptionally strong performance** in May, during which Capesize spot rates reached a 15-year seasonal high, the market has begun to soften, with spot rates subsequently dropping to one-month lows. Due to historically weak seasonal trends in June, this **downward trajectory is anticipated to persist** in the near term; however, freight futures continue to indicate a robust third quarter despite recent market volatility.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "pacific",
+        "iron_ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1634,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

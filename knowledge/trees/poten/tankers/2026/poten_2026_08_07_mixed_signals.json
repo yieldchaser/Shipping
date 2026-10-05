@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2026_08_07_mixed_signals__root",
+  "doc_id": "poten_tankers_no_date_poten_2026_08_07_mixed_signals",
+  "parent_id": null,
+  "title": "Mixed Signals",
+  "section_path": [
+    "Mixed Signals"
+  ],
+  "section_path_text": "Mixed Signals",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "crude oil exports drop, but refined products keep flowing\nAs a result of the war in the Middle East and the effective closure of the Strait of Hormuz, global oil and refined product supplies tightened significantly. Countries around the world responded by tapping emergency stockpiles, cutting imports and restricting exports. The International Energy Agency (IEA) led its 32 member countries in executing a release of 426 million barrels of oil from their emergency reserves: 301 million barrels of crude and 125 million barrels of refined products.",
+  "keywords": [
+    "vlcc",
+    "aframax",
+    "europe",
+    "crude_oil",
+    "products",
+    "oil",
+    "exports",
+    "u.s.",
+    "crude",
+    "product",
+    "barrels",
+    "spr"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 929,
+  "source_path": "reports/poten/2026/poten_2026-08-07_mixed-signals.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2026_08_07_mixed_signals__s01_u_s_crude_oil_exports_drop_but_refined_products_keep_flowing",
+      "doc_id": "poten_tankers_no_date_poten_2026_08_07_mixed_signals",
+      "parent_id": "poten_tankers_no_date_poten_2026_08_07_mixed_signals__root",
+      "title": "U.S. crude oil exports drop, but refined products keep flowing",
+      "section_path": [
+        "U.S. crude oil exports drop, but refined products keep flowing"
+      ],
+      "section_path_text": "U.S. crude oil exports drop, but refined products keep flowing",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As a result of the war in the Middle East and the effective closure of the Strait of Hormuz, global oil and refined product supplies tightened significantly. Countries around the world responded by tapping emergency stockpiles, cutting imports and restricting exports.",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "europe",
+        "crude_oil",
+        "products",
+        "oil",
+        "exports",
+        "product"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 915,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

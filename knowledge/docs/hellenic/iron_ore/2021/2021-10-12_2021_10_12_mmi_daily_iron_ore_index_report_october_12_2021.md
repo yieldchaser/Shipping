@@ -8,6 +8,7 @@ commodities:
 date: '2021-10-12'
 doc_id: hellenic_iron_ore_2021-10-12_2021_10_12_mmi_daily_iron_ore_index_report_october_12_2021
 document_type: commodity_update
+is_error_page: false
 key_entities:
 - China
 - Brazil
@@ -24,8 +25,8 @@ keywords:
 - cid
 - fines
 - oct
-- high
 - change
+- high
 linked_assets_discovered: 2
 linked_assets_failed: 0
 linked_assets_ingested: 2
@@ -46,7 +47,7 @@ numeric_observations:
   - 91.0
   - 4.0
   - -10.0
-  - 3.86
+  - 13.86
   - 390000.0
   - 809000.0
   - 1.28
@@ -64,10 +65,11 @@ numeric_observations:
   - -12.0
   - 12.0
   - -2021.0
+  - 1.0
   - 1210.0
-  - 4.0
-  - 38.0
-  - 75.0
+  - 34.0
+  - 338.0
+  - 7.0
 - &id003
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
@@ -123,11 +125,11 @@ numeric_observations:
     RMB/t
   unit: pct
   values:
-  - 2.0
   - 62.0
-  - 5.0
+  - 62.0
   - 65.0
-  - 8.0
+  - 65.0
+  - 58.0
   - 58.0
 - &id007
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
@@ -169,9 +171,9 @@ numeric_observations:
     Fe Lump RMB/t
   unit: usd_per_unit
   values:
-  - 2.0
   - 62.0
-  - 5.0
+  - 62.0
+  - 65.0
   - 65.0
   - 62.5
 - &id011
@@ -238,10 +240,10 @@ numeric_observations:
   source_line: I2201 (Jan) RMB/t (3pm close) November 21 USD/dmt RB2201 (Jan) RMB/t
   unit: usd_per_unit
   values:
-  - 201.0
+  - 2201.0
   - 3.0
   - 21.0
-  - 201.0
+  - 2201.0
 - &id017
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
@@ -299,13 +301,22 @@ numeric_observations:
 - &id021
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
+  source_line: C3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Steel
+    Rebar (China Domestic) RMB/t
+  unit: usd_per_unit
+  values:
+  - 3.0
+  - 5.0
+- &id022
+  section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
+  section_type: linked_pdf
   source_line: 48.58 21.36 5900
   unit: null
   values:
   - 48.58
   - 21.36
   - 5900.0
-- &id022
+- &id023
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: -0.32 -0.65% 0.02 0.09% 10 0.17%
@@ -317,7 +328,7 @@ numeric_observations:
   - 0.09
   - 10.0
   - 0.17
-- &id023
+- &id024
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: Oct 11th, 2021 Oct 11th, 2021 Month Ending Sep 30th,2021
@@ -329,7 +340,7 @@ numeric_observations:
   - 2021.0
   - 30.0
   - 2021.0
-- &id024
+- &id025
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: (cid:47)(cid:374)(cid:448)(cid:286)(cid:374)(cid:410)(cid:381)(cid:396)(cid:455)(cid:3)(cid:62)(cid:286)(cid:448)(cid:286)(cid:367)(cid:400)
@@ -346,14 +357,14 @@ numeric_observations:
   - 396.0
   - 455.0
   - 3.0
-- &id025
+- &id026
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: Iron Ore Inventory at Chinese Ports (35) Steel Inventory in China
   unit: null
   values:
   - 35.0
-- &id026
+- &id027
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: 130.78 14.02 5770
@@ -362,7 +373,7 @@ numeric_observations:
   - 130.78
   - 14.02
   - 5770.0
-- &id027
+- &id028
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: 3.43 2.69% -1.81 -11.43% 60 1.05%
@@ -374,7 +385,7 @@ numeric_observations:
   - -11.43
   - 60.0
   - 1.05
-- &id028
+- &id029
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: Month Ending Sep 30th,2021 Month Ending Sep 30th,2021 Month Ending
@@ -387,7 +398,7 @@ numeric_observations:
   - 2021.0
   - 30.0
   - 2021.0
-- &id029
+- &id030
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: (cid:449)(cid:449)(cid:449)(cid:856)(cid:373)(cid:373)(cid:349)(cid:393)(cid:396)(cid:349)(cid:272)(cid:286)(cid:400)(cid:856)(cid:272)(cid:381)(cid:373)
@@ -405,7 +416,7 @@ numeric_observations:
   - 393.0
   - 396.0
   - 349.0
-- &id030
+- &id031
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: (cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:87)(cid:75)(cid:90)(cid:100)(cid:3)(cid:94)(cid:100)(cid:75)(cid:18)(cid:60)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:3)(cid:894)(cid:47)(cid:75)(cid:87)(cid:47)(cid:895)
@@ -421,7 +432,7 @@ numeric_observations:
   - 28.0
   - 3.0
   - 87.0
-- &id031
+- &id032
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: Oct 12th, 2021 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao
@@ -432,14 +443,14 @@ numeric_observations:
   - 2021.0
   - 13.0
   - 13.0
-- &id032
+- &id033
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: IOPI62 62% Fe Fines 926 15 1.6% 913 1256 762 1680 134.03 2.30 1.7%
     131.96 182.61 109.14 247.30
   unit: pct
   values:
-  - 2.0
+  - 62.0
   - 62.0
   - 926.0
   - 15.0
@@ -449,14 +460,14 @@ numeric_observations:
   - 762.0
   - 1680.0
   - 134.03
-- &id033
+- &id034
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: IOPI58 58% Fe Fines 695 5 0.7% 687 1025 518 1421 100.65 0.80 0.8% 99.39
     149.79 73.66 210.83
   unit: pct
   values:
-  - 8.0
+  - 58.0
   - 58.0
   - 695.0
   - 5.0
@@ -466,14 +477,14 @@ numeric_observations:
   - 518.0
   - 1421.0
   - 100.65
-- &id034
+- &id035
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: IOPI65 65% Fe Fines 1082 14 1.3% 1071 1461 952 1894 157.32 2.17 1.4%
     155.47 213.11 133.20 278.61
   unit: pct
   values:
-  - 5.0
+  - 65.0
   - 65.0
   - 1082.0
   - 14.0
@@ -483,7 +494,7 @@ numeric_observations:
   - 952.0
   - 1894.0
   - 157.32
-- &id035
+- &id036
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: (cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:94)(cid:28)(cid:4)(cid:17)(cid:75)(cid:90)(cid:69)(cid:28)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:3)(cid:894)(cid:47)(cid:75)(cid:94)(cid:47)(cid:895)
@@ -500,7 +511,7 @@ numeric_observations:
   - 28.0
   - 3.0
   - 94.0
-- &id036
+- &id037
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: Oct 12th, 2021 CFR Qingdao, USD/dry tonne (cid:4)(cid:272)(cid:272)(cid:381)(cid:396)(cid:282)(cid:349)(cid:374)(cid:336)(cid:3)(cid:410)(cid:381)(cid:3)(cid:282)(cid:258)(cid:410)(cid:258)(cid:3)(cid:410)(cid:396)(cid:258)(cid:272)(cid:364)(cid:286)(cid:282)(
@@ -516,7 +527,7 @@ numeric_observations:
   - 282.0
   - 349.0
   - 374.0
-- &id037
+- &id038
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: (cid:1005)(cid:1007)(cid:856)(cid:1012)(cid:1010)(cid:3)(cid:373)(cid:349)(cid:367)(cid:367)(cid:349)(cid:381)(cid:374)(cid:3)(cid:373)(cid:410)(cid:853)(cid:3)(cid:437)(cid:393)(cid:3)(cid:1007)(cid:1013)(cid:1004)(cid:853)(cid:1004)(cid:1004)(cid:1004)(cid:3
@@ -532,7 +543,7 @@ numeric_observations:
   - 349.0
   - 367.0
   - 367.0
-- &id038
+- &id039
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: Index Fe Content Price Change Change % MTD YTD Low 2 High 2 (cid:286)(cid:400)(cid:415)(cid:373)(cid:258)(cid:410)(cid:286)(cid:282)(cid:3)(cid:410)(cid:381)(cid:3)(cid:282)(cid:286)(cid:272)(cid:396)(cid:286)(cid:258)(cid:400)(cid:286)(cid:3)(cid:1005)(cid:85
@@ -548,7 +559,7 @@ numeric_observations:
   - 410.0
   - 286.0
   - 282.0
-- &id039
+- &id040
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: (cid:1006)(cid:3)(cid:373)(cid:349)(cid:367)(cid:367)(cid:349)(cid:381)(cid:374)(cid:3)(cid:373)(cid:410)(cid:3)(cid:410)(cid:381)(cid:3)(cid:1008)(cid:856)(cid:1007)(cid:3)(cid:373)(cid:349)(cid:367)(cid:367)(cid:349)(cid:381)(cid:374)(cid:3)(cid:373)(cid:410
@@ -564,7 +575,7 @@ numeric_observations:
   - 381.0
   - 374.0
   - 3.0
-- &id040
+- &id041
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: (cid:410)(cid:381)(cid:410)(cid:258)(cid:367)(cid:3)(cid:400)(cid:346)(cid:349)(cid:393)(cid:373)(cid:286)(cid:374)(cid:410)(cid:400)(cid:3)(cid:296)(cid:396)(cid:381)(cid:373)(cid:3)(cid:4)(cid:437)(cid:400)(cid:410)(cid:396)(cid:258)(cid:367)(cid:349)(cid:25
@@ -580,13 +591,13 @@ numeric_observations:
   - 346.0
   - 349.0
   - 393.0
-- &id041
+- &id042
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: IOSI62 62% Fe Fines 137.70 5.60 4.24% 126.50 176.46 112.75 230.50 (cid:349)(cid:400)(cid:3)(cid:286)(cid:454)(cid:393)(cid:286)(cid:272)(cid:410)(cid:286)(cid:282)(cid:3)(cid:410)(cid:381)(cid:3)(cid:396)(cid:286)(cid:271)(cid:381)(cid:437)(cid:374)(cid:282)(c
   unit: pct
   values:
-  - 2.0
+  - 62.0
   - 62.0
   - 137.7
   - 5.6
@@ -596,7 +607,7 @@ numeric_observations:
   - 112.75
   - 230.5
   - 349.0
-- &id042
+- &id043
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: (cid:400)(cid:410)(cid:381)(cid:272)(cid:364)(cid:3)(cid:373)(cid:258)(cid:396)(cid:364)(cid:286)(cid:410)(cid:856)(cid:3)(cid:87)(cid:17)(cid:38)(cid:3)(cid:449)(cid:258)(cid:400)(cid:3)(cid:272)(cid:367)(cid:381)(cid:400)(cid:286)(cid:282)(cid:3)(cid:258)(ci
@@ -612,13 +623,13 @@ numeric_observations:
   - 258.0
   - 396.0
   - 364.0
-- &id043
+- &id044
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: IOSI65 65% Fe Fines 153.40 3.30 2.20% 144.50 203.85 131.15 262.95 (cid:410)(cid:381)(cid:410)(cid:258)(cid:367)(cid:3)(cid:410)(cid:396)(cid:258)(cid:374)(cid:400)(cid:258)(cid:272)(cid:415)(cid:381)(cid:374)(cid:3)(cid:258)(cid:410)(cid:373)(cid:381)(cid:400)
   unit: pct
   values:
-  - 5.0
+  - 65.0
   - 65.0
   - 153.4
   - 3.3
@@ -628,7 +639,7 @@ numeric_observations:
   - 131.15
   - 262.95
   - 410.0
-- &id044
+- &id045
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: (cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:87)(cid:75)(cid:90)(cid:100)(cid:3)(cid:62)(cid:104)(cid:68)(cid:87)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:3)(cid:894)(cid:47)(cid:75)(cid:87)(cid:62)(cid:47)(cid:895)
@@ -644,7 +655,7 @@ numeric_observations:
   - 28.0
   - 3.0
   - 87.0
-- &id045
+- &id046
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: Month Ending Sep 30th,2021 FOT Qingdao (inc. 13% VAT), RMB/wet tonne
@@ -656,7 +667,7 @@ numeric_observations:
   - 13.0
   - 13.0
   - 3.0
-- &id046
+- &id047
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: Index Fe Content Price W-o-W Change % MTD YTD Low 2 High 2 Price W-oW
@@ -667,14 +678,14 @@ numeric_observations:
   - 2.0
   - 2.0
   - 2.0
-- &id047
+- &id048
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: IOPLI62 62.5% Fe Lump 910 30 3.4% 1065 1505 886 1868 125.66 0.00 0.00%
     147.90 209.48 118.00 262.00
   unit: pct
   values:
-  - 2.0
+  - 62.0
   - 62.5
   - 910.0
   - 30.0
@@ -684,7 +695,7 @@ numeric_observations:
   - 886.0
   - 1868.0
   - 125.66
-- &id048
+- &id049
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: (cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:24)(cid:75)(cid:68)(cid:28)(cid:94)(cid:100)(cid:47)(cid:18)(cid:3)(cid:18)(cid:75)(cid:69)(cid:18)(cid:28)(cid:69)(cid:100)(cid:90)(cid:4)(cid:100)(cid:28)(cid:3)(cid:94)(cid:87)(cid:7
@@ -700,7 +711,7 @@ numeric_observations:
   - 28.0
   - 3.0
   - 24.0
-- &id049
+- &id050
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: Month Ending Sep 30th,2021 RMB/tonne (excluding tax) 3 USD/tonne (excluding
@@ -711,7 +722,7 @@ numeric_observations:
   - 2021.0
   - 3.0
   - 3.0
-- &id050
+- &id051
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: Hebei Hanxing 66% Fe Concentrate Dry 890 -6.3% 779 1645 137.76 -6.21%
@@ -727,7 +738,7 @@ numeric_observations:
   - -6.21
   - 110.31
   - 255.69
-- &id051
+- &id052
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: Hebei Qian'an 65% Fe Concentrate Dry 1070 5.4% 780 1630 165.62 5.54%
@@ -743,7 +754,7 @@ numeric_observations:
   - 5.54
   - 110.51
   - 251.57
-- &id052
+- &id053
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: Liaoning Anshan 65% Fe Concentrate Wet 880 0.0% 620 1310 136.21 0.12%
@@ -758,7 +769,7 @@ numeric_observations:
   - 0.12
   - 87.4
   - 202.32
-- &id053
+- &id054
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: Shandong Zibo 65% Fe Concentrate Dry 890 -8.7% 865 1752 137.76 -8.61%
@@ -774,7 +785,7 @@ numeric_observations:
   - -8.61
   - 122.55
   - 272.32
-- &id054
+- &id055
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: Month Ending Sep 30th,2021 This week Change % Low 2 High 2 (cid:1015)(cid:3)(cid:28)(cid:454)(cid:272)(cid:346)(cid:258)(cid:374)(cid:336)(cid:286)(cid:3)(cid:396)(cid:258)(cid:410)(cid:286)(cid:3)(cid:258)(cid:393)(cid:393)(cid:367)(cid:349)(cid:286)(cid:282)
@@ -790,7 +801,7 @@ numeric_observations:
   - 454.0
   - 272.0
   - 346.0
-- &id055
+- &id056
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: (cid:3)(cid:1007)(cid:3)(cid:116)(cid:286)(cid:286)(cid:364)(cid:367)(cid:455)(cid:3)(cid:286)(cid:454)(cid:272)(cid:346)(cid:258)(cid:374)(cid:336)(cid:286)(cid:3)(cid:396)(cid:258)(cid:410)(cid:286)(cid:3)(cid:258)(cid:393)(cid:393)(cid:367)(cid:349)(cid:286
@@ -806,7 +817,7 @@ numeric_observations:
   - 367.0
   - 455.0
   - 3.0
-- &id056
+- &id057
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: China Mines Concentrate Composite Index RMB/WT 968.33 0.00% 706.36
@@ -816,7 +827,7 @@ numeric_observations:
   - 968.33
   - 706.36
   - 1511.22
-- &id057
+- &id058
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: (cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:87)(cid:75)(cid:90)(cid:100)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:853)(cid:3)(cid:38)(cid:75)(cid:100)(cid:3)(cid:89)(cid:47)(cid:69)(cid:39)(cid:24)(cid:4)(cid:75)(cid:3
@@ -832,7 +843,7 @@ numeric_observations:
   - 28.0
   - 3.0
   - 87.0
-- &id058
+- &id059
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: 2050 320
@@ -840,7 +851,7 @@ numeric_observations:
   values:
   - 2050.0
   - 320.0
-- &id059
+- &id060
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: 1450 220
@@ -848,7 +859,7 @@ numeric_observations:
   values:
   - 1450.0
   - 220.0
-- &id060
+- &id061
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: 850 120
@@ -856,18 +867,18 @@ numeric_observations:
   values:
   - 850.0
   - 120.0
-- &id061
+- &id062
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: IOPI62 IOPI58 IOPI65 IOSI62 IOSI65
   unit: null
   values:
-  - 2.0
-  - 8.0
-  - 5.0
-  - 2.0
-  - 5.0
-- &id062
+  - 62.0
+  - 58.0
+  - 65.0
+  - 62.0
+  - 65.0
+- &id063
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: Oct 12th, 2021 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao
@@ -878,14 +889,14 @@ numeric_observations:
   - 2021.0
   - 13.0
   - 13.0
-- &id063
+- &id064
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: IOPI62 62% Fe Fines 1524 1519 1174 937 913 913 1256 221.54 170.18 135.90
     135.31 131.96 131.96 182.61
   unit: pct
   values:
-  - 2.0
+  - 62.0
   - 62.0
   - 1524.0
   - 1519.0
@@ -895,14 +906,14 @@ numeric_observations:
   - 913.0
   - 1256.0
   - 221.54
-- &id064
+- &id065
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: IOPI58 58% Fe Fines 1199 1186 894 648 687 687 1025 173.94 130.00 93.62
     93.31 99.39 99.39 149.79
   unit: pct
   values:
-  - 8.0
+  - 58.0
   - 58.0
   - 1199.0
   - 1186.0
@@ -912,14 +923,14 @@ numeric_observations:
   - 687.0
   - 1025.0
   - 173.94
-- &id065
+- &id066
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: IOPI65 65% Fe Fines 1756 1750 1466 1152 1071 1071 1461 255.79 213.59
     214.41 214.06 213.11 155.47 213.11
   unit: pct
   values:
-  - 5.0
+  - 65.0
   - 65.0
   - 1756.0
   - 1750.0
@@ -929,7 +940,7 @@ numeric_observations:
   - 1071.0
   - 1461.0
   - 255.79
-- &id066
+- &id067
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: Oct 12th, 2021 CFR Qingdao, USD/dry tonne Oct 11th, 2021 FREIGHT RATES
@@ -940,7 +951,7 @@ numeric_observations:
   - 2021.0
   - 11.0
   - 2021.0
-- &id067
+- &id068
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: Index Fe Content June July August September MTD QTD YTD Route Designation
@@ -949,14 +960,14 @@ numeric_observations:
   values:
   - 2.0
   - 2.0
-- &id068
+- &id069
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: IOSI62 62% Fe Fines 213.90 211.65 162.80 128.43 126.50 126.50 176.46
     W. Australia - Qingdao C5 21.36 0.02 0.09% 3.57 16.77
   unit: pct
   values:
-  - 2.0
+  - 62.0
   - 62.0
   - 213.9
   - 211.65
@@ -965,15 +976,15 @@ numeric_observations:
   - 126.5
   - 126.5
   - 176.46
-  - 21.36
-- &id069
+  - 5.0
+- &id070
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: IOSI65 65% Fe Fines 244.31 254.36 192.73 148.09 144.50 144.50 203.85
     Tubarao - Qingdao C3 48.58 -0.32 -0.65% 6.70 36.40
   unit: pct
   values:
-  - 5.0
+  - 65.0
   - 65.0
   - 244.31
   - 254.36
@@ -982,8 +993,8 @@ numeric_observations:
   - 144.5
   - 144.5
   - 203.85
-  - 48.58
-- &id070
+  - 3.0
+- &id071
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: Month Ending Sep 30th,2021 FOT Qingdao (inc. 13% VAT), RMB/wet tonne
@@ -994,14 +1005,14 @@ numeric_observations:
   - 2021.0
   - 13.0
   - 13.0
-- &id071
+- &id072
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: IOPLI62 62.5% Fe Lump 1735 1816 1409 1065 1065 1431 1505 245.23 254.64
     196.49 147.90 147.90 199.89 209.48
   unit: pct
   values:
-  - 2.0
+  - 62.0
   - 62.5
   - 1735.0
   - 1816.0
@@ -1011,7 +1022,7 @@ numeric_observations:
   - 1431.0
   - 1505.0
   - 245.23
-- &id072
+- &id073
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: (cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:3)(cid:87)(cid:90)(cid:28)(cid:68)(cid:47)(cid:104)(cid:68)(cid:94)(cid:876)(cid:24)(cid:47)(cid:94)(cid:18)(cid:75)(cid:104)(cid:69)(cid:100)(c
@@ -1027,7 +1038,7 @@ numeric_observations:
   - 28.0
   - 3.0
   - 47.0
-- &id073
+- &id074
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: Oct 12th, 2021 PORT STOCK INDEX (RMB/WT) Oct 12th, 2021 SEABORNE INDEX
@@ -1038,42 +1049,42 @@ numeric_observations:
   - 2021.0
   - 12.0
   - 2021.0
-- &id074
+- &id075
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: Index Fe Content Spread to IOPI62 % Spread to IOPI62 Index Fe Content
     Spread to IOSI62 % Spread to IOSI62
   unit: pct
   values:
-  - 2.0
-  - 2.0
-  - 2.0
-  - 2.0
-- &id075
+  - 62.0
+  - 62.0
+  - 62.0
+  - 62.0
+- &id076
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: IOPI58 58% Fe Fines -231 -24.95%
   unit: pct
   values:
-  - 8.0
+  - 58.0
   - 58.0
   - -231.0
   - -24.95
-- &id076
+- &id077
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: IOPI65 65% Fe Fines 156 16.85% IOSI65 65% Fe Fines 15.70 11.40%
   unit: pct
   values:
-  - 5.0
+  - 65.0
   - 65.0
   - 156.0
   - 16.85
-  - 5.0
+  - 65.0
   - 65.0
   - 15.7
   - 11.4
-- &id077
+- &id078
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: '(cid:18)(cid:75)(cid:87)(cid:122)(cid:90)(cid:47)(cid:39)(cid:44)(cid:100)(cid:3)(cid:68)(cid:28)(cid:100)(cid:4)(cid:62)(cid:94)(cid:3)(cid:68)(cid:4)(cid:90)(cid:60)(cid:28)(cid:100)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:853)(cid:3)(cid:4)(cid:'
@@ -1089,7 +1100,7 @@ numeric_observations:
   - 44.0
   - 100.0
   - 3.0
-- &id078
+- &id079
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: 270 1650
@@ -1097,7 +1108,7 @@ numeric_observations:
   values:
   - 270.0
   - 1650.0
-- &id079
+- &id080
   section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: 230 1450
@@ -1105,8 +1116,7 @@ numeric_observations:
   values:
   - 230.0
   - 1450.0
-- &id080
-  section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
+- section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: 190 1250
   unit: null
@@ -1119,10 +1129,10 @@ numeric_observations:
     Composite Mines Index
   unit: null
   values:
-  - 2.0
-  - 2.0
-  - 5.0
-  - 5.0
+  - 62.0
+  - 62.0
+  - 65.0
+  - 65.0
 - section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: (cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:17)(cid:90)(cid:4)(cid:69)(cid:24)(cid:3)(cid:94)(cid:87)(cid:75)(cid:100)(cid:3)(cid:87)(cid:90)(cid:47)(cid:18)(cid:28)(cid:3)(cid:4)(cid:94)(cid:94)(cid:28)(cid:94)(cid:68)(cid:28)(c
@@ -1143,8 +1153,8 @@ numeric_observations:
   source_line: Price Change Diff to IOPI62 Price Change Diff to IOSI62
   unit: null
   values:
-  - 2.0
-  - 2.0
+  - 62.0
+  - 62.0
 - section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: Roy Hill 870 15 -56 Roy Hill 133.20 5.60 -4.50
@@ -1279,7 +1289,7 @@ numeric_observations:
   source_line: Price Change Diff to IOPI58
   unit: null
   values:
-  - 8.0
+  - 58.0
 - section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
   section_type: linked_pdf
   source_line: SSF 694 5 -1
@@ -1500,13 +1510,6 @@ numeric_observations:
   values:
   - -100.0
   - -25.0
-- section: 'Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf'
-  section_type: linked_pdf
-  source_line: Beilun 0.00 0.00 Jiangyin -95.00 0.00 Lianyungang 0.00 0.00 Shekou
-    0.00 0.00
-  unit: null
-  values:
-  - -95.0
 regions:
 - china
 - brazil
@@ -1528,7 +1531,7 @@ signals:
     - 91.0
     - 4.0
     - -10.0
-    - 3.86
+    - 13.86
     - 390000.0
     - 809000.0
     - 1.28
@@ -1543,18 +1546,18 @@ signals:
     - 12.0
     - -2021.0
     - 297.0
-    - 2.0
-    - 2.0
+    - 72.0
+    - 12.0
   - metric: index_62_fines
     source_line: IOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe
       Fines RMB/t
     unit: pct
     values:
-    - 2.0
     - 62.0
-    - 5.0
+    - 62.0
     - 65.0
-    - 8.0
+    - 65.0
+    - 58.0
     - 58.0
   - metric: numeric_observation
     source_line: 15 1.65% 14.00 1.31% 5 0.72%
@@ -1571,9 +1574,9 @@ signals:
       Fe Lump RMB/t
     unit: usd_per_dmt
     values:
-    - 2.0
     - 62.0
-    - 5.0
+    - 62.0
+    - 65.0
     - 65.0
     - 62.5
   - metric: index_62_fines
@@ -1587,10 +1590,10 @@ signals:
     source_line: I2201 (Jan) RMB/t (3pm close) November 21 USD/dmt RB2201 (Jan) RMB/t
     unit: usd_per_dmt
     values:
-    - 201.0
+    - 2201.0
     - 3.0
     - 21.0
-    - 201.0
+    - 2201.0
   - metric: numeric_observation
     source_line: -0.32 -0.65% 0.02 0.09% 10 0.17%
     unit: pct
@@ -1620,7 +1623,7 @@ signals:
       131.96 182.61 109.14 247.30
     unit: pct
     values:
-    - 2.0
+    - 62.0
     - 62.0
     - 926.0
     - 15.0
@@ -1633,7 +1636,7 @@ signals:
       99.39 149.79 73.66 210.83
     unit: pct
     values:
-    - 8.0
+    - 58.0
     - 58.0
     - 695.0
     - 5.0
@@ -1646,7 +1649,7 @@ signals:
       155.47 213.11 133.20 278.61
     unit: pct
     values:
-    - 5.0
+    - 65.0
     - 65.0
     - 1082.0
     - 14.0
@@ -1683,7 +1686,7 @@ signals:
       (cid:349)(cid:400)(cid:3)(cid:286)(cid:454)(cid:393)(cid:286)(cid:272)(cid:410)(cid:286)(cid:282)(cid:3)(cid:410)(cid:381)(cid:3)(cid:396)(cid:286)(cid:271)(cid:381)(cid:437)(cid:374)(cid:282)(c
     unit: pct
     values:
-    - 2.0
+    - 62.0
     - 62.0
     - 137.7
     - 5.6
@@ -1696,7 +1699,7 @@ signals:
       (cid:410)(cid:381)(cid:410)(cid:258)(cid:367)(cid:3)(cid:410)(cid:396)(cid:258)(cid:374)(cid:400)(cid:258)(cid:272)(cid:415)(cid:381)(cid:374)(cid:3)(cid:258)(cid:410)(cid:373)(cid:381)(cid:400)
     unit: pct
     values:
-    - 5.0
+    - 65.0
     - 65.0
     - 153.4
     - 3.3
@@ -1776,7 +1779,7 @@ signals:
       135.90 135.31 131.96 131.96 182.61
     unit: pct
     values:
-    - 2.0
+    - 62.0
     - 62.0
     - 1524.0
     - 1519.0
@@ -1789,7 +1792,7 @@ signals:
       93.62 93.31 99.39 99.39 149.79
     unit: pct
     values:
-    - 8.0
+    - 58.0
     - 58.0
     - 1199.0
     - 1186.0
@@ -1802,7 +1805,7 @@ signals:
       214.41 214.06 213.11 155.47 213.11
     unit: pct
     values:
-    - 5.0
+    - 65.0
     - 65.0
     - 1756.0
     - 1750.0
@@ -1831,7 +1834,7 @@ signals:
       W. Australia - Qingdao C5 21.36 0.02 0.09% 3.57 16.77
     unit: pct
     values:
-    - 2.0
+    - 62.0
     - 62.0
     - 213.9
     - 211.65
@@ -1844,7 +1847,7 @@ signals:
       Tubarao - Qingdao C3 48.58 -0.32 -0.65% 6.70 36.40
     unit: pct
     values:
-    - 5.0
+    - 65.0
     - 65.0
     - 244.31
     - 254.36
@@ -1875,15 +1878,15 @@ signals:
       Spread to IOSI62 % Spread to IOSI62
     unit: pct
     values:
-    - 2.0
-    - 2.0
-    - 2.0
-    - 2.0
+    - 62.0
+    - 62.0
+    - 62.0
+    - 62.0
   - metric: index_58_fines
     source_line: IOPI58 58% Fe Fines -231 -24.95%
     unit: pct
     values:
-    - 8.0
+    - 58.0
     - 58.0
     - -231.0
     - -24.95
@@ -1891,11 +1894,11 @@ signals:
     source_line: IOPI65 65% Fe Fines 156 16.85% IOSI65 65% Fe Fines 15.70 11.40%
     unit: pct
     values:
-    - 5.0
+    - 65.0
     - 65.0
     - 156.0
     - 16.85
-    - 5.0
+    - 65.0
     - 65.0
     - 15.7
     - 11.4
@@ -1904,10 +1907,10 @@ signals:
       Composite Mines Index
     unit: null
     values:
-    - 2.0
-    - 2.0
-    - 5.0
-    - 5.0
+    - 62.0
+    - 62.0
+    - 65.0
+    - 65.0
   - metric: index_65_fines
     source_line: SIMEC Fines 861 15 -65 SIMEC Fines 129.70 5.60 -8.00
     unit: null
@@ -2133,8 +2136,6 @@ source_stem: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021
 source_url: https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-october-12-2021
 summary: 'Main
 
-  in Chinese iron ore and steelmaking prices 12/10/2021
-
   According to data tracked by SMM, 91 ships arrived at domestic main ports from October
   4-10. Arrivals of cargoes are estimated to stand at13.86 million mt, up 390,000
   mt from the previous week, but down 809,000 mt year on year. Shipments that departed
@@ -2156,7 +2157,6 @@ vessel_classes:
 
 ## Summary
 Main
-in Chinese iron ore and steelmaking prices 12/10/2021
 According to data tracked by SMM, 91 ships arrived at domestic main ports from October 4-10. Arrivals of cargoes are estimated to stand at13.86 million mt, up 390,000 mt from the previous week, but down 809,000 mt year on year. Shipments that departed Australian ports were estimated to decrease 1.28 million mt week on week to 18.2 million mt, up 1.54 million mt on the year, and that from Brazilian ports decreased 2 million mt to 4.3 million mt on a weekly basis, down 3.18 million mt on the year.
 
 ## Main
@@ -2165,7 +2165,7 @@ Image reference: assets/2021-10-12_mmi-daily-iron-ore-index-report-october-12-20
 Source: Metals Market Index (MMi)
 
 ## Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf
-Source asset: reports/hellenic/iron_ore/pdfs/2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf
+Source asset: corpus/02-hellenic/iron_ore/pdfs/2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_mmi-daily-iron-ore-report-for-octobe_297f72b12e8c.pdf
 
 [Page 1]
 (cid:68)(cid:68)(cid:349)(cid:3)(cid:24)(cid:258)(cid:349)(cid:367)(cid:455)(cid:3)(cid:47)(cid:396)(cid:381)(cid:374)(cid:3)(cid:75)(cid:396)(cid:286)(cid:3)(cid:47)(cid:374)(cid:282)(cid:286)(cid:454)(cid:3)(cid:90)(cid:286)(cid:393)(cid:381)(cid:396)(cid:410)(cid:3)(cid:3) (cid:3)(cid:3) Oct 12th, 2021
@@ -2586,7 +2586,7 @@ IOPLI62 IRCN0036 IRCN0037
 (cid:18)(cid:75)(cid:87)(cid:122)(cid:90)(cid:47)(cid:39)(cid:44)(cid:100)(cid:3)(cid:68)(cid:28)(cid:100)(cid:4)(cid:62)(cid:94)(cid:3)(cid:68)(cid:4)(cid:90)(cid:60)(cid:28)(cid:100)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:853)(cid:3)(cid:4)(cid:62)(cid:62)(cid:3)(cid:90)(cid:47)(cid:39)(cid:44)(cid:100)(cid:94)(cid:3)(cid:90)(cid:28)(cid:94)(cid:28)(cid:90)(cid:115)(cid:28)(cid:24)
 
 ## Linked asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_img1_1210chinese34_db338cb7d275.jpg
-Source asset: reports/hellenic/iron_ore/2021/assets/2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_img1_1210chinese34_db338cb7d275.jpg
+Source asset: corpus/02-hellenic/iron_ore/2021/assets/2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_img1_1210chinese34_db338cb7d275.jpg
 
 Linked image asset: 2021-10-12_mmi-daily-iron-ore-index-report-october-12-2021_img1_1210chinese34_db338cb7d275.jpg
 

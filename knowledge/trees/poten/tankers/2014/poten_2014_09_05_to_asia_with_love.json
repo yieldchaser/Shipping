@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2014_09_05_to_asia_with_love__root",
+  "doc_id": "poten_tankers_no_date_poten_2014_09_05_to_asia_with_love",
+  "parent_id": null,
+  "title": "To Asia with Love",
+  "section_path": [
+    "To Asia with Love"
+  ],
+  "section_path_text": "To Asia with Love",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Growing Caribbean exports to Asia create a tighter VLCC\nmarket in the US Gulf Back in March 2001, a VLCC was fixed from the Caribbean to India with a cargo of Venezuelan crude oil for the first time ever. At the time, this was a highly unusual movement, but it was clearly a harbinger of things to come. Poten estimates that so far in 2014 an average of 25 vessels per month are fixed from the Caribbean to Asia, not only to China, but increasingly also to India.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "atlantic",
+    "pacific",
+    "meg",
+    "india",
+    "us_gulf",
+    "crude_oil",
+    "caribbean",
+    "are",
+    "exports",
+    "b/d"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 721,
+  "source_path": "reports/poten/2014/poten_2014-09-05_to-asia-with-love.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_09_05_to_asia_with_love__s01_growing_caribbean_exports_to_asia_create_a_tighter_vlcc",
+      "doc_id": "poten_tankers_no_date_poten_2014_09_05_to_asia_with_love",
+      "parent_id": "poten_tankers_no_date_poten_2014_09_05_to_asia_with_love__root",
+      "title": "Growing Caribbean exports to Asia create a tighter VLCC",
+      "section_path": [
+        "Growing Caribbean exports to Asia create a tighter VLCC"
+      ],
+      "section_path_text": "Growing Caribbean exports to Asia create a tighter VLCC",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "market in the US Gulf Back in March 2001, a VLCC was fixed from the Caribbean to India with a cargo of Venezuelan crude oil for the first time ever. At the time, this was a highly unusual movement, but it was clearly a harbinger of things to come.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "atlantic",
+        "pacific",
+        "meg",
+        "india",
+        "us_gulf",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 710,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

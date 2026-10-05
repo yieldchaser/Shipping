@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2006_06_23_bulls_vs_bears__root",
+  "doc_id": "poten_tankers_no_date_poten_2006_06_23_bulls_vs_bears",
+  "parent_id": null,
+  "title": "Bulls vs. Bears",
+  "section_path": [
+    "Bulls vs. Bears"
+  ],
+  "section_path_text": "Bulls vs. Bears",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Bears\nBaseball player Yogi Berra once succinctly observed, \"Prediction is a risky business, especially when it's about the future.\" It used to be much easier to predict the tanker market direction when rates hovered in the $10,000/day range as they did for most of the 1980s and early 1990s. With rates over the past 18 months ranging from $15,000/day to over $120,000/day, the task is much more difficult. Shown below is the week-on- week Timecharter equivalent (TCE) daily earnings for VLCCs trading from the Arabian Gulf to the Far East.",
+  "keywords": [
+    "vlcc",
+    "lng",
+    "brazil",
+    "meg",
+    "crude_oil",
+    "gas",
+    "are",
+    "analysts",
+    "average",
+    "day",
+    "future",
+    "much"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 717,
+  "source_path": "reports/poten/2006/poten_2006-06-23_bulls-vs-bears.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_06_23_bulls_vs_bears__s01_bulls_vs_bears",
+      "doc_id": "poten_tankers_no_date_poten_2006_06_23_bulls_vs_bears",
+      "parent_id": "poten_tankers_no_date_poten_2006_06_23_bulls_vs_bears__root",
+      "title": "Bulls vs. Bears",
+      "section_path": [
+        "Bulls vs. Bears"
+      ],
+      "section_path_text": "Bulls vs. Bears",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Baseball player Yogi Berra once succinctly observed, \"Prediction is a risky business, especially when it's about the future.\" It used to be much easier to predict the tanker market direction when rates hovered in the $10,000/day range as they did for most of the 1980s and early 1990s. With rates over the past 18 months ranging from $15,000/day to over $120,000/day, the task is much more difficult.",
+      "keywords": [
+        "vlcc",
+        "brazil",
+        "meg",
+        "day",
+        "much",
+        "when",
+        "arabian",
+        "baseball"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 131,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_06_23_bulls_vs_bears__s02_nothing_average_about_tanker_rates",
+      "doc_id": "poten_tankers_no_date_poten_2006_06_23_bulls_vs_bears",
+      "parent_id": "poten_tankers_no_date_poten_2006_06_23_bulls_vs_bears__root",
+      "title": "Nothing Average About Tanker Rates",
+      "section_path": [
+        "Nothing Average About Tanker Rates"
+      ],
+      "section_path_text": "Nothing Average About Tanker Rates",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The 10-year average daily rate for VLCCs trading from the Arabian Gulf to the Far East is $42,100/day. The graph below shows the percentage variation for each year from the 10-year average.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "average",
+        "year",
+        "daily",
+        "actually",
+        "annual",
+        "arabian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 67,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_06_23_bulls_vs_bears__s03_outlooks_hit_the_big_time",
+      "doc_id": "poten_tankers_no_date_poten_2006_06_23_bulls_vs_bears",
+      "parent_id": "poten_tankers_no_date_poten_2006_06_23_bulls_vs_bears__root",
+      "title": "Outlooks Hit the Big Time",
+      "section_path": [
+        "Outlooks Hit the Big Time"
+      ],
+      "section_path_text": "Outlooks Hit the Big Time",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "This week in New York City, the 19 th annual Marine Money Week was the forum that exposed some disparities in thinking between tanker owners and Wall Street analysts on the future direction of the tanker market. From Tuesday to Thursday the conference addressed many topics pertaining to the current shipping markets in all sectors- LNG, dry bulk, chemical and crude.",
+      "keywords": [
+        "vlcc",
+        "lng",
+        "crude_oil",
+        "gas",
+        "are",
+        "analysts",
+        "future",
+        "was"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 499,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

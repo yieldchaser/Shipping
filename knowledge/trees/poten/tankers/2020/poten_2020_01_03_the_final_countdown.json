@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2020_01_03_the_final_countdown__root",
+  "doc_id": "poten_tankers_no_date_poten_2020_01_03_the_final_countdown",
+  "parent_id": null,
+  "title": "The Final Countdown",
+  "section_path": [
+    "The Final Countdown"
+  ],
+  "section_path_text": "The Final Countdown",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Top Reported Dirty Spot Charterers for 2019*\nAs we have reached the end of the decade, we are compiling the last list of top charterers of the 2010's. While the total number of reported dirty spot fixtures in 2019 declined by almost 9% from 2018, Unipec's volumes and market share continues to grow. Last year Unipec controlled 17% of all dirty cargoes globally, compared to 14.7% in 2018.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "crude_oil",
+    "top",
+    "reported",
+    "total",
+    "unipec",
+    "charterers",
+    "fixtures",
+    "new"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1116,
+  "source_path": "reports/poten/2020/poten_2020-01-03_the-final-countdown.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_01_03_the_final_countdown__s01_top_reported_dirty_spot_charterers_for_2019",
+      "doc_id": "poten_tankers_no_date_poten_2020_01_03_the_final_countdown",
+      "parent_id": "poten_tankers_no_date_poten_2020_01_03_the_final_countdown__root",
+      "title": "Top Reported Dirty Spot Charterers for 2019*",
+      "section_path": [
+        "Top Reported Dirty Spot Charterers for 2019*"
+      ],
+      "section_path_text": "Top Reported Dirty Spot Charterers for 2019*",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As we have reached the end of the decade, we are compiling the last list of top charterers of the 2010's. While the total number of reported dirty spot fixtures in 2019 declined by almost 9% from 2018, Unipec's volumes and market share continues to grow.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "total",
+        "new",
+        "unipec",
+        "dirty",
+        "are",
+        "cargoes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 673,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_01_03_the_final_countdown__s02_chart_top_10_vlcc_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2020_01_03_the_final_countdown",
+      "parent_id": "poten_tankers_no_date_poten_2020_01_03_the_final_countdown__root",
+      "title": "Chart: Top 10 VLCC Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 VLCC Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 VLCC Spot Charterers",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "In the VLCC segment, it is Unipec and everybody else. More reported VLCC fixtures are attributed to the Chinese giant than to the next eight largest VLCC charterers combined.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "charterers",
+        "chinese",
+        "fixtures",
+        "reported",
+        "add",
+        "and/or"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 130,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_01_03_the_final_countdown__s03_chart_top_10_suezmax_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2020_01_03_the_final_countdown",
+      "parent_id": "poten_tankers_no_date_poten_2020_01_03_the_final_countdown__root",
+      "title": "Chart: Top 10 Suezmax Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 Suezmax Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 Suezmax Spot Charterers",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "In the Suezmax segment, Shell claimed the top spot, but Unipec is a very close second. To illustrate its rapid rise in the Suezmax rankings: Unipec was not even in the top 10 in 2018!",
+      "keywords": [
+        "suezmax",
+        "crude_oil",
+        "top",
+        "was",
+        "its",
+        "rankings",
+        "unipec",
+        "but"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 152,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_01_03_the_final_countdown__s04_chart_top_10_aframax_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2020_01_03_the_final_countdown",
+      "parent_id": "poten_tankers_no_date_poten_2020_01_03_the_final_countdown__root",
+      "title": "Chart: Top 10 Aframax Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 Aframax Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 Aframax Spot Charterers",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "In the Aframax segment, Vitol and Shell maintained their position on top of the rankings. Like in the Suezmaxes, Lukoil is dropping back here as well, while Unipec gained two places.",
+      "keywords": [
+        "suezmax",
+        "aframax",
+        "crude_oil",
+        "fixtures",
+        "reported",
+        "above",
+        "activity.",
+        "assembled"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 115,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

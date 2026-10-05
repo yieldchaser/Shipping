@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2024_06_21_going_deep__root",
+  "doc_id": "poten_tankers_no_date_poten_2024_06_21_going_deep",
+  "parent_id": null,
+  "title": "Going Deep",
+  "section_path": [
+    "Going Deep"
+  ],
+  "section_path_text": "Going Deep",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Deepwater port development will help VLCC demand\nOver the last decade, the U.S. has developed into the largest crude oil producer in the world. This is largely due to the shale oil developments in Texas and some other states.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "brazil",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "oil",
+    "port",
+    "u.s.",
+    "lightering",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 940,
+  "source_path": "reports/poten/2024/poten_2024-06-21_going-deep.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2024_06_21_going_deep__s01_deepwater_port_development_will_help_vlcc_demand",
+      "doc_id": "poten_tankers_no_date_poten_2024_06_21_going_deep",
+      "parent_id": "poten_tankers_no_date_poten_2024_06_21_going_deep__root",
+      "title": "Deepwater port development will help VLCC demand",
+      "section_path": [
+        "Deepwater port development will help VLCC demand"
+      ],
+      "section_path_text": "Deepwater port development will help VLCC demand",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Over the last decade, the U.S. has developed into the largest crude oil producer in the world.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "brazil",
+        "europe",
+        "us_gulf",
+        "crude_oil",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 930,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

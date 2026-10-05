@@ -1,0 +1,306 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers",
+  "parent_id": null,
+  "title": "Finding Strength in Numbers",
+  "section_path": [
+    "Finding Strength in Numbers"
+  ],
+  "section_path_text": "Finding Strength in Numbers",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Finding Strength in Numbers\nEven though the industry may have been busy on this week's holiday party circuit, news suggests that business is still getting done between the networking and canapés. It was announced on Tuesday that Mitsui OSK Lines / Phoenix Tankers, AP Moller, SAMCO and Ocean Tankers have signed a letter of intent to form a new tanker pool. While the deal has yet to be finalized, this new pool is expected to begin operation in February 2012 and control a combined fleet of around 50 VLCC tankers by the end of next year.",
+  "keywords": [
+    "vlcc",
+    "europe",
+    "crude_oil",
+    "steel",
+    "pool",
+    "pools",
+    "tankers",
+    "may",
+    "today",
+    "are",
+    "commercial",
+    "control"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1159,
+  "source_path": "reports/poten/2011/poten_2011-12-09_finding-strength-in-numbers.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers__s01_finding_strength_in_numbers",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers__root",
+      "title": "Finding Strength in Numbers",
+      "section_path": [
+        "Finding Strength in Numbers"
+      ],
+      "section_path_text": "Finding Strength in Numbers",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Even though the industry may have been busy on this week's holiday party circuit, news suggests that business is still getting done between the networking and canapés. It was announced on Tuesday that Mitsui OSK Lines / Phoenix Tankers, AP Moller, SAMCO and Ocean Tankers have signed a letter of intent to form a new tanker pool.",
+      "keywords": [
+        "vlcc",
+        "pool",
+        "tankers",
+        "combined",
+        "control",
+        "fleet",
+        "new",
+        "achievable"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 246,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers__s02_tankers_international",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers__root",
+      "title": "Tankers International",
+      "section_path": [
+        "Tankers International"
+      ],
+      "section_path_text": "Tankers International",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "commercial",
+        "control"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers__s03_national_iranian_tanker",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers__root",
+      "title": "National Iranian Tanker",
+      "section_path": [
+        "National Iranian Tanker"
+      ],
+      "section_path_text": "National Iranian Tanker",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "company"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers__s04_other_national_oil",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers__root",
+      "title": "Other National Oil",
+      "section_path": [
+        "Other National Oil"
+      ],
+      "section_path_text": "Other National Oil",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "companies"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers__s05_mitsui_osk_phoenix",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers__root",
+      "title": "Mitsui OSK/Phoenix",
+      "section_path": [
+        "Mitsui OSK/Phoenix"
+      ],
+      "section_path_text": "Mitsui OSK/Phoenix",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Tankers, AP Moller, Ocean Tankers & SAMCO While their ownership presence is sizeable, only about half of the new pool's ships are currently trading on the spot market. However, the size of their owned fleet should be considered in the potential for growth of the pool, as ships could be committed following expiration of their current charters.",
+      "keywords": [
+        "vlcc",
+        "fleet",
+        "pool",
+        "tankers",
+        "combined",
+        "companies",
+        "new",
+        "ships"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 204,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers__s06_size_matters",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers__root",
+      "title": "Size Matters",
+      "section_path": [
+        "Size Matters"
+      ],
+      "section_path_text": "Size Matters",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "As seen in the chart below, pools tend to form in weak freight rate environments, when the benefits of putting tonnage under someone else's commercial umbrella may outweigh the potential drawbacks.",
+      "keywords": [
+        "below",
+        "benefits",
+        "chart",
+        "commercial",
+        "drawbacks.",
+        "else",
+        "environments",
+        "form"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 36,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers__s07_vlcc_spot_rates_1996_2011_ytd_ag_fe_260kt",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers__root",
+      "title": "VLCC Spot Rates 1996‐2011 YTD: AG‐FE (260kt)",
+      "section_path": [
+        "VLCC Spot Rates 1996‐2011 YTD: AG‐FE (260kt)"
+      ],
+      "section_path_text": "VLCC Spot Rates 1996‐2011 YTD: AG‐FE (260kt)",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "2009‐2011 YTD Average $23,600 per day",
+      "keywords": [
+        "average",
+        "day",
+        "per",
+        "ytd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 14,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers__s08_seawolf_pool_founded",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers__root",
+      "title": "SeaWolf Pool Founded",
+      "section_path": [
+        "SeaWolf Pool Founded"
+      ],
+      "section_path_text": "SeaWolf Pool Founded",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "1996‐1999 Average $28,700 per day 2000‐2008 Average $52,900 per day",
+      "keywords": [
+        "average",
+        "day",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 25,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers__s09_founded",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers__root",
+      "title": "Founded",
+      "section_path": [
+        "Founded"
+      ],
+      "section_path_text": "Founded",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "",
+      "keywords": [
+        "february"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers__s10_annouced",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers__root",
+      "title": "Annouced",
+      "section_path": [
+        "Annouced"
+      ],
+      "section_path_text": "Annouced",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "However, when markets recover, pools can become victims of their own success. Increased market consolidation tends to raise antitrust concerns.",
+      "keywords": [
+        "vlcc",
+        "europe",
+        "increased",
+        "consolidation",
+        "pool",
+        "pools",
+        "raise",
+        "today"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 138,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers__s11_what_s_in_it_for_me",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_09_finding_strength_in_numbers__root",
+      "title": "What's in it For Me?",
+      "section_path": [
+        "What's in it For Me?"
+      ],
+      "section_path_text": "What's in it For Me?",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "The larger market presence of pools allows certain economies of scale that would not be available to owners of smaller fleets. Because of the volumes involved and frequency of their business, pools may be able to negotiate volume‐based discounts in their contracts with bunker suppliers.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "steel",
+        "pools",
+        "are",
+        "may",
+        "able",
+        "contracts"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 414,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

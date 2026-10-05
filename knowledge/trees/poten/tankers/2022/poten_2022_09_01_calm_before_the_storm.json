@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2022_09_01_calm_before_the_storm__root",
+  "doc_id": "poten_tankers_no_date_poten_2022_09_01_calm_before_the_storm",
+  "parent_id": null,
+  "title": "Calm Before The Storm",
+  "section_path": [
+    "Calm Before The Storm"
+  ],
+  "section_path_text": "Calm Before The Storm",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "export restrictions would boost product tanker demand\nHurricane season in the Gulf of Mexico typically runs every year from June 1 through November 30. According to the National Oceanic and Atmospheric Administration, an average Atlantic season spawns seven hurricanes and peaks in August, September, and October. This year, for the first time in 25 years, the month of August has passed without a named storm in the Atlantic, even though meteorologists have warned that this year's season would be \"above normal.\" However, this does not mean that we are out of the woods yet.",
+  "keywords": [
+    "australia",
+    "atlantic",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "u.s.",
+    "product",
+    "would",
+    "exports",
+    "america",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 921,
+  "source_path": "reports/poten/2022/poten_2022-09-01_calm-before-the-storm.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_09_01_calm_before_the_storm__s01_u_s_export_restrictions_would_boost_product_tanker_demand",
+      "doc_id": "poten_tankers_no_date_poten_2022_09_01_calm_before_the_storm",
+      "parent_id": "poten_tankers_no_date_poten_2022_09_01_calm_before_the_storm__root",
+      "title": "U.S. export restrictions would boost product tanker demand",
+      "section_path": [
+        "U.S. export restrictions would boost product tanker demand"
+      ],
+      "section_path_text": "U.S. export restrictions would boost product tanker demand",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Hurricane season in the Gulf of Mexico typically runs every year from June 1 through November 30. According to the National Oceanic and Atmospheric Administration, an average Atlantic season spawns seven hurricanes and peaks in August, September, and October.",
+      "keywords": [
+        "atlantic",
+        "us_gulf",
+        "crude_oil",
+        "products",
+        "u.s.",
+        "domestic",
+        "gulf",
+        "product"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 581,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_09_01_calm_before_the_storm__s02_europe",
+      "doc_id": "poten_tankers_no_date_poten_2022_09_01_calm_before_the_storm",
+      "parent_id": "poten_tankers_no_date_poten_2022_09_01_calm_before_the_storm__root",
+      "title": "Europe",
+      "section_path": [
+        "Europe"
+      ],
+      "section_path_text": "Europe",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "FSU Asia Middle East Africa Latin America Australia North America quarterly earnings since the storage-induced freight boom of 2020. In this environment, what would a reduction in U.S.",
+      "keywords": [
+        "australia",
+        "europe",
+        "crude_oil",
+        "products",
+        "product",
+        "u.s.",
+        "america",
+        "latin"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 326,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

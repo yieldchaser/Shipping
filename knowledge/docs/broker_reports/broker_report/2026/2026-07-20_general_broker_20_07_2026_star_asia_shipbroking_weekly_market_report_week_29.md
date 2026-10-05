@@ -133,7 +133,7 @@ numeric_observations:
   values:
   - 3.53
   - 2840.0
-  - 11900.0
+  - 11.9
   - 4097.0
 - section: Market Report Content
   section_type: null
@@ -238,7 +238,7 @@ numeric_observations:
   source_line: 'YoY: +38.40%'
   unit: pct
   values:
-  - 38400.0
+  - 38.4
 - section: Market Report Content
   section_type: null
   source_line: 'WoW: -11.99%'
@@ -250,7 +250,7 @@ numeric_observations:
   source_line: 'YoY: +32.85%'
   unit: pct
   values:
-  - 32850.0
+  - 32.85
 - section: Market Report Content
   section_type: null
   source_line: 'WoW: +0.18%'
@@ -262,7 +262,7 @@ numeric_observations:
   source_line: 'YoY: +17.61%'
   unit: pct
   values:
-  - 17610.0
+  - 17.61
 - section: Market Report Content
   section_type: null
   source_line: 'WoW: +1.41%'
@@ -274,7 +274,7 @@ numeric_observations:
   source_line: 'YoY: +28.53%'
   unit: pct
   values:
-  - 28530.0
+  - 28.53
 - section: Market Report Content
   section_type: null
   source_line: 'WoW: -1.20%'
@@ -286,7 +286,7 @@ numeric_observations:
   source_line: 'YoY: +34.32%'
   unit: pct
   values:
-  - 34320.0
+  - 34.32
 - section: Market Report Content
   section_type: null
   source_line: CAPESIZE 180,000 $76M $82M $70M $55M (E) $35M
@@ -327,7 +327,7 @@ numeric_observations:
   values:
   - 182060.0
   - 2010.0
-  - 32800.0
+  - 32.8
 - section: Market Report Content
   section_type: null
   source_line: PENDULUM KMAX 82,619 2006 / JAPAN 14.5 UNDISCLOSED
@@ -335,7 +335,7 @@ numeric_observations:
   values:
   - 82619.0
   - 2006.0
-  - 14500.0
+  - 14.5
 - section: Market Report Content
   section_type: null
   source_line: WOOYANG BELOS UMAX 63,590 2016 / JAPAN 31.0 UNDISCLOSED
@@ -343,7 +343,7 @@ numeric_observations:
   values:
   - 63590.0
   - 2016.0
-  - 31000.0
+  - 31.0
 - section: Market Report Content
   section_type: null
   source_line: BLUE AKIHABARA UMAX 61,630 2014 / CHINA 25.5 UNDISCLOSED
@@ -351,7 +351,7 @@ numeric_observations:
   values:
   - 61630.0
   - 2014.0
-  - 25500.0
+  - 25.5
 - section: Market Report Content
   section_type: null
   source_line: EVEREST SMAX 57,480 2012 / S. KOREA 16.5 CHINESE BUYERS
@@ -359,7 +359,7 @@ numeric_observations:
   values:
   - 57480.0
   - 2012.0
-  - 16500.0
+  - 16.5
 - section: Market Report Content
   section_type: null
   source_line: OCEAN HIRYU SMAX 52,982 2003 / JAPAN 7.9 CHINESE BUYERS
@@ -367,7 +367,7 @@ numeric_observations:
   values:
   - 52982.0
   - 2003.0
-  - 7900.0
+  - 7.9
 - section: Market Report Content
   section_type: null
   source_line: THOR INFINITY SMAX 52,383 2002 / PHILIPPINES 7.8 CHINESE BUYERS
@@ -375,7 +375,7 @@ numeric_observations:
   values:
   - 52383.0
   - 2002.0
-  - 7800.0
+  - 7.8
 - section: Market Report Content
   section_type: null
   source_line: snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 4
@@ -450,7 +450,7 @@ numeric_observations:
   unit: pct
   values:
   - 2268.0
-  - 14080.0
+  - 14.08
 - section: Market Report Content
   section_type: null
   source_line: moving average of oil flows through the Strait of Hormuz plummeted
@@ -547,7 +547,7 @@ numeric_observations:
   source_line: 'WoW: +14.08%'
   unit: pct
   values:
-  - 14080.0
+  - 14.08
 - section: Market Report Content
   section_type: null
   source_line: 'YoY: +144.13%'
@@ -559,13 +559,13 @@ numeric_observations:
   source_line: 'WoW: +15.05%'
   unit: pct
   values:
-  - 15050.0
+  - 15.05
 - section: Market Report Content
   section_type: null
   source_line: 'YoY: +94.49%'
   unit: pct
   values:
-  - 94490.0
+  - 94.49
 - section: Market Report Content
   section_type: null
   source_line: snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 6
@@ -636,7 +636,7 @@ numeric_observations:
   values:
   - 157543.0
   - 2016.0
-  - 81000.0
+  - 81.0
 - section: Market Report Content
   section_type: null
   source_line: MINERVA RITA MR 50,922 2005 / S. KOREA 16.0 UNDISCLOSED
@@ -644,7 +644,7 @@ numeric_observations:
   values:
   - 50922.0
   - 2005.0
-  - 16000.0
+  - 16.0
 - section: Market Report Content
   section_type: null
   source_line: MFM MEMPHIS MR 48,020 2011 / JAPAN 26.8 UNDISCLOSED
@@ -652,7 +652,7 @@ numeric_observations:
   values:
   - 48020.0
   - 2011.0
-  - 26800.0
+  - 26.8
 - section: Market Report Content
   section_type: null
   source_line: VLCC $25,215 $41,550 $45,950 $45,075 $121,000
@@ -753,7 +753,7 @@ numeric_observations:
   values:
   - 4253.0
   - 2002.0
-  - 27000.0
+  - 27.0
 - section: Market Report Content
   section_type: null
   source_line: snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 8
@@ -979,7 +979,7 @@ numeric_observations:
     GDP growth rate for the fiscal year,
   unit: pct
   values:
-  - 6400.0
+  - 6.4
 - section: Market Report Content
   section_type: null
   source_line: Alang Anchorage & Beaching Position - July 2026
@@ -1000,9 +1000,9 @@ numeric_observations:
   unit: null
   values:
   - 5685.0
-  - 10070.0
+  - 10.07
   - 2026.0
-  - 17070.0
+  - 17.07
   - 2026.0
 - section: Market Report Content
   section_type: null
@@ -1010,9 +1010,9 @@ numeric_observations:
   unit: null
   values:
   - 4155.0
-  - 10070.0
+  - 10.07
   - 2026.0
-  - 15070.0
+  - 15.07
   - 2026.0
 - section: Market Report Content
   section_type: null
@@ -1020,9 +1020,9 @@ numeric_observations:
   unit: null
   values:
   - 9079.0
-  - 10070.0
+  - 10.07
   - 2026.0
-  - 13070.0
+  - 13.07
   - 2026.0
 - section: Market Report Content
   section_type: null
@@ -1030,9 +1030,9 @@ numeric_observations:
   unit: null
   values:
   - 3922.0
-  - 8070.0
+  - 8.07
   - 2026.0
-  - 11070.0
+  - 11.07
   - 2026.0
 - section: Market Report Content
   section_type: null
@@ -1040,9 +1040,9 @@ numeric_observations:
   unit: null
   values:
   - 9080.0
-  - 6070.0
+  - 6.07
   - 2026.0
-  - 11060.0
+  - 11.06
   - 2026.0
 regions:
 - china

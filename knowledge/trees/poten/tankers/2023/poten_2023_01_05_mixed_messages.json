@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2023_01_05_mixed_messages__root",
+  "doc_id": "poten_tankers_no_date_poten_2023_01_05_mixed_messages",
+  "parent_id": null,
+  "title": "Mixed Messages",
+  "section_path": [
+    "Mixed Messages"
+  ],
+  "section_path_text": "Mixed Messages",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Top Reported Dirty Spot Charterers for 2022*\nFollowing a disappointing 2021, the tanker market started 2022 with sustained low freight levels. However, the Russian invasion of Ukraine in February 2022 changed everything. Western countries unleashed a barrage of sanctions on Russian companies and buying and/or shipping Russian oil became controversial.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "europe",
+    "india",
+    "crude_oil",
+    "top",
+    "fixtures",
+    "reported",
+    "russian",
+    "total"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1098,
+  "source_path": "reports/poten/2023/poten_2023-01-05_mixed-messages.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2023_01_05_mixed_messages__s01_top_reported_dirty_spot_charterers_for_2022",
+      "doc_id": "poten_tankers_no_date_poten_2023_01_05_mixed_messages",
+      "parent_id": "poten_tankers_no_date_poten_2023_01_05_mixed_messages__root",
+      "title": "Top Reported Dirty Spot Charterers for 2022*",
+      "section_path": [
+        "Top Reported Dirty Spot Charterers for 2022*"
+      ],
+      "section_path_text": "Top Reported Dirty Spot Charterers for 2022*",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Following a disappointing 2021, the tanker market started 2022 with sustained low freight levels. However, the Russian invasion of Ukraine in February 2022 changed everything.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "europe",
+        "crude_oil",
+        "fixtures",
+        "russian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 785,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2023_01_05_mixed_messages__s02_chart_top_10_vlcc_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2023_01_05_mixed_messages",
+      "parent_id": "poten_tankers_no_date_poten_2023_01_05_mixed_messages__root",
+      "title": "Chart: Top 10 VLCC Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 VLCC Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 VLCC Spot Charterers",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Unipec remained the king of the VLCC market with 746 reported fixtures, more than the rest of the top 10 combined. ExxonMobil moved up to the #2 spot, relegating Shell to 3 rd .",
+      "keywords": [
+        "vlcc",
+        "top",
+        "combined.",
+        "corp",
+        "dropped",
+        "entered",
+        "equinor",
+        "exxonmobil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 60,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2023_01_05_mixed_messages__s03_chart_top_10_suezmax_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2023_01_05_mixed_messages",
+      "parent_id": "poten_tankers_no_date_poten_2023_01_05_mixed_messages__root",
+      "title": "Chart: Top 10 Suezmax Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 Suezmax Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 Suezmax Spot Charterers",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "There was significant movement in the Suezmax segment. Total jumped to #1 (from 9 last year) and ExxonMobil went from 7 th to 2 nd .",
+      "keywords": [
+        "suezmax",
+        "india",
+        "crude_oil",
+        "being",
+        "charterer",
+        "dropped",
+        "exxonmobil",
+        "ioc."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 57,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2023_01_05_mixed_messages__s04_chart_top_10_aframax_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2023_01_05_mixed_messages",
+      "parent_id": "poten_tankers_no_date_poten_2023_01_05_mixed_messages__root",
+      "title": "Chart: Top 10 Aframax Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 Aframax Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 Aframax Spot Charterers",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The Aframax segment showed a significant drop in reported fixtures in 2022. The #1 charterer (Shell) only registered 145 fixtures, versus 225 for last year's #1 (Vitol).",
+      "keywords": [
+        "aframax",
+        "crude_oil",
+        "fixtures",
+        "not",
+        "reported",
+        "above",
+        "activity",
+        "activity."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 150,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

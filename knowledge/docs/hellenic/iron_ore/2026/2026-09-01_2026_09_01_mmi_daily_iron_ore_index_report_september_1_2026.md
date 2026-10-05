@@ -60,6 +60,14 @@ numeric_observations:
   - 1092026.0
   - 3.0
 - &id003
+  section: Main
+  section_type: null
+  source_line: MMI Daily Iron Ore Index Report September 1 2026
+  unit: null
+  values:
+  - 1.0
+  - 2026.0
+- &id004
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_01092026chinese3_170685572da5.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_01092026chinese3_170685572da5.jpg'
@@ -74,7 +82,7 @@ numeric_observations:
   - 3.0
   - 170685572.0
   - 5.0
-- &id004
+- &id005
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_01092026chinese3_170685572da5.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 1600x743 mode=RGB'
@@ -82,7 +90,7 @@ numeric_observations:
   values:
   - 1600.0
   - 743.0
-- &id005
+- &id006
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_01092026chinese3_170685572da5.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (96, 96)'
@@ -90,7 +98,7 @@ numeric_observations:
   values:
   - 96.0
   - 96.0
-- &id006
+- &id007
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_01092026chinese3_170685572da5.jpg'
   section_type: linked_image_asset
   source_line: '| | 62%FeFines\| | 706 | 2 | 0.2% | 698 | 813 | 663 | 1063 | 96.11
@@ -105,9 +113,9 @@ numeric_observations:
   - 813.0
   - 663.0
   - 1063.0
-  - 96110.0
+  - 96.11
   - 0.25
-- &id007
+- &id008
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_01092026chinese3_170685572da5.jpg'
   section_type: linked_image_asset
   source_line: '| IOPI58 | 58% Fe Fines | 658 | 1 | 0.2% | 637 | 719 | 610 | 963 |
@@ -123,8 +131,8 @@ numeric_observations:
   - 719.0
   - 610.0
   - 963.0
-  - 90360.0
-- &id008
+  - 90.36
+- &id009
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_01092026chinese3_170685572da5.jpg'
   section_type: linked_image_asset
   source_line: '| | 65% Fe Fines | 848 | 3 | 0.4% | 835 | 929 | 794 | 1175 | 116.32
@@ -141,7 +149,7 @@ numeric_observations:
   - 1175.0
   - 116.32
   - 0.46
-- &id009
+- &id010
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_01092026chinese3_170685572da5.jpg'
   section_type: linked_image_asset
   source_line: '| | 62% FeFines\| | 98.35 | 0.05 | -0.05% | 10288 | 107.74 | 89.79
@@ -149,14 +157,14 @@ numeric_observations:
   unit: pct
   values:
   - 62.0
-  - 98350.0
+  - 98.35
   - 0.05
   - -0.05
   - 10288.0
   - 107.74
-  - 89790.0
+  - 89.79
   - 142.65
-- &id010
+- &id011
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_01092026chinese3_170685572da5.jpg'
   section_type: linked_image_asset
   source_line: '| | 65% Fe Fines | 117.60 | -0.15 | 0.13% | 116.85 | 123.16 | 98.23
@@ -169,9 +177,9 @@ numeric_observations:
   - 0.13
   - 116.85
   - 123.16
-  - 98230.0
+  - 98.23
   - 171.65
-- &id011
+- &id012
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_01092026chinese3_170685572da5.jpg'
   section_type: linked_image_asset
   source_line: '| Week Ending | Aug 28th, 2026 | | FOT | Qingdao (inc. | 13% VAT),
@@ -183,14 +191,14 @@ numeric_observations:
   - 2026.0
   - 13.0
   - 13.0
-- &id012
+- &id013
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_01092026chinese3_170685572da5.jpg'
   section_type: linked_image_asset
   source_line: MMi Daily Iron Ore Index Report Sep Ast, 2026
   unit: null
   values:
   - 2026.0
-- &id013
+- &id014
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_01092026chinese3_170685572da5.jpg'
   section_type: linked_image_asset
   source_line: Sep 1st, 2026 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao
@@ -201,7 +209,7 @@ numeric_observations:
   - 2026.0
   - 13.0
   - 13.0
-- &id014
+- &id015
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_01092026chinese3_170685572da5.jpg'
   section_type: linked_image_asset
   source_line: 1OPI62 62% FeFines| 706 2 0.2% 698 813 663 1063 96.11 0.25 0.3% 101.99
@@ -218,7 +226,7 @@ numeric_observations:
   - 813.0
   - 663.0
   - 1063.0
-- &id015
+- &id016
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_01092026chinese3_170685572da5.jpg'
   section_type: linked_image_asset
   source_line: 1OPI58 | S8%FeFines| 658 1 0.2% 637 719 610 963 90.36 0.17 0.2% 91.20
@@ -235,7 +243,7 @@ numeric_observations:
   - 719.0
   - 610.0
   - 963.0
-- &id016
+- &id017
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_01092026chinese3_170685572da5.jpg'
   section_type: linked_image_asset
   source_line: 1OPI6S | 65%FeFines| 848 3 0.4% 835 929 794 1175 116.32 0.46 0.4% 118.07
@@ -252,7 +260,7 @@ numeric_observations:
   - 929.0
   - 794.0
   - 1175.0
-- &id017
+- &id018
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_01092026chinese3_170685572da5.jpg'
   section_type: linked_image_asset
   source_line: Sep 1st, 2026 CFR Qingdao, USD/dry tonne ‘deg ay. Spes pices Chagee
@@ -262,7 +270,7 @@ numeric_observations:
   - 1.0
   - 2026.0
   - 2.0
-- &id018
+- &id019
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_01092026chinese3_170685572da5.jpg'
   section_type: linked_image_asset
   source_line: from a fundamental perspective, supply side, port arias of ron ore
@@ -270,7 +278,7 @@ numeric_observations:
   unit: pct
   values:
   - 26.0
-- &id019
+- &id020
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_01092026chinese3_170685572da5.jpg'
   section_type: linked_image_asset
   source_line: losie2 62% Fe Fines | 98.35 0.05 = 0.05% 9 102.88 107.74 89.79 142.65.
@@ -280,15 +288,15 @@ numeric_observations:
   values:
   - 2.0
   - 62.0
-  - 98350.0
+  - 98.35
   - 0.05
   - 0.05
   - 9.0
   - 102.88
   - 107.74
-  - 89790.0
+  - 89.79
   - 142.65
-- &id020
+- &id021
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_01092026chinese3_170685572da5.jpg'
   section_type: linked_image_asset
   source_line: 10SI65 65% FeFines| 117.60 -0.15 0.13% 116.85 123.16 98.23 171.65 _
@@ -304,9 +312,9 @@ numeric_observations:
   - 0.13
   - 116.85
   - 123.16
-  - 98230.0
+  - 98.23
   - 171.65
-- &id021
+- &id022
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_01092026chinese3_170685572da5.jpg'
   section_type: linked_image_asset
   source_line: Week Ending Aug 28th, 2026 FOT Qingdao (inc. 13% VAT), RMB/wet tonne
@@ -317,7 +325,7 @@ numeric_observations:
   - 2026.0
   - 13.0
   - 13.0
-- &id022
+- &id023
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_01092026chinese3_170685572da5.jpg'
   section_type: linked_image_asset
   source_line: IOPLI62 | 625%Felump | 894 12 1.4% 896 944 820 1210 | 117.68 1.66 1.43%
@@ -334,7 +342,7 @@ numeric_observations:
   - 820.0
   - 1210.0
   - 117.68
-- &id023
+- &id024
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: MMi Daily Iron Ore Index Report Sep 1st, 2026
@@ -342,7 +350,7 @@ numeric_observations:
   values:
   - 1.0
   - 2026.0
-- &id024
+- &id025
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '**Iron Ore Port Stock (FOT Qingdao)** **IOPI61 61% Fe Fines RMB/t**'
@@ -350,14 +358,14 @@ numeric_observations:
   values:
   - 61.0
   - 61.0
-- &id025
+- &id026
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '**706**'
   unit: null
   values:
   - 706.0
-- &id026
+- &id027
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '## 2 0.22%'
@@ -365,7 +373,7 @@ numeric_observations:
   values:
   - 2.0
   - 0.22
-- &id027
+- &id028
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '**Sep 1st, 2026**'
@@ -373,7 +381,7 @@ numeric_observations:
   values:
   - 1.0
   - 2026.0
-- &id028
+- &id029
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '**Iron Ore Seaborne (CFR Qingdao)** **IOSI61 61% Fe Fines USD/dmt**'
@@ -381,14 +389,14 @@ numeric_observations:
   values:
   - 61.0
   - 61.0
-- &id029
+- &id030
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '## 98.35'
   unit: null
   values:
-  - 98350.0
-- &id030
+  - 98.35
+- &id031
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '## -0.05-0.05%'
@@ -396,7 +404,7 @@ numeric_observations:
   values:
   - -0.05
   - -0.05
-- &id031
+- &id032
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '**DCE Iron Ore 62% Fines** **I2701 RMB/t (3pm close)**'
@@ -405,14 +413,14 @@ numeric_observations:
   - 62.0
   - 2701.0
   - 3.0
-- &id032
+- &id033
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '## 726.50'
   unit: null
   values:
   - 726.5
-- &id033
+- &id034
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '## -0.50-0.07%'
@@ -420,7 +428,7 @@ numeric_observations:
   values:
   - -0.5
   - -0.07
-- &id034
+- &id035
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '**Sep 1st, 2026 (3pm close)**'
@@ -429,21 +437,21 @@ numeric_observations:
   - 1.0
   - 2026.0
   - 3.0
-- &id035
+- &id036
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '**C3, Tubarao-Qingdao USD/t**'
   unit: usd_per_unit
   values:
   - 3.0
-- &id036
+- &id037
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '## 37.72'
   unit: null
   values:
-  - 37720.0
-- &id037
+  - 37.72
+- &id038
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '**Aug 31st, 2026**'
@@ -451,21 +459,21 @@ numeric_observations:
   values:
   - 31.0
   - 2026.0
-- &id038
+- &id039
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '**Iron Ore Inventory at Chinese Ports (35) million tonnes**'
   unit: null
   values:
   - 35.0
-- &id039
+- &id040
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '## 145.61'
   unit: null
   values:
   - 145.61
-- &id040
+- &id041
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '## 0.07 0.05%'
@@ -473,7 +481,7 @@ numeric_observations:
   values:
   - 0.07
   - 0.05
-- &id041
+- &id042
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '**Week Ending Aug 28th, 2026**'
@@ -481,7 +489,7 @@ numeric_observations:
   values:
   - 28.0
   - 2026.0
-- &id042
+- &id043
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '**Iron Ore Port Stock (FOT Qingdao)** **IOPI65 65% Fe Fines RMB/t**'
@@ -489,14 +497,14 @@ numeric_observations:
   values:
   - 65.0
   - 65.0
-- &id043
+- &id044
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '**848**'
   unit: null
   values:
   - 848.0
-- &id044
+- &id045
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '## 3.00 0.36%'
@@ -504,7 +512,7 @@ numeric_observations:
   values:
   - 3.0
   - 0.36
-- &id045
+- &id046
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '**Iron Ore Seaborne (CFR Qingdao)** **IOSI65 65% Fe Fines USD/dmt**'
@@ -512,14 +520,14 @@ numeric_observations:
   values:
   - 65.0
   - 65.0
-- &id046
+- &id047
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '## 117.60'
   unit: null
   values:
   - 117.6
-- &id047
+- &id048
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '## -0.15-0.13%'
@@ -527,7 +535,7 @@ numeric_observations:
   values:
   - -0.15
   - -0.13
-- &id048
+- &id049
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '**SGX Iron Ore (CFR Qingdao) 62% Fe Fines** **August 26 USD/dmt**'
@@ -535,14 +543,14 @@ numeric_observations:
   values:
   - 62.0
   - 26.0
-- &id049
+- &id050
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '## 99.35'
   unit: null
   values:
-  - 99350.0
-- &id050
+  - 99.35
+- &id051
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '## -0.20-0.20%'
@@ -550,7 +558,7 @@ numeric_observations:
   values:
   - -0.2
   - -0.2
-- &id051
+- &id052
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '**Sep 1st, 2026 (5.30 pm Print)**'
@@ -558,29 +566,29 @@ numeric_observations:
   values:
   - 1.0
   - 2026.0
-  - 5300.0
-- &id052
+  - 5.3
+- &id053
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '**C5, W. Australia-Qingdao USD/t**'
   unit: usd_per_unit
   values:
   - 5.0
-- &id053
+- &id054
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '## 15.79'
   unit: null
   values:
-  - 15790.0
-- &id054
+  - 15.79
+- &id055
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '## 12.23'
   unit: null
   values:
-  - 12230.0
-- &id055
+  - 12.23
+- &id056
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '## 0.04 0.37%'
@@ -588,7 +596,7 @@ numeric_observations:
   values:
   - 0.04
   - 0.37
-- &id056
+- &id057
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: Page 1/6
@@ -596,7 +604,7 @@ numeric_observations:
   values:
   - 1.0
   - 6.0
-- &id057
+- &id058
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '**Iron Port Stock (FOT Qingdao)** **IOPI58 58% Fe Fines RMB/t**'
@@ -604,14 +612,14 @@ numeric_observations:
   values:
   - 58.0
   - 58.0
-- &id058
+- &id059
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '**658**'
   unit: null
   values:
   - 658.0
-- &id059
+- &id060
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '## 1 0.16%'
@@ -619,21 +627,21 @@ numeric_observations:
   values:
   - 1.0
   - 0.16
-- &id060
+- &id061
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '**Iron Ore Port Stock (FOT Qingdao)** **IOPLI 62.5% Fe Lump RMB/t**'
   unit: pct
   values:
-  - 62500.0
-- &id061
+  - 62.5
+- &id062
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '**894**'
   unit: null
   values:
   - 894.0
-- &id062
+- &id063
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '## 12 1.36%'
@@ -641,21 +649,21 @@ numeric_observations:
   values:
   - 12.0
   - 1.36
-- &id063
+- &id064
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '**SHFE Rebar** **RB2610 RMB/t**'
   unit: null
   values:
   - 2610.0
-- &id064
+- &id065
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '## 3123'
   unit: null
   values:
   - 3123.0
-- &id065
+- &id066
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '## -20-0.64%'
@@ -663,14 +671,14 @@ numeric_observations:
   values:
   - -20.0
   - -0.64
-- &id066
+- &id067
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '## 3112'
   unit: null
   values:
   - 3112.0
-- &id067
+- &id068
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '## 67 2.20%'
@@ -678,21 +686,21 @@ numeric_observations:
   values:
   - 67.0
   - 2.2
-- &id068
+- &id069
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '## 3345'
   unit: null
   values:
   - 3345.0
-- &id069
+- &id070
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '## 1.72%'
   unit: pct
   values:
   - 1.72
-- &id070
+- &id071
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: Sep 1st, 2026
@@ -700,7 +708,7 @@ numeric_observations:
   values:
   - 1.0
   - 2026.0
-- &id071
+- &id072
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '**IRON ORE PORT STOCK INDEX (IOPI)** **Sep 1st, 2026 FOT Qingdao (inc.
@@ -713,7 +721,7 @@ numeric_observations:
   - 2026.0
   - 13.0
   - 13.0
-- &id072
+- &id073
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '|IOPI62|62% Fe Fines|706|2|0.2%|698|813|663|1063|96.11|0.25|0.3%|101.99|106.79|89.33|140.24|'
@@ -728,8 +736,8 @@ numeric_observations:
   - 813.0
   - 663.0
   - 1063.0
-  - 96110.0
-- &id073
+  - 96.11
+- &id074
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '|IOPI58|58% Fe Fines|658|1|0.2%|637|719|610|963|90.36|0.17|0.2%|91.20|94.98|80.25|128.13|'
@@ -744,8 +752,8 @@ numeric_observations:
   - 719.0
   - 610.0
   - 963.0
-  - 90360.0
-- &id074
+  - 90.36
+- &id075
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '|IOPI65|65% Fe Fines|848 IRON ORE SEABORNE INDEX (IOSI)|3|0.4%|835|929|794|1175|116.32|0.46|0.4%
@@ -762,7 +770,7 @@ numeric_observations:
   - 794.0
   - 1175.0
   - 116.32
-- &id075
+- &id076
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '|Sep 1st, 2026||||CFR Qingdao, USD/dry tonne||||||||||||'
@@ -770,7 +778,7 @@ numeric_observations:
   values:
   - 1.0
   - 2026.0
-- &id076
+- &id077
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '|IOSI62|62% Fe Fines|98.35|-0.05|-0.05%|102.88|107.74|89.79|142.65||||||||'
@@ -778,14 +786,14 @@ numeric_observations:
   values:
   - 62.0
   - 62.0
-  - 98350.0
+  - 98.35
   - -0.05
   - -0.05
   - 102.88
   - 107.74
-  - 89790.0
+  - 89.79
   - 142.65
-- &id077
+- &id078
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '|IOSI65|65% Fe Fines|117.60|-0.15 FOT Qingdao (inc. 13% VAT), RMB/wet
@@ -801,9 +809,9 @@ numeric_observations:
   - -0.13
   - 116.85
   - 123.16
-  - 98230.0
+  - 98.23
   - 171.65
-- &id078
+- &id079
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '|IOPLI62||894|12 IRON ORE DOMESTIC CONCENTRATE SPOT PRICE ASSESSMENTS
@@ -820,7 +828,7 @@ numeric_observations:
   - 1210.0
   - 117.68
   - 1.66
-- &id079
+- &id080
   section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '**IOPI62** 62% Fe Fines **0.2% 96.11 0.25 0.3%** 101.99 106.79 89.33
@@ -830,15 +838,14 @@ numeric_observations:
   - 62.0
   - 62.0
   - 0.2
-  - 96110.0
+  - 96.11
   - 0.25
   - 0.3
   - 101.99
   - 106.79
-  - 89330.0
+  - 89.33
   - 140.24
-- &id080
-  section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
+- section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: Iron ore futures consolidated on a strong note today. The most trading
     day. Spot prices at Qingdao Port rose by 1-2 yuan/mt overall, with steel mills
@@ -871,7 +878,7 @@ numeric_observations:
   source_line: 62.5% Fe Lump
   unit: pct
   values:
-  - 62500.0
+  - 62.5
 - section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '|Week Ending Aug 28th, 2026 Province Region Product Hebei Hanxing
@@ -1013,7 +1020,7 @@ numeric_observations:
   source_line: '|70.00|650.00|'
   unit: null
   values:
-  - 70000.0
+  - 70.0
   - 650.0
 - section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
@@ -1070,7 +1077,7 @@ numeric_observations:
   values:
   - 60.0
   - 63.0
-  - 5000.0
+  - 5.0
   - 60.0
   - 63.0
   - 1.5
@@ -1081,7 +1088,7 @@ numeric_observations:
   values:
   - 60.0
   - 63.0
-  - 5000.0
+  - 5.0
   - 60.0
   - 63.0
   - 1.5
@@ -1092,8 +1099,8 @@ numeric_observations:
   values:
   - 63.0
   - 64.0
-  - 57000.0
-  - 5000.0
+  - 57.0
+  - 5.0
   - 63.0
   - 64.0
   - 2.0
@@ -1105,8 +1112,8 @@ numeric_observations:
   - 1.0
   - 64.0
   - 65.0
-  - 57000.0
-  - 5000.0
+  - 57.0
+  - 5.0
   - 64.0
   - 65.0
   - 2.0
@@ -1116,27 +1123,27 @@ numeric_observations:
   unit: pct
   values:
   - 65.0
-  - 65500.0
-  - 57000.0
-  - 5000.0
+  - 65.5
+  - 57.0
+  - 5.0
   - 65.0
-  - 65500.0
+  - 65.5
   - 2.0
 - section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '||Low Grade Fe|5.00|0.00||||'
   unit: null
   values:
-  - 5000.0
+  - 5.0
 - section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '||High Fe Grade Al <2.25%|15.00|0.00|High Fe Grade Al <2.25%|5.75|-0.25|'
   unit: pct
   values:
   - 2.25
-  - 15000.0
+  - 15.0
   - 2.25
-  - 5750.0
+  - 5.75
   - -0.25
 - section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
@@ -1150,9 +1157,9 @@ numeric_observations:
   - 2.25
   - 2.25
   - -4.0
-  - 8000.0
-  - 25000.0
-  - 5000.0
+  - 8.0
+  - 25.0
+  - 5.0
   - 1.0
 - section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
@@ -1160,7 +1167,7 @@ numeric_observations:
   unit: pct
   values:
   - 4.0
-  - 13000.0
+  - 13.0
   - 1.0
   - 4.0
   - 3.5
@@ -1173,9 +1180,9 @@ numeric_observations:
   - 1.0
   - 4.0
   - -6.5
-  - 5000.0
+  - 5.0
   - 4.0
-  - 6500.0
+  - 6.5
   - 1.5
   - -0.25
 - section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
@@ -1183,7 +1190,7 @@ numeric_observations:
   source_line: '||Low Fe Grade|13.00|0.00||||'
   unit: null
   values:
-  - 13000.0
+  - 13.0
 - section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
   section_type: linked_pdf
   source_line: '|0.01%|High Fe Grade 0.09%<P<0.115%|12.00|1.00|High Fe Grade 0.09%<P<0.115%|0.25|0.00|'
@@ -1192,7 +1199,7 @@ numeric_observations:
   - 0.01
   - 0.09
   - 0.115
-  - 12000.0
+  - 12.0
   - 1.0
   - 0.09
   - 0.115
@@ -1207,8 +1214,8 @@ numeric_observations:
   - 0.15
   - 0.09
   - 0.1
-  - 12000.0
-  - 5000.0
+  - 12.0
+  - 5.0
   - 1.0
   - 0.115
   - 0.15
@@ -1277,15 +1284,6 @@ numeric_observations:
   values:
   - -13.0
   - -3.0
-- section: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_mmi-daily-iron-ore-report-for-1th-se_7cfc8438514a.pdf'
-  section_type: linked_pdf
-  source_line: '## Page 3/6 Sep 1st, 2026'
-  unit: null
-  values:
-  - 3.0
-  - 6.0
-  - 1.0
-  - 2026.0
 regions:
 - china
 - brazil
@@ -1313,6 +1311,12 @@ signals:
     - -2.0
     - 26.0
     - 23000.0
+  - metric: index
+    source_line: MMI Daily Iron Ore Index Report September 1 2026
+    unit: null
+    values:
+    - 1.0
+    - 2026.0
   - metric: index
     source_line: 'Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_01092026chinese3_170685572da5.jpg'
     unit: null
@@ -1370,12 +1374,12 @@ signals:
     unit: pct
     values:
     - 62.0
-    - 98350.0
+    - 98.35
     - 0.05
     - -0.05
     - 10288.0
     - 107.74
-    - 89790.0
+    - 89.79
     - 142.65
   - metric: index_65_fines
     source_line: '| | 65% Fe Fines | 117.60 | -0.15 | 0.13% | 116.85 | 123.16 | 98.23
@@ -1388,7 +1392,7 @@ signals:
     - 0.13
     - 116.85
     - 123.16
-    - 98230.0
+    - 98.23
     - 171.65
   - metric: numeric_observation
     source_line: '| Week Ending | Aug 28th, 2026 | | FOT | Qingdao (inc. | 13% VAT),
@@ -1469,7 +1473,7 @@ signals:
     values:
     - 2.0
     - 62.0
-    - 98350.0
+    - 98.35
     - 0.05
     - 0.05
     - 9.0
@@ -1501,12 +1505,6 @@ signals:
     - 1.0
     - 7.0
     - 8438514.0
-  - metric: index
-    source_line: MMi Daily Iron Ore Index Report Sep 1st, 2026
-    unit: null
-    values:
-    - 1.0
-    - 2026.0
   - metric: numeric_observation
     source_line: '**Iron Ore Port Stock (FOT Qingdao)** **IOPI61 61% Fe Fines RMB/t**'
     unit: pct
@@ -1547,7 +1545,7 @@ signals:
     source_line: '**Iron Ore Port Stock (FOT Qingdao)** **IOPLI 62.5% Fe Lump RMB/t**'
     unit: pct
     values:
-    - 62500.0
+    - 62.5
   - metric: index
     source_line: '**IRON ORE PORT STOCK INDEX (IOPI)** **Sep 1st, 2026 FOT Qingdao
       (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc. 13% VAT), USD/dry
@@ -1596,12 +1594,12 @@ signals:
     values:
     - 62.0
     - 62.0
-    - 98350.0
+    - 98.35
     - -0.05
     - -0.05
     - 102.88
     - 107.74
-    - 89790.0
+    - 89.79
   - metric: index_65_fines
     source_line: '|IOSI65|65% Fe Fines|117.60|-0.15 FOT Qingdao (inc. 13% VAT), RMB/wet
       tonne|-0.13%|116.85|123.16 IRON ORE PORT LUMP INDEX (IOPLI)|98.23|171.65||CFR
@@ -1637,7 +1635,7 @@ signals:
     - 62.0
     - 62.0
     - 0.2
-    - 96110.0
+    - 96.11
     - 0.25
     - 0.3
     - 101.99
@@ -1763,7 +1761,7 @@ signals:
     values:
     - 60.0
     - 63.0
-    - 5000.0
+    - 5.0
     - 0.0
     - 60.0
     - 63.0
@@ -1776,8 +1774,8 @@ signals:
     - 1.0
     - 64.0
     - 65.0
-    - 57000.0
-    - 5000.0
+    - 57.0
+    - 5.0
     - 64.0
     - 65.0
     - 2.0
@@ -1800,7 +1798,7 @@ signals:
     source_line: 62.5% Fe Lump Premium over 62% Fines RMB/dmtu
     unit: usd_per_dmt
     values:
-    - 62500.0
+    - 62.5
     - 62.0
   - metric: numeric_observation
     source_line: '**TOTAL IRON ORE INVENTORIES AT CHINA PORTS (Mt)** 180 170 160 150
@@ -1968,7 +1966,7 @@ Iron ore futures consolidated on a strong note today. The most-traded DCE I2701 
 ## Main
 Iron ore futures consolidated on a strong note today. The most-traded DCE I2701 contract closed at 726.5 yuan/mt, up 0.14% fromthe previous trading day. Spot prices at Qingdao Port rose by 1-2 yuan/mt overall, with steel mills mostly purchasing as needed. Traders showed moderate quoting enthusiasm, largely following market trends. Overall spot trading activity was moderate. From a fundamental perspective, supply side, port arrivals of iron ore fell by about 26% WoW recently due to typhoon disruptions, providing some short-term support for ore prices. Demand side, SMM survey results show that the daily average hot metal production in September is expected to edge up by 23,000 mt MoM. However, given that coke prices have been rising and squeezing steel mill profits, some blast furnaces originally scheduled to resume production may extend maintenance. Overall, iron ore demand growth is expected to remain mild, with peakseason demand characteristics not yet evident. As such, iron ore prices are likely to consolidate on a strong note in the short term.
 Linked asset: 01092026chinese3.jpg
-Source: Metals Market Index (MMI)
+MMI Daily Iron Ore Index Report September 1 2026
 
 ## Linked asset: 2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_01092026chinese3_170685572da5.jpg
 Source asset: reports/hellenic/iron_ore/2026/assets/2026-09-01_mmi-daily-iron-ore-index-report-september-1-2026_01092026chinese3_170685572da5.jpg

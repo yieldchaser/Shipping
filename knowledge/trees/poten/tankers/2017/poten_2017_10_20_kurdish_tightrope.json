@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2017_10_20_kurdish_tightrope__root",
+  "doc_id": "poten_tankers_no_date_poten_2017_10_20_kurdish_tightrope",
+  "parent_id": null,
+  "title": "Kurdish Tightrope",
+  "section_path": [
+    "Kurdish Tightrope"
+  ],
+  "section_path_text": "Kurdish Tightrope",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "P OTEN T ANKER O PINION\nOn September 25, 2017, the Kurdish Autonomous Region, governed by the Kurdistan Regional Government (KRG) in Iraq voted in a (non-binding) referendum for independence. The referendum was opposed by Baghdad, by neighboring countries Turkey and Iran, as well as by other countries. The reaction of the Iraqi government as well as the neighboring countries could threaten the crude oil production and exports from the KRG controlled area, which accounts for about 10%-15% of the total Iraqi exports.",
+  "keywords": [
+    "suezmax",
+    "aframax",
+    "meg",
+    "europe",
+    "crude_oil",
+    "gas",
+    "pipeline",
+    "iraqi",
+    "oil",
+    "iraq",
+    "production",
+    "kb/d"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 782,
+  "source_path": "reports/poten/2017/poten_2017-10-20_kurdish-tightrope.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2017_10_20_kurdish_tightrope__s01_p_oten_t_anker_o_pinion",
+      "doc_id": "poten_tankers_no_date_poten_2017_10_20_kurdish_tightrope",
+      "parent_id": "poten_tankers_no_date_poten_2017_10_20_kurdish_tightrope__root",
+      "title": "P OTEN T ANKER O PINION",
+      "section_path": [
+        "P OTEN T ANKER O PINION"
+      ],
+      "section_path_text": "P OTEN T ANKER O PINION",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "On September 25, 2017, the Kurdish Autonomous Region, governed by the Kurdistan Regional Government (KRG) in Iraq voted in a (non-binding) referendum for independence. The referendum was opposed by Baghdad, by neighboring countries Turkey and Iran, as well as by other countries.",
+      "keywords": [
+        "suezmax",
+        "aframax",
+        "meg",
+        "europe",
+        "crude_oil",
+        "pipeline",
+        "iraq",
+        "kb/d"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 532,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2017_10_20_kurdish_tightrope__s02_kirkuk_oil_fields",
+      "doc_id": "poten_tankers_no_date_poten_2017_10_20_kurdish_tightrope",
+      "parent_id": "poten_tankers_no_date_poten_2017_10_20_kurdish_tightrope__root",
+      "title": "Kirkuk Oil Fields",
+      "section_path": [
+        "Kirkuk Oil Fields"
+      ],
+      "section_path_text": "Kirkuk Oil Fields",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The Turkish government opposes the referendum for independence of the Iraqi Kurds as they fear this might also embolden the sizable Kurdish minority in their country. Turkey's position could be further complicated by recent announcements that the Russian company Rosneft committed to substantial investments in oil and gas projects in the Kurdish region in Iraq.",
+      "keywords": [
+        "suezmax",
+        "aframax",
+        "europe",
+        "crude_oil",
+        "gas",
+        "iraqi",
+        "would",
+        "longer"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 233,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

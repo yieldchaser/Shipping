@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2021_09_10_running_out_of_gas__root",
+  "doc_id": "poten_tankers_no_date_poten_2021_09_10_running_out_of_gas",
+  "parent_id": null,
+  "title": "Running Out Of Gas",
+  "section_path": [
+    "Running Out Of Gas"
+  ],
+  "section_path_text": "Running Out Of Gas",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "South Africa at risk of losing its refining industry\nThe refining industry in South Africa is under siege and could undergo major changes in the wake of the Covid-19 pandemic, which hit the country hard. With limited domestic oil resources, the largely outdated refineries have to make tough choices. South Africa's refineries are too old and too small to compete in the global market with large, efficient export refineries.",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "suezmax",
+    "australia",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "south",
+    "africa",
+    "oil",
+    "crude",
+    "refineries"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 898,
+  "source_path": "reports/poten/2021/poten_2021-09-10_running-out-of-gas.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2021_09_10_running_out_of_gas__s01_south_africa_at_risk_of_losing_its_refining_industry",
+      "doc_id": "poten_tankers_no_date_poten_2021_09_10_running_out_of_gas",
+      "parent_id": "poten_tankers_no_date_poten_2021_09_10_running_out_of_gas__root",
+      "title": "South Africa at risk of losing its refining industry",
+      "section_path": [
+        "South Africa at risk of losing its refining industry"
+      ],
+      "section_path_text": "South Africa at risk of losing its refining industry",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The refining industry in South Africa is under siege and could undergo major changes in the wake of the Covid-19 pandemic, which hit the country hard. With limited domestic oil resources, the largely outdated refineries have to make tough choices.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "suezmax",
+        "australia",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "south"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 888,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

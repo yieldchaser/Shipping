@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2018_02_23_taking_stock_of_inventories__root",
+  "doc_id": "poten_tankers_no_date_poten_2018_02_23_taking_stock_of_inventories",
+  "parent_id": null,
+  "title": "Taking Stock of Inventories",
+  "section_path": [
+    "Taking Stock of Inventories"
+  ],
+  "section_path_text": "Taking Stock of Inventories",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Movements in inventories can impact tanker markets\nFew oil publications are followed as closely as the Weekly Petroleum Status Report, published every Wednesday morning by the U.S. It gives a detailed account of weekly U.S. petroleum balances, including domestic oil production, imports, exports and movements in crude oil and petroleum product inventories.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "crude_oil",
+    "products",
+    "oil",
+    "crude",
+    "u.s.",
+    "barrels",
+    "million",
+    "spr",
+    "exports",
+    "petroleum"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 880,
+  "source_path": "reports/poten/2018/poten_2018-02-23_taking-stock-of-inventories.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_02_23_taking_stock_of_inventories__s01_movements_in_inventories_can_impact_tanker_markets",
+      "doc_id": "poten_tankers_no_date_poten_2018_02_23_taking_stock_of_inventories",
+      "parent_id": "poten_tankers_no_date_poten_2018_02_23_taking_stock_of_inventories__root",
+      "title": "Movements in inventories can impact tanker markets",
+      "section_path": [
+        "Movements in inventories can impact tanker markets"
+      ],
+      "section_path_text": "Movements in inventories can impact tanker markets",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Few oil publications are followed as closely as the Weekly Petroleum Status Report, published every Wednesday morning by the U.S. It gives a detailed account of weekly U.S.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "crude_oil",
+        "products",
+        "oil",
+        "crude",
+        "u.s.",
+        "barrels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 870,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

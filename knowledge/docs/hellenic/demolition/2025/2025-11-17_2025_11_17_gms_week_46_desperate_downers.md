@@ -7,6 +7,7 @@ commodities:
 date: '2025-11-17'
 doc_id: hellenic_demolition_2025-11-17_2025_11_17_gms_week_46_desperate_downers
 document_type: demolition_update
+is_error_page: false
 key_entities:
 - China
 keywords:
@@ -88,8 +89,11 @@ numeric_observations:
   - -11.0
   - -17.0
   - 46.0
-  - 17112025.0
   - 1.0
+  - 17112025.0
+  - 61.0
+  - 8.0
+  - 7.0
 - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
   source_line: Novemb er 14th, 2025
@@ -708,9 +712,9 @@ numeric_observations:
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
   values:
-  - 30.21
+  - 30210.0
   - 899.0669
-  - 91.278
+  - 91278.0
   - 300.5253
 - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_ship-recycling-market-insight-week-4_5f14db4232a1.pdf'
   section_type: linked_pdf
@@ -735,7 +739,7 @@ numeric_observations:
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
   values:
-  - 86.216
+  - 86216.0
   - 75.19
   - 82.1
   - 4650.072
@@ -757,15 +761,18 @@ numeric_observations:
   - -11.0
   - -17.0
   - 46.0
-  - 17112025.0
   - 1.0
+  - 17112025.0
+  - 61.0
+  - 8.0
+  - 7.0
 - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_img1_17112025chine_b61bbabeb8e7.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 690x152 mode=RGB'
   unit: null
   values:
   - 690.0
-  - 52.0
+  - 152.0
 - section: 'Linked asset: 2025-11-17_gms-week-46-desperate-downers_img1_17112025chine_b61bbabeb8e7.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'

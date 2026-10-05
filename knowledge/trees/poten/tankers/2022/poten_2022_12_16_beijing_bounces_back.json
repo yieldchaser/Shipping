@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2022_12_16_beijing_bounces_back__root",
+  "doc_id": "poten_tankers_no_date_poten_2022_12_16_beijing_bounces_back",
+  "parent_id": null,
+  "title": "Beijing Bounces Back",
+  "section_path": [
+    "Beijing Bounces Back"
+  ],
+  "section_path_text": "Beijing Bounces Back",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "How important is Chinese oil demand for the tanker market? For two decades, the Chinese economy has been the main driver of global oil demand and the tanker market has mostly thrived in its wake. Even during Covid, the Chinese economy fared better than in most western countries as strict zero-Covid policies kept large outbreaks to a minimum.",
+  "keywords": [
+    "suezmax",
+    "aframax",
+    "china",
+    "atlantic",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "chinese",
+    "oil",
+    "demand",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 901,
+  "source_path": "reports/poten/2022/poten_2022-12-16_beijing-bounces-back.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_12_16_beijing_bounces_back__s01_how_important_is_chinese_oil_demand_for_the_tanker_market",
+      "doc_id": "poten_tankers_no_date_poten_2022_12_16_beijing_bounces_back",
+      "parent_id": "poten_tankers_no_date_poten_2022_12_16_beijing_bounces_back__root",
+      "title": "How important is Chinese oil demand for the tanker market?",
+      "section_path": [
+        "How important is Chinese oil demand for the tanker market?"
+      ],
+      "section_path_text": "How important is Chinese oil demand for the tanker market?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "For two decades, the Chinese economy has been the main driver of global oil demand and the tanker market has mostly thrived in its wake. Even during Covid, the Chinese economy fared better than in most western countries as strict zero-Covid policies kept large outbreaks to a minimum.",
+      "keywords": [
+        "suezmax",
+        "aframax",
+        "china",
+        "atlantic",
+        "europe",
+        "crude_oil",
+        "products",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 890,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

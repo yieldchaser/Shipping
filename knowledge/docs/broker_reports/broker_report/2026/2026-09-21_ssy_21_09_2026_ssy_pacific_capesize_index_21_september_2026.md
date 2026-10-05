@@ -61,8 +61,8 @@ numeric_observations:
   - 150000.0
   - 10.0
   - 10.0
-  - 22550.0
-  - 22700.0
+  - 22.55
+  - 22.7
 - section: Market Report Content
   section_type: null
   source_line: DAMPIER/QINGDAO 170,000/10% 10% 17.85 16.60
@@ -71,8 +71,8 @@ numeric_observations:
   - 170000.0
   - 10.0
   - 10.0
-  - 17850.0
-  - 16600.0
+  - 17.85
+  - 16.6
 - section: Market Report Content
   section_type: null
   source_line: SALDAHNA BAY/QINGDAO 170,000/10% 10% 31.50 31.65
@@ -81,8 +81,8 @@ numeric_observations:
   - 170000.0
   - 10.0
   - 10.0
-  - 31500.0
-  - 31650.0
+  - 31.5
+  - 31.65
 - section: Market Report Content
   section_type: null
   source_line: RICHARDS BAY/FANGCHENG 150,000/10% 10% 31.05 31.20
@@ -91,8 +91,8 @@ numeric_observations:
   - 150000.0
   - 10.0
   - 10.0
-  - 31050.0
-  - 31200.0
+  - 31.05
+  - 31.2
 - section: Market Report Content
   section_type: null
   source_line: CAPE LAMBERT/ROTTERDAM 160,000/10% 10% 21.10 21.00
@@ -101,8 +101,8 @@ numeric_observations:
   - 160000.0
   - 10.0
   - 10.0
-  - 21100.0
-  - 21000.0
+  - 21.1
+  - 21.0
 - section: Market Report Content
   section_type: null
   source_line: QUEENSLAND/JAPAN 150,000/10% 10% 21.90 20.50
@@ -111,8 +111,8 @@ numeric_observations:
   - 150000.0
   - 10.0
   - 10.0
-  - 21900.0
-  - 20500.0
+  - 21.9
+  - 20.5
 - section: Market Report Content
   section_type: null
   source_line: QUEENSLAND/ROTTERDAM 150,000/10% 10% 31.45 31.25
@@ -121,8 +121,8 @@ numeric_observations:
   - 150000.0
   - 10.0
   - 10.0
-  - 31450.0
-  - 31250.0
+  - 31.45
+  - 31.25
 - section: Market Report Content
   section_type: null
   source_line: NSW/ZHOUSHAN 130,000/10% 10% 22.35 20.95
@@ -131,8 +131,8 @@ numeric_observations:
   - 130000.0
   - 10.0
   - 10.0
-  - 22350.0
-  - 20950.0
+  - 22.35
+  - 20.95
 - section: Market Report Content
   section_type: null
   source_line: T/C TRIP FAR EAST/CONT 180,000 DWT 10% 4.01 3.67
@@ -149,8 +149,8 @@ numeric_observations:
   values:
   - 180000.0
   - 10.0
-  - 9690.0
-  - 8500.0
+  - 9.69
+  - 8.5
 - section: Market Report Content
   section_type: null
   source_line: Calculated Index 12,558 12,101
@@ -246,7 +246,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/ssy_21_09_2026_ssy_pacific_capesize_index_21_september_2026.md
+source_path: reports/broker_reports/2026/carriers/ssy_21_09_2026_ssy_pacific_capesize_index_21_september_2026.md
 source_stem: ssy_21_09_2026_ssy_pacific_capesize_index_21_september_2026
 source_url: https://www.hellenicshippingnews.com/ssy-pacific-capesize-index-21-september-2026/
 summary: 'SSY PACIFIC CAPESIZE INDEX 21 SEPTEMBER 2026

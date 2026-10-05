@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2014_10_24_whats_cooking_in_the_palm_oil_trade__root",
+  "doc_id": "poten_tankers_no_date_poten_2014_10_24_whats_cooking_in_the_palm_oil_trade",
+  "parent_id": null,
+  "title": "What's Cooking in the Palm Oil Trade?",
+  "section_path": [
+    "What's Cooking in the Palm Oil Trade?"
+  ],
+  "section_path_text": "What's Cooking in the Palm Oil Trade?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Will the palm oil trade continue to be a source of\nemployment for newbuilding MRs? Since 2000, palm oil exports have increased from 16.6 million metric tons (MT) to an estimated 44.6 million MT in 2014 - an impressive compound annual growth rate of 7.3%. Supply and demand developments in this trade point to continued growth until at least 2020.",
+  "keywords": [
+    "china",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "palm",
+    "oil",
+    "are",
+    "tankers",
+    "trade",
+    "asia",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 592,
+  "source_path": "reports/poten/2014/poten_2014-10-24_whats-cooking-in-the-palm-oil-trade.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_10_24_whats_cooking_in_the_palm_oil_trade__s01_will_the_palm_oil_trade_continue_to_be_a_source_of",
+      "doc_id": "poten_tankers_no_date_poten_2014_10_24_whats_cooking_in_the_palm_oil_trade",
+      "parent_id": "poten_tankers_no_date_poten_2014_10_24_whats_cooking_in_the_palm_oil_trade__root",
+      "title": "Will the palm oil trade continue to be a source of",
+      "section_path": [
+        "Will the palm oil trade continue to be a source of"
+      ],
+      "section_path_text": "Will the palm oil trade continue to be a source of",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Since 2000, palm oil exports have increased from 16.6 million metric tons (MT) to an estimated 44.6 million MT in 2014 - an impressive compound annual growth rate of 7.3%. Supply and demand developments in this trade point to continued growth until at least 2020.",
+      "keywords": [
+        "china",
+        "europe",
+        "india",
+        "crude_oil",
+        "products",
+        "palm",
+        "oil",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 580,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

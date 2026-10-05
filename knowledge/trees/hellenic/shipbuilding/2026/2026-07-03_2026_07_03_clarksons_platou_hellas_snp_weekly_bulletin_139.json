@@ -17,17 +17,17 @@
     "atlantic",
     "japan",
     "usd",
+    "any",
+    "information",
     "dwt",
-    "continue",
-    "levels",
-    "sold",
-    "region",
-    "was"
+    "clarksons",
+    "its",
+    "continue"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 553,
-  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-07-03_clarksons-platou-hellas-snp-weekly-bulletin-139.html",
+  "token_count": 2322,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-07-03_clarksons-platou-hellas-snp-weekly-bulletin-139.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-139",
   "children": [
     {
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 551,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-07-03_2026_07_03_clarksons_platou_hellas_snp_weekly_bulletin_139__s02_linked_asset_2026_07_03_clarksons_platou_hellas_snp_weekly_bulletin_139_weekly_sales_3rd_july_2026_e756e5e24ae9_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-07-03_2026_07_03_clarksons_platou_hellas_snp_weekly_bulletin_139",
+      "parent_id": "hellenic_shipbuilding_2026-07-03_2026_07_03_clarksons_platou_hellas_snp_weekly_bulletin_139__root",
+      "title": "Linked asset: 2026-07-03_clarksons-platou-hellas-snp-weekly-bulletin-139_weekly-sales-3rd-july-2026_e756e5e24ae9.pdf",
+      "section_path": [
+        "Linked asset: 2026-07-03_clarksons-platou-hellas-snp-weekly-bulletin-139_weekly-sales-3rd-july-2026_e756e5e24ae9.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-07-03_clarksons-platou-hellas-snp-weekly-bulletin-139_weekly-sales-3rd-july-2026_e756e5e24ae9.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-07-03_clarksons-platou-hellas-snp-weekly-bulletin-139_weekly-sales-3rd-july-2026_e756e5e24ae9.pdf\n\n### Clarkson Hellas Ltd. # Desk Talk\n\nS&P activity remained steady despite the relatively more cautious approach emerging amid the ongoing geopolitical developments in the Middle East.",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "handysize",
+        "atlantic",
+        "japan",
+        "any",
+        "information",
+        "clarksons"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1720,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

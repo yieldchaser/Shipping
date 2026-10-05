@@ -8,6 +8,7 @@ commodities:
 date: '2026-03-09'
 doc_id: hellenic_demolition_2026-03-09_2026_03_09_gms_week_10_what_did_anyone_expect
 document_type: demolition_update
+is_error_page: false
 key_entities:
 - China
 - Middle East
@@ -62,9 +63,11 @@ numeric_observations:
   - -3.0
   - -9.0
   - 10.0
+  - 1.0
   - 90320226.0
   - 92067.0
-  - 41.0
+  - 1.0
+  - 441.0
 - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
   source_line: 1. ` *I
@@ -674,9 +677,9 @@ numeric_observations:
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
   values:
-  - 30.21
+  - 30210.0
   - 899.0669
-  - 91.278
+  - 91278.0
   - 300.5253
 - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf'
   section_type: linked_pdf
@@ -701,7 +704,7 @@ numeric_observations:
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
   values:
-  - 86.216
+  - 86216.0
   - 75.19
   - 82.1
   - 4650.072
@@ -723,16 +726,18 @@ numeric_observations:
   - -3.0
   - -9.0
   - 10.0
+  - 1.0
   - 90320226.0
   - 92067.0
-  - 41.0
+  - 1.0
+  - 441.0
 - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_img1_090320226chinert_092067f1b441.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 696x152 mode=RGB'
   unit: null
   values:
   - 696.0
-  - 52.0
+  - 152.0
 - section: 'Linked asset: 2026-03-09_gms-week-10-what-did-anyone-expect_img1_090320226chinert_092067f1b441.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'

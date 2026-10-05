@@ -1,0 +1,238 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_04_13_first_signs_of_spring__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_04_13_first_signs_of_spring",
+  "parent_id": null,
+  "title": "First Signs of Spring",
+  "section_path": [
+    "First Signs of Spring"
+  ],
+  "section_path_text": "First Signs of Spring",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "First Signs of Spring\nWhile New Yorkers are eagerly anticipating the arrival of spring, many tanker owners are happy to prolong the arrival of the annual April slump in freight rates. During April, VLCC rates tend to recede from strong winter levels, but rates on average this month have been higher than previous years, thus far. The chart below shows the historical average time charter equivalents for VLCCs AG - US Gulf (280kt).",
+  "keywords": [
+    "vlcc",
+    "brazil",
+    "meg",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "gas",
+    "crude",
+    "demand",
+    "last",
+    "levels",
+    "oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 578,
+  "source_path": "reports/poten/2007/poten_2007-04-13_first-signs-of-spring.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_04_13_first_signs_of_spring__s01_first_signs_of_spring",
+      "doc_id": "poten_tankers_no_date_poten_2007_04_13_first_signs_of_spring",
+      "parent_id": "poten_tankers_no_date_poten_2007_04_13_first_signs_of_spring__root",
+      "title": "First Signs of Spring",
+      "section_path": [
+        "First Signs of Spring"
+      ],
+      "section_path_text": "First Signs of Spring",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "While New Yorkers are eagerly anticipating the arrival of spring, many tanker owners are happy to prolong the arrival of the annual April slump in freight rates. During April, VLCC rates tend to recede from strong winter levels, but rates on average this month have been higher than previous years, thus far.",
+      "keywords": [
+        "vlcc",
+        "brazil",
+        "meg",
+        "us_gulf",
+        "april",
+        "are",
+        "arrival",
+        "average"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 159,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_04_13_first_signs_of_spring__s02_defining_fundamentals",
+      "doc_id": "poten_tankers_no_date_poten_2007_04_13_first_signs_of_spring",
+      "parent_id": "poten_tankers_no_date_poten_2007_04_13_first_signs_of_spring__root",
+      "title": "Defining Fundamentals",
+      "section_path": [
+        "Defining Fundamentals"
+      ],
+      "section_path_text": "Defining Fundamentals",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "United States refinery utilization has continued to creep up over the last several weeks, edging slightly higher than levels seen this time last year. The chart below shows the refinery utilization as a percentage of operable capacity.",
+      "keywords": [
+        "crude_oil",
+        "refinery",
+        "utilization",
+        "continued",
+        "crude",
+        "last",
+        "oil",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 79,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_04_13_first_signs_of_spring__s03_annual_averages",
+      "doc_id": "poten_tankers_no_date_poten_2007_04_13_first_signs_of_spring",
+      "parent_id": "poten_tankers_no_date_poten_2007_04_13_first_signs_of_spring__root",
+      "title": "Annual Averages",
+      "section_path": [
+        "Annual Averages"
+      ],
+      "section_path_text": "Annual Averages",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "2004: 92% 2005: 90% 2006: 89% 2007 YTD: 87%",
+      "keywords": [
+        "ytd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 29,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_04_13_first_signs_of_spring__s04_us_gulf",
+      "doc_id": "poten_tankers_no_date_poten_2007_04_13_first_signs_of_spring",
+      "parent_id": "poten_tankers_no_date_poten_2007_04_13_first_signs_of_spring__root",
+      "title": "US Gulf",
+      "section_path": [
+        "US Gulf"
+      ],
+      "section_path_text": "US Gulf",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "hurricanes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_04_13_first_signs_of_spring__s05_week_6",
+      "doc_id": "poten_tankers_no_date_poten_2007_04_13_first_signs_of_spring",
+      "parent_id": "poten_tankers_no_date_poten_2007_04_13_first_signs_of_spring__root",
+      "title": "Week 6",
+      "section_path": [
+        "Week 6"
+      ],
+      "section_path_text": "Week 6",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "At this point, the EIA statistics have shown that gasoline demand has been growing at a healthy pace despite continued high prices. Recent statistics indicate that demand is 2.5% higher than the same period last year while retail prices are nearly 5% more.",
+      "keywords": [
+        "products",
+        "gas",
+        "demand",
+        "statistics",
+        "are",
+        "continued",
+        "despite",
+        "eia"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 53,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_04_13_first_signs_of_spring__s06_impending_imports",
+      "doc_id": "poten_tankers_no_date_poten_2007_04_13_first_signs_of_spring",
+      "parent_id": "poten_tankers_no_date_poten_2007_04_13_first_signs_of_spring__root",
+      "title": "Impending Imports",
+      "section_path": [
+        "Impending Imports"
+      ],
+      "section_path_text": "Impending Imports",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "The clean market has seen strong rates in recent weeks as there has been steady demand for imported gasoline. Going forward, the increases in refining capacity and utilization will continue to create demand for crude oil to replenish stocks and feed domestic refineries.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "levels",
+        "continue",
+        "crude",
+        "demand",
+        "import"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 114,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_04_13_first_signs_of_spring__s07_annual_averages",
+      "doc_id": "poten_tankers_no_date_poten_2007_04_13_first_signs_of_spring",
+      "parent_id": "poten_tankers_no_date_poten_2007_04_13_first_signs_of_spring__root",
+      "title": "Annual Averages",
+      "section_path": [
+        "Annual Averages"
+      ],
+      "section_path_text": "Annual Averages",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "2004: 10,038 kbbl/day 2005: 10,109 kbbl/day 2006: 10,097 kbbl/day 2007 YTD : 9,822 kbbl/day",
+      "keywords": [
+        "kbbl/day",
+        "ytd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 45,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_04_13_first_signs_of_spring__s08_week_19",
+      "doc_id": "poten_tankers_no_date_poten_2007_04_13_first_signs_of_spring",
+      "parent_id": "poten_tankers_no_date_poten_2007_04_13_first_signs_of_spring__root",
+      "title": "Week 19",
+      "section_path": [
+        "Week 19"
+      ],
+      "section_path_text": "Week 19",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Rates for larger tankers particularly VLCCs, can be expected to weaken in the near term. As the spring season progresses and summer approaches, demand pressures for crude oil will give rise to firmer rates.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "approaches",
+        "begin",
+        "can",
+        "crude",
+        "demand",
+        "expected"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 62,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

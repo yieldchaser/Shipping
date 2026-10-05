@@ -1,0 +1,162 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_08_27_summer_doldrums__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_08_27_summer_doldrums",
+  "parent_id": null,
+  "title": "Summer Doldrums",
+  "section_path": [
+    "Summer Doldrums"
+  ],
+  "section_path_text": "Summer Doldrums",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Summer Doldrums\nRecent weeks have seen earnings on benchmark tanker voyages threaten to break below operating costs amid an oversupply of vessels. The specter of vessel deliveries to come and indications of a slower economic recovery have led some to conclude from this vantage point that tanker markets will struggle for the remainder of 2010. This year's summer struggles certainly reflect the structural challenges facing the market, but it is important to keep in mind the seasonal influences which tend to drag the tanker market down during this time of year.",
+  "keywords": [
+    "vlcc",
+    "meg",
+    "crude_oil",
+    "products",
+    "gas",
+    "demand",
+    "earnings",
+    "summer",
+    "august",
+    "average",
+    "during",
+    "markets"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 506,
+  "source_path": "reports/poten/2010/poten_2010-08-27_summer-doldrums.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_08_27_summer_doldrums__s01_summer_doldrums",
+      "doc_id": "poten_tankers_no_date_poten_2010_08_27_summer_doldrums",
+      "parent_id": "poten_tankers_no_date_poten_2010_08_27_summer_doldrums__root",
+      "title": "Summer Doldrums",
+      "section_path": [
+        "Summer Doldrums"
+      ],
+      "section_path_text": "Summer Doldrums",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Recent weeks have seen earnings on benchmark tanker voyages threaten to break below operating costs amid an oversupply of vessels. The specter of vessel deliveries to come and indications of a slower economic recovery have led some to conclude from this vantage point that tanker markets will struggle for the remainder of 2010.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "crude_oil",
+        "earnings",
+        "below",
+        "during",
+        "august",
+        "average"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 227,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_08_27_summer_doldrums__s02_average_vlcc_spot_market_earnings_ras_tanura_chiba",
+      "doc_id": "poten_tankers_no_date_poten_2010_08_27_summer_doldrums",
+      "parent_id": "poten_tankers_no_date_poten_2010_08_27_summer_doldrums__root",
+      "title": "Average VLCC Spot Market Earnings ‐ Ras Tanura ‐ Chiba",
+      "section_path": [
+        "Average VLCC Spot Market Earnings ‐ Ras Tanura ‐ Chiba"
+      ],
+      "section_path_text": "Average VLCC Spot Market Earnings ‐ Ras Tanura ‐ Chiba",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "ytd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_08_27_summer_doldrums__s03_1q_average",
+      "doc_id": "poten_tankers_no_date_poten_2010_08_27_summer_doldrums",
+      "parent_id": "poten_tankers_no_date_poten_2010_08_27_summer_doldrums__root",
+      "title": "1Q Average",
+      "section_path": [
+        "1Q Average"
+      ],
+      "section_path_text": "1Q Average",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "2Q Average Last Week of August",
+      "keywords": [
+        "august",
+        "average",
+        "last"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_08_27_summer_doldrums__s04_seasonal_sensitivity",
+      "doc_id": "poten_tankers_no_date_poten_2010_08_27_summer_doldrums",
+      "parent_id": "poten_tankers_no_date_poten_2010_08_27_summer_doldrums__root",
+      "title": "Seasonal Sensitivity",
+      "section_path": [
+        "Seasonal Sensitivity"
+      ],
+      "section_path_text": "Seasonal Sensitivity",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "With the presumed peak of gasoline demand during summer driving season mostly behind them, refiners often choose to close for maintenance near the end of the summer, reducing demand for imports of crude oil. After reaching a three‐year high of 91.5 % in July, refinery utilization fell to 87.7% in the week ending August 20 th , as shown in the chart below.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "demand",
+        "summer",
+        "vessel",
+        "after",
+        "august"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 105,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_08_27_summer_doldrums__s05_u_s_refinery_utilization",
+      "doc_id": "poten_tankers_no_date_poten_2010_08_27_summer_doldrums",
+      "parent_id": "poten_tankers_no_date_poten_2010_08_27_summer_doldrums__root",
+      "title": "U.S. Refinery Utilization",
+      "section_path": [
+        "U.S. Refinery Utilization"
+      ],
+      "section_path_text": "U.S. Refinery Utilization",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Despite the understandable focus on demand centers of the developing world, seasonal demand patterns in Western markets are still very important factors in international oil and tanker markets. As such, there is reason to believe market conditions will improve as the year continues, even if demand growth is propelled mostly by countries outside the Organization of Economic Cooperation and Development (OECD).",
+      "keywords": [
+        "crude_oil",
+        "demand",
+        "markets",
+        "reason",
+        "still",
+        "are",
+        "august",
+        "becoming"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 112,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

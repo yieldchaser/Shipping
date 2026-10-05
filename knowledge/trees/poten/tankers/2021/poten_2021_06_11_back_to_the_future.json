@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2021_06_11_back_to_the_future__root",
+  "doc_id": "poten_tankers_no_date_poten_2021_06_11_back_to_the_future",
+  "parent_id": null,
+  "title": "Back to the Future",
+  "section_path": [
+    "Back to the Future"
+  ],
+  "section_path_text": "Back to the Future",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "By the end of 2022, oil demand should exceed 2019 levels\nThis morning, the International Energy Agency (IEA) came out with their June Oil Market Report (OMR). In this report, the IEA expands their forecast horizon by a year and the agency is now providing a forecast through the end of 2022. Energy Information Administration (EIA) already put out numbers for next year.",
+  "keywords": [
+    "brazil",
+    "crude_oil",
+    "products",
+    "gas",
+    "demand",
+    "oil",
+    "mb/d",
+    "growth",
+    "eia",
+    "iea",
+    "non-opec",
+    "opec"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1030,
+  "source_path": "reports/poten/2021/poten_2021-06-11_back-to-the-future.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2021_06_11_back_to_the_future__s01_by_the_end_of_2022_oil_demand_should_exceed_2019_levels",
+      "doc_id": "poten_tankers_no_date_poten_2021_06_11_back_to_the_future",
+      "parent_id": "poten_tankers_no_date_poten_2021_06_11_back_to_the_future__root",
+      "title": "By the end of 2022, oil demand should exceed 2019 levels",
+      "section_path": [
+        "By the end of 2022, oil demand should exceed 2019 levels"
+      ],
+      "section_path_text": "By the end of 2022, oil demand should exceed 2019 levels",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This morning, the International Energy Agency (IEA) came out with their June Oil Market Report (OMR). In this report, the IEA expands their forecast horizon by a year and the agency is now providing a forecast through the end of 2022.",
+      "keywords": [
+        "brazil",
+        "crude_oil",
+        "products",
+        "gas",
+        "demand",
+        "oil",
+        "mb/d",
+        "growth"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1013,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

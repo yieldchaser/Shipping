@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2015_05_08_whatever_floats_your_boat__root",
+  "doc_id": "poten_tankers_no_date_poten_2015_05_08_whatever_floats_your_boat",
+  "parent_id": null,
+  "title": "Whatever Floats Your Boat",
+  "section_path": [
+    "Whatever Floats Your Boat"
+  ],
+  "section_path_text": "Whatever Floats Your Boat",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Floating storage appears to be picking up\nEver since the dramatic decline in oil prices, which started in the second half of 2014, charterers and ship owners alike have been eying the forward oil market. The goal was to determine at what point the contango in the oil market was going to be high enough to make storing crude on tankers commercially viable. This happened at the end of 2014 and in short succession (first) traders and (later) oil companies took some 30 VLCCs on time charter for periods up to 12 months.",
+  "keywords": [
+    "vlcc",
+    "meg",
+    "west_africa",
+    "europe",
+    "singapore",
+    "crude_oil",
+    "floating",
+    "oil",
+    "storage",
+    "vessels",
+    "are",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 631,
+  "source_path": "reports/poten/2015/poten_2015-05-08_whatever-floats-your-boat.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2015_05_08_whatever_floats_your_boat__s01_floating_storage_appears_to_be_picking_up",
+      "doc_id": "poten_tankers_no_date_poten_2015_05_08_whatever_floats_your_boat",
+      "parent_id": "poten_tankers_no_date_poten_2015_05_08_whatever_floats_your_boat__root",
+      "title": "Floating storage appears to be picking up",
+      "section_path": [
+        "Floating storage appears to be picking up"
+      ],
+      "section_path_text": "Floating storage appears to be picking up",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Ever since the dramatic decline in oil prices, which started in the second half of 2014, charterers and ship owners alike have been eying the forward oil market. The goal was to determine at what point the contango in the oil market was going to be high enough to make storing crude on tankers commercially viable.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "west_africa",
+        "europe",
+        "singapore",
+        "crude_oil",
+        "oil",
+        "floating"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 623,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

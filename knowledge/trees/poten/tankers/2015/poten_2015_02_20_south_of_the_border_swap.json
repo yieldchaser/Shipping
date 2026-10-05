@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2015_02_20_south_of_the_border_swap__root",
+  "doc_id": "poten_tankers_no_date_poten_2015_02_20_south_of_the_border_swap",
+  "parent_id": null,
+  "title": "South of the Border Swap",
+  "section_path": [
+    "South of the Border Swap"
+  ],
+  "section_path_text": "South of the Border Swap",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "South of the Border Swap\nThe Potential Impact of a US - Mexican Oil Exchange As geographical neighbors, the United States and Mexico have a long and mutually beneficial energy relationship. For many years, Mexico has been one of the top suppliers of crude oil to the US, which has reciprocated by sending significant volumes of refined products to Mexico. Mexico is also the largest net importer of US natural gas.",
+  "keywords": [
+    "aframax",
+    "brazil",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "gas",
+    "oil",
+    "crude",
+    "mexico",
+    "fuel",
+    "impact",
+    "mexican"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 677,
+  "source_path": "reports/poten/2015/poten_2015-02-20_south-of-the-border-swap.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2015_02_20_south_of_the_border_swap__s01_south_of_the_border_swap",
+      "doc_id": "poten_tankers_no_date_poten_2015_02_20_south_of_the_border_swap",
+      "parent_id": "poten_tankers_no_date_poten_2015_02_20_south_of_the_border_swap__root",
+      "title": "South of the Border Swap",
+      "section_path": [
+        "South of the Border Swap"
+      ],
+      "section_path_text": "South of the Border Swap",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Potential Impact of a US - Mexican Oil Exchange As geographical neighbors, the United States and Mexico have a long and mutually beneficial energy relationship. For many years, Mexico has been one of the top suppliers of crude oil to the US, which has reciprocated by sending significant volumes of refined products to Mexico.",
+      "keywords": [
+        "aframax",
+        "brazil",
+        "us_gulf",
+        "crude_oil",
+        "products",
+        "gas",
+        "oil",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 671,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

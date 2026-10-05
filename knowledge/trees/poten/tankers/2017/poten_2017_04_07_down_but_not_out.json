@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2017_04_07_down_but_not_out__root",
+  "doc_id": "poten_tankers_no_date_poten_2017_04_07_down_but_not_out",
+  "parent_id": null,
+  "title": "Down But Not Out",
+  "section_path": [
+    "Down But Not Out"
+  ],
+  "section_path_text": "Down But Not Out",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Crude oil exports from West Africa are changing\nIn the first three months of 2017, the level and direction of crude exports from the West African oil producers has changed and it is having a significant impact on the tanker markets. Several press articles have reported on these changes and because we have access to the APEX data from Lloyd's List Intelligence, we thought it made sense to check the actual movements and see if and how they fit the narrative. First of all, let's discuss the players in the West African market.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "atlantic",
+    "west_africa",
+    "crude_oil",
+    "west",
+    "african",
+    "crude",
+    "are",
+    "east",
+    "suezmaxes"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 974,
+  "source_path": "reports/poten/2017/poten_2017-04-07_down-but-not-out.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2017_04_07_down_but_not_out__s01_crude_oil_exports_from_west_africa_are_changing",
+      "doc_id": "poten_tankers_no_date_poten_2017_04_07_down_but_not_out",
+      "parent_id": "poten_tankers_no_date_poten_2017_04_07_down_but_not_out__root",
+      "title": "Crude oil exports from West Africa are changing",
+      "section_path": [
+        "Crude oil exports from West Africa are changing"
+      ],
+      "section_path_text": "Crude oil exports from West Africa are changing",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In the first three months of 2017, the level and direction of crude exports from the West African oil producers has changed and it is having a significant impact on the tanker markets. Several press articles have reported on these changes and because we have access to the APEX data from Lloyd's List Intelligence, we thought it made sense to check the actual movements and see if and how they fit the narrative.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "atlantic",
+        "west_africa",
+        "crude_oil",
+        "west",
+        "african"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 964,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

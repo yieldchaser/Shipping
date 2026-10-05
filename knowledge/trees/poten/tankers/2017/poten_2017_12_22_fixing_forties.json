@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2017_12_22_fixing_forties__root",
+  "doc_id": "poten_tankers_no_date_poten_2017_12_22_fixing_forties",
+  "parent_id": null,
+  "title": "Fixing Forties",
+  "section_path": [
+    "Fixing Forties"
+  ],
+  "section_path_text": "Fixing Forties",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Pipeline outage shuffles crude oil trade in the North Sea\nOn Monday 11 December, the Forties Pipeline System (FPS) in the North Sea was closed for repairs. The 235-mile pipeline transports about 450,000 barrels of oil per day (b/d) on average, which is about 40% of UK production. It is one of the oldest pipeline systems in the North Sea.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "gas",
+    "pipeline",
+    "oil",
+    "crude",
+    "hound"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 859,
+  "source_path": "reports/poten/2017/poten_2017-12-22_fixing-forties.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2017_12_22_fixing_forties__s01_pipeline_outage_shuffles_crude_oil_trade_in_the_north_sea",
+      "doc_id": "poten_tankers_no_date_poten_2017_12_22_fixing_forties",
+      "parent_id": "poten_tankers_no_date_poten_2017_12_22_fixing_forties__root",
+      "title": "Pipeline outage shuffles crude oil trade in the North Sea",
+      "section_path": [
+        "Pipeline outage shuffles crude oil trade in the North Sea"
+      ],
+      "section_path_text": "Pipeline outage shuffles crude oil trade in the North Sea",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "On Monday 11 December, the Forties Pipeline System (FPS) in the North Sea was closed for repairs. The 235-mile pipeline transports about 450,000 barrels of oil per day (b/d) on average, which is about 40% of UK production.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 847,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

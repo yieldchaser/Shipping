@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 10171,
+  "token_count": 11233,
   "source_path": "reports/hellenic/iron_ore/2026/2026-05-22_mmi-daily-iron-ore-index-report-may-22-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-may-22-2026",
   "children": [
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-05-22_mmi-daily-iron-ore-index-report-may-22-2026_22052026chienewr_ab2cc7e2567c.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/iron_ore/2026/assets/2026-05-22_mmi-daily-iron-ore-index-report-may-22-2026_22052026chienewr_ab2cc7e2567c.jpg\n\nLinked image asset: 2026-05-22_mmi-daily-iron-ore-index-report-may-22-2026_22052026chienewr_ab2cc7e2567c.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nMMi Daily Iron Ore Index Report May 22nd, 2026\nIRON ORE PORT STOCK INDEX (IOPI)\nMay 22nd, 2026 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc.",
+      "summary": "Source asset: reports/hellenic/iron_ore/2026/assets/2026-05-22_mmi-daily-iron-ore-index-report-may-22-2026_22052026chienewr_ab2cc7e2567c.jpg\n\nLinked image asset: 2026-05-22_mmi-daily-iron-ore-index-report-may-22-2026_22052026chienewr_ab2cc7e2567c.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\n[structured table]\n| MMi | Daily Iron | Ore Index | Report | | | | | | | | | | May | 22nd, 2026 | | |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| | | | | | | IRON ORE | PORT | STOCK INDEX | (IOPI) | | | | | | | |\n| May 22nd, | 2026 | | FOT | Qingdao (inc. | 13% VAT), | RMB/wet | tonne | | | CFR Qingdao | Equivalent | (exc.",
       "keywords": [
         "brazil",
         "iron_ore",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 836,
+      "token_count": 2034,
       "section_type": "linked_image_asset",
       "children": []
     },
@@ -97,7 +97,7 @@
       "section_path_text": "Linked asset: 2026-05-22_mmi-daily-iron-ore-index-report-may-22-2026_mmi-daily-iron-ore-report-for-22th-m_dbd0afd89a14.pdf",
       "level": 1,
       "ordinal": 3,
-      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2026-05-22_mmi-daily-iron-ore-index-report-may-22-2026_mmi-daily-iron-ore-report-for-22th-m_dbd0afd89a14.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report May 22nd, 2026\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI61 61% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n780 926 710\n-1 -0.15% -4.79 -0.52% 1 0.08%\nMay 22nd, 2026 May 22nd, 2026 May 22nd, 2026\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI61 61% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n104.30 122.85 945\n0.30 0.29% 0.60 0.49% -5 -0.53%\nMay 22nd, 2026 May 22nd, 2026 Week Ending May 22nd, 2026\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2609 RMB/t (3pm close) May 26 USD/dmt RB2610 RMB/t\n792.00 106.05 3166\n2.50 0.32% 0.30 0.28% -9 -0.28%\nMay 22nd, 2026 (3pm close) May 22nd, 2026 (5.30 pm Print) May 22nd, 2026 (3pm close)\nFreight Rates Steel Price\nC3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Steel Rebar (China Domesti",
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2026-05-22_mmi-daily-iron-ore-index-report-may-22-2026_mmi-daily-iron-ore-report-for-22th-m_dbd0afd89a14.pdf\n\nMMi Daily Iron Ore Index Report May 22nd, 2026\n\n**Iron Ore Port Stock (FOT Qingdao)** **IOPI61 61% Fe Fines RMB/t**\n\n**780**\n\n## -1-0.15%\n\n**May 22nd, 2026**\n\n**Iron Ore Seaborne (CFR Qingdao)** **IOSI61 61% Fe Fines USD/dmt**\n\n## 104.30\n\n## 0.30 0.29%\n\n**May 22nd, 2026**\n\n**DCE Iron Ore 62% Fines** **I2609 RMB/t (3pm close)**\n\n## 792.00\n\n## 2.50 0.32%\n\n**May 22nd, 2026 (3pm close)**\n\n**C3, Tubarao-Qingdao USD/t**\n\n## 36.37\n\n## -0.12-0.3%\n\n**May 21st, 2026**\n\n**Iron Ore Inventory at Chinese Ports (35) million tonnes**\n\n## 148.09\n\n## -0.67-0.45%\n\n**Week Ending May 22nd, 2026**\n\n# MMi Dashboard\n\n## Iron Ore Price Indices\n\n**Iron Ore Port Stock (FOT Qingdao)** **IOPI65 65% Fe Fines RMB/t**\n\n**926**\n\n## -4.79-0.52%\n\n**May 22nd, 2026**\n\n**Iron Ore Seaborne (CFR Qingdao)** **IOSI65 65% Fe Fines USD/dmt**\n\n## 122.85\n\n## 0.60 0.49%\n\n**May 22nd, 2026**\n\n## Exchange Traded Contracts\n\n**SGX Iron Ore (CFR Qingdao) 62% Fe Fines** **May 26 USD/dmt**\n\n## 106.05\n\n## 0.30 0.28%\n\n**May 22nd, 2026 (5.30 pm Print)**\n\n**C5, W. Australia-Qingdao USD/t",
       "keywords": [
         "china",
         "brazil",
@@ -110,7 +110,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 9009,
+      "token_count": 8873,
       "section_type": "linked_pdf",
       "children": []
     }

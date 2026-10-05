@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2023_08_25_pipeline_politics__root",
+  "doc_id": "poten_tankers_no_date_poten_2023_08_25_pipeline_politics",
+  "parent_id": null,
+  "title": "Pipeline Politics",
+  "section_path": [
+    "Pipeline Politics"
+  ],
+  "section_path_text": "Pipeline Politics",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Dispute between Turkey and Iraq cuts European crude supply\nEarlier this week, officials from Turkey and Iraq tried to reach a breakthrough in talks to restart flows through a pipeline that carries oil from the fields in Northern Iraq to the Turkish port of Ceyhan. This pipeline carried 400-500,000 b/d in recent years, destined mostly for Europe. Turkey halted flows on the pipeline in March of this year after the International Court of Arbitration at the International Chamber of Commerce ordered them to pay a reported net $1.5 Billion in damages to Iraq for unauthorized transportation of oil.",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "brazil",
+    "europe",
+    "crude_oil",
+    "iraq",
+    "oil",
+    "pipeline",
+    "iraqi"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 895,
+  "source_path": "reports/poten/2023/poten_2023-08-25_pipeline-politics.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2023_08_25_pipeline_politics__s01_dispute_between_turkey_and_iraq_cuts_european_crude_supply",
+      "doc_id": "poten_tankers_no_date_poten_2023_08_25_pipeline_politics",
+      "parent_id": "poten_tankers_no_date_poten_2023_08_25_pipeline_politics__root",
+      "title": "Dispute between Turkey and Iraq cuts European crude supply",
+      "section_path": [
+        "Dispute between Turkey and Iraq cuts European crude supply"
+      ],
+      "section_path_text": "Dispute between Turkey and Iraq cuts European crude supply",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Earlier this week, officials from Turkey and Iraq tried to reach a breakthrough in talks to restart flows through a pipeline that carries oil from the fields in Northern Iraq to the Turkish port of Ceyhan. This pipeline carried 400-500,000 b/d in recent years, destined mostly for Europe.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "brazil",
+        "europe",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 884,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -208,14 +208,14 @@ numeric_observations:
     are between USD
   unit: pct
   values:
-  - 6900.0
+  - 6.9
 - section: Market Report Content
   section_type: null
   source_line: 16.5-17 and one fixture was reported at low to mid USD 16s. First half
     September
   unit: usd
   values:
-  - 16500.0
+  - 16.5
   - -17.0
   - 16.0
 - section: Market Report Content
@@ -236,7 +236,7 @@ numeric_observations:
   source_line: $16.3 $1.06
   unit: usd
   values:
-  - 16300.0
+  - 16.3
   - 1.06
 - section: Market Report Content
   section_type: null
@@ -486,7 +486,7 @@ numeric_observations:
   unit: usd
   values:
   - 514.5
-  - 64500.0
+  - 64.5
 - section: Market Report Content
   section_type: null
   source_line: $620 $40
@@ -500,7 +500,7 @@ numeric_observations:
   unit: usd
   values:
   - 337.02
-  - 6510.0
+  - 6.51
 - section: Market Report Content
   section_type: null
   source_line: $540 $100
@@ -528,7 +528,7 @@ numeric_observations:
   unit: usd
   values:
   - 436.58
-  - 18680.0
+  - 18.68
 - section: Market Report Content
   section_type: null
   source_line: $570 $90
@@ -579,29 +579,29 @@ numeric_observations:
   source_line: Capesize $74.0 $59.0
   unit: usd
   values:
-  - 74000.0
-  - 59000.0
+  - 74.0
+  - 59.0
 - section: Market Report Content
   section_type: null
   source_line: Kamsarmax $38.5 $31.0
   unit: usd
   values:
-  - 38500.0
-  - 31000.0
+  - 38.5
+  - 31.0
 - section: Market Report Content
   section_type: null
   source_line: Ultramax $38.0 $30.0
   unit: usd
   values:
-  - 38000.0
-  - 30000.0
+  - 38.0
+  - 30.0
 - section: Market Report Content
   section_type: null
   source_line: Handysize $30.5 $23.0
   unit: usd
   values:
-  - 30500.0
-  - 23000.0
+  - 30.5
+  - 23.0
 - section: Market Report Content
   section_type: null
   source_line: VLCC $140.0 $110.0
@@ -615,15 +615,15 @@ numeric_observations:
   unit: usd
   values:
   - 103.0
-  - 85500.0
+  - 85.5
 - section: Market Report Content
   section_type: null
   source_line: Aframax / LR2 $80.0 $70.0
   unit: usd
   values:
   - 2.0
-  - 80000.0
-  - 70000.0
+  - 80.0
+  - 70.0
 - section: Market Report Content
   section_type: null
   source_line: '157.41'
@@ -647,8 +647,8 @@ numeric_observations:
   source_line: $78.88 -$6.18
   unit: usd
   values:
-  - 78880.0
-  - 6180.0
+  - 78.88
+  - 6.18
 - section: Market Report Content
   section_type: null
   source_line: 380 CST

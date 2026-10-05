@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_11_19_tanker_prospects_2011_2015__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_11_19_tanker_prospects_2011_2015",
+  "parent_id": null,
+  "title": "Tanker Prospects 2011 - 2015",
+  "section_path": [
+    "Tanker Prospects 2011 - 2015"
+  ],
+  "section_path_text": "Tanker Prospects 2011 - 2015",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "A Medium Term Outlook\nTwo years after the collapse of Lehman brothers, it seems as though the high tides of the credit crunch have begun to recede. Although the worst of the storm may have passed, many unknowns lie ahead on the road to recovery. The coming years could experience a weakening U.S.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "meg",
+    "india",
+    "crude_oil",
+    "demand",
+    "crude",
+    "global",
+    "prospects"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 764,
+  "source_path": "reports/poten/2010/poten_2010-11-19_tanker-prospects-2011-2015.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_11_19_tanker_prospects_2011_2015__s01_a_medium_term_outlook",
+      "doc_id": "poten_tankers_no_date_poten_2010_11_19_tanker_prospects_2011_2015",
+      "parent_id": "poten_tankers_no_date_poten_2010_11_19_tanker_prospects_2011_2015__root",
+      "title": "A Medium Term Outlook",
+      "section_path": [
+        "A Medium Term Outlook"
+      ],
+      "section_path_text": "A Medium Term Outlook",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Two years after the collapse of Lehman brothers, it seems as though the high tides of the credit crunch have begun to recede. Although the worst of the storm may have passed, many unknowns lie ahead on the road to recovery.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "years",
+        "could",
+        "global",
+        "its",
+        "major",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 252,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_11_19_tanker_prospects_2011_2015__s02_vlcc_spot_market_earnings",
+      "doc_id": "poten_tankers_no_date_poten_2010_11_19_tanker_prospects_2011_2015",
+      "parent_id": "poten_tankers_no_date_poten_2010_11_19_tanker_prospects_2011_2015__root",
+      "title": "VLCC Spot Market Earnings",
+      "section_path": [
+        "VLCC Spot Market Earnings"
+      ],
+      "section_path_text": "VLCC Spot Market Earnings",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Vessel supply has long since dictated the speed of market recovery. The biggest question mark remaining entering 2011 is whether or not overinvestment in tankers will be met by a strong demand for crude cargoes.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "crude_oil",
+        "crude",
+        "out",
+        "age",
+        "arabian",
+        "biggest"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 133,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_11_19_tanker_prospects_2011_2015__s03_average_age_years",
+      "doc_id": "poten_tankers_no_date_poten_2010_11_19_tanker_prospects_2011_2015",
+      "parent_id": "poten_tankers_no_date_poten_2010_11_19_tanker_prospects_2011_2015__root",
+      "title": "Average Age (Years)",
+      "section_path": [
+        "Average Age (Years)"
+      ],
+      "section_path_text": "Average Age (Years)",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "While orderbook delivery will be a key element of market upswing over the medium term, the near term prospects for the tanker industry remains tied to recovery of international economies. China's infrastructure spending and currency issues are closely tied with recovery in the west.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "india",
+        "crude_oil",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 362,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

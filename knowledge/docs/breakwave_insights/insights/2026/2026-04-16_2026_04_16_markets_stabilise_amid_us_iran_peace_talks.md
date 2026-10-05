@@ -11,6 +11,7 @@ commodities:
 date: '2026-04-16'
 doc_id: breakwave_insights_insights_2026-04-16_2026_04_16_markets_stabilise_amid_us_iran_peace_talks
 document_type: insights_note
+is_error_page: false
 key_entities:
 - China
 - Middle East
@@ -28,10 +29,10 @@ keywords:
 - gas
 - oil
 linked_assets_discovered: 5
-linked_assets_failed: 1
+linked_assets_failed: 0
 linked_assets_ingested: 2
-linked_assets_mirrored: 3
-linked_assets_skipped: 2
+linked_assets_mirrored: 2
+linked_assets_skipped: 3
 market_tone: constructive
 numeric_observation_count: 41
 numeric_observations:
@@ -47,9 +48,9 @@ numeric_observations:
   - 2026.0
   - -4.0
   - -16.0
-  - 4.0
-  - 4.0
-  - 5.0
+  - 3.0
+  - 84.0
+  - 9.0
 - section: Market Commentary
   section_type: null
   source_line: Nevertheless, the impact of the disruptions to oil supplies continues
@@ -85,6 +86,7 @@ numeric_observations:
   - 0.3
   - 6.6
   - 7.5
+  - 100000.0
 - section: Chart of the Day
   section_type: null
   source_line: The US has started releasing oil from its strategic petroleum reserve
@@ -108,9 +110,9 @@ numeric_observations:
   - 2026.0
   - -4.0
   - -16.0
-  - 4.0
-  - 4.0
-  - 5.0
+  - 3.0
+  - 84.0
+  - 9.0
 - section: 'Linked asset: 2026-04-16_markets-stabilise-amid-us-iran-peace-talks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_35530e03b599.png'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2026-04-16_markets-stabilise-amid-us-iran-peace-talks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_35530e03b599.png'
@@ -119,19 +121,20 @@ numeric_observations:
   - 2026.0
   - -4.0
   - -16.0
-  - 4.0
-  - 4.0
-  - 5.0
-  - 35530.0
   - 3.0
-  - 99.0
+  - 84.0
+  - 9.0
+  - 3.0
+  - 9.0
+  - 8.0
+  - 84.0
 - section: 'Linked asset: 2026-04-16_markets-stabilise-amid-us-iran-peace-talks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_35530e03b599.png'
   section_type: linked_image_asset
   source_line: 'Image metadata: PNG 853x620 mode=RGBA'
   unit: null
   values:
   - 853.0
-  - 20.0
+  - 620.0
 - section: 'Linked asset: 2026-04-16_markets-stabilise-amid-us-iran-peace-talks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_35530e03b599.png'
   section_type: linked_image_asset
   source_line: 'dpi: (95.9866, 95.9866)'
@@ -280,18 +283,20 @@ numeric_observations:
   - 2026.0
   - -4.0
   - -16.0
-  - 4.0
-  - 4.0
-  - 5.0
-  - 6355117.0
-  - 6.0
+  - 3.0
+  - 84.0
+  - 9.0
+  - 3.0
+  - 9.0
+  - 8.0
+  - 84.0
 - section: 'Linked asset: 2026-04-16_markets-stabilise-amid-us-iran-peace-talks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6355117d46fe.png'
   section_type: linked_image_asset
   source_line: 'Image metadata: PNG 816x442 mode=RGBA'
   unit: null
   values:
   - 816.0
-  - 42.0
+  - 442.0
 - section: 'Linked asset: 2026-04-16_markets-stabilise-amid-us-iran-peace-talks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6355117d46fe.png'
   section_type: linked_image_asset
   source_line: 'dpi: (95.9866, 95.9866)'
@@ -347,15 +352,16 @@ numeric_observations:
   source_line: W14 W18 W22 W26 W30 W34 W38 W42 W46 W50 W2 W6 W10 W14
   unit: null
   values:
-  - 4.0
-  - 8.0
-  - 2.0
-  - 6.0
-  - 4.0
-  - 8.0
-  - 2.0
-  - 6.0
-  - 4.0
+  - 14.0
+  - 18.0
+  - 22.0
+  - 26.0
+  - 30.0
+  - 34.0
+  - 38.0
+  - 42.0
+  - 46.0
+  - 50.0
 regions:
 - china
 - brazil

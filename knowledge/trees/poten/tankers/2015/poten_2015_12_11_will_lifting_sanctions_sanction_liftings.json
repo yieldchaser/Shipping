@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2015_12_11_will_lifting_sanctions_sanction_liftings__root",
+  "doc_id": "poten_tankers_no_date_poten_2015_12_11_will_lifting_sanctions_sanction_liftings",
+  "parent_id": null,
+  "title": "Will Lifting Sanctions Sanction Liftings",
+  "section_path": [
+    "Will Lifting Sanctions Sanction Liftings"
+  ],
+  "section_path_text": "Will Lifting Sanctions Sanction Liftings",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The impact on the tanker market of lifting Iranian sanctions\nIt doesn't look like the world needs any more crude oil at the moment, but that is exactly what they are going to get sometime in 2016, as the major sanctions against Iran are likely being lifted. Iran is ready to add 300 - 700,000 barrels per day (b/d) to an already oversupplied oil market. In this analysis brief we will try to shed some light on the implications of this additional crude on the tanker market.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "europe",
+    "india",
+    "crude_oil",
+    "iran",
+    "are",
+    "oil",
+    "b/d",
+    "crude",
+    "iranian",
+    "production"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 826,
+  "source_path": "reports/poten/2015/poten_2015-12-11_will-lifting-sanctions-sanction-liftings.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2015_12_11_will_lifting_sanctions_sanction_liftings__s01_the_impact_on_the_tanker_market_of_lifting_iranian_sanctions",
+      "doc_id": "poten_tankers_no_date_poten_2015_12_11_will_lifting_sanctions_sanction_liftings",
+      "parent_id": "poten_tankers_no_date_poten_2015_12_11_will_lifting_sanctions_sanction_liftings__root",
+      "title": "The impact on the tanker market of lifting Iranian sanctions",
+      "section_path": [
+        "The impact on the tanker market of lifting Iranian sanctions"
+      ],
+      "section_path_text": "The impact on the tanker market of lifting Iranian sanctions",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "It doesn't look like the world needs any more crude oil at the moment, but that is exactly what they are going to get sometime in 2016, as the major sanctions against Iran are likely being lifted. Iran is ready to add 300 - 700,000 barrels per day (b/d) to an already oversupplied oil market.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "europe",
+        "india",
+        "crude_oil",
+        "iran",
+        "are",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 815,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

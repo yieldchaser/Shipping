@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 141,
-  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-09-01_breakwave-dry-bulk-shipping-report-9-1-2026.html",
+  "token_count": 1674,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-09-01_breakwave-dry-bulk-shipping-report-9-1-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-9-1-2026",
   "children": [
     {
@@ -69,15 +69,20 @@
       "section_path_text": "Linked asset: 2026-09-01_breakwave-dry-bulk-shipping-report-9-1-2026_breakwavedryseptember12026report_4291e33738c8.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-09-01_breakwave-dry-bulk-shipping-report-9-1-2026_breakwavedryseptember12026report_4291e33738c8.pdf\n\n# Dry Bulk Shipping",
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-09-01_breakwave-dry-bulk-shipping-report-9-1-2026_breakwavedryseptember12026report_4291e33738c8.pdf\n\n# Dry Bulk Shipping\n\n## Bi-Weekly Industry Report\n\n### September 1, 2026\n\n- **Steady Demand and Shrinking Vessel Supply Pushes Spot Higher -** During the second half of August, **robust iron ore transportation demand** in the Pacific, driven by all three mining majors, combined with localized storm disruptions that **tightened vessel lineups** led to elevated freight rates on the critical Australia-to- China route. Concurrently, a constricted Atlantic tonnage list **pushed spot rates** **upward** despite softer regional demand, positioning the market advantageously from a higher absolute baseline as it transitions out of the historically quiet summer August month and into the seasonally strong autumn period.",
       "keywords": [
-        "asset",
-        "corpus/02-hellenic/shipbuilding/pdfs/2026-09-01_breakwave-dry-bulk-shipping-report-9-1-2026_breakwavedryseptember12026report_4291e33738c8.pdf",
-        "source"
+        "capesize",
+        "panamax",
+        "supramax",
+        "container",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 61,
+      "token_count": 1594,
       "section_type": "linked_pdf",
       "children": []
     }

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2024_10_04_tankers_in_turmoil__root",
+  "doc_id": "poten_tankers_no_date_poten_2024_10_04_tankers_in_turmoil",
+  "parent_id": null,
+  "title": "Tankers In Turmoil",
+  "section_path": [
+    "Tankers In Turmoil"
+  ],
+  "section_path_text": "Tankers In Turmoil",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "A conflict is brewing in the Middle East\nThe Middle East has been a source of tension and instability for many decades. The geopolitical landscape of the region is shaped by a myriad of conflicts that are deeply rooted in historical grievances, religious divisions, and national interests. Because of the region's significant position in global crude oil production and exports, developments in the Middle East have always had an outsized impact on the oil and tanker markets.",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "china",
+    "crude_oil",
+    "products",
+    "oil",
+    "middle",
+    "are",
+    "not",
+    "canal",
+    "could",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 957,
+  "source_path": "reports/poten/2024/poten_2024-10-04_tankers-in-turmoil.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2024_10_04_tankers_in_turmoil__s01_a_conflict_is_brewing_in_the_middle_east",
+      "doc_id": "poten_tankers_no_date_poten_2024_10_04_tankers_in_turmoil",
+      "parent_id": "poten_tankers_no_date_poten_2024_10_04_tankers_in_turmoil__root",
+      "title": "A conflict is brewing in the Middle East",
+      "section_path": [
+        "A conflict is brewing in the Middle East"
+      ],
+      "section_path_text": "A conflict is brewing in the Middle East",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Middle East has been a source of tension and instability for many decades. The geopolitical landscape of the region is shaped by a myriad of conflicts that are deeply rooted in historical grievances, religious divisions, and national interests.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "china",
+        "crude_oil",
+        "products",
+        "oil",
+        "are",
+        "middle"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 948,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

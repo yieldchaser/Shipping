@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2014_12_12_panamaxes_cleaning_up_their_act__root",
+  "doc_id": "poten_tankers_no_date_poten_2014_12_12_panamaxes_cleaning_up_their_act",
+  "parent_id": null,
+  "title": "Panamaxes Cleaning Up Their Act",
+  "section_path": [
+    "Panamaxes Cleaning Up Their Act"
+  ],
+  "section_path_text": "Panamaxes Cleaning Up Their Act",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Is there still a future for dirty Panamax tankers? Panamax trades have been changing in the last 10-15 years as more and more of the fleet is coated and capable of trading refined products. Over time, the uncoated Panamax fleet has become a minority.",
+  "keywords": [
+    "panamax",
+    "suezmax",
+    "aframax",
+    "crude_oil",
+    "products",
+    "dirty",
+    "canal",
+    "feet",
+    "panama",
+    "tankers",
+    "are",
+    "caribbean"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 682,
+  "source_path": "reports/poten/2014/poten_2014-12-12_panamaxes-cleaning-up-their-act.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_12_12_panamaxes_cleaning_up_their_act__s01_is_there_still_a_future_for_dirty_panamax_tankers",
+      "doc_id": "poten_tankers_no_date_poten_2014_12_12_panamaxes_cleaning_up_their_act",
+      "parent_id": "poten_tankers_no_date_poten_2014_12_12_panamaxes_cleaning_up_their_act__root",
+      "title": "Is there still a future for dirty Panamax tankers?",
+      "section_path": [
+        "Is there still a future for dirty Panamax tankers?"
+      ],
+      "section_path_text": "Is there still a future for dirty Panamax tankers?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Panamax trades have been changing in the last 10-15 years as more and more of the fleet is coated and capable of trading refined products. Over time, the uncoated Panamax fleet has become a minority.",
+      "keywords": [
+        "panamax",
+        "suezmax",
+        "aframax",
+        "crude_oil",
+        "products",
+        "dirty",
+        "canal",
+        "feet"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 670,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

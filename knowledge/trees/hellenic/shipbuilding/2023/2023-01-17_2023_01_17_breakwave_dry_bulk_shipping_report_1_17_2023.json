@@ -9,7 +9,7 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 1.17.2023",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nHigher lows/higher highs could be on the cards for this year - As dry bulk activity resumes following\nSource: Breakwave Advisors\n\nLinked asset: 2023-01-17_breakwave-dry-bulk-shipping-report-1-17-2023_breakwavejanuary172023report_e8b4c73974a7.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-01-17_breakwave-dry-bulk-shipping-report-1-17-2023_breakwavejanuary172023report_e8b4c73974a7.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nJanuary 17, 2023\nBreakwave Dry Futures Index: 1,079 Baltic Dry Index (spot): 946 Short-term Indicators:\n↑ 30D: 2.0% ↓ 30D: -39.4% Momentum: Neutral\n↑ YTD: 4.3% ↓ YTD: -37.6% Sentiment: Neutral\n↓ YOY: -44.3% ↓ YOY: -46.4% Fundamentals: Positive\nBi-Weekly Report\n• Higher lows/higher highs could be on the cards for this year - As dry bulk activity resumes following the Christmas\nholidays, traders are faced with the anticipated seasonal slowdown and thus falling spot freight rates across all asset\nclasses. The spot market inadvertently affects future expectations, although in the last week or so freight futures\nprices have begun to show some much-needed optimism, pushing the curve into a contango and signaling increased\nenthusiasm about China's import prospec",
+  "summary": "Main\nHigher lows/higher highs could be on the cards for this year - As dry bulk activity resumes following\nSource: Breakwave Advisors\n\nLinked asset: 2023-01-17_breakwave-dry-bulk-shipping-report-1-17-2023_breakwavejanuary172023report_e8b4c73974a7.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2023-01-17_breakwave-dry-bulk-shipping-report-1-17-2023_breakwavejanuary172023report_e8b4c73974a7.pdf\n\n|||BDRY|||||\n|---|---|---|---|---|---|---|\n||↑ ↑ ↓|Dry Bulk Shipping Breakwave Dry Futures Index: 30D: 2.0% YTD: 4.3% YOY: -44.3%|1,079 ↓ ↓ ↓|Baltic Dry Index (spot): 30D: -39.4% YTD: -37.6% YOY: -46.4%|946 Momentum: Sentiment: Fundamentals:|January 17, 2023 Short-term Indicators: Neutral Neutral Positive|\n|• • •||Bi-Weekly Report Dry bulk focus shifts back to fundamentals -|Higher lows/higher highs could be on the cards for this year - similar to the ones that occurred in the western world. Supramax and a weighted average maturity of approximately 50-70 days.|holidays, traders are faced with the anticipated seasonal slowdown and thus falling spot freight rates across all asset classes. The spot market inadvertently affects future expectations, although in the last week or so freight ",
   "keywords": [
     "capesize",
     "panamax",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1424,
-  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-01-17_breakwave-dry-bulk-shipping-report-1-17-2023.html",
+  "token_count": 1480,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-01-17_breakwave-dry-bulk-shipping-report-1-17-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-1-17-2023",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-01-17_breakwave-dry-bulk-shipping-report-1-17-2023_breakwavejanuary172023report_e8b4c73974a7.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-01-17_breakwave-dry-bulk-shipping-report-1-17-2023_breakwavejanuary172023report_e8b4c73974a7.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nJanuary 17, 2023\nBreakwave Dry Futures Index: 1,079 Baltic Dry Index (spot): 946 Short-term Indicators:\n↑ 30D: 2.0% ↓ 30D: -39.4% Momentum: Neutral\n↑ YTD: 4.3% ↓ YTD: -37.6% Sentiment: Neutral\n↓ YOY: -44.3% ↓ YOY: -46.4% Fundamentals: Positive\nBi-Weekly Report\n• Higher lows/higher highs could be on the cards for this year - As dry bulk activity resumes following the Christmas\nholidays, traders are faced with the anticipated seasonal slowdown and thus falling spot freight rates across all asset\nclasses. The spot market inadvertently affects future expectations, although in the last week or so freight futures\nprices have begun to show some much-needed optimism, pushing the curve into a contango and signaling increased\nenthusiasm about China's import prospects once the Northern hemisphere exits winter.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-01-17_breakwave-dry-bulk-shipping-report-1-17-2023_breakwavejanuary172023report_e8b4c73974a7.pdf\n\n|||BDRY|||||\n|---|---|---|---|---|---|---|\n||↑ ↑ ↓|Dry Bulk Shipping Breakwave Dry Futures Index: 30D: 2.0% YTD: 4.3% YOY: -44.3%|1,079 ↓ ↓ ↓|Baltic Dry Index (spot): 30D: -39.4% YTD: -37.6% YOY: -46.4%|946 Momentum: Sentiment: Fundamentals:|January 17, 2023 Short-term Indicators: Neutral Neutral Positive|\n|• • •||Bi-Weekly Report Dry bulk focus shifts back to fundamentals -|Higher lows/higher highs could be on the cards for this year - similar to the ones that occurred in the western world. Supramax and a weighted average maturity of approximately 50-70 days.|holidays, traders are faced with the anticipated seasonal slowdown and thus falling spot freight rates across all asset classes.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1351,
+      "token_count": 1407,
       "section_type": "linked_pdf",
       "children": []
     }

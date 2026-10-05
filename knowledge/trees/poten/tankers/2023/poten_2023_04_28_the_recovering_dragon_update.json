@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2023_04_28_the_recovering_dragon_update__root",
+  "doc_id": "poten_tankers_no_date_poten_2023_04_28_the_recovering_dragon_update",
+  "parent_id": null,
+  "title": "The Recovering Dragon (Update)",
+  "section_path": [
+    "The Recovering Dragon (Update)"
+  ],
+  "section_path_text": "The Recovering Dragon (Update)",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Recovering Dragon\nIn December 2022, China announced that it was reversing its zero COVID policy and lifting most COVID related restrictions. Initially, news articles reported a significant increase in cases, but gradually these stories disappeared and it seems the situation is now similar to Western economies where cases occur regularly but the economic and societal impact is limited. This week we will examine how China's oil demand is recovering in the Post-Covid era.",
+  "keywords": [
+    "china",
+    "india",
+    "crude_oil",
+    "products",
+    "gas",
+    "demand",
+    "kb/d",
+    "oil",
+    "growth",
+    "chinese",
+    "outlook",
+    "but"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 846,
+  "source_path": "reports/poten/2023/poten_2023-04-28_the-recovering-dragon-update.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2023_04_28_the_recovering_dragon_update__s01_the_recovering_dragon",
+      "doc_id": "poten_tankers_no_date_poten_2023_04_28_the_recovering_dragon_update",
+      "parent_id": "poten_tankers_no_date_poten_2023_04_28_the_recovering_dragon_update__root",
+      "title": "The Recovering Dragon",
+      "section_path": [
+        "The Recovering Dragon"
+      ],
+      "section_path_text": "The Recovering Dragon",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In December 2022, China announced that it was reversing its zero COVID policy and lifting most COVID related restrictions. Initially, news articles reported a significant increase in cases, but gradually these stories disappeared and it seems the situation is now similar to Western economies where cases occur regularly but the economic and societal impact is limited.",
+      "keywords": [
+        "china",
+        "india",
+        "crude_oil",
+        "products",
+        "gas",
+        "demand",
+        "kb/d",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 563,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2023_04_28_the_recovering_dragon_update__s02_monthly_new_electric_car_registrations_in_china_2020_2023",
+      "doc_id": "poten_tankers_no_date_poten_2023_04_28_the_recovering_dragon_update",
+      "parent_id": "poten_tankers_no_date_poten_2023_04_28_the_recovering_dragon_update__root",
+      "title": "Monthly New Electric Car Registrations in China 2020-2023",
+      "section_path": [
+        "Monthly New Electric Car Registrations in China 2020-2023"
+      ],
+      "section_path_text": "Monthly New Electric Car Registrations in China 2020-2023",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "the working age population of China has reportedly declined by 41 million people. This trend will affect the country's economic growth rate and future oil demand.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "oil",
+        "electric",
+        "future",
+        "sales",
+        "another",
+        "arabia"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 263,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

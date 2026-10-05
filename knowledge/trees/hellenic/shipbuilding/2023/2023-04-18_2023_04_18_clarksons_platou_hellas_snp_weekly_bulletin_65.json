@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNew building in tankers this week, Hyundai Samho announced contracts for two firm 158k dwt Suezmaxes with the vessels set to deliver\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-04-18_clarksons-platou-hellas-snp-weekly-bulletin-65_report-14-04-2023_481f930859fc.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-04-18_clarksons-platou-hellas-snp-weekly-bulletin-65_report-14-04-2023_481f930859fc.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 14 April 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S50ME-B9.3 SS 03/27\nGLOBAL ROYAL 61,211 2022 DACKS RGN USD 34.25 M GREEKS\n4 x 30 T, BWTS Fitted DD 03/25\n2012 COSCO MAN B. 6S50MC-C8.2 SS 09/27\nASIAN TRIUMPH 56,532 MID USD 15 M U/D\nZHOUSHAN 4 x 30 T, BWTS Fitted DD 09/25\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\nMAN B.",
+  "summary": "Main\nNew building in tankers this week, Hyundai Samho announced contracts for two firm 158k dwt Suezmaxes with the vessels set to deliver\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-04-18_clarksons-platou-hellas-snp-weekly-bulletin-65_report-14-04-2023_481f930859fc.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2023-04-18_clarksons-platou-hellas-snp-weekly-bulletin-65_report-14-04-2023_481f930859fc.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin14 April 2023\n\n# Bulk Carriers\n\n### Vessel DWT Built Details SS/DD Price Buyer\n\n**GLOBAL ROYAL** 61,211 2022 DACKS MAN B. 6S50ME-B9.3 SS 03/27 RGN USD 34.25 M GREEKS 4 x 30 T, BWTS Fitted DD 03/25\n\n**ASIAN TRIUMPH** 56,532 2012 COSCO MAN B. 6S50MC-C8.2 SS 09/27 MID USD 15 M U/D ZHOUSHAN 4 x 30 T, BWTS Fitted DD 09/25\n\n# Tankers - Chemicals - LPG/LNGs\n\n### Vessel DWT Built Details SS/DD Price Buyer\n\n**DI MATTEO** 46,646 2009 NAIKAI ZOSEN MAN B.",
   "keywords": [
     "suezmax",
     "lng",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1895,
-  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-04-18_clarksons-platou-hellas-snp-weekly-bulletin-65.html",
+  "token_count": 1956,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-04-18_clarksons-platou-hellas-snp-weekly-bulletin-65.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-65",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-04-18_clarksons-platou-hellas-snp-weekly-bulletin-65_report-14-04-2023_481f930859fc.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-04-18_clarksons-platou-hellas-snp-weekly-bulletin-65_report-14-04-2023_481f930859fc.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 14 April 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S50ME-B9.3 SS 03/27\nGLOBAL ROYAL 61,211 2022 DACKS RGN USD 34.25 M GREEKS\n4 x 30 T, BWTS Fitted DD 03/25\n2012 COSCO MAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-04-18_clarksons-platou-hellas-snp-weekly-bulletin-65_report-14-04-2023_481f930859fc.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin14 April 2023\n\n# Bulk Carriers\n\n### Vessel DWT Built Details SS/DD Price Buyer\n\n**GLOBAL ROYAL** 61,211 2022 DACKS MAN B. 6S50ME-B9.3 SS 03/27 RGN USD 34.25 M GREEKS 4 x 30 T, BWTS Fitted DD 03/25\n\n**ASIAN TRIUMPH** 56,532 2012 COSCO MAN B.",
       "keywords": [
         "suezmax",
         "lng",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1807,
+      "token_count": 1868,
       "section_type": "linked_pdf",
       "children": []
     }

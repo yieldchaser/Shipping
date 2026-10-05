@@ -9,11 +9,12 @@
   "section_path_text": "MMi Daily Iron Ore Index Report May 10 2022",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Chinese iron ore and steelmaking prices 10/05/2022\nDCE iron ore futures market falling trends by 4.12%, the main contract closed 779, the quotation in the morning was decreased by 20yuan/mt over yesterday. part of the business quotation shipping mentality turn weak，Some steel mills tended to be wait-and-see, and purchasing enthusiasm is not high. total transactions is poor PBF at Shandong port dealt 890-895 yuan/mt; decreased 20-25 yuan/mt over yesterday.",
+  "summary": "Main\nDCE iron ore futures market falling trends by 4.12%, the main contract closed 779, the quotation in the morning was decreased by 20yuan/mt over yesterday. part of the business quotation shipping mentality turn weak，Some steel mills tended to be wait-and-see, and purchasing enthusiasm is not high. total transactions is poor PBF at Shandong port dealt 890-895 yuan/mt; decreased 20-25 yuan/mt over yesterday.",
   "keywords": [
     "china",
     "brazil",
     "australia",
+    "meg",
     "iron_ore",
     "bauxite",
     "crude_oil",
@@ -21,12 +22,11 @@
     "cid",
     "fines",
     "may",
-    "high",
     "change"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 37046,
+  "token_count": 37781,
   "source_path": "reports/hellenic/iron_ore/2022/2022-05-10_mmi-daily-iron-ore-index-report-may-10-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-may-10-2022",
   "children": [
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-05-10_mmi-daily-iron-ore-index-report-may-10-2022_mmi-daily-iron-ore-report-for-10th-m_7f51ae2851f5.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2022-05-10_mmi-daily-iron-ore-index-report-may-10-2022_mmi-daily-iron-ore-report-for-10th-m_7f51ae2851f5.pdf\n\n[Page 1]\n(cid:68)(cid:68)(cid:349)(cid:3)(cid:24)(cid:258)(cid:349)(cid:367)(cid:455)(cid:3)(cid:47)(cid:396)(cid:381)(cid:374)(cid:3)(cid:75)(cid:396)(cid:286)(cid:3)(cid:47)(cid:374)(cid:282)(cid:286)(cid:454)(cid:3)(cid:90)(cid:286)(cid:393)(cid:381)(cid:396)(cid:410)(cid:3)(cid:3) (cid:3)(cid:3) May 10th, 2022\n(cid:68)(cid:68)(cid:349)(cid:3)(cid:24)(cid:258)(cid:400)(cid:346)(cid:271)(cid:381)(cid:258)(cid:396)(cid:282)\n(cid:47)(cid:396)(cid:381)(cid:374)(cid:3)(cid:75)(cid:396)(cid:286)(cid:3)(cid:87)(cid:396)(cid:349)(cid:272)(cid:286)(cid:3)(cid:47)(cid:374)(cid:282)(cid:349)(cid:272)(cid:286)(cid:400)\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n938 1102 807\n-31 -3.20% -34.00 -2.99% -58 -6.71%\nMay 10th, 2022 May 10th, 2022 May 10th, 2022\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOP",
+      "summary": "Source asset: corpus/02-hellenic/iron_ore/pdfs/2022-05-10_mmi-daily-iron-ore-index-report-may-10-2022_mmi-daily-iron-ore-report-for-10th-m_7f51ae2851f5.pdf\n\n[Page 1]\n(cid:68)(cid:68)(cid:349)(cid:3)(cid:24)(cid:258)(cid:349)(cid:367)(cid:455)(cid:3)(cid:47)(cid:396)(cid:381)(cid:374)(cid:3)(cid:75)(cid:396)(cid:286)(cid:3)(cid:47)(cid:374)(cid:282)(cid:286)(cid:454)(cid:3)(cid:90)(cid:286)(cid:393)(cid:381)(cid:396)(cid:410)(cid:3)(cid:3) (cid:3)(cid:3) May 10th, 2022\n(cid:68)(cid:68)(cid:349)(cid:3)(cid:24)(cid:258)(cid:400)(cid:346)(cid:271)(cid:381)(cid:258)(cid:396)(cid:282)\n(cid:47)(cid:396)(cid:381)(cid:374)(cid:3)(cid:75)(cid:396)(cid:286)(cid:3)(cid:87)(cid:396)(cid:349)(cid:272)(cid:286)(cid:3)(cid:47)(cid:374)(cid:282)(cid:349)(cid:272)(cid:286)(cid:400)\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n938 1102 807\n-31 -3.20% -34.00 -2.99% -58 -6.71%\nMay 10th, 2022 May 10th, 2022 May 10th, 2022\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt I",
       "keywords": [
         "china",
         "brazil",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 35579,
+      "token_count": 35581,
       "section_type": "linked_pdf",
       "children": []
     },
@@ -97,20 +97,20 @@
       "section_path_text": "Linked asset: 2022-05-10_mmi-daily-iron-ore-index-report-may-10-2022_img1_1005chineserfg56_93107dde2b86.jpg",
       "level": 1,
       "ordinal": 3,
-      "summary": "Source asset: reports/hellenic/iron_ore/2022/assets/2022-05-10_mmi-daily-iron-ore-index-report-may-10-2022_img1_1005chineserfg56_93107dde2b86.jpg\n\nLinked image asset: 2022-05-10_mmi-daily-iron-ore-index-report-may-10-2022_img1_1005chineserfg56_93107dde2b86.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nMMi Daily Iron Ore Index Report May 10th, 2022\nIRON ORE PORT STOCK INDEX (IOP!)\nMay 10th, 2022 | FOT Qingdao (inc. 13% VAT), RMB/wet tonne | CFR Qingdao Equivalent (exc.",
+      "summary": "Source asset: corpus/02-hellenic/iron_ore/2022/assets/2022-05-10_mmi-daily-iron-ore-index-report-may-10-2022_img1_1005chineserfg56_93107dde2b86.jpg\n\nLinked image asset: 2022-05-10_mmi-daily-iron-ore-index-report-may-10-2022_img1_1005chineserfg56_93107dde2b86.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\n[structured table]\n| May 10th, | 2022 | | FOT | Qingdao (inc. | 13% VAT), | RMB/wet | tonne | | | CFR Qingdao | Equivalent | (exc.",
       "keywords": [
         "china",
         "brazil",
         "meg",
         "iron_ore",
         "change",
-        "fefines",
         "high",
-        "low"
+        "low",
+        "mtd"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 901,
+      "token_count": 1634,
       "section_type": "linked_image_asset",
       "children": []
     }

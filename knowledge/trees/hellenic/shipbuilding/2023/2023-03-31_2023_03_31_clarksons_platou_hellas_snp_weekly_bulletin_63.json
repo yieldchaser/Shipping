@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNew building in tankers this week, Hyundai Vinashin announced contracting one firm 115k LR2 product tanker with an unnamed owner\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-03-31_clarksons-platou-hellas-snp-weekly-bulletin-63_report-31-03-2023_0143f59ee068.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-03-31_clarksons-platou-hellas-snp-weekly-bulletin-63_report-31-03-2023_0143f59ee068.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 31 March 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nSS 02/26\nMP THE HARRISON 208,283\n2021 JIANGSU MAN B. 6G70ME-C9.5 DD 02/24 USD 126 M\nGREEKS\nYANGZI Scrubber & BWTS Fitted SS 03/26 En Bloc\nMP THE VINATIERI 208,216\nDD 03/24\nMAN B. 6S70MC6.2 SS 08/25\nROSEBANK 177,029 2010 NEW TIMES USD 23 M MIDDLE EASTERNS\nBWTS Fitted DD 09/23\nMAN B.",
+  "summary": "Main\nNew building in tankers this week, Hyundai Vinashin announced contracting one firm 115k LR2 product tanker with an unnamed owner\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-03-31_clarksons-platou-hellas-snp-weekly-bulletin-63_report-31-03-2023_0143f59ee068.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2023-03-31_clarksons-platou-hellas-snp-weekly-bulletin-63_report-31-03-2023_0143f59ee068.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin31 March 2023\n\n# Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n|MP THE HARRISON|208,283|2021 JIANGSU YANGZI|MAN B. 6G70ME-C9.5 Scrubber & BWTS Fitted|SS 02/26 DD 02/24 MP THE VINATIERI|USD 126 M En Bloc 208,216|GREEKS SS 03/26 DD 03/24|\n|ROSEBANK|177,029|2010 NEW TIMES|MAN B. 6S70MC6.2 BWTS Fitted|SS 08/25 DD 09/ 23|USD 23 M|MIDDLE EASTERNS|\n|SUPER ODEGAARD|55,628|2011 MITSUI|MAN B.",
   "keywords": [
     "lng",
     "lpg",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2328,
-  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-03-31_clarksons-platou-hellas-snp-weekly-bulletin-63.html",
+  "token_count": 2425,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-03-31_clarksons-platou-hellas-snp-weekly-bulletin-63.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-63",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-03-31_clarksons-platou-hellas-snp-weekly-bulletin-63_report-31-03-2023_0143f59ee068.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-03-31_clarksons-platou-hellas-snp-weekly-bulletin-63_report-31-03-2023_0143f59ee068.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 31 March 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nSS 02/26\nMP THE HARRISON 208,283\n2021 JIANGSU MAN B. 6G70ME-C9.5 DD 02/24 USD 126 M\nGREEKS\nYANGZI Scrubber & BWTS Fitted SS 03/26 En Bloc\nMP THE VINATIERI 208,216\nDD 03/24\nMAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-03-31_clarksons-platou-hellas-snp-weekly-bulletin-63_report-31-03-2023_0143f59ee068.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin31 March 2023\n\n# Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n|MP THE HARRISON|208,283|2021 JIANGSU YANGZI|MAN B. 6G70ME-C9.5 Scrubber & BWTS Fitted|SS 02/26 DD 02/24 MP THE VINATIERI|USD 126 M En Bloc 208,216|GREEKS SS 03/26 DD 03/24|\n|ROSEBANK|177,029|2010 NEW TIMES|MAN B.",
       "keywords": [
         "lng",
         "lpg",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2243,
+      "token_count": 2340,
       "section_type": "linked_pdf",
       "children": []
     }

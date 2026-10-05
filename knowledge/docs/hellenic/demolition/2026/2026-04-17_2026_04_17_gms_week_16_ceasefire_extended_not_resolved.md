@@ -8,6 +8,7 @@ commodities:
 date: '2026-04-17'
 doc_id: hellenic_demolition_2026-04-17_2026_04_17_gms_week_16_ceasefire_extended_not_resolved
 document_type: demolition_update
+is_error_page: false
 key_entities:
 - China
 - Brazil
@@ -31,7 +32,7 @@ linked_assets_ingested: 2
 linked_assets_mirrored: 2
 linked_assets_skipped: 1
 market_tone: constructive
-numeric_observation_count: 117
+numeric_observation_count: 124
 numeric_observations:
 - section: Main
   section_type: null
@@ -80,6 +81,7 @@ numeric_observations:
   - 16.0
   - 39.0
   - 3100.0
+  - 1.0
 - section: Main
   section_type: null
   source_line: Currencies and steel are not the drivers. The USD/INR is around 93.46,
@@ -127,15 +129,15 @@ numeric_observations:
   - 16.0
   - 174202570.0
   - 2.0
-  - 93.0
-  - 2314.0
+  - 493.0
+  - 72314.0
 - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_174202570_2a493cd72314.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 687x152 mode=RGB'
   unit: null
   values:
   - 687.0
-  - 52.0
+  - 152.0
 - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_174202570_2a493cd72314.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (72.0, 72.0)'
@@ -258,6 +260,13 @@ numeric_observations:
   - 3100.0
 - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
+  source_line: Supramax also gaining. Improving earnings are keeping older bulkers
+    trading, and the expected Q1
+  unit: null
+  values:
+  - 1.0
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+  section_type: linked_pdf
   source_line: • Owners hold. Currencies and steel are not the drivers. The USD/INR
     is around 93.46, Pakistan and Bangladesh
   unit: usd_per_unit
@@ -340,6 +349,13 @@ numeric_observations:
   - 15.0
 - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
+  source_line: The Letter of Credit pipeline that defined Q1 friction continues to
+    clear at an accelerating pace.
+  unit: null
+  values:
+  - 1.0
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+  section_type: linked_pdf
   source_line: Compliance lingers. Post-Eid central bank approvals are gathering further
     momentum entering Week 16, and the
   unit: null
@@ -367,6 +383,13 @@ numeric_observations:
   unit: null
   values:
   - 2523.0
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+  section_type: linked_pdf
+  source_line: of the past ten days has not released the Q1 overhang because owners
+    are no longer treating it as a
+  unit: null
+  values:
+  - 1.0
 - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
@@ -450,6 +473,13 @@ numeric_observations:
   - 200.0
 - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
+  source_line: India's structural differentiator entering Q2 remains its Hong Kong
+    Convention compliance footprint.
+  unit: null
+  values:
+  - 2.0
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+  section_type: linked_pdf
   source_line: More than 110 yards at Alang hold valid Statements of Compliance, a
     capacity that no other sub- Supply lacking.
   unit: null
@@ -525,6 +555,20 @@ numeric_observations:
   unit: null
   values:
   - 15.0
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+  section_type: linked_pdf
+  source_line: speculative risk rather than an immediate market reality. Pakistan
+    enters the second half of Q2's
+  unit: null
+  values:
+  - 2.0
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+  section_type: linked_pdf
+  source_line: pullback becomes the catalyst that finally releases the Q1 backlog
+    will be the defining question of
+  unit: null
+  values:
+  - 1.0
 - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
@@ -625,6 +669,13 @@ numeric_observations:
   values:
   - 460.0
   - 495.0
+- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
+  section_type: linked_pdf
+  source_line: tonnage, where Basel Convention compliance overrides price. Turkey's
+    relevance this Q2 is confined
+  unit: null
+  values:
+  - 2.0
 - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
   source_line: to that niche. Outside it, nothing in Week 16 suggests any meaningful
@@ -856,9 +907,9 @@ numeric_observations:
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
   values:
-  - 30.21
+  - 30210.0
   - 899.0669
-  - 91.278
+  - 91278.0
   - 300.5253
 - section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
   section_type: linked_pdf
@@ -883,7 +934,7 @@ numeric_observations:
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
   values:
-  - 86.216
+  - 86216.0
   - 75.19
   - 82.1
   - 4650.072
@@ -939,42 +990,6 @@ numeric_observations:
   - 7.0
   - 7.0
   - 7.0
-- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
-  section_type: linked_pdf
-  source_line: 3 8 .9 1
-  unit: null
-  values:
-  - 3.0
-  - 8.0
-  - 9.0
-  - 1.0
-- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
-  section_type: linked_pdf
-  source_line: 5 8 4 .3 6
-  unit: null
-  values:
-  - 5.0
-  - 8.0
-  - 4.0
-  - 3.0
-  - 6.0
-- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
-  section_type: linked_pdf
-  source_line: 5 7 1 .1 9
-  unit: null
-  values:
-  - 5.0
-  - 7.0
-  - 1.0
-  - 1.0
-  - 9.0
-- section: 'Linked asset: 2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf'
-  section_type: linked_pdf
-  source_line: Steel Plate Prices Page 8 of 8
-  unit: null
-  values:
-  - 8.0
-  - 8.0
 regions:
 - india
 - china

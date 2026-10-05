@@ -1,0 +1,170 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_11_18_lots_of_cargoes_transatlantic_clean__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_11_18_lots_of_cargoes_transatlantic_clean",
+  "parent_id": null,
+  "title": "Lots of Cargoes Transatlantic Clean",
+  "section_path": [
+    "Lots of Cargoes Transatlantic Clean"
+  ],
+  "section_path_text": "Lots of Cargoes Transatlantic Clean",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Lots of Cargoes\nTransatlantic Clean This week we will be taking a look at clean cargoes in the transatlantic trade in terms of volume and cargo lot size. These transaltlantic clean cargoes are going up as a consequence of U.S. refinery capacity failing to expand commensurate with oil consumption, plus a leveling off of the Caribbean refineries.",
+  "keywords": [
+    "panamax",
+    "handysize",
+    "aframax",
+    "atlantic",
+    "crude_oil",
+    "cargoes",
+    "cargo",
+    "lot",
+    "clean",
+    "tons",
+    "are",
+    "transatlantic"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 743,
+  "source_path": "reports/poten/2005/poten_2005-11-18_lots-of-cargoes-transatlantic-clean.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_11_18_lots_of_cargoes_transatlantic_clean__s01_lots_of_cargoes",
+      "doc_id": "poten_tankers_no_date_poten_2005_11_18_lots_of_cargoes_transatlantic_clean",
+      "parent_id": "poten_tankers_no_date_poten_2005_11_18_lots_of_cargoes_transatlantic_clean__root",
+      "title": "Lots of Cargoes",
+      "section_path": [
+        "Lots of Cargoes"
+      ],
+      "section_path_text": "Lots of Cargoes",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Transatlantic Clean This week we will be taking a look at clean cargoes in the transatlantic trade in terms of volume and cargo lot size. These transaltlantic clean cargoes are going up as a consequence of U.S.",
+      "keywords": [
+        "atlantic",
+        "crude_oil",
+        "cargoes",
+        "are",
+        "clean",
+        "lot",
+        "tons",
+        "transatlantic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 228,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_11_18_lots_of_cargoes_transatlantic_clean__s02_fixture_activity_by_cargo_lot_size",
+      "doc_id": "poten_tankers_no_date_poten_2005_11_18_lots_of_cargoes_transatlantic_clean",
+      "parent_id": "poten_tankers_no_date_poten_2005_11_18_lots_of_cargoes_transatlantic_clean__root",
+      "title": "Fixture Activity by Cargo Lot Size",
+      "section_path": [
+        "Fixture Activity by Cargo Lot Size"
+      ],
+      "section_path_text": "Fixture Activity by Cargo Lot Size",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Larger sized cargoes between 60,000 and 70,000 tons have numbered an average of 35 cargoes per year ranging between 25 and 45 cargoes per year. The exception was in 2000 when 55 cargoes were carried in this cargo range.",
+      "keywords": [
+        "atlantic",
+        "cargoes",
+        "cargo",
+        "between",
+        "all",
+        "lot",
+        "was",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 250,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_11_18_lots_of_cargoes_transatlantic_clean__s03_cargo_lot_size_distribution",
+      "doc_id": "poten_tankers_no_date_poten_2005_11_18_lots_of_cargoes_transatlantic_clean",
+      "parent_id": "poten_tankers_no_date_poten_2005_11_18_lots_of_cargoes_transatlantic_clean__root",
+      "title": "Cargo Lot Size Distribution",
+      "section_path": [
+        "Cargo Lot Size Distribution"
+      ],
+      "section_path_text": "Cargo Lot Size Distribution",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Transatlantic Clean Cargoes Why the marked shift in cargo sizes from 33,000 tons to 37,000 tons on transatlantic voyages? One of the main reasons is the rising deadweight and cubic meter capacity of Handymax tankers between 37,500 and 50,000 dwt.",
+      "keywords": [
+        "handysize",
+        "atlantic",
+        "capacity",
+        "built",
+        "cubic",
+        "deadweight",
+        "tons",
+        "transatlantic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 96,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_11_18_lots_of_cargoes_transatlantic_clean__s04_average_cargo_capacity_cbm",
+      "doc_id": "poten_tankers_no_date_poten_2005_11_18_lots_of_cargoes_transatlantic_clean",
+      "parent_id": "poten_tankers_no_date_poten_2005_11_18_lots_of_cargoes_transatlantic_clean__root",
+      "title": "Average Cargo Capacity CBM",
+      "section_path": [
+        "Average Cargo Capacity CBM"
+      ],
+      "section_path_text": "Average Cargo Capacity CBM",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Average Deadweight 1973 1978 1983 1988 1993 1998 2003 Year Built",
+      "keywords": [
+        "average",
+        "built",
+        "deadweight",
+        "year"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 26,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_11_18_lots_of_cargoes_transatlantic_clean__s05_and_the_outlook",
+      "doc_id": "poten_tankers_no_date_poten_2005_11_18_lots_of_cargoes_transatlantic_clean",
+      "parent_id": "poten_tankers_no_date_poten_2005_11_18_lots_of_cargoes_transatlantic_clean__root",
+      "title": "And the Outlook?",
+      "section_path": [
+        "And the Outlook?"
+      ],
+      "section_path_text": "And the Outlook?",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "With such a commanding share of the market, it is difficult to see how 37,000 ton cargo lot sizes can increase in market share to any significant degree. For cargo lot sizes to continue growing, Panamax and Aframax cargoes would have to become more common.",
+      "keywords": [
+        "panamax",
+        "aframax",
+        "atlantic",
+        "cargoes",
+        "cargo",
+        "continue",
+        "lot",
+        "see"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 114,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

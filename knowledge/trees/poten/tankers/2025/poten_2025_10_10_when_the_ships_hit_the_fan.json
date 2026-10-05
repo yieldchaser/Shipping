@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2025_10_10_when_the_ships_hit_the_fan__root",
+  "doc_id": "poten_tankers_no_date_poten_2025_10_10_when_the_ships_hit_the_fan",
+  "parent_id": null,
+  "title": "When The Ships Hit The Fan",
+  "section_path": [
+    "When The Ships Hit The Fan"
+  ],
+  "section_path_text": "When The Ships Hit The Fan",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "USTR and Chinese retaliation take center stage\nOn Tuesday, October 14, the port fees targeting the Chinese maritime sector will go into effect. The Office of the United States Trade Representative (\"USTR\") announced these fees in a detailed notice on April 17, 2025, but the plan included a 180- day grace period. The grace period allowed vessel owners and operators to adjust their operations and/or reposition their vessels to minimize the impact of these fees.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "brazil",
+    "crude_oil",
+    "chinese",
+    "vessels",
+    "fees",
+    "are",
+    "u.s.",
+    "ustr",
+    "organizations",
+    "port"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 871,
+  "source_path": "reports/poten/2025/poten_2025-10-10_when-the-ships-hit-the-fan.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2025_10_10_when_the_ships_hit_the_fan__s01_ustr_and_chinese_retaliation_take_center_stage",
+      "doc_id": "poten_tankers_no_date_poten_2025_10_10_when_the_ships_hit_the_fan",
+      "parent_id": "poten_tankers_no_date_poten_2025_10_10_when_the_ships_hit_the_fan__root",
+      "title": "USTR and Chinese retaliation take center stage",
+      "section_path": [
+        "USTR and Chinese retaliation take center stage"
+      ],
+      "section_path_text": "USTR and Chinese retaliation take center stage",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "On Tuesday, October 14, the port fees targeting the Chinese maritime sector will go into effect. The Office of the United States Trade Representative (\"USTR\") announced these fees in a detailed notice on April 17, 2025, but the plan included a 180- day grace period.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "brazil",
+        "crude_oil",
+        "chinese",
+        "vessels",
+        "fees",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 862,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

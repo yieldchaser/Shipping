@@ -21,13 +21,13 @@
     "usd",
     "buyers",
     "dwt",
-    "sold",
-    "value"
+    "handy",
+    "sold"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1217,
-  "source_path": "corpus/02-hellenic/vessel_valuations/2023/2023-05-30_weekly-vessel-valuations-report-may-30-2023.html",
+  "token_count": 1634,
+  "source_path": "reports/hellenic/vessel_valuations/2023/2023-05-30_weekly-vessel-valuations-report-may-30-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-may-30-2023",
   "children": [
     {
@@ -69,20 +69,20 @@
       "section_path_text": "Linked asset: 2023-05-30_weekly-vessel-valuations-report-may-30-2023_img1_matrix-30th-may-2023_f89f5de67dd7.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2023/assets/2023-05-30_weekly-vessel-valuations-report-may-30-2023_img1_matrix-30th-may-2023_f89f5de67dd7.jpg\n\nLinked image asset: 2023-05-30_weekly-vessel-valuations-report-may-30-2023_img1_matrix-30th-may-2023_f89f5de67dd7.jpg\n\nImage metadata: JPEG 678x259 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\nO vesselsValue= | $$\n30 May 2023 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge vice Sucz Afra tR1 MR Cape Pmax Supra Handy oon Pmax Handy Fmax\n° 0.3% - -O.B% 10.2% 10.2% -0.2% 1.4% 0.1% 0.5% = -0.1% 10.4% 410.4% 40.5% 0.0%\n320k 160k 110k 75k 50k 180k 82k 60k 38k 7000 4250 1750 1100\n5 \"0.3% - -O.5% - +0.2% 40.2% -0.4% \"0.9% - -O.1% 0.3% -0.2% +0.4% 40.4% 40.6% - -0.3%\n320k 160k 110k 75k 50k 180k 80k 60k 38% 7000 4250 1750 1100\nio 0.3% --0.4% -+0.3% 40.2% -0.4% 0.8% §- -O.1% §--1.2% - -0.1% +0.4% -+0.4% 40.7% -0.5%\n320k 160k 110k 75k 50k 180k 80k 60k 32k 7000 4250 1750 1100\n15 \"0.3% -O.4% -+0.3% +0.2% -0.3% \"1.1% = -0.2% = -3.0% - -0.2% +0.4% +04% +0.8% -0.8%\n310k 160k 110k 75k 50k 180k 80k 55k 30k 7000 4250 1750 1100\n20 0.3% 0.8% 10.4% 410.2% 0.2% 0.0% 0.1% 5.4% 0.2% 10.4% 40.4% 40.3% \"1.0%\n305k 155k 105k 70k ",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2023/assets/2023-05-30_weekly-vessel-valuations-report-may-30-2023_img1_matrix-30th-may-2023_f89f5de67dd7.jpg\n\nLinked image asset: 2023-05-30_weekly-vessel-valuations-report-may-30-2023_img1_matrix-30th-may-2023_f89f5de67dd7.jpg\n\nImage metadata: JPEG 678x259 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\n[structured table]\n| | | $a | a | | |\n|---|---|---|---|---|---|\n| 90 My | 2029 | | W Mini Matrix - | Weekly Change | |\n| | | | Tankers | Butkers containers | |\n| ave | ce | | Pmax | Supra Handy POE pmax Handy | Fax |\n| | 0.9% | 0.0% | 10.25 10.2% 0.2% | 0.1% 104M | 0.0% |\n| | 320k | | | 700042501780\" | 1100 |\n| | 0% | 0.5% | 10.2% 10.2% 0.4% | 0.9% | 0.6% |\n| 5 | | | | | |\n| i | | | | | |\n| | ‘Sk | | 130k | 7000 | |\n| | 0.3% | | 40.3% 40.2% 03% - | SAM | 0.0% |\n| | | sok | ioe | 0002501750100 | |\n| | 0.2% | 00% | 10.4% 10.2% 6.0% | ATH | 1.0% |\n| | | 155k | | 00017501100 | |\n| | 0.5% | 12% | 10.4% N/A 0.1% 0.0% | 104 | |\n| i | | | ier | | |\n| | jog | | ee Be | a | eg |\n\n[raw ocr]\nO vesselsValue= | $$\n30 May 2023 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge vice Sucz Afra tR1 MR Cape Pmax Supra Handy oon Pmax Handy Fma",
       "keywords": [
         "capesize",
         "supramax",
         "handysize",
         "container",
-        "asset",
         "handy",
-        "image",
-        "n/a"
+        "pmax",
+        "n/a",
+        "asset"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 825,
+      "token_count": 1242,
       "section_type": "linked_image_asset",
       "children": []
     }

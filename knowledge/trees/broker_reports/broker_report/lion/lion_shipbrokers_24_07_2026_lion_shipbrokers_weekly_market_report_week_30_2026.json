@@ -1,0 +1,426 @@
+{
+  "node_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026__root",
+  "doc_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026",
+  "parent_id": null,
+  "title": "Lion Shipbrokers Weekly Market Report - Week 30, 2026",
+  "section_path": [
+    "Lion Shipbrokers Weekly Market Report - Week 30, 2026"
+  ],
+  "section_path_text": "Lion Shipbrokers Weekly Market Report - Week 30, 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Lion Shipbrokers Weekly Market Report, Week 30 2026\n**Broker**: Lion Shipbrokers\n**Published Date**: 24/07/2026\n**Source URL**: [https://www.hellenicshippingnews.com/lion-shipbrokers-weekly-market-report-week-30-2026/](https://www.hellenicshippingnews.com/lion-shipbrokers-weekly-market-report-week-30-2026/)\n\nMarket Report Content\nLION SHIPBROKERS\nWEEKLY REPORT\nShould you have any comments or questions about the content of our report or require our services, please contact:\nLION SHIPBROKERS LIMITED\nTel: +30 210 4122965 (2 lines), 210 8992792 (2 lines)\nDry Cargo Chartering : chartering@lionshipbrokers.gr\nContainer Chartering : container@lionshipbrokers.gr\nSale & Purchase/Demolition : snp@lionshipbrokers.gr\nResearch & Valuations : research@lionshipbrokers.gr\nVisit our homepage at www.lionshipbrokers.com for more details\nWEEK 30 - 24 JULY 2026\nQuote of the week:\n\"The shoe that fits one person pinches another.\"\nCarl Gustav Jung (6 July 1875 - 6 June 1961) - Swiss psychiatrist, psychotherapist, and psychologist. MARKET COMMENTARY\nBulkers: The dry bulk sale and purchase market remained stable with asset values largely\nunaffected, despite a minor decline in the overall freight market. The ",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "container",
+    "china",
+    "meg",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "steel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 5377,
+  "source_path": "reports/broker_reports/2026/lion/lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026__s01_lion_shipbrokers_weekly_market_report_week_30_24_july_2026",
+      "doc_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026",
+      "parent_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026__root",
+      "title": "Lion Shipbrokers Weekly Market Report - Week 30 (24 JULY 2026)",
+      "section_path": [
+        "Lion Shipbrokers Weekly Market Report - Week 30 (24 JULY 2026)"
+      ],
+      "section_path_text": "Lion Shipbrokers Weekly Market Report - Week 30 (24 JULY 2026)",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: Lion Shipbrokers Limited (Athens, Greece)\n**Issue Date**: 2026-07-24 | **Report Week**: Week 30, 2026",
+      "keywords": [
+        "athens",
+        "broker",
+        "date",
+        "greece",
+        "issue",
+        "limited",
+        "lion",
+        "shipbrokers"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 37,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026__s02_quote_of_the_week",
+      "doc_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026",
+      "parent_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026__root",
+      "title": "Quote of the Week",
+      "section_path": [
+        "Quote of the Week"
+      ],
+      "section_path_text": "Quote of the Week",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "> \"The shoe that fits one person pinches another.\"\n>\n> - **Carl Gustav Jung (6 July 1875 - 6 June 1961) - Swiss psychiatrist, psychotherapist, and psychologist.**",
+      "keywords": [
+        "another.",
+        "carl",
+        "fits",
+        "gustav",
+        "july",
+        "june",
+        "jung",
+        "one"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 46,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026__s03_bulkers",
+      "doc_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026",
+      "parent_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026__root",
+      "title": "Bulkers",
+      "section_path": [
+        "Bulkers"
+      ],
+      "section_path_text": "Bulkers",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The dry bulk sale and purchase market remained stable with asset values largely\nunaffected, despite a minor decline in the overall freight market. The Baltic Dry Index (BDI) fell to a\nmulti-week low on Monday, but rebounded over the week and closed today at 2743 points, more or less\nthe same level as last Friday (2752 points).",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "japan",
+        "blt",
+        "dwt",
+        "firm"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 303,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026__s04_demolition",
+      "doc_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026",
+      "parent_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026__root",
+      "title": "Demolition",
+      "section_path": [
+        "Demolition"
+      ],
+      "section_path_text": "Demolition",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Pakistan and Bangladesh continue to\ndemonstrate a strong and positive outlook, whereas India maintains stability but with a weaker forecast. For an overview of demolition market rates, please check our comprehensive demometer below:",
+      "keywords": [
+        "europe",
+        "india",
+        "bangladesh",
+        "below",
+        "but",
+        "check",
+        "comprehensive",
+        "continue"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 48,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026__s05_lion_s_demometer_usd_lt",
+      "doc_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026",
+      "parent_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026__root",
+      "title": "Lion's Demometer (USD $ / LT)",
+      "section_path": [
+        "Lion's Demometer (USD $ / LT)"
+      ],
+      "section_path_text": "Lion's Demometer (USD $ / LT)",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Country | Bulker ($/LT) | Tanker ($/LT) | Cont / Tween ($/LT) | Trend\n:--- | :---: | :---: | :---: | :---:\n**Turkey** | 290 | 300 | 310 | Stable\n**Pakistan** | 470-480 | 500-510 | 520 | Firm\n**India** | 400 | 410 | 420 | Soft\n**Bangladesh** | 475-485 | 515-525 | 540 | Firm",
+      "keywords": [
+        "india",
+        "firm",
+        "bangladesh",
+        "bulker",
+        "cont",
+        "country",
+        "pakistan",
+        "soft"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 112,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026__s06_bulkers",
+      "doc_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026",
+      "parent_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026__root",
+      "title": "Bulkers",
+      "section_path": [
+        "Bulkers"
+      ],
+      "section_path_text": "Bulkers",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details\n:--- | ---: | :---: | :--- | :--- | :--- | :---\n**M/V AANYA** | 179,628 | 2012 | HHIC-Phil Inc / Philippines | $37.5M | Undisclosed | Hanjin Subic capesize, should be en bloc deal with last week's reported sale of exact sister AASHNA for same price. **M/V NICHOLAS G.S** | 179,221 | 2010 | Sungdong / Korea | $34.4M | Chinese buyers | scrubber fitted.",
+      "keywords": [
+        "capesize",
+        "china",
+        "meg",
+        "india",
+        "japan",
+        "m/v",
+        "undisclosed",
+        "price"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1036,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026__s07_tankers",
+      "doc_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026",
+      "parent_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026__root",
+      "title": "Tankers",
+      "section_path": [
+        "Tankers"
+      ],
+      "section_path_text": "Tankers",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details\n:--- | ---: | :---: | :--- | :--- | :--- | :---\n**M/T ARCHANGEL** | 163,216 | 2006 | HHI / Korea | $50.75M | Undisclosed | -\n**M/T ALASKA** | 163,250 | 2006 | HHI / Korea | $50.75M | Undisclosed | Ice Class 1A\n**M/T VELOS EMERALD** | 115,042 | 2008 | Sasebo / Japan | $50.0M | Undisclosed | LR2. **M/T ELLIE LADY** | 109,999 | 2009 | Sungdong / Korea | $47.5M | Undisclosed | LR, scrubber fitted.",
+      "keywords": [
+        "japan",
+        "m/t",
+        "undisclosed",
+        "korea",
+        "hhi",
+        "j19.",
+        "alaska",
+        "archangel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 257,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026__s08_container_mpp_tween",
+      "doc_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026",
+      "parent_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026__root",
+      "title": "Container / MPP / Tween",
+      "section_path": [
+        "Container / MPP / Tween"
+      ],
+      "section_path_text": "Container / MPP / Tween",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details\n:--- | ---: | :---: | :--- | :--- | :--- | :---\n**C/V SPIRIT OF AUCKLAND** | 53,124 | 2007 | DSME / Korea | $160.0M | Undisclosed | including T/C to Maersk at $ 35,000 per day until end 2027. **C/V SPIRIT OF MELBOURNE** | 53,176 | 2007 | DSME / Korea | $160.0M | Undisclosed | including T/C to Maersk at $ 35,000 per day until end 2027.",
+      "keywords": [
+        "china",
+        "singapore",
+        "c/v",
+        "undisclosed",
+        "day",
+        "dsme",
+        "end",
+        "including"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 366,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026__s09_demolition_sales",
+      "doc_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026",
+      "parent_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026__root",
+      "title": "Demolition Sales",
+      "section_path": [
+        "Demolition Sales"
+      ],
+      "section_path_text": "Demolition Sales",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Vessel | Type | DWT | LDT | Built | Yard | Price ($/LT) | Destination | Comments / Terms\n:--- | :--- | ---: | ---: | :---: | :--- | :--- | :--- | :---\n**M/V ISA STAR** | Vessel | 8,275 | 3,288 | 2000 | - | $475/lt | Bangladesh | Demo to BANGLADESH for $ 475 per lt. **M/T STOLT KIKYO** | Vessel | 11,545 | 3,305 | 1998 | Fukuoka / Japan | $445/lt | India | Demo to INDIA for $ 445 per lt.",
+      "keywords": [
+        "india",
+        "japan",
+        "vessel",
+        "bangladesh",
+        "demo",
+        "lt.",
+        "per",
+        "built"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 152,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026__s10_bulkers",
+      "doc_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026",
+      "parent_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026__root",
+      "title": "Bulkers",
+      "section_path": [
+        "Bulkers"
+      ],
+      "section_path_text": "Bulkers",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "- **M/V AANYA**: M/V AANYA (179,628 dwt, blt 2012 HHIC-Phil Inc/Philippines, AB ss/dd due 06/2027, 9 ho/9 ha, Everllence B&W 6S70MC-C) - Sold for $ 37.5 mill basis charter free delivery by arrangement within 1st October to 31st November 2026. - Note: Hanjin Subic capesize, should be en bloc deal with last week's reported sale of exact sister AASHNA for same price.",
+      "keywords": [
+        "capesize",
+        "china",
+        "meg",
+        "india",
+        "japan",
+        "m/v",
+        "due",
+        "blt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1809,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026__s11_container_mpp_tween",
+      "doc_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026",
+      "parent_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026__root",
+      "title": "Container / MPP / Tween",
+      "section_path": [
+        "Container / MPP / Tween"
+      ],
+      "section_path_text": "Container / MPP / Tween",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "- **C/V SPIRIT OF AUCKLAND**: C/V SPIRIT OF AUCKLAND (53,124 dwt, blt 2007 DSME/Korea, AB ss due 02/2027 dd due 03/2025, teu 3752, reefers 844, B&W 8S70MC-C) - including T/C to Maersk at $ 35,000 per day until end 2027. - **C/V SPIRIT OF MELBOURNE**: C/V SPIRIT OF MELBOURNE (53,176 dwt, blt 2007 DSME/Korea, AB ss due 05/2027, teu 3752, reefers 844, B&W 8S70MC-C8) - including T/C to Maersk at $ 35,000 per day until end 2027.",
+      "keywords": [
+        "container",
+        "china",
+        "singapore",
+        "c/v",
+        "spirit",
+        "blt",
+        "due",
+        "dwt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 559,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026__s12_tankers",
+      "doc_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026",
+      "parent_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026__root",
+      "title": "Tankers",
+      "section_path": [
+        "Tankers"
+      ],
+      "section_path_text": "Tankers",
+      "level": 1,
+      "ordinal": 12,
+      "summary": "- **M/T ARCHANGEL**: M/T ARCHANGEL (163,216 dwt, blt 2006 HHI/Korea, LR, 14 x tanks, 3 x pumps, igs, cow)\n- **M/T ALASKA**: M/T ALASKA (163,250 dwt, blt 2006 HHI /Korea, LR ss/dd passed 02/2026, 14 x tanks, 3 x pumps, igs, cow) - Sold en bloc for $ 50.75 mill each, Note: Ice Class 1A\n- **M/T VELOS EMERALD**: M/T VELOS EMERALD (115,042 dwt, blt 2008 Sasebo/Japan, NK ss due 05/2028 dd due 07/2026, epoxy, 3 x pumps, igs, cow) - Sold for $ 50 mill, Note: LR2. - **M/T ELLIE LADY**: M/T ELLIE LADY (109,999 dwt, blt 2009 Sungdong /Korea, LR ss due 03/2028 dd due 11/2027, 14 epoxy tanks, 3 x pumps, igs, cow) - Sold for $ 47.5 mill, Note: LR, scrubber fitted.",
+      "keywords": [
+        "japan",
+        "steel",
+        "m/t",
+        "blt",
+        "due",
+        "dwt",
+        "pumps",
+        "igs"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 435,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026__s13_container_mpp_tween",
+      "doc_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026",
+      "parent_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026__root",
+      "title": "Container / MPP / Tween",
+      "section_path": [
+        "Container / MPP / Tween"
+      ],
+      "section_path_text": "Container / MPP / Tween",
+      "level": 1,
+      "ordinal": 13,
+      "summary": "- **M/V ISA STAR**: M/V ISA STAR (LDT 3288, 8,275 dwt, blt 2000 Gdanska Stocznia, RINA, general cargo vessel) - Demo to BANGLADESH for $ 475 per lt.",
+      "keywords": [
+        "isa",
+        "m/v",
+        "star",
+        "bangladesh",
+        "blt",
+        "cargo",
+        "demo",
+        "dwt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 61,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026__s14_tankers",
+      "doc_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026",
+      "parent_id": "broker_reports_broker_report_no_date_lion_shipbrokers_24_07_2026_lion_shipbrokers_weekly_market_report_week_30_2026__root",
+      "title": "Tankers",
+      "section_path": [
+        "Tankers"
+      ],
+      "section_path_text": "Tankers",
+      "level": 1,
+      "ordinal": 14,
+      "summary": "- **M/T STOLT KIKYO**: M/T STOLT KIKYO (LDT 3305, 11,545 dwt, blt 1998 Fukuoka/Japan, LR, Stainless Steel tanks, 18 x pumps, IMO II/III) - Demo to INDIA for $ 445 per lt.",
+      "keywords": [
+        "india",
+        "japan",
+        "steel",
+        "kikyo",
+        "m/t",
+        "stolt",
+        "blt",
+        "demo"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 70,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

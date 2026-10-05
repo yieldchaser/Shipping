@@ -196,7 +196,7 @@ numeric_observations:
   unit: null
   values:
   - 217.5
-  - 7500.0
+  - 7.5
 - section: Rates
   section_type: null
   source_line: $130,000 | $10,000
@@ -288,7 +288,7 @@ numeric_observations:
   - 3.0
   - 5.0
   - 3.0
-  - 40900.0
+  - 40.9
 - section: Capesize
   section_type: null
   source_line: 2021. FFAs are up for the coming quarter, Baltic C3 prints USD 40.2
@@ -299,13 +299,13 @@ numeric_observations:
   values:
   - 2021.0
   - 3.0
-  - 40200.0
+  - 40.2
   - 5.0
   - 16.0
   - 17.0
   - 5.0
-  - 16500.0
-  - 7590.0
+  - 16.5
+  - 7.59
   - 3.0
 - section: $89,167
   section_type: null
@@ -573,7 +573,7 @@ numeric_observations:
   source_line: '**6.5''**'
   unit: null
   values:
-  - 6500.0
+  - 6.5
 - section: $580,000
   section_type: null
   source_line: '##### COASTER Europe (3 500-5 000 cbm)'
@@ -605,7 +605,7 @@ numeric_observations:
   source_line: '##### $28.33'
   unit: usd
   values:
-  - 28330.0
+  - 28.33
 - section: $560
   section_type: null
   source_line: '**$20**'
@@ -629,7 +629,7 @@ numeric_observations:
   source_line: '##### $29.73'
   unit: usd
   values:
-  - 29730.0
+  - 29.73
 - section: $610
   section_type: null
   source_line: '**$40**'
@@ -707,7 +707,7 @@ numeric_observations:
   source_line: $49.5 | $0
   unit: usd
   values:
-  - 49500.0
+  - 49.5
 - section: Strong
   section_type: null
   source_line: Newcastlemax | 210'
@@ -750,29 +750,29 @@ numeric_observations:
   source_line: '**Capesize** $71.0 $56.0'
   unit: usd
   values:
-  - 71000.0
-  - 56000.0
+  - 71.0
+  - 56.0
 - section: Prices
   section_type: null
   source_line: '**Kamsarmax** $41.0 $32.0'
   unit: usd
   values:
-  - 41000.0
-  - 32000.0
+  - 41.0
+  - 32.0
 - section: Prices
   section_type: null
   source_line: '**Ultramax** $38.0 $30.0'
   unit: usd
   values:
-  - 38000.0
-  - 30000.0
+  - 38.0
+  - 30.0
 - section: Prices
   section_type: null
   source_line: '**Handysize** $31.0 $23.0'
   unit: usd
   values:
-  - 31000.0
-  - 23000.0
+  - 31.0
+  - 23.0
 - section: Prices
   section_type: null
   source_line: '**VLCC** $152.0 $122.0'
@@ -786,15 +786,15 @@ numeric_observations:
   unit: usd
   values:
   - 103.0
-  - 88000.0
+  - 88.0
 - section: Prices
   section_type: null
   source_line: '**Aframax / LR2** $82.0 $71.5'
   unit: usd
   values:
   - 2.0
-  - 82000.0
-  - 71500.0
+  - 82.0
+  - 71.5
 - section: Prices
   section_type: null
   source_line: '**06**'
@@ -837,7 +837,7 @@ numeric_observations:
   source_line: $83.97 Bunker Prices Singapore 380 CST | $0.42
   unit: usd
   values:
-  - 83970.0
+  - 83.97
   - 380.0
   - 0.42
 regions:

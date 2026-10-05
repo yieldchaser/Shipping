@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_09_03_laboring_through_a_long_recovery__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_09_03_laboring_through_a_long_recovery",
+  "parent_id": null,
+  "title": "Laboring Through A Long Recovery",
+  "section_path": [
+    "Laboring Through A Long Recovery"
+  ],
+  "section_path_text": "Laboring Through A Long Recovery",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Laboring Through A Long Recovery\nThe Memorial Day kickoff to the summer driving season offered hope that 2010 would see a step towards normalization of seasonal demand patterns for gasoline in the United States. Buoyed by indications of strengthening recovery in the global and domestic economies, conditions seemed poised for an uptick in gasoline demand that would mark an important milestone following the economic turbulence of recent years. As the approaching Labor Day weekend signals the end of driving season, prevailing sentiment about the economy has turned negative but the cautious hope which began the summer has been partially fulfilled.",
+  "keywords": [
+    "atlantic",
+    "west_africa",
+    "europe",
+    "products",
+    "gas",
+    "gasoline",
+    "demand",
+    "summer",
+    "clean",
+    "united",
+    "driving",
+    "recovery"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 615,
+  "source_path": "reports/poten/2010/poten_2010-09-03_laboring-through-a-long-recovery.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_09_03_laboring_through_a_long_recovery__s01_laboring_through_a_long_recovery",
+      "doc_id": "poten_tankers_no_date_poten_2010_09_03_laboring_through_a_long_recovery",
+      "parent_id": "poten_tankers_no_date_poten_2010_09_03_laboring_through_a_long_recovery__root",
+      "title": "Laboring Through A Long Recovery",
+      "section_path": [
+        "Laboring Through A Long Recovery"
+      ],
+      "section_path_text": "Laboring Through A Long Recovery",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Memorial Day kickoff to the summer driving season offered hope that 2010 would see a step towards normalization of seasonal demand patterns for gasoline in the United States. Buoyed by indications of strengthening recovery in the global and domestic economies, conditions seemed poised for an uptick in gasoline demand that would mark an important milestone following the economic turbulence of recent years.",
+      "keywords": [
+        "europe",
+        "products",
+        "gas",
+        "gasoline",
+        "clean",
+        "summer",
+        "demand",
+        "driving"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 253,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_09_03_laboring_through_a_long_recovery__s02_a_long_process_of_recovery",
+      "doc_id": "poten_tankers_no_date_poten_2010_09_03_laboring_through_a_long_recovery",
+      "parent_id": "poten_tankers_no_date_poten_2010_09_03_laboring_through_a_long_recovery__root",
+      "title": "A Long Process of Recovery",
+      "section_path": [
+        "A Long Process of Recovery"
+      ],
+      "section_path_text": "A Long Process of Recovery",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "These inflated inventory levels can be attributed partially to persistently‐high utilization rates at domestic refineries this summer, which reached a high of 91.5% in July before beginning their traditional late‐summer decline. Those high utilization rates were partially a response to positive signals of U.S.",
+      "keywords": [
+        "europe",
+        "products",
+        "gas",
+        "demand",
+        "high",
+        "gasoline",
+        "summer",
+        "expected"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 268,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_09_03_laboring_through_a_long_recovery__s03_per_day",
+      "doc_id": "poten_tankers_no_date_poten_2010_09_03_laboring_through_a_long_recovery",
+      "parent_id": "poten_tankers_no_date_poten_2010_09_03_laboring_through_a_long_recovery__root",
+      "title": "$ per day",
+      "section_path": [
+        "$ per day"
+      ],
+      "section_path_text": "$ per day",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "In the absence of a sustained support from clean imports into the United States, refined product deliveries to West Africa have helped keep the Transatlantic MR market from reaching last year's lows this summer. As demand recovery in the United States continues in the years to come, imports to help cover driving season gasoline demand are expected to reassume their role as primary market driver during the summer months.",
+      "keywords": [
+        "atlantic",
+        "west_africa",
+        "products",
+        "gas",
+        "demand",
+        "imports",
+        "states",
+        "united"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 77,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

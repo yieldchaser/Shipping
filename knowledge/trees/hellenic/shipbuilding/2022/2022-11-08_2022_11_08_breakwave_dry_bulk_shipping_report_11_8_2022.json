@@ -9,7 +9,7 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 11.8.2022",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nSeasonal patterns matter - In the last five years, Capesize rates have found a short-term bottom during the second\nSource: Breakwave Advisors\n\nLinked asset: 2022-11-08_breakwave-dry-bulk-shipping-report-11-8-2022_breakwavenovember82022report_e1285b2fffcb.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-11-08_breakwave-dry-bulk-shipping-report-11-8-2022_breakwavenovember82022report_e1285b2fffcb.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nNovember 8, 2022\nBreakwave Dry Futures Index: 1,078 Baltic Dry Index (spot): 1,337 Short-term Indicators:\n↓ 30D: -33.9% ↓ 30D: -31.8% Momentum: Neutral\n↓ YTD: -47.9% ↓ YTD: -39.7% Sentiment: Negative\n↓ YOY: -51.6% ↓ YOY: -50.8% Fundamentals: Neutral\nBi-Weekly Report\n• Seasonal patterns matter - In the last five years, Capesize rates have found a short-term bottom during the second\nweek of November, followed by a tight range of outcomes but generally indicating to an average of ~ 10,000-point\nrally from the early month lows. With spot rates sitting at roughly 12,000 and with futures backwardated to spot,\nsuch a potential development will come as a great surprise to the market. How likely is such a scenario this time\naround?",
+  "summary": "Main\nSeasonal patterns matter - In the last five years, Capesize rates have found a short-term bottom during the second\nSource: Breakwave Advisors\n\nLinked asset: 2022-11-08_breakwave-dry-bulk-shipping-report-11-8-2022_breakwavenovember82022report_e1285b2fffcb.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2022-11-08_breakwave-dry-bulk-shipping-report-11-8-2022_breakwavenovember82022report_e1285b2fffcb.pdf\n\n|||BDRY|||||\n|---|---|---|---|---|---|---|\n||↓ ↓ ↓|Dry Bulk Shipping Breakwave Dry Futures Index: 30D: -33.9% YTD: -47.9% YOY: -51.6%|1,078 ↓ ↓ ↓|Baltic Dry Index (spot): 30D: -31.8% YTD: -39.7% YOY: -50.8%|1,337 Momentum: Sentiment: Fundamentals:|November 8, 2022 Short-term Indicators: Neutral Negative Neutral|\n|• • •||Bi-Weekly Report Seasonal patterns matter - Dry bulk focus shifts back to fundamentals -|deciding to price a more aggressive rate path, something that currently is quite hard to envision. China's Covid policy developments have become the focus across commodities markets - that would potentially lead to more constructive views and flows across commodities. returning back to the driver's seat as the dominant force of bulk imports.",
   "keywords": [
     "capesize",
     "panamax",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1480,
-  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-11-08_breakwave-dry-bulk-shipping-report-11-8-2022.html",
+  "token_count": 1489,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-11-08_breakwave-dry-bulk-shipping-report-11-8-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-11-8-2022",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-11-08_breakwave-dry-bulk-shipping-report-11-8-2022_breakwavenovember82022report_e1285b2fffcb.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-11-08_breakwave-dry-bulk-shipping-report-11-8-2022_breakwavenovember82022report_e1285b2fffcb.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nNovember 8, 2022\nBreakwave Dry Futures Index: 1,078 Baltic Dry Index (spot): 1,337 Short-term Indicators:\n↓ 30D: -33.9% ↓ 30D: -31.8% Momentum: Neutral\n↓ YTD: -47.9% ↓ YTD: -39.7% Sentiment: Negative\n↓ YOY: -51.6% ↓ YOY: -50.8% Fundamentals: Neutral\nBi-Weekly Report\n• Seasonal patterns matter - In the last five years, Capesize rates have found a short-term bottom during the second\nweek of November, followed by a tight range of outcomes but generally indicating to an average of ~ 10,000-point\nrally from the early month lows. With spot rates sitting at roughly 12,000 and with futures backwardated to spot,\nsuch a potential development will come as a great surprise to the market.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-11-08_breakwave-dry-bulk-shipping-report-11-8-2022_breakwavenovember82022report_e1285b2fffcb.pdf\n\n|||BDRY|||||\n|---|---|---|---|---|---|---|\n||↓ ↓ ↓|Dry Bulk Shipping Breakwave Dry Futures Index: 30D: -33.9% YTD: -47.9% YOY: -51.6%|1,078 ↓ ↓ ↓|Baltic Dry Index (spot): 30D: -31.8% YTD: -39.7% YOY: -50.8%|1,337 Momentum: Sentiment: Fundamentals:|November 8, 2022 Short-term Indicators: Neutral Negative Neutral|\n|• • •||Bi-Weekly Report Seasonal patterns matter - Dry bulk focus shifts back to fundamentals -|deciding to price a more aggressive rate path, something that currently is quite hard to envision. China's Covid policy developments have become the focus across commodities markets - that would potentially lead to more constructive views and flows across commodities.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1404,
+      "token_count": 1413,
       "section_type": "linked_pdf",
       "children": []
     }

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2024_10_18_another_refinery_retires__root",
+  "doc_id": "poten_tankers_no_date_poten_2024_10_18_another_refinery_retires",
+  "parent_id": null,
+  "title": "Another Refinery Retires",
+  "section_path": [
+    "Another Refinery Retires"
+  ],
+  "section_path_text": "Another Refinery Retires",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "West Coast crude and product flows will be impacted\nOn October 16, Phillips 66, the 4 th largest refiner in the U.S., announced plans to cease crude oil processing operations at its 138,700 b/d dual-sited refinery in Los Angeles, California, by the end of 2025. Based on market conditions, P66 is concerned about the long-term viability and competitiveness of this refinery, which has been in operation for more than 100 years. P66 committed to replacing the output of the LA refinery with sources inside and outside its refining network and with renewable diesel and sustainable aviation fuels from its recently commissioned Rodeo Renewable Energy Complex (RREC) in the San Francisco Bay area.",
+  "keywords": [
+    "china",
+    "brazil",
+    "pacific",
+    "india",
+    "singapore",
+    "crude_oil",
+    "products",
+    "gas",
+    "california",
+    "oil",
+    "u.s.",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1002,
+  "source_path": "reports/poten/2024/poten_2024-10-18_another-refinery-retires.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2024_10_18_another_refinery_retires__s01_u_s_west_coast_crude_and_product_flows_will_be_impacted",
+      "doc_id": "poten_tankers_no_date_poten_2024_10_18_another_refinery_retires",
+      "parent_id": "poten_tankers_no_date_poten_2024_10_18_another_refinery_retires__root",
+      "title": "U.S. West Coast crude and product flows will be impacted",
+      "section_path": [
+        "U.S. West Coast crude and product flows will be impacted"
+      ],
+      "section_path_text": "U.S. West Coast crude and product flows will be impacted",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "On October 16, Phillips 66, the 4 th largest refiner in the U.S., announced plans to cease crude oil processing operations at its 138,700 b/d dual-sited refinery in Los Angeles, California, by the end of 2025. Based on market conditions, P66 is concerned about the long-term viability and competitiveness of this refinery, which has been in operation for more than 100 years.",
+      "keywords": [
+        "china",
+        "brazil",
+        "pacific",
+        "india",
+        "singapore",
+        "crude_oil",
+        "products",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 989,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

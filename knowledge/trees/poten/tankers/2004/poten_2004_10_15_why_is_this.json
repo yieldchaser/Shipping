@@ -1,0 +1,221 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2004_10_15_why_is_this__root",
+  "doc_id": "poten_tankers_no_date_poten_2004_10_15_why_is_this",
+  "parent_id": null,
+  "title": "Why Is This?",
+  "section_path": [
+    "Why Is This?"
+  ],
+  "section_path_text": "Why Is This?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "As tanker owners, we know what happens when demand gets ahead of supply- tanker rates go up and they go up a lot. Right now Vlcc rates are at a historically high WS 220 AG/East. The oil industry is experiencing the same phenomenon of demand getting ahead of supply with current oil prices hovering close to $55 per barrel.",
+  "keywords": [
+    "vlcc",
+    "container",
+    "china",
+    "australia",
+    "meg",
+    "europe",
+    "india",
+    "japan",
+    "iron_ore",
+    "coal",
+    "crude_oil",
+    "steel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1065,
+  "source_path": "reports/poten/2004/poten_2004-10-15_why-is-this.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_10_15_why_is_this__s01_why_is_this",
+      "doc_id": "poten_tankers_no_date_poten_2004_10_15_why_is_this",
+      "parent_id": "poten_tankers_no_date_poten_2004_10_15_why_is_this__root",
+      "title": "Why Is This?",
+      "section_path": [
+        "Why Is This?"
+      ],
+      "section_path_text": "Why Is This?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As tanker owners, we know what happens when demand gets ahead of supply- tanker rates go up and they go up a lot. Right now Vlcc rates are at a historically high WS 220 AG/East.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "oil",
+        "ahead",
+        "are",
+        "demand",
+        "prices",
+        "supply"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 98,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_10_15_why_is_this__s02_ipe",
+      "doc_id": "poten_tankers_no_date_poten_2004_10_15_why_is_this",
+      "parent_id": "poten_tankers_no_date_poten_2004_10_15_why_is_this__root",
+      "title": "IPE",
+      "section_path": [
+        "IPE"
+      ],
+      "section_path_text": "IPE",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "nymex"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_10_15_why_is_this__s03_one_year_ago",
+      "doc_id": "poten_tankers_no_date_poten_2004_10_15_why_is_this",
+      "parent_id": "poten_tankers_no_date_poten_2004_10_15_why_is_this__root",
+      "title": "One-Year Ago",
+      "section_path": [
+        "One-Year Ago"
+      ],
+      "section_path_text": "One-Year Ago",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Six Months Ago One Month Ago Current 0",
+      "keywords": [
+        "ago",
+        "current",
+        "month",
+        "months",
+        "one",
+        "six"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_10_15_why_is_this__s04_vlcc_fixtures_up",
+      "doc_id": "poten_tankers_no_date_poten_2004_10_15_why_is_this",
+      "parent_id": "poten_tankers_no_date_poten_2004_10_15_why_is_this__root",
+      "title": "Vlcc Fixtures Up",
+      "section_path": [
+        "Vlcc Fixtures Up"
+      ],
+      "section_path_text": "Vlcc Fixtures Up",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Saudi Arabia has stated for months on end that it will increase production to get control over prices. We know that production is up because spot fixture activity out of the Arabian Gulf has increased as summarized in the following table (2004 figures have been annualized) and shown below along with Vlcc WS rates.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "activity",
+        "ag/east",
+        "ag/west",
+        "fixture",
+        "gulf",
+        "production"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 174,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_10_15_why_is_this__s05_ws_rates",
+      "doc_id": "poten_tankers_no_date_poten_2004_10_15_why_is_this",
+      "parent_id": "poten_tankers_no_date_poten_2004_10_15_why_is_this__root",
+      "title": "WS Rates",
+      "section_path": [
+        "WS Rates"
+      ],
+      "section_path_text": "WS Rates",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "AG/East AG/West Higher fixture activity in the Arabian Gulf shows that Saudi Arabia and other producers have increased exports starting in 2003, yet this increase in exports has not been sufficient to cut prices nor slow speculation in oil futures. crude inventories are down from the cessation of U.S.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "crude_oil",
+        "crude",
+        "inventories",
+        "u.s.",
+        "gulf",
+        "exports"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 173,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_10_15_why_is_this__s06_excluding_spr",
+      "doc_id": "poten_tankers_no_date_poten_2004_10_15_why_is_this",
+      "parent_id": "poten_tankers_no_date_poten_2004_10_15_why_is_this__root",
+      "title": "(Excluding SPR)",
+      "section_path": [
+        "(Excluding SPR)"
+      ],
+      "section_path_text": "(Excluding SPR)",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "crude oil inventory puts pressure on both the oil and shipping markets, it doesn't come close to explaining record high oil prices and shipping rates. It Is Not Growth in OECD Oil Demand Total OECD oil consumption, which includes North America, Europe, Japan, Korea, Australia, and New Zealand averaged, according to the IEA, nearly 48 million bpd between 2000 and 2002.",
+      "keywords": [
+        "australia",
+        "europe",
+        "japan",
+        "crude_oil",
+        "oil",
+        "bpd",
+        "million",
+        "both"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 141,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_10_15_why_is_this__s07_the_only_explanation_left",
+      "doc_id": "poten_tankers_no_date_poten_2004_10_15_why_is_this",
+      "parent_id": "poten_tankers_no_date_poten_2004_10_15_why_is_this__root",
+      "title": "The Only Explanation Left",
+      "section_path": [
+        "The Only Explanation Left"
+      ],
+      "section_path_text": "The Only Explanation Left",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "We have no place else to look except India and China, both booming economies. Of the two, China is the greater and its consumption of copper, steel, iron ore, coal and other commodities has been a boon to suppliers and its exports and imports of goods have been a boon for container vessel owners.",
+      "keywords": [
+        "vlcc",
+        "container",
+        "china",
+        "india",
+        "iron_ore",
+        "coal",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 434,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

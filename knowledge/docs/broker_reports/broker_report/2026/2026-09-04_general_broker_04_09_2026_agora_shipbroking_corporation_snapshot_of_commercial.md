@@ -510,7 +510,7 @@ numeric_observations:
   - 11.0
   - 11.0
   - 112000.0
-  - 50802.3
+  - 50.8023
 - section: USD LIBOR Actual last % weekly % 4-weekly <u>12 months</u> 2,949 3,00%-3,47%
   section_type: null
   source_line: 12. Gold-U.S. Dollars and Cents per troy ounce (contract of 100 troy
@@ -555,7 +555,7 @@ numeric_observations:
   values:
   - 30.0
   - 698.938
-  - 17450.0
+  - 17.45
   - 30.0
   - 693.6505
   - 888.0
@@ -567,7 +567,7 @@ numeric_observations:
   values:
   - 30.0
   - 6970.3
-  - 78080.0
+  - 78.08
   - 30.0
   - 697.263
   - 4347.0
@@ -591,7 +591,7 @@ numeric_observations:
   values:
   - 30.0
   - 6985.11
-  - 11020.0
+  - 11.02
 regions:
 - china
 - atlantic

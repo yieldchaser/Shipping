@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1190,
-  "source_path": "corpus/02-hellenic/vessel_valuations/2022/2022-09-20_weekly-vessel-valuations-report-september-20-2022.html",
+  "token_count": 2261,
+  "source_path": "reports/hellenic/vessel_valuations/2022/2022-09-20_weekly-vessel-valuations-report-september-20-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-september-20-2022",
   "children": [
     {
@@ -69,20 +69,20 @@
       "section_path_text": "Linked asset: 2022-09-20_weekly-vessel-valuations-report-september-20-2022_img1_matrix-20-september-2022_89fb33c4e12e.png",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2022/assets/2022-09-20_weekly-vessel-valuations-report-september-20-2022_img1_matrix-20-september-2022_89fb33c4e12e.png\n\nLinked image asset: 2022-09-20_weekly-vessel-valuations-report-september-20-2022_img1_matrix-20-september-2022_89fb33c4e12e.png\n\nImage metadata: PNG 678x248 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\nOCR text:\n© vesselsValue® |\n20 September 2022 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge vicc Suez Alra LRL MR Cape Pmax Supra Handy post Pmax Handy Fmax\n0 11.2% 10.9% 11.8% 10.9% 11.6% 1.2% 0.8% 1.7% 1.1% 2.7% 3.2% 3.7% 2.3%\n320K 160K «110K 75K = 50K 180K 82K GOK = 38K 7000 4250 ©«1750~--«1100\n5 40.8% +1.0% +1.4% 40.9% +1.6% 1.2% -O.8% -2.1% -0.7% 2.7% -3.5% -3.7% -2.3%\n320K 160K 110K 75K SOK 180K 80K 60K 35K 7000 4250 1750 41100\n10 41.7% +1.0% +2,1% +0.9% +1.6% \"1.2% -0.7% -2.1% -0.5% \"2.6% -4.5% -3.7% -2.4%\n310K 160K 110K 75K 50K 180K 80K 60K 32K 7000 4250 1750 1100\n15 4.1% +0.9% +3.3% +0.9% +1.6% 1.2% -0.8% -2.1% -0.4% -2.6% -5.8% -3.7% -2.4%\n310K 160K 110K 75K 50K 180K 75K 55K 30K 7000 4250 1750 1100\n2» +5.4% +0,9% +4.4% +0.9% +1.6% +0.9% -0.8% -1.6% -0.4% -2.5% -",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2022/assets/2022-09-20_weekly-vessel-valuations-report-september-20-2022_img1_matrix-20-september-2022_89fb33c4e12e.png\n\nLinked image asset: 2022-09-20_weekly-vessel-valuations-report-september-20-2022_img1_matrix-20-september-2022_89fb33c4e12e.png\n\nImage metadata: PNG 678x248 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\n[structured table]\n| © | | | | | | | | | | | | | |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 20 September | 2022 | | | | VV | Mini Matrix | - | Weekly | Change | | | | |\n| | | | Tankers | | | | | Bulkers | | | | Containers | |\n| Age | vicc | Suez | Alra | LRL | MR | Cape | Pmax | Supra | Handy | | Pmax | Handy | Fmax |\n| | 11.2% | 10.9% | 11.8% | | 11.6% | 1.2% | 0.8% | 1.7% | 1.1% | 2.7% | 3.2% | 3.7% | 2.3% |\n| 0 | | | | | | | | | | | | | |\n| | 320K | 160K | «110K | 75K | | 180K | 82K | GOK | | 7000 | 4250 | | |\n| | | +1.0% | +1.4% | | +1.6% | | | -2.1% | -0.7% | | -3.5% | -3.7% | -2.3% |\n| 5 | | | | | | | | | | | | | |\n| | 320K | 160K | 110K | 75K | SOK | 180K | 80K | 60K | 35K | 7000 | 4250 | 1750 | 41100 |\n| | 41.7% | +1.0% | | | +1.6% | \"1.2% | | -2.1% | -0.5% | \"",
       "keywords": [
         "capesize",
         "supramax",
         "handysize",
         "container",
-        "asset",
         "handy",
-        "image",
-        "n/a"
+        "n/a",
+        "pmax",
+        "age"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 821,
+      "token_count": 1892,
       "section_type": "linked_image_asset",
       "children": []
     }

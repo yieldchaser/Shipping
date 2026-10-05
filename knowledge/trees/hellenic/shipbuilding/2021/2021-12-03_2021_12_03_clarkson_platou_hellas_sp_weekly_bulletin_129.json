@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNEW BUILDING : In dry bulk, Clients of Samos Steamship ordered two firm 180k dwt Capesize bulkers at JMU Ariake Shipyard\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2021-12-03_clarkson-platou-hellas-sp-weekly-bulletin-129_report-03-12-2021_38d493450c53.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2021-12-03_clarkson-platou-hellas-sp-weekly-bulletin-129_report-03-12-2021_38d493450c53.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 03 December 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 05/25\nSTAR ARTEMIS 63,205\nMAN-B&W 5S60ME-C8.1 DD 05/23\nUSD 53 M\n2015 SINOPACIFIC DAYANG 4 x 36 T U/D\nen bloc\nBWTS fited SS 10/25\nSTAR EOS 63,500\nDD 09/25\nMAN-B&W 6S50MC-C\nSS 09/22\nVIRGO COLOSSUS 61,616 2012 OSHIMA 4 x 30 T RGN USD 24 M GREEKS\nDD 09/22\nBWTS fitted\nSS 03/22\nNEW FACE MAN-B&W 6S46ME-B8.3 DD 03/22 RGN USD 27M each\n38,230 2017 SHIN KOCHI 4 x 30 T GREEKS\n(basis SS/DD passed)\nBWTS fitted\nSS 01/22\nNEW DAYS\nDD 01/22\nMAN-B&W 6S46MC-C\nSS 09/26\nOCEAN GALAXY 37,193 2011 HMD 4 x 30 T LOW USD 16 M M. EASTERNS\nDD 09/24\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMITSUBISHI 6UEC52LS SS 01/22\nHAFNIA HOPE 39,997 20",
+  "summary": "Main\nNEW BUILDING : In dry bulk, Clients of Samos Steamship ordered two firm 180k dwt Capesize bulkers at JMU Ariake Shipyard\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2021-12-03_clarkson-platou-hellas-sp-weekly-bulletin-129_report-03-12-2021_38d493450c53.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2021-12-03_clarkson-platou-hellas-sp-weekly-bulletin-129_report-03-12-2021_38d493450c53.pdf\n\n|||Sale and Purchase||||||||\n|---|---|---|---|---|---|---|---|---|---|\n||Hellas S&P Weekly Bulletin|||||||03 December 2021||\n||BULK CARRIERS|||||||||\n||VESSEL|DWT|BLT||DETAILS|SS/DD|PRICE||BUYER|\n||STAR ARTEMIS|63,205|||MAN-B&W 5S60ME-C8.1|SS 05/25 DD 05/23|USD 53 M|||\n||STAR EOS|63,500|2015 SINOPACIFIC DAYANG||4 x 36 T BWTS fited|SS 10/25 DD 09/25|en bloc||U/D|\n||VIRGO COLOSSUS|61,616|2012 OSHIMA||MAN-B&W 6S50MC-C 4 x 30 T BWTS fitted|SS 09/22 DD 09/22|RGN USD 24 M||GREEKS|\n||NEW FACE|38,230|2017 SHIN KOCHI||MAN-B&W 6S46ME-B8.3 4 x 30 T|SS 03/22 DD 03/22|RGN USD 27M each||GREEKS|\n||NEW DAYS||||BWTS fitted|SS 01/22 DD 01/22|(basis SS/DD passed)|||\n||OCEAN GALAXY|37,193 TANKERS - CHEMICALS - LPG/LNGs|2011 HMD||MAN-B&W 6S46MC-C 4 x 30 T BWTS fitted|SS 09/26 DD 0 9/24|LOW USD 16",
   "keywords": [
     "capesize",
     "lng",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2378,
-  "source_path": "corpus/02-hellenic/shipbuilding/2021/2021-12-03_clarkson-platou-hellas-sp-weekly-bulletin-129.html",
+  "token_count": 2428,
+  "source_path": "reports/hellenic/shipbuilding/2021/2021-12-03_clarkson-platou-hellas-sp-weekly-bulletin-129.html",
   "source_url": "https://www.hellenicshippingnews.com/clarkson-platou-hellas-sp-weekly-bulletin-129",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2021-12-03_clarkson-platou-hellas-sp-weekly-bulletin-129_report-03-12-2021_38d493450c53.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-12-03_clarkson-platou-hellas-sp-weekly-bulletin-129_report-03-12-2021_38d493450c53.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 03 December 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 05/25\nSTAR ARTEMIS 63,205\nMAN-B&W 5S60ME-C8.1 DD 05/23\nUSD 53 M\n2015 SINOPACIFIC DAYANG 4 x 36 T U/D\nen bloc\nBWTS fited SS 10/25\nSTAR EOS 63,500\nDD 09/25\nMAN-B&W 6S50MC-C\nSS 09/22\nVIRGO COLOSSUS 61,616 2012 OSHIMA 4 x 30 T RGN USD 24 M GREEKS\nDD 09/22\nBWTS fitted\nSS 03/22\nNEW FACE MAN-B&W 6S46ME-B8.3 DD 03/22 RGN USD 27M each\n38,230 2017 SHIN KOCHI 4 x 30 T GREEKS\n(basis SS/DD passed)\nBWTS fitted\nSS 01/22\nNEW DAYS\nDD 01/22\nMAN-B&W 6S46MC-C\nSS 09/26\nOCEAN GALAXY 37,193 2011 HMD 4 x 30 T LOW USD 16 M M. EASTERNS\nDD 09/24\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMITSUBISHI 6UEC52LS SS 01/22\nHAFNIA HOPE 39,997 2007 SAIKI USD 9 .5 M U/D\nIMO III DD 01/22\nPage 1 of 3\n\n[Page 2]\n1\nSale and Purchase\nHellas S&P Weekly Bulletin 03 December 2021\nNEW BUILDING\nIn dry bulk, Clients of Samos Steamship ordered two firm 180k dwt Capesize bulkers at JMU Ariake Shipyard, with delivery of the ",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-12-03_clarkson-platou-hellas-sp-weekly-bulletin-129_report-03-12-2021_38d493450c53.pdf\n\n|||Sale and Purchase||||||||\n|---|---|---|---|---|---|---|---|---|---|\n||Hellas S&P Weekly Bulletin|||||||03 December 2021||\n||BULK CARRIERS|||||||||\n||VESSEL|DWT|BLT||DETAILS|SS/DD|PRICE||BUYER|\n||STAR ARTEMIS|63,205|||MAN-B&W 5S60ME-C8.1|SS 05/25 DD 05/23|USD 53 M|||\n||STAR EOS|63,500|2015 SINOPACIFIC DAYANG||4 x 36 T BWTS fited|SS 10/25 DD 09/25|en bloc||U/D|\n||VIRGO COLOSSUS|61,616|2012 OSHIMA||MAN-B&W 6S50MC-C 4 x 30 T BWTS fitted|SS 09/22 DD 09/22|RGN USD 24 M||GREEKS|\n||NEW FACE|38,230|2017 SHIN KOCHI||MAN-B&W 6S46ME-B8.3 4 x 30 T|SS 03/22 DD 03/22|RGN USD 27M each||GREEKS|\n||NEW DAYS||||BWTS fitted|SS 01/22 DD 01/22|(basis SS/DD passed)|||\n||OCEAN GALAXY|37,193 TANKERS - CHEMICALS - LPG/LNGs|2011 HMD||MAN-B&W 6S46MC-C 4 x 30 T BWTS fitted|SS 09/26 DD 0 9/24|LOW USD 16 M||M. EASTERNS|\n||VESSEL|DWT|BLT||DETAILS|SS/DD|PRICE||BUYER|\n||HAFNIA HOPE|39,997|2007 SAIKI||MITSUBISHI 6UEC52LS IMO III|SS 01/22 DD 01 /22|USD 9 .5 M||U/D Page 1 of 3|\n\n## Sale and Purchase Hellas S&P Weekly Bulletin 03 December 2021\n\n## NEW BUILDING\n\nIn dry bulk, C",
       "keywords": [
         "capesize",
         "lng",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2287,
+      "token_count": 2337,
       "section_type": "linked_pdf",
       "children": []
     }

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2021_06_25_the_light_end_of_the_barrel_1__root",
+  "doc_id": "poten_tankers_no_date_poten_2021_06_25_the_light_end_of_the_barrel_1",
+  "parent_id": null,
+  "title": "The Light End Of The Barrel 1",
+  "section_path": [
+    "The Light End Of The Barrel 1"
+  ],
+  "section_path_text": "The Light End Of The Barrel 1",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Light End Of The Barrel\nIf you look up the definition of \"condensate\", it quickly becomes clear that it is not a very well-defined commodity. Condensates can be pumped in its liquid form from a well ('lease' condensate) or processed and separated from natural gas at gas processing plant ('plant' condensate). It is a very light (>50 API) hydrocarbon that is used as a refinery feedstock to produce light products such as gasoline and jet fuel.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "west_africa",
+    "europe",
+    "japan",
+    "crude_oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 969,
+  "source_path": "reports/poten/2021/poten_2021-06-25_the-light-end-of-the-barrel-1.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2021_06_25_the_light_end_of_the_barrel_1__s01_the_light_end_of_the_barrel",
+      "doc_id": "poten_tankers_no_date_poten_2021_06_25_the_light_end_of_the_barrel_1",
+      "parent_id": "poten_tankers_no_date_poten_2021_06_25_the_light_end_of_the_barrel_1__root",
+      "title": "The Light End Of The Barrel",
+      "section_path": [
+        "The Light End Of The Barrel"
+      ],
+      "section_path_text": "The Light End Of The Barrel",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "If you look up the definition of \"condensate\", it quickly becomes clear that it is not a very well-defined commodity. Condensates can be pumped in its liquid form from a well ('lease' condensate) or processed and separated from natural gas at gas processing plant ('plant' condensate).",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 962,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

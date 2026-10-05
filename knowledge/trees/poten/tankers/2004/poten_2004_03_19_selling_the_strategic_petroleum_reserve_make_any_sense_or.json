@@ -1,0 +1,236 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2004_03_19_selling_the_strategic_petroleum_reserve_make_any_sense_or__root",
+  "doc_id": "poten_tankers_no_date_poten_2004_03_19_selling_the_strategic_petroleum_reserve_make_any_sense_or",
+  "parent_id": null,
+  "title": "Selling the Strategic Petroleum Reserve Make Any Sense or Cents?",
+  "section_path": [
+    "Selling the Strategic Petroleum Reserve Make Any Sense or Cents?"
+  ],
+  "section_path_text": "Selling the Strategic Petroleum Reserve Make Any Sense or Cents?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "This week the US Senate voted to sell some of the oil from the Strategic Petroleum Reserve and use the money for homeland security programs. Members of Congress in both houses debated the issue and discussed whether oil in the ground is more important than cash in the bank. The current reserves hold 648 million barrels of oil in salt domes offshore from the US Gulf.",
+  "keywords": [
+    "aframax",
+    "brazil",
+    "us_gulf",
+    "crude_oil",
+    "spr",
+    "imports",
+    "crude",
+    "oil",
+    "down",
+    "growing",
+    "top",
+    "venezuela"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 658,
+  "source_path": "reports/poten/2004/poten_2004-03-19_selling-the-strategic-petroleum-reserve-make-any-sense-or.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_03_19_selling_the_strategic_petroleum_reserve_make_any_sense_or__s01_make_any_sense_or_cents",
+      "doc_id": "poten_tankers_no_date_poten_2004_03_19_selling_the_strategic_petroleum_reserve_make_any_sense_or",
+      "parent_id": "poten_tankers_no_date_poten_2004_03_19_selling_the_strategic_petroleum_reserve_make_any_sense_or__root",
+      "title": "Make Any Sense or Cents?",
+      "section_path": [
+        "Make Any Sense or Cents?"
+      ],
+      "section_path_text": "Make Any Sense or Cents?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This week the US Senate voted to sell some of the oil from the Strategic Petroleum Reserve and use the money for homeland security programs. Members of Congress in both houses debated the issue and discussed whether oil in the ground is more important than cash in the bank.",
+      "keywords": [
+        "us_gulf",
+        "crude_oil",
+        "oil",
+        "million",
+        "another",
+        "bank.",
+        "barrels",
+        "barrels."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 96,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_03_19_selling_the_strategic_petroleum_reserve_make_any_sense_or__s02_us_top_importers",
+      "doc_id": "poten_tankers_no_date_poten_2004_03_19_selling_the_strategic_petroleum_reserve_make_any_sense_or",
+      "parent_id": "poten_tankers_no_date_poten_2004_03_19_selling_the_strategic_petroleum_reserve_make_any_sense_or__root",
+      "title": "US Top Importers",
+      "section_path": [
+        "US Top Importers"
+      ],
+      "section_path_text": "US Top Importers",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The listing on the next page contains America's top importers as of January 2004. The top two are non-OPEC producers (Mexico and Canada), which would be ranked as the most secure sources of imported oil.",
+      "keywords": [
+        "crude_oil",
+        "top",
+        "imports",
+        "america",
+        "april",
+        "are",
+        "barrel",
+        "beginning"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 98,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_03_19_selling_the_strategic_petroleum_reserve_make_any_sense_or__s03_country",
+      "doc_id": "poten_tankers_no_date_poten_2004_03_19_selling_the_strategic_petroleum_reserve_make_any_sense_or",
+      "parent_id": "poten_tankers_no_date_poten_2004_03_19_selling_the_strategic_petroleum_reserve_make_any_sense_or__root",
+      "title": "Country",
+      "section_path": [
+        "Country"
+      ],
+      "section_path_text": "Country",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "jan-04"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_03_19_selling_the_strategic_petroleum_reserve_make_any_sense_or__s04_saudi_arabia",
+      "doc_id": "poten_tankers_no_date_poten_2004_03_19_selling_the_strategic_petroleum_reserve_make_any_sense_or",
+      "parent_id": "poten_tankers_no_date_poten_2004_03_19_selling_the_strategic_petroleum_reserve_make_any_sense_or__root",
+      "title": "SAUDI ARABIA",
+      "section_path": [
+        "SAUDI ARABIA"
+      ],
+      "section_path_text": "SAUDI ARABIA",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_03_19_selling_the_strategic_petroleum_reserve_make_any_sense_or__s05_venezuela",
+      "doc_id": "poten_tankers_no_date_poten_2004_03_19_selling_the_strategic_petroleum_reserve_make_any_sense_or",
+      "parent_id": "poten_tankers_no_date_poten_2004_03_19_selling_the_strategic_petroleum_reserve_make_any_sense_or__root",
+      "title": "VENEZUELA",
+      "section_path": [
+        "VENEZUELA"
+      ],
+      "section_path_text": "VENEZUELA",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "1,362 NIGERIA 923 IRAQ 578 ANGOLA 277 COLOMBIA 276 KUWAIT 238 ECUADOR 187 NORWAY 149 UNITED KINGDOM 126",
+      "keywords": [
+        "angola",
+        "colombia",
+        "ecuador",
+        "iraq",
+        "kingdom",
+        "kuwait",
+        "nigeria",
+        "norway"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 43,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_03_19_selling_the_strategic_petroleum_reserve_make_any_sense_or__s06_algeria",
+      "doc_id": "poten_tankers_no_date_poten_2004_03_19_selling_the_strategic_petroleum_reserve_make_any_sense_or",
+      "parent_id": "poten_tankers_no_date_poten_2004_03_19_selling_the_strategic_petroleum_reserve_make_any_sense_or__root",
+      "title": "ALGERIA",
+      "section_path": [
+        "ALGERIA"
+      ],
+      "section_path_text": "ALGERIA",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "",
+      "keywords": [
+        "brazil",
+        "gabon"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_03_19_selling_the_strategic_petroleum_reserve_make_any_sense_or__s07_growing_u_s_imports",
+      "doc_id": "poten_tankers_no_date_poten_2004_03_19_selling_the_strategic_petroleum_reserve_make_any_sense_or",
+      "parent_id": "poten_tankers_no_date_poten_2004_03_19_selling_the_strategic_petroleum_reserve_make_any_sense_or__root",
+      "title": "Growing U.S. Imports",
+      "section_path": [
+        "Growing U.S. Imports"
+      ],
+      "section_path_text": "Growing U.S. Imports",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "The US has been experiencing growing oil consumption and declining domestic production resulting in expanding imports since the 1950s. The chart on the next page illustrates the growing gap between consumption and production since 1965.",
+      "keywords": [
+        "us_gulf",
+        "crude_oil",
+        "consumption",
+        "growing",
+        "production",
+        "domestic",
+        "oil",
+        "since"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 98,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_03_19_selling_the_strategic_petroleum_reserve_make_any_sense_or__s08_imports",
+      "doc_id": "poten_tankers_no_date_poten_2004_03_19_selling_the_strategic_petroleum_reserve_make_any_sense_or",
+      "parent_id": "poten_tankers_no_date_poten_2004_03_19_selling_the_strategic_petroleum_reserve_make_any_sense_or__root",
+      "title": "Imports",
+      "section_path": [
+        "Imports"
+      ],
+      "section_path_text": "Imports",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "The following table compares current imports from select nations with the 648 million barrels of crude in the SPR to see how long the SPR can substitute for cessation of exports from the indicated nations. 000 Bpd Equivalent Days in SPR Saudi Arabia 1,432 453 Venezuela 1,362 476 Nigeria 932 695 Venezuela & Nigeria 2,294 282 Saudi Arabia & Venezuela 2,794 231 All Three Exporters 3,726 174 We estimate that the SPR fill rate of slightly over 100,000 bpd accounts for 10% of the average number of Aframax fixtures in the Caribbean.",
+      "keywords": [
+        "aframax",
+        "brazil",
+        "spr",
+        "crude",
+        "bpd",
+        "down",
+        "venezuela",
+        "arabia"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 260,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

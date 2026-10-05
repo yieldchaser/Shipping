@@ -235,7 +235,7 @@ numeric_observations:
     passed, scrubber and shaft generator fitted.'
   unit: usd
   values:
-  - 24500.0
+  - 24.5
 - section: Market Report Content
   section_type: null
   source_line: M/V LC MILADY (93,758 dwt, blt 2011 Shanhaiguan/China, RI ss/dd due
@@ -351,7 +351,7 @@ numeric_observations:
     range.'
   unit: usd
   values:
-  - 42800.0
+  - 42.8
 - section: Market Report Content
   section_type: null
   source_line: '- Note: offers invited 9th September 2026, both vsls fitted in last
@@ -397,7 +397,7 @@ numeric_observations:
   values:
   - 82258.0
   - 2022.0
-  - 37500.0
+  - 37.5
 - section: Market Report Content
   section_type: null
   source_line: M/V GENEVA STAR (75,843 dwt, blt 2009 Tsuneishi/Japan, NK ss due 01/2029
@@ -450,7 +450,7 @@ numeric_observations:
   - 5.0
   - 5.0
   - 4.0
-  - 30500.0
+  - 30.5
 - section: Market Report Content
   section_type: null
   source_line: CR, B&W 6S50MC-C
@@ -478,7 +478,7 @@ numeric_observations:
   source_line: 30.5t CR, B&W 6S50MC-C)
   unit: null
   values:
-  - 30500.0
+  - 30.5
   - 6.0
   - 50.0
 - section: Market Report Content
@@ -517,7 +517,7 @@ numeric_observations:
   values:
   - 6.0
   - 42.0
-  - 11200.0
+  - 11.2
 - section: Market Report Content
   section_type: null
   source_line: M/V PROPEL PROGRESS (30,848 dwt, blt 1997 Minaminippon/Japan, NK ss/dd
@@ -719,7 +719,7 @@ numeric_observations:
   source_line: '- Sold for $ 49.4 mill, note: coiled aframax.'
   unit: usd
   values:
-  - 49400.0
+  - 49.4
 - section: Market Report Content
   section_type: null
   source_line: M/T KATHERINE LADY (49,999 dwt, blt 2022 HMD/Korea, LR ss/dd due 01/2027,
@@ -784,7 +784,7 @@ numeric_observations:
   source_line: IMO II) - Sold for $ 19.5 mill.
   unit: usd
   values:
-  - 19500.0
+  - 19.5
 - section: Market Report Content
   section_type: null
   source_line: M/T AL-AMERAT (51,022 dwt, blt 2008 STX/Korea, LR ss due 12/2028 dd
@@ -803,7 +803,7 @@ numeric_observations:
   source_line: 'pumps, igs, cow, IMO II) - Sold for $ 17.5 mill, note: methanol.'
   unit: usd
   values:
-  - 17500.0
+  - 17.5
 - section: Market Report Content
   section_type: null
   source_line: M/T BS HAIPHONG (12,992 dwt, blt 2024 Pha Rung /Vietnam, KR ss due
@@ -873,7 +873,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/lion_shipbrokers_25_09_2026_lion_shipbrokers_weekly_market_report_week_39_2026.md
+source_path: reports/broker_reports/2026/carriers/lion_shipbrokers_25_09_2026_lion_shipbrokers_weekly_market_report_week_39_2026.md
 source_stem: lion_shipbrokers_25_09_2026_lion_shipbrokers_weekly_market_report_week_39_2026
 source_url: https://www.hellenicshippingnews.com/lion-shipbrokers-weekly-market-report-week-39-2026/
 summary: 'Lion Shipbrokers Weekly Market Report, Week 39 2026

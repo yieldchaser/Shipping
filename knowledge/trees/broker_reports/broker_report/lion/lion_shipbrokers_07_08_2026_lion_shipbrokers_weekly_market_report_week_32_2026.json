@@ -1,0 +1,426 @@
+{
+  "node_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026__root",
+  "doc_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026",
+  "parent_id": null,
+  "title": "Lion Shipbrokers Weekly Market Report - Week 32, 2026",
+  "section_path": [
+    "Lion Shipbrokers Weekly Market Report - Week 32, 2026"
+  ],
+  "section_path_text": "Lion Shipbrokers Weekly Market Report - Week 32, 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Lion Shipbrokers Weekly Market Report, Week 32 2026\n**Broker**: Lion Shipbrokers\n**Published Date**: 07/08/2026\n**Source URL**: [https://www.hellenicshippingnews.com/lion-shipbrokers-weekly-market-report-week-32-2026/](https://www.hellenicshippingnews.com/lion-shipbrokers-weekly-market-report-week-32-2026/)\n\nMarket Report Content\nLION SHIPBROKERS\nWEEKLY REPORT\nShould you have any comments or questions about the content of our report or require our services, please contact:\nLION SHIPBROKERS LIMITED\nTel: +30 210 4122965 (2 lines), 210 8992792 (2 lines)\nDry Cargo Chartering : chartering@lionshipbrokers.gr\nContainer Chartering : container@lionshipbrokers.gr\nSale & Purchase/Demolition : snp@lionshipbrokers.gr\nResearch & Valuations : research@lionshipbrokers.gr\nVisit our homepage at www.lionshipbrokers.com for more details\nWEEK 32 - 07 AUGUST 2026\nQuote of the week:\n\"You never get a second chance to make a first impression.\"\nUnknown. MARKET COMMENTARY\nBulkers: The Baltic Dry Index closed today to a peak of 3,089 points, reflecting a 13% increase\ncompared to last Friday's closure of 2,732 points. Despite August summer holidays kicking in, the S+P\nactivity remains strong, with another busy",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "container",
+    "china",
+    "europe",
+    "india",
+    "japan",
+    "grain",
+    "bauxite"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 4490,
+  "source_path": "reports/broker_reports/2026/lion/lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026__s01_lion_shipbrokers_weekly_market_report_week_32_07_august_2026",
+      "doc_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026",
+      "parent_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026__root",
+      "title": "Lion Shipbrokers Weekly Market Report - Week 32 (07 AUGUST 2026)",
+      "section_path": [
+        "Lion Shipbrokers Weekly Market Report - Week 32 (07 AUGUST 2026)"
+      ],
+      "section_path_text": "Lion Shipbrokers Weekly Market Report - Week 32 (07 AUGUST 2026)",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: Lion Shipbrokers Limited (Athens, Greece)\n**Issue Date**: 2026-08-07 | **Report Week**: Week 32, 2026",
+      "keywords": [
+        "athens",
+        "broker",
+        "date",
+        "greece",
+        "issue",
+        "limited",
+        "lion",
+        "shipbrokers"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 37,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026__s02_quote_of_the_week",
+      "doc_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026",
+      "parent_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026__root",
+      "title": "Quote of the Week",
+      "section_path": [
+        "Quote of the Week"
+      ],
+      "section_path_text": "Quote of the Week",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "> \"You never get a second chance to make a first impression.\"\n>\n> - **Unknown.**",
+      "keywords": [
+        "chance",
+        "first",
+        "get",
+        "impression.",
+        "make",
+        "never",
+        "second",
+        "unknown."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 21,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026__s03_tankers",
+      "doc_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026",
+      "parent_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026__root",
+      "title": "Tankers",
+      "section_path": [
+        "Tankers"
+      ],
+      "section_path_text": "Tankers",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "VLCC spree this week as we recorded eight units changing hands, mainly to Emirati buyers.",
+      "keywords": [
+        "vlcc",
+        "buyers.",
+        "changing",
+        "eight",
+        "emirati",
+        "hands",
+        "mainly",
+        "recorded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 20,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026__s04_bulkers",
+      "doc_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026",
+      "parent_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026__root",
+      "title": "Bulkers",
+      "section_path": [
+        "Bulkers"
+      ],
+      "section_path_text": "Bulkers",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The Baltic Dry Index closed today to a peak of 3,089 points, reflecting a 13% increase\ncompared to last Friday's closure of 2,732 points. Despite August summer holidays kicking in, the S+P\nactivity remains strong, with another busy week recording 10 transactions (mainly larger tonnage),\ncomprising 2 capes, 4 kamsarmaxes, 1 Panamax, 2 Supramaxes & 1 Handysize bulk carriers.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "transactions",
+        "activity",
+        "additional",
+        "another"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 127,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026__s05_demolition",
+      "doc_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026",
+      "parent_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026__root",
+      "title": "Demolition",
+      "section_path": [
+        "Demolition"
+      ],
+      "section_path_text": "Demolition",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The Subcontinent markets are overall healthy; Pakistan is the hottest market due to local\nsteel market improvement. Indian local steel market is stabilizing while Bangladesh is softening due to\nlocal steel market getting slower.",
+      "keywords": [
+        "europe",
+        "india",
+        "steel",
+        "local",
+        "due",
+        "are",
+        "bangladesh",
+        "below"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 60,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026__s06_lion_s_demometer_usd_lt",
+      "doc_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026",
+      "parent_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026__root",
+      "title": "Lion's Demometer (USD $ / LT)",
+      "section_path": [
+        "Lion's Demometer (USD $ / LT)"
+      ],
+      "section_path_text": "Lion's Demometer (USD $ / LT)",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Country | Bulker ($/LT) | Tanker ($/LT) | Cont / Tween ($/LT) | Trend\n:--- | :---: | :---: | :---: | :---:\n**Turkey** | 290 | 300 | 310 | Stable\n**Pakistan** | 490 | 500 | 510 | Positive\n**India** | 420-430 | 440 | 460-470 | Stable\n**Bangladesh** | 470-480 | 505-515 | 530 | Steady",
+      "keywords": [
+        "india",
+        "stable",
+        "bangladesh",
+        "bulker",
+        "cont",
+        "country",
+        "pakistan",
+        "positive"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 113,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026__s07_bulkers",
+      "doc_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026",
+      "parent_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026__root",
+      "title": "Bulkers",
+      "section_path": [
+        "Bulkers"
+      ],
+      "section_path_text": "Bulkers",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details\n:--- | ---: | :---: | :--- | :--- | :--- | :---\n**M/V ORANGE TIGER** | 181,395 | 2011 | Imabari / Japan | $36.5M | Greek buyers -Note: almost same level as her exact sister FRONTIER GARLAND was sold ($ 36 | almost same level as her exact sister FRONTIER GARLAND was sold ($ 36.4 mill) in March 2026. **M/V CAPE CONDOR** | 180,253 | 2010 | Koyo / Japan | $39.0M | Undisclosed | very firm price compared to one-year younger ORANGE TIGER sale above.",
+      "keywords": [
+        "capesize",
+        "china",
+        "europe",
+        "india",
+        "japan",
+        "m/v",
+        "dwt",
+        "blt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 760,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026__s08_tankers",
+      "doc_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026",
+      "parent_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026__root",
+      "title": "Tankers",
+      "section_path": [
+        "Tankers"
+      ],
+      "section_path_text": "Tankers",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details\n:--- | ---: | :---: | :--- | :--- | :--- | :---\n**M/T SEAPASSION** | 299,271 | 2017 | HHI / Korea | $125.0M | Undisclosed | scrubber fitted. **M/T FRONT VEFSNA** | 297,638 | 2017 | HHIC / Philippines | $135.0M | Undisclosed | -\n**M/T FRONT HUMBER** | 298,767 | 2017 | Hyundai Samho / Korea | $135.0M | Undisclosed | Sold en bloc for $ 135 mill each.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "steel",
+        "m/t",
+        "undisclosed",
+        "korea",
+        "mill.",
+        "delta"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 494,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026__s09_container_mpp_tween",
+      "doc_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026",
+      "parent_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026__root",
+      "title": "Container / MPP / Tween",
+      "section_path": [
+        "Container / MPP / Tween"
+      ],
+      "section_path_text": "Container / MPP / Tween",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Vessel | DWT | Built | Yard | Price | Buyer | Comments & Details\n:--- | ---: | :---: | :--- | :--- | :--- | :---\n**C/V CALANDRA** | 41,411 | 2010 | GWS / China | $26.5M | Swiss buyers | Sold for $ 26.5 mill to Swiss buyers. **C/V NORDPUMA** | 23,629 | 2015 | Ouhua / China | $31.0M | Undisclosed | Sold for $ 31 mill.",
+      "keywords": [
+        "china",
+        "c/v",
+        "sold",
+        "swiss",
+        "built",
+        "buyer",
+        "buyers",
+        "buyers."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 123,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026__s10_demolition_sales",
+      "doc_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026",
+      "parent_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026__root",
+      "title": "Demolition Sales",
+      "section_path": [
+        "Demolition Sales"
+      ],
+      "section_path_text": "Demolition Sales",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "Vessel | Type | DWT | LDT | Built | Yard | Price ($/LT) | Destination | Comments / Terms\n:--- | :--- | ---: | ---: | :---: | :--- | :--- | :--- | :---\n**M/T DOUBLE IN** | Gas | 56,864 | 18,859 | 1992 | NKK Corp / Japan | $445/lt | Subcontinent | gas carrier. **M/T FT ISLAND** | Tankers | 311,189 | 41,083 | 1998 | HHI / Korea | $390/lt | India | old sale concluded few months ago, arrived Alang last week.",
+      "keywords": [
+        "container",
+        "europe",
+        "india",
+        "japan",
+        "gas",
+        "demo",
+        "m/t",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 259,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026__s11_bulkers",
+      "doc_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026",
+      "parent_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026__root",
+      "title": "Bulkers",
+      "section_path": [
+        "Bulkers"
+      ],
+      "section_path_text": "Bulkers",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "- **M/V ORANGE TIGER**: M/V ORANGE TIGER (181,395 dwt, blt 2011 Imabari/Japan, NK ss due 11/2030 dd due 09/2028, 9 ho/9 ha, B&W 6S70MC-C) - Sold for $ 36.5 mill to Greek buyers -Note: almost same level as her exact sister FRONTIER GARLAND was sold ($ 36.4 mill) in March 2026. - **M/V CAPE CONDOR**: M/V CAPE CONDOR (180,253 dwt, blt 2010 Koyo/Japan, AB ss due 04/2030 dd due 04/2028, 9 ho/9 ha, B&W 6S70MC-C) - Sold for $ 39 mill, scrubber fitted, note: very firm price compared to one-year younger ORANGE TIGER sale above.",
+      "keywords": [
+        "capesize",
+        "china",
+        "europe",
+        "india",
+        "japan",
+        "grain",
+        "bauxite",
+        "m/v"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1201,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026__s12_container_mpp_tween",
+      "doc_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026",
+      "parent_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026__root",
+      "title": "Container / MPP / Tween",
+      "section_path": [
+        "Container / MPP / Tween"
+      ],
+      "section_path_text": "Container / MPP / Tween",
+      "level": 1,
+      "ordinal": 12,
+      "summary": "- **C/V CALANDRA**: C/V CALANDRA (41,411 dwt, blt 2010 GWS/China, DNV ss due 11/2027 dd due 11/2025, teu 2794, reefers 506, FS Ice Class II, Wartsila 8RT-flex68, gearless) - Sold for $ 26.5 mill to Swiss buyers. - **C/V NORDPUMA**: C/V NORDPUMA (23,629 dwt, blt 2015 Ouhua/China, LR ss due 01/2030 dd due 12/2027, teu 1756, reefers 350, B&W 6S60ME-B8, gearless) - Sold for $ 31 mill.",
+      "keywords": [
+        "container",
+        "china",
+        "c/v",
+        "due",
+        "blt",
+        "calandra",
+        "dwt",
+        "gearless"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 171,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026__s13_tankers",
+      "doc_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026",
+      "parent_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026__root",
+      "title": "Tankers",
+      "section_path": [
+        "Tankers"
+      ],
+      "section_path_text": "Tankers",
+      "level": 1,
+      "ordinal": 13,
+      "summary": "- **M/T SEAPASSION**: M/T SEAPASSION (299,271 dwt, blt 2017 HHI/Korea, ABS ss/dd due 07/2027) - Sold for $ 125 mill to U.A.E. - **M/T FRONT VEFSNA**: M/T FRONT VEFSNA (297,638 dwt, blt 2017 HHIC/Philippines, DNV ss/dd due 10/2027)\n- **M/T FRONT HUMBER**: M/T FRONT HUMBER (298,767 dwt, blt 2017 Hyundai Samho/Korea, DNV ss due 01/2027 dd due 11/2026) - Sold en bloc for $ 135 mill each.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "steel",
+        "m/t",
+        "due",
+        "blt",
+        "dwt",
+        "delta"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 713,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026__s14_demolition",
+      "doc_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026",
+      "parent_id": "broker_reports_broker_report_no_date_lion_shipbrokers_07_08_2026_lion_shipbrokers_weekly_market_report_week_32_2026__root",
+      "title": "Demolition",
+      "section_path": [
+        "Demolition"
+      ],
+      "section_path_text": "Demolition",
+      "level": 1,
+      "ordinal": 14,
+      "summary": "- **M/T DOUBLE IN**: M/T DOUBLE IN (LDT 18859, 56864 dwt, blt 1992 NKK Corp/Japan, LR ss due 03/2027 dd due 12/2026, 8 x pumps, igs) - Demo for $ 445 per LT including 700t - 800t bunkers rob, note: gas carrier. - **M/T FT ISLAND**: M/T FT ISLAND (LDT 41083, 311189 dwt, blt 1998 HHI/Korea) - Demo for $ 390 per LT to INDIA, note: old sale concluded few months ago, arrived Alang last week.",
+      "keywords": [
+        "container",
+        "india",
+        "japan",
+        "gas",
+        "blt",
+        "demo",
+        "dwt",
+        "ldt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 308,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2022_08_12_diverging_views__root",
+  "doc_id": "poten_tankers_no_date_poten_2022_08_12_diverging_views",
+  "parent_id": null,
+  "title": "Diverging Views",
+  "section_path": [
+    "Diverging Views"
+  ],
+  "section_path_text": "Diverging Views",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The IEA and OPEC have a different oil market outlook\nEvery month, three widely followed oil prognosticators give their opinion on the current and future oil balances. Energy Information Administration (EIA) usually publishes its Short-Term Energy Outlook (STEO) first, followed by the Oil Market Report from the IEA and the OPEC Monthly Oil Market Report. Comparing the absolute numbers for oil demand and supply of these publications is not always possible (or useful), because they use slightly different definitions.",
+  "keywords": [
+    "china",
+    "brazil",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "oil",
+    "opec",
+    "demand",
+    "iea",
+    "growth",
+    "different"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 805,
+  "source_path": "reports/poten/2022/poten_2022-08-12_diverging-views.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_08_12_diverging_views__s01_the_iea_and_opec_have_a_different_oil_market_outlook",
+      "doc_id": "poten_tankers_no_date_poten_2022_08_12_diverging_views",
+      "parent_id": "poten_tankers_no_date_poten_2022_08_12_diverging_views__root",
+      "title": "The IEA and OPEC have a different oil market outlook",
+      "section_path": [
+        "The IEA and OPEC have a different oil market outlook"
+      ],
+      "section_path_text": "The IEA and OPEC have a different oil market outlook",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Every month, three widely followed oil prognosticators give their opinion on the current and future oil balances. Energy Information Administration (EIA) usually publishes its Short-Term Energy Outlook (STEO) first, followed by the Oil Market Report from the IEA and the OPEC Monthly Oil Market Report.",
+      "keywords": [
+        "china",
+        "brazil",
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "oil",
+        "opec"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 792,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

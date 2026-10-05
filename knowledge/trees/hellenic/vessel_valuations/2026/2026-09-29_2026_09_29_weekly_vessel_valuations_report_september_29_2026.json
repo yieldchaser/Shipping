@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_vessel_valuations_2026-09-29_2026_09_29_weekly_vessel_valuations_report_september_29_2026__root",
+  "doc_id": "hellenic_vessel_valuations_2026-09-29_2026_09_29_weekly_vessel_valuations_report_september_29_2026",
+  "parent_id": null,
+  "title": "Weekly Vessel Valuations Report, September 29 2026",
+  "section_path": [
+    "Weekly Vessel Valuations Report, September 29 2026"
+  ],
+  "section_path_text": "Weekly Vessel Valuations Report, September 29 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBulkers\nBulker S&P values held stable across the board this week. Handy resales drifted downwardsin response to soft pricing for the Sider Bellezza. Capesize Houheng 5 and Houheng 6 (262,000 DWT, Feb/Sep 2017, Guangzhou Shipyard International) sold to an undisclosed buyer for USD 144 mil, VV Value USD 151.28 mil.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "handysize",
+    "suezmax",
+    "aframax",
+    "container",
+    "usd",
+    "mil",
+    "mil.",
+    "sold",
+    "value",
+    "dwt"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 852,
+  "source_path": "reports/hellenic/vessel_valuations/2026/2026-09-29_weekly-vessel-valuations-report-september-29-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-september-29-2026",
+  "children": [
+    {
+      "node_id": "hellenic_vessel_valuations_2026-09-29_2026_09_29_weekly_vessel_valuations_report_september_29_2026__s01_main",
+      "doc_id": "hellenic_vessel_valuations_2026-09-29_2026_09_29_weekly_vessel_valuations_report_september_29_2026",
+      "parent_id": "hellenic_vessel_valuations_2026-09-29_2026_09_29_weekly_vessel_valuations_report_september_29_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Bulkers\nBulker S&P values held stable across the board this week. Handy resales drifted downwardsin response to soft pricing for the Sider Bellezza.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "handysize",
+        "suezmax",
+        "aframax",
+        "container",
+        "usd",
+        "mil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 480,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2026-09-29_2026_09_29_weekly_vessel_valuations_report_september_29_2026__s02_linked_asset_2026_09_29_weekly_vessel_valuations_report_september_29_2026_29092026_48378958909d_jpg",
+      "doc_id": "hellenic_vessel_valuations_2026-09-29_2026_09_29_weekly_vessel_valuations_report_september_29_2026",
+      "parent_id": "hellenic_vessel_valuations_2026-09-29_2026_09_29_weekly_vessel_valuations_report_september_29_2026__root",
+      "title": "Linked asset: 2026-09-29_weekly-vessel-valuations-report-september-29-2026_29092026_48378958909d.jpg",
+      "section_path": [
+        "Linked asset: 2026-09-29_weekly-vessel-valuations-report-september-29-2026_29092026_48378958909d.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-09-29_weekly-vessel-valuations-report-september-29-2026_29092026_48378958909d.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-09-29_weekly-vessel-valuations-report-september-29-2026_29092026_48378958909d.jpg\n\nLinked image asset: 2026-09-29_weekly-vessel-valuations-report-september-29-2026_29092026_48378958909d.jpg\n\nImage metadata: JPEG 600x268 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\n© vesselsvalue\n29 Segrember 2026 VV Mini Matrix - Weekly Change\nTankers Bete Comtainery\nod vice - ae - ao - m- - Homty Pot Pees - Hemty -\nte ee ee ee\nz a - mm ™ \" = Ls = Boal os ™ no\nCage ature eraecea| Ponce ante ant ein) (amie ee cc wrk\n. ad - -m head baal - Ld \"~ = Beal as ™ ue\nwy mm fam ee OK am | | wom a\n* Dy - \" bal - \" ~ = ~~ < 1m neo\nCad \"~s Sad - _ - _ wm -_ vs died \"- oad\n1.",
+      "keywords": [
+        "asset",
+        "cad",
+        "image",
+        "neo",
+        "aad",
+        "amie",
+        "ant",
+        "ante"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 332,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

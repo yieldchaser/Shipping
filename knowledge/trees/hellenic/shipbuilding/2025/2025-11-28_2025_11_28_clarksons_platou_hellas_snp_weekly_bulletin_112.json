@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2304,
-  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-11-28_clarksons-platou-hellas-snp-weekly-bulletin-112.html",
+  "token_count": 2328,
+  "source_path": "reports/hellenic/shipbuilding/2025/2025-11-28_clarksons-platou-hellas-snp-weekly-bulletin-112.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-112",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-11-28_clarksons-platou-hellas-snp-weekly-bulletin-112_weekly-sales-28th-nov-2025_3697ac0b660c.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-11-28_clarksons-platou-hellas-snp-weekly-bulletin-112_weekly-sales-28th-nov-2025_3697ac0b660c.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nDry Cargo\nS&P market remained active this week, maintaining its recent momentum and asset values remaining\nfirm.",
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-11-28_clarksons-platou-hellas-snp-weekly-bulletin-112_weekly-sales-28th-nov-2025_3697ac0b660c.pdf\n\n### Clarkson Hellas Ltd. # Desk Talk\n\n## Dry Cargo\n\nS&P market remained active this week, maintaining its recent momentum and asset values remaining firm.",
       "keywords": [
         "capesize",
         "supramax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1760,
+      "token_count": 1784,
       "section_type": "linked_pdf",
       "children": []
     }

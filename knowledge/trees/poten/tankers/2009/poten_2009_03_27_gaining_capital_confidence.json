@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2009_03_27_gaining_capital_confidence__root",
+  "doc_id": "poten_tankers_no_date_poten_2009_03_27_gaining_capital_confidence",
+  "parent_id": null,
+  "title": "Gaining Capital Confidence",
+  "section_path": [
+    "Gaining Capital Confidence"
+  ],
+  "section_path_text": "Gaining Capital Confidence",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Gaining Capital Confidence\nGaining Capital Confidence 3 rd Annual Capital Link Forum Thursday saw the 3 rd Annual Capital Link Forum - Invest in International Shipping at the Metropolitan Club in New York City. The single day affair was focused on attracting investors to the shipping industry and discussing the opportunities for fresh capital. Presenters included shipowners from all shipping sectors, banks, strategists and prominent members of the industry.",
+  "keywords": [
+    "meg",
+    "crude_oil",
+    "products",
+    "mr.",
+    "capital",
+    "companies",
+    "may",
+    "panel",
+    "ceo",
+    "are",
+    "asset",
+    "bugbee"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 867,
+  "source_path": "reports/poten/2009/poten_2009-03-27_gaining-capital-confidence.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_03_27_gaining_capital_confidence__s01_gaining_capital_confidence",
+      "doc_id": "poten_tankers_no_date_poten_2009_03_27_gaining_capital_confidence",
+      "parent_id": "poten_tankers_no_date_poten_2009_03_27_gaining_capital_confidence__root",
+      "title": "Gaining Capital Confidence",
+      "section_path": [
+        "Gaining Capital Confidence"
+      ],
+      "section_path_text": "Gaining Capital Confidence",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Gaining Capital Confidence 3 rd Annual Capital Link Forum Thursday saw the 3 rd Annual Capital Link Forum - Invest in International Shipping at the Metropolitan Club in New York City. The single day affair was focused on attracting investors to the shipping industry and discussing the opportunities for fresh capital.",
+      "keywords": [
+        "capital",
+        "forum",
+        "link",
+        "all",
+        "annual",
+        "companies",
+        "state",
+        "year"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 238,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_03_27_gaining_capital_confidence__s02_chart_pti_vs_equity_index",
+      "doc_id": "poten_tankers_no_date_poten_2009_03_27_gaining_capital_confidence",
+      "parent_id": "poten_tankers_no_date_poten_2009_03_27_gaining_capital_confidence__root",
+      "title": "Chart: PTI vs Equity Index",
+      "section_path": [
+        "Chart: PTI vs Equity Index"
+      ],
+      "section_path_text": "Chart: PTI vs Equity Index",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "While the PTI may be hovering at low levels, the Index has been known to change direction on a dime. In the face of today's weaker rate environment, the panel of tanker owners reiterated their individual abilities to weather the current storm.",
+      "keywords": [
+        "abilities",
+        "change",
+        "current",
+        "dime.",
+        "direction",
+        "environment",
+        "face",
+        "hovering"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 48,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_03_27_gaining_capital_confidence__s03_the_great_tanker_debate",
+      "doc_id": "poten_tankers_no_date_poten_2009_03_27_gaining_capital_confidence",
+      "parent_id": "poten_tankers_no_date_poten_2009_03_27_gaining_capital_confidence__root",
+      "title": "The Great Tanker Debate",
+      "section_path": [
+        "The Great Tanker Debate"
+      ],
+      "section_path_text": "The Great Tanker Debate",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The tanker panel was moderated by Mr. Robert Bugbee of the Scorpio Group and featured Mr.",
+      "keywords": [
+        "meg",
+        "crude_oil",
+        "products",
+        "mr.",
+        "ceo",
+        "are",
+        "asset",
+        "bugbee"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 383,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_03_27_gaining_capital_confidence__s04_stocking_the_piggy_bank",
+      "doc_id": "poten_tankers_no_date_poten_2009_03_27_gaining_capital_confidence",
+      "parent_id": "poten_tankers_no_date_poten_2009_03_27_gaining_capital_confidence__root",
+      "title": "Stocking the Piggy Bank",
+      "section_path": [
+        "Stocking the Piggy Bank"
+      ],
+      "section_path_text": "Stocking the Piggy Bank",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Even in this period of tightened credit, members of the tanker panel emphasized how fortunate they have been to be able to pay dividends. Although dividends may be reduced at some point, retained cash can create the catalyst for higher growth over time.",
+      "keywords": [
+        "credit",
+        "can",
+        "could",
+        "dividends.",
+        "how",
+        "just",
+        "may",
+        "panel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 172,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

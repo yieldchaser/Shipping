@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 954,
-  "source_path": "corpus/02-hellenic/vessel_valuations/2026/2026-06-23_weekly-vessel-valuations-report-june-23-2026.html",
+  "token_count": 912,
+  "source_path": "reports/hellenic/vessel_valuations/2026/2026-06-23_weekly-vessel-valuations-report-june-23-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-june-23-2026",
   "children": [
     {
@@ -54,22 +54,22 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 588,
+      "token_count": 554,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_vessel_valuations_2026-06-23_2026_06_23_weekly_vessel_valuations_report_june_23_2026__s02_linked_asset_2026_06_23_weekly_vessel_valuations_report_june_23_2026_img1_23620253_d34d0de4d8f4_jpg",
+      "node_id": "hellenic_vessel_valuations_2026-06-23_2026_06_23_weekly_vessel_valuations_report_june_23_2026__s02_linked_asset_2026_06_23_weekly_vessel_valuations_report_june_23_2026_23620253_d34d0de4d8f4_jpg",
       "doc_id": "hellenic_vessel_valuations_2026-06-23_2026_06_23_weekly_vessel_valuations_report_june_23_2026",
       "parent_id": "hellenic_vessel_valuations_2026-06-23_2026_06_23_weekly_vessel_valuations_report_june_23_2026__root",
-      "title": "Linked asset: 2026-06-23_weekly-vessel-valuations-report-june-23-2026_img1_23620253_d34d0de4d8f4.jpg",
+      "title": "Linked asset: 2026-06-23_weekly-vessel-valuations-report-june-23-2026_23620253_d34d0de4d8f4.jpg",
       "section_path": [
-        "Linked asset: 2026-06-23_weekly-vessel-valuations-report-june-23-2026_img1_23620253_d34d0de4d8f4.jpg"
+        "Linked asset: 2026-06-23_weekly-vessel-valuations-report-june-23-2026_23620253_d34d0de4d8f4.jpg"
       ],
-      "section_path_text": "Linked asset: 2026-06-23_weekly-vessel-valuations-report-june-23-2026_img1_23620253_d34d0de4d8f4.jpg",
+      "section_path_text": "Linked asset: 2026-06-23_weekly-vessel-valuations-report-june-23-2026_23620253_d34d0de4d8f4.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2026/assets/2026-06-23_weekly-vessel-valuations-report-june-23-2026_img1_23620253_d34d0de4d8f4.jpg\n\nLinked image asset: 2026-06-23_weekly-vessel-valuations-report-june-23-2026_img1_23620253_d34d0de4d8f4.jpg\n\nImage metadata: JPEG 600x279 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\n© Vesselsvalue -\n23 June 2026 VV Mink Matrix « Weekly Change\nTeken alkens Comtaieens\nwe ce tot amma tare natant nt\nKraan [axis lirany) lias [lian liax ila\n. wa - oo i Ld] - an Ly \" -_ an ue ee\nmeas em | owe ewe | flo aie\n‘ a - a = cl - \" Lt baad an me 8\nme aN ama\n= nm Lal \" La] cl - \"~ \" bd an us ee\nee ee ee ee ee eee\nne ™ = a] \" \" a bd on ms ne\nee ee ee ee ee ee\n* al -- TO \" - ™ \" \" _ an om Cd\nSee Re rece ee Eee re\n.",
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-06-23_weekly-vessel-valuations-report-june-23-2026_23620253_d34d0de4d8f4.jpg\n\nLinked image asset: 2026-06-23_weekly-vessel-valuations-report-june-23-2026_23620253_d34d0de4d8f4.jpg\n\nImage metadata: JPEG 600x279 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\n© Vesselsvalue -\n23 June 2026 VV Mink Matrix « Weekly Change\nTeken alkens Comtaieens\nwe ce tot amma tare natant nt\nKraan [axis lirany) lias [lian liax ila\n. wa - oo i Ld] - an Ly \" -_ an ue ee\nmeas em | owe ewe | flo aie\n‘ a - a = cl - \" Lt baad an me 8\nme aN ama\n= nm Lal \" La] cl - \"~ \" bd an us ee\nee ee ee ee ee eee\nne ™ = a] \" \" a bd on ms ne\nee ee ee ee ee ee\n* al -- TO \" - ™ \" \" _ an om Cd\nSee Re rece ee Eee re\n.",
       "keywords": [
         "asset",
         "eee",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 321,
+      "token_count": 315,
       "section_type": "linked_image_asset",
       "children": []
     }

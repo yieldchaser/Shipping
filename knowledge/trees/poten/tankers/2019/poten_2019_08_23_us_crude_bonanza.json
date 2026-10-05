@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2019_08_23_us_crude_bonanza__root",
+  "doc_id": "poten_tankers_no_date_poten_2019_08_23_us_crude_bonanza",
+  "parent_id": null,
+  "title": "US Crude Bonanza",
+  "section_path": [
+    "US Crude Bonanza"
+  ],
+  "section_path_text": "US Crude Bonanza",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Crude oil exports are boosting the tanker market\nTwo new export-oriented pipelines that move crude oil from the Permian Basin to Corpus Christi are coming on stream this quarter. Combined, the Epic and Cactus II pipelines will be able to move more than 1 Million barrels per day (Mb/d) to the U.S. Gulf coast with further expansions planned in the coming years.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "atlantic",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "oil",
+    "u.s.",
+    "crude",
+    "mb/d"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1027,
+  "source_path": "reports/poten/2019/poten_2019-08-23_us-crude-bonanza.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_08_23_us_crude_bonanza__s01_u_s_crude_oil_exports_are_boosting_the_tanker_market",
+      "doc_id": "poten_tankers_no_date_poten_2019_08_23_us_crude_bonanza",
+      "parent_id": "poten_tankers_no_date_poten_2019_08_23_us_crude_bonanza__root",
+      "title": "U.S. Crude oil exports are boosting the tanker market",
+      "section_path": [
+        "U.S. Crude oil exports are boosting the tanker market"
+      ],
+      "section_path_text": "U.S. Crude oil exports are boosting the tanker market",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Two new export-oriented pipelines that move crude oil from the Permian Basin to Corpus Christi are coming on stream this quarter. Combined, the Epic and Cactus II pipelines will be able to move more than 1 Million barrels per day (Mb/d) to the U.S.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "atlantic",
+        "west_africa",
+        "europe",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1014,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

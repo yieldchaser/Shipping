@@ -1,0 +1,118 @@
+{
+  "node_id": "hellenic_iron_ore_2026-09-30_2026_09_30_mmi_daily_iron_ore_index_report_september_30_2026__root",
+  "doc_id": "hellenic_iron_ore_2026-09-30_2026_09_30_mmi_daily_iron_ore_index_report_september_30_2026",
+  "parent_id": null,
+  "title": "MMI Daily Iron Ore Index Report September 30 2026",
+  "section_path": [
+    "MMI Daily Iron Ore Index Report September 30 2026"
+  ],
+  "section_path_text": "MMI Daily Iron Ore Index Report September 30 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nToday's prices and today's data point in opposite directions. On prices: the DCE most-traded contract reclaimed 700 at 702.5yuan/mt (+0.50%), Qingdao port spot rose 2 yuan across the board except for flat IOCJ, and the port spot indices had the 65% up 2 yuan, the 61% up 1 and the 58% unchanged. On data: daily average hot metal across 242 mills fell to 2.3882 million mt (-6,100 mt WoW), with the blast furnace operating rate at 88.57% and capacity utilisation at 88.15%.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "india",
+    "iron_ore",
+    "smm",
+    "ore",
+    "sep",
+    "daily",
+    "port",
+    "hot",
+    "iron"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 5852,
+  "source_path": "reports/hellenic/iron_ore/2026/2026-09-30_mmi-daily-iron-ore-index-report-september-30-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-september-30-2026",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2026-09-30_2026_09_30_mmi_daily_iron_ore_index_report_september_30_2026__s01_main",
+      "doc_id": "hellenic_iron_ore_2026-09-30_2026_09_30_mmi_daily_iron_ore_index_report_september_30_2026",
+      "parent_id": "hellenic_iron_ore_2026-09-30_2026_09_30_mmi_daily_iron_ore_index_report_september_30_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Today's prices and today's data point in opposite directions. On prices: the DCE most-traded contract reclaimed 700 at 702.5yuan/mt (+0.50%), Qingdao port spot rose 2 yuan across the board except for flat IOCJ, and the port spot indices had the 65% up 2 yuan, the 61% up 1 and the 58% unchanged.",
+      "keywords": [
+        "brazil",
+        "first",
+        "hot",
+        "metal",
+        "coke",
+        "decline",
+        "million",
+        "port"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 638,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2026-09-30_2026_09_30_mmi_daily_iron_ore_index_report_september_30_2026__s02_linked_asset_2026_09_30_mmi_daily_iron_ore_index_report_september_30_2026_30092026chines33_228bbb975287_jpg",
+      "doc_id": "hellenic_iron_ore_2026-09-30_2026_09_30_mmi_daily_iron_ore_index_report_september_30_2026",
+      "parent_id": "hellenic_iron_ore_2026-09-30_2026_09_30_mmi_daily_iron_ore_index_report_september_30_2026__root",
+      "title": "Linked asset: 2026-09-30_mmi-daily-iron-ore-index-report-september-30-2026_30092026chines33_228bbb975287.jpg",
+      "section_path": [
+        "Linked asset: 2026-09-30_mmi-daily-iron-ore-index-report-september-30-2026_30092026chines33_228bbb975287.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-09-30_mmi-daily-iron-ore-index-report-september-30-2026_30092026chines33_228bbb975287.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/iron_ore/2026/assets/2026-09-30_mmi-daily-iron-ore-index-report-september-30-2026_30092026chines33_228bbb975287.jpg\n\nLinked image asset: 2026-09-30_mmi-daily-iron-ore-index-report-september-30-2026_30092026chines33_228bbb975287.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\n| ul SMM Iron Ore Price Index All five MMi as of Sep 30 - vs Sep 29\nMMi 61% Port Spot Daily MMi 58% Port Spot Daily MMi 65% Port Spot Daily\n674 yuan/wmt 638 yuan/wmt 838 yuan/wmt\nA+1 +0.15% -0 0.00% A+2 +0.24%\nMTD avg 692 MTD avg 647 MTD avg 840\nMMi 61% Seaborne Index Daily MMi 65% Seaborne Index Daily SMM Domestic Ore Composite Index\nDaily\n94.20 USD/dmt 1 1 2.00 USD/dmt 83 1 59 -_-\nA +0. .049\n+0.15 +0.16% +0.05 +0.04% ¥-5.86 -0.70%\nMTD avg 96.51 MTD avg 114.43\nMTD avg 840.09\nwww.mmiprices.com jarek@mmiprices.com",
+      "keywords": [
+        "iron_ore",
+        "avg",
+        "daily",
+        "mmi",
+        "mtd",
+        "port",
+        "yuan/wmt",
+        "asset"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 358,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2026-09-30_2026_09_30_mmi_daily_iron_ore_index_report_september_30_2026__s03_linked_asset_2026_09_30_mmi_daily_iron_ore_index_report_september_30_2026_mmi_daily_iron_ore_report_for_30th_s_128a5c745f8e_pdf",
+      "doc_id": "hellenic_iron_ore_2026-09-30_2026_09_30_mmi_daily_iron_ore_index_report_september_30_2026",
+      "parent_id": "hellenic_iron_ore_2026-09-30_2026_09_30_mmi_daily_iron_ore_index_report_september_30_2026__root",
+      "title": "Linked asset: 2026-09-30_mmi-daily-iron-ore-index-report-september-30-2026_mmi-daily-iron-ore-report-for-30th-s_128a5c745f8e.pdf",
+      "section_path": [
+        "Linked asset: 2026-09-30_mmi-daily-iron-ore-index-report-september-30-2026_mmi-daily-iron-ore-report-for-30th-s_128a5c745f8e.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-09-30_mmi-daily-iron-ore-index-report-september-30-2026_mmi-daily-iron-ore-report-for-30th-s_128a5c745f8e.pdf",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2026-09-30_mmi-daily-iron-ore-index-report-september-30-2026_mmi-daily-iron-ore-report-for-30th-s_128a5c745f8e.pdf\n\nSMM IRON ORE D A I LY\n\n2026-09-30 Wednesday · Imported & Domestic Ore · Prices · Supply-Demand · Inventory · Commentary\n\nSource SMM Data-pro\n\n### Futures ContractsClosing price\n\nSGX Iron Ore Most-traded Contract Daily DCE Iron Ore Most-traded I2701 Daily\n\n# 94.86USD/dmt 702.5yuan/mt\n\n#### ▼ -0.45-0.47% ▲ +3.5 +0.50%\n\nMTD avg 97.34 MTD avg 717.4 As of Sep 29 · vs Sep 28\n\n### SMM Iron Ore Price IndexAll five MMi as of Sep 30 · vs Sep 29\n\nMMi 61% Port Spot Daily MMi 58% Port Spot Daily MMi 65% Port Spot Daily\n\n## 674 yuan/wmt 638 yuan/wmt 838 yuan/wmt\n\n▲ +1 +0.15% - 0 0.00% ▲ +2 +0.24% MTD avg 692 MTD avg 647 MTD avg 840\n\nMMi 61% Seaborne Index Daily MMi 65% Seaborne Index Daily SMM Domestic Ore Composite Index Daily\n\n## 94.20 USD/dmt 112.00 USD/dmt 831.59 yuan/mt\n\n▲ +0.15 +0.16% ▲ +0.05 +0.04% ▼ -5.86-0.70% MTD avg 96.51 MTD avg 114.43 MTD avg 840.09 index as of Sep 24 · vs Sep 23\n\n### Key View\n\nToday's prices and today's data point in opposite directions. On prices: the DCE most-traded contract reclaimed 700 at 702.5 yuan/mt",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "india",
+        "iron_ore",
+        "smm",
+        "ore",
+        "sep"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4758,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

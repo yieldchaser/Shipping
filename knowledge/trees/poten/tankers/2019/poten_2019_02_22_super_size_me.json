@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2019_02_22_super_size_me__root",
+  "doc_id": "poten_tankers_no_date_poten_2019_02_22_super_size_me",
+  "parent_id": null,
+  "title": "Super Size Me",
+  "section_path": [
+    "Super Size Me"
+  ],
+  "section_path_text": "Super Size Me",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "VLCCs getting involved in USG to UKC trade\nCrude oil exports from the U.S. Gulf continue to increase as tight oil production grows. The Energy Information Administration (EIA) estimates that the U.S.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "atlantic",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "u.s.",
+    "oil",
+    "crude",
+    "tankers",
+    "mb/d"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 967,
+  "source_path": "reports/poten/2019/poten_2019-02-22_super-size-me.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_02_22_super_size_me__s01_vlccs_getting_involved_in_usg_to_ukc_trade",
+      "doc_id": "poten_tankers_no_date_poten_2019_02_22_super_size_me",
+      "parent_id": "poten_tankers_no_date_poten_2019_02_22_super_size_me__root",
+      "title": "VLCCs getting involved in USG to UKC trade",
+      "section_path": [
+        "VLCCs getting involved in USG to UKC trade"
+      ],
+      "section_path_text": "VLCCs getting involved in USG to UKC trade",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Crude oil exports from the U.S. Gulf continue to increase as tight oil production grows.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "atlantic",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "u.s."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 954,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

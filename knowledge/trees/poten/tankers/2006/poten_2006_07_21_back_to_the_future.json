@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2006_07_21_back_to_the_future__root",
+  "doc_id": "poten_tankers_no_date_poten_2006_07_21_back_to_the_future",
+  "parent_id": null,
+  "title": "Back to the Future",
+  "section_path": [
+    "Back to the Future"
+  ],
+  "section_path_text": "Back to the Future",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Back to the Future\nIn the past six months, crude oil prices have fluctuated between $50 and $80 per barrel. This price volatility serves as a demonstration of the impact geopolitical tensions can have on oil prices. At present, demand for oil is high: thus demand for tonnage is high and VLCC rates in the past week have been on the rise.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "meg",
+    "india",
+    "crude_oil",
+    "oil",
+    "prices",
+    "crude",
+    "decline",
+    "demand",
+    "supply",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 696,
+  "source_path": "reports/poten/2006/poten_2006-07-21_back-to-the-future.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_07_21_back_to_the_future__s01_back_to_the_future",
+      "doc_id": "poten_tankers_no_date_poten_2006_07_21_back_to_the_future",
+      "parent_id": "poten_tankers_no_date_poten_2006_07_21_back_to_the_future__root",
+      "title": "Back to the Future",
+      "section_path": [
+        "Back to the Future"
+      ],
+      "section_path_text": "Back to the Future",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In the past six months, crude oil prices have fluctuated between $50 and $80 per barrel. This price volatility serves as a demonstration of the impact geopolitical tensions can have on oil prices.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "oil",
+        "demand",
+        "high",
+        "past",
+        "again",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 107,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_07_21_back_to_the_future__s02_iran_iraq_war",
+      "doc_id": "poten_tankers_no_date_poten_2006_07_21_back_to_the_future",
+      "parent_id": "poten_tankers_no_date_poten_2006_07_21_back_to_the_future__root",
+      "title": "Iran-Iraq War",
+      "section_path": [
+        "Iran-Iraq War"
+      ],
+      "section_path_text": "Iran-Iraq War",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The chart on the previous page shows historical Worldscale rates for VLCC voyages from the Arabian Gulf to the United States. Since Iraq's invasion of Kuwait and Operation Desert Storm that followed, in the early 1990s, rate volatility has remained high.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "meg",
+        "india",
+        "crude_oil",
+        "oil",
+        "conflicts",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 217,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_07_21_back_to_the_future__s03_iraq_war",
+      "doc_id": "poten_tankers_no_date_poten_2006_07_21_back_to_the_future",
+      "parent_id": "poten_tankers_no_date_poten_2006_07_21_back_to_the_future__root",
+      "title": "Iraq War",
+      "section_path": [
+        "Iraq War"
+      ],
+      "section_path_text": "Iraq War",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Operation Desert Storm The graph above shows the inflation-adjusted price (based on the CPI) for Arab Light/Brent crude over the past 35 years. The spike in prices resulted from the compounded effects of the Iran hostage situation and the Iran-Iraq war.",
+      "keywords": [
+        "crude_oil",
+        "decline",
+        "prices",
+        "are",
+        "conflict",
+        "crude",
+        "demand",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 359,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

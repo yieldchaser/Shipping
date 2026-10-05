@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2025_12_12_pirates_of_the_caribbean__root",
+  "doc_id": "poten_tankers_no_date_poten_2025_12_12_pirates_of_the_caribbean",
+  "parent_id": null,
+  "title": "Pirates of the Caribbean",
+  "section_path": [
+    "Pirates of the Caribbean"
+  ],
+  "section_path_text": "Pirates of the Caribbean",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Pressure on Venezuela is mounting\nThe Trump administration is ramping up the pressure on the Maduro regime in Venezuela. In the same week that Venezuela's opposition leader, María Corina Machado, was smuggled out of the country to enable her to go to Oslo to receive the Nobel Peace prize, the U.S. seized a sanctioned VLCC laden with Venezuelan crude, reportedly heading for China.",
+  "keywords": [
+    "vlcc",
+    "aframax",
+    "china",
+    "iron_ore",
+    "coal",
+    "bauxite",
+    "crude_oil",
+    "venezuela",
+    "oil",
+    "maduro",
+    "president",
+    "u.s."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 885,
+  "source_path": "reports/poten/2025/poten_2025-12-12_pirates-of-the-caribbean.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2025_12_12_pirates_of_the_caribbean__s01_pressure_on_venezuela_is_mounting",
+      "doc_id": "poten_tankers_no_date_poten_2025_12_12_pirates_of_the_caribbean",
+      "parent_id": "poten_tankers_no_date_poten_2025_12_12_pirates_of_the_caribbean__root",
+      "title": "Pressure on Venezuela is mounting",
+      "section_path": [
+        "Pressure on Venezuela is mounting"
+      ],
+      "section_path_text": "Pressure on Venezuela is mounting",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Trump administration is ramping up the pressure on the Maduro regime in Venezuela. In the same week that Venezuela's opposition leader, María Corina Machado, was smuggled out of the country to enable her to go to Oslo to receive the Nobel Peace prize, the U.S.",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "china",
+        "iron_ore",
+        "coal",
+        "bauxite",
+        "crude_oil",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 879,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -7,6 +7,7 @@ commodities:
 date: '2026-02-02'
 doc_id: hellenic_demolition_2026-02-02_2026_02_02_gms_week_05_and_just_like_that
 document_type: demolition_update
+is_error_page: false
 key_entities:
 - China
 keywords:
@@ -74,6 +75,7 @@ numeric_observations:
   unit: null
   values:
   - 90.0
+  - 1.0
   - 2026.0
 - section: Main
   section_type: null
@@ -92,9 +94,11 @@ numeric_observations:
   - -2.0
   - -2.0
   - 5.0
+  - 1.0
   - 709.0
-  - 394.0
-  - 67.0
+  - 2394.0
+  - 3.0
+  - 567.0
 - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
   source_line: January 3 0th, 2026
@@ -187,6 +191,7 @@ numeric_observations:
     there was still some good news
   unit: null
   values:
+  - 1.0
   - 2026.0
 - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
@@ -771,9 +776,9 @@ numeric_observations:
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
   values:
-  - 30.21
+  - 30210.0
   - 899.0669
-  - 91.278
+  - 91278.0
   - 300.5253
 - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf'
   section_type: linked_pdf
@@ -798,7 +803,7 @@ numeric_observations:
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
   values:
-  - 86.216
+  - 86216.0
   - 75.19
   - 82.1
   - 4650.072
@@ -820,16 +825,18 @@ numeric_observations:
   - -2.0
   - -2.0
   - 5.0
+  - 1.0
   - 709.0
-  - 394.0
-  - 67.0
+  - 2394.0
+  - 3.0
+  - 567.0
 - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_img1_0709_a2394e3dc567.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 692x151 mode=RGB'
   unit: null
   values:
   - 692.0
-  - 51.0
+  - 151.0
 - section: 'Linked asset: 2026-02-02_gms-week-05-and-just-like-that_img1_0709_a2394e3dc567.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'

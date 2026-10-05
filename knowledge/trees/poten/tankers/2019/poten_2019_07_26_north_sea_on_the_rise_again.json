@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2019_07_26_north_sea_on_the_rise_again__root",
+  "doc_id": "poten_tankers_no_date_poten_2019_07_26_north_sea_on_the_rise_again",
+  "parent_id": null,
+  "title": "North Sea On The Rise Again",
+  "section_path": [
+    "North Sea On The Rise Again"
+  ],
+  "section_path_text": "North Sea On The Rise Again",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "More Atlantic Basin Crude Oil Flowing East\nIn recent years, the airwaves have been dominated by the growth in U.S. Oil markets also need to keep an eye on the ongoing turmoil in the Middle East as well as the elaborate decision-making process of the members of OPEC (+Russia). This week, we will focus on the North Sea, a mature oil producing region that is neither showing explosive growth nor experiencing geopolitical instability (ignoring Brexit for the moment).",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "atlantic",
+    "europe",
+    "crude_oil",
+    "gas",
+    "north",
+    "oil",
+    "sea",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 896,
+  "source_path": "reports/poten/2019/poten_2019-07-26_north-sea-on-the-rise-again.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_07_26_north_sea_on_the_rise_again__s01_more_atlantic_basin_crude_oil_flowing_east",
+      "doc_id": "poten_tankers_no_date_poten_2019_07_26_north_sea_on_the_rise_again",
+      "parent_id": "poten_tankers_no_date_poten_2019_07_26_north_sea_on_the_rise_again__root",
+      "title": "More Atlantic Basin Crude Oil Flowing East",
+      "section_path": [
+        "More Atlantic Basin Crude Oil Flowing East"
+      ],
+      "section_path_text": "More Atlantic Basin Crude Oil Flowing East",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In recent years, the airwaves have been dominated by the growth in U.S. Oil markets also need to keep an eye on the ongoing turmoil in the Middle East as well as the elaborate decision-making process of the members of OPEC (+Russia).",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "atlantic",
+        "europe",
+        "crude_oil",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 886,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

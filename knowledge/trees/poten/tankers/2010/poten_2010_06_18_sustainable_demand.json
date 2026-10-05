@@ -1,0 +1,169 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_06_18_sustainable_demand__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_06_18_sustainable_demand",
+  "parent_id": null,
+  "title": "Sustainable Demand",
+  "section_path": [
+    "Sustainable Demand"
+  ],
+  "section_path_text": "Sustainable Demand",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Sustainable Demand\nThe rally which has brought VLCC earnings on the Arabian Gulf - Far East voyage to a five month high has been driven by the continued strength in Eastern demand and improving sentiment across markets. Although short‐term tonnage supply in the Arabian Gulf is starting to catch up with demand, positive sentiment mounts for large ship sectors on a fundamental level. The chart below shows that freight rates on the benchmark Ras Tanura - Chiba voyage have generally been on the rise since late May.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "meg",
+    "west_africa",
+    "india",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "gas",
+    "demand",
+    "recent"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 620,
+  "source_path": "reports/poten/2010/poten_2010-06-18_sustainable-demand.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_06_18_sustainable_demand__s01_sustainable_demand",
+      "doc_id": "poten_tankers_no_date_poten_2010_06_18_sustainable_demand",
+      "parent_id": "poten_tankers_no_date_poten_2010_06_18_sustainable_demand__root",
+      "title": "Sustainable Demand",
+      "section_path": [
+        "Sustainable Demand"
+      ],
+      "section_path_text": "Sustainable Demand",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The rally which has brought VLCC earnings on the Arabian Gulf - Far East voyage to a five month high has been driven by the continued strength in Eastern demand and improving sentiment across markets. Although short‐term tonnage supply in the Arabian Gulf is starting to catch up with demand, positive sentiment mounts for large ship sectors on a fundamental level.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "meg",
+        "earnings",
+        "arabian",
+        "day",
+        "demand",
+        "gulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 216,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_06_18_sustainable_demand__s02_rippling_effects",
+      "doc_id": "poten_tankers_no_date_poten_2010_06_18_sustainable_demand",
+      "parent_id": "poten_tankers_no_date_poten_2010_06_18_sustainable_demand__root",
+      "title": "Rippling Effects",
+      "section_path": [
+        "Rippling Effects"
+      ],
+      "section_path_text": "Rippling Effects",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Inquiries for east‐bound fixing activity have reportedly been a bit quiet this week due to the Dragon Boat Festival in Taiwan and China. In advance of the holiday, however, an overnight surge in third‐decade June fixtures by Chinese charterers forced owners to recalculate their freight rate ideas.",
+      "keywords": [
+        "suezmax",
+        "china",
+        "meg",
+        "west_africa",
+        "india",
+        "us_gulf",
+        "east",
+        "bound"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 193,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_06_18_sustainable_demand__s03_further_on_the_road",
+      "doc_id": "poten_tankers_no_date_poten_2010_06_18_sustainable_demand",
+      "parent_id": "poten_tankers_no_date_poten_2010_06_18_sustainable_demand__root",
+      "title": "Further on the Road",
+      "section_path": [
+        "Further on the Road"
+      ],
+      "section_path_text": "Further on the Road",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "While the rhythms of the Chinese market may have provided the immediate push, an improving demand picture in Western markets has also contributed to recent strengthening in rates. An increase in gasoline demand reported by the Energy Information Administration earlier this week supported the positive sentiment about demand recovery.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "products",
+        "gas",
+        "demand",
+        "recent",
+        "recovery.",
+        "suggesting"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 107,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_06_18_sustainable_demand__s04_west",
+      "doc_id": "poten_tankers_no_date_poten_2010_06_18_sustainable_demand",
+      "parent_id": "poten_tankers_no_date_poten_2010_06_18_sustainable_demand__root",
+      "title": "West",
+      "section_path": [
+        "West"
+      ],
+      "section_path_text": "West",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "east",
+        "total",
+        "west"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_06_18_sustainable_demand__s05_looking_ahead",
+      "doc_id": "poten_tankers_no_date_poten_2010_06_18_sustainable_demand",
+      "parent_id": "poten_tankers_no_date_poten_2010_06_18_sustainable_demand__root",
+      "title": "Looking Ahead?",
+      "section_path": [
+        "Looking Ahead?"
+      ],
+      "section_path_text": "Looking Ahead?",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "It is interesting to note rumblings that charterers already actively pursuing tonnage with fixing dates later than mid‐July have played a role in driving recent activity levels. This suggests a sentiment, at least among some, that recent strength in earnings will continue.",
+      "keywords": [
+        "recent",
+        "actively",
+        "activity",
+        "already",
+        "among",
+        "are",
+        "charterers",
+        "continue."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 79,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2004_01_16_record_low_temperatures_in_new_york_record_high_rates_in__root",
+  "doc_id": "poten_tankers_no_date_poten_2004_01_16_record_low_temperatures_in_new_york_record_high_rates_in",
+  "parent_id": null,
+  "title": "Record Low Temperatures in New York, Record High Rates in the Caribbean",
+  "section_path": [
+    "Record Low Temperatures in New York, Record High Rates in the Caribbean"
+  ],
+  "section_path_text": "Record Low Temperatures in New York, Record High Rates in the Caribbean",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Record Low Temperatures in New York, Record High Rates in the Caribbean\nRecord Low Temperatures in New York, Record High Rates in the Caribbean While even the most thick-skinned and fur-clad New Yorkers seek refuge from ever-plunging temperatures, Aframax vessel rates skyrocketed to record levels, briefly rising this week to a rate of WS 402.5 for the Caribbean/USA trade. This translates into daily earnings of about $72,000 per day for owners. WS Rates\nAframaxes Next 20 Days As you can see on the previous chart, as vessel availability goes down, rates go up.",
+  "keywords": [
+    "vlcc",
+    "aframax",
+    "europe",
+    "record",
+    "activity",
+    "caribbean",
+    "new",
+    "temperatures",
+    "aframaxes",
+    "available",
+    "but",
+    "fixture"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 302,
+  "source_path": "reports/poten/2004/poten_2004-01-16_record-low-temperatures-in-new-york-record-high-rates-in.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_01_16_record_low_temperatures_in_new_york_record_high_rates_in__s01_record_low_temperatures_in_new_york_record_high_rates_in_the_caribbean",
+      "doc_id": "poten_tankers_no_date_poten_2004_01_16_record_low_temperatures_in_new_york_record_high_rates_in",
+      "parent_id": "poten_tankers_no_date_poten_2004_01_16_record_low_temperatures_in_new_york_record_high_rates_in__root",
+      "title": "Record Low Temperatures in New York, Record High Rates in the Caribbean",
+      "section_path": [
+        "Record Low Temperatures in New York, Record High Rates in the Caribbean"
+      ],
+      "section_path_text": "Record Low Temperatures in New York, Record High Rates in the Caribbean",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Record Low Temperatures in New York, Record High Rates in the Caribbean While even the most thick-skinned and fur-clad New Yorkers seek refuge from ever-plunging temperatures, Aframax vessel rates skyrocketed to record levels, briefly rising this week to a rate of WS 402.5 for the Caribbean/USA trade. This translates into daily earnings of about $72,000 per day for owners.",
+      "keywords": [
+        "aframax",
+        "record",
+        "new",
+        "temperatures",
+        "briefly",
+        "caribbean",
+        "caribbean/usa",
+        "daily"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 82,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_01_16_record_low_temperatures_in_new_york_record_high_rates_in__s02_ws_rates",
+      "doc_id": "poten_tankers_no_date_poten_2004_01_16_record_low_temperatures_in_new_york_record_high_rates_in",
+      "parent_id": "poten_tankers_no_date_poten_2004_01_16_record_low_temperatures_in_new_york_record_high_rates_in__root",
+      "title": "WS Rates",
+      "section_path": [
+        "WS Rates"
+      ],
+      "section_path_text": "WS Rates",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Aframaxes Next 20 Days As you can see on the previous chart, as vessel availability goes down, rates go up. This relationship, however, is not particularly strong.",
+      "keywords": [
+        "aframax",
+        "activity",
+        "but",
+        "fixture",
+        "not",
+        "relationship",
+        "aframaxes",
+        "any"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 94,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_01_16_record_low_temperatures_in_new_york_record_high_rates_in__s03_there_s_more_to_come",
+      "doc_id": "poten_tankers_no_date_poten_2004_01_16_record_low_temperatures_in_new_york_record_high_rates_in",
+      "parent_id": "poten_tankers_no_date_poten_2004_01_16_record_low_temperatures_in_new_york_record_high_rates_in__root",
+      "title": "There's More to Come",
+      "section_path": [
+        "There's More to Come"
+      ],
+      "section_path_text": "There's More to Come",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Two factors are at play here. One is the Bosphorus Effect where Aframaxes left the Caribbean to enjoy higher rates in the Mediterranean.",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "europe",
+        "available",
+        "left",
+        "activity",
+        "aframaxes",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 102,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

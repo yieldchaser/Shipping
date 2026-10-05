@@ -1,0 +1,140 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2014_11_21_west_african_go_east__root",
+  "doc_id": "poten_tankers_no_date_poten_2014_11_21_west_african_go_east",
+  "parent_id": null,
+  "title": "West AfriCAN Go East",
+  "section_path": [
+    "West AfriCAN Go East"
+  ],
+  "section_path_text": "West AfriCAN Go East",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Where is all the West African Crude going? Until the shale oil revolution in the United States, the West Africa to the U.S. trade route was one of the benchmark tanker trades.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "brazil",
+    "atlantic",
+    "west_africa",
+    "europe",
+    "india",
+    "crude_oil",
+    "crude",
+    "oil",
+    "african"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 642,
+  "source_path": "reports/poten/2014/poten_2014-11-21_west-african-go-east.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_11_21_west_african_go_east__s01_where_is_all_the_west_african_crude_going",
+      "doc_id": "poten_tankers_no_date_poten_2014_11_21_west_african_go_east",
+      "parent_id": "poten_tankers_no_date_poten_2014_11_21_west_african_go_east__root",
+      "title": "Where is all the West African Crude going?",
+      "section_path": [
+        "Where is all the West African Crude going?"
+      ],
+      "section_path_text": "Where is all the West African Crude going?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Until the shale oil revolution in the United States, the West Africa to the U.S. trade route was one of the benchmark tanker trades.",
+      "keywords": [
+        "suezmax",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "crude",
+        "oil",
+        "west",
+        "african"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 324,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_11_21_west_african_go_east__s02_kb_day",
+      "doc_id": "poten_tankers_no_date_poten_2014_11_21_west_african_go_east",
+      "parent_id": "poten_tankers_no_date_poten_2014_11_21_west_african_go_east__root",
+      "title": "KB/day",
+      "section_path": [
+        "KB/day"
+      ],
+      "section_path_text": "KB/day",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "higher operating costs puts them at a competitive disadvantage versus facilities in the U.S., some European refiners have even been reported to reduce runs. It is difficult to find reliable data to assess where all the African crude oil is going.",
+      "keywords": [
+        "suezmax",
+        "china",
+        "brazil",
+        "atlantic",
+        "europe",
+        "india",
+        "crude_oil",
+        "african"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 124,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_11_21_west_african_go_east__s03_west_africa",
+      "doc_id": "poten_tankers_no_date_poten_2014_11_21_west_african_go_east",
+      "parent_id": "poten_tankers_no_date_poten_2014_11_21_west_african_go_east__root",
+      "title": "West Africa",
+      "section_path": [
+        "West Africa"
+      ],
+      "section_path_text": "West Africa",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "africa",
+        "north"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_11_21_west_african_go_east__s04_asia_oceania",
+      "doc_id": "poten_tankers_no_date_poten_2014_11_21_west_african_go_east",
+      "parent_id": "poten_tankers_no_date_poten_2014_11_21_west_african_go_east__root",
+      "title": "Asia/Oceania",
+      "section_path": [
+        "Asia/Oceania"
+      ],
+      "section_path_text": "Asia/Oceania",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Another growth area for West African producers has been India. Indian refiners have been diversifying their sources of crude oil, reducing their dependence on Middle Eastern supplies and increasing imports from everywhere else, including the Atlantic Basin.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "atlantic",
+        "west_africa",
+        "europe",
+        "india",
+        "crude_oil",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 168,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

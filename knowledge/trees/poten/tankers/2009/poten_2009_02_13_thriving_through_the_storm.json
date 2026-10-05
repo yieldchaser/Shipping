@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2009_02_13_thriving_through_the_storm__root",
+  "doc_id": "poten_tankers_no_date_poten_2009_02_13_thriving_through_the_storm",
+  "parent_id": null,
+  "title": "Thriving Through the Storm",
+  "section_path": [
+    "Thriving Through the Storm"
+  ],
+  "section_path_text": "Thriving Through the Storm",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Thriving Through the Storm\nAs the winds of misfortune shape the revival of the World's economic future, a maxim - perhaps forgotten by some - still rings ever true. In real estate ventures, the accepted recipe for success is \"location, location, location\" and nowadays some players in the shipping industry see this recipe as \"relationship, relationship, relationship.\" At the 15th annual Joint Shipping Conference held in New York City this week, the importance of established relationships emerged as a central theme. Ship owners, bankers, and other industry professionals were gathered there to ponder the question of \"How Will Shipping Survive the Perfect Storm?\"\nWith a seemingly pervasive sentiment, attendees viewed the current \"storm\" pattern as different from prior downturns weathered by the shipping industry.",
+  "keywords": [
+    "may",
+    "owners",
+    "asset",
+    "economic",
+    "established",
+    "perhaps",
+    "ship",
+    "are",
+    "assets",
+    "but",
+    "even",
+    "location"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 584,
+  "source_path": "reports/poten/2009/poten_2009-02-13_thriving-through-the-storm.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_02_13_thriving_through_the_storm__s01_thriving_through_the_storm",
+      "doc_id": "poten_tankers_no_date_poten_2009_02_13_thriving_through_the_storm",
+      "parent_id": "poten_tankers_no_date_poten_2009_02_13_thriving_through_the_storm__root",
+      "title": "Thriving Through the Storm",
+      "section_path": [
+        "Thriving Through the Storm"
+      ],
+      "section_path_text": "Thriving Through the Storm",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As the winds of misfortune shape the revival of the World's economic future, a maxim - perhaps forgotten by some - still rings ever true. In real estate ventures, the accepted recipe for success is \"location, location, location\" and nowadays some players in the shipping industry see this recipe as \"relationship, relationship, relationship.\" At the 15th annual Joint Shipping Conference held in New York City this week, the importance of established relationships emerged as a central theme.",
+      "keywords": [
+        "may",
+        "owners",
+        "asset",
+        "economic",
+        "established",
+        "perhaps",
+        "ship",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 578,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

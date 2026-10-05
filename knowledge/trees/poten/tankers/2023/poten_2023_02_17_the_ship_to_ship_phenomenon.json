@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2023_02_17_the_ship_to_ship_phenomenon__root",
+  "doc_id": "poten_tankers_no_date_poten_2023_02_17_the_ship_to_ship_phenomenon",
+  "parent_id": null,
+  "title": "The Ship To Ship Phenomenon",
+  "section_path": [
+    "The Ship To Ship Phenomenon"
+  ],
+  "section_path_text": "The Ship To Ship Phenomenon",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Why is the volume of ship-to-ship transfers growing? Global crude oil and refined product trade flows have reshuffled after the Russian attack on Ukraine. Sanctions have closed off certain markets, such as Europe and forced a rethink about how to best serve more distant new markets (like India and China).",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "aframax",
+    "china",
+    "brazil",
+    "atlantic",
+    "west_africa",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "gas"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1163,
+  "source_path": "reports/poten/2023/poten_2023-02-17_the-ship-to-ship-phenomenon.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2023_02_17_the_ship_to_ship_phenomenon__s01_why_is_the_volume_of_ship_to_ship_transfers_growing",
+      "doc_id": "poten_tankers_no_date_poten_2023_02_17_the_ship_to_ship_phenomenon",
+      "parent_id": "poten_tankers_no_date_poten_2023_02_17_the_ship_to_ship_phenomenon__root",
+      "title": "Why is the volume of ship-to-ship transfers growing?",
+      "section_path": [
+        "Why is the volume of ship-to-ship transfers growing?"
+      ],
+      "section_path_text": "Why is the volume of ship-to-ship transfers growing?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Global crude oil and refined product trade flows have reshuffled after the Russian attack on Ukraine. Sanctions have closed off certain markets, such as Europe and forced a rethink about how to best serve more distant new markets (like India and China).",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "aframax",
+        "china",
+        "brazil",
+        "atlantic",
+        "west_africa",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1151,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

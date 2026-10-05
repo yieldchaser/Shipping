@@ -25,14 +25,14 @@ keywords:
 - cid
 - fines
 - jul
-- high
 - change
+- high
 linked_assets_discovered: 2
 linked_assets_failed: 0
 linked_assets_ingested: 2
 linked_assets_mirrored: 2
 linked_assets_skipped: 0
-market_tone: neutral
+market_tone: cautiously_bearish
 numeric_observation_count: 160
 numeric_observations:
 - &id001
@@ -47,13 +47,13 @@ numeric_observations:
   - 80.0
   - 18.0
   - -24.0
-  - 11980.0
+  - 11.98
   - 650000.0
   - 2.98
   - 1.16
-  - 16700.0
+  - 16.7
   - 490000.0
-  - 7120.0
+  - 7.12
 - &id002
   section: Main
   section_type: null
@@ -148,7 +148,7 @@ numeric_observations:
   values:
   - 18.0
   - 1.27
-  - 18000.0
+  - 18.0
   - 1.09
   - 4.0
   - 0.37
@@ -175,7 +175,7 @@ numeric_observations:
   - 62.0
   - 65.0
   - 65.0
-  - 62500.0
+  - 62.5
 - &id011
   section: 'Linked asset: 2021-07-27_mmi-daily-iron-ore-index-report-july-27-2021_mmi-daily-iron-ore-report-for-july-2_b7c34a78d9d7.pdf'
   section_type: linked_pdf
@@ -273,7 +273,7 @@ numeric_observations:
   - 3.0
   - 27.0
   - 2021.0
-  - 5300.0
+  - 5.3
   - 27.0
   - 2021.0
   - 3.0
@@ -309,8 +309,8 @@ numeric_observations:
   source_line: 27.68 13.28 5330
   unit: null
   values:
-  - 27680.0
-  - 13280.0
+  - 27.68
+  - 13.28
   - 5330.0
 - &id023
   section: 'Linked asset: 2021-07-27_mmi-daily-iron-ore-index-report-july-27-2021_mmi-daily-iron-ore-report-for-july-2_b7c34a78d9d7.pdf'
@@ -367,7 +367,7 @@ numeric_observations:
   unit: null
   values:
   - 119.95
-  - 18020.0
+  - 18.02
   - 5880.0
 - &id028
   section: 'Linked asset: 2021-07-27_mmi-daily-iron-ore-index-report-july-27-2021_mmi-daily-iron-ore-report-for-july-2_b7c34a78d9d7.pdf'
@@ -669,7 +669,7 @@ numeric_observations:
   unit: pct
   values:
   - 62.0
-  - 62500.0
+  - 62.5
   - 1810.0
   - -15.0
   - -0.8
@@ -751,7 +751,7 @@ numeric_observations:
   - 1310.0
   - 202.32
   - 0.35
-  - 87400.0
+  - 87.4
   - 202.32
 - &id053
   section: 'Linked asset: 2021-07-27_mmi-daily-iron-ore-index-report-july-27-2021_mmi-daily-iron-ore-report-for-july-2_b7c34a78d9d7.pdf'
@@ -998,7 +998,7 @@ numeric_observations:
   unit: pct
   values:
   - 62.0
-  - 62500.0
+  - 62.5
   - 1506.0
   - 1516.0
   - 1665.0
@@ -1064,11 +1064,11 @@ numeric_observations:
   - 65.0
   - 65.0
   - 226.0
-  - 15740.0
+  - 15.74
   - 65.0
   - 65.0
-  - 41950.0
-  - 20700.0
+  - 41.95
+  - 20.7
 - &id077
   section: 'Linked asset: 2021-07-27_mmi-daily-iron-ore-index-report-july-27-2021_mmi-daily-iron-ore-report-for-july-2_b7c34a78d9d7.pdf'
   section_type: linked_pdf
@@ -1259,7 +1259,7 @@ numeric_observations:
   - 18.0
   - 220.0
   - 232.25
-  - 29550.0
+  - 29.55
 - section: 'Linked asset: 2021-07-27_mmi-daily-iron-ore-index-report-july-27-2021_mmi-daily-iron-ore-report-for-july-2_b7c34a78d9d7.pdf'
   section_type: linked_pdf
   source_line: Brazilian SSF 1416 5 -20 Brazilian SSF 206.45 0.00 3.75
@@ -1280,7 +1280,7 @@ numeric_observations:
   - 16.0
   - 28.0
   - 208.1
-  - 5400.0
+  - 5.4
 - section: 'Linked asset: 2021-07-27_mmi-daily-iron-ore-index-report-july-27-2021_mmi-daily-iron-ore-report-for-july-2_b7c34a78d9d7.pdf'
   section_type: linked_pdf
   source_line: RTX Fines 1246 12 -190 RTX Fines 192.60 0.00 -10.10
@@ -1368,11 +1368,11 @@ numeric_observations:
   values:
   - 60.0
   - 63.0
-  - 50000.0
+  - 50.0
   - 4.0
   - 60.0
   - 63.0
-  - 5750.0
+  - 5.75
 - section: 'Linked asset: 2021-07-27_mmi-daily-iron-ore-index-report-july-27-2021_mmi-daily-iron-ore-report-for-july-2_b7c34a78d9d7.pdf'
   section_type: linked_pdf
   source_line: High Grade Fe 63 - 64% 10.00 0.00 High Grade Fe 63 - 64% 5.50 0.00
@@ -1380,10 +1380,10 @@ numeric_observations:
   values:
   - 63.0
   - 64.0
-  - 10000.0
+  - 10.0
   - 63.0
   - 64.0
-  - 5500.0
+  - 5.5
 - section: 'Linked asset: 2021-07-27_mmi-daily-iron-ore-index-report-july-27-2021_mmi-daily-iron-ore-report-for-july-2_b7c34a78d9d7.pdf'
   section_type: linked_pdf
   source_line: 1% Fe High Grade Fe 64 - 65% 10.00 0.00 1% Fe High Grade Fe 64 - 65%
@@ -1393,28 +1393,28 @@ numeric_observations:
   - 1.0
   - 64.0
   - 65.0
-  - 10000.0
+  - 10.0
   - 1.0
   - 64.0
   - 65.0
-  - 5500.0
+  - 5.5
 - section: 'Linked asset: 2021-07-27_mmi-daily-iron-ore-index-report-july-27-2021_mmi-daily-iron-ore-report-for-july-2_b7c34a78d9d7.pdf'
   section_type: linked_pdf
   source_line: High Grade Fe 65 - 65.5% 10.00 0.00 High Grade Fe 65 - 65.5% 5.50 0.00
   unit: pct
   values:
   - 65.0
-  - 65500.0
-  - 10000.0
+  - 65.5
+  - 10.0
   - 65.0
-  - 65500.0
-  - 5500.0
+  - 65.5
+  - 5.5
 - section: 'Linked asset: 2021-07-27_mmi-daily-iron-ore-index-report-july-27-2021_mmi-daily-iron-ore-report-for-july-2_b7c34a78d9d7.pdf'
   section_type: linked_pdf
   source_line: Low Grade Fe 50.00 0.00
   unit: null
   values:
-  - 50000.0
+  - 50.0
 - section: 'Linked asset: 2021-07-27_mmi-daily-iron-ore-index-report-july-27-2021_mmi-daily-iron-ore-report-for-july-2_b7c34a78d9d7.pdf'
   section_type: linked_pdf
   source_line: High Fe Grade Al <2.25% 100.00 0.00 High Fe Grade Al <2.25% 4.00 0.00
@@ -1457,8 +1457,8 @@ numeric_observations:
   values:
   - 2.25
   - -4.0
-  - 45000.0
-  - 5000.0
+  - 45.0
+  - 5.0
 regions:
 - china
 - brazil
@@ -1480,11 +1480,11 @@ signals:
     - 80.0
     - 18.0
     - -24.0
-    - 11980.0
+    - 11.98
     - 650000.0
     - 2.98
     - 1.16
-    - 16700.0
+    - 16.7
   - metric: index
     source_line: 'Linked asset: 2021-07-27_mmi-daily-iron-ore-index-report-july-27-2021_mmi-daily-iron-ore-report-for-july-2_b7c34a78d9d7.pdf'
     unit: null
@@ -1517,7 +1517,7 @@ signals:
     - 62.0
     - 65.0
     - 65.0
-    - 62500.0
+    - 62.5
   - metric: index_62_fines
     source_line: DCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE
       Rebar
@@ -1683,7 +1683,7 @@ signals:
     - 1310.0
     - 202.32
     - 0.35
-    - 87400.0
+    - 87.4
   - metric: numeric_observation
     source_line: Shandong Zibo 65% Fe Concentrate Dry 1710 -0.6% 865 1752 264.10 -0.61%
       122.55 272.32
@@ -1829,11 +1829,11 @@ signals:
     - 65.0
     - 65.0
     - 226.0
-    - 15740.0
+    - 15.74
     - 65.0
     - 65.0
-    - 41950.0
-    - 20700.0
+    - 41.95
+    - 20.7
   - metric: index_62_fines
     source_line: IOSI62 IOPI62 (equivalent) IOSI65 IOPI65 (equivalent) China Domestic
       Composite Mines Index
@@ -1903,7 +1903,7 @@ signals:
     - 220.0
     - 232.25
     - 0.0
-    - 29550.0
+    - 29.55
   - metric: numeric_observation
     source_line: Brazilian Blend Fines 1464 16 28 Brazilian Blend Fines 208.10 0.00
       5.40
@@ -1914,7 +1914,7 @@ signals:
     - 28.0
     - 208.1
     - 0.0
-    - 5400.0
+    - 5.4
   - metric: numeric_observation
     source_line: RTX Fines 1246 12 -190 RTX Fines 192.60 0.00 -10.10
     unit: null
@@ -1970,7 +1970,7 @@ signals:
     - 1.0
     - 64.0
     - 65.0
-    - 10000.0
+    - 10.0
     - 0.0
     - 1.0
     - 64.0
@@ -1980,7 +1980,7 @@ signals:
       Equivalent (5-day average)
     unit: usd_per_dmt
     values:
-    - 62500.0
+    - 62.5
     - 62.0
     - 62.0
     - 62.0
@@ -2079,12 +2079,10 @@ signals:
   - *id080
   signal_family: hellenic_iron_ore_indices
 source: hellenic
-source_path: corpus/02-hellenic/iron_ore/2021/2021-07-27_mmi-daily-iron-ore-index-report-july-27-2021.html
+source_path: reports/hellenic/iron_ore/2021/2021-07-27_mmi-daily-iron-ore-index-report-july-27-2021.html
 source_stem: 2021-07-27_mmi-daily-iron-ore-index-report-july-27-2021
 source_url: https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-july-27-2021
 summary: 'Main
-
-  in Chinese iron ore and steelmaking prices 27/07/2021
 
   According to data tracked by SMM, 80 ships arrived at domestic main ports from July
   18-24. Arrivals of iron ore are estimated to stand at 11.98million mt, down 650,000
@@ -2108,7 +2106,6 @@ vessel_classes:
 
 ## Summary
 Main
-in Chinese iron ore and steelmaking prices 27/07/2021
 According to data tracked by SMM, 80 ships arrived at domestic main ports from July 18-24. Arrivals of iron ore are estimated to stand at 11.98million mt, down 650,000 mt from the previous week, and a decrease of 2.98 million mt from the same period last year. Shipments that departed Australian ports were estimated to increase 1.16 million mt week on week to 16.7 million mt, basically flat on the year, and that from Brazilian ports increased 490,000 million mt to 7.12 million mt on a weekly basis to 7.12 million mt, and up 390,000 mt on the year.
 
 ## Main

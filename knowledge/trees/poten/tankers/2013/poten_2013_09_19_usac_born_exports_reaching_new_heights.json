@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2013_09_19_usac_born_exports_reaching_new_heights__root",
+  "doc_id": "poten_tankers_no_date_poten_2013_09_19_usac_born_exports_reaching_new_heights",
+  "parent_id": null,
+  "title": "USAC-Born Exports reaching new heights",
+  "section_path": [
+    "USAC-Born Exports reaching new heights"
+  ],
+  "section_path_text": "USAC-Born Exports reaching new heights",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "US Atlantic coast exports\nA recent uptick on the US Atlantic coast refinery usage has led to an increase in cargoes loading out of the region. Owners discharging gasoline from Europe or Caribbean Jet fuel would historically ballast back to Europe, or sought a backhaul cargo out of the US Gulf. But as US domestic crude production continues to disrupt clean product trades, a new trend is emerging; an increase in exports from the US Atlantic coast.",
+  "keywords": [
+    "atlantic",
+    "west_africa",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "gas",
+    "but",
+    "crude",
+    "refinery",
+    "exports",
+    "inland"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 399,
+  "source_path": "reports/poten/2013/poten_2013-09-19_usac-born-exports-reaching-new-heights.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_09_19_usac_born_exports_reaching_new_heights__s01_us_atlantic_coast_exports",
+      "doc_id": "poten_tankers_no_date_poten_2013_09_19_usac_born_exports_reaching_new_heights",
+      "parent_id": "poten_tankers_no_date_poten_2013_09_19_usac_born_exports_reaching_new_heights__root",
+      "title": "US Atlantic coast exports",
+      "section_path": [
+        "US Atlantic coast exports"
+      ],
+      "section_path_text": "US Atlantic coast exports",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "A recent uptick on the US Atlantic coast refinery usage has led to an increase in cargoes loading out of the region. Owners discharging gasoline from Europe or Caribbean Jet fuel would historically ballast back to Europe, or sought a backhaul cargo out of the US Gulf.",
+      "keywords": [
+        "atlantic",
+        "europe",
+        "us_gulf",
+        "products",
+        "gas",
+        "increase",
+        "out",
+        "back"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 88,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_09_19_usac_born_exports_reaching_new_heights__s02_refinery_utilization",
+      "doc_id": "poten_tankers_no_date_poten_2013_09_19_usac_born_exports_reaching_new_heights",
+      "parent_id": "poten_tankers_no_date_poten_2013_09_19_usac_born_exports_reaching_new_heights__root",
+      "title": "Refinery Utilization",
+      "section_path": [
+        "Refinery Utilization"
+      ],
+      "section_path_text": "Refinery Utilization",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "USAC Exports are a niche market, but twice as many export cargoes were seen in the May- June window in 2013 than in 2012. Cargoes seen include a mix of products such as gasoil, diesel, and jet fuel.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "but",
+        "cargoes",
+        "exports",
+        "seen",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 72,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_09_19_usac_born_exports_reaching_new_heights__s03_usac_refinery_utilization",
+      "doc_id": "poten_tankers_no_date_poten_2013_09_19_usac_born_exports_reaching_new_heights",
+      "parent_id": "poten_tankers_no_date_poten_2013_09_19_usac_born_exports_reaching_new_heights__root",
+      "title": "USAC refinery utilization",
+      "section_path": [
+        "USAC refinery utilization"
+      ],
+      "section_path_text": "USAC refinery utilization",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "growing as more inland crude can reaches them, but west African option remains The flexibility of US Atlantic refiners to take inland as well as seaborne crude has let them survive, while several other nearby Canadian refineries have suffered. The losses that KNOC has experienced since the purchase of the Come-By-Chance refinery in late 2009 highlights the importance of access to North American crude via rail terminals.",
+      "keywords": [
+        "atlantic",
+        "west_africa",
+        "us_gulf",
+        "products",
+        "crude",
+        "inland",
+        "refinery",
+        "but"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 163,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_09_19_usac_born_exports_reaching_new_heights__s04_wti_and_lls_probably",
+      "doc_id": "poten_tankers_no_date_poten_2013_09_19_usac_born_exports_reaching_new_heights",
+      "parent_id": "poten_tankers_no_date_poten_2013_09_19_usac_born_exports_reaching_new_heights__root",
+      "title": "WTI and LLS probably",
+      "section_path": [
+        "WTI and LLS probably"
+      ],
+      "section_path_text": "WTI and LLS probably",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "not poised to strengthen much more against Brent US Gulf exports remain the dominant story in North America, but any clean product tanker owner should think twice before ballasting his ship away from the Atlantic coast as the chances of a profitable triangulation out of the region keep getting better.",
+      "keywords": [
+        "atlantic",
+        "us_gulf",
+        "against",
+        "america",
+        "any",
+        "away",
+        "ballasting",
+        "before"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 54,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2023_09_29_taking_a_dangerous_shortcut__root",
+  "doc_id": "poten_tankers_no_date_poten_2023_09_29_taking_a_dangerous_shortcut",
+  "parent_id": null,
+  "title": "Taking A Dangerous Shortcut",
+  "section_path": [
+    "Taking A Dangerous Shortcut"
+  ],
+  "section_path_text": "Taking A Dangerous Shortcut",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Russia is boosting oil flows through the Arctic\nSince the Russian invasion of Ukraine and the EU sanctions that followed, Russia has been trying to explore alternative customers and shipping routes to maintain its crude oil and refined product exports. It has grown a fleet of \"dark vessels\" that are willing to move Russian crude despite the risk of sanctions from the group of G7 countries. Russia also discounted the price of its crude oil and products to boost demand in regions that were traditionally not large customers, like India.",
+  "keywords": [
+    "capesize",
+    "china",
+    "india",
+    "crude_oil",
+    "products",
+    "are",
+    "oil",
+    "russia",
+    "ice",
+    "vessels",
+    "class",
+    "russian"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 897,
+  "source_path": "reports/poten/2023/poten_2023-09-29_taking-a-dangerous-shortcut.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2023_09_29_taking_a_dangerous_shortcut__s01_russia_is_boosting_oil_flows_through_the_arctic",
+      "doc_id": "poten_tankers_no_date_poten_2023_09_29_taking_a_dangerous_shortcut",
+      "parent_id": "poten_tankers_no_date_poten_2023_09_29_taking_a_dangerous_shortcut__root",
+      "title": "Russia is boosting oil flows through the Arctic",
+      "section_path": [
+        "Russia is boosting oil flows through the Arctic"
+      ],
+      "section_path_text": "Russia is boosting oil flows through the Arctic",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Since the Russian invasion of Ukraine and the EU sanctions that followed, Russia has been trying to explore alternative customers and shipping routes to maintain its crude oil and refined product exports. It has grown a fleet of \"dark vessels\" that are willing to move Russian crude despite the risk of sanctions from the group of G7 countries.",
+      "keywords": [
+        "capesize",
+        "china",
+        "india",
+        "crude_oil",
+        "products",
+        "are",
+        "oil",
+        "russia"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 888,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

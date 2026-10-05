@@ -26,7 +26,7 @@ keywords:
 - bauxite
 - crude_oil
 market_tone: constructive
-numeric_observation_count: 59
+numeric_observation_count: 57
 numeric_observations:
 - section: CLARKSONS HELLAS - SnP WEEKLY
   section_type: null
@@ -110,16 +110,9 @@ numeric_observations:
     was bought by Chinese
   unit: usd
   values:
-  - 11500.0
   - 76.0
   - 74.0
   - 2002.0
-- section: Market Report Content
-  section_type: null
-  source_line: interests for USD 7.85m.
-  unit: usd
-  values:
-  - 7850.0
 - section: Market Report Content
   section_type: null
   source_line: In the Supramax sector, the SKY KNIGHT (ABT 58K DWT, 2012, ONISHI)
@@ -128,12 +121,6 @@ numeric_observations:
   values:
   - 58.0
   - 2012.0
-- section: Market Report Content
-  section_type: null
-  source_line: month, was sold for USD 21.5m.
-  unit: usd
-  values:
-  - 21500.0
 - section: Market Report Content
   section_type: null
   source_line: The LUZON (ABT 56K DWT, 2010, MITSUI TAMANO) was sold in the low USD
@@ -179,7 +166,7 @@ numeric_observations:
   values:
   - 6.0
   - 70.0
-  - 6100.0
+  - 6.1
 - section: Market Report Content
   section_type: null
   source_line: SS 07/30
@@ -203,7 +190,7 @@ numeric_observations:
   - 2016.0
   - 6.0
   - 60.0
-  - 8200.0
+  - 8.2
   - 3.0
   - 31.0
 - section: Market Report Content
@@ -228,7 +215,7 @@ numeric_observations:
   - 2019.0
   - 6.0
   - 60.0
-  - 8200.0
+  - 8.2
 - section: Market Report Content
   section_type: null
   source_line: SS 05/29
@@ -258,7 +245,7 @@ numeric_observations:
   - 2012.0
   - 5.0
   - 60.0
-  - 8200.0
+  - 8.2
   - 4.0
   - 2027.0
 - section: Market Report Content
@@ -283,7 +270,7 @@ numeric_observations:
   - 2005.0
   - 6.0
   - 60.0
-  - 6100.0
+  - 6.1
   - 2.0
   - 30.0
 - section: Market Report Content
@@ -293,7 +280,6 @@ numeric_observations:
   values:
   - 1.0
   - 28.0
-  - 11500.0
 - section: Market Report Content
   section_type: null
   source_line: DOLPHIN 76 74,133 2002 NAMURA
@@ -309,7 +295,7 @@ numeric_observations:
   values:
   - 7.0
   - 50.0
-  - 8100.0
+  - 8.1
   - 3.0
   - 27.0
 - section: Market Report Content
@@ -319,7 +305,6 @@ numeric_observations:
   values:
   - 3.0
   - 27.0
-  - 7850.0
 - section: Market Report Content
   section_type: null
   source_line: SKY KNIGHT 58,078 2012 SK ONISHI B. & W. 6S50MC-C8.2
@@ -329,14 +314,14 @@ numeric_observations:
   - 2012.0
   - 6.0
   - 50.0
-  - 8200.0
+  - 8.2
 - section: Market Report Content
   section_type: null
   source_line: C:4X30.5T
   unit: null
   values:
   - 4.0
-  - 30500.0
+  - 30.5
 - section: Market Report Content
   section_type: null
   source_line: SS 04/30
@@ -351,7 +336,6 @@ numeric_observations:
   values:
   - 2.0
   - 28.0
-  - 21500.0
 - section: Market Report Content
   section_type: null
   source_line: LUZON 55,657 2010 MITSUI SB
@@ -366,7 +350,7 @@ numeric_observations:
   values:
   - 6.0
   - 50.0
-  - 8200.0
+  - 8.2
 - section: Market Report Content
   section_type: null
   source_line: C:4X30CR
@@ -443,7 +427,7 @@ numeric_observations:
   values:
   - 7.0
   - 60.0
-  - 6200.0
+  - 6.2
   - 6.0
   - 30.0
 - section: Market Report Content
@@ -495,7 +479,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/clarksons_18_09_2026_clarksons_hellas_snp_weekly.md
+source_path: reports/broker_reports/2026/carriers/clarksons_18_09_2026_clarksons_hellas_snp_weekly.md
 source_stem: clarksons_18_09_2026_clarksons_hellas_snp_weekly
 source_url: https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-10/
 summary: 'CLARKSONS HELLAS - SnP WEEKLY

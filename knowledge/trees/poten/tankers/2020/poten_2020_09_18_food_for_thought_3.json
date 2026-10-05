@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2020_09_18_food_for_thought_3__root",
+  "doc_id": "poten_tankers_no_date_poten_2020_09_18_food_for_thought_3",
+  "parent_id": null,
+  "title": "Food For Thought 3",
+  "section_path": [
+    "Food For Thought 3"
+  ],
+  "section_path_text": "Food For Thought 3",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Food For Thought\nOn Monday, 14 September, BP published its annual energy outlook for 2020. In this outlook, BP outlines three alternative energy scenarios looking ahead to 2050. BP stresses that they are not trying to give precise predictions 30 years out.",
+  "keywords": [
+    "brazil",
+    "atlantic",
+    "pacific",
+    "europe",
+    "coal",
+    "crude_oil",
+    "gas",
+    "oil",
+    "demand",
+    "scenarios",
+    "energy",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 845,
+  "source_path": "reports/poten/2020/poten_2020-09-18_food-for-thought-3.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_09_18_food_for_thought_3__s01_food_for_thought",
+      "doc_id": "poten_tankers_no_date_poten_2020_09_18_food_for_thought_3",
+      "parent_id": "poten_tankers_no_date_poten_2020_09_18_food_for_thought_3__root",
+      "title": "Food For Thought",
+      "section_path": [
+        "Food For Thought"
+      ],
+      "section_path_text": "Food For Thought",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "On Monday, 14 September, BP published its annual energy outlook for 2020. In this outlook, BP outlines three alternative energy scenarios looking ahead to 2050.",
+      "keywords": [
+        "brazil",
+        "atlantic",
+        "pacific",
+        "europe",
+        "coal",
+        "crude_oil",
+        "gas",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 841,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

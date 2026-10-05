@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2016_07_22_orient_express__root",
+  "doc_id": "poten_tankers_no_date_poten_2016_07_22_orient_express",
+  "parent_id": null,
+  "title": "Orient Express",
+  "section_path": [
+    "Orient Express"
+  ],
+  "section_path_text": "Orient Express",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Turkey's role in the tanker market\nLast weekend, the world witnessed a failed coup attempt in Turkey. While this event was going on, we received several questions on the oil volumes passing through Turkey. Even though the coup attempt failed and the transportation situation normalized quickly thereafter, we thought it would be interesting to take a look at the importance of Turkey to the tanker market.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "europe",
+    "india",
+    "crude_oil",
+    "gas",
+    "oil",
+    "country",
+    "pipeline",
+    "turkey",
+    "exports"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 716,
+  "source_path": "reports/poten/2016/poten_2016-07-22_orient-express.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_07_22_orient_express__s01_turkey_s_role_in_the_tanker_market",
+      "doc_id": "poten_tankers_no_date_poten_2016_07_22_orient_express",
+      "parent_id": "poten_tankers_no_date_poten_2016_07_22_orient_express__root",
+      "title": "Turkey's role in the tanker market",
+      "section_path": [
+        "Turkey's role in the tanker market"
+      ],
+      "section_path_text": "Turkey's role in the tanker market",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Last weekend, the world witnessed a failed coup attempt in Turkey. While this event was going on, we received several questions on the oil volumes passing through Turkey.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "europe",
+        "india",
+        "crude_oil",
+        "gas",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 708,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2014_04_11_liquefied_petroleum_gold__root",
+  "doc_id": "poten_tankers_no_date_poten_2014_04_11_liquefied_petroleum_gold",
+  "parent_id": null,
+  "title": "Liquefied Petroleum Gold",
+  "section_path": [
+    "Liquefied Petroleum Gold"
+  ],
+  "section_path_text": "Liquefied Petroleum Gold",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Liquefied Petroleum Gold\nWhile the large crude oil tankers slip into what seems like a second quarter slumber, buzz continues to build around the liquefied petroleum gas (LPG) sector. Press headlines tout the recent success of LPG shipowners, many of whom are finally able to relish the fruits of their labor. Freight rates on the sector's the largest vessels, Very Large Gas Carriers (VLGCs) are in uncharted territory, topping $100 per metric ton this week on the benchmark Arabian Gulf to Japan trade.",
+  "keywords": [
+    "capesize",
+    "lpg",
+    "meg",
+    "us_gulf",
+    "japan",
+    "crude_oil",
+    "products",
+    "gas",
+    "are",
+    "oil",
+    "crude",
+    "its"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 561,
+  "source_path": "reports/poten/2014/poten_2014-04-11_liquefied-petroleum-gold.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_04_11_liquefied_petroleum_gold__s01_liquefied_petroleum_gold",
+      "doc_id": "poten_tankers_no_date_poten_2014_04_11_liquefied_petroleum_gold",
+      "parent_id": "poten_tankers_no_date_poten_2014_04_11_liquefied_petroleum_gold__root",
+      "title": "Liquefied Petroleum Gold",
+      "section_path": [
+        "Liquefied Petroleum Gold"
+      ],
+      "section_path_text": "Liquefied Petroleum Gold",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "While the large crude oil tankers slip into what seems like a second quarter slumber, buzz continues to build around the liquefied petroleum gas (LPG) sector. Press headlines tout the recent success of LPG shipowners, many of whom are finally able to relish the fruits of their labor.",
+      "keywords": [
+        "capesize",
+        "lpg",
+        "meg",
+        "us_gulf",
+        "japan",
+        "crude_oil",
+        "products",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 554,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

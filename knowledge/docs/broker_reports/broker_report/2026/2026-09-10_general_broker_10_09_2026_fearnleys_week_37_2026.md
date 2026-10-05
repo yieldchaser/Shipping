@@ -98,7 +98,7 @@ numeric_observations:
   unit: null
   values:
   - 230.0
-  - 12500.0
+  - 12.5
 - section: Market Report Content
   section_type: null
   source_line: $145,000
@@ -183,7 +183,7 @@ numeric_observations:
     climbing after a
   unit: usd
   values:
-  - 18960.0
+  - 18.96
 - section: Market Report Content
   section_type: null
   source_line: low USD 19s. A flurry of recent fixtures reported in the USD 18.4-18.5
@@ -191,7 +191,7 @@ numeric_observations:
   unit: usd
   values:
   - 19.0
-  - 18400.0
+  - 18.4
   - -18.5
 - section: Market Report Content
   section_type: null
@@ -237,7 +237,7 @@ numeric_observations:
   source_line: $18.73 $0.21
   unit: usd
   values:
-  - 18730.0
+  - 18.73
   - 0.21
 - section: Market Report Content
   section_type: null
@@ -493,7 +493,7 @@ numeric_observations:
   unit: usd
   values:
   - 421.03
-  - 38100.0
+  - 38.1
 - section: Market Report Content
   section_type: null
   source_line: $560 $0
@@ -518,7 +518,7 @@ numeric_observations:
   unit: usd
   values:
   - 567.38
-  - 59460.0
+  - 59.46
 - section: Market Report Content
   section_type: null
   source_line: $610 $0
@@ -567,29 +567,29 @@ numeric_observations:
   source_line: Capesize $73.0 $58.0
   unit: usd
   values:
-  - 73000.0
-  - 58000.0
+  - 73.0
+  - 58.0
 - section: Market Report Content
   section_type: null
   source_line: Kamsarmax $41.0 $32.0
   unit: usd
   values:
-  - 41000.0
-  - 32000.0
+  - 41.0
+  - 32.0
 - section: Market Report Content
   section_type: null
   source_line: Ultramax $39.0 $30.0
   unit: usd
   values:
-  - 39000.0
-  - 30000.0
+  - 39.0
+  - 30.0
 - section: Market Report Content
   section_type: null
   source_line: Handysize $31.0 $23.0
   unit: usd
   values:
-  - 31000.0
-  - 23000.0
+  - 31.0
+  - 23.0
 - section: Market Report Content
   section_type: null
   source_line: VLCC $152.0 $122.0
@@ -603,15 +603,15 @@ numeric_observations:
   unit: usd
   values:
   - 103.0
-  - 88000.0
+  - 88.0
 - section: Market Report Content
   section_type: null
   source_line: Aframax / LR2 $82.0 $71.5
   unit: usd
   values:
   - 2.0
-  - 82000.0
-  - 71500.0
+  - 82.0
+  - 71.5
 - section: Market Report Content
   section_type: null
   source_line: 1,235.5
@@ -630,7 +630,7 @@ numeric_observations:
   source_line: $83.97 $0.42
   unit: usd
   values:
-  - 83970.0
+  - 83.97
   - 0.42
 - section: Market Report Content
   section_type: null

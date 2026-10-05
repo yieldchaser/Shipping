@@ -25,8 +25,8 @@ keywords:
 - cid
 - fines
 - jul
-- high
 - change
+- high
 linked_assets_discovered: 2
 linked_assets_failed: 0
 linked_assets_ingested: 2
@@ -51,7 +51,7 @@ numeric_observations:
   - 5.0
   - 0.42
   - 89417.0
-  - 12060.0
+  - 12.06
 - &id002
   section: Main
   section_type: null
@@ -89,8 +89,8 @@ numeric_observations:
   source_line: 'dpi: (72.0, 72.0)'
   unit: null
   values:
-  - 72000.0
-  - 72000.0
+  - 72.0
+  - 72.0
 - &id006
   section: 'Linked asset: 2021-07-14_mmi-daily-iron-ore-index-report-july-14-2021_1407chinese_f028e9bf6ab6.jpg'
   section_type: linked_image_asset
@@ -180,7 +180,7 @@ numeric_observations:
   values:
   - 0.42
   - 89417.0
-  - 12060.0
+  - 12.06
 - &id013
   section: 'Linked asset: 2021-07-14_mmi-daily-iron-ore-index-report-july-14-2021_1407chinese_f028e9bf6ab6.jpg'
   section_type: linked_image_asset
@@ -234,7 +234,7 @@ numeric_observations:
   unit: pct
   values:
   - 62.0
-  - 62500.0
+  - 62.5
   - 1868.0
   - 37.0
   - 2.0
@@ -348,7 +348,7 @@ numeric_observations:
   - 62.0
   - 65.0
   - 65.0
-  - 62500.0
+  - 62.5
 - &id025
   section: 'Linked asset: 2021-07-14_mmi-daily-iron-ore-index-report-july-14-2021_mmi-daily-iron-ore-report-for-july-1_b472c50b9ce5.pdf'
   section_type: linked_pdf
@@ -450,7 +450,7 @@ numeric_observations:
   - 3.0
   - 14.0
   - 2021.0
-  - 5300.0
+  - 5.3
   - 14.0
   - 2021.0
   - 3.0
@@ -486,8 +486,8 @@ numeric_observations:
   source_line: 26.16 10.87 5080
   unit: null
   values:
-  - 26160.0
-  - 10870.0
+  - 26.16
+  - 10.87
   - 5080.0
 - &id037
   section: 'Linked asset: 2021-07-14_mmi-daily-iron-ore-index-report-july-14-2021_mmi-daily-iron-ore-report-for-july-1_b472c50b9ce5.pdf'
@@ -544,7 +544,7 @@ numeric_observations:
   unit: null
   values:
   - 116.75
-  - 18060.0
+  - 18.06
   - 5720.0
 - &id042
   section: 'Linked asset: 2021-07-14_mmi-daily-iron-ore-index-report-july-14-2021_mmi-daily-iron-ore-report-for-july-1_b472c50b9ce5.pdf'
@@ -859,7 +859,7 @@ numeric_observations:
   unit: pct
   values:
   - 62.0
-  - 62500.0
+  - 62.5
   - 1868.0
   - 37.0
   - 2.0
@@ -941,7 +941,7 @@ numeric_observations:
   - 1305.0
   - 201.67
   - 0.29
-  - 87400.0
+  - 87.4
   - 201.67
 - &id068
   section: 'Linked asset: 2021-07-14_mmi-daily-iron-ore-index-report-july-14-2021_mmi-daily-iron-ore-report-for-july-1_b472c50b9ce5.pdf'
@@ -1182,7 +1182,7 @@ numeric_observations:
   unit: pct
   values:
   - 62.0
-  - 62500.0
+  - 62.5
   - 1506.0
   - 1516.0
   - 1665.0
@@ -1243,11 +1243,11 @@ numeric_observations:
   - 65.0
   - 65.0
   - 250.0
-  - 16050.0
+  - 16.05
   - 65.0
   - 65.0
-  - 47700.0
-  - 22210.0
+  - 47.7
+  - 22.21
 - section: 'Linked asset: 2021-07-14_mmi-daily-iron-ore-index-report-july-14-2021_mmi-daily-iron-ore-report-for-july-1_b472c50b9ce5.pdf'
   section_type: linked_pdf
   source_line: '(cid:18)(cid:75)(cid:87)(cid:122)(cid:90)(cid:47)(cid:39)(cid:44)(cid:100)(cid:3)(cid:68)(cid:28)(cid:100)(cid:4)(cid:62)(cid:94)(cid:3)(cid:68)(cid:4)(cid:90)(cid:60)(cid:28)(cid:100)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:853)(cid:3)(cid:4)(cid:'
@@ -1435,7 +1435,7 @@ numeric_observations:
   - 240.0
   - 244.35
   - 0.2
-  - 29550.0
+  - 29.55
 - section: 'Linked asset: 2021-07-14_mmi-daily-iron-ore-index-report-july-14-2021_mmi-daily-iron-ore-report-for-july-1_b472c50b9ce5.pdf'
   section_type: linked_pdf
   source_line: Brazilian SSF 1483 20 -75 Brazilian SSF 218.55 0.20 3.75
@@ -1457,7 +1457,7 @@ numeric_observations:
   - 6.0
   - 220.2
   - 0.2
-  - 5400.0
+  - 5.4
 - section: 'Linked asset: 2021-07-14_mmi-daily-iron-ore-index-report-july-14-2021_mmi-daily-iron-ore-report-for-july-1_b472c50b9ce5.pdf'
   section_type: linked_pdf
   source_line: RTX Fines 1318 26 -240 RTX Fines 204.70 0.20 -10.10
@@ -1534,7 +1534,7 @@ signals:
     - 5.0
     - 0.42
     - 89417.0
-    - 12060.0
+    - 12.06
   - metric: index
     source_line: 'Linked asset: 2021-07-14_mmi-daily-iron-ore-index-report-july-14-2021_1407chinese_f028e9bf6ab6.jpg'
     unit: null
@@ -1677,7 +1677,7 @@ signals:
     - 62.0
     - 65.0
     - 65.0
-    - 62500.0
+    - 62.5
   - metric: index_62_fines
     source_line: DCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE
       Rebar
@@ -1805,7 +1805,7 @@ signals:
     - 1305.0
     - 201.67
     - 0.29
-    - 87400.0
+    - 87.4
   - metric: numeric_observation
     source_line: Shandong Zibo 65% Fe Concentrate Dry 1715 0.3% 865 1752 265.03 0.20%
       122.55 272.32
@@ -1942,11 +1942,11 @@ signals:
     - 65.0
     - 65.0
     - 250.0
-    - 16050.0
+    - 16.05
     - 65.0
     - 65.0
-    - 47700.0
-    - 22210.0
+    - 47.7
+    - 22.21
   - metric: index_62_fines
     source_line: IOSI62 IOPI62 (equivalent) IOSI65 IOPI65 (equivalent) China Domestic
       Composite Mines Index
@@ -2016,7 +2016,7 @@ signals:
     - 240.0
     - 244.35
     - 0.2
-    - 29550.0
+    - 29.55
   - metric: numeric_observation
     source_line: Brazilian Blend Fines 1564 6 6 Brazilian Blend Fines 220.20 0.20
       5.40
@@ -2027,7 +2027,7 @@ signals:
     - 6.0
     - 220.2
     - 0.2
-    - 5400.0
+    - 5.4
   - metric: numeric_observation
     source_line: RTX Fines 1318 26 -240 RTX Fines 204.70 0.20 -10.10
     unit: null
@@ -2143,12 +2143,10 @@ signals:
   - *id080
   signal_family: hellenic_iron_ore_indices
 source: hellenic
-source_path: corpus/02-hellenic/iron_ore/2021/2021-07-14_mmi-daily-iron-ore-index-report-july-14-2021.html
+source_path: reports/hellenic/iron_ore/2021/2021-07-14_mmi-daily-iron-ore-index-report-july-14-2021.html
 source_stem: 2021-07-14_mmi-daily-iron-ore-index-report-july-14-2021
 source_url: https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-july-14-2021
 summary: 'Main
-
-  in Chinese iron ore and steelmaking prices 14/07/2021
 
   DCE iron ore futures fluctuated narrowly throughout the day, the physical port quotations
   were relatively stable over yesterday''s deal price. Following yesterday''s increased
@@ -2171,7 +2169,6 @@ vessel_classes:
 
 ## Summary
 Main
-in Chinese iron ore and steelmaking prices 14/07/2021
 DCE iron ore futures fluctuated narrowly throughout the day, the physical port quotations were relatively stable over yesterday's deal price. Following yesterday's increased market transactions, steel mills are not willing to buy raw materials with a relatively high price, total deal atmosphere decreased today. However, some traders are still not willing to sell while others sell normally considering the production restrictions expectations.
 
 ## Main

@@ -1,0 +1,130 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2018_04_20_imos_climate_control__root",
+  "doc_id": "poten_tankers_no_date_poten_2018_04_20_imos_climate_control",
+  "parent_id": null,
+  "title": "IMOs Climate Control",
+  "section_path": [
+    "IMOs Climate Control"
+  ],
+  "section_path_text": "IMOs Climate Control",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Significant Reduction of Greenhouse Gas Emissions Targeted\nDuring the most recent session of its Marine Environment Protection Committee (MEPC), which took place from April 9 th to 13 th in London, the International Maritime Organization (IMO) adopted an initial strategy to reduce greenhouse gas (GHG) emissions from international shipping (the \"GHG Strategy\"). The headline target of the agreement is to reduce the total annual GHG emissions from international shipping by at least 50% by 2050 (32 years from now) compared to 2008. According to the IMO, which is the agency of the United Nations responsible for regulating shipping, \"The strategy includes a specific reference to a pathway of CO2 emissions reduction consistent with the Paris Agreement temperature goals.",
+  "keywords": [
+    "europe",
+    "crude_oil",
+    "gas",
+    "emissions",
+    "ghg",
+    "imo",
+    "ship",
+    "efficiency",
+    "reduction",
+    "co2",
+    "international",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1075,
+  "source_path": "reports/poten/2018/poten_2018-04-20_imos-climate-control.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_04_20_imos_climate_control__s01_significant_reduction_of_greenhouse_gas_emissions_targeted",
+      "doc_id": "poten_tankers_no_date_poten_2018_04_20_imos_climate_control",
+      "parent_id": "poten_tankers_no_date_poten_2018_04_20_imos_climate_control__root",
+      "title": "Significant Reduction of Greenhouse Gas Emissions Targeted",
+      "section_path": [
+        "Significant Reduction of Greenhouse Gas Emissions Targeted"
+      ],
+      "section_path_text": "Significant Reduction of Greenhouse Gas Emissions Targeted",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "During the most recent session of its Marine Environment Protection Committee (MEPC), which took place from April 9 th to 13 th in London, the International Maritime Organization (IMO) adopted an initial strategy to reduce greenhouse gas (GHG) emissions from international shipping (the \"GHG Strategy\"). The headline target of the agreement is to reduce the total annual GHG emissions from international shipping by at least 50% by 2050 (32 years from now) compared to 2008.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "gas",
+        "imo",
+        "emissions",
+        "ghg",
+        "co2",
+        "international"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 587,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_04_20_imos_climate_control__s02_total",
+      "doc_id": "poten_tankers_no_date_poten_2018_04_20_imos_climate_control",
+      "parent_id": "poten_tankers_no_date_poten_2018_04_20_imos_climate_control__root",
+      "title": "Total",
+      "section_path": [
+        "Total"
+      ],
+      "section_path_text": "Total",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_04_20_imos_climate_control__s03_shipping",
+      "doc_id": "poten_tankers_no_date_poten_2018_04_20_imos_climate_control",
+      "parent_id": "poten_tankers_no_date_poten_2018_04_20_imos_climate_control__root",
+      "title": "Shipping",
+      "section_path": [
+        "Shipping"
+      ],
+      "section_path_text": "Shipping",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "fishing"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_04_20_imos_climate_control__s04_global",
+      "doc_id": "poten_tankers_no_date_poten_2018_04_20_imos_climate_control",
+      "parent_id": "poten_tankers_no_date_poten_2018_04_20_imos_climate_control__root",
+      "title": "Global",
+      "section_path": [
+        "Global"
+      ],
+      "section_path_text": "Global",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "step in the process of measuring current emissions and tracking progress towards reduction targets. So, how will the industry go about meeting the IMOs aggressive GHG reduction targets?",
+      "keywords": [
+        "efficiency",
+        "ship",
+        "energy",
+        "are",
+        "eedi",
+        "reduction",
+        "fuels",
+        "options"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 464,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

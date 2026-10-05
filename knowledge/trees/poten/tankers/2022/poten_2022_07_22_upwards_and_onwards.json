@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2022_07_22_upwards_and_onwards__root",
+  "doc_id": "poten_tankers_no_date_poten_2022_07_22_upwards_and_onwards",
+  "parent_id": null,
+  "title": "Upwards and Onwards",
+  "section_path": [
+    "Upwards and Onwards"
+  ],
+  "section_path_text": "Upwards and Onwards",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Changing Chinese import patterns scramble tanker trades\nIn the decade prior to Covid, Chinese crude oil imports were growing rapidly, from 4.1 million barrels per day (Mb/d) in 2009 to 10.1 Mb/d in 2019, an average annual growth rate of 9.5%. Mainly as a result of the Covid pandemic, Chinese crude oil demand growth slowed to a crawl in recent years, with 2021 actually registering a 550,000 b/d decline. So far in 2022, Chinese imports have been quite volatile as temporary Covid lockdowns in major cities dampened oil demand and stunted the recovery.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "west_africa",
+    "crude_oil",
+    "oil",
+    "chinese",
+    "demand",
+    "crude",
+    "imports"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 990,
+  "source_path": "reports/poten/2022/poten_2022-07-22_upwards-and-onwards.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_07_22_upwards_and_onwards__s01_changing_chinese_import_patterns_scramble_tanker_trades",
+      "doc_id": "poten_tankers_no_date_poten_2022_07_22_upwards_and_onwards",
+      "parent_id": "poten_tankers_no_date_poten_2022_07_22_upwards_and_onwards__root",
+      "title": "Changing Chinese import patterns scramble tanker trades",
+      "section_path": [
+        "Changing Chinese import patterns scramble tanker trades"
+      ],
+      "section_path_text": "Changing Chinese import patterns scramble tanker trades",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In the decade prior to Covid, Chinese crude oil imports were growing rapidly, from 4.1 million barrels per day (Mb/d) in 2009 to 10.1 Mb/d in 2019, an average annual growth rate of 9.5%. Mainly as a result of the Covid pandemic, Chinese crude oil demand growth slowed to a crawl in recent years, with 2021 actually registering a 550,000 b/d decline.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "west_africa",
+        "crude_oil",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 982,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -126,7 +126,7 @@ numeric_observations:
     across dirty
   unit: usd
   values:
-  - 34500.0
+  - 34.5
 - section: Market Report Content
   section_type: null
   source_line: with WAFR-East paying WS 530 on the latest deal, up from WS 480 at
@@ -247,7 +247,7 @@ numeric_observations:
     via Bab-el-
   unit: usd
   values:
-  - 7500.0
+  - 7.5
 - section: Market Report Content
   section_type: null
   source_line: Mandeb for outside AG business basis UKC. Naphtha runs East have firmed
@@ -297,7 +297,7 @@ numeric_observations:
     the Houthis and
   unit: usd
   values:
-  - 5500.0
+  - 5.5
 - section: Market Report Content
   section_type: null
   source_line: last agreed deal for naphtha heading East via Cape of Good Hope was
@@ -390,9 +390,9 @@ numeric_observations:
   source_line: Δ W-O-W 5.3 6.8 7.0
   unit: null
   values:
-  - 5300.0
-  - 6800.0
-  - 7000.0
+  - 5.3
+  - 6.8
+  - 7.0
 - section: Market Report Content
   section_type: null
   source_line: 6 Route Qty $ / Day W-O-W
@@ -587,7 +587,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/affinity_19_09_2026_affinity_tanker_weekly_18_september_2026.md
+source_path: reports/broker_reports/2026/affinity/affinity_19_09_2026_affinity_tanker_weekly_18_september_2026.md
 source_stem: affinity_19_09_2026_affinity_tanker_weekly_18_september_2026
 source_url: https://www.hellenicshippingnews.com/affinity-tanker-weekly-18-september-2026/
 summary: 'Affinity Tanker Weekly, 18 September 2026

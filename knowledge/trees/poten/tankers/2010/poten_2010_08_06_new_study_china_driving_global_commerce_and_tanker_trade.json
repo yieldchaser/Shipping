@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_08_06_new_study_china_driving_global_commerce_and_tanker_trade__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_08_06_new_study_china_driving_global_commerce_and_tanker_trade",
+  "parent_id": null,
+  "title": "New Study: China: Driving Global Commerce and Tanker Trade",
+  "section_path": [
+    "New Study: China: Driving Global Commerce and Tanker Trade"
+  ],
+  "section_path_text": "New Study: China: Driving Global Commerce and Tanker Trade",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "New Study: China: Driving Global Commerce and Tanker Trade\nLast month, the International Energy Agency (IEA) announced that in 2009, China surpassed the United States to become the world's largest energy consumer. Measured in combined use of crude oil, nuclear, coal, natural gas and other energy sources, China consumed 2.25 billion tons of oil equivalent in 2009, 4% more than the United States. Rather than heralding the beginning of a new era in energy, the announcement merely confirmed what has been clear for some time; China's growth will be a central driver for the international economy in the years to come.",
+  "keywords": [
+    "china",
+    "brazil",
+    "japan",
+    "coal",
+    "crude_oil",
+    "gas",
+    "domestic",
+    "its",
+    "international",
+    "demand",
+    "oil",
+    "energy"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 616,
+  "source_path": "reports/poten/2010/poten_2010-08-06_new-study-china-driving-global-commerce-and-tanker-trade.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_08_06_new_study_china_driving_global_commerce_and_tanker_trade__s01_new_study_china_driving_global_commerce_and_tanker_trade",
+      "doc_id": "poten_tankers_no_date_poten_2010_08_06_new_study_china_driving_global_commerce_and_tanker_trade",
+      "parent_id": "poten_tankers_no_date_poten_2010_08_06_new_study_china_driving_global_commerce_and_tanker_trade__root",
+      "title": "New Study: China: Driving Global Commerce and Tanker Trade",
+      "section_path": [
+        "New Study: China: Driving Global Commerce and Tanker Trade"
+      ],
+      "section_path_text": "New Study: China: Driving Global Commerce and Tanker Trade",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Last month, the International Energy Agency (IEA) announced that in 2009, China surpassed the United States to become the world's largest energy consumer. Measured in combined use of crude oil, nuclear, coal, natural gas and other energy sources, China consumed 2.25 billion tons of oil equivalent in 2009, 4% more than the United States.",
+      "keywords": [
+        "china",
+        "brazil",
+        "coal",
+        "crude_oil",
+        "gas",
+        "oil",
+        "energy",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 251,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_08_06_new_study_china_driving_global_commerce_and_tanker_trade__s02_net_imports",
+      "doc_id": "poten_tankers_no_date_poten_2010_08_06_new_study_china_driving_global_commerce_and_tanker_trade",
+      "parent_id": "poten_tankers_no_date_poten_2010_08_06_new_study_china_driving_global_commerce_and_tanker_trade__root",
+      "title": "Net Imports",
+      "section_path": [
+        "Net Imports"
+      ],
+      "section_path_text": "Net Imports",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Any attempt to project China's development must grapple with its evolving role as both a dominant force in the international economy and a country with considerable domestic challenges. China has indicated that coming years will see it aim to address domestic economic inequality and the environmental consequences of it rapid growth.",
+      "keywords": [
+        "china",
+        "domestic",
+        "international",
+        "its",
+        "determining",
+        "economy",
+        "rapidly",
+        "role"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 187,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_08_06_new_study_china_driving_global_commerce_and_tanker_trade__s03_china",
+      "doc_id": "poten_tankers_no_date_poten_2010_08_06_new_study_china_driving_global_commerce_and_tanker_trade",
+      "parent_id": "poten_tankers_no_date_poten_2010_08_06_new_study_china_driving_global_commerce_and_tanker_trade__root",
+      "title": "China",
+      "section_path": [
+        "China"
+      ],
+      "section_path_text": "China",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Japan South Korea Other Like Japan and Korea before it, China has identified shipbuilding as an important domestic industry for economic growth and development, working in recent years to gather the technology and expertise necessary to narrow the gap in quality and reputation with those established constructors. The potential for China to overtake Korea as the world's largest shipbuilder could have widespread implications for the manufacturing sectors in each economy.",
+      "keywords": [
+        "china",
+        "japan",
+        "korea",
+        "demand",
+        "domestic",
+        "fundamentals",
+        "growth",
+        "how"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 160,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

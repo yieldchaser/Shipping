@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nIn the gas carrier market, Hyundai HI (Ulsan) announced contracting eight firm 174k CBM LNG Carriers with an unknown European owner\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-07-08_clarksons-platou-hellas-snp-weekly-bulletin-26_report-08-07-2022_399ac515f991.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-07-08_clarksons-platou-hellas-snp-weekly-bulletin-26_report-08-07-2022_399ac515f991.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 08 July 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS/DD\nMAN B. 6S60MC6.2\nHUI XIN 8 92,973 2012 COSCO DALIAN Freshly RGN USD 22 M U/D\nTier II, BTWS fitted\nPassed\nMAN B. 5S50ME-B9.3 SS 09/24\nINTERLINK ETERNITY 39,094 2019 ZHEJIANG ZENGZHOU HI USD 29.6 M U/D\n4X30.5T, BWTS fitted DD 09/22\nSS 10/25\nVENTURE OCEAN 38,947\nMAN-B&W 5S50ME-B9.2 DD 10/23\nUSD 50 M\n2015 JIANGMEN NANYANG OHBS, 4X30.5T, U/D\nEn Bloc\nLOGS fitted, BWTS fitted SS 11/25\nVENTURE TEAM 38,904\nDD 11/23\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN B.",
+  "summary": "Main\nIn the gas carrier market, Hyundai HI (Ulsan) announced contracting eight firm 174k CBM LNG Carriers with an unknown European owner\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-07-08_clarksons-platou-hellas-snp-weekly-bulletin-26_report-08-07-2022_399ac515f991.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2022-07-08_clarksons-platou-hellas-snp-weekly-bulletin-26_report-08-07-2022_399ac515f991.pdf\n\n# ` Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 08 July 2022\n\n## BULK CARRIERS\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|HUI XIN 8|92,973|2012 COSCO DALIAN|MAN B. 6S60MC6.2 Tier II, BTWS fitted|SS/DD Freshly Passed|RGN USD 22 M|U/D|\n|INTERLINK ETERNITY|39,094|2019 ZHEJIANG ZENGZHOU HI|MAN B. 5S50ME -B9.3 4X30.5T, BWTS fitted|SS 09/24 DD 09/22|USD 29.6 M|U/D|\n|VENTURE OCEAN|38,947|2015 JIANGMEN NANYANG|MAN-B&W 5S50ME-B9.2 OHBS, 4X30.5T, LOGS fitted, BWTS fitted|SS 100//25 DD 1 23|US D 50 En BlocM|U/D|\n|VENTURE TEAM|38,904|||SS 11/25 DD 11/23|||\n\n## <u>TANKERS - CHEMICALS - LPG/LNGs</u>\n\n## VESSEL <u>DWT</u> BLT DETAILS <u>SS/DD</u> PRICE BUYER\n\n**KRONVIKEN** 113,500 2006 SAMSUNG MAN B.",
   "keywords": [
     "vlcc",
     "lng",
@@ -18,16 +18,16 @@
     "pacific",
     "europe",
     "india",
+    "crude_oil",
     "steel",
     "gas",
-    "any",
-    "information",
-    "clarksons"
+    "platou",
+    "information"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2389,
-  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-07-08_clarksons-platou-hellas-snp-weekly-bulletin-26.html",
+  "token_count": 2618,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-07-08_clarksons-platou-hellas-snp-weekly-bulletin-26.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-26",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-07-08_clarksons-platou-hellas-snp-weekly-bulletin-26_report-08-07-2022_399ac515f991.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-07-08_clarksons-platou-hellas-snp-weekly-bulletin-26_report-08-07-2022_399ac515f991.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 08 July 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS/DD\nMAN B. 6S60MC6.2\nHUI XIN 8 92,973 2012 COSCO DALIAN Freshly RGN USD 22 M U/D\nTier II, BTWS fitted\nPassed\nMAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-07-08_clarksons-platou-hellas-snp-weekly-bulletin-26_report-08-07-2022_399ac515f991.pdf\n\n# ` Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 08 July 2022\n\n## BULK CARRIERS\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|HUI XIN 8|92,973|2012 COSCO DALIAN|MAN B. 6S60MC6.2 Tier II, BTWS fitted|SS/DD Freshly Passed|RGN USD 22 M|U/D|\n|INTERLINK ETERNITY|39,094|2019 ZHEJIANG ZENGZHOU HI|MAN B.",
       "keywords": [
         "vlcc",
         "lng",
@@ -78,11 +78,11 @@
         "pacific",
         "europe",
         "india",
-        "steel"
+        "crude_oil"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2302,
+      "token_count": 2531,
       "section_type": "linked_pdf",
       "children": []
     }

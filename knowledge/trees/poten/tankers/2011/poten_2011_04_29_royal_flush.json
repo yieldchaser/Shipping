@@ -1,0 +1,202 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_04_29_royal_flush__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_04_29_royal_flush",
+  "parent_id": null,
+  "title": "Royal Flush",
+  "section_path": [
+    "Royal Flush"
+  ],
+  "section_path_text": "Royal Flush",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Royal Flush\nApril 2011 will be remembered as the month of the Royal Wedding by many, but it has also been an important month for the tanker industry. The past month saw the highest volume of cargo lifted on VLCCs on average over the past two years and more impressively since August 2005, based on reported spot fixture data. The feat is particularly remarkable considering the lingering fears in the market over oil demand destruction and prolonged sluggish global economic growth.",
+  "keywords": [
+    "vlcc",
+    "meg",
+    "grain",
+    "crude_oil",
+    "demand",
+    "liftings",
+    "average",
+    "apr",
+    "arabian",
+    "availability",
+    "avg",
+    "but"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 659,
+  "source_path": "reports/poten/2011/poten_2011-04-29_royal-flush.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_29_royal_flush__s01_royal_flush",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_29_royal_flush",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_29_royal_flush__root",
+      "title": "Royal Flush",
+      "section_path": [
+        "Royal Flush"
+      ],
+      "section_path_text": "Royal Flush",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "April 2011 will be remembered as the month of the Royal Wedding by many, but it has also been an important month for the tanker industry. The past month saw the highest volume of cargo lifted on VLCCs on average over the past two years and more impressively since August 2005, based on reported spot fixture data.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "month",
+        "demand",
+        "past",
+        "april",
+        "august",
+        "average"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 108,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_29_royal_flush__s02_resistance_is_feudal",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_29_royal_flush",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_29_royal_flush__root",
+      "title": "Resistance is Feudal",
+      "section_path": [
+        "Resistance is Feudal"
+      ],
+      "section_path_text": "Resistance is Feudal",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The chart below illustrates the growing disconnect between VLCC demand, measured by reported liftings in the Arabian Gulf, and benchmark route earnings.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "arabian",
+        "below",
+        "benchmark",
+        "between",
+        "chart",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 27,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_29_royal_flush__s03_cargo_lifted_million_mt",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_29_royal_flush",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_29_royal_flush__root",
+      "title": "Cargo Lifted (Million mT)",
+      "section_path": [
+        "Cargo Lifted (Million mT)"
+      ],
+      "section_path_text": "Cargo Lifted (Million mT)",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "TCE Ras Tanura ‐ Chiba (260kt) VLCC rates from the Arabian Gulf to the Far East have averaged $8,300/day over April, representing a decline of over 74% from the 2010 average despite an increase in VLCC demand of 12% over the same period. The trend is most evident following June 2010 where vessel demand in the region strengthened and remained fairly stable overall, and yet VLCC earnings lost substantial value and have been sustained at relatively dismal levels thereafter.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "demand",
+        "april",
+        "arabian",
+        "average",
+        "averaged",
+        "chiba"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 105,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_29_royal_flush__s04_all_the_king_s_horses",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_29_royal_flush",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_29_royal_flush__root",
+      "title": "All The King's Horses",
+      "section_path": [
+        "All The King's Horses"
+      ],
+      "section_path_text": "All The King's Horses",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The main culprit behind the erosion of VLCC market rates has not been demand, but rather- supply. The chart below shows the VLCC market balance in the Arabian Gulf based on reported spot fixture data.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "arabian",
+        "balance",
+        "based",
+        "behind",
+        "below",
+        "but"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 41,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_29_royal_flush__s05_ag_west_liftings",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_29_royal_flush",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_29_royal_flush__root",
+      "title": "AG ‐ West Liftings",
+      "section_path": [
+        "AG ‐ West Liftings"
+      ],
+      "section_path_text": "AG ‐ West Liftings",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Avg Liftings 2005‐2011 Apr 2010 ‐ Apr 2011 Avg Liftings Feb 2011 ‐ Apr 2011 Avg Liftings Spot Availability 30 Days While many savvy market observers might be quick to chalk up low rates to weak demand, the above chart demonstrates that VLCC demand has not only recovered in the AG to pre‐ financial crisis levels but in fact rebounded to well above historical average levels. Yet since 2005 the VLCC fleet has grown by approximately 22%, straining fundamentals in a market that saw demand dip significantly following 2008.",
+      "keywords": [
+        "vlcc",
+        "apr",
+        "avg",
+        "demand",
+        "liftings",
+        "above",
+        "availabilities",
+        "availability"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 208,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_29_royal_flush__s06_happily_ever_after",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_29_royal_flush",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_29_royal_flush__root",
+      "title": "Happily Ever After?",
+      "section_path": [
+        "Happily Ever After?"
+      ],
+      "section_path_text": "Happily Ever After?",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Thus as the global economy and thereby crude markets turn a corner, vessel supply pressures may stymie parallel growth in the VLCC sector. The influx of newbuildings into the VLCC trading fleet will continue to absorb incremental demand increases.",
+      "keywords": [
+        "vlcc",
+        "grain",
+        "continue",
+        "could",
+        "demand",
+        "double",
+        "fleet",
+        "hull"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 132,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

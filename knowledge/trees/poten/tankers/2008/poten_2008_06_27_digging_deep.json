@@ -1,0 +1,269 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_06_27_digging_deep__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_06_27_digging_deep",
+  "parent_id": null,
+  "title": "Digging Deep",
+  "section_path": [
+    "Digging Deep"
+  ],
+  "section_path_text": "Digging Deep",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Digging Deep\nThe prospect of drilling for oil in the United States' outer continental shelf (OCS) has ramifications across not only the political spectrum, but the shipping world as well. The recent pre-election conversations regarding peak oil, energy independence and high gasoline prices have certainly raised some eyebrows. The advancements made to drilling technology, as well as the crude oil transportation systems have afforded the upstream side of the business more choices with respect to exploration, recovery of crude oil and distribution in deeper waters, while continuing to preserve the environment.",
+  "keywords": [
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "gas",
+    "oil",
+    "crude",
+    "shuttle",
+    "can",
+    "gulf",
+    "production",
+    "fpso"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 923,
+  "source_path": "reports/poten/2008/poten_2008-06-27_digging-deep.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_06_27_digging_deep__s01_digging_deep",
+      "doc_id": "poten_tankers_no_date_poten_2008_06_27_digging_deep",
+      "parent_id": "poten_tankers_no_date_poten_2008_06_27_digging_deep__root",
+      "title": "Digging Deep",
+      "section_path": [
+        "Digging Deep"
+      ],
+      "section_path_text": "Digging Deep",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The prospect of drilling for oil in the United States' outer continental shelf (OCS) has ramifications across not only the political spectrum, but the shipping world as well. The recent pre-election conversations regarding peak oil, energy independence and high gasoline prices have certainly raised some eyebrows.",
+      "keywords": [
+        "europe",
+        "us_gulf",
+        "crude_oil",
+        "products",
+        "gas",
+        "oil",
+        "crude",
+        "drilling"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 171,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_06_27_digging_deep__s02_central",
+      "doc_id": "poten_tankers_no_date_poten_2008_06_27_digging_deep",
+      "parent_id": "poten_tankers_no_date_poten_2008_06_27_digging_deep__root",
+      "title": "Central",
+      "section_path": [
+        "Central"
+      ],
+      "section_path_text": "Central",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "area",
+        "planning",
+        "eastern"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_06_27_digging_deep__s03_western",
+      "doc_id": "poten_tankers_no_date_poten_2008_06_27_digging_deep",
+      "parent_id": "poten_tankers_no_date_poten_2008_06_27_digging_deep__root",
+      "title": "Western",
+      "section_path": [
+        "Western"
+      ],
+      "section_path_text": "Western",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "area",
+        "planning"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_06_27_digging_deep__s04_ridge",
+      "doc_id": "poten_tankers_no_date_poten_2008_06_27_digging_deep",
+      "parent_id": "poten_tankers_no_date_poten_2008_06_27_digging_deep__root",
+      "title": "Ridge",
+      "section_path": [
+        "Ridge"
+      ],
+      "section_path_text": "Ridge",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "lund"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_06_27_digging_deep__s05_sigsbee",
+      "doc_id": "poten_tankers_no_date_poten_2008_06_27_digging_deep",
+      "parent_id": "poten_tankers_no_date_poten_2008_06_27_digging_deep__root",
+      "title": "Sigsbee",
+      "section_path": [
+        "Sigsbee"
+      ],
+      "section_path_text": "Sigsbee",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "",
+      "keywords": [
+        "escarpment"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_06_27_digging_deep__s06_amery",
+      "doc_id": "poten_tankers_no_date_poten_2008_06_27_digging_deep",
+      "parent_id": "poten_tankers_no_date_poten_2008_06_27_digging_deep__root",
+      "title": "Amery",
+      "section_path": [
+        "Amery"
+      ],
+      "section_path_text": "Amery",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "",
+      "keywords": [
+        "terrace"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_06_27_digging_deep__s07_lund",
+      "doc_id": "poten_tankers_no_date_poten_2008_06_27_digging_deep",
+      "parent_id": "poten_tankers_no_date_poten_2008_06_27_digging_deep__root",
+      "title": "Lund",
+      "section_path": [
+        "Lund"
+      ],
+      "section_path_text": "Lund",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "South Currently, the 43 million leased acres on the total OCS account for about 27% of America's domestic oil production. The chart below shows the current production scenario in the US Gulf of Mexico.",
+      "keywords": [
+        "us_gulf",
+        "crude_oil",
+        "million",
+        "production",
+        "barrels",
+        "day",
+        "per",
+        "scenario"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 103,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_06_27_digging_deep__s08_shallow_water",
+      "doc_id": "poten_tankers_no_date_poten_2008_06_27_digging_deep",
+      "parent_id": "poten_tankers_no_date_poten_2008_06_27_digging_deep__root",
+      "title": "Shallow-water",
+      "section_path": [
+        "Shallow-water"
+      ],
+      "section_path_text": "Shallow-water",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "",
+      "keywords": [
+        "deepwater"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_06_27_digging_deep__s09_mms_deepwater_projection",
+      "doc_id": "poten_tankers_no_date_poten_2008_06_27_digging_deep",
+      "parent_id": "poten_tankers_no_date_poten_2008_06_27_digging_deep__root",
+      "title": "MMS Deepwater Projection",
+      "section_path": [
+        "MMS Deepwater Projection"
+      ],
+      "section_path_text": "MMS Deepwater Projection",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "",
+      "keywords": [
+        "discoveries",
+        "industry-announced"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_06_27_digging_deep__s10_undiscovered_resources",
+      "doc_id": "poten_tankers_no_date_poten_2008_06_27_digging_deep",
+      "parent_id": "poten_tankers_no_date_poten_2008_06_27_digging_deep__root",
+      "title": "Undiscovered Resources",
+      "section_path": [
+        "Undiscovered Resources"
+      ],
+      "section_path_text": "Undiscovered Resources",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "There is an estimated 45 billion barrels of oil in the US Gulf of Mexico between the Western, Central and Eastern Planning Areas. Production is generally categorized as follows: shallow water is less that 1,000 feet, deep water is between 1,000 and 7,500 feet and ultra-deep water is greater than 7,500 feet.",
+      "keywords": [
+        "us_gulf",
+        "crude_oil",
+        "shuttle",
+        "can",
+        "crude",
+        "fpso",
+        "oil",
+        "between"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 583,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

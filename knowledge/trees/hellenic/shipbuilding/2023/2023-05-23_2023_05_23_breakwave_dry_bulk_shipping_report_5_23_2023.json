@@ -9,7 +9,7 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 5.23.2023",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nFreight futures contango evaporates as optimism turns into caution - Not much has changed in the spot market\nSource: Breakwave Advisors\n\nLinked asset: 2023-05-23_breakwave-dry-bulk-shipping-report-5-23-2023_breakwavemay232023report_f462eedd5645.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-05-23_breakwave-dry-bulk-shipping-report-5-23-2023_breakwavemay232023report_f462eedd5645.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nMay 23, 2023\nBreakwave Dry Futures Index: 1,571 Baltic Dry Index (spot): 1,365 Short-term Indicators:\n↓ 30D: -13.7% ↓ 30D: -9.2% Momentum: Negative\n↑ YTD: 52.7% ↓ YTD: -9.9% Sentiment: Negative\n↓ YOY: -54.0% ↓ YOY: -59.2% Fundamentals: Neutral\nBi-Weekly Report\n• Freight futures contango evaporates as optimism turns into caution - Not much has changed in the spot market\nduring the past few weeks, yet Capesize futures took a dive and have now erased any premium that was present\nover the last few months. Although spot rates are trading above mid-April levels, futures are some 20% lower than\nthe comparable period. Clearly sentiment has turned sour, as across the commodity spectrum the relatively weak\nnumbers out of China has taken a toll on any optimism relati",
+  "summary": "Main\nFreight futures contango evaporates as optimism turns into caution - Not much has changed in the spot market\nSource: Breakwave Advisors\n\nLinked asset: 2023-05-23_breakwave-dry-bulk-shipping-report-5-23-2023_breakwavemay232023report_f462eedd5645.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2023-05-23_breakwave-dry-bulk-shipping-report-5-23-2023_breakwavemay232023report_f462eedd5645.pdf\n\n# BDRY\n\n## Dry Bulk Shipping\n\n**May 23, 2023**\n\n##### 1,571 1,365\n\n|Breakwave Dry Futures Index:||Baltic Dry Index (spot):|Short-term Indicators:||\n|---|---|---|---|---|\n|↓|30D: -13.7%|↓ 30D: -9.2%|Momentum:|Negative|\n|↑|YTD: 52.7%|↓ YTD: -9.9%|Sentiment:|Negative|\n|↓ Freight futures contango evaporates as optimism turns into caution - Not much has changed in the spot market|YOY: -54.0%|↓ YOY: -59.2%|Fundamentals:|Neutral|\n\n#### <u>Bi-Weekly Report</u>\n\n• during the past few weeks, yet **Capesize futures took a dive** and have now erased any premium that was present over the last few months. Although **spot rates** are trading **above mid-April** levels, **futures** are some **20% lower** than the comparable period. Clearly sentiment has turned sour, as across the commodity spectrum th",
   "keywords": [
     "capesize",
     "panamax",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1444,
-  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-05-23_breakwave-dry-bulk-shipping-report-5-23-2023.html",
+  "token_count": 1571,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-05-23_breakwave-dry-bulk-shipping-report-5-23-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-5-23-2023",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-05-23_breakwave-dry-bulk-shipping-report-5-23-2023_breakwavemay232023report_f462eedd5645.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-05-23_breakwave-dry-bulk-shipping-report-5-23-2023_breakwavemay232023report_f462eedd5645.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nMay 23, 2023\nBreakwave Dry Futures Index: 1,571 Baltic Dry Index (spot): 1,365 Short-term Indicators:\n↓ 30D: -13.7% ↓ 30D: -9.2% Momentum: Negative\n↑ YTD: 52.7% ↓ YTD: -9.9% Sentiment: Negative\n↓ YOY: -54.0% ↓ YOY: -59.2% Fundamentals: Neutral\nBi-Weekly Report\n• Freight futures contango evaporates as optimism turns into caution - Not much has changed in the spot market\nduring the past few weeks, yet Capesize futures took a dive and have now erased any premium that was present\nover the last few months. Although spot rates are trading above mid-April levels, futures are some 20% lower than\nthe comparable period.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-05-23_breakwave-dry-bulk-shipping-report-5-23-2023_breakwavemay232023report_f462eedd5645.pdf\n\n# BDRY\n\n## Dry Bulk Shipping\n\n**May 23, 2023**\n\n##### 1,571 1,365\n\n|Breakwave Dry Futures Index:||Baltic Dry Index (spot):|Short-term Indicators:||\n|---|---|---|---|---|\n|↓|30D: -13.7%|↓ 30D: -9.2%|Momentum:|Negative|\n|↑|YTD: 52.7%|↓ YTD: -9.9%|Sentiment:|Negative|\n|↓ Freight futures contango evaporates as optimism turns into caution - Not much has changed in the spot market|YOY: -54.0%|↓ YOY: -59.2%|Fundamentals:|Neutral|\n\n#### <u>Bi-Weekly Report</u>\n\n• during the past few weeks, yet **Capesize futures took a dive** and have now erased any premium that was present over the last few months. Although **spot rates** are trading **above mid-April** levels, **futures** are some **20% lower** than the comparable period.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1373,
+      "token_count": 1500,
       "section_type": "linked_pdf",
       "children": []
     }

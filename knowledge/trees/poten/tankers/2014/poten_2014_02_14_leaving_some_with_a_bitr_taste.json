@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2014_02_14_leaving_some_with_a_bitr_taste__root",
+  "doc_id": "poten_tankers_no_date_poten_2014_02_14_leaving_some_with_a_bitr_taste",
+  "parent_id": null,
+  "title": "Leaving Some with a BITR Taste",
+  "section_path": [
+    "Leaving Some with a BITR Taste"
+  ],
+  "section_path_text": "Leaving Some with a BITR Taste",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Leaving Some with a BITR Taste\nThe market landscape for crude oil and refined product trades has an inherent element of shifting sand, presenting an organization like the Baltic Exchange with certain challenges. The Baltic Exchange is a centuries-old institution that, among other services, oversees a collective of member shipbrokers who contribute daily freight rate assessments for the wet and dry bulk shipping markets. The freight rates that are collected by the Baltic Exchange are in turn used by both charterers and shipowners, as well as other market participants, as a reliable metric of freight pricing for internal and external financial calculations.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "brazil",
+    "atlantic",
+    "us_gulf",
+    "japan",
+    "crude_oil",
+    "products",
+    "gas",
+    "aruba",
+    "caribbean",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 915,
+  "source_path": "reports/poten/2014/poten_2014-02-14_leaving-some-with-a-bitr-taste.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_02_14_leaving_some_with_a_bitr_taste__s01_leaving_some_with_a_bitr_taste",
+      "doc_id": "poten_tankers_no_date_poten_2014_02_14_leaving_some_with_a_bitr_taste",
+      "parent_id": "poten_tankers_no_date_poten_2014_02_14_leaving_some_with_a_bitr_taste__root",
+      "title": "Leaving Some with a BITR Taste",
+      "section_path": [
+        "Leaving Some with a BITR Taste"
+      ],
+      "section_path_text": "Leaving Some with a BITR Taste",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The market landscape for crude oil and refined product trades has an inherent element of shifting sand, presenting an organization like the Baltic Exchange with certain challenges. The Baltic Exchange is a centuries-old institution that, among other services, oversees a collective of member shipbrokers who contribute daily freight rate assessments for the wet and dry bulk shipping markets.",
+      "keywords": [
+        "capesize",
+        "crude_oil",
+        "are",
+        "assessments",
+        "certain",
+        "other",
+        "participants",
+        "routes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 234,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_02_14_leaving_some_with_a_bitr_taste__s02_ws_rate_basket",
+      "doc_id": "poten_tankers_no_date_poten_2014_02_14_leaving_some_with_a_bitr_taste",
+      "parent_id": "poten_tankers_no_date_poten_2014_02_14_leaving_some_with_a_bitr_taste__root",
+      "title": "WS Rate Basket",
+      "section_path": [
+        "WS Rate Basket"
+      ],
+      "section_path_text": "WS Rate Basket",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Baltic Dirty Tanker Index The Baltic Exchange International Tanker Routes (BITR) are quoted on individual trades for specific cargo sizes for clean and dirty cargoes. For example, the tanker trade with the largest volume worldwide is often referred to as \"TD3\" or \"Tanker Dirty\" route number \"3\" - the voyage basis is from Ras Tanura, Saudi Arabia to Chiba, Japan for 265,000 metric tons of cargo.",
+      "keywords": [
+        "panamax",
+        "brazil",
+        "atlantic",
+        "us_gulf",
+        "japan",
+        "crude_oil",
+        "products",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 386,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_02_14_leaving_some_with_a_bitr_taste__s03_x_caribbean",
+      "doc_id": "poten_tankers_no_date_poten_2014_02_14_leaving_some_with_a_bitr_taste",
+      "parent_id": "poten_tankers_no_date_poten_2014_02_14_leaving_some_with_a_bitr_taste__root",
+      "title": "X - Caribbean",
+      "section_path": [
+        "X - Caribbean"
+      ],
+      "section_path_text": "X - Caribbean",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "To US Atlantic Coast To US Gulf To Other It stands to reason that the Baltic Exchange should continue to assess at least one dirty Panamax trade route. Contracts of Affreightment, or COAs, whereby shipowners and oil companies pre-arrange transportation volumes over a specified period of time, often incorporate some kind of discount to prevailing spot market rates.",
+      "keywords": [
+        "panamax",
+        "atlantic",
+        "us_gulf",
+        "crude_oil",
+        "products",
+        "gulf",
+        "are",
+        "countries"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 277,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

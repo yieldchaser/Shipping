@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2020_05_29_another_boom_bust_cycle__root",
+  "doc_id": "poten_tankers_no_date_poten_2020_05_29_another_boom_bust_cycle",
+  "parent_id": null,
+  "title": "Another Boom Bust Cycle",
+  "section_path": [
+    "Another Boom Bust Cycle"
+  ],
+  "section_path_text": "Another Boom Bust Cycle",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Significant decline in energy investment expected for 2020\nOn Wednesday, May 27, the International Energy Agency (IEA) published their 5 th annual assessment of investment and financing across the energy markets: \"World Energy Investment 2020\". As expected, it did not paint an optimistic picture of the current situation and future outlook. The IEA estimates that global energy investment in 2020 will be down 20% from 2019, a reduction of $400 Billion.",
+  "keywords": [
+    "crude_oil",
+    "gas",
+    "oil",
+    "energy",
+    "are",
+    "investment",
+    "shale",
+    "demand",
+    "iea",
+    "production",
+    "producers",
+    "could"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 899,
+  "source_path": "reports/poten/2020/poten_2020-05-29_another-boom-bust-cycle.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_05_29_another_boom_bust_cycle__s01_significant_decline_in_energy_investment_expected_for_2020",
+      "doc_id": "poten_tankers_no_date_poten_2020_05_29_another_boom_bust_cycle",
+      "parent_id": "poten_tankers_no_date_poten_2020_05_29_another_boom_bust_cycle__root",
+      "title": "Significant decline in energy investment expected for 2020",
+      "section_path": [
+        "Significant decline in energy investment expected for 2020"
+      ],
+      "section_path_text": "Significant decline in energy investment expected for 2020",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "On Wednesday, May 27, the International Energy Agency (IEA) published their 5 th annual assessment of investment and financing across the energy markets: \"World Energy Investment 2020\". As expected, it did not paint an optimistic picture of the current situation and future outlook.",
+      "keywords": [
+        "crude_oil",
+        "gas",
+        "oil",
+        "are",
+        "energy",
+        "investment",
+        "shale",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 887,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

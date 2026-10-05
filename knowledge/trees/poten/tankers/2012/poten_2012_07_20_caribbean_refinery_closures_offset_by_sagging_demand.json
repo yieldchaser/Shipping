@@ -1,0 +1,399 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand__root",
+  "doc_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand",
+  "parent_id": null,
+  "title": "Caribbean Refinery Closures Offset by Sagging Demand",
+  "section_path": [
+    "Caribbean Refinery Closures Offset by Sagging Demand"
+  ],
+  "section_path_text": "Caribbean Refinery Closures Offset by Sagging Demand",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "weak demand difficult\nDuring the first quarter of 2012, the dual closure of Valero's 235 kbpd Aruba refinery and the remaining 350 kbpd of capacity at Hovensa's St. Croix facility offered the potential that the loss of this Caribbean refining capacity would provide a boost to product tanker demand. Long a source of clean product imports to the USAC, the loss of this short-haul supply would require imports from longer-haul locations for a region shedding its own refining capacity, so the hypothesis went.",
+  "keywords": [
+    "brazil",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "gas",
+    "kbpd",
+    "demand",
+    "product",
+    "imports",
+    "padd1",
+    "clean"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 770,
+  "source_path": "reports/poten/2012/poten_2012-07-20_caribbean-refinery-closures-offset-by-sagging-demand.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand__s01_weak_demand_difficult",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand__root",
+      "title": "weak demand difficult",
+      "section_path": [
+        "weak demand difficult"
+      ],
+      "section_path_text": "weak demand difficult",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "During the first quarter of 2012, the dual closure of Valero's 235 kbpd Aruba refinery and the remaining 350 kbpd of capacity at Hovensa's St. Croix facility offered the potential that the loss of this Caribbean refining capacity would provide a boost to product tanker demand.",
+      "keywords": [
+        "brazil",
+        "capacity",
+        "product",
+        "imports",
+        "kbpd",
+        "loss",
+        "refining",
+        "would"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 125,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand__s02_caribbean_refinery",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand__root",
+      "title": "Caribbean refinery",
+      "section_path": [
+        "Caribbean refinery"
+      ],
+      "section_path_text": "Caribbean refinery",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "closures supportive, but weak demand difficult to overcome",
+      "keywords": [
+        "but",
+        "closures",
+        "demand",
+        "difficult",
+        "overcome",
+        "supportive",
+        "weak"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 10,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand__s03_padd1_clean_product",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand__root",
+      "title": "PADD1 clean product",
+      "section_path": [
+        "PADD1 clean product"
+      ],
+      "section_path_text": "PADD1 clean product",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "imports from the Caribs have vanished with refinery closures",
+      "keywords": [
+        "caribs",
+        "closures",
+        "imports",
+        "refinery",
+        "vanished"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 10,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand__s04_total_mogas",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand__root",
+      "title": "Total Mogas",
+      "section_path": [
+        "Total Mogas"
+      ],
+      "section_path_text": "Total Mogas",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Jet Gasoil 1q12 Caribs imports were 70% lower yoy As illustrated in the chart on the following page, PADD1 clean product imports have slid steadily during the past several years, on weakening regional product demand, which has facilitated the replacement of lost Caribbean supply to the USAC. In fact, although PADD1 clean imports rose by 38 kbpd during 1q12 from 4q11 levels, European and Canadian supplies rose by 90 kbpd and 48 kbpd, respectively, more than offsetting the 107 kbpd sequential decline from the Caribs.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "gas",
+        "kbpd",
+        "imports",
+        "clean",
+        "during",
+        "padd1"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 134,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand__s05_european_and_canadian",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand__root",
+      "title": "European and Canadian",
+      "section_path": [
+        "European and Canadian"
+      ],
+      "section_path_text": "European and Canadian",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "supply replaced Caribs products previous quarter, as imports of Indian gasoline blending components jumped to 26 kbpd in 1q12, from just 5 kbpd during 4q11.",
+      "keywords": [
+        "india",
+        "products",
+        "gas",
+        "kbpd",
+        "blending",
+        "caribs",
+        "components",
+        "during"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 39,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand__s06_weak_product_demand",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand__root",
+      "title": "Weak product demand",
+      "section_path": [
+        "Weak product demand"
+      ],
+      "section_path_text": "Weak product demand",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "",
+      "keywords": [
+        "imports",
+        "lower",
+        "padd",
+        "pressured"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand__s07_padd1_clean_product",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand__root",
+      "title": "PADD1 clean product",
+      "section_path": [
+        "PADD1 clean product"
+      ],
+      "section_path_text": "PADD1 clean product",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "",
+      "keywords": [
+        "higher",
+        "tonne-mile"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand__s08_european_demand_has",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand__root",
+      "title": "European demand has",
+      "section_path": [
+        "European demand has"
+      ],
+      "section_path_text": "European demand has",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "stabilised, but Asian tonne-miles still off previous peaks",
+      "keywords": [
+        "asian",
+        "but",
+        "off",
+        "peaks",
+        "previous",
+        "stabilised",
+        "still",
+        "tonne-miles"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 14,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand__s09_europe_fsu",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand__root",
+      "title": "Europe/FSU",
+      "section_path": [
+        "Europe/FSU"
+      ],
+      "section_path_text": "Europe/FSU",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "",
+      "keywords": [
+        "africa",
+        "ag/asia",
+        "amer",
+        "canada/mex",
+        "lat"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand__s10_europe_fsu",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand__root",
+      "title": "Europe/FSU",
+      "section_path": [
+        "Europe/FSU"
+      ],
+      "section_path_text": "Europe/FSU",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "Canada/Mex Lat Amer Africa AG/Asia The initial data has supported the market hypothesis -- as the loss of Caribbean supply provided a sequential boost in tonne-mile demand -- but weak product demand has still left tonne-miles 3.9% lower yoy during the first quarter, despite a rebound from 4q11. PADD1 gasoline consumption - the key import demand driver - was 69 kbpd yoy lower during 1q12, and 80 kbpd lower yoy in April.",
+      "keywords": [
+        "products",
+        "gas",
+        "demand",
+        "kbpd",
+        "lower",
+        "yoy",
+        "but",
+        "data"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 166,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand__s11_mr_earnings_are",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand__root",
+      "title": "MR earnings are",
+      "section_path": [
+        "MR earnings are"
+      ],
+      "section_path_text": "MR earnings are",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "languishing despite refinery closures With the IEA reporting that PADD1 gasoline inventories slid to 52.2 MB last week, or 10.3% below the five-year average, market observers have suggested that required restocking will continue to feed a surge in TC2 fixtures. Refiners may bring inventories back to more normal levels, but with gasoline demand hitting its seasonal peak in July and with Delta scheduled to restart its 185 kbpd Trainer refinery in September, refiners may have other avenues for inventory restocking.",
+      "keywords": [
+        "products",
+        "gas",
+        "gasoline",
+        "inventories",
+        "its",
+        "may",
+        "refiners",
+        "refinery"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 108,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand__s12_low_padd1_gasoline",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand__root",
+      "title": "Low PADD1 gasoline",
+      "section_path": [
+        "Low PADD1 gasoline"
+      ],
+      "section_path_text": "Low PADD1 gasoline",
+      "level": 1,
+      "ordinal": 12,
+      "summary": "Meanwhile, the recent Business Outlook Survey from the Federal Reserve Bank of Philadelphia revealed a rapid deterioration in employment conditions for the Northeast region, as shown below. The outlook for PADD1 product demand and import requirements remains guarded.",
+      "keywords": [
+        "outlook",
+        "import",
+        "bank",
+        "below.",
+        "business",
+        "but...",
+        "conditions",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 57,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand__s13_philadelphia_fed_survey",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand__root",
+      "title": "Philadelphia Fed Survey",
+      "section_path": [
+        "Philadelphia Fed Survey"
+      ],
+      "section_path_text": "Philadelphia Fed Survey",
+      "level": 1,
+      "ordinal": 13,
+      "summary": "",
+      "keywords": [
+        "current",
+        "employment"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand__s14_philly_fed_employment",
+      "doc_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand",
+      "parent_id": "poten_tankers_no_date_poten_2012_07_20_caribbean_refinery_closures_offset_by_sagging_demand__root",
+      "title": "Philly Fed Employment",
+      "section_path": [
+        "Philly Fed Employment"
+      ],
+      "section_path_text": "Philly Fed Employment",
+      "level": 1,
+      "ordinal": 14,
+      "summary": "Index lowest since 2008 financial crisis",
+      "keywords": [
+        "crisis",
+        "financial",
+        "lowest",
+        "since"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

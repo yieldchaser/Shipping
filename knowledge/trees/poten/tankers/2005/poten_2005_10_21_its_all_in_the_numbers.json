@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_10_21_its_all_in_the_numbers__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_10_21_its_all_in_the_numbers",
+  "parent_id": null,
+  "title": "It's All in the Numbers",
+  "section_path": [
+    "It's All in the Numbers"
+  ],
+  "section_path_text": "It's All in the Numbers",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "It's All in the Numbers\nTo be sure, the Hurricanes of 2005 have had substantial effects on U.S. This week we take numbers from the Energy Intelligence Agency and analyze how substantial the drop-off has been. Inventories (Mmbbls) Down Since September 1 June 1 - Sept 1 Since Sept 1 % Change Gasoline 208.4 194.5 -6.7% Diesel 121.9 130.1 +6.7% Jet Fuel 40.7 38.5 -5.5% Production (Mmbpd) Down Since September 1 June 1 - Sept 1 Since Sept 1 % Change Gasoline 9.5 8.8 -6.5% Diesel 4.0 3.9 -2.8% Jet Fuel 1.7 1.6 -3.0% Imports (Mbpd) Up Since September 1 June 1 - Sept 1 Since Sept 1 % Change Gasoline 1,050 1,200 +16.5% Diesel 225 245 +8.8% Jet Fuel 79 169 +114.8% The following chart defines refined oil consumption in terms of products supplied from refineries plus imports plus inventory adjustments where a decline in inventory is means increased consumption and a gain in inventory means decreased consumption.",
+  "keywords": [
+    "crude_oil",
+    "products",
+    "gas",
+    "fuel",
+    "gasoline",
+    "jet",
+    "since",
+    "consumption",
+    "imports",
+    "sept",
+    "inventory",
+    "year"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 553,
+  "source_path": "reports/poten/2005/poten_2005-10-21_its-all-in-the-numbers.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_10_21_its_all_in_the_numbers__s01_it_s_all_in_the_numbers",
+      "doc_id": "poten_tankers_no_date_poten_2005_10_21_its_all_in_the_numbers",
+      "parent_id": "poten_tankers_no_date_poten_2005_10_21_its_all_in_the_numbers__root",
+      "title": "It's All in the Numbers",
+      "section_path": [
+        "It's All in the Numbers"
+      ],
+      "section_path_text": "It's All in the Numbers",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "To be sure, the Hurricanes of 2005 have had substantial effects on U.S. This week we take numbers from the Energy Intelligence Agency and analyze how substantial the drop-off has been.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "sept",
+        "since",
+        "change",
+        "diesel",
+        "fuel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 285,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_10_21_its_all_in_the_numbers__s02_jet_fuel",
+      "doc_id": "poten_tankers_no_date_poten_2005_10_21_its_all_in_the_numbers",
+      "parent_id": "poten_tankers_no_date_poten_2005_10_21_its_all_in_the_numbers__root",
+      "title": "Jet Fuel",
+      "section_path": [
+        "Jet Fuel"
+      ],
+      "section_path_text": "Jet Fuel",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Gasoil Gasoline The following chart compares the 2005 numbers to the 2004 numbers applying the same methodology.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "numbers",
+        "applying",
+        "chart",
+        "compares",
+        "following"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 25,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_10_21_its_all_in_the_numbers__s03_chart_2005_vs_2004",
+      "doc_id": "poten_tankers_no_date_poten_2005_10_21_its_all_in_the_numbers",
+      "parent_id": "poten_tankers_no_date_poten_2005_10_21_its_all_in_the_numbers__root",
+      "title": "Chart: 2005 vs 2004",
+      "section_path": [
+        "Chart: 2005 vs 2004"
+      ],
+      "section_path_text": "Chart: 2005 vs 2004",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Prior to the hurricanes, production and inventories of gasoline, diesel, and jet fuel were above year earlier levels, while imports were slightly below 2004 levels. Post-Katrina and Rita, production and inventories of these three crucial products are below year earlier levels, but imports are well above last year's levels.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "year",
+        "consumption",
+        "earlier",
+        "levels",
+        "above"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 223,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

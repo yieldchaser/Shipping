@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2017_03_31_are_we_there_yet__root",
+  "doc_id": "poten_tankers_no_date_poten_2017_03_31_are_we_there_yet",
+  "parent_id": null,
+  "title": "Are We There Yet",
+  "section_path": [
+    "Are We There Yet"
+  ],
+  "section_path_text": "Are We There Yet",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Is there any relief in sight for the crude tanker market? The sentiment in the tanker market is pretty depressed at the moment, in particular for crude oil tankers. While the market weakness is not entirely unexpected - a combination of OPEC production cuts and significant fleet growth is not a recipe for booming freight rates - owners are wondering what this weakness early in the year tells us about the rest of the year (if anything).",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "crude_oil",
+    "are",
+    "fleet",
+    "not",
+    "demand",
+    "oil",
+    "opec",
+    "production",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 811,
+  "source_path": "reports/poten/2017/poten_2017-03-31_are-we-there-yet.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2017_03_31_are_we_there_yet__s01_is_there_any_relief_in_sight_for_the_crude_tanker_market",
+      "doc_id": "poten_tankers_no_date_poten_2017_03_31_are_we_there_yet",
+      "parent_id": "poten_tankers_no_date_poten_2017_03_31_are_we_there_yet__root",
+      "title": "Is there any relief in sight for the crude tanker market?",
+      "section_path": [
+        "Is there any relief in sight for the crude tanker market?"
+      ],
+      "section_path_text": "Is there any relief in sight for the crude tanker market?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The sentiment in the tanker market is pretty depressed at the moment, in particular for crude oil tankers. While the market weakness is not entirely unexpected - a combination of OPEC production cuts and significant fleet growth is not a recipe for booming freight rates - owners are wondering what this weakness early in the year tells us about the rest of the year (if anything).",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "crude_oil",
+        "are",
+        "fleet",
+        "not",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 799,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

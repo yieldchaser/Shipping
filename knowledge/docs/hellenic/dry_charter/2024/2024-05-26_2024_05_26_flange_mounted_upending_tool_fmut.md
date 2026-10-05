@@ -8,6 +8,7 @@ commodities:
 date: '2024-05-26'
 doc_id: hellenic_dry_charter_2024-05-26_2024_05_26_flange_mounted_upending_tool_fmut
 document_type: charter_estimates
+is_error_page: false
 key_entities: []
 keywords:
 - kenc

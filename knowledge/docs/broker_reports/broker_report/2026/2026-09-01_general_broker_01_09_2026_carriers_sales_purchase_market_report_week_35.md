@@ -403,12 +403,12 @@ numeric_observations:
   source_line: CMRE | Costamare Inc. | 15.28 | -0.17 | 15.45 | 1.847B | 2.63 | 5.50
   unit: null
   values:
-  - 15280.0
+  - 15.28
   - -0.17
-  - 15450.0
+  - 15.45
   - 1.847
   - 2.63
-  - 5500.0
+  - 5.5
 - section: Greek-Listed Companies Traded in the US Stock Exchange
   section_type: null
   source_line: DAC | Danaos Corporation | 151.48 | 1.71 | 149.77 | 2.757B | 29.53
@@ -419,8 +419,8 @@ numeric_observations:
   - 1.71
   - 149.77
   - 2.757
-  - 29530.0
-  - 6180.0
+  - 29.53
+  - 6.18
 - section: Greek-Listed Companies Traded in the US Stock Exchange
   section_type: null
   source_line: DLNG | Dynagas LNG Partners LP | 3.86 | 0.04 | 3.82 | 140.435M | 1.5300
@@ -450,22 +450,22 @@ numeric_observations:
   source_line: ESEA | Euroseas Ltd. | 76.83 | 0.79 | 76.04 | 542.065M | 19.51 | 5.00
   unit: null
   values:
-  - 76830.0
+  - 76.83
   - 0.79
-  - 76040.0
+  - 76.04
   - 542.065
-  - 19510.0
-  - 5000.0
+  - 19.51
+  - 5.0
 - section: Greek-Listed Companies Traded in the US Stock Exchange
   section_type: null
   source_line: GASS | StealthGas Inc. | 9.56 | 0 | 9.56 | 355.495M | 1.69 | 6.33
   unit: null
   values:
-  - 9560.0
-  - 9560.0
+  - 9.56
+  - 9.56
   - 355.495
   - 1.69
-  - 6330.0
+  - 6.33
 - section: Greek-Listed Companies Traded in the US Stock Exchange
   section_type: null
   source_line: GLBS | Globus Maritime Limited | 3.69 | -0.2 | 3.89 | 79.639M | 0.3300
@@ -483,32 +483,32 @@ numeric_observations:
   source_line: LPG | Dorian LPG Ltd. | 50.04 | -0.95 | 50.99 | 2.141B | 7.58 | 11.67
   unit: null
   values:
-  - 50040.0
+  - 50.04
   - -0.95
-  - 50990.0
+  - 50.99
   - 2.141
-  - 7580.0
-  - 11670.0
+  - 7.58
+  - 11.67
 - section: Greek-Listed Companies Traded in the US Stock Exchange
   section_type: null
   source_line: NMM | Navios Maritime Partners L.P. | 88.33 | -0.03 | 88.36 | 2.511B
     | 15.49 | 5.08
   unit: null
   values:
-  - 88330.0
+  - 88.33
   - -0.03
-  - 88360.0
+  - 88.36
   - 2.511
-  - 15490.0
-  - 5080.0
+  - 15.49
+  - 5.08
 - section: Greek-Listed Companies Traded in the US Stock Exchange
   section_type: null
   source_line: PXS | Pyxis Tankers Inc. | 5.36 | -0.11 | 5.47 | 54.882M | 0.35 | 3.67
   unit: null
   values:
-  - 5360.0
+  - 5.36
   - -0.11
-  - 5470.0
+  - 5.47
   - 54882.0
   - 0.35
   - 3.67
@@ -517,35 +517,35 @@ numeric_observations:
   source_line: SB | Safe Bulkers, Inc. | 8.63 | -0.15 | 8.48 | 878.823M | 0.77 | 13.48
   unit: null
   values:
-  - 8630.0
+  - 8.63
   - -0.15
-  - 8480.0
+  - 8.48
   - 878.823
   - 0.77
-  - 13480.0
+  - 13.48
 - section: Greek-Listed Companies Traded in the US Stock Exchange
   section_type: null
   source_line: SBLK | Star Bulk Carriers Corp. | 30.87 | 0.2 | 30.67 | 3.447B | 2.58
     | 8.67
   unit: null
   values:
-  - 30870.0
+  - 30.87
   - 0.2
-  - 30670.0
+  - 30.67
   - 3.447
   - 2.58
-  - 8670.0
+  - 8.67
 - section: Greek-Listed Companies Traded in the US Stock Exchange
   section_type: null
   source_line: SHIP | Seanergy Maritime Holdings Corp. | 17.66 | 0 | 17.66 | 382.66M
     | 2.86 | 6.95
   unit: null
   values:
-  - 17660.0
-  - 17660.0
+  - 17.66
+  - 17.66
   - 382.66
   - 2.86
-  - 6950.0
+  - 6.95
 - section: Greek-Listed Companies Traded in the US Stock Exchange
   section_type: null
   source_line: TOPS | Top Ships Inc. | 0.75 | -0.05 | 0.80 | 4.173M | 0.6700 | 0.34

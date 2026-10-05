@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2020_02_28_where_does_it_all_go__root",
+  "doc_id": "poten_tankers_no_date_poten_2020_02_28_where_does_it_all_go",
+  "parent_id": null,
+  "title": "Where Does It All Go",
+  "section_path": [
+    "Where Does It All Go"
+  ],
+  "section_path_text": "Where Does It All Go",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Where does the oil go if demand suddenly disappears? In a short period of time, oil demand growth, initially in China, but increasingly also in other parts of the world, has started to falter. The spreading of the coronavirus has significantly reduced global demand for transportation fuels in particular.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "west_africa",
+    "europe",
+    "singapore",
+    "crude_oil",
+    "oil",
+    "demand",
+    "floating",
+    "storage",
+    "are",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 840,
+  "source_path": "reports/poten/2020/poten_2020-02-28_where-does-it-all-go.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_02_28_where_does_it_all_go__s01_where_does_the_oil_go_if_demand_suddenly_disappears",
+      "doc_id": "poten_tankers_no_date_poten_2020_02_28_where_does_it_all_go",
+      "parent_id": "poten_tankers_no_date_poten_2020_02_28_where_does_it_all_go__root",
+      "title": "Where does the oil go if demand suddenly disappears?",
+      "section_path": [
+        "Where does the oil go if demand suddenly disappears?"
+      ],
+      "section_path_text": "Where does the oil go if demand suddenly disappears?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In a short period of time, oil demand growth, initially in China, but increasingly also in other parts of the world, has started to falter. The spreading of the coronavirus has significantly reduced global demand for transportation fuels in particular.",
+      "keywords": [
+        "china",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "oil",
+        "opec",
+        "was",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 587,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_02_28_where_does_it_all_go__s02_vlccs_off_the_coast_of_shandong_province_china",
+      "doc_id": "poten_tankers_no_date_poten_2020_02_28_where_does_it_all_go",
+      "parent_id": "poten_tankers_no_date_poten_2020_02_28_where_does_it_all_go__root",
+      "title": "VLCCs off the Coast of Shandong Province, China",
+      "section_path": [
+        "VLCCs off the Coast of Shandong Province, China"
+      ],
+      "section_path_text": "VLCCs off the Coast of Shandong Province, China",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "This encourages the charterers to transfer the crude oil to a cheaper vessel and use the latter vessel for temporary floating storage. There is limited data available on how many tankers are currently used for floating storage.",
+      "keywords": [
+        "china",
+        "singapore",
+        "crude_oil",
+        "floating",
+        "oil",
+        "storage",
+        "storage.",
+        "vessel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 228,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

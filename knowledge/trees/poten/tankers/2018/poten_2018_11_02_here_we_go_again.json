@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2018_11_02_here_we_go_again__root",
+  "doc_id": "poten_tankers_no_date_poten_2018_11_02_here_we_go_again",
+  "parent_id": null,
+  "title": "Here We Go Again",
+  "section_path": [
+    "Here We Go Again"
+  ],
+  "section_path_text": "Here We Go Again",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "sanctions against Iran help the crude tanker market\nOne of the most anticipated events in the oil and tanker market will go into effect on Monday, November 5 th : U.S. sanctions against Iran will snap back. Any country or company buying oil from Iran after that deadline will be at risk from U.S.",
+  "keywords": [
+    "china",
+    "brazil",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "india",
+    "japan",
+    "crude_oil",
+    "iran",
+    "u.s.",
+    "oil",
+    "iranian"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 865,
+  "source_path": "reports/poten/2018/poten_2018-11-02_here-we-go-again.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_11_02_here_we_go_again__s01_u_s_sanctions_against_iran_help_the_crude_tanker_market",
+      "doc_id": "poten_tankers_no_date_poten_2018_11_02_here_we_go_again",
+      "parent_id": "poten_tankers_no_date_poten_2018_11_02_here_we_go_again__root",
+      "title": "U.S. sanctions against Iran help the crude tanker market",
+      "section_path": [
+        "U.S. sanctions against Iran help the crude tanker market"
+      ],
+      "section_path_text": "U.S. sanctions against Iran help the crude tanker market",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "One of the most anticipated events in the oil and tanker market will go into effect on Monday, November 5 th : U.S. sanctions against Iran will snap back.",
+      "keywords": [
+        "china",
+        "brazil",
+        "atlantic",
+        "meg",
+        "west_africa",
+        "india",
+        "japan",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 853,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

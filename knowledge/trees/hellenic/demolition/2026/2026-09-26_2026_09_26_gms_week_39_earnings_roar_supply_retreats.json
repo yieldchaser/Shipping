@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 5391,
+  "token_count": 2000,
   "source_path": "reports/hellenic/demolition/2026/2026-09-26_gms-week-39-earnings-roar-supply-retreats.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-39-earnings-roar-supply-retreats",
   "children": [
@@ -103,14 +103,14 @@
         "panamax",
         "supramax",
         "vlcc",
-        "container",
-        "china",
-        "brazil",
-        "europe"
+        "india",
+        "crude_oil",
+        "steel",
+        "are"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 4344,
+      "token_count": 953,
       "section_type": "linked_pdf",
       "children": []
     }

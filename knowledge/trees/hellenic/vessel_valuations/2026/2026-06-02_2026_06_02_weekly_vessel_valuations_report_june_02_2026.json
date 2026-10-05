@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1233,
-  "source_path": "corpus/02-hellenic/vessel_valuations/2026/2026-06-02_weekly-vessel-valuations-report-june-02-2026.html",
+  "token_count": 1231,
+  "source_path": "reports/hellenic/vessel_valuations/2026/2026-06-02_weekly-vessel-valuations-report-june-02-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-june-02-2026",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-06-02_weekly-vessel-valuations-report-june-02-2026_26202525_ffcc76fc602a.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2026/assets/2026-06-02_weekly-vessel-valuations-report-june-02-2026_26202525_ffcc76fc602a.jpg\n\nLinked image asset: 2026-06-02_weekly-vessel-valuations-report-june-02-2026_26202525_ffcc76fc602a.jpg\n\nImage metadata: JPEG 600x279 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\n© VesselsValue AA\n02 June 2026 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice ‘Suez Ata um Mn Cape Pmax Supra Handy pices Pmax Handy = Fmax\n° +27% OBS 10% 10.2% Om 10.6% 10.3% +0.3% 10.1% OB% +0.1% +29% 40.1%\n320k 160k nsk 75K 50k 180k 8% 62k 38 7000 © 4250 1780 noo\n+L 08s As OAS \"me 40.7% 02 +226 70.1% OBS 10.1% 129% 40.1%\nid 320k 160k nk 75k 50k 180k 8% 60k 38k 7000 © 4250 a) noo\nOm 0.7% 0% +05% An 10.9% OAM +246 40.1% 0% +0.2% +27% +0.1%\n\" 320k 160k 10k 75k 50k 180k 80k 60k 35k 7000 4250 1750 noo\ns SK 04S 0.1% +29% Om 12% 70.0% 16% 10.2% OS* 20.4% +226 +0.1%\nSOK n0k 75k SOK 180k 80k 60k Wk 7000 4250780 noo\n20.2% 10.2% 0.0% +4S% +m 16% +2 oo 70.1% Om 10.9% 7 10.1%\ncad BOK M60K Nk 70k 45k 180K 73k 58k 30k 7000 4250 1750 noo\ns 20.7% 710% OS* +20% 139% *2.0% +S. 1.0% 0.0% 0.0% 18% 70.1% 0.0%\n300k 155k 1osk 70k 45k 198k 78k 50k 30k 6500 ",
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-06-02_weekly-vessel-valuations-report-june-02-2026_26202525_ffcc76fc602a.jpg\n\nLinked image asset: 2026-06-02_weekly-vessel-valuations-report-june-02-2026_26202525_ffcc76fc602a.jpg\n\nImage metadata: JPEG 600x279 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\n© VesselsValue AA\n02 June 2026 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice ‘Suez Ata um Mn Cape Pmax Supra Handy pices Pmax Handy = Fmax\n° +27% OBS 10% 10.2% Om 10.6% 10.3% +0.3% 10.1% OB% +0.1% +29% 40.1%\n320k 160k nsk 75K 50k 180k 8% 62k 38 7000 © 4250 1780 noo\n+L 08s As OAS \"me 40.7% 02 +226 70.1% OBS 10.1% 129% 40.1%\nid 320k 160k nk 75k 50k 180k 8% 60k 38k 7000 © 4250 a) noo\nOm 0.7% 0% +05% An 10.9% OAM +246 40.1% 0% +0.2% +27% +0.1%\n\" 320k 160k 10k 75k 50k 180k 80k 60k 35k 7000 4250 1750 noo\ns SK 04S 0.1% +29% Om 12% 70.0% 16% 10.2% OS* 20.4% +226 +0.1%\nSOK n0k 75k SOK 180k 80k 60k Wk 7000 4250780 noo\n20.2% 10.2% 0.0% +4S% +m 16% +2 oo 70.1% Om 10.9% 7 10.1%\ncad BOK M60K Nk 70k 45k 180K 73k 58k 30k 7000 4250 1750 noo\ns 20.7% 710% OS* +20% 139% *2.0% +S. 1.0% 0.0% 0.0% 18% 70.1% 0.0%\n300k 155k 1osk 70k 45k 198k 78k 50k 30k 6500 40",
       "keywords": [
         "capesize",
         "supramax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 660,
+      "token_count": 658,
       "section_type": "linked_image_asset",
       "children": []
     }

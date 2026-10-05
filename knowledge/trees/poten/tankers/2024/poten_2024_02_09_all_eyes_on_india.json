@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2024_02_09_all_eyes_on_india__root",
+  "doc_id": "poten_tankers_no_date_poten_2024_02_09_all_eyes_on_india",
+  "parent_id": null,
+  "title": "All Eyes On India",
+  "section_path": [
+    "All Eyes On India"
+  ],
+  "section_path_text": "All Eyes On India",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Will the South Asian giant be a new growth engine for tankers? Earlier this week, the IEA published a detailed report on the Indian oil market and its outlook to 2030. In the report the agency highlighted the country's economic expansion and population growth.",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "atlantic",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "gas",
+    "oil",
+    "demand",
+    "growth"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 909,
+  "source_path": "reports/poten/2024/poten_2024-02-09_all-eyes-on-india.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2024_02_09_all_eyes_on_india__s01_will_the_south_asian_giant_be_a_new_growth_engine_for_tankers",
+      "doc_id": "poten_tankers_no_date_poten_2024_02_09_all_eyes_on_india",
+      "parent_id": "poten_tankers_no_date_poten_2024_02_09_all_eyes_on_india__root",
+      "title": "Will the South Asian giant be a new growth engine for tankers?",
+      "section_path": [
+        "Will the South Asian giant be a new growth engine for tankers?"
+      ],
+      "section_path_text": "Will the South Asian giant be a new growth engine for tankers?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Earlier this week, the IEA published a detailed report on the Indian oil market and its outlook to 2030. In the report the agency highlighted the country's economic expansion and population growth.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "atlantic",
+        "europe",
+        "india",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 895,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

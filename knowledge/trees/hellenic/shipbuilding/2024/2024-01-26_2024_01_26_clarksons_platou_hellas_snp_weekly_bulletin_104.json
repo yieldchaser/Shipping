@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNew building in tankers this week, it has been reported that Euronav ordered one firm 319k dwt VLCC at Qingdao Beihai, with the vessel expected to deliver in 1H 2027. Source: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2024-01-26_clarksons-platou-hellas-snp-weekly-bulletin-104_report-26-01-2024_eea3a0e52d4f.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2024-01-26_clarksons-platou-hellas-snp-weekly-bulletin-104_report-26-01-2024_eea3a0e52d4f.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 26 Jan 2024\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nCHARLOTTE MAN B. 6S60MC6.2\n93,273 2010 YANGFAN BWTS fitted SS 02/25 USD 15.5 GREEKS\nOLDENDORFF DD 02/25\nSCRUBBER fiited\nSEA STAR 56,591 2014 SINOTRANS MAN B & W 6S50MC-C8.2 SS 04/24 RGN USD 16 M U/D\nBWTS fitted DD 04/24\n2013\nTOMORROW 56,025 MAN B & W 6S50MC-C8.2 SS 05/26 USD 18.5 M GREEKS\nMINAMINIPPON BWTS fitted DD 07/24\nMAN B & W 6S50ME-B8.2\nRUI FU XING 37,064 2012 HMD BWTS fitted SS 07/26 USD 16.5 M U/D\nDD 09/25\nOPEN HATCH\nMAN B.",
+  "summary": "Main\nNew building in tankers this week, it has been reported that Euronav ordered one firm 319k dwt VLCC at Qingdao Beihai, with the vessel expected to deliver in 1H 2027. Source: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2024-01-26_clarksons-platou-hellas-snp-weekly-bulletin-104_report-26-01-2024_eea3a0e52d4f.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2024-01-26_clarksons-platou-hellas-snp-weekly-bulletin-104_report-26-01-2024_eea3a0e52d4f.pdf\n\n**SALE & PURCHASE**\n\n## Clarksons Hellas Weekly Bulletin26 Jan 2024\n\n## Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n|CHARLOTTE OLDENDORFF|93,273|2010 YANGFAN|MAN B. 6S60MC6.2 BWTS fitted SCRUBBER fiited|SS 02/25 DD 02/25|USD 15.5|GREEKS|\n|SEA STAR|56,591|2014 SINOTRANS|MAN B & W 6S50MC-C8.2 BWTS fitted|SS 04/24 DD 04/24|RGN USD 16 M|U/D|\n|TOMORROW|56,025|2013 MINAMINIPPON|MAN B & W 6S50MC-C8.2 BWTS fitted|SS 05/26 DD 07/24|USD 18.5 M|GREEKS|\n|RUI FU XING|37,064|2012 HMD|MAN B & W 6S50ME-B8.2 BWTS fitted OPEN HATCH|SS 07/26 DD 09/25|USD 16.5 M|U/D|\n|NORDIC LONDON|34,880|2010 TK|MAN B.",
   "keywords": [
     "vlcc",
     "lng",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2083,
-  "source_path": "corpus/02-hellenic/shipbuilding/2024/2024-01-26_clarksons-platou-hellas-snp-weekly-bulletin-104.html",
+  "token_count": 2209,
+  "source_path": "reports/hellenic/shipbuilding/2024/2024-01-26_clarksons-platou-hellas-snp-weekly-bulletin-104.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-104",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2024-01-26_clarksons-platou-hellas-snp-weekly-bulletin-104_report-26-01-2024_eea3a0e52d4f.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2024-01-26_clarksons-platou-hellas-snp-weekly-bulletin-104_report-26-01-2024_eea3a0e52d4f.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 26 Jan 2024\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nCHARLOTTE MAN B. 6S60MC6.2\n93,273 2010 YANGFAN BWTS fitted SS 02/25 USD 15.5 GREEKS\nOLDENDORFF DD 02/25\nSCRUBBER fiited\nSEA STAR 56,591 2014 SINOTRANS MAN B & W 6S50MC-C8.2 SS 04/24 RGN USD 16 M U/D\nBWTS fitted DD 04/24\n2013\nTOMORROW 56,025 MAN B & W 6S50MC-C8.2 SS 05/26 USD 18.5 M GREEKS\nMINAMINIPPON BWTS fitted DD 07/24\nMAN B & W 6S50ME-B8.2\nRUI FU XING 37,064 2012 HMD BWTS fitted SS 07/26 USD 16.5 M U/D\nDD 09/25\nOPEN HATCH\nMAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2024-01-26_clarksons-platou-hellas-snp-weekly-bulletin-104_report-26-01-2024_eea3a0e52d4f.pdf\n\n**SALE & PURCHASE**\n\n## Clarksons Hellas Weekly Bulletin26 Jan 2024\n\n## Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n|CHARLOTTE OLDENDORFF|93,273|2010 YANGFAN|MAN B. 6S60MC6.2 BWTS fitted SCRUBBER fiited|SS 02/25 DD 02/25|USD 15.5|GREEKS|\n|SEA STAR|56,591|2014 SINOTRANS|MAN B & W 6S50MC-C8.2 BWTS fitted|SS 04/24 DD 04/24|RGN USD 16 M|U/D|\n|TOMORROW|56,025|2013 MINAMINIPPON|MAN B & W 6S50MC-C8.2 BWTS fitted|SS 05/26 DD 07/24|USD 18.5 M|GREEKS|\n|RUI FU XING|37,064|2012 HMD|MAN B & W 6S50ME-B8.2 BWTS fitted OPEN HATCH|SS 07/26 DD 09/25|USD 16.5 M|U/D|\n|NORDIC LONDON|34,880|2010 TK|MAN B.",
       "keywords": [
         "vlcc",
         "lng",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1976,
+      "token_count": 2102,
       "section_type": "linked_pdf",
       "children": []
     }

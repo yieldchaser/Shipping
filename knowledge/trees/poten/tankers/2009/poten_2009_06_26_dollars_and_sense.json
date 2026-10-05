@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2009_06_26_dollars_and_sense__root",
+  "doc_id": "poten_tankers_no_date_poten_2009_06_26_dollars_and_sense",
+  "parent_id": null,
+  "title": "Dollars and Sense",
+  "section_path": [
+    "Dollars and Sense"
+  ],
+  "section_path_text": "Dollars and Sense",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Dollars and Sense\nThe slight rally in the crude tanker freight rates has left many wondering if the crude tanker market is actually resilient enough to emerge from the financial crisis relatively unscathed. Over the past two weeks the market has gained momentum, with the VLCCs out of the Arabian Gulf bound for the Far East breaching $40,000 per day, spurring increased bullishness on the part of shipowners and oil companies. Only last month nearly all sectors of the market were bottom feeding, earning charter rates sufficiently below break‐even levels.",
+  "keywords": [
+    "vlcc",
+    "meg",
+    "west_africa",
+    "crude_oil",
+    "demand",
+    "bottom",
+    "even",
+    "oil",
+    "arabian",
+    "can",
+    "enough",
+    "far"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 664,
+  "source_path": "reports/poten/2009/poten_2009-06-26_dollars-and-sense.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_06_26_dollars_and_sense__s01_dollars_and_sense",
+      "doc_id": "poten_tankers_no_date_poten_2009_06_26_dollars_and_sense",
+      "parent_id": "poten_tankers_no_date_poten_2009_06_26_dollars_and_sense__root",
+      "title": "Dollars and Sense",
+      "section_path": [
+        "Dollars and Sense"
+      ],
+      "section_path_text": "Dollars and Sense",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The slight rally in the crude tanker freight rates has left many wondering if the crude tanker market is actually resilient enough to emerge from the financial crisis relatively unscathed. Over the past two weeks the market has gained momentum, with the VLCCs out of the Arabian Gulf bound for the Far East breaching $40,000 per day, spurring increased bullishness on the part of shipowners and oil companies.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "crude_oil",
+        "sectors",
+        "slight",
+        "all",
+        "arabian",
+        "below"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 294,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_06_26_dollars_and_sense__s02_beyond_fundamentals",
+      "doc_id": "poten_tankers_no_date_poten_2009_06_26_dollars_and_sense",
+      "parent_id": "poten_tankers_no_date_poten_2009_06_26_dollars_and_sense__root",
+      "title": "Beyond Fundamentals",
+      "section_path": [
+        "Beyond Fundamentals"
+      ],
+      "section_path_text": "Beyond Fundamentals",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "A purely fundamental approach, meaning a comparison of the expected increase in oil demand to the forward supply of tankers, is far from sufficient for determining a view on the future of freight rates and asset prices. Within the ten‐year historical range the fundamentals suggest that the closer ratio of demand to supply yields greater volatility, but does not necessarily translate into higher average rates.",
+      "keywords": [
+        "meg",
+        "crude_oil",
+        "volatility",
+        "average",
+        "demand",
+        "far",
+        "range",
+        "ratio"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 154,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_06_26_dollars_and_sense__s03_tce_000_day",
+      "doc_id": "poten_tankers_no_date_poten_2009_06_26_dollars_and_sense",
+      "parent_id": "poten_tankers_no_date_poten_2009_06_26_dollars_and_sense__root",
+      "title": "TCE (000$/day)",
+      "section_path": [
+        "TCE (000$/day)"
+      ],
+      "section_path_text": "TCE (000$/day)",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Furthermore, discontinuous events certainly drive the most dramatic spikes in the market: an oil spill, a war, even a trade agreement will have significant impacts.",
+      "keywords": [
+        "crude_oil",
+        "agreement",
+        "certainly",
+        "discontinuous",
+        "dramatic",
+        "drive",
+        "even",
+        "events"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 31,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_06_26_dollars_and_sense__s04_heart_in_the_game",
+      "doc_id": "poten_tankers_no_date_poten_2009_06_26_dollars_and_sense",
+      "parent_id": "poten_tankers_no_date_poten_2009_06_26_dollars_and_sense__root",
+      "title": "Heart in the Game",
+      "section_path": [
+        "Heart in the Game"
+      ],
+      "section_path_text": "Heart in the Game",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "In addition to supply and demand, tankers can be an emotional business; psychology cannot be understated. On the asset side, it is difficult to quantify and foresee the role and impact the instincts of individual actors will play.",
+      "keywords": [
+        "west_africa",
+        "bottom",
+        "can",
+        "enough",
+        "tankers",
+        "actors",
+        "addition",
+        "already"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 163,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

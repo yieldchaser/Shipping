@@ -1,0 +1,221 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_01_15_holy_2010__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_01_15_holy_2010",
+  "parent_id": null,
+  "title": "Holy 2010!",
+  "section_path": [
+    "Holy 2010!"
+  ],
+  "section_path_text": "Holy 2010!",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Just when it seemed like the tanker market was poised to hobble along for another year, spot market freight rates have again surprised everyone. Freezing temperatures across Asia, Europe and the United States helped set off a rally in tanker markets this week. While the challenges of continual fleet growth and uncertain economic recovery remain, 2010's strong start has certainly given a much‐needed boost to market sentiment.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "meg",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "next",
+    "days",
+    "gulf",
+    "west",
+    "year",
+    "arabian"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 813,
+  "source_path": "reports/poten/2010/poten_2010-01-15_holy-2010.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_01_15_holy_2010__s01_holy_2010",
+      "doc_id": "poten_tankers_no_date_poten_2010_01_15_holy_2010",
+      "parent_id": "poten_tankers_no_date_poten_2010_01_15_holy_2010__root",
+      "title": "Holy 2010!",
+      "section_path": [
+        "Holy 2010!"
+      ],
+      "section_path_text": "Holy 2010!",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Just when it seemed like the tanker market was poised to hobble along for another year, spot market freight rates have again surprised everyone. Freezing temperatures across Asia, Europe and the United States helped set off a rally in tanker markets this week.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "europe",
+        "helped",
+        "availabilities",
+        "below",
+        "day",
+        "past"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 223,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_01_15_holy_2010__s02_chart_vlcc_spot_earnings_vs_arabian_gulf_availabilities",
+      "doc_id": "poten_tankers_no_date_poten_2010_01_15_holy_2010",
+      "parent_id": "poten_tankers_no_date_poten_2010_01_15_holy_2010__root",
+      "title": "Chart: VLCC Spot Earnings Vs. Arabian Gulf Availabilities",
+      "section_path": [
+        "Chart: VLCC Spot Earnings Vs. Arabian Gulf Availabilities"
+      ],
+      "section_path_text": "Chart: VLCC Spot Earnings Vs. Arabian Gulf Availabilities",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "30 day Availability: 75 79 71 AG ‐ FE (260kt) TCE: $96,841 $25,840 $50,780",
+      "keywords": [
+        "availability",
+        "day",
+        "tce"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 33,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_01_15_holy_2010__s03_ag_fe_260kt",
+      "doc_id": "poten_tankers_no_date_poten_2010_01_15_holy_2010",
+      "parent_id": "poten_tankers_no_date_poten_2010_01_15_holy_2010__root",
+      "title": "AG ‐ FE (260kt)",
+      "section_path": [
+        "AG ‐ FE (260kt)"
+      ],
+      "section_path_text": "AG ‐ FE (260kt)",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "VLCCs Next 30 Days VLCC Next 30 Days ‐ 2009 Average VLCC Next 30 Days ‐ 2010 YTD For much of last year's fourth quarter, the tanker market was in the doldrums, with rates stagnating on low crude oil demand. At least part of the movement in tanker markets this week can be attributed to the end of the holiday season, with more market activity creating opportunities to bid up rates for ships in position to make laydays.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "days",
+        "next",
+        "activity",
+        "attributed",
+        "average",
+        "bid"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 103,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_01_15_holy_2010__s04_let_it_snow",
+      "doc_id": "poten_tankers_no_date_poten_2010_01_15_holy_2010",
+      "parent_id": "poten_tankers_no_date_poten_2010_01_15_holy_2010__root",
+      "title": "Let it Snow!",
+      "section_path": [
+        "Let it Snow!"
+      ],
+      "section_path_text": "Let it Snow!",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The seasonal increase in activity has been important, but inclement weather has emerged as the main driver of the recent strength in the tanker market. Tankers plying through seasonal rough seas and reduced daylight hours, especially those attempting to traverse ice‐clogged waterways, are more likely to encounter delays.",
+      "keywords": [
+        "us_gulf",
+        "crude_oil",
+        "demand",
+        "heating",
+        "increase",
+        "oil",
+        "product",
+        "seasonal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 168,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_01_15_holy_2010__s05_east_meets_west",
+      "doc_id": "poten_tankers_no_date_poten_2010_01_15_holy_2010",
+      "parent_id": "poten_tankers_no_date_poten_2010_01_15_holy_2010__root",
+      "title": "East Meets West",
+      "section_path": [
+        "East Meets West"
+      ],
+      "section_path_text": "East Meets West",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "While fixtures headed east in advance of the upcoming Chinese New Year have played an role in driving the rate spike, there are also some positive signs for Western demand within the recent resurgence of spot market rates. The volume of VLCC liftings from the Arabian Gulf are currently at 94 for January, above the one‐year average of 89 liftings per month but slightly below the number of liftings seen in January 2009.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "meg",
+        "liftings",
+        "are",
+        "below",
+        "but",
+        "fixtures"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 139,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_01_15_holy_2010__s06_percentage",
+      "doc_id": "poten_tankers_no_date_poten_2010_01_15_holy_2010",
+      "parent_id": "poten_tankers_no_date_poten_2010_01_15_holy_2010__root",
+      "title": "Percentage",
+      "section_path": [
+        "Percentage"
+      ],
+      "section_path_text": "Percentage",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "←14 West‐bound cargoes in January 2010",
+      "keywords": [
+        "bound",
+        "cargoes",
+        "january",
+        "west"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 12,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_01_15_holy_2010__s07_west",
+      "doc_id": "poten_tankers_no_date_poten_2010_01_15_holy_2010",
+      "parent_id": "poten_tankers_no_date_poten_2010_01_15_holy_2010__root",
+      "title": "West",
+      "section_path": [
+        "West"
+      ],
+      "section_path_text": "West",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "East West % Total Expect cargoes to be competing for ships over the next few weeks as fewer than 50 VLCCs are available in the Arabian Gulf over the next 30 days, with as many as 90 cargoes likely. The run‐up in reported spot market rates will likely result in buyers, sellers, and charterers all re‐evaluating their next moves.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "next",
+        "cargoes",
+        "all",
+        "arabian",
+        "are",
+        "asset"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 92,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

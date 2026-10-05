@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2026_05_22_lets_try_that_again__root",
+  "doc_id": "poten_tankers_no_date_poten_2026_05_22_lets_try_that_again",
+  "parent_id": null,
+  "title": "Lets Try That Again",
+  "section_path": [
+    "Lets Try That Again"
+  ],
+  "section_path_text": "Lets Try That Again",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Canada revives plans for an additional crude export pipeline\nLast week, on May 15, 2026, the provincial government of Alberta and the federal government of Canada announced that they have agreed on \"a pathway to the construction of a new oil pipeline to Asian markets commencing as early as Sept. 1, 2027.\" This announcement follows the signing of an \"Alberta- Canada Energy Agreement\" in November 2025. This represents the start of a long process of planning, consultations among all constituents, securing permits, raising funds and maybe, ultimately, construction.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "brazil",
+    "atlantic",
+    "pacific",
+    "india",
+    "coal",
+    "crude_oil",
+    "pipeline",
+    "canada"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 947,
+  "source_path": "reports/poten/2026/poten_2026-05-22_lets-try-that-again.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2026_05_22_lets_try_that_again__s01_canada_revives_plans_for_an_additional_crude_export_pipeline",
+      "doc_id": "poten_tankers_no_date_poten_2026_05_22_lets_try_that_again",
+      "parent_id": "poten_tankers_no_date_poten_2026_05_22_lets_try_that_again__root",
+      "title": "Canada revives plans for an additional crude export pipeline",
+      "section_path": [
+        "Canada revives plans for an additional crude export pipeline"
+      ],
+      "section_path_text": "Canada revives plans for an additional crude export pipeline",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Last week, on May 15, 2026, the provincial government of Alberta and the federal government of Canada announced that they have agreed on \"a pathway to the construction of a new oil pipeline to Asian markets commencing as early as Sept. 1, 2027.\" This announcement follows the signing of an \"Alberta- Canada Energy Agreement\" in November 2025.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "brazil",
+        "atlantic",
+        "pacific",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 936,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

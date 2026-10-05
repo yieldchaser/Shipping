@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2017_10_06_one_belt_one_road__root",
+  "doc_id": "poten_tankers_no_date_poten_2017_10_06_one_belt_one_road",
+  "parent_id": null,
+  "title": "One Belt One Road",
+  "section_path": [
+    "One Belt One Road"
+  ],
+  "section_path_text": "One Belt One Road",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Shipping Implications of China's Global Infrastructure Plan\nIn September 2013, Chinese President Xi Jinping introduced the \"One Belt One Road\" (OBOR) initiative. It is an ambitious program with a heavy emphasis on infrastructure development that will potentially span up to 65 countries in Asia, Africa and Europe. Through this program, China intends to strengthen trading relationships with these countries and boost the country's global position.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "europe",
+    "japan",
+    "crude_oil",
+    "projects",
+    "canal",
+    "obor",
+    "oil",
+    "one",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 777,
+  "source_path": "reports/poten/2017/poten_2017-10-06_one-belt-one-road.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2017_10_06_one_belt_one_road__s01_shipping_implications_of_china_s_global_infrastructure_plan",
+      "doc_id": "poten_tankers_no_date_poten_2017_10_06_one_belt_one_road",
+      "parent_id": "poten_tankers_no_date_poten_2017_10_06_one_belt_one_road__root",
+      "title": "Shipping Implications of China's Global Infrastructure Plan",
+      "section_path": [
+        "Shipping Implications of China's Global Infrastructure Plan"
+      ],
+      "section_path_text": "Shipping Implications of China's Global Infrastructure Plan",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In September 2013, Chinese President Xi Jinping introduced the \"One Belt One Road\" (OBOR) initiative. It is an ambitious program with a heavy emphasis on infrastructure development that will potentially span up to 65 countries in Asia, Africa and Europe.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "europe",
+        "japan",
+        "crude_oil",
+        "projects",
+        "canal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 767,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

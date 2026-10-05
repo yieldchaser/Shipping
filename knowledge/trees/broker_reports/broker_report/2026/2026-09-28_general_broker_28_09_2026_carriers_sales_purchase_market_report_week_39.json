@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-09-28_general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39__root",
+  "doc_id": "broker_reports_broker_report_2026-09-28_general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39",
+  "parent_id": null,
+  "title": "Carriers Sales & Purchase Market Report, Week 39",
+  "section_path": [
+    "Carriers Sales & Purchase Market Report, Week 39"
+  ],
+  "section_path_text": "Carriers Sales & Purchase Market Report, Week 39",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Carriers Sales & Purchase Market Report, Week 39\n**Broker**: General Broker\n**Published Date**: 28/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-39-2/](https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-39-2/)\n\nMarket Report Content\nWeek 39, 28th September 2026\nSALES & PURCHASE MARKET REPORT\nCarriers Chartering Corp. Kaplanon 7 & Massalias Street, 106 80 Athens, Greece. Tel: +30-210 3668700 / Fax: +30-210 3631493 / www.carriers.gr\nEmail Address: snp@carriers.gr, capespmx@carriers.gr, handy@carriers.gr\n1 | P a g e\nSecond-hand Market\nBulk Carriers Reported Sold\nNAME TYPE DWT BUILT YARD PRICE BUYERS COMMENTS\nLC MILADY BC 93,758 2011 Shanhaiguan Shipbuilding Ind HIGH\n14,000,000 UNDISCLOSED\nRTM DIAS BC 89,892 2013 Namura Shipbuilding - Imari 42,800,000\nEN BLOC CHINESE\nRTM FLINDERS BC 89,892 2013 Namura Shipbuilding - Imari\nGCL HAZIRA BC 81,986 2021 Nantong COSCO KHI Ship 38,000,000 UNDISCLOSED DD PASSED\nNEW WAVELET BC 81,984 2021 Nantong COSCO KHI Ship 42,000,000 UNDISCLOSED\nBABITONGA BC 81,770 2019 TSUNEISHI SHBLDG - FKY 38,500,000 SINCERE\nNAVIGATION\nGENEVA STAR BC 75,843 2009 Tsuneishi Holdings 17,",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "aframax",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "atlantic",
+    "gas"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2902,
+  "source_path": "reports/broker_reports/2026/carriers/general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.md",
+  "source_url": "https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-39-2/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-09-28_general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39__s01_carriers_sales_purchase_market_report_week_39",
+      "doc_id": "broker_reports_broker_report_2026-09-28_general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39",
+      "parent_id": "broker_reports_broker_report_2026-09-28_general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39__root",
+      "title": "Carriers Sales & Purchase Market Report, Week 39",
+      "section_path": [
+        "Carriers Sales & Purchase Market Report, Week 39"
+      ],
+      "section_path_text": "Carriers Sales & Purchase Market Report, Week 39",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: General Broker\n**Published Date**: 28/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-39-2/](https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-39-2/)",
+      "keywords": [
+        "broker",
+        "https",
+        "www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-39-2",
+        "date",
+        "general",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 68,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-09-28_general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-09-28_general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39",
+      "parent_id": "broker_reports_broker_report_2026-09-28_general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Week 39, 28th September 2026\nSALES & PURCHASE MARKET REPORT\nCarriers Chartering Corp. Kaplanon 7 & Massalias Street, 106 80 Athens, Greece.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "aframax",
+        "lng",
+        "lpg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2817,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

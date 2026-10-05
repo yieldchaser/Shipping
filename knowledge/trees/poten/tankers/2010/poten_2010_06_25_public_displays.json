@@ -1,0 +1,140 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_06_25_public_displays__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_06_25_public_displays",
+  "parent_id": null,
+  "title": "Public Displays",
+  "section_path": [
+    "Public Displays"
+  ],
+  "section_path_text": "Public Displays",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Public Displays\nAs difficult as it was to see the light just a year ago, optimism in the tanker market has been the flavor of the month. Despite European debt worries and oil spill anxiety stateside, generally healthy freight rates and moderated fleet growth have let shipping companies enjoy the freight rate spoils over the last couple of weeks. This week, listed companies in particular have had a few different public outlets through which they could demonstrate their various strengths and vie for investor love.",
+  "keywords": [
+    "vlcc",
+    "europe",
+    "crude_oil",
+    "are",
+    "asset",
+    "public",
+    "companies",
+    "prices",
+    "back",
+    "expected",
+    "growth",
+    "ipos"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 602,
+  "source_path": "reports/poten/2010/poten_2010-06-25_public-displays.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_06_25_public_displays__s01_public_displays",
+      "doc_id": "poten_tankers_no_date_poten_2010_06_25_public_displays",
+      "parent_id": "poten_tankers_no_date_poten_2010_06_25_public_displays__root",
+      "title": "Public Displays",
+      "section_path": [
+        "Public Displays"
+      ],
+      "section_path_text": "Public Displays",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As difficult as it was to see the light just a year ago, optimism in the tanker market has been the flavor of the month. Despite European debt worries and oil spill anxiety stateside, generally healthy freight rates and moderated fleet growth have let shipping companies enjoy the freight rate spoils over the last couple of weeks.",
+      "keywords": [
+        "vlcc",
+        "europe",
+        "crude_oil",
+        "asset",
+        "companies",
+        "prices",
+        "had",
+        "listed"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 245,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_06_25_public_displays__s02_second_hand",
+      "doc_id": "poten_tankers_no_date_poten_2010_06_25_public_displays",
+      "parent_id": "poten_tankers_no_date_poten_2010_06_25_public_displays__root",
+      "title": "Second Hand",
+      "section_path": [
+        "Second Hand"
+      ],
+      "section_path_text": "Second Hand",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "building",
+        "new"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_06_25_public_displays__s03_challenges_continue",
+      "doc_id": "poten_tankers_no_date_poten_2010_06_25_public_displays",
+      "parent_id": "poten_tankers_no_date_poten_2010_06_25_public_displays__root",
+      "title": "Challenges Continue",
+      "section_path": [
+        "Challenges Continue"
+      ],
+      "section_path_text": "Challenges Continue",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Despite apparent optimism about the tanker market's future, lingering uncertainties in the wider international economy have closed the window for new initial public offerings (IPO) at present. On the back of the shipping boom during 2004 to 2008, publically‐listed shipping companies gained street credibility and general popularity among retail investors.",
+      "keywords": [
+        "crude_oil",
+        "are",
+        "public",
+        "back",
+        "companies",
+        "expected",
+        "far",
+        "initial"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 258,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_06_25_public_displays__s04_ipos",
+      "doc_id": "poten_tankers_no_date_poten_2010_06_25_public_displays",
+      "parent_id": "poten_tankers_no_date_poten_2010_06_25_public_displays__root",
+      "title": "IPOs",
+      "section_path": [
+        "IPOs"
+      ],
+      "section_path_text": "IPOs",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Follow‐on Offerings The role of public money has brought to light an apparent disconnect between asset prices and freight rates. As asset prices edge somewhat higher, pressures on freight rates are likely to follow.",
+      "keywords": [
+        "asset",
+        "are",
+        "crowd",
+        "likely",
+        "prices",
+        "public",
+        "activity",
+        "apparent"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 82,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

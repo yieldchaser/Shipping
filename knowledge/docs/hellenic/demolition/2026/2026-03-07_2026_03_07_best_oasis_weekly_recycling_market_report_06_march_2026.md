@@ -5,6 +5,7 @@ commodities:
 date: '2026-03-07'
 doc_id: hellenic_demolition_2026-03-07_2026_03_07_best_oasis_weekly_recycling_market_report_06_march_2026
 document_type: demolition_update
+is_error_page: false
 key_entities:
 - Middle East
 keywords:

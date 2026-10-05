@@ -1,0 +1,191 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_03_23_the_other_stock_market__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_03_23_the_other_stock_market",
+  "parent_id": null,
+  "title": "The Other Stock Market",
+  "section_path": [
+    "The Other Stock Market"
+  ],
+  "section_path_text": "The Other Stock Market",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Other Stock Market\nSince they attained 5-year highs 7 weeks ago, US gasoline stock levels have fallen by more than 8% to 210 million barrels. At the same time crude oil stocks (excluding the SPR) have risen from 314 million barrels to 329 million barrels thus far in 2007. We can trace this simultaneous increase in crude stocks and decrease in gasoline stocks to low refinery utilization - the question is, where will the market go from here, given that peak summer driving season is quickly approaching?",
+  "keywords": [
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "gasoline",
+    "refinery",
+    "imports",
+    "utilization",
+    "crude",
+    "stocks",
+    "year",
+    "barrels"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 449,
+  "source_path": "reports/poten/2007/poten_2007-03-23_the-other-stock-market.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_03_23_the_other_stock_market__s01_the_other_stock_market",
+      "doc_id": "poten_tankers_no_date_poten_2007_03_23_the_other_stock_market",
+      "parent_id": "poten_tankers_no_date_poten_2007_03_23_the_other_stock_market__root",
+      "title": "The Other Stock Market",
+      "section_path": [
+        "The Other Stock Market"
+      ],
+      "section_path_text": "The Other Stock Market",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Since they attained 5-year highs 7 weeks ago, US gasoline stock levels have fallen by more than 8% to 210 million barrels. At the same time crude oil stocks (excluding the SPR) have risen from 314 million barrels to 329 million barrels thus far in 2007.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "million",
+        "stocks",
+        "barrels",
+        "crude",
+        "gasoline"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 102,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_03_23_the_other_stock_market__s02_crude_oil_excl_spr",
+      "doc_id": "poten_tankers_no_date_poten_2007_03_23_the_other_stock_market",
+      "parent_id": "poten_tankers_no_date_poten_2007_03_23_the_other_stock_market__root",
+      "title": "Crude Oil (Excl SPR)",
+      "section_path": [
+        "Crude Oil (Excl SPR)"
+      ],
+      "section_path_text": "Crude Oil (Excl SPR)",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "products",
+        "gas",
+        "gasoline"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_03_23_the_other_stock_market__s03_refinery_utilization_and_gasoline_imports",
+      "doc_id": "poten_tankers_no_date_poten_2007_03_23_the_other_stock_market",
+      "parent_id": "poten_tankers_no_date_poten_2007_03_23_the_other_stock_market__root",
+      "title": "Refinery Utilization and Gasoline Imports",
+      "section_path": [
+        "Refinery Utilization and Gasoline Imports"
+      ],
+      "section_path_text": "Refinery Utilization and Gasoline Imports",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Current refinery utilization of 86.3% is well below the 5-year average utilization rate of 90.6%; in fact US refinery utilization has been below 5-year averages for all of 2007. At the same time, gasoline imports have actually been quite low relative to historical levels, remaining below historical average imports for each of the past four weeks.",
+      "keywords": [
+        "products",
+        "gas",
+        "below",
+        "utilization",
+        "average",
+        "historical",
+        "imports",
+        "refinery"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 74,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_03_23_the_other_stock_market__s04_gasoline_imports",
+      "doc_id": "poten_tankers_no_date_poten_2007_03_23_the_other_stock_market",
+      "parent_id": "poten_tankers_no_date_poten_2007_03_23_the_other_stock_market__root",
+      "title": "Gasoline Imports",
+      "section_path": [
+        "Gasoline Imports"
+      ],
+      "section_path_text": "Gasoline Imports",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "refinery",
+        "utilization"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_03_23_the_other_stock_market__s05_what_is_the_net_effect",
+      "doc_id": "poten_tankers_no_date_poten_2007_03_23_the_other_stock_market",
+      "parent_id": "poten_tankers_no_date_poten_2007_03_23_the_other_stock_market__root",
+      "title": "What is the Net Effect",
+      "section_path": [
+        "What is the Net Effect"
+      ],
+      "section_path_text": "What is the Net Effect",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Persistent declines in gasoline stocks coupled with high crude prices has led to US retail gasoline prices that have increased by almost 40 cents per gallon (or nearly 20%) in the past nine weeks. What is interesting is that there has been very little change in refinery utilization over that period.",
+      "keywords": [
+        "products",
+        "gas",
+        "refinery",
+        "gasoline",
+        "margins",
+        "prices",
+        "almost",
+        "can"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 98,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_03_23_the_other_stock_market__s06_what_is_the_next_step",
+      "doc_id": "poten_tankers_no_date_poten_2007_03_23_the_other_stock_market",
+      "parent_id": "poten_tankers_no_date_poten_2007_03_23_the_other_stock_market__root",
+      "title": "What is the Next Step",
+      "section_path": [
+        "What is the Next Step"
+      ],
+      "section_path_text": "What is the Next Step",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "On the brink of peak summer driving season, US gasoline production and US gasoline stock levels will increase in the short term. These increases will lead to higher imports and higher domestic refinery runs.",
+      "keywords": [
+        "europe",
+        "products",
+        "gas",
+        "gasoline",
+        "imports",
+        "additional",
+        "higher",
+        "increase"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 129,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -8,6 +8,7 @@ commodities:
 date: '2026-07-18'
 doc_id: hellenic_demolition_2026-07-18_2026_07_18_gms_week_29_blockade_returns_toll_rises
 document_type: demolition_update
+is_error_page: false
 key_entities:
 - China
 - Vale
@@ -32,8 +33,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 111
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: The second act arrived with a name this time, and it was not "ceasefire."
     Five consecutive days of American strikes through Wednesday hit Iranianpositions
@@ -42,8 +42,7 @@ numeric_observations:
   unit: pct
   values:
   - 20.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Oil has now made this climb three times since the conflict opened,
     and the muscle memory shows. Brent touched USD 84.77 and WTI USD 79.56 on Thursday,
@@ -51,10 +50,9 @@ numeric_observations:
     June's interim peace. A rei
   unit: usd
   values:
-  - 84770.0
-  - 79560.0
-- &id003
-  section: Main
+  - 84.77
+  - 79.56
+- section: Main
   section_type: null
   source_line: Freight, characteristically, is having a different week. The Baltic
     Dry Index closed Friday at 2,944, its highest since June 5, while the Capesize
@@ -66,8 +64,7 @@ numeric_observations:
   - 5.0
   - 1.9
   - 4655.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: The data released this week was arguing with the news that overtook
     it. U.S. June inflation eased to 3.5% from 4.2%, its first decline in five months,
@@ -81,12 +78,11 @@ numeric_observations:
   - 4.38
   - 3.93
   - 2024.0
-  - 96400.0
-  - 96200.0
+  - 96.4
+  - 96.2
   - 123.3
-  - 47100.0
-- &id005
-  section: Main
+  - 47.1
+- section: Main
   section_type: null
   source_line: In Bangladesh, the numbers that matter most are not economic. Flooding
     and landslides across Chattogram, Cox's Bazar, Habiganj, and neighbouring districts
@@ -95,8 +91,7 @@ numeric_observations:
   unit: null
   values:
   - 51.0
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 29 of 2026, GMS Market Rankings / Vessel indications are as
     below.
@@ -104,15 +99,13 @@ numeric_observations:
   values:
   - 29.0
   - 2026.0
-- &id007
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Linked asset: 1233.jpg'
   unit: null
   values:
   - 1233.0
-- &id008
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_1233_d87e559d59b9.jpg'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_1233_d87e559d59b9.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_1233_d87e559d59b9.jpg'
   unit: null
@@ -126,24 +119,21 @@ numeric_observations:
   - 559.0
   - 59.0
   - 9.0
-- &id009
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_1233_d87e559d59b9.jpg'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_1233_d87e559d59b9.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 687x155 mode=RGB'
   unit: null
   values:
   - 687.0
   - 155.0
-- &id010
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_1233_d87e559d59b9.jpg'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_1233_d87e559d59b9.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'
   unit: null
   values:
   - 120.0
   - 120.0
-- &id011
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_1233_d87e559d59b9.jpg'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_1233_d87e559d59b9.jpg'
   section_type: linked_image_asset
   source_line: Bangladesh | Softening | 448-453/LDT | 468-473/LDT | 478-483 / LDT
   unit: null
@@ -154,8 +144,7 @@ numeric_observations:
   - -473.0
   - 478.0
   - -483.0
-- &id012
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_1233_d87e559d59b9.jpg'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_1233_d87e559d59b9.jpg'
   section_type: linked_image_asset
   source_line: '[2 [Pakistan [Steady | 443-448/LDT | 463-468/LDT | 473-478 /LDT'
   unit: null
@@ -167,8 +156,7 @@ numeric_observations:
   - -468.0
   - 473.0
   - -478.0
-- &id013
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_1233_d87e559d59b9.jpg'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_1233_d87e559d59b9.jpg'
   section_type: linked_image_asset
   source_line: '[3 [india [Steady _-[_418-423/ LDT | 438-443/LDT | 448-453 /LDT'
   unit: null
@@ -180,8 +168,7 @@ numeric_observations:
   - -443.0
   - 448.0
   - -453.0
-- &id014
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_1233_d87e559d59b9.jpg'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_1233_d87e559d59b9.jpg'
   section_type: linked_image_asset
   source_line: '[4 [Turkey | Softening | 203-265/LDT | 273-275/ LDT | 283-285/LDT'
   unit: null
@@ -193,63 +180,55 @@ numeric_observations:
   - -275.0
   - 283.0
   - -285.0
-- &id015
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: 1. ` *I
   unit: null
   values:
   - 1.0
-- &id016
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: July 17th, 2026
   unit: null
   values:
   - 17.0
   - 2026.0
-- &id017
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: Week 29
   unit: null
   values:
   - 29.0
-- &id018
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: Volume 282, Issue 1244
   unit: null
   values:
   - 282.0
   - 1244.0
-- &id019
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: revived the idea of seizing Kharg Island outright, while abandoning
     the proposed 20% Hormuz transit fee.
   unit: pct
   values:
   - 20.0
-- &id020
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: touched USD 84.77 and WTI USD 79.56 on Thursday, one-month highs that
     recovered roughly one-third of the
   unit: usd
   values:
-  - 84770.0
-  - 79560.0
-- &id021
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+  - 84.77
+  - 79.56
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: Freight, characteristically, is having a different week. The Baltic
     D ry Index closed Friday at 2,944, its highest
   unit: null
   values:
   - 2944.0
-- &id022
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: since June 5, while the Capesize Index rose 1.9% to 4,655 on continued
     iron ore and coal demand. Dry bulk
@@ -258,16 +237,14 @@ numeric_observations:
   - 5.0
   - 1.9
   - 4655.0
-- &id023
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: The data released this week was arguing with the news that overtook
     it. U.S. June inflation eased to 3.5% from
   unit: worldscale_pct
   values:
   - 3.5
-- &id024
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: 4.2%, its first decline in five months, with core inflation slowing
     to 2.6% as the energy relief delivered by the
@@ -275,8 +252,7 @@ numeric_observations:
   values:
   - 4.2
   - 2.6
-- &id025
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: now-defunct ceasefire reached the figures. India's June print moved
     the other way, rising to 4.38% from 3.93%,
@@ -284,50 +260,44 @@ numeric_observations:
   values:
   - 4.38
   - 3.93
-- &id026
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: its highest since December 2024 and above expectations as the spring
     energy shock reached transport and food
   unit: null
   values:
   - 2024.0
-- &id027
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: costs. The calm print anticipated last week did not arrive, and the
     Rupee noticed. USD/INR touched 96.40 on
   unit: usd_per_unit
   values:
-  - 96400.0
-- &id028
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+  - 96.4
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: Thursday before easing toward 96.20. The Taka held near 123.30, the
     Turkish Lira reached another record near
   unit: null
   values:
-  - 96200.0
+  - 96.2
   - 123.3
-- &id029
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: 47.10, and the Pakistani Rupee barely moved, the only basin currency
     that appears to have opted out of 2026.
   unit: null
   values:
-  - 47100.0
+  - 47.1
   - 2026.0
-- &id030
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: Cox's Bazar, Habiganj, and neighbouring districts have killed at least
     51 people and affected more than one
   unit: null
   values:
   - 51.0
-- &id031
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: GMS market rankings / pricing for week 29 of 2026 are on Page 5.
   unit: null
@@ -335,16 +305,14 @@ numeric_observations:
   - 29.0
   - 2026.0
   - 5.0
-- &id032
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id033
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: The confirmed death toll from this month's flooding and landslides
     has reached at least 51, with 39
@@ -352,8 +320,7 @@ numeric_observations:
   values:
   - 51.0
   - 39.0
-- &id034
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: thin, and the July 14 to 17 tide window closes with little to show
     for it. The next window with
@@ -361,16 +328,14 @@ numeric_observations:
   values:
   - 14.0
   - 17.0
-- &id035
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: meaningful capacity opens July 29. Yards that had positioned for the
     deferred Gulf exit wave are,
   unit: null
   values:
   - 29.0
-- &id036
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: held near 123.30, comfortably within the range established after Week
     27's break, with reserves
@@ -378,74 +343,65 @@ numeric_observations:
   values:
   - 123.3
   - 27.0
-- &id037
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: supported by the IMF's confirmed USD 1.3 billion disbursement following
     June's reform
   unit: usd
   values:
   - 1.3
-- &id038
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: breakthrough. No new inflation print is due until early August, leaving
     June's 9.16% as the
   unit: tonnage
   values:
-  - 9160.0
-- &id039
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+  - 9.16
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: operative read. The fiscal year closed with average inflation near
     8.68%, above the government's
   unit: pct
   values:
-  - 8680.0
-- &id040
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+  - 8.68
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: 7% target, but below the double-digit pressures seen elsewhere in the
     basin. Local steel trading
   unit: pct
   values:
   - 7.0
-- &id041
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id042
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: USD/INR touched 96.40 on Thursday, its weakest level since May and
     within striking distance of the
   unit: usd_per_unit
   values:
-  - 96400.0
-- &id043
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+  - 96.4
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: May 21 record of approximately 96.97, before a modest Friday recovery
     returned it toward 96.20. The
   unit: null
   values:
   - 21.0
-  - 96970.0
-  - 96200.0
-- &id044
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+  - 96.97
+  - 96.2
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: Week 28 shock, suggesting that the second escalation has rattled fewer
     nerves than the first, even at a
   unit: null
   values:
   - 28.0
-- &id045
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: window that "should still print calm." It did not. Inflation rose to
     4.38% from 3.93%, its highest since T he calm wasn't.
@@ -453,8 +409,7 @@ numeric_observations:
   values:
   - 4.38
   - 3.93
-- &id046
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: December 2024 and above every forecast on the board. Transport inflation
     rebounded to 4.31% as the
@@ -462,17 +417,15 @@ numeric_observations:
   values:
   - 2024.0
   - 4.31
-- &id047
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: spring energy shock cleared customs, while food inflation rose to 5.32%,
     helped by a 50% surge in
   unit: pct
   values:
-  - 5320.0
+  - 5.32
   - 50.0
-- &id048
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: Local steel plate at Alang firmed through the week from approximately
     INR 37,200 to INR 38,000, with
@@ -480,16 +433,14 @@ numeric_observations:
   values:
   - 37200.0
   - 38000.0
-- &id049
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: the USD equivalent rising toward USD 394 as the local increase outweighed
     the weaker Rupee. The A lang holds.
   unit: usd
   values:
   - 394.0
-- &id050
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: July 11 to 20 tide window enters its final days with the Gulf exit
     queue still suspended and monsoon
@@ -497,56 +448,49 @@ numeric_observations:
   values:
   - 11.0
   - 20.0
-- &id051
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: 'consecutive week: the basin''s deepest capacity, more than 115 valid
     Statements of Compliance, the'
   unit: null
   values:
   - 115.0
-- &id052
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: Valaris MS-1 Semi Sub 28,761 Undisclosed Price (‘as is' Indonesia)
   unit: null
   values:
   - 1.0
   - 28761.0
-- &id053
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id054
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: USD/PKR spent the week inside a range of barely a quarter rupee, closing
     near 278.15 and
   unit: usd_per_unit
   values:
   - 278.15
-- &id055
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: currency that has simply declined to react. The State Bank's 11.5%
     policy rate and disciplined
   unit: pct
   values:
-  - 11500.0
-- &id056
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+  - 11.5
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: until early August, leaving June's 11.1% reading and rare outright
     monthly decline as the operative
   unit: pct
   values:
-  - 11100.0
-- &id057
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+  - 11.1
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: Gadani's plate quote held flat at PKR 195,000 per ton, near USD 700,
     for a second consecutive week,
@@ -554,65 +498,57 @@ numeric_observations:
   values:
   - 195000.0
   - 700.0
-- &id058
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: Duties unchanged. while the July 1 Regulatory Duty relief continues
     working through the market at its own pace.
   unit: null
   values:
   - 1.0
-- &id059
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: Yard demand remains steady but unspectacular. Pakistan closed Week
     28 asking whether
   unit: null
   values:
   - 28.0
-- &id060
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id061
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: The TCMB kept its policy rate at 37% at its latest meeting, the third
     consecutive hold, citing renewed
   unit: pct
   values:
   - 37.0
-- &id062
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: record territory near 47.10, while the effective overnight rate near
     40% continues to carry the policy
   unit: pct
   values:
-  - 47100.0
+  - 47.1
   - 40.0
-- &id063
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: June's official inflation reading of 32.11%, the lowest since March,
     remains the headline figure.
   unit: pct
   values:
-  - 32110.0
-- &id064
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+  - 32.11
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: Independent economists at the Inflation Research Group place the annual
     rate closer to 51.4%, a gap
   unit: pct
   values:
-  - 51400.0
-- &id065
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+  - 51.4
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: Aliaga's plate indications held at USD 263 to USD 285 per LDT across
     vessel types, leaving Turkey
@@ -620,8 +556,7 @@ numeric_observations:
   values:
   - 263.0
   - 285.0
-- &id066
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: For Week 29 of 2026, GMS Market Rankings / Vessel indications are as
     below.
@@ -629,8 +564,7 @@ numeric_observations:
   values:
   - 29.0
   - 2026.0
-- &id067
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Softening 448-453 / LDT 468-473 / LDT 478-483 / LDT
   unit: null
@@ -642,8 +576,7 @@ numeric_observations:
   - -473.0
   - 478.0
   - -483.0
-- &id068
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan Steady 443-448 / LDT 463-468 / LDT 473-478 / LDT
   unit: null
@@ -655,8 +588,7 @@ numeric_observations:
   - -468.0
   - 473.0
   - -478.0
-- &id069
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: 3 India Steady 418-423 / LDT 438-443 / LDT 448-453 / LDT
   unit: null
@@ -668,8 +600,7 @@ numeric_observations:
   - -443.0
   - 448.0
   - -453.0
-- &id070
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Softening 263-265 / LDT 273-275 / LDT 283-285 / LDT
   unit: null
@@ -681,68 +612,59 @@ numeric_observations:
   - -275.0
   - 283.0
   - -285.0
-- &id071
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id072
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line:  Recycling vessels at Alang is estimated to have saved 124.5 million
     barrels of oil, equivalent to
   unit: null
   values:
   - 124.5
-- &id073
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: approximately 19.8 billion litres.
   unit: null
   values:
-  - 19800.0
-- &id074
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+  - 19.8
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: output of approximately 9 coal-fired power plants.
   unit: null
   values:
   - 9.0
-- &id075
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: ed 44.4 billion kWh of energy,
   unit: null
   values:
-  - 44400.0
-- &id076
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+  - 44.4
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: July 11 - July 20
   unit: null
   values:
   - 11.0
   - 20.0
-- &id077
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: August 15 - Independence Day
   unit: null
   values:
   - 15.0
-- &id078
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: July 27 - August 04
   unit: null
   values:
   - 27.0
   - 4.0
-- &id079
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: August 05 - July Uprising Day July 29 - August 01
   unit: null
@@ -750,8 +672,7 @@ numeric_observations:
   - 5.0
   - 29.0
   - 1.0
-- &id080
-  section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+- section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: August 26 - Eid-e-Milad-un-Nabi August 12 - August 15
   unit: null
@@ -916,7 +837,7 @@ numeric_observations:
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
   values:
-  - 49400.0
+  - 49.4
   - 3197.9963
   - 1.24
   - 505.9716
@@ -926,17 +847,17 @@ numeric_observations:
   unit: null
   values:
   - 86216.0
-  - 75190.0
-  - 82100.0
+  - 75.19
+  - 82.1
   - 4650.072
 - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
   values:
-  - 65682.3
+  - 65.6823
   - 8037.0
-  - 81300.0
+  - 81.3
   - 5453.6311
 - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
   section_type: linked_pdf
@@ -1016,86 +937,653 @@ section_count: 3
 signals:
   numeric_observation_count: 111
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: The second act arrived with a name this time, and it was not "ceasefire."
+      Five consecutive days of American strikes through Wednesday hit Iranianpositions
+      from Bandar Abbas and Qeshm Island to Sirik, while Washington reinstated the
+      naval blockade of Iranian po
+    unit: pct
+    values:
+    - 20.0
+  - section: Main
+    section_type: null
+    source_line: Oil has now made this climb three times since the conflict opened,
+      and the muscle memory shows. Brent touched USD 84.77 and WTI USD 79.56 on Thursday,
+      one-month highs that recovered roughly one-third of the ground surrendered during
+      June's interim peace. A rei
+    unit: usd
+    values:
+    - 84770.0
+    - 79560.0
+  - section: Main
+    section_type: null
+    source_line: Freight, characteristically, is having a different week. The Baltic
+      Dry Index closed Friday at 2,944, its highest since June 5, while the Capesize
+      Index rose 1.9% to 4,655 on continued iron ore and coal demand. Dry bulk owners
+      are pricing cargo fundamentals ra
+    unit: pct
+    values:
+    - 2944.0
+    - 5.0
+    - 1.9
+    - 4655.0
+  - section: Main
+    section_type: null
+    source_line: The data released this week was arguing with the news that overtook
+      it. U.S. June inflation eased to 3.5% from 4.2%, its first decline in five months,
+      with core inflation slowing to 2.6% as the energy relief delivered by the now-defunct
+      ceasefire reached the f
+    unit: usd_per_unit
+    values:
+    - 3.5
+    - 4.2
+    - 2.6
+    - 4.38
+    - 3.93
+    - 2024.0
+    - 96400.0
+    - 96200.0
+    - 123.3
+    - 47100.0
+  - section: Main
+    section_type: null
+    source_line: In Bangladesh, the numbers that matter most are not economic. Flooding
+      and landslides across Chattogram, Cox's Bazar, Habiganj, and neighbouring districts
+      have killed at least 51 people and affected more than one million. A failed
+      embankment on the Khowai Rive
+    unit: null
+    values:
+    - 51.0
+  - section: Main
+    section_type: null
+    source_line: For Week 29 of 2026, GMS Market Rankings / Vessel indications are
+      as below.
+    unit: null
+    values:
+    - 29.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: 'Linked asset: 1233.jpg'
+    unit: null
+    values:
+    - 1233.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_1233_d87e559d59b9.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_1233_d87e559d59b9.jpg'
+    unit: null
+    values:
+    - 2026.0
+    - -7.0
+    - -18.0
+    - 29.0
+    - 1233.0
+    - 87.0
+    - 559.0
+    - 59.0
+    - 9.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_1233_d87e559d59b9.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 687x155 mode=RGB'
+    unit: null
+    values:
+    - 687.0
+    - 155.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_1233_d87e559d59b9.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (120, 120)'
+    unit: null
+    values:
+    - 120.0
+    - 120.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_1233_d87e559d59b9.jpg'
+    section_type: linked_image_asset
+    source_line: Bangladesh | Softening | 448-453/LDT | 468-473/LDT | 478-483 / LDT
+    unit: null
+    values:
+    - 448.0
+    - -453.0
+    - 468.0
+    - -473.0
+    - 478.0
+    - -483.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_1233_d87e559d59b9.jpg'
+    section_type: linked_image_asset
+    source_line: '[2 [Pakistan [Steady | 443-448/LDT | 463-468/LDT | 473-478 /LDT'
+    unit: null
+    values:
+    - 2.0
+    - 443.0
+    - -448.0
+    - 463.0
+    - -468.0
+    - 473.0
+    - -478.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_1233_d87e559d59b9.jpg'
+    section_type: linked_image_asset
+    source_line: '[3 [india [Steady _-[_418-423/ LDT | 438-443/LDT | 448-453 /LDT'
+    unit: null
+    values:
+    - 3.0
+    - 418.0
+    - -423.0
+    - 438.0
+    - -443.0
+    - 448.0
+    - -453.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_1233_d87e559d59b9.jpg'
+    section_type: linked_image_asset
+    source_line: '[4 [Turkey | Softening | 203-265/LDT | 273-275/ LDT | 283-285/LDT'
+    unit: null
+    values:
+    - 4.0
+    - 203.0
+    - -265.0
+    - 273.0
+    - -275.0
+    - 283.0
+    - -285.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: 1. ` *I
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: July 17th, 2026
+    unit: null
+    values:
+    - 17.0
+    - 2026.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: Week 29
+    unit: null
+    values:
+    - 29.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: Volume 282, Issue 1244
+    unit: null
+    values:
+    - 282.0
+    - 1244.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: revived the idea of seizing Kharg Island outright, while abandoning
+      the proposed 20% Hormuz transit fee.
+    unit: pct
+    values:
+    - 20.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: touched USD 84.77 and WTI USD 79.56 on Thursday, one-month highs
+      that recovered roughly one-third of the
+    unit: usd
+    values:
+    - 84770.0
+    - 79560.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: Freight, characteristically, is having a different week. The Baltic
+      D ry Index closed Friday at 2,944, its highest
+    unit: null
+    values:
+    - 2944.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: since June 5, while the Capesize Index rose 1.9% to 4,655 on continued
+      iron ore and coal demand. Dry bulk
+    unit: pct
+    values:
+    - 5.0
+    - 1.9
+    - 4655.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: The data released this week was arguing with the news that overtook
+      it. U.S. June inflation eased to 3.5% from
+    unit: worldscale_pct
+    values:
+    - 3.5
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: 4.2%, its first decline in five months, with core inflation slowing
+      to 2.6% as the energy relief delivered by the
+    unit: pct
+    values:
+    - 4.2
+    - 2.6
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: now-defunct ceasefire reached the figures. India's June print moved
+      the other way, rising to 4.38% from 3.93%,
+    unit: pct
+    values:
+    - 4.38
+    - 3.93
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: its highest since December 2024 and above expectations as the spring
+      energy shock reached transport and food
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: costs. The calm print anticipated last week did not arrive, and the
+      Rupee noticed. USD/INR touched 96.40 on
+    unit: usd_per_unit
+    values:
+    - 96400.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: Thursday before easing toward 96.20. The Taka held near 123.30, the
+      Turkish Lira reached another record near
+    unit: null
+    values:
+    - 96200.0
+    - 123.3
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: 47.10, and the Pakistani Rupee barely moved, the only basin currency
+      that appears to have opted out of 2026.
+    unit: null
+    values:
+    - 47100.0
+    - 2026.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: Cox's Bazar, Habiganj, and neighbouring districts have killed at
+      least 51 people and affected more than one
+    unit: null
+    values:
+    - 51.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: GMS market rankings / pricing for week 29 of 2026 are on Page 5.
+    unit: null
+    values:
+    - 29.0
+    - 2026.0
+    - 5.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: The confirmed death toll from this month's flooding and landslides
+      has reached at least 51, with 39
+    unit: null
+    values:
+    - 51.0
+    - 39.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: thin, and the July 14 to 17 tide window closes with little to show
+      for it. The next window with
+    unit: null
+    values:
+    - 14.0
+    - 17.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: meaningful capacity opens July 29. Yards that had positioned for
+      the deferred Gulf exit wave are,
+    unit: null
+    values:
+    - 29.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: held near 123.30, comfortably within the range established after
+      Week 27's break, with reserves
+    unit: null
+    values:
+    - 123.3
+    - 27.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: supported by the IMF's confirmed USD 1.3 billion disbursement following
+      June's reform
+    unit: usd
+    values:
+    - 1.3
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: breakthrough. No new inflation print is due until early August, leaving
+      June's 9.16% as the
+    unit: tonnage
+    values:
+    - 9160.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: operative read. The fiscal year closed with average inflation near
+      8.68%, above the government's
+    unit: pct
+    values:
+    - 8680.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: 7% target, but below the double-digit pressures seen elsewhere in
+      the basin. Local steel trading
+    unit: pct
+    values:
+    - 7.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: USD/INR touched 96.40 on Thursday, its weakest level since May and
+      within striking distance of the
+    unit: usd_per_unit
+    values:
+    - 96400.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: May 21 record of approximately 96.97, before a modest Friday recovery
+      returned it toward 96.20. The
+    unit: null
+    values:
+    - 21.0
+    - 96970.0
+    - 96200.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: Week 28 shock, suggesting that the second escalation has rattled
+      fewer nerves than the first, even at a
+    unit: null
+    values:
+    - 28.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: window that "should still print calm." It did not. Inflation rose
+      to 4.38% from 3.93%, its highest since T he calm wasn't.
+    unit: pct
+    values:
+    - 4.38
+    - 3.93
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: December 2024 and above every forecast on the board. Transport inflation
+      rebounded to 4.31% as the
+    unit: pct
+    values:
+    - 2024.0
+    - 4.31
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: spring energy shock cleared customs, while food inflation rose to
+      5.32%, helped by a 50% surge in
+    unit: pct
+    values:
+    - 5320.0
+    - 50.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: Local steel plate at Alang firmed through the week from approximately
+      INR 37,200 to INR 38,000, with
+    unit: null
+    values:
+    - 37200.0
+    - 38000.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: the USD equivalent rising toward USD 394 as the local increase outweighed
+      the weaker Rupee. The A lang holds.
+    unit: usd
+    values:
+    - 394.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: July 11 to 20 tide window enters its final days with the Gulf exit
+      queue still suspended and monsoon
+    unit: null
+    values:
+    - 11.0
+    - 20.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: 'consecutive week: the basin''s deepest capacity, more than 115 valid
+      Statements of Compliance, the'
+    unit: null
+    values:
+    - 115.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: Valaris MS-1 Semi Sub 28,761 Undisclosed Price (‘as is' Indonesia)
+    unit: null
+    values:
+    - 1.0
+    - 28761.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: USD/PKR spent the week inside a range of barely a quarter rupee,
+      closing near 278.15 and
+    unit: usd_per_unit
+    values:
+    - 278.15
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: currency that has simply declined to react. The State Bank's 11.5%
+      policy rate and disciplined
+    unit: pct
+    values:
+    - 11500.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: until early August, leaving June's 11.1% reading and rare outright
+      monthly decline as the operative
+    unit: pct
+    values:
+    - 11100.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: Gadani's plate quote held flat at PKR 195,000 per ton, near USD 700,
+      for a second consecutive week,
+    unit: usd
+    values:
+    - 195000.0
+    - 700.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: Duties unchanged. while the July 1 Regulatory Duty relief continues
+      working through the market at its own pace.
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: Yard demand remains steady but unspectacular. Pakistan closed Week
+      28 asking whether
+    unit: null
+    values:
+    - 28.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: The TCMB kept its policy rate at 37% at its latest meeting, the third
+      consecutive hold, citing renewed
+    unit: pct
+    values:
+    - 37.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: record territory near 47.10, while the effective overnight rate near
+      40% continues to carry the policy
+    unit: pct
+    values:
+    - 47100.0
+    - 40.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: June's official inflation reading of 32.11%, the lowest since March,
+      remains the headline figure.
+    unit: pct
+    values:
+    - 32110.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: Independent economists at the Inflation Research Group place the
+      annual rate closer to 51.4%, a gap
+    unit: pct
+    values:
+    - 51400.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: Aliaga's plate indications held at USD 263 to USD 285 per LDT across
+      vessel types, leaving Turkey
+    unit: usd
+    values:
+    - 263.0
+    - 285.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: For Week 29 of 2026, GMS Market Rankings / Vessel indications are
+      as below.
+    unit: null
+    values:
+    - 29.0
+    - 2026.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Softening 448-453 / LDT 468-473 / LDT 478-483 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 448.0
+    - -453.0
+    - 468.0
+    - -473.0
+    - 478.0
+    - -483.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan Steady 443-448 / LDT 463-468 / LDT 473-478 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 443.0
+    - -448.0
+    - 463.0
+    - -468.0
+    - 473.0
+    - -478.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Steady 418-423 / LDT 438-443 / LDT 448-453 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 418.0
+    - -423.0
+    - 438.0
+    - -443.0
+    - 448.0
+    - -453.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Softening 263-265 / LDT 273-275 / LDT 283-285 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 263.0
+    - -265.0
+    - 273.0
+    - -275.0
+    - 283.0
+    - -285.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line:  Recycling vessels at Alang is estimated to have saved 124.5 million
+      barrels of oil, equivalent to
+    unit: null
+    values:
+    - 124.5
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: approximately 19.8 billion litres.
+    unit: null
+    values:
+    - 19800.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: output of approximately 9 coal-fired power plants.
+    unit: null
+    values:
+    - 9.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: ed 44.4 billion kWh of energy,
+    unit: null
+    values:
+    - 44400.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: July 11 - July 20
+    unit: null
+    values:
+    - 11.0
+    - 20.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: August 15 - Independence Day
+    unit: null
+    values:
+    - 15.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: July 27 - August 04
+    unit: null
+    values:
+    - 27.0
+    - 4.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: August 05 - July Uprising Day July 29 - August 01
+    unit: null
+    values:
+    - 5.0
+    - 29.0
+    - 1.0
+  - section: 'Linked asset: 2026-07-18_gms-week-29-blockade-returns-toll-rises_ship-recycling-market-insight-week-2_b95cdf340bc0.pdf'
+    section_type: linked_pdf
+    source_line: August 26 - Eid-e-Milad-un-Nabi August 12 - August 15
+    unit: null
+    values:
+    - 26.0
+    - 12.0
+    - 15.0
 source: hellenic
 source_path: reports/hellenic/demolition/2026/2026-07-18_gms-week-29-blockade-returns-toll-rises.html
 source_stem: 2026-07-18_gms-week-29-blockade-returns-toll-rises

@@ -1,0 +1,174 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2004_12_10_opec_cuts_production_is_there_a_message__root",
+  "doc_id": "poten_tankers_no_date_poten_2004_12_10_opec_cuts_production_is_there_a_message",
+  "parent_id": null,
+  "title": "OPEC Cuts Production- Is There a Message?",
+  "section_path": [
+    "OPEC Cuts Production- Is There a Message?"
+  ],
+  "section_path_text": "OPEC Cuts Production- Is There a Message?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "OPEC Cuts Production- Is There a Message? OPEC announced today a reduction of about 1 million bpd to stem falling oil prices. Saudi Arabia stated that it has been acting responsibly by increasing production to moderate oil prices.",
+  "keywords": [
+    "china",
+    "crude_oil",
+    "oil",
+    "inventories",
+    "prices",
+    "exports",
+    "million",
+    "are",
+    "crude",
+    "price",
+    "when",
+    "bpd"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 577,
+  "source_path": "reports/poten/2004/poten_2004-12-10_opec-cuts-production-is-there-a-message.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_12_10_opec_cuts_production_is_there_a_message__s01_opec_cuts_production_is_there_a_message",
+      "doc_id": "poten_tankers_no_date_poten_2004_12_10_opec_cuts_production_is_there_a_message",
+      "parent_id": "poten_tankers_no_date_poten_2004_12_10_opec_cuts_production_is_there_a_message__root",
+      "title": "OPEC Cuts Production- Is There a Message?",
+      "section_path": [
+        "OPEC Cuts Production- Is There a Message?"
+      ],
+      "section_path_text": "OPEC Cuts Production- Is There a Message?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "OPEC announced today a reduction of about 1 million bpd to stem falling oil prices. Saudi Arabia stated that it has been acting responsibly by increasing production to moderate oil prices.",
+      "keywords": [
+        "crude_oil",
+        "euros",
+        "oil",
+        "barrel",
+        "per",
+        "prices",
+        "prices.",
+        "acting"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 115,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_12_10_opec_cuts_production_is_there_a_message__s02_economics_at_work",
+      "doc_id": "poten_tankers_no_date_poten_2004_12_10_opec_cuts_production_is_there_a_message",
+      "parent_id": "poten_tankers_no_date_poten_2004_12_10_opec_cuts_production_is_there_a_message__root",
+      "title": "Economics at Work",
+      "section_path": [
+        "Economics at Work"
+      ],
+      "section_path_text": "Economics at Work",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The following chart plots oil prices versus AG exports. As the world economy improves, oil demand increases.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "causes",
+        "chart",
+        "demand",
+        "economy",
+        "exports",
+        "exports."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 37,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_12_10_opec_cuts_production_is_there_a_message__s03_2001_sept_2004",
+      "doc_id": "poten_tankers_no_date_poten_2004_12_10_opec_cuts_production_is_there_a_message",
+      "parent_id": "poten_tankers_no_date_poten_2004_12_10_opec_cuts_production_is_there_a_message__root",
+      "title": "(2001-Sept 2004)",
+      "section_path": [
+        "(2001-Sept 2004)"
+      ],
+      "section_path_text": "(2001-Sept 2004)",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "There is a fairly good correlation between oil prices and AG exports (65% of the variation in oil prices can be described by variation in AG exports). This degree of correlation can be interpreted to mean that it is easier for OPEC to keep prices high when demand is high and that it is more difficult to maintain price when demand is low.",
+      "keywords": [
+        "crude_oil",
+        "exports",
+        "million",
+        "prices",
+        "bpd",
+        "can",
+        "correlation",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 129,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_12_10_opec_cuts_production_is_there_a_message__s04_inventories_building",
+      "doc_id": "poten_tankers_no_date_poten_2004_12_10_opec_cuts_production_is_there_a_message",
+      "parent_id": "poten_tankers_no_date_poten_2004_12_10_opec_cuts_production_is_there_a_message__root",
+      "title": "Inventories Building?",
+      "section_path": [
+        "Inventories Building?"
+      ],
+      "section_path_text": "Inventories Building?",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Comments in the press seem to indicate that the recent softness in oil prices may stem from an accumulation of crude and heating oil inventories, shown on the next page.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "accumulation",
+        "comments",
+        "crude",
+        "heating",
+        "indicate",
+        "inventories"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 34,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_12_10_opec_cuts_production_is_there_a_message__s05_million_bbls",
+      "doc_id": "poten_tankers_no_date_poten_2004_12_10_opec_cuts_production_is_there_a_message",
+      "parent_id": "poten_tankers_no_date_poten_2004_12_10_opec_cuts_production_is_there_a_message__root",
+      "title": "Million Bbls",
+      "section_path": [
+        "Million Bbls"
+      ],
+      "section_path_text": "Million Bbls",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Crude oil inventories have been in an upward trend since 2001. Although modern financial inventory management is to keep inventories low in order to dedicate corporate capital resources to more productive outlets, crude inventories are also insurance against uncertainty of supply.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "inventories",
+        "are",
+        "oil",
+        "crude",
+        "not",
+        "again"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 226,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

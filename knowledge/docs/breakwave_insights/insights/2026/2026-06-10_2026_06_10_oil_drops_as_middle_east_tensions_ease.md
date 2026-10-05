@@ -11,6 +11,7 @@ commodities:
 date: '2026-06-10'
 doc_id: breakwave_insights_insights_2026-06-10_2026_06_10_oil_drops_as_middle_east_tensions_ease
 document_type: insights_note
+is_error_page: false
 key_entities:
 - China
 - Brazil
@@ -30,10 +31,10 @@ keywords:
 - products
 - steel
 linked_assets_discovered: 5
-linked_assets_failed: 1
+linked_assets_failed: 0
 linked_assets_ingested: 2
-linked_assets_mirrored: 3
-linked_assets_skipped: 2
+linked_assets_mirrored: 2
+linked_assets_skipped: 3
 market_tone: neutral
 numeric_observation_count: 40
 numeric_observations:
@@ -49,9 +50,9 @@ numeric_observations:
   - 2026.0
   - -6.0
   - -10.0
-  - 4.0
-  - 4.0
-  - 5.0
+  - 3.0
+  - 84.0
+  - 9.0
 - section: Market Commentary
   section_type: null
   source_line: 'Crude oil slumped as signs of weakening demand emerge to help balance
@@ -90,6 +91,7 @@ numeric_observations:
     by a Bloomberg report that China is
   unit: worldscale_pct
   values:
+  - 2.0
   - 0.45
   - 4.4
 - section: Market Commentary
@@ -125,9 +127,9 @@ numeric_observations:
   - 2026.0
   - -6.0
   - -10.0
-  - 4.0
-  - 4.0
-  - 5.0
+  - 3.0
+  - 84.0
+  - 9.0
 - section: 'Linked asset: 2026-06-10_oil-drops-as-middle-east-tensions-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_50f2b2c1625c.png'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2026-06-10_oil-drops-as-middle-east-tensions-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_50f2b2c1625c.png'
@@ -136,18 +138,20 @@ numeric_observations:
   - 2026.0
   - -6.0
   - -10.0
-  - 4.0
-  - 4.0
-  - 5.0
-  - 50.0
-  - 625.0
+  - 3.0
+  - 84.0
+  - 9.0
+  - 3.0
+  - 9.0
+  - 8.0
+  - 84.0
 - section: 'Linked asset: 2026-06-10_oil-drops-as-middle-east-tensions-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_50f2b2c1625c.png'
   section_type: linked_image_asset
   source_line: 'Image metadata: PNG 838x591 mode=RGBA'
   unit: null
   values:
   - 838.0
-  - 91.0
+  - 591.0
 - section: 'Linked asset: 2026-06-10_oil-drops-as-middle-east-tensions-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_50f2b2c1625c.png'
   section_type: linked_image_asset
   source_line: 'dpi: (119.9896, 119.9896)'
@@ -198,6 +202,7 @@ numeric_observations:
   unit: null
   values:
   - 52502.0
+  - 7.0
 - section: 'Linked asset: 2026-06-10_oil-drops-as-middle-east-tensions-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_50f2b2c1625c.png'
   section_type: linked_image_asset
   source_line: Iron ore 100.7 = usps 0.030
@@ -305,19 +310,20 @@ numeric_observations:
   - 2026.0
   - -6.0
   - -10.0
-  - 4.0
-  - 4.0
-  - 5.0
-  - 214.0
-  - 240.0
+  - 3.0
+  - 84.0
   - 9.0
+  - 3.0
+  - 9.0
+  - 8.0
+  - 84.0
 - section: 'Linked asset: 2026-06-10_oil-drops-as-middle-east-tensions-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_214e3240e89d.png'
   section_type: linked_image_asset
   source_line: 'Image metadata: PNG 822x431 mode=RGBA'
   unit: null
   values:
   - 822.0
-  - 31.0
+  - 431.0
 - section: 'Linked asset: 2026-06-10_oil-drops-as-middle-east-tensions-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_214e3240e89d.png'
   section_type: linked_image_asset
   source_line: 'dpi: (119.9896, 119.9896)'

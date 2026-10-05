@@ -7,6 +7,7 @@ commodities:
 date: '2026-01-05'
 doc_id: hellenic_demolition_2026-01-05_2026_01_05_gms_week_01_new_year_w_t_fears
 document_type: demolition_update
+is_error_page: false
 key_entities:
 - China
 keywords:
@@ -88,9 +89,10 @@ numeric_observations:
   - -1.0
   - -5.0
   - 1.0
+  - 1.0
   - 5012234.0
-  - 3905.0
-  - 351.0
+  - 13905.0
+  - 6351.0
 - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
   source_line: January 2 nd, 2026
@@ -195,6 +197,7 @@ numeric_observations:
   unit: usd
   values:
   - 50.0
+  - 4.0
   - 2025.0
 - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
@@ -573,9 +576,9 @@ numeric_observations:
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
   values:
-  - 30.21
+  - 30210.0
   - 899.0669
-  - 91.278
+  - 91278.0
   - 300.5253
 - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf'
   section_type: linked_pdf
@@ -600,7 +603,7 @@ numeric_observations:
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
   values:
-  - 86.216
+  - 86216.0
   - 75.19
   - 82.1
   - 4650.072
@@ -622,16 +625,17 @@ numeric_observations:
   - -1.0
   - -5.0
   - 1.0
+  - 1.0
   - 5012234.0
-  - 3905.0
-  - 351.0
+  - 13905.0
+  - 6351.0
 - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_img1_05012234_b13905b6351e.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 975x212 mode=RGB'
   unit: null
   values:
   - 975.0
-  - 12.0
+  - 212.0
 - section: 'Linked asset: 2026-01-05_gms-week-01-new-year-w-t-fears_img1_05012234_b13905b6351e.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'

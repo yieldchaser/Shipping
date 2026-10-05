@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2025_09_26_pakistans_promise__root",
+  "doc_id": "poten_tankers_no_date_poten_2025_09_26_pakistans_promise",
+  "parent_id": null,
+  "title": "Pakistans Promise",
+  "section_path": [
+    "Pakistans Promise"
+  ],
+  "section_path_text": "Pakistans Promise",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Another South Asian country is gaining prominence\nUntil recently, Pakistan was not a country that received a lot of attention in the oil and tanker markets. However, that has started to change after Donald Trump returned to the White House. To be clear, Pakistan's oil demand is relatively modest and is not a major player in the tanker markets, but there have been changes in recent months that caught people's attention and have raised Pakistan's profile.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "india",
+    "crude_oil",
+    "products",
+    "gas",
+    "pakistan",
+    "oil",
+    "since",
+    "trade"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 874,
+  "source_path": "reports/poten/2025/poten_2025-09-26_pakistans-promise.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2025_09_26_pakistans_promise__s01_another_south_asian_country_is_gaining_prominence",
+      "doc_id": "poten_tankers_no_date_poten_2025_09_26_pakistans_promise",
+      "parent_id": "poten_tankers_no_date_poten_2025_09_26_pakistans_promise__root",
+      "title": "Another South Asian country is gaining prominence",
+      "section_path": [
+        "Another South Asian country is gaining prominence"
+      ],
+      "section_path_text": "Another South Asian country is gaining prominence",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Until recently, Pakistan was not a country that received a lot of attention in the oil and tanker markets. However, that has started to change after Donald Trump returned to the White House.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "india",
+        "crude_oil",
+        "products",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 866,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

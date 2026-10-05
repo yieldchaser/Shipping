@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2019_03_15_will_history_repeat_itself__root",
+  "doc_id": "poten_tankers_no_date_poten_2019_03_15_will_history_repeat_itself",
+  "parent_id": null,
+  "title": "Will History Repeat Itself",
+  "section_path": [
+    "Will History Repeat Itself"
+  ],
+  "section_path_text": "Will History Repeat Itself",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Changes in crude oil balances bode well for crude tankers\nErling Naess, an iconic Norwegian shipowner observed in the 1970s: \" God must have been a shipowner; he placed natural resources far away from consuming nations and covered two- thirds of the earth with water .\" At the time, he was primarily referring to the ever-increasing dependence of consumers in Europe and North America on crude oil from the Middle East. However, more than 50 years later, a shipowner looking at the crude oil tanker market of today may come to the same conclusion. The latest IEA Oil Market Report (\"Oil 2019\"), which came out earlier this week paints a bullish picture from a shipowner's perspective.",
+  "keywords": [
+    "china",
+    "brazil",
+    "atlantic",
+    "europe",
+    "india",
+    "us_gulf",
+    "crude_oil",
+    "oil",
+    "crude",
+    "production",
+    "are",
+    "mb/d"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 983,
+  "source_path": "reports/poten/2019/poten_2019-03-15_will-history-repeat-itself.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_03_15_will_history_repeat_itself__s01_changes_in_crude_oil_balances_bode_well_for_crude_tankers",
+      "doc_id": "poten_tankers_no_date_poten_2019_03_15_will_history_repeat_itself",
+      "parent_id": "poten_tankers_no_date_poten_2019_03_15_will_history_repeat_itself__root",
+      "title": "Changes in crude oil balances bode well for crude tankers",
+      "section_path": [
+        "Changes in crude oil balances bode well for crude tankers"
+      ],
+      "section_path_text": "Changes in crude oil balances bode well for crude tankers",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Erling Naess, an iconic Norwegian shipowner observed in the 1970s: \" God must have been a shipowner; he placed natural resources far away from consuming nations and covered two- thirds of the earth with water .\" At the time, he was primarily referring to the ever-increasing dependence of consumers in Europe and North America on crude oil from the Middle East. However, more than 50 years later, a shipowner looking at the crude oil tanker market of today may come to the same conclusion.",
+      "keywords": [
+        "china",
+        "brazil",
+        "atlantic",
+        "europe",
+        "india",
+        "us_gulf",
+        "crude_oil",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 970,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

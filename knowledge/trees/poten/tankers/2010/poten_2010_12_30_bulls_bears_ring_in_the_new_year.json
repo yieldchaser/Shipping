@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_12_30_bulls_bears_ring_in_the_new_year__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_12_30_bulls_bears_ring_in_the_new_year",
+  "parent_id": null,
+  "title": "Bulls & Bears Ring in the New Year",
+  "section_path": [
+    "Bulls & Bears Ring in the New Year"
+  ],
+  "section_path_text": "Bulls & Bears Ring in the New Year",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Bulls & Bears Ring in the New Year\nAs 2010 comes to a close, a broad overview of equity markets leads many to believe an economic recovery from the lows experienced in 2008 is at hand. Debate as to whether the market is a leading or lagging indicator of real economic growth aside, the positive returns in the major indices cannot be ignored. Year to date gains of 9.8% 12.8% and 16.1% in the Dow Jones Industrial Average, Standard and Poor's 500, and Nasdaq, respectively, all bear testament to a stock market continuing to rebound from the troughs of the financial crisis.",
+  "keywords": [
+    "vlcc",
+    "europe",
+    "crude_oil",
+    "earnings",
+    "gdp",
+    "economic",
+    "markets",
+    "equity",
+    "growth",
+    "year",
+    "both",
+    "can"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1105,
+  "source_path": "reports/poten/2010/poten_2010-12-30_bulls-bears-ring-in-the-new-year.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_12_30_bulls_bears_ring_in_the_new_year__s01_bulls_bears_ring_in_the_new_year",
+      "doc_id": "poten_tankers_no_date_poten_2010_12_30_bulls_bears_ring_in_the_new_year",
+      "parent_id": "poten_tankers_no_date_poten_2010_12_30_bulls_bears_ring_in_the_new_year__root",
+      "title": "Bulls & Bears Ring in the New Year",
+      "section_path": [
+        "Bulls & Bears Ring in the New Year"
+      ],
+      "section_path_text": "Bulls & Bears Ring in the New Year",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As 2010 comes to a close, a broad overview of equity markets leads many to believe an economic recovery from the lows experienced in 2008 is at hand. Debate as to whether the market is a leading or lagging indicator of real economic growth aside, the positive returns in the major indices cannot be ignored.",
+      "keywords": [
+        "economic",
+        "gains",
+        "rebound",
+        "truly",
+        "whether",
+        "all",
+        "aside",
+        "average"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 201,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_12_30_bulls_bears_ring_in_the_new_year__s02_s_p500_year_end_value",
+      "doc_id": "poten_tankers_no_date_poten_2010_12_30_bulls_bears_ring_in_the_new_year",
+      "parent_id": "poten_tankers_no_date_poten_2010_12_30_bulls_bears_ring_in_the_new_year__root",
+      "title": "S&P500 (year end value)",
+      "section_path": [
+        "S&P500 (year end value)"
+      ],
+      "section_path_text": "S&P500 (year end value)",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "VLCC Earnings (AG ‐ USG) VLCC Earnings (AG ‐ Far East) S&P 500 Year End Source: Poten, Standard & Poors Much like the past several years, 2010 brought with it unprecedented forays into the financial markets on the part of sovereign governments and central banks alike. The \"burden of proof of solvency\" ping‐ponged through European sovereign debt markets bringing a level of volatility, the likes and scope of which the world had not seen, to the currency markets.",
+      "keywords": [
+        "vlcc",
+        "europe",
+        "earnings",
+        "economic",
+        "markets",
+        "equity",
+        "against",
+        "can"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 358,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_12_30_bulls_bears_ring_in_the_new_year__s03_u_s_gdp_millions",
+      "doc_id": "poten_tankers_no_date_poten_2010_12_30_bulls_bears_ring_in_the_new_year",
+      "parent_id": "poten_tankers_no_date_poten_2010_12_30_bulls_bears_ring_in_the_new_year__root",
+      "title": "U .S. GDP (Millions)",
+      "section_path": [
+        "U .S. GDP (Millions)"
+      ],
+      "section_path_text": "U .S. GDP (Millions)",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "VLCC Earnings (AG ‐ USG) U.S. Bureau of Economic Analysis In both graphs the most striking correlation can be seen in the drop off in tanker earnings coinciding with both a weakening of equity markets and a decline in U.S.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "earnings",
+        "gdp",
+        "growth",
+        "both",
+        "decade",
+        "decline"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 519,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

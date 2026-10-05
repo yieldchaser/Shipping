@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 894,
-  "source_path": "corpus/02-hellenic/vessel_valuations/2026/2026-07-28_weekly-vessel-valuations-report-july-28-2026.html",
+  "token_count": 892,
+  "source_path": "reports/hellenic/vessel_valuations/2026/2026-07-28_weekly-vessel-valuations-report-july-28-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-july-28-2026",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-07-28_weekly-vessel-valuations-report-july-28-2026_28072026_66f1d0f5bb53.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2026/assets/2026-07-28_weekly-vessel-valuations-report-july-28-2026_28072026_66f1d0f5bb53.jpg\n\nLinked image asset: 2026-07-28_weekly-vessel-valuations-report-july-28-2026_28072026_66f1d0f5bb53.jpg\n\nImage metadata: JPEG 600x268 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\nCD) We 01S\n28 loudlow 2026 VV Mini Matrix - Weekly Change\nTookers Rethers Comtaioers\nwor wee Sore Cal uw = on Ll ton Lene fn Pees fos Lad fom\nSe ec ec CC a re\ny ad - us ™ bal \"ee a cd Ld Baal an ms ne\nSe ec ec! a a wn aN\n, na - cd \" \" \" a \"- \" al an Ld ue\nCa i a a a Ce ne ec\n.",
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-07-28_weekly-vessel-valuations-report-july-28-2026_28072026_66f1d0f5bb53.jpg\n\nLinked image asset: 2026-07-28_weekly-vessel-valuations-report-july-28-2026_28072026_66f1d0f5bb53.jpg\n\nImage metadata: JPEG 600x268 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\nCD) We 01S\n28 loudlow 2026 VV Mini Matrix - Weekly Change\nTookers Rethers Comtaioers\nwor wee Sore Cal uw = on Ll ton Lene fn Pees fos Lad fom\nSe ec ec CC a re\ny ad - us ™ bal \"ee a cd Ld Baal an ms ne\nSe ec ec! a a wn aN\n, na - cd \" \" \" a \"- \" al an Ld ue\nCa i a a a Ce ne ec\n.",
       "keywords": [
         "asset",
         "image",
@@ -78,11 +78,11 @@
         "cal",
         "change",
         "comtaioers",
-        "corpus/02-hellenic/vessel_valuations/2026/assets/2026-07-28_weekly-vessel-valuations-report-july-28-2026_28072026_66f1d0f5bb53.jpg"
+        "dpi"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 325,
+      "token_count": 323,
       "section_type": "linked_image_asset",
       "children": []
     }

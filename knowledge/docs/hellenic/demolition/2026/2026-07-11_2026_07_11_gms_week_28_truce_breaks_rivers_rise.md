@@ -10,6 +10,7 @@ commodities:
 date: '2026-07-11'
 doc_id: hellenic_demolition_2026-07-11_2026_07_11_gms_week_28_truce_breaks_rivers_rise
 document_type: demolition_update
+is_error_page: false
 key_entities:
 - China
 - Vale
@@ -34,8 +35,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 110
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: The peace lasted three weeks. After Iranian projectiles struck three
     tankers in the Strait of Hormuz on July 6 and 7,the United States hit more than
@@ -47,8 +47,7 @@ numeric_observations:
   - 7.0
   - 80.0
   - 90.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Brent jumped 5.2% to approximately USD 78 per barrel, its biggest daily
     gain since May, before easing toward USD 77 as traders weighed threats of a renewed
@@ -56,11 +55,10 @@ numeric_observations:
     that has not, so far,
   unit: pct
   values:
-  - 5200.0
+  - 5.2
   - 78.0
   - 77.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Freight chose an awkward week to rally. The Baltic Dry Index rose
     for a sixth consecutive session to 2,875, its highest since June 8, on firmer
@@ -71,8 +69,7 @@ numeric_observations:
   - 2875.0
   - 8.0
   - 4514.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: The currencies re-sorted along the old fault line within hours. The
     Indian Rupee slid to a one-month low near 95.5, with the Reserve Bank defending
@@ -80,17 +77,16 @@ numeric_observations:
     remained in record territory nea
   unit: pct
   values:
-  - 95500.0
+  - 95.5
   - 123.2
-  - 46700.0
+  - 46.7
   - 2026.0
   - 278.0
-  - 32110.0
-  - 9160.0
+  - 32.11
+  - 9.16
   - 3.0
   - 7.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: At the beaches, the sky has opened. Persistent flooding across Chattogram
     Division, with rivers above danger levels and warnings extending across seventeen
@@ -100,8 +96,7 @@ numeric_observations:
   values:
   - 2.0
   - 5.0
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 28 of 2026, GMS Market Rankings / Vessel indications are as
     below.
@@ -109,15 +104,13 @@ numeric_observations:
   values:
   - 28.0
   - 2026.0
-- &id007
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Linked asset: 107202624.jpg'
   unit: null
   values:
   - 107202624.0
-- &id008
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_107202624_ca5597fb8834.jpg'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_107202624_ca5597fb8834.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_107202624_ca5597fb8834.jpg'
   unit: null
@@ -129,69 +122,60 @@ numeric_observations:
   - 107202624.0
   - 5597.0
   - 8834.0
-- &id009
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_107202624_ca5597fb8834.jpg'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_107202624_ca5597fb8834.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 600x125 mode=RGB'
   unit: null
   values:
   - 600.0
   - 125.0
-- &id010
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_107202624_ca5597fb8834.jpg'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_107202624_ca5597fb8834.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (72.0, 72.0)'
   unit: null
   values:
-  - 72000.0
-  - 72000.0
-- &id011
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_107202624_ca5597fb8834.jpg'
+  - 72.0
+  - 72.0
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_107202624_ca5597fb8834.jpg'
   section_type: linked_image_asset
   source_line: '[OCR skipped for small image (< 90000 pixels).]'
   unit: null
   values:
   - 90000.0
-- &id012
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: 1. ` *I
   unit: null
   values:
   - 1.0
-- &id013
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: July 10th, 2026
   unit: null
   values:
   - 10.0
   - 2026.0
-- &id014
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: Week 28
   unit: null
   values:
   - 28.0
-- &id015
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: Volume 282, Issue 1243
   unit: null
   values:
   - 282.0
   - 1243.0
-- &id016
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: The peace lasted three weeks. After Iranian projectiles struck three
     tankers in the Strait of Hormuz on July 6
   unit: null
   values:
   - 6.0
-- &id017
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: and 7, the United States hit more than 80 targets in one night and
     roughly 90 the next, from Qeshm Island and
@@ -200,33 +184,29 @@ numeric_observations:
   - 7.0
   - 80.0
   - 90.0
-- &id018
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: Brent jumped 5.2% to approximately USD 78 per barrel, its biggest daily
     gain since May, before easing toward
   unit: pct
   values:
-  - 5200.0
+  - 5.2
   - 78.0
-- &id019
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: USD 77 as traders weighed threats of a renewed blockade and possible
     strikes on the Kharg Island export
   unit: usd
   values:
   - 77.0
-- &id020
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: Freight chose an awkward week to rally. The Baltic Dry Index rose for
     a sixth consecutive session to 2,875, its
   unit: null
   values:
   - 2875.0
-- &id021
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: highest since June 8, on firmer iron ore and coal demand, with the
     Capesize index reaching 4,514. The premium
@@ -234,59 +214,52 @@ numeric_observations:
   values:
   - 8.0
   - 4514.0
-- &id022
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: 95.5, with the Reserve Bank defending the level; the Taka held above
     its former band ceiling near 123.2; and
   unit: null
   values:
-  - 95500.0
+  - 95.5
   - 123.2
-- &id023
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: the Lira remained in record territory near 46.7. The Pakistani Rupee
     alone held near its 2026 best around 278.
   unit: null
   values:
-  - 46700.0
+  - 46.7
   - 2026.0
   - 278.0
-- &id024
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: 'DT he June inflation prints, struck during the peace, arrived just
     as it ended: Turkey eased to 32.11%, its first'
   unit: pct
   values:
-  - 32110.0
-- &id025
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+  - 32.11
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: annual decline since the war opened, while Bangladesh slowed to 9.16%.
     The disinflation tailwind reached the
   unit: pct
   values:
-  - 9160.0
-- &id026
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+  - 9.16
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: data on July 3. The war reached back for it on July 7.
   unit: null
   values:
   - 3.0
   - 7.0
-- &id027
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: over the strait. Detailed market briefs follow on pages 2 through 5.
   unit: null
   values:
   - 2.0
   - 5.0
-- &id028
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: GMS market rankings / pricing for week 28 of 2026 are on Page 5.
   unit: null
@@ -294,49 +267,43 @@ numeric_observations:
   - 28.0
   - 2026.0
   - 5.0
-- &id029
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id030
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: pipeline. Chattogram Division recorded extremely heavy rainfall within
     a single 24-hour period
   unit: null
   values:
   - 24.0
-- &id031
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: The macro backdrop, by contrast, improved on schedule. Bangladesh's
     June CPI eased to 9.16%,
   unit: pct
   values:
-  - 9160.0
-- &id032
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+  - 9.16
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: release USD 1.3 billion following a reform breakthrough, reinforcing
     the external position
   unit: tonnage
   values:
   - 1.3
-- &id033
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: alongside reserves near USD 34.12 billion. USD/BDT held above its former
     band ceiling near 123.2
   unit: usd_per_unit
   values:
-  - 34120.0
+  - 34.12
   - 123.2
-- &id034
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: to 123.3, with the dollar-driven break of Week 27 consolidating rather
     than extending. The renewed
@@ -344,40 +311,35 @@ numeric_observations:
   values:
   - 123.3
   - 27.0
-- &id035
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: reflected in Bangladesh's 9.16% inflation rather than the double-digit
     levels Pakistan carried
   unit: pct
   values:
-  - 9160.0
-- &id036
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+  - 9.16
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: through much of the conflict. The latest available local steel indication
     remained near BDT 66,000
   unit: null
   values:
   - 66000.0
-- &id037
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: per ton, equivalent to approximately USD 535 at the prevailing exchange
     rate. No trading was
   unit: usd
   values:
   - 535.0
-- &id038
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: The 550-vessel Gulf exit census that gave the deferred wave its first
     hard number now carries an
   unit: null
   values:
   - 550.0
-- &id039
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: premium eased are n ow watching that premium rebuild. Chattogram's
     July 14 to 17 tide window
@@ -385,42 +347,37 @@ numeric_observations:
   values:
   - 14.0
   - 17.0
-- &id040
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id041
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: month low near 95.50, falling 0.6% on Wednesday alone and more than
     1% across six sessions, with the
   unit: pct
   values:
-  - 95500.0
+  - 95.5
   - 0.6
   - 1.0
-- &id042
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: Reserve Bank of India reportedly selling dollars through state-run
     banks near the 95.50 level to slow
   unit: null
   values:
-  - 95500.0
-- &id043
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+  - 95.5
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: 'the move. The stress spread across the asset complex: Indian equities
     fell 2% in their steepest session'
   unit: pct
   values:
   - 2.0
-- &id044
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: The arithmetic is unchanged from the spring; only the level differs.
     Brent near USD 77 to USD 78,
@@ -428,8 +385,7 @@ numeric_observations:
   values:
   - 77.0
   - 78.0
-- &id045
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: against USD 71 a week ago, re-widens the import bill of an economy
     that buys more than 80% of its Oil returns.
@@ -437,24 +393,21 @@ numeric_observations:
   values:
   - 71.0
   - 80.0
-- &id046
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: on a July hike and two-in-three by September, with the U.S. ten-year
     yield at 4.565% and the Dollar
   unit: pct
   values:
   - 4.565
-- &id047
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: Index above 101. The rupee is again fighting on two fronts, oil and
     the Fed, and this week both
   unit: null
   values:
   - 101.0
-- &id048
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: Local steel plate prices at Alang firmed from INR 36,500 to INR 37,000
     during the week, with the USD
@@ -462,8 +415,7 @@ numeric_observations:
   values:
   - 36500.0
   - 37000.0
-- &id049
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: equivalent rising from approximately USD 383 to USD 388 per ton. India
     remains the basin's lowest-
@@ -471,8 +423,7 @@ numeric_observations:
   values:
   - 383.0
   - 388.0
-- &id050
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: priced destination, with the gap to Pakistan above USD 310 per LDT.
     The July 11 to 20 tide window
@@ -481,24 +432,21 @@ numeric_observations:
   - 310.0
   - 11.0
   - 20.0
-- &id051
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: Valaris MS-1 Semi Sub 28,761 Undisclosed Price (‘as is' Indonesia)
   unit: null
   values:
   - 1.0
   - 28761.0
-- &id052
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id053
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: Through all of it, the rupee simply held. USD/PKR remained near 278,
     at or close to its 2026 best,
@@ -506,24 +454,21 @@ numeric_observations:
   values:
   - 278.0
   - 2026.0
-- &id054
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: war, the peace, and now the war's resumption. The June CPI turn reported
     last week, 11.1%
   unit: pct
   values:
-  - 11100.0
-- &id055
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+  - 11.1
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: annually with an outright 0.3% monthly decline, remains the operative
     read, while the renewed
   unit: pct
   values:
   - 0.3
-- &id056
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: oil spike retests the import bill from USD 77 rather than USD 126,
     a materially shallower starting
@@ -531,49 +476,43 @@ numeric_observations:
   values:
   - 77.0
   - 126.0
-- &id057
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: point than the spring shock. The State Bank's 11.5% policy stance,
     disciplined reserve management,
   unit: pct
   values:
-  - 11500.0
-- &id058
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+  - 11.5
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: Gadani is spending the week digesting policy and war at once. The July
     1 SROs remain the
   unit: null
   values:
   - 1.0
-- &id059
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: 'Duties digest. structural story beneath the plate quote: Regulatory
     Duty relief of roughly USD 12.50 per ton on'
   unit: usd
   values:
-  - 12500.0
-- &id060
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+  - 12.5
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: HR prime and USD 21.50 on wire rod continues to sharpen the competitiveness
     of imported prime
   unit: usd
   values:
-  - 21500.0
-- &id061
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+  - 21.5
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: product against locally recycled material, while the scrap-side relief
     of USD 3.50 to USD 5.50 exerts
   unit: usd
   values:
   - 3.5
-  - 5500.0
-- &id062
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+  - 5.5
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: steel plate held at PKR 195,000 per ton, near USD 700 on the firm rupee,
     while the yards continue
@@ -581,43 +520,38 @@ numeric_observations:
   values:
   - 195000.0
   - 700.0
-- &id063
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id064
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: Turkey finally got its number. June CPI printed at 32.11% year-on-year,
     down from 32.61% in May,
   unit: pct
   values:
-  - 32110.0
-  - 32610.0
-- &id065
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+  - 32.11
+  - 32.61
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: inflation eased to 0.99%, the smallest increase in six months. Housing
     slowed to 45.14% and transport
   unit: pct
   values:
   - 0.99
-  - 45140.0
-- &id066
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+  - 45.14
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: to 31.15% as the post-war oil collapse fed through, while food inflation
     continued climbing to 35.45%.
   unit: pct
   values:
-  - 31150.0
-  - 35450.0
-- &id067
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+  - 31.15
+  - 35.45
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: waited for all year reached the data on July 3. The war reached back
     for it on July 7.
@@ -625,24 +559,21 @@ numeric_observations:
   values:
   - 3.0
   - 7.0
-- &id068
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: over while attending the NATO summit in Turkey, and Brent's jump back
     toward USD 78 threatens
   unit: usd
   values:
   - 78.0
-- &id069
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: territory near 46.7, with the lira's managed slide continuing against
     a dollar strengthened by Federal
   unit: null
   values:
-  - 46700.0
-- &id070
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+  - 46.7
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: Reserve rate-hike expectations. The policy rate remains at 37%, while
     the effective 40% overnight rate
@@ -650,16 +581,14 @@ numeric_observations:
   values:
   - 37.0
   - 40.0
-- &id071
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: against resumed hostilities and USD 77 oil, will decide whether that
     argument survives its first
   unit: usd
   values:
   - 77.0
-- &id072
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: At USD 266 to USD 288 per LDT across vessel types, Aliaga remains structurally
     uncompetitive for
@@ -667,8 +596,7 @@ numeric_observations:
   values:
   - 266.0
   - 288.0
-- &id073
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: For Week 28 of 2026, GMS Market Rankings / Vessel indications are as
     below.
@@ -676,8 +604,7 @@ numeric_observations:
   values:
   - 28.0
   - 2026.0
-- &id074
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Softening 455-460 / LDT 475-480 / LDT 485-490 / LDT
   unit: null
@@ -689,8 +616,7 @@ numeric_observations:
   - -480.0
   - 485.0
   - -490.0
-- &id075
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan Steady 443-448 / LDT 463-468 / LDT 473-478 / LDT
   unit: null
@@ -702,8 +628,7 @@ numeric_observations:
   - -468.0
   - 473.0
   - -478.0
-- &id076
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: 3 India Steady 418-423 / LDT 438-443 / LDT 448-453 / LDT
   unit: null
@@ -715,8 +640,7 @@ numeric_observations:
   - -443.0
   - 448.0
   - -453.0
-- &id077
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Softening 266-268 / LDT 276-278 / LDT 286-288 / LDT
   unit: null
@@ -728,24 +652,21 @@ numeric_observations:
   - -278.0
   - 286.0
   - -288.0
-- &id078
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id079
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line:  The 72.55 million MT of CO₂ emissions avoided through ship recycling
     at Alang is broadly
   unit: tonnage
   values:
-  - 72550.0
-- &id080
-  section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+  - 72.55
+- section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: equivalent to the direct emissions from burning approximately 27 billion
     litres of diesel fuel.
@@ -758,7 +679,7 @@ numeric_observations:
     produce approximately
   unit: null
   values:
-  - 69160.0
+  - 69.16
 - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: 576,000 route-km of double-rail railway track.
@@ -958,7 +879,7 @@ numeric_observations:
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
   values:
-  - 49400.0
+  - 49.4
   - 3197.9963
   - 1.24
   - 505.9716
@@ -968,17 +889,17 @@ numeric_observations:
   unit: null
   values:
   - 86216.0
-  - 75190.0
-  - 82100.0
+  - 75.19
+  - 82.1
   - 4650.072
 - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
   values:
-  - 65682.3
+  - 65.6823
   - 8037.0
-  - 81300.0
+  - 81.3
   - 5453.6311
 regions:
 - india
@@ -991,86 +912,645 @@ section_count: 3
 signals:
   numeric_observation_count: 110
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: The peace lasted three weeks. After Iranian projectiles struck three
+      tankers in the Strait of Hormuz on July 6 and 7,the United States hit more than
+      80 targets in one night and roughly 90 the next, from Qeshm Island and the approaches
+      to Bandar Abbas to the Ch
+    unit: null
+    values:
+    - 6.0
+    - 7.0
+    - 80.0
+    - 90.0
+  - section: Main
+    section_type: null
+    source_line: Brent jumped 5.2% to approximately USD 78 per barrel, its biggest
+      daily gain since May, before easing toward USD 77 as traders weighed threats
+      of a renewed blockade and possible strikes on the Kharg Island export terminal
+      against a strait that has not, so far,
+    unit: pct
+    values:
+    - 5200.0
+    - 78.0
+    - 77.0
+  - section: Main
+    section_type: null
+    source_line: 'Freight chose an awkward week to rally. The Baltic Dry Index rose
+      for a sixth consecutive session to 2,875, its highest since June 8, on firmer
+      iron ore and coal demand, with the Capesize index reaching 4,514. The premium
+      that peace spent a month deflating is '
+    unit: null
+    values:
+    - 2875.0
+    - 8.0
+    - 4514.0
+  - section: Main
+    section_type: null
+    source_line: The currencies re-sorted along the old fault line within hours. The
+      Indian Rupee slid to a one-month low near 95.5, with the Reserve Bank defending
+      the level; the Taka held above its former band ceiling near 123.2; and the Lira
+      remained in record territory nea
+    unit: pct
+    values:
+    - 95500.0
+    - 123.2
+    - 46700.0
+    - 2026.0
+    - 278.0
+    - 32110.0
+    - 9160.0
+    - 3.0
+    - 7.0
+  - section: Main
+    section_type: null
+    source_line: At the beaches, the sky has opened. Persistent flooding across Chattogram
+      Division, with rivers above danger levels and warnings extending across seventeen
+      districts, is hampering yard production and thinning demand, while the resumed
+      conflict delivers its fam
+    unit: null
+    values:
+    - 2.0
+    - 5.0
+  - section: Main
+    section_type: null
+    source_line: For Week 28 of 2026, GMS Market Rankings / Vessel indications are
+      as below.
+    unit: null
+    values:
+    - 28.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: 'Linked asset: 107202624.jpg'
+    unit: null
+    values:
+    - 107202624.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_107202624_ca5597fb8834.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_107202624_ca5597fb8834.jpg'
+    unit: null
+    values:
+    - 2026.0
+    - -7.0
+    - -11.0
+    - 28.0
+    - 107202624.0
+    - 5597.0
+    - 8834.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_107202624_ca5597fb8834.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 600x125 mode=RGB'
+    unit: null
+    values:
+    - 600.0
+    - 125.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_107202624_ca5597fb8834.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (72.0, 72.0)'
+    unit: null
+    values:
+    - 72000.0
+    - 72000.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_107202624_ca5597fb8834.jpg'
+    section_type: linked_image_asset
+    source_line: '[OCR skipped for small image (< 90000 pixels).]'
+    unit: null
+    values:
+    - 90000.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: 1. ` *I
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: July 10th, 2026
+    unit: null
+    values:
+    - 10.0
+    - 2026.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: Week 28
+    unit: null
+    values:
+    - 28.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: Volume 282, Issue 1243
+    unit: null
+    values:
+    - 282.0
+    - 1243.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: The peace lasted three weeks. After Iranian projectiles struck three
+      tankers in the Strait of Hormuz on July 6
+    unit: null
+    values:
+    - 6.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: and 7, the United States hit more than 80 targets in one night and
+      roughly 90 the next, from Qeshm Island and
+    unit: null
+    values:
+    - 7.0
+    - 80.0
+    - 90.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: Brent jumped 5.2% to approximately USD 78 per barrel, its biggest
+      daily gain since May, before easing toward
+    unit: pct
+    values:
+    - 5200.0
+    - 78.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: USD 77 as traders weighed threats of a renewed blockade and possible
+      strikes on the Kharg Island export
+    unit: usd
+    values:
+    - 77.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: Freight chose an awkward week to rally. The Baltic Dry Index rose
+      for a sixth consecutive session to 2,875, its
+    unit: null
+    values:
+    - 2875.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: highest since June 8, on firmer iron ore and coal demand, with the
+      Capesize index reaching 4,514. The premium
+    unit: null
+    values:
+    - 8.0
+    - 4514.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: 95.5, with the Reserve Bank defending the level; the Taka held above
+      its former band ceiling near 123.2; and
+    unit: null
+    values:
+    - 95500.0
+    - 123.2
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: the Lira remained in record territory near 46.7. The Pakistani Rupee
+      alone held near its 2026 best around 278.
+    unit: null
+    values:
+    - 46700.0
+    - 2026.0
+    - 278.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: 'DT he June inflation prints, struck during the peace, arrived just
+      as it ended: Turkey eased to 32.11%, its first'
+    unit: pct
+    values:
+    - 32110.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: annual decline since the war opened, while Bangladesh slowed to 9.16%.
+      The disinflation tailwind reached the
+    unit: pct
+    values:
+    - 9160.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: data on July 3. The war reached back for it on July 7.
+    unit: null
+    values:
+    - 3.0
+    - 7.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: over the strait. Detailed market briefs follow on pages 2 through
+      5.
+    unit: null
+    values:
+    - 2.0
+    - 5.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: GMS market rankings / pricing for week 28 of 2026 are on Page 5.
+    unit: null
+    values:
+    - 28.0
+    - 2026.0
+    - 5.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: pipeline. Chattogram Division recorded extremely heavy rainfall within
+      a single 24-hour period
+    unit: null
+    values:
+    - 24.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: The macro backdrop, by contrast, improved on schedule. Bangladesh's
+      June CPI eased to 9.16%,
+    unit: pct
+    values:
+    - 9160.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: release USD 1.3 billion following a reform breakthrough, reinforcing
+      the external position
+    unit: tonnage
+    values:
+    - 1.3
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: alongside reserves near USD 34.12 billion. USD/BDT held above its
+      former band ceiling near 123.2
+    unit: usd_per_unit
+    values:
+    - 34120.0
+    - 123.2
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: to 123.3, with the dollar-driven break of Week 27 consolidating rather
+      than extending. The renewed
+    unit: null
+    values:
+    - 123.3
+    - 27.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: reflected in Bangladesh's 9.16% inflation rather than the double-digit
+      levels Pakistan carried
+    unit: pct
+    values:
+    - 9160.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: through much of the conflict. The latest available local steel indication
+      remained near BDT 66,000
+    unit: null
+    values:
+    - 66000.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: per ton, equivalent to approximately USD 535 at the prevailing exchange
+      rate. No trading was
+    unit: usd
+    values:
+    - 535.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: The 550-vessel Gulf exit census that gave the deferred wave its first
+      hard number now carries an
+    unit: null
+    values:
+    - 550.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: premium eased are n ow watching that premium rebuild. Chattogram's
+      July 14 to 17 tide window
+    unit: null
+    values:
+    - 14.0
+    - 17.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: month low near 95.50, falling 0.6% on Wednesday alone and more than
+      1% across six sessions, with the
+    unit: pct
+    values:
+    - 95500.0
+    - 0.6
+    - 1.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: Reserve Bank of India reportedly selling dollars through state-run
+      banks near the 95.50 level to slow
+    unit: null
+    values:
+    - 95500.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: 'the move. The stress spread across the asset complex: Indian equities
+      fell 2% in their steepest session'
+    unit: pct
+    values:
+    - 2.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: The arithmetic is unchanged from the spring; only the level differs.
+      Brent near USD 77 to USD 78,
+    unit: usd
+    values:
+    - 77.0
+    - 78.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: against USD 71 a week ago, re-widens the import bill of an economy
+      that buys more than 80% of its Oil returns.
+    unit: pct
+    values:
+    - 71.0
+    - 80.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: on a July hike and two-in-three by September, with the U.S. ten-year
+      yield at 4.565% and the Dollar
+    unit: pct
+    values:
+    - 4.565
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: Index above 101. The rupee is again fighting on two fronts, oil and
+      the Fed, and this week both
+    unit: null
+    values:
+    - 101.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: Local steel plate prices at Alang firmed from INR 36,500 to INR 37,000
+      during the week, with the USD
+    unit: usd
+    values:
+    - 36500.0
+    - 37000.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: equivalent rising from approximately USD 383 to USD 388 per ton.
+      India remains the basin's lowest-
+    unit: usd
+    values:
+    - 383.0
+    - 388.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: priced destination, with the gap to Pakistan above USD 310 per LDT.
+      The July 11 to 20 tide window
+    unit: usd
+    values:
+    - 310.0
+    - 11.0
+    - 20.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: Valaris MS-1 Semi Sub 28,761 Undisclosed Price (‘as is' Indonesia)
+    unit: null
+    values:
+    - 1.0
+    - 28761.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: Through all of it, the rupee simply held. USD/PKR remained near 278,
+      at or close to its 2026 best,
+    unit: usd_per_unit
+    values:
+    - 278.0
+    - 2026.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: war, the peace, and now the war's resumption. The June CPI turn reported
+      last week, 11.1%
+    unit: pct
+    values:
+    - 11100.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: annually with an outright 0.3% monthly decline, remains the operative
+      read, while the renewed
+    unit: pct
+    values:
+    - 0.3
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: oil spike retests the import bill from USD 77 rather than USD 126,
+      a materially shallower starting
+    unit: usd
+    values:
+    - 77.0
+    - 126.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: point than the spring shock. The State Bank's 11.5% policy stance,
+      disciplined reserve management,
+    unit: pct
+    values:
+    - 11500.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: Gadani is spending the week digesting policy and war at once. The
+      July 1 SROs remain the
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: 'Duties digest. structural story beneath the plate quote: Regulatory
+      Duty relief of roughly USD 12.50 per ton on'
+    unit: usd
+    values:
+    - 12500.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: HR prime and USD 21.50 on wire rod continues to sharpen the competitiveness
+      of imported prime
+    unit: usd
+    values:
+    - 21500.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: product against locally recycled material, while the scrap-side relief
+      of USD 3.50 to USD 5.50 exerts
+    unit: usd
+    values:
+    - 3.5
+    - 5500.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: steel plate held at PKR 195,000 per ton, near USD 700 on the firm
+      rupee, while the yards continue
+    unit: usd
+    values:
+    - 195000.0
+    - 700.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: Turkey finally got its number. June CPI printed at 32.11% year-on-year,
+      down from 32.61% in May,
+    unit: pct
+    values:
+    - 32110.0
+    - 32610.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: inflation eased to 0.99%, the smallest increase in six months. Housing
+      slowed to 45.14% and transport
+    unit: pct
+    values:
+    - 0.99
+    - 45140.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: to 31.15% as the post-war oil collapse fed through, while food inflation
+      continued climbing to 35.45%.
+    unit: pct
+    values:
+    - 31150.0
+    - 35450.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: waited for all year reached the data on July 3. The war reached back
+      for it on July 7.
+    unit: null
+    values:
+    - 3.0
+    - 7.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: over while attending the NATO summit in Turkey, and Brent's jump
+      back toward USD 78 threatens
+    unit: usd
+    values:
+    - 78.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: territory near 46.7, with the lira's managed slide continuing against
+      a dollar strengthened by Federal
+    unit: null
+    values:
+    - 46700.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: Reserve rate-hike expectations. The policy rate remains at 37%, while
+      the effective 40% overnight rate
+    unit: pct
+    values:
+    - 37.0
+    - 40.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: against resumed hostilities and USD 77 oil, will decide whether that
+      argument survives its first
+    unit: usd
+    values:
+    - 77.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: At USD 266 to USD 288 per LDT across vessel types, Aliaga remains
+      structurally uncompetitive for
+    unit: usd
+    values:
+    - 266.0
+    - 288.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: For Week 28 of 2026, GMS Market Rankings / Vessel indications are
+      as below.
+    unit: null
+    values:
+    - 28.0
+    - 2026.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Softening 455-460 / LDT 475-480 / LDT 485-490 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 455.0
+    - -460.0
+    - 475.0
+    - -480.0
+    - 485.0
+    - -490.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan Steady 443-448 / LDT 463-468 / LDT 473-478 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 443.0
+    - -448.0
+    - 463.0
+    - -468.0
+    - 473.0
+    - -478.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Steady 418-423 / LDT 438-443 / LDT 448-453 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 418.0
+    - -423.0
+    - 438.0
+    - -443.0
+    - 448.0
+    - -453.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Softening 266-268 / LDT 276-278 / LDT 286-288 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 266.0
+    - -268.0
+    - 276.0
+    - -278.0
+    - 286.0
+    - -288.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line:  The 72.55 million MT of CO₂ emissions avoided through ship recycling
+      at Alang is broadly
+    unit: tonnage
+    values:
+    - 72550.0
+  - section: 'Linked asset: 2026-07-11_gms-week-28-truce-breaks-rivers-rise_ship-recycling-market-insight-week-2_00b5532ef987.pdf'
+    section_type: linked_pdf
+    source_line: equivalent to the direct emissions from burning approximately 27
+      billion litres of diesel fuel.
+    unit: null
+    values:
+    - 27.0
 source: hellenic
 source_path: reports/hellenic/demolition/2026/2026-07-11_gms-week-28-truce-breaks-rivers-rise.html
 source_stem: 2026-07-11_gms-week-28-truce-breaks-rivers-rise

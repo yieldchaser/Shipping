@@ -1,0 +1,264 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_12_30_no_need_for_speed__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_12_30_no_need_for_speed",
+  "parent_id": null,
+  "title": "No Need for Speed",
+  "section_path": [
+    "No Need for Speed"
+  ],
+  "section_path_text": "No Need for Speed",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "No Need for Speed\nAs 2011 comes to a close, many are breathing a sigh of relief and taking some much needed time to relax. This past year's tanker market has shown us that even in the non‐stop world of global marine transportation there is virtue in slowing down. As low freight rates have been accompanied by high oil prices, tanker owners trading in the spot market have been begrudgingly applying the majority of their voyage revenues towards exorbitant bunker bills.",
+  "keywords": [
+    "vlcc",
+    "brazil",
+    "meg",
+    "crude_oil",
+    "speeds",
+    "voyage",
+    "owners",
+    "bunker",
+    "earnings",
+    "time",
+    "are",
+    "bunkers"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 890,
+  "source_path": "reports/poten/2011/poten_2011-12-30_no-need-for-speed.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_30_no_need_for_speed__s01_no_need_for_speed",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_30_no_need_for_speed",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_30_no_need_for_speed__root",
+      "title": "No Need for Speed",
+      "section_path": [
+        "No Need for Speed"
+      ],
+      "section_path_text": "No Need for Speed",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As 2011 comes to a close, many are breathing a sigh of relief and taking some much needed time to relax. This past year's tanker market has shown us that even in the non‐stop world of global marine transportation there is virtue in slowing down.",
+      "keywords": [
+        "crude_oil",
+        "bunker",
+        "earnings",
+        "even",
+        "impact",
+        "many",
+        "owners",
+        "speeds"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 151,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_30_no_need_for_speed__s02_bunkers_68",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_30_no_need_for_speed",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_30_no_need_for_speed__root",
+      "title": "Bunkers = 68%",
+      "section_path": [
+        "Bunkers = 68%"
+      ],
+      "section_path_text": "Bunkers = 68%",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "total",
+        "voyage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_30_no_need_for_speed__s03_bunkers_59",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_30_no_need_for_speed",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_30_no_need_for_speed__root",
+      "title": "Bunkers = 59%",
+      "section_path": [
+        "Bunkers = 59%"
+      ],
+      "section_path_text": "Bunkers = 59%",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "revenue",
+        "total",
+        "voyage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_30_no_need_for_speed__s04_bunkers_57",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_30_no_need_for_speed",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_30_no_need_for_speed__root",
+      "title": "Bunkers = 57%",
+      "section_path": [
+        "Bunkers = 57%"
+      ],
+      "section_path_text": "Bunkers = 57%",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "revenue",
+        "total",
+        "voyage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_30_no_need_for_speed__s05_revenue",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_30_no_need_for_speed",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_30_no_need_for_speed__root",
+      "title": "Revenue",
+      "section_path": [
+        "Revenue"
+      ],
+      "section_path_text": "Revenue",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "13kt 14kt 15kt Not e: Voyage basis Ras Tanura - Chiba (260kt) Assumes current Worldscale rate of WS 60; bunkers $650/$1,000 HFO/M DO",
+      "keywords": [
+        "assumes",
+        "basis",
+        "bunkers",
+        "chiba",
+        "current",
+        "hfo/m",
+        "not",
+        "ras"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 45,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_30_no_need_for_speed__s06_time_charter_equivalent_day",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_30_no_need_for_speed",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_30_no_need_for_speed__root",
+      "title": "Time Charter Equivalent ($/Day)",
+      "section_path": [
+        "Time Charter Equivalent ($/Day)"
+      ],
+      "section_path_text": "Time Charter Equivalent ($/Day)",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Daily Bunker Costs In better markets, it was not uncommon for VLCCs to undergo voyages at speeds in the range of 15 or 16 knots (kt). High demand created much incentive for vessels to complete voyages and load their next cargo as quickly as possible.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "ships",
+        "speeds",
+        "are",
+        "because",
+        "can",
+        "daily"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 201,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_30_no_need_for_speed__s07_a_friend_in_need_is_a_friend_indeed",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_30_no_need_for_speed",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_30_no_need_for_speed__root",
+      "title": "A Friend in Need is a Friend Indeed",
+      "section_path": [
+        "A Friend in Need is a Friend Indeed"
+      ],
+      "section_path_text": "A Friend in Need is a Friend Indeed",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Slow steaming decreases overall bunker consumption but can also distribute voyage revenues over more operating days, potentially lowering the time charter equivalent. In high freight rate environments slow steaming can actually negatively impact daily time charter equivalent earnings, as shown in the chart below.",
+      "keywords": [
+        "brazil",
+        "can",
+        "charter",
+        "slow",
+        "steaming",
+        "time",
+        "actually",
+        "below."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 50,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_30_no_need_for_speed__s08_chart_vlcc_speeds_and_bunker_fuel_prices_vs_daily_voyage_earnings",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_30_no_need_for_speed",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_30_no_need_for_speed__root",
+      "title": "Chart: VLCC Speeds and Bunker Fuel Prices vs. Daily Voyage Earnings",
+      "section_path": [
+        "Chart: VLCC Speeds and Bunker Fuel Prices vs. Daily Voyage Earnings"
+      ],
+      "section_path_text": "Chart: VLCC Speeds and Bunker Fuel Prices vs. Daily Voyage Earnings",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "13.5 laden / 14.0 ballast $16,750 15.5 laden / 16.0 ballast $13,425",
+      "keywords": [
+        "ballast",
+        "laden"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 31,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_30_no_need_for_speed__s09_bunker_price",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_30_no_need_for_speed",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_30_no_need_for_speed__root",
+      "title": "Bunker Price",
+      "section_path": [
+        "Bunker Price"
+      ],
+      "section_path_text": "Bunker Price",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "15.5/16.0 kt 2011 Average ‐ 15.5/16.0 kt 13.5/14.0 kt 2011 Average ‐ 13.5/14.0 kt However over the past year the strategy has proven to be a valuable tool in stretching meager earnings. Owners of modern VLCCs trading from the Arabian Gulf to the Far East at speeds of 13.5 knots laden, 14.5 knots ballast would have grossed over $3,000 per day more year to date than if they had been steaming two knots higher.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "crude_oil",
+        "speeds",
+        "likely",
+        "knots",
+        "owners",
+        "slow"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 330,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

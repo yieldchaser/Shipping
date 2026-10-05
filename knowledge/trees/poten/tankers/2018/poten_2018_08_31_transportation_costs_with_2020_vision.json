@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2018_08_31_transportation_costs_with_2020_vision__root",
+  "doc_id": "poten_tankers_no_date_poten_2018_08_31_transportation_costs_with_2020_vision",
+  "parent_id": null,
+  "title": "Transportation Costs With 2020 Vision",
+  "section_path": [
+    "Transportation Costs With 2020 Vision"
+  ],
+  "section_path_text": "Transportation Costs With 2020 Vision",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "How much will shipping costs increase for charterers? So far, the discussion around the implementation of IMO's low sulphur bunker fuel mandate (\"IMO 2020\") has primarily centered around the choices that shipowners have available to them. Will they switch to low sulphur fuel oil, install scrubbers to enable them to continue to use high sulphur bunkers or explore alternative fuels like LNG?",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "lng",
+    "brazil",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "products"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 958,
+  "source_path": "reports/poten/2018/poten_2018-08-31_transportation-costs-with-2020-vision.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_08_31_transportation_costs_with_2020_vision__s01_how_much_will_shipping_costs_increase_for_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2018_08_31_transportation_costs_with_2020_vision",
+      "parent_id": "poten_tankers_no_date_poten_2018_08_31_transportation_costs_with_2020_vision__root",
+      "title": "How much will shipping costs increase for charterers?",
+      "section_path": [
+        "How much will shipping costs increase for charterers?"
+      ],
+      "section_path_text": "How much will shipping costs increase for charterers?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "So far, the discussion around the implementation of IMO's low sulphur bunker fuel mandate (\"IMO 2020\") has primarily centered around the choices that shipowners have available to them. Will they switch to low sulphur fuel oil, install scrubbers to enable them to continue to use high sulphur bunkers or explore alternative fuels like LNG?",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "lng",
+        "brazil",
+        "atlantic",
+        "meg",
+        "west_africa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 948,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

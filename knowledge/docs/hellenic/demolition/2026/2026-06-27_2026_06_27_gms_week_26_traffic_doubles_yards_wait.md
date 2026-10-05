@@ -8,6 +8,7 @@ commodities:
 date: '2026-06-27'
 doc_id: hellenic_demolition_2026-06-27_2026_06_27_gms_week_26_traffic_doubles_yards_wait
 document_type: demolition_update
+is_error_page: false
 key_entities:
 - China
 - Vale
@@ -33,8 +34,7 @@ linked_assets_skipped: 1
 market_tone: constructive
 numeric_observation_count: 114
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: The war is over; the paperwork is taking longer than the peace. The
     formal signing of the US-Iranagreement at Bürgenstock in Switzerland was abruptly
@@ -45,8 +45,7 @@ numeric_observations:
   - 24.0
   - 34.0
   - 110.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Brent crude has fallen below USD 74 per barrel, its lowest since before
     the war began and now only about 7% above its pre-conflict level, having shed
@@ -60,8 +59,7 @@ numeric_observations:
   - 70.0
   - 85.0
   - 1984.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Freight has continued its orderly descent from the war peak. The Baltic
     Dry Index eased to 2,634 on June 24 from the June 1 high of 3,222, with daily
@@ -76,8 +74,7 @@ numeric_observations:
   - 35800.0
   - 21400.0
   - 17000.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: The currency picture has acquired a second force. The Indian Rupee
     firmed to a six-week high near 94.30 on the oil collapse and improving capital
@@ -85,16 +82,15 @@ numeric_observations:
     the Bangladeshi Taka held the floo
   unit: worldscale_pct
   values:
-  - 94300.0
+  - 94.3
   - 2026.0
   - 278.1
   - 122.7
   - 4.2
   - 75.0
   - 46.0
-  - 46400.0
-- &id005
-  section: Main
+  - 46.4
+- section: Main
   section_type: null
   source_line: This is Ashura week, and the sub-continent's yards are largely closed
     for the holiday and slowed by the monsoon both. Around them, two queues are forming.
@@ -103,8 +99,7 @@ numeric_observations:
   unit: usd
   values:
   - 460.0
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 26 of 2026, GMS Market Rankings / Vessel indications are as
     below.
@@ -112,15 +107,13 @@ numeric_observations:
   values:
   - 26.0
   - 2026.0
-- &id007
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Linked asset: 2662025.jpg'
   unit: null
   values:
   - 2662025.0
-- &id008
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_2662025_8dbadf779e8d.jpg'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_2662025_8dbadf779e8d.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_2662025_8dbadf779e8d.jpg'
   unit: null
@@ -133,61 +126,53 @@ numeric_observations:
   - 8.0
   - 779.0
   - 8.0
-- &id009
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_2662025_8dbadf779e8d.jpg'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_2662025_8dbadf779e8d.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 600x125 mode=RGB'
   unit: null
   values:
   - 600.0
   - 125.0
-- &id010
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_2662025_8dbadf779e8d.jpg'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_2662025_8dbadf779e8d.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (72.0, 72.0)'
   unit: null
   values:
-  - 72000.0
-  - 72000.0
-- &id011
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_2662025_8dbadf779e8d.jpg'
+  - 72.0
+  - 72.0
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_2662025_8dbadf779e8d.jpg'
   section_type: linked_image_asset
   source_line: '[OCR skipped for small image (< 90000 pixels).]'
   unit: null
   values:
   - 90000.0
-- &id012
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: 1. ` *I
   unit: null
   values:
   - 1.0
-- &id013
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: June 26th , 2026
   unit: null
   values:
   - 26.0
   - 2026.0
-- &id014
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: Week 26
   unit: null
   values:
   - 26.0
-- &id015
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: Volume 282, Issue 1241
   unit: null
   values:
   - 282.0
   - 1241.0
-- &id016
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: doubled in 24 hours to its highest level since late February, with
     at least 34 ships exiting into the Gulf of Oman
@@ -195,16 +180,14 @@ numeric_observations:
   values:
   - 24.0
   - 34.0
-- &id017
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: against a pre-war daily average of 110. The Vice President noted that
     Iran had, for a second consecutive night,
   unit: null
   values:
   - 110.0
-- &id018
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: Brent crude has fallen below USD 74 per barrel, its lowest since before
     the war began and now only about 7%
@@ -212,8 +195,7 @@ numeric_observations:
   values:
   - 74.0
   - 7.0
-- &id019
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: • Oil sinks. a bove its pre-conflict level, having shed more than 20%
     in June a lone. WTI trades below USD 70. The IEA
@@ -221,24 +203,21 @@ numeric_observations:
   values:
   - 20.0
   - 70.0
-- &id020
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: estimates the UAE is already exporting at roughly 85% of pre-war volumes
     and warns of a coming glut; OPEC's
   unit: pct
   values:
   - 85.0
-- &id021
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: to their lowest since 1984, with Cushing below operational minimums,
     a tightness the price has chosen to ignore
   unit: null
   values:
   - 1984.0
-- &id022
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: Freight has continued its orderly descent from the war peak. The Baltic
     Dry Index eased to 2,634 on June 24
@@ -246,8 +225,7 @@ numeric_observations:
   values:
   - 2634.0
   - 24.0
-- &id023
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: • Queue builds. from the June 1 high of 3,222, with daily Capesize
     earnings settling near USD 35,800 as the disrupted long-haul
@@ -256,8 +234,7 @@ numeric_observations:
   - 1.0
   - 3222.0
   - 35800.0
-- &id024
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: held firm, with Supramax near USD 21,400 and Handysize near USD 17,000
     per day. The Capesize premium
@@ -265,24 +242,21 @@ numeric_observations:
   values:
   - 21400.0
   - 17000.0
-- &id025
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: The currency picture has acquired a second force. The Indian Rupee
     firmed to a six-week high near 94.30 on
   unit: null
   values:
-  - 94300.0
-- &id026
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+  - 94.3
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: the oil collapse and improving capital inflows, the Pakistani Rupee
     strengthened to a fresh 2026 best near
   unit: null
   values:
   - 2026.0
-- &id027
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: 278.10, and the Bangladeshi Taka held the floor of its band near 122.70.
     But the dollar itself is now
@@ -290,33 +264,29 @@ numeric_observations:
   values:
   - 278.1
   - 122.7
-- &id028
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: 'strengthening: the Dollar Index has reached its highest in more than
     a year as US inflation climbed to 4.2%, a'
   unit: pct
   values:
   - 4.2
-- &id029
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: three-year high, and markets price roughly a 75% chance of a Federal
     Reserve rate increase by September. The
   unit: pct
   values:
   - 75.0
-- &id030
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: Turkish Lira, domestic to its core, slid past 46 toward 46.40, a fresh
     record. The energy shock that drove inflation
   unit: null
   values:
   - 46.0
-  - 46400.0
-- &id031
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+  - 46.4
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: not go out. It changed address. Detailed country reads follow on pages
     2 through 5.
@@ -324,16 +294,14 @@ numeric_observations:
   values:
   - 2.0
   - 5.0
-- &id032
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: USD 460 last week the first of what should become many. Between the
     tonnage and the beach stands the
   unit: usd
   values:
   - 460.0
-- &id033
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: GMS market rankings / pricing for week 26 of 2026 are on Page 5.
   unit: null
@@ -341,16 +309,14 @@ numeric_observations:
   - 26.0
   - 2026.0
   - 5.0
-- &id034
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id035
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: Bangladesh enters Week 26 with USD/BDT near the floor of its band at
     approximately 122.70, the
@@ -358,8 +324,7 @@ numeric_observations:
   values:
   - 26.0
   - 122.7
-- &id036
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: Taka having now held the 122.74 to 123.18 range intact through the
     war and into the peace without
@@ -367,8 +332,7 @@ numeric_observations:
   values:
   - 122.74
   - 123.18
-- &id037
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: a single breach. The collapse in Brent below USD 74, down more than
     20% on the month, removes
@@ -376,16 +340,14 @@ numeric_observations:
   values:
   - 74.0
   - 20.0
-- &id038
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: exchange reserves near USD 34.12 billion remain the operative buffer.
     Local steel plate prices
   unit: usd
   values:
-  - 34120.0
-- &id039
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+  - 34.12
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: moved from BDT 65,000 to BDT 67,000 through the week, with the USD
     equivalent rising from
@@ -393,8 +355,7 @@ numeric_observations:
   values:
   - 65000.0
   - 67000.0
-- &id040
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: approximately USD 535 to USD 551 per ton, the mill complex still taking
     direction from a post-war
@@ -402,8 +363,7 @@ numeric_observations:
   values:
   - 535.0
   - 551.0
-- &id041
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: 9,369 LDT bulker, was sold to Bangladesh at USD 460 per LDT on an as-is
     Sambu basis, the first
@@ -411,33 +371,29 @@ numeric_observations:
   values:
   - 9369.0
   - 460.0
-- &id042
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: Ashura, observed June 26, has brought Chattogram's cash-buyer activity
     to its customary holiday
   unit: null
   values:
   - 26.0
-- &id043
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id044
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: USD/INR firmed to a six-week high near 94.30, extending the rupee's
     recovery from the 96.97 record
   unit: usd_per_unit
   values:
-  - 94300.0
-  - 96970.0
-- &id045
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+  - 94.3
+  - 96.97
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: of May 21 as Brent's fall below USD 74, the lowest since before the
     war, fed directly into the external-
@@ -445,16 +401,14 @@ numeric_observations:
   values:
   - 21.0
   - 74.0
-- &id046
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: account arithmetic of an economy that imports more than 80% of its
     crude. Brent is down more than
   unit: pct
   values:
   - 80.0
-- &id047
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: 20% in June, and India's import bill, struck against pre-war oil rather
     than the USD 126 peak, is
@@ -462,32 +416,28 @@ numeric_observations:
   values:
   - 20.0
   - 126.0
-- &id048
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: in more than 1 year as US inflation reached 4.2%, a three-year high,
     and markets moved to price roughly Dollar resists.
   unit: pct
   values:
   - 4.2
-- &id049
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: a 75% probability of a Federal Reserve rate increase by September under
     the new chair. Foreign
   unit: pct
   values:
   - 75.0
-- &id050
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: through 94 is being met by a dollar strengthening on America's own
     inflation problem. The rupee is
   unit: null
   values:
   - 94.0
-- &id051
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: Local steel plate prices at Alang softened to an INR 36,500 to 37,000
     range, with the USD equivalent
@@ -495,8 +445,7 @@ numeric_observations:
   values:
   - 36500.0
   - 37000.0
-- &id052
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: near USD 386 to USD 392 per ton, the post-war collapse in energy and
     scrap sentiment outweighing A la ng resumes.
@@ -504,32 +453,28 @@ numeric_observations:
   values:
   - 386.0
   - 392.0
-- &id053
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: activity through the prior fortnight, with multiple deliveries including
     the 41,478 LDT Octans tanker
   unit: null
   values:
   - 41478.0
-- &id054
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: Valaris MS-1 Semi Sub 28,761 Undisclosed Price (‘as is' Indonesia)
   unit: null
   values:
   - 1.0
   - 28761.0
-- &id055
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id056
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: Ru pee leads. approximately 278.10, a fresh 2026 best and now stronger
     by roughly 2.25% year-to-date, extending
@@ -538,32 +483,28 @@ numeric_observations:
   - 278.1
   - 2026.0
   - 2.25
-- &id057
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: across both the war and its aftermath. The collapse in Brent below
     USD 74 is now driving the
   unit: usd
   values:
   - 74.0
-- &id058
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: weekly oil import bill, which Prime Minister Sharif quantified at USD
     800 million at the war's
   unit: usd
   values:
   - 800.0
-- &id059
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: vessel traffic through Hormuz doubling in a day and the UAE exporting
     at 85% of pre-war
   unit: pct
   values:
   - 85.0
-- &id060
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: Local steel plate prices at PKR 195,000 per ton held, with the USD
     equivalent near USD 701 per ton
@@ -571,31 +512,27 @@ numeric_observations:
   values:
   - 195000.0
   - 701.0
-- &id061
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: 21,502 LDT has worked through the yard. Pakistan enters the post-war
     competition from the
   unit: null
   values:
   - 21502.0
-- &id062
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id063
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: IRA SLIDES PAST 46, NICHE HOLDS
   unit: null
   values:
   - 46.0
-- &id064
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: T urkey enters Week 26 with USD/TRY having extended its slide past
     46 toward approximately 46.40,
@@ -603,25 +540,22 @@ numeric_observations:
   values:
   - 26.0
   - 46.0
-  - 46400.0
-- &id065
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+  - 46.4
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: d eeper into record territory, the lira down roughly 17% over the past
     12 months. The peace and the
   unit: pct
   values:
   - 17.0
-- &id066
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: lows through the war, through the ceasefire, and now through the peace,
     indifferent to all 3.
   unit: null
   values:
   - 3.0
-- &id067
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: USD 74, against the USD 107 of mid-May and the USD 126 peak, materially
     lowers the imported-
@@ -630,17 +564,15 @@ numeric_observations:
   - 74.0
   - 107.0
   - 126.0
-- &id068
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: CPI at 32.61%, the year-end forecast range suspended, and the policy
     rate held at an effective 40%
   unit: pct
   values:
-  - 32610.0
+  - 32.61
   - 40.0
-- &id069
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: At USD 266 to USD 288 per LDT across vessel types, Aliaga remains structurally
     uncompetitive for
@@ -648,8 +580,7 @@ numeric_observations:
   values:
   - 266.0
   - 288.0
-- &id070
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: For Week 26 of 2026, GMS Market Rankings / Vessel indications are as
     below.
@@ -657,8 +588,7 @@ numeric_observations:
   values:
   - 26.0
   - 2026.0
-- &id071
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Steady 458-463 / LDT 478-483 / LDT 488-493 / LDT
   unit: null
@@ -670,8 +600,7 @@ numeric_observations:
   - -483.0
   - 488.0
   - -493.0
-- &id072
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan Steady 443-448 / LDT 463-468 / LDT 473-478 / LDT
   unit: null
@@ -683,8 +612,7 @@ numeric_observations:
   - -468.0
   - 473.0
   - -478.0
-- &id073
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: 3 India Steady 418-423 / LDT 438-443 / LDT 448-453 / LDT
   unit: null
@@ -696,8 +624,7 @@ numeric_observations:
   - -443.0
   - 448.0
   - -453.0
-- &id074
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Softening 266-268 / LDT 276-278 / LDT 286-288 / LDT
   unit: null
@@ -709,48 +636,42 @@ numeric_observations:
   - -278.0
   - 286.0
   - -288.0
-- &id075
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id076
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line:  Ship recycling at Alang has helped avoid the need for over 100 million
     tons of raw iron ore
   unit: null
   values:
   - 100.0
-- &id077
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: extraction, equivalent to around 4 years of output from a 25 million-ton-per-year
     iron ore mine.
   unit: null
   values:
   - 25.0
-- &id078
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line:  The 72.55 million MT of CO₂ emissions avoided through ship recycling
     at Alang is more than
   unit: tonnage
   values:
-  - 72550.0
-- &id079
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+  - 72.55
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: 17 times the annual CO₂ emissions of all Pacific island small states
     combined.
   unit: null
   values:
   - 17.0
-- &id080
-  section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+- section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: June 27 - July 05
   unit: null
@@ -930,7 +851,7 @@ numeric_observations:
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
   values:
-  - 49400.0
+  - 49.4
   - 3197.9963
   - 1.24
   - 505.9716
@@ -940,17 +861,17 @@ numeric_observations:
   unit: null
   values:
   - 86216.0
-  - 75190.0
-  - 82100.0
+  - 75.19
+  - 82.1
   - 4650.072
 - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
   values:
-  - 65682.3
+  - 65.6823
   - 8037.0
-  - 81300.0
+  - 81.3
   - 5453.6311
 - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
   section_type: linked_pdf
@@ -1045,86 +966,650 @@ section_count: 3
 signals:
   numeric_observation_count: 114
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: The war is over; the paperwork is taking longer than the peace. The
+      formal signing of the US-Iranagreement at Bürgenstock in Switzerland was abruptly
+      postponed last Friday, with Vice President Vance turning his plane around over
+      what the White House called unr
+    unit: null
+    values:
+    - 24.0
+    - 34.0
+    - 110.0
+  - section: Main
+    section_type: null
+    source_line: Brent crude has fallen below USD 74 per barrel, its lowest since
+      before the war began and now only about 7% above its pre-conflict level, having
+      shed more than 20% in June alone. WTI trades below USD 70. The IEA estimates
+      the UAE is already exporting at roughl
+    unit: pct
+    values:
+    - 74.0
+    - 7.0
+    - 20.0
+    - 70.0
+    - 85.0
+    - 1984.0
+  - section: Main
+    section_type: null
+    source_line: 'Freight has continued its orderly descent from the war peak. The
+      Baltic Dry Index eased to 2,634 on June 24 from the June 1 high of 3,222, with
+      daily Capesize earnings settling near USD 35,800 as the disrupted long-haul
+      trades that inflated demand through the '
+    unit: usd
+    values:
+    - 2634.0
+    - 24.0
+    - 1.0
+    - 3222.0
+    - 35800.0
+    - 21400.0
+    - 17000.0
+  - section: Main
+    section_type: null
+    source_line: The currency picture has acquired a second force. The Indian Rupee
+      firmed to a six-week high near 94.30 on the oil collapse and improving capital
+      inflows, the Pakistani Rupee strengthened to a fresh 2026 best near 278.10,
+      and the Bangladeshi Taka held the floo
+    unit: worldscale_pct
+    values:
+    - 94300.0
+    - 2026.0
+    - 278.1
+    - 122.7
+    - 4.2
+    - 75.0
+    - 46.0
+    - 46400.0
+  - section: Main
+    section_type: null
+    source_line: This is Ashura week, and the sub-continent's yards are largely closed
+      for the holiday and slowed by the monsoon both. Around them, two queues are
+      forming. One is the growing line of cargoes waiting to move through a reopening
+      Hormuz, which analysts now watch b
+    unit: usd
+    values:
+    - 460.0
+  - section: Main
+    section_type: null
+    source_line: For Week 26 of 2026, GMS Market Rankings / Vessel indications are
+      as below.
+    unit: null
+    values:
+    - 26.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: 'Linked asset: 2662025.jpg'
+    unit: null
+    values:
+    - 2662025.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_2662025_8dbadf779e8d.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_2662025_8dbadf779e8d.jpg'
+    unit: null
+    values:
+    - 2026.0
+    - -6.0
+    - -27.0
+    - 26.0
+    - 2662025.0
+    - 8.0
+    - 779.0
+    - 8.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_2662025_8dbadf779e8d.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 600x125 mode=RGB'
+    unit: null
+    values:
+    - 600.0
+    - 125.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_2662025_8dbadf779e8d.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (72.0, 72.0)'
+    unit: null
+    values:
+    - 72000.0
+    - 72000.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_2662025_8dbadf779e8d.jpg'
+    section_type: linked_image_asset
+    source_line: '[OCR skipped for small image (< 90000 pixels).]'
+    unit: null
+    values:
+    - 90000.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: 1. ` *I
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: June 26th , 2026
+    unit: null
+    values:
+    - 26.0
+    - 2026.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: Week 26
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: Volume 282, Issue 1241
+    unit: null
+    values:
+    - 282.0
+    - 1241.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: doubled in 24 hours to its highest level since late February, with
+      at least 34 ships exiting into the Gulf of Oman
+    unit: null
+    values:
+    - 24.0
+    - 34.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: against a pre-war daily average of 110. The Vice President noted
+      that Iran had, for a second consecutive night,
+    unit: null
+    values:
+    - 110.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: Brent crude has fallen below USD 74 per barrel, its lowest since
+      before the war began and now only about 7%
+    unit: pct
+    values:
+    - 74.0
+    - 7.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: • Oil sinks. a bove its pre-conflict level, having shed more than
+      20% in June a lone. WTI trades below USD 70. The IEA
+    unit: pct
+    values:
+    - 20.0
+    - 70.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: estimates the UAE is already exporting at roughly 85% of pre-war
+      volumes and warns of a coming glut; OPEC's
+    unit: pct
+    values:
+    - 85.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: to their lowest since 1984, with Cushing below operational minimums,
+      a tightness the price has chosen to ignore
+    unit: null
+    values:
+    - 1984.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: Freight has continued its orderly descent from the war peak. The
+      Baltic Dry Index eased to 2,634 on June 24
+    unit: null
+    values:
+    - 2634.0
+    - 24.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: • Queue builds. from the June 1 high of 3,222, with daily Capesize
+      earnings settling near USD 35,800 as the disrupted long-haul
+    unit: usd
+    values:
+    - 1.0
+    - 3222.0
+    - 35800.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: held firm, with Supramax near USD 21,400 and Handysize near USD 17,000
+      per day. The Capesize premium
+    unit: usd
+    values:
+    - 21400.0
+    - 17000.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: The currency picture has acquired a second force. The Indian Rupee
+      firmed to a six-week high near 94.30 on
+    unit: null
+    values:
+    - 94300.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: the oil collapse and improving capital inflows, the Pakistani Rupee
+      strengthened to a fresh 2026 best near
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: 278.10, and the Bangladeshi Taka held the floor of its band near
+      122.70. But the dollar itself is now
+    unit: null
+    values:
+    - 278.1
+    - 122.7
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: 'strengthening: the Dollar Index has reached its highest in more
+      than a year as US inflation climbed to 4.2%, a'
+    unit: pct
+    values:
+    - 4.2
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: three-year high, and markets price roughly a 75% chance of a Federal
+      Reserve rate increase by September. The
+    unit: pct
+    values:
+    - 75.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: Turkish Lira, domestic to its core, slid past 46 toward 46.40, a
+      fresh record. The energy shock that drove inflation
+    unit: null
+    values:
+    - 46.0
+    - 46400.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: not go out. It changed address. Detailed country reads follow on
+      pages 2 through 5.
+    unit: null
+    values:
+    - 2.0
+    - 5.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: USD 460 last week the first of what should become many. Between the
+      tonnage and the beach stands the
+    unit: usd
+    values:
+    - 460.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: GMS market rankings / pricing for week 26 of 2026 are on Page 5.
+    unit: null
+    values:
+    - 26.0
+    - 2026.0
+    - 5.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: Bangladesh enters Week 26 with USD/BDT near the floor of its band
+      at approximately 122.70, the
+    unit: usd_per_unit
+    values:
+    - 26.0
+    - 122.7
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: Taka having now held the 122.74 to 123.18 range intact through the
+      war and into the peace without
+    unit: null
+    values:
+    - 122.74
+    - 123.18
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: a single breach. The collapse in Brent below USD 74, down more than
+      20% on the month, removes
+    unit: pct
+    values:
+    - 74.0
+    - 20.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: exchange reserves near USD 34.12 billion remain the operative buffer.
+      Local steel plate prices
+    unit: usd
+    values:
+    - 34120.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: moved from BDT 65,000 to BDT 67,000 through the week, with the USD
+      equivalent rising from
+    unit: usd
+    values:
+    - 65000.0
+    - 67000.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: approximately USD 535 to USD 551 per ton, the mill complex still
+      taking direction from a post-war
+    unit: usd
+    values:
+    - 535.0
+    - 551.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: 9,369 LDT bulker, was sold to Bangladesh at USD 460 per LDT on an
+      as-is Sambu basis, the first
+    unit: usd
+    values:
+    - 9369.0
+    - 460.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: Ashura, observed June 26, has brought Chattogram's cash-buyer activity
+      to its customary holiday
+    unit: null
+    values:
+    - 26.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: USD/INR firmed to a six-week high near 94.30, extending the rupee's
+      recovery from the 96.97 record
+    unit: usd_per_unit
+    values:
+    - 94300.0
+    - 96970.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: of May 21 as Brent's fall below USD 74, the lowest since before the
+      war, fed directly into the external-
+    unit: usd
+    values:
+    - 21.0
+    - 74.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: account arithmetic of an economy that imports more than 80% of its
+      crude. Brent is down more than
+    unit: pct
+    values:
+    - 80.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: 20% in June, and India's import bill, struck against pre-war oil
+      rather than the USD 126 peak, is
+    unit: pct
+    values:
+    - 20.0
+    - 126.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: in more than 1 year as US inflation reached 4.2%, a three-year high,
+      and markets moved to price roughly Dollar resists.
+    unit: pct
+    values:
+    - 4.2
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: a 75% probability of a Federal Reserve rate increase by September
+      under the new chair. Foreign
+    unit: pct
+    values:
+    - 75.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: through 94 is being met by a dollar strengthening on America's own
+      inflation problem. The rupee is
+    unit: null
+    values:
+    - 94.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: Local steel plate prices at Alang softened to an INR 36,500 to 37,000
+      range, with the USD equivalent
+    unit: usd
+    values:
+    - 36500.0
+    - 37000.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: near USD 386 to USD 392 per ton, the post-war collapse in energy
+      and scrap sentiment outweighing A la ng resumes.
+    unit: usd
+    values:
+    - 386.0
+    - 392.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: activity through the prior fortnight, with multiple deliveries including
+      the 41,478 LDT Octans tanker
+    unit: null
+    values:
+    - 41478.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: Valaris MS-1 Semi Sub 28,761 Undisclosed Price (‘as is' Indonesia)
+    unit: null
+    values:
+    - 1.0
+    - 28761.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: Ru pee leads. approximately 278.10, a fresh 2026 best and now stronger
+      by roughly 2.25% year-to-date, extending
+    unit: pct
+    values:
+    - 278.1
+    - 2026.0
+    - 2.25
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: across both the war and its aftermath. The collapse in Brent below
+      USD 74 is now driving the
+    unit: usd
+    values:
+    - 74.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: weekly oil import bill, which Prime Minister Sharif quantified at
+      USD 800 million at the war's
+    unit: usd
+    values:
+    - 800.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: vessel traffic through Hormuz doubling in a day and the UAE exporting
+      at 85% of pre-war
+    unit: pct
+    values:
+    - 85.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: Local steel plate prices at PKR 195,000 per ton held, with the USD
+      equivalent near USD 701 per ton
+    unit: usd
+    values:
+    - 195000.0
+    - 701.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: 21,502 LDT has worked through the yard. Pakistan enters the post-war
+      competition from the
+    unit: null
+    values:
+    - 21502.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: IRA SLIDES PAST 46, NICHE HOLDS
+    unit: null
+    values:
+    - 46.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: T urkey enters Week 26 with USD/TRY having extended its slide past
+      46 toward approximately 46.40,
+    unit: usd_per_unit
+    values:
+    - 26.0
+    - 46.0
+    - 46400.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: d eeper into record territory, the lira down roughly 17% over the
+      past 12 months. The peace and the
+    unit: pct
+    values:
+    - 17.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: lows through the war, through the ceasefire, and now through the
+      peace, indifferent to all 3.
+    unit: null
+    values:
+    - 3.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: USD 74, against the USD 107 of mid-May and the USD 126 peak, materially
+      lowers the imported-
+    unit: usd
+    values:
+    - 74.0
+    - 107.0
+    - 126.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: CPI at 32.61%, the year-end forecast range suspended, and the policy
+      rate held at an effective 40%
+    unit: pct
+    values:
+    - 32610.0
+    - 40.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: At USD 266 to USD 288 per LDT across vessel types, Aliaga remains
+      structurally uncompetitive for
+    unit: usd
+    values:
+    - 266.0
+    - 288.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: For Week 26 of 2026, GMS Market Rankings / Vessel indications are
+      as below.
+    unit: null
+    values:
+    - 26.0
+    - 2026.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Steady 458-463 / LDT 478-483 / LDT 488-493 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 458.0
+    - -463.0
+    - 478.0
+    - -483.0
+    - 488.0
+    - -493.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan Steady 443-448 / LDT 463-468 / LDT 473-478 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 443.0
+    - -448.0
+    - 463.0
+    - -468.0
+    - 473.0
+    - -478.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Steady 418-423 / LDT 438-443 / LDT 448-453 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 418.0
+    - -423.0
+    - 438.0
+    - -443.0
+    - 448.0
+    - -453.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Softening 266-268 / LDT 276-278 / LDT 286-288 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 266.0
+    - -268.0
+    - 276.0
+    - -278.0
+    - 286.0
+    - -288.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line:  Ship recycling at Alang has helped avoid the need for over 100
+      million tons of raw iron ore
+    unit: null
+    values:
+    - 100.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: extraction, equivalent to around 4 years of output from a 25 million-ton-per-year
+      iron ore mine.
+    unit: null
+    values:
+    - 25.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line:  The 72.55 million MT of CO₂ emissions avoided through ship recycling
+      at Alang is more than
+    unit: tonnage
+    values:
+    - 72550.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: 17 times the annual CO₂ emissions of all Pacific island small states
+      combined.
+    unit: null
+    values:
+    - 17.0
+  - section: 'Linked asset: 2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf'
+    section_type: linked_pdf
+    source_line: June 27 - July 05
+    unit: null
+    values:
+    - 27.0
+    - 5.0
 source: hellenic
 source_path: reports/hellenic/demolition/2026/2026-06-27_gms-week-26-traffic-doubles-yards-wait.html
 source_stem: 2026-06-27_gms-week-26-traffic-doubles-yards-wait

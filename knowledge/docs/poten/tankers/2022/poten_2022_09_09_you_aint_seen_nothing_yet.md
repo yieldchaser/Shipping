@@ -1,0 +1,138 @@
+---
+category: tankers
+commodities:
+- crude_oil
+- products
+date: null
+doc_id: poten_tankers_no_date_poten_2022_09_09_you_aint_seen_nothing_yet
+document_type: analyst_opinion
+is_error_page: false
+key_entities:
+- China
+- Brazil
+- Middle East
+keywords:
+- vlcc
+- suezmax
+- aframax
+- china
+- brazil
+- atlantic
+- west_africa
+- europe
+- india
+- crude_oil
+- products
+- crude
+market_tone: constructive
+numeric_observation_count: 5
+numeric_observations:
+- section: Europe's import patterns are showing dramatic changes
+  section_type: null
+  source_line: When Russia invaded Ukraine in February 2022, European governments,
+    major oil companies, refiners and traders immediately responded with sanctions.
+    The EU and UK in particular reduced imports of Russian crude oil and refined products.
+    Initially, this "self-san
+  unit: null
+  values:
+  - 2022.0
+- section: Europe's import patterns are showing dramatic changes
+  section_type: null
+  source_line: The geographic proximity of the Baltic and the Black Sea, as well as
+    the elaborate pipeline infrastructure into Eastern Europe, made Russia an attractive
+    supplier of crude oil for European refiners. Northwest Europe was traditionally
+    the largest importer of Ru
+  unit: pct
+  values:
+  - 5.0
+  - 2017.0
+  - 2022.0
+  - 2.7
+  - 26.0
+  - 14.0
+- section: Europe's import patterns are showing dramatic changes
+  section_type: null
+  source_line: 'In the months since the invasion, Europe has pivoted away from Russian
+    crude to other sources of oil. In the period March - August 2022, the percentage
+    of oil that Europe imported from Russia dropped to 19%. Over the same period,
+    the share of Russian crude in '
+  unit: worldscale_pct
+  values:
+  - 2022.0
+  - 19.0
+  - 2.0
+  - 12.0
+  - 6.0
+  - 12.0
+  - 2021.0
+  - 2022.0
+- section: Europe's import patterns are showing dramatic changes
+  section_type: null
+  source_line: These changes in European trade flows have had a substantial impact
+    on the tanker market. The short-haul trades from the Baltic and the Black Sea
+    were dominated by Aframax and Suezmax tankers. However, the invasion seems to
+    have accelerated the return of the V
+  unit: null
+  values:
+  - 19.0
+- section: Europe's import patterns are showing dramatic changes
+  section_type: null
+  source_line: The changes in the European oil trades and their impact on the global
+    tanker market have only just started. When the European ban on Russian seaborne
+    crude oil imports goes into effect in December of this year, further changes will
+    need to be made. Europe stil
+  unit: pct
+  values:
+  - 2.0
+  - 20.0
+  - 2.5
+  - 32.0
+  - 500000.0
+  - 2.0
+regions:
+- meg
+- china
+- atlantic
+- pacific
+- europe
+- brazil
+- west_africa
+- india
+section_count: 1
+signals: {}
+source: poten
+source_path: reports/poten/2022/poten_2022-09-09_you-aint-seen-nothing-yet.md
+source_stem: poten_2022-09-09_you-aint-seen-nothing-yet
+source_url: null
+summary: 'Europe''s import patterns are showing dramatic changes
+
+  When Russia invaded Ukraine in February 2022, European governments, major oil companies,
+  refiners and traders immediately responded with sanctions. The EU and UK in particular
+  reduced imports of Russian crude oil and refined products. Initially, this "self-sanctioning"
+  was mostly done on a voluntary basis, and it changed the trading patterns around
+  Europe quite dramatically.'
+themes:
+- vlcc
+- suezmax
+- aframax
+- china
+- brazil
+- atlantic
+title: You Aint Seen Nothing Yet
+vessel_classes:
+- vlcc
+- suezmax
+- aframax
+---
+
+## Summary
+Europe's import patterns are showing dramatic changes
+When Russia invaded Ukraine in February 2022, European governments, major oil companies, refiners and traders immediately responded with sanctions. The EU and UK in particular reduced imports of Russian crude oil and refined products. Initially, this "self-sanctioning" was mostly done on a voluntary basis, and it changed the trading patterns around Europe quite dramatically.
+
+## Europe's import patterns are showing dramatic changes
+When Russia invaded Ukraine in February 2022, European governments, major oil companies, refiners and traders immediately responded with sanctions. The EU and UK in particular reduced imports of Russian crude oil and refined products. Initially, this "self-sanctioning" was mostly done on a voluntary basis, and it changed the trading patterns around Europe quite dramatically. Not only did European oil importers look for different sources of crude oil, they also shifted to different vessel types to move the commodity. In this Weekly Opinion, we will discuss these changes in trade flows and vessels preferences in more detail. We will also look ahead toward the end of the year, when a full EU ban on seaborne Russian crude oil imports will go into effect.
+The geographic proximity of the Baltic and the Black Sea, as well as the elaborate pipeline infrastructure into Eastern Europe, made Russia an attractive supplier of crude oil for European refiners. Northwest Europe was traditionally the largest importer of Russian crude oil from the Baltic and similarly, Southern Europe was a key customer of Russian crude originating in the Black Sea. Because of the short-haul nature of these trades, the ton-miles generated were significantly less material than the import volumes would suggest. For example, in the 5-year period from January 2017 - January 2022, Europe imported an average of 2.7 Mb/d of crude oil from Russia (seaborne), representing 26% of total seaborne imports into Europe. In terms of ton-miles, the Russian trades only represented 14% of the total, clearly a function of the relatively short distances involved.
+In the months since the invasion, Europe has pivoted away from Russian crude to other sources of oil. In the period March - August 2022, the percentage of oil that Europe imported from Russia dropped to 19%. Over the same period, the share of Russian crude in Europe's ton-mile demand reduced by 2%-points to 12%. The main beneficiary of the changes in Europe's crude sourcing seems to be the U.S. Gulf. In the years prior to the conflict in Ukraine, Europe imported about 6% of its crude oil from the U.S. Gulf. Since the invasion, this has doubled to 12%. European imports from South America (such as Brazil and Guyana), West Africa and the Middle East increased as well, albeit not to the same extent. These changes have led to a significant increase in ton-mile demand for European crude oil import. The first chart shows that ton-mile demand was already increasing in the second half of 2021 and in early 2022 on the back of the post-Covid oil demand recovery. However, the Russian invasion accelerated this trend.
+These changes in European trade flows have had a substantial impact on the tanker market. The short-haul trades from the Baltic and the Black Sea were dominated by Aframax and Suezmax tankers. However, the invasion seems to have accelerated the return of the VLCCs in the European market. The second chart illustrates this. VLCC traffic into Europe was steadily declining prior to the outbreak of Covid-19 and during the pandemic, VLCCs were hardly used for European crude oil imports. This changed after the invasion. VLCCs have returned to prominence, especially on the U.S. Gulf - Europe trade route.
+The changes in the European oil trades and their impact on the global tanker market have only just started. When the European ban on Russian seaborne crude oil imports goes into effect in December of this year, further changes will need to be made. Europe still imports almost 2.0 Mb/d of crude oil from Russia (down 20% from the 2.5 Mb/d in the 12 months prior to the conflict). Replacing this will need to come from longer-haul sources across the Atlantic, West Africa and the Middle East. The ton-mile demand generated by European imports increased by 32% as a result of replacing 500,000 b/d of Russian crude oil. Finding alternative sources of supply for another 2.0 Mb/d will provide another massive stimulus to ton-mile demand (and tanker rates).
+On top this European "stimulus", Russia will try to find alternative customers for its crude oil output, most likely in Asia (China and India in particular). This will also boost ton-mile demand. The tanker market is in for a wild ride.

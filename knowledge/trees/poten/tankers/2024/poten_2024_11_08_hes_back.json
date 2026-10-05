@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2024_11_08_hes_back__root",
+  "doc_id": "poten_tankers_no_date_poten_2024_11_08_hes_back",
+  "parent_id": null,
+  "title": "Hes Back!",
+  "section_path": [
+    "Hes Back!"
+  ],
+  "section_path_text": "Hes Back!",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "What to expect in President Trump's second term? If everything goes according to plan, Donald Trump will be inaugurated on January 20, 2025 as the 47 th President of the United States. After a remarkable comeback, the Republican nominee won a convincing victory in Tuesday's presidential election.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "europe",
+    "crude_oil",
+    "oil",
+    "u.s.",
+    "trump",
+    "crude",
+    "iranian",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 977,
+  "source_path": "reports/poten/2024/poten_2024-11-08_hes-back.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2024_11_08_hes_back__s01_what_to_expect_in_president_trump_s_second_term",
+      "doc_id": "poten_tankers_no_date_poten_2024_11_08_hes_back",
+      "parent_id": "poten_tankers_no_date_poten_2024_11_08_hes_back__root",
+      "title": "What to expect in President Trump's second term?",
+      "section_path": [
+        "What to expect in President Trump's second term?"
+      ],
+      "section_path_text": "What to expect in President Trump's second term?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "If everything goes according to plan, Donald Trump will be inaugurated on January 20, 2025 as the 47 th President of the United States. After a remarkable comeback, the Republican nominee won a convincing victory in Tuesday's presidential election.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "europe",
+        "crude_oil",
+        "oil",
+        "u.s."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 967,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2022_11_18_risky_business__root",
+  "doc_id": "poten_tankers_no_date_poten_2022_11_18_risky_business",
+  "parent_id": null,
+  "title": "Risky Business",
+  "section_path": [
+    "Risky Business"
+  ],
+  "section_path_text": "Risky Business",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Uncertainty remains as the December 5 deadline looms\nIn a little more than two weeks (on December 5, 2022), the EU will ban the seaborne imports of Russian crude oil, followed by a ban on petroleum product imports from February 5, 2023. As of these dates, the EU's 27 member countries, with a population of 447 million people, will no longer be allowed to purchase, import, or transfer crude oil and certain petroleum products from Russia to the EU. There are some exceptions, involving countries with no viable alternatives, but they are very limited and mostly temporary.",
+  "keywords": [
+    "europe",
+    "japan",
+    "crude_oil",
+    "products",
+    "russian",
+    "oil",
+    "are",
+    "ban",
+    "crude",
+    "insurance",
+    "russia",
+    "maritime"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 874,
+  "source_path": "reports/poten/2022/poten_2022-11-18_risky-business.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_11_18_risky_business__s01_uncertainty_remains_as_the_december_5_deadline_looms",
+      "doc_id": "poten_tankers_no_date_poten_2022_11_18_risky_business",
+      "parent_id": "poten_tankers_no_date_poten_2022_11_18_risky_business__root",
+      "title": "Uncertainty remains as the December 5 deadline looms",
+      "section_path": [
+        "Uncertainty remains as the December 5 deadline looms"
+      ],
+      "section_path_text": "Uncertainty remains as the December 5 deadline looms",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In a little more than two weeks (on December 5, 2022), the EU will ban the seaborne imports of Russian crude oil, followed by a ban on petroleum product imports from February 5, 2023. As of these dates, the EU's 27 member countries, with a population of 447 million people, will no longer be allowed to purchase, import, or transfer crude oil and certain petroleum products from Russia to the EU.",
+      "keywords": [
+        "europe",
+        "japan",
+        "crude_oil",
+        "products",
+        "russian",
+        "oil",
+        "are",
+        "ban"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 862,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

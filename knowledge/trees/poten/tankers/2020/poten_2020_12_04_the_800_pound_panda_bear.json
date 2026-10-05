@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2020_12_04_the_800_pound_panda_bear__root",
+  "doc_id": "poten_tankers_no_date_poten_2020_12_04_the_800_pound_panda_bear",
+  "parent_id": null,
+  "title": "The 800 Pound Panda Bear",
+  "section_path": [
+    "The 800 Pound Panda Bear"
+  ],
+  "section_path_text": "The 800 Pound Panda Bear",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "After the pandemic, China's dominance will continue to grow\nSince the early 2000s, China has been powering the growth in global shipping demand due to its sheer size and rapid development. The tanker, dry cargo and container market all benefited from China's need for transportation capacity. China was the driver behind the shipping super cycle of the early 2000's, which ended soon after the global financial crisis hit in 2008.",
+  "keywords": [
+    "container",
+    "china",
+    "brazil",
+    "australia",
+    "west_africa",
+    "europe",
+    "us_gulf",
+    "singapore",
+    "japan",
+    "crude_oil",
+    "products",
+    "gas"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 847,
+  "source_path": "reports/poten/2020/poten_2020-12-04_the-800-pound-panda-bear.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_12_04_the_800_pound_panda_bear__s01_after_the_pandemic_china_s_dominance_will_continue_to_grow",
+      "doc_id": "poten_tankers_no_date_poten_2020_12_04_the_800_pound_panda_bear",
+      "parent_id": "poten_tankers_no_date_poten_2020_12_04_the_800_pound_panda_bear__root",
+      "title": "After the pandemic, China's dominance will continue to grow",
+      "section_path": [
+        "After the pandemic, China's dominance will continue to grow"
+      ],
+      "section_path_text": "After the pandemic, China's dominance will continue to grow",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Since the early 2000s, China has been powering the growth in global shipping demand due to its sheer size and rapid development. The tanker, dry cargo and container market all benefited from China's need for transportation capacity.",
+      "keywords": [
+        "container",
+        "china",
+        "brazil",
+        "australia",
+        "west_africa",
+        "europe",
+        "us_gulf",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 835,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

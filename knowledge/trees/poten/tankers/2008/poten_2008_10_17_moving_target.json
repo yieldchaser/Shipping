@@ -1,0 +1,141 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_10_17_moving_target__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_10_17_moving_target",
+  "parent_id": null,
+  "title": "Moving Target",
+  "section_path": [
+    "Moving Target"
+  ],
+  "section_path_text": "Moving Target",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Moving Target\nIn an effort to head off a potential collapse in the oil market, the Organization of Petroleum Exporting Countries (OPEC) has moved their November meeting ahead to next week. The market has already begun to speculate that the general softening in crude oil prices means a cut in production is afoot. Meanwhile, future demand picture for crude oil remains clouded by the uncertainty of economic recession in key consuming markets - particularly the United States.",
+  "keywords": [
+    "europe",
+    "crude_oil",
+    "opec",
+    "oil",
+    "cut",
+    "production",
+    "crude",
+    "demand",
+    "q08",
+    "barrels",
+    "countries",
+    "impact"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 473,
+  "source_path": "reports/poten/2008/poten_2008-10-17_moving-target.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_10_17_moving_target__s01_moving_target",
+      "doc_id": "poten_tankers_no_date_poten_2008_10_17_moving_target",
+      "parent_id": "poten_tankers_no_date_poten_2008_10_17_moving_target__root",
+      "title": "Moving Target",
+      "section_path": [
+        "Moving Target"
+      ],
+      "section_path_text": "Moving Target",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In an effort to head off a potential collapse in the oil market, the Organization of Petroleum Exporting Countries (OPEC) has moved their November meeting ahead to next week. The market has already begun to speculate that the general softening in crude oil prices means a cut in production is afoot.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "crude",
+        "production",
+        "countries",
+        "opec",
+        "afoot.",
+        "ahead"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 150,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_10_17_moving_target__s02_finding_balance",
+      "doc_id": "poten_tankers_no_date_poten_2008_10_17_moving_target",
+      "parent_id": "poten_tankers_no_date_poten_2008_10_17_moving_target__root",
+      "title": "Finding Balance",
+      "section_path": [
+        "Finding Balance"
+      ],
+      "section_path_text": "Finding Balance",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "OPEC countries are attempting to achieve the highest price yielded in the marketplace without destroying demand. Quite recently demand for crude oil has slackened in prime consuming regions such as the United States and Europe signaling prices were unsustainable to consumers.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "opec",
+        "demand",
+        "outlook",
+        "recently",
+        "september",
+        "achieve"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 121,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_10_17_moving_target__s03_million_barrels_per_day",
+      "doc_id": "poten_tankers_no_date_poten_2008_10_17_moving_target",
+      "parent_id": "poten_tankers_no_date_poten_2008_10_17_moving_target__root",
+      "title": "Million Barrels Per Day",
+      "section_path": [
+        "Million Barrels Per Day"
+      ],
+      "section_path_text": "Million Barrels Per Day",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "1Q08 2Q08 3Q08 4Q08 Full Year 2008",
+      "keywords": [
+        "q08",
+        "full",
+        "year"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 20,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_10_17_moving_target__s04_outlook_in_sep_07",
+      "doc_id": "poten_tankers_no_date_poten_2008_10_17_moving_target",
+      "parent_id": "poten_tankers_no_date_poten_2008_10_17_moving_target__root",
+      "title": "Outlook in Sep-07",
+      "section_path": [
+        "Outlook in Sep-07"
+      ],
+      "section_path_text": "Outlook in Sep-07",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "As high oil prices have begun to impact demand worldwide, consumers have reacted by changing behavior, if only temporarily. Many observers speculate that OPEC may cut production next week - even up to as much as 2 million barrels per day!",
+      "keywords": [
+        "crude_oil",
+        "cut",
+        "opec",
+        "oil",
+        "behavior",
+        "consumer",
+        "demand",
+        "impact"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 161,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2004_11_24_happy_thanksgiving__root",
+  "doc_id": "poten_tankers_no_date_poten_2004_11_24_happy_thanksgiving",
+  "parent_id": null,
+  "title": "Happy Thanksgiving!",
+  "section_path": [
+    "Happy Thanksgiving!"
+  ],
+  "section_path_text": "Happy Thanksgiving!",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "It's a nice tradition to take a day off with the intent of counting all that we should be thankful for. This year, as clearly shown below in freight rates and tanker stock prices we can be thankful for:\n\nLazard Equity Index\nA record-breaking tanker market with rates at all time highs. A strong year for the downstream side of the oil business with a goodly spread between the prices of refined products and crude oil costs.",
+  "keywords": [
+    "china",
+    "india",
+    "crude_oil",
+    "products",
+    "oil",
+    "prices",
+    "all",
+    "business",
+    "crude",
+    "should",
+    "side",
+    "stock"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 171,
+  "source_path": "reports/poten/2004/poten_2004-11-24_happy-thanksgiving.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_11_24_happy_thanksgiving__s01_happy_thanksgiving",
+      "doc_id": "poten_tankers_no_date_poten_2004_11_24_happy_thanksgiving",
+      "parent_id": "poten_tankers_no_date_poten_2004_11_24_happy_thanksgiving__root",
+      "title": "Happy Thanksgiving!",
+      "section_path": [
+        "Happy Thanksgiving!"
+      ],
+      "section_path_text": "Happy Thanksgiving!",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "It's a nice tradition to take a day off with the intent of counting all that we should be thankful for. This year, as clearly shown below in freight rates and tanker stock prices we can be thankful for:",
+      "keywords": [
+        "thankful",
+        "all",
+        "below",
+        "can",
+        "clearly",
+        "counting",
+        "day",
+        "for."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 43,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_11_24_happy_thanksgiving__s02_lazard_equity_index",
+      "doc_id": "poten_tankers_no_date_poten_2004_11_24_happy_thanksgiving",
+      "parent_id": "poten_tankers_no_date_poten_2004_11_24_happy_thanksgiving__root",
+      "title": "Lazard Equity Index",
+      "section_path": [
+        "Lazard Equity Index"
+      ],
+      "section_path_text": "Lazard Equity Index",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "A record-breaking tanker market with rates at all time highs. A strong year for the downstream side of the oil business with a goodly spread between the prices of refined products and crude oil costs.",
+      "keywords": [
+        "china",
+        "india",
+        "crude_oil",
+        "products",
+        "oil",
+        "prices",
+        "all",
+        "business"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 120,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

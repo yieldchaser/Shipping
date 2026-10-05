@@ -1,0 +1,186 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_08_26_india_comes_clean__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_08_26_india_comes_clean",
+  "parent_id": null,
+  "title": "India Comes Clean",
+  "section_path": [
+    "India Comes Clean"
+  ],
+  "section_path_text": "India Comes Clean",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "India Comes Clean\nThe opening of new refineries, and capacity additions at older refineries, has made India a net exporter of clean products; they were net importers as recently as 2003. Product tanker markets have benefited from this buildup as increased exports have helped to improve ton-mile demand for product tankers both discharging and loading in South Asia. Below is an historical analysis of India's refining capacity.",
+  "keywords": [
+    "meg",
+    "europe",
+    "india",
+    "singapore",
+    "products",
+    "gas",
+    "clean",
+    "demand",
+    "exports",
+    "barrels",
+    "net",
+    "per"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 843,
+  "source_path": "reports/poten/2005/poten_2005-08-26_india-comes-clean.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_08_26_india_comes_clean__s01_india_comes_clean",
+      "doc_id": "poten_tankers_no_date_poten_2005_08_26_india_comes_clean",
+      "parent_id": "poten_tankers_no_date_poten_2005_08_26_india_comes_clean__root",
+      "title": "India Comes Clean",
+      "section_path": [
+        "India Comes Clean"
+      ],
+      "section_path_text": "India Comes Clean",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The opening of new refineries, and capacity additions at older refineries, has made India a net exporter of clean products; they were net importers as recently as 2003. Product tanker markets have benefited from this buildup as increased exports have helped to improve ton-mile demand for product tankers both discharging and loading in South Asia.",
+      "keywords": [
+        "india",
+        "products",
+        "refineries",
+        "capacity",
+        "increased",
+        "net",
+        "new",
+        "older"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 117,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_08_26_india_comes_clean__s02_exports",
+      "doc_id": "poten_tankers_no_date_poten_2005_08_26_india_comes_clean",
+      "parent_id": "poten_tankers_no_date_poten_2005_08_26_india_comes_clean__root",
+      "title": "Exports",
+      "section_path": [
+        "Exports"
+      ],
+      "section_path_text": "Exports",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Export volumes of clean products via the spot market have nearly tripled over the last five years, from a very minor 43,000 barrels per day in 2000 to about 110,000 thus far in 2005. Refinery expansions at Koyali, Mangalore, Mumbai, and Visakh, and most importantly the opening of the Jamnagar refinery, added more than 850,000 barrels per day to national refining capacity since 1999.",
+      "keywords": [
+        "europe",
+        "india",
+        "singapore",
+        "products",
+        "barrels",
+        "day",
+        "far",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 211,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_08_26_india_comes_clean__s03_bbl_d",
+      "doc_id": "poten_tankers_no_date_poten_2005_08_26_india_comes_clean",
+      "parent_id": "poten_tankers_no_date_poten_2005_08_26_india_comes_clean__root",
+      "title": "bbl/d",
+      "section_path": [
+        "bbl/d"
+      ],
+      "section_path_text": "bbl/d",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "2000 2001 2002 2003 2004 YTD 2005",
+      "keywords": [
+        "ytd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 19,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_08_26_india_comes_clean__s04_imports",
+      "doc_id": "poten_tankers_no_date_poten_2005_08_26_india_comes_clean",
+      "parent_id": "poten_tankers_no_date_poten_2005_08_26_india_comes_clean__root",
+      "title": "Imports",
+      "section_path": [
+        "Imports"
+      ],
+      "section_path_text": "Imports",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "From 2000 to 2004 spot clean import volumes fell by nearly 60%, as refinery capacity additions meant that India was able to meet its own internal needs. The major source for these declining imports has been the Arabian Gulf, having accounted for 85% of Indian clean spot imports in 2004.",
+      "keywords": [
+        "meg",
+        "europe",
+        "india",
+        "gas",
+        "imports",
+        "clean",
+        "exports",
+        "nearly"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 259,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_08_26_india_comes_clean__s05_million_ton_miles",
+      "doc_id": "poten_tankers_no_date_poten_2005_08_26_india_comes_clean",
+      "parent_id": "poten_tankers_no_date_poten_2005_08_26_india_comes_clean__root",
+      "title": "Million Ton-Miles",
+      "section_path": [
+        "Million Ton-Miles"
+      ],
+      "section_path_text": "Million Ton-Miles",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "2000 2001 2002 2003 2004 2005e",
+      "keywords": [],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 18,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_08_26_india_comes_clean__s06_exports",
+      "doc_id": "poten_tankers_no_date_poten_2005_08_26_india_comes_clean",
+      "parent_id": "poten_tankers_no_date_poten_2005_08_26_india_comes_clean__root",
+      "title": "Exports",
+      "section_path": [
+        "Exports"
+      ],
+      "section_path_text": "Exports",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Imports Since 2000 ton-mile demand for clean cargoes moving both into and out of India on spot tonnage has exceeded 40 billion ton-miles every year, and shows no signs of slowing down any time soon: ton-mile demand for tankers moving clean cargoes into and out of India should remain high for at least the next several years. Conclusion India's refinery situation has made the country a net exporter of clean products when price levels for these products are at or approaching all-time highs.",
+      "keywords": [
+        "india",
+        "products",
+        "clean",
+        "demand",
+        "product",
+        "are",
+        "cargoes",
+        "every"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 197,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

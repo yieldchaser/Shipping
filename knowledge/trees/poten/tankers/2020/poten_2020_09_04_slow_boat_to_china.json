@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2020_09_04_slow_boat_to_china__root",
+  "doc_id": "poten_tankers_no_date_poten_2020_09_04_slow_boat_to_china",
+  "parent_id": null,
+  "title": "Slow Boat To China",
+  "section_path": [
+    "Slow Boat To China"
+  ],
+  "section_path_text": "Slow Boat To China",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "picked up in recent months\nMovements of U.S. crude oil to China have been volatile over the last 3-4 years. Chinese crude oil imports from the U.S.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "meg",
+    "europe",
+    "crude_oil",
+    "products",
+    "u.s.",
+    "crude",
+    "oil",
+    "trade",
+    "imports",
+    "was"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 922,
+  "source_path": "reports/poten/2020/poten_2020-09-04_slow-boat-to-china.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2020_09_04_slow_boat_to_china__s01_chinese_imports_from_the_u_s_picked_up_in_recent_months",
+      "doc_id": "poten_tankers_no_date_poten_2020_09_04_slow_boat_to_china",
+      "parent_id": "poten_tankers_no_date_poten_2020_09_04_slow_boat_to_china__root",
+      "title": "Chinese imports from the U.S. picked up in recent months",
+      "section_path": [
+        "Chinese imports from the U.S. picked up in recent months"
+      ],
+      "section_path_text": "Chinese imports from the U.S. picked up in recent months",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "crude oil to China have been volatile over the last 3-4 years. Chinese crude oil imports from the U.S.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "meg",
+        "europe",
+        "crude_oil",
+        "products",
+        "u.s.",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 909,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

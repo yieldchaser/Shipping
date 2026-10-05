@@ -1,0 +1,219 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_02_25_crude_inventories_friend_or_foe_to_tankers__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_02_25_crude_inventories_friend_or_foe_to_tankers",
+  "parent_id": null,
+  "title": "Crude Inventories - Friend or Foe to Tankers?",
+  "section_path": [
+    "Crude Inventories - Friend or Foe to Tankers?"
+  ],
+  "section_path_text": "Crude Inventories - Friend or Foe to Tankers?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Crude Inventories - Friend or Foe to Tankers? The most recent OPEC Monthly Oil Market Report (www.opec.org) listing of world oil inventories shows an uptrend, but does this presage a potential cutback in tanker cargoes if there is a return to \"normalcy,\" given relatively flat oil consumption in Western Europe and OECD Pacific regions and marked increases in North American consumption? There are two general types of inventory- inventory held by commercial interests and government sponsored Strategic Petroleum Reserves.",
+  "keywords": [
+    "china",
+    "australia",
+    "pacific",
+    "europe",
+    "japan",
+    "crude_oil",
+    "products",
+    "oil",
+    "inventories",
+    "days",
+    "consumption",
+    "north"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 911,
+  "source_path": "reports/poten/2005/poten_2005-02-25_crude-inventories-friend-or-foe-to-tankers.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_02_25_crude_inventories_friend_or_foe_to_tankers__s01_crude_inventories_friend_or_foe_to_tankers",
+      "doc_id": "poten_tankers_no_date_poten_2005_02_25_crude_inventories_friend_or_foe_to_tankers",
+      "parent_id": "poten_tankers_no_date_poten_2005_02_25_crude_inventories_friend_or_foe_to_tankers__root",
+      "title": "Crude Inventories - Friend or Foe to Tankers?",
+      "section_path": [
+        "Crude Inventories - Friend or Foe to Tankers?"
+      ],
+      "section_path_text": "Crude Inventories - Friend or Foe to Tankers?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The most recent OPEC Monthly Oil Market Report (www.opec.org) listing of world oil inventories shows an uptrend, but does this presage a potential cutback in tanker cargoes if there is a return to \"normalcy,\" given relatively flat oil consumption in Western Europe and OECD Pacific regions and marked increases in North American consumption? There are two general types of inventory- inventory held by commercial interests and government sponsored Strategic Petroleum Reserves.",
+      "keywords": [
+        "pacific",
+        "europe",
+        "crude_oil",
+        "products",
+        "oil",
+        "are",
+        "inventories",
+        "commercial"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 133,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_02_25_crude_inventories_friend_or_foe_to_tankers__s02_north_america",
+      "doc_id": "poten_tankers_no_date_poten_2005_02_25_crude_inventories_friend_or_foe_to_tankers",
+      "parent_id": "poten_tankers_no_date_poten_2005_02_25_crude_inventories_friend_or_foe_to_tankers__root",
+      "title": "North America",
+      "section_path": [
+        "North America"
+      ],
+      "section_path_text": "North America",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Western Europe OECD Pacific A closer scrutiny of the data shows that North America commercial inventory has remained fairly flat with little change between 1997 and 2004. Oil inventories in Western Europe increased by just under 30 million barrels since 1997, which was compensated by a nearly equal decline in inventories in OECD Pacific (Japan, Korea, Australia, and New Zealand).",
+      "keywords": [
+        "australia",
+        "pacific",
+        "europe",
+        "japan",
+        "crude_oil",
+        "inventories",
+        "oecd",
+        "western"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 149,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_02_25_crude_inventories_friend_or_foe_to_tankers__s03_world_oil_inventories",
+      "doc_id": "poten_tankers_no_date_poten_2005_02_25_crude_inventories_friend_or_foe_to_tankers",
+      "parent_id": "poten_tankers_no_date_poten_2005_02_25_crude_inventories_friend_or_foe_to_tankers__root",
+      "title": "World Oil Inventories",
+      "section_path": [
+        "World Oil Inventories"
+      ],
+      "section_path_text": "World Oil Inventories",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "commercial",
+        "land"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_02_25_crude_inventories_friend_or_foe_to_tankers__s04_oecd_pacific_days",
+      "doc_id": "poten_tankers_no_date_poten_2005_02_25_crude_inventories_friend_or_foe_to_tankers",
+      "parent_id": "poten_tankers_no_date_poten_2005_02_25_crude_inventories_friend_or_foe_to_tankers__root",
+      "title": "OECD Pacific Days",
+      "section_path": [
+        "OECD Pacific Days"
+      ],
+      "section_path_text": "OECD Pacific Days",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Western Europe Days North America Days OECD Pacific Inv Western Europe Inv North America Inv While oil companies have been keeping inventories fairly level, SPRs have been growing. The SPR in North America (United States) has increased by 110 million barrels since 1997; Western Europe has increased by 35 million barrels, as has OECD Pacific (Japan).",
+      "keywords": [
+        "pacific",
+        "europe",
+        "japan",
+        "crude_oil",
+        "days",
+        "america",
+        "consumption",
+        "million"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 194,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_02_25_crude_inventories_friend_or_foe_to_tankers__s05_world_oil_inventories",
+      "doc_id": "poten_tankers_no_date_poten_2005_02_25_crude_inventories_friend_or_foe_to_tankers",
+      "parent_id": "poten_tankers_no_date_poten_2005_02_25_crude_inventories_friend_or_foe_to_tankers__root",
+      "title": "World Oil Inventories",
+      "section_path": [
+        "World Oil Inventories"
+      ],
+      "section_path_text": "World Oil Inventories",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "",
+      "keywords": [
+        "petroleum",
+        "reserves",
+        "strategic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_02_25_crude_inventories_friend_or_foe_to_tankers__s06_oecd_pacific_days",
+      "doc_id": "poten_tankers_no_date_poten_2005_02_25_crude_inventories_friend_or_foe_to_tankers",
+      "parent_id": "poten_tankers_no_date_poten_2005_02_25_crude_inventories_friend_or_foe_to_tankers__root",
+      "title": "OECD Pacific Days",
+      "section_path": [
+        "OECD Pacific Days"
+      ],
+      "section_path_text": "OECD Pacific Days",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Western Europe Days North America Days OECD Pacific Inv Western Europe Inv North America Inv Inventories cover uncertainties. For oil companies, the chief uncertainty is associated with demand whereas governments' focus on uncertainty is associated with supply.",
+      "keywords": [
+        "pacific",
+        "europe",
+        "crude_oil",
+        "oil",
+        "companies",
+        "uncertainty",
+        "america",
+        "governments"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 143,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_02_25_crude_inventories_friend_or_foe_to_tankers__s07_days_of_inventory",
+      "doc_id": "poten_tankers_no_date_poten_2005_02_25_crude_inventories_friend_or_foe_to_tankers",
+      "parent_id": "poten_tankers_no_date_poten_2005_02_25_crude_inventories_friend_or_foe_to_tankers__root",
+      "title": "Days of Inventory",
+      "section_path": [
+        "Days of Inventory"
+      ],
+      "section_path_text": "Days of Inventory",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Inv On Land Inv On the Water Total land inventories have climbed 160 million barrels since 1997 plus another 80 million barrels increase in floating inventory, which of course reflects a greater volume of global oil flows. The overall impact has been a reduction in total inventories from 83 days of consumption to 80 days of consumption since 1997.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "inventories",
+        "consumption",
+        "oil",
+        "days",
+        "barrels",
+        "commercial"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 242,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

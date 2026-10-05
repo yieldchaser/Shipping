@@ -81,11 +81,11 @@ numeric_observations:
   - 10.0
   - 20.0
   - 180.0
-  - 6900.0
+  - 6.9
   - 235.0
   - 280.0
-  - 25500.0
-  - 24750.0
+  - 25.5
+  - 24.75
 - section: BALTIC TCE DIRTY
   section_type: null
   source_line: .7 Good Mn and Hope, USD but4newer
@@ -175,9 +175,9 @@ numeric_observations:
   source_line: 10.2 9.6 10.5
   unit: null
   values:
-  - 10200.0
-  - 9600.0
-  - 10500.0
+  - 10.2
+  - 9.6
+  - 10.5
 - section: Qty $ / Day W-O-W
   section_type: null
   source_line: 270,000 656,168 ↑Firmer 80,000 104,311 ↑Firmer 260,000 177,492 ↓Softer

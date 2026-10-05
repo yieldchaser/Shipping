@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2015_06_05_are_tankers_going_the_distance__root",
+  "doc_id": "poten_tankers_no_date_poten_2015_06_05_are_tankers_going_the_distance",
+  "parent_id": null,
+  "title": "Are Tankers Going The Distance",
+  "section_path": [
+    "Are Tankers Going The Distance"
+  ],
+  "section_path_text": "Are Tankers Going The Distance",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "What is happening to the average voyage length of crude\noil tankers? Tanker market pundits are continuously discussing the reasons for the strength of the market, especially since the world is experiencing only modest demand growth. What are the key drivers for the significant increases in rates?",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "meg",
+    "west_africa",
+    "europe",
+    "india",
+    "crude_oil",
+    "average",
+    "are",
+    "distances",
+    "data"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 898,
+  "source_path": "reports/poten/2015/poten_2015-06-05_are-tankers-going-the-distance.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2015_06_05_are_tankers_going_the_distance__s01_what_is_happening_to_the_average_voyage_length_of_crude",
+      "doc_id": "poten_tankers_no_date_poten_2015_06_05_are_tankers_going_the_distance",
+      "parent_id": "poten_tankers_no_date_poten_2015_06_05_are_tankers_going_the_distance__root",
+      "title": "What is happening to the average voyage length of crude",
+      "section_path": [
+        "What is happening to the average voyage length of crude"
+      ],
+      "section_path_text": "What is happening to the average voyage length of crude",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Tanker market pundits are continuously discussing the reasons for the strength of the market, especially since the world is experiencing only modest demand growth. What are the key drivers for the significant increases in rates?",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "meg",
+        "west_africa",
+        "europe",
+        "india",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 887,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

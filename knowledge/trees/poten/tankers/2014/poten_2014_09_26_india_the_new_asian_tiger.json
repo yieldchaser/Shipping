@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2014_09_26_india_the_new_asian_tiger__root",
+  "doc_id": "poten_tankers_no_date_poten_2014_09_26_india_the_new_asian_tiger",
+  "parent_id": null,
+  "title": "INDIA, THE NEW ASIAN TIGER",
+  "section_path": [
+    "INDIA, THE NEW ASIAN TIGER"
+  ],
+  "section_path_text": "INDIA, THE NEW ASIAN TIGER",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "India is destined to become a more significant driver of\nthe tanker market With an estimated 1,267,400,000 people, India has the second largest population in the world after China. However, India's population is relatively younger with a median age of 26.6 years (versus 35.7 years in China) and is growing at a faster pace. Based on current population characteristics and trends such as life expectancy and fertility rate, India's population is expected to surpass China's before 2030.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "india",
+    "crude_oil",
+    "products",
+    "oil",
+    "crude",
+    "population",
+    "significant",
+    "demand",
+    "product",
+    "years"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 599,
+  "source_path": "reports/poten/2014/poten_2014-09-26_india-the-new-asian-tiger.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_09_26_india_the_new_asian_tiger__s01_india_is_destined_to_become_a_more_significant_driver_of",
+      "doc_id": "poten_tankers_no_date_poten_2014_09_26_india_the_new_asian_tiger",
+      "parent_id": "poten_tankers_no_date_poten_2014_09_26_india_the_new_asian_tiger__root",
+      "title": "India is destined to become a more significant driver of",
+      "section_path": [
+        "India is destined to become a more significant driver of"
+      ],
+      "section_path_text": "India is destined to become a more significant driver of",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "the tanker market With an estimated 1,267,400,000 people, India has the second largest population in the world after China. However, India's population is relatively younger with a median age of 26.6 years (versus 35.7 years in China) and is growing at a faster pace.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "india",
+        "crude_oil",
+        "products",
+        "oil",
+        "crude",
+        "population"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 588,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2023_08_04_nigerias_refining_revival__root",
+  "doc_id": "poten_tankers_no_date_poten_2023_08_04_nigerias_refining_revival",
+  "parent_id": null,
+  "title": "Nigerias Refining Revival",
+  "section_path": [
+    "Nigerias Refining Revival"
+  ],
+  "section_path_text": "Nigerias Refining Revival",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Startup of Dangote will reshape West African trade flows\nAbout 2 weeks ago, it was reported that the Nigerian Dangote refinery would start selling petroleum products by the end of July or the beginning of August. While this timeline may have been overly ambitious, the eventual startup of this facility will transform the markets in West Africa. Once the refinery is completely operational, it will be one of the largest refineries in the world, with a processing capacity of 650 thousand barrel per day (Kb/d).",
+  "keywords": [
+    "lpg",
+    "west_africa",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "gas",
+    "west",
+    "dangote",
+    "crude",
+    "kb/d",
+    "imports"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 831,
+  "source_path": "reports/poten/2023/poten_2023-08-04_nigerias-refining-revival.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2023_08_04_nigerias_refining_revival__s01_startup_of_dangote_will_reshape_west_african_trade_flows",
+      "doc_id": "poten_tankers_no_date_poten_2023_08_04_nigerias_refining_revival",
+      "parent_id": "poten_tankers_no_date_poten_2023_08_04_nigerias_refining_revival__root",
+      "title": "Startup of Dangote will reshape West African trade flows",
+      "section_path": [
+        "Startup of Dangote will reshape West African trade flows"
+      ],
+      "section_path_text": "Startup of Dangote will reshape West African trade flows",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "About 2 weeks ago, it was reported that the Nigerian Dangote refinery would start selling petroleum products by the end of July or the beginning of August. While this timeline may have been overly ambitious, the eventual startup of this facility will transform the markets in West Africa.",
+      "keywords": [
+        "lpg",
+        "west_africa",
+        "europe",
+        "india",
+        "crude_oil",
+        "products",
+        "gas",
+        "west"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 819,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

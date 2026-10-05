@@ -1,0 +1,167 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_04_25_starving_for_fuel__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_04_25_starving_for_fuel",
+  "parent_id": null,
+  "title": "Starving for Fuel",
+  "section_path": [
+    "Starving for Fuel"
+  ],
+  "section_path_text": "Starving for Fuel",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Blaming a product for a price spike or supply shortage in its associated markets in order to undermine its popular appeal seems to be a common technique employed by its detractors. Take for instance the recent clamor that the rapidly escalating production of so-called renewable biofuels is, in part, responsible for the recent steep rise in global food prices for the world's population. While the chart below seems to suggest a clear correlation - at least in the US - between increased corn-based ethanol production and the rising price of corn, it is also possible that other factors might have contributed to corn's recent price rise.",
+  "keywords": [
+    "grain",
+    "gas",
+    "biofuels",
+    "its",
+    "price",
+    "biofuel",
+    "not",
+    "production",
+    "corn",
+    "fuels",
+    "blame",
+    "ethanol"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 552,
+  "source_path": "reports/poten/2008/poten_2008-04-25_starving-for-fuel.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_04_25_starving_for_fuel__s01_starving_for_fuel",
+      "doc_id": "poten_tankers_no_date_poten_2008_04_25_starving_for_fuel",
+      "parent_id": "poten_tankers_no_date_poten_2008_04_25_starving_for_fuel__root",
+      "title": "Starving for Fuel",
+      "section_path": [
+        "Starving for Fuel"
+      ],
+      "section_path_text": "Starving for Fuel",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Blaming a product for a price spike or supply shortage in its associated markets in order to undermine its popular appeal seems to be a common technique employed by its detractors. Take for instance the recent clamor that the rapidly escalating production of so-called renewable biofuels is, in part, responsible for the recent steep rise in global food prices for the world's population.",
+      "keywords": [
+        "grain",
+        "blame",
+        "its",
+        "price",
+        "recent",
+        "corn",
+        "production",
+        "seems"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 130,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_04_25_starving_for_fuel__s02_monthly_average_corn_price",
+      "doc_id": "poten_tankers_no_date_poten_2008_04_25_starving_for_fuel",
+      "parent_id": "poten_tankers_no_date_poten_2008_04_25_starving_for_fuel__root",
+      "title": "Monthly Average Corn Price",
+      "section_path": [
+        "Monthly Average Corn Price"
+      ],
+      "section_path_text": "Monthly Average Corn Price",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "from Jan 1999 thru Mar 2008",
+      "keywords": [
+        "jan",
+        "mar",
+        "thru"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 10,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_04_25_starving_for_fuel__s03_us_corn_price_bushel",
+      "doc_id": "poten_tankers_no_date_poten_2008_04_25_starving_for_fuel",
+      "parent_id": "poten_tankers_no_date_poten_2008_04_25_starving_for_fuel__root",
+      "title": "US Corn Price, $/bushel",
+      "section_path": [
+        "US Corn Price, $/bushel"
+      ],
+      "section_path_text": "US Corn Price, $/bushel",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Average Daily US Ethanol Production, barrel/day Estimated Daily US Ethanol Production, barrel/day",
+      "keywords": [
+        "barrel/day",
+        "daily",
+        "ethanol",
+        "production",
+        "average",
+        "estimated"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 18,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_04_25_starving_for_fuel__s04_truth_in_advertising",
+      "doc_id": "poten_tankers_no_date_poten_2008_04_25_starving_for_fuel",
+      "parent_id": "poten_tankers_no_date_poten_2008_04_25_starving_for_fuel__root",
+      "title": "Truth in Advertising",
+      "section_path": [
+        "Truth in Advertising"
+      ],
+      "section_path_text": "Truth in Advertising",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Biofuel proponents claim that these fuels are renewable and environmentally-friendly. Maybe biofuels actually do embody these faddish marketing slogans, but until a rigorous, independent scientific and engineering audit of each biofuel's complete manufacturing process envelope is made, these claims will not be properly validated.",
+      "keywords": [
+        "gas",
+        "biofuel",
+        "not",
+        "biofuels",
+        "fuels",
+        "impact",
+        "its",
+        "until"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 239,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_04_25_starving_for_fuel__s05_another_inconvenient_truth",
+      "doc_id": "poten_tankers_no_date_poten_2008_04_25_starving_for_fuel",
+      "parent_id": "poten_tankers_no_date_poten_2008_04_25_starving_for_fuel__root",
+      "title": "Another Inconvenient Truth",
+      "section_path": [
+        "Another Inconvenient Truth"
+      ],
+      "section_path_text": "Another Inconvenient Truth",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "With Governments world-wide mandating an expanding use of biofuels, more of these fuels seem destined to be carried by ocean tankers from producing to consuming areas. Contrasting this outlook for expanding sea borne trade is one that sees the growing perception of biofuels' detrimental environmental and economic consequences crimping their production.",
+      "keywords": [
+        "biofuels",
+        "any",
+        "expanding",
+        "trade",
+        "adequate",
+        "alert",
+        "anticipated",
+        "areas."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 123,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

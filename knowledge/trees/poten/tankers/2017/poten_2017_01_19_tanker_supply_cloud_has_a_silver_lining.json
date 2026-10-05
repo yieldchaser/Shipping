@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2017_01_19_tanker_supply_cloud_has_a_silver_lining__root",
+  "doc_id": "poten_tankers_no_date_poten_2017_01_19_tanker_supply_cloud_has_a_silver_lining",
+  "parent_id": null,
+  "title": "Tanker Supply Cloud Has A Silver Lining",
+  "section_path": [
+    "Tanker Supply Cloud Has A Silver Lining"
+  ],
+  "section_path_text": "Tanker Supply Cloud Has A Silver Lining",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The orderbook may not be as scary as it looks\nWe recently updated the age profile statistics for the tanker fleet. The situation as of January 1, 2017 is shown in Figure 1. At first glance, this is not a pretty picture.",
+  "keywords": [
+    "panamax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "brazil",
+    "crude_oil",
+    "deliveries",
+    "are",
+    "delivery",
+    "orderbook",
+    "mdwt"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1014,
+  "source_path": "reports/poten/2017/poten_2017-01-19_tanker-supply-cloud-has-a-silver-lining.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2017_01_19_tanker_supply_cloud_has_a_silver_lining__s01_the_orderbook_may_not_be_as_scary_as_it_looks",
+      "doc_id": "poten_tankers_no_date_poten_2017_01_19_tanker_supply_cloud_has_a_silver_lining",
+      "parent_id": "poten_tankers_no_date_poten_2017_01_19_tanker_supply_cloud_has_a_silver_lining__root",
+      "title": "The orderbook may not be as scary as it looks",
+      "section_path": [
+        "The orderbook may not be as scary as it looks"
+      ],
+      "section_path_text": "The orderbook may not be as scary as it looks",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "We recently updated the age profile statistics for the tanker fleet. The situation as of January 1, 2017 is shown in Figure 1.",
+      "keywords": [
+        "panamax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "brazil",
+        "crude_oil",
+        "deliveries"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1002,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

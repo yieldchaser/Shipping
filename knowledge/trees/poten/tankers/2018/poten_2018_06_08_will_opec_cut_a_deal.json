@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2018_06_08_will_opec_cut_a_deal__root",
+  "doc_id": "poten_tankers_no_date_poten_2018_06_08_will_opec_cut_a_deal",
+  "parent_id": null,
+  "title": "Will OPEC Cut A Deal",
+  "section_path": [
+    "Will OPEC Cut A Deal"
+  ],
+  "section_path_text": "Will OPEC Cut A Deal",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The tanker market is hoping for production increases\nSome OPEC meetings are more important than others and the one coming up on June 22 is shaping up to be one of the more significant gatherings of the group of oil exporting countries as they will discuss whether to maintain their production cuts or increase production. Since the current production restrictions went into effect in January 2017, oil prices have increased from $55 to $80 per barrel for Brent. Commercial inventories in the United States have come down 100 million barrels from a peak of 534 million in April 2017 to around 436 million barrels in the first week of June 2018.",
+  "keywords": [
+    "crude_oil",
+    "opec",
+    "oil",
+    "production",
+    "prices",
+    "are",
+    "exports",
+    "u.s.",
+    "countries",
+    "cuts",
+    "increase",
+    "may"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 834,
+  "source_path": "reports/poten/2018/poten_2018-06-08_will-opec-cut-a-deal.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_06_08_will_opec_cut_a_deal__s01_the_tanker_market_is_hoping_for_production_increases",
+      "doc_id": "poten_tankers_no_date_poten_2018_06_08_will_opec_cut_a_deal",
+      "parent_id": "poten_tankers_no_date_poten_2018_06_08_will_opec_cut_a_deal__root",
+      "title": "The tanker market is hoping for production increases",
+      "section_path": [
+        "The tanker market is hoping for production increases"
+      ],
+      "section_path_text": "The tanker market is hoping for production increases",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Some OPEC meetings are more important than others and the one coming up on June 22 is shaping up to be one of the more significant gatherings of the group of oil exporting countries as they will discuss whether to maintain their production cuts or increase production. Since the current production restrictions went into effect in January 2017, oil prices have increased from $55 to $80 per barrel for Brent.",
+      "keywords": [
+        "crude_oil",
+        "opec",
+        "oil",
+        "production",
+        "countries",
+        "exports",
+        "increase",
+        "prices"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 576,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_06_08_will_opec_cut_a_deal__s02_what_are_some_possible_scenarios_for_the_tanker_market",
+      "doc_id": "poten_tankers_no_date_poten_2018_06_08_will_opec_cut_a_deal",
+      "parent_id": "poten_tankers_no_date_poten_2018_06_08_will_opec_cut_a_deal__root",
+      "title": "What are some possible scenarios for the tanker market?",
+      "section_path": [
+        "What are some possible scenarios for the tanker market?"
+      ],
+      "section_path_text": "What are some possible scenarios for the tanker market?",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The worst case would be a decision later this month to do nothing, i.e. This will lead to rising prices as problems in Venezuela continue to mount and many Iranian buyers gradually start to reduce their purchases to avoid U.S.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "demand",
+        "iranian",
+        "prices",
+        "production",
+        "rising",
+        "u.s."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 239,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

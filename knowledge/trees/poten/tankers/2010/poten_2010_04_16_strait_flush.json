@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_04_16_strait_flush__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_04_16_strait_flush",
+  "parent_id": null,
+  "title": "Strait Flush",
+  "section_path": [
+    "Strait Flush"
+  ],
+  "section_path_text": "Strait Flush",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Strait Flush\nAs a bunkering port near the Arabian Gulf, Fujairah already plays an important role in international tanker markets. It has long served an anchorage point for ships awaiting nomination for cargoes in the Arabian Gulf, but coming years are likely to see Fujairah's role expand. The United Arab Emirates (UAE) is attempting to utilize Fujairah's strategic location in a development plan it hopes will enhance the emirate's status as a maritime hub rivaling Rotterdam and Singapore.",
+  "keywords": [
+    "china",
+    "meg",
+    "europe",
+    "singapore",
+    "crude_oil",
+    "fujairah",
+    "oil",
+    "pipeline",
+    "port",
+    "are",
+    "crude",
+    "uae"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 820,
+  "source_path": "reports/poten/2010/poten_2010-04-16_strait-flush.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_04_16_strait_flush__s01_strait_flush",
+      "doc_id": "poten_tankers_no_date_poten_2010_04_16_strait_flush",
+      "parent_id": "poten_tankers_no_date_poten_2010_04_16_strait_flush__root",
+      "title": "Strait Flush",
+      "section_path": [
+        "Strait Flush"
+      ],
+      "section_path_text": "Strait Flush",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As a bunkering port near the Arabian Gulf, Fujairah already plays an important role in international tanker markets. It has long served an anchorage point for ships awaiting nomination for cargoes in the Arabian Gulf, but coming years are likely to see Fujairah's role expand.",
+      "keywords": [
+        "china",
+        "meg",
+        "europe",
+        "singapore",
+        "crude_oil",
+        "oil",
+        "crude",
+        "fujairah"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 409,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_04_16_strait_flush__s02_bypassing_a_strait",
+      "doc_id": "poten_tankers_no_date_poten_2010_04_16_strait_flush",
+      "parent_id": "poten_tankers_no_date_poten_2010_04_16_strait_flush__root",
+      "title": "Bypassing a Strait",
+      "section_path": [
+        "Bypassing a Strait"
+      ],
+      "section_path_text": "Bypassing a Strait",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The diverted marine traffic the ADCOP pipeline is expected to bring to Fujairah has inspired a significant expansion of terminal facilities there. The deepwater port at Fujairah, which has already seen a steady increase in shipping traffic over recent years, will reportedly be outfitted with a number of loading facilities capable of receiving vessels with deadweights up to 180,000 dwt.",
+      "keywords": [
+        "crude_oil",
+        "fujairah",
+        "pipeline",
+        "port",
+        "expansion",
+        "adcop",
+        "export",
+        "facilities"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 401,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

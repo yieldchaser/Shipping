@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_07_01_uncle_sams_slight_of_hand__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_07_01_uncle_sams_slight_of_hand",
+  "parent_id": null,
+  "title": "Uncle Sam's Slight of Hand",
+  "section_path": [
+    "Uncle Sam's Slight of Hand"
+  ],
+  "section_path_text": "Uncle Sam's Slight of Hand",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Uncle Sam's Slight of Hand\nThe move this week by President Obama and his administration to release Strategic Petroleum Reserve (SPR) crude oil should be seen as nothing more than a political stunt. Although an immediate short‐fall in supplies worldwide was touted as the impetus, the decision to release more barrels from the SPR was more likely aimed at quieting oil prices than satiating short‐term demand requirements. The tapping of 30 million emergency barrels raises questions about the motives, timing and most importantly, the accountability of the United States government with respect to oil policy and the use of the SPR as a tool to manipulate markets.",
+  "keywords": [
+    "crude_oil",
+    "products",
+    "gas",
+    "oil",
+    "crude",
+    "spr",
+    "barrels",
+    "demand",
+    "prices",
+    "united",
+    "states",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 806,
+  "source_path": "reports/poten/2011/poten_2011-07-01_uncle-sams-slight-of-hand.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_07_01_uncle_sams_slight_of_hand__s01_uncle_sam_s_slight_of_hand",
+      "doc_id": "poten_tankers_no_date_poten_2011_07_01_uncle_sams_slight_of_hand",
+      "parent_id": "poten_tankers_no_date_poten_2011_07_01_uncle_sams_slight_of_hand__root",
+      "title": "Uncle Sam's Slight of Hand",
+      "section_path": [
+        "Uncle Sam's Slight of Hand"
+      ],
+      "section_path_text": "Uncle Sam's Slight of Hand",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The move this week by President Obama and his administration to release Strategic Petroleum Reserve (SPR) crude oil should be seen as nothing more than a political stunt. Although an immediate short‐fall in supplies worldwide was touted as the impetus, the decision to release more barrels from the SPR was more likely aimed at quieting oil prices than satiating short‐term demand requirements.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "spr",
+        "crude",
+        "barrels",
+        "was",
+        "cover",
+        "enough"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 333,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_07_01_uncle_sams_slight_of_hand__s02_1_http_www_fossil_energy_gov",
+      "doc_id": "poten_tankers_no_date_poten_2011_07_01_uncle_sams_slight_of_hand",
+      "parent_id": "poten_tankers_no_date_poten_2011_07_01_uncle_sams_slight_of_hand__root",
+      "title": "1 http://www.fossil.energy.gov",
+      "section_path": [
+        "1 http://www.fossil.energy.gov"
+      ],
+      "section_path_text": "1 http://www.fossil.energy.gov",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The United States and other OECD economies combined would sell an incremental 60 million barrels from emergency reserves. The stated rationale behind the coordinated release was the 1.2 million barrel per day loss of Libyan production.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "demand",
+        "million",
+        "per",
+        "refined",
+        "barrel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 180,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_07_01_uncle_sams_slight_of_hand__s03_life_liberty_and_the_pursuit_of_price_control",
+      "doc_id": "poten_tankers_no_date_poten_2011_07_01_uncle_sams_slight_of_hand",
+      "parent_id": "poten_tankers_no_date_poten_2011_07_01_uncle_sams_slight_of_hand__root",
+      "title": "Life, Liberty and the Pursuit of Price Control",
+      "section_path": [
+        "Life, Liberty and the Pursuit of Price Control"
+      ],
+      "section_path_text": "Life, Liberty and the Pursuit of Price Control",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "If demand in the United States called for additional production of gasoline, refiners produce as prices would warrant. Instead refiners are running at levels of 88% utilization nationally and a paltry 72% on the East Coast.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "oil",
+        "are",
+        "crude",
+        "gasoline",
+        "prices"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 264,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

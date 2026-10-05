@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2019_01_25_face_off_in_venezuela__root",
+  "doc_id": "poten_tankers_no_date_poten_2019_01_25_face_off_in_venezuela",
+  "parent_id": null,
+  "title": "Face off in Venezuela",
+  "section_path": [
+    "Face off in Venezuela"
+  ],
+  "section_path_text": "Face off in Venezuela",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Tanker owners should closely follow the developments\nOn Wednesday, Mr. Juan Guaido, the head of the country's National Assembly, declared himself interim president of Venezuela. Maduro illegitimate and invoked a constitutional rule that transfers power to the head of the National Assembly if the presidency is vacated.",
+  "keywords": [
+    "vlcc",
+    "aframax",
+    "china",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "gas",
+    "u.s.",
+    "venezuela",
+    "crude",
+    "could"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 900,
+  "source_path": "reports/poten/2019/poten_2019-01-25_face-off-in-venezuela.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_01_25_face_off_in_venezuela__s01_tanker_owners_should_closely_follow_the_developments",
+      "doc_id": "poten_tankers_no_date_poten_2019_01_25_face_off_in_venezuela",
+      "parent_id": "poten_tankers_no_date_poten_2019_01_25_face_off_in_venezuela__root",
+      "title": "Tanker owners should closely follow the developments",
+      "section_path": [
+        "Tanker owners should closely follow the developments"
+      ],
+      "section_path_text": "Tanker owners should closely follow the developments",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Juan Guaido, the head of the country's National Assembly, declared himself interim president of Venezuela. Maduro illegitimate and invoked a constitutional rule that transfers power to the head of the National Assembly if the presidency is vacated.",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "china",
+        "europe",
+        "india",
+        "crude_oil",
+        "products",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 891,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

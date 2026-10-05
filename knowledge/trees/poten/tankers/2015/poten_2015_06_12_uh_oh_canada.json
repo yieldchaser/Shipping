@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2015_06_12_uh_oh_canada__root",
+  "doc_id": "poten_tankers_no_date_poten_2015_06_12_uh_oh_canada",
+  "parent_id": null,
+  "title": "Uh Oh Canada",
+  "section_path": [
+    "Uh Oh Canada"
+  ],
+  "section_path_text": "Uh Oh Canada",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Price drop may slow down oil production growth\nOn Tuesday, June 9, the Canadian Association of Petroleum Producers (CAPP) released their latest annual forecast titled \"Crude Oil - Forecast, Markets & Transportation\". Increased global oil supplies have resulted in lower oil prices. This is challenging the economics of new projects and reducing the capital expenditure plans of the major Canadian producers.",
+  "keywords": [
+    "atlantic",
+    "west_africa",
+    "crude_oil",
+    "oil",
+    "canadian",
+    "crude",
+    "production",
+    "b/d",
+    "pipeline",
+    "growth",
+    "million",
+    "projects"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 709,
+  "source_path": "reports/poten/2015/poten_2015-06-12_uh-oh-canada.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2015_06_12_uh_oh_canada__s01_price_drop_may_slow_down_oil_production_growth",
+      "doc_id": "poten_tankers_no_date_poten_2015_06_12_uh_oh_canada",
+      "parent_id": "poten_tankers_no_date_poten_2015_06_12_uh_oh_canada__root",
+      "title": "Price drop may slow down oil production growth",
+      "section_path": [
+        "Price drop may slow down oil production growth"
+      ],
+      "section_path_text": "Price drop may slow down oil production growth",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "On Tuesday, June 9, the Canadian Association of Petroleum Producers (CAPP) released their latest annual forecast titled \"Crude Oil - Forecast, Markets & Transportation\". Increased global oil supplies have resulted in lower oil prices.",
+      "keywords": [
+        "atlantic",
+        "west_africa",
+        "crude_oil",
+        "oil",
+        "canadian",
+        "crude",
+        "production",
+        "b/d"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 700,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

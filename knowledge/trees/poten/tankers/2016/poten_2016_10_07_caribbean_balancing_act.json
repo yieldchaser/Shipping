@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2016_10_07_caribbean_balancing_act__root",
+  "doc_id": "poten_tankers_no_date_poten_2016_10_07_caribbean_balancing_act",
+  "parent_id": null,
+  "title": "Caribbean Balancing Act",
+  "section_path": [
+    "Caribbean Balancing Act"
+  ],
+  "section_path_text": "Caribbean Balancing Act",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The VLCC tonnage balance in the area is changing\nCaribbean Balancing Act Fig. 1: VLCC Exports from Caribbean vs Regional Imports (2015 / 2016) In recent weeks, two VLCCs have loaded U.S. Gulf and both of them seem to be bound for Asia.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "brazil",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "india",
+    "us_gulf",
+    "singapore",
+    "crude_oil",
+    "u.s.",
+    "cargoes"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 939,
+  "source_path": "reports/poten/2016/poten_2016-10-07_caribbean-balancing-act.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_10_07_caribbean_balancing_act__s01_the_vlcc_tonnage_balance_in_the_area_is_changing",
+      "doc_id": "poten_tankers_no_date_poten_2016_10_07_caribbean_balancing_act",
+      "parent_id": "poten_tankers_no_date_poten_2016_10_07_caribbean_balancing_act__root",
+      "title": "The VLCC tonnage balance in the area is changing",
+      "section_path": [
+        "The VLCC tonnage balance in the area is changing"
+      ],
+      "section_path_text": "The VLCC tonnage balance in the area is changing",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "1: VLCC Exports from Caribbean vs Regional Imports (2015 / 2016) In recent weeks, two VLCCs have loaded U.S. Gulf and both of them seem to be bound for Asia.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "brazil",
+        "atlantic",
+        "meg",
+        "west_africa",
+        "india",
+        "us_gulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 927,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

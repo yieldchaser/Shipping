@@ -7,6 +7,7 @@ commodities:
 date: '2025-12-15'
 doc_id: hellenic_demolition_2025-12-15_2025_12_15_gms_week_50_december_downers
 document_type: demolition_update
+is_error_page: false
 key_entities:
 - China
 keywords:
@@ -77,6 +78,7 @@ numeric_observations:
     within Q1 2026 - what a
   unit: null
   values:
+  - 1.0
   - 2026.0
 - section: Main
   section_type: null
@@ -95,10 +97,11 @@ numeric_observations:
   - -12.0
   - -15.0
   - 50.0
+  - 1.0
   - 63453.0
-  - 8.0
-  - 211.0
-  - 9.0
+  - 28.0
+  - 1211.0
+  - 49.0
 - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
   source_line: Decembe r 12th, 2025
@@ -212,6 +215,7 @@ numeric_observations:
     in recycling it's truly been.
   unit: null
   values:
+  - 1.0
   - 2026.0
 - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
@@ -683,9 +687,9 @@ numeric_observations:
   source_line: 'Athens, Greece Tel: +30.210.899.0669 Bhavnagar, India Tel: +91.278.300.5253'
   unit: null
   values:
-  - 30.21
+  - 30210.0
   - 899.0669
-  - 91.278
+  - 91278.0
   - 300.5253
 - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_ship-recycling-market-insight-week-5_07886dfc6b2a.pdf'
   section_type: linked_pdf
@@ -710,7 +714,7 @@ numeric_observations:
   source_line: 'Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720'
   unit: null
   values:
-  - 86.216
+  - 86216.0
   - 75.19
   - 82.1
   - 4650.072
@@ -732,17 +736,18 @@ numeric_observations:
   - -12.0
   - -15.0
   - 50.0
+  - 1.0
   - 63453.0
-  - 8.0
-  - 211.0
-  - 9.0
+  - 28.0
+  - 1211.0
+  - 49.0
 - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_img1_63453_e28b1211ab49.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 700x157 mode=RGB'
   unit: null
   values:
   - 700.0
-  - 57.0
+  - 157.0
 - section: 'Linked asset: 2025-12-15_gms-week-50-december-downers_img1_63453_e28b1211ab49.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'

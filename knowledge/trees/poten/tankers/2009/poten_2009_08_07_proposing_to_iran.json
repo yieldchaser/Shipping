@@ -1,0 +1,167 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2009_08_07_proposing_to_iran__root",
+  "doc_id": "poten_tankers_no_date_poten_2009_08_07_proposing_to_iran",
+  "parent_id": null,
+  "title": "Proposing to Iran",
+  "section_path": [
+    "Proposing to Iran"
+  ],
+  "section_path_text": "Proposing to Iran",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Proposing to Iran\nThe building tension within the borders of Iran is creating a challenge for world leaders and policy setters, and brightening the spotlight on the large oil producer. This Middle‐ Eastern nation has recently been faced with scarring political tumult which has once again cast a shadow on its stability. Furthermore, international trade sanctions continue to tear at the country's growth, allowing outside powers to flex economic muscles to a certain extent.",
+  "keywords": [
+    "china",
+    "meg",
+    "crude_oil",
+    "products",
+    "gas",
+    "iran",
+    "oil",
+    "would",
+    "iranian",
+    "any",
+    "could",
+    "country"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 774,
+  "source_path": "reports/poten/2009/poten_2009-08-07_proposing-to-iran.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_08_07_proposing_to_iran__s01_proposing_to_iran",
+      "doc_id": "poten_tankers_no_date_poten_2009_08_07_proposing_to_iran",
+      "parent_id": "poten_tankers_no_date_poten_2009_08_07_proposing_to_iran__root",
+      "title": "Proposing to Iran",
+      "section_path": [
+        "Proposing to Iran"
+      ],
+      "section_path_text": "Proposing to Iran",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The building tension within the borders of Iran is creating a challenge for world leaders and policy setters, and brightening the spotlight on the large oil producer. This Middle‐ Eastern nation has recently been faced with scarring political tumult which has once again cast a shadow on its stability.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "iran",
+        "country",
+        "sanctions",
+        "any",
+        "gasoline"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 257,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_08_07_proposing_to_iran__s02_iranian_oil_production",
+      "doc_id": "poten_tankers_no_date_poten_2009_08_07_proposing_to_iran",
+      "parent_id": "poten_tankers_no_date_poten_2009_08_07_proposing_to_iran__root",
+      "title": "Iranian Oil Production",
+      "section_path": [
+        "Iranian Oil Production"
+      ],
+      "section_path_text": "Iranian Oil Production",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "1979: Iranian Revolution 2009: Next Revolution? In response, Iranian leaders have countered with such drastic measures as eliminating oil exports and/or threatening to stop shipping traffic through the Strait of Hormuz.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "iranian",
+        "oil",
+        "would",
+        "exports",
+        "iran"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 156,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_08_07_proposing_to_iran__s03_walk_softly",
+      "doc_id": "poten_tankers_no_date_poten_2009_08_07_proposing_to_iran",
+      "parent_id": "poten_tankers_no_date_poten_2009_08_07_proposing_to_iran__root",
+      "title": "Walk Softly",
+      "section_path": [
+        "Walk Softly"
+      ],
+      "section_path_text": "Walk Softly",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "For the US gaining the support of other countries and members of the industry, especially Iran's trading partners is key. For nations such as China and Russia and the multiple oil majors and global refiners with a vested interest in the oil‐rich nation, closing one of their markets takes a chunk out of the bottom line.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "iran",
+        "oil",
+        "trading",
+        "abstained",
+        "although",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 109,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_08_07_proposing_to_iran__s04_reported_dirty_spot_fixtures_ex_iran",
+      "doc_id": "poten_tankers_no_date_poten_2009_08_07_proposing_to_iran",
+      "parent_id": "poten_tankers_no_date_poten_2009_08_07_proposing_to_iran__root",
+      "title": "Reported Dirty Spot Fixtures Ex‐Iran",
+      "section_path": [
+        "Reported Dirty Spot Fixtures Ex‐Iran"
+      ],
+      "section_path_text": "Reported Dirty Spot Fixtures Ex‐Iran",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "2004 2005 2006 2007 2008 2009 YTD",
+      "keywords": [
+        "ytd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 19,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_08_07_proposing_to_iran__s05_fe",
+      "doc_id": "poten_tankers_no_date_poten_2009_08_07_proposing_to_iran",
+      "parent_id": "poten_tankers_no_date_poten_2009_08_07_proposing_to_iran__root",
+      "title": "FE",
+      "section_path": [
+        "FE"
+      ],
+      "section_path_text": "FE",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "MED AG RS SAF SEA SOUTH ASIA UKC There is no doubt that an attempted closure of the Strait of Hormuz would have very ugly repercussions. Ceasing ship traffic through the Strait would not only cripple trade, commerce and the export capacity of all Arabian Gulf producers; it could have even more dire repercussions ‐ a war or revolution.",
+      "keywords": [
+        "meg",
+        "gulf",
+        "arabian",
+        "could",
+        "even",
+        "iran",
+        "not",
+        "president"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 206,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

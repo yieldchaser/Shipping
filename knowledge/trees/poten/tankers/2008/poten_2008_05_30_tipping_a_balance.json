@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_05_30_tipping_a_balance__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_05_30_tipping_a_balance",
+  "parent_id": null,
+  "title": "Tipping a Balance",
+  "section_path": [
+    "Tipping a Balance"
+  ],
+  "section_path_text": "Tipping a Balance",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Tipping a Balance\nIn tightly balanced tanker markets, any ripple in either short- term vessel supply or demand can potentially swing freight rates in the blink-of-an-eye. Lately, a tight Caribbean market saw Worldscale (WS) rates leveraged upwards by regional demand for vessels outpacing supply. As the US began embarking on its Memorial Day holiday weekend, charterers pushed to fix their requirements ahead of this work-break even in the face of very limited tonnage lists.",
+  "keywords": [
+    "aframax",
+    "brazil",
+    "day",
+    "can",
+    "holiday",
+    "per",
+    "vessel",
+    "vessels",
+    "weekend",
+    "availability.",
+    "available",
+    "average"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 318,
+  "source_path": "reports/poten/2008/poten_2008-05-30_tipping-a-balance.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_05_30_tipping_a_balance__s01_tipping_a_balance",
+      "doc_id": "poten_tankers_no_date_poten_2008_05_30_tipping_a_balance",
+      "parent_id": "poten_tankers_no_date_poten_2008_05_30_tipping_a_balance__root",
+      "title": "Tipping a Balance",
+      "section_path": [
+        "Tipping a Balance"
+      ],
+      "section_path_text": "Tipping a Balance",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In tightly balanced tanker markets, any ripple in either short- term vessel supply or demand can potentially swing freight rates in the blink-of-an-eye. Lately, a tight Caribbean market saw Worldscale (WS) rates leveraged upwards by regional demand for vessels outpacing supply.",
+      "keywords": [
+        "brazil",
+        "day",
+        "demand",
+        "holiday",
+        "per",
+        "weekend",
+        "added",
+        "ahead"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 151,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_05_30_tipping_a_balance__s02_daily_average_aframax_ws_rate",
+      "doc_id": "poten_tankers_no_date_poten_2008_05_30_tipping_a_balance",
+      "parent_id": "poten_tankers_no_date_poten_2008_05_30_tipping_a_balance__root",
+      "title": "Daily Average Aframax WS Rate",
+      "section_path": [
+        "Daily Average Aframax WS Rate"
+      ],
+      "section_path_text": "Daily Average Aframax WS Rate",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "In the Caribbean market, the main driver behind May's rising rates was a lack of vessel availability. Although the average number of vessels available in the next 20 days remained relatively steady this past month, the real key to appreciating why rates rose quickly revolves around the dates upon which the vessels were actually available.",
+      "keywords": [
+        "availability.",
+        "available",
+        "can",
+        "dates",
+        "days",
+        "past",
+        "vessel",
+        "vessels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 155,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

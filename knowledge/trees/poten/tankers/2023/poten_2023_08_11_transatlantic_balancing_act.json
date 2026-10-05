@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2023_08_11_transatlantic_balancing_act__root",
+  "doc_id": "poten_tankers_no_date_poten_2023_08_11_transatlantic_balancing_act",
+  "parent_id": null,
+  "title": "Transatlantic Balancing Act",
+  "section_path": [
+    "Transatlantic Balancing Act"
+  ],
+  "section_path_text": "Transatlantic Balancing Act",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Did the Ukraine war change transatlantic product flows? The transatlantic product trades have been a staple for the Medium Range (MR) product tanker market for decades. MRs are being used to balance the product markets on both sides of the Atlantic.",
+  "keywords": [
+    "atlantic",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "gas",
+    "diesel",
+    "gasoline",
+    "u.s.",
+    "imports",
+    "are",
+    "product"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 912,
+  "source_path": "reports/poten/2023/poten_2023-08-11_transatlantic-balancing-act.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2023_08_11_transatlantic_balancing_act__s01_did_the_ukraine_war_change_transatlantic_product_flows",
+      "doc_id": "poten_tankers_no_date_poten_2023_08_11_transatlantic_balancing_act",
+      "parent_id": "poten_tankers_no_date_poten_2023_08_11_transatlantic_balancing_act__root",
+      "title": "Did the Ukraine war change transatlantic product flows?",
+      "section_path": [
+        "Did the Ukraine war change transatlantic product flows?"
+      ],
+      "section_path_text": "Did the Ukraine war change transatlantic product flows?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The transatlantic product trades have been a staple for the Medium Range (MR) product tanker market for decades. MRs are being used to balance the product markets on both sides of the Atlantic.",
+      "keywords": [
+        "atlantic",
+        "europe",
+        "india",
+        "crude_oil",
+        "products",
+        "gas",
+        "diesel",
+        "gasoline"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 901,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

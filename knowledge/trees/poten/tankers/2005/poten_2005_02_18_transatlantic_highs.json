@@ -1,0 +1,253 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_02_18_transatlantic_highs__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_02_18_transatlantic_highs",
+  "parent_id": null,
+  "title": "Transatlantic Highs",
+  "section_path": [
+    "Transatlantic Highs"
+  ],
+  "section_path_text": "Transatlantic Highs",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Transatlantic Highs\nThe number of handymax clean cargo transatlantic voyages is reaching new highs. The westbound movement stems from the United States continuing to consume more gasoline and gasoil (diesel fuel and heating oil) with limited gains in refinery capacity shown below. Gasoil\nGasoline The chart reflects seasonality production swings in gasoline and gasoil to expand inventories prior to the summer peak in gasoline consumption and the winter peak in heating oil.",
+  "keywords": [
+    "handysize",
+    "atlantic",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "gasoline",
+    "clean",
+    "refinery",
+    "u.s.",
+    "diesel",
+    "imports"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 692,
+  "source_path": "reports/poten/2005/poten_2005-02-18_transatlantic-highs.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_02_18_transatlantic_highs__s01_transatlantic_highs",
+      "doc_id": "poten_tankers_no_date_poten_2005_02_18_transatlantic_highs",
+      "parent_id": "poten_tankers_no_date_poten_2005_02_18_transatlantic_highs__root",
+      "title": "Transatlantic Highs",
+      "section_path": [
+        "Transatlantic Highs"
+      ],
+      "section_path_text": "Transatlantic Highs",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The number of handymax clean cargo transatlantic voyages is reaching new highs. The westbound movement stems from the United States continuing to consume more gasoline and gasoil (diesel fuel and heating oil) with limited gains in refinery capacity shown below.",
+      "keywords": [
+        "handysize",
+        "atlantic",
+        "crude_oil",
+        "products",
+        "gas",
+        "below.",
+        "capacity",
+        "cargo"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 51,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_02_18_transatlantic_highs__s02_gasoil",
+      "doc_id": "poten_tankers_no_date_poten_2005_02_18_transatlantic_highs",
+      "parent_id": "poten_tankers_no_date_poten_2005_02_18_transatlantic_highs__root",
+      "title": "Gasoil",
+      "section_path": [
+        "Gasoil"
+      ],
+      "section_path_text": "Gasoil",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Gasoline The chart reflects seasonality production swings in gasoline and gasoil to expand inventories prior to the summer peak in gasoline consumption and the winter peak in heating oil. The sum of these two products, which does not represent the totality of refinery output, indicates the degree of refinery creep through internal improvements in refinery operations.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "gasoline",
+        "refinery",
+        "peak",
+        "chart",
+        "consumption"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 65,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_02_18_transatlantic_highs__s03_gasoline_and_gasoil",
+      "doc_id": "poten_tankers_no_date_poten_2005_02_18_transatlantic_highs",
+      "parent_id": "poten_tankers_no_date_poten_2005_02_18_transatlantic_highs__root",
+      "title": "Gasoline and Gasoil",
+      "section_path": [
+        "Gasoline and Gasoil"
+      ],
+      "section_path_text": "Gasoline and Gasoil",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "(Bpd) 2000 11,850,000 2001 11,990,000 2002 12,000,000 2003 12,160,000 2004 12,510,000 Despite refinery creep, U.S. imports of clean products continue to climb because growth in consumption exceeds refinery creep.",
+      "keywords": [
+        "products",
+        "refinery",
+        "because",
+        "bpd",
+        "clean",
+        "climb",
+        "consumption",
+        "continue"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 70,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_02_18_transatlantic_highs__s04_clean_imports",
+      "doc_id": "poten_tankers_no_date_poten_2005_02_18_transatlantic_highs",
+      "parent_id": "poten_tankers_no_date_poten_2005_02_18_transatlantic_highs__root",
+      "title": "Clean Imports",
+      "section_path": [
+        "Clean Imports"
+      ],
+      "section_path_text": "Clean Imports",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Clean Exports The upward trend in clean product imports is shown numerically on the next page. Clean product exports, primarily excess U.S.",
+      "keywords": [
+        "clean",
+        "exports",
+        "product",
+        "excess",
+        "flat",
+        "gulf",
+        "imports",
+        "next"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 39,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_02_18_transatlantic_highs__s05_u_s_clean_product",
+      "doc_id": "poten_tankers_no_date_poten_2005_02_18_transatlantic_highs",
+      "parent_id": "poten_tankers_no_date_poten_2005_02_18_transatlantic_highs__root",
+      "title": "U.S. Clean Product",
+      "section_path": [
+        "U.S. Clean Product"
+      ],
+      "section_path_text": "U.S. Clean Product",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Average Exports (Bpd) 2000 2,390,000 1,040,000 2001 2,540,000 970,000 2002 2,390,000 980,000 2003 2,600,000 1,030,000 2004 2,840,000 1,020,000 Europe has an energy policy of encouraging automobile owners to buy diesel over gasoline fueled motor vehicles. This has resulted in spare gasoline refining capacity that can produce gasoline for export to the United States, increasing trans-Atlantic handymax clean spot fixture activity.",
+      "keywords": [
+        "handysize",
+        "atlantic",
+        "europe",
+        "products",
+        "gas",
+        "gasoline",
+        "activity.",
+        "automobile"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 126,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_02_18_transatlantic_highs__s06_u_s_clean_product",
+      "doc_id": "poten_tankers_no_date_poten_2005_02_18_transatlantic_highs",
+      "parent_id": "poten_tankers_no_date_poten_2005_02_18_transatlantic_highs__root",
+      "title": "U.S. Clean Product",
+      "section_path": [
+        "U.S. Clean Product"
+      ],
+      "section_path_text": "U.S. Clean Product",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "",
+      "keywords": [
+        "average",
+        "bpd",
+        "imports"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_02_18_transatlantic_highs__s07_ukc",
+      "doc_id": "poten_tankers_no_date_poten_2005_02_18_transatlantic_highs",
+      "parent_id": "poten_tankers_no_date_poten_2005_02_18_transatlantic_highs__root",
+      "title": "UKC",
+      "section_path": [
+        "UKC"
+      ],
+      "section_path_text": "UKC",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Med Although spot fixture activity remained unchanged between 2003 and 2004, there has been an upward trend if measured from 2002. The upswing in cargoes from the U.S.",
+      "keywords": [
+        "europe",
+        "activity",
+        "although",
+        "below",
+        "between",
+        "cargoes",
+        "fixture",
+        "graphically"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 61,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_02_18_transatlantic_highs__s08_what_s_happening",
+      "doc_id": "poten_tankers_no_date_poten_2005_02_18_transatlantic_highs",
+      "parent_id": "poten_tankers_no_date_poten_2005_02_18_transatlantic_highs__root",
+      "title": "What's Happening?",
+      "section_path": [
+        "What's Happening?"
+      ],
+      "section_path_text": "What's Happening?",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "The Europeans have been \"too\" successful in inducing automobile owners to switch from gasoline to diesel fuel. European diesel fuel refinery capacity has topped out, diesel prices have risen, and the resulting price differential between the United States and Europe is greater than shipping costs.",
+      "keywords": [
+        "handysize",
+        "atlantic",
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "diesel",
+        "european"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 235,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

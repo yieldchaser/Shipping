@@ -1,0 +1,197 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_09_21_barrels_and_cents__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_09_21_barrels_and_cents",
+  "parent_id": null,
+  "title": "Barrels and Cents",
+  "section_path": [
+    "Barrels and Cents"
+  ],
+  "section_path_text": "Barrels and Cents",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Barrels and Cents\nSome US consumers may argue that the cost of crude oil is anything but cheap. But when its price is viewed from the purchasing power of other nations' currency, a different perspective is created. US dollar exchange rate fluctuations in recent times have served to buffer the impact of crude oil's price rise in a few large markets.",
+  "keywords": [
+    "china",
+    "brazil",
+    "india",
+    "crude_oil",
+    "dollar",
+    "price",
+    "brent",
+    "oil",
+    "bought",
+    "but",
+    "chinese",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 457,
+  "source_path": "reports/poten/2007/poten_2007-09-21_barrels-and-cents.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_09_21_barrels_and_cents__s01_barrels_and_cents",
+      "doc_id": "poten_tankers_no_date_poten_2007_09_21_barrels_and_cents",
+      "parent_id": "poten_tankers_no_date_poten_2007_09_21_barrels_and_cents__root",
+      "title": "Barrels and Cents",
+      "section_path": [
+        "Barrels and Cents"
+      ],
+      "section_path_text": "Barrels and Cents",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Some US consumers may argue that the cost of crude oil is anything but cheap. But when its price is viewed from the purchasing power of other nations' currency, a different perspective is created.",
+      "keywords": [
+        "china",
+        "india",
+        "crude_oil",
+        "dollar",
+        "but",
+        "crude",
+        "oil",
+        "price"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 93,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_09_21_barrels_and_cents__s02_dollar_exchange_rate_ratio",
+      "doc_id": "poten_tankers_no_date_poten_2007_09_21_barrels_and_cents",
+      "parent_id": "poten_tankers_no_date_poten_2007_09_21_barrels_and_cents__root",
+      "title": "Dollar Exchange Rate Ratio",
+      "section_path": [
+        "Dollar Exchange Rate Ratio"
+      ],
+      "section_path_text": "Dollar Exchange Rate Ratio",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "ending Sept 18, 2007 Federal Reserve",
+      "keywords": [
+        "ending",
+        "federal",
+        "reserve",
+        "sept"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 10,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_09_21_barrels_and_cents__s03_dollar_to_euro",
+      "doc_id": "poten_tankers_no_date_poten_2007_09_21_barrels_and_cents",
+      "parent_id": "poten_tankers_no_date_poten_2007_09_21_barrels_and_cents__root",
+      "title": "Dollar to Euro",
+      "section_path": [
+        "Dollar to Euro"
+      ],
+      "section_path_text": "Dollar to Euro",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Dollar to Chinese Yuan Dollar to Indian Rupee",
+      "keywords": [
+        "china",
+        "india",
+        "dollar",
+        "chinese",
+        "indian",
+        "rupee",
+        "yuan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 10,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_09_21_barrels_and_cents__s04_dollar_discounted_crude_oil",
+      "doc_id": "poten_tankers_no_date_poten_2007_09_21_barrels_and_cents",
+      "parent_id": "poten_tankers_no_date_poten_2007_09_21_barrels_and_cents__root",
+      "title": "Dollar Discounted Crude Oil",
+      "section_path": [
+        "Dollar Discounted Crude Oil"
+      ],
+      "section_path_text": "Dollar Discounted Crude Oil",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Declines in the dollar's exchange rate with other currencies may have created a de facto crude oil discount or price buffer for other consuming nations. The following chart illustrates how the dollar spot price of Brent has evolved in local currencies since September 2006.",
+      "keywords": [
+        "crude_oil",
+        "currencies",
+        "dollar",
+        "other",
+        "price",
+        "brent",
+        "buffer",
+        "chart"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 50,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_09_21_barrels_and_cents__s05_dollar_equivalent_in_local_currency_bbl",
+      "doc_id": "poten_tankers_no_date_poten_2007_09_21_barrels_and_cents",
+      "parent_id": "poten_tankers_no_date_poten_2007_09_21_barrels_and_cents__root",
+      "title": "Dollar Equivalent in Local Currency, $/bbl",
+      "section_path": [
+        "Dollar Equivalent in Local Currency, $/bbl"
+      ],
+      "section_path_text": "Dollar Equivalent in Local Currency, $/bbl",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Spot Brent Bought in US$ Spot Brent Bought by Euros Spot Brent Bought by Chinese Yuan Spot Brent Bought by Indian Rupee By expressing Brent's price evolution in the dollar equivalent to each of the three currencies, the chart above suggests that exchange rate declines have lessened the impact of Brent's price rise relative to these currencies. For example, from last year September to this week, Brent's dollar price rose about 28 percent.",
+      "keywords": [
+        "china",
+        "brazil",
+        "india",
+        "brent",
+        "bought",
+        "dollar",
+        "price",
+        "chinese"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 140,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_09_21_barrels_and_cents__s06_desperately_seeking_balance",
+      "doc_id": "poten_tankers_no_date_poten_2007_09_21_barrels_and_cents",
+      "parent_id": "poten_tankers_no_date_poten_2007_09_21_barrels_and_cents__root",
+      "title": "Desperately Seeking Balance",
+      "section_path": [
+        "Desperately Seeking Balance"
+      ],
+      "section_path_text": "Desperately Seeking Balance",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Barring outside forces - such as production quotas - markets usually find some sort of equilibrium. But the demand for petroleum has usually been slow to contract even from what the popular vernacular terms as \"high prices.\" Declining exchange rates seem to partially shield overseas consumers from the full impact of price increases and thereby interfere with the typical resizing of oil demand by price.",
+      "keywords": [
+        "crude_oil",
+        "demand",
+        "oil",
+        "even",
+        "forces",
+        "its",
+        "overseas",
+        "price"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 108,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

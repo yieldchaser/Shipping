@@ -1,0 +1,228 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_04_11_energizing_the_last_thirty_years__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_04_11_energizing_the_last_thirty_years",
+  "parent_id": null,
+  "title": "Energizing the Last Thirty Years!",
+  "section_path": [
+    "Energizing the Last Thirty Years!"
+  ],
+  "section_path_text": "Energizing the Last Thirty Years!",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "This week the Energy Information Administration (EIA) threw a thirtieth birthday and invited 1,600 of their closest friends from over 35 countries! Industry representatives convened in Washington, DC for the EIA annual energy conference to discuss the challenges ahead and likely outcomes facing energy policy and the markets at large. For three decades the EIA, part of the US Department of Energy, has been a policy-neutral agency providing the industry with data, forecasts and analyses.",
+  "keywords": [
+    "capesize",
+    "coal",
+    "crude_oil",
+    "products",
+    "gas",
+    "energy",
+    "eia",
+    "crude",
+    "oil",
+    "petroleum",
+    "liquid",
+    "outlook"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 733,
+  "source_path": "reports/poten/2008/poten_2008-04-11_energizing-the-last-thirty-years.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_04_11_energizing_the_last_thirty_years__s01_energizing_the_last_thirty_years",
+      "doc_id": "poten_tankers_no_date_poten_2008_04_11_energizing_the_last_thirty_years",
+      "parent_id": "poten_tankers_no_date_poten_2008_04_11_energizing_the_last_thirty_years__root",
+      "title": "Energizing the Last Thirty Years!",
+      "section_path": [
+        "Energizing the Last Thirty Years!"
+      ],
+      "section_path_text": "Energizing the Last Thirty Years!",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This week the Energy Information Administration (EIA) threw a thirtieth birthday and invited 1,600 of their closest friends from over 35 countries! Industry representatives convened in Washington, DC for the EIA annual energy conference to discuss the challenges ahead and likely outcomes facing energy policy and the markets at large.",
+      "keywords": [
+        "crude_oil",
+        "energy",
+        "eia",
+        "crude",
+        "imported",
+        "policy",
+        "administration",
+        "agency"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 147,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_04_11_energizing_the_last_thirty_years__s02_crude_oil",
+      "doc_id": "poten_tankers_no_date_poten_2008_04_11_energizing_the_last_thirty_years",
+      "parent_id": "poten_tankers_no_date_poten_2008_04_11_energizing_the_last_thirty_years__root",
+      "title": "Crude Oil",
+      "section_path": [
+        "Crude Oil"
+      ],
+      "section_path_text": "Crude Oil",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Imports % Crude Oil Imports in Refinery Inputs Crude Oil Imports w/o SPR",
+      "keywords": [
+        "crude_oil",
+        "imports",
+        "crude",
+        "oil",
+        "inputs",
+        "refinery",
+        "spr",
+        "w/o"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 17,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_04_11_energizing_the_last_thirty_years__s03_crude_oil_refinery_and_blender_net_inputs",
+      "doc_id": "poten_tankers_no_date_poten_2008_04_11_energizing_the_last_thirty_years",
+      "parent_id": "poten_tankers_no_date_poten_2008_04_11_energizing_the_last_thirty_years__root",
+      "title": "Crude Oil Refinery and Blender Net Inputs",
+      "section_path": [
+        "Crude Oil Refinery and Blender Net Inputs"
+      ],
+      "section_path_text": "Crude Oil Refinery and Blender Net Inputs",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "During the past twenty years, there has been a marked increase from 17 percent of refinery inputs in the mid-1980's to current unprecedented level of nearly 70 percent of imports. Encompassing a gamut of energy topics, the EIA's conference nurtured the diverse views of speakers who were not necessarily on the same side of issues and challenges.",
+      "keywords": [
+        "capesize",
+        "crude_oil",
+        "energy",
+        "both",
+        "issues",
+        "percent",
+        "attendees.",
+        "captured"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 149,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_04_11_energizing_the_last_thirty_years__s04_no_facts_of_the_future",
+      "doc_id": "poten_tankers_no_date_poten_2008_04_11_energizing_the_last_thirty_years",
+      "parent_id": "poten_tankers_no_date_poten_2008_04_11_energizing_the_last_thirty_years__root",
+      "title": "No Facts of the Future",
+      "section_path": [
+        "No Facts of the Future"
+      ],
+      "section_path_text": "No Facts of the Future",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "While no \"facts\" are yet available for the future, the EIA's conference abounded with a variety of outlooks for it. Reassuring for players in the liquid hydrocarbon markets is the EIA view that petroleum will remain the reigning source of BTUs for the US through 2030.",
+      "keywords": [
+        "eia",
+        "petroleum",
+        "abounded",
+        "are",
+        "available",
+        "btus",
+        "conference",
+        "consumption"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 89,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_04_11_energizing_the_last_thirty_years__s05_quadrillion_btus",
+      "doc_id": "poten_tankers_no_date_poten_2008_04_11_energizing_the_last_thirty_years",
+      "parent_id": "poten_tankers_no_date_poten_2008_04_11_energizing_the_last_thirty_years__root",
+      "title": "Quadrillion Btus",
+      "section_path": [
+        "Quadrillion Btus"
+      ],
+      "section_path_text": "Quadrillion Btus",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Liquid Fuels and Other Petroleum Natural Gas",
+      "keywords": [
+        "gas",
+        "fuels",
+        "liquid",
+        "natural",
+        "other",
+        "petroleum"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_04_11_energizing_the_last_thirty_years__s06_coal",
+      "doc_id": "poten_tankers_no_date_poten_2008_04_11_energizing_the_last_thirty_years",
+      "parent_id": "poten_tankers_no_date_poten_2008_04_11_energizing_the_last_thirty_years__root",
+      "title": "Coal",
+      "section_path": [
+        "Coal"
+      ],
+      "section_path_text": "Coal",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Nuclear Power Hydropower Biomass Other Renewable Energy Other In the EIA's outlook contributions of BTUs from biomass, other renewable energy and nuclear power are all expected to grow in importance. Moreover, coal's continued growth - while not without controversy amongst environmentalist - is also recognized by the Agency.",
+      "keywords": [
+        "coal",
+        "other",
+        "biomass",
+        "energy",
+        "nuclear",
+        "power",
+        "renewable",
+        "agency."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 61,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_04_11_energizing_the_last_thirty_years__s07_the_whole_world_enchilada",
+      "doc_id": "poten_tankers_no_date_poten_2008_04_11_energizing_the_last_thirty_years",
+      "parent_id": "poten_tankers_no_date_poten_2008_04_11_energizing_the_last_thirty_years__root",
+      "title": "The Whole World Enchilada",
+      "section_path": [
+        "The Whole World Enchilada"
+      ],
+      "section_path_text": "The Whole World Enchilada",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "In contrast to a rather weak US liquid petroleum consumption growth outlook, the EIA's takes a rather sanguine view of the rest of the world's continuing insatiable thirst for crude oil. Although the outlook for liquid petroleum's BTU market share is seen as slipping four percent from 2005 to 2030 to 34 percent, its absolute yearly contribution could rise some 40 percent to nearly 250 quadrillion BTUs.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "liquid",
+        "percent",
+        "petroleum",
+        "anticipated",
+        "crude",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 214,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

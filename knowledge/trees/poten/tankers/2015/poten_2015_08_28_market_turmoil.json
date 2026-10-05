@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2015_08_28_market_turmoil__root",
+  "doc_id": "poten_tankers_no_date_poten_2015_08_28_market_turmoil",
+  "parent_id": null,
+  "title": "Market TurmOil",
+  "section_path": [
+    "Market TurmOil"
+  ],
+  "section_path_text": "Market TurmOil",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Impact of the volatility in the equity markets on tankers\nOver the last two weeks, equity markets worldwide have sold off as investors ran for the exit. Over the last few days, many of the global stock indices have recovered some of their lost ground on the back of better economic news from China and the U.S. In the U.S., the stock market entered \"correction\" territory, i.e.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "coal",
+    "crude_oil",
+    "products",
+    "gas",
+    "stock",
+    "economy",
+    "chinese",
+    "markets",
+    "u.s.",
+    "not"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 704,
+  "source_path": "reports/poten/2015/poten_2015-08-28_market-turmoil.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2015_08_28_market_turmoil__s01_impact_of_the_volatility_in_the_equity_markets_on_tankers",
+      "doc_id": "poten_tankers_no_date_poten_2015_08_28_market_turmoil",
+      "parent_id": "poten_tankers_no_date_poten_2015_08_28_market_turmoil__root",
+      "title": "Impact of the volatility in the equity markets on tankers",
+      "section_path": [
+        "Impact of the volatility in the equity markets on tankers"
+      ],
+      "section_path_text": "Impact of the volatility in the equity markets on tankers",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Over the last two weeks, equity markets worldwide have sold off as investors ran for the exit. Over the last few days, many of the global stock indices have recovered some of their lost ground on the back of better economic news from China and the U.S.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "coal",
+        "crude_oil",
+        "products",
+        "gas",
+        "stock",
+        "economy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 692,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

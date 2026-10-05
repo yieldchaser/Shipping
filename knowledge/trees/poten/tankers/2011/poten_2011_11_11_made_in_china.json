@@ -1,0 +1,168 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_11_11_made_in_china__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_11_11_made_in_china",
+  "parent_id": null,
+  "title": "Made in China",
+  "section_path": [
+    "Made in China"
+  ],
+  "section_path_text": "Made in China",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Made in China\nIt is difficult to deny the severe tanker oversupply situation. Worldwide oil demand has recovered globally surpassing its 2007 peak, despite languishing demand in mature economies. The resultant shift in trade flows and increased volumes on the water have boosted ton‐mile demand, but that alone has not been enough to lend support to freight rate levels.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "crude_oil",
+    "years",
+    "could",
+    "vlccs",
+    "would",
+    "between",
+    "fleet",
+    "but",
+    "cost",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 931,
+  "source_path": "reports/poten/2011/poten_2011-11-11_made-in-china.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_11_11_made_in_china__s01_made_in_china",
+      "doc_id": "poten_tankers_no_date_poten_2011_11_11_made_in_china",
+      "parent_id": "poten_tankers_no_date_poten_2011_11_11_made_in_china__root",
+      "title": "Made in China",
+      "section_path": [
+        "Made in China"
+      ],
+      "section_path_text": "Made in China",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "It is difficult to deny the severe tanker oversupply situation. Worldwide oil demand has recovered globally surpassing its 2007 peak, despite languishing demand in mature economies.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "crude_oil",
+        "demand",
+        "orderbook",
+        "but",
+        "could",
+        "its"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 352,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_11_11_made_in_china__s02_total_vlccs",
+      "doc_id": "poten_tankers_no_date_poten_2011_11_11_made_in_china",
+      "parent_id": "poten_tankers_no_date_poten_2011_11_11_made_in_china__root",
+      "title": "Total VLCCs",
+      "section_path": [
+        "Total VLCCs"
+      ],
+      "section_path_text": "Total VLCCs",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "being",
+        "built"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_11_11_made_in_china__s03_supply_fix",
+      "doc_id": "poten_tankers_no_date_poten_2011_11_11_made_in_china",
+      "parent_id": "poten_tankers_no_date_poten_2011_11_11_made_in_china__root",
+      "title": "Supply Fix",
+      "section_path": [
+        "Supply Fix"
+      ],
+      "section_path_text": "Supply Fix",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The notion of controlled incremental supply will allow shipowners to breathe a sigh of relief, but the existing size of the fleet still presents a significant obstacle.",
+      "keywords": [
+        "allow",
+        "breathe",
+        "but",
+        "controlled",
+        "existing",
+        "fleet",
+        "incremental",
+        "notion"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 30,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_11_11_made_in_china__s04_vlcc_fleet_age_profile",
+      "doc_id": "poten_tankers_no_date_poten_2011_11_11_made_in_china",
+      "parent_id": "poten_tankers_no_date_poten_2011_11_11_made_in_china__root",
+      "title": "VLCC Fleet Age Profile",
+      "section_path": [
+        "VLCC Fleet Age Profile"
+      ],
+      "section_path_text": "VLCC Fleet Age Profile",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "0‐5 Years >21 Years 16‐20 Years 11‐15 Years 6‐10 Years The trading life of many ships is intended to be 20‐plus years, but even those less than 10 years old could be facing utilization pressure with overall modernization of the fleet. It is easier for charterers to employ arbitrary age restrictions in a weak freight market, especially with a bounty of newly‐built tonnage.",
+      "keywords": [
+        "years",
+        "age",
+        "arbitrary",
+        "bounty",
+        "built",
+        "but",
+        "charterers",
+        "continue"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 102,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_11_11_made_in_china__s05_taking_the_hit",
+      "doc_id": "poten_tankers_no_date_poten_2011_11_11_made_in_china",
+      "parent_id": "poten_tankers_no_date_poten_2011_11_11_made_in_china__root",
+      "title": "Taking the Hit",
+      "section_path": [
+        "Taking the Hit"
+      ],
+      "section_path_text": "Taking the Hit",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "If China is really committed to easing tanker supply, the real catalyst for change should come in the form of a decision to purchase older vessels with the intention to scrap them. Today there are roughly 70 VLCCs that are 15 years of age and older potentially facing commercial obsolescence.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "crude_oil",
+        "between",
+        "would",
+        "levels",
+        "vessels",
+        "vlccs"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 421,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

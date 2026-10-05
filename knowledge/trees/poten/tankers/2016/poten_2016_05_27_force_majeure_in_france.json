@@ -1,0 +1,281 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2016_05_27_force_majeure_in_france__root",
+  "doc_id": "poten_tankers_no_date_poten_2016_05_27_force_majeure_in_france",
+  "parent_id": null,
+  "title": "Force Majeure In France",
+  "section_path": [
+    "Force Majeure In France"
+  ],
+  "section_path_text": "Force Majeure In France",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "What are the implications for tanker demand? After the oil industry suffered from a severe drought in Venezuela, forest fires in Canada and rebel attacks on oil installations in Nigeria, it is now facing the consequences of a national strike in France, where members of the trade union CGT have organized strikes at the country's refineries and blocked oil terminals and fuel depots. The situation seems to be worsening as more unions join the CGT and clashes break out between protestors and the police.",
+  "keywords": [
+    "atlantic",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "france",
+    "oil",
+    "strikes",
+    "blockade",
+    "fuel",
+    "what",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1060,
+  "source_path": "reports/poten/2016/poten_2016-05-27_force-majeure-in-france.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_05_27_force_majeure_in_france__s01_what_are_the_implications_for_tanker_demand",
+      "doc_id": "poten_tankers_no_date_poten_2016_05_27_force_majeure_in_france",
+      "parent_id": "poten_tankers_no_date_poten_2016_05_27_force_majeure_in_france__root",
+      "title": "What are the implications for tanker demand?",
+      "section_path": [
+        "What are the implications for tanker demand?"
+      ],
+      "section_path_text": "What are the implications for tanker demand?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "After the oil industry suffered from a severe drought in Venezuela, forest fires in Canada and rebel attacks on oil installations in Nigeria, it is now facing the consequences of a national strike in France, where members of the trade union CGT have organized strikes at the country's refineries and blocked oil terminals and fuel depots. The situation seems to be worsening as more unions join the CGT and clashes break out between protestors and the police.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "france",
+        "fuel",
+        "oil",
+        "strikes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 586,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_05_27_force_majeure_in_france__s02_refinery",
+      "doc_id": "poten_tankers_no_date_poten_2016_05_27_force_majeure_in_france",
+      "parent_id": "poten_tankers_no_date_poten_2016_05_27_force_majeure_in_france__root",
+      "title": "Refinery",
+      "section_path": [
+        "Refinery"
+      ],
+      "section_path_text": "Refinery",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Region Owner Production Status Impact Gonfreville Normandy Total 100% Stopped Blockade",
+      "keywords": [
+        "blockade",
+        "gonfreville",
+        "impact",
+        "normandy",
+        "owner",
+        "production",
+        "region",
+        "status"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 19,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_05_27_force_majeure_in_france__s03_feyzin",
+      "doc_id": "poten_tankers_no_date_poten_2016_05_27_force_majeure_in_france",
+      "parent_id": "poten_tankers_no_date_poten_2016_05_27_force_majeure_in_france__root",
+      "title": "Feyzin",
+      "section_path": [
+        "Feyzin"
+      ],
+      "section_path_text": "Feyzin",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Lyon Total 100% Stopped Blockade, Oil terminal",
+      "keywords": [
+        "crude_oil",
+        "blockade",
+        "lyon",
+        "oil",
+        "stopped",
+        "terminal",
+        "total"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_05_27_force_majeure_in_france__s04_blockaded",
+      "doc_id": "poten_tankers_no_date_poten_2016_05_27_force_majeure_in_france",
+      "parent_id": "poten_tankers_no_date_poten_2016_05_27_force_majeure_in_france__root",
+      "title": "Blockaded",
+      "section_path": [
+        "Blockaded"
+      ],
+      "section_path_text": "Blockaded",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Donges St Nazaire (Atl Coast) Total Stopping 100% Blockade Grandpuits SE of Paris Total Stopping 100% Blockade",
+      "keywords": [
+        "blockade",
+        "stopping",
+        "total",
+        "atl",
+        "coast",
+        "donges",
+        "grandpuits",
+        "nazaire"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 32,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_05_27_force_majeure_in_france__s05_la_mede",
+      "doc_id": "poten_tankers_no_date_poten_2016_05_27_force_majeure_in_france",
+      "parent_id": "poten_tankers_no_date_poten_2016_05_27_force_majeure_in_france__root",
+      "title": "La Mede",
+      "section_path": [
+        "La Mede"
+      ],
+      "section_path_text": "La Mede",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Med Total Reduced Production Blockade, Oil terminal",
+      "keywords": [
+        "crude_oil",
+        "blockade",
+        "med",
+        "oil",
+        "production",
+        "reduced",
+        "terminal",
+        "total"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_05_27_force_majeure_in_france__s06_lavera",
+      "doc_id": "poten_tankers_no_date_poten_2016_05_27_force_majeure_in_france",
+      "parent_id": "poten_tankers_no_date_poten_2016_05_27_force_majeure_in_france__root",
+      "title": "Lavera",
+      "section_path": [
+        "Lavera"
+      ],
+      "section_path_text": "Lavera",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Med INEOS Reduced Production Blockade, Oil terminal",
+      "keywords": [
+        "crude_oil",
+        "blockade",
+        "ineos",
+        "med",
+        "oil",
+        "production",
+        "reduced",
+        "terminal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 10,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_05_27_force_majeure_in_france__s07_blockaded",
+      "doc_id": "poten_tankers_no_date_poten_2016_05_27_force_majeure_in_france",
+      "parent_id": "poten_tankers_no_date_poten_2016_05_27_force_majeure_in_france__root",
+      "title": "Blockaded",
+      "section_path": [
+        "Blockaded"
+      ],
+      "section_path_text": "Blockaded",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "",
+      "keywords": [
+        "exxonmobil",
+        "jerome",
+        "normal",
+        "normandy",
+        "port"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_05_27_force_majeure_in_france__s08_fos_sur_mer",
+      "doc_id": "poten_tankers_no_date_poten_2016_05_27_force_majeure_in_france",
+      "parent_id": "poten_tankers_no_date_poten_2016_05_27_force_majeure_in_france__root",
+      "title": "Fos Sur Mer",
+      "section_path": [
+        "Fos Sur Mer"
+      ],
+      "section_path_text": "Fos Sur Mer",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Med ExxonMobil Normal Blockade Dispersed, Oil",
+      "keywords": [
+        "crude_oil",
+        "blockade",
+        "dispersed",
+        "exxonmobil",
+        "med",
+        "normal",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 12,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_05_27_force_majeure_in_france__s09_terminal_blockaded",
+      "doc_id": "poten_tankers_no_date_poten_2016_05_27_force_majeure_in_france",
+      "parent_id": "poten_tankers_no_date_poten_2016_05_27_force_majeure_in_france__root",
+      "title": "Terminal Blockaded",
+      "section_path": [
+        "Terminal Blockaded"
+      ],
+      "section_path_text": "Terminal Blockaded",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "country exported 257,000 b/d of clean products, mostly gasoline and naphtha. The main destinations were within Europe (approximately 55%), with smaller volumes (about 25%) going to North Africa and Nigeria.",
+      "keywords": [
+        "atlantic",
+        "europe",
+        "products",
+        "gas",
+        "product",
+        "conflict",
+        "european",
+        "france"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 325,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2016_12_15_redefining_refining__root",
+  "doc_id": "poten_tankers_no_date_poten_2016_12_15_redefining_refining",
+  "parent_id": null,
+  "title": "Redefining Refining",
+  "section_path": [
+    "Redefining Refining"
+  ],
+  "section_path_text": "Redefining Refining",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Refining industry continues to change worldwide\nThe recent discussions about the OPEC and non-OPEC production cuts and their impact on oil prices and U.S. shale oil production are a reminder that the upstream side of the oil industry (exploration and production of crude oil) tends to receive more attention than the downstream side of the business (the process of refining and the distribution of refined oil products). However, the refining industry is going through a lot of changes and faces significant challenges and/or opportunities in the coming years, depending on whom you talk to and which region of the world they operate in.",
+  "keywords": [
+    "brazil",
+    "australia",
+    "europe",
+    "india",
+    "japan",
+    "coal",
+    "crude_oil",
+    "products",
+    "gas",
+    "oil",
+    "are",
+    "refining"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 886,
+  "source_path": "reports/poten/2016/poten_2016-12-15_redefining-refining.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2016_12_15_redefining_refining__s01_refining_industry_continues_to_change_worldwide",
+      "doc_id": "poten_tankers_no_date_poten_2016_12_15_redefining_refining",
+      "parent_id": "poten_tankers_no_date_poten_2016_12_15_redefining_refining__root",
+      "title": "Refining industry continues to change worldwide",
+      "section_path": [
+        "Refining industry continues to change worldwide"
+      ],
+      "section_path_text": "Refining industry continues to change worldwide",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The recent discussions about the OPEC and non-OPEC production cuts and their impact on oil prices and U.S. shale oil production are a reminder that the upstream side of the oil industry (exploration and production of crude oil) tends to receive more attention than the downstream side of the business (the process of refining and the distribution of refined oil products).",
+      "keywords": [
+        "brazil",
+        "australia",
+        "europe",
+        "india",
+        "japan",
+        "coal",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 878,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

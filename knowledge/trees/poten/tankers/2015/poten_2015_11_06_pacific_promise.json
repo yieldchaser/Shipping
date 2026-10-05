@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2015_11_06_pacific_promise__root",
+  "doc_id": "poten_tankers_no_date_poten_2015_11_06_pacific_promise",
+  "parent_id": null,
+  "title": "Pacific Promise",
+  "section_path": [
+    "Pacific Promise"
+  ],
+  "section_path_text": "Pacific Promise",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Changes in Asian refining bodes well for Product Tankers\nRefining capacity in Asia has been growing rapidly for many years. Not surprisingly, the vast majority of this growth took place in China, which more than doubled its refining capacity over the last 10 years. The other significant growth engine in Asia has been India.",
+  "keywords": [
+    "china",
+    "australia",
+    "pacific",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "crude_oil",
+    "products",
+    "product",
+    "refining",
+    "growth"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 640,
+  "source_path": "reports/poten/2015/poten_2015-11-06_pacific-promise.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2015_11_06_pacific_promise__s01_changes_in_asian_refining_bodes_well_for_product_tankers",
+      "doc_id": "poten_tankers_no_date_poten_2015_11_06_pacific_promise",
+      "parent_id": "poten_tankers_no_date_poten_2015_11_06_pacific_promise__root",
+      "title": "Changes in Asian refining bodes well for Product Tankers",
+      "section_path": [
+        "Changes in Asian refining bodes well for Product Tankers"
+      ],
+      "section_path_text": "Changes in Asian refining bodes well for Product Tankers",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Refining capacity in Asia has been growing rapidly for many years. Not surprisingly, the vast majority of this growth took place in China, which more than doubled its refining capacity over the last 10 years.",
+      "keywords": [
+        "china",
+        "pacific",
+        "europe",
+        "india",
+        "singapore",
+        "crude_oil",
+        "products",
+        "product"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 490,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2015_11_06_pacific_promise__s02_several_asian_countries_have_developed_into_significant_net",
+      "doc_id": "poten_tankers_no_date_poten_2015_11_06_pacific_promise",
+      "parent_id": "poten_tankers_no_date_poten_2015_11_06_pacific_promise__root",
+      "title": "Several Asian countries have developed into significant net",
+      "section_path": [
+        "Several Asian countries have developed into significant net"
+      ],
+      "section_path_text": "Several Asian countries have developed into significant net",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "In Indonesia, for example, refining capacity has not kept pace with steady demand growth over the years, while countries like Japan and Australia need to import more refined products following domestic refinery closures. The country to watch going forward is China.",
+      "keywords": [
+        "china",
+        "australia",
+        "pacific",
+        "japan",
+        "crude_oil",
+        "products",
+        "refined",
+        "growth"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 129,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

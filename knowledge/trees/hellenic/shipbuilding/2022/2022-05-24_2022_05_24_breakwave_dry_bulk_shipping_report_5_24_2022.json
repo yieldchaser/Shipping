@@ -9,7 +9,7 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 5.24.2022",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nCapesize rates surge 130% in less than a month as iron ore cargoes emerge - The volatile nature of the Capesize market was in full force once\nSource: Breakwave Advisors\n\nLinked asset: 2022-05-24_breakwave-dry-bulk-shipping-report-5-24-2022_breakwavemay242022report_c2ce259e3644.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-05-24_breakwave-dry-bulk-shipping-report-5-24-2022_breakwavemay242022report_c2ce259e3644.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nMay 24, 2022\nBreakwave Dry Futures Index: 3,410 Baltic Dry Index (spot): 3,369 Short-term Indicators:\n↑ 30D: 15.9% ↑ 30D: 46.0% Momentum: Neutral\n↑ YTD: 63.8% ↑ YTD: 52.0% Sentiment: Positive\n↑ YOY: 6.2% ↑ YOY: 17.4% Fundamentals: Positive\nBi-Weekly Report\n• Capesize rates surge 130% in less than a month as iron ore cargoes emerge - The volatile nature of the Capesize\nmarket was in full force once again, with spot rates having now more than tripled since the lows of April. With the\nbroader dislocation of coal trade acting as the base for a tighter market, the emergence of iron ore cargoes out of\nBrazil added more fuel to the fire, and the spot index is now back to well above the 30,000 mark for the first time\nsince late las",
+  "summary": "Main\nCapesize rates surge 130% in less than a month as iron ore cargoes emerge - The volatile nature of the Capesize market was in full force once\nSource: Breakwave Advisors\n\nLinked asset: 2022-05-24_breakwave-dry-bulk-shipping-report-5-24-2022_breakwavemay242022report_c2ce259e3644.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2022-05-24_breakwave-dry-bulk-shipping-report-5-24-2022_breakwavemay242022report_c2ce259e3644.pdf\n\n|||BDRY||||||\n|---|---|---|---|---|---|---|---|\n||↑ ↑ ↑|Dry Bulk Shipping Breakwave Dry Futures Index: 30D: 15.9% YTD: 63.8% YOY: 6.2%|3,410 ↑ ↑ ↑|Baltic Dry Index (spot): 30D: 46.0% YTD: 52.0% YOY: 17.4%|3,369|Momentum: Sentiment: Fundamentals:|May 24, 2022 Short-term Indicators: Neutral Positive Positive|\n|• • •||Bi-Weekly Report Dry bulk upcycle to continue in 2022 -|Capesize rates surge 130% in less than a month as iron ore cargoes emerge - seems a logical development, which has also been progressively priced in the futures market. China continues to add stimulative measures to an ailing economy - profitability before steel mills jump into aggressive buying. Supramax and a weighted average maturity of approximately 50-70 days.|market was in full for",
   "keywords": [
     "capesize",
     "panamax",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1505,
-  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-05-24_breakwave-dry-bulk-shipping-report-5-24-2022.html",
+  "token_count": 1525,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-05-24_breakwave-dry-bulk-shipping-report-5-24-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-5-24-2022",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-05-24_breakwave-dry-bulk-shipping-report-5-24-2022_breakwavemay242022report_c2ce259e3644.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-05-24_breakwave-dry-bulk-shipping-report-5-24-2022_breakwavemay242022report_c2ce259e3644.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nMay 24, 2022\nBreakwave Dry Futures Index: 3,410 Baltic Dry Index (spot): 3,369 Short-term Indicators:\n↑ 30D: 15.9% ↑ 30D: 46.0% Momentum: Neutral\n↑ YTD: 63.8% ↑ YTD: 52.0% Sentiment: Positive\n↑ YOY: 6.2% ↑ YOY: 17.4% Fundamentals: Positive\nBi-Weekly Report\n• Capesize rates surge 130% in less than a month as iron ore cargoes emerge - The volatile nature of the Capesize\nmarket was in full force once again, with spot rates having now more than tripled since the lows of April. With the\nbroader dislocation of coal trade acting as the base for a tighter market, the emergence of iron ore cargoes out of\nBrazil added more fuel to the fire, and the spot index is now back to well above the 30,000 mark for the first time\nsince late last year.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-05-24_breakwave-dry-bulk-shipping-report-5-24-2022_breakwavemay242022report_c2ce259e3644.pdf\n\n|||BDRY||||||\n|---|---|---|---|---|---|---|---|\n||↑ ↑ ↑|Dry Bulk Shipping Breakwave Dry Futures Index: 30D: 15.9% YTD: 63.8% YOY: 6.2%|3,410 ↑ ↑ ↑|Baltic Dry Index (spot): 30D: 46.0% YTD: 52.0% YOY: 17.4%|3,369|Momentum: Sentiment: Fundamentals:|May 24, 2022 Short-term Indicators: Neutral Positive Positive|\n|• • •||Bi-Weekly Report Dry bulk upcycle to continue in 2022 -|Capesize rates surge 130% in less than a month as iron ore cargoes emerge - seems a logical development, which has also been progressively priced in the futures market. China continues to add stimulative measures to an ailing economy - profitability before steel mills jump into aggressive buying.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1420,
+      "token_count": 1440,
       "section_type": "linked_pdf",
       "children": []
     }

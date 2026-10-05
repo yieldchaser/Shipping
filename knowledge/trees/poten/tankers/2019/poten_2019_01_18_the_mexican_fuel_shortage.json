@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2019_01_18_the_mexican_fuel_shortage__root",
+  "doc_id": "poten_tankers_no_date_poten_2019_01_18_the_mexican_fuel_shortage",
+  "parent_id": null,
+  "title": "The Mexican Fuel Shortage",
+  "section_path": [
+    "The Mexican Fuel Shortage"
+  ],
+  "section_path_text": "The Mexican Fuel Shortage",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Running Out Of Gas (and Diesel)\nThe new Mexican president Andres Manuel Lopez Obrador (AMLO) was inaugurated on December 1 st 2018. He vowed to make \"profound and radical\" changes in Mexico with a particular focus to end corruption. AMLO did just that earlier this month when he cracked down on rampant fuel theft in the country by closing off pipelines which are subject to illegal taps.",
+  "keywords": [
+    "crude_oil",
+    "products",
+    "gas",
+    "mexico",
+    "are",
+    "fuel",
+    "product",
+    "amlo",
+    "u.s.",
+    "not",
+    "refineries",
+    "since"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 821,
+  "source_path": "reports/poten/2019/poten_2019-01-18_the-mexican-fuel-shortage.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2019_01_18_the_mexican_fuel_shortage__s01_running_out_of_gas_and_diesel",
+      "doc_id": "poten_tankers_no_date_poten_2019_01_18_the_mexican_fuel_shortage",
+      "parent_id": "poten_tankers_no_date_poten_2019_01_18_the_mexican_fuel_shortage__root",
+      "title": "Running Out Of Gas (and Diesel)",
+      "section_path": [
+        "Running Out Of Gas (and Diesel)"
+      ],
+      "section_path_text": "Running Out Of Gas (and Diesel)",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The new Mexican president Andres Manuel Lopez Obrador (AMLO) was inaugurated on December 1 st 2018. He vowed to make \"profound and radical\" changes in Mexico with a particular focus to end corruption.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "mexico",
+        "are",
+        "fuel",
+        "product",
+        "amlo"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 813,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

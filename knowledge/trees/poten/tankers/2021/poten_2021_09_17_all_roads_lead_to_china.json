@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2021_09_17_all_roads_lead_to_china__root",
+  "doc_id": "poten_tankers_no_date_poten_2021_09_17_all_roads_lead_to_china",
+  "parent_id": null,
+  "title": "All Roads Lead To China",
+  "section_path": [
+    "All Roads Lead To China"
+  ],
+  "section_path_text": "All Roads Lead To China",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Tanker owners can no longer take Chinese growth for granted\nOver the last two decades, China's oil demand growth has propelled the tanker market upwards and onwards. China's rapid economic development was largely responsible for the 2004-2008 \"Super Cycle\" in the shipping markets (not only in tankers, but in dry cargo and containers as well). China's oil demand grew from 4.7 million barrels per day (Mb/d) in 2000 to 13.8 Mb/d in 2020, an average annual growth rate of 5.5%.",
+  "keywords": [
+    "container",
+    "china",
+    "crude_oil",
+    "oil",
+    "crude",
+    "demand",
+    "mb/d",
+    "growth",
+    "refining",
+    "u.s.",
+    "government",
+    "largest"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 883,
+  "source_path": "reports/poten/2021/poten_2021-09-17_all-roads-lead-to-china.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2021_09_17_all_roads_lead_to_china__s01_tanker_owners_can_no_longer_take_chinese_growth_for_granted",
+      "doc_id": "poten_tankers_no_date_poten_2021_09_17_all_roads_lead_to_china",
+      "parent_id": "poten_tankers_no_date_poten_2021_09_17_all_roads_lead_to_china__root",
+      "title": "Tanker owners can no longer take Chinese growth for granted",
+      "section_path": [
+        "Tanker owners can no longer take Chinese growth for granted"
+      ],
+      "section_path_text": "Tanker owners can no longer take Chinese growth for granted",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Over the last two decades, China's oil demand growth has propelled the tanker market upwards and onwards. China's rapid economic development was largely responsible for the 2004-2008 \"Super Cycle\" in the shipping markets (not only in tankers, but in dry cargo and containers as well).",
+      "keywords": [
+        "container",
+        "china",
+        "crude_oil",
+        "oil",
+        "crude",
+        "demand",
+        "mb/d",
+        "refining"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 871,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

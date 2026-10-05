@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2023_02_10_shining_a_light_on_the_dark_fleet__root",
+  "doc_id": "poten_tankers_no_date_poten_2023_02_10_shining_a_light_on_the_dark_fleet",
+  "parent_id": null,
+  "title": "Shining A Light On The Dark Fleet",
+  "section_path": [
+    "Shining A Light On The Dark Fleet"
+  ],
+  "section_path_text": "Shining A Light On The Dark Fleet",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The dark, subterfuge and shadow fleet is not easily defined\nThe Russian invasion of Ukraine in February 2022 triggered increasingly restrictive sanctions on the importation and transportation of Russian barrels of crude oil and oil products. The established tanker owners have responded to these sanctions in different ways. Some owners decided to \"self- sanction\" and immediately stop doing business with Russia.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "europe",
+    "crude_oil",
+    "products",
+    "dark",
+    "fleet",
+    "russian",
+    "tankers"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1427,
+  "source_path": "reports/poten/2023/poten_2023-02-10_shining-a-light-on-the-dark-fleet.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2023_02_10_shining_a_light_on_the_dark_fleet__s01_the_dark_subterfuge_and_shadow_fleet_is_not_easily_defined",
+      "doc_id": "poten_tankers_no_date_poten_2023_02_10_shining_a_light_on_the_dark_fleet",
+      "parent_id": "poten_tankers_no_date_poten_2023_02_10_shining_a_light_on_the_dark_fleet__root",
+      "title": "The dark, subterfuge and shadow fleet is not easily defined",
+      "section_path": [
+        "The dark, subterfuge and shadow fleet is not easily defined"
+      ],
+      "section_path_text": "The dark, subterfuge and shadow fleet is not easily defined",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Russian invasion of Ukraine in February 2022 triggered increasingly restrictive sanctions on the importation and transportation of Russian barrels of crude oil and oil products. The established tanker owners have responded to these sanctions in different ways.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "europe",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1412,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

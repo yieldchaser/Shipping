@@ -1,0 +1,257 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2004_10_29_the_driver__root",
+  "doc_id": "poten_tankers_no_date_poten_2004_10_29_the_driver",
+  "parent_id": null,
+  "title": "The Driver",
+  "section_path": [
+    "The Driver"
+  ],
+  "section_path_text": "The Driver",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Driver\nLast week we concluded that shifting trade patterns and growth in ton-mile demand did not seem sufficient to explain the run-up in Aframax rates. This week we search for another driver behind tanker rates. The following chart shows the relationship between Arabian Gulf oil exports and VLCC rates.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "meg",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "steel",
+    "between",
+    "exports"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 936,
+  "source_path": "reports/poten/2004/poten_2004-10-29_the-driver.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_10_29_the_driver__s01_the_driver",
+      "doc_id": "poten_tankers_no_date_poten_2004_10_29_the_driver",
+      "parent_id": "poten_tankers_no_date_poten_2004_10_29_the_driver__root",
+      "title": "The Driver",
+      "section_path": [
+        "The Driver"
+      ],
+      "section_path_text": "The Driver",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Last week we concluded that shifting trade patterns and growth in ton-mile demand did not seem sufficient to explain the run-up in Aframax rates. This week we search for another driver behind tanker rates.",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "meg",
+        "crude_oil",
+        "rates.",
+        "another",
+        "arabian",
+        "behind"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 55,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_10_29_the_driver__s02_chart_vlcc_rates_vs_middle_east_exports",
+      "doc_id": "poten_tankers_no_date_poten_2004_10_29_the_driver",
+      "parent_id": "poten_tankers_no_date_poten_2004_10_29_the_driver__root",
+      "title": "Chart: Vlcc Rates vs Middle East Exports",
+      "section_path": [
+        "Chart: Vlcc Rates vs Middle East Exports"
+      ],
+      "section_path_text": "Chart: Vlcc Rates vs Middle East Exports",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "An R-square of 69% can be interpreted to mean that 69% of the variation in Vlcc rates can be explained by variation in Arabian Gulf exports. This relationship is not strong enough to predict Vlcc rates by knowing export volume.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "meg",
+        "exports",
+        "change",
+        "africa",
+        "arabian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 183,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_10_29_the_driver__s03_vlccs_and_suezmaxes",
+      "doc_id": "poten_tankers_no_date_poten_2004_10_29_the_driver",
+      "parent_id": "poten_tankers_no_date_poten_2004_10_29_the_driver__root",
+      "title": "Vlccs and Suezmaxes",
+      "section_path": [
+        "Vlccs and Suezmaxes"
+      ],
+      "section_path_text": "Vlccs and Suezmaxes",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The following shows the relationship between Vlcc and Suezmax rates.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "between",
+        "following",
+        "rates.",
+        "relationship",
+        "shows"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_10_29_the_driver__s04_comparison_of_vlcc_suezmax_ws_rates",
+      "doc_id": "poten_tankers_no_date_poten_2004_10_29_the_driver",
+      "parent_id": "poten_tankers_no_date_poten_2004_10_29_the_driver__root",
+      "title": "Comparison of Vlcc & Suezmax WS Rates",
+      "section_path": [
+        "Comparison of Vlcc & Suezmax WS Rates"
+      ],
+      "section_path_text": "Comparison of Vlcc & Suezmax WS Rates",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "75% of the variation in Suezmax rates can be explained by variation in Vlcc rates. While this relation is not strong enough to predict Suezmax rates by knowing Vlcc rates, as shown above, the two rise and fall more or less in unison.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "west_africa",
+        "two",
+        "vessel",
+        "between",
+        "cargoes",
+        "charterers"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 195,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_10_29_the_driver__s05_suezmaxes_and_aframaxes",
+      "doc_id": "poten_tankers_no_date_poten_2004_10_29_the_driver",
+      "parent_id": "poten_tankers_no_date_poten_2004_10_29_the_driver__root",
+      "title": "Suezmaxes and Aframaxes",
+      "section_path": [
+        "Suezmaxes and Aframaxes"
+      ],
+      "section_path_text": "Suezmaxes and Aframaxes",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Here the statistical relationship is not quite as significant as between Vlccs and Suezmaxes (R square of 67% versus 75%). But the general pattern is that Aframax rates fluctuate along the same lines as Suezmax rates.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "along",
+        "between",
+        "but",
+        "fluctuate",
+        "general"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 52,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_10_29_the_driver__s06_comparison_of_suezmax_aframax_ws_rates",
+      "doc_id": "poten_tankers_no_date_poten_2004_10_29_the_driver",
+      "parent_id": "poten_tankers_no_date_poten_2004_10_29_the_driver__root",
+      "title": "Comparison of Suezmax & Aframax WS Rates",
+      "section_path": [
+        "Comparison of Suezmax & Aframax WS Rates"
+      ],
+      "section_path_text": "Comparison of Suezmax & Aframax WS Rates",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "The connection between Suezmaxes and Aframaxes is their competition for cargoes in the North Sea, Black Sea, and the Mediterranean. Wide rate disparities between Suezmaxes and Aframaxes induce charterers to change their preference for vessel type.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "west_africa",
+        "europe",
+        "between",
+        "cargoes",
+        "suezmaxes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 88,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_10_29_the_driver__s07_aframaxes_and_panamaxes",
+      "doc_id": "poten_tankers_no_date_poten_2004_10_29_the_driver",
+      "parent_id": "poten_tankers_no_date_poten_2004_10_29_the_driver__root",
+      "title": "Aframaxes and Panamaxes",
+      "section_path": [
+        "Aframaxes and Panamaxes"
+      ],
+      "section_path_text": "Aframaxes and Panamaxes",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "As shown on the next page, there is a much closer relationship between dirty trading Aframaxes and Panamaxes with an R square value of 78%. These vessel types compete for cargoes on their most important trade: Caribbean to U.S.",
+      "keywords": [
+        "panamax",
+        "aframax",
+        "aframaxes",
+        "between",
+        "cargoes",
+        "caribbean",
+        "closer",
+        "compete"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 50,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_10_29_the_driver__s08_conclusion",
+      "doc_id": "poten_tankers_no_date_poten_2004_10_29_the_driver",
+      "parent_id": "poten_tankers_no_date_poten_2004_10_29_the_driver__root",
+      "title": "Conclusion",
+      "section_path": [
+        "Conclusion"
+      ],
+      "section_path_text": "Conclusion",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Statistically speaking, we have shown that AG exports influence Vlcc rates, which, in turn, influence Suezmax rates. This cascading process continues with the tying together of the Suezmax and Aframax markets, and the Aframax and Panamax markets.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "meg",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 231,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

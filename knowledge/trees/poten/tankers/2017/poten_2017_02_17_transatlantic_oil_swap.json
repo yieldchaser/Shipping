@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2017_02_17_transatlantic_oil_swap__root",
+  "doc_id": "poten_tankers_no_date_poten_2017_02_17_transatlantic_oil_swap",
+  "parent_id": null,
+  "title": "Transatlantic Oil Swap",
+  "section_path": [
+    "Transatlantic Oil Swap"
+  ],
+  "section_path_text": "Transatlantic Oil Swap",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Product trade developments on transatlantic routes\nHistorically, the transatlantic product trade has been a significant source of employment for product tankers. The trade is also attractive because of a steady two-way trade so a tanker can typically achieve high utilization rates on these routes. As the graphs on the right indicate, North American companies export surplus distillates to Europe while the Europeans export gasoline to North America.",
+  "keywords": [
+    "atlantic",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "product",
+    "trade",
+    "are",
+    "gasoline",
+    "mb/d",
+    "north",
+    "u.s."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 857,
+  "source_path": "reports/poten/2017/poten_2017-02-17_transatlantic-oil-swap.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2017_02_17_transatlantic_oil_swap__s01_product_trade_developments_on_transatlantic_routes",
+      "doc_id": "poten_tankers_no_date_poten_2017_02_17_transatlantic_oil_swap",
+      "parent_id": "poten_tankers_no_date_poten_2017_02_17_transatlantic_oil_swap__root",
+      "title": "Product trade developments on transatlantic routes",
+      "section_path": [
+        "Product trade developments on transatlantic routes"
+      ],
+      "section_path_text": "Product trade developments on transatlantic routes",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Historically, the transatlantic product trade has been a significant source of employment for product tankers. The trade is also attractive because of a steady two-way trade so a tanker can typically achieve high utilization rates on these routes.",
+      "keywords": [
+        "atlantic",
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "are",
+        "gasoline",
+        "product"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 848,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

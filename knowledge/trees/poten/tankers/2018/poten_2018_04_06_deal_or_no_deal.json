@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2018_04_06_deal_or_no_deal__root",
+  "doc_id": "poten_tankers_no_date_poten_2018_04_06_deal_or_no_deal",
+  "parent_id": null,
+  "title": "Deal Or No Deal",
+  "section_path": [
+    "Deal Or No Deal"
+  ],
+  "section_path_text": "Deal Or No Deal",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Will Iranian Sanctions Make a Comeback? For most of this decade, Iranian oil production and exports have been reduced due to international sanctions, imposed as a result of of its nuclear ambitions and because of humanitarian concerns. In July 2015, the P5+1 (China, France, , Russia, the U.K the U.S and Germany.) reached an agreement (JCPOA) with Iran on its nuclear capabilities in return for sanctions relief.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "europe",
+    "india",
+    "japan",
+    "crude_oil",
+    "sanctions",
+    "u.s.",
+    "crude",
+    "exports",
+    "iran"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 850,
+  "source_path": "reports/poten/2018/poten_2018-04-06_deal-or-no-deal.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_04_06_deal_or_no_deal__s01_will_iranian_sanctions_make_a_comeback",
+      "doc_id": "poten_tankers_no_date_poten_2018_04_06_deal_or_no_deal",
+      "parent_id": "poten_tankers_no_date_poten_2018_04_06_deal_or_no_deal__root",
+      "title": "Will Iranian Sanctions Make a Comeback?",
+      "section_path": [
+        "Will Iranian Sanctions Make a Comeback?"
+      ],
+      "section_path_text": "Will Iranian Sanctions Make a Comeback?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "For most of this decade, Iranian oil production and exports have been reduced due to international sanctions, imposed as a result of of its nuclear ambitions and because of humanitarian concerns. In July 2015, the P5+1 (China, France, , Russia, the U.K the U.S and Germany.) reached an agreement (JCPOA) with Iran on its nuclear capabilities in return for sanctions relief.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "europe",
+        "india",
+        "japan",
+        "crude_oil",
+        "sanctions"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 841,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

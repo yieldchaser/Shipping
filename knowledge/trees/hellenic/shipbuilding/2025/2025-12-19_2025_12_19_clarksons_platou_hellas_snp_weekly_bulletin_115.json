@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2025,
-  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-12-19_clarksons-platou-hellas-snp-weekly-bulletin-115.html",
+  "token_count": 2045,
+  "source_path": "reports/hellenic/shipbuilding/2025/2025-12-19_clarksons-platou-hellas-snp-weekly-bulletin-115.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-115",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-12-19_clarksons-platou-hellas-snp-weekly-bulletin-115_weekly-sales-19th-dec-2025_25b3d59450d8.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-12-19_clarksons-platou-hellas-snp-weekly-bulletin-115_weekly-sales-19th-dec-2025_25b3d59450d8.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nDry Cargo\nAs we move through the end of Q4, we see a seasonal uptick in transactions across several segments.",
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-12-19_clarksons-platou-hellas-snp-weekly-bulletin-115_weekly-sales-19th-dec-2025_25b3d59450d8.pdf\n\n### Clarkson Hellas Ltd. # Desk Talk\n\n## Dry Cargo\n\nAs we move through the end of Q4, we see a seasonal uptick in transactions across several segments.",
       "keywords": [
         "capesize",
         "supramax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1512,
+      "token_count": 1532,
       "section_type": "linked_pdf",
       "children": []
     }

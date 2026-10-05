@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2023_06_16_a_new_dawn_or_a_false_start__root",
+  "doc_id": "poten_tankers_no_date_poten_2023_06_16_a_new_dawn_or_a_false_start",
+  "parent_id": null,
+  "title": "A New Dawn Or A False Start",
+  "section_path": [
+    "A New Dawn Or A False Start"
+  ],
+  "section_path_text": "A New Dawn Or A False Start",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "A new President has created excitement and uncertainty\nSince the election of the new Nigerian president, Mr. Bola Ahmed Tinubu, who was inaugurated on May 29, 2023, the country has been frequently in the news. Nigeria, Africa's most populous nation, faces many challenges, both economic and social.",
+  "keywords": [
+    "brazil",
+    "crude_oil",
+    "products",
+    "gas",
+    "nigeria",
+    "its",
+    "nigerian",
+    "oil",
+    "crude",
+    "president",
+    "but",
+    "fuel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 957,
+  "source_path": "reports/poten/2023/poten_2023-06-16_a-new-dawn-or-a-false-start.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2023_06_16_a_new_dawn_or_a_false_start__s01_a_new_president_has_created_excitement_and_uncertainty",
+      "doc_id": "poten_tankers_no_date_poten_2023_06_16_a_new_dawn_or_a_false_start",
+      "parent_id": "poten_tankers_no_date_poten_2023_06_16_a_new_dawn_or_a_false_start__root",
+      "title": "A new President has created excitement and uncertainty",
+      "section_path": [
+        "A new President has created excitement and uncertainty"
+      ],
+      "section_path_text": "A new President has created excitement and uncertainty",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Since the election of the new Nigerian president, Mr. Bola Ahmed Tinubu, who was inaugurated on May 29, 2023, the country has been frequently in the news.",
+      "keywords": [
+        "brazil",
+        "crude_oil",
+        "products",
+        "gas",
+        "nigeria",
+        "its",
+        "nigerian",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 948,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

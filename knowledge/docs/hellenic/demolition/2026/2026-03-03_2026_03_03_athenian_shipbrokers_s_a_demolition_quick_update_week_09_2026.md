@@ -4,6 +4,7 @@ commodities: []
 date: '2026-03-03'
 doc_id: hellenic_demolition_2026-03-03_2026_03_03_athenian_shipbrokers_s_a_demolition_quick_update_week_09_2026
 document_type: demolition_update
+is_error_page: false
 key_entities:
 - China
 keywords:

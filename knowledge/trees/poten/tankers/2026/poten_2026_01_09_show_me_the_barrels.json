@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2026_01_09_show_me_the_barrels__root",
+  "doc_id": "poten_tankers_no_date_poten_2026_01_09_show_me_the_barrels",
+  "parent_id": null,
+  "title": "Show Me The Barrels",
+  "section_path": [
+    "Show Me The Barrels"
+  ],
+  "section_path_text": "Show Me The Barrels",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Top Reported Dirty Spot Charterers for 2025*\nIt is that time of the year again. Who comes out on top in our annual ranking of dirty spot charterers? It is no surprise that Unipec remained the lead spot charterer in 2024, taking care of 15.4% of the reported fixtures.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "brazil",
+    "india",
+    "crude_oil",
+    "top",
+    "reported",
+    "total",
+    "charterers",
+    "chevron"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1123,
+  "source_path": "reports/poten/2026/poten_2026-01-09_show-me-the-barrels.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2026_01_09_show_me_the_barrels__s01_top_reported_dirty_spot_charterers_for_2025",
+      "doc_id": "poten_tankers_no_date_poten_2026_01_09_show_me_the_barrels",
+      "parent_id": "poten_tankers_no_date_poten_2026_01_09_show_me_the_barrels__root",
+      "title": "Top Reported Dirty Spot Charterers for 2025*",
+      "section_path": [
+        "Top Reported Dirty Spot Charterers for 2025*"
+      ],
+      "section_path_text": "Top Reported Dirty Spot Charterers for 2025*",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "It is that time of the year again. Who comes out on top in our annual ranking of dirty spot charterers?",
+      "keywords": [
+        "china",
+        "brazil",
+        "crude_oil",
+        "total",
+        "cargo",
+        "charterer",
+        "chevron",
+        "dirty"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 692,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2026_01_09_show_me_the_barrels__s02_chart_top_10_vlcc_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2026_01_09_show_me_the_barrels",
+      "parent_id": "poten_tankers_no_date_poten_2026_01_09_show_me_the_barrels__root",
+      "title": "Chart: Top 10 VLCC Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 VLCC Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 VLCC Spot Charterers",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Unipec's VLCC spot charters were slightly higher in 2025 (up 8 relative to 2024). The fixture volume of Petrobras, the No.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "india",
+        "activity",
+        "volume",
+        "was",
+        "came",
+        "charterer"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 154,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2026_01_09_show_me_the_barrels__s03_chart_top_10_suezmax_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2026_01_09_show_me_the_barrels",
+      "parent_id": "poten_tankers_no_date_poten_2026_01_09_show_me_the_barrels__root",
+      "title": "Chart: Top 10 Suezmax Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 Suezmax Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 Suezmax Spot Charterers",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "In the Suezmax segment, Total took the top spot from ExxonMobil, which dropped two places. Chevron also surpassed ExxonMobil to settle in 2 nd place.",
+      "keywords": [
+        "suezmax",
+        "dropped",
+        "exxonmobil",
+        "top",
+        "total",
+        "chevron",
+        "compared",
+        "fixtures"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 100,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2026_01_09_show_me_the_barrels__s04_chart_top_10_aframax_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2026_01_09_show_me_the_barrels",
+      "parent_id": "poten_tankers_no_date_poten_2026_01_09_show_me_the_barrels__root",
+      "title": "Chart: Top 10 Aframax Spot Charterers",
+      "section_path": [
+        "Chart: Top 10 Aframax Spot Charterers"
+      ],
+      "section_path_text": "Chart: Top 10 Aframax Spot Charterers",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "There were some major changes in the Aframax segment. Vitol reclaimed the top spot after dropping to #10 in last year's ranking.",
+      "keywords": [
+        "aframax",
+        "crude_oil",
+        "last",
+        "reported",
+        "year",
+        "above",
+        "activity",
+        "activity."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 131,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

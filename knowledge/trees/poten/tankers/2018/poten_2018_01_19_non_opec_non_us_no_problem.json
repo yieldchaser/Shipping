@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2018_01_19_non_opec_non_us_no_problem__root",
+  "doc_id": "poten_tankers_no_date_poten_2018_01_19_non_opec_non_us_no_problem",
+  "parent_id": null,
+  "title": "Non OPEC Non US No Problem",
+  "section_path": [
+    "Non OPEC Non US No Problem"
+  ],
+  "section_path_text": "Non OPEC Non US No Problem",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Non OPEC production outside the U.S. remains relevant\nOver the last couple of years, two topics have dominated the oil (and by extension the tanker) markets: OPEC production, or the lack thereof and U.S. Judging by the amount of ink that is used to discuss these popular themes, one may think that not much is happening in the rest of the world, i.e.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "pacific",
+    "europe",
+    "india",
+    "crude_oil",
+    "production",
+    "oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 980,
+  "source_path": "reports/poten/2018/poten_2018-01-19_non-opec-non-us-no-problem.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2018_01_19_non_opec_non_us_no_problem__s01_non_opec_production_outside_the_u_s_remains_relevant",
+      "doc_id": "poten_tankers_no_date_poten_2018_01_19_non_opec_non_us_no_problem",
+      "parent_id": "poten_tankers_no_date_poten_2018_01_19_non_opec_non_us_no_problem__root",
+      "title": "Non OPEC production outside the U.S. remains relevant",
+      "section_path": [
+        "Non OPEC production outside the U.S. remains relevant"
+      ],
+      "section_path_text": "Non OPEC production outside the U.S. remains relevant",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Over the last couple of years, two topics have dominated the oil (and by extension the tanker) markets: OPEC production, or the lack thereof and U.S. Judging by the amount of ink that is used to discuss these popular themes, one may think that not much is happening in the rest of the world, i.e.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "pacific",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 968,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

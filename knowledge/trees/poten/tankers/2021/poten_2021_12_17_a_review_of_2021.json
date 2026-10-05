@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2021_12_17_a_review_of_2021__root",
+  "doc_id": "poten_tankers_no_date_poten_2021_12_17_a_review_of_2021",
+  "parent_id": null,
+  "title": "A Review Of 2021",
+  "section_path": [
+    "A Review Of 2021"
+  ],
+  "section_path_text": "A Review Of 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Another eventful year comes to a close\nAt the start of 2021, we were hopeful that - after the rollercoaster ride of 2020 amidst a global health pandemic - the tanker markets would gradually improve. Multiple Covid vaccines were available and a new president in the United States would bring more stability to global markets. There was a large vessel supply overhang and the recovery in oil demand was expected to be gradual, but the overall consensus was that the market would start to improve in the second half of the year.",
+  "keywords": [
+    "aframax",
+    "china",
+    "india",
+    "crude_oil",
+    "was",
+    "oil",
+    "demand",
+    "tankers",
+    "year",
+    "are",
+    "but",
+    "global"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 966,
+  "source_path": "reports/poten/2021/poten_2021-12-17_a-review-of-2021.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2021_12_17_a_review_of_2021__s01_another_eventful_year_comes_to_a_close",
+      "doc_id": "poten_tankers_no_date_poten_2021_12_17_a_review_of_2021",
+      "parent_id": "poten_tankers_no_date_poten_2021_12_17_a_review_of_2021__root",
+      "title": "Another eventful year comes to a close",
+      "section_path": [
+        "Another eventful year comes to a close"
+      ],
+      "section_path_text": "Another eventful year comes to a close",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "At the start of 2021, we were hopeful that - after the rollercoaster ride of 2020 amidst a global health pandemic - the tanker markets would gradually improve. Multiple Covid vaccines were available and a new president in the United States would bring more stability to global markets.",
+      "keywords": [
+        "aframax",
+        "china",
+        "india",
+        "crude_oil",
+        "was",
+        "oil",
+        "demand",
+        "tankers"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 957,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

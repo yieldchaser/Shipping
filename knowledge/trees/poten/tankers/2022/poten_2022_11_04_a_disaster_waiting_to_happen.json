@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2022_11_04_a_disaster_waiting_to_happen__root",
+  "doc_id": "poten_tankers_no_date_poten_2022_11_04_a_disaster_waiting_to_happen",
+  "parent_id": null,
+  "title": "A Disaster Waiting To Happen",
+  "section_path": [
+    "A Disaster Waiting To Happen"
+  ],
+  "section_path_text": "A Disaster Waiting To Happen",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Growing size of \"dark fleet\" increases the risk of accidents\nIn recent weeks, the tanker market observed two incidents that highlights again the potential risks associated with utilizing old, substandard tonnage for the transportation of crude oil and petroleum products. Last week, a 20-year old Aframax loaded with Russian crude was briefly adrift off the Spanish coast. The vessel, which was en route from Primorsk to Turkey, needed to make repairs and was only allowed to proceed with her voyage after several deficiencies had been corrected.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "crude_oil",
+    "products",
+    "fleet",
+    "dark",
+    "vessels",
+    "oil",
+    "tankers",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 893,
+  "source_path": "reports/poten/2022/poten_2022-11-04_a-disaster-waiting-to-happen.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_11_04_a_disaster_waiting_to_happen__s01_growing_size_of_dark_fleet_increases_the_risk_of_accidents",
+      "doc_id": "poten_tankers_no_date_poten_2022_11_04_a_disaster_waiting_to_happen",
+      "parent_id": "poten_tankers_no_date_poten_2022_11_04_a_disaster_waiting_to_happen__root",
+      "title": "Growing size of \"dark fleet\" increases the risk of accidents",
+      "section_path": [
+        "Growing size of \"dark fleet\" increases the risk of accidents"
+      ],
+      "section_path_text": "Growing size of \"dark fleet\" increases the risk of accidents",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In recent weeks, the tanker market observed two incidents that highlights again the potential risks associated with utilizing old, substandard tonnage for the transportation of crude oil and petroleum products. Last week, a 20-year old Aframax loaded with Russian crude was briefly adrift off the Spanish coast.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "crude_oil",
+        "products",
+        "fleet",
+        "vessels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 880,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

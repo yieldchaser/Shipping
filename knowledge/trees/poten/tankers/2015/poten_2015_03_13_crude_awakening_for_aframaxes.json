@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2015_03_13_crude_awakening_for_aframaxes__root",
+  "doc_id": "poten_tankers_no_date_poten_2015_03_13_crude_awakening_for_aframaxes",
+  "parent_id": null,
+  "title": "Crude Awakening for Aframaxes",
+  "section_path": [
+    "Crude Awakening for Aframaxes"
+  ],
+  "section_path_text": "Crude Awakening for Aframaxes",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Crude Awakening for Aframaxes\nDirty Aframax tankers continue to have potential For many years, the Aframax crude oil tanker was the workhorse of the crude oil tanker industry. This vessel size was very versatile, could enter almost any crude oil load and discharge port worldwide and was an ideal match for the rapidly growing short-haul crude trades in regional basins such as the North Sea, the Baltic Sea, the Caribbean Basin and the Mediterranean and Black Sea, as well as the regional trades in South East Asia. From 1990 to 2010, the Aframax fleet more than doubled from 407 to 837 vessels, a compound annual growth rate of 3.7%, making it the fastest growing crude tanker segment over that time period.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "atlantic",
+    "pacific",
+    "europe",
+    "india",
+    "singapore",
+    "crude_oil",
+    "crude",
+    "oil",
+    "fixtures"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 739,
+  "source_path": "reports/poten/2015/poten_2015-03-13_crude-awakening-for-aframaxes.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2015_03_13_crude_awakening_for_aframaxes__s01_crude_awakening_for_aframaxes",
+      "doc_id": "poten_tankers_no_date_poten_2015_03_13_crude_awakening_for_aframaxes",
+      "parent_id": "poten_tankers_no_date_poten_2015_03_13_crude_awakening_for_aframaxes__root",
+      "title": "Crude Awakening for Aframaxes",
+      "section_path": [
+        "Crude Awakening for Aframaxes"
+      ],
+      "section_path_text": "Crude Awakening for Aframaxes",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Dirty Aframax tankers continue to have potential For many years, the Aframax crude oil tanker was the workhorse of the crude oil tanker industry. This vessel size was very versatile, could enter almost any crude oil load and discharge port worldwide and was an ideal match for the rapidly growing short-haul crude trades in regional basins such as the North Sea, the Baltic Sea, the Caribbean Basin and the Mediterranean and Black Sea, as well as the regional trades in South East Asia.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "atlantic",
+        "pacific",
+        "europe",
+        "india",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 731,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_01_28_cash_disposal_unit__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_01_28_cash_disposal_unit",
+  "parent_id": null,
+  "title": "Cash Disposal Unit",
+  "section_path": [
+    "Cash Disposal Unit"
+  ],
+  "section_path_text": "Cash Disposal Unit",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Cash Disposal Unit\n2003 and 2004 rank among the most profitable years in tanker history. While directionally a good trend for tanker owners, this situation has created an interesting and challenging strategic issue: \"How to dispose of the cash?\" The following chart shows the daily earnings of a VLCC operating in the spot market and the cumulative cash generation for 350 operating days per year net of $9,500 per day in operating costs. Before financing costs, a VLCC generated $41 million in cash over a two-year span equal to 55% of an assumed acquisition cost of $75 million.",
+  "keywords": [
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "brazil",
+    "crude_oil",
+    "gas",
+    "cash",
+    "are",
+    "owners",
+    "not",
+    "off"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1202,
+  "source_path": "reports/poten/2005/poten_2005-01-28_cash-disposal-unit.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_01_28_cash_disposal_unit__s01_cash_disposal_unit",
+      "doc_id": "poten_tankers_no_date_poten_2005_01_28_cash_disposal_unit",
+      "parent_id": "poten_tankers_no_date_poten_2005_01_28_cash_disposal_unit__root",
+      "title": "Cash Disposal Unit",
+      "section_path": [
+        "Cash Disposal Unit"
+      ],
+      "section_path_text": "Cash Disposal Unit",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "2003 and 2004 rank among the most profitable years in tanker history. While directionally a good trend for tanker owners, this situation has created an interesting and challenging strategic issue: \"How to dispose of the cash?\" The following chart shows the daily earnings of a VLCC operating in the spot market and the cumulative cash generation for 350 operating days per year net of $9,500 per day in operating costs.",
+      "keywords": [
+        "vlcc",
+        "cash",
+        "operating",
+        "per",
+        "acquisition",
+        "among",
+        "assumed",
+        "before"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 118,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_01_28_cash_disposal_unit__s02_vlcc",
+      "doc_id": "poten_tankers_no_date_poten_2005_01_28_cash_disposal_unit",
+      "parent_id": "poten_tankers_no_date_poten_2005_01_28_cash_disposal_unit__root",
+      "title": "VLCC",
+      "section_path": [
+        "VLCC"
+      ],
+      "section_path_text": "VLCC",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Earnings and Cumulative Cash Generation $/Day Earnings Cumulative Cash",
+      "keywords": [
+        "cash",
+        "cumulative",
+        "earnings",
+        "day",
+        "generation"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_01_28_cash_disposal_unit__s03_millions",
+      "doc_id": "poten_tankers_no_date_poten_2005_01_28_cash_disposal_unit",
+      "parent_id": "poten_tankers_no_date_poten_2005_01_28_cash_disposal_unit__root",
+      "title": "$Millions",
+      "section_path": [
+        "$Millions"
+      ],
+      "section_path_text": "$Millions",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Enough to pay off 55% of $75 Million Vessel Cost! Half of Cost of Crude Carriers Recouped in Two Years!",
+      "keywords": [
+        "cost",
+        "vessel",
+        "analysis",
+        "carriers",
+        "crude",
+        "enough",
+        "following",
+        "half"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 42,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_01_28_cash_disposal_unit__s04_generation_to",
+      "doc_id": "poten_tankers_no_date_poten_2005_01_28_cash_disposal_unit",
+      "parent_id": "poten_tankers_no_date_poten_2005_01_28_cash_disposal_unit__root",
+      "title": "Generation to",
+      "section_path": [
+        "Generation to"
+      ],
+      "section_path_text": "Generation to",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Acquisition Cost VLCC $75 mm $41.2 mm 55% Suezmax $50 mm $26.5 mm 53% Aframax $40 mm $20.4 mm 51% Handymax $28 mm $ 7.6 mm 27% In summary, before financing costs of any debt, the total cash generation has amounted to a little more than half of the assumed average cost for modern crude carriers. Handymax product carriers have been late to rally and have only returned a little over a quarter of their assumed acquisition cost.",
+      "keywords": [
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "cash",
+        "acquisition",
+        "are",
+        "assumed"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 176,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_01_28_cash_disposal_unit__s05_cash",
+      "doc_id": "poten_tankers_no_date_poten_2005_01_28_cash_disposal_unit",
+      "parent_id": "poten_tankers_no_date_poten_2005_01_28_cash_disposal_unit__root",
+      "title": "Cash",
+      "section_path": [
+        "Cash"
+      ],
+      "section_path_text": "Cash",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "",
+      "keywords": [
+        "generation"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_01_28_cash_disposal_unit__s06_o_order_newbuildings",
+      "doc_id": "poten_tankers_no_date_poten_2005_01_28_cash_disposal_unit",
+      "parent_id": "poten_tankers_no_date_poten_2005_01_28_cash_disposal_unit__root",
+      "title": "O Order newbuildings",
+      "section_path": [
+        "O Order newbuildings"
+      ],
+      "section_path_text": "O Order newbuildings",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Spin Some off as a Dividend Of course dividend payments are more pertinent to publicly traded stocks where future stock value is presumably linked to anticipated aggregate dividends over the remaining life of the company. Publicly traded tanker companies have recently paid out hundreds of millions of dollars to their shareholders.",
+      "keywords": [
+        "off",
+        "are",
+        "debt",
+        "owners",
+        "dividend",
+        "dividends",
+        "higher",
+        "low"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 213,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_01_28_cash_disposal_unit__s07_invest_in_new_areas",
+      "doc_id": "poten_tankers_no_date_poten_2005_01_28_cash_disposal_unit",
+      "parent_id": "poten_tankers_no_date_poten_2005_01_28_cash_disposal_unit__root",
+      "title": "Invest in New Areas",
+      "section_path": [
+        "Invest in New Areas"
+      ],
+      "section_path_text": "Invest in New Areas",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "The fabulous Greeks of the 1970s took a part of their winnings and invested in real estate, gold, art works, oil refineries, and at least one in an airline. When the longest tanker depression in history descended on them, those who invested in new areas clearly did better than those who stayed in shipping.",
+      "keywords": [
+        "crude_oil",
+        "gas",
+        "depression",
+        "invested",
+        "who",
+        "airline.",
+        "already",
+        "areas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 114,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_01_28_cash_disposal_unit__s08_buy_existing_tankers",
+      "doc_id": "poten_tankers_no_date_poten_2005_01_28_cash_disposal_unit",
+      "parent_id": "poten_tankers_no_date_poten_2005_01_28_cash_disposal_unit__root",
+      "title": "Buy Existing Tankers",
+      "section_path": [
+        "Buy Existing Tankers"
+      ],
+      "section_path_text": "Buy Existing Tankers",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "This is a tempting alternative except that ship values are at historic highs. A wait and see attitude might see lower ship values if the market remains at present levels for a period of time.",
+      "keywords": [
+        "brazil",
+        "prices",
+        "another",
+        "are",
+        "lower",
+        "see",
+        "ship",
+        "values"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 95,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_01_28_cash_disposal_unit__s09_order_more_tankers",
+      "doc_id": "poten_tankers_no_date_poten_2005_01_28_cash_disposal_unit",
+      "parent_id": "poten_tankers_no_date_poten_2005_01_28_cash_disposal_unit__root",
+      "title": "Order More Tankers",
+      "section_path": [
+        "Order More Tankers"
+      ],
+      "section_path_text": "Order More Tankers",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "This is like a lottery winner who takes his winnings and buys more lottery tickets. Complete reinvestment in newbuildings over a long period of time will end up with too many tankers chasing too few cargoes.",
+      "keywords": [
+        "another",
+        "are",
+        "areas",
+        "may",
+        "not",
+        "paying",
+        "too",
+        "winnings"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 388,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

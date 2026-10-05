@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNEW BUILDING: In dry bulk this week, CMB ordered a further two firm 210k dwt Newcastlemaxes at CSSC Beihai. The vessels are\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2021-12-24_clarksons-platou-hellas-snp-weekly-bulletin-2_report-24-12-2021_e3fa7387bb9d.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2021-12-24_clarksons-platou-hellas-snp-weekly-bulletin-2_report-24-12-2021_e3fa7387bb9d.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 24 December 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMID USD 18 M\nMAN-B&W 6S60MC-C SS 05/26\nATLANTIC LEGEND 83,685 2009 SANOYAS (TC attached at USD 16.3k U/D\nBWTS fitted DD 05/24\npd until Apr/Jul '22)\nMAN-B&W 6S60ME-C8 SS 07/25\nSCARLET ALBATROSS 81,923 2015 TSUNEISHI ZOSEN USD 31.7 M GREEKS\nBWTS fitted DD 06/23\nMAN-B&W 6S50ME-C8\nSS 09/22\nPACIFIC BLESS 56,361 4 x 36 T\nDD 09/22\nTier II HIGH USD 34 M\n2012 JIANGSU NEW HANTONG CHINESE\nMAN-B&W 6S50MC-C en bloc\nSS 05/22\nPACIFIC CROWN 56,469 4 X 36 T\nDD 05/22\nTier II\nMAN-B&W 5S50MC-C\nSS 05/26\nAS ELBIA 34,394 2011 SPP 4 x 35 T USD 16.75 M U/D\nDD 08/24\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 01/22\nVOYAGER 149,991 2",
+  "summary": "Main\nNEW BUILDING: In dry bulk this week, CMB ordered a further two firm 210k dwt Newcastlemaxes at CSSC Beihai. The vessels are\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2021-12-24_clarksons-platou-hellas-snp-weekly-bulletin-2_report-24-12-2021_e3fa7387bb9d.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2021-12-24_clarksons-platou-hellas-snp-weekly-bulletin-2_report-24-12-2021_e3fa7387bb9d.pdf\n\n# ` Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 24 December 2021\n\n## BULK CARRIERS\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|ATLANTIC LEGEND|83,685|2009 SANOYAS|MAN-BWTS fit B&W 6S60MC -C ted|SS 05/26 DD 05|MID USD 18 M /24 (TC attached at USD 16.3k pd until Apr/Jul '22)|U/D|\n|SCARLET ALBATROSS|81,923|2015 TSUNEISHI ZOSEN|MAN-B&W 6S60ME -C8 BWTS fitted|SS 07/25 DD 06/23|USD 31.7 M|GREEKS|\n|PACIFIC BLESS|56,361|2012 JIANGSU NEW HANTONG|MAN-B&W 6S50ME-C8 4 x 36 T Tier II|SS 09/22 DD 09/22|HIGH USD 34 M en bloc|CHINESE|\n|PACIFIC CROWN|56,469||MAN-B&W 6S50MC-C 4 X 36 T Tier II|SS 05/22 DD 05/22|||\n|AS ELBIA|34,394|2011 SPP|MAN-B&W 5S50MC-C 4 x 35 T BWTS fitted|SS 05/26 DD 08/24|USD 16.75 M|U/D|\n\n## <u>TANKERS - CHEMICALS - LPG/LNGs</u>\n\nVE",
   "keywords": [
     "lng",
     "lpg",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2957,
-  "source_path": "corpus/02-hellenic/shipbuilding/2021/2021-12-24_clarksons-platou-hellas-snp-weekly-bulletin-2.html",
+  "token_count": 3179,
+  "source_path": "reports/hellenic/shipbuilding/2021/2021-12-24_clarksons-platou-hellas-snp-weekly-bulletin-2.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-2",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2021-12-24_clarksons-platou-hellas-snp-weekly-bulletin-2_report-24-12-2021_e3fa7387bb9d.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-12-24_clarksons-platou-hellas-snp-weekly-bulletin-2_report-24-12-2021_e3fa7387bb9d.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 24 December 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMID USD 18 M\nMAN-B&W 6S60MC-C SS 05/26\nATLANTIC LEGEND 83,685 2009 SANOYAS (TC attached at USD 16.3k U/D\nBWTS fitted DD 05/24\npd until Apr/Jul '22)\nMAN-B&W 6S60ME-C8 SS 07/25\nSCARLET ALBATROSS 81,923 2015 TSUNEISHI ZOSEN USD 31.7 M GREEKS\nBWTS fitted DD 06/23\nMAN-B&W 6S50ME-C8\nSS 09/22\nPACIFIC BLESS 56,361 4 x 36 T\nDD 09/22\nTier II HIGH USD 34 M\n2012 JIANGSU NEW HANTONG CHINESE\nMAN-B&W 6S50MC-C en bloc\nSS 05/22\nPACIFIC CROWN 56,469 4 X 36 T\nDD 05/22\nTier II\nMAN-B&W 5S50MC-C\nSS 05/26\nAS ELBIA 34,394 2011 SPP 4 x 35 T USD 16.75 M U/D\nDD 08/24\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 01/22\nVOYAGER 149,991 2002 SASEBO MAN-B&W 6S70MC USD 13.6 M U/D\nDD 01/22\nPage 1 of 4\n\n[Page 2]\n1\nSale and Purchase\nHellas S&P Weekly Bulletin 24 December 2021\nNEW BUILDING\nIn dry bulk this week, CMB ordered a further two firm 210k dwt Newcastlemaxes at CSSC Beihai. The vessels are reported to ",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-12-24_clarksons-platou-hellas-snp-weekly-bulletin-2_report-24-12-2021_e3fa7387bb9d.pdf\n\n# ` Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 24 December 2021\n\n## BULK CARRIERS\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE|BUYER|\n|---|---|---|---|---|---|---|\n|ATLANTIC LEGEND|83,685|2009 SANOYAS|MAN-BWTS fit B&W 6S60MC -C ted|SS 05/26 DD 05|MID USD 18 M /24 (TC attached at USD 16.3k pd until Apr/Jul '22)|U/D|\n|SCARLET ALBATROSS|81,923|2015 TSUNEISHI ZOSEN|MAN-B&W 6S60ME -C8 BWTS fitted|SS 07/25 DD 06/23|USD 31.7 M|GREEKS|\n|PACIFIC BLESS|56,361|2012 JIANGSU NEW HANTONG|MAN-B&W 6S50ME-C8 4 x 36 T Tier II|SS 09/22 DD 09/22|HIGH USD 34 M en bloc|CHINESE|\n|PACIFIC CROWN|56,469||MAN-B&W 6S50MC-C 4 X 36 T Tier II|SS 05/22 DD 05/22|||\n|AS ELBIA|34,394|2011 SPP|MAN-B&W 5S50MC-C 4 x 35 T BWTS fitted|SS 05/26 DD 08/24|USD 16.75 M|U/D|\n\n## <u>TANKERS - CHEMICALS - LPG/LNGs</u>\n\nVESSEL <u>DWT</u> BLT DETAILS <u>SS/DD</u> PRICE BUYER\n\nSS 01/22 **VOYAGER** 149,991 2002 SASEBO MAN-B&W 6S70MC USD 13.6 M U/D DD 01/22\n\n## <u>NEW BUILDING</u>\n\nIn dry bulk this week, CMB ordered a further two firm 210k dwt Newcastlemaxes at CSSC Beihai. The vessels are repo",
       "keywords": [
         "lng",
         "lpg",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2863,
+      "token_count": 3085,
       "section_type": "linked_pdf",
       "children": []
     }

@@ -351,7 +351,7 @@ numeric_observations:
   source_line: MR PRODUCT N/A 50.15 ꜛ CONTAINERS SUBCON 6000 - 10000 N/A
   unit: null
   values:
-  - 50150.0
+  - 50.15
   - 6000.0
   - 10000.0
 - section: Market Report Content
@@ -637,12 +637,12 @@ numeric_observations:
   source_line: CMRE Costamare Inc. 15.47 0.19 15.28 1.87B 2.65 5.56
   unit: null
   values:
-  - 15470.0
+  - 15.47
   - 0.19
-  - 15280.0
+  - 15.28
   - 1.87
   - 2.65
-  - 5560.0
+  - 5.56
 - section: Market Report Content
   section_type: null
   source_line: DAC Danaos Corporation 162.05 2.72 159.33 2.95B 29.55 6.61
@@ -652,8 +652,8 @@ numeric_observations:
   - 2.72
   - 159.33
   - 2.95
-  - 29550.0
-  - 6610.0
+  - 29.55
+  - 6.61
 - section: Market Report Content
   section_type: null
   source_line: DLNG Dynagas LNG Partners LP 3.7 -0.08 3.78 134.613M 1.6800 3.39
@@ -675,29 +675,29 @@ numeric_observations:
   - 2.97
   - 380.706
   - 0.49
-  - 5280.0
+  - 5.28
 - section: Market Report Content
   section_type: null
   source_line: ESEA Euroseas Ltd. 76.65 2.09 74.56 540.83M 19.51 4.98
   unit: null
   values:
-  - 76650.0
+  - 76.65
   - 2.09
-  - 74560.0
+  - 74.56
   - 540.83
-  - 19510.0
+  - 19.51
   - 4.98
 - section: Market Report Content
   section_type: null
   source_line: GASS StealthGas Inc. 9.58 0.16 9.42 360.483M 1.59 6.34
   unit: null
   values:
-  - 9580.0
+  - 9.58
   - 0.16
-  - 9420.0
+  - 9.42
   - 360.483
   - 1.59
-  - 6340.0
+  - 6.34
 - section: Market Report Content
   section_type: null
   source_line: GLBS Globus Maritime Limited 3.99 0.27 3.72 86.113M 0.3200 -99.75
@@ -714,68 +714,68 @@ numeric_observations:
   source_line: LPG Dorian LPG Ltd. 57.88 2.7 55.18 2.476B 7.54 12.37
   unit: null
   values:
-  - 57880.0
+  - 57.88
   - 2.7
-  - 55180.0
+  - 55.18
   - 2.476
-  - 7540.0
-  - 12370.0
+  - 7.54
+  - 12.37
 - section: Market Report Content
   section_type: null
   source_line: NMM Navios Maritime Partners L.P. 92.90 0.55 92.35 2.687B 15.29 5.30
   unit: null
   values:
-  - 92900.0
+  - 92.9
   - 0.55
-  - 92350.0
+  - 92.35
   - 2.687
-  - 15290.0
-  - 5300.0
+  - 15.29
+  - 5.3
 - section: Market Report Content
   section_type: null
   source_line: PXS Pyxis Tankers Inc. 7.46 0.58 6.88 76.384M 0.82 5.11
   unit: null
   values:
-  - 7460.0
+  - 7.46
   - 0.58
-  - 6880.0
+  - 6.88
   - 76384.0
   - 0.82
-  - 5110.0
+  - 5.11
 - section: Market Report Content
   section_type: null
   source_line: SB Safe Bulkers, Inc. 9.13 0.62 8.51 1.039B 0.77 13.04
   unit: null
   values:
-  - 9130.0
+  - 9.13
   - 0.62
-  - 8510.0
+  - 8.51
   - 1.039
   - 0.77
-  - 13040.0
+  - 13.04
 - section: Market Report Content
   section_type: null
   source_line: SBLK Star Bulk Carriers Corp. 32.42 1.25 31.17 3.762B 2.55 9.11
   unit: null
   values:
-  - 32420.0
+  - 32.42
   - 1.25
-  - 31170.0
+  - 31.17
   - 3.762
   - 2.55
-  - 9110.0
+  - 9.11
 - section: Market Report Content
   section_type: null
   source_line: SHIP Seanergy Maritime Holdings Corp. 18.94 0.53 18.41 410.504M 2.88
     7.46
   unit: null
   values:
-  - 18940.0
+  - 18.94
   - 0.53
-  - 18410.0
+  - 18.41
   - 410.504
   - 2.88
-  - 7460.0
+  - 7.46
 - section: Market Report Content
   section_type: null
   source_line: TOPS Top Ships Inc. 0.70
@@ -814,7 +814,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_21_09_2026_carriers_sales_purchase_market_report_week_38.md
+source_path: reports/broker_reports/2026/carriers/general_broker_21_09_2026_carriers_sales_purchase_market_report_week_38.md
 source_stem: general_broker_21_09_2026_carriers_sales_purchase_market_report_week_38
 source_url: https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-38-3/
 summary: 'Carriers Sales & Purchase Market Report, Week 38

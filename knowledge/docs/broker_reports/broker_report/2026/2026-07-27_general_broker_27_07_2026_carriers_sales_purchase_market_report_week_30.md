@@ -272,7 +272,7 @@ numeric_observations:
   values:
   - 2029.0
   - 30.0
-  - 77300.0
+  - 77.3
   - 1.0
 - section: Market Report Content
   section_type: null
@@ -601,23 +601,23 @@ numeric_observations:
   source_line: CMRE Costamare Inc. 15.72 0.65 15.07 1.898B 2.83 5.65
   unit: null
   values:
-  - 15720.0
+  - 15.72
   - 0.65
-  - 15070.0
+  - 15.07
   - 1.898
   - 2.83
-  - 5650.0
+  - 5.65
 - section: Market Report Content
   section_type: null
   source_line: DAC Danaos Corporation 140.22 11.93 128.29 2.553B 28.33 5.72
   unit: null
   values:
   - 140.22
-  - 11930.0
+  - 11.93
   - 128.29
   - 2.553
-  - 28330.0
-  - 5720.0
+  - 28.33
+  - 5.72
 - section: Market Report Content
   section_type: null
   source_line: DLNG Dynagas LNG Partners LP 3.61 0.17 3.44 131.339M 1.5300 3.31
@@ -645,23 +645,23 @@ numeric_observations:
   source_line: ESEA Euroseas Ltd. 76.99 6.93 70.06 543.194M 19.08 5.21
   unit: null
   values:
-  - 76990.0
-  - 6930.0
-  - 70060.0
+  - 76.99
+  - 6.93
+  - 70.06
   - 543.194
-  - 19080.0
-  - 5210.0
+  - 19.08
+  - 5.21
 - section: Market Report Content
   section_type: null
   source_line: GASS StealthGas Inc. 8.83 0.06 8.77 328.35M 1.69 5.85
   unit: null
   values:
-  - 8830.0
+  - 8.83
   - 0.06
-  - 8770.0
+  - 8.77
   - 328.35
   - 1.69
-  - 5850.0
+  - 5.85
 - section: Market Report Content
   section_type: null
   source_line: GLBS Globus Maritime Limited 3.01 0.27 2.74 64.963M -0.0800 -75.25
@@ -678,22 +678,22 @@ numeric_observations:
   source_line: LPG Dorian LPG Ltd. 45.32 2.47 42.85 1.939B 4.54 12.06
   unit: null
   values:
-  - 45320.0
+  - 45.32
   - 2.47
-  - 42850.0
+  - 42.85
   - 1.939
   - 4.54
-  - 12060.0
+  - 12.06
 - section: Market Report Content
   section_type: null
   source_line: NMM Navios Maritime Partners L.P. 79.10 6.78 72.32 2.248B 11.85 4.56
   unit: null
   values:
-  - 79100.0
-  - 6780.0
-  - 72320.0
+  - 79.1
+  - 6.78
+  - 72.32
   - 2.248
-  - 11850.0
+  - 11.85
   - 4.56
 - section: Market Report Content
   section_type: null
@@ -711,35 +711,35 @@ numeric_observations:
   source_line: SB Safe Bulkers, Inc. 7.67 0.53 7.14 784.217M 0.45 16.32
   unit: null
   values:
-  - 7670.0
+  - 7.67
   - 0.53
-  - 7140.0
+  - 7.14
   - 784.217
   - 0.45
-  - 16320.0
+  - 16.32
 - section: Market Report Content
   section_type: null
   source_line: SBLK Star Bulk Carriers Corp. 28.14 1.92 26.22 3.138B 1.25 7.89
   unit: null
   values:
-  - 28140.0
+  - 28.14
   - 1.92
-  - 26220.0
+  - 26.22
   - 3.138
   - 1.25
-  - 7890.0
+  - 7.89
 - section: Market Report Content
   section_type: null
   source_line: SHIP Seanergy Maritime Holdings Corp. 16.18 1,7 14.48 350.591M 1.80
     7.76
   unit: null
   values:
-  - 16180.0
+  - 16.18
   - 17.0
-  - 14480.0
+  - 14.48
   - 350.591
   - 1.8
-  - 7760.0
+  - 7.76
 - section: Market Report Content
   section_type: null
   source_line: TOPS Top Ships Inc. 0.78

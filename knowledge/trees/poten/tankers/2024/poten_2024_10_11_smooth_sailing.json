@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2024_10_11_smooth_sailing__root",
+  "doc_id": "poten_tankers_no_date_poten_2024_10_11_smooth_sailing",
+  "parent_id": null,
+  "title": "Smooth Sailing",
+  "section_path": [
+    "Smooth Sailing"
+  ],
+  "section_path_text": "Smooth Sailing",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Taking stock of the TMX expansion\nThe Trans Mountain Expansion (TMX) pipeline exported its first crude oil cargo from the Westridge terminal in Burnaby, British Columbia, in May of this year. Now, some 5 months later, it is time to take a preliminary look at the impact that this important new export outlet on the west coast of the Americas is having on the oil and tanker markets in the Pacific. Did the oil flows change the way we anticipated, i.e.",
+  "keywords": [
+    "vlcc",
+    "aframax",
+    "china",
+    "brazil",
+    "pacific",
+    "india",
+    "crude_oil",
+    "b/d",
+    "tmx",
+    "are",
+    "oil",
+    "pipeline"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1014,
+  "source_path": "reports/poten/2024/poten_2024-10-11_smooth-sailing.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2024_10_11_smooth_sailing__s01_taking_stock_of_the_tmx_expansion",
+      "doc_id": "poten_tankers_no_date_poten_2024_10_11_smooth_sailing",
+      "parent_id": "poten_tankers_no_date_poten_2024_10_11_smooth_sailing__root",
+      "title": "Taking stock of the TMX expansion",
+      "section_path": [
+        "Taking stock of the TMX expansion"
+      ],
+      "section_path_text": "Taking stock of the TMX expansion",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Trans Mountain Expansion (TMX) pipeline exported its first crude oil cargo from the Westridge terminal in Burnaby, British Columbia, in May of this year. Now, some 5 months later, it is time to take a preliminary look at the impact that this important new export outlet on the west coast of the Americas is having on the oil and tanker markets in the Pacific.",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "china",
+        "brazil",
+        "pacific",
+        "india",
+        "crude_oil",
+        "b/d"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1006,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

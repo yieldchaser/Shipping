@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2007_06_22_coming_to_consensus__root",
+  "doc_id": "poten_tankers_no_date_poten_2007_06_22_coming_to_consensus",
+  "parent_id": null,
+  "title": "Coming to Consensus",
+  "section_path": [
+    "Coming to Consensus"
+  ],
+  "section_path_text": "Coming to Consensus",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Coming to Consensus\nDuring the past week, Marine Money and JP Morgan presented the 20 th Annual Marine Money Week in New York. Shipowners, leading executives, financiers and analysts came together to discuss the most relevant topics facing the shipping industry today. By design, the most interesting part of this industry-wide event is the confluence of opinions and outlooks across sectors.",
+  "keywords": [
+    "vlcc",
+    "brazil",
+    "are",
+    "prices",
+    "capital",
+    "kudlow",
+    "one",
+    "profits",
+    "shipowners",
+    "today",
+    "was",
+    "asset"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 517,
+  "source_path": "reports/poten/2007/poten_2007-06-22_coming-to-consensus.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_06_22_coming_to_consensus__s01_coming_to_consensus",
+      "doc_id": "poten_tankers_no_date_poten_2007_06_22_coming_to_consensus",
+      "parent_id": "poten_tankers_no_date_poten_2007_06_22_coming_to_consensus__root",
+      "title": "Coming to Consensus",
+      "section_path": [
+        "Coming to Consensus"
+      ],
+      "section_path_text": "Coming to Consensus",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "During the past week, Marine Money and JP Morgan presented the 20 th Annual Marine Money Week in New York. Shipowners, leading executives, financiers and analysts came together to discuss the most relevant topics facing the shipping industry today.",
+      "keywords": [
+        "vlcc",
+        "brazil",
+        "many",
+        "marine",
+        "money",
+        "agree",
+        "analysts",
+        "annual"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 150,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_06_22_coming_to_consensus__s02_vlcc_timecharter_equivalents_ag_fe_260kt",
+      "doc_id": "poten_tankers_no_date_poten_2007_06_22_coming_to_consensus",
+      "parent_id": "poten_tankers_no_date_poten_2007_06_22_coming_to_consensus__root",
+      "title": "VLCC Timecharter Equivalents - AG - FE (260kt)",
+      "section_path": [
+        "VLCC Timecharter Equivalents - AG - FE (260kt)"
+      ],
+      "section_path_text": "VLCC Timecharter Equivalents - AG - FE (260kt)",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "2007 continues to be a strong year in both the tanker and dry bulk markets. Determining whether or not there is a disconnect between freight rates and asset prices is one of main challenges investors and shipowners are facing today.",
+      "keywords": [
+        "amount",
+        "are",
+        "asset",
+        "available",
+        "between",
+        "both",
+        "capital",
+        "certainly"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 59,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_06_22_coming_to_consensus__s03_profits_at_work",
+      "doc_id": "poten_tankers_no_date_poten_2007_06_22_coming_to_consensus",
+      "parent_id": "poten_tankers_no_date_poten_2007_06_22_coming_to_consensus__root",
+      "title": "Profits at Work",
+      "section_path": [
+        "Profits at Work"
+      ],
+      "section_path_text": "Profits at Work",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "While the future of the freight market remains to be seen, fundamentals for wet and dry bulk are closely linked to the health of the world economies. One highlight of Wednesday's program was the introduction given by Larry Kudlow, host of CNBC's \"Kudlow & Company.\" He spoke of the overall health of the economy in the United States and abroad and preached the benefits of letting markets operate freely.",
+      "keywords": [
+        "vlcc",
+        "kudlow",
+        "are",
+        "capital",
+        "future",
+        "health",
+        "mr.",
+        "profits"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 206,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2007_06_22_coming_to_consensus__s04_newbuilding_prices",
+      "doc_id": "poten_tankers_no_date_poten_2007_06_22_coming_to_consensus",
+      "parent_id": "poten_tankers_no_date_poten_2007_06_22_coming_to_consensus__root",
+      "title": "Newbuilding Prices",
+      "section_path": [
+        "Newbuilding Prices"
+      ],
+      "section_path_text": "Newbuilding Prices",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Secondhand Prices In light of historically high asset prices shipowners are happy to tap the public markets in search of capital, though it was generally agreed that the more attractive investment alternatives are those in which owners have considerable \"skin in the game.\" Today, perhaps more than ever, the investment community is enthusiastic to embrace the strategies that have proven successful for shipowners.",
+      "keywords": [
+        "are",
+        "investment",
+        "prices",
+        "agreed",
+        "alternatives",
+        "asset",
+        "attractive",
+        "capital"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 72,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

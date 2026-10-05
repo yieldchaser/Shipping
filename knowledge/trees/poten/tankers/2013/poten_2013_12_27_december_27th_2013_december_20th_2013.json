@@ -1,0 +1,252 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2013_12_27_december_27th_2013_december_20th_2013__root",
+  "doc_id": "poten_tankers_no_date_poten_2013_12_27_december_27th_2013_december_20th_2013",
+  "parent_id": null,
+  "title": "December 27th, 2013 December 20th, 2013",
+  "section_path": [
+    "December 27th, 2013 December 20th, 2013"
+  ],
+  "section_path_text": "December 27th, 2013 December 20th, 2013",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Caribbean Crude\noil has historically been a main feedstock for US Gulf Coast refineries. However, the recent surge in US inland crude oil production, combined with the steady imports from the Arabian Gulf, has greatly reduced demand for Caribbean crude oil grades in the US Gulf. The chart below highlights this declining trend in imports which amount to the equivalent of one Aframax cargo per day, or approximately 500,000 barrels.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "brazil",
+    "meg",
+    "india",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "caribbean",
+    "oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 780,
+  "source_path": "reports/poten/2013/poten_2013-12-27_december-27th-2013-december-20th-2013.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_12_27_december_27th_2013_december_20th_2013__s01_caribbean_crude",
+      "doc_id": "poten_tankers_no_date_poten_2013_12_27_december_27th_2013_december_20th_2013",
+      "parent_id": "poten_tankers_no_date_poten_2013_12_27_december_27th_2013_december_20th_2013__root",
+      "title": "Caribbean Crude",
+      "section_path": [
+        "Caribbean Crude"
+      ],
+      "section_path_text": "Caribbean Crude",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "oil has historically been a main feedstock for US Gulf Coast refineries. However, the recent surge in US inland crude oil production, combined with the steady imports from the Arabian Gulf, has greatly reduced demand for Caribbean crude oil grades in the US Gulf.",
+      "keywords": [
+        "aframax",
+        "brazil",
+        "meg",
+        "us_gulf",
+        "crude_oil",
+        "oil",
+        "caribbean",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 99,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_12_27_december_27th_2013_december_20th_2013__s02_caribbean_trade",
+      "doc_id": "poten_tankers_no_date_poten_2013_12_27_december_27th_2013_december_20th_2013",
+      "parent_id": "poten_tankers_no_date_poten_2013_12_27_december_27th_2013_december_20th_2013__root",
+      "title": "Caribbean trade",
+      "section_path": [
+        "Caribbean trade"
+      ],
+      "section_path_text": "Caribbean trade",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "patterns are shifting away from the US.",
+      "keywords": [
+        "are",
+        "away",
+        "patterns",
+        "shifting",
+        "us."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_12_27_december_27th_2013_december_20th_2013__s03_us_imports_from",
+      "doc_id": "poten_tankers_no_date_poten_2013_12_27_december_27th_2013_december_20th_2013",
+      "parent_id": "poten_tankers_no_date_poten_2013_12_27_december_27th_2013_december_20th_2013__root",
+      "title": "US Imports from",
+      "section_path": [
+        "US Imports from"
+      ],
+      "section_path_text": "US Imports from",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Mexico, Venezuela, and Columbia are down.",
+      "keywords": [
+        "are",
+        "columbia",
+        "down.",
+        "mexico",
+        "venezuela"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_12_27_december_27th_2013_december_20th_2013__s04_us_caribbean_imports",
+      "doc_id": "poten_tankers_no_date_poten_2013_12_27_december_27th_2013_december_20th_2013",
+      "parent_id": "poten_tankers_no_date_poten_2013_12_27_december_27th_2013_december_20th_2013__root",
+      "title": "US Caribbean Imports",
+      "section_path": [
+        "US Caribbean Imports"
+      ],
+      "section_path_text": "US Caribbean Imports",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "US Imports of Caribbean crudes have fallen steadily since 2010. The three major oil producing countries in the Caribbean Basin are Mexico, Venezuela, and Columbia.",
+      "keywords": [
+        "crude_oil",
+        "production",
+        "bpd",
+        "million",
+        "caribbean",
+        "columbian",
+        "forecasted",
+        "further"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 223,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_12_27_december_27th_2013_december_20th_2013__s05_mexican_crude_oil_production",
+      "doc_id": "poten_tankers_no_date_poten_2013_12_27_december_27th_2013_december_20th_2013",
+      "parent_id": "poten_tankers_no_date_poten_2013_12_27_december_27th_2013_december_20th_2013__root",
+      "title": "Mexican Crude Oil Production",
+      "section_path": [
+        "Mexican Crude Oil Production"
+      ],
+      "section_path_text": "Mexican Crude Oil Production",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "US import volumes could continue to fall over the next several years as the EIA forecasts US production to grow to 9.6 million bpd by 2016, up from just over 8 million bpd at the present time. As US Gulf refiners continue to retool processing units to optimize domestic light/sweet crude oil, demand for heavier Caribbean grades should continue to dwindle.",
+      "keywords": [
+        "us_gulf",
+        "crude_oil",
+        "continue",
+        "bpd",
+        "caribbean",
+        "grades",
+        "million",
+        "based"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 103,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_12_27_december_27th_2013_december_20th_2013__s06_steady_downward",
+      "doc_id": "poten_tankers_no_date_poten_2013_12_27_december_27th_2013_december_20th_2013",
+      "parent_id": "poten_tankers_no_date_poten_2013_12_27_december_27th_2013_december_20th_2013__root",
+      "title": "Steady downward",
+      "section_path": [
+        "Steady downward"
+      ],
+      "section_path_text": "Steady downward",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "trend of crude oil exports from the Caribbean to the US Gulf. The decline in these Caribbean to US Gulf cargoes could be bearish for Aframax tonnage in the longer term, but should be a net positive for larger tankers carrying cargoes on longer haul voyages.",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "us_gulf",
+        "crude_oil",
+        "caribbean",
+        "cargoes",
+        "longer",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 93,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_12_27_december_27th_2013_december_20th_2013__s07_spot_market_volumes",
+      "doc_id": "poten_tankers_no_date_poten_2013_12_27_december_27th_2013_december_20th_2013",
+      "parent_id": "poten_tankers_no_date_poten_2013_12_27_december_27th_2013_december_20th_2013__root",
+      "title": "Spot market volumes",
+      "section_path": [
+        "Spot market volumes"
+      ],
+      "section_path_text": "Spot market volumes",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "headed east are rising, with more moving on unreported term business.",
+      "keywords": [
+        "are",
+        "business.",
+        "east",
+        "headed",
+        "moving",
+        "rising",
+        "term",
+        "unreported"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 14,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2013_12_27_december_27th_2013_december_20th_2013__s08_cbs_east",
+      "doc_id": "poten_tankers_no_date_poten_2013_12_27_december_27th_2013_december_20th_2013",
+      "parent_id": "poten_tankers_no_date_poten_2013_12_27_december_27th_2013_december_20th_2013__root",
+      "title": "CBS-East",
+      "section_path": [
+        "CBS-East"
+      ],
+      "section_path_text": "CBS-East",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Spot market fixtures loading in the Caribbean heading east have seen an increase of 48% from 2010 to 2013 YTD and now average 18-25 VLCC cargoes per month. The majority of these cargoes move on VLCCs in order to take advantage of the generally cheaper per barrel shipping costs, with the remainder moving on Suezmaxes.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "india",
+        "crude_oil",
+        "products",
+        "caribbean",
+        "cargoes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 195,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

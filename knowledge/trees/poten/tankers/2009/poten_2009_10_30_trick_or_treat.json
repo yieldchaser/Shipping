@@ -1,0 +1,167 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2009_10_30_trick_or_treat__root",
+  "doc_id": "poten_tankers_no_date_poten_2009_10_30_trick_or_treat",
+  "parent_id": null,
+  "title": "Trick or Treat ?",
+  "section_path": [
+    "Trick or Treat ?"
+  ],
+  "section_path_text": "Trick or Treat ?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "As the Halloween holiday comes creeping in, many shipowners find themselves wondering if the next few weeks will bring a trick or a treat from the markets. The economy in the United States seemed to have received a treat earlier this week when the Department of Commerce reported 3.5 percent economic growth during the third quarter of this year. The GDP growth beat economists' expectations and fueled a spike in crude oil and other commodity prices.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "meg",
+    "west_africa",
+    "us_gulf",
+    "grain",
+    "crude_oil",
+    "arabian",
+    "earnings",
+    "gulf",
+    "vessels",
+    "growth"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 604,
+  "source_path": "reports/poten/2009/poten_2009-10-30_trick-or-treat.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_10_30_trick_or_treat__s01_trick_or_treat",
+      "doc_id": "poten_tankers_no_date_poten_2009_10_30_trick_or_treat",
+      "parent_id": "poten_tankers_no_date_poten_2009_10_30_trick_or_treat__root",
+      "title": "Trick or Treat ?",
+      "section_path": [
+        "Trick or Treat ?"
+      ],
+      "section_path_text": "Trick or Treat ?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As the Halloween holiday comes creeping in, many shipowners find themselves wondering if the next few weeks will bring a trick or a treat from the markets. The economy in the United States seemed to have received a treat earlier this week when the Department of Commerce reported 3.5 percent economic growth during the third quarter of this year.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "crude_oil",
+        "arabian",
+        "availabilities",
+        "earnings",
+        "growth",
+        "gulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 293,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_10_30_trick_or_treat__s02_next_30_days",
+      "doc_id": "poten_tankers_no_date_poten_2009_10_30_trick_or_treat",
+      "parent_id": "poten_tankers_no_date_poten_2009_10_30_trick_or_treat__root",
+      "title": "Next 30 Days",
+      "section_path": [
+        "Next 30 Days"
+      ],
+      "section_path_text": "Next 30 Days",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "loop"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 14,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_10_30_trick_or_treat__s03_better_than_candy_corn",
+      "doc_id": "poten_tankers_no_date_poten_2009_10_30_trick_or_treat",
+      "parent_id": "poten_tankers_no_date_poten_2009_10_30_trick_or_treat__root",
+      "title": "Better than Candy Corn",
+      "section_path": [
+        "Better than Candy Corn"
+      ],
+      "section_path_text": "Better than Candy Corn",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "While Arabian Gulf liftings headed to the West have remained low, shipowners have been encouraged to keep a weather eye on the fuel oil market originating in the Caribbean and US Gulf. Vessels in the Caribbean can capitalize on the steady trade ferrying fuel oil to China and have become one factor whittling down the number of VLCCs waiting in the Arabian Gulf.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "meg",
+        "us_gulf",
+        "crude_oil",
+        "caribbean",
+        "arabian",
+        "being"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 137,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_10_30_trick_or_treat__s04_car_usg_far_east",
+      "doc_id": "poten_tankers_no_date_poten_2009_10_30_trick_or_treat",
+      "parent_id": "poten_tankers_no_date_poten_2009_10_30_trick_or_treat__root",
+      "title": "CAR/USG ‐ Far East",
+      "section_path": [
+        "CAR/USG ‐ Far East"
+      ],
+      "section_path_text": "CAR/USG ‐ Far East",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Stronger earnings on voyages out of West Africa have likely also attracted a few vessels to reposition to that market. Increased slow‐steaming, reportedly of roughly 1‐2 knots, and resulting voyage extensions could also be decreasing the number of vessels competing for cargoes in the Arabian Gulf.",
+      "keywords": [
+        "meg",
+        "west_africa",
+        "vessels",
+        "africa",
+        "arabian",
+        "attracted",
+        "cargoes",
+        "competing"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 60,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_10_30_trick_or_treat__s05_conclusion",
+      "doc_id": "poten_tankers_no_date_poten_2009_10_30_trick_or_treat",
+      "parent_id": "poten_tankers_no_date_poten_2009_10_30_trick_or_treat__root",
+      "title": "Conclusion",
+      "section_path": [
+        "Conclusion"
+      ],
+      "section_path_text": "Conclusion",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "While supply fundamentals point to the next phase in a road to recovery‐ slow but steady increases in earnings, the salvation will ultimately lie within the hands of consumers. Demand west of the Arabian Gulf has shown some promise over the past quarter as GDP growth has proved economists wrong.",
+      "keywords": [
+        "meg",
+        "arabian",
+        "but",
+        "can",
+        "chock",
+        "consumers.",
+        "demand",
+        "earnings"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 74,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

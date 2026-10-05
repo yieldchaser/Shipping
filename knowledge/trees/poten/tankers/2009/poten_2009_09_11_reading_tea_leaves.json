@@ -1,0 +1,188 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2009_09_11_reading_tea_leaves__root",
+  "doc_id": "poten_tankers_no_date_poten_2009_09_11_reading_tea_leaves",
+  "parent_id": null,
+  "title": "Reading Tea Leaves",
+  "section_path": [
+    "Reading Tea Leaves"
+  ],
+  "section_path_text": "Reading Tea Leaves",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Reading Tea Leaves\nAfter last year's sudden and dramatic wrecking of the world's economies, the sterling perception of economic theory has become severely tarnished. Despite this fall from grace, some economists have lately been talking of the signs of a nascent recovery. Admittedly, reading the tea leaves to make prognostications like these is not a simple task.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "brazil",
+    "meg",
+    "japan",
+    "crude_oil",
+    "demand",
+    "oil",
+    "mbd",
+    "east",
+    "not",
+    "oecd"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1165,
+  "source_path": "reports/poten/2009/poten_2009-09-11_reading-tea-leaves.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_09_11_reading_tea_leaves__s01_reading_tea_leaves",
+      "doc_id": "poten_tankers_no_date_poten_2009_09_11_reading_tea_leaves",
+      "parent_id": "poten_tankers_no_date_poten_2009_09_11_reading_tea_leaves__root",
+      "title": "Reading Tea Leaves",
+      "section_path": [
+        "Reading Tea Leaves"
+      ],
+      "section_path_text": "Reading Tea Leaves",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "After last year's sudden and dramatic wrecking of the world's economies, the sterling perception of economic theory has become severely tarnished. Despite this fall from grace, some economists have lately been talking of the signs of a nascent recovery.",
+      "keywords": [
+        "brazil",
+        "japan",
+        "crude_oil",
+        "year",
+        "economic",
+        "last",
+        "not",
+        "being"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 206,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_09_11_reading_tea_leaves__s02_july_09",
+      "doc_id": "poten_tankers_no_date_poten_2009_09_11_reading_tea_leaves",
+      "parent_id": "poten_tankers_no_date_poten_2009_09_11_reading_tea_leaves__root",
+      "title": "July‐09",
+      "section_path": [
+        "July‐09"
+      ],
+      "section_path_text": "July‐09",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "change",
+        "barrel",
+        "july"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_09_11_reading_tea_leaves__s03_middle_east",
+      "doc_id": "poten_tankers_no_date_poten_2009_09_11_reading_tea_leaves",
+      "parent_id": "poten_tankers_no_date_poten_2009_09_11_reading_tea_leaves__root",
+      "title": "Middle East",
+      "section_path": [
+        "Middle East"
+      ],
+      "section_path_text": "Middle East",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_09_11_reading_tea_leaves__s04_far_east",
+      "doc_id": "poten_tankers_no_date_poten_2009_09_11_reading_tea_leaves",
+      "parent_id": "poten_tankers_no_date_poten_2009_09_11_reading_tea_leaves__root",
+      "title": "Far East",
+      "section_path": [
+        "Far East"
+      ],
+      "section_path_text": "Far East",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "259 230 (29) 12.6% From July 2008 to July 2009, Japan's consumption of crude oil dropped about 18 percent or 778 kbd. The drop in demand shown for Middle East oil alone equates to roughly 115 fewer VLCC voyages to Japan over the course of one year.",
+      "keywords": [
+        "vlcc",
+        "japan",
+        "crude_oil",
+        "oil",
+        "demand",
+        "activity",
+        "but",
+        "july"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 184,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_09_11_reading_tea_leaves__s05_monthly_iea_outlook_for_annual_world_oil_demand",
+      "doc_id": "poten_tankers_no_date_poten_2009_09_11_reading_tea_leaves",
+      "parent_id": "poten_tankers_no_date_poten_2009_09_11_reading_tea_leaves__root",
+      "title": "Monthly IEA Outlook for Annual World Oil Demand",
+      "section_path": [
+        "Monthly IEA Outlook for Annual World Oil Demand"
+      ],
+      "section_path_text": "Monthly IEA Outlook for Annual World Oil Demand",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Annual World Oil Demand (mbd) Month of IEA",
+      "keywords": [
+        "crude_oil",
+        "annual",
+        "demand",
+        "iea",
+        "mbd",
+        "month",
+        "oil",
+        "world"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 12,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_09_11_reading_tea_leaves__s06_forecast",
+      "doc_id": "poten_tankers_no_date_poten_2009_09_11_reading_tea_leaves",
+      "parent_id": "poten_tankers_no_date_poten_2009_09_11_reading_tea_leaves__root",
+      "title": "Forecast",
+      "section_path": [
+        "Forecast"
+      ],
+      "section_path_text": "Forecast",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Nov‐08 Dec‐08 Jan‐09 Feb‐09 Mar‐09 Apr‐09 May‐09 Jun‐09 Jul‐09 Aug‐09 2007 86.1 86.0 86.0 86.0 86.0 86.1 86.0 86.0 86.5 86.5 2008 86.2 85.8 85.8 85.7 85.7 85.8 85.8 85.8 86.2 86.3 2009 86.5 86.3 85.3 84.7 84.4 83.4 83.2 83.3 83.8 83.9 2010 85.2 85.3 Prospects for increasing overall global oil demand are not necessarily directly linked to creating more tanker ton‐miles. The direction of increased oil flow pulled into consuming regions from oil supplying ones governs how ton‐mile demand growth will perk up.",
+      "keywords": [
+        "china",
+        "meg",
+        "crude_oil",
+        "demand",
+        "oil",
+        "mbd",
+        "oecd",
+        "non"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 713,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

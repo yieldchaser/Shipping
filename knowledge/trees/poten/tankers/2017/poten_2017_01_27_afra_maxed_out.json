@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2017_01_27_afra_maxed_out__root",
+  "doc_id": "poten_tankers_no_date_poten_2017_01_27_afra_maxed_out",
+  "parent_id": null,
+  "title": "Afra Maxed Out",
+  "section_path": [
+    "Afra Maxed Out"
+  ],
+  "section_path_text": "Afra Maxed Out",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Dirty Aframax demand is up, but growth potential is limited\nIn 2016, global dirty (crude and dirty products) Aframax ton- mile demand increased by 1.1% compared to 2015 while the number of voyages increased by 1.9% (indicating a slight decline in average voyage lengths). This week, we will take a closer look at the drivers for these developments to see whether that holds any clues for 2017. Data from Lloyds List Intelligence, that is used for this analysis shows that the shift in Aframax trades from the Atlantic basin to the Pacific continues.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "atlantic",
+    "pacific",
+    "europe",
+    "us_gulf",
+    "singapore",
+    "japan",
+    "crude_oil",
+    "products"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 942,
+  "source_path": "reports/poten/2017/poten_2017-01-27_afra-maxed-out.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2017_01_27_afra_maxed_out__s01_dirty_aframax_demand_is_up_but_growth_potential_is_limited",
+      "doc_id": "poten_tankers_no_date_poten_2017_01_27_afra_maxed_out",
+      "parent_id": "poten_tankers_no_date_poten_2017_01_27_afra_maxed_out__root",
+      "title": "Dirty Aframax demand is up, but growth potential is limited",
+      "section_path": [
+        "Dirty Aframax demand is up, but growth potential is limited"
+      ],
+      "section_path_text": "Dirty Aframax demand is up, but growth potential is limited",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In 2016, global dirty (crude and dirty products) Aframax ton- mile demand increased by 1.1% compared to 2015 while the number of voyages increased by 1.9% (indicating a slight decline in average voyage lengths). This week, we will take a closer look at the drivers for these developments to see whether that holds any clues for 2017.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "atlantic",
+        "pacific",
+        "europe",
+        "us_gulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 929,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

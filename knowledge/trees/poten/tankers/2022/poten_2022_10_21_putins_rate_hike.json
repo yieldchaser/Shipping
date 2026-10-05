@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2022_10_21_putins_rate_hike__root",
+  "doc_id": "poten_tankers_no_date_poten_2022_10_21_putins_rate_hike",
+  "parent_id": null,
+  "title": "Putins Rate Hike",
+  "section_path": [
+    "Putins Rate Hike"
+  ],
+  "section_path_text": "Putins Rate Hike",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "There is a high level of uncertainty around Russian exports\nAccording to the latest World Economic Outlook, published on October 11: \"Global economic activity is experiencing a broad- based and sharper-than-expected slowdown, with inflation higher than seen in several decades.\" This has led to widespread worries about a global recession. The Chinese economy, which has been the main engine of global oil demand growth in recent decades has slowed recently and the future looks uncertain, partly due to the country's zero-Covid policy. OPEC+ has announced the biggest production cut since they throttled oil production by 10 Mb/d in May 2020 as a result of the global spread of Covid-19.",
+  "keywords": [
+    "china",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "russian",
+    "oil",
+    "ban",
+    "crude",
+    "global",
+    "russia",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 885,
+  "source_path": "reports/poten/2022/poten_2022-10-21_putins-rate-hike.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2022_10_21_putins_rate_hike__s01_there_is_a_high_level_of_uncertainty_around_russian_exports",
+      "doc_id": "poten_tankers_no_date_poten_2022_10_21_putins_rate_hike",
+      "parent_id": "poten_tankers_no_date_poten_2022_10_21_putins_rate_hike__root",
+      "title": "There is a high level of uncertainty around Russian exports",
+      "section_path": [
+        "There is a high level of uncertainty around Russian exports"
+      ],
+      "section_path_text": "There is a high level of uncertainty around Russian exports",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "According to the latest World Economic Outlook, published on October 11: \"Global economic activity is experiencing a broad- based and sharper-than-expected slowdown, with inflation higher than seen in several decades.\" This has led to widespread worries about a global recession. The Chinese economy, which has been the main engine of global oil demand growth in recent decades has slowed recently and the future looks uncertain, partly due to the country's zero-Covid policy.",
+      "keywords": [
+        "china",
+        "europe",
+        "india",
+        "crude_oil",
+        "products",
+        "russian",
+        "oil",
+        "ban"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 874,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

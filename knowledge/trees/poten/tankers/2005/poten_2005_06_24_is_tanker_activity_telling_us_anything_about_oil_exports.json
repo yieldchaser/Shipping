@@ -1,0 +1,218 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2005_06_24_is_tanker_activity_telling_us_anything_about_oil_exports__root",
+  "doc_id": "poten_tankers_no_date_poten_2005_06_24_is_tanker_activity_telling_us_anything_about_oil_exports",
+  "parent_id": null,
+  "title": "Is Tanker Activity Telling Us Anything About Oil Exports?",
+  "section_path": [
+    "Is Tanker Activity Telling Us Anything About Oil Exports?"
+  ],
+  "section_path_text": "Is Tanker Activity Telling Us Anything About Oil Exports?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Crude oil prices are hovering around $60 a barrel and the expectation is that $70 a barrel will be the next plateau. Below is the NYMEX trading of West Texas Intermediate (WTI) over the past year. LIGHT CRUDE Continuous (58.1500, 60.0000, 58.1400, 59.4200, +1.33000)\n\nJuly\nAugust September October November December 2005 February March April May June July The climb from under $40 per barrel to $60 per barrel was not one continuous upward sweeping trend- there were plenty of opportunities to lose money buying crude oil futures.",
+  "keywords": [
+    "vlcc",
+    "meg",
+    "crude_oil",
+    "oil",
+    "fixture",
+    "prices",
+    "activity",
+    "fixtures",
+    "high",
+    "are",
+    "barrel",
+    "chart"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 616,
+  "source_path": "reports/poten/2005/poten_2005-06-24_is-tanker-activity-telling-us-anything-about-oil-exports.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_06_24_is_tanker_activity_telling_us_anything_about_oil_exports__s01_exports",
+      "doc_id": "poten_tankers_no_date_poten_2005_06_24_is_tanker_activity_telling_us_anything_about_oil_exports",
+      "parent_id": "poten_tankers_no_date_poten_2005_06_24_is_tanker_activity_telling_us_anything_about_oil_exports__root",
+      "title": "Exports?",
+      "section_path": [
+        "Exports?"
+      ],
+      "section_path_text": "Exports?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Crude oil prices are hovering around $60 a barrel and the expectation is that $70 a barrel will be the next plateau. Below is the NYMEX trading of West Texas Intermediate (WTI) over the past year.",
+      "keywords": [
+        "crude_oil",
+        "are",
+        "barrel",
+        "crude",
+        "around",
+        "below",
+        "continuous",
+        "expectation"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 87,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_06_24_is_tanker_activity_telling_us_anything_about_oil_exports__s02_july",
+      "doc_id": "poten_tankers_no_date_poten_2005_06_24_is_tanker_activity_telling_us_anything_about_oil_exports",
+      "parent_id": "poten_tankers_no_date_poten_2005_06_24_is_tanker_activity_telling_us_anything_about_oil_exports__root",
+      "title": "July",
+      "section_path": [
+        "July"
+      ],
+      "section_path_text": "July",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "August September October November December 2005 February March April May June July The climb from under $40 per barrel to $60 per barrel was not one continuous upward sweeping trend- there were plenty of opportunities to lose money buying crude oil futures. The following chart shows weekly VLCC AG spot fixture activity.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "barrel",
+        "february",
+        "per",
+        "activity.",
+        "april",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 89,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_06_24_is_tanker_activity_telling_us_anything_about_oil_exports__s03_when_prices",
+      "doc_id": "poten_tankers_no_date_poten_2005_06_24_is_tanker_activity_telling_us_anything_about_oil_exports",
+      "parent_id": "poten_tankers_no_date_poten_2005_06_24_is_tanker_activity_telling_us_anything_about_oil_exports__root",
+      "title": "When Prices",
+      "section_path": [
+        "When Prices"
+      ],
+      "section_path_text": "When Prices",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "spiking"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_06_24_is_tanker_activity_telling_us_anything_about_oil_exports__s04_record_low",
+      "doc_id": "poten_tankers_no_date_poten_2005_06_24_is_tanker_activity_telling_us_anything_about_oil_exports",
+      "parent_id": "poten_tankers_no_date_poten_2005_06_24_is_tanker_activity_telling_us_anything_about_oil_exports__root",
+      "title": "Record Low",
+      "section_path": [
+        "Record Low"
+      ],
+      "section_path_text": "Record Low",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The drop in fixture activity in February of this year was severe with one week having only four fixtures compared to the weekly average of 25 per week so far this year. This drop meant far less liftings in March.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "activity",
+        "fixture",
+        "fixtures",
+        "far",
+        "oil",
+        "prices"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 182,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_06_24_is_tanker_activity_telling_us_anything_about_oil_exports__s05_chart_vlcc_day_vs_ag_vlcc_fixture_activity",
+      "doc_id": "poten_tankers_no_date_poten_2005_06_24_is_tanker_activity_telling_us_anything_about_oil_exports",
+      "parent_id": "poten_tankers_no_date_poten_2005_06_24_is_tanker_activity_telling_us_anything_about_oil_exports__root",
+      "title": "Chart: VLCC $/Day vs AG VLCC Fixture Activity",
+      "section_path": [
+        "Chart: VLCC $/Day vs AG VLCC Fixture Activity"
+      ],
+      "section_path_text": "Chart: VLCC $/Day vs AG VLCC Fixture Activity",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The next chart shows that vessel availability in the Arabian Gulf, which had peaked in March as a consequence of low fixture activity over the last 30 days, is declining somewhat.",
+      "keywords": [
+        "meg",
+        "activity",
+        "arabian",
+        "availability",
+        "chart",
+        "consequence",
+        "days",
+        "declining"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 35,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_06_24_is_tanker_activity_telling_us_anything_about_oil_exports__s06_chart_vlcc_day_vs_ag_vlcc_availability",
+      "doc_id": "poten_tankers_no_date_poten_2005_06_24_is_tanker_activity_telling_us_anything_about_oil_exports",
+      "parent_id": "poten_tankers_no_date_poten_2005_06_24_is_tanker_activity_telling_us_anything_about_oil_exports__root",
+      "title": "Chart: VLCC $/Day vs AG VLCC Availability",
+      "section_path": [
+        "Chart: VLCC $/Day vs AG VLCC Availability"
+      ],
+      "section_path_text": "Chart: VLCC $/Day vs AG VLCC Availability",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "",
+      "keywords": [
+        "vlcc",
+        "day",
+        "vlccs"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2005_06_24_is_tanker_activity_telling_us_anything_about_oil_exports__s07_vlccs",
+      "doc_id": "poten_tankers_no_date_poten_2005_06_24_is_tanker_activity_telling_us_anything_about_oil_exports",
+      "parent_id": "poten_tankers_no_date_poten_2005_06_24_is_tanker_activity_telling_us_anything_about_oil_exports__root",
+      "title": "#VLCCs",
+      "section_path": [
+        "#VLCCs"
+      ],
+      "section_path_text": "#VLCCs",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Previous analysis has shown that VLCC rates tend to get much stronger when the number of available vessels falls below 30. Just as the oil exporters cut back on fixture activity when oil prices appeared to be weakening, it appears now that they are expanding fixture activity to combat higher oil prices.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "oil",
+        "prices",
+        "high",
+        "members",
+        "opec",
+        "activity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 170,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

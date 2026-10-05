@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNEW BUILDING: In tankers, the Yards long term existing customer clients of Samos Steamship have ordered two firm 115k dwt Aframax\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2021-07-30_clarkson-platou-hellas-sp-weekly-bulletin-111_report-30-07-2021_2f9789f5d67f.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2021-07-30_clarkson-platou-hellas-sp-weekly-bulletin-111_report-30-07-2021_2f9789f5d67f.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 30 July 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMITSUBISHI 7UEC60LS SS 03/22\nDYNA CAMELLIA 91,350 2007 IMABARI MID USD 17 M CHINESE\nBWTS fitted DD 03/22\nMAN-B&W 6S60MC-C SS 08/25 RGN USD 20 M GREEKS\nGLORIOUS WIND 83,410 2010 SANOYAS\nBWTS fitted DD 09/23 (Dely Nov/Dec) (c/o Meadway Bulkers)\nSS 06/22\nCANEA 75,356 2007 UNIVERSAL MAN-B&W 6S60MC USD 17.3 M U/D\nDD 06/22\nMAN-B&W 5S60ME-C8 USD 25.5 M\nSS 01/25\nKOMI 63,628 2015 COSCO ZHOUSHAN 4 x 30 T (basis TC attached at $18k GREEKS\nDD 03/23\nBWTS fitted pd till Nov ‘21)\nMAN-B&W 6S50ME-B9.3 RGN USD 55 M\nSS 10/25\nCALICO JACK 61,305 2015 I-S 4 x 30 T en bloc\nDD 11/23\nBWTS fitted (basis index linked TC\nattached till Apr-Aug '22 at GREEKS\nMAN-B&W 6S50ME-B9\nSS",
+  "summary": "Main\nNEW BUILDING: In tankers, the Yards long term existing customer clients of Samos Steamship have ordered two firm 115k dwt Aframax\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2021-07-30_clarkson-platou-hellas-sp-weekly-bulletin-111_report-30-07-2021_2f9789f5d67f.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2021-07-30_clarkson-platou-hellas-sp-weekly-bulletin-111_report-30-07-2021_2f9789f5d67f.pdf\n\n# Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 30 July 2021\n\n## <u>BULK CARRIERS</u>\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE||BUYER|\n|---|---|---|---|---|---|---|---|\n|DYNA CAMELLIA|91,350|2007 IMABARI|MITSUBISHI 7UEC60LS BWTS fitted|DD 03/22 SS 03/22|MID USD 17 M||CHINESE|\n|GLORIOUS WIND|83,410|2010 SANOYAS|MAN-BWTS fitted B&W 6S60MC-C|SS 08/25 DD 09/23|RGN USD 20 (Dely Nov/Dec)|M (c/o Meadway Bulkers)|GREEKS|\n|CANEA|75,356|2007 UNIVERSAL|MAN-B&W 6S60MC MAN-B&W 5S60ME-C8|DD 06/22 SS 06/22 SS 01/25|USD 17.3 M USD 25.5 M||U/D|\n|KOMI|63,628|2015 COSCO ZHOUSHAN|4 x 30 T BWTS fitted MAN-B&W 6S50ME-B9.3|DD 03/23 SS 10/25|(basis TC attached at $18k pd till Nov ‘21) RGN USD 55 M||GREEKS|\n|CALICO JACK|61,305|2015 I-S|4 x 30 T BWTS fitted MAN-B&W 6S50ME-B9|DD 11/23|en bloc (",
   "keywords": [
     "supramax",
     "handysize",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2771,
-  "source_path": "corpus/02-hellenic/shipbuilding/2021/2021-07-30_clarkson-platou-hellas-sp-weekly-bulletin-111.html",
+  "token_count": 2602,
+  "source_path": "reports/hellenic/shipbuilding/2021/2021-07-30_clarkson-platou-hellas-sp-weekly-bulletin-111.html",
   "source_url": "https://www.hellenicshippingnews.com/clarkson-platou-hellas-sp-weekly-bulletin-111",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2021-07-30_clarkson-platou-hellas-sp-weekly-bulletin-111_report-30-07-2021_2f9789f5d67f.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-07-30_clarkson-platou-hellas-sp-weekly-bulletin-111_report-30-07-2021_2f9789f5d67f.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 30 July 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMITSUBISHI 7UEC60LS SS 03/22\nDYNA CAMELLIA 91,350 2007 IMABARI MID USD 17 M CHINESE\nBWTS fitted DD 03/22\nMAN-B&W 6S60MC-C SS 08/25 RGN USD 20 M GREEKS\nGLORIOUS WIND 83,410 2010 SANOYAS\nBWTS fitted DD 09/23 (Dely Nov/Dec) (c/o Meadway Bulkers)\nSS 06/22\nCANEA 75,356 2007 UNIVERSAL MAN-B&W 6S60MC USD 17.3 M U/D\nDD 06/22\nMAN-B&W 5S60ME-C8 USD 25.5 M\nSS 01/25\nKOMI 63,628 2015 COSCO ZHOUSHAN 4 x 30 T (basis TC attached at $18k GREEKS\nDD 03/23\nBWTS fitted pd till Nov ‘21)\nMAN-B&W 6S50ME-B9.3 RGN USD 55 M\nSS 10/25\nCALICO JACK 61,305 2015 I-S 4 x 30 T en bloc\nDD 11/23\nBWTS fitted (basis index linked TC\nattached till Apr-Aug '22 at GREEKS\nMAN-B&W 6S50ME-B9\nSS 06/25 116% of BSI and till Dec'21-\nPHOENIX RISING 60,417 2015 MITSUI 4 x 30 T\nDD 06/23 Aprl'22 at 110% of BSI58\nBWTS fitted accordingly)\nMAN-B&W 6S42MC\nSS 01/26\nGREAT REWARD 31,785 2011 GUANGZHOU HUANGPU 4 x 30 T RGN/XS USD 13 M CHINESE\nDD 11/23\nBWTS fitted, Ice-1B\nTANKERS - ",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-07-30_clarkson-platou-hellas-sp-weekly-bulletin-111_report-30-07-2021_2f9789f5d67f.pdf\n\n# Sale and Purchase\n\n## Hellas S&P Weekly Bulletin 30 July 2021\n\n## <u>BULK CARRIERS</u>\n\n|VESSEL|DWT|BLT|DETAILS|SS/DD|PRICE||BUYER|\n|---|---|---|---|---|---|---|---|\n|DYNA CAMELLIA|91,350|2007 IMABARI|MITSUBISHI 7UEC60LS BWTS fitted|DD 03/22 SS 03/22|MID USD 17 M||CHINESE|\n|GLORIOUS WIND|83,410|2010 SANOYAS|MAN-BWTS fitted B&W 6S60MC-C|SS 08/25 DD 09/23|RGN USD 20 (Dely Nov/Dec)|M (c/o Meadway Bulkers)|GREEKS|\n|CANEA|75,356|2007 UNIVERSAL|MAN-B&W 6S60MC MAN-B&W 5S60ME-C8|DD 06/22 SS 06/22 SS 01/25|USD 17.3 M USD 25.5 M||U/D|\n|KOMI|63,628|2015 COSCO ZHOUSHAN|4 x 30 T BWTS fitted MAN-B&W 6S50ME-B9.3|DD 03/23 SS 10/25|(basis TC attached at $18k pd till Nov ‘21) RGN USD 55 M||GREEKS|\n|CALICO JACK|61,305|2015 I-S|4 x 30 T BWTS fitted MAN-B&W 6S50ME-B9|DD 11/23|en bloc (basis index linked TC attached till Apr-Aug '22 at||GREEKS|\n|PHOENIX RISING|60,417|2015 MITSUI|4 x 30 T BWTS fitted MAN-B&W 6S42MC|DD 06/23 SS 06/25 116% of BSI and till Dec'21- SS 01/26|Aprl'22 at 110% of BSI58 accordingly)|||\n|GREAT REWARD|31,785|2011 GUANGZHOU HUANGPU|4 x 30 ",
       "keywords": [
         "supramax",
         "handysize",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2679,
+      "token_count": 2510,
       "section_type": "linked_pdf",
       "children": []
     }

@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1531,
-  "source_path": "corpus/02-hellenic/vessel_valuations/2022/2022-12-13_weekly-vessel-valuations-report-december-13-2022.html",
+  "token_count": 2665,
+  "source_path": "reports/hellenic/vessel_valuations/2022/2022-12-13_weekly-vessel-valuations-report-december-13-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-december-13-2022",
   "children": [
     {
@@ -69,20 +69,20 @@
       "section_path_text": "Linked asset: 2022-12-13_weekly-vessel-valuations-report-december-13-2022_img1_13122022g_0876a9c84e77.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2022/assets/2022-12-13_weekly-vessel-valuations-report-december-13-2022_img1_13122022g_0876a9c84e77.jpg\n\nLinked image asset: 2022-12-13_weekly-vessel-valuations-report-december-13-2022_img1_13122022g_0876a9c84e77.jpg\n\nImage metadata: JPEG 678x259 mode=RGB\n\nEmbedded info:\ndpi: (72, 72)\n\nOCR text:\n© VesselsValuey\n13 December 2022 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge VLCC Suez) Afra LRT MR Cope Pmax Supra Handy Pork. Pmax Handy Fmax\n° -0.7% -0.5% -4.0% +9.3% +0.8% -2.2% +1.1% +1.1% +1.0% \"1.0% -1.0% -0.4% -0.9%\n320K 160K 110K 75K -- SOK 180K 82K GOK = 38K 7000 4250 1750 1100\n5 0.6% -0.5% -7.7% 49.6% +40,8% \"1.4% +0.2% +0,6% 41.1% \"1.0% -1,0% -0.4% -0.8%\n320K 160K 110K 75K SOK 180K 80K 60K 35K 7000 4250 1750 1100\n10 -0.7% -0.5% -6.3% +8.1% +0.8% \"1.6% -0.4% -0.0% +1.2% 0.9% -1.0% -0.5% -0.9%\n310K 160K «110K 75K SOK 180K 80K = GOK 32K 7000 4250 1750 1100\na5 0.7% -0.5% -1.0% 45.9% 40.8% -2.8% +0.3% -1.3% +1.1% -0.9% -1,0% -0.5% -0.9%\n310K 160K 110K 75K 50K 180K 75K SSK 30K 7000 4250 1750 1100\n20 -0.7% -0.5% +5.0% +3.8% +0.9% +0.9% +0.8% -2.5% +0.9% 1.0% -0.9% -0.5% -0.8%\n305K 155K 105K 70K 45K 175K 75K SOK = 30K ",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2022/assets/2022-12-13_weekly-vessel-valuations-report-december-13-2022_img1_13122022g_0876a9c84e77.jpg\n\nLinked image asset: 2022-12-13_weekly-vessel-valuations-report-december-13-2022_img1_13122022g_0876a9c84e77.jpg\n\nImage metadata: JPEG 678x259 mode=RGB\n\nEmbedded info:\ndpi: (72, 72)\n\n[structured table]\n| © | | | | | | | | | | | | | |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 13 December | 2022 | | | | VV | Mini Matrix | - | Weekly | Change | | | | |\n| | | | Tankers | | | | | Bulkers | | | | Containers | |\n| Age | VLCC | Suez) | Afra | | MR | Cope | Pmax | Supra | Handy | Pork. | Pmax | Handy | Fmax |\n| | -0.7% | -0.5% | -4.0% | +9.3% | +0.8% | -2.2% | +1.1% | +1.1% | +1.0% | \"1.0% | -1.0% | -0.4% | -0.9% |\n| ° | | | | | | | | | | | | | |\n| | 320K | 160K | 110K | 75K | SOK | 180K | | GOK = | 38K | 7000 | 4250 | 1750 | 1100 |\n| | | -0.5% | -7.7% | | +40,8% | \"1.4% | +0.2% | +0,6% | 41.1% | \"1.0% | -1,0% | -0.4% | -0.8% |\n| 5 | | | | | | | | | | | | | |\n| | 320K | 160K | 110K | 75K | SOK | 180K | 80K | 60K | 35K | 7000 | 4250 | 1750 | 1100 |\n| | -0.7% | -0.5% | -6.3% | +8.1% | +0.8% | \"1.6% | -0.4% | -0.0% | +1.2% ",
       "keywords": [
         "supramax",
         "handysize",
         "vlcc",
         "container",
         "sok",
-        "asset",
         "gok",
-        "handy"
+        "handy",
+        "n/a"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 802,
+      "token_count": 1936,
       "section_type": "linked_image_asset",
       "children": []
     }

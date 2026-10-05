@@ -1,0 +1,174 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_07_11_riding_the_wave__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_07_11_riding_the_wave",
+  "parent_id": null,
+  "title": "Riding the Wave",
+  "section_path": [
+    "Riding the Wave"
+  ],
+  "section_path_text": "Riding the Wave",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Riding the Wave\nThere is no sign of shipowners having the summertime blues as the crude oil shipping bull market continues to rage on. In past years, the summer months have provided some relief to charterers able to capitalize on lower freight rates. But 2008 is certainly proving to be an exception.",
+  "keywords": [
+    "vlcc",
+    "brazil",
+    "atlantic",
+    "meg",
+    "crude_oil",
+    "products",
+    "steel",
+    "gas",
+    "demand",
+    "are",
+    "arabian",
+    "change"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 617,
+  "source_path": "reports/poten/2008/poten_2008-07-11_riding-the-wave.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_07_11_riding_the_wave__s01_riding_the_wave",
+      "doc_id": "poten_tankers_no_date_poten_2008_07_11_riding_the_wave",
+      "parent_id": "poten_tankers_no_date_poten_2008_07_11_riding_the_wave__root",
+      "title": "Riding the Wave",
+      "section_path": [
+        "Riding the Wave"
+      ],
+      "section_path_text": "Riding the Wave",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "There is no sign of shipowners having the summertime blues as the crude oil shipping bull market continues to rage on. In past years, the summer months have provided some relief to charterers able to capitalize on lower freight rates.",
+      "keywords": [
+        "vlcc",
+        "brazil",
+        "meg",
+        "crude_oil",
+        "are",
+        "around",
+        "months",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 182,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_07_11_riding_the_wave__s02_demand_picture",
+      "doc_id": "poten_tankers_no_date_poten_2008_07_11_riding_the_wave",
+      "parent_id": "poten_tankers_no_date_poten_2008_07_11_riding_the_wave__root",
+      "title": "Demand Picture",
+      "section_path": [
+        "Demand Picture"
+      ],
+      "section_path_text": "Demand Picture",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Despite the public outcries against the price of gasoline, the tanker market has yet to see a decrease in demand. Overall reported spot market volumes to date are up over 2% in 2008.",
+      "keywords": [
+        "products",
+        "gas",
+        "against",
+        "are",
+        "date",
+        "decrease",
+        "demand.",
+        "despite"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 42,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_07_11_riding_the_wave__s03_estimated",
+      "doc_id": "poten_tankers_no_date_poten_2008_07_11_riding_the_wave",
+      "parent_id": "poten_tankers_no_date_poten_2008_07_11_riding_the_wave__root",
+      "title": "Estimated",
+      "section_path": [
+        "Estimated"
+      ],
+      "section_path_text": "Estimated",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Liftings out of the Arabian Gulf in particular have seen some fluctuation in volumes month-on-month, but have generally been somewhere between 100 and 110 reported cargoes per month this year. This month, however, has seen an increase of westbound fixture activity from the Arabian Gulf to 23% of the total fixtures so far, well above the typical monthly average of 17%.",
+      "keywords": [
+        "atlantic",
+        "meg",
+        "arabian",
+        "gulf",
+        "but",
+        "increase",
+        "month",
+        "seen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 112,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_07_11_riding_the_wave__s04_supply_side",
+      "doc_id": "poten_tankers_no_date_poten_2008_07_11_riding_the_wave",
+      "parent_id": "poten_tankers_no_date_poten_2008_07_11_riding_the_wave__root",
+      "title": "Supply Side",
+      "section_path": [
+        "Supply Side"
+      ],
+      "section_path_text": "Supply Side",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Perhaps the real surprise of the 2008 market has been the incremental growth (or lack thereof) to the VLCC fleet. While the orderbook at the start of the year showed a daunting 43 VLCCs, the conversion and removal activity has made the overall effect on the change in fleet size negligible.",
+      "keywords": [
+        "vlcc",
+        "steel",
+        "conversion",
+        "fleet",
+        "vlccs",
+        "year",
+        "according",
+        "activity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 138,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_07_11_riding_the_wave__s05_start_of_year_fleet",
+      "doc_id": "poten_tankers_no_date_poten_2008_07_11_riding_the_wave",
+      "parent_id": "poten_tankers_no_date_poten_2008_07_11_riding_the_wave__root",
+      "title": "Start of Year Fleet",
+      "section_path": [
+        "Start of Year Fleet"
+      ],
+      "section_path_text": "Start of Year Fleet",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Change % Change 2005 439 12 3% 2006 462 23 5% 2007 478 16 3% 2008 499 21 4% Projected 2009 492 -7 -1% Net Change 12% Even at today's crude oil prices, it is hard to envision a substantial weakening in worldwide crude oil demand; one can therefore expect the demand for shipping to remain firm. As the supply side has yet to keep up with the growth in demand, directionally expect VLCC rates will remain strong through the balance of the year.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "change",
+        "demand",
+        "crude",
+        "expect",
+        "oil",
+        "remain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 125,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

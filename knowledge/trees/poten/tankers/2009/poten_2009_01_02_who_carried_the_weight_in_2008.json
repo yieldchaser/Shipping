@@ -1,0 +1,202 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2009_01_02_who_carried_the_weight_in_2008__root",
+  "doc_id": "poten_tankers_no_date_poten_2009_01_02_who_carried_the_weight_in_2008",
+  "parent_id": null,
+  "title": "Who Carried the Weight in 2008",
+  "section_path": [
+    "Who Carried the Weight in 2008"
+  ],
+  "section_path_text": "Who Carried the Weight in 2008",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Who Carried the Weight in 2008\nLooking back at one of the most exciting and tumultuous years in the tanker market, it is interesting to see which charterers maintained their place among the ranks of top spot charterers and who were newcomers to the list. Sales of refineries, increases in either term or contract coverage - or both, or changes in crude oil supplies can significantly alter year-to-year comparisons between vessel classes, top charterers and the number of reported spot market fixtures. The chart below shows the total number of reported dirty spot fixtures in 2008 versus 2007 by vessel size.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "brazil",
+    "india",
+    "crude_oil",
+    "top",
+    "charterers",
+    "reported",
+    "fixtures"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1129,
+  "source_path": "reports/poten/2009/poten_2009-01-02_who-carried-the-weight-in-2008.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_01_02_who_carried_the_weight_in_2008__s01_who_carried_the_weight_in_2008",
+      "doc_id": "poten_tankers_no_date_poten_2009_01_02_who_carried_the_weight_in_2008",
+      "parent_id": "poten_tankers_no_date_poten_2009_01_02_who_carried_the_weight_in_2008__root",
+      "title": "Who Carried the Weight in 2008",
+      "section_path": [
+        "Who Carried the Weight in 2008"
+      ],
+      "section_path_text": "Who Carried the Weight in 2008",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Looking back at one of the most exciting and tumultuous years in the tanker market, it is interesting to see which charterers maintained their place among the ranks of top spot charterers and who were newcomers to the list. Sales of refineries, increases in either term or contract coverage - or both, or changes in crude oil supplies can significantly alter year-to-year comparisons between vessel classes, top charterers and the number of reported spot market fixtures.",
+      "keywords": [
+        "crude_oil",
+        "charterers",
+        "number",
+        "reported",
+        "top",
+        "vessel",
+        "alter",
+        "among"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 113,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_01_02_who_carried_the_weight_in_2008__s02_2008_reported_dirty_spot_fixtures",
+      "doc_id": "poten_tankers_no_date_poten_2009_01_02_who_carried_the_weight_in_2008",
+      "parent_id": "poten_tankers_no_date_poten_2009_01_02_who_carried_the_weight_in_2008__root",
+      "title": "2008 Reported Dirty Spot Fixtures",
+      "section_path": [
+        "2008 Reported Dirty Spot Fixtures"
+      ],
+      "section_path_text": "2008 Reported Dirty Spot Fixtures",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "In total, our records show a reported 9,587 spot market fixtures in 2008 as compared to 9,420 in 2007 marking an increase of about 2% over last year.",
+      "keywords": [
+        "compared",
+        "fixtures",
+        "increase",
+        "last",
+        "marking",
+        "our",
+        "records",
+        "reported"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 42,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_01_02_who_carried_the_weight_in_2008__s03_changes_at_the_top",
+      "doc_id": "poten_tankers_no_date_poten_2009_01_02_who_carried_the_weight_in_2008",
+      "parent_id": "poten_tankers_no_date_poten_2009_01_02_who_carried_the_weight_in_2008__root",
+      "title": "Changes at the Top",
+      "section_path": [
+        "Changes at the Top"
+      ],
+      "section_path_text": "Changes at the Top",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "In general, the very top of 2008's most active charterers remained unchanged compared to 2007. One exception is Total (CSSA) and Vitol swapping the number four and five spots.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "brazil",
+        "crude_oil",
+        "top",
+        "number",
+        "fixtures",
+        "companies"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 647,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_01_02_who_carried_the_weight_in_2008__s04_petrochina",
+      "doc_id": "poten_tankers_no_date_poten_2009_01_02_who_carried_the_weight_in_2008",
+      "parent_id": "poten_tankers_no_date_poten_2009_01_02_who_carried_the_weight_in_2008__root",
+      "title": "PetroChina",
+      "section_path": [
+        "PetroChina"
+      ],
+      "section_path_text": "PetroChina",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Overall Suezmax reported spot market activity was essentially unchanged year-on-year. Despite a decline in Shell's reported fixtures from 168 in 2007 to 149 last year, they easily maintained their top rank.",
+      "keywords": [
+        "suezmax",
+        "aframax",
+        "top",
+        "reported",
+        "activity",
+        "charterers",
+        "fixtures",
+        "shell"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 137,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_01_02_who_carried_the_weight_in_2008__s05_top_10_aframax_spot_charterers",
+      "doc_id": "poten_tankers_no_date_poten_2009_01_02_who_carried_the_weight_in_2008",
+      "parent_id": "poten_tankers_no_date_poten_2009_01_02_who_carried_the_weight_in_2008__root",
+      "title": "Top 10 Aframax Spot Charterers",
+      "section_path": [
+        "Top 10 Aframax Spot Charterers"
+      ],
+      "section_path_text": "Top 10 Aframax Spot Charterers",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Major oil companies top the Panamax chart with Chevron displacing ST Shipping at the top and BP rising significantly in 2008. Top 10 Panamax Spot Charterers 66 65 65 59 55",
+      "keywords": [
+        "panamax",
+        "crude_oil",
+        "top",
+        "chart",
+        "charterers",
+        "chevron",
+        "companies",
+        "displacing"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 44,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2009_01_02_who_carried_the_weight_in_2008__s06_the_year_ahead",
+      "doc_id": "poten_tankers_no_date_poten_2009_01_02_who_carried_the_weight_in_2008",
+      "parent_id": "poten_tankers_no_date_poten_2009_01_02_who_carried_the_weight_in_2008__root",
+      "title": "The Year Ahead",
+      "section_path": [
+        "The Year Ahead"
+      ],
+      "section_path_text": "The Year Ahead",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "The spot market remains an important part of the information flow in the tanker industry as well as a critical part of the energy supply chain. While many of the same company names continually appear at the top of the spot chartering list, the changes often reflect trends such as the rising importance of India and China as well as oil company consolidation.",
+      "keywords": [
+        "china",
+        "india",
+        "crude_oil",
+        "company",
+        "part",
+        "well",
+        "year",
+        "although"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 105,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

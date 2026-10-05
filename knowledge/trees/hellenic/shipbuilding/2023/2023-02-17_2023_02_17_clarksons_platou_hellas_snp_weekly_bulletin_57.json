@@ -9,7 +9,7 @@
   "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nNew building in tankers this week, Haidong Shipyard contracted four firm 80k dwt, 250M LOA, 50M beam, shallow drafted\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-02-17_clarksons-platou-hellas-snp-weekly-bulletin-57_report-17-02-2023_9237f6410289.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-02-17_clarksons-platou-hellas-snp-weekly-bulletin-57_report-17-02-2023_9237f6410289.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 17 February 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nSS 02/26\nHL AQUAMARINE 209,187 2021 NEW TIMES\nDD 02/24\nSS 10/26\nHL SAPPHIRE 209,182 2021 NEW TIMES\nDD 1/24 USD 291 M\nMAN B.&W. 6G70ME-C10.5 SS 10/25 EN BLOC\nHL DIAMOND 209,199 2020 NEW TIMES NORWEGIANS\nBWTS & Scrubber Fitted DD 10/23\n(Sale basis 3 years TC\n(c/o Golden\nSS 11/25 back at an average\nHL PEARL 209,196 2020 NEW TIMES\nDD 11/23 daily time charter\nOcean)\nequivalent rate of\nSS 10/25 around $21,000 net)\nHL EMERALD 209,177 2020 NEW TIMES\nDD 10/23\nMAN B. 6G70ME-C9.2 SS 03/27\nHL PORT WALCOTT 208,864 2017 CIC JIANGSU\nBWTS & Scrubber Fitted DD 02/24\nMAN B.",
+  "summary": "Main\nNew building in tankers this week, Haidong Shipyard contracted four firm 80k dwt, 250M LOA, 50M beam, shallow drafted\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-02-17_clarksons-platou-hellas-snp-weekly-bulletin-57_report-17-02-2023_9237f6410289.pdf\nSource asset: corpus/02-hellenic/shipbuilding/pdfs/2023-02-17_clarksons-platou-hellas-snp-weekly-bulletin-57_report-17-02-2023_9237f6410289.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin17 February 2023\n\n# Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n|HL AQUAMARINE|209,187|2021 NEW TIMES HL PORT WALCOTT|MAN B.&W. 6G70ME-C10.5 BWTS & Scrubber Fitted HL SAPPHIRE HL DIAMOND HL PEARL HL EMERALD 208,864|SS 02/26 DD 02/24 209,182 209,199 209,196 209,177 2017 CIC JIANGSU|USD 291 M EN BLOC (Sale basis 3 years TC back at an average daily time charter equivalent rate of around $21,000 net) 2021 NEW TIMES 2020 NEW TIMES 2020 NEW TIMES 2020 NEW TIMES MAN B. 6G70ME -C9.2 BWTS & Scrubber Fitted|NORWEGIANS (c/o Golden Ocean) SS 10/26 DD 1/24 SS 10/25 DD 10/23 SS 11/25 DD 11/23 SS 10/25 DD 10/23 SS 003/27 DD 2/24|\n|OCEAN CAESAR|180,176|2008 IMABARI|MAN B.",
   "keywords": [
     "lng",
     "lpg",
@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2294,
-  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-02-17_clarksons-platou-hellas-snp-weekly-bulletin-57.html",
+  "token_count": 2387,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-02-17_clarksons-platou-hellas-snp-weekly-bulletin-57.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-57",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-02-17_clarksons-platou-hellas-snp-weekly-bulletin-57_report-17-02-2023_9237f6410289.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-02-17_clarksons-platou-hellas-snp-weekly-bulletin-57_report-17-02-2023_9237f6410289.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 17 February 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nSS 02/26\nHL AQUAMARINE 209,187 2021 NEW TIMES\nDD 02/24\nSS 10/26\nHL SAPPHIRE 209,182 2021 NEW TIMES\nDD 1/24 USD 291 M\nMAN B.&W. 6G70ME-C10.5 SS 10/25 EN BLOC\nHL DIAMOND 209,199 2020 NEW TIMES NORWEGIANS\nBWTS & Scrubber Fitted DD 10/23\n(Sale basis 3 years TC\n(c/o Golden\nSS 11/25 back at an average\nHL PEARL 209,196 2020 NEW TIMES\nDD 11/23 daily time charter\nOcean)\nequivalent rate of\nSS 10/25 around $21,000 net)\nHL EMERALD 209,177 2020 NEW TIMES\nDD 10/23\nMAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-02-17_clarksons-platou-hellas-snp-weekly-bulletin-57_report-17-02-2023_9237f6410289.pdf\n\n## SALE & PURCHASE\n\n# Clarksons Hellas Weekly Bulletin17 February 2023\n\n# Bulk Carriers\n\n|Vessel|DWT|Built|Details|SS/DD|Price|Buyer|\n|---|---|---|---|---|---|---|\n|HL AQUAMARINE|209,187|2021 NEW TIMES HL PORT WALCOTT|MAN B.&W. 6G70ME-C10.5 BWTS & Scrubber Fitted HL SAPPHIRE HL DIAMOND HL PEARL HL EMERALD 208,864|SS 02/26 DD 02/24 209,182 209,199 209,196 209,177 2017 CIC JIANGSU|USD 291 M EN BLOC (Sale basis 3 years TC back at an average daily time charter equivalent rate of around $21,000 net) 2021 NEW TIMES 2020 NEW TIMES 2020 NEW TIMES 2020 NEW TIMES MAN B.",
       "keywords": [
         "lng",
         "lpg",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2201,
+      "token_count": 2294,
       "section_type": "linked_pdf",
       "children": []
     }

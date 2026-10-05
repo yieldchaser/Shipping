@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2006_12_29_winds_of_change__root",
+  "doc_id": "poten_tankers_no_date_poten_2006_12_29_winds_of_change",
+  "parent_id": null,
+  "title": "Winds of Change",
+  "section_path": [
+    "Winds of Change"
+  ],
+  "section_path_text": "Winds of Change",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Winds of Change\nAlthough the tanker market is accustomed to everyday fluctuations in rates and regular movements in the freight markets, there are some trends that develop over the longer-term. In general, the sizes of tankers within traditional designations have gotten larger. These larger vessels have larger engines increasing fuel consumption, but also allowing vessels to travel faster.",
+  "keywords": [
+    "panamax",
+    "handysize",
+    "vlcc",
+    "brazil",
+    "vessels",
+    "hfo",
+    "mt/day",
+    "changes",
+    "larger",
+    "tce",
+    "are",
+    "ballast"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 454,
+  "source_path": "reports/poten/2006/poten_2006-12-29_winds-of-change.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_12_29_winds_of_change__s01_winds_of_change",
+      "doc_id": "poten_tankers_no_date_poten_2006_12_29_winds_of_change",
+      "parent_id": "poten_tankers_no_date_poten_2006_12_29_winds_of_change__root",
+      "title": "Winds of Change",
+      "section_path": [
+        "Winds of Change"
+      ],
+      "section_path_text": "Winds of Change",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Although the tanker market is accustomed to everyday fluctuations in rates and regular movements in the freight markets, there are some trends that develop over the longer-term. In general, the sizes of tankers within traditional designations have gotten larger.",
+      "keywords": [
+        "handysize",
+        "larger",
+        "sizes",
+        "vessels",
+        "accustomed",
+        "allowing",
+        "although",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 80,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_12_29_winds_of_change__s02_keeping_up",
+      "doc_id": "poten_tankers_no_date_poten_2006_12_29_winds_of_change",
+      "parent_id": "poten_tankers_no_date_poten_2006_12_29_winds_of_change__root",
+      "title": "Keeping Up",
+      "section_path": [
+        "Keeping Up"
+      ],
+      "section_path_text": "Keeping Up",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "In order to better reflect the changes taking place in the fleet, the deadweight designation for Handymaxes will be revised in January 2007 from 37,500 to 49,999 DWT to between 37,500 and 59,999 DWT. Panamaxes will simultaneously be reclassified as vessels between 60,000 and 79,999 DWT.",
+      "keywords": [
+        "panamax",
+        "handysize",
+        "between",
+        "dwt.",
+        "vessels",
+        "approximately",
+        "better",
+        "changes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 96,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_12_29_winds_of_change__s03_faster_fleet",
+      "doc_id": "poten_tankers_no_date_poten_2006_12_29_winds_of_change",
+      "parent_id": "poten_tankers_no_date_poten_2006_12_29_winds_of_change__root",
+      "title": "Faster Fleet",
+      "section_path": [
+        "Faster Fleet"
+      ],
+      "section_path_text": "Faster Fleet",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The assumptions that are used in calculating the daily time charter equivalent (TCE) have also been updated. Despite larger size vessels in general, technologies have led to faster vessels, but with higher fuel consumptions.",
+      "keywords": [
+        "vlcc",
+        "brazil",
+        "vessels",
+        "affect",
+        "are",
+        "assumptions",
+        "below",
+        "but"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 55,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_12_29_winds_of_change__s04_input",
+      "doc_id": "poten_tankers_no_date_poten_2006_12_29_winds_of_change",
+      "parent_id": "poten_tankers_no_date_poten_2006_12_29_winds_of_change__root",
+      "title": "Input",
+      "section_path": [
+        "Input"
+      ],
+      "section_path_text": "Input",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Differential Laden Speed 14.5 15.5 1.0 Ballast Speed 15.5 16.0 0.5 HFO - Laden (MT/day) 85 92 7 HFO - Ballast (MT/day) 80 90 10 HFO - Load (MT/day) 12 20 8 HFO - Discharge (MT/day) 80 80 0 HFO - Idle (MT/day) 11 11 0 TCE ($/day) $37,681 $38,246 $565 For a typical voyage Ras Tanura to Chiba at WS 65 and using 2007 Worldscale flat rates, the TCE increased by about $500 per day. Similar changes have been made in the speeds and consumptions for the other vessel categories with similar results.",
+      "keywords": [
+        "hfo",
+        "mt/day",
+        "ballast",
+        "changes",
+        "laden",
+        "similar",
+        "speed",
+        "tce"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 209,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

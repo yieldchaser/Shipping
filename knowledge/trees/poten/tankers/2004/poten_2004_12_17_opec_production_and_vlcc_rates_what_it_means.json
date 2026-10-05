@@ -1,0 +1,174 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2004_12_17_opec_production_and_vlcc_rates_what_it_means__root",
+  "doc_id": "poten_tankers_no_date_poten_2004_12_17_opec_production_and_vlcc_rates_what_it_means",
+  "parent_id": null,
+  "title": "OPEC Production and VLCC Rates - What It Means",
+  "section_path": [
+    "OPEC Production and VLCC Rates - What It Means"
+  ],
+  "section_path_text": "OPEC Production and VLCC Rates - What It Means",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "OPEC Production and VLCC Rates - What It Means\nLast week OPEC announced a reduction of about 1 million bpd to stem falling oil prices. The key question is what this means for VLCC rates. The following chart shows VLCC rates and AG exports.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "atlantic",
+    "pacific",
+    "meg",
+    "crude_oil",
+    "exports",
+    "imports",
+    "u.s.",
+    "ag/west",
+    "oil",
+    "bpd"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 708,
+  "source_path": "reports/poten/2004/poten_2004-12-17_opec-production-and-vlcc-rates-what-it-means.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_12_17_opec_production_and_vlcc_rates_what_it_means__s01_opec_production_and_vlcc_rates_what_it_means",
+      "doc_id": "poten_tankers_no_date_poten_2004_12_17_opec_production_and_vlcc_rates_what_it_means",
+      "parent_id": "poten_tankers_no_date_poten_2004_12_17_opec_production_and_vlcc_rates_what_it_means__root",
+      "title": "OPEC Production and VLCC Rates - What It Means",
+      "section_path": [
+        "OPEC Production and VLCC Rates - What It Means"
+      ],
+      "section_path_text": "OPEC Production and VLCC Rates - What It Means",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Last week OPEC announced a reduction of about 1 million bpd to stem falling oil prices. The key question is what this means for VLCC rates.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "announced",
+        "bpd",
+        "chart",
+        "exports.",
+        "falling",
+        "following"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 43,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_12_17_opec_production_and_vlcc_rates_what_it_means__s02_ag_fe",
+      "doc_id": "poten_tankers_no_date_poten_2004_12_17_opec_production_and_vlcc_rates_what_it_means",
+      "parent_id": "poten_tankers_no_date_poten_2004_12_17_opec_production_and_vlcc_rates_what_it_means__root",
+      "title": "AG/FE",
+      "section_path": [
+        "AG/FE"
+      ],
+      "section_path_text": "AG/FE",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "AG/USG AG Exports There is a closer agreement with AG/West VLCC rates with AG exports (R- Square of 75%) than AG/East VLCC rates (R-Square of 66%). Curiously there is no statistical relationship between AG imports into the United States and AG/West VLCC rates.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "exports",
+        "ag/west",
+        "imports",
+        "between",
+        "states",
+        "united"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 123,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_12_17_opec_production_and_vlcc_rates_what_it_means__s03_trend_drifting_down",
+      "doc_id": "poten_tankers_no_date_poten_2004_12_17_opec_production_and_vlcc_rates_what_it_means",
+      "parent_id": "poten_tankers_no_date_poten_2004_12_17_opec_production_and_vlcc_rates_what_it_means__root",
+      "title": "Trend Drifting Down",
+      "section_path": [
+        "Trend Drifting Down"
+      ],
+      "section_path_text": "Trend Drifting Down",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "oil imports from the AG have remained relatively flat at 2.5 million bpd, the percentage of U.S. oil imports from the AG with respect to AG exports is trending down.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "atlantic",
+        "pacific",
+        "crude_oil",
+        "exports",
+        "u.s.",
+        "imports"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 293,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_12_17_opec_production_and_vlcc_rates_what_it_means__s04_outliers",
+      "doc_id": "poten_tankers_no_date_poten_2004_12_17_opec_production_and_vlcc_rates_what_it_means",
+      "parent_id": "poten_tankers_no_date_poten_2004_12_17_opec_production_and_vlcc_rates_what_it_means__root",
+      "title": "Outliers",
+      "section_path": [
+        "Outliers"
+      ],
+      "section_path_text": "Outliers",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "For comparison's sake, we did the scatter diagram for AG/East rates versus AG exports. Notice that the two have different slopes for the data points on the \"main sequence\".",
+      "keywords": [
+        "ag/east",
+        "comparison",
+        "data",
+        "diagram",
+        "did",
+        "different",
+        "exports.",
+        "main"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 36,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2004_12_17_opec_production_and_vlcc_rates_what_it_means__s05_outliers",
+      "doc_id": "poten_tankers_no_date_poten_2004_12_17_opec_production_and_vlcc_rates_what_it_means",
+      "parent_id": "poten_tankers_no_date_poten_2004_12_17_opec_production_and_vlcc_rates_what_it_means__root",
+      "title": "Outliers",
+      "section_path": [
+        "Outliers"
+      ],
+      "section_path_text": "Outliers",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The theoretical impact of a change of one million bpd of AG exports on the AG/West VLCC rates is 28 Worldscale points whereas the same change on AG/East VLCC rates is 38 Worldscale points. The market has already made some allowance for a prospective drop in AG exports.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "crude_oil",
+        "drop",
+        "ag/east",
+        "change",
+        "current",
+        "down"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 185,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

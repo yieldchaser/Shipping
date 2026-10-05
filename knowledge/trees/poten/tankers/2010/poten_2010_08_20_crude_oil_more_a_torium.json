@@ -1,0 +1,142 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_08_20_crude_oil_more_a_torium__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_08_20_crude_oil_more_a_torium",
+  "parent_id": null,
+  "title": "Crude Oil: More - a - Torium",
+  "section_path": [
+    "Crude Oil: More - a - Torium"
+  ],
+  "section_path_text": "Crude Oil: More - a - Torium",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Crude Oil: More - a - Torium\nWith the Macondo well successfully capped and the cleanup operation in the U.S. Gulf of Mexico moving into its next phase, a clearer picture of the spill's impact on the tanker market is starting to emerge. Recent attempts to pass restructurings of U.S.",
+  "keywords": [
+    "lpg",
+    "us_gulf",
+    "crude_oil",
+    "gas",
+    "oil",
+    "moratorium",
+    "u.s.",
+    "spill",
+    "crude",
+    "its",
+    "demand",
+    "drilling"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 673,
+  "source_path": "reports/poten/2010/poten_2010-08-20_crude-oil-more-a-torium.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_08_20_crude_oil_more_a_torium__s01_crude_oil_more_a_torium",
+      "doc_id": "poten_tankers_no_date_poten_2010_08_20_crude_oil_more_a_torium",
+      "parent_id": "poten_tankers_no_date_poten_2010_08_20_crude_oil_more_a_torium__root",
+      "title": "Crude Oil: More - a - Torium",
+      "section_path": [
+        "Crude Oil: More - a - Torium"
+      ],
+      "section_path_text": "Crude Oil: More - a - Torium",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "With the Macondo well successfully capped and the cleanup operation in the U.S. Gulf of Mexico moving into its next phase, a clearer picture of the spill's impact on the tanker market is starting to emerge.",
+      "keywords": [
+        "us_gulf",
+        "crude_oil",
+        "u.s.",
+        "its",
+        "oil",
+        "production",
+        "deepwater",
+        "expected"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 244,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_08_20_crude_oil_more_a_torium__s02_crude_oil",
+      "doc_id": "poten_tankers_no_date_poten_2010_08_20_crude_oil_more_a_torium",
+      "parent_id": "poten_tankers_no_date_poten_2010_08_20_crude_oil_more_a_torium__root",
+      "title": "Crude Oil",
+      "section_path": [
+        "Crude Oil"
+      ],
+      "section_path_text": "Crude Oil",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "lpg",
+        "gas",
+        "ethanol",
+        "fuel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_08_20_crude_oil_more_a_torium__s03_deeply_held_divisions",
+      "doc_id": "poten_tankers_no_date_poten_2010_08_20_crude_oil_more_a_torium",
+      "parent_id": "poten_tankers_no_date_poten_2010_08_20_crude_oil_more_a_torium__root",
+      "title": "Deeply‐Held Divisions",
+      "section_path": [
+        "Deeply‐Held Divisions"
+      ],
+      "section_path_text": "Deeply‐Held Divisions",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "In late May, the Interior Department announced a six month moratorium on deepwater drilling in the U.S. The action was quickly challenged in court by companies involved in offshore drilling while also being drawn into a political debate which has centered around its effect on regional employment.",
+      "keywords": [
+        "crude_oil",
+        "moratorium",
+        "drilling",
+        "demand",
+        "was",
+        "barrels",
+        "before",
+        "created"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 293,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_08_20_crude_oil_more_a_torium__s04_million_barrels_per_day",
+      "doc_id": "poten_tankers_no_date_poten_2010_08_20_crude_oil_more_a_torium",
+      "parent_id": "poten_tankers_no_date_poten_2010_08_20_crude_oil_more_a_torium__root",
+      "title": "million barrels per day",
+      "section_path": [
+        "million barrels per day"
+      ],
+      "section_path_text": "million barrels per day",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Over the long term, the repercussions of the spill will no doubt come to play a prominent role in crafting new energy and oil spill legislation. It is still unclear what those repercussions will be, but there have been clear signs that the energy industry intends to resume business as usual by the end of 2010 or beginning of 2011 (albeit with a modified process for approval of permits).",
+      "keywords": [
+        "crude_oil",
+        "energy",
+        "repercussions",
+        "spill",
+        "additional",
+        "albeit",
+        "approval",
+        "beginning"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 102,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

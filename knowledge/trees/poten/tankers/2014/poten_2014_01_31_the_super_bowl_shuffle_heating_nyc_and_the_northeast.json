@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2014_01_31_the_super_bowl_shuffle_heating_nyc_and_the_northeast__root",
+  "doc_id": "poten_tankers_no_date_poten_2014_01_31_the_super_bowl_shuffle_heating_nyc_and_the_northeast",
+  "parent_id": null,
+  "title": "The Super Bowl Shuffle: Heating NYC and the Northeast",
+  "section_path": [
+    "The Super Bowl Shuffle: Heating NYC and the Northeast"
+  ],
+  "section_path_text": "The Super Bowl Shuffle: Heating NYC and the Northeast",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Super Bowl Shuffle: Heating NYC and the Northeast\nWith NFL Super Bowl hype in full swing, native New Yorkers are raising their collective eyebrows at the city's ability to deliver what it has promised. When hosting a national event such as this, the question of infrastructure is on the top of everyone's mind. Belying tough exteriors, the recent extreme cold in New York has registered the chilling notion of the delicate heating oil infrastructure in our backyard and elsewhere along the East Coast.",
+  "keywords": [
+    "crude_oil",
+    "products",
+    "gas",
+    "oil",
+    "natural",
+    "fuel",
+    "heating",
+    "new",
+    "are",
+    "demand",
+    "fuels",
+    "can"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 741,
+  "source_path": "reports/poten/2014/poten_2014-01-31_the-super-bowl-shuffle-heating-nyc-and-the-northeast.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_01_31_the_super_bowl_shuffle_heating_nyc_and_the_northeast__s01_the_super_bowl_shuffle_heating_nyc_and_the_northeast",
+      "doc_id": "poten_tankers_no_date_poten_2014_01_31_the_super_bowl_shuffle_heating_nyc_and_the_northeast",
+      "parent_id": "poten_tankers_no_date_poten_2014_01_31_the_super_bowl_shuffle_heating_nyc_and_the_northeast__root",
+      "title": "The Super Bowl Shuffle: Heating NYC and the Northeast",
+      "section_path": [
+        "The Super Bowl Shuffle: Heating NYC and the Northeast"
+      ],
+      "section_path_text": "The Super Bowl Shuffle: Heating NYC and the Northeast",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "With NFL Super Bowl hype in full swing, native New Yorkers are raising their collective eyebrows at the city's ability to deliver what it has promised. When hosting a national event such as this, the question of infrastructure is on the top of everyone's mind.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "fuel",
+        "are",
+        "days",
+        "below",
+        "demand",
+        "distillate"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 221,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_01_31_the_super_bowl_shuffle_heating_nyc_and_the_northeast__s02_total_distillate_stocks",
+      "doc_id": "poten_tankers_no_date_poten_2014_01_31_the_super_bowl_shuffle_heating_nyc_and_the_northeast",
+      "parent_id": "poten_tankers_no_date_poten_2014_01_31_the_super_bowl_shuffle_heating_nyc_and_the_northeast__root",
+      "title": "Total Distillate Stocks",
+      "section_path": [
+        "Total Distillate Stocks"
+      ],
+      "section_path_text": "Total Distillate Stocks",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Days Supply The Northeast, not unlike other parts of the world, has been grappling with how to effectively restrict the amount of particulate matter, NOx and SOx emitted from heating fuels in order to improve air quality. While many states continue to use residual fuel oil (#6 oil) for heat and power generation, in 2011 New York City embarked on an initiative to transition residential buildings from #6 oil to natural gas or appropriately-sulfured middle grade #4 oil or #2 oil.",
+      "keywords": [
+        "crude_oil",
+        "gas",
+        "natural",
+        "oil",
+        "heating",
+        "price",
+        "fuel",
+        "fuels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 310,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_01_31_the_super_bowl_shuffle_heating_nyc_and_the_northeast__s03_2_oil_nyh_to_natural_gas",
+      "doc_id": "poten_tankers_no_date_poten_2014_01_31_the_super_bowl_shuffle_heating_nyc_and_the_northeast",
+      "parent_id": "poten_tankers_no_date_poten_2014_01_31_the_super_bowl_shuffle_heating_nyc_and_the_northeast__root",
+      "title": "#2 Oil (NYH) to Natural Gas",
+      "section_path": [
+        "#2 Oil (NYH) to Natural Gas"
+      ],
+      "section_path_text": "#2 Oil (NYH) to Natural Gas",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "A short-term transition to liquid fuels highlights the marine and inland logistical challenges and associated costs. Densely populated and developed areas, such as New York City and many other places along the Northeastern coastline, have little room for significant marine infrasstructure expansion or new tank farm sites.",
+      "keywords": [
+        "gas",
+        "can",
+        "expected",
+        "fuel",
+        "marine",
+        "new",
+        "short-term",
+        "supply"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 180,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

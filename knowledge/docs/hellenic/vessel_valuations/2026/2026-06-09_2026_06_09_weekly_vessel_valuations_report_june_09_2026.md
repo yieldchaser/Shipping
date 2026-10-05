@@ -25,16 +25,17 @@ keywords:
 - mil.
 - sold
 - value
-- dwt
-linked_assets_discovered: 2
+- asset
+linked_assets_discovered: 1
 linked_assets_failed: 0
 linked_assets_ingested: 1
 linked_assets_mirrored: 1
-linked_assets_skipped: 1
+linked_assets_skipped: 0
 market_tone: neutral
 numeric_observation_count: 18
 numeric_observations:
-- section: Main
+- &id001
+  section: Main
   section_type: null
   source_line: Capesize Ehime Queen (181,200 DWT, 2016, Imabari) sold to Chinese SS/DD
     Passed for USD 57.5 mil, VV Value USD 59.9 mil.
@@ -42,9 +43,10 @@ numeric_observations:
   values:
   - 181200.0
   - 2016.0
-  - 57500.0
-  - 59900.0
-- section: Main
+  - 57.5
+  - 59.9
+- &id002
+  section: Main
   section_type: null
   source_line: Capesize Charm (171,000 DWT, 2003, Sasebo) sold to Chinese for USD
     17.4 mil, VV Value USD 16.5 mil.
@@ -52,9 +54,10 @@ numeric_observations:
   values:
   - 171000.0
   - 2003.0
-  - 17400.0
-  - 16500.0
-- section: Main
+  - 17.4
+  - 16.5
+- &id003
+  section: Main
   section_type: null
   source_line: Kamsarmax Seacon Anwerp (82,800 DWT, 2024, Tsuneishi Zhoushan) sold
     by Seacon Shipping Group for USD 42.7 mil, VV Value USD 42.5 mil.
@@ -62,9 +65,10 @@ numeric_observations:
   values:
   - 82800.0
   - 2024.0
-  - 42700.0
-  - 42500.0
-- section: Main
+  - 42.7
+  - 42.5
+- &id004
+  section: Main
   section_type: null
   source_line: Panamax Hong Run 6 (75,900 DWT, 2001, Kanasashi) sold to Jiangsu Steamship
     SS/DD Due for USD 7 mil, VV Value USD 6.8 mil.
@@ -74,8 +78,9 @@ numeric_observations:
   - 75900.0
   - 2001.0
   - 7.0
-  - 6800.0
-- section: Main
+  - 6.8
+- &id005
+  section: Main
   section_type: null
   source_line: Supramax Ausone (56.800 DWT, 2012, Yangzhou Guoyu) sold to Chinese
     for USD 13.7 mil, VV Value USD 14.1 mil.
@@ -83,9 +88,10 @@ numeric_observations:
   values:
   - 56800.0
   - 2012.0
-  - 13700.0
-  - 14100.0
-- section: Main
+  - 13.7
+  - 14.1
+- &id006
+  section: Main
   section_type: null
   source_line: Handy Container EF Emira (1,706 TEU, Apr 2008, Aker Ostsee) sold Inc
     TC for USD 20 mil to Middle Eastern buyers, VV Value USD 18.25 mil.
@@ -94,25 +100,18 @@ numeric_observations:
   - 1706.0
   - 2008.0
   - 20.0
-  - 18250.0
-- section: Main
+  - 18.25
+- &id007
+  section: Main
   section_type: null
-  source_line: 'Image reference: assets/2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg'
+  source_line: 'Linked asset: 9620250.jpg'
   unit: null
   values:
-  - 2026.0
-  - -6.0
-  - -9.0
-  - 9.0
-  - -2026.0
-  - 1.0
   - 9620250.0
-  - 328.0
-  - 3.0
-  - 34.0
-- section: 'Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg'
+- &id008
+  section: 'Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_9620250_328b3ee34caa.jpg'
   section_type: linked_image_asset
-  source_line: 'Linked image asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg'
+  source_line: 'Linked image asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_9620250_328b3ee34caa.jpg'
   unit: null
   values:
   - 2026.0
@@ -120,71 +119,80 @@ numeric_observations:
   - -9.0
   - 9.0
   - -2026.0
-  - 1.0
   - 9620250.0
   - 328.0
   - 3.0
   - 34.0
-- section: 'Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg'
+- &id009
+  section: 'Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_9620250_328b3ee34caa.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 600x279 mode=RGB'
   unit: null
   values:
   - 600.0
   - 279.0
-- section: 'Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg'
+- &id010
+  section: 'Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_9620250_328b3ee34caa.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (72.0, 72.0)'
   unit: null
   values:
-  - 72000.0
-  - 72000.0
-- section: 'Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg'
+  - 72.0
+  - 72.0
+- &id011
+  section: 'Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_9620250_328b3ee34caa.jpg'
   section_type: linked_image_asset
   source_line: 09 June 2026 VV Mini Matrix « Weekly Change
   unit: null
   values:
   - 9.0
   - 2026.0
-- section: 'Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg'
+- &id012
+  section: 'Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_9620250_328b3ee34caa.jpg'
   section_type: linked_image_asset
   source_line: 7 ee eee ee
   unit: null
   values:
   - 7.0
-- section: 'Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg'
+- &id013
+  section: 'Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_9620250_328b3ee34caa.jpg'
   section_type: linked_image_asset
   source_line: . ne -~ ns = CT ~~ " CT 700 ase use see
   unit: null
   values:
   - 700.0
-- section: 'Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg'
+- &id014
+  section: 'Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_9620250_328b3ee34caa.jpg'
   section_type: linked_image_asset
   source_line: 7 a - cd _ " - ~ bad ase me ae.
   unit: null
   values:
   - 7.0
-- section: 'Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg'
+- &id015
+  section: 'Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_9620250_328b3ee34caa.jpg'
   section_type: linked_image_asset
   source_line: Sy 5 1 a eee oe te em Pe oe es
   unit: null
   values:
   - 5.0
   - 1.0
-- section: 'Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg'
+- &id016
+  section: 'Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_9620250_328b3ee34caa.jpg'
   section_type: linked_image_asset
   source_line: ™ cs - nd ™ Ld cd " - 7 700 as ms ae
   unit: null
   values:
   - 7.0
   - 700.0
-- section: 'Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg'
+- &id017
+  section: 'Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_9620250_328b3ee34caa.jpg'
   section_type: linked_image_asset
   source_line: SS & Se ee ee Ss Ss 2S Ss
   unit: null
   values:
   - 2.0
-- section: 'Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg'
+- &id018
+  section: 'Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_9620250_328b3ee34caa.jpg'
   section_type: linked_image_asset
   source_line: ay SS ae ee eS ay & 2S = oe &
   unit: null
@@ -200,160 +208,26 @@ section_count: 2
 signals:
   numeric_observation_count: 18
   numeric_observations:
-  - section: Main
-    section_type: null
-    source_line: Capesize Ehime Queen (181,200 DWT, 2016, Imabari) sold to Chinese
-      SS/DD Passed for USD 57.5 mil, VV Value USD 59.9 mil.
-    unit: usd
-    values:
-    - 181200.0
-    - 2016.0
-    - 57.5
-    - 59.9
-  - section: Main
-    section_type: null
-    source_line: Capesize Charm (171,000 DWT, 2003, Sasebo) sold to Chinese for USD
-      17.4 mil, VV Value USD 16.5 mil.
-    unit: usd
-    values:
-    - 171000.0
-    - 2003.0
-    - 17.4
-    - 16.5
-  - section: Main
-    section_type: null
-    source_line: Kamsarmax Seacon Anwerp (82,800 DWT, 2024, Tsuneishi Zhoushan) sold
-      by Seacon Shipping Group for USD 42.7 mil, VV Value USD 42.5 mil.
-    unit: usd
-    values:
-    - 82800.0
-    - 2024.0
-    - 42.7
-    - 42.5
-  - section: Main
-    section_type: null
-    source_line: Panamax Hong Run 6 (75,900 DWT, 2001, Kanasashi) sold to Jiangsu
-      Steamship SS/DD Due for USD 7 mil, VV Value USD 6.8 mil.
-    unit: usd
-    values:
-    - 6.0
-    - 75900.0
-    - 2001.0
-    - 7.0
-    - 6.8
-  - section: Main
-    section_type: null
-    source_line: Supramax Ausone (56.800 DWT, 2012, Yangzhou Guoyu) sold to Chinese
-      for USD 13.7 mil, VV Value USD 14.1 mil.
-    unit: usd
-    values:
-    - 56.8
-    - 2012.0
-    - 13.7
-    - 14.1
-  - section: Main
-    section_type: null
-    source_line: Handy Container EF Emira (1,706 TEU, Apr 2008, Aker Ostsee) sold
-      Inc TC for USD 20 mil to Middle Eastern buyers, VV Value USD 18.25 mil.
-    unit: usd
-    values:
-    - 1706.0
-    - 2008.0
-    - 20.0
-    - 18.25
-  - section: Main
-    section_type: null
-    source_line: 'Image reference: assets/2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg'
-    unit: null
-    values:
-    - 2026.0
-    - -6.0
-    - -9.0
-    - 9.0
-    - -2026.0
-    - 9620250.0
-    - 328.0
-    - 4.0
-  - section: 'Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg'
-    section_type: linked_image_asset
-    source_line: 'Linked image asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg'
-    unit: null
-    values:
-    - 2026.0
-    - -6.0
-    - -9.0
-    - 9.0
-    - -2026.0
-    - 9620250.0
-    - 328.0
-    - 4.0
-  - section: 'Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg'
-    section_type: linked_image_asset
-    source_line: 'Image metadata: JPEG 600x279 mode=RGB'
-    unit: null
-    values:
-    - 600.0
-    - 79.0
-  - section: 'Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg'
-    section_type: linked_image_asset
-    source_line: 'dpi: (72.0, 72.0)'
-    unit: null
-    values:
-    - 72.0
-    - 72.0
-  - section: 'Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg'
-    section_type: linked_image_asset
-    source_line: 09 June 2026 VV Mini Matrix « Weekly Change
-    unit: null
-    values:
-    - 9.0
-    - 2026.0
-  - section: 'Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg'
-    section_type: linked_image_asset
-    source_line: 7 ee eee ee
-    unit: null
-    values:
-    - 7.0
-  - section: 'Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg'
-    section_type: linked_image_asset
-    source_line: . ne -~ ns = CT ~~ " CT 700 ase use see
-    unit: null
-    values:
-    - 700.0
-  - section: 'Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg'
-    section_type: linked_image_asset
-    source_line: 7 a - cd _ " - ~ bad ase me ae.
-    unit: null
-    values:
-    - 7.0
-  - section: 'Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg'
-    section_type: linked_image_asset
-    source_line: Sy 5 1 a eee oe te em Pe oe es
-    unit: null
-    values:
-    - 5.0
-    - 1.0
-  - section: 'Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg'
-    section_type: linked_image_asset
-    source_line: ™ cs - nd ™ Ld cd " - 7 700 as ms ae
-    unit: null
-    values:
-    - 7.0
-    - 700.0
-  - section: 'Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg'
-    section_type: linked_image_asset
-    source_line: SS & Se ee ee Ss Ss 2S Ss
-    unit: null
-    values:
-    - 2.0
-  - section: 'Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg'
-    section_type: linked_image_asset
-    source_line: ay SS ae ee eS ay & 2S = oe &
-    unit: null
-    values:
-    - 2.0
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - *id010
+  - *id011
+  - *id012
+  - *id013
+  - *id014
+  - *id015
+  - *id016
+  - *id017
+  - *id018
 source: hellenic
-source_path: corpus/02-hellenic/vessel_valuations/2026/2026-06-09_weekly-vessel-valuations-report-june-09-2026.html
+source_path: reports/hellenic/vessel_valuations/2026/2026-06-09_weekly-vessel-valuations-report-june-09-2026.html
 source_stem: 2026-06-09_weekly-vessel-valuations-report-june-09-2026
 source_url: https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-june-09-2026
 summary: 'Main
@@ -398,12 +272,12 @@ Tankers: The S&P market remained subdued this week, reflecting both the distract
 No notable sales this week
 Containers: The second-hand and newbuilding markets remain quiet this week with a number of vessels rumoured but awaiting confirmation of sale, values remain stable across all sectors and ages.
 Handy Container EF Emira (1,706 TEU, Apr 2008, Aker Ostsee) sold Inc TC for USD 20 mil to Middle Eastern buyers, VV Value USD 18.25 mil.
-Image reference: assets/2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg
+Linked asset: 9620250.jpg
 
-## Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg
-Source asset: corpus/02-hellenic/vessel_valuations/2026/assets/2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg
+## Linked asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_9620250_328b3ee34caa.jpg
+Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-06-09_weekly-vessel-valuations-report-june-09-2026_9620250_328b3ee34caa.jpg
 
-Linked image asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_img1_9620250_328b3ee34caa.jpg
+Linked image asset: 2026-06-09_weekly-vessel-valuations-report-june-09-2026_9620250_328b3ee34caa.jpg
 
 Image metadata: JPEG 600x279 mode=RGB
 

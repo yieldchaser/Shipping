@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_06_06_no_longer_kings_of_the_road__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_06_06_no_longer_kings_of_the_road",
+  "parent_id": null,
+  "title": "No Longer Kings of the Road",
+  "section_path": [
+    "No Longer Kings of the Road"
+  ],
+  "section_path_text": "No Longer Kings of the Road",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "No Longer Kings of the Road\nIn a huge upset, it was recently announced that sales of Ford's dominant F-series truck lagged smaller, more fuel efficient cars like the Honda Civic and Accord, and the Toyota Camry and Corolla. In fact, the Ford F-series's fifth place showing in May 2008 US auto sales data marks the first time these trucks have failed to hold onto the top spot since June 2005 (when another truck briefly topped it). Ford sold just under 43,000 F-series trucks in May 2008, a 30% drop from May 2007.",
+  "keywords": [
+    "products",
+    "gas",
+    "may",
+    "gasoline",
+    "consumption",
+    "fuel",
+    "million",
+    "per",
+    "sales",
+    "auto",
+    "actually",
+    "efficient"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 648,
+  "source_path": "reports/poten/2008/poten_2008-06-06_no-longer-kings-of-the-road.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_06_06_no_longer_kings_of_the_road__s01_no_longer_kings_of_the_road",
+      "doc_id": "poten_tankers_no_date_poten_2008_06_06_no_longer_kings_of_the_road",
+      "parent_id": "poten_tankers_no_date_poten_2008_06_06_no_longer_kings_of_the_road__root",
+      "title": "No Longer Kings of the Road",
+      "section_path": [
+        "No Longer Kings of the Road"
+      ],
+      "section_path_text": "No Longer Kings of the Road",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In a huge upset, it was recently announced that sales of Ford's dominant F-series truck lagged smaller, more fuel efficient cars like the Honda Civic and Accord, and the Toyota Camry and Corolla. In fact, the Ford F-series's fifth place showing in May 2008 US auto sales data marks the first time these trucks have failed to hold onto the top spot since June 2005 (when another truck briefly topped it).",
+      "keywords": [
+        "products",
+        "gas",
+        "f-series",
+        "ford",
+        "may",
+        "sales",
+        "consumption",
+        "efficient"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 209,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_06_06_no_longer_kings_of_the_road__s02_thousand_bbl_d",
+      "doc_id": "poten_tankers_no_date_poten_2008_06_06_no_longer_kings_of_the_road",
+      "parent_id": "poten_tankers_no_date_poten_2008_06_06_no_longer_kings_of_the_road__root",
+      "title": "thousand bbl/d",
+      "section_path": [
+        "thousand bbl/d"
+      ],
+      "section_path_text": "thousand bbl/d",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "It would appear to the casual observer that this change in auto sale trends will significantly affect gasoline consumption and thus tanker demand. That supposition may only be half-right, however, if at all.",
+      "keywords": [
+        "products",
+        "gas",
+        "may",
+        "gasoline",
+        "million",
+        "per",
+        "consumption",
+        "fuel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 426,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

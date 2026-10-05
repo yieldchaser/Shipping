@@ -1,0 +1,146 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2006_06_09_btc_bound_to_china__root",
+  "doc_id": "poten_tankers_no_date_poten_2006_06_09_btc_bound_to_china",
+  "parent_id": null,
+  "title": "BTC (Bound To China?)",
+  "section_path": [
+    "BTC (Bound To China?)"
+  ],
+  "section_path_text": "BTC (Bound To China?)",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "BTC\n(Bound To China?) The loading of 600,000 barrels of Azeri crude from the terminus of the Baku-Tbilisi-Ceyhan (BTC) pipeline marked an important milestone in the crude oil and potentially the tanker markets. \"At capacity\" is a commonly used phrase when discussing today's worldwide crude and refined products markets. It's no secret that with very little spare capacity, crude markets have been increasingly jittery.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "atlantic",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "products",
+    "crude",
+    "pipeline",
+    "fixtures",
+    "capacity"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 660,
+  "source_path": "reports/poten/2006/poten_2006-06-09_btc-bound-to-china.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_06_09_btc_bound_to_china__s01_btc",
+      "doc_id": "poten_tankers_no_date_poten_2006_06_09_btc_bound_to_china",
+      "parent_id": "poten_tankers_no_date_poten_2006_06_09_btc_bound_to_china__root",
+      "title": "BTC",
+      "section_path": [
+        "BTC"
+      ],
+      "section_path_text": "BTC",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "(Bound To China?) The loading of 600,000 barrels of Azeri crude from the terminus of the Baku-Tbilisi-Ceyhan (BTC) pipeline marked an important milestone in the crude oil and potentially the tanker markets. \"At capacity\" is a commonly used phrase when discussing today's worldwide crude and refined products markets.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "products",
+        "crude",
+        "btc",
+        "capacity",
+        "markets.",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 114,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_06_09_btc_bound_to_china__s02_baku_tbilisi_ceyhan_pipeline",
+      "doc_id": "poten_tankers_no_date_poten_2006_06_09_btc_bound_to_china",
+      "parent_id": "poten_tankers_no_date_poten_2006_06_09_btc_bound_to_china__root",
+      "title": "Baku-Tbilisi-Ceyhan Pipeline",
+      "section_path": [
+        "Baku-Tbilisi-Ceyhan Pipeline"
+      ],
+      "section_path_text": "Baku-Tbilisi-Ceyhan Pipeline",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "It's A Long Way From Baku... Starting in Azerbaijan at Baku, the pipeline runs through Tbilisi, Georgia ending up at Ceyhan, a Turkish port on the eastern side of the Mediterranean.",
+      "keywords": [
+        "china",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "pipeline",
+        "crude",
+        "capacity",
+        "million"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 230,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_06_09_btc_bound_to_china__s03_fixtures_ex_ceyhan",
+      "doc_id": "poten_tankers_no_date_poten_2006_06_09_btc_bound_to_china",
+      "parent_id": "poten_tankers_no_date_poten_2006_06_09_btc_bound_to_china__root",
+      "title": "Fixtures Ex- Ceyhan",
+      "section_path": [
+        "Fixtures Ex- Ceyhan"
+      ],
+      "section_path_text": "Fixtures Ex- Ceyhan",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The chart on the previous page shows the historical number of fixtures out of Ceyhan for Suezmaxes and VLCCs. The number of liftings has declined significantly as supply to the port from the Iraq-Turkey Crude Pipeline has experienced interruption in the past few years.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "europe",
+        "fixtures",
+        "number",
+        "past",
+        "activity",
+        "any"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 145,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_06_09_btc_bound_to_china__s04_west_to_east",
+      "doc_id": "poten_tankers_no_date_poten_2006_06_09_btc_bound_to_china",
+      "parent_id": "poten_tankers_no_date_poten_2006_06_09_btc_bound_to_china__root",
+      "title": "West to East",
+      "section_path": [
+        "West to East"
+      ],
+      "section_path_text": "West to East",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The main driver for tanker trade activity is the incremental quantity of crude being transported to existing and new destinations. Since the Caspian Sea crude is light and sweet it could create a new trade to the Far East, specifically China who has exhibited growing demand for sweet crude.",
+      "keywords": [
+        "suezmax",
+        "china",
+        "atlantic",
+        "crude_oil",
+        "crude",
+        "incremental",
+        "new",
+        "trade"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 147,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

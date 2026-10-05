@@ -1,0 +1,272 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_04_15_dispelling_myths__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_04_15_dispelling_myths",
+  "parent_id": null,
+  "title": "Dispelling Myths",
+  "section_path": [
+    "Dispelling Myths"
+  ],
+  "section_path_text": "Dispelling Myths",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Dispelling Myths\nThroughout the annals of mankind, examples of ethanol's use as a premium party fuel are common. Nowadays, though, man's ever‐inventive nature has found a new use for the liquid. Rather than just stick to the time‐honored tradition of drinking it, promoters claim benefits for ethanol as a transportation fuel and now encourage its burning.",
+  "keywords": [
+    "grain",
+    "crude_oil",
+    "products",
+    "gas",
+    "ethanol",
+    "gasoline",
+    "fuel",
+    "oil",
+    "crude",
+    "imports",
+    "corn",
+    "energy"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1367,
+  "source_path": "reports/poten/2011/poten_2011-04-15_dispelling-myths.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_15_dispelling_myths__s01_dispelling_myths",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_15_dispelling_myths",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_15_dispelling_myths__root",
+      "title": "Dispelling Myths",
+      "section_path": [
+        "Dispelling Myths"
+      ],
+      "section_path_text": "Dispelling Myths",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Throughout the annals of mankind, examples of ethanol's use as a premium party fuel are common. Nowadays, though, man's ever‐inventive nature has found a new use for the liquid.",
+      "keywords": [
+        "grain",
+        "products",
+        "gas",
+        "ethanol",
+        "fuel",
+        "corn",
+        "advanced",
+        "claim"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 236,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_15_dispelling_myths__s02_fuel_ethanol_not_corn_based",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_15_dispelling_myths",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_15_dispelling_myths__root",
+      "title": "Fuel Ethanol, not corn-based",
+      "section_path": [
+        "Fuel Ethanol, not corn-based"
+      ],
+      "section_path_text": "Fuel Ethanol, not corn-based",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "% Ethanol in 9 mm b/d Gasoline",
+      "keywords": [
+        "products",
+        "gas",
+        "b/d",
+        "ethanol",
+        "gasoline"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_15_dispelling_myths__s03_renewable_fuels_standard",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_15_dispelling_myths",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_15_dispelling_myths__root",
+      "title": "Renewable Fuels Standard",
+      "section_path": [
+        "Renewable Fuels Standard"
+      ],
+      "section_path_text": "Renewable Fuels Standard",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "If the US' gasoline demand in 2022 is about what it averages today, roughly a quarter of the nine million barrels per day pool could be fuel ethanol. But technical controversies over how much ethanol can safely be shoehorned into the gasoline traditional engines burn continues to swirl.",
+      "keywords": [
+        "grain",
+        "products",
+        "gas",
+        "ethanol",
+        "gasoline",
+        "e85",
+        "are",
+        "e10"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 363,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_15_dispelling_myths__s04_the_myth",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_15_dispelling_myths",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_15_dispelling_myths__root",
+      "title": "The Myth",
+      "section_path": [
+        "The Myth"
+      ],
+      "section_path_text": "The Myth",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Has the US Congress' desire for greater energy independence and security been fulfilled by the recent rapid growth corn‐bred fuel ethanol production? Has the adaption of this versatile elixir into gasoline weaned the nation off its addiction to imported oil?",
+      "keywords": [
+        "grain",
+        "crude_oil",
+        "products",
+        "gas",
+        "oil",
+        "crude",
+        "average",
+        "between"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 197,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_15_dispelling_myths__s05_crude_oil_imports",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_15_dispelling_myths",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_15_dispelling_myths__root",
+      "title": "Crude Oil Imports",
+      "section_path": [
+        "Crude Oil Imports"
+      ],
+      "section_path_text": "Crude Oil Imports",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "",
+      "keywords": [
+        "crude",
+        "net",
+        "refinery"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_15_dispelling_myths__s06_change",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_15_dispelling_myths",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_15_dispelling_myths__root",
+      "title": "Change",
+      "section_path": [
+        "Change"
+      ],
+      "section_path_text": "Change",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Overall, the US' dependence on foreign oil imports between these years actually rose by 50 kBD despite the introduction of 600 kBD more of corn‐based fuel ethanol into the gasoline pool. To travel the road towards energy independence and security, it is clear that the US is better served by lower refinery processing rates and greater domestic crude oil production than by making more fuel ethanol.",
+      "keywords": [
+        "grain",
+        "crude_oil",
+        "products",
+        "gas",
+        "gasoline",
+        "fuel",
+        "ethanol",
+        "imports"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 204,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_15_dispelling_myths__s07_gasoline_imports",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_15_dispelling_myths",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_15_dispelling_myths__root",
+      "title": "Gasoline Imports",
+      "section_path": [
+        "Gasoline Imports"
+      ],
+      "section_path_text": "Gasoline Imports",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "",
+      "keywords": [
+        "products",
+        "gas",
+        "change",
+        "gasoline",
+        "net",
+        "supply"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_15_dispelling_myths__s08_gasoline_sold",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_15_dispelling_myths",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_15_dispelling_myths__root",
+      "title": "Gasoline Sold",
+      "section_path": [
+        "Gasoline Sold"
+      ],
+      "section_path_text": "Gasoline Sold",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "",
+      "keywords": [
+        "products",
+        "gas",
+        "exports",
+        "gasoline"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_04_15_dispelling_myths__s09_made",
+      "doc_id": "poten_tankers_no_date_poten_2011_04_15_dispelling_myths",
+      "parent_id": "poten_tankers_no_date_poten_2011_04_15_dispelling_myths__root",
+      "title": "Made",
+      "section_path": [
+        "Made"
+      ],
+      "section_path_text": "Made",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "It took vision and courage to craft the Renewable Fuels Standard. It will also take these attributes to place the Standard on \"Pause\" while an objective and rational assessment of whether or not its claimed benefits have actually been realized is conducted.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "ethanol",
+        "fuel",
+        "gasoline",
+        "energy",
+        "independence"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 298,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

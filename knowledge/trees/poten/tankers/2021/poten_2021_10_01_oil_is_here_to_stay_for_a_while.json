@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2021_10_01_oil_is_here_to_stay_for_a_while__root",
+  "doc_id": "poten_tankers_no_date_poten_2021_10_01_oil_is_here_to_stay_for_a_while",
+  "parent_id": null,
+  "title": "Oil Is Here To Stay For A While",
+  "section_path": [
+    "Oil Is Here To Stay For A While"
+  ],
+  "section_path_text": "Oil Is Here To Stay For A While",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "OPEC's new outlook is bullish for oil and tanker markets\nEarlier this week, the Organization of the Oil Exporting Countries (OPEC) published its long-term forecast, called \"World Oil Outlook 2045.\" The report has projections for the global economy, oil and energy demand, liquids supply and oil refining, as well as related policy and technology matters. The OPEC economists expect a strong global recovery in the short- to medium term (up to 2026), while the pace of GDP growth will slow in the long-term. Compared to other forecasters, such as the International Energy Agency (IEA), they are more bullish about oil demand and its role in the energy mix, especially in the next 5 years.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "india",
+    "coal",
+    "crude_oil",
+    "products",
+    "gas",
+    "opec",
+    "oil",
+    "mb/d",
+    "demand",
+    "global"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1047,
+  "source_path": "reports/poten/2021/poten_2021-10-01_oil-is-here-to-stay-for-a-while.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2021_10_01_oil_is_here_to_stay_for_a_while__s01_opec_s_new_outlook_is_bullish_for_oil_and_tanker_markets",
+      "doc_id": "poten_tankers_no_date_poten_2021_10_01_oil_is_here_to_stay_for_a_while",
+      "parent_id": "poten_tankers_no_date_poten_2021_10_01_oil_is_here_to_stay_for_a_while__root",
+      "title": "OPEC's new outlook is bullish for oil and tanker markets",
+      "section_path": [
+        "OPEC's new outlook is bullish for oil and tanker markets"
+      ],
+      "section_path_text": "OPEC's new outlook is bullish for oil and tanker markets",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Earlier this week, the Organization of the Oil Exporting Countries (OPEC) published its long-term forecast, called \"World Oil Outlook 2045.\" The report has projections for the global economy, oil and energy demand, liquids supply and oil refining, as well as related policy and technology matters. The OPEC economists expect a strong global recovery in the short- to medium term (up to 2026), while the pace of GDP growth will slow in the long-term.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "india",
+        "coal",
+        "crude_oil",
+        "products",
+        "gas",
+        "opec"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1034,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

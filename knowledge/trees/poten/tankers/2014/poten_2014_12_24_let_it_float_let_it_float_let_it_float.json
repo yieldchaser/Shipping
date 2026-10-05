@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2014_12_24_let_it_float_let_it_float_let_it_float__root",
+  "doc_id": "poten_tankers_no_date_poten_2014_12_24_let_it_float_let_it_float_let_it_float",
+  "parent_id": null,
+  "title": "Let it Float, Let it Float, Let it Float",
+  "section_path": [
+    "Let it Float, Let it Float, Let it Float"
+  ],
+  "section_path_text": "Let it Float, Let it Float, Let it Float",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Is floating storage on the verge of a comeback? The world is currently awash in crude as supply exceeds demand due to rapid production growth in North America, the return of lost barrels from geopolitical hot spots (such as Libya) combined with a slowdown in demand growth. As a result, oil prices have fallen significantly and the oil markets have shifted to contango again and storage of crude oil appears to be increasing, leaving many to wonder what the likelihood of floating storage is and what it could mean for tanker rates in 2015.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "brazil",
+    "india",
+    "crude_oil",
+    "products",
+    "storage",
+    "floating",
+    "oil",
+    "price",
+    "crude",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 691,
+  "source_path": "reports/poten/2014/poten_2014-12-24_let-it-float-let-it-float-let-it-float.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_12_24_let_it_float_let_it_float_let_it_float__s01_is_floating_storage_on_the_verge_of_a_comeback",
+      "doc_id": "poten_tankers_no_date_poten_2014_12_24_let_it_float_let_it_float_let_it_float",
+      "parent_id": "poten_tankers_no_date_poten_2014_12_24_let_it_float_let_it_float_let_it_float__root",
+      "title": "Is floating storage on the verge of a comeback?",
+      "section_path": [
+        "Is floating storage on the verge of a comeback?"
+      ],
+      "section_path_text": "Is floating storage on the verge of a comeback?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The world is currently awash in crude as supply exceeds demand due to rapid production growth in North America, the return of lost barrels from geopolitical hot spots (such as Libya) combined with a slowdown in demand growth. As a result, oil prices have fallen significantly and the oil markets have shifted to contango again and storage of crude oil appears to be increasing, leaving many to wonder what the likelihood of floating storage is and what it could mean for tanker rates in 2015.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "brazil",
+        "india",
+        "crude_oil",
+        "products",
+        "storage",
+        "floating"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 681,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

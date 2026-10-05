@@ -1,0 +1,162 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2010_12_17_not_so_flat__root",
+  "doc_id": "poten_tankers_no_date_poten_2010_12_17_not_so_flat",
+  "parent_id": null,
+  "title": "Not So Flat!",
+  "section_path": [
+    "Not So Flat!"
+  ],
+  "section_path_text": "Not So Flat!",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "It's that time of year again! The Worldscale Association has published the new schedule of nominal freight rates for oil tanker trades that will take effect in January 2011. The nominal freight rates, or flat rates, are intended to provide a standard of reference across various voyages for charterers and shipowners trading in the spot tanker market.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "brazil",
+    "meg",
+    "crude_oil",
+    "flat",
+    "worldscale",
+    "day",
+    "are",
+    "ras",
+    "tanura"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 637,
+  "source_path": "reports/poten/2010/poten_2010-12-17_not-so-flat.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_12_17_not_so_flat__s01_not_so_flat",
+      "doc_id": "poten_tankers_no_date_poten_2010_12_17_not_so_flat",
+      "parent_id": "poten_tankers_no_date_poten_2010_12_17_not_so_flat__root",
+      "title": "Not So Flat!",
+      "section_path": [
+        "Not So Flat!"
+      ],
+      "section_path_text": "Not So Flat!",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "It's that time of year again! The Worldscale Association has published the new schedule of nominal freight rates for oil tanker trades that will take effect in January 2011.",
+      "keywords": [
+        "crude_oil",
+        "flat",
+        "worldscale",
+        "are",
+        "change",
+        "trades",
+        "below",
+        "chart"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 254,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_12_17_not_so_flat__s02_ras_tanura_loop",
+      "doc_id": "poten_tankers_no_date_poten_2010_12_17_not_so_flat",
+      "parent_id": "poten_tankers_no_date_poten_2010_12_17_not_so_flat__root",
+      "title": "Ras Tanura ‐ LOOP",
+      "section_path": [
+        "Ras Tanura ‐ LOOP"
+      ],
+      "section_path_text": "Ras Tanura ‐ LOOP",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "ras",
+        "tanura"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_12_17_not_so_flat__s03_bonny_philadelphia",
+      "doc_id": "poten_tankers_no_date_poten_2010_12_17_not_so_flat",
+      "parent_id": "poten_tankers_no_date_poten_2010_12_17_not_so_flat__root",
+      "title": "Bonny ‐ Philadelphia",
+      "section_path": [
+        "Bonny ‐ Philadelphia"
+      ],
+      "section_path_text": "Bonny ‐ Philadelphia",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "cruz",
+        "puerto"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_12_17_not_so_flat__s04_bunker_prices_ifo_380",
+      "doc_id": "poten_tankers_no_date_poten_2010_12_17_not_so_flat",
+      "parent_id": "poten_tankers_no_date_poten_2010_12_17_not_so_flat__root",
+      "title": "Bunker Prices ‐ IFO 380",
+      "section_path": [
+        "Bunker Prices ‐ IFO 380"
+      ],
+      "section_path_text": "Bunker Prices ‐ IFO 380",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The sensitivity of earnings to the swings in points will vary depending on the base level of the flat rates. The chart below converts one Worldscale point into dollars per day, calculated at 90% utilization.",
+      "keywords": [
+        "base",
+        "below",
+        "calculated",
+        "chart",
+        "converts",
+        "day",
+        "depending",
+        "dollars"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 41,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2010_12_17_not_so_flat__s05_ras_tanura",
+      "doc_id": "poten_tankers_no_date_poten_2010_12_17_not_so_flat",
+      "parent_id": "poten_tankers_no_date_poten_2010_12_17_not_so_flat__root",
+      "title": "Ras Tanura",
+      "section_path": [
+        "Ras Tanura"
+      ],
+      "section_path_text": "Ras Tanura",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Ras Tanura Bonny Puerto La Cruz Yokohama LOOP Philadelphia Houston VLCC VLCC Suezmax Aframax $/day $/day $/day $/day WS +/‐ 2011 $1,200 $1,300 $650 $360 WS +/‐ 2010 $1,000 $1,100 $540 $310 WS +/‐ 2009 $1,400 $1,500 $710 $380 WS +/‐ 2008 $1,000 $1,100 $500 $280 WS +/‐ 2007 $1,000 $1,000 $510 $280 While it is unlikely that the transition into the new flat rate system will result in any major market shakeups, there is always some discrepancy as owners and charterers (and analysts tracking the fixtures!) sort out which scale is implemented for the December/January transactions. Shipowners could stand to be the temporary beneficiaries of any confusion.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "brazil",
+        "meg",
+        "day",
+        "any",
+        "could"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 295,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

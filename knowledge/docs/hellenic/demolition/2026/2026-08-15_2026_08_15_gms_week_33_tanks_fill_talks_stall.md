@@ -7,6 +7,7 @@ commodities:
 date: '2026-08-15'
 doc_id: hellenic_demolition_2026-08-15_2026_08_15_gms_week_33_tanks_fill_talks_stall
 document_type: demolition_update
+is_error_page: false
 key_entities:
 - China
 keywords:
@@ -30,8 +31,7 @@ linked_assets_skipped: 1
 market_tone: cautiously_bearish
 numeric_observation_count: 112
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Oil rose for five consecutive sessions into Wednesday before Thursday's
     2.5% pullback left WTI near USD 81.10 and Brent around USD 86.96, still roughly
@@ -40,16 +40,15 @@ numeric_observations:
   unit: pct
   values:
   - 2.5
-  - 81100.0
-  - 86960.0
+  - 81.1
+  - 86.96
   - 5.0
   - 1.8
-  - 6300.0
-  - 17400.0
+  - 6.3
+  - 17.4
   - 2023.0
-  - 7400.0
-- &id002
-  section: Main
+  - 7.4
+- section: Main
   section_type: null
   source_line: Freight completed its fourth reversal in as many weeks. The Baltic
     Dry Index fell for four straight sessions to 2,844, its lowest since August 3,
@@ -61,14 +60,13 @@ numeric_observations:
   - 3.0
   - 12.0
   - 4469.0
-  - 5800.0
-  - 5200.0
+  - 5.8
+  - 5.2
   - 2262.0
   - 1600.0
   - 1613.0
   - 39.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: The data went four ways at once. US CPI printed at 3.4% for July, with
     core at 2.5%, enough to cool some urgency around further rate increases. India
@@ -80,14 +78,13 @@ numeric_observations:
   - 2.5
   - 4.45
   - 19.0
-  - 22500.0
-  - 83600.0
+  - 22.5
+  - 83.6
   - 75.0
-  - 8320.0
-  - 9160.0
-  - 95420.0
-- &id004
-  section: Main
+  - 8.32
+  - 9.16
+  - 95.42
+- section: Main
   section_type: null
   source_line: At the beaches, both windows are open at once. Chattogram's August
     12 to 15 tide closes tomorrow, with the next running August 28 to 31. Alang's
@@ -102,8 +99,7 @@ numeric_observations:
   - 9.0
   - 18.0
   - 43402.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: The market beneath them split cleanly. Alang sentiment cooled again
     despite local plate recovering to INR 39,500 by Friday, with buying interest remaining
@@ -114,8 +110,7 @@ numeric_observations:
   - 39500.0
   - 4.5
   - 445.0
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: For Week 33 of 2026, GMS Market Rankings / Vessel indications are as
     below.
@@ -123,15 +118,13 @@ numeric_observations:
   values:
   - 33.0
   - 2026.0
-- &id007
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Linked asset: 3486.jpg'
   unit: null
   values:
   - 3486.0
-- &id008
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_3486_5f39b1e14eaf.jpg'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_3486_5f39b1e14eaf.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_3486_5f39b1e14eaf.jpg'
   unit: null
@@ -145,38 +138,33 @@ numeric_observations:
   - 39.0
   - 1.0
   - 14.0
-- &id009
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_3486_5f39b1e14eaf.jpg'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_3486_5f39b1e14eaf.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 607x132 mode=RGB'
   unit: null
   values:
   - 607.0
   - 132.0
-- &id010
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_3486_5f39b1e14eaf.jpg'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_3486_5f39b1e14eaf.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (120, 120)'
   unit: null
   values:
   - 120.0
   - 120.0
-- &id011
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_3486_5f39b1e14eaf.jpg'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_3486_5f39b1e14eaf.jpg'
   section_type: linked_image_asset
   source_line: '[OCR skipped for small image (< 90000 pixels).]'
   unit: null
   values:
   - 90000.0
-- &id012
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: 1. ` *I
   unit: null
   values:
   - 1.0
-- &id013
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: August 1 4th, 2026
   unit: null
@@ -184,75 +172,66 @@ numeric_observations:
   - 1.0
   - 4.0
   - 2026.0
-- &id014
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: Week 33
   unit: null
   values:
   - 33.0
-- &id015
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: Volume 282, Issue 1248
   unit: null
   values:
   - 282.0
   - 1248.0
-- &id016
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: Oil rose for five consecutive sessions into Wednesday before Thursday's
     2.5% pullback left WTI near USD 81.10 and
   unit: pct
   values:
   - 2.5
-  - 81100.0
-- &id017
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+  - 81.1
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: Brent around USD 86.96, still roughly 5% higher on the week. The IEA
     more than doubled its estimate of this quarter's
   unit: pct
   values:
-  - 86960.0
+  - 86.96
   - 5.0
-- &id018
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: global supply deficit to 1.8 million barrels per day, with July supply
     6.3 million barrels below a year earlier. In the
   unit: null
   values:
   - 1.8
-  - 6300.0
-- &id019
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+  - 6.3
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: same week, the EIA reported US crude inventories rising by 17.4 million
     barrels, the largest weekly build since
   unit: null
   values:
-  - 17400.0
-- &id020
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+  - 17.4
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: January 2023, while Saudi output climbed toward 7.4 million barrels
     per day. The shortage is real. It is also,
   unit: null
   values:
   - 2023.0
-  - 7400.0
-- &id021
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+  - 7.4
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: Freight completed its fourth reversal in as many weeks. The Baltic
     Dry Index fell for four straight sessions to 2,844,
   unit: null
   values:
   - 2844.0
-- &id022
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: its lowest since August 3, as the Capesize index surrendered 12% on
     the week to 4,469, including single-day falls of
@@ -261,18 +240,16 @@ numeric_observations:
   - 3.0
   - 12.0
   - 4469.0
-- &id023
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: 5.8% and 5.2%. Panamaxes snapped a ten-session winning streak nea r
     2,262, while the Supramax touched a nine-
   unit: pct
   values:
-  - 5800.0
-  - 5200.0
+  - 5.8
+  - 5.2
   - 2262.0
-- &id024
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: week low of 1,600 before steadying at 1,613. The Baltic remains up
     39% on the year and constitutionally incapable of
@@ -281,8 +258,7 @@ numeric_observations:
   - 1600.0
   - 1613.0
   - 39.0
-- &id025
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: The data went four ways at once. US CPI printed at 3.4% for July, with
     core at 2.5%, enough to cool some urgency
@@ -290,8 +266,7 @@ numeric_observations:
   values:
   - 3.4
   - 2.5
-- &id026
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: around further rate increases. India went the other way, with CPI at
     4.45%, a 19-month high, led by food. Onions rose
@@ -299,8 +274,7 @@ numeric_observations:
   values:
   - 4.45
   - 19.0
-- &id027
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: D2 2.5% and ginger, this publication's most reliable correspondent,
     83.6%. It was a second month above target, with the
@@ -308,42 +282,37 @@ numeric_observations:
   values:
   - 2.0
   - 2.5
-  - 83600.0
-- &id028
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+  - 83.6
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: RBI seeing a fourth-quarter peak and Morgan Stanley pencilling in 75
     basis points of hikes from December.
   unit: null
   values:
   - 75.0
-- &id029
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: '• Prints diverge. Bangladesh delivered the basin''s friendliest print,
     easing to 8.32% from 9.16%. Currencies barely blinked: USD/INR'
   unit: usd_per_unit
   values:
-  - 8320.0
-  - 9160.0
-- &id030
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+  - 8.32
+  - 9.16
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: eased to 95.42, the Taka held near the top of its band, the Lira set
     fresh records near 47.83, and the Pakistani Rupee
   unit: null
   values:
-  - 95420.0
-  - 47830.0
-- &id031
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+  - 95.42
+  - 47.83
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: closed near 278.20. The covenant holds.
   unit: null
   values:
   - 278.2
-- &id032
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: At the beaches, both windows are open at once. Chattogram's August
     12 to 15 tide closes tomorrow, with the next
@@ -351,8 +320,7 @@ numeric_observations:
   values:
   - 12.0
   - 15.0
-- &id033
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: running August 28 to 31. Alang's August 9 to 18 window holds the week's
     most watched arrival, FT Island at 43,402
@@ -363,31 +331,27 @@ numeric_observations:
   - 9.0
   - 18.0
   - 43402.0
-- &id034
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: The market beneath them split cleanly. Alang sentiment cooled again
     despite local plate recovering to INR 39,500 by
   unit: null
   values:
   - 39500.0
-- &id035
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: on the GMS App! small and mid-sized tankers lifting specialist quotes
     by roughly 4.5%, even as caution toward bulkers persists. Gadani
   unit: pct
   values:
   - 4.5
-- &id036
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: writing at USD 445 per LDT. Turkey remained Turkey.
   unit: usd
   values:
   - 445.0
-- &id037
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: GMS market rankings / pricing for week 33 of 2026 are on Page 5.
   unit: null
@@ -395,16 +359,14 @@ numeric_observations:
   - 33.0
   - 2026.0
   - 5.0
-- &id038
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 2 of 8
   unit: null
   values:
   - 2.0
   - 8.0
-- &id039
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: The August 12 to 15 tide window opened on Wednesday and closes tomorrow,
     with deliveries
@@ -412,8 +374,7 @@ numeric_observations:
   values:
   - 12.0
   - 15.0
-- &id040
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: capacity runs August 28 to 31, and the monsoonʼs tail is now a scheduling
     nuisance rather than an
@@ -421,24 +382,21 @@ numeric_observations:
   values:
   - 28.0
   - 31.0
-- &id041
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: 4.5% week-on-week, even as caution on standard bulkers persists. The
     compliance filter has
   unit: pct
   values:
   - 4.5
-- &id042
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: inverted; in Chattogram, caution has a shelf life of about 5 weeks.
     Local plate told the other half of
   unit: null
   values:
   - 5.0
-- &id043
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: the story. A mid-week rally to BDT 64,500 proved unsustainable, settling
     back at BDT 64,000 by
@@ -446,34 +404,30 @@ numeric_observations:
   values:
   - 64500.0
   - 64000.0
-- &id044
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: 'The first print of the credibility era arrived friendly: July inflation
     eased to 8.32% from 9.16%, the'
   unit: pct
   values:
-  - 8320.0
-  - 9160.0
-- &id045
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+  - 8.32
+  - 9.16
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: softest reading of the year, with food at 7.16% from 8.60% and the
     moderation broad across rural
   unit: pct
   values:
-  - 7160.0
-  - 8600.0
-- &id046
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+  - 7.16
+  - 8.6
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: and urban baskets. Wage growth near 8.2% is, for the first time in
     years, within touching distance
   unit: pct
   values:
-  - 8200.0
-- &id047
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+  - 8.2
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: of the price level. USD/BDT held near 123.55 against the top of its
     band beneath the February 2025
@@ -481,24 +435,21 @@ numeric_observations:
   values:
   - 123.55
   - 2025.0
-- &id048
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: record of 123.87. A bureau under instruction to make its numbers believable
     produced one worth
   unit: null
   values:
   - 123.87
-- &id049
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 3 of 8
   unit: null
   values:
   - 3.0
   - 8.0
-- &id050
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: Julyʼs CPI rose to 4.45%, a 19-month high and a second consecutive
     month above the RBIʼs 4% target,
@@ -507,42 +458,37 @@ numeric_observations:
   - 4.45
   - 19.0
   - 4.0
-- &id051
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: 'driven almost entirely by food: onions accelerated to 22.5%, garlic
     to 35.4%, and ginger, this F our four five.'
   unit: pct
   values:
-  - 22500.0
-  - 35400.0
-- &id052
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+  - 22.5
+  - 35.4
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: publicationʼs most reliable correspondent, to 83.6%. The Reserve Bank
     sees the peak arriving in the
   unit: pct
   values:
-  - 83600.0
-- &id053
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+  - 83.6
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: December quarter; Morgan Stanley now pencils 75 basis points of hikes
     beginning in December, toward
   unit: null
   values:
   - 75.0
-- &id054
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: a 6% terminal rate. USD/INR gave back a touch to 95.42, and the currency
     relief that flattered last
   unit: usd_per_unit
   values:
   - 6.0
-  - 95420.0
-- &id055
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+  - 95.42
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: even as local plate recovered from INR 38,500 early in the week to
     INR 39,500 by Friday, with HMS Alang cools.
@@ -550,16 +496,14 @@ numeric_observations:
   values:
   - 38500.0
   - 39500.0
-- &id056
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: scrap near USD 375. The steel recovery was real; the buying response
     was considerably less convincing.
   unit: usd
   values:
   - 375.0
-- &id057
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: The August 9 to 18 tide window is open through Tuesday, and the yard-side
     economics, loading
@@ -567,48 +511,42 @@ numeric_observations:
   values:
   - 9.0
   - 18.0
-- &id058
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: What Alang lacked in momentum it supplied in paper. Pine Arrowʼs delivery
     was verified at USD 445
   unit: usd
   values:
   - 445.0
-- &id059
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: per LDT, the fortnightʼs second confirmed print, while FT Island, 43,402
     LDT of oil tanker and the
   unit: null
   values:
   - 43402.0
-- &id060
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: List discussions continue, the dark fleet lane stays open, and the
     more than 115 valid Statements of
   unit: null
   values:
   - 115.0
-- &id061
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: Pine Arrow General Cargo 12,574 USD 445 / LDT (delivered Alang)
   unit: usd
   values:
   - 12574.0
   - 445.0
-- &id062
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 4 of 8
   unit: null
   values:
   - 4.0
   - 8.0
-- &id063
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: Local plate held at PKR 200,000 per ton, near USD 714, still the sub-continentʼs
     top quote, with the
@@ -616,25 +554,22 @@ numeric_observations:
   values:
   - 200000.0
   - 714.0
-- &id064
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: USD/PKR closed near 278.20, inside a quarter-rupee range once more,
     and with Julyʼs 9.2% print
   unit: usd_per_unit
   values:
   - 278.2
-  - 9200.0
-- &id065
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+  - 9.2
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 5 of 8
   unit: null
   values:
   - 5.0
   - 8.0
-- &id066
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: successor to a May edition that had already lifted the end-2026 path
     into the mid-20s from the mid-
@@ -642,33 +577,29 @@ numeric_observations:
   values:
   - 2026.0
   - 20.0
-- &id067
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: teens. With Julyʼs official 31.75% and the independent 50.49% both
     a week old, the reportʼs task was
   unit: pct
   values:
-  - 31750.0
-  - 50490.0
-- &id068
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+  - 31.75
+  - 50.49
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: less to reveal than to reconcile, and the September 10 MPC remains
     the next live date. Consensus
   unit: null
   values:
   - 10.0
-- &id069
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: USD/TRY set fresh records near 47.83, the managed slide proceeding
     on schedule, with the effective
   unit: usd_per_unit
   values:
-  - 47830.0
-- &id070
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+  - 47.83
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: overnight rate near 40% still doing the policy work while the headline
     37% waits for the disinflation
@@ -676,8 +607,7 @@ numeric_observations:
   values:
   - 40.0
   - 37.0
-- &id071
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: Aliagaʼs vessel indications held at USD 262 to 284 per LDT across vessel
     types, with a sluggish flow
@@ -685,8 +615,7 @@ numeric_observations:
   values:
   - 262.0
   - 284.0
-- &id072
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: For Week 33 of 2026, GMS Market Rankings / Vessel indications are as
     below.
@@ -694,8 +623,7 @@ numeric_observations:
   values:
   - 33.0
   - 2026.0
-- &id073
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: 1 Bangladesh Steady 445-450 / LDT 470-475 / LDT 480-485 / LDT
   unit: null
@@ -707,8 +635,7 @@ numeric_observations:
   - -475.0
   - 480.0
   - -485.0
-- &id074
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: 2 Pakistan Steady 443-448 / LDT 463-468 / LDT 473-478 / LDT
   unit: null
@@ -720,8 +647,7 @@ numeric_observations:
   - -468.0
   - 473.0
   - -478.0
-- &id075
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: 3 India Softening 420-425 / LDT 440-445 / LDT 450-455 / LDT
   unit: null
@@ -733,8 +659,7 @@ numeric_observations:
   - -445.0
   - 450.0
   - -455.0
-- &id076
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: 4 Turkey Steady 262-264 / LDT 272-274 / LDT 282-284 / LDT
   unit: null
@@ -746,23 +671,20 @@ numeric_observations:
   - -274.0
   - 282.0
   - -284.0
-- &id077
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: GMS Weekly Page 6 of 8
   unit: null
   values:
   - 6.0
   - 8.0
-- &id078
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: circle the Earth more than 14 times.
   unit: null
   values:
   - 14.0
-- &id079
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line:  Recycling steel recovered from ships at Alang can require approximately
     60-70% less energy than
@@ -770,8 +692,7 @@ numeric_observations:
   values:
   - 60.0
   - -70.0
-- &id080
-  section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+- section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: August 09 - August 18
   unit: null
@@ -885,7 +806,7 @@ numeric_observations:
   source_line: 'Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716'
   unit: null
   values:
-  - 49400.0
+  - 49.4
   - 3197.9963
   - 1.24
   - 505.9716
@@ -895,17 +816,17 @@ numeric_observations:
   unit: null
   values:
   - 86216.0
-  - 75190.0
-  - 82100.0
+  - 75.19
+  - 82.1
   - 4650.072
 - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
   source_line: 'Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311'
   unit: null
   values:
-  - 65682.3
+  - 65.6823
   - 8037.0
-  - 81300.0
+  - 81.3
   - 5453.6311
 - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
   section_type: linked_pdf
@@ -1057,86 +978,674 @@ section_count: 3
 signals:
   numeric_observation_count: 112
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: Oil rose for five consecutive sessions into Wednesday before Thursday's
+      2.5% pullback left WTI near USD 81.10 and Brent around USD 86.96, still roughly
+      5% higher on the week. The IEA more than doubled its estimate of this quarter's
+      global supply deficit to 1.8
+    unit: pct
+    values:
+    - 2.5
+    - 81100.0
+    - 86960.0
+    - 5.0
+    - 1.8
+    - 6300.0
+    - 17400.0
+    - 2023.0
+    - 7400.0
+  - section: Main
+    section_type: null
+    source_line: Freight completed its fourth reversal in as many weeks. The Baltic
+      Dry Index fell for four straight sessions to 2,844, its lowest since August
+      3, as the Capesize index surrendered 12% on the week to 4,469, including single-day
+      falls of 5.8% and 5.2%. Panamaxes
+    unit: pct
+    values:
+    - 2844.0
+    - 3.0
+    - 12.0
+    - 4469.0
+    - 5800.0
+    - 5200.0
+    - 2262.0
+    - 1600.0
+    - 1613.0
+    - 39.0
+  - section: Main
+    section_type: null
+    source_line: The data went four ways at once. US CPI printed at 3.4% for July,
+      with core at 2.5%, enough to cool some urgency around further rate increases.
+      India went the other way, with CPI at 4.45%, a 19-month high, led by food. Onions
+      rose 22.5% and ginger, this public
+    unit: usd_per_unit
+    values:
+    - 3.4
+    - 2.5
+    - 4.45
+    - 19.0
+    - 22500.0
+    - 83600.0
+    - 75.0
+    - 8320.0
+    - 9160.0
+    - 95420.0
+  - section: Main
+    section_type: null
+    source_line: At the beaches, both windows are open at once. Chattogram's August
+      12 to 15 tide closes tomorrow, with the next running August 28 to 31. Alang's
+      August 9 to 18 window holds the week's most watched arrival, FT Island at 43,402
+      LDT, the basin's largest candidate
+    unit: null
+    values:
+    - 12.0
+    - 15.0
+    - 28.0
+    - 31.0
+    - 9.0
+    - 18.0
+    - 43402.0
+  - section: Main
+    section_type: null
+    source_line: The market beneath them split cleanly. Alang sentiment cooled again
+      despite local plate recovering to INR 39,500 by Friday, with buying interest
+      remaining selective. Chattogram inverted its recent filter, with aggressive
+      appetite for small and mid-sized tanker
+    unit: pct
+    values:
+    - 39500.0
+    - 4.5
+    - 445.0
+  - section: Main
+    section_type: null
+    source_line: For Week 33 of 2026, GMS Market Rankings / Vessel indications are
+      as below.
+    unit: null
+    values:
+    - 33.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: 'Linked asset: 3486.jpg'
+    unit: null
+    values:
+    - 3486.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_3486_5f39b1e14eaf.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_3486_5f39b1e14eaf.jpg'
+    unit: null
+    values:
+    - 2026.0
+    - -8.0
+    - -15.0
+    - 33.0
+    - 3486.0
+    - 5.0
+    - 39.0
+    - 1.0
+    - 14.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_3486_5f39b1e14eaf.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 607x132 mode=RGB'
+    unit: null
+    values:
+    - 607.0
+    - 132.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_3486_5f39b1e14eaf.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (120, 120)'
+    unit: null
+    values:
+    - 120.0
+    - 120.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_3486_5f39b1e14eaf.jpg'
+    section_type: linked_image_asset
+    source_line: '[OCR skipped for small image (< 90000 pixels).]'
+    unit: null
+    values:
+    - 90000.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: 1. ` *I
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: August 1 4th, 2026
+    unit: null
+    values:
+    - 1.0
+    - 4.0
+    - 2026.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: Week 33
+    unit: null
+    values:
+    - 33.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: Volume 282, Issue 1248
+    unit: null
+    values:
+    - 282.0
+    - 1248.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: Oil rose for five consecutive sessions into Wednesday before Thursday's
+      2.5% pullback left WTI near USD 81.10 and
+    unit: pct
+    values:
+    - 2.5
+    - 81100.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: Brent around USD 86.96, still roughly 5% higher on the week. The
+      IEA more than doubled its estimate of this quarter's
+    unit: pct
+    values:
+    - 86960.0
+    - 5.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: global supply deficit to 1.8 million barrels per day, with July supply
+      6.3 million barrels below a year earlier. In the
+    unit: null
+    values:
+    - 1.8
+    - 6300.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: same week, the EIA reported US crude inventories rising by 17.4 million
+      barrels, the largest weekly build since
+    unit: null
+    values:
+    - 17400.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: January 2023, while Saudi output climbed toward 7.4 million barrels
+      per day. The shortage is real. It is also,
+    unit: null
+    values:
+    - 2023.0
+    - 7400.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: Freight completed its fourth reversal in as many weeks. The Baltic
+      Dry Index fell for four straight sessions to 2,844,
+    unit: null
+    values:
+    - 2844.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: its lowest since August 3, as the Capesize index surrendered 12%
+      on the week to 4,469, including single-day falls of
+    unit: pct
+    values:
+    - 3.0
+    - 12.0
+    - 4469.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: 5.8% and 5.2%. Panamaxes snapped a ten-session winning streak nea
+      r 2,262, while the Supramax touched a nine-
+    unit: pct
+    values:
+    - 5800.0
+    - 5200.0
+    - 2262.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: week low of 1,600 before steadying at 1,613. The Baltic remains up
+      39% on the year and constitutionally incapable of
+    unit: pct
+    values:
+    - 1600.0
+    - 1613.0
+    - 39.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: The data went four ways at once. US CPI printed at 3.4% for July,
+      with core at 2.5%, enough to cool some urgency
+    unit: pct
+    values:
+    - 3.4
+    - 2.5
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: around further rate increases. India went the other way, with CPI
+      at 4.45%, a 19-month high, led by food. Onions rose
+    unit: pct
+    values:
+    - 4.45
+    - 19.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: D2 2.5% and ginger, this publication's most reliable correspondent,
+      83.6%. It was a second month above target, with the
+    unit: pct
+    values:
+    - 2.0
+    - 2.5
+    - 83600.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: RBI seeing a fourth-quarter peak and Morgan Stanley pencilling in
+      75 basis points of hikes from December.
+    unit: null
+    values:
+    - 75.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: '• Prints diverge. Bangladesh delivered the basin''s friendliest
+      print, easing to 8.32% from 9.16%. Currencies barely blinked: USD/INR'
+    unit: usd_per_unit
+    values:
+    - 8320.0
+    - 9160.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: eased to 95.42, the Taka held near the top of its band, the Lira
+      set fresh records near 47.83, and the Pakistani Rupee
+    unit: null
+    values:
+    - 95420.0
+    - 47830.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: closed near 278.20. The covenant holds.
+    unit: null
+    values:
+    - 278.2
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: At the beaches, both windows are open at once. Chattogram's August
+      12 to 15 tide closes tomorrow, with the next
+    unit: null
+    values:
+    - 12.0
+    - 15.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: running August 28 to 31. Alang's August 9 to 18 window holds the
+      week's most watched arrival, FT Island at 43,402
+    unit: null
+    values:
+    - 28.0
+    - 31.0
+    - 9.0
+    - 18.0
+    - 43402.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: The market beneath them split cleanly. Alang sentiment cooled again
+      despite local plate recovering to INR 39,500 by
+    unit: null
+    values:
+    - 39500.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: on the GMS App! small and mid-sized tankers lifting specialist quotes
+      by roughly 4.5%, even as caution toward bulkers persists. Gadani
+    unit: pct
+    values:
+    - 4.5
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: writing at USD 445 per LDT. Turkey remained Turkey.
+    unit: usd
+    values:
+    - 445.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: GMS market rankings / pricing for week 33 of 2026 are on Page 5.
+    unit: null
+    values:
+    - 33.0
+    - 2026.0
+    - 5.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 2 of 8
+    unit: null
+    values:
+    - 2.0
+    - 8.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: The August 12 to 15 tide window opened on Wednesday and closes tomorrow,
+      with deliveries
+    unit: null
+    values:
+    - 12.0
+    - 15.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: capacity runs August 28 to 31, and the monsoonʼs tail is now a scheduling
+      nuisance rather than an
+    unit: null
+    values:
+    - 28.0
+    - 31.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: 4.5% week-on-week, even as caution on standard bulkers persists.
+      The compliance filter has
+    unit: pct
+    values:
+    - 4.5
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: inverted; in Chattogram, caution has a shelf life of about 5 weeks.
+      Local plate told the other half of
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: the story. A mid-week rally to BDT 64,500 proved unsustainable, settling
+      back at BDT 64,000 by
+    unit: null
+    values:
+    - 64500.0
+    - 64000.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: 'The first print of the credibility era arrived friendly: July inflation
+      eased to 8.32% from 9.16%, the'
+    unit: pct
+    values:
+    - 8320.0
+    - 9160.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: softest reading of the year, with food at 7.16% from 8.60% and the
+      moderation broad across rural
+    unit: pct
+    values:
+    - 7160.0
+    - 8600.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: and urban baskets. Wage growth near 8.2% is, for the first time in
+      years, within touching distance
+    unit: pct
+    values:
+    - 8200.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: of the price level. USD/BDT held near 123.55 against the top of its
+      band beneath the February 2025
+    unit: usd_per_unit
+    values:
+    - 123.55
+    - 2025.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: record of 123.87. A bureau under instruction to make its numbers
+      believable produced one worth
+    unit: null
+    values:
+    - 123.87
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 3 of 8
+    unit: null
+    values:
+    - 3.0
+    - 8.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: Julyʼs CPI rose to 4.45%, a 19-month high and a second consecutive
+      month above the RBIʼs 4% target,
+    unit: pct
+    values:
+    - 4.45
+    - 19.0
+    - 4.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: 'driven almost entirely by food: onions accelerated to 22.5%, garlic
+      to 35.4%, and ginger, this F our four five.'
+    unit: pct
+    values:
+    - 22500.0
+    - 35400.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: publicationʼs most reliable correspondent, to 83.6%. The Reserve
+      Bank sees the peak arriving in the
+    unit: pct
+    values:
+    - 83600.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: December quarter; Morgan Stanley now pencils 75 basis points of hikes
+      beginning in December, toward
+    unit: null
+    values:
+    - 75.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: a 6% terminal rate. USD/INR gave back a touch to 95.42, and the currency
+      relief that flattered last
+    unit: usd_per_unit
+    values:
+    - 6.0
+    - 95420.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: even as local plate recovered from INR 38,500 early in the week to
+      INR 39,500 by Friday, with HMS Alang cools.
+    unit: null
+    values:
+    - 38500.0
+    - 39500.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: scrap near USD 375. The steel recovery was real; the buying response
+      was considerably less convincing.
+    unit: usd
+    values:
+    - 375.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: The August 9 to 18 tide window is open through Tuesday, and the yard-side
+      economics, loading
+    unit: null
+    values:
+    - 9.0
+    - 18.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: What Alang lacked in momentum it supplied in paper. Pine Arrowʼs
+      delivery was verified at USD 445
+    unit: usd
+    values:
+    - 445.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: per LDT, the fortnightʼs second confirmed print, while FT Island,
+      43,402 LDT of oil tanker and the
+    unit: null
+    values:
+    - 43402.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: List discussions continue, the dark fleet lane stays open, and the
+      more than 115 valid Statements of
+    unit: null
+    values:
+    - 115.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: Pine Arrow General Cargo 12,574 USD 445 / LDT (delivered Alang)
+    unit: usd
+    values:
+    - 12574.0
+    - 445.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 4 of 8
+    unit: null
+    values:
+    - 4.0
+    - 8.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: Local plate held at PKR 200,000 per ton, near USD 714, still the
+      sub-continentʼs top quote, with the
+    unit: usd
+    values:
+    - 200000.0
+    - 714.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: USD/PKR closed near 278.20, inside a quarter-rupee range once more,
+      and with Julyʼs 9.2% print
+    unit: usd_per_unit
+    values:
+    - 278.2
+    - 9200.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 5 of 8
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: successor to a May edition that had already lifted the end-2026 path
+      into the mid-20s from the mid-
+    unit: null
+    values:
+    - 2026.0
+    - 20.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: teens. With Julyʼs official 31.75% and the independent 50.49% both
+      a week old, the reportʼs task was
+    unit: pct
+    values:
+    - 31750.0
+    - 50490.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: less to reveal than to reconcile, and the September 10 MPC remains
+      the next live date. Consensus
+    unit: null
+    values:
+    - 10.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: USD/TRY set fresh records near 47.83, the managed slide proceeding
+      on schedule, with the effective
+    unit: usd_per_unit
+    values:
+    - 47830.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: overnight rate near 40% still doing the policy work while the headline
+      37% waits for the disinflation
+    unit: pct
+    values:
+    - 40.0
+    - 37.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: Aliagaʼs vessel indications held at USD 262 to 284 per LDT across
+      vessel types, with a sluggish flow
+    unit: usd
+    values:
+    - 262.0
+    - 284.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: For Week 33 of 2026, GMS Market Rankings / Vessel indications are
+      as below.
+    unit: null
+    values:
+    - 33.0
+    - 2026.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: 1 Bangladesh Steady 445-450 / LDT 470-475 / LDT 480-485 / LDT
+    unit: null
+    values:
+    - 1.0
+    - 445.0
+    - -450.0
+    - 470.0
+    - -475.0
+    - 480.0
+    - -485.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: 2 Pakistan Steady 443-448 / LDT 463-468 / LDT 473-478 / LDT
+    unit: null
+    values:
+    - 2.0
+    - 443.0
+    - -448.0
+    - 463.0
+    - -468.0
+    - 473.0
+    - -478.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: 3 India Softening 420-425 / LDT 440-445 / LDT 450-455 / LDT
+    unit: null
+    values:
+    - 3.0
+    - 420.0
+    - -425.0
+    - 440.0
+    - -445.0
+    - 450.0
+    - -455.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: 4 Turkey Steady 262-264 / LDT 272-274 / LDT 282-284 / LDT
+    unit: null
+    values:
+    - 4.0
+    - 262.0
+    - -264.0
+    - 272.0
+    - -274.0
+    - 282.0
+    - -284.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: GMS Weekly Page 6 of 8
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: circle the Earth more than 14 times.
+    unit: null
+    values:
+    - 14.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line:  Recycling steel recovered from ships at Alang can require approximately
+      60-70% less energy than
+    unit: pct
+    values:
+    - 60.0
+    - -70.0
+  - section: 'Linked asset: 2026-08-15_gms-week-33-tanks-fill-talks-stall_ship-recycling-market-insight-week-3_ee7d57a71d46.pdf'
+    section_type: linked_pdf
+    source_line: August 09 - August 18
+    unit: null
+    values:
+    - 9.0
+    - 18.0
 source: hellenic
 source_path: reports/hellenic/demolition/2026/2026-08-15_gms-week-33-tanks-fill-talks-stall.html
 source_stem: 2026-08-15_gms-week-33-tanks-fill-talks-stall

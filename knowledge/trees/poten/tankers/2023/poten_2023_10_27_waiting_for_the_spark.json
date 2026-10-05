@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2023_10_27_waiting_for_the_spark__root",
+  "doc_id": "poten_tankers_no_date_poten_2023_10_27_waiting_for_the_spark",
+  "parent_id": null,
+  "title": "Waiting For The Spark",
+  "section_path": [
+    "Waiting For The Spark"
+  ],
+  "section_path_text": "Waiting For The Spark",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Geopolitical conflicts ignite the tanker market\nThe conflict between Israel and Hamas, with Iran looming in the background has catapulted geopolitical risks and their impact on oil and tanker markets back into the spotlight. The war between Russia and Ukraine and the simmering tension between the United States and China had already raised the temperature, but skirmishes in the oil rich Middle East added a completely new dimension. In this week's Tanker Opinion, we will add some historical context and discuss how an escalation of the conflict in the Middle East could potentially impact the tanker market.",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "china",
+    "meg",
+    "crude_oil",
+    "oil",
+    "geopolitical",
+    "are",
+    "east",
+    "markets",
+    "middle",
+    "russia"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 814,
+  "source_path": "reports/poten/2023/poten_2023-10-27_waiting-for-the-spark.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2023_10_27_waiting_for_the_spark__s01_geopolitical_conflicts_ignite_the_tanker_market",
+      "doc_id": "poten_tankers_no_date_poten_2023_10_27_waiting_for_the_spark",
+      "parent_id": "poten_tankers_no_date_poten_2023_10_27_waiting_for_the_spark__root",
+      "title": "Geopolitical conflicts ignite the tanker market",
+      "section_path": [
+        "Geopolitical conflicts ignite the tanker market"
+      ],
+      "section_path_text": "Geopolitical conflicts ignite the tanker market",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The conflict between Israel and Hamas, with Iran looming in the background has catapulted geopolitical risks and their impact on oil and tanker markets back into the spotlight. The war between Russia and Ukraine and the simmering tension between the United States and China had already raised the temperature, but skirmishes in the oil rich Middle East added a completely new dimension.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "china",
+        "meg",
+        "crude_oil",
+        "oil",
+        "are",
+        "geopolitical"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 805,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

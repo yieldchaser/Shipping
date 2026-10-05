@@ -1,0 +1,114 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2006_09_01_bottom_of_the_barrel__root",
+  "doc_id": "poten_tankers_no_date_poten_2006_09_01_bottom_of_the_barrel",
+  "parent_id": null,
+  "title": "Bottom of the Barrel",
+  "section_path": [
+    "Bottom of the Barrel"
+  ],
+  "section_path_text": "Bottom of the Barrel",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Bottom of the Barrel\nAs the public continues to complain about high gasoline prices, there is an analogous sentiment heard among some ship owners and charterers regarding the cost of both light and heavy fuel for ships. It is logical that the price of products would increase with increases in the price of crude, but not as logical that one type of fuel would increase more than another. As gasoline demand continues to climb, and refiners continue to favor lighter distillates in order to capture the high margins, the supply of heavier products is likely to decline Price - IFO 380 CST Price - MDO leading to even higher fuel bills for ship owners.",
+  "keywords": [
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "price",
+    "mdo",
+    "crude",
+    "ifo",
+    "fuel",
+    "high",
+    "oil",
+    "would"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 568,
+  "source_path": "reports/poten/2006/poten_2006-09-01_bottom-of-the-barrel.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_09_01_bottom_of_the_barrel__s01_bottom_of_the_barrel",
+      "doc_id": "poten_tankers_no_date_poten_2006_09_01_bottom_of_the_barrel",
+      "parent_id": "poten_tankers_no_date_poten_2006_09_01_bottom_of_the_barrel__root",
+      "title": "Bottom of the Barrel",
+      "section_path": [
+        "Bottom of the Barrel"
+      ],
+      "section_path_text": "Bottom of the Barrel",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As the public continues to complain about high gasoline prices, there is an analogous sentiment heard among some ship owners and charterers regarding the cost of both light and heavy fuel for ships. It is logical that the price of products would increase with increases in the price of crude, but not as logical that one type of fuel would increase more than another.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "price",
+        "mdo",
+        "fuel",
+        "would"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 302,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_09_01_bottom_of_the_barrel__s02_nymex_cash_crude_price",
+      "doc_id": "poten_tankers_no_date_poten_2006_09_01_bottom_of_the_barrel",
+      "parent_id": "poten_tankers_no_date_poten_2006_09_01_bottom_of_the_barrel__root",
+      "title": "NYMEX Cash Crude Price",
+      "section_path": [
+        "NYMEX Cash Crude Price"
+      ],
+      "section_path_text": "NYMEX Cash Crude Price",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "crude",
+        "mdo",
+        "price",
+        "strength"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_09_01_bottom_of_the_barrel__s03_price_strength_ifo_crude",
+      "doc_id": "poten_tankers_no_date_poten_2006_09_01_bottom_of_the_barrel",
+      "parent_id": "poten_tankers_no_date_poten_2006_09_01_bottom_of_the_barrel__root",
+      "title": "Price Strength - IFO:Crude",
+      "section_path": [
+        "Price Strength - IFO:Crude"
+      ],
+      "section_path_text": "Price Strength - IFO:Crude",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The graph above shows the NYMEX cash price of crude oil in $/metric ton versus the price ratios of both IFO and MDO to crude oil. The dotted trend lines indicate that while the price of MDO has strengthened with respect to crude oil, the relative price of IFO has decreased.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "mdo",
+        "price",
+        "crude",
+        "relative",
+        "consumption"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 235,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

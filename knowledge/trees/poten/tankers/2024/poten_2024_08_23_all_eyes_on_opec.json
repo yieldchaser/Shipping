@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2024_08_23_all_eyes_on_opec__root",
+  "doc_id": "poten_tankers_no_date_poten_2024_08_23_all_eyes_on_opec",
+  "parent_id": null,
+  "title": "All Eyes On OPEC+",
+  "section_path": [
+    "All Eyes On OPEC+"
+  ],
+  "section_path_text": "All Eyes On OPEC+",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Awaiting OPEC's October production decision\nSeveral months into the Covid-19 pandemic, OPEC+ was faced with a collapse in oil demand due to widespread lockdowns. So, in April 2020, the cartel agreed to a production cut of 9.7 million barrels per day (Mb/d) representing about 10% of global crude oil output. In July 2020, OPEC+ reduced the cuts to 7.7 Mb/d.",
+  "keywords": [
+    "china",
+    "brazil",
+    "crude_oil",
+    "opec",
+    "oil",
+    "are",
+    "demand",
+    "production",
+    "growth",
+    "output",
+    "cuts",
+    "not"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 877,
+  "source_path": "reports/poten/2024/poten_2024-08-23_all-eyes-on-opec.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2024_08_23_all_eyes_on_opec__s01_awaiting_opec_s_october_production_decision",
+      "doc_id": "poten_tankers_no_date_poten_2024_08_23_all_eyes_on_opec",
+      "parent_id": "poten_tankers_no_date_poten_2024_08_23_all_eyes_on_opec__root",
+      "title": "Awaiting OPEC's October production decision",
+      "section_path": [
+        "Awaiting OPEC's October production decision"
+      ],
+      "section_path_text": "Awaiting OPEC's October production decision",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Several months into the Covid-19 pandemic, OPEC+ was faced with a collapse in oil demand due to widespread lockdowns. So, in April 2020, the cartel agreed to a production cut of 9.7 million barrels per day (Mb/d) representing about 10% of global crude oil output.",
+      "keywords": [
+        "china",
+        "brazil",
+        "crude_oil",
+        "opec",
+        "oil",
+        "are",
+        "demand",
+        "growth"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 868,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

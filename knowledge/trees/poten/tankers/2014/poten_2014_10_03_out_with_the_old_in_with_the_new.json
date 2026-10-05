@@ -1,0 +1,62 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2014_10_03_out_with_the_old_in_with_the_new__root",
+  "doc_id": "poten_tankers_no_date_poten_2014_10_03_out_with_the_old_in_with_the_new",
+  "parent_id": null,
+  "title": "Out with the old, in with the new?",
+  "section_path": [
+    "Out with the old, in with the new?"
+  ],
+  "section_path_text": "Out with the old, in with the new?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Should owners replace older tonnage with new vessels? A few days ago, we talked to an investor who faces a dilemma. He owns several 10-year-old Medium Range (MR) product tankers, which were acquired several years ago for competitive prices at the time of purchase.",
+  "keywords": [
+    "crude_oil",
+    "per",
+    "vessel",
+    "older",
+    "day",
+    "time",
+    "vessels",
+    "approximately",
+    "are",
+    "assessed",
+    "new",
+    "owner"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 668,
+  "source_path": "reports/poten/2014/poten_2014-10-03_out-with-the-old-in-with-the-new.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2014_10_03_out_with_the_old_in_with_the_new__s01_should_owners_replace_older_tonnage_with_new_vessels",
+      "doc_id": "poten_tankers_no_date_poten_2014_10_03_out_with_the_old_in_with_the_new",
+      "parent_id": "poten_tankers_no_date_poten_2014_10_03_out_with_the_old_in_with_the_new__root",
+      "title": "Should owners replace older tonnage with new vessels?",
+      "section_path": [
+        "Should owners replace older tonnage with new vessels?"
+      ],
+      "section_path_text": "Should owners replace older tonnage with new vessels?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "A few days ago, we talked to an investor who faces a dilemma. He owns several 10-year-old Medium Range (MR) product tankers, which were acquired several years ago for competitive prices at the time of purchase.",
+      "keywords": [
+        "crude_oil",
+        "per",
+        "vessel",
+        "older",
+        "day",
+        "time",
+        "approximately",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 658,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

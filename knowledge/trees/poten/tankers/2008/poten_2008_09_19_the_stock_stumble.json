@@ -1,0 +1,137 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2008_09_19_the_stock_stumble__root",
+  "doc_id": "poten_tankers_no_date_poten_2008_09_19_the_stock_stumble",
+  "parent_id": null,
+  "title": "The Stock Stumble",
+  "section_path": [
+    "The Stock Stumble"
+  ],
+  "section_path_text": "The Stock Stumble",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Stock Stumble\nThe tumult of the last few days on Wall Street seems to reaffirm the old adage: \"the stock market has correctly predicted nine of the last five recessions.\" In March, the stock market was initially rattled by the demise of Bear Stearns, arguably the largest banking casualty of the credit crisis before this past week. Investor confidence was certainly tested as stock markets slid and widely-held equities plummeted in value on Monday. By Tuesday, the Federal Reserve's decision to aid insurance giant AIG seemed to stave off a broader meltdown.",
+  "keywords": [
+    "vlcc",
+    "meg",
+    "us_gulf",
+    "crude_oil",
+    "stock",
+    "vlccs",
+    "markets",
+    "are",
+    "certainly",
+    "crude",
+    "demand",
+    "few"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 547,
+  "source_path": "reports/poten/2008/poten_2008-09-19_the-stock-stumble.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_09_19_the_stock_stumble__s01_the_stock_stumble",
+      "doc_id": "poten_tankers_no_date_poten_2008_09_19_the_stock_stumble",
+      "parent_id": "poten_tankers_no_date_poten_2008_09_19_the_stock_stumble__root",
+      "title": "The Stock Stumble",
+      "section_path": [
+        "The Stock Stumble"
+      ],
+      "section_path_text": "The Stock Stumble",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The tumult of the last few days on Wall Street seems to reaffirm the old adage: \"the stock market has correctly predicted nine of the last five recessions.\" In March, the stock market was initially rattled by the demise of Bear Stearns, arguably the largest banking casualty of the credit crisis before this past week. Investor confidence was certainly tested as stock markets slid and widely-held equities plummeted in value on Monday.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "us_gulf",
+        "stock",
+        "markets",
+        "certainly",
+        "confidence",
+        "last"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 196,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_09_19_the_stock_stumble__s02_ws_rate",
+      "doc_id": "poten_tankers_no_date_poten_2008_09_19_the_stock_stumble",
+      "parent_id": "poten_tankers_no_date_poten_2008_09_19_the_stock_stumble__root",
+      "title": "WS Rate",
+      "section_path": [
+        "WS Rate"
+      ],
+      "section_path_text": "WS Rate",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_09_19_the_stock_stumble__s03_steadying_supply",
+      "doc_id": "poten_tankers_no_date_poten_2008_09_19_the_stock_stumble",
+      "parent_id": "poten_tankers_no_date_poten_2008_09_19_the_stock_stumble__root",
+      "title": "Steadying Supply",
+      "section_path": [
+        "Steadying Supply"
+      ],
+      "section_path_text": "Steadying Supply",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "For the past few years, strong freight rates and the prospect of single hull phase-outs have spurred an interest in fleet renewal of tankers. Money was plentiful, available berths at shipyards were booked and asset prices increased.",
+      "keywords": [
+        "vlcc",
+        "vlccs",
+        "month.",
+        "new",
+        "newbuilding",
+        "orders",
+        "placed",
+        "prices"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 152,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2008_09_19_the_stock_stumble__s04_new_orders",
+      "doc_id": "poten_tankers_no_date_poten_2008_09_19_the_stock_stumble",
+      "parent_id": "poten_tankers_no_date_poten_2008_09_19_the_stock_stumble__root",
+      "title": "New Orders",
+      "section_path": [
+        "New Orders"
+      ],
+      "section_path_text": "New Orders",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Newbuilding Price The tune has changed somewhat in the past few weeks however, with more credit contractions further complicating liquidity. Shipyards are now at comfortable capacities with scheduled deliveries booked through 2011 and the lack of financing will serve to further moderate the ordering spree in the immediate term.",
+      "keywords": [
+        "crude_oil",
+        "are",
+        "crude",
+        "demand",
+        "oil",
+        "could",
+        "further",
+        "adopted"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 180,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

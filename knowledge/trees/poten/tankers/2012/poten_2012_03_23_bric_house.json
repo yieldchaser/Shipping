@@ -1,0 +1,188 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2012_03_23_bric_house__root",
+  "doc_id": "poten_tankers_no_date_poten_2012_03_23_bric_house",
+  "parent_id": null,
+  "title": "BRIC House",
+  "section_path": [
+    "BRIC House"
+  ],
+  "section_path_text": "BRIC House",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "BRIC House\nThe pressure to diversify crude oil sources continues to mount for purchasers of Iranian crude oil. Today, buyers not only risk economic marginalization by the United States and Europe, but also physical supply disruptions as rising tensions call into question the viability of supplies. To that end, India is forging relationships with other producers of heavy crude oil.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "brazil",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "europe",
+    "india",
+    "crude_oil",
+    "crude",
+    "oil",
+    "west"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 441,
+  "source_path": "reports/poten/2012/poten_2012-03-23_bric-house.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_03_23_bric_house__s01_bric_house",
+      "doc_id": "poten_tankers_no_date_poten_2012_03_23_bric_house",
+      "parent_id": "poten_tankers_no_date_poten_2012_03_23_bric_house__root",
+      "title": "BRIC House",
+      "section_path": [
+        "BRIC House"
+      ],
+      "section_path_text": "BRIC House",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The pressure to diversify crude oil sources continues to mount for purchasers of Iranian crude oil. Today, buyers not only risk economic marginalization by the United States and Europe, but also physical supply disruptions as rising tensions call into question the viability of supplies.",
+      "keywords": [
+        "brazil",
+        "europe",
+        "india",
+        "crude_oil",
+        "crude",
+        "fixture",
+        "iranian",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 145,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_03_23_bric_house__s02_million_metric_tons",
+      "doc_id": "poten_tankers_no_date_poten_2012_03_23_bric_house",
+      "parent_id": "poten_tankers_no_date_poten_2012_03_23_bric_house__root",
+      "title": "Million Metric Tons",
+      "section_path": [
+        "Million Metric Tons"
+      ],
+      "section_path_text": "Million Metric Tons",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "In early 2009, Reliance doubled crude oil processing capacity at its Jamnagar complex to 1.2 million barrels per day which prompted the sharp uptick in import fixture activity. The charts below show the distribution of reported spot crude oil movements by load region.",
+      "keywords": [
+        "crude_oil",
+        "crude",
+        "oil",
+        "activity.",
+        "barrels",
+        "below",
+        "capacity",
+        "charts"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 55,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_03_23_bric_house__s03_west",
+      "doc_id": "poten_tankers_no_date_poten_2012_03_23_bric_house",
+      "parent_id": "poten_tankers_no_date_poten_2012_03_23_bric_house__root",
+      "title": "West",
+      "section_path": [
+        "West"
+      ],
+      "section_path_text": "West",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "africa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_03_23_bric_house__s04_west",
+      "doc_id": "poten_tankers_no_date_poten_2012_03_23_bric_house",
+      "parent_id": "poten_tankers_no_date_poten_2012_03_23_bric_house__root",
+      "title": "West",
+      "section_path": [
+        "West"
+      ],
+      "section_path_text": "West",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "",
+      "keywords": [
+        "africa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_03_23_bric_house__s05_gulf",
+      "doc_id": "poten_tankers_no_date_poten_2012_03_23_bric_house",
+      "parent_id": "poten_tankers_no_date_poten_2012_03_23_bric_house__root",
+      "title": "Gulf,",
+      "section_path": [
+        "Gulf,"
+      ],
+      "section_path_text": "Gulf,",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The Arabian Gulf will continue to be the dominant crude oil supplier to India; however the growing reliance on West African, Mexican, Venezuelan and Brazilian imports will present ways for shipowners to improve vessel utilization. VLCCs that engage in the Arabian Gulf - West trade can minimize the overall ballast time by picking up a nearby second cargo in one of these Atlantic export locations.",
+      "keywords": [
+        "vlcc",
+        "brazil",
+        "atlantic",
+        "meg",
+        "west_africa",
+        "india",
+        "crude_oil",
+        "arabian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 74,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2012_03_23_bric_house__s06_shuffling_supplies",
+      "doc_id": "poten_tankers_no_date_poten_2012_03_23_bric_house",
+      "parent_id": "poten_tankers_no_date_poten_2012_03_23_bric_house__root",
+      "title": "Shuffling Supplies",
+      "section_path": [
+        "Shuffling Supplies"
+      ],
+      "section_path_text": "Shuffling Supplies",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "The crude oil supply and demand dynamics in Brazil in particular present a unique opportunity to shipowners. Brazil takes a pragmatic approach to crude oil marketing by selling domestic grades as refining margins or international prices warrant.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "brazil",
+        "meg",
+        "west_africa",
+        "india",
+        "crude_oil",
+        "grades"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 142,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

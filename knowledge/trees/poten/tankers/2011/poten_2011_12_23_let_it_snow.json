@@ -1,0 +1,118 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2011_12_23_let_it_snow__root",
+  "doc_id": "poten_tankers_no_date_poten_2011_12_23_let_it_snow",
+  "parent_id": null,
+  "title": "Let it Snow",
+  "section_path": [
+    "Let it Snow"
+  ],
+  "section_path_text": "Let it Snow",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Let it Snow\nWhile the weather in New York is not yet frightful, rates this week have been quite delightful for product tanker owners trading tonnage in the Atlantic Basin! Time charter equivalent earnings on the Transatlantic trade from UK Continent to the US Atlantic coast rose to almost $22,000 per day this week, or over twice as high than the year to date average and about $2,000 more per day than VLCCs trading from the Arabian Gulf to the Far East. As we discussed a few weeks back , increased activity out of the US Gulf has been an important source of support for MR rates as PADD III refiners ship surplus distillate to markets abroad.",
+  "keywords": [
+    "vlcc",
+    "brazil",
+    "atlantic",
+    "meg",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "distillate",
+    "demand",
+    "barrels",
+    "could",
+    "year"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 650,
+  "source_path": "reports/poten/2011/poten_2011-12-23_let-it-snow.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_23_let_it_snow__s01_let_it_snow",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_23_let_it_snow",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_23_let_it_snow__root",
+      "title": "Let it Snow",
+      "section_path": [
+        "Let it Snow"
+      ],
+      "section_path_text": "Let it Snow",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "While the weather in New York is not yet frightful, rates this week have been quite delightful for product tanker owners trading tonnage in the Atlantic Basin! Time charter equivalent earnings on the Transatlantic trade from UK Continent to the US Atlantic coast rose to almost $22,000 per day this week, or over twice as high than the year to date average and about $2,000 more per day than VLCCs trading from the Arabian Gulf to the Far East.",
+      "keywords": [
+        "vlcc",
+        "brazil",
+        "atlantic",
+        "meg",
+        "europe",
+        "us_gulf",
+        "crude_oil",
+        "year"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 316,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_23_let_it_snow__s02_distillate_stocks_2010",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_23_let_it_snow",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_23_let_it_snow__root",
+      "title": "Distillate Stocks ‐ 2010",
+      "section_path": [
+        "Distillate Stocks ‐ 2010"
+      ],
+      "section_path_text": "Distillate Stocks ‐ 2010",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Distillate Stocks ‐ 2011 Demand ‐ 2010 Demand ‐ 2011 According to EIA data, US consumer demand for distillates is about 16% higher and nationwide inventories are about 14% lower than this time last year. Currently, US demand for distillate fuel stands at about 4.4 barrels per day, compared to 139 million barrels of inventory.",
+      "keywords": [
+        "crude_oil",
+        "demand",
+        "distillate",
+        "barrels",
+        "fuel",
+        "higher",
+        "last",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 205,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2011_12_23_let_it_snow__s03_degrees_fahrenheit",
+      "doc_id": "poten_tankers_no_date_poten_2011_12_23_let_it_snow",
+      "parent_id": "poten_tankers_no_date_poten_2011_12_23_let_it_snow__root",
+      "title": "Degrees Fahrenheit",
+      "section_path": [
+        "Degrees Fahrenheit"
+      ],
+      "section_path_text": "Degrees Fahrenheit",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "When temperatures cool to more seasonably appropriate levels, markets could be caught off guard. Amid already‐tight fundamentals an abrupt drawdown in heating oil inventories could create requirements for replacement barrels while the comparatively high cost of Jones Act transportation can make it prohibitively expensive to source this product from Gulf Coast refiners.",
+      "keywords": [
+        "atlantic",
+        "crude_oil",
+        "could",
+        "create",
+        "amid",
+        "high",
+        "markets",
+        "requirements"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 112,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

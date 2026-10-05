@@ -1,0 +1,169 @@
+{
+  "node_id": "poten_tankers_no_date_poten_2006_10_27_out_producing_opec__root",
+  "doc_id": "poten_tankers_no_date_poten_2006_10_27_out_producing_opec",
+  "parent_id": null,
+  "title": "Out Producing OPEC",
+  "section_path": [
+    "Out Producing OPEC"
+  ],
+  "section_path_text": "Out Producing OPEC",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Out Producing OPEC\nOPEC recently announced intentions to cut their crude oil production by 1.2 million barrels per day with a stated goal of ensuring crude oil \"market stability.\" Additionally, swing producer Saudi Arabia verbalized support to reduce production. The chart below shows the current production, proposed cuts and quota levels of the OPEC-10 (excluding Iraq.) Interestingly, the two original proponents of the initiative to lower production were Venezuela and Nigeria, two of the countries that are actually underperforming their official production quotas. Current Production\nProposed Cuts Quota\n\nPot en/ OPEC / EIA\nOPEC's official production quota levels are currently 28 million barrels per day, while actual production is estimated to be 27.6 million barrels per day.",
+  "keywords": [
+    "west_africa",
+    "crude_oil",
+    "production",
+    "crude",
+    "opec",
+    "oil",
+    "per",
+    "are",
+    "million",
+    "barrel",
+    "day",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 682,
+  "source_path": "reports/poten/2006/poten_2006-10-27_out-producing-opec.md",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_10_27_out_producing_opec__s01_out_producing_opec",
+      "doc_id": "poten_tankers_no_date_poten_2006_10_27_out_producing_opec",
+      "parent_id": "poten_tankers_no_date_poten_2006_10_27_out_producing_opec__root",
+      "title": "Out Producing OPEC",
+      "section_path": [
+        "Out Producing OPEC"
+      ],
+      "section_path_text": "Out Producing OPEC",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "OPEC recently announced intentions to cut their crude oil production by 1.2 million barrels per day with a stated goal of ensuring crude oil \"market stability.\" Additionally, swing producer Saudi Arabia verbalized support to reduce production. The chart below shows the current production, proposed cuts and quota levels of the OPEC-10 (excluding Iraq.) Interestingly, the two original proponents of the initiative to lower production were Venezuela and Nigeria, two of the countries that are actually underperforming their official production quotas.",
+      "keywords": [
+        "crude_oil",
+        "production",
+        "crude",
+        "oil",
+        "two",
+        "actually",
+        "additionally",
+        "announced"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 100,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_10_27_out_producing_opec__s02_current_production",
+      "doc_id": "poten_tankers_no_date_poten_2006_10_27_out_producing_opec",
+      "parent_id": "poten_tankers_no_date_poten_2006_10_27_out_producing_opec__root",
+      "title": "Current Production",
+      "section_path": [
+        "Current Production"
+      ],
+      "section_path_text": "Current Production",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "cuts",
+        "proposed",
+        "quota"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_10_27_out_producing_opec__s03_pot_en_opec_eia",
+      "doc_id": "poten_tankers_no_date_poten_2006_10_27_out_producing_opec",
+      "parent_id": "poten_tankers_no_date_poten_2006_10_27_out_producing_opec__root",
+      "title": "Pot en/ OPEC / EIA",
+      "section_path": [
+        "Pot en/ OPEC / EIA"
+      ],
+      "section_path_text": "Pot en/ OPEC / EIA",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "OPEC's official production quota levels are currently 28 million barrels per day, while actual production is estimated to be 27.6 million barrels per day. Indonesia, Iran and Venezuela are currently not meeting production quotas, while Saudi Arabia, Algeria, Kuwait, Libya, Qatar and the UAE are exceeding them.",
+      "keywords": [
+        "crude_oil",
+        "production",
+        "are",
+        "barrels",
+        "currently",
+        "million",
+        "per",
+        "actual"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 81,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_10_27_out_producing_opec__s04_the_price_is_right",
+      "doc_id": "poten_tankers_no_date_poten_2006_10_27_out_producing_opec",
+      "parent_id": "poten_tankers_no_date_poten_2006_10_27_out_producing_opec__root",
+      "title": "The Price is Right",
+      "section_path": [
+        "The Price is Right"
+      ],
+      "section_path_text": "The Price is Right",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Oil prices have continued their downward trend, despite OPEC wishes to reduce production in an effort to support prices. The recent high crude oil price levels have enabled non-OPEC supply to be developed, effectively mitigating the widespread effects of a decline in OPEC production.",
+      "keywords": [
+        "west_africa",
+        "crude_oil",
+        "opec",
+        "production",
+        "oil",
+        "crude",
+        "per",
+        "barrel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 358,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_2006_10_27_out_producing_opec__s05_tankers_to_the_rescue",
+      "doc_id": "poten_tankers_no_date_poten_2006_10_27_out_producing_opec",
+      "parent_id": "poten_tankers_no_date_poten_2006_10_27_out_producing_opec__root",
+      "title": "Tankers to the Rescue",
+      "section_path": [
+        "Tankers to the Rescue"
+      ],
+      "section_path_text": "Tankers to the Rescue",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The tanker fleet is the linchpin in affording the crude oil market highly valued import flexibility. When supplies are curtailed from one location, the crude oil ends up coming from another location.",
+      "keywords": [
+        "crude_oil",
+        "crude",
+        "expect",
+        "flow",
+        "oil",
+        "affording",
+        "another",
+        "appear"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 107,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
