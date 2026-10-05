@@ -665,12 +665,6 @@ def build_star_asia_clean_page(page: pymupdf.Page) -> str:
             for r in rows:
                 out.append(f"| {r[0]} | {r[1]} | {r[2]} | {r[3]} |")
             out.append("")
-        m_disc = re.search(r"(This report is performed to the best of our knowledge.*)", text, re.DOTALL)
-        if m_disc:
-            disc_clean = re.sub(r"\s+", " ", m_disc.group(1)).strip()
-            disc_clean = re.sub(r"snp@starasiasg\.com.*", "", disc_clean).strip()
-            out.append("### Disclaimer\n")
-            out.append(f"*{disc_clean}*\n")
         return "\n".join(out)
 
     return ""

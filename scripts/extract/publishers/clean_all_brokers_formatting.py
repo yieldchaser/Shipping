@@ -326,7 +326,11 @@ def clean_star_asia(txt: str) -> tuple[str, dict]:
     txt = re.sub(r'(?m)^WEEK \d+\s*[·•|]\s*[A-Z][a-z]+ \d{1,2}(?:st|nd|rd|th)?, \d{4}$', '', txt)
     txt = re.sub(r'(?m)^##\s*WEEKLY MARKET REPORT\s*$', '', txt)
 
-    # 3. Strip broken image links (no local images exist)
+    # 3. Strip disclaimer headers and boilerplate
+    txt = re.sub(r'(?m)^#+\s*Disclaimer\s*$', '', txt)
+    txt = re.sub(r'(?s)\*?This report is performed to the best of our knowledge.*?(?:authorisation from STAR ASIA\.|\Z)\*?', '', txt)
+
+    # 4. Strip broken image links (no local images exist)
     txt = re.sub(r'!\[.*?\]\([^\)]*img_[^\)]*\)', '', txt)
 
     # 4. Prune pseudo-tables with empty/blank header cells
