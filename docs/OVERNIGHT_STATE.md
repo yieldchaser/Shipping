@@ -1,3 +1,55 @@
+**THIS RUN (2026-10-05 22:4x-23:0x, source-by-source, 30m job) - 17 HELLENIC KNOWLEDGE CHUNK SHARDS FOUND ZEROED ON DISK, RECOVERED (98 MB / 35,110 rows), AND THE TRUNCATE-FIRST WRITER ROOT-CAUSED + FIXED. Evidence `docs/hellenic_chunk_shard_recovery_verdict.md`.**
+
+No extraction job is ours (live python.exe = Hermes gateway x2 + litellm x2 + code_review_graph serve). The 30m prompt is STALE again - xclusiv 266/266 (now year-sharded under `data/extracted/md/xclusiv/<YYYY>/`, 271 md), every broker source CLOSED. Branch `main`, HEAD advanced by the parallel automation (ab308b1c9) while this run worked.
+
+**1. THE FINDING.** 17 hellenic chunk shards (`knowledge/chunks/hellenic_{iron_ore,shipbuilding,vessel_valuations}_*.jsonl`) were **0 bytes on disk**, all mtime `2026-10-05 22:06`; `git diff --numstat` = `0 added, N removed` on every one (pure truncation). HEAD + `knowledge/chunks/index.json` both declared the content (iron_ore_2021 = 26,536,423 bytes / 9,540 rows). Total loss: **97,950,982 bytes (98.0 MB), 35,110 rows**.
+
+**2. RECOVERY.** Targeted `git checkout HEAD -- <17 paths>` (NOT a broad checkout). Re-verified: every byte size and row count matches the removed counts exactly; `git status knowledge/chunks/` clean (0 modified). Byte-identical to HEAD, so independent of any commit.
+
+**3. ROOT CAUSE (proven mechanism).** `scripts/process_knowledge.py::compact_chunk_file()` truncated the live shard IN PLACE (`path.write_text("")`) then re-appended rows one at a time - any interruption after the truncation loses the WHOLE shard. Both `process_knowledge.py` and `scripts/repair_hellenic_shards.py` call it. The 6 bare parent shards (mtime 2026-06-22) are a separate, intentional older state - untouched.
+
+**4. FIX (applied, uncommitted).** `compact_chunk_file()` now writes to `*.compact.tmp` and `os.replace()`s it onto the target (crash-safe; the skill's "persist partial output / never truncate in place"). Unit-tested: dedup keeps the last chunk_id, no tmp left behind, and a **simulated mid-write crash preserves the original 78-byte file** (before: 0). `py_compile` OK.
+
+**5. HONEST LIMITS.** Which process zeroed them is INFERRED (no python alive at 22:47; the 22:06 writer had exited) - the mechanism is proven, the trigger is the only consistent explanation. The served QA tier is unaffected: `knowledge/chunks/index.json` `generated_at` is STILL `2026-09-29T17:23:36Z` (the daily commit stays frozen by the CI `Validate knowledge artifacts` failure, latest run 37343590808 16:48Z).
+
+**6. STILL OPEN.** The prior run's mirror-dedupe fix and this durability fix are both staged/uncommitted on `main`; **HEAD carries neither**, so CI step `Validate knowledge artifacts` will keep failing until one lands on `main`. Do NOT re-run `repair_hellenic_shards.py` until then (it inherits the truncate-first path - now the safe one).
+
+---
+
+**THIS RUN (2026-10-05 21:3x, source-by-source, 30m job) - THE CI VALIDATE BLOCKER ROOT-CAUSED TO MIRROR-PATH DUPLICATE doc_ids AND FIXED IN process_knowledge.py (verified 1290 -> 0 on the real CI manifest). Evidence `docs/knowledge_validate_fix_verdict.md`.**
+
+No extraction job live (branch `main`; parallel automation pushing ffa-live ticks; local is 6 behind origin, all ffa-live). The 30m prompt is STALE (xclusiv 266/266, all brokers CLOSED, non-broker corpora extracted). This run advanced the carried top item: CI step 11 `Validate updated knowledge` (run 37329812815, still exit 1) which keeps the daily knowledge commit SKIPPED -> the QA tier the app serves is still frozen at 2026-09-29.
+
+**1. EXACT failure composition (measured from the run's diagnostics artifact).** `Duplicate doc ids 1290` = **1185 hellenic + 105 broker**, exactly. CI coverage gaps are hellenic only: iron_ore 1203->1736, shipbuilding 379->758, vessel_valuations 274->547 = +1185. Duplicate tree node ids 3337 / invalid section refs 28731 / duplicate section-index node ids 2047 are all downstream of the same duplicate rows.
+
+**2. ROOT CAUSE (proven from the CI's own documents.jsonl, 12606 rows).** `make_archive_doc_id()` ignores the directory, so two source paths slugify to ONE doc_id: a stale row at the old root `corpus/02-hellenic/**` (1185 rows: iron_ore 533, shipbuilding 379, vessel_valuations 273) and the live copy at `reports/hellenic/**`; plus `reports/broker_reports/**/{carriers,general_broker}/` mirroring the per-publisher digests (277 md / 172 distinct basenames = 105 duplicate basenames). `prune_missing_sources` never removed the stale rows because the corpus files still exist.
+
+**3. FIX (process_knowledge.py, uncommitted on `main`).** `prune_superseded_mirror_rows()` drops manifest rows whose (source,category,basename) is produced by a discovered file at a different path; discovery is deduped on (source,category,stem) preferring the manifest path; a final `dedupe_manifest_rows_by_doc_id()` keeps one row per doc_id.
+
+**4. VERIFIED offline on the real CI manifest:** 1290 dup doc ids -> prune drops 1185 rows -> 105 left -> doc_id dedupe -> **0**; hellenic counts become exactly 1203/379/274. py_compile OK.
+
+**5b. TREE/CHUNK LAYER VERIFIED.** Fed the deduped manifest (11316 rows) into the validator's own `inspect_trees()`/`inspect_chunks()`: **dup tree node ids 3337 -> 0, invalid section refs 28731 -> 0**, dup chunk ids 0. Also measured: the 1185 corpus/02-hellenic files are stale re-renders of the live reports/hellenic copies (identical extracted text, older mtime), so pruning them loses nothing. Still unverified: duplicate section-index node ids 2047 and linked-assets-failed 1311 (environmental/derived).
+
+**5. NOT verified (honest):** the full process->validate chain was not reproduced locally (this box's `knowledge/derived/*` is stale/gitignored and the local validator, 31 min, prints a DIFFERENT metric set than the runner). So whether invalid-section-refs / section-index dups / linked-assets-failed reach 0 is INFERENCE, not measurement. Local clean-manifest baseline fails on OTHER things (missing sources 21, hash mismatches 245, coverage gaps 15). The fix must land on `main` for CI to see it; left uncommitted per "never touch main".
+
+---
+
+**THIS RUN (2026-10-05 15:0x-h, source-by-source, 30m job) - GUARDRAIL FIX VERIFIED IN CI; THE NEXT BLOCKER (VALIDATE) ROOT-CAUSED. Evidence `docs/knowledge_validate_blocker_verdict.md`.**
+
+No extraction job running (tasklist python.exe = Hermes gateway/litellm/code_review_graph; tree CLEAN on `main`, HEAD == origin/main == 9fb0aaafd). The 30m prompt (verify xclusiv, then fearnleys/intermodal/...) is STALE - xclusiv 266/266, all brokers CLOSED, non-broker corpora all extracted (poten 1087/1087, drewry 849 md, seabrokers 98, hellenic 3781 md, breakwave 3501 md). Nothing to extract -> this run worked the top open, APP-VISIBLE item: the 6-day-frozen QA/knowledge tier.
+
+**1. The 19:2x guardrail fix WORKS in CI.** Dispatched the workflow by hand (`gh workflow run "Daily Knowledge Update"` -> run 37329812815). Step 10 "Guardrail - verify Breakwave signals freshness" = **success** (it failed on all 6 runs 2026-09-29..10-04). Local control `check_breakwave_freshness.py --check signals_vs_reports` -> EXIT=0.
+
+**2. NEW BLOCKER = step 11 "Validate updated knowledge" (`scripts/validate_knowledge.py`, exit 1).** Commit is SKIPPED, so the QA tier STILL does not advance. CI counts: **duplicate doc ids 1290; chunks with invalid section refs 28731; duplicate tree node ids 3337; unresolved required local linked assets 1393; frontmatter section-count mismatches 7; coverage TOTAL processed 10147 > files 8962 (missing=-1185)**. validate exits non-zero on ANY summed failure, so the whole set must go to 0.
+
+**3. ROOT CAUSE 1 (PROVEN) - broker digests are MIRRORED twice.** `reports/broker_reports/<year>/` holds every digest under a publisher dir AND under `carriers/` and `general_broker/`. 277 md files, 172 distinct basenames = **105 duplicate basenames; 102 content-identical duplicate groups**. `carriers/` was added by `9fb0aaafd` ("mirror ... broker digests"), `general_broker/` by `0924975de`. `make_archive_doc_id()` omits the directory, so both copies yield the SAME doc_id; `process_knowledge.py:1380` globs `REPORTS_ROOT/broker_reports/**/*.md` recursively -> double ingest. The validator's printed duplicate doc ids are all `broker_reports_broker_report_...`.
+
+**4. ROOT CAUSE 2 (measured, path not yet pinned) - hellenic doubles for 3 categories.** CI processed: iron_ore 1203->1736 (+533), shipbuilding 379->758 (2x), vessel_valuations 274->547 (~2x) = exactly the -1185. `corpus/02-hellenic/<cat>` mirrors `reports/hellenic/<cat>` 1:1, but dry_charter/tanker_charter/demolition (also mirrored) are NOT doubled -> a category-scoped discovery/merge path in `process_knowledge.py`, not a root-scoped one.
+
+**5. FIX DIRECTION (NOT applied - owned by the parallel automation on `main`):** de-mirror `reports/broker_reports/**/carriers|general_broker`, OR make `process_knowledge` dedupe discovered paths by doc_id (first-wins). The 3.3k dup tree nodes + 28.7k invalid section refs are the same defect (a dup doc id duplicates its tree, invalidating its chunks' refs). No repo tree changes this run (diagnosis only); nightly 15:30 UTC CI will re-fail at step 11 until fixed.
+
+---
+
 **THIS RUN (2026-10-05 19:2x, source-by-source, 30m job) - THE APP-VISIBLE KNOWLEDGE (QA) TIER HAS BEEN FROZEN 6 DAYS; ROOT-CAUSED TO A CI GUARDRAIL AND FIXED (tested). Evidence `docs/knowledge_pipeline_stall_verdict.md`.**
 
 No extraction job of ours running (live python.exe = Hermes gateway + litellm + code_review_graph; branch `main`, local HEAD == origin/main == 380961259; a parallel automation commits ffa-live ticks). The 30m prompt (verify xclusiv, then fearnleys/intermodal/...) is STALE - xclusiv 266/266 and every broker source CLOSED (re-measured this run: across all 14 `corpus/01-brokers/*`, **0 PDFs are newer than that source's newest md**). Nothing new to extract, so this run fixed the largest OPEN, APP-VISIBLE defect instead.

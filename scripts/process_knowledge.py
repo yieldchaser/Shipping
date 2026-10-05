@@ -1167,10 +1167,18 @@ def compact_chunk_file(path: Path, remove_doc_ids: set[str] | None = None):
             seen_chunk_ids.add(chunk_id)
         deduped_reversed.append(row)
     deduped_rows = list(reversed(deduped_reversed))
-
-    path.write_text("", encoding="utf-8", newline="\n")
-    for row in deduped_rows:
-        append_jsonl(path, row)
+    # Durability: never truncate the live shard in place. A crash between
+    # truncation and the append loop left 17 hellenic shards at 0 bytes
+    # (2026-10-05) - the whole shard was lost. Write the full result to a
+    # temp file and atomically replace, so an interrupted run leaves the
+    # previous shard intact.
+    tmp_path = path.with_name(path.name + ".compact.tmp")
+    with tmp_path.open("w", encoding="utf-8", newline="\n") as handle:
+        for row in deduped_rows:
+            handle.write(json.dumps(row, ensure_ascii=False) + "\n")
+        handle.flush()
+        os.fsync(handle.fileno())
+    os.replace(tmp_path, path)
 
 
 def remove_manifest_sources(rows: list[dict], source_paths: set[str]) -> list[dict]:
@@ -1237,6 +1245,52 @@ def prune_non_primary_archive_sources(rows: list[dict]) -> list[dict]:
         if not is_primary_archive_html(full_path):
             non_primary_sources.add(source_path)
     return remove_manifest_sources(rows, non_primary_sources)
+
+
+def prune_superseded_mirror_rows(rows: list[dict]) -> tuple[list[dict], int]:
+    """Drop manifest rows that are stale mirror copies of a currently-discovered file.
+
+    reports/broker_reports/**/{carriers,general_broker}/ and corpus/02-hellenic/** are
+    1:1 mirrors of the live tree. make_archive_doc_id() ignores the directory, so a row
+    left at the old mirror path shares its doc_id with the live copy, producing the
+    duplicate doc ids / duplicate tree node ids / invalid chunk section refs that froze
+    the daily knowledge commit. A row is superseded when its (source, category,
+    basename) is produced by a discovered file whose own source path differs from it.
+    """
+    discovered_rels_by_key: dict[tuple, set] = {}
+    for source, category, path in iter_source_files(None):
+        discovered_rels_by_key.setdefault((source, category, path.name), set()).add(relpath(path))
+    superseded: set[str] = set()
+    for row in rows:
+        source_path = row.get("source_path")
+        if not source_path:
+            continue
+        key = (row.get("source"), row.get("category"), Path(source_path).name)
+        rels = discovered_rels_by_key.get(key)
+        if rels and source_path not in rels:
+            superseded.add(source_path)
+    return remove_manifest_sources(rows, superseded), len(superseded)
+
+
+def dedupe_manifest_rows_by_doc_id(rows: list[dict], discovered_rels: set) -> list[dict]:
+    """Keep exactly one manifest row per doc_id, preferring the currently-discovered path.
+
+    Safety net for the mirror defect: two source paths that slugify to the same
+    doc_id (e.g. corpus/02-hellenic/** vs the live reports/hellenic/**) must not
+    both be written to the manifest.
+    """
+    best: dict = {}
+    order: list = []
+    for row in rows:
+        doc_id = row.get("doc_id") or row.get("source_path")
+        if doc_id not in best:
+            best[doc_id] = row
+            order.append(doc_id)
+        else:
+            cur = best[doc_id]
+            if row.get("source_path") in discovered_rels and cur.get("source_path") not in discovered_rels:
+                best[doc_id] = row
+    return [best[d] for d in order]
 
 
 def log_error(file_path: Path, error: str):
@@ -4473,6 +4527,9 @@ def main():
         loaded_manifest_rows = load_manifest_rows()
         manifest_rows = prune_missing_sources(loaded_manifest_rows)
         manifest_rows = prune_non_primary_archive_sources(manifest_rows)
+        manifest_rows, _superseded_dropped = prune_superseded_mirror_rows(manifest_rows)
+        if _superseded_dropped:
+            print(f"[MANIFEST] superseded mirror rows dropped={_superseded_dropped}")
         hash_version_updates, migrated_hash_cache = migrate_manifest_hash_versions(manifest_rows)
         schema_updates = normalize_manifest_schema(manifest_rows)
         processed_index = latest_rows_by_source(manifest_rows)
@@ -4491,6 +4548,32 @@ def main():
         existing_metadata_cache = {}
 
         source_files = list(iter_source_files(args.source))
+
+        # 2026-10-05 fix: reports/broker_reports/**/carriers and .../general_broker
+        # mirror the same digest under a second directory, and make_archive_doc_id()
+        # omits the directory, so both copies yield the SAME doc_id -> duplicate doc
+        # ids / tree node ids / invalid section refs (froze the daily knowledge commit).
+        # Dedupe discovered files on their doc-id key (source, category, stem),
+        # preferring the copy already recorded in the manifest so nothing churns.
+        _dedup_order = []
+        _dedup_best = {}
+        for _entry in source_files:
+            _src, _cat, _path = _entry
+            _key = (_src, _cat, _path.stem)
+            if _key not in _dedup_best:
+                _dedup_best[_key] = _entry
+                _dedup_order.append(_key)
+            else:
+                _cur = _dedup_best[_key]
+                if relpath(_path) in processed_index and relpath(_cur[2]) not in processed_index:
+                    _dedup_best[_key] = _entry
+        if len(_dedup_best) != len(source_files):
+            print(
+                f"[DEDUP] mirror copies dropped: {len(source_files) - len(_dedup_best)} "
+                f"(from {len(source_files)} to {len(_dedup_best)})"
+            )
+        source_files = [_dedup_best[_k] for _k in _dedup_order]
+
         selected_source_files, batch_start, batch_end = select_batch_slice(
             source_files, args.batch_total, args.batch_index
         )
@@ -4569,7 +4652,10 @@ def main():
         for chunk_rel, remove_doc_ids in chunk_compaction_targets.items():
             compact_chunk_file(REPO_ROOT / chunk_rel, remove_doc_ids=remove_doc_ids)
 
-        final_manifest_rows = list(processed_index.values())
+        _discovered_rels = {relpath(p) for _s, _c, p in source_files}
+        final_manifest_rows = dedupe_manifest_rows_by_doc_id(list(processed_index.values()), _discovered_rels)
+        if len(final_manifest_rows) != len(processed_index):
+            print(f"[MANIFEST] duplicate doc_id rows collapsed={len(processed_index) - len(final_manifest_rows)}")
         write_manifest_rows(final_manifest_rows)
 
         kept_doc_paths = {row.get("doc_path") for row in final_manifest_rows if row.get("doc_path")}

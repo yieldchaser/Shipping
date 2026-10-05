@@ -76,6 +76,7 @@ def get_all_target_urls():
     return monitors, newsroom, newsletters
 
 def parse_and_save(url, section):
+    import glob
     slug = url.rstrip("/").split("/")[-1]
     html_filename = f"{slug}.html"
     md_filename = f"{slug}.md"
@@ -84,10 +85,11 @@ def parse_and_save(url, section):
     section_dirs = {"monitors": DIR_MONITORS, "newsroom": DIR_NEWSROOM,
                     "newsletters": DIR_NEWSLETTERS}
     target_dir = section_dirs.get(section, DIR_NEWSROOM)
-    md_path = os.path.join(target_dir, md_filename)
+    existing_mds = glob.glob(os.path.join(target_dir, "**", md_filename), recursive=True)
+    md_path = existing_mds[0] if existing_mds else os.path.join(target_dir, "2026", md_filename)
     
     # Check if already harvested
-    if os.path.exists(md_path) and os.path.exists(html_path) and os.path.getsize(md_path) > 500:
+    if existing_mds and os.path.exists(html_path) and os.path.getsize(md_path) > 500:
         return {
             "slug": slug,
             "url": url,
@@ -187,7 +189,11 @@ def parse_and_save(url, section):
             "html_path": html_path
         }
 
-    # Save clean Markdown
+    # Save clean Markdown in year subdirectory
+    yr_m = re.search(r"(20\d{2})", date_str or slug)
+    yr_str = yr_m.group(1) if yr_m else "2026"
+    md_path = os.path.join(target_dir, yr_str, md_filename)
+    os.makedirs(os.path.dirname(md_path), exist_ok=True)
     with open(md_path, "w", encoding="utf-8", newline="\n") as f:
         f.write(full_md + "\n")
         

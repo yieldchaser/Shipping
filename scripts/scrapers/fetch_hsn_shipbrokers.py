@@ -51,10 +51,18 @@ def save_checkpoint(cp):
     with open(CHECKPOINT_FILE, "w", encoding="utf-8", newline="\n") as f:
         json.dump(cp, f, indent=2)
 
-def fetch_url(url, timeout=25):
-    req = urllib.request.Request(url, headers=HEADERS)
-    with urllib.request.urlopen(req, timeout=timeout) as resp:
-        return resp.read()
+def fetch_url(url, timeout=45, retries=3):
+    last_err = None
+    for attempt in range(retries):
+        try:
+            req = urllib.request.Request(url, headers=HEADERS)
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                return resp.read()
+        except Exception as e:
+            last_err = e
+            if attempt + 1 < retries:
+                time.sleep(2 * (attempt + 1))
+    raise last_err
 
 def parse_pdf_stream(pdf_bytes):
     """Extract clean structured text from in-memory PDF stream using pypdf with AnyDoc fallback."""

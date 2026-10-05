@@ -97,7 +97,7 @@ def _sector(slug):
 def extract_blocks(md_dir=MD_DIR):
     """Return one dict per (document, vessel_class) ballaster block."""
     blocks = []
-    for f in sorted(glob.glob(os.path.join(md_dir, "*.md"))):
+    for f in sorted(glob.glob(os.path.join(md_dir, "**", "*.md"), recursive=True)):
         text = open(f, encoding="utf-8", errors="ignore").read()
         fm = _frontmatter(text)
         if not fm.get("issue_date"):

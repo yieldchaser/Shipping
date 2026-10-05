@@ -28,15 +28,15 @@ def get_clean_filename(url):
     return filename
 
 def harvest_and_localize():
+    import glob
+    import shutil
     md_files = []
-    for sub in ["monitors", "newsroom"]:
+    for sub in ["monitors", "newsroom", "newsletters"]:
         sub_path = os.path.join(BASE_DIR, sub)
         if os.path.exists(sub_path):
-            for f in os.listdir(sub_path):
-                if f.endswith(".md"):
-                    md_files.append(os.path.join(sub_path, f))
+            md_files.extend(glob.glob(os.path.join(sub_path, "**", "*.md"), recursive=True))
                     
-    print(f"[*] Found {len(md_files)} Markdown files across monitors and newsroom.")
+    print(f"[*] Found {len(md_files)} Markdown files across monitors, newsroom, and newsletters.")
     
     url_to_local = {}
     
@@ -52,10 +52,19 @@ def harvest_and_localize():
                 
     print(f"[*] Found {len(url_to_local)} unique embedded images to download.")
     
+    ext_img_dir = os.path.join("data", "extracted", "md", "signal", "images")
+    os.makedirs(ext_img_dir, exist_ok=True)
+
     # 2. Download images with thread pool
     def download_img(url, local_name):
         dest = os.path.join(IMG_DIR, local_name)
+        ext_dest = os.path.join(ext_img_dir, local_name)
         if os.path.exists(dest) and os.path.getsize(dest) > 100:
+            if not os.path.exists(ext_dest):
+                try:
+                    shutil.copy2(dest, ext_dest)
+                except Exception:
+                    pass
             return local_name, "cached", os.path.getsize(dest)
         req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
         try:
@@ -63,6 +72,10 @@ def harvest_and_localize():
                 data = resp.read()
             with open(dest, "wb") as f:
                 f.write(data)
+            try:
+                shutil.copy2(dest, ext_dest)
+            except Exception:
+                pass
             return local_name, "downloaded", len(data)
         except Exception as e:
             return local_name, f"error: {e}", 0
@@ -97,10 +110,11 @@ def harvest_and_localize():
             content = f.read()
             
         modified = False
+        parent_name = os.path.basename(os.path.dirname(md_path))
+        rel_prefix = "../../images" if parent_name.isdigit() and len(parent_name) == 4 else "../images"
         for u, local_name in url_to_local.items():
             if u in content:
-                # Relative path from monitors/ or newsroom/ to images/ is ../images/<local_name>
-                content = content.replace(u, f"../images/{local_name}")
+                content = content.replace(u, f"{rel_prefix}/{local_name}")
                 modified = True
                 
         if modified:

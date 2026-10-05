@@ -2716,19 +2716,21 @@ def save_stacked_series(
 def get_unique_reports(pdf_root: Path) -> List[Path]:
     """Find all unique PDF reports by SHA256 deduplication, caching result for speed."""
     cache_index = CACHE_DIR / "_unique_files.json"
+    all_files = sorted(pdf_root.rglob("*.pdf"), key=lambda f: (-len(f.name), f.name))
     if cache_index.exists():
         try:
             paths = [Path(p) for p in json.loads(cache_index.read_text(encoding="utf-8"))]
             valid = [p for p in paths if p.exists()]
             if len(valid) >= 1000:
-                return valid
+                known_resolved = {str(p.resolve()) for p in valid}
+                new_candidates = [f for f in all_files if str(f.resolve()) not in known_resolved]
+                if not new_candidates:
+                    return valid
         except Exception:
             pass
 
     seen_hashes: Set[str] = set()
     unique_files: List[Path] = []
-    
-    all_files = sorted(pdf_root.rglob("*.pdf"), key=lambda f: (-len(f.name), f.name))
     for f in all_files:
         try:
             h = hashlib.sha256(f.read_bytes()).hexdigest()

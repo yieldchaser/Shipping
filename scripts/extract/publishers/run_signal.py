@@ -172,12 +172,17 @@ def parse_iso_date(raw_str):
     return None
 
 def resolve_date(soup, html_text, slug):
-    # 1. ld+json datePublished or dateModified
+    # 1. ld+json datePublished or dateModified (skip global Webflow template for geopolitical-spillover)
     for script in soup.find_all('script', type='application/ld+json'):
         if script.string:
             try:
                 data = json.loads(script.string)
                 if isinstance(data, dict):
+                    main_id = ''
+                    if isinstance(data.get('mainEntityOfPage'), dict):
+                        main_id = data['mainEntityOfPage'].get('@id', '')
+                    if 'geopolitical-spillover' in main_id and 'geopolitical-spillover' not in slug:
+                        continue
                     pub = data.get('datePublished')
                     iso = parse_iso_date(pub)
                     if iso:
@@ -186,24 +191,45 @@ def resolve_date(soup, html_text, slug):
                     iso = parse_iso_date(mod)
                     if iso:
                         return iso
-            except:
+            except Exception:
                 pass
 
-    # 2. cd_texts
+    # 2. cd_texts in article header (exclude nr-regular / middle-nr-container related articles list)
     for cd in soup.find_all(class_=re.compile(r'cd_texts', re.I)):
+        parents_cl = ' '.join(' '.join(p.get('class', [])) for p in cd.parents if p.get('class'))
+        if 'nr-regular' in parents_cl or 'middle-nr-container' in parents_cl:
+            continue
         t = cd.get_text(strip=True)
         iso = parse_iso_date(t)
         if iso:
             return iso
 
-    # 3. body regex
-    m_body = re.search(r'(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},\s+20\d{2}', html_text)
-    if m_body:
-        iso = parse_iso_date(m_body.group(0))
-        if iso:
-            return iso
+    # 3. Main article body regex (supports both "21 September 2026" and "September 21, 2026")
+    body_div, _ = get_best_body(soup)
+    if body_div:
+        btxt = body_div.get_text(' ', strip=True)[:2000]
+        m_b = re.search(
+            r'(\d{1,2}\s+(?:January|February|March|April|May|June|July|August|September|October|November|December),?\s+20\d{2}'
+            r'|(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},?\s+20\d{2})',
+            btxt, re.I
+        )
+        if m_b:
+            iso = parse_iso_date(m_b.group(0))
+            if iso:
+                return iso
 
-    # 4. slug month-year
+    # 4. slug week number
+    m_week = re.search(r'week[-_](\d{1,2})[-_](\d{4})', slug.lower())
+    if m_week:
+        week = int(m_week.group(1))
+        year = int(m_week.group(2))
+        try:
+            d = datetime.fromisocalendar(year, week, 5)
+            return d.strftime('%Y-%m-%d')
+        except Exception:
+            pass
+
+    # 5. slug month-year
     m_slug1 = re.search(r'(january|february|march|april|may|june|july|august|september|october|november|december)[-_](\d{4})', slug.lower())
     if m_slug1:
         m_num = MONTHS[m_slug1.group(1)]
@@ -216,16 +242,12 @@ def resolve_date(soup, html_text, slug):
         year = int(m_slug2.group(1))
         return f"{year:04d}-{m_num:02d}-01"
 
-    # 5. slug week number
-    m_week = re.search(r'week[-_](\d{1,2})[-_](\d{4})', slug.lower())
-    if m_week:
-        week = int(m_week.group(1))
-        year = int(m_week.group(2))
-        try:
-            d = datetime.fromisocalendar(year, week, 5)
-            return d.strftime('%Y-%m-%d')
-        except:
-            pass
+    # 6. html_text fallback regex
+    m_body = re.search(r'(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},\s+20\d{2}', html_text)
+    if m_body:
+        iso = parse_iso_date(m_body.group(0))
+        if iso:
+            return iso
 
     return "2026-01-01"
 
@@ -497,7 +519,7 @@ def convert_report_file(html_path, manifest_dict):
                 anchor_lbl = "Signal Ocean Platform"
 
                 fig_lines = [
-                    f"![{fig_title}](../images/{local_name})",
+                    f"![{fig_title}](../../images/{local_name})",
                     "",
                     f"> **{fig_label}: {fig_title}**  "
                 ]
@@ -553,9 +575,9 @@ tags:
 
     final_markdown = frontmatter + f"# {title}\n\n*Published on {dt.strftime('%d %B %Y')}*\n\n" + full_body_text + "\n"
 
-    # Dual-write paths with localized relative image targets
-    corpus_md_path = os.path.join(BASE_CORPUS, section, f"{slug}.md")
-    extracted_md_path = os.path.join(OUT_MD_BASE, section, f"{slug}.md")
+    # Dual-write paths with year segregation and localized relative image targets
+    corpus_md_path = os.path.join(BASE_CORPUS, section, str(year), f"{slug}.md")
+    extracted_md_path = os.path.join(OUT_MD_BASE, section, str(year), f"{slug}.md")
 
     os.makedirs(os.path.dirname(corpus_md_path), exist_ok=True)
     os.makedirs(os.path.dirname(extracted_md_path), exist_ok=True)
@@ -565,7 +587,7 @@ tags:
 
     # Save table sidecar if tables exist
     if all_data_tables:
-        sidecar_path = os.path.join(OUT_MD_BASE, section, f"{slug}.tables.json")
+        sidecar_path = os.path.join(OUT_MD_BASE, section, str(year), f"{slug}.tables.json")
         sidecar_data = {
             "slug": slug,
             "issue_date": iso_date,
@@ -601,10 +623,14 @@ def run_pipeline():
     start_time = time.time()
     print("=== STARTING THE SIGNAL GROUP EXTRACTION PIPELINE ===")
 
-    # Ensure output directories exist
+    # Ensure output directories exist and remove legacy unsegregated flat files
     for sub in ["monitors", "newsroom", "newsletters"]:
         os.makedirs(os.path.join(OUT_MD_BASE, sub), exist_ok=True)
         os.makedirs(os.path.join(BASE_CORPUS, sub), exist_ok=True)
+        for base in [OUT_MD_BASE, BASE_CORPUS]:
+            sub_dir = os.path.join(base, sub)
+            for flat_f in glob.glob(os.path.join(sub_dir, "*.md")) + glob.glob(os.path.join(sub_dir, "*.tables.json")):
+                safe_remove(flat_f)
     os.makedirs(SERIES_DIR, exist_ok=True)
 
     # Read manifest
@@ -619,9 +645,10 @@ def run_pipeline():
     print(f"[*] Total HTML snapshots to process: {len(html_files)}")
 
     results = []
-    for h in html_files:
-        res = convert_report_file(h, manifest_dict)
-        results.append(res)
+    with ThreadPoolExecutor(max_workers=8) as executor:
+        futures = [executor.submit(convert_report_file, h, manifest_dict) for h in html_files]
+        for fut in as_completed(futures):
+            results.append(fut.result())
 
     extracted = [r for r in results if r['status'] == 'extracted']
     stubs = [r for r in results if r['status'] == 'skipped_media_mention_stub']
@@ -651,17 +678,11 @@ def run_pipeline():
                 r['date'], r['year'], r['week'], r['section'], r['category'], r['title'],
                 r['word_count'], r['images_count'], r['tables_count'], r['url'],
                 f"corpus/07-signal/html/{r['slug']}.html",
-                f"data/extracted/md/signal/{r['section']}/{r['slug']}.md"
+                f"data/extracted/md/signal/{r['section']}/{r['year']}/{r['slug']}.md"
             ])
     print(f"[+] Stacked master metadata catalog: {metadata_csv_path} ({len(extracted)} rows)")
 
     # Generate vessel count time series.
-    # NOTE (2026-10-03): signal's vessel counts are PROSE in the weekly monitors,
-    # NOT HTML <table>s. A structural scan found ZERO th/td cells containing
-    # 'Vessel Class'/'Ballasters'/'Number of Vessels', so the old table-key path
-    # here emitted a HEADER-ONLY csv. Delegated to the bespoke per-source
-    # extractor (region + self-validating regional-sum control):
-    #   scripts/extract/publishers/run_signal_vessel_counts.py
     try:
         import run_signal_vessel_counts as _svc
     except ImportError:
@@ -684,7 +705,7 @@ def run_pipeline():
                         "url": r['url'],
                         "section": r['section'],
                         "status": r['status'],
-                        "md_path": f"corpus/07-signal/{r['section']}/{r['slug']}.md" if r['status'] == 'extracted' else None,
+                        "md_path": f"corpus/07-signal/{r['section']}/{r.get('year', 2026)}/{r['slug']}.md" if r['status'] == 'extracted' else None,
                         "html_path": f"corpus/07-signal/html/{r['slug']}.html",
                         "title": r.get('title', ''),
                         "date": r.get('date', ''),

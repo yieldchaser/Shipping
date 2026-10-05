@@ -556,7 +556,7 @@ REGISTRY_DATA = [
         "category_id": "breakwave",
         "publisher": "Breakwave Advisors",
         "folder": "corpus/03-breakwave",
-        "md_dir": "corpus/03-breakwave/insights",
+        "md_dir": "data/extracted/md/breakwave",
         "cadence": "Weekly (Tuesday) & Daily Insights",
         "pub_day": "Tuesday / Daily",
         "frequency": "Daily / Bi-weekly",
@@ -680,27 +680,27 @@ REGISTRY_DATA = [
         "cadence": "Weekly (Friday) & Live Telemetry",
         "pub_day": "Friday",
         "frequency": "Weekly",
-        "earliest_date": "2021-05-14",
-        "latest_date": "2026-09-24",
-        "latest_report": "weekly-tanker-market-monitor-week-35-2026.md",
-        "days_ago": 7,
+        "earliest_date": "2020-12-29",
+        "latest_date": "2026-09-29",
+        "latest_report": "steel-demand-softens-as-iron-ore-flows-face-growing-headwinds.md",
+        "days_ago": 6,
         "status": "CURRENT",
         "pdf_count": 10,
         "html_count": 515,
-        "image_count": 1885,
-        "md_count": 456,
-        "total_files": 2900,
+        "image_count": 1494,
+        "md_count": 446,
+        "total_files": 2465,
         "charts_extracted": "Yes (Bauxite/Coal/Crude flow monitors, trade flow heatmaps)",
         "chart_engine": "Playwright session scraper + static monitor markdown builder",
-        "series_csvs": "signal_reports_metadata.csv (446 rows), data/views/signal/live_fleet_positions.json (9,082 tracked hulls), data/views/signal/port_queues_active.json (1,932 ports)",
+        "series_csvs": "signal_reports_metadata.csv (446 rows), signal_vessel_counts_series.csv (106 rows), data/views/signal/live_fleet_positions.json (9,082 tracked hulls), data/views/signal/port_queues_active.json (1,932 ports)",
         "primary_script": "run_signal.py & sync_live_fleet_pipeline.py",
-        "notes": "Live automated telemetry syncs active tanker queues and fleet AIS positions."
+        "notes": "Live automated telemetry syncs active tanker queues and fleet AIS positions. All 446 articles segregated by year across monitors, newsroom, and newsletters."
     },
     {
         "category_id": "baltic",
         "publisher": "Baltic Exchange Weekly",
         "folder": "corpus/08-baltic",
-        "md_dir": "corpus/08-baltic",
+        "md_dir": "data/extracted/md/baltic",
         "cadence": "Weekly (Friday)",
         "pub_day": "Friday",
         "frequency": "Weekly",
@@ -1448,12 +1448,24 @@ def refresh_registry_data(today: date) -> None:
         if md_folder.exists() and md_folder != c_folder:
             md_cnt = 0
             for root, dirs, files in os.walk(md_folder):
+                parent_name = os.path.basename(root)
+                is_recent_year = parent_name in ("2026", "2027")
                 for fname in files:
                     if fname.startswith("."):
                         continue
-                    if fname.lower().endswith(".md"):
+                    is_md = fname.lower().endswith(".md")
+                    if is_md:
                         md_cnt += 1
                     d = parse_date_from_filename(fname)
+                    if d is None and is_md and is_recent_year:
+                        try:
+                            with open(os.path.join(root, fname), "r", encoding="utf-8", errors="ignore") as f_md:
+                                head_txt = f_md.read(500)
+                            fm_m = re.search(r'(?:issue_date|date):\s*["\']?(\d{4}-\d{2}-\d{2})["\']?', head_txt)
+                            if fm_m:
+                                d = parse_date_from_filename(fm_m.group(1))
+                        except Exception:
+                            pass
                     if d and (best_date is None or d > best_date):
                         best_date = d
                         best_file = fname

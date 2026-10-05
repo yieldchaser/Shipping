@@ -84,20 +84,27 @@ def main():
     # D. Drewry AIS Fleet Performance
     run_cmd([sys.executable, "scripts/scrapers/sweep_drewry_fast.py"], "Probe Drewry AIS Weekly Analytics")
 
-    # E. Signal Ocean Intelligence & Monitors
+    # E. Signal Ocean Intelligence, Monitors & Images
     run_cmd([sys.executable, "scripts/scrapers/fetch_signal_reports.py"], "Poll Signal Ocean Market Monitors & Research")
+    run_cmd([sys.executable, "scripts/scrapers/download_signal_images.py"], "Download & Mirror Signal Ocean Article Charts")
 
     # F. Seabrokers Offshore Intelligence
     run_cmd([sys.executable, "scripts/scrapers/fetch_seabrokers_reports.py", "--download", "--limit", "3"], "Poll Seabrokers Offshore Reports")
 
-    # G. Fearnleys Bespoke Hasura Intelligence & Custom Reports
+    # G. Poten & Partners Weekly Tanker Opinions
+    run_cmd([sys.executable, "scripts/scrapers/fetch_poten_direct.py"], "Poll Poten & Partners Weekly Tanker Opinions")
+
+    # H. Baltic Exchange Market Reports & Ningbo Containerized Freight Index
+    run_cmd([sys.executable, "scripts/baltic_scraper.py"], "Poll Baltic Exchange Weekly Market Reports", timeout=600)
+
+    # I. Fearnleys Bespoke Hasura Intelligence & Custom Reports
     run_cmd([sys.executable, "scripts/fearnleys/daily_fearnleys_sync.py"], "Sync Fearnleys Hasura Delta & Publications")
     run_cmd([sys.executable, "scripts/acquire/cache_fearnleys_report_images.py", "--download-pdfs"], "Cache Fearnleys Research Images & Compiled PDFs")
 
-    # H. Corporate Regulatory Filings (SEC EDGAR 26 Target Companies)
+    # J. Corporate Regulatory Filings (SEC EDGAR 26 Target Companies)
     run_cmd([sys.executable, "scripts/acquire/fetch_sec_filings.py", "--recent-days", "30"], "Poll & Ingest SEC Corporate Filings (26 Companies)", timeout=600)
 
-    # I. Breakwave Advisors (Bi-Weekly Dry Bulk & Tankers, Daily Insights)
+    # K. Breakwave Advisors (Bi-Weekly Dry Bulk & Tankers, Daily Insights)
     run_cmd([sys.executable, "scripts/breakwave_scraper.py", "--category", "both"], "Poll Breakwave Bi-Weekly Dry Bulk & Tankers")
     run_cmd([sys.executable, "scripts/breakwave_insights_scraper.py", "--max-pages", "3"], "Poll Breakwave Daily Insights Articles")
 
@@ -110,18 +117,26 @@ def main():
     run_cmd([sys.executable, "scripts/extract/publishers/run_hellenic_alibra_tc.py"], "Extract Hellenic Alibra TC Estimates")
     run_cmd([sys.executable, "scripts/extract/publishers/run_hellenic_vessel_valuations.py"], "Extract Hellenic VesselsValue Matrices")
     run_cmd([sys.executable, "scripts/extract/publishers/run_hellenic_demolition.py"], "Extract Hellenic Cash Buyer Demolition")
+    run_cmd([sys.executable, "scripts/extract/publishers/run_hellenic_gms_demolition.py"], "Extract Hellenic GMS Weekly Demolition & Port Positions")
     run_cmd([sys.executable, "scripts/extract/publishers/run_smm_iron_ore_daily.py"], "Extract SMM Daily Iron Ore Single-Page Reports")
 
     # C. Signal Ocean Ingestion & Series Stacking
     run_cmd([sys.executable, "scripts/extract/publishers/run_signal.py"], "Extract Signal Ocean Markdown & Stacking", timeout=900)
+    run_cmd([sys.executable, "scripts/extract/publishers/run_signal_vessel_counts.py"], "Extract Signal Ocean Vessel Counts Time Series")
 
     # D. Seabrokers LlamaParse Extractor
     run_cmd([sys.executable, "scripts/extract/publishers/run_seabrokers_llamaparse.py"], "Extract Seabrokers LlamaParse Markdown & Series")
 
-    # E. Breakwave Clean LiteParse Extractor
-    run_cmd([sys.executable, "scripts/extract/publishers/run_breakwave_clean_liteparse.py", "--batch"], "Extract Breakwave Clean Markdown & Fundamentals Series")
+    # E. Poten & Partners & Drewry Opinions Extractors
+    run_cmd([sys.executable, "scripts/extract/publishers/run_poten.py"], "Extract Poten & Partners Tanker Opinions & Series")
+    run_cmd([sys.executable, "scripts/extract/publishers/run_drewry_opinions.py"], "Extract Drewry Maritime Research & Opinions")
 
-    # F. Baltic Exchange Reports & NCFI Time Series
+    # F. Breakwave Clean LiteParse & Insights Extractors
+    run_cmd([sys.executable, "scripts/extract/publishers/run_breakwave_clean_liteparse.py", "--batch"], "Extract Breakwave Clean Markdown & Fundamentals Series")
+    current_year = str(datetime.now(timezone.utc).year)
+    run_cmd([sys.executable, "scripts/extract/publishers/run_breakwave_insights.py", current_year], f"Extract Breakwave Daily Insights ({current_year})")
+
+    # G. Baltic Exchange Reports & NCFI Time Series
     run_cmd([sys.executable, "scripts/extract/publishers/run_baltic.py"], "Extract Baltic Market Reports & NCFI Series")
 
     # 4. Offline Vector Chart Extraction & Time Series Stacking
