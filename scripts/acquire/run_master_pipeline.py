@@ -97,6 +97,10 @@ def main():
     # H. Corporate Regulatory Filings (SEC EDGAR 26 Target Companies)
     run_cmd([sys.executable, "scripts/acquire/fetch_sec_filings.py", "--recent-days", "30"], "Poll & Ingest SEC Corporate Filings (26 Companies)", timeout=600)
 
+    # I. Breakwave Advisors (Bi-Weekly Dry Bulk & Tankers, Daily Insights)
+    run_cmd([sys.executable, "scripts/breakwave_scraper.py", "--category", "both"], "Poll Breakwave Bi-Weekly Dry Bulk & Tankers")
+    run_cmd([sys.executable, "scripts/breakwave_insights_scraper.py", "--max-pages", "3"], "Poll Breakwave Daily Insights Articles")
+
     # 3. Incremental Specialized Ingestion
     print("\n--- STAGE 3: Incremental Ingestion & Structured Markdown Parsing ---")
     # A. Multi-Broker PDF Ingestion & Specialized Routing
@@ -113,6 +117,12 @@ def main():
 
     # D. Seabrokers LlamaParse Extractor
     run_cmd([sys.executable, "scripts/extract/publishers/run_seabrokers_llamaparse.py"], "Extract Seabrokers LlamaParse Markdown & Series")
+
+    # E. Breakwave Clean LiteParse Extractor
+    run_cmd([sys.executable, "scripts/extract/publishers/run_breakwave_clean_liteparse.py", "--batch"], "Extract Breakwave Clean Markdown & Fundamentals Series")
+
+    # F. Baltic Exchange Reports & NCFI Time Series
+    run_cmd([sys.executable, "scripts/extract/publishers/run_baltic.py"], "Extract Baltic Market Reports & NCFI Series")
 
     # 4. Offline Vector Chart Extraction & Time Series Stacking
     print("\n--- STAGE 4: Proprietary Vector Chart Extraction & Series Stacking ---")

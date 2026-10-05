@@ -477,9 +477,9 @@ def run_batch():
     print(f"Complete! Extracted {len(all_files)} markdown files and {len(series_rows)} fundamentals series rows to {series_path}")
 
 if __name__ == "__main__":
-    if len(sys.argv) > 1 and sys.argv[1] == "--batch":
+    if len(sys.argv) == 1 or (len(sys.argv) > 1 and sys.argv[1] == "--batch"):
         run_batch()
     else:
-        target = "corpus/03-breakwave/drybulk/2025/2025-04-15_Breakwave_Dry_Bulk.pdf"
+        target = sys.argv[1]
         md, funds, ind, rep_date = parse_breakwave_clean(target)
         print(md)

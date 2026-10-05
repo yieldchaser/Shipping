@@ -1,3 +1,53 @@
+**THIS RUN (2026-10-05 15:5x, source-by-source, 30m job) - BANCHERO SERIES GAP ROOT-CAUSED AND W36/W37 BACKFILLED (the "no generator exists" mystery is solved). Evidence `docs/banchero_series_gap_verdict.md` (follow-up section).**
+
+No extraction job running (live python.exe set = Hermes gateway x2 + litellm x2 + code_review_graph serve). The 30m prompt (verify xclusiv, then fearnleys/intermodal/...) is STALE - xclusiv 266/266 and every broker source CLOSED. So this run worked the open `NEXT-RUN TARGET` left by the 14:2x run: the stale banchero freight/ffa/commodity series gap.
+
+**ROOT CAUSE (measured).** The prior run concluded "no script produces freight/ffa/commodities". It does: `run_banchero_world_class_llama.py::extract_structured_tables_from_md` produces all three. It had gone **DEAD on the current md format** - its table detector looks for `"| ---"`/`"|:---"`/`"|---"` in the header separator row, but the md tier now emits GFM **aligned** separators (`| :--- | :--- |`), which match none of them, so it returned **0 rows for every category**. That is why the three series froze at their Sep-29 build.
+
+**FIX (small, in the parser).** Detection now strips spaces: `any(s in lines[i+1].replace(" ","") for s in ["|---","|:---"])`. Control: W38 md freight **0 -> 90** (== the value already in the series); full 248-doc re-extraction is **byte-identical** to the manual-workaround run. New per-source tool `scripts/extract/publishers/backfill_banchero_series.py` (`--weeks 36 37 [--dry-run]`), union-append + prefix-equality assert + idempotent.
+
+**BACKFILLED (W36, W37):** freight 20,321 -> **20,497** (+176), ffa 7,618 -> **7,690** (+72), commodities 8,447 -> **8,519** (+72). Existing prefix of all three files is **byte-identical** to the pre-run control (`scratch/banchero_gap/backup_20261005_1550`, md5 == `control.md5`); 0 duplicate keys; every appended `rate_current`/`price_current` present **verbatim in the doc's own md** (freight 87/87 + 89/89, ffa 36/36, commodity 36/36); W37 BCI `rate_previous` 46,172 == W36 `rate_current` (consecutive).
+
+**W39 WITHHELD** - extracts freight 108 (vs 87/89) because ~18 FFA tenor rows (`Sep-26`,`Q4 26`) misroute into `freight_benchmarks` and its `ffa_assessments` is short (18/36). Needs a render-and-look / layout fix; do NOT blind-append. Also open and untouched: `secondhand_matrix`/`vhss`/`fx` lack W39, `container_fixtures` stale at W23 (same `build_banchero_series.py` path).
+
+**Low priority confirmed:** the tier is NOT displayed (0 `bancosta_*series` refs in index.html) and TD3C/TC1-TC11 already sit in the live feeds - KB-completeness, not a dashboard defect. Never run `stack_banchero_series.py` as-is (guarded). Changes LEFT UNCOMMITTED (on branch `main`, a parallel automation is active; "NEVER touch main"). Ledger defect list still EMPTY.
+
+---
+
+**THIS RUN (2026-10-05 15:1x, hourly supervisor) - ALL FOUR AUDIT JOBS VERIFIED COMPLETE; the carried Banchero series refresh is MEASURED TO BE A SCHEMA DOWNGRADE and NOT applied. Evidence `docs/banchero_refresh_not_downgrade_verdict.md`.**
+
+No live job is running: no delegation task-log newer than 2026-09-22, no python/duckdb process at check time (a sibling automation DID commit 3d0b3e529 fix(star-asia) at 15:24 during this run - broker files), so this run kept OFF broker outputs.
+
+**Audit freshness (all four outputs present):** text_audit.json + text_audit_recheck.json (Oct-5 00:20), table_audit.json (Oct-4 22:46), gap_verify.json + gap_verify_recheck.json (Oct-4 22:43), vision_candidates.json (Sep-23 16:42 - one-time feasibility probe, no refresh needed). qaudit_*/sweep_v2/systematic_sweep all present (Sep-22/23).
+
+**Audit #1 (text) CLOSED - independently re-verified this run.** Chunk tier healed: manifest declares 106,174 chunks / 93 files; on disk 106,503 / 93 = **SHORT files 0** (the 17,338 shortfall recorded 2026-10-04 is gone). 6 other zero-byte files under knowledge/chunks/ are NOT manifest-declared (placeholder parent shards, not a gap). corpus text = 16,803 text.jsonl (124 empty-on-purpose image-only).
+
+**Audit #2/#3/#4 unchanged and consistent.** corpus.duckdb (read-only): cells 6,726,703 / catalogue 189,481 / series 5,743 / series_points 1,193,579 - reconciles. EURO_DECIMAL_MISPARSE remains CLOSED (100% correct on 105,202 strict EU-decimal cells); gap_verify recheck still shows BOTH CONSTRUCT survivors false.
+
+**Banchero NEXT-RUN target DISPROVED as a safe fix.** build_banchero_series.py does NOT emit freight at all (freight 20,321 rows, identical to delivered - the W36/W37/W39 freight gap is untouched), and its sales output is a THINNER 16-col schema (vessel/buyer/seller) vs the delivered 17-col (vessel_name/buyers/price_raw/ss) = a downgrade. newbuilding -417 / demolition +320. Running it is NOT the "would add W36/W37/W39" win the 14:2x entry assumed. Closing the freight gap needs a NEW bespoke banchero freight md consumer (owner decision; tier is not displayed, 0 index.html refs, benchmarks already in the feeds).
+
+**Owner action needed:** decide whether to build the banchero freight consumer (new pipeline) - the only open, non-displayed, free item. Ledger defect list still EMPTY. Nothing mutated this run (read-only).
+
+---
+
+**THIS RUN (2026-10-05 14:2x, source-by-source, 30m job) - BANCHERO SERIES: STALE GAP + A ZEROING LANDMINE FOUND, TREE RESTORED BYTE-IDENTICAL. Evidence `docs/banchero_series_gap_verdict.md`.**
+
+No extraction job running (live python.exe set = Hermes gateway x2 + litellm x2 + code_review_graph serve). The 30m prompt (verify xclusiv, then fearnleys/intermodal/...) is STALE - xclusiv is 266/266 and **every broker source is CLOSED** per this file. So this run verified a claim instead.
+
+**1. The stale ACTIVE JOB block is corrected (below).** Banchero Costa is **248/248 md** (`data/extracted/llamaparse_banchero/*.md`, newest mtime Oct-3 11:06; run.log ends with the W38+W39 docs parsed, credits~2832). The "243/244 BLOCKED on credits" text is Sep-28 and no longer true.
+
+**2. STALE SERIES GAP (real, bounded).** The 10 `bancosta_*_series.csv` were last built **Sep-29 11:53**; W36/W37/W39 md were created **Oct-3**. `bancosta_freight_rates_series.csv` (20,321 rows) ends `2026-08-31 (W35)` then jumps to `2026-09-21 (W38)` - **W36/W37/W39 have NO rows** although their md holds the tables (W36: 56 HTML tables incl TD3C/C10/BCI; W37: 58; W39: 19). 244 distinct docs in the series vs 248 PDFs; the 4 missing are exactly W36, W37, W39 + the week-39 dup.
+
+**3. LANDMINE (root-caused; GUARD ADDED).** `scripts/extract/publishers/stack_banchero_series.py` (added whole in `be2f5818d`, 2026-09-30 - it never produced the registered series) is BROKEN for the current layout: (a) non-recursive `MD_DIR.glob("*.tables.json")` while the canonical 249 sidecars live in YEAR subdirs `md/banchero_costa/<YYYY>/`; (b) stale schema - it expects `metadata/reported_sales/freight_benchmarks`, but the sidecars are `{source_file,stem,issue_date,report_week,tables,row_counts}` (and carry ONLY sales/newbuilding/demolition, no freight). **Running it ZEROED all 10 series CSVs (freight 20,321->0).** Hit and fully reverted; a guard now refuses to write when 0 rows are parsed (verified exit=2, series untouched). Uncommitted.
+
+**4. RESTORE PATH (reproducible).** `scratch/bancosta_dedup/PRE_<series>.csv` + `filter.py` (dedup on all columns except `source_file`) reproduces the canonical counts exactly: sales 3,244->**3,220**, newbuilding 2,391->**2,377**, demolition ->**959**. After restore **all 10 series md5-match the pre-run control** (`scratch/banchero_gap/control.md5`). `build_banchero_series.py` (committed) reads the md and emits the 7 series + sidecars, but NOT freight/ffa/commodities - no current script produces those 3 (grep of scripts/ finds none).
+
+**5. THREE-BASELINE TEST = LOW PRIORITY.** TD3C/TC1-TC11 already sit in the feeds (`data/clarksons/fearnleys_benchmark_rates_continuous.csv`, `gibson_tanker_rates_continuous_daily.csv`, `data/derived/tanker_forward_curves*.csv`), and `index.html` references **0** `bancosta_*series` / **0** banchero md. None of the tier is displayed; the staleness is a KB-completeness item only.
+
+**NEXT-RUN TARGET:** write a correct sidecar->series consumer (recursive glob + the real `tables/row_counts` schema) OR refresh the 7 reproducible series via `build_banchero_series.py` + `filter.py` (would add W36/W37/W39). Freight/ffa/commodities cannot be refreshed by any current script. Never run `stack_banchero_series.py` as-is (now guarded). Carried human/paid calls unchanged (iron-ore two-writer; VV image recall). Ledger defect list still EMPTY.
+
+---
+
 **THIS RUN (2026-10-05 14:1x, hourly supervisor) - `parse_number` x1000 REGRESSION FIXED at the root (shape-gated), validated 18/18. Evidence `docs/parse_number_shape_fix_verdict.md`.**
 
 No extraction job was running (live python.exe set = Hermes gateway x2 + litellm x2 + code_review_graph serve; the 13:44-13:46 mtime on the iron-ore chunk shards is the 13:3x run's heal, not a live job). The prior run's named NEXT-RUN item ("make parse_number's x1000 rule SHAPE-based") is now DONE and measured.
@@ -1763,6 +1813,9 @@ commands. This file (OVERNIGHT_STATE) covers only what is in flight right now.
 ---
 
 ## ACTIVE JOB RIGHT NOW - do NOT duplicate
+
+> **CORRECTED 2026-10-05:** the banchero block below is STALE. Banchero Costa md is
+> **248/248 DONE** (Oct-3); the credit wall was cleared. No extraction job is live.
 
 **LlamaParse escalation run for banchero_costa is STOPPED - BLOCKED ON CREDITS.**
 

@@ -29,7 +29,7 @@ import argparse
 import requests
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
-from datetime import datetime
+from datetime import datetime, timezone
 from bs4 import BeautifulSoup, Tag
 
 from source_archive_utils_v2 import REPORTS_ROOT, breakwave_root
@@ -52,7 +52,7 @@ HEADERS = {
 
 PAGE_DELAY     = 1.5   # sec between page fetches
 DOWNLOAD_DELAY = 2.5   # sec between PDF downloads
-CURRENT_YEAR   = datetime.utcnow().year
+CURRENT_YEAR   = datetime.now(timezone.utc).year
 DRY_OLDER_MAX_YEAR = 2021
 
 # ─────────────────────── Known archive pages ──────────────────────────────────
@@ -410,6 +410,16 @@ def run(category: str, dry_run: bool, year_filter: int | None):
 
         if success:
             ok += 1
+            if not dry_run and dest.exists():
+                try:
+                    legacy_folder = "drybulk" if category == "dry" else "tankers"
+                    legacy_dest = REPORTS_ROOT / legacy_folder / str(date.year) / dest.name
+                    legacy_dest.parent.mkdir(parents=True, exist_ok=True)
+                    if not legacy_dest.exists() or legacy_dest.stat().st_size != dest.stat().st_size:
+                        import shutil
+                        shutil.copy2(dest, legacy_dest)
+                except Exception:
+                    pass
         else:
             fail += 1
 

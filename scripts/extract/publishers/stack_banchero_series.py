@@ -216,6 +216,25 @@ def stack_all():
     fx_rows.sort(key=lambda x: (x["issue_date"], x["report_week"], x["currency_pair"]))
     commodity_rows.sort(key=lambda x: (x["issue_date"], x["report_week"], x["category"], x["item"]))
 
+    # SAFETY GUARD (added 2026-10-05). This script globs the sidecar dir
+    # NON-recursively, but the canonical sidecars live in YEAR subdirectories
+    # (md/banchero_costa/<YYYY>/*.tables.json); its expected sidecar schema
+    # (metadata/reported_sales/freight_benchmarks) also does NOT match the current
+    # sidecar schema ({source_file,stem,issue_date,report_week,tables,row_counts}).
+    # Run as-is it parsed 0 rows and OVERWROTE all 10 series with headers only -
+    # it zeroed the whole banchero series tier on 2026-10-05. Refuse to write when
+    # nothing was parsed. See docs/banchero_series_gap_verdict.md.
+    _total = (len(sales_rows) + len(freight_rows) + len(ffa_rows) + len(nb_rows) +
+              len(demo_rows) + len(sh_rows) + len(container_rows) + len(vhss_rows) +
+              len(fx_rows) + len(commodity_rows))
+    if _total == 0 or len(json_files) == 0:
+        logger.error(
+            "Refusing to write: parsed 0 rows from %d sidecar(s). The sidecar glob "
+            "is non-recursive and the schema is stale (see "
+            "docs/banchero_series_gap_verdict.md). Aborting to avoid zeroing the "
+            "banchero series tier.", len(json_files))
+        raise SystemExit(2)
+
     # Write CSVs
     write_csv(
         SERIES_DIR / "bancosta_sales_series.csv",

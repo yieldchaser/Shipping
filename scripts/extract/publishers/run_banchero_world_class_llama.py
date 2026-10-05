@@ -846,7 +846,7 @@ def extract_structured_tables_from_md(
         elif line.startswith("### "):
             current_h3 = line[4:].strip()
 
-        if "|" in line and i + 1 < len(lines) and any(s in lines[i+1] for s in ["| ---", "|:---", "|---"]):
+        if "|" in line and i + 1 < len(lines) and any(s in lines[i+1].replace(" ", "") for s in ["|---", "|:---"]):
             raw_headers = [c.strip().strip("*") for c in line.split("|")[1:-1]]
             headers = []
             for h in raw_headers:
