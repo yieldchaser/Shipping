@@ -1,87 +1,85 @@
-# Breakwave PDF mirror gap CLOSED: the 59 would-be-fatal linked assets now resolve (0 residual, measured)
+# The 59 breakwave "unresolved linked assets" are BOT-WALL JUNK, not a mirroring gap (measured)
 
-Run: 2026-10-06 ~04:0x IST, unattended 30m job. Branch `auto/extract-fixes-2026-10-06-linkedasset-verify`.
-Nothing of ours extracting (programme re-verified closed - see below). This run advanced the ONE
-open item from the previous verdict: the **59 breakwave would-be-fatal linked assets** the
-`8de08da48` mapping did NOT cover.
+Run: 2026-10-06 ~04:0x IST, unattended 30m job. Branch
+`auto/extract-fixes-2026-10-06-linkedasset-verify`. Nothing of ours extracting (programme
+re-verified closed).
 
-## What this fixes
+## Why this run touched it
 
-`docs/linked_asset_fix_verification.md` (prior run) measured that the `8de08da48` mapping
-(`reports/breakwave/ -> corpus/03-breakwave/insights/`) resolved **1,334 / 1,393 = 95.7%** of the
-unresolved required local linked assets, leaving **59, all breakwave**. Those 59 are commodity-call
-PDFs an article HTML references via `../pdfs/<name>.pdf`; the resolver looks for the mirror at
-`corpus/03-breakwave/insights/pdfs/<name>.pdf`.
+The previous run (`docs/linked_asset_fix_verification.md`) measured that `8de08da48`'s path
+mapping resolved **1,334 / 1,393 = 95.7%** of the unresolved required local linked assets, leaving
+**59, all breakwave**, and recommended "inventory the 59 and/or restore a mapping-aware fatal
+branch". This run inventoried them. The recommendation was WRONG for these 59 - here is the
+measurement that shows it.
 
-Measured this run: that mirror directory held only **13 PDFs** (git-force-tracked, the rest of the
-corpus PDFs are `.gitignore`d via `corpus/**/*.pdf`). The other 59 were simply never copied into the
-mirror.
+## What the 59 actually are
 
-## Where the missing PDFs actually are
+They are breakwave article HTMLs (e.g. `corpus/03-breakwave/insights/2023/2023-02-03_nickel-...html`)
+referencing an underlying "commodity call" report via `../pdfs/<name>.pdf`. The resolver looks for
+the mirror at `corpus/03-breakwave/insights/pdfs/<name>.pdf`; that directory held only **13**
+genuine PDFs, so the 59 were unresolved.
 
-They are NOT lost. They live in the gitignored `reports/breakwave/pdfs/` of the two live worktrees:
+The 59 referenced files DO exist - in the gitignored `reports/breakwave/pdfs/` of both live
+worktrees (`.kilo/worktrees/grizzled-opportunity` and
+`.claude/worktrees/maritime-audit-docs-review-a8b612`, 81 files each). **But they are not PDFs.**
+Byte-checking the magic number (`f.read(5) != b"%PDF-"`) on all 81:
 
-| worktree | reports/breakwave/pdfs/*.pdf | of the 59 present |
-|---|---|---|
-| `.kilo/worktrees/grizzled-opportunity` | 81 | **59 / 59** |
-| `.claude/worktrees/maritime-audit-docs-review-a8b612` | 81 | **59 / 59** |
-| repo clone `shipping-muse-spark` | no such dir | - |
+| kind | count | size | content |
+|---|---|---|---|
+| genuine PDF | 13 | 245 KB - 7.9 MB | the real reports |
+| **bot-wall HTML named `.pdf`** | **67** | **exactly 5,174 B** | `<title>Login Page</title>` - an ANZ Portal login page (the fetch hit an auth wall) |
+| other HTML | 1 | 121,703 B | `<title>Search Results | Baker Institute</title>` |
 
-The MAIN tree's `reports/breakwave/pdfs/` is empty (0 files, `.gitignore:69`), which is why every
-run reported the 59 as unresolvable.
+So all 59 referenced assets were **never successfully fetched** - the fetcher saved a ~5 KB login
+page under a `.pdf` name. This is precisely the "HTML-served-as-PDF / bot-wall placeholder" junk the
+skill says to route explicitly (check the `%PDF-` magic bytes).
 
-## Action (additive only; nothing tracked disturbed)
+## The experiment (and why it was reverted)
 
-Copied all **81** PDFs from `.kilo/worktrees/grizzled-opportunity/reports/breakwave/pdfs/` into
-`corpus/03-breakwave/insights/pdfs/` with `cp -n` (no clobber). The 13 already-mirrored basenames
-were identical, so nothing was overwritten. Mirror went **13 -> 81 files (21 MB)**. These are
-gitignored bulk PDFs, consistent with the corpus convention (PDFs git-untracked; the 13 committed
-ones predate the convention). `git status` shows only the unrelated `logs/fleet_sync.log`.
+To be sure, I first mirrored all 81 worktree files into `corpus/03-breakwave/insights/pdfs/`
+(`cp -n`). The validator's own accounting then went **59 -> 0** (and
+`validate_knowledge.resolve_local_asset_reference` returned True for 59/59). That looks like a fix
+but it is **cosmetic and harmful**: it makes the corpus claim "the asset exists" when the file is a
+5 KB login page. A wrong/misleading file is worse than a missing one.
 
-## Verification (the validator's OWN accounting, not a re-implementation)
+**Reverted.** Deleted the 68 non-`%PDF-` files; the mirror is back to the **13 genuine PDFs, 0
+junk** (verified: all 13 have `%PDF-` magic). Re-measured residual = **59 / 59 unresolved**, the
+honest state.
 
-1. Direct: for each of the 59 recorded references, `validate_knowledge.resolve_local_asset_reference(html, ref)`
-   with the mapping in place -> **59 / 59 resolve to an existing file** (was 0).
-2. Full-corpus replication of the pre-commit FATAL accounting
-   (`scratch/linked_asset_recheck/check2.py`, 8,644 linked-asset html rows):
+## Correct classification of the 59
 
-```
-BEFORE (would_be_fatal_BEFORE.json):  ALL required-marker local refs that do NOT resolve: 59
-                                        WOULD-BE-FATAL (enforced, mirrored>0):        59
-AFTER  (this run):                      ALL required-marker local refs that do NOT resolve: 0
-                                        WOULD-BE-FATAL (enforced, mirrored>0):         0
-```
+They are **not `RESTATEMENT`, not a path bug, and not fixable by mirroring** - they are
+`EXTERNAL_UNAVAILABLE`: the publisher put the underlying report behind a login wall and our fetch
+captured the wall. The right treatment is exactly what HEAD's (silenced) non-fatal path already
+does: count them as `external_non_mirrored`, do NOT fail CI on them, and do NOT inject the login
+page into the corpus. If the content is wanted, the only correct route is a re-fetch with working
+credentials / a public mirror of those commodity calls - not a file copy.
 
-So the two-layer story is now: `8de08da48` fixed 1,334/1,393 (the path mapping) and this run fixed
-the remaining **59/59** (the missing mirror files). Residual unresolved required local linked assets
-= **0**.
+## So the mapping story is unchanged and complete
 
-## HONEST CAVEAT - the gate itself is still dead in HEAD
+- `8de08da48`: resolves 1,334 / 1,393 (the moved-path cases) - genuinely fixed.
+- Remaining **59**: bot-wall, legitimately non-fatal. **Do not "fix" by copying.**
 
-This restores the DATA, not the GATE. On this branch's HEAD the check remains silenced: in
-`scripts/validate_knowledge.py` `unresolved_required_local` is initialised (line 331), returned
-(line 407) and summed into the exit code (line 1173), but **never populated** - nothing calls
-`.add(...)`, so line 1114 prints `Unresolved required local linked assets: 0` unconditionally. The
-59 (and any future missing required asset) become non-fatal `external_non_mirrored` warnings.
-Recommendation for the owner (code change on the trunk, NOT done here): restore a mapping-aware
-fatal branch that adds a required-marker local ref to `unresolved_required_local` when the row is
-enforced AND its target does not exist.
+## HONEST CAVEAT (unchanged from prior run) - the gate is still dead in HEAD
 
-## CI status at run time (unchanged / not ours)
+In `scripts/validate_knowledge.py`, `unresolved_required_local` is initialised (line 331), returned
+(line 407) and summed into the exit code (line 1173), but **never populated** (no `.add(...)`), so
+line 1114 prints `Unresolved required local linked assets: 0` unconditionally. The 59 fall into the
+non-fatal `external_non_mirrored` bucket. Owner action if a real gate is wanted: restore a
+mapping-aware fatal branch - but with the new knowledge that 59 of the 1,393 are permanently
+unfetchable, so a naive restore would re-break CI on exactly them.
 
-- `Process Knowledge Base` run **37375284821** (hand-dispatched at 21:20Z against `8de08da48`) was
-  STILL `in_progress`, stuck in step 9 `Run processor` since 21:28Z (>70 min; a normal process step
-  finished in ~3 min on the 2026-09-28 success). Logs unavailable while in progress. Possibilities:
-  genuinely heavy first run after the dedupe change, or a hang - cannot be judged without its log.
-- `Daily Knowledge Update` run **37380480306** (22:08Z) was `pending`. The daily workflow has FAILED
-  on 7 consecutive runs (2026-09-29..10-05); last success 2026-09-28.
-- Did NOT re-dispatch either run: doubling paid CI spend is explicitly discouraged.
+## CI status at run time
 
-## Nothing to extract (re-measured, 4th time)
+- `Process Knowledge Base` **37375284821** (hand-dispatched 21:20Z on `8de08da48`): still
+  `in_progress`, stuck in step 9 `Run processor` since 21:28Z (>70 min vs ~3 min on the 2026-09-28
+  success). Hung or genuinely heavy - unjudgeable without its log. Not re-dispatched (avoid double
+  paid CI spend).
+- `Daily Knowledge Update` **37380480306** (22:08Z): `pending`. The daily workflow has FAILED on 7
+  consecutive runs (2026-09-29..10-05); last green 2026-09-28. QA-tier `generated_at` stays frozen.
 
-Every `corpus/01-brokers/*` source's PDF count is covered by its md, except apparent gaps that are
-all BYTE-IDENTICAL duplicates (md5-verified this run):
-- affinity: 256 pdf / 249 md -> the 7 "missing" are all md5 twins of already-extracted files
-  (e.g. `..._nan_...04.09.2026` == the HSN-named file that has md).
-- star_asia: 201 pdf / 200 md -> the 1 missing (`W40`) is an md5 twin of the dated file that has md.
-No genuine gap.
+## Nothing to extract (re-measured, 4th time; md5-verified)
+
+- affinity 256 pdf / 249 md -> the 7 "missing" are all md5 twins of already-extracted files.
+- star_asia 201 pdf / 200 md -> the 1 missing (`W40`) is an md5 twin of the dated file that has md.
+- every other broker source is 1:1. No genuine gap.
