@@ -302,7 +302,7 @@ def clean_intermodal(txt: str, file_path: Path = None) -> tuple[str, dict]:
         return txt, stats
 
 def clean_star_asia(txt: str) -> tuple[str, dict]:
-    stats = {"category_lists_reformatted": 0}
+    stats = {"category_lists_reformatted": 0, "footers_stripped": 0}
     
     # 1. Reformat 1-column category tables (Capesize, Panamax, Supramax, Handysize or Port names)
     cat_pattern = re.compile(
@@ -316,7 +316,20 @@ def clean_star_asia(txt: str) -> tuple[str, dict]:
             txt = txt[:m.start()] + replacement + txt[m.end():]
             stats["category_lists_reformatted"] += 1
 
-    # 3. Prune pseudo-tables with empty/blank header cells
+    # 2. Strip running contact footers and headers
+    txt = re.sub(r'(?m)^.*(?:snp@starasiasg\.com|Member of BIMCO, The Baltic Exchange|Singapore Shipping Association).*$', '', txt)
+    txt = re.sub(r'(?m)^Singapore\s*\|\s*London\s*\|\s*Dubai.*$', '', txt)
+    txt = re.sub(r'(?m)^Tel:\s*\+65\s*\d.*$', '', txt)
+    txt = re.sub(r'(?m)^\*?\(?A?\s*Member of BIMCO.*$', '', txt)
+    txt = re.sub(r'(?m)^For Privacy Policy\s*$', '', txt)
+    txt = re.sub(r'(?m)^STAR ASIA\s*\|\s*(?:WEEKLY MARKET REPORT|DEMOLITION REPORT).*$', '', txt)
+    txt = re.sub(r'(?m)^WEEK \d+\s*[·•|]\s*[A-Z][a-z]+ \d{1,2}(?:st|nd|rd|th)?, \d{4}$', '', txt)
+    txt = re.sub(r'(?m)^##\s*WEEKLY MARKET REPORT\s*$', '', txt)
+
+    # 3. Strip broken image links (no local images exist)
+    txt = re.sub(r'!\[.*?\]\([^\)]*img_[^\)]*\)', '', txt)
+
+    # 4. Prune pseudo-tables with empty/blank header cells
     def _clean_sa_tables(tbl_match):
         block = tbl_match.group(0).strip()
         lines = [ln.strip() for ln in block.splitlines() if ln.strip()]
@@ -325,7 +338,6 @@ def clean_star_asia(txt: str) -> tuple[str, dict]:
         header_cells = [c.strip() for c in lines[0].split('|')[1:-1]]
         empty_hdrs = [c for c in header_cells if not c]
         if empty_hdrs and len(empty_hdrs) >= len(header_cells) // 2:
-            # Drops pseudo-tables produced by raster charts
             return ""
         row_lines = lines[2:]
         col_has_val = [False] * len(header_cells)
@@ -349,15 +361,32 @@ def clean_star_asia(txt: str) -> tuple[str, dict]:
 
     txt = re.sub(r'(\|(?:[^\n]+\|)+\n\|(?:\s*[-:]+[-| :]*)\|\n(?:\|(?:[^\n]+\|)*(?:\n|$))+)', _clean_sa_tables, txt)
 
-    # 4. Clean dangling single headers and malformed numbers as headers
+    # 5. Clean dangling single headers and malformed numbers as headers
     txt = re.sub(r'(?m)^#+\s*[\d,.]+\s*$', '', txt)
     txt = re.sub(r'(?m)^#+\s*(?:TYPE|VESSEL|COUNTRY|DWT|LDT|PRICE)\s*$', '', txt)
 
-    # 5. Collapse consecutive redundant headers
+    # 6. Collapse consecutive redundant headers
     txt = re.sub(r'(?m)^##\s*Baltic Dry Indices\s*\n+(?:[ \t]*\n+)*##\s*BDI\b', '### Baltic Dry Index (BDI)', txt)
 
+    # 7. Ensure blank lines before and after every markdown table
+    lines = txt.splitlines()
+    out = []
+    in_table = False
+    for line in lines:
+        is_tbl = line.strip().startswith('|')
+        if is_tbl and not in_table:
+            if out and out[-1].strip():
+                out.append('')
+            in_table = True
+        elif not is_tbl and in_table:
+            if line.strip():
+                out.append('')
+            in_table = False
+        out.append(line)
+    txt = '\n'.join(out)
+
     txt = re.sub(r'\n{3,}', '\n\n', txt)
-    return txt, stats
+    return txt.strip() + '\n', stats
 
 def clean_seabrokers(txt: str) -> tuple[str, dict]:
     stats = {"spec_cards_unpacked": 0, "sidebar_tables_cleaned": 0}

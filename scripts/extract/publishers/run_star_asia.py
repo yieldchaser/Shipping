@@ -442,6 +442,237 @@ def build_star_asia_clean_page(page: pymupdf.Page) -> str:
 
         return "\n".join(out_lines)
 
+    # 5. PAGE: Segment Annual Averages (Dry Bulk, Tankers, Containers)
+    elif "SEGMENT (AVG)" in text:
+        lines = [l.strip() for l in text.splitlines() if l.strip()]
+        try:
+            idx = lines.index("SEGMENT (AVG)")
+        except ValueError:
+            return ""
+        headers = ["SEGMENT (AVG)"]
+        j = idx + 1
+        while j < len(lines) and (re.match(r"^(?:19\d\d|20\d\d)(?:\s*YTD)?$", lines[j]) or lines[j].isdigit()):
+            headers.append(lines[j])
+            j += 1
+        num_cols = len(headers)
+        if num_cols < 2:
+            return ""
+
+        known_segments = [
+            "CAPESIZE", "PANAMAX", "SUPRAMAX", "HANDY", "HANDYSIZE",
+            "VLCC", "SUEZMAX", "AFRAMAX", "MR", "LR1", "LR2",
+            "1000 TEU", "1,700 TEU", "2,750 TEU", "9,000 TEU"
+        ]
+        rows = []
+        cur_seg = None
+        cur_vals = []
+        while j < len(lines):
+            line = lines[j]
+            if any(line.upper().startswith(s) for s in known_segments):
+                if cur_seg and cur_vals:
+                    rows.append((cur_seg, cur_vals))
+                cur_seg = line
+                cur_vals = []
+            elif cur_seg and (line.startswith("$") or re.match(r"^[\d,]+$", line)):
+                cur_vals.append(line)
+            elif line.startswith("snp@") or "Member of BIMCO" in line or "Page " in line:
+                break
+            j += 1
+        if cur_seg and cur_vals:
+            rows.append((cur_seg, cur_vals))
+
+        if not rows:
+            return ""
+
+        title = "### Segment Annual Averages (USD / Day)"
+        if any(r[0] in ["CAPESIZE", "PANAMAX", "SUPRAMAX", "HANDY"] for r in rows):
+            title = "### Dry Bulk Annual Averages (USD / Day)"
+        elif any(r[0] in ["VLCC", "SUEZMAX", "AFRAMAX", "MR"] for r in rows):
+            title = "### Tanker Annual Averages (USD / Day)"
+        elif any("TEU" in r[0] for r in rows):
+            title = "### Container Annual Averages (USD / Day)"
+
+        out = [title + "\n"]
+        out.append("| " + " | ".join(headers) + " |")
+        out.append("| :--- | " + " | ".join([":---:"] * (len(headers) - 1)) + " |")
+        for seg, vals in rows:
+            val_str = " | ".join(vals)
+            out.append(f"| {seg} | {val_str} |")
+        return "\n".join(out)
+
+    # 6. PAGE: Commodities & Exchange Rates (Iron Ore, Metals, Oil/Gas, Currencies)
+    elif any(k in text for k in ["Copper (Comex)", "Industrial Metal Rates", "Commodity Prices", "Crude Oil & Natural Gas"]):
+        out_sections = []
+        lines = [l.strip() for l in text.splitlines() if l.strip()]
+
+        # 6a. Iron Ore
+        if any(k in text for k in ["Iron Ore Lumps", "Iron Ore Fines"]):
+            rows = []
+            j = 0
+            while j < len(lines):
+                l = lines[j]
+                if any(l.startswith(k) for k in ["Iron Ore Lumps", "Iron Ore Fines"]):
+                    comm_parts = [l]
+                    j += 1
+                    while j < len(lines) and not re.search(r"Fe\s*\d", lines[j]):
+                        comm_parts.append(lines[j])
+                        j += 1
+                    comm_name = " ".join(comm_parts).replace(" ,", ",").strip()
+                    grade_parts = []
+                    while j < len(lines) and not (lines[j].startswith("$") or lines[j].startswith("US$")):
+                        grade_parts.append(lines[j])
+                        j += 1
+                    grade_name = " ".join(grade_parts).strip()
+                    this_wk = lines[j] if j < len(lines) else ""
+                    j += 1
+                    vals = []
+                    while j < len(lines) and len(vals) < 4:
+                        if lines[j].startswith("Copper (Comex)") or lines[j] == "INDEX" or any(lines[j].startswith(k) for k in ["Iron Ore Lumps", "Iron Ore Fines"]):
+                            break
+                        vals.append(lines[j])
+                        j += 1
+                    rows.append((comm_name, grade_name, this_wk, vals))
+                else:
+                    j += 1
+            if rows:
+                out_sections.append("### Iron Ore\n")
+                out_sections.append("| COMMODITY (USD/MT) | GRADE | THIS WEEK | LAST WEEK | LAST YEAR | WoW | YoY |")
+                out_sections.append("| :--- | :--- | :---: | :---: | :---: | :---: | :---: |")
+                for c_name, g_name, tw, rest in rows:
+                    if len(rest) == 4:
+                        if "%" in rest[0]: # 2022 format: WoW, YoY, LAST WEEK, LAST YEAR
+                            wow, yoy, lw, ly = rest
+                        else:
+                            lw, ly, wow, yoy = rest
+                        out_sections.append(f"| {c_name} | {g_name} | {tw} | {lw} | {ly} | {wow} | {yoy} |")
+                    else:
+                        out_sections.append(f"| {c_name} | {g_name} | {tw} | " + " | ".join(rest) + " |")
+                out_sections.append("")
+
+        # 6b. Industrial Metal Rates
+        if "Copper (Comex)" in text:
+            metals_pat = re.compile(r"^(Copper \(Comex\)|3Mo Copper|3Mo Aluminium|3Mo Aluminum|3Mo Zinc|3Mo Tin)", re.IGNORECASE)
+            rows = []
+            j = 0
+            while j < len(lines):
+                l = lines[j]
+                if metals_pat.match(l):
+                    name = l
+                    units = lines[j+1] if j+1 < len(lines) else ""
+                    price = lines[j+2] if j+2 < len(lines) else ""
+                    chg = lines[j+3] if j+3 < len(lines) else ""
+                    pct = lines[j+4] if j+4 < len(lines) else ""
+                    contract = lines[j+5] if j+5 < len(lines) else ""
+                    rows.append((name, units, price, chg, pct, contract))
+                    j += 6
+                else:
+                    j += 1
+            if rows:
+                out_sections.append("### Industrial Metal Rates\n")
+                out_sections.append("| INDEX | UNITS | PRICE | CHANGE | % CHANGE | CONTRACT |")
+                out_sections.append("| :--- | :--- | :---: | :---: | :---: | :---: |")
+                for r in rows:
+                    out_sections.append(f"| {r[0]} | {r[1]} | {r[2]} | {r[3]} | {r[4]} | {r[5]} |")
+                out_sections.append("")
+
+        # 6c. Crude Oil & Natural Gas
+        if any(k in text for k in ["WTI Crude Oil", "Brent Crude"]):
+            energy_pat = re.compile(r"^(WTI Crude Oil|Brent Crude|Crude Oil \(Tokyo\)|Natural Gas)", re.IGNORECASE)
+            rows = []
+            j = 0
+            while j < len(lines):
+                l = lines[j]
+                if energy_pat.match(l):
+                    name = l
+                    units = lines[j+1] if j+1 < len(lines) else ""
+                    price = lines[j+2] if j+2 < len(lines) else ""
+                    chg = lines[j+3] if j+3 < len(lines) else ""
+                    pct = lines[j+4] if j+4 < len(lines) else ""
+                    contract = lines[j+5] if j+5 < len(lines) else ""
+                    rows.append((name, units, price, chg, pct, contract))
+                    j += 6
+                else:
+                    j += 1
+            if rows:
+                out_sections.append("### Crude Oil & Natural Gas\n")
+                out_sections.append("| INDEX | UNITS | PRICE | CHANGE | % CHANGE | CONTRACT |")
+                out_sections.append("| :--- | :--- | :---: | :---: | :---: | :---: |")
+                for r in rows:
+                    out_sections.append(f"| {r[0]} | {r[1]} | {r[2]} | {r[3]} | {r[4]} | {r[5]} |")
+                out_sections.append("")
+
+        # 6d. Exchange Rates
+        if "Exchange Rates" in text or "USD / CNY" in text:
+            cur_pat = re.compile(r"^USD\s*/\s*(CNY|BDT|INR|PKR|TRY)", re.IGNORECASE)
+            rows = []
+            j = 0
+            col1, col2, col3 = "CURRENT", "LAST WEEK", "WoW %"
+            while j < len(lines) and not cur_pat.match(lines[j]):
+                if j + 2 < len(lines) and "%" in lines[j+2] and not lines[j].startswith("*") and not lines[j].startswith("Note"):
+                    col1, col2, col3 = lines[j], lines[j+1], lines[j+2]
+                j += 1
+            while j < len(lines):
+                l = lines[j]
+                if cur_pat.match(l):
+                    c_name = l
+                    c1 = lines[j+1] if j+1 < len(lines) else ""
+                    c2 = lines[j+2] if j+2 < len(lines) else ""
+                    c3 = lines[j+3] if j+3 < len(lines) else ""
+                    rows.append((c_name, c1, c2, c3))
+                    j += 4
+                else:
+                    j += 1
+            if rows:
+                out_sections.append("### Exchange Rates\n")
+                out_sections.append(f"| CURRENCY PAIR | {col1} | {col2} | {col3} |")
+                out_sections.append("| :--- | :---: | :---: | :---: |")
+                for r in rows:
+                    out_sections.append(f"| {r[0]} | {r[1]} | {r[2]} | {r[3]} |")
+                out_sections.append("")
+
+        if out_sections:
+            return "\n".join(out_sections)
+
+    # 7. PAGE: Bunker Prices & Disclaimer
+    elif "Bunker Prices" in text:
+        ports = ["SINGAPORE", "HONG KONG", "FUJAIRAH", "ROTTERDAM", "HOUSTON", "GIBRALTAR", "PANAMA"]
+        headers = ["PORT", "VLSFO (0.5%)", "HSFO (3.5%)", "MGO (0.1%)"]
+        lines = [l.strip() for l in text.splitlines() if l.strip()]
+        try:
+            b_idx = [i for i, l in enumerate(lines) if "Bunker Prices" in l][0]
+            j = b_idx + 1
+        except IndexError:
+            j = 0
+        rows = []
+        while j < len(lines):
+            line = lines[j]
+            if line in ports:
+                p_name = line
+                vlsfo = lines[j+1] if j+1 < len(lines) else ""
+                hsfo = lines[j+2] if j+2 < len(lines) else ""
+                mgo = lines[j+3] if j+3 < len(lines) else ""
+                rows.append((p_name, vlsfo, hsfo, mgo))
+                j += 4
+            elif "Singapore | London" in line or (j > b_idx + 5 and "snp@" in line):
+                break
+            else:
+                j += 1
+        out = []
+        if rows:
+            out.append("### Bunker Prices (USD / ton)\n")
+            out.append("| " + " | ".join(headers) + " |")
+            out.append("| :--- | :---: | :---: | :---: |")
+            for r in rows:
+                out.append(f"| {r[0]} | {r[1]} | {r[2]} | {r[3]} |")
+            out.append("")
+        m_disc = re.search(r"(This report is performed to the best of our knowledge.*)", text, re.DOTALL)
+        if m_disc:
+            disc_clean = re.sub(r"\s+", " ", m_disc.group(1)).strip()
+            disc_clean = re.sub(r"snp@starasiasg\.com.*", "", disc_clean).strip()
+            out.append("### Disclaimer\n")
+            out.append(f"*{disc_clean}*\n")
+        return "\n".join(out)
+
     return ""
 
 
@@ -544,11 +775,29 @@ def process(pdf: Path):
     charts = chart_pages(pdf)
     with pymupdf.open(pdf) as d:
         npages = d.page_count
+    
+    # Save to root md directory
     (OUT / f"{stem}.md").write_text(md, encoding="utf-8")
     chart_file = OUT / f"{stem}.charts.json"
     if not chart_file.exists():
         chart_file.write_text(
             json.dumps(charts, indent=2, ensure_ascii=False), encoding="utf-8")
+            
+    # Also synchronize to year subdirectory if present
+    year_dir = pdf.parent.name
+    if year_dir.isdigit() and len(year_dir) == 4:
+        yd = OUT / year_dir
+        yd.mkdir(parents=True, exist_ok=True)
+        (yd / f"{stem}.md").write_text(md, encoding="utf-8")
+        yd_sidecar = yd / f"{stem}.tables.json"
+        if not yd_sidecar.exists():
+            yd_sidecar.write_text(
+                json.dumps(tables, indent=2, ensure_ascii=False), encoding="utf-8")
+        yd_chart = yd / f"{stem}.charts.json"
+        if not yd_chart.exists():
+            yd_chart.write_text(
+                json.dumps(charts, indent=2, ensure_ascii=False), encoding="utf-8")
+
     return {"pages": npages, "tables": len(tables),
             "graphic_pages": sorted(charts, key=int), "md_bytes": len(md)}
 
