@@ -1272,7 +1272,6 @@ def process_single_pdf(
 
     dest_md = dest_dir / f"{stem}.md"
     dest_md.write_text(full_text, encoding="utf-8")
-    (OUT_MD_DIR / f"{stem}.md").write_text(full_text, encoding="utf-8")
 
     return {
         "stem": stem,

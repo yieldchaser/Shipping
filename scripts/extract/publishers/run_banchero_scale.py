@@ -49,9 +49,11 @@ def parse_single_doc(stem, pdf_path, pnos):
         docs = parser.load_data(str(pdf_path))
         md_text = "\n\n".join(d.text for d in docs)
         
-        # Save both places
+        # Save to LP_DIR and year-partitioned MD_DIR
         (LP_DIR / f"{stem}.md").write_text(md_text, encoding="utf-8")
-        (MD_DIR / f"{stem}.md").write_text(md_text, encoding="utf-8")
+        yr_dir = MD_DIR / pdf_path.parent.name
+        yr_dir.mkdir(parents=True, exist_ok=True)
+        (yr_dir / f"{stem}.md").write_text(md_text, encoding="utf-8")
         secs = round(time.time() - t0, 1)
         return stem, True, len(md_text), secs, None
     except Exception as e:

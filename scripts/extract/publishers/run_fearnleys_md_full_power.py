@@ -508,12 +508,17 @@ def run_fearnleys_md_pipeline():
             "charts_count": len(figs),
             "source_markdown": md_p.name
         }
-
-        sidecar_file = OUT_MD_DIR / f"{stem}.tables.json"
+        yr = str(meta.get("year") or "2026")
+        out_year_dir = OUT_MD_DIR / yr
+        out_year_dir.mkdir(parents=True, exist_ok=True)
+        sidecar_file = out_year_dir / f"{stem}.tables.json"
         sidecar_file.write_text(json.dumps(sidecar_data, indent=2), encoding="utf-8")
+        year_md_file = out_year_dir / f"{stem}.md"
+        if not year_md_file.exists():
+            year_md_file.write_text(content, encoding="utf-8")
         all_sidecars_count += 1
 
-    print(f"Generated {all_sidecars_count} structured JSON sidecars in {OUT_MD_DIR.relative_to(ROOT)}")
+    print(f"Generated {all_sidecars_count} structured JSON sidecars in {OUT_MD_DIR.relative_to(ROOT)} year subdirectories")
 
     def write_csv(filepath, rows, fieldnames):
         if not rows:

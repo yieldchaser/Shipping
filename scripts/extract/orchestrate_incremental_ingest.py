@@ -836,7 +836,6 @@ def extract_fearnleys(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
         target_dir.mkdir(parents=True, exist_ok=True)
         md_text = "\n".join(md_lines)
         target_md.write_text(md_text, encoding="utf-8")
-        (MD_DIR / "fearnleys" / f"{stem}.md").write_text(md_text, encoding="utf-8")
 
         sidecar_payload = {
             "convention": "iso", "publisher": "Fearnleys", "issue_date": iso_date,
@@ -847,7 +846,6 @@ def extract_fearnleys(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
         }
         sidecar_str = json.dumps(sidecar_payload, indent=2, ensure_ascii=False)
         target_tables.write_text(sidecar_str, encoding="utf-8")
-        (MD_DIR / "fearnleys" / f"{stem}.tables.json").write_text(sidecar_str, encoding="utf-8")
 
     return {"stem": stem, "issue_date": iso_date, "report_week": week_num, "rates_count": len(stamped_rows), "target_md": str(target_md)}
 
@@ -1065,7 +1063,6 @@ def process_single_pdf(
             if not dry_run:
                 target_md_l.write_text(md, encoding="utf-8")
                 target_tables_l.write_text(json.dumps(sidecar, indent=2), encoding="utf-8")
-                (MD_DIR / "lion" / f"{stem}.md").write_text(md, encoding="utf-8")
             specialized_result = {"stem": stem, "pub": pub, "issue_date": iss_dt, "target_md": str(target_md_l), "specialized": True}
         except Exception as e:
             print(f"  [!] Note: specialized lion failed ({e}), falling back to universal pipeline.")
@@ -1182,11 +1179,7 @@ def process_single_pdf(
 
     # If specialized extractor already generated markdown, inject detected chart links if present
     if specialized_result:
-        flat_md_file = MD_DIR / pub / f"{stem}.md"
-        if not target_md_file.exists() and flat_md_file.exists():
-            target_md_dir.mkdir(parents=True, exist_ok=True)
-            target_md_file.write_text(flat_md_file.read_text(encoding="utf-8"), encoding="utf-8")
-        elif not target_md_file.exists() and (MD_DIR / pub).exists():
+        if not target_md_file.exists() and (MD_DIR / pub).exists():
             matches = list((MD_DIR / pub).rglob(f"{stem}.md"))
             if matches:
                 target_md_file = matches[0]

@@ -135,7 +135,6 @@ def parse_single_pdf(pdf_path):
     if lp_md_path.exists() and len(lp_md_path.read_text(encoding="utf-8")) > 5000:
         print(f"Reading cached LlamaParse output for {stem}...")
         md_text = lp_md_path.read_text(encoding="utf-8")
-        (MD_DIR / f"{stem}.md").write_text(md_text, encoding="utf-8")
         (MD_2026_DIR / f"{stem}.md").write_text(md_text, encoding="utf-8")
         return stem, pdf_path, md_text
 
@@ -153,9 +152,8 @@ def parse_single_pdf(pdf_path):
     pages = json_res[0].get('pages', []) if json_res else []
     md_text = "\n\n".join(p.get('md', '') for p in pages)
     
-    # Save md in LP_DIR, MD_DIR, and MD_2026_DIR
+    # Save md in LP_DIR and MD_2026_DIR
     (LP_DIR / f"{stem}.md").write_text(md_text, encoding="utf-8")
-    (MD_DIR / f"{stem}.md").write_text(md_text, encoding="utf-8")
     (MD_2026_DIR / f"{stem}.md").write_text(md_text, encoding="utf-8")
     
     # Save .items.json
@@ -346,7 +344,6 @@ def extract_tables_from_md(stem, pdf_path, md_text):
             'demolition': len(demo_df)
         }
     }
-    (MD_DIR / f"{stem}.tables.json").write_text(json.dumps(sidecar_data, indent=2), encoding="utf-8")
     (MD_2026_DIR / f"{stem}.tables.json").write_text(json.dumps(sidecar_data, indent=2), encoding="utf-8")
     
     return sales_recs, nb_df, demo_df

@@ -957,7 +957,7 @@ def normalize_fearnleys():
                     md_lines.append(f"| {r['label']} | {r['vessel_size']} | {format_val(r['value'])} | {format_change(r.get('change'))} |")
                 md_lines.append("")
 
-            # Write Normalized Markdown (both year-nested and flat)
+            # Write Normalized Markdown (year-nested)
             year_dir = MD_DIR / str(year)
             year_dir.mkdir(parents=True, exist_ok=True)
             nested_md = year_dir / f"{stem}.md"
@@ -965,7 +965,6 @@ def normalize_fearnleys():
             md_content = "\n".join(md_lines)
 
             nested_md.write_text(md_content, encoding="utf-8")
-            (MD_DIR / f"{stem}.md").write_text(md_content, encoding="utf-8")
 
             # Write Sidecar JSON
             sidecar_payload = {
@@ -986,7 +985,6 @@ def normalize_fearnleys():
             }
             sidecar_str = json.dumps(sidecar_payload, indent=2, ensure_ascii=False)
             nested_tables.write_text(sidecar_str, encoding="utf-8")
-            (MD_DIR / f"{stem}.tables.json").write_text(sidecar_str, encoding="utf-8")
 
             normalized_count += 1
             if idx % 25 == 0 or idx == len(all_pdfs):

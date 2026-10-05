@@ -198,7 +198,7 @@ def test_museum_prose_count_no_contradiction():
     # Assert museum subtitle uses dynamic total count or uncontradicted prose
     assert 'id="fearnMusSubtitle"' in html
     # Assert tooltip defines showing, registered, and LIVE
-    mus_header = html[html.find('id="fearnMusTitle"'):html.find('id="fearnMusTitle"') + 600]
+    mus_header = html[html.find('id="fearnMusSectionTitle"'):html.find('id="fearnMusSectionTitle"') + 600]
     assert "'Showing' is the count" in mus_header
     assert "'Registered' is the total" in mus_header
     assert "'LIVE' indicates" in mus_header

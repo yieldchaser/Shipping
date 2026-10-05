@@ -1,14 +1,26 @@
 """
 export_broker_voice_to_corpus.py
-Exports Fearnleys weekly desk comments from data/derived/fearnleys_broker_comments.csv
-into individual, clean, structured Markdown files in corpus/01-brokers/fearnleys/voice/<desk>/<year>/<date>_<slug>.md
+================================
+Exports Fearnleys historical and live weekly desk comments from
+data/derived/fearnleys_broker_comments.csv into clean, structured,
+canonical Markdown files with full YAML frontmatter.
+
+Export Locations:
+1. corpus/01-brokers/fearnleys/voice/<sector>/<desk>/<year>/<date>_<desk>_<id>.md
+2. data/extracted/md/fearnleys/voice/<sector>/<desk>/<year>/<date>_<desk>_<id>.md
+
+Sectors & Desks Covered (100% of 11,750+ records):
+- tankers: VLCC, Suezmax, Aframax, Tanker Activity, WAFR/UKC, WAFR/USG, CROSS MED, MEG/EAST, BITR-1, BITR-2, BITR-3, BOT/WEST, CEYHAN/USG, BLSEA/MED
+- dry_bulk: Capesize, Panamax, Supramax, Dry Bulk Activity, Container Activity
+- chartering: Period Chartering Weekly Comments
+- gas: LNG Market Report, Gas Market Report, LPG Eastern, LPG Western, LPG MEG, LPG FE, LPG Americas, Daily BLPG, LNG/LPG Activity
+- snp: Sale & Purchase Weekly Comments, Newbuilding Activity
 
 Features:
-- Segregated folder-wise by desk and publication year.
-- Full YAML frontmatter with desk, date, year, week, comment type, and unique record ID.
-- Clean text formatting: normalizes smart quotes, dashes, whitespace, and paragraph breaks.
-- Incremental and idempotent (skips unchanged files).
-- Callable from CLI or imported directly into daily_fearnleys_sync.py.
+- Full YAML frontmatter (id, source, desk, sector, comment_type, comment_subtype, date, year, week, title).
+- Clean text formatting: normalizes smart quotes, typography, whitespace, and subheaders.
+- Incremental and idempotent with manifest tracking for sub-second delta updates.
+- Integrated into daily_fearnleys_sync.py and run_master_pipeline.py.
 """
 
 import os
@@ -22,73 +34,110 @@ from typing import Dict, Any, Optional, Tuple, List
 BASE_DIR = Path(__file__).resolve().parents[2]
 DERIVED_CSV = BASE_DIR / "data" / "derived" / "fearnleys_broker_comments.csv"
 VOICE_CORPUS_ROOT = BASE_DIR / "corpus" / "01-brokers" / "fearnleys" / "voice"
+VOICE_MD_ROOT = BASE_DIR / "data" / "extracted" / "md" / "fearnleys" / "voice"
 
-# Desk mapping for weekly desk commentary
+# 100% mapping of all distinct comment types across Fearnleys Hasura database
 DESK_MAPPING = {
-    "Capesize Weekly Comment": {
-        "desk": "Capesize",
-        "slug": "capesize",
-        "sector": "Dry Bulk"
-    },
-    "Panamax Weekly Comment": {
-        "desk": "Panamax",
-        "slug": "panamax",
-        "sector": "Dry Bulk"
-    },
-    "Supramax Weekly Comment": {
-        "desk": "Supramax",
-        "slug": "supramax",
-        "sector": "Dry Bulk"
-    },
+    # Tankers
     "VLCC Weekly Comment": {
-        "desk": "VLCC",
-        "slug": "vlcc",
-        "sector": "Crude Tankers"
+        "sector": "tankers", "sector_title": "Crude Tankers", "slug": "vlcc", "desk": "VLCC"
     },
     "Suezmax Weekly Comment": {
-        "desk": "Suezmax",
-        "slug": "suezmax",
-        "sector": "Crude Tankers"
+        "sector": "tankers", "sector_title": "Crude Tankers", "slug": "suezmax", "desk": "Suezmax"
     },
     "Aframax Weekly Comment": {
-        "desk": "Aframax",
-        "slug": "aframax",
-        "sector": "Crude Tankers"
+        "sector": "tankers", "sector_title": "Crude Tankers", "slug": "aframax", "desk": "Aframax"
     },
-    "LNG Market Report": {
-        "desk": "LNG",
-        "slug": "lng",
-        "sector": "Gas Carriers"
+    "Tank Activity": {
+        "sector": "tankers", "sector_title": "Tanker Activity", "slug": "tank_activity", "desk": "Tanker Activity"
     },
-    "Gas Market Weekly Comment - Eastern Market": {
-        "desk": "LPG Eastern",
-        "slug": "lpg_eastern",
-        "sector": "Gas Carriers"
+    "WAFR/UKC": {
+        "sector": "tankers", "sector_title": "Tanker Route Trends", "slug": "routes_wafr_ukc", "desk": "WAFR/UKC"
     },
-    "Gas Market Weekly Comment - Western Market": {
-        "desk": "LPG Western",
-        "slug": "lpg_western",
-        "sector": "Gas Carriers"
+    "WAFR/USG": {
+        "sector": "tankers", "sector_title": "Tanker Route Trends", "slug": "routes_wafr_usg", "desk": "WAFR/USG"
     },
-    "SnP Weekly Comment": {
-        "desk": "S&P",
-        "slug": "snp",
-        "sector": "Sale & Purchase"
+    "CROSS MED": {
+        "sector": "tankers", "sector_title": "Tanker Route Trends", "slug": "routes_cross_med", "desk": "CROSS MED"
     },
+    "MEG/EAST": {
+        "sector": "tankers", "sector_title": "Tanker Route Trends", "slug": "routes_meg_east", "desk": "MEG/EAST"
+    },
+    "BITR-1": {
+        "sector": "tankers", "sector_title": "Tanker Route Trends", "slug": "routes_bitr_1", "desk": "BITR-1"
+    },
+    "BITR-2": {
+        "sector": "tankers", "sector_title": "Tanker Route Trends", "slug": "routes_bitr_2", "desk": "BITR-2"
+    },
+    "BITR-3": {
+        "sector": "tankers", "sector_title": "Tanker Route Trends", "slug": "routes_bitr_3", "desk": "BITR-3"
+    },
+    "BOT/WEST": {
+        "sector": "tankers", "sector_title": "Tanker Route Trends", "slug": "routes_bot_west", "desk": "BOT/WEST"
+    },
+    "CEYHAN/USG": {
+        "sector": "tankers", "sector_title": "Tanker Route Trends", "slug": "routes_ceyhan_usg", "desk": "CEYHAN/USG"
+    },
+    "BLSEA/MED": {
+        "sector": "tankers", "sector_title": "Tanker Route Trends", "slug": "routes_blsea_med", "desk": "BLSEA/MED"
+    },
+    # Dry Bulk
+    "Capesize Weekly Comment": {
+        "sector": "dry_bulk", "sector_title": "Dry Bulk", "slug": "capesize", "desk": "Capesize"
+    },
+    "Panamax Weekly Comment": {
+        "sector": "dry_bulk", "sector_title": "Dry Bulk", "slug": "panamax", "desk": "Panamax"
+    },
+    "Supramax Weekly Comment": {
+        "sector": "dry_bulk", "sector_title": "Dry Bulk", "slug": "supramax", "desk": "Supramax"
+    },
+    "Dry Bulk Activity": {
+        "sector": "dry_bulk", "sector_title": "Dry Bulk Activity", "slug": "dry_bulk_activity", "desk": "Dry Bulk Activity"
+    },
+    "Container Activity": {
+        "sector": "dry_bulk", "sector_title": "Container Activity", "slug": "container_activity", "desk": "Container Activity"
+    },
+    # Period Chartering
     "Chartering Weekly Comment": {
-        "desk": "Chartering",
-        "slug": "chartering",
-        "sector": "Period Chartering"
+        "sector": "chartering", "sector_title": "Period Chartering", "slug": "chartering", "desk": "Period Chartering"
+    },
+    # Gas Carriers
+    "LNG Market Report": {
+        "sector": "gas", "sector_title": "Gas Carriers", "slug": "lng", "desk": "LNG"
     },
     "Gas Market Report": {
-        "desk": "Gas",
-        "slug": "gas",
-        "sector": "Gas Carriers"
+        "sector": "gas", "sector_title": "Gas Carriers", "slug": "gas_general", "desk": "Gas Market"
+    },
+    "Gas Market Weekly Comment - Eastern Market": {
+        "sector": "gas", "sector_title": "Gas Carriers", "slug": "lpg_eastern", "desk": "LPG Eastern"
+    },
+    "Gas Market Weekly Comment - Western Market": {
+        "sector": "gas", "sector_title": "Gas Carriers", "slug": "lpg_western", "desk": "LPG Western"
+    },
+    "Gas Market Weekly Comment - MEG": {
+        "sector": "gas", "sector_title": "Gas Carriers", "slug": "lpg_meg", "desk": "LPG MEG"
+    },
+    "Gas Market Weekly Comment - FE": {
+        "sector": "gas", "sector_title": "Gas Carriers", "slug": "lpg_fe", "desk": "LPG Far East"
+    },
+    "Gas Market Weekly Comment - Americas": {
+        "sector": "gas", "sector_title": "Gas Carriers", "slug": "lpg_americas", "desk": "LPG Americas"
     },
     "Daily BLPG Report": {
-        "desk": "BLPG",
-        "slug": "blpg",
-        "sector": "Gas Carriers"
+        "sector": "gas", "sector_title": "Gas Carriers", "slug": "blpg", "desk": "Daily BLPG"
+    },
+    "LNG Activity": {
+        "sector": "gas", "sector_title": "Gas Carriers", "slug": "lng_activity", "desk": "LNG Activity"
+    },
+    "LPG Activity": {
+        "sector": "gas", "sector_title": "Gas Carriers", "slug": "lpg_activity", "desk": "LPG Activity"
+    },
+    # Sale & Purchase
+    "SnP Weekly Comment": {
+        "sector": "snp", "sector_title": "Sale & Purchase", "slug": "snp", "desk": "Sale & Purchase"
+    },
+    "Other Activity": {
+        "sector": "snp", "sector_title": "Sale & Purchase", "slug": "newbuilding", "desk": "Newbuilding Activity"
     }
 }
 
@@ -99,8 +148,6 @@ def clean_text_for_markdown(raw_text: str) -> str:
         return ""
 
     text = raw_text.strip()
-    
-    # Replace common unicode replacement characters or garbled entities
     text = text.replace("\ufffd", " - ")
     text = text.replace("&amp;", "&")
     text = text.replace("&lt;", "<")
@@ -108,31 +155,23 @@ def clean_text_for_markdown(raw_text: str) -> str:
     text = text.replace("&quot;", '"')
     text = text.replace("&#39;", "'")
 
-    # If text already has newline breaks, preserve them
     if "\n" in text:
         paragraphs = [p.strip() for p in text.split("\n") if p.strip()]
         return "\n\n".join(paragraphs)
 
-    # In flattened text from CSV, detect section subheaders like "North Sea", "US Gulf", "Meg", etc.
-    # Look for capitalized sub-headers followed by capital letters or sentence starts
     subheaders = [
         "North Sea", "NSEA", "Baltic", "Med", "Black Sea", "West Africa", "WAFR",
         "US Gulf", "USG", "Caribs", "MEG", "East of Suez", "Pacific", "Atlantic",
         "Continent", "Far East", "SPORE", "UKC"
     ]
     for sh in subheaders:
-        # Match pattern where subheader appears mid-text without leading period
         pattern = re.compile(rf'(?<=[.!?])\s+({re.escape(sh)}\b)', re.IGNORECASE)
         text = pattern.sub(r'\n\n**\1**\n\n', text)
-        
         pattern_colon = re.compile(rf'\b({re.escape(sh)}:)', re.IGNORECASE)
         text = pattern_colon.sub(r'\n\n**\1**', text)
 
-    # Clean double spaces
     text = re.sub(r' {2,}', ' ', text)
-    # Clean excessive newlines
     text = re.sub(r'\n{3,}', '\n\n', text)
-
     return text.strip()
 
 
@@ -143,15 +182,16 @@ def export_comment_to_md(
     comment_subtype: str,
     raw_text: str,
     overwrite: bool = False
-) -> Optional[Path]:
-    """Formats and writes a single comment to its destination markdown file."""
+) -> Tuple[Optional[Path], Optional[Path]]:
+    """Formats and writes a single comment to both corpus and data/extracted/md locations."""
     if comment_type not in DESK_MAPPING:
-        return None
+        return None, None
 
     mapping = DESK_MAPPING[comment_type]
+    sector_slug = mapping["sector"]
+    sector_title = mapping["sector_title"]
     desk_name = mapping["desk"]
     desk_slug = mapping["slug"]
-    sector_name = mapping["sector"]
 
     # Parse date to derive year and ISO week
     try:
@@ -161,48 +201,42 @@ def export_comment_to_md(
     except Exception:
         year_str = "unknown"
         week_num = 0
+        dt = None
 
-    dest_dir = VOICE_CORPUS_ROOT / desk_slug / year_str
-    dest_dir.mkdir(parents=True, exist_ok=True)
+    # File stem: <date>_<desk_slug>_<short_id>
+    short_id = str(comment_id).replace("-", "")[:8]
+    file_stem = f"{comment_date[:10]}_{desk_slug}_{short_id}.md"
 
-    # File naming: <date>_<desk_slug>.md (or with short ID suffix if needed)
-    base_stem = f"{comment_date[:10]}_{desk_slug}_weekly_comment"
-    dest_file = dest_dir / f"{base_stem}.md"
+    # Targets
+    corpus_dir = VOICE_CORPUS_ROOT / desk_slug / year_str
+    md_dir = VOICE_MD_ROOT / sector_slug / desk_slug / year_str
 
-    # If file exists with different ID, append short hash to avoid collision
-    if dest_file.exists() and not overwrite:
-        try:
-            with open(dest_file, "r", encoding="utf-8") as existing:
-                content = existing.read()
-                if f'id: "{comment_id}"' in content or f"id: '{comment_id}'" in content:
-                    return dest_file  # Already written with identical ID
-        except Exception:
-            pass
-        # Collision with distinct comment: append short ID
-        short_id = str(comment_id).replace("-", "")[:8]
-        dest_file = dest_dir / f"{base_stem}_{short_id}.md"
-        if dest_file.exists() and not overwrite:
-            return dest_file
+    corpus_file = corpus_dir / file_stem
+    extracted_file = md_dir / file_stem
+
+    if corpus_file.exists() and extracted_file.exists() and not overwrite:
+        return corpus_file, extracted_file
 
     body_text = clean_text_for_markdown(raw_text)
 
     md_content = f"""---
 id: "{comment_id}"
 source: "Fearnleys"
+sector: "{sector_title}"
 desk: "{desk_name}"
-sector: "{sector_name}"
 comment_type: "{comment_type}"
 comment_subtype: "{comment_subtype}"
 date: "{comment_date[:10]}"
-year: {dt.year if year_str != 'unknown' else 'null'}
+year: {dt.year if dt else 'null'}
 week: {week_num}
-title: "Fearnleys {desk_name} Weekly Comment - {comment_date[:10]}"
+title: "Fearnleys {desk_name} Comment - {comment_date[:10]}"
 ---
 
-# Fearnleys {desk_name} Weekly Comment ({comment_date[:10]})
+# Fearnleys {desk_name} Comment ({comment_date[:10]})
 
 - **Source:** Fearnleys Shipbrokers (Hasura API)
-- **Desk:** {desk_name} ({sector_name})
+- **Sector:** {sector_title}
+- **Desk:** {desk_name}
 - **Publication Date:** {comment_date[:10]} (Week {week_num})
 - **Comment Type:** {comment_type}
 - **Record ID:** `{comment_id}`
@@ -214,13 +248,19 @@ title: "Fearnleys {desk_name} Weekly Comment - {comment_date[:10]}"
 {body_text}
 """
 
-    with open(dest_file, "w", encoding="utf-8") as f:
+    corpus_dir.mkdir(parents=True, exist_ok=True)
+    md_dir.mkdir(parents=True, exist_ok=True)
+
+    with open(corpus_file, "w", encoding="utf-8") as f:
         f.write(md_content)
 
-    return dest_file
+    with open(extracted_file, "w", encoding="utf-8") as f:
+        f.write(md_content)
+
+    return corpus_file, extracted_file
 
 
-MANIFEST_PATH = VOICE_CORPUS_ROOT / ".voice_manifest.json"
+MANIFEST_PATH = VOICE_CORPUS_ROOT / ".voice_full_manifest.json"
 
 
 def load_manifest() -> set:
@@ -230,20 +270,7 @@ def load_manifest() -> set:
                 return set(json.load(f))
         except Exception:
             pass
-    # Scan existing files once to initialize
-    seen = set()
-    if VOICE_CORPUS_ROOT.exists():
-        for p in VOICE_CORPUS_ROOT.rglob("*.md"):
-            try:
-                with open(p, "r", encoding="utf-8") as f:
-                    head = f.read(400)
-                    m = re.search(r'id:\s*["\']([^"\']+)["\']', head)
-                    if m:
-                        seen.add(m.group(1))
-            except Exception:
-                pass
-    save_manifest(seen)
-    return seen
+    return set()
 
 
 def save_manifest(ids: set):
@@ -256,7 +283,7 @@ def save_manifest(ids: set):
 
 
 def export_all_voice_comments(overwrite: bool = False) -> Dict[str, Any]:
-    """Processes all weekly desk comments from CSV into corpus markdown files."""
+    """Processes all historical & delta weekly desk comments into structured markdown."""
     if not DERIVED_CSV.exists():
         raise FileNotFoundError(f"Missing comments CSV at {DERIVED_CSV}")
 
@@ -264,8 +291,9 @@ def export_all_voice_comments(overwrite: bool = False) -> Dict[str, Any]:
 
     stats = {
         "total_read": 0,
-        "matched_desk_comments": 0,
+        "matched_comments": 0,
         "written": 0,
+        "by_sector": {},
         "by_desk": {},
         "by_year": {}
     }
@@ -278,22 +306,25 @@ def export_all_voice_comments(overwrite: bool = False) -> Dict[str, Any]:
             stats["total_read"] += 1
             c_type = (row.get("comment_type") or "").strip()
             if c_type in DESK_MAPPING:
-                stats["matched_desk_comments"] += 1
+                stats["matched_comments"] += 1
                 c_id = str(row.get("id") or "").strip()
                 c_date = str(row.get("date") or "").strip()
                 c_subtype = str(row.get("comment_subtype") or "").strip()
                 c_text = str(row.get("text") or "").strip()
 
-                desk = DESK_MAPPING[c_type]["desk"]
+                meta = DESK_MAPPING[c_type]
+                sec = meta["sector"]
+                desk = meta["desk"]
                 yr = c_date[:4] if len(c_date) >= 4 else "unknown"
 
                 if c_id in manifest and not overwrite:
                     stats["written"] += 1
+                    stats["by_sector"][sec] = stats["by_sector"].get(sec, 0) + 1
                     stats["by_desk"][desk] = stats["by_desk"].get(desk, 0) + 1
                     stats["by_year"][yr] = stats["by_year"].get(yr, 0) + 1
                     continue
 
-                out_file = export_comment_to_md(
+                c_out, md_out = export_comment_to_md(
                     comment_id=c_id,
                     comment_date=c_date,
                     comment_type=c_type,
@@ -301,14 +332,15 @@ def export_all_voice_comments(overwrite: bool = False) -> Dict[str, Any]:
                     raw_text=c_text,
                     overwrite=overwrite
                 )
-                if out_file:
+                if c_out and md_out:
                     stats["written"] += 1
                     manifest.add(c_id)
                     newly_added = True
+                    stats["by_sector"][sec] = stats["by_sector"].get(sec, 0) + 1
                     stats["by_desk"][desk] = stats["by_desk"].get(desk, 0) + 1
                     stats["by_year"][yr] = stats["by_year"].get(yr, 0) + 1
 
-    if newly_added:
+    if newly_added or overwrite:
         save_manifest(manifest)
 
     return stats
@@ -316,15 +348,15 @@ def export_all_voice_comments(overwrite: bool = False) -> Dict[str, Any]:
 
 def main():
     print("=" * 80)
-    print("EXPORTING FEARNLEYS BROKER VOICE DESK COMMENTS TO CORPUS DIRECTORY")
+    print("EXPORTING FEARNLEYS BROKER VOICE DESK COMMENTS ACROSS ALL SECTORS & ERAS")
     print("=" * 80)
     stats = export_all_voice_comments(overwrite=False)
     print(f"Total rows read: {stats['total_read']}")
-    print(f"Weekly desk comments matched: {stats['matched_desk_comments']}")
-    print(f"Files written/verified in corpus: {stats['written']}")
-    print("\nBreakdown by Desk:")
-    for desk, cnt in sorted(stats["by_desk"].items()):
-        print(f"  - {desk:15s}: {cnt:5d} markdown files")
+    print(f"Comments matched: {stats['matched_comments']}")
+    print(f"Files written/verified in corpus & md: {stats['written']}")
+    print("\nBreakdown by Sector:")
+    for sec, cnt in sorted(stats["by_sector"].items()):
+        print(f"  - {sec:15s}: {cnt:5d} markdown files")
     print("\nBreakdown by Year:")
     for yr, cnt in sorted(stats["by_year"].items()):
         print(f"  - {yr:4s}: {cnt:5d} markdown files")

@@ -930,7 +930,7 @@ def extract_structured_tables_from_md(
             # (9 rows); 4 all-empty section rows ("Capesize | | | ...") were emitted as
             # assessments; and 2026_W19's table has no Tenor column at all, so a positional
             # read shifted every value one place.
-            elif "FFA" in ctx or "PREMIUM" in header_str:
+            elif "FFA" in ctx or "premium" in header_str:
                 if os.environ.get("BC_DUMP_FFA"):
                     with open(os.environ["BC_DUMP_FFA"], "a", encoding="utf-8") as _f:
                         _f.write(json.dumps({"doc": source_file, "ctx": ctx, "hdr": header_str, "rows": len(rows), "row0": (rows[0] if rows else None)}) + chr(10))
@@ -945,13 +945,21 @@ def extract_structured_tables_from_md(
                 # not a tenor - read it that way instead of shifting the row left.
                 _no_tenor_col = _h0 == "currency" and "premium" in header_str and "unit" not in header_str
 
+                # Read the class from the DEEPEST heading that names one, not by a
+                # fixed priority: the W39 layout puts the Supramax/Handysize FFA panels
+                # under an H1 "SUPRAMAX FORWARD CURVE (USD/DAY)" with the real class in
+                # H2 ("HANDYSIZE (38K)"), so a whole-ctx "SUPRAMAX" test mislabelled the
+                # Handysize panel. Scan h1/h2/h3 from the deepest outward.
                 v_class = "Capesize"
-                if "PANAMAX" in ctx:
-                    v_class = "Panamax"
-                elif "SUPRAMAX" in ctx:
-                    v_class = "Supramax"
-                elif "HANDY" in ctx:
-                    v_class = "Handysize"
+                for _seg in reversed([x for x in ctx.split("/") if x.strip()]):
+                    if "PANAMAX" in _seg:
+                        v_class = "Panamax"; break
+                    if "SUPRAMAX" in _seg:
+                        v_class = "Supramax"; break
+                    if "HANDY" in _seg:
+                        v_class = "Handysize"; break
+                    if "CAPESIZE" in _seg:
+                        v_class = "Capesize"; break
 
                 if _is_fx:
                     # Exchange-rate table that shares the FFA heading -> its own tier
