@@ -1390,6 +1390,7 @@ def refresh_registry_data(today: date) -> None:
             pdf_cnt = 0
             html_cnt = 0
             img_cnt = 0
+            corpus_md_cnt = 0
             total_cnt = 0
             for root, dirs, files in os.walk(c_folder):
                 for fname in files:
@@ -1403,6 +1404,8 @@ def refresh_registry_data(today: date) -> None:
                         html_cnt += 1
                     elif lower.endswith((".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg")):
                         img_cnt += 1
+                    elif lower.endswith(".md"):
+                        corpus_md_cnt += 1
 
                     d = parse_date_from_filename(fname)
                     if d and (best_date is None or d > best_date):
@@ -1412,6 +1415,7 @@ def refresh_registry_data(today: date) -> None:
             item["pdf_count"] = pdf_cnt
             item["html_count"] = html_cnt
             item["image_count"] = img_cnt
+            item["corpus_md_count"] = corpus_md_cnt
             item["total_files"] = total_cnt
 
         # 2. Single-pass traversal of markdown folder
@@ -1429,13 +1433,7 @@ def refresh_registry_data(today: date) -> None:
                         best_file = fname
             item["md_count"] = md_cnt
         elif c_folder.exists():
-            md_cnt = 0
-            for root, dirs, files in os.walk(c_folder):
-                for fname in files:
-                    if not fname.startswith(".") and fname.lower().endswith(".md"):
-                        md_cnt += 1
-            if md_cnt > 0:
-                item["md_count"] = md_cnt
+            item["md_count"] = item.get("corpus_md_count", 0)
 
         if best_date:
             init_date = None
@@ -1495,7 +1493,8 @@ def generate_markdown_audit():
     total_pdfs = sum(item["pdf_count"] for item in REGISTRY_DATA) + 12
     total_html = sum(item["html_count"] for item in REGISTRY_DATA)
     total_imgs = sum(item["image_count"] for item in REGISTRY_DATA)
-    total_mds = sum(item["md_count"] for item in REGISTRY_DATA) + 12
+    total_corpus_mds = sum(item.get("corpus_md_count", 0) for item in REGISTRY_DATA) + 12
+    total_extracted_mds = sum(item["md_count"] for item in REGISTRY_DATA) + 12
     total_assets = sum(item["total_files"] for item in REGISTRY_DATA) + 24
     current_count = sum(1 for item in REGISTRY_DATA if item["days_ago"] <= 7)
 
@@ -1509,11 +1508,12 @@ def generate_markdown_audit():
         "",
         "## 1. Executive Summary & Fleet Publication Status",
         "",
-        f"- **Total Corpus Assets Cataloged:** Over {total_assets:,} documents across 31 discrete publishers and categories.",
-        f"- **Active Document Formats:** {total_pdfs:,} PDFs, {total_html:,} HTML files, {total_imgs:,} JPG/PNG images, {total_mds:,} Markdown files.",
+        f"- **Total Raw Corpus Assets Cataloged:** Over {total_assets:,} documents across 31 discrete publishers and categories in `corpus/`.",
+        f"- **Raw Ingested Formats in Corpus:** {total_pdfs:,} PDFs, {total_html:,} HTML files, {total_imgs:,} JPG/PNG images, {total_corpus_mds:,} Native Markdown files.",
+        f"- **Normalized Extracted Markdown Dossiers:** Over {total_extracted_mds:,} cover-to-cover Markdown files in `data/extracted/md/` (accompanied by structured `.tables.json` sidecars and 98+ stacked relational CSV series).",
         f"- **Status as of {today_str}:**",
         f"  - **Current & Up to Date (<= 7 days ago):** {current_count} publishers/categories have their latest reports and filings fully digested.",
-        "  - **Week 40 Comprehensive Ingest:** Clarksons Hellas, Lion Shipbrokers, Agora Shipbroking, Advanced Shipping, Affinity Tankers, GMS Demolition, Best Oasis, Fearnleys Weekly, and Fearnleys Broker Voice (4,744 weekly desk comment files) have been harvested, parsed, and stacked into production series.",
+        "  - **Week 40 Comprehensive Ingest:** Clarksons Hellas, Lion Shipbrokers, Agora Shipbroking, Advanced Shipping, Affinity Tankers, GMS Demolition, Best Oasis, Fearnleys Weekly, and Fearnleys Broker Voice (4,742 weekly desk comment files) have been harvested, parsed, and stacked into production series.",
         "  - **Reference Literature:** 12 foundational maritime textbooks and handbooks fully normalized and audited with 100% byte parity in `corpus/books/` and `knowledge/docs/books/`.",
         "  - **Normal Interval / Monthly Reporting Lag:** Seabrokers, PPA, and Drewry AIS operate on 30-to-60 day reporting cycles where August figures are published in late September or early October.",
         "  - **Chinese National Day Notice:** Hellenic Iron Ore (MMI Daily) spot updates pause during China's Golden Week (October 1 to October 7).",
@@ -1522,12 +1522,21 @@ def generate_markdown_audit():
         "",
         "## 2. Master Publisher Cadence & Inventory Matrix",
         "",
-        f"| Publisher / Source | Cadence | Latest Issue Date | Days Elapsed | Status ({today_str}) | Formats in Corpus | Extracted MD Path | Vector Charts Extracted | Primary Master Series CSV |",
+        f"| Publisher / Source | Cadence | Latest Issue Date | Days Elapsed | Status ({today_str}) | Raw Ingested Format (Corpus) | Extracted MD Path (data/extracted/md/) | Vector Charts Extracted | Primary Master Series CSV |",
         "| :--- | :---: | :---: | :---: | :---: | :--- | :--- | :--- | :--- |"
     ]
 
     for item in REGISTRY_DATA:
-        formats_str = f"{item['pdf_count']} PDF, {item['html_count']} HTML, {item['image_count']} IMG"
+        parts = []
+        if item.get("pdf_count", 0) > 0:
+            parts.append(f"{item['pdf_count']:,} PDF")
+        if item.get("html_count", 0) > 0:
+            parts.append(f"{item['html_count']:,} HTML")
+        if item.get("image_count", 0) > 0:
+            parts.append(f"{item['image_count']:,} IMG")
+        if item.get("corpus_md_count", 0) > 0:
+            parts.append(f"{item['corpus_md_count']:,} MD")
+        formats_str = ", ".join(parts) if parts else "0 files"
         first_csv_parts = re.split(r",\s*(?=[a-zA-Z0-9_\-]+\.(?:csv|xlsx)|Direct)", item["series_csvs"])
         first_csv = first_csv_parts[0] if first_csv_parts else item["series_csvs"]
         md_lines.append(
@@ -1655,16 +1664,34 @@ def generate_markdown_audit():
 
     for item in REGISTRY_DATA:
         c_sample, md_sample = get_sample_links(item["folder"], item["md_dir"])
+        c_inv_parts = []
+        if item.get("pdf_count", 0) > 0:
+            c_inv_parts.append(f"{item['pdf_count']:,} PDFs")
+        if item.get("html_count", 0) > 0:
+            c_inv_parts.append(f"{item['html_count']:,} HTML files")
+        if item.get("image_count", 0) > 0:
+            c_inv_parts.append(f"{item['image_count']:,} Images")
+        if item.get("corpus_md_count", 0) > 0:
+            c_inv_parts.append(f"{item['corpus_md_count']:,} Native Markdown files")
+        c_inv_str = ", ".join(c_inv_parts) if c_inv_parts else "0 files"
+
+        md_dossiers_str = f"{item['md_count']:,} Markdown files"
+        if (ROOT / item["md_dir"]).exists():
+            tables_count = len(list((ROOT / item["md_dir"]).rglob("*.tables.json")))
+            if tables_count > 0:
+                md_dossiers_str += f" + {tables_count:,} .tables.json sidecars"
+
         md_lines.extend([
             f"### {item['publisher']}",
-            f"- **Corpus Directory:** [`{item['folder']}`](file:///{str(ROOT / item['folder']).replace(chr(92), '/')})",
-            f"- **Markdown Output:** [`{item['md_dir']}`](file:///{str(ROOT / item['md_dir']).replace(chr(92), '/')})",
+            f"- **Corpus Directory (Raw Source):** [`{item['folder']}`](file:///{str(ROOT / item['folder']).replace(chr(92), '/')})",
+            f"- **Extracted Markdown Path (Normalized Dossiers):** [`{item['md_dir']}`](file:///{str(ROOT / item['md_dir']).replace(chr(92), '/')})",
             f"- **Publication Cadence:** {item['cadence']} (Expected day: {item['pub_day']})",
             f"- **Coverage Span:** `{item['earliest_date']}` to `{item['latest_date']}`",
             f"- **Latest Ingested Document:** `{item['latest_report']}` (Status: **{item['status']}**)",
             f"- **Sample Ingested Report (Corpus):** {c_sample}",
             f"- **Sample Extracted Markdown (Digest):** {md_sample}",
-            f"- **Inventory by Format:** {item['pdf_count']} PDFs, {item['html_count']} HTML files, {item['image_count']} Images, {item['md_count']} Markdown files",
+            f"- **Raw Corpus Inventory:** {c_inv_str}",
+            f"- **Extracted Markdown Dossiers:** {md_dossiers_str}",
             f"- **Chart Extraction:** {item['charts_extracted']}",
             f"- **Chart Engine / Technique:** {item['chart_engine']}",
             f"- **Stacked Series CSVs:** {format_series_csv_links(item['series_csvs'])}",
@@ -1907,7 +1934,7 @@ def generate_excel_audit():
     headers = [
         "Category ID", "Publisher / Source", "Corpus Folder", "Extracted MD Folder",
         "Cadence", "Pub Day", "Earliest Date", "Latest Date", "Days Ago",
-        f"Status ({today_str})", "PDFs", "HTML", "Images", "Markdown", "Total Files",
+        f"Status ({today_str})", "PDFs (Corpus)", "HTML (Corpus)", "Images (Corpus)", "Native MD (Corpus)", "Extracted MD (data/extracted)", "Total Corpus Files",
         "Charts Extracted", "Chart Engine", "Master Series CSVs", "Primary Script", "Notes"
     ]
 
@@ -1933,6 +1960,7 @@ def generate_excel_audit():
             item["pdf_count"],
             item["html_count"],
             item["image_count"],
+            item.get("corpus_md_count", 0),
             item["md_count"],
             item["total_files"],
             item["charts_extracted"],
