@@ -87,6 +87,34 @@ def clean_text(s: Any) -> str:
     return re.sub(r"\s+", " ", str(s or "")).strip()
 
 
+def parse_price_mill(val: Any) -> Optional[float]:
+    """Parse the S&P PRICE column into USD millions.
+
+    The column's UNIT is not stable across the publisher's eras, and the two
+    conventions are opposites -- parse_numeric() strips the comma either way and
+    so silently produced a 1000x / 1e6x error:
+      * 2026 era prints full US dollars with thousands separators:
+        '38,000,000' == 38.0 million (verified on the rendered W39-2026 page: it is
+        the same GCL HAZIRA sale xclusiv reports as 'USD 38 mills');
+      * 2023-2025 era prints millions with a European decimal comma:
+        '11,80' == 11.8 million (verified on the rendered W46-2023 page).
+    Derive the convention from the token's SHAPE rather than assuming one era's
+    rule holds for another. The price token may carry words around it
+    ('HIGH 14,000,000', '42,800,000 EN BLOC', '225 EACH'), so match the number
+    anywhere in the token. Character classes are used instead of backslash
+    shorthands so the pattern survives being written through shell heredocs.
+    """
+    if val is None:
+        return None
+    s = str(val).replace("$", "").strip()
+    m = re.search(r"(?<![0-9])[0-9]{1,3}(?:,[0-9]{3})+(?![0-9])", s)  # US thousands -> dollars
+    if m:
+        return float(m.group(0).replace(",", "")) / 1_000_000.0
+    m = re.search(r"(?<![0-9])[0-9]{1,3},[0-9]{1,2}(?![0-9])", s)      # EU decimal -> millions
+    if m:
+        return float(m.group(0).replace(",", "."))
+    return parse_numeric(s)
+
 def parse_numeric(val: Any) -> Optional[float]:
     if val is None:
         return None
@@ -307,7 +335,7 @@ def extract_sp_section_rows(
         buyers_str = clean_text(" ".join(w[2] for w in sorted(v["buyers_words"], key=lambda x: (round(x[0], 1), x[1]))))
         comm_str = clean_text(" ".join(w[2] for w in sorted(v["comm_words"], key=lambda x: (round(x[0], 1), x[1]))))
 
-        price_num = parse_numeric(price_str)
+        price_num = parse_price_mill(price_str)
         results.append({
             "issue_date": issue_date,
             "report_week": report_week,
