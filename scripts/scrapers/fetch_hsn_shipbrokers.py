@@ -222,6 +222,16 @@ raw_pdf_path: "{local_pdf_path}"
         with open(out_file, "w", encoding="utf-8", newline="\n") as f:
             f.write(md_content)
         
+        # Mirror to reports/broker_reports/<year>/<broker>/ for knowledge base explorer
+        try:
+            kb_dir = REPO_ROOT / "reports" / "broker_reports" / year / broker
+            kb_dir.mkdir(parents=True, exist_ok=True)
+            kb_file = kb_dir / f"{slug}.md"
+            with open(kb_file, "w", encoding="utf-8", newline="\n") as f:
+                f.write(md_content)
+        except Exception:
+            pass
+        
         return True, out_file
     except Exception as e:
         print(f"  [!] Error processing article {article_url}: {e}")

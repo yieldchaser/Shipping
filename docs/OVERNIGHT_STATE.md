@@ -1,3 +1,18 @@
+**THIS RUN (2026-10-05 19:2x, source-by-source, 30m job) - THE APP-VISIBLE KNOWLEDGE (QA) TIER HAS BEEN FROZEN 6 DAYS; ROOT-CAUSED TO A CI GUARDRAIL AND FIXED (tested). Evidence `docs/knowledge_pipeline_stall_verdict.md`.**
+
+No extraction job of ours running (live python.exe = Hermes gateway + litellm + code_review_graph; branch `main`, local HEAD == origin/main == 380961259; a parallel automation commits ffa-live ticks). The 30m prompt (verify xclusiv, then fearnleys/intermodal/...) is STALE - xclusiv 266/266 and every broker source CLOSED (re-measured this run: across all 14 `corpus/01-brokers/*`, **0 PDFs are newer than that source's newest md**). Nothing new to extract, so this run fixed the largest OPEN, APP-VISIBLE defect instead.
+
+**1. THE FINDING.** The QA chunk tier the app serves (`knowledge/chunks/*.jsonl` -> index.html `qaSrcHellenic`/`qaSrcIronOre`/`qaSrcShipbuilding`/`qaSrcBreakwave`/`qaSrcBaltic`/`qaSrcBooks`) has not advanced since **2026-09-29** (`index.json` `generated_at` 2026-09-29T17:23Z; last commit touching `knowledge/chunks/` = `dfd168848`), while the md/corpus tier is current to **2026-10-03** (hellenic iron_ore md at 09-30/10-01/10-02; demolition GMS md at 10-02/10-03). The KB itself is fine - it is the SERVED layer that lags.
+
+**2. ROOT CAUSE (proven).** The GitHub Actions workflow **Daily Knowledge Update** has **failed on 6 consecutive runs since 2026-09-29** (GitHub API), always at step 10 of 14 - **`Guardrail - verify Breakwave signals freshness`**. That step failing SKIPS `Validate updated knowledge` and `Commit if changes`, so the knowledge-bot never commits and the whole QA tier stays frozen, even though step 9 (Process new reports) succeeded. The guardrail = `scripts/check_breakwave_freshness.py --check signals_vs_reports`, reproduced locally: `drybulk signals=None reports=2026-09-29` / `tankers signals=None reports=2026-09-22` -> FAILED.
+Cause = an ARTEFACT MISMATCH, not missing extraction: the guardrail reads `knowledge/derived/signals.jsonl` (92 MB, .gitignore'd), whose breakwave rows lag one report (`signals_public.jsonl` drybulk **09-15** / tankers **09-08**), while the dedicated `knowledge/derived/breakwave_signals.json` is CURRENT (drybulk **2026-09-29** / tankers **2026-09-22**). The doc manifest holds all 291 breakwave docs (0 diff vs breakwave_signals.json).
+
+**3. FIX (tested).** `scripts/check_breakwave_freshness.py` now takes the MAX of the legacy `signals.jsonl` reader and a new reader of `breakwave_signals.json`. `--check signals_vs_reports` now returns **EXIT=0** (drybulk 09-29==09-29, tankers 09-22==09-22); before the fix it was EXIT=1. Fallback unchanged when breakwave_signals.json is absent. This unblocks the daily knowledge commit -> the QA tier starts advancing again on the next CI run.
+
+**4. OWNER DECISION:** the guardrail is source-scoped but aborts the WHOLE knowledge commit - one publisher froze hellenic/baltic/breakwave/broker_reports/books/poten for 6 days; consider making it non-fatal. The fix is on `main` UNCOMMITTED (parallel automation active; "NEVER touch main") - it must be committed to `main` for CI to see it.
+
+---
+
 **THIS RUN (2026-10-05 18:4x, source-by-source, 30m job) - BANCHERO W39 ADVANCED FOR ALL FOUR OPEN SERIES + THE "FROZEN FAMILIES" ROOT-CAUSED. Evidence `docs/banchero_w39_backfill_verdict.md`.**
 
 No extraction job of ours running (live python.exe set = Hermes gateway + litellm + code_review_graph serve; branch `main`, a parallel automation is committing ffa-live ticks). The 30m prompt (verify xclusiv, then fearnleys/intermodal/...) is STALE - xclusiv 266/266 and every broker source CLOSED. This run worked the open `NEXT-RUN TARGET` from the 15:5x entry: the W39 banchero gap.

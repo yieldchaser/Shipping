@@ -278,7 +278,24 @@ def run_incremental(max_pages=2, cookie=None, dry_run=False):
 
         data, status = parse_article_page(item["url"], cookie=cookie, card_title=item["title"], card_date=item["date"])
         if status == "OK" and data:
-            md_path = OPINIONS_DIR / f"{slug}.md"
+            # Derive year dynamically from article date or current year
+            year_match = re.search(r'\b(20\d{2})\b', str(data.get("date", "")) + " " + str(item.get("date", "")))
+            year = year_match.group(1) if year_match else str(datetime.now().year)
+
+            # Standardize filename with ISO date prefix if available
+            date_iso = ""
+            for fmt in ("%d %b %Y", "%d %B %Y", "%Y-%m-%d", "%b %d, %Y", "%B %d, %Y"):
+                try:
+                    dt = datetime.strptime(str(data.get("date", "")).strip(), fmt)
+                    date_iso = dt.strftime("%Y-%m-%d")
+                    break
+                except Exception:
+                    pass
+            filename = f"{date_iso}_{slug}.md" if date_iso and not slug.startswith(date_iso) else f"{slug}.md"
+
+            year_opinions_dir = OPINIONS_DIR / year
+            year_opinions_dir.mkdir(parents=True, exist_ok=True)
+            md_path = year_opinions_dir / filename
             with open(md_path, "w", encoding="utf-8", newline="\n") as f:
                 f.write(f"# {data['title']}\n\n")
                 if data["date"]:
@@ -292,14 +309,15 @@ def run_incremental(max_pages=2, cookie=None, dry_run=False):
                 "date": data["date"],
                 "status": "OK",
                 "paragraphs": data["paragraphs"],
-                "file_path": f"corpus/06-drewry/opinions/{slug}.md",
+                "file_path": f"corpus/06-drewry/opinions/{year}/{filename}",
             }
             append_to_manifest(manifest_entry)
 
-            # Dual-save mirror to legacy reports/drewry/opinions
+            # Dual-save mirror to legacy reports/drewry/opinions/<year>/
             try:
-                LEGACY_OPINIONS_DIR.mkdir(parents=True, exist_ok=True)
-                legacy_md_path = LEGACY_OPINIONS_DIR / f"{slug}.md"
+                legacy_year_dir = LEGACY_OPINIONS_DIR / year
+                legacy_year_dir.mkdir(parents=True, exist_ok=True)
+                legacy_md_path = legacy_year_dir / filename
                 with open(legacy_md_path, "w", encoding="utf-8", newline="\n") as f:
                     f.write(f"# {data['title']}\n\n")
                     if data["date"]:
@@ -308,7 +326,7 @@ def run_incremental(max_pages=2, cookie=None, dry_run=False):
 
                 legacy_manifest_path = LEGACY_OPINIONS_DIR / "_manifest.csv"
                 legacy_entry = dict(manifest_entry)
-                legacy_entry["file_path"] = f"reports/drewry/opinions/{slug}.md"
+                legacy_entry["file_path"] = f"reports/drewry/opinions/{year}/{filename}"
                 write_header = not legacy_manifest_path.exists()
                 with open(legacy_manifest_path, "a", encoding="utf-8", newline="\n") as f:
                     writer = csv.DictWriter(f, fieldnames=list(manifest_entry.keys()))

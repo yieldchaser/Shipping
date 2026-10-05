@@ -445,8 +445,12 @@ def run_batch():
             # Extract date ISO if possible
             date_match = re.search(r"(\d{4}-\d{2}-\d{2})", stem)
             iso_date = date_match.group(1) if date_match else ""
+            year_match = re.search(r"\b(20\d{2})\b", iso_date or rep_date or stem)
+            year = year_match.group(1) if year_match else "other"
             
-            out_md_path = f"data/extracted/md/breakwave/{category}/{stem}.md"
+            out_dir = f"data/extracted/md/breakwave/{category}/{year}"
+            os.makedirs(out_dir, exist_ok=True)
+            out_md_path = f"{out_dir}/{stem}.md"
             with open(out_md_path, "w", encoding="utf-8") as out_f:
                 out_f.write(md_content)
                 

@@ -24,6 +24,7 @@ from source_archive_utils_v2 import REPO_ROOT, REPORTS_ROOT, breakwave_root
 
 
 SIGNALS_PATH = REPO_ROOT / "knowledge" / "derived" / "signals.jsonl"
+BREAKWAVE_SIGNALS_PATH = REPO_ROOT / "knowledge" / "derived" / "breakwave_signals.json"
 _REPORT_RE = re.compile(r"^(\d{4}-\d{2}-\d{2})_Breakwave_(Dry_Bulk|Tankers)\.pdf$", re.IGNORECASE)
 
 
@@ -49,7 +50,7 @@ def latest_report_date(category: str) -> date | None:
     return latest
 
 
-def latest_signal_date(category: str) -> date | None:
+def _latest_signal_from_jsonl(category: str) -> date | None:
     latest: date | None = None
     if not SIGNALS_PATH.exists():
         return None
@@ -70,6 +71,43 @@ def latest_signal_date(category: str) -> date | None:
             if d and (latest is None or d > latest):
                 latest = d
     return latest
+
+
+def _latest_signal_from_breakwave_json(category: str) -> date | None:
+    """Read the dedicated breakwave signal artefact.
+
+    ``breakwave_signals.json`` is written by process_knowledge from the same
+    rows as ``signals.jsonl`` but is always rebuilt in full, so it is the
+    authoritative source for breakwave freshness when the incremental
+    signals.jsonl has fallen behind (or is absent on a clean CI checkout).
+    """
+    if not BREAKWAVE_SIGNALS_PATH.exists():
+        return None
+    try:
+        rows = json.loads(BREAKWAVE_SIGNALS_PATH.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return None
+    latest: date | None = None
+    if not isinstance(rows, list):
+        return None
+    for row in rows:
+        if not isinstance(row, dict):
+            continue
+        if row.get("source") != "breakwave" or row.get("category") != category:
+            continue
+        d = _parse_iso_date(row.get("date"))
+        if d and (latest is None or d > latest):
+            latest = d
+    return latest
+
+
+def latest_signal_date(category: str) -> date | None:
+    candidates = [
+        _latest_signal_from_jsonl(category),
+        _latest_signal_from_breakwave_json(category),
+    ]
+    present = [d for d in candidates if d is not None]
+    return max(present) if present else None
 
 
 def latest_web_date(category: str) -> date | None:
