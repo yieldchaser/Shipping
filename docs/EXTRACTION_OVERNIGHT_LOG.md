@@ -3149,3 +3149,87 @@ uncommitted by this run and was never pushed.
   tree (clarksons, fearnleys_normalized, star_asia, xclusiv_tables) are a
   CONCURRENT agent's edits - mtimes advanced while this run worked. Not mine,
   left untouched.
+
+## 2026-10-05 18:52 IST (13:22 UTC) - deep review
+
+Verdict: **FIXED** (one code fix committed to a branch; no corpus data touched).
+One low-impact, provable defect found and repaired; the run itself is COMPLETE.
+
+### Run state at review time
+
+`verify_extraction.py`: `done 880 / planned 882`, `ok 876`, `error 3`,
+`no-extractable-content 1`, `checkpoint_rows 7816` (all unique), `golden 15/15`,
+`db 189481 tables / 6726703 cells`, `disk_free_gb 19.8`, `actions: []`.
+No `run_batch`/`batch_worker` process alive (Get-CimInstance returned nothing):
+the batch is finished, nothing to supervise. `state_age_min 19154` is the known
+"COMPLETE, not dead" case already recorded.
+
+The 75 checkpoint rows with `status=error` are HISTORICAL, not live losses:
+all 75 recorded paths are pre-reorganisation (`reports\...`) and the 74
+`not-a-pdf` rows are HTML-dumps / one ZIP misnamed `.pdf` / two scratch
+placeholders. The one row that looked like a real PDF lost
+(`poten/Weekly-Opinion-19-August-2016-That-Sinking-Feeling-....pdf`, a genuine
+`%PDF-1.5`, 1 page, 4,865 chars) failed at 0.6 s with `FileNotFoundError` on a
+trailing-dot directory - and was then RE-extracted successfully under
+`safe_stem`'s dot-stripped name: `data/extracted/corpus/poten/
+Weekly-Opinion-19-August-2016-That-Sinking-Feeling-/` holds text/tables/pages.
+No action needed.
+
+### Defect found and fixed: duplicate rows in every `charts/meta.jsonl`
+
+`extract_all.harvest_images` iterated `page.get_images(full=True)` and acted on
+every entry. PyMuPDF's `get_images()` emits one entry per REFERENCE to the image
+XObject, so a page that reuses the same image yields the same `(xref, bbox)`
+repeatedly. Reproduced directly:
+
+    pymupdf, corpus/06-drewry/ais/Drewry_AIS_Product_LR2_Week33_2026.pdf
+      page1: 3 entries / 2 unique xrefs (37 x2)
+      page2: 5 entries / 2 unique xrefs (74 x4)
+      page5: 7 entries / 2 unique xrefs (189 x6)
+
+Each repeat rewrote identical bytes to the same filename AND appended an
+identical meta row. Corpus-wide census (all 7,742 `charts/meta.jsonl`, 102,809
+rows): **8,739 redundant rows (8.5%) across 786 documents** - `drewry_ais_pdfs`
+5,558, `shipbrokers` 3,019, the rest scattered. The identical-bbox cases
+dominate (1,593 of 1,605 duplicate keys in a 400-file sample); 12 keys per 400
+have the same xref at DIFFERENT bboxes, and those placements are still kept.
+The checkpoint's per-doc `images` count is inflated by the same mechanism
+(drewry LR2 W33 reported 37, true distinct 18).
+
+Fix (minimal, `scripts/extract/extract_all.py::harvest_images`): resolve the
+bbox first and skip an `(xref, bbox)` already emitted on that page. Evidence,
+same document, scratch out-dir: BEFORE 37 rows / 18 unique / 19 extra; AFTER
+18 rows / 18 unique / 0 extra, 18 image files written. Golden re-run after the
+patch: `scripts/analysis/golden_matrix.py` still `pymupdf-text 15/15`,
+`plumber-text 15/15`; `verify_extraction` still `golden 15/15`, `actions: []`.
+
+Branch/commit: `auto/extract-fixes-2026-10-05-imgdedupe` (HEAD left on the
+branch so the fix applies to future extractions; main untouched, not pushed).
+
+### Deliberately NOT changed
+
+* **The already-extracted tree keeps its 8,739 duplicate rows.** Repairing them
+  means re-extracting, which is a human decision. Impact is bounded: this tree
+  is still unconsumed (`index.html` reads `data/{views,derived,...}`, not
+  `data/extracted/corpus/**`); the fix only affects documents extracted from now
+  on. If the tree is ever used for chart linkage, this is the de-dup that was
+  needed - the redundant rows would double-count a reused chart.
+* The per-page `pages.jsonl` `images` count (raw `len(get_images)`, still
+  inflated) was NOT touched: it feeds `route_page` and
+  `image_only_table_suspect`, so changing it could alter routing. Reported, not
+  changed.
+* The all-zero-dhash degeneracy (24,689 rows) and the union-table filter from
+  earlier runs - unchanged, both still human decisions.
+* `data/extracted/corpus_checkpoint.jsonl` and everything under
+  `data/extracted/corpus/` were never written, moved or deleted. No re-run of
+  the corpus. The only write outside the scratch dir was the code file and this
+  log.
+
+### Inherited, still pending human decision (unchanged this run)
+
+1. Inventory drift: 380 PDFs on disk absent from the 2026-09-21 inventory
+   (was 338 yesterday; growing). Already judged covered by the bespoke runners.
+2. DB rebuild for the parser fixes (`build_table_db.py --out
+   data/extracted/corpus --rebuild` + series rebuild).
+3. Hellenic chunk-shard shortfall (17,338 chunks, all hellenic) with the
+   corrected remediation note in `text_audit_recheck.json`.

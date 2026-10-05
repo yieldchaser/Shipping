@@ -410,11 +410,27 @@ def layout_tables(page, pdf_path, pno):
 
 def harvest_images(page, pageno, chart_dir, meta_rows, doc_key):
     n = 0
+    seen = set()
     try:
         from PIL import Image
         for img in page.get_images(full=True):
             xref = img[0]
             try:
+                rects = page.get_image_bbox(img) if hasattr(page, "get_image_bbox") else None
+                bbox = [round(v, 1) for v in rects] if rects else None
+                # Measured 2026-10-05: PyMuPDF get_images() emits one entry per
+                # REFERENCE to the image XObject, so a page that reuses the same
+                # image yields the same (xref, bbox) several times (drewry
+                # LR2 W33: 37 entries -> 18 distinct). Acting on every entry
+                # rewrote the same bytes to the same file and appended an
+                # identical meta row; charts/meta.jsonl held 8,739 redundant
+                # rows corpus-wide (8.5% of 102,809, 786 docs). Skip an
+                # (xref, bbox) already emitted on this page; a genuinely
+                # different placement (different bbox) is still kept.
+                key = (xref, tuple(bbox) if bbox else None)
+                if key in seen:
+                    continue
+                seen.add(key)
                 pix = page.parent.extract_image(xref)
                 raw = pix["image"]
                 pil = Image.open(io.BytesIO(raw))
@@ -422,10 +438,9 @@ def harvest_images(page, pageno, chart_dir, meta_rows, doc_key):
                 fn = f"p{pageno:02d}_{xref}_{(h or 'nohash')[:8]}.{pix['ext']}"
                 with open(os.path.join(chart_dir, fn), "wb") as f:
                     f.write(raw)
-                rects = page.get_image_bbox(img) if hasattr(page, "get_image_bbox") else None
                 meta_rows.append({"doc": doc_key, "page": pageno, "file": fn,
                                   "w": pil.width, "h": pil.height, "dhash": h,
-                                  "bbox": [round(v, 1) for v in rects] if rects else None})
+                                  "bbox": bbox})
                 n += 1
             except Exception:
                 continue
