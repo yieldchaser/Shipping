@@ -44,25 +44,11 @@ jobs:
           python scripts/scenario_snapshot_schema.py
           python scripts/verify/build_provenance_manifest.py
 
-      - name: Sync Live Commercial Fleet & Port Queues
-        env:
-          SIGNAL_OCEAN_COOKIE: ${{ secrets.SIGNAL_OCEAN_COOKIE }}
-          SIGNAL_EMAIL: ${{ secrets.SIGNAL_EMAIL }}
-          SIGNAL_PASSWORD: ${{ secrets.SIGNAL_PASSWORD }}
-        run: |
-          if [ -n "$SIGNAL_EMAIL" ] && [ -n "$SIGNAL_PASSWORD" ]; then
-            pip install playwright
-            python -m playwright install --with-deps chromium
-            python scripts/acquire/auto_refresh_signal_session.py --run-pipeline || true
-          else
-            python scripts/acquire/sync_live_fleet_pipeline.py || true
-          fi
-
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/cargo/ data/congestion/ data/derived/ data/etf/snapshots/ data/provenance/ data/clarksons/ data/supply/ data/views/ data/geospatial/
+          git add data/cargo/ data/congestion/ data/derived/ data/etf/snapshots/ data/provenance/ data/clarksons/ data/supply/ data/geospatial/
           if git diff --staged --quiet; then
             echo "No pipeline cache changes to commit."
             exit 0

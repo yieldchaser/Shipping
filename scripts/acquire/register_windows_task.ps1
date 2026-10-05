@@ -28,7 +28,7 @@ $settings = New-ScheduledTaskSettingsSet `
     -AllowStartIfOnBatteries `
     -DontStopIfGoingOnBatteries `
     -StartWhenAvailable `
-    -ExecutionTimeLimit (New-TimeSpan -Minutes 10) `
+    -ExecutionTimeLimit (New-TimeSpan -Minutes 30) `
     -Hidden
 
 # Register task under current user
