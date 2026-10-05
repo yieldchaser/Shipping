@@ -41,6 +41,7 @@ BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 DERIVED_DIR = os.path.join(BASE_DIR, "data", "derived")
 REPORTS_DIR = os.path.join(BASE_DIR, "corpus", "01-brokers", "fearnleys-md")
 DATA_REPORTS_DIR = os.path.join(BASE_DIR, "data", "reports", "fearnleys")
+KB_REPORTS_DIR = os.path.join(BASE_DIR, "reports", "fearnleys")
 
 FIXTURES_CSV = os.path.join(DERIVED_DIR, "fearnleys_fixtures_full.csv")
 FIXTURES_PARQUET = os.path.join(DERIVED_DIR, "fearnleys_fixtures_full.parquet")
@@ -429,13 +430,11 @@ def sync_reports():
         filename = f"{rep_date}_{rep_slug}.md"
         md_content = blocks_to_markdown(r)
         year_str = str(rep_date[:4]) if len(rep_date) >= 4 and rep_date[:4].isdigit() else "other"
-        year_reports_dir = os.path.join(REPORTS_DIR, year_str)
-        os.makedirs(year_reports_dir, exist_ok=True)
-        with open(os.path.join(year_reports_dir, filename), "w", encoding="utf-8", newline="\n") as mf:
-            mf.write(md_content)
-        os.makedirs(DATA_REPORTS_DIR, exist_ok=True)
-        with open(os.path.join(DATA_REPORTS_DIR, filename), "w", encoding="utf-8", newline="\n") as mf:
-            mf.write(md_content)
+        for base_dir in [REPORTS_DIR, DATA_REPORTS_DIR, KB_REPORTS_DIR]:
+            ydir = os.path.join(base_dir, year_str)
+            os.makedirs(ydir, exist_ok=True)
+            with open(os.path.join(ydir, filename), "w", encoding="utf-8", newline="\n") as mf:
+                mf.write(md_content)
 
     catalog.sort(key=lambda r: (r.get("date") or "", r.get("created_at") or ""), reverse=True)
     for path in REPORTS_CATALOG_COPIES:

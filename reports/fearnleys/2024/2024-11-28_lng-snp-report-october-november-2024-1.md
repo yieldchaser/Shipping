@@ -1,0 +1,118 @@
+---
+title: "LNG SnP report - October/November"
+issue_date: "2024-11-28"
+year: 2024
+department: "LNG"
+publisher: "Fearnleys"
+category: "bespoke_research"
+report_id: "febb855d-e165-4243-ae77-4cc9022efe84"
+images_count: 12
+local_pdf: "../pdfs/2024/2024-11-28_lng-snp-report-october-november-2024-1.pdf"
+pdf_url: "https://pbrkapp.blob.core.windows.net/report/febb855d-e165-4243-ae77-4cc9022efe84/report.pdf"
+---
+# LNG SnP report - October/November
+
+**Date:** 2024-11-28 | **Department:** LNG | **Publisher:** Fearnleys AS  
+**Original PDF:** [Local PDF](../pdfs/2024/2024-11-28_lng-snp-report-october-november-2024-1.pdf) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/febb855d-e165-4243-ae77-4cc9022efe84/report.pdf)  
+
+---
+
+## Market reflections
+
+The significant changes to charter rates seem to have given tailwinds to the sale of vessels. Several vessels have changed hands and we see an increasing number of owners evaluating the options before them. Is layup in anticipation of a market recovery the right choice or should they say "goodbye" to their hard-working ladies and hand them over to the undertaker (aka recycling buyers)?
+
+We would argue that laying up a vessel in today's LNGC market presents more complex challenges compared to previous downturns. Factors such as increasing cargo sizes, heightened scrutiny on emissions, and the declining tradeability of smaller, less efficient, and older vessels are all significant obstacles for owners to navigate.
+
+Not only do Owners have to think about the costs associated with entering layup, but also the cost and time of reactivation when (not if) the winds of fortune change. The ability to make it to the market in time if the vessel has to go to drydock to obtain updated class status and ability to trade - and will charterers be willing to accept vessels not having sailed for an extended period.
+These considerations, combined with asset prices coming under scrutiny, will pose for interesting discussions in the months to come. 
+
+However, despite the challenges facing Owners with aging tonnage, there is an appetite to buy vessels and we expect to see more vessels change hands before the end of the year.
+
+
+![Recent sales](../images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/sales%202.png)
+
+> **Figure 1: Recent sales**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/sales%202.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/sales 2.png)
+
+
+![Yearly sales](../images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/yrly%20sales.png)
+
+> **Figure 2: Yearly sales**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/yrly%20sales.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/yrly sales.png)
+
+
+![Asset values](../images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/assetvalues.png)
+
+> **Figure 3: Asset values**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/assetvalues.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/assetvalues.png)
+
+
+## Newbuilding update
+
+Shipyards are seeing few to no inquiries in the LNGC space at the moment, spending time and resources on developing and improving designs. There are still a few slots left in 2027, where yards are willing to negotiate. For mid-2028 and onwards they keep their current price ask.
+
+
+![Recent orders](../images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/orders2.png)
+
+> **Figure 4: Recent orders**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/orders2.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/orders2.png)
+
+
+![Deliveries incl. orderbook](../images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/deliveries.png)
+
+> **Figure 5: Deliveries incl. orderbook**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/deliveries.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/deliveries.png)
+
+
+![LNGC orders](../images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/orders.png)
+
+> **Figure 6: LNGC orders**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/orders.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/orders.png)
+
+
+## Interest rates
+
+As interest rates have become an increasingly larger element in Owner's calculations - coming from a world of free money - it is interesting to look at what the market is saying about the future. The 10-year/2-year spread (aka yield curve spread) is currently hovering around 0, suggesting a flattish interest rate environment in the range of 4.2%. This is slightly below the current SOFR which stands at appx 4.5%; hence expectations of a continued softening.
+The inverted yield curve is no longer to be seen - and hopefully, the policy makers are able to avoid any recessions (which historically have been predicted well by the yield curve).
+
+
+![Interest rate (90 day avg. SOFR)](../images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/SOFR.png)
+
+> **Figure 7: Interest rate (90 day avg. SOFR)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/SOFR.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/SOFR.png)
+
+
+![10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity](../images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/10y2y%20new.png)
+
+> **Figure 8: 10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/10y2y%20new.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/10y2y new.png)
+
+
+## Recycling
+
+
+![Demolition price (large tanker)](../images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/demo.png)
+
+> **Figure 9: Demolition price (large tanker)**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/demo.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/demo.png)
+
+
+## World fleet at a glance
+
+
+![Live fleet by propulsion](../images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/fleet%20by%20prop.png)
+
+> **Figure 10: Live fleet by propulsion**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/fleet%20by%20prop.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/fleet by prop.png)
+
+
+![Total fleet](../images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/total%20fleet.png)
+
+> **Figure 11: Total fleet**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/total%20fleet.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/total fleet.png)
+
+
+![LNGC fleet by propulsion and delivery year](../images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/by%20prop%20and%20delivery.png)
+
+> **Figure 12: LNGC fleet by propulsion and delivery year**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/by%20prop%20and%20delivery.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/by prop and delivery.png)

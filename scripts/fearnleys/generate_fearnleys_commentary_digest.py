@@ -169,20 +169,21 @@ def main():
     df["year"] = df["date_dt"].dt.isocalendar().year
     df["week"] = df["date_dt"].dt.isocalendar().week
     
-    weeks_2026 = df[df["year"] == 2026].groupby(["year", "week"])
+    all_weeks = df.groupby(["year", "week"])
     
     total_generated = 0
     latest_md_content = None
     latest_week_info = None
+    years_seen = set()
     
-    for (yr, wk), group in weeks_2026:
+    for (yr, wk), group in all_weeks:
         group_clean = group[group["text"].str.len() > 10].copy()
         if group_clean.empty:
             continue
             
-        md_text = build_weekly_markdown(yr, wk, group_clean)
+        md_text = build_weekly_markdown(int(yr), int(wk), group_clean)
         
-        out_fname = f"fearnleys_weekly_commentary_week_{wk:02d}_{yr}.md"
+        out_fname = f"fearnleys_weekly_commentary_week_{int(wk):02d}_{int(yr)}.md"
         
         target_dir1 = REPORTS_DIR / str(yr)
         target_dir2 = DATA_REPORTS_DIR / str(yr)
@@ -196,10 +197,12 @@ def main():
         p2.write_text(md_text, encoding="utf-8")
         
         total_generated += 1
+        years_seen.add(int(yr))
         latest_md_content = md_text
-        latest_week_info = (yr, wk)
+        latest_week_info = (int(yr), int(wk))
         
-    print(f"Successfully generated {total_generated} weekly commentary Markdown reports for 2026.")
+    sorted_years = sorted(years_seen)
+    print(f"Successfully generated {total_generated} weekly commentary Markdown reports across {len(sorted_years)} years: {sorted_years}.")
     
     if latest_md_content and latest_week_info:
         yr, wk = latest_week_info
