@@ -38,7 +38,7 @@ jobs:
           cache-dependency-path: requirements_knowledge.txt
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 pymupdf pandas numpy lxml
+        run: pip install requests beautifulsoup4 pymupdf pandas numpy lxml openpyxl llama-parse pillow
 
       - name: Configure Git identity
         run: |
@@ -49,6 +49,8 @@ jobs:
         run: git pull --rebase --autostash origin main || true
 
       - name: Run Seabrokers Harvester & Cache Builder
+        env:
+          LLAMA_CLOUD_API_KEY: ${{ secrets.LLAMA_CLOUD_API_KEY }}
         run: |
           if [ "${{ github.event.inputs.force_all }}" = "true" ]; then
             python scripts/scrapers/fetch_seabrokers_reports.py --all
@@ -56,16 +58,18 @@ jobs:
             python scripts/scrapers/fetch_seabrokers_reports.py --auto
           fi
           python scripts/offshore/build_offshore_cache.py
+          python scripts/extract/publishers/run_seabrokers_llamaparse.py || true
+          python scripts/audit/generate_cadence_audit.py || true
 
       - name: Commit and Push Offshore Updates
         run: |
-          git add corpus/05-seabrokers/ reports/seabrokers_catalog.json data/reports/seabrokers_catalog.json data/derived/seabrokers_osv_dayrates.csv data/derived/offshore_summary.json || true
+          git add corpus/05-seabrokers/ corpus/CORPUS_REGISTRY_AND_CADENCE_AUDIT.md corpus/CORPUS_PUBLICATION_CADENCE_AND_AUDIT.xlsx reports/seabrokers_catalog.json data/reports/seabrokers_catalog.json data/derived/seabrokers_osv_dayrates.csv data/derived/offshore_summary.json data/extracted/md/seabrokers/ data/extracted/series/ data/extracted/charts/ || true
           if git diff --staged --quiet; then
             echo "No new Seabreeze reports or offshore rate changes to commit."
             exit 0
           fi
 
-          git commit -m "data(offshore): ingest latest Seabreeze market report and dayrate series [skip ci]"
+          git commit -m "data(offshore): ingest latest Seabreeze market report, dayrate series, and update cadence audit [skip ci]"
 
           for attempt in 1 2 3; do
             if git pull --rebase --autostash origin main && git push origin HEAD:main; then

@@ -52,7 +52,9 @@ jobs:
       - uses: browser-actions/setup-chrome@v1
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 lxml selenium
+        run: |
+          pip install requests beautifulsoup4 lxml selenium pymupdf pillow pandas openpyxl liteparse
+          npm install -g @llamaindex/liteparse || true
 
       - name: Configure Git identity
         run: |
@@ -125,6 +127,7 @@ jobs:
 
           if [ "$SOURCE" = "all" ] || [ "$SOURCE" = "core" ] || [ "$SOURCE" = "breakwave" ]; then
             run_by_year "scripts/breakwave_scraper.py" "" "false"
+            python scripts/extract/publishers/run_breakwave_clean_liteparse.py --batch || true
           fi
 
           if [ "$SOURCE" = "all" ] || [ "$SOURCE" = "core" ] || [ "$SOURCE" = "baltic" ]; then
@@ -132,16 +135,22 @@ jobs:
             python scripts/extract/publishers/run_baltic.py || true
           fi
 
-          if [ "$SOURCE" = "all" ] || [ "$SOURCE" = "extended" ] || [ "$SOURCE" = "breakwave_insights" ]; then
+          if [ "$SOURCE" = "all" ] || [ "$SOURCE" = "core" ] || [ "$SOURCE" = "extended" ] || [ "$SOURCE" = "breakwave_insights" ]; then
             run_by_year "scripts/breakwave_insights_scraper.py" "" "true"
             python scripts/extract/publishers/run_breakwave_insights.py "$YEAR" || true
           fi
 
-          if [ "$SOURCE" = "all" ] || [ "$SOURCE" = "extended" ] || [ "$SOURCE" = "hellenic" ]; then
-            run_by_year "scripts/hellenic_scraper.py" "--category $HELLENIC_CATEGORY" "true"
+          if [ "$SOURCE" = "all" ] || [ "$SOURCE" = "core" ] || [ "$SOURCE" = "extended" ] || [ "$SOURCE" = "hellenic" ]; then
+            python scripts/acquire/sync_hellenic_live.py || true
+            run_by_year "scripts/hellenic_scraper.py" "--category $HELLENIC_CATEGORY" "true" || true
+            python scripts/extract/publishers/run_smm_iron_ore_daily.py || true
             python scripts/extract/publishers/run_hellenic_demolition.py || true
+            python scripts/extract/publishers/run_hellenic_gms_demolition.py || true
             python scripts/extract/publishers/run_hellenic_alibra_tc.py || true
+            python scripts/extract/publishers/run_hellenic_vessel_valuations.py || true
           fi
+
+          python scripts/audit/generate_cadence_audit.py || true
 
       - name: Guardrail - verify Breakwave scrape freshness
         if: github.event.inputs.dry_run != 'true'
@@ -187,14 +196,14 @@ jobs:
         run: |
           git config user.name "report-bot"
           git config user.email "bot@shipping"
-          git add -f reports/
-          git add corpus/03-breakwave/insights/ corpus/08-baltic/ corpus/02-hellenic/ || true
+          git add -f reports/ || true
+          git add corpus/02-hellenic/ corpus/03-breakwave/ corpus/08-baltic/ corpus/CORPUS_REGISTRY_AND_CADENCE_AUDIT.md corpus/CORPUS_PUBLICATION_CADENCE_AND_AUDIT.xlsx data/extracted/md/ data/extracted/series/ data/extracted/charts/ || true
           if git diff --staged --quiet; then
             echo "No report changes to commit."
             exit 0
           fi
 
-          git commit -m "reports: ingest latest market reports $(date -u +%Y-%m-%d)"
+          git commit -m "reports: ingest latest market reports and update cadence audit $(date -u +%Y-%m-%d)"
 
           for attempt in 1 2 3; do
             if git pull --rebase origin main && git push origin HEAD:main; then

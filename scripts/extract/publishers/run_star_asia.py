@@ -873,12 +873,16 @@ def build_star_asia_clean_page(page: pymupdf.Page, lp_md: str = "") -> str:
 
 
 def build_md(pdf: Path):
-    import liteparse
     import clean_all_brokers_formatting as cabf
     import run_star_asia_tables as sa
-    lp = liteparse.LiteParse(ocr_enabled=False, quiet=True,
-                             output_format="markdown", keep_headers_footers=True)
-    res = lp.parse(str(pdf))
+    res = None
+    try:
+        import liteparse
+        lp = liteparse.LiteParse(ocr_enabled=False, quiet=True,
+                                 output_format="markdown", keep_headers_footers=True)
+        res = lp.parse(str(pdf))
+    except Exception:
+        res = None
     try:
         src_ref = pdf.resolve().relative_to(ROOT).as_posix()
     except ValueError:
@@ -887,8 +891,9 @@ def build_md(pdf: Path):
     try:
         with pymupdf.open(pdf) as d:
             report_week, issue_date = sa.extract_meta(d, pdf)
+            num_pages = len(d)
     except Exception:
-        report_week, issue_date = 0, "2026-01-01"
+        report_week, issue_date, num_pages = 0, "2026-01-01", (res.num_pages if res else 1)
     year_str = issue_date[:4] if issue_date and issue_date[:4].isdigit() else "2026"
 
     lines = [
@@ -900,7 +905,7 @@ def build_md(pdf: Path):
         'broker: "Star Asia Shipbroking"',
         'category: "demolition_report"',
         f'source_file: "{src_ref}"',
-        f'pages: {res.num_pages}',
+        f'pages: {num_pages}',
         "---",
         "",
         f"# Star Asia Weekly Demolition Report - Week {report_week}, {year_str}",
@@ -912,9 +917,12 @@ def build_md(pdf: Path):
         ""
     ]
     with pymupdf.open(pdf) as doc:
-        for i in range(1, res.num_pages + 1):
+        for i in range(1, len(doc) + 1):
             lines.append(f"\n## Page {i}\n")
-            lp_page_md = (res.get_page(i).markdown or "").strip()
+            if res is not None and i <= res.num_pages:
+                lp_page_md = (res.get_page(i).markdown or "").strip()
+            else:
+                lp_page_md = doc[i - 1].get_text("text").strip()
             clean_tbl = build_star_asia_clean_page(doc[i - 1], lp_page_md)
             if clean_tbl:
                 lines.append(clean_tbl)

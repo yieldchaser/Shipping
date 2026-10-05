@@ -30,7 +30,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 pandas pillow
+        run: pip install requests beautifulsoup4 pandas pillow openpyxl
 
       - name: Configure Git identity
         run: |
@@ -48,14 +48,16 @@ jobs:
         run: |
           python scripts/scrapers/download_signal_images.py
           python scripts/extract/publishers/run_signal.py || true
+          python scripts/extract/publishers/run_signal_vessel_counts.py || true
+          python scripts/audit/generate_cadence_audit.py || true
 
       - name: Commit & Push New Signal Intelligence
         run: |
-          git add corpus/07-signal/ data/extracted/md/signal/ data/extracted/series/signal_*.csv || true
+          git add corpus/07-signal/ corpus/CORPUS_REGISTRY_AND_CADENCE_AUDIT.md corpus/CORPUS_PUBLICATION_CADENCE_AND_AUDIT.xlsx data/extracted/md/signal/ data/extracted/series/signal_*.csv || true
           if git diff --staged --quiet; then
             echo "No new Signal Ocean reports or chart images to commit."
           else
-            git commit -m "chore(signal): ingest latest weekly market monitors and images [skip ci]"
+            git commit -m "chore(signal): ingest latest weekly market monitors, images, and update cadence audit [skip ci]"
             git pull origin main --rebase || true
             git push origin main
           fi

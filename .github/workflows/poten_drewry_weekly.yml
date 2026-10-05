@@ -42,7 +42,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 pandas
+        run: pip install requests beautifulsoup4 pandas pymupdf pillow openpyxl
 
       - name: Configure Git identity
         run: |
@@ -74,17 +74,19 @@ jobs:
           python scripts/scrapers/fetch_drewry_ais_weekly.py || true
           python scripts/scrapers/fetch_drewry_opinions_incremental.py || true
           python scripts/extract/publishers/run_drewry_opinions.py || true
+          python scripts/extract/publishers/run_drewry_ais_charts.py || true
           python scripts/extract/publishers/run_drewry_ais.py || true
           python scripts/extract/publishers/run_poten.py || true
+          python scripts/audit/generate_cadence_audit.py || true
 
       - name: Commit & Push New Data
         run: |
-          git add data/indices/ data/clarksons/ corpus/06-drewry/ corpus/04-poten/ data/extracted/md/drewry/ data/extracted/md/poten/ data/extracted/series/ data/derived/ || true
+          git add data/indices/ data/clarksons/ corpus/06-drewry/ corpus/04-poten/ corpus/CORPUS_REGISTRY_AND_CADENCE_AUDIT.md corpus/CORPUS_PUBLICATION_CADENCE_AND_AUDIT.xlsx data/extracted/md/drewry/ data/extracted/md/poten/ data/extracted/series/ data/extracted/charts/ data/derived/ || true
           if git diff --staged --quiet; then
             echo "No new Poten or Drewry data changes."
             exit 0
           fi
-          git commit -m "data(poten-drewry): update weekly container WCI, AIS analytics, and maritime opinions [skip ci]"
+          git commit -m "data(poten-drewry): update weekly container WCI, AIS analytics, maritime opinions, and cadence audit [skip ci]"
           for attempt in 1 2 3; do
             if git pull --rebase --autostash origin main && git push origin HEAD:main; then
               echo "Push succeeded on attempt $attempt."

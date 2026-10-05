@@ -33,7 +33,7 @@ jobs:
           cache-dependency-path: requirements_knowledge.txt
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 pandas lxml holidays numpy playwright
+        run: pip install requests beautifulsoup4 pandas lxml holidays numpy playwright pymupdf pillow openpyxl
 
       - name: Pull latest before run
         run: git pull --rebase --autostash origin main
@@ -44,21 +44,25 @@ jobs:
           if [ -f scripts/fearnleys/build_series_cache.py ]; then python scripts/fearnleys/build_series_cache.py; fi
           python scripts/fetch_fearnleys_reports.py || true
           python scripts/fearnleys/daily_fearnleys_sync.py || true
+          python scripts/acquire/cache_fearnleys_report_images.py --download-pdfs || true
+          python scripts/extract/publishers/run_fearnleys_md_full_power.py || true
+          python scripts/extract/publishers/export_fearnleys_md_excel.py || true
           python scripts/fearnleys/build_fearnleys_cache.py
           python scripts/fearnleys/build_desk_caches.py
           python scripts/fearnleys/build_fixtures_tape.py
+          python scripts/audit/generate_cadence_audit.py || true
 
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/derived/time_charter_rates_fearnleys.csv data/derived/fearnleys_series_monthly.json data/derived/fearnleys_*.json data/derived/fearnleys_*.csv data/derived/lng_charter_rates.csv data/derived/lpg_*.csv data/reports/fearnleys_reports_catalog.json corpus/01-brokers/fearnleys-md
+          git add data/derived/time_charter_rates_fearnleys.csv data/derived/fearnleys_series_monthly.json data/derived/fearnleys_*.json data/derived/fearnleys_*.csv data/derived/lng_charter_rates.csv data/derived/lpg_*.csv data/reports/fearnleys_reports_catalog.json corpus/01-brokers/fearnleys-md corpus/CORPUS_REGISTRY_AND_CADENCE_AUDIT.md corpus/CORPUS_PUBLICATION_CADENCE_AND_AUDIT.xlsx data/extracted/md/fearnleys-md/ data/extracted/series/ data/extracted/charts/ || true
           if git diff --staged --quiet; then
             echo "No Fearnleys TC changes to commit."
             exit 0
           fi
 
-          git commit -m "Update Fearnleys TC rates $(date -u +'%Y-%m-%d') UTC"
+          git commit -m "Update Fearnleys TC rates and custom reports $(date -u +'%Y-%m-%d') UTC"
 
           for attempt in 1 2 3; do
             if git pull --rebase --autostash origin main && git push origin HEAD:main; then
