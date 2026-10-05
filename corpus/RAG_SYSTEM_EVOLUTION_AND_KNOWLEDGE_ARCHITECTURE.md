@@ -349,3 +349,37 @@ An automated audit across all 10,202 manifest rows verified 100.0% physical pres
    * All live acquisition scripts write incoming reports simultaneously to `corpus/` (primary) and `reports/` (secondary mirror).
    * As new reports arrive in 2026 and subsequent years (2027+), directory paths and year subfolders are dynamically created in both locations, maintaining continuous parity between the live legacy dashboard and the canonical Graph RAG data lake.
 
+---
+
+## PART 4: MULTI-YEAR KNOWLEDGE BASE PARITY, FOLDER SEGREGATION & DYNAMIC ROLLOVER
+
+### 4.1 Historical Fearnleys Weekly Commentary & Bespoke Research Parity
+* **Root Cause & Correction**: Previously, `scripts/fearnleys/generate_fearnleys_commentary_digest.py` had a hardcoded `df["year"] == 2026` filter, omitting historical weekly commentary for years 2018–2025. This filter was removed, generating 419 weekly commentary reports across all 9 years (`2018`–`2026`) into [`reports/fearnleys/commentary/<year>/`](file:///c:/Users/Dell/Github/Shipping/reports/fearnleys/commentary) and [`data/reports/fearnleys/commentary/<year>/`](file:///c:/Users/Dell/Github/Shipping/data/reports/fearnleys/commentary).
+* **Research Mirror**: All 182 bespoke research reports from [`corpus/01-brokers/fearnleys-md/`](file:///c:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md) across 2024 (47), 2025 (74), and 2026 (61) were mirrored into [`reports/fearnleys/<year>/`](file:///c:/Users/Dell/Github/Shipping/reports/fearnleys) and [`data/reports/fearnleys/<year>/`](file:///c:/Users/Dell/Github/Shipping/data/reports/fearnleys).
+* **Future Ingestion**: [`scripts/fearnleys/daily_fearnleys_sync.py`](file:///c:/Users/Dell/Github/Shipping/scripts/fearnleys/daily_fearnleys_sync.py) writes future synced reports dynamically to `corpus/01-brokers/fearnleys-md/<year>/`, `data/reports/fearnleys/<year>/`, and `reports/fearnleys/<year>/`.
+
+### 4.2 Breakwave Dry Bulk and Tankers Dynamic Year Partitioning
+* **Root Cause & Correction**: 211 loose files in `data/extracted/md/breakwave/drybulk/` and 80 loose files in `data/extracted/md/breakwave/tankers/` were unpartitioned due to hardcoded output paths in `run_breakwave_clean_liteparse.py`. All 291 files were moved into proper year subdirectories (`2018`–`2026` for dry bulk, `2023`–`2026` for tankers).
+* **Dynamic Derivation**: [`scripts/extract/publishers/run_breakwave_clean_liteparse.py`](file:///c:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_breakwave_clean_liteparse.py) was updated to dynamically derive target years from document stems or publication dates, ensuring future bi-weekly reports write directly to `data/extracted/md/breakwave/{category}/{year}/{stem}.md`.
+
+### 4.3 Drewry Opinions 10-Year Parity (2017–2026) and Standardized ISO Prefixing
+* **Historical Coverage**: 556 Drewry opinion reports spanning 10 years (`2017`–`2026`) are synchronized into both [`corpus/06-drewry/opinions/<year>/`](file:///c:/Users/Dell/Github/Shipping/corpus/06-drewry/opinions) and [`reports/drewry/opinions/<year>/`](file:///c:/Users/Dell/Github/Shipping/reports/drewry/opinions).
+* **Slug Redundancy Eliminated**: Unprefixed duplicate files were resolved in favor of standardized ISO-prefixed files (`YYYY-MM-DD_<slug>.md`).
+* **Scraper Hardening**: [`scripts/scrapers/fetch_drewry_opinions_incremental.py`](file:///c:/Users/Dell/Github/Shipping/scripts/scrapers/fetch_drewry_opinions_incremental.py) parses the article date into ISO format and dual-saves new opinions to both `corpus/06-drewry/opinions/<year>/<date>_<slug>.md` and `reports/drewry/opinions/<year>/<date>_<slug>.md`.
+
+### 4.4 Broker Reports Hierarchy & Historical Digests
+* **Folder Hierarchy**: Loose files in `reports/broker_reports/2026/` were segregated into broker subdirectories (`reports/broker_reports/2026/<broker>/`).
+* **Digest Mirroring**: 118 historical digests from `corpus/01-brokers/_digests/<broker>/<year>/` were mirrored to `reports/broker_reports/<year>/<broker>/` for 2024, 2025, and 2026.
+* **Scraper Updates**: [`scripts/scrapers/fetch_hsn_shipbrokers.py`](file:///c:/Users/Dell/Github/Shipping/scripts/scrapers/fetch_hsn_shipbrokers.py) dual-saves newly syndicated shipbroker digests to both corpus and reports destinations.
+
+### 4.5 PPA Root File Consolidation
+* 110 loose PDF files previously sitting at `corpus/09-ppa/` root were consolidated into [`corpus/09-ppa/_root_pdfs/`](file:///c:/Users/Dell/Github/Shipping/corpus/09-ppa/_root_pdfs), establishing zero loose root files across all 10 corpus namespaces.
+
+### 4.6 Dynamic Year Rollover (2027 Readiness)
+* **Zero Hardcoded Caps**: Core scrapers and ingestion tools (`fetch_hsn_shipbrokers.py`, `fetch_drewry_opinions_incremental.py`, `sync_hellenic_live.py`, `run_breakwave_clean_liteparse.py`) dynamically extract year from article dates or current UTC timestamps (`year = str(date.year)`).
+* **Incremental Discovery**: The orchestrator ([`scripts/extract/orchestrate_incremental_ingest.py`](file:///c:/Users/Dell/Github/Shipping/scripts/extract/orchestrate_incremental_ingest.py)) uses dynamic `rglob("*.pdf")` comparisons against Markdown outputs, automatically identifying and routing newly dropped files regardless of year partition without requiring manual configuration changes.
+
+### 4.7 Continuous Integration Pipeline Health
+* Fixed timestamp comparison logic in [`scripts/check_breakwave_freshness.py`](file:///c:/Users/Dell/Github/Shipping/scripts/check_breakwave_freshness.py) to inspect `breakwave_signals.json` directly, unblocking step 10 of the daily GitHub Actions knowledge update workflow.
+
+

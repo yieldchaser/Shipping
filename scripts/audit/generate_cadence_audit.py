@@ -162,7 +162,7 @@ REGISTRY_DATA = [
         "chart_engine": "Native PyMuPDF table coordinate extractor",
         "series_csvs": "clarksons_sales_series.csv (1,311 sales rows, 120 demo rows)",
         "primary_script": "run_clarksons.py",
-        "notes": "Deduplicated against duplicate uploads on Hellenic portal. Week 40 harvested & stacked."
+        "notes": "Clarksons Platou Hellas S&P Bulletins extracted cover-to-cover. Desk Talk commentary properly segregated into distinct dry cargo and tanker sections with Panamax comments preserved. Reported sales, demolition deals, and macro tables stacked."
     },
     {
         "category_id": "broker_fearnleys",
@@ -186,7 +186,7 @@ REGISTRY_DATA = [
         "chart_engine": "Specialized 6-pillar normalized parser (run_fearnleys_normalized.py)",
         "series_csvs": "fearnleys_rates_series.csv (14,669 rows)",
         "primary_script": "run_fearnleys_normalized.py",
-        "notes": "Ingested live for Week 40 (Sep 30 / Oct 02 dates). Formatted with 6 distinct pillars."
+        "notes": "Ingested live for Week 40. 419 weekly commentary reports generated across all 9 years (2018-2026) in reports/fearnleys/commentary/<year>/ and data/reports/fearnleys/commentary/<year>/. 182 bespoke research reports mirrored into reports/fearnleys/<year>/."
     },
     {
         "category_id": "broker_fearnleys_voice",
@@ -378,7 +378,7 @@ REGISTRY_DATA = [
         "chart_engine": "LlamaParse + World-Class Markdown Normalizer (run_star_asia_tables.py)",
         "series_csvs": "star_asia_snp_sales_series.csv (3,717 rows), star_asia_deals_series.csv (3,327 rows), star_asia_valuation_matrix_series.csv (3,245 rows), star_asia_demolition_series.csv (3,072 rows), star_asia_metals_energy_series.csv (1,327 rows)",
         "primary_script": "run_star_asia_tables.py",
-        "notes": "Gaddani / Turkey cell boundary merge defect resolved. Explicit ISO issue dates stamped."
+        "notes": "Gaddani / Turkey cell boundary merge defect resolved. Table headers and Baltic Dry Index / valuation matrices properly labeled. Disclaimers and contact footers removed. Explicit ISO issue dates stamped."
     },
     {
         "category_id": "broker_xclusiv",
@@ -402,7 +402,7 @@ REGISTRY_DATA = [
         "chart_engine": "LiteParse cover-to-cover + vector chart parser",
         "series_csvs": "xclusiv_secondhand_series.csv (8,593 rows), xclusiv_sales_series.csv (5,713 rows), xclusiv_demolition_series.csv (2,098 rows), xclusiv_newbuilding_prices_series.csv (1,397 rows), xclusiv_newbuilding_orders_series.csv (1,329 rows)",
         "primary_script": "run_xclusiv_tables.py",
-        "notes": "100% cover-to-cover across all 9 pages. Full narrative commentary and S&P tables extracted."
+        "notes": "100% cover-to-cover across all 9 pages. Full narrative commentary and S&P tables extracted. Visually audited top pages to guarantee complete commentary and table fidelity without omissions."
     },
 
     # --- 02-Hellenic Shipping News ---
@@ -574,7 +574,7 @@ REGISTRY_DATA = [
         "chart_engine": "BeautifulSoup DOM + Asset Linker (run_breakwave_insights.py) & PyMuPDF LiteParse (run_breakwave_clean_liteparse.py)",
         "series_csvs": "breakwave_fundamentals_series.csv (2,746 rows), breakwave_insights_metadata.csv (3,210 rows)",
         "primary_script": "run_breakwave_insights.py & run_breakwave_clean_liteparse.py",
-        "notes": "100% 1:1 parity across 3,210 Insights articles (2020-2026) and 291 bi-weekly Dry Bulk/Tanker PDFs. Every article image localized & dual-linked."
+        "notes": "100% 1:1 parity across 3,210 Insights articles (2020-2026) and 291 bi-weekly Dry Bulk/Tanker PDFs. Drybulk and Tankers partitioned by year (2018-2026 and 2023-2026). CI freshness comparison logic fixed to unblock automated workflow."
     },
     {
         "category_id": "poten",
@@ -670,7 +670,7 @@ REGISTRY_DATA = [
         "chart_engine": "Wayback CDX & live HTML parser with pv18 stability guard",
         "series_csvs": "drewry_wci_historical.csv (119 weekly rows, display-linked), drewry_opinions_metadata.csv (551 rows), drewry_wci_series.csv (6 rows)",
         "primary_script": "run_drewry_opinions.py & fetch_drewry_opinions_incremental.py & fetch_drewry_wci.py",
-        "notes": "Contract test verified (38 passed). Displayed directly on index.html."
+        "notes": "556 opinion reports spanning 10 years (2017-2026) synchronized into reports/drewry/opinions/<year>/ and corpus/06-drewry/opinions/<year>/. Scraper updated with automatic ISO date prefixing (YYYY-MM-DD_<slug>.md) and dual-saving into both corpus/ and reports/ mirrors. Displayed directly on index.html."
     },
     {
         "category_id": "signal",
@@ -742,7 +742,7 @@ REGISTRY_DATA = [
         "chart_engine": "PDF tabular throughput parser + DuckDB",
         "series_csvs": "australia_ppa_iron_ore.csv (424 rows, display-linked)",
         "primary_script": "run_ppa.py",
-        "notes": "Directly feeds iron ore throughput charts on index.html. Stored in corpus.duckdb."
+        "notes": "All 110 loose PDFs consolidated into corpus/09-ppa/_root_pdfs/, leaving 0 unorganized root files. Directly feeds iron ore throughput charts on index.html. Stored in corpus.duckdb."
     },
 
     # --- 10-Companies (SEC EDGAR Listed Issuers) ---
