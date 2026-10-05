@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1692,
-  "source_path": "reports/hellenic/shipbuilding/2026/2026-03-17_breakwave-dry-bulk-shipping-report-3-17-2026.html",
+  "token_count": 1694,
+  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-03-17_breakwave-dry-bulk-shipping-report-3-17-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-3-17-2026",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-03-17_breakwave-dry-bulk-shipping-report-3-17-2026_breakwavedrymarch172026report_45bc9bf77887.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-03-17_breakwave-dry-bulk-shipping-report-3-17-2026_breakwavedrymarch172026report_45bc9bf77887.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nMarch 17, 2026\n• Dry Bulk Futures React to Geopolitical Uncertainty, but Spot Supported - The\nShort-term Indicators\nfast-moving developments on the geopolitical front over the last few weeks is\nMomentum: Negative\naffecting dry bulk shipping. As we discussed in our previous report, the\ninstitutionalization of freight has left the futures market vulnerable to broader Sentiment: Neutral\nmacroeconomic risk repricing, and thus, the futures curve has now also experienced Fundamentals: Negative\na meaningful correction.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-03-17_breakwave-dry-bulk-shipping-report-3-17-2026_breakwavedrymarch172026report_45bc9bf77887.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nMarch 17, 2026\n• Dry Bulk Futures React to Geopolitical Uncertainty, but Spot Supported - The\nShort-term Indicators\nfast-moving developments on the geopolitical front over the last few weeks is\nMomentum: Negative\naffecting dry bulk shipping. As we discussed in our previous report, the\ninstitutionalization of freight has left the futures market vulnerable to broader Sentiment: Neutral\nmacroeconomic risk repricing, and thus, the futures curve has now also experienced Fundamentals: Negative\na meaningful correction.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1618,
+      "token_count": 1620,
       "section_type": "linked_pdf",
       "children": []
     }

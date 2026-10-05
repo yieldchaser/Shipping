@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1508,
-  "source_path": "reports/hellenic/shipbuilding/2021/2021-10-12_breakwave-dry-bulk-shipping-report-10-12-2021.html",
+  "token_count": 1510,
+  "source_path": "corpus/02-hellenic/shipbuilding/2021/2021-10-12_breakwave-dry-bulk-shipping-report-10-12-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-10-12-2021",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2021-10-12_breakwave-dry-bulk-shipping-report-10-12-2021_breakwaveoctober122021report_044773f82470.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2021-10-12_breakwave-dry-bulk-shipping-report-10-12-2021_breakwaveoctober122021report_044773f82470.pdf\n\n[Page 1]\nwww.drybulkETF.com\nDry Bulk Shipping\nOctober 12, 2021\nBreakwave Dry Futures Index: 4,460 Baltic Dry Index (spot): 5,488 Short-term Indicators:\n↑ 30D: 19.2% ↑ 30D: 42.0% Momentum: Positive\n↑ YTD: 350.1% ↑ YTD: 301.8% Sentiment: Positive\n↑ YOY: 194.6% ↑ YOY: 190.1% Fundamentals: Negative\nBi-Weekly Report\n• Spot Capesize rates consolidate as the steep futures backwardation points to a correction - There is a battle going\non in the dry bulk market, and the outcome will probably define the direction of rates over the next several months. On one hand, the considerable increase in freight costs is hurting commodity traders and producers although the\nhigh volatility in the underlying commodities makes it extremely difficult to estimate the impact of such increases.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-10-12_breakwave-dry-bulk-shipping-report-10-12-2021_breakwaveoctober122021report_044773f82470.pdf\n\n[Page 1]\nwww.drybulkETF.com\nDry Bulk Shipping\nOctober 12, 2021\nBreakwave Dry Futures Index: 4,460 Baltic Dry Index (spot): 5,488 Short-term Indicators:\n↑ 30D: 19.2% ↑ 30D: 42.0% Momentum: Positive\n↑ YTD: 350.1% ↑ YTD: 301.8% Sentiment: Positive\n↑ YOY: 194.6% ↑ YOY: 190.1% Fundamentals: Negative\nBi-Weekly Report\n• Spot Capesize rates consolidate as the steep futures backwardation points to a correction - There is a battle going\non in the dry bulk market, and the outcome will probably define the direction of rates over the next several months. On one hand, the considerable increase in freight costs is hurting commodity traders and producers although the\nhigh volatility in the underlying commodities makes it extremely difficult to estimate the impact of such increases.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1430,
+      "token_count": 1432,
       "section_type": "linked_pdf",
       "children": []
     }

@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1852,
-  "source_path": "reports/hellenic/shipbuilding/2026/2026-02-10_breakwave-tanker-report-2-10-2026.html",
+  "token_count": 1854,
+  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-02-10_breakwave-tanker-report-2-10-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-2-10-2026",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-02-10_breakwave-tanker-report-2-10-2026_breakwavetankersfebruary102026report_09ad06476fba.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-02-10_breakwave-tanker-report-2-10-2026_breakwavetankersfebruary102026report_09ad06476fba.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nFebruary 10, 2026\n• VLCC Rates Remain Strong, Next Leg Depends on Demand - The sharp\nShort-term Indicators\nacceleration in VLCC freight seen in late January appears to have peaked for\nMomentum: Positive\nnow. Nevertheless, the Baltic Dirty Tanker Index continues to trade near multi-year\nhighs, reflecting the strong gains accumulated over recent months (around +90% Sentiment: Positive\nYoY as of early February).",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-02-10_breakwave-tanker-report-2-10-2026_breakwavetankersfebruary102026report_09ad06476fba.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nFebruary 10, 2026\n• VLCC Rates Remain Strong, Next Leg Depends on Demand - The sharp\nShort-term Indicators\nacceleration in VLCC freight seen in late January appears to have peaked for\nMomentum: Positive\nnow. Nevertheless, the Baltic Dirty Tanker Index continues to trade near multi-year\nhighs, reflecting the strong gains accumulated over recent months (around +90% Sentiment: Positive\nYoY as of early February).",
       "keywords": [
         "vlcc",
         "suezmax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1779,
+      "token_count": 1781,
       "section_type": "linked_pdf",
       "children": []
     }

@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1333,
-  "source_path": "reports/hellenic/vessel_valuations/2025/2025-06-03_weekly-vessel-valuations-report-june-03-2025.html",
+  "token_count": 1335,
+  "source_path": "corpus/02-hellenic/vessel_valuations/2025/2025-06-03_weekly-vessel-valuations-report-june-03-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-june-03-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-06-03_weekly-vessel-valuations-report-june-03-2025_img1_3620250_5b6047fd86f9.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/vessel_valuations/2025/assets/2025-06-03_weekly-vessel-valuations-report-june-03-2025_img1_3620250_5b6047fd86f9.jpg\n\nLinked image asset: 2025-06-03_weekly-vessel-valuations-report-june-03-2025_img1_3620250_5b6047fd86f9.jpg\n\nImage metadata: JPEG 678x314 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\n© VesselsValue --------------\n03 June 2025 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra, «SLR MR Cape Bmax Supra. Handy pmax Handy Fmax\n; OY 0.0% = 40.2% OK 03H OS% 04% 00% 0.2% 402% 0.0% +20% +03%\n320k 160k 115k 75k SOk 180k 82k 62k 38 7000 4250-«1780 n00\n10.1% 00% 05% 01K +0.8% 05% 104% 0.1% --0.1% 103% 40.1% 139% 10.4%\n.",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2025/assets/2025-06-03_weekly-vessel-valuations-report-june-03-2025_img1_3620250_5b6047fd86f9.jpg\n\nLinked image asset: 2025-06-03_weekly-vessel-valuations-report-june-03-2025_img1_3620250_5b6047fd86f9.jpg\n\nImage metadata: JPEG 678x314 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\n© VesselsValue --------------\n03 June 2025 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra, «SLR MR Cape Bmax Supra. Handy pmax Handy Fmax\n; OY 0.0% = 40.2% OK 03H OS% 04% 00% 0.2% 402% 0.0% +20% +03%\n320k 160k 115k 75k SOk 180k 82k 62k 38 7000 4250-«1780 n00\n10.1% 00% 05% 01K +0.8% 05% 104% 0.1% --0.1% 103% 40.1% 139% 10.4%\n.",
       "keywords": [
         "capesize",
         "supramax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 689,
+      "token_count": 691,
       "section_type": "linked_image_asset",
       "children": []
     }

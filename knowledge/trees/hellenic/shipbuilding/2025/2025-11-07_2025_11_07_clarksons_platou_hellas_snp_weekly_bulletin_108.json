@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2707,
-  "source_path": "reports/hellenic/shipbuilding/2025/2025-11-07_clarksons-platou-hellas-snp-weekly-bulletin-108.html",
+  "token_count": 2709,
+  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-11-07_clarksons-platou-hellas-snp-weekly-bulletin-108.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-108",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-11-07_clarksons-platou-hellas-snp-weekly-bulletin-108_weekly-sales-7th-nov-2025_85db4cda082e.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-11-07_clarksons-platou-hellas-snp-weekly-bulletin-108_weekly-sales-7th-nov-2025_85db4cda082e.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nDry Cargo\nS&P activity has remained steady and continued at the same pace this week, with a solid flow\nof transactions taking place and no immediate indications that such conditions are likely to shift\nany time soon.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-11-07_clarksons-platou-hellas-snp-weekly-bulletin-108_weekly-sales-7th-nov-2025_85db4cda082e.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nDry Cargo\nS&P activity has remained steady and continued at the same pace this week, with a solid flow\nof transactions taking place and no immediate indications that such conditions are likely to shift\nany time soon.",
       "keywords": [
         "panamax",
         "supramax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2084,
+      "token_count": 2086,
       "section_type": "linked_pdf",
       "children": []
     }

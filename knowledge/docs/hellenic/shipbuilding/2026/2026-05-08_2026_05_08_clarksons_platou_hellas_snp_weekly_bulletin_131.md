@@ -4,6 +4,7 @@ commodities: []
 date: '2026-05-08'
 doc_id: hellenic_shipbuilding_2026-05-08_2026_05_08_clarksons_platou_hellas_snp_weekly_bulletin_131
 document_type: shipbuilding_update
+is_error_page: false
 key_entities: []
 keywords:
 - panamax
@@ -24,10 +25,9 @@ linked_assets_ingested: 1
 linked_assets_mirrored: 1
 linked_assets_skipped: 0
 market_tone: constructive
-numeric_observation_count: 27
+numeric_observation_count: 28
 numeric_observations:
-- &id001
-  section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+- section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
   section_type: linked_pdf
   source_line: focus on 15-20-year-old Panamax and Kamsarmax tonnage built in Japan,
     while demand for eco
@@ -35,8 +35,7 @@ numeric_observations:
   values:
   - 15.0
   - -20.0
-- &id002
-  section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+- section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
   section_type: linked_pdf
   source_line: In the Kamsarmax sector, the AVALON (ABT 81K DWT, 2011, SUNGDONG) is
     understood committed at
@@ -44,8 +43,7 @@ numeric_observations:
   values:
   - 81.0
   - 2011.0
-- &id003
-  section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+- section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
   section_type: linked_pdf
   source_line: region USD 18m, whilst the older MANDY MORN (ABT 82K DWT, 2008, TSUNEISHI
     ZOUSHAN) was reported
@@ -53,8 +51,7 @@ numeric_observations:
   values:
   - 82.0
   - 2008.0
-- &id004
-  section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+- section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
   section_type: linked_pdf
   source_line: On the Panamax segment, the PRABHU YUVIKA (ABT 76K DWT, 2004, SUMITOMO)
     was sold at mid-high
@@ -62,8 +59,7 @@ numeric_observations:
   values:
   - 76.0
   - 2004.0
-- &id005
-  section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+- section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
   section_type: linked_pdf
   source_line: Market rumors indicate that a 2017 Chinese Ultramax is being negotiated
     in region USD 26/27m.
@@ -71,8 +67,7 @@ numeric_observations:
   values:
   - 2017.0
   - 26.0
-- &id006
-  section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+- section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
   section_type: linked_pdf
   source_line: Moving to the Supramax size, the VALIANT WAVE (ABT 53K DWT, 2005, IMABARI)
     was committed at USD
@@ -80,33 +75,30 @@ numeric_observations:
   values:
   - 53.0
   - 2005.0
-- &id007
-  section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+- section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
   section_type: linked_pdf
   source_line: 10.5m. After inviting offers this week, we understand the SUMAQ QUEEN
     (ABT 51K DWT, 2017, IMABARI)
   unit: null
   values:
+  - 10500.0
   - 51.0
   - 2017.0
-- &id008
-  section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+- section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
   section_type: linked_pdf
   source_line: has seen interest from more than 5 buyers at mid USD 25m levels and
     is currently under negotiations.
   unit: usd
   values:
   - 5.0
-- &id009
-  section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+- section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
   section_type: linked_pdf
   source_line: We are hearing as well of a 2008 Mitsui sold for USD 14m basis very
     prompt delivery.
   unit: usd
   values:
   - 2008.0
-- &id010
-  section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+- section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
   section_type: linked_pdf
   source_line: Lastly, the Handysize INTERLINK FORTUITY (ABT 38K DWT, 2017, TAIZHOU
     KOUAN, ICE CLASS 1C) was
@@ -115,8 +107,13 @@ numeric_observations:
   - 38.0
   - 2017.0
   - 1.0
-- &id011
-  section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+- section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+  section_type: linked_pdf
+  source_line: acquired by German interests for USD 21.5m.
+  unit: usd
+  values:
+  - 21500.0
+- section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
   section_type: linked_pdf
   source_line: On the Tanker side, although we are noticing various negotiations developing
     mainly across 15 to 20
@@ -124,34 +121,31 @@ numeric_observations:
   values:
   - 15.0
   - 20.0
-- &id012
-  section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+- section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
   section_type: linked_pdf
   source_line: 2008 TSUNEISHI
   unit: null
   values:
   - 2008.0
-- &id013
-  section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+- section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
   section_type: linked_pdf
   source_line: MANDY MORN 82,612 7S50MC-C8.1 SS 10/28 RGN USD 14 M CHINESE
   unit: usd
   values:
   - 82612.0
   - 7.0
-  - 1.0
+  - 50.0
+  - 8100.0
   - 10.0
   - 28.0
-- &id014
-  section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+- section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
   section_type: linked_pdf
   source_line: ZOUSHAN DD 07/26
   unit: null
   values:
   - 7.0
   - 26.0
-- &id015
-  section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+- section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
   section_type: linked_pdf
   source_line: AVALON 81,565 2011 SUNGDONG 6S60MC6.2 SS 07/26 RGN USD 18 M U/D
   unit: usd
@@ -159,19 +153,18 @@ numeric_observations:
   - 81565.0
   - 2011.0
   - 6.0
-  - 2.0
+  - 60.0
+  - 6200.0
   - 7.0
   - 26.0
-- &id016
-  section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+- section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
   section_type: linked_pdf
   source_line: DD 07/26
   unit: null
   values:
   - 7.0
   - 26.0
-- &id017
-  section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+- section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
   section_type: linked_pdf
   source_line: PRABHU YUVIKA 76,310 2004 SUMITOMO 7S50MC-C8.1 SS 01/31 MID-HIGH USD
     9 M U/D
@@ -180,19 +173,18 @@ numeric_observations:
   - 76310.0
   - 2004.0
   - 7.0
-  - 1.0
+  - 50.0
+  - 8100.0
   - 1.0
   - 31.0
-- &id018
-  section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+- section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
   section_type: linked_pdf
   source_line: DD 06/29
   unit: null
   values:
   - 6.0
   - 29.0
-- &id019
-  section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+- section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
   section_type: linked_pdf
   source_line: VALIANT WAVE 53,490 2005 IMABARI 6S50MC-C8.1 SS 08/30 USD 10.5 M U/D
   unit: usd
@@ -200,30 +192,30 @@ numeric_observations:
   - 53490.0
   - 2005.0
   - 6.0
-  - 1.0
+  - 50.0
+  - 8100.0
   - 8.0
   - 30.0
-- &id020
-  section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+  - 10500.0
+- section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
   section_type: linked_pdf
   source_line: 4X30.5 DD 11/28
   unit: null
   values:
   - 4.0
-  - 0.5
+  - 30500.0
   - 11.0
   - 28.0
-- &id021
-  section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+- section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
   section_type: linked_pdf
   source_line: 2017 TAIZHOU 5S50ME-B9.3
   unit: null
   values:
   - 2017.0
   - 5.0
-  - 3.0
-- &id022
-  section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+  - 50.0
+  - 9300.0
+- section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
   section_type: linked_pdf
   source_line: INTERLINK FORTUITY 38,734 ICE CLASS 1C SS 05/27 USD 21.75 M GERMANS
   unit: usd
@@ -232,24 +224,22 @@ numeric_observations:
   - 1.0
   - 5.0
   - 27.0
-- &id023
-  section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+  - 21750.0
+- section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
   section_type: linked_pdf
   source_line: KOUAN DD 05/27
   unit: null
   values:
   - 5.0
   - 27.0
-- &id024
-  section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+- section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
   section_type: linked_pdf
   source_line: 284 Kifissias Avenue ("Clarksons") for general information purposes.
     The Information is drawn from Clarksons' database and other sources. Clarksons
   unit: null
   values:
   - 284.0
-- &id025
-  section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+- section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
   section_type: linked_pdf
   source_line: 152 32 Information extracted from the databases of other maritime data
     collection agencies may differ from the Information extracted
@@ -257,8 +247,7 @@ numeric_observations:
   values:
   - 152.0
   - 32.0
-- &id026
-  section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+- section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
   section_type: linked_pdf
   source_line: Direct +(30) 210 458 6700 the Information is not an endorsement of
     any commercial policies and/or any conclusions by Clarksons and its 'connected
@@ -268,8 +257,7 @@ numeric_observations:
   - 210.0
   - 458.0
   - 6700.0
-- &id027
-  section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+- section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
   section_type: linked_pdf
   source_line: Fax +(30) 210 458 6799
   unit: null
@@ -286,35 +274,234 @@ section_count: 2
 signals:
   numeric_observation_count: 27
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
+  - section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+    section_type: linked_pdf
+    source_line: focus on 15-20-year-old Panamax and Kamsarmax tonnage built in Japan,
+      while demand for eco
+    unit: null
+    values:
+    - 15.0
+    - -20.0
+  - section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+    section_type: linked_pdf
+    source_line: In the Kamsarmax sector, the AVALON (ABT 81K DWT, 2011, SUNGDONG)
+      is understood committed at
+    unit: null
+    values:
+    - 81.0
+    - 2011.0
+  - section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+    section_type: linked_pdf
+    source_line: region USD 18m, whilst the older MANDY MORN (ABT 82K DWT, 2008, TSUNEISHI
+      ZOUSHAN) was reported
+    unit: usd
+    values:
+    - 82.0
+    - 2008.0
+  - section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+    section_type: linked_pdf
+    source_line: On the Panamax segment, the PRABHU YUVIKA (ABT 76K DWT, 2004, SUMITOMO)
+      was sold at mid-high
+    unit: null
+    values:
+    - 76.0
+    - 2004.0
+  - section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+    section_type: linked_pdf
+    source_line: Market rumors indicate that a 2017 Chinese Ultramax is being negotiated
+      in region USD 26/27m.
+    unit: usd
+    values:
+    - 2017.0
+    - 26.0
+  - section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+    section_type: linked_pdf
+    source_line: Moving to the Supramax size, the VALIANT WAVE (ABT 53K DWT, 2005,
+      IMABARI) was committed at USD
+    unit: usd
+    values:
+    - 53.0
+    - 2005.0
+  - section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+    section_type: linked_pdf
+    source_line: 10.5m. After inviting offers this week, we understand the SUMAQ QUEEN
+      (ABT 51K DWT, 2017, IMABARI)
+    unit: null
+    values:
+    - 51.0
+    - 2017.0
+  - section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+    section_type: linked_pdf
+    source_line: has seen interest from more than 5 buyers at mid USD 25m levels and
+      is currently under negotiations.
+    unit: usd
+    values:
+    - 5.0
+  - section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+    section_type: linked_pdf
+    source_line: We are hearing as well of a 2008 Mitsui sold for USD 14m basis very
+      prompt delivery.
+    unit: usd
+    values:
+    - 2008.0
+  - section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+    section_type: linked_pdf
+    source_line: Lastly, the Handysize INTERLINK FORTUITY (ABT 38K DWT, 2017, TAIZHOU
+      KOUAN, ICE CLASS 1C) was
+    unit: null
+    values:
+    - 38.0
+    - 2017.0
+    - 1.0
+  - section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+    section_type: linked_pdf
+    source_line: On the Tanker side, although we are noticing various negotiations
+      developing mainly across 15 to 20
+    unit: null
+    values:
+    - 15.0
+    - 20.0
+  - section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+    section_type: linked_pdf
+    source_line: 2008 TSUNEISHI
+    unit: null
+    values:
+    - 2008.0
+  - section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+    section_type: linked_pdf
+    source_line: MANDY MORN 82,612 7S50MC-C8.1 SS 10/28 RGN USD 14 M CHINESE
+    unit: usd
+    values:
+    - 82612.0
+    - 7.0
+    - 1.0
+    - 10.0
+    - 28.0
+  - section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+    section_type: linked_pdf
+    source_line: ZOUSHAN DD 07/26
+    unit: null
+    values:
+    - 7.0
+    - 26.0
+  - section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+    section_type: linked_pdf
+    source_line: AVALON 81,565 2011 SUNGDONG 6S60MC6.2 SS 07/26 RGN USD 18 M U/D
+    unit: usd
+    values:
+    - 81565.0
+    - 2011.0
+    - 6.0
+    - 2.0
+    - 7.0
+    - 26.0
+  - section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+    section_type: linked_pdf
+    source_line: DD 07/26
+    unit: null
+    values:
+    - 7.0
+    - 26.0
+  - section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+    section_type: linked_pdf
+    source_line: PRABHU YUVIKA 76,310 2004 SUMITOMO 7S50MC-C8.1 SS 01/31 MID-HIGH
+      USD 9 M U/D
+    unit: usd
+    values:
+    - 76310.0
+    - 2004.0
+    - 7.0
+    - 1.0
+    - 1.0
+    - 31.0
+  - section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+    section_type: linked_pdf
+    source_line: DD 06/29
+    unit: null
+    values:
+    - 6.0
+    - 29.0
+  - section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+    section_type: linked_pdf
+    source_line: VALIANT WAVE 53,490 2005 IMABARI 6S50MC-C8.1 SS 08/30 USD 10.5 M
+      U/D
+    unit: usd
+    values:
+    - 53490.0
+    - 2005.0
+    - 6.0
+    - 1.0
+    - 8.0
+    - 30.0
+  - section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+    section_type: linked_pdf
+    source_line: 4X30.5 DD 11/28
+    unit: null
+    values:
+    - 4.0
+    - 0.5
+    - 11.0
+    - 28.0
+  - section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+    section_type: linked_pdf
+    source_line: 2017 TAIZHOU 5S50ME-B9.3
+    unit: null
+    values:
+    - 2017.0
+    - 5.0
+    - 3.0
+  - section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+    section_type: linked_pdf
+    source_line: INTERLINK FORTUITY 38,734 ICE CLASS 1C SS 05/27 USD 21.75 M GERMANS
+    unit: usd
+    values:
+    - 38734.0
+    - 1.0
+    - 5.0
+    - 27.0
+  - section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+    section_type: linked_pdf
+    source_line: KOUAN DD 05/27
+    unit: null
+    values:
+    - 5.0
+    - 27.0
+  - section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+    section_type: linked_pdf
+    source_line: 284 Kifissias Avenue ("Clarksons") for general information purposes.
+      The Information is drawn from Clarksons' database and other sources. Clarksons
+    unit: null
+    values:
+    - 284.0
+  - section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+    section_type: linked_pdf
+    source_line: 152 32 Information extracted from the databases of other maritime
+      data collection agencies may differ from the Information extracted
+    unit: null
+    values:
+    - 152.0
+    - 32.0
+  - section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+    section_type: linked_pdf
+    source_line: Direct +(30) 210 458 6700 the Information is not an endorsement of
+      any commercial policies and/or any conclusions by Clarksons and its 'connected
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6700.0
+  - section: 'Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf'
+    section_type: linked_pdf
+    source_line: Fax +(30) 210 458 6799
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6799.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2026/2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131.html
+source_path: corpus/02-hellenic/shipbuilding/2026/2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131.html
 source_stem: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131
 source_url: https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-131
 summary: 'Main
@@ -376,7 +563,7 @@ on-week increase of the BDI.
 Tanker
 
 ## Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf
-Source asset: reports/hellenic/shipbuilding/pdfs/2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf
+Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf
 
 [Page 1]
 Clarkson Hellas Ltd.

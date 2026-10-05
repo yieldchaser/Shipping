@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2125,
-  "source_path": "reports/hellenic/shipbuilding/2022/2022-11-01_breakwave-dry-bulk-shipping-report-october-2022.html",
+  "token_count": 2127,
+  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-11-01_breakwave-dry-bulk-shipping-report-october-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-october-2022",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-11-01_breakwave-dry-bulk-shipping-report-october-2022_breakwavedecarboct22report_595e31ba1ac6.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-11-01_breakwave-dry-bulk-shipping-report-october-2022_breakwavedecarboct22report_595e31ba1ac6.pdf\n\n[Page 1]\nBSEA\nMaritime Decarbonization Monthly\nOctober 2022\nThought of the\n\"All-hands-on-deck to support the transition to low-carbon shipping\"\nMonth:\nThe Big Picture\nDecarbonization remains a difficult process for the shipping industry, with many uncertainties\nregarding the future fuel and emissions landscape. Clean fuel infrastructure and future fleet\ncomposition are major unknowns.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-11-01_breakwave-dry-bulk-shipping-report-october-2022_breakwavedecarboct22report_595e31ba1ac6.pdf\n\n[Page 1]\nBSEA\nMaritime Decarbonization Monthly\nOctober 2022\nThought of the\n\"All-hands-on-deck to support the transition to low-carbon shipping\"\nMonth:\nThe Big Picture\nDecarbonization remains a difficult process for the shipping industry, with many uncertainties\nregarding the future fuel and emissions landscape. Clean fuel infrastructure and future fleet\ncomposition are major unknowns.",
       "keywords": [
         "capesize",
         "aframax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2050,
+      "token_count": 2052,
       "section_type": "linked_pdf",
       "children": []
     }

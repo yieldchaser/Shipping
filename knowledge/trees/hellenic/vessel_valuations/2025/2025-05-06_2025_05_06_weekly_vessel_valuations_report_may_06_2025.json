@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1269,
-  "source_path": "reports/hellenic/vessel_valuations/2025/2025-05-06_weekly-vessel-valuations-report-may-06-2025.html",
+  "token_count": 1271,
+  "source_path": "corpus/02-hellenic/vessel_valuations/2025/2025-05-06_weekly-vessel-valuations-report-may-06-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-may-06-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-05-06_weekly-vessel-valuations-report-may-06-2025_img1_8520250_b83e266c12cd.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/vessel_valuations/2025/assets/2025-05-06_weekly-vessel-valuations-report-may-06-2025_img1_8520250_b83e266c12cd.jpg\n\nLinked image asset: 2025-05-06_weekly-vessel-valuations-report-may-06-2025_img1_8520250_b83e266c12cd.jpg\n\nImage metadata: JPEG 678x314 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\nDs) VesselsValue --@-WH-\n06 May 2025 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra La MR Cape Pmax Supra Handy ees. Pmax Handy = Fmax\n0.0% +3 +0.9% 0.0% ATM!",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2025/assets/2025-05-06_weekly-vessel-valuations-report-may-06-2025_img1_8520250_b83e266c12cd.jpg\n\nLinked image asset: 2025-05-06_weekly-vessel-valuations-report-may-06-2025_img1_8520250_b83e266c12cd.jpg\n\nImage metadata: JPEG 678x314 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\nDs) VesselsValue --@-WH-\n06 May 2025 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra La MR Cape Pmax Supra Handy ees. Pmax Handy = Fmax\n0.0% +3 +0.9% 0.0% ATM!",
       "keywords": [
         "capesize",
         "supramax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 688,
+      "token_count": 690,
       "section_type": "linked_image_asset",
       "children": []
     }

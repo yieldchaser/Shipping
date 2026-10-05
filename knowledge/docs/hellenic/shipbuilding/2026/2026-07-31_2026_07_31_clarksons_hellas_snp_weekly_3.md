@@ -8,6 +8,7 @@ commodities:
 date: '2026-07-31'
 doc_id: hellenic_shipbuilding_2026-07-31_2026_07_31_clarksons_hellas_snp_weekly_3
 document_type: shipbuilding_update
+is_error_page: false
 key_entities:
 - Brazil
 - Australia
@@ -33,8 +34,7 @@ linked_assets_skipped: 0
 market_tone: constructive
 numeric_observation_count: 31
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Events in the Middle East are continuing to shape shipping dynamics.
     With disruptions now affecting Saudi Arabia's two key export routes-the Strait
@@ -43,8 +43,7 @@ numeric_observations:
   unit: usd
   values:
   - 75000.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: S&P tanker activity was further bolstered this week, with several fairly
     modern VLCCs understood to have been transacted to Middle Eastern interests at
@@ -57,8 +56,7 @@ numeric_observations:
   - 15.0
   - -20.0
   - 1.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Looking ahead, the Capesize segment is expected to continue outperforming
     the smaller size classes, driven by sustained growth in long-haul Atlantic iron
@@ -69,8 +67,7 @@ numeric_observations:
   - 15.0
   - 15.0
   - -20.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: After inviting offers last week the Post Panamax PONT ROUGE (ABT 99K
     DWT, 2021 TSUNEISHI ZHOUSAN) is now sold at mid-upper USD 30m's.
@@ -78,8 +75,7 @@ numeric_observations:
   values:
   - 99.0
   - 2021.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: Moreover, the Panamax IVESTOS 8 (ABT 75K DWT, 2008, HUDONG ZHONGHUA)
     was sold for USD 11.7m with surveys due to undisclosed buyers.
@@ -89,8 +85,7 @@ numeric_observations:
   - 75.0
   - 2008.0
   - 11700.0
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: 'In the Supramax segment c/o Unity Maritime has now sold the VIVA ECLIPSE
     (ABT 54K DWT, 2009, JIANGSU EASTERN, CR: 4X36T) for USD 11.75 m.'
@@ -101,16 +96,14 @@ numeric_observations:
   - 4.0
   - 36.0
   - 11750.0
-- &id007
-  section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+- section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
   section_type: linked_pdf
   source_line: and tanker earnings have now climbed at a weighted average of USD 75,000/
     day, highest number
   unit: usd
   values:
   - 75000.0
-- &id008
-  section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+- section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
   section_type: linked_pdf
   source_line: the tanker market. We also understand that several eco MR2s ranging
     from circa 10-year-old units up
@@ -118,8 +111,7 @@ numeric_observations:
   values:
   - 2.0
   - 10.0
-- &id009
-  section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+- section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
   section_type: linked_pdf
   source_line: on the older units, within the 15-20-year-old range - in which we still
     monitor a number of buyers, mostly
@@ -127,24 +119,21 @@ numeric_observations:
   values:
   - 15.0
   - -20.0
-- &id010
-  section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+- section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
   section_type: linked_pdf
   source_line: from the Middle East and Far East markets, being on the look-out for
     MRs & LR1s as well as crude takers,
   unit: null
   values:
   - 1.0
-- &id011
-  section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+- section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
   section_type: linked_pdf
   source_line: terms of activity, market sources indicated a number of approximately
     15-year-old Korean- and
   unit: null
   values:
   - 15.0
-- &id012
-  section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+- section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
   section_type: linked_pdf
   source_line: Tonnage buyers seems to be in the 15-20-years-old Supramax-Ultramax
     segment, driven by Far Eastern
@@ -152,8 +141,7 @@ numeric_observations:
   values:
   - 15.0
   - -20.0
-- &id013
-  section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+- section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
   section_type: linked_pdf
   source_line: After inviting offers last week the Post Panamax PONT ROUGE (ABT 99K
     DWT, 2021 TSUNEISHI ZHOUSAN) is
@@ -161,8 +149,7 @@ numeric_observations:
   values:
   - 99.0
   - 2021.0
-- &id014
-  section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+- section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
   section_type: linked_pdf
   source_line: Moreover, the Panamax IVESTOS 8 (ABT 75K DWT, 2008, HUDONG ZHONGHUA)
     was sold for USD 11.7m
@@ -172,8 +159,7 @@ numeric_observations:
   - 75.0
   - 2008.0
   - 11700.0
-- &id015
-  section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+- section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
   section_type: linked_pdf
   source_line: In the Supramax segment c/o Unity Maritime has now sold the VIVA ECLIPSE
     (ABT 54K DWT, 2009,
@@ -181,8 +167,7 @@ numeric_observations:
   values:
   - 54.0
   - 2009.0
-- &id016
-  section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+- section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
   section_type: linked_pdf
   source_line: 'JIANGSU EASTERN, CR: 4X36T) for USD 11.75 m.'
   unit: usd
@@ -190,8 +175,7 @@ numeric_observations:
   - 4.0
   - 36.0
   - 11750.0
-- &id017
-  section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+- section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
   section_type: linked_pdf
   source_line: 2021 TSUNEISHI B&W 6G60ME- SS 01/31 MID-UPPER
   unit: null
@@ -201,15 +185,13 @@ numeric_observations:
   - 60.0
   - 1.0
   - 31.0
-- &id018
-  section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+- section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
   section_type: linked_pdf
   source_line: PONT ROUGE 99,992 U/D
   unit: null
   values:
   - 99992.0
-- &id019
-  section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+- section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
   section_type: linked_pdf
   source_line: ZHOUSHAN C9.5 DD 12/28 USD 30m's
   unit: usd
@@ -217,8 +199,7 @@ numeric_observations:
   - 9500.0
   - 12.0
   - 28.0
-- &id020
-  section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+- section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
   section_type: linked_pdf
   source_line: 2008 HUDONG B&W 5S60MC- SS DUE
   unit: null
@@ -226,8 +207,7 @@ numeric_observations:
   - 2008.0
   - 5.0
   - 60.0
-- &id021
-  section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+- section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
   section_type: linked_pdf
   source_line: IVESTOS 8 75,239 USD 11.7 M U/D
   unit: usd
@@ -235,23 +215,20 @@ numeric_observations:
   - 8.0
   - 75239.0
   - 11700.0
-- &id022
-  section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+- section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
   section_type: linked_pdf
   source_line: ZHONGHUA C7.1 DD DUE
   unit: null
   values:
   - 7100.0
-- &id023
-  section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+- section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
   section_type: linked_pdf
   source_line: B&W 6S50MC-
   unit: null
   values:
   - 6.0
   - 50.0
-- &id024
-  section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+- section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
   section_type: linked_pdf
   source_line: 2009 JIANGSU SS 09/29
   unit: null
@@ -259,8 +236,7 @@ numeric_observations:
   - 2009.0
   - 9.0
   - 29.0
-- &id025
-  section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+- section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
   section_type: linked_pdf
   source_line: VIVA ECLIPSE 54,279 C8.2 USD 11.75 M U/D
   unit: usd
@@ -268,39 +244,34 @@ numeric_observations:
   - 54279.0
   - 8200.0
   - 11750.0
-- &id026
-  section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+- section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
   section_type: linked_pdf
   source_line: EASTERN DD 09/27
   unit: null
   values:
   - 9.0
   - 27.0
-- &id027
-  section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+- section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
   section_type: linked_pdf
   source_line: CR 4 X 36
   unit: null
   values:
   - 4.0
   - 36.0
-- &id028
-  section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+- section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
   section_type: linked_pdf
   source_line: 284 Kifissias Avenue
   unit: null
   values:
   - 284.0
-- &id029
-  section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+- section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
   section_type: linked_pdf
   source_line: 152 32
   unit: null
   values:
   - 152.0
   - 32.0
-- &id030
-  section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+- section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
   section_type: linked_pdf
   source_line: Direct +(30) 210 458 6700 data compilation is subject to limited audit
     and validation procedures and may accordingly contain errors; (iv)
@@ -310,8 +281,7 @@ numeric_observations:
   - 210.0
   - 458.0
   - 6700.0
-- &id031
-  section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+- section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
   section_type: linked_pdf
   source_line: Fax +(30) 210 458 6799 the provision of the Information does not obviate
     any need to make appropriate further enquiries; (v) the
@@ -332,39 +302,265 @@ section_count: 2
 signals:
   numeric_observation_count: 31
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
+  - section: Main
+    section_type: null
+    source_line: Events in the Middle East are continuing to shape shipping dynamics.
+      With disruptions now affecting Saudi Arabia's two key export routes-the Strait
+      of Hormuz and the Bab el-Mandeb-the effective voyage duration for Middle Eastern
+      crude destined for Asia has inc
+    unit: usd
+    values:
+    - 75000.0
+  - section: Main
+    section_type: null
+    source_line: S&P tanker activity was further bolstered this week, with several
+      fairly modern VLCCs understood to have been transacted to Middle Eastern interests
+      at firm price levels, supporting sentiment across the rest of the tanker market.
+      We also understand that severa
+    unit: null
+    values:
+    - 2.0
+    - 10.0
+    - 15.0
+    - -20.0
+    - 1.0
+  - section: Main
+    section_type: null
+    source_line: Looking ahead, the Capesize segment is expected to continue outperforming
+      the smaller size classes, driven by sustained growth in long-haul Atlantic iron
+      ore exports and favorable ton-mile demand. In terms of activity, market sources
+      indicated a number of appr
+    unit: null
+    values:
+    - 15.0
+    - 15.0
+    - -20.0
+  - section: Main
+    section_type: null
+    source_line: After inviting offers last week the Post Panamax PONT ROUGE (ABT
+      99K DWT, 2021 TSUNEISHI ZHOUSAN) is now sold at mid-upper USD 30m's.
+    unit: usd
+    values:
+    - 99.0
+    - 2021.0
+  - section: Main
+    section_type: null
+    source_line: Moreover, the Panamax IVESTOS 8 (ABT 75K DWT, 2008, HUDONG ZHONGHUA)
+      was sold for USD 11.7m with surveys due to undisclosed buyers.
+    unit: usd
+    values:
+    - 8.0
+    - 75.0
+    - 2008.0
+    - 11700.0
+  - section: Main
+    section_type: null
+    source_line: 'In the Supramax segment c/o Unity Maritime has now sold the VIVA
+      ECLIPSE (ABT 54K DWT, 2009, JIANGSU EASTERN, CR: 4X36T) for USD 11.75 m.'
+    unit: usd
+    values:
+    - 54.0
+    - 2009.0
+    - 4.0
+    - 36.0
+    - 11750.0
+  - section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+    section_type: linked_pdf
+    source_line: and tanker earnings have now climbed at a weighted average of USD
+      75,000/ day, highest number
+    unit: usd
+    values:
+    - 75000.0
+  - section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+    section_type: linked_pdf
+    source_line: the tanker market. We also understand that several eco MR2s ranging
+      from circa 10-year-old units up
+    unit: null
+    values:
+    - 2.0
+    - 10.0
+  - section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+    section_type: linked_pdf
+    source_line: on the older units, within the 15-20-year-old range - in which we
+      still monitor a number of buyers, mostly
+    unit: null
+    values:
+    - 15.0
+    - -20.0
+  - section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+    section_type: linked_pdf
+    source_line: from the Middle East and Far East markets, being on the look-out
+      for MRs & LR1s as well as crude takers,
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+    section_type: linked_pdf
+    source_line: terms of activity, market sources indicated a number of approximately
+      15-year-old Korean- and
+    unit: null
+    values:
+    - 15.0
+  - section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+    section_type: linked_pdf
+    source_line: Tonnage buyers seems to be in the 15-20-years-old Supramax-Ultramax
+      segment, driven by Far Eastern
+    unit: null
+    values:
+    - 15.0
+    - -20.0
+  - section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+    section_type: linked_pdf
+    source_line: After inviting offers last week the Post Panamax PONT ROUGE (ABT
+      99K DWT, 2021 TSUNEISHI ZHOUSAN) is
+    unit: null
+    values:
+    - 99.0
+    - 2021.0
+  - section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+    section_type: linked_pdf
+    source_line: Moreover, the Panamax IVESTOS 8 (ABT 75K DWT, 2008, HUDONG ZHONGHUA)
+      was sold for USD 11.7m
+    unit: usd
+    values:
+    - 8.0
+    - 75.0
+    - 2008.0
+    - 11700.0
+  - section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+    section_type: linked_pdf
+    source_line: In the Supramax segment c/o Unity Maritime has now sold the VIVA
+      ECLIPSE (ABT 54K DWT, 2009,
+    unit: null
+    values:
+    - 54.0
+    - 2009.0
+  - section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+    section_type: linked_pdf
+    source_line: 'JIANGSU EASTERN, CR: 4X36T) for USD 11.75 m.'
+    unit: usd
+    values:
+    - 4.0
+    - 36.0
+    - 11750.0
+  - section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+    section_type: linked_pdf
+    source_line: 2021 TSUNEISHI B&W 6G60ME- SS 01/31 MID-UPPER
+    unit: null
+    values:
+    - 2021.0
+    - 6.0
+    - 60.0
+    - 1.0
+    - 31.0
+  - section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+    section_type: linked_pdf
+    source_line: PONT ROUGE 99,992 U/D
+    unit: null
+    values:
+    - 99992.0
+  - section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+    section_type: linked_pdf
+    source_line: ZHOUSHAN C9.5 DD 12/28 USD 30m's
+    unit: usd
+    values:
+    - 9500.0
+    - 12.0
+    - 28.0
+  - section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+    section_type: linked_pdf
+    source_line: 2008 HUDONG B&W 5S60MC- SS DUE
+    unit: null
+    values:
+    - 2008.0
+    - 5.0
+    - 60.0
+  - section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+    section_type: linked_pdf
+    source_line: IVESTOS 8 75,239 USD 11.7 M U/D
+    unit: usd
+    values:
+    - 8.0
+    - 75239.0
+    - 11700.0
+  - section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+    section_type: linked_pdf
+    source_line: ZHONGHUA C7.1 DD DUE
+    unit: null
+    values:
+    - 7100.0
+  - section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+    section_type: linked_pdf
+    source_line: B&W 6S50MC-
+    unit: null
+    values:
+    - 6.0
+    - 50.0
+  - section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+    section_type: linked_pdf
+    source_line: 2009 JIANGSU SS 09/29
+    unit: null
+    values:
+    - 2009.0
+    - 9.0
+    - 29.0
+  - section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+    section_type: linked_pdf
+    source_line: VIVA ECLIPSE 54,279 C8.2 USD 11.75 M U/D
+    unit: usd
+    values:
+    - 54279.0
+    - 8200.0
+    - 11750.0
+  - section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+    section_type: linked_pdf
+    source_line: EASTERN DD 09/27
+    unit: null
+    values:
+    - 9.0
+    - 27.0
+  - section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+    section_type: linked_pdf
+    source_line: CR 4 X 36
+    unit: null
+    values:
+    - 4.0
+    - 36.0
+  - section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+    section_type: linked_pdf
+    source_line: 284 Kifissias Avenue
+    unit: null
+    values:
+    - 284.0
+  - section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+    section_type: linked_pdf
+    source_line: 152 32
+    unit: null
+    values:
+    - 152.0
+    - 32.0
+  - section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+    section_type: linked_pdf
+    source_line: Direct +(30) 210 458 6700 data compilation is subject to limited
+      audit and validation procedures and may accordingly contain errors; (iv)
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6700.0
+  - section: 'Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf'
+    section_type: linked_pdf
+    source_line: Fax +(30) 210 458 6799 the provision of the Information does not
+      obviate any need to make appropriate further enquiries; (v) the
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6799.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2026/2026-07-31_clarksons-hellas-snp-weekly-3.html
+source_path: corpus/02-hellenic/shipbuilding/2026/2026-07-31_clarksons-hellas-snp-weekly-3.html
 source_stem: 2026-07-31_clarksons-hellas-snp-weekly-3
 source_url: https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-3
 summary: 'Main
@@ -416,7 +612,7 @@ Although we understand several negotiations to be ongoing, there are no new tank
 Source: Clarkson Platou (Hellas) ltd
 
 ## Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf
-Source asset: reports/hellenic/shipbuilding/pdfs/2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf
+Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf
 
 [Page 1]
 Clarkson Hellas Ltd.

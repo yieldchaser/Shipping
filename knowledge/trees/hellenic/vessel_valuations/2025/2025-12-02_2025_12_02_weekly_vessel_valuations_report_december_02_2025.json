@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1330,
-  "source_path": "reports/hellenic/vessel_valuations/2025/2025-12-02_weekly-vessel-valuations-report-december-02-2025.html",
+  "token_count": 1332,
+  "source_path": "corpus/02-hellenic/vessel_valuations/2025/2025-12-02_weekly-vessel-valuations-report-december-02-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-december-02-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/vessel_valuations/2025/assets/2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg\n\nLinked image asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg\n\nImage metadata: JPEG 600x278 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\n© VessetsVal re AR\n02 December 2025 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra um MR Cape Pmax ‘Supra Handy - Prax Handy Fmax\n‘ 00% 10.9% 108% 102% 40.3% *1S% 108% EKO. 03% OM OM OTH\n320k 160k Sk Sk SOK 180k 82k 62k 38% 7000 4250 80 00\ns 00% 10.9% 108% 102% 10.6% 16% 18K LTH HB 03% 0M OM «02%\n320k 160k nOk Tsk SOK 180K 82k 60k 38% 7000 4250 780 noo\n00% 10.9% «10.8% =H HSH 14% RG LOH #28 O36 00 02K 10.6%\n320k 160k nOk Sk SOK 180K 80k 60k Sk 7000 4250 1780 noo\n% 00% 40.9% 108% 40.2% «+23 109% 35.0% LAH #0 02% 02% 40.7% 1.8%\nS0k = 60K Mk 73k 50k 0k 80k 58k 30k 7000 42808000.",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2025/assets/2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg\n\nLinked image asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1_2122025_9407fb017edb.jpg\n\nImage metadata: JPEG 600x278 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\n© VessetsVal re AR\n02 December 2025 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra um MR Cape Pmax ‘Supra Handy - Prax Handy Fmax\n‘ 00% 10.9% 108% 102% 40.3% *1S% 108% EKO. 03% OM OM OTH\n320k 160k Sk Sk SOK 180k 82k 62k 38% 7000 4250 80 00\ns 00% 10.9% 108% 102% 10.6% 16% 18K LTH HB 03% 0M OM «02%\n320k 160k nOk Tsk SOK 180K 82k 60k 38% 7000 4250 780 noo\n00% 10.9% «10.8% =H HSH 14% RG LOH #28 O36 00 02K 10.6%\n320k 160k nOk Sk SOK 180K 80k 60k Sk 7000 4250 1780 noo\n% 00% 40.9% 108% 40.2% «+23 109% 35.0% LAH #0 02% 02% 40.7% 1.8%\nS0k = 60K Mk 73k 50k 0k 80k 58k 30k 7000 42808000.",
       "keywords": [
         "capesize",
         "supramax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 615,
+      "token_count": 617,
       "section_type": "linked_image_asset",
       "children": []
     }

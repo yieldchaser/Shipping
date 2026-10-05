@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2114,
-  "source_path": "reports/hellenic/shipbuilding/2023/2023-11-10_clarksons-platou-hellas-snp-weekly-bulletin-95.html",
+  "token_count": 2116,
+  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-11-10_clarksons-platou-hellas-snp-weekly-bulletin-95.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-95",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-11-10_clarksons-platou-hellas-snp-weekly-bulletin-95_report-10-11-2023_c64234fb3851.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-11-10_clarksons-platou-hellas-snp-weekly-bulletin-95_report-10-11-2023_c64234fb3851.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 10 Nov 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nXIN BIN HAI 180,086 2010 DALIAN MAN B.&W. 6S70MC-C7.2 SS 03/25 USD 21.5 M GREEKS\nBWTS fitted DD 03/25\nMAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-11-10_clarksons-platou-hellas-snp-weekly-bulletin-95_report-10-11-2023_c64234fb3851.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 10 Nov 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nXIN BIN HAI 180,086 2010 DALIAN MAN B.&W. 6S70MC-C7.2 SS 03/25 USD 21.5 M GREEKS\nBWTS fitted DD 03/25\nMAN B.",
       "keywords": [
         "suezmax",
         "lng",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2022,
+      "token_count": 2024,
       "section_type": "linked_pdf",
       "children": []
     }

@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1830,
-  "source_path": "reports/hellenic/vessel_valuations/2026/2026-01-21_weekly-vessel-valuations-report-january-20-2026.html",
+  "token_count": 1832,
+  "source_path": "corpus/02-hellenic/vessel_valuations/2026/2026-01-21_weekly-vessel-valuations-report-january-20-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-january-20-2026",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-01-21_weekly-vessel-valuations-report-january-20-2026_img1_2112025_11b24b8b4930.jpeg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-01-21_weekly-vessel-valuations-report-january-20-2026_img1_2112025_11b24b8b4930.jpeg\n\nLinked image asset: 2026-01-21_weekly-vessel-valuations-report-january-20-2026_img1_2112025_11b24b8b4930.jpeg\n\nImage metadata: JPEG 687x318 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nD) Vessel sVa be]\n20 January 2026 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra LAr MR Cape Pmax Supra Handy es . Pmax Handy Fmax\nis 93.7% 0.7% 0.5% 0.6% 0.0% 0.9% OA 20.4% 0.2% 70.3% -O.1% 0.1% +15%\n320k 160k nSk 75k SOk 180k 82k 62k 38k 7000 4250 1780 noo\n+5.8% 05% 40.3% -O.7% 40.1% 12% OAK +16 0.7% 20.2% 0.0% -O.1% 0.1%\n.",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2026/assets/2026-01-21_weekly-vessel-valuations-report-january-20-2026_img1_2112025_11b24b8b4930.jpeg\n\nLinked image asset: 2026-01-21_weekly-vessel-valuations-report-january-20-2026_img1_2112025_11b24b8b4930.jpeg\n\nImage metadata: JPEG 687x318 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nD) Vessel sVa be]\n20 January 2026 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra LAr MR Cape Pmax Supra Handy es . Pmax Handy Fmax\nis 93.7% 0.7% 0.5% 0.6% 0.0% 0.9% OA 20.4% 0.2% 70.3% -O.1% 0.1% +15%\n320k 160k nSk 75k SOk 180k 82k 62k 38k 7000 4250 1780 noo\n+5.8% 05% 40.3% -O.7% 40.1% 12% OAK +16 0.7% 20.2% 0.0% -O.1% 0.1%\n.",
       "keywords": [
         "capesize",
         "supramax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 737,
+      "token_count": 739,
       "section_type": "linked_image_asset",
       "children": []
     }

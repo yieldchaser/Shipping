@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1480,
-  "source_path": "reports/hellenic/shipbuilding/2023/2023-02-28_breakwave-dry-bulk-shipping-report-2-28-2023.html",
+  "token_count": 1482,
+  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-02-28_breakwave-dry-bulk-shipping-report-2-28-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-2-28-2023",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-02-28_breakwave-dry-bulk-shipping-report-2-28-2023_breakwavefebruary282023report_8120d586eaec.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-02-28_breakwave-dry-bulk-shipping-report-2-28-2023_breakwavefebruary282023report_8120d586eaec.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nFebruary 28, 2023\nBreakwave Dry Futures Index: 1,341 Baltic Dry Index (spot): 935 Short-term Indicators:\n↑ 30D: 24.4% ↑ 30D: 38.3% Momentum: Positive\n↑ YTD: 29.0% ↓ YTD: -38.3% Sentiment: Neutral\n↓ YOY: -45.4% ↓ YOY: -55.0% Fundamentals: Positive\nBi-Weekly Report\n• Bottom is in, slope of recovery remains debatable - Following a long period of dreadful market conditions, the dry\nbulk market seems to have finally found a bottom. The recent steep rally in rates appears impressive in percentage\nterms, but in actual dollars the improvement has been marginal.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-02-28_breakwave-dry-bulk-shipping-report-2-28-2023_breakwavefebruary282023report_8120d586eaec.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nFebruary 28, 2023\nBreakwave Dry Futures Index: 1,341 Baltic Dry Index (spot): 935 Short-term Indicators:\n↑ 30D: 24.4% ↑ 30D: 38.3% Momentum: Positive\n↑ YTD: 29.0% ↓ YTD: -38.3% Sentiment: Neutral\n↓ YOY: -45.4% ↓ YOY: -55.0% Fundamentals: Positive\nBi-Weekly Report\n• Bottom is in, slope of recovery remains debatable - Following a long period of dreadful market conditions, the dry\nbulk market seems to have finally found a bottom. The recent steep rally in rates appears impressive in percentage\nterms, but in actual dollars the improvement has been marginal.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1402,
+      "token_count": 1404,
       "section_type": "linked_pdf",
       "children": []
     }

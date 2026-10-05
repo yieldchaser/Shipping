@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1506,
-  "source_path": "reports/hellenic/shipbuilding/2023/2023-11-21_breakwave-dry-bulk-shipping-report-11-21-2023.html",
+  "token_count": 1508,
+  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-11-21_breakwave-dry-bulk-shipping-report-11-21-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-11-21-2023",
   "children": [
     {
@@ -68,7 +68,7 @@
       "section_path_text": "Linked asset: 2023-11-21_breakwave-dry-bulk-shipping-report-11-21-2023_breakwavedrynovember212023report_62ea2924527b.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-11-21_breakwave-dry-bulk-shipping-report-11-21-2023_breakwavedrynovember212023report_62ea2924527b.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nNovember 21, 2023\nBreakwave Dry Futures Index: 1,276 Baltic Dry Index (spot): 1,817 Short-term Indicators:\n↓ 30D: -9.7% ↓ 30D: -11.2% Momentum: Positive\n↑ YTD: 24.2% ↑ YTD: 19.9% Sentiment: Neutral\n↑ YOY: 31.7% ↑ YOY: 54.4% Fundamentals: Neutral\nBi-Weekly Report\n• Capesize Spot Index bounces back in the 20s… but is a correction inevitable? - Capesize spot rates staged a sharp\nrebound following an earlier drop into the mid-teens, with the Index moving firmly above 20,000.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-11-21_breakwave-dry-bulk-shipping-report-11-21-2023_breakwavedrynovember212023report_62ea2924527b.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nNovember 21, 2023\nBreakwave Dry Futures Index: 1,276 Baltic Dry Index (spot): 1,817 Short-term Indicators:\n↓ 30D: -9.7% ↓ 30D: -11.2% Momentum: Positive\n↑ YTD: 24.2% ↑ YTD: 19.9% Sentiment: Neutral\n↑ YOY: 31.7% ↑ YOY: 54.4% Fundamentals: Neutral\nBi-Weekly Report\n• Capesize Spot Index bounces back in the 20s… but is a correction inevitable? - Capesize spot rates staged a sharp\nrebound following an earlier drop into the mid-teens, with the Index moving firmly above 20,000.",
       "keywords": [
         "capesize",
         "panamax",
@@ -81,7 +81,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1428,
+      "token_count": 1430,
       "section_type": "linked_pdf",
       "children": []
     }

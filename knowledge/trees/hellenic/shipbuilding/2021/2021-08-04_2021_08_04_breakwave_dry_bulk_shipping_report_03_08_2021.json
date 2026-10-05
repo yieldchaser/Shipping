@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1523,
-  "source_path": "reports/hellenic/shipbuilding/2021/2021-08-04_breakwave-dry-bulk-shipping-report-03-08-2021.html",
+  "token_count": 1525,
+  "source_path": "corpus/02-hellenic/shipbuilding/2021/2021-08-04_breakwave-dry-bulk-shipping-report-03-08-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-03-08-2021",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2021-08-04_breakwave-dry-bulk-shipping-report-03-08-2021_breakwaveaugust32021report_7e25182e8219.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2021-08-04_breakwave-dry-bulk-shipping-report-03-08-2021_breakwaveaugust32021report_7e25182e8219.pdf\n\n[Page 1]\nwww.drybulkETF.com\nDry Bulk Shipping\nAugust 3, 2021\nBreakwave Dry Futures Index: 3,417 Baltic Dry Index (spot): 3,282 Short-term Indicators:\n↓ 30D: -0.5% ↓ 30D: -0.1% Momentum: Neutral\n↑ YTD: 244.9% ↑ YTD: 140.3% Sentiment: Neutral\n↑ YOY: 121.7% ↑ YOY: 143.1% Fundamentals: Positive\nBi-Weekly Report\n• Smooth summer sailing for dry bulk but \"stormy clouds\" are likely gathering in the horizon - The last few weeks\nhave been characterized by a typical summer \"lull\" in both trading activity and actual volumes across the dry bulk\nsector. For Capesizes, the spot market has been rangebound and typical of mid-summer activity, although late last\nweek rates begun to move higher as the market gradually tightened.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-08-04_breakwave-dry-bulk-shipping-report-03-08-2021_breakwaveaugust32021report_7e25182e8219.pdf\n\n[Page 1]\nwww.drybulkETF.com\nDry Bulk Shipping\nAugust 3, 2021\nBreakwave Dry Futures Index: 3,417 Baltic Dry Index (spot): 3,282 Short-term Indicators:\n↓ 30D: -0.5% ↓ 30D: -0.1% Momentum: Neutral\n↑ YTD: 244.9% ↑ YTD: 140.3% Sentiment: Neutral\n↑ YOY: 121.7% ↑ YOY: 143.1% Fundamentals: Positive\nBi-Weekly Report\n• Smooth summer sailing for dry bulk but \"stormy clouds\" are likely gathering in the horizon - The last few weeks\nhave been characterized by a typical summer \"lull\" in both trading activity and actual volumes across the dry bulk\nsector. For Capesizes, the spot market has been rangebound and typical of mid-summer activity, although late last\nweek rates begun to move higher as the market gradually tightened.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1453,
+      "token_count": 1455,
       "section_type": "linked_pdf",
       "children": []
     }

@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1717,
-  "source_path": "reports/hellenic/shipbuilding/2023/2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101.html",
+  "token_count": 1719,
+  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-101",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf\n\n[Page 1]\nClarksons Hellas Weekly Bulletin 22nd December 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\n- - - - - -\n-\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\n2004 IWAGI MAN B. 6S50MC-C8.1 SS 09/27\nJAG PRABHA 47,999 CIRCA USD 15 M U/D\nZOSEN BWTS fitted DD 09/25\nNew Building\nIn tankers this week, clients of Performance shipping announced contracting two firm 115k dwt LR2s at SWS, with the vessels\nset for delivery in January and April 2026.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf\n\n[Page 1]\nClarksons Hellas Weekly Bulletin 22nd December 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\n- - - - - -\n-\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\n2004 IWAGI MAN B. 6S50MC-C8.1 SS 09/27\nJAG PRABHA 47,999 CIRCA USD 15 M U/D\nZOSEN BWTS fitted DD 09/25\nNew Building\nIn tankers this week, clients of Performance shipping announced contracting two firm 115k dwt LR2s at SWS, with the vessels\nset for delivery in January and April 2026.",
       "keywords": [
         "capesize",
         "lng",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1615,
+      "token_count": 1617,
       "section_type": "linked_pdf",
       "children": []
     }

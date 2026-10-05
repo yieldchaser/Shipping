@@ -4,6 +4,7 @@ commodities: []
 date: '2024-07-16'
 doc_id: hellenic_shipbuilding_2024-07-16_2024_07_16_efficiency_given_over_30_boost_with_quad_lifts_at_apm_terminals_lazaro_cardenas
 document_type: shipbuilding_update
+is_error_page: false
 key_entities: []
 keywords:
 - container
@@ -33,7 +34,7 @@ regions:
 section_count: 1
 signals: {}
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2024/2024-07-16_efficiency-given-over-30-boost-with-quad-lifts-at-apm-terminals-lazaro-cardenas.html
+source_path: corpus/02-hellenic/shipbuilding/2024/2024-07-16_efficiency-given-over-30-boost-with-quad-lifts-at-apm-terminals-lazaro-cardenas.html
 source_stem: 2024-07-16_efficiency-given-over-30-boost-with-quad-lifts-at-apm-terminals-lazaro-cardenas
 source_url: https://www.hellenicshippingnews.com/efficiency-given-over-30-boost-with-quad-lifts-at-apm-terminals-lazaro-cardenas-2
 summary: 'Main

@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1604,
-  "source_path": "reports/hellenic/shipbuilding/2026/2026-04-14_breakwave-dry-bulk-shipping-report-4-14-2026.html",
+  "token_count": 1606,
+  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-04-14_breakwave-dry-bulk-shipping-report-4-14-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-4-14-2026",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-04-14_breakwave-dry-bulk-shipping-report-4-14-2026_breakwavedryapril142026report_637a1c33a2f6.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-04-14_breakwave-dry-bulk-shipping-report-4-14-2026_breakwavedryapril142026report_637a1c33a2f6.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nApril 14, 2026\n• Dry Bulk Volatility Remains Subdued as Spot Rates Hit 2-Month Highs - The\nShort-term Indicators\ndry bulk spot market remains characterized by a period of relative stability, with spot\nMomentum: Positive\nrates consistently maintaining profitable levels for most owners despite a lack of\nsignificant catalysts for movement. While geopolitical tensions and fluctuating oil Sentiment: Neutral\nprices (and sky-high bunkers) continue to influence market sentiment and Fundamentals: Negative\noperational costs, the fundamental supply-and-demand balance has remained\nlargely unchanged since last summer.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-04-14_breakwave-dry-bulk-shipping-report-4-14-2026_breakwavedryapril142026report_637a1c33a2f6.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nApril 14, 2026\n• Dry Bulk Volatility Remains Subdued as Spot Rates Hit 2-Month Highs - The\nShort-term Indicators\ndry bulk spot market remains characterized by a period of relative stability, with spot\nMomentum: Positive\nrates consistently maintaining profitable levels for most owners despite a lack of\nsignificant catalysts for movement. While geopolitical tensions and fluctuating oil Sentiment: Neutral\nprices (and sky-high bunkers) continue to influence market sentiment and Fundamentals: Negative\noperational costs, the fundamental supply-and-demand balance has remained\nlargely unchanged since last summer.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1522,
+      "token_count": 1524,
       "section_type": "linked_pdf",
       "children": []
     }

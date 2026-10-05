@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2278,
-  "source_path": "reports/hellenic/shipbuilding/2026/2026-07-31_clarksons-hellas-snp-weekly-3.html",
+  "token_count": 2280,
+  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-07-31_clarksons-hellas-snp-weekly-3.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-3",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nEvents in the Middle East are continuing to shape shipping dynamics.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nEvents in the Middle East are continuing to shape shipping dynamics.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1622,
+      "token_count": 1624,
       "section_type": "linked_pdf",
       "children": []
     }

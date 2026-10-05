@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1527,
-  "source_path": "reports/hellenic/shipbuilding/2021/2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021.html",
+  "token_count": 1529,
+  "source_path": "corpus/02-hellenic/shipbuilding/2021/2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-31-08-2021",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf\n\n[Page 1]\nwww.drybulkETF.com\nDry Bulk Shipping\nAugust 31, 2021\nBreakwave Dry Futures Index: 3,753 Baltic Dry Index (spot): 4,235 Short-term Indicators:\n↑ 30D: 11.9% ↑ 30D: 28.6% Momentum: Neutral\n↑ YTD: 278.8% ↑ YTD: 210.0% Sentiment: Neutral\n↑ YOY: 126.2% ↑ YOY: 184.6% Fundamentals: Positive\nBi-Weekly Report\n• Capesize rates reach 50k. Are the next 10k higher or lower?",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf\n\n[Page 1]\nwww.drybulkETF.com\nDry Bulk Shipping\nAugust 31, 2021\nBreakwave Dry Futures Index: 3,753 Baltic Dry Index (spot): 4,235 Short-term Indicators:\n↑ 30D: 11.9% ↑ 30D: 28.6% Momentum: Neutral\n↑ YTD: 278.8% ↑ YTD: 210.0% Sentiment: Neutral\n↑ YOY: 126.2% ↑ YOY: 184.6% Fundamentals: Positive\nBi-Weekly Report\n• Capesize rates reach 50k. Are the next 10k higher or lower?",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1444,
+      "token_count": 1446,
       "section_type": "linked_pdf",
       "children": []
     }

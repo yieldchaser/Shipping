@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1546,
-  "source_path": "reports/hellenic/shipbuilding/2024/2024-03-05_breakwave-dry-bulk-shipping-report-05-03-2024.html",
+  "token_count": 1548,
+  "source_path": "corpus/02-hellenic/shipbuilding/2024/2024-03-05_breakwave-dry-bulk-shipping-report-05-03-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-05-03-2024",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2024-03-05_breakwave-dry-bulk-shipping-report-05-03-2024_breakwavedrymarch52024report_a424187b856d.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2024-03-05_breakwave-dry-bulk-shipping-report-05-03-2024_breakwavedrymarch52024report_a424187b856d.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nMarch 5, 2024\nBreakwave Dry Futures Index: 2,545 Baltic Dry Index (spot): 2,297 Short-term Indicators:\n↑ 30D: 56.9% ↑ 30D: 63.3% Momentum: Positive\n↑ YTD: 69.7% ↑ YTD: 5.2% Sentiment: Positive\n↑ YOY: 59.9% ↑ YOY: 81.9% Fundamentals: Neutral\nBi-Weekly Report\n• As spot price records fall one after another, sentiment in dry bulk is reaching new highs - With February average\nCapesize rates reaching more than 21,000, market participants remain extremely bullish for the progression of the\nyear. And rightly so: if the weakest month of the year managed to average such a strong level, the rest of the year\nshould see rates well above that level.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2024-03-05_breakwave-dry-bulk-shipping-report-05-03-2024_breakwavedrymarch52024report_a424187b856d.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nMarch 5, 2024\nBreakwave Dry Futures Index: 2,545 Baltic Dry Index (spot): 2,297 Short-term Indicators:\n↑ 30D: 56.9% ↑ 30D: 63.3% Momentum: Positive\n↑ YTD: 69.7% ↑ YTD: 5.2% Sentiment: Positive\n↑ YOY: 59.9% ↑ YOY: 81.9% Fundamentals: Neutral\nBi-Weekly Report\n• As spot price records fall one after another, sentiment in dry bulk is reaching new highs - With February average\nCapesize rates reaching more than 21,000, market participants remain extremely bullish for the progression of the\nyear. And rightly so: if the weakest month of the year managed to average such a strong level, the rest of the year\nshould see rates well above that level.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1462,
+      "token_count": 1464,
       "section_type": "linked_pdf",
       "children": []
     }

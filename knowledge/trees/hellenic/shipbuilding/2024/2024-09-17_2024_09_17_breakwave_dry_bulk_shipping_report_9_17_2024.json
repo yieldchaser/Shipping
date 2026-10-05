@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1533,
-  "source_path": "reports/hellenic/shipbuilding/2024/2024-09-17_breakwave-dry-bulk-shipping-report-9-17-2024.html",
+  "token_count": 1535,
+  "source_path": "corpus/02-hellenic/shipbuilding/2024/2024-09-17_breakwave-dry-bulk-shipping-report-9-17-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-9-17-2024",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2024-09-17_breakwave-dry-bulk-shipping-report-9-17-2024_breakwavedryseptember172024report_9cfab98c3792.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2024-09-17_breakwave-dry-bulk-shipping-report-9-17-2024_breakwavedryseptember172024report_9cfab98c3792.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nSeptember 17, 2024\nBreakwave Dry Futures Index: 2,020 Baltic Dry Index (spot): 1,896 Short-term Indicators:\n↑ 30D: 2.5% ↑ 30D: 12.1% Momentum: Neutral\n↑ YTD: 34.7% ↓ YTD: -9.5% Sentiment: Neutral\n↑ YOY: 33.6% ↑ YOY: 37.3% Fundamentals: Neutral\nBi-Weekly Report\n• Capesize Rally Fizzles Out as Iron Ore Prices Drop - Capesize rates eased after hitting two-month highs, as lower iron\nore prices combined with recent soft Chinese economic data weighed on sentiment. A cyclone in the Pacific that\ndirectly hit Shanghai has led to some disruption in cargo flow and vessel positioning, but we expect any pricing impact\nto fade as the week progresses.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2024-09-17_breakwave-dry-bulk-shipping-report-9-17-2024_breakwavedryseptember172024report_9cfab98c3792.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nSeptember 17, 2024\nBreakwave Dry Futures Index: 2,020 Baltic Dry Index (spot): 1,896 Short-term Indicators:\n↑ 30D: 2.5% ↑ 30D: 12.1% Momentum: Neutral\n↑ YTD: 34.7% ↓ YTD: -9.5% Sentiment: Neutral\n↑ YOY: 33.6% ↑ YOY: 37.3% Fundamentals: Neutral\nBi-Weekly Report\n• Capesize Rally Fizzles Out as Iron Ore Prices Drop - Capesize rates eased after hitting two-month highs, as lower iron\nore prices combined with recent soft Chinese economic data weighed on sentiment. A cyclone in the Pacific that\ndirectly hit Shanghai has led to some disruption in cargo flow and vessel positioning, but we expect any pricing impact\nto fade as the week progresses.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1447,
+      "token_count": 1449,
       "section_type": "linked_pdf",
       "children": []
     }

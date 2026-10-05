@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1497,
-  "source_path": "reports/hellenic/shipbuilding/2025/2025-01-21_breakwave-dry-bulk-shipping-report-1-21-2025.html",
+  "token_count": 1499,
+  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-01-21_breakwave-dry-bulk-shipping-report-1-21-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-1-21-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-01-21_breakwave-dry-bulk-shipping-report-1-21-2025_breakwavedryjanuary212025report_64bba9c85ce9.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-01-21_breakwave-dry-bulk-shipping-report-1-21-2025_breakwavedryjanuary212025report_64bba9c85ce9.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nJanuary 21, 2025\nBreakwave Dry Futures Index: 1,007 Baltic Dry Index (spot): 957 Short-term Indicators:\n↓ 30D: -1.5% ↓ 30D: -3.3% Momentum: Positive\n↓ YTD: -0.7% ↓ YTD: -4.0% Sentiment: Negative\n↓ YOY: -35.6% ↓ YOY: -36.3% Fundamentals: Neutral\nBi-Weekly Report\n• Weather Takes Center Stage as Seasonality Bites - As the Capesize market realigns with historical seasonal trends, spot\nrates are beginning to reflect the limited cargo volumes typically observed at the start of the calendar year. Australia\nhas already felt the effects of the cyclone season, with the busy West Australian ports shutting down for several days\nlast week.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-01-21_breakwave-dry-bulk-shipping-report-1-21-2025_breakwavedryjanuary212025report_64bba9c85ce9.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nJanuary 21, 2025\nBreakwave Dry Futures Index: 1,007 Baltic Dry Index (spot): 957 Short-term Indicators:\n↓ 30D: -1.5% ↓ 30D: -3.3% Momentum: Positive\n↓ YTD: -0.7% ↓ YTD: -4.0% Sentiment: Negative\n↓ YOY: -35.6% ↓ YOY: -36.3% Fundamentals: Neutral\nBi-Weekly Report\n• Weather Takes Center Stage as Seasonality Bites - As the Capesize market realigns with historical seasonal trends, spot\nrates are beginning to reflect the limited cargo volumes typically observed at the start of the calendar year. Australia\nhas already felt the effects of the cyclone season, with the busy West Australian ports shutting down for several days\nlast week.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1415,
+      "token_count": 1417,
       "section_type": "linked_pdf",
       "children": []
     }

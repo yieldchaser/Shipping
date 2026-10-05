@@ -7,6 +7,7 @@ commodities:
 date: '2022-04-08'
 doc_id: hellenic_shipbuilding_2022-04-08_2022_04_08_clarkson_platou_hellas_sp_weekly_bulletin_134
 document_type: shipbuilding_update
+is_error_page: false
 key_entities: []
 keywords:
 - capesize
@@ -29,261 +30,229 @@ linked_assets_skipped: 0
 market_tone: constructive
 numeric_observation_count: 88
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: In Tankers this week, Asiatic Lloyd declared their two optional 50k
     dwt MR's at Hyundai Vinashin
   unit: null
   values:
   - 50.0
-- &id002
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: Hellas S&P Weekly Bulletin 08 April 2022
   unit: null
   values:
   - 8.0
   - 2022.0
-- &id003
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: MAN-B&W 7S65ME-C8.2 SS 01/25
   unit: null
   values:
   - 7.0
-  - 5.0
-  - 2.0
+  - 65.0
+  - 8200.0
   - 1.0
   - 25.0
-- &id004
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: RED SAGE 182,443 2015 JMU USD 47.5 M EUROPEANS
   unit: usd
   values:
   - 182443.0
   - 2015.0
-  - 47.5
-- &id005
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+  - 47500.0
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: BWTS fitted DD 04/23
   unit: null
   values:
   - 4.0
   - 23.0
-- &id006
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: SS 01/24
   unit: null
   values:
   - 1.0
   - 24.0
-- &id007
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: MARAN PROGRESS 114,047
   unit: null
   values:
   - 114047.0
-- &id008
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: DD 01/24
   unit: null
   values:
   - 1.0
   - 24.0
-- &id009
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: 2014 SHANGHAI
   unit: null
   values:
   - 2014.0
-- &id010
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: SS 05/24
   unit: null
   values:
   - 5.0
   - 24.0
-- &id011
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: MARAN WISDOM 114,046
   unit: null
   values:
   - 114046.0
-- &id012
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: DD 05/24
   unit: null
   values:
   - 5.0
   - 24.0
-- &id013
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: SS 04/23
   unit: null
   values:
   - 4.0
   - 23.0
-- &id014
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: MARAN ZENITH 114,038 2013 SHANGHAI
   unit: null
   values:
   - 114038.0
   - 2013.0
-- &id015
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: DD 04/23
   unit: null
   values:
   - 4.0
   - 23.0
-- &id016
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: SS 10/24
   unit: null
   values:
   - 10.0
   - 24.0
-- &id017
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: MARAN ASPIRATION 114,013 2012 SHANGHAI
   unit: null
   values:
   - 114013.0
   - 2012.0
-- &id018
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: DD 10/22
   unit: null
   values:
   - 10.0
   - 22.0
-- &id019
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: MAN-B&W 7S60MC-C7.2 USD 200 M
   unit: usd
   values:
   - 7.0
-  - 2.0
+  - 60.0
+  - 7200.0
   - 200.0
-- &id020
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: SS 10/25
   unit: null
   values:
   - 10.0
   - 25.0
-- &id021
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: MARAN DAWN 114,091
   unit: null
   values:
   - 114091.0
-- &id022
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: DD 02/23
   unit: null
   values:
   - 2.0
   - 23.0
-- &id023
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: SS 08/24
   unit: null
   values:
   - 8.0
   - 24.0
-- &id024
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: MARAN OCEAN 114,007
   unit: null
   values:
   - 114007.0
-- &id025
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: DD 08/24
   unit: null
   values:
   - 8.0
   - 24.0
-- &id026
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: 2011 SHANGHAI
   unit: null
   values:
   - 2011.0
-- &id027
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: SS 07/25
   unit: null
   values:
   - 7.0
   - 25.0
-- &id028
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: MARAN SKY 114,078
   unit: null
   values:
   - 114078.0
-- &id029
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: DD 11/22
   unit: null
   values:
   - 11.0
   - 22.0
-- &id030
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: SS 08/25
   unit: null
   values:
   - 8.0
   - 25.0
-- &id031
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: MARAN SUN 114,078
   unit: null
   values:
   - 114078.0
-- &id032
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: SS 08/22
   unit: null
   values:
   - 8.0
   - 22.0
-- &id033
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: CMB PAUILLAC 95,707 2012 IMABARI MAN-B&W 6S60MC-C USD 25 M F. EASTERNS
   unit: usd
@@ -291,82 +260,77 @@ numeric_observations:
   - 95707.0
   - 2012.0
   - 6.0
-- &id034
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+  - 60.0
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: DD 08/22
   unit: null
   values:
   - 8.0
   - 22.0
-- &id035
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: MAN-B&W 5S60MC-C8 SS 05/22
   unit: null
   values:
   - 5.0
+  - 60.0
+  - 8.0
   - 5.0
   - 22.0
-- &id036
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: YANGTZE XING HUA 81,677 2012 GUANGZHOU LONGXUE RGN USD 22 M CHINESE
   unit: usd
   values:
   - 81677.0
   - 2012.0
-- &id037
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: Tier II, BWTS fitted DD 05/22
   unit: null
   values:
   - 5.0
   - 22.0
-- &id038
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: MAN-B&W 6S60MC-C SS 06/25
   unit: null
   values:
   - 6.0
+  - 60.0
   - 6.0
   - 25.0
-- &id039
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: CORAL CRYSTAL 78,103 2012 SHIN KURUSHIMA RGN USD 25 M U/D
   unit: usd
   values:
   - 78103.0
   - 2012.0
-- &id040
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: BWTS fitted DD 07/23
   unit: null
   values:
   - 7.0
   - 23.0
-- &id041
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: MAN-B&W 6S50ME-B9.5
   unit: null
   values:
   - 6.0
-  - 5.0
-- &id042
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+  - 50.0
+  - 9500.0
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: SS 06/24
   unit: null
   values:
   - 6.0
   - 24.0
-- &id043
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: ULTRA INITIATOR 62,647 2019 OSHIMA 4 x 30 T RGN USD 37 M CHINESE
   unit: usd
@@ -376,33 +340,30 @@ numeric_observations:
   - 4.0
   - 30.0
   - 37.0
-- &id044
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: DD 06/22
   unit: null
   values:
   - 6.0
   - 22.0
-- &id045
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: MAN-B&W 5S50MC-C SS 08/25
   unit: null
   values:
   - 5.0
+  - 50.0
   - 8.0
   - 25.0
-- &id046
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: STRATEGIC ENCOUNTER 33,000 2010 ZHEJIANG ZHENGHE USD 14 M U/D
   unit: usd
   values:
   - 33000.0
   - 2010.0
-- &id047
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: 4 x 30 T DD 08/23
   unit: null
@@ -411,49 +372,46 @@ numeric_observations:
   - 30.0
   - 8.0
   - 23.0
-- &id048
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: MAN-B&W 6S70MC-C SS 08/26
   unit: null
   values:
   - 6.0
+  - 70.0
   - 8.0
   - 26.0
-- &id049
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: SKS SKEENA 158,993 2006 HYUNDAI SAMHO USD 23.5 M U/D
   unit: usd
   values:
   - 158993.0
   - 2006.0
-- &id050
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+  - 23500.0
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: BWTS fitted DD 08/24
   unit: null
   values:
   - 8.0
   - 24.0
-- &id051
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: MAN-B&W 6G60ME-C10.5
   unit: null
   values:
   - 6.0
-  - 0.5
-- &id052
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+  - 60.0
+  - 10500.0
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: SS 03/27 LIBYANS
   unit: null
   values:
   - 3.0
   - 27.0
-- &id053
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: PHILADELPHIA STAR 115,519 2022 DAEHAN Scrubber, BWTS flited RGN USD
     61 M
@@ -462,101 +420,90 @@ numeric_observations:
   - 115519.0
   - 2022.0
   - 61.0
-- &id054
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: DD 05/25 (c/o GNMTC)
   unit: tonnage
   values:
   - 5.0
   - 25.0
-- &id055
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: SS 08/23
   unit: null
   values:
   - 8.0
   - 23.0
-- &id056
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: ARDOMORE SEALEADER 47,463
   unit: null
   values:
   - 47463.0
-- &id057
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: DD 08/23
   unit: null
   values:
   - 8.0
   - 23.0
-- &id058
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: MAN-B&W 6S50MC
   unit: null
   values:
   - 6.0
-- &id059
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+  - 50.0
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: 4 Pumps USD 40 M GERMANS
   unit: usd
   values:
   - 4.0
   - 40.0
-- &id060
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: SS 07/23
   unit: null
   values:
   - 7.0
   - 23.0
-- &id061
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: ARDMORE SEALIFTER 47,463 2008 ONOMICHI EN BLOC (c/o Leonhardt &
   unit: null
   values:
   - 47463.0
   - 2008.0
-- &id062
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: DD 07/23
   unit: null
   values:
   - 7.0
   - 23.0
-- &id063
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: (basis min 2-y TC back) Blumberg)
   unit: null
   values:
   - 2.0
-- &id064
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: MAN-B&W 6S50MC SS 06/23
   unit: null
   values:
   - 6.0
+  - 50.0
   - 6.0
   - 23.0
-- &id065
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: ARDMORE SEALANCER 47,451
   unit: null
   values:
   - 47451.0
-- &id066
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: BWTS fitted, 4 Pumps DD 06/23
   unit: null
@@ -564,16 +511,14 @@ numeric_observations:
   - 4.0
   - 6.0
   - 23.0
-- &id067
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: Page 1 of 3
   unit: null
   values:
   - 1.0
   - 3.0
-- &id068
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: In Tankers this week, Asiatic Lloyd declared their two optional 50k
     dwt MR's at Hyundai Vinashin, with delivery of both vessels expected in 4Q 2023.
@@ -582,8 +527,7 @@ numeric_observations:
   - 50.0
   - 4.0
   - 2023.0
-- &id069
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: In containers, Daehan announced taking orders for four firm 7,200TEU
     Containerships from Clients of Danaos, within 2024, starting from April. It was
@@ -591,32 +535,28 @@ numeric_observations:
   values:
   - 7200.0
   - 2024.0
-- &id070
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: reported that Celsius ordered two firm 3,000TEU Containerships at Penglai
     Jinglu. The vessels hold a "Methanol ready" class notation and will both be
   unit: null
   values:
   - 3000.0
-- &id071
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: delivered in 1H 2024.
   unit: null
   values:
   - 1.0
   - 2024.0
-- &id072
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: In the Ferry market, Caledonian Maritime Assets (CMAL) announced ordering
     two firm 275LM RoPax's at Cemre Shipyard. The vessels are Battery-
   unit: null
   values:
   - 275.0
-- &id073
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: Hybrid Fitted and will be delivered in 4Q 2024 and 1Q 2025 respectively.
     Cemre Shipyard also announced taking order for a firm Batter-Hybrid fitted,
@@ -626,16 +566,14 @@ numeric_observations:
   - 2024.0
   - 1.0
   - 2025.0
-- &id074
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: 399 Passenger Ferry for Torghatten Nord, set to be delivered in 2024.
   unit: null
   values:
   - 399.0
   - 2024.0
-- &id075
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: This price follows an announcement from the Central Bank in Pakistan
     that imposed a 100% cash margin on the importation on 177 items including
@@ -643,16 +581,14 @@ numeric_observations:
   values:
   - 100.0
   - 177.0
-- &id076
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: balance of payments due to the struggling Pakistani rupee (PKR) which
     had depreciated to an all-time low of 185.4 against the dollar this week.
   unit: null
   values:
   - 185.4
-- &id077
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: SUNBEAM 171,199 2000 JAPAN 21,018 USD 715 / LDT PAKISTAN
   unit: usd
@@ -661,8 +597,7 @@ numeric_observations:
   - 2000.0
   - 21018.0
   - 715.0
-- &id078
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: BDI 2055 - 6 EURO/USD 1.0896 BUNKERS ROTTERDAM SPORE FUJAIRAH
   unit: usd
@@ -670,8 +605,7 @@ numeric_observations:
   - 2055.0
   - 6.0
   - 1.0896
-- &id079
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: BCI 1444 + 27 YEN/USD 0.00807 VLSFO 840.00 820.00 849.00
   unit: usd
@@ -681,8 +615,7 @@ numeric_observations:
   - 840.0
   - 820.0
   - 849.0
-- &id080
-  section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+- section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
   section_type: linked_pdf
   source_line: BPI 2777 - 1 BRENT MGO 1151.00 1088.50 1171.50
   unit: null
@@ -773,88 +706,593 @@ section_count: 2
 signals:
   numeric_observation_count: 88
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: In Tankers this week, Asiatic Lloyd declared their two optional 50k
+      dwt MR's at Hyundai Vinashin
+    unit: null
+    values:
+    - 50.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: Hellas S&P Weekly Bulletin 08 April 2022
+    unit: null
+    values:
+    - 8.0
+    - 2022.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: MAN-B&W 7S65ME-C8.2 SS 01/25
+    unit: null
+    values:
+    - 7.0
+    - 5.0
+    - 2.0
+    - 1.0
+    - 25.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: RED SAGE 182,443 2015 JMU USD 47.5 M EUROPEANS
+    unit: usd
+    values:
+    - 182443.0
+    - 2015.0
+    - 47.5
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: BWTS fitted DD 04/23
+    unit: null
+    values:
+    - 4.0
+    - 23.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: SS 01/24
+    unit: null
+    values:
+    - 1.0
+    - 24.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: MARAN PROGRESS 114,047
+    unit: null
+    values:
+    - 114047.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: DD 01/24
+    unit: null
+    values:
+    - 1.0
+    - 24.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: 2014 SHANGHAI
+    unit: null
+    values:
+    - 2014.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: SS 05/24
+    unit: null
+    values:
+    - 5.0
+    - 24.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: MARAN WISDOM 114,046
+    unit: null
+    values:
+    - 114046.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: DD 05/24
+    unit: null
+    values:
+    - 5.0
+    - 24.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: SS 04/23
+    unit: null
+    values:
+    - 4.0
+    - 23.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: MARAN ZENITH 114,038 2013 SHANGHAI
+    unit: null
+    values:
+    - 114038.0
+    - 2013.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: DD 04/23
+    unit: null
+    values:
+    - 4.0
+    - 23.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: SS 10/24
+    unit: null
+    values:
+    - 10.0
+    - 24.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: MARAN ASPIRATION 114,013 2012 SHANGHAI
+    unit: null
+    values:
+    - 114013.0
+    - 2012.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: DD 10/22
+    unit: null
+    values:
+    - 10.0
+    - 22.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: MAN-B&W 7S60MC-C7.2 USD 200 M
+    unit: usd
+    values:
+    - 7.0
+    - 2.0
+    - 200.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: SS 10/25
+    unit: null
+    values:
+    - 10.0
+    - 25.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: MARAN DAWN 114,091
+    unit: null
+    values:
+    - 114091.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: DD 02/23
+    unit: null
+    values:
+    - 2.0
+    - 23.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: SS 08/24
+    unit: null
+    values:
+    - 8.0
+    - 24.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: MARAN OCEAN 114,007
+    unit: null
+    values:
+    - 114007.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: DD 08/24
+    unit: null
+    values:
+    - 8.0
+    - 24.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: 2011 SHANGHAI
+    unit: null
+    values:
+    - 2011.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: SS 07/25
+    unit: null
+    values:
+    - 7.0
+    - 25.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: MARAN SKY 114,078
+    unit: null
+    values:
+    - 114078.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: DD 11/22
+    unit: null
+    values:
+    - 11.0
+    - 22.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: SS 08/25
+    unit: null
+    values:
+    - 8.0
+    - 25.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: MARAN SUN 114,078
+    unit: null
+    values:
+    - 114078.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: SS 08/22
+    unit: null
+    values:
+    - 8.0
+    - 22.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: CMB PAUILLAC 95,707 2012 IMABARI MAN-B&W 6S60MC-C USD 25 M F. EASTERNS
+    unit: usd
+    values:
+    - 95707.0
+    - 2012.0
+    - 6.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: DD 08/22
+    unit: null
+    values:
+    - 8.0
+    - 22.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: MAN-B&W 5S60MC-C8 SS 05/22
+    unit: null
+    values:
+    - 5.0
+    - 5.0
+    - 22.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: YANGTZE XING HUA 81,677 2012 GUANGZHOU LONGXUE RGN USD 22 M CHINESE
+    unit: usd
+    values:
+    - 81677.0
+    - 2012.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: Tier II, BWTS fitted DD 05/22
+    unit: null
+    values:
+    - 5.0
+    - 22.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: MAN-B&W 6S60MC-C SS 06/25
+    unit: null
+    values:
+    - 6.0
+    - 6.0
+    - 25.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: CORAL CRYSTAL 78,103 2012 SHIN KURUSHIMA RGN USD 25 M U/D
+    unit: usd
+    values:
+    - 78103.0
+    - 2012.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: BWTS fitted DD 07/23
+    unit: null
+    values:
+    - 7.0
+    - 23.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: MAN-B&W 6S50ME-B9.5
+    unit: null
+    values:
+    - 6.0
+    - 5.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: SS 06/24
+    unit: null
+    values:
+    - 6.0
+    - 24.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: ULTRA INITIATOR 62,647 2019 OSHIMA 4 x 30 T RGN USD 37 M CHINESE
+    unit: usd
+    values:
+    - 62647.0
+    - 2019.0
+    - 4.0
+    - 30.0
+    - 37.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: DD 06/22
+    unit: null
+    values:
+    - 6.0
+    - 22.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: MAN-B&W 5S50MC-C SS 08/25
+    unit: null
+    values:
+    - 5.0
+    - 8.0
+    - 25.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: STRATEGIC ENCOUNTER 33,000 2010 ZHEJIANG ZHENGHE USD 14 M U/D
+    unit: usd
+    values:
+    - 33000.0
+    - 2010.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: 4 x 30 T DD 08/23
+    unit: null
+    values:
+    - 4.0
+    - 30.0
+    - 8.0
+    - 23.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: MAN-B&W 6S70MC-C SS 08/26
+    unit: null
+    values:
+    - 6.0
+    - 8.0
+    - 26.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: SKS SKEENA 158,993 2006 HYUNDAI SAMHO USD 23.5 M U/D
+    unit: usd
+    values:
+    - 158993.0
+    - 2006.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: BWTS fitted DD 08/24
+    unit: null
+    values:
+    - 8.0
+    - 24.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: MAN-B&W 6G60ME-C10.5
+    unit: null
+    values:
+    - 6.0
+    - 0.5
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: SS 03/27 LIBYANS
+    unit: null
+    values:
+    - 3.0
+    - 27.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: PHILADELPHIA STAR 115,519 2022 DAEHAN Scrubber, BWTS flited RGN USD
+      61 M
+    unit: usd
+    values:
+    - 115519.0
+    - 2022.0
+    - 61.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: DD 05/25 (c/o GNMTC)
+    unit: tonnage
+    values:
+    - 5.0
+    - 25.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: SS 08/23
+    unit: null
+    values:
+    - 8.0
+    - 23.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: ARDOMORE SEALEADER 47,463
+    unit: null
+    values:
+    - 47463.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: DD 08/23
+    unit: null
+    values:
+    - 8.0
+    - 23.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: MAN-B&W 6S50MC
+    unit: null
+    values:
+    - 6.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: 4 Pumps USD 40 M GERMANS
+    unit: usd
+    values:
+    - 4.0
+    - 40.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: SS 07/23
+    unit: null
+    values:
+    - 7.0
+    - 23.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: ARDMORE SEALIFTER 47,463 2008 ONOMICHI EN BLOC (c/o Leonhardt &
+    unit: null
+    values:
+    - 47463.0
+    - 2008.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: DD 07/23
+    unit: null
+    values:
+    - 7.0
+    - 23.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: (basis min 2-y TC back) Blumberg)
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: MAN-B&W 6S50MC SS 06/23
+    unit: null
+    values:
+    - 6.0
+    - 6.0
+    - 23.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: ARDMORE SEALANCER 47,451
+    unit: null
+    values:
+    - 47451.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: BWTS fitted, 4 Pumps DD 06/23
+    unit: null
+    values:
+    - 4.0
+    - 6.0
+    - 23.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: Page 1 of 3
+    unit: null
+    values:
+    - 1.0
+    - 3.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: In Tankers this week, Asiatic Lloyd declared their two optional 50k
+      dwt MR's at Hyundai Vinashin, with delivery of both vessels expected in 4Q 2023.
+    unit: null
+    values:
+    - 50.0
+    - 4.0
+    - 2023.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: In containers, Daehan announced taking orders for four firm 7,200TEU
+      Containerships from Clients of Danaos, within 2024, starting from April. It
+      was
+    unit: null
+    values:
+    - 7200.0
+    - 2024.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: reported that Celsius ordered two firm 3,000TEU Containerships at
+      Penglai Jinglu. The vessels hold a "Methanol ready" class notation and will
+      both be
+    unit: null
+    values:
+    - 3000.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: delivered in 1H 2024.
+    unit: null
+    values:
+    - 1.0
+    - 2024.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: In the Ferry market, Caledonian Maritime Assets (CMAL) announced
+      ordering two firm 275LM RoPax's at Cemre Shipyard. The vessels are Battery-
+    unit: null
+    values:
+    - 275.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: Hybrid Fitted and will be delivered in 4Q 2024 and 1Q 2025 respectively.
+      Cemre Shipyard also announced taking order for a firm Batter-Hybrid fitted,
+    unit: null
+    values:
+    - 4.0
+    - 2024.0
+    - 1.0
+    - 2025.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: 399 Passenger Ferry for Torghatten Nord, set to be delivered in 2024.
+    unit: null
+    values:
+    - 399.0
+    - 2024.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: This price follows an announcement from the Central Bank in Pakistan
+      that imposed a 100% cash margin on the importation on 177 items including
+    unit: worldscale_pct
+    values:
+    - 100.0
+    - 177.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: balance of payments due to the struggling Pakistani rupee (PKR) which
+      had depreciated to an all-time low of 185.4 against the dollar this week.
+    unit: null
+    values:
+    - 185.4
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: SUNBEAM 171,199 2000 JAPAN 21,018 USD 715 / LDT PAKISTAN
+    unit: usd
+    values:
+    - 171199.0
+    - 2000.0
+    - 21018.0
+    - 715.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: BDI 2055 - 6 EURO/USD 1.0896 BUNKERS ROTTERDAM SPORE FUJAIRAH
+    unit: usd
+    values:
+    - 2055.0
+    - 6.0
+    - 1.0896
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: BCI 1444 + 27 YEN/USD 0.00807 VLSFO 840.00 820.00 849.00
+    unit: usd
+    values:
+    - 1444.0
+    - 27.0
+    - 840.0
+    - 820.0
+    - 849.0
+  - section: 'Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf'
+    section_type: linked_pdf
+    source_line: BPI 2777 - 1 BRENT MGO 1151.00 1088.50 1171.50
+    unit: null
+    values:
+    - 2777.0
+    - 1.0
+    - 1151.0
+    - 1088.5
+    - 1171.5
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2022/2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134.html
+source_path: corpus/02-hellenic/shipbuilding/2022/2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134.html
 source_stem: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134
 source_url: https://www.hellenicshippingnews.com/clarkson-platou-hellas-sp-weekly-bulletin-134
 summary: 'Main
@@ -1033,7 +1471,7 @@ In Tankers this week, Asiatic Lloyd declared their two optional 50k dwt MR's at 
 Source: Clarkson Platou (Hellas) ltd
 
 ## Linked asset: 2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf
-Source asset: reports/hellenic/shipbuilding/pdfs/2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf
+Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf
 
 [Page 1]
 `

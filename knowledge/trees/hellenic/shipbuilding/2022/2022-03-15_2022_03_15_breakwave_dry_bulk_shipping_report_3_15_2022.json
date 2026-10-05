@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1490,
-  "source_path": "reports/hellenic/shipbuilding/2022/2022-03-15_breakwave-dry-bulk-shipping-report-3-15-2022.html",
+  "token_count": 1492,
+  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-03-15_breakwave-dry-bulk-shipping-report-3-15-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-3-15-2022",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-03-15_breakwave-dry-bulk-shipping-report-3-15-2022_breakwavemarch152022report_cbec8e66b7d5.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-03-15_breakwave-dry-bulk-shipping-report-3-15-2022_breakwavemarch152022report_cbec8e66b7d5.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nMarch 15, 2022\nBreakwave Dry Futures Index: 2,775 Baltic Dry Index (spot): 2,727 Short-term Indicators:\n↑ 30D: 28.6% ↑ 30D: 37.4% Momentum: Positive\n↑ YTD: 43.5% ↑ YTD: 23.0% Sentiment: Positive\n↑ YOY: 51.9% ↑ YOY: 39.1% Fundamentals: Neutral\nBi-Weekly Report\n• Coal is driving the dry bulk market, but for how much longer? - Trade flows have clearly shifted in the coal market,\nand that is helping dry bulk rates overcome the seasonal weakness that would otherwise have subdued freight rates\nthis time of the year.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-03-15_breakwave-dry-bulk-shipping-report-3-15-2022_breakwavemarch152022report_cbec8e66b7d5.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nMarch 15, 2022\nBreakwave Dry Futures Index: 2,775 Baltic Dry Index (spot): 2,727 Short-term Indicators:\n↑ 30D: 28.6% ↑ 30D: 37.4% Momentum: Positive\n↑ YTD: 43.5% ↑ YTD: 23.0% Sentiment: Positive\n↑ YOY: 51.9% ↑ YOY: 39.1% Fundamentals: Neutral\nBi-Weekly Report\n• Coal is driving the dry bulk market, but for how much longer? - Trade flows have clearly shifted in the coal market,\nand that is helping dry bulk rates overcome the seasonal weakness that would otherwise have subdued freight rates\nthis time of the year.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1408,
+      "token_count": 1410,
       "section_type": "linked_pdf",
       "children": []
     }

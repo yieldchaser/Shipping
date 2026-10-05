@@ -5,6 +5,7 @@ commodities:
 date: '2026-02-06'
 doc_id: hellenic_shipbuilding_2026-02-06_2026_02_06_clarksons_platou_hellas_snp_weekly_bulletin_120
 document_type: shipbuilding_update
+is_error_page: false
 key_entities: []
 keywords:
 - capesize
@@ -25,10 +26,9 @@ linked_assets_ingested: 1
 linked_assets_mirrored: 1
 linked_assets_skipped: 0
 market_tone: constructive
-numeric_observation_count: 31
+numeric_observation_count: 33
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: At the larger end, the Capesize ROBUSTO (ABT 174 DWT, 2006, SWS, SCRUBBER)
     was sold to Chinese interests for USD 19.5 m with delivery in Far East between
@@ -37,9 +37,9 @@ numeric_observations:
   values:
   - 174.0
   - 2006.0
+  - 19500.0
   - 2026.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: In the Post Panamax segment, the JP CARETTA (ABT 88K DWT, 2008, IMABARI,
     SCRUBBER) was reported sold at region USD 13 m, while the Kamsarmax GASTONE (ABT
@@ -50,8 +50,8 @@ numeric_observations:
   - 2008.0
   - 81.0
   - 2012.0
-- &id003
-  section: Main
+  - 17600.0
+- section: Main
   section_type: null
   source_line: Within the geared segment, the Supramax SPAR CANIS (ABT 53K DWT, 2006,
     SHANGHAI CHENGXI) was reported sold at region USD 9 m to Chinese buyers, and the
@@ -62,17 +62,17 @@ numeric_observations:
   - 2006.0
   - 34.0
   - 2012.0
-- &id004
-  section: Main
+  - 13500.0
+- section: Main
   section_type: null
   source_line: On the tanker sector, the LR1 ATHIRI (ABT 74K DWT, 2010, SPP SACHEON)
     was acquired by Greek interests at USD 25 m.
   unit: usd
   values:
+  - 1.0
   - 74.0
   - 2010.0
-- &id005
-  section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+- section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
   section_type: linked_pdf
   source_line: At the larger end, the Capesize ROBUSTO (ABT 174 DWT, 2006, SWS, SCRUBBER)
     was sold to Chinese
@@ -80,16 +80,15 @@ numeric_observations:
   values:
   - 174.0
   - 2006.0
-- &id006
-  section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+- section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
   section_type: linked_pdf
   source_line: interests for USD 19.5 m with delivery in Far East between April -
     May 2026.
   unit: usd
   values:
+  - 19500.0
   - 2026.0
-- &id007
-  section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+- section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
   section_type: linked_pdf
   source_line: In the Post Panamax segment, the JP CARETTA (ABT 88K DWT, 2008, IMABARI,
     SCRUBBER) was reported
@@ -97,8 +96,7 @@ numeric_observations:
   values:
   - 88.0
   - 2008.0
-- &id008
-  section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+- section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
   section_type: linked_pdf
   source_line: sold at region USD 13 m, while the Kamsarmax GASTONE (ABT 81K DWT,
     2012, SUNGDONG) achieved a
@@ -106,8 +104,13 @@ numeric_observations:
   values:
   - 81.0
   - 2012.0
-- &id009
-  section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+- section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+  section_type: linked_pdf
+  source_line: price of USD 17.6 m.
+  unit: usd
+  values:
+  - 17600.0
+- section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
   section_type: linked_pdf
   source_line: Within the geared segment, the Supramax SPAR CANIS (ABT 53K DWT, 2006,
     SHANGHAI CHENGXI) was
@@ -115,8 +118,7 @@ numeric_observations:
   values:
   - 53.0
   - 2006.0
-- &id010
-  section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+- section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
   section_type: linked_pdf
   source_line: reported sold at region USD 9 m to Chinese buyers, and the Handysize
     JETSTREAM (ABT 34K, 2012, SPP
@@ -124,25 +126,30 @@ numeric_observations:
   values:
   - 34.0
   - 2012.0
-- &id011
-  section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+- section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+  section_type: linked_pdf
+  source_line: GOSEONG) changed hands at USD 13.5 m.
+  unit: usd
+  values:
+  - 13500.0
+- section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
   section_type: linked_pdf
   source_line: On the tanker sector, the LR1 ATHIRI (ABT 74K DWT, 2010, SPP SACHEON)
     was acquired by Greek interests
   unit: null
   values:
+  - 1.0
   - 74.0
   - 2010.0
-- &id012
-  section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+- section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
   section_type: linked_pdf
   source_line: B&W 6S70MC6.1
   unit: null
   values:
   - 6.0
-  - 1.0
-- &id013
-  section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+  - 70.0
+  - 6100.0
+- section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
   section_type: linked_pdf
   source_line: ROBUSTO 173,798 2006 SWS SCRUBBER SS 09/26 USD 19.5 M CHINESE
   unit: usd
@@ -151,24 +158,23 @@ numeric_observations:
   - 2006.0
   - 9.0
   - 26.0
-- &id014
-  section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+  - 19500.0
+- section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
   section_type: linked_pdf
   source_line: DD 08/26
   unit: null
   values:
   - 8.0
   - 26.0
-- &id015
-  section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+- section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
   section_type: linked_pdf
   source_line: B&W 6S60MC6.1
   unit: null
   values:
   - 6.0
-  - 1.0
-- &id016
-  section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+  - 60.0
+  - 6100.0
+- section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
   section_type: linked_pdf
   source_line: JP CARETTA 88,083 2008 IMABARI SCRUBBER SS 12/28 REGION USD 13 M U/D
   unit: usd
@@ -177,16 +183,14 @@ numeric_observations:
   - 2008.0
   - 12.0
   - 28.0
-- &id017
-  section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+- section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
   section_type: linked_pdf
   source_line: DD 09/26
   unit: null
   values:
   - 9.0
   - 26.0
-- &id018
-  section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+- section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
   section_type: linked_pdf
   source_line: GASTONE 81,521 2012 SUNGDONG B&W 6S60MC-C8.2 SS 12/27 USD 17.6 M U/D
   unit: usd
@@ -194,55 +198,53 @@ numeric_observations:
   - 81521.0
   - 2012.0
   - 6.0
-  - 2.0
+  - 60.0
+  - 8200.0
   - 12.0
   - 27.0
-- &id019
-  section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+  - 17600.0
+- section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
   section_type: linked_pdf
   source_line: BWTS FITTED DD 12/27
   unit: null
   values:
   - 12.0
   - 27.0
-- &id020
-  section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+- section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
   section_type: linked_pdf
   source_line: 2006 SHANGHAI B&W 6S50MC-C8.1
   unit: null
   values:
   - 2006.0
   - 6.0
-  - 1.0
-- &id021
-  section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+  - 50.0
+  - 8100.0
+- section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
   section_type: linked_pdf
   source_line: SPAR CANIS 53,565 4x36T SS 03/26 REGION USD 9 M CHINESE
   unit: usd
   values:
   - 53565.0
   - 4.0
-  - 6.0
+  - 36.0
   - 3.0
   - 26.0
-- &id022
-  section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+- section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
   section_type: linked_pdf
   source_line: CHENGXI DD 03/26
   unit: null
   values:
   - 3.0
   - 26.0
-- &id023
-  section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+- section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
   section_type: linked_pdf
   source_line: B&W 5S50MC-C8.2
   unit: null
   values:
   - 5.0
-  - 2.0
-- &id024
-  section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+  - 50.0
+  - 8200.0
+- section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
   section_type: linked_pdf
   source_line: JETSTREAM 34,563 2012 SPP GOSEONG 4x35T SS 05/27 USD 13.5 M U/D
   unit: usd
@@ -250,19 +252,18 @@ numeric_observations:
   - 34563.0
   - 2012.0
   - 4.0
-  - 5.0
+  - 35.0
   - 5.0
   - 27.0
-- &id025
-  section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+  - 13500.0
+- section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
   section_type: linked_pdf
   source_line: DD 05/27
   unit: null
   values:
   - 5.0
   - 27.0
-- &id026
-  section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+- section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
   section_type: linked_pdf
   source_line: ATHIRI 73,982 2010 SPP SACHEON B&W 6S60MC-C7.2 SS 09/30 USD 25 M GREEKS
   unit: usd
@@ -270,27 +271,25 @@ numeric_observations:
   - 73982.0
   - 2010.0
   - 6.0
-  - 2.0
+  - 60.0
+  - 7200.0
   - 9.0
   - 30.0
-- &id027
-  section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+- section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
   section_type: linked_pdf
   source_line: BWTS FITTED DD 10/28
   unit: null
   values:
   - 10.0
   - 28.0
-- &id028
-  section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+- section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
   section_type: linked_pdf
   source_line: 284 Kifissias Avenue ("Clarksons") for general information purposes.
     The Information is drawn from Clarksons' database and other sources. Clarksons
   unit: null
   values:
   - 284.0
-- &id029
-  section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+- section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
   section_type: linked_pdf
   source_line: 152 32 Information extracted from the databases of other maritime data
     collection agencies may differ from the Information extracted
@@ -298,8 +297,7 @@ numeric_observations:
   values:
   - 152.0
   - 32.0
-- &id030
-  section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+- section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
   section_type: linked_pdf
   source_line: Direct +(30) 210 458 6700 the Information is not an endorsement of
     any commercial policies and/or any conclusions by Clarksons and its 'connected
@@ -309,8 +307,7 @@ numeric_observations:
   - 210.0
   - 458.0
   - 6700.0
-- &id031
-  section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+- section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
   section_type: linked_pdf
   source_line: Fax +(30) 210 458 6799
   unit: null
@@ -327,39 +324,273 @@ section_count: 2
 signals:
   numeric_observation_count: 31
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
+  - section: Main
+    section_type: null
+    source_line: At the larger end, the Capesize ROBUSTO (ABT 174 DWT, 2006, SWS,
+      SCRUBBER) was sold to Chinese interests for USD 19.5 m with delivery in Far
+      East between April - May 2026.
+    unit: usd
+    values:
+    - 174.0
+    - 2006.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: In the Post Panamax segment, the JP CARETTA (ABT 88K DWT, 2008, IMABARI,
+      SCRUBBER) was reported sold at region USD 13 m, while the Kamsarmax GASTONE
+      (ABT 81K DWT, 2012, SUNGDONG) achieved a price of USD 17.6 m.
+    unit: usd
+    values:
+    - 88.0
+    - 2008.0
+    - 81.0
+    - 2012.0
+  - section: Main
+    section_type: null
+    source_line: Within the geared segment, the Supramax SPAR CANIS (ABT 53K DWT,
+      2006, SHANGHAI CHENGXI) was reported sold at region USD 9 m to Chinese buyers,
+      and the Handysize JETSTREAM (ABT 34K, 2012, SPP GOSEONG) changed hands at USD
+      13.5 m.
+    unit: usd
+    values:
+    - 53.0
+    - 2006.0
+    - 34.0
+    - 2012.0
+  - section: Main
+    section_type: null
+    source_line: On the tanker sector, the LR1 ATHIRI (ABT 74K DWT, 2010, SPP SACHEON)
+      was acquired by Greek interests at USD 25 m.
+    unit: usd
+    values:
+    - 74.0
+    - 2010.0
+  - section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+    section_type: linked_pdf
+    source_line: At the larger end, the Capesize ROBUSTO (ABT 174 DWT, 2006, SWS,
+      SCRUBBER) was sold to Chinese
+    unit: null
+    values:
+    - 174.0
+    - 2006.0
+  - section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+    section_type: linked_pdf
+    source_line: interests for USD 19.5 m with delivery in Far East between April
+      - May 2026.
+    unit: usd
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+    section_type: linked_pdf
+    source_line: In the Post Panamax segment, the JP CARETTA (ABT 88K DWT, 2008, IMABARI,
+      SCRUBBER) was reported
+    unit: null
+    values:
+    - 88.0
+    - 2008.0
+  - section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+    section_type: linked_pdf
+    source_line: sold at region USD 13 m, while the Kamsarmax GASTONE (ABT 81K DWT,
+      2012, SUNGDONG) achieved a
+    unit: usd
+    values:
+    - 81.0
+    - 2012.0
+  - section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+    section_type: linked_pdf
+    source_line: Within the geared segment, the Supramax SPAR CANIS (ABT 53K DWT,
+      2006, SHANGHAI CHENGXI) was
+    unit: null
+    values:
+    - 53.0
+    - 2006.0
+  - section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+    section_type: linked_pdf
+    source_line: reported sold at region USD 9 m to Chinese buyers, and the Handysize
+      JETSTREAM (ABT 34K, 2012, SPP
+    unit: usd
+    values:
+    - 34.0
+    - 2012.0
+  - section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+    section_type: linked_pdf
+    source_line: On the tanker sector, the LR1 ATHIRI (ABT 74K DWT, 2010, SPP SACHEON)
+      was acquired by Greek interests
+    unit: null
+    values:
+    - 74.0
+    - 2010.0
+  - section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+    section_type: linked_pdf
+    source_line: B&W 6S70MC6.1
+    unit: null
+    values:
+    - 6.0
+    - 1.0
+  - section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+    section_type: linked_pdf
+    source_line: ROBUSTO 173,798 2006 SWS SCRUBBER SS 09/26 USD 19.5 M CHINESE
+    unit: usd
+    values:
+    - 173798.0
+    - 2006.0
+    - 9.0
+    - 26.0
+  - section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+    section_type: linked_pdf
+    source_line: DD 08/26
+    unit: null
+    values:
+    - 8.0
+    - 26.0
+  - section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+    section_type: linked_pdf
+    source_line: B&W 6S60MC6.1
+    unit: null
+    values:
+    - 6.0
+    - 1.0
+  - section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+    section_type: linked_pdf
+    source_line: JP CARETTA 88,083 2008 IMABARI SCRUBBER SS 12/28 REGION USD 13 M
+      U/D
+    unit: usd
+    values:
+    - 88083.0
+    - 2008.0
+    - 12.0
+    - 28.0
+  - section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+    section_type: linked_pdf
+    source_line: DD 09/26
+    unit: null
+    values:
+    - 9.0
+    - 26.0
+  - section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+    section_type: linked_pdf
+    source_line: GASTONE 81,521 2012 SUNGDONG B&W 6S60MC-C8.2 SS 12/27 USD 17.6 M
+      U/D
+    unit: usd
+    values:
+    - 81521.0
+    - 2012.0
+    - 6.0
+    - 2.0
+    - 12.0
+    - 27.0
+  - section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+    section_type: linked_pdf
+    source_line: BWTS FITTED DD 12/27
+    unit: null
+    values:
+    - 12.0
+    - 27.0
+  - section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+    section_type: linked_pdf
+    source_line: 2006 SHANGHAI B&W 6S50MC-C8.1
+    unit: null
+    values:
+    - 2006.0
+    - 6.0
+    - 1.0
+  - section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+    section_type: linked_pdf
+    source_line: SPAR CANIS 53,565 4x36T SS 03/26 REGION USD 9 M CHINESE
+    unit: usd
+    values:
+    - 53565.0
+    - 4.0
+    - 6.0
+    - 3.0
+    - 26.0
+  - section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+    section_type: linked_pdf
+    source_line: CHENGXI DD 03/26
+    unit: null
+    values:
+    - 3.0
+    - 26.0
+  - section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+    section_type: linked_pdf
+    source_line: B&W 5S50MC-C8.2
+    unit: null
+    values:
+    - 5.0
+    - 2.0
+  - section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+    section_type: linked_pdf
+    source_line: JETSTREAM 34,563 2012 SPP GOSEONG 4x35T SS 05/27 USD 13.5 M U/D
+    unit: usd
+    values:
+    - 34563.0
+    - 2012.0
+    - 4.0
+    - 5.0
+    - 5.0
+    - 27.0
+  - section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+    section_type: linked_pdf
+    source_line: DD 05/27
+    unit: null
+    values:
+    - 5.0
+    - 27.0
+  - section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+    section_type: linked_pdf
+    source_line: ATHIRI 73,982 2010 SPP SACHEON B&W 6S60MC-C7.2 SS 09/30 USD 25 M
+      GREEKS
+    unit: usd
+    values:
+    - 73982.0
+    - 2010.0
+    - 6.0
+    - 2.0
+    - 9.0
+    - 30.0
+  - section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+    section_type: linked_pdf
+    source_line: BWTS FITTED DD 10/28
+    unit: null
+    values:
+    - 10.0
+    - 28.0
+  - section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+    section_type: linked_pdf
+    source_line: 284 Kifissias Avenue ("Clarksons") for general information purposes.
+      The Information is drawn from Clarksons' database and other sources. Clarksons
+    unit: null
+    values:
+    - 284.0
+  - section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+    section_type: linked_pdf
+    source_line: 152 32 Information extracted from the databases of other maritime
+      data collection agencies may differ from the Information extracted
+    unit: null
+    values:
+    - 152.0
+    - 32.0
+  - section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+    section_type: linked_pdf
+    source_line: Direct +(30) 210 458 6700 the Information is not an endorsement of
+      any commercial policies and/or any conclusions by Clarksons and its 'connected
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6700.0
+  - section: 'Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf'
+    section_type: linked_pdf
+    source_line: Fax +(30) 210 458 6799
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6799.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2026/2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120.html
+source_path: corpus/02-hellenic/shipbuilding/2026/2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120.html
 source_stem: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120
 source_url: https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-120
 summary: 'Main
@@ -409,7 +640,7 @@ On the tanker sector, the LR1 ATHIRI (ABT 74K DWT, 2010, SPP SACHEON) was acquir
 Source: Clarkson Platou (Hellas) ltd
 
 ## Linked asset: 2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf
-Source asset: reports/hellenic/shipbuilding/pdfs/2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf
+Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-02-06_clarksons-platou-hellas-snp-weekly-bulletin-120_weekly-sales-06th-feb-2026_335c93bf5a47.pdf
 
 [Page 1]
 Clarkson Hellas Ltd.

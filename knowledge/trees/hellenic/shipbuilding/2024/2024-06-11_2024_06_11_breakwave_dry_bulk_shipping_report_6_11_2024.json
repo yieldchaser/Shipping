@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1522,
-  "source_path": "reports/hellenic/shipbuilding/2024/2024-06-11_breakwave-dry-bulk-shipping-report-6-11-2024.html",
+  "token_count": 1524,
+  "source_path": "corpus/02-hellenic/shipbuilding/2024/2024-06-11_breakwave-dry-bulk-shipping-report-6-11-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-6-11-2024",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2024-06-11_breakwave-dry-bulk-shipping-report-6-11-2024_breakwavedryjune112024report_539bef498f8a.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2024-06-11_breakwave-dry-bulk-shipping-report-6-11-2024_breakwavedryjune112024report_539bef498f8a.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nJune 11, 2024\nBreakwave Dry Futures Index: 2,021 Baltic Dry Index (spot): 1,883 Short-term Indicators:\n↓ 30D: -10.2% ↓ 30D: -11.6% Momentum: Neutral\n↑ YTD: 34.8% ↓ YTD: -10.1% Sentiment: Neutral\n↑ YOY: 43.8% ↑ YOY: 78.5% Fundamentals: Negative\nBi-Weekly Report\n• Steady as it goes while curve inverses and sentiment moderates - The past few weeks have been uncharacteristically\ncalm for the otherwise volatile dry bulk market. Although spot Capesize rates have been ticking higher, such a strength\nhas not been jumpy as it usually is, at a time when futures were already pricing some improvement going to the\nmonth of June.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2024-06-11_breakwave-dry-bulk-shipping-report-6-11-2024_breakwavedryjune112024report_539bef498f8a.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nJune 11, 2024\nBreakwave Dry Futures Index: 2,021 Baltic Dry Index (spot): 1,883 Short-term Indicators:\n↓ 30D: -10.2% ↓ 30D: -11.6% Momentum: Neutral\n↑ YTD: 34.8% ↓ YTD: -10.1% Sentiment: Neutral\n↑ YOY: 43.8% ↑ YOY: 78.5% Fundamentals: Negative\nBi-Weekly Report\n• Steady as it goes while curve inverses and sentiment moderates - The past few weeks have been uncharacteristically\ncalm for the otherwise volatile dry bulk market. Although spot Capesize rates have been ticking higher, such a strength\nhas not been jumpy as it usually is, at a time when futures were already pricing some improvement going to the\nmonth of June.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1437,
+      "token_count": 1439,
       "section_type": "linked_pdf",
       "children": []
     }

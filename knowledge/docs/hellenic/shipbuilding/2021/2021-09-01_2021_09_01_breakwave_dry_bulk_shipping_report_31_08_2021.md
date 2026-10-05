@@ -8,6 +8,7 @@ commodities:
 date: '2021-09-01'
 doc_id: hellenic_shipbuilding_2021-09-01_2021_09_01_breakwave_dry_bulk_shipping_report_31_08_2021
 document_type: shipbuilding_update
+is_error_page: false
 key_entities:
 - China
 - Brazil
@@ -31,10 +32,9 @@ linked_assets_ingested: 1
 linked_assets_mirrored: 1
 linked_assets_skipped: 0
 market_tone: constructive
-numeric_observation_count: 29
+numeric_observation_count: 31
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Capesize rates reach 50k. Are the next 10k higher or lower? - With
     the Atlantic market taking the lead from an already hot Pacific
@@ -42,16 +42,14 @@ numeric_observations:
   values:
   - 50.0
   - 10.0
-- &id002
-  section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+- section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
   section_type: linked_pdf
   source_line: August 31, 2021
   unit: null
   values:
   - 31.0
   - 2021.0
-- &id003
-  section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+- section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
   section_type: linked_pdf
   source_line: 'Breakwave Dry Futures Index: 3,753 Baltic Dry Index (spot): 4,235
     Short-term Indicators:'
@@ -59,34 +57,30 @@ numeric_observations:
   values:
   - 3753.0
   - 4235.0
-- &id004
-  section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+- section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
   section_type: linked_pdf
   source_line: '↑ 30D: 11.9% ↑ 30D: 28.6% Momentum: Neutral'
   unit: pct
   values:
   - 30.0
-  - 11.9
+  - 11900.0
   - 30.0
-  - 28.6
-- &id005
-  section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+  - 28600.0
+- section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
   section_type: linked_pdf
   source_line: '↑ YTD: 278.8% ↑ YTD: 210.0% Sentiment: Neutral'
   unit: pct
   values:
   - 278.8
   - 210.0
-- &id006
-  section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+- section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
   section_type: linked_pdf
   source_line: '↑ YOY: 126.2% ↑ YOY: 184.6% Fundamentals: Positive'
   unit: pct
   values:
   - 126.2
   - 184.6
-- &id007
-  section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+- section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
   section_type: linked_pdf
   source_line: • Capesize rates reach 50k. Are the next 10k higher or lower? - With
     the Atlantic market taking the lead from an
@@ -94,8 +88,7 @@ numeric_observations:
   values:
   - 50.0
   - 10.0
-- &id008
-  section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+- section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
   section_type: linked_pdf
   source_line: already hot Pacific, the Capesize spot index rushed past 40,000 and
     reached the 50,000 mark in matter of days,
@@ -103,24 +96,36 @@ numeric_observations:
   values:
   - 40000.0
   - 50000.0
-- &id009
-  section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+- section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+  section_type: linked_pdf
+  source_line: 'Q4 relative to Q3: spot rate seasonality was negatively impacted during
+    the past two years due to various reasons'
+  unit: null
+  values:
+  - 4.0
+  - 3.0
+- section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+  section_type: linked_pdf
+  source_line: and Q4 might end up being the strongest quarter of the year for the
+    spot market.
+  unit: null
+  values:
+  - 4.0
+- section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
   section_type: linked_pdf
   source_line: • Volatility in dry bulk freight to remain elevated - For the rest
     of 2021, we expect demand growth for dry bulk
   unit: null
   values:
   - 2021.0
-- &id010
-  section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+- section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
   section_type: linked_pdf
   source_line: levels of the 2000s, directionally, utilization is heading to new multi-year
     highs that have the potential to push
   unit: null
   values:
   - 2000.0
-- &id011
-  section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+- section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
   section_type: linked_pdf
   source_line: The Baltic Dry Index (BDI) measures the average spot rates for dry
     bulk freight with a sector weighting of 40% Capesize, 30% Panamax and 30% Supramax.
@@ -129,8 +134,7 @@ numeric_observations:
   - 40.0
   - 30.0
   - 30.0
-- &id012
-  section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+- section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
   section_type: linked_pdf
   source_line: The Breakwave Dry Futures Index (BDRYFF) is designed to track freight
     futures contracts with a sector weighting of 50% Capesize, 40% Panamax and 10%
@@ -139,16 +143,14 @@ numeric_observations:
   - 50.0
   - 40.0
   - 10.0
-- &id013
-  section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+- section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
   section_type: linked_pdf
   source_line: Supramax and a weighted average maturity of approximately 50-70 days.
   unit: null
   values:
   - 50.0
   - -70.0
-- &id014
-  section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+- section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
   section_type: linked_pdf
   source_line: Sep-20 Oct-20 Nov-20 Dec-20 Jan-21 Feb-21 Mar-21 Apr-21 May-21 Jun-21
     Jul-21 Aug-21
@@ -164,104 +166,91 @@ numeric_observations:
   - 21.0
   - 21.0
   - 21.0
-- &id015
-  section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+- section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
   section_type: linked_pdf
   source_line: China Steel Production 649mt 9.5%
   unit: tonnage
   values:
   - 649.0
-  - 9.5
-- &id016
-  section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+  - 9500.0
+- section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
   section_type: linked_pdf
   source_line: China Steel Inventories 7.1mt -9.4%
   unit: tonnage
   values:
-  - 7.1
+  - 7100.0
   - -9.4
-- &id017
-  section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+- section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
   section_type: linked_pdf
   source_line: China Iron Ore Inventories 129mt 11.7%
   unit: tonnage
   values:
   - 129.0
-  - 11.7
-- &id018
-  section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+  - 11700.0
+- section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
   section_type: linked_pdf
   source_line: China Iron Ore Imports 650mt -1.5%
   unit: tonnage
   values:
   - 650.0
   - -1.5
-- &id019
-  section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+- section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
   section_type: linked_pdf
   source_line: China Coal Imports 170mt -15.2%
   unit: tonnage
   values:
   - 170.0
   - -15.2
-- &id020
-  section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+- section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
   section_type: linked_pdf
   source_line: China Soybean Imports 58mt 4.5%
   unit: tonnage
   values:
   - 58.0
   - 4.5
-- &id021
-  section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+- section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
   section_type: linked_pdf
   source_line: Brazil Iron Ore Exports 184mt 7.0%
   unit: tonnage
   values:
   - 184.0
-  - 7.0
-- &id022
-  section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+  - 7000.0
+- section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
   section_type: linked_pdf
   source_line: Australia Iron Ore Exports 429mt 0.3%
   unit: tonnage
   values:
   - 429.0
   - 0.3
-- &id023
-  section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+- section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
   section_type: linked_pdf
   source_line: Dry Bulk Fleet 895dwt 3.2%
   unit: pct
   values:
   - 895.0
   - 3.2
-- &id024
-  section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+- section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
   section_type: linked_pdf
   source_line: Baltic Dry Index, Average 2,554 179.5%
   unit: pct
   values:
   - 2554.0
   - 179.5
-- &id025
-  section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+- section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
   section_type: linked_pdf
   source_line: Capesize Spot Rates, Average 27,036 145.6%
   unit: pct
   values:
   - 27036.0
   - 145.6
-- &id026
-  section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+- section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
   section_type: linked_pdf
   source_line: Panamax Spot rates, Average 23,692 216.5%
   unit: pct
   values:
   - 23692.0
   - 216.5
-- &id027
-  section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+- section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
   section_type: linked_pdf
   source_line: recipient's internal use only. This report does not constitute and
     will not form part of and should not be construed as a 17 State Street, 40th floor
@@ -269,16 +258,14 @@ numeric_observations:
   values:
   - 17.0
   - 40.0
-- &id028
-  section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+- section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
   section_type: linked_pdf
   source_line: solicitation of any offer to buy or sell any security, commodity or
     instrument or related derivative or to participate in any New York, NY 10004
   unit: null
   values:
   - 10004.0
-- &id029
-  section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+- section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
   section_type: linked_pdf
   source_line: 'trading or investment strategy. The opinions and estimates included
     herein reflect views and available information as of Tel: +(1) 646 775 2898'
@@ -300,37 +287,235 @@ section_count: 2
 signals:
   numeric_observation_count: 29
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
+  - section: Main
+    section_type: null
+    source_line: Capesize rates reach 50k. Are the next 10k higher or lower? - With
+      the Atlantic market taking the lead from an already hot Pacific
+    unit: null
+    values:
+    - 50.0
+    - 10.0
+  - section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+    section_type: linked_pdf
+    source_line: August 31, 2021
+    unit: null
+    values:
+    - 31.0
+    - 2021.0
+  - section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+    section_type: linked_pdf
+    source_line: 'Breakwave Dry Futures Index: 3,753 Baltic Dry Index (spot): 4,235
+      Short-term Indicators:'
+    unit: null
+    values:
+    - 3753.0
+    - 4235.0
+  - section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+    section_type: linked_pdf
+    source_line: '↑ 30D: 11.9% ↑ 30D: 28.6% Momentum: Neutral'
+    unit: pct
+    values:
+    - 30.0
+    - 11.9
+    - 30.0
+    - 28.6
+  - section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+    section_type: linked_pdf
+    source_line: '↑ YTD: 278.8% ↑ YTD: 210.0% Sentiment: Neutral'
+    unit: pct
+    values:
+    - 278.8
+    - 210.0
+  - section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+    section_type: linked_pdf
+    source_line: '↑ YOY: 126.2% ↑ YOY: 184.6% Fundamentals: Positive'
+    unit: pct
+    values:
+    - 126.2
+    - 184.6
+  - section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+    section_type: linked_pdf
+    source_line: • Capesize rates reach 50k. Are the next 10k higher or lower? - With
+      the Atlantic market taking the lead from an
+    unit: null
+    values:
+    - 50.0
+    - 10.0
+  - section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+    section_type: linked_pdf
+    source_line: already hot Pacific, the Capesize spot index rushed past 40,000 and
+      reached the 50,000 mark in matter of days,
+    unit: null
+    values:
+    - 40000.0
+    - 50000.0
+  - section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+    section_type: linked_pdf
+    source_line: • Volatility in dry bulk freight to remain elevated - For the rest
+      of 2021, we expect demand growth for dry bulk
+    unit: null
+    values:
+    - 2021.0
+  - section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+    section_type: linked_pdf
+    source_line: levels of the 2000s, directionally, utilization is heading to new
+      multi-year highs that have the potential to push
+    unit: null
+    values:
+    - 2000.0
+  - section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+    section_type: linked_pdf
+    source_line: The Baltic Dry Index (BDI) measures the average spot rates for dry
+      bulk freight with a sector weighting of 40% Capesize, 30% Panamax and 30% Supramax.
+    unit: pct
+    values:
+    - 40.0
+    - 30.0
+    - 30.0
+  - section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+    section_type: linked_pdf
+    source_line: The Breakwave Dry Futures Index (BDRYFF) is designed to track freight
+      futures contracts with a sector weighting of 50% Capesize, 40% Panamax and 10%
+    unit: pct
+    values:
+    - 50.0
+    - 40.0
+    - 10.0
+  - section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+    section_type: linked_pdf
+    source_line: Supramax and a weighted average maturity of approximately 50-70 days.
+    unit: null
+    values:
+    - 50.0
+    - -70.0
+  - section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+    section_type: linked_pdf
+    source_line: Sep-20 Oct-20 Nov-20 Dec-20 Jan-21 Feb-21 Mar-21 Apr-21 May-21 Jun-21
+      Jul-21 Aug-21
+    unit: null
+    values:
+    - 20.0
+    - 20.0
+    - 20.0
+    - 20.0
+    - 21.0
+    - 21.0
+    - 21.0
+    - 21.0
+    - 21.0
+    - 21.0
+  - section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+    section_type: linked_pdf
+    source_line: China Steel Production 649mt 9.5%
+    unit: tonnage
+    values:
+    - 649.0
+    - 9.5
+  - section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+    section_type: linked_pdf
+    source_line: China Steel Inventories 7.1mt -9.4%
+    unit: tonnage
+    values:
+    - 7.1
+    - -9.4
+  - section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+    section_type: linked_pdf
+    source_line: China Iron Ore Inventories 129mt 11.7%
+    unit: tonnage
+    values:
+    - 129.0
+    - 11.7
+  - section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+    section_type: linked_pdf
+    source_line: China Iron Ore Imports 650mt -1.5%
+    unit: tonnage
+    values:
+    - 650.0
+    - -1.5
+  - section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+    section_type: linked_pdf
+    source_line: China Coal Imports 170mt -15.2%
+    unit: tonnage
+    values:
+    - 170.0
+    - -15.2
+  - section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+    section_type: linked_pdf
+    source_line: China Soybean Imports 58mt 4.5%
+    unit: tonnage
+    values:
+    - 58.0
+    - 4.5
+  - section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+    section_type: linked_pdf
+    source_line: Brazil Iron Ore Exports 184mt 7.0%
+    unit: tonnage
+    values:
+    - 184.0
+    - 7.0
+  - section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+    section_type: linked_pdf
+    source_line: Australia Iron Ore Exports 429mt 0.3%
+    unit: tonnage
+    values:
+    - 429.0
+    - 0.3
+  - section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+    section_type: linked_pdf
+    source_line: Dry Bulk Fleet 895dwt 3.2%
+    unit: pct
+    values:
+    - 895.0
+    - 3.2
+  - section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+    section_type: linked_pdf
+    source_line: Baltic Dry Index, Average 2,554 179.5%
+    unit: pct
+    values:
+    - 2554.0
+    - 179.5
+  - section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+    section_type: linked_pdf
+    source_line: Capesize Spot Rates, Average 27,036 145.6%
+    unit: pct
+    values:
+    - 27036.0
+    - 145.6
+  - section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+    section_type: linked_pdf
+    source_line: Panamax Spot rates, Average 23,692 216.5%
+    unit: pct
+    values:
+    - 23692.0
+    - 216.5
+  - section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+    section_type: linked_pdf
+    source_line: recipient's internal use only. This report does not constitute and
+      will not form part of and should not be construed as a 17 State Street, 40th
+      floor
+    unit: null
+    values:
+    - 17.0
+    - 40.0
+  - section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+    section_type: linked_pdf
+    source_line: solicitation of any offer to buy or sell any security, commodity
+      or instrument or related derivative or to participate in any New York, NY 10004
+    unit: null
+    values:
+    - 10004.0
+  - section: 'Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf'
+    section_type: linked_pdf
+    source_line: 'trading or investment strategy. The opinions and estimates included
+      herein reflect views and available information as of Tel: +(1) 646 775 2898'
+    unit: null
+    values:
+    - 1.0
+    - 646.0
+    - 775.0
+    - 2898.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2021/2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021.html
+source_path: corpus/02-hellenic/shipbuilding/2021/2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021.html
 source_stem: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021
 source_url: https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-31-08-2021
 summary: 'Are the next 10k higher or lower? - With the Atlantic market taking the
@@ -407,7 +592,7 @@ Capesize rates reach 50k. Are the next 10k higher or lower? - With the Atlantic 
 Source: Breakwave Advisors
 
 ## Linked asset: 2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf
-Source asset: reports/hellenic/shipbuilding/pdfs/2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf
+Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-09-01_breakwave-dry-bulk-shipping-report-31-08-2021_breakwaveaugust312021report_e50868c782a2.pdf
 
 [Page 1]
 www.drybulkETF.com

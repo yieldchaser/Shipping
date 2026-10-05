@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2205,
-  "source_path": "reports/hellenic/shipbuilding/2026/2026-05-15_clarksons-platou-hellas-snp-weekly-bulletin-132.html",
+  "token_count": 2207,
+  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-05-15_clarksons-platou-hellas-snp-weekly-bulletin-132.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-132",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-05-15_clarksons-platou-hellas-snp-weekly-bulletin-132_weekly-sales-15th-may-2026_4b6e66461f46.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-05-15_clarksons-platou-hellas-snp-weekly-bulletin-132_weekly-sales-15th-may-2026_4b6e66461f46.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nThis week's SnP activity has primarily centered around large tankers and midsized bulk carriers, with\nvarious negotiations progressing across sectors and several transactions materializing.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-05-15_clarksons-platou-hellas-snp-weekly-bulletin-132_weekly-sales-15th-may-2026_4b6e66461f46.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nThis week's SnP activity has primarily centered around large tankers and midsized bulk carriers, with\nvarious negotiations progressing across sectors and several transactions materializing.",
       "keywords": [
         "supramax",
         "vlcc",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1686,
+      "token_count": 1688,
       "section_type": "linked_pdf",
       "children": []
     }

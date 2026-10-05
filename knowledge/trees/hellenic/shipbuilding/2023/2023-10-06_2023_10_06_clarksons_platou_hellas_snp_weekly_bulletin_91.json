@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2215,
-  "source_path": "reports/hellenic/shipbuilding/2023/2023-10-06_clarksons-platou-hellas-snp-weekly-bulletin-91.html",
+  "token_count": 2217,
+  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-10-06_clarksons-platou-hellas-snp-weekly-bulletin-91.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-91",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-10-06_clarksons-platou-hellas-snp-weekly-bulletin-91_report-06-10-2023_7981d2504db0.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-10-06_clarksons-platou-hellas-snp-weekly-bulletin-91_report-06-10-2023_7981d2504db0.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 06 Oct 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B.& W. 6S70MC-\nAM GIJON 178,462 2011 MITSUI C7.2, SS 11/25 USD 25.75 M GREEKS\nDD 11/23\nBWTS fitted\n2010 JIANGSU\nCAPE STAR 175,366 MAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-10-06_clarksons-platou-hellas-snp-weekly-bulletin-91_report-06-10-2023_7981d2504db0.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 06 Oct 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B.& W. 6S70MC-\nAM GIJON 178,462 2011 MITSUI C7.2, SS 11/25 USD 25.75 M GREEKS\nDD 11/23\nBWTS fitted\n2010 JIANGSU\nCAPE STAR 175,366 MAN B.",
       "keywords": [
         "capesize",
         "lng",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2120,
+      "token_count": 2122,
       "section_type": "linked_pdf",
       "children": []
     }

@@ -4,6 +4,7 @@ commodities: []
 date: '2026-06-05'
 doc_id: hellenic_shipbuilding_2026-06-05_2026_06_05_clarksons_platou_hellas_snp_weekly_bulletin_135
 document_type: shipbuilding_update
+is_error_page: false
 key_entities:
 - Middle East
 keywords:
@@ -25,10 +26,9 @@ linked_assets_ingested: 1
 linked_assets_mirrored: 1
 linked_assets_skipped: 0
 market_tone: constructive
-numeric_observation_count: 12
+numeric_observation_count: 13
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: In the Kamsarmax sector, Chinese Buyers have emerged behind the DIMITRIS
     A (ABT 83K DWT, 2008, TSUNEISHI ZHOUSHAN), which was sold for USD 14.8m.
@@ -36,8 +36,8 @@ numeric_observations:
   values:
   - 83.0
   - 2008.0
-- &id002
-  section: Main
+  - 14800.0
+- section: Main
   section_type: null
   source_line: On the Supramax front, the AE MARS (ABT 53K DWT, 2006, SINOPACIFIC
     DAYANG) was sold via auction at xs USD 9m to Chinese interests.
@@ -45,8 +45,7 @@ numeric_observations:
   values:
   - 53.0
   - 2006.0
-- &id003
-  section: 'Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf'
+- section: 'Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf'
   section_type: linked_pdf
   source_line: In the Kamsarmax sector, Chinese Buyers have emerged behind the DIMITRIS
     A (ABT 83K DWT, 2008,
@@ -54,8 +53,13 @@ numeric_observations:
   values:
   - 83.0
   - 2008.0
-- &id004
-  section: 'Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf'
+- section: 'Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf'
+  section_type: linked_pdf
+  source_line: TSUNEISHI ZHOUSHAN), which was sold for USD 14.8m.
+  unit: usd
+  values:
+  - 14800.0
+- section: 'Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf'
   section_type: linked_pdf
   source_line: On the Supramax front, the AE MARS (ABT 53K DWT, 2006, SINOPACIFIC
     DAYANG) was sold via auction
@@ -63,8 +67,7 @@ numeric_observations:
   values:
   - 53.0
   - 2006.0
-- &id005
-  section: 'Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf'
+- section: 'Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf'
   section_type: linked_pdf
   source_line: DIMITRIS A 82,518 2008 TSUNEISHI B&W 7S50MC-C8.1 SS 08/28 USD 14.8
     M CHINESE
@@ -73,19 +76,19 @@ numeric_observations:
   - 82518.0
   - 2008.0
   - 7.0
-  - 1.0
+  - 50.0
+  - 8100.0
   - 8.0
   - 28.0
-- &id006
-  section: 'Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf'
+  - 14800.0
+- section: 'Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf'
   section_type: linked_pdf
   source_line: ZHOUSHAN DD 09/26
   unit: null
   values:
   - 9.0
   - 26.0
-- &id007
-  section: 'Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf'
+- section: 'Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf'
   section_type: linked_pdf
   source_line: AE MARS 53,630 2006 SINOPACIFIC B&W 6S50MC-C8.1 SS 08/26 XS USD 9 M
     CHINESE
@@ -94,27 +97,25 @@ numeric_observations:
   - 53630.0
   - 2006.0
   - 6.0
-  - 1.0
+  - 50.0
+  - 8100.0
   - 8.0
   - 26.0
-- &id008
-  section: 'Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf'
+- section: 'Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf'
   section_type: linked_pdf
   source_line: DAYANG DD 08/26
   unit: null
   values:
   - 8.0
   - 26.0
-- &id009
-  section: 'Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf'
+- section: 'Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf'
   section_type: linked_pdf
   source_line: 284 Kifissias Avenue ("Clarksons") for general information purposes.
     The Information is drawn from Clarksons' database and other sources. Clarksons
   unit: null
   values:
   - 284.0
-- &id010
-  section: 'Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf'
+- section: 'Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf'
   section_type: linked_pdf
   source_line: 152 32 Information extracted from the databases of other maritime data
     collection agencies may differ from the Information extracted
@@ -122,8 +123,7 @@ numeric_observations:
   values:
   - 152.0
   - 32.0
-- &id011
-  section: 'Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf'
+- section: 'Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf'
   section_type: linked_pdf
   source_line: Direct +(30) 210 458 6700 the Information is not an endorsement of
     any commercial policies and/or any conclusions by Clarksons and its 'connected
@@ -133,8 +133,7 @@ numeric_observations:
   - 210.0
   - 458.0
   - 6700.0
-- &id012
-  section: 'Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf'
+- section: 'Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf'
   section_type: linked_pdf
   source_line: Fax +(30) 210 458 6799
   unit: null
@@ -152,20 +151,112 @@ section_count: 2
 signals:
   numeric_observation_count: 12
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
+  - section: Main
+    section_type: null
+    source_line: In the Kamsarmax sector, Chinese Buyers have emerged behind the DIMITRIS
+      A (ABT 83K DWT, 2008, TSUNEISHI ZHOUSHAN), which was sold for USD 14.8m.
+    unit: usd
+    values:
+    - 83.0
+    - 2008.0
+  - section: Main
+    section_type: null
+    source_line: On the Supramax front, the AE MARS (ABT 53K DWT, 2006, SINOPACIFIC
+      DAYANG) was sold via auction at xs USD 9m to Chinese interests.
+    unit: usd
+    values:
+    - 53.0
+    - 2006.0
+  - section: 'Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf'
+    section_type: linked_pdf
+    source_line: In the Kamsarmax sector, Chinese Buyers have emerged behind the DIMITRIS
+      A (ABT 83K DWT, 2008,
+    unit: null
+    values:
+    - 83.0
+    - 2008.0
+  - section: 'Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf'
+    section_type: linked_pdf
+    source_line: On the Supramax front, the AE MARS (ABT 53K DWT, 2006, SINOPACIFIC
+      DAYANG) was sold via auction
+    unit: null
+    values:
+    - 53.0
+    - 2006.0
+  - section: 'Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf'
+    section_type: linked_pdf
+    source_line: DIMITRIS A 82,518 2008 TSUNEISHI B&W 7S50MC-C8.1 SS 08/28 USD 14.8
+      M CHINESE
+    unit: usd
+    values:
+    - 82518.0
+    - 2008.0
+    - 7.0
+    - 1.0
+    - 8.0
+    - 28.0
+  - section: 'Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf'
+    section_type: linked_pdf
+    source_line: ZHOUSHAN DD 09/26
+    unit: null
+    values:
+    - 9.0
+    - 26.0
+  - section: 'Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf'
+    section_type: linked_pdf
+    source_line: AE MARS 53,630 2006 SINOPACIFIC B&W 6S50MC-C8.1 SS 08/26 XS USD 9
+      M CHINESE
+    unit: usd
+    values:
+    - 53630.0
+    - 2006.0
+    - 6.0
+    - 1.0
+    - 8.0
+    - 26.0
+  - section: 'Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf'
+    section_type: linked_pdf
+    source_line: DAYANG DD 08/26
+    unit: null
+    values:
+    - 8.0
+    - 26.0
+  - section: 'Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf'
+    section_type: linked_pdf
+    source_line: 284 Kifissias Avenue ("Clarksons") for general information purposes.
+      The Information is drawn from Clarksons' database and other sources. Clarksons
+    unit: null
+    values:
+    - 284.0
+  - section: 'Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf'
+    section_type: linked_pdf
+    source_line: 152 32 Information extracted from the databases of other maritime
+      data collection agencies may differ from the Information extracted
+    unit: null
+    values:
+    - 152.0
+    - 32.0
+  - section: 'Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf'
+    section_type: linked_pdf
+    source_line: Direct +(30) 210 458 6700 the Information is not an endorsement of
+      any commercial policies and/or any conclusions by Clarksons and its 'connected
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6700.0
+  - section: 'Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf'
+    section_type: linked_pdf
+    source_line: Fax +(30) 210 458 6799
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6799.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2026/2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135.html
+source_path: corpus/02-hellenic/shipbuilding/2026/2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135.html
 source_stem: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135
 source_url: https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-135
 summary: One of the biggest and busiest Posidonia events ever. With the majority of
@@ -212,7 +303,7 @@ Although no new tanker sales can be reported, several negotiations are understoo
 Source: Clarkson Platou (Hellas) ltd
 
 ## Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf
-Source asset: reports/hellenic/shipbuilding/pdfs/2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf
+Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf
 
 [Page 1]
 Clarkson Hellas Ltd.

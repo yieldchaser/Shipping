@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1765,
-  "source_path": "reports/hellenic/shipbuilding/2025/2025-06-24_breakwave-dry-bulk-shipping-report-6-24-2025.html",
+  "token_count": 1767,
+  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-06-24_breakwave-dry-bulk-shipping-report-6-24-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-6-24-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-06-24_breakwave-dry-bulk-shipping-report-6-24-2025_breakwavedryjune242025report_2eb4abe193b1.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-06-24_breakwave-dry-bulk-shipping-report-6-24-2025_breakwavedryjune242025report_2eb4abe193b1.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nJune 24, 2025\n• Capesize Spike Fades as Market Balance Loosens - The recent rally that pushed\nShort-term Indicators\nspot Capesize rates to the $30,000 mark is beginning to lose steam, with signs of\nMomentum: Neutral\nweakness emerging in the Pacific market. Simultaneously, the previously\noverheated Atlantic basin is now experiencing an increase in vessel availability Sentiment: Negative\nfor July loading dates.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-06-24_breakwave-dry-bulk-shipping-report-6-24-2025_breakwavedryjune242025report_2eb4abe193b1.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nJune 24, 2025\n• Capesize Spike Fades as Market Balance Loosens - The recent rally that pushed\nShort-term Indicators\nspot Capesize rates to the $30,000 mark is beginning to lose steam, with signs of\nMomentum: Neutral\nweakness emerging in the Pacific market. Simultaneously, the previously\noverheated Atlantic basin is now experiencing an increase in vessel availability Sentiment: Negative\nfor July loading dates.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1676,
+      "token_count": 1678,
       "section_type": "linked_pdf",
       "children": []
     }

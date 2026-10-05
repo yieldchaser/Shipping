@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1995,
-  "source_path": "reports/hellenic/shipbuilding/2025/2025-10-21_breakwave-tanker-report-10-21-2025.html",
+  "token_count": 1997,
+  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-10-21_breakwave-tanker-report-10-21-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-10-21-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-10-21_breakwave-tanker-report-10-21-2025_breakwavetankersoctober212025report_4a51622b04ad.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-10-21_breakwave-tanker-report-10-21-2025_breakwavetankersoctober212025report_4a51622b04ad.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nOctober 21, 2025\n• VLCCs Remains Supported as Charterers Consider New Trade Barriers -\nShort-term Indicators\nFollowing a subdued start to October, the VLCC segment shows early signs of\nMomentum: Neutral\nsupport. In the Arabian Gulf, owners resisted further downward pressure amid a\ntightening tonnage list and expectations of increased activity linked to Saudi's Sentiment: Neutral\nNovember loading programs.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-10-21_breakwave-tanker-report-10-21-2025_breakwavetankersoctober212025report_4a51622b04ad.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nOctober 21, 2025\n• VLCCs Remains Supported as Charterers Consider New Trade Barriers -\nShort-term Indicators\nFollowing a subdued start to October, the VLCC segment shows early signs of\nMomentum: Neutral\nsupport. In the Arabian Gulf, owners resisted further downward pressure amid a\ntightening tonnage list and expectations of increased activity linked to Saudi's Sentiment: Neutral\nNovember loading programs.",
       "keywords": [
         "vlcc",
         "suezmax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1917,
+      "token_count": 1919,
       "section_type": "linked_pdf",
       "children": []
     }

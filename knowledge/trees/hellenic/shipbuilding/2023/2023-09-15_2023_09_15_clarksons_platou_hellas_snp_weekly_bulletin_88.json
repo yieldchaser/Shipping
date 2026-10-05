@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2162,
-  "source_path": "reports/hellenic/shipbuilding/2023/2023-09-15_clarksons-platou-hellas-snp-weekly-bulletin-88.html",
+  "token_count": 2164,
+  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-09-15_clarksons-platou-hellas-snp-weekly-bulletin-88.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-88",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-09-15_clarksons-platou-hellas-snp-weekly-bulletin-88_report-15-09-2023_9f6565360e1e.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-09-15_clarksons-platou-hellas-snp-weekly-bulletin-88_report-15-09-2023_9f6565360e1e.pdf\n\n[Page 1]\nClarksons Hellas Weekly Bulletin 15th September 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nGENEVA STAR 81,846 2015 TSUNEISHI MAN B. 6S60ME-C8.2 SS 11/25 USD 26.9 M CHINESE\nDD 11/23\n(CEBU) BWTS fitted\nDA YING 75,318 2003 UNIVERSAL MAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-09-15_clarksons-platou-hellas-snp-weekly-bulletin-88_report-15-09-2023_9f6565360e1e.pdf\n\n[Page 1]\nClarksons Hellas Weekly Bulletin 15th September 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nGENEVA STAR 81,846 2015 TSUNEISHI MAN B. 6S60ME-C8.2 SS 11/25 USD 26.9 M CHINESE\nDD 11/23\n(CEBU) BWTS fitted\nDA YING 75,318 2003 UNIVERSAL MAN B.",
       "keywords": [
         "handysize",
         "vlcc",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2073,
+      "token_count": 2075,
       "section_type": "linked_pdf",
       "children": []
     }

@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1997,
-  "source_path": "reports/hellenic/shipbuilding/2025/2025-09-23_breakwave-tanker-report-9-23-2025.html",
+  "token_count": 1999,
+  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-09-23_breakwave-tanker-report-9-23-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-9-23-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-09-23_breakwave-tanker-report-9-23-2025_breakwavetankersseptember232025repor_954b2bd942df.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-09-23_breakwave-tanker-report-9-23-2025_breakwavetankersseptember232025repor_954b2bd942df.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nSeptember 23, 2025\n• VLCC Rally Gathers Pace While Winter Demand is Still Upon Us - Since early\nShort-term Indicators\nSeptember, VLCC spot rates have smashed key psychological thresholds in\nMomentum: Neutral\nboth the Atlantic and Pacific basins, continuing a relentless rally that is counter to\nSentiment: Positive\nhistorical seasonality. The Middle East Gulf-China benchmark has led the advance,\nrising 84% month over month and is up 40% quarter over quarter.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-09-23_breakwave-tanker-report-9-23-2025_breakwavetankersseptember232025repor_954b2bd942df.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nSeptember 23, 2025\n• VLCC Rally Gathers Pace While Winter Demand is Still Upon Us - Since early\nShort-term Indicators\nSeptember, VLCC spot rates have smashed key psychological thresholds in\nMomentum: Neutral\nboth the Atlantic and Pacific basins, continuing a relentless rally that is counter to\nSentiment: Positive\nhistorical seasonality. The Middle East Gulf-China benchmark has led the advance,\nrising 84% month over month and is up 40% quarter over quarter.",
       "keywords": [
         "vlcc",
         "suezmax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1919,
+      "token_count": 1921,
       "section_type": "linked_pdf",
       "children": []
     }

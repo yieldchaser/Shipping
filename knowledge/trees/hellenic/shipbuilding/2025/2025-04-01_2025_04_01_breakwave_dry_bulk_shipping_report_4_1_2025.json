@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1766,
-  "source_path": "reports/hellenic/shipbuilding/2025/2025-04-01_breakwave-dry-bulk-shipping-report-4-1-2025.html",
+  "token_count": 1768,
+  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-04-01_breakwave-dry-bulk-shipping-report-4-1-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-4-1-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-04-01_breakwave-dry-bulk-shipping-report-4-1-2025_breakwavedryapril12025report_2507acb4406f.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-04-01_breakwave-dry-bulk-shipping-report-4-1-2025_breakwavedryapril12025report_2507acb4406f.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nApril 1, 2025\n• Capesize Spot Rates Stabilize as Traders Digest Recent Move - Capesize spot Short-term Indicators\nrates have stabilized at around the $20,000 mark after reaching their highest level\nMomentum: Negative\nfor this time of year in many years. Significant congestion in West Africa has\nSentiment: Neutral\ntightened the Atlantic market, contributing to the recent bullish sentiment among\nFundamentals: Neutral\ntraders regarding the near-term rate outlook in that region.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-04-01_breakwave-dry-bulk-shipping-report-4-1-2025_breakwavedryapril12025report_2507acb4406f.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nApril 1, 2025\n• Capesize Spot Rates Stabilize as Traders Digest Recent Move - Capesize spot Short-term Indicators\nrates have stabilized at around the $20,000 mark after reaching their highest level\nMomentum: Negative\nfor this time of year in many years. Significant congestion in West Africa has\nSentiment: Neutral\ntightened the Atlantic market, contributing to the recent bullish sentiment among\nFundamentals: Neutral\ntraders regarding the near-term rate outlook in that region.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1681,
+      "token_count": 1683,
       "section_type": "linked_pdf",
       "children": []
     }

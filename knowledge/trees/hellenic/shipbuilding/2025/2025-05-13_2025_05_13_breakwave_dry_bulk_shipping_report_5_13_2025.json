@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1770,
-  "source_path": "reports/hellenic/shipbuilding/2025/2025-05-13_breakwave-dry-bulk-shipping-report-5-13-2025.html",
+  "token_count": 1772,
+  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-05-13_breakwave-dry-bulk-shipping-report-5-13-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-5-13-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-05-13_breakwave-dry-bulk-shipping-report-5-13-2025_breakwavedrymay122025report_6d1425916e33.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-05-13_breakwave-dry-bulk-shipping-report-5-13-2025_breakwavedrymay122025report_6d1425916e33.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nMay 12, 2025\n• Peak Trade War Behind Us, Dry Bulk Could See Higher US Exports - The recent\nShort-term Indicators\nannouncement regarding a reset in trade relations between the U.S. and China is\nMomentum: Neutral\na positive development for the dry bulk shipping market.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-05-13_breakwave-dry-bulk-shipping-report-5-13-2025_breakwavedrymay122025report_6d1425916e33.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nMay 12, 2025\n• Peak Trade War Behind Us, Dry Bulk Could See Higher US Exports - The recent\nShort-term Indicators\nannouncement regarding a reset in trade relations between the U.S. and China is\nMomentum: Neutral\na positive development for the dry bulk shipping market.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1691,
+      "token_count": 1693,
       "section_type": "linked_pdf",
       "children": []
     }

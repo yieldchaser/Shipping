@@ -4,6 +4,7 @@ commodities: []
 date: '2026-07-03'
 doc_id: hellenic_shipbuilding_2026-07-03_2026_07_03_clarksons_platou_hellas_snp_weekly_bulletin_139
 document_type: shipbuilding_update
+is_error_page: false
 key_entities:
 - Middle East
 keywords:
@@ -27,8 +28,7 @@ linked_assets_skipped: 1
 market_tone: constructive
 numeric_observation_count: 6
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: On the Kamsarmax space, the modern SCION MATHILDA (82,144 DWT, 2024,
     JIANGSU NEW HANTONG) has been concluded to C/O Castor at levels of USD 41.9m.
@@ -37,8 +37,7 @@ numeric_observations:
   - 82144.0
   - 2024.0
   - 41900.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Also, the scrubber fitted AC YOUTH (82,623 DWT, 2007, TSUNEISHI ZOSEN,
     SCRUBBER) was sold at USD 15m.
@@ -46,8 +45,7 @@ numeric_observations:
   values:
   - 82623.0
   - 2007.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: On the Panamax sector, the vintage unit MARINICKI C (76,629 DWT, 2005,
     IMABARI SB MARUGAME) was sold to undisclosed interests, achieving a price of USD
@@ -57,8 +55,7 @@ numeric_observations:
   - 76629.0
   - 2005.0
   - 11700.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: On geared tonnage, the Supramax LAGONDA (55,773 DWT, 2011, I.H.I YOHOHAMA,
     C:4X35T) was sold at USD 18.25m basis SS DD due.
@@ -69,8 +66,7 @@ numeric_observations:
   - 4.0
   - 35.0
   - 18250.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: Moreover, two Japanese built Handysizes invited bids this week, with
     the eco unit ATLANTIC STAR (37,065 DWT, 2018, OSHIMA SHIPBUILDING, C:4X30T) now
@@ -87,8 +83,7 @@ numeric_observations:
   - 4.0
   - 30500.0
   - 15200.0
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: According to unconfirmed reports, a 2020 Japanese-built Ultramax has
     also changed hands at a price in the region of USD 36.5m.
@@ -105,14 +100,71 @@ section_count: 1
 signals:
   numeric_observation_count: 6
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
+  - section: Main
+    section_type: null
+    source_line: On the Kamsarmax space, the modern SCION MATHILDA (82,144 DWT, 2024,
+      JIANGSU NEW HANTONG) has been concluded to C/O Castor at levels of USD 41.9m.
+    unit: usd
+    values:
+    - 82144.0
+    - 2024.0
+    - 41900.0
+  - section: Main
+    section_type: null
+    source_line: Also, the scrubber fitted AC YOUTH (82,623 DWT, 2007, TSUNEISHI ZOSEN,
+      SCRUBBER) was sold at USD 15m.
+    unit: usd
+    values:
+    - 82623.0
+    - 2007.0
+  - section: Main
+    section_type: null
+    source_line: On the Panamax sector, the vintage unit MARINICKI C (76,629 DWT,
+      2005, IMABARI SB MARUGAME) was sold to undisclosed interests, achieving a price
+      of USD 11.7m.
+    unit: usd
+    values:
+    - 76629.0
+    - 2005.0
+    - 11700.0
+  - section: Main
+    section_type: null
+    source_line: On geared tonnage, the Supramax LAGONDA (55,773 DWT, 2011, I.H.I
+      YOHOHAMA, C:4X35T) was sold at USD 18.25m basis SS DD due.
+    unit: usd
+    values:
+    - 55773.0
+    - 2011.0
+    - 4.0
+    - 35.0
+    - 18250.0
+  - section: Main
+    section_type: null
+    source_line: Moreover, two Japanese built Handysizes invited bids this week, with
+      the eco unit ATLANTIC STAR (37,065 DWT, 2018, OSHIMA SHIPBUILDING, C:4X30T)
+      now sold in the region of USD 26m, while the ASAHI OCEAN (32,085 DWT, 2013,
+      HAKODATE DOCK, C:4X30.5T) achieved leve
+    unit: usd
+    values:
+    - 37065.0
+    - 2018.0
+    - 4.0
+    - 30.0
+    - 32085.0
+    - 2013.0
+    - 4.0
+    - 30500.0
+    - 15200.0
+  - section: Main
+    section_type: null
+    source_line: According to unconfirmed reports, a 2020 Japanese-built Ultramax
+      has also changed hands at a price in the region of USD 36.5m.
+    unit: usd
+    values:
+    - 2020.0
+    - 36500.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2026/2026-07-03_clarksons-platou-hellas-snp-weekly-bulletin-139.html
+source_path: corpus/02-hellenic/shipbuilding/2026/2026-07-03_clarksons-platou-hellas-snp-weekly-bulletin-139.html
 source_stem: 2026-07-03_clarksons-platou-hellas-snp-weekly-bulletin-139
 source_url: https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-139
 summary: 'Main

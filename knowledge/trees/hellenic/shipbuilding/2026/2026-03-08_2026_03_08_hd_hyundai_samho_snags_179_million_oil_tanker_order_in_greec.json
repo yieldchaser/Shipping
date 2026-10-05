@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 377,
-  "source_path": "reports/hellenic/shipbuilding/2026/2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec.html",
+  "token_count": 379,
+  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec.html",
   "source_url": "https://www.hellenicshippingnews.com/hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greece",
   "children": [
     {
@@ -69,20 +69,20 @@
       "section_path_text": "Linked asset: 2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/2026/2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg\n\nLinked image asset: 2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (150, 150)\n\n[OCR skipped for small image (< 90000 pixels).]",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/2026/2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg\n\nLinked image asset: 2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (150, 150)\n\n[OCR skipped for small image (< 90000 pixels).]",
       "keywords": [
         "crude_oil",
         "image",
         "asset",
+        "corpus/02-hellenic/shipbuilding/2026/2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg",
         "dpi",
         "embedded",
         "hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg",
-        "info",
-        "jpeg"
+        "info"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 117,
+      "token_count": 119,
       "section_type": "linked_image_asset",
       "children": []
     }

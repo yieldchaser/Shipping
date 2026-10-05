@@ -11,6 +11,7 @@ commodities:
 date: '2024-05-21'
 doc_id: hellenic_vessel_valuations_2024-05-21_2024_05_21_weekly_vessel_valuations_report_may_21_2024
 document_type: asset_valuations
+is_error_page: false
 key_entities: []
 keywords:
 - capesize
@@ -33,8 +34,7 @@ linked_assets_skipped: 0
 market_tone: neutral
 numeric_observation_count: 24
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Newcastlemax Fomento One (206,800 DWT, Oct 2016, Daehan) sold to unknown
     Greek for USD 55.9 mil VV Value USD 55.0 mil
@@ -42,10 +42,9 @@ numeric_observations:
   values:
   - 206800.0
   - 2016.0
-  - 55.9
-  - 55.0
-- &id002
-  section: Main
+  - 55900.0
+  - 55000.0
+- section: Main
   section_type: null
   source_line: Supramax BC Super Bergkamp (55,700 DWT, Jun 2009, Mitsui Ichihara)
     sold to unknown Greek buyers for USD 15.5 mil VV Value USD 15.95 mil
@@ -53,10 +52,9 @@ numeric_observations:
   values:
   - 55700.0
   - 2009.0
-  - 15.5
-  - 15.95
-- &id003
-  section: Main
+  - 15500.0
+  - 15950.0
+- section: Main
   section_type: null
   source_line: Handy BC Belmeken & Persenk (30,400 DWT, 2010, Chengxi Shipyard) sold
     en bloc to undisclosed buyers for 21.2 VV Value USD 21.8
@@ -64,44 +62,42 @@ numeric_observations:
   values:
   - 30400.0
   - 2010.0
-  - 21.2
-  - 21.8
-- &id004
-  section: Main
+  - 21200.0
+  - 21800.0
+- section: Main
   section_type: null
   source_line: MR2 Pacific Diamond (47,900 DWT, Oct 2010, Iwagi Zosen) sold to undisclosed
     buyers for USD 26.7 mil, VV Value USD 25.77 mil
   unit: usd
   values:
+  - 2.0
   - 47900.0
   - 2010.0
-  - 26.7
-  - 25.77
-- &id005
-  section: Main
+  - 26700.0
+  - 25770.0
+- section: Main
   section_type: null
   source_line: MR2 (Chem/Prod) Gulf Esprit (46,900 DWT, Nov 2006, Hyundai Mipo) sold
     to undisclosed buyers for USD 22 mil, VV Value USD 21.95 mil
   unit: usd
   values:
+  - 2.0
   - 46900.0
   - 2006.0
   - 22.0
-  - 21.95
-- &id006
-  section: Main
+  - 21950.0
+- section: Main
   section_type: null
   source_line: J19 Stainless Steel G Bright (19,900 DWT, Jun 2004, Kitanihon Zosen)
     sold to unknown Indonesian buyers for USD 15 mil, VV Value USD 14.39 mil
   unit: usd
   values:
-  - 9.0
+  - 19.0
   - 19900.0
   - 2004.0
   - 15.0
-  - 14.39
-- &id007
-  section: Main
+  - 14390.0
+- section: Main
   section_type: null
   source_line: Feedermax Acacia Libra (1,022 TEU, Sep 2007, Jiangsu Eastern) sold
     to Meratus Line (BWTS) USD 5.5 mil, VV Value 6.6 mil
@@ -109,10 +105,9 @@ numeric_observations:
   values:
   - 1022.0
   - 2007.0
-  - 5.5
-  - 6.6
-- &id008
-  section: Main
+  - 5500.0
+  - 6600.0
+- section: Main
   section_type: null
   source_line: 'Image reference: assets/2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
   unit: null
@@ -122,11 +117,11 @@ numeric_observations:
   - -21.0
   - 21.0
   - -2024.0
+  - 1.0
   - 21.0
-  - 6.0
+  - 26.0
   - 980.0
-- &id009
-  section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
+- section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
   unit: null
@@ -136,52 +131,48 @@ numeric_observations:
   - -21.0
   - 21.0
   - -2024.0
+  - 1.0
   - 21.0
-  - 6.0
+  - 26.0
   - 980.0
-- &id010
-  section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
+- section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 678x256 mode=RGB'
   unit: null
   values:
   - 678.0
-  - 56.0
-- &id011
-  section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
+  - 256.0
+- section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (96.0, 96.0)'
   unit: null
   values:
-  - 96.0
-  - 96.0
-- &id012
-  section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
+  - 96000.0
+  - 96000.0
+- section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
   section_type: linked_image_asset
   source_line: 21 May 2024 VV Mini Matrix - Weekly Change
   unit: null
   values:
   - 21.0
   - 2024.0
-- &id013
-  section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
+- section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
   section_type: linked_image_asset
   source_line: ry 40.2% +1.0% 10.4% 0.2% 10.5% 0.1% 0.2% 10.3% 40.3% 40.8% +1.2% 424%
     40.5%
   unit: pct
   values:
-  - 40.2
+  - 40200.0
   - 1.0
-  - 10.4
+  - 10400.0
   - 0.2
-  - 10.5
+  - 10500.0
   - 0.1
   - 0.2
-  - 10.3
-  - 40.3
-  - 40.8
-- &id014
-  section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
+  - 10300.0
+  - 40300.0
+  - 40800.0
+- section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
   section_type: linked_image_asset
   source_line: 520k 160k 110k 75k 50k 180k 82k 60k 38k 7000 4250-1750 = 1100
   unit: null
@@ -196,25 +187,23 @@ numeric_observations:
   - 60.0
   - 38.0
   - 7000.0
-- &id015
-  section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
+- section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
   section_type: linked_image_asset
   source_line: 5 40.2% 0.0% 40.6% 40.1% 0.7% 0.1% +1.1% +1.5% 40.3% +1.0% +1.2% 41.5%
     40.4%
   unit: pct
   values:
   - 5.0
-  - 40.2
-  - 40.6
-  - 40.1
+  - 40200.0
+  - 40600.0
+  - 40100.0
   - 0.7
   - 0.1
   - 1.1
   - 1.5
-  - 40.3
+  - 40300.0
   - 1.0
-- &id016
-  section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
+- section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
   section_type: linked_image_asset
   source_line: 320k 160k 110k 75k 50k 180k 80k 60k 38k 7000 4250-1750 = 1100
   unit: null
@@ -229,25 +218,23 @@ numeric_observations:
   - 60.0
   - 38.0
   - 7000.0
-- &id017
-  section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
+- section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
   section_type: linked_image_asset
   source_line: ao 10.2% -0.1% +0.9% 40.7% +1.0% 0.0% 41.2% 0.2% +0.2% *1.2% 41.2%
     +1,0% +0.3%
   unit: pct
   values:
-  - 10.2
+  - 10200.0
   - -0.1
   - 0.9
-  - 40.7
+  - 40700.0
   - 1.0
-  - 41.2
+  - 41200.0
   - 0.2
   - 0.2
   - 1.2
-  - 41.2
-- &id018
-  section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
+  - 41200.0
+- section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
   section_type: linked_image_asset
   source_line: 320k 160k 110k 75k 50k 180k 80k 60k 32k 7000 42501750 = 1100
   unit: null
@@ -262,25 +249,23 @@ numeric_observations:
   - 60.0
   - 32.0
   - 7000.0
-- &id019
-  section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
+- section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
   section_type: linked_image_asset
   source_line: 1s 40.2% -0.1% +1.2% 41.4% +2.0% "0.1% +0.9% -2.4% +0.3% +1.2% +1.2%
     +1.0% 40.5%
   unit: pct
   values:
   - 1.0
-  - 40.2
+  - 40200.0
   - -0.1
   - 1.2
-  - 41.4
+  - 41400.0
   - 2.0
   - 0.1
   - 0.9
   - -2.4
   - 0.3
-- &id020
-  section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
+- section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
   section_type: linked_image_asset
   source_line: 310k 160k 110k 75k 50k 180k 80k 55k 30k 7000 4250» «1750» 1100
   unit: null
@@ -295,14 +280,13 @@ numeric_observations:
   - 55.0
   - 30.0
   - 7000.0
-- &id021
-  section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
+- section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
   section_type: linked_image_asset
   source_line: a 40.2% -0.3% +1.6% +2.4% -1.1% "0.1% -+1.4% -2.9% +0.2% +1.1% +1.2%
     +1.4% +0.8%
   unit: pct
   values:
-  - 40.2
+  - 40200.0
   - -0.3
   - 1.6
   - 2.4
@@ -312,8 +296,7 @@ numeric_observations:
   - -2.9
   - 0.2
   - 1.1
-- &id022
-  section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
+- section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
   section_type: linked_image_asset
   source_line: 305k 155k 105k 70k 45k 180k 75k 55k 30k 7000 9 4250S «1750 «1100
   unit: null
@@ -328,25 +311,23 @@ numeric_observations:
   - 55.0
   - 30.0
   - 7000.0
-- &id023
-  section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
+- section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
   section_type: linked_image_asset
   source_line: 25 40.2% -0.5% +1.8% 43.7% -6.1% 0.0% 0.0% +0.3% +0.2% 40.8% +1.9%
     +1.9% +1.8%
   unit: pct
   values:
   - 25.0
-  - 40.2
+  - 40200.0
   - -0.5
   - 1.8
-  - 43.7
+  - 43700.0
   - -6.1
   - 0.3
   - 0.2
-  - 40.8
+  - 40800.0
   - 1.9
-- &id024
-  section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
+- section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
   section_type: linked_image_asset
   source_line: fats 300k 150k 105k 65k 45k 170k 75k 48k 30k 6800 4000 1750 §=§=4100
     |
@@ -372,32 +353,313 @@ section_count: 2
 signals:
   numeric_observation_count: 24
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
+  - section: Main
+    section_type: null
+    source_line: Newcastlemax Fomento One (206,800 DWT, Oct 2016, Daehan) sold to
+      unknown Greek for USD 55.9 mil VV Value USD 55.0 mil
+    unit: usd
+    values:
+    - 206800.0
+    - 2016.0
+    - 55.9
+    - 55.0
+  - section: Main
+    section_type: null
+    source_line: Supramax BC Super Bergkamp (55,700 DWT, Jun 2009, Mitsui Ichihara)
+      sold to unknown Greek buyers for USD 15.5 mil VV Value USD 15.95 mil
+    unit: usd
+    values:
+    - 55700.0
+    - 2009.0
+    - 15.5
+    - 15.95
+  - section: Main
+    section_type: null
+    source_line: Handy BC Belmeken & Persenk (30,400 DWT, 2010, Chengxi Shipyard)
+      sold en bloc to undisclosed buyers for 21.2 VV Value USD 21.8
+    unit: usd
+    values:
+    - 30400.0
+    - 2010.0
+    - 21.2
+    - 21.8
+  - section: Main
+    section_type: null
+    source_line: MR2 Pacific Diamond (47,900 DWT, Oct 2010, Iwagi Zosen) sold to undisclosed
+      buyers for USD 26.7 mil, VV Value USD 25.77 mil
+    unit: usd
+    values:
+    - 47900.0
+    - 2010.0
+    - 26.7
+    - 25.77
+  - section: Main
+    section_type: null
+    source_line: MR2 (Chem/Prod) Gulf Esprit (46,900 DWT, Nov 2006, Hyundai Mipo)
+      sold to undisclosed buyers for USD 22 mil, VV Value USD 21.95 mil
+    unit: usd
+    values:
+    - 46900.0
+    - 2006.0
+    - 22.0
+    - 21.95
+  - section: Main
+    section_type: null
+    source_line: J19 Stainless Steel G Bright (19,900 DWT, Jun 2004, Kitanihon Zosen)
+      sold to unknown Indonesian buyers for USD 15 mil, VV Value USD 14.39 mil
+    unit: usd
+    values:
+    - 9.0
+    - 19900.0
+    - 2004.0
+    - 15.0
+    - 14.39
+  - section: Main
+    section_type: null
+    source_line: Feedermax Acacia Libra (1,022 TEU, Sep 2007, Jiangsu Eastern) sold
+      to Meratus Line (BWTS) USD 5.5 mil, VV Value 6.6 mil
+    unit: usd
+    values:
+    - 1022.0
+    - 2007.0
+    - 5.5
+    - 6.6
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: assets/2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
+    unit: null
+    values:
+    - 2024.0
+    - -5.0
+    - -21.0
+    - 21.0
+    - -2024.0
+    - 21.0
+    - 6.0
+    - 980.0
+  - section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
+    unit: null
+    values:
+    - 2024.0
+    - -5.0
+    - -21.0
+    - 21.0
+    - -2024.0
+    - 21.0
+    - 6.0
+    - 980.0
+  - section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 678x256 mode=RGB'
+    unit: null
+    values:
+    - 678.0
+    - 56.0
+  - section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (96.0, 96.0)'
+    unit: null
+    values:
+    - 96.0
+    - 96.0
+  - section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
+    section_type: linked_image_asset
+    source_line: 21 May 2024 VV Mini Matrix - Weekly Change
+    unit: null
+    values:
+    - 21.0
+    - 2024.0
+  - section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
+    section_type: linked_image_asset
+    source_line: ry 40.2% +1.0% 10.4% 0.2% 10.5% 0.1% 0.2% 10.3% 40.3% 40.8% +1.2%
+      424% 40.5%
+    unit: pct
+    values:
+    - 40.2
+    - 1.0
+    - 10.4
+    - 0.2
+    - 10.5
+    - 0.1
+    - 0.2
+    - 10.3
+    - 40.3
+    - 40.8
+  - section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
+    section_type: linked_image_asset
+    source_line: 520k 160k 110k 75k 50k 180k 82k 60k 38k 7000 4250-1750 = 1100
+    unit: null
+    values:
+    - 520.0
+    - 160.0
+    - 110.0
+    - 75.0
+    - 50.0
+    - 180.0
+    - 82.0
+    - 60.0
+    - 38.0
+    - 7000.0
+  - section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
+    section_type: linked_image_asset
+    source_line: 5 40.2% 0.0% 40.6% 40.1% 0.7% 0.1% +1.1% +1.5% 40.3% +1.0% +1.2%
+      41.5% 40.4%
+    unit: pct
+    values:
+    - 5.0
+    - 40.2
+    - 40.6
+    - 40.1
+    - 0.7
+    - 0.1
+    - 1.1
+    - 1.5
+    - 40.3
+    - 1.0
+  - section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
+    section_type: linked_image_asset
+    source_line: 320k 160k 110k 75k 50k 180k 80k 60k 38k 7000 4250-1750 = 1100
+    unit: null
+    values:
+    - 320.0
+    - 160.0
+    - 110.0
+    - 75.0
+    - 50.0
+    - 180.0
+    - 80.0
+    - 60.0
+    - 38.0
+    - 7000.0
+  - section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
+    section_type: linked_image_asset
+    source_line: ao 10.2% -0.1% +0.9% 40.7% +1.0% 0.0% 41.2% 0.2% +0.2% *1.2% 41.2%
+      +1,0% +0.3%
+    unit: pct
+    values:
+    - 10.2
+    - -0.1
+    - 0.9
+    - 40.7
+    - 1.0
+    - 41.2
+    - 0.2
+    - 0.2
+    - 1.2
+    - 41.2
+  - section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
+    section_type: linked_image_asset
+    source_line: 320k 160k 110k 75k 50k 180k 80k 60k 32k 7000 42501750 = 1100
+    unit: null
+    values:
+    - 320.0
+    - 160.0
+    - 110.0
+    - 75.0
+    - 50.0
+    - 180.0
+    - 80.0
+    - 60.0
+    - 32.0
+    - 7000.0
+  - section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
+    section_type: linked_image_asset
+    source_line: 1s 40.2% -0.1% +1.2% 41.4% +2.0% "0.1% +0.9% -2.4% +0.3% +1.2% +1.2%
+      +1.0% 40.5%
+    unit: pct
+    values:
+    - 1.0
+    - 40.2
+    - -0.1
+    - 1.2
+    - 41.4
+    - 2.0
+    - 0.1
+    - 0.9
+    - -2.4
+    - 0.3
+  - section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
+    section_type: linked_image_asset
+    source_line: 310k 160k 110k 75k 50k 180k 80k 55k 30k 7000 4250» «1750» 1100
+    unit: null
+    values:
+    - 310.0
+    - 160.0
+    - 110.0
+    - 75.0
+    - 50.0
+    - 180.0
+    - 80.0
+    - 55.0
+    - 30.0
+    - 7000.0
+  - section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
+    section_type: linked_image_asset
+    source_line: a 40.2% -0.3% +1.6% +2.4% -1.1% "0.1% -+1.4% -2.9% +0.2% +1.1% +1.2%
+      +1.4% +0.8%
+    unit: pct
+    values:
+    - 40.2
+    - -0.3
+    - 1.6
+    - 2.4
+    - -1.1
+    - 0.1
+    - 1.4
+    - -2.9
+    - 0.2
+    - 1.1
+  - section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
+    section_type: linked_image_asset
+    source_line: 305k 155k 105k 70k 45k 180k 75k 55k 30k 7000 9 4250S «1750 «1100
+    unit: null
+    values:
+    - 305.0
+    - 155.0
+    - 105.0
+    - 70.0
+    - 45.0
+    - 180.0
+    - 75.0
+    - 55.0
+    - 30.0
+    - 7000.0
+  - section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
+    section_type: linked_image_asset
+    source_line: 25 40.2% -0.5% +1.8% 43.7% -6.1% 0.0% 0.0% +0.3% +0.2% 40.8% +1.9%
+      +1.9% +1.8%
+    unit: pct
+    values:
+    - 25.0
+    - 40.2
+    - -0.5
+    - 1.8
+    - 43.7
+    - -6.1
+    - 0.3
+    - 0.2
+    - 40.8
+    - 1.9
+  - section: 'Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg'
+    section_type: linked_image_asset
+    source_line: fats 300k 150k 105k 65k 45k 170k 75k 48k 30k 6800 4000 1750 §=§=4100
+      |
+    unit: null
+    values:
+    - 300.0
+    - 150.0
+    - 105.0
+    - 65.0
+    - 45.0
+    - 170.0
+    - 75.0
+    - 48.0
+    - 30.0
+    - 6800.0
 source: hellenic
-source_path: reports/hellenic/vessel_valuations/2024/2024-05-21_weekly-vessel-valuations-report-may-21-2024.html
+source_path: corpus/02-hellenic/vessel_valuations/2024/2024-05-21_weekly-vessel-valuations-report-may-21-2024.html
 source_stem: 2024-05-21_weekly-vessel-valuations-report-may-21-2024
 source_url: https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-may-21-2024
 summary: 'Main
@@ -478,7 +740,7 @@ Feedermax Acacia Libra (1,022 TEU, Sep 2007, Jiangsu Eastern) sold to Meratus Li
 Image reference: assets/2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg
 
 ## Linked asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg
-Source asset: reports/hellenic/vessel_valuations/2024/assets/2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg
+Source asset: corpus/02-hellenic/vessel_valuations/2024/assets/2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg
 
 Linked image asset: 2024-05-21_weekly-vessel-valuations-report-may-21-2024_img1_21_fdb26f0980ad.jpg
 

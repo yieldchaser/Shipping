@@ -5,6 +5,7 @@ commodities:
 date: '2022-06-03'
 doc_id: hellenic_shipbuilding_2022-06-03_2022_06_03_clarksons_platou_hellas_snp_weekly_bulletin_21
 document_type: shipbuilding_update
+is_error_page: false
 key_entities: []
 keywords:
 - lng
@@ -27,106 +28,94 @@ linked_assets_skipped: 0
 market_tone: constructive
 numeric_observation_count: 55
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: NEW BUILDING:In tankers this week, Wuchang Shipbuilding announced contracting
     two firm 7.2k dwt StSt Chemical tankers for SC Shipping
   unit: null
   values:
-  - 7.2
-- &id002
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+  - 7200.0
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: Hellas S&P Weekly Bulletin 03 June 2022
   unit: null
   values:
   - 3.0
   - 2022.0
-- &id003
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: SS 08/22
   unit: null
   values:
   - 8.0
   - 22.0
-- &id004
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: NORDIC SEOUL 35,882 2017 SAMJIN
   unit: null
   values:
   - 35882.0
   - 2017.0
-- &id005
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: DD 08/22
   unit: null
   values:
   - 8.0
   - 22.0
-- &id006
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: MAN-B&W 5S50ME-B9.2 RGN USD 51 M THAI
   unit: usd
   values:
   - 5.0
-  - 2.0
+  - 50.0
+  - 9200.0
   - 51.0
-- &id007
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: 4 X 35 T (en bloc) (c/o Precious Shipping)
   unit: null
   values:
   - 4.0
   - 35.0
-- &id008
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: SS 04/23
   unit: null
   values:
   - 4.0
   - 23.0
-- &id009
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: NORDIC BUSAN 35,800 2018 SAMJIN
   unit: null
   values:
   - 35800.0
   - 2018.0
-- &id010
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: DD 04/23
   unit: null
   values:
   - 4.0
   - 23.0
-- &id011
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: MAN-B&W 6S46MC-C7.1
   unit: null
   values:
   - 6.0
-  - 6.0
-  - 1.0
-- &id012
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+  - 46.0
+  - 7100.0
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: SS 10/24
   unit: null
   values:
   - 10.0
   - 24.0
-- &id013
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: CETUS STAR 33,773 2004 OSHIMA 4 X 30 T USD 12.7 M CHINESE
   unit: usd
@@ -135,32 +124,29 @@ numeric_observations:
   - 2004.0
   - 4.0
   - 30.0
-- &id014
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+  - 12700.0
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: DD 07/22
   unit: null
   values:
   - 7.0
   - 22.0
-- &id015
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: MAN-B&W 6S42MC
   unit: null
   values:
   - 6.0
-  - 2.0
-- &id016
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+  - 42.0
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: SS 12/24
   unit: null
   values:
   - 12.0
   - 24.0
-- &id017
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: GOLDEN MAPLE 32,527 2009 ZHEJIANG HONGXIN 4 X 30 T RGN USD 14 M CHINESE
   unit: usd
@@ -169,32 +155,28 @@ numeric_observations:
   - 2009.0
   - 4.0
   - 30.0
-- &id018
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: DD 12/24
   unit: null
   values:
   - 12.0
   - 24.0
-- &id019
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: MAN-B&W 6S46MC-C
   unit: null
   values:
   - 6.0
-  - 6.0
-- &id020
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+  - 46.0
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: SS 03/25
   unit: null
   values:
   - 3.0
   - 25.0
-- &id021
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: CASSIOPEIA STAR 32,328 2005 NAIKAI 4 X 30 T HIGH USD 13 M TURKISH
   unit: usd
@@ -203,32 +185,28 @@ numeric_observations:
   - 2005.0
   - 4.0
   - 30.0
-- &id022
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: DD 03/23
   unit: null
   values:
   - 3.0
   - 23.0
-- &id023
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: MITSUBISHI 6UEC52LA
   unit: null
   values:
   - 6.0
-  - 2.0
-- &id024
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+  - 52.0
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: SS 12/22
   unit: null
   values:
   - 12.0
   - 22.0
-- &id025
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: CONCEPTION LIGHT 32,256 2007 KANDA 4 X 30 T OHBS USD 16 M U/D
   unit: usd
@@ -237,32 +215,28 @@ numeric_observations:
   - 2007.0
   - 4.0
   - 30.0
-- &id026
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: DD 12/22
   unit: null
   values:
   - 12.0
   - 22.0
-- &id027
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: MITSUBISHI 6UEC45LSE
   unit: null
   values:
   - 6.0
-  - 5.0
-- &id028
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+  - 45.0
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: SS 10/25
   unit: null
   values:
   - 10.0
   - 25.0
-- &id029
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: SUPER KATE 32,162 2008 HAKODATE 4 X 30 T RGN USD 16 M U/D
   unit: usd
@@ -271,26 +245,24 @@ numeric_observations:
   - 2008.0
   - 4.0
   - 30.0
-- &id030
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: DD 11/23
   unit: null
   values:
   - 11.0
   - 23.0
-- &id031
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: MAN-B&W 8S80MC-C6.1 SS 11/23
   unit: null
   values:
   - 8.0
-  - 1.0
+  - 80.0
+  - 6100.0
   - 11.0
   - 23.0
-- &id032
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: DUQM 310,084 2008 IMABARI RGN USD 39 M U/D
   unit: usd
@@ -298,65 +270,59 @@ numeric_observations:
   - 310084.0
   - 2008.0
   - 39.0
-- &id033
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: BWTS fitted DD 11/23
   unit: null
   values:
   - 11.0
   - 23.0
-- &id034
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: MAN-B&W 6S60MC-C7.2 SS 03/27
   unit: null
   values:
   - 6.0
-  - 2.0
+  - 60.0
+  - 7200.0
   - 3.0
   - 27.0
-- &id035
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: RUMFORD 107,505 2012 TSUNEISHI USD 32.75 M GREEKS
   unit: usd
   values:
   - 107505.0
   - 2012.0
-- &id036
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+  - 32750.0
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: BWTS fitted DD 05/25
   unit: null
   values:
   - 5.0
   - 25.0
-- &id037
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: Page 1 of 3
   unit: null
   values:
   - 1.0
   - 3.0
-- &id038
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: In tankers this week, Wuchang Shipbuilding announced contracting two
     firm 7.2k dwt StSt Chemical tankers for SC Shipping, with deliveries expected
   unit: null
   values:
-  - 7.2
-- &id039
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+  - 7200.0
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: in 2024.
   unit: null
   values:
   - 2024.0
-- &id040
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: In dry bulk, Clients of Safe Bulkers announced ordering two firm 82k
     dwt Kamsarmaxes at COSCO Yangzhou, with deliveries expected in 2H 2024
@@ -365,24 +331,21 @@ numeric_observations:
   - 82.0
   - 2.0
   - 2024.0
-- &id041
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: and 1Q 2025 respectively.
   unit: null
   values:
   - 1.0
   - 2025.0
-- &id042
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: In containers, ONE announced ordering ten firm 13,700TEU Containerships
     across two separate shipyards. Five vessels will be delivered at Hyundai
   unit: null
   values:
   - 13700.0
-- &id043
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: HI throughout 2025 and five vessels will be delivered at Nihon Shipyard,
     also throughout 2025. The vessels will all hold "Methanol ready" and
@@ -390,16 +353,14 @@ numeric_observations:
   values:
   - 2025.0
   - 2025.0
-- &id044
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: As we commemorate Her Majesty The Queen marking 70 years of service
     to the people of the United Kingdom, the Realms and the Commonwealth
   unit: null
   values:
   - 70.0
-- &id045
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: scale. The outlook for 2023 also appears positive and therefore, we
     do not expect a barrage of tanker units to arrive to the recycling destinations
@@ -407,15 +368,13 @@ numeric_observations:
   unit: null
   values:
   - 2023.0
-- &id046
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: BDI - EURO/USD 1.07006 BUNKERS ROTTERDAM SPORE FUJAIRAH
   unit: usd
   values:
   - 1.07006
-- &id047
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: BCI - YEN/USD 0.0077 VLSFO 883.50 1086.00 1029.50
   unit: usd
@@ -423,8 +382,7 @@ numeric_observations:
   - 883.5
   - 1086.0
   - 1029.5
-- &id048
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: BPI - BRENT MGO 1263.00 1247.50 1451.00
   unit: null
@@ -432,8 +390,7 @@ numeric_observations:
   - 1263.0
   - 1247.5
   - 1451.0
-- &id049
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: BSI - 121.717 IFO 380 647.00 640.50 717.00
   unit: null
@@ -443,16 +400,14 @@ numeric_observations:
   - 647.0
   - 640.5
   - 717.0
-- &id050
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: Page 2 of 3
   unit: null
   values:
   - 2.0
   - 3.0
-- &id051
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: '62 Kifissias Avenue ("Clarksons Platou") for general information purposes.
     The Information is drawn from Clarksons Platou''s database and other sources.
@@ -461,8 +416,7 @@ numeric_observations:
   unit: null
   values:
   - 62.0
-- &id052
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: 151 25 Clarksons Platou has taken reasonable care in the compilation
     of the Information and believes it to be accurate and correct, data compilation
@@ -472,8 +426,7 @@ numeric_observations:
   values:
   - 151.0
   - 25.0
-- &id053
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: Direct +(30) 210 458 6700
   unit: null
@@ -482,8 +435,7 @@ numeric_observations:
   - 210.0
   - 458.0
   - 6700.0
-- &id054
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: Fax +(30) 210 458 6799 This Information is confidential and is solely
     for the internal use of the recipient. Neither the whole nor any part of the Information
@@ -495,8 +447,7 @@ numeric_observations:
   - 210.0
   - 458.0
   - 6799.0
-- &id055
-  section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+- section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 3
   unit: null
@@ -511,63 +462,429 @@ section_count: 2
 signals:
   numeric_observation_count: 55
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
+  - section: Main
+    section_type: null
+    source_line: NEW BUILDING:In tankers this week, Wuchang Shipbuilding announced
+      contracting two firm 7.2k dwt StSt Chemical tankers for SC Shipping
+    unit: null
+    values:
+    - 7.2
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: Hellas S&P Weekly Bulletin 03 June 2022
+    unit: null
+    values:
+    - 3.0
+    - 2022.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: SS 08/22
+    unit: null
+    values:
+    - 8.0
+    - 22.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: NORDIC SEOUL 35,882 2017 SAMJIN
+    unit: null
+    values:
+    - 35882.0
+    - 2017.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: DD 08/22
+    unit: null
+    values:
+    - 8.0
+    - 22.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: MAN-B&W 5S50ME-B9.2 RGN USD 51 M THAI
+    unit: usd
+    values:
+    - 5.0
+    - 2.0
+    - 51.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: 4 X 35 T (en bloc) (c/o Precious Shipping)
+    unit: null
+    values:
+    - 4.0
+    - 35.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: SS 04/23
+    unit: null
+    values:
+    - 4.0
+    - 23.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: NORDIC BUSAN 35,800 2018 SAMJIN
+    unit: null
+    values:
+    - 35800.0
+    - 2018.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: DD 04/23
+    unit: null
+    values:
+    - 4.0
+    - 23.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: MAN-B&W 6S46MC-C7.1
+    unit: null
+    values:
+    - 6.0
+    - 6.0
+    - 1.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: SS 10/24
+    unit: null
+    values:
+    - 10.0
+    - 24.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: CETUS STAR 33,773 2004 OSHIMA 4 X 30 T USD 12.7 M CHINESE
+    unit: usd
+    values:
+    - 33773.0
+    - 2004.0
+    - 4.0
+    - 30.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: DD 07/22
+    unit: null
+    values:
+    - 7.0
+    - 22.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: MAN-B&W 6S42MC
+    unit: null
+    values:
+    - 6.0
+    - 2.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: SS 12/24
+    unit: null
+    values:
+    - 12.0
+    - 24.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: GOLDEN MAPLE 32,527 2009 ZHEJIANG HONGXIN 4 X 30 T RGN USD 14 M CHINESE
+    unit: usd
+    values:
+    - 32527.0
+    - 2009.0
+    - 4.0
+    - 30.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: DD 12/24
+    unit: null
+    values:
+    - 12.0
+    - 24.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: MAN-B&W 6S46MC-C
+    unit: null
+    values:
+    - 6.0
+    - 6.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: SS 03/25
+    unit: null
+    values:
+    - 3.0
+    - 25.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: CASSIOPEIA STAR 32,328 2005 NAIKAI 4 X 30 T HIGH USD 13 M TURKISH
+    unit: usd
+    values:
+    - 32328.0
+    - 2005.0
+    - 4.0
+    - 30.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: DD 03/23
+    unit: null
+    values:
+    - 3.0
+    - 23.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: MITSUBISHI 6UEC52LA
+    unit: null
+    values:
+    - 6.0
+    - 2.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: SS 12/22
+    unit: null
+    values:
+    - 12.0
+    - 22.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: CONCEPTION LIGHT 32,256 2007 KANDA 4 X 30 T OHBS USD 16 M U/D
+    unit: usd
+    values:
+    - 32256.0
+    - 2007.0
+    - 4.0
+    - 30.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: DD 12/22
+    unit: null
+    values:
+    - 12.0
+    - 22.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: MITSUBISHI 6UEC45LSE
+    unit: null
+    values:
+    - 6.0
+    - 5.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: SS 10/25
+    unit: null
+    values:
+    - 10.0
+    - 25.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: SUPER KATE 32,162 2008 HAKODATE 4 X 30 T RGN USD 16 M U/D
+    unit: usd
+    values:
+    - 32162.0
+    - 2008.0
+    - 4.0
+    - 30.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: DD 11/23
+    unit: null
+    values:
+    - 11.0
+    - 23.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: MAN-B&W 8S80MC-C6.1 SS 11/23
+    unit: null
+    values:
+    - 8.0
+    - 1.0
+    - 11.0
+    - 23.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: DUQM 310,084 2008 IMABARI RGN USD 39 M U/D
+    unit: usd
+    values:
+    - 310084.0
+    - 2008.0
+    - 39.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: BWTS fitted DD 11/23
+    unit: null
+    values:
+    - 11.0
+    - 23.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: MAN-B&W 6S60MC-C7.2 SS 03/27
+    unit: null
+    values:
+    - 6.0
+    - 2.0
+    - 3.0
+    - 27.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: RUMFORD 107,505 2012 TSUNEISHI USD 32.75 M GREEKS
+    unit: usd
+    values:
+    - 107505.0
+    - 2012.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: BWTS fitted DD 05/25
+    unit: null
+    values:
+    - 5.0
+    - 25.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: Page 1 of 3
+    unit: null
+    values:
+    - 1.0
+    - 3.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: In tankers this week, Wuchang Shipbuilding announced contracting
+      two firm 7.2k dwt StSt Chemical tankers for SC Shipping, with deliveries expected
+    unit: null
+    values:
+    - 7.2
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: in 2024.
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: In dry bulk, Clients of Safe Bulkers announced ordering two firm
+      82k dwt Kamsarmaxes at COSCO Yangzhou, with deliveries expected in 2H 2024
+    unit: null
+    values:
+    - 82.0
+    - 2.0
+    - 2024.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: and 1Q 2025 respectively.
+    unit: null
+    values:
+    - 1.0
+    - 2025.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: In containers, ONE announced ordering ten firm 13,700TEU Containerships
+      across two separate shipyards. Five vessels will be delivered at Hyundai
+    unit: null
+    values:
+    - 13700.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: HI throughout 2025 and five vessels will be delivered at Nihon Shipyard,
+      also throughout 2025. The vessels will all hold "Methanol ready" and
+    unit: null
+    values:
+    - 2025.0
+    - 2025.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: As we commemorate Her Majesty The Queen marking 70 years of service
+      to the people of the United Kingdom, the Realms and the Commonwealth
+    unit: null
+    values:
+    - 70.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: scale. The outlook for 2023 also appears positive and therefore,
+      we do not expect a barrage of tanker units to arrive to the recycling destinations
+      for
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: BDI - EURO/USD 1.07006 BUNKERS ROTTERDAM SPORE FUJAIRAH
+    unit: usd
+    values:
+    - 1.07006
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: BCI - YEN/USD 0.0077 VLSFO 883.50 1086.00 1029.50
+    unit: usd
+    values:
+    - 883.5
+    - 1086.0
+    - 1029.5
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: BPI - BRENT MGO 1263.00 1247.50 1451.00
+    unit: null
+    values:
+    - 1263.0
+    - 1247.5
+    - 1451.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: BSI - 121.717 IFO 380 647.00 640.50 717.00
+    unit: null
+    values:
+    - 121.717
+    - 380.0
+    - 647.0
+    - 640.5
+    - 717.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: Page 2 of 3
+    unit: null
+    values:
+    - 2.0
+    - 3.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: '62 Kifissias Avenue ("Clarksons Platou") for general information
+      purposes. The Information is drawn from Clarksons Platou''s database and other
+      sources. Clarksons Platou advises that: (i) any Information extracted from Clarksons
+      Platou''s database is'
+    unit: null
+    values:
+    - 62.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: 151 25 Clarksons Platou has taken reasonable care in the compilation
+      of the Information and believes it to be accurate and correct, data compilation
+      is subject to limited audit and validation procedures and may accordingly contain
+      errors; (iv)
+    unit: null
+    values:
+    - 151.0
+    - 25.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: Direct +(30) 210 458 6700
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6700.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: Fax +(30) 210 458 6799 This Information is confidential and is solely
+      for the internal use of the recipient. Neither the whole nor any part of the
+      Information may be disclosed to, or used or relied upon by, any other person
+      or used for any other purpose withou
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6799.0
+  - section: 'Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 3
+    unit: null
+    values:
+    - 3.0
+    - 3.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2022/2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21.html
+source_path: corpus/02-hellenic/shipbuilding/2022/2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21.html
 source_stem: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21
 source_url: https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-21
 summary: 'Main
@@ -722,7 +1039,7 @@ NEW BUILDING:In tankers this week, Wuchang Shipbuilding announced contracting tw
 Source: Clarkson Platou (Hellas) ltd
 
 ## Linked asset: 2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf
-Source asset: reports/hellenic/shipbuilding/pdfs/2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf
+Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-06-03_clarksons-platou-hellas-snp-weekly-bulletin-21_report-03-06-2022_9f8c86d048df.pdf
 
 [Page 1]
 `

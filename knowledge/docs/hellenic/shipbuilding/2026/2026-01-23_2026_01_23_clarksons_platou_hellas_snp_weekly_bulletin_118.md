@@ -4,6 +4,7 @@ commodities: []
 date: '2026-01-23'
 doc_id: hellenic_shipbuilding_2026-01-23_2026_01_23_clarksons_platou_hellas_snp_weekly_bulletin_118
 document_type: shipbuilding_update
+is_error_page: false
 key_entities: []
 keywords:
 - panamax
@@ -24,10 +25,9 @@ linked_assets_ingested: 1
 linked_assets_mirrored: 1
 linked_assets_skipped: 0
 market_tone: neutral
-numeric_observation_count: 32
+numeric_observation_count: 33
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: On the Kamsarmax front, the MIAO XIANG (ABT 81K DWT, 2013, JIANGSU
     EASTERN) has been sold at USD 16.8 m, while on the Panamax segment, the KT BIRDIE
@@ -36,10 +36,11 @@ numeric_observations:
   values:
   - 81.0
   - 2013.0
+  - 16800.0
   - 74.0
   - 2011.0
-- &id002
-  section: Main
+  - 16500.0
+- section: Main
   section_type: null
   source_line: We are also hearing that a 2020 Chinese built Ultramax has been sold
     for USD 30.1 m. Meanwhile, THE LOVING (ABT 58K DWT, 2007, TSUNEISHI CEBU) has
@@ -47,10 +48,11 @@ numeric_observations:
   unit: usd
   values:
   - 2020.0
+  - 30100.0
   - 58.0
   - 2007.0
-- &id003
-  section: Main
+  - 11700.0
+- section: Main
   section_type: null
   source_line: On the Handysize segment, we are seeing several transactions unfolding
     and negotiations taking place, highlighting also buyers' appetite for smaller
@@ -60,23 +62,23 @@ numeric_observations:
   values:
   - 32.0
   - 2012.0
+  - 9800.0
   - 37.0
   - 2008.0
+  - 11400.0
   - 2015.0
   - 36.0
   - 18.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: On the Suezmax segment, c/o Okeanis have agreed to acquire two resale
     Suezmaxes currently under construction at Daehan Shipbuilding at a price of USD
     99.3 m per vessel with delivery within the second quarter of 2026.
   unit: usd
   values:
-  - 99.3
+  - 99300.0
   - 2026.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: Meanwhile, we are hearing a 2009 Chinese built Suezmax has been sold
     at USD 42.5 m. Lastly, two modern LR2s 109K DWT 2024 built are rumored sold at
@@ -84,12 +86,12 @@ numeric_observations:
   unit: usd
   values:
   - 2009.0
-  - 42.5
+  - 42500.0
+  - 2.0
   - 109.0
   - 2024.0
-  - 84.5
-- &id006
-  section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+  - 84500.0
+- section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
   section_type: linked_pdf
   source_line: On the Kamsarmax front, the MIAO XIANG (ABT 81K DWT, 2013, JIANGSU
     EASTERN) has been sold at USD
@@ -97,25 +99,30 @@ numeric_observations:
   values:
   - 81.0
   - 2013.0
-- &id007
-  section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+- section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
   section_type: linked_pdf
   source_line: 16.8 m, while on the Panamax segment, the KT BIRDIE (ABT 74K DWT, 2011,
     SASEBO HI) changed hands
   unit: tonnage
   values:
+  - 16800.0
   - 74.0
   - 2011.0
-- &id008
-  section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+- section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+  section_type: linked_pdf
+  source_line: at USD 16.5 m to Greek interests.
+  unit: usd
+  values:
+  - 16500.0
+- section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
   section_type: linked_pdf
   source_line: We are also hearing that a 2020 Chinese built Ultramax has been sold
     for USD 30.1 m. Meanwhile, THE
   unit: usd
   values:
   - 2020.0
-- &id009
-  section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+  - 30100.0
+- section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
   section_type: linked_pdf
   source_line: LOVING (ABT 58K DWT, 2007, TSUNEISHI CEBU) has been committed at USD
     11.7 m.
@@ -123,8 +130,8 @@ numeric_observations:
   values:
   - 58.0
   - 2007.0
-- &id010
-  section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+  - 11700.0
+- section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
   section_type: linked_pdf
   source_line: 32K DWT, 2012, JIANGMEN NANYANG) were sold for USD 9.8 m each to separate
     Chinese interests.
@@ -132,8 +139,8 @@ numeric_observations:
   values:
   - 32.0
   - 2012.0
-- &id011
-  section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+  - 9800.0
+- section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
   section_type: linked_pdf
   source_line: According to market rumors a 37K DWT 2008 Japanese built Handysize
     has been sold for USD 11.4 m,
@@ -141,8 +148,8 @@ numeric_observations:
   values:
   - 37.0
   - 2008.0
-- &id012
-  section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+  - 11400.0
+- section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
   section_type: linked_pdf
   source_line: whilst a 2015 Japanese built 36K DWT Handysize is in firm discussions
     in the high USD 18's m.
@@ -151,41 +158,37 @@ numeric_observations:
   - 2015.0
   - 36.0
   - 18.0
-- &id013
-  section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+- section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
   section_type: linked_pdf
   source_line: construction at Daehan Shipbuilding at a price of USD 99.3 m per vessel
     with delivery within the second
   unit: usd
   values:
-  - 99.3
-- &id014
-  section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+  - 99300.0
+- section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
   section_type: linked_pdf
   source_line: quarter of 2026.
   unit: null
   values:
   - 2026.0
-- &id015
-  section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+- section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
   section_type: linked_pdf
   source_line: Meanwhile, we are hearing a 2009 Chinese built Suezmax has been sold
     at USD 42.5 m. Lastly, two
   unit: usd
   values:
   - 2009.0
-  - 42.5
-- &id016
-  section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+  - 42500.0
+- section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
   section_type: linked_pdf
   source_line: modern LR2s 109K DWT 2024 built are rumored sold at USD 84.5 m each.
   unit: usd
   values:
+  - 2.0
   - 109.0
   - 2024.0
-  - 84.5
-- &id017
-  section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+  - 84500.0
+- section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
   section_type: linked_pdf
   source_line: MIAO XIANG 81,997 2013, JIANGSU EASTERN B&W 5S60MC-C7.2 SS 09/27 USD
     16.8 M U/D
@@ -194,19 +197,19 @@ numeric_observations:
   - 81997.0
   - 2013.0
   - 5.0
-  - 2.0
+  - 60.0
+  - 7200.0
   - 9.0
   - 27.0
-- &id018
-  section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+  - 16800.0
+- section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
   section_type: linked_pdf
   source_line: BWTS FITTED DD 09/27
   unit: null
   values:
   - 9.0
   - 27.0
-- &id019
-  section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+- section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
   section_type: linked_pdf
   source_line: KT BIRDIE 74,886 2011 SASEBO HI B&W 7S50MC-C8.2 SS 10/30 USD 16.5 M
     GREEKS
@@ -215,19 +218,19 @@ numeric_observations:
   - 74886.0
   - 2011.0
   - 7.0
-  - 2.0
+  - 50.0
+  - 8200.0
   - 10.0
   - 30.0
-- &id020
-  section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+  - 16500.0
+- section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
   section_type: linked_pdf
   source_line: BWTS FITTED DD 08/28
   unit: null
   values:
   - 8.0
   - 28.0
-- &id021
-  section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+- section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
   section_type: linked_pdf
   source_line: THE LOVING 58,701 2007 TSUNEISHI CEBU B&W 6S50MC-C8.1 SS 08/30 USD
     11.7 M U/D
@@ -236,83 +239,79 @@ numeric_observations:
   - 58701.0
   - 2007.0
   - 6.0
-  - 1.0
+  - 50.0
+  - 8100.0
   - 8.0
   - 30.0
-- &id022
-  section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+  - 11700.0
+- section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
   section_type: linked_pdf
   source_line: 2012 JIANGMEN
   unit: null
   values:
   - 2012.0
-- &id023
-  section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+- section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
   section_type: linked_pdf
   source_line: YANGTZE GRACE 32,503 B&W 6S42MC7.2 SS 06/27 USD 9.8 M CHINESE
   unit: usd
   values:
   - 32503.0
   - 6.0
-  - 2.0
-  - 2.0
+  - 42.0
+  - 7200.0
   - 6.0
   - 27.0
-- &id024
-  section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+  - 9800.0
+- section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
   section_type: linked_pdf
   source_line: NANYANG BWTS FITTED DD 06/27
   unit: null
   values:
   - 6.0
   - 27.0
-- &id025
-  section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+- section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
   section_type: linked_pdf
   source_line: YANGTZE HAPPINESS 32,377 B&W 6S42MC7.2 SS 08/27 USD 9.8 M CHINESE
   unit: usd
   values:
   - 32377.0
   - 6.0
-  - 2.0
-  - 2.0
+  - 42.0
+  - 7200.0
   - 8.0
   - 27.0
-- &id026
-  section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+  - 9800.0
+- section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
   section_type: linked_pdf
   source_line: NANYANG BWTS FITTED DD 08/27
   unit: null
   values:
   - 8.0
   - 27.0
-- &id027
-  section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+- section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
   section_type: linked_pdf
   source_line: B&W 6G70ME-C10.5
   unit: null
   values:
   - 6.0
-  - 0.5
-- &id028
-  section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+  - 70.0
+  - 10500.0
+- section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
   section_type: linked_pdf
   source_line: SUEZMAX RESALES 157,000 2026 DAEHAN BWTS FITTED SS - USD 99.3 M U/D
   unit: usd
   values:
   - 157000.0
   - 2026.0
-  - 99.3
-- &id029
-  section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+  - 99300.0
+- section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
   section_type: linked_pdf
   source_line: 284 Kifissias Avenue ("Clarksons") for general information purposes.
     The Information is drawn from Clarksons' database and other sources. Clarksons
   unit: null
   values:
   - 284.0
-- &id030
-  section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+- section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
   section_type: linked_pdf
   source_line: 152 32 Information extracted from the databases of other maritime data
     collection agencies may differ from the Information extracted
@@ -320,8 +319,7 @@ numeric_observations:
   values:
   - 152.0
   - 32.0
-- &id031
-  section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+- section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
   section_type: linked_pdf
   source_line: Direct +(30) 210 458 6700 the Information is not an endorsement of
     any commercial policies and/or any conclusions by Clarksons and its 'connected
@@ -331,8 +329,7 @@ numeric_observations:
   - 210.0
   - 458.0
   - 6700.0
-- &id032
-  section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+- section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
   section_type: linked_pdf
   source_line: Fax +(30) 210 458 6799
   unit: null
@@ -349,40 +346,291 @@ section_count: 2
 signals:
   numeric_observation_count: 32
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
+  - section: Main
+    section_type: null
+    source_line: On the Kamsarmax front, the MIAO XIANG (ABT 81K DWT, 2013, JIANGSU
+      EASTERN) has been sold at USD 16.8 m, while on the Panamax segment, the KT BIRDIE
+      (ABT 74K DWT, 2011, SASEBO HI) changed hands at USD 16.5 m to Greek interests.
+    unit: tonnage
+    values:
+    - 81.0
+    - 2013.0
+    - 74.0
+    - 2011.0
+  - section: Main
+    section_type: null
+    source_line: We are also hearing that a 2020 Chinese built Ultramax has been sold
+      for USD 30.1 m. Meanwhile, THE LOVING (ABT 58K DWT, 2007, TSUNEISHI CEBU) has
+      been committed at USD 11.7 m.
+    unit: usd
+    values:
+    - 2020.0
+    - 58.0
+    - 2007.0
+  - section: Main
+    section_type: null
+    source_line: On the Handysize segment, we are seeing several transactions unfolding
+      and negotiations taking place, highlighting also buyers' appetite for smaller
+      tonnage. The YANGTZE GRACE & YANGTZE HAPPINESS (ABT 32K DWT, 2012, JIANGMEN
+      NANYANG) were sold for USD 9.8 m ea
+    unit: usd
+    values:
+    - 32.0
+    - 2012.0
+    - 37.0
+    - 2008.0
+    - 2015.0
+    - 36.0
+    - 18.0
+  - section: Main
+    section_type: null
+    source_line: On the Suezmax segment, c/o Okeanis have agreed to acquire two resale
+      Suezmaxes currently under construction at Daehan Shipbuilding at a price of
+      USD 99.3 m per vessel with delivery within the second quarter of 2026.
+    unit: usd
+    values:
+    - 99.3
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: Meanwhile, we are hearing a 2009 Chinese built Suezmax has been sold
+      at USD 42.5 m. Lastly, two modern LR2s 109K DWT 2024 built are rumored sold
+      at USD 84.5 m each.
+    unit: usd
+    values:
+    - 2009.0
+    - 42.5
+    - 109.0
+    - 2024.0
+    - 84.5
+  - section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+    section_type: linked_pdf
+    source_line: On the Kamsarmax front, the MIAO XIANG (ABT 81K DWT, 2013, JIANGSU
+      EASTERN) has been sold at USD
+    unit: usd
+    values:
+    - 81.0
+    - 2013.0
+  - section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+    section_type: linked_pdf
+    source_line: 16.8 m, while on the Panamax segment, the KT BIRDIE (ABT 74K DWT,
+      2011, SASEBO HI) changed hands
+    unit: tonnage
+    values:
+    - 74.0
+    - 2011.0
+  - section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+    section_type: linked_pdf
+    source_line: We are also hearing that a 2020 Chinese built Ultramax has been sold
+      for USD 30.1 m. Meanwhile, THE
+    unit: usd
+    values:
+    - 2020.0
+  - section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+    section_type: linked_pdf
+    source_line: LOVING (ABT 58K DWT, 2007, TSUNEISHI CEBU) has been committed at
+      USD 11.7 m.
+    unit: usd
+    values:
+    - 58.0
+    - 2007.0
+  - section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+    section_type: linked_pdf
+    source_line: 32K DWT, 2012, JIANGMEN NANYANG) were sold for USD 9.8 m each to
+      separate Chinese interests.
+    unit: usd
+    values:
+    - 32.0
+    - 2012.0
+  - section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+    section_type: linked_pdf
+    source_line: According to market rumors a 37K DWT 2008 Japanese built Handysize
+      has been sold for USD 11.4 m,
+    unit: usd
+    values:
+    - 37.0
+    - 2008.0
+  - section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+    section_type: linked_pdf
+    source_line: whilst a 2015 Japanese built 36K DWT Handysize is in firm discussions
+      in the high USD 18's m.
+    unit: usd
+    values:
+    - 2015.0
+    - 36.0
+    - 18.0
+  - section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+    section_type: linked_pdf
+    source_line: construction at Daehan Shipbuilding at a price of USD 99.3 m per
+      vessel with delivery within the second
+    unit: usd
+    values:
+    - 99.3
+  - section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+    section_type: linked_pdf
+    source_line: quarter of 2026.
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+    section_type: linked_pdf
+    source_line: Meanwhile, we are hearing a 2009 Chinese built Suezmax has been sold
+      at USD 42.5 m. Lastly, two
+    unit: usd
+    values:
+    - 2009.0
+    - 42.5
+  - section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+    section_type: linked_pdf
+    source_line: modern LR2s 109K DWT 2024 built are rumored sold at USD 84.5 m each.
+    unit: usd
+    values:
+    - 109.0
+    - 2024.0
+    - 84.5
+  - section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+    section_type: linked_pdf
+    source_line: MIAO XIANG 81,997 2013, JIANGSU EASTERN B&W 5S60MC-C7.2 SS 09/27
+      USD 16.8 M U/D
+    unit: usd
+    values:
+    - 81997.0
+    - 2013.0
+    - 5.0
+    - 2.0
+    - 9.0
+    - 27.0
+  - section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+    section_type: linked_pdf
+    source_line: BWTS FITTED DD 09/27
+    unit: null
+    values:
+    - 9.0
+    - 27.0
+  - section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+    section_type: linked_pdf
+    source_line: KT BIRDIE 74,886 2011 SASEBO HI B&W 7S50MC-C8.2 SS 10/30 USD 16.5
+      M GREEKS
+    unit: tonnage
+    values:
+    - 74886.0
+    - 2011.0
+    - 7.0
+    - 2.0
+    - 10.0
+    - 30.0
+  - section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+    section_type: linked_pdf
+    source_line: BWTS FITTED DD 08/28
+    unit: null
+    values:
+    - 8.0
+    - 28.0
+  - section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+    section_type: linked_pdf
+    source_line: THE LOVING 58,701 2007 TSUNEISHI CEBU B&W 6S50MC-C8.1 SS 08/30 USD
+      11.7 M U/D
+    unit: usd
+    values:
+    - 58701.0
+    - 2007.0
+    - 6.0
+    - 1.0
+    - 8.0
+    - 30.0
+  - section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+    section_type: linked_pdf
+    source_line: 2012 JIANGMEN
+    unit: null
+    values:
+    - 2012.0
+  - section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+    section_type: linked_pdf
+    source_line: YANGTZE GRACE 32,503 B&W 6S42MC7.2 SS 06/27 USD 9.8 M CHINESE
+    unit: usd
+    values:
+    - 32503.0
+    - 6.0
+    - 2.0
+    - 2.0
+    - 6.0
+    - 27.0
+  - section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+    section_type: linked_pdf
+    source_line: NANYANG BWTS FITTED DD 06/27
+    unit: null
+    values:
+    - 6.0
+    - 27.0
+  - section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+    section_type: linked_pdf
+    source_line: YANGTZE HAPPINESS 32,377 B&W 6S42MC7.2 SS 08/27 USD 9.8 M CHINESE
+    unit: usd
+    values:
+    - 32377.0
+    - 6.0
+    - 2.0
+    - 2.0
+    - 8.0
+    - 27.0
+  - section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+    section_type: linked_pdf
+    source_line: NANYANG BWTS FITTED DD 08/27
+    unit: null
+    values:
+    - 8.0
+    - 27.0
+  - section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+    section_type: linked_pdf
+    source_line: B&W 6G70ME-C10.5
+    unit: null
+    values:
+    - 6.0
+    - 0.5
+  - section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+    section_type: linked_pdf
+    source_line: SUEZMAX RESALES 157,000 2026 DAEHAN BWTS FITTED SS - USD 99.3 M U/D
+    unit: usd
+    values:
+    - 157000.0
+    - 2026.0
+    - 99.3
+  - section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+    section_type: linked_pdf
+    source_line: 284 Kifissias Avenue ("Clarksons") for general information purposes.
+      The Information is drawn from Clarksons' database and other sources. Clarksons
+    unit: null
+    values:
+    - 284.0
+  - section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+    section_type: linked_pdf
+    source_line: 152 32 Information extracted from the databases of other maritime
+      data collection agencies may differ from the Information extracted
+    unit: null
+    values:
+    - 152.0
+    - 32.0
+  - section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+    section_type: linked_pdf
+    source_line: Direct +(30) 210 458 6700 the Information is not an endorsement of
+      any commercial policies and/or any conclusions by Clarksons and its 'connected
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6700.0
+  - section: 'Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf'
+    section_type: linked_pdf
+    source_line: Fax +(30) 210 458 6799
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6799.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2026/2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118.html
+source_path: corpus/02-hellenic/shipbuilding/2026/2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118.html
 source_stem: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118
 source_url: https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-118
 summary: 'Main
@@ -434,7 +682,7 @@ Meanwhile, we are hearing a 2009 Chinese built Suezmax has been sold at USD 42.5
 Source: Clarkson Platou (Hellas) ltd
 
 ## Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf
-Source asset: reports/hellenic/shipbuilding/pdfs/2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf
+Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf
 
 [Page 1]
 Clarkson Hellas Ltd.

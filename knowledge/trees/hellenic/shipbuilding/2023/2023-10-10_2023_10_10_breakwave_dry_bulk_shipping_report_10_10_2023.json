@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1481,
-  "source_path": "reports/hellenic/shipbuilding/2023/2023-10-10_breakwave-dry-bulk-shipping-report-10-10-2023.html",
+  "token_count": 1483,
+  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-10-10_breakwave-dry-bulk-shipping-report-10-10-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-10-10-2023",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-10-10_breakwave-dry-bulk-shipping-report-10-10-2023_breakwavedryoctober102023report_81ce93c455a5.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-10-10_breakwave-dry-bulk-shipping-report-10-10-2023_breakwavedryoctober102023report_81ce93c455a5.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nOctober 10, 2023\nBreakwave Dry Futures Index: 1,586 Baltic Dry Index (spot): 1,929 Short-term Indicators:\n↑ 30D: 14.6% ↑ 30D: 78.4% Momentum: Positive\n↑ YTD: 55.6% ↑ YTD: 27.3% Sentiment: Negative\n↓ YOY: -2.2% ↓ YOY: -3.2% Fundamentals: Positive\nBi-Weekly Report\n• Capesize spot rates reach 16-month highs amid a tighter Atlantic market - Once again, dry bulk volatility comes\nback with a vengeance as supply/demand balance in the Atlantic is now tilted towards stronger rates for the\nforeseeable future. Such a shift comes despite an unfavorable macro picture, with China continuing to suffer from\nweak steel demand (although we believe this is about to change as discussed below).",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-10-10_breakwave-dry-bulk-shipping-report-10-10-2023_breakwavedryoctober102023report_81ce93c455a5.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nOctober 10, 2023\nBreakwave Dry Futures Index: 1,586 Baltic Dry Index (spot): 1,929 Short-term Indicators:\n↑ 30D: 14.6% ↑ 30D: 78.4% Momentum: Positive\n↑ YTD: 55.6% ↑ YTD: 27.3% Sentiment: Negative\n↓ YOY: -2.2% ↓ YOY: -3.2% Fundamentals: Positive\nBi-Weekly Report\n• Capesize spot rates reach 16-month highs amid a tighter Atlantic market - Once again, dry bulk volatility comes\nback with a vengeance as supply/demand balance in the Atlantic is now tilted towards stronger rates for the\nforeseeable future. Such a shift comes despite an unfavorable macro picture, with China continuing to suffer from\nweak steel demand (although we believe this is about to change as discussed below).",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1406,
+      "token_count": 1408,
       "section_type": "linked_pdf",
       "children": []
     }

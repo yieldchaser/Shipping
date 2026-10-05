@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1832,
-  "source_path": "reports/hellenic/shipbuilding/2025/2025-12-02_breakwave-tanker-report-12-2-2025.html",
+  "token_count": 1834,
+  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-12-02_breakwave-tanker-report-12-2-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-12-2-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-12-02_breakwave-tanker-report-12-2-2025_breakwavetankersdecember22025report_8892beea2d11.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-12-02_breakwave-tanker-report-12-2-2025_breakwavetankersdecember22025report_8892beea2d11.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nDecember 2, 2025\n• VLCC Market Stabilizes into Final Strech of the Year - The Very Large Crude\nShort-term Indicators\nCarrier (VLCC) sector experienced a market moderation from late November into\nMomentum: Negative\nearly December, losing the strong momentum of mid-November as the market\ntransitioned. While the Arabian Gulf (AG) initially maintained firm sentiment and Sentiment: Positive\nhealthy enquiry, the position list widened and enquiry tapered off toward month- Fundamentals: Positive\nend, enabling charterers to secure leverage and causing a gradual softening in\nrates, though not a sharp correction.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-12-02_breakwave-tanker-report-12-2-2025_breakwavetankersdecember22025report_8892beea2d11.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nDecember 2, 2025\n• VLCC Market Stabilizes into Final Strech of the Year - The Very Large Crude\nShort-term Indicators\nCarrier (VLCC) sector experienced a market moderation from late November into\nMomentum: Negative\nearly December, losing the strong momentum of mid-November as the market\ntransitioned. While the Arabian Gulf (AG) initially maintained firm sentiment and Sentiment: Positive\nhealthy enquiry, the position list widened and enquiry tapered off toward month- Fundamentals: Positive\nend, enabling charterers to secure leverage and causing a gradual softening in\nrates, though not a sharp correction.",
       "keywords": [
         "vlcc",
         "suezmax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1752,
+      "token_count": 1754,
       "section_type": "linked_pdf",
       "children": []
     }

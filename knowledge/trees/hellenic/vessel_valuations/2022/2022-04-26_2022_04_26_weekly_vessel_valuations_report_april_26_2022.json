@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1458,
-  "source_path": "reports/hellenic/vessel_valuations/2022/2022-04-26_weekly-vessel-valuations-report-april-26-2022.html",
+  "token_count": 1460,
+  "source_path": "corpus/02-hellenic/vessel_valuations/2022/2022-04-26_weekly-vessel-valuations-report-april-26-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-april-26-2022",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-04-26_weekly-vessel-valuations-report-april-26-2022_img1_matrix-26-april-2022_f5efabd3dca5.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/vessel_valuations/2022/assets/2022-04-26_weekly-vessel-valuations-report-april-26-2022_img1_matrix-26-april-2022_f5efabd3dca5.jpg\n\nLinked image asset: 2022-04-26_weekly-vessel-valuations-report-april-26-2022_img1_matrix-26-april-2022_f5efabd3dca5.jpg\n\nImage metadata: JPEG 680x262 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\noO VesselsValue™\n26 April 2022 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge VLCC = Suez Afra LRI MR Cape Pmax Supra Handy ost Pmax Handy Fmax\n0 +0.1% +0.3% -0.3% -0.3% +0.3% +0.7% +0.1% +1.2% +1.1% +1.1% -1.0% -1.8% -1.6%\n320K 160K 110K 75K 50K 180K 82K GOK 37K 7ooo 4250 «1750-1100\nis +1.3% +0.5% +0.4% -0,3% +2.2% +0.7% -0.2% +1,8% +1,8% +1.1% -0.9% -1.8% -1.5%\n320K 160K 110K 75K SOK 180K 80K 60K 30K 7000 4250 1750 1100\n40 +0.5% +0.7% +0.6% -0.3% +2.0% +0.7% +0.4% +2.4% +2.7% +1.1% -0.9% -1.8% -1.5%\n310K = =160K 110K 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100\n15 0.1% 41.1% 43.0% -0.2% +2.3% 10.7% 41.6% +3.0% +3.0% 41.1% -0.8% -2.0% -1.5%\n310K 160K 110K 75K SOK 180K 75K SSK 30K 7000 +4250 ©1750 = 1100\n20 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% +3.2% +3.6% +2.9% 41.2% -0.6% -2.1% -1.7%\n305K 155K 105K 70K 45K 175K 75K SO",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2022/assets/2022-04-26_weekly-vessel-valuations-report-april-26-2022_img1_matrix-26-april-2022_f5efabd3dca5.jpg\n\nLinked image asset: 2022-04-26_weekly-vessel-valuations-report-april-26-2022_img1_matrix-26-april-2022_f5efabd3dca5.jpg\n\nImage metadata: JPEG 680x262 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\noO VesselsValue™\n26 April 2022 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge VLCC = Suez Afra LRI MR Cape Pmax Supra Handy ost Pmax Handy Fmax\n0 +0.1% +0.3% -0.3% -0.3% +0.3% +0.7% +0.1% +1.2% +1.1% +1.1% -1.0% -1.8% -1.6%\n320K 160K 110K 75K 50K 180K 82K GOK 37K 7ooo 4250 «1750-1100\nis +1.3% +0.5% +0.4% -0,3% +2.2% +0.7% -0.2% +1,8% +1,8% +1.1% -0.9% -1.8% -1.5%\n320K 160K 110K 75K SOK 180K 80K 60K 30K 7000 4250 1750 1100\n40 +0.5% +0.7% +0.6% -0.3% +2.0% +0.7% +0.4% +2.4% +2.7% +1.1% -0.9% -1.8% -1.5%\n310K = =160K 110K 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100\n15 0.1% 41.1% 43.0% -0.2% +2.3% 10.7% 41.6% +3.0% +3.0% 41.1% -0.8% -2.0% -1.5%\n310K 160K 110K 75K SOK 180K 75K SSK 30K 7000 +4250 ©1750 = 1100\n20 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% +3.2% +3.6% +2.9% 41.2% -0.6% -2.1% -1.7%\n305K 155K 105K 70K 45K 175K 75K ",
       "keywords": [
         "capesize",
         "supramax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 800,
+      "token_count": 802,
       "section_type": "linked_image_asset",
       "children": []
     }

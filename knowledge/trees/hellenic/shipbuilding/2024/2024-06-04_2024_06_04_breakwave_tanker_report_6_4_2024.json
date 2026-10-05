@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1516,
-  "source_path": "reports/hellenic/shipbuilding/2024/2024-06-04_breakwave-tanker-report-6-4-2024.html",
+  "token_count": 1518,
+  "source_path": "corpus/02-hellenic/shipbuilding/2024/2024-06-04_breakwave-tanker-report-6-4-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-6-4-2024",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2024-06-04_breakwave-tanker-report-6-4-2024_breakwavetankersjune42024report_64e7a5f46ffc.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2024-06-04_breakwave-tanker-report-6-4-2024_breakwavetankersjune42024report_64e7a5f46ffc.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nJune 4, 2024\nBreakwave Tanker Futures Index: 1,209 VLCC Middle East-Asia Spot Rates: $14.05 Short-term Indicators:\n↓ 30D: -7.2% ↓ 30D: -13.5% Momentum: Negative\n↓ YTD: -0.4% ↑ YTD: 6.1% Sentiment: Neutral\n↑ YOY: 13.3% ↑ YOY: 11.9% Fundamentals: Neutral\nBi-Weekly Report\n• VLCC Market Faces Downward Pressure Amid Sluggish Activity and OPEC+ Production Cuts - The VLCC market is once\nagain under renewed pressure as we enter the month of June. Although by Mid-May signs of firmness seemed evident\ndriven by uncertainties about a potentially robust market heading into early summer, these expectations were dampened\nas concerns about an oversupply of tonnage proved to be well-founded and, as a result, the spot VLCC market weakened\nat the end of last week.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2024-06-04_breakwave-tanker-report-6-4-2024_breakwavetankersjune42024report_64e7a5f46ffc.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nJune 4, 2024\nBreakwave Tanker Futures Index: 1,209 VLCC Middle East-Asia Spot Rates: $14.05 Short-term Indicators:\n↓ 30D: -7.2% ↓ 30D: -13.5% Momentum: Negative\n↓ YTD: -0.4% ↑ YTD: 6.1% Sentiment: Neutral\n↑ YOY: 13.3% ↑ YOY: 11.9% Fundamentals: Neutral\nBi-Weekly Report\n• VLCC Market Faces Downward Pressure Amid Sluggish Activity and OPEC+ Production Cuts - The VLCC market is once\nagain under renewed pressure as we enter the month of June. Although by Mid-May signs of firmness seemed evident\ndriven by uncertainties about a potentially robust market heading into early summer, these expectations were dampened\nas concerns about an oversupply of tonnage proved to be well-founded and, as a result, the spot VLCC market weakened\nat the end of last week.",
       "keywords": [
         "vlcc",
         "suezmax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1438,
+      "token_count": 1440,
       "section_type": "linked_pdf",
       "children": []
     }

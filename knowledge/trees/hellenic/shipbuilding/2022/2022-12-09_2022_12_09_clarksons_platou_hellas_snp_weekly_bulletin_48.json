@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2233,
-  "source_path": "reports/hellenic/shipbuilding/2022/2022-12-09_clarksons-platou-hellas-snp-weekly-bulletin-48.html",
+  "token_count": 2235,
+  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-12-09_clarksons-platou-hellas-snp-weekly-bulletin-48.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-48",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-12-09_clarksons-platou-hellas-snp-weekly-bulletin-48_report-09-12-2022_92804d38cad6.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-12-09_clarksons-platou-hellas-snp-weekly-bulletin-48_report-09-12-2022_92804d38cad6.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 09 December 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nXS USD 25 M\n2016 TSUNEISHI MAN B. 6S60ME-C8.2 SS 01/26\nNORD POLLUX 81,839 GREEKS\n(CEBU) BWTS Fitted DD 12/23 (Basis Delivery in\nMay 2023)\nMITSUBISHI 6UEC52LA\nSS 12/25\nCYGNUS 32,642 2005 KANDA 4 x 30 T, LOGS Fitted USD 9.5 M MIDDLE EASTERNS\nDD 11/23\nBWTS Fitted\nMAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-12-09_clarksons-platou-hellas-snp-weekly-bulletin-48_report-09-12-2022_92804d38cad6.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 09 December 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nXS USD 25 M\n2016 TSUNEISHI MAN B. 6S60ME-C8.2 SS 01/26\nNORD POLLUX 81,839 GREEKS\n(CEBU) BWTS Fitted DD 12/23 (Basis Delivery in\nMay 2023)\nMITSUBISHI 6UEC52LA\nSS 12/25\nCYGNUS 32,642 2005 KANDA 4 x 30 T, LOGS Fitted USD 9.5 M MIDDLE EASTERNS\nDD 11/23\nBWTS Fitted\nMAN B.",
       "keywords": [
         "handysize",
         "lng",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2154,
+      "token_count": 2156,
       "section_type": "linked_pdf",
       "children": []
     }

@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1718,
-  "source_path": "reports/hellenic/shipbuilding/2025/2025-08-12_breakwave-tanker-report-8-12-2025.html",
+  "token_count": 1720,
+  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-08-12_breakwave-tanker-report-8-12-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-8-12-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-08-12_breakwave-tanker-report-8-12-2025_breakwavetankersaugust122025report_efae1b8d1ecd.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-08-12_breakwave-tanker-report-8-12-2025_breakwavetankersaugust122025report_efae1b8d1ecd.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nAugust 12, 2025\n• VLCC Market Rebounds on Stronger MEG Activity - Following the charterer-led\nShort-term Indicators\nsoftness at the end of July, the VLCC market has regained firmer footing in mid-\nMomentum: Positive\nAugust, particularly in the Middle East Gulf (MEG). Early-month enquiry for late-\nAugust stems has been more active than expected, helping to absorb part of the Sentiment: Positive\ntonnage overhang that had weighed on sentiment.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-08-12_breakwave-tanker-report-8-12-2025_breakwavetankersaugust122025report_efae1b8d1ecd.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nAugust 12, 2025\n• VLCC Market Rebounds on Stronger MEG Activity - Following the charterer-led\nShort-term Indicators\nsoftness at the end of July, the VLCC market has regained firmer footing in mid-\nMomentum: Positive\nAugust, particularly in the Middle East Gulf (MEG). Early-month enquiry for late-\nAugust stems has been more active than expected, helping to absorb part of the Sentiment: Positive\ntonnage overhang that had weighed on sentiment.",
       "keywords": [
         "vlcc",
         "suezmax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1637,
+      "token_count": 1639,
       "section_type": "linked_pdf",
       "children": []
     }

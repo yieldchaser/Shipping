@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2185,
-  "source_path": "reports/hellenic/shipbuilding/2026/2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123.html",
+  "token_count": 2187,
+  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-123",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nBoth dry bulk and tanker secondhand markets have remained active, with bulker deals particularly\nactive.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nBoth dry bulk and tanker secondhand markets have remained active, with bulker deals particularly\nactive.",
       "keywords": [
         "supramax",
         "handysize",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1692,
+      "token_count": 1694,
       "section_type": "linked_pdf",
       "children": []
     }

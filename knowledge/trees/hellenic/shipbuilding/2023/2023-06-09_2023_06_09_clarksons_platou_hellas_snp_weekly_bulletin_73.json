@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2218,
-  "source_path": "reports/hellenic/shipbuilding/2023/2023-06-09_clarksons-platou-hellas-snp-weekly-bulletin-73.html",
+  "token_count": 2220,
+  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-06-09_clarksons-platou-hellas-snp-weekly-bulletin-73.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-73",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-06-09_clarksons-platou-hellas-snp-weekly-bulletin-73_report-09-06-2023_31395cf725cd.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-06-09_clarksons-platou-hellas-snp-weekly-bulletin-73_report-09-06-2023_31395cf725cd.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 09 June 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\n2017 SHANGHAI MAN B. 6G70ME-C9.2 SS 09/27\nHERUN ZHOUSHAN 181,056 USD 41.5 M U/D\nJIANGNAN BWTS fitted DD 01/26\nKMARIN 2015 JIANGSU NEW MAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-06-09_clarksons-platou-hellas-snp-weekly-bulletin-73_report-09-06-2023_31395cf725cd.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 09 June 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\n2017 SHANGHAI MAN B. 6G70ME-C9.2 SS 09/27\nHERUN ZHOUSHAN 181,056 USD 41.5 M U/D\nJIANGNAN BWTS fitted DD 01/26\nKMARIN 2015 JIANGSU NEW MAN B.",
       "keywords": [
         "panamax",
         "handysize",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2129,
+      "token_count": 2131,
       "section_type": "linked_pdf",
       "children": []
     }

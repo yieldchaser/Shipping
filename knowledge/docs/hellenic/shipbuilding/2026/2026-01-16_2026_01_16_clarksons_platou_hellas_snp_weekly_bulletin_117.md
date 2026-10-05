@@ -4,6 +4,7 @@ commodities: []
 date: '2026-01-16'
 doc_id: hellenic_shipbuilding_2026-01-16_2026_01_16_clarksons_platou_hellas_snp_weekly_bulletin_117
 document_type: shipbuilding_update
+is_error_page: false
 key_entities: []
 keywords:
 - capesize
@@ -26,8 +27,7 @@ linked_assets_skipped: 0
 market_tone: neutral
 numeric_observation_count: 40
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: This week, dry bulk activity was concentrated in the larger segments,
     where c/o Berge Bulk sold their scrubber-fitted Newcastlemax BERGE MOLDOVEANU
@@ -38,8 +38,7 @@ numeric_observations:
   - 211.0
   - 2020.0
   - 74.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Furthermore, we are hearing of two Capesize units being sold this week,
     the FRONTIER KOTOBUKI (174K DWT, 2011, NAMURA) which was inviting offers yesterday,
@@ -50,8 +49,8 @@ numeric_observations:
   - 174.0
   - 2011.0
   - 2005.0
-- &id003
-  section: Main
+  - 20500.0
+- section: Main
   section_type: null
   source_line: In the geared segment, the Ultramax OCEAN JASMIN (ABT 63K DWT, 2019,
     COSCO HI ZHOUSHAN) has been sold in the region of USD 28.5 m basis TC attached
@@ -60,9 +59,9 @@ numeric_observations:
   values:
   - 63.0
   - 2019.0
+  - 28500.0
   - 2026.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: Unconfirmed rumors suggest two Ultramax transactions being concluded,
     including a 2012 Japanese built unit at a price in the low USD 19 m and a 2020
@@ -71,8 +70,7 @@ numeric_observations:
   values:
   - 2012.0
   - 2020.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: On the smaller segment, c/o Straits Orient Lines sold their Handysize
     TBC PRAISE (ABT 36K DWT, 2012, HYUNDAI MIPO) for USD 14.4 m, while on the Chinese
@@ -82,21 +80,21 @@ numeric_observations:
   values:
   - 36.0
   - 2012.0
+  - 14400.0
   - 37.0
   - 2012.0
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: On the LR segment, c/o Scorpio Tankers have sold their scrubber-fitted
     LR2 STI KINGSWAY (ABT 109K DWT, 2015, SUNGDONG, SCRUBBER) at USD 57.5 m to undisclosed
     buyers.
   unit: usd
   values:
+  - 2.0
   - 109.0
   - 2015.0
-  - 57.5
-- &id007
-  section: Main
+  - 57500.0
+- section: Main
   section_type: null
   source_line: Meanwhile, on the MRs, the two zinc-coated eco-MR tankers MARITIME
     TRANQUILITY & MARITIME COMITY (ABT 49K DWT, 2020, GSI NANSHA) have been reported
@@ -106,8 +104,7 @@ numeric_observations:
   - 49.0
   - 2020.0
   - 39.0
-- &id008
-  section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+- section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
   section_type: linked_pdf
   source_line: scrubber-fitted Newcastlemax BERGE MOLDOVEANU (ABT 211K DWT, 2020,
     BOHAI, SCRUBBER), for a
@@ -115,39 +112,35 @@ numeric_observations:
   values:
   - 211.0
   - 2020.0
-- &id009
-  section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+- section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
   section_type: linked_pdf
   source_line: price in the region of USD 74 m to Korean interests.
   unit: usd
   values:
   - 74.0
-- &id010
-  section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+- section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
   section_type: linked_pdf
   source_line: Furthermore, we are hearing of two Capesize units being sold this week,
     the FRONTIER KOTOBUKI (174K
   unit: null
   values:
   - 174.0
-- &id011
-  section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+- section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
   section_type: linked_pdf
   source_line: DWT, 2011, NAMURA) which was inviting offers yesterday, we understand
     that has been committed for
   unit: null
   values:
   - 2011.0
-- &id012
-  section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+- section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
   section_type: linked_pdf
   source_line: USD 31 m, and another vintage unit which is built in Japan 2005 at
     a price of USD 20.5 m.
   unit: usd
   values:
   - 2005.0
-- &id013
-  section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+  - 20500.0
+- section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
   section_type: linked_pdf
   source_line: In the geared segment, the Ultramax OCEAN JASMIN (ABT 63K DWT, 2019,
     COSCO HI ZHOUSHAN) has
@@ -155,32 +148,29 @@ numeric_observations:
   values:
   - 63.0
   - 2019.0
-- &id014
-  section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+- section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
   section_type: linked_pdf
   source_line: been sold in the region of USD 28.5 m basis TC attached until max June
     2026.
   unit: usd
   values:
+  - 28500.0
   - 2026.0
-- &id015
-  section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+- section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
   section_type: linked_pdf
   source_line: Unconfirmed rumors suggest two Ultramax transactions being concluded,
     including a 2012 Japanese
   unit: null
   values:
   - 2012.0
-- &id016
-  section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+- section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
   section_type: linked_pdf
   source_line: built unit at a price in the low USD 19 m and a 2020 Chinese built
     vessel, said to be sold for xs USD 30 m.
   unit: usd
   values:
   - 2020.0
-- &id017
-  section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+- section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
   section_type: linked_pdf
   source_line: On the smaller segment, c/o Straits Orient Lines sold their Handysize
     TBC PRAISE (ABT 36K DWT, 2012,
@@ -188,33 +178,31 @@ numeric_observations:
   values:
   - 36.0
   - 2012.0
-- &id018
-  section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+- section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
   section_type: linked_pdf
   source_line: HYUNDAI MIPO) for USD 14.4 m, while on the Chinese built front, we
     understand that a 37K DWT, 2012
   unit: usd
   values:
+  - 14400.0
   - 37.0
   - 2012.0
-- &id019
-  section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+- section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
   section_type: linked_pdf
   source_line: On the LR segment, c/o Scorpio Tankers have sold their scrubber-fitted
     LR2 STI KINGSWAY (ABT 109K
   unit: null
   values:
+  - 2.0
   - 109.0
-- &id020
-  section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+- section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
   section_type: linked_pdf
   source_line: DWT, 2015, SUNGDONG, SCRUBBER) at USD 57.5 m to undisclosed buyers.
   unit: usd
   values:
   - 2015.0
-  - 57.5
-- &id021
-  section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+  - 57500.0
+- section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
   section_type: linked_pdf
   source_line: COMITY (ABT 49K DWT, 2020, GSI NANSHA) have been reported sold to Greek
     interests for USD 39 m
@@ -223,16 +211,14 @@ numeric_observations:
   - 49.0
   - 2020.0
   - 39.0
-- &id022
-  section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+- section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
   section_type: linked_pdf
   source_line: WinGD 6X72
   unit: null
   values:
   - 6.0
-  - 2.0
-- &id023
-  section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+  - 72.0
+- section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
   section_type: linked_pdf
   source_line: BERGE MOLDOVEANU 211,067 2020 BOHAI BWTS FITTED SS 01/28 HIGH USD 74
     M KOREAN
@@ -243,42 +229,39 @@ numeric_observations:
   - 1.0
   - 28.0
   - 74.0
-- &id024
-  section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+- section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
   section_type: linked_pdf
   source_line: DD 10/26
   unit: null
   values:
   - 10.0
   - 26.0
-- &id025
-  section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+- section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
   section_type: linked_pdf
   source_line: 2019 COSCO HI
   unit: null
   values:
   - 2019.0
-- &id026
-  section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+- section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
   section_type: linked_pdf
   source_line: OCEAN JASMIN 63,500 B&W 5S60ME-C8.5 SS 06/29 USD 28.5 M U/D
   unit: usd
   values:
   - 63500.0
   - 5.0
-  - 5.0
+  - 60.0
+  - 8500.0
   - 6.0
   - 29.0
-- &id027
-  section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+  - 28500.0
+- section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
   section_type: linked_pdf
   source_line: ZHOUSHAN BWTS FITTED DD 03/27
   unit: null
   values:
   - 3.0
   - 27.0
-- &id028
-  section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+- section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
   section_type: linked_pdf
   source_line: TBC PRAISE 36,699 2012 HYUNDAI MIPO B&W 6S50ME-B8.2 SS 03/27 USD 14.4
     M GREEK
@@ -287,27 +270,27 @@ numeric_observations:
   - 36699.0
   - 2012.0
   - 6.0
-  - 2.0
+  - 50.0
+  - 8200.0
   - 3.0
   - 27.0
-- &id029
-  section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+  - 14400.0
+- section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
   section_type: linked_pdf
   source_line: BWTS FITTED DD 03/27
   unit: null
   values:
   - 3.0
   - 27.0
-- &id030
-  section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+- section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
   section_type: linked_pdf
   source_line: B&W 6G60ME-C9.2
   unit: null
   values:
   - 6.0
-  - 2.0
-- &id031
-  section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+  - 60.0
+  - 9200.0
+- section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
   section_type: linked_pdf
   source_line: STI KINGSWAY 109,999 2015 SUNGDONG BWTS FITTED SS 06/28 USD 57.5 M
     U/D
@@ -317,17 +300,15 @@ numeric_observations:
   - 2015.0
   - 6.0
   - 28.0
-  - 57.5
-- &id032
-  section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+  - 57500.0
+- section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
   section_type: linked_pdf
   source_line: DD 09/26
   unit: null
   values:
   - 9.0
   - 26.0
-- &id033
-  section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+- section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
   section_type: linked_pdf
   source_line: 49,999 2020 GSI NANSHA WinGD 6X52 SS 10/30 USD 39 M GREEK
   unit: usd
@@ -335,20 +316,18 @@ numeric_observations:
   - 49999.0
   - 2020.0
   - 6.0
-  - 2.0
+  - 52.0
   - 10.0
   - 30.0
   - 39.0
-- &id034
-  section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+- section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
   section_type: linked_pdf
   source_line: TRANQUILITY BWTS FITTED DD 10/28
   unit: null
   values:
   - 10.0
   - 28.0
-- &id035
-  section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+- section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
   section_type: linked_pdf
   source_line: MARITIME COMITY 49,999 2020 GSI NANSHA WinGD 6X52 SS 08/30 USD 39 M
     GREEK
@@ -357,28 +336,25 @@ numeric_observations:
   - 49999.0
   - 2020.0
   - 6.0
-  - 2.0
+  - 52.0
   - 8.0
   - 30.0
   - 39.0
-- &id036
-  section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+- section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
   section_type: linked_pdf
   source_line: BWTS FITTED DD 10/28
   unit: null
   values:
   - 10.0
   - 28.0
-- &id037
-  section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+- section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
   section_type: linked_pdf
   source_line: 284 Kifissias Avenue ("Clarksons") for general information purposes.
     The Information is drawn from Clarksons' database and other sources. Clarksons
   unit: null
   values:
   - 284.0
-- &id038
-  section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+- section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
   section_type: linked_pdf
   source_line: 152 32 Information extracted from the databases of other maritime data
     collection agencies may differ from the Information extracted
@@ -386,8 +362,7 @@ numeric_observations:
   values:
   - 152.0
   - 32.0
-- &id039
-  section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+- section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
   section_type: linked_pdf
   source_line: Direct +(30) 210 458 6700 the Information is not an endorsement of
     any commercial policies and/or any conclusions by Clarksons and its 'connected
@@ -397,8 +372,7 @@ numeric_observations:
   - 210.0
   - 458.0
   - 6700.0
-- &id040
-  section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+- section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
   section_type: linked_pdf
   source_line: Fax +(30) 210 458 6799
   unit: null
@@ -415,48 +389,349 @@ section_count: 2
 signals:
   numeric_observation_count: 40
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
+  - section: Main
+    section_type: null
+    source_line: This week, dry bulk activity was concentrated in the larger segments,
+      where c/o Berge Bulk sold their scrubber-fitted Newcastlemax BERGE MOLDOVEANU
+      (ABT 211K DWT, 2020, BOHAI, SCRUBBER), for a price in the region of USD 74 m
+      to Korean interests.
+    unit: usd
+    values:
+    - 211.0
+    - 2020.0
+    - 74.0
+  - section: Main
+    section_type: null
+    source_line: Furthermore, we are hearing of two Capesize units being sold this
+      week, the FRONTIER KOTOBUKI (174K DWT, 2011, NAMURA) which was inviting offers
+      yesterday, we understand that has been committed for USD 31 m, and another vintage
+      unit which is built in Japan 200
+    unit: usd
+    values:
+    - 174.0
+    - 2011.0
+    - 2005.0
+  - section: Main
+    section_type: null
+    source_line: In the geared segment, the Ultramax OCEAN JASMIN (ABT 63K DWT, 2019,
+      COSCO HI ZHOUSHAN) has been sold in the region of USD 28.5 m basis TC attached
+      until max June 2026.
+    unit: usd
+    values:
+    - 63.0
+    - 2019.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: Unconfirmed rumors suggest two Ultramax transactions being concluded,
+      including a 2012 Japanese built unit at a price in the low USD 19 m and a 2020
+      Chinese built vessel, said to be sold for xs USD 30 m.
+    unit: usd
+    values:
+    - 2012.0
+    - 2020.0
+  - section: Main
+    section_type: null
+    source_line: On the smaller segment, c/o Straits Orient Lines sold their Handysize
+      TBC PRAISE (ABT 36K DWT, 2012, HYUNDAI MIPO) for USD 14.4 m, while on the Chinese
+      built front, we understand that a 37K DWT, 2012 unit is being negotiated in
+      the levels of low/mid USD 11 m.
+    unit: usd
+    values:
+    - 36.0
+    - 2012.0
+    - 37.0
+    - 2012.0
+  - section: Main
+    section_type: null
+    source_line: On the LR segment, c/o Scorpio Tankers have sold their scrubber-fitted
+      LR2 STI KINGSWAY (ABT 109K DWT, 2015, SUNGDONG, SCRUBBER) at USD 57.5 m to undisclosed
+      buyers.
+    unit: usd
+    values:
+    - 109.0
+    - 2015.0
+    - 57.5
+  - section: Main
+    section_type: null
+    source_line: Meanwhile, on the MRs, the two zinc-coated eco-MR tankers MARITIME
+      TRANQUILITY & MARITIME COMITY (ABT 49K DWT, 2020, GSI NANSHA) have been reported
+      sold to Greek interests for USD 39 m each.
+    unit: usd
+    values:
+    - 49.0
+    - 2020.0
+    - 39.0
+  - section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+    section_type: linked_pdf
+    source_line: scrubber-fitted Newcastlemax BERGE MOLDOVEANU (ABT 211K DWT, 2020,
+      BOHAI, SCRUBBER), for a
+    unit: null
+    values:
+    - 211.0
+    - 2020.0
+  - section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+    section_type: linked_pdf
+    source_line: price in the region of USD 74 m to Korean interests.
+    unit: usd
+    values:
+    - 74.0
+  - section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+    section_type: linked_pdf
+    source_line: Furthermore, we are hearing of two Capesize units being sold this
+      week, the FRONTIER KOTOBUKI (174K
+    unit: null
+    values:
+    - 174.0
+  - section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+    section_type: linked_pdf
+    source_line: DWT, 2011, NAMURA) which was inviting offers yesterday, we understand
+      that has been committed for
+    unit: null
+    values:
+    - 2011.0
+  - section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+    section_type: linked_pdf
+    source_line: USD 31 m, and another vintage unit which is built in Japan 2005 at
+      a price of USD 20.5 m.
+    unit: usd
+    values:
+    - 2005.0
+  - section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+    section_type: linked_pdf
+    source_line: In the geared segment, the Ultramax OCEAN JASMIN (ABT 63K DWT, 2019,
+      COSCO HI ZHOUSHAN) has
+    unit: null
+    values:
+    - 63.0
+    - 2019.0
+  - section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+    section_type: linked_pdf
+    source_line: been sold in the region of USD 28.5 m basis TC attached until max
+      June 2026.
+    unit: usd
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+    section_type: linked_pdf
+    source_line: Unconfirmed rumors suggest two Ultramax transactions being concluded,
+      including a 2012 Japanese
+    unit: null
+    values:
+    - 2012.0
+  - section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+    section_type: linked_pdf
+    source_line: built unit at a price in the low USD 19 m and a 2020 Chinese built
+      vessel, said to be sold for xs USD 30 m.
+    unit: usd
+    values:
+    - 2020.0
+  - section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+    section_type: linked_pdf
+    source_line: On the smaller segment, c/o Straits Orient Lines sold their Handysize
+      TBC PRAISE (ABT 36K DWT, 2012,
+    unit: null
+    values:
+    - 36.0
+    - 2012.0
+  - section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+    section_type: linked_pdf
+    source_line: HYUNDAI MIPO) for USD 14.4 m, while on the Chinese built front, we
+      understand that a 37K DWT, 2012
+    unit: usd
+    values:
+    - 37.0
+    - 2012.0
+  - section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+    section_type: linked_pdf
+    source_line: On the LR segment, c/o Scorpio Tankers have sold their scrubber-fitted
+      LR2 STI KINGSWAY (ABT 109K
+    unit: null
+    values:
+    - 109.0
+  - section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+    section_type: linked_pdf
+    source_line: DWT, 2015, SUNGDONG, SCRUBBER) at USD 57.5 m to undisclosed buyers.
+    unit: usd
+    values:
+    - 2015.0
+    - 57.5
+  - section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+    section_type: linked_pdf
+    source_line: COMITY (ABT 49K DWT, 2020, GSI NANSHA) have been reported sold to
+      Greek interests for USD 39 m
+    unit: usd
+    values:
+    - 49.0
+    - 2020.0
+    - 39.0
+  - section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+    section_type: linked_pdf
+    source_line: WinGD 6X72
+    unit: null
+    values:
+    - 6.0
+    - 2.0
+  - section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+    section_type: linked_pdf
+    source_line: BERGE MOLDOVEANU 211,067 2020 BOHAI BWTS FITTED SS 01/28 HIGH USD
+      74 M KOREAN
+    unit: usd
+    values:
+    - 211067.0
+    - 2020.0
+    - 1.0
+    - 28.0
+    - 74.0
+  - section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+    section_type: linked_pdf
+    source_line: DD 10/26
+    unit: null
+    values:
+    - 10.0
+    - 26.0
+  - section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+    section_type: linked_pdf
+    source_line: 2019 COSCO HI
+    unit: null
+    values:
+    - 2019.0
+  - section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+    section_type: linked_pdf
+    source_line: OCEAN JASMIN 63,500 B&W 5S60ME-C8.5 SS 06/29 USD 28.5 M U/D
+    unit: usd
+    values:
+    - 63500.0
+    - 5.0
+    - 5.0
+    - 6.0
+    - 29.0
+  - section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+    section_type: linked_pdf
+    source_line: ZHOUSHAN BWTS FITTED DD 03/27
+    unit: null
+    values:
+    - 3.0
+    - 27.0
+  - section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+    section_type: linked_pdf
+    source_line: TBC PRAISE 36,699 2012 HYUNDAI MIPO B&W 6S50ME-B8.2 SS 03/27 USD
+      14.4 M GREEK
+    unit: usd
+    values:
+    - 36699.0
+    - 2012.0
+    - 6.0
+    - 2.0
+    - 3.0
+    - 27.0
+  - section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+    section_type: linked_pdf
+    source_line: BWTS FITTED DD 03/27
+    unit: null
+    values:
+    - 3.0
+    - 27.0
+  - section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+    section_type: linked_pdf
+    source_line: B&W 6G60ME-C9.2
+    unit: null
+    values:
+    - 6.0
+    - 2.0
+  - section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+    section_type: linked_pdf
+    source_line: STI KINGSWAY 109,999 2015 SUNGDONG BWTS FITTED SS 06/28 USD 57.5
+      M U/D
+    unit: usd
+    values:
+    - 109999.0
+    - 2015.0
+    - 6.0
+    - 28.0
+    - 57.5
+  - section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+    section_type: linked_pdf
+    source_line: DD 09/26
+    unit: null
+    values:
+    - 9.0
+    - 26.0
+  - section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+    section_type: linked_pdf
+    source_line: 49,999 2020 GSI NANSHA WinGD 6X52 SS 10/30 USD 39 M GREEK
+    unit: usd
+    values:
+    - 49999.0
+    - 2020.0
+    - 6.0
+    - 2.0
+    - 10.0
+    - 30.0
+    - 39.0
+  - section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+    section_type: linked_pdf
+    source_line: TRANQUILITY BWTS FITTED DD 10/28
+    unit: null
+    values:
+    - 10.0
+    - 28.0
+  - section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+    section_type: linked_pdf
+    source_line: MARITIME COMITY 49,999 2020 GSI NANSHA WinGD 6X52 SS 08/30 USD 39
+      M GREEK
+    unit: usd
+    values:
+    - 49999.0
+    - 2020.0
+    - 6.0
+    - 2.0
+    - 8.0
+    - 30.0
+    - 39.0
+  - section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+    section_type: linked_pdf
+    source_line: BWTS FITTED DD 10/28
+    unit: null
+    values:
+    - 10.0
+    - 28.0
+  - section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+    section_type: linked_pdf
+    source_line: 284 Kifissias Avenue ("Clarksons") for general information purposes.
+      The Information is drawn from Clarksons' database and other sources. Clarksons
+    unit: null
+    values:
+    - 284.0
+  - section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+    section_type: linked_pdf
+    source_line: 152 32 Information extracted from the databases of other maritime
+      data collection agencies may differ from the Information extracted
+    unit: null
+    values:
+    - 152.0
+    - 32.0
+  - section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+    section_type: linked_pdf
+    source_line: Direct +(30) 210 458 6700 the Information is not an endorsement of
+      any commercial policies and/or any conclusions by Clarksons and its 'connected
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6700.0
+  - section: 'Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf'
+    section_type: linked_pdf
+    source_line: Fax +(30) 210 458 6799
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6799.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2026/2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117.html
+source_path: corpus/02-hellenic/shipbuilding/2026/2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117.html
 source_stem: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117
 source_url: https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-117
 summary: 'Main
@@ -512,7 +787,7 @@ Meanwhile, on the MRs, the two zinc-coated eco-MR tankers MARITIME TRANQUILITY &
 Source: Clarkson Platou (Hellas) ltd
 
 ## Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf
-Source asset: reports/hellenic/shipbuilding/pdfs/2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf
+Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf
 
 [Page 1]
 Clarkson Hellas Ltd.

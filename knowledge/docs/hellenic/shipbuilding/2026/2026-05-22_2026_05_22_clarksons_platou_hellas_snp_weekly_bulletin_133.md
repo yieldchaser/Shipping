@@ -4,6 +4,7 @@ commodities: []
 date: '2026-05-22'
 doc_id: hellenic_shipbuilding_2026-05-22_2026_05_22_clarksons_platou_hellas_snp_weekly_bulletin_133
 document_type: shipbuilding_update
+is_error_page: false
 key_entities: []
 keywords:
 - capesize
@@ -26,8 +27,7 @@ linked_assets_skipped: 1
 market_tone: neutral
 numeric_observation_count: 6
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: We have recorded several sales across dry segments, with a particular
     focus on about 15-20-year-old larger bulk carrier tonnage. Across the space, a
@@ -39,8 +39,7 @@ numeric_observations:
   - -20.0
   - 2011.0
   - 10.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Tankers values have remained very firm, despite a slight softening
     in rates compared to previous weeks. Tanker demand remains present but selective,
@@ -49,8 +48,8 @@ numeric_observations:
   unit: usd
   values:
   - 2012.0
-- &id003
-  section: Main
+  - 2.0
+- section: Main
   section_type: null
   source_line: On the Capesize front, the CHIN SHAN (ABT 176K DWT, 2004, CSBC) was
     sold for USD 20.3m to undisclosed interests.
@@ -58,8 +57,8 @@ numeric_observations:
   values:
   - 176.0
   - 2004.0
-- &id004
-  section: Main
+  - 20300.0
+- section: Main
   section_type: null
   source_line: In the Post-Panamax segment, the modern LOWLANDS TEAL (ABT 95K DWT,
     2020, OSHIMA) was sold at USD 36.5m, while the three years older sister vessel
@@ -69,11 +68,10 @@ numeric_observations:
   values:
   - 95.0
   - 2020.0
-  - 36.5
+  - 36500.0
   - 94.0
   - 2017.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: Further activity was recorded in the Kamsarmax sector, where the eco
     NORD POLARIS (ABT 82K DWT, 2016, TSUNEISHI CEBU) achieved low USD 28m. The scrubber-fitted
@@ -87,10 +85,11 @@ numeric_observations:
   - 2006.0
   - 84.0
   - 2008.0
+  - 14700.0
   - 82.0
   - 2007.0
-- &id006
-  section: Main
+  - 13500.0
+- section: Main
   section_type: null
   source_line: Lastly, on the Panamax side, the PANSTELLAR (ABT 77K DWT, 2003, IMABARI)
     was sold at excess USD 10m.
@@ -106,14 +105,74 @@ section_count: 1
 signals:
   numeric_observation_count: 6
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
+  - section: Main
+    section_type: null
+    source_line: We have recorded several sales across dry segments, with a particular
+      focus on about 15-20-year-old larger bulk carrier tonnage. Across the space,
+      a significant number of vessels are currently receiving offers with deadlines
+      extending into next week. One of th
+    unit: null
+    values:
+    - 15.0
+    - -20.0
+    - 2011.0
+    - 10.0
+  - section: Main
+    section_type: null
+    source_line: Tankers values have remained very firm, despite a slight softening
+      in rates compared to previous weeks. Tanker demand remains present but selective,
+      while promptly available ECO-type wet tonnage remains scarce. Much attention
+      was dawn to a 2012 Chinese-built M
+    unit: usd
+    values:
+    - 2012.0
+  - section: Main
+    section_type: null
+    source_line: On the Capesize front, the CHIN SHAN (ABT 176K DWT, 2004, CSBC) was
+      sold for USD 20.3m to undisclosed interests.
+    unit: usd
+    values:
+    - 176.0
+    - 2004.0
+  - section: Main
+    section_type: null
+    source_line: In the Post-Panamax segment, the modern LOWLANDS TEAL (ABT 95K DWT,
+      2020, OSHIMA) was sold at USD 36.5m, while the three years older sister vessel
+      LOWLANDS DAWN (ABT 94K DWT, 2017, OSHIMA) is understood committed at excess
+      USD 31m.
+    unit: usd
+    values:
+    - 95.0
+    - 2020.0
+    - 36.5
+    - 94.0
+    - 2017.0
+  - section: Main
+    section_type: null
+    source_line: Further activity was recorded in the Kamsarmax sector, where the
+      eco NORD POLARIS (ABT 82K DWT, 2016, TSUNEISHI CEBU) achieved low USD 28m. The
+      scrubber-fitted XENIA (ABT 87K DWT, 2006, I.H.I. YOKOHAMA, SCRUBBER) was sold
+      for USD 13m, while the PEDHOULAS COMMA
+    unit: usd
+    values:
+    - 82.0
+    - 2016.0
+    - 87.0
+    - 2006.0
+    - 84.0
+    - 2008.0
+    - 82.0
+    - 2007.0
+  - section: Main
+    section_type: null
+    source_line: Lastly, on the Panamax side, the PANSTELLAR (ABT 77K DWT, 2003, IMABARI)
+      was sold at excess USD 10m.
+    unit: usd
+    values:
+    - 77.0
+    - 2003.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2026/2026-05-22_clarksons-platou-hellas-snp-weekly-bulletin-133.html
+source_path: corpus/02-hellenic/shipbuilding/2026/2026-05-22_clarksons-platou-hellas-snp-weekly-bulletin-133.html
 source_stem: 2026-05-22_clarksons-platou-hellas-snp-weekly-bulletin-133
 source_url: https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-133
 summary: 'Main

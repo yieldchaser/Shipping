@@ -6,6 +6,7 @@ commodities:
 date: '2026-07-17'
 doc_id: hellenic_shipbuilding_2026-07-17_2026_07_17_clarksons_hellas_snp_weekly
 document_type: shipbuilding_update
+is_error_page: false
 key_entities:
 - China
 keywords:
@@ -29,8 +30,7 @@ linked_assets_skipped: 1
 market_tone: neutral
 numeric_observation_count: 6
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Nearing the end of the second week after the interim peace deal between
     Iran and United States began to break down, and amid renewed attackson vessels
@@ -39,8 +39,7 @@ numeric_observations:
   unit: pct
   values:
   - 95.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: This week saw healthy ordering activity spread across multiple shipping
     segments, including Suezmax tankers, MR tankers, LNG carriers, and VLGCs. Meanwhile,
@@ -51,8 +50,7 @@ numeric_observations:
   - 2.0
   - 4.0
   - 5.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: 'In the secondhand market, the dry bulk sector once again accounted
     for the majority of transaction activity this week, with prominent demand observed
@@ -68,8 +66,7 @@ numeric_observations:
   - 2016.0
   - 4.0
   - 30.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: In the Capesize sector this week, the HEROIC (ABT 182,060 DWT, 2010,
     ODENSE LINDO) was concluded at USD 32.8m, to European interests.
@@ -78,8 +75,7 @@ numeric_observations:
   - 182060.0
   - 2010.0
   - 32800.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: Meanwhile, the eco Ultramax BLUE AKIHABARA (ABT 61,630 DWT, 2014, NANTONG
     COSCO KHI (NACKS), CR:4X30T, Electronic M/E) after receiving offers in early July,
@@ -91,8 +87,7 @@ numeric_observations:
   - 2014.0
   - 4.0
   - 30.0
-- &id006
-  section: Main
+- section: Main
   section_type: null
   source_line: Elsewhere, in the Supramax sector, the IVS CRIMSON CREEK (ABT 57,945
     DWT, 2014, SK TOYOHASHI SB, CR:4X30.5T, Electronic M/E) also invited offers this
@@ -113,14 +108,77 @@ section_count: 1
 signals:
   numeric_observation_count: 6
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
+  - section: Main
+    section_type: null
+    source_line: Nearing the end of the second week after the interim peace deal between
+      Iran and United States began to break down, and amid renewed attackson vessels
+      in the MEG, we've now reached the lowest daily total tonnage transit number
+      through the SoH at 0.2m GT on Mon
+    unit: pct
+    values:
+    - 95.0
+  - section: Main
+    section_type: null
+    source_line: This week saw healthy ordering activity spread across multiple shipping
+      segments, including Suezmax tankers, MR tankers, LNG carriers, and VLGCs. Meanwhile,
+      benchmark newbuild prices in the tanker market have continued climbing on the
+      back of robust demand for
+    unit: pct
+    values:
+    - 2.0
+    - 4.0
+    - 5.0
+  - section: Main
+    section_type: null
+    source_line: 'In the secondhand market, the dry bulk sector once again accounted
+      for the majority of transaction activity this week, with prominent demand observed
+      for geared tonnage ranging from larger Handysize up to Ultramax bulk carriers.
+      For comparison purposes in ECO '
+    unit: usd
+    values:
+    - 61630.0
+    - 2014.0
+    - 4.0
+    - 30.0
+    - 63562.0
+    - 2016.0
+    - 4.0
+    - 30.0
+  - section: Main
+    section_type: null
+    source_line: In the Capesize sector this week, the HEROIC (ABT 182,060 DWT, 2010,
+      ODENSE LINDO) was concluded at USD 32.8m, to European interests.
+    unit: usd
+    values:
+    - 182060.0
+    - 2010.0
+    - 32800.0
+  - section: Main
+    section_type: null
+    source_line: Meanwhile, the eco Ultramax BLUE AKIHABARA (ABT 61,630 DWT, 2014,
+      NANTONG COSCO KHI (NACKS), CR:4X30T, Electronic M/E) after receiving offers
+      in early July, has now been concluded at excess USD 25m, with Greek buyers reported
+      behind the acquisition.
+    unit: usd
+    values:
+    - 61630.0
+    - 2014.0
+    - 4.0
+    - 30.0
+  - section: Main
+    section_type: null
+    source_line: Elsewhere, in the Supramax sector, the IVS CRIMSON CREEK (ABT 57,945
+      DWT, 2014, SK TOYOHASHI SB, CR:4X30.5T, Electronic M/E) also invited offers
+      this week and we understand has seen excess USD 23.5 million.
+    unit: usd
+    values:
+    - 57945.0
+    - 2014.0
+    - 4.0
+    - 30500.0
+    - 23500.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2026/2026-07-17_clarksons-hellas-snp-weekly.html
+source_path: corpus/02-hellenic/shipbuilding/2026/2026-07-17_clarksons-hellas-snp-weekly.html
 source_stem: 2026-07-17_clarksons-hellas-snp-weekly
 source_url: https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly
 summary: 'Main

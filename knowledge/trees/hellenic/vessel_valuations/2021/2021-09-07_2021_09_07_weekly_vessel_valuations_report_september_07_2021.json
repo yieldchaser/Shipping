@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1334,
-  "source_path": "reports/hellenic/vessel_valuations/2021/2021-09-07_weekly-vessel-valuations-report-september-07-2021.html",
+  "token_count": 1336,
+  "source_path": "corpus/02-hellenic/vessel_valuations/2021/2021-09-07_weekly-vessel-valuations-report-september-07-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-september-07-2021",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2021-09-07_weekly-vessel-valuations-report-september-07-2021_img1_20210907_ce4bbe52597a.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/vessel_valuations/2021/assets/2021-09-07_weekly-vessel-valuations-report-september-07-2021_img1_20210907_ce4bbe52597a.jpg\n\nLinked image asset: 2021-09-07_weekly-vessel-valuations-report-september-07-2021_img1_20210907_ce4bbe52597a.jpg\n\nImage metadata: JPEG 678x281 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\n© VesselsValue\" --<§ Aaa\n07 September 2021 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge vice Suez Afra LRI MR Cape Pmax Supra Handy Pea Pmax Handy = Fmax\na +0.6% -0.1% +1.1% -1.0% +0.9% +0.2% +1.1% +0.9% +1.9% +1.7% +2.6% +1.4% +1.7%\n320K 160K 110K 75K SOK 180K 82K 60K 37K 7000 4250 1750 1100\n5 40.3% -0.1% +0.5% -1.0% +0.4% +0.5% +1.3% +1.7% +1.0% +1.7% +2.6% +1.5% +1.3%\n320K 160K 110K = 75K 50K 180K 80K 60K 30K 7000 4250 1750 ~=--:1100\n-\" +0.6% -0.1% -0.9% -1.0% -0.8% -0.2% +1.2% +1.8% +2.0% +1.7% +2.6% +1.7% +1.5%\n310K 160K 110K = 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100\nge 40.9% -0.1% -1.7% -1.0% -1.1% -0.3% +1.1% +1.1% 43.0% +1.7% +2.6% +1.8% +2.1%\n310K 160K 110K 70K 45K 180K 75K 55K 30K 7000 4250 1750 1100\n0 0.0% 0.0% 0.0% 0.0% -0.4% 0.0% +40.8% -0.4% 43.2% +1.7% +2.6% +1.9% +2.9%\n300K 155K 105K 70K 45K 175K 75K 50K ",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2021/assets/2021-09-07_weekly-vessel-valuations-report-september-07-2021_img1_20210907_ce4bbe52597a.jpg\n\nLinked image asset: 2021-09-07_weekly-vessel-valuations-report-september-07-2021_img1_20210907_ce4bbe52597a.jpg\n\nImage metadata: JPEG 678x281 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\n© VesselsValue\" --<§ Aaa\n07 September 2021 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge vice Suez Afra LRI MR Cape Pmax Supra Handy Pea Pmax Handy = Fmax\na +0.6% -0.1% +1.1% -1.0% +0.9% +0.2% +1.1% +0.9% +1.9% +1.7% +2.6% +1.4% +1.7%\n320K 160K 110K 75K SOK 180K 82K 60K 37K 7000 4250 1750 1100\n5 40.3% -0.1% +0.5% -1.0% +0.4% +0.5% +1.3% +1.7% +1.0% +1.7% +2.6% +1.5% +1.3%\n320K 160K 110K = 75K 50K 180K 80K 60K 30K 7000 4250 1750 ~=--:1100\n-\" +0.6% -0.1% -0.9% -1.0% -0.8% -0.2% +1.2% +1.8% +2.0% +1.7% +2.6% +1.7% +1.5%\n310K 160K 110K = 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100\nge 40.9% -0.1% -1.7% -1.0% -1.1% -0.3% +1.1% +1.1% 43.0% +1.7% +2.6% +1.8% +2.1%\n310K 160K 110K 70K 45K 180K 75K 55K 30K 7000 4250 1750 1100\n0 0.0% 0.0% 0.0% 0.0% -0.4% 0.0% +40.8% -0.4% 43.2% +1.7% +2.6% +1.9% +2.9%\n300K 155K 105K 70K 45K 175K 75K 50",
       "keywords": [
         "capesize",
         "supramax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 801,
+      "token_count": 803,
       "section_type": "linked_image_asset",
       "children": []
     }

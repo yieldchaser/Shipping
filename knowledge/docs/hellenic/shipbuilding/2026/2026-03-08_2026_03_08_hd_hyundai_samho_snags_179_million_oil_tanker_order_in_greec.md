@@ -5,6 +5,7 @@ commodities:
 date: '2026-03-08'
 doc_id: hellenic_shipbuilding_2026-03-08_2026_03_08_hd_hyundai_samho_snags_179_million_oil_tanker_order_in_greec
 document_type: shipbuilding_update
+is_error_page: false
 key_entities: []
 keywords:
 - crude_oil
@@ -27,8 +28,7 @@ linked_assets_skipped: 1
 market_tone: neutral
 numeric_observation_count: 9
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: in Weekly Shipbuilding Reports 08/03/2026
   unit: null
@@ -36,8 +36,7 @@ numeric_observations:
   - 8.0
   - 3.0
   - 2026.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Image reference: 2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg'
   unit: null
@@ -46,8 +45,8 @@ numeric_observations:
   - -3.0
   - -8.0
   - 179.0
-- &id003
-  section: Main
+  - 1.0
+- section: Main
   section_type: null
   source_line: HD Hyundai Samho said Friday it has secured a 263.2 billion won ($179
     milion) order to build two oil tankers for a shipping company in Greece.
@@ -55,8 +54,7 @@ numeric_observations:
   values:
   - 263.2
   - 179.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: The deal covers two 157,000-deadweight-ton tankers, with deliveries
     scheduled by May 2029, the company said in a regulatory filing. The name of the
@@ -65,17 +63,15 @@ numeric_observations:
   values:
   - 157000.0
   - 2029.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: 'HD KSOE aims to secure $23.31 billion worth of orders this year, up
     from $18.16 billion last year. Source: Korea JoongAng Daily'
   unit: usd
   values:
-  - 23.31
-  - 18.16
-- &id006
-  section: 'Linked asset: 2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg'
+  - 23310.0
+  - 18160.0
+- section: 'Linked asset: 2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg'
   unit: null
@@ -84,23 +80,22 @@ numeric_observations:
   - -3.0
   - -8.0
   - 179.0
-- &id007
-  section: 'Linked asset: 2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg'
+  - 1.0
+- section: 'Linked asset: 2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 120x100 mode=RGB'
   unit: null
   values:
   - 120.0
-- &id008
-  section: 'Linked asset: 2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg'
+  - 100.0
+- section: 'Linked asset: 2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (150, 150)'
   unit: null
   values:
   - 150.0
   - 150.0
-- &id009
-  section: 'Linked asset: 2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg'
+- section: 'Linked asset: 2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg'
   section_type: linked_image_asset
   source_line: '[OCR skipped for small image (< 90000 pixels).]'
   unit: null
@@ -114,17 +109,78 @@ section_count: 2
 signals:
   numeric_observation_count: 9
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
+  - section: Main
+    section_type: null
+    source_line: in Weekly Shipbuilding Reports 08/03/2026
+    unit: null
+    values:
+    - 8.0
+    - 3.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: 'Image reference: 2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg'
+    unit: null
+    values:
+    - 2026.0
+    - -3.0
+    - -8.0
+    - 179.0
+  - section: Main
+    section_type: null
+    source_line: HD Hyundai Samho said Friday it has secured a 263.2 billion won ($179
+      milion) order to build two oil tankers for a shipping company in Greece.
+    unit: usd
+    values:
+    - 263.2
+    - 179.0
+  - section: Main
+    section_type: null
+    source_line: The deal covers two 157,000-deadweight-ton tankers, with deliveries
+      scheduled by May 2029, the company said in a regulatory filing. The name of
+      the Greece-based client was not disclosed.
+    unit: null
+    values:
+    - 157000.0
+    - 2029.0
+  - section: Main
+    section_type: null
+    source_line: 'HD KSOE aims to secure $23.31 billion worth of orders this year,
+      up from $18.16 billion last year. Source: Korea JoongAng Daily'
+    unit: usd
+    values:
+    - 23.31
+    - 18.16
+  - section: 'Linked asset: 2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg'
+    unit: null
+    values:
+    - 2026.0
+    - -3.0
+    - -8.0
+    - 179.0
+  - section: 'Linked asset: 2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 120x100 mode=RGB'
+    unit: null
+    values:
+    - 120.0
+  - section: 'Linked asset: 2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (150, 150)'
+    unit: null
+    values:
+    - 150.0
+    - 150.0
+  - section: 'Linked asset: 2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg'
+    section_type: linked_image_asset
+    source_line: '[OCR skipped for small image (< 90000 pixels).]'
+    unit: null
+    values:
+    - 90000.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2026/2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec.html
+source_path: corpus/02-hellenic/shipbuilding/2026/2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec.html
 source_stem: 2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec
 source_url: https://www.hellenicshippingnews.com/hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greece
 summary: 'Main
@@ -174,7 +230,7 @@ HD KSOE is a sub-holding company of HD Hyundai, Korea's leading shipbuilding gro
 HD KSOE aims to secure $23.31 billion worth of orders this year, up from $18.16 billion last year. Source: Korea JoongAng Daily
 
 ## Linked asset: 2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg
-Source asset: reports/hellenic/shipbuilding/2026/2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg
+Source asset: corpus/02-hellenic/shipbuilding/2026/2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg
 
 Linked image asset: 2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg
 

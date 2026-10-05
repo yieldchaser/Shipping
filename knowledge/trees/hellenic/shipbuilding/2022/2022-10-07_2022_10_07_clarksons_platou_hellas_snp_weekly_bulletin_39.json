@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2025,
-  "source_path": "reports/hellenic/shipbuilding/2022/2022-10-07_clarksons-platou-hellas-snp-weekly-bulletin-39.html",
+  "token_count": 2027,
+  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-10-07_clarksons-platou-hellas-snp-weekly-bulletin-39.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-39",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-10-07_clarksons-platou-hellas-snp-weekly-bulletin-39_report-07-10-2022_263f08597aab.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-10-07_clarksons-platou-hellas-snp-weekly-bulletin-39_report-07-10-2022_263f08597aab.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 07 October 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN-B&W 6S50ME-C8.2\nOCEAN ADVENTURE 57,814 2015 TSUNEISHI SS 10/25\n4x30 T, BWTS Fitted LOW USD 23 M JAPANESE\nZOSEN DD 01/24\nMAN B. 6S46MC-C7.2\nPROMISE 2 32,401 2010 SAMHO SS 09/25 MIDDLE\n4x30 T, LOGS & BWTS Fitted HIGH USD 13 M\nDD 09/23 EASTERNS\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\nMAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-10-07_clarksons-platou-hellas-snp-weekly-bulletin-39_report-07-10-2022_263f08597aab.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 07 October 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN-B&W 6S50ME-C8.2\nOCEAN ADVENTURE 57,814 2015 TSUNEISHI SS 10/25\n4x30 T, BWTS Fitted LOW USD 23 M JAPANESE\nZOSEN DD 01/24\nMAN B. 6S46MC-C7.2\nPROMISE 2 32,401 2010 SAMHO SS 09/25 MIDDLE\n4x30 T, LOGS & BWTS Fitted HIGH USD 13 M\nDD 09/23 EASTERNS\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\nMAN B.",
       "keywords": [
         "suezmax",
         "aframax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1936,
+      "token_count": 1938,
       "section_type": "linked_pdf",
       "children": []
     }

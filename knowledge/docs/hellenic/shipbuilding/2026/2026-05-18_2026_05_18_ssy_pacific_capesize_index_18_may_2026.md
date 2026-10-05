@@ -4,6 +4,7 @@ commodities: []
 date: '2026-05-18'
 doc_id: hellenic_shipbuilding_2026-05-18_2026_05_18_ssy_pacific_capesize_index_18_may_2026
 document_type: shipbuilding_update
+is_error_page: false
 key_entities: []
 keywords:
 - capesize
@@ -22,8 +23,7 @@ linked_assets_skipped: 1
 market_tone: neutral
 numeric_observation_count: 1
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: SSY PACIFIC CAPESIZE INDEX 18 MAY 2026
   unit: null
@@ -39,9 +39,15 @@ section_count: 1
 signals:
   numeric_observation_count: 1
   numeric_observations:
-  - *id001
+  - section: Main
+    section_type: null
+    source_line: SSY PACIFIC CAPESIZE INDEX 18 MAY 2026
+    unit: null
+    values:
+    - 18.0
+    - 2026.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2026/2026-05-18_ssy-pacific-capesize-index-18-may-2026.html
+source_path: corpus/02-hellenic/shipbuilding/2026/2026-05-18_ssy-pacific-capesize-index-18-may-2026.html
 source_stem: 2026-05-18_ssy-pacific-capesize-index-18-may-2026
 source_url: https://www.hellenicshippingnews.com/ssy-pacific-capesize-index-18-may-2026
 summary: 'Main

@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1904,
-  "source_path": "reports/hellenic/shipbuilding/2023/2023-10-20_clarksons-platou-hellas-snp-weekly-bulletin-93.html",
+  "token_count": 1906,
+  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-10-20_clarksons-platou-hellas-snp-weekly-bulletin-93.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-93",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-10-20_clarksons-platou-hellas-snp-weekly-bulletin-93_report-20-10-2023-copy_28abcb67255a.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-10-20_clarksons-platou-hellas-snp-weekly-bulletin-93_report-20-10-2023-copy_28abcb67255a.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 20 Oct 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC6.2\nCYMONA IRON 176,505 2011 SWS BWTS fitted, SS 01/26 RGN USD 27 M MIDDLE EASTERN\nDD 08/25\nSCRUBBER fitted\nLADY MARITE 83,610 2009 SHIN KASADO MAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-10-20_clarksons-platou-hellas-snp-weekly-bulletin-93_report-20-10-2023-copy_28abcb67255a.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 20 Oct 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC6.2\nCYMONA IRON 176,505 2011 SWS BWTS fitted, SS 01/26 RGN USD 27 M MIDDLE EASTERN\nDD 08/25\nSCRUBBER fitted\nLADY MARITE 83,610 2009 SHIN KASADO MAN B.",
       "keywords": [
         "lng",
         "lpg",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1825,
+      "token_count": 1827,
       "section_type": "linked_pdf",
       "children": []
     }

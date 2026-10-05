@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1503,
-  "source_path": "reports/hellenic/shipbuilding/2023/2023-10-24_breakwave-dry-bulk-shipping-report-10-24-2023.html",
+  "token_count": 1505,
+  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-10-24_breakwave-dry-bulk-shipping-report-10-24-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-10-24-2023",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-10-24_breakwave-dry-bulk-shipping-report-10-24-2023_breakwavedryoctober242023report_cd1874a011cc.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-10-24_breakwave-dry-bulk-shipping-report-10-24-2023_breakwavedryoctober242023report_cd1874a011cc.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nOctober 24, 2023\nBreakwave Dry Futures Index: 1,396 Baltic Dry Index (spot): 2,017 Short-term Indicators:\n↓ 30D: -10.6% ↑ 30D: 26.6% Momentum: Negative\n↑ YTD: 37.5% ↑ YTD: 33.1% Sentiment: Negative\n↑ YOY: 3.5% ↑ YOY: 10.9% Fundamentals: Positive\nBi-Weekly Report\n• What goes up, must come down. - Capesize rates probably have peaked for the year.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-10-24_breakwave-dry-bulk-shipping-report-10-24-2023_breakwavedryoctober242023report_cd1874a011cc.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nOctober 24, 2023\nBreakwave Dry Futures Index: 1,396 Baltic Dry Index (spot): 2,017 Short-term Indicators:\n↓ 30D: -10.6% ↑ 30D: 26.6% Momentum: Negative\n↑ YTD: 37.5% ↑ YTD: 33.1% Sentiment: Negative\n↑ YOY: 3.5% ↑ YOY: 10.9% Fundamentals: Positive\nBi-Weekly Report\n• What goes up, must come down. - Capesize rates probably have peaked for the year.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1428,
+      "token_count": 1430,
       "section_type": "linked_pdf",
       "children": []
     }

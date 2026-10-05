@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1081,
-  "source_path": "reports/hellenic/vessel_valuations/2026/2026-07-09_weekly-vessel-valuations-report-july-07-2026.html",
+  "token_count": 1083,
+  "source_path": "corpus/02-hellenic/vessel_valuations/2026/2026-07-09_weekly-vessel-valuations-report-july-07-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-july-07-2026",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-07-09_weekly-vessel-valuations-report-july-07-2026_9720252_9c1210e8855d.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-07-09_weekly-vessel-valuations-report-july-07-2026_9720252_9c1210e8855d.jpg\n\nLinked image asset: 2026-07-09_weekly-vessel-valuations-report-july-07-2026_9720252_9c1210e8855d.jpg\n\nImage metadata: JPEG 600x279 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\n(D) VeesselsVal Ue\n(7 July 2026 VV Mini Matrix « Weekly Change\nToakers Batkers Containers\nYor vce see Ate un oe ome ro Saree Handy Pet Peas Pes Haney men\n\"ee an \"as on\" \" as oni as a \"I as om ort\n. a see us ™ cy re o ou me os ne 100\n\"a on an ns \" an am a \"aN \"aN as om crag\n‘ ae 10 1 oy ss oe \" \" oa owe os mm 10\n\"a a a on ws a oni a - \"I 0s, - \"me\n.",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2026/assets/2026-07-09_weekly-vessel-valuations-report-july-07-2026_9720252_9c1210e8855d.jpg\n\nLinked image asset: 2026-07-09_weekly-vessel-valuations-report-july-07-2026_9720252_9c1210e8855d.jpg\n\nImage metadata: JPEG 600x279 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\n(D) VeesselsVal Ue\n(7 July 2026 VV Mini Matrix « Weekly Change\nToakers Batkers Containers\nYor vce see Ate un oe ome ro Saree Handy Pet Peas Pes Haney men\n\"ee an \"as on\" \" as oni as a \"I as om ort\n. a see us ™ cy re o ou me os ne 100\n\"a on an ns \" an am a \"aN \"aN as om crag\n‘ ae 10 1 oy ss oe \" \" oa owe os mm 10\n\"a a a on ws a oni a - \"I 0s, - \"me\n.",
       "keywords": [
         "handysize",
         "container",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 395,
+      "token_count": 397,
       "section_type": "linked_image_asset",
       "children": []
     }

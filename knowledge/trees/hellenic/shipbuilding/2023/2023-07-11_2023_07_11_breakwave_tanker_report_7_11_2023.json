@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1480,
-  "source_path": "reports/hellenic/shipbuilding/2023/2023-07-11_breakwave-tanker-report-7-11-2023.html",
+  "token_count": 1482,
+  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-07-11_breakwave-tanker-report-7-11-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-7-11-2023",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-07-11_breakwave-tanker-report-7-11-2023_breakwavetankersjuly112023report_529a5f386bb2.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-07-11_breakwave-tanker-report-7-11-2023_breakwavetankersjuly112023report_529a5f386bb2.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nJuly 11, 2023\nBreakwave Tanker Futures Index: 1,179 VLCC Middle East-Asia Spot Rates: $12.7 Short-term Indicators:\n↑ 30D: 1.5% ↓ 30D: -3.2% Momentum: Neutral\n↓ YTD: -0.8% ↓ YTD: -28.5% Sentiment: Positive\n↑ YOY: 4.2% ↓ YOY: -10.5% Fundamentals: Positive\nBi-Weekly Report\n• VLCC rates weaken as vessel surplus takes a toll - The brief spike in VLCC spot rates around mid-June proved\nunstainable and, as widely expected, the first week of July pushed spot rates lower in the Middle East to China route\nalong with the West Africa to China route. Shipowners are now facing increased pressure as they anticipate further\nrate decreases due to an ever-weakening Atlantic market.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-07-11_breakwave-tanker-report-7-11-2023_breakwavetankersjuly112023report_529a5f386bb2.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nJuly 11, 2023\nBreakwave Tanker Futures Index: 1,179 VLCC Middle East-Asia Spot Rates: $12.7 Short-term Indicators:\n↑ 30D: 1.5% ↓ 30D: -3.2% Momentum: Neutral\n↓ YTD: -0.8% ↓ YTD: -28.5% Sentiment: Positive\n↑ YOY: 4.2% ↓ YOY: -10.5% Fundamentals: Positive\nBi-Weekly Report\n• VLCC rates weaken as vessel surplus takes a toll - The brief spike in VLCC spot rates around mid-June proved\nunstainable and, as widely expected, the first week of July pushed spot rates lower in the Middle East to China route\nalong with the West Africa to China route. Shipowners are now facing increased pressure as they anticipate further\nrate decreases due to an ever-weakening Atlantic market.",
       "keywords": [
         "vlcc",
         "suezmax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1397,
+      "token_count": 1399,
       "section_type": "linked_pdf",
       "children": []
     }

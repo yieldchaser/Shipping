@@ -5,6 +5,7 @@ commodities:
 date: '2026-06-19'
 doc_id: hellenic_shipbuilding_2026-06-19_2026_06_19_clarksons_platou_hellas_snp_weekly_bulletin_137
 document_type: shipbuilding_update
+is_error_page: false
 key_entities: []
 keywords:
 - panamax
@@ -25,10 +26,9 @@ linked_assets_ingested: 1
 linked_assets_mirrored: 1
 linked_assets_skipped: 0
 market_tone: constructive
-numeric_observation_count: 39
+numeric_observation_count: 40
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: In the Post-Panamax segment, Greek buyers emerged behind the scrubber-fitted
     CORNELIE OLDENDORFF (ABT 93K DWT, 2011, ZHEJIANG, SCRUBBER), which is understood
@@ -37,8 +37,7 @@ numeric_observations:
   values:
   - 93.0
   - 2011.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: On the Kamsarmax front, Japanese Owners concluded the sale of the MONT
     BLANC HAWK (ABT 82K DWT, 2017, IMABARI) after inviting offers earlier in the week,
@@ -47,8 +46,8 @@ numeric_observations:
   values:
   - 82.0
   - 2017.0
-- &id003
-  section: Main
+  - 32500.0
+- section: Main
   section_type: null
   source_line: The Supramax AFRICAN TERN (ABT 58K DWT, 2013, DALIAN COSCO) has been
     sold for high USD 19m, whilst the SANTA RITA (ABT 56K DWT, 2010, MITSUI) was acquired
@@ -59,8 +58,8 @@ numeric_observations:
   - 2013.0
   - 56.0
   - 2010.0
-- &id004
-  section: Main
+  - 17200.0
+- section: Main
   section_type: null
   source_line: 'In the Handysize sector, c/o Devbulk have acquired the SHINSUNG ACCORD
     (ABT 37K DWT, 2015, SAIKI) and the ASTRO PROPUS (ABT 38K DWT, 2014, IMABARI) at
@@ -74,8 +73,8 @@ numeric_observations:
   - 2014.0
   - 29.0
   - 2009.0
-- &id005
-  section: Main
+  - 10500.0
+- section: Main
   section_type: null
   source_line: On the Aframax segment, the SAMOS (ABT 105K DWT, 2010, SUMITOMO) achieved
     a price around region USD mid-40m's basis Q3 delivery.
@@ -84,8 +83,8 @@ numeric_observations:
   - 105.0
   - 2010.0
   - 40.0
-- &id006
-  section: Main
+  - 3.0
+- section: Main
   section_type: null
   source_line: Elsewhere, the MR SANDPIPER PACIFIC (ABT 51K DWT, 2013, SUNGDONG) was
     sold for USD 32m.
@@ -93,8 +92,7 @@ numeric_observations:
   values:
   - 51.0
   - 2013.0
-- &id007
-  section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+- section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
   section_type: linked_pdf
   source_line: OLDENDORFF (ABT 93K DWT, 2011, ZHEJIANG, SCRUBBER), which is understood
     sold in the high USD 15m
@@ -102,24 +100,22 @@ numeric_observations:
   values:
   - 93.0
   - 2011.0
-- &id008
-  section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+- section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
   section_type: linked_pdf
   source_line: On the Kamsarmax front, Japanese Owners concluded the sale of the MONT
     BLANC HAWK (ABT 82K
   unit: null
   values:
   - 82.0
-- &id009
-  section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+- section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
   section_type: linked_pdf
   source_line: DWT, 2017, IMABARI) after inviting offers earlier in the week, achieving
     a price in the region of USD 32.5m.
   unit: usd
   values:
   - 2017.0
-- &id010
-  section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+  - 32500.0
+- section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
   section_type: linked_pdf
   source_line: The Supramax AFRICAN TERN (ABT 58K DWT, 2013, DALIAN COSCO) has been
     sold for high USD 19m,
@@ -127,8 +123,7 @@ numeric_observations:
   values:
   - 58.0
   - 2013.0
-- &id011
-  section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+- section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
   section_type: linked_pdf
   source_line: whilst the SANTA RITA (ABT 56K DWT, 2010, MITSUI) was acquired by Greek
     interests for USD 17.2m.
@@ -136,8 +131,8 @@ numeric_observations:
   values:
   - 56.0
   - 2010.0
-- &id012
-  section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+  - 17200.0
+- section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
   section_type: linked_pdf
   source_line: In the Handysize sector, c/o Devbulk have acquired the SHINSUNG ACCORD
     (ABT 37K DWT, 2015, SAIKI)
@@ -145,16 +140,14 @@ numeric_observations:
   values:
   - 37.0
   - 2015.0
-- &id013
-  section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+- section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
   section_type: linked_pdf
   source_line: and the ASTRO PROPUS (ABT 38K DWT, 2014, IMABARI) at USD 19m each.
   unit: usd
   values:
   - 38.0
   - 2014.0
-- &id014
-  section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+- section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
   section_type: linked_pdf
   source_line: Separately, the DEVBULK IMABARI (ABT 29K DWT, 2009, IMABARI, OHBS/GC)
     has been sold to Turkish
@@ -162,8 +155,13 @@ numeric_observations:
   values:
   - 29.0
   - 2009.0
-- &id015
-  section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+- section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+  section_type: linked_pdf
+  source_line: buyers for USD 10.5m.
+  unit: usd
+  values:
+  - 10500.0
+- section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
   section_type: linked_pdf
   source_line: On the Aframax segment, the SAMOS (ABT 105K DWT, 2010, SUMITOMO) achieved
     a price around region
@@ -171,15 +169,14 @@ numeric_observations:
   values:
   - 105.0
   - 2010.0
-- &id016
-  section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+- section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
   section_type: linked_pdf
   source_line: USD mid-40m's basis Q3 delivery.
   unit: usd
   values:
   - 40.0
-- &id017
-  section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+  - 3.0
+- section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
   section_type: linked_pdf
   source_line: Elsewhere, the MR SANDPIPER PACIFIC (ABT 51K DWT, 2013, SUNGDONG) was
     sold for USD 32m.
@@ -187,34 +184,31 @@ numeric_observations:
   values:
   - 51.0
   - 2013.0
-- &id018
-  section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+- section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
   section_type: linked_pdf
   source_line: B&W 6S60MC6.2 SS 03/30
   unit: null
   values:
   - 6.0
-  - 2.0
+  - 60.0
+  - 6200.0
   - 3.0
   - 30.0
-- &id019
-  section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+- section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
   section_type: linked_pdf
   source_line: 93,246 2011 ZHEJIANG HIGH USD 15 M GREEK
   unit: usd
   values:
   - 93246.0
   - 2011.0
-- &id020
-  section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+- section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
   section_type: linked_pdf
   source_line: OLDENDORFF SCRUBBER DD 03/27
   unit: null
   values:
   - 3.0
   - 27.0
-- &id021
-  section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+- section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
   section_type: linked_pdf
   source_line: MONT BLANC HAWK 81,628 2017 IMABARI B&W 6S60ME-C8.2 SS 07/27 RGN USD
     32.5 M U/D
@@ -223,19 +217,19 @@ numeric_observations:
   - 81628.0
   - 2017.0
   - 6.0
-  - 2.0
+  - 60.0
+  - 8200.0
   - 7.0
   - 27.0
-- &id022
-  section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+  - 32500.0
+- section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
   section_type: linked_pdf
   source_line: DD 07/27
   unit: null
   values:
   - 7.0
   - 27.0
-- &id023
-  section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+- section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
   section_type: linked_pdf
   source_line: AFRICAN TERN 58,342 2013 DALIAN B&W 6S50MC-C8.2 SS 06/28 HIGH USD 19
     M U/D
@@ -244,19 +238,18 @@ numeric_observations:
   - 58342.0
   - 2013.0
   - 6.0
-  - 2.0
+  - 50.0
+  - 8200.0
   - 6.0
   - 28.0
-- &id024
-  section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+- section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
   section_type: linked_pdf
   source_line: COSCO DD 06/28
   unit: null
   values:
   - 6.0
   - 28.0
-- &id025
-  section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+- section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
   section_type: linked_pdf
   source_line: SANTA RITA 55,677 2010 MITSUI B&W 6S50MC-C8.2 SS 11/30 USD 17.2 M GREEK
   unit: usd
@@ -264,19 +257,19 @@ numeric_observations:
   - 55677.0
   - 2010.0
   - 6.0
-  - 2.0
+  - 50.0
+  - 8200.0
   - 11.0
   - 30.0
-- &id026
-  section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+  - 17200.0
+- section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
   section_type: linked_pdf
   source_line: DD 03/29
   unit: null
   values:
   - 3.0
   - 29.0
-- &id027
-  section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+- section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
   section_type: linked_pdf
   source_line: SHINSUNG ACCORD 37,063 2015 SAIKI B&W 6S46MC-C8.2 SS 02/30 USD 19 M
     C/O DEVBULK
@@ -285,20 +278,18 @@ numeric_observations:
   - 37063.0
   - 2015.0
   - 6.0
-  - 6.0
-  - 2.0
+  - 46.0
+  - 8200.0
   - 2.0
   - 30.0
-- &id028
-  section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+- section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
   section_type: linked_pdf
   source_line: DD 12/27
   unit: null
   values:
   - 12.0
   - 27.0
-- &id029
-  section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+- section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
   section_type: linked_pdf
   source_line: ASTRO PROPUS 38,271 2014 IMABARI B&W 6S46MC-C8.2 SS 05/29 USD 19 M
     C/O DEVBULK
@@ -307,20 +298,18 @@ numeric_observations:
   - 38271.0
   - 2014.0
   - 6.0
-  - 6.0
-  - 2.0
+  - 46.0
+  - 8200.0
   - 5.0
   - 29.0
-- &id030
-  section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+- section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
   section_type: linked_pdf
   source_line: DD 08/27
   unit: null
   values:
   - 8.0
   - 27.0
-- &id031
-  section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+- section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
   section_type: linked_pdf
   source_line: DEVBULK IMABARI 29,451 2009 IMABARI B&W 6S42MC7.1 SS 10/30 USD 10.5
     M TURKISH
@@ -329,20 +318,19 @@ numeric_observations:
   - 29451.0
   - 2009.0
   - 6.0
-  - 2.0
-  - 1.0
+  - 42.0
+  - 7100.0
   - 10.0
   - 30.0
-- &id032
-  section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+  - 10500.0
+- section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
   section_type: linked_pdf
   source_line: OHBS DD 04/28
   unit: null
   values:
   - 4.0
   - 28.0
-- &id033
-  section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+- section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
   section_type: linked_pdf
   source_line: SAMOS 104,649 2010 SUMITOMO B&W 6S60MC-C7.2 SS 05/29 ARD USD 44.5 M
     U/D
@@ -351,12 +339,12 @@ numeric_observations:
   - 104649.0
   - 2010.0
   - 6.0
-  - 2.0
+  - 60.0
+  - 7200.0
   - 5.0
   - 29.0
-  - 44.5
-- &id034
-  section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+  - 44500.0
+- section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
   section_type: linked_pdf
   source_line: SANDPIPER PACIFIC 54,833 2013 SUNGDONG B&W 6S50ME-B9.2 SS 06/28 USD
     32 M U/D
@@ -365,27 +353,25 @@ numeric_observations:
   - 54833.0
   - 2013.0
   - 6.0
-  - 2.0
+  - 50.0
+  - 9200.0
   - 6.0
   - 28.0
-- &id035
-  section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+- section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
   section_type: linked_pdf
   source_line: DD 09/26
   unit: null
   values:
   - 9.0
   - 26.0
-- &id036
-  section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+- section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
   section_type: linked_pdf
   source_line: 284 Kifissias Avenue ("Clarksons") for general information purposes.
     The Information is drawn from Clarksons' database and other sources. Clarksons
   unit: null
   values:
   - 284.0
-- &id037
-  section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+- section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
   section_type: linked_pdf
   source_line: 152 32 Information extracted from the databases of other maritime data
     collection agencies may differ from the Information extracted
@@ -393,8 +379,7 @@ numeric_observations:
   values:
   - 152.0
   - 32.0
-- &id038
-  section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+- section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
   section_type: linked_pdf
   source_line: Direct +(30) 210 458 6700 the Information is not an endorsement of
     any commercial policies and/or any conclusions by Clarksons and its 'connected
@@ -404,8 +389,7 @@ numeric_observations:
   - 210.0
   - 458.0
   - 6700.0
-- &id039
-  section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+- section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
   section_type: linked_pdf
   source_line: Fax +(30) 210 458 6799
   unit: null
@@ -423,47 +407,357 @@ section_count: 2
 signals:
   numeric_observation_count: 39
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
+  - section: Main
+    section_type: null
+    source_line: In the Post-Panamax segment, Greek buyers emerged behind the scrubber-fitted
+      CORNELIE OLDENDORFF (ABT 93K DWT, 2011, ZHEJIANG, SCRUBBER), which is understood
+      sold in the high USD 15m range, with delivery in October.
+    unit: usd
+    values:
+    - 93.0
+    - 2011.0
+  - section: Main
+    section_type: null
+    source_line: On the Kamsarmax front, Japanese Owners concluded the sale of the
+      MONT BLANC HAWK (ABT 82K DWT, 2017, IMABARI) after inviting offers earlier in
+      the week, achieving a price in the region of USD 32.5m.
+    unit: usd
+    values:
+    - 82.0
+    - 2017.0
+  - section: Main
+    section_type: null
+    source_line: The Supramax AFRICAN TERN (ABT 58K DWT, 2013, DALIAN COSCO) has been
+      sold for high USD 19m, whilst the SANTA RITA (ABT 56K DWT, 2010, MITSUI) was
+      acquired by Greek interests for USD 17.2m.
+    unit: usd
+    values:
+    - 58.0
+    - 2013.0
+    - 56.0
+    - 2010.0
+  - section: Main
+    section_type: null
+    source_line: 'In the Handysize sector, c/o Devbulk have acquired the SHINSUNG
+      ACCORD (ABT 37K DWT, 2015, SAIKI) and the ASTRO PROPUS (ABT 38K DWT, 2014, IMABARI)
+      at USD 19m each. Separately, the DEVBULK IMABARI (ABT 29K DWT, 2009, IMABARI,
+      OHBS/GC) has been sold to Turkish '
+    unit: usd
+    values:
+    - 37.0
+    - 2015.0
+    - 38.0
+    - 2014.0
+    - 29.0
+    - 2009.0
+  - section: Main
+    section_type: null
+    source_line: On the Aframax segment, the SAMOS (ABT 105K DWT, 2010, SUMITOMO)
+      achieved a price around region USD mid-40m's basis Q3 delivery.
+    unit: usd
+    values:
+    - 105.0
+    - 2010.0
+    - 40.0
+  - section: Main
+    section_type: null
+    source_line: Elsewhere, the MR SANDPIPER PACIFIC (ABT 51K DWT, 2013, SUNGDONG)
+      was sold for USD 32m.
+    unit: usd
+    values:
+    - 51.0
+    - 2013.0
+  - section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+    section_type: linked_pdf
+    source_line: OLDENDORFF (ABT 93K DWT, 2011, ZHEJIANG, SCRUBBER), which is understood
+      sold in the high USD 15m
+    unit: usd
+    values:
+    - 93.0
+    - 2011.0
+  - section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+    section_type: linked_pdf
+    source_line: On the Kamsarmax front, Japanese Owners concluded the sale of the
+      MONT BLANC HAWK (ABT 82K
+    unit: null
+    values:
+    - 82.0
+  - section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+    section_type: linked_pdf
+    source_line: DWT, 2017, IMABARI) after inviting offers earlier in the week, achieving
+      a price in the region of USD 32.5m.
+    unit: usd
+    values:
+    - 2017.0
+  - section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+    section_type: linked_pdf
+    source_line: The Supramax AFRICAN TERN (ABT 58K DWT, 2013, DALIAN COSCO) has been
+      sold for high USD 19m,
+    unit: usd
+    values:
+    - 58.0
+    - 2013.0
+  - section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+    section_type: linked_pdf
+    source_line: whilst the SANTA RITA (ABT 56K DWT, 2010, MITSUI) was acquired by
+      Greek interests for USD 17.2m.
+    unit: usd
+    values:
+    - 56.0
+    - 2010.0
+  - section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+    section_type: linked_pdf
+    source_line: In the Handysize sector, c/o Devbulk have acquired the SHINSUNG ACCORD
+      (ABT 37K DWT, 2015, SAIKI)
+    unit: null
+    values:
+    - 37.0
+    - 2015.0
+  - section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+    section_type: linked_pdf
+    source_line: and the ASTRO PROPUS (ABT 38K DWT, 2014, IMABARI) at USD 19m each.
+    unit: usd
+    values:
+    - 38.0
+    - 2014.0
+  - section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+    section_type: linked_pdf
+    source_line: Separately, the DEVBULK IMABARI (ABT 29K DWT, 2009, IMABARI, OHBS/GC)
+      has been sold to Turkish
+    unit: null
+    values:
+    - 29.0
+    - 2009.0
+  - section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+    section_type: linked_pdf
+    source_line: On the Aframax segment, the SAMOS (ABT 105K DWT, 2010, SUMITOMO)
+      achieved a price around region
+    unit: null
+    values:
+    - 105.0
+    - 2010.0
+  - section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+    section_type: linked_pdf
+    source_line: USD mid-40m's basis Q3 delivery.
+    unit: usd
+    values:
+    - 40.0
+  - section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+    section_type: linked_pdf
+    source_line: Elsewhere, the MR SANDPIPER PACIFIC (ABT 51K DWT, 2013, SUNGDONG)
+      was sold for USD 32m.
+    unit: usd
+    values:
+    - 51.0
+    - 2013.0
+  - section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+    section_type: linked_pdf
+    source_line: B&W 6S60MC6.2 SS 03/30
+    unit: null
+    values:
+    - 6.0
+    - 2.0
+    - 3.0
+    - 30.0
+  - section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+    section_type: linked_pdf
+    source_line: 93,246 2011 ZHEJIANG HIGH USD 15 M GREEK
+    unit: usd
+    values:
+    - 93246.0
+    - 2011.0
+  - section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+    section_type: linked_pdf
+    source_line: OLDENDORFF SCRUBBER DD 03/27
+    unit: null
+    values:
+    - 3.0
+    - 27.0
+  - section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+    section_type: linked_pdf
+    source_line: MONT BLANC HAWK 81,628 2017 IMABARI B&W 6S60ME-C8.2 SS 07/27 RGN
+      USD 32.5 M U/D
+    unit: usd
+    values:
+    - 81628.0
+    - 2017.0
+    - 6.0
+    - 2.0
+    - 7.0
+    - 27.0
+  - section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+    section_type: linked_pdf
+    source_line: DD 07/27
+    unit: null
+    values:
+    - 7.0
+    - 27.0
+  - section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+    section_type: linked_pdf
+    source_line: AFRICAN TERN 58,342 2013 DALIAN B&W 6S50MC-C8.2 SS 06/28 HIGH USD
+      19 M U/D
+    unit: usd
+    values:
+    - 58342.0
+    - 2013.0
+    - 6.0
+    - 2.0
+    - 6.0
+    - 28.0
+  - section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+    section_type: linked_pdf
+    source_line: COSCO DD 06/28
+    unit: null
+    values:
+    - 6.0
+    - 28.0
+  - section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+    section_type: linked_pdf
+    source_line: SANTA RITA 55,677 2010 MITSUI B&W 6S50MC-C8.2 SS 11/30 USD 17.2 M
+      GREEK
+    unit: usd
+    values:
+    - 55677.0
+    - 2010.0
+    - 6.0
+    - 2.0
+    - 11.0
+    - 30.0
+  - section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+    section_type: linked_pdf
+    source_line: DD 03/29
+    unit: null
+    values:
+    - 3.0
+    - 29.0
+  - section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+    section_type: linked_pdf
+    source_line: SHINSUNG ACCORD 37,063 2015 SAIKI B&W 6S46MC-C8.2 SS 02/30 USD 19
+      M C/O DEVBULK
+    unit: usd
+    values:
+    - 37063.0
+    - 2015.0
+    - 6.0
+    - 6.0
+    - 2.0
+    - 2.0
+    - 30.0
+  - section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+    section_type: linked_pdf
+    source_line: DD 12/27
+    unit: null
+    values:
+    - 12.0
+    - 27.0
+  - section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+    section_type: linked_pdf
+    source_line: ASTRO PROPUS 38,271 2014 IMABARI B&W 6S46MC-C8.2 SS 05/29 USD 19
+      M C/O DEVBULK
+    unit: usd
+    values:
+    - 38271.0
+    - 2014.0
+    - 6.0
+    - 6.0
+    - 2.0
+    - 5.0
+    - 29.0
+  - section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+    section_type: linked_pdf
+    source_line: DD 08/27
+    unit: null
+    values:
+    - 8.0
+    - 27.0
+  - section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+    section_type: linked_pdf
+    source_line: DEVBULK IMABARI 29,451 2009 IMABARI B&W 6S42MC7.1 SS 10/30 USD 10.5
+      M TURKISH
+    unit: usd
+    values:
+    - 29451.0
+    - 2009.0
+    - 6.0
+    - 2.0
+    - 1.0
+    - 10.0
+    - 30.0
+  - section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+    section_type: linked_pdf
+    source_line: OHBS DD 04/28
+    unit: null
+    values:
+    - 4.0
+    - 28.0
+  - section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+    section_type: linked_pdf
+    source_line: SAMOS 104,649 2010 SUMITOMO B&W 6S60MC-C7.2 SS 05/29 ARD USD 44.5
+      M U/D
+    unit: usd
+    values:
+    - 104649.0
+    - 2010.0
+    - 6.0
+    - 2.0
+    - 5.0
+    - 29.0
+    - 44.5
+  - section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+    section_type: linked_pdf
+    source_line: SANDPIPER PACIFIC 54,833 2013 SUNGDONG B&W 6S50ME-B9.2 SS 06/28 USD
+      32 M U/D
+    unit: usd
+    values:
+    - 54833.0
+    - 2013.0
+    - 6.0
+    - 2.0
+    - 6.0
+    - 28.0
+  - section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+    section_type: linked_pdf
+    source_line: DD 09/26
+    unit: null
+    values:
+    - 9.0
+    - 26.0
+  - section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+    section_type: linked_pdf
+    source_line: 284 Kifissias Avenue ("Clarksons") for general information purposes.
+      The Information is drawn from Clarksons' database and other sources. Clarksons
+    unit: null
+    values:
+    - 284.0
+  - section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+    section_type: linked_pdf
+    source_line: 152 32 Information extracted from the databases of other maritime
+      data collection agencies may differ from the Information extracted
+    unit: null
+    values:
+    - 152.0
+    - 32.0
+  - section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+    section_type: linked_pdf
+    source_line: Direct +(30) 210 458 6700 the Information is not an endorsement of
+      any commercial policies and/or any conclusions by Clarksons and its 'connected
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6700.0
+  - section: 'Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf'
+    section_type: linked_pdf
+    source_line: Fax +(30) 210 458 6799
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6799.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2026/2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137.html
+source_path: corpus/02-hellenic/shipbuilding/2026/2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137.html
 source_stem: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137
 source_url: https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-137
 summary: 'Main
@@ -514,7 +808,7 @@ Elsewhere, the MR SANDPIPER PACIFIC (ABT 51K DWT, 2013, SUNGDONG) was sold for U
 Source: Clarkson Platou (Hellas) ltd
 
 ## Linked asset: 2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf
-Source asset: reports/hellenic/shipbuilding/pdfs/2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf
+Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-06-19_clarksons-platou-hellas-snp-weekly-bulletin-137_weekly-sales-19th-jun-2026-1_2bead4e76183.pdf
 
 [Page 1]
 Clarkson Hellas Ltd.

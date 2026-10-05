@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1491,
-  "source_path": "reports/hellenic/shipbuilding/2023/2023-09-26_breakwave-dry-bulk-shipping-report-9-26-2023.html",
+  "token_count": 1493,
+  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-09-26_breakwave-dry-bulk-shipping-report-9-26-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-9-26-2023",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-09-26_breakwave-dry-bulk-shipping-report-9-26-2023_breakwavedryseptember262023report_5fee31dd4299.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-09-26_breakwave-dry-bulk-shipping-report-9-26-2023_breakwavedryseptember262023report_5fee31dd4299.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nSeptember 26, 2023\nBreakwave Dry Futures Index: 1,563 Baltic Dry Index (spot): 1,593 Short-term Indicators:\n↑ 30D: 17.9% ↑ 30D: 47.5% Momentum: Positive\n↑ YTD: 52.1% ↑ YTD: 5.1% Sentiment: Positive\n↓ YOY: -12.4% ↓ YOY: -12.3% Fundamentals: Neutral\nBi-Weekly Report\n• Capesize spot rates approaching the 20,000 mark as seasonality kicks in - With the summer dull days coming to\nan end, dry bulk activity is once again picking up, and with that, Capesize spot rates have begun to creep higher,\nalthough still inside the tight range that has prevailed for most of the past 18 months. \"Unexciting\" has been the\nword to characterize the state of the dry bulk market recently, but as always has been the case in the last few years,\nthe surprise element is always one headline away.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-09-26_breakwave-dry-bulk-shipping-report-9-26-2023_breakwavedryseptember262023report_5fee31dd4299.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nSeptember 26, 2023\nBreakwave Dry Futures Index: 1,563 Baltic Dry Index (spot): 1,593 Short-term Indicators:\n↑ 30D: 17.9% ↑ 30D: 47.5% Momentum: Positive\n↑ YTD: 52.1% ↑ YTD: 5.1% Sentiment: Positive\n↓ YOY: -12.4% ↓ YOY: -12.3% Fundamentals: Neutral\nBi-Weekly Report\n• Capesize spot rates approaching the 20,000 mark as seasonality kicks in - With the summer dull days coming to\nan end, dry bulk activity is once again picking up, and with that, Capesize spot rates have begun to creep higher,\nalthough still inside the tight range that has prevailed for most of the past 18 months. \"Unexciting\" has been the\nword to characterize the state of the dry bulk market recently, but as always has been the case in the last few years,\nthe surprise element is always one headline away.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1412,
+      "token_count": 1414,
       "section_type": "linked_pdf",
       "children": []
     }

@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1760,
-  "source_path": "reports/hellenic/shipbuilding/2025/2025-03-18_breakwave-dry-bulk-shipping-report-3-18-2025.html",
+  "token_count": 1762,
+  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-03-18_breakwave-dry-bulk-shipping-report-3-18-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-3-18-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-03-18_breakwave-dry-bulk-shipping-report-3-18-2025_breakwavedrymarch182025report2_fe2c43ecf39f.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-03-18_breakwave-dry-bulk-shipping-report-3-18-2025_breakwavedrymarch182025report2_fe2c43ecf39f.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nMarch 18, 2025\n• Capesize Spot Rates Hit 4-month Highs as Seasonality Kicks In - The past Short-term Indicators\nmonth has been remarkably strong for the dry bulk shipping market, with spot rates\nMomentum: Neutral\nexperiencing a significant resurgence. Capesize spot rates have surpassed the\nSentiment: Positive\n20,000-mark, while Panamax rates have staged a notable recovery.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-03-18_breakwave-dry-bulk-shipping-report-3-18-2025_breakwavedrymarch182025report2_fe2c43ecf39f.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nMarch 18, 2025\n• Capesize Spot Rates Hit 4-month Highs as Seasonality Kicks In - The past Short-term Indicators\nmonth has been remarkably strong for the dry bulk shipping market, with spot rates\nMomentum: Neutral\nexperiencing a significant resurgence. Capesize spot rates have surpassed the\nSentiment: Positive\n20,000-mark, while Panamax rates have staged a notable recovery.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1674,
+      "token_count": 1676,
       "section_type": "linked_pdf",
       "children": []
     }

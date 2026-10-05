@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1486,
-  "source_path": "reports/hellenic/shipbuilding/2023/2023-10-17_breakwave-tanker-report-10-17-2023.html",
+  "token_count": 1488,
+  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-10-17_breakwave-tanker-report-10-17-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-10-17-2023",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-10-17_breakwave-tanker-report-10-17-2023_breakwavetankersoctober172023report_c34cbb458475.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-10-17_breakwave-tanker-report-10-17-2023_breakwavetankersoctober172023report_c34cbb458475.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nOctober 17, 2023\nBreakwave Tanker Futures Index: 1,351 VLCC Middle East-Asia Spot Rates: $14.20 Short-term Indicators:\n↑ 30D: 6.4% ↑ 30D: 55.5% Momentum: Positive\n↑ YTD: 13.7% ↓ YTD: -19.8% Sentiment: Positive\n↓ YOY: -22.7% ↓ YOY: -38.0% Fundamentals: Positive\nBi-Weekly Report\n• VLCC spot market activity surges as geopolitical tensions spike - The recent surprising sad events in the Middle\nEast once again reminded us how important energy security is. Tanker owners have been through numerous cycles\nof geopolitical uncertainty and know that during such uncertain periods charterers are willing to pay up to secure\ntonnage and thus the option to lift oil.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-10-17_breakwave-tanker-report-10-17-2023_breakwavetankersoctober172023report_c34cbb458475.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nOctober 17, 2023\nBreakwave Tanker Futures Index: 1,351 VLCC Middle East-Asia Spot Rates: $14.20 Short-term Indicators:\n↑ 30D: 6.4% ↑ 30D: 55.5% Momentum: Positive\n↑ YTD: 13.7% ↓ YTD: -19.8% Sentiment: Positive\n↓ YOY: -22.7% ↓ YOY: -38.0% Fundamentals: Positive\nBi-Weekly Report\n• VLCC spot market activity surges as geopolitical tensions spike - The recent surprising sad events in the Middle\nEast once again reminded us how important energy security is. Tanker owners have been through numerous cycles\nof geopolitical uncertainty and know that during such uncertain periods charterers are willing to pay up to secure\ntonnage and thus the option to lift oil.",
       "keywords": [
         "vlcc",
         "suezmax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1417,
+      "token_count": 1419,
       "section_type": "linked_pdf",
       "children": []
     }

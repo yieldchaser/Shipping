@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1571,
-  "source_path": "reports/hellenic/shipbuilding/2024/2024-09-24_breakwave-tanker-report-9-24-2024.html",
+  "token_count": 1573,
+  "source_path": "corpus/02-hellenic/shipbuilding/2024/2024-09-24_breakwave-tanker-report-9-24-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-9-24-2024",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2024-09-24_breakwave-tanker-report-9-24-2024_breakwavetankersseptember242024repor_6e0cecf126d0.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2024-09-24_breakwave-tanker-report-9-24-2024_breakwavetankersseptember242024repor_6e0cecf126d0.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nSeptember 24, 2024\nBreakwave Tanker Futures Index: 1,277 VLCC Middle East-Asia Spot Rates: $14.76 Short-term Indicators:\n↑ 30D: 2.3% ↑ 30D: 15.5% Momentum: Neutral\n↑ YTD: 5.2% ↑ YTD: 11.4% Sentiment: Positive\n↓ YOY: -11.6% ↑ YOY: 6.2% Fundamentals: Neutral\nBi-Weekly Report\n• VLCC Market Strengthens on the Back of Increasing Inquiry as Hopes for a Winter Recovery Resurface - The recovery of\nthe VLCC (Very Large Crude Carrier) market gained momentum starting in early September, with a notable firming by the\nend of the third week, driven by a surge in enquiries. The improvement in rates is largely due to vessel owners managing\nto finally push rates above previous levels, bolstered by a limited number of such owners controlling much of the available\ntonnage for early-month cargoes.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2024-09-24_breakwave-tanker-report-9-24-2024_breakwavetankersseptember242024repor_6e0cecf126d0.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nSeptember 24, 2024\nBreakwave Tanker Futures Index: 1,277 VLCC Middle East-Asia Spot Rates: $14.76 Short-term Indicators:\n↑ 30D: 2.3% ↑ 30D: 15.5% Momentum: Neutral\n↑ YTD: 5.2% ↑ YTD: 11.4% Sentiment: Positive\n↓ YOY: -11.6% ↑ YOY: 6.2% Fundamentals: Neutral\nBi-Weekly Report\n• VLCC Market Strengthens on the Back of Increasing Inquiry as Hopes for a Winter Recovery Resurface - The recovery of\nthe VLCC (Very Large Crude Carrier) market gained momentum starting in early September, with a notable firming by the\nend of the third week, driven by a surge in enquiries. The improvement in rates is largely due to vessel owners managing\nto finally push rates above previous levels, bolstered by a limited number of such owners controlling much of the available\ntonnage for early-month cargoes.",
       "keywords": [
         "vlcc",
         "suezmax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1490,
+      "token_count": 1492,
       "section_type": "linked_pdf",
       "children": []
     }

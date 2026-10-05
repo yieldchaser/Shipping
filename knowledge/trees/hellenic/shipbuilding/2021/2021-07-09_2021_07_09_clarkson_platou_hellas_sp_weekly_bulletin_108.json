@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2875,
-  "source_path": "reports/hellenic/shipbuilding/2021/2021-07-09_clarkson-platou-hellas-sp-weekly-bulletin-108.html",
+  "token_count": 2877,
+  "source_path": "corpus/02-hellenic/shipbuilding/2021/2021-07-09_clarkson-platou-hellas-sp-weekly-bulletin-108.html",
   "source_url": "https://www.hellenicshippingnews.com/clarkson-platou-hellas-sp-weekly-bulletin-108",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2021-07-09_clarkson-platou-hellas-sp-weekly-bulletin-108_report-09-07-2021_a88266b1b022.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2021-07-09_clarkson-platou-hellas-sp-weekly-bulletin-108_report-09-07-2021_a88266b1b022.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 7 July 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nWARTSILA 6RTA68T-B SS 03/26\nMANGAS 173,918 2011 BOHAI RGN USD 24 M GREEKS\nBWTS fitted DD 05/24\nSS 11/21\nDOUBLE PROVIDENCE 95,720 2012 IMABARI MAN-B&W 6S60MC-C USD 21.3 M GREEKS\nDD 11/21\nSS 07/22\nSEA EXPRESS 79,252 2012 COSCO DALIAN MAN-B&W 7S50MC-C USD 18.8 M GREEKS\nDD 07/22\nMAN-B&W 5G60ME-C9.2\nSS 06/24 RGN USD 21 M\nKMARIN ULSAN 63,151 2014 JIANGSU HANTONG 4 x 36 T CHINESE\nDD 08/22 (Delivery 01/2022)\nBWTS fitted\nMAN-B&W 6S50MC-C\nSS 06/22\nBULK COSTA RICA 58,758 2012 NACKS 4 x 30 T RGN USD 19 M GREEKS\nDD 06/22\nBWTS fitted\nMAN-B&W 6S50MC-C8.2 SS 02/23\nBULK PATAGONIA 58,723 2012 KAWASAKI\n4 x 30 T DD 02/23\nMAN-B&W 6S50MC-C8.2\nSS 05/26 USD 60 M\nBULK CURACAO 4 x 30 T GREEKS\nDD 05/24 en bloc\n57,937 2011 TSUNEISHI CEBU BWTS fitted\nMAN-B&W 6S50MC-C8.2 SS 09/21\nBULK ECUADOR\n4 x 30 T DD 09/21\nMAN-B&W 6S50MC-C SS 04/22\nCENTENARIO FORZA 56,129 2012 MITSUI RGN USD 18.5 M U/D\n4 x 30 T DD 04/22\nMAN-B&W 6S50MC-C\nSS 10/25\nIMPERIAL FORTUNE 53,",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-07-09_clarkson-platou-hellas-sp-weekly-bulletin-108_report-09-07-2021_a88266b1b022.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 7 July 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nWARTSILA 6RTA68T-B SS 03/26\nMANGAS 173,918 2011 BOHAI RGN USD 24 M GREEKS\nBWTS fitted DD 05/24\nSS 11/21\nDOUBLE PROVIDENCE 95,720 2012 IMABARI MAN-B&W 6S60MC-C USD 21.3 M GREEKS\nDD 11/21\nSS 07/22\nSEA EXPRESS 79,252 2012 COSCO DALIAN MAN-B&W 7S50MC-C USD 18.8 M GREEKS\nDD 07/22\nMAN-B&W 5G60ME-C9.2\nSS 06/24 RGN USD 21 M\nKMARIN ULSAN 63,151 2014 JIANGSU HANTONG 4 x 36 T CHINESE\nDD 08/22 (Delivery 01/2022)\nBWTS fitted\nMAN-B&W 6S50MC-C\nSS 06/22\nBULK COSTA RICA 58,758 2012 NACKS 4 x 30 T RGN USD 19 M GREEKS\nDD 06/22\nBWTS fitted\nMAN-B&W 6S50MC-C8.2 SS 02/23\nBULK PATAGONIA 58,723 2012 KAWASAKI\n4 x 30 T DD 02/23\nMAN-B&W 6S50MC-C8.2\nSS 05/26 USD 60 M\nBULK CURACAO 4 x 30 T GREEKS\nDD 05/24 en bloc\n57,937 2011 TSUNEISHI CEBU BWTS fitted\nMAN-B&W 6S50MC-C8.2 SS 09/21\nBULK ECUADOR\n4 x 30 T DD 09/21\nMAN-B&W 6S50MC-C SS 04/22\nCENTENARIO FORZA 56,129 2012 MITSUI RGN USD 18.5 M U/D\n4 x 30 T DD 04/22\nMAN-B&W 6S50MC-C\nSS 10/25\nIMPERIAL FORTUNE 5",
       "keywords": [
         "lng",
         "lpg",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2795,
+      "token_count": 2797,
       "section_type": "linked_pdf",
       "children": []
     }

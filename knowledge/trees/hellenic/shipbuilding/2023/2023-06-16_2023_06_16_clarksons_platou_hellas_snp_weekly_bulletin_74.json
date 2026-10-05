@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2248,
-  "source_path": "reports/hellenic/shipbuilding/2023/2023-06-16_clarksons-platou-hellas-snp-weekly-bulletin-74.html",
+  "token_count": 2250,
+  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-06-16_clarksons-platou-hellas-snp-weekly-bulletin-74.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-74",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-06-16_clarksons-platou-hellas-snp-weekly-bulletin-74_report-16-06-2023_6725be9cd461.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-06-16_clarksons-platou-hellas-snp-weekly-bulletin-74_report-16-06-2023_6725be9cd461.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 16 June 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 7S50MC- SS 04/25\nMAGIC TWILIGHT 80,700 2010 STX USD 17.5 M U/D\nC7.1, BWTS fitted DD 07/23\nSS 10/24\nZHOU SHAN HAI 56,987\nDD 10/24\nYUAN AN HAI 56,957 SS 08/24\nDD 08/24\n2009 COSCO MAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-06-16_clarksons-platou-hellas-snp-weekly-bulletin-74_report-16-06-2023_6725be9cd461.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 16 June 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 7S50MC- SS 04/25\nMAGIC TWILIGHT 80,700 2010 STX USD 17.5 M U/D\nC7.1, BWTS fitted DD 07/23\nSS 10/24\nZHOU SHAN HAI 56,987\nDD 10/24\nYUAN AN HAI 56,957 SS 08/24\nDD 08/24\n2009 COSCO MAN B.",
       "keywords": [
         "suezmax",
         "lng",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2159,
+      "token_count": 2161,
       "section_type": "linked_pdf",
       "children": []
     }

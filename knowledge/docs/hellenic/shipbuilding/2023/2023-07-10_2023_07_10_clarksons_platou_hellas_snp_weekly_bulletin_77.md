@@ -6,6 +6,7 @@ commodities:
 date: '2023-07-10'
 doc_id: hellenic_shipbuilding_2023-07-10_2023_07_10_clarksons_platou_hellas_snp_weekly_bulletin_77
 document_type: shipbuilding_update
+is_error_page: false
 key_entities:
 - China
 keywords:
@@ -29,50 +30,45 @@ linked_assets_skipped: 0
 market_tone: cautiously_bearish
 numeric_observation_count: 31
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: 'New Building: In Gas Carriers this week, an unnamed owner, reported
     to be NYK, ordered two firm 174k CBM LNG carriers at Hyundai Samho Download PDF'
   unit: null
   values:
   - 174.0
-- &id002
-  section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+- section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
   section_type: linked_pdf
   source_line: Clarksons Hellas Weekly Bulletin 08 July 2023
   unit: null
   values:
   - 8.0
   - 2023.0
-- &id003
-  section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+- section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
   section_type: linked_pdf
   source_line: MAN B. & W. 6S70MC- SS 05/27 HIGH USD 22 M
   unit: usd
   values:
   - 6.0
+  - 70.0
   - 5.0
   - 27.0
-- &id004
-  section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+- section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
   section_type: linked_pdf
   source_line: BENITAMOU 206,291 2008 IMABARI CHINESE
   unit: null
   values:
   - 206291.0
   - 2008.0
-- &id005
-  section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+- section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
   section_type: linked_pdf
   source_line: C7.1, BWTS fitted DD 07/25 (BBHP)
   unit: null
   values:
-  - 1.0
+  - 7100.0
   - 7.0
   - 25.0
-- &id006
-  section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+- section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
   section_type: linked_pdf
   source_line: AQUAMARINE 182,060 2009 ODENSE MAN B. & W. 6S70MC-C7.1, SS 10/27 USD
     18.5 M GREEKS
@@ -81,19 +77,19 @@ numeric_observations:
   - 182060.0
   - 2009.0
   - 6.0
-  - 1.0
+  - 70.0
+  - 7100.0
   - 10.0
   - 27.0
-- &id007
-  section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+  - 18500.0
+- section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
   section_type: linked_pdf
   source_line: BWTS fitted DD 11/24
   unit: null
   values:
   - 11.0
   - 24.0
-- &id008
-  section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+- section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
   section_type: linked_pdf
   source_line: MARYLISA V 52,428 2003 TSUNESIHI MAN B. & W. 6S70MC, SS 09/23 USD 7.6
     M CHINESE
@@ -102,10 +98,11 @@ numeric_observations:
   - 52428.0
   - 2003.0
   - 6.0
+  - 70.0
   - 9.0
   - 23.0
-- &id009
-  section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+  - 7600.0
+- section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
   section_type: linked_pdf
   source_line: 4 X 30 T DD 09/23
   unit: null
@@ -114,16 +111,14 @@ numeric_observations:
   - 30.0
   - 9.0
   - 23.0
-- &id010
-  section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+- section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
   section_type: linked_pdf
   source_line: In Gas Carriers this week, an unnamed owner, reported to be NYK, ordered
     two firm 174k CBM LNG carriers at Hyundai Samho
   unit: null
   values:
   - 174.0
-- &id011
-  section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+- section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
   section_type: linked_pdf
   source_line: and are set to deliver in 2Q 2027 and October 2027 respectively. Hyundai
     HI (Ulsan) contracted three firm 88k CBM VLGC's
@@ -133,8 +128,7 @@ numeric_observations:
   - 2027.0
   - 2027.0
   - 88.0
-- &id012
-  section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+- section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
   section_type: linked_pdf
   source_line: for an unnamed owner. The vessels will deliver in 3Q and 4Q 2026 with
     the final to be delivered in December 2026. Sahara
@@ -144,16 +138,14 @@ numeric_observations:
   - 4.0
   - 2026.0
   - 2026.0
-- &id013
-  section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+- section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
   section_type: linked_pdf
   source_line: group (West Africa LPG) have ordered two firm plus one optional 40k
     CBM MGC's at Hyundai Mipo, with delivery slated for
   unit: null
   values:
   - 40.0
-- &id014
-  section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+- section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
   section_type: linked_pdf
   source_line: 4Q 2025 and 1Q 2026. An unnamed owner, reported to be PascoGas, ordered
     a firm 45k CBM MGC at Hyundai Mipo, with
@@ -164,23 +156,20 @@ numeric_observations:
   - 1.0
   - 2026.0
   - 45.0
-- &id015
-  section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+- section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
   section_type: linked_pdf
   source_line: delivery set for October 2026.
   unit: null
   values:
   - 2026.0
-- &id016
-  section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+- section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
   section_type: linked_pdf
   source_line: In Car Carriers, Hyundai Mipo announced an order four firm 7,700 CEU
     PCTC's with an unnamed owner, reported to be Ray
   unit: null
   values:
   - 7700.0
-- &id017
-  section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+- section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
   section_type: linked_pdf
   source_line: Car Carriers, with the first two vessels expected to deliver in 2H
     2026, and the final two vessels in 1H 2027.
@@ -190,16 +179,14 @@ numeric_observations:
   - 2026.0
   - 1.0
   - 2027.0
-- &id018
-  section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+- section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
   section_type: linked_pdf
   source_line: Finally, in Containers, Clients of Danaos Shipping have ordered two
     firm conventionally fuelled, scrubber fitted, 8,000 TEU
   unit: null
   values:
   - 8000.0
-- &id019
-  section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+- section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
   section_type: linked_pdf
   source_line: Containerships at Yangzijiang, with both vessels expected to deliver
     in 2Q 2026.
@@ -207,16 +194,14 @@ numeric_observations:
   values:
   - 2.0
   - 2026.0
-- &id020
-  section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+- section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
   section_type: linked_pdf
   source_line: Sale & Purchase | Clarksons Hellas Weekly Bulletin | 08 July 23
   unit: null
   values:
   - 8.0
   - 23.0
-- &id021
-  section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+- section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
   section_type: linked_pdf
   source_line: SHUN FENG 9 73,350 1994 JAPAN 10,356 LDT USD 510/LT ‘AS IS' CHINA
   unit: usd
@@ -226,8 +211,7 @@ numeric_observations:
   - 1994.0
   - 10356.0
   - 510.0
-- &id022
-  section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+- section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
   section_type: linked_pdf
   source_line: JI YOU 45,296 1994 JAPAN 7,548 LDT USD 510/LT ‘AS IS' CHINA
   unit: usd
@@ -236,8 +220,7 @@ numeric_observations:
   - 1994.0
   - 7548.0
   - 510.0
-- &id023
-  section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+- section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
   section_type: linked_pdf
   source_line: BDI 1009 + 16 Euro/USD 1.0893 BUNKERS ROTTERDAM SPORE FUJAIRAH
   unit: usd
@@ -245,8 +228,7 @@ numeric_observations:
   - 1009.0
   - 16.0
   - 1.0893
-- &id024
-  section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+- section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
   section_type: linked_pdf
   source_line: BCI 1522 + 43 YEN/USD 0.0069 VLSFO 546.00 582.00 572.50
   unit: usd
@@ -256,8 +238,7 @@ numeric_observations:
   - 546.0
   - 582.0
   - 572.5
-- &id025
-  section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+- section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
   section_type: linked_pdf
   source_line: BPI 984 + 16 Brent (USD) MGO 724.00 731.00 815.00
   unit: usd
@@ -267,8 +248,7 @@ numeric_observations:
   - 724.0
   - 731.0
   - 815.0
-- &id026
-  section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+- section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
   section_type: linked_pdf
   source_line: BSI 724 - 4 IFO 380 472.00 473.50 439.50
   unit: null
@@ -279,16 +259,14 @@ numeric_observations:
   - 472.0
   - 473.5
   - 439.5
-- &id027
-  section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+- section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
   section_type: linked_pdf
   source_line: BHSI 424 - 3
   unit: null
   values:
   - 424.0
   - 3.0
-- &id028
-  section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+- section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
   section_type: linked_pdf
   source_line: 62 Kifissias Avenue Information extracted from Clarksons' database
     is derived from estimates or subjective judgments; (ii) any Information extracted
@@ -296,8 +274,7 @@ numeric_observations:
   unit: null
   values:
   - 62.0
-- &id029
-  section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+- section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
   section_type: linked_pdf
   source_line: 151 25 and may accordingly contain errors; (iv) the provision of the
     Information does not obviate any need to make appropriate further enquiries; (v)
@@ -306,8 +283,7 @@ numeric_observations:
   values:
   - 151.0
   - 25.0
-- &id030
-  section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+- section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
   section_type: linked_pdf
   source_line: Direct +(30) 210 458 6700 used or relied upon by, any other person
     or used for any other purpose without the prior written consent of Clarksons.
@@ -318,8 +294,7 @@ numeric_observations:
   - 210.0
   - 458.0
   - 6700.0
-- &id031
-  section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+- section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
   section_type: linked_pdf
   source_line: Fax +(30) 210 458 6799 its ‘connected persons' and/or its licensors.
   unit: null
@@ -338,39 +313,277 @@ section_count: 2
 signals:
   numeric_observation_count: 31
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
+  - section: Main
+    section_type: null
+    source_line: 'New Building: In Gas Carriers this week, an unnamed owner, reported
+      to be NYK, ordered two firm 174k CBM LNG carriers at Hyundai Samho Download
+      PDF'
+    unit: null
+    values:
+    - 174.0
+  - section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+    section_type: linked_pdf
+    source_line: Clarksons Hellas Weekly Bulletin 08 July 2023
+    unit: null
+    values:
+    - 8.0
+    - 2023.0
+  - section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+    section_type: linked_pdf
+    source_line: MAN B. & W. 6S70MC- SS 05/27 HIGH USD 22 M
+    unit: usd
+    values:
+    - 6.0
+    - 5.0
+    - 27.0
+  - section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+    section_type: linked_pdf
+    source_line: BENITAMOU 206,291 2008 IMABARI CHINESE
+    unit: null
+    values:
+    - 206291.0
+    - 2008.0
+  - section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+    section_type: linked_pdf
+    source_line: C7.1, BWTS fitted DD 07/25 (BBHP)
+    unit: null
+    values:
+    - 1.0
+    - 7.0
+    - 25.0
+  - section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+    section_type: linked_pdf
+    source_line: AQUAMARINE 182,060 2009 ODENSE MAN B. & W. 6S70MC-C7.1, SS 10/27
+      USD 18.5 M GREEKS
+    unit: usd
+    values:
+    - 182060.0
+    - 2009.0
+    - 6.0
+    - 1.0
+    - 10.0
+    - 27.0
+  - section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+    section_type: linked_pdf
+    source_line: BWTS fitted DD 11/24
+    unit: null
+    values:
+    - 11.0
+    - 24.0
+  - section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+    section_type: linked_pdf
+    source_line: MARYLISA V 52,428 2003 TSUNESIHI MAN B. & W. 6S70MC, SS 09/23 USD
+      7.6 M CHINESE
+    unit: usd
+    values:
+    - 52428.0
+    - 2003.0
+    - 6.0
+    - 9.0
+    - 23.0
+  - section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+    section_type: linked_pdf
+    source_line: 4 X 30 T DD 09/23
+    unit: null
+    values:
+    - 4.0
+    - 30.0
+    - 9.0
+    - 23.0
+  - section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+    section_type: linked_pdf
+    source_line: In Gas Carriers this week, an unnamed owner, reported to be NYK,
+      ordered two firm 174k CBM LNG carriers at Hyundai Samho
+    unit: null
+    values:
+    - 174.0
+  - section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+    section_type: linked_pdf
+    source_line: and are set to deliver in 2Q 2027 and October 2027 respectively.
+      Hyundai HI (Ulsan) contracted three firm 88k CBM VLGC's
+    unit: null
+    values:
+    - 2.0
+    - 2027.0
+    - 2027.0
+    - 88.0
+  - section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+    section_type: linked_pdf
+    source_line: for an unnamed owner. The vessels will deliver in 3Q and 4Q 2026
+      with the final to be delivered in December 2026. Sahara
+    unit: null
+    values:
+    - 3.0
+    - 4.0
+    - 2026.0
+    - 2026.0
+  - section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+    section_type: linked_pdf
+    source_line: group (West Africa LPG) have ordered two firm plus one optional 40k
+      CBM MGC's at Hyundai Mipo, with delivery slated for
+    unit: null
+    values:
+    - 40.0
+  - section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+    section_type: linked_pdf
+    source_line: 4Q 2025 and 1Q 2026. An unnamed owner, reported to be PascoGas, ordered
+      a firm 45k CBM MGC at Hyundai Mipo, with
+    unit: null
+    values:
+    - 4.0
+    - 2025.0
+    - 1.0
+    - 2026.0
+    - 45.0
+  - section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+    section_type: linked_pdf
+    source_line: delivery set for October 2026.
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+    section_type: linked_pdf
+    source_line: In Car Carriers, Hyundai Mipo announced an order four firm 7,700
+      CEU PCTC's with an unnamed owner, reported to be Ray
+    unit: null
+    values:
+    - 7700.0
+  - section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+    section_type: linked_pdf
+    source_line: Car Carriers, with the first two vessels expected to deliver in 2H
+      2026, and the final two vessels in 1H 2027.
+    unit: null
+    values:
+    - 2.0
+    - 2026.0
+    - 1.0
+    - 2027.0
+  - section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+    section_type: linked_pdf
+    source_line: Finally, in Containers, Clients of Danaos Shipping have ordered two
+      firm conventionally fuelled, scrubber fitted, 8,000 TEU
+    unit: null
+    values:
+    - 8000.0
+  - section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+    section_type: linked_pdf
+    source_line: Containerships at Yangzijiang, with both vessels expected to deliver
+      in 2Q 2026.
+    unit: null
+    values:
+    - 2.0
+    - 2026.0
+  - section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+    section_type: linked_pdf
+    source_line: Sale & Purchase | Clarksons Hellas Weekly Bulletin | 08 July 23
+    unit: null
+    values:
+    - 8.0
+    - 23.0
+  - section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+    section_type: linked_pdf
+    source_line: SHUN FENG 9 73,350 1994 JAPAN 10,356 LDT USD 510/LT ‘AS IS' CHINA
+    unit: usd
+    values:
+    - 9.0
+    - 73350.0
+    - 1994.0
+    - 10356.0
+    - 510.0
+  - section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+    section_type: linked_pdf
+    source_line: JI YOU 45,296 1994 JAPAN 7,548 LDT USD 510/LT ‘AS IS' CHINA
+    unit: usd
+    values:
+    - 45296.0
+    - 1994.0
+    - 7548.0
+    - 510.0
+  - section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+    section_type: linked_pdf
+    source_line: BDI 1009 + 16 Euro/USD 1.0893 BUNKERS ROTTERDAM SPORE FUJAIRAH
+    unit: usd
+    values:
+    - 1009.0
+    - 16.0
+    - 1.0893
+  - section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+    section_type: linked_pdf
+    source_line: BCI 1522 + 43 YEN/USD 0.0069 VLSFO 546.00 582.00 572.50
+    unit: usd
+    values:
+    - 1522.0
+    - 43.0
+    - 546.0
+    - 582.0
+    - 572.5
+  - section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+    section_type: linked_pdf
+    source_line: BPI 984 + 16 Brent (USD) MGO 724.00 731.00 815.00
+    unit: usd
+    values:
+    - 984.0
+    - 16.0
+    - 724.0
+    - 731.0
+    - 815.0
+  - section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+    section_type: linked_pdf
+    source_line: BSI 724 - 4 IFO 380 472.00 473.50 439.50
+    unit: null
+    values:
+    - 724.0
+    - 4.0
+    - 380.0
+    - 472.0
+    - 473.5
+    - 439.5
+  - section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+    section_type: linked_pdf
+    source_line: BHSI 424 - 3
+    unit: null
+    values:
+    - 424.0
+    - 3.0
+  - section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+    section_type: linked_pdf
+    source_line: 62 Kifissias Avenue Information extracted from Clarksons' database
+      is derived from estimates or subjective judgments; (ii) any Information extracted
+      from the databases of
+    unit: null
+    values:
+    - 62.0
+  - section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+    section_type: linked_pdf
+    source_line: 151 25 and may accordingly contain errors; (iv) the provision of
+      the Information does not obviate any need to make appropriate further enquiries;
+      (v) the provision
+    unit: null
+    values:
+    - 151.0
+    - 25.0
+  - section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+    section_type: linked_pdf
+    source_line: Direct +(30) 210 458 6700 used or relied upon by, any other person
+      or used for any other purpose without the prior written consent of Clarksons.
+      Especially, the information is not to be
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6700.0
+  - section: 'Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf'
+    section_type: linked_pdf
+    source_line: Fax +(30) 210 458 6799 its ‘connected persons' and/or its licensors.
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6799.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2023/2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77.html
+source_path: corpus/02-hellenic/shipbuilding/2023/2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77.html
 source_stem: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77
 source_url: https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-77
 summary: 'Main
@@ -453,7 +666,7 @@ New Building: In Gas Carriers this week, an unnamed owner, reported to be NYK, o
 Source: Clarkson Platou (Hellas) ltd
 
 ## Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf
-Source asset: reports/hellenic/shipbuilding/pdfs/2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf
+Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf
 
 [Page 1]
 SALE & PURCHASE

@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1752,
-  "source_path": "reports/hellenic/shipbuilding/2025/2025-06-04_breakwave-tanker-report-6-3-2025.html",
+  "token_count": 1754,
+  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-06-04_breakwave-tanker-report-6-3-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-6-3-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-06-04_breakwave-tanker-report-6-3-2025_breakwavetankersjune32025report_3eeea48eb400.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-06-04_breakwave-tanker-report-6-3-2025_breakwavetankersjune32025report_3eeea48eb400.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nJune 3, 2025\n• VLCC Market Under Pressure Amid Summer Lull and Weak Demand - Despite Short-term Indicators\nsome mid-May signs of rate stabilization that briefly lifted sentiment, the end of May\nMomentum: Negative\npaints a negative picture for the VLCC freight market across both Eastern and\nSentiment: Negative\nWestern routes. Spot rates for MEG/China and West Africa/China declined by\ndouble digits, reflecting a broader bearish trend as the market transitions into the Fundamentals: Positive\ntraditional summer demand lull.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-06-04_breakwave-tanker-report-6-3-2025_breakwavetankersjune32025report_3eeea48eb400.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nJune 3, 2025\n• VLCC Market Under Pressure Amid Summer Lull and Weak Demand - Despite Short-term Indicators\nsome mid-May signs of rate stabilization that briefly lifted sentiment, the end of May\nMomentum: Negative\npaints a negative picture for the VLCC freight market across both Eastern and\nSentiment: Negative\nWestern routes. Spot rates for MEG/China and West Africa/China declined by\ndouble digits, reflecting a broader bearish trend as the market transitions into the Fundamentals: Positive\ntraditional summer demand lull.",
       "keywords": [
         "vlcc",
         "suezmax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1677,
+      "token_count": 1679,
       "section_type": "linked_pdf",
       "children": []
     }

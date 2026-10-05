@@ -10,6 +10,7 @@ commodities:
 date: '2024-05-26'
 doc_id: hellenic_vessel_valuations_2024-05-26_2024_05_26_flange_mounted_upending_tool_fmut
 document_type: asset_valuations
+is_error_page: false
 key_entities: []
 keywords:
 - kenc
@@ -41,7 +42,7 @@ regions:
 section_count: 1
 signals: {}
 source: hellenic
-source_path: reports/hellenic/vessel_valuations/2024/2024-05-26_flange-mounted-upending-tool-fmut.html
+source_path: corpus/02-hellenic/vessel_valuations/2024/2024-05-26_flange-mounted-upending-tool-fmut.html
 source_stem: 2024-05-26_flange-mounted-upending-tool-fmut
 source_url: https://www.hellenicshippingnews.com/flange-mounted-upending-tool-fmut
 summary: 'Main

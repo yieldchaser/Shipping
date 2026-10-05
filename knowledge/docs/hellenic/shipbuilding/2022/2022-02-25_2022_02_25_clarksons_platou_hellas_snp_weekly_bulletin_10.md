@@ -7,6 +7,7 @@ commodities:
 date: '2022-02-25'
 doc_id: hellenic_shipbuilding_2022-02-25_2022_02_25_clarksons_platou_hellas_snp_weekly_bulletin_10
 document_type: shipbuilding_update
+is_error_page: false
 key_entities: []
 keywords:
 - capesize
@@ -29,47 +30,41 @@ linked_assets_skipped: 0
 market_tone: cautiously_bearish
 numeric_observation_count: 89
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: 'NEW BUILDING: In the gas carrier market, Samsung announced contracting
     four firm 174k CBM LNG Carriers for an unknown owner'
   unit: null
   values:
   - 174.0
-- &id002
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: Hellas S&P Weekly Bulletin 25 February 2022
   unit: null
   values:
   - 25.0
   - 2022.0
-- &id003
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: SS 02/25
   unit: null
   values:
   - 2.0
   - 25.0
-- &id004
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: DD 05/23
   unit: null
   values:
   - 5.0
   - 23.0
-- &id005
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: 2010 HHI
   unit: null
   values:
   - 2010.0
-- &id006
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: SS 04/25 USD 81 M
   unit: usd
@@ -77,56 +72,50 @@ numeric_observations:
   - 4.0
   - 25.0
   - 81.0
-- &id007
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: DONG-A ASTREA 179,329 MAN-B&W 6S70MC-C7.2 GREEKS
   unit: null
   values:
   - 179329.0
   - 6.0
-  - 2.0
-- &id008
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+  - 70.0
+  - 7200.0
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: DD 12/23 en bloc
   unit: null
   values:
   - 12.0
   - 23.0
-- &id009
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: SS 09/24
   unit: null
   values:
   - 9.0
   - 24.0
-- &id010
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: DONG-A EOS 2009 HHI
   unit: null
   values:
   - 2009.0
-- &id011
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: DD 08/22
   unit: null
   values:
   - 8.0
   - 22.0
-- &id012
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: SS 06/22
   unit: null
   values:
   - 6.0
   - 22.0
-- &id013
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: MINERAL BELGIUM 173,806 2005 SWS MAN-B&W 6S70MC USD 15.5 M CHINESE
   unit: usd
@@ -134,24 +123,23 @@ numeric_observations:
   - 173806.0
   - 2005.0
   - 6.0
-- &id014
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+  - 70.0
+  - 15500.0
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: DD 06/22
   unit: null
   values:
   - 6.0
   - 22.0
-- &id015
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: SS 09/25
   unit: null
   values:
   - 9.0
   - 25.0
-- &id016
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: DOUBLE FORTUNE 95,712 2010 IMABARI MAN-B&W 6S60MC-C USD 21 M U/D
   unit: usd
@@ -159,24 +147,22 @@ numeric_observations:
   - 95712.0
   - 2010.0
   - 6.0
-- &id017
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+  - 60.0
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: DD 08/23
   unit: null
   values:
   - 8.0
   - 23.0
-- &id018
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: SS 10/22
   unit: null
   values:
   - 10.0
   - 22.0
-- &id019
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: CORONA INFINITY 88,233 2002 IMABARI MAN-B&W 6S60MC HIGH USD 12 M CHINESE
   unit: usd
@@ -184,31 +170,29 @@ numeric_observations:
   - 88233.0
   - 2002.0
   - 6.0
-- &id020
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+  - 60.0
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: DD 10/22
   unit: null
   values:
   - 10.0
   - 22.0
-- &id021
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: MAN-B&W 6S50MC-C
   unit: null
   values:
   - 6.0
-- &id022
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+  - 50.0
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: SS 07/22
   unit: null
   values:
   - 7.0
   - 22.0
-- &id023
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: WP BRAVE 58,627 2012 SPP 4 x 30 T LOW USD 19 M U/D
   unit: usd
@@ -217,24 +201,21 @@ numeric_observations:
   - 2012.0
   - 4.0
   - 30.0
-- &id024
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: DD 07/22
   unit: null
   values:
   - 7.0
   - 22.0
-- &id025
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: SS 01/26
   unit: null
   values:
   - 1.0
   - 26.0
-- &id026
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: MANDARIN GRACE 56,693 2011 JIANGSU HANTONG 4 x 30 T RGN USD 17 M CHINESE
   unit: usd
@@ -243,31 +224,28 @@ numeric_observations:
   - 2011.0
   - 4.0
   - 30.0
-- &id027
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: DD 12/23
   unit: null
   values:
   - 12.0
   - 23.0
-- &id028
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: WARTSILA 6RT-FLEX50
   unit: null
   values:
   - 6.0
-- &id029
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+  - 50.0
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: SS 06/25
   unit: null
   values:
   - 6.0
   - 25.0
-- &id030
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: TTM PHOENIX 55,947 2010 IHI 4 x 30 T RGN USD 18 M U/D
   unit: usd
@@ -276,24 +254,21 @@ numeric_observations:
   - 2010.0
   - 4.0
   - 30.0
-- &id031
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: DD 07/23
   unit: null
   values:
   - 7.0
   - 23.0
-- &id032
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: SS 07/24
   unit: null
   values:
   - 7.0
   - 24.0
-- &id033
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: AWESOME ASHLEY 55,596 2011 MITSUI 4 x 30 T RGN USD 21 M U/D
   unit: usd
@@ -302,23 +277,21 @@ numeric_observations:
   - 2011.0
   - 4.0
   - 30.0
-- &id034
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: MAN-B&W 6S50MC
   unit: null
   values:
   - 6.0
-- &id035
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+  - 50.0
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: SS 05/25
   unit: null
   values:
   - 5.0
   - 25.0
-- &id036
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: HS LUCK 52,421 2002 TSUNEISHI 4 x 30 T
   unit: null
@@ -327,24 +300,22 @@ numeric_observations:
   - 2002.0
   - 4.0
   - 30.0
-- &id037
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: MAN-B&W 6S50MC-C8.1 en bloc
   unit: null
   values:
   - 6.0
-  - 1.0
-- &id038
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+  - 50.0
+  - 8100.0
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: SS 06/26
   unit: null
   values:
   - 6.0
   - 26.0
-- &id039
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: HS WINNING 51,104 2002 OSHIMA 4 x 30 T
   unit: null
@@ -353,55 +324,50 @@ numeric_observations:
   - 2002.0
   - 4.0
   - 30.0
-- &id040
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: DD 09/24
   unit: null
   values:
   - 9.0
   - 24.0
-- &id041
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: SS 01/24
   unit: null
   values:
   - 1.0
   - 24.0
-- &id042
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: WUHU 39,049 2014 CHENGXI
   unit: null
   values:
   - 39049.0
   - 2014.0
-- &id043
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: DD 01/24
   unit: null
   values:
   - 1.0
   - 24.0
-- &id044
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: WARTSILA 5RT-FLEX50
   unit: null
   values:
   - 5.0
-- &id045
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+  - 50.0
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: SS 12/23 RGN USD 22.3 M ITALIANS
   unit: usd
   values:
   - 12.0
   - 23.0
-- &id046
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+  - 22300.0
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: WUCHOW 39,090 4 x 35 T
   unit: null
@@ -409,149 +375,131 @@ numeric_observations:
   - 39090.0
   - 4.0
   - 35.0
-- &id047
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: DD 12/23 each (c/o Nova Marine)
   unit: null
   values:
   - 12.0
   - 23.0
-- &id048
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: 2013 CHENGXI
   unit: null
   values:
   - 2013.0
-- &id049
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: SS 10/23
   unit: null
   values:
   - 10.0
   - 23.0
-- &id050
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: WUCHANG 39,128
   unit: null
   values:
   - 39128.0
-- &id051
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: DD 10/23
   unit: null
   values:
   - 10.0
   - 23.0
-- &id052
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: SS 07/26
   unit: null
   values:
   - 7.0
   - 26.0
-- &id053
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: INTERLINK AUDACITY 39,100
   unit: null
   values:
   - 39100.0
-- &id054
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: DD 06/24
   unit: null
   values:
   - 6.0
   - 24.0
-- &id055
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: 2016 ZHEJIANG ZHENGZHOU
   unit: null
   values:
   - 2016.0
-- &id056
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: INTERLINK AFFINITY 39,046
   unit: null
   values:
   - 39046.0
-- &id057
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: MAN-B&W 5S50ME-B9.3 DD 05/24
   unit: null
   values:
   - 5.0
-  - 3.0
+  - 50.0
+  - 9300.0
   - 5.0
   - 24.0
-- &id058
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: 4 x 30 T U/D
   unit: null
   values:
   - 4.0
   - 30.0
-- &id059
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: BWTS fitted SS 11/26
   unit: null
   values:
   - 11.0
   - 26.0
-- &id060
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: INTERLINK UTILITY 38,706 2016 HUATAI
   unit: null
   values:
   - 38706.0
   - 2016.0
-- &id061
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: DD 11/24
   unit: null
   values:
   - 11.0
   - 24.0
-- &id062
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: INTERLINK TENACITY 38,785 2016 TAIZHOU KOUAN
   unit: null
   values:
   - 38785.0
   - 2016.0
-- &id063
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: DD 03/24
   unit: null
   values:
   - 3.0
   - 24.0
-- &id064
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: MAN-B&W 6S46MC-C
   unit: null
   values:
   - 6.0
-  - 6.0
-- &id065
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+  - 46.0
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: SUPERNOVA 36,367 2012 SHIKOKU 4 x 30 T RGN USD 20.5 M U/D
   unit: usd
@@ -560,24 +508,22 @@ numeric_observations:
   - 2012.0
   - 4.0
   - 30.0
-- &id066
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+  - 20500.0
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: Page 1 of 3
   unit: null
   values:
   - 1.0
   - 3.0
-- &id067
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: SS 08/22
   unit: null
   values:
   - 8.0
   - 22.0
-- &id068
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: ERVIKEN 152,013 2004 SAMSUNG MAN-B&W 6S70ME-C RGN USD 15 M U/D
   unit: usd
@@ -585,16 +531,15 @@ numeric_observations:
   - 152013.0
   - 2004.0
   - 6.0
-- &id069
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+  - 70.0
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: SS 08/23
   unit: null
   values:
   - 8.0
   - 23.0
-- &id070
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: NORD SNOW QUEEN 38,289 2008 GSI MAN-B&W 6S50MC-C USD 9.8 M GREEKS
   unit: usd
@@ -602,16 +547,16 @@ numeric_observations:
   - 38289.0
   - 2008.0
   - 6.0
-- &id071
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+  - 50.0
+  - 9800.0
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: In the gas carrier market, Samsung announced contracting four firm
     174k CBM LNG Carriers for an unknown owner, with deliveries set to run from
   unit: null
   values:
   - 174.0
-- &id072
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: 1Q 2025 through to September 2025. Hyundai Glovis announced ordering
     a firm 174k CBM LNG Carrier at Hyundai Samho, with delivery expected
@@ -621,46 +566,40 @@ numeric_observations:
   - 2025.0
   - 2025.0
   - 174.0
-- &id073
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: within August 2024. Nantong CIMC SOE revealed orders for two firm plus
     one optional 7.6k CBM LNG Bunkering vessels for Seaspan Marine, with
   unit: null
   values:
   - 2024.0
-  - 7.6
-- &id074
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+  - 7600.0
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: delivery of the firm vessels slated for 2024.
   unit: null
   values:
   - 2024.0
-- &id075
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: In containers, CSSC Shanghai Waigaoqiao announced taking orders for
     two firm 7,000TEU Containerships for CU Lines, with delivery of the vessels
   unit: null
   values:
   - 7000.0
-- &id076
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: expected within the first half of 2025.
   unit: null
   values:
   - 2025.0
-- &id077
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: USD 650 / LDT
   unit: usd
   values:
   - 650.0
-- &id078
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: HARMONY 35,966 1999 S KOREA 8,356 LDT (200mt IFO and 40mt "As-Is" COLOMBO
   unit: tonnage
@@ -670,16 +609,14 @@ numeric_observations:
   - 8356.0
   - 200.0
   - 40.0
-- &id079
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: Page 2 of 3
   unit: null
   values:
   - 2.0
   - 3.0
-- &id080
-  section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+- section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
   section_type: linked_pdf
   source_line: BDI 2076 - 111 EURO/USD 1.12075 BUNKERS ROTTERDAM SPORE FUJAIRAH
   unit: usd
@@ -714,7 +651,7 @@ numeric_observations:
   values:
   - 2417.0
   - 2.0
-  - 98.11
+  - 98110.0
   - 380.0
   - 554.5
   - 547.0
@@ -781,88 +718,589 @@ section_count: 2
 signals:
   numeric_observation_count: 89
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
-  - *id070
-  - *id071
-  - *id072
-  - *id073
-  - *id074
-  - *id075
-  - *id076
-  - *id077
-  - *id078
-  - *id079
-  - *id080
+  - section: Main
+    section_type: null
+    source_line: 'NEW BUILDING: In the gas carrier market, Samsung announced contracting
+      four firm 174k CBM LNG Carriers for an unknown owner'
+    unit: null
+    values:
+    - 174.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: Hellas S&P Weekly Bulletin 25 February 2022
+    unit: null
+    values:
+    - 25.0
+    - 2022.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: SS 02/25
+    unit: null
+    values:
+    - 2.0
+    - 25.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: DD 05/23
+    unit: null
+    values:
+    - 5.0
+    - 23.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: 2010 HHI
+    unit: null
+    values:
+    - 2010.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: SS 04/25 USD 81 M
+    unit: usd
+    values:
+    - 4.0
+    - 25.0
+    - 81.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: DONG-A ASTREA 179,329 MAN-B&W 6S70MC-C7.2 GREEKS
+    unit: null
+    values:
+    - 179329.0
+    - 6.0
+    - 2.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: DD 12/23 en bloc
+    unit: null
+    values:
+    - 12.0
+    - 23.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: SS 09/24
+    unit: null
+    values:
+    - 9.0
+    - 24.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: DONG-A EOS 2009 HHI
+    unit: null
+    values:
+    - 2009.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: DD 08/22
+    unit: null
+    values:
+    - 8.0
+    - 22.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: SS 06/22
+    unit: null
+    values:
+    - 6.0
+    - 22.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: MINERAL BELGIUM 173,806 2005 SWS MAN-B&W 6S70MC USD 15.5 M CHINESE
+    unit: usd
+    values:
+    - 173806.0
+    - 2005.0
+    - 6.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: DD 06/22
+    unit: null
+    values:
+    - 6.0
+    - 22.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: SS 09/25
+    unit: null
+    values:
+    - 9.0
+    - 25.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: DOUBLE FORTUNE 95,712 2010 IMABARI MAN-B&W 6S60MC-C USD 21 M U/D
+    unit: usd
+    values:
+    - 95712.0
+    - 2010.0
+    - 6.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: DD 08/23
+    unit: null
+    values:
+    - 8.0
+    - 23.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: SS 10/22
+    unit: null
+    values:
+    - 10.0
+    - 22.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: CORONA INFINITY 88,233 2002 IMABARI MAN-B&W 6S60MC HIGH USD 12 M
+      CHINESE
+    unit: usd
+    values:
+    - 88233.0
+    - 2002.0
+    - 6.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: DD 10/22
+    unit: null
+    values:
+    - 10.0
+    - 22.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: MAN-B&W 6S50MC-C
+    unit: null
+    values:
+    - 6.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: SS 07/22
+    unit: null
+    values:
+    - 7.0
+    - 22.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: WP BRAVE 58,627 2012 SPP 4 x 30 T LOW USD 19 M U/D
+    unit: usd
+    values:
+    - 58627.0
+    - 2012.0
+    - 4.0
+    - 30.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: DD 07/22
+    unit: null
+    values:
+    - 7.0
+    - 22.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: SS 01/26
+    unit: null
+    values:
+    - 1.0
+    - 26.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: MANDARIN GRACE 56,693 2011 JIANGSU HANTONG 4 x 30 T RGN USD 17 M
+      CHINESE
+    unit: usd
+    values:
+    - 56693.0
+    - 2011.0
+    - 4.0
+    - 30.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: DD 12/23
+    unit: null
+    values:
+    - 12.0
+    - 23.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: WARTSILA 6RT-FLEX50
+    unit: null
+    values:
+    - 6.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: SS 06/25
+    unit: null
+    values:
+    - 6.0
+    - 25.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: TTM PHOENIX 55,947 2010 IHI 4 x 30 T RGN USD 18 M U/D
+    unit: usd
+    values:
+    - 55947.0
+    - 2010.0
+    - 4.0
+    - 30.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: DD 07/23
+    unit: null
+    values:
+    - 7.0
+    - 23.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: SS 07/24
+    unit: null
+    values:
+    - 7.0
+    - 24.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: AWESOME ASHLEY 55,596 2011 MITSUI 4 x 30 T RGN USD 21 M U/D
+    unit: usd
+    values:
+    - 55596.0
+    - 2011.0
+    - 4.0
+    - 30.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: MAN-B&W 6S50MC
+    unit: null
+    values:
+    - 6.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: SS 05/25
+    unit: null
+    values:
+    - 5.0
+    - 25.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: HS LUCK 52,421 2002 TSUNEISHI 4 x 30 T
+    unit: null
+    values:
+    - 52421.0
+    - 2002.0
+    - 4.0
+    - 30.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: MAN-B&W 6S50MC-C8.1 en bloc
+    unit: null
+    values:
+    - 6.0
+    - 1.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: SS 06/26
+    unit: null
+    values:
+    - 6.0
+    - 26.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: HS WINNING 51,104 2002 OSHIMA 4 x 30 T
+    unit: null
+    values:
+    - 51104.0
+    - 2002.0
+    - 4.0
+    - 30.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: DD 09/24
+    unit: null
+    values:
+    - 9.0
+    - 24.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: SS 01/24
+    unit: null
+    values:
+    - 1.0
+    - 24.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: WUHU 39,049 2014 CHENGXI
+    unit: null
+    values:
+    - 39049.0
+    - 2014.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: DD 01/24
+    unit: null
+    values:
+    - 1.0
+    - 24.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: WARTSILA 5RT-FLEX50
+    unit: null
+    values:
+    - 5.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: SS 12/23 RGN USD 22.3 M ITALIANS
+    unit: usd
+    values:
+    - 12.0
+    - 23.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: WUCHOW 39,090 4 x 35 T
+    unit: null
+    values:
+    - 39090.0
+    - 4.0
+    - 35.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: DD 12/23 each (c/o Nova Marine)
+    unit: null
+    values:
+    - 12.0
+    - 23.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: 2013 CHENGXI
+    unit: null
+    values:
+    - 2013.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: SS 10/23
+    unit: null
+    values:
+    - 10.0
+    - 23.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: WUCHANG 39,128
+    unit: null
+    values:
+    - 39128.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: DD 10/23
+    unit: null
+    values:
+    - 10.0
+    - 23.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: SS 07/26
+    unit: null
+    values:
+    - 7.0
+    - 26.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: INTERLINK AUDACITY 39,100
+    unit: null
+    values:
+    - 39100.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: DD 06/24
+    unit: null
+    values:
+    - 6.0
+    - 24.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: 2016 ZHEJIANG ZHENGZHOU
+    unit: null
+    values:
+    - 2016.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: INTERLINK AFFINITY 39,046
+    unit: null
+    values:
+    - 39046.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: MAN-B&W 5S50ME-B9.3 DD 05/24
+    unit: null
+    values:
+    - 5.0
+    - 3.0
+    - 5.0
+    - 24.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: 4 x 30 T U/D
+    unit: null
+    values:
+    - 4.0
+    - 30.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: BWTS fitted SS 11/26
+    unit: null
+    values:
+    - 11.0
+    - 26.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: INTERLINK UTILITY 38,706 2016 HUATAI
+    unit: null
+    values:
+    - 38706.0
+    - 2016.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: DD 11/24
+    unit: null
+    values:
+    - 11.0
+    - 24.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: INTERLINK TENACITY 38,785 2016 TAIZHOU KOUAN
+    unit: null
+    values:
+    - 38785.0
+    - 2016.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: DD 03/24
+    unit: null
+    values:
+    - 3.0
+    - 24.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: MAN-B&W 6S46MC-C
+    unit: null
+    values:
+    - 6.0
+    - 6.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: SUPERNOVA 36,367 2012 SHIKOKU 4 x 30 T RGN USD 20.5 M U/D
+    unit: usd
+    values:
+    - 36367.0
+    - 2012.0
+    - 4.0
+    - 30.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: Page 1 of 3
+    unit: null
+    values:
+    - 1.0
+    - 3.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: SS 08/22
+    unit: null
+    values:
+    - 8.0
+    - 22.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: ERVIKEN 152,013 2004 SAMSUNG MAN-B&W 6S70ME-C RGN USD 15 M U/D
+    unit: usd
+    values:
+    - 152013.0
+    - 2004.0
+    - 6.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: SS 08/23
+    unit: null
+    values:
+    - 8.0
+    - 23.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: NORD SNOW QUEEN 38,289 2008 GSI MAN-B&W 6S50MC-C USD 9.8 M GREEKS
+    unit: usd
+    values:
+    - 38289.0
+    - 2008.0
+    - 6.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: In the gas carrier market, Samsung announced contracting four firm
+      174k CBM LNG Carriers for an unknown owner, with deliveries set to run from
+    unit: null
+    values:
+    - 174.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: 1Q 2025 through to September 2025. Hyundai Glovis announced ordering
+      a firm 174k CBM LNG Carrier at Hyundai Samho, with delivery expected
+    unit: null
+    values:
+    - 1.0
+    - 2025.0
+    - 2025.0
+    - 174.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: within August 2024. Nantong CIMC SOE revealed orders for two firm
+      plus one optional 7.6k CBM LNG Bunkering vessels for Seaspan Marine, with
+    unit: null
+    values:
+    - 2024.0
+    - 7.6
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: delivery of the firm vessels slated for 2024.
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: In containers, CSSC Shanghai Waigaoqiao announced taking orders for
+      two firm 7,000TEU Containerships for CU Lines, with delivery of the vessels
+    unit: null
+    values:
+    - 7000.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: expected within the first half of 2025.
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: USD 650 / LDT
+    unit: usd
+    values:
+    - 650.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: HARMONY 35,966 1999 S KOREA 8,356 LDT (200mt IFO and 40mt "As-Is"
+      COLOMBO
+    unit: tonnage
+    values:
+    - 35966.0
+    - 1999.0
+    - 8356.0
+    - 200.0
+    - 40.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: Page 2 of 3
+    unit: null
+    values:
+    - 2.0
+    - 3.0
+  - section: 'Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf'
+    section_type: linked_pdf
+    source_line: BDI 2076 - 111 EURO/USD 1.12075 BUNKERS ROTTERDAM SPORE FUJAIRAH
+    unit: usd
+    values:
+    - 2076.0
+    - 111.0
+    - 1.12075
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2022/2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10.html
+source_path: corpus/02-hellenic/shipbuilding/2022/2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10.html
 source_stem: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10
 source_url: https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-10
 summary: 'Main
@@ -1020,7 +1458,7 @@ NEW BUILDING: In the gas carrier market, Samsung announced contracting four firm
 Source: Clarkson Platou (Hellas) ltd
 
 ## Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf
-Source asset: reports/hellenic/shipbuilding/pdfs/2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf
+Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf
 
 [Page 1]
 `

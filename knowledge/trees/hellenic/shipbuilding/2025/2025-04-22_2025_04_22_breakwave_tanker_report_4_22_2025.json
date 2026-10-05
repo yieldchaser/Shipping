@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1779,
-  "source_path": "reports/hellenic/shipbuilding/2025/2025-04-22_breakwave-tanker-report-4-22-2025.html",
+  "token_count": 1781,
+  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-04-22_breakwave-tanker-report-4-22-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-4-22-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-04-22_breakwave-tanker-report-4-22-2025_breakwavetankersapril222025report_0590086c2b8c.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-04-22_breakwave-tanker-report-4-22-2025_breakwavetankersapril222025report_0590086c2b8c.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nApril 22, 2025\n• Spot VLCC Rate Jump as Uncertainty Increases - In the lead-up to Easter Short-term Indicators\nholidays, VLCC spot freight rates on the Middle East Gulf - China route experienced\nMomentum: Neutral\na notable firming trend, with rates rising sharply on April 17 to one-month highs. This\nSentiment: Neutral\ntightening in the freight market was driven by a combination of pre-holiday cargo\nFundamentals: Positive\ndemand and speculative activity linked to renewed U.S.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-04-22_breakwave-tanker-report-4-22-2025_breakwavetankersapril222025report_0590086c2b8c.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nApril 22, 2025\n• Spot VLCC Rate Jump as Uncertainty Increases - In the lead-up to Easter Short-term Indicators\nholidays, VLCC spot freight rates on the Middle East Gulf - China route experienced\nMomentum: Neutral\na notable firming trend, with rates rising sharply on April 17 to one-month highs. This\nSentiment: Neutral\ntightening in the freight market was driven by a combination of pre-holiday cargo\nFundamentals: Positive\ndemand and speculative activity linked to renewed U.S.",
       "keywords": [
         "vlcc",
         "suezmax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1696,
+      "token_count": 1698,
       "section_type": "linked_pdf",
       "children": []
     }

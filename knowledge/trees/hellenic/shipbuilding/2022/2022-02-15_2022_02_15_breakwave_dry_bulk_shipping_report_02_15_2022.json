@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1508,
-  "source_path": "reports/hellenic/shipbuilding/2022/2022-02-15_breakwave-dry-bulk-shipping-report-02-15-2022.html",
+  "token_count": 1510,
+  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-02-15_breakwave-dry-bulk-shipping-report-02-15-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-02-15-2022",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-02-15_breakwave-dry-bulk-shipping-report-02-15-2022_breakwavefebruary152022report_6500060223ae.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-02-15_breakwave-dry-bulk-shipping-report-02-15-2022_breakwavefebruary152022report_6500060223ae.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nFebruary 15, 2022\nBreakwave Dry Futures Index: 2,451 Baltic Dry Index (spot): 1,984 Short-term Indicators:\n↑ 30D: 26.6% ↑ 30D: 12.5% Momentum: Positive\n↑ YTD: 17.0% ↓ YTD: -10.5% Sentiment: Positive\n↑ YOY: 70.7% ↑ YOY: 48.2% Fundamentals: Neutral\nBi-Weekly Report\n• Too fast-too high, as Capesize rates take a breather - During the past two weeks the Capesize market came back\nto life, with the Atlantic market leading the way on the back of strong West Africa activity and some decent demand\nfor N. Still, the market is lagging Brazilian iron ore, and although sentiment has firmed\nquite a bit as evident by the steep contango in the futures market, more needs to fundamentally be done in the\nsupply/demand balance for rates to move further up.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-02-15_breakwave-dry-bulk-shipping-report-02-15-2022_breakwavefebruary152022report_6500060223ae.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nFebruary 15, 2022\nBreakwave Dry Futures Index: 2,451 Baltic Dry Index (spot): 1,984 Short-term Indicators:\n↑ 30D: 26.6% ↑ 30D: 12.5% Momentum: Positive\n↑ YTD: 17.0% ↓ YTD: -10.5% Sentiment: Positive\n↑ YOY: 70.7% ↑ YOY: 48.2% Fundamentals: Neutral\nBi-Weekly Report\n• Too fast-too high, as Capesize rates take a breather - During the past two weeks the Capesize market came back\nto life, with the Atlantic market leading the way on the back of strong West Africa activity and some decent demand\nfor N. Still, the market is lagging Brazilian iron ore, and although sentiment has firmed\nquite a bit as evident by the steep contango in the futures market, more needs to fundamentally be done in the\nsupply/demand balance for rates to move further up.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1425,
+      "token_count": 1427,
       "section_type": "linked_pdf",
       "children": []
     }

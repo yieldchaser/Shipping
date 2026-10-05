@@ -6,6 +6,7 @@ commodities:
 date: '2023-12-22'
 doc_id: hellenic_shipbuilding_2023-12-22_2023_12_22_clarksons_platou_hellas_snp_weekly_bulletin_101
 document_type: shipbuilding_update
+is_error_page: false
 key_entities: []
 keywords:
 - capesize
@@ -28,8 +29,7 @@ linked_assets_skipped: 0
 market_tone: neutral
 numeric_observation_count: 23
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: New building in tankers this week, clients of Performance shipping
     announced contracting two firm 115k dwt LR2s at SWS, with the vessels set for
@@ -37,66 +37,61 @@ numeric_observations:
   unit: null
   values:
   - 115.0
+  - 2.0
   - 2026.0
-- &id002
-  section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+- section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
   section_type: linked_pdf
   source_line: Clarksons Hellas Weekly Bulletin 22nd December 2023
   unit: null
   values:
   - 22.0
   - 2023.0
-- &id003
-  section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+- section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
   section_type: linked_pdf
   source_line: 2004 IWAGI MAN B. & W. 6S50MC-C8.1 SS 09/27
   unit: null
   values:
   - 2004.0
   - 6.0
-  - 1.0
+  - 50.0
+  - 8100.0
   - 9.0
   - 27.0
-- &id004
-  section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+- section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
   section_type: linked_pdf
   source_line: JAG PRABHA 47,999 CIRCA USD 15 M U/D
   unit: usd
   values:
   - 47999.0
-- &id005
-  section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+- section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
   section_type: linked_pdf
   source_line: ZOSEN BWTS fitted DD 09/25
   unit: null
   values:
   - 9.0
   - 25.0
-- &id006
-  section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+- section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
   section_type: linked_pdf
   source_line: In tankers this week, clients of Performance shipping announced contracting
     two firm 115k dwt LR2s at SWS, with the vessels
   unit: null
   values:
   - 115.0
-- &id007
-  section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+  - 2.0
+- section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
   section_type: linked_pdf
   source_line: set for delivery in January and April 2026.
   unit: null
   values:
   - 2026.0
-- &id008
-  section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+- section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
   section_type: linked_pdf
   source_line: In dry bulk, MOL announced contracting three firm LNG dual fuel 210k
     dwt Newcastlemaxes at Qingdao Beihai, with the
   unit: null
   values:
   - 210.0
-- &id009
-  section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+- section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
   section_type: linked_pdf
   source_line: vessels set to deliver in 2027. MOL also announced ordering two firm
     LNG dual fuel 209k dwt Newcastlemaxes at Nihon
@@ -104,15 +99,13 @@ numeric_observations:
   values:
   - 2027.0
   - 209.0
-- &id010
-  section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+- section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
   section_type: linked_pdf
   source_line: Shipyard (NSY), with the vessels slated for delivery in 2026.
   unit: null
   values:
   - 2026.0
-- &id011
-  section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+- section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
   section_type: linked_pdf
   source_line: Finally, in MPPs, Seacon Shipping announced orders for four firm 62k
     dwt, 660 TEU MPP's at Huanghai, with the vessels set to
@@ -120,31 +113,27 @@ numeric_observations:
   values:
   - 62.0
   - 660.0
-- &id012
-  section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+- section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
   section_type: linked_pdf
   source_line: deliver within 2H 2025.
   unit: null
   values:
   - 2.0
   - 2025.0
-- &id013
-  section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+- section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
   section_type: linked_pdf
   source_line: Sale & Purchase | Clarksons Hellas Weekly Bulletin | 22nd Dec. 23
   unit: null
   values:
   - 22.0
   - 23.0
-- &id014
-  section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+- section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
   section_type: linked_pdf
   source_line: Christmas and continued success in 2024.
   unit: null
   values:
   - 2024.0
-- &id015
-  section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+- section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
   section_type: linked_pdf
   source_line: BDI 2094 + 7 Euro/USD 1.0970 BUNKERS ROTTERDAM SPORE FUJAIRAH
   unit: usd
@@ -152,8 +141,7 @@ numeric_observations:
   - 2094.0
   - 7.0
   - 1.097
-- &id016
-  section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+- section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
   section_type: linked_pdf
   source_line: BCI 3398 + 37 YEN/USD 0.0070 VLSFO 555.50 614.00 623.50
   unit: usd
@@ -163,8 +151,7 @@ numeric_observations:
   - 555.5
   - 614.0
   - 623.5
-- &id017
-  section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+- section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
   section_type: linked_pdf
   source_line: BPI 1909 - 6 Brent (USD) MGO 767.00 768.00 915.00
   unit: usd
@@ -174,8 +161,7 @@ numeric_observations:
   - 767.0
   - 768.0
   - 915.0
-- &id018
-  section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+- section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
   section_type: linked_pdf
   source_line: BSI 1369 - 9 IFO 380 460.00 466.00 406.00
   unit: null
@@ -186,16 +172,14 @@ numeric_observations:
   - 460.0
   - 466.0
   - 406.0
-- &id019
-  section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+- section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
   section_type: linked_pdf
   source_line: BHSI 879 - 9
   unit: null
   values:
   - 879.0
   - 9.0
-- &id020
-  section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+- section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
   section_type: linked_pdf
   source_line: 'Clarkson Hellas Ltd 62 ("Clarksons") for general information purposes.
     The Information is drawn from Clarksons'' database and other sources. Clarksons
@@ -203,8 +187,7 @@ numeric_observations:
   unit: null
   values:
   - 62.0
-- &id021
-  section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+- section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
   section_type: linked_pdf
   source_line: 151 25 intended to recommend any decision by the recipient; (vi) shipping
     is a variable and cyclical business and any forecasting concerning it may not
@@ -213,8 +196,7 @@ numeric_observations:
   values:
   - 151.0
   - 25.0
-- &id022
-  section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+- section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
   section_type: linked_pdf
   source_line: Direct +(30) 210 458 6700 without limitation, direct, indirect, consequential
     loss or damage, any loss of profit, loss of use, loss of or interruption in business,
@@ -225,8 +207,7 @@ numeric_observations:
   - 210.0
   - 458.0
   - 6700.0
-- &id023
-  section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+- section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
   section_type: linked_pdf
   source_line: Fax +(30) 210 458 6799
   unit: null
@@ -244,31 +225,192 @@ section_count: 2
 signals:
   numeric_observation_count: 23
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
+  - section: Main
+    section_type: null
+    source_line: New building in tankers this week, clients of Performance shipping
+      announced contracting two firm 115k dwt LR2s at SWS, with the vessels set for
+      delivery in January and April 2026.
+    unit: null
+    values:
+    - 115.0
+    - 2026.0
+  - section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+    section_type: linked_pdf
+    source_line: Clarksons Hellas Weekly Bulletin 22nd December 2023
+    unit: null
+    values:
+    - 22.0
+    - 2023.0
+  - section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+    section_type: linked_pdf
+    source_line: 2004 IWAGI MAN B. & W. 6S50MC-C8.1 SS 09/27
+    unit: null
+    values:
+    - 2004.0
+    - 6.0
+    - 1.0
+    - 9.0
+    - 27.0
+  - section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+    section_type: linked_pdf
+    source_line: JAG PRABHA 47,999 CIRCA USD 15 M U/D
+    unit: usd
+    values:
+    - 47999.0
+  - section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+    section_type: linked_pdf
+    source_line: ZOSEN BWTS fitted DD 09/25
+    unit: null
+    values:
+    - 9.0
+    - 25.0
+  - section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+    section_type: linked_pdf
+    source_line: In tankers this week, clients of Performance shipping announced contracting
+      two firm 115k dwt LR2s at SWS, with the vessels
+    unit: null
+    values:
+    - 115.0
+  - section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+    section_type: linked_pdf
+    source_line: set for delivery in January and April 2026.
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+    section_type: linked_pdf
+    source_line: In dry bulk, MOL announced contracting three firm LNG dual fuel 210k
+      dwt Newcastlemaxes at Qingdao Beihai, with the
+    unit: null
+    values:
+    - 210.0
+  - section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+    section_type: linked_pdf
+    source_line: vessels set to deliver in 2027. MOL also announced ordering two firm
+      LNG dual fuel 209k dwt Newcastlemaxes at Nihon
+    unit: null
+    values:
+    - 2027.0
+    - 209.0
+  - section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+    section_type: linked_pdf
+    source_line: Shipyard (NSY), with the vessels slated for delivery in 2026.
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+    section_type: linked_pdf
+    source_line: Finally, in MPPs, Seacon Shipping announced orders for four firm
+      62k dwt, 660 TEU MPP's at Huanghai, with the vessels set to
+    unit: null
+    values:
+    - 62.0
+    - 660.0
+  - section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+    section_type: linked_pdf
+    source_line: deliver within 2H 2025.
+    unit: null
+    values:
+    - 2.0
+    - 2025.0
+  - section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+    section_type: linked_pdf
+    source_line: Sale & Purchase | Clarksons Hellas Weekly Bulletin | 22nd Dec. 23
+    unit: null
+    values:
+    - 22.0
+    - 23.0
+  - section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+    section_type: linked_pdf
+    source_line: Christmas and continued success in 2024.
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+    section_type: linked_pdf
+    source_line: BDI 2094 + 7 Euro/USD 1.0970 BUNKERS ROTTERDAM SPORE FUJAIRAH
+    unit: usd
+    values:
+    - 2094.0
+    - 7.0
+    - 1.097
+  - section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+    section_type: linked_pdf
+    source_line: BCI 3398 + 37 YEN/USD 0.0070 VLSFO 555.50 614.00 623.50
+    unit: usd
+    values:
+    - 3398.0
+    - 37.0
+    - 555.5
+    - 614.0
+    - 623.5
+  - section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+    section_type: linked_pdf
+    source_line: BPI 1909 - 6 Brent (USD) MGO 767.00 768.00 915.00
+    unit: usd
+    values:
+    - 1909.0
+    - 6.0
+    - 767.0
+    - 768.0
+    - 915.0
+  - section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+    section_type: linked_pdf
+    source_line: BSI 1369 - 9 IFO 380 460.00 466.00 406.00
+    unit: null
+    values:
+    - 1369.0
+    - 9.0
+    - 380.0
+    - 460.0
+    - 466.0
+    - 406.0
+  - section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+    section_type: linked_pdf
+    source_line: BHSI 879 - 9
+    unit: null
+    values:
+    - 879.0
+    - 9.0
+  - section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+    section_type: linked_pdf
+    source_line: 'Clarkson Hellas Ltd 62 ("Clarksons") for general information purposes.
+      The Information is drawn from Clarksons'' database and other sources. Clarksons
+      advises that: (i) any Information extracted from'
+    unit: null
+    values:
+    - 62.0
+  - section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+    section_type: linked_pdf
+    source_line: 151 25 intended to recommend any decision by the recipient; (vi)
+      shipping is a variable and cyclical business and any forecasting concerning
+      it may not be accurate. The Information is
+    unit: null
+    values:
+    - 151.0
+    - 25.0
+  - section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+    section_type: linked_pdf
+    source_line: Direct +(30) 210 458 6700 without limitation, direct, indirect, consequential
+      loss or damage, any loss of profit, loss of use, loss of or interruption in
+      business, loss of goodwill, loss of data arising out of, or in
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6700.0
+  - section: 'Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf'
+    section_type: linked_pdf
+    source_line: Fax +(30) 210 458 6799
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6799.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2023/2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101.html
+source_path: corpus/02-hellenic/shipbuilding/2023/2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101.html
 source_stem: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101
 source_url: https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-101
 summary: 'Main
@@ -359,7 +501,7 @@ New building in tankers this week, clients of Performance shipping announced con
 Source: Clarkson Platou (Hellas) ltd
 
 ## Linked asset: 2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf
-Source asset: reports/hellenic/shipbuilding/pdfs/2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf
+Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf
 
 [Page 1]
 Clarksons Hellas Weekly Bulletin 22nd December 2023

@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1895,
-  "source_path": "reports/hellenic/shipbuilding/2021/2021-08-13_clarkson-platou-hellas-sp-weekly-bulletin-113.html",
+  "token_count": 1897,
+  "source_path": "corpus/02-hellenic/shipbuilding/2021/2021-08-13_clarkson-platou-hellas-sp-weekly-bulletin-113.html",
   "source_url": "https://www.hellenicshippingnews.com/clarkson-platou-hellas-sp-weekly-bulletin-113",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2021-08-13_clarkson-platou-hellas-sp-weekly-bulletin-113_report-13-08-2021_c95b952dce07.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2021-08-13_clarkson-platou-hellas-sp-weekly-bulletin-113_report-13-08-2021_c95b952dce07.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 13 August 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 6S50MC-C8 SS 01/23\nSANTA BARBARA 61,381 2013 IWAGI MID USD 24 M U/D\nBWTS fitted DD 01/23\nSS 02/23\nADITYA 55,496 2008 OSHIMA MAN-B&W 6S50MC-C8.1 MID USD 16 M NORWEGIANS\nDD 02/23\nSS 03/22 HK BASED\nMARATHA PROMISE 37,187 2012 SAIKI MITSUBISHI 6UEC45LSE MID USD 16 M\nDD 03/22 (c/o Taylor Maritime)\nMAN-B&W 6S46MC-C7.2 SS 05/23\nORIENT GLORY 32,419 2013 SAMHO LOW USD 15 M GREEKS\nBWTS fitted DD 05/23\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 04/23\nMAYA-VN 318,778 2003 HYUNDAI SAMHO MAN-B&W 6S90MC-C USD 27M CHINESE\nDD 08/21\nSS 01/23\nMAERSK ERIK 40,083 2008 SLS MAN-B&W 6S50MC6.1 RGN USD 12 M EUROPEANS\nDD 01/23\nPage 1 of 3\n\n[Page 2]\nSale and Purchase\nHellas S&P Weekly Bulletin 13 August 2021\nNEW BUILDING\nIn the container market, it is being reported that Shanghai Zhonggu Logistics have declared two optional gearless 4,600 TEU domestic trading\nboxships at CMJL Nanjing, with delivery of both ve",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-08-13_clarkson-platou-hellas-sp-weekly-bulletin-113_report-13-08-2021_c95b952dce07.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 13 August 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 6S50MC-C8 SS 01/23\nSANTA BARBARA 61,381 2013 IWAGI MID USD 24 M U/D\nBWTS fitted DD 01/23\nSS 02/23\nADITYA 55,496 2008 OSHIMA MAN-B&W 6S50MC-C8.1 MID USD 16 M NORWEGIANS\nDD 02/23\nSS 03/22 HK BASED\nMARATHA PROMISE 37,187 2012 SAIKI MITSUBISHI 6UEC45LSE MID USD 16 M\nDD 03/22 (c/o Taylor Maritime)\nMAN-B&W 6S46MC-C7.2 SS 05/23\nORIENT GLORY 32,419 2013 SAMHO LOW USD 15 M GREEKS\nBWTS fitted DD 05/23\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 04/23\nMAYA-VN 318,778 2003 HYUNDAI SAMHO MAN-B&W 6S90MC-C USD 27M CHINESE\nDD 08/21\nSS 01/23\nMAERSK ERIK 40,083 2008 SLS MAN-B&W 6S50MC6.1 RGN USD 12 M EUROPEANS\nDD 01/23\nPage 1 of 3\n\n[Page 2]\nSale and Purchase\nHellas S&P Weekly Bulletin 13 August 2021\nNEW BUILDING\nIn the container market, it is being reported that Shanghai Zhonggu Logistics have declared two optional gearless 4,600 TEU domestic trading\nboxships at CMJL Nanjing, with delivery of both ",
       "keywords": [
         "lng",
         "lpg",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1813,
+      "token_count": 1815,
       "section_type": "linked_pdf",
       "children": []
     }

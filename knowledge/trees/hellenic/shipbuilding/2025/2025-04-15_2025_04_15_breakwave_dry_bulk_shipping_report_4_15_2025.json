@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1743,
-  "source_path": "reports/hellenic/shipbuilding/2025/2025-04-15_breakwave-dry-bulk-shipping-report-4-15-2025.html",
+  "token_count": 1745,
+  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-04-15_breakwave-dry-bulk-shipping-report-4-15-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-4-15-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-04-15_breakwave-dry-bulk-shipping-report-4-15-2025_breakwavedryapril152025report_8eacda7d289e.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-04-15_breakwave-dry-bulk-shipping-report-4-15-2025_breakwavedryapril152025report_8eacda7d289e.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nApril 15, 2025\n• Global Market Turmoil Sours Dry Bulk Sentiment - Following the recent tariff Short-term Indicators\nannouncements by the U.S. administration and the resulting volatility in global\nMomentum: Negative\nmarkets, sentiment in the dry bulk sector has also been affected, leading to a\nSentiment: Positive\nsoftening in spot rates-most notably in the key Capesize segment.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-04-15_breakwave-dry-bulk-shipping-report-4-15-2025_breakwavedryapril152025report_8eacda7d289e.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nApril 15, 2025\n• Global Market Turmoil Sours Dry Bulk Sentiment - Following the recent tariff Short-term Indicators\nannouncements by the U.S. administration and the resulting volatility in global\nMomentum: Negative\nmarkets, sentiment in the dry bulk sector has also been affected, leading to a\nSentiment: Positive\nsoftening in spot rates-most notably in the key Capesize segment.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1663,
+      "token_count": 1665,
       "section_type": "linked_pdf",
       "children": []
     }

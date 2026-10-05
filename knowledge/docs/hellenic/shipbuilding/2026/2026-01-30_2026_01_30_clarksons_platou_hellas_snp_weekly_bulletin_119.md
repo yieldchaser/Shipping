@@ -4,6 +4,7 @@ commodities: []
 date: '2026-01-30'
 doc_id: hellenic_shipbuilding_2026-01-30_2026_01_30_clarksons_platou_hellas_snp_weekly_bulletin_119
 document_type: shipbuilding_update
+is_error_page: false
 key_entities: []
 keywords:
 - panamax
@@ -24,10 +25,9 @@ linked_assets_ingested: 1
 linked_assets_mirrored: 1
 linked_assets_skipped: 0
 market_tone: constructive
-numeric_observation_count: 22
+numeric_observation_count: 24
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: On the gearless segment a couple of Kamsarmaxes have been sold. The
     RIZE (ABT 81K DWT, 2012, HYUNDAI MIPO) at circa USD 17.5m, and a 20-year-old Japanese
@@ -36,10 +36,10 @@ numeric_observations:
   values:
   - 81.0
   - 2012.0
+  - 17500.0
   - 20.0
   - 10.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: On the Panamax front, the GLOBAL BONANZA (ABT 75K DWT, 2011, SASEBO)
     sold at USD 15.3 m to Greek interests, basis surveys due. We are hearing that
@@ -48,9 +48,10 @@ numeric_observations:
   values:
   - 75.0
   - 2011.0
+  - 15300.0
   - 2006.0
-- &id003
-  section: Main
+  - 9700.0
+- section: Main
   section_type: null
   source_line: Meanwhile, the Ultramax MITSOS (ABT 63K DWT, 2013, CHENGXI) was acquired
     by Greek interests for USD 20.5m.
@@ -58,8 +59,8 @@ numeric_observations:
   values:
   - 63.0
   - 2013.0
-- &id004
-  section: Main
+  - 20500.0
+- section: Main
   section_type: null
   source_line: Following the numerous VLCCs sales of the past few weeks, another vintage
     ship has been reported sold, namely the DHT BAUHINIA (ABT 301K DWT, 2007, DAEWOO)
@@ -68,9 +69,8 @@ numeric_observations:
   values:
   - 301.0
   - 2007.0
-  - 51.5
-- &id005
-  section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+  - 51500.0
+- section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
   section_type: linked_pdf
   source_line: On the gearless segment a couple of Kamsarmaxes have been sold. The
     RIZE (ABT 81K DWT, 2012,
@@ -78,16 +78,15 @@ numeric_observations:
   values:
   - 81.0
   - 2012.0
-- &id006
-  section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+- section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
   section_type: linked_pdf
   source_line: HYUNDAI MIPO) at circa USD 17.5m, and a 20-year-old Japanese built
     ship that, according to rumors,
   unit: usd
   values:
+  - 17500.0
   - 20.0
-- &id007
-  section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+- section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
   section_type: linked_pdf
   source_line: has achieved levels in the high USD 10'sm. On the Panamax front, the
     GLOBAL BONANZA (ABT 75K DWT,
@@ -95,17 +94,22 @@ numeric_observations:
   values:
   - 10.0
   - 75.0
-- &id008
-  section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+- section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
   section_type: linked_pdf
   source_line: 2011, SASEBO) sold at USD 15.3 m to Greek interests, basis surveys
     due. We are hearing that a 2006 LME
   unit: usd
   values:
   - 2011.0
+  - 15300.0
   - 2006.0
-- &id009
-  section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+- section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+  section_type: linked_pdf
+  source_line: has also been sold for USD 9.7m.
+  unit: usd
+  values:
+  - 9700.0
+- section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
   section_type: linked_pdf
   source_line: Meanwhile, the Ultramax MITSOS (ABT 63K DWT, 2013, CHENGXI) was acquired
     by Greek interests for
@@ -113,8 +117,13 @@ numeric_observations:
   values:
   - 63.0
   - 2013.0
-- &id010
-  section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+- section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+  section_type: linked_pdf
+  source_line: USD 20.5m.
+  unit: usd
+  values:
+  - 20500.0
+- section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
   section_type: linked_pdf
   source_line: sold, namely the DHT BAUHINIA (ABT 301K DWT, 2007, DAEWOO) that fetched
     a price of USD 51.5m basis
@@ -122,9 +131,8 @@ numeric_observations:
   values:
   - 301.0
   - 2007.0
-  - 51.5
-- &id011
-  section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+  - 51500.0
+- section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
   section_type: linked_pdf
   source_line: RIZE 81,624 2012 HYUNDAI MIPO B&W 6S60MC-C8.1 SS 02/27 CIRCA USD 17.5
     M U/D
@@ -133,19 +141,19 @@ numeric_observations:
   - 81624.0
   - 2012.0
   - 6.0
-  - 1.0
+  - 60.0
+  - 8100.0
   - 2.0
   - 27.0
-- &id012
-  section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+  - 17500.0
+- section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
   section_type: linked_pdf
   source_line: BWTS FITTED DD 02/27
   unit: null
   values:
   - 2.0
   - 27.0
-- &id013
-  section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+- section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
   section_type: linked_pdf
   source_line: GLOBAL BONANZA 74,916 2011 SASEBO HI B&W 7S50MC-C8.2 SS 04/26 USD 15.3
     M GREEKS
@@ -154,19 +162,19 @@ numeric_observations:
   - 74916.0
   - 2011.0
   - 7.0
-  - 2.0
+  - 50.0
+  - 8200.0
   - 4.0
   - 26.0
-- &id014
-  section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+  - 15300.0
+- section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
   section_type: linked_pdf
   source_line: BWTS FITTED DD 04/26
   unit: null
   values:
   - 4.0
   - 26.0
-- &id015
-  section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+- section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
   section_type: linked_pdf
   source_line: MITSOS 63,800 2013 CHENGXI B&W 5S60ME-C8.2 SS 06/28 USD 20.5 M GREEKS
   unit: usd
@@ -174,19 +182,19 @@ numeric_observations:
   - 63800.0
   - 2013.0
   - 5.0
-  - 2.0
+  - 60.0
+  - 8200.0
   - 6.0
   - 28.0
-- &id016
-  section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+  - 20500.0
+- section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
   section_type: linked_pdf
   source_line: BWTS FITTED DD 09/26
   unit: null
   values:
   - 9.0
   - 26.0
-- &id017
-  section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+- section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
   section_type: linked_pdf
   source_line: DHT BAUHINIA 301,019 2007 DAEWOO B&W 7S80MC6.1 SS 01/27 USD 51.5 M
     U/D
@@ -195,28 +203,26 @@ numeric_observations:
   - 301019.0
   - 2007.0
   - 7.0
-  - 1.0
+  - 80.0
+  - 6100.0
   - 1.0
   - 27.0
-  - 51.5
-- &id018
-  section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+  - 51500.0
+- section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
   section_type: linked_pdf
   source_line: BWTS FITTED DD 01/27
   unit: null
   values:
   - 1.0
   - 27.0
-- &id019
-  section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+- section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
   section_type: linked_pdf
   source_line: 284 Kifissias Avenue ("Clarksons") for general information purposes.
     The Information is drawn from Clarksons' database and other sources. Clarksons
   unit: null
   values:
   - 284.0
-- &id020
-  section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+- section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
   section_type: linked_pdf
   source_line: 152 32 Information extracted from the databases of other maritime data
     collection agencies may differ from the Information extracted
@@ -224,8 +230,7 @@ numeric_observations:
   values:
   - 152.0
   - 32.0
-- &id021
-  section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+- section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
   section_type: linked_pdf
   source_line: Direct +(30) 210 458 6700 the Information is not an endorsement of
     any commercial policies and/or any conclusions by Clarksons and its 'connected
@@ -235,8 +240,7 @@ numeric_observations:
   - 210.0
   - 458.0
   - 6700.0
-- &id022
-  section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+- section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
   section_type: linked_pdf
   source_line: Fax +(30) 210 458 6799
   unit: null
@@ -253,30 +257,206 @@ section_count: 2
 signals:
   numeric_observation_count: 22
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
+  - section: Main
+    section_type: null
+    source_line: On the gearless segment a couple of Kamsarmaxes have been sold. The
+      RIZE (ABT 81K DWT, 2012, HYUNDAI MIPO) at circa USD 17.5m, and a 20-year-old
+      Japanese built ship that, according to rumors, has achieved levels in the high
+      USD 10'sm.
+    unit: usd
+    values:
+    - 81.0
+    - 2012.0
+    - 20.0
+    - 10.0
+  - section: Main
+    section_type: null
+    source_line: On the Panamax front, the GLOBAL BONANZA (ABT 75K DWT, 2011, SASEBO)
+      sold at USD 15.3 m to Greek interests, basis surveys due. We are hearing that
+      a 2006 LME has also been sold for USD 9.7m.
+    unit: usd
+    values:
+    - 75.0
+    - 2011.0
+    - 2006.0
+  - section: Main
+    section_type: null
+    source_line: Meanwhile, the Ultramax MITSOS (ABT 63K DWT, 2013, CHENGXI) was acquired
+      by Greek interests for USD 20.5m.
+    unit: usd
+    values:
+    - 63.0
+    - 2013.0
+  - section: Main
+    section_type: null
+    source_line: Following the numerous VLCCs sales of the past few weeks, another
+      vintage ship has been reported sold, namely the DHT BAUHINIA (ABT 301K DWT,
+      2007, DAEWOO) that fetched a price of USD 51.5m basis June-July delivery.
+    unit: usd
+    values:
+    - 301.0
+    - 2007.0
+    - 51.5
+  - section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+    section_type: linked_pdf
+    source_line: On the gearless segment a couple of Kamsarmaxes have been sold. The
+      RIZE (ABT 81K DWT, 2012,
+    unit: null
+    values:
+    - 81.0
+    - 2012.0
+  - section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+    section_type: linked_pdf
+    source_line: HYUNDAI MIPO) at circa USD 17.5m, and a 20-year-old Japanese built
+      ship that, according to rumors,
+    unit: usd
+    values:
+    - 20.0
+  - section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+    section_type: linked_pdf
+    source_line: has achieved levels in the high USD 10'sm. On the Panamax front,
+      the GLOBAL BONANZA (ABT 75K DWT,
+    unit: usd
+    values:
+    - 10.0
+    - 75.0
+  - section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+    section_type: linked_pdf
+    source_line: 2011, SASEBO) sold at USD 15.3 m to Greek interests, basis surveys
+      due. We are hearing that a 2006 LME
+    unit: usd
+    values:
+    - 2011.0
+    - 2006.0
+  - section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+    section_type: linked_pdf
+    source_line: Meanwhile, the Ultramax MITSOS (ABT 63K DWT, 2013, CHENGXI) was acquired
+      by Greek interests for
+    unit: null
+    values:
+    - 63.0
+    - 2013.0
+  - section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+    section_type: linked_pdf
+    source_line: sold, namely the DHT BAUHINIA (ABT 301K DWT, 2007, DAEWOO) that fetched
+      a price of USD 51.5m basis
+    unit: usd
+    values:
+    - 301.0
+    - 2007.0
+    - 51.5
+  - section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+    section_type: linked_pdf
+    source_line: RIZE 81,624 2012 HYUNDAI MIPO B&W 6S60MC-C8.1 SS 02/27 CIRCA USD
+      17.5 M U/D
+    unit: usd
+    values:
+    - 81624.0
+    - 2012.0
+    - 6.0
+    - 1.0
+    - 2.0
+    - 27.0
+  - section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+    section_type: linked_pdf
+    source_line: BWTS FITTED DD 02/27
+    unit: null
+    values:
+    - 2.0
+    - 27.0
+  - section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+    section_type: linked_pdf
+    source_line: GLOBAL BONANZA 74,916 2011 SASEBO HI B&W 7S50MC-C8.2 SS 04/26 USD
+      15.3 M GREEKS
+    unit: usd
+    values:
+    - 74916.0
+    - 2011.0
+    - 7.0
+    - 2.0
+    - 4.0
+    - 26.0
+  - section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+    section_type: linked_pdf
+    source_line: BWTS FITTED DD 04/26
+    unit: null
+    values:
+    - 4.0
+    - 26.0
+  - section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+    section_type: linked_pdf
+    source_line: MITSOS 63,800 2013 CHENGXI B&W 5S60ME-C8.2 SS 06/28 USD 20.5 M GREEKS
+    unit: usd
+    values:
+    - 63800.0
+    - 2013.0
+    - 5.0
+    - 2.0
+    - 6.0
+    - 28.0
+  - section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+    section_type: linked_pdf
+    source_line: BWTS FITTED DD 09/26
+    unit: null
+    values:
+    - 9.0
+    - 26.0
+  - section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+    section_type: linked_pdf
+    source_line: DHT BAUHINIA 301,019 2007 DAEWOO B&W 7S80MC6.1 SS 01/27 USD 51.5
+      M U/D
+    unit: usd
+    values:
+    - 301019.0
+    - 2007.0
+    - 7.0
+    - 1.0
+    - 1.0
+    - 27.0
+    - 51.5
+  - section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+    section_type: linked_pdf
+    source_line: BWTS FITTED DD 01/27
+    unit: null
+    values:
+    - 1.0
+    - 27.0
+  - section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+    section_type: linked_pdf
+    source_line: 284 Kifissias Avenue ("Clarksons") for general information purposes.
+      The Information is drawn from Clarksons' database and other sources. Clarksons
+    unit: null
+    values:
+    - 284.0
+  - section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+    section_type: linked_pdf
+    source_line: 152 32 Information extracted from the databases of other maritime
+      data collection agencies may differ from the Information extracted
+    unit: null
+    values:
+    - 152.0
+    - 32.0
+  - section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+    section_type: linked_pdf
+    source_line: Direct +(30) 210 458 6700 the Information is not an endorsement of
+      any commercial policies and/or any conclusions by Clarksons and its 'connected
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6700.0
+  - section: 'Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf'
+    section_type: linked_pdf
+    source_line: Fax +(30) 210 458 6799
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6799.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2026/2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119.html
+source_path: corpus/02-hellenic/shipbuilding/2026/2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119.html
 source_stem: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119
 source_url: https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-119
 summary: 'Main
@@ -323,7 +503,7 @@ Following the numerous VLCCs sales of the past few weeks, another vintage ship h
 Source: Clarkson Platou (Hellas) ltd
 
 ## Linked asset: 2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf
-Source asset: reports/hellenic/shipbuilding/pdfs/2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf
+Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-01-30_clarksons-platou-hellas-snp-weekly-bulletin-119_weekly-sales-30th-jan-2026_b3abd5e1855a.pdf
 
 [Page 1]
 Clarkson Hellas Ltd.

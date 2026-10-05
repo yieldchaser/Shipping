@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1675,
-  "source_path": "reports/hellenic/shipbuilding/2026/2026-06-30_breakwave-tanker-report-6-30-2026.html",
+  "token_count": 1677,
+  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-06-30_breakwave-tanker-report-6-30-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-6-30-2026",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-06-30_breakwave-tanker-report-6-30-2026_breakwavetankersjune302026report_19efd5a76b05.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-06-30_breakwave-tanker-report-6-30-2026_breakwavetankersjune302026report_19efd5a76b05.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nJune 30, 2026\n• VLCC Spot Drops from Crisis Highs, but Volatility Remains - The Very Large\nShort-term Indicators\nCrude Carrier (VLCC) Arabian Gulf (AG) market experienced extreme volatility\nMomentum: Negative\nduring the past week, with spot rates fluctuating sharply due to dynamic geopolitical\nrisks in the Strait of Hormuz. While shipowners continually evaluate risk-versus- Sentiment: Negative\nreward profiles for regional transits, sentiment is supported by a tangible recovery Fundamentals: Positive\nin Middle Eastern supply, driven by Saudi Arabia resuming loadings at Ras Tanura\nalongside expanded export programs from ADNOC, Qatar, Iraq, Kuwait, and Iran.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-06-30_breakwave-tanker-report-6-30-2026_breakwavetankersjune302026report_19efd5a76b05.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nJune 30, 2026\n• VLCC Spot Drops from Crisis Highs, but Volatility Remains - The Very Large\nShort-term Indicators\nCrude Carrier (VLCC) Arabian Gulf (AG) market experienced extreme volatility\nMomentum: Negative\nduring the past week, with spot rates fluctuating sharply due to dynamic geopolitical\nrisks in the Strait of Hormuz. While shipowners continually evaluate risk-versus- Sentiment: Negative\nreward profiles for regional transits, sentiment is supported by a tangible recovery Fundamentals: Positive\nin Middle Eastern supply, driven by Saudi Arabia resuming loadings at Ras Tanura\nalongside expanded export programs from ADNOC, Qatar, Iraq, Kuwait, and Iran.",
       "keywords": [
         "vlcc",
         "suezmax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1593,
+      "token_count": 1595,
       "section_type": "linked_pdf",
       "children": []
     }

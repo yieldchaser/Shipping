@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1762,
-  "source_path": "reports/hellenic/shipbuilding/2025/2025-05-06_breakwave-tanker-report-5-6-2025.html",
+  "token_count": 1764,
+  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-05-06_breakwave-tanker-report-5-6-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-5-6-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-05-06_breakwave-tanker-report-5-6-2025_breakwavetankersmay62025report_09c3c88d01e8.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-05-06_breakwave-tanker-report-5-6-2025_breakwavetankersmay62025report_09c3c88d01e8.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nMay 6, 2025\n• Spot VLCC Rates Ease Following Recent Strong Rally - Over the past few Short-term Indicators\nweeks, positional imbalances have pushed freight rates toward the upper end of the\nMomentum: Positive\nrecent range and at relatively flat levels versus last year. However, they remain\nSentiment: Positive\nsubdued compared to historical averages, primarily due to the ongoing constrained\nFundamentals: Positive\nMiddle East export volumes, which continue to negatively impact demand.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-05-06_breakwave-tanker-report-5-6-2025_breakwavetankersmay62025report_09c3c88d01e8.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nMay 6, 2025\n• Spot VLCC Rates Ease Following Recent Strong Rally - Over the past few Short-term Indicators\nweeks, positional imbalances have pushed freight rates toward the upper end of the\nMomentum: Positive\nrecent range and at relatively flat levels versus last year. However, they remain\nSentiment: Positive\nsubdued compared to historical averages, primarily due to the ongoing constrained\nFundamentals: Positive\nMiddle East export volumes, which continue to negatively impact demand.",
       "keywords": [
         "vlcc",
         "suezmax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1684,
+      "token_count": 1686,
       "section_type": "linked_pdf",
       "children": []
     }

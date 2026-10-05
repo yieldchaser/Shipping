@@ -5,6 +5,7 @@ commodities:
 date: '2026-07-24'
 doc_id: hellenic_shipbuilding_2026-07-24_2026_07_24_clarksons_hellas_snp_weekly_2
 document_type: shipbuilding_update
+is_error_page: false
 key_entities:
 - Middle East
 keywords:
@@ -28,8 +29,7 @@ linked_assets_skipped: 1
 market_tone: constructive
 numeric_observation_count: 5
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: With the conflict in the Middle East Gulf escalating further, this
     week's incidents mark the first Houthi attacks on vessels within the Red Seain
@@ -40,8 +40,7 @@ numeric_observations:
   - 2003.0
   - 2.0
   - 2007.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: The S&P wet market has in turn been once again positively influenced
     by the increased freight demand, with the observed tanker appetite being reflected
@@ -52,8 +51,7 @@ numeric_observations:
   - 15.0
   - -20.0
   - 2.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: On the dry side, freight market has strengthened, driven by a sharp
     increase in Capesize earnings, supporting stronger demand and sentiment in the
@@ -63,8 +61,7 @@ numeric_observations:
   values:
   - 53.0
   - 2011.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: In the Ultramax segment, c/o OBE Ships Maritime have acquired the SEACON
     TOKYO (ABT 67K DWT, 2023, TSUNEISHI ZHOUSHAN) for USD 41.6m. Meanwhile, the two
@@ -78,8 +75,7 @@ numeric_observations:
   - 62.0
   - 2020.0
   - 37500.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: On the Supramax front, Japanese Owners have concluded the sale of the
     two sister vessels UNITED & VENUS HALO (ABT 56K DWT, 2012, I.H.I. KURE) achieving
@@ -97,13 +93,63 @@ section_count: 1
 signals:
   numeric_observation_count: 5
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
+  - section: Main
+    section_type: null
+    source_line: With the conflict in the Middle East Gulf escalating further, this
+      week's incidents mark the first Houthi attacks on vessels within the Red Seain
+      over 6 months, and more specifically on two Saudi-linked tankers, a 2003 built
+      LR2 and a 2007 built VLCC. Moreover
+    unit: null
+    values:
+    - 2003.0
+    - 2.0
+    - 2007.0
+  - section: Main
+    section_type: null
+    source_line: The S&P wet market has in turn been once again positively influenced
+      by the increased freight demand, with the observed tanker appetite being reflected
+      in enquiry count, and the increasing asset prices. Out of all enquiries, 15-20-year-old
+      VLCCs, Suezmaxes and
+    unit: null
+    values:
+    - 15.0
+    - -20.0
+    - 2.0
+  - section: Main
+    section_type: null
+    source_line: On the dry side, freight market has strengthened, driven by a sharp
+      increase in Capesize earnings, supporting stronger demand and sentiment in the
+      larger vessel segment. At the same time, demand remains healthy across all vessel
+      sizes, with the geared segment,
+    unit: usd
+    values:
+    - 53.0
+    - 2011.0
+  - section: Main
+    section_type: null
+    source_line: In the Ultramax segment, c/o OBE Ships Maritime have acquired the
+      SEACON TOKYO (ABT 67K DWT, 2023, TSUNEISHI ZHOUSHAN) for USD 41.6m. Meanwhile,
+      the two sister vessels BENJAMIN & BRITTA OLDENDORFF (ABT 62K DWT, 2020, OSHIMA)
+      have been sold to c/o Meghna Shippi
+    unit: usd
+    values:
+    - 67.0
+    - 2023.0
+    - 41600.0
+    - 62.0
+    - 2020.0
+    - 37500.0
+  - section: Main
+    section_type: null
+    source_line: On the Supramax front, Japanese Owners have concluded the sale of
+      the two sister vessels UNITED & VENUS HALO (ABT 56K DWT, 2012, I.H.I. KURE)
+      achieving USD 19m each.
+    unit: usd
+    values:
+    - 56.0
+    - 2012.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2026/2026-07-24_clarksons-hellas-snp-weekly-2.html
+source_path: corpus/02-hellenic/shipbuilding/2026/2026-07-24_clarksons-hellas-snp-weekly-2.html
 source_stem: 2026-07-24_clarksons-hellas-snp-weekly-2
 source_url: https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-2
 summary: 'Main

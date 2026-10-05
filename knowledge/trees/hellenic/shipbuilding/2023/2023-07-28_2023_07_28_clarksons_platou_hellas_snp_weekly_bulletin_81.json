@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2118,
-  "source_path": "reports/hellenic/shipbuilding/2023/2023-07-28_clarksons-platou-hellas-snp-weekly-bulletin-81.html",
+  "token_count": 2120,
+  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-07-28_clarksons-platou-hellas-snp-weekly-bulletin-81.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-81",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-07-28_clarksons-platou-hellas-snp-weekly-bulletin-81_report-28-07-23_4ebb2ad1d8f6.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-07-28_clarksons-platou-hellas-snp-weekly-bulletin-81_report-28-07-23_4ebb2ad1d8f6.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 28th July 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nSS 06/27\nBLUE HORIZON 207,867 2012\nMAN B. 7S70ME-C7.1 DD 05/25 USD 35.5 M\nNANTONG GREEKS\nBWTS fitted SS 07/27 (Each)\nCLEAR HORIZON 207,947 COSCO\nDD 08/25\nMAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-07-28_clarksons-platou-hellas-snp-weekly-bulletin-81_report-28-07-23_4ebb2ad1d8f6.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 28th July 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nSS 06/27\nBLUE HORIZON 207,867 2012\nMAN B. 7S70ME-C7.1 DD 05/25 USD 35.5 M\nNANTONG GREEKS\nBWTS fitted SS 07/27 (Each)\nCLEAR HORIZON 207,947 COSCO\nDD 08/25\nMAN B.",
       "keywords": [
         "lng",
         "lpg",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2028,
+      "token_count": 2030,
       "section_type": "linked_pdf",
       "children": []
     }

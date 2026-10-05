@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1921,
-  "source_path": "reports/hellenic/shipbuilding/2023/2023-04-21_clarksons-platou-hellas-snp-weekly-bulletin-66.html",
+  "token_count": 1923,
+  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-04-21_clarksons-platou-hellas-snp-weekly-bulletin-66.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-66",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-04-21_clarksons-platou-hellas-snp-weekly-bulletin-66_report-21-04-2023_cd28114850b9.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-04-21_clarksons-platou-hellas-snp-weekly-bulletin-66_report-21-04-2023_cd28114850b9.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 21 April 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN-B&W 6S60ME-C8.2,\n2015 TSUNEISHI SS 12/25\nVALIANT SPRING 81,920 BWTS FITTED, SCRUBBER USD 28.3 M GREEK\nZHOUSHAN DD 02/24\nREADY\nMAN-B&W 5S60MC-C8, SS 05/27\nYING HAO 03 76,037 2012 HUDONG USD 18 M EU\nBWTS FITTED, TIER II DD 02/25\nSS 10/25\nMONTAUK EAGLE 57,970 DD 12/24\nNEWPORT EAGLE 57,970 2011 SINOPACIFIC MAN-B&W 6S50MC-C8.2, SS 12/26 USD LOW/MID 16 M TURKISH\nDAYANG BWTS FITTED DD 02/25 EACH\nSANKATY EAGLE 57,970\nSS 04/26\nDD 07/24\nMAN B. 6S42MC7.2, SS 12/25\nNORD SETOUCHI 28,204 2010 IMABARI USD 11.5 M INDONESIANS\nBWTS FITTED DD 11/23\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\nMAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-04-21_clarksons-platou-hellas-snp-weekly-bulletin-66_report-21-04-2023_cd28114850b9.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 21 April 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN-B&W 6S60ME-C8.2,\n2015 TSUNEISHI SS 12/25\nVALIANT SPRING 81,920 BWTS FITTED, SCRUBBER USD 28.3 M GREEK\nZHOUSHAN DD 02/24\nREADY\nMAN-B&W 5S60MC-C8, SS 05/27\nYING HAO 03 76,037 2012 HUDONG USD 18 M EU\nBWTS FITTED, TIER II DD 02/25\nSS 10/25\nMONTAUK EAGLE 57,970 DD 12/24\nNEWPORT EAGLE 57,970 2011 SINOPACIFIC MAN-B&W 6S50MC-C8.2, SS 12/26 USD LOW/MID 16 M TURKISH\nDAYANG BWTS FITTED DD 02/25 EACH\nSANKATY EAGLE 57,970\nSS 04/26\nDD 07/24\nMAN B. 6S42MC7.2, SS 12/25\nNORD SETOUCHI 28,204 2010 IMABARI USD 11.5 M INDONESIANS\nBWTS FITTED DD 11/23\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\nMAN B.",
       "keywords": [
         "handysize",
         "lng",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1832,
+      "token_count": 1834,
       "section_type": "linked_pdf",
       "children": []
     }

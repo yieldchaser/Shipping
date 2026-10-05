@@ -1352,7 +1352,7 @@ def build_sources_registry():
 
 
 def iter_source_files(source_filter: str | None):
-    if source_filter in (None, "books", "all"):
+    if source_filter in (None, "books", "book", "all"):
         for path in sorted(REPORTS_ROOT.glob("*.pdf")):
             yield "book", "book", path
     if source_filter in (None, "breakwave", "all"):
@@ -1364,7 +1364,7 @@ def iter_source_files(source_filter: str | None):
             for path in sorted((REPORTS_ROOT / "baltic" / category).rglob("*.html")):
                 if is_primary_archive_html(path):
                     yield "baltic", category, path
-    if source_filter in (None, "breakwave_insights", "all"):
+    if source_filter in (None, "breakwave_insights", "insights", "all"):
         for path in sorted((REPORTS_ROOT / "breakwave").rglob("*.html")):
             if is_primary_archive_html(path):
                 yield "breakwave_insights", "insights", path
@@ -1373,16 +1373,16 @@ def iter_source_files(source_filter: str | None):
             for path in sorted((REPORTS_ROOT / "hellenic" / category).rglob("*.html")):
                 if is_primary_archive_html(path):
                     yield "hellenic", category, path
-    if source_filter in (None, "broker_reports", "all"):
-        for path in sorted((GROUP_ROOTS["brokers"] / "_digests").rglob("*.md")):
+    if source_filter in (None, "broker_reports", "broker_report", "all"):
+        broker_dir = (REPORTS_ROOT / "broker_reports") if (REPORTS_ROOT / "broker_reports").exists() else (GROUP_ROOTS["brokers"] / "_digests")
+        for path in sorted(broker_dir.rglob("*.md")):
             yield "broker_reports", "broker_report", path
     if source_filter in (None, "poten", "all"):
-        # corpus/04-poten -> reports/poten was renamed by the 2026-09-23 corpus
-        # migration (b20829464); the old root no longer exists, so the poten
-        # tier could not be rebuilt at all. GROUP_ROOTS is the canonical map.
-        for path in sorted(GROUP_ROOTS["poten"].rglob("*.md")):
+        poten_dir = (REPORTS_ROOT / "poten") if (REPORTS_ROOT / "poten").exists() else GROUP_ROOTS["poten"]
+        for path in sorted(poten_dir.rglob("*.md")):
             if is_poten_metadata_md(path):
                 yield "poten", "tankers", path
+
 
 
 def select_batch_slice(
@@ -1832,7 +1832,7 @@ def is_poten_metadata_md(path: Path) -> bool:
         head = path.read_text(encoding="utf-8", errors="replace")[:600]
     except OSError:
         return False
-    return "pdf_file:" in head
+    return "pdf_file:" in head or "source_file:" in head
 
 
 def is_primary_archive_html(path: Path) -> bool:

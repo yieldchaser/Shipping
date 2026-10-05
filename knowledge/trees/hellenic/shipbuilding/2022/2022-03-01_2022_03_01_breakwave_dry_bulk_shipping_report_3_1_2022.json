@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1452,
-  "source_path": "reports/hellenic/shipbuilding/2022/2022-03-01_breakwave-dry-bulk-shipping-report-3-1-2022.html",
+  "token_count": 1454,
+  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-03-01_breakwave-dry-bulk-shipping-report-3-1-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-3-1-2022",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-03-01_breakwave-dry-bulk-shipping-report-3-1-2022_breakwavemarch12022report_b4204250a018.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-03-01_breakwave-dry-bulk-shipping-report-3-1-2022_breakwavemarch12022report_b4204250a018.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nMarch 1, 2022\nBreakwave Dry Futures Index: 2,324 Baltic Dry Index (spot): 2,040 Short-term Indicators:\n↑ 30D: 15.8% ↑ 30D: 43.9% Momentum: Neutral\n↑ YTD: 11.6% ↓ YTD: -8.0% Sentiment: Positive\n↑ YOY: 50.9% ↑ YOY: 21.8% Fundamentals: Positive\nBi-Weekly Report\n• All eyes on Ukraine, as geopolitical risk surges - Dry bulk shipping is a vital part of the global economy, and as a\nresult, the rapid developments in Ukraine have naturally dominated traders' attention in the last several days. Risk\nappetite has been reduced, and with that, forward premiums in the futures market have shrunk.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-03-01_breakwave-dry-bulk-shipping-report-3-1-2022_breakwavemarch12022report_b4204250a018.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nMarch 1, 2022\nBreakwave Dry Futures Index: 2,324 Baltic Dry Index (spot): 2,040 Short-term Indicators:\n↑ 30D: 15.8% ↑ 30D: 43.9% Momentum: Neutral\n↑ YTD: 11.6% ↓ YTD: -8.0% Sentiment: Positive\n↑ YOY: 50.9% ↑ YOY: 21.8% Fundamentals: Positive\nBi-Weekly Report\n• All eyes on Ukraine, as geopolitical risk surges - Dry bulk shipping is a vital part of the global economy, and as a\nresult, the rapid developments in Ukraine have naturally dominated traders' attention in the last several days. Risk\nappetite has been reduced, and with that, forward premiums in the futures market have shrunk.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1372,
+      "token_count": 1374,
       "section_type": "linked_pdf",
       "children": []
     }

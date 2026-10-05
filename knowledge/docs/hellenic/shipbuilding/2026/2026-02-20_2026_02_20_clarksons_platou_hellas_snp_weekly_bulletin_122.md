@@ -4,6 +4,7 @@ commodities: []
 date: '2026-02-20'
 doc_id: hellenic_shipbuilding_2026-02-20_2026_02_20_clarksons_platou_hellas_snp_weekly_bulletin_122
 document_type: shipbuilding_update
+is_error_page: false
 key_entities: []
 keywords:
 - capesize
@@ -24,10 +25,9 @@ linked_assets_ingested: 1
 linked_assets_mirrored: 1
 linked_assets_skipped: 0
 market_tone: cautiously_bearish
-numeric_observation_count: 31
+numeric_observation_count: 32
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Further activity was recorded in the larger sizes, with the Capesize
     MICHALIS H (ABT 180K DWT, 2012, DAILAN, SCRUBBER) reported sold at USD 35.2 m,
@@ -36,8 +36,8 @@ numeric_observations:
   values:
   - 180.0
   - 2012.0
-- &id002
-  section: Main
+  - 35200.0
+- section: Main
   section_type: null
   source_line: In the geared segment, the Supramax LIANSON DYNAMIC (ABT 53K DWT, 2006,
     CHENGXI) was reported sold at levels in xs USD 9 m.
@@ -45,16 +45,14 @@ numeric_observations:
   values:
   - 53.0
   - 2006.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Whilst we are hearing of a 2010 Japanese built Supramax being committed
     in levels close to USD 15 m.
   unit: usd
   values:
   - 2010.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: On the VLCC front, the scrubber fitted SINGAPORE SPIRIT (ABT 318K DWT,
     2013, SWS) is reported sold at USD 84.5 m to C/O Sinokor.
@@ -62,9 +60,8 @@ numeric_observations:
   values:
   - 318.0
   - 2013.0
-  - 84.5
-- &id005
-  section: Main
+  - 84500.0
+- section: Main
   section_type: null
   source_line: Additionally, on the Aframax segment, the Korean built P. SOPHIA (ABT
     105K DWT, 2009, Hyundai HI Ulsan) has changed hands achieving USD 36.65 m.
@@ -72,9 +69,8 @@ numeric_observations:
   values:
   - 105.0
   - 2009.0
-  - 36.65
-- &id006
-  section: Main
+  - 36650.0
+- section: Main
   section_type: null
   source_line: Meanwhile, in the MR space, the zinc coated CABO NEGRO II (ABT 47K
     DWT, 2006, SK Onishi) is reported sold at levels in the low USD 14 m range.
@@ -82,8 +78,7 @@ numeric_observations:
   values:
   - 47.0
   - 2006.0
-- &id007
-  section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+- section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
   section_type: linked_pdf
   source_line: Further activity was recorded in the larger sizes, with the Capesize
     MICHALIS H (ABT 180K DWT, 2012,
@@ -91,8 +86,14 @@ numeric_observations:
   values:
   - 180.0
   - 2012.0
-- &id008
-  section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+- section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+  section_type: linked_pdf
+  source_line: DAILAN, SCRUBBER) reported sold at USD 35.2 m, reflecting continued
+    appetite for Capesize tonnage.
+  unit: usd
+  values:
+  - 35200.0
+- section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
   section_type: linked_pdf
   source_line: In the geared segment, the Supramax LIANSON DYNAMIC (ABT 53K DWT, 2006,
     CHENGXI) was reported
@@ -100,16 +101,14 @@ numeric_observations:
   values:
   - 53.0
   - 2006.0
-- &id009
-  section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+- section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
   section_type: linked_pdf
   source_line: sold at levels in xs USD 9 m. Whilst we are hearing of a 2010 Japanese
     built Supramax being committed
   unit: usd
   values:
   - 2010.0
-- &id010
-  section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+- section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
   section_type: linked_pdf
   source_line: On the VLCC front, the scrubber fitted SINGAPORE SPIRIT (ABT 318K DWT,
     2013, SWS) is reported sold at
@@ -117,15 +116,13 @@ numeric_observations:
   values:
   - 318.0
   - 2013.0
-- &id011
-  section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+- section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
   section_type: linked_pdf
   source_line: USD 84.5 m to C/O Sinokor.
   unit: usd
   values:
-  - 84.5
-- &id012
-  section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+  - 84500.0
+- section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
   section_type: linked_pdf
   source_line: Additionally, on the Aframax segment, the Korean built P. SOPHIA (ABT
     105K DWT, 2009, Hyundai HI
@@ -133,15 +130,13 @@ numeric_observations:
   values:
   - 105.0
   - 2009.0
-- &id013
-  section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+- section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
   section_type: linked_pdf
   source_line: Ulsan) has changed hands achieving USD 36.65 m.
   unit: usd
   values:
-  - 36.65
-- &id014
-  section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+  - 36650.0
+- section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
   section_type: linked_pdf
   source_line: Meanwhile, in the MR space, the zinc coated CABO NEGRO II (ABT 47K
     DWT, 2006, SK Onishi) is reported
@@ -149,16 +144,15 @@ numeric_observations:
   values:
   - 47.0
   - 2006.0
-- &id015
-  section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+- section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
   section_type: linked_pdf
   source_line: B&W 6S70MC-C7.2
   unit: null
   values:
   - 6.0
-  - 2.0
-- &id016
-  section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+  - 70.0
+  - 7200.0
+- section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
   section_type: linked_pdf
   source_line: MICHALIS H 180,355 2012 DALIAN SCRUBBER FITTED SS 06/27 REGION 35.2
     M U/D
@@ -168,24 +162,23 @@ numeric_observations:
   - 2012.0
   - 6.0
   - 27.0
-- &id017
-  section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+  - 35200.0
+- section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
   section_type: linked_pdf
   source_line: DD 06/27
   unit: null
   values:
   - 6.0
   - 27.0
-- &id018
-  section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+- section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
   section_type: linked_pdf
   source_line: B&W 6S50MC-C8.1
   unit: null
   values:
   - 6.0
-  - 1.0
-- &id019
-  section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+  - 50.0
+  - 8100.0
+- section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
   section_type: linked_pdf
   source_line: LIANSON DYNAMIC 53,535 2006 CHENGXI 4 x 35T SS 07/26 USD XS 9 M U/D
   unit: usd
@@ -196,43 +189,38 @@ numeric_observations:
   - 35.0
   - 7.0
   - 26.0
-- &id020
-  section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+- section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
   section_type: linked_pdf
   source_line: DD 07/26
   unit: null
   values:
   - 7.0
   - 26.0
-- &id021
-  section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+- section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
   section_type: linked_pdf
   source_line: WARTSILA 7RT-
   unit: null
   values:
   - 7.0
-- &id022
-  section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+- section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
   section_type: linked_pdf
   source_line: SINGAPORE SPIRIT 318,473 2013 SWS FLEX82T-A SS 06/28 USD 84.5 M C/O
   unit: usd
   values:
   - 318473.0
   - 2013.0
-  - 2.0
+  - 82.0
   - 6.0
   - 28.0
-  - 84.5
-- &id023
-  section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+  - 84500.0
+- section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
   section_type: linked_pdf
   source_line: BWTS FITTED DD 09/27 SINOKOR
   unit: null
   values:
   - 9.0
   - 27.0
-- &id024
-  section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+- section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
   section_type: linked_pdf
   source_line: P. SOPHIA 105,333 2009 HYUNDAI HI ULSAN B&W 6S60MC-C8.1 SS 09/29 USD
     36.65 M U/D
@@ -241,20 +229,19 @@ numeric_observations:
   - 105333.0
   - 2009.0
   - 6.0
-  - 1.0
+  - 60.0
+  - 8100.0
   - 9.0
   - 29.0
-  - 36.65
-- &id025
-  section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+  - 36650.0
+- section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
   section_type: linked_pdf
   source_line: DD 11/27
   unit: null
   values:
   - 11.0
   - 27.0
-- &id026
-  section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+- section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
   section_type: linked_pdf
   source_line: CABO NEGRO II 47,236 2006 SK ONISHI MITSUBISHI 6UEC60LS SS 05/26 USD
     LOW 14 M U/D
@@ -263,26 +250,24 @@ numeric_observations:
   - 47236.0
   - 2006.0
   - 6.0
+  - 60.0
   - 5.0
   - 26.0
-- &id027
-  section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+- section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
   section_type: linked_pdf
   source_line: ZINC COATED DD 05/26
   unit: null
   values:
   - 5.0
   - 26.0
-- &id028
-  section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+- section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
   section_type: linked_pdf
   source_line: 284 Kifissias Avenue ("Clarksons") for general information purposes.
     The Information is drawn from Clarksons' database and other sources. Clarksons
   unit: null
   values:
   - 284.0
-- &id029
-  section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+- section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
   section_type: linked_pdf
   source_line: 152 32 Information extracted from the databases of other maritime data
     collection agencies may differ from the Information extracted
@@ -290,8 +275,7 @@ numeric_observations:
   values:
   - 152.0
   - 32.0
-- &id030
-  section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+- section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
   section_type: linked_pdf
   source_line: Direct +(30) 210 458 6700 the Information is not an endorsement of
     any commercial policies and/or any conclusions by Clarksons and its 'connected
@@ -301,8 +285,7 @@ numeric_observations:
   - 210.0
   - 458.0
   - 6700.0
-- &id031
-  section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+- section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
   section_type: linked_pdf
   source_line: Fax +(30) 210 458 6799
   unit: null
@@ -320,39 +303,263 @@ section_count: 2
 signals:
   numeric_observation_count: 31
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
+  - section: Main
+    section_type: null
+    source_line: Further activity was recorded in the larger sizes, with the Capesize
+      MICHALIS H (ABT 180K DWT, 2012, DAILAN, SCRUBBER) reported sold at USD 35.2
+      m, reflecting continued appetite for Capesize tonnage.
+    unit: usd
+    values:
+    - 180.0
+    - 2012.0
+  - section: Main
+    section_type: null
+    source_line: In the geared segment, the Supramax LIANSON DYNAMIC (ABT 53K DWT,
+      2006, CHENGXI) was reported sold at levels in xs USD 9 m.
+    unit: usd
+    values:
+    - 53.0
+    - 2006.0
+  - section: Main
+    section_type: null
+    source_line: Whilst we are hearing of a 2010 Japanese built Supramax being committed
+      in levels close to USD 15 m.
+    unit: usd
+    values:
+    - 2010.0
+  - section: Main
+    section_type: null
+    source_line: On the VLCC front, the scrubber fitted SINGAPORE SPIRIT (ABT 318K
+      DWT, 2013, SWS) is reported sold at USD 84.5 m to C/O Sinokor.
+    unit: usd
+    values:
+    - 318.0
+    - 2013.0
+    - 84.5
+  - section: Main
+    section_type: null
+    source_line: Additionally, on the Aframax segment, the Korean built P. SOPHIA
+      (ABT 105K DWT, 2009, Hyundai HI Ulsan) has changed hands achieving USD 36.65
+      m.
+    unit: usd
+    values:
+    - 105.0
+    - 2009.0
+    - 36.65
+  - section: Main
+    section_type: null
+    source_line: Meanwhile, in the MR space, the zinc coated CABO NEGRO II (ABT 47K
+      DWT, 2006, SK Onishi) is reported sold at levels in the low USD 14 m range.
+    unit: usd
+    values:
+    - 47.0
+    - 2006.0
+  - section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+    section_type: linked_pdf
+    source_line: Further activity was recorded in the larger sizes, with the Capesize
+      MICHALIS H (ABT 180K DWT, 2012,
+    unit: null
+    values:
+    - 180.0
+    - 2012.0
+  - section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+    section_type: linked_pdf
+    source_line: In the geared segment, the Supramax LIANSON DYNAMIC (ABT 53K DWT,
+      2006, CHENGXI) was reported
+    unit: null
+    values:
+    - 53.0
+    - 2006.0
+  - section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+    section_type: linked_pdf
+    source_line: sold at levels in xs USD 9 m. Whilst we are hearing of a 2010 Japanese
+      built Supramax being committed
+    unit: usd
+    values:
+    - 2010.0
+  - section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+    section_type: linked_pdf
+    source_line: On the VLCC front, the scrubber fitted SINGAPORE SPIRIT (ABT 318K
+      DWT, 2013, SWS) is reported sold at
+    unit: null
+    values:
+    - 318.0
+    - 2013.0
+  - section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+    section_type: linked_pdf
+    source_line: USD 84.5 m to C/O Sinokor.
+    unit: usd
+    values:
+    - 84.5
+  - section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+    section_type: linked_pdf
+    source_line: Additionally, on the Aframax segment, the Korean built P. SOPHIA
+      (ABT 105K DWT, 2009, Hyundai HI
+    unit: null
+    values:
+    - 105.0
+    - 2009.0
+  - section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+    section_type: linked_pdf
+    source_line: Ulsan) has changed hands achieving USD 36.65 m.
+    unit: usd
+    values:
+    - 36.65
+  - section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+    section_type: linked_pdf
+    source_line: Meanwhile, in the MR space, the zinc coated CABO NEGRO II (ABT 47K
+      DWT, 2006, SK Onishi) is reported
+    unit: null
+    values:
+    - 47.0
+    - 2006.0
+  - section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+    section_type: linked_pdf
+    source_line: B&W 6S70MC-C7.2
+    unit: null
+    values:
+    - 6.0
+    - 2.0
+  - section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+    section_type: linked_pdf
+    source_line: MICHALIS H 180,355 2012 DALIAN SCRUBBER FITTED SS 06/27 REGION 35.2
+      M U/D
+    unit: null
+    values:
+    - 180355.0
+    - 2012.0
+    - 6.0
+    - 27.0
+  - section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+    section_type: linked_pdf
+    source_line: DD 06/27
+    unit: null
+    values:
+    - 6.0
+    - 27.0
+  - section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+    section_type: linked_pdf
+    source_line: B&W 6S50MC-C8.1
+    unit: null
+    values:
+    - 6.0
+    - 1.0
+  - section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+    section_type: linked_pdf
+    source_line: LIANSON DYNAMIC 53,535 2006 CHENGXI 4 x 35T SS 07/26 USD XS 9 M U/D
+    unit: usd
+    values:
+    - 53535.0
+    - 2006.0
+    - 4.0
+    - 35.0
+    - 7.0
+    - 26.0
+  - section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+    section_type: linked_pdf
+    source_line: DD 07/26
+    unit: null
+    values:
+    - 7.0
+    - 26.0
+  - section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+    section_type: linked_pdf
+    source_line: WARTSILA 7RT-
+    unit: null
+    values:
+    - 7.0
+  - section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+    section_type: linked_pdf
+    source_line: SINGAPORE SPIRIT 318,473 2013 SWS FLEX82T-A SS 06/28 USD 84.5 M C/O
+    unit: usd
+    values:
+    - 318473.0
+    - 2013.0
+    - 2.0
+    - 6.0
+    - 28.0
+    - 84.5
+  - section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+    section_type: linked_pdf
+    source_line: BWTS FITTED DD 09/27 SINOKOR
+    unit: null
+    values:
+    - 9.0
+    - 27.0
+  - section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+    section_type: linked_pdf
+    source_line: P. SOPHIA 105,333 2009 HYUNDAI HI ULSAN B&W 6S60MC-C8.1 SS 09/29
+      USD 36.65 M U/D
+    unit: usd
+    values:
+    - 105333.0
+    - 2009.0
+    - 6.0
+    - 1.0
+    - 9.0
+    - 29.0
+    - 36.65
+  - section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+    section_type: linked_pdf
+    source_line: DD 11/27
+    unit: null
+    values:
+    - 11.0
+    - 27.0
+  - section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+    section_type: linked_pdf
+    source_line: CABO NEGRO II 47,236 2006 SK ONISHI MITSUBISHI 6UEC60LS SS 05/26
+      USD LOW 14 M U/D
+    unit: usd
+    values:
+    - 47236.0
+    - 2006.0
+    - 6.0
+    - 5.0
+    - 26.0
+  - section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+    section_type: linked_pdf
+    source_line: ZINC COATED DD 05/26
+    unit: null
+    values:
+    - 5.0
+    - 26.0
+  - section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+    section_type: linked_pdf
+    source_line: 284 Kifissias Avenue ("Clarksons") for general information purposes.
+      The Information is drawn from Clarksons' database and other sources. Clarksons
+    unit: null
+    values:
+    - 284.0
+  - section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+    section_type: linked_pdf
+    source_line: 152 32 Information extracted from the databases of other maritime
+      data collection agencies may differ from the Information extracted
+    unit: null
+    values:
+    - 152.0
+    - 32.0
+  - section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+    section_type: linked_pdf
+    source_line: Direct +(30) 210 458 6700 the Information is not an endorsement of
+      any commercial policies and/or any conclusions by Clarksons and its 'connected
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6700.0
+  - section: 'Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf'
+    section_type: linked_pdf
+    source_line: Fax +(30) 210 458 6799
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6799.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2026/2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122.html
+source_path: corpus/02-hellenic/shipbuilding/2026/2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122.html
 source_stem: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122
 source_url: https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-122
 summary: 'Main
@@ -403,7 +610,7 @@ Meanwhile, in the MR space, the zinc coated CABO NEGRO II (ABT 47K DWT, 2006, SK
 Source: Clarkson Platou (Hellas) ltd
 
 ## Linked asset: 2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf
-Source asset: reports/hellenic/shipbuilding/pdfs/2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf
+Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-02-20_clarksons-platou-hellas-snp-weekly-bulletin-122_weekly-sales-20th-feb-2026_21649ecac500.pdf
 
 [Page 1]
 Clarkson Hellas Ltd.

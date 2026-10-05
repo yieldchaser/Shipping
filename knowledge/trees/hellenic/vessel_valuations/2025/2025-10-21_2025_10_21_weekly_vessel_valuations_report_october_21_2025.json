@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1498,
-  "source_path": "reports/hellenic/vessel_valuations/2025/2025-10-21_weekly-vessel-valuations-report-october-21-2025.html",
+  "token_count": 1500,
+  "source_path": "corpus/02-hellenic/vessel_valuations/2025/2025-10-21_weekly-vessel-valuations-report-october-21-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-october-21-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-10-21_weekly-vessel-valuations-report-october-21-2025_img1_21102025_53bfc541e67e.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/vessel_valuations/2025/assets/2025-10-21_weekly-vessel-valuations-report-october-21-2025_img1_21102025_53bfc541e67e.jpg\n\nLinked image asset: 2025-10-21_weekly-vessel-valuations-report-october-21-2025_img1_21102025_53bfc541e67e.jpg\n\nImage metadata: JPEG 678x314 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\nDs) VesselsValue HH\n21 October 2025 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra La MR Cape Pmax Supra Handy oes. Pmax Handy = Fmax\n70.1% 026 Lie 70.1% 03% 0.0% 20.3% 70.1% 026 -O3% 02% *Ls% -O3%\n.",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2025/assets/2025-10-21_weekly-vessel-valuations-report-october-21-2025_img1_21102025_53bfc541e67e.jpg\n\nLinked image asset: 2025-10-21_weekly-vessel-valuations-report-october-21-2025_img1_21102025_53bfc541e67e.jpg\n\nImage metadata: JPEG 678x314 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\nDs) VesselsValue HH\n21 October 2025 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra La MR Cape Pmax Supra Handy oes. Pmax Handy = Fmax\n70.1% 026 Lie 70.1% 03% 0.0% 20.3% 70.1% 026 -O3% 02% *Ls% -O3%\n.",
       "keywords": [
         "capesize",
         "supramax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 693,
+      "token_count": 695,
       "section_type": "linked_image_asset",
       "children": []
     }

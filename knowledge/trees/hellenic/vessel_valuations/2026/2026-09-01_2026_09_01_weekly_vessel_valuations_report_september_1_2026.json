@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 844,
-  "source_path": "reports/hellenic/vessel_valuations/2026/2026-09-01_weekly-vessel-valuations-report-september-1-2026.html",
+  "token_count": 846,
+  "source_path": "corpus/02-hellenic/vessel_valuations/2026/2026-09-01_weekly-vessel-valuations-report-september-1-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-september-1-2026",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-09-01_weekly-vessel-valuations-report-september-1-2026_010920264ffg_3f4fc98878b7.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-09-01_weekly-vessel-valuations-report-september-1-2026_010920264ffg_3f4fc98878b7.jpg\n\nLinked image asset: 2026-09-01_weekly-vessel-valuations-report-september-1-2026_010920264ffg_3f4fc98878b7.jpg\n\nImage metadata: JPEG 600x267 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\n© Vesselsvalue -\n01 September 2026 VV Mini Matrix ~ Weekly Change\nTankers Belken Containers\nat wes ee a soc eos seet aie Oc nctrencel races oes\nea pe Ce ae eee re ne\nbe oy us ma = a -\" a ae oe an ms ine\nee ep oy ee Beer ce oe en Doe eS\n' a - cr ~\" J -- ™ \" Cy _ an om 1. aor a ieee |e ea) (Econom ee\n\" ~/ - ee ma - - \" - 7 ~~ an ms ie\nAe hy 26 fe See Bee ee Re ee ee\n.",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2026/assets/2026-09-01_weekly-vessel-valuations-report-september-1-2026_010920264ffg_3f4fc98878b7.jpg\n\nLinked image asset: 2026-09-01_weekly-vessel-valuations-report-september-1-2026_010920264ffg_3f4fc98878b7.jpg\n\nImage metadata: JPEG 600x267 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\n© Vesselsvalue -\n01 September 2026 VV Mini Matrix ~ Weekly Change\nTankers Belken Containers\nat wes ee a soc eos seet aie Oc nctrencel races oes\nea pe Ce ae eee re ne\nbe oy us ma = a -\" a ae oe an ms ine\nee ep oy ee Beer ce oe en Doe eS\n' a - cr ~\" J -- ™ \" Cy _ an om 1. aor a ieee |e ea) (Econom ee\n\" ~/ - ee ma - - \" - 7 ~~ an ms ie\nAe hy 26 fe See Bee ee Re ee ee\n.",
       "keywords": [
         "container",
         "asset",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 333,
+      "token_count": 335,
       "section_type": "linked_image_asset",
       "children": []
     }

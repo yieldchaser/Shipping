@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 731,
-  "source_path": "reports/hellenic/vessel_valuations/2026/2026-07-15_weekly-vessel-valuations-report-july-15-2026.html",
+  "token_count": 733,
+  "source_path": "corpus/02-hellenic/vessel_valuations/2026/2026-07-15_weekly-vessel-valuations-report-july-15-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-july-15-2026",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-07-15_weekly-vessel-valuations-report-july-15-2026_15720250_c88c24b07201.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-07-15_weekly-vessel-valuations-report-july-15-2026_15720250_c88c24b07201.jpg\n\nLinked image asset: 2026-07-15_weekly-vessel-valuations-report-july-15-2026_15720250_c88c24b07201.jpg\n\nImage metadata: JPEG 600x279 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\n© vesselsValue -\n15 July 2026 VV Mini Matrix - Weekly Change\nnan man conta\nwe ee ee ee ee\nsean anna are)] [luni erll/anwlllllan nl) | dow: nelle an\na - Th ™ cd] ~- om a = - an us ie\nmace am | fom a) mee | wee een\n‘ a cal ue ™ = ~ _ - = - an me 1\nSeo ee oe ee\n. a - i ™ c -_ ~ ~ \" aad ase os ie\neee\n= ae - ry ™ - -~ \"~ sme -- ane us ie\nSo Se by = | Se = Ss =\nie ae - ue = \" - as ct ct - an us ie\nSS Ses eho = 2 ahs Se =\n= cal nea me _ \" va ™ os = \"0 Cad ms see",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2026/assets/2026-07-15_weekly-vessel-valuations-report-july-15-2026_15720250_c88c24b07201.jpg\n\nLinked image asset: 2026-07-15_weekly-vessel-valuations-report-july-15-2026_15720250_c88c24b07201.jpg\n\nImage metadata: JPEG 600x279 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\n© vesselsValue -\n15 July 2026 VV Mini Matrix - Weekly Change\nnan man conta\nwe ee ee ee ee\nsean anna are)] [luni erll/anwlllllan nl) | dow: nelle an\na - Th ™ cd] ~- om a = - an us ie\nmace am | fom a) mee | wee een\n‘ a cal ue ™ = ~ _ - = - an me 1\nSeo ee oe ee\n. a - i ™ c -_ ~ ~ \" aad ase os ie\neee\n= ae - ry ™ - -~ \"~ sme -- ane us ie\nSo Se by = | Se = Ss =\nie ae - ue = \" - as ct ct - an us ie\nSS Ses eho = 2 ahs Se =\n= cal nea me _ \" va ™ os = \"0 Cad ms see",
       "keywords": [
         "asset",
         "cal",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 312,
+      "token_count": 314,
       "section_type": "linked_image_asset",
       "children": []
     }

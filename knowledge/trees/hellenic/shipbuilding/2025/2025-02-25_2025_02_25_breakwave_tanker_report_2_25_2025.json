@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1515,
-  "source_path": "reports/hellenic/shipbuilding/2025/2025-02-25_breakwave-tanker-report-2-25-2025.html",
+  "token_count": 1517,
+  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-02-25_breakwave-tanker-report-2-25-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-2-25-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-02-25_breakwave-tanker-report-2-25-2025_breakwavetankersfebruary252025report_69e8554773c9.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-02-25_breakwave-tanker-report-2-25-2025_breakwavetankersfebruary252025report_69e8554773c9.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nFebruary 25, 2025\nBreakwave Tanker Futures Index: 1,199 VLCC Middle East-Asia Spot Rates: 12.69 Short-term Indicators:\n↑ 30D: -1.0% ↑ 30D: 13.4% Momentum: Negative\n↑ YTD: 10.8% ↓ YTD: 41.3% Sentiment: Neutral\n↑ YOY: -11.8% ↑ YOY: -11.6% Fundamentals: Positive\nBi-Weekly Report\n• Geopolitical Shifts and Regulatory Pressures: A Volatile Outlook for the VLCC Freight Market - At the end of February,\nsentiment in the VLCC (Very Large Crude Carrier) freight market remained exceptionally sensitive to evolving sanctions\nand geopolitical shifts. Despite tightening global sanctions, recent market data indicated that China's imports of\nsanctioned oil had rebounded, triggering a notable shift in the market for dirty oil.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-02-25_breakwave-tanker-report-2-25-2025_breakwavetankersfebruary252025report_69e8554773c9.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nFebruary 25, 2025\nBreakwave Tanker Futures Index: 1,199 VLCC Middle East-Asia Spot Rates: 12.69 Short-term Indicators:\n↑ 30D: -1.0% ↑ 30D: 13.4% Momentum: Negative\n↑ YTD: 10.8% ↓ YTD: 41.3% Sentiment: Neutral\n↑ YOY: -11.8% ↑ YOY: -11.6% Fundamentals: Positive\nBi-Weekly Report\n• Geopolitical Shifts and Regulatory Pressures: A Volatile Outlook for the VLCC Freight Market - At the end of February,\nsentiment in the VLCC (Very Large Crude Carrier) freight market remained exceptionally sensitive to evolving sanctions\nand geopolitical shifts. Despite tightening global sanctions, recent market data indicated that China's imports of\nsanctioned oil had rebounded, triggering a notable shift in the market for dirty oil.",
       "keywords": [
         "vlcc",
         "suezmax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1438,
+      "token_count": 1440,
       "section_type": "linked_pdf",
       "children": []
     }

@@ -34,7 +34,7 @@ regions:
 section_count: 1
 signals: {}
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2026/2026-09-10_capt-girish-munjal-content-director-marinepals-on-the-impact-of-the-psc-cic-on-c.html
+source_path: corpus/02-hellenic/shipbuilding/2026/2026-09-10_capt-girish-munjal-content-director-marinepals-on-the-impact-of-the-psc-cic-on-c.html
 source_stem: 2026-09-10_capt-girish-munjal-content-director-marinepals-on-the-impact-of-the-psc-cic-on-c
 source_url: https://www.hellenicshippingnews.com/capt-girish-munjal-content-director-marinepals-on-the-impact-of-the-psc-cic-on-cargo-securing
 summary: Girish Munjal, Head of Content, MarinePALS, explains the significance of

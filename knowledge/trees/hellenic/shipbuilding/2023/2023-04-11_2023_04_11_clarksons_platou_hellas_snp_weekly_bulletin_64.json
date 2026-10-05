@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1918,
-  "source_path": "reports/hellenic/shipbuilding/2023/2023-04-11_clarksons-platou-hellas-snp-weekly-bulletin-64.html",
+  "token_count": 1920,
+  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-04-11_clarksons-platou-hellas-snp-weekly-bulletin-64.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-64",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-04-11_clarksons-platou-hellas-snp-weekly-bulletin-64_report-07-04-2023_42c63f0f7234.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-04-11_clarksons-platou-hellas-snp-weekly-bulletin-64_report-07-04-2023_42c63f0f7234.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 07 April 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. SS 12/25\nSTELLA ADA 180,223 2011 DALIAN USD 25.5 M U/D\nBWTS Fitted DD 09/23\n2006 TSUNEISHI MAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-04-11_clarksons-platou-hellas-snp-weekly-bulletin-64_report-07-04-2023_42c63f0f7234.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 07 April 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. SS 12/25\nSTELLA ADA 180,223 2011 DALIAN USD 25.5 M U/D\nBWTS Fitted DD 09/23\n2006 TSUNEISHI MAN B.",
       "keywords": [
         "lng",
         "lpg",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1827,
+      "token_count": 1829,
       "section_type": "linked_pdf",
       "children": []
     }

@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2014,
-  "source_path": "reports/hellenic/shipbuilding/2023/2023-08-18_clarksons-platou-hellas-snp-weekly-bulletin-84.html",
+  "token_count": 2016,
+  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-08-18_clarksons-platou-hellas-snp-weekly-bulletin-84.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-84",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-08-18_clarksons-platou-hellas-snp-weekly-bulletin-84_report-18-08-2023_812f63a92355.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-08-18_clarksons-platou-hellas-snp-weekly-bulletin-84_report-18-08-2023_812f63a92355.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 18 August 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC-C7.1, SS 04/23,\nHL IMABARI 206,312 2008 IMABARI USD 21.4 M CHINESE\nBWTS FITTED DD 04/23\nNAVIOS SOUTHERN MAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-08-18_clarksons-platou-hellas-snp-weekly-bulletin-84_report-18-08-2023_812f63a92355.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 18 August 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC-C7.1, SS 04/23,\nHL IMABARI 206,312 2008 IMABARI USD 21.4 M CHINESE\nBWTS FITTED DD 04/23\nNAVIOS SOUTHERN MAN B.",
       "keywords": [
         "vlcc",
         "suezmax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1922,
+      "token_count": 1924,
       "section_type": "linked_pdf",
       "children": []
     }

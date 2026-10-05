@@ -7,6 +7,7 @@ commodities:
 date: '2024-02-09'
 doc_id: hellenic_shipbuilding_2024-02-09_2024_02_09_clarksons_platou_hellas_snp_weekly_bulletin_105
 document_type: shipbuilding_update
+is_error_page: false
 key_entities:
 - Middle East
 keywords:
@@ -30,115 +31,103 @@ linked_assets_skipped: 0
 market_tone: neutral
 numeric_observation_count: 69
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: New building in tankers this week, Dalian announced contracting four
     firm plus two optional LNG dual fuel 300k dwt VLCCs with an unnamed owner
   unit: null
   values:
   - 300.0
-- &id002
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: Clarksons Hellas Weekly Bulletin 09 Feb 2024
   unit: null
   values:
   - 9.0
   - 2024.0
-- &id003
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: SS 06/27
   unit: null
   values:
   - 6.0
   - 27.0
-- &id004
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: 2021NEW MAN-B&W 6G70ME-C10.5 DD 05/25
   unit: null
   values:
   - 2021.0
   - 6.0
-  - 0.5
+  - 70.0
+  - 10500.0
   - 5.0
   - 25.0
-- &id005
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: 208,892 USD 66 M each U/D
   unit: usd
   values:
   - 208892.0
   - 66.0
-- &id006
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: TIMES BWTS & SCRUBBER FITTED SS 01/26
   unit: null
   values:
   - 1.0
   - 26.0
-- &id007
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: DD 02/24
   unit: null
   values:
   - 2.0
   - 24.0
-- &id008
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: SOLAR PRIDE 210,000 2020
   unit: null
   values:
   - 210000.0
   - 2020.0
-- &id009
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: MAN-B&W 6G70ME-C9.5 SS 11/25
   unit: null
   values:
   - 6.0
-  - 5.0
+  - 70.0
+  - 9500.0
   - 11.0
   - 25.0
-- &id010
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: SHANGHAI USD 65 M each U/D
   unit: usd
   values:
   - 65.0
-- &id011
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: BWTS & SCRUBBER FITTED DD 11/25
   unit: null
   values:
   - 11.0
   - 25.0
-- &id012
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: SOLAR QUANTUM 207,999 WAIGAOQIAO
   unit: null
   values:
   - 207999.0
-- &id013
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: SS 08/2024
   unit: null
   values:
   - 8.0
   - 2024.0
-- &id014
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: QING MAY 206,117 2011 MAN B. & W. 6S70MC-
   unit: null
@@ -146,8 +135,8 @@ numeric_observations:
   - 206117.0
   - 2011.0
   - 6.0
-- &id015
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+  - 70.0
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: DD 05/24 USD 73M en
   unit: usd
@@ -155,226 +144,208 @@ numeric_observations:
   - 5.0
   - 24.0
   - 73.0
-- &id016
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: SHANGHAI C7.2 U/D
   unit: null
   values:
-  - 2.0
-- &id017
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+  - 7200.0
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: SS 07/24 bloc
   unit: null
   values:
   - 7.0
   - 24.0
-- &id018
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: LAN MAY 206,007 WAIGAOQIAO BWTS & SCRUBBER FITTED
   unit: null
   values:
   - 206007.0
-- &id019
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: DD 07/24
   unit: null
   values:
   - 7.0
   - 24.0
-- &id020
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: MAN B. & W. 6S70MC6.2 SS 01/26
   unit: null
   values:
   - 6.0
-  - 2.0
+  - 70.0
+  - 6200.0
   - 1.0
   - 26.0
-- &id021
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: ZHONG MAY 176,403 SHANGHAI U/D EUROPEAN
   unit: null
   values:
   - 176403.0
-- &id022
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: BWTS FITTED DD 01/26
   unit: null
   values:
   - 1.0
   - 26.0
-- &id023
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: MAN B. & W. 6S70MC6.2 SS 07/26
   unit: null
   values:
   - 6.0
-  - 2.0
+  - 70.0
+  - 6200.0
   - 7.0
   - 26.0
-- &id024
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: YUE MAY 176,000 SHANGHAI U/D GREEK
   unit: null
   values:
   - 176000.0
-- &id025
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: BWTS FITTED DD 07/26
   unit: null
   values:
   - 7.0
   - 26.0
-- &id026
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: 2010 SHANGAI MAN-B&W 6S70MC6.2 SS 08/25
   unit: null
   values:
   - 2010.0
   - 6.0
-  - 2.0
+  - 70.0
+  - 6200.0
   - 8.0
   - 25.0
-- &id027
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: XIN HANG 178,043 USD 26.5 M U/D
   unit: usd
   values:
   - 178043.0
-- &id028
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+  - 26500.0
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: JIANGNAN BWTS FITTED DD 05/24
   unit: null
   values:
   - 5.0
   - 24.0
-- &id029
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: 2006 TSUNEISHI MAN-B&W 7S50MC-C6.1 SS 05/26
   unit: null
   values:
   - 2006.0
   - 7.0
-  - 1.0
+  - 50.0
+  - 6100.0
   - 5.0
   - 26.0
-- &id030
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: YASA FORTUNE 82,849 12 M bss DD CHINESE
   unit: null
   values:
   - 82849.0
-- &id031
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: ZOSEN BWTS FITTED DD 04/24
   unit: null
   values:
   - 4.0
   - 24.0
-- &id032
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: 2011 TSUNEISHI MAN B. & W. 6S50MC6.1 SS 09/27
   unit: null
   values:
   - 2011.0
   - 6.0
-  - 1.0
+  - 50.0
+  - 6100.0
   - 9.0
   - 27.0
-- &id033
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: SOLAR AFRICA 58,064 High USD 17 M GREEK
   unit: usd
   values:
   - 58064.0
-- &id034
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: CEBU BWTS FITTED DD 08/25
   unit: null
   values:
   - 8.0
   - 25.0
-- &id035
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: MAN B. & W. 6S50MC-C8.1 SS 09/24
   unit: null
   values:
   - 6.0
-  - 1.0
+  - 50.0
+  - 8100.0
   - 9.0
   - 24.0
-- &id036
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: SSI CHALLENGER 56,042 2004 MITSUI USD 10.7 M U/D
   unit: usd
   values:
   - 56042.0
   - 2004.0
-- &id037
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+  - 10700.0
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: BWTS FITTED DD 10/25
   unit: null
   values:
   - 10.0
   - 25.0
-- &id038
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: MAN-B&W 6S50MC-C8.2 SS 02/25
   unit: null
   values:
   - 6.0
-  - 2.0
+  - 50.0
+  - 8200.0
   - 2.0
   - 25.0
-- &id039
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: BEIJING VENTURE 53,600 2010 CHENGXI Low USD 11 M U/D
   unit: usd
   values:
   - 53600.0
   - 2010.0
-- &id040
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: BWTS FITTED DD 12/24
   unit: null
   values:
   - 12.0
   - 24.0
-- &id041
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: In tankers this week, Dalian announced contracting four firm plus two
     optional LNG dual fuel 300k dwt VLCCs
   unit: null
   values:
   - 300.0
-- &id042
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: facility throughout 2027. DH Shipbuilding announced contracts for three
     firm 154k dwt Shuttle Tankers for an
@@ -382,24 +353,21 @@ numeric_observations:
   values:
   - 2027.0
   - 154.0
-- &id043
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: Sale & Purchase | Clarksons Hellas Weekly Bulletin | 09 February 23
   unit: null
   values:
   - 9.0
   - 23.0
-- &id044
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: unnamed owner, reported to be clients of Maran, with the first vessel
     expected to deliver in November 2026
   unit: null
   values:
   - 2026.0
-- &id045
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: and the second and third vessel in 1Q 2027. NYK Stolt announced contracting
     six firm 38k dwt Stainless Steel
@@ -408,8 +376,7 @@ numeric_observations:
   - 1.0
   - 2027.0
   - 38.0
-- &id046
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: Chemical tankers at Nantong Xiangyu, with the first vessel expected
     to deliver in 4Q 2026, two vessels in 2027,
@@ -418,8 +385,7 @@ numeric_observations:
   - 4.0
   - 2026.0
   - 2027.0
-- &id047
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: two vessels in 2028 and the final vessel in 2029. Finally, GEFO announced
     a large order of ten firm 3.8k dwt
@@ -428,8 +394,7 @@ numeric_observations:
   - 2028.0
   - 2029.0
   - 3.8
-- &id048
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: Stainless Steel chemical tankers at Nantong Xiangyu, with the vessels
     set to deliver through 2026, 2027 and
@@ -437,23 +402,20 @@ numeric_observations:
   values:
   - 2026.0
   - 2027.0
-- &id049
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: 2028. They will hold LNG ready class notations.
   unit: null
   values:
   - 2028.0
-- &id050
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: In dry bulk, Hayfin announced contracting two firm 100k dwt Coal Carriers
     at Oshima, with both vessels set to
   unit: null
   values:
   - 100.0
-- &id051
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: deliver with 2026. Huayan Star Shipping ordered two firm 65k dwt Bulk
     carriers for domestic trade at Haitong
@@ -461,8 +423,7 @@ numeric_observations:
   values:
   - 2026.0
   - 65.0
-- &id052
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: Offshore, with the vessels slated for delivery in December 2026 and
     March 2027.
@@ -470,16 +431,14 @@ numeric_observations:
   values:
   - 2026.0
   - 2027.0
-- &id053
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: In Gas Carriers, Samsung announced contracts for fifteen firm 174k
     CBM LNG Carriers with Middle Eastern
   unit: null
   values:
   - 174.0
-- &id054
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: interests, reported to be QatarEnergy. The vessels will deliver from
     2H 2026, throughout 2027 and into 2028, with
@@ -489,38 +448,33 @@ numeric_observations:
   - 2026.0
   - 2027.0
   - 2028.0
-- &id055
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: the final vessel delivering in October 2028.
   unit: null
   values:
   - 2028.0
-- &id056
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: Finally, in Ro-Ro's, Smyril Line announced contracting two firm 3,300LM
     Ro-Ro's at Yantai Raffles, with both
   unit: null
   values:
   - 3300.0
-- &id057
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: vessels slated for delivery in 2026.
   unit: null
   values:
   - 2026.0
-- &id058
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: looks set to be ‘pushed back' again towards 2025 whilst these elevated
     freight rates persist.
   unit: null
   values:
   - 2025.0
-- &id059
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: BROTHER GLORY 70,529 1998 9,200 530/LDT BANGLADESH
   unit: null
@@ -529,8 +483,7 @@ numeric_observations:
   - 1998.0
   - 9200.0
   - 530.0
-- &id060
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: BDI 1473 -14 Euro/USD 1.07733 BUNKERS ROTTERDAM SPORE FUJAIRAH
   unit: usd
@@ -538,8 +491,7 @@ numeric_observations:
   - 1473.0
   - -14.0
   - 1.07733
-- &id061
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: BCI 2196 -67 YEN/USD 0.00671 VLSFO 569.50 633.50 617.00
   unit: usd
@@ -549,8 +501,7 @@ numeric_observations:
   - 569.5
   - 633.5
   - 617.0
-- &id062
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: BPI 1474 +29 Brent (USD) MGO 804.00 818.50 884.00
   unit: usd
@@ -560,8 +511,7 @@ numeric_observations:
   - 804.0
   - 818.5
   - 884.0
-- &id063
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: BSI 1050 +3 IFO 380 451.00 447.50 431.50
   unit: null
@@ -572,23 +522,20 @@ numeric_observations:
   - 451.0
   - 447.5
   - 431.5
-- &id064
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: 81,634
   unit: null
   values:
   - 81634.0
-- &id065
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: BHSI 570 -4
   unit: null
   values:
   - 570.0
   - -4.0
-- &id066
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: 62 Kifissias Avenue Information extracted from Clarksons' database
     is derived from estimates or subjective judgments; (ii) any Information extracted
@@ -596,8 +543,7 @@ numeric_observations:
   unit: null
   values:
   - 62.0
-- &id067
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: 151 25 and may accordingly contain errors; (iv) the provision of the
     Information does not obviate any need to make appropriate further enquiries; (v)
@@ -606,8 +552,7 @@ numeric_observations:
   values:
   - 151.0
   - 25.0
-- &id068
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: Direct +(30) 210 458 6700 used or relied upon by, any other person
     or used for any other purpose without the prior written consent of Clarksons.
@@ -618,8 +563,7 @@ numeric_observations:
   - 210.0
   - 458.0
   - 6700.0
-- &id069
-  section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+- section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
   section_type: linked_pdf
   source_line: Fax +(30) 210 458 6799 used in any document for the purposes of raising
     finance whether by way of debt or equity. All intellectual property rights are
@@ -639,77 +583,540 @@ section_count: 2
 signals:
   numeric_observation_count: 69
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
-  - *id060
-  - *id061
-  - *id062
-  - *id063
-  - *id064
-  - *id065
-  - *id066
-  - *id067
-  - *id068
-  - *id069
+  - section: Main
+    section_type: null
+    source_line: New building in tankers this week, Dalian announced contracting four
+      firm plus two optional LNG dual fuel 300k dwt VLCCs with an unnamed owner
+    unit: null
+    values:
+    - 300.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: Clarksons Hellas Weekly Bulletin 09 Feb 2024
+    unit: null
+    values:
+    - 9.0
+    - 2024.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: SS 06/27
+    unit: null
+    values:
+    - 6.0
+    - 27.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: 2021NEW MAN-B&W 6G70ME-C10.5 DD 05/25
+    unit: null
+    values:
+    - 2021.0
+    - 6.0
+    - 0.5
+    - 5.0
+    - 25.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: 208,892 USD 66 M each U/D
+    unit: usd
+    values:
+    - 208892.0
+    - 66.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: TIMES BWTS & SCRUBBER FITTED SS 01/26
+    unit: null
+    values:
+    - 1.0
+    - 26.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: DD 02/24
+    unit: null
+    values:
+    - 2.0
+    - 24.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: SOLAR PRIDE 210,000 2020
+    unit: null
+    values:
+    - 210000.0
+    - 2020.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: MAN-B&W 6G70ME-C9.5 SS 11/25
+    unit: null
+    values:
+    - 6.0
+    - 5.0
+    - 11.0
+    - 25.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: SHANGHAI USD 65 M each U/D
+    unit: usd
+    values:
+    - 65.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: BWTS & SCRUBBER FITTED DD 11/25
+    unit: null
+    values:
+    - 11.0
+    - 25.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: SOLAR QUANTUM 207,999 WAIGAOQIAO
+    unit: null
+    values:
+    - 207999.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: SS 08/2024
+    unit: null
+    values:
+    - 8.0
+    - 2024.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: QING MAY 206,117 2011 MAN B. & W. 6S70MC-
+    unit: null
+    values:
+    - 206117.0
+    - 2011.0
+    - 6.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: DD 05/24 USD 73M en
+    unit: usd
+    values:
+    - 5.0
+    - 24.0
+    - 73.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: SHANGHAI C7.2 U/D
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: SS 07/24 bloc
+    unit: null
+    values:
+    - 7.0
+    - 24.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: LAN MAY 206,007 WAIGAOQIAO BWTS & SCRUBBER FITTED
+    unit: null
+    values:
+    - 206007.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: DD 07/24
+    unit: null
+    values:
+    - 7.0
+    - 24.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: MAN B. & W. 6S70MC6.2 SS 01/26
+    unit: null
+    values:
+    - 6.0
+    - 2.0
+    - 1.0
+    - 26.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: ZHONG MAY 176,403 SHANGHAI U/D EUROPEAN
+    unit: null
+    values:
+    - 176403.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: BWTS FITTED DD 01/26
+    unit: null
+    values:
+    - 1.0
+    - 26.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: MAN B. & W. 6S70MC6.2 SS 07/26
+    unit: null
+    values:
+    - 6.0
+    - 2.0
+    - 7.0
+    - 26.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: YUE MAY 176,000 SHANGHAI U/D GREEK
+    unit: null
+    values:
+    - 176000.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: BWTS FITTED DD 07/26
+    unit: null
+    values:
+    - 7.0
+    - 26.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: 2010 SHANGAI MAN-B&W 6S70MC6.2 SS 08/25
+    unit: null
+    values:
+    - 2010.0
+    - 6.0
+    - 2.0
+    - 8.0
+    - 25.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: XIN HANG 178,043 USD 26.5 M U/D
+    unit: usd
+    values:
+    - 178043.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: JIANGNAN BWTS FITTED DD 05/24
+    unit: null
+    values:
+    - 5.0
+    - 24.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: 2006 TSUNEISHI MAN-B&W 7S50MC-C6.1 SS 05/26
+    unit: null
+    values:
+    - 2006.0
+    - 7.0
+    - 1.0
+    - 5.0
+    - 26.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: YASA FORTUNE 82,849 12 M bss DD CHINESE
+    unit: null
+    values:
+    - 82849.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: ZOSEN BWTS FITTED DD 04/24
+    unit: null
+    values:
+    - 4.0
+    - 24.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: 2011 TSUNEISHI MAN B. & W. 6S50MC6.1 SS 09/27
+    unit: null
+    values:
+    - 2011.0
+    - 6.0
+    - 1.0
+    - 9.0
+    - 27.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: SOLAR AFRICA 58,064 High USD 17 M GREEK
+    unit: usd
+    values:
+    - 58064.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: CEBU BWTS FITTED DD 08/25
+    unit: null
+    values:
+    - 8.0
+    - 25.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: MAN B. & W. 6S50MC-C8.1 SS 09/24
+    unit: null
+    values:
+    - 6.0
+    - 1.0
+    - 9.0
+    - 24.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: SSI CHALLENGER 56,042 2004 MITSUI USD 10.7 M U/D
+    unit: usd
+    values:
+    - 56042.0
+    - 2004.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: BWTS FITTED DD 10/25
+    unit: null
+    values:
+    - 10.0
+    - 25.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: MAN-B&W 6S50MC-C8.2 SS 02/25
+    unit: null
+    values:
+    - 6.0
+    - 2.0
+    - 2.0
+    - 25.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: BEIJING VENTURE 53,600 2010 CHENGXI Low USD 11 M U/D
+    unit: usd
+    values:
+    - 53600.0
+    - 2010.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: BWTS FITTED DD 12/24
+    unit: null
+    values:
+    - 12.0
+    - 24.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: In tankers this week, Dalian announced contracting four firm plus
+      two optional LNG dual fuel 300k dwt VLCCs
+    unit: null
+    values:
+    - 300.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: facility throughout 2027. DH Shipbuilding announced contracts for
+      three firm 154k dwt Shuttle Tankers for an
+    unit: null
+    values:
+    - 2027.0
+    - 154.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: Sale & Purchase | Clarksons Hellas Weekly Bulletin | 09 February
+      23
+    unit: null
+    values:
+    - 9.0
+    - 23.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: unnamed owner, reported to be clients of Maran, with the first vessel
+      expected to deliver in November 2026
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: and the second and third vessel in 1Q 2027. NYK Stolt announced contracting
+      six firm 38k dwt Stainless Steel
+    unit: null
+    values:
+    - 1.0
+    - 2027.0
+    - 38.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: Chemical tankers at Nantong Xiangyu, with the first vessel expected
+      to deliver in 4Q 2026, two vessels in 2027,
+    unit: null
+    values:
+    - 4.0
+    - 2026.0
+    - 2027.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: two vessels in 2028 and the final vessel in 2029. Finally, GEFO announced
+      a large order of ten firm 3.8k dwt
+    unit: null
+    values:
+    - 2028.0
+    - 2029.0
+    - 3.8
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: Stainless Steel chemical tankers at Nantong Xiangyu, with the vessels
+      set to deliver through 2026, 2027 and
+    unit: null
+    values:
+    - 2026.0
+    - 2027.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: 2028. They will hold LNG ready class notations.
+    unit: null
+    values:
+    - 2028.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: In dry bulk, Hayfin announced contracting two firm 100k dwt Coal
+      Carriers at Oshima, with both vessels set to
+    unit: null
+    values:
+    - 100.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: deliver with 2026. Huayan Star Shipping ordered two firm 65k dwt
+      Bulk carriers for domestic trade at Haitong
+    unit: null
+    values:
+    - 2026.0
+    - 65.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: Offshore, with the vessels slated for delivery in December 2026 and
+      March 2027.
+    unit: null
+    values:
+    - 2026.0
+    - 2027.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: In Gas Carriers, Samsung announced contracts for fifteen firm 174k
+      CBM LNG Carriers with Middle Eastern
+    unit: null
+    values:
+    - 174.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: interests, reported to be QatarEnergy. The vessels will deliver from
+      2H 2026, throughout 2027 and into 2028, with
+    unit: null
+    values:
+    - 2.0
+    - 2026.0
+    - 2027.0
+    - 2028.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: the final vessel delivering in October 2028.
+    unit: null
+    values:
+    - 2028.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: Finally, in Ro-Ro's, Smyril Line announced contracting two firm 3,300LM
+      Ro-Ro's at Yantai Raffles, with both
+    unit: null
+    values:
+    - 3300.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: vessels slated for delivery in 2026.
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: looks set to be ‘pushed back' again towards 2025 whilst these elevated
+      freight rates persist.
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: BROTHER GLORY 70,529 1998 9,200 530/LDT BANGLADESH
+    unit: null
+    values:
+    - 70529.0
+    - 1998.0
+    - 9200.0
+    - 530.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: BDI 1473 -14 Euro/USD 1.07733 BUNKERS ROTTERDAM SPORE FUJAIRAH
+    unit: usd
+    values:
+    - 1473.0
+    - -14.0
+    - 1.07733
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: BCI 2196 -67 YEN/USD 0.00671 VLSFO 569.50 633.50 617.00
+    unit: usd
+    values:
+    - 2196.0
+    - -67.0
+    - 569.5
+    - 633.5
+    - 617.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: BPI 1474 +29 Brent (USD) MGO 804.00 818.50 884.00
+    unit: usd
+    values:
+    - 1474.0
+    - 29.0
+    - 804.0
+    - 818.5
+    - 884.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: BSI 1050 +3 IFO 380 451.00 447.50 431.50
+    unit: null
+    values:
+    - 1050.0
+    - 3.0
+    - 380.0
+    - 451.0
+    - 447.5
+    - 431.5
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: 81,634
+    unit: null
+    values:
+    - 81634.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: BHSI 570 -4
+    unit: null
+    values:
+    - 570.0
+    - -4.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: 62 Kifissias Avenue Information extracted from Clarksons' database
+      is derived from estimates or subjective judgments; (ii) any Information extracted
+      from the databases of
+    unit: null
+    values:
+    - 62.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: 151 25 and may accordingly contain errors; (iv) the provision of
+      the Information does not obviate any need to make appropriate further enquiries;
+      (v) the provision
+    unit: null
+    values:
+    - 151.0
+    - 25.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: Direct +(30) 210 458 6700 used or relied upon by, any other person
+      or used for any other purpose without the prior written consent of Clarksons.
+      Especially, the information is not to be
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6700.0
+  - section: 'Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf'
+    section_type: linked_pdf
+    source_line: Fax +(30) 210 458 6799 used in any document for the purposes of raising
+      finance whether by way of debt or equity. All intellectual property rights are
+      fully reserved by Clarksons,
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6799.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2024/2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105.html
+source_path: corpus/02-hellenic/shipbuilding/2024/2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105.html
 source_stem: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105
 source_url: https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-105
 summary: 'Main
@@ -852,7 +1259,7 @@ New building in tankers this week, Dalian announced contracting four firm plus t
 Source: Clarkson Platou (Hellas) ltd
 
 ## Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf
-Source asset: reports/hellenic/shipbuilding/pdfs/2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf
+Source asset: corpus/02-hellenic/shipbuilding/pdfs/2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf
 
 [Page 1]
 SALE & PURCHASE

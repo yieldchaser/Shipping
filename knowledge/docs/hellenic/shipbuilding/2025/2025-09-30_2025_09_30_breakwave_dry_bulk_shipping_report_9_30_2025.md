@@ -9,6 +9,7 @@ commodities:
 date: '2025-09-30'
 doc_id: hellenic_shipbuilding_2025-09-30_2025_09_30_breakwave_dry_bulk_shipping_report_9_30_2025
 document_type: shipbuilding_update
+is_error_page: false
 key_entities:
 - China
 - Brazil
@@ -34,116 +35,101 @@ linked_assets_skipped: 0
 market_tone: neutral
 numeric_observation_count: 31
 numeric_observations:
-- &id001
-  section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+- section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
   section_type: linked_pdf
   source_line: September 30, 2025
   unit: null
   values:
   - 30.0
   - 2025.0
-- &id002
-  section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+- section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
   section_type: linked_pdf
   source_line: 'Dry Index, a broad measure of spot global dry bulk rates, declining
     in 9 of the last Sentiment: Neutral'
   unit: null
   values:
   - 9.0
-- &id003
-  section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+- section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
   section_type: linked_pdf
   source_line: '10 Octobers. We believe this pattern stems from the historically strong
     September Fundamentals: Neutral'
   unit: null
   values:
   - 10.0
-- &id004
-  section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+- section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
   section_type: linked_pdf
   source_line: with October futures positioned below the prevailing spot levels. Capesize
     2032
   unit: null
   values:
   - 2032.0
-- &id005
-  section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+- section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
   section_type: linked_pdf
   source_line: '30D: -1.4% ↓'
   unit: pct
   values:
   - 30.0
   - -1.4
-- &id006
-  section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+- section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
   section_type: linked_pdf
   source_line: 'YTD: 100.3% ↑'
   unit: pct
   values:
   - 100.3
-- &id007
-  section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+- section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
   section_type: linked_pdf
   source_line: 'we maintain a constructive view for the remainder of the year. Any
     near-term YOY: -2.9% ↓'
   unit: pct
   values:
   - -2.9
-- &id008
-  section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+- section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
   section_type: linked_pdf
   source_line: availability due to fleet inefficiencies, and a generally positive
     sentiment toward 2220
   unit: null
   values:
   - 2220.0
-- &id009
-  section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+- section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
   section_type: linked_pdf
   source_line: '30D: 9.6% ↑'
   unit: pct
   values:
   - 30.0
-  - 9.6
-- &id010
-  section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+  - 9600.0
+- section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
   section_type: linked_pdf
   source_line: 'YTD: 122.7% ↑'
   unit: pct
   values:
   - 122.7
-- &id011
-  section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+- section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
   section_type: linked_pdf
   source_line: 'YOY: 7.1% ↑'
   unit: pct
   values:
-  - 7.1
-- &id012
-  section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+  - 7100.0
+- section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
   section_type: linked_pdf
   source_line: year-to-date total imports down less than 2%. The recovery is largely
     driven by
   unit: pct
   values:
   - 2.0
-- &id013
-  section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+- section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
   section_type: linked_pdf
   source_line: material from Brazil, which is up around 5% year to date, supporting
     tonne-mile
   unit: pct
   values:
   - 5.0
-- &id014
-  section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+- section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
   section_type: linked_pdf
   source_line: Breakwave Advisors LLC  17 State Street  New York, NY  breakwaveadvisors.com
   unit: null
   values:
   - 17.0
-- &id015
-  section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+- section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
   section_type: linked_pdf
   source_line: Nov-24 Dec-24 Jan-25 Feb-25 Mar-25 Apr-25 May-25 Jun-25 Jul-25 Aug-25
     Sep-25
@@ -159,8 +145,7 @@ numeric_observations:
   - 25.0
   - 25.0
   - 25.0
-- &id016
-  section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+- section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
   section_type: linked_pdf
   source_line: The Baltic Dry Index (BDI) measures the average spot rates for dry
     bulk freight with a sector weighting of 40% Capesize, 30% Panamax and 30% Supramax.
@@ -169,8 +154,7 @@ numeric_observations:
   - 40.0
   - 30.0
   - 30.0
-- &id017
-  section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+- section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
   section_type: linked_pdf
   source_line: The Breakwave Dry Futures Index (BDRYFF) is designed to track freight
     futures contracts with a sector weighting of 50% Capesize, 40% Panamax and 10%
@@ -179,112 +163,98 @@ numeric_observations:
   - 50.0
   - 40.0
   - 10.0
-- &id018
-  section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+- section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
   section_type: linked_pdf
   source_line: Supramax and a weighted average maturity of approximately 50-70 days.
   unit: null
   values:
   - 50.0
   - -70.0
-- &id019
-  section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+- section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
   section_type: linked_pdf
   source_line: China Steel Production 672mt -2.8%
   unit: tonnage
   values:
   - 672.0
   - -2.8
-- &id020
-  section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+- section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
   section_type: linked_pdf
   source_line: China Steel Inventories 4.7mt 47.7%
   unit: tonnage
   values:
   - 4.7
-  - 47.7
-- &id021
-  section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+  - 47700.0
+- section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
   section_type: linked_pdf
   source_line: China Iron Ore Inventories 132mt -9.7%
   unit: tonnage
   values:
   - 132.0
   - -9.7
-- &id022
-  section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+- section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
   section_type: linked_pdf
   source_line: China Iron Ore Imports 802mt -1.6%
   unit: tonnage
   values:
   - 802.0
   - -1.6
-- &id023
-  section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+- section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
   section_type: linked_pdf
   source_line: China Coal Imports 300mt -12.2%
   unit: tonnage
   values:
   - 300.0
   - -12.2
-- &id024
-  section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+- section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
   section_type: linked_pdf
   source_line: China Soybean Imports 73mt 4.0%
   unit: tonnage
   values:
   - 73.0
   - 4.0
-- &id025
-  section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+- section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
   section_type: linked_pdf
   source_line: Brazil Iron Ore Exports 266mt 5.4%
   unit: tonnage
   values:
   - 266.0
-  - 5.4
-- &id026
-  section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+  - 5400.0
+- section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
   section_type: linked_pdf
   source_line: Australia Iron Ore Exports 523mt -0.5%
   unit: tonnage
   values:
   - 523.0
   - -0.5
-- &id027
-  section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+- section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
   section_type: linked_pdf
   source_line: Dry Bulk Fleet 1056 mdwt 3.0%
   unit: pct
   values:
   - 1056.0
   - 3.0
-- &id028
-  section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+- section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
   section_type: linked_pdf
   source_line: Baltic Dry Index, Average 1,523 -17.5%
   unit: pct
   values:
   - 1523.0
   - -17.5
-- &id029
-  section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+- section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
   section_type: linked_pdf
   source_line: Capesize Spot Rates, Average 18,806 -21.4%
   unit: pct
   values:
   - 18806.0
   - -21.4
-- &id030
-  section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+- section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
   section_type: linked_pdf
   source_line: Panamax Spot rates, Average 11,145 -19.9%
   unit: pct
   values:
   - 11145.0
   - -19.9
-- &id031
-  section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+- section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
   section_type: linked_pdf
   source_line: The Funds are not a mutual funds or any other type of investment company
     within the meaning of the Investment Company Act of 1940, as amended,
@@ -301,39 +271,234 @@ section_count: 2
 signals:
   numeric_observation_count: 31
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
+  - section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+    section_type: linked_pdf
+    source_line: September 30, 2025
+    unit: null
+    values:
+    - 30.0
+    - 2025.0
+  - section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+    section_type: linked_pdf
+    source_line: 'Dry Index, a broad measure of spot global dry bulk rates, declining
+      in 9 of the last Sentiment: Neutral'
+    unit: null
+    values:
+    - 9.0
+  - section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+    section_type: linked_pdf
+    source_line: '10 Octobers. We believe this pattern stems from the historically
+      strong September Fundamentals: Neutral'
+    unit: null
+    values:
+    - 10.0
+  - section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+    section_type: linked_pdf
+    source_line: with October futures positioned below the prevailing spot levels.
+      Capesize 2032
+    unit: null
+    values:
+    - 2032.0
+  - section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+    section_type: linked_pdf
+    source_line: '30D: -1.4% ↓'
+    unit: pct
+    values:
+    - 30.0
+    - -1.4
+  - section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+    section_type: linked_pdf
+    source_line: 'YTD: 100.3% ↑'
+    unit: pct
+    values:
+    - 100.3
+  - section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+    section_type: linked_pdf
+    source_line: 'we maintain a constructive view for the remainder of the year. Any
+      near-term YOY: -2.9% ↓'
+    unit: pct
+    values:
+    - -2.9
+  - section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+    section_type: linked_pdf
+    source_line: availability due to fleet inefficiencies, and a generally positive
+      sentiment toward 2220
+    unit: null
+    values:
+    - 2220.0
+  - section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+    section_type: linked_pdf
+    source_line: '30D: 9.6% ↑'
+    unit: pct
+    values:
+    - 30.0
+    - 9.6
+  - section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+    section_type: linked_pdf
+    source_line: 'YTD: 122.7% ↑'
+    unit: pct
+    values:
+    - 122.7
+  - section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+    section_type: linked_pdf
+    source_line: 'YOY: 7.1% ↑'
+    unit: pct
+    values:
+    - 7.1
+  - section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+    section_type: linked_pdf
+    source_line: year-to-date total imports down less than 2%. The recovery is largely
+      driven by
+    unit: pct
+    values:
+    - 2.0
+  - section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+    section_type: linked_pdf
+    source_line: material from Brazil, which is up around 5% year to date, supporting
+      tonne-mile
+    unit: pct
+    values:
+    - 5.0
+  - section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+    section_type: linked_pdf
+    source_line: Breakwave Advisors LLC  17 State Street  New York, NY  breakwaveadvisors.com
+    unit: null
+    values:
+    - 17.0
+  - section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+    section_type: linked_pdf
+    source_line: Nov-24 Dec-24 Jan-25 Feb-25 Mar-25 Apr-25 May-25 Jun-25 Jul-25 Aug-25
+      Sep-25
+    unit: null
+    values:
+    - 24.0
+    - 24.0
+    - 25.0
+    - 25.0
+    - 25.0
+    - 25.0
+    - 25.0
+    - 25.0
+    - 25.0
+    - 25.0
+  - section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+    section_type: linked_pdf
+    source_line: The Baltic Dry Index (BDI) measures the average spot rates for dry
+      bulk freight with a sector weighting of 40% Capesize, 30% Panamax and 30% Supramax.
+    unit: pct
+    values:
+    - 40.0
+    - 30.0
+    - 30.0
+  - section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+    section_type: linked_pdf
+    source_line: The Breakwave Dry Futures Index (BDRYFF) is designed to track freight
+      futures contracts with a sector weighting of 50% Capesize, 40% Panamax and 10%
+    unit: pct
+    values:
+    - 50.0
+    - 40.0
+    - 10.0
+  - section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+    section_type: linked_pdf
+    source_line: Supramax and a weighted average maturity of approximately 50-70 days.
+    unit: null
+    values:
+    - 50.0
+    - -70.0
+  - section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+    section_type: linked_pdf
+    source_line: China Steel Production 672mt -2.8%
+    unit: tonnage
+    values:
+    - 672.0
+    - -2.8
+  - section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+    section_type: linked_pdf
+    source_line: China Steel Inventories 4.7mt 47.7%
+    unit: tonnage
+    values:
+    - 4.7
+    - 47.7
+  - section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+    section_type: linked_pdf
+    source_line: China Iron Ore Inventories 132mt -9.7%
+    unit: tonnage
+    values:
+    - 132.0
+    - -9.7
+  - section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+    section_type: linked_pdf
+    source_line: China Iron Ore Imports 802mt -1.6%
+    unit: tonnage
+    values:
+    - 802.0
+    - -1.6
+  - section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+    section_type: linked_pdf
+    source_line: China Coal Imports 300mt -12.2%
+    unit: tonnage
+    values:
+    - 300.0
+    - -12.2
+  - section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+    section_type: linked_pdf
+    source_line: China Soybean Imports 73mt 4.0%
+    unit: tonnage
+    values:
+    - 73.0
+    - 4.0
+  - section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+    section_type: linked_pdf
+    source_line: Brazil Iron Ore Exports 266mt 5.4%
+    unit: tonnage
+    values:
+    - 266.0
+    - 5.4
+  - section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+    section_type: linked_pdf
+    source_line: Australia Iron Ore Exports 523mt -0.5%
+    unit: tonnage
+    values:
+    - 523.0
+    - -0.5
+  - section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+    section_type: linked_pdf
+    source_line: Dry Bulk Fleet 1056 mdwt 3.0%
+    unit: pct
+    values:
+    - 1056.0
+    - 3.0
+  - section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+    section_type: linked_pdf
+    source_line: Baltic Dry Index, Average 1,523 -17.5%
+    unit: pct
+    values:
+    - 1523.0
+    - -17.5
+  - section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+    section_type: linked_pdf
+    source_line: Capesize Spot Rates, Average 18,806 -21.4%
+    unit: pct
+    values:
+    - 18806.0
+    - -21.4
+  - section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+    section_type: linked_pdf
+    source_line: Panamax Spot rates, Average 11,145 -19.9%
+    unit: pct
+    values:
+    - 11145.0
+    - -19.9
+  - section: 'Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf'
+    section_type: linked_pdf
+    source_line: The Funds are not a mutual funds or any other type of investment
+      company within the meaning of the Investment Company Act of 1940, as amended,
+    unit: null
+    values:
+    - 1940.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2025/2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025.html
+source_path: corpus/02-hellenic/shipbuilding/2025/2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025.html
 source_stem: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025
 source_url: https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-9-30-2025
 summary: 'Main
@@ -419,7 +584,7 @@ Seasonal Headwinds as We Enter October - Despite relatively robust spot rates ac
 Source: Breakwave Advisors
 
 ## Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf
-Source asset: reports/hellenic/shipbuilding/pdfs/2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf
+Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf
 
 [Page 1]
 Dry Bulk Shipping

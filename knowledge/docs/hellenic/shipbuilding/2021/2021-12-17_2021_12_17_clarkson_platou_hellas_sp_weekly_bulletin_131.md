@@ -5,6 +5,7 @@ commodities:
 date: '2021-12-17'
 doc_id: hellenic_shipbuilding_2021-12-17_2021_12_17_clarkson_platou_hellas_sp_weekly_bulletin_131
 document_type: shipbuilding_update
+is_error_page: false
 key_entities: []
 keywords:
 - vlcc
@@ -25,34 +26,37 @@ linked_assets_ingested: 1
 linked_assets_mirrored: 1
 linked_assets_skipped: 0
 market_tone: neutral
-numeric_observation_count: 59
+numeric_observation_count: 61
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: NEW BUILDING :In dry bulk this week, Chengxi signed contracts for four
     firm plus four optional 63.5k dwt Ultramaxes with Huaxia Financial Leasing
   unit: null
   values:
-  - 63.5
-- &id002
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+  - 63500.0
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: Hellas S&P Weekly Bulletin 17 December 2021
   unit: null
   values:
   - 17.0
   - 2021.0
-- &id003
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: MAN-B&W 6S50ME-B9.3
   unit: null
   values:
   - 6.0
-  - 3.0
-- &id004
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+  - 50.0
+  - 9300.0
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+  section_type: linked_pdf
+  source_line: USD 33.5 M
+  unit: usd
+  values:
+  - 33500.0
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: 61,000 DELY FEB '22 ex NACKS 4 x 30 T SINGAPOREANS
   unit: null
@@ -61,16 +65,14 @@ numeric_observations:
   - 22.0
   - 4.0
   - 30.0
-- &id005
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: SS 02/23
   unit: null
   values:
   - 2.0
   - 23.0
-- &id006
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: NORD COLUMBIA 60,396 2018 OSHIMA 4 x 30 T RGN USD 32 M U/D
   unit: usd
@@ -79,31 +81,28 @@ numeric_observations:
   - 2018.0
   - 4.0
   - 30.0
-- &id007
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: DD 02/23
   unit: null
   values:
   - 2.0
   - 23.0
-- &id008
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: MAN-B&W 6S50MC-C
   unit: null
   values:
   - 6.0
-- &id009
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+  - 50.0
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: SS 08/25
   unit: null
   values:
   - 8.0
   - 25.0
-- &id010
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: FERONIA 56,058 2007 MITSUI 4 x 30 T USD 16.4 M U/D
   unit: usd
@@ -112,48 +111,44 @@ numeric_observations:
   - 2007.0
   - 4.0
   - 30.0
-- &id011
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+  - 16400.0
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: DD 11/23
   unit: null
   values:
   - 11.0
   - 23.0
-- &id012
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: SS 08/26
   unit: null
   values:
   - 8.0
   - 26.0
-- &id013
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: NORDCOLORADO 37,976
   unit: null
   values:
   - 37976.0
-- &id014
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: MAN-B&W 5G50ME-B9.3 DD 08/24
   unit: null
   values:
   - 5.0
-  - 3.0
+  - 50.0
+  - 9300.0
   - 8.0
   - 24.0
-- &id015
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: USD 42.8 M
   unit: usd
   values:
-  - 42.8
-- &id016
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+  - 42800.0
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: 2016 ZHEJIANG OUHUA 4 x 30 T U/D
   unit: null
@@ -161,55 +156,48 @@ numeric_observations:
   - 2016.0
   - 4.0
   - 30.0
-- &id017
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: BWTS fitted SS 01/26
   unit: null
   values:
   - 1.0
   - 26.0
-- &id018
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: NORDRUBICON 37,985
   unit: null
   values:
   - 37985.0
-- &id019
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: DD 01/24
   unit: null
   values:
   - 1.0
   - 24.0
-- &id020
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: DELY MAY/JUNE '22 ex HYUNDAI USD 98 M
   unit: usd
   values:
   - 22.0
   - 98.0
-- &id021
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: 2 x VLCC RESALES 300,000 Scrubber fitted N/A GREEKS
   unit: null
   values:
   - 2.0
   - 300000.0
-- &id022
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: SS 02/25
   unit: null
   values:
   - 2.0
   - 25.0
-- &id023
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: ATHENIAN HARMONY 298,996 2010 HHI MAN-B&W 6S90MC-C USD 42.5 M GREEKS
   unit: usd
@@ -217,79 +205,71 @@ numeric_observations:
   - 298996.0
   - 2010.0
   - 6.0
-  - 42.5
-- &id024
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+  - 90.0
+  - 42500.0
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: SS 07/25
   unit: null
   values:
   - 7.0
   - 25.0
-- &id025
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: SILVER 107,507
   unit: null
   values:
   - 107507.0
-- &id026
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: SS 07/23
   unit: null
   values:
   - 7.0
   - 23.0
-- &id027
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: MAN-B&W 6S60MC-C7.2 RGN USD 49 M
   unit: usd
   values:
   - 6.0
-  - 2.0
+  - 60.0
+  - 7200.0
   - 49.0
-- &id028
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: 2010 TSUNEISHI GREEKS
   unit: null
   values:
   - 2010.0
-- &id029
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: SS 09/25
   unit: null
   values:
   - 9.0
   - 25.0
-- &id030
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: GOLD 107,488
   unit: null
   values:
   - 107488.0
-- &id031
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: DD 09/25
   unit: null
   values:
   - 9.0
   - 25.0
-- &id032
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: SS 06/22
   unit: null
   values:
   - 6.0
   - 22.0
-- &id033
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: GUANABARA 106,045 2007 TSUNEISHI MAN-B&W 6S60MC6.1 USD 16.6 M U/D
   unit: usd
@@ -297,65 +277,66 @@ numeric_observations:
   - 106045.0
   - 2007.0
   - 6.0
-  - 1.0
-- &id034
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+  - 60.0
+  - 6100.0
+  - 16600.0
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: DD 06/22
   unit: null
   values:
   - 6.0
   - 22.0
-- &id035
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: SS 11/25
   unit: null
   values:
   - 11.0
   - 25.0
-- &id036
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: DD 12/23
   unit: null
   values:
   - 12.0
   - 23.0
-- &id037
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: MAN-B&W 6S60MC-C USD 15 M
   unit: usd
   values:
   - 6.0
-- &id038
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+  - 60.0
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: 106,053 2005 HYUNDAI SAMHO GREEKS
   unit: null
   values:
   - 106053.0
   - 2005.0
-- &id039
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+  section_type: linked_pdf
+  source_line: Cap1 Each
+  unit: null
+  values:
+  - 1.0
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: Page 1 of 3
   unit: null
   values:
   - 1.0
   - 3.0
-- &id040
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: In dry bulk this week, Chengxi signed contracts for four firm plus
     four optional 63.5k dwt Ultramaxes with Huaxia Financial Leasing. Delivery of
     the firm
   unit: null
   values:
-  - 63.5
-- &id041
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+  - 63500.0
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: vessels are expected to begin in 4Q 2023 and run into 2024. Taiwan
     Navigation announced ordering two firm 63.5k dwt Ultramaxes at Oshima
@@ -364,61 +345,53 @@ numeric_observations:
   - 4.0
   - 2023.0
   - 2024.0
-  - 63.5
-- &id042
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+  - 63500.0
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: Shipbuilding, with delivery of the vessels set for 2024.
   unit: null
   values:
   - 2024.0
-- &id043
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: In the gas carrier market, it was reported that CenerTech ordered one
     firm 12k CBM LNG Bunkering vessel at Nantong CIMC SOE, with the vessel
   unit: null
   values:
   - 12.0
-- &id044
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: slated for delivery in July 2024.
   unit: null
   values:
   - 2024.0
-- &id045
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: In general cargo, Fosenn Yard Emden announced contracting six firm
     5,000 dwt General Cargo Vessels from an unknown German Owner, with
   unit: null
   values:
   - 5000.0
-- &id046
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: delivery of all six vessels expected within 2023.
   unit: null
   values:
   - 2023.0
-- &id047
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: Finally, in the Ferry market, it was reported that Rete Ferroviaria
     Italiana ordered a firm LNG Dual-Fuel, 150m LOA RoRo at Astillero Barreras, with
   unit: null
   values:
   - 150.0
-- &id048
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: delivery of the vessel set for 2024.
   unit: null
   values:
   - 2024.0
-- &id049
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: BDI 2379 - 119 EURO/USD 1.13087 BUNKERS ROTTERDAM SPORE FUJAIRAH
   unit: usd
@@ -426,8 +399,7 @@ numeric_observations:
   - 2379.0
   - 119.0
   - 1.13087
-- &id050
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: BCI 2727 - 167 YEN/USD 0.00878 VLSFO 539.00 602.50 598.00
   unit: usd
@@ -437,8 +409,7 @@ numeric_observations:
   - 539.0
   - 602.5
   - 598.0
-- &id051
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: BPI 2444 - 182 BRENT MGO 620.00 636.50 766.00
   unit: null
@@ -448,37 +419,33 @@ numeric_observations:
   - 620.0
   - 636.5
   - 766.0
-- &id052
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: BSI 2469 - 45 73.67 IFO 380 417.00 424.00 436.00
   unit: null
   values:
   - 2469.0
   - 45.0
-  - 73.67
+  - 73670.0
   - 380.0
   - 417.0
   - 424.0
   - 436.0
-- &id053
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: BHSI 1547 - 10
   unit: null
   values:
   - 1547.0
   - 10.0
-- &id054
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: Page 2 of 3
   unit: null
   values:
   - 2.0
   - 3.0
-- &id055
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: '62 Kifissias Avenue ("Clarksons Platou") for general information purposes.
     The Information is drawn from Clarksons Platou''s database and other sources.
@@ -487,8 +454,7 @@ numeric_observations:
   unit: null
   values:
   - 62.0
-- &id056
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: 151 25 Clarksons Platou has taken reasonable care in the compilation
     of the Information and believes it to be accurate and correct, data compilation
@@ -498,8 +464,7 @@ numeric_observations:
   values:
   - 151.0
   - 25.0
-- &id057
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: Direct +(30) 210 458 6700
   unit: null
@@ -508,8 +473,7 @@ numeric_observations:
   - 210.0
   - 458.0
   - 6700.0
-- &id058
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: Fax +(30) 210 458 6799 This Information is confidential and is solely
     for the internal use of the recipient. Neither the whole nor any part of the Information
@@ -521,8 +485,7 @@ numeric_observations:
   - 210.0
   - 458.0
   - 6799.0
-- &id059
-  section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+- section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
   section_type: linked_pdf
   source_line: Page 3 of 3
   unit: null
@@ -539,67 +502,452 @@ section_count: 2
 signals:
   numeric_observation_count: 59
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
-  - *id048
-  - *id049
-  - *id050
-  - *id051
-  - *id052
-  - *id053
-  - *id054
-  - *id055
-  - *id056
-  - *id057
-  - *id058
-  - *id059
+  - section: Main
+    section_type: null
+    source_line: NEW BUILDING :In dry bulk this week, Chengxi signed contracts for
+      four firm plus four optional 63.5k dwt Ultramaxes with Huaxia Financial Leasing
+    unit: null
+    values:
+    - 63.5
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: Hellas S&P Weekly Bulletin 17 December 2021
+    unit: null
+    values:
+    - 17.0
+    - 2021.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: MAN-B&W 6S50ME-B9.3
+    unit: null
+    values:
+    - 6.0
+    - 3.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: 61,000 DELY FEB '22 ex NACKS 4 x 30 T SINGAPOREANS
+    unit: null
+    values:
+    - 61000.0
+    - 22.0
+    - 4.0
+    - 30.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: SS 02/23
+    unit: null
+    values:
+    - 2.0
+    - 23.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: NORD COLUMBIA 60,396 2018 OSHIMA 4 x 30 T RGN USD 32 M U/D
+    unit: usd
+    values:
+    - 60396.0
+    - 2018.0
+    - 4.0
+    - 30.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: DD 02/23
+    unit: null
+    values:
+    - 2.0
+    - 23.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: MAN-B&W 6S50MC-C
+    unit: null
+    values:
+    - 6.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: SS 08/25
+    unit: null
+    values:
+    - 8.0
+    - 25.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: FERONIA 56,058 2007 MITSUI 4 x 30 T USD 16.4 M U/D
+    unit: usd
+    values:
+    - 56058.0
+    - 2007.0
+    - 4.0
+    - 30.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: DD 11/23
+    unit: null
+    values:
+    - 11.0
+    - 23.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: SS 08/26
+    unit: null
+    values:
+    - 8.0
+    - 26.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: NORDCOLORADO 37,976
+    unit: null
+    values:
+    - 37976.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: MAN-B&W 5G50ME-B9.3 DD 08/24
+    unit: null
+    values:
+    - 5.0
+    - 3.0
+    - 8.0
+    - 24.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: USD 42.8 M
+    unit: usd
+    values:
+    - 42.8
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: 2016 ZHEJIANG OUHUA 4 x 30 T U/D
+    unit: null
+    values:
+    - 2016.0
+    - 4.0
+    - 30.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: BWTS fitted SS 01/26
+    unit: null
+    values:
+    - 1.0
+    - 26.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: NORDRUBICON 37,985
+    unit: null
+    values:
+    - 37985.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: DD 01/24
+    unit: null
+    values:
+    - 1.0
+    - 24.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: DELY MAY/JUNE '22 ex HYUNDAI USD 98 M
+    unit: usd
+    values:
+    - 22.0
+    - 98.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: 2 x VLCC RESALES 300,000 Scrubber fitted N/A GREEKS
+    unit: null
+    values:
+    - 2.0
+    - 300000.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: SS 02/25
+    unit: null
+    values:
+    - 2.0
+    - 25.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: ATHENIAN HARMONY 298,996 2010 HHI MAN-B&W 6S90MC-C USD 42.5 M GREEKS
+    unit: usd
+    values:
+    - 298996.0
+    - 2010.0
+    - 6.0
+    - 42.5
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: SS 07/25
+    unit: null
+    values:
+    - 7.0
+    - 25.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: SILVER 107,507
+    unit: null
+    values:
+    - 107507.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: SS 07/23
+    unit: null
+    values:
+    - 7.0
+    - 23.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: MAN-B&W 6S60MC-C7.2 RGN USD 49 M
+    unit: usd
+    values:
+    - 6.0
+    - 2.0
+    - 49.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: 2010 TSUNEISHI GREEKS
+    unit: null
+    values:
+    - 2010.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: SS 09/25
+    unit: null
+    values:
+    - 9.0
+    - 25.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: GOLD 107,488
+    unit: null
+    values:
+    - 107488.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: DD 09/25
+    unit: null
+    values:
+    - 9.0
+    - 25.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: SS 06/22
+    unit: null
+    values:
+    - 6.0
+    - 22.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: GUANABARA 106,045 2007 TSUNEISHI MAN-B&W 6S60MC6.1 USD 16.6 M U/D
+    unit: usd
+    values:
+    - 106045.0
+    - 2007.0
+    - 6.0
+    - 1.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: DD 06/22
+    unit: null
+    values:
+    - 6.0
+    - 22.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: SS 11/25
+    unit: null
+    values:
+    - 11.0
+    - 25.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: DD 12/23
+    unit: null
+    values:
+    - 12.0
+    - 23.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: MAN-B&W 6S60MC-C USD 15 M
+    unit: usd
+    values:
+    - 6.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: 106,053 2005 HYUNDAI SAMHO GREEKS
+    unit: null
+    values:
+    - 106053.0
+    - 2005.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: Page 1 of 3
+    unit: null
+    values:
+    - 1.0
+    - 3.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: In dry bulk this week, Chengxi signed contracts for four firm plus
+      four optional 63.5k dwt Ultramaxes with Huaxia Financial Leasing. Delivery of
+      the firm
+    unit: null
+    values:
+    - 63.5
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: vessels are expected to begin in 4Q 2023 and run into 2024. Taiwan
+      Navigation announced ordering two firm 63.5k dwt Ultramaxes at Oshima
+    unit: null
+    values:
+    - 4.0
+    - 2023.0
+    - 2024.0
+    - 63.5
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: Shipbuilding, with delivery of the vessels set for 2024.
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: In the gas carrier market, it was reported that CenerTech ordered
+      one firm 12k CBM LNG Bunkering vessel at Nantong CIMC SOE, with the vessel
+    unit: null
+    values:
+    - 12.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: slated for delivery in July 2024.
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: In general cargo, Fosenn Yard Emden announced contracting six firm
+      5,000 dwt General Cargo Vessels from an unknown German Owner, with
+    unit: null
+    values:
+    - 5000.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: delivery of all six vessels expected within 2023.
+    unit: null
+    values:
+    - 2023.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: Finally, in the Ferry market, it was reported that Rete Ferroviaria
+      Italiana ordered a firm LNG Dual-Fuel, 150m LOA RoRo at Astillero Barreras,
+      with
+    unit: null
+    values:
+    - 150.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: delivery of the vessel set for 2024.
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: BDI 2379 - 119 EURO/USD 1.13087 BUNKERS ROTTERDAM SPORE FUJAIRAH
+    unit: usd
+    values:
+    - 2379.0
+    - 119.0
+    - 1.13087
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: BCI 2727 - 167 YEN/USD 0.00878 VLSFO 539.00 602.50 598.00
+    unit: usd
+    values:
+    - 2727.0
+    - 167.0
+    - 539.0
+    - 602.5
+    - 598.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: BPI 2444 - 182 BRENT MGO 620.00 636.50 766.00
+    unit: null
+    values:
+    - 2444.0
+    - 182.0
+    - 620.0
+    - 636.5
+    - 766.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: BSI 2469 - 45 73.67 IFO 380 417.00 424.00 436.00
+    unit: null
+    values:
+    - 2469.0
+    - 45.0
+    - 73.67
+    - 380.0
+    - 417.0
+    - 424.0
+    - 436.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: BHSI 1547 - 10
+    unit: null
+    values:
+    - 1547.0
+    - 10.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: Page 2 of 3
+    unit: null
+    values:
+    - 2.0
+    - 3.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: '62 Kifissias Avenue ("Clarksons Platou") for general information
+      purposes. The Information is drawn from Clarksons Platou''s database and other
+      sources. Clarksons Platou advises that: (i) any Information extracted from Clarksons
+      Platou''s database is'
+    unit: null
+    values:
+    - 62.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: 151 25 Clarksons Platou has taken reasonable care in the compilation
+      of the Information and believes it to be accurate and correct, data compilation
+      is subject to limited audit and validation procedures and may accordingly contain
+      errors; (iv)
+    unit: null
+    values:
+    - 151.0
+    - 25.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: Direct +(30) 210 458 6700
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6700.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: Fax +(30) 210 458 6799 This Information is confidential and is solely
+      for the internal use of the recipient. Neither the whole nor any part of the
+      Information may be disclosed to, or used or relied upon by, any other person
+      or used for any other purpose withou
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6799.0
+  - section: 'Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf'
+    section_type: linked_pdf
+    source_line: Page 3 of 3
+    unit: null
+    values:
+    - 3.0
+    - 3.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2021/2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131.html
+source_path: corpus/02-hellenic/shipbuilding/2021/2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131.html
 source_stem: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131
 source_url: https://www.hellenicshippingnews.com/clarkson-platou-hellas-sp-weekly-bulletin-131
 summary: 'Main
@@ -757,7 +1105,7 @@ NEW BUILDING :In dry bulk this week, Chengxi signed contracts for four firm plus
 Source: Clarkson Platou (Hellas) ltd
 
 ## Linked asset: 2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf
-Source asset: reports/hellenic/shipbuilding/pdfs/2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf
+Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-12-17_clarkson-platou-hellas-sp-weekly-bulletin-131_report-17-12-2021_e94631320786.pdf
 
 [Page 1]
 `

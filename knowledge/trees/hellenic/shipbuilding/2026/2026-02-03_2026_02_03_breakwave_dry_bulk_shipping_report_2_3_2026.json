@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1616,
-  "source_path": "reports/hellenic/shipbuilding/2026/2026-02-03_breakwave-dry-bulk-shipping-report-2-3-2026.html",
+  "token_count": 1618,
+  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-02-03_breakwave-dry-bulk-shipping-report-2-3-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-2-3-2026",
   "children": [
     {
@@ -68,7 +68,7 @@
       "section_path_text": "Linked asset: 2026-02-03_breakwave-dry-bulk-shipping-report-2-3-2026_breakwavedryfebruary32026report_130bb9dcfd90.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-02-03_breakwave-dry-bulk-shipping-report-2-3-2026_breakwavedryfebruary32026report_130bb9dcfd90.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nFebruary 3, 2026\n• A January for the Records - January 2026 will be remembered as a significant\nShort-term Indicators\npositive outlier for the dry bulk market; after an anticipated seasonal weakening\nMomentum: Positive\nduring the year-end period, the Capesize market staged a dramatic reversal with\nspot rates reaching nearly $30,000, exceeding multi-year historical ranges and Sentiment: Positive\nsignificantly outpacing initial expectations. While the specific drivers of this rally are Fundamentals: Negative\nmultifaceted, key factors included persistent adverse weather in the Northern\nAtlantic restricting vessel supply, alongside steady bauxite flows in the South\nBreakwave Dry\nAtlantic and unexpectedly robust export performance for iron ore in the Pacific 2260\nFutures Index:\nBasin.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-02-03_breakwave-dry-bulk-shipping-report-2-3-2026_breakwavedryfebruary32026report_130bb9dcfd90.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nFebruary 3, 2026\n• A January for the Records - January 2026 will be remembered as a significant\nShort-term Indicators\npositive outlier for the dry bulk market; after an anticipated seasonal weakening\nMomentum: Positive\nduring the year-end period, the Capesize market staged a dramatic reversal with\nspot rates reaching nearly $30,000, exceeding multi-year historical ranges and Sentiment: Positive\nsignificantly outpacing initial expectations. While the specific drivers of this rally are Fundamentals: Negative\nmultifaceted, key factors included persistent adverse weather in the Northern\nAtlantic restricting vessel supply, alongside steady bauxite flows in the South\nBreakwave Dry\nAtlantic and unexpectedly robust export performance for iron ore in the Pacific 2260\nFutures Index:\nBasin.",
       "keywords": [
         "capesize",
         "panamax",
@@ -81,7 +81,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1541,
+      "token_count": 1543,
       "section_type": "linked_pdf",
       "children": []
     }

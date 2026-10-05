@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1283,
-  "source_path": "reports/hellenic/vessel_valuations/2025/2025-05-13_weekly-vessel-valuations-report-may-13-2025.html",
+  "token_count": 1285,
+  "source_path": "corpus/02-hellenic/vessel_valuations/2025/2025-05-13_weekly-vessel-valuations-report-may-13-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-may-13-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-05-13_weekly-vessel-valuations-report-may-13-2025_img1_13520250_7720b287cc32.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/vessel_valuations/2025/assets/2025-05-13_weekly-vessel-valuations-report-may-13-2025_img1_13520250_7720b287cc32.jpg\n\nLinked image asset: 2025-05-13_weekly-vessel-valuations-report-may-13-2025_img1_13520250_7720b287cc32.jpg\n\nImage metadata: JPEG 678x313 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\n© VesselsValue. ----$>}j _ _\n13 May 2025 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra ua MR Cape = Pmax = Supra.",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2025/assets/2025-05-13_weekly-vessel-valuations-report-may-13-2025_img1_13520250_7720b287cc32.jpg\n\nLinked image asset: 2025-05-13_weekly-vessel-valuations-report-may-13-2025_img1_13520250_7720b287cc32.jpg\n\nImage metadata: JPEG 678x313 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\n© VesselsValue. ----$>}j _ _\n13 May 2025 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra ua MR Cape = Pmax = Supra.",
       "keywords": [
         "capesize",
         "supramax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 694,
+      "token_count": 696,
       "section_type": "linked_image_asset",
       "children": []
     }

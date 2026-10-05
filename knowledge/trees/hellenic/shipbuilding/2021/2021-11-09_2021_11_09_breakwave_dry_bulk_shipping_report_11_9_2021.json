@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1509,
-  "source_path": "reports/hellenic/shipbuilding/2021/2021-11-09_breakwave-dry-bulk-shipping-report-11-9-2021.html",
+  "token_count": 1511,
+  "source_path": "corpus/02-hellenic/shipbuilding/2021/2021-11-09_breakwave-dry-bulk-shipping-report-11-9-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-11-9-2021",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2021-11-09_breakwave-dry-bulk-shipping-report-11-9-2021_breakwavenovember92021report_652c0c2d7baa.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2021-11-09_breakwave-dry-bulk-shipping-report-11-9-2021_breakwavenovember92021report_652c0c2d7baa.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nNovember 9, 2021\nBreakwave Dry Futures Index: 2,227 Baltic Dry Index (spot): 2,718 Short-term Indicators:\n↓ 30D: -50.3% ↓ 30D: -50.8% Momentum: Negative\n↑ YTD: 126.0% ↑ YTD: 99.0% Sentiment: Neutral\n↑ YOY: 110.7% ↑ YOY: 127.3% Fundamentals: Neutral\nBi-Weekly Report\n• Dry bulk rates drop back down to earth. - As volatility in the dry bulk space returned with a\nvengeance, so did potential trading opportunities, and the last leg of this year's spectacular journey might prove a\ngreat one.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-11-09_breakwave-dry-bulk-shipping-report-11-9-2021_breakwavenovember92021report_652c0c2d7baa.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nNovember 9, 2021\nBreakwave Dry Futures Index: 2,227 Baltic Dry Index (spot): 2,718 Short-term Indicators:\n↓ 30D: -50.3% ↓ 30D: -50.8% Momentum: Negative\n↑ YTD: 126.0% ↑ YTD: 99.0% Sentiment: Neutral\n↑ YOY: 110.7% ↑ YOY: 127.3% Fundamentals: Neutral\nBi-Weekly Report\n• Dry bulk rates drop back down to earth. - As volatility in the dry bulk space returned with a\nvengeance, so did potential trading opportunities, and the last leg of this year's spectacular journey might prove a\ngreat one.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1423,
+      "token_count": 1425,
       "section_type": "linked_pdf",
       "children": []
     }

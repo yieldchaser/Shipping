@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1718,
-  "source_path": "reports/hellenic/shipbuilding/2025/2025-11-11_breakwave-dry-bulk-shipping-report-11-11-2025.html",
+  "token_count": 1720,
+  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-11-11_breakwave-dry-bulk-shipping-report-11-11-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-11-11-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-11-11_breakwave-dry-bulk-shipping-report-11-11-2025_breakwavedrynovember112025report_df83f5fc1286.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-11-11_breakwave-dry-bulk-shipping-report-11-11-2025_breakwavedrynovember112025report_df83f5fc1286.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nNovember 11, 2025\n• Steady As She Goes with Strong Seasonality Supporting Current Levels - As\nShort-term Indicators\nthe year draws to a close, we anticipate little cause for concern regarding an\nMomentum: Neutral\nimminent correction in spot rates as strong seasonal cargo flow should support\nfreight rates. Similarly, a significant improvement seems improbable in the absence Sentiment: Neutral\nof an unforeseen event.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-11-11_breakwave-dry-bulk-shipping-report-11-11-2025_breakwavedrynovember112025report_df83f5fc1286.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nNovember 11, 2025\n• Steady As She Goes with Strong Seasonality Supporting Current Levels - As\nShort-term Indicators\nthe year draws to a close, we anticipate little cause for concern regarding an\nMomentum: Neutral\nimminent correction in spot rates as strong seasonal cargo flow should support\nfreight rates. Similarly, a significant improvement seems improbable in the absence Sentiment: Neutral\nof an unforeseen event.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1640,
+      "token_count": 1642,
       "section_type": "linked_pdf",
       "children": []
     }

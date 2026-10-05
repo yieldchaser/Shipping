@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1216,
-  "source_path": "reports/hellenic/vessel_valuations/2026/2026-04-29_weekly-vessel-valuations-report-april-28-2026.html",
+  "token_count": 1218,
+  "source_path": "corpus/02-hellenic/vessel_valuations/2026/2026-04-29_weekly-vessel-valuations-report-april-28-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-april-28-2026",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-04-29_weekly-vessel-valuations-report-april-28-2026_29420251_dc14fafc8adc.jpeg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-04-29_weekly-vessel-valuations-report-april-28-2026_29420251_dc14fafc8adc.jpeg\n\nLinked image asset: 2026-04-29_weekly-vessel-valuations-report-april-28-2026_29420251_dc14fafc8adc.jpeg\n\nImage metadata: JPEG 600x278 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\n(D) Vessels Vale) pa\n28 Apeil 2026 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra m MR Cape Pmax Supra Handy poet Prax Handy Fmax\n6 Ws OAK 10.7% 104% 717% 104% 0.0% 29% 0.0% 105% 10.3% 0.0% 10.2%\n320k 160k Se Tsk SOk 180k 8m 62k 38 7000 4250 1780 noo\n5 ns OAK 10.7% 10.2% 23% 104% 0.0% As 02% 105% 10.3% 0.0% 10.3%\n520k 160k nNOk Tsk SOK 180K ame 60k 3a 7000 4250 780 noo\n» Brad OAK Lh rad +25% 104% 0.0% 0.0% 0% 10.4% 10.3% 0.0% 103%\n320k 160k nOk Sk SOK 180K 80k 60k Sk 7000 4250 1780 noo\ns Bed 0.3% *20% +35 13% 104% OM 10.8% 02% 10.4% 10.3% 0.0% 10.2%\n50k 160k nOk Sk SOk 180k 80k 60k 32k 7000 4250 1780 noo\n2» -O.% 0.3% 13.6% 5.3% 03% 104% OM *1L0% 0.0% 10.4% 10.3% 0.0% 10.3%\nS0k 160k nOk 70K 45k 180K Tsk SSk Ok 7000 4250 780 noo\ns Nae 02% +538 +6.0% AS% 104% 0.0% om 0% 05% 10.3% 0.0% 10.4%\n300k 1SSk 10Sk 70k 45k 75k Tk SOk 0k",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2026/assets/2026-04-29_weekly-vessel-valuations-report-april-28-2026_29420251_dc14fafc8adc.jpeg\n\nLinked image asset: 2026-04-29_weekly-vessel-valuations-report-april-28-2026_29420251_dc14fafc8adc.jpeg\n\nImage metadata: JPEG 600x278 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\n(D) Vessels Vale) pa\n28 Apeil 2026 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra m MR Cape Pmax Supra Handy poet Prax Handy Fmax\n6 Ws OAK 10.7% 104% 717% 104% 0.0% 29% 0.0% 105% 10.3% 0.0% 10.2%\n320k 160k Se Tsk SOk 180k 8m 62k 38 7000 4250 1780 noo\n5 ns OAK 10.7% 10.2% 23% 104% 0.0% As 02% 105% 10.3% 0.0% 10.3%\n520k 160k nNOk Tsk SOK 180K ame 60k 3a 7000 4250 780 noo\n» Brad OAK Lh rad +25% 104% 0.0% 0.0% 0% 10.4% 10.3% 0.0% 103%\n320k 160k nOk Sk SOK 180K 80k 60k Sk 7000 4250 1780 noo\ns Bed 0.3% *20% +35 13% 104% OM 10.8% 02% 10.4% 10.3% 0.0% 10.2%\n50k 160k nOk Sk SOk 180k 80k 60k 32k 7000 4250 1780 noo\n2» -O.% 0.3% 13.6% 5.3% 03% 104% OM *1L0% 0.0% 10.4% 10.3% 0.0% 10.3%\nS0k 160k nOk 70K 45k 180K Tsk SSk Ok 7000 4250 780 noo\ns Nae 02% +538 +6.0% AS% 104% 0.0% om 0% 05% 10.3% 0.0% 10.4%\n300k 1SSk 10Sk 70k 45k 75k Tk SOk ",
       "keywords": [
         "capesize",
         "supramax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 657,
+      "token_count": 659,
       "section_type": "linked_image_asset",
       "children": []
     }

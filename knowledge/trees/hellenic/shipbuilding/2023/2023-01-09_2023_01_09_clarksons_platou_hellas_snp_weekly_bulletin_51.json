@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1897,
-  "source_path": "reports/hellenic/shipbuilding/2023/2023-01-09_clarksons-platou-hellas-snp-weekly-bulletin-51.html",
+  "token_count": 1899,
+  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-01-09_clarksons-platou-hellas-snp-weekly-bulletin-51.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-51",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-01-09_clarksons-platou-hellas-snp-weekly-bulletin-51_report-07-01-2023_bcf1cb1da902.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-01-09_clarksons-platou-hellas-snp-weekly-bulletin-51_report-07-01-2023_bcf1cb1da902.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 07 January 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC-C8.1 SS 01/27\nAQUASALWADOR 180,012 2012 DAEHAN RGN USD 27 M\nBWTS Fitted DD 05/25 GREEKS\nMAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-01-09_clarksons-platou-hellas-snp-weekly-bulletin-51_report-07-01-2023_bcf1cb1da902.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 07 January 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC-C8.1 SS 01/27\nAQUASALWADOR 180,012 2012 DAEHAN RGN USD 27 M\nBWTS Fitted DD 05/25 GREEKS\nMAN B.",
       "keywords": [
         "lng",
         "lpg",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1813,
+      "token_count": 1815,
       "section_type": "linked_pdf",
       "children": []
     }

@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1933,
-  "source_path": "reports/hellenic/shipbuilding/2022/2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022.html",
+  "token_count": 1935,
+  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-6-30-2022",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf\n\n[Page 1]\nBSEA\nMaritime Decarbonization Monthly\nJune 2022\nThought of the\n\"Shipping could be moving towards net-zero by 2050\"\nMonth:\nThe Big Picture\nThe recent and much-anticipated meeting of the Marine Environmental Protection Committee,\nwhich held its 78th session June 6-10th (MEPC 78), underlined that sufficient momentum and\nsupport exists among most member states for the IMO to begin setting more ambitious targets\nand policies at upcoming IMO meetings. The focus was to progress IMO policy to build an effective\ngreenhouse gas emissions (GHG) reduction strategy to be approved at MEPC 80 in 2023.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf\n\n[Page 1]\nBSEA\nMaritime Decarbonization Monthly\nJune 2022\nThought of the\n\"Shipping could be moving towards net-zero by 2050\"\nMonth:\nThe Big Picture\nThe recent and much-anticipated meeting of the Marine Environmental Protection Committee,\nwhich held its 78th session June 6-10th (MEPC 78), underlined that sufficient momentum and\nsupport exists among most member states for the IMO to begin setting more ambitious targets\nand policies at upcoming IMO meetings. The focus was to progress IMO policy to build an effective\ngreenhouse gas emissions (GHG) reduction strategy to be approved at MEPC 80 in 2023.",
       "keywords": [
         "panamax",
         "lng",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1865,
+      "token_count": 1867,
       "section_type": "linked_pdf",
       "children": []
     }

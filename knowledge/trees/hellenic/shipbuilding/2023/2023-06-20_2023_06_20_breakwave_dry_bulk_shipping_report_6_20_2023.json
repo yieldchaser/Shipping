@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1468,
-  "source_path": "reports/hellenic/shipbuilding/2023/2023-06-20_breakwave-dry-bulk-shipping-report-6-20-2023.html",
+  "token_count": 1470,
+  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-06-20_breakwave-dry-bulk-shipping-report-6-20-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-6-20-2023",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-06-20_breakwave-dry-bulk-shipping-report-6-20-2023_breakwavejune202023report_3545fba907d0.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-06-20_breakwave-dry-bulk-shipping-report-6-20-2023_breakwavejune202023report_3545fba907d0.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nJune 20, 2023\nBreakwave Dry Futures Index: 1,400 Baltic Dry Index (spot): 1,076 Short-term Indicators:\n↓ 30D: -9.0% ↓ 30D: -27.1% Momentum: Positive\n↑ YTD: 36.3% ↓ YTD: -29.0% Sentiment: Neutral\n↓ YOY: -51.8% ↓ YOY: -56.3% Fundamentals: Neutral\nBi-Weekly Report\n• Futures curve continues to adjust to an uninspiring macro outlook - With the summer months upon us, dry bulk\nmarkets are faced with softening economic activity out of China, which remains the main demand driver for the\nsector. So far China has failed to excite, and although the year-over-year comps look impressive, one should always\nkeep in mind the considerable base effects on such comparisons.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-06-20_breakwave-dry-bulk-shipping-report-6-20-2023_breakwavejune202023report_3545fba907d0.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nJune 20, 2023\nBreakwave Dry Futures Index: 1,400 Baltic Dry Index (spot): 1,076 Short-term Indicators:\n↓ 30D: -9.0% ↓ 30D: -27.1% Momentum: Positive\n↑ YTD: 36.3% ↓ YTD: -29.0% Sentiment: Neutral\n↓ YOY: -51.8% ↓ YOY: -56.3% Fundamentals: Neutral\nBi-Weekly Report\n• Futures curve continues to adjust to an uninspiring macro outlook - With the summer months upon us, dry bulk\nmarkets are faced with softening economic activity out of China, which remains the main demand driver for the\nsector. So far China has failed to excite, and although the year-over-year comps look impressive, one should always\nkeep in mind the considerable base effects on such comparisons.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1391,
+      "token_count": 1393,
       "section_type": "linked_pdf",
       "children": []
     }

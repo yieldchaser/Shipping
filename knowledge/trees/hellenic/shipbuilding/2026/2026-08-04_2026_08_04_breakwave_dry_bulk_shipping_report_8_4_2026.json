@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1604,
-  "source_path": "reports/hellenic/shipbuilding/2026/2026-08-04_breakwave-dry-bulk-shipping-report-8-4-2026.html",
+  "token_count": 1606,
+  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-08-04_breakwave-dry-bulk-shipping-report-8-4-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-8-4-2026",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-08-04_breakwave-dry-bulk-shipping-report-8-4-2026_breakwavedryaugust42026report_3b5bd28e05c3.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-08-04_breakwave-dry-bulk-shipping-report-8-4-2026_breakwavedryaugust42026report_3b5bd28e05c3.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nAugust 4, 2026\n• Dry Bulk Rate Volatility Collapses as Spot Rates Remain High - The dry bulk\nShort-term Indicators\nmarket continues to trade at historically elevated levels with no immediate signs of\nMomentum: Positive\na correction, while freight rate volatility has collapsed to multi-year lows. Current\nspot rate strength is primarily sustained by structural vessel supply constraints, Sentiment: Neutral\ndriven by ongoing geopolitical disruptions and an intensive global drydocking Fundamentals: Neutral\nschedule.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-08-04_breakwave-dry-bulk-shipping-report-8-4-2026_breakwavedryaugust42026report_3b5bd28e05c3.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nAugust 4, 2026\n• Dry Bulk Rate Volatility Collapses as Spot Rates Remain High - The dry bulk\nShort-term Indicators\nmarket continues to trade at historically elevated levels with no immediate signs of\nMomentum: Positive\na correction, while freight rate volatility has collapsed to multi-year lows. Current\nspot rate strength is primarily sustained by structural vessel supply constraints, Sentiment: Neutral\ndriven by ongoing geopolitical disruptions and an intensive global drydocking Fundamentals: Neutral\nschedule.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1522,
+      "token_count": 1524,
       "section_type": "linked_pdf",
       "children": []
     }

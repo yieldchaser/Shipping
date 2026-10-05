@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2606,
-  "source_path": "reports/hellenic/shipbuilding/2022/2022-10-21_clarksons-platou-hellas-snp-weekly-bulletin-41.html",
+  "token_count": 2608,
+  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-10-21_clarksons-platou-hellas-snp-weekly-bulletin-41.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-41",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-10-21_clarksons-platou-hellas-snp-weekly-bulletin-41_report-21-10-2022_eeda4ab2a02a.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-10-21_clarksons-platou-hellas-snp-weekly-bulletin-41_report-21-10-2022_eeda4ab2a02a.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 21 October 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC6.1 SS 06/26\nARETHOUSA 169,770 2001 SASEBO HI BWTS Fitted DD 07/24 USD 15.1 M GREEKS\nMAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-10-21_clarksons-platou-hellas-snp-weekly-bulletin-41_report-21-10-2022_eeda4ab2a02a.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 21 October 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC6.1 SS 06/26\nARETHOUSA 169,770 2001 SASEBO HI BWTS Fitted DD 07/24 USD 15.1 M GREEKS\nMAN B.",
       "keywords": [
         "lng",
         "lpg",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2516,
+      "token_count": 2518,
       "section_type": "linked_pdf",
       "children": []
     }

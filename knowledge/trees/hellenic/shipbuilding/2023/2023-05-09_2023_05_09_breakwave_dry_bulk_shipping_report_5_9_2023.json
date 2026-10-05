@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1450,
-  "source_path": "reports/hellenic/shipbuilding/2023/2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023.html",
+  "token_count": 1452,
+  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-5-9-2023",
   "children": [
     {
@@ -68,7 +68,7 @@
       "section_path_text": "Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nMay 9, 2023\nBreakwave Dry Futures Index: 1,703 Baltic Dry Index (spot): 1,558 Short-term Indicators:\n↓ 30D: -7.5% ↓ 30D: -0.1% Momentum: Negative\n↑ YTD: 65.7% ↑ YTD: 2.8% Sentiment: Neutral\n↓ YOY: -47.6% ↓ YOY: -42.7% Fundamentals: Positive\nBi-Weekly Report\n• Stability brings optimism, as Capesize spot rates reach 20,000 - As Capesize rates continue to gently move higher,\none can feel an air of optimism amongst market participants. After all, with volatility having abated considerably\nfrom the highs of the last few years, the lack of steep drops in the spot market has translated to expectations for\nstronger rates for the rest of the year.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nMay 9, 2023\nBreakwave Dry Futures Index: 1,703 Baltic Dry Index (spot): 1,558 Short-term Indicators:\n↓ 30D: -7.5% ↓ 30D: -0.1% Momentum: Negative\n↑ YTD: 65.7% ↑ YTD: 2.8% Sentiment: Neutral\n↓ YOY: -47.6% ↓ YOY: -42.7% Fundamentals: Positive\nBi-Weekly Report\n• Stability brings optimism, as Capesize spot rates reach 20,000 - As Capesize rates continue to gently move higher,\none can feel an air of optimism amongst market participants. After all, with volatility having abated considerably\nfrom the highs of the last few years, the lack of steep drops in the spot market has translated to expectations for\nstronger rates for the rest of the year.",
       "keywords": [
         "capesize",
         "panamax",
@@ -81,7 +81,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1376,
+      "token_count": 1378,
       "section_type": "linked_pdf",
       "children": []
     }

@@ -4,6 +4,7 @@ commodities: []
 date: '2026-02-27'
 doc_id: hellenic_shipbuilding_2026-02-27_2026_02_27_clarksons_platou_hellas_snp_weekly_bulletin_123
 document_type: shipbuilding_update
+is_error_page: false
 key_entities: []
 keywords:
 - supramax
@@ -24,10 +25,9 @@ linked_assets_ingested: 1
 linked_assets_mirrored: 1
 linked_assets_skipped: 0
 market_tone: constructive
-numeric_observation_count: 39
+numeric_observation_count: 41
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: On the Kamsarmax front, c/o Agricore Shipping have concluded the sale
     of the ASL MOON (ABT 81K DWT, 2008, MITSUI TAMANO) at USD 13.6 m to Chinese interests.
@@ -35,8 +35,8 @@ numeric_observations:
   values:
   - 81.0
   - 2008.0
-- &id002
-  section: Main
+  - 13600.0
+- section: Main
   section_type: null
   source_line: Meanwhile, after having invited offers earlier in the week, the THREE
     SASKIAS (ABT 80K DWT, 2014, JMU TSU) has been committed at levels of USD 26.7
@@ -45,8 +45,8 @@ numeric_observations:
   values:
   - 80.0
   - 2014.0
-- &id003
-  section: Main
+  - 26700.0
+- section: Main
   section_type: null
   source_line: In addition, the GIEWONT (ABT 79K DWT, 2010, NEW CENTURY) has been
     concluded at USD 11.8 m, with Chinese being rumored as the buyers.
@@ -54,8 +54,8 @@ numeric_observations:
   values:
   - 79.0
   - 2010.0
-- &id004
-  section: Main
+  - 11800.0
+- section: Main
   section_type: null
   source_line: In the Supramax segment, c/o Densay Shipping have sold the SSI ERDOGAN
     BEY (ABT 50K DWT, 2010, OSHIMA) at USD 15 m, basis surveys freshly passed.
@@ -63,8 +63,7 @@ numeric_observations:
   values:
   - 50.0
   - 2010.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: Finally, in the Handysize sector, the ADVENTURE (ABT 33K DWT, 2011,
     WEIHAI SAMJIN) has changed hands for USD 9.5 m basis a very prompt delivery with
@@ -73,8 +72,8 @@ numeric_observations:
   values:
   - 33.0
   - 2011.0
-- &id006
-  section: Main
+  - 9500.0
+- section: Main
   section_type: null
   source_line: The scrubber fitted Suezmax SIGRUN (ABT 156K DWT, 2013, SUMITOMO) is
     reported sold at USD 65 m to C/O Naftomar.
@@ -83,8 +82,7 @@ numeric_observations:
   - 156.0
   - 2013.0
   - 65.0
-- &id007
-  section: Main
+- section: Main
   section_type: null
   source_line: Additionally, In the MR space, the scrubber-fitted sister vessels NORD
     MAVERICK and NORD MARVEL (ABT 50K DWT, 2020, HMD) have been committed on enbloc
@@ -94,25 +92,23 @@ numeric_observations:
   - 50.0
   - 2020.0
   - 90.0
-- &id008
-  section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+- section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
   section_type: linked_pdf
   source_line: On the Kamsarmax front, c/o Agricore Shipping have concluded the sale
     of the ASL MOON (ABT 81K
   unit: null
   values:
   - 81.0
-- &id009
-  section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+- section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
   section_type: linked_pdf
   source_line: DWT, 2008, MITSUI TAMANO) at USD 13.6 m to Chinese interests, basis
     surveys due September 2026.
   unit: usd
   values:
   - 2008.0
+  - 13600.0
   - 2026.0
-- &id010
-  section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+- section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
   section_type: linked_pdf
   source_line: Meanwhile, after having invited offers earlier in the week, the THREE
     SASKIAS (ABT 80K DWT, 2014, JMU
@@ -120,8 +116,13 @@ numeric_observations:
   values:
   - 80.0
   - 2014.0
-- &id011
-  section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+- section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+  section_type: linked_pdf
+  source_line: TSU) has been reported sold at USD 26.7 m to Chinese interests.
+  unit: usd
+  values:
+  - 26700.0
+- section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
   section_type: linked_pdf
   source_line: In addition, the GIEWONT (ABT 79K DWT, 2010, NEW CENTURY) has been
     concluded at USD 11.8 m, with
@@ -129,8 +130,8 @@ numeric_observations:
   values:
   - 79.0
   - 2010.0
-- &id012
-  section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+  - 11800.0
+- section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
   section_type: linked_pdf
   source_line: In the Supramax segment, c/o Densay Shipping have sold the SSI ERDOGAN
     BEY (ABT 50K DWT, 2010,
@@ -138,8 +139,7 @@ numeric_observations:
   values:
   - 50.0
   - 2010.0
-- &id013
-  section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+- section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
   section_type: linked_pdf
   source_line: Finally, in the Handysize sector, the ADVENTURE (ABT 33K DWT, 2011,
     WEIHAI SAMJIN) has changed hands
@@ -147,8 +147,13 @@ numeric_observations:
   values:
   - 33.0
   - 2011.0
-- &id014
-  section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+- section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+  section_type: linked_pdf
+  source_line: at USD 9.5 m.
+  unit: usd
+  values:
+  - 9500.0
+- section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
   section_type: linked_pdf
   source_line: The scrubber fitted Suezmax SIGRUN (ABT 156K DWT, 2013, SUMITOMO) is
     reported sold at USD 65 m to
@@ -157,8 +162,7 @@ numeric_observations:
   - 156.0
   - 2013.0
   - 65.0
-- &id015
-  section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+- section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
   section_type: linked_pdf
   source_line: 50,000 DWT, 2020, HMD) are understood to be sold enbloc at levels in
     excess of USD 90 million to
@@ -167,8 +171,7 @@ numeric_observations:
   - 50000.0
   - 2020.0
   - 90.0
-- &id016
-  section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+- section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
   section_type: linked_pdf
   source_line: ASL MOON 81,702 2008 MITSUI TAMANO B&W 6S60MC-C7.1 SS 09/26 USD 13.6
     M CHINESE
@@ -177,19 +180,19 @@ numeric_observations:
   - 81702.0
   - 2008.0
   - 6.0
-  - 1.0
+  - 60.0
+  - 7100.0
   - 9.0
   - 26.0
-- &id017
-  section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+  - 13600.0
+- section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
   section_type: linked_pdf
   source_line: BWTS FITTED DD 09/26
   unit: null
   values:
   - 9.0
   - 26.0
-- &id018
-  section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+- section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
   section_type: linked_pdf
   source_line: THREE SASKIAS 80,776 2014 JMU TSU B&W 6S60ME-C8.2 SS 03/29 USD 26.7
     M CHINESE
@@ -198,19 +201,19 @@ numeric_observations:
   - 80776.0
   - 2014.0
   - 6.0
-  - 2.0
+  - 60.0
+  - 8200.0
   - 3.0
   - 29.0
-- &id019
-  section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+  - 26700.0
+- section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
   section_type: linked_pdf
   source_line: BWTS FITTED DD 12/26
   unit: null
   values:
   - 12.0
   - 26.0
-- &id020
-  section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+- section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
   section_type: linked_pdf
   source_line: GIEWONT 79,649 2010 NEW CENTURY B&W 7S50MC-C8.2 SS 10/29 USD 11.8 M
     CHINESE
@@ -219,27 +222,27 @@ numeric_observations:
   - 79649.0
   - 2010.0
   - 7.0
-  - 2.0
+  - 50.0
+  - 8200.0
   - 10.0
   - 29.0
-- &id021
-  section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+  - 11800.0
+- section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
   section_type: linked_pdf
   source_line: BWTS FITTED DD 12/27
   unit: null
   values:
   - 12.0
   - 27.0
-- &id022
-  section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+- section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
   section_type: linked_pdf
   source_line: B&W 6S50MC-C8.2
   unit: null
   values:
   - 6.0
-  - 2.0
-- &id023
-  section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+  - 50.0
+  - 8200.0
+- section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
   section_type: linked_pdf
   source_line: SSI ERDOGAN BEY 50,780 2010 OSHIMA 4x30T SS 01/30 USD 15 M U/D
   unit: usd
@@ -247,26 +250,25 @@ numeric_observations:
   - 50780.0
   - 2010.0
   - 4.0
+  - 30.0
   - 1.0
   - 30.0
-- &id024
-  section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+- section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
   section_type: linked_pdf
   source_line: DD 04/28
   unit: null
   values:
   - 4.0
   - 28.0
-- &id025
-  section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+- section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
   section_type: linked_pdf
   source_line: B&W 6S50MC6.1
   unit: null
   values:
   - 6.0
-  - 1.0
-- &id026
-  section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+  - 50.0
+  - 6100.0
+- section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
   section_type: linked_pdf
   source_line: ADVENTURE 33,755 2011 WEIHAI 4x35T SS 03/26 USD 9.5 M U/D
   unit: usd
@@ -274,27 +276,26 @@ numeric_observations:
   - 33755.0
   - 2011.0
   - 4.0
-  - 5.0
+  - 35.0
   - 3.0
   - 26.0
-- &id027
-  section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+  - 9500.0
+- section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
   section_type: linked_pdf
   source_line: DD 03/26
   unit: null
   values:
   - 3.0
   - 26.0
-- &id028
-  section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+- section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
   section_type: linked_pdf
   source_line: B.&W. 6S70MC-C8.2
   unit: null
   values:
   - 6.0
-  - 2.0
-- &id029
-  section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+  - 70.0
+  - 8200.0
+- section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
   section_type: linked_pdf
   source_line: SIGRUN 156,000 2013 SUMITOMO SCRUBBER FITTED SS 03/28 USD 65 M C/O
   unit: usd
@@ -304,24 +305,22 @@ numeric_observations:
   - 3.0
   - 28.0
   - 65.0
-- &id030
-  section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+- section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
   section_type: linked_pdf
   source_line: DD 07/26 NAFTOMAR
   unit: null
   values:
   - 7.0
   - 26.0
-- &id031
-  section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+- section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
   section_type: linked_pdf
   source_line: B.&W. 6G50ME-C9.5
   unit: null
   values:
   - 6.0
-  - 5.0
-- &id032
-  section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+  - 50.0
+  - 9500.0
+- section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
   section_type: linked_pdf
   source_line: NORD MAVERICK 50,185 2020 HYUNDAI MIPO SCRUBBER FITTED SS 02/30 USD
     XS 90 M U/D
@@ -332,16 +331,14 @@ numeric_observations:
   - 2.0
   - 30.0
   - 90.0
-- &id033
-  section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+- section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
   section_type: linked_pdf
   source_line: DD 02/28 ENBLOC
   unit: null
   values:
   - 2.0
   - 28.0
-- &id034
-  section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+- section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
   section_type: linked_pdf
   source_line: NORD MARVEL 50,185 2020 HYUNDAI MIPO SCRUBBER FITTED SS 05/26 USD XS
     90 M U/D
@@ -352,24 +349,21 @@ numeric_observations:
   - 5.0
   - 26.0
   - 90.0
-- &id035
-  section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+- section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
   section_type: linked_pdf
   source_line: BWTS FITTED DD 05/26 ENBLOC
   unit: null
   values:
   - 5.0
   - 26.0
-- &id036
-  section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+- section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
   section_type: linked_pdf
   source_line: 284 Kifissias Avenue ("Clarksons") for general information purposes.
     The Information is drawn from Clarksons' database and other sources. Clarksons
   unit: null
   values:
   - 284.0
-- &id037
-  section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+- section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
   section_type: linked_pdf
   source_line: 152 32 Information extracted from the databases of other maritime data
     collection agencies may differ from the Information extracted
@@ -377,8 +371,7 @@ numeric_observations:
   values:
   - 152.0
   - 32.0
-- &id038
-  section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+- section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
   section_type: linked_pdf
   source_line: Direct +(30) 210 458 6700 the Information is not an endorsement of
     any commercial policies and/or any conclusions by Clarksons and its 'connected
@@ -388,8 +381,7 @@ numeric_observations:
   - 210.0
   - 458.0
   - 6700.0
-- &id039
-  section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+- section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
   section_type: linked_pdf
   source_line: Fax +(30) 210 458 6799
   unit: null
@@ -406,47 +398,342 @@ section_count: 2
 signals:
   numeric_observation_count: 39
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
+  - section: Main
+    section_type: null
+    source_line: On the Kamsarmax front, c/o Agricore Shipping have concluded the
+      sale of the ASL MOON (ABT 81K DWT, 2008, MITSUI TAMANO) at USD 13.6 m to Chinese
+      interests.
+    unit: usd
+    values:
+    - 81.0
+    - 2008.0
+  - section: Main
+    section_type: null
+    source_line: Meanwhile, after having invited offers earlier in the week, the THREE
+      SASKIAS (ABT 80K DWT, 2014, JMU TSU) has been committed at levels of USD 26.7
+      m to Far Eastern interests.
+    unit: usd
+    values:
+    - 80.0
+    - 2014.0
+  - section: Main
+    section_type: null
+    source_line: In addition, the GIEWONT (ABT 79K DWT, 2010, NEW CENTURY) has been
+      concluded at USD 11.8 m, with Chinese being rumored as the buyers.
+    unit: usd
+    values:
+    - 79.0
+    - 2010.0
+  - section: Main
+    section_type: null
+    source_line: In the Supramax segment, c/o Densay Shipping have sold the SSI ERDOGAN
+      BEY (ABT 50K DWT, 2010, OSHIMA) at USD 15 m, basis surveys freshly passed.
+    unit: usd
+    values:
+    - 50.0
+    - 2010.0
+  - section: Main
+    section_type: null
+    source_line: Finally, in the Handysize sector, the ADVENTURE (ABT 33K DWT, 2011,
+      WEIHAI SAMJIN) has changed hands for USD 9.5 m basis a very prompt delivery
+      with surveys imminently due.
+    unit: usd
+    values:
+    - 33.0
+    - 2011.0
+  - section: Main
+    section_type: null
+    source_line: The scrubber fitted Suezmax SIGRUN (ABT 156K DWT, 2013, SUMITOMO)
+      is reported sold at USD 65 m to C/O Naftomar.
+    unit: usd
+    values:
+    - 156.0
+    - 2013.0
+    - 65.0
+  - section: Main
+    section_type: null
+    source_line: Additionally, In the MR space, the scrubber-fitted sister vessels
+      NORD MAVERICK and NORD MARVEL (ABT 50K DWT, 2020, HMD) have been committed on
+      enbloc basis at levels in excess of USD 90 m to undisclosed buyers.
+    unit: usd
+    values:
+    - 50.0
+    - 2020.0
+    - 90.0
+  - section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+    section_type: linked_pdf
+    source_line: On the Kamsarmax front, c/o Agricore Shipping have concluded the
+      sale of the ASL MOON (ABT 81K
+    unit: null
+    values:
+    - 81.0
+  - section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+    section_type: linked_pdf
+    source_line: DWT, 2008, MITSUI TAMANO) at USD 13.6 m to Chinese interests, basis
+      surveys due September 2026.
+    unit: usd
+    values:
+    - 2008.0
+    - 2026.0
+  - section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+    section_type: linked_pdf
+    source_line: Meanwhile, after having invited offers earlier in the week, the THREE
+      SASKIAS (ABT 80K DWT, 2014, JMU
+    unit: null
+    values:
+    - 80.0
+    - 2014.0
+  - section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+    section_type: linked_pdf
+    source_line: In addition, the GIEWONT (ABT 79K DWT, 2010, NEW CENTURY) has been
+      concluded at USD 11.8 m, with
+    unit: usd
+    values:
+    - 79.0
+    - 2010.0
+  - section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+    section_type: linked_pdf
+    source_line: In the Supramax segment, c/o Densay Shipping have sold the SSI ERDOGAN
+      BEY (ABT 50K DWT, 2010,
+    unit: null
+    values:
+    - 50.0
+    - 2010.0
+  - section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+    section_type: linked_pdf
+    source_line: Finally, in the Handysize sector, the ADVENTURE (ABT 33K DWT, 2011,
+      WEIHAI SAMJIN) has changed hands
+    unit: null
+    values:
+    - 33.0
+    - 2011.0
+  - section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+    section_type: linked_pdf
+    source_line: The scrubber fitted Suezmax SIGRUN (ABT 156K DWT, 2013, SUMITOMO)
+      is reported sold at USD 65 m to
+    unit: usd
+    values:
+    - 156.0
+    - 2013.0
+    - 65.0
+  - section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+    section_type: linked_pdf
+    source_line: 50,000 DWT, 2020, HMD) are understood to be sold enbloc at levels
+      in excess of USD 90 million to
+    unit: usd
+    values:
+    - 50000.0
+    - 2020.0
+    - 90.0
+  - section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+    section_type: linked_pdf
+    source_line: ASL MOON 81,702 2008 MITSUI TAMANO B&W 6S60MC-C7.1 SS 09/26 USD 13.6
+      M CHINESE
+    unit: usd
+    values:
+    - 81702.0
+    - 2008.0
+    - 6.0
+    - 1.0
+    - 9.0
+    - 26.0
+  - section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+    section_type: linked_pdf
+    source_line: BWTS FITTED DD 09/26
+    unit: null
+    values:
+    - 9.0
+    - 26.0
+  - section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+    section_type: linked_pdf
+    source_line: THREE SASKIAS 80,776 2014 JMU TSU B&W 6S60ME-C8.2 SS 03/29 USD 26.7
+      M CHINESE
+    unit: usd
+    values:
+    - 80776.0
+    - 2014.0
+    - 6.0
+    - 2.0
+    - 3.0
+    - 29.0
+  - section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+    section_type: linked_pdf
+    source_line: BWTS FITTED DD 12/26
+    unit: null
+    values:
+    - 12.0
+    - 26.0
+  - section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+    section_type: linked_pdf
+    source_line: GIEWONT 79,649 2010 NEW CENTURY B&W 7S50MC-C8.2 SS 10/29 USD 11.8
+      M CHINESE
+    unit: usd
+    values:
+    - 79649.0
+    - 2010.0
+    - 7.0
+    - 2.0
+    - 10.0
+    - 29.0
+  - section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+    section_type: linked_pdf
+    source_line: BWTS FITTED DD 12/27
+    unit: null
+    values:
+    - 12.0
+    - 27.0
+  - section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+    section_type: linked_pdf
+    source_line: B&W 6S50MC-C8.2
+    unit: null
+    values:
+    - 6.0
+    - 2.0
+  - section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+    section_type: linked_pdf
+    source_line: SSI ERDOGAN BEY 50,780 2010 OSHIMA 4x30T SS 01/30 USD 15 M U/D
+    unit: usd
+    values:
+    - 50780.0
+    - 2010.0
+    - 4.0
+    - 1.0
+    - 30.0
+  - section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+    section_type: linked_pdf
+    source_line: DD 04/28
+    unit: null
+    values:
+    - 4.0
+    - 28.0
+  - section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+    section_type: linked_pdf
+    source_line: B&W 6S50MC6.1
+    unit: null
+    values:
+    - 6.0
+    - 1.0
+  - section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+    section_type: linked_pdf
+    source_line: ADVENTURE 33,755 2011 WEIHAI 4x35T SS 03/26 USD 9.5 M U/D
+    unit: usd
+    values:
+    - 33755.0
+    - 2011.0
+    - 4.0
+    - 5.0
+    - 3.0
+    - 26.0
+  - section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+    section_type: linked_pdf
+    source_line: DD 03/26
+    unit: null
+    values:
+    - 3.0
+    - 26.0
+  - section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+    section_type: linked_pdf
+    source_line: B.&W. 6S70MC-C8.2
+    unit: null
+    values:
+    - 6.0
+    - 2.0
+  - section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+    section_type: linked_pdf
+    source_line: SIGRUN 156,000 2013 SUMITOMO SCRUBBER FITTED SS 03/28 USD 65 M C/O
+    unit: usd
+    values:
+    - 156000.0
+    - 2013.0
+    - 3.0
+    - 28.0
+    - 65.0
+  - section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+    section_type: linked_pdf
+    source_line: DD 07/26 NAFTOMAR
+    unit: null
+    values:
+    - 7.0
+    - 26.0
+  - section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+    section_type: linked_pdf
+    source_line: B.&W. 6G50ME-C9.5
+    unit: null
+    values:
+    - 6.0
+    - 5.0
+  - section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+    section_type: linked_pdf
+    source_line: NORD MAVERICK 50,185 2020 HYUNDAI MIPO SCRUBBER FITTED SS 02/30 USD
+      XS 90 M U/D
+    unit: usd
+    values:
+    - 50185.0
+    - 2020.0
+    - 2.0
+    - 30.0
+    - 90.0
+  - section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+    section_type: linked_pdf
+    source_line: DD 02/28 ENBLOC
+    unit: null
+    values:
+    - 2.0
+    - 28.0
+  - section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+    section_type: linked_pdf
+    source_line: NORD MARVEL 50,185 2020 HYUNDAI MIPO SCRUBBER FITTED SS 05/26 USD
+      XS 90 M U/D
+    unit: usd
+    values:
+    - 50185.0
+    - 2020.0
+    - 5.0
+    - 26.0
+    - 90.0
+  - section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+    section_type: linked_pdf
+    source_line: BWTS FITTED DD 05/26 ENBLOC
+    unit: null
+    values:
+    - 5.0
+    - 26.0
+  - section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+    section_type: linked_pdf
+    source_line: 284 Kifissias Avenue ("Clarksons") for general information purposes.
+      The Information is drawn from Clarksons' database and other sources. Clarksons
+    unit: null
+    values:
+    - 284.0
+  - section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+    section_type: linked_pdf
+    source_line: 152 32 Information extracted from the databases of other maritime
+      data collection agencies may differ from the Information extracted
+    unit: null
+    values:
+    - 152.0
+    - 32.0
+  - section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+    section_type: linked_pdf
+    source_line: Direct +(30) 210 458 6700 the Information is not an endorsement of
+      any commercial policies and/or any conclusions by Clarksons and its 'connected
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6700.0
+  - section: 'Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf'
+    section_type: linked_pdf
+    source_line: Fax +(30) 210 458 6799
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6799.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2026/2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123.html
+source_path: corpus/02-hellenic/shipbuilding/2026/2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123.html
 source_stem: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123
 source_url: https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-123
 summary: 'Main
@@ -500,7 +787,7 @@ Additionally, In the MR space, the scrubber-fitted sister vessels NORD MAVERICK 
 Source: Clarkson Platou (Hellas) ltd
 
 ## Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf
-Source asset: reports/hellenic/shipbuilding/pdfs/2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf
+Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf
 
 [Page 1]
 Clarkson Hellas Ltd.

@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 3143,
-  "source_path": "reports/hellenic/shipbuilding/2025/2025-10-24_clarksons-platou-hellas-snp-weekly-bulletin-111.html",
+  "token_count": 3145,
+  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-10-24_clarksons-platou-hellas-snp-weekly-bulletin-111.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-111",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-10-24_clarksons-platou-hellas-snp-weekly-bulletin-111_weekly-sales-24th-oct-2025_e721320e3ba1.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-10-24_clarksons-platou-hellas-snp-weekly-bulletin-111_weekly-sales-24th-oct-2025_e721320e3ba1.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nDry Cargo\nAnother very active week for Bulk carriers with numerous vessels changing hands and transactions\ntaking place across all segments.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-10-24_clarksons-platou-hellas-snp-weekly-bulletin-111_weekly-sales-24th-oct-2025_e721320e3ba1.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nDry Cargo\nAnother very active week for Bulk carriers with numerous vessels changing hands and transactions\ntaking place across all segments.",
       "keywords": [
         "capesize",
         "supramax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2231,
+      "token_count": 2233,
       "section_type": "linked_pdf",
       "children": []
     }

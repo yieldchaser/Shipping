@@ -4,6 +4,7 @@ commodities: []
 date: '2025-11-14'
 doc_id: hellenic_shipbuilding_2025-11-14_2025_11_14_clarksons_platou_hellas_snp_weekly_bulletin_109
 document_type: shipbuilding_update
+is_error_page: false
 key_entities:
 - China
 keywords:
@@ -25,10 +26,9 @@ linked_assets_ingested: 1
 linked_assets_mirrored: 1
 linked_assets_skipped: 0
 market_tone: cautiously_bearish
-numeric_observation_count: 22
+numeric_observation_count: 23
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: On the Handymax segment, the YANGTZE NOVA (abt 47k dwt, built 2013,
     Jiangsu Eastern) sold for a price in the region of USD 12m, and the Handysize,
@@ -40,8 +40,7 @@ numeric_observations:
   - 2013.0
   - 32.0
   - 2010.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: Similar pattern on the wet side as well, where UAE-based buyers acquired
     this week a couple of pumproom-type MR2s from Maersk Tankers. Specifically, the
@@ -49,21 +48,21 @@ numeric_observations:
     changed hands for USD 44m e
   unit: usd
   values:
+  - 2.0
   - 48.0
   - 2011.0
   - 2010.0
   - 44.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: For comparison, a couple of weeks ago the 2011-built sistership YOSEMITE
     TRADER was reported sold for around USD 21.5m, basis SS/DD due in March 2026.
   unit: usd
   values:
   - 2011.0
+  - 21500.0
   - 2026.0
-- &id004
-  section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+- section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
   section_type: linked_pdf
   source_line: On the Handymax segment, the YANGTZE NOVA (abt 47k dwt, built 2013,
     Jiangsu Eastern) sold for a
@@ -71,8 +70,7 @@ numeric_observations:
   values:
   - 47.0
   - 2013.0
-- &id005
-  section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+- section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
   section_type: linked_pdf
   source_line: price in the region of USD 12m, and the Handysize, the EMIL SELMER
     (abt 32k dwt, built 2010, Jiangsu
@@ -80,24 +78,28 @@ numeric_observations:
   values:
   - 32.0
   - 2010.0
-- &id006
-  section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+- section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
   section_type: linked_pdf
   source_line: Lastly on Handies, we await to see the outcome of negotiations on the
     "OCEAN TACT" (ABT 36K DWT,
   unit: null
   values:
   - 36.0
-- &id007
-  section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+- section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
   section_type: linked_pdf
   source_line: 2019, SHIKOKU, SCRUBBER) which invited offers on Tuesday whereby owners
     were hoping to achieve
   unit: null
   values:
   - 2019.0
-- &id008
-  section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+- section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+  section_type: linked_pdf
+  source_line: pumproom-type MR2s from Maersk Tankers. Specifically, the MAERSK MISSISSIPPI
+    and the MAERSK MARU
+  unit: null
+  values:
+  - 2.0
+- section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
   section_type: linked_pdf
   source_line: (abt 48k dwt, built 2011 and 2010 Iwagi) changed hands for USD 44m
     enbloc.
@@ -107,31 +109,29 @@ numeric_observations:
   - 2011.0
   - 2010.0
   - 44.0
-- &id009
-  section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+- section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
   section_type: linked_pdf
   source_line: For comparison, a couple of weeks ago the 2011-built sistership YOSEMITE
     TRADER was reported sold for
   unit: null
   values:
   - 2011.0
-- &id010
-  section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+- section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
   section_type: linked_pdf
   source_line: around USD 21.5m, basis SS/DD due in March 2026.
   unit: usd
   values:
+  - 21500.0
   - 2026.0
-- &id011
-  section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+- section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
   section_type: linked_pdf
   source_line: B&W 6S46MC-C8
   unit: null
   values:
   - 6.0
-  - 6.0
-- &id012
-  section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+  - 46.0
+  - 8.0
+- section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
   section_type: linked_pdf
   source_line: YANGTZE NOVA 47,180 2013 JIANGSU EASTERN 4 x 30 T 01/28 RGN USD 12
     M U/D
@@ -143,16 +143,15 @@ numeric_observations:
   - 30.0
   - 1.0
   - 28.0
-- &id013
-  section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+- section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
   section_type: linked_pdf
   source_line: B&W 5S50MC6.2
   unit: null
   values:
   - 5.0
-  - 2.0
-- &id014
-  section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+  - 50.0
+  - 6200.0
+- section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
   section_type: linked_pdf
   source_line: EMIL SELMER 32,626 2010 JIANGSU ZHENJIANG 4 x 30 T 12/25 USD 8 M U/D
   unit: usd
@@ -163,8 +162,7 @@ numeric_observations:
   - 30.0
   - 12.0
   - 25.0
-- &id015
-  section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+- section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
   section_type: linked_pdf
   source_line: MAERSK MARU 48,020 2011 IWAGI 09/30
   unit: null
@@ -173,24 +171,22 @@ numeric_observations:
   - 2011.0
   - 9.0
   - 30.0
-- &id016
-  section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+- section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
   section_type: linked_pdf
   source_line: MAN B. & W. 6S50MC-C8.2 USD 44 M
   unit: usd
   values:
   - 6.0
-  - 2.0
+  - 50.0
+  - 8200.0
   - 44.0
-- &id017
-  section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+- section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
   section_type: linked_pdf
   source_line: 4 Pumps, Epoxy
   unit: null
   values:
   - 4.0
-- &id018
-  section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+- section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
   section_type: linked_pdf
   source_line: MAERSK MISSISSIPPI 48,045 2010 IWAGI 02/30
   unit: null
@@ -199,16 +195,14 @@ numeric_observations:
   - 2010.0
   - 2.0
   - 30.0
-- &id019
-  section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+- section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
   section_type: linked_pdf
   source_line: 284 Kifissias Avenue ("Clarksons") for general information purposes.
     The Information is drawn from Clarksons' database and other sources. Clarksons
   unit: null
   values:
   - 284.0
-- &id020
-  section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+- section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
   section_type: linked_pdf
   source_line: 152 32 Information extracted from the databases of other maritime data
     collection agencies may differ from the Information extracted
@@ -216,8 +210,7 @@ numeric_observations:
   values:
   - 152.0
   - 32.0
-- &id021
-  section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+- section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
   section_type: linked_pdf
   source_line: Direct +(30) 210 458 6700 the Information is not an endorsement of
     any commercial policies and/or any conclusions by Clarksons and its 'connected
@@ -227,8 +220,7 @@ numeric_observations:
   - 210.0
   - 458.0
   - 6700.0
-- &id022
-  section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+- section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
   section_type: linked_pdf
   source_line: Fax +(30) 210 458 6799
   unit: null
@@ -245,30 +237,197 @@ section_count: 2
 signals:
   numeric_observation_count: 22
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
+  - section: Main
+    section_type: null
+    source_line: On the Handymax segment, the YANGTZE NOVA (abt 47k dwt, built 2013,
+      Jiangsu Eastern) sold for a price in the region of USD 12m, and the Handysize,
+      the EMIL SELMER (abt 32k dwt, built 2010, Jiangsu Zhenjiang) has also been sold
+      at range USD 8m basis surveys due
+    unit: usd
+    values:
+    - 47.0
+    - 2013.0
+    - 32.0
+    - 2010.0
+  - section: Main
+    section_type: null
+    source_line: Similar pattern on the wet side as well, where UAE-based buyers acquired
+      this week a couple of pumproom-type MR2s from Maersk Tankers. Specifically,
+      the MAERSK MISSISSIPPI and the MAERSK MARU (abt 48k dwt, built 2011 and 2010
+      Iwagi) changed hands for USD 44m e
+    unit: usd
+    values:
+    - 48.0
+    - 2011.0
+    - 2010.0
+    - 44.0
+  - section: Main
+    section_type: null
+    source_line: For comparison, a couple of weeks ago the 2011-built sistership YOSEMITE
+      TRADER was reported sold for around USD 21.5m, basis SS/DD due in March 2026.
+    unit: usd
+    values:
+    - 2011.0
+    - 2026.0
+  - section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+    section_type: linked_pdf
+    source_line: On the Handymax segment, the YANGTZE NOVA (abt 47k dwt, built 2013,
+      Jiangsu Eastern) sold for a
+    unit: null
+    values:
+    - 47.0
+    - 2013.0
+  - section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+    section_type: linked_pdf
+    source_line: price in the region of USD 12m, and the Handysize, the EMIL SELMER
+      (abt 32k dwt, built 2010, Jiangsu
+    unit: usd
+    values:
+    - 32.0
+    - 2010.0
+  - section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+    section_type: linked_pdf
+    source_line: Lastly on Handies, we await to see the outcome of negotiations on
+      the "OCEAN TACT" (ABT 36K DWT,
+    unit: null
+    values:
+    - 36.0
+  - section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+    section_type: linked_pdf
+    source_line: 2019, SHIKOKU, SCRUBBER) which invited offers on Tuesday whereby
+      owners were hoping to achieve
+    unit: null
+    values:
+    - 2019.0
+  - section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+    section_type: linked_pdf
+    source_line: (abt 48k dwt, built 2011 and 2010 Iwagi) changed hands for USD 44m
+      enbloc.
+    unit: usd
+    values:
+    - 48.0
+    - 2011.0
+    - 2010.0
+    - 44.0
+  - section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+    section_type: linked_pdf
+    source_line: For comparison, a couple of weeks ago the 2011-built sistership YOSEMITE
+      TRADER was reported sold for
+    unit: null
+    values:
+    - 2011.0
+  - section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+    section_type: linked_pdf
+    source_line: around USD 21.5m, basis SS/DD due in March 2026.
+    unit: usd
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+    section_type: linked_pdf
+    source_line: B&W 6S46MC-C8
+    unit: null
+    values:
+    - 6.0
+    - 6.0
+  - section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+    section_type: linked_pdf
+    source_line: YANGTZE NOVA 47,180 2013 JIANGSU EASTERN 4 x 30 T 01/28 RGN USD 12
+      M U/D
+    unit: usd
+    values:
+    - 47180.0
+    - 2013.0
+    - 4.0
+    - 30.0
+    - 1.0
+    - 28.0
+  - section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+    section_type: linked_pdf
+    source_line: B&W 5S50MC6.2
+    unit: null
+    values:
+    - 5.0
+    - 2.0
+  - section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+    section_type: linked_pdf
+    source_line: EMIL SELMER 32,626 2010 JIANGSU ZHENJIANG 4 x 30 T 12/25 USD 8 M
+      U/D
+    unit: usd
+    values:
+    - 32626.0
+    - 2010.0
+    - 4.0
+    - 30.0
+    - 12.0
+    - 25.0
+  - section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+    section_type: linked_pdf
+    source_line: MAERSK MARU 48,020 2011 IWAGI 09/30
+    unit: null
+    values:
+    - 48020.0
+    - 2011.0
+    - 9.0
+    - 30.0
+  - section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+    section_type: linked_pdf
+    source_line: MAN B. & W. 6S50MC-C8.2 USD 44 M
+    unit: usd
+    values:
+    - 6.0
+    - 2.0
+    - 44.0
+  - section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+    section_type: linked_pdf
+    source_line: 4 Pumps, Epoxy
+    unit: null
+    values:
+    - 4.0
+  - section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+    section_type: linked_pdf
+    source_line: MAERSK MISSISSIPPI 48,045 2010 IWAGI 02/30
+    unit: null
+    values:
+    - 48045.0
+    - 2010.0
+    - 2.0
+    - 30.0
+  - section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+    section_type: linked_pdf
+    source_line: 284 Kifissias Avenue ("Clarksons") for general information purposes.
+      The Information is drawn from Clarksons' database and other sources. Clarksons
+    unit: null
+    values:
+    - 284.0
+  - section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+    section_type: linked_pdf
+    source_line: 152 32 Information extracted from the databases of other maritime
+      data collection agencies may differ from the Information extracted
+    unit: null
+    values:
+    - 152.0
+    - 32.0
+  - section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+    section_type: linked_pdf
+    source_line: Direct +(30) 210 458 6700 the Information is not an endorsement of
+      any commercial policies and/or any conclusions by Clarksons and its 'connected
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6700.0
+  - section: 'Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf'
+    section_type: linked_pdf
+    source_line: Fax +(30) 210 458 6799
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6799.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2025/2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109.html
+source_path: corpus/02-hellenic/shipbuilding/2025/2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109.html
 source_stem: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109
 source_url: https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-109
 summary: 'Main
@@ -326,7 +485,7 @@ For comparison, a couple of weeks ago the 2011-built sistership YOSEMITE TRADER 
 Source: Clarkson Platou (Hellas) ltd
 
 ## Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf
-Source asset: reports/hellenic/shipbuilding/pdfs/2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf
+Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf
 
 [Page 1]
 Clarkson Hellas Ltd.

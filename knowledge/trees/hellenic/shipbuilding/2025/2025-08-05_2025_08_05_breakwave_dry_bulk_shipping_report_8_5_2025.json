@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1724,
-  "source_path": "reports/hellenic/shipbuilding/2025/2025-08-05_breakwave-dry-bulk-shipping-report-8-5-2025.html",
+  "token_count": 1726,
+  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-08-05_breakwave-dry-bulk-shipping-report-8-5-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-8-5-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-08-05_breakwave-dry-bulk-shipping-report-8-5-2025_breakwavedryaugust52025report_58e9c017af28.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-08-05_breakwave-dry-bulk-shipping-report-8-5-2025_breakwavedryaugust52025report_58e9c017af28.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nAugust 5, 2025\n• Panamaxes Spot rates Ease, as Capesizes Find a Higher Level - Despite some\nShort-term Indicators\nmoderation in broader dry bulk market balances, spot rates across sectors\nMomentum: Neutral\nremain elevated compared to last month. While Panamax rates are gradually\nSentiment: Neutral\ndeclining, Capesize rates continue to be robust, remaining in the high 20,000 range,\nmarking the highest levels in ten years (excluding 2021) for this time of the year.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-08-05_breakwave-dry-bulk-shipping-report-8-5-2025_breakwavedryaugust52025report_58e9c017af28.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nAugust 5, 2025\n• Panamaxes Spot rates Ease, as Capesizes Find a Higher Level - Despite some\nShort-term Indicators\nmoderation in broader dry bulk market balances, spot rates across sectors\nMomentum: Neutral\nremain elevated compared to last month. While Panamax rates are gradually\nSentiment: Neutral\ndeclining, Capesize rates continue to be robust, remaining in the high 20,000 range,\nmarking the highest levels in ten years (excluding 2021) for this time of the year.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1645,
+      "token_count": 1647,
       "section_type": "linked_pdf",
       "children": []
     }

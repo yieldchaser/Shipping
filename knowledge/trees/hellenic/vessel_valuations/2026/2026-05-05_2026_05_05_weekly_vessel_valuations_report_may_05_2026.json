@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1322,
-  "source_path": "reports/hellenic/vessel_valuations/2026/2026-05-05_weekly-vessel-valuations-report-may-05-2026.html",
+  "token_count": 1324,
+  "source_path": "corpus/02-hellenic/vessel_valuations/2026/2026-05-05_weekly-vessel-valuations-report-may-05-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-may-05-2026",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg\n\nLinked image asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg\n\nImage metadata: JPEG 600x279 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\n© Vessels Vase mma\n05 May 2026 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra um mn Cape Pmax = Supra. Handy fscs Pmax Handy Fmax\n° 5 1.0% .",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2026/assets/2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg\n\nLinked image asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg\n\nImage metadata: JPEG 600x279 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\n© Vessels Vase mma\n05 May 2026 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra um mn Cape Pmax = Supra. Handy fscs Pmax Handy Fmax\n° 5 1.0% .",
       "keywords": [
         "capesize",
         "supramax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 755,
+      "token_count": 757,
       "section_type": "linked_image_asset",
       "children": []
     }

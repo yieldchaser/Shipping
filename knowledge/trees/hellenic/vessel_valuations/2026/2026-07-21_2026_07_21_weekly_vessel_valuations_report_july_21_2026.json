@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 830,
-  "source_path": "reports/hellenic/vessel_valuations/2026/2026-07-21_weekly-vessel-valuations-report-july-21-2026.html",
+  "token_count": 832,
+  "source_path": "corpus/02-hellenic/vessel_valuations/2026/2026-07-21_weekly-vessel-valuations-report-july-21-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-july-21-2026",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg\n\nLinked image asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg\n\nImage metadata: JPEG 600x268 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\n() VesselsValue. 21 towMou 2026 VV Mini Matrix - Weekly Change\nTeekers ‘Bethers ‘Comtainers\n- wc em e m = Ce __ pe eg __ tp rat ye\nee 4 meta mts\n® ne \"a 3 a \" a a ms 8 an ed ee\nore, eC ee tg ret, ae rT eee et\n3 a Cd \".",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2026/assets/2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg\n\nLinked image asset: 2026-07-21_weekly-vessel-valuations-report-july-21-2026_21072026vessel_a282069b5081.jpg\n\nImage metadata: JPEG 600x268 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\n() VesselsValue. 21 towMou 2026 VV Mini Matrix - Weekly Change\nTeekers ‘Bethers ‘Comtainers\n- wc em e m = Ce __ pe eg __ tp rat ye\nee 4 meta mts\n® ne \"a 3 a \" a a ms 8 an ed ee\nore, eC ee tg ret, ae rT eee et\n3 a Cd \".",
       "keywords": [
         "asset",
         "image",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 330,
+      "token_count": 332,
       "section_type": "linked_image_asset",
       "children": []
     }

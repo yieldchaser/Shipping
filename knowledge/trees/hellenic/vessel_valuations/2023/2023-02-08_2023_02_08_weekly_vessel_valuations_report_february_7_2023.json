@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1162,
-  "source_path": "reports/hellenic/vessel_valuations/2023/2023-02-08_weekly-vessel-valuations-report-february-7-2023.html",
+  "token_count": 1164,
+  "source_path": "corpus/02-hellenic/vessel_valuations/2023/2023-02-08_weekly-vessel-valuations-report-february-7-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-february-7-2023",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-02-08_weekly-vessel-valuations-report-february-7-2023_img1_matrix-7_f407b1348e59.jpeg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/vessel_valuations/2023/assets/2023-02-08_weekly-vessel-valuations-report-february-7-2023_img1_matrix-7_f407b1348e59.jpeg\n\nLinked image asset: 2023-02-08_weekly-vessel-valuations-report-february-7-2023_img1_matrix-7_f407b1348e59.jpeg\n\nImage metadata: JPEG 678x259 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\nO' h I ‘ i i ~\n07 February 2023 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge VLCC Suez Afra LRI MR Cape Pmax Supra Handy pote Pmax Handy Fmax\no 0.0% +0.5% +0.2% -0.2% +0.1% +0.4% -0.7% +0.8% -1.2% 0.6% -0.9% -1.5% -0.5%\n320K 160K 110K 75K 50K 180K 82K 60K 38K 7000 4250 1750 1100\n5 0.0% +0.5% +0.1% -0.2% +0.1% +0.4% -4.4% +0.8% -1.9% -0.6% -2.5% -2.7% -2.7%\n320K 160K 110K 75K 50K 180K 80K 60K 38K 7000 «4250. «1750 = 1100\n10 0.0% +0.1% +0.1% -0.2% +0.1% +0.4% -5.5% +0.8% -2.8% 0.6% -2.8% -6.1% -5.0%\n320K 160K = I10K 75K 50K 180K 80K = 60K 32K 7000 4250 «1750-1100\n1s 0.0% +0.3% +0.1% -0.2% +0.1% +0.3% -5.2% +0.7% -2.9% -0.6% -3.4% -B.5% -7.2%\n310K = 160K = 110K 75K 50K 180K 80K 55K 30K 7000 «4250.» «1750 1100\n20 0.0% +2.4% +0.1% -0.2% +0,1% 0.0% -4.1% +0.7% -2.5% \"0.6% -5.3% -5.5% -9.3%\n305K 155K 105K = 70K 45K 175K 75K SOK = ",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2023/assets/2023-02-08_weekly-vessel-valuations-report-february-7-2023_img1_matrix-7_f407b1348e59.jpeg\n\nLinked image asset: 2023-02-08_weekly-vessel-valuations-report-february-7-2023_img1_matrix-7_f407b1348e59.jpeg\n\nImage metadata: JPEG 678x259 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\nO' h I ‘ i i ~\n07 February 2023 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge VLCC Suez Afra LRI MR Cape Pmax Supra Handy pote Pmax Handy Fmax\no 0.0% +0.5% +0.2% -0.2% +0.1% +0.4% -0.7% +0.8% -1.2% 0.6% -0.9% -1.5% -0.5%\n320K 160K 110K 75K 50K 180K 82K 60K 38K 7000 4250 1750 1100\n5 0.0% +0.5% +0.1% -0.2% +0.1% +0.4% -4.4% +0.8% -1.9% -0.6% -2.5% -2.7% -2.7%\n320K 160K 110K 75K 50K 180K 80K 60K 38K 7000 «4250. «1750 = 1100\n10 0.0% +0.1% +0.1% -0.2% +0.1% +0.4% -5.5% +0.8% -2.8% 0.6% -2.8% -6.1% -5.0%\n320K 160K = I10K 75K 50K 180K 80K = 60K 32K 7000 4250 «1750-1100\n1s 0.0% +0.3% +0.1% -0.2% +0.1% +0.3% -5.2% +0.7% -2.9% -0.6% -3.4% -B.5% -7.2%\n310K = 160K = 110K 75K 50K 180K 80K 55K 30K 7000 «4250.» «1750 1100\n20 0.0% +2.4% +0.1% -0.2% +0,1% 0.0% -4.1% +0.7% -2.5% \"0.6% -5.3% -5.5% -9.3%\n305K 155K 105K = 70K 45K 175K 75K SOK ",
       "keywords": [
         "capesize",
         "supramax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 808,
+      "token_count": 810,
       "section_type": "linked_image_asset",
       "children": []
     }

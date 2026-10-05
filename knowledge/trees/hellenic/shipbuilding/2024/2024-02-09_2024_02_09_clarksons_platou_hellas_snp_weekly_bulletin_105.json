@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2456,
-  "source_path": "reports/hellenic/shipbuilding/2024/2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105.html",
+  "token_count": 2458,
+  "source_path": "corpus/02-hellenic/shipbuilding/2024/2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-105",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 09 Feb 2024\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nSS 06/27\nSOLAR OAK\n2021NEW MAN-B&W 6G70ME-C10.5 DD 05/25\n208,892 USD 66 M each U/D\nTIMES BWTS & SCRUBBER FITTED SS 01/26\nSOLAR NOVA\nDD 02/24\nSOLAR PRIDE 210,000 2020\nMAN-B&W 6G70ME-C9.5 SS 11/25\nSHANGHAI USD 65 M each U/D\nBWTS & SCRUBBER FITTED DD 11/25\nSOLAR QUANTUM 207,999 WAIGAOQIAO\nSS 08/2024\nQING MAY 206,117 2011 MAN B. 6S70MC-\nDD 05/24 USD 73M en\nSHANGHAI C7.2 U/D\nSS 07/24 bloc\nLAN MAY 206,007 WAIGAOQIAO BWTS & SCRUBBER FITTED\nDD 07/24\n2011\nMAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 09 Feb 2024\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nSS 06/27\nSOLAR OAK\n2021NEW MAN-B&W 6G70ME-C10.5 DD 05/25\n208,892 USD 66 M each U/D\nTIMES BWTS & SCRUBBER FITTED SS 01/26\nSOLAR NOVA\nDD 02/24\nSOLAR PRIDE 210,000 2020\nMAN-B&W 6G70ME-C9.5 SS 11/25\nSHANGHAI USD 65 M each U/D\nBWTS & SCRUBBER FITTED DD 11/25\nSOLAR QUANTUM 207,999 WAIGAOQIAO\nSS 08/2024\nQING MAY 206,117 2011 MAN B. 6S70MC-\nDD 05/24 USD 73M en\nSHANGHAI C7.2 U/D\nSS 07/24 bloc\nLAN MAY 206,007 WAIGAOQIAO BWTS & SCRUBBER FITTED\nDD 07/24\n2011\nMAN B.",
       "keywords": [
         "vlcc",
         "lng",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2367,
+      "token_count": 2369,
       "section_type": "linked_pdf",
       "children": []
     }

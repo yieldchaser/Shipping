@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1581,
-  "source_path": "reports/hellenic/shipbuilding/2026/2026-07-07_breakwave-dry-bulk-shipping-report-7-7-2026.html",
+  "token_count": 1583,
+  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-07-07_breakwave-dry-bulk-shipping-report-7-7-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-7-7-2026",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-07-07_breakwave-dry-bulk-shipping-report-7-7-2026_breakwavedryjuly72026report_3fd1f6cabe27.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-07-07_breakwave-dry-bulk-shipping-report-7-7-2026_breakwavedryjuly72026report_3fd1f6cabe27.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nJuly 7, 2026\n• A Solid First Half for Dry Bulk Shipping - Notwithstanding prevailing market\nShort-term Indicators\nuncertainty, the dry bulk shipping sector achieved an exceptionally strong\nMomentum: Neutral\nperformance in the first half of the year, characterized by tight global vessel supply\nthat drove average earnings across all asset classes well above historical Sentiment: Neutral\nbenchmarks. Operational inefficiencies, extended voyage lengths, and bunker Fundamentals: Neutral\nfueling dislocations stemming from disruptions in the Strait of Hormuz oil flow further\nconstrained market capacity, a trend compounded by a heavy drydocking\nBreakwave Dry\nschedule for aging vessels built during the 2009-2011 vessel construction boom.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-07-07_breakwave-dry-bulk-shipping-report-7-7-2026_breakwavedryjuly72026report_3fd1f6cabe27.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nJuly 7, 2026\n• A Solid First Half for Dry Bulk Shipping - Notwithstanding prevailing market\nShort-term Indicators\nuncertainty, the dry bulk shipping sector achieved an exceptionally strong\nMomentum: Neutral\nperformance in the first half of the year, characterized by tight global vessel supply\nthat drove average earnings across all asset classes well above historical Sentiment: Neutral\nbenchmarks. Operational inefficiencies, extended voyage lengths, and bunker Fundamentals: Neutral\nfueling dislocations stemming from disruptions in the Strait of Hormuz oil flow further\nconstrained market capacity, a trend compounded by a heavy drydocking\nBreakwave Dry\nschedule for aging vessels built during the 2009-2011 vessel construction boom.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1505,
+      "token_count": 1507,
       "section_type": "linked_pdf",
       "children": []
     }

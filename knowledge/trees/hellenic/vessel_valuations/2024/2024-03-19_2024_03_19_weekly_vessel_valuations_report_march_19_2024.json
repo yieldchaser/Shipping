@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1260,
-  "source_path": "reports/hellenic/vessel_valuations/2024/2024-03-19_weekly-vessel-valuations-report-march-19-2024.html",
+  "token_count": 1262,
+  "source_path": "corpus/02-hellenic/vessel_valuations/2024/2024-03-19_weekly-vessel-valuations-report-march-19-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-march-19-2024",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2024-03-19_weekly-vessel-valuations-report-march-19-2024_img1_1932023_daf9ce6e2d41.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/vessel_valuations/2024/assets/2024-03-19_weekly-vessel-valuations-report-march-19-2024_img1_1932023_daf9ce6e2d41.jpg\n\nLinked image asset: 2024-03-19_weekly-vessel-valuations-report-march-19-2024_img1_1932023_daf9ce6e2d41.jpg\n\nImage metadata: JPEG 678x256 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\ntb) VesselsVaue\n19 March 2024 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra tRI MR Cape Pmax Supra Mandy Pisa Pmax Handy Fmax\nry 41.0% 40.2% +0.4% 40.1% +0.1% 42.0% +#0.6% +#0.2% 41.2% *1.1% 61.2% 61.2% 40.9%\n520k 160k 110k 75k 50k 180k 82k 60k 58k 7000 4250» 1750 = 1100\n5 40.9% +0.2% 40.8% 40.1% +0.2% 42.0% +1.4% +0.2% +0.9% 41.0% +1.2% +1.0% +0.4%\n520k 160k 110k 75k 50k 180k 80k 60k 38k 7000 4250-1750 = 1100\n_ 10.9% 40.3% +0.9% +0.4% +0.2% 41.9% 42.5% +0.2% +0.6% +1.0% +1.2% +0,8% +0.4%\n320k 160k 110k 75k 50k 180k 80k 60k 32k 7000 4250-1750 1100\n1s 41.3% +0.2% +0.9% +0.5% +0.2% 41.9% 42.7% +0.1% +0.5% #1.0% 41.2% +1.0% +0.4%\n310k 160k 110k 75k 50k 180k 80k 55k 30k 7000 4250,» «1750 = 1100\na 41.6% +0.2% +0.8% +0.4% +0.1% +1.8% 40.7% +0.1% +0.8% #1.0% +1.2% +1.5% +0.1%\n305k 155k 105k 70k 45k 180k 75k 55k 30k 7000 425",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2024/assets/2024-03-19_weekly-vessel-valuations-report-march-19-2024_img1_1932023_daf9ce6e2d41.jpg\n\nLinked image asset: 2024-03-19_weekly-vessel-valuations-report-march-19-2024_img1_1932023_daf9ce6e2d41.jpg\n\nImage metadata: JPEG 678x256 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\ntb) VesselsVaue\n19 March 2024 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra tRI MR Cape Pmax Supra Mandy Pisa Pmax Handy Fmax\nry 41.0% 40.2% +0.4% 40.1% +0.1% 42.0% +#0.6% +#0.2% 41.2% *1.1% 61.2% 61.2% 40.9%\n520k 160k 110k 75k 50k 180k 82k 60k 58k 7000 4250» 1750 = 1100\n5 40.9% +0.2% 40.8% 40.1% +0.2% 42.0% +1.4% +0.2% +0.9% 41.0% +1.2% +1.0% +0.4%\n520k 160k 110k 75k 50k 180k 80k 60k 38k 7000 4250-1750 = 1100\n_ 10.9% 40.3% +0.9% +0.4% +0.2% 41.9% 42.5% +0.2% +0.6% +1.0% +1.2% +0,8% +0.4%\n320k 160k 110k 75k 50k 180k 80k 60k 32k 7000 4250-1750 1100\n1s 41.3% +0.2% +0.9% +0.5% +0.2% 41.9% 42.7% +0.1% +0.5% #1.0% 41.2% +1.0% +0.4%\n310k 160k 110k 75k 50k 180k 80k 55k 30k 7000 4250,» «1750 = 1100\na 41.6% +0.2% +0.8% +0.4% +0.1% +1.8% 40.7% +0.1% +0.8% #1.0% +1.2% +1.5% +0.1%\n305k 155k 105k 70k 45k 180k 75k 55k 30k 7000 4",
       "keywords": [
         "capesize",
         "supramax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 818,
+      "token_count": 820,
       "section_type": "linked_image_asset",
       "children": []
     }

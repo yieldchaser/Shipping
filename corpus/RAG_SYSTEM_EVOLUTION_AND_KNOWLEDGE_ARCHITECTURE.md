@@ -289,3 +289,63 @@ By converting unstructured documents into relational time series, verified cover
 * **Distinct Entities**: Standardized vessel records (with IMO numbers), commercial charterers, shipowners, brokers, shipyards, recycling facilities, trade routes, and freight indices.
 * **Typed Directional Relationships**: Verified links for sales (`REPORTED_SOLD`), charter fixtures (`CHARTERED_BY`), recycling deals (`BEACHED_AT`), newbuilding orders (`ORDERED_AT`), and index routes (`ASSESSED_BY`).
 * **Multi-Modal Evidence**: Co-locates structured numeric time series with full qualitative desk analysis, allowing future graph retrieval algorithms to connect numerical market trends with underlying analyst reasoning.
+
+---
+
+## PART 3: LEGACY SYSTEM 1:1 RESTORATION & DUAL-PATH INTEGRITY AUDIT
+
+### 3.1 Migration Defect & Root Cause
+
+During initial directory reorganizations (commits `8c6665067`, `b20829464`, and `0ccaf3ab6`), legacy files were moved (`git mv`) out of [`reports/`](file:///c:/Users/Dell/Github/Shipping/reports/) into [`corpus/`](file:///c:/Users/Dell/Github/Shipping/corpus/) or quarantined into `data/stashed_redundant_sources/` rather than retaining a 1:1 mirror copy.
+
+This created several breaking issues for the earlier knowledge system:
+1. **Manifest Path Resolution Failures**: The earlier compiler's cache register ([`knowledge/manifests/documents.jsonl`](file:///c:/Users/Dell/Github/Shipping/knowledge/manifests/documents.jsonl)) contained 10,202 document records mapped strictly to `reports/` paths. When files were moved, cache verification failed for 2,702 Hellenic files, 2,703 Breakwave files, 2,036 Baltic files, and 1,096 Poten files.
+2. **Chunk Shard Depopulation**: Running compilation scripts while source paths were unresolvable caused 11 chunk shards in [`knowledge/chunks/`](file:///c:/Users/Dell/Github/Shipping/knowledge/chunks/) (across `hellenic_shipbuilding` and `hellenic_vessel_valuations`) to be truncated or emptied.
+3. **Legacy Ingestion Stoppage**: Older scripts that expected static source paths in `reports/` could not discover new files or re-chunk historical data.
+
+### 3.2 1:1 Restoration of All Legacy Files in `reports/`
+
+To restore complete backwards compatibility with the earlier knowledge system without altering the canonical `corpus/` data lake, exact 1:1 copies of all legacy sources were restored directly to [`reports/`](file:///c:/Users/Dell/Github/Shipping/reports/).
+
+#### Manifest Verification Audit (`knowledge/manifests/documents.jsonl`)
+An automated audit across all 10,202 manifest rows verified 100.0% physical presence on disk:
+
+| Source Category | Legacy Target Directory | Manifest Documents | Files on Disk | Missing Count | Status |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Hellenic Shipping News | [`reports/hellenic/`](file:///c:/Users/Dell/Github/Shipping/reports/hellenic/) | 3,214 | 3,214 | 0 | 100.0% Verified |
+| Breakwave Insights | [`reports/breakwave/`](file:///c:/Users/Dell/Github/Shipping/reports/breakwave/) | 3,207 | 3,207 | 0 | 100.0% Verified |
+| Baltic Exchange | [`reports/baltic/`](file:///c:/Users/Dell/Github/Shipping/reports/baltic/) | 2,223 | 2,223 | 0 | 100.0% Verified |
+| Poten & Partners | [`reports/poten/`](file:///c:/Users/Dell/Github/Shipping/reports/poten/) | 1,096 | 1,096 | 0 | 100.0% Verified |
+| Breakwave Dry Bulk | [`reports/drybulk/`](file:///c:/Users/Dell/Github/Shipping/reports/drybulk/) | 211 | 211 | 0 | 100.0% Verified |
+| Breakwave Tankers | [`reports/tankers/`](file:///c:/Users/Dell/Github/Shipping/reports/tankers/) | 80 | 80 | 0 | 100.0% Verified |
+| Broker Reports | [`reports/broker_reports/`](file:///c:/Users/Dell/Github/Shipping/reports/broker_reports/) | 159 | 159 | 0 | 100.0% Verified |
+| Maritime Textbooks | [`reports/`](file:///c:/Users/Dell/Github/Shipping/reports/) | 12 | 12 | 0 | 100.0% Verified |
+| **Total Manifest Records** | **Repository Root** | **10,202** | **10,202** | **0** | **100.0% Verified** |
+
+### 3.3 Chunk Shard Repair & Compiler Validation
+
+1. **Shard Repair Execution**:
+   * [`scripts/repair_hellenic_shards.py`](file:///c:/Users/Dell/Github/Shipping/scripts/repair_hellenic_shards.py) was executed across the 11 affected shards (`hellenic_shipbuilding` and `hellenic_vessel_valuations` for 2014, 2021-2026).
+   * 539 documents were re-ingested and compacted without calling LLMs, restoring shards to 100% of their declared chunk counts (e.g. `hellenic_shipbuilding_2023.jsonl` restored to 506 chunks, `hellenic_vessel_valuations_2023.jsonl` restored to 240 chunks).
+   * Shard integrity verification confirmed: **89 yeared shards total, 0 empty shards**.
+2. **Ingestion Engine Discovery**:
+   * [`scripts/process_knowledge.py`](file:///c:/Users/Dell/Github/Shipping/scripts/process_knowledge.py) was updated to discover files from both the restored `reports/` mirrors and canonical groups, accepting filter aliases (`books`/`book`, `breakwave_insights`/`insights`).
+   * Discovery test (`iter_source_files`) yields **11,303 source documents** across all active categories with zero errors:
+     - Hellenic: 3,221 files
+     - Baltic: 2,228 files
+     - Breakwave Insights: 3,210 files
+     - Breakwave Drybulk/Tankers: 291 files
+     - Broker Reports: 159 files
+     - Poten: 2,182 files
+     - Books: 12 files
+
+### 3.4 Operational Rules & System Separation
+
+1. **Strict Zero-Interference Boundary**:
+   * The earlier knowledge system operates strictly within [`reports/`](file:///c:/Users/Dell/Github/Shipping/reports/), [`knowledge/`](file:///c:/Users/Dell/Github/Shipping/knowledge/), and [`scripts/process_knowledge.py`](file:///c:/Users/Dell/Github/Shipping/scripts/process_knowledge.py).
+   * The new canonical data foundation operates strictly within [`corpus/`](file:///c:/Users/Dell/Github/Shipping/corpus/), [`data/extracted/`](file:///c:/Users/Dell/Github/Shipping/data/extracted/), and [`scripts/extract/`](file:///c:/Users/Dell/Github/Shipping/scripts/extract/).
+   * Future Graph RAG development will build upon [`corpus/`](file:///c:/Users/Dell/Github/Shipping/corpus/) and [`data/extracted/`](file:///c:/Users/Dell/Github/Shipping/data/extracted/) without disrupting the legacy pipeline.
+2. **Automated Dual-Save Synchronization**:
+   * All live acquisition scripts write incoming reports simultaneously to `corpus/` (primary) and `reports/` (secondary mirror).
+   * As new reports arrive in 2026 and subsequent years (2027+), directory paths and year subfolders are dynamically created in both locations, maintaining continuous parity between the live legacy dashboard and the canonical Graph RAG data lake.
+

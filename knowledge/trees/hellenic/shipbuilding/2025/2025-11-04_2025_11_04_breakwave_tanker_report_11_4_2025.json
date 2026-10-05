@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1739,
-  "source_path": "reports/hellenic/shipbuilding/2025/2025-11-04_breakwave-tanker-report-11-4-2025.html",
+  "token_count": 1741,
+  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-11-04_breakwave-tanker-report-11-4-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-11-4-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-11-04_breakwave-tanker-report-11-4-2025_breakwavetankersnovember42025report_7b3209ce33c5.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-11-04_breakwave-tanker-report-11-4-2025_breakwavetankersnovember42025report_7b3209ce33c5.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nNovember 4, 2025\n• VLCCs Go from Strength to Strength as Sanctions Drive Strong Sentiment -\nShort-term Indicators\nVLCC rates continued their surge into late October, led by the Arabian Gulf-China\nMomentum: Positive\nand West Africa-China routes. Strength in these two major eastbound benchmarks\nhas spilled over to the broader VLCC segment, with all regions posting gains as Sentiment: Positive\ncharterers secured coverage across basins amid a thinning vessel list.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-11-04_breakwave-tanker-report-11-4-2025_breakwavetankersnovember42025report_7b3209ce33c5.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nNovember 4, 2025\n• VLCCs Go from Strength to Strength as Sanctions Drive Strong Sentiment -\nShort-term Indicators\nVLCC rates continued their surge into late October, led by the Arabian Gulf-China\nMomentum: Positive\nand West Africa-China routes. Strength in these two major eastbound benchmarks\nhas spilled over to the broader VLCC segment, with all regions posting gains as Sentiment: Positive\ncharterers secured coverage across basins amid a thinning vessel list.",
       "keywords": [
         "vlcc",
         "suezmax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1662,
+      "token_count": 1664,
       "section_type": "linked_pdf",
       "children": []
     }

@@ -4,6 +4,7 @@ commodities: []
 date: '2026-03-28'
 doc_id: hellenic_shipbuilding_2026-03-28_2026_03_28_clarksons_platou_hellas_snp_weekly_bulletin_127
 document_type: shipbuilding_update
+is_error_page: false
 key_entities: []
 keywords:
 - capesize
@@ -26,8 +27,7 @@ linked_assets_skipped: 0
 market_tone: neutral
 numeric_observation_count: 29
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: In the Capesize sector, Japanese owners invited offers last week for
     the FRONTIER GARLAND (ABT 181K DWT, 2011, IMABARI) and is now reported sold to
@@ -36,9 +36,8 @@ numeric_observations:
   values:
   - 181.0
   - 2011.0
-  - 36.4
-- &id002
-  section: Main
+  - 36400.0
+- section: Main
   section_type: null
   source_line: 'Elsewhere, the modern Kamsarmax GIA INSPIRATION (ABT 85K DWT, 2022,
     CSSC TIANJIN) has changed hands at around USD 33.5m, while the Panamax AGRI KINSALE
@@ -48,10 +47,10 @@ numeric_observations:
   values:
   - 85.0
   - 2022.0
+  - 33500.0
   - 77.0
   - 2009.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: In the Ultramax segment, the JIN RUI (ABT, 63K DWT, 2014, JIANGSU HANTONG)
     has been sold to Chinese interests at USD 24m.
@@ -59,8 +58,7 @@ numeric_observations:
   values:
   - 63.0
   - 2014.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: In the Tanker space, several vessels attracted offers this week. Among
     them were the Korean-owned 2 x VLCCs, C. PROGRESS (ABT 313K DWT, 2012, HD HYUNDAI)
@@ -75,8 +73,7 @@ numeric_observations:
   - 2012.0
   - 50.0
   - 2019.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: Additionally, in the MR segment, another sale has been concluded, this
     time from c/o d'Amico Tankers, who have sold their HIGH SEAS (ABT 51K DWT 2012,
@@ -85,25 +82,22 @@ numeric_observations:
   values:
   - 51.0
   - 2012.0
-- &id006
-  section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+- section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
   section_type: linked_pdf
   source_line: In the Capesize sector, Japanese owners invited offers last week for
     the FRONTIER GARLAND (ABT 181K
   unit: null
   values:
   - 181.0
-- &id007
-  section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+- section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
   section_type: linked_pdf
   source_line: DWT, 2011, IMABARI) and is now reported sold to Greek interests at
     USD 36.4m.
   unit: usd
   values:
   - 2011.0
-  - 36.4
-- &id008
-  section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+  - 36400.0
+- section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
   section_type: linked_pdf
   source_line: Elsewhere, the modern Kamsarmax GIA INSPIRATION (ABT 85K DWT, 2022,
     CSSC TIANJIN) has changed
@@ -111,17 +105,16 @@ numeric_observations:
   values:
   - 85.0
   - 2022.0
-- &id009
-  section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+- section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
   section_type: linked_pdf
   source_line: hands at around USD 33.5m, while the Panamax AGRI KINSALE (ABT 77K
     DWT, 2009, OSHIMA
   unit: usd
   values:
+  - 33500.0
   - 77.0
   - 2009.0
-- &id010
-  section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+- section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
   section_type: linked_pdf
   source_line: In the Ultramax segment, the JIN RUI (ABT, 63K DWT, 2014, JIANGSU HANTONG)
     has been sold to Chinese
@@ -129,16 +122,14 @@ numeric_observations:
   values:
   - 63.0
   - 2014.0
-- &id011
-  section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+- section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
   section_type: linked_pdf
   source_line: In the Tanker space, several vessels attracted offers this week. Among
     them were the Korean-owned 2
   unit: null
   values:
   - 2.0
-- &id012
-  section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+- section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
   section_type: linked_pdf
   source_line: x VLCCs, C. PROGRESS (ABT 313K DWT, 2012, HD HYUNDAI) and C. INNOVATOR
     (ABT 297K DWT, 2012,
@@ -148,8 +139,7 @@ numeric_observations:
   - 2012.0
   - 297.0
   - 2012.0
-- &id013
-  section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+- section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
   section_type: linked_pdf
   source_line: DALIAN), as well as the MR Tanker, PRO ONYX (ABT 50K DWT, 2019, HYUNDAI
     MIPO), which are currently
@@ -157,8 +147,7 @@ numeric_observations:
   values:
   - 50.0
   - 2019.0
-- &id014
-  section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+- section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
   section_type: linked_pdf
   source_line: Tankers, who have sold their HIGH SEAS (ABT 51K DWT 2012, HYUNDAI MIPO),
     for levels of high USD 27 m
@@ -166,8 +155,7 @@ numeric_observations:
   values:
   - 51.0
   - 2012.0
-- &id015
-  section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+- section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
   section_type: linked_pdf
   source_line: FRONTIER GARLAND 181,480 2011 IMABARI B&W 6S70MC-C7.2 SS 01/29 USD
     36.4 M GREEK
@@ -176,20 +164,19 @@ numeric_observations:
   - 181480.0
   - 2011.0
   - 6.0
-  - 2.0
+  - 70.0
+  - 7200.0
   - 1.0
   - 29.0
-  - 36.4
-- &id016
-  section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+  - 36400.0
+- section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
   section_type: linked_pdf
   source_line: BWTS FITTED DD 01/27
   unit: null
   values:
   - 1.0
   - 27.0
-- &id017
-  section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+- section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
   section_type: linked_pdf
   source_line: GIA INSPIRATION 85,035 2022 CSSC TIANJIN B&W 6S60ME-C10.5 SS 11/27
     ARD USD 33.5 M U/D
@@ -198,19 +185,19 @@ numeric_observations:
   - 85035.0
   - 2022.0
   - 6.0
-  - 0.5
+  - 60.0
+  - 10500.0
   - 11.0
   - 27.0
-- &id018
-  section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+  - 33500.0
+- section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
   section_type: linked_pdf
   source_line: BWTS FITTED DD 11/27
   unit: null
   values:
   - 11.0
   - 27.0
-- &id019
-  section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+- section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
   section_type: linked_pdf
   source_line: AGRI KINSALE 77,171 2009 OSHIMA B&W 6S60MC6.2 SS 09/29 USD LOW 15 M
     U/D
@@ -219,45 +206,42 @@ numeric_observations:
   - 77171.0
   - 2009.0
   - 6.0
-  - 2.0
+  - 60.0
+  - 6200.0
   - 9.0
   - 29.0
-- &id020
-  section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+- section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
   section_type: linked_pdf
   source_line: BWTS FITTED DD 08/27
   unit: null
   values:
   - 8.0
   - 27.0
-- &id021
-  section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+- section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
   section_type: linked_pdf
   source_line: 2014 JIANGSU
   unit: null
   values:
   - 2014.0
-- &id022
-  section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+- section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
   section_type: linked_pdf
   source_line: JIN RUI 63.800 B&W 5S60ME-C8.2 SS 11/29 USD 24 M C/O HUAYA
   unit: usd
   values:
-  - 63.8
+  - 63800.0
   - 5.0
-  - 2.0
+  - 60.0
+  - 8200.0
   - 11.0
   - 29.0
-- &id023
-  section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+- section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
   section_type: linked_pdf
   source_line: HANTONG BWTS FITTED DD 11/27 MARITIME
   unit: null
   values:
   - 11.0
   - 27.0
-- &id024
-  section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+- section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
   section_type: linked_pdf
   source_line: HIGH SEAS 51,678 2012 HYUNDAI MIPO B&W 6S60MC-C8.2 SS 03/27 USD HIGH
     27 M GREEK
@@ -266,27 +250,25 @@ numeric_observations:
   - 51678.0
   - 2012.0
   - 6.0
-  - 2.0
+  - 60.0
+  - 8200.0
   - 3.0
   - 27.0
-- &id025
-  section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+- section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
   section_type: linked_pdf
   source_line: BWTS FITTED DD 03/27
   unit: null
   values:
   - 3.0
   - 27.0
-- &id026
-  section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+- section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
   section_type: linked_pdf
   source_line: 284 Kifissias Avenue ("Clarksons") for general information purposes.
     The Information is drawn from Clarksons' database and other sources. Clarksons
   unit: null
   values:
   - 284.0
-- &id027
-  section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+- section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
   section_type: linked_pdf
   source_line: 152 32 Information extracted from the databases of other maritime data
     collection agencies may differ from the Information extracted
@@ -294,8 +276,7 @@ numeric_observations:
   values:
   - 152.0
   - 32.0
-- &id028
-  section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+- section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
   section_type: linked_pdf
   source_line: Direct +(30) 210 458 6700 the Information is not an endorsement of
     any commercial policies and/or any conclusions by Clarksons and its 'connected
@@ -305,8 +286,7 @@ numeric_observations:
   - 210.0
   - 458.0
   - 6700.0
-- &id029
-  section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+- section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
   section_type: linked_pdf
   source_line: Fax +(30) 210 458 6799
   unit: null
@@ -323,37 +303,268 @@ section_count: 2
 signals:
   numeric_observation_count: 29
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
+  - section: Main
+    section_type: null
+    source_line: In the Capesize sector, Japanese owners invited offers last week
+      for the FRONTIER GARLAND (ABT 181K DWT, 2011, IMABARI) and is now reported sold
+      to Greek interests at USD 36.4m.
+    unit: usd
+    values:
+    - 181.0
+    - 2011.0
+    - 36.4
+  - section: Main
+    section_type: null
+    source_line: 'Elsewhere, the modern Kamsarmax GIA INSPIRATION (ABT 85K DWT, 2022,
+      CSSC TIANJIN) has changed hands at around USD 33.5m, while the Panamax AGRI
+      KINSALE (ABT 77K DWT, 2009, OSHIMA SHIPBUILDING), controlled by c/o Fortune
+      Ocean Shipping, was sold to undisclosed '
+    unit: usd
+    values:
+    - 85.0
+    - 2022.0
+    - 77.0
+    - 2009.0
+  - section: Main
+    section_type: null
+    source_line: In the Ultramax segment, the JIN RUI (ABT, 63K DWT, 2014, JIANGSU
+      HANTONG) has been sold to Chinese interests at USD 24m.
+    unit: usd
+    values:
+    - 63.0
+    - 2014.0
+  - section: Main
+    section_type: null
+    source_line: In the Tanker space, several vessels attracted offers this week.
+      Among them were the Korean-owned 2 x VLCCs, C. PROGRESS (ABT 313K DWT, 2012,
+      HD HYUNDAI) and C. INNOVATOR (ABT 297K DWT, 2012, DALIAN), as well as the MR
+      Tanker, PRO ONYX (ABT 50K DWT, 2019, HYUN
+    unit: null
+    values:
+    - 2.0
+    - 313.0
+    - 2012.0
+    - 297.0
+    - 2012.0
+    - 50.0
+    - 2019.0
+  - section: Main
+    section_type: null
+    source_line: Additionally, in the MR segment, another sale has been concluded,
+      this time from c/o d'Amico Tankers, who have sold their HIGH SEAS (ABT 51K DWT
+      2012, HYUNDAI MIPO), for levels of high USD 27 m to Greek buyers.
+    unit: usd
+    values:
+    - 51.0
+    - 2012.0
+  - section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+    section_type: linked_pdf
+    source_line: In the Capesize sector, Japanese owners invited offers last week
+      for the FRONTIER GARLAND (ABT 181K
+    unit: null
+    values:
+    - 181.0
+  - section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+    section_type: linked_pdf
+    source_line: DWT, 2011, IMABARI) and is now reported sold to Greek interests at
+      USD 36.4m.
+    unit: usd
+    values:
+    - 2011.0
+    - 36.4
+  - section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+    section_type: linked_pdf
+    source_line: Elsewhere, the modern Kamsarmax GIA INSPIRATION (ABT 85K DWT, 2022,
+      CSSC TIANJIN) has changed
+    unit: null
+    values:
+    - 85.0
+    - 2022.0
+  - section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+    section_type: linked_pdf
+    source_line: hands at around USD 33.5m, while the Panamax AGRI KINSALE (ABT 77K
+      DWT, 2009, OSHIMA
+    unit: usd
+    values:
+    - 77.0
+    - 2009.0
+  - section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+    section_type: linked_pdf
+    source_line: In the Ultramax segment, the JIN RUI (ABT, 63K DWT, 2014, JIANGSU
+      HANTONG) has been sold to Chinese
+    unit: null
+    values:
+    - 63.0
+    - 2014.0
+  - section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+    section_type: linked_pdf
+    source_line: In the Tanker space, several vessels attracted offers this week.
+      Among them were the Korean-owned 2
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+    section_type: linked_pdf
+    source_line: x VLCCs, C. PROGRESS (ABT 313K DWT, 2012, HD HYUNDAI) and C. INNOVATOR
+      (ABT 297K DWT, 2012,
+    unit: null
+    values:
+    - 313.0
+    - 2012.0
+    - 297.0
+    - 2012.0
+  - section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+    section_type: linked_pdf
+    source_line: DALIAN), as well as the MR Tanker, PRO ONYX (ABT 50K DWT, 2019, HYUNDAI
+      MIPO), which are currently
+    unit: null
+    values:
+    - 50.0
+    - 2019.0
+  - section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+    section_type: linked_pdf
+    source_line: Tankers, who have sold their HIGH SEAS (ABT 51K DWT 2012, HYUNDAI
+      MIPO), for levels of high USD 27 m
+    unit: usd
+    values:
+    - 51.0
+    - 2012.0
+  - section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+    section_type: linked_pdf
+    source_line: FRONTIER GARLAND 181,480 2011 IMABARI B&W 6S70MC-C7.2 SS 01/29 USD
+      36.4 M GREEK
+    unit: usd
+    values:
+    - 181480.0
+    - 2011.0
+    - 6.0
+    - 2.0
+    - 1.0
+    - 29.0
+    - 36.4
+  - section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+    section_type: linked_pdf
+    source_line: BWTS FITTED DD 01/27
+    unit: null
+    values:
+    - 1.0
+    - 27.0
+  - section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+    section_type: linked_pdf
+    source_line: GIA INSPIRATION 85,035 2022 CSSC TIANJIN B&W 6S60ME-C10.5 SS 11/27
+      ARD USD 33.5 M U/D
+    unit: usd
+    values:
+    - 85035.0
+    - 2022.0
+    - 6.0
+    - 0.5
+    - 11.0
+    - 27.0
+  - section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+    section_type: linked_pdf
+    source_line: BWTS FITTED DD 11/27
+    unit: null
+    values:
+    - 11.0
+    - 27.0
+  - section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+    section_type: linked_pdf
+    source_line: AGRI KINSALE 77,171 2009 OSHIMA B&W 6S60MC6.2 SS 09/29 USD LOW 15
+      M U/D
+    unit: usd
+    values:
+    - 77171.0
+    - 2009.0
+    - 6.0
+    - 2.0
+    - 9.0
+    - 29.0
+  - section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+    section_type: linked_pdf
+    source_line: BWTS FITTED DD 08/27
+    unit: null
+    values:
+    - 8.0
+    - 27.0
+  - section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+    section_type: linked_pdf
+    source_line: 2014 JIANGSU
+    unit: null
+    values:
+    - 2014.0
+  - section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+    section_type: linked_pdf
+    source_line: JIN RUI 63.800 B&W 5S60ME-C8.2 SS 11/29 USD 24 M C/O HUAYA
+    unit: usd
+    values:
+    - 63.8
+    - 5.0
+    - 2.0
+    - 11.0
+    - 29.0
+  - section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+    section_type: linked_pdf
+    source_line: HANTONG BWTS FITTED DD 11/27 MARITIME
+    unit: null
+    values:
+    - 11.0
+    - 27.0
+  - section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+    section_type: linked_pdf
+    source_line: HIGH SEAS 51,678 2012 HYUNDAI MIPO B&W 6S60MC-C8.2 SS 03/27 USD HIGH
+      27 M GREEK
+    unit: usd
+    values:
+    - 51678.0
+    - 2012.0
+    - 6.0
+    - 2.0
+    - 3.0
+    - 27.0
+  - section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+    section_type: linked_pdf
+    source_line: BWTS FITTED DD 03/27
+    unit: null
+    values:
+    - 3.0
+    - 27.0
+  - section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+    section_type: linked_pdf
+    source_line: 284 Kifissias Avenue ("Clarksons") for general information purposes.
+      The Information is drawn from Clarksons' database and other sources. Clarksons
+    unit: null
+    values:
+    - 284.0
+  - section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+    section_type: linked_pdf
+    source_line: 152 32 Information extracted from the databases of other maritime
+      data collection agencies may differ from the Information extracted
+    unit: null
+    values:
+    - 152.0
+    - 32.0
+  - section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+    section_type: linked_pdf
+    source_line: Direct +(30) 210 458 6700 the Information is not an endorsement of
+      any commercial policies and/or any conclusions by Clarksons and its 'connected
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6700.0
+  - section: 'Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf'
+    section_type: linked_pdf
+    source_line: Fax +(30) 210 458 6799
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6799.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2026/2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127.html
+source_path: corpus/02-hellenic/shipbuilding/2026/2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127.html
 source_stem: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127
 source_url: https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-127
 summary: 'Main
@@ -404,7 +615,7 @@ Additionally, in the MR segment, another sale has been concluded, this time from
 Source: Clarkson Platou (Hellas) ltd
 
 ## Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf
-Source asset: reports/hellenic/shipbuilding/pdfs/2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf
+Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf
 
 [Page 1]
 Clarkson Hellas Ltd.

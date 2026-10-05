@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1512,
-  "source_path": "reports/hellenic/shipbuilding/2023/2023-07-04_breakwave-dry-bulk-shipping-report-7-4-2023.html",
+  "token_count": 1514,
+  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-07-04_breakwave-dry-bulk-shipping-report-7-4-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-7-4-2023",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-07-04_breakwave-dry-bulk-shipping-report-7-4-2023_breakwavedryjuly42023report_3c5b7a4cb3cb.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-07-04_breakwave-dry-bulk-shipping-report-7-4-2023_breakwavedryjuly42023report_3c5b7a4cb3cb.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nJuly 4, 2023\nBreakwave Dry Futures Index: 1,222 Baltic Dry Index (spot): 1,091 Short-term Indicators:\n↑ 30D: 8.0% ↑ 30D: 11.7% Momentum: Neutral\n↑ YTD: 29.6% ↓ YTD: -28.0% Sentiment: Neutral\n↓ YOY: -48.4% ↓ YOY: -51.3% Fundamentals: Neutral\nBi-Weekly Report\n• Dull days usually translate to lower rates as fleet efficiencies prevail - Despite the fact that trade volumes remain\nstrong when it comes to major bulks, the absence of any disruption across the major shipping lanes has translated\nto lower spot freight rates across the spectrum. This is anything but surprising given that without a tightness in a\nmajor shipping hub, demand for spot ships naturally declines as shippers favor dedicated tonnage.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-07-04_breakwave-dry-bulk-shipping-report-7-4-2023_breakwavedryjuly42023report_3c5b7a4cb3cb.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nJuly 4, 2023\nBreakwave Dry Futures Index: 1,222 Baltic Dry Index (spot): 1,091 Short-term Indicators:\n↑ 30D: 8.0% ↑ 30D: 11.7% Momentum: Neutral\n↑ YTD: 29.6% ↓ YTD: -28.0% Sentiment: Neutral\n↓ YOY: -48.4% ↓ YOY: -51.3% Fundamentals: Neutral\nBi-Weekly Report\n• Dull days usually translate to lower rates as fleet efficiencies prevail - Despite the fact that trade volumes remain\nstrong when it comes to major bulks, the absence of any disruption across the major shipping lanes has translated\nto lower spot freight rates across the spectrum. This is anything but surprising given that without a tightness in a\nmajor shipping hub, demand for spot ships naturally declines as shippers favor dedicated tonnage.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1435,
+      "token_count": 1437,
       "section_type": "linked_pdf",
       "children": []
     }

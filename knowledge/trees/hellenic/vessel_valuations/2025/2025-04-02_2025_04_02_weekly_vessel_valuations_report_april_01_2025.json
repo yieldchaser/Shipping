@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1307,
-  "source_path": "reports/hellenic/vessel_valuations/2025/2025-04-02_weekly-vessel-valuations-report-april-01-2025.html",
+  "token_count": 1309,
+  "source_path": "corpus/02-hellenic/vessel_valuations/2025/2025-04-02_weekly-vessel-valuations-report-april-01-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-april-01-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-04-02_weekly-vessel-valuations-report-april-01-2025_img1_242025_5b9e0efaa98f.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/vessel_valuations/2025/assets/2025-04-02_weekly-vessel-valuations-report-april-01-2025_img1_242025_5b9e0efaa98f.jpg\n\nLinked image asset: 2025-04-02_weekly-vessel-valuations-report-april-01-2025_img1_242025_5b9e0efaa98f.jpg\n\nImage metadata: JPEG 678x255 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\nDs) VesselsValue\n01 April 2025 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra URL MR Cape Pmax Supra Handy Pico Pmax Handy Fmax\n0 40.1% +1.3% +0.2% -0.2% -0.6% 41.1% 40.3% +0.3% +0.7% 40.2% +0.5% -1.2% +0.5%\n320k 160k 115k 75k 50k 180k 82k 62k 38k 7000 © 4250 17501100\ns 0.0% -0.2% 40.4% -0.2% -0.6% 41.1% 40.4% 40.3% +1.2% 40.2% -1.3% -0.1% +0.5%\n320k 160k 110k 75k 50k 180k 82k 60k 38k 7000 4250 1750-1100\noa 40.1% -0.5% +1.7% -0.1% -0.6% 41.1% 40.4% +0.3% +1.7% 40.2% -2.7% +0.8% +0.5%\n320k 160k 110k 75k 50k 180k 80k 60k 35k 7000 = 4250 1750 1100\nie 40.1% +1.0% +2.5% 0.0% -0.6% +1,1% 40.3% +0,3% +1.7% 40.2% -2.3% +1.4% +0.5%\n310k 160k 110k 75k 50k 180k 80k 55k 30k 7000 = 4250 17501100\n20 0.0% +4.1% +1.6% 0.0% -0.6% +1.1% 40.2% +0.2% +1.1% 40.2% +1.7% +1,8% +0.6%\n310k 160k 110k 70k 45k 180k 75k 55k 30k 7000 4250 1750 1100\n",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2025/assets/2025-04-02_weekly-vessel-valuations-report-april-01-2025_img1_242025_5b9e0efaa98f.jpg\n\nLinked image asset: 2025-04-02_weekly-vessel-valuations-report-april-01-2025_img1_242025_5b9e0efaa98f.jpg\n\nImage metadata: JPEG 678x255 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\nDs) VesselsValue\n01 April 2025 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra URL MR Cape Pmax Supra Handy Pico Pmax Handy Fmax\n0 40.1% +1.3% +0.2% -0.2% -0.6% 41.1% 40.3% +0.3% +0.7% 40.2% +0.5% -1.2% +0.5%\n320k 160k 115k 75k 50k 180k 82k 62k 38k 7000 © 4250 17501100\ns 0.0% -0.2% 40.4% -0.2% -0.6% 41.1% 40.4% 40.3% +1.2% 40.2% -1.3% -0.1% +0.5%\n320k 160k 110k 75k 50k 180k 82k 60k 38k 7000 4250 1750-1100\noa 40.1% -0.5% +1.7% -0.1% -0.6% 41.1% 40.4% +0.3% +1.7% 40.2% -2.7% +0.8% +0.5%\n320k 160k 110k 75k 50k 180k 80k 60k 35k 7000 = 4250 1750 1100\nie 40.1% +1.0% +2.5% 0.0% -0.6% +1,1% 40.3% +0,3% +1.7% 40.2% -2.3% +1.4% +0.5%\n310k 160k 110k 75k 50k 180k 80k 55k 30k 7000 = 4250 17501100\n20 0.0% +4.1% +1.6% 0.0% -0.6% +1.1% 40.2% +0.2% +1.1% 40.2% +1.7% +1,8% +0.6%\n310k 160k 110k 70k 45k 180k 75k 55k 30k 7000 4250 1750 110",
       "keywords": [
         "capesize",
         "supramax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 808,
+      "token_count": 810,
       "section_type": "linked_image_asset",
       "children": []
     }

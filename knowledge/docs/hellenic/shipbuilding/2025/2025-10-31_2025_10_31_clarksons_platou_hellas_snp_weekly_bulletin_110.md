@@ -4,6 +4,7 @@ commodities: []
 date: '2025-10-31'
 doc_id: hellenic_shipbuilding_2025-10-31_2025_10_31_clarksons_platou_hellas_snp_weekly_bulletin_110
 document_type: shipbuilding_update
+is_error_page: false
 key_entities: []
 keywords:
 - capesize
@@ -24,10 +25,9 @@ linked_assets_ingested: 1
 linked_assets_mirrored: 1
 linked_assets_skipped: 0
 market_tone: constructive
-numeric_observation_count: 21
+numeric_observation_count: 22
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Another 15-year-old Capesize has changed hands this week, highlighting
     the continued strong demandfor vessels of this vintage over the last couple of
@@ -38,8 +38,8 @@ numeric_observations:
   - 15.0
   - 179.0
   - 2010.0
-- &id002
-  section: Main
+  - 28500.0
+- section: Main
   section_type: null
   source_line: In the geared segment, a couple of Supramax sales were concluded. The
     Japanese-controlled mv Atacama Queen (abt 5k dwt, built 2011 Imabari, OHBH) has
@@ -49,10 +49,11 @@ numeric_observations:
   values:
   - 5.0
   - 2011.0
+  - 14500.0
   - 53.0
   - 2007.0
-- &id003
-  section: Main
+  - 10300.0
+- section: Main
   section_type: null
   source_line: A comparatively quiet week on the tankers with no confirmed sales reported.
     However, market rumors indicate a 20-year-old Suezmax having been committed for
@@ -60,32 +61,34 @@ numeric_observations:
   unit: usd
   values:
   - 20.0
-- &id004
-  section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+- section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
   section_type: linked_pdf
   source_line: Another 15-year-old Capesize has changed hands this week, highlighting
     the continued strong
   unit: null
   values:
   - 15.0
-- &id005
-  section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+- section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
   section_type: linked_pdf
   source_line: demand for vessels of this vintage over the last couple of months.
     The mv Rosemary (abt 179k dwt, built
   unit: null
   values:
   - 179.0
-- &id006
-  section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+- section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
   section_type: linked_pdf
   source_line: 2010 Daewoo) was inviting offers earlier this month and, following
     healthy competition with more than
   unit: null
   values:
   - 2010.0
-- &id007
-  section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+- section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+  section_type: linked_pdf
+  source_line: ten bids received, has now been sold for around USD 28.5m.
+  unit: usd
+  values:
+  - 28500.0
+- section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
   section_type: linked_pdf
   source_line: Atacama Queen (abt 5k dwt, built 2011 Imabari, OHBH) has been sold
     at USD 14.5m while the older mv
@@ -93,8 +96,8 @@ numeric_observations:
   values:
   - 5.0
   - 2011.0
-- &id008
-  section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+  - 14500.0
+- section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
   section_type: linked_pdf
   source_line: Evriali (abt 53k dwt, built 2007 Iwagi) has changed hands at USD 10.3m,
     with dry dock due promptly in
@@ -102,32 +105,29 @@ numeric_observations:
   values:
   - 53.0
   - 2007.0
-- &id009
-  section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+  - 10300.0
+- section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
   section_type: linked_pdf
   source_line: Lastly on Handies, we await to see the outcome of negotiations on the
     "OCEAN TACT" (ABT 36K DWT,
   unit: null
   values:
   - 36.0
-- &id010
-  section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+- section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
   section_type: linked_pdf
   source_line: 2019, SHIKOKU, SCRUBBER) which invited offers on Tuesday whereby owners
     were hoping to achieve
   unit: null
   values:
   - 2019.0
-- &id011
-  section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+- section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
   section_type: linked_pdf
   source_line: indicate a 20-year-old Suezmax having been committed for a price in
     the mid USD 29 m's range.
   unit: usd
   values:
   - 20.0
-- &id012
-  section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+- section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
   section_type: linked_pdf
   source_line: ROSEMARY 179,742 2010 DAEWOO B. & W. 6S70MC-C 04/30 USD 28.5 M U/D
   unit: usd
@@ -135,25 +135,25 @@ numeric_observations:
   - 179742.0
   - 2010.0
   - 6.0
+  - 70.0
   - 4.0
   - 30.0
-- &id013
-  section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+  - 28500.0
+- section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
   section_type: linked_pdf
   source_line: BWTS FITTED 05/28
   unit: null
   values:
   - 5.0
   - 28.0
-- &id014
-  section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+- section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
   section_type: linked_pdf
   source_line: B. & W. 6S50MC-C
   unit: null
   values:
   - 6.0
-- &id015
-  section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+  - 50.0
+- section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
   section_type: linked_pdf
   source_line: ATACAMA QUEEN 51,213 2011 IMABARI 4 x 31 T 02/26 USD 14.5 M U/D
   unit: usd
@@ -164,16 +164,16 @@ numeric_observations:
   - 31.0
   - 2.0
   - 26.0
-- &id016
-  section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+  - 14500.0
+- section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
   section_type: linked_pdf
   source_line: B. & W. 6S50MC-C8.1
   unit: null
   values:
   - 6.0
-  - 1.0
-- &id017
-  section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+  - 50.0
+  - 8100.0
+- section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
   section_type: linked_pdf
   source_line: EVRIALI 53,554 2007 IWAGI 4 x 30 T 09/27 USD 10.3 M U/D
   unit: usd
@@ -184,16 +184,15 @@ numeric_observations:
   - 30.0
   - 9.0
   - 27.0
-- &id018
-  section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+  - 10300.0
+- section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
   section_type: linked_pdf
   source_line: 284 Kifissias Avenue ("Clarksons") for general information purposes.
     The Information is drawn from Clarksons' database and other sources. Clarksons
   unit: null
   values:
   - 284.0
-- &id019
-  section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+- section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
   section_type: linked_pdf
   source_line: 152 32 Information extracted from the databases of other maritime data
     collection agencies may differ from the Information extracted
@@ -201,8 +200,7 @@ numeric_observations:
   values:
   - 152.0
   - 32.0
-- &id020
-  section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+- section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
   section_type: linked_pdf
   source_line: Direct +(30) 210 458 6700 the Information is not an endorsement of
     any commercial policies and/or any conclusions by Clarksons and its 'connected
@@ -212,8 +210,7 @@ numeric_observations:
   - 210.0
   - 458.0
   - 6700.0
-- &id021
-  section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+- section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
   section_type: linked_pdf
   source_line: Fax +(30) 210 458 6799
   unit: null
@@ -230,29 +227,183 @@ section_count: 2
 signals:
   numeric_observation_count: 21
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
+  - section: Main
+    section_type: null
+    source_line: Another 15-year-old Capesize has changed hands this week, highlighting
+      the continued strong demandfor vessels of this vintage over the last couple
+      of months. The mv Rosemary (abt 179k dwt, built 2010 Daewoo) was inviting offers
+      earlier this month and, followin
+    unit: usd
+    values:
+    - 15.0
+    - 179.0
+    - 2010.0
+  - section: Main
+    section_type: null
+    source_line: In the geared segment, a couple of Supramax sales were concluded.
+      The Japanese-controlled mv Atacama Queen (abt 5k dwt, built 2011 Imabari, OHBH)
+      has been sold at USD 14.5m while the older mv Evriali (abt 53k dwt, built 2007
+      Iwagi) has changed hands at USD 10.
+    unit: usd
+    values:
+    - 5.0
+    - 2011.0
+    - 53.0
+    - 2007.0
+  - section: Main
+    section_type: null
+    source_line: A comparatively quiet week on the tankers with no confirmed sales
+      reported. However, market rumors indicate a 20-year-old Suezmax having been
+      committed for a price in the mid USD 29 m's range.
+    unit: usd
+    values:
+    - 20.0
+  - section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+    section_type: linked_pdf
+    source_line: Another 15-year-old Capesize has changed hands this week, highlighting
+      the continued strong
+    unit: null
+    values:
+    - 15.0
+  - section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+    section_type: linked_pdf
+    source_line: demand for vessels of this vintage over the last couple of months.
+      The mv Rosemary (abt 179k dwt, built
+    unit: null
+    values:
+    - 179.0
+  - section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+    section_type: linked_pdf
+    source_line: 2010 Daewoo) was inviting offers earlier this month and, following
+      healthy competition with more than
+    unit: null
+    values:
+    - 2010.0
+  - section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+    section_type: linked_pdf
+    source_line: Atacama Queen (abt 5k dwt, built 2011 Imabari, OHBH) has been sold
+      at USD 14.5m while the older mv
+    unit: usd
+    values:
+    - 5.0
+    - 2011.0
+  - section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+    section_type: linked_pdf
+    source_line: Evriali (abt 53k dwt, built 2007 Iwagi) has changed hands at USD
+      10.3m, with dry dock due promptly in
+    unit: usd
+    values:
+    - 53.0
+    - 2007.0
+  - section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+    section_type: linked_pdf
+    source_line: Lastly on Handies, we await to see the outcome of negotiations on
+      the "OCEAN TACT" (ABT 36K DWT,
+    unit: null
+    values:
+    - 36.0
+  - section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+    section_type: linked_pdf
+    source_line: 2019, SHIKOKU, SCRUBBER) which invited offers on Tuesday whereby
+      owners were hoping to achieve
+    unit: null
+    values:
+    - 2019.0
+  - section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+    section_type: linked_pdf
+    source_line: indicate a 20-year-old Suezmax having been committed for a price
+      in the mid USD 29 m's range.
+    unit: usd
+    values:
+    - 20.0
+  - section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+    section_type: linked_pdf
+    source_line: ROSEMARY 179,742 2010 DAEWOO B. & W. 6S70MC-C 04/30 USD 28.5 M U/D
+    unit: usd
+    values:
+    - 179742.0
+    - 2010.0
+    - 6.0
+    - 4.0
+    - 30.0
+  - section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+    section_type: linked_pdf
+    source_line: BWTS FITTED 05/28
+    unit: null
+    values:
+    - 5.0
+    - 28.0
+  - section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+    section_type: linked_pdf
+    source_line: B. & W. 6S50MC-C
+    unit: null
+    values:
+    - 6.0
+  - section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+    section_type: linked_pdf
+    source_line: ATACAMA QUEEN 51,213 2011 IMABARI 4 x 31 T 02/26 USD 14.5 M U/D
+    unit: usd
+    values:
+    - 51213.0
+    - 2011.0
+    - 4.0
+    - 31.0
+    - 2.0
+    - 26.0
+  - section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+    section_type: linked_pdf
+    source_line: B. & W. 6S50MC-C8.1
+    unit: null
+    values:
+    - 6.0
+    - 1.0
+  - section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+    section_type: linked_pdf
+    source_line: EVRIALI 53,554 2007 IWAGI 4 x 30 T 09/27 USD 10.3 M U/D
+    unit: usd
+    values:
+    - 53554.0
+    - 2007.0
+    - 4.0
+    - 30.0
+    - 9.0
+    - 27.0
+  - section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+    section_type: linked_pdf
+    source_line: 284 Kifissias Avenue ("Clarksons") for general information purposes.
+      The Information is drawn from Clarksons' database and other sources. Clarksons
+    unit: null
+    values:
+    - 284.0
+  - section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+    section_type: linked_pdf
+    source_line: 152 32 Information extracted from the databases of other maritime
+      data collection agencies may differ from the Information extracted
+    unit: null
+    values:
+    - 152.0
+    - 32.0
+  - section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+    section_type: linked_pdf
+    source_line: Direct +(30) 210 458 6700 the Information is not an endorsement of
+      any commercial policies and/or any conclusions by Clarksons and its 'connected
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6700.0
+  - section: 'Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf'
+    section_type: linked_pdf
+    source_line: Fax +(30) 210 458 6799
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6799.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2025/2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110.html
+source_path: corpus/02-hellenic/shipbuilding/2025/2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110.html
 source_stem: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110
 source_url: https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-110
 summary: 'Main
@@ -301,7 +452,7 @@ It will be interesting to observe price levels in the coming weeks, particularly
 Source: Clarkson Platou (Hellas) ltd
 
 ## Linked asset: 2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf
-Source asset: reports/hellenic/shipbuilding/pdfs/2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf
+Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-10-31_clarksons-platou-hellas-snp-weekly-bulletin-110_weekly-sales-31st-oct-2025_7b5e63335a6f.pdf
 
 [Page 1]
 Clarkson Hellas Ltd.

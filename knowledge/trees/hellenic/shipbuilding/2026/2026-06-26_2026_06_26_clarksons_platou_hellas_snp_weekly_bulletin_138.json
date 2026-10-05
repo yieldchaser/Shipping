@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2283,
-  "source_path": "reports/hellenic/shipbuilding/2026/2026-06-26_clarksons-platou-hellas-snp-weekly-bulletin-138.html",
+  "token_count": 2285,
+  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-06-26_clarksons-platou-hellas-snp-weekly-bulletin-138.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-138",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-06-26_clarksons-platou-hellas-snp-weekly-bulletin-138_weekly-sales-26th-jun-2026_5f72b66ff835.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-06-26_clarksons-platou-hellas-snp-weekly-bulletin-138_weekly-sales-26th-jun-2026_5f72b66ff835.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nThe US-Iran ceasefire has not yet changed much on the water, while the impact of the signing of the\nMemorandum of Agreement between the US and Iran on the Hormuz chokepoint remains to be seen.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-06-26_clarksons-platou-hellas-snp-weekly-bulletin-138_weekly-sales-26th-jun-2026_5f72b66ff835.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nThe US-Iran ceasefire has not yet changed much on the water, while the impact of the signing of the\nMemorandum of Agreement between the US and Iran on the Hormuz chokepoint remains to be seen.",
       "keywords": [
         "capesize",
         "supramax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1663,
+      "token_count": 1665,
       "section_type": "linked_pdf",
       "children": []
     }

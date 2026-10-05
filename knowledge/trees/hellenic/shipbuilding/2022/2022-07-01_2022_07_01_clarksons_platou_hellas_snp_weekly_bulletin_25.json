@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2256,
-  "source_path": "reports/hellenic/shipbuilding/2022/2022-07-01_clarksons-platou-hellas-snp-weekly-bulletin-25.html",
+  "token_count": 2258,
+  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-07-01_clarksons-platou-hellas-snp-weekly-bulletin-25.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-25",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-07-01_clarksons-platou-hellas-snp-weekly-bulletin-25_report-01-07-2022_eb0efac3b9b4.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-07-01_clarksons-platou-hellas-snp-weekly-bulletin-25_report-01-07-2022_eb0efac3b9b4.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 01 July 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 11/24\nTHESTELIA K 82,108 2009 TSUNEISHI ZHOUSHAN MAN B. 6S60MC-C7.2 LOW USD 23 M U/D\nDD 05/23\nBWTS fitted\nMAN-B&W 5S60ME-C8.2 HK BASED\nWESTERN SANTOS 63,518 2014 JIAGNSU HANTONG SS/DD 04/24 USD 26.4 M\n4X35T, BWTS fitted (c/o Jinhui)\nRGN USD 23 M\nMAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-07-01_clarksons-platou-hellas-snp-weekly-bulletin-25_report-01-07-2022_eb0efac3b9b4.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 01 July 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 11/24\nTHESTELIA K 82,108 2009 TSUNEISHI ZHOUSHAN MAN B. 6S60MC-C7.2 LOW USD 23 M U/D\nDD 05/23\nBWTS fitted\nMAN-B&W 5S60ME-C8.2 HK BASED\nWESTERN SANTOS 63,518 2014 JIAGNSU HANTONG SS/DD 04/24 USD 26.4 M\n4X35T, BWTS fitted (c/o Jinhui)\nRGN USD 23 M\nMAN B.",
       "keywords": [
         "handysize",
         "lng",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2160,
+      "token_count": 2162,
       "section_type": "linked_pdf",
       "children": []
     }

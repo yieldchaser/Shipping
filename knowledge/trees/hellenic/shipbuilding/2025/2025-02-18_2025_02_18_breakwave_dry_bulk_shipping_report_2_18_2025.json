@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1513,
-  "source_path": "reports/hellenic/shipbuilding/2025/2025-02-18_breakwave-dry-bulk-shipping-report-2-18-2025.html",
+  "token_count": 1515,
+  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-02-18_breakwave-dry-bulk-shipping-report-2-18-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-2-18-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-02-18_breakwave-dry-bulk-shipping-report-2-18-2025_breakwavedryfebruary182025report_c7e2fe23b742.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-02-18_breakwave-dry-bulk-shipping-report-2-18-2025_breakwavedryfebruary182025report_c7e2fe23b742.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nFebruary 18, 2025\nBreakwave Dry Futures Index: 1,226 Baltic Dry Index (spot): 792 Short-term Indicators:\n↑ 30D: 13.2% ↓ 30D: -26.7% Momentum: Positive\n↑ YTD: 20.9% ↓ YTD: -20.6% Sentiment: Neutral\n↓ YOY: -35.7% ↓ YOY: -49.9% Fundamentals: Negative\nBi-Weekly Report\n• Futures Curve in Steep Contango as Expectations Remain High - With the Capesize spot market reaching multiyear\nlows due to limited cargo flow and a significant oversupply of vessels, the futures market remains the sole source of\noptimism in an otherwise subdued environment. Freight futures are once again pricing a substantial increase in spot\nrates within less than a month.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-02-18_breakwave-dry-bulk-shipping-report-2-18-2025_breakwavedryfebruary182025report_c7e2fe23b742.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nFebruary 18, 2025\nBreakwave Dry Futures Index: 1,226 Baltic Dry Index (spot): 792 Short-term Indicators:\n↑ 30D: 13.2% ↓ 30D: -26.7% Momentum: Positive\n↑ YTD: 20.9% ↓ YTD: -20.6% Sentiment: Neutral\n↓ YOY: -35.7% ↓ YOY: -49.9% Fundamentals: Negative\nBi-Weekly Report\n• Futures Curve in Steep Contango as Expectations Remain High - With the Capesize spot market reaching multiyear\nlows due to limited cargo flow and a significant oversupply of vessels, the futures market remains the sole source of\noptimism in an otherwise subdued environment. Freight futures are once again pricing a substantial increase in spot\nrates within less than a month.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1433,
+      "token_count": 1435,
       "section_type": "linked_pdf",
       "children": []
     }

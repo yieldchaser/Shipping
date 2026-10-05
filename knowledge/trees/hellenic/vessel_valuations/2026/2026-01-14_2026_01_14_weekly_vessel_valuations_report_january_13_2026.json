@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1491,
-  "source_path": "reports/hellenic/vessel_valuations/2026/2026-01-14_weekly-vessel-valuations-report-january-13-2026.html",
+  "token_count": 1493,
+  "source_path": "corpus/02-hellenic/vessel_valuations/2026/2026-01-14_weekly-vessel-valuations-report-january-13-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-january-13-2026",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-01-14_weekly-vessel-valuations-report-january-13-2026_img1_matrix-13th-january-2026_d5b3b15efc89.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-01-14_weekly-vessel-valuations-report-january-13-2026_img1_matrix-13th-january-2026_d5b3b15efc89.jpg\n\nLinked image asset: 2026-01-14_weekly-vessel-valuations-report-january-13-2026_img1_matrix-13th-january-2026_d5b3b15efc89.jpg\n\nImage metadata: JPEG 687x318 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\n© VesselsValue --------AA\n13 January 2026 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra Lar MR Cape Pmax Supra Handy poet > Pmax Handy Fmax\n‘ 0.3% 01% 0.0% +0.1% -0.4% 02% 0.0% 02% -0.1% 0.1% 40.1% = 0.1% = -0.1%\n320k 160k N1Sk 75k 50k 180k 82k 62k 38k 7000-4250 1750 n00\n2 *35% 0.0% +0.1% 0.0% 0.0% a% 32% 02% = -0.2% 0.0% 40.1% -0.1% = -0.1%\n320k 160k nOk 75k 50k 180k 82k 60k 38k 7000 4250 1750 noo\nce +88% -03% +02% +0.1% +0.9% 17% = 23% 02% 0.2% 402% 40.1% 0.3% --0.1%\n520k 160k nok 75k 50k 180k 80k 60k 35k 70004250 1750 noo\n410.3% = 1.4% = 40.1% 40.3% +. 21% 06% 0.2% 0.2% +02% 0.0% = 0.6% ----0.1%\n.",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2026/assets/2026-01-14_weekly-vessel-valuations-report-january-13-2026_img1_matrix-13th-january-2026_d5b3b15efc89.jpg\n\nLinked image asset: 2026-01-14_weekly-vessel-valuations-report-january-13-2026_img1_matrix-13th-january-2026_d5b3b15efc89.jpg\n\nImage metadata: JPEG 687x318 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\n© VesselsValue --------AA\n13 January 2026 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra Lar MR Cape Pmax Supra Handy poet > Pmax Handy Fmax\n‘ 0.3% 01% 0.0% +0.1% -0.4% 02% 0.0% 02% -0.1% 0.1% 40.1% = 0.1% = -0.1%\n320k 160k N1Sk 75k 50k 180k 82k 62k 38k 7000-4250 1750 n00\n2 *35% 0.0% +0.1% 0.0% 0.0% a% 32% 02% = -0.2% 0.0% 40.1% -0.1% = -0.1%\n320k 160k nOk 75k 50k 180k 82k 60k 38k 7000 4250 1750 noo\nce +88% -03% +02% +0.1% +0.9% 17% = 23% 02% 0.2% 402% 40.1% 0.3% --0.1%\n520k 160k nok 75k 50k 180k 80k 60k 35k 70004250 1750 noo\n410.3% = 1.4% = 40.1% 40.3% +. 21% 06% 0.2% 0.2% +02% 0.0% = 0.6% ----0.1%\n.",
       "keywords": [
         "capesize",
         "supramax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 756,
+      "token_count": 758,
       "section_type": "linked_image_asset",
       "children": []
     }

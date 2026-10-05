@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2349,
-  "source_path": "reports/hellenic/shipbuilding/2023/2023-06-23_clarksons-platou-hellas-snp-weekly-bulletin-75.html",
+  "token_count": 2351,
+  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-06-23_clarksons-platou-hellas-snp-weekly-bulletin-75.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-75",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-06-23_clarksons-platou-hellas-snp-weekly-bulletin-75_report-23-06-2023_3eb4658af482.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-06-23_clarksons-platou-hellas-snp-weekly-bulletin-75_report-23-06-2023_3eb4658af482.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 23 June 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC6.2, SS 02/25\nAQUAENNA 175,975 2011 JINHAI HEAVY USD 22.7 M GREEKS\nBWTS fitted DD 02/25\nSANTA CRUZ 83,456 2011 SANOYAS MAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-06-23_clarksons-platou-hellas-snp-weekly-bulletin-75_report-23-06-2023_3eb4658af482.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 23 June 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC6.2, SS 02/25\nAQUAENNA 175,975 2011 JINHAI HEAVY USD 22.7 M GREEKS\nBWTS fitted DD 02/25\nSANTA CRUZ 83,456 2011 SANOYAS MAN B.",
       "keywords": [
         "capesize",
         "lng",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2257,
+      "token_count": 2259,
       "section_type": "linked_pdf",
       "children": []
     }

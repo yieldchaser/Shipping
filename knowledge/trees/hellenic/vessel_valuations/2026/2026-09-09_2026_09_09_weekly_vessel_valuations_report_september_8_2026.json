@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1105,
-  "source_path": "reports/hellenic/vessel_valuations/2026/2026-09-09_weekly-vessel-valuations-report-september-8-2026.html",
+  "token_count": 1107,
+  "source_path": "corpus/02-hellenic/vessel_valuations/2026/2026-09-09_weekly-vessel-valuations-report-september-8-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-september-8-2026",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-09-09_weekly-vessel-valuations-report-september-8-2026_09092026_8d9ea9974aeb.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-09-09_weekly-vessel-valuations-report-september-8-2026_09092026_8d9ea9974aeb.jpg\n\nLinked image asset: 2026-09-09_weekly-vessel-valuations-report-september-8-2026_09092026_8d9ea9974aeb.jpg\n\nImage metadata: JPEG 600x268 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\n(D) VesselsValue, ---22--AAAAAAA\n08 Septemoer 2076 ‘VV Mini Matrix ~ Weekly Change\nTaakers Bathers Comtaianes\nwe wee Sere sm us vm oe ro Sows None Patan tee coy fen\n- Shad +1 a 0 10% ms -_ + -m - 1 a\noe - 7 ™ CI - mn -\" a Dial a os ow\na8 ous 10% ae sears rcs oun on \"lan as us \"aN us\n2 eT - a = a ~~ on - ~~ ane as ne\nnu nam mn oa 00s na oa os am var as 13% a8\n: os a ™ - ~ - ss ~~ \" ore rd\noe ses ors oa su orn san om we vm as 1a an\n¥ ve - - ™ cd - co - a - a rd =\nan om oa wos 00% aan oan. oo a8 oa 0% nan us\ni ve - \" = \" ~~ m i\" ~ - an ms uw\nous ona nan oa 00% nas san nu a8 ra oa on as\n* - oy \" = \" wm ™ = cd - ~~ ms uo",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2026/assets/2026-09-09_weekly-vessel-valuations-report-september-8-2026_09092026_8d9ea9974aeb.jpg\n\nLinked image asset: 2026-09-09_weekly-vessel-valuations-report-september-8-2026_09092026_8d9ea9974aeb.jpg\n\nImage metadata: JPEG 600x268 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\n(D) VesselsValue, ---22--AAAAAAA\n08 Septemoer 2076 ‘VV Mini Matrix ~ Weekly Change\nTaakers Bathers Comtaianes\nwe wee Sere sm us vm oe ro Sows None Patan tee coy fen\n- Shad +1 a 0 10% ms -_ + -m - 1 a\noe - 7 ™ CI - mn -\" a Dial a os ow\na8 ous 10% ae sears rcs oun on \"lan as us \"aN us\n2 eT - a = a ~~ on - ~~ ane as ne\nnu nam mn oa 00s na oa os am var as 13% a8\n: os a ™ - ~ - ss ~~ \" ore rd\noe ses ors oa su orn san om we vm as 1a an\n¥ ve - - ™ cd - co - a - a rd =\nan om oa wos 00% aan oan. oo a8 oa 0% nan us\ni ve - \" = \" ~~ m i\" ~ - an ms uw\nous ona nan oa 00% nas san nu a8 ra oa on as\n* - oy \" = \" wm ™ = cd - ~~ ms uo",
       "keywords": [
         "asset",
         "image",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 389,
+      "token_count": 391,
       "section_type": "linked_image_asset",
       "children": []
     }

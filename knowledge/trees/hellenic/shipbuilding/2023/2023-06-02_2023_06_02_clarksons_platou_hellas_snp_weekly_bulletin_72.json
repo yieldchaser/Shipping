@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2244,
-  "source_path": "reports/hellenic/shipbuilding/2023/2023-06-02_clarksons-platou-hellas-snp-weekly-bulletin-72.html",
+  "token_count": 2246,
+  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-06-02_clarksons-platou-hellas-snp-weekly-bulletin-72.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-72",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-06-02_clarksons-platou-hellas-snp-weekly-bulletin-72_report-02-06-2023_7143eb483b0b.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-06-02_clarksons-platou-hellas-snp-weekly-bulletin-72_report-02-06-2023_7143eb483b0b.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 02 June 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN-B&W 5S60ME-C7.2 SS 07/23\nSEA PROTEUS 81762 2013 WUHU XINLIAN\nBWTS fitted DD 07/23\nUSD 70.5 M\nSEA PLUTO 81007 SS 11/23 U/D\nDD 11/23 (En Bloc)\n2013 NEW CENTURY MAN-B&W 5S60MC-C8.2\nSEA VENUS SS 10/23\n80888\nDD 10/23\nMAN-B&W 6S50MC-C8.2 SS 03/27\nARTEMIS A 56441 2011 SINOTRANS USD 16.7 M TURKISH\n4 x 35T, BWTS fitted DD 01/26\n2013 NANTONG MAN-B&W 6S46MC-C7.2 SS 01/27\nYANGTZE OASIS 34306 HIGH USD 13 M U/D\nHUIGANG 4 x 30T, BWTS fitted DD 01/25\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\nMAN-B&W 7G80ME-C9.5 SS 10/23 USD 94.5 M NORWEGIAN\nMARIA P. LEMOS 319191 2018 HHI\nSCRUBBER & BWTS fitted DD 10/23 (Delivery Q3) S (c/o DHT)\nMAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-06-02_clarksons-platou-hellas-snp-weekly-bulletin-72_report-02-06-2023_7143eb483b0b.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 02 June 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN-B&W 5S60ME-C7.2 SS 07/23\nSEA PROTEUS 81762 2013 WUHU XINLIAN\nBWTS fitted DD 07/23\nUSD 70.5 M\nSEA PLUTO 81007 SS 11/23 U/D\nDD 11/23 (En Bloc)\n2013 NEW CENTURY MAN-B&W 5S60MC-C8.2\nSEA VENUS SS 10/23\n80888\nDD 10/23\nMAN-B&W 6S50MC-C8.2 SS 03/27\nARTEMIS A 56441 2011 SINOTRANS USD 16.7 M TURKISH\n4 x 35T, BWTS fitted DD 01/26\n2013 NANTONG MAN-B&W 6S46MC-C7.2 SS 01/27\nYANGTZE OASIS 34306 HIGH USD 13 M U/D\nHUIGANG 4 x 30T, BWTS fitted DD 01/25\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\nMAN-B&W 7G80ME-C9.5 SS 10/23 USD 94.5 M NORWEGIAN\nMARIA P. LEMOS 319191 2018 HHI\nSCRUBBER & BWTS fitted DD 10/23 (Delivery Q3) S (c/o DHT)\nMAN B.",
       "keywords": [
         "handysize",
         "suezmax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2147,
+      "token_count": 2149,
       "section_type": "linked_pdf",
       "children": []
     }

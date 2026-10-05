@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2624,
-  "source_path": "reports/hellenic/shipbuilding/2026/2026-02-13_clarksons-platou-hellas-snp-weekly-bulletin-121.html",
+  "token_count": 2626,
+  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-02-13_clarksons-platou-hellas-snp-weekly-bulletin-121.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-121",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-02-13_clarksons-platou-hellas-snp-weekly-bulletin-121_weekly-sales-13th-feb-2026_4cdac6ac1686.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-02-13_clarksons-platou-hellas-snp-weekly-bulletin-121_weekly-sales-13th-feb-2026_4cdac6ac1686.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nTankers and Bulkers continue to benefit from overall firm market sentiment, supporting steady levels of\nsecondhand activity across the board.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-02-13_clarksons-platou-hellas-snp-weekly-bulletin-121_weekly-sales-13th-feb-2026_4cdac6ac1686.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nTankers and Bulkers continue to benefit from overall firm market sentiment, supporting steady levels of\nsecondhand activity across the board.",
       "keywords": [
         "capesize",
         "handysize",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1979,
+      "token_count": 1981,
       "section_type": "linked_pdf",
       "children": []
     }

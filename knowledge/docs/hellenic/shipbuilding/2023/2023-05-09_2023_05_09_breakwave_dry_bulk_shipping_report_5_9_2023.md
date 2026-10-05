@@ -8,6 +8,7 @@ commodities:
 date: '2023-05-09'
 doc_id: hellenic_shipbuilding_2023-05-09_2023_05_09_breakwave_dry_bulk_shipping_report_5_9_2023
 document_type: shipbuilding_update
+is_error_page: false
 key_entities:
 - China
 - Brazil
@@ -33,24 +34,21 @@ linked_assets_skipped: 0
 market_tone: constructive
 numeric_observation_count: 27
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Stability brings optimism, as Capesize spot rates reach 20,000 - As
     Capesize rates continue
   unit: null
   values:
   - 20000.0
-- &id002
-  section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+- section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
   section_type: linked_pdf
   source_line: May 9, 2023
   unit: null
   values:
   - 9.0
   - 2023.0
-- &id003
-  section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+- section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
   section_type: linked_pdf
   source_line: 'Breakwave Dry Futures Index: 1,703 Baltic Dry Index (spot): 1,558
     Short-term Indicators:'
@@ -58,8 +56,7 @@ numeric_observations:
   values:
   - 1703.0
   - 1558.0
-- &id004
-  section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+- section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
   section_type: linked_pdf
   source_line: '↓ 30D: -7.5% ↓ 30D: -0.1% Momentum: Negative'
   unit: pct
@@ -68,40 +65,35 @@ numeric_observations:
   - -7.5
   - 30.0
   - -0.1
-- &id005
-  section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+- section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
   section_type: linked_pdf
   source_line: '↑ YTD: 65.7% ↑ YTD: 2.8% Sentiment: Neutral'
   unit: pct
   values:
-  - 65.7
+  - 65700.0
   - 2.8
-- &id006
-  section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+- section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
   section_type: linked_pdf
   source_line: '↓ YOY: -47.6% ↓ YOY: -42.7% Fundamentals: Positive'
   unit: pct
   values:
   - -47.6
   - -42.7
-- &id007
-  section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+- section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
   section_type: linked_pdf
   source_line: • Stability brings optimism, as Capesize spot rates reach 20,000 -
     As Capesize rates continue to gently move higher,
   unit: null
   values:
   - 20000.0
-- &id008
-  section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+- section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
   section_type: linked_pdf
   source_line: naturally also declined. Our view for gradual increase towards the
     mid-20,000s for Capesize spot rates remains in
   unit: null
   values:
   - 20000.0
-- &id009
-  section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+- section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
   section_type: linked_pdf
   source_line: The Baltic Dry Index (BDI) measures the average spot rates for dry
     bulk freight with a sector weighting of 40% Capesize, 30% Panamax and 30% Supramax.
@@ -110,8 +102,7 @@ numeric_observations:
   - 40.0
   - 30.0
   - 30.0
-- &id010
-  section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+- section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
   section_type: linked_pdf
   source_line: The Breakwave Dry Futures Index (BDRYFF) is designed to track freight
     futures contracts with a sector weighting of 50% Capesize, 40% Panamax and 10%
@@ -120,16 +111,14 @@ numeric_observations:
   - 50.0
   - 40.0
   - 10.0
-- &id011
-  section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+- section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
   section_type: linked_pdf
   source_line: Supramax and a weighted average maturity of approximately 50-70 days.
   unit: null
   values:
   - 50.0
   - -70.0
-- &id012
-  section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+- section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
   section_type: linked_pdf
   source_line: May-22 Jun-22 Jul-22 Aug-22 Sep-22 Oct-22 Nov-22 Dec-22 Jan-23 Feb-23
     Mar-23 Apr-23
@@ -145,104 +134,91 @@ numeric_observations:
   - 22.0
   - 23.0
   - 23.0
-- &id013
-  section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+- section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
   section_type: linked_pdf
   source_line: China Steel Production 262mt 7.5%
   unit: tonnage
   values:
   - 262.0
-  - 7.5
-- &id014
-  section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+  - 7500.0
+- section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
   section_type: linked_pdf
   source_line: China Steel Inventories 6.7mt -17.5%
   unit: tonnage
   values:
-  - 6.7
+  - 6700.0
   - -17.5
-- &id015
-  section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+- section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
   section_type: linked_pdf
   source_line: China Iron Ore Inventories 129mt -11.1%
   unit: tonnage
   values:
   - 129.0
   - -11.1
-- &id016
-  section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+- section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
   section_type: linked_pdf
   source_line: China Iron Ore Imports 294mt 9.7%
   unit: tonnage
   values:
   - 294.0
-  - 9.7
-- &id017
-  section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+  - 9700.0
+- section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
   section_type: linked_pdf
   source_line: China Coal Imports 102mt 96.5%
   unit: tonnage
   values:
   - 102.0
-  - 96.5
-- &id018
-  section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+  - 96500.0
+- section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
   section_type: linked_pdf
   source_line: China Soybean Imports 23mt 13.4%
   unit: tonnage
   values:
   - 23.0
-  - 13.4
-- &id019
-  section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+  - 13400.0
+- section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
   section_type: linked_pdf
   source_line: Brazil Iron Ore Exports 75mt 4.4%
   unit: tonnage
   values:
   - 75.0
   - 4.4
-- &id020
-  section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+- section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
   section_type: linked_pdf
   source_line: Australia Iron Ore Exports 217mt 4.6%
   unit: tonnage
   values:
   - 217.0
   - 4.6
-- &id021
-  section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+- section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
   section_type: linked_pdf
   source_line: Dry Bulk Fleet 984dwt 3.1%
   unit: pct
   values:
   - 984.0
   - 3.1
-- &id022
-  section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+- section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
   section_type: linked_pdf
   source_line: Baltic Dry Index, Average 1,134 -46.1%
   unit: pct
   values:
   - 1134.0
   - -46.1
-- &id023
-  section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+- section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
   section_type: linked_pdf
   source_line: Capesize Spot Rates, Average 11,036 -25.8%
   unit: pct
   values:
   - 11036.0
   - -25.8
-- &id024
-  section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+- section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
   section_type: linked_pdf
   source_line: Panamax Spot rates, Average 10,946 -52.0%
   unit: pct
   values:
   - 10946.0
   - -52.0
-- &id025
-  section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+- section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
   section_type: linked_pdf
   source_line: recipient's internal use only. This report does not constitute and
     will not form part of and should not be construed as a 17 State Street, 40th floor
@@ -250,16 +226,14 @@ numeric_observations:
   values:
   - 17.0
   - 40.0
-- &id026
-  section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+- section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
   section_type: linked_pdf
   source_line: solicitation of any offer to buy or sell any security, commodity or
     instrument or related derivative or to participate in any New York, NY 10004
   unit: null
   values:
   - 10004.0
-- &id027
-  section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+- section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
   section_type: linked_pdf
   source_line: 'trading or investment strategy. The opinions and estimates included
     herein reflect views and available information as of Tel: +(1) 646 775 2898'
@@ -279,35 +253,218 @@ section_count: 2
 signals:
   numeric_observation_count: 27
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
+  - section: Main
+    section_type: null
+    source_line: Stability brings optimism, as Capesize spot rates reach 20,000 -
+      As Capesize rates continue
+    unit: null
+    values:
+    - 20000.0
+  - section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+    section_type: linked_pdf
+    source_line: May 9, 2023
+    unit: null
+    values:
+    - 9.0
+    - 2023.0
+  - section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+    section_type: linked_pdf
+    source_line: 'Breakwave Dry Futures Index: 1,703 Baltic Dry Index (spot): 1,558
+      Short-term Indicators:'
+    unit: null
+    values:
+    - 1703.0
+    - 1558.0
+  - section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+    section_type: linked_pdf
+    source_line: '↓ 30D: -7.5% ↓ 30D: -0.1% Momentum: Negative'
+    unit: pct
+    values:
+    - 30.0
+    - -7.5
+    - 30.0
+    - -0.1
+  - section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+    section_type: linked_pdf
+    source_line: '↑ YTD: 65.7% ↑ YTD: 2.8% Sentiment: Neutral'
+    unit: pct
+    values:
+    - 65.7
+    - 2.8
+  - section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+    section_type: linked_pdf
+    source_line: '↓ YOY: -47.6% ↓ YOY: -42.7% Fundamentals: Positive'
+    unit: pct
+    values:
+    - -47.6
+    - -42.7
+  - section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+    section_type: linked_pdf
+    source_line: • Stability brings optimism, as Capesize spot rates reach 20,000
+      - As Capesize rates continue to gently move higher,
+    unit: null
+    values:
+    - 20000.0
+  - section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+    section_type: linked_pdf
+    source_line: naturally also declined. Our view for gradual increase towards the
+      mid-20,000s for Capesize spot rates remains in
+    unit: null
+    values:
+    - 20000.0
+  - section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+    section_type: linked_pdf
+    source_line: The Baltic Dry Index (BDI) measures the average spot rates for dry
+      bulk freight with a sector weighting of 40% Capesize, 30% Panamax and 30% Supramax.
+    unit: pct
+    values:
+    - 40.0
+    - 30.0
+    - 30.0
+  - section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+    section_type: linked_pdf
+    source_line: The Breakwave Dry Futures Index (BDRYFF) is designed to track freight
+      futures contracts with a sector weighting of 50% Capesize, 40% Panamax and 10%
+    unit: pct
+    values:
+    - 50.0
+    - 40.0
+    - 10.0
+  - section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+    section_type: linked_pdf
+    source_line: Supramax and a weighted average maturity of approximately 50-70 days.
+    unit: null
+    values:
+    - 50.0
+    - -70.0
+  - section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+    section_type: linked_pdf
+    source_line: May-22 Jun-22 Jul-22 Aug-22 Sep-22 Oct-22 Nov-22 Dec-22 Jan-23 Feb-23
+      Mar-23 Apr-23
+    unit: null
+    values:
+    - 22.0
+    - 22.0
+    - 22.0
+    - 22.0
+    - 22.0
+    - 22.0
+    - 22.0
+    - 22.0
+    - 23.0
+    - 23.0
+  - section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+    section_type: linked_pdf
+    source_line: China Steel Production 262mt 7.5%
+    unit: tonnage
+    values:
+    - 262.0
+    - 7.5
+  - section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+    section_type: linked_pdf
+    source_line: China Steel Inventories 6.7mt -17.5%
+    unit: tonnage
+    values:
+    - 6.7
+    - -17.5
+  - section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+    section_type: linked_pdf
+    source_line: China Iron Ore Inventories 129mt -11.1%
+    unit: tonnage
+    values:
+    - 129.0
+    - -11.1
+  - section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+    section_type: linked_pdf
+    source_line: China Iron Ore Imports 294mt 9.7%
+    unit: tonnage
+    values:
+    - 294.0
+    - 9.7
+  - section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+    section_type: linked_pdf
+    source_line: China Coal Imports 102mt 96.5%
+    unit: tonnage
+    values:
+    - 102.0
+    - 96.5
+  - section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+    section_type: linked_pdf
+    source_line: China Soybean Imports 23mt 13.4%
+    unit: tonnage
+    values:
+    - 23.0
+    - 13.4
+  - section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+    section_type: linked_pdf
+    source_line: Brazil Iron Ore Exports 75mt 4.4%
+    unit: tonnage
+    values:
+    - 75.0
+    - 4.4
+  - section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+    section_type: linked_pdf
+    source_line: Australia Iron Ore Exports 217mt 4.6%
+    unit: tonnage
+    values:
+    - 217.0
+    - 4.6
+  - section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+    section_type: linked_pdf
+    source_line: Dry Bulk Fleet 984dwt 3.1%
+    unit: pct
+    values:
+    - 984.0
+    - 3.1
+  - section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+    section_type: linked_pdf
+    source_line: Baltic Dry Index, Average 1,134 -46.1%
+    unit: pct
+    values:
+    - 1134.0
+    - -46.1
+  - section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+    section_type: linked_pdf
+    source_line: Capesize Spot Rates, Average 11,036 -25.8%
+    unit: pct
+    values:
+    - 11036.0
+    - -25.8
+  - section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+    section_type: linked_pdf
+    source_line: Panamax Spot rates, Average 10,946 -52.0%
+    unit: pct
+    values:
+    - 10946.0
+    - -52.0
+  - section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+    section_type: linked_pdf
+    source_line: recipient's internal use only. This report does not constitute and
+      will not form part of and should not be construed as a 17 State Street, 40th
+      floor
+    unit: null
+    values:
+    - 17.0
+    - 40.0
+  - section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+    section_type: linked_pdf
+    source_line: solicitation of any offer to buy or sell any security, commodity
+      or instrument or related derivative or to participate in any New York, NY 10004
+    unit: null
+    values:
+    - 10004.0
+  - section: 'Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf'
+    section_type: linked_pdf
+    source_line: 'trading or investment strategy. The opinions and estimates included
+      herein reflect views and available information as of Tel: +(1) 646 775 2898'
+    unit: null
+    values:
+    - 1.0
+    - 646.0
+    - 775.0
+    - 2898.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2023/2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023.html
+source_path: corpus/02-hellenic/shipbuilding/2023/2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023.html
 source_stem: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023
 source_url: https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-5-9-2023
 summary: 'Main
@@ -403,7 +560,7 @@ Stability brings optimism, as Capesize spot rates reach 20,000 - As Capesize rat
 Source: Breakwave Advisors
 
 ## Linked asset: 2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf
-Source asset: reports/hellenic/shipbuilding/pdfs/2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf
+Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-05-09_breakwave-dry-bulk-shipping-report-5-9-2023_breakwavemay92023report_fe420b554e6c.pdf
 
 [Page 1]
 BDRY

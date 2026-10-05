@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1618,
-  "source_path": "reports/hellenic/vessel_valuations/2023/2023-04-12_weekly-vessel-valuations-report-april-11-2023.html",
+  "token_count": 1620,
+  "source_path": "corpus/02-hellenic/vessel_valuations/2023/2023-04-12_weekly-vessel-valuations-report-april-11-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-april-11-2023",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-04-12_weekly-vessel-valuations-report-april-11-2023_img1_13420230_67c9d03e3b77.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/vessel_valuations/2023/assets/2023-04-12_weekly-vessel-valuations-report-april-11-2023_img1_13420230_67c9d03e3b77.jpg\n\nLinked image asset: 2023-04-12_weekly-vessel-valuations-report-april-11-2023_img1_13420230_67c9d03e3b77.jpg\n\nImage metadata: JPEG 678x259 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\nO vesselsValue= | $$\n11 April 2023 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge vice Suez Afra LRL MR Cape Pmax Supra Handy oon Pmax Handy = Fmax\n5 10.7% +1.4% 40.5% 40.5% +1.0% 10.8% 10.8% -O.1% 14.0% 10.5% 0.0% +2.0% 10.8%\n320k 160k 110k 75k 50k 180k 82k 60k 38k 7000 4250 1750 1100\n5 40.7% - -1.9% -+0.5% 40.4% +0.2% 40.7% 40.8% - +0.2% - +3.4% 40.5% 40.2% - +2.2% - +0.8%\n320k 160k 110k 75k 50k 180k 80k 60k 38k 7000 4250 1750 1100\nio 40.7% -2.6% +0.5% 40.2% +1.1% +0.7% +0.8% +0.4% +2.0% +0.4% -0.3% +1.9% +0.8%\n320k 160k 110k 75k 50k 180k 80k 60k 32k 7000 4250 1750 1100\n1s 40.7% -1.7% +0.5% 0.0% +3.2% 40.8% 40.9% +0.7% +0.1% +0.4% -1.7% = -0.4% - +0.8%\n310k 160k 110k 75k 50k 180k 80k 55k 30k 7000 4250 1750 1100\na 10.6% 40.3% 40.5% 0.2% + 5.6% 0.8% - +0.9% 10.9% -L.7% 10.4% 4.0% 5.4% - 10.8%\n305k 155k 105k 70k 45k 175k 75k 50k 30k",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2023/assets/2023-04-12_weekly-vessel-valuations-report-april-11-2023_img1_13420230_67c9d03e3b77.jpg\n\nLinked image asset: 2023-04-12_weekly-vessel-valuations-report-april-11-2023_img1_13420230_67c9d03e3b77.jpg\n\nImage metadata: JPEG 678x259 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\nO vesselsValue= | $$\n11 April 2023 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge vice Suez Afra LRL MR Cape Pmax Supra Handy oon Pmax Handy = Fmax\n5 10.7% +1.4% 40.5% 40.5% +1.0% 10.8% 10.8% -O.1% 14.0% 10.5% 0.0% +2.0% 10.8%\n320k 160k 110k 75k 50k 180k 82k 60k 38k 7000 4250 1750 1100\n5 40.7% - -1.9% -+0.5% 40.4% +0.2% 40.7% 40.8% - +0.2% - +3.4% 40.5% 40.2% - +2.2% - +0.8%\n320k 160k 110k 75k 50k 180k 80k 60k 38k 7000 4250 1750 1100\nio 40.7% -2.6% +0.5% 40.2% +1.1% +0.7% +0.8% +0.4% +2.0% +0.4% -0.3% +1.9% +0.8%\n320k 160k 110k 75k 50k 180k 80k 60k 32k 7000 4250 1750 1100\n1s 40.7% -1.7% +0.5% 0.0% +3.2% 40.8% 40.9% +0.7% +0.1% +0.4% -1.7% = -0.4% - +0.8%\n310k 160k 110k 75k 50k 180k 80k 55k 30k 7000 4250 1750 1100\na 10.6% 40.3% 40.5% 0.2% + 5.6% 0.8% - +0.9% 10.9% -L.7% 10.4% 4.0% 5.4% - 10.8%\n305k 155k 105k 70k 45k 175k 75k 50k 3",
       "keywords": [
         "capesize",
         "supramax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 818,
+      "token_count": 820,
       "section_type": "linked_image_asset",
       "children": []
     }

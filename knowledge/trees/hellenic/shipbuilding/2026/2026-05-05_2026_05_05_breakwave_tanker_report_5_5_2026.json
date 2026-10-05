@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1786,
-  "source_path": "reports/hellenic/shipbuilding/2026/2026-05-05_breakwave-tanker-report-5-5-2026.html",
+  "token_count": 1788,
+  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-05-05_breakwave-tanker-report-5-5-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-5-5-2026",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-05-05_breakwave-tanker-report-5-5-2026_breakwavetankersmay52026report_25ccc44d71d8.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-05-05_breakwave-tanker-report-5-5-2026_breakwavetankersmay52026report_25ccc44d71d8.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nMay 5, 2026\n• VLCC Atlantic Support vs AG Uncertainty - Since the onset of the geopolitical\nShort-term Indicators\ndisruption, what initially appeared to be a short-term reaction in the VLCC market is\nMomentum: Neutral\nnow developing into a more meaningful shift, with a clearer divide emerging\nbetween the AG and the Atlantic. In the Middle East, transit risk through the Strait Sentiment: Neutral\nof Hormuz remains the key issue.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-05-05_breakwave-tanker-report-5-5-2026_breakwavetankersmay52026report_25ccc44d71d8.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nMay 5, 2026\n• VLCC Atlantic Support vs AG Uncertainty - Since the onset of the geopolitical\nShort-term Indicators\ndisruption, what initially appeared to be a short-term reaction in the VLCC market is\nMomentum: Neutral\nnow developing into a more meaningful shift, with a clearer divide emerging\nbetween the AG and the Atlantic. In the Middle East, transit risk through the Strait Sentiment: Neutral\nof Hormuz remains the key issue.",
       "keywords": [
         "vlcc",
         "suezmax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1716,
+      "token_count": 1718,
       "section_type": "linked_pdf",
       "children": []
     }

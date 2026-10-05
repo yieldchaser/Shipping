@@ -4,6 +4,7 @@ commodities: []
 date: '2025-12-12'
 doc_id: hellenic_shipbuilding_2025-12-12_2025_12_12_clarksons_platou_hellas_snp_weekly_bulletin_114
 document_type: shipbuilding_update
+is_error_page: false
 key_entities: []
 keywords:
 - vlcc
@@ -26,8 +27,7 @@ linked_assets_skipped: 0
 market_tone: neutral
 numeric_observation_count: 22
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: The standout sale of the week was the Newcastlemax ATLANTIC LION (ABT
     210K DWT, 2020, SWS, SCRUBBER), with surveys freshly passed, which was reported
@@ -37,14 +37,13 @@ numeric_observations:
   values:
   - 210.0
   - 2020.0
-  - 73.75
+  - 73750.0
   - 2.0
   - 208.0
   - 2020.0
   - 145.5
-  - 72.75
-- &id002
-  section: Main
+  - 72750.0
+- section: Main
   section_type: null
   source_line: On Kamsarmaxes, we are hearing unconfirmed rumors of a 2021 Kamsarmax
     built at a Japanese-affiliated yard, being committed in the high USD 33's m levels.
@@ -56,8 +55,7 @@ numeric_observations:
   - 33.0
   - 60.0
   - 2016.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: 'Meanwhile, on the tanker front, all eyes are on the two VLCCs TWIN
     POLLUX / TWIN CASTOR (ABT 320K DWT, 2014/2013, BOHAI), which invited offers this
@@ -68,8 +66,7 @@ numeric_observations:
   - 320.0
   - 2014.0
   - 2013.0
-- &id004
-  section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+- section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
   section_type: linked_pdf
   source_line: The standout sale of the week was the Newcastlemax ATLANTIC LION (ABT
     210K DWT, 2020, SWS,
@@ -77,24 +74,21 @@ numeric_observations:
   values:
   - 210.0
   - 2020.0
-- &id005
-  section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+- section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
   section_type: linked_pdf
   source_line: SCRUBBER), with surveys freshly passed, which was reported sold to
     Korean interests at USD 73.75 m.
   unit: usd
   values:
-  - 73.75
-- &id006
-  section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+  - 73750.0
+- section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
   section_type: linked_pdf
   source_line: The last comparable transaction is the enbloc sale of the 2 Newcastlemax
     vessels BULK SANTOS / BULK
   unit: null
   values:
   - 2.0
-- &id007
-  section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+- section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
   section_type: linked_pdf
   source_line: SYDNEY (ABT 208K DWT, 2020, NEW TIMES) at a total price of USD 145.5
     m (USD 72.75 m each).
@@ -103,41 +97,36 @@ numeric_observations:
   - 208.0
   - 2020.0
   - 145.5
-  - 72.75
-- &id008
-  section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+  - 72750.0
+- section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
   section_type: linked_pdf
   source_line: On Kamsarmaxes, we are hearing unconfirmed rumors of a 2021 Kamsarmax
     built at a Japanese-
   unit: null
   values:
   - 2021.0
-- &id009
-  section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+- section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
   section_type: linked_pdf
   source_line: affiliated yard, being committed in the high USD 33's m levels. Whilst
     on the Ultramax segment, following
   unit: usd
   values:
   - 33.0
-- &id010
-  section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+- section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
   section_type: linked_pdf
   source_line: (ABT 60k DWT, 2016, OSHIMA) at a price in the low/mid USD 25 m range.
   unit: usd
   values:
   - 60.0
   - 2016.0
-- &id011
-  section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+- section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
   section_type: linked_pdf
   source_line: Meanwhile, on the tanker front, all eyes are on the two VLCCs TWIN
     POLLUX / TWIN CASTOR (ABT 320K
   unit: null
   values:
   - 320.0
-- &id012
-  section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+- section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
   section_type: linked_pdf
   source_line: DWT, 2014/2013, BOHAI), which invited offers this week. The outcome
     of the process is expected to
@@ -145,16 +134,15 @@ numeric_observations:
   values:
   - 2014.0
   - 2013.0
-- &id013
-  section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+- section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
   section_type: linked_pdf
   source_line: B&W 6G70ME-C9.5
   unit: null
   values:
   - 6.0
-  - 5.0
-- &id014
-  section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+  - 70.0
+  - 9500.0
+- section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
   section_type: linked_pdf
   source_line: ATLANTIC LION 209,205 2020 SWS BWTS FITTED SS 07/30 USD 73.75 M KOREAN
   unit: usd
@@ -163,25 +151,23 @@ numeric_observations:
   - 2020.0
   - 7.0
   - 30.0
-  - 73.75
-- &id015
-  section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+  - 73750.0
+- section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
   section_type: linked_pdf
   source_line: DD 07/28
   unit: null
   values:
   - 7.0
   - 28.0
-- &id016
-  section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+- section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
   section_type: linked_pdf
   source_line: B&W 6S50ME-B9.3
   unit: null
   values:
   - 6.0
-  - 3.0
-- &id017
-  section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+  - 50.0
+  - 9300.0
+- section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
   section_type: linked_pdf
   source_line: IVS WINDSOR 60,279 2016 OSHIMA 4x30T SS 09/26 LOW USD 25 M GREEK
   unit: usd
@@ -189,26 +175,24 @@ numeric_observations:
   - 60279.0
   - 2016.0
   - 4.0
+  - 30.0
   - 9.0
   - 26.0
-- &id018
-  section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+- section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
   section_type: linked_pdf
   source_line: DD 09/26
   unit: null
   values:
   - 9.0
   - 26.0
-- &id019
-  section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+- section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
   section_type: linked_pdf
   source_line: 284 Kifissias Avenue ("Clarksons") for general information purposes.
     The Information is drawn from Clarksons' database and other sources. Clarksons
   unit: null
   values:
   - 284.0
-- &id020
-  section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+- section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
   section_type: linked_pdf
   source_line: 152 32 Information extracted from the databases of other maritime data
     collection agencies may differ from the Information extracted
@@ -216,8 +200,7 @@ numeric_observations:
   values:
   - 152.0
   - 32.0
-- &id021
-  section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+- section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
   section_type: linked_pdf
   source_line: Direct +(30) 210 458 6700 the Information is not an endorsement of
     any commercial policies and/or any conclusions by Clarksons and its 'connected
@@ -227,8 +210,7 @@ numeric_observations:
   - 210.0
   - 458.0
   - 6700.0
-- &id022
-  section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+- section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
   section_type: linked_pdf
   source_line: Fax +(30) 210 458 6799
   unit: null
@@ -246,30 +228,197 @@ section_count: 2
 signals:
   numeric_observation_count: 22
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
+  - section: Main
+    section_type: null
+    source_line: The standout sale of the week was the Newcastlemax ATLANTIC LION
+      (ABT 210K DWT, 2020, SWS, SCRUBBER), with surveys freshly passed, which was
+      reported sold to Korean interests at USD 73.75 m. The last comparable transaction
+      is the enbloc sale of the 2 Newcastle
+    unit: usd
+    values:
+    - 210.0
+    - 2020.0
+    - 73.75
+    - 2.0
+    - 208.0
+    - 2020.0
+    - 145.5
+    - 72.75
+  - section: Main
+    section_type: null
+    source_line: On Kamsarmaxes, we are hearing unconfirmed rumors of a 2021 Kamsarmax
+      built at a Japanese-affiliated yard, being committed in the high USD 33's m
+      levels. Whilst on the Ultramax segment, following last week's invitation for
+      offers, Oceanstar Management have now
+    unit: usd
+    values:
+    - 2021.0
+    - 33.0
+    - 60.0
+    - 2016.0
+  - section: Main
+    section_type: null
+    source_line: 'Meanwhile, on the tanker front, all eyes are on the two VLCCs TWIN
+      POLLUX / TWIN CASTOR (ABT 320K DWT, 2014/2013, BOHAI), which invited offers
+      this week. The outcome of the process is expected to provide valuable insight
+      into current appetite for modern large '
+    unit: null
+    values:
+    - 320.0
+    - 2014.0
+    - 2013.0
+  - section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+    section_type: linked_pdf
+    source_line: The standout sale of the week was the Newcastlemax ATLANTIC LION
+      (ABT 210K DWT, 2020, SWS,
+    unit: null
+    values:
+    - 210.0
+    - 2020.0
+  - section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+    section_type: linked_pdf
+    source_line: SCRUBBER), with surveys freshly passed, which was reported sold to
+      Korean interests at USD 73.75 m.
+    unit: usd
+    values:
+    - 73.75
+  - section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+    section_type: linked_pdf
+    source_line: The last comparable transaction is the enbloc sale of the 2 Newcastlemax
+      vessels BULK SANTOS / BULK
+    unit: null
+    values:
+    - 2.0
+  - section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+    section_type: linked_pdf
+    source_line: SYDNEY (ABT 208K DWT, 2020, NEW TIMES) at a total price of USD 145.5
+      m (USD 72.75 m each).
+    unit: usd
+    values:
+    - 208.0
+    - 2020.0
+    - 145.5
+    - 72.75
+  - section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+    section_type: linked_pdf
+    source_line: On Kamsarmaxes, we are hearing unconfirmed rumors of a 2021 Kamsarmax
+      built at a Japanese-
+    unit: null
+    values:
+    - 2021.0
+  - section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+    section_type: linked_pdf
+    source_line: affiliated yard, being committed in the high USD 33's m levels. Whilst
+      on the Ultramax segment, following
+    unit: usd
+    values:
+    - 33.0
+  - section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+    section_type: linked_pdf
+    source_line: (ABT 60k DWT, 2016, OSHIMA) at a price in the low/mid USD 25 m range.
+    unit: usd
+    values:
+    - 60.0
+    - 2016.0
+  - section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+    section_type: linked_pdf
+    source_line: Meanwhile, on the tanker front, all eyes are on the two VLCCs TWIN
+      POLLUX / TWIN CASTOR (ABT 320K
+    unit: null
+    values:
+    - 320.0
+  - section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+    section_type: linked_pdf
+    source_line: DWT, 2014/2013, BOHAI), which invited offers this week. The outcome
+      of the process is expected to
+    unit: null
+    values:
+    - 2014.0
+    - 2013.0
+  - section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+    section_type: linked_pdf
+    source_line: B&W 6G70ME-C9.5
+    unit: null
+    values:
+    - 6.0
+    - 5.0
+  - section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+    section_type: linked_pdf
+    source_line: ATLANTIC LION 209,205 2020 SWS BWTS FITTED SS 07/30 USD 73.75 M KOREAN
+    unit: usd
+    values:
+    - 209205.0
+    - 2020.0
+    - 7.0
+    - 30.0
+    - 73.75
+  - section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+    section_type: linked_pdf
+    source_line: DD 07/28
+    unit: null
+    values:
+    - 7.0
+    - 28.0
+  - section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+    section_type: linked_pdf
+    source_line: B&W 6S50ME-B9.3
+    unit: null
+    values:
+    - 6.0
+    - 3.0
+  - section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+    section_type: linked_pdf
+    source_line: IVS WINDSOR 60,279 2016 OSHIMA 4x30T SS 09/26 LOW USD 25 M GREEK
+    unit: usd
+    values:
+    - 60279.0
+    - 2016.0
+    - 4.0
+    - 9.0
+    - 26.0
+  - section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+    section_type: linked_pdf
+    source_line: DD 09/26
+    unit: null
+    values:
+    - 9.0
+    - 26.0
+  - section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+    section_type: linked_pdf
+    source_line: 284 Kifissias Avenue ("Clarksons") for general information purposes.
+      The Information is drawn from Clarksons' database and other sources. Clarksons
+    unit: null
+    values:
+    - 284.0
+  - section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+    section_type: linked_pdf
+    source_line: 152 32 Information extracted from the databases of other maritime
+      data collection agencies may differ from the Information extracted
+    unit: null
+    values:
+    - 152.0
+    - 32.0
+  - section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+    section_type: linked_pdf
+    source_line: Direct +(30) 210 458 6700 the Information is not an endorsement of
+      any commercial policies and/or any conclusions by Clarksons and its 'connected
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6700.0
+  - section: 'Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf'
+    section_type: linked_pdf
+    source_line: Fax +(30) 210 458 6799
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6799.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2025/2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114.html
+source_path: corpus/02-hellenic/shipbuilding/2025/2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114.html
 source_stem: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114
 source_url: https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-114
 summary: 'Main
@@ -321,7 +470,7 @@ We expect clarity to emerge shortly and look forward to providing an update in n
 Source: Clarkson Platou (Hellas) ltd
 
 ## Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf
-Source asset: reports/hellenic/shipbuilding/pdfs/2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf
+Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-114_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf
 
 [Page 1]
 Clarkson Hellas Ltd.

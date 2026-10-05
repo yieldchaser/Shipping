@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1491,
-  "source_path": "reports/hellenic/shipbuilding/2021/2021-11-23_breakwave-dry-bulk-shipping-report-11-23-2021.html",
+  "token_count": 1493,
+  "source_path": "corpus/02-hellenic/shipbuilding/2021/2021-11-23_breakwave-dry-bulk-shipping-report-11-23-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-11-23-2021",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2021-11-23_breakwave-dry-bulk-shipping-report-11-23-2021_breakwavenovember232021report_95163a8afeab.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2021-11-23_breakwave-dry-bulk-shipping-report-11-23-2021_breakwavenovember232021report_95163a8afeab.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nNovember 23, 2021\nBreakwave Dry Futures Index: 2,233 Baltic Dry Index (spot): 2,645 Short-term Indicators:\n↓ 30D: -34.9% ↓ 30D: -40.0% Momentum: Neutral\n↑ YTD: 125.3% ↑ YTD: 93.6% Sentiment: Neutral\n↑ YOY: 127.1% ↑ YOY: 130.4% Fundamentals: Negative\nBreakwave Day 2021 - December 2nd, 10am-noon EST - click here for more information\nBi-Weekly Report\n• Capesize spot rates turn higher: Is a surprise pre-Christmas rally in the cards? -After several weeks of rangebound\naction, spot rates seem to have bottomed.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2021-11-23_breakwave-dry-bulk-shipping-report-11-23-2021_breakwavenovember232021report_95163a8afeab.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nNovember 23, 2021\nBreakwave Dry Futures Index: 2,233 Baltic Dry Index (spot): 2,645 Short-term Indicators:\n↓ 30D: -34.9% ↓ 30D: -40.0% Momentum: Neutral\n↑ YTD: 125.3% ↑ YTD: 93.6% Sentiment: Neutral\n↑ YOY: 127.1% ↑ YOY: 130.4% Fundamentals: Negative\nBreakwave Day 2021 - December 2nd, 10am-noon EST - click here for more information\nBi-Weekly Report\n• Capesize spot rates turn higher: Is a surprise pre-Christmas rally in the cards? -After several weeks of rangebound\naction, spot rates seem to have bottomed.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1407,
+      "token_count": 1409,
       "section_type": "linked_pdf",
       "children": []
     }

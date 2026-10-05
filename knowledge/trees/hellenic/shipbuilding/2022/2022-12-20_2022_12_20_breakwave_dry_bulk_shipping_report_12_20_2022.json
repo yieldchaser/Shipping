@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1512,
-  "source_path": "reports/hellenic/shipbuilding/2022/2022-12-20_breakwave-dry-bulk-shipping-report-12-20-2022.html",
+  "token_count": 1514,
+  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-12-20_breakwave-dry-bulk-shipping-report-12-20-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-12-20-2022",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-12-20_breakwave-dry-bulk-shipping-report-12-20-2022_breakwavedecember202022report_7194dddad6a0.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-12-20_breakwave-dry-bulk-shipping-report-12-20-2022_breakwavedecember202022report_7194dddad6a0.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nDecember 20, 2022\nBreakwave Dry Futures Index: 1,027 Baltic Dry Index (spot): 1,548 Short-term Indicators:\n↑ 30D: 9.7% ↑ 30D: 30.2% Momentum: Positive\n↓ YTD: -50.7% ↓ YTD: -30.2% Sentiment: Negative\n↓ YOY: -47.5% ↓ YOY: -34.9% Fundamentals: Neutral\nBi-Weekly Report\n• Santa rally for spot, doom and gloom for futures - All it took was some (anticipated?) delays and inclement weather\nin the North Atlantic for spot Capesize rates to recover, albeit at a much later stage than historically has been the\ncase. December, which has been the weakest link of the fourth quarter for many months now, seems to be heading\nfor a relatively strong close with both the monthly average and the spot level at multi-month highs.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-12-20_breakwave-dry-bulk-shipping-report-12-20-2022_breakwavedecember202022report_7194dddad6a0.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nDecember 20, 2022\nBreakwave Dry Futures Index: 1,027 Baltic Dry Index (spot): 1,548 Short-term Indicators:\n↑ 30D: 9.7% ↑ 30D: 30.2% Momentum: Positive\n↓ YTD: -50.7% ↓ YTD: -30.2% Sentiment: Negative\n↓ YOY: -47.5% ↓ YOY: -34.9% Fundamentals: Neutral\nBi-Weekly Report\n• Santa rally for spot, doom and gloom for futures - All it took was some (anticipated?) delays and inclement weather\nin the North Atlantic for spot Capesize rates to recover, albeit at a much later stage than historically has been the\ncase. December, which has been the weakest link of the fourth quarter for many months now, seems to be heading\nfor a relatively strong close with both the monthly average and the spot level at multi-month highs.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1434,
+      "token_count": 1436,
       "section_type": "linked_pdf",
       "children": []
     }

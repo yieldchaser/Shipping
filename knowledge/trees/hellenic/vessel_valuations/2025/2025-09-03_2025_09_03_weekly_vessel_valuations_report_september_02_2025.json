@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1216,
-  "source_path": "reports/hellenic/vessel_valuations/2025/2025-09-03_weekly-vessel-valuations-report-september-02-2025.html",
+  "token_count": 1218,
+  "source_path": "corpus/02-hellenic/vessel_valuations/2025/2025-09-03_weekly-vessel-valuations-report-september-02-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-september-02-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-09-03_weekly-vessel-valuations-report-september-02-2025_img1_3920259_163f360fa00b.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/vessel_valuations/2025/assets/2025-09-03_weekly-vessel-valuations-report-september-02-2025_img1_3920259_163f360fa00b.jpg\n\nLinked image asset: 2025-09-03_weekly-vessel-valuations-report-september-02-2025_img1_3920259_163f360fa00b.jpg\n\nImage metadata: JPEG 678x314 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\n(Ds) VesselsValue --------- eon\n02 September 2025 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra LRT MR Cape Prax Supra Handy eed Pmax Handy Fmax\n‘ 0.0% 10.1% 0.0% 70.1% +e 105% 02% 10.2% 10.1% 03% 70.1% 04% +0.%\n320k 160k Nsk 75k 50k 180k 82k 62 ak 7000 4250 1750 noo\n‘ 0.0% +01% 00% 03% 128% 105% 02% = 102% = 10.3% 02% 402% 10.1% ~--#0.1%6\n320k Ok Ok Tsk Sk 180k 82k 60k Bek 7000 4250 1780 neo\n% 0.0% +0.1% 0.0% 10% 20% 105% 0.1% = 10.2% 40.7% 02% 102% 0.0% +02%\n320k 160k nok Tsk SOk 180k 80k 60k Sk 7000 4250 780 noo\n0.0% 40.1% 00% 40.7% 10.6% 104% 90.1% 40% 109% 02% +10.% 0.7% = 40.2%\nid 310k 160k Nk 75k 50k 180k 80k 55k 30k 7000 4250 1750 noo\n35 0.0% +0% 00% 16K 03% 104% 90.1% 40% = 10% 03% = 10.1% LTH 40.1%\n310k 160k NOk 70k 45k 180k 75k SSk 30k 7000 4250 1799 noo\n0.0% 0.1% 0.1% 39% 104% *12% +0.S% 0.0% O6",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2025/assets/2025-09-03_weekly-vessel-valuations-report-september-02-2025_img1_3920259_163f360fa00b.jpg\n\nLinked image asset: 2025-09-03_weekly-vessel-valuations-report-september-02-2025_img1_3920259_163f360fa00b.jpg\n\nImage metadata: JPEG 678x314 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\n(Ds) VesselsValue --------- eon\n02 September 2025 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra LRT MR Cape Prax Supra Handy eed Pmax Handy Fmax\n‘ 0.0% 10.1% 0.0% 70.1% +e 105% 02% 10.2% 10.1% 03% 70.1% 04% +0.%\n320k 160k Nsk 75k 50k 180k 82k 62 ak 7000 4250 1750 noo\n‘ 0.0% +01% 00% 03% 128% 105% 02% = 102% = 10.3% 02% 402% 10.1% ~--#0.1%6\n320k Ok Ok Tsk Sk 180k 82k 60k Bek 7000 4250 1780 neo\n% 0.0% +0.1% 0.0% 10% 20% 105% 0.1% = 10.2% 40.7% 02% 102% 0.0% +02%\n320k 160k nok Tsk SOk 180k 80k 60k Sk 7000 4250 780 noo\n0.0% 40.1% 00% 40.7% 10.6% 104% 90.1% 40% 109% 02% +10.% 0.7% = 40.2%\nid 310k 160k Nk 75k 50k 180k 80k 55k 30k 7000 4250 1750 noo\n35 0.0% +0% 00% 16K 03% 104% 90.1% 40% = 10% 03% = 10.1% LTH 40.1%\n310k 160k NOk 70k 45k 180k 75k SSk 30k 7000 4250 1799 noo\n0.0% 0.1% 0.1% 39% 104% *12% +0.S% 0.0% ",
       "keywords": [
         "capesize",
         "supramax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 700,
+      "token_count": 702,
       "section_type": "linked_image_asset",
       "children": []
     }

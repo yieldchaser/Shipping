@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1647,
-  "source_path": "reports/hellenic/shipbuilding/2026/2026-09-29_breakwave-dry-bulk-shipping-report-9-29-2026.html",
+  "token_count": 145,
+  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-09-29_breakwave-dry-bulk-shipping-report-9-29-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-9-29-2026",
   "children": [
     {
@@ -69,20 +69,15 @@
       "section_path_text": "Linked asset: 2026-09-29_breakwave-dry-bulk-shipping-report-9-29-2026_breakwavedryseptember292026report_e20b41a2f1b2.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-09-29_breakwave-dry-bulk-shipping-report-9-29-2026_breakwavedryseptember292026report_e20b41a2f1b2.pdf\n\n# Dry Bulk Shipping\n\n## Bi-Weekly Industry Report\n\n### September 29, 2026\n\n- **What If: The Bear Case for Dry Bulk -** As we enter the seasonally strong fourth quarter, dry bulk **shipping spot rates** remain exceptionally **robust**, with full-year averages on track to reach multi-year highs. Market consensus remains firmly bullish, with **little indication of an imminent correction**, an **outlook we share** given the absence of near-term catalysts to disrupt current rate stability.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-09-29_breakwave-dry-bulk-shipping-report-9-29-2026_breakwavedryseptember292026report_e20b41a2f1b2.pdf\n\n# Dry Bulk Shipping",
       "keywords": [
-        "capesize",
-        "panamax",
-        "supramax",
-        "china",
-        "brazil",
-        "australia",
-        "atlantic",
-        "iron_ore"
+        "asset",
+        "corpus/02-hellenic/shipbuilding/pdfs/2026-09-29_breakwave-dry-bulk-shipping-report-9-29-2026_breakwavedryseptember292026report_e20b41a2f1b2.pdf",
+        "source"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1565,
+      "token_count": 63,
       "section_type": "linked_pdf",
       "children": []
     }

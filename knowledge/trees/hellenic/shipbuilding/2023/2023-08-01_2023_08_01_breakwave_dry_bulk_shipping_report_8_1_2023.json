@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1435,
-  "source_path": "reports/hellenic/shipbuilding/2023/2023-08-01_breakwave-dry-bulk-shipping-report-8-1-2023.html",
+  "token_count": 1437,
+  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-08-01_breakwave-dry-bulk-shipping-report-8-1-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-8-1-2023",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-08-01_breakwave-dry-bulk-shipping-report-8-1-2023_breakwavedryaugust12023report_0ee4b62122d3.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-08-01_breakwave-dry-bulk-shipping-report-8-1-2023_breakwavedryaugust12023report_0ee4b62122d3.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nAugust 1, 2023\nBreakwave Dry Futures Index: 1,289 Baltic Dry Index (spot): 1,127 Short-term Indicators:\n↓ 30D: -2.7% ↑ 30D: 3.3% Momentum: Neutral\n↑ YTD: 25.5% ↓ YTD: -25.6% Sentiment: Neutral\n↓ YOY: -33.0% ↓ YOY: -40.5% Fundamentals: Positive\nBi-Weekly Report\n• The Atlantic Capesize market awakens, while weather in the Pacific could soon become a positive catalyst - In\nthe absence of any major macro developments, the dry bulk market has recently been affected by the normal\nsupply-demand imbalances natural to the shipping sector, where supply of ships sometimes becomes scarce due to\nscheduling issues. The Atlantic Capesize market is currently subject to such an imbalance, and as a result, rates in\nthat part of the world have recently moved higher, at least versus other areas.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-08-01_breakwave-dry-bulk-shipping-report-8-1-2023_breakwavedryaugust12023report_0ee4b62122d3.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nAugust 1, 2023\nBreakwave Dry Futures Index: 1,289 Baltic Dry Index (spot): 1,127 Short-term Indicators:\n↓ 30D: -2.7% ↑ 30D: 3.3% Momentum: Neutral\n↑ YTD: 25.5% ↓ YTD: -25.6% Sentiment: Neutral\n↓ YOY: -33.0% ↓ YOY: -40.5% Fundamentals: Positive\nBi-Weekly Report\n• The Atlantic Capesize market awakens, while weather in the Pacific could soon become a positive catalyst - In\nthe absence of any major macro developments, the dry bulk market has recently been affected by the normal\nsupply-demand imbalances natural to the shipping sector, where supply of ships sometimes becomes scarce due to\nscheduling issues. The Atlantic Capesize market is currently subject to such an imbalance, and as a result, rates in\nthat part of the world have recently moved higher, at least versus other areas.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1360,
+      "token_count": 1362,
       "section_type": "linked_pdf",
       "children": []
     }

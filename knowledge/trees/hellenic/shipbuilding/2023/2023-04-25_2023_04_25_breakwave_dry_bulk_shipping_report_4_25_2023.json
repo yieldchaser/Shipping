@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1476,
-  "source_path": "reports/hellenic/shipbuilding/2023/2023-04-25_breakwave-dry-bulk-shipping-report-4-25-2023.html",
+  "token_count": 1478,
+  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-04-25_breakwave-dry-bulk-shipping-report-4-25-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-4-25-2023",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-04-25_breakwave-dry-bulk-shipping-report-4-25-2023_breakwaveapril252023report_183b58654f7c.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-04-25_breakwave-dry-bulk-shipping-report-4-25-2023_breakwaveapril252023report_183b58654f7c.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nApril 25, 2023\nBreakwave Dry Futures Index: 1,826 Baltic Dry Index (spot): 1,517 Short-term Indicators:\n↑ 30D: 2.2% ↑ 30D: 1.9% Momentum: Negative\n↑ YTD: 76.9% ↑ YTD: 0.1% Sentiment: Neutral\n↓ YOY: -38.2% ↓ YOY: -34.2% Fundamentals: Positive\nBi-Weekly Report\n• Volatility declines as a wait-and-see approach takes center stage - The dry bulk market rarely stands still, as by\nnature it is flooded with volatility, twists and turns, and a highly unpredictable spot market. Yet, the last several\nweeks have been unusually calm as spot rates have traded in a rather tight range.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-04-25_breakwave-dry-bulk-shipping-report-4-25-2023_breakwaveapril252023report_183b58654f7c.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nApril 25, 2023\nBreakwave Dry Futures Index: 1,826 Baltic Dry Index (spot): 1,517 Short-term Indicators:\n↑ 30D: 2.2% ↑ 30D: 1.9% Momentum: Negative\n↑ YTD: 76.9% ↑ YTD: 0.1% Sentiment: Neutral\n↓ YOY: -38.2% ↓ YOY: -34.2% Fundamentals: Positive\nBi-Weekly Report\n• Volatility declines as a wait-and-see approach takes center stage - The dry bulk market rarely stands still, as by\nnature it is flooded with volatility, twists and turns, and a highly unpredictable spot market. Yet, the last several\nweeks have been unusually calm as spot rates have traded in a rather tight range.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1403,
+      "token_count": 1405,
       "section_type": "linked_pdf",
       "children": []
     }

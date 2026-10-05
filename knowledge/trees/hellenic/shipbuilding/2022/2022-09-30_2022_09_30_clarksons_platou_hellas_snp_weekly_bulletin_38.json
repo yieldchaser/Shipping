@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2392,
-  "source_path": "reports/hellenic/shipbuilding/2022/2022-09-30_clarksons-platou-hellas-snp-weekly-bulletin-38.html",
+  "token_count": 2394,
+  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-09-30_clarksons-platou-hellas-snp-weekly-bulletin-38.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-38",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-09-30_clarksons-platou-hellas-snp-weekly-bulletin-38_report-30-09-2022_c7ff7721f840.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-09-30_clarksons-platou-hellas-snp-weekly-bulletin-38_report-30-09-2022_c7ff7721f840.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 30 September 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 7S50MC-C8.1\nALEXANDRA 82,329 2006 SS 12/25\nBWTS Fitted USD 16.35 M TURKISH\nTSUNEISHI ZOSEN DD 01/24\nMAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-09-30_clarksons-platou-hellas-snp-weekly-bulletin-38_report-30-09-2022_c7ff7721f840.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 30 September 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 7S50MC-C8.1\nALEXANDRA 82,329 2006 SS 12/25\nBWTS Fitted USD 16.35 M TURKISH\nTSUNEISHI ZOSEN DD 01/24\nMAN B.",
       "keywords": [
         "capesize",
         "lng",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2305,
+      "token_count": 2307,
       "section_type": "linked_pdf",
       "children": []
     }

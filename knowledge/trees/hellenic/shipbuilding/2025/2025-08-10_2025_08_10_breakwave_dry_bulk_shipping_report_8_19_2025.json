@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1721,
-  "source_path": "reports/hellenic/shipbuilding/2025/2025-08-10_breakwave-dry-bulk-shipping-report-8-19-2025.html",
+  "token_count": 1723,
+  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-08-10_breakwave-dry-bulk-shipping-report-8-19-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-8-19-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-08-10_breakwave-dry-bulk-shipping-report-8-19-2025_breakwavedryaugust192025report_bf0b633a5ce9.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-08-10_breakwave-dry-bulk-shipping-report-8-19-2025_breakwavedryaugust192025report_bf0b633a5ce9.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nAugust 19, 2025\n• August Blues Depress Volatility but Rates Hold Strong - An uneventful\nShort-term Indicators\nfortnight in terms of cargo flow has reduced near-term activity, contributing to a\nMomentum: Neutral\ndecline in spot rate volatility. Nevertheless, spot freight rates for Capesizes\nremain at historically high levels for this time of year, a notable achievement given Sentiment: Neutral\nthe current economic headwinds facing the dry bulk market.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-08-10_breakwave-dry-bulk-shipping-report-8-19-2025_breakwavedryaugust192025report_bf0b633a5ce9.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nAugust 19, 2025\n• August Blues Depress Volatility but Rates Hold Strong - An uneventful\nShort-term Indicators\nfortnight in terms of cargo flow has reduced near-term activity, contributing to a\nMomentum: Neutral\ndecline in spot rate volatility. Nevertheless, spot freight rates for Capesizes\nremain at historically high levels for this time of year, a notable achievement given Sentiment: Neutral\nthe current economic headwinds facing the dry bulk market.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1639,
+      "token_count": 1641,
       "section_type": "linked_pdf",
       "children": []
     }

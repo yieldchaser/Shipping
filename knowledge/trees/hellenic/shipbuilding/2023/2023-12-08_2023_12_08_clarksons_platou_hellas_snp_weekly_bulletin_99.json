@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2431,
-  "source_path": "reports/hellenic/shipbuilding/2023/2023-12-08_clarksons-platou-hellas-snp-weekly-bulletin-99.html",
+  "token_count": 2433,
+  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-12-08_clarksons-platou-hellas-snp-weekly-bulletin-99.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-99",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-12-08_clarksons-platou-hellas-snp-weekly-bulletin-99_report-08-12-2023_915b17bef91e.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-12-08_clarksons-platou-hellas-snp-weekly-bulletin-99_report-08-12-2023_915b17bef91e.pdf\n\n[Page 1]\nClarksons Hellas Weekly Bulletin 8th December 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6G70ME-C9.2\nHERUN CHINA 181,215 2017 SWS SS 01/27 XS USD 42 M EU BASED\nBWTS fitted\nDD 03/25\n2011 TSUNEISHI MAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-12-08_clarksons-platou-hellas-snp-weekly-bulletin-99_report-08-12-2023_915b17bef91e.pdf\n\n[Page 1]\nClarksons Hellas Weekly Bulletin 8th December 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6G70ME-C9.2\nHERUN CHINA 181,215 2017 SWS SS 01/27 XS USD 42 M EU BASED\nBWTS fitted\nDD 03/25\n2011 TSUNEISHI MAN B.",
       "keywords": [
         "panamax",
         "vlcc",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2328,
+      "token_count": 2330,
       "section_type": "linked_pdf",
       "children": []
     }

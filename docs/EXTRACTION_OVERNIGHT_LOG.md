@@ -2927,3 +2927,95 @@ change made here.
 3. Unchanged carried calls: the two-part `hellenic_iron_ore_pdf_*` pass (scoped, one
    controlled ~43 min run), the VV-matrix image-recall residual (paid), DB `label_series`.
    Ledger defect list remains EMPTY.
+
+
+## 2026-10-05 05:12 UTC - Deep review (3-hourly, job d77cc9df53c4)
+
+### Verdict: HEALTHY (no fixable defect; one carried item confirmed already applied)
+
+`verify_extraction.py --json` (full 180 s foreground run, completed): exit 0,
+`actions: []`. Checkpoint 7,816 rows / 7,489 unique docs; latest-status-per-doc
+is 7,488 `ok` + 1 `no-extractable-content`. The 326 duplicate checkpoint rows are
+recovered retries (earlier CRASH/timeout rows superseded by a later `ok` row for
+the same doc), not double-processing. golden 15/15; db 189,481 tables /
+6,726,703 cells; `empty_after_ok_status` 0. No `run_batch`/`batch_worker` process
+is alive - the full pass is COMPLETE for its frozen 2026-09-21 queue.
+
+### Content check (open the outputs, not the counters)
+
+Read the source PDF text layer with pymupdf and matched it against the extracted
+camelot-stream grids, page by page:
+
+* **drewry_ais_pdfs/Drewry_AIS_Product_LR2_Week33_2026** - 6 pages checked, every
+  numeric token in the grids present in the page text (missing=0 per page).
+  Quoted cells: p3 `['LR2','','','Speed','','','Week 33']` and `'1,200'`;
+  p4 `['Laden','Ballast',...]` / `'60%'` / `'600'`; p5 anchor/port tonnage headers.
+* **shipbrokers/advanced_shipping_2026_W36_ADVANCED-MARKET-REPORT-WEEK-36** -
+  6 pages, missing=0. Quoted sale row:
+  `['VLCC','Princess Natalie','320.261','2011','Daewoo, Korea','11/2026','Wartsila','$ 97m',...]`
+  and newbuilding `['4','60.000','Hyundai, Korea','2030','$ 92,5m','Turkish (PascoGas)','LPG']`
+  - period=thousands (`60.000`=60000 cbm) and comma-decimal (`$ 92,5m`=92.5m) both read correctly.
+  The p0/p1 grids still carry the publisher's narrative prose fused into the left
+  column alongside the B.D.I/B.C.I/B.S.I index columns - the known, already-assessed
+  prose-fuse artefact, not a new defect (the numeric columns themselves are faithful).
+
+### The 2026-09-30 open item (number formats) is now APPLIED
+
+`python3 scripts/extract/check_measured_rules.py` -> "all 11 measured rules
+present", exit 0 (was 7/11 MISSING on the tree parser at 2026-09-30). The db was
+rebuilt 2026-10-04 (corpus.duckdb mtime) after the rules landed: the specific case
+the 09-30 entry cited now reads correctly -
+`series_daily` for `shipbrokers|vlcc|dwt|b1` @ 2026-07-27 is **298,555.0** (was
+299.999), with value_max 319,911 and spread 21,356. So the pending HUMAN DECISION
+listed in the 2026-09-30 entry is closed by the tree + rebuild, not reopened here.
+
+### Structural scan (sample, 1,523 doc-dirs, up to 120/source)
+
+* Only 76 docs (5%) carry a text block > 3,000 chars; all are books / prospectuses /
+  dense one-page letters where a block legitimately spans a page (checked the list).
+* camelot-stream `n_cols` spread per source is normal (shipbrokers 1-17 median 6,
+  hellenic 1-16 median 7, ppa_pdf 4-13 median 9); the min=1 tables are the
+  prose-paragraph 1-column captures, not a shape regression.
+* shipbrokers camelot tables: 40,193 at text_verified >= 0.9, 2,143 mid, **19** at 0.
+  drewry's 3,900 text_verified=0 tables are all `pdfplumber` (the weak union
+  partner) on image-heavy pages; drewry's camelot tables are 2,779 at >= 0.9.
+
+### Reconciled and not actioned
+
+* **Inventory drift** (verify's `inventory_drift`): 380 PDFs now on disk are absent
+  by name from the frozen 2026-09-21 inventory (21/25 of a deterministic md5 sample
+  are unseen content), so the "COMPLETE" claim covers that list, not the grown
+  corpus. Already documented in `verify_extraction.py:inventory_drift` as
+  informational, not an ACTION: the newest broker weeklies are covered by their
+  publishers' bespoke runners. Verified directly - advanced_shipping 2026 W37/W38/
+  W39/W40 md+tables sidecars exist under `data/extracted/md/advanced_shipping/2026/`,
+  and agora/banchero 2026 W38-W40 md exist too. No live series gapped.
+* **signal no-extractable-content**: `Fourth IMO GHG Study 2020 Executive Summary`
+  is genuinely a scan - pymupdf returns 0 text chars across the first 3 pages, 1
+  image on p0, 46 pages all routed `scanned`/`empty`, ocr_queue_pages 46. Correct
+  quarantine, not a pipeline bug.
+* **values_only_in_text** (per-page recall residual, sampled): shipbrokers 5.8/pg,
+  poten 4.9/pg, seabrokers 2.2/pg - the known grid-vs-text reconciliation lever,
+  unchanged; drewry_ais_pdfs 0.0/pg.
+
+### Deliberately NOT changed
+
+* No code change, so no branch/commit this run. Nothing under `data/extracted/`
+  was written, moved or deleted; `corpus_checkpoint.jsonl` was never written.
+* The advanced_shipping prose-fuse, the pdfplumber text_verified=0 tables, and the
+  inventory drift are all previously-assessed, non-actionable states. Fabricating a
+  "fix" for any of them would be churn against a gate (golden 15/15) that already holds.
+
+### Footprint note (self-corrected)
+
+Two out-of-scope tracked files showed modified during this run. `scripts/process_knowledge.py`
+was being edited by a CONCURRENT agent (mtime advanced to 10:44:09 IST while I worked) - not
+mine, left untouched. `scripts/analysis/golden_matrix.json` was rewritten by my own accidental
+`golden_matrix.py` invocation, which I launched WITHOUT the Eclipse Adoptium JRE on PATH: the
+fresh run recorded `tabula-stream recall 0.167 -> 0.0` (hits 1 -> 0), i.e. the exact "missing
+JRE reads like a broken tool" trap. That is a bad artefact, not a regression - the tree's own
+`verify_extraction.py` reports `golden: 15/15`. I reverted my write
+(`git checkout HEAD -- scripts/analysis/golden_matrix.json`, tree now clean for that path).
+Lesson for the next agent: golden_matrix.py writes into scripts/analysis/, which is OUTSIDE the
+allowed edit scope, and tabula needs `/c/Program Files/Eclipse Adoptium/jre-21.0.12.101-hotspot/bin`
+on PATH or it scores 0. Net footprint of this run: docs/EXTRACTION_OVERNIGHT_LOG.md only.

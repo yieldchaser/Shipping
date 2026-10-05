@@ -4,6 +4,7 @@ commodities: []
 date: '2026-06-12'
 doc_id: hellenic_shipbuilding_2026-06-12_2026_06_12_clarksons_platou_hellas_snp_weekly_bulletin_136
 document_type: shipbuilding_update
+is_error_page: false
 key_entities:
 - Middle East
 keywords:
@@ -25,10 +26,9 @@ linked_assets_ingested: 1
 linked_assets_mirrored: 1
 linked_assets_skipped: 0
 market_tone: constructive
-numeric_observation_count: 19
+numeric_observation_count: 20
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: On the Capesize segment, the KERKIS (ABT 176K DWT, 2007, NAMURA) was
     sold for a price in the region of USD 25.25m.
@@ -36,8 +36,8 @@ numeric_observations:
   values:
   - 176.0
   - 2007.0
-- &id002
-  section: Main
+  - 25250.0
+- section: Main
   section_type: null
   source_line: The Kamsarmax VULCANIA (ABT 82K DWT, 2015, JIANGSU NEW YZJ) achieved
     low USD 26m with index TC attached at 105% until June 2027.
@@ -47,8 +47,7 @@ numeric_observations:
   - 2015.0
   - 105.0
   - 2027.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Lastly the 2 x Handysize INTERLINK SOLIDITY & INTERLINK CELERITY (ABT
     40K DWT, 2017, TAIZHOU KOUAN) were reported sold for USD 22m each to German interests.
@@ -57,8 +56,7 @@ numeric_observations:
   - 2.0
   - 40.0
   - 2017.0
-- &id004
-  section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
+- section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
   section_type: linked_pdf
   source_line: On the Capesize segment, the KERKIS (ABT 176K DWT, 2007, NAMURA) was
     sold for a price in the region
@@ -66,8 +64,13 @@ numeric_observations:
   values:
   - 176.0
   - 2007.0
-- &id005
-  section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
+- section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
+  section_type: linked_pdf
+  source_line: of USD 25.25m.
+  unit: usd
+  values:
+  - 25250.0
+- section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
   section_type: linked_pdf
   source_line: The Kamsarmax VULCANIA (ABT 82K DWT, 2015, JIANGSU NEW YZJ) achieved
     low USD 26m with index
@@ -75,16 +78,14 @@ numeric_observations:
   values:
   - 82.0
   - 2015.0
-- &id006
-  section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
+- section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
   section_type: linked_pdf
   source_line: TC attached at 105% until June 2027.
   unit: pct
   values:
   - 105.0
   - 2027.0
-- &id007
-  section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
+- section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
   section_type: linked_pdf
   source_line: Lastly the 2 x Handysize INTERLINK SOLIDITY & INTERLINK CELERITY (ABT
     40K DWT, 2017, TAIZHOU KOUAN)
@@ -93,8 +94,7 @@ numeric_observations:
   - 2.0
   - 40.0
   - 2017.0
-- &id008
-  section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
+- section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
   section_type: linked_pdf
   source_line: KERKIS 176,862 2007 NAMURA B&W 6S70MC6.1 SS 11/26 RGN USD 25.25 M U/D
   unit: usd
@@ -102,19 +102,19 @@ numeric_observations:
   - 176862.0
   - 2007.0
   - 6.0
-  - 1.0
+  - 70.0
+  - 6100.0
   - 11.0
   - 26.0
-- &id009
-  section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
+  - 25250.0
+- section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
   section_type: linked_pdf
   source_line: DD 11/26
   unit: null
   values:
   - 11.0
   - 26.0
-- &id010
-  section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
+- section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
   section_type: linked_pdf
   source_line: VULCANIA 82,036 2015 JIANGSU NEW B&W 6S60ME-C8.2 SS 08/30 LOW USD 26
     M U/D
@@ -123,19 +123,18 @@ numeric_observations:
   - 82036.0
   - 2015.0
   - 6.0
-  - 2.0
+  - 60.0
+  - 8200.0
   - 8.0
   - 30.0
-- &id011
-  section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
+- section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
   section_type: linked_pdf
   source_line: YZJ DD 08/28
   unit: null
   values:
   - 8.0
   - 28.0
-- &id012
-  section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
+- section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
   section_type: linked_pdf
   source_line: INTERLINK CELERITY 40,098 2017 TAIZHOU B&W 5S50ME-B9.3 SS 11/27 USD
     22 M GERMAN
@@ -144,19 +143,18 @@ numeric_observations:
   - 40098.0
   - 2017.0
   - 5.0
-  - 3.0
+  - 50.0
+  - 9300.0
   - 11.0
   - 27.0
-- &id013
-  section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
+- section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
   section_type: linked_pdf
   source_line: KOUAN DD 11/27
   unit: null
   values:
   - 11.0
   - 27.0
-- &id014
-  section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
+- section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
   section_type: linked_pdf
   source_line: INTERLINK SOLIDITY 40,098 2017 TAIZHOU B&W 5S50ME-B9.3 SS 08/26 USD
     22 M GERMAN
@@ -165,27 +163,25 @@ numeric_observations:
   - 40098.0
   - 2017.0
   - 5.0
-  - 3.0
+  - 50.0
+  - 9300.0
   - 8.0
   - 26.0
-- &id015
-  section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
+- section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
   section_type: linked_pdf
   source_line: KOUAN DD 08/26
   unit: null
   values:
   - 8.0
   - 26.0
-- &id016
-  section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
+- section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
   section_type: linked_pdf
   source_line: 284 Kifissias Avenue ("Clarksons") for general information purposes.
     The Information is drawn from Clarksons' database and other sources. Clarksons
   unit: null
   values:
   - 284.0
-- &id017
-  section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
+- section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
   section_type: linked_pdf
   source_line: 152 32 Information extracted from the databases of other maritime data
     collection agencies may differ from the Information extracted
@@ -193,8 +189,7 @@ numeric_observations:
   values:
   - 152.0
   - 32.0
-- &id018
-  section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
+- section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
   section_type: linked_pdf
   source_line: Direct +(30) 210 458 6700 the Information is not an endorsement of
     any commercial policies and/or any conclusions by Clarksons and its 'connected
@@ -204,8 +199,7 @@ numeric_observations:
   - 210.0
   - 458.0
   - 6700.0
-- &id019
-  section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
+- section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
   section_type: linked_pdf
   source_line: Fax +(30) 210 458 6799
   unit: null
@@ -222,27 +216,178 @@ section_count: 2
 signals:
   numeric_observation_count: 19
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
+  - section: Main
+    section_type: null
+    source_line: On the Capesize segment, the KERKIS (ABT 176K DWT, 2007, NAMURA)
+      was sold for a price in the region of USD 25.25m.
+    unit: usd
+    values:
+    - 176.0
+    - 2007.0
+  - section: Main
+    section_type: null
+    source_line: The Kamsarmax VULCANIA (ABT 82K DWT, 2015, JIANGSU NEW YZJ) achieved
+      low USD 26m with index TC attached at 105% until June 2027.
+    unit: pct
+    values:
+    - 82.0
+    - 2015.0
+    - 105.0
+    - 2027.0
+  - section: Main
+    section_type: null
+    source_line: Lastly the 2 x Handysize INTERLINK SOLIDITY & INTERLINK CELERITY
+      (ABT 40K DWT, 2017, TAIZHOU KOUAN) were reported sold for USD 22m each to German
+      interests.
+    unit: usd
+    values:
+    - 2.0
+    - 40.0
+    - 2017.0
+  - section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
+    section_type: linked_pdf
+    source_line: On the Capesize segment, the KERKIS (ABT 176K DWT, 2007, NAMURA)
+      was sold for a price in the region
+    unit: null
+    values:
+    - 176.0
+    - 2007.0
+  - section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
+    section_type: linked_pdf
+    source_line: The Kamsarmax VULCANIA (ABT 82K DWT, 2015, JIANGSU NEW YZJ) achieved
+      low USD 26m with index
+    unit: usd
+    values:
+    - 82.0
+    - 2015.0
+  - section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
+    section_type: linked_pdf
+    source_line: TC attached at 105% until June 2027.
+    unit: pct
+    values:
+    - 105.0
+    - 2027.0
+  - section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
+    section_type: linked_pdf
+    source_line: Lastly the 2 x Handysize INTERLINK SOLIDITY & INTERLINK CELERITY
+      (ABT 40K DWT, 2017, TAIZHOU KOUAN)
+    unit: null
+    values:
+    - 2.0
+    - 40.0
+    - 2017.0
+  - section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
+    section_type: linked_pdf
+    source_line: KERKIS 176,862 2007 NAMURA B&W 6S70MC6.1 SS 11/26 RGN USD 25.25 M
+      U/D
+    unit: usd
+    values:
+    - 176862.0
+    - 2007.0
+    - 6.0
+    - 1.0
+    - 11.0
+    - 26.0
+  - section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
+    section_type: linked_pdf
+    source_line: DD 11/26
+    unit: null
+    values:
+    - 11.0
+    - 26.0
+  - section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
+    section_type: linked_pdf
+    source_line: VULCANIA 82,036 2015 JIANGSU NEW B&W 6S60ME-C8.2 SS 08/30 LOW USD
+      26 M U/D
+    unit: usd
+    values:
+    - 82036.0
+    - 2015.0
+    - 6.0
+    - 2.0
+    - 8.0
+    - 30.0
+  - section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
+    section_type: linked_pdf
+    source_line: YZJ DD 08/28
+    unit: null
+    values:
+    - 8.0
+    - 28.0
+  - section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
+    section_type: linked_pdf
+    source_line: INTERLINK CELERITY 40,098 2017 TAIZHOU B&W 5S50ME-B9.3 SS 11/27 USD
+      22 M GERMAN
+    unit: usd
+    values:
+    - 40098.0
+    - 2017.0
+    - 5.0
+    - 3.0
+    - 11.0
+    - 27.0
+  - section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
+    section_type: linked_pdf
+    source_line: KOUAN DD 11/27
+    unit: null
+    values:
+    - 11.0
+    - 27.0
+  - section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
+    section_type: linked_pdf
+    source_line: INTERLINK SOLIDITY 40,098 2017 TAIZHOU B&W 5S50ME-B9.3 SS 08/26 USD
+      22 M GERMAN
+    unit: usd
+    values:
+    - 40098.0
+    - 2017.0
+    - 5.0
+    - 3.0
+    - 8.0
+    - 26.0
+  - section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
+    section_type: linked_pdf
+    source_line: KOUAN DD 08/26
+    unit: null
+    values:
+    - 8.0
+    - 26.0
+  - section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
+    section_type: linked_pdf
+    source_line: 284 Kifissias Avenue ("Clarksons") for general information purposes.
+      The Information is drawn from Clarksons' database and other sources. Clarksons
+    unit: null
+    values:
+    - 284.0
+  - section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
+    section_type: linked_pdf
+    source_line: 152 32 Information extracted from the databases of other maritime
+      data collection agencies may differ from the Information extracted
+    unit: null
+    values:
+    - 152.0
+    - 32.0
+  - section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
+    section_type: linked_pdf
+    source_line: Direct +(30) 210 458 6700 the Information is not an endorsement of
+      any commercial policies and/or any conclusions by Clarksons and its 'connected
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6700.0
+  - section: 'Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf'
+    section_type: linked_pdf
+    source_line: Fax +(30) 210 458 6799
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6799.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2026/2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136.html
+source_path: corpus/02-hellenic/shipbuilding/2026/2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136.html
 source_stem: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136
 source_url: https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-136
 summary: 'Main
@@ -295,7 +440,7 @@ Although several negotiations, especially on eco-modern vessels, are understood 
 Source: Clarkson Platou (Hellas) ltd
 
 ## Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf
-Source asset: reports/hellenic/shipbuilding/pdfs/2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf
+Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf
 
 [Page 1]
 Clarkson Hellas Ltd.

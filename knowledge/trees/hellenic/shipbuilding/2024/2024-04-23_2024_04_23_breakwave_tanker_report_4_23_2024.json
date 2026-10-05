@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1552,
-  "source_path": "reports/hellenic/shipbuilding/2024/2024-04-23_breakwave-tanker-report-4-23-2024.html",
+  "token_count": 1554,
+  "source_path": "corpus/02-hellenic/shipbuilding/2024/2024-04-23_breakwave-tanker-report-4-23-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-4-23-2024",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2024-04-23_breakwave-tanker-report-4-23-2024_breakwavetankersapril232024report_644d44a6cea6.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2024-04-23_breakwave-tanker-report-4-23-2024_breakwavetankersapril232024report_644d44a6cea6.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nApril 23, 2024\nBreakwave Tanker Futures Index: 1,260 VLCC Middle East-Asia Spot Rates: $14.49 Short-term Indicators:\n↓ 30D: -7.9% ↓ 30D: -27.5% Momentum: Negative\n↑ YTD: 3.8% ↑ YTD: 9.4% Sentiment: Neutral\n↓ YOY: -5.6% ↓ YOY: -18.0% Fundamentals: Positive\nBi-Weekly Report\n• VLCC Rates Continue to Soften Amid Subdued Activity and a Cautious Charterer Stance - With May fixing activity in full\nforce, the VLCC freight market continued its descent, a trend evident across both the Atlantic and Pacific regions. Such\ndecline unfolded against a backdrop of subdued activity, mirroring the prevailing market sentiment.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2024-04-23_breakwave-tanker-report-4-23-2024_breakwavetankersapril232024report_644d44a6cea6.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nApril 23, 2024\nBreakwave Tanker Futures Index: 1,260 VLCC Middle East-Asia Spot Rates: $14.49 Short-term Indicators:\n↓ 30D: -7.9% ↓ 30D: -27.5% Momentum: Negative\n↑ YTD: 3.8% ↑ YTD: 9.4% Sentiment: Neutral\n↓ YOY: -5.6% ↓ YOY: -18.0% Fundamentals: Positive\nBi-Weekly Report\n• VLCC Rates Continue to Soften Amid Subdued Activity and a Cautious Charterer Stance - With May fixing activity in full\nforce, the VLCC freight market continued its descent, a trend evident across both the Atlantic and Pacific regions. Such\ndecline unfolded against a backdrop of subdued activity, mirroring the prevailing market sentiment.",
       "keywords": [
         "vlcc",
         "suezmax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1464,
+      "token_count": 1466,
       "section_type": "linked_pdf",
       "children": []
     }

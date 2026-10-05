@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1979,
-  "source_path": "reports/hellenic/shipbuilding/2023/2023-11-24_clarksons-platou-hellas-snp-weekly-bulletin-97.html",
+  "token_count": 1981,
+  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-11-24_clarksons-platou-hellas-snp-weekly-bulletin-97.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-97",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-11-24_clarksons-platou-hellas-snp-weekly-bulletin-97_report-24-11-2023_4615fb338a76.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-11-24_clarksons-platou-hellas-snp-weekly-bulletin-97_report-24-11-2023_4615fb338a76.pdf\n\n[Page 1]\nClarksons Hellas Weekly Bulletin 24th November 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S60MC6.1\nOMICRON LIGHT 76,602 2005 IMABARI SS 08/24 USD 10.9 M VIETNAMESE\nBWTS fitted\nDD 08/24\nMAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-11-24_clarksons-platou-hellas-snp-weekly-bulletin-97_report-24-11-2023_4615fb338a76.pdf\n\n[Page 1]\nClarksons Hellas Weekly Bulletin 24th November 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S60MC6.1\nOMICRON LIGHT 76,602 2005 IMABARI SS 08/24 USD 10.9 M VIETNAMESE\nBWTS fitted\nDD 08/24\nMAN B.",
       "keywords": [
         "lng",
         "lpg",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1873,
+      "token_count": 1875,
       "section_type": "linked_pdf",
       "children": []
     }

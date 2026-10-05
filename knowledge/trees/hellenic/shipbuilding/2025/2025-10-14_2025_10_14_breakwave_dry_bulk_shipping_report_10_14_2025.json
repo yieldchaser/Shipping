@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1789,
-  "source_path": "reports/hellenic/shipbuilding/2025/2025-10-14_breakwave-dry-bulk-shipping-report-10-14-2025.html",
+  "token_count": 1791,
+  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-10-14_breakwave-dry-bulk-shipping-report-10-14-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-10-14-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-10-14_breakwave-dry-bulk-shipping-report-10-14-2025_breakwavedryoctober142025report_a58bba515116.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-10-14_breakwave-dry-bulk-shipping-report-10-14-2025_breakwavedryoctober142025report_a58bba515116.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nOctober 14, 2025\n• Panic Bid in Freight Sends Spot Rates Flying as Uncertainty Skyrockets - It\nShort-term Indicators\ntook only a brief press release from the Chinese government to shift sentiment and\nMomentum: Positive\npush both dry bulk freight futures and spot rates higher as market participants\ngrappled with uncertainty. The prospect of port fees on US-linked ships, a policy Sentiment: Positive\nechoing a measure the United States is anticipated to implement, has prompted Fundamentals: Neutral\nmany dry bulk players to seek clarity, in the process pushing freight costs higher.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-10-14_breakwave-dry-bulk-shipping-report-10-14-2025_breakwavedryoctober142025report_a58bba515116.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nOctober 14, 2025\n• Panic Bid in Freight Sends Spot Rates Flying as Uncertainty Skyrockets - It\nShort-term Indicators\ntook only a brief press release from the Chinese government to shift sentiment and\nMomentum: Positive\npush both dry bulk freight futures and spot rates higher as market participants\ngrappled with uncertainty. The prospect of port fees on US-linked ships, a policy Sentiment: Positive\nechoing a measure the United States is anticipated to implement, has prompted Fundamentals: Neutral\nmany dry bulk players to seek clarity, in the process pushing freight costs higher.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1709,
+      "token_count": 1711,
       "section_type": "linked_pdf",
       "children": []
     }

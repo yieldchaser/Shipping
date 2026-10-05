@@ -10,6 +10,7 @@ commodities:
 date: '2024-07-16'
 doc_id: hellenic_vessel_valuations_2024-07-16_2024_07_16_efficiency_given_over_30_boost_with_quad_lifts_at_apm_termin
 document_type: asset_valuations
+is_error_page: false
 key_entities: []
 keywords:
 - container
@@ -32,8 +33,7 @@ linked_assets_skipped: 1
 market_tone: neutral
 numeric_observation_count: 1
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: in Recent Videos 16/07/2024
   unit: null
@@ -51,9 +51,16 @@ section_count: 1
 signals:
   numeric_observation_count: 1
   numeric_observations:
-  - *id001
+  - section: Main
+    section_type: null
+    source_line: in Recent Videos 16/07/2024
+    unit: null
+    values:
+    - 16.0
+    - 7.0
+    - 2024.0
 source: hellenic
-source_path: reports/hellenic/vessel_valuations/2024/2024-07-16_efficiency-given-over-30-boost-with-quad-lifts-at-apm-termin.html
+source_path: corpus/02-hellenic/vessel_valuations/2024/2024-07-16_efficiency-given-over-30-boost-with-quad-lifts-at-apm-termin.html
 source_stem: 2024-07-16_efficiency-given-over-30-boost-with-quad-lifts-at-apm-termin
 source_url: https://www.hellenicshippingnews.com/efficiency-given-over-30-boost-with-quad-lifts-at-apm-terminals-lazaro-cardenas-2
 summary: 'Main

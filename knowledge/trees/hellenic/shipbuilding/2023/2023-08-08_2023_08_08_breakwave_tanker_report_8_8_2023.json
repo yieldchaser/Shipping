@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1514,
-  "source_path": "reports/hellenic/shipbuilding/2023/2023-08-08_breakwave-tanker-report-8-8-2023.html",
+  "token_count": 1516,
+  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-08-08_breakwave-tanker-report-8-8-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-8-8-2023",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-08-08_breakwave-tanker-report-8-8-2023_breakwavetankersaugust82023report_3d8ec5ef7d4d.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-08-08_breakwave-tanker-report-8-8-2023_breakwavetankersaugust82023report_3d8ec5ef7d4d.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nAugust 8, 2023\nBreakwave Tanker Futures Index: 1,343 VLCC Middle East-Asia Spot Rates: $11.83 Short-term Indicators:\n↑ 30D: 12.3% ↓ 30D: -8.6% Momentum: Neutral\n↑ YTD: 13.0% ↓ YTD: -33.2% Sentiment: Positive\n↑ YOY: 14.4% ↓ YOY: -15.6% Fundamentals: Positive\nBi-Weekly Report\n• A rather dull market for VLCCs, as spot rates gradually soften - Summer traditionally has been a slow period for\ntanker shipping and this year so far proves to be no different. Spot voyage rates remain relatively unchanged, but\nhigher bunker prices are placing some pressure on earnings with oil prices reaching multi-month highs.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-08-08_breakwave-tanker-report-8-8-2023_breakwavetankersaugust82023report_3d8ec5ef7d4d.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nAugust 8, 2023\nBreakwave Tanker Futures Index: 1,343 VLCC Middle East-Asia Spot Rates: $11.83 Short-term Indicators:\n↑ 30D: 12.3% ↓ 30D: -8.6% Momentum: Neutral\n↑ YTD: 13.0% ↓ YTD: -33.2% Sentiment: Positive\n↑ YOY: 14.4% ↓ YOY: -15.6% Fundamentals: Positive\nBi-Weekly Report\n• A rather dull market for VLCCs, as spot rates gradually soften - Summer traditionally has been a slow period for\ntanker shipping and this year so far proves to be no different. Spot voyage rates remain relatively unchanged, but\nhigher bunker prices are placing some pressure on earnings with oil prices reaching multi-month highs.",
       "keywords": [
         "vlcc",
         "suezmax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1436,
+      "token_count": 1438,
       "section_type": "linked_pdf",
       "children": []
     }

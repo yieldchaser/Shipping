@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1786,
-  "source_path": "reports/hellenic/shipbuilding/2023/2023-05-05_clarksons-platou-hellas-snp-weekly-bulletin-68.html",
+  "token_count": 1788,
+  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-05-05_clarksons-platou-hellas-snp-weekly-bulletin-68.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-68",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-05-05_clarksons-platou-hellas-snp-weekly-bulletin-68_report-05-05-2023_60de3a76cb32.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-05-05_clarksons-platou-hellas-snp-weekly-bulletin-68_report-05-05-2023_60de3a76cb32.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 05 May 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\n2020 COSCO MAN B. KOREA\nVOKARIA 63,614 4 x 30 T\nDD 03/25\n(YANGZHOU) Scrubber & BWTS Fitted USD 30s M BASED\n2014 JIANGSU NEW MAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-05-05_clarksons-platou-hellas-snp-weekly-bulletin-68_report-05-05-2023_60de3a76cb32.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 05 May 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\n2020 COSCO MAN B. KOREA\nVOKARIA 63,614 4 x 30 T\nDD 03/25\n(YANGZHOU) Scrubber & BWTS Fitted USD 30s M BASED\n2014 JIANGSU NEW MAN B.",
       "keywords": [
         "lng",
         "lpg",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1702,
+      "token_count": 1704,
       "section_type": "linked_pdf",
       "children": []
     }

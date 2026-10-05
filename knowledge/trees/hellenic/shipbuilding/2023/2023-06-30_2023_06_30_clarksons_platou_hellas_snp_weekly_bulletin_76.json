@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2105,
-  "source_path": "reports/hellenic/shipbuilding/2023/2023-06-30_clarksons-platou-hellas-snp-weekly-bulletin-76.html",
+  "token_count": 2107,
+  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-06-30_clarksons-platou-hellas-snp-weekly-bulletin-76.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-76",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-06-30_clarksons-platou-hellas-snp-weekly-bulletin-76_report-30-06-2023_b9ebf8ef18b6.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-06-30_clarksons-platou-hellas-snp-weekly-bulletin-76_report-30-06-2023_b9ebf8ef18b6.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 30 June 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\n2011 HHIC- MAN B. 6S70MC- SS 08/25\nAQUARANGE 179,842 USD 23 M GREEKS\nPHILIPPINES C8.2, BWTS fitted DD 07/23\nRIKKE 81,895 2016 TSUNEISHI MAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-06-30_clarksons-platou-hellas-snp-weekly-bulletin-76_report-30-06-2023_b9ebf8ef18b6.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 30 June 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\n2011 HHIC- MAN B. 6S70MC- SS 08/25\nAQUARANGE 179,842 USD 23 M GREEKS\nPHILIPPINES C8.2, BWTS fitted DD 07/23\nRIKKE 81,895 2016 TSUNEISHI MAN B.",
       "keywords": [
         "lng",
         "lpg",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2008,
+      "token_count": 2010,
       "section_type": "linked_pdf",
       "children": []
     }

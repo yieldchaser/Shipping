@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2317,
-  "source_path": "reports/hellenic/shipbuilding/2022/2022-11-11_clarksons-platou-hellas-snp-weekly-bulletin-44.html",
+  "token_count": 2319,
+  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-11-11_clarksons-platou-hellas-snp-weekly-bulletin-44.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-44",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-11-11_clarksons-platou-hellas-snp-weekly-bulletin-44_report-11-11-2022_e4f34d6167ee.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-11-11_clarksons-platou-hellas-snp-weekly-bulletin-44_report-11-11-2022_e4f34d6167ee.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 11 November 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC-C7.2 SS 07/26\nNAVIOS OBELIKS 181,415 2012 KOYO BWTS & Scrubber Fitted DD 09/23 HIGH USD 29 M U/D\nMAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-11-11_clarksons-platou-hellas-snp-weekly-bulletin-44_report-11-11-2022_e4f34d6167ee.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 11 November 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC-C7.2 SS 07/26\nNAVIOS OBELIKS 181,415 2012 KOYO BWTS & Scrubber Fitted DD 09/23 HIGH USD 29 M U/D\nMAN B.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 2240,
+      "token_count": 2242,
       "section_type": "linked_pdf",
       "children": []
     }

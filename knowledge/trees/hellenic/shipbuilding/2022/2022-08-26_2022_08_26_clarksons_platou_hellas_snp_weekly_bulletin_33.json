@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1982,
-  "source_path": "reports/hellenic/shipbuilding/2022/2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33.html",
+  "token_count": 1984,
+  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-33",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 26 August 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S46ME-B8.5\nFW ADVENTURER 34,487 2019 HAKODATE SS 01/24\n4 x 30 T, Logs fitted USD 28.3 M GREEKS\nDD 01/24\nBWTS fitted\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\nMAN B.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 26 August 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S46ME-B8.5\nFW ADVENTURER 34,487 2019 HAKODATE SS 01/24\n4 x 30 T, Logs fitted USD 28.3 M GREEKS\nDD 01/24\nBWTS fitted\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\nMAN B.",
       "keywords": [
         "handysize",
         "vlcc",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1891,
+      "token_count": 1893,
       "section_type": "linked_pdf",
       "children": []
     }

@@ -8,6 +8,7 @@ commodities:
 date: '2022-06-30'
 doc_id: hellenic_shipbuilding_2022-06-30_2022_06_30_breakwave_dry_bulk_shipping_report_6_30_2022
 document_type: shipbuilding_update
+is_error_page: false
 key_entities:
 - China
 keywords:
@@ -29,24 +30,21 @@ linked_assets_ingested: 1
 linked_assets_mirrored: 1
 linked_assets_skipped: 0
 market_tone: constructive
-numeric_observation_count: 35
+numeric_observation_count: 36
 numeric_observations:
-- &id001
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: June 2022
   unit: null
   values:
   - 2022.0
-- &id002
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: '"Shipping could be moving towards net-zero by 2050"'
   unit: null
   values:
   - 2050.0
-- &id003
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: which held its 78th session June 6-10th (MEPC 78), underlined that
     sufficient momentum and
@@ -56,8 +54,7 @@ numeric_observations:
   - 6.0
   - -10.0
   - 78.0
-- &id004
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: greenhouse gas emissions (GHG) reduction strategy to be approved at
     MEPC 80 in 2023.
@@ -65,40 +62,35 @@ numeric_observations:
   values:
   - 80.0
   - 2023.0
-- &id005
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: Another notable aspect of MEPC 78 was the rejection of a proposal led
     by the International
   unit: null
   values:
   - 78.0
-- &id006
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: Chamber of Shipping (ICS) for a $5bn decarbonization research and development
     fund that would
   unit: usd
   values:
   - 5.0
-- &id007
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: on a mandatory levy of $2/ton on bunker fuel that would have helped
     facilitate the application of
   unit: usd
   values:
   - 2.0
-- &id008
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: 79 in December 2022.
   unit: null
   values:
   - 79.0
   - 2022.0
-- &id009
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: Chastine Mc-Kinney Møller Foundation valued at DKK 320 million ($45
     million) to accelerate the
@@ -106,98 +98,92 @@ numeric_observations:
   values:
   - 320.0
   - 45.0
-- &id010
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: 400 million ($56.4 million) the center received as start-up funding
     when it was launched in June 2020.
   unit: usd
   values:
   - 400.0
-  - 56.4
+  - 56400.0
   - 2020.0
-- &id011
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: The Ship It Zero coalition has urged shipping companies to 300,000
     dwt crude tanker, Appollonas.
   unit: null
   values:
   - 300000.0
-- &id012
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: achieve net-zero emissions by 2050 and enhance
   unit: null
   values:
   - 2050.0
-- &id013
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: There are now 805 LNG-fueled ships in operation
   unit: null
   values:
   - 805.0
-- &id014
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: or on order, and 229 more ‘LNG-ready' ships,
   unit: null
   values:
   - 229.0
-- &id015
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: adopt LNG as a fuel, with 46 ships already in
   unit: null
   values:
   - 46.0
-- &id016
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: containerships will soon take a strong lead. The 35
   unit: null
   values:
   - 35.0
-- &id017
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: joined by 172 new ones, taking the total to 207. In
   unit: null
   values:
   - 172.0
   - 207.0
-- &id018
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: other major groups, there are 87 crude oil tankers
   unit: null
   values:
   - 87.0
-- &id019
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: board the project to create a 74,000cm CO2
   unit: null
   values:
   - 74000.0
-- &id020
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+  - 2.0
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: construction; 70 oil/chemical tankers; and 62 bulk
   unit: null
   values:
   - 70.0
   - 62.0
-- &id021
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+  section_type: linked_pdf
+  source_line: announced in the nascent CO2 trades. Mitsubishi
+  unit: null
+  values:
+  - 2.0
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: increase in production - from 100,000 tons of
   unit: null
   values:
   - 100000.0
-- &id022
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: biodiesel per year to 540,000 tons. carriers, Energia Azalea. The 99,965
     dwt carrier
@@ -205,88 +191,77 @@ numeric_observations:
   values:
   - 540000.0
   - 99965.0
-- &id023
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: Crude Oil, Brent 119.49 $/bbl 59.8%
   unit: pct
   values:
   - 119.49
-  - 59.8
-- &id024
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+  - 59800.0
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: Natural Gas, Henry Hub 6.71 $/MMbtu 84.7%
   unit: pct
   values:
-  - 6.71
-  - 84.7
-- &id025
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+  - 6710.0
+  - 84700.0
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: LNG, Korea/Japan 37.00 $/MMbtu 191.3%
   unit: pct
   values:
-  - 37.0
+  - 37000.0
   - 191.3
-- &id026
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: Coal, Rotterdam 370 $/mt 255.8%
   unit: tonnage
   values:
   - 370.0
   - 255.8
-- &id027
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: VLSFO, Rotterdam 891 $/mt 70.0%
   unit: tonnage
   values:
   - 891.0
-  - 70.0
-- &id028
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+  - 70000.0
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: Methanol, China 38.75 $/mt 1.5%
   unit: tonnage
   values:
-  - 38.75
+  - 38750.0
   - 1.5
-- &id029
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: Palm Oil, Malaysia 46.06 $/mt 34.0%
   unit: tonnage
   values:
-  - 46.06
-  - 34.0
-- &id030
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+  - 46060.0
+  - 34000.0
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: Marine Money Decarbonization Index 309 -26.2%
   unit: pct
   values:
   - 309.0
   - -26.2
-- &id031
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: EU Emission Allowances 91.58 $/kt 57.3%
   unit: tonnage
   values:
-  - 91.58
-  - 57.3
-- &id032
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+  - 91580.0
+  - 57300.0
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: UK Emission Allowances 101.79 $/kt 64.5%
   unit: tonnage
   values:
   - 101.79
-  - 64.5
-- &id033
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+  - 64500.0
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: recipient's internal use only. This report does not constitute and
     will not form part of and should not be construed as a 17 State Street, 40th floor
@@ -294,16 +269,14 @@ numeric_observations:
   values:
   - 17.0
   - 40.0
-- &id034
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: solicitation of any offer to buy or sell any security, commodity or
     instrument or related derivative or to participate in any New York, NY 10004
   unit: null
   values:
   - 10004.0
-- &id035
-  section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+- section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
   section_type: linked_pdf
   source_line: 'trading or investment strategy. The opinions and estimates included
     herein reflect views and available information as of Tel: +(1) 646 775 2898'
@@ -321,43 +294,256 @@ section_count: 2
 signals:
   numeric_observation_count: 35
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: June 2022
+    unit: null
+    values:
+    - 2022.0
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: '"Shipping could be moving towards net-zero by 2050"'
+    unit: null
+    values:
+    - 2050.0
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: which held its 78th session June 6-10th (MEPC 78), underlined that
+      sufficient momentum and
+    unit: null
+    values:
+    - 78.0
+    - 6.0
+    - -10.0
+    - 78.0
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: greenhouse gas emissions (GHG) reduction strategy to be approved
+      at MEPC 80 in 2023.
+    unit: null
+    values:
+    - 80.0
+    - 2023.0
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: Another notable aspect of MEPC 78 was the rejection of a proposal
+      led by the International
+    unit: null
+    values:
+    - 78.0
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: Chamber of Shipping (ICS) for a $5bn decarbonization research and
+      development fund that would
+    unit: usd
+    values:
+    - 5.0
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: on a mandatory levy of $2/ton on bunker fuel that would have helped
+      facilitate the application of
+    unit: usd
+    values:
+    - 2.0
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: 79 in December 2022.
+    unit: null
+    values:
+    - 79.0
+    - 2022.0
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: Chastine Mc-Kinney Møller Foundation valued at DKK 320 million ($45
+      million) to accelerate the
+    unit: usd
+    values:
+    - 320.0
+    - 45.0
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: 400 million ($56.4 million) the center received as start-up funding
+      when it was launched in June 2020.
+    unit: usd
+    values:
+    - 400.0
+    - 56.4
+    - 2020.0
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: The Ship It Zero coalition has urged shipping companies to 300,000
+      dwt crude tanker, Appollonas.
+    unit: null
+    values:
+    - 300000.0
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: achieve net-zero emissions by 2050 and enhance
+    unit: null
+    values:
+    - 2050.0
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: There are now 805 LNG-fueled ships in operation
+    unit: null
+    values:
+    - 805.0
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: or on order, and 229 more ‘LNG-ready' ships,
+    unit: null
+    values:
+    - 229.0
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: adopt LNG as a fuel, with 46 ships already in
+    unit: null
+    values:
+    - 46.0
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: containerships will soon take a strong lead. The 35
+    unit: null
+    values:
+    - 35.0
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: joined by 172 new ones, taking the total to 207. In
+    unit: null
+    values:
+    - 172.0
+    - 207.0
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: other major groups, there are 87 crude oil tankers
+    unit: null
+    values:
+    - 87.0
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: board the project to create a 74,000cm CO2
+    unit: null
+    values:
+    - 74000.0
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: construction; 70 oil/chemical tankers; and 62 bulk
+    unit: null
+    values:
+    - 70.0
+    - 62.0
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: increase in production - from 100,000 tons of
+    unit: null
+    values:
+    - 100000.0
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: biodiesel per year to 540,000 tons. carriers, Energia Azalea. The
+      99,965 dwt carrier
+    unit: null
+    values:
+    - 540000.0
+    - 99965.0
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: Crude Oil, Brent 119.49 $/bbl 59.8%
+    unit: pct
+    values:
+    - 119.49
+    - 59.8
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: Natural Gas, Henry Hub 6.71 $/MMbtu 84.7%
+    unit: pct
+    values:
+    - 6.71
+    - 84.7
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: LNG, Korea/Japan 37.00 $/MMbtu 191.3%
+    unit: pct
+    values:
+    - 37.0
+    - 191.3
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: Coal, Rotterdam 370 $/mt 255.8%
+    unit: tonnage
+    values:
+    - 370.0
+    - 255.8
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: VLSFO, Rotterdam 891 $/mt 70.0%
+    unit: tonnage
+    values:
+    - 891.0
+    - 70.0
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: Methanol, China 38.75 $/mt 1.5%
+    unit: tonnage
+    values:
+    - 38.75
+    - 1.5
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: Palm Oil, Malaysia 46.06 $/mt 34.0%
+    unit: tonnage
+    values:
+    - 46.06
+    - 34.0
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: Marine Money Decarbonization Index 309 -26.2%
+    unit: pct
+    values:
+    - 309.0
+    - -26.2
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: EU Emission Allowances 91.58 $/kt 57.3%
+    unit: tonnage
+    values:
+    - 91.58
+    - 57.3
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: UK Emission Allowances 101.79 $/kt 64.5%
+    unit: tonnage
+    values:
+    - 101.79
+    - 64.5
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: recipient's internal use only. This report does not constitute and
+      will not form part of and should not be construed as a 17 State Street, 40th
+      floor
+    unit: null
+    values:
+    - 17.0
+    - 40.0
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: solicitation of any offer to buy or sell any security, commodity
+      or instrument or related derivative or to participate in any New York, NY 10004
+    unit: null
+    values:
+    - 10004.0
+  - section: 'Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf'
+    section_type: linked_pdf
+    source_line: 'trading or investment strategy. The opinions and estimates included
+      herein reflect views and available information as of Tel: +(1) 646 775 2898'
+    unit: null
+    values:
+    - 1.0
+    - 646.0
+    - 775.0
+    - 2898.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2022/2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022.html
+source_path: corpus/02-hellenic/shipbuilding/2022/2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022.html
 source_stem: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022
 source_url: https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-6-30-2022
 summary: 'Main
@@ -456,7 +642,7 @@ The recent and much-anticipated meeting of the Marine Environmental Protection C
 Source: Breakwave Advisors
 
 ## Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf
-Source asset: reports/hellenic/shipbuilding/pdfs/2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf
+Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf
 
 [Page 1]
 BSEA

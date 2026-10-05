@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1491,
-  "source_path": "reports/hellenic/shipbuilding/2023/2023-11-28_breakwave-tanker-report-11-28-2023.html",
+  "token_count": 1493,
+  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-11-28_breakwave-tanker-report-11-28-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-11-28-2023",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-11-28_breakwave-tanker-report-11-28-2023_breakwavetankersnovember282023report_984d6774ddd2.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-11-28_breakwave-tanker-report-11-28-2023_breakwavetankersnovember282023report_984d6774ddd2.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nNovember 28, 2023\nBreakwave Tanker Futures Index: 1,393 VLCC Middle East-Asia Spot Rates: $16.22 Short-term Indicators:\n↓ 30D: -9.4% ↑ 30D: 11.4% Momentum: Negative\n↑ YTD: 17.2% ↓ YTD: -8.4% Sentiment: Neutral\n↓ YOY: -17.9% ↓ YOY: -38.7% Fundamentals: Positive\nBi-Weekly Report\n• VLCC rates stable amid ongoing challenges and shifting dynamics in oil supply/demand - The VLCC freight market\nsentiment appeared softer at the end of November, despite a more promising outlook mid-month, hinting at a\nbetter-balanced market. However, freight rates have improved compared to levels seen a month ago with VLCC\nrates from the Middle East and West Africa to China recording a monthly increase of roughly 20%.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-11-28_breakwave-tanker-report-11-28-2023_breakwavetankersnovember282023report_984d6774ddd2.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nNovember 28, 2023\nBreakwave Tanker Futures Index: 1,393 VLCC Middle East-Asia Spot Rates: $16.22 Short-term Indicators:\n↓ 30D: -9.4% ↑ 30D: 11.4% Momentum: Negative\n↑ YTD: 17.2% ↓ YTD: -8.4% Sentiment: Neutral\n↓ YOY: -17.9% ↓ YOY: -38.7% Fundamentals: Positive\nBi-Weekly Report\n• VLCC rates stable amid ongoing challenges and shifting dynamics in oil supply/demand - The VLCC freight market\nsentiment appeared softer at the end of November, despite a more promising outlook mid-month, hinting at a\nbetter-balanced market. However, freight rates have improved compared to levels seen a month ago with VLCC\nrates from the Middle East and West Africa to China recording a monthly increase of roughly 20%.",
       "keywords": [
         "vlcc",
         "suezmax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1420,
+      "token_count": 1422,
       "section_type": "linked_pdf",
       "children": []
     }

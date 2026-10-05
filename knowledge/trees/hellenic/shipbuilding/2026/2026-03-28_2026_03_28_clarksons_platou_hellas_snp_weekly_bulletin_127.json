@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 2014,
-  "source_path": "reports/hellenic/shipbuilding/2026/2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127.html",
+  "token_count": 2016,
+  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-127",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nThis week, the S&P market has adopted a more cautious tone, however, a fair number of transactions\nhave still materialized across segments.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nThis week, the S&P market has adopted a more cautious tone, however, a fair number of transactions\nhave still materialized across segments.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1528,
+      "token_count": 1530,
       "section_type": "linked_pdf",
       "children": []
     }

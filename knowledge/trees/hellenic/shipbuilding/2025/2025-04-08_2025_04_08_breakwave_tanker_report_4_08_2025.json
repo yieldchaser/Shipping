@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1765,
-  "source_path": "reports/hellenic/shipbuilding/2025/2025-04-08_breakwave-tanker-report-4-08-2025.html",
+  "token_count": 1767,
+  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-04-08_breakwave-tanker-report-4-08-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-4-08-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-04-08_breakwave-tanker-report-4-08-2025_breakwavetankersapril82025report2_8871cdecab54.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-04-08_breakwave-tanker-report-4-08-2025_breakwavetankersapril82025report2_8871cdecab54.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nApril 8, 2025\n• Trade Tensions Affect VLCC Sentiment - The VLCC market entered April on a Short-term Indicators\nmixed note, with regional dynamics reflecting a combination of transient strength\nMomentum: Neutral\nand underlying caution. In the Middle East, the month commenced with a moderate\nSentiment: Neutral\nincrease in chartering activity for second-decade April stems, briefly buoying market\nFundamentals: Positive\nsentiment.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-04-08_breakwave-tanker-report-4-08-2025_breakwavetankersapril82025report2_8871cdecab54.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nApril 8, 2025\n• Trade Tensions Affect VLCC Sentiment - The VLCC market entered April on a Short-term Indicators\nmixed note, with regional dynamics reflecting a combination of transient strength\nMomentum: Neutral\nand underlying caution. In the Middle East, the month commenced with a moderate\nSentiment: Neutral\nincrease in chartering activity for second-decade April stems, briefly buoying market\nFundamentals: Positive\nsentiment.",
       "keywords": [
         "vlcc",
         "suezmax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1687,
+      "token_count": 1689,
       "section_type": "linked_pdf",
       "children": []
     }

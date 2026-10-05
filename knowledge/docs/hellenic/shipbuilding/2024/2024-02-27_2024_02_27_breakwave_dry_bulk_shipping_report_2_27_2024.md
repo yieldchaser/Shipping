@@ -5,6 +5,7 @@ commodities:
 date: '2024-02-27'
 doc_id: hellenic_shipbuilding_2024-02-27_2024_02_27_breakwave_dry_bulk_shipping_report_2_27_2024
 document_type: shipbuilding_update
+is_error_page: false
 key_entities:
 - China
 - Brazil
@@ -29,27 +30,24 @@ linked_assets_ingested: 1
 linked_assets_mirrored: 1
 linked_assets_skipped: 0
 market_tone: constructive
-numeric_observation_count: 28
+numeric_observation_count: 31
 numeric_observations:
-- &id001
-  section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+- section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
   section_type: linked_pdf
   source_line: February 27, 2024
   unit: null
   values:
   - 27.0
   - 2024.0
-- &id002
-  section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+- section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
   section_type: linked_pdf
   source_line: 'Breakwave Tanker Futures Index: 1,315 VLCC Middle East-Asia Spot Rates:
     $15.60 Short-term Indicators:'
   unit: usd
   values:
   - 1315.0
-  - 15.6
-- &id003
-  section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+  - 15600.0
+- section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
   section_type: linked_pdf
   source_line: '↓ 30D: -0.7% ↑ 30D: 10.5% Momentum: Positive'
   unit: pct
@@ -57,33 +55,29 @@ numeric_observations:
   - 30.0
   - -0.7
   - 30.0
-  - 10.5
-- &id004
-  section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+  - 10500.0
+- section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
   section_type: linked_pdf
   source_line: '↑ YTD: 8.4% ↑ YTD: 17.8% Sentiment: Neutral'
   unit: pct
   values:
-  - 8.4
-  - 17.8
-- &id005
-  section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+  - 8400.0
+  - 17800.0
+- section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
   section_type: linked_pdf
   source_line: '↓ YOY: -11.9% ↓ YOY: -1.5% Fundamentals: Positive'
   unit: pct
   values:
   - -11.9
   - -1.5
-- &id006
-  section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+- section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
   section_type: linked_pdf
   source_line: decline faster than previously anticipated. Crude oil has reacted positively,
     with WTI moving towards the $80/bbl mark.
   unit: usd
   values:
   - 80.0
-- &id007
-  section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+- section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
   section_type: linked_pdf
   source_line: We continue to expect the recent five-month range of roughly $70-$80/bbl
     to remain in place for the foreseeable future,
@@ -91,8 +85,7 @@ numeric_observations:
   values:
   - 70.0
   - 80.0
-- &id008
-  section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+- section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
   section_type: linked_pdf
   source_line: strength on Chinese oil demand (in 2023, oil demand grew by most on
     record, at ~2mbpd yoy). With global oil demand
@@ -100,8 +93,15 @@ numeric_observations:
   values:
   - 2023.0
   - 2.0
-- &id009
-  section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+- section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+  section_type: linked_pdf
+  source_line: The Baltic TD3C Index measures the spot rate in USD per ton for Very
+    Large Crude Carriers (VLLCC) operating in the Middle East to Asia route. The Breakwave
+    Tanker Futures
+  unit: usd_per_unit
+  values:
+  - 3.0
+- section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
   section_type: linked_pdf
   source_line: Index (BDRYFF) is designed to track freight futures contracts with
     a sector weighting of 90% VLCC TD3C and 10% Suezmax TD20 and a weighted average
@@ -109,49 +109,57 @@ numeric_observations:
   unit: pct
   values:
   - 90.0
+  - 3.0
   - 10.0
-- &id010
-  section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+  - 20.0
+- section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
   section_type: linked_pdf
   source_line: approximately 50-70 days.
   unit: null
   values:
   - 50.0
   - -70.0
-- &id011
-  section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+- section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+  section_type: linked_pdf
+  source_line: VLCC Spot Index (TD3C) vs Breakwave Tanker Futures Index (BWETFF)
+  unit: null
+  values:
+  - 3.0
+- section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
   section_type: linked_pdf
   source_line: 2000 25
   unit: null
   values:
   - 2000.0
   - 25.0
-- &id012
-  section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+- section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
   section_type: linked_pdf
   source_line: 1600 20
   unit: null
   values:
   - 1600.0
   - 20.0
-- &id013
-  section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+- section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
   section_type: linked_pdf
   source_line: 1200 15
   unit: null
   values:
   - 1200.0
   - 15.0
-- &id014
-  section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+- section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
   section_type: linked_pdf
   source_line: 800 10
   unit: null
   values:
   - 800.0
   - 10.0
-- &id015
-  section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+- section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+  section_type: linked_pdf
+  source_line: BWETFF (futures) TD3C, $/t
+  unit: usd
+  values:
+  - 3.0
+- section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
   section_type: linked_pdf
   source_line: Jan-23 Feb-23 Mar-23 Apr-23 May-23 Jun-23 Jul-23 Aug-23 Sep-23 Oct-23
     Nov-23 Dec-23
@@ -167,88 +175,77 @@ numeric_observations:
   - 23.0
   - 23.0
   - 23.0
-- &id016
-  section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+- section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
   section_type: linked_pdf
   source_line: World Oil Demand 104,390 kbpd 4.5%
   unit: pct
   values:
   - 104390.0
   - 4.5
-- &id017
-  section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+- section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
   section_type: linked_pdf
   source_line: Oil Supply, OPEC 26,570 kbpd -8.8%
   unit: pct
   values:
   - 26570.0
   - -8.8
-- &id018
-  section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+- section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
   section_type: linked_pdf
   source_line: Oil Supply, non-OPEC 69,070 kbpd 5.1%
   unit: pct
   values:
   - 69070.0
-  - 5.1
-- &id019
-  section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+  - 5100.0
+- section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
   section_type: linked_pdf
   source_line: OECD Total Crude Oil Stocks 1053.2 MMbls -0.5%
   unit: pct
   values:
   - 1053.2
   - -0.5
-- &id020
-  section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+- section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
   section_type: linked_pdf
   source_line: US Crude Oil Exports 44.2 MMbls 12.8%
   unit: pct
   values:
-  - 44.2
-  - 12.8
-- &id021
-  section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+  - 44200.0
+  - 12800.0
+- section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
   section_type: linked_pdf
   source_line: China Oil Imports 564.3 MMbls 11.0%
   unit: pct
   values:
   - 564.3
-  - 11.0
-- &id022
-  section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+  - 11000.0
+- section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
   section_type: linked_pdf
   source_line: Global Crude Oil Floating Storage 66.4 MMbls -27.0%
   unit: pct
   values:
-  - 66.4
+  - 66400.0
   - -27.0
-- &id023
-  section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+- section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
   section_type: linked_pdf
   source_line: Tanker Fleet 690.5 mdwt 1.8%
   unit: pct
   values:
   - 690.5
   - 1.8
-- &id024
-  section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+- section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
   section_type: linked_pdf
   source_line: VLCC Middle East-Asia, USD/ton 14.46 17.4%
   unit: usd_per_unit
   values:
-  - 14.46
-  - 17.4
-- &id025
-  section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+  - 14460.0
+  - 17400.0
+- section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
   section_type: linked_pdf
   source_line: Suezmax West Africa-Europe, USD/ton 20.42 8.5%
   unit: usd_per_unit
   values:
-  - 20.42
-  - 8.5
-- &id026
-  section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+  - 20420.0
+  - 8500.0
+- section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
   section_type: linked_pdf
   source_line: recipient's internal use only. This report does not constitute and
     will not form part of and should not be construed as a 17 State Street, 40th floor
@@ -256,16 +253,14 @@ numeric_observations:
   values:
   - 17.0
   - 40.0
-- &id027
-  section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+- section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
   section_type: linked_pdf
   source_line: solicitation of any offer to buy or sell any security, commodity or
     instrument or related derivative or to participate in any New York, NY 10004
   unit: null
   values:
   - 10004.0
-- &id028
-  section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+- section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
   section_type: linked_pdf
   source_line: 'trading or investment strategy. The opinions and estimates included
     herein reflect views and available information as of Tel: +(1) 646 775 2898'
@@ -286,36 +281,225 @@ section_count: 2
 signals:
   numeric_observation_count: 28
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
+  - section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+    section_type: linked_pdf
+    source_line: February 27, 2024
+    unit: null
+    values:
+    - 27.0
+    - 2024.0
+  - section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+    section_type: linked_pdf
+    source_line: 'Breakwave Tanker Futures Index: 1,315 VLCC Middle East-Asia Spot
+      Rates: $15.60 Short-term Indicators:'
+    unit: usd
+    values:
+    - 1315.0
+    - 15.6
+  - section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+    section_type: linked_pdf
+    source_line: '↓ 30D: -0.7% ↑ 30D: 10.5% Momentum: Positive'
+    unit: pct
+    values:
+    - 30.0
+    - -0.7
+    - 30.0
+    - 10.5
+  - section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+    section_type: linked_pdf
+    source_line: '↑ YTD: 8.4% ↑ YTD: 17.8% Sentiment: Neutral'
+    unit: pct
+    values:
+    - 8.4
+    - 17.8
+  - section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+    section_type: linked_pdf
+    source_line: '↓ YOY: -11.9% ↓ YOY: -1.5% Fundamentals: Positive'
+    unit: pct
+    values:
+    - -11.9
+    - -1.5
+  - section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+    section_type: linked_pdf
+    source_line: decline faster than previously anticipated. Crude oil has reacted
+      positively, with WTI moving towards the $80/bbl mark.
+    unit: usd
+    values:
+    - 80.0
+  - section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+    section_type: linked_pdf
+    source_line: We continue to expect the recent five-month range of roughly $70-$80/bbl
+      to remain in place for the foreseeable future,
+    unit: usd
+    values:
+    - 70.0
+    - 80.0
+  - section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+    section_type: linked_pdf
+    source_line: strength on Chinese oil demand (in 2023, oil demand grew by most
+      on record, at ~2mbpd yoy). With global oil demand
+    unit: null
+    values:
+    - 2023.0
+    - 2.0
+  - section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+    section_type: linked_pdf
+    source_line: Index (BDRYFF) is designed to track freight futures contracts with
+      a sector weighting of 90% VLCC TD3C and 10% Suezmax TD20 and a weighted average
+      maturity of
+    unit: pct
+    values:
+    - 90.0
+    - 10.0
+  - section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+    section_type: linked_pdf
+    source_line: approximately 50-70 days.
+    unit: null
+    values:
+    - 50.0
+    - -70.0
+  - section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+    section_type: linked_pdf
+    source_line: 2000 25
+    unit: null
+    values:
+    - 2000.0
+    - 25.0
+  - section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+    section_type: linked_pdf
+    source_line: 1600 20
+    unit: null
+    values:
+    - 1600.0
+    - 20.0
+  - section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+    section_type: linked_pdf
+    source_line: 1200 15
+    unit: null
+    values:
+    - 1200.0
+    - 15.0
+  - section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+    section_type: linked_pdf
+    source_line: 800 10
+    unit: null
+    values:
+    - 800.0
+    - 10.0
+  - section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+    section_type: linked_pdf
+    source_line: Jan-23 Feb-23 Mar-23 Apr-23 May-23 Jun-23 Jul-23 Aug-23 Sep-23 Oct-23
+      Nov-23 Dec-23
+    unit: null
+    values:
+    - 23.0
+    - 23.0
+    - 23.0
+    - 23.0
+    - 23.0
+    - 23.0
+    - 23.0
+    - 23.0
+    - 23.0
+    - 23.0
+  - section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+    section_type: linked_pdf
+    source_line: World Oil Demand 104,390 kbpd 4.5%
+    unit: pct
+    values:
+    - 104390.0
+    - 4.5
+  - section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+    section_type: linked_pdf
+    source_line: Oil Supply, OPEC 26,570 kbpd -8.8%
+    unit: pct
+    values:
+    - 26570.0
+    - -8.8
+  - section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+    section_type: linked_pdf
+    source_line: Oil Supply, non-OPEC 69,070 kbpd 5.1%
+    unit: pct
+    values:
+    - 69070.0
+    - 5.1
+  - section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+    section_type: linked_pdf
+    source_line: OECD Total Crude Oil Stocks 1053.2 MMbls -0.5%
+    unit: pct
+    values:
+    - 1053.2
+    - -0.5
+  - section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+    section_type: linked_pdf
+    source_line: US Crude Oil Exports 44.2 MMbls 12.8%
+    unit: pct
+    values:
+    - 44.2
+    - 12.8
+  - section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+    section_type: linked_pdf
+    source_line: China Oil Imports 564.3 MMbls 11.0%
+    unit: pct
+    values:
+    - 564.3
+    - 11.0
+  - section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+    section_type: linked_pdf
+    source_line: Global Crude Oil Floating Storage 66.4 MMbls -27.0%
+    unit: pct
+    values:
+    - 66.4
+    - -27.0
+  - section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+    section_type: linked_pdf
+    source_line: Tanker Fleet 690.5 mdwt 1.8%
+    unit: pct
+    values:
+    - 690.5
+    - 1.8
+  - section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+    section_type: linked_pdf
+    source_line: VLCC Middle East-Asia, USD/ton 14.46 17.4%
+    unit: usd_per_unit
+    values:
+    - 14.46
+    - 17.4
+  - section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+    section_type: linked_pdf
+    source_line: Suezmax West Africa-Europe, USD/ton 20.42 8.5%
+    unit: usd_per_unit
+    values:
+    - 20.42
+    - 8.5
+  - section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+    section_type: linked_pdf
+    source_line: recipient's internal use only. This report does not constitute and
+      will not form part of and should not be construed as a 17 State Street, 40th
+      floor
+    unit: null
+    values:
+    - 17.0
+    - 40.0
+  - section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+    section_type: linked_pdf
+    source_line: solicitation of any offer to buy or sell any security, commodity
+      or instrument or related derivative or to participate in any New York, NY 10004
+    unit: null
+    values:
+    - 10004.0
+  - section: 'Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf'
+    section_type: linked_pdf
+    source_line: 'trading or investment strategy. The opinions and estimates included
+      herein reflect views and available information as of Tel: +(1) 646 775 2898'
+    unit: null
+    values:
+    - 1.0
+    - 646.0
+    - 775.0
+    - 2898.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2024/2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024.html
+source_path: corpus/02-hellenic/shipbuilding/2024/2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024.html
 source_stem: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024
 source_url: https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-2-27-2024
 summary: 'Main
@@ -406,7 +590,7 @@ VLCCs on a rollercoaster ride amidst uncertainty and shifting sentiment - Once a
 Source: Breakwave Advisors
 
 ## Linked asset: 2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf
-Source asset: reports/hellenic/shipbuilding/pdfs/2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf
+Source asset: corpus/02-hellenic/shipbuilding/pdfs/2024-02-27_breakwave-dry-bulk-shipping-report-2-27-2024_breakwavetankersfebruary272024report_ffbfe9d4baaf.pdf
 
 [Page 1]
 BWET

@@ -5,6 +5,7 @@ commodities:
 date: '2022-12-23'
 doc_id: hellenic_shipbuilding_2022-12-23_2022_12_23_clarksons_platou_hellas_snp_weekly_bulletin_50
 document_type: shipbuilding_update
+is_error_page: false
 key_entities: []
 keywords:
 - lng
@@ -27,42 +28,39 @@ linked_assets_skipped: 0
 market_tone: constructive
 numeric_observation_count: 36
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: New building in the gas carrier market, Hyundai Samho disclosed orders
     for two firm 174k CBM
   unit: null
   values:
   - 174.0
-- &id002
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: Clarksons Hellas Weekly Bulletin 23 December 2022
   unit: null
   values:
   - 23.0
   - 2022.0
-- &id003
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: MAN B. & W. 6S50MC-C8.1 SS 03/25
   unit: null
   values:
   - 6.0
-  - 1.0
+  - 50.0
+  - 8100.0
   - 3.0
   - 25.0
-- &id004
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: ALEGRE III 55,808 2007 KAWASAKI USD 14.7 M INDONESIANS
   unit: usd
   values:
   - 55808.0
   - 2007.0
-- &id005
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+  - 14700.0
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: 4 x 30 T, BWTS Fitted DD 01/23
   unit: null
@@ -71,8 +69,7 @@ numeric_observations:
   - 30.0
   - 1.0
   - 23.0
-- &id006
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: 2004 HYUNDAI SS 10/24
   unit: null
@@ -80,50 +77,45 @@ numeric_observations:
   - 2004.0
   - 10.0
   - 24.0
-- &id007
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: DELTA PIONEER 111,013
   unit: null
   values:
   - 111013.0
-- &id008
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: SAMHO HI DD 02/23
   unit: null
   values:
   - 2.0
   - 23.0
-- &id009
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: SS 01/25
   unit: null
   values:
   - 1.0
   - 25.0
-- &id010
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: DELTA VICTORY 111,006 MAN B. & W. 7S60MC6.1 DD 03/23 USD 140 M
   unit: usd
   values:
   - 111006.0
   - 7.0
-  - 1.0
+  - 60.0
+  - 6100.0
   - 3.0
   - 23.0
   - 140.0
-- &id011
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: Ice Class 1A DUBAI BASED
   unit: null
   values:
   - 1.0
-- &id012
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: DELTA CAPTAIN 111,009 2005 HYUNDAI Scrubber & BWTS Fitted SS 02/25
     (En Bloc)
@@ -133,69 +125,60 @@ numeric_observations:
   - 2005.0
   - 2.0
   - 25.0
-- &id013
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: SAMHO HI DD 07/23
   unit: null
   values:
   - 7.0
   - 23.0
-- &id014
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: SS 03/25
   unit: null
   values:
   - 3.0
   - 25.0
-- &id015
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: DELTA SAILOR 111,004
   unit: null
   values:
   - 111004.0
-- &id016
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: DD 09/23
   unit: null
   values:
   - 9.0
   - 23.0
-- &id017
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: In the gas carrier market, Hyundai Samho disclosed orders for two firm
     174k CBM LNG Carriers for Asyad Shipping, with the
   unit: null
   values:
   - 174.0
-- &id018
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: vessels set to deliver in March and June 2026.
   unit: null
   values:
   - 2026.0
-- &id019
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: In general cargo, Dayang Offshore announced orders for one firm plus
     one optional 7.5k dwt General Cargo vessel for
   unit: null
   values:
-  - 7.5
-- &id020
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+  - 7500.0
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: Berge Rederi, with the firm vessel expected to deliver in 2025.
   unit: null
   values:
   - 2025.0
-- &id021
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: 2022 has been an intriguing year for ship recycling but 2023 certainly
     looks to have increased supply to the industry. Actual
@@ -203,8 +186,7 @@ numeric_observations:
   values:
   - 2022.0
   - 2023.0
-- &id022
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: sales during 2022 were considerably down from 2021. In relation to
     the actual dwt committed, the tanker sector supplied
@@ -212,8 +194,7 @@ numeric_observations:
   values:
   - 2022.0
   - 2021.0
-- &id023
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: about 60% less tonnage for recycling compared to 2021, on the dry bulk
     side, about 23% down compared to 2021 and around
@@ -223,31 +204,27 @@ numeric_observations:
   - 2021.0
   - 23.0
   - 2021.0
-- &id024
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: 50% down for all other types of vessels.
   unit: pct
   values:
   - 50.0
-- &id025
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: circulate into the market during next year and more abundantly 2024.
     Supplies of tanker tonnage will remain at a low whereas
   unit: null
   values:
   - 2024.0
-- &id026
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: Sale & Purchase | Clarksons Hellas Weekly Bulletin | 23 Dec. 22
   unit: null
   values:
   - 23.0
   - 22.0
-- &id027
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: BDI 1515 - 135 Euro/USD 1.06157 BUNKERS ROTTERDAM SPORE FUJAIRAH
   unit: usd
@@ -255,8 +232,7 @@ numeric_observations:
   - 1515.0
   - 135.0
   - 1.06157
-- &id028
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: BCI 2261 - 365 YEN/USD 0.00757 VLSFO 534.50 614.50 619.50
   unit: usd
@@ -266,8 +242,7 @@ numeric_observations:
   - 534.5
   - 614.5
   - 619.5
-- &id029
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: BPI 1535 - 28 Brent (USD) MGO 869.50 916.50 1153.00
   unit: usd
@@ -277,8 +252,7 @@ numeric_observations:
   - 869.5
   - 916.5
   - 1153.0
-- &id030
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: BSI 1062 - 21 IFO 380 456.50 399.50 390.00
   unit: null
@@ -289,23 +263,20 @@ numeric_observations:
   - 456.5
   - 399.5
   - 390.0
-- &id031
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: '83.269'
   unit: null
   values:
-  - 83.269
-- &id032
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+  - 83269.0
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: BHSI 663 - 8
   unit: null
   values:
   - 663.0
   - 8.0
-- &id033
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: 62 Kifissias Avenue Information extracted from Clarksons' database
     is derived from estimates or subjective judgments; (ii) any Information extracted
@@ -313,8 +284,7 @@ numeric_observations:
   unit: null
   values:
   - 62.0
-- &id034
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: 151 25 and may accordingly contain errors; (iv) the provision of the
     Information does not obviate any need to make appropriate further enquiries; (v)
@@ -323,8 +293,7 @@ numeric_observations:
   values:
   - 151.0
   - 25.0
-- &id035
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: Direct +(30) 210 458 6700 used or relied upon by, any other person
     or used for any other purpose without the prior written consent of Clarksons.
@@ -335,8 +304,7 @@ numeric_observations:
   - 210.0
   - 458.0
   - 6700.0
-- &id036
-  section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+- section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
   section_type: linked_pdf
   source_line: Fax +(30) 210 458 6799 used in any document for the purposes of raising
     finance whether by way of debt or equity. All intellectual property rights are
@@ -356,44 +324,292 @@ section_count: 2
 signals:
   numeric_observation_count: 36
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
+  - section: Main
+    section_type: null
+    source_line: New building in the gas carrier market, Hyundai Samho disclosed orders
+      for two firm 174k CBM
+    unit: null
+    values:
+    - 174.0
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: Clarksons Hellas Weekly Bulletin 23 December 2022
+    unit: null
+    values:
+    - 23.0
+    - 2022.0
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: MAN B. & W. 6S50MC-C8.1 SS 03/25
+    unit: null
+    values:
+    - 6.0
+    - 1.0
+    - 3.0
+    - 25.0
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: ALEGRE III 55,808 2007 KAWASAKI USD 14.7 M INDONESIANS
+    unit: usd
+    values:
+    - 55808.0
+    - 2007.0
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: 4 x 30 T, BWTS Fitted DD 01/23
+    unit: null
+    values:
+    - 4.0
+    - 30.0
+    - 1.0
+    - 23.0
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: 2004 HYUNDAI SS 10/24
+    unit: null
+    values:
+    - 2004.0
+    - 10.0
+    - 24.0
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: DELTA PIONEER 111,013
+    unit: null
+    values:
+    - 111013.0
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: SAMHO HI DD 02/23
+    unit: null
+    values:
+    - 2.0
+    - 23.0
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: SS 01/25
+    unit: null
+    values:
+    - 1.0
+    - 25.0
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: DELTA VICTORY 111,006 MAN B. & W. 7S60MC6.1 DD 03/23 USD 140 M
+    unit: usd
+    values:
+    - 111006.0
+    - 7.0
+    - 1.0
+    - 3.0
+    - 23.0
+    - 140.0
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: Ice Class 1A DUBAI BASED
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: DELTA CAPTAIN 111,009 2005 HYUNDAI Scrubber & BWTS Fitted SS 02/25
+      (En Bloc)
+    unit: null
+    values:
+    - 111009.0
+    - 2005.0
+    - 2.0
+    - 25.0
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: SAMHO HI DD 07/23
+    unit: null
+    values:
+    - 7.0
+    - 23.0
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: SS 03/25
+    unit: null
+    values:
+    - 3.0
+    - 25.0
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: DELTA SAILOR 111,004
+    unit: null
+    values:
+    - 111004.0
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: DD 09/23
+    unit: null
+    values:
+    - 9.0
+    - 23.0
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: In the gas carrier market, Hyundai Samho disclosed orders for two
+      firm 174k CBM LNG Carriers for Asyad Shipping, with the
+    unit: null
+    values:
+    - 174.0
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: vessels set to deliver in March and June 2026.
+    unit: null
+    values:
+    - 2026.0
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: In general cargo, Dayang Offshore announced orders for one firm plus
+      one optional 7.5k dwt General Cargo vessel for
+    unit: null
+    values:
+    - 7.5
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: Berge Rederi, with the firm vessel expected to deliver in 2025.
+    unit: null
+    values:
+    - 2025.0
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: 2022 has been an intriguing year for ship recycling but 2023 certainly
+      looks to have increased supply to the industry. Actual
+    unit: null
+    values:
+    - 2022.0
+    - 2023.0
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: sales during 2022 were considerably down from 2021. In relation to
+      the actual dwt committed, the tanker sector supplied
+    unit: null
+    values:
+    - 2022.0
+    - 2021.0
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: about 60% less tonnage for recycling compared to 2021, on the dry
+      bulk side, about 23% down compared to 2021 and around
+    unit: pct
+    values:
+    - 60.0
+    - 2021.0
+    - 23.0
+    - 2021.0
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: 50% down for all other types of vessels.
+    unit: pct
+    values:
+    - 50.0
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: circulate into the market during next year and more abundantly 2024.
+      Supplies of tanker tonnage will remain at a low whereas
+    unit: null
+    values:
+    - 2024.0
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: Sale & Purchase | Clarksons Hellas Weekly Bulletin | 23 Dec. 22
+    unit: null
+    values:
+    - 23.0
+    - 22.0
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: BDI 1515 - 135 Euro/USD 1.06157 BUNKERS ROTTERDAM SPORE FUJAIRAH
+    unit: usd
+    values:
+    - 1515.0
+    - 135.0
+    - 1.06157
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: BCI 2261 - 365 YEN/USD 0.00757 VLSFO 534.50 614.50 619.50
+    unit: usd
+    values:
+    - 2261.0
+    - 365.0
+    - 534.5
+    - 614.5
+    - 619.5
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: BPI 1535 - 28 Brent (USD) MGO 869.50 916.50 1153.00
+    unit: usd
+    values:
+    - 1535.0
+    - 28.0
+    - 869.5
+    - 916.5
+    - 1153.0
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: BSI 1062 - 21 IFO 380 456.50 399.50 390.00
+    unit: null
+    values:
+    - 1062.0
+    - 21.0
+    - 380.0
+    - 456.5
+    - 399.5
+    - 390.0
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: '83.269'
+    unit: null
+    values:
+    - 83.269
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: BHSI 663 - 8
+    unit: null
+    values:
+    - 663.0
+    - 8.0
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: 62 Kifissias Avenue Information extracted from Clarksons' database
+      is derived from estimates or subjective judgments; (ii) any Information extracted
+      from the databases of
+    unit: null
+    values:
+    - 62.0
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: 151 25 and may accordingly contain errors; (iv) the provision of
+      the Information does not obviate any need to make appropriate further enquiries;
+      (v) the provision
+    unit: null
+    values:
+    - 151.0
+    - 25.0
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: Direct +(30) 210 458 6700 used or relied upon by, any other person
+      or used for any other purpose without the prior written consent of Clarksons.
+      Especially, the information is not to be
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6700.0
+  - section: 'Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf'
+    section_type: linked_pdf
+    source_line: Fax +(30) 210 458 6799 used in any document for the purposes of raising
+      finance whether by way of debt or equity. All intellectual property rights are
+      fully reserved by Clarksons,
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6799.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2022/2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50.html
+source_path: corpus/02-hellenic/shipbuilding/2022/2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50.html
 source_stem: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50
 source_url: https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-50
 summary: 'Main
@@ -516,7 +732,7 @@ New building in the gas carrier market, Hyundai Samho disclosed orders for two f
 Source: Clarkson Platou (Hellas) ltd
 
 ## Linked asset: 2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf
-Source asset: reports/hellenic/shipbuilding/pdfs/2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf
+Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-12-23_clarksons-platou-hellas-snp-weekly-bulletin-50_report-23-12-2022_55384c8ec8c2.pdf
 
 [Page 1]
 SALE & PURCHASE

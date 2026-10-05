@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1266,
-  "source_path": "reports/hellenic/vessel_valuations/2026/2026-03-24_weekly-vessel-valuations-report-march-24-2026.html",
+  "token_count": 1268,
+  "source_path": "corpus/02-hellenic/vessel_valuations/2026/2026-03-24_weekly-vessel-valuations-report-march-24-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-march-24-2026",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-03-24_weekly-vessel-valuations-report-march-24-2026_243202529_ceb759d563d8.jpeg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-03-24_weekly-vessel-valuations-report-march-24-2026_243202529_ceb759d563d8.jpeg\n\nLinked image asset: 2026-03-24_weekly-vessel-valuations-report-march-24-2026_243202529_ceb759d563d8.jpeg\n\nImage metadata: JPEG 687x304 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\n© VesselsValuel¢ ---\n24 March 2026 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra iat MR Cape Prax Supra Handy Past Pmax Handy Fmax\n+25% *3.0% *16% 108% *1.0% 04% 04% 02% *32% 10.2% 10.3% 0.6% 104%\n2 320k 160k Sk 75k SOk 180k 62k 62k 38x 7000 42590 790 noo\n5 125% +3.0% *1.6% 10.8% *1.0% 08% 09% 0.1% 118% 20.1% 10.3% 06% 0.1%\n320k 160k nOk 78k SOk 180k 62k 60K 38% 7000 4250 1780 noo\n+25% +3.0% o1S% 10.7% +1.0% Ls LI 10.1% 204% 70.1% 40.3% OAM 0.7%\n© 320k 160k N0k Sk SOk 180k 80k 60k 3Sk 7000 4250 1780 noo\nps +25% +3.0% +15% 108% +1.0% Ass AZ 40.1% 09% +0.1% +0.3% 0.0% \"Ls\nSk 10k nok Tsk Sk 180K 80k 60k 3m 7000 42590 1780 noo\n+246 +3.0% +16% 20.7% *1.0% AS 2.0% 02% \"16% +0.2% +0.3% 40.5% ASK\n2 Si0k OK nN0k 70k 45k 180k 75k SSK 30k 7000 4250 790 noo\n2s +25% *3.0% *1L7% 108% *1.0% AM ie 0.1% 19% 10.6% *02% 13% 10%\n300k ISSk 1",
+      "summary": "Source asset: corpus/02-hellenic/vessel_valuations/2026/assets/2026-03-24_weekly-vessel-valuations-report-march-24-2026_243202529_ceb759d563d8.jpeg\n\nLinked image asset: 2026-03-24_weekly-vessel-valuations-report-march-24-2026_243202529_ceb759d563d8.jpeg\n\nImage metadata: JPEG 687x304 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\n© VesselsValuel¢ ---\n24 March 2026 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra iat MR Cape Prax Supra Handy Past Pmax Handy Fmax\n+25% *3.0% *16% 108% *1.0% 04% 04% 02% *32% 10.2% 10.3% 0.6% 104%\n2 320k 160k Sk 75k SOk 180k 62k 62k 38x 7000 42590 790 noo\n5 125% +3.0% *1.6% 10.8% *1.0% 08% 09% 0.1% 118% 20.1% 10.3% 06% 0.1%\n320k 160k nOk 78k SOk 180k 62k 60K 38% 7000 4250 1780 noo\n+25% +3.0% o1S% 10.7% +1.0% Ls LI 10.1% 204% 70.1% 40.3% OAM 0.7%\n© 320k 160k N0k Sk SOk 180k 80k 60k 3Sk 7000 4250 1780 noo\nps +25% +3.0% +15% 108% +1.0% Ass AZ 40.1% 09% +0.1% +0.3% 0.0% \"Ls\nSk 10k nok Tsk Sk 180K 80k 60k 3m 7000 42590 1780 noo\n+246 +3.0% +16% 20.7% *1.0% AS 2.0% 02% \"16% +0.2% +0.3% 40.5% ASK\n2 Si0k OK nN0k 70k 45k 180k 75k SSK 30k 7000 4250 790 noo\n2s +25% *3.0% *1L7% 108% *1.0% AM ie 0.1% 19% 10.6% *02% 13% 10%\n300k ISSk",
       "keywords": [
         "capesize",
         "supramax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 680,
+      "token_count": 682,
       "section_type": "linked_image_asset",
       "children": []
     }

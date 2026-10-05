@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1471,
-  "source_path": "reports/hellenic/shipbuilding/2022/2022-12-06_breakwave-dry-bulk-shipping-report-12-6-2022.html",
+  "token_count": 1473,
+  "source_path": "corpus/02-hellenic/shipbuilding/2022/2022-12-06_breakwave-dry-bulk-shipping-report-12-6-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-12-6-2022",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2022-12-06_breakwave-dry-bulk-shipping-report-12-6-2022_breakwavedecember62022report_3a2886e2a71d.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-12-06_breakwave-dry-bulk-shipping-report-12-6-2022_breakwavedecember62022report_3a2886e2a71d.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nDecember 6, 2022\nBreakwave Dry Futures Index: 979 Baltic Dry Index (spot): 1,323 Short-term Indicators:\n↓ 30D: -9.7% ↓ 30D: 0.0% Momentum: Positive\n↓ YTD: -53.0% ↓ YTD: -40.3% Sentiment: Negative\n↓ YOY: -60.9% ↓ YOY: -58.3% Fundamentals: Neutral\nBi-Weekly Report\n• A quiet December for dry bulk freight? - Spot dry bulk rates have stabilized in the ~13,000 range for all asset classes\nin an uneventful two-week period despite significant news flow on the macro front.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2022-12-06_breakwave-dry-bulk-shipping-report-12-6-2022_breakwavedecember62022report_3a2886e2a71d.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nDecember 6, 2022\nBreakwave Dry Futures Index: 979 Baltic Dry Index (spot): 1,323 Short-term Indicators:\n↓ 30D: -9.7% ↓ 30D: 0.0% Momentum: Positive\n↓ YTD: -53.0% ↓ YTD: -40.3% Sentiment: Negative\n↓ YOY: -60.9% ↓ YOY: -58.3% Fundamentals: Neutral\nBi-Weekly Report\n• A quiet December for dry bulk freight? - Spot dry bulk rates have stabilized in the ~13,000 range for all asset classes\nin an uneventful two-week period despite significant news flow on the macro front.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1385,
+      "token_count": 1387,
       "section_type": "linked_pdf",
       "children": []
     }

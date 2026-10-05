@@ -4,6 +4,7 @@ commodities: []
 date: '2024-09-30'
 doc_id: hellenic_shipbuilding_2024-09-30_2024_09_30_pre_mepc_82_briefing_on_black_carbon_ghgs_scrubbers_noise_plastics_other_shippin
 document_type: shipbuilding_update
+is_error_page: false
 key_entities: []
 keywords:
 - alliance
@@ -26,8 +27,7 @@ linked_assets_skipped: 0
 market_tone: neutral
 numeric_observation_count: 1
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: This briefing aimed to provide insights on the agenda for climate emissions
     and marine pollution discussions at the forthcoming82nd session of the International
@@ -35,7 +35,7 @@ numeric_observations:
     30 September - 4 Oc
   unit: null
   values:
-  - 2.0
+  - 82.0
   - 82.0
   - 30.0
   - 4.0
@@ -48,9 +48,21 @@ section_count: 1
 signals:
   numeric_observation_count: 1
   numeric_observations:
-  - *id001
+  - section: Main
+    section_type: null
+    source_line: This briefing aimed to provide insights on the agenda for climate
+      emissions and marine pollution discussions at the forthcoming82nd session of
+      the International Maritime Organization's (IMO) Marine Environment Protection
+      Committee (MEPC 82, 30 September - 4 Oc
+    unit: null
+    values:
+    - 2.0
+    - 82.0
+    - 30.0
+    - 4.0
+    - 2024.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2024/2024-09-30_pre-mepc-82-briefing-on-black-carbon-ghgs-scrubbers-noise-plastics-other-shippin.html
+source_path: corpus/02-hellenic/shipbuilding/2024/2024-09-30_pre-mepc-82-briefing-on-black-carbon-ghgs-scrubbers-noise-plastics-other-shippin.html
 source_stem: 2024-09-30_pre-mepc-82-briefing-on-black-carbon-ghgs-scrubbers-noise-plastics-other-shippin
 source_url: https://www.hellenicshippingnews.com/pre-mepc-82-briefing-on-black-carbon-ghgs-scrubbers-noise-plastics-other-shipping-impacts
 summary: 'Main

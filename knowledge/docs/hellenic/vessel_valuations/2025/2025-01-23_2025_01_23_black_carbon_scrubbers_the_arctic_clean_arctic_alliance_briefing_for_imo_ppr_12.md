@@ -10,6 +10,7 @@ commodities:
 date: '2025-01-23'
 doc_id: hellenic_vessel_valuations_2025-01-23_2025_01_23_black_carbon_scrubbers_the_arctic_clean_arctic_alliance_briefing_for_imo_ppr_12
 document_type: asset_valuations
+is_error_page: false
 key_entities: []
 keywords:
 - gas
@@ -32,8 +33,7 @@ linked_assets_skipped: 0
 market_tone: neutral
 numeric_observation_count: 1
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Ahead of the IMO's Pollution Prevention and Response sub-committee
     (PPR 12), which will meet from27-31 January 2025, this online briefing will provide
@@ -42,7 +42,7 @@ numeric_observations:
   unit: null
   values:
   - 12.0
-  - 7.0
+  - 27.0
   - -31.0
   - 2025.0
 regions:
@@ -55,9 +55,20 @@ section_count: 1
 signals:
   numeric_observation_count: 1
   numeric_observations:
-  - *id001
+  - section: Main
+    section_type: null
+    source_line: Ahead of the IMO's Pollution Prevention and Response sub-committee
+      (PPR 12), which will meet from27-31 January 2025, this online briefing will
+      provide insights on the agenda, likely discussions and possible outcomes of
+      importance to ship operations in the Arct
+    unit: null
+    values:
+    - 12.0
+    - 7.0
+    - -31.0
+    - 2025.0
 source: hellenic
-source_path: reports/hellenic/vessel_valuations/2025/2025-01-23_black-carbon-scrubbers-the-arctic-clean-arctic-alliance-briefing-for-imo-ppr-12.html
+source_path: corpus/02-hellenic/vessel_valuations/2025/2025-01-23_black-carbon-scrubbers-the-arctic-clean-arctic-alliance-briefing-for-imo-ppr-12.html
 source_stem: 2025-01-23_black-carbon-scrubbers-the-arctic-clean-arctic-alliance-briefing-for-imo-ppr-12
 source_url: https://www.hellenicshippingnews.com/black-carbon-scrubbers-the-arctic-clean-arctic-alliance-briefing-for-imo-ppr-12-shipping-meeting
 summary: 'Main

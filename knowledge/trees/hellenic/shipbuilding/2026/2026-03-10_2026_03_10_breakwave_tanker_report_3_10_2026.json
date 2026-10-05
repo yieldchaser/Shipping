@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1975,
-  "source_path": "reports/hellenic/shipbuilding/2026/2026-03-10_breakwave-tanker-report-3-10-2026.html",
+  "token_count": 1977,
+  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-03-10_breakwave-tanker-report-3-10-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-3-10-2026",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-03-10_breakwave-tanker-report-3-10-2026_breakwavetankersmarch102026report_405f321411b7.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-03-10_breakwave-tanker-report-3-10-2026_breakwavetankersmarch102026report_405f321411b7.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nMarch 10, 2026\n• VLCC Rates Explode Higher as the Worst-Case Scenario becomes Reality -\nShort-term Indicators\nThe global oil market is currently experiencing an unprecedented disruption in\nMomentum: Positive\nsupply flows. As Iran maintains strategic control over the Straits of Hormuz, exports\nfrom the Arabian Gulf have reached a virtual standstill.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-03-10_breakwave-tanker-report-3-10-2026_breakwavetankersmarch102026report_405f321411b7.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nMarch 10, 2026\n• VLCC Rates Explode Higher as the Worst-Case Scenario becomes Reality -\nShort-term Indicators\nThe global oil market is currently experiencing an unprecedented disruption in\nMomentum: Positive\nsupply flows. As Iran maintains strategic control over the Straits of Hormuz, exports\nfrom the Arabian Gulf have reached a virtual standstill.",
       "keywords": [
         "capesize",
         "vlcc",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1901,
+      "token_count": 1903,
       "section_type": "linked_pdf",
       "children": []
     }

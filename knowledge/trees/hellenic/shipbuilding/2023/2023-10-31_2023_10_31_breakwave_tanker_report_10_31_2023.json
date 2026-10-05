@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1484,
-  "source_path": "reports/hellenic/shipbuilding/2023/2023-10-31_breakwave-tanker-report-10-31-2023.html",
+  "token_count": 1486,
+  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-10-31_breakwave-tanker-report-10-31-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-10-31-2023",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-10-31_breakwave-tanker-report-10-31-2023_breakwavetankersoctober312023report_c257517f8251.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-10-31_breakwave-tanker-report-10-31-2023_breakwavetankersoctober312023report_c257517f8251.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nOctober 31, 2023\nBreakwave Tanker Futures Index: 1,537 VLCC Middle East-Asia Spot Rates: $14.57 Short-term Indicators:\n↑ 30D: 17.5% ↑ 30D: 20.1% Momentum: Positive\n↑ YTD: 29.3% ↓ YTD: -17.8% Sentiment: Positive\n↓ YOY: -17.3% ↓ YOY: -39.5% Fundamentals: Positive\nBi-Weekly Report\n• Ongoing Middle East turmoil continues to push VLCC rates higher - When it comes to energy security and geopolitical\nturmoil, tanker rates tend to react swiftly, and this time around has been no exception. VLCC spot rates have shown\nincreased strength compared to the previous month's levels, with the Baltic Exchange benchmark time charter\nequivalent earnings ($/day) surging by more than 100%, while the rates for the Middle East Gulf to the US Gulf route\nhave also increased by an impressive 180%.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-10-31_breakwave-tanker-report-10-31-2023_breakwavetankersoctober312023report_c257517f8251.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nOctober 31, 2023\nBreakwave Tanker Futures Index: 1,537 VLCC Middle East-Asia Spot Rates: $14.57 Short-term Indicators:\n↑ 30D: 17.5% ↑ 30D: 20.1% Momentum: Positive\n↑ YTD: 29.3% ↓ YTD: -17.8% Sentiment: Positive\n↓ YOY: -17.3% ↓ YOY: -39.5% Fundamentals: Positive\nBi-Weekly Report\n• Ongoing Middle East turmoil continues to push VLCC rates higher - When it comes to energy security and geopolitical\nturmoil, tanker rates tend to react swiftly, and this time around has been no exception. VLCC spot rates have shown\nincreased strength compared to the previous month's levels, with the Baltic Exchange benchmark time charter\nequivalent earnings ($/day) surging by more than 100%, while the rates for the Middle East Gulf to the US Gulf route\nhave also increased by an impressive 180%.",
       "keywords": [
         "capesize",
         "vlcc",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1416,
+      "token_count": 1418,
       "section_type": "linked_pdf",
       "children": []
     }

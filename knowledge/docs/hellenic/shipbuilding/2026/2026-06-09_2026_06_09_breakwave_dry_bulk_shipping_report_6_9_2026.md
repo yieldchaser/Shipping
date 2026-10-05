@@ -4,6 +4,7 @@ commodities: []
 date: '2026-06-09'
 doc_id: hellenic_shipbuilding_2026-06-09_2026_06_09_breakwave_dry_bulk_shipping_report_6_9_2026
 document_type: shipbuilding_update
+is_error_page: false
 key_entities: []
 keywords:
 - capesize
@@ -33,7 +34,7 @@ regions:
 section_count: 1
 signals: {}
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2026/2026-06-09_breakwave-dry-bulk-shipping-report-6-9-2026.html
+source_path: corpus/02-hellenic/shipbuilding/2026/2026-06-09_breakwave-dry-bulk-shipping-report-6-9-2026.html
 source_stem: 2026-06-09_breakwave-dry-bulk-shipping-report-6-9-2026
 source_url: https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-6-9-2026
 summary: 'Main

@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1564,
-  "source_path": "reports/hellenic/shipbuilding/2026/2026-07-21_breakwave-dry-bulk-shipping-report-7-21-2026.html",
+  "token_count": 1566,
+  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-07-21_breakwave-dry-bulk-shipping-report-7-21-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-7-21-2026",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-07-21_breakwave-dry-bulk-shipping-report-7-21-2026_breakwavedryjuly212026report_16446bd1ca46.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-07-21_breakwave-dry-bulk-shipping-report-7-21-2026_breakwavedryjuly212026report_16446bd1ca46.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nJuly 21, 2026\n• Capesize Spot Rates Drop Fast as Inquiry Cools Down - Despite a recent\nShort-term Indicators\npullback that saw spot Capesize rates drop approximately 10,000 points within\nMomentum: Neutral\ndays, the fundamental outlook for the dry bulk shipping sector remains resilient,\nsupported by historically high absolute spot market levels and robust cargo Sentiment: Neutral\nvolumes. While Capesize performance has flattened year-over-year, Panamax Fundamentals: Neutral\nrates remain firmly above prior-year levels, cushioning the broader cooling of market\nsentiment.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-07-21_breakwave-dry-bulk-shipping-report-7-21-2026_breakwavedryjuly212026report_16446bd1ca46.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nJuly 21, 2026\n• Capesize Spot Rates Drop Fast as Inquiry Cools Down - Despite a recent\nShort-term Indicators\npullback that saw spot Capesize rates drop approximately 10,000 points within\nMomentum: Neutral\ndays, the fundamental outlook for the dry bulk shipping sector remains resilient,\nsupported by historically high absolute spot market levels and robust cargo Sentiment: Neutral\nvolumes. While Capesize performance has flattened year-over-year, Panamax Fundamentals: Neutral\nrates remain firmly above prior-year levels, cushioning the broader cooling of market\nsentiment.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1484,
+      "token_count": 1486,
       "section_type": "linked_pdf",
       "children": []
     }

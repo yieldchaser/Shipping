@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1860,
-  "source_path": "reports/hellenic/shipbuilding/2026/2026-03-24_breakwave-tanker-report-3-24-2026.html",
+  "token_count": 1862,
+  "source_path": "corpus/02-hellenic/shipbuilding/2026/2026-03-24_breakwave-tanker-report-3-24-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-3-24-2026",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2026-03-24_breakwave-tanker-report-3-24-2026_breakwavetankersmarch242026report_c8d5e2b547a2.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-03-24_breakwave-tanker-report-3-24-2026_breakwavetankersmarch242026report_c8d5e2b547a2.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nMarch 24, 2026\n• Straits Remain Unnavigable as Tanker Market Adjusts to Alternatives -\nShort-term Indicators\nTensions in the Middle East have continued to intensify and the situation is\nMomentum: Positive\nbecoming increasingly fragile. The Strait of Hormuz remains shut, and despite Iran's\nnarrative of selective transits, the signaling remains deliberately ambiguous, and Sentiment: Positive\nthere is still no clear pathway towards normalization.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-03-24_breakwave-tanker-report-3-24-2026_breakwavetankersmarch242026report_c8d5e2b547a2.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nMarch 24, 2026\n• Straits Remain Unnavigable as Tanker Market Adjusts to Alternatives -\nShort-term Indicators\nTensions in the Middle East have continued to intensify and the situation is\nMomentum: Positive\nbecoming increasingly fragile. The Strait of Hormuz remains shut, and despite Iran's\nnarrative of selective transits, the signaling remains deliberately ambiguous, and Sentiment: Positive\nthere is still no clear pathway towards normalization.",
       "keywords": [
         "vlcc",
         "suezmax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1779,
+      "token_count": 1781,
       "section_type": "linked_pdf",
       "children": []
     }

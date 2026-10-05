@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1763,
-  "source_path": "reports/hellenic/shipbuilding/2025/2025-07-29_breakwave-tanker-report-7-29-2025.html",
+  "token_count": 1765,
+  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-07-29_breakwave-tanker-report-7-29-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-7-29-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-07-29_breakwave-tanker-report-7-29-2025_breakwavetankersjuly292025report_883ed44bdf31.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-07-29_breakwave-tanker-report-7-29-2025_breakwavetankersjuly292025report_883ed44bdf31.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nJuly 29, 2025\n• VLCC Mid-July Gains Reverse as Charterers Regain Control - The VLCC freight\nShort-term Indicators\nmarket now seems to have shifted back to a charterer-led environment,\nMomentum: Neutral\nreversing the modest gains seen in mid-July. Rates in both the Arabian Gulf (AG)\nand West Africa (WAF) have come under renewed pressure as charterers regain Sentiment: Positive\ncontrol by slowing down the pace of their inquiries for early August cargoes.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-07-29_breakwave-tanker-report-7-29-2025_breakwavetankersjuly292025report_883ed44bdf31.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nJuly 29, 2025\n• VLCC Mid-July Gains Reverse as Charterers Regain Control - The VLCC freight\nShort-term Indicators\nmarket now seems to have shifted back to a charterer-led environment,\nMomentum: Neutral\nreversing the modest gains seen in mid-July. Rates in both the Arabian Gulf (AG)\nand West Africa (WAF) have come under renewed pressure as charterers regain Sentiment: Positive\ncontrol by slowing down the pace of their inquiries for early August cargoes.",
       "keywords": [
         "capesize",
         "vlcc",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1682,
+      "token_count": 1684,
       "section_type": "linked_pdf",
       "children": []
     }

@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1786,
-  "source_path": "reports/hellenic/shipbuilding/2025/2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-112.html",
+  "token_count": 1788,
+  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-112.html",
   "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-112",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-112_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-112_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nDry Cargo\nWith the Christmas holidays drawing near and the freight market easing, S&P activity has slowed down,\nas many prospective buyers are postponing their purchasing plans until the new year.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-112_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nDry Cargo\nWith the Christmas holidays drawing near and the freight market easing, S&P activity has slowed down,\nas many prospective buyers are postponing their purchasing plans until the new year.",
       "keywords": [
         "vlcc",
         "china",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1333,
+      "token_count": 1335,
       "section_type": "linked_pdf",
       "children": []
     }

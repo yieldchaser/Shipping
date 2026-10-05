@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1529,
-  "source_path": "reports/hellenic/shipbuilding/2025/2025-03-11_breakwave-tanker-report-3-11-2025.html",
+  "token_count": 1531,
+  "source_path": "corpus/02-hellenic/shipbuilding/2025/2025-03-11_breakwave-tanker-report-3-11-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-3-11-2025",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2025-03-11_breakwave-tanker-report-3-11-2025_breakwavetankersmarch112025report_78f0b3738f7e.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-03-11_breakwave-tanker-report-3-11-2025_breakwavetankersmarch112025report_78f0b3738f7e.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Report\nMarch 11, 2025\n• A Fragile Recovery in VLCCs Amid Macro Headwinds - The VLCC market Short-term Indicators\nappeared to have found a temporary floor in early March, with shipowners\nMomentum: Negative\nshowing renewed optimism for a potential recovery. Activity levels initially picked\nSentiment: Neutral\nup as charterers sought to cover outstanding second-decade stems and advance\nbookings for the third-decade program.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-03-11_breakwave-tanker-report-3-11-2025_breakwavetankersmarch112025report_78f0b3738f7e.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Report\nMarch 11, 2025\n• A Fragile Recovery in VLCCs Amid Macro Headwinds - The VLCC market Short-term Indicators\nappeared to have found a temporary floor in early March, with shipowners\nMomentum: Negative\nshowing renewed optimism for a potential recovery. Activity levels initially picked\nSentiment: Neutral\nup as charterers sought to cover outstanding second-decade stems and advance\nbookings for the third-decade program.",
       "keywords": [
         "vlcc",
         "suezmax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1444,
+      "token_count": 1446,
       "section_type": "linked_pdf",
       "children": []
     }

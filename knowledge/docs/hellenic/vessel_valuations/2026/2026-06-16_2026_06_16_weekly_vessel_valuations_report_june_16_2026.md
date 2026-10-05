@@ -10,6 +10,7 @@ commodities:
 date: '2026-06-16'
 doc_id: hellenic_vessel_valuations_2026-06-16_2026_06_16_weekly_vessel_valuations_report_june_16_2026
 document_type: asset_valuations
+is_error_page: false
 key_entities: []
 keywords:
 - capesize
@@ -32,8 +33,7 @@ linked_assets_skipped: 0
 market_tone: neutral
 numeric_observation_count: 17
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: Capesize Kerkis (176,900 DWT, 2007, Namura) sold to Chinese SS/DD Due
     for USD 25.5 mil, VV Value USD 25.3 mil.
@@ -41,10 +41,9 @@ numeric_observations:
   values:
   - 176900.0
   - 2007.0
-  - 25.5
-  - 25.3
-- &id002
-  section: Main
+  - 25500.0
+  - 25300.0
+- section: Main
   section_type: null
   source_line: Kamsarmax Themis (81,900 DWT, 2012, COSCO Dalian) sold by Lavinia Bulk
     for USD 18 mil, VV Value USD 18.2 mil.
@@ -53,9 +52,8 @@ numeric_observations:
   - 81900.0
   - 2012.0
   - 18.0
-  - 18.2
-- &id003
-  section: Main
+  - 18200.0
+- section: Main
   section_type: null
   source_line: Supramax AE Mars (53,600 DWT, 2006, Yangzhou Dayang) sold to Chinese
     Auction SS/DD Due for USD 9.05 mil, VV Value USD 10.1 mil.
@@ -63,10 +61,9 @@ numeric_observations:
   values:
   - 53600.0
   - 2006.0
-  - 9.05
-  - 10.1
-- &id004
-  section: Main
+  - 9050.0
+  - 10100.0
+- section: Main
   section_type: null
   source_line: Handysize Woohyun Sky (32,300 DWT, 2010, Samho Tongyoung) sold to Chinese
     for USD 10.5 mil, VV Value USD 11.2 mil.
@@ -74,10 +71,9 @@ numeric_observations:
   values:
   - 32300.0
   - 2010.0
-  - 10.5
-  - 11.2
-- &id005
-  section: Main
+  - 10500.0
+  - 11200.0
+- section: Main
   section_type: null
   source_line: VLCC Maxim (296,900 DWT, Jun 2011, Jiangnan Shanghai Changxing HI)
     sold to Sinokor for USD 82 mil, VV Value USD 80.38 mil.
@@ -86,9 +82,8 @@ numeric_observations:
   - 296900.0
   - 2011.0
   - 82.0
-  - 80.38
-- &id006
-  section: Main
+  - 80380.0
+- section: Main
   section_type: null
   source_line: Suezmax Brugge & Brest (156,900-157,100 DWT, 2023, Hyundai Samho HI)
     sold by CMB Tech in an en bloc deal for USD 220 mil, VV Value USD 219.96 mil.
@@ -99,8 +94,7 @@ numeric_observations:
   - 2023.0
   - 220.0
   - 219.96
-- &id007
-  section: Main
+- section: Main
   section_type: null
   source_line: Feedermax Alexander (966 TEU, Nov 2006, Yangfan Zhoushan) sold for
     USD 11.5 mil to European buyers, VV Value USD 9.79 mil.
@@ -108,10 +102,9 @@ numeric_observations:
   values:
   - 966.0
   - 2006.0
-  - 11.5
-  - 9.79
-- &id008
-  section: Main
+  - 11500.0
+  - 9790.0
+- section: Main
   section_type: null
   source_line: Panamax HT Capricorn (5,100 TEU, Jun 2010, Jingnan Shanghai) sold Inc
     TC for USD 48 mil, VV Value USD 43.2 mil.
@@ -120,16 +113,14 @@ numeric_observations:
   - 5100.0
   - 2010.0
   - 48.0
-  - 43.2
-- &id009
-  section: Main
+  - 43200.0
+- section: Main
   section_type: null
   source_line: 'Linked asset: 16620254.jpg'
   unit: null
   values:
   - 16620254.0
-- &id010
-  section: 'Linked asset: 2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg'
+- section: 'Linked asset: 2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg'
   section_type: linked_image_asset
   source_line: 'Linked image asset: 2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg'
   unit: null
@@ -141,55 +132,48 @@ numeric_observations:
   - -2026.0
   - 16620254.0
   - 4.0
-  - 858361.0
-- &id011
-  section: 'Linked asset: 2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg'
+  - 5858361.0
+- section: 'Linked asset: 2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg'
   section_type: linked_image_asset
   source_line: 'Image metadata: JPEG 600x279 mode=RGB'
   unit: null
   values:
   - 600.0
-  - 79.0
-- &id012
-  section: 'Linked asset: 2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg'
+  - 279.0
+- section: 'Linked asset: 2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg'
   section_type: linked_image_asset
   source_line: 'dpi: (72.0, 72.0)'
   unit: null
   values:
-  - 72.0
-  - 72.0
-- &id013
-  section: 'Linked asset: 2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg'
+  - 72000.0
+  - 72000.0
+- section: 'Linked asset: 2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg'
   section_type: linked_image_asset
   source_line: 16 June 2026 VV Mini Matrix - Weekly Change
   unit: null
   values:
   - 16.0
   - 2026.0
-- &id014
-  section: 'Linked asset: 2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg'
+- section: 'Linked asset: 2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg'
   section_type: linked_image_asset
   source_line: ': ™_ ~~ 8 eT " " " ao i ee ane us 1'
   unit: null
   values:
   - 8.0
   - 1.0
-- &id015
-  section: 'Linked asset: 2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg'
+- section: 'Linked asset: 2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg'
   section_type: linked_image_asset
   source_line: . i ~~ uo ™ = ~~ "~ ~ ) od an ms 1
   unit: null
   values:
   - 1.0
-- &id016
-  section: 'Linked asset: 2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg'
+- section: 'Linked asset: 2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg'
   section_type: linked_image_asset
   source_line: ss se ~~ vy ms "a - - ~ am _ an os 1
   unit: null
   values:
   - 1.0
-- &id017
-  section: 'Linked asset: 2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg'
+- section: 'Linked asset: 2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg'
   section_type: linked_image_asset
   source_line: il - na - 7 a oe ™ = " ~~ ms ee
   unit: null
@@ -205,25 +189,155 @@ section_count: 2
 signals:
   numeric_observation_count: 17
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
+  - section: Main
+    section_type: null
+    source_line: Capesize Kerkis (176,900 DWT, 2007, Namura) sold to Chinese SS/DD
+      Due for USD 25.5 mil, VV Value USD 25.3 mil.
+    unit: usd
+    values:
+    - 176900.0
+    - 2007.0
+    - 25.5
+    - 25.3
+  - section: Main
+    section_type: null
+    source_line: Kamsarmax Themis (81,900 DWT, 2012, COSCO Dalian) sold by Lavinia
+      Bulk for USD 18 mil, VV Value USD 18.2 mil.
+    unit: usd
+    values:
+    - 81900.0
+    - 2012.0
+    - 18.0
+    - 18.2
+  - section: Main
+    section_type: null
+    source_line: Supramax AE Mars (53,600 DWT, 2006, Yangzhou Dayang) sold to Chinese
+      Auction SS/DD Due for USD 9.05 mil, VV Value USD 10.1 mil.
+    unit: usd
+    values:
+    - 53600.0
+    - 2006.0
+    - 9.05
+    - 10.1
+  - section: Main
+    section_type: null
+    source_line: Handysize Woohyun Sky (32,300 DWT, 2010, Samho Tongyoung) sold to
+      Chinese for USD 10.5 mil, VV Value USD 11.2 mil.
+    unit: usd
+    values:
+    - 32300.0
+    - 2010.0
+    - 10.5
+    - 11.2
+  - section: Main
+    section_type: null
+    source_line: VLCC Maxim (296,900 DWT, Jun 2011, Jiangnan Shanghai Changxing HI)
+      sold to Sinokor for USD 82 mil, VV Value USD 80.38 mil.
+    unit: usd
+    values:
+    - 296900.0
+    - 2011.0
+    - 82.0
+    - 80.38
+  - section: Main
+    section_type: null
+    source_line: Suezmax Brugge & Brest (156,900-157,100 DWT, 2023, Hyundai Samho
+      HI) sold by CMB Tech in an en bloc deal for USD 220 mil, VV Value USD 219.96
+      mil.
+    unit: usd
+    values:
+    - 156900.0
+    - -157100.0
+    - 2023.0
+    - 220.0
+    - 219.96
+  - section: Main
+    section_type: null
+    source_line: Feedermax Alexander (966 TEU, Nov 2006, Yangfan Zhoushan) sold for
+      USD 11.5 mil to European buyers, VV Value USD 9.79 mil.
+    unit: usd
+    values:
+    - 966.0
+    - 2006.0
+    - 11.5
+    - 9.79
+  - section: Main
+    section_type: null
+    source_line: Panamax HT Capricorn (5,100 TEU, Jun 2010, Jingnan Shanghai) sold
+      Inc TC for USD 48 mil, VV Value USD 43.2 mil.
+    unit: usd
+    values:
+    - 5100.0
+    - 2010.0
+    - 48.0
+    - 43.2
+  - section: Main
+    section_type: null
+    source_line: 'Linked asset: 16620254.jpg'
+    unit: null
+    values:
+    - 16620254.0
+  - section: 'Linked asset: 2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg'
+    section_type: linked_image_asset
+    source_line: 'Linked image asset: 2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg'
+    unit: null
+    values:
+    - 2026.0
+    - -6.0
+    - -16.0
+    - 16.0
+    - -2026.0
+    - 16620254.0
+    - 4.0
+    - 858361.0
+  - section: 'Linked asset: 2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg'
+    section_type: linked_image_asset
+    source_line: 'Image metadata: JPEG 600x279 mode=RGB'
+    unit: null
+    values:
+    - 600.0
+    - 79.0
+  - section: 'Linked asset: 2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg'
+    section_type: linked_image_asset
+    source_line: 'dpi: (72.0, 72.0)'
+    unit: null
+    values:
+    - 72.0
+    - 72.0
+  - section: 'Linked asset: 2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg'
+    section_type: linked_image_asset
+    source_line: 16 June 2026 VV Mini Matrix - Weekly Change
+    unit: null
+    values:
+    - 16.0
+    - 2026.0
+  - section: 'Linked asset: 2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg'
+    section_type: linked_image_asset
+    source_line: ': ™_ ~~ 8 eT " " " ao i ee ane us 1'
+    unit: null
+    values:
+    - 8.0
+    - 1.0
+  - section: 'Linked asset: 2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg'
+    section_type: linked_image_asset
+    source_line: . i ~~ uo ™ = ~~ "~ ~ ) od an ms 1
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg'
+    section_type: linked_image_asset
+    source_line: ss se ~~ vy ms "a - - ~ am _ an os 1
+    unit: null
+    values:
+    - 1.0
+  - section: 'Linked asset: 2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg'
+    section_type: linked_image_asset
+    source_line: il - na - 7 a oe ™ = " ~~ ms ee
+    unit: null
+    values:
+    - 7.0
 source: hellenic
-source_path: reports/hellenic/vessel_valuations/2026/2026-06-16_weekly-vessel-valuations-report-june-16-2026.html
+source_path: corpus/02-hellenic/vessel_valuations/2026/2026-06-16_weekly-vessel-valuations-report-june-16-2026.html
 source_stem: 2026-06-16_weekly-vessel-valuations-report-june-16-2026
 source_url: https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-june-16-2026
 summary: 'Main
@@ -269,7 +383,7 @@ Panamax HT Capricorn (5,100 TEU, Jun 2010, Jingnan Shanghai) sold Inc TC for USD
 Linked asset: 16620254.jpg
 
 ## Linked asset: 2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg
-Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg
+Source asset: corpus/02-hellenic/vessel_valuations/2026/assets/2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg
 
 Linked image asset: 2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg
 

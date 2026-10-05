@@ -4,6 +4,7 @@ commodities: []
 date: '2025-11-21'
 doc_id: hellenic_shipbuilding_2025-11-21_2025_11_21_clarksons_platou_hellas_snp_weekly_bulletin
 document_type: shipbuilding_update
+is_error_page: false
 key_entities: []
 keywords:
 - capesize
@@ -26,8 +27,7 @@ linked_assets_skipped: 0
 market_tone: neutral
 numeric_observation_count: 47
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: To begin with, on the larger sizes, the Mini-cape NBA REMBRANDT (ABT
     107KDWT, 2012, OSHIMA) was sold for a price of USD 18.7 mill., to clients of GCL
@@ -36,9 +36,8 @@ numeric_observations:
   values:
   - 107.0
   - 2012.0
-  - 18.7
-- &id002
-  section: Main
+  - 18700.0
+- section: Main
   section_type: null
   source_line: Furthermore, on the Panamax sector, a new sale of a Japanese vessel
     has emerged, the YASA UNITY (ABT 75KDWT, 2006, SANOYAS HISHINO), which was reported
@@ -53,8 +52,7 @@ numeric_observations:
   - 2014.0
   - 21.0
   - 2026.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: Finally, the Handysize sector seems to remain the one with the most
     activity, as we have noticed three transactions that have taken place. The SATURNIA
@@ -64,15 +62,14 @@ numeric_observations:
   values:
   - 38.0
   - 2015.0
-  - 18.5
+  - 18500.0
   - 37.0
   - 2013.0
   - 14.0
   - 32.0
   - 2012.0
   - 9.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: On the tankers, the most significant transaction has been the resale
     of the two Atlas' Suezmaxes delivering ex Daehan, S. Korea in January 2026, the
@@ -85,8 +82,7 @@ numeric_observations:
   - 1.0
   - 2026.0
   - 97.0
-- &id005
-  section: Main
+- section: Main
   section_type: null
   source_line: On the older tonnage, the 2 x Korean MR tankers PS QUEEN & PS DREAM
     (ABT 51KDWT, 2006, STX) have been sold enbloc for levels slightly below USD 28
@@ -97,8 +93,7 @@ numeric_observations:
   - 51.0
   - 2006.0
   - 28.0
-- &id006
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: To begin with, on the larger sizes, the Mini-cape NBA REMBRANDT (ABT
     107KDWT, 2012, OSHIMA) was
@@ -106,15 +101,13 @@ numeric_observations:
   values:
   - 107.0
   - 2012.0
-- &id007
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: sold for a price of USD 18.7 mill., to clients of GCL Shipping.
   unit: usd
   values:
-  - 18.7
-- &id008
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+  - 18700.0
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: (ABT 75KDWT, 2006, SANOYAS HISHINO), which was reported sold to undisclosed
     buyers at low USD 9
@@ -123,8 +116,7 @@ numeric_observations:
   - 75.0
   - 2006.0
   - 9.0
-- &id009
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: mill., while, on the Ultramax sector, the SANTA MARIA (ABT 61KDWT,
     2014, IWAGI ZOSEN) achieved levels
@@ -132,16 +124,14 @@ numeric_observations:
   values:
   - 61.0
   - 2014.0
-- &id010
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: of low USD 21 mill. basis forward delivery in June 2026.
   unit: usd
   values:
   - 21.0
   - 2026.0
-- &id011
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: transactions that have taken place. The SATURNIA (ABT 38KDWT, 2015,
     JIANGMEN NANYANG) was
@@ -149,26 +139,23 @@ numeric_observations:
   values:
   - 38.0
   - 2015.0
-- &id012
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: acquired by Pioneer Marine for USD 18.5 mill. The FEDERAL YELLOWSTONE
     (ABT 37KDWT, 2013, ZHEJIANG
   unit: usd
   values:
-  - 18.5
+  - 18500.0
   - 37.0
   - 2013.0
-- &id013
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: YANGFAN) has been committed to Greek interests for levels of high USD
     14 mill. and, lastly, one more -
   unit: usd
   values:
   - 14.0
-- &id014
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: slightly smaller- Handysize, the YANGTZE GRACE (ABT 32KDWT, 2012, JIANGMEN
     NANYANG) has been
@@ -176,31 +163,27 @@ numeric_observations:
   values:
   - 32.0
   - 2012.0
-- &id015
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: reported sold for high USD 9 mill to Chinese buyers.
   unit: usd
   values:
   - 9.0
-- &id016
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: Lastly on Handies, we await to see the outcome of negotiations on the
     "OCEAN TACT" (ABT 36K DWT,
   unit: null
   values:
   - 36.0
-- &id017
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: 2019, SHIKOKU, SCRUBBER) which invited offers on Tuesday whereby owners
     were hoping to achieve
   unit: null
   values:
   - 2019.0
-- &id018
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: delivering ex Daehan, S. Korea in January 2026, the VIKING STAR & NORTH
     STAR (ABT 159K DWT, DAEHAN,
@@ -208,8 +191,7 @@ numeric_observations:
   values:
   - 2026.0
   - 159.0
-- &id019
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: DELY 1/2026), for a price of USD 97 m. each to Okeanis Eco Tankers.
   unit: usd
@@ -217,8 +199,7 @@ numeric_observations:
   - 1.0
   - 2026.0
   - 97.0
-- &id020
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: On the older tonnage, 2 x Korean blt MR tankers PS QUEEN & PS DREAM
     (ABT 51KDWT, 2006, STX) have
@@ -227,15 +208,13 @@ numeric_observations:
   - 2.0
   - 51.0
   - 2006.0
-- &id021
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: been sold enbloc for levels slightly below USD 28 mill. to Indian buyers.
   unit: usd
   values:
   - 28.0
-- &id022
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: NBA REMBRANDT 107,236 2012 OSHIMA Mitsubishi 6UEC60LSII SS 10/30 USD
     18.7 M GCL
@@ -244,18 +223,18 @@ numeric_observations:
   - 107236.0
   - 2012.0
   - 6.0
+  - 60.0
   - 10.0
   - 30.0
-- &id023
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+  - 18700.0
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: BWTS FITTED DD 10/28
   unit: null
   values:
   - 10.0
   - 28.0
-- &id024
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: YASA UNITY 75,621 2006 SANOYAS HISHINO B&W 7S50MC-C8.1 SS 04/26 LOW
     USD 9 M U/D
@@ -264,27 +243,26 @@ numeric_observations:
   - 75621.0
   - 2006.0
   - 7.0
-  - 1.0
+  - 50.0
+  - 8100.0
   - 4.0
   - 26.0
-- &id025
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: BWTS FITTED DD 04/26
   unit: null
   values:
   - 4.0
   - 26.0
-- &id026
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: B&W 6S50ME-C8.2
   unit: null
   values:
   - 6.0
-  - 2.0
-- &id027
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+  - 50.0
+  - 8200.0
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: SANTA MARIA 61,323 2014 IWAGI ZOSEN 4X30T SS 11/28 LOW USD 21 M U/D
   unit: usd
@@ -292,26 +270,25 @@ numeric_observations:
   - 61323.0
   - 2014.0
   - 4.0
+  - 30.0
   - 11.0
   - 28.0
-- &id028
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: DD 11/26
   unit: null
   values:
   - 11.0
   - 26.0
-- &id029
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: B&W 5S50ME-B9.2
   unit: null
   values:
   - 5.0
-  - 2.0
-- &id030
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+  - 50.0
+  - 9200.0
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: SATURNIA 38,947 2015 JIANGMEN NANYANG 4X30T SS 10/30 USD 18.5 M PIONEER
   unit: usd
@@ -319,26 +296,26 @@ numeric_observations:
   - 38947.0
   - 2015.0
   - 4.0
+  - 30.0
   - 10.0
   - 30.0
-- &id031
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+  - 18500.0
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: DD 10/28 MARINE
   unit: null
   values:
   - 10.0
   - 28.0
-- &id032
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: FEDERAL B&W 5S50ME-B9.2
   unit: null
   values:
   - 5.0
-  - 2.0
-- &id033
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+  - 50.0
+  - 9200.0
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: 37,150 2013 ZHEJIANG YANGFAN 4X30T SS 06/29 HIGH USD 14 M GREEKS
   unit: usd
@@ -346,27 +323,25 @@ numeric_observations:
   - 37150.0
   - 2013.0
   - 4.0
+  - 30.0
   - 6.0
   - 29.0
-- &id034
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: YELLOWSTONE DD 06/27
   unit: null
   values:
   - 6.0
   - 27.0
-- &id035
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: B&W 6S42MC7.2
   unit: null
   values:
   - 6.0
-  - 2.0
-  - 2.0
-- &id036
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+  - 42.0
+  - 7200.0
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: YANGTZE GRACE 32,503 2012 JIANGMEN NANYANG 4X30T SS 06/27 HIGH USD
     9 M CHINESE
@@ -375,18 +350,17 @@ numeric_observations:
   - 32503.0
   - 2012.0
   - 4.0
+  - 30.0
   - 6.0
   - 27.0
-- &id037
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: DD 06/27
   unit: null
   values:
   - 6.0
   - 27.0
-- &id038
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: VIKING STAR 157.000 2026 DAEHAN B&W 6G70ME-C10.5 -
   unit: null
@@ -394,16 +368,15 @@ numeric_observations:
   - 157.0
   - 2026.0
   - 6.0
-  - 0.5
-- &id039
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+  - 70.0
+  - 10500.0
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: USD 194 M OKEANIS
   unit: usd
   values:
   - 194.0
-- &id040
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: NORTH STAR 157.000 2026 DAEHAN B&W 6G70ME-C10.5 -
   unit: null
@@ -411,9 +384,9 @@ numeric_observations:
   - 157.0
   - 2026.0
   - 6.0
-  - 0.5
-- &id041
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+  - 70.0
+  - 10500.0
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: PS QUEEN 51,218 2006 STX B&W 6S50MC-C8.1 SS 03/30
   unit: null
@@ -421,19 +394,18 @@ numeric_observations:
   - 51218.0
   - 2006.0
   - 6.0
-  - 1.0
+  - 50.0
+  - 8100.0
   - 3.0
   - 30.0
-- &id042
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: BWTS FITTED DD 03/28
   unit: null
   values:
   - 3.0
   - 28.0
-- &id043
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: PS DREAM 51,218 2006 STX B&W 6S50MC-C8.1 SS 03/30 (En bloc)
   unit: null
@@ -441,19 +413,18 @@ numeric_observations:
   - 51218.0
   - 2006.0
   - 6.0
-  - 1.0
+  - 50.0
+  - 8100.0
   - 3.0
   - 30.0
-- &id044
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: 284 Kifissias Avenue ("Clarksons") for general information purposes.
     The Information is drawn from Clarksons' database and other sources. Clarksons
   unit: null
   values:
   - 284.0
-- &id045
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: 152 32 Information extracted from the databases of other maritime data
     collection agencies may differ from the Information extracted
@@ -461,8 +432,7 @@ numeric_observations:
   values:
   - 152.0
   - 32.0
-- &id046
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: Direct +(30) 210 458 6700 the Information is not an endorsement of
     any commercial policies and/or any conclusions by Clarksons and its 'connected
@@ -472,8 +442,7 @@ numeric_observations:
   - 210.0
   - 458.0
   - 6700.0
-- &id047
-  section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+- section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
   section_type: linked_pdf
   source_line: Fax +(30) 210 458 6799
   unit: null
@@ -491,55 +460,418 @@ section_count: 2
 signals:
   numeric_observation_count: 47
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
-  - *id030
-  - *id031
-  - *id032
-  - *id033
-  - *id034
-  - *id035
-  - *id036
-  - *id037
-  - *id038
-  - *id039
-  - *id040
-  - *id041
-  - *id042
-  - *id043
-  - *id044
-  - *id045
-  - *id046
-  - *id047
+  - section: Main
+    section_type: null
+    source_line: To begin with, on the larger sizes, the Mini-cape NBA REMBRANDT (ABT
+      107KDWT, 2012, OSHIMA) was sold for a price of USD 18.7 mill., to clients of
+      GCL Shipping.
+    unit: usd
+    values:
+    - 107.0
+    - 2012.0
+    - 18.7
+  - section: Main
+    section_type: null
+    source_line: Furthermore, on the Panamax sector, a new sale of a Japanese vessel
+      has emerged, the YASA UNITY (ABT 75KDWT, 2006, SANOYAS HISHINO), which was reported
+      sold to undisclosed buyers at low USD 9 mill., while, on the Ultramax sector,
+      the SANTA MARIA (ABT 61KDWT, 2
+    unit: usd
+    values:
+    - 75.0
+    - 2006.0
+    - 9.0
+    - 61.0
+    - 2014.0
+    - 21.0
+    - 2026.0
+  - section: Main
+    section_type: null
+    source_line: Finally, the Handysize sector seems to remain the one with the most
+      activity, as we have noticed three transactions that have taken place. The SATURNIA
+      (ABT 38KDWT, 2015, JIANGMEN NANYANG) was acquired by Pioneer Marine for USD
+      18.5 mill. The FEDERAL YELLOWSTO
+    unit: usd
+    values:
+    - 38.0
+    - 2015.0
+    - 18.5
+    - 37.0
+    - 2013.0
+    - 14.0
+    - 32.0
+    - 2012.0
+    - 9.0
+  - section: Main
+    section_type: null
+    source_line: On the tankers, the most significant transaction has been the resale
+      of the two Atlas' Suezmaxes delivering ex Daehan, S. Korea in January 2026,
+      the VIKING STAR & NORTH STAR (ABT 159K DWT, DAEHAN, DELY 1/2026), for a price
+      of USD 97 mill. each to Okeanis Eco T
+    unit: usd
+    values:
+    - 2026.0
+    - 159.0
+    - 1.0
+    - 2026.0
+    - 97.0
+  - section: Main
+    section_type: null
+    source_line: On the older tonnage, the 2 x Korean MR tankers PS QUEEN & PS DREAM
+      (ABT 51KDWT, 2006, STX) have been sold enbloc for levels slightly below USD
+      28 mill. to Indian buyers.
+    unit: usd
+    values:
+    - 2.0
+    - 51.0
+    - 2006.0
+    - 28.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: To begin with, on the larger sizes, the Mini-cape NBA REMBRANDT (ABT
+      107KDWT, 2012, OSHIMA) was
+    unit: null
+    values:
+    - 107.0
+    - 2012.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: sold for a price of USD 18.7 mill., to clients of GCL Shipping.
+    unit: usd
+    values:
+    - 18.7
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: (ABT 75KDWT, 2006, SANOYAS HISHINO), which was reported sold to undisclosed
+      buyers at low USD 9
+    unit: usd
+    values:
+    - 75.0
+    - 2006.0
+    - 9.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: mill., while, on the Ultramax sector, the SANTA MARIA (ABT 61KDWT,
+      2014, IWAGI ZOSEN) achieved levels
+    unit: null
+    values:
+    - 61.0
+    - 2014.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: of low USD 21 mill. basis forward delivery in June 2026.
+    unit: usd
+    values:
+    - 21.0
+    - 2026.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: transactions that have taken place. The SATURNIA (ABT 38KDWT, 2015,
+      JIANGMEN NANYANG) was
+    unit: null
+    values:
+    - 38.0
+    - 2015.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: acquired by Pioneer Marine for USD 18.5 mill. The FEDERAL YELLOWSTONE
+      (ABT 37KDWT, 2013, ZHEJIANG
+    unit: usd
+    values:
+    - 18.5
+    - 37.0
+    - 2013.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: YANGFAN) has been committed to Greek interests for levels of high
+      USD 14 mill. and, lastly, one more -
+    unit: usd
+    values:
+    - 14.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: slightly smaller- Handysize, the YANGTZE GRACE (ABT 32KDWT, 2012,
+      JIANGMEN NANYANG) has been
+    unit: null
+    values:
+    - 32.0
+    - 2012.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: reported sold for high USD 9 mill to Chinese buyers.
+    unit: usd
+    values:
+    - 9.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: Lastly on Handies, we await to see the outcome of negotiations on
+      the "OCEAN TACT" (ABT 36K DWT,
+    unit: null
+    values:
+    - 36.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: 2019, SHIKOKU, SCRUBBER) which invited offers on Tuesday whereby
+      owners were hoping to achieve
+    unit: null
+    values:
+    - 2019.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: delivering ex Daehan, S. Korea in January 2026, the VIKING STAR &
+      NORTH STAR (ABT 159K DWT, DAEHAN,
+    unit: null
+    values:
+    - 2026.0
+    - 159.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: DELY 1/2026), for a price of USD 97 m. each to Okeanis Eco Tankers.
+    unit: usd
+    values:
+    - 1.0
+    - 2026.0
+    - 97.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: On the older tonnage, 2 x Korean blt MR tankers PS QUEEN & PS DREAM
+      (ABT 51KDWT, 2006, STX) have
+    unit: null
+    values:
+    - 2.0
+    - 51.0
+    - 2006.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: been sold enbloc for levels slightly below USD 28 mill. to Indian
+      buyers.
+    unit: usd
+    values:
+    - 28.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: NBA REMBRANDT 107,236 2012 OSHIMA Mitsubishi 6UEC60LSII SS 10/30
+      USD 18.7 M GCL
+    unit: usd
+    values:
+    - 107236.0
+    - 2012.0
+    - 6.0
+    - 10.0
+    - 30.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: BWTS FITTED DD 10/28
+    unit: null
+    values:
+    - 10.0
+    - 28.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: YASA UNITY 75,621 2006 SANOYAS HISHINO B&W 7S50MC-C8.1 SS 04/26 LOW
+      USD 9 M U/D
+    unit: usd
+    values:
+    - 75621.0
+    - 2006.0
+    - 7.0
+    - 1.0
+    - 4.0
+    - 26.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: BWTS FITTED DD 04/26
+    unit: null
+    values:
+    - 4.0
+    - 26.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: B&W 6S50ME-C8.2
+    unit: null
+    values:
+    - 6.0
+    - 2.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: SANTA MARIA 61,323 2014 IWAGI ZOSEN 4X30T SS 11/28 LOW USD 21 M U/D
+    unit: usd
+    values:
+    - 61323.0
+    - 2014.0
+    - 4.0
+    - 11.0
+    - 28.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: DD 11/26
+    unit: null
+    values:
+    - 11.0
+    - 26.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: B&W 5S50ME-B9.2
+    unit: null
+    values:
+    - 5.0
+    - 2.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: SATURNIA 38,947 2015 JIANGMEN NANYANG 4X30T SS 10/30 USD 18.5 M PIONEER
+    unit: usd
+    values:
+    - 38947.0
+    - 2015.0
+    - 4.0
+    - 10.0
+    - 30.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: DD 10/28 MARINE
+    unit: null
+    values:
+    - 10.0
+    - 28.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: FEDERAL B&W 5S50ME-B9.2
+    unit: null
+    values:
+    - 5.0
+    - 2.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: 37,150 2013 ZHEJIANG YANGFAN 4X30T SS 06/29 HIGH USD 14 M GREEKS
+    unit: usd
+    values:
+    - 37150.0
+    - 2013.0
+    - 4.0
+    - 6.0
+    - 29.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: YELLOWSTONE DD 06/27
+    unit: null
+    values:
+    - 6.0
+    - 27.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: B&W 6S42MC7.2
+    unit: null
+    values:
+    - 6.0
+    - 2.0
+    - 2.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: YANGTZE GRACE 32,503 2012 JIANGMEN NANYANG 4X30T SS 06/27 HIGH USD
+      9 M CHINESE
+    unit: usd
+    values:
+    - 32503.0
+    - 2012.0
+    - 4.0
+    - 6.0
+    - 27.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: DD 06/27
+    unit: null
+    values:
+    - 6.0
+    - 27.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: VIKING STAR 157.000 2026 DAEHAN B&W 6G70ME-C10.5 -
+    unit: null
+    values:
+    - 157.0
+    - 2026.0
+    - 6.0
+    - 0.5
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: USD 194 M OKEANIS
+    unit: usd
+    values:
+    - 194.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: NORTH STAR 157.000 2026 DAEHAN B&W 6G70ME-C10.5 -
+    unit: null
+    values:
+    - 157.0
+    - 2026.0
+    - 6.0
+    - 0.5
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: PS QUEEN 51,218 2006 STX B&W 6S50MC-C8.1 SS 03/30
+    unit: null
+    values:
+    - 51218.0
+    - 2006.0
+    - 6.0
+    - 1.0
+    - 3.0
+    - 30.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: BWTS FITTED DD 03/28
+    unit: null
+    values:
+    - 3.0
+    - 28.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: PS DREAM 51,218 2006 STX B&W 6S50MC-C8.1 SS 03/30 (En bloc)
+    unit: null
+    values:
+    - 51218.0
+    - 2006.0
+    - 6.0
+    - 1.0
+    - 3.0
+    - 30.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: 284 Kifissias Avenue ("Clarksons") for general information purposes.
+      The Information is drawn from Clarksons' database and other sources. Clarksons
+    unit: null
+    values:
+    - 284.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: 152 32 Information extracted from the databases of other maritime
+      data collection agencies may differ from the Information extracted
+    unit: null
+    values:
+    - 152.0
+    - 32.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: Direct +(30) 210 458 6700 the Information is not an endorsement of
+      any commercial policies and/or any conclusions by Clarksons and its 'connected
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6700.0
+  - section: 'Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf'
+    section_type: linked_pdf
+    source_line: Fax +(30) 210 458 6799
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6799.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2025/2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin.html
+source_path: corpus/02-hellenic/shipbuilding/2025/2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin.html
 source_stem: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin
 source_url: https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin
 summary: 'Main
@@ -593,7 +925,7 @@ On the older tonnage, the 2 x Korean MR tankers PS QUEEN & PS DREAM (ABT 51KDWT,
 Source: Clarkson Platou (Hellas) ltd
 
 ## Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf
-Source asset: reports/hellenic/shipbuilding/pdfs/2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf
+Source asset: corpus/02-hellenic/shipbuilding/pdfs/2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf
 
 [Page 1]
 Clarkson Hellas Ltd.

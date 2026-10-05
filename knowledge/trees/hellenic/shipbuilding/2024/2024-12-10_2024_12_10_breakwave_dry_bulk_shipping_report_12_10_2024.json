@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1474,
-  "source_path": "reports/hellenic/shipbuilding/2024/2024-12-10_breakwave-dry-bulk-shipping-report-12-10-2024.html",
+  "token_count": 1476,
+  "source_path": "corpus/02-hellenic/shipbuilding/2024/2024-12-10_breakwave-dry-bulk-shipping-report-12-10-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-12-10-2024",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2024-12-10_breakwave-dry-bulk-shipping-report-12-10-2024_breakwavedrydecember102024report_4ce7964d7a65.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2024-12-10_breakwave-dry-bulk-shipping-report-12-10-2024_breakwavedrydecember102024report_4ce7964d7a65.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nDecember 10, 2024\nBreakwave Dry Futures Index: 1,053 Baltic Dry Index (spot): 1,168 Short-term Indicators:\n↓ 30D: -29.4% ↓ 30D: -21.9% Momentum: Negative\n↓ YTD: -29.7% ↓ YTD: -44.2% Sentiment: Negative\n↓ YOY: -29.8% ↓ YOY: -53.0% Fundamentals: Neutral\nBi-Weekly Report\n• A December to Remember for Dry Bulk, as Capesize Rates Collapse - The anticipated strong finish to the year now\nfeels like a distant memory, as Capesize spot rates have fallen to their lowest levels for this period in many years,\nbarring the COVID-19 anomaly. This surprising decline, which even exceeded our conservative forecast of relative\nstability, contrasts sharply with signs of recovery in Panamax spot rates, albeit from historically low levels.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2024-12-10_breakwave-dry-bulk-shipping-report-12-10-2024_breakwavedrydecember102024report_4ce7964d7a65.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nDecember 10, 2024\nBreakwave Dry Futures Index: 1,053 Baltic Dry Index (spot): 1,168 Short-term Indicators:\n↓ 30D: -29.4% ↓ 30D: -21.9% Momentum: Negative\n↓ YTD: -29.7% ↓ YTD: -44.2% Sentiment: Negative\n↓ YOY: -29.8% ↓ YOY: -53.0% Fundamentals: Neutral\nBi-Weekly Report\n• A December to Remember for Dry Bulk, as Capesize Rates Collapse - The anticipated strong finish to the year now\nfeels like a distant memory, as Capesize spot rates have fallen to their lowest levels for this period in many years,\nbarring the COVID-19 anomaly. This surprising decline, which even exceeded our conservative forecast of relative\nstability, contrasts sharply with signs of recovery in Panamax spot rates, albeit from historically low levels.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1391,
+      "token_count": 1393,
       "section_type": "linked_pdf",
       "children": []
     }

@@ -4,6 +4,7 @@ commodities: []
 date: '2026-03-21'
 doc_id: hellenic_shipbuilding_2026-03-21_2026_03_21_clarksons_platou_hellas_snp_weekly_bulletin_126
 document_type: shipbuilding_update
+is_error_page: false
 key_entities: []
 keywords:
 - panamax
@@ -26,8 +27,7 @@ linked_assets_skipped: 0
 market_tone: constructive
 numeric_observation_count: 29
 numeric_observations:
-- &id001
-  section: Main
+- section: Main
   section_type: null
   source_line: In the Kamsarmax segment, after inviting offers on Monday, the MG MERCURY
     (ABT 85K DWT, 2016, IMABARI, BEAM 35 M) was acquired by European interests at
@@ -37,8 +37,7 @@ numeric_observations:
   - 85.0
   - 2016.0
   - 28.0
-- &id002
-  section: Main
+- section: Main
   section_type: null
   source_line: On the Panamax front, the BARWON (ABT 78K DWT, 2015, SASEBO, ECO ME)
     invited offers earlier this week, attracting interest from up to 5 buyers, and
@@ -48,8 +47,7 @@ numeric_observations:
   - 78.0
   - 2015.0
   - 5.0
-- &id003
-  section: Main
+- section: Main
   section_type: null
   source_line: On the geared segment, we understand that a 2021 Japanese Ultramax
     was sold for region USD 37 m, whilst the Supramax FIGEAC (ABT 53K DWT, 2011, CHENGXI)
@@ -63,8 +61,7 @@ numeric_observations:
   - 2011.0
   - 55.0
   - 2005.0
-- &id004
-  section: Main
+- section: Main
   section_type: null
   source_line: The Handy MR CHRYSOPIGI (ABT 38K DWT, 2006, GUANGZHOU) was sold at
     USD 9 m, basis surveys promptly due.
@@ -72,8 +69,7 @@ numeric_observations:
   values:
   - 38.0
   - 2006.0
-- &id005
-  section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+- section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
   section_type: linked_pdf
   source_line: In the Kamsarmax segment, after inviting offers on Monday, the MG MERCURY
     (ABT 85K DWT, 2016,
@@ -81,16 +77,14 @@ numeric_observations:
   values:
   - 85.0
   - 2016.0
-- &id006
-  section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+- section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
   section_type: linked_pdf
   source_line: IMABARI, BEAM 35 M) was acquired by European interests at levels in
     the low USD 28's m.
   unit: usd
   values:
   - 28.0
-- &id007
-  section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+- section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
   section_type: linked_pdf
   source_line: On the Panamax front, the BARWON (ABT 78K DWT, 2015, SASEBO, ECO ME)
     invited offers earlier this
@@ -98,16 +92,14 @@ numeric_observations:
   values:
   - 78.0
   - 2015.0
-- &id008
-  section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+- section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
   section_type: linked_pdf
   source_line: week, attracting interest from up to 5 buyers, and has now been reported
     sold for xs USD 26 m.
   unit: usd
   values:
   - 5.0
-- &id009
-  section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+- section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
   section_type: linked_pdf
   source_line: On the geared segment, we understand that a 2021 Japanese Ultramax
     was sold for region USD 37 m,
@@ -115,8 +107,7 @@ numeric_observations:
   values:
   - 2021.0
   - 37.0
-- &id010
-  section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+- section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
   section_type: linked_pdf
   source_line: whilst the Supramax FIGEAC (ABT 53K DWT, 2011, CHENGXI) was sold for
     a price close to USD 12 m, basis
@@ -124,8 +115,7 @@ numeric_observations:
   values:
   - 53.0
   - 2011.0
-- &id011
-  section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+- section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
   section_type: linked_pdf
   source_line: surveys promptly due. Meanwhile, the older SOMNATH (ABT 55K DWT, 2005,
     OSHIMA) was sold at region
@@ -133,8 +123,7 @@ numeric_observations:
   values:
   - 55.0
   - 2005.0
-- &id012
-  section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+- section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
   section_type: linked_pdf
   source_line: The Handy MR CHRYSOPIGI (ABT 38K DWT, 2006, GUANGZHOU) was sold at
     USD 9 m, basis surveys
@@ -142,16 +131,15 @@ numeric_observations:
   values:
   - 38.0
   - 2006.0
-- &id013
-  section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+- section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
   section_type: linked_pdf
   source_line: B&W 6S60ME-C7.1
   unit: null
   values:
   - 6.0
-  - 1.0
-- &id014
-  section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+  - 60.0
+  - 7100.0
+- section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
   section_type: linked_pdf
   source_line: MG MERCURY 84,790 2016 IMABARI 35 M BEAM SS 08/26 LOW USD 28 M EUROPEAN
   unit: usd
@@ -160,16 +148,14 @@ numeric_observations:
   - 2016.0
   - 8.0
   - 26.0
-- &id015
-  section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+- section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
   section_type: linked_pdf
   source_line: DD 08/26
   unit: null
   values:
   - 8.0
   - 26.0
-- &id016
-  section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+- section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
   section_type: linked_pdf
   source_line: BARWON 78,182 2015 SASEBO B&W 6S60ME-C8.2 SS 03/30 XS USD 26 M U/D
   unit: usd
@@ -177,27 +163,26 @@ numeric_observations:
   - 78182.0
   - 2015.0
   - 6.0
-  - 2.0
+  - 60.0
+  - 8200.0
   - 3.0
   - 30.0
-- &id017
-  section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+- section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
   section_type: linked_pdf
   source_line: BWTS FITTED DD 01/28
   unit: null
   values:
   - 1.0
   - 28.0
-- &id018
-  section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+- section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
   section_type: linked_pdf
   source_line: B&W 6S50MC-C8.1
   unit: null
   values:
   - 6.0
-  - 1.0
-- &id019
-  section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+  - 50.0
+  - 8100.0
+- section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
   section_type: linked_pdf
   source_line: SOMNATH 55,707 2005 OSHIMA 4X30T SS 02/29 RGN USD 9 M U/D
   unit: usd
@@ -205,26 +190,25 @@ numeric_observations:
   - 55707.0
   - 2005.0
   - 4.0
+  - 30.0
   - 2.0
   - 29.0
-- &id020
-  section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+- section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
   section_type: linked_pdf
   source_line: DD 11/26
   unit: null
   values:
   - 11.0
   - 26.0
-- &id021
-  section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+- section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
   section_type: linked_pdf
   source_line: B&W 6S50MC-C8.2
   unit: null
   values:
   - 6.0
-  - 2.0
-- &id022
-  section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+  - 50.0
+  - 8200.0
+- section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
   section_type: linked_pdf
   source_line: FIGEAC 53,177 2011 CHENGXI 4X30T SS 04/26 CLOSE TO USD 12 M U/D
   unit: usd
@@ -232,18 +216,17 @@ numeric_observations:
   - 53177.0
   - 2011.0
   - 4.0
+  - 30.0
   - 4.0
   - 26.0
-- &id023
-  section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+- section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
   section_type: linked_pdf
   source_line: DD 04/26
   unit: null
   values:
   - 4.0
   - 26.0
-- &id024
-  section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+- section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
   section_type: linked_pdf
   source_line: CHRYSOPIGI 38,554 2006 GUANGZHOU B.&W. 6S50MC-C8.1 SS 04/26 USD 9 M
     U/D
@@ -252,27 +235,25 @@ numeric_observations:
   - 38554.0
   - 2006.0
   - 6.0
-  - 1.0
+  - 50.0
+  - 8100.0
   - 4.0
   - 26.0
-- &id025
-  section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+- section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
   section_type: linked_pdf
   source_line: BWTS FITTED DD 04/26
   unit: null
   values:
   - 4.0
   - 26.0
-- &id026
-  section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+- section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
   section_type: linked_pdf
   source_line: 284 Kifissias Avenue ("Clarksons") for general information purposes.
     The Information is drawn from Clarksons' database and other sources. Clarksons
   unit: null
   values:
   - 284.0
-- &id027
-  section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+- section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
   section_type: linked_pdf
   source_line: 152 32 Information extracted from the databases of other maritime data
     collection agencies may differ from the Information extracted
@@ -280,8 +261,7 @@ numeric_observations:
   values:
   - 152.0
   - 32.0
-- &id028
-  section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+- section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
   section_type: linked_pdf
   source_line: Direct +(30) 210 458 6700 the Information is not an endorsement of
     any commercial policies and/or any conclusions by Clarksons and its 'connected
@@ -291,8 +271,7 @@ numeric_observations:
   - 210.0
   - 458.0
   - 6700.0
-- &id029
-  section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+- section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
   section_type: linked_pdf
   source_line: Fax +(30) 210 458 6799
   unit: null
@@ -309,37 +288,254 @@ section_count: 2
 signals:
   numeric_observation_count: 29
   numeric_observations:
-  - *id001
-  - *id002
-  - *id003
-  - *id004
-  - *id005
-  - *id006
-  - *id007
-  - *id008
-  - *id009
-  - *id010
-  - *id011
-  - *id012
-  - *id013
-  - *id014
-  - *id015
-  - *id016
-  - *id017
-  - *id018
-  - *id019
-  - *id020
-  - *id021
-  - *id022
-  - *id023
-  - *id024
-  - *id025
-  - *id026
-  - *id027
-  - *id028
-  - *id029
+  - section: Main
+    section_type: null
+    source_line: In the Kamsarmax segment, after inviting offers on Monday, the MG
+      MERCURY (ABT 85K DWT, 2016, IMABARI, BEAM 35 M) was acquired by European interests
+      at levels in the low USD 28's m.
+    unit: usd
+    values:
+    - 85.0
+    - 2016.0
+    - 28.0
+  - section: Main
+    section_type: null
+    source_line: On the Panamax front, the BARWON (ABT 78K DWT, 2015, SASEBO, ECO
+      ME) invited offers earlier this week, attracting interest from up to 5 buyers,
+      and has now been reported sold for xs USD 26 m.
+    unit: usd
+    values:
+    - 78.0
+    - 2015.0
+    - 5.0
+  - section: Main
+    section_type: null
+    source_line: On the geared segment, we understand that a 2021 Japanese Ultramax
+      was sold for region USD 37 m, whilst the Supramax FIGEAC (ABT 53K DWT, 2011,
+      CHENGXI) was sold for a price close to USD 12 m, basis surveys promptly due.
+      Meanwhile, the older SOMNATH (ABT 55K D
+    unit: usd
+    values:
+    - 2021.0
+    - 37.0
+    - 53.0
+    - 2011.0
+    - 55.0
+    - 2005.0
+  - section: Main
+    section_type: null
+    source_line: The Handy MR CHRYSOPIGI (ABT 38K DWT, 2006, GUANGZHOU) was sold at
+      USD 9 m, basis surveys promptly due.
+    unit: usd
+    values:
+    - 38.0
+    - 2006.0
+  - section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+    section_type: linked_pdf
+    source_line: In the Kamsarmax segment, after inviting offers on Monday, the MG
+      MERCURY (ABT 85K DWT, 2016,
+    unit: null
+    values:
+    - 85.0
+    - 2016.0
+  - section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+    section_type: linked_pdf
+    source_line: IMABARI, BEAM 35 M) was acquired by European interests at levels
+      in the low USD 28's m.
+    unit: usd
+    values:
+    - 28.0
+  - section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+    section_type: linked_pdf
+    source_line: On the Panamax front, the BARWON (ABT 78K DWT, 2015, SASEBO, ECO
+      ME) invited offers earlier this
+    unit: null
+    values:
+    - 78.0
+    - 2015.0
+  - section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+    section_type: linked_pdf
+    source_line: week, attracting interest from up to 5 buyers, and has now been reported
+      sold for xs USD 26 m.
+    unit: usd
+    values:
+    - 5.0
+  - section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+    section_type: linked_pdf
+    source_line: On the geared segment, we understand that a 2021 Japanese Ultramax
+      was sold for region USD 37 m,
+    unit: usd
+    values:
+    - 2021.0
+    - 37.0
+  - section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+    section_type: linked_pdf
+    source_line: whilst the Supramax FIGEAC (ABT 53K DWT, 2011, CHENGXI) was sold
+      for a price close to USD 12 m, basis
+    unit: usd
+    values:
+    - 53.0
+    - 2011.0
+  - section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+    section_type: linked_pdf
+    source_line: surveys promptly due. Meanwhile, the older SOMNATH (ABT 55K DWT,
+      2005, OSHIMA) was sold at region
+    unit: null
+    values:
+    - 55.0
+    - 2005.0
+  - section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+    section_type: linked_pdf
+    source_line: The Handy MR CHRYSOPIGI (ABT 38K DWT, 2006, GUANGZHOU) was sold at
+      USD 9 m, basis surveys
+    unit: usd
+    values:
+    - 38.0
+    - 2006.0
+  - section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+    section_type: linked_pdf
+    source_line: B&W 6S60ME-C7.1
+    unit: null
+    values:
+    - 6.0
+    - 1.0
+  - section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+    section_type: linked_pdf
+    source_line: MG MERCURY 84,790 2016 IMABARI 35 M BEAM SS 08/26 LOW USD 28 M EUROPEAN
+    unit: usd
+    values:
+    - 84790.0
+    - 2016.0
+    - 8.0
+    - 26.0
+  - section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+    section_type: linked_pdf
+    source_line: DD 08/26
+    unit: null
+    values:
+    - 8.0
+    - 26.0
+  - section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+    section_type: linked_pdf
+    source_line: BARWON 78,182 2015 SASEBO B&W 6S60ME-C8.2 SS 03/30 XS USD 26 M U/D
+    unit: usd
+    values:
+    - 78182.0
+    - 2015.0
+    - 6.0
+    - 2.0
+    - 3.0
+    - 30.0
+  - section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+    section_type: linked_pdf
+    source_line: BWTS FITTED DD 01/28
+    unit: null
+    values:
+    - 1.0
+    - 28.0
+  - section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+    section_type: linked_pdf
+    source_line: B&W 6S50MC-C8.1
+    unit: null
+    values:
+    - 6.0
+    - 1.0
+  - section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+    section_type: linked_pdf
+    source_line: SOMNATH 55,707 2005 OSHIMA 4X30T SS 02/29 RGN USD 9 M U/D
+    unit: usd
+    values:
+    - 55707.0
+    - 2005.0
+    - 4.0
+    - 2.0
+    - 29.0
+  - section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+    section_type: linked_pdf
+    source_line: DD 11/26
+    unit: null
+    values:
+    - 11.0
+    - 26.0
+  - section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+    section_type: linked_pdf
+    source_line: B&W 6S50MC-C8.2
+    unit: null
+    values:
+    - 6.0
+    - 2.0
+  - section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+    section_type: linked_pdf
+    source_line: FIGEAC 53,177 2011 CHENGXI 4X30T SS 04/26 CLOSE TO USD 12 M U/D
+    unit: usd
+    values:
+    - 53177.0
+    - 2011.0
+    - 4.0
+    - 4.0
+    - 26.0
+  - section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+    section_type: linked_pdf
+    source_line: DD 04/26
+    unit: null
+    values:
+    - 4.0
+    - 26.0
+  - section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+    section_type: linked_pdf
+    source_line: CHRYSOPIGI 38,554 2006 GUANGZHOU B.&W. 6S50MC-C8.1 SS 04/26 USD 9
+      M U/D
+    unit: usd
+    values:
+    - 38554.0
+    - 2006.0
+    - 6.0
+    - 1.0
+    - 4.0
+    - 26.0
+  - section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+    section_type: linked_pdf
+    source_line: BWTS FITTED DD 04/26
+    unit: null
+    values:
+    - 4.0
+    - 26.0
+  - section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+    section_type: linked_pdf
+    source_line: 284 Kifissias Avenue ("Clarksons") for general information purposes.
+      The Information is drawn from Clarksons' database and other sources. Clarksons
+    unit: null
+    values:
+    - 284.0
+  - section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+    section_type: linked_pdf
+    source_line: 152 32 Information extracted from the databases of other maritime
+      data collection agencies may differ from the Information extracted
+    unit: null
+    values:
+    - 152.0
+    - 32.0
+  - section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+    section_type: linked_pdf
+    source_line: Direct +(30) 210 458 6700 the Information is not an endorsement of
+      any commercial policies and/or any conclusions by Clarksons and its 'connected
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6700.0
+  - section: 'Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf'
+    section_type: linked_pdf
+    source_line: Fax +(30) 210 458 6799
+    unit: null
+    values:
+    - 30.0
+    - 210.0
+    - 458.0
+    - 6799.0
 source: hellenic
-source_path: reports/hellenic/shipbuilding/2026/2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126.html
+source_path: corpus/02-hellenic/shipbuilding/2026/2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126.html
 source_stem: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126
 source_url: https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-126
 summary: 'Main
@@ -390,7 +586,7 @@ The Handy MR CHRYSOPIGI (ABT 38K DWT, 2006, GUANGZHOU) was sold at USD 9 m, basi
 Source: Clarkson Platou (Hellas) ltd
 
 ## Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf
-Source asset: reports/hellenic/shipbuilding/pdfs/2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf
+Source asset: corpus/02-hellenic/shipbuilding/pdfs/2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf
 
 [Page 1]
 Clarkson Hellas Ltd.

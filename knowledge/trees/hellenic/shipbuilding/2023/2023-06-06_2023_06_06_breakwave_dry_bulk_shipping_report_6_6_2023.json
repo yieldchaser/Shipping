@@ -26,8 +26,8 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1499,
-  "source_path": "reports/hellenic/shipbuilding/2023/2023-06-06_breakwave-dry-bulk-shipping-report-6-6-2023.html",
+  "token_count": 1501,
+  "source_path": "corpus/02-hellenic/shipbuilding/2023/2023-06-06_breakwave-dry-bulk-shipping-report-6-6-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-6-6-2023",
   "children": [
     {
@@ -69,7 +69,7 @@
       "section_path_text": "Linked asset: 2023-06-06_breakwave-dry-bulk-shipping-report-6-6-2023_breakwavejune62023report_82f46cd03d21.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-06-06_breakwave-dry-bulk-shipping-report-6-6-2023_breakwavejune62023report_82f46cd03d21.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nJune 6, 2023\nBreakwave Dry Futures Index: 1,344 Baltic Dry Index (spot): 939 Short-term Indicators:\n↓ 30D: -21.1% ↓ 30D: -39.7% Momentum: Negative\n↑ YTD: 30.8% ↓ YTD: -38.0% Sentiment: Negative\n↓ YOY: -56.6% ↓ YOY: -64.3% Fundamentals: Neutral\nBi-Weekly Report\n• Shifting tides in the Atlantic is all that matters for Q3 - The last five years have seen dramatic changes when it\ncomes to the spot Atlantic Capesize market. Lower iron ore volumes from Brazil (2018-2023 change of some -35mt)\nand higher bauxite volumes out of Guinea (2018-2023 change of about +42mt) have shifted the balance of shipping\nquite a bit, although on a total volume basis Brazil still exports ~3x more.",
+      "summary": "Source asset: corpus/02-hellenic/shipbuilding/pdfs/2023-06-06_breakwave-dry-bulk-shipping-report-6-6-2023_breakwavejune62023report_82f46cd03d21.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nJune 6, 2023\nBreakwave Dry Futures Index: 1,344 Baltic Dry Index (spot): 939 Short-term Indicators:\n↓ 30D: -21.1% ↓ 30D: -39.7% Momentum: Negative\n↑ YTD: 30.8% ↓ YTD: -38.0% Sentiment: Negative\n↓ YOY: -56.6% ↓ YOY: -64.3% Fundamentals: Neutral\nBi-Weekly Report\n• Shifting tides in the Atlantic is all that matters for Q3 - The last five years have seen dramatic changes when it\ncomes to the spot Atlantic Capesize market. Lower iron ore volumes from Brazil (2018-2023 change of some -35mt)\nand higher bauxite volumes out of Guinea (2018-2023 change of about +42mt) have shifted the balance of shipping\nquite a bit, although on a total volume basis Brazil still exports ~3x more.",
       "keywords": [
         "capesize",
         "panamax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 1417,
+      "token_count": 1419,
       "section_type": "linked_pdf",
       "children": []
     }
