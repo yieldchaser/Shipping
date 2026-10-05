@@ -574,39 +574,63 @@ def update_all_series(meta: Dict[str, Any], tables_sidecar: Dict[str, Any]):
 
     # 4. Valuation Matrix (Dry, Tanker, Container)
     val_rows = []
+
+    # Header spelling drifts between layout eras and one spelling was being read
+    # only. Measured 2026-10-06 on the 2026 W24+ template: headers are
+    # NB PROMPT / 5 YRS / 10 YRS / 15 YRS and cells are "$76M"; the pre-W24
+    # template uses NB PROMPT DELIVERY / 5 YEARS / 10 YEARS / 15 YEARS and bare
+    # numbers, and container tables switch CONTAINERS (BY TEU) / GEARED /GEARLESS
+    # for SIZE (TEU) / TYPE. Reading a single spelling left nb_prompt/five/ten/
+    # older EMPTY on 160 rows of 2026 (and nb_contract as the raw "$76M"), and
+    # blanked vessel_type+size on the 2026 container rows so their key collided
+    # and 4 sized rows collapsed to 1.
+    def _val(row, *names):
+        for n in names:
+            v = row.get(n)
+            if v is not None and str(v).strip():
+                return str(v).strip()
+        return ""
+
+    def _mill(row, *names):
+        """Normalise "$76M" / "$56M (E)" to the column's bare-number style."""
+        v = _val(row, *names)
+        if not v:
+            return ""
+        m = re.match(r"^\$\s*([0-9][0-9.,]*)\s*M?\s*(\(.*\))?$", v)
+        if m:
+            return m.group(1).replace(",", "") + ((" " + m.group(2)) if m.group(2) else "")
+        return v
+
+    def _emit(sector, row, type_names, size_names):
+        return {
+            "issue_date": dt, "report_week": wk, "sector": sector,
+            "vessel_type": _val(row, *type_names),
+            "size_dwt_teu": _val(row, *size_names),
+            "nb_contract_usd_m": _mill(row, "NB CONTRACT"),
+            "nb_prompt_usd_m": _mill(row, "NB PROMPT DELIVERY", "NB PROMPT"),
+            "five_year_usd_m": _mill(row, "5 YEARS", "5 YRS"),
+            "ten_year_usd_m": _mill(row, "10 YEARS", "10 YRS"),
+            "older_year_usd_m": _mill(row, "15 YEARS", "15 YRS"),
+            "source_file": src,
+        }
+
     # Dry bulk values
     dry_val = next((t for t in tables if any("CAPE" in str(r) for r in t.get("rows", [])) and "NB CONTRACT" in t.get("headers", [])), None)
     if dry_val:
         for r in dry_val.get("rows", []):
-            val_rows.append({
-                "issue_date": dt, "report_week": wk, "sector": "Dry Bulk",
-                "vessel_type": r.get("TYPE", ""), "size_dwt_teu": r.get("DWT", ""),
-                "nb_contract_usd_m": r.get("NB CONTRACT", ""), "nb_prompt_usd_m": r.get("NB PROMPT DELIVERY", ""),
-                "five_year_usd_m": r.get("5 YEARS", ""), "ten_year_usd_m": r.get("10 YEARS", ""),
-                "older_year_usd_m": r.get("15 YEARS", ""), "source_file": src
-            })
+            val_rows.append(_emit("Dry Bulk", r, ("TYPE",), ("DWT",)))
     # Tanker values
     tanker_val = next((t for t in tables if any("VLCC" in str(r) for r in t.get("rows", [])) and "NB CONTRACT" in t.get("headers", [])), None)
     if tanker_val:
         for r in tanker_val.get("rows", []):
-            val_rows.append({
-                "issue_date": dt, "report_week": wk, "sector": "Tankers",
-                "vessel_type": r.get("TYPE", ""), "size_dwt_teu": r.get("DWT", ""),
-                "nb_contract_usd_m": r.get("NB CONTRACT", ""), "nb_prompt_usd_m": r.get("NB PROMPT DELIVERY", ""),
-                "five_year_usd_m": r.get("5 YEARS", ""), "ten_year_usd_m": r.get("10 YEARS", ""),
-                "older_year_usd_m": r.get("15 YEARS", ""), "source_file": src
-            })
+            val_rows.append(_emit("Tankers", r, ("TYPE",), ("DWT",)))
     # Container values
     cont_val = next((t for t in tables if any("Geared" in str(r) or "Gearless" in str(r) for r in t.get("rows", []))), None)
     if cont_val:
         for r in cont_val.get("rows", []):
-            val_rows.append({
-                "issue_date": dt, "report_week": wk, "sector": "Containers",
-                "vessel_type": r.get("GEARED / GEARLESS", ""), "size_dwt_teu": r.get("CONTAINERS (BY TEU)", ""),
-                "nb_contract_usd_m": r.get("NB CONTRACT", ""), "nb_prompt_usd_m": r.get("NB PROMPT DELIVERY", ""),
-                "five_year_usd_m": r.get("5 YEARS", ""), "ten_year_usd_m": r.get("10 YEARS", ""),
-                "older_year_usd_m": r.get("15 YEARS", ""), "source_file": src
-            })
+            val_rows.append(_emit("Containers", r,
+                                  ("GEARED / GEARLESS", "TYPE"),
+                                  ("CONTAINERS (BY TEU)", "SIZE (TEU)")))
     if val_rows:
         csv_p = SERIES_DIR / "star_asia_valuation_matrix_series.csv"
         hdrs = ["issue_date", "report_week", "sector", "vessel_type", "size_dwt_teu", "nb_contract_usd_m", "nb_prompt_usd_m", "five_year_usd_m", "ten_year_usd_m", "older_year_usd_m", "source_file"]

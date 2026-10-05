@@ -3233,3 +3233,101 @@ branch so the fix applies to future extractions; main untouched, not pushed).
    data/extracted/corpus --rebuild` + series rebuild).
 3. Hellenic chunk-shard shortfall (17,338 chunks, all hellenic) with the
    corrected remediation note in `text_audit_recheck.json`.
+
+## 2026-10-06 01:15 IST (2026-10-05 19:45 UTC) - deep review (3-hourly, job d77cc9df53c4)
+
+Verdict: **FIXED** (one code fix on a branch; no corpus data touched; one
+delivered-artefact regeneration flagged for a human).
+
+### Run state at review time
+
+`verify_extraction.py`: `done 880 / planned 882`, `ok 876`, `error 3`,
+`checkpoint_rows 7816` (all unique), `golden 15/15`,
+`db 189481 tables / 6726703 cells`, `actions: []`. No `run_batch`/`batch_worker`
+alive (Get-CimInstance returned nothing) - the pass is COMPLETE; `state_age_min`
+19569 is the known "COMPLETE, not dead" case. Inventory drift now 383 (was 380):
+informational, already judged covered by the bespoke runners.
+
+### Defect found and fixed: Star Asia valuation matrix read one header spelling
+
+`scripts/extract/publishers/run_star_asia_world_class.py::update_all_series`
+maps the "Vessel Values" table into `star_asia_valuation_matrix_series.csv` by
+hard-coded header names. Star Asia redesigned the table at 2026 W24: headers are
+now `NB PROMPT / 5 YRS / 10 YRS / 15 YRS` (pre-W24: `NB PROMPT DELIVERY /
+5 YEARS / 10 YEARS / 15 YEARS`) and cells are `"$76M"` (pre-W24: bare numbers);
+the container table switched `SIZE (TEU) / TYPE` for `CONTAINERS (BY TEU) /
+GEARED / GEARLESS`. Reading a single spelling silently dropped data:
+
+- dry+tanker 2026 rows: `nb_prompt / five_year / ten_year / older_year` ALL
+  empty, and `nb_contract` left as the raw string `"$76M"` - **160 rows** in the
+  delivered CSV (`nb_contract` starts with `$`; 168 rows with an empty
+  `nb_prompt`).
+- container 2026 rows: `vessel_type` AND `size_dwt_teu` empty, so the
+  merge key (`issue_date, sector, vessel_type, size_dwt_teu`) collided and 4
+  sized rows collapsed to 1 per week - **16 late-2026 weeks** (2026-05-09 ..
+  2026-09-18) kept 1 empty-labelled row instead of 4.
+
+Reproduced deterministically on the CURRENT sidecar (not on the stale CSV):
+`star_asia_2026_W35...tables.json` dry row `CAPESIZE / 180,000 / $76M`, headers
+`['TYPE','DWT','NB CONTRACT','NB PROMPT','5 YRS','10 YRS','15 YRS']` -> before:
+`nb_prompt='' five='' ten='' older='' nb_contract='$76M'`; container headers
+`['SIZE (TEU)','TYPE',...]` -> before: `vessel_type='' size=''`.
+
+Fix: one helper `_val(row,*names)` picks the first present non-empty header and
+`_mill(row,*names)` normalises `"$76M" / "$56M (E)"` to the column's existing
+bare-number style (`76` / `56 (E)`); all three branches (dry / tanker /
+container) now resolve their headers across eras. Scratch out-dir re-run of the
+same sidecar through the patched `update_all_series`:
+- dry W35: `CAPESIZE 76 / 82 / 71 / 56 (E) / 35`, `HANDY 31 / 37 / 29 / 23 / 18`
+  (stored sidecar ground truth: `$76M/$82M/$71M/$56M (E)/$35M`) - matched;
+- containers W35: 4 rows, `Geared 900-1,200 25/29/23/18/12` .. `Gearless
+  5,100-5,300 55/79/64/-/39` (was 1 empty-labelled row before).
+- 2025 W16 dry unchanged (`CAPE 74/76/60/43 (E)/29`).
+
+Golden gate after the change (JRE on PATH): star_asia camelot-stream 13/15,
+pdfplumber 13/15, tabula 9/15, **plumber-text 15/15, pymupdf-text 15/15**;
+ssy_atlantic camelot 14/14. Unchanged. `verify_extraction` still `golden 15/15`,
+`actions: []`. `scripts/analysis/golden_matrix.json` was NOT modified (checked).
+
+Branch/commit: `auto/extract-fixes-2026-10-06-star-asia-valuation` (main
+untouched, not pushed; HEAD left on the branch so the fix applies to future
+extractions).
+
+### Deliberately NOT changed
+
+- **The delivered `star_asia_valuation_matrix_series.csv` is stale AND wrong
+  independently of this code fix.** Its mtime (2026-10-03 02:32) PRECEDES both
+  the sidecar (2026-10-03 17:33) and the `.md` (2026-10-05 15:35) for the same
+  doc, so the CSV was never regenerated after the sidecar parser was improved.
+  It still carries 97 rows with `size_dwt_teu = "(E) - eco units"` and the DWT
+  (`38000`/`51000`) in `nb_contract_usd_m`, which the current sidecars no longer
+  contain (verified: 0 such rows across all 966 current vessel-value tables).
+  Regenerating the CSV writes `data/extracted/series/**`, outside this job's
+  write scope => human decision (command below).
+- The container `vessel_type`/`size_dwt_teu` semantics: the delivered CSV stores
+  the TEU band in `vessel_type` and `Geared/Gearless` in `size_dwt_teu`
+  (e.g. 2026-05-05 row), i.e. the OPPOSITE of what the committed code intends.
+  I did not re-decide this; the fix keeps the code's existing assignment
+  (`vessel_type`=gear, `size`=TEU band), which is the one consistent with the
+  dry/tanker branches. A regeneration will therefore ADD container rows for the
+  old eras rather than update them - the human should decide which convention
+  wins before regenerating.
+- The carriers `_series.csv` staleness, the DB rebuild, the hellenic chunk
+  shortfall - all previously logged human decisions, unchanged.
+- `data/extracted/corpus_checkpoint.jsonl` and everything under
+  `data/extracted/corpus/` were never written, moved or deleted. No re-run of
+  the corpus. The only writes were the code file, this log, and a scratch
+  out-dir (deleted).
+
+### HUMAN DECISION
+
+Regenerate the Star Asia valuation series from the current sidecars (this also
+picks up the fix). It rewrites `data/extracted/series/star_asia_*.csv`, so run
+it once, from the repo root, after deciding the container label convention:
+
+    python3 scripts/extract/publishers/run_star_asia_world_class.py --all
+
+(`--all` SKIPs docs whose `.md` is already world-class unless `--force` is
+given; the series are only updated when a doc is processed, so a `--force`
+cover-to-cover pass is what actually refreshes every week's rows.) Then refresh
+whatever consumes `data/extracted/series/**` (register, cadence audit).
