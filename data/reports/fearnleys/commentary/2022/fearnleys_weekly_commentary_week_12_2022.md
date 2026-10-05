@@ -6,7 +6,7 @@ week: 12
 date_range: "2022-03-21 to 2022-03-25"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:57"
+generated_at: "2026-10-05 16:11:50"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 12, 2022
@@ -39,14 +39,14 @@ Continued strong demand for minor bulks, as preliminary estimates for this month
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2022-03-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2022-03-23 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 A general easing of bunker prices should have helped owners’ bottom lines over the last week, down close to USD 825/mt for VLSFO in Spore. However, any savings were quickly transferred to the charterers pocket as rates have dropped in accordance. Voyages MEG to the East sit in the mid 30s depending on route/quality of ship. Hats off to charterers who have gone into stealth mode and playing the “fear-card” to perfection, picking ships off left, right and centre under the radar and leaving an impression of an inactive market when the opposite appears to be true, as charterers plow into their April stems. West Africa, clearly influenced by tonnage from the East as rates to China down to a last done of WS 37. Elsewhere in the Atlantic there is some hope, as prompter dates in the USG provide small gains, up to USD 5.4m to Ningbo.
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2022-03-23 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2022-03-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 A general easing of bunker prices should have helped owners’ bottom lines over the last week, down close to USD 825/mt for VLSFO in Spore. However, any savings were quickly transferred to the charterers pocket as rates have dropped in accordance. Voyages MEG to the East sit in the mid 30s depending on route/quality of ship. Hats off to charterers who have gone into stealth mode and playing the “fear-card” to perfection, picking ships off left, right and centre under the radar and leaving an impression of an inactive market when the opposite appears to be true, as charterers plow into their April stems. West Africa, clearly influenced by tonnage from the East as rates to China down to a last done of WS 37. Elsewhere in the Atlantic there is some hope, as prompter dates in the USG provide small gains, up to USD 5.4m to Ningbo.
 

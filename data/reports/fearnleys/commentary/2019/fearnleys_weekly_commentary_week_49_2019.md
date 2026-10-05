@@ -6,7 +6,7 @@ week: 49
 date_range: "2019-12-02 to 2019-12-04"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:50"
+generated_at: "2026-10-05 16:11:47"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 49, 2019
@@ -39,28 +39,28 @@ The positive sentiment from the past week turned more sideways this week. We see
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2019-12-02 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2019-12-02 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 A very tough start for the owners this week as the w100 barrier got broken from both West Africa and Middle East. Earnings are still around US$70.000 a day, but with activity slowed down along with London Christmas Week, activity will have to pick up severely for owners to see a bounce back to the 3 digits. A tightening positionlist in the east, and cargo Meg count lagging might see owners turning it around next week, as more 3rd decade December cargoes will surface.
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2019-12-02 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2019-12-02 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 A very tough start for the owners this week as the w100 barrier got broken from both West Africa and Middle East. Earnings are still around US$70.000 a day, but with activity slowed down along with London Christmas Week, activity will have to pick up severely for owners to see a bounce back to the 3 digits. A tightening positionlist in the east, and cargo Meg count lagging might see owners turning it around next week, as more 3rd decade December cargoes will surface.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2019-12-02 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2019-12-02 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 While we waited for the Suezmaxes to catch up with their bigger siblings end of last week, the continuous fixing activity that has been going on for some time now are finally starting to have an effect on the market. Ships that are being fixed is not absorbed back into the market quick enough and as such rates in the Atlantic now are on the move. Owners are looking to make up the lost ground from earlier this year and will not settle with last done in what has become a firm market in the Atlantic.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2019-12-02 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2019-12-02 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 While we waited for the Suezmaxes to catch up with their bigger siblings end of last week, the continuous fixing activity that has been going on for some time now are finally starting to have an effect on the market. Ships that are being fixed is not absorbed back into the market quick enough and as such rates in the Atlantic now are on the move. Owners are looking to make up the lost ground from earlier this year and will not settle with last done in what has become a firm market in the Atlantic.
 

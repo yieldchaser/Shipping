@@ -6,7 +6,7 @@ week: 37
 date_range: "2021-09-13 to 2021-09-15"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:55"
+generated_at: "2026-10-05 16:11:49"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 37, 2021
@@ -67,14 +67,14 @@ The East Suezmax market took a backward step this week when a modern ship fixed 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2021-09-15 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2021-09-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 The Nsea/Baltic market left mix feelings for the owners this week. After a busy start, which created some momentum, rates are back to last week’s levels. With September dates soon to be all covered and still enough vessels on the list, we expect rates to move sideways. In the Med/Bsea, we have seen the market go from soft to firming this week. This is due to a combination of things, such as ships being fixed under the radar, other ships leaving the area to try their luck in improved surrounding markets, and the fact that a healthy cargo program ex Bsea for October has emerged. Add the uncertain situation in Libya into the mix, and it will be interesting to see if these fundamentals combined are enough to finally put some upwards pressure on rates.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2021-09-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2021-09-15 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 The Nsea/Baltic market left mix feelings for the owners this week. After a busy start, which created some momentum, rates are back to last week’s levels. With September dates soon to be all covered and still enough vessels on the list, we expect rates to move sideways. In the Med/Bsea, we have seen the market go from soft to firming this week. This is due to a combination of things, such as ships being fixed under the radar, other ships leaving the area to try their luck in improved surrounding markets, and the fact that a healthy cargo program ex Bsea for October has emerged. Add the uncertain situation in Libya into the mix, and it will be interesting to see if these fundamentals combined are enough to finally put some upwards pressure on rates.
 

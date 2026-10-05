@@ -6,7 +6,7 @@ week: 31
 date_range: "2019-07-29 to 2019-08-01"
 comments_count: 17
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:49"
+generated_at: "2026-10-05 16:11:46"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 31, 2019
@@ -124,14 +124,14 @@ Date Sensitive
 
 ---
 
-### WAFR/USG
+### WAFR/UKC
 **Date:** 2019-07-30 | **Subtype:** trend | **Desk:** Fearnleys Research
 
 Date Sensitive
 
 ---
 
-### WAFR/UKC
+### WAFR/USG
 **Date:** 2019-07-30 | **Subtype:** trend | **Desk:** Fearnleys Research
 
 Date Sensitive

@@ -6,7 +6,7 @@ week: 12
 date_range: "2021-03-22 to 2021-03-24"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:54"
+generated_at: "2026-10-05 16:11:48"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 12, 2021
@@ -53,14 +53,14 @@ A much better week for owners, as rates moved further in their favor. TCE’s ar
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2021-03-22 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2021-03-22 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 The Suezmax market has sparked into life this week with the Atlantic basin being the main protagonist. Mediterranean and Black Sea Aframax rates have been too tempting for owners to ignore with a Suezmax reportedly on subjects for a Black Sea/Med' Aframax parcel at the equivalent of 130KT at WS92.3. This will continue to hold vessels in the region and positively impact Td20 and Td6. Owners will be further emboldened by reports that a Guyana/Ta cargo is on subjects 130KT at WS90. In the East, VLCCs are on an upward trajectory which will support Suezmax rates in the region and possibly add some momentum. MEG/East trades 130KT X WX65-67.5 on modern tonnage whilst Td23 feels firmer at WS22.5-25. West Africa/East will likely settle at W75-77.5.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2021-03-22 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2021-03-22 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 The Suezmax market has sparked into life this week with the Atlantic basin being the main protagonist. Mediterranean and Black Sea Aframax rates have been too tempting for owners to ignore with a Suezmax reportedly on subjects for a Black Sea/Med' Aframax parcel at the equivalent of 130KT at WS92.3. This will continue to hold vessels in the region and positively impact Td20 and Td6. Owners will be further emboldened by reports that a Guyana/Ta cargo is on subjects 130KT at WS90. In the East, VLCCs are on an upward trajectory which will support Suezmax rates in the region and possibly add some momentum. MEG/East trades 130KT X WX65-67.5 on modern tonnage whilst Td23 feels firmer at WS22.5-25. West Africa/East will likely settle at W75-77.5.
 

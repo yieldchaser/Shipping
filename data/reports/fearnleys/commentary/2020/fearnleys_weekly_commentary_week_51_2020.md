@@ -6,7 +6,7 @@ week: 51
 date_range: "2020-12-14 to 2020-12-16"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:53"
+generated_at: "2026-10-05 16:11:48"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 51, 2020
@@ -39,14 +39,14 @@ By mid-week, the Supramax segment market remained positive although flattening o
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2020-12-14 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2020-12-14 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 A quiet week on the surface so far in the VLCC segment, however, more has been happening on under the radar than meets the eye and brings with it unanswered questions. Numerically it seems the December MEG fixture count will come in 15%+ over the previous months. It begs the question of possible “stretching” of the production quotas, although it’s year end, prices have been rising and a bit of profit taking is not unsurprising. Increased volumes have so far failed to have a significant effect on rates, but bodes well for January, with a substantially less tonnage roll over, especially from the modern fraternity. Most of the Chinese fleet is also tied up well into first half of the month which dictates more need for third party tonnage. Short term demand is still blurry, but 2021 looks better rigged than for some time.
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2020-12-14 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2020-12-14 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 A quiet week on the surface so far in the VLCC segment, however, more has been happening on under the radar than meets the eye and brings with it unanswered questions. Numerically it seems the December MEG fixture count will come in 15%+ over the previous months. It begs the question of possible “stretching” of the production quotas, although it’s year end, prices have been rising and a bit of profit taking is not unsurprising. Increased volumes have so far failed to have a significant effect on rates, but bodes well for January, with a substantially less tonnage roll over, especially from the modern fraternity. Most of the Chinese fleet is also tied up well into first half of the month which dictates more need for third party tonnage. Short term demand is still blurry, but 2021 looks better rigged than for some time.
 
@@ -67,14 +67,14 @@ The traditional pre-Christmas rush has thus far failed to materialize. Owners wi
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2020-12-14 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2020-12-14 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 It has been a very quiet week in the North Sea and Baltic Aframax market. As there are still quite a few relets in position in the current fixing window, and not too many stems left for December to cover, we expect the market to move sideways also into next week. In the Mediterranean and Black Sea we have seen a rush of cargoes enter the market at the beginning of the week, however the rates have stayed flat due to the long list of available ships in the area. With the approaching holiday being an x-factor, we may see a small firming of rates towards the end of this week. However, we do not believe in a notable recovery of the market this side of Christmas.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2020-12-14 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2020-12-14 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 It has been a very quiet week in the North Sea and Baltic Aframax market. As there are still quite a few relets in position in the current fixing window, and not too many stems left for December to cover, we expect the market to move sideways also into next week. In the Mediterranean and Black Sea we have seen a rush of cargoes enter the market at the beginning of the week, however the rates have stayed flat due to the long list of available ships in the area. With the approaching holiday being an x-factor, we may see a small firming of rates towards the end of this week. However, we do not believe in a notable recovery of the market this side of Christmas.
 

@@ -6,7 +6,7 @@ week: 26
 date_range: "2021-06-28 to 2021-07-02"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:54"
+generated_at: "2026-10-05 16:11:49"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 26, 2021
@@ -53,28 +53,28 @@ The week gone by has been like watching paint dry in the VLCC segment, with limi
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2021-06-30 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2021-06-30 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 There's a familiar feel to the market this week, and it's not a good one.  After yet another another false dawn, rates remain in the doldrums. There was expectation and hope last week that crossover between Suezmax and Aframax would add a little stardust to a market starved of good news stories. This  unfortunately  failed to carry over into the wider market and the "butterfly effect" died before it had time to flap. But the stark issues facing this market aren't going away anytime soon. If demand really is returning to the oil sector in Asia, then most of it has skipped the Suezmax sector. Wafr/East east has just traded W57.5 on an options cargo but may settle at w55 on a straight run. Meg/East will price mid W50's whilst Td23 has been living in its own bubble recently but that might be set to pop to test high W20's.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2021-06-30 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2021-06-30 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 There's a familiar feel to the market this week, and it's not a good one.  After yet another another false dawn, rates remain in the doldrums. There was expectation and hope last week that crossover between Suezmax and Aframax would add a little stardust to a market starved of good news stories. This  unfortunately  failed to carry over into the wider market and the "butterfly effect" died before it had time to flap. But the stark issues facing this market aren't going away anytime soon. If demand really is returning to the oil sector in Asia, then most of it has skipped the Suezmax sector. Wafr/East east has just traded W57.5 on an options cargo but may settle at w55 on a straight run. Meg/East will price mid W50's whilst Td23 has been living in its own bubble recently but that might be set to pop to test high W20's.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2021-06-30 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2021-06-30 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 The Nsea and Baltic market didn’t manage to maintain the momentum from the previous week and inevitably the market experienced a downward correction. Charterers have the upper hand and Owners are bravely trying to repeat last done. However, moving into next week we expect rates to remain under downward pressure as the tonnage list is building up once again.  The excitement from last week was short lived also in the Med/Bsea market as we saw a downwards correction at the beginning of this week with rates coming back down 20 odd points on worldscale. Going forwards the Bsea program in particular looks lighter than what we have seen in previous months while the tonnage list is getting longer, and we do not expect a noteworthy firming of rates in the short run.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2021-06-30 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2021-06-30 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 The Nsea and Baltic market didn’t manage to maintain the momentum from the previous week and inevitably the market experienced a downward correction. Charterers have the upper hand and Owners are bravely trying to repeat last done. However, moving into next week we expect rates to remain under downward pressure as the tonnage list is building up once again.  The excitement from last week was short lived also in the Med/Bsea market as we saw a downwards correction at the beginning of this week with rates coming back down 20 odd points on worldscale. Going forwards the Bsea program in particular looks lighter than what we have seen in previous months while the tonnage list is getting longer, and we do not expect a noteworthy firming of rates in the short run.
 

@@ -6,7 +6,7 @@ week: 29
 date_range: "2022-07-19 to 2022-07-22"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:57"
+generated_at: "2026-10-05 16:11:50"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 29, 2022
@@ -39,14 +39,14 @@ The BSI-58 10 T/C route kept southbound direction for some time and seems still 
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2022-07-20 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2022-07-20 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 Better rates across the board allowing owners TCE’s continue further into the positive, even for those burning the low sulphur fuel. Rates have moved up through the high WS 50’s and Tuesday saw the WS 60 glass ceiling broken. However, given the activity, charterers have played it well. We've had consecutive months of 150+ deals out of the MEG, and despite the resulting dwindling position list, charterers have worked off market, picking targets quietly which has prevented the market running away in owner's favour.   In the West, strong returns continue on the smaller sizes and this reflecting on the VL’s. WS 62 on subs for Wafr/China and continued activity today should encourage rates further upward. USG/China now USD 7.25m and the USG/UKC trade shows no signs of slowing, with more ships rptd on subs this morning.
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2022-07-20 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2022-07-20 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 Better rates across the board allowing owners TCE’s continue further into the positive, even for those burning the low sulphur fuel. Rates have moved up through the high WS 50’s and Tuesday saw the WS 60 glass ceiling broken. However, given the activity, charterers have played it well. We've had consecutive months of 150+ deals out of the MEG, and despite the resulting dwindling position list, charterers have worked off market, picking targets quietly which has prevented the market running away in owner's favour.   In the West, strong returns continue on the smaller sizes and this reflecting on the VL’s. WS 62 on subs for Wafr/China and continued activity today should encourage rates further upward. USG/China now USD 7.25m and the USG/UKC trade shows no signs of slowing, with more ships rptd on subs this morning.
 

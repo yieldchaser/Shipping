@@ -6,7 +6,7 @@ week: 21
 date_range: "2022-05-23 to 2022-05-25"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:57"
+generated_at: "2026-10-05 16:11:50"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 21, 2022
@@ -39,14 +39,14 @@ The BSI-58 10 T/C route is volatile on week-to-week basis, however the average i
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2022-05-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2022-05-23 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 If the plan works, why change it? Charterers working from the shadows, picking a target and keeping quiet on the details is holding the current market at the status quo. This week we have counted over 20 vessels tucked away on business with no details attached. So it stands to reason that had these cargoes worked openly, we would be in a different world (or at least a few points more). Still, ships disappearing off the position list can’t be ignored and bunkers ramping up close to USD 1000/mt, owners are starting to push back. MEG/East is trickling up through the very low WS 40’s, depending on age/quality required. The Atlantic is feeding off Suez & Afra markets which are showing some heat. At the time of writing, only 10-15 VLCC’s in the West (or heading West) available to work. Tighter and firmer in the short term likely.
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2022-05-23 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2022-05-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 If the plan works, why change it? Charterers working from the shadows, picking a target and keeping quiet on the details is holding the current market at the status quo. This week we have counted over 20 vessels tucked away on business with no details attached. So it stands to reason that had these cargoes worked openly, we would be in a different world (or at least a few points more). Still, ships disappearing off the position list can’t be ignored and bunkers ramping up close to USD 1000/mt, owners are starting to push back. MEG/East is trickling up through the very low WS 40’s, depending on age/quality required. The Atlantic is feeding off Suez & Afra markets which are showing some heat. At the time of writing, only 10-15 VLCC’s in the West (or heading West) available to work. Tighter and firmer in the short term likely.
 

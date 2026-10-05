@@ -6,7 +6,7 @@ week: 46
 date_range: "2021-11-15 to 2021-11-17"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:56"
+generated_at: "2026-10-05 16:11:49"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 46, 2021
@@ -67,14 +67,14 @@ The fourth quarter is failing to deliver and it all feels very bleak. Owners hav
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2021-11-17 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2021-11-17 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 Aframax activity in the North Sea and Baltic came to a halt this week. Inevitably rates came off on the back of a longer tonnage list and less cargoes quoted in the market. Going forward we expect the market to remain soft, and we could also see a further decrease in rates.  Much of the same can be said about the Mediterranean/Black Sea market where rates have come off due to there are not being enough cargoes to satisfy the tonnage build up which is currently keeping the rates in favor of charterers. Neither in the Mediterranean/Black Sea we expect rates to firm in the short run.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2021-11-17 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2021-11-17 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 Aframax activity in the North Sea and Baltic came to a halt this week. Inevitably rates came off on the back of a longer tonnage list and less cargoes quoted in the market. Going forward we expect the market to remain soft, and we could also see a further decrease in rates.  Much of the same can be said about the Mediterranean/Black Sea market where rates have come off due to there are not being enough cargoes to satisfy the tonnage build up which is currently keeping the rates in favor of charterers. Neither in the Mediterranean/Black Sea we expect rates to firm in the short run.
 

@@ -6,7 +6,7 @@ week: 33
 date_range: "2022-08-15 to 2022-08-16"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:58"
+generated_at: "2026-10-05 16:11:50"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 33, 2022
@@ -53,28 +53,28 @@ A week in the VL market like few others in recemt times. Large leaps in Owners f
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2022-08-15 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2022-08-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 All eyes on VLCCs in the East which are nearing crossover levels with Suezmax. MEG/East has been a desert for Suezmaxes during the last six months, but potential splits could impact markets not only in the East, but also the Atlantic. The new Atlantic market has grown used to an abundance of ships coming round the corner from the East, but Td3c splits could drastically reduce availability and increase the likelihood of further volatility in all regions. MEG/China on modern today will trade min WS 130's whilst Td23 will likely firm up again into the high WS 70's. Owners in the Atlantic will be keeping a keen eye on the East which will ensure a firm outlook to proceedings. It's not going down and it could quite easily take another jump north.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2022-08-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2022-08-15 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 All eyes on VLCCs in the East which are nearing crossover levels with Suezmax. MEG/East has been a desert for Suezmaxes during the last six months, but potential splits could impact markets not only in the East, but also the Atlantic. The new Atlantic market has grown used to an abundance of ships coming round the corner from the East, but Td3c splits could drastically reduce availability and increase the likelihood of further volatility in all regions. MEG/China on modern today will trade min WS 130's whilst Td23 will likely firm up again into the high WS 70's. Owners in the Atlantic will be keeping a keen eye on the East which will ensure a firm outlook to proceedings. It's not going down and it could quite easily take another jump north.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2022-08-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2022-08-15 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 It has been a quiet week on the surface for Aframax owners trading in the Nsea. Last done levels are WS 185, but some may expect a small downward correction on rates as the market needs to be tested in the next fixing window. Market is looking stable with a softish undertone in the current fixing window. In the Med/Blsea, charterers been picking ships off the list in a quiet manner. Freight levels achieved on benchmark routes in the Med remained stable most of the week, however some positive vibes beginning of this week as owners been showing some resistance. Next window enquiries is up for another test.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2022-08-15 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2022-08-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 It has been a quiet week on the surface for Aframax owners trading in the Nsea. Last done levels are WS 185, but some may expect a small downward correction on rates as the market needs to be tested in the next fixing window. Market is looking stable with a softish undertone in the current fixing window. In the Med/Blsea, charterers been picking ships off the list in a quiet manner. Freight levels achieved on benchmark routes in the Med remained stable most of the week, however some positive vibes beginning of this week as owners been showing some resistance. Next window enquiries is up for another test.
 

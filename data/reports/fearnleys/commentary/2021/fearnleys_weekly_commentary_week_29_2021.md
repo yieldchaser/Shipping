@@ -6,7 +6,7 @@ week: 29
 date_range: "2021-07-19 to 2021-07-21"
 comments_count: 13
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:55"
+generated_at: "2026-10-05 16:11:49"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 29, 2021
@@ -67,14 +67,14 @@ With news of an OPEC+ agreement there are grounds for optimism towards the end o
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2021-07-21 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2021-07-21 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 The Nsea/Baltic Aframax market continued to be under downward pressure. However, some owners courageously put up the necessary resistance in order to achieve higher rates on some specific voyages in order to achieve a small surplus for lifting the oil. Unfortunately, with other areas not offering any better alternatives, and August dates already being fixed on bigger sizes, we expect rates to move sideways in the week to come. As for the Med/Bsea market the summer doldrums have continued since last week and at the time of writing TD19 is trading sub-ws90 levels, leaving frustrated owners with a poor return of about USD 3,000 pd. There is some optimism the market may firm a few points in the following days, but as we have seen before this summer we are pushing close to rate levels where Suezmaxes will come into play.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2021-07-21 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2021-07-21 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 The Nsea/Baltic Aframax market continued to be under downward pressure. However, some owners courageously put up the necessary resistance in order to achieve higher rates on some specific voyages in order to achieve a small surplus for lifting the oil. Unfortunately, with other areas not offering any better alternatives, and August dates already being fixed on bigger sizes, we expect rates to move sideways in the week to come. As for the Med/Bsea market the summer doldrums have continued since last week and at the time of writing TD19 is trading sub-ws90 levels, leaving frustrated owners with a poor return of about USD 3,000 pd. There is some optimism the market may firm a few points in the following days, but as we have seen before this summer we are pushing close to rate levels where Suezmaxes will come into play.
 

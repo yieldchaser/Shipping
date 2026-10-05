@@ -6,7 +6,7 @@ week: 11
 date_range: "2021-03-15 to 2021-03-19"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:54"
+generated_at: "2026-10-05 16:11:48"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 11, 2021
@@ -39,14 +39,14 @@ Rates increasing mainly in the Pacific, while the Atlantic appears more flat, ho
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2021-03-17 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2021-03-17 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 A few more deals this week then last, but not at the volume to force any turn around in numbers. Owners can take some comfort in the fact that rates are unlikely to get much lower, certainly at the current bunker prices. But many are resigned that they are unlikely to jump up in the near future either. Plenty of optimism remains for later in the year, it is simply a case of getting there.  This week falls in the gap between March and April MEG stems, so the remainder of the week, bar a few early birds, will unlikely fire up. MEG/East remains mired in the high WS20’s with charterers trying to chip a fraction of a point from last. In the Atlantic, the longer ton-mile often requires a longer ballast, so bunker prices preventing any major drops. West Africa flatlining at the WS32 going East. Mong/Ningbo at the USD 4.125m level.
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2021-03-17 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2021-03-17 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 A few more deals this week then last, but not at the volume to force any turn around in numbers. Owners can take some comfort in the fact that rates are unlikely to get much lower, certainly at the current bunker prices. But many are resigned that they are unlikely to jump up in the near future either. Plenty of optimism remains for later in the year, it is simply a case of getting there.  This week falls in the gap between March and April MEG stems, so the remainder of the week, bar a few early birds, will unlikely fire up. MEG/East remains mired in the high WS20’s with charterers trying to chip a fraction of a point from last. In the Atlantic, the longer ton-mile often requires a longer ballast, so bunker prices preventing any major drops. West Africa flatlining at the WS32 going East. Mong/Ningbo at the USD 4.125m level.
 

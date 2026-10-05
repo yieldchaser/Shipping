@@ -6,7 +6,7 @@ week: 38
 date_range: "2019-09-16 to 2019-09-17"
 comments_count: 13
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:49"
+generated_at: "2026-10-05 16:11:47"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 38, 2019
@@ -53,14 +53,14 @@ A frantic week to say the least for the Vlcc’s. The drone attack on Saudi oil 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2019-09-17 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2019-09-17 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 A flurry of activity in the Americas have kept the pace up going into this week coupled with a very lively VLCC market in the Atlantic. The lack of natural positions for any USG/CBS business have not allowed for any overhang to form this side of the pond as we have seen ships ballast from WAFR, GIB and UKC to fix in the Americas. With increased bunker prices we see little downside in the rates going forward
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2019-09-17 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2019-09-17 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 A flurry of activity in the Americas have kept the pace up going into this week coupled with a very lively VLCC market in the Atlantic. The lack of natural positions for any USG/CBS business have not allowed for any overhang to form this side of the pond as we have seen ships ballast from WAFR, GIB and UKC to fix in the Americas. With increased bunker prices we see little downside in the rates going forward
 

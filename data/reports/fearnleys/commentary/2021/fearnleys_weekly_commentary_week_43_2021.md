@@ -6,7 +6,7 @@ week: 43
 date_range: "2021-10-25 to 2021-10-29"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:55"
+generated_at: "2026-10-05 16:11:49"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 43, 2021
@@ -53,14 +53,14 @@ It has been a couple of weeks with steady increase in rates for the VLCCs. Drive
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2021-10-27 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2021-10-27 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 Regardless of the perceived backward steps in Wafr, the key indicator to observe is the gentle momentum in the VLCC market, meaning that owners who fixed Td20 at a discount to last done are, perhaps, short-changing themselves. Furthermore, second decade Wafr should still have a solid chunk of enquiry to come, and that despite some softer fixing, this market should push on again. Td20 has added circa 30 points in the last 3 weeks alone, suggesting it would be a brave punter who bets against this same scenario being replicated three weeks from now. Black Sea delays are up to 8 days north bound, and as we head into November this is likely to increase which will see risk-averse charterers demanding Canakkale cancelling 10-12 days prior to laycan. Td23 trades minimum WS 47.5-50 whilst MEG/East is WS 77.5-80 with a flat feel.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2021-10-27 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2021-10-27 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 Regardless of the perceived backward steps in Wafr, the key indicator to observe is the gentle momentum in the VLCC market, meaning that owners who fixed Td20 at a discount to last done are, perhaps, short-changing themselves. Furthermore, second decade Wafr should still have a solid chunk of enquiry to come, and that despite some softer fixing, this market should push on again. Td20 has added circa 30 points in the last 3 weeks alone, suggesting it would be a brave punter who bets against this same scenario being replicated three weeks from now. Black Sea delays are up to 8 days north bound, and as we head into November this is likely to increase which will see risk-averse charterers demanding Canakkale cancelling 10-12 days prior to laycan. Td23 trades minimum WS 47.5-50 whilst MEG/East is WS 77.5-80 with a flat feel.
 

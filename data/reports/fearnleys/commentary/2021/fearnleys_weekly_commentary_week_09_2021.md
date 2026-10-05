@@ -6,7 +6,7 @@ week: 9
 date_range: "2021-03-01 to 2021-03-04"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:54"
+generated_at: "2026-10-05 16:11:48"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 09, 2021
@@ -67,14 +67,14 @@ The common aim of most owners this week has been to hedge by looking to go short
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2021-03-01 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2021-03-01 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 In the North Sea and Baltic markets, the rates have moved sideways for the past week. Despite a break in the Baltic program in the 2nd decade of March, we see increased activity in the North Sea basin as well as some long-haul fuel enquiries. Charterers will look at other sizes as an alternative to Aframaxes, but we expect the market to remain stable with a potential for a small uptick in rates. In the Mediterranean/Black Sea the market has had a downward correction since last week, dropping about 20 points on benchmark routes. This is mainly due to a reduction in delays, and activity on the cargo side has also come off somewhat. That said, cargoes are still coming into the market at a steady pace, so it will be interesting to see if there is enough action for owners to hold rates at current levels in the week to come.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2021-03-01 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2021-03-01 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 In the North Sea and Baltic markets, the rates have moved sideways for the past week. Despite a break in the Baltic program in the 2nd decade of March, we see increased activity in the North Sea basin as well as some long-haul fuel enquiries. Charterers will look at other sizes as an alternative to Aframaxes, but we expect the market to remain stable with a potential for a small uptick in rates. In the Mediterranean/Black Sea the market has had a downward correction since last week, dropping about 20 points on benchmark routes. This is mainly due to a reduction in delays, and activity on the cargo side has also come off somewhat. That said, cargoes are still coming into the market at a steady pace, so it will be interesting to see if there is enough action for owners to hold rates at current levels in the week to come.
 

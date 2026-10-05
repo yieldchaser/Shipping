@@ -6,7 +6,7 @@ week: 7
 date_range: "2019-02-11 to 2019-02-11"
 comments_count: 12
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:48"
+generated_at: "2026-10-05 16:11:46"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 07, 2019
@@ -67,14 +67,14 @@ The Suezmax market has been a mix of bewilderment and an acceptance of reality a
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2019-02-11 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2019-02-11 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 Aframax rates in NSea and Baltic hovered around bottom levels the last week. Currently there is a more firm sentiment to the market as this week started on a very busy note. Quite a lot of the available tonnage have been fixed away. Charterers with cargoes in the current fixing window will face Owners asking for rates more than last done. In Med and BlSea we saw steady activity levels. Tonnage supply is still in Charterers favour with a number of ships still spot open. The market has moved sideways most of the week with a slight downward trend the last few days. We have seen more Aframax-moves from Med direction US. Owners are finding the US-markets more exiting, especially with Caribs/USG picking up to ws140 levels the past week. We expect the market to remain stable in the coming week. One to follow is how the alternative markets in the North and US play out.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2019-02-11 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2019-02-11 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 Aframax rates in NSea and Baltic hovered around bottom levels the last week. Currently there is a more firm sentiment to the market as this week started on a very busy note. Quite a lot of the available tonnage have been fixed away. Charterers with cargoes in the current fixing window will face Owners asking for rates more than last done. In Med and BlSea we saw steady activity levels. Tonnage supply is still in Charterers favour with a number of ships still spot open. The market has moved sideways most of the week with a slight downward trend the last few days. We have seen more Aframax-moves from Med direction US. Owners are finding the US-markets more exiting, especially with Caribs/USG picking up to ws140 levels the past week. We expect the market to remain stable in the coming week. One to follow is how the alternative markets in the North and US play out.
 

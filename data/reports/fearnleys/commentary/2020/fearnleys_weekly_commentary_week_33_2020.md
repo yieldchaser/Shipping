@@ -6,7 +6,7 @@ week: 33
 date_range: "2020-08-10 to 2020-08-14"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:52"
+generated_at: "2026-10-05 16:11:48"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 33, 2020
@@ -53,14 +53,14 @@ The VLCC market, as most other segments, is rapidly moving from a market place t
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2020-08-10 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2020-08-10 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 In the west we are still seeing decent activity on Suezmax, both in Wafr and Brazil. Unfortunately for Owners the tonnage list is still growing and this week we are counting almost 140 ships in wafr next 30 days. TD20 dropped to w45, and going forward it does not look very promising. Still cargoes left for 3rd decade, but not enough to help the market. In the MEG we are seeing the same old story that has been going on for many weeks now - too many ships and too little activity. VLCC's are slow, dragging the Suezmax down with them. We expect the market to remain stable below w50 going forward.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2020-08-10 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2020-08-10 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 In the west we are still seeing decent activity on Suezmax, both in Wafr and Brazil. Unfortunately for Owners the tonnage list is still growing and this week we are counting almost 140 ships in wafr next 30 days. TD20 dropped to w45, and going forward it does not look very promising. Still cargoes left for 3rd decade, but not enough to help the market. In the MEG we are seeing the same old story that has been going on for many weeks now - too many ships and too little activity. VLCC's are slow, dragging the Suezmax down with them. We expect the market to remain stable below w50 going forward.
 

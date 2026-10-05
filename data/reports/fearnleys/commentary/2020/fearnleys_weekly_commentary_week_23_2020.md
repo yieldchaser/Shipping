@@ -6,7 +6,7 @@ week: 23
 date_range: "2020-06-01 to 2020-06-04"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:51"
+generated_at: "2026-10-05 16:11:47"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 23, 2020
@@ -67,14 +67,14 @@ The Suezmax market is continuing the downward spiral from last week. The 30 day 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2020-06-03 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2020-06-03 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 As expected we have seen rates in the North Sea and Baltic come off significantly from last done levels. Even more vessels are entering the market as there is no further incentive for storage. We also see that in some of the congested import terminals turnaround has picked up again and vessels are discharging quicker than expected. So with an abundance of available tonnage  we expect the downward pressure on rates to continue into next week. In the Mediterranean and Black Sea we have seen the market move sideways all week as little activity from Charterers side is just enough to keep the market balanced. At the time of writing a cross-Med voyage currently pays just below WS 80, while fixtures ex Bsea have been repeated several times during the course of the week at WS 90. Owners choose not to flee to surrounding markets such as USG and the North as these are coming off at the moment. As available tonnage keeps piling up in the area we expect the market to remain soft in the week to come.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2020-06-03 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2020-06-03 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 As expected we have seen rates in the North Sea and Baltic come off significantly from last done levels. Even more vessels are entering the market as there is no further incentive for storage. We also see that in some of the congested import terminals turnaround has picked up again and vessels are discharging quicker than expected. So with an abundance of available tonnage  we expect the downward pressure on rates to continue into next week. In the Mediterranean and Black Sea we have seen the market move sideways all week as little activity from Charterers side is just enough to keep the market balanced. At the time of writing a cross-Med voyage currently pays just below WS 80, while fixtures ex Bsea have been repeated several times during the course of the week at WS 90. Owners choose not to flee to surrounding markets such as USG and the North as these are coming off at the moment. As available tonnage keeps piling up in the area we expect the market to remain soft in the week to come.
 

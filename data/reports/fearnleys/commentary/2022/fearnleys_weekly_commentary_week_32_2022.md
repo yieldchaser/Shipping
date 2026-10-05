@@ -6,7 +6,7 @@ week: 32
 date_range: "2022-08-08 to 2022-08-09"
 comments_count: 13
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:58"
+generated_at: "2026-10-05 16:11:50"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 32, 2022
@@ -39,14 +39,14 @@ The Supra market in still lucking activity across all trading areas. Slow start 
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2022-08-08 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2022-08-08 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 A clever game played by charterers this week, as strong activity is kept in the shadows and vessels are picked off the list. We are up to 135 or so deals ex MEG for August, with a little under half of the 20-31 window to cover. Rates have flattered to deceive with MEG/East remaining pegged in the high WS 50’s. Owners should maintain some hope as we swing towards the Autumn loading program, as the list remains balanced and those requiring modern ships will find them a little scarcer. A point of note, WS 65 achieved off very prompt dates, but given the lack of competition not a reflection on the market, and the vessel had been sat in the MEG for a while, so the TCE was close to USD 0.  The Transatlantic activity increased with a number of ships fixing USG/UKC at USD 3.3m, and we expect to see more of this trade going forward.
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2022-08-08 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2022-08-08 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 A clever game played by charterers this week, as strong activity is kept in the shadows and vessels are picked off the list. We are up to 135 or so deals ex MEG for August, with a little under half of the 20-31 window to cover. Rates have flattered to deceive with MEG/East remaining pegged in the high WS 50’s. Owners should maintain some hope as we swing towards the Autumn loading program, as the list remains balanced and those requiring modern ships will find them a little scarcer. A point of note, WS 65 achieved off very prompt dates, but given the lack of competition not a reflection on the market, and the vessel had been sat in the MEG for a while, so the TCE was close to USD 0.  The Transatlantic activity increased with a number of ships fixing USG/UKC at USD 3.3m, and we expect to see more of this trade going forward.
 

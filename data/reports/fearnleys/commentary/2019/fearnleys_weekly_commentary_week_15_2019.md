@@ -6,7 +6,7 @@ week: 15
 date_range: "2019-04-08 to 2019-04-10"
 comments_count: 13
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:48"
+generated_at: "2026-10-05 16:11:46"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 15, 2019
@@ -39,42 +39,42 @@ The Baltic Index showed negative figures and dropped even further since last wee
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2019-04-09 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2019-04-09 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 The final stems for the April program in play and it looks like we will end like at same volumes as we have had the last couple of months. Easter holidays in the West next week and many may want to cover prior to it, but volumes remain steady with May stem confirmations a week down the line. There have been moments when market has appeared to firm a little, but it has simply been insufficient activity for all major VLCC routes for it to happen. Earning still about USD 10k/day with owners carefully selecting their preferred voyages to position themselves for the expected upturn later this summer. In the meantime rates appear flat, though with little downside risk from present levels.
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2019-04-09 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2019-04-09 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 The final stems for the April program in play and it looks like we will end like at same volumes as we have had the last couple of months. Easter holidays in the West next week and many may want to cover prior to it, but volumes remain steady with May stem confirmations a week down the line. There have been moments when market has appeared to firm a little, but it has simply been insufficient activity for all major VLCC routes for it to happen. Earning still about USD 10k/day with owners carefully selecting their preferred voyages to position themselves for the expected upturn later this summer. In the meantime rates appear flat, though with little downside risk from present levels.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2019-04-09 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2019-04-09 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 Suezmax owners have had a much more encouraging week, a steady flow of cargoes have enabled a thinning of position lists, West Africa has managed to gain some ground with Td20 upto ws65 with earnings back up above 20k per day, double that of just over a week ago. In the coming weeks some owners will be looking to make their move in positioning tonnage to the East for scheduled drydocking, these ships will likely be a target for Charterers. There is market talk of impending recovery at the end of the 2nd quarter, and the coming weeks may be the last chance Charterers are able to steer the market on favourable terms.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2019-04-09 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2019-04-09 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 Suezmax owners have had a much more encouraging week, a steady flow of cargoes have enabled a thinning of position lists, West Africa has managed to gain some ground with Td20 upto ws65 with earnings back up above 20k per day, double that of just over a week ago. In the coming weeks some owners will be looking to make their move in positioning tonnage to the East for scheduled drydocking, these ships will likely be a target for Charterers. There is market talk of impending recovery at the end of the 2nd quarter, and the coming weeks may be the last chance Charterers are able to steer the market on favourable terms.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2019-04-09 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2019-04-09 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 Aframaxes trading in the North Sea and Baltic basin have seen a further softening this week, with the surrounding markets more or less in the same state unfortunately not giving owners much leeway in the search of more prosperous business. We see the market bottomed out in the area, but with the last couple of days being a bit busier in the North we expect owners to put pressure on charterers, asking for rates above last done. In the Mediterranean and Black Sea, rates have moved sideways as a rather quiet week has passed. Quiet but steady, as TD19 is reported at levels just above ws80 throughout the week. Tonnage supply is still in charterers favour, however we believe we have seen bottom levels on rates as TCE is getting close to OPEX-levels. We no longer see much of a rate differential between fixtures ex Black Sea and East Med, since transit in Straits has been running smoothly. In the week to come we expect owners to target the right cargoes in order to minimise waiting time and triangulate their vessel in a sufficient manner.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2019-04-09 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2019-04-09 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 Aframaxes trading in the North Sea and Baltic basin have seen a further softening this week, with the surrounding markets more or less in the same state unfortunately not giving owners much leeway in the search of more prosperous business. We see the market bottomed out in the area, but with the last couple of days being a bit busier in the North we expect owners to put pressure on charterers, asking for rates above last done. In the Mediterranean and Black Sea, rates have moved sideways as a rather quiet week has passed. Quiet but steady, as TD19 is reported at levels just above ws80 throughout the week. Tonnage supply is still in charterers favour, however we believe we have seen bottom levels on rates as TCE is getting close to OPEX-levels. We no longer see much of a rate differential between fixtures ex Black Sea and East Med, since transit in Straits has been running smoothly. In the week to come we expect owners to target the right cargoes in order to minimise waiting time and triangulate their vessel in a sufficient manner.
 

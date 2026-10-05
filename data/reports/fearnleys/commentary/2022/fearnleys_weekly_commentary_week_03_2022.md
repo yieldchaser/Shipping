@@ -6,7 +6,7 @@ week: 3
 date_range: "2022-01-17 to 2022-01-21"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:56"
+generated_at: "2026-10-05 16:11:49"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 03, 2022
@@ -53,28 +53,28 @@ It is still tumbling rates for the VLCC’s, with the switch to '22 flat rates m
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2022-01-19 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2022-01-19 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 You'd be forgiven for thinking that oil prices, presently at eight year highs, had parted permanent company with the physical freight market. The silver lining that may clear away the present bleakness comes from Goldman Sachs, who believe that by the next Northern Summer, oil inventories in OECD countries will fall to their lowest levels since 2000, and with it, Brent oil prices rising to USD 100 later this year. To the here and now, the Atlantic remains active with no discernible back haul market, as everything has become fronthaul. If this activity persists TD20 may nudge to high WS 50's. In the East, there's been an uptick in enquiry which may add a point or two, but a fresh round of cargoes is required for it to truly push on. MEG/East trades WS 62.5 for now.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2022-01-19 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2022-01-19 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 You'd be forgiven for thinking that oil prices, presently at eight year highs, had parted permanent company with the physical freight market. The silver lining that may clear away the present bleakness comes from Goldman Sachs, who believe that by the next Northern Summer, oil inventories in OECD countries will fall to their lowest levels since 2000, and with it, Brent oil prices rising to USD 100 later this year. To the here and now, the Atlantic remains active with no discernible back haul market, as everything has become fronthaul. If this activity persists TD20 may nudge to high WS 50's. In the East, there's been an uptick in enquiry which may add a point or two, but a fresh round of cargoes is required for it to truly push on. MEG/East trades WS 62.5 for now.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2022-01-19 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2022-01-19 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 The Aframax market in the Nsea and Baltic has been very slow with rates for cross Nsea hovering around bottom levels. And without an increase in volumes or some support from surrounding markets, it is difficult to see how rates will firm for the next week. In the Baltic we had some excitement on a couple of fuel cargoes, but as one got fixed on a Suezmax (part cargo) it fizzled out. Going forward with February dates in play rates will continue moving sideways for now. In the Med/Bsea from a firm last week we have seen the rates soften and drop a few points this week. This is because cargo activity has come off somewhat, and we have also seen a few Suezmaxes come into play. We expect the market to move sideways with a soft potential in the short term.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2022-01-19 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2022-01-19 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 The Aframax market in the Nsea and Baltic has been very slow with rates for cross Nsea hovering around bottom levels. And without an increase in volumes or some support from surrounding markets, it is difficult to see how rates will firm for the next week. In the Baltic we had some excitement on a couple of fuel cargoes, but as one got fixed on a Suezmax (part cargo) it fizzled out. Going forward with February dates in play rates will continue moving sideways for now. In the Med/Bsea from a firm last week we have seen the rates soften and drop a few points this week. This is because cargo activity has come off somewhat, and we have also seen a few Suezmaxes come into play. We expect the market to move sideways with a soft potential in the short term.
 

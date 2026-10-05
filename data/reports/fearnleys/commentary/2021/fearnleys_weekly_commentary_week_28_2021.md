@@ -6,7 +6,7 @@ week: 28
 date_range: "2021-07-12 to 2021-07-16"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:54"
+generated_at: "2026-10-05 16:11:49"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 28, 2021
@@ -39,14 +39,14 @@ Supra slightly sliding this week. Limited fresh orders not contributing to the r
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2021-07-13 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2021-07-13 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 Another week and more of the same. The MEG cargo count creeping up to the 110 level for the month of July, however, we are now heading into the twilight zone prior to the major August stem release (likely late this week, early next). Therefore, limited activity expected. At present, just an Indian cargo and a Vietnamese system cargo for early August dates and rates flattering to deceive, moving nowhere at the speed of light in the MEG. The tried and trusted tactic of underground fixing continues in charterers favor.  However, a little more movement in the Atlantic, with the slightest of upticks (a point in Wafr, albeit a Ghana load) and ws35 on an ex Brazil cargo is promising. With bunker prices creeping up (to USD 550 in Spore), there is little downside to the market, but that’s mainly because there is nowhere lower to go.
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2021-07-13 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2021-07-13 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 Another week and more of the same. The MEG cargo count creeping up to the 110 level for the month of July, however, we are now heading into the twilight zone prior to the major August stem release (likely late this week, early next). Therefore, limited activity expected. At present, just an Indian cargo and a Vietnamese system cargo for early August dates and rates flattering to deceive, moving nowhere at the speed of light in the MEG. The tried and trusted tactic of underground fixing continues in charterers favor.  However, a little more movement in the Atlantic, with the slightest of upticks (a point in Wafr, albeit a Ghana load) and ws35 on an ex Brazil cargo is promising. With bunker prices creeping up (to USD 550 in Spore), there is little downside to the market, but that’s mainly because there is nowhere lower to go.
 
@@ -67,14 +67,14 @@ The market continues its pitiably mundane run with no obvious signs of abating, 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2021-07-13 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2021-07-13 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 It was a rather depressing week for Aframax owners trading in the NSea/Baltic as rates declined further resulting in negative returns for owners on specific voyages. Some of them decided to ballast out of the area seeking alternative employment. However, this didn’t help the market as the tonnage list still got enough vessels to cover for the rest of July dates. Patience is the key at the moment with the market keep struggling at bottom levels. In the Med/Blsea the activity level has unfortunately not been sufficient enough to support the brief optimism seen last week, with levels taking a slight dip this week. Surrounding markets not offering all to many attractive alternatives either. We foresee another week in the summer duldrums with freight rates remaining stable/soft.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2021-07-13 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2021-07-13 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 It was a rather depressing week for Aframax owners trading in the NSea/Baltic as rates declined further resulting in negative returns for owners on specific voyages. Some of them decided to ballast out of the area seeking alternative employment. However, this didn’t help the market as the tonnage list still got enough vessels to cover for the rest of July dates. Patience is the key at the moment with the market keep struggling at bottom levels. In the Med/Blsea the activity level has unfortunately not been sufficient enough to support the brief optimism seen last week, with levels taking a slight dip this week. Surrounding markets not offering all to many attractive alternatives either. We foresee another week in the summer duldrums with freight rates remaining stable/soft.
 

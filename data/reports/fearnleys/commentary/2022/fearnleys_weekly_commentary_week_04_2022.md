@@ -6,7 +6,7 @@ week: 4
 date_range: "2022-01-24 to 2022-01-28"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:56"
+generated_at: "2026-10-05 16:11:49"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 04, 2022
@@ -39,14 +39,14 @@ The BSI-58 10T/C route falling further down, continues the same pattern for the 
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2022-01-24 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2022-01-24 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 A relatively busy week in the VLCC market in the run up to the Chinese New Year celebrations kicking off next week, although rates have continued their downward trend, hovering in the low to mid-WS 30’s for MEG/eastbound cargoes, and a new low set yesterday at WS 36.5 for a Wafr load heading east (albeit W38 if including Nigeria). The light at the end of the tunnel has been visible for quite some time, but right now it feels more like that’s a truck coming towards you, as one owner put it. Current levels may just about cover OPEX for those modern-scrubber fitted units, if lucky, whereas it is well into negative territory for those units burning compliant fuels.
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2022-01-24 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2022-01-24 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 A relatively busy week in the VLCC market in the run up to the Chinese New Year celebrations kicking off next week, although rates have continued their downward trend, hovering in the low to mid-WS 30’s for MEG/eastbound cargoes, and a new low set yesterday at WS 36.5 for a Wafr load heading east (albeit W38 if including Nigeria). The light at the end of the tunnel has been visible for quite some time, but right now it feels more like that’s a truck coming towards you, as one owner put it. Current levels may just about cover OPEX for those modern-scrubber fitted units, if lucky, whereas it is well into negative territory for those units burning compliant fuels.
 

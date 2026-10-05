@@ -6,7 +6,7 @@ week: 48
 date_range: "2020-11-23 to 2020-11-26"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:53"
+generated_at: "2026-10-05 16:11:48"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 48, 2020
@@ -53,28 +53,28 @@ Steady as she goes this week. Low volumes keeping a cap on rates as owners scram
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2020-11-25 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2020-11-25 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 The Suezmax market has had a very familiar stop/start feel to it this week. In the East, charterers were in a generous mood as they did their utmost to support rates by piling in on top of each, resulting in modest gains for some owners. The Mediterranean and Black Sea continue to attract eastern ballasters who have missed the MEG/East fixing window which has conversely put a ceiling on Black Sea-Med/East moves. This has naturally started to trim the East list, but not to the degree that rates are likely to runaway.  Owners will need a busy back end of the week for MEG/East to threaten the high forties mark, which should otherwise trade flat. TD20 has flattered to deceive recently and will similarly need a busy Thursday to push on.  The overarching issue of lack of oil demand continues to stymie this market.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2020-11-25 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2020-11-25 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 The Suezmax market has had a very familiar stop/start feel to it this week. In the East, charterers were in a generous mood as they did their utmost to support rates by piling in on top of each, resulting in modest gains for some owners. The Mediterranean and Black Sea continue to attract eastern ballasters who have missed the MEG/East fixing window which has conversely put a ceiling on Black Sea-Med/East moves. This has naturally started to trim the East list, but not to the degree that rates are likely to runaway.  Owners will need a busy back end of the week for MEG/East to threaten the high forties mark, which should otherwise trade flat. TD20 has flattered to deceive recently and will similarly need a busy Thursday to push on.  The overarching issue of lack of oil demand continues to stymie this market.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2020-11-25 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2020-11-25 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 In the North Sea/Baltic market even a tight window wasn’t enough for owners to earn some extra worldscale points. As we proceed with the loading dates of early December, we expect market to remain rather flat as cargo exports are still low to support the long tonnage list. Keep an eye at the USG though, it could be the alternative that will bring some optimism.  In the Mediterranean/Black Sea, the rates have dropped a few more points this week and TD19 is now giving negative returns. The tonnage list is currently building up again, however owners will be keen to see if the improving markets in the USG is able to attract potential ballasters away from the area and in turn reduce competition.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2020-11-25 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2020-11-25 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 In the North Sea/Baltic market even a tight window wasn’t enough for owners to earn some extra worldscale points. As we proceed with the loading dates of early December, we expect market to remain rather flat as cargo exports are still low to support the long tonnage list. Keep an eye at the USG though, it could be the alternative that will bring some optimism.  In the Mediterranean/Black Sea, the rates have dropped a few more points this week and TD19 is now giving negative returns. The tonnage list is currently building up again, however owners will be keen to see if the improving markets in the USG is able to attract potential ballasters away from the area and in turn reduce competition.
 

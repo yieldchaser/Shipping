@@ -6,7 +6,7 @@ week: 5
 date_range: "2021-02-01 to 2021-02-05"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:53"
+generated_at: "2026-10-05 16:11:48"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 05, 2021
@@ -53,28 +53,28 @@ The VLCC market continues at a snail’s pace. Rates are being tested in all are
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2021-02-01 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2021-02-01 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 An armada of Eastern ballasters appears to have sealed the fate of West Africa and the MEG, at least as far as the third decade of February is concerned . The obvious effect is that TD20 will trade down to the low W50's whilst a Wafr/East run will  be lucky to hold onto high W50's/low W60's tops. However, it's  not all doom and gloom as was highlighted in the Caribs last night. The prompt nature of the USG and Caribbean market has afforded it some insulation from the marauding ballasters. An East Coast Mexico/TA run was booked at 145kt x W50, which highlights that pockets of opportunity do remain, however bleak the macro picture looks. MEG/EAST will correct down to low/mid W50's on modern and TD23 will follow this trend finding a home at low/mid teens
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2021-02-01 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2021-02-01 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 An armada of Eastern ballasters appears to have sealed the fate of West Africa and the MEG, at least as far as the third decade of February is concerned . The obvious effect is that TD20 will trade down to the low W50's whilst a Wafr/East run will  be lucky to hold onto high W50's/low W60's tops. However, it's  not all doom and gloom as was highlighted in the Caribs last night. The prompt nature of the USG and Caribbean market has afforded it some insulation from the marauding ballasters. An East Coast Mexico/TA run was booked at 145kt x W50, which highlights that pockets of opportunity do remain, however bleak the macro picture looks. MEG/EAST will correct down to low/mid W50's on modern and TD23 will follow this trend finding a home at low/mid teens
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2021-02-01 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2021-02-01 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 Last week was another tough one for Owners fixing in the Nsea/Baltic market as couple of deals were concluded with negative returns. Most of the Owners are willing to hold the line and put some upward pressure on the rates in order to cover opex at least. However, we expect rates to remain at bottom levels as the fundamentals are not there to support a strong bounceback yet. Following last week’s rush of cargoes in the Med/Bsea which resulted in a slight uptick in rates, the market has calmed down again somewhat this week as cargo activity has come off and tonnage builds up again. Also in the Med/Bsea we expect the market to remain at bottom levels in the short run.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2021-02-01 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2021-02-01 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 Last week was another tough one for Owners fixing in the Nsea/Baltic market as couple of deals were concluded with negative returns. Most of the Owners are willing to hold the line and put some upward pressure on the rates in order to cover opex at least. However, we expect rates to remain at bottom levels as the fundamentals are not there to support a strong bounceback yet. Following last week’s rush of cargoes in the Med/Bsea which resulted in a slight uptick in rates, the market has calmed down again somewhat this week as cargo activity has come off and tonnage builds up again. Also in the Med/Bsea we expect the market to remain at bottom levels in the short run.
 

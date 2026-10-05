@@ -6,7 +6,7 @@ week: 39
 date_range: "2020-09-22 to 2020-09-23"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:52"
+generated_at: "2026-10-05 16:11:48"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 39, 2020
@@ -67,14 +67,14 @@ The Suezmax market is still struggling at bottom levels. The start of this week 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2020-09-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2020-09-23 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 Another disappointing week for owners trading in the North Sea and Baltic Aframax market has passed. Some owners have put up some resistance refusing to fix at current low levels. However, there is always someone who is willing to accept rates close to breakeven levels in order to keep their ships sailing. We expect rates to stay around current low levels in the week to come. Also in the Mediterranean and Black Sea market another week has passed with little excitement for owners as cargo activity stays low and the list of prompt ships in the area just keeps getting longer. It is hard to see any signs of an increase in cargo activity in the short run, and we expect rates to continue hovering around bottom levels in the week to come.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2020-09-23 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2020-09-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 Another disappointing week for owners trading in the North Sea and Baltic Aframax market has passed. Some owners have put up some resistance refusing to fix at current low levels. However, there is always someone who is willing to accept rates close to breakeven levels in order to keep their ships sailing. We expect rates to stay around current low levels in the week to come. Also in the Mediterranean and Black Sea market another week has passed with little excitement for owners as cargo activity stays low and the list of prompt ships in the area just keeps getting longer. It is hard to see any signs of an increase in cargo activity in the short run, and we expect rates to continue hovering around bottom levels in the week to come.
 

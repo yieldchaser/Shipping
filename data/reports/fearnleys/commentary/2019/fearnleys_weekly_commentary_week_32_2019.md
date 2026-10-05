@@ -6,7 +6,7 @@ week: 32
 date_range: "2019-08-05 to 2019-08-07"
 comments_count: 13
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:49"
+generated_at: "2026-10-05 16:11:46"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 32, 2019
@@ -53,14 +53,14 @@ It’s been close to a perfect storm in the VLCC market in the week gone by, wit
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2019-08-06 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2019-08-06 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 After a busy couple of weeks on a very date sensitive market, it all came to rest at the end of last week as charterers gradually fought back to gain the upper hand on the owners. Fundamentals trumped sentiment at last and rates began to slide as owners had to make a move and reposition their ships for the autumn which, historically speaking, is firmer than the summer months. Activity levels are low at the moment with VLCCs enjoying all the fun for now. There are simply too many ships out there and fundamentals are not supporting any swing in owners favor anytime soon.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2019-08-06 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2019-08-06 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 After a busy couple of weeks on a very date sensitive market, it all came to rest at the end of last week as charterers gradually fought back to gain the upper hand on the owners. Fundamentals trumped sentiment at last and rates began to slide as owners had to make a move and reposition their ships for the autumn which, historically speaking, is firmer than the summer months. Activity levels are low at the moment with VLCCs enjoying all the fun for now. There are simply too many ships out there and fundamentals are not supporting any swing in owners favor anytime soon.
 

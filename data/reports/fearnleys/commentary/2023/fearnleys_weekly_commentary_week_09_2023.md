@@ -6,7 +6,7 @@ week: 9
 date_range: "2023-02-27 to 2023-02-28"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:59"
+generated_at: "2026-10-05 16:11:51"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 09, 2023
@@ -67,14 +67,14 @@ The Suezmax market has been nothing but volatile over the last eight months and 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2023-02-28 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2023-02-28 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 As expected, we have seen quite a big number of vessels ballasting transatlantic during the last week. Subsequently, the tonnage list in the NSea looks very tight, and rates been pushed upward. Activity in the area have picked up as charterers have been trying to fix ahead of the curve and secure tonnage. Heading into next week, we expect market to strengthen further, but it still depends on if owners will keep ballasting transatlantic for better returns. Compared to the NSea, the Med/BSea market had less ballasters to the USG as earnings have been slightly better, but rates remained flat. However, by the end of last week owners gained more confidence and managed to marginally push rates higher. In the short term, we expect owners to push for higher levels if activity remains healthy.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2023-02-28 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2023-02-28 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 As expected, we have seen quite a big number of vessels ballasting transatlantic during the last week. Subsequently, the tonnage list in the NSea looks very tight, and rates been pushed upward. Activity in the area have picked up as charterers have been trying to fix ahead of the curve and secure tonnage. Heading into next week, we expect market to strengthen further, but it still depends on if owners will keep ballasting transatlantic for better returns. Compared to the NSea, the Med/BSea market had less ballasters to the USG as earnings have been slightly better, but rates remained flat. However, by the end of last week owners gained more confidence and managed to marginally push rates higher. In the short term, we expect owners to push for higher levels if activity remains healthy.
 

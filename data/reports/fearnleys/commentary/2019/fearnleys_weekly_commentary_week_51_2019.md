@@ -6,7 +6,7 @@ week: 51
 date_range: "2019-12-16 to 2019-12-20"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:50"
+generated_at: "2026-10-05 16:11:47"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 51, 2019
@@ -39,42 +39,42 @@ Negative pressure across the board as the year come in for closing. In the Atlan
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2019-12-16 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2019-12-16 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 What a rollercoaster ride! As last week drew to a close VLCC rates were on a downward trajectory with MEG/East testing the ws100 mark. However, things turned on a sixpence this week as January cargoes came into play. MEG/East went from ws100 to ws110 in one jump, and panic set in. Rates have since continued to climb, with owners now eying rates above ws120. MEG rates have also been supported by an influx of USG export cargoes, currently trading close to USD 12 million for China/Korea discharge. N.Sea/East has been correspondingly active, and ships discharging in the area have all but been absorbed. Wafr/East runs, however, has been surprisingly few and far between, although we’re seeing signs of a pickup in last decade of January. With a heaving Suezmax market there are few “get out of jail cards” at present, so the run up to Christmas is looking bright for the owning community.
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2019-12-16 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2019-12-16 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 What a rollercoaster ride! As last week drew to a close VLCC rates were on a downward trajectory with MEG/East testing the ws100 mark. However, things turned on a sixpence this week as January cargoes came into play. MEG/East went from ws100 to ws110 in one jump, and panic set in. Rates have since continued to climb, with owners now eying rates above ws120. MEG rates have also been supported by an influx of USG export cargoes, currently trading close to USD 12 million for China/Korea discharge. N.Sea/East has been correspondingly active, and ships discharging in the area have all but been absorbed. Wafr/East runs, however, has been surprisingly few and far between, although we’re seeing signs of a pickup in last decade of January. With a heaving Suezmax market there are few “get out of jail cards” at present, so the run up to Christmas is looking bright for the owning community.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2019-12-16 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2019-12-16 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 In the beginning of the week, the Suezmax market world-wide looked fairly balanced, and it looked like we would have a situation where owners would be keen to fix their ships before the holidays without putting too much pressure on the charterers. After a very busy Tuesday, tables have turned, and charterers are now the ones that need to fix their cargoes in time for Xmas. The rest of the week, we could see rates moving further with tight position lists in the Atlantic as well as MEG. Still quite a lot of cargoes left uncovered, so the rest of the year is looking really interesting.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2019-12-16 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2019-12-16 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 In the beginning of the week, the Suezmax market world-wide looked fairly balanced, and it looked like we would have a situation where owners would be keen to fix their ships before the holidays without putting too much pressure on the charterers. After a very busy Tuesday, tables have turned, and charterers are now the ones that need to fix their cargoes in time for Xmas. The rest of the week, we could see rates moving further with tight position lists in the Atlantic as well as MEG. Still quite a lot of cargoes left uncovered, so the rest of the year is looking really interesting.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2019-12-16 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2019-12-16 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 Freight rates in the Baltic and North Sea market seem to have found their feet around ws235 levels in the Nsea and ws190 levels ex Baltic, depending on what discharge options one needs. Stems loading very end year are currently being fixed with quite a lot of cargo activity taking place off the market. Although certain owners have expressed their willingness to put their clean ships into dirty trade, the tonnage list remains tight, and thus we still expect a firm market going into the new year. Cargo activity has been healthy in the Mediterranean and Black Sea this week and owners are pleased to see the market bounce back. Benchmark routes both ex Bsea and cross-Med have picked up about 25 ws-points, and at the time of writing TD19 is trading just above ws200. As transits through straits keep delaying and charterers are looking to cover their stems ex Bsea for second decade January, we expect the market to remain firm in the week to come.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2019-12-16 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2019-12-16 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 Freight rates in the Baltic and North Sea market seem to have found their feet around ws235 levels in the Nsea and ws190 levels ex Baltic, depending on what discharge options one needs. Stems loading very end year are currently being fixed with quite a lot of cargo activity taking place off the market. Although certain owners have expressed their willingness to put their clean ships into dirty trade, the tonnage list remains tight, and thus we still expect a firm market going into the new year. Cargo activity has been healthy in the Mediterranean and Black Sea this week and owners are pleased to see the market bounce back. Benchmark routes both ex Bsea and cross-Med have picked up about 25 ws-points, and at the time of writing TD19 is trading just above ws200. As transits through straits keep delaying and charterers are looking to cover their stems ex Bsea for second decade January, we expect the market to remain firm in the week to come.
 

@@ -6,7 +6,7 @@ week: 53
 date_range: "2020-12-28 to 2020-12-30"
 comments_count: 11
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:53"
+generated_at: "2026-10-05 16:11:48"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 53, 2020
@@ -39,14 +39,14 @@ The last week of 2020 and Christmas holidays last week added some rush activity 
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2020-12-30 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2020-12-30 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 We are in that strange week between Christmas and New Year, that can bring vast riches or very little at all. As it is, we are very much on the latter. With it being a short week and many out on holiday, we have seen only 29 fixtures fixed worldwide on the VLCCs over the past week, which is light by any count. Many owners will be holding on for a promising start to 2021, where there is the possibility of a catch up required across the board. Therefore, many have been keeping their powder dry by not offering in, but in fairness, there has not been a great deal to offer in to. Rates have moved very little, with MEG/East creeping up a touch (WS36.5 done on a vessel with an old sire) but the Atlantic (albeit an Eastern ballaster at WS32 Brazil/East) coming off. It very much depends on dates and sentiment at the current time.
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2020-12-30 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2020-12-30 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 We are in that strange week between Christmas and New Year, that can bring vast riches or very little at all. As it is, we are very much on the latter. With it being a short week and many out on holiday, we have seen only 29 fixtures fixed worldwide on the VLCCs over the past week, which is light by any count. Many owners will be holding on for a promising start to 2021, where there is the possibility of a catch up required across the board. Therefore, many have been keeping their powder dry by not offering in, but in fairness, there has not been a great deal to offer in to. Rates have moved very little, with MEG/East creeping up a touch (WS36.5 done on a vessel with an old sire) but the Atlantic (albeit an Eastern ballaster at WS32 Brazil/East) coming off. It very much depends on dates and sentiment at the current time.
 

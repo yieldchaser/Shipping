@@ -6,7 +6,7 @@ week: 36
 date_range: "2021-09-06 to 2021-09-09"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:55"
+generated_at: "2026-10-05 16:11:49"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 36, 2021
@@ -67,14 +67,14 @@ There's a perception that Suezmax's always follow "big brothers" lead as soon as
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2021-09-08 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2021-09-08 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 The Nsea/Baltic Aframax market experienced yet another disappointing week. The combination of an abundance of available tonnage coupled with somewhat reduced activity, in the current fixing window, are keeping rates at bottom levels. Earnings are very close to nothing or even negative for some owners trading in this area. Unless, owners find better alternatives elsewhere, we expect the next week to remain quite similar to the previous.  The Med/Bsea market also continued trading sideways at bottom levels this week. Bad weather and potential disruptions in Libya have created a little bit of excitement, however these elements have yet to develop into firmer rates. A few owners have an optimistic eye on the cargo program out of Bsea for October, so it will be interesting to see how healthy this program is once revealed.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2021-09-08 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2021-09-08 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 The Nsea/Baltic Aframax market experienced yet another disappointing week. The combination of an abundance of available tonnage coupled with somewhat reduced activity, in the current fixing window, are keeping rates at bottom levels. Earnings are very close to nothing or even negative for some owners trading in this area. Unless, owners find better alternatives elsewhere, we expect the next week to remain quite similar to the previous.  The Med/Bsea market also continued trading sideways at bottom levels this week. Bad weather and potential disruptions in Libya have created a little bit of excitement, however these elements have yet to develop into firmer rates. A few owners have an optimistic eye on the cargo program out of Bsea for October, so it will be interesting to see how healthy this program is once revealed.
 

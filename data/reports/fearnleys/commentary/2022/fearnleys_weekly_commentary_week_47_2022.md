@@ -6,7 +6,7 @@ week: 47
 date_range: "2022-11-21 to 2022-11-25"
 comments_count: 15
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:59"
+generated_at: "2026-10-05 16:11:50"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 47, 2022
@@ -53,14 +53,14 @@ After a hectic week in Dubai, most charterers return with a more relaxed feel, w
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2022-11-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2022-11-23 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 The global Suezmax market continues to benefit from a mixture of sustained enquiry levels and regional anomalies, which have combined to deliver a very stable/firm market. In the East, there has been huge volatility with TD23 trading at WS 130 off ultra-prompt dates, whilst natural dates hover around WS 115-117.5 with upside bias (this is mainly down to tighter 2x20 ton crane availability up to 10'Dec'). A MEG/East run needs testing but you're unlikely to see much change from WS 210 with rates will ultimately capped by VLCCs. The Atlantic maintains a highly volatile outlook with all regions cannibalizing the same list which has created logical stresses. Med and USG Aframax cargoes continue to take out early Suezmax tonnage which, for now, will continue to provide solid support.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2022-11-23 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2022-11-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 The global Suezmax market continues to benefit from a mixture of sustained enquiry levels and regional anomalies, which have combined to deliver a very stable/firm market. In the East, there has been huge volatility with TD23 trading at WS 130 off ultra-prompt dates, whilst natural dates hover around WS 115-117.5 with upside bias (this is mainly down to tighter 2x20 ton crane availability up to 10'Dec'). A MEG/East run needs testing but you're unlikely to see much change from WS 210 with rates will ultimately capped by VLCCs. The Atlantic maintains a highly volatile outlook with all regions cannibalizing the same list which has created logical stresses. Med and USG Aframax cargoes continue to take out early Suezmax tonnage which, for now, will continue to provide solid support.
 

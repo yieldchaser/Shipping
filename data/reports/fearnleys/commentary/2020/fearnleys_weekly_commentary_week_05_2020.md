@@ -6,7 +6,7 @@ week: 5
 date_range: "2020-01-27 to 2020-01-29"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:50"
+generated_at: "2026-10-05 16:11:47"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 05, 2020
@@ -39,14 +39,14 @@ Not surprisingly, the market is completely lacking excitement and activity due t
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2020-01-29 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2020-01-29 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 Considering where we have come from the VLCC market is presently a sight for sore eyes. Returns are still north of USD 40k/day, which this time last year would have been more than acceptable. Owners are putting up a fight, at the writing moment drawing the line in the sand at ws65 MEG/East, but we will not be surprised to see someone break ranks and simply wants to get fixed. The market rarely stays static for long, and the arrow is certainly not pointing up for now. There are however an increasing number of ships getting off-spec bunker which has led to replacements. So far not affecting the rate levels as alternative ships remain plentiful, though something to keep an eye on. The ongoing ‘Corona-Outbreak‘ is also weighing on the general sentiment, but hopefully short-lived. On a positive note bunker prices are also seeing a downward tendency.
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2020-01-29 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2020-01-29 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 Considering where we have come from the VLCC market is presently a sight for sore eyes. Returns are still north of USD 40k/day, which this time last year would have been more than acceptable. Owners are putting up a fight, at the writing moment drawing the line in the sand at ws65 MEG/East, but we will not be surprised to see someone break ranks and simply wants to get fixed. The market rarely stays static for long, and the arrow is certainly not pointing up for now. There are however an increasing number of ships getting off-spec bunker which has led to replacements. So far not affecting the rate levels as alternative ships remain plentiful, though something to keep an eye on. The ongoing ‘Corona-Outbreak‘ is also weighing on the general sentiment, but hopefully short-lived. On a positive note bunker prices are also seeing a downward tendency.
 
@@ -67,14 +67,14 @@ The Suezmax market have really taken a plunge this week. An increasing amount of
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2020-01-29 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2020-01-29 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 In the Baltic and North Sea, we have seen a few date sensitive cargoes being fixed at higher levels supporting an upward correction in rates. Although we have seen Suezmaxes compete on a few Afra-stems, the cargo program ex Baltic for the month of February is healthy enough to avoid a dramatic downward correction in rates as seen in other regions. Despite having some faith in the Mediterranean and Black Sea last week, we have not seen the necessary cargo activity needed to support a firm trend. On the contrary, benchmark routes have dropped significantly since last week, with TD19 currently trading around ws107.5. Although ships have been ballasting to surrounding markets, the tonnage list of available ships in the Med/Bsea is still long. In the week to come, all eyes will be on Libya, as owners wait for Libyan crude exports to re-enter the market.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2020-01-29 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2020-01-29 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 In the Baltic and North Sea, we have seen a few date sensitive cargoes being fixed at higher levels supporting an upward correction in rates. Although we have seen Suezmaxes compete on a few Afra-stems, the cargo program ex Baltic for the month of February is healthy enough to avoid a dramatic downward correction in rates as seen in other regions. Despite having some faith in the Mediterranean and Black Sea last week, we have not seen the necessary cargo activity needed to support a firm trend. On the contrary, benchmark routes have dropped significantly since last week, with TD19 currently trading around ws107.5. Although ships have been ballasting to surrounding markets, the tonnage list of available ships in the Med/Bsea is still long. In the week to come, all eyes will be on Libya, as owners wait for Libyan crude exports to re-enter the market.
 

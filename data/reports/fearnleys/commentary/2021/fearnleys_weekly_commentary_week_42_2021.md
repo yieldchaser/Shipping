@@ -6,7 +6,7 @@ week: 42
 date_range: "2021-10-18 to 2021-10-22"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:55"
+generated_at: "2026-10-05 16:11:49"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 42, 2021
@@ -67,14 +67,14 @@ All load zones are set for further rates rises this week due to a combination of
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2021-10-20 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2021-10-20 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 Nsea/Baltic rates remained steady last week as well as into the start of this week. TC earnings on local runs are still weak compared to the other two Western markets in the Med and the US. Overall activity is looking healthier and Russian exports for November are expected to be at the highest since the start of the pandemic. Moving forward a step back is not expected for this market but rather an upward correction in rates as we move into November dates. In the Med/Bsea market we have seen a fair balance of cargoes and available ships this week, allowing owners to be able to maintain the current rate levels. The general consensus is that the market is trading sideways but with a firming potential, and we expect this to continue going into next week.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2021-10-20 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2021-10-20 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 Nsea/Baltic rates remained steady last week as well as into the start of this week. TC earnings on local runs are still weak compared to the other two Western markets in the Med and the US. Overall activity is looking healthier and Russian exports for November are expected to be at the highest since the start of the pandemic. Moving forward a step back is not expected for this market but rather an upward correction in rates as we move into November dates. In the Med/Bsea market we have seen a fair balance of cargoes and available ships this week, allowing owners to be able to maintain the current rate levels. The general consensus is that the market is trading sideways but with a firming potential, and we expect this to continue going into next week.
 

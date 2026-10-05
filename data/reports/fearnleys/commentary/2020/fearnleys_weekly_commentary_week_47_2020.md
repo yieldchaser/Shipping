@@ -6,7 +6,7 @@ week: 47
 date_range: "2020-11-16 to 2020-11-17"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:53"
+generated_at: "2026-10-05 16:11:48"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 47, 2020
@@ -53,28 +53,28 @@ The December MEG program has kicked off with a yawn. The Chinese are “programm
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2020-11-16 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2020-11-16 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 Those participants who started the week with a sense of optimism may be feeling a little short changed. Td20 has spent a week flirting with W40, but attempts to push rates further have been thwarted by Charterers slow trading every cargo. Whilst the WAFR December program is fairly lean, the main physical and psychological support may yet come from the Black Sea and Libya. The December Russian Black Sea program  is noticeably bigger than November, which has encouraged Charterers to reach forward, creating date-convergence with the West African fixing window. This has held a number of  vessels on the Continent and West Mediterranean away from WAFR, creating some balance .  MEG/East has taken a breather  for now with rates likely to settle at 130KT x W45 on modern whilst Basrah/Med trades 140kt x W20-22.5.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2020-11-16 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2020-11-16 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 Those participants who started the week with a sense of optimism may be feeling a little short changed. Td20 has spent a week flirting with W40, but attempts to push rates further have been thwarted by Charterers slow trading every cargo. Whilst the WAFR December program is fairly lean, the main physical and psychological support may yet come from the Black Sea and Libya. The December Russian Black Sea program  is noticeably bigger than November, which has encouraged Charterers to reach forward, creating date-convergence with the West African fixing window. This has held a number of  vessels on the Continent and West Mediterranean away from WAFR, creating some balance .  MEG/East has taken a breather  for now with rates likely to settle at 130KT x W45 on modern whilst Basrah/Med trades 140kt x W20-22.5.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2020-11-16 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2020-11-16 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 With other surrounding markets offering a better alternative, we had quite a few ships ballasting away from the Nsea/Baltic. With less tonnage supply in the area Owners were filled with some more confidence to push for higher rates. However, this momentum didn’t last as cargo volumes weren’t great enough to support any upward pressure. Going forward, we might see some weather delays and we could see the market gain a few points on back of ships getting delayed. Activity has slowed down again in the Med/Bsea, and with a growing tonnage list we have seen a slight downwards correction in rates. Although the December cargo program out of Bsea is lighter than previous months, Libyan export activity is contributing in a positive manner. In the short run however we expect the market continue to trade at current low levels.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2020-11-16 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2020-11-16 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 With other surrounding markets offering a better alternative, we had quite a few ships ballasting away from the Nsea/Baltic. With less tonnage supply in the area Owners were filled with some more confidence to push for higher rates. However, this momentum didn’t last as cargo volumes weren’t great enough to support any upward pressure. Going forward, we might see some weather delays and we could see the market gain a few points on back of ships getting delayed. Activity has slowed down again in the Med/Bsea, and with a growing tonnage list we have seen a slight downwards correction in rates. Although the December cargo program out of Bsea is lighter than previous months, Libyan export activity is contributing in a positive manner. In the short run however we expect the market continue to trade at current low levels.
 

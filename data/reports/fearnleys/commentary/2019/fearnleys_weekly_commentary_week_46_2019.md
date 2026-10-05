@@ -6,7 +6,7 @@ week: 46
 date_range: "2019-11-11 to 2019-11-13"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:50"
+generated_at: "2026-10-05 16:11:47"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 46, 2019
@@ -39,42 +39,42 @@ A poor week across all borders, with tonnage building up and lack of fresh order
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2019-11-13 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2019-11-13 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 An active VLCC market last week, with most fixtures concluded under the radar as the soft trend continues. The MEG count is now moving up towards 135, and with charterers already looking early December loading. Atlantic showing signs of more activity, but at this stage it will most likely dampen the soft trend rather than it is turning around. Most of the tanker market participants are out in Dubai for Bahri Reception and we will not be surprised if by Friday more ships has disappeared under the radar at last done levels.
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2019-11-13 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2019-11-13 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 An active VLCC market last week, with most fixtures concluded under the radar as the soft trend continues. The MEG count is now moving up towards 135, and with charterers already looking early December loading. Atlantic showing signs of more activity, but at this stage it will most likely dampen the soft trend rather than it is turning around. Most of the tanker market participants are out in Dubai for Bahri Reception and we will not be surprised if by Friday more ships has disappeared under the radar at last done levels.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2019-11-13 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2019-11-13 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 The Atlantic Suezmax market finally hit bottom this week and even bounced back some points. Some charterers ex West Africa were holding back a bit too long and ended up being above ws100 for Wafr/UKCM. Position list in West Africa is looking short for November dates, and owners finally feeling a bit more bullish after two really slow weeks. One thing that also could help this market going forward is the fog has arrived the Turkish Straits. This, and expected increasing cargo activity, could point towards a positive market the next weeks. In the East, on the other hand, the market is looking really slow. Hopefully a bullish Wafr market could make owners ballast some ships, but until then the we expect the East-market to remain slow.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2019-11-13 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2019-11-13 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 The Atlantic Suezmax market finally hit bottom this week and even bounced back some points. Some charterers ex West Africa were holding back a bit too long and ended up being above ws100 for Wafr/UKCM. Position list in West Africa is looking short for November dates, and owners finally feeling a bit more bullish after two really slow weeks. One thing that also could help this market going forward is the fog has arrived the Turkish Straits. This, and expected increasing cargo activity, could point towards a positive market the next weeks. In the East, on the other hand, the market is looking really slow. Hopefully a bullish Wafr market could make owners ballast some ships, but until then the we expect the East-market to remain slow.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2019-11-13 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2019-11-13 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 Following a relatively slow week in the Baltic and North Sea market, we have seen an upwards correction in rates the last few days. As the tonnage list is tightening and there still are cargoes in the market yet to be covered in the 20-25 window ex Baltic, we expect the market to stay firm in the week to come. In the Mediterranean and Black Sea, the market has also bounced back this week. Much to the excitement of owners we have seen an active market with an upward trend in rate levels which has resulted in benchmark routes ex Bsea and cross-Med picking up around 20 points on worldscale. Although we still see a healthy tonnage list, we expect the market to stay firm in the week to come due to the sufficient amount of cargoes currently coming into the market.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2019-11-13 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2019-11-13 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 Following a relatively slow week in the Baltic and North Sea market, we have seen an upwards correction in rates the last few days. As the tonnage list is tightening and there still are cargoes in the market yet to be covered in the 20-25 window ex Baltic, we expect the market to stay firm in the week to come. In the Mediterranean and Black Sea, the market has also bounced back this week. Much to the excitement of owners we have seen an active market with an upward trend in rate levels which has resulted in benchmark routes ex Bsea and cross-Med picking up around 20 points on worldscale. Although we still see a healthy tonnage list, we expect the market to stay firm in the week to come due to the sufficient amount of cargoes currently coming into the market.
 

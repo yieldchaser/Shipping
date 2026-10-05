@@ -6,7 +6,7 @@ week: 16
 date_range: "2023-04-17 to 2023-04-21"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:22:00"
+generated_at: "2026-10-05 16:11:51"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 16, 2023
@@ -67,14 +67,14 @@ Global Suezmax rates have been under downward pressure these last few weeks with
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2023-04-17 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2023-04-17 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 The North Sea Aframax market tumbled last week as activity was low and the tonnage list was mainly dominated by relets which were programmed for own cargoes. The downward pressure also increased with Suezmaxes absorbing significant volumes for local runs. It feels that market has reached the bottom for now, however any upside potential is not in the cards before May dates kick in and activity again could improve.  More of the same for the BSea/Med market as well where inevitably rates took a hit and moved lower as tonnage list was long and activity was moderate. We don’t expect rates to improve massively in the short fixture but if charterers rush to secure tonnage at present levels, owners might be able to slightly push for more. Again, we need to see May volumes before this will happen.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2023-04-17 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2023-04-17 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 The North Sea Aframax market tumbled last week as activity was low and the tonnage list was mainly dominated by relets which were programmed for own cargoes. The downward pressure also increased with Suezmaxes absorbing significant volumes for local runs. It feels that market has reached the bottom for now, however any upside potential is not in the cards before May dates kick in and activity again could improve.  More of the same for the BSea/Med market as well where inevitably rates took a hit and moved lower as tonnage list was long and activity was moderate. We don’t expect rates to improve massively in the short fixture but if charterers rush to secure tonnage at present levels, owners might be able to slightly push for more. Again, we need to see May volumes before this will happen.
 

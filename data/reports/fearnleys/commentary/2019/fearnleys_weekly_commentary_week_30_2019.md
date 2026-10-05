@@ -6,7 +6,7 @@ week: 30
 date_range: "2019-07-23 to 2019-07-26"
 comments_count: 17
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:49"
+generated_at: "2026-10-05 16:11:46"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 30, 2019
@@ -39,14 +39,14 @@ The sentiment has remained the same over last 7 days , although the pace of rate
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2019-07-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2019-07-23 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 The VLCC market sprung to life this week and the fixture count is increasing by the hour, with ships disappearing all over, albeit more under the counter, which does little to help the market malaise. Despite thinning, the position list remains well populated. Thus, overall we still do not see any dramatic changes in fortunes for the owning community in the short term . Downside , however appears capped in low W40’s MEG/East for modern unrestricted tonnage and high W30’s for their older sisters. The Atlantic has also seen a steady flow of cargoes. However, rates have yet to gain momentum, with West Africa/East stuck in the mid W40’s and USG export cargoes in the low to mid $5 million for the benchmark Korea destination. Increased activity simultanously for all the major Vlcc routes required for rates to strenghten from present levels.
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2019-07-23 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2019-07-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 The VLCC market sprung to life this week and the fixture count is increasing by the hour, with ships disappearing all over, albeit more under the counter, which does little to help the market malaise. Despite thinning, the position list remains well populated. Thus, overall we still do not see any dramatic changes in fortunes for the owning community in the short term . Downside , however appears capped in low W40’s MEG/East for modern unrestricted tonnage and high W30’s for their older sisters. The Atlantic has also seen a steady flow of cargoes. However, rates have yet to gain momentum, with West Africa/East stuck in the mid W40’s and USG export cargoes in the low to mid $5 million for the benchmark Korea destination. Increased activity simultanously for all the major Vlcc routes required for rates to strenghten from present levels.
 
@@ -110,13 +110,6 @@ WEST  Most of this week has been quiet, with freight weakening. It will be inter
 
 ---
 
-### WAFR/UKC
-**Date:** 2019-07-25 | **Subtype:** trend | **Desk:** Fearnleys Research
-
-Date Sensitive
-
----
-
 ### WAFR/USG
 **Date:** 2019-07-25 | **Subtype:** trend | **Desk:** Fearnleys Research
 
@@ -125,13 +118,20 @@ Date Sensitive
 ---
 
 ### WAFR/UKC
+**Date:** 2019-07-25 | **Subtype:** trend | **Desk:** Fearnleys Research
+
+Date Sensitive
+
+---
+
+### WAFR/USG
 **Date:** 2019-07-26 | **Subtype:** trend | **Desk:** Fearnleys Research
 
 Date Sensitive
 
 ---
 
-### WAFR/USG
+### WAFR/UKC
 **Date:** 2019-07-26 | **Subtype:** trend | **Desk:** Fearnleys Research
 
 Date Sensitive

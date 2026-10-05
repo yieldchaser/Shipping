@@ -6,7 +6,7 @@ week: 1
 date_range: "2023-01-02 to 2023-01-04"
 comments_count: 13
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:59"
+generated_at: "2026-10-05 16:11:50"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 01, 2023
@@ -67,14 +67,14 @@ This week the Suezmax market has been a tale of two hemispheres. In the East, ra
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2023-01-04 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2023-01-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 Aframax rates in the Nsea have been under constantly downward pressure over xmas and at the start of the new year due as a lot of cargoes been covered on own relets. Going forward we expect rates to continue sideways, but with a softish undertone as charterers could combine Nsea stems by lifting cargoes on either Suezmax or VLCCs. In the Med/Bsea, rates seem to have hit the bottom after losing about 200 points during the last two weeks. Charterers fixing forward, vessels ballasting away and being fixed for long-haul runs have shrunk the tonnage list for normal fixing window. We expect rates to move sideways with a positive note for next week, however Suezmax could possibly limit any upward pressure by capping Afras and fixing part cargoes.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2023-01-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2023-01-04 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 Aframax rates in the Nsea have been under constantly downward pressure over xmas and at the start of the new year due as a lot of cargoes been covered on own relets. Going forward we expect rates to continue sideways, but with a softish undertone as charterers could combine Nsea stems by lifting cargoes on either Suezmax or VLCCs. In the Med/Bsea, rates seem to have hit the bottom after losing about 200 points during the last two weeks. Charterers fixing forward, vessels ballasting away and being fixed for long-haul runs have shrunk the tonnage list for normal fixing window. We expect rates to move sideways with a positive note for next week, however Suezmax could possibly limit any upward pressure by capping Afras and fixing part cargoes.
 

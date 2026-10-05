@@ -6,7 +6,7 @@ week: 6
 date_range: "2020-02-03 to 2020-02-05"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:50"
+generated_at: "2026-10-05 16:11:47"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 06, 2020
@@ -67,14 +67,14 @@ For Suezmaxes in the Atlantic it’s all about catching the falling knife. Marke
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2020-02-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2020-02-04 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 In the North Sea and Baltic, the market took a hit this week with rates decreasing rapidly. Slow activity and other surrounding markets showing weakness added to this downward pressure on rates. However, rates seem to have bottomed out for now and with renewed activity we can see rates pick up again getting closer to third decade fixing window. Also in the Mediterranean and Black Sea we have seen the rates take a further drop over the course of the week. The lack of cargo activity across the board combined with a build-up of prompt ships has left owners battling to fix the few cargoes entering the market. Cross-Med voyages are currently paying low ws70’s now, and since owners are seeing returns barely covering their OPEX there is consensus among them that rates have now bottomed out.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2020-02-04 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2020-02-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 In the North Sea and Baltic, the market took a hit this week with rates decreasing rapidly. Slow activity and other surrounding markets showing weakness added to this downward pressure on rates. However, rates seem to have bottomed out for now and with renewed activity we can see rates pick up again getting closer to third decade fixing window. Also in the Mediterranean and Black Sea we have seen the rates take a further drop over the course of the week. The lack of cargo activity across the board combined with a build-up of prompt ships has left owners battling to fix the few cargoes entering the market. Cross-Med voyages are currently paying low ws70’s now, and since owners are seeing returns barely covering their OPEX there is consensus among them that rates have now bottomed out.
 

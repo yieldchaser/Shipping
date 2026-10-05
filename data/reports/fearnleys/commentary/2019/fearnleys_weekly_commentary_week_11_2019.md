@@ -6,7 +6,7 @@ week: 11
 date_range: "2019-03-11 to 2019-03-13"
 comments_count: 13
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:48"
+generated_at: "2026-10-05 16:11:46"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 11, 2019
@@ -39,42 +39,42 @@ A more negative segment this week in Pacific, although seeing still Indo coal ca
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2019-03-11 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2019-03-11 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 The Vlcc market has this week been a bit ‘all-over-the-place’. One moment it has looked firm with steady rates being paid both in the Meg and also West Africa. The lack of steady demand ex Americas and particularly Usg has infused some doubt in the market and especially for those who have ballasted West on spec. It has therefore been too much of a gamble not to accept the rates offered on the few cargoes shown , and rates have taken a bit of a dip. Nothing dramatic so far but increased volumes for all the major Vlcc-routes required for rates to have any chance to hold at present levels.
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2019-03-11 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2019-03-11 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 The Vlcc market has this week been a bit ‘all-over-the-place’. One moment it has looked firm with steady rates being paid both in the Meg and also West Africa. The lack of steady demand ex Americas and particularly Usg has infused some doubt in the market and especially for those who have ballasted West on spec. It has therefore been too much of a gamble not to accept the rates offered on the few cargoes shown , and rates have taken a bit of a dip. Nothing dramatic so far but increased volumes for all the major Vlcc-routes required for rates to have any chance to hold at present levels.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2019-03-11 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2019-03-11 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 Suezmaxes lost further ground over the past week as Charterers looked to cherry pick tonnage off market thus burying fixtures and managing to erode rates futher. Demand for fuel oil in the east has kept the med market ticking over and there are signs of some arbitrage enquiry in the north that could compliment the slim West Africa offerings.  TD20 has hit a low of ws 60 so far this week and TD6 has slipped down to ws 75 having had very limited action. There is still some pain to come for owners as the trend for the week ahead has a softer tone with just too many ships still available on lists.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2019-03-11 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2019-03-11 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 Suezmaxes lost further ground over the past week as Charterers looked to cherry pick tonnage off market thus burying fixtures and managing to erode rates futher. Demand for fuel oil in the east has kept the med market ticking over and there are signs of some arbitrage enquiry in the north that could compliment the slim West Africa offerings.  TD20 has hit a low of ws 60 so far this week and TD6 has slipped down to ws 75 having had very limited action. There is still some pain to come for owners as the trend for the week ahead has a softer tone with just too many ships still available on lists.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2019-03-11 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2019-03-11 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 As expected, Aframax rates in the Nsea and Baltic increased entering the fixing window in third decade of March. This firm sentiment looks to continue as Owners have the upper hand in the current fixing window. However, going forward there is more available tonnage coming open in the area and we expect rates to soften once 3rd decade cargoes get covered. In the Mediterranean and Black Sea on the other hand, we have seen rates come off this week due to low activity levels from Charterers side. Prompt ships are piling up in the area and we have seen TD19 (cross-Med) crumble down from WS 110 levels mid last week to WS 90 levels at time of writing. Fixtures ex Black Sea have dropped around 35 points from WS 135 to WS 100 levels over the last week. Unless Owners start ballasting their ships away from the area in order to try their luck in alternative markets, we expect freight levels in the Mediterranean and Black Sea to remain under pressure in the week to come as the current tonnage list still looks healthy.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2019-03-11 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2019-03-11 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 As expected, Aframax rates in the Nsea and Baltic increased entering the fixing window in third decade of March. This firm sentiment looks to continue as Owners have the upper hand in the current fixing window. However, going forward there is more available tonnage coming open in the area and we expect rates to soften once 3rd decade cargoes get covered. In the Mediterranean and Black Sea on the other hand, we have seen rates come off this week due to low activity levels from Charterers side. Prompt ships are piling up in the area and we have seen TD19 (cross-Med) crumble down from WS 110 levels mid last week to WS 90 levels at time of writing. Fixtures ex Black Sea have dropped around 35 points from WS 135 to WS 100 levels over the last week. Unless Owners start ballasting their ships away from the area in order to try their luck in alternative markets, we expect freight levels in the Mediterranean and Black Sea to remain under pressure in the week to come as the current tonnage list still looks healthy.
 

@@ -6,7 +6,7 @@ week: 13
 date_range: "2023-03-27 to 2023-03-30"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:22:00"
+generated_at: "2026-10-05 16:11:51"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 13, 2023
@@ -53,14 +53,14 @@ Not a busy week on the open market, but ships continue to fix quietly with minim
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2023-03-29 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2023-03-29 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 It says a lot about the psychology of this market, that despite no real support from either the US Gulf or Mediterranean, West Africa has managed to bottom at a very healthy mid/high WS 130's/TD20. Participants, namely charterers, have been burnt by the bounce so many times that they are the ones ironically applying the handbrake, which is preventing further falls. The West African fixing window is firmly focused on 15-20/4, and we count max 2-4 stems left before charterers start sniffing about for early third decade. The list remains tight, and we all know how this algorithm tends to play out. In the East, TD23 has twice traded WS 70, which is a fair reflection of the list and sentiment for that run. MEG/China on modern needs a test but it should find a home at circa WS 150 levels.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2023-03-29 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2023-03-29 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 It says a lot about the psychology of this market, that despite no real support from either the US Gulf or Mediterranean, West Africa has managed to bottom at a very healthy mid/high WS 130's/TD20. Participants, namely charterers, have been burnt by the bounce so many times that they are the ones ironically applying the handbrake, which is preventing further falls. The West African fixing window is firmly focused on 15-20/4, and we count max 2-4 stems left before charterers start sniffing about for early third decade. The list remains tight, and we all know how this algorithm tends to play out. In the East, TD23 has twice traded WS 70, which is a fair reflection of the list and sentiment for that run. MEG/China on modern needs a test but it should find a home at circa WS 150 levels.
 

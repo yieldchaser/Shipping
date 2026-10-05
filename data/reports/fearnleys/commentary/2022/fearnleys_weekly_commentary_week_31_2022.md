@@ -6,7 +6,7 @@ week: 31
 date_range: "2022-08-01 to 2022-08-02"
 comments_count: 13
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:58"
+generated_at: "2026-10-05 16:11:50"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 31, 2022
@@ -53,14 +53,14 @@ The VLCC market dropped a couple of points compared to last week and looks to be
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2022-08-02 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2022-08-02 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 The Suezmaxes in the West remains rather active, after TD20 got a small correction last week. The V's taking out Suez-cargoes was bound to have that effect on the market, but even after this the market still remains in the WS 130's. USG and Brazil still busy as well which keeps the rates in the West at decent levels. In the East we don’t see much crude going long from MEG, but a busy fuel market and a steady amount of crude cargoes going to India keep rates at current levels. Going forward we expect rates to remain rather stable, with some downward pressure as we are going in to holiday season. Historically August tends to be a more quiet month, but so far we have not seen much change.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2022-08-02 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2022-08-02 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 The Suezmaxes in the West remains rather active, after TD20 got a small correction last week. The V's taking out Suez-cargoes was bound to have that effect on the market, but even after this the market still remains in the WS 130's. USG and Brazil still busy as well which keeps the rates in the West at decent levels. In the East we don’t see much crude going long from MEG, but a busy fuel market and a steady amount of crude cargoes going to India keep rates at current levels. Going forward we expect rates to remain rather stable, with some downward pressure as we are going in to holiday season. Historically August tends to be a more quiet month, but so far we have not seen much change.
 

@@ -6,7 +6,7 @@ week: 4
 date_range: "2023-01-23 to 2023-01-25"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:59"
+generated_at: "2026-10-05 16:11:51"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 04, 2023
@@ -53,14 +53,14 @@ With Chinese New Year behind us and the Far East back at the desk, the market se
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2023-01-25 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2023-01-25 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 There has been some eager fixing East of Suez, with one particular Suezmax charterer out of the blocks very early on Monday, which essentially sealed the fate of the market by keeping MEG/East firmly in the WS 140's. With Chinese New Year in full swing, you would have thought there would be a lull in proceedings, but it was the exact opposite, with last done Basrah/East trading at WS 147.5 on a modern unit. In the Atlantic, there has been a degree of stability in the Black Sea with TD6 trading conference WS 202.5-205 on the back of northbound Turkish straits delays hovering around 10 days.  TD20 suffered a setback with WS 125 being repeated a couple of times (despite a tight list). For any cargo prior to 10th February there is possible upside (if one happens to look at lists). USG/UKCM is conference at low WS 90'S.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2023-01-25 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2023-01-25 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 There has been some eager fixing East of Suez, with one particular Suezmax charterer out of the blocks very early on Monday, which essentially sealed the fate of the market by keeping MEG/East firmly in the WS 140's. With Chinese New Year in full swing, you would have thought there would be a lull in proceedings, but it was the exact opposite, with last done Basrah/East trading at WS 147.5 on a modern unit. In the Atlantic, there has been a degree of stability in the Black Sea with TD6 trading conference WS 202.5-205 on the back of northbound Turkish straits delays hovering around 10 days.  TD20 suffered a setback with WS 125 being repeated a couple of times (despite a tight list). For any cargo prior to 10th February there is possible upside (if one happens to look at lists). USG/UKCM is conference at low WS 90'S.
 

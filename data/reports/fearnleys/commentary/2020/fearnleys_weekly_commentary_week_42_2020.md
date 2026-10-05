@@ -6,7 +6,7 @@ week: 42
 date_range: "2020-10-12 to 2020-10-14"
 comments_count: 12
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:52"
+generated_at: "2026-10-05 16:11:48"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 42, 2020
@@ -53,14 +53,14 @@ With China and Asia back from holidays, the week kicked off with a flurry of enq
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2020-10-12 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2020-10-12 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 The Suezmax market seems like a never-ending story at this point. Activity is decent, but there is just way too much available tonnage, in all areas. Some positives in the West the last week though, Libya is now back on, soon at the capacity they were at prior to the shutdown. As a result of that we have had more activity in the Med/Bsea area than in a long time. In the East we are still at bottom levels, even if tonnage-list is looking slightly better than last week. With the activity we see in both East and West, we expect the market to have some potential upside, but it will take time. This week rates will remain steady, and we are not having too high hopes for next week either.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2020-10-12 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2020-10-12 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 The Suezmax market seems like a never-ending story at this point. Activity is decent, but there is just way too much available tonnage, in all areas. Some positives in the West the last week though, Libya is now back on, soon at the capacity they were at prior to the shutdown. As a result of that we have had more activity in the Med/Bsea area than in a long time. In the East we are still at bottom levels, even if tonnage-list is looking slightly better than last week. With the activity we see in both East and West, we expect the market to have some potential upside, but it will take time. This week rates will remain steady, and we are not having too high hopes for next week either.
 

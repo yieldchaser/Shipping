@@ -6,7 +6,7 @@ week: 7
 date_range: "2023-02-15 to 2023-02-15"
 comments_count: 13
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:59"
+generated_at: "2026-10-05 16:11:51"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 07, 2023
@@ -53,14 +53,14 @@ As interesting a market as we have seen in a while. With a bumper February in th
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2023-02-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2023-02-15 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 A key feature of this Suezmax market is "volatility" in which the main protagonist has been the been the Atlantic. Markets tend to adjust to change (Ukraine) after a period of bedding in, but these recent market nuances have undeniably left an indelible mark on charterers psyche. West Africa, and more precisely, TD20 end/early February/March dates, should have traded with minimal upside but charterers dispensed with the tried and tested method of chronological fixing and piled in on top of each which sent very positive signals to owners, and with that, firmer rates. Now the froth has settled the region is looking moderately overpriced and with V's munching on second decade positions rates are beginning to look toppy: WS 110's. MEG/East remains tight for 20T cranes and trades WS 130 whilst TD23 trades mid/high WS 50's.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2023-02-15 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2023-02-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 A key feature of this Suezmax market is "volatility" in which the main protagonist has been the been the Atlantic. Markets tend to adjust to change (Ukraine) after a period of bedding in, but these recent market nuances have undeniably left an indelible mark on charterers psyche. West Africa, and more precisely, TD20 end/early February/March dates, should have traded with minimal upside but charterers dispensed with the tried and tested method of chronological fixing and piled in on top of each which sent very positive signals to owners, and with that, firmer rates. Now the froth has settled the region is looking moderately overpriced and with V's munching on second decade positions rates are beginning to look toppy: WS 110's. MEG/East remains tight for 20T cranes and trades WS 130 whilst TD23 trades mid/high WS 50's.
 

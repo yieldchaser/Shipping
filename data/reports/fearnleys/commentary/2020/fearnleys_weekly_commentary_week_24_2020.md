@@ -6,7 +6,7 @@ week: 24
 date_range: "2020-06-08 to 2020-06-11"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:51"
+generated_at: "2026-10-05 16:11:47"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 24, 2020
@@ -53,14 +53,14 @@ The VLCC market failed to capitalize fully on the upward momentum from Friday wh
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2020-06-08 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2020-06-08 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 The Suezmax market has been down in the gutter for some weeks now and this week is no different. In MEG the market managed to stop the falling trend with help from the low VLCC market. We saw 5 VLCC cargoes split, taking 10 Suezmaxes out of the market, but unfortunately that was not enough to put pressure on Charterers. Even with more activity, and 20-25 ships held up in Chinese ports awaiting discharge, rates remain just below w60 for meg/east. In the west we have seen an increase in activity as well, but due to a massive position list, rates are still coming off and TCE's on a TD20 run is down towards 16k $/day. Going forward it is hard to see this market going anywhere, unless we see more news on Venezuela sanctions which seems unlikely to happen.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2020-06-08 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2020-06-08 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 The Suezmax market has been down in the gutter for some weeks now and this week is no different. In MEG the market managed to stop the falling trend with help from the low VLCC market. We saw 5 VLCC cargoes split, taking 10 Suezmaxes out of the market, but unfortunately that was not enough to put pressure on Charterers. Even with more activity, and 20-25 ships held up in Chinese ports awaiting discharge, rates remain just below w60 for meg/east. In the west we have seen an increase in activity as well, but due to a massive position list, rates are still coming off and TCE's on a TD20 run is down towards 16k $/day. Going forward it is hard to see this market going anywhere, unless we see more news on Venezuela sanctions which seems unlikely to happen.
 

@@ -6,7 +6,7 @@ week: 21
 date_range: "2019-05-20 to 2019-05-24"
 comments_count: 18
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:48"
+generated_at: "2026-10-05 16:11:46"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 21, 2019
@@ -53,28 +53,28 @@ Owners persistency has paid off to some extent as VLCC rates are now in the low 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2019-05-21 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2019-05-21 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 A very strong 3rd decade May & 1st decade June on VLCCS in the Atlantic have left Suez owners fighting over the few pieces that were their natural fixing window in WAFR. Overall, last week was all about absorbing the overhang of tonnage than anything else and this week looks like will be much the same. The level of activity generally is high which helps trimming lenghty position lists, we need this activity to continue before we see any uptick in rates – market is very much flat.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2019-05-21 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2019-05-21 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 A very strong 3rd decade May & 1st decade June on VLCCS in the Atlantic have left Suez owners fighting over the few pieces that were their natural fixing window in WAFR. Overall, last week was all about absorbing the overhang of tonnage than anything else and this week looks like will be much the same. The level of activity generally is high which helps trimming lenghty position lists, we need this activity to continue before we see any uptick in rates – market is very much flat.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2019-05-21 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2019-05-21 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 Aframax rates in the North Sea and Baltic have flattened out over the past week with benchmark routes dropping about 10 points on WS. However, surrounding markets offer an alternative to owners and we have seen some ships repositioning to the Med, while others have been fixed for cargoes ex Med while open on the Continent. The number of ships leaving the area combined with expectations of a decent Baltic program in the beginning of June, should result in an uptick in rates in the week to come. From seeing a short dip in rate levels in the Mediterranean and Black Sea prior to the weekend, the market has corrected and bounced back at the beginning of this week. At the time of writing we have seen Bsea/Med fixed at WS 120. Charterers have seen Suezmaxes come into play as an attractive alternative, resulting in a few charterers opting for the larger tonnage. Even so, we expect to see a steady/firm market in the week to come.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2019-05-21 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2019-05-21 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 Aframax rates in the North Sea and Baltic have flattened out over the past week with benchmark routes dropping about 10 points on WS. However, surrounding markets offer an alternative to owners and we have seen some ships repositioning to the Med, while others have been fixed for cargoes ex Med while open on the Continent. The number of ships leaving the area combined with expectations of a decent Baltic program in the beginning of June, should result in an uptick in rates in the week to come. From seeing a short dip in rate levels in the Mediterranean and Black Sea prior to the weekend, the market has corrected and bounced back at the beginning of this week. At the time of writing we have seen Bsea/Med fixed at WS 120. Charterers have seen Suezmaxes come into play as an attractive alternative, resulting in a few charterers opting for the larger tonnage. Even so, we expect to see a steady/firm market in the week to come.
 

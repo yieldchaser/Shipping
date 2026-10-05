@@ -6,7 +6,7 @@ week: 35
 date_range: "2019-08-26 to 2019-08-28"
 comments_count: 13
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:49"
+generated_at: "2026-10-05 16:11:47"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 35, 2019
@@ -39,14 +39,14 @@ Continuous push in most areas, Nopac rv fixing in the USD 14,000s while Indo coa
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2019-08-27 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2019-08-27 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 After a couple of hectic weeks for the Vlcc’s with rates steadily climbing we have seen a few rather quiet days. Activity in general is still there but in a more measured way as charterers took a step back due to the UK holiday on Monday to see if they could ease the firm trend. For now they have managed to slow things down and shave a couple of points off the rates. The optimism for the next couple of months is far from changed among the owning community and merely seen as a ‘pit-stop’ before it all starts up again. In the Meg we are not even at the half-way-mark for the month whilst the Brazilians are steadily coming into the market for Brazil/East cargoes. Activity in West Africa and US Gulf remains slow but also here expected to see increased activity. The slow-down therefore feels temporary, at least for now.
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2019-08-27 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2019-08-27 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 After a couple of hectic weeks for the Vlcc’s with rates steadily climbing we have seen a few rather quiet days. Activity in general is still there but in a more measured way as charterers took a step back due to the UK holiday on Monday to see if they could ease the firm trend. For now they have managed to slow things down and shave a couple of points off the rates. The optimism for the next couple of months is far from changed among the owning community and merely seen as a ‘pit-stop’ before it all starts up again. In the Meg we are not even at the half-way-mark for the month whilst the Brazilians are steadily coming into the market for Brazil/East cargoes. Activity in West Africa and US Gulf remains slow but also here expected to see increased activity. The slow-down therefore feels temporary, at least for now.
 

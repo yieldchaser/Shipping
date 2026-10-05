@@ -6,7 +6,7 @@ week: 43
 date_range: "2019-10-22 to 2019-10-23"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:50"
+generated_at: "2026-10-05 16:11:47"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 43, 2019
@@ -53,14 +53,14 @@ A quiet end to last week and the same this week. The recent frenzy made chartere
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2019-10-22 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2019-10-22 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 After a slow week last week where charterers built momentum for the downward push, rates started to slide this week with oil company relets making the first move. Rates in the Atlantic are experiencing a hefty re-pricing bearing in mind the last couple of week's bonanza. We expect rates to establish a floor in the mid W150s, implying that we are near the bottom for now with fundamentals still looking good for the owners. Allthough this means a solid 120+ WS point drop from the top, these levels still yields solid returns to owners...
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2019-10-22 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2019-10-22 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 After a slow week last week where charterers built momentum for the downward push, rates started to slide this week with oil company relets making the first move. Rates in the Atlantic are experiencing a hefty re-pricing bearing in mind the last couple of week's bonanza. We expect rates to establish a floor in the mid W150s, implying that we are near the bottom for now with fundamentals still looking good for the owners. Allthough this means a solid 120+ WS point drop from the top, these levels still yields solid returns to owners...
 

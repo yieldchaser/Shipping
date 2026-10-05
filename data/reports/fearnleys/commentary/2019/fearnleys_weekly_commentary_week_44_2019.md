@@ -6,7 +6,7 @@ week: 44
 date_range: "2019-10-29 to 2019-10-31"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:50"
+generated_at: "2026-10-05 16:11:47"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 44, 2019
@@ -67,14 +67,14 @@ The Suezmax market has been in a stand-off for almost two weeks now. Very little
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2019-10-29 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2019-10-29 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 In the Baltic and North Sea market, we have seen a continued downward correction the past week. Although activity has picked up at a slow pace the last few days, the tonnage list in the area is still healthy enough to keep a declining pressure on rates. Going forwards we are still expecting the market to firm as we approach mid-November fixing window. In the Mediterranean and Black Sea, owners have still been fighting over the stems that have come into the market. Voyages cross-Med has continued to drop and is currently trading at low ws100 levels. The tonnage list in the area is also long, and owners can only witness alternative markets seeing similar downward trends. Hence, we expect the market to remain soft in the Mediterranean/Black Sea in the week to come.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2019-10-29 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2019-10-29 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 In the Baltic and North Sea market, we have seen a continued downward correction the past week. Although activity has picked up at a slow pace the last few days, the tonnage list in the area is still healthy enough to keep a declining pressure on rates. Going forwards we are still expecting the market to firm as we approach mid-November fixing window. In the Mediterranean and Black Sea, owners have still been fighting over the stems that have come into the market. Voyages cross-Med has continued to drop and is currently trading at low ws100 levels. The tonnage list in the area is also long, and owners can only witness alternative markets seeing similar downward trends. Hence, we expect the market to remain soft in the Mediterranean/Black Sea in the week to come.
 

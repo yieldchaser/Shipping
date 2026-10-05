@@ -6,7 +6,7 @@ week: 31
 date_range: "2021-08-02 to 2021-08-03"
 comments_count: 13
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:55"
+generated_at: "2026-10-05 16:11:49"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 31, 2021
@@ -53,14 +53,14 @@ Halfway into the first week of August and the summer doldrums continues – lack
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2021-08-02 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2021-08-02 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 The Suezmax market in the West is still lacking activity. Owners want to fix short, and ships taken off the list tend to return quickly. If we look for positives, the list in the North Sea is looking tighter, but with the activity we have seen up there lately there should be enough to cover what’s there. Brazil exports also been stable at a higher level for some time now, giving owners an option other than West Africa.  In the East we are seeing some upward pressure on MEG/East rates. Several cargoes being worked in the same window, and a tighter front-end of the position list has given owners something to work with. We believe the market will keep on in the same track as we have seen going forward, with a possibility of a slight improvement in the East.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2021-08-02 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2021-08-02 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 The Suezmax market in the West is still lacking activity. Owners want to fix short, and ships taken off the list tend to return quickly. If we look for positives, the list in the North Sea is looking tighter, but with the activity we have seen up there lately there should be enough to cover what’s there. Brazil exports also been stable at a higher level for some time now, giving owners an option other than West Africa.  In the East we are seeing some upward pressure on MEG/East rates. Several cargoes being worked in the same window, and a tighter front-end of the position list has given owners something to work with. We believe the market will keep on in the same track as we have seen going forward, with a possibility of a slight improvement in the East.
 

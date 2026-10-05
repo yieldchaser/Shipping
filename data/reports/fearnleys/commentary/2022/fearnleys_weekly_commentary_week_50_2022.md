@@ -6,7 +6,7 @@ week: 50
 date_range: "2022-12-12 to 2022-12-13"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:59"
+generated_at: "2026-10-05 16:11:50"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 50, 2022
@@ -39,14 +39,14 @@ The market slightly increased in the Atlantic basin, while Pacific flat with rat
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2022-12-13 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2022-12-13 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 After a period of steady decline, the VLCC market suddenly metamorphosed Thursday last week. A large number of ships had been quietly picked off under the radar and then Bahri swooped in and fixed half a dozen ships in one go. As a result, every other charterer with uncovered enquiries then toppled in one on top of the other, and MEG/East rates jumped 10 WS points in the space of a handful of fixtures. The frenzy that followed has left the MEG position list wanting for the balance of December, although the fixture count indicates that the month’s program is largely covered. The Atlantic has seen a lot of fixing/failing/re-fixing with rates flatlined, and a weakening Suezmax segment it is likely to cap any upside for their bigger sisters.
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2022-12-13 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2022-12-13 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 After a period of steady decline, the VLCC market suddenly metamorphosed Thursday last week. A large number of ships had been quietly picked off under the radar and then Bahri swooped in and fixed half a dozen ships in one go. As a result, every other charterer with uncovered enquiries then toppled in one on top of the other, and MEG/East rates jumped 10 WS points in the space of a handful of fixtures. The frenzy that followed has left the MEG position list wanting for the balance of December, although the fixture count indicates that the month’s program is largely covered. The Atlantic has seen a lot of fixing/failing/re-fixing with rates flatlined, and a weakening Suezmax segment it is likely to cap any upside for their bigger sisters.
 

@@ -6,7 +6,7 @@ week: 20
 date_range: "2022-05-16 to 2022-05-20"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:57"
+generated_at: "2026-10-05 16:11:50"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 20, 2022
@@ -39,14 +39,14 @@ Week started off first with holidays in Asia and in addition shipping event in D
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2022-05-16 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2022-05-16 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 We sit between the May close out and the June stem releases in the MEG and as such, the surface looks quiet. Tonnage lists remain lengthy, and fundamentals point towards little change. However, with bunkers up close to USD 950 in Fujairah today, it is likely owners will have to push back, and at present there are rumors of undercover cargoes and owners holding the line. For modern ships in the MEG, it is WS 40+, if breaking 40 is the charterers aim, they will have to look at the ‘disadvantaged’.   In the Atlantic, tight and a little busier off prompt dates in Wafr, as more oil heads to the UKC, around the WS 47.5 level. Going East in the low WS 40’s. Crucial to the VLCC’s, Chinese refineries are at their lowest utility since the start of the pandemic, but most of the news from China is becoming a little more positive.
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2022-05-16 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2022-05-16 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 We sit between the May close out and the June stem releases in the MEG and as such, the surface looks quiet. Tonnage lists remain lengthy, and fundamentals point towards little change. However, with bunkers up close to USD 950 in Fujairah today, it is likely owners will have to push back, and at present there are rumors of undercover cargoes and owners holding the line. For modern ships in the MEG, it is WS 40+, if breaking 40 is the charterers aim, they will have to look at the ‘disadvantaged’.   In the Atlantic, tight and a little busier off prompt dates in Wafr, as more oil heads to the UKC, around the WS 47.5 level. Going East in the low WS 40’s. Crucial to the VLCC’s, Chinese refineries are at their lowest utility since the start of the pandemic, but most of the news from China is becoming a little more positive.
 
@@ -67,14 +67,14 @@ There continues be an overall flat/soft feel to the Suezmax market this week, wi
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2022-05-16 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2022-05-16 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 The NSea took another hit last week as the market is dominated by relets and Suezmaxes for local runs. Supply of vessels is sufficient for the time being and with Baltic loadings becoming more complex owners are on the look for alternatives. Moving forward we expect market to remain weak and with owners fighting to keep earnings above OPEX.  In the Med/Bsea, the market has come off further this week dropping another 15 points on cross Med voyages. The situation in Libya is still unchanged, and we don’t see any imminent improvement in freight levels in the short run as it will take quite a bit of cargo activity to satisfy the number of prompt open ships in the area.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2022-05-16 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2022-05-16 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 The NSea took another hit last week as the market is dominated by relets and Suezmaxes for local runs. Supply of vessels is sufficient for the time being and with Baltic loadings becoming more complex owners are on the look for alternatives. Moving forward we expect market to remain weak and with owners fighting to keep earnings above OPEX.  In the Med/Bsea, the market has come off further this week dropping another 15 points on cross Med voyages. The situation in Libya is still unchanged, and we don’t see any imminent improvement in freight levels in the short run as it will take quite a bit of cargo activity to satisfy the number of prompt open ships in the area.
 

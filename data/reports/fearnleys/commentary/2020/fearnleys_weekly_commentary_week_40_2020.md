@@ -6,7 +6,7 @@ week: 40
 date_range: "2020-09-28 to 2020-10-01"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:52"
+generated_at: "2026-10-05 16:11:48"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 40, 2020
@@ -39,14 +39,14 @@ Positive sentiment across all borders for the Supramax market. Though Q4 expect 
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2020-09-30 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2020-09-30 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 VLCC rates have continued to slide in the week gone by. Numerous MEG/China “COA” movements have been booked, with Chinese charterers taking care of business ahead of their holidays next week - leaving little enquiry of note for third party owners to bite into. The market remains firmly mired in the WS20’s for MEG/Eastbound cargoes, ranging from the low end for the somewhat challenged units to the upper end for modern tonnage. The Atlantic has fared somewhat better, with daily earnings twice that available from the MEG, but it’s a Hobson’s choice whether to lock in current rock bottom levels well into the new year. 一口吃不成胖子 (One meal won’t make a fat man).
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2020-09-30 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2020-09-30 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 VLCC rates have continued to slide in the week gone by. Numerous MEG/China “COA” movements have been booked, with Chinese charterers taking care of business ahead of their holidays next week - leaving little enquiry of note for third party owners to bite into. The market remains firmly mired in the WS20’s for MEG/Eastbound cargoes, ranging from the low end for the somewhat challenged units to the upper end for modern tonnage. The Atlantic has fared somewhat better, with daily earnings twice that available from the MEG, but it’s a Hobson’s choice whether to lock in current rock bottom levels well into the new year. 一口吃不成胖子 (One meal won’t make a fat man).
 

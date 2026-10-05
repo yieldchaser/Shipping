@@ -6,7 +6,7 @@ week: 27
 date_range: "2021-07-05 to 2021-07-09"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:54"
+generated_at: "2026-10-05 16:11:49"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 27, 2021
@@ -53,14 +53,14 @@ Clouds of uncertainty prevail as OPEC struggle to finalise any agreement. Oil pr
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2021-07-05 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2021-07-05 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 In what has otherwise been a very dull week there are some key indicators that reveal how Charterers are reading this market. With global rate-graphs showing a relatively flatline, save for some  small movements, Charterers are now reaching forward in order to nail down todays rates, which they perceive to be a safe bet . A case in point is a Wafr/Europe cargo that is presently working over three weeks ahead of the laycan, whereas you would normally work that route 12-16 days out this time of year. Whilst this probably heralds some sort of bottom, we aren't going to see any turnaround in rates in the short term as lists in both hemispheres are over-tonnaged with meagre pickings on the cargo side. Wafr/East trades W54 with Meg/China  struggling in the low W50's. Td23 could show further slippage into mid 20's.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2021-07-05 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2021-07-05 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 In what has otherwise been a very dull week there are some key indicators that reveal how Charterers are reading this market. With global rate-graphs showing a relatively flatline, save for some  small movements, Charterers are now reaching forward in order to nail down todays rates, which they perceive to be a safe bet . A case in point is a Wafr/Europe cargo that is presently working over three weeks ahead of the laycan, whereas you would normally work that route 12-16 days out this time of year. Whilst this probably heralds some sort of bottom, we aren't going to see any turnaround in rates in the short term as lists in both hemispheres are over-tonnaged with meagre pickings on the cargo side. Wafr/East trades W54 with Meg/China  struggling in the low W50's. Td23 could show further slippage into mid 20's.
 

@@ -6,7 +6,7 @@ week: 17
 date_range: "2019-04-23 to 2019-04-24"
 comments_count: 13
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:48"
+generated_at: "2026-10-05 16:11:46"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 17, 2019
@@ -39,42 +39,42 @@ SE Asia market has seen good improvement due to the Indonesian coal export. Leve
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2019-04-23 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2019-04-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 The resurrection turned out to be short lived in the VLCC market. After last week’s fixing frenzy, with rates improving by the fixture, things took a turn for the worse again this week. Oil company relets are being marketed an mass, adding to an already populated position list. MEG/China was logged at W42.5 yesterday – yielding a daily return in the low teens, and barely covering OPEX – and further downward risk is evident short term. The Atlantic market is faring slightly better, as owner are reluctant to commit to longer employment at current levels.
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2019-04-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2019-04-23 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 The resurrection turned out to be short lived in the VLCC market. After last week’s fixing frenzy, with rates improving by the fixture, things took a turn for the worse again this week. Oil company relets are being marketed an mass, adding to an already populated position list. MEG/China was logged at W42.5 yesterday – yielding a daily return in the low teens, and barely covering OPEX – and further downward risk is evident short term. The Atlantic market is faring slightly better, as owner are reluctant to commit to longer employment at current levels.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2019-04-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2019-04-23 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 Suezmax owners managed to keep some momentum in a firmer market leading into the Easter holidays as Charterers rushed to cover stems before the impending prolonged break, TD20 briefly saw returns close to 18k per day. However, inevitably tonnage again built as the market was paused for a few days, thus the early part of this week has seen rates eroding again. We are round the corner from a predicted impending market recovery at the back end of June and surely this is the last chance for Charterers to wrestle control in a downward direction for a while.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2019-04-23 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2019-04-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 Suezmax owners managed to keep some momentum in a firmer market leading into the Easter holidays as Charterers rushed to cover stems before the impending prolonged break, TD20 briefly saw returns close to 18k per day. However, inevitably tonnage again built as the market was paused for a few days, thus the early part of this week has seen rates eroding again. We are round the corner from a predicted impending market recovery at the back end of June and surely this is the last chance for Charterers to wrestle control in a downward direction for a while.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2019-04-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2019-04-23 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 Aframaxes trading in the North Sea and Baltic enjoyed a pre-Easter fixing rush. On the back of this activity coupled with some injection stems ex Baltic, rates improved with about 10 worldscale points overall.  After the Easter break, the market turned quiet again. In the short term, rates will at best move sideways. However, we expect activity to pick up again moving into the next fixing window and we could see a firmer market again. The Mediterranean and Black Sea market has moved sideways the past week as several offices have been closed for Easter break holidays. TD19 (Cross-Med) has been hovering around 77.5 to 80 levels. Activity has picked from Charterers’ side at the beginning of this week, but although cargoes are coming into the market optimism from the Owners is short lived as there are still enough prompts ships around to take of the steam. Charterers will still enjoy the luxury of seeing several prompt ships available for cross Med voyages in the week to come and we expect rate levels to remain stable.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2019-04-23 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2019-04-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 Aframaxes trading in the North Sea and Baltic enjoyed a pre-Easter fixing rush. On the back of this activity coupled with some injection stems ex Baltic, rates improved with about 10 worldscale points overall.  After the Easter break, the market turned quiet again. In the short term, rates will at best move sideways. However, we expect activity to pick up again moving into the next fixing window and we could see a firmer market again. The Mediterranean and Black Sea market has moved sideways the past week as several offices have been closed for Easter break holidays. TD19 (Cross-Med) has been hovering around 77.5 to 80 levels. Activity has picked from Charterers’ side at the beginning of this week, but although cargoes are coming into the market optimism from the Owners is short lived as there are still enough prompts ships around to take of the steam. Charterers will still enjoy the luxury of seeing several prompt ships available for cross Med voyages in the week to come and we expect rate levels to remain stable.
 

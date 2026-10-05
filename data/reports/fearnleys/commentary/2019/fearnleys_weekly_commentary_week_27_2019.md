@@ -6,7 +6,7 @@ week: 27
 date_range: "2019-07-01 to 2019-07-03"
 comments_count: 13
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:48"
+generated_at: "2026-10-05 16:11:46"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 27, 2019
@@ -53,14 +53,14 @@ A lacklustre week in the VLCC segment with rates under pressure, especially in t
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2019-07-01 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2019-07-01 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 Last week we saw increased activity in both West Africa and MEG. Rates have been stable in MEG since the attack, and with the 30-day tonnage count looking decent we expect rates in this area to remain stable. In West Africa we saw rates ticking up at the end of last week, but ballasters from the east is putting downward pressure on this market, pushing rates back in the mid ws60's. Going forward there is a potential for owners to get some decent rates from Black Sea, as last done to Korea is USD 3,400' - with a massive 3rd decade program to come.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2019-07-01 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2019-07-01 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 Last week we saw increased activity in both West Africa and MEG. Rates have been stable in MEG since the attack, and with the 30-day tonnage count looking decent we expect rates in this area to remain stable. In West Africa we saw rates ticking up at the end of last week, but ballasters from the east is putting downward pressure on this market, pushing rates back in the mid ws60's. Going forward there is a potential for owners to get some decent rates from Black Sea, as last done to Korea is USD 3,400' - with a massive 3rd decade program to come.
 

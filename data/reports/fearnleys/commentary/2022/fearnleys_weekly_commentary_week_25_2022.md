@@ -6,7 +6,7 @@ week: 25
 date_range: "2022-06-20 to 2022-06-22"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:57"
+generated_at: "2026-10-05 16:11:50"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 25, 2022
@@ -67,14 +67,14 @@ In the Atlantic, Aframaxes continue to lend physical/psychological support to Su
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2022-06-22 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2022-06-22 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 A few Aframax owners, who aim to fix premium business ex Baltic, are also considering fixing cross Nsea cargos as a time filler. Despite this, the current Nsea market is looking very tight for end month loadings. Owners are with workable tonnage in position is rightfully asking for higher than last done rates. We see this firm Nsea/Baltic market trend continue going forward. The Med/Blsea market was active throughout last week with rates correcting up as charterers trying secure prompt tonnage to cover 3rd decade June/1st decade July requirements. Slightly different story this week as charterers been holding back and with lower cargo activity the lists now looking healthier, resulting in rates coming off again. We foresee a softer/stable market for the balance of the week.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2022-06-22 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2022-06-22 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 A few Aframax owners, who aim to fix premium business ex Baltic, are also considering fixing cross Nsea cargos as a time filler. Despite this, the current Nsea market is looking very tight for end month loadings. Owners are with workable tonnage in position is rightfully asking for higher than last done rates. We see this firm Nsea/Baltic market trend continue going forward. The Med/Blsea market was active throughout last week with rates correcting up as charterers trying secure prompt tonnage to cover 3rd decade June/1st decade July requirements. Slightly different story this week as charterers been holding back and with lower cargo activity the lists now looking healthier, resulting in rates coming off again. We foresee a softer/stable market for the balance of the week.
 

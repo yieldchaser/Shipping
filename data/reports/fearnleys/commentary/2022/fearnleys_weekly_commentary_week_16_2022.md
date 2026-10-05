@@ -6,7 +6,7 @@ week: 16
 date_range: "2022-04-19 to 2022-04-20"
 comments_count: 13
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:57"
+generated_at: "2026-10-05 16:11:50"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 16, 2022
@@ -53,14 +53,14 @@ The April MEG program closed out with a healthy 140+ fixtures, so we watch to se
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2022-04-20 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2022-04-20 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 The Suezmax market has experienced some heady days recently with the wider, non-Russia market, sustaining long periods of strong freight rates. But, as with any volatile market, there are peaks and troughs and after such spectacular highs, rates are likely to correct downwards (moderately). Although the East market has seen a flurry of end/early cargoes, there just hasn't been enough activity to trim the list sufficiently to prevent a significant number of ships ballasting west. With this in mind, our call is that Wafr/East may threaten WS 160's levels whilst MEG/East on modern tonnage may dip under WS 110. TD23 has been all over the place recently but owners will do well to hang onto WS 60's, with even a WS 50's possibly on the cards.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2022-04-20 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2022-04-20 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 The Suezmax market has experienced some heady days recently with the wider, non-Russia market, sustaining long periods of strong freight rates. But, as with any volatile market, there are peaks and troughs and after such spectacular highs, rates are likely to correct downwards (moderately). Although the East market has seen a flurry of end/early cargoes, there just hasn't been enough activity to trim the list sufficiently to prevent a significant number of ships ballasting west. With this in mind, our call is that Wafr/East may threaten WS 160's levels whilst MEG/East on modern tonnage may dip under WS 110. TD23 has been all over the place recently but owners will do well to hang onto WS 60's, with even a WS 50's possibly on the cards.
 

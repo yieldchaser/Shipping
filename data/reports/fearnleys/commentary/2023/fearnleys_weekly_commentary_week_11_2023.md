@@ -6,7 +6,7 @@ week: 11
 date_range: "2023-03-15 to 2023-03-16"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:59"
+generated_at: "2026-10-05 16:11:51"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 11, 2023
@@ -39,14 +39,14 @@ The trend across all markets remains positive despite some areas such as USG and
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2023-03-15 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2023-03-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 Presently, we sit in the gap between the March and April stems in the MEG. Charterers will be patiently waiting for stem dates with a cautious eye on the tonnage list. The Basrah dates are out however, and Smaxes actively working, providing plenty of support from below with bigger numbers reported (130 x w175 on subs). Saudi stems expected tomorrow, and there is potential for charterers to play it wrong, falling on top of each other, and we move to three figures MEG/China. However, picking softer candidates from the shadows may be the best tactic, as by the 3rd - 4th April, the MEG list opens out, the other side of this end March bottleneck.   The Atlantic continues to fix at higher levels – USD 11.4m latest USG/East and these decent levels will be needed to continue to tempt ballasters and Wafr remains quiet to test.
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2023-03-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2023-03-15 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 Presently, we sit in the gap between the March and April stems in the MEG. Charterers will be patiently waiting for stem dates with a cautious eye on the tonnage list. The Basrah dates are out however, and Smaxes actively working, providing plenty of support from below with bigger numbers reported (130 x w175 on subs). Saudi stems expected tomorrow, and there is potential for charterers to play it wrong, falling on top of each other, and we move to three figures MEG/China. However, picking softer candidates from the shadows may be the best tactic, as by the 3rd - 4th April, the MEG list opens out, the other side of this end March bottleneck.   The Atlantic continues to fix at higher levels – USD 11.4m latest USG/East and these decent levels will be needed to continue to tempt ballasters and Wafr remains quiet to test.
 

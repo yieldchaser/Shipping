@@ -6,7 +6,7 @@ week: 40
 date_range: "2019-09-30 to 2019-10-01"
 comments_count: 13
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:49"
+generated_at: "2026-10-05 16:11:47"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 40, 2019
@@ -39,42 +39,42 @@ The poor activity related to the Golden week holidays in Asia added pressure on 
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2019-10-01 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2019-10-01 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 An action packed week in the VLCC market, with freight rates surging upwards, A tightening position list in every loading area has made all ‘ship classes’ workable. Rates are now moving towards 3 digits for Meg/East voyages with corresponding earnings  the mid $ 60k to $70k per day depending on the voyage in question.  Coupled with an active Wafr and Brazilian export market, includes the owning communities’ in the current Golden week celebrations.
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2019-10-01 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2019-10-01 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 An action packed week in the VLCC market, with freight rates surging upwards, A tightening position list in every loading area has made all ‘ship classes’ workable. Rates are now moving towards 3 digits for Meg/East voyages with corresponding earnings  the mid $ 60k to $70k per day depending on the voyage in question.  Coupled with an active Wafr and Brazilian export market, includes the owning communities’ in the current Golden week celebrations.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2019-10-01 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2019-10-01 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 All markets on Suezmaxes are still super bullish. Cargo-activity does not seem to slow down, on the other hans it seems like it just keep increasing. US gulf is looking very tight, which keep the pressure on the whole Atlantic market. The MEG/East market is now three digits ++, making it hard for Owners to considering ballasting to Wafr, and right now it looks like it will just keep going. Tonnage count both in Wafr and MEG is at the lowest this year, and it doesnt seem like this Suezmax market will stop increasing anytime soon.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2019-10-01 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2019-10-01 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 All markets on Suezmaxes are still super bullish. Cargo-activity does not seem to slow down, on the other hans it seems like it just keep increasing. US gulf is looking very tight, which keep the pressure on the whole Atlantic market. The MEG/East market is now three digits ++, making it hard for Owners to considering ballasting to Wafr, and right now it looks like it will just keep going. Tonnage count both in Wafr and MEG is at the lowest this year, and it doesnt seem like this Suezmax market will stop increasing anytime soon.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2019-10-01 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2019-10-01 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 In the North the market has continued its upturn this week as activity out of the Baltic and North Sea has been pushing rates upwards. Voyages of longer duration to surrounding markets have been keeping some vessels out of play for a number of days more per voyage and in return tightening the tonnage list. Although we also see a few vessels returning from the Med to take part in the market going forwards, we are expecting a very busy fixing window in the 3rd decade of the month maintaining a firm sentiment going forwards. Likewise the Mediterranean and Black Sea market has stayed firm and rates have continued to move upwards. This has still been due to the healthy amount of cargoes coming into the market allowing owners to keep the pressure on the rates. Going forwards we expect cargo activity to slow down a little, and combined with fact that the rate levels being fixed at the moment are very close to Suezmax-levels, we may see a slightly less firm sentiment in the week to come.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2019-10-01 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2019-10-01 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 In the North the market has continued its upturn this week as activity out of the Baltic and North Sea has been pushing rates upwards. Voyages of longer duration to surrounding markets have been keeping some vessels out of play for a number of days more per voyage and in return tightening the tonnage list. Although we also see a few vessels returning from the Med to take part in the market going forwards, we are expecting a very busy fixing window in the 3rd decade of the month maintaining a firm sentiment going forwards. Likewise the Mediterranean and Black Sea market has stayed firm and rates have continued to move upwards. This has still been due to the healthy amount of cargoes coming into the market allowing owners to keep the pressure on the rates. Going forwards we expect cargo activity to slow down a little, and combined with fact that the rate levels being fixed at the moment are very close to Suezmax-levels, we may see a slightly less firm sentiment in the week to come.
 

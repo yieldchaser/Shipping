@@ -6,7 +6,7 @@ week: 22
 date_range: "2020-05-26 to 2020-05-27"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:51"
+generated_at: "2026-10-05 16:11:47"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 22, 2020
@@ -39,14 +39,14 @@ Another positive week for the Supramax market with Baltic Index climbing slowly 
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2020-05-27 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2020-05-27 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 With increased demand China is sourcing more and more supply from the Atlantic to replace lost Middle East cargoes, adding to ton mile and thinning the MEG position list. Add to that a delayed start to the June program, with corresponding compressed activity, and the VLCC market was rigged for an uptick. Having bottomed out in the very high WS 40’s for the benchmark MEG/East route, rates have since shot up. Last done at time of writing is a WS 64.5 paid for a MEG/China run, and WS 62.5 from West Africa for same destination. Arguably increased bunker prices are capping some of the gains, but sentiment is a strong driver and with a number of uncovered cargoes, remaining rates could easily continue to tick up.
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2020-05-27 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2020-05-27 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 With increased demand China is sourcing more and more supply from the Atlantic to replace lost Middle East cargoes, adding to ton mile and thinning the MEG position list. Add to that a delayed start to the June program, with corresponding compressed activity, and the VLCC market was rigged for an uptick. Having bottomed out in the very high WS 40’s for the benchmark MEG/East route, rates have since shot up. Last done at time of writing is a WS 64.5 paid for a MEG/China run, and WS 62.5 from West Africa for same destination. Arguably increased bunker prices are capping some of the gains, but sentiment is a strong driver and with a number of uncovered cargoes, remaining rates could easily continue to tick up.
 

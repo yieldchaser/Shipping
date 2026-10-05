@@ -6,7 +6,7 @@ week: 12
 date_range: "2019-03-18 to 2019-03-20"
 comments_count: 12
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:48"
+generated_at: "2026-10-05 16:11:46"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 12, 2019
@@ -67,14 +67,14 @@ Continued sparse activity in the West has allowed Charterers to pull rates even 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2019-03-18 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2019-03-18 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 The market for Aframaxes trading in the North Sea and Baltic came off significantly this week. Rates came under downward pressure due to lack of activity and tonnage building up. Everyone is now waiting to hear when ice restrictions in certain Baltic ports will be lifted. We expect this soft trend to continue. In the Mediterranean and Black Sea we have seen TD19 (cross-Med) drop to ws85 levels at the time of writing. Over the past week rate levels ex Black Sea have dropped from more than ws100 to sub-90 levels. On a lighter note, the current week started with a boost in activity as a steady flow of cargoes have come into the market decreasing the tonnage build up in the area and creating an optimistic vibe among Owners, who hope to see an upturn towards the end of the week, as there currently aren’t any obvious alternative markets to flee to.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2019-03-18 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2019-03-18 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 The market for Aframaxes trading in the North Sea and Baltic came off significantly this week. Rates came under downward pressure due to lack of activity and tonnage building up. Everyone is now waiting to hear when ice restrictions in certain Baltic ports will be lifted. We expect this soft trend to continue. In the Mediterranean and Black Sea we have seen TD19 (cross-Med) drop to ws85 levels at the time of writing. Over the past week rate levels ex Black Sea have dropped from more than ws100 to sub-90 levels. On a lighter note, the current week started with a boost in activity as a steady flow of cargoes have come into the market decreasing the tonnage build up in the area and creating an optimistic vibe among Owners, who hope to see an upturn towards the end of the week, as there currently aren’t any obvious alternative markets to flee to.
 

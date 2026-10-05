@@ -6,7 +6,7 @@ week: 13
 date_range: "2020-03-23 to 2020-03-25"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:51"
+generated_at: "2026-10-05 16:11:47"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 13, 2020
@@ -39,14 +39,14 @@ A week of negative sentiment brought rates sharply down. Especially with Corona 
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2020-03-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2020-03-23 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 From wuthering highs, VLCC rates have seen a slow but steady decline in the week gone by, with more failing than fixing. It’s been more emotions than fundamentals propelling the decline, with “more to lose than to gain” being the unspoken mantra. However, at the writing moment it appears that the market has bottomed out. “Failed” cargoes have reappeared, sugared with additional requirement on top. A widening arb is spurring storage-T/C interest and adding fuel to fire. Rebated oil continues to be pumped into the market place, and although immediate demand may be dwindling, lack of on shore storage capacity dictates it has to be shipped out in one form or another. We will always have volatility, but until OPEC+ gets together and cap oil production again, we continued to see strong upside going forward.
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2020-03-23 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2020-03-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 From wuthering highs, VLCC rates have seen a slow but steady decline in the week gone by, with more failing than fixing. It’s been more emotions than fundamentals propelling the decline, with “more to lose than to gain” being the unspoken mantra. However, at the writing moment it appears that the market has bottomed out. “Failed” cargoes have reappeared, sugared with additional requirement on top. A widening arb is spurring storage-T/C interest and adding fuel to fire. Rebated oil continues to be pumped into the market place, and although immediate demand may be dwindling, lack of on shore storage capacity dictates it has to be shipped out in one form or another. We will always have volatility, but until OPEC+ gets together and cap oil production again, we continued to see strong upside going forward.
 

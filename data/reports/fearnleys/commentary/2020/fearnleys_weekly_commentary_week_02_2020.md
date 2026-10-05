@@ -6,7 +6,7 @@ week: 2
 date_range: "2020-01-06 to 2020-01-08"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:50"
+generated_at: "2026-10-05 16:11:47"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 02, 2020
@@ -39,28 +39,28 @@ First week of the new year started poorly. Oversupply of tonnage in the Pacific 
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2020-01-07 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2020-01-07 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 With the heightened tension in the Middle East Gulf area it’s been a turbulent few days in the VLCC market. With the odd exception rates have for the most part remained steady around the same level as previous week, trading around the ws140 give/take for MEG/eastbound cargoes up until a day or two ago. However, the recent flare up in the region has seen rates upwards to ws150 concluded. Some of the gains have been eaten up by increased bunker prices, particularly so for non-scrubber vessel. Supply of VLSFO has also had logistical- and quality issues. At the writing moment players seem to have adopted a “wait and see” attitude, in anticipation of US reaction to last night’s rocket assault on US troops in Iraq, and as such the market hangs in a balance. That said, the fundamentals remain strong, so the question is rather how much premium charterers will face depending on further developments in the conflict between Iran and the US.
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2020-01-07 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2020-01-07 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 With the heightened tension in the Middle East Gulf area it’s been a turbulent few days in the VLCC market. With the odd exception rates have for the most part remained steady around the same level as previous week, trading around the ws140 give/take for MEG/eastbound cargoes up until a day or two ago. However, the recent flare up in the region has seen rates upwards to ws150 concluded. Some of the gains have been eaten up by increased bunker prices, particularly so for non-scrubber vessel. Supply of VLSFO has also had logistical- and quality issues. At the writing moment players seem to have adopted a “wait and see” attitude, in anticipation of US reaction to last night’s rocket assault on US troops in Iraq, and as such the market hangs in a balance. That said, the fundamentals remain strong, so the question is rather how much premium charterers will face depending on further developments in the conflict between Iran and the US.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2020-01-07 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2020-01-07 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 It has been a busy start to 2020 for Suezmaxes with all areas being active giving owners plenty to choose from. West Africa, Mediterranean-Black Sea and North Sea have absorbed a lot of ships, both natural positions but also ballasters coming from the East. This in turn forces charterers with MEG loading requirements to dig deeper in their pockets for owners’ services - especially with the political unrest we are seeing in the region. West Africa and Americas have been busy competing over the same ships coupled with a lot of ships being absorbed for Black Sea loading which stretches far out in the new year with bad weather increasing the Turkish strait delays. All in all, the Suezmax market remains firm across the board.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2020-01-07 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2020-01-07 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 It has been a busy start to 2020 for Suezmaxes with all areas being active giving owners plenty to choose from. West Africa, Mediterranean-Black Sea and North Sea have absorbed a lot of ships, both natural positions but also ballasters coming from the East. This in turn forces charterers with MEG loading requirements to dig deeper in their pockets for owners’ services - especially with the political unrest we are seeing in the region. West Africa and Americas have been busy competing over the same ships coupled with a lot of ships being absorbed for Black Sea loading which stretches far out in the new year with bad weather increasing the Turkish strait delays. All in all, the Suezmax market remains firm across the board.
 

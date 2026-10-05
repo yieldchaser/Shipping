@@ -6,7 +6,7 @@ week: 34
 date_range: "2022-08-22 to 2022-08-23"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:58"
+generated_at: "2026-10-05 16:11:50"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 34, 2022
@@ -53,14 +53,14 @@ Some expectations charterers might sit on their hands and let some steam escape 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2022-08-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2022-08-23 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 The enigma of the East Suezmax market continues as despite very little surface level enquiry, ships continue to disappear. When you break down the list there aren't many well approved FOC vessels until early September which shows just how busy this region has been off-market. With this in mind and against a backdrop of firming V's MEG/East should trade minimum WS 135'ish. The Atlantic is interesting with a busy Mediterranean market likely to hold some ships away from West Africa whilst USG/TA is 145KT x WS 125 with a stable feel (Although USG Afras are possibly a little softer). Despite a chunk of second decade Wafr being taken out by VLCCs, the stark reality of the New Atlantic market is that it doesn't necessarily have to rely on a busy Wafr market to remain relatively stable...oh how things have changed.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2022-08-23 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2022-08-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 The enigma of the East Suezmax market continues as despite very little surface level enquiry, ships continue to disappear. When you break down the list there aren't many well approved FOC vessels until early September which shows just how busy this region has been off-market. With this in mind and against a backdrop of firming V's MEG/East should trade minimum WS 135'ish. The Atlantic is interesting with a busy Mediterranean market likely to hold some ships away from West Africa whilst USG/TA is 145KT x WS 125 with a stable feel (Although USG Afras are possibly a little softer). Despite a chunk of second decade Wafr being taken out by VLCCs, the stark reality of the New Atlantic market is that it doesn't necessarily have to rely on a busy Wafr market to remain relatively stable...oh how things have changed.
 

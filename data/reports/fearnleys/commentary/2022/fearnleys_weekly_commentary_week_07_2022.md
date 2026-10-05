@@ -6,7 +6,7 @@ week: 7
 date_range: "2022-02-14 to 2022-02-17"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:56"
+generated_at: "2026-10-05 16:11:49"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 07, 2022
@@ -39,14 +39,14 @@ As the tension further escalated between Russia and Ukraine, the market reacts w
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2022-02-14 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2022-02-14 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 An interesting week on the front pages of the newspapers, but in the VLCC world, has been more of the same. The MEG market has sat in the void between February and March laycans, but even if cargoes were there to work, the sheer volume of ships waiting to take them out remains a concern. New lows, with a fixture at WS 32-32.5 for MEG/China, after the charterer received 13 offers. If you have a scrubber these returns are not good. Without a scrubber, they don’t bear thinking about. The Atlantic remains a little more interesting, with West Africa working mid-month and a 10-point premium achieved on a prompter laycan for Indonesia, but unreflective of any market swing, however. The USG has ticked up by a USD 100k or so per successive fixture, but with bunker prices where they are, it’s the smallest of solaces for owners.
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2022-02-14 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2022-02-14 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 An interesting week on the front pages of the newspapers, but in the VLCC world, has been more of the same. The MEG market has sat in the void between February and March laycans, but even if cargoes were there to work, the sheer volume of ships waiting to take them out remains a concern. New lows, with a fixture at WS 32-32.5 for MEG/China, after the charterer received 13 offers. If you have a scrubber these returns are not good. Without a scrubber, they don’t bear thinking about. The Atlantic remains a little more interesting, with West Africa working mid-month and a 10-point premium achieved on a prompter laycan for Indonesia, but unreflective of any market swing, however. The USG has ticked up by a USD 100k or so per successive fixture, but with bunker prices where they are, it’s the smallest of solaces for owners.
 

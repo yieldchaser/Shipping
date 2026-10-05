@@ -6,7 +6,7 @@ week: 7
 date_range: "2021-02-15 to 2021-02-19"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:53"
+generated_at: "2026-10-05 16:11:48"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 07, 2021
@@ -39,14 +39,14 @@ Sentiment remained strong and the BSI continued its positive mode during the wee
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2021-02-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2021-02-15 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 Xin nian kuai le (Happy Chinese New Year). We welcome in the year of the Ox, which is meant to bring stability and calmness and it has certainly started that way. Calm, as there has been very little for owners to get their teeth into; and stable as rates have gone nowhere. It also coincides with the gap between the February and March MEG stems, which exacerbates the feeling of quiet. Chinese tonnage quickly snaring the compatriot cargoes that are available on COA, leaving others to fight over the remaining business. With the MEG so quiet (a disappointing sub 90 fixtures for February), much of the action has been in the Atlantic. Petrobras leading the charge with a couple of deals, but were able to keep rates suppressed. Alarming for owners, who given the oil price, are calculating in some bigger bills for their bunkers.
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2021-02-15 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2021-02-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 Xin nian kuai le (Happy Chinese New Year). We welcome in the year of the Ox, which is meant to bring stability and calmness and it has certainly started that way. Calm, as there has been very little for owners to get their teeth into; and stable as rates have gone nowhere. It also coincides with the gap between the February and March MEG stems, which exacerbates the feeling of quiet. Chinese tonnage quickly snaring the compatriot cargoes that are available on COA, leaving others to fight over the remaining business. With the MEG so quiet (a disappointing sub 90 fixtures for February), much of the action has been in the Atlantic. Petrobras leading the charge with a couple of deals, but were able to keep rates suppressed. Alarming for owners, who given the oil price, are calculating in some bigger bills for their bunkers.
 
@@ -67,14 +67,14 @@ The Suezmax market in the West is still looking interesting. North Sea, Mediterr
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2021-02-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2021-02-15 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 After weeks of being flat at the bottom, the North Sea/Baltic market has finally showed some signs of life. Ice conditions persist in the Baltic helping ice-class vessels to pocket 10k/day while delays in major discharge ports of North Sea, alternatives of other markets and a tight window have brought cross-North Sea runs at positive returns. As we move forward, we expect rates to be maintained at these levels but with a downside risk.  In the Mediterranean/Black Sea we have seen an upwards correction rates the last few days with benchmark routes picking up close to 40 points on WS. This is due to delays causing a tighter tonnage list combined with a rush of cargoes entering the market. One to watch in the week is how the Suez-market develops and whether they will come into play capping the Afra market.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2021-02-15 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2021-02-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 After weeks of being flat at the bottom, the North Sea/Baltic market has finally showed some signs of life. Ice conditions persist in the Baltic helping ice-class vessels to pocket 10k/day while delays in major discharge ports of North Sea, alternatives of other markets and a tight window have brought cross-North Sea runs at positive returns. As we move forward, we expect rates to be maintained at these levels but with a downside risk.  In the Mediterranean/Black Sea we have seen an upwards correction rates the last few days with benchmark routes picking up close to 40 points on WS. This is due to delays causing a tighter tonnage list combined with a rush of cargoes entering the market. One to watch in the week is how the Suez-market develops and whether they will come into play capping the Afra market.
 

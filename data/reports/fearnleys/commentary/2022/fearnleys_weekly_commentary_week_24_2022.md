@@ -6,7 +6,7 @@ week: 24
 date_range: "2022-06-13 to 2022-06-17"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:57"
+generated_at: "2026-10-05 16:11:50"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 24, 2022
@@ -67,14 +67,14 @@ Recent changes in the behaviour of the Atlantic crude oil trade has created it's
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2022-06-15 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2022-06-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 There is still a great demand from specific charterers for any vessels willing to load ex Russian ports. Despite some maintenance scheduled for some strategic export ports in the Nsea basin there is sufficient activity for both fuel and crude leaving other Owners in a position to push for a bit more than last done. Market looking a bit firmer.In the Med/Blsea we have seen a firming trend this last week with benchmark routes moving as much as +WS50-60 points w.o.w.With surrounding markets offering attractive alternatives and with charterers reaching and with long hauls in the mix - we expect the natural window to remain firm as lists looking tighter.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2022-06-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2022-06-15 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 There is still a great demand from specific charterers for any vessels willing to load ex Russian ports. Despite some maintenance scheduled for some strategic export ports in the Nsea basin there is sufficient activity for both fuel and crude leaving other Owners in a position to push for a bit more than last done. Market looking a bit firmer.In the Med/Blsea we have seen a firming trend this last week with benchmark routes moving as much as +WS50-60 points w.o.w.With surrounding markets offering attractive alternatives and with charterers reaching and with long hauls in the mix - we expect the natural window to remain firm as lists looking tighter.
 

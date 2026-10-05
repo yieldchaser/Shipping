@@ -6,7 +6,7 @@ week: 21
 date_range: "2021-05-24 to 2021-05-28"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:54"
+generated_at: "2026-10-05 16:11:49"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 21, 2021
@@ -67,14 +67,14 @@ Signs of life emerging in the East as the list for modern, 2x20T cranes vessels 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2021-05-26 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2021-05-26 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 It was a relatively quiet week for the North Sea/Baltic market with rates moving sideways at bottom levels. However, with quite a few vessels having left the area and net tonnage supply decreasing, the tonnage list is looking somewhat tighter for first decade loadings. Moving forward, rates could remain under upward pressure supported by a healthier Urals schedule for June. In the Mediterranean/Black Sea we have seen rate levels pick up a few points this week due to healthy activity on the cargo side combined with a tighter tonnage list. However, at the time of writing Suezmaxes are coming into play, capping the market at current levels. Due to same we do not expect a noteworthy increase in rates in the short run.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2021-05-26 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2021-05-26 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 It was a relatively quiet week for the North Sea/Baltic market with rates moving sideways at bottom levels. However, with quite a few vessels having left the area and net tonnage supply decreasing, the tonnage list is looking somewhat tighter for first decade loadings. Moving forward, rates could remain under upward pressure supported by a healthier Urals schedule for June. In the Mediterranean/Black Sea we have seen rate levels pick up a few points this week due to healthy activity on the cargo side combined with a tighter tonnage list. However, at the time of writing Suezmaxes are coming into play, capping the market at current levels. Due to same we do not expect a noteworthy increase in rates in the short run.
 

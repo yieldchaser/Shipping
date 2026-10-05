@@ -6,7 +6,7 @@ week: 17
 date_range: "2021-04-26 to 2021-04-29"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:54"
+generated_at: "2026-10-05 16:11:48"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 17, 2021
@@ -53,14 +53,14 @@ As we head in to the Chinese Labour day holiday next week, it appears a lot of t
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2021-04-28 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2021-04-28 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 Although general Suezmax volumes in the Atlantic basin appear down, conversely, we have seen a significant number of ships disappear over the last week, which has created almost zero noise. The net impact of limited chatter in an OTC market invariably results in flat to soft rates and this has now become self-fulfilling. Td20 will graze mid/high ws50's as there is simply inadequate MEG volumes to prevent a stream of ballasters from cannibalizing Western rates. Logically, MEG/East will struggle to stay out of high ws50's territory on modern tonnage and Td23 limps in at ws18. One positive news story is that in the last forty-eight hours, Western VLCC markets have put on a little fat which Suezmax owners will be hoping to take some positive cues from.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2021-04-28 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2021-04-28 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 Although general Suezmax volumes in the Atlantic basin appear down, conversely, we have seen a significant number of ships disappear over the last week, which has created almost zero noise. The net impact of limited chatter in an OTC market invariably results in flat to soft rates and this has now become self-fulfilling. Td20 will graze mid/high ws50's as there is simply inadequate MEG volumes to prevent a stream of ballasters from cannibalizing Western rates. Logically, MEG/East will struggle to stay out of high ws50's territory on modern tonnage and Td23 limps in at ws18. One positive news story is that in the last forty-eight hours, Western VLCC markets have put on a little fat which Suezmax owners will be hoping to take some positive cues from.
 

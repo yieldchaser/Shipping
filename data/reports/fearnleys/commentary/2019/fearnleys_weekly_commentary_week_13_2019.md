@@ -6,7 +6,7 @@ week: 13
 date_range: "2019-03-27 to 2019-03-28"
 comments_count: 13
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:48"
+generated_at: "2026-10-05 16:11:46"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 13, 2019
@@ -39,14 +39,14 @@ The week started slowly in the Atlantic with Greece off for holidays and after a
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2019-03-27 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2019-03-27 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 The VLCC market took a turn for the worse this week, as activity slowed down in all areas and ships of all classes have been piling up. Those charterers dipping their feet in receive double digit offers, with tonnage offering initially below last done levels. Thus, we expect rates to drop further as the week progresses, and owners could find themselves trading at OPEX levels before long. At the time of writing, ws45 has been done on a ship older than 15 years for MEG/East, and modern tonnage will probably follow suit soon.
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2019-03-27 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2019-03-27 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 The VLCC market took a turn for the worse this week, as activity slowed down in all areas and ships of all classes have been piling up. Those charterers dipping their feet in receive double digit offers, with tonnage offering initially below last done levels. Thus, we expect rates to drop further as the week progresses, and owners could find themselves trading at OPEX levels before long. At the time of writing, ws45 has been done on a ship older than 15 years for MEG/East, and modern tonnage will probably follow suit soon.
 

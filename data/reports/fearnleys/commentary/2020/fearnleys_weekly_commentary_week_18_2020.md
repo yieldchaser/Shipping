@@ -6,7 +6,7 @@ week: 18
 date_range: "2020-04-27 to 2020-04-29"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:51"
+generated_at: "2026-10-05 16:11:47"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 18, 2020
@@ -39,42 +39,42 @@ The Supramax and Ultramax market showed resistance and rates started to increase
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2020-04-29 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2020-04-29 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 The week gone has on the surface been a quiet-ish one for the VLCC’s, with falling oil prices, contango and period fixing stealing the limelight from the spot market. The question on everyone’s mind has been to what extent production cuts, or adherence to the agreement, would impact the May MEG program. Albeit a slower pace than usual, and Ramadan not helping to speed things up, it has so far been more or less business as usual, at least for the first half of the month. The Atlantic has been MIA, which has put further pressure on MEG rates, and recent period fixtures has thus far not resulted in a significant reduction in tonnage availability. However, rates have held up better than feared, and plummeting bunker prices have by and large compensated for sliding WS rates in terms of daily earnings.
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2020-04-29 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2020-04-29 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 The week gone has on the surface been a quiet-ish one for the VLCC’s, with falling oil prices, contango and period fixing stealing the limelight from the spot market. The question on everyone’s mind has been to what extent production cuts, or adherence to the agreement, would impact the May MEG program. Albeit a slower pace than usual, and Ramadan not helping to speed things up, it has so far been more or less business as usual, at least for the first half of the month. The Atlantic has been MIA, which has put further pressure on MEG rates, and recent period fixtures has thus far not resulted in a significant reduction in tonnage availability. However, rates have held up better than feared, and plummeting bunker prices have by and large compensated for sliding WS rates in terms of daily earnings.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2020-04-29 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2020-04-29 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 The Suez market topped out end of last week with a number of deals done in the high W100s being failed over rate as charterers managed to regain momentum. Sentiment has taken a rather bearish turn so far this week with charterers looking to test the owners and with several FOC units in the west they might get away with it. In the east, although fundamentally better looking, it is more of the same with sentiment having a rather bearish feel to it and charterers taking their time. Itineraries still play an important role, but right now there is an overhang of ships in the west-med / GIB area that needs clearing before we can see any real movement in rates.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2020-04-29 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2020-04-29 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 The Suez market topped out end of last week with a number of deals done in the high W100s being failed over rate as charterers managed to regain momentum. Sentiment has taken a rather bearish turn so far this week with charterers looking to test the owners and with several FOC units in the west they might get away with it. In the east, although fundamentally better looking, it is more of the same with sentiment having a rather bearish feel to it and charterers taking their time. Itineraries still play an important role, but right now there is an overhang of ships in the west-med / GIB area that needs clearing before we can see any real movement in rates.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2020-04-29 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2020-04-29 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 In the north sea we still see quite a few Aframaxes floating with BFOE grades. Also, delays at strategic import terminals seems to continue into the month of May. Despite a lot of tonnage tied up, rates are under downward pressure due to lack of cargo activity and ships start piling up free of cargo looking for employment. The main reason for this is that nearly everything of oil being transported goes on own keel as both Oil companies and Oil traders have their own relets in position for own cargoes. We therefore expect a downward correction on rates in the coming week as there will be a lot of competition for any quoted cargo in the current fixing window.  In the Mediterranean and Black Sea we saw rates continue their upward trend prior to the weekend, before the market has softened at the beginning of this week. There is still a few cargoes in the market yet to be fixed, however cargo activity is not sustaining the levels of last week. On the positive side for Owners we have seen a pick-up in FO-stems going East potentially sending ships away from the area, on the negative we are expecting a cut in the cargo program for May out of Black Sea. In the week to come we expect the market to be soft.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2020-04-29 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2020-04-29 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 In the north sea we still see quite a few Aframaxes floating with BFOE grades. Also, delays at strategic import terminals seems to continue into the month of May. Despite a lot of tonnage tied up, rates are under downward pressure due to lack of cargo activity and ships start piling up free of cargo looking for employment. The main reason for this is that nearly everything of oil being transported goes on own keel as both Oil companies and Oil traders have their own relets in position for own cargoes. We therefore expect a downward correction on rates in the coming week as there will be a lot of competition for any quoted cargo in the current fixing window.  In the Mediterranean and Black Sea we saw rates continue their upward trend prior to the weekend, before the market has softened at the beginning of this week. There is still a few cargoes in the market yet to be fixed, however cargo activity is not sustaining the levels of last week. On the positive side for Owners we have seen a pick-up in FO-stems going East potentially sending ships away from the area, on the negative we are expecting a cut in the cargo program for May out of Black Sea. In the week to come we expect the market to be soft.
 

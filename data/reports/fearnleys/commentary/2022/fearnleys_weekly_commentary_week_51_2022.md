@@ -6,7 +6,7 @@ week: 51
 date_range: "2022-12-19 to 2022-12-21"
 comments_count: 13
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:59"
+generated_at: "2026-10-05 16:11:50"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 51, 2022
@@ -39,14 +39,14 @@ A softer undertone continued across all basins in the Supramax market, with few 
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2022-12-21 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2022-12-21 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 A negative swing for VLCC owners this past week, as rates have taken a 10-point dive across the board. A couple of deals done on ships that only have to calculate one leg (i.e., sold and delivered at the completion of discharge). Nonetheless, each enquiry received a dozen offers, and therefore each fixture will have 11 or so disappointed candidates. "Special reasons" or not the market is now set in the low-mid WS 70's for MEG/East. Charterers' current tactics of sitting on hands and drip-feeding cargoes is working in their favour, hoping for someone to break ranks yet again as Christmas moves closer. However, judging from the January fixture count, and moving closer on the curve laycan wise, charterers could be creating a bottleneck for themselves with enquiry shoe-horned into the days between Christmas and New Year.
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2022-12-21 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2022-12-21 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 A negative swing for VLCC owners this past week, as rates have taken a 10-point dive across the board. A couple of deals done on ships that only have to calculate one leg (i.e., sold and delivered at the completion of discharge). Nonetheless, each enquiry received a dozen offers, and therefore each fixture will have 11 or so disappointed candidates. "Special reasons" or not the market is now set in the low-mid WS 70's for MEG/East. Charterers' current tactics of sitting on hands and drip-feeding cargoes is working in their favour, hoping for someone to break ranks yet again as Christmas moves closer. However, judging from the January fixture count, and moving closer on the curve laycan wise, charterers could be creating a bottleneck for themselves with enquiry shoe-horned into the days between Christmas and New Year.
 

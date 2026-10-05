@@ -6,7 +6,7 @@ week: 49
 date_range: "2021-12-06 to 2021-12-08"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:56"
+generated_at: "2026-10-05 16:11:49"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 49, 2021
@@ -39,14 +39,14 @@ Market enjoyed further push confirming expectations of last week. The BSI figure
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2021-12-08 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2021-12-08 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 As we drag ourselves to the end of 2021, Q4 has been a major anti-climax. The much vaunted rate uptick is delayed until well into the New Year, and owners face a winter of discontent, with bad rates and cancelled parties. The MEG has continually fixed below last done and sits sub WS 40 for MEG/China on modern. Next done is open to debate, with no change in trend likely.  Despite it is being the time to make merry, the Atlantic saw a sobering USG cargo fixed yesterday significantly below last done (more than USD 500k below) at USD 4.65m - after gaining 10+ offers, of which half were relets. With the MEG showing little signs of recovery, many owners ballasting West on spec, but dilution of the region is a concern. With VLSFO bunkers over USD 600/t in Spore, it is an expensive gamble, but the staying East alternative is not much better.
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2021-12-08 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2021-12-08 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 As we drag ourselves to the end of 2021, Q4 has been a major anti-climax. The much vaunted rate uptick is delayed until well into the New Year, and owners face a winter of discontent, with bad rates and cancelled parties. The MEG has continually fixed below last done and sits sub WS 40 for MEG/China on modern. Next done is open to debate, with no change in trend likely.  Despite it is being the time to make merry, the Atlantic saw a sobering USG cargo fixed yesterday significantly below last done (more than USD 500k below) at USD 4.65m - after gaining 10+ offers, of which half were relets. With the MEG showing little signs of recovery, many owners ballasting West on spec, but dilution of the region is a concern. With VLSFO bunkers over USD 600/t in Spore, it is an expensive gamble, but the staying East alternative is not much better.
 

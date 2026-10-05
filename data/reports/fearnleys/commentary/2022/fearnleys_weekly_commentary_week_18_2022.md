@@ -6,7 +6,7 @@ week: 18
 date_range: "2022-05-02 to 2022-05-05"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:57"
+generated_at: "2026-10-05 16:11:50"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 18, 2022
@@ -67,14 +67,14 @@ The Suezmax market is a little disjointed this week as the majority of the plane
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2022-05-02 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2022-05-02 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 The Aframax market in the North Sea and Baltic started on a quiet note this week with more tonnage piling up due to less cargo activity. Going forward we expect rates to be under downward pressure. We might see some owners ballast away heading towards the Mediterranean which are showing some more promising trends compared to its neighboring North Sea market.   The Med/Bsea market has moved more or less sideways for most of the week with ships being fixed at repeat levels. However, as talks of FM being lifted in Libyan ports is flourishing this week there is a firm undertone among owners. At the same time we have seen a few stems being worked ex Bsea now, and we expect the firm trend to continue into next week.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2022-05-02 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2022-05-02 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 The Aframax market in the North Sea and Baltic started on a quiet note this week with more tonnage piling up due to less cargo activity. Going forward we expect rates to be under downward pressure. We might see some owners ballast away heading towards the Mediterranean which are showing some more promising trends compared to its neighboring North Sea market.   The Med/Bsea market has moved more or less sideways for most of the week with ships being fixed at repeat levels. However, as talks of FM being lifted in Libyan ports is flourishing this week there is a firm undertone among owners. At the same time we have seen a few stems being worked ex Bsea now, and we expect the firm trend to continue into next week.
 

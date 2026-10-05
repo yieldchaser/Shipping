@@ -6,7 +6,7 @@ week: 8
 date_range: "2023-02-20 to 2023-02-24"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:59"
+generated_at: "2026-10-05 16:11:51"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 08, 2023
@@ -39,28 +39,28 @@ Sentiment on Supra and Ultra pushed rates up and was well supported by spot-fixi
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2023-02-22 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2023-02-22 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 A busy week, with positive moves in the Atlantic, but the MEG was suffering under the paralysis of one particular China discharge cargo. Market speculators held differing views on the outcome, with owners holding for WS 70+, but given the lack of alternative options, WS 66.5 finally on subs this morning. Likely this will unleash the remainder of the first decade stems (another 5-10), as those charterers holding off will come into work. Worth noting the MEG tonnage supply remains healthy for early-mid March. The Atlantic will be key to where the market moves now, where successively higher numbers for USG/East, up to USD 9.25m. A tight USG list for March, but ballasters will certainly dilute off later dates if the MEG softens. IOC working, collecting 5 offers from vessels committed or located West, will test owners resolve.
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2023-02-22 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2023-02-22 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 A busy week, with positive moves in the Atlantic, but the MEG was suffering under the paralysis of one particular China discharge cargo. Market speculators held differing views on the outcome, with owners holding for WS 70+, but given the lack of alternative options, WS 66.5 finally on subs this morning. Likely this will unleash the remainder of the first decade stems (another 5-10), as those charterers holding off will come into work. Worth noting the MEG tonnage supply remains healthy for early-mid March. The Atlantic will be key to where the market moves now, where successively higher numbers for USG/East, up to USD 9.25m. A tight USG list for March, but ballasters will certainly dilute off later dates if the MEG softens. IOC working, collecting 5 offers from vessels committed or located West, will test owners resolve.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2023-02-22 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2023-02-22 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 The global Suezmax market has enjoyed steady gains over the last week with the Atlantic leading the way. The US Gulf list is extremely tight, and  has acted as the main driver, sucking in ships from across the pond. This has had a knock-on effect on West Africa with West Med' and Cont' weighted tonnage having the luxury of multiple firm markets in their cross-hairs. Td20 is minimum WS 130, but there is likely further upside with the possibility we might conclude the week a couple of points higher, given the strong fundamentals. In the East, steady enquiry has kept the early side of the list very tight on 20 tonne crane requirements with MEG/China on modern in the WS 130's, whilst TD23 has traded WS 60 off early March dates, with it remaining to be seen if owners can carry these gains into the natural window.
 
 ---
 
 ### Suezmax Weekly Comment
-**Date:** 2023-02-22 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2023-02-22 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 The global Suezmax market has enjoyed steady gains over the last week with the Atlantic leading the way. The US Gulf list is extremely tight, and  has acted as the main driver, sucking in ships from across the pond. This has had a knock-on effect on West Africa with West Med' and Cont' weighted tonnage having the luxury of multiple firm markets in their cross-hairs. Td20 is minimum WS 130, but there is likely further upside with the possibility we might conclude the week a couple of points higher, given the strong fundamentals. In the East, steady enquiry has kept the early side of the list very tight on 20 tonne crane requirements with MEG/China on modern in the WS 130's, whilst TD23 has traded WS 60 off early March dates, with it remaining to be seen if owners can carry these gains into the natural window.
 

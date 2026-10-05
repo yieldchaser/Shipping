@@ -6,7 +6,7 @@ week: 14
 date_range: "2019-04-01 to 2019-04-03"
 comments_count: 13
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:48"
+generated_at: "2026-10-05 16:11:46"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 14, 2019
@@ -67,14 +67,14 @@ Another challenging start to the week for owners in the Suezmax market. There wa
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2019-04-02 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2019-04-02 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 Aframax rates in the North Sea and Baltic have hovered around bottom levels the past week. The only exception has been Owners fixing out of the port of Primorsk in the 12-16 April window. Maintenance on two berths have limited the availability of tonnage meeting the current physical restrictions combined with ice restrictions. However, going forward we expect the market to remain soft as there is an abundance of available tonnage that needs to get fixed before rates will improve.  In the Mediterranean and Black Sea, we have seen the market moving sideways the past week as Owners take a stand in order to maintain current levels for a cross-Med run. Activity from Charterers has been stable, and although prompt ships have rolled over from last week, we have seen few ships ballasting into the area, resulting in a downward correction. In the week to come we expect Owners to maintain their position, as the market is expected to remain soft.
 
 ---
 
 ### Aframax Weekly Comment
-**Date:** 2019-04-02 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2019-04-02 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 Aframax rates in the North Sea and Baltic have hovered around bottom levels the past week. The only exception has been Owners fixing out of the port of Primorsk in the 12-16 April window. Maintenance on two berths have limited the availability of tonnage meeting the current physical restrictions combined with ice restrictions. However, going forward we expect the market to remain soft as there is an abundance of available tonnage that needs to get fixed before rates will improve.  In the Mediterranean and Black Sea, we have seen the market moving sideways the past week as Owners take a stand in order to maintain current levels for a cross-Med run. Activity from Charterers has been stable, and although prompt ships have rolled over from last week, we have seen few ships ballasting into the area, resulting in a downward correction. In the week to come we expect Owners to maintain their position, as the market is expected to remain soft.
 

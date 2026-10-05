@@ -6,7 +6,7 @@ week: 28
 date_range: "2019-07-08 to 2019-07-10"
 comments_count: 13
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-05 19:21:49"
+generated_at: "2026-10-05 16:11:46"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 28, 2019
@@ -39,14 +39,14 @@ Firm rates seen across the Atlantic sector, still strong demand from Black Sea, 
 
 ## 2. Tanker Sector (Crude & Products)
 ### VLCC Weekly Comment
-**Date:** 2019-07-08 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
+**Date:** 2019-07-08 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
 More of the same in the VLCC market this week with limited inquiry, stagnant rates and too many available ships seeking employment.  The numerous older and restricted ships continue to be targeted for financial reasons when able, with rates currently in the very low ws40’s MEG/eastbound, while their more modern siblings are looking at rates in the upper ws40’s from both MEG and West Africa, depending on voyage and terms. The Atlantic region has been quiet, with the only ripples of interest being some USG export possibilities, after that market dropped down to USD 5 million or just below for the benchmark USG/Korea trade.
 
 ---
 
 ### VLCC Weekly Comment
-**Date:** 2019-07-08 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+**Date:** 2019-07-08 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
 More of the same in the VLCC market this week with limited inquiry, stagnant rates and too many available ships seeking employment.  The numerous older and restricted ships continue to be targeted for financial reasons when able, with rates currently in the very low ws40’s MEG/eastbound, while their more modern siblings are looking at rates in the upper ws40’s from both MEG and West Africa, depending on voyage and terms. The Atlantic region has been quiet, with the only ripples of interest being some USG export possibilities, after that market dropped down to USD 5 million or just below for the benchmark USG/Korea trade.
 
