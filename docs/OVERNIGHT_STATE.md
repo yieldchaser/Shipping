@@ -1,3 +1,15 @@
+**THIS RUN (2026-10-06 19:4x, source-by-source, 30m job) - FOUND + FIXED 2 genuinely unextracted best_oasis weekly reports (2026-05-05, 2026-05-16). Not a re-statement: a date-coverage sweep across the 3 hellenic demolition publishers (best_oasis/athenian/gms) surfaced them. Evidence `docs/best_oasis_coverage_verdict.md`.**
+
+Branch `auto/extract-fixes-2026-10-06-deepreview`. Working tree was CLEAN (0 files) at run start; live python = Hermes gateways + litellm only, nothing of ours extracting. Register gate GREEN at start (630,357).
+
+- **ROOT CAUSE:** `run_best_oasis_demolition.py:37` globs only `corpus/02-hellenic/demolition/pdfs/best_oasis/` (flat). The 2 reports lived only in the PARENT `pdfs/` dir -> never extracted. Real `%PDF-` files (4 pages), cover line present.
+- **FIX + MEASURED RESULT:** copied the 2 PDFs into the runner's source dir, re-ran the canonical pipeline. **219/219, 0 failed.** md 269 -> **271**; whole-md-dir diff = exactly the 2 new md + 2 tables.json, **0 existing md changed** (md5 before/after). Series rows: demolition 867->875, deals 892->897, exchange 167->169, commentary +21; `hellenic_best_oasis_*` mirrors updated. Register synced 630,357 -> **630,393**; `verify_registers.py` = **ALL PASSED, 0 mismatches**.
+- **FAITHFULNESS (no vision in cron -> same-document text reconcile):** all vessel names / LDTs (3,736/2,334/1,694/10,809/3,665) / price 415 / indicative prices / FX present VERBATIM in each PDF text layer. 2026-05-05 page 3 prints "No vessel sale to report this week" and correctly added 0 deals rows.
+- **NOT gaps (checked, do not reopen):** athenian 2026-06-13 (md held under best_oasis, naming cross); gms 2026-06-16 (hash 03f79e746643 already extracted) + 2026-10-03 (held as `gms_2026-10-02_..._week-40-chattogram`, issue_date 2026-10-02); clarksons S&P #139 (in `md/clarksons/`, not `md/hellenic/shipbuilding`); shipbuilding "missing dates" = the 374 breakwave PDFs already extracted in `md/breakwave/`.
+- **CARRIED decision:** the best_oasis runner still globs only `pdfs/best_oasis/`. Either acquisition must place arrivals there, or widen `SOURCE_DIR` (caveat: shortest-stem choice can rename existing md). The 2 PDFs were left copied into `pdfs/best_oasis/` so re-runs are idempotent.
+
+---
+
 **THIS RUN (2026-10-06 18:2x, source-by-source, 30m job) - NOTHING TO EXTRACT (independently re-verified vs DISK); spent the run CONTENT-verifying the fresh W40 arrivals (100%) and FIXED 12 broken md `source_file` pointers (clarksons 11, carriers 1). Evidence docs/w40_fresh_arrival_and_sourcefile_verdict.md.**
 
 Branch `auto/extract-fixes-2026-10-06-deepreview`, working tree CLEAN at run start (0 files). No extraction/ingest process of ours. Register gate GREEN: `verify_registers.py` = ALL CHECKS PASSED (disk 175 CSVs / **630,357** rows == JSON == MD; 0 mismatches).
