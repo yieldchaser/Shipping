@@ -102,7 +102,9 @@ SECTIONS = {"BULK CARRIERS", "TANKERS", "GAS TANKERS", "CONTAINERS",
             "GENERAL CARGO", "REEFERS", "SPECIAL PROJECTS", "RO - RO", "RO-RO",
             "CAR CARRIER", "COMBINED", "PASSENGER / CRUISE", "BULK CARRIERS"}
 SPEC_RX = re.compile(r"([\d][\d,\.]*)\s*DWT\s+BLT\s+(\d{2})\b")
-UNIT_RX = re.compile(r"\$?\s*/\s*(Dwt|Cbm|Teu|DWT|CBM|TEU)", re.I)
+# NOTE: the page prints the label as "US$/Cbm" - anchored .match() never
+# matched it, so every row defaulted to US$/Dwt (measured 2026-10-07).
+UNIT_RX = re.compile("/(Dwt|Cbm|Teu)(?![A-Za-z])", re.I)
 SOLD_RX = re.compile(r"\bSOLD\b")
 NAME_OK = re.compile(r"^[A-Z][A-Z0-9 .&'/_()-]{1,44}$")
 
@@ -123,25 +125,55 @@ def _is_name(s):
     return True
 
 
-def parse_deals_page(text, page_no):
-    lines = [l.strip() for l in text.splitlines()]
-    sect, unit = "", "US$/Dwt"
-    for l in lines:
-        u = l.strip().upper()
-        if u in SECTIONS:
-            sect = u
-        m = UNIT_RX.match(l.strip())
-        if m:
-            unit = "US$/" + m.group(1).capitalize()
-    # locate spec lines and their names
+def _page_layout(page):
+    """Section headings and unit labels WITH their y coordinate.
+
+    Golden Destiny prints the section title in a right-hand cell on the SAME
+    line as the block's first vessel, so the linear text order puts the heading
+    AFTER its own vessels (and a page can carry 4+ sections). Labelling a row by
+    "whatever heading came last on the page" therefore mislabels every row on a
+    multi-section page. Only the y coordinate says which block a row is in.
+    """
+    heads, units, ymap = [], [], {}
+    for b in page.get_text("blocks"):
+        y0 = b[1]
+        for line in b[4].splitlines():
+            s = line.strip()
+            if not s:
+                continue
+            ymap.setdefault(s, y0)
+            if s.upper() in SECTIONS:
+                heads.append((y0, s.upper()))
+            if len(s) <= 12:
+                m = UNIT_RX.search(s)
+                if m:
+                    units.append((y0, "US$/" + m.group(1).capitalize()))
+    return heads, units, ymap
+
+
+def _best(y, pairs, dflt):
+    """Value of the pair whose y is the greatest <= y (+0.6pt); else dflt."""
+    best_y, best_v = None, dflt
+    for py, pv in pairs:
+        if py <= y + 0.6 and (best_y is None or py > best_y):
+            best_y, best_v = py, pv
+    return best_v
+
+
+def parse_deals_page(page, page_no, carry):
+    lines = [l.strip() for l in page.get_text().splitlines()]
+    heads, units, ymap = _page_layout(page)
     out = []
     buffer, last_sold_idx = [], -1
+    last_y = carry.get("last_y", 0.0)
     i = 0
     n = len(lines)
     while i < n:
         line = lines[i]
         m = SPEC_RX.search(line)
         if m:
+            y = ymap.get(line, last_y)
+            last_y = max(last_y, y)
             # name = nearest preceding name-like line
             name = _clean(line[:m.start()])
             if not _is_name(name):
@@ -156,7 +188,9 @@ def parse_deals_page(text, page_no):
                         break
                     k -= 1
             buffer.append({"name": name, "dwt": num_by_shape(m.group(1)),
-                           "built": m.group(2), "section": sect, "unit": unit,
+                           "built": m.group(2),
+                           "section": _best(y, heads, carry.get("sect", "")),
+                           "unit": _best(y, units, carry.get("unit", "US$/Dwt")),
                            "page": page_no})
         elif SOLD_RX.search(line) and buffer:
             if "MIL" not in line.upper() and "UNDISCLOSED" not in line.upper():
@@ -169,9 +203,9 @@ def parse_deals_page(text, page_no):
                 price_mil = num_by_shape(pm.group(1))
             undisclosed = "UNDISCLOSED" in line.upper() and price_mil is None
             each = "EACH" in line.upper()
-            bm = re.search(r"\bTO\s*(.+?)(?:\s*[-.]\s*|\s*$)", line, re.I)
+            bm = re.search("(?<![A-Za-z])TO[ ]*(.+?)(?:[ ]*[-.][ ]*|[ ]*$)", line, re.I)
             buyer = _clean(bm.group(1)) if bm else ""
-            buyer = re.sub(r"\bBYRS?\b\.?$", "", buyer).strip(" .-")
+            buyer = re.sub("(?<![A-Za-z])BYRS?[.]?$", "", buyer).strip(" .-")
             # per-unit value: first following line that is a pure number or N/A
             pv = None
             j = i + 1
@@ -202,7 +236,7 @@ def parse_deals_page(text, page_no):
                 out.append(row)
             buffer = []
         i += 1
-    return out
+    return out, last_y
 
 
 DEAL_FIELDS = ["issue_date", "report_week", "section", "vessel_name", "dwt",
@@ -224,8 +258,13 @@ def parse_doc(pdf_path):
     week = report_week(stem, doc)
     pages_txt = [p.get_text() for p in doc]
     deals = []
-    for idx, txt in enumerate(pages_txt):
-        deals.extend(parse_deals_page(txt, idx))
+    carry = {"sect": "", "unit": "US$/Dwt", "last_y": 0.0}
+    for idx, pg in enumerate(doc):
+        rows, last_y = parse_deals_page(pg, idx, carry)
+        deals.extend(rows)
+        carry["sect"] = _best(last_y, _page_layout(pg)[0], carry["sect"])
+        carry["unit"] = _best(last_y, _page_layout(pg)[1], carry["unit"])
+        carry["last_y"] = last_y
     n_pages = doc.page_count
     doc.close()
     return dict(stem=stem, year=pdf_path.parent.name, issue_date=issue,
