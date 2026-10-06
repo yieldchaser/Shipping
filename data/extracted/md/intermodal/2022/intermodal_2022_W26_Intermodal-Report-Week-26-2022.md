@@ -54,7 +54,6 @@ The Baltic Exchange
 
 # Intermodal Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | Current WS points | Current $/day | Previous WS points | Previous $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 56 | -9,442 | 50 | -12,291 | 23.2% | 2,246 | 52,119 |
@@ -70,14 +69,14 @@ The Baltic Exchange
 |  | 75k | MEG-JAPAN | 223 | 27,961 | 280 | 48,793 | -42.7% | 6,368 | 28,160 |
 | Clean | 55k | MEG-JAPAN | 293 | 35,145 | 349 | 50,017 | -29.7% | 6,539 | 19,809 |
 |  | 37K | UKC-USAC | 329 | 28,846 | 353 | 32,478 | -11.2% | 4,496 | 12,977 |
-## Indicative Period Charters
 
+## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 35 mos | DHALKUT | 2021 | 299,997 dwt | $35,000/day | Sinokor |
-| 36 mos | PROTEUS | 2019 | 49,999 dwt | $22,000/day | Mercuria |
-### Dirty WS Rates (1-Year Trend)
+| 35 mos | DHALKUT | 2021 | 299,997 dwt |  |  |
+| 36 mos | PROTEUS | 2019 | 49,999 dwt |  |  |
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 1/Jul/21 | 30 | 80 | 90 |
@@ -93,8 +92,8 @@ The Baltic Exchange
 | 1/May/22 | 50 | 280 | 280 |
 | 1/Jun/22 | 45 | 150 | 160 |
 | 1/Jul/22 | 40 | 140 | 170 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 1/Jul/21 | 100 | 110 | 120 | 130 |
@@ -110,8 +109,8 @@ The Baltic Exchange
 | 1/May/22 | 150 | 160 | 170 | 460 |
 | 1/Jun/22 | 155 | 165 | 175 | 450 |
 | 1/Jul/22 | 160 | 170 | 180 | 470 |
-## TC Rates
 
+## TC Rates
 | Sector | Tenor | Current | Previous | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | **300k 1yr TC** | 28,000 | 28,000 | 0.0% | 0 | 25,684 | 42,038 |
@@ -126,8 +125,8 @@ The Baltic Exchange
 |  | **52k 3yr TC** | 15,000 | 15,000 | 0.0% | 0 | 13,804 | 15,916 |
 | Handy | **36k 1yr TC** | 21,750 | 21,750 | 0.0% | 0 | 11,292 | 13,966 |
 |  | **36k 3yr TC** | 16,000 | 16,000 | 0.0% | 0 | 13,054 | 14,051 |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Jul-22 avg | Jun-22 avg | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300KT DH | 79.0 | 76.8 | 2.9% | 69.7 | 71.5 | 72.1 |
@@ -159,7 +158,6 @@ In the Aframax sector we had the sale of the "KRONVIKEN" (114,523dwt-blt '06, S.
 # Intermodal Dry Bulk Market
 
 ### Baltic Indices (1-Year Trend)
-
 | BDI BCI BPI BSI BHSI | 01/07/2022 Index 2,214 2,381 2,477 2,290 1,276 | 01/07/2022 $/day$19,745 $22,297 $25,192 $22,973 | 24/06/2022 Index 2,331 2,396 2,695 2,449 1,334 | 24/06/2022 $/day$19,875 $24,254 $26,942 $24,009 | Point Diff-117 -15 -218 -159 -58 | $/day ±% ±%-0.7% -8.1% -6.5% -4.3% | 2021 Index 2,921 3,974 2,972 2,424 1,424 | 2020 Index 1,066 1,742 1,103 746 447 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
@@ -168,7 +166,6 @@ In the Aframax sector we had the sale of the "KRONVIKEN" (114,523dwt-blt '06, S.
 No fresh period fixtures to report
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 1/Jul/21 | 3000 | 4000 | 3000 | 1500 | 3500 |
@@ -186,7 +183,6 @@ No fresh period fixtures to report
 | 1/Jul/22 | 2800 | 2900 | 2800 | 1700 | 2800 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 1/Jul/21 | 30000 | 30000 | 30000 | 28000 |
@@ -204,7 +200,6 @@ No fresh period fixtures to report
 | 1/Jul/22 | 22000 | 27000 | 26000 | 24000 |
 
 ## TC Rates
-
 | Sector | Tenor | 01/07/2022 | 24/06/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 30,750 | 30,250 | 1.7% | 500 | 32,684 | 15,361 |
@@ -251,7 +246,6 @@ In the Handysize sector we had the sale of the "INTERLINK ETERNITY" (39,094dwt-b
 
 # Secondhand Sales
 ## Bulk Carriers
-
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | RUI FU TAI | 73,870 | 2002 | NAMURA, Japan | B\&amp;W | Feb-26 |  | low $ 14.0m | undisclosed | prompt dely, Chinese flag, domestic trade |
@@ -276,22 +270,21 @@ In the Handysize sector we had the sale of the "INTERLINK ETERNITY" (39,094dwt-b
 
 # Intermodal Secondhand Sales
 ## Tankers
-
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | ELANDRA EVEREST | 299,999 | 2020 | HYUNDAI ULSAN, S. Korea | MAN-B&amp;W | Jan-25 | DH | undisclosed | Greek (Tsakos) | dely 9/2022, BWTS &amp; Scrubber fitted, tbr "ZEUS" |
 | SUEZ | A SYMPHONY | 149,995 | 2001 | SASEBO, Japan | B&amp;W | Jul-24 | DH | $ 13.0m | Chinese | auction sale, basis DD due July 2022 |
 | AFRA | KRONVIKEN | 114,523 | 2006 | SAMSUNG, S. Korea | MAN-B&amp;W | Sep-26 | DH | $ 25.0m | Greek (Stealth) | BWTS fitted |
 | SMALL | EBONY RAY | 19,998 | 2008 | USUKI, Japan | MAN-B&amp;W | Jul-23 | DH | rgn $ 14.0m | Singaporean (Samureda Shipping) | incl 3-yr TC attached at US$ 13,750/day to GSB Tankers |
-## Secondhand Sales
 
+## Secondhand Sales
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | NORTHERN JASPER | 8,814 | 2009 | DAEWOO, S. Korea | MAN-B&amp;W | Aug-24 |  | low/mid $ 130.0m | Danish (Maersk) |  |
 | POST PMAX | NORTHERN JUPITER | 8,814 | 2010 | DAEWOO, S. Korea | MAN-B&amp;W | Feb-25 |  | low/mid $ 130.0m |  |  |
 | PMAX | GUENTHER SCHULTE | 3,534 | 2008 | SHANGHAI SHIPYARD, China | MAN-B&amp;W | May-23 |  | $ 55.0m | Dubai based | BWTS fitted |
-## Secondhand Sales
 
+## Secondhand Sales
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | ECO NEBULA | 29,536 | 2007 | DAEWOO GEOJE, S. Korea | MAN-B\&amp;W | Jul-22 | 38,197 | $ 27.75m | Turkish |
@@ -302,7 +295,6 @@ In the Handysize sector we had the sale of the "INTERLINK ETERNITY" (39,094dwt-b
 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
-
 | Sector | Size | 01/07/2022 | 24/06/2022 | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -365,7 +357,6 @@ The newbuilding market demonstrated a healthy activity overall this week while b
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | Markets | 01/07/2022 | 24/06/2022 | ±% | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
@@ -396,8 +387,8 @@ The steel price volatility continues to shape the gloomy outlook in the demoliti
 | 1/May/22 | 660 | 660 | 670 | 460 |
 | 1/Jun/22 | 600 | 570 | 580 | 300 |
 | 1/Jul/22 | 560 | 550 | 560 | 250 |
-## Indicative Demolition Prices ($/ldt)
 
+## Indicative Demolition Prices ($/ldt)
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/ldt | Demolition Sales Breakers | Demolition Sales Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | TAI FU NO.1 | 6,044 | 3,670 | 1979 | MINAMI-NIPPON, Japan | REEFER | undisclosed | undisclosed | as-is Bangkok |

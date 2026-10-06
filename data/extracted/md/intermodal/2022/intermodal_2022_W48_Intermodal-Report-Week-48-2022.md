@@ -45,7 +45,6 @@ Shanghai 200122 China
 
 # Intermodal Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 02/12/22 WS points | 02/12/22 $/day | 25/11/22 WS points | 25/11/22 $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 265k | MEG-SPORE | 79 | 44,234 | 110 | 79,951 | -44.7% | 2,246 | 52,119 |
@@ -64,14 +63,14 @@ Shanghai 200122 China
 | **Dirty** | 55K | UKC-USG | 310 | 58,160 | 310 | 58,123 | **0.1%** | 2,822 | 12,120 |
 |  | 55K | MED-USG | 310 | 59,475 | 310 | 59,375 | **0.2%** | 4,818 | 12,965 |
 |  | 50k | CARIBS-USG | 582 | 112,171 | 601 | 116,261 | -3.5% | 8,548 | 17,651 |
-## Indicative Period Charters
 
+## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 mos | ONISILOS | 2004 | 159,100 dwt | $54,000/day | Trafigura |
-| 12 mos | SUPERBA | 2014 | 37,949 dwt | $30,450/day | Cargill |
-## TC Rates
+| 6 mos | ONISILOS | 2004 | 159,100 dwt |  |  |
+| 12 mos | SUPERBA | 2014 | 37,949 dwt |  |  |
 
+## TC Rates
 | Sector | Tenor | 02/12/22 | 25/11/22 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | **300k 1yr TC** | 52,000 | 52,000 | 0.0% | 0 | 25,684 | 42,038 |
@@ -86,8 +85,8 @@ Shanghai 200122 China
 |  | **52k 3yr TC** | 20,000 | 20,000 | 0.0% | 0 | 13,804 | 15,916 |
 | **Handy** | **36k 1yr TC** | 26,000 | 25,000 | **4.0%** | **1000** | 11,292 | 13,966 |
 |  | **36k 3yr TC** | 16,000 | 16,000 | 0.0% | 0 | 13,054 | 14,051 |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Current avg | Previous avg | ±% | Year1 | Year2 | Year3 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Vessel 5yrs old | Dec-22 avg | Nov-22 avg | ±% | 2021 | 2020 | 2019 |
@@ -96,8 +95,8 @@ Shanghai 200122 China
 | **Aframax** | **110KT DH** | 58.0 | 56.8 | **2.2%** | 38.7 | 38.8 | 38.3 |
 | **LR1** | **75KT DH** | 45.0 | 43.3 | **4.0%** | 31.2 | 30.7 | 31.3 |
 | **MR** | **52KT DH** | 40.5 | 39.3 | **3.2%** | 27.6 | 27.5 | 28.6 |
-### Dirty WS Rates (1-Year Trend)
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 2/Dec/21 | 50 | 150 | 150 |
@@ -113,8 +112,8 @@ Shanghai 200122 China
 | 2/Oct/22 | 50 | 150 | 350 |
 | 2/Nov/22 | 50 | 300 | 600 |
 | 2/Dec/22 | 50 | 300 | 650 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 2/Dec/21 | 150 | 150 | 300 | 300 |
@@ -163,12 +162,11 @@ In the LR1 sector we had the sale of the "STROFADES" (69,431dwt-blt '06, Romania
 | BHSI | 741 | $13,340 | 745 | $13,403 | -4 | -0.5% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 8 to 13 mos | TROODOS OAK | 2020 | 85,439 dwt | Hirohata 8 Dec | $15,500/day | Olam |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 8 to 13 mos | TROODOS OAK | 2020 | 85,439 dwt |  |  |
 
 ## TC Rates
-
 | Sector | Tenor | 02/12/22 | 25/11/22 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 12,750 | 13,000 | -1.9% | -250 | 32,684 | 15,361 |
@@ -185,7 +183,6 @@ In the LR1 sector we had the sale of the "STROFADES" (69,431dwt-blt '06, Romania
 |  | **32K 3yr TC** | 9,000 | 9,000 | 0.0% | 0 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 2/Dec/21 | 4500 | 2800 | 2600 | 1800 | 4800 |
@@ -204,7 +201,6 @@ In the LR1 sector we had the sale of the "STROFADES" (69,431dwt-blt '06, Romania
 | 2/Dec/22 | 1600 | 2300 | 2100 | 1500 | 1700 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 2/Dec/21 | 35000 | 25000 | 28000 | 15000 |
@@ -257,7 +253,6 @@ In the Handysize sector we had the sale of the "SEASTAR HAWK" (40,355dwt-blt '22
 
 # Intermodal Secondhand Sales
 ## Tankers
-
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | SYFNOS | 298,495 | 2006 | UNIVERSAL, Japan | MAN-B\&amp;W | Jun-26 | DH | $ 56.0m | UAE based | BWTS &amp; Scrubber fitted |
@@ -273,14 +268,14 @@ In the Handysize sector we had the sale of the "SEASTAR HAWK" (40,355dwt-blt '22
 | MR1 | BAHIR DAR | 42,150 | 2012 | JINLING, China | MAN-B\&amp;W | Nov-22 | DH |  |  |  |
 | MR1 | STAR N | 37,836 | 2009 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Jan-24 | DH | $ 18.1m | Greek | BWTS fitted |
 | SMALL | GUANG HUI 638 | 7,048 | 2013 | HAIDONG, China | Wartsila | Jun-23 | DH | $ 7.2m | undisclosed | Chinese flag |
-## Bulk Carriers
 
+## Bulk Carriers
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | TW MANILA | 93,250 | 2012 | Jiangsu, China | MAN-B\&amp;W | Apr-27 |  | $ 19.0m | undisclosed |  |
 | HANDY | SEASTAR HAWK | 40,355 | 2022 | HAKODATE, Japan | MAN-B\&amp;W | Aug-27 | CR 4x30 T | $ 30.9m | Japanese (Daido Kaiun) | resale, Tier III |
-## Containers
 
+## Containers
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FEEDER | TEERA BHUM | 1,858 | 2005 | Jiangsu, China | MAN-B\&amp;W | Jan-25 |  | undisclosed | undisclosed |
@@ -291,7 +286,6 @@ In the Handysize sector we had the sale of the "SEASTAR HAWK" (40,355dwt-blt '22
 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
-
 | Sector | Size | 2-Dec-22 | 25-Nov-22 | ±% | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |
@@ -388,8 +382,8 @@ Activity in the demolition market remained weak, however, an uptick in both stee
 | 2/Oct/22 | 575 | 575 | 575 | 255 |
 | 2/Nov/22 | 540 | 540 | 540 | 250 |
 | 2/Dec/22 | 530 | 530 | 530 | 250 |
-## Demolition Sales
 
+## Demolition Sales
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VIVEKA | 9,776 | 2,782 | 1994 | UNL VALENCIA, Spain | TANKER | undisclosed | Bangladeshi |

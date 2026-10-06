@@ -1,5 +1,3 @@
-## Weekly Market Report
-
 ## Market Insight
 <u>By Yiannis Parganas, Head of Research Department</u>
 
@@ -18,7 +16,6 @@ Netting it out, 2026 starts with softer visibility for Supramax/Handy steel-expo
 ## Tanker Market
 
 ## Spot Rates
-
 | Sector | Size | Routes | 16/01/2026 WS points | 16/01/2026 $/day | 09/01/2026 WS points | 09/01/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 265k | MEG-SPORE | 119 | 107,436 | 76 | 60,774 | **76.8%** | 60,510 | 37,255 |
@@ -36,8 +33,8 @@ Netting it out, 2026 starts with softer visibility for Supramax/Handy steel-expo
 | **Dirty** | 55K | UKC-USG | 120 | 13,588 | 120 | 14,435 | -5.9% | 10,784 | 17,707 |
 |  | 55K | MED-USG | 120 | 14,958 | 120 | 15,515 | -3.6% | 11,306 | 17,590 |
 |  | 50k | ARA-UKC | 169 | 14,247 | 150 | 9,145 | **55.8%** | 18,615 | 26,872 |
-### Dirty WS Rates (1-Year Trend)
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | Date | WS points | WS points | WS points |
@@ -95,15 +92,14 @@ In the Aframax segment, weekly average TCE rates reached \$60,267/day, up 22% w-
 ## Dry Bulk Market
 
 ### Baltic Indices (1-Year Trend)
-
 | BDI BCI BPI BSI BHSI | 16/01/2026 Index 1,567 2,224 1,458 967 588 | 16/01/2026 $/day$16,670 $13,120 $10,186 $10,578 | 09/01/2026 Index 1,688 2,640 1,345 967 605 | 09/01/2026 $/day$20,444 $12,108 $10,189 $10,897 | Point Diff-121 -416 113 0 -17 | $/day ±%-18.5% 8.4% 0.0% -2.9% | 2025 Index1,677 2,566 1,476 1,127 661 | 2024 Index 1,743 2,696 1,561 1,238 702 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 ### Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 12 to 14 mos | Pan Bicom | 2012 | 82,158 dwt | Delivery Qingdao 30 Jan redelivery worldwide | $15,750/day | Oldendoff |
-| 11 to 14 mos | DSI Altair | 2016 | 60,309 dwt | Delivery Nantong 17 Jan redelivery worldwide | $14,750/day | Bunge |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 12 to 14 mos | Pan Bicom | 2012 | 82,158 dwt |  |  |
+| 11 to 14 mos | DSI Altair | 2016 | 60,309 dwt |  |  |
 
 ### Baltic Indices
 | Index Name | Current Index | Current $/day |
@@ -240,8 +236,8 @@ Turkish recycling yards staged a notable comeback last week, marked by the final
 | USD/INR | 90.71 | 90.24 | 0.52% | 90.71 |
 | USD/PKR | 280.00 | 280.00 | 0.00% | 280.05 |
 | USD/TRY | 43.28 | 43.05 | 0.54% | 43.28 |
-## Demolition Sales
 
+## Demolition Sales
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | AN SHUN | 74,761 | 9,881 | 1998 | NKK, Japan | BC | $412/Ldt | Pakistani | Incl 150Ts ROB |

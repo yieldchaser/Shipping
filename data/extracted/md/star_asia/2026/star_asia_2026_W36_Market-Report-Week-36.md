@@ -32,27 +32,19 @@ Dry bulk sector demonstrated notable strength heading into early September, adva
 
 # Segment Highlights
 
-**Capesize: Capesize surged this week as C5 West Australia-China fixtures pushing into the mid-US$16s on**
+**Capesize:** Capesize surged this week as C5 West Australia-China fixtures pushing into the mid-US$16s on active miner bookings and typhoon-related port delays in eastern China. Solid import demand amid low Chinese port stockpiles and tight prompt vessel availability supported the rally across both basins, lifting T/A earnings to US$55,050's and Pacific R/V to US$52,150's per day. However, market sentiment remains cautious heading into late September laycans, as an influx of ballasters toward Brazil and the clearing of Chinese port bottlenecks threaten to ease near-term supply tightness against limited fresh demand.
 
-active miner bookings and typhoon-related port delays in eastern China. Solid import demand amid low Chinese port stockpiles and tight prompt vessel availability supported the rally across both basins, lifting T/A earnings to US$55,050's and Pacific R/V to US$52,150's per day. However, market sentiment remains cautious heading into late September laycans, as an influx of ballasters toward Brazil and the clearing of Chinese port bottlenecks threaten to ease near-term supply tightness against limited fresh demand.
+**Panamax / Kamsarmax:** Panamax firmed steadily across both basins this week, supported by early vessel bookings for upcoming grain bookings despite current export dips, while a drop in Pacific ballasters and tightening prompt tonnage left charterers chasing owners' ideas. Although sluggish coal demand and low river water levels in Kalimantan restricted Indonesian coal flows, replenished Atlantic cargo book helped underpin positive forward sentiment. Spot returns pushed higher across key Atlantic routes, lifting Brazil R/V to US$22,100's and F/H trips to US$30,950's per day.
 
-**Panamax / Kamsarmax: Panamax firmed steadily across both basins this week, supported by early vessel**
+**Supramax / Ultramax:** Supramax market edged up this week in a mixed and largely directionless session, as firm enquiry for NOPAC grain and USG export stems countered softer regional pockets. However, broader gains were restrained by an influx of ballast tonnage across the Atlantic alongside a decline in Indonesian coal exports caused by low river levels hindering barge operations. Spot earnings adjusted across key trades, lifting T/A rates to US$28,350's and Pacific R/V to US$17,150's per day.
 
-bookings for upcoming grain bookings despite current export dips, while a drop in Pacific ballasters and tightening prompt tonnage left charterers chasing owners' ideas. Although sluggish coal demand and low river water levels in Kalimantan restricted Indonesian coal flows, replenished Atlantic cargo book helped underpin positive forward sentiment. Spot returns pushed higher across key Atlantic routes, lifting Brazil R/V to US$22,100's and F/H trips to US$30,950's per day.
-
-**Supramax / Ultramax: Supramax market edged up this week in a mixed and largely directionless session,**
-
-as firm enquiry for NOPAC grain and USG export stems countered softer regional pockets. However, broader gains were restrained by an influx of ballast tonnage across the Atlantic alongside a decline in Indonesian coal exports caused by low river levels hindering barge operations. Spot earnings adjusted across key trades, lifting T/A rates to US$28,350's and Pacific R/V to US$17,150's per day.
-
-**Handysize: Handysize traded in a generally subdued fashion this week, though healthy underlying**
-
-fundamentals in parts of the Pacific and South Atlantic continued to lend baseline support. The USG held relatively firm conditions alongside an active appetite for period business, which helped counterbalance persistent softness across the Mediterranean. Spot earnings reflected these mixed market dynamics, with T/A rates advancing to US$16,950's while Inter-Pacific runs eased slightly to US$16,400's per day.
+**Handysize:** Handysize traded in a generally subdued fashion this week, though healthy underlying fundamentals in parts of the Pacific and South Atlantic continued to lend baseline support. The USG held relatively firm conditions alongside an active appetite for period business, which helped counterbalance persistent softness across the Mediterranean. Spot earnings reflected these mixed market dynamics, with T/A rates advancing to US$16,950's while Inter-Pacific runs eased slightly to US$16,400's per day.
 
 ## Page 3
 
 ### Baltic Dry Index (BDI)
 
-**BDI: 3,628** (WoW: +13.87% | YoY: +83.32%)
+**BDI:** 3,628 (WoW: +13.87% | YoY: +83.32%)
 
 | BCI | BPI | BSI | BHSI |
 | :---: | :---: | :---: | :---: |
@@ -102,25 +94,15 @@ Saudi Arabia's tracked seaborne crude shipments dropped to approximately 3 milli
 
 # Segment Highlights
 
-**VLCC: MEG saw rates climb as rising Asian exports drove strong chartering demand for Basrah-to-Fujairah**
+**VLCC:** MEG saw rates climb as rising Asian exports drove strong chartering demand for Basrah-to-Fujairah STS shuttle operations, while heightened security risks and recent tanker strikes split the fleet. MEG/China closed the week at WS678, while in the Atlantic 260,000mt WAFR/China ended on a high ending at WS236.
 
-STS shuttle operations, while heightened security risks and recent tanker strikes split the fleet. MEG/China closed the week at WS678, while in the Atlantic 260,000mt WAFR/China ended on a high ending at WS236.
+**Suezmax:** West African market saw rates gain slightly with trips to UKC closing at WS214, while an accumulating Atlantic tonnage overhang sapped owners' leverage. In the Black Sea, rates took a tumble with CPC/Augusta falling 100 points to WS285.
 
-**Suezmax: West African market saw rates gain slightly with trips to UKC closing at WS214, while an**
+**Aframax:** Middle East rates saw slight gains as steady early-September crude, along with spillover demand from a firm VLCC market, allowed owners to leverage tight regional vessel supply. The Mediterranean market faces softness this week, as a late-week stall rebuilt prompt tonnage lists, giving charterers enough leverage to push rates downward as Ceyhan/Lavera ended the week at WS222.
 
-accumulating Atlantic tonnage overhang sapped owners' leverage. In the Black Sea, rates took a tumble with CPC/Augusta falling 100 points to WS285.
+**LR1 / LR2:** Middle East LR2 saw freight rates flat, as tight vessel supply and earlier tonnage shifts into dirty trades. TC1 ended the week at around WS565 mark. In the LR1, slight gains were seen, with TC5 trips to Japan closing at WS621.
 
-**Aframax: Middle East rates saw slight gains as steady early-September crude, along with spillover**
-
-demand from a firm VLCC market, allowed owners to leverage tight regional vessel supply. The Mediterranean market faces softness this week, as a late-week stall rebuilt prompt tonnage lists, giving charterers enough leverage to push rates downward as Ceyhan/Lavera ended the week at WS222.
-
-**LR1 / LR2: Middle East LR2 saw freight rates flat, as tight vessel supply and earlier tonnage shifts into dirty**
-
-trades. TC1 ended the week at around WS565 mark. In the LR1, slight gains were seen, with TC5 trips to Japan closing at WS621.
-
-**MR: Far East MR market saw freight rates surge, propelled by expanded petroleum product exports from**
-
-China alongside the clearing of typhoon-delayed shipments. In the MEG, rates also firmed, with TC17 trips to E. Africa gaining foot to close at WS557.
+**MR:** Far East MR market saw freight rates surge, propelled by expanded petroleum product exports from China alongside the clearing of typhoon-delayed shipments. In the MEG, rates also firmed, with TC17 trips to E. Africa gaining foot to close at WS557.
 
 ## Page 6
 
@@ -231,39 +213,31 @@ ALIAGA |
 
 # Market Insights
 
-**Alang, India: Alang maintained a resilient outlook, buoyed by a noticeable strengthening in local trading**
+**Alang, India:** Alang maintained a resilient outlook, buoyed by a noticeable strengthening in local trading conditions. Firm domestic steel values and a recovering rupee have combined to lift morale, prompting local recyclers to improve their commercial bids. However, the broader subcontinent market faces an ongoing shortage of conventional recycling candidates, as strong global freight earnings continue to incentivise shipowners to keep older vessels trading rather than committing them to the beaches. While rising domestic appetite has nudged Alang buyers toward better levels, a regional spread persists, leaving most dry bulk and tanker tonnage largely out of reach as open-market candidates gravitate toward higher price points in Chattogram and Gadani. Instead, Indian plot owners are directing their purchasing energy towards niche units. Official figures released this week revealed that India's GDP expanded by a robust 7.8% in the first fiscal quarter, outpacing central bank estimates on the back of double-digit investment growth, heavy government infrastructure outlays, and resilient services. While manufacturing purchasing activity saw a mild seasonal moderation in August, headline industrial confidence remains steady as input cost inflation recedes to multi-month lows.
 
-conditions. Firm domestic steel values and a recovering rupee have combined to lift morale, prompting local recyclers to improve their commercial bids. However, the broader subcontinent market faces an ongoing shortage of conventional recycling candidates, as strong global freight earnings continue to incentivise shipowners to keep older vessels trading rather than committing them to the beaches. While rising domestic appetite has nudged Alang buyers toward better levels, a regional spread persists, leaving most dry bulk and tanker tonnage largely out of reach as open-market candidates gravitate toward higher price points in Chattogram and Gadani. Instead, Indian plot owners are directing their purchasing energy towards niche units. Official figures released this week revealed that India's GDP expanded by a robust 7.8% in the first fiscal quarter, outpacing central bank estimates on the back of double-digit investment growth, heavy government infrastructure outlays, and resilient services. While manufacturing purchasing activity saw a mild seasonal moderation in August, headline industrial confidence remains steady as input cost inflation recedes to multi-month lows.
+| Alang Anchorage & | Beaching Position - | September | 2026 |
+| --- | --- | --- | --- |
+| VESSEL | TYPE | LDT | ARRIVAL |
+| - | - | - | - |
 
-| Alang Anchorage & | Beaching Position - | September | 2026 |  |
-|---|---|---|---|---|
-| VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
-| - | - | - | - | - |
+**Chattogram, Bangladesh:** Chattogram settled into a measured rhythm, with overall outlook showing minimal change from preceding weeks. Operational tempo across the beaches remained somewhat subdued as buyers focused on cutting previously delivered inventory, while the complete absence of fresh market sales left yards without immediate price direction. While fundamental buying appetite is still present, sentiment lacks forceful conviction amid quiet downstream steel demand, ongoing currency softness, and high industrial power costs that continue to squeeze operational margins. Furthermore, with the market's more aggressive cash buyers having largely fulfilled their immediate tonnage commitments, secondary yard operators are stepping in with more conservative bids, preventing any sudden upward momentum in headline vessel price indications. The latest figures from Bangladesh Bank confirm that external liquidity remains resilient, with gross foreign exchange reserves holding firmly around US$36.4 billion, comfortably above US$31.6 billion under the IMF's BPM6 accounting standard, bolstered by consistent remittance flows and a steady balance of payments surplus. Headline consumer price inflation showed welcome signs of cooling, easing to an eight-month low of 8.32% in July as food and logistics costs moderated.
 
-**Chattogram, Bangladesh: Chattogram settled into a measured rhythm, with overall outlook showing**
-
-minimal change from preceding weeks. Operational tempo across the beaches remained somewhat subdued as buyers focused on cutting previously delivered inventory, while the complete absence of fresh market sales left yards without immediate price direction. While fundamental buying appetite is still present, sentiment lacks forceful conviction amid quiet downstream steel demand, ongoing currency softness, and high industrial power costs that continue to squeeze operational margins. Furthermore, with the market's more aggressive cash buyers having largely fulfilled their immediate tonnage commitments, secondary yard operators are stepping in with more conservative bids, preventing any sudden upward momentum in headline vessel price indications. The latest figures from Bangladesh Bank confirm that external liquidity remains resilient, with gross foreign exchange reserves holding firmly around US$36.4 billion, comfortably above US$31.6 billion under the IMF's BPM6 accounting standard, bolstered by consistent remittance flows and a steady balance of payments surplus. Headline consumer price inflation showed welcome signs of cooling, easing to an eight-month low of 8.32% in July as food and logistics costs moderated.
-
-| Chattogram Anchorage | & Beaching Position | - August | 2026 |  |
-|---|---|---|---|---|
-| VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
-| THAN | WOODCHIP | 6,356 | 21.08.2026 | 01.09.2026 |
+| Chattogram Anchorage | & Beaching Position | - August | 2026 |
+| --- | --- | --- | --- |
+| VESSEL | TYPE | LDT | ARRIVAL |
+| THAN | WOODCHIP | 6,356 | 21.08.2026 |
 
 ## Page 13
 
-**Gaddani, Pakistan: Gadani maintained a relatively firm position, although vessel purchase indications**
-
-witnessed a mild correction from their recent highs. The earlier surge in prices appears to have been largely a knee-jerk reaction, driven by a small group of recyclers facing individual buying pressures and a strong need to secure tonnage. With these requirements now largely covered, pricing has returned to more realistic and sustainable levels in line with prevailing domestic fundamentals. Looking ahead, the key concern will be, at the time of delivery, the handling of vessels acquired at elevated prices that are not fully supported by the underlying steel market. Such purchases could create some "song and dance" at the waterfront, with even minor vessel related issues potentially being used as a pretext to reopen negotiations or seek downward price adjustments at the time of delivery. But generally, the sentiment has received a substantial structural boost from tax authorities recognising domestically generated scrap within the electricity consumption-based sales tax framework, resolving a major compliance hurdle and encouraging local recyclers to fulfil their procurement targets with renewed confidence. Data released this week by the State Bank of Pakistan revealed that the central bank's foreign exchange reserves rose to US$17.12 billion by late August, pushing the country's total liquid foreign currency reserves past US$22.53 billion. Although headline inflation ticked up to 11.1% in August due to seasonal food and energy pressures, recent sovereign credit rating upgrades by major international agencies and an anchored benchmark policy rate of 11.5% continue to reinforce banking confidence. With foreign exchange reserves providing nearly three months of import cover, local commercial banks are maintaining a steady flow of LCs.
+**Gaddani, Pakistan:** Gadani maintained a relatively firm position, although vessel purchase indications witnessed a mild correction from their recent highs. The earlier surge in prices appears to have been largely a knee-jerk reaction, driven by a small group of recyclers facing individual buying pressures and a strong need to secure tonnage. With these requirements now largely covered, pricing has returned to more realistic and sustainable levels in line with prevailing domestic fundamentals. Looking ahead, the key concern will be, at the time of delivery, the handling of vessels acquired at elevated prices that are not fully supported by the underlying steel market. Such purchases could create some "song and dance" at the waterfront, with even minor vessel related issues potentially being used as a pretext to reopen negotiations or seek downward price adjustments at the time of delivery. But generally, the sentiment has received a substantial structural boost from tax authorities recognising domestically generated scrap within the electricity consumption-based sales tax framework, resolving a major compliance hurdle and encouraging local recyclers to fulfil their procurement targets with renewed confidence. Data released this week by the State Bank of Pakistan revealed that the central bank's foreign exchange reserves rose to US$17.12 billion by late August, pushing the country's total liquid foreign currency reserves past US$22.53 billion. Although headline inflation ticked up to 11.1% in August due to seasonal food and energy pressures, recent sovereign credit rating upgrades by major international agencies and an anchored benchmark policy rate of 11.5% continue to reinforce banking confidence. With foreign exchange reserves providing nearly three months of import cover, local commercial banks are maintaining a steady flow of LCs.
 
 # Gaddani Anchorage & Beaching Position - August 2026
 
 **VESSEL TYPE LDT ARRIVAL BEACHING**
 
-**Aliaga, Turkey: Aliaga experienced another quiet and steady week, with domestic steel plate prices**
+**Aliaga, Turkey:** Aliaga experienced another quiet and steady week, with domestic steel plate prices holding flat and general trading sentiment showing minimal movement across the waterfront. Local recycling plots continue to maintain a selective and watchful stance, as the lack of momentum in domestic finished steel values leaves little room to improve vessel purchase bids or compete aggressively for scarce international tonnage.
 
-holding flat and general trading sentiment showing minimal movement across the waterfront. Local recycling plots continue to maintain a selective and watchful stance, as the lack of momentum in domestic finished steel values leaves little room to improve vessel purchase bids or compete aggressively for scarce international tonnage.
-
-**TIDE DATES 2026 | Chattogram: 28 ~** 31 August | 10 ~13 September
+**TIDE DATES 2026 | Chattogram:** 28 ~ 31 August | 10 ~13 September
 
 # Alang: 26 August ~ 03 September | 08 ~ 16 September
 

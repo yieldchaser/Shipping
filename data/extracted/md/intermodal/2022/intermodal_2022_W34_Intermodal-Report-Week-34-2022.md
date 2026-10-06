@@ -57,10 +57,9 @@ Shanghai 200122 China
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | Current WS points | Current $/day | Previous WS points | Previous $/day | $/day ±% | Year1 $/day | Year2 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Vessel |  |  |  |  | Routes | 26-Aug-22 |  | 19-Aug-22 |  |
+| Vessel |  |  |  |  |  |  | Routes | 26-Aug-22 |  |
 | VLCC | 265k | MEG-SPORE | 82 | 40,031 | 82 | 41,682 | -4.0% | 2,246 | 52,119 |
 |  | 280k | MEG-USG | 46 | 2,168 | 46 | 5,538 | -60.9% | -15,306 | 41,904 |
 |  | 260k | WAF-CHINA | 81 | 38,163 | 83 | 42,579 | -10.4% | 3,125 | 50,446 |
@@ -74,14 +73,14 @@ Shanghai 200122 China
 |  | 75k | MEG-JAPAN | 274 | 57,993 | 217 | 40,557 | 43.0% | 6,368 | 28,160 |
 | Clean | 55k | MEG-JAPAN | 299 | 46,807 | 267 | 40,168 | 16.5% | 6,539 | 19,809 |
 |  | 37K | UKC-USAC | 224 | 12,951 | 234 | 16,413 | -21.1% | 4,496 | 12,977 |
-## Indicative Period Charters
 
+## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 24 mos | LOIRE | 2016 | 157,463 dwt | $32,500/day | Undisclosed |
-| 6 mos | MOUNT FUJI | 2010 | 149,998 dwt | $50,000/day | Chevron |
-## TC Rates
+| 24 mos | LOIRE | 2016 | 157,463 dwt |  |  |
+| 6 mos | MOUNT FUJI | 2010 | 149,998 dwt |  |  |
 
+## TC Rates
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | $/day | 26-Aug-22 | 19-Aug-22 | ±% | Diff | 2021 | 2020 |  |
@@ -97,8 +96,8 @@ Shanghai 200122 China
 |  | **52k 3yr TC** | 16,000 | 16,000 | 0.0% | 0 | 13,804 | 15,916 |
 | Handy | **36k 1yr TC** | 22,500 | 22,500 | 0.0% | 0 | 11,292 | 13,966 |
 |  | **36k 3yr TC** | 16,000 | 16,000 | 0.0% | 0 | 13,054 | 14,051 |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Aug-22 avg | Jul-22 avg | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | **300KT DH** | 82.8 | 81.0 | **2.2%** | 69.7 | 71.5 | 72.1 |
@@ -108,7 +107,6 @@ Shanghai 200122 China
 | **MR** | **52KT DH** | 36.9 | 34.6 | **6.6%** | 27.6 | 27.5 | 28.6 |
 
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 26/Aug/21 | 30 | 80 | 100 |
@@ -126,7 +124,6 @@ Shanghai 200122 China
 | 26/Aug/22 | 60 | 180 | 320 |
 
 ### Clean WS Rates (1-Year Trend)
-
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 26/Aug/21 | 100 | 120 | 140 | 150 |
@@ -173,13 +170,12 @@ In the Aframax sector we had the sale of the "ATLANTIC PRIDE" (114,500dwt-blt '0
 | BHSI | 933 | $16,794 | 960 | $17,285 | -27 | -2.8% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 5-8 mos | SHANDONG FU ZE | 2018 | 81,871 dwt | Vietnam 22 Aug | $19,000/day | cnr |
-| 5-8 mos | GREAT WEALTH | 2011 | 75,570 dwt | Krishnapatnam 23 Aug | $16,250/day | Blue Pool |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 5-8 mos | SHANDONG FU ZE | 2018 | 81,871 dwt |  |  |
+| 5-8 mos | GREAT WEALTH | 2011 | 75,570 dwt |  |  |
 
 ## TC Rates
-
 | Sector | Tenor | 26/08/2022 | 19/08/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 14,750 | 15,250 | -3.3% | -500 | 32,684 | 15,361 |
@@ -196,7 +192,6 @@ In the Aframax sector we had the sale of the "ATLANTIC PRIDE" (114,500dwt-blt '0
 |  | **32K 3yr TC** | 11,500 | 11,500 | 0.0% | 0 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 26/Aug/21 | 5500 | 3800 | 3500 | 1800 | 5800 |
@@ -214,7 +209,6 @@ In the Aframax sector we had the sale of the "ATLANTIC PRIDE" (114,500dwt-blt '0
 | 26/Aug/22 | 2400 | 2600 | 2500 | 1400 | 2400 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 26/Aug/21 | 40000 | 35000 | 34000 | 30000 |
@@ -264,7 +258,6 @@ In the Handysize sector we had the sale of the "AFRICA PRIDE" (28,843dwt-bl't '9
 
 # Intermodal Secondhand Sales
 ## Tankers
-
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | DHT EDELWEISS | 301,021 | 2008 | DAEWOO, S. Korea | MAN-B\&amp;W | Jan-23 | DH | $ 37.0m | undisclosed | Q3 dely |
@@ -281,8 +274,8 @@ In the Handysize sector we had the sale of the "AFRICA PRIDE" (28,843dwt-bl't '9
 | MR2 | AGNES VICTORY | 47,122 | 2004 | BRODOGRADILISTE, Croatia | B\&amp;W | Feb-24 | DH | $ 16.8m | Chinese | BWTS fitted |
 | MR2 | FSL SINGAPORE | 47,470 | 2006 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W | Feb-26 | DH | $ 18.0m | Greek | BWTS fitted |
 | MR2 | GOTLAND CAROLINA | 53,160 | 2006 | GUANGZHOU, China | Wartsila | Dec-26 | DH | $ 18.5m | Norwegian | BWTS fitted |
-## Bulk Carriers
 
+## Bulk Carriers
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUPRA | CLARKE QUAY | 55,618 | 2010 | HYUNDAI VINASHIN, Vietnam | MAN-B\&amp;W | Nov-25 | 4 X 30t CRANES | $ 17.1m | US based (Pangaea Logistics) |  |
@@ -295,7 +288,6 @@ In the Handysize sector we had the sale of the "AFRICA PRIDE" (28,843dwt-bl't '9
 
 # Intermodal Secondhand Sales
 ## Containers
-
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | RIO CADIZ | 4,300 | 2008 | HYUNDAI SAMHO, S. Korea | MAN-B\&amp;W | Jan-23 |  | undisclosed | Swiss (MSC) | Scrubber fitted |
@@ -313,7 +305,6 @@ In the Handysize sector we had the sale of the "AFRICA PRIDE" (28,843dwt-bl't '9
 
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
-
 | Sector | Size | 26/08/2022 | 19/08/2022 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -370,8 +361,8 @@ Newbuilding ordering activity remained fairly stable over the last week, with or
 | 26/Jun/22 | 62 | 35 | 36 | 31 |
 | 26/Jul/22 | 62 | 36 | 36 | 31 |
 | 26/Aug/22 | 62 | 36 | 36 | 31 |
-## Newbuilding Orders
 
+## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | Tanker | 309,000 dwt | DACKS, China | 2025-2026 | Japanese (MOL) | $ 120.0m - $ 130.0m | LNG dual-fuelled, EEDI phase 3, NOx-Tier III |
@@ -386,7 +377,6 @@ Newbuilding ordering activity remained fairly stable over the last week, with or
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | 26/08/2022 | 19/08/2022 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |
@@ -417,8 +407,8 @@ The recycling market has shown improved activity during the past few days, under
 | 26/Jun/22 | 560 | 540 | 560 | 260 |
 | 26/Jul/22 | 565 | 545 | 565 | 255 |
 | 26/Aug/22 | 570 | 550 | 570 | 255 |
-## Demolition Sales
 
+## Demolition Sales
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | URANUS | 299,157 | 39,825 | 2002 | HITACHI ZOSEN, Japan | TANKER | $ 610/Ldt | Bangladeshi | dely end October |

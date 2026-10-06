@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 *By Chara Georgousi, Research Analyst*
 
@@ -27,7 +25,6 @@ In summary, the maritime industry stands at a critical point, trying to balance 
 
 # Intermodal Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 06/10/23 WS points | 06/10/23 $/day | 29/09/23 WS points | 29/09/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 37 | 9,164 | 51 | 24,578 | -62.7% | 20,330 | 2,246 |
@@ -48,11 +45,12 @@ In summary, the maritime industry stands at a critical point, trying to balance 
 |  | 50k | CARIBS-USG | 138 | 14,940 | 135 | 11,458 | **30.4%** | 40,364 | 8,548 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 10 mos | LADY MARIELLA | 2013 | 39,316 dwt | DEL WEST SEP/23 | $28,000/day | ENI |
-| 12 mos | PRIVE ANGEL | 2008 | 51,246 dwt | DE LEAST SEP/23 | $25,000/day | Vitol |
-### 1-Year Forward WS Rates - Dirty
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 10 mos | LADY MARIELLA | 2013 | 39,316 dwt |  |  |
+| 12 mos | PRIVE ANGEL | 2008 | 51,246 dwt |  |  |
+
+### Dirty WS Rates (1-Year Trend)
 
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
@@ -69,7 +67,8 @@ In summary, the maritime industry stands at a critical point, trying to balance 
 | 6/Aug/23 | 30 | 200 | 300 |
 | 6/Sep/23 | 20 | 150 | 300 |
 | 6/Oct/23 | 10 | 150 | 150 |
-### 1-Year Forward WS Rates - Clean
+
+### Clean WS Rates (1-Year Trend)
 
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
@@ -154,7 +153,6 @@ Suezmax T/C earnings averaged \$11,948/day, up + \$5,784/day w-o-w. On the Afram
 |  | **32K 3yr TC** | 9,250 | 9,250 | 0.0% | 0 | 12,322 | 11,825 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 6/Oct/22 | 2400 | 1900 | 1800 | 1000 | 2000 |
@@ -172,7 +170,6 @@ Suezmax T/C earnings averaged \$11,948/day, up + \$5,784/day w-o-w. On the Afram
 | 6/Oct/23 | 3200 | 1800 | 1800 | 800 | 1900 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 6/Oct/22 | 20000 | 18000 | 14000 | 10000 |
@@ -230,7 +227,6 @@ Supramax 10TC averaged \$ 13,695/day, down -5.43% w-o-w, while the Handysize 7TC
 | HANDY | LENI SELMER | 34,959 | 2011 | SAMJIN, China | MAN-B\&W | Nov-26 | 4 X 35t CRANES | $ 11.6m | Greek | BWTS fitted |
 
 ## Secondhand Sales
-
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | JOSEPH SCHULTE | 9,403 | 2013 | SHANGHAI JAINGNAN CHANGXIN, China | MAN-B\&W | Nov-23 |  | $ 55.0m | Swiss Based (MSC Shipping) | BWTS fitted, SS/DD Due, FS Ice Class II |
@@ -289,7 +285,6 @@ In India, the market seems to be softening as prices offered by recyclers are fa
 | USD/TRY | 27.62 | 27.41 | 0.76% | 27.75 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ALANA | 159,899 | 22,471 | 1998 | DAEWOO, S. Korea | TANKER | $ 570/Ldt | undisclosed | India/Pakistan delivery |

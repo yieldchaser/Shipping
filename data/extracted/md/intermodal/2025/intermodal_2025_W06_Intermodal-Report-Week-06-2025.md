@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 <mark>By Yiannis Parganas, Head of Research Department</mark>
 
@@ -60,7 +58,6 @@ The extent of the correction remains debatable, with a **20-25%** decline being 
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 07/02/25 WS points | 07/02/25 $/day | 31/01/25 WS points | 31/01/25 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 68 | 49,225 | 62 | 41,709 | **18.0%** | 37,255 | 39,466 |
@@ -84,8 +81,8 @@ The extent of the correction remains debatable, with a **20-25%** decline being 
 | 6 mos | NAVE ATROPOS | 2013 |
 | --- | --- | --- |
 |  | $19,000/day |  |
-### Dirty WS Rates (1-Year Trend)
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | DATE | WS points | WS points | WS points |
@@ -102,8 +99,8 @@ The extent of the correction remains debatable, with a **20-25%** decline being 
 | 7/Dec/24 | 25 | 70 | 130 |
 | 7/Jan/25 | 30 | 75 | 135 |
 | 7/Feb/25 | 35 | 80 | 140 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | DATE | WS points | WS points | WS points | WS points |
@@ -170,10 +167,10 @@ The Aframax market saw varied movements across the routes and ended the week pos
 | BHSI | 398 | $7,164 | 377 | $6,780 | **21** | **5.7%** | 702 | 586 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 12 mos | GUO JIA NENG YUAN | 2024 | 85,584 dwt | Campha 12 Feb redel worldwide | $14,000/day | Cosco |
-| 4 to 6 mos | YM ADVANCE | 2019 | 63,509 dwt | dely Brake prompt redel worldwide | $12,250/day | Oldendorff |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 12 mos | GUO JIA NENG YUAN | 2024 | 85,584 dwt |  |  |
+| 4 to 6 mos | YM ADVANCE | 2019 | 63,509 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | 07/02/25 | 31/01/25 | ±% | Diff | 2024 | 2023 |
@@ -188,7 +185,6 @@ The Aframax market saw varied movements across the routes and ended the week pos
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 7/Feb/24 | 2000 | 1500 | 1000 | 800 | 1500 |
@@ -206,7 +202,6 @@ The Aframax market saw varied movements across the routes and ended the week pos
 | 7/Feb/25 | 800 | 850 | 700 | 550 | 850 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 7/Feb/24 | 18000 | 12000 | 10000 | 8000 |
@@ -328,7 +323,6 @@ The Turkish market remains subdued, with little change from the previous week as
 | USD/TRY | 35.99 | 35.70 | 0.8% | 35.99 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | AREL 2 | 3,152 | 972 | 1983 | BODEWESS GRUNO, Netherlands | GENERAL CARGO | $ 280.0m | Turkish |  |

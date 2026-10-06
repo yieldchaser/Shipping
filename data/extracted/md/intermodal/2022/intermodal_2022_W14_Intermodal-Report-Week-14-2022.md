@@ -68,8 +68,8 @@ Shanghai 200122 China
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | SAMOS | 2010 | 104,649 dwt | $20,500/day | Saudi Aramco |
-| 6 mos | ASTIR LADY | 2011 | 50,286 dwt | $14,250/day | ST Shipping |
+| 12 mos | SAMOS | 2010 | 104,649 dwt |  |  |
+| 6 mos | ASTIR LADY | 2011 | 50,286 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | Current | Previous | ±% | Diff | 2021 | 2020 |
@@ -88,7 +88,6 @@ Shanghai 200122 China
 |  | 36k 3yr TC | 12,250 | 12,250 | 0.0% | 0 | 13,054 | 14,051 |
 
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 8/Apr/21 | 30 | 70 | 90 |
@@ -105,7 +104,6 @@ Shanghai 200122 China
 | 8/Apr/22 | 30 | 290 | 290 |
 
 ### Clean WS Rates (1-Year Trend)
-
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 8/Apr/21 | 100 | 120 | 140 | 160 |
@@ -162,13 +160,12 @@ In the Aframax sector we had sale of the "SILVER" (107,507dwt-blt '10, Japan), w
 | BHSI | 1,544 | $27,786 | 1,695 | $30,511 | -151 | -8.9% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 4 to 6 mos | ARISTIDIS | 2013 | 82,153 dwt | Haldia 1 Apr | $30,000/day | Ultrabulk |
-| 5 to 7 mos | CABRERA | 2011 | 35,735 dwt | Alexandria prompt | $26,000/day | cnr |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 4 to 6 mos | ARISTIDIS | 2013 | 82,153 dwt |  |  |
+| 5 to 7 mos | CABRERA | 2011 | 35,735 dwt |  |  |
 
 ## TC Rates
-
 | Sector | Tenor | 08/04/2022 | 01/04/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 29,750 | 32,500 | -8.5% | -2,750 | 32,684 | 15,361 |
@@ -185,7 +182,6 @@ In the Aframax sector we had sale of the "SILVER" (107,507dwt-blt '10, Japan), w
 |  | **32K 3yr TC** | 14,250 | 14,250 | 0.0% | 0 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 8/Apr/21 | 2500 | 2800 | 2000 | 1500 | 2600 |
@@ -203,7 +199,6 @@ In the Aframax sector we had sale of the "SILVER" (107,507dwt-blt '10, Japan), w
 | 8/Apr/22 | 2600 | 2700 | 2600 | 1600 | 2400 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 8/Apr/21 | 20000 | 22000 | 23000 | 21000 |
@@ -253,7 +248,6 @@ In the Supramax sector we had the sale of the "NEW ABLE" (55,889dwt-bl't '14, Ja
 
 # Intermodal Secondhand Sales
 ## Bulk Carriers
-
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | RED SAGE | 182,443 | 2015 | JMU, Japan | MAN-B\&amp;W | Jan-25 |  | $ 47.5m | German (Valhal Shipping) |  |
@@ -274,7 +268,6 @@ In the Supramax sector we had the sale of the "NEW ABLE" (55,889dwt-bl't '14, Ja
 
 # Intermodal Secondhand Sales
 ## Tankers
-
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUEZ | SKS SKEENA | 158,933 | 2006 | HYUNDAI SAMHO, S. Korea | MAN-B\&amp;W | Aug-26 |  | $ 23.5m | Greek | BWTS fitted |
@@ -293,7 +286,6 @@ In the Supramax sector we had the sale of the "NEW ABLE" (55,889dwt-bl't '14, Ja
 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
-
 | Sector | Size | 08/04/2022 | 01/04/2022 | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -350,8 +342,8 @@ Reported activity on the newbuilding front remains firm for yet another week, wi
 | 8/Feb/22 | 60 | 35 | 35 | 28 |
 | 8/Mar/22 | 60 | 35 | 35 | 28 |
 | 8/Apr/22 | 61 | 35 | 36 | 28 |
-## Newbuilding Orders
 
+## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | Tanker | 50,000 dwt | Hyundai Vietnam, Vietnam | 2023 | Singaporean (Asiatic Lloyd) | $ 38.9m | options declared |
@@ -367,7 +359,6 @@ Reported activity on the newbuilding front remains firm for yet another week, wi
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | 08/04/2022 | 01/04/2022 | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |
@@ -398,8 +389,8 @@ The recycling market activity remains positive with breakers' bids following an 
 | 8/Feb/22 | 640 | 590 | 600 | 340 |
 | 8/Mar/22 | 660 | 650 | 650 | 450 |
 | 8/Apr/22 | 660 | 660 | 660 | 460 |
-## Demolition Sales
 
+## Demolition Sales
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | DA YUAN HU | 159,149 | 26,829 | 2004 | BOHAI, China | TANKER | $ 625/Ldt | undisclosed | as-is China |

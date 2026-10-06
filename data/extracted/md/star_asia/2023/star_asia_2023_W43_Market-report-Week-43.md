@@ -156,10 +156,10 @@ COMMENTS / BUYERS TORM A/S IMS FGAS
 
 GREEK BUYERS
 
-|  | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
-|---|---|---|---|
-| 1,274 | 1,823 | +7.69% | -24.74% |
-| 763 | 1,227 | +4.06% | -35.29% |
+| LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- |
+| 1,823 | +7.69% | -24.74% |
+| 1,227 | +4.06% | -35.29% |
 
 Tankers Values
 

@@ -55,7 +55,6 @@ Shanghai 200122 China
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 03/03/23 WS points | 03/03/23 $/day | 24/02/23 WS points | 24/02/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 73 | 57,977 | 67 | 52,108 | 11.3% | 20,330 | 2,246 |
@@ -74,14 +73,14 @@ Shanghai 200122 China
 | Dirty | 55K | UKC-USG | 197 | 39,364 | 197 | 39,562 | -0.5% | 19,982 | 2,822 |
 |  | 55K | MED-USG | 197 | 38,296 | 197 | 38,654 | -0.9% | 21,231 | 4,818 |
 |  | 50k | CARIBS-USG | 332 | 72,523 | 254 | 50,182 | 44.5% | 40,364 | 8,548 |
-## Indicative Period Charters
 
+## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 35 mos | DHT PUMA | 2016 | 299,629 dwt | $34,500/day | Mercuria |
-| 24 mos | LARGO EVOLUTION | 2002 | 49,750 dwt | $29,750/day | Union Maritime |
-### Dirty WS Rates (1-Year Trend)
+| 35 mos | DHT PUMA | 2016 | 299,629 dwt |  |  |
+| 24 mos | LARGO EVOLUTION | 2002 | 49,750 dwt |  |  |
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 3/Mar/22 | 0 | 150 | 150 |
@@ -97,8 +96,8 @@ Shanghai 200122 China
 | 3/Jan/23 | 60 | 180 | 150 |
 | 3/Feb/23 | 70 | 180 | 180 |
 | 3/Mar/23 | 80 | 180 | 380 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 3/Mar/22 | 150 | 160 | 200 | 250 |
@@ -114,8 +113,8 @@ Shanghai 200122 China
 | 3/Jan/23 | 200 | 400 | 400 | 450 |
 | 3/Feb/23 | 180 | 200 | 200 | 200 |
 | 3/Mar/23 | 180 | 180 | 180 | 180 |
-## TC Rates
 
+## TC Rates
 | Sector | Tenor | 03/03/23 | 24/02/23 | ±% | Diff | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | **300k 1yr TC** | 48,500 | 47,500 | 2.1% | 1000 | 34,683 | 25,684 |
@@ -130,8 +129,8 @@ Shanghai 200122 China
 |  | **52k 3yr TC** | 25,500 | 25,500 | 0.0% | 0 | 16,426 | 13,804 |
 | Handy | **36k 1yr TC** | 26,000 | 26,000 | 0.0% | 0 | 18,601 | 11,292 |
 |  | **36k 3yr TC** | 18,000 | 18,000 | 0.0% | 0 | 14,585 | 13,054 |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Mar-23 avg | Feb-23 avg | ±% | 2022 | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | **300KT DH** | 99.0 | 99.0 | 0.0% | 80.2 | 69.7 | 71.5 |
@@ -160,7 +159,6 @@ In the MR2 sector we had the sale of the "VIVIANA" (47,221dwt-blt '99, Japan), w
 
 # Dry Bulk Market
 ## Baltic Indices
-
 | Index Name | 03/03/23 Index | 03/03/23 $/day | 24/02/23 Index | 24/02/23 $/day | Point Diff | $/day ±% | 2022 Index | 2021 Index |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | BDI | 1,211 |  | 883 |  | **328** |  | 1,931 | 2,921 |
@@ -168,14 +166,14 @@ In the MR2 sector we had the sale of the "VIVIANA" (47,221dwt-blt '99, Japan), w
 | BPI | 1,565 | $14,087 | 1,271 | $11,439 | **294** | **23.1%** | 2,298 | 2,972 |
 | BSI | 1,189 | $13,081 | 996 | $10,957 | **193** | **19.4%** | 2,006 | 2,424 |
 | BHSI | 584 | $10,513 | 505 | $9,086 | **79** | **15.7%** | 1,181 | 1,424 |
+
 ## Indicative Period Charters
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 12 to 14 months | DSI PHOENIX | 2017 | 60,456 dwt |  |  |
+| 12 to 14 months | SPRING COSMOS | 2014 | 63,232 dwt |  |  |
 
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 12 to 14 months | DSI PHOENIX | 2017 | 60,456 dwt | India ely Mar | $16,000/day | Sumec |
-| 12 to 14 months | SPRING COSMOS | 2014 | 63,232 dwt | Flushing 4 Mar | $17,000/day | Norden |
 ## TC Rates
-
 | Sector | Tenor | 03/03/23 | 24/02/23 | ±% | Diff | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 1yr TC** | 17,250 | 15,500 | **11.3%** | **1,750** | 21,394 | 26,392 |
@@ -186,8 +184,8 @@ In the MR2 sector we had the sale of the "VIVIANA" (47,221dwt-blt '99, Japan), w
 |  | **58K 3yr TC** | 13,250 | 13,000 | **1.9%** | **250** | 15,005 | 14,552 |
 | **Handysize** | **32K 1yr TC** | 12,250 | 10,750 | **14.0%** | **1,500** | 17,827 | 18,354 |
 |  | **32K 3yr TC** | 10,500 | 10,250 | **2.4%** | **250** | 12,322 | 11,825 |
-### Baltic Indices (1-Year Trend)
 
+### Baltic Indices (1-Year Trend)
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 3/Mar/22 | 2800 | 2900 | 2700 | 1800 | 2600 |
@@ -203,8 +201,8 @@ In the MR2 sector we had the sale of the "VIVIANA" (47,221dwt-blt '99, Japan), w
 | 3/Jan/23 | 2700 | 2400 | 2400 | 1400 | 2700 |
 | 3/Feb/23 | 1400 | 1400 | 1400 | 1400 | 1400 |
 | 3/Mar/23 | 1400 | 1400 | 1400 | 1400 | 1400 |
-### Average T/C Rates (1-Year Trend)
 
+### Average T/C Rates (1-Year Trend)
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 3/Mar/22 | 25000 | 28000 | 27000 | 26000 |
@@ -252,7 +250,6 @@ In the Handysize sector we had the sale of the "GALLEON" (28,294dwt-bl't '14, Ja
 
 # Intermodal Secondhand Sales
 ## Tankers
-
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUEZ | FOUR SKY | 115,708 | 2010 | SAMSUNG, S. Korea | MAN-B\&amp;W | Mar-25 | DH | $ 42.5m | European | BWTS fitted, Italian flag |
@@ -266,8 +263,8 @@ In the Handysize sector we had the sale of the "GALLEON" (28,294dwt-bl't '14, Ja
 | MR1 | BALTIC WIND | 37,296 | 2003 | HYUNDAI MIPO, S. Korea | B\&amp;W | Nov-23 | DH | $ 12.6m |  |  |
 | J19 | CHEM POLARIS | 19,859 | 2008 | FUKUOKA, Japan | MAN-B\&amp;W | Mar-23 | DH | high $ 19.0m | Indian (Tolani) | StSt, BWTS fitted, bss dely with SS/DD passed |
 | SMALL | DL AMBER | 12,898 | 2010 | HIGAKI, Japan | MAN-B\&amp;W | Aug-25 | DH | $ 9.70m | undisclosed | StSt, BWTS fitted |
-## Bulk Carriers
 
+## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | ELIZABETH II | 180,184 | 2007 | IMABARI, Japan | MAN-B&amp;W | Jan-25 |  | $ 17.15m | undisclosed | bss DD/BWTS due |
@@ -286,13 +283,12 @@ In the Handysize sector we had the sale of the "GALLEON" (28,294dwt-bl't '14, Ja
 
 # Intermodal Secondhand Sales
 ## Containers
-
 | Sector | Size | Containers | Name | Teu | Built | Yard | M/E | SS due | Gear | Price |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | SVENDBORG MAERSK | 9,578 | 1998 | Odense Staalskibs - Lindo | B&amp;W | Sep-27 |  | undisclosed | undisclosed |  |
 | FEEDER | GSL AMSTEL | 1,118 | 2008 | Jinling Shipyard | MAN | Oct-23 | 2 X 45t CRANES | undisclosed | Greek (Contships) | Ice Classed |
-## Secondhand Sales
 
+## Secondhand Sales
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LNG | GASLOG ATHENS | 78,957 | 2006 | SAMSUNG, S. Korea | Kawasaki | Jan-25 | 142,100 | $ 55.0m | undisclosed |
@@ -367,7 +363,6 @@ The newbuilding market is showing a few signs that is firming up with a few deal
 
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | 03/03/23 | 24/02/23 | ±% | 2022 | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |
@@ -402,7 +397,6 @@ The demolition market activity was steady last week, with Bangladesh being the p
 | 3/Mar/23 | 580 | 570 | 570 | 330 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | AGIA TRIAS | 185,820 | 22,132 | 2002 | KAWASAKI, Japan | BC | $ 569/Ldt | undisclosed | "as is" Singapore |

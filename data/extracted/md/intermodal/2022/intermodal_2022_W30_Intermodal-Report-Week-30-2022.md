@@ -56,7 +56,6 @@ Shanghai 200122 China
 
 # Intermodal Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | Current WS points | Current $/day | Previous WS points | Previous $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 265k | MEG-SPORE | 60 | 9,616 | 62 | 10,322 | -6.8% | 2,246 | 52,119 |
@@ -72,14 +71,14 @@ Shanghai 200122 China
 |  | 75k | MEG-JAPAN | 239 | 42,889 | 233 | 39,376 | **8.9%** | 6,368 | 28,160 |
 | **Clean** | 55k | MEG-JAPAN | 259 | 34,354 | 286 | 39,777 | -13.6% | 6,539 | 19,809 |
 |  | 37K | UKC-USAC | 345 | 34,255 | 272 | 22,357 | **53.2%** | 4,496 | 12,977 |
-## Indicative Period Charters
 
+## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 18 mos | NEXUS VICTORIA | 2015 | 74,910 dwt | $23,500/day | undisclosed |
-| 18 mos | SKS DEMINI | 2012 | 119,456 dwt | $30,000/day | BP |
-## TC Rates
+| 18 mos | NEXUS VICTORIA | 2015 | 74,910 dwt |  |  |
+| 18 mos | SKS DEMINI | 2012 | 119,456 dwt |  |  |
 
+## TC Rates
 | Sector | Tenor | Current | Previous | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 29,000 | 28,000 | 3.6% | 1000 | 25,684 | 42,038 |
@@ -94,8 +93,8 @@ Shanghai 200122 China
 |  | 52k 3yr TC | 16,000 | 16,000 | 0.0% | 0 | 13,804 | 15,916 |
 | Handy | 36k 1yr TC | 22,500 | 21,750 | 3.4% | 750 | 11,292 | 13,966 |
 |  | 36k 3yr TC | 16,000 | 17,000 | -5.9% | -1000 | 13,054 | 14,051 |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Jul-22 avg | Jun-22 avg | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | **300KT DH** | 81.0 | 76.8 | **5.5%** | 69.7 | 71.5 | 72.1 |
@@ -136,13 +135,12 @@ In the Aframax sector we had the sale of the "VOYAGER I" (106,638dwt-blt '02, Ja
 | BHSI | 1,173 | $21,114 | 1,211 | $21,796 | -38 | -3.1% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 7-9 mos | MBA FUTURE | 2019 | 82,181 dwt | Japan mid August | $19,750/day | Element |
-| 4-6 mos | NEW LONDON EAGLE | 2015 | 63,140 dwt | Singapore 27/31 Jul | $33,000/day | cnr |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 7-9 mos | MBA FUTURE | 2019 | 82,181 dwt |  |  |
+| 4-6 mos | NEW LONDON EAGLE | 2015 | 63,140 dwt |  |  |
 
 ## TC Rates
-
 | Sector | Tenor | 29/07/2022 | 22/07/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 23,750 | 28,750 | -17.4% | -5,000 | 32,684 | 15,361 |
@@ -159,7 +157,6 @@ In the Aframax sector we had the sale of the "VOYAGER I" (106,638dwt-blt '02, Ja
 |  | **32K 3yr TC** | 12,000 | 12,500 | -4.0% | -500 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 29/Jul/21 | 4000 | 3500 | 3000 | 1800 | 4000 |
@@ -176,7 +173,6 @@ In the Aframax sector we had the sale of the "VOYAGER I" (106,638dwt-blt '02, Ja
 | 30/Jun/22 | 2000 | 2500 | 2400 | 1700 | 2500 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 29/Jul/21 | 32000 | 30000 | 31000 | 28000 |
@@ -223,7 +219,6 @@ In the Handysize sector we had the sale of the "MISS SIMONA" (34,529dwt-blt '10,
 
 # Intermodal Secondhand Sales
 ## Tankers
-
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | TINAT | 316,502 | 2002 | HYUNDAI ULSAN, S. Korea | B\&amp;W | Sep-22 | DH | $ 29.5m | Far Eastern |  |
@@ -244,7 +239,6 @@ In the Handysize sector we had the sale of the "MISS SIMONA" (34,529dwt-blt '10,
 
 # Intermodal Secondhand Sales
 ## Bulk Carriers
-
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | UMAX | NAUTICAL ANNE | 63,593 | 2016 | JIANGSU HANTONG, China | MAN-B\&amp;W | Jun-22 | 4 X 30t CRANES | $ 31.0m | undisclosed | BWTS &amp; Scrubber fitted. Long subs. |
@@ -357,7 +351,6 @@ July ended with a total number of 59 units added to the current orderbook. LNG c
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | Markets | 29/07/2022 | 22/07/2022 | ±% | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
@@ -387,8 +380,8 @@ Sentiment in the demolition sector across the main Indian subcontinent markets r
 | 30/Apr/22 | 670 | 590 | 670 | 450 |
 | 31/May/22 | 650 | 570 | 650 | 350 |
 | 30/Jun/22 | 610 | 560 | 610 | 250 |
-## Indicative Demolition Prices ($/ldt)
 
+## Indicative Demolition Prices ($/ldt)
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/ldt | Demolition Sales Breakers | Demolition Sales Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | BONGKOT STAR | 301,242 | 37,585 | 1997 | HYUNDAI HI, S. Korea | FSU | $ 540/Ldt | undisclosed | "as-is" Malaysia incl. 1,000T of sludge in Cargo Tanks for cleaning" |

@@ -63,10 +63,10 @@ The Baltic Exchange
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | FREE SPIRIT | 2008 | 113,091 dwt |  | Vitol |
-| 12 mos | MRC SEDEF | 2007 | 45,951 dwt |  | Trafigura |
-| 12 mos | FREE SPIRIT | 2008 | 113,091 dwt |  | Vitol |
-| 12 mos | MRC SEDEF | 2007 | 45,951 dwt |  | Trafigura |
+| 12 mos | FREE SPIRIT | 2008 | 113,091 dwt |  |  |
+| 12 mos | MRC SEDEF | 2007 | 45,951 dwt |  |  |
+| 12 mos | FREE SPIRIT | 2008 | 113,091 dwt |  |  |
+| 12 mos | MRC SEDEF | 2007 | 45,951 dwt |  |  |
 
 ## TC Rates
 
@@ -74,7 +74,6 @@ The Baltic Exchange
 | --- | --- | --- | --- | --- | --- | --- | --- |
 
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 21/Oct/21 | 40 | 130 | 140 |
@@ -105,7 +104,7 @@ The Baltic Exchange
 | 21/Sep/22 | 40 | 180 | 350 |
 | 21/Oct/22 | 40 | 180 | 380 |
 
-### 1-Year Forward WS Rates - Clean
+### Clean WS Rates (1-Year Trend)
 
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
@@ -166,13 +165,12 @@ In the MR2 sector we had the sale of the "FALCON BAY" (47,147dwt-blt '09, S. Kor
 | BHSI | 961 | $17,297 | 1,012 | $18,208 | -51 | -5.0% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 12 mos | VITA KOUAN | 2016 | 63,323 dwt | Singapore end Oct | $17,000/day | Bulk Trading |
-| 4 to 6 mos | ZARAAR HANIF | 2009 | 55,693 dwt | Payra 26/28 Oct | $16,000/day | Bainbridge |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 12 mos | VITA KOUAN | 2016 | 63,323 dwt |  |  |
+| 4 to 6 mos | ZARAAR HANIF | 2009 | 55,693 dwt |  |  |
 
 ## TC Rates
-
 | Sector | Tenor | 21/10/2022 | 14/10/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 15,000 | 17,000 | -11.8% | -2,000 | 32,684 | 15,361 |
@@ -189,7 +187,6 @@ In the MR2 sector we had the sale of the "FALCON BAY" (47,147dwt-blt '09, S. Kor
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 21/Oct/21 | 6000 | 4000 | 3500 | 1500 | 6500 |
@@ -207,7 +204,6 @@ In the MR2 sector we had the sale of the "FALCON BAY" (47,147dwt-blt '09, S. Kor
 | 21/Oct/22 | 3100 | 2700 | 2500 | 1300 | 2900 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 21/Oct/21 | 45000 | 35000 | 30000 | 25000 |
@@ -259,7 +255,6 @@ In the Kamsarmax sector we had the sale of the "AROUZU" (82,113dwt-blt '12, Japa
 
 # Intermodal Secondhand Sales
 ## Bulk Carriers
-
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | ORIENT ANGEL | 176,859 | 2007 | NAMURA, Japan | MAN-B\&amp;W | Jun-25 |  | undisclosed | Turkish |  |
@@ -284,7 +279,6 @@ In the Kamsarmax sector we had the sale of the "AROUZU" (82,113dwt-blt '12, Japa
 
 # Intermodal Secondhand Sales
 ## Tankers
-
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | PACIFIC M | 299,546 | 2019 | HYUNDAI, S. Korea | MAN-B&amp;W | Jan-24 | DH | low $ 90.0m | undisclosed | Scrubber fitted, TC attached at below marker rate for another 18 months |
@@ -297,8 +291,8 @@ In the Kamsarmax sector we had the sale of the "AROUZU" (82,113dwt-blt '12, Japa
 | SMALL | DS COUGAR | 12,585 | 2009 | SHITANOE, Japan | MAN-B&amp;W | Sep-24 | DH | $ 13.5m | undisclosed | St-St |
 | SMALL | RF ALICE | 13,273 | 2008 | JINSE, S. Korea | MAN-B&amp;W | Mar-23 | DH | $ 7.1m | Vietnamese |  |
 | SMALL | MIS 3 | 3,842 | 2005 | MIURA SAIKI, Japan | Daihatsu | Apr-25 | DH | $ 3.0m | Korean | epoxy coated |
-## Secondhand Sales
 
+## Secondhand Sales
 | Gas/LPG/LNG Type | Gas/LPG/LNG Name | Gas/LPG/LNG Dwt | Gas/LPG/LNG Built | Gas/LPG/LNG Yard | Gas/LPG/LNG M/E | Gas/LPG/LNG SS due | Gas/LPG/LNG Cbm | Gas/LPG/LNG Price | Gas/LPG/LNG Buyers | Gas/LPG/LNG Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | GAS ARIES | 53,688 | 2016 | JIANGNAN SHIPYARD GROU, China | MAN-B\&amp;W | Mar-26 | 81,429 | Chinese (Cosco Shipping) | undisclosed | eco |
@@ -309,7 +303,6 @@ In the Kamsarmax sector we had the sale of the "AROUZU" (82,113dwt-blt '12, Japa
 
 # Newbuilding Market
 ## TC Rates
-
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Vessel | 21/10/2022 | 14/10/2022 | ±% | 2020 | 2019 | 2018 |
@@ -373,7 +366,6 @@ Newbuilding contracting activity was steady during the past days. In the tanker 
 
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | Markets | 21/10/2022 | 14/10/2022 | ±% | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
@@ -404,8 +396,8 @@ Momentum was negative on the demolition front for another week, as global steel 
 | 21/Aug/22 | 570 | 570 | 570 | 250 |
 | 21/Sep/22 | 575 | 575 | 575 | 250 |
 | 21/Oct/22 | 575 | 575 | 575 | 250 |
-## Indicative Demolition Prices ($/ldt)
 
+## Indicative Demolition Prices ($/ldt)
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/ldt | Demolition Sales Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | SHINY | 169,631 | 22,037 | 2002 | SAMHO, S. Korea | BC | undisclosed | Bangladeshi |

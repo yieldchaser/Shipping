@@ -31,7 +31,6 @@ The newbuilding ordering activity continues to witness a steady number of materi
 
 With the exception of the Bangladeshi breakers whose offers noted a w-o-w improvement mainly for small to medium size vessels (L/C restrictions continue to hinder breakers from large units' acquisitions) amidst the upcoming construction season coupled with low storage, breakers of the rest demo nations kept their offers unchanged. Scrap was under pressure with w-o-w price decline materializing due to low demand for finished products worldwide. At the same time, Pakistani breakers remained sidelined, as the recent destructive flood has caused many steel mills to cease their operations. Lastly, Turkey continues to face discounted imported steel plates with the domestic mills struggling to compete amidst soaring energy costs. On the supply front, the demo candidates list was short for another week while with the dry bulk freight market improving, we could not expect any sharp increase in the offered volume of vintage units.
 ### Baltic Indices Summary
-
 | Index | Date | Value |
 | --- | --- | --- |
 | BDI | 27/09/2022 | 1,807 |
@@ -81,8 +80,8 @@ Shanghai 200122 China
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | G FUTURE | 2022 | 299,600 dwt | $42,500/day | Mercuria |
-| 3 mos | FPMC 32 | 2019 | 49,660 dwt | $23,500/day | Bahri |
+| 12 mos | G FUTURE | 2022 | 299,600 dwt |  |  |
+| 3 mos | FPMC 32 | 2019 | 49,660 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | Current | Previous | ±% | Diff | 2021 | 2020 |
@@ -101,7 +100,6 @@ Shanghai 200122 China
 |  | **36k 3yr TC** | 16,000 | 16,000 | 0.0% | 0 | 13,054 | 14,051 |
 
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 23/Sep/21 | 50 | 80 | 120 |
@@ -119,7 +117,6 @@ Shanghai 200122 China
 | 23/Sep/22 | 100 | 240 | 260 |
 
 ### Clean WS Rates (1-Year Trend)
-
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 23/Sep/21 | 100 | 110 | 120 | 130 |
@@ -183,7 +180,6 @@ In the Suezmax sector we had the sale of the "VINGA" (158,982dwt-blt '12, S. Kor
 |   |
 
 ## TC Rates
-
 | Sector | Tenor | 23/09/2022 | 16/09/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 18,000 | 16,500 | **9.1%** | **1,500** | 32,684 | 15,361 |
@@ -200,7 +196,6 @@ In the Suezmax sector we had the sale of the "VINGA" (158,982dwt-blt '12, S. Kor
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 23/Sep/21 | 4500 | 3500 | 3200 | 1800 | 10000 |
@@ -217,7 +212,6 @@ In the Suezmax sector we had the sale of the "VINGA" (158,982dwt-blt '12, S. Kor
 | 23/Sep/22 | 1800 | 2300 | 2400 | 1600 | 1500 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 23/Sep/21 | 35000 | 36000 | 35000 | 34000 |
@@ -264,7 +258,6 @@ In the Ultramax sector we had the sale of the "ULTRA DYNAMIC" (61,412dwt-blt '11
 
 # Intermodal Secondhand Sales
 ## Tankers
-
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | VIKI | 310,106 | 2000 | SAMSUNG, S. Korea | B\&amp;W | Jun-23 | DH | $ 29.5m | undisclosed |  |
@@ -290,7 +283,6 @@ In the Ultramax sector we had the sale of the "ULTRA DYNAMIC" (61,412dwt-blt '11
 
 # Intermodal Secondhand Sales
 ## Bulk Carriers
-
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | GREAT WENCHENG | 91,439 | 2005 | OSHIMA, Japan | Mitsubishi | Jan-26 |  | $ 16.9m | undisclosed |  |
@@ -299,8 +291,8 @@ In the Ultramax sector we had the sale of the "ULTRA DYNAMIC" (61,412dwt-blt '11
 | UMAX | NORD BARENTS | 62,625 | 2019 | OSHIMA, Japan | MAN-B\&amp;W | Feb-24 | 4 X 30t CRANES | $ 33.3m | undisclosed | Scrubber fitted |
 | UMAX | ULTRA DYNAMIC | 61,412 | 2011 | SHIN KASADO, Japan | MAN-B\&amp;W | Jul-26 | 4 X 30,5t CRANES | rgn $ 22.5m | HK based | BWTS &amp; Scrubber fitted |
 | HANDY | DREAM OCEAN | 33,383 | 2013 | SHIN KURUSHIMA, Japan | Mitsubishi | Aug-25 | 4 X 30t CRANES | $ 17.65m | undisclosed | BWTS fitted |
-## Secondhand Sales
 
+## Secondhand Sales
 | Gas/LPG/LNG Type | Gas/LPG/LNG Name | Gas/LPG/LNG Dwt | Gas/LPG/LNG Built | Gas/LPG/LNG Yard | Gas/LPG/LNG M/E | Gas/LPG/LNG SS due | Gas/LPG/LNG Cbm | Gas/LPG/LNG Price | Gas/LPG/LNG Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LNG | TRADER | 75,109 | 2002 | SAMSUNG, S. Korea | Kawasaki | Dec-22 | 136,135 | $ 33.0m | undisclosed |
@@ -311,7 +303,6 @@ In the Ultramax sector we had the sale of the "ULTRA DYNAMIC" (61,412dwt-blt '11
 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
-
 | Sector | Size | 23/09/2022 | 16/09/2022 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -364,8 +355,8 @@ The newbuilding ordering activity continues to witness a steady number of materi
 | 23/Jul/22 | 62 | 33 | 32 | 29 |
 | 23/Aug/22 | 62 | 33 | 32 | 29 |
 | 23/Sep/22 | 62 | 33 | 32 | 29 |
-## Newbuilding Orders
 
+## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4 | Tanker | 50,000 dwt | Hyundai Vietnam, Vietnam | 2025 | Japanese (Mitsui &amp; Co) | $ 42.7m |  |
@@ -380,7 +371,6 @@ The newbuilding ordering activity continues to witness a steady number of materi
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | Markets | 23/09/2022 | 16/09/2022 | ±% | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
@@ -411,8 +401,8 @@ With the exception of the Bangladeshi breakers whose offers noted a w-o-w improv
 | 23/Jul/22 | 560 | 550 | 550 | 250 |
 | 23/Aug/22 | 610 | 560 | 600 | 255 |
 | 23/Sep/22 | 615 | 565 | 610 | 250 |
-## Demolition Sales
 
+## Demolition Sales
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PETRONORDIC | 92,995 | 17,483 | 2002 | SAMSUNG, S. Korea | TANKER | undisclosed | Turkish |  |

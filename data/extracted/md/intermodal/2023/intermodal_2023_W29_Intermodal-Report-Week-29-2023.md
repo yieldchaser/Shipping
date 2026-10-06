@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 By <u>Chara Georgousi, Research Analyst</u>
 
@@ -17,7 +15,6 @@ The preference for U.S. and Brazilian crude could be particularly beneficial sea
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 21/07/23 WS points | 21/07/23 $/day | 14/07/23 WS points | 14/07/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 53 | 34,602 | 55 | 36,130 | -4.2% | 20,330 | 2,246 |
@@ -42,8 +39,8 @@ The preference for U.S. and Brazilian crude could be particularly beneficial sea
 | 12-18 mos | DEL EAST J UL/23(D/C) | $26,000/day |  | Vitol |
 | 3 mos |  | SEA LION | 2020 | 300,000 dw t |
 |  |  | **$45,000/day** |  | Trafigura |
-### Dirty WS Rates (1-Year Trend)
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 21/Jul/22 | 50 | 180 | 200 |
@@ -59,8 +56,8 @@ The preference for U.S. and Brazilian crude could be particularly beneficial sea
 | 21/May/23 | 30 | 100 | 150 |
 | 21/Jun/23 | 30 | 120 | 150 |
 | 21/Jul/23 | 30 | 130 | 150 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 21/Jul/22 | 250 | 350 | 300 | 150 |
@@ -131,7 +128,6 @@ On the Aframax front, T/C earnings averaged \$ 33,901/day, up + \$711/ day w-o-w
 
 no period fixtures to report
 ## Baltic Indices
-
 | Index Name | Current Index | Current $/day |
 | --- | --- | --- |
 | BCI |  | Average of the 5 T / C |
@@ -155,8 +151,9 @@ no period fixtures to report
 | **Panamax** | 32K 1yr TC | 8,000 | 8,000 | 0.0% | 0 | 17,827 | 18,354 |
 | **Panamax** | 32K 3yr TC | 9,000 | 9,000 | 0.0% | 0 | 12,322 | 11,825 |
 
-## Indicative Market Values ($ Million) - Bulk Carriers
-| Sector | Size | Current avg | Previous avg | ±% | 2022 | 2021 | 2020 |
+## TC Rates
+
+| Sector | Tenor | Current | Previous | ±% | Diff | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize Eco** | 180k | 48.0 | 50.6 | -5.1% | 48.3 | 43.1 | 36.1 |
 | **Kamsarmax** | **82K** | 31.5 | 32.2 | -2.2% | 34.1 | 29.8 | 23.2 |
@@ -205,7 +202,6 @@ Supramax 10TC averaged \$ 8,266/day, up +2.28% w-o-w, while the Handysize 7TC av
 Tanker newbuildings were in high demand last week, with 4 orders for a total of 9 vessels, while bulkers only had two vessels on order. Japanese owner MOL ordered two firm 309,000 dwt tankers from Cosco Dalian in China for \$130m each, with delivery expected between 2025 and 2026. Bangladeshi owner MJL Bangladesh ordered an LR2 vessel from DH Shipbuilding in South Korea. The vessel cost around \$74m and is expected to be on the water in 2026. In the bulk carrier sector, China's Agricore Shipping ordered two fixed 82,000 dwt Kamsarmaxes from Chengxi in China at a cost of \$35m each, with delivery expected in 2026. Finally, Capital Group ordered two 22,000 dwt LCO2 carriers. Costing \$70.8m each, the duo will be dual-fuelled with ammonia and can also carry LPG.
 
 ## TC Rates
-
 | Sector | Tenor | Current | Previous | ±% | Diff | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** | Newcastlemax | 205k | 66.0 | 66.0 | 0.0% | 66.0 | 64.0 |
@@ -262,7 +258,6 @@ Owners are still keeping their tonnage away from scrapping. In India, the local 
 | USD/TRY | 26.97 | 26.19 | **3.0%** | 27.17 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ZHENG JIE | 73,409 | 10,783 | 1997 | Samsung Heavy Inds - Geoje | BC | $ 495/Ldt each | Bangladeshi | as is China |

@@ -1,5 +1,3 @@
-## Weekly Market Report
-
 ## Market Insight
 By <u>Nikos Tagoulis, Senior Analyst</u>
 
@@ -21,7 +19,6 @@ Overall, the ramp up of Venezuelan output and exports are expected to strengthen
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 04/09/2026 WS points | 04/09/2026 $/day | 28/08/2026 WS points | 28/08/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 662 | 702,067 | 632 | 671,967 | **4.5%** | 60,510 | 37,255 |
@@ -45,8 +42,8 @@ Overall, the ramp up of Venezuelan output and exports are expected to strengthen
 | 7 mos | Sonangol Huila | 2012 | 157,871 |
 | --- | --- | --- | --- |
 |  | $105,000 |  | Trafigura Beheer BV |
-### Dirty WS Rates (1-Year Trend)
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 4/Sep/25 | 100 | 150 | 150 |
@@ -62,8 +59,8 @@ Overall, the ramp up of Venezuelan output and exports are expected to strengthen
 | 4/Jul/26 | 320 | 320 | 300 |
 | 4/Aug/26 | 400 | 500 | 350 |
 | 4/Sep/26 | 600 | 300 | 300 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 4/Sep/25 | 100 | 120 | 150 | 150 |
@@ -147,7 +144,6 @@ The Aframax market followed divergent regional trends last week. Firmer US Gulf 
 |  | **32K 3yr TC** | 12,000 | 12,000 | 0.0% | 0 | 10,394 | 9,740 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 4/5ep/25 | 3000 | 2000 | 1500 | 1000 | 2000 |
@@ -165,7 +161,6 @@ The Aframax market followed divergent regional trends last week. Firmer US Gulf 
 | 4/5ep/26 | 5500 | 3500 | 2300 | 1700 | 3500 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 4/5ep/25 | 25000 | 15000 | 16000 | 17000 |
@@ -209,7 +204,6 @@ The Handysize segment saw uneven performance last week, with rates edging higher
 ## Secondhand Sales
 
 ## Secondhand Sales
-
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUEZ | OCEAN START | 158,280 | 2005 | HYUNDAI, S. Korea | MAN B\&amp;W | Jun-28 | DH | $ 47.4m | undisclosed | Scrubber fitted |
@@ -301,8 +295,8 @@ The Turkish market remains unchanged, with yards maintaining healthy workloads a
 | USD/INR | 94.49 | 95.38 | -0.93% | 96.57 |
 | USD/PKR | 277.73 | 277.73 | 0.00% | 280.05 |
 | USD/TRY | 48.43 | 48.24 | 0.39% | 48.43 |
-## Demolition Sales
 
+## Demolition Sales
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | HERO SD | 23,726 | 5,010 | 1995 | KANASASHI, Japan | BC | $512/Ldt | Pakistani |

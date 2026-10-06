@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 **By Chara Georgousi, Research Analyst**
 
@@ -15,7 +13,6 @@ Concurrently, diesel imports from the EoS to Europe have declined, with most shi
 
 ## Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 02/02/24 WS points | 02/02/24 $/day | 26/01/24 WS points | 26/01/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 265k | MEG-SPORE | 59 | 36,758 | 59 | 36,119 | 1.8% | 39,466 | 20,330 |
@@ -37,10 +34,10 @@ Concurrently, diesel imports from the EoS to Europe have declined, with most shi
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 24 mos | VELOS SAPPHIRE | 2007 | 74,998 dwt | $30,000/day | Clearlake |
-| 6 mos | FOS POWER | 2007 | 47,371 dwt | $36,500/day | Trafigura |
-### Dirty WS Rates (1-Year Trend)
+| 24 mos | VELOS SAPPHIRE | 2007 | 74,998 dwt |  |  |
+| 6 mos | FOS POWER | 2007 | 47,371 dwt |  |  |
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 2/Feb/23 | 50 | 150 | 150 |
@@ -56,8 +53,8 @@ Concurrently, diesel imports from the EoS to Europe have declined, with most shi
 | 2/Dec/23 | 50 | 120 | 150 |
 | 2/Jan/24 | 50 | 120 | 150 |
 | 2/Feb/24 | 50 | 120 | 380 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 2/Feb/23 | 150 | 280 | 150 | 180 |
@@ -126,10 +123,10 @@ On the Aframax front, T/C earnings averaged \$54,978/day, down - \$8,510/day w-o
 | BHSI | 585 | $ 10,523 | 596 | $ 10,735 | -11 | -2.0% | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 10 to 12 mos | PACIFIC MERIT | 2018 | 63,495 dwt | dely Karachi prompt redel worldwide | $17,000/day | Panoean |
-| 5 to 7 mos | NEFELI C | 2013 | 82,200 dwt | dely Taketoyo 30 Jan redel worldwide | $17,000/day | CNR |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 10 to 12 mos | PACIFIC MERIT | 2018 | 63,495 dwt |  |  |
+| 5 to 7 mos | NEFELI C | 2013 | 82,200 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | 02/02/24 | 26/01/24 | ±% | Diff | 2023 | 2022 |
@@ -144,7 +141,6 @@ On the Aframax front, T/C earnings averaged \$54,978/day, down - \$8,510/day w-o
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 2/Feb/23 | 1500 | 1200 | 1000 | 800 | 1000 |
@@ -162,7 +158,6 @@ On the Aframax front, T/C earnings averaged \$54,978/day, down - \$8,510/day w-o
 | 2/Feb/24 | 1800 | 1400 | 1100 | 900 | 1300 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 2/Feb/23 | 5000 | 10000 | 8000 | 7000 |
@@ -294,7 +289,6 @@ With freight rates still competitive in all markets, owners are also reluctant t
 | USD/TRY | 30.40 | 30.27 | *0.4%* | 30.65 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ADISA | 310,309 | 41,672 | 2005 | IMABARI, Japan | TANKER | undisclosed | Indian |

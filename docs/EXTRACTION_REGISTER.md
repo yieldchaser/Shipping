@@ -29,7 +29,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 
 ---
 
-## 2. Master Stacked Series Inventory (630,615 Total Rows across 175 CSVs + 1 Master Workbook)
+## 2. Master Stacked Series Inventory (630,662 Total Rows across 175 CSVs + 1 Master Workbook)
 
 | Series CSV | Target Metric / Commodity / Segment | Total Stacked Rows | Status |
 | :--- | :--- | :---: | :---: |
@@ -55,7 +55,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [bancosta_freight_rates_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/bancosta_freight_rates_series.csv) | Dry bulk & Tanker freight benchmark rates ($/day, WS) | 20,587 | Verified |
 | [bancosta_fx_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/bancosta_fx_series.csv) | Foreign exchange rates (USD/EUR, JPY, KRW, CNY) | 288 | Verified |
 | [bancosta_newbuilding_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/bancosta_newbuilding_series.csv) | Indicative newbuilding prices ($/m) | 2,377 | Verified |
-| [bancosta_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/bancosta_sales_series.csv) | Secondhand sales transactions with 7-digit IMOs | 3,220 | Verified |
+| [bancosta_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/bancosta_sales_series.csv) | Secondhand sales transactions with 7-digit IMOs | 3,244 | Verified |
 | [bancosta_secondhand_matrix_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/bancosta_secondhand_matrix_series.csv) | Baltic secondhand price assessment matrix ($/m) | 1,898 | Verified |
 | [bancosta_vhss_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/bancosta_vhss_series.csv) | VHSS Containership ConTex index & timecharter rates | 553 | Verified |
 | [best_oasis_deals_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/best_oasis_deals_series.csv) |  | 892 | Verified |
@@ -101,8 +101,8 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [fearnleys_md_tc_vs_asset_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/fearnleys_md_tc_vs_asset_series.csv) | 1-Year T/C Rate vs 10Y Asset Value Calibrated Trajectory | 14 | Verified |
 | [fearnleys_md_vessel_tightness_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/fearnleys_md_vessel_tightness_series.csv) | Global Vessel Tightness, Utilization & Port Congestion | 112 | Verified |
 | [fearnleys_rates_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/fearnleys_rates_series.csv) | Tanker spot, dry bulk, gas, & 1Y T/C rates ($/day, WS) | 17,076 | Verified |
-| [gibson_bunker_prices_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gibson_bunker_prices_series.csv) |  | 1,011 | Verified |
-| [gibson_tanker_spot_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gibson_tanker_spot_series.csv) |  | 3,583 | Verified |
+| [gibson_bunker_prices_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gibson_bunker_prices_series.csv) |  | 1,015 | Verified |
+| [gibson_tanker_spot_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gibson_tanker_spot_series.csv) |  | 3,602 | Verified |
 | [gms_demolition_rankings_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gms_demolition_rankings_series.csv) |  | 1,096 | Verified |
 | [gms_demolition_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gms_demolition_sales_series.csv) |  | 59 | Verified |
 | [gms_market_commentary_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gms_market_commentary_series.csv) |  | 1,262 | Verified |
@@ -211,7 +211,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [corpus_publication_cadence_and_audit.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/corpus_publication_cadence_and_audit.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
 | [fearnleys_md_master_econometric_series.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/fearnleys_md_master_econometric_series.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
 | [gibson_master_tanker_series.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gibson_master_tanker_series.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
-| **TOTAL** | **Master Stacked Repository Footprint (175 CSVs + 1 Master Workbook)** | **630,615** | **100.0% Pass** |
+| **TOTAL** | **Master Stacked Repository Footprint (175 CSVs + 1 Master Workbook)** | **630,662** | **100.0% Pass** |
 
 ---
 

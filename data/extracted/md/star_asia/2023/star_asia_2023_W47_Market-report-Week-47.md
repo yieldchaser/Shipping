@@ -71,21 +71,21 @@ The Atlantic market continues to maintain a steady inflow with consistent suppor
 
 (Weekly)
 
-| TYPE | DWT | NB CONTRACT | NB PROMPT | 5 YEARS | 10 YEARS |  | 15 YEARS |
-|---|---|---|---|---|---|---|---|
-| DELIVERY |  |  |  |  |  |  |  |
-| CAPE | 180,000 | 65 | 67 | 50 | 30 |  | 14 |
-| KAMSARMAX | 82,000 | 35 | 39 | 33 | 23 |  | 8 |
-| SUPRAMAX | 56,000 | 33 | 36 | 30 | 19 |  | 7 |
-| HANDY | 38,000 | 30 | 33 | 26 | 17 |  | 6 |
-| *(amount in USD million) |  |  |  |  |  |  |  |
-| Baltic Exchange Dry Bulk Indices |  |  |  |  |  |  |  |
-| INDICES CURRENT LAST WEEK LAST YEAR W-O-W CHANGE Y-O-Y CHANGE |  |  |  |  |  |  |  |
-| BDI | 2,102 | 1,820 | 1,242 | +15.49% |  | +69.24% |  |
-| BCI | 3,385 | 2,763 | 1,384 | +22.51% |  | +144.58% |  |
-| BPI | 2,064 | 1,874 | 1,466 | +10.14% |  | +40.79% |  |
-| BSI | 1,279 | 1,205 | 1,174 | +6.14% |  | +8.94% |  |
-| BHSI | 670 | 599 | 747 | +11.85% |  | -10.31% |  |
+| TYPE | DWT | NB CONTRACT | NB PROMPT | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| DELIVERY |  |  |  |  |  |  |
+| CAPE | 180,000 | 65 | 67 | 50 | 30 | 14 |
+| KAMSARMAX | 82,000 | 35 | 39 | 33 | 23 | 8 |
+| SUPRAMAX | 56,000 | 33 | 36 | 30 | 19 | 7 |
+| HANDY | 38,000 | 30 | 33 | 26 | 17 | 6 |
+| *(amount in USD million) |  |  |  |  |  |  |
+| Baltic Exchange Dry Bulk Indices |  |  |  |  |  |  |
+| INDICES CURRENT LAST WEEK LAST YEAR W-O-W CHANGE Y-O-Y CHANGE |  |  |  |  |  |  |
+| BDI | 2,102 | 1,820 | 1,242 | +15.49% |  |  |
+| BCI | 3,385 | 2,763 | 1,384 | +22.51% |  |  |
+| BPI | 2,064 | 1,874 | 1,466 | +10.14% |  |  |
+| BSI | 1,279 | 1,205 | 1,174 | +6.14% |  |  |
+| BHSI | 670 | 599 | 747 | +11.85% |  |  |
 
 Bulker 12 months T/C rates average (in USD/day)
 
@@ -358,13 +358,9 @@ EXCHANGE RATES
 
 ## Commodities
 
-**Industrial metal prices rebounded as China made strides to bolster its property markets,**
+Industrial metal prices rebounded as China made strides to bolster its property markets, injecting a positive sentiment into the market. Speculation emerged that China might permit banks to extend unsecured short-term loans to qualified developers, coupled with the drafting of a list of 50 developers eligible for financial assistance. Copper prices edged up to around USD8,450/ton, fueled by increased demand and exacerbated by supply challenges, particularly at the Combre Panama mine due to port protests in Panama. The renewable energy sector's robust demand in China contributed to declining inventories, although London Metal Exchange inventories saw a recovery. Despite a notable buildup in inventories at the LME, zinc prices also saw gains.
 
-injecting a positive sentiment into the market. Speculation emerged that China might permit banks to extend unsecured short-term loans to qualified developers, coupled with the drafting of a list of 50 developers eligible for financial assistance. Copper prices edged up to around USD8,450/ton, fueled by increased demand and exacerbated by supply challenges, particularly at the Combre Panama mine due to port protests in Panama. The renewable energy sector's robust demand in China contributed to declining inventories, although London Metal Exchange inventories saw a recovery. Despite a notable buildup in inventories at the LME, zinc prices also saw gains.
-
-**Iron ore prices, after reaching a nine-month high, experienced a more than 3% dip over**
-
-the week but finally settled back upward by the close of the week, following China's National Development and Reform Commission's heightened efforts to curb speculation in the market. The NDRC announced increased monitoring measures to crack down on speculative activities. While China's initiatives to revitalise property markets initially boosted iron ore prices, the actual impact on concrete property data remains uncertain. Winter production restrictions are anticipated to lead to a further reduction in steel production, compounded by softer steel demand resulting from weaker construction activity.
+Iron ore prices, after reaching a nine-month high, experienced a more than 3% dip over the week but finally settled back upward by the close of the week, following China's National Development and Reform Commission's heightened efforts to curb speculation in the market. The NDRC announced increased monitoring measures to crack down on speculative activities. While China's initiatives to revitalise property markets initially boosted iron ore prices, the actual impact on concrete property data remains uncertain. Winter production restrictions are anticipated to lead to a further reduction in steel production, compounded by softer steel demand resulting from weaker construction activity.
 
 ## HMS 1/2 & Tangshan Billet
 

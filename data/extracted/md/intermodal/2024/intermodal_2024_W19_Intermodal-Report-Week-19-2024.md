@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 <u>By Chara Georgousi, Research Analyst</u>
 
@@ -19,7 +17,6 @@ Moving forward, if backwardation persists, robust spot demand is likely to conti
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 17/05/24 WS points | 17/05/24 $/day | 10/05/24 WS points | 10/05/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 75 | 55,535 | 74 | 54,292 | 2.3% | 39,466 | 20,330 |
@@ -37,14 +34,14 @@ Moving forward, if backwardation persists, robust spot demand is likely to conti
 |  | 55K | UKC-USG | 145 | 17,034 | 145 | 17,057 | -0.1% | 27,274 | 19,982 |
 |  | 55K | MED-USG | 145 | 17,193 | 145 | 17,319 | -0.7% | 27,060 | 21,231 |
 |  | 50k | CARIBS-USG | 187 | 26,924 | 245 | 35,641 | -24.5% | 46,194 | 40,364 |
+
 ## Indicative Period Charters
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 36 mos | SEAWAYS SHENANDOAH | 2014 | 112,691 dwt |  |  |
+| 6 mos | RUI FU XING | 2010 | 39,338 dwt |  |  |
 
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 36 mos | SEAWAYS SHENANDOAH | 2014 | 112,691 dwt | DEL EAST 3Q/24 | $39,900/day | Trafigura |
-| 6 mos | RUI FU XING | 2010 | 39,338 dwt | DEL WEST MAY/24 | $32,500/day | Hafnia |
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | DIRTY - WS RATES |  |  |  |
@@ -61,8 +58,8 @@ Moving forward, if backwardation persists, robust spot demand is likely to conti
 | 17/Mar/24 | 140 | 190 | 300 |
 | 17/Apr/24 | 150 | 200 | 250 |
 | 17/May/24 | 160 | 210 | 200 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | CLEAN - WS RATES |  |  |  |  |
@@ -95,8 +92,8 @@ Moving forward, if backwardation persists, robust spot demand is likely to conti
 |  | 52k 3yr TC | 27,000 | 27,000 | 0.0% | 0 | 25,152 | 16,426 |
 | Handy | 36k 1yr TC | 28,000 | 28,000 | 0.0% | 0 | 25,760 | 18,601 |
 |  | 36k 3yr TC | 18,000 | 18,000 | 0.0% | 0 | 18,200 | 14,585 |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | May-24 avg | Apr-24 avg | ±% | 2023 | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300KT DH | 114.0 | 112.8 | **1.1%** | 99.5 | 80.2 | 69.7 |
@@ -131,10 +128,10 @@ Aframax rates experienced significant increases, particularly in the MED where h
 | BHSI | 690 | $12,423 | 703 | $12,647 | -13 | -1.8% | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 5/7 mos | MACHERAS | 2015 | 81,000 dwt | dely Rizhao 20/27 May redel worldwide | $20,000/day | Koch Trading |
-| 3/5 mos | AMEMPTOS | 2019 | 81,107 dwt | dely Fangcheng 17/20 May redel worldwide | $19,600/day | cnr |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 5/7 mos | MACHERAS | 2015 | 81,000 dwt |  |  |
+| 3/5 mos | AMEMPTOS | 2019 | 81,107 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | 17/05/24 | 10/05/24 | ±% | Diff | 2023 | 2022 |
@@ -149,7 +146,6 @@ Aframax rates experienced significant increases, particularly in the MED where h
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 17/May/23 | 1500 | 1000 | 800 | 500 | 1000 |
@@ -167,7 +163,6 @@ Aframax rates experienced significant increases, particularly in the MED where h
 | 17/May/24 | 3000 | 2000 | 1600 | 1100 | 2000 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 17/May/23 | 15000 | 12000 | 10000 | 8000 |
@@ -301,7 +296,6 @@ ladesh presents a mixed outlook, with prices retaining robustness yet tempered b
 | USD/TRY | 32.20 | 32.20 | 0.0% | 32.49 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | TA'KUNTAH | 357,632 | 44,573 | 1978 | KOCKMUS MEKASINKA, SWEDEN | OFFSHORE | $ 184.0m | undisclosed | as is Mexico |

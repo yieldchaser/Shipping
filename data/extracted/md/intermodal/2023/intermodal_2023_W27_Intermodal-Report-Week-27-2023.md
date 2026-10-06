@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 *By Chara Georgousi, Research Analyst*
 
@@ -42,7 +40,6 @@ The LPG orderbook continues to increase and now reflects 20.47% of the fleet, wi
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 07/07/23 WS points | 07/07/23 $/day | 30/06/23 WS points | 30/06/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 54 | 35,693 | 58 | 39,799 | -10.3% | 20,330 | 2,246 |
@@ -61,8 +58,8 @@ The LPG orderbook continues to increase and now reflects 20.47% of the fleet, wi
 | Dirty | 55K | UKC-USG | 165 | 30,692 | 165 | 31,169 | -1.5% | 19,982 | 2,822 |
 |  | 55K | MED-USG | 165 | 30,429 | 165 | 30,932 | -1.6% | 21,231 | 4,818 |
 |  | 50k | CARIBS-USG | 250 | 50,532 | 257 | 52,741 | -4.2% | 40,364 | 8,548 |
-## TC Rates
 
+## TC Rates
 | Sector | Tenor | 07/07/23 | 30/06/23 | ±% | Diff | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 45,250 | 45,250 | 0.0% | 0 | 34,683 | 25,684 |
@@ -77,8 +74,8 @@ The LPG orderbook continues to increase and now reflects 20.47% of the fleet, wi
 |  | 52k 3yr TC | 25,000 | 25,000 | 0.0% | 0 | 16,426 | 13,804 |
 | Handy | 36k 1yr TC | 24,000 | 24,000 | 0.0% | 0 | 18,601 | 11,292 |
 |  | 36k 3yr TC | 18,000 | 18,000 | 0.0% | 0 | 14,585 | 13,054 |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Current avg | Previous avg | ±% | 2022 | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300KT DH | 99.0 | 99.0 | 0.0% | 80.2 | 69.7 | 71.5 |
@@ -86,8 +83,8 @@ The LPG orderbook continues to increase and now reflects 20.47% of the fleet, wi
 | Aframax | 110KT DH | 63.0 | 63.0 | 0.0% | 50.5 | 38.7 | 38.8 |
 | LR1 | 75KT DH | 49.0 | 49.6 | -1.2% | 38.6 | 31.2 | 30.7 |
 | MR | 52KT DH | 41.0 | 41.3 | -0.7% | 34.8 | 27.6 | 27.5 |
-### Dirty WS Rates (1-Year Trend)
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 7/Jul/22 | 50 | 150 | 250 |
@@ -103,8 +100,8 @@ The LPG orderbook continues to increase and now reflects 20.47% of the fleet, wi
 | 7/May/23 | 50 | 150 | 150 |
 | 7/Jun/23 | 60 | 150 | 300 |
 | 7/Jul/23 | 50 | 120 | 150 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 7/Jul/22 | 250 | 300 | 350 | 400 |
@@ -174,7 +171,6 @@ Suezmax T/C earnings averaged \$ 37,299/day, down - \$7,913/day w-o-w. On the Af
 | 7/Jul/23 | 1700 | 1000 | 1000 | 700 | 1300 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 7/Jul/22 | 23000 | 18000 | 16000 | 14000 |
@@ -191,8 +187,9 @@ Suezmax T/C earnings averaged \$ 37,299/day, down - \$7,913/day w-o-w. On the Af
 | 7/Jun/23 | 16000 | 11000 | 9000 | 8000 |
 | 7/Jul/23 | 17000 | 10000 | 9000 | 8000 |
 
-### Indicative Market Values ($ Million) - Bulk Carriers
-| Sector | Size | Current avg | Previous avg | ±% | 2022 | 2021 |
+## TC Rates
+
+| Sector | Tenor | Current | Previous | ±% | Diff | 2022 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize Eco** 180k | 48.0 | 50.6 | -5.1% | 48.3 | 43.1 | 36.1 |
 | **Kamsarmax** 82K | 31.5 | 32.2 | -2.2% | 34.1 | 29.8 | 23.2 |
@@ -230,7 +227,6 @@ Supramax 10TC averaged \$ 8,102/day, down -1.48% w-o-w, while the Handysize 7TC 
 | SUPRA | TAI HONESTY | 55,418 | 2007 | OSHIMA, Japan | MAN-B\&amp;W | Mar-27 | 4 X 30t CRANES | $ 12,05m | Chinese | BWTS fitted |
 
 ## Containers
-
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | J AC KSON BAY | 4,250 | 2007 | DALIAN, China | MAN-B\&amp;W | Apr-27 |  | $ 23.0m | French (C MA-C GM) |  |
@@ -239,7 +235,6 @@ Supramax 10TC averaged \$ 8,102/day, down -1.48% w-o-w, while the Handysize 7TC 
 | FEEDER | A KOBE | 1,800 | 2023 | J IANGSU YANGZI XINFU, C hina | MAN-B\&amp;W | Mar-28 |  | $ 28.0m | undisclosed | incl TC attached till May 2024 |
 
 ## Secondhand Sales
-
 | Type | Name | Dwt | Yard | M/E | SS | Cbm | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | KENT | 26,438 | 2007 | HYUNDAI, S. Korea | MAN-B\&amp;W | May-27 | 34,501 | $ 34.0m | HK based |
@@ -251,7 +246,6 @@ Supramax 10TC averaged \$ 8,102/day, down -1.48% w-o-w, while the Handysize 7TC 
 The newbuilding market activity took a small break during the past days with only four orders emerging. Interesting to note that no dry bulk newbuilding contracts materialize while only one tanker deal came to light. More specifically, Greek owner Evalend concluded a deal for the construction of four 75,000dwt Panamax tankers at Yangzijiang at a price of excess of \$50.0 million. Moving forward, Norwegian owner Solvang ordered three VLGC 88,000cbm at Hyundai Hi at a price of 106.5 million each while Nigerian owner West Africa LPG inked a deal for two firm plus one optional 40,000 LPG vessels at Hyundai Mipo at a price of \$70.5 million. The last deal concerns four 7,700ceu LNG fuelled PCTC at Hyundai Mipo, placed by UK-based owner Ray Car Carriers at a price of \$129.5 million each.
 
 ## TC Rates
-
 | Sector | Tenor | Current | Previous | ±% | Diff | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -306,7 +300,6 @@ During the past week, the demolition market has continued to witness inactivity,
 | USD/TRY | 26.06 | 26.05 | 0.0% | 26.08 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | LAUREN OCEAN | 41,712 | 8,400 | 1996 | BRODOGRAD ILISTE, Croatia | BC | $ 575/Ldt | Bangladeshi |

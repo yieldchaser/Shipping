@@ -206,13 +206,13 @@ Upon initial observation, the market may have seemed uneventful, but private act
 
 # Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ | CONTAINERS | SENTIMENTS |  | / WEEKLY |
-|---|---|---|---|---|---|---|---|
-|  |  |  | GENERAL CARGO |  | FUTURE |  | TREND |
-| ALANG (WC INDIA) *For greenshiprecycling, the pricesareabout US$10-15/tonlower. | 530 ~ 540 | 510 ~ 520 | 530 ~ 540 | 540 ~ 550 | STABLE / |  |  |
-| CHATTOGRAM, BANGLADESH | *580 ~ 590 | *560 ~ 570 | *550 ~ 560 | *590 ~ 600 | STABLE / |  |  |
-| GADDANI, PAKISTAN | NA | NA | NA | NA |  | NA |  |
-| TURKEY *For Non-EU ships.ForE.U. Ship,the pricesare about US$20-30/tonless | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |  |  |
+| DESTINATION | TANKERS | BULKERS | MPP/ | CONTAINERS | SENTIMENTS | / WEEKLY |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  | GENERAL CARGO |  | FUTURE | TREND |
+| ALANG (WC INDIA) *For greenshiprecycling, the pricesareabout US$10-15/tonlower. | 530 ~ 540 | 510 ~ 520 | 530 ~ 540 | 540 ~ 550 | STABLE / |  |
+| CHATTOGRAM, BANGLADESH | *580 ~ 590 | *560 ~ 570 | *550 ~ 560 | *590 ~ 600 | STABLE / |  |
+| GADDANI, PAKISTAN | NA | NA | NA | NA |  |  |
+| TURKEY *For Non-EU ships.ForE.U. Ship,the pricesare about US$20-30/tonless | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |  |
 
 - All prices are USD per light displacement tonnage in the long ton.
 - The prices reported are net prices offered by the recycling yards.

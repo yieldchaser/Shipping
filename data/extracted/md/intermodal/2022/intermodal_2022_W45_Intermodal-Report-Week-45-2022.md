@@ -58,7 +58,6 @@ The Baltic Exchange
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 11/11/2022 WS points | 11/11/2022 $/day | 11/4/2022 WS points | 11/4/2022 $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 114 | 83,088 | 109 | 76,012 | 9.3% | 2,246 | 52,119 |
@@ -77,17 +76,17 @@ The Baltic Exchange
 | Dirty | 55K | UKC-USG | 220 | 31,493 | 220 | 31,685 | -0.6% | 2,822 | 12,120 |
 |  | 55K | MED-USG | 225 | 33,954 | 225 | 34,120 | -0.5% | 4,818 | 12,965 |
 |  | 50k | CARIBS-USG | 393 | 65,566 | 385 | 62,983 | 4.1% | 8,548 | 17,651 |
-## Indicative Period Charters
 
+## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 mos | DESH VISHAL | 2009 | 321,137 dwt |  | Trafigura |
-| 10 mos | YAS | 2009 | 50,250 dwt |  | Clearlake |
+| 6 mos | DESH VISHAL | 2009 | 321,137 dwt |  |  |
+| 10 mos | YAS | 2009 | 50,250 dwt |  |  |
 
 | TC Rates $/day VLCCSuezmaxAframaxPanamaxMRHandy | TC Rates 11/11/2022 300k 1yr TC 300k 3yr TC 150k 1yr TC 150k 3yr TC 110k 1yr TC 110k 3yr TC 75k 1yr TC 75k 3yr TC 52k 1yr TC 52k 3yr TC 36k 1yr TC 36k 3yr TC | 11/4/2022 48,000 40,000 40,000 29,000 33,000 25,000 36,000 26,500 27,500 20,000 23,500 16,000 | ±% 47,000 40,000 38,000 28,000 33,000 25,000 36,000 26,500 27,500 20,000 23,500 16,000 | Diff 2.1% 0.0% 5.3% 3.6% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% | 2021 1000 0 2000 1000 0 0 0 0 0 0 0 0 | 2020 25,684 28,672 17,226 22,700 15,854 19,714 14,184 15,950 12,608 13,804 11,292 13,054 | 42,038 34,772 29,543 27,481 23,380 21,854 17,322 16,296 15,505 15,916 13,966 14,051 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Current avg | Previous avg | ±% | Year1 | Year2 | Year3 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Vessel 5yrs old | Nov-22 avg | Oct-22 avg | ±% | 2021 | 2020 | 2019 |
@@ -129,13 +128,12 @@ In the MR1 sector we had the sale of the "GOLDEN CAMELLIA" (34,783dwt-blt '21, C
 | BHSI | 787 | $14,174 | 836 | $15,043 | -49 | -5.8% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 4 to 6 mos | XING DE HAI | 2017 | 82,204 dwt | Zhoushan 11/13 Nov | $17,000/day | Oldendorff |
-| 16 to 18 mos | DSI PHOENIX | 2017 | 60,456 dwt | - | $13,250/day | Kosichang spot |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 4 to 6 mos | XING DE HAI | 2017 | 82,204 dwt |  |  |
+| 16 to 18 mos | DSI PHOENIX | 2017 | 60,456 dwt |  |  |
 
 ## TC Rates
-
 | Sector | Tenor | 11/11/2022 | 11/4/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 13,000 | 12,250 | **6.1%** | **750** | 32,684 | 15,361 |
@@ -152,7 +150,6 @@ In the MR1 sector we had the sale of the "GOLDEN CAMELLIA" (34,783dwt-blt '21, C
 |  | **32K 3yr TC** | 9,250 | 10,250 | -9.8% | -1,000 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 11/Nov/21 | 3000 | 2500 | 2800 | 1800 | 4000 |
@@ -170,7 +167,6 @@ In the MR1 sector we had the sale of the "GOLDEN CAMELLIA" (34,783dwt-blt '21, C
 | 11/Nov/22 | 1600 | 1600 | 1600 | 1600 | 1900 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 11/Nov/21 | 28000 | 25000 | 26000 | 24000 |
@@ -218,7 +214,6 @@ In the Kamsarmax sector we had the sale of the "CMB PARTNER" (81,805dwt-blt '16,
 
 # Intermodal Secondhand Sales
 ## Tankers
-
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | ELANDRA ELBRUS | 299,999 | 2020 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Jan-25 | DH | $ 112.0m | Saudi Arabian (Bahri) | scrubber fitted |
@@ -229,8 +224,8 @@ In the Kamsarmax sector we had the sale of the "CMB PARTNER" (81,805dwt-blt '16,
 | SMALL | GS FORWARD | 17,527 | 2008 | SAMHO, S. Korea | MAN-B\&amp;W | Jan-24 | DH |  |  |  |
 | SMALL | STO CAMELLIA | 11,679 | 2000 | HIGAKI, Japan | Mitsubishi | Sep-25 | DH | $ 5.6m | Indonesian | StSt |
 | SMALL | WOOJIN CHEMS | 12,675 | 1999 | ASAKAWA, Japan | B\&amp;W | Mar-27 | DH | undisclosed | Indonesian (Berlian Laju Tanker) |  |
-## Bulk Carriers
 
+## Bulk Carriers
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | TRUE PATRIOT | 180,967 | 2016 | IMABARI, Japan | MAN-B\&amp;W | Mar-26 |  | region $ 40.0m | undisclosed |  |
@@ -241,8 +236,8 @@ In the Kamsarmax sector we had the sale of the "CMB PARTNER" (81,805dwt-blt '16,
 | HANDY | OCEAN ECHO | 37,084 | 2013 | SAIKI, Japan | Mitsubishi | Nov-25 | 4 X 30t CRANES | $ 17.5m | undisclosed | BWTS fitted, OHBS |
 | HANDY | SUPER CAROLINE | 33,427 | 2007 | SHIN KOCHI, Japan | Mitsubishi | Jun-25 | 4 X 30t CRANES | $ 13.7m | undisclosed | BWTS fitted, OHBS |
 | HANDY | BLUE BAIE | 31,734 | 2006 | SAIKI, Japan | Mitsubishi | Jan-26 | 4 X 30t CRANES | $ 13.0m | Turkish | BWTS fitted, OHBS, Dely Feb 2023, October sale |
-## Secondhand Sales
 
+## Secondhand Sales
 | Gas/LPG/LNG Type | Gas/LPG/LNG Name | Gas/LPG/LNG Dwt | Gas/LPG/LNG Built | Gas/LPG/LNG Yard | Gas/LPG/LNG M/E | Gas/LPG/LNG SS due | Gas/LPG/LNG Cbm | Gas/LPG/LNG Price | Gas/LPG/LNG Buyers | Gas/LPG/LNG Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | PROMISE | 54,633 | 2009 | DAEWOO, S. Korea | MAN-B\&amp;W | Jan-24 | 82,423 | $ 40.8m | undisclosed | incl TC attached at US$ 30,000 p/d |
@@ -328,7 +323,6 @@ Reported activity on the newbuilding front remains firm for yet another week. On
 
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | 11/11/2022 | 11/4/2022 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |
@@ -359,8 +353,8 @@ Activity in the demolition market remains subdued, while further declines were r
 | 11/Sep/22 | 580 | 560 | 570 | 250 |
 | 11/Oct/22 | 590 | 565 | 580 | 250 |
 | 11/Nov/22 | 550 | 545 | 540 | 250 |
-## Indicative Demolition Prices ($/ldt)
 
+## Indicative Demolition Prices ($/ldt)
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/ldt | Demolition Sales Breakers | Demolition Sales Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CURACAO PEARL | 42,913 | 10,965 | 1984 | HYUNDAI ULSAN, S. Korea | GENERAL CARGO | $ 585/Ldt | Indian | HKC recycling, next DD 2024, incl. freshly installed BWTS |

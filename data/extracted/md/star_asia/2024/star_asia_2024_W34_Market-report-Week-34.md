@@ -50,26 +50,26 @@ It was a generally soft week in the Handy segment with most rates seeing decline
 
 ## Baltic Exchange Dry Bulk Indices
 
-| INDICES | CURRENT |  | LAST | WEEK | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-|---|---|---|---|---|---|---|---|---|---|
-| BDI | 1,762 |  |  | 1,691 |  | 1,237 | +4.20% |  | +42.44% |
-| BCI | 2,851 |  |  | 2,537 |  | 1,598 | +12.38% |  | +78.41% |
-| BPI | 1,414 |  |  | 1,552 |  | 1,542 | -8.89% |  | -8.30% |
-| BSI | 1,318 |  |  | 1,304 |  | 879 | +1.07% |  | +49.94% |
-| BHSI | 753 |  |  | 754 |  | 469 | -0.13% |  | +60.55% |
-|  |  |  |  | Dry Bulk | (Weekly) | Values |  |  |  |
-| TYPE | DWT | NB |  | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
-| CAPE | 180,000 |  | 76 |  |  | 77 | 64 | 45 | 29 |
-| KAMSARMAX | 82,000 |  | 37 |  |  | 44 | 39 | 30 | 19 |
-| SUPRAMAX | 56,000 |  | 35 |  |  | 41 | 36 | 27 | 16 |
-| HANDY | 38,000 |  | 30 |  |  | 35 | 28 | 21 | 12 |
-| *(amount in USD | million) |  |  |  |  |  |  |  |  |
-|  | Bulker | 12 | months | T/C |  | rates average | (in | USD/day) |  |
-| TYPE | DWT | CURRENT |  | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-| CAPESIZE | 180,000 | 22,000 |  | 22,000 |  | 14,250 | 0 |  | +54.39% |
-| PANAMAX | 75,000 | 14,000 |  | 14,500 |  | 13,000 | -3.45% |  | +7.69% |
-| SUPRAMAX | 58,000 | 15,000 |  | 15,000 |  | 11,750 | 0 |  | +27.66% |
-| HANDYSIZE | 38,000 | 15,000 |  | 15,000 |  | 11,000 | 0 |  | +36.36% |
+| INDICES | CURRENT | LAST | WEEK | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| BDI | 1,762 |  | 1,691 |  | 1,237 | +4.20% |  | +42.44% |
+| BCI | 2,851 |  | 2,537 |  | 1,598 | +12.38% |  | +78.41% |
+| BPI | 1,414 |  | 1,552 |  | 1,542 | -8.89% |  | -8.30% |
+| BSI | 1,318 |  | 1,304 |  | 879 | +1.07% |  | +49.94% |
+| BHSI | 753 |  | 754 |  | 469 | -0.13% |  | +60.55% |
+|  |  |  | Dry Bulk | (Weekly) | Values |  |  |  |
+| TYPE | DWT |  | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| CAPE | 180,000 | 76 |  |  | 77 | 64 | 45 | 29 |
+| KAMSARMAX | 82,000 | 37 |  |  | 44 | 39 | 30 | 19 |
+| SUPRAMAX | 56,000 | 35 |  |  | 41 | 36 | 27 | 16 |
+| HANDY | 38,000 | 30 |  |  | 35 | 28 | 21 | 12 |
+| *(amount in USD | million) |  |  |  |  |  |  |  |
+|  | Bulker | months | T/C |  | rates average | (in | USD/day) |  |
+| TYPE | DWT |  | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+| CAPESIZE | 180,000 |  | 22,000 |  | 14,250 | 0 |  | +54.39% |
+| PANAMAX | 75,000 |  | 14,500 |  | 13,000 | -3.45% |  | +7.69% |
+| SUPRAMAX | 58,000 |  | 15,000 |  | 11,750 | 0 |  | +27.66% |
+| HANDYSIZE | 38,000 |  | 15,000 |  | 11,000 | 0 |  | +36.36% |
 
 ### Shipbroking (www.star-asia.com.sg)
 
@@ -127,20 +127,20 @@ LR: The LR2 Middle East market remained steady, holding firm against the seasona
 
 ## Tanker 12 months T/C rates average (in USD/day)
 
-| TYPE | DWT |  | CURRENT LAST | WEEK | LAST | YEAR W-O-W | CHANGE Y-O-Y CHANGE |
-|---|---|---|---|---|---|---|---|
-| VLCC | 310,000 |  | 45,750 | 45,750 | 41,000 | 0 | +11.59% |
-| SUEZMAX | 150,000 |  | 40,500 | 40,500 | 39,500 | 0 | +2.53% |
-| AFRAMAX | 110,000 |  | 40,500 | 43,250 | 38,500 | -6.36% | +5.19% |
-| LR1 | 74,000 |  | 37,000 | 37,000 | 28,250 | 0 | +30.97% |
-| MR | 47,000 |  | 27,500 | 28,500 Tankers S&P | 25,500 Report | -3.51% PRICE | +7.84% COMMENTS / |
-| VESSEL | NAME | TYPE | DWT | YEAR | BUILT |  |  |
-|  |  |  |  |  | (MILLION) | USD | BUYERS |
-| APOLLO | HARMONY | VLCC | 301,583 | 2010 | JAPAN | 58.0 | GREEK BUYERS |
-| PNS | SERENA | VLCC | 300,398 | 2006 | JAPAN | 40.0 | CHINESE BUYERS |
-| SALAMANDER |  | AFRA | 115,000 | 2004 | S. KOREA | 27.0 | UNDISCLOSED |
-| GALL |  | PROD | 28,310 | 2018 | CHINA | 26.0 | TURKISH BUYERS |
-| SAMBONG | HERA | SMALL | 11,416 | 2018 | S. KOREA | 13.8 | UNDISCLOSED |
+| TYPE | DWT | CURRENT LAST | WEEK | LAST | YEAR W-O-W | CHANGE Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 45,750 | 45,750 | 41,000 | 0 | +11.59% |
+| SUEZMAX | 150,000 | 40,500 | 40,500 | 39,500 | 0 | +2.53% |
+| AFRAMAX | 110,000 | 40,500 | 43,250 | 38,500 | -6.36% | +5.19% |
+| LR1 | 74,000 | 37,000 | 37,000 | 28,250 | 0 | +30.97% |
+| MR | 47,000 | 27,500 | 28,500 Tankers S&P | 25,500 Report | -3.51% PRICE | +7.84% COMMENTS / |
+| VESSEL | NAME | DWT | YEAR | BUILT |  |  |
+|  |  |  |  | (MILLION) | USD | BUYERS |
+| APOLLO | HARMONY | 301,583 | 2010 | JAPAN | 58.0 | GREEK BUYERS |
+| PNS | SERENA | 300,398 | 2006 | JAPAN | 40.0 | CHINESE BUYERS |
+| SALAMANDER |  | 115,000 | 2004 | S. KOREA | 27.0 | UNDISCLOSED |
+| GALL |  | 28,310 | 2018 | CHINA | 26.0 | TURKISH BUYERS |
+| SAMBONG | HERA | 11,416 | 2018 | S. KOREA | 13.8 | UNDISCLOSED |
 
 ### Shipbroking (www.star-asia.com.sg)
 

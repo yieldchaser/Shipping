@@ -50,26 +50,26 @@ It was another tepid week for the Handy market with both basins seeing rates com
 
 ## Baltic Exchange Dry Bulk Indices
 
-| INDICES | CURRENT |  | LAST | WEEK | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-|---|---|---|---|---|---|---|---|---|---|
-| BDI | 1,410 |  |  | 1,576 |  | 1,563 | -10.53% |  | -9.79% |
-| BCI | 1,856 |  |  | 2,276 |  | 2,226 | -18.45% |  | -16.62% |
-| BPI | 1,201 |  |  | 1,285 |  | 1,605 | -6.54% |  | -25.17% |
-| BSI | 1,240 |  |  | 1,250 |  | 1,184 | -0.80% |  | +4.73% |
-| BHSI | 728 |  |  | 727 |  | 671 | +0.14% |  | +8.49% |
-|  |  |  |  | Dry Bulk | (Weekly) | Values |  |  |  |
-| TYPE | DWT | NB |  | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
-| CAPE | 180,000 |  | 76 |  |  | 77 | 64 | 45 | 29 |
-| KAMSARMAX | 82,000 |  | 37 |  |  | 44 | 38 | 28 | 18 |
-| SUPRAMAX | 56,000 |  | 35 |  |  | 41 | 36 | 27 | 16 |
-| HANDY | 38,000 |  | 30 |  |  | 35 | 28 | 21 | 12 |
-| *(amount in USD | million) |  |  |  |  |  |  |  |  |
-|  | Bulker | 12 | months | T/C |  | rates average | (in | USD/day) |  |
-| TYPE | DWT | CURRENT |  | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-| CAPESIZE | 180,000 | 19,500 |  | 21,000 |  | 13,500 | -7.14% |  | +44.44% |
-| PANAMAX | 75,000 | 13,500 |  | 13,500 |  | 12,000 | 0 |  | +12.50% |
-| SUPRAMAX | 58,000 | 15,000 |  | 15,000 |  | 11,500 | 0 |  | +30.43% |
-| HANDYSIZE | 38,000 | 14,000 |  | 14,000 |  | 11,250 | 0 |  | +24.44% |
+| INDICES | CURRENT | LAST | WEEK | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| BDI | 1,410 |  | 1,576 |  | 1,563 | -10.53% |  | -9.79% |
+| BCI | 1,856 |  | 2,276 |  | 2,226 | -18.45% |  | -16.62% |
+| BPI | 1,201 |  | 1,285 |  | 1,605 | -6.54% |  | -25.17% |
+| BSI | 1,240 |  | 1,250 |  | 1,184 | -0.80% |  | +4.73% |
+| BHSI | 728 |  | 727 |  | 671 | +0.14% |  | +8.49% |
+|  |  |  | Dry Bulk | (Weekly) | Values |  |  |  |
+| TYPE | DWT |  | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| CAPE | 180,000 | 76 |  |  | 77 | 64 | 45 | 29 |
+| KAMSARMAX | 82,000 | 37 |  |  | 44 | 38 | 28 | 18 |
+| SUPRAMAX | 56,000 | 35 |  |  | 41 | 36 | 27 | 16 |
+| HANDY | 38,000 | 30 |  |  | 35 | 28 | 21 | 12 |
+| *(amount in USD | million) |  |  |  |  |  |  |  |
+|  | Bulker | months | T/C |  | rates average | (in | USD/day) |  |
+| TYPE | DWT |  | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+| CAPESIZE | 180,000 |  | 21,000 |  | 13,500 | -7.14% |  | +44.44% |
+| PANAMAX | 75,000 |  | 13,500 |  | 12,000 | 0 |  | +12.50% |
+| SUPRAMAX | 58,000 |  | 15,000 |  | 11,500 | 0 |  | +30.43% |
+| HANDYSIZE | 38,000 |  | 14,000 |  | 11,250 | 0 |  | +24.44% |
 
 ### Shipbroking (www.star-asia.com.sg)
 
@@ -347,9 +347,7 @@ Market sentiment took a hit after strong U.S. economic data dampened expectation
 
 remaining a central focus. Zinc led the rally, driven by Teck Resources' decision to lower its output targets after a fire at its Canadian smelter. The company now expects refined zinc production to be 12% lower than previously forecasted. While the 40,000-tonne cut is relatively modest, it adds to broader disruptions across the market. Global zinc mine production declined by 4.2% in the first eight months of the year, according to the International Lead & Zinc Study Group. Adding to supply woes, Sibanye Stillwater recently announced that operations at its Century zinc mine in Australia will be suspended until mid-November due to equipment damage from a bushfire. Meanwhile, concerns are also growing in China as weak treatment charges and a tight copper concentrate market put pressure on the sector. Ge Honglin, Chairman of the China Nonferrous Metals Industry Association, suggested that China should impose restrictions on copper production to prevent further profit declines. China's copper capacity is expected to rise to 17 million tons by 2027, up from 14.3 million tons this year, potentially exacerbating global overcapacity.
 
-**Iron ore inched higher as the market awaits China's legislative meeting for potential**
-
-stimulus measures. However, current data indicates that demand remains sluggish. Inventory levels at major Chinese steel mills increased by 4.96% to 15.5 million tons in mid-October compared to earlier in the month, though volumes remain 6.4% lower than the same period last year. Daily crude steel production at major mills saw a modest 1.1% increase in mid-October, reaching 2.07 million tons per day.
+Iron ore inched higher as the market awaits China's legislative meeting for potential stimulus measures. However, current data indicates that demand remains sluggish. Inventory levels at major Chinese steel mills increased by 4.96% to 15.5 million tons in mid-October compared to earlier in the month, though volumes remain 6.4% lower than the same period last year. Daily crude steel production at major mills saw a modest 1.1% increase in mid-October, reaching 2.07 million tons per day.
 
 Iron Ore
 

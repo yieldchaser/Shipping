@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 **By Nikos Tagoulis, Senior Analyst**
 
@@ -25,7 +23,6 @@ In conclusion, while the immediate threat of a closure of the Strait of Hormuz a
 
 ## Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 20/06/2025 WS points | 20/06/2025 $/day | 13/06/2025 WS points | 13/06/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 78 | 61,356 | 47 | 26,951 | **127.7%** | 37,255 | 39,466 |
@@ -49,8 +46,8 @@ In conclusion, while the immediate threat of a closure of the Strait of Hormuz a
 | 6 mos | Alegria 1 | 2012 |
 | --- | --- | --- |
 |  | $30,500/day |  |
-### Dirty WS Rates (1-Year Trend)
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 20/Jun/24 | 150 | 100 | 200 |
@@ -66,8 +63,8 @@ In conclusion, while the immediate threat of a closure of the Strait of Hormuz a
 | 20/Apr/25 | 70 | 45 | 90 |
 | 20/May/25 | 65 | 40 | 80 |
 | 20/Jun/25 | 60 | 35 | 70 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 20/Jun/24 | 200 | 180 | 220 | 250 |
@@ -147,7 +144,6 @@ The recent war between Iran and Israel injected volatility into global oil flows
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 20/Jun/24 | 30000 | 14000 | 10000 | 8000 |
@@ -262,7 +258,6 @@ In Turkey, the market remains largely stagnant, with growing uncertainty fueled 
 | USD/TRY | 39.68 | 39.41 | 0.7% | 36.68 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MAHARSHI PARASHURAM | 93,322 | 18,264 | 2002 | COCHIN SHIPYARD, India | TANKER | $ 395/Ldt | undisclosed | as is Colombo |

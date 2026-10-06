@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 By Fotis Kanatas, Research Analyst
 
@@ -23,7 +21,6 @@ To sum up, the current situation, with increasing oil demand along with increasi
 
 # Intermodal Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 19/04/24 WS points | 19/04/24 $/day | 12/04/24 WS points | 12/04/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 64 | 41,936 | 64 | 41,936 | 0.0% | 39,466 | 20,330 |
@@ -43,12 +40,12 @@ To sum up, the current situation, with increasing oil demand along with increasi
 |  | 50k | CARIBS-USG | 246 | 35,516 | 230 | 30,597 | **16.1%** | 46,194 | 40,364 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 2/3 mos | DONEGAL SPIRIT | 2006 | 105,611 dwt | DEL EAST APR/24 | $40,000/day | Trafigura |
-| 12 mos | LYRIC MAGNOLIA | 2023 | 109,999 dwt | DEL EAST APR/24 | $52,500/day | ADMIC |
-### Dirty WS Rates (1-Year Trend)
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 2/3 mos | DONEGAL SPIRIT | 2006 | 105,611 dwt |  |  |
+| 12 mos | LYRIC MAGNOLIA | 2023 | 109,999 dwt |  |  |
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 19/Apr/23 | 100 | 120 | 130 |
@@ -64,8 +61,8 @@ To sum up, the current situation, with increasing oil demand along with increasi
 | 19/Feb/24 | 100 | 120 | 160 |
 | 19/Mar/24 | 100 | 120 | 170 |
 | 19/Apr/24 | 100 | 120 | 180 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 19/Apr/23 | 150 | 160 | 170 | 180 |
@@ -133,10 +130,10 @@ Aframax T/C earnings averaged \$45,111/day, marking a weekly dip of \$7,991/day 
 | BHSI | 741 | $13,334 | 722 | $12,992 | **19** | **2.6%** | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 7/9 mos | METEOR | 2010 | 82,589 dwt | dely Cigading 7/12 May redel worldwide | $18,000/day | cnr |
-| 6/8 months | AMAZON | 2019 | 81,017 dwt | dely Fujian 16 Apr redel worldwide | $18,000/day | Norden |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 7/9 mos | METEOR | 2010 | 82,589 dwt |  |  |
+| 6/8 months | AMAZON | 2019 | 81,017 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | 19/04/24 | 12/04/24 | ±% | Diff | 2023 | 2022 |
@@ -173,7 +170,6 @@ Supramax 10TC averaged \$ 14,710/day up +5.97% w-o-w, while the Handysize 7TC av
 Secondhand Sales
 
 ## Bulk Carriers
-
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | AFRA | AMAX ARROW | 115,655 | 2009 | SAMSUNG, S. Korea | MAN-B\&W | Feb-25 | DH | $ 43.5m | Chinese | BWTS & Scrubber fitted |
@@ -254,7 +250,6 @@ There is a noticeable resurgence in the ship demolition market, spurred by econo
 | USD/TRY | 32.49 | 32.35 | 0.5% | 32.49 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SINOKOR HONGKONG | 17,468 | 5,300 | 1996 | IMABARI, Japan | CONTAINER | $ 598.0m | Bangladeshi | including ROB 380T |

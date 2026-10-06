@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 _By Yiannis Parganas, Head of Research Department_
 
@@ -20,13 +18,13 @@ In the product tanker segment, market dynamics present a distinct contrast. A to
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | PROTEUS SINEAD | 2022 | 109,999 dwt | $36,000/day | AET |
-| 6 mos | NAVE CASSIOPEIA | 2012 | 74,711 dwt | $18,500/day | Clearlake Shipping |
-## Spot Rates
+| 12 mos | PROTEUS SINEAD | 2022 | 109,999 dwt |  |  |
+| 6 mos | NAVE CASSIOPEIA | 2012 | 74,711 dwt |  |  |
 
+## Spot Rates
 | Sector | Size | Routes | 10/01/25 WS points | 10/01/25 $/day | 03/01/25 WS points | 03/01/25 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Vessel |  |  |  |  | Routes | WS points | $/day | WS points | $/day |
+| Vessel |  |  |  |  |  |  | Routes | WS points | $/day |
 | VLCC | 265k | MEG-SPORE | 50 | 29,408 | 45 | 24,012 | 22.5% | 37,255 | 39,466 |
 |  | 260k | WAF-CHINA | 52 | 30,520 | 47 | 26,360 | 15.8% | 37,722 | 38,773 |
 | Suezmax | 130k | MED-MED | 77 | 24,162 | 77 | 24,195 | -0.1% | 50,058 | 62,964 |
@@ -42,8 +40,8 @@ In the product tanker segment, market dynamics present a distinct contrast. A to
 |  | 55K | UKC-USG | 115 | 9,085 | 120 | 10,695 | -15.1% | 17,707 | 27,274 |
 |  | 55K | MED-USG | 115 | 8,579 | 120 | 10,359 | -17.2% | 17,590 | 27,060 |
 |  | 50k | ARA-UKC | 154 | 16,746 | 143 | 13,873 | 20.7% | 26,872 | 46,194 |
-### Dirty WS Rates (1-Year Trend)
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 10/Jan/24 | 400 | 120 | 400 |
@@ -59,8 +57,8 @@ In the product tanker segment, market dynamics present a distinct contrast. A to
 | 10/Nov/24 | 70 | 110 | 120 |
 | 10/Dec/24 | 70 | 110 | 120 |
 | 10/Jan/25 | 70 | 110 | 120 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 10/Jan/24 | 350 | 150 | 300 | 250 |
@@ -124,10 +122,10 @@ The Suezmax segment enhanced in West Africa, driven by increased activity and th
 | BHSI | 508 | $9,143 | 549 | $9,884 | -41 | -7.5% | 702 | 586 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 12 mos | LOCH LONG | 2013 | 81,994 dwt | dely Vietnam 20 Jan redel worldwide | index linked at 106% to BPI | Olam Intl |
-| 3 to 5 mos | MADISON EAGLE | 2013 | 63,302 dwt | dely West Africa 13 Jan redel worldwide | $14,000/day | Pacific Basin |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 12 mos | LOCH LONG | 2013 | 81,994 dwt |  |  |
+| 3 to 5 mos | MADISON EAGLE | 2013 | 63,302 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | 10/01/25 | 03/01/25 | ±% | Diff | 2024 | 2023 |
@@ -142,7 +140,6 @@ The Suezmax segment enhanced in West Africa, driven by increased activity and th
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 10/Jan/24 | 2000 | 1500 | 1200 | 800 | 1500 |
@@ -159,7 +156,6 @@ The Suezmax segment enhanced in West Africa, driven by increased activity and th
 | 10/Jan/25 | 1200 | 1100 | 900 | 500 | 900 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 10/Jan/24 | 20000 | 12000 | 10000 | 8000 |
@@ -276,7 +272,6 @@ A subdued sentiment was reflected in major ship recycling markets this week. The
 | USD/TRY | 33.10 | 32.95 | 0.5% | 33.10 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ITAUGUA | 300,361 | 48,100 | 1997 | MITSUBISHI, Japan | TANKER | $ 447.0m | Indian |

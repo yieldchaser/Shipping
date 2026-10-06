@@ -66,10 +66,10 @@ Shanghai 200122 China
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 36 mos | LORAX | 2022 | 109,990 dwt | $29,000/day | Mercuria |
-| 24 mos | SM FALCON | 2017 | 50,035 dwt | $23,000/day | Clearlake |
-| 36 mos | LORAX | 2022 | 109,990 dwt | $29,000/day | Mercuria |
-| 24 mos | SM FALCON | 2017 | 50,035 dwt | $23,000/day | Clearlake |
+| 36 mos | LORAX | 2022 | 109,990 dwt |  |  |
+| 24 mos | SM FALCON | 2017 | 50,035 dwt |  |  |
+| 36 mos | LORAX | 2022 | 109,990 dwt |  |  |
+| 24 mos | SM FALCON | 2017 | 50,035 dwt |  |  |
 
 ## TC Rates
 
@@ -77,7 +77,6 @@ Shanghai 200122 China
 | --- | --- | --- | --- | --- | --- | --- | --- |
 
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 19/Aug/21 | 30 | 100 | 100 |
@@ -95,7 +94,6 @@ Shanghai 200122 China
 | 19/Aug/22 | 110 | 180 | 320 |
 
 ### Clean WS Rates (1-Year Trend)
-
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 19/Aug/21 | 100 | 100 | 100 | 100 |
@@ -149,12 +147,11 @@ In the Aframax sector we had the sale of the "IMPERIA" (114,849dwt-blt '06, S. K
 | BHSI | 960 | $17,285 | 978 | $17,598 | -18 | -1.8% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 8-11 mos | PESCADORES SW | 2012 | 82,230 dwt | Kunsan 17 Aug | $17,000/day | Norden |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 8-11 mos | PESCADORES SW | 2012 | 82,230 dwt |  |  |
 
 ## TC Rates
-
 | Sector | Tenor | 19/08/2022 | 12/08/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 15,250 | 18,000 | -15.3% | -2,750 | 32,684 | 15,361 |
@@ -171,7 +168,6 @@ In the Aframax sector we had the sale of the "IMPERIA" (114,849dwt-blt '06, S. K
 |  | **32K 3yr TC** | 11,500 | 11,500 | 0.0% | 0 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 19/Aug/21 | 3,500 | 3,800 | 3,400 | 1,800 | 6,000 |
@@ -189,7 +185,6 @@ In the Aframax sector we had the sale of the "IMPERIA" (114,849dwt-blt '06, S. K
 | 19/Aug/22 | 2,400 | 2,500 | 2,300 | 1,550 | 2,500 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 19/Aug/21 | 40000 | 35000 | 35000 | 35000 |
@@ -239,7 +234,6 @@ In the Handysize sector we had the sale of the "FW ADVENTURER" (34,487dwt-blt '1
 
 # Intermodal Secondhand Sales
 ## Tankers
-
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | C. GUARDIAN | 300,300 | 2019 | DAEWOO, S. Korea | MAN-B\&amp;W | Oct-24 | DH | $ 99.0m | S. Korean (HMM) | BWTS, Scrubber fitted, on subs |
@@ -271,7 +265,6 @@ In the Handysize sector we had the sale of the "FW ADVENTURER" (34,487dwt-blt '1
 
 # Intermodal Secondhand Sales
 ## Bulk Carriers
-
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | NEW ORLEANS | 180,960 | 2015 | SWS, China | MAN-B\&amp;W | Nov-25 |  | $ 33.2m | Japanese | 8 years BB charter back with purchase option beginning at the end of the third year |
@@ -298,7 +291,6 @@ In the Handysize sector we had the sale of the "FW ADVENTURER" (34,487dwt-blt '1
 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
-
 | Sector | Size | 19/08/2022 | 12/08/2022 | ±% | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Bulkers |  |  |  |  |  |  |
@@ -355,8 +347,8 @@ Newbuilding activity momentum remained unchanged, with owners interest continued
 | 19/Jun/22 | 63 | 35 | 34 | 29 |
 | 19/Jul/22 | 63 | 35 | 35 | 29 |
 | 19/Aug/22 | 63 | 36 | 35 | 29 |
-## Newbuilding Orders
 
+## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | Tanker | 17,999 dwt | CMJL Yangzhou, China | 2024-2025 | FureBear (Furetank Rederi &amp; Algoma Central) | undisclosed | Ice 1A, LNG dual-fuel |

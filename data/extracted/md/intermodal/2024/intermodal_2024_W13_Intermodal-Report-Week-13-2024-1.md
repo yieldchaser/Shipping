@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 **By <u>Angelos Tzotzi, Tanker Chartering</u>**
 
@@ -19,17 +17,16 @@ The rerouting of vessels around Africa, to avoid the Red Sea and mitigate risks 
 
 ## Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 29/03/24 WS points | 29/03/24 $/day | 22/03/24 WS points | 22/03/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 mos | MARAN THALEIA | 2011 | 321,225 dwt | $51,500/day | ExxonMobil |
-| 12 mos | CONSTANTIOS | 2024 | 157,985 dwt | $39,000/day | Stena Bulk |
-### Dirty WS Rates (1-Year Trend)
+| 6 mos | MARAN THALEIA | 2011 | 321,225 dwt |  |  |
+| 12 mos | CONSTANTIOS | 2024 | 157,985 dwt |  |  |
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 29/Mar/23 | 100 | 150 | 280 |
@@ -44,8 +41,8 @@ The rerouting of vessels around Africa, to avoid the Red Sea and mitigate risks 
 | 29/Dec/23 | 50 | 110 | 380 |
 | 29/Jan/24 | 65 | 105 | 120 |
 | 29/Feb/24 | 70 | 100 | 110 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 29/Mar/23 | 180 | 160 | 140 | 120 |
@@ -112,8 +109,8 @@ Aframax T/C earnings averaged \$37,734/day, marking a weekly decline of \$2,386/
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 mos | HESSAH | 2020 | 80,729 dwt | $21,000/day | EP Resources |
-| 12 mos | SSI DISCOVERY | 2023 | 63,712 dwt | $17,500/day | cnr |
+| 6 mos | HESSAH | 2020 | 80,729 dwt |  |  |
+| 12 mos | SSI DISCOVERY | 2023 | 63,712 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | 29/03/24 | 22/03/24 | ±% | Diff | 2023 | 2022 |
@@ -132,7 +129,6 @@ Aframax T/C earnings averaged \$37,734/day, marking a weekly decline of \$2,386/
 | **Handysize** | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 29/Mar/23 | 1800 | 1200 | 1000 | 800 | 1500 |
@@ -149,7 +145,6 @@ Aframax T/C earnings averaged \$37,734/day, marking a weekly decline of \$2,386/
 | 29/Feb/24 | 3000 | 1800 | 1200 | 900 | 2200 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 29/Mar/23 | 15000 | 12000 | 10000 | 8000 |
@@ -266,7 +261,6 @@ The demolition market is currently navigating through a period of caution, influ
 | USD/TRY | 32.35 | 32.01 | 1.0% | 32.35 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | JAL GAMINI | 157,449 | 22,572 | 2000 | DAEWOO, S. Korea | TANKER | 541 | undisclosed | as is Indonesia |

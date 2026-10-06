@@ -62,8 +62,8 @@ Shanghai 200122 China
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 mos | MELODIA | 2011 | 158,671 dwt | $15,000/day | cnr |
-| 6 mos | PTI HUANG HE | 2016 | 49,999 dwt | $14,000/day | Ultranav |
+| 6 mos | MELODIA | 2011 | 158,671 dwt |  |  |
+| 6 mos | PTI HUANG HE | 2016 | 49,999 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | Current | Previous | ±% | Diff | 2021 | 2020 |
@@ -82,7 +82,6 @@ Shanghai 200122 China
 |  | **36k 3yr TC** | 12,250 | 12,250 | 0.0% | 0 | 13,054 | 14,051 |
 
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 18/Feb/21 | 0 | 80 | 150 |
@@ -100,7 +99,6 @@ Shanghai 200122 China
 | 18/Feb/22 | 0 | 80 | 155 |
 
 ### Clean WS Rates (1-Year Trend)
-
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 18/Feb/21 | 150 | 140 | 145 | 160 |
@@ -160,13 +158,12 @@ In the Aframax sector we had sale of the "PHOENIX HOPE" (105,585dwt-bl't '08, S.
 | BHSI | 1,285 | $23,130 | 1,168 | $21,018 | **117** | **10.0%** | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 13 to 16 mos | ANDROS BEAUTY | 2003 | 171,014 dwt | Manila 13/16 Feb | $20,000/day | Deyesion |
-| 3 to 5 mos | CALIPSO | 2005 | 73,691 dwt | Guishan 12 Feb | $22,500/day | Crystal Sea |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 13 to 16 mos | ANDROS BEAUTY | 2003 | 171,014 dwt |  |  |
+| 3 to 5 mos | CALIPSO | 2005 | 73,691 dwt |  |  |
 
 ## TC Rates
-
 | Sector | Tenor | 18/02/2022 | 11/02/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 24,500 | 25,000 | -2.0% | -500 | 32,684 | 15,361 |
@@ -183,7 +180,6 @@ In the Aframax sector we had sale of the "PHOENIX HOPE" (105,585dwt-bl't '08, S.
 |  | **32K 3yr TC** | 15,000 | 15,000 | 0.0% | 0 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 18/Feb/21 | 2000 | 2200 | 1800 | 1600 | 1900 |
@@ -201,7 +197,6 @@ In the Aframax sector we had sale of the "PHOENIX HOPE" (105,585dwt-bl't '08, S.
 | 18/Feb/22 | 2100 | 2300 | 2200 | 1600 | 2000 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 18/Feb/21 | 20000 | 22000 | 21000 | 18000 |
@@ -251,7 +246,6 @@ In the Supramax sector we had the sale of the "MANDARIN TRADER" (56,677dwt-blt '
 
 # Secondhand Sales
 ## Bulk Carriers
-
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | STELLA HOPE | 180,007 | 2016 | DALIAN, China | MAN-B\&amp;W | Sep-26 |  | rgn $ 42.5m | UK based (Zodiac Maritime) | eco, BWTS fitted, on index-linked TC for 1+1 yrs |
@@ -274,7 +268,6 @@ In the Supramax sector we had the sale of the "MANDARIN TRADER" (56,677dwt-blt '
 
 # Intermodal Secondhand Sales
 ## Tankers
-
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUEZ | RINEIA | 159,106 | 2004 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Mar-24 | DH | $ 18.75m | Middle Eastern |  |
@@ -285,8 +278,8 @@ In the Supramax sector we had the sale of the "MANDARIN TRADER" (56,677dwt-blt '
 | MR2 | OCEAN JUPITER | 50,314 | 2007 | SLS, S. Korea | MAN-B\&amp;W | Dec-22 | DH | undisclosed | Greek | Judicial sale |
 | MR1 | OCEAN WINTER | 41,370 | 2009 | SLS, S. Korea | MAN-B\&amp;W | Nov-24 | DH |  |  |  |
 | MR1 | OCEAN SPRING | 40,960 | 2009 | SLS, S. Korea | MAN-B\&amp;W | Mar-24 | DH |  |  |  |
-## Bulk Carriers
 
+## Bulk Carriers
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | NAVIOS UTMOST | 8,208 | 2006 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Jul-26 |  | $ 110.0m each | undisclosed | delivery 2H-2022 |
@@ -303,7 +296,6 @@ In the Supramax sector we had the sale of the "MANDARIN TRADER" (56,677dwt-blt '
 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
-
 | Sector | Size | 18/02/2022 | 11/02/2022 | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -360,8 +352,8 @@ The newbuilding market has been quiet during the past week, with only three cont
 | 18/Dec/21 | 60 | 34 | 33 | 28 |
 | 18/Jan/22 | 60 | 34 | 33 | 28 |
 | 18/Feb/22 | 60 | 34 | 33 | 28 |
-## Newbuilding Orders
 
+## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4 | LNG | 174,000 cbm | Samsung, S. Korea | 2025 | South Korean (H-Line) | undisclosed | against long-term T/C to ExxonMobil |
@@ -374,7 +366,6 @@ The newbuilding market has been quiet during the past week, with only three cont
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | 18/02/2022 | 11/02/2022 | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |
@@ -405,8 +396,8 @@ The demolition sector enjoyed increased activity amidst an injection of fresh vi
 | 18/Dec/21 | 615 | 570 | 590 | 330 |
 | 18/Jan/22 | 620 | 590 | 600 | 340 |
 | 18/Feb/22 | 635 | 595 | 610 | 345 |
-## Demolition Sales
 
+## Demolition Sales
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ALAM CETUS | 171,009 | 23,982 | 2003 | SASEBO, Japan | BULKER | $ 645/Ldt | undisclosed | as-is Batam/Singapore, incl. further trading options |

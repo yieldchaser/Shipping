@@ -305,9 +305,7 @@ CURRENCY USD / CNY (CHINA) USD / BDT (BANGLADESH) USD / INR (INDIA) USD / PKR (P
 
 Sub-Continent and Turkey ferrous scrap markets insight
 
-**Weekly Market Report: Sub-Continent Scrap Markets Face Regional Challenges Amid Persistent Cautious Sentiment**
-
-The Sub-Continent scrap markets Pakistan, and Bangladesh grappled with unique regional challenges. The combination of a domestic steel market slowdown, suppressed activity across the board, leaving trading volumes thin amid persistent buyer resistance and broader economic uncertainties.
+**Weekly Market Report:** Sub-Continent Scrap Markets Face Regional Challenges Amid Persistent Cautious Sentiment The Sub-Continent scrap markets Pakistan, and Bangladesh grappled with unique regional challenges. The combination of a domestic steel market slowdown, suppressed activity across the board, leaving trading volumes thin amid persistent buyer resistance and broader economic uncertainties.
 
 ### India: Buyers Await Post-Holiday Market Movement
 
@@ -353,9 +351,7 @@ The Turkish imported ferrous scrap market was largely inactive this week, with n
 
 ## Commodities
 
-**Iron ore prices have fallen below the psychological US$100 per ton mark, reaching their**
-
-lowest level in over five weeks, amid persistent concerns about China's economic health. While Chinese steelmakers showed some improvement in profitability last month, the broader industrial sector continues to struggle, with November marking the fourth consecutive month of profit declines. The commodity has experienced a significant 29% decline this year, primarily due to China's prolonged economic slowdown and troubled property sector, despite repeated government intervention attempts. Adding to the downward pressure, major suppliers Australia and Brazil have increased their output, further weakening the market fundamentals. In Singapore trading, iron ore futures touched US$98.95 per ton, setting up for a second consecutive weekly loss, while Shanghai steel futures also weakened. Meanwhile, base metals showed mixed performance, with copper gaining 0.5% on the London Metal Exchange following a two-day holiday break, while aluminium and zinc both declined by 0.5%.
+Iron ore prices have fallen below the psychological US$100 per ton mark, reaching their lowest level in over five weeks, amid persistent concerns about China's economic health. While Chinese steelmakers showed some improvement in profitability last month, the broader industrial sector continues to struggle, with November marking the fourth consecutive month of profit declines. The commodity has experienced a significant 29% decline this year, primarily due to China's prolonged economic slowdown and troubled property sector, despite repeated government intervention attempts. Adding to the downward pressure, major suppliers Australia and Brazil have increased their output, further weakening the market fundamentals. In Singapore trading, iron ore futures touched US$98.95 per ton, setting up for a second consecutive weekly loss, while Shanghai steel futures also weakened. Meanwhile, base metals showed mixed performance, with copper gaining 0.5% on the London Metal Exchange following a two-day holiday break, while aluminium and zinc both declined by 0.5%.
 
 ### Shipbroking (www.star-asia.com.sg)
 

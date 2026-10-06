@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 By Yiannis Parganas, Head of Research Department
 
@@ -41,7 +39,6 @@ In late April and May, Yunnan experienced heavy rains, with precipitation levels
 
 ## Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 28/06/24 WS points | 28/06/24 $/day | 21/06/24 WS points | 21/06/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 51 | 28,332 | 51 | 28,960 | -2.2% | 39,466 | 20,330 |
@@ -61,7 +58,6 @@ In late April and May, Yunnan experienced heavy rains, with precipitation levels
 |  | 50k | ARA-UKC | 177 | 16,207 | 165 | 13,165 | **23.1%** | 46,194 | 40,364 |
 
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | WS points |
 | --- | --- |
 | DIRTY - WS RATES |  |
@@ -160,7 +156,6 @@ On MRs, the USG market was active with all rates rising. More specifically, TC21
 |  | 32K 3yr TC | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 28/Jun/23 | 1500 | 1200 | 1100 | 1000 | 1400 |
@@ -178,7 +173,6 @@ On MRs, the USG market was active with all rates rising. More specifically, TC21
 | 28/Jun/24 | 3100 | 1750 | 1450 | 1250 | 2000 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 28/Jun/23 | 12000 | 8000 | 10000 | 7000 |
@@ -271,7 +265,6 @@ The previous week saw a somewhat muted newbuilding market with only a few but si
 
 The robust freight market limited vessel recycling supply, hurting the demolition market this week. Economic uncertainty and regional post-Eid adjustments kept market sentiment low. In India, most steel goods fell in price, except for local steel plates, which stabilized late in the week. Secondary mills cut production due to weak steel product demand while ship recyclers offered somewhat lower pricing despite the poor availability of new tonnage. The next national budget is keenly anticipated and might change the market mood. Unprecedented lows also caused market volatility in the local currency. In Bangladesh, steel and scrap prices fell, after Eid, while at the same time, steel mill demand was minimal, so dealers waited. The central bank will review next year's monetary policy in July, with inflation a primary worry. Increased expenses and foreign exchange issues make ship recyclers' operations harder. As the Pakistani market largely reopened following Eid, demand began to rise. Steel demand was unclear, but new tax restrictions to boost local steel pricing were encouraging. Ship recycler prices were constant with a minor weakening. As activities restart, the market should acquire direction in the following weeks. Turkey's market was solid but sluggish. The local currency fell against the USD, while scrap prices remained stable, while the only hope is tonnage increases to boost industry growth. Turkey's removal from the anti-money laundering grey list could boost foreign investment and the market. Demolition market outlook is bearish. Players actively watch economic policy and market trends, therefore new tonnage supply is projected to stay modest. Budget statements, particularly in India, may improve market conditions, but sentiment remains cautious amid economic concerns and uncertainty.
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | 28/06/24 | 21/06/24 | ±% | YTD High | YTD Low | 2023 | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |  |  |
@@ -284,8 +277,8 @@ The robust freight market limited vessel recycling supply, hurting the demolitio
 | India | 520 | 520 | 0.0% | 520 | 480 | 522 | 583 | 508 |
 | Pakistan | 500 | 500 | 0.0% | 510 | 500 | 515 | 587 | 526 |
 | Turkey | 360 | 350 | 2.9% | 350 | 330 | 315 | 304 | 276 |
-## Currencies
 
+## Currencies
 | Markets | Current | Previous | ±% | YTD High |
 | --- | --- | --- | --- | --- |
 | USD/BDT | 117.51 | 117.48 | 0.0% | 117.51 |
@@ -294,7 +287,6 @@ The robust freight market limited vessel recycling supply, hurting the demolitio
 | USD/TRY | 32.65 | 32.83 | -0.6% | 32.63 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | APJ MAHAKALI | 70,296 | 9,126 | 1996 | SANOYAS HISHINO, Japan | BC | $ 525.0m | Sri Lankan |

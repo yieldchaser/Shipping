@@ -50,25 +50,25 @@ The handy market showed improvements this week with robust demand in the Atlanti
 
 # Baltic Exchange Dry Bulk Indices
 
-| INDICES | CURRENT |  | LAST | WEEK | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-|---|---|---|---|---|---|---|---|---|---|
-| BDI | 2,196 |  |  | 2,374 |  | 1,489 | -7.50% |  | +47.48% |
-| BCI | 3,482 |  |  | 4,019 |  | 1,882 | -13.36% |  | +85.02% |
-| BPI | 2,165 |  |  | 2,234 |  | 1,572 | -3.09% |  | +37.72% |
-| BSI | 1,383 |  |  | 1,326 |  | 1,332 | +4.30% |  | +3.83% |
-| BHSI | 795 |  |  | 781 Dry Bulk (Weekly |  | 703 Values Average) | +1.79% |  | +13.09% |
-| TYPE | DWT | NB |  | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
-| CAPE | 180,000 |  | 68 |  |  | 76 | 60 | 40 | 28 |
-| KAMSARMAX | 82,000 |  | 37 |  |  | 43 | 35 | 28 | 19 |
-| SUPRAMAX | 56,000 |  | 33 |  |  | 41 | 28 | 23 | 15 |
-| HANDY | 38,000 |  | 30 |  |  | 34 | 26 | 20 | 11 |
-| *(amount in USD | million) |  |  |  |  |  |  |  |  |
-|  | Bulker | 12 | months | T/C |  | rates average | (in | USD/day) |  |
-| TYPE | DWT | CURRENT |  | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-| CAPESIZE | 180,000 | 26,000 |  | 28,000 |  | 17,000 | -7.14% |  | +52.94% |
-| PANAMAX | 75,000 | 16,500 |  | 17,000 |  | 15,250 | -2.94% |  | +8.20% |
-| SUPRAMAX | 58,000 | 15,000 |  | 15,000 |  | 15,850 | 0 |  | -5.36% |
-| HANDYSIZE | 38,000 | 13,500 |  | 14,000 |  | 12,850 | -3.57% |  | +5.06% |
+| INDICES | CURRENT | LAST | WEEK | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| BDI | 2,196 |  | 2,374 |  | 1,489 | -7.50% |  | +47.48% |
+| BCI | 3,482 |  | 4,019 |  | 1,882 | -13.36% |  | +85.02% |
+| BPI | 2,165 |  | 2,234 |  | 1,572 | -3.09% |  | +37.72% |
+| BSI | 1,383 |  | 1,326 |  | 1,332 | +4.30% |  | +3.83% |
+| BHSI | 795 |  | 781 Dry Bulk (Weekly |  | 703 Values Average) | +1.79% |  | +13.09% |
+| TYPE | DWT |  | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| CAPE | 180,000 | 68 |  |  | 76 | 60 | 40 | 28 |
+| KAMSARMAX | 82,000 | 37 |  |  | 43 | 35 | 28 | 19 |
+| SUPRAMAX | 56,000 | 33 |  |  | 41 | 28 | 23 | 15 |
+| HANDY | 38,000 | 30 |  |  | 34 | 26 | 20 | 11 |
+| *(amount in USD | million) |  |  |  |  |  |  |  |
+|  | Bulker | months | T/C |  | rates average | (in | USD/day) |  |
+| TYPE | DWT |  | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+| CAPESIZE | 180,000 |  | 28,000 |  | 17,000 | -7.14% |  | +52.94% |
+| PANAMAX | 75,000 |  | 17,000 |  | 15,250 | -2.94% |  | +8.20% |
+| SUPRAMAX | 58,000 |  | 15,000 |  | 15,850 | 0 |  | -5.36% |
+| HANDYSIZE | 38,000 |  | 14,000 |  | 12,850 | -3.57% |  | +5.06% |
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -326,13 +326,9 @@ In India, there's a hesitancy among scrap importers towards European shredded sc
 
 In Pakistan, the observance of Ramadan has significantly curtailed scrap purchasing, with the domestic rebar market's sluggishness further dampening demand. Offers for European shredded scrap have dipped to USD410-415/ton, reflecting the global scrap market's downward trend. The steel market outlook remains dim, with high interest rates adversely affecting the construction sector. However, there's hope for improvement post- June 2024, when interest rates are expected to decline.
 
-**Bangladesh faces its own set of challenges, with difficulties in opening letters of credit and**
+Bangladesh faces its own set of challenges, with difficulties in opening letters of credit and a softened steel market sentiment leading to a slowdown in purchases. However, the shift towards bulk purchases, especially from the US and Australia, is noted as buyers seek more favorable pricing. Offers for shredded scrap from the UK/Europe and HMS are hovering around USD410 and USD395-400/ton, respectively.
 
-a softened steel market sentiment leading to a slowdown in purchases. However, the shift towards bulk purchases, especially from the US and Australia, is noted as buyers seek more favorable pricing. Offers for shredded scrap from the UK/Europe and HMS are hovering around USD410 and USD395-400/ton, respectively.
-
-**Turkey's market remains stable for now, with ferrous scrap prices unchanged but with an**
-
-undercurrent of anticipation for restocking activities that could push prices up. Offers for HMS scrap remain steady, with market sentiment slightly buoyed by Kardemir's recent rebar price adjustment, fostering a cautiously optimistic outlook for the coming weeks.
+Turkey's market remains stable for now, with ferrous scrap prices unchanged but with an undercurrent of anticipation for restocking activities that could push prices up. Offers for HMS scrap remain steady, with market sentiment slightly buoyed by Kardemir's recent rebar price adjustment, fostering a cautiously optimistic outlook for the coming weeks.
 
 # HMS 1/2 & Tangshan Billet
 
@@ -348,9 +344,7 @@ The Chinese steel industry continues to contend with sluggish demand, prompting 
 
 market, are starting to recover thanks to more optimistic views and positive economic data. Despite the issues in China's property sector, experts believe that the decrease in steel demand from housing will be compensated for by other economic areas. There's an expectation for higher investment in social housing and continued strong spending on infrastructure, especially in renewable energy. Additionally, China's car industry, especially electric vehicles, will get more support, helping to maintain a balance in the iron ore market. This balance, along with a slow increase in iron ore supply, suggests that prices might not drop much further from their current levels.
 
-**Base metals saw a significant increase in early market trading, driven by an optimistic**
-
-mood across financial markets. In the US, sales of previously owned homes jumped by 9.5% last month, marking a notable rise. Additionally, US manufacturing activity saw its highest expansion since June 2022. In China, sales of electric vehicles are expected to nearly double in March, following price reductions, as reported by China's Passenger Car Association. Zinc prices experienced the largest increase following an announcement by Glencore to temporarily shut down its McArthur River mine in Australia due to a cyclone. The mine has seen record-breaking rainfall this week, surpassing a record that was set in 1974.
+Base metals saw a significant increase in early market trading, driven by an optimistic mood across financial markets. In the US, sales of previously owned homes jumped by 9.5% last month, marking a notable rise. Additionally, US manufacturing activity saw its highest expansion since June 2022. In China, sales of electric vehicles are expected to nearly double in March, following price reductions, as reported by China's Passenger Car Association. Zinc prices experienced the largest increase following an announcement by Glencore to temporarily shut down its McArthur River mine in Australia due to a cyclone. The mine has seen record-breaking rainfall this week, surpassing a record that was set in 1974.
 
 ## Shipbroking (www.star-asia.com.sg)
 

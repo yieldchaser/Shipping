@@ -86,8 +86,8 @@ Certification
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 mos | OLYMPIC LUNA | 2017 | 299,337 dwt | $27,000/day | Equinor |
-| 12 mos | LIAN HUAN HU | 2017† | 49,999 dwt | $14,000/day | Ampol |
+| 6 mos | OLYMPIC LUNA | 2017 | 299,337 dwt |  |  |
+| 12 mos | LIAN HUAN HU | 2017† | 49,999 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | Current | Previous | ±% | Diff | 2020 | 2019 |
@@ -106,7 +106,6 @@ Certification
 |  | **36k 3yr TC** | 12,250 | 12,250 | 0.0% | 0 | 14,051 | 13,753 |
 
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 12/Nov/20 | 50 | 80 | 100 |
@@ -124,7 +123,6 @@ Certification
 | 12/Nov/21 | 60 | 100 | 120 |
 
 ### Clean WS Rates (1-Year Trend)
-
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 12/Nov/20 | 100 | 110 | 120 | 130 |
@@ -174,7 +172,6 @@ In the Suezmax sector we had the sale of the "DENSA WHALE" (158,322dwt-blt '12, 
 
 # Dry Bulk Market
 ## Baltic Indices
-
 | Index Name | 12/11/2021 Index | 12/11/2021 $/day | 05/11/2021 Index | 05/11/2021 $/day | Point Diff | $/day ±% | 2020 Index | 2019 Index |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | BDI | 2,807 |  | 2,715 |  | **92** |  | 1,066 | 1,344 |
@@ -182,14 +179,14 @@ In the Suezmax sector we had the sale of the "DENSA WHALE" (158,322dwt-blt '12, 
 | BPI | 2,930 | $26,370 | 3,071 | $27,641 | -141 | -4.6% | 1,103 | 1,382 |
 | BSI | 2,253 | $24,783 | 2,416 | $26,580 | -163 | -6.8% | 746 | 877 |
 | BHSI | 1,613 | $29,036 | 1,726 | $31,074 | -113 | -6.6% | 447 | 490 |
+
 ## Indicative Period Charters
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 12 to 14 mos | MYRSINI | 2010 | 82,117 dwt |  |  |
+| 12 mos | VIPHA NAREE | 2015 | 38,851 dwt |  |  |
 
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 12 to 14 mos | MYRSINI | 2010 | 82,117 dwt | Nantong 12 Nov | $22,000/day | Cargill |
-| 12 mos | VIPHA NAREE | 2015 | 38,851 dwt | Itaqui 1/5 Dec | $24,000/day | TKB |
 ## TC Rates
-
 | Sector | Tenor | 12/11/2021 | 05/11/2021 | ±% | Diff | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 24,750 | 25,500 | -2.9% | -750 | 15,561 | 18,839 |
@@ -204,8 +201,8 @@ In the Suezmax sector we had the sale of the "DENSA WHALE" (158,322dwt-blt '12, 
 | **Handysize** | **32K 6mnt TC** | 25,500 | 25,750 | -1.0% | -250 | 8,498 | 9,152 |
 |  | **32K 1yr TC** | 20,250 | 20,250 | 0.0% | 0 | 8,556 | 9,291 |
 |  | **32K 3yr TC** | 11,250 | 11,250 | 0.0% | 0 | 8,686 | 9,291 |
-### Baltic Indices (1-Year Trend)
 
+### Baltic Indices (1-Year Trend)
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 12/Nov/20 | 1,500 | 1,500 | 1,400 | 1,000 | 1,500 |
@@ -221,14 +218,6 @@ In the Suezmax sector we had the sale of the "DENSA WHALE" (158,322dwt-blt '12, 
 | 12/Sep/21 | 5,500 | 5,000 | 3,800 | 2,200 | 5,500 |
 | 12/Oct/21 | 10,000 | 4,000 | 3,500 | 2,000 | 10,000 |
 | 12/Nov/21 | 2,800 | 2,800 | 2,800 | 1,700 | 2,800 |
-### Average T/C Rates (1-Year Trend)
-
-| Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
-| --- | --- | --- | --- | --- |
-| Average | 5 | AVR | AVR | AVR |
-| T/C | T | 5TC | 10TC | 7TC |
-| Rates | / | BPI | BSI | BHSI |
-| Date | C |  |  |  |
 
 ## Chartering
 
@@ -263,7 +252,6 @@ In the Ultramax sector we had the sale of the "IKAN SENYUR" (61,494dwt-blt '10, 
 # Intermodal Secondhand Sales
 
 ## Bulk Carriers
-
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | MARAN CORONA | 306,093 | 2003 | DAEWOO, S. Korea | B&amp;W | Jul-23 | DH | $ 28.5m | Greek | DD due December 2021 |
@@ -295,13 +283,12 @@ In the Ultramax sector we had the sale of the "IKAN SENYUR" (61,494dwt-blt '10, 
 
 # Intermodal Secondhand Sales
 ## Containers
-
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FEEDER | CORONADO BAY | 2,578 | 2009 | XIAMEN, China | Wartsila | Feb-24 | 3 X 45t CRANES | rgn $ 40.0m | undisclosed |
 | FEEDER | GLACIER BAY | 2,578 | 2008 | XIAMEN, China | Wartsila | Oct-23 | 3 X 45t CRANES | rgn $ 40.0m | undisclosed |
-## Secondhand Sales
 
+## Secondhand Sales
 | MPP/General Cargo Name | MPP/General Cargo Dwt | MPP/General Cargo Built | MPP/General Cargo Yard | MPP/General Cargo M/E | MPP/General Cargo SS due | MPP/General Cargo Gear | MPP/General Cargo Price | MPP/General Cargo Buyers | MPP/General Cargo Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FWN PAULA | 10,618 | 2001 | DAMEN HOOGEZAND, Netherlands | MaK | Dec-21 | 2 X 60t CRANES | $ 5.3m | undisclosed |  |
@@ -315,7 +302,6 @@ In the Ultramax sector we had the sale of the "IKAN SENYUR" (61,494dwt-blt '10, 
 
 # Newbuilding Market
 ## TC Rates
-
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Vessel | 12/11/2021 | 05/11/2021 | ±% | 2020 | 2019 | 2018 |  |
@@ -383,7 +369,6 @@ A healthy newbuilding activity took place during the past week. Interest was evi
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | 12/11/2021 | 05/11/2021 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |
@@ -414,8 +399,8 @@ The demolition market across the Indian-subcontinent regions continues to offer 
 | 12/Sep/21 | 620 | 610 | 605 | 275 |
 | 12/Oct/21 | 625 | 615 | 620 | 280 |
 | 12/Nov/21 | 625 | 620 | 625 | 285 |
-## Demolition Sales
 
+## Demolition Sales
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | RAMAGAS | 16,137 | 6,694 | 1989 | MEYER, Germany | GAS TANKER | $ 675/Ldt | Indian | incl. spare propeller |

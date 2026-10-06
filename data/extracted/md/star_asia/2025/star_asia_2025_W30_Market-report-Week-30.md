@@ -114,13 +114,9 @@ Freight rates in the Black Sea region declined against a surplus of vessels and 
 
 Clean:
 
-**LR: After weeks of decline, the market this week saw rates remain unchanged with TC1**
+**LR:** After weeks of decline, the market this week saw rates remain unchanged with TC1 closing around WS128 on Friday, driven by an influx of demand for westbound voyages. Similar was noted in LR1, with MEG/Japan on TC5 holding slightly firmer at WS150's.
 
-closing around WS128 on Friday, driven by an influx of demand for westbound voyages. Similar was noted in LR1, with MEG/Japan on TC5 holding slightly firmer at WS150's.
-
-**MR: MR market in the MEG remain in a hold at closing with trips to E. Africa settling around**
-
-WS226 mark. Competition for cargo deepened as some shipments shifted to LR vessels especially on B/H routes.
+**MR:** MR market in the MEG remain in a hold at closing with trips to E. Africa settling around WS226 mark. Competition for cargo deepened as some shipments shifted to LR vessels especially on B/H routes.
 
 # Baltic Exchange Tanker Indices
 
@@ -148,21 +144,21 @@ The container market is facing significant downward pressure, largely driven by 
 
 # Containers Values
 
-| CONTAINERS | GEARED / | NB |  | NB PROMPT |  |  | 15 |
-|---|---|---|---|---|---|---|---|
-|  |  |  |  |  | 5 YEARS | 10 YEARS |  |
-| (BY TEU) | GEARLESS | CONTRACT |  | DELIVERY |  |  | YEARS |
-| 900 ~ 1,200 | Geared | 24 |  | 26 | 20 | 16 | 10 |
-| 1,600 ~ 1,850 | Gearless | 31 |  | 35 | 29 (E) | 23 (E) | 18 |
-| 2,700 ~ 2,900 | Gearless | 44 |  | 46 | 39 | 35 | 26 |
-| 5,100 ~ 5,300 | Gearless | 59 |  | 82 | 66 | - | 41 |
-| *(amount in USD million) | \| = Eco units |  |  |  |  |  |  |
-|  |  | S&P |  | Containers | Report |  |  |
-|  |  |  |  |  | PRICE | COMMENTS | / |
-| VESSEL NAME | TYPE | TEU | YEAR | BUILT |  |  |  |
-|  |  |  |  |  | (MILLION) | USD BUYERS |  |
-| FORMOSA CONTAINER NO. 4 | FEEDER | 920 | 2007 | CHINA | 7.5 | SEALEAD SHIPHOLDING | CO. |
-| LAGARFOSS | FEEDER | 875 | 2014 | CHINA | N/A | UNDISCLOSED |  |
+| CONTAINERS | GEARED / | NB | NB PROMPT | 15 |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+| (BY TEU) | GEARLESS | CONTRACT | DELIVERY | YEARS |
+| 900 ~ 1,200 | Geared | 24 | 26 | 10 |
+| 1,600 ~ 1,850 | Gearless | 31 | 35 | 18 |
+| 2,700 ~ 2,900 | Gearless | 44 | 46 | 26 |
+| 5,100 ~ 5,300 | Gearless | 59 | 82 | 41 |
+| *(amount in USD million) | \ | = Eco units |  |  |
+|  |  | S&P | Containers |  |
+|  |  |  |  | / |
+| VESSEL NAME | TYPE | TEU | BUILT |  |
+|  |  |  |  |  |
+| FORMOSA CONTAINER NO. 4 | FEEDER | 920 | CHINA | CO. |
+| LAGARFOSS | FEEDER | 875 | CHINA |  |
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -304,13 +300,9 @@ EXCHANGE RATES
 
 Sub-Continent and Turkey ferrous scrap markets insights
 
-**India: India's imported scrap market presented a tale of two stories this week. On the**
+**India:** India's imported scrap market presented a tale of two stories this week. On the international front, activity remained notably sluggish, with offers for UK-origin shredded scrap heard at around US$360-365/ton CFR. Sellers found little incentive to engage, as they could reportedly achieve significantly higher prices, US$20-22/ton, in neighbouring Pakistan. However, the domestic market is showing clear signs of a revival. After a quiet couple of months, local demand is on the rise, and there is a growing expectation that Indian mills will soon need to re-enter the global market, which could lend support to prices in the near future.
 
-international front, activity remained notably sluggish, with offers for UK-origin shredded scrap heard at around US$360-365/ton CFR. Sellers found little incentive to engage, as they could reportedly achieve significantly higher prices, US$20-22/ton, in neighbouring Pakistan. However, the domestic market is showing clear signs of a revival. After a quiet couple of months, local demand is on the rise, and there is a growing expectation that Indian mills will soon need to re-enter the global market, which could lend support to prices in the near future.
-
-**Pakistan: Pakistan was the center of activity in the South Asian market this week. Buyers**
-
-continued to lead the region on pricing, successfully securing a steady stream of shredded cargoes at levels around US$385/ton CFR. This aggressive procurement has made Pakistan the preferred destination for many international suppliers. The only factor
+**Pakistan:** Pakistan was the center of activity in the South Asian market this week. Buyers continued to lead the region on pricing, successfully securing a steady stream of shredded cargoes at levels around US$385/ton CFR. This aggressive procurement has made Pakistan the preferred destination for many international suppliers. The only factor
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -318,13 +310,9 @@ continued to lead the region on pricing, successfully securing a steady stream o
 
 tempering the pace of imports is the ongoing monsoon season, which has impacted mill operations and placed a natural cap on production capacity and overall scrap consumption.
 
-**Bangladesh: A sense of caution prevailed in Bangladesh, where the imported scrap**
+**Bangladesh:** A sense of caution prevailed in Bangladesh, where the imported scrap market remained largely subdued. Most steel mills opted to stay on the sidelines, delaying raw material purchases amid lackluster domestic steel demand. This created a persistent gap between market players, with offers for Australian shredded material heard in the range of US$375-380/ton CFR, while bids lagged significantly lower at US$368-370/ton. With little urgency from either side to bridge this difference, trading activity remained minimal.
 
-market remained largely subdued. Most steel mills opted to stay on the sidelines, delaying raw material purchases amid lackluster domestic steel demand. This created a persistent gap between market players, with offers for Australian shredded material heard in the range of US$375-380/ton CFR, while bids lagged significantly lower at US$368-370/ton. With little urgency from either side to bridge this difference, trading activity remained minimal.
-
-**Turkey: In Turkey, the deep-sea import market saw prices soften slightly as the week**
-
-progressed. Traders reported that a steady and sufficient supply of available cargo is keeping the market well-balanced. This availability has limited the potential for any significant price fluctuations, suggesting a period of relative stability for premium-grade scrap in the immediate term.
+**Turkey:** In Turkey, the deep-sea import market saw prices soften slightly as the week progressed. Traders reported that a steady and sufficient supply of available cargo is keeping the market well-balanced. This availability has limited the potential for any significant price fluctuations, suggesting a period of relative stability for premium-grade scrap in the immediate term.
 
 # HMS 1/2 & Tangshan
 

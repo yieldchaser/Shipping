@@ -70,28 +70,28 @@ on this week with biggest decline mostly in the Atlantic basins. The Pacific rem
 
 # Dry Bulk - S&P Report
 
-| VESSEL NAME |  | TYPE | DWT | YEAR | BUILT | PRICE | COMMENTS | / BUYERS |
-|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  |  | (MILLION) | USD |  |
-| AMITY |  | CAPE | 180,311 | 2009 | CHINA | 19.2 |  | UNDISCLOSED |
-| ANITA N |  | SUPRAMAX | 56,868 | 2010 | CHINA | 14.0 |  | UNDISCLOSED |
-| ALLEGRE III |  | SUPRAMAX | 55,808 | 2007 | JAPAN | 14.7 | INDONESIAN | BUYERS |
-| EQUINOX | DAWN | SUPRAMAX | 52,015 | 2002 | CROATIA | 11.3 | CHINESE | BUYERS |
-| KIRISHIMA SKY |  | HANDY | 34,309 Dry | 2014 Bulk (Weekly) | JAPAN Values | 16.5 |  | UNDISCLOSED |
-| TYPE |  | DWT | NB CONTRACT | NB | PROMPT DELIVERY | 5 YEARS 10 | YEARS | 20 YEARS |
-| CAPE |  | 180,000 | 60 |  | 52 | 35 | 28 | 13 |
-| KAMSARMAX |  | 82,000 | 34 |  | 37 | 30 | 22 | 10 |
-| SUPRAMAX |  | 56,000 | 31 |  | 35 | 27 | 18 | 7 |
-| HANDY |  | 38,000 | 28 |  | 27 | 23 | 16 | 5 |
-| *(AmountinUSD | million) |  |  |  |  |  |  |  |
-|  |  | Baltic | Exchange |  | Dry Bulk | Indices |  |  |
-|  |  |  | BALTIC | EXCHANGE | DRY BULK | INDICES |  |  |
-|  | CURRENT | LAST | WEEK | LAST | YEAR | W-O-W CHANGE | % Y-O-Y | CHANGE % |
-| BDI | 1,515 |  | 1,650 |  | - | -8.18 |  | - |
-| BCI | 2,261 |  | 2,261 |  | - | 0 |  | - |
-| BPI | 1,535 |  | 1,563 |  | - | -1.79 |  | - |
-| BSI | 1,062 |  | 1,083 |  | - | -1.94 |  | - |
-| BHSI | 663 |  | 671 |  | - | -1.19 |  | - |
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE | COMMENTS | / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  | (MILLION) | USD |  |
+| AMITY | CAPE | 180,311 | 2009 | CHINA | 19.2 |  | UNDISCLOSED |
+| ANITA N | SUPRAMAX | 56,868 | 2010 | CHINA | 14.0 |  | UNDISCLOSED |
+| ALLEGRE III | SUPRAMAX | 55,808 | 2007 | JAPAN | 14.7 | INDONESIAN | BUYERS |
+| EQUINOX | SUPRAMAX | 52,015 | 2002 | CROATIA | 11.3 | CHINESE | BUYERS |
+| KIRISHIMA SKY | HANDY | 34,309 Dry | 2014 Bulk (Weekly) | JAPAN Values | 16.5 |  | UNDISCLOSED |
+| TYPE | DWT | NB CONTRACT | NB | PROMPT DELIVERY | 5 YEARS 10 | YEARS | 20 YEARS |
+| CAPE | 180,000 | 60 |  | 52 | 35 | 28 | 13 |
+| KAMSARMAX | 82,000 | 34 |  | 37 | 30 | 22 | 10 |
+| SUPRAMAX | 56,000 | 31 |  | 35 | 27 | 18 | 7 |
+| HANDY | 38,000 | 28 |  | 27 | 23 | 16 | 5 |
+| *(AmountinUSD |  |  |  |  |  |  |  |
+|  | Baltic | Exchange |  | Dry Bulk | Indices |  |  |
+|  |  | BALTIC | EXCHANGE | DRY BULK | INDICES |  |  |
+|  | LAST | WEEK | LAST | YEAR | W-O-W CHANGE | % Y-O-Y | CHANGE % |
+| BDI |  | 1,650 |  | - | -8.18 |  | - |
+| BCI |  | 2,261 |  | - | 0 |  | - |
+| BPI |  | 1,563 |  | - | -1.79 |  | - |
+| BSI |  | 1,083 |  | - | -1.94 |  | - |
+| BHSI |  | 671 |  | - | -1.19 |  | - |
 
 [Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 

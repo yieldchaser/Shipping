@@ -50,26 +50,26 @@ It was a poor week in the Handy segment with rates across seeing a dipped. In th
 
 ## Baltic Exchange Dry Bulk Indices
 
-| INDICES | CURRENT |  | LAST | WEEK | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-|---|---|---|---|---|---|---|---|---|---|
-| BDI | 1,537 |  |  | 1,785 |  | 2,102 | -13.89% |  | -26.88% |
-| BCI | 2,626 |  |  | 3,229 |  | 3,385 | -18.67% |  | -22.42% |
-| BPI | 1,083 |  |  | 1,212 |  | 2,064 | -10.64% |  | -47.53% |
-| BSI | 984 |  |  | 1,019 |  | 1,279 | -3.43% |  | -23.06% |
-| BHSI | 670 |  |  | 685 |  | 670 | -2.19% |  | 0 |
-|  |  |  |  | Dry Bulk | (Weekly) | Values |  |  |  |
-| TYPE | DWT | NB |  | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
-| CAPE | 180,000 |  | 76 |  |  | 77 | 64 | 45 | 29 |
-| KAMSARMAX | 82,000 |  | 37 |  |  | 44 | 38 | 28 | 18 |
-| SUPRAMAX | 56,000 |  | 35 |  |  | 41 | 36 | 27 | 16 |
-| HANDY | 38,000 |  | 30 |  |  | 35 | 28 | 21 | 12 |
-| *(amount in USD | million) |  |  |  |  |  |  |  |  |
-|  | Bulker | 12 | months | T/C |  | rates average | (in | USD/day) |  |
-| TYPE | DWT | CURRENT |  | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-| CAPESIZE | 180,000 | 19,000 |  | 21,000 |  | 17,000 | -9.52% |  | +11.76% |
-| PANAMAX | 75,000 | 13,500 |  | 13,700 |  | 75,000 | -1.46% |  | -82.00% |
-| SUPRAMAX | 58,000 | 12,500 |  | 12,750 |  | 58,000 | -1.96% |  | -78.45% |
-| HANDYSIZE | 38,000 | 12,500 |  | 13,000 |  | 38,000 | -3.85% |  | -67.11% |
+| INDICES | CURRENT | LAST | WEEK | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| BDI | 1,537 |  | 1,785 |  | 2,102 | -13.89% |  | -26.88% |
+| BCI | 2,626 |  | 3,229 |  | 3,385 | -18.67% |  | -22.42% |
+| BPI | 1,083 |  | 1,212 |  | 2,064 | -10.64% |  | -47.53% |
+| BSI | 984 |  | 1,019 |  | 1,279 | -3.43% |  | -23.06% |
+| BHSI | 670 |  | 685 |  | 670 | -2.19% |  | 0 |
+|  |  |  | Dry Bulk | (Weekly) | Values |  |  |  |
+| TYPE | DWT |  | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| CAPE | 180,000 | 76 |  |  | 77 | 64 | 45 | 29 |
+| KAMSARMAX | 82,000 | 37 |  |  | 44 | 38 | 28 | 18 |
+| SUPRAMAX | 56,000 | 35 |  |  | 41 | 36 | 27 | 16 |
+| HANDY | 38,000 | 30 |  |  | 35 | 28 | 21 | 12 |
+| *(amount in USD | million) |  |  |  |  |  |  |  |
+|  | Bulker | months | T/C |  | rates average | (in | USD/day) |  |
+| TYPE | DWT |  | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+| CAPESIZE | 180,000 |  | 21,000 |  | 17,000 | -9.52% |  | +11.76% |
+| PANAMAX | 75,000 |  | 13,700 |  | 75,000 | -1.46% |  | -82.00% |
+| SUPRAMAX | 58,000 |  | 12,750 |  | 58,000 | -1.96% |  | -78.45% |
+| HANDYSIZE | 38,000 |  | 13,000 |  | 38,000 | -3.85% |  | -67.11% |
 
 ### Shipbroking (www.star-asia.com.sg)
 
@@ -347,13 +347,9 @@ The Sub-Continent imported scrap market continued to face downward pressure this
 
 ## Page 18
 
-**Pakistan's scrap market saw moderate activity, with buyers closely monitoring global**
+Pakistan's scrap market saw moderate activity, with buyers closely monitoring global trends and waiting for potentially lower offers. Shredded scrap prices from the UK/Europe stood at US$385-390/ton CFR Qasim. Domestic rebar sales showed slight improvement but remained below expectations, prompting cautious purchasing strategies. Production levels hovered around 30-40%, with rebar prices at PKR 250,000-255,000/ton ex-Karachi and PKR 245,000-248,000/t ex-Punjab. "If Turkish prices drop further, scrap may touch US$370-375/ton," noted a mill official. However, liquidity challenges and sufficient inventories for the next 15 days have slowed activity. A supplier added, "Buying interest exists at US$385-390/ton, but no offers are available at US$380/ton. Prices are likely to stay stable with only four working weeks left this year."
 
-trends and waiting for potentially lower offers. Shredded scrap prices from the UK/Europe stood at US$385-390/ton CFR Qasim. Domestic rebar sales showed slight improvement but remained below expectations, prompting cautious purchasing strategies. Production levels hovered around 30-40%, with rebar prices at PKR 250,000-255,000/ton ex-Karachi and PKR 245,000-248,000/t ex-Punjab. "If Turkish prices drop further, scrap may touch US$370-375/ton," noted a mill official. However, liquidity challenges and sufficient inventories for the next 15 days have slowed activity. A supplier added, "Buying interest exists at US$385-390/ton, but no offers are available at US$380/ton. Prices are likely to stay stable with only four working weeks left this year."
-
-**Bangladesh saw moderate activity with reports of bulk deals, though confirmations were**
-
-still awaited. Transactions included 30,000 t of US-origin HMS (80:20) at US$370/ton CFR Chattogram, shredded scrap at US$375/ton CFR, and bonus scrap at US$380/ton CFR. A separate deal for 25,000-30,000 t of Australian HMS (80:20) was reported at US$370- 375/ton CFR Chattogram. Additionally, a Japanese bulk vessel carrying 10,000 t of shindachi and busheling scrap was booked at US$385-390/ton CFR. The local market remained muted due to limited government projects and ongoing financing difficulties. Rebar prices were quoted at BDT 75,000-80,000/ton ex-Dhaka and BDT 80,000-84,000/ton ex-Chattogram. The Turkish scrap market remained flat, with US-origin bulk HMS (80:20) prices holding steady at US$343/ton CFR. Mills displayed little interest in new purchases, citing weak demand for finished products and competition from lower-priced Chinese billets. Despite a bearish market, some recyclers expressed optimism, suggesting prices might have bottomed. Others pointed to ample dockside supply, with limited movement expected in December due to seasonal factors. While sellers hoped for alternative demand from South Asia, the near-term outlook remains uncertain as mills continue to adopt a wait-and-see approach.
+Bangladesh saw moderate activity with reports of bulk deals, though confirmations were still awaited. Transactions included 30,000 t of US-origin HMS (80:20) at US$370/ton CFR Chattogram, shredded scrap at US$375/ton CFR, and bonus scrap at US$380/ton CFR. A separate deal for 25,000-30,000 t of Australian HMS (80:20) was reported at US$370- 375/ton CFR Chattogram. Additionally, a Japanese bulk vessel carrying 10,000 t of shindachi and busheling scrap was booked at US$385-390/ton CFR. The local market remained muted due to limited government projects and ongoing financing difficulties. Rebar prices were quoted at BDT 75,000-80,000/ton ex-Dhaka and BDT 80,000-84,000/ton ex-Chattogram. The Turkish scrap market remained flat, with US-origin bulk HMS (80:20) prices holding steady at US$343/ton CFR. Mills displayed little interest in new purchases, citing weak demand for finished products and competition from lower-priced Chinese billets. Despite a bearish market, some recyclers expressed optimism, suggesting prices might have bottomed. Others pointed to ample dockside supply, with limited movement expected in December due to seasonal factors. While sellers hoped for alternative demand from South Asia, the near-term outlook remains uncertain as mills continue to adopt a wait-and-see approach.
 
 ### Shipbroking (www.star-asia.com.sg)
 

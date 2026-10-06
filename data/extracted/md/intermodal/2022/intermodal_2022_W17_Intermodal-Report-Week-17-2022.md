@@ -65,7 +65,6 @@ The Baltic Exchange
 
 # Intermodal Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | Current WS points | Current $/day | Previous WS points | Previous $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 47 | -171 | 50 | 2,034 | -108.4% | 2,246 | 52,119 |
@@ -81,14 +80,14 @@ The Baltic Exchange
 |  | 75k | MEG-JAPAN | 237 | 44,305 | 161 | 19,069 | 132.3% | 6,368 | 28,160 |
 | Clean | 55k | MEG-JAPAN | 299 | 45,519 | 211 | 24,306 | 87.3% | 6,539 | 19,809 |
 |  | 37K | UKC-USAC | 303 | 24,647 | 209 | 7,733 | 218.7% | 4,496 | 12,977 |
-## Indicative Period Charters
 
+## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 mos | UACC FALCON | 2009 | 73,427 dwt | $16,000/day | ST Shipping |
-| 6 mos | GULF MISHREF | 2010 | 46,089 dwt | $14,500/day | Trafigura |
-## TC Rates
+| 6 mos | UACC FALCON | 2009 | 73,427 dwt |  |  |
+| 6 mos | GULF MISHREF | 2010 | 46,089 dwt |  |  |
 
+## TC Rates
 | Sector | Tenor | Current | Previous | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 28,000 | 28,000 | 0.0% | 0 | 25,684 | 42,038 |
@@ -103,8 +102,8 @@ The Baltic Exchange
 |  | 52k 3yr TC | 14,000 | 14,000 | 0.0% | 0 | 13,804 | 15,916 |
 | Handy | 36k 1yr TC | 12,000 | 12,000 | 0.0% | 0 | 11,292 | 13,966 |
 |  | 36k 3yr TC | 12,250 | 12,250 | 0.0% | 0 | 13,054 | 14,051 |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Apr-22 avg | Mar-22 avg | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | **300KT DH** | 73.7 | 71.4 | **3.3%** | 69.7 | 71.5 | 72.1 |
@@ -112,8 +111,8 @@ The Baltic Exchange
 | **Aframax** | **110KT DH** | 45.2 | 44.0 | **2.7%** | 38.7 | 38.8 | 38.3 |
 | **LR1** | **75KT DH** | 34.5 | 33.5 | **3.0%** | 31.2 | 30.7 | 31.3 |
 | **MR** | **52KT DH** | 31.0 | 29.0 | **6.9%** | 27.6 | 27.5 | 28.6 |
-### Dirty WS Rates (1-Year Trend)
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 29/APR/21 | 30 | 80 | 100 |
@@ -128,8 +127,8 @@ The Baltic Exchange
 | 29/JAN/22 | 30 | 280 | 100 |
 | 28/FEB/22 | 30 | 290 | 280 |
 | 31/MAR/22 | 30 | 180 | 180 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | DATE | WS points | WS points | WS points | WS points |
@@ -178,13 +177,12 @@ In the Aframax sector we had the sale of the "FSL HONG KONG" (115,940dwt-blt '07
 | BHSI | 1,593 | $28,679 | 1,504 | $27,077 | 89 | 5.9% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 5 to 7 mos | GREEN K-MAX 2 | 2020 | 80,840 dwt | China 25 May/10 June | $30,000/day | cnr |
-| 9 to 12 mos | PAN PRIDE | 2011 | 56,908 dwt | Mumbai 25/26 Apr | $33,000/day | HBC |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 5 to 7 mos | GREEN K-MAX 2 | 2020 | 80,840 dwt |  |  |
+| 9 to 12 mos | PAN PRIDE | 2011 | 56,908 dwt |  |  |
 
 ## TC Rates
-
 | Sector | Tenor | 29/04/2022 | 22/04/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 33,500 | 32,750 | **2.3%** | **750** | 32,684 | 15,361 |
@@ -201,7 +199,6 @@ In the Aframax sector we had the sale of the "FSL HONG KONG" (115,940dwt-blt '07
 |  | **32K 3yr TC** | 14,250 | 14,250 | 0.0% | 0 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 29/Apr/21 | 4000 | 2800 | 2000 | 1500 | 5000 |
@@ -218,7 +215,6 @@ In the Aframax sector we had the sale of the "FSL HONG KONG" (115,940dwt-blt '07
 | 31/Mar/22 | 2700 | 2700 | 2100 | 1500 | 2800 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 29/Apr/21 | 40000 | 25000 | 24000 | 23000 |
@@ -267,7 +263,6 @@ In the Supramax sector we had the sale of the "BULK ORION" (56,155dwt-bl't '11, 
 
 # Intermodal Secondhand Sales
 ## Tankers
-
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | NISSOS KEA | 300,323 | 2022 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Mar-27 | DH | $ 72.75m | Maltese (CBM Financial) |  |
@@ -292,7 +287,6 @@ In the Supramax sector we had the sale of the "BULK ORION" (56,155dwt-bl't '11, 
 
 # Secondhand Sales
 ## Bulk Carriers
-
 | Sector | Size | Bulk Carriers | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | MINERAL HAIKU | 180,242 | 2010 | KOYO MIHARA, Japan | MAN-B&amp;W | Jun-25 |  | $ 34.0m | Greek |  |
@@ -344,7 +338,6 @@ In the Supramax sector we had the sale of the "BULK ORION" (56,155dwt-bl't '11, 
 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
-
 | Sector | Size | 29/04/2022 | 22/04/2022 | ±% | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Bulkers |  |  |  |  |  |  |
@@ -404,7 +397,6 @@ The LNG and Container newbuilding deals continued firmly last week, with seven n
 
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | Markets | 29/04/2022 | 22/04/2022 | ±% | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
@@ -436,7 +428,6 @@ On the demolition front, the activity remained quiet, amidst the end of the Rama
 | 31/Mar/22 | 660 | 660 | 660 | 450 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CHEMTRANS RIGA | 34,810 | 8,917 | 2001 | GUANGZHOU WENCHONG, China | TANKER | $ 635/Ldt | Indian | HKC Compliant Recycling |

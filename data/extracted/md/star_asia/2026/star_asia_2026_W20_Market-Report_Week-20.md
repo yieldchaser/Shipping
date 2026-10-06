@@ -36,27 +36,19 @@ The dry bulk market maintains notable resilience this Friday, even as the Baltic
 
 ## Segment Highlights
 
-**Capesize: Capesize remains firm with T/A earnings surging to US$56,000/day, though other major routes**
+**Capesize:** Capesize remains firm with T/A earnings surging to US$56,000/day, though other major routes have retreated slightly from recent peaks. While West Australia rates showed late-week strength, an increasing count of empty vessels and a cautious futures market suggest a shift downwards. Current demand is bolstered by resilient Chinese steel sales and pre-rainy season bauxite flows, yet high iron ore inventories keep long-term sentiment guarded.
 
-have retreated slightly from recent peaks. While West Australia rates showed late-week strength, an increasing count of empty vessels and a cautious futures market suggest a shift downwards. Current demand is bolstered by resilient Chinese steel sales and pre-rainy season bauxite flows, yet high iron ore inventories keep long-term sentiment guarded.
+**Panamax / Kamsarmax:** Panamax market continues to climb as a surge in North American corn exports, and the peak South American soybean season push F/H earnings to US$29,000. While a backlog of 180 vessels exists in Brazil, robust demand for China-bound grains is offsetting the oversupply, keeping T/A rates firm at US$19,000's.
 
-**Panamax / Kamsarmax: Panamax market continues to climb as a surge in North American corn exports,**
+**Supramax / Ultramax:** Supramax market remains generally firm, supported by stable Indonesian coal volumes that have pushed regional R/V rates up to US$16,550's. In the Atlantic, increased grain demand from the USG toward the Far East has lifted fronthaul earnings to US$23,500, though overall gains are being capped by a surplus of vessels near Europe.
 
-and the peak South American soybean season push F/H earnings to US$29,000. While a backlog of 180 vessels exists in Brazil, robust demand for China-bound grains is offsetting the oversupply, keeping T/A rates firm at US$19,000's.
-
-**Supramax / Ultramax: Supramax market remains generally firm, supported by stable Indonesian coal**
-
-volumes that have pushed regional R/V rates up to US$16,550's. In the Atlantic, increased grain demand from the USG toward the Far East has lifted fronthaul earnings to US$23,500, though overall gains are being capped by a surplus of vessels near Europe.
-
-**Handysize: Handysize market remains stable, with the Inter-Pacific route leading gains at US$15,535 as**
-
-steady cargo demand in Asia keeps tonnage well-balanced. Overall sentiment is cautiously optimistic, with earnings across the CIS and Pacific R/V sectors climbing to US$14,700's and $15,000's respectively despite a stable but quiet USG.
+**Handysize:** Handysize market remains stable, with the Inter-Pacific route leading gains at US$15,535 as steady cargo demand in Asia keeps tonnage well-balanced. Overall sentiment is cautiously optimistic, with earnings across the CIS and Pacific R/V sectors climbing to US$14,700's and $15,000's respectively despite a stable but quiet USG.
 
 ## Page 3
 
 ### Baltic Dry Index (BDI)
 
-**BDI: 3,151** (WoW: +5.81% | YoY: +127.02%)
+**BDI:** 3,151 (WoW: +5.81% | YoY: +127.02%)
 
 | BCI | BPI | BSI | BHSI |
 | :---: | :---: | :---: | :---: |
@@ -218,9 +210,7 @@ ALIAGA |
 
 ## Page 13
 
-**Gaddani, Pakistan: Gadani saw a quiet week as disruptions at local rolling mills placed a temporary**
-
-burden on buyer confidence and slowed general trading activity. Despite these internal operational hurdles, the market's underlying sentiment remains resilient, supported heavily by an ongoing scarcity of imported scrap, HMS, and shredded steel from the Middle East. Moving forward, Pakistani recyclers are expected to maintain a steady but watchful posture until domestic industrial operations stabilise and a more consistent flow of tonnage becomes available.
+**Gaddani, Pakistan:** Gadani saw a quiet week as disruptions at local rolling mills placed a temporary burden on buyer confidence and slowed general trading activity. Despite these internal operational hurdles, the market's underlying sentiment remains resilient, supported heavily by an ongoing scarcity of imported scrap, HMS, and shredded steel from the Middle East. Moving forward, Pakistani recyclers are expected to maintain a steady but watchful posture until domestic industrial operations stabilise and a more consistent flow of tonnage becomes available.
 
 ## Gaddani Anchorage & Beaching - May 2026
 
@@ -228,9 +218,7 @@ burden on buyer confidence and slowed general trading activity. Despite these in
 |---|---|---|---|---|
 | XIONG HAI | 1,659 | TANKER | 05.05.2026 | 07.05.2026 |
 
-**Aliaga, Turkey: Local activity for new tonnage was restricted by a depreciating Turkish Lira, dampening**
-
-overall buying appetite. Turkish yards remain structurally uncompetitive for standard merchant ships, leaving the region's focus almost entirely on the EU-regulated tonnage.
+**Aliaga, Turkey:** Local activity for new tonnage was restricted by a depreciating Turkish Lira, dampening overall buying appetite. Turkish yards remain structurally uncompetitive for standard merchant ships, leaving the region's focus almost entirely on the EU-regulated tonnage.
 
 ## TIDE DATES 2026 | Chattogram: 16-19 May | 31 May-3 June
 
@@ -238,21 +226,13 @@ overall buying appetite. Turkish yards remain structurally uncompetitive for sta
 
 # SUB-CONTNENT & TURKEY SCRAP MARKETS
 
-**India: Imported containerised shredded scrap prices remained steady at US$385/t CFR despite a total**
+**India:** Imported containerised shredded scrap prices remained steady at US$385/t CFR despite a total lack of fresh deals, as the Rupee nearing 96 against the dollar, severely eroded import competitiveness. Buyers have pushed workable levels down to US$375-US$380/t for shredded and US$350-US$355/t for HMS, effectively ignoring European offers currently hovering between US$370/t and US$395/t.
 
-lack of fresh deals, as the Rupee nearing 96 against the dollar, severely eroded import competitiveness. Buyers have pushed workable levels down to US$375-US$380/t for shredded and US$350-US$355/t for HMS, effectively ignoring European offers currently hovering between US$370/t and US$395/t.
+**Pakistan:** The market experienced a slow day-to-day session as importers maintained a cautious posture, with containerised shredded offers heard at US$420-US$425/t CFR Port Qasim against bids of US$415/t. Local scrap prices currently hold between PKR 152,000-156,000/t (US$546-US$560/t), providing a more stable reference point for domestic mills amidst the weak seaborne sentiment.
 
-**Pakistan: The market experienced a slow day-to-day session as importers maintained a cautious**
+**Bangladesh:** Import activity in Chattogram remained sluggish, with UK-origin shredded offers reported at US$415/t CFR and premium Hong Kong-origin PNS quoted up to US$425/t. Despite the quiet import market, domestic rebar prices remain relatively robust, trading around BDT 92,000-93,000/t (US$750-US$758/t), which continues to underpin the regional price floor.
 
-posture, with containerised shredded offers heard at US$420-US$425/t CFR Port Qasim against bids of US$415/t. Local scrap prices currently hold between PKR 152,000-156,000/t (US$546-US$560/t), providing a more stable reference point for domestic mills amidst the weak seaborne sentiment.
-
-**Bangladesh: Import activity in Chattogram remained sluggish, with UK-origin shredded offers reported at**
-
-US$415/t CFR and premium Hong Kong-origin PNS quoted up to US$425/t. Despite the quiet import market, domestic rebar prices remain relatively robust, trading around BDT 92,000-93,000/t (US$750-US$758/t), which continues to underpin the regional price floor.
-
-**Turkey: Deep-sea prices settled near US$413/t CFR as Turkish mills intensified their resistance to higher**
-
-offers in the face of squeezed margins and sluggish rebar demand. Buyers are increasingly pivoting toward domestic billet purchases to secure financing advantages, while Baltic-origin HMS 80:20 offers have emerged at a more competitive US$405/t CFR to West Marmara.
+**Turkey:** Deep-sea prices settled near US$413/t CFR as Turkish mills intensified their resistance to higher offers in the face of squeezed margins and sluggish rebar demand. Buyers are increasingly pivoting toward domestic billet purchases to secure financing advantages, while Baltic-origin HMS 80:20 offers have emerged at a more competitive US$405/t CFR to West Marmara.
 
 ## Page 14
 

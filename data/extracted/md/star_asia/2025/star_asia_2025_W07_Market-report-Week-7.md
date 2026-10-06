@@ -107,13 +107,9 @@ MEG closed with a slight downward trend due to an increasing number of ballastin
 
 Clean:
 
-**LR: MEG showed signs of recovery, with rates closing at WS103 for LR2. This recovery was**
+**LR:** MEG showed signs of recovery, with rates closing at WS103 for LR2. This recovery was driven by an influx of new cargoes. LR1 also saw improvements with TC5 gaining 8 points to WS129
 
-driven by an influx of new cargoes. LR1 also saw improvements with TC5 gaining 8 points to WS129
-
-**MR: The Far Eastern market concluded on a strong note, supported by the supply**
-
-disruptions and sustained demand growth. In the MEG, TC17 to East Africa held at WS190 all week.
+**MR:** The Far Eastern market concluded on a strong note, supported by the supply disruptions and sustained demand growth. In the MEG, TC17 to East Africa held at WS190 all week.
 
 ## Baltic Exchange Tanker Indices
 
@@ -242,27 +238,27 @@ Anchorage
 
 & Beaching Position (FEBRUARY 2025)
 
-| VESSEL NAME | TYPE |  | LDT | ARRIVAL | BEACHING |
-|---|---|---|---|---|---|
-| JABAL ALI 7 | RORO |  | 7,129 | 14.02.2025 | AWAITING |
-| REM | LNG |  | 29,017 | 11.02.2025 | 14.02.2025 |
-| TAI FU NO.3 | REEFER |  | 2,596 | 09.02.2025 | 14.02.2025 |
-| YEONG | LNG CARRIER |  | 28,809 | 07.02.2025 | 13.02.2025 |
-| GRIF | TUG |  | 1,305 | 03.02.2025 | 06.02.205 |
-| ATHINA 3 | TANKER |  | 9,969 | 01.02.2025 | 06.02.2025 |
-| CEANO | RIG |  | 23,277 | 02.02.2025 | 04.02.2025 |
-| NOLAN | TANKER |  | 21,861 | 25.01.2025 | 01.02.2025 |
-| RIALTO | TANKER |  | 9,696 | 16.01.2025 | 02.02.2025 |
-| Bangladesh's ship recycling recyclers adopting an projects and challenging Recyclers have bought set by the environmental guidelines set. Anchorage | market continues increasingly cautious market conditions. sufficient ships ahead authorities to complete & Beaching | Chattogram of | to operate at approach amid Ramadan their yards Position (FEBRUARY | a subdued pace, a lack of new and the 31st March in compliance 2025) | with government deadline with the |
-| VESSEL NAME | TYPE |  | LDT | ARRIVAL | BEACHING |
-| EVER FENG | TANKER |  | 1,744 | 12.02.2025 | AWAITING |
-| EAST PIONEER | BULKER |  | 10,890 | 04.02.2025 | AWAITING |
-| GOLDEN O | BULKER |  | 10,664 | 04.02.2025 | AWAITING |
-| THREE STAR | BULKER |  | 7,627 | 23.01.2025 | AWAITING |
-| OCEAN PEACE | BULKER |  | 10,847 | 29.01.2025 | 13.02.2025 |
-| ALEK | GEN CARGO |  | 3,120 | 28.01.2025 | 05.02.2025 |
-| LEAN | LNG |  | 29,180 | 27.01.2025 | 05.02.2025 |
-| GOU YUAN 9 | BULKER |  | 9,205 | 22.01.2025 | 02.02.2025 |
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| JABAL ALI 7 | RORO | 7,129 | 14.02.2025 | AWAITING |
+| REM | LNG | 29,017 | 11.02.2025 | 14.02.2025 |
+| TAI FU NO.3 | REEFER | 2,596 | 09.02.2025 | 14.02.2025 |
+| YEONG | LNG CARRIER | 28,809 | 07.02.2025 | 13.02.2025 |
+| GRIF | TUG | 1,305 | 03.02.2025 | 06.02.205 |
+| ATHINA 3 | TANKER | 9,969 | 01.02.2025 | 06.02.2025 |
+| CEANO | RIG | 23,277 | 02.02.2025 | 04.02.2025 |
+| NOLAN | TANKER | 21,861 | 25.01.2025 | 01.02.2025 |
+| RIALTO | TANKER | 9,696 | 16.01.2025 | 02.02.2025 |
+| Bangladesh's ship recycling recyclers adopting an projects and challenging Recyclers have bought set by the environmental guidelines set. Anchorage | market continues increasingly cautious market conditions. sufficient ships ahead authorities to complete & Beaching | to operate at approach amid Ramadan their yards Position (FEBRUARY | a subdued pace, a lack of new and the 31st March in compliance 2025) | with government deadline with the |
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| EVER FENG | TANKER | 1,744 | 12.02.2025 | AWAITING |
+| EAST PIONEER | BULKER | 10,890 | 04.02.2025 | AWAITING |
+| GOLDEN O | BULKER | 10,664 | 04.02.2025 | AWAITING |
+| THREE STAR | BULKER | 7,627 | 23.01.2025 | AWAITING |
+| OCEAN PEACE | BULKER | 10,847 | 29.01.2025 | 13.02.2025 |
+| ALEK | GEN CARGO | 3,120 | 28.01.2025 | 05.02.2025 |
+| LEAN | LNG | 29,180 | 27.01.2025 | 05.02.2025 |
+| GOU YUAN 9 | BULKER | 9,205 | 22.01.2025 | 02.02.2025 |
 
 ### Shipbroking (www.star-asia.com.sg)
 

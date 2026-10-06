@@ -50,26 +50,26 @@ Handy market witness the same imbalance in rates like the bigger counterparts fr
 
 # Baltic Exchange Dry Bulk Indices
 
-| INDICES | CURRENT |  | LAST | WEEK | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-|---|---|---|---|---|---|---|---|---|---|
-| BDI | 1,997 |  |  | 1,948 |  | 1,216 | +2.52% |  | +64.23% |
-| BCI | 3,142 |  |  | 2,957 |  | 1,991 | +6.26% |  | +57.81% |
-| BPI | 1,827 |  |  | 1,950 |  | 1,140 | -6.31% |  | +60.26% |
-| BSI | 1,398 |  |  | 1,335 |  | 751 | +4.72% |  | +86.15% |
-| BHSI | 753 |  |  | 711 |  | 456 | +5.91% |  | +65.13% |
-|  |  |  |  | Dry Bulk | (Weekly) | Values |  |  |  |
-| TYPE | DWT | NB |  | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
-| CAPE | 180,000 |  | 76 |  |  | 77 | 57 | 41 | 27 |
-| KAMSARMAX | 82,000 |  | 38 |  |  | 43 | 37 | 29 | 19 |
-| SUPRAMAX | 56,000 |  | 34 |  |  | 42 | 35 | 28 | 16 |
-| HANDY | 38,000 |  | 31 |  |  | 35 | 28 | 21 | 12 |
-| *(amount in USD | million) |  |  |  |  |  |  |  |  |
-|  | Bulker | 12 | months | T/C |  | rates average | (in | USD/day) |  |
-| TYPE | DWT | CURRENT |  | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-| CAPESIZE | 180,000 | 22,500 |  | 23,500 |  | 16,750 | -4.26% |  | +34.33% |
-| PANAMAX | 75,000 | 15,550 |  | 15,750 |  | 12,750 | -1.27% |  | +21.96% |
-| SUPRAMAX | 58,000 | 15,500 |  | 15,500 |  | 11,250 | 0 |  | +37.78% |
-| HANDYSIZE | 38,000 | 14,500 |  | 14,250 |  | 9,750 | +1.75% |  | +48.72% |
+| INDICES | CURRENT | LAST | WEEK | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| BDI | 1,997 |  | 1,948 |  | 1,216 | +2.52% |  | +64.23% |
+| BCI | 3,142 |  | 2,957 |  | 1,991 | +6.26% |  | +57.81% |
+| BPI | 1,827 |  | 1,950 |  | 1,140 | -6.31% |  | +60.26% |
+| BSI | 1,398 |  | 1,335 |  | 751 | +4.72% |  | +86.15% |
+| BHSI | 753 |  | 711 |  | 456 | +5.91% |  | +65.13% |
+|  |  |  | Dry Bulk | (Weekly) | Values |  |  |  |
+| TYPE | DWT |  | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| CAPE | 180,000 | 76 |  |  | 77 | 57 | 41 | 27 |
+| KAMSARMAX | 82,000 | 38 |  |  | 43 | 37 | 29 | 19 |
+| SUPRAMAX | 56,000 | 34 |  |  | 42 | 35 | 28 | 16 |
+| HANDY | 38,000 | 31 |  |  | 35 | 28 | 21 | 12 |
+| *(amount in USD | million) |  |  |  |  |  |  |  |
+|  | Bulker | months | T/C |  | rates average | (in | USD/day) |  |
+| TYPE | DWT |  | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+| CAPESIZE | 180,000 |  | 23,500 |  | 16,750 | -4.26% |  | +34.33% |
+| PANAMAX | 75,000 |  | 15,750 |  | 12,750 | -1.27% |  | +21.96% |
+| SUPRAMAX | 58,000 |  | 15,500 |  | 11,250 | 0 |  | +37.78% |
+| HANDYSIZE | 38,000 |  | 14,250 |  | 9,750 | +1.75% |  | +48.72% |
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -126,19 +126,19 @@ LR: LR2 tankers experienced a turnaround in fortunes last week. The market began
 
 # Tanker 12 months T/C rates average (in USD/day)
 
-| TYPE | DWT |  | CURRENT LAST | WEEK | LAST | YEAR |
-| --- | --- | --- | --- | --- | --- | --- |
-| VLCC | 310,000 |  | 47,500 | 47,500 | 38,500 |  |
-| SUEZMAX | 150,000 |  | 43,500 | 43,500 | 42,000 |  |
-| AFRAMAX | 110,000 |  | 47,750 | 47,750 | 43,500 |  |
-| LR1 | 74,000 |  | 37,000 | 37,000 | 29,250 |  |
-| MR | 47,000 |  | 30,250 | 30,250 Tankers S&P | 26,000 Report |  |
-| VESSEL | NAME | TYPE | DWT | YEAR | BUILT |  |
-|  |  |  |  |  | (MILLION) | USD |
-| ALPINE | CONFIDENCE | LR2 | 107,600 | 2010 | JAPAN |  |
-| AVRA | PATROS | LR1 | 74,998 | 2008 | S. KOREA |  |
-| CALANDRIA |  | MR | 45,950 | 2012 | JAPAN |  |
-| SONGA | CHALLENGE | PROD/ CHEM | 19,993 | 2009 | JAPAN |  |
+| TYPE | DWT | CURRENT LAST | WEEK | LAST | YEAR |
+| --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 47,500 | 47,500 | 38,500 |  |
+| SUEZMAX | 150,000 | 43,500 | 43,500 | 42,000 |  |
+| AFRAMAX | 110,000 | 47,750 | 47,750 | 43,500 |  |
+| LR1 | 74,000 | 37,000 | 37,000 | 29,250 |  |
+| MR | 47,000 | 30,250 | 30,250 Tankers S&P | 26,000 Report |  |
+| VESSEL | NAME | DWT | YEAR | BUILT |  |
+|  |  |  |  | (MILLION) | USD |
+| ALPINE | CONFIDENCE | 107,600 | 2010 | JAPAN |  |
+| AVRA | PATROS | 74,998 | 2008 | S. KOREA |  |
+| CALANDRIA |  | 45,950 | 2012 | JAPAN |  |
+| SONGA | CHALLENGE | 19,993 | 2009 | JAPAN |  |
 
 W-O-W CHANGE Y-O-Y CHANGE 0 +23.38% 0 +3.57% 0 +9.77% 0 +26.50% 0 +16.35%
 
@@ -335,9 +335,7 @@ Sub-Continent and Turkey ferrous scrap markets insight
 
 The Sub-Continent and Turkish ferrous scrap market displayed mixed trends this week. Indian demand declined due to sluggish finished steel sales and a shift towards cheaper raw materials. Pakistani buyers remained inactive post-Eid, further affected by new electricity charges. In Bangladesh, Eid holidays and LC opening issues dampened demand. Meanwhile, the Turkish market remained stable, with potential activity expected to pick up post-Eid. Shredded scrap offers remained unchanged in India but edged up by US$2/t in Pakistan and Bangladesh. US bulk HMS (80:20) offers remained steady dayon-day. The Indian market for imported scrap has experienced a decline in demand, primarily due to weak finished steel sales, mismatched bids and offers, and a preference for more economical raw materials like sponge iron. US and UK/European shredded scrap offers were priced at US$414-417/t CFR Nhava Sheva, while HMS (80:20) offers ranged from US$390-395/t CFR from UK/Europe and West Africa. A notable transaction involved the booking of around 1,000 tonnes of shredded scrap from the US at approximately US$414/t CFR west coast India.
 
-**Pakistani buyers remained mostly inactive this week, influenced by the recent Eid**
-
-celebrations and new electricity charges imposed by the National Electric Power
+Pakistani buyers remained mostly inactive this week, influenced by the recent Eid celebrations and new electricity charges imposed by the National Electric Power
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -353,13 +351,9 @@ Regulatory Authority (NEPRA). Indicative offers for shredded scrap from the UK a
 
 # Commodities
 
-**Copper Surges on Rate Cut Prospects and Supply Concerns. Copper prices have**
+Copper Surges on Rate Cut Prospects and Supply Concerns. Copper prices have continued their upward trajectory, buoyed by the prospect of interest rate cuts and ongoing supply-side issues. Negotiations between Chilean copper miner Antofagasta and Chinese smelters for significantly lower processing and refining fees for the second half of 2024 highlight the tightness in the copper concentrate market and overcapacity in China's smelting industry. Despite this, a sustained rally in copper prices may be challenging in the short term. Historically, declining real interest rates have spurred strong rallies in commodity prices, but the Federal Reserve's cautious stance amid persistent inflation could temper this effect until a rate-cutting cycle begins. Additionally, currency fluctuations may act as a headwind. Our cyclical growth and cross-asset volatility signals suggest a neutral economic environment, likely resulting in a steady but firm USD. Fundamentally, China's commodity demand remains uncertain due to ongoing structural issues, compounded by an evolving policy landscape focused on the energy transition. Consequently, any supply-driven price increases could be limited by the uncertain demand outlook.
 
-continued their upward trajectory, buoyed by the prospect of interest rate cuts and ongoing supply-side issues. Negotiations between Chilean copper miner Antofagasta and Chinese smelters for significantly lower processing and refining fees for the second half of 2024 highlight the tightness in the copper concentrate market and overcapacity in China's smelting industry. Despite this, a sustained rally in copper prices may be challenging in the short term. Historically, declining real interest rates have spurred strong rallies in commodity prices, but the Federal Reserve's cautious stance amid persistent inflation could temper this effect until a rate-cutting cycle begins. Additionally, currency fluctuations may act as a headwind. Our cyclical growth and cross-asset volatility signals suggest a neutral economic environment, likely resulting in a steady but firm USD. Fundamentally, China's commodity demand remains uncertain due to ongoing structural issues, compounded by an evolving policy landscape focused on the energy transition. Consequently, any supply-driven price increases could be limited by the uncertain demand outlook.
-
-**Iron Ore Gains on Optimism in Chinese Steel Demand. Iron ore prices have risen on the**
-
-back of anticipated recovery in Chinese steel demand. Last month, Beijing introduced a comprehensive real estate rescue package, with major cities like Shanghai, Shenzhen, and Guangzhou implementing significant easing measures for homebuyers. Crude steel production saw a 2.7% year-on-year increase in May, although it remains down 1.4% year-on-year for the January-May period. Reports of steel output restrictions have also provided support for both steel and iron ore prices.
+Iron Ore Gains on Optimism in Chinese Steel Demand. Iron ore prices have risen on the back of anticipated recovery in Chinese steel demand. Last month, Beijing introduced a comprehensive real estate rescue package, with major cities like Shanghai, Shenzhen, and Guangzhou implementing significant easing measures for homebuyers. Crude steel production saw a 2.7% year-on-year increase in May, although it remains down 1.4% year-on-year for the January-May period. Reports of steel output restrictions have also provided support for both steel and iron ore prices.
 
 Iron Ore
 

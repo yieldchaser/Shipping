@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 By <u>Fotis Kanatas, Research Analyst</u>
 
@@ -21,7 +19,6 @@ Looking at the fundamentals, it is clear that the supply of LNG carriers will in
 
 # Intermodal Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 26/01/24 WS points | 26/01/24 $/day | 19/01/24 WS points | 19/01/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 59 | 36,119 | 66 | 45,779 | -21.1% | 39,466 | 20,330 |
@@ -39,8 +36,8 @@ Looking at the fundamentals, it is clear that the supply of LNG carriers will in
 | Dirty | 55K | UKC-USG | 165 | 22,921 | 162 | 22,727 | **0.9%** | 27,274 | 19,982 |
 |  | 55K | MED-USG | 160 | 21,200 | 160 | 21,652 | -2.1% | 27,060 | 21,231 |
 |  | 50k | CARIBS-USG | 333 | 64,957 | 316 | 61,259 | **6.0%** | 46,194 | 40,364 |
-## TC Rates
 
+## TC Rates
 | Sector | Tenor | 26/01/24 | 19/01/24 | ±% | Diff | 2023 | 2022 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 51,000 | 50,000 | 2.0% | 1000 | 48,601 | 34,683 |
@@ -55,14 +52,14 @@ Looking at the fundamentals, it is clear that the supply of LNG carriers will in
 |  | 52k 3yr TC | 26,000 | 26,000 | 0.0% | 0 | 25,152 | 16,426 |
 | Handy | 36k 1yr TC | 26,000 | 26,000 | 0.0% | 0 | 25,760 | 18,601 |
 |  | 36k 3yr TC | 18,000 | 18,000 | 0.0% | 0 | 18,200 | 14,585 |
-## Indicative Period Charters
 
+## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 24 mos | HORIZON ARMONIA | 2008 | 50,326 dwt | $28,000/day |  |
-| 10 mos | CELSIUS PORTSMOUTH | 2021 | 50,299 dwt | $30,000/day |  |
-### Dirty WS Rates (1-Year Trend)
+| 24 mos | HORIZON ARMONIA | 2008 | 50,326 dwt |  |  |
+| 10 mos | CELSIUS PORTSMOUTH | 2021 | 50,299 dwt |  |  |
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 26/Jan/23 | 100 | 150 | 180 |
@@ -78,8 +75,8 @@ Looking at the fundamentals, it is clear that the supply of LNG carriers will in
 | 26/Nov/23 | 5 | 50 | 120 |
 | 26/Dec/23 | 5 | 40 | 110 |
 | 26/Jan/24 | 350 | 120 | 390 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 26/Jan/23 | 150 | 180 | 200 | 220 |
@@ -95,8 +92,8 @@ Looking at the fundamentals, it is clear that the supply of LNG carriers will in
 | 26/Nov/23 | 50 | 80 | 170 | 120 |
 | 26/Dec/23 | 40 | 70 | 160 | 110 |
 | 26/Jan/24 | 350 | 380 | 360 | 370 |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Jan-24 avg | Dec-23 avg | ±% | 2023 | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300KT DH | 106.3 | 104.0 | **2.2%** | 99.5 | 80.2 | 69.7 |
@@ -129,9 +126,9 @@ Suezmax T/C earnings averaged \$55,051/day, down - \$15,273/day w-o-w. On the Af
 | BHSI | 596 | $10,735 | 594 | $10,692 | **2** | **0.4%** | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 8 to 10 mos | CL SINGAPORE | 2016 | 81,323 dwt | dely CJK 22 Jan redel worldwide | $15,000/day | CJ Intl |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 8 to 10 mos | CL SINGAPORE | 2016 | 81,323 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | 26/01/24 | 19/01/24 | ±% | Diff | 2023 | 2022 |
@@ -146,7 +143,6 @@ Suezmax T/C earnings averaged \$55,051/day, down - \$15,273/day w-o-w. On the Af
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 26/Jan/23 | 1000 | 1000 | 800 | 600 | 1000 |
@@ -164,7 +160,6 @@ Suezmax T/C earnings averaged \$55,051/day, down - \$15,273/day w-o-w. On the Af
 | 26/Jan/24 | 2000 | 1500 | 1200 | 1000 | 1800 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 26/Jan/23 | 10000 | 8000 | 7000 | 6000 |
@@ -231,7 +226,6 @@ Supramax 10TC averaged \$ 11,518/day while the Handysize 7TC averaged \$ 10,730/
 | HANDY | RATTANA NAREE | 28,442 | 2002 | KANDA, Japan | Mitsubishi | Mar-27 | 4 X 30,5t CRANES | $ 6.5m | undisclosed | BWTS fitted |
 
 ## Secondhand Sales
-
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUB PMAX | GH BORA | 2,702 | 2009 | HDW AG-KIEL, Germany | MAN-B\&amp;W | Mar-24 |  | $ 12.5m | German | BWTS fitted |
@@ -301,7 +295,6 @@ The ship recycling industry has faced difficulties in key hubs such as in India,
 | USD/TRY | 30.26 | 30.20 | 0.20% | 30.65 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | XIN XIANG AN | 22,160 | 5,113 | 1992 | SAIKI, Japan | BC | $ 490/Ldt | Bangladeshi |

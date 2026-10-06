@@ -75,11 +75,10 @@ Shanghai 200122 China
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | NISSOS KOUFONISSI | 2021 | 157,447 dwt | $23,000/day | Unipec |
-| 12 mos | AL BETROLEYA | 2015 | 49,999 dwt | $14,500/day | Saudi Aramco |
+| 12 mos | NISSOS KOUFONISSI | 2021 | 157,447 dwt |  |  |
+| 12 mos | AL BETROLEYA | 2015 | 49,999 dwt |  |  |
 
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 21/Jan/21 | 80 | 80 | 80 |
@@ -97,7 +96,6 @@ Shanghai 200122 China
 | 21/Jan/22 | 80 | 80 | 90 |
 
 ### Clean WS Rates (1-Year Trend)
-
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 21/Jan/21 | 100 | 100 | 100 | 100 |
@@ -175,13 +173,12 @@ In the MR2 sector we had sale of the "STI MAJESTIC" (47,499dwt-blt '19, Vietnam)
 | BHSI | 1,103 | $19,859 | 1,192 | $21,464 | -89 | -7.5% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 6 to 9 mos | PELAGOS | 2008 | 83,617 dwt | CJK 20 January | $22,250/day | Speed Logistics |
-| 12 mos | LOCH LONG | 2013 | 81,896 dwt | Tsuneishi 25/30 January | $24,500/day | NS United |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 6 to 9 mos | PELAGOS | 2008 | 83,617 dwt |  |  |
+| 12 mos | LOCH LONG | 2013 | 81,896 dwt |  |  |
 
 ## TC Rates
-
 | Sector | Tenor | 21/01/2022 | 14/01/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 20,250 | 21,250 | -4.7% | -1,000 | 32,684 | 15,361 |
@@ -198,7 +195,6 @@ In the MR2 sector we had sale of the "STI MAJESTIC" (47,499dwt-blt '19, Vietnam)
 |  | **32K 3yr TC** | 13,000 | 13,000 | 0.0% | 0 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 21/Jan/21 | 2500 | 2000 | 1800 | 1500 | 2800 |
@@ -215,7 +211,6 @@ In the MR2 sector we had sale of the "STI MAJESTIC" (47,499dwt-blt '19, Vietnam)
 | 21/Jan/22 | 1700 | 2500 | 2300 | 1800 | 1600 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 21/Jan/21 | 20000 | 18000 | 17000 | 16000 |
@@ -262,7 +257,6 @@ In the Supramax sector we had the sale of the "WEST WIND" (56,557dwt-blt '08, Ja
 
 # Intermodal Secondhand Sales
 ## Tankers
-
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUEZ | KAVERI SPIRIT | 159,100 | 2004 | HYUNDAI ULSAN, S. Korea | B\&amp;W | Jan-24 | DH | $ 15.8m | undisclosed |  |
@@ -294,7 +288,6 @@ In the Supramax sector we had the sale of the "WEST WIND" (56,557dwt-blt '08, Ja
 
 # Intermodal Secondhand Sales
 ## Bulk Carriers
-
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | NMAX | BAOSTEEL ELEVATION | 206,312 | 2007 | IMABARI, Japan | MAN-B\&amp;W | Apr-22 |  | rgn $ 18.0m | Greek |  |
@@ -347,7 +340,6 @@ In the Supramax sector we had the sale of the "WEST WIND" (56,557dwt-blt '08, Ja
 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
-
 | Sector | Size | 21/01/2022 | 14/01/2022 | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -404,8 +396,8 @@ The newbuilding market continues to see healthy ordering activity, with containe
 | 21/Nov/21 | 62 | 35 | 36 | 30 |
 | 21/Dec/21 | 62 | 35 | 36 | 30 |
 | 21/Jan/22 | 62 | 35 | 36 | 30 |
-## Newbuilding Orders
 
+## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2+2 | Tanker | 50,000 dwt | Hyundai Vietnam, Vietnam | 2023 | Singaporean (Asiatic Lloyd) | $ 39.0m | option for dual fuel, rumours that units were originally ordered by Empire Chemical Tankers |
@@ -422,7 +414,6 @@ The newbuilding market continues to see healthy ordering activity, with containe
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | 21/01/2022 | 14/01/2022 | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** | Bangladesh | 610 | 605 | 0.8% | 542 | 348 |
@@ -467,8 +458,8 @@ Offered scrap levels across the Indian-subcontinent markets increased for anothe
 | 21/Nov/21 | 600 | 570 | 550 | 310 |
 | 21/Dec/21 | 590 | 560 | 540 | 320 |
 | 21/Jan/22 | 605 | 570 | 555 | 330 |
-## Demolition Sales
 
+## Demolition Sales
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | UMUROA | 119,990 | 21,776 | 1981 | MITSUBISHI, Japan | FPSO | $ 620/Ldt | undisclosed | as-is Batam |

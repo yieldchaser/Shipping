@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 By Fotis Kanatas, Research Analyst
 
@@ -17,7 +15,6 @@ It is clear that competition for crude oil between China and the United States w
 
 # Intermodal Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 29/09/23 WS points | 29/09/23 $/day | 22/09/23 WS points | 22/09/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 51 | 24,578 | 52 | 26,548 | -7.4% | 20,330 | 2,246 |
@@ -38,12 +35,12 @@ It is clear that competition for crude oil between China and the United States w
 |  | 50k | CARIBS-USG | 135 | 11,458 | 131 | 10,162 | **12.8%** | 40,364 | 8,548 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 12 mos | GRAND ACE 11 | 2008 | 46,195 dwt | DELEAST SEP/23 | $25,000/day | PANocean |
-| 12 mos | NAVIG8 PROSPERITY | 2019 | 109,997 dwt | DELEAST OCT/23 | $40,000/day | Vitol |
-### Dirty WS Rates (1-Year Trend)
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 12 mos | GRAND ACE 11 | 2008 | 46,195 dwt |  |  |
+| 12 mos | NAVIG8 PROSPERITY | 2019 | 109,997 dwt |  |  |
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 29/Sep/22 | 150 | 180 | 180 |
@@ -58,8 +55,8 @@ It is clear that competition for crude oil between China and the United States w
 | 30/Jun/23 | 40 | 140 | 100 |
 | 31/Jul/23 | 40 | 130 | 100 |
 | 31/Aug/23 | 40 | 120 | 100 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 29/Sep/22 | 180 | 200 | 300 | 320 |
@@ -126,9 +123,9 @@ Suezmax T/C earnings averaged \$9,819/day, up + \$92/day w-o-w. On the Aframax f
 | BHSI | 679 | $12,218 | 670 | $12,068 | **9** | **1.2%** | 1,181 | 1,424 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 5 mos | PRINCESS MARGO | 2015 | 63,342 dwt | dely Chittagong prompt redel worldwide | $17,000/day | Oldendorff |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 5 mos | PRINCESS MARGO | 2015 | 63,342 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | 29/09/23 | 22/09/23 | ±% | Diff | 2022 | 2021 |
@@ -143,7 +140,6 @@ Suezmax T/C earnings averaged \$9,819/day, up + \$92/day w-o-w. On the Aframax f
 |  | **32K 3yr TC** | 9,250 | 9,250 | 0.0% | 0 | 12,322 | 11,825 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 29/Sep/22 | 2200 | 1800 | 1200 | 1000 | 2100 |
@@ -160,7 +156,6 @@ Suezmax T/C earnings averaged \$9,819/day, up + \$92/day w-o-w. On the Aframax f
 | 31/Aug/23 | 2500 | 1800 | 1600 | 900 | 2400 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 29/Sep/22 | 18000 | 17000 | 14000 | 12000 |
@@ -223,13 +218,11 @@ Supramax 10TC averaged \$ 14,482/day, up +0.41% w-o-w, while the Handysize 7TC a
 | Small | SAGITTA | 13,464 | 2008 | Jiangsu Yangzi-Mitsui, China | MAN-B\&W | Feb-28 | 2 X 35t CRANES | $ 8.0m | undisclosed | BWTS fitted |
 
 ## Secondhand Sales
-
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | JOSEPH SCHULTE | 9,403 | 2013 | SHANGHAI JAINGNAN CHANGXIN, China | MAN-B\&W | Nov-23 |  | $ 55.0m | Swiss Based (MSC Shipping) |
 
 ## Secondhand Sales
-
 | Type | Name | Dwt | Yard | M/E | SS due | Cbm | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | FRITZI N | 58,448 | 2009 | HYUNDAI, S. Korea | MAN-B\&W | Mar-24 | 80,676 | $ 63.0m | undisclosed |
@@ -296,7 +289,6 @@ The market seems to be taking a break, with few deals concluded and the healthie
 | USD/TRY | 27.41 | 27.17 | 0.87% | 27.41 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | YA TAI 1 | 71,259 | 10,279 | 1995 | NAMURA, Japan | BC | $ 475/Ldt | Indian |  |

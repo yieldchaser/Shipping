@@ -1,5 +1,3 @@
-# **Weekly Market Report**
-
 ## Market Insight
 <u>By Yiannis Parganas, Head of Research Department</u>
 
@@ -21,12 +19,12 @@ The question is whether the looming uncertainty, combined with rising prices, mi
 
 | No Fresh Period Charters | No Fresh Period Charters | No Fresh Period Charters | No Fresh Period Charters | No Fresh Period Charters | No Fresh Period Charters | No Fresh Period Charters | No Fresh Period Charters | No Fresh Period Charters | No Fresh Period Charters |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-## Spot Rates
 
+## Spot Rates
 | Sector | Size | Routes | 02/08/24 WS points | 02/08/24 $/day | 26/07/24 WS points | 26/07/24 $/day | $/day ±% | Year1 $/day | Year2 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  | 02/08/24 | 26/07/24 | $/day±% | 2023$/day | 2022$/day |
-| Vessel |  |  |  |  | Routes | WS points | $/day | WS points | $/day |
+|  |  |  |  |  |  |  | 02/08/24 | 26/07/24 | $/day±% |
+| Vessel |  |  |  |  |  |  | Routes | WS points | $/day |
 | VLCC | 265k | MEG-SPORE | 0 | 0 | 56 | 34,938 |  | 39,466 | 20,330 |
 |  | 260k | WAF-CHINA | 47 | 23,288 | 55 | 32,423 |  | 38,773 | 19,980 |
 | Suezmax | 130k | MED-MED | 90 | 35,266 | 100 | 44,319 |  | 62,964 | 51,634 |
@@ -42,8 +40,8 @@ The question is whether the looming uncertainty, combined with rising prices, mi
 | Dirty | 55K | UKC-USG | 130 | 13,086 | 130 | 13,016 |  | 27,274 | 19,982 |
 |  | 55K | MED-USG | 130 | 13,580 | 130 | 13,453 |  | 27,060 | 21,231 |
 |  | 50k | ARA-UKC | 190 | 22,381 | 209 | 27,791 |  | 46,194 | 40,364 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 2/Aug/23 | 150 | 180 | 180 | 200 |
@@ -90,8 +88,8 @@ The question is whether the looming uncertainty, combined with rising prices, mi
 |  | 52k 3yr TC | 28,250 | 28,250 | 0.0% | 0 | 25,152 | 16,426 |
 | Handy | 36k 1yr TC | 28,000 | 28,000 | 0.0% | 0 | 25,760 | 18,601 |
 |  | 36k 3yr TC | 23,000 | 19,500 | **17.9%** | **3500** | 18,200 | 14,585 |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Aug-24 avg | Jul-24 avg | ±% | 2023 | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300KT DH | 114.0 | 114.0 | 0.0% | 99.5 | 80.2 | 69.7 |
@@ -124,10 +122,10 @@ In the clean market, LR2 freight rates on the TC1 (MEG/Japan) route rose slightl
 | BHSI | 759 | $13,660 | 759 | $13,670 | 0 | -0.1% | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 11/13 mos | RB JORDANA | 2016 | 81,301 dwt | dely Dangjin 3/5 Aug | $16,750/day | Classic Maritime |
-| 4/7 mos | CAPETAN COSTAS S | 2012 | 81,542 dwt | dely Kashima 27 Jul | $16,000/day | Louis Dreyfus |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 11/13 mos | RB JORDANA | 2016 | 81,301 dwt |  |  |
+| 4/7 mos | CAPETAN COSTAS S | 2012 | 81,542 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | 02/08/24 | 26/07/24 | ±% | Diff | 2023 | 2022 |
@@ -142,7 +140,6 @@ In the clean market, LR2 freight rates on the TC1 (MEG/Japan) route rose slightl
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 2/Aug/23 | 1500 | 1200 | 1000 | 800 | 1400 |
@@ -160,7 +157,6 @@ In the clean market, LR2 freight rates on the TC1 (MEG/Japan) route rose slightl
 | 2/Aug/24 | 2200 | 1350 | 1050 | 850 | 1550 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 2/Aug/23 | 15000 | 14000 | 12000 | 10000 |
@@ -200,7 +196,6 @@ Supramax 10TC averaged \$ 14,998/day down -1.36% w-o-w, while the Handysize 7TC 
 ## Secondhand Sales
 
 ## Secondhand Sales
-
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | J19 | LINCOLN PARK | 19,801 | 2,012 | KITANIHON, Japan | Mitsubishi | Jun-27 | DH | $ 26.75m | Chinese | StSt |
@@ -253,7 +248,6 @@ This week's shipbuilding orders showed a mix of vessel types, indicating robust 
 
 The ship recycling sector remained under pressure this week, with high freight rates and geopolitical issues limiting the availability of vessels for scrapping. In India, the steel market sent mixed signals, with slight price corrections seen in local steel plate and scrap materials. Despite these adjustments, demand remains weak, further affected by the ongoing monsoon season, which continues to dampen market activity. In Alang, ship recyclers remain cautiously optimistic and are offering slightly better prices for the limited tonnage available, although significant improvements are not expected until economic conditions improve. Bangladesh faced significant challenges as political unrest due to protests against government policies affected the recycling industry. Demand in the local steel market remained sluggish, leading to price reductions for ship scrap and complicating business operations. In addition, efforts to enforce compliance with green recycling practices have delayed the import of end-of-life vessels, keeping the market under pressure. In Pakistan, the market remained stable but quiet, with little change in steel prices. The recent interest rate cut by the central bank and an IMF loan agreement have brought some economic stability, but these developments have not yet stimulated market activity. The monsoon season and new import taxes have also slowed construction activity, affecting steel demand. Turkey has seen minimal market activity, with stable steel prices but weak scrap demand. While inflation is showing signs of stabilising, the continued weakness of the local currency against the US dollar remains a challenge. The market remains largely inactive and no major changes are expected in the near future. Overall, the outlook for the ship recycling market remains cautious. The supply of new vessels for recycling is expected to remain limited in the near term due to ongoing geopolitical and economic uncertainties. Stakeholders are closely monitoring political developments, particularly in India and Bangladesh, which could potentially affect market dynamics.
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | 02/08/24 | 26/07/24 | ±% | YTD High | YTD Low | 2023 | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |  |  |
@@ -266,8 +260,8 @@ The ship recycling sector remained under pressure this week, with high freight r
 | India | 500 | 500 | 0.0% | 520 | 480 | 522 | 583 | 508 |
 | Pakistan | 490 | 490 | 0.0% | 510 | 490 | 515 | 587 | 526 |
 | Turkey | 360 | 360 | 0.0% | 350 | 330 | 315 | 304 | 276 |
-## Currencies
 
+## Currencies
 | Markets | Current | Previous | ±% | YTD High |
 | --- | --- | --- | --- | --- |
 | USD/BDT | 116.44 | 117.45 | -0.9% | 117.51 |
@@ -276,7 +270,6 @@ The ship recycling sector remained under pressure this week, with high freight r
 | USD/TRY | 33.10 | 32.95 | 0.5% | 33.12 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | MSC ANNAMARIA | 31,205 | 8,805 | 1987 | HDW AG - Kiel - GEU, Germany | CONTAINER | $ 535.0m | Indian |

@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 By Chara Georgousi, Research Analyst
 
@@ -23,7 +21,6 @@ In conclusion, Brazil's increasing reliance on Russian diesel imports has reshap
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 08/09/23 WS points | 08/09/23 $/day | 01/09/23 WS points | 01/09/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 38 | 8,257 | 39 | 11,072 | -25.4% | 20,330 | 2,246 |
@@ -43,7 +40,7 @@ In conclusion, Brazil's increasing reliance on Russian diesel imports has reshap
 |  | 55K | MED-USG | 140 | 18,993 | 140 | 19,478 | -2.5% | 21,231 | 4,818 |
 |  | 50k | CARIBS-USG | 137 | 12,944 | 138 | 14,054 | -7.9% | 40,364 | 8,548 |
 
-### 1-Year Forward WS Rates - Dirty
+### Dirty WS Rates (1-Year Trend)
 
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
@@ -62,7 +59,8 @@ In conclusion, Brazil's increasing reliance on Russian diesel imports has reshap
 | 8/Jul/23 |  |  |  |
 | 8/Aug/23 |  |  |  |
 | 8/Sep/23 |  |  |  |
-### 1-Year Forward WS Rates - Clean
+
+### Clean WS Rates (1-Year Trend)
 
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
@@ -152,7 +150,6 @@ On the Aframax front, T/C earnings averaged \$8,911/day, down - \$2,788/day w-o-
 | 32K 3yr TC |  | 9,250 | 9,250 | 0.0% | 0 | 12,322 | 11,825 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 8/Sep/22 | 2200 | 1800 | 1500 | 900 | 2000 |
@@ -170,7 +167,6 @@ On the Aframax front, T/C earnings averaged \$8,911/day, down - \$2,788/day w-o-
 | 8/Sep/23 | 1300 | 1200 | 1200 | 850 | 1200 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 8/Sep/22 | 18000 | 16000 | 14000 | 12000 |
@@ -299,7 +295,6 @@ The recycling market continues to rise as it did last week, although not all des
 | USD/TRY | 26.84 | 26.73 | *0.4%* | 27.28 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | WINNING JOY | 172,964 | 21,392 | 1999 | NKK, | BC | $ 505/Ldt | undisclosed | as is Singapore, incl 250 tons ROB |

@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 **By Yiannis Parganas, Head of Research Department**
 
@@ -19,7 +17,6 @@ Pipeline alternatives are limited. Bypass capacity through Saudi Arabia and the 
 
 ## Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 27/02/2026 WS points | 27/02/2026 $/day | 20/02/2026 WS points | 20/02/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 265k | MEG-SPORE | 224 | 222,925 | 168 | 161,176 | **38.3%** | 60,510 | 37,255 |
@@ -42,7 +39,6 @@ Pipeline alternatives are limited. Bypass capacity through Saudi Arabia and the 
 
 No Fresh Fixtures to Report
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 27/Feb/25 | 60 | 120 | 150 |
@@ -58,8 +54,8 @@ No Fresh Fixtures to Report
 | 27/Dec/25 | 120 | 220 | 300 |
 | 27/Jan/26 | 130 | 230 | 350 |
 | 27/Feb/26 | 140 | 240 | 320 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 27/Feb/25 | 120 | 140 | 160 | 180 |
@@ -129,8 +125,8 @@ Aframaxes recorded a steady week with mixed regional performance, with TCE edgin
 ### Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | JY London | 2020 | 81,118 dwt | $17,500/day | Cobelfret |
-| 4 to 6 mos | Shi Dai 9 | 2012 | 75,423 dwt | $17,000/day | Norden |
+| 12 mos | JY London | 2020 | 81,118 dwt |  |  |
+| 4 to 6 mos | Shi Dai 9 | 2012 | 75,423 dwt |  |  |
 
 ### TC Rates
 | Sector | Tenor | 27/02/2026 | 20/02/2026 | ±% | Diff | 2025 | 2024 |
@@ -145,7 +141,6 @@ Aframaxes recorded a steady week with mixed regional performance, with TCE edgin
 |  | **32K 3yr TC** | 11,000 | 11,000 | 0.0% | 0 | 10,394 | 9,740 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 27/Feb/25 | 2000 | 1500 | 1000 | 800 | 1800 |
@@ -163,7 +158,6 @@ Aframaxes recorded a steady week with mixed regional performance, with TCE edgin
 | 27/Feb/26 | 3200 | 1800 | 1300 | 1100 | 2400 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 27/Feb/25 | 15000 | 12000 | 10000 | 8000 |

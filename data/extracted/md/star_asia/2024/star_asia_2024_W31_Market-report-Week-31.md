@@ -50,26 +50,26 @@ across saw discounts owning to excess tonnage in the region. Inter Pacific close
 
 ## Baltic Exchange Dry Bulk Indices
 
-| INDICES | CURRENT |  | LAST | WEEK | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-|---|---|---|---|---|---|---|---|---|---|
-| BDI | 1,675 |  |  | 1,834 |  | 1,128 | -8.67% |  | +48.49% |
-| BCI | 2,327 |  |  | 2,696 |  | 1,818 | -13.69% |  | +28.00% |
-| BPI | 1,705 |  |  | 1,785 |  | 1,112 | -4.48% |  | +53.33% |
-| BSI | 1,342 |  |  | 1,387 |  | 695 | -3.24% |  | +93.09% |
-| BHSI | 759 |  |  | 760 |  | 391 | -0.13% |  | +94.12% |
-|  |  |  |  | Dry Bulk | (Weekly) | Values |  |  |  |
-| TYPE | DWT | NB |  | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
-| CAPE | 180,000 |  | 76 |  |  | 77 | 64 | 45 | 29 |
-| KAMSARMAX | 82,000 |  | 37 |  |  | 43 | 38 | 29 | 19 |
-| SUPRAMAX | 56,000 |  | 34 |  |  | 42 | 36 | 28 | 16 |
-| HANDY | 38,000 |  | 30 |  |  | 35 | 28 | 21 | 12 |
-| *(amount in USD | million) |  |  |  |  |  |  |  |  |
-|  | Bulker | 12 | months | T/C |  | rates average | (in | USD/day) |  |
-| TYPE | DWT | CURRENT |  | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-| CAPESIZE | 180,000 | 22,000 |  | 22,000 |  | 15,000 | 0 |  | +46.67% |
-| PANAMAX | 75,000 | 15,700 |  | 15,750 |  | 10,750 | -0.32% |  | +46.05% |
-| SUPRAMAX | 58,000 | 15,000 |  | 15,000 |  | 10,500 | 0 |  | +42.86% |
-| HANDYSIZE | 38,000 | 15,000 |  | 15,000 |  | 9,750 | 0 |  | +53.85% |
+| INDICES | CURRENT | LAST | WEEK | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| BDI | 1,675 |  | 1,834 |  | 1,128 | -8.67% |  | +48.49% |
+| BCI | 2,327 |  | 2,696 |  | 1,818 | -13.69% |  | +28.00% |
+| BPI | 1,705 |  | 1,785 |  | 1,112 | -4.48% |  | +53.33% |
+| BSI | 1,342 |  | 1,387 |  | 695 | -3.24% |  | +93.09% |
+| BHSI | 759 |  | 760 |  | 391 | -0.13% |  | +94.12% |
+|  |  |  | Dry Bulk | (Weekly) | Values |  |  |  |
+| TYPE | DWT |  | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| CAPE | 180,000 | 76 |  |  | 77 | 64 | 45 | 29 |
+| KAMSARMAX | 82,000 | 37 |  |  | 43 | 38 | 29 | 19 |
+| SUPRAMAX | 56,000 | 34 |  |  | 42 | 36 | 28 | 16 |
+| HANDY | 38,000 | 30 |  |  | 35 | 28 | 21 | 12 |
+| *(amount in USD | million) |  |  |  |  |  |  |  |
+|  | Bulker | months | T/C |  | rates average | (in | USD/day) |  |
+| TYPE | DWT |  | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+| CAPESIZE | 180,000 |  | 22,000 |  | 15,000 | 0 |  | +46.67% |
+| PANAMAX | 75,000 |  | 15,750 |  | 10,750 | -0.32% |  | +46.05% |
+| SUPRAMAX | 58,000 |  | 15,000 |  | 10,500 | 0 |  | +42.86% |
+| HANDYSIZE | 38,000 |  | 15,000 |  | 9,750 | 0 |  | +53.85% |
 
 ### Shipbroking (www.star-asia.com.sg)
 
@@ -131,19 +131,19 @@ LR: The LR2 market, particularly on Middle East/Japan routes, continues to grapp
 
 ## Tanker 12 months T/C rates average (in USD/day)
 
-| TYPE | DWT |  | CURRENT LAST | WEEK | LAST | YEAR W-O-W | CHANGE Y-O-Y CHANGE |
-|---|---|---|---|---|---|---|---|
-| VLCC | 310,000 |  | 45,750 | 47,500 | 38,000 | -3.68% | +20.39% |
-| SUEZMAX | 150,000 |  | 40,000 | 41,000 | 40,000 | -2.44% | 0 |
-| AFRAMAX | 110,000 |  | 43,750 | 45,000 | 40,000 | -2.78% | +9.38% |
-| LR1 | 74,000 |  | 37,000 | 37,000 | 29,250 | 0 | +26.50% |
-| MR | 47,000 |  | 29,250 | 30,000 Tankers S&P | 24,000 Report | -2.50% PRICE | +21.88% COMMENTS / |
-| VESSEL | NAME | TYPE | DWT | YEAR | BUILT |  |  |
-|  |  |  |  |  | (MILLION) | USD | BUYERS |
-| JAG | PRANAV | MR | 51,383 | 2005 | S. KOREA | 17.5 | UNDISCLOSED |
-| GREEN SEA |  | MR | 50,927 | 2014 | S. KOREA | 38.0 | LVM |
-| SUGAR |  | MR | 42,721 | 2002 | S. KOREA | 14.0 | NIGERIAN BUYERS |
-| BRAVELY | SINCERITY | PROD/ CHEM | 14,445 | 2010 | CHINA | 10.7 | UNDISCLOSED |
+| TYPE | DWT | CURRENT LAST | WEEK | LAST | YEAR W-O-W | CHANGE Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 45,750 | 47,500 | 38,000 | -3.68% | +20.39% |
+| SUEZMAX | 150,000 | 40,000 | 41,000 | 40,000 | -2.44% | 0 |
+| AFRAMAX | 110,000 | 43,750 | 45,000 | 40,000 | -2.78% | +9.38% |
+| LR1 | 74,000 | 37,000 | 37,000 | 29,250 | 0 | +26.50% |
+| MR | 47,000 | 29,250 | 30,000 Tankers S&P | 24,000 Report | -2.50% PRICE | +21.88% COMMENTS / |
+| VESSEL | NAME | DWT | YEAR | BUILT |  |  |
+|  |  |  |  | (MILLION) | USD | BUYERS |
+| JAG | PRANAV | 51,383 | 2005 | S. KOREA | 17.5 | UNDISCLOSED |
+| GREEN SEA |  | 50,927 | 2014 | S. KOREA | 38.0 | LVM |
+| SUGAR |  | 42,721 | 2002 | S. KOREA | 14.0 | NIGERIAN BUYERS |
+| BRAVELY | SINCERITY | 14,445 | 2010 | CHINA | 10.7 | UNDISCLOSED |
 
 ### Shipbroking (www.star-asia.com.sg)
 
@@ -324,9 +324,7 @@ The Sub-Continent and Turkey scrap steel market remains beset by multiple challe
 
 Indicative offers for shredded scrap from the US and UK/Europe hovered around US$410- 420/ton CFR Nhava Sheva, while buyers aimed for US$400-405/ton CFR. Offers for HMS (80:20) were at US$390-395/ton CFR, with buyers looking for US$385-390/ton CFR. In Pakistan, demand for imported scrap remains constrained by rising electricity and gas costs, making it difficult for rebar producers to pass on these expenses to finished steel products. Consequently, scrap consumption remains limited. Indicative offers for shredded scrap from the UK/Europe were assessed at US$425-430/ton CFR Qasim.
 
-**Bangladeshi buyers increasingly favour short transit materials from nearby regions such**
-
-as Australia, Hong Kong, New Zealand, and the UAE, avoiding UK/Europe scrap due to high freight rates. Indicative offers for shredded scrap from the UK/Europe were assessed at US$427-430/ton CFR Chattogram, while HMS (80:20) stood at US$405-410/ton CFR. In Turkey, deep-sea imported ferrous scrap prices have softened as European and Baltic recyclers struggle to attract demand from Turkish mills. Offers for US-origin bulk HMS (80:20) scraps were at US$386/ton CFR, down US$2/mt from the previous day. Indicative tradable values for EU-origin HMS (80:20) were around US$380/ton CFR, but offers at US$383/ton CFR struggled to find buyers. Market sentiment remains negative, with expectations of further price corrections amid declining billet prices. However, mills are expected to resume purchases soon.
+Bangladeshi buyers increasingly favour short transit materials from nearby regions such as Australia, Hong Kong, New Zealand, and the UAE, avoiding UK/Europe scrap due to high freight rates. Indicative offers for shredded scrap from the UK/Europe were assessed at US$427-430/ton CFR Chattogram, while HMS (80:20) stood at US$405-410/ton CFR. In Turkey, deep-sea imported ferrous scrap prices have softened as European and Baltic recyclers struggle to attract demand from Turkish mills. Offers for US-origin bulk HMS (80:20) scraps were at US$386/ton CFR, down US$2/mt from the previous day. Indicative tradable values for EU-origin HMS (80:20) were around US$380/ton CFR, but offers at US$383/ton CFR struggled to find buyers. Market sentiment remains negative, with expectations of further price corrections amid declining billet prices. However, mills are expected to resume purchases soon.
 
 ## HMS 1/2 & Tangshan Billet
 

@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 By Yiannis Parganas, Head of Research Department
 
@@ -29,7 +27,6 @@ Given the current market dynamics, which indicate a sustained trend of Ultramax 
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 06/09/24 WS points | 06/09/24 $/day | 30/08/24 WS points | 30/08/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 51 | 28,289 | 45 | 22,588 | **25.2%** | 39,466 | 20,330 |
@@ -47,15 +44,14 @@ Given the current market dynamics, which indicate a sustained trend of Ultramax 
 |  | 55K | UKC-USG | 120 | 11,546 | 120 | 10,710 | **7.8%** | 27,274 | 19,982 |
 |  | 55K | MED-USG | 102 | 11,414 | 120 | 10,812 | **5.6%** | 27,060 | 21,231 |
 |  | 50k | ARA-UKC | 156 | 13,548 | 155 | 13,459 | **0.7%** | 46,194 | 40,364 |
-## Indicative Period Charters
 
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 12 mos | MRC NAZENDE | 2009 | 49,900 dwt | DEL WEST AUG/24 | $30,750/day | PMI |
-| 12 mos | SEA CUMULUS | 2016 | 39,999 dwt | DEL WEST AUG/24 | $30,500/day | Repsol |
+## Indicative Period Charters
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 12 mos | MRC NAZENDE | 2009 | 49,900 dwt |  |  |
+| 12 mos | SEA CUMULUS | 2016 | 39,999 dwt |  |  |
 
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 6/Sep/23 | 50 | 100 | 50 |
@@ -71,8 +67,8 @@ Given the current market dynamics, which indicate a sustained trend of Ultramax 
 | 6/Jul/24 | 50 | 100 | 200 |
 | 6/Aug/24 | 50 | 100 | 150 |
 | 6/Sep/24 | 50 | 100 | 100 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 6/Sep/23 | 150 | 150 | 250 | 300 |
@@ -143,7 +139,7 @@ On the clean market, LR2 earnings were on the rise after increased activity agai
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
 | 10/12 mos | DSI PEGASUS | 2015 | 60,508 dwt |  |  |
-| min 1 Jun 2025/max 1 Aug 2025 |  |  | Cargill | $15,250/day | ANDREAS K |
+| min 1 Jun 2025/max 1 Aug 2025 |  |  | Cargill |  |  |
 
 ## TC Rates
 | Sector | Tenor | 06/09/24 | 30/08/24 | ±% | Diff | 2023 | 2022 |
@@ -158,7 +154,6 @@ On the clean market, LR2 earnings were on the rise after increased activity agai
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 6/5/23 | 2500 | 1200 | 1000 | 800 | 1000 |
@@ -254,7 +249,6 @@ On the clean market, LR2 earnings were on the rise after increased activity agai
 | 9/5/24 | -5500 | -6700 | -7000 | -7300 | -6700 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 6/5/23 | 10000 | 12000 | 14000 | 10000 |
@@ -372,7 +366,6 @@ Supramax 10TC averaged \$ 14,059/day down -2.62% w-o-w, while the Handysize 7TC 
 # Secondhand Sales
 
 ## Indicative Newbuilding Prices ($ Million)
-
 | CLASS | VESSEL | DWT | YEAR | FLAG | OWNER | ETA | CRANES | PRICE | MARKET |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | NEWCASTLEMAX | MINERAL CHARLIE | 205,236 | 2012 | HHIC, Philippines | MAN-B\&W | Feb-27 |  | $ 39.0m | Chinese |
@@ -450,7 +443,6 @@ The ship demolition market continues to face significant challenges with subdued
 | USD/TRY | 33.10 | 32.95 | 0.5% | 33.12 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | GUNDOGDU 1 | 3,499 | 1,047 | 1984 | HIDRODINAMIK TUZLA, Turkey | GENERAL CARGO | undisclosed | Turkish |

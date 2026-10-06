@@ -65,7 +65,6 @@ The Baltic Exchange
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 13/01/23 WS points | 13/01/23 $/day | 06/01/23 WS points | 06/01/23 $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 265k | MEG-SPORE | 45 | 21,267 | 53 | 33,952 | -37.4% | 2,246 | 52,119 |
@@ -84,14 +83,14 @@ The Baltic Exchange
 | **Dirty** | 55K | UKC-USG | 180 | 33,770 | 180 | 34,352 | -1.7% | 2,822 | 12,120 |
 |  | 55K | MED-USG | 182 | 34,115 | 182 | 34,766 | -1.9% | 4,818 | 12,965 |
 |  | 50k | CARIBS-USG | 304 | 63,620 | 314 | 68,125 | -6.6% | 8,548 | 17,651 |
-## Indicative Period Charters
 
+## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 24 mos | ALPINE LEGEND | 2010 | 50,254 dwt | $28,000/day | Asyad Shipping |
-| 12 mos | CHEM LYRA | 2009 | 17,055 dwt | $24,500/day | ENI |
-## TC Rates
+| 24 mos | ALPINE LEGEND | 2010 | 50,254 dwt |  |  |
+| 12 mos | CHEM LYRA | 2009 | 17,055 dwt |  |  |
 
+## TC Rates
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | $/day | 13/01/23 | 06/01/23 | ±% | Diff | 2021 | 2020 |  |
@@ -107,8 +106,8 @@ The Baltic Exchange
 |  | **52k 3yr TC** | 24,000 | 24,000 | 0.0% | 0 | 13,804 | 15,916 |
 | **Handy** | **36k 1yr TC** | 29,000 | 29,000 | 0.0% | 0 | 11,292 | 13,966 |
 |  | **36k 3yr TC** | 18,000 | 18,000 | 0.0% | 0 | 13,054 | 14,051 |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Current avg | Previous avg | ±% | Year1 | Year2 | Year3 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Vessel 5yrs old | Jan-23 avg | Dec-22 avg | ±% | 2021 | 2020 | 2019 |
@@ -117,8 +116,8 @@ The Baltic Exchange
 | **Aframax** | **110KT DH** | 61.8 | 58.6 | **5.4%** | 38.7 | 38.8 | 38.3 |
 | **LR1** | **75KT DH** | 47.0 | 46.3 | **1.5%** | 31.2 | 30.7 | 31.3 |
 | **MR** | **52KT DH** | 41.0 | 40.6 | **1.0%** | 27.6 | 27.5 | 28.6 |
-### Dirty WS Rates (1-Year Trend)
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 13/Jan/22 | 80 | 120 | 90 |
@@ -134,8 +133,8 @@ The Baltic Exchange
 | 13/Nov/22 | 50 | 620 | 350 |
 | 13/Dec/22 | 50 | 180 | 180 |
 | 13/Jan/23 | 50 | 180 | 180 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 13/Jan/22 | 100 | 100 | 150 | 150 |
@@ -184,13 +183,12 @@ In the Aframax sector we had the sale of the "SEAMAGIC" (116,905dwt-bl't '07, S.
 | BHSI | 500 | $8,996 | 552 | $9,931 | -52 | -9.4% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 6 to 8 mos | ITG UMING | 2020 | 81,994 dwt | Yosu 10 Jan | $16,000/day | Cobelfret |
-| 12 mos | XING SHUN HAI | 2018 | 81,824 dwt | - | $16,500/day | Chiwan 11 |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 6 to 8 mos | ITG UMING | 2020 | 81,994 dwt |  |  |
+| 12 mos | XING SHUN HAI | 2018 | 81,824 dwt |  |  |
 
 ## TC Rates
-
 | Sector | Tenor | 13/01/23 | 06/01/23 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 1yr TC** | 17,000 | 17,250 | -1.4% | -250 | 26,392 | 14,394 |
@@ -203,7 +201,6 @@ In the Aframax sector we had the sale of the "SEAMAGIC" (116,905dwt-bl't '07, S.
 |  | **32K 3yr TC** | 9,000 | 9,250 | -2.7% | -250 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 13/Jan/22 | 2200 | 2400 | 2300 | 1600 | 1800 |
@@ -221,7 +218,6 @@ In the Aframax sector we had the sale of the "SEAMAGIC" (116,905dwt-bl't '07, S.
 | 13/Jan/23 | 2100 | 2200 | 2100 | 1500 | 1800 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 13/Jan/22 | 15000 | 20000 | 18000 | 16000 |
@@ -270,7 +266,6 @@ In the Supramax sector we had the sale of the "ASTRA PERSEUS" (58,518dwt-blt '12
 
 # Intermodal Secondhand Sales
 ## Tankers
-
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | FPMC C HONOR | 298,078 | 2008 | UNIVERSAL, Japan | MAN-B\&amp;W | Nov-23 | DH | region $ 55.5m | UAE based | BWTS, Scrubber fitted |
@@ -287,8 +282,8 @@ In the Supramax sector we had the sale of the "ASTRA PERSEUS" (58,518dwt-blt '12
 | SMALL | GIANCARLO D | 19,801 | 2016 | NINGBO XINLE, China | MAN-B\&amp;W | Mar-26 | DH | $ 28.0m | Chinese | BWTS fitted, StSt |
 | SMALL | NQ ALPINIA | 19,800 | 2016 | NINGBO XINLE, China | MAN-B\&amp;W | Jul-26 | DH | $ 28.0m |  |  |
 | SMALL | DREGGEN | 19,994 | 2008 | FUKUOKA, Japan | MAN-B\&amp;W | Aug-26 | DH | $ 19.5m | Chinese (Dinheng Shipping) | StSt |
-## Secondhand Sales
 
+## Secondhand Sales
 | Gas/LPG/LNG Type | Gas/LPG/LNG Name | Gas/LPG/LNG Dwt | Gas/LPG/LNG Built | Gas/LPG/LNG Yard | Gas/LPG/LNG M/E | Gas/LPG/LNG SS due | Gas/LPG/LNG Cbm | Gas/LPG/LNG Price | Gas/LPG/LNG Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LNG | PUTERI INTAN SATU | 75,849 | 2002 | MITSUBISHI, Japan | Mitsubishi |  | 134,770 | $ 30.0m | South East Asian |
@@ -303,12 +298,10 @@ In the Supramax sector we had the sale of the "ASTRA PERSEUS" (58,518dwt-blt '12
 # Intermodal Secondhand Sales
 
 ## Secondhand Sales
-
 | Bulk Carriers Size POST PMAX POST PMAX UMAX UMAX UMAX UMAX SUPRA HANDY UMAX SUPRA SUPRA | Bulk Carriers Name AM LIBERIA DYNA GLOBE ULTRA INTEGRITY ULTRA GUJARAT ULTRA SASKATOON ULTRA DWARKA ULTRA LANIGAN ULTRA FITZ ROY PETIT CHAM ASTRA PERSEUS KITAKAMI | Bulk Carriers Dwt 98,730 99,347 61,181 61,671 61,470 61,395 58,032 37,918 63,526 58,518 55,668 | Bulk Carriers Built 2013 2006 2016 2012 2012 2012 2012 2016 2013 2012 2009 | Bulk Carriers Yard TSUNEISHI ZHOUSHAN, China IMABARI, Japan TADOTSU, Japan OSHIMA, Japan SHIN KASADO, Japan SHIN KASADO, Japan TSUNEISHI CEBU, Philippines Imabari Shbldg - Marugame CHENGXI, China DSME SHANDONG, China MITSUI, Japan | Bulk Carriers M/E MAN-B\&amp;W MAN-B\&amp;W MAN-B\&amp;W MAN-B\&amp;W MAN-B\&amp;W MAN-B\&amp;W MAN-B\&amp;W MAN-B\&amp;W MAN-B\&amp;W MAN-B\&amp;W MAN-B\&amp;W | Bulk Carriers SS due Jan-23 Jun-26 Feb-26 Mar-27 Jan-27 May-27 Aug-23 Jan-26 Jun-23 Oct-27 Mar-27 | Bulk Carriers Gear4 X 30,7t CRANES 4 X 30t CRANES 4 X 30,5t CRANES 4 X 30,7t CRANES 4 X 30t CRANES 4 X 30,5t CRANES 4 X 30t CRANES 4 X 35t CRANES 4 X 30t CRANES | Bulk Carriers Price $ 20.5m $ 15.5m$ 124.65m$ 19.7m $ 16.55m low $ 15.0m | Bulk Carriers Buyers Greek IndonesianHong Kong based (Pacific Basin)Greek undisclosed Indonesian | Bulk Carriers Comments BWTS fitted, bss SS/DD passed BWTS fittedbasis dely within February/July 2023BWTS fitted, Eco, dely April 2023 upon completion of TC BWTS fitted, Tier II BWTS fitted |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 ## Secondhand Sales
-
 | Size FEEDER FEEDER FEEDER FEEDER FEEDER | Name AMALIA C HAMMONIA BEROLINA X-PRESS BRAHMAPUTRA ACACIA WA ACACIA MING | Teu 2,452 2,546 1,162 704 704 | Built 1998 2007 1998 2006 2010 | Yard THYSSEN NORDSEEWERKE, Germany JIANGSU YANGZIJIANG, China SZCZECINSKA, Poland YANGFAN, China YANGFAN, China | M/E Mitsubishi MAN-B\&amp;W B\&amp;W MaK MAN | SS due Mar-23 Mar-27 Jun-23 Dec-26 Aug-27 | Gear 3 X 40t CRANES 3 X 45t CRANES 3 X 40t CRANES | Price region$ 6.0m $ 22.25m $ 4.0m $ 9.0m $ 10.0m | Buyers Chinese undisclosed Turkish Turkish Russian (FESCO) | CommentsTC to Maersk until end Q1 2025 at US$ 32,750 p/d |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
@@ -318,7 +311,6 @@ In the Supramax sector we had the sale of the "ASTRA PERSEUS" (58,518dwt-blt '12
 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
-
 | Sector | Size | 13-Jan-23 | 6-Jan-23 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -371,8 +363,8 @@ Last week, the overall activity in the shipbuilding sector was healthy, with mul
 | 13/Nov/22 | 60 | 32 | 32 | 28 |
 | 13/Dec/22 | 60 | 31 | 31 | 28 |
 | 13/Jan/23 | 60 | 30 | 30 | 28 |
-## Newbuilding Orders
 
+## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | Bulker | 81,600 dwt | Tsuneishi Group, Japan | 2025-2026 | Japanese (Mitsui &amp; Co) | undisclosed | methanol duel-fuelled, against T/C to Cargill |
@@ -389,7 +381,6 @@ Last week, the overall activity in the shipbuilding sector was healthy, with mul
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | 13/01/23 | 06/01/23 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |

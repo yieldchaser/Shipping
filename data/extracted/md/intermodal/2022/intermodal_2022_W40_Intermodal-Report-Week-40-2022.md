@@ -72,10 +72,9 @@ Shanghai 200122 China
 
 # Intermodal Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | Current WS points | Current $/day | Previous WS points | Previous $/day | $/day ±% | Year1 $/day | Year2 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Vessel |  |  |  |  | Routes | 07-Oct-22 |  | 30-Sep-22 |  |
+| Vessel |  |  |  |  |  |  | Routes | 07-Oct-22 |  |
 | VLCC | 265k | MEG-SPORE | 83 | 43,278 | 86 | 50,157 | -13.7% | 2,246 | 52,119 |
 |  | 280k | MEG-USG | 47 | 5,248 | 48 | 11,198 | -53.1% | -15,306 | 41,904 |
 |  | 260k | WAF-CHINA | 84 | 43,708 | 86 | 49,941 | -12.5% | 3,125 | 50,446 |
@@ -89,13 +88,13 @@ Shanghai 200122 China
 |  | 75k | MEG-JAPAN | 169 | 25,217 | 185 | 32,745 | -23.0% | 6,368 | 28,160 |
 | Clean | 55k | MEG-JAPAN | 171 | 17,672 | 191 | 24,090 | -26.6% | 6,539 | 19,809 |
 |  | 37K | UKC-USAC | 248 | 20,080 | 259 | 23,039 | -12.8% | 4,496 | 12,977 |
-## Indicative Period Charters
 
+## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 18 mos | JASMIN JOY | 2009 | 104,604 dwt | $38,500/day | Navig8 |
-## TC Rates
+| 18 mos | JASMIN JOY | 2009 | 104,604 dwt |  |  |
 
+## TC Rates
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | $/day | 07-Oct-22 | 30-Sep-22 | ±% | Diff | 2021 | 2020 |
@@ -111,8 +110,8 @@ Shanghai 200122 China
 |  | **52k 3yr TC** | 20,000 | 18,000 | **11.1%** | **2000** | 13,804 | 15,916 |
 | Handy | **36k 1yr TC** | 22,500 | 22,500 | 0.0% | 0 | 11,292 | 13,966 |
 |  | **36k 3yr TC** | 16,000 | 16,000 | 0.0% | 0 | 13,054 | 14,051 |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Oct-22 avg | Sep-22 avg | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | **300KT DH** | 87.0 | 86.2 | 0.9% | 69.7 | 71.5 | 72.1 |
@@ -122,7 +121,6 @@ Shanghai 200122 China
 | **MR** | **52KT DH** | 39.5 | 39.5 | 0.0% | 27.6 | 27.5 | 28.6 |
 
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 7/Oct/21 | 30 | 100 | 140 |
@@ -140,7 +138,6 @@ Shanghai 200122 China
 | 7/Oct/22 | 70 | 180 | 200 |
 
 ### Clean WS Rates (1-Year Trend)
-
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 7/Oct/21 | 120 | 140 | 160 | 140 |
@@ -187,13 +184,12 @@ In the MR2 sector we had the sale of the "AURORA EXPRESS" (45,770dwt-blt '02, Ja
 | BHSI | 1,033 | $18,588 | 1,009 | $18,159 | 24 | 2.4% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 4 to 6 mos | GRAND STAR | 2013 | 81,602 dwt | China mid Oct | $16,250/day | ASL Bulk |
-| 4 to 6 mos | HESSAH | 2020 | 80,670 dwt | Haldia 5 Oct | $14,550/day | ST Shipping |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 4 to 6 mos | GRAND STAR | 2013 | 81,602 dwt |  |  |
+| 4 to 6 mos | HESSAH | 2020 | 80,670 dwt |  |  |
 
 ## TC Rates
-
 | Sector | Tenor | 07/10/2022 | 30/09/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 17,000 | 14,500 | **17.2%** | **2,500** | 32,684 | 15,361 |
@@ -210,7 +206,6 @@ In the MR2 sector we had the sale of the "AURORA EXPRESS" (45,770dwt-blt '02, Ja
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 7/Oct/21 | 3,500 | 3,200 | 3,400 | 1,800 | 10,500 |
@@ -228,7 +223,6 @@ In the MR2 sector we had the sale of the "AURORA EXPRESS" (45,770dwt-blt '02, Ja
 | 7/Oct/22 | 2,300 | 2,100 | 2,200 | 1,600 | 2,000 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 7/Oct/21 | 35000 | 34000 | 33000 | 32000 |
@@ -280,15 +274,14 @@ In the Handysize sector we had the sale of the "HIMAWARI K" (37,786dwt-bl't '15,
 
 # Secondhand Sales
 ## Tankers
-
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | ROWAN | 299,988 | 2001 | KAWASAKI, Japan | B\&amp;W | Nov-25 | DH | rgn $ 28.5m | Chinese | Non IACS |
 | LR2 | ALBURAQ | 112,521 | 2008 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Oct-23 | DH | $ 70.0m | undisclosed |  |
 | LR2 | SEA LEGEND | 112,511 | 2008 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Dec-23 | DH |  |  |  |
 | MR2 | AURORA EXPRESS | 45,770 | 2002 | MINAMI-NIPPON, Japan | MAN-B\&amp;W | Nov-22 | DH | $ 10.0m | Indian (Seven Islands) | epoxy coated |
-## Bulk Carriers
 
+## Bulk Carriers
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | AGRI KINSALE | 77,171 | 2009 | OSHIMA, Japan | MAN-B\&amp;W | Sep-24 |  | $ 32.0m | Chinese | BWTS fitted |
@@ -318,7 +311,6 @@ In the Handysize sector we had the sale of the "HIMAWARI K" (37,786dwt-bl't '15,
 | FEEDER | AS LAETITIA | 957 | 2007 | YANGFAN, China | MAN | Oct-22 | 2 X 45t CRANES | $ 16.0m | U.S. based |  |
 
 ## Secondhand Sales
-
 | Gas/LPG/LNG Type | Gas/LPG/LNG Name | Gas/LPG/LNG Dwt | Gas/LPG/LNG Built | Gas/LPG/LNG Yard | Gas/LPG/LNG M/E | Gas/LPG/LNG SS due | Gas/LPG/LNG Cbm | Gas/LPG/LNG Price | Gas/LPG/LNG Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | GAS TIGERS | 54,675 | 2016 | HYUNDAI, S. Korea | MAN-B\&amp;W | May-26 | 82,461 | $ 63.0m | Greek (SwissChemGas) | eco, basis forward delivery |
@@ -337,7 +329,6 @@ In the Handysize sector we had the sale of the "HIMAWARI K" (37,786dwt-bl't '15,
 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
-
 | Sector | Size | 07/10/2022 | 30/09/2022 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -394,8 +385,8 @@ Ordering activity, albeit firm during last week, has begun to reshape in order t
 | 7/Aug/22 | 62 | 33 | 33 | 30 |
 | 7/Sep/22 | 62 | 32 | 33 | 30 |
 | 7/Oct/22 | 62 | 32 | 33 | 30 |
-## Newbuilding Orders
 
+## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 6 | Container | 17,000 teu | Hyundai Hi, South Korea | 2025 | Danish (Maersk) | undisclosed | methanol fuelled |
@@ -410,7 +401,6 @@ Ordering activity, albeit firm during last week, has begun to reshape in order t
 
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | Markets | 07/10/2022 | 30/09/2022 | ±% | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
@@ -441,8 +431,8 @@ The demolition activity was for another week under pressure due to a volatile st
 | 7/Aug/22 | 600 | 560 | 570 | 260 |
 | 7/Sep/22 | 610 | 570 | 580 | 260 |
 | 7/Oct/22 | 610 | 570 | 580 | 260 |
-## Indicative Demolition Prices ($/ldt)
 
+## Indicative Demolition Prices ($/ldt)
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/ldt | Demolition Sales Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | FALCON SPIRIT | 124,472 | 22,595 | 1986 | DSME, South Korea | OFFSHORE | undisclosed | Indian |

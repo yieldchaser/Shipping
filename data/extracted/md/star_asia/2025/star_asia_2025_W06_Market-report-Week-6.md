@@ -106,13 +106,9 @@ MEG market saw a slight decline in rates as the Lunar holidays dampened charteri
 
 Clean:
 
-**LR: LR2 in the MEG saw freight rates decline to levels not seen since before US sanctions**
+**LR:** LR2 in the MEG saw freight rates decline to levels not seen since before US sanctions on Russian crude oil, as demand stagnated across both Eastern and European routes. TC1 MEG/Japan fell 22.5 points to WS102. LR1 on the other hand, did not lose as much as the bigger counterpart with TC5 slipping slightly to WS120.
 
-on Russian crude oil, as demand stagnated across both Eastern and European routes. TC1 MEG/Japan fell 22.5 points to WS102. LR1 on the other hand, did not lose as much as the bigger counterpart with TC5 slipping slightly to WS120.
-
-**MR: In the Far East market, rates closed with a slightly softer tone as demand still picking**
-
-up after the holiday period, reflecting the typical seasonal market dynamics of this major Asian holiday. In the MEG, rates picked up slightly with TC17 closing at WS190.
+**MR:** In the Far East market, rates closed with a slightly softer tone as demand still picking up after the holiday period, reflecting the typical seasonal market dynamics of this major Asian holiday. In the MEG, rates picked up slightly with TC17 closing at WS190.
 
 ## Baltic Exchange Tanker Indices
 
@@ -296,13 +292,9 @@ The Sub-Continent ferrous scrap markets continued to face weak demand, currency 
 
 India's imported scrap market remained under pressure as the weaker rupee pushed up import costs, dampening buying interest. Shredded scrap offers stood at US$370- 375/ton CFR Nhava Sheva, though bid-offer mismatches limited deal closures. HMS (80:20) from the UK/Europe and West Africa was heard at US$345-355/ton CFR, but buyers remained cautious amid tight liquidity and sluggish steel demand. Suppliers preferred Pakistan as a higher-paying market, while strong US domestic scrap demand kept export availability tight. Additionally, soaring freight rates from the US further complicated India's import scenario.
 
-**Pakistan: Market Stagnant Amid Construction Slowdown**
+**Pakistan:** Market Stagnant Amid Construction Slowdown Pakistan's imported scrap market remained sluggish due to weak demand from the construction sector and ongoing cash flow constraints. UK-origin shredded was offered at US$380-385/ton CFR Qasim, with deals closing between US$375-382/ton, while UAEorigin HMS hovered at US$365/ton CFR. The slowdown in government infrastructure projects and subdued steel demand kept buyers on the sidelines. However, traders anticipate a potential market recovery by mid- February, as mills are expected to restock ahead of Ramadan, starting in March.
 
-Pakistan's imported scrap market remained sluggish due to weak demand from the construction sector and ongoing cash flow constraints. UK-origin shredded was offered at US$380-385/ton CFR Qasim, with deals closing between US$375-382/ton, while UAEorigin HMS hovered at US$365/ton CFR. The slowdown in government infrastructure projects and subdued steel demand kept buyers on the sidelines. However, traders anticipate a potential market recovery by mid- February, as mills are expected to restock ahead of Ramadan, starting in March.
-
-**Bangladesh: Weak Demand Persists Despite Ramadan Restocking Hopes**
-
-Bangladesh's imported scrap market remained muted as falling rebar prices and weak construction demand kept mills cautious. Major Chattogram mills reduced rebar rates by
+**Bangladesh:** Weak Demand Persists Despite Ramadan Restocking Hopes Bangladesh's imported scrap market remained muted as falling rebar prices and weak construction demand kept mills cautious. Major Chattogram mills reduced rebar rates by
 
 ### Shipbroking (www.star-asia.com.sg)
 
@@ -310,9 +302,7 @@ Bangladesh's imported scrap market remained muted as falling rebar prices and we
 
 BDT 2,000 to BDT 86,000-88,000/ton, while Dhaka mills were seen offering at BDT 82,000- 84,000/ton. Although some restocking activity ahead of Ramadan may provide temporary support, overall market sentiment remains uncertain.
 
-**Turkey: Market Sees Marginal Gains as Deals Close Higher**
-
-The Turkish scrap market remained rangebound but saw deals closing slightly higher compared to last week. Prices rose from US$340-342.5/ton CFR to US$347-353/ton CFR, reflecting marginal improvements in demand. With US recyclers maintaining firm pricing and suppliers holding out for better margins, the market remains closely watched for further movements in the coming weeks.
+**Turkey:** Market Sees Marginal Gains as Deals Close Higher The Turkish scrap market remained rangebound but saw deals closing slightly higher compared to last week. Prices rose from US$340-342.5/ton CFR to US$347-353/ton CFR, reflecting marginal improvements in demand. With US recyclers maintaining firm pricing and suppliers holding out for better margins, the market remains closely watched for further movements in the coming weeks.
 
 ## HMS 1/2 & Tangshan Billet
 
@@ -328,9 +318,7 @@ weakening dollar that enhanced the appeal of metal investments for international
 
 The outcomes of these tariffs extend beyond immediate price fluctuations, particularly in the aluminum sector where Canada's dominance in U.S. imports (69% in 2023) suggests significant market disruption ahead. Analysts anticipate heightened volatility in U.S. commodity exchanges as markets grapple with Trump's commitment to universal tariffs. Meanwhile, Morgan Stanley experts suggest that critical minerals classification might offer some respite, potentially qualifying metals like aluminium, nickel, and zinc for the lower 10% tariff rate applied to energy resources. While the energy transition and European economic revival could bolster metals demand, the spectre of prolonged higher interest rates and potential export restrictions on critical minerals looms large.
 
-**Iron ore prices edged higher on Thursday this week, supported by a softer US dollar and**
-
-growing market speculation over potential supply disruptions in Australia. A weaker US dollar has bolstered demand for iron ore, making the commodity more attractive to international buyers using their local currencies. Additionally, supply concerns in Australia-a major exporter-have added upward pressure on prices. Industry sources indicate that logistical challenges and operational disruptions due to recent tropical cyclones could impact shipments, though specific details remain unclear. Analysts expect continued price volatility in the short term. While market sentiment in China has improved following the holiday period, clear signs of strong downstream demand are yet to emerge. Traders remain cautious, watching for further developments in both macroeconomic conditions and supply chain dynamics.
+Iron ore prices edged higher on Thursday this week, supported by a softer US dollar and growing market speculation over potential supply disruptions in Australia. A weaker US dollar has bolstered demand for iron ore, making the commodity more attractive to international buyers using their local currencies. Additionally, supply concerns in Australia-a major exporter-have added upward pressure on prices. Industry sources indicate that logistical challenges and operational disruptions due to recent tropical cyclones could impact shipments, though specific details remain unclear. Analysts expect continued price volatility in the short term. While market sentiment in China has improved following the holiday period, clear signs of strong downstream demand are yet to emerge. Traders remain cautious, watching for further developments in both macroeconomic conditions and supply chain dynamics.
 
 Iron Ore
 

@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 <mark>By Yiannis Parganas, Head of Research Department</mark>
 
@@ -19,7 +17,6 @@ Looking ahead, according to the USDA report, Brazil's next marketing year is pro
 
 ## Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 11/10/24 WS points | 11/10/24 $/day | 04/10/24 WS points | 04/10/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 57 | 35,055 | 60 | 39,683 | -11.7% | 39,466 | 20,330 |
@@ -39,12 +36,12 @@ Looking ahead, according to the USDA report, Brazil's next marketing year is pro
 |  | 50k | ARA-UKC | 138 | 8,736 | 110 | 1,151 | **659.0%** | 46,194 | 40,364 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 12 mos | LAKE STARS | 2020 | 113,848 dwt | DEL EAST OCT/24 | $41,500/day | Cosco |
-| 18 mos | STI GLADIATOR | 2017 | 109,999 dwt | DEL WEST NOV/24 | $41,000/day | Signal |
-### Dirty WS Rates (1-Year Trend)
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 12 mos | LAKE STARS | 2020 | 113,848 dwt |  |  |
+| 18 mos | STI GLADIATOR | 2017 | 109,999 dwt |  |  |
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 11/Oct/23 | 50 | 120 | 280 |
@@ -60,8 +57,8 @@ Looking ahead, according to the USDA report, Brazil's next marketing year is pro
 | 11/Aug/24 | 60 | 90 | 230 |
 | 11/Sep/24 | 60 | 90 | 220 |
 | 11/Oct/24 | 60 | 80 | 210 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 11/Oct/23 | 150 | 140 | 160 | 170 |
@@ -131,10 +128,10 @@ On MRs, the Atlantic Triangulation TCE (MA2TCE) was stable at \$28,946/day +0.8%
 | BHSI | 718 | $12,925 | 712 | $12,824 | **6** | **0.8%** | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 12 mos | TRANSCENDEN WISDOM | 2021 | 82,561 dwt | dely Cai Mep 13/14 Oct redel worldwide | $16,500/day | Norden |
-| 4/7 months | CRYSTAL OCEAN | 2021 | 82,555 dwt | dely South China 1/5 Oct redel worldwide | $18,000/day | cnr |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 12 mos | TRANSCENDEN WISDOM | 2021 | 82,561 dwt |  |  |
+| 4/7 months | CRYSTAL OCEAN | 2021 | 82,555 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | 11/10/24 | 04/10/24 | ±% | Diff | 2023 | 2022 |
@@ -149,7 +146,6 @@ On MRs, the Atlantic Triangulation TCE (MA2TCE) was stable at \$28,946/day +0.8%
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 11/Oct/23 | 2000 | 1500 | 1200 | 1000 | 1800 |
@@ -167,7 +163,6 @@ On MRs, the Atlantic Triangulation TCE (MA2TCE) was stable at \$28,946/day +0.8%
 | 11/Oct/24 | 3100 | 1900 | 1600 | 1200 | 2900 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 11/Oct/23 | 20000 | 12000 | 10000 | 8000 |
@@ -268,7 +263,6 @@ In Turkey, there was some positive movement as steel and scrap prices improved. 
 
 Overall, the ship recycling market remains quiet, with regional differences shaping trends and recyclers adopting a wait-and-see approach.
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | 11/10/24 | 04/10/24 | ±% | YTD High | YTD Low | 2023 | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Tanker | Bangladesh | 480 | 480 | 0.0% | 530 | 480 | 550 | 601 |
@@ -279,8 +273,8 @@ Overall, the ship recycling market remains quiet, with regional differences shap
 |  | India | 460 | 470 | -2.1% | 520 | 460 | 522 | 583 |
 |  | Pakistan | 455 | 455 | 0.0% | 510 | 470 | 515 | 587 |
 |  | Turkey | 320 | 320 | 0.0% | 350 | 310 | 315 | 304 |
-## Currencies
 
+## Currencies
 | Markets | Current | Previous | ±% | YTD High |
 | --- | --- | --- | --- | --- |
 | USD/BDT | 116.44 | 117.45 | -0.9% | 117.51 |
@@ -289,7 +283,6 @@ Overall, the ship recycling market remains quiet, with regional differences shap
 | USD/TRY | 33.10 | 32.95 | 0.5% | 33.12 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | GREEN MALOY | 6,120 | 2,990 | 1990 | KLEVEN LOLAND, Norway | REEFER | $ 488.0m | Indian |  |

@@ -114,13 +114,9 @@ In the Middle East, the Aframax market remained supported by the continued stren
 
 Clean:
 
-**LR: LR2 in MEG market weakened considerably, with rates dropping sharply to WS111. This**
+**LR:** LR2 in MEG market weakened considerably, with rates dropping sharply to WS111. This decline was attributed to a persistent oversupply of available vessels. Similar was also noted in the LR1s with TC5 falling some 15 points to WS126.
 
-decline was attributed to a persistent oversupply of available vessels. Similar was also noted in the LR1s with TC5 falling some 15 points to WS126.
-
-**MR: In the Far East, the MR market closed the week on a firm note, supported by a steady**
-
-flow of new inquiries. TC17 trip MEG/East Africa climbed to WS175 with USG TC14 also seeing an uptick settling higher at WS174.
+**MR:** In the Far East, the MR market closed the week on a firm note, supported by a steady flow of new inquiries. TC17 trip MEG/East Africa climbed to WS175 with USG TC14 also seeing an uptick settling higher at WS174.
 
 ## Baltic Exchange Tanker Indices
 

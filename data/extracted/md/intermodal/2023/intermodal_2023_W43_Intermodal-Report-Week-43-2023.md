@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 *By Chara Georgousi and Fotis Kanatas*
 
@@ -15,7 +13,6 @@ On the clean trade, the TC15, which tracks LR1s loading in the Mediterranean and
 
 ## Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 27/10/23 WS points | 27/10/23 $/day | 20/10/23 WS points | 20/10/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 60 | 38,798 | 55 | 30,621 | **26.7%** | 20,330 | 2,246 |
@@ -36,10 +33,10 @@ On the clean trade, the TC15, which tracks LR1s loading in the Mediterranean and
 |  | 50k | CARIBS-USG | 222 | 39,185 | 198 | 31,341 | **25.0%** | 40,364 | 8,548 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 6 mos | HAFNIA ZAMBESI | 2010 | 76,578 dwt | DELEAST NOV/23 |  | RNR |
-| 12 mos | JAG AABHA | 2008 | 74,841 dwt | DELEAST OCT/23 | $33,000/day | Clearlake |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 6 mos | HAFNIA ZAMBESI | 2010 | 76,578 dwt |  |  |
+| 12 mos | JAG AABHA | 2008 | 74,841 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | 27/10/23 | 20/10/23 | ±% | Diff | 2022 | 2021 |
@@ -88,10 +85,10 @@ Suezmax T/C earnings averaged \$61,689/day, up + \$18,012/day w-o-w. On the Afra
 | BHSI | 671 | $12,080 | 686 | $12,352 | -15 | -2.2% | 1,181 | 1,424 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 3 to 5 mos | SUNNY HONG | 2013 | 33,847 dwt | dely Fujairah 5/10 Nov redel worldwide | $11,000/day | cnr |
-| 11 to 13 mos | ADMIRAL JIMMU | 2020 | 82,042 dwt | dely Haldia 22/23 Oct redel worldwide | $14,500/day | Asyad Shipping |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 3 to 5 mos | SUNNY HONG | 2013 | 33,847 dwt |  |  |
+| 11 to 13 mos | ADMIRAL JIMMU | 2020 | 82,042 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | 27/10/23 | 20/10/23 | ±% | Diff | 2022 | 2021 |
@@ -106,7 +103,6 @@ Suezmax T/C earnings averaged \$61,689/day, up + \$18,012/day w-o-w. On the Afra
 |  | **32K 3yr TC** | 9,250 | 9,250 | 0.0% | 0 | 12,322 | 11,825 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 27/Oct/22 | 1400 | 1600 | 1200 | 800 | 1500 |
@@ -124,7 +120,6 @@ Suezmax T/C earnings averaged \$61,689/day, up + \$18,012/day w-o-w. On the Afra
 | 27/Oct/23 | 3800 | 1900 | 1500 | 1100 | 3900 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 27/Oct/22 | 14000 | 15000 | 13000 | 10000 |
@@ -188,7 +183,6 @@ Supramax 10TC averaged \$ 13,645/day, down -3.15% w-o-w, while the Handysize 7TC
 | FEEDER | PADIAN 2 | 1,060 | 2006 | HAKATA, Japan | MAN-B\&amp;W | Feb-26 |  | region $ 6.0m | HK based |
 
 ## Secondhand Sales
-
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | CLIPPER VICTORY | 54,048 | 2009 | HYUNDAI, S. Korea | MAN-B\&amp;W | Jan-24 | 73,537 | $ 65.75m | undisclosed | scrubber fitted |
@@ -251,7 +245,6 @@ The previous week was another weak one with minimal sales. In India, the steel m
 | USD/TRY | 28.17 | 27.98 | 0.66% | 28.34 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ONE DESTINY | 45,483 | 7,698 | 1995 | TSUNEISHI, Japan | BC | $ 535/Ldt | Indian |  |

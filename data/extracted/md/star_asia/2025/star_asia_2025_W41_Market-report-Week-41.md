@@ -109,13 +109,9 @@ The Mediterranean saw some activity this week, but with a lack of available vess
 
 Clean:
 
-**LR: MEG LR2 market saw rates decline this week due to holidays in the East, coupled with**
+**LR:** MEG LR2 market saw rates decline this week due to holidays in the East, coupled with limited enquiries. TC1 MEG/Japan fell some 10 points, settling lower at WS108 mark. A similar outlook was seen in the LR1s with TC5 trips closing at WS113.
 
-limited enquiries. TC1 MEG/Japan fell some 10 points, settling lower at WS108 mark. A similar outlook was seen in the LR1s with TC5 trips closing at WS113.
-
-**MR: MRs in the MEG had a stable week despite the weakening bigger sizes. TC17, trips to**
-
-East Africa remain at around WS175 levels. In the USG, the week started positively as the lack of available vessels saw rates climb to WS200's mark. But at closing, ballasters filled up the market's demand and rates corrected to the WS180.
+**MR:** MRs in the MEG had a stable week despite the weakening bigger sizes. TC17, trips to East Africa remain at around WS175 levels. In the USG, the week started positively as the lack of available vessels saw rates climb to WS200's mark. But at closing, ballasters filled up the market's demand and rates corrected to the WS180.
 
 ## Baltic Exchange Tanker Indices
 
@@ -333,9 +329,7 @@ muted in India, Pakistan, and Bangladesh as mills avoided restocking amid weak s
 
 ## Commodities (Weekinfocus)
 
-**Iron ore futures experienced a strong Friday closing and logged weekly gains, supported**
-
-by expectations of stronger steel prices and positive shifts in market fundamentals. The most-traded January iron ore contract on China's Dalian Commodity Exchange (DCE) was up 1.02% at 795 yuan (US$111.56 a metric ton), concluding the week 1.6% higher. Similarly, the benchmark October iron ore contract on the Singapore Exchange traded 0.75% higher at US$105.7 a ton and is also poised for a 1.6% weekly gain. According to analysts, Chinese steel prices are expected to continue this upward trajectory following a steady decline over the past two months. This optimism is based on improved market fundamentals and the anticipated implementation of stronger economic stimulus policies by the central government. However, immediate supply chain issues are creating pressure points. Despite existing stockpiles built prior to the Golden Week holiday, transportation restrictions are currently preventing steel mills from maintaining adequate raw material inventories. This situation could potentially force mills to reduce production. Gains were also observed in other steelmaking ingredients traded on the DCE. The
+Iron ore futures experienced a strong Friday closing and logged weekly gains, supported by expectations of stronger steel prices and positive shifts in market fundamentals. The most-traded January iron ore contract on China's Dalian Commodity Exchange (DCE) was up 1.02% at 795 yuan (US$111.56 a metric ton), concluding the week 1.6% higher. Similarly, the benchmark October iron ore contract on the Singapore Exchange traded 0.75% higher at US$105.7 a ton and is also poised for a 1.6% weekly gain. According to analysts, Chinese steel prices are expected to continue this upward trajectory following a steady decline over the past two months. This optimism is based on improved market fundamentals and the anticipated implementation of stronger economic stimulus policies by the central government. However, immediate supply chain issues are creating pressure points. Despite existing stockpiles built prior to the Golden Week holiday, transportation restrictions are currently preventing steel mills from maintaining adequate raw material inventories. This situation could potentially force mills to reduce production. Gains were also observed in other steelmaking ingredients traded on the DCE. The
 
 **coking coal contract (NYMEX) gained 1.22%, and the coke contract climbed 1.86%. Steel**
 

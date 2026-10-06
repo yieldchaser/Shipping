@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 **By Chara Georgousi, Research Analyst**
 
@@ -17,7 +15,6 @@ Yet, in the near term, the market faces bearish pressures as the EU aims to achi
 
 ## Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 10/05/24 WS points | 10/05/24 $/day | 03/05/24 WS points | 03/05/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 74 | 54,292 | 68 | 47,465 | 14.4% | 39,466 | 20,330 |
@@ -37,12 +34,12 @@ Yet, in the near term, the market faces bearish pressures as the EU aims to achi
 |  | 50k | CARIBS-USG | 245 | 35,641 | 214 | 27,472 | 29.7% | 46,194 | 40,364 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 6 mos | LAPHROAIG | 2021 | 34,775 dwt | DEL EAST MAY/24 | $28,000/day | Trafigura |
-| 36 mos | PANAGIA THALASSINI | 2023 | 49,999 dwt | DEL EAST MAY/24 | $28,000/day | Cargill |
-### Dirty WS Rates (1-Year Trend)
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 6 mos | LAPHROAIG | 2021 | 34,775 dwt |  |  |
+| 36 mos | PANAGIA THALASSINI | 2023 | 49,999 dwt |  |  |
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 10/May/23 | 50 | 120 | 380 |
@@ -58,8 +55,8 @@ Yet, in the near term, the market faces bearish pressures as the EU aims to achi
 | 10/Mar/24 | 50 | 110 | 160 |
 | 10/Apr/24 | 50 | 110 | 150 |
 | 10/May/24 | 50 | 110 | 150 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 10/May/23 | 120 | 160 | 160 | 180 |
@@ -127,10 +124,10 @@ Aframax rates were particularly dynamic, with significant activity in the MED an
 | BHSI | 703 | $12,647 | 729 | $13,114 | -26 | -3.6% | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 5/7 mos | NORD ANTARES | 2022 | 82,258 dwt | dely Surabaya 4/5 May redel worldwide | $20,500/day | cnr |
-| 3/5 mos | RUI NING 22 | 2022 | 75,541 dwt | dely CJK 5 May redel worldwide | $15,250/day | Oldendorff |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 5/7 mos | NORD ANTARES | 2022 | 82,258 dwt |  |  |
+| 3/5 mos | RUI NING 22 | 2022 | 75,541 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | 10/05/24 | 03/05/24 | ±% | Diff | 2023 | 2022 |
@@ -145,7 +142,6 @@ Aframax rates were particularly dynamic, with significant activity in the MED an
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 10/May/23 | 2000 | 1000 | 1000 | 500 | 1500 |
@@ -163,7 +159,6 @@ Aframax rates were particularly dynamic, with significant activity in the MED an
 | 10/May/24 | 3000 | 2000 | 2000 | 1000 | 2000 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 10/May/23 | 18000 | 10000 | 12000 | 8000 |
@@ -292,7 +287,6 @@ The ship demolition market continues to operate in a cautious manner, largely in
 | USD/TRY | 32.20 | 32.33 | -0.4% | 32.49 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | TA'KUNTAH | 357,632 | 44,573 | 1978 | KOCKMUS MEKASINKA, SWEDEN | OFFSHORE | $ 184.0m | undisclosed | as is Mexico |

@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 By Yiannis Parganas, Head of Research Department
 
@@ -35,7 +33,6 @@ Based on the figures above, it is evident that interest in secondhand vessels wi
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 25/10/24 WS points | 25/10/24 $/day | 18/10/24 WS points | 18/10/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 58 | 36,774 | 58 | 37,636 | -2.3% | 39,466 | 20,330 |
@@ -55,12 +52,12 @@ Based on the figures above, it is evident that interest in secondhand vessels wi
 |  | 50k | ARA-UKC | 138 | 8,231 | 137 | 8,546 | -3.7% | 46,194 | 40,364 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 12 mos | PYXIS KARTERIA | 2013 | 46,652 dwt | DEL EAST OCT/24 | $24,500/day | ST Ship |
-| 6 mos | CP BALTIC | 2020 | 37,874 dwt | DEL WEST OCT/24 | $26 - 27,500/day | Trafigura |
-### Dirty WS Rates (1-Year Trend)
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 12 mos | PYXIS KARTERIA | 2013 | 46,652 dwt |  |  |
+| 6 mos | CP BALTIC | 2020 | 37,874 dwt |  |  |
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 25/Oct/23 | 70 | 140 | 280 |
@@ -76,8 +73,8 @@ Based on the figures above, it is evident that interest in secondhand vessels wi
 | 25/Aug/24 | 50 | 110 | 180 |
 | 25/Sep/24 | 50 | 110 | 170 |
 | 25/Oct/24 | 50 | 110 | 160 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 25/Oct/23 | 180 | 160 | 200 | 140 |
@@ -109,8 +106,8 @@ Based on the figures above, it is evident that interest in secondhand vessels wi
 |  | 52k 3yr TC | 26,000 | 26,000 | 0.0% | 0 | 25,152 | 16,426 |
 | Handy | 36k 1yr TC | 24,500 | 24,500 | 0.0% | 0 | 25,760 | 18,601 |
 |  | 36k 3yr TC | 23,250 | 23,250 | 0.0% | 0 | 18,200 | 14,585 |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Oct-24 avg | Sep-24 avg | ±% | 2023 | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300KT DH | 115.0 | 115.0 | 0.0% | 99.5 | 80.2 | 69.7 |
@@ -163,7 +160,6 @@ On the clean side, LR2 and LR1 rate softened as a lack of cargoes weighted on th
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 25/Oct/23 | 2000 | 1500 | 1200 | 800 | 1500 |
@@ -180,7 +176,6 @@ On the clean side, LR2 and LR1 rate softened as a lack of cargoes weighted on th
 | 25/Oct/24 | 2000 | 1300 | 1100 | 600 | 1300 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 25/Oct/23 | 15000 | 12000 | 10000 | 8000 |
@@ -239,7 +234,6 @@ Supramax 10TC averaged \$ 13,720/day down -0.92% w-o-w, while the Handysize 7TC 
 | HANDY | VANTAGE DREAM | 29,084 | 2011 | NANTONG NIKKA, China | MAN-B\&W | Sep-26 | 4 X 30t CRANES | $ 10.3m | Vietnamese |  |
 
 ## Containers
-
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | BRUSSELS | 6,078 | 2000 | HANJIN HI, S. Korea | Sulzer | May-25 |  | $ 26.0m | Chinese |
@@ -292,7 +286,6 @@ In Bangladesh, a recent change in government has introduced new regulatory compl
 
 The Pakistani market remains lethargic with recycling buyers showing little appetite as steel demand continues to stagnate and the local currency depreciates. Ongoing loan restructuring discussions with China provide a glimmer of economic support but are unlikely to spur immediate market activity. Domestic fundamentals remain weak, with Pakistan largely following India's lead in terms of price movements, with stable but subdued prices. In addition, the country has requested an additional \$1bn Resilience and Sustainability Trust from the IMF, on top of the \$7bn already requested.
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | 25/10/24 | 18/10/24 | ±% | YTD High | YTD Low | 2023 | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |  |  |
@@ -305,8 +298,8 @@ The Pakistani market remains lethargic with recycling buyers showing little appe
 | India | 455 | 460 | -1.1% | 520 | 455 | 522 | 583 | 508 |
 | Pakistan | 435 | 450 | -3.3% | 510 | 435 | 515 | 587 | 526 |
 | Turkey | 330 | 330 | 0.0% | 350 | 310 | 315 | 304 | 276 |
-## Currencies
 
+## Currencies
 | Markets | Current | Previous | ±% | YTD High |
 | --- | --- | --- | --- | --- |
 | USD/BDT | 116.44 | 117.45 | -0.9% | 117.51 |
@@ -315,7 +308,6 @@ The Pakistani market remains lethargic with recycling buyers showing little appe
 | USD/TRY | 33.10 | 32.95 | 0.5% | 33.12 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | NING HUA | 69,607 | 9,713 | 1993 | HASHIHAMA, Japan | BC | $ 433.0m | undisclosed | as is Taishan, China |

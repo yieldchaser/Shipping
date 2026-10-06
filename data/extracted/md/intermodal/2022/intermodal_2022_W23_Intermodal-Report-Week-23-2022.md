@@ -68,7 +68,6 @@ Shanghai 200122 China
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | Current WS points | Current $/day | Previous WS points | Previous $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 45 | -22,372 | 45 | -20,853 | -7.3% | 2,246 | 52,119 |
@@ -84,14 +83,14 @@ Shanghai 200122 China
 |  | 75k | MEG-JAPAN | 227 | 28,917 | 201 | 21,682 | **33.4%** | 6,368 | 28,160 |
 | Clean | 55k | MEG-JAPAN | 277 | 31,071 | 251 | 25,902 | **20.0%** | 6,539 | 19,809 |
 |  | 37K | UKC-USAC | 400 | 39,399 | 312 | 25,307 | **55.7%** | 4,496 | 12,977 |
-## Indicative Period Charters
 
+## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 mos | LYRIC CAMELLIA | 2016 | 109,999 dwt | $35,000/day | Saudi Aramco |
-| 36 mos | AYOE | 2020 | 49,861 dwt | $20,000/day | Navig8 |
-### Dirty WS Rates (1-Year Trend)
+| 6 mos | LYRIC CAMELLIA | 2016 | 109,999 dwt |  |  |
+| 36 mos | AYOE | 2020 | 49,861 dwt |  |  |
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 10/Jun/21 | 50 | 80 | 90 |
@@ -107,8 +106,8 @@ Shanghai 200122 China
 | 10/Apr/22 | 50 | 280 | 290 |
 | 10/May/22 | 50 | 180 | 170 |
 | 10/Jun/22 | 50 | 150 | 160 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 10/Jun/21 | 100 | 110 | 120 | 130 |
@@ -127,8 +126,8 @@ Shanghai 200122 China
 
 | TC Rates $/day VLCCSuezmaxAframaxPanamaxMRHandy | TC Rates 10-Jun-22 300k 1yr TC 300k 3yr TC 150k 1yr TC 150k 3yr TC 110k 1yr TC 110k 3yr TC 75k 1yr TC 75k 3yr TC 52k 1yr TC 52k 3yr TC 36k 1yr TC 36k 3yr TC | TC Rates 03-Jun-22 28,000 30,000 21,000 21,500 21,500 19,500 22,500 15,750 19,500 15,000 16,250 12,250 | TC Rates ±% 28,000 30,000 21,000 21,500 21,500 19,500 22,500 15,750 19,500 15,000 16,250 12,250 | TC Rates Diff 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% | TC Rates 2021 0 0 0 0 0 0 0 0 0 0 0 0 | TC Rates 2020 25,684 28,672 17,226 22,700 15,854 19,714 14,184 15,950 12,608 13,804 11,292 13,054 | 42,038 34,772 29,543 27,481 23,380 21,854 17,322 16,296 15,505 15,916 13,966 14,051 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Jun-22 avg | May-22 avg | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300KT DH | 76.0 | 75.8 | 0.3% | 69.7 | 71.5 | 72.1 |
@@ -169,13 +168,12 @@ In the Aframax sector we had the sale of the "SEA BEECH" (106,138dwt-bl't '03, J
 | BHSI | 1,417 | $25,509 | 1,595 | $28,712 | -178 | -11.2% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 12 mos | QIAN DAO HU | 2017 | 63,398 dwt | Zhoushan 10/15 Jun | $31,000/day | Hong Glory |
-| 2-4 mos | GREAT PROGRESS | 2015 | 63,377 dwt | Luoyuan 7 Jun | $32,000/day | Cobelfret |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 12 mos | QIAN DAO HU | 2017 | 63,398 dwt |  |  |
+| 2-4 mos | GREAT PROGRESS | 2015 | 63,377 dwt |  |  |
 
 ## TC Rates
-
 | Sector | Tenor | 10/06/2022 | 03/06/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 34,000 | 37,500 | -9.3% | -3,500 | 32,684 | 15,361 |
@@ -192,7 +190,6 @@ In the Aframax sector we had the sale of the "SEA BEECH" (106,138dwt-bl't '03, J
 |  | **32K 3yr TC** | 14,250 | 14,250 | 0.0% | 0 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 10/Jun/21 | 3,800 | 3,200 | 2,900 | 1,600 | 4,000 |
@@ -210,7 +207,6 @@ In the Aframax sector we had the sale of the "SEA BEECH" (106,138dwt-bl't '03, J
 | 10/Jun/22 | 2,800 | 2,700 | 2,600 | 1,600 | 2,900 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 10/Jun/21 | 30000 | 32000 | 31000 | 26000 |
@@ -260,7 +256,6 @@ In the Supramax sector we had the sale of the "BAO PROGRESS" (56,729dwt-blt '11,
 
 # Intermodal Secondhand Sales
 ## Tankers
-
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUEZ | NORDIC MOON | 160,200 | 2002 | SAMSUNG, S. Korea | B&amp;W | Aug-22 | DH | $ 16.0m | undisclosed |  |
@@ -275,7 +270,6 @@ In the Supramax sector we had the sale of the "BAO PROGRESS" (56,729dwt-blt '11,
 
 # Intermodal Secondhand Sales
 ## Secondhand Sales
-
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | ARCHIMIDIS | 8,266 | 2006 | DAEWOO, S.Korea | Sulzer | Apr-25 |  | $ 130.0m | Swiss (MSC) |
@@ -294,7 +288,6 @@ In the Supramax sector we had the sale of the "BAO PROGRESS" (56,729dwt-blt '11,
 
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
-
 | Sector | Size | 10/06/2022 | 03/06/2022 | ±% | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Bulkers |  |  |  |  |  |  |
@@ -372,7 +365,6 @@ The shipbuilding activity bounced back last week. A plethora of newbuilding orde
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | Markets | 10/06/2022 | 03/06/2022 | ±% | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
@@ -407,7 +399,6 @@ Last week we saw an increase in bids from Bangladeshi and Pakistani buyers amids
 | 10/Jun/22 | 600 | 590 | 590 | 320 |
 
 ## Indicative Demolition Prices ($/ldt)
-
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/ldt | Demolition Sales Breakers | Demolition Sales Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | DAHLIA | 64,991 | 33,140 | 1979 | NEWPORT, US | LNG | undisclosed | Indian | for green recycling |

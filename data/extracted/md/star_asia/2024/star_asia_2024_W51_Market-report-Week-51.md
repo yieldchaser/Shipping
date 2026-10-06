@@ -60,14 +60,14 @@ DWT 180,000 82,000 56,000 38,000
 
 VESSEL NAME FEG SUCCESS ZAMPA BLUE JPS BARCELONA GLOBAL SAIKAI AKDENIZ-M
 
-| Baltic | Exchange Dry Bulk | Indices |  |
-|---|---|---|---|
-| LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
-| 1,051 | 2,087 | -5.80% | -52.56% |
-| 1,263 | 3,361 | -11.72% | -66.83% |
-| 995 | 1,915 | -1.91% | -49.03% |
-| 959 | 1,378 | -1.98% | -31.79% |
-| 618 | 888 | -6.31% | -34.80% |
+| Baltic | Exchange Dry Bulk | Indices |
+| --- | --- | --- |
+| LAST WEEK | LAST YEAR | W-O-W CHANGE |
+| 1,051 | 2,087 | -5.80% |
+| 1,263 | 3,361 | -11.72% |
+| 995 | 1,915 | -1.91% |
+| 959 | 1,378 | -1.98% |
+| 618 | 888 | -6.31% |
 
 Dry Bulk Values
 
@@ -314,9 +314,7 @@ Sub-Continent and Turkey ferrous scrap markets insight
 
 The Indian Sub-Continent imported ferrous scrap market exhibited an upward trajectory in prices, driven by higher offers for EU- and US-origin shredded scrap amid rising collection costs. Turkey, however, remained an exception as prices softened due to bidoffer mismatches and cautious buying.
 
-**India: Market Influenced by High Offers and Holidays**
-
-Imported scrap offers from European recyclers rose following a high-priced Turkish deal earlier in the week. Shredded scrap was reported at US$390-393/ton CFR Nhava Sheva, with dock collection prices climbing to EUR 282-283/ton, reflecting a week-on-week increase of EUR 7-8. Meanwhile, shredded scrap offers from the US were quoted at US$392-395/t, but negotiations stalled as buyers hesitated and sellers resisted price reductions. PNS scrap was priced at US$390/ton CFR Mundra, with sellers seeking US$397/ton, creating a US$7/ton bid-offer gap. Market participants remain wary of the potential impact of safeguard duties, which could disrupt trade by benefitting local steelmakers while raising steel prices for industries, especially MSMEs.
+**India:** Market Influenced by High Offers and Holidays Imported scrap offers from European recyclers rose following a high-priced Turkish deal earlier in the week. Shredded scrap was reported at US$390-393/ton CFR Nhava Sheva, with dock collection prices climbing to EUR 282-283/ton, reflecting a week-on-week increase of EUR 7-8. Meanwhile, shredded scrap offers from the US were quoted at US$392-395/t, but negotiations stalled as buyers hesitated and sellers resisted price reductions. PNS scrap was priced at US$390/ton CFR Mundra, with sellers seeking US$397/ton, creating a US$7/ton bid-offer gap. Market participants remain wary of the potential impact of safeguard duties, which could disrupt trade by benefitting local steelmakers while raising steel prices for industries, especially MSMEs.
 
 ### Pakistan: Modest Activity Amid Higher Costs
 

@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 By Fotis Kanatas, Research Analyst
 
@@ -23,7 +21,6 @@ This increased demand for imports highlights Europe's reliance on external sourc
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 18/10/24 WS points | 18/10/24 $/day | 11/10/24 WS points | 11/10/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 58 | 37,636 | 57 | 35,055 | 7.4% | 39,466 | 20,330 |
@@ -47,7 +44,8 @@ This increased demand for imports highlights Europe's reliance on external sourc
 | 6-9 mos | SEA COUGAR | 2019 |
 | --- | --- | --- |
 |  | $28,500/day |  |
-### 1-Year Forward WS Rates - Dirty
+
+### Dirty WS Rates (1-Year Trend)
 
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
@@ -65,7 +63,8 @@ This increased demand for imports highlights Europe's reliance on external sourc
 | 18/Aug/24 | 140 | 210 | 150 |
 | 18/Sep/24 | 150 | 220 | 140 |
 | 18/Oct/24 | 160 | 230 | 130 |
-### 1-Year Forward WS Rates - Clean
+
+### Clean WS Rates (1-Year Trend)
 
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
@@ -137,10 +136,10 @@ On the clean side, MR was plagued by oversupply in the US Gulf and rates tumbled
 | BHSI | 727 | $13,078 | 718 | $12,925 | **9** | **1.2%** | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 12 mos | MODEST SQ | 2012 | 76,483 dwt | dely ex drydock CJK 18/20 Oct redel worldwide | $14,200/day | Starboard |
-| 4/6 mos | PAIWAN WISDOM | 2010 | 31,967 dwt | dely Chittagong 20/30 Oct redel worldwide | $12,850/day | cnr |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 12 mos | MODEST SQ | 2012 | 76,483 dwt |  |  |
+| 4/6 mos | PAIWAN WISDOM | 2010 | 31,967 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | 18/10/24 | 11/10/24 | ±% | Diff | 2023 | 2022 |
@@ -171,7 +170,6 @@ On the clean side, MR was plagued by oversupply in the US Gulf and rates tumbled
 | 18/Oct/24 | 2,400 | 1,400 | 1,300 | 900 | 1,300 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | $/day |  |  |  |  |
@@ -211,7 +209,6 @@ Supramax 10TC averaged \$ 13,848/day down -0.91% w-o-w, while the Handysize 7TC 
 # Secondhand Sales
 
 ## Secondhand Sales
-
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SMALL | JAY 1 | 21,224 | 2010 | GISAN, Turkey | MAN | Dec-25 | DH | $ 15.0m | Turkish | laid up since May 2024 |
@@ -231,7 +228,6 @@ Supramax 10TC averaged \$ 13,848/day down -0.91% w-o-w, while the Handysize 7TC 
 | HANDY | KEN MEI | 29,825 | 2003 | SHIKOKU, Japan | B\&W | Sep-28 | 4 X 30,5t CRANES | $ 7.3m | undisclosed |  |
 
 ## Containers
-
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | NAJADE | 2,702 | 2007 | NORDSEEWERKE, Germany | MAN-B\&W | Mar-27 |  | region $ 20,0m | undisclosed | c/free delivery January/March 2025 |
@@ -284,7 +280,6 @@ In Bangladesh, political instability and economic challenges continued to weigh 
 
 Pakistan saw a similarly muted market. Local steel prices softened slightly, and recyclers resisted any upward movement in their bids. Liquidity constraints and a challenging economic environment left many recyclers on the sidelines, with minimal interest in new transactions.
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | 18/10/24 | 11/10/24 | ±% | YTD High | YTD Low | 2023 | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |  |  |
@@ -297,8 +292,8 @@ Pakistan saw a similarly muted market. Local steel prices softened slightly, and
 | India | 460 | 460 | 0.0% | 520 | 460 | 522 | 583 | 508 |
 | Pakistan | 450 | 455 | -1.1% | 510 | 450 | 515 | 587 | 526 |
 | Turkey | 330 | 330 | 0.0% | 350 | 310 | 315 | 304 | 276 |
-## Currencies
 
+## Currencies
 | Markets | Current | Previous | ±% | YTD High |
 | --- | --- | --- | --- | --- |
 | USD/BDT | 116.44 | 117.45 | -0.9% | 117.51 |
@@ -307,7 +302,6 @@ Pakistan saw a similarly muted market. Local steel prices softened slightly, and
 | USD/TRY | 33.10 | 32.95 | 0.5% | 33.12 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PRINCESS LOTUS | 70,189 | 9,214 | 1996 | SUMITOMO, Japan | BC | $ 430.0m | Bangladeshi | 'as is' China with 200 ts bunkers |

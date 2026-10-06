@@ -50,26 +50,26 @@ The handy segment saw a mixed week rates picking up in the Pacific after last we
 
 ## Baltic Exchange Dry Bulk Indices
 
-| INDICES | CURRENT |  | LAST | WEEK | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-|---|---|---|---|---|---|---|---|---|---|
-| BDI | 2,110 |  |  | 1,976 |  | 1,701 | +6.78% |  | +24.04% |
-| BCI | 3,689 |  |  | 3,235 |  | 2,474 | +14.03% |  | +49.11% |
-| BPI | 1,446 |  |  | 1,528 |  | 1,701 | -5.37% |  | -14.99% |
-| BSI | 1,306 |  |  | 1,276 |  | 1,276 | +2.35% |  | +2.35% |
-| BHSI | 710 |  |  | 707 |  | 679 | +0.42% |  | +4.57% |
-|  |  |  |  | Dry Bulk | (Weekly) | Values |  |  |  |
-| TYPE | DWT | NB |  | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
-| CAPE | 180,000 |  | 76 |  |  | 77 | 64 | 45 | 29 |
-| KAMSARMAX | 82,000 |  | 37 |  |  | 44 | 38 | 28 | 18 |
-| SUPRAMAX | 56,000 |  | 35 |  |  | 41 | 36 | 27 | 16 |
-| HANDY | 38,000 |  | 30 |  |  | 35 | 28 | 21 | 12 |
-| *(amount in USD | million) |  |  |  |  |  |  |  |  |
-|  | Bulker | 12 | months | T/C |  | rates average | (in | USD/day) |  |
-| TYPE | DWT | CURRENT |  | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-| CAPESIZE | 180,000 | 22,500 |  | 22,500 |  | 17,000 | 0 |  | +32.35% |
-| PANAMAX | 75,000 | 14,000 |  | 14,250 |  | 12,600 | -1.75% |  | +11.11% |
-| SUPRAMAX | 58,000 | 15,000 |  | 14,250 |  | 11,500 | +5.26% |  | +30.43% |
-| HANDYSIZE | 38,000 | 14,500 |  | 14,000 |  | 11,250 | +3.57% |  | +28.89% |
+| INDICES | CURRENT | LAST | WEEK | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| BDI | 2,110 |  | 1,976 |  | 1,701 | +6.78% |  | +24.04% |
+| BCI | 3,689 |  | 3,235 |  | 2,474 | +14.03% |  | +49.11% |
+| BPI | 1,446 |  | 1,528 |  | 1,701 | -5.37% |  | -14.99% |
+| BSI | 1,306 |  | 1,276 |  | 1,276 | +2.35% |  | +2.35% |
+| BHSI | 710 |  | 707 |  | 679 | +0.42% |  | +4.57% |
+|  |  |  | Dry Bulk | (Weekly) | Values |  |  |  |
+| TYPE | DWT |  | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| CAPE | 180,000 | 76 |  |  | 77 | 64 | 45 | 29 |
+| KAMSARMAX | 82,000 | 37 |  |  | 44 | 38 | 28 | 18 |
+| SUPRAMAX | 56,000 | 35 |  |  | 41 | 36 | 27 | 16 |
+| HANDY | 38,000 | 30 |  |  | 35 | 28 | 21 | 12 |
+| *(amount in USD | million) |  |  |  |  |  |  |  |
+|  | Bulker | months | T/C |  | rates average | (in | USD/day) |  |
+| TYPE | DWT |  | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+| CAPESIZE | 180,000 |  | 22,500 |  | 17,000 | 0 |  | +32.35% |
+| PANAMAX | 75,000 |  | 14,250 |  | 12,600 | -1.75% |  | +11.11% |
+| SUPRAMAX | 58,000 |  | 14,250 |  | 11,500 | +5.26% |  | +30.43% |
+| HANDYSIZE | 38,000 |  | 14,000 |  | 11,250 | +3.57% |  | +28.89% |
 
 ### Shipbroking (www.star-asia.com.sg)
 
@@ -317,9 +317,7 @@ Sub-Continent and Turkey ferrous scrap markets insight
 
 The Sub-Continent and Turkish ferrous scrap market exhibited a blend of trends this week, with India seeing a cautious recovery, while Pakistan and Bangladesh struggled with economic headwinds. Meanwhile, the Turkish market has stabilised, supported by strong domestic rebar demand, though European oversupply remains a challenge. In India, demand for imported scrap showed signs of recovery, bolstered by a resurgence in the domestic semi-finished steel sector. However, market participants remain cautious, focusing on material already in transit or expected to arrive soon. A major supplier noted that offering new material isn't currently viable, with traders holding stockpiles able to close deals at US$385-390/ton. While Indian interest in imports has increased slightly, volatility in the market has kept buyers on alert. Traders were noted stating that the domestic scrap prices are holding firm, and there's no rush to import. With prices trending upward, Indian buyers are weighing the cost of other raw materials before committing to deep-sea purchases. Indicative offers for shredded scrap from the US and UK/Europe were at US$395-400/ton CFR Nhava Sheva, with HMS (80:20) trading at US$370-380/ton.
 
-**Pakistan's imported scrap market continues to face significant challenges due to weak**
-
-rebar sales, with mills operating at just 40-50% capacity. Indicative offers for shredded
+Pakistan's imported scrap market continues to face significant challenges due to weak rebar sales, with mills operating at just 40-50% capacity. Indicative offers for shredded
 
 ### Shipbroking (www.star-asia.com.sg)
 

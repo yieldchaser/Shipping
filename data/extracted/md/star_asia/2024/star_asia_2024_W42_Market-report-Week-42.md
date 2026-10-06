@@ -50,26 +50,26 @@ The Asian market exhibited signs of easing, yet overall sentiment remains positi
 
 ## Baltic Exchange Dry Bulk Indices
 
-| INDICES | CURRENT |  | LAST | WEEK | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-|---|---|---|---|---|---|---|---|---|---|
-| BDI | 1,576 |  |  | 1,809 |  | 2,071 | -12.88% |  | -23.90% |
-| BCI | 2,276 |  |  | 2,835 |  | 3,633 | -19.72% |  | -37.35% |
-| BPI | 1,285 |  |  | 1,435 |  | 1,635 | -10.45% |  | -21.41% |
-| BSI | 1,250 |  |  | 1,269 |  | 1,287 | -1.50% |  | -2.87% |
-| BHSI | 727 |  |  | 718 |  | 689 | +1.25% |  | +5.52% |
-|  |  |  |  | Dry Bulk | (Weekly) | Values |  |  |  |
-| TYPE | DWT | NB |  | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 | YEARS 15 YEARS |
-| CAPE | 180,000 |  | 76 |  |  | 77 | 64 | 45 | 29 |
-| KAMSARMAX | 82,000 |  | 37 |  |  | 44 | 38 | 28 | 18 |
-| SUPRAMAX | 56,000 |  | 35 |  |  | 41 | 36 | 27 | 16 |
-| HANDY | 38,000 |  | 30 |  |  | 35 | 28 | 21 | 12 |
-| *(amount in USD | million) |  |  |  |  |  |  |  |  |
-|  | Bulker | 12 | months | T/C |  | rates average | (in | USD/day) |  |
-| TYPE | DWT | CURRENT |  | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-| CAPESIZE | 180,000 | 21,000 |  | 22,250 |  | 14,500 | -5.62% |  | +44.83% |
-| PANAMAX | 75,000 | 13,500 |  | 14,000 |  | 12,500 | -3.57% |  | +8.00% |
-| SUPRAMAX | 58,000 | 15,000 |  | 15,000 |  | 11,500 | 0 |  | +30.43% |
-| HANDYSIZE | 38,000 | 14,000 |  | 14,000 |  | 12,000 | 0 |  | +16.67% |
+| INDICES | CURRENT | LAST | WEEK | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| BDI | 1,576 |  | 1,809 |  | 2,071 | -12.88% |  | -23.90% |
+| BCI | 2,276 |  | 2,835 |  | 3,633 | -19.72% |  | -37.35% |
+| BPI | 1,285 |  | 1,435 |  | 1,635 | -10.45% |  | -21.41% |
+| BSI | 1,250 |  | 1,269 |  | 1,287 | -1.50% |  | -2.87% |
+| BHSI | 727 |  | 718 |  | 689 | +1.25% |  | +5.52% |
+|  |  |  | Dry Bulk | (Weekly) | Values |  |  |  |
+| TYPE | DWT |  | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 | YEARS 15 YEARS |
+| CAPE | 180,000 | 76 |  |  | 77 | 64 | 45 | 29 |
+| KAMSARMAX | 82,000 | 37 |  |  | 44 | 38 | 28 | 18 |
+| SUPRAMAX | 56,000 | 35 |  |  | 41 | 36 | 27 | 16 |
+| HANDY | 38,000 | 30 |  |  | 35 | 28 | 21 | 12 |
+| *(amount in USD | million) |  |  |  |  |  |  |  |
+|  | Bulker | months | T/C |  | rates average | (in | USD/day) |  |
+| TYPE | DWT |  | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+| CAPESIZE | 180,000 |  | 22,250 |  | 14,500 | -5.62% |  | +44.83% |
+| PANAMAX | 75,000 |  | 14,000 |  | 12,500 | -3.57% |  | +8.00% |
+| SUPRAMAX | 58,000 |  | 15,000 |  | 11,500 | 0 |  | +30.43% |
+| HANDYSIZE | 38,000 |  | 14,000 |  | 12,000 | 0 |  | +16.67% |
 
 ### Shipbroking (www.star-asia.com.sg)
 
@@ -126,23 +126,23 @@ LR: LR2 concluded the week with rates holding steady, albeit at their lowest lev
 
 ## Tanker 12 months T/C rates average (in USD/day)
 
-| TYPE | DWT |  | CURRENT LAST | WEEK | LAST | YEAR W-O-W | CHANGE Y-O-Y CHANGE |
-|---|---|---|---|---|---|---|---|
-| VLCC | 310,000 |  | 47,000 | 45,250 | 37,000 | +3.87% | +27.03% |
-| SUEZMAX | 150,000 |  | 41,750 | 40,000 | 39,250 | +4.38% | +6.37% |
-| AFRAMAX | 110,000 |  | 39,000 | 38,000 | 36,250 | +2.63% | +7.59% |
-| LR1 | 74,000 |  | 29,000 | 31,500 | 30,750 | -7.94% | -5.69% |
-| MR | 47,000 |  | 26,500 | 26,500 Tankers S&P | 26,000 Report | 0 PRICE | +1.92% COMMENTS / |
-| VESSEL | NAME | TYPE | DWT | YEAR | BUILT |  |  |
-|  |  |  |  |  | (MILLION) | USD | BUYERS |
-| GESI |  | VLCC | 305,749 | 2007 | S. KOREA | 43.25 | CHINESE BUYERS |
-| PS | GENOVA | AFRA | 108,983 | 2010 | CHINA | 41.5 | UNDISCLOSED |
-| SERENE | SEA | AFRA | 105,244 | 2009 | JAPAN | 36.5 | PVTRANS |
-| BACHATA |  | MR | 50,179 | 2008 | S. KOREA | 27.2 UAE | BASED BUYERS |
-| MARITIME INSPIRATION MARITIME | / VERITY | MR | 49,996 | 2021 | CHINA | 96.0 ENBLOC | BAHRI |
-| HIGH | NAVIGATOR | MR | 49,921 | 2018 | JAPAN | 34.3 | D'AMICO |
-| BUTTERFLY |  | MR | 46,048 | 2004 | S. KOREA | 18.0 | HECHUANG INTERNATIONAL |
-| JAY 1 |  | PROD/ CHEM | 21,224 | 2010 | TURKEY | 15.0 (SS) | TURKISH BUYERS |
+| TYPE | DWT | CURRENT LAST | WEEK | LAST | YEAR W-O-W | CHANGE Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 47,000 | 45,250 | 37,000 | +3.87% | +27.03% |
+| SUEZMAX | 150,000 | 41,750 | 40,000 | 39,250 | +4.38% | +6.37% |
+| AFRAMAX | 110,000 | 39,000 | 38,000 | 36,250 | +2.63% | +7.59% |
+| LR1 | 74,000 | 29,000 | 31,500 | 30,750 | -7.94% | -5.69% |
+| MR | 47,000 | 26,500 | 26,500 Tankers S&P | 26,000 Report | 0 PRICE | +1.92% COMMENTS / |
+| VESSEL | NAME | DWT | YEAR | BUILT |  |  |
+|  |  |  |  | (MILLION) | USD | BUYERS |
+| GESI |  | 305,749 | 2007 | S. KOREA | 43.25 | CHINESE BUYERS |
+| PS | GENOVA | 108,983 | 2010 | CHINA | 41.5 | UNDISCLOSED |
+| SERENE | SEA | 105,244 | 2009 | JAPAN | 36.5 | PVTRANS |
+| BACHATA |  | 50,179 | 2008 | S. KOREA | 27.2 UAE | BASED BUYERS |
+| MARITIME INSPIRATION MARITIME | / VERITY | 49,996 | 2021 | CHINA | 96.0 ENBLOC | BAHRI |
+| HIGH | NAVIGATOR | 49,921 | 2018 | JAPAN | 34.3 | D'AMICO |
+| BUTTERFLY |  | 46,048 | 2004 | S. KOREA | 18.0 | HECHUANG INTERNATIONAL |
+| JAY 1 |  | 21,224 | 2010 | TURKEY | 15.0 (SS) | TURKISH BUYERS |
 
 ### Shipbroking (www.star-asia.com.sg)
 
@@ -324,9 +324,7 @@ Sub-Continent and Turkey ferrous scrap markets insight
 
 The Sub-Continent and Turkish scrap markets experienced sluggish demand and cautious buying this week, driven by weak domestic steel sales and a downturn in major global markets like Turkey and China. Buyers in India, Pakistan, and Bangladesh remained on the sidelines, waiting for clearer market signals amid softening price trends and external economic pressures. The Indian imported scrap market saw limited activity, with buyers exercising caution due to slowing finished steel sales and a significant decline in the Turkish scrap market. Shredded scrap offers from the US and UK/Europe were in the range of US$400-405/ton CFR Nhava Sheva, while buyers aimed for below US$400/t CFR. HMS (80:20) offers from the UK/Europe stood at US$375-380/ton CFR, with bids closer to US$370-375/ton CFR. Despite the overall slowdown, Indian steel mills resumed bulk scrap bookings, securing shipments from the US West Coast at US$385-390/t and US$400/ton CFR for East Coast India, expected to arrive in November and December.
 
-**Pakistan's scrap market continued to face weak demand, with shredded scrap offers**
-
-around US$405-410/ton CFR Qasim. The steel sector has been further impacted by tighter tax regulations, setting a minimum value of PKR 205,000/ton for tax calculations on steel products, ensuring an 18% sales tax is applied. This move, designed to curb tax evasion, has added pressure to an already subdued market. Buyers in Bangladesh remained inactive as the domestic steel market slowed down, with construction projects stalled. Shredded scrap offers from the UK/Europe stood at US$405-410/ton CFR Chattogram, while HMS (80:20) was offered at US$390-395/ton CFR. The Turkish scrap market remained stable, with no new deals concluded, as both buyers and sellers adopted cautious stances. The sharp drop in Chinese iron ore prices added to bearish sentiment. Turkish mills' expectations for HMS (80:20) hovered around US$365/ton CFR, but this was deemed too low by suppliers, with US HMS (80:20) assessed at US$372/ton CFR. Prices could slip further, according to market sources.
+Pakistan's scrap market continued to face weak demand, with shredded scrap offers around US$405-410/ton CFR Qasim. The steel sector has been further impacted by tighter tax regulations, setting a minimum value of PKR 205,000/ton for tax calculations on steel products, ensuring an 18% sales tax is applied. This move, designed to curb tax evasion, has added pressure to an already subdued market. Buyers in Bangladesh remained inactive as the domestic steel market slowed down, with construction projects stalled. Shredded scrap offers from the UK/Europe stood at US$405-410/ton CFR Chattogram, while HMS (80:20) was offered at US$390-395/ton CFR. The Turkish scrap market remained stable, with no new deals concluded, as both buyers and sellers adopted cautious stances. The sharp drop in Chinese iron ore prices added to bearish sentiment. Turkish mills' expectations for HMS (80:20) hovered around US$365/ton CFR, but this was deemed too low by suppliers, with US HMS (80:20) assessed at US$372/ton CFR. Prices could slip further, according to market sources.
 
 ### Shipbroking (www.star-asia.com.sg)
 

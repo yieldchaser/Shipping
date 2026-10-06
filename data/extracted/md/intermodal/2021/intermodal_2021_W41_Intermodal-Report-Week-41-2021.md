@@ -79,11 +79,10 @@ Shanghai 200122 China
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 mos | DIMITRIOS | 2021 | 159,159 dwt |  | Trafigura |
-| 12 mos | AQUALEGACY | 2012 | 115,764 dwt | $16,750/day | Cape Tankers |
+| 6 mos | DIMITRIOS | 2021 | 159,159 dwt |  |  |
+| 12 mos | AQUALEGACY | 2012 | 115,764 dwt |  |  |
 
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 15/Oct/20 | 50 | 50 | 50 |
@@ -101,7 +100,6 @@ Shanghai 200122 China
 | 15/Oct/21 | 50 | 60 | 60 |
 
 ### Clean WS Rates (1-Year Trend)
-
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 15/Oct/20 | 50 | 50 | 50 | 50 |
@@ -157,13 +155,12 @@ In the Chemical sector we had the sale of the "SHAMROCK JUPITER" (19,837dwt-blt 
 | BHSI | 2,021 | $36,372 | 2,015 | $36,269 | **6** | **0.3%** | 447 | 490 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 9 to 11 mos | MONDIAL SUN | 2019 | 82,035 dwt | Chiba end Oct | $32,500/day | ASL Bulk |
-| 4 to 6 mos | ECO DYNAMIC | 2005 | 32,354 dwt | Surabaya 24/25 Oct | $35,000/day | cnr |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 9 to 11 mos | MONDIAL SUN | 2019 | 82,035 dwt |  |  |
+| 4 to 6 mos | ECO DYNAMIC | 2005 | 32,354 dwt |  |  |
 
 ## TC Rates
-
 | Sector | Tenor | 15/10/2021 | 08/10/2021 | ±% | Diff | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 50,750 | 58,750 | -13.6% | -8,000 | 15,561 | 18,839 |
@@ -180,7 +177,6 @@ In the Chemical sector we had the sale of the "SHAMROCK JUPITER" (19,837dwt-blt 
 |  | **32K 3yr TC** | 15,250 | 15,250 | 0.0% | 0 | 8,686 | 9,291 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 15/Oct/20 | 2,500 | 1,600 | 1,400 | 800 | 2,800 |
@@ -198,7 +194,6 @@ In the Chemical sector we had the sale of the "SHAMROCK JUPITER" (19,837dwt-blt 
 | 15/Oct/21 | 5,000 | 4,200 | 4,000 | 2,100 | 10,500 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 15/Oct/20 | 15000 | 14000 | 13000 | 13000 |
@@ -278,7 +273,6 @@ In the Panamax sector we had the sale of the "ORIENT VIOLET" (77,111dwt-blt '15,
 
 # Intermodal Secondhand Sales
 ## Containers
-
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | ALS FAUNA | 4,275 | 2008 | SAMSUNG, S. Korea | Wartsila | Nov-23 |  | rgn $ 60.0m | Israeli (Zim Integrated) |  |
@@ -289,8 +283,8 @@ In the Panamax sector we had the sale of the "ORIENT VIOLET" (77,111dwt-blt '15,
 | FEEDER | GEORGIA TRADER | 2,127 | 2007 | AKER MTW WERFT, GERMANY | Wartsila | Nov-22 | 3 X 45t CRANES | $ 33.0m | Swiss (MSC) |  |
 | FEEDER | SAN ALVARO | 1,819 | 2007 | HYUNDAI, S. Korea | MAN-B\&amp;W | Dec-22 | 3 X 45t CRANES | undisclosed | Danish |  |
 | FEEDER | VIKING MERLIN | 1,740 | 2014 | GUANGZHOU WENCHONG, China | MAN-B\&amp;W | Apr-24 | 2 X 45t CRANES | $ 33.0m | French (CMA CGM) | delivery January-February 2022 |
-## Secondhand Sales
 
+## Secondhand Sales
 | Gas/LPG/LNG Type | Gas/LPG/LNG Name | Gas/LPG/LNG Dwt | Gas/LPG/LNG Built | Gas/LPG/LNG Yard | Gas/LPG/LNG M/E | Gas/LPG/LNG SS due | Gas/LPG/LNG Cbm | Gas/LPG/LNG Price | Gas/LPG/LNG Buyers | Gas/LPG/LNG Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LNG | GASLOG SALEM | 82,023 | 2015 | SAMSUNG, S. Korea | Wartsila | Apr-25 | 151,900 | $ 128.0m | Chinese (CDBL) | against 5 yrs BB without purchase obligation |
@@ -303,7 +297,6 @@ In the Panamax sector we had the sale of the "ORIENT VIOLET" (77,111dwt-blt '15,
 
 # Newbuilding Market
 ## TC Rates
-
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Vessel | 15/10/2021 | 08/10/2021 | ±% | 2020 | 2019 | 2018 |  |
@@ -371,7 +364,6 @@ A healthy number of newbuilding orders continues to surface on a weekly basis, w
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | 15/10/2021 | 08/10/2021 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |

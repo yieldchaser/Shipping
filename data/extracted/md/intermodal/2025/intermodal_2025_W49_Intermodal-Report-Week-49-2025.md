@@ -1,5 +1,3 @@
-## Weekly Market Report
-
 ## Market Insight
 <mark>By Yiannis Parganas, Head of Research Department</mark>
 
@@ -17,7 +15,6 @@ Looking ahead to 2026, the USDA's projection that China will increase soybean im
 
 ## Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 05/12/2025 WS points | 05/12/2025 $/day | 28/11/2025 WS points | 28/11/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 265k | MEG-SPORE | 125 | 124,723 | 138 | 144,634 | -13.8% | 37,255 | 39,466 |
@@ -37,7 +34,6 @@ Looking ahead to 2026, the USDA's projection that China will increase soybean im
 |  | 50k | ARA-UKC | 201 | 27,785 | 230 | 35,968 | -22.8% | 26,872 | 46,194 |
 
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 5/Dec/24 | 50 | 100 | 170 |
@@ -53,8 +49,8 @@ Looking ahead to 2026, the USDA's projection that China will increase soybean im
 | 5/Oct/25 | 95 | 145 | 170 |
 | 5/Nov/25 | 110 | 160 | 180 |
 | 5/Dec/25 | 120 | 170 | 185 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 5/Dec/24 | 100 | 150 | 220 | 160 |
@@ -120,10 +116,10 @@ Most Aframax regional markets retreated last week, though the US Gulf showed som
 | BHSI | 841 | $15,146 | 827 | $14,885 | **14** | **1.8%** | 702 | 586 |
 
 ### Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 5 to 8 mos | Aomari | 2014 | 81,009 dwt | dely Qinzhou 5 Dec redel worldwide | $17,000/day | Norden |
-| 12 to 14 mos | DSI Pollux | 2015 | 60,446 dwt | Dely Mariveles 9/11 Dec redel worldwide | $14,750/day | Stone Shipping |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 5 to 8 mos | Aomari | 2014 | 81,009 dwt |  |  |
+| 12 to 14 mos | DSI Pollux | 2015 | 60,446 dwt |  |  |
 
 ### TC Rates
 | Sector | Tenor | 05/12/2025 | 28/11/2025 | ±% | Diff | 2024 | 2023 |
@@ -138,7 +134,6 @@ Most Aframax regional markets retreated last week, though the US Gulf showed som
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 5/Dec/24 | 1500 | 900 | 1000 | 800 | 1200 |
@@ -156,7 +151,6 @@ Most Aframax regional markets retreated last week, though the US Gulf showed som
 | 5/Dec/25 | 4000 | 1700 | 1800 | 1600 | 2800 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 5/Dec/24 | 10000 | 8000 | 7000 | 6000 |
@@ -294,8 +288,8 @@ In Turkey, sentiment edged higher, supported by improving conditions in both the
 | USD/INR | 89.95 | 89.36 | 0.66% | 89.95 |
 | USD/PKR | 280.50 | 282.50 | -0.71% | 284.95 |
 | USD/TRY | 42.52 | 42.48 | 0.11% | 42.52 |
-## Demolition Sales
 
+## Demolition Sales
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | MORALITY | 49,474 | 9,824 | 2003 | STX, S. Korea | TANKER | $ 416/Ldt | Indian |

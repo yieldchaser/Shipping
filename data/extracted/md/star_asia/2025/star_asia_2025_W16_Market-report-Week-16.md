@@ -48,33 +48,33 @@ Handy market fared better with uptick in demand in the Pacific region. Both rout
 
 # Baltic Exchange Dry Bulk Indices
 
-| INDICES |  | CURRENT | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y CHANGE |
-|---|---|---|---|---|---|---|---|
-| BDI |  | 1,261 | 1,274 |  | 1,919 | -1.02% | -34.29% |
-| BCI |  | 1,678 | 1,803 |  | 2,839 | -6.93% | -40.89% |
-| BPI |  | 1,273 | 1,186 |  | 1,916 | +7.34% | -33.56% |
-| BSI |  | 950 | 939 |  | 1,394 | +1.17% | -31.85% |
-| BHSI |  | 569 | 582 |  | 741 | -2.23% | -23.21% |
-|  |  |  | Dry | Bulk | Values (Weekly) |  |  |
-| TYPE | DWT | NB | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS 10 | YEARS 15 YEARS |
-| CAPE | 180,000 |  | 74 |  | 76 | 60 43 | (E) 29 |
-| KAMSARMAX | 82,000 |  | 37 |  | 39 | 33 24 | (E) 16 |
-| ULTRAMAX | 64,000 |  | 34 |  | 38 | 31 (E) | 23 15 (56K) |
-| HANDY | 38,000 |  | 31 |  | 33 | 25 | 17 14 |
-| *(amount in USD | million) \| (E) | - eco units |  |  |  |  |  |
-|  |  |  | Dry | Bulk - | S&P Report |  |  |
-|  |  |  |  |  |  | PRICE |  |
-| VESSEL | NAME | TYPE | DWT | YEAR | BUILT |  | COMMENTS / BUYERS |
-|  |  |  |  |  |  | (MILLION) USD |  |
-| CAPE | ACACIA | VLOC | 206,237 | 2005 | JAPAN | 22.0 | CHINESE BUYERS |
-| CHINA | PROGRESS | CAPE | 174,322 | 2006 | CHINA | 16.5 | CHINESE BUYERS |
-| SHUN FU DA |  | KMAX | 82,849 | 2006 | JAPAN | 11.5 | UNDISCLOSED |
-| SANTA | MARIA | PMAX | 75,825 | 2008 | CHINA | 10.5 | MIDDLE EASTERN BUYERS |
-| VANTAGE | LADY | UMAX | 63,194 | 2015 | CHINA | 20.0 | COSMOSHIP MANAGEMENT |
-| AMIS WISDOM | III | UMAX | 61,527 | 2011 | JAPAN | 17.5 | ARM SHIPPING |
-| BUNUN | HERO | HANDY | 37,811 | 2015 | JAPAN | 18.5 | MANTA DENIZCILIK |
-| LAGO DI | CANCANO | HANDY | 37,000 | 2014 | CHINA | 16.0 | UNDISCLOSED |
-| MAJESTIC | MARINA | HANDY | 32,115 | 2009 | JAPAN | 10.5 | VIETNAMESE BUYERS |
+| INDICES | CURRENT | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
+| BDI | 1,261 | 1,274 |  | 1,919 | -1.02% | -34.29% |
+| BCI | 1,678 | 1,803 |  | 2,839 | -6.93% | -40.89% |
+| BPI | 1,273 | 1,186 |  | 1,916 | +7.34% | -33.56% |
+| BSI | 950 | 939 |  | 1,394 | +1.17% | -31.85% |
+| BHSI | 569 | 582 |  | 741 | -2.23% | -23.21% |
+|  |  | Dry | Bulk | Values (Weekly) |  |  |
+| TYPE | NB | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS 10 | YEARS 15 YEARS |
+| CAPE |  | 74 |  | 76 | 60 43 | (E) 29 |
+| KAMSARMAX |  | 37 |  | 39 | 33 24 | (E) 16 |
+| ULTRAMAX |  | 34 |  | 38 | 31 (E) | 23 15 (56K) |
+| HANDY |  | 31 |  | 33 | 25 | 17 14 |
+| *(amount in USD | (E) | - eco units |  |  |  |  |
+|  |  | Dry | Bulk - | S&P Report |  |  |
+|  |  |  |  |  | PRICE |  |
+| VESSEL | TYPE | DWT | YEAR | BUILT |  | COMMENTS / BUYERS |
+|  |  |  |  |  | (MILLION) USD |  |
+| CAPE | VLOC | 206,237 | 2005 | JAPAN | 22.0 | CHINESE BUYERS |
+| CHINA | CAPE | 174,322 | 2006 | CHINA | 16.5 | CHINESE BUYERS |
+| SHUN FU DA | KMAX | 82,849 | 2006 | JAPAN | 11.5 | UNDISCLOSED |
+| SANTA | PMAX | 75,825 | 2008 | CHINA | 10.5 | MIDDLE EASTERN BUYERS |
+| VANTAGE | UMAX | 63,194 | 2015 | CHINA | 20.0 | COSMOSHIP MANAGEMENT |
+| AMIS WISDOM | UMAX | 61,527 | 2011 | JAPAN | 17.5 | ARM SHIPPING |
+| BUNUN | HANDY | 37,811 | 2015 | JAPAN | 18.5 | MANTA DENIZCILIK |
+| LAGO DI | HANDY | 37,000 | 2014 | CHINA | 16.0 | UNDISCLOSED |
+| MAJESTIC | HANDY | 32,115 | 2009 | JAPAN | 10.5 | VIETNAMESE BUYERS |
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -106,13 +106,9 @@ Clean:
 
 ## Page 6
 
-**LR: LR2 in the MEG saw a substantial dip, with rates falling by 20 points, settling at WS130's.**
+**LR:** LR2 in the MEG saw a substantial dip, with rates falling by 20 points, settling at WS130's. This downturn stems from weakened product tanker demand in both European and Asian directions, largely fueled by growing concerns about global economic recession.
 
-This downturn stems from weakened product tanker demand in both European and Asian directions, largely fueled by growing concerns about global economic recession.
-
-**MR: The MR market in the Far East continues to face downward pressure on rates with**
-
-increasing number of available tonnages from extended weak demand. With vessel availability continuing to grow, the market outlook remains bearish.
+**MR:** The MR market in the Far East continues to face downward pressure on rates with increasing number of available tonnages from extended weak demand. With vessel availability continuing to grow, the market outlook remains bearish.
 
 # Baltic Exchange Tanker Indices
 
@@ -220,16 +216,16 @@ TURKEY
 
 # Ships Sold for Recycling
 
-| VESSEL NAME | LDT/TON | YEAR / BUILT | TYPE |  |
-| --- | --- | --- | --- | --- |
-|  |  |  |  | (USD/LDT LT) |
-| SEA DOVE | 7,793 | 1987 / JAPAN | BULKER |  |
-| KING HUNG NO.2 | 947 | 1981 / JAPAN | TANKER |  |
-| LORD 17 | 2,583 | 1987 / JAPAN | GENERAL CARGO | UNDISCLOSED |
-| PASHA 9 | 2,396 | 1995 / JAPAN | GENERAL CARGO | UNDISCLOSED |
-| JARUCHA 6 | 975 | 2006 / CHINA | GENERAL CARGO |  |
-| CHARLENE | 6,068 | 1996 / JAPAN | BULKER |  |
-| HEUNG A ULSAN | 2,242 | 1996 / S.KOREA | CONTAINER | UNDISCLOSED |
+| VESSEL NAME | LDT/TON | YEAR / BUILT | TYPE |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| SEA DOVE | 7,793 | 1987 / JAPAN | BULKER |
+| KING HUNG NO.2 | 947 | 1981 / JAPAN | TANKER |
+| LORD 17 | 2,583 | 1987 / JAPAN | GENERAL CARGO |
+| PASHA 9 | 2,396 | 1995 / JAPAN | GENERAL CARGO |
+| JARUCHA 6 | 975 | 2006 / CHINA | GENERAL CARGO |
+| CHARLENE | 6,068 | 1996 / JAPAN | BULKER |
+| HEUNG A ULSAN | 2,242 | 1996 / S.KOREA | CONTAINER |
 
 PRICE 460 440
 
@@ -257,24 +253,24 @@ The ship recycling markets remained largely stable this week, with steady domest
 
 with import duties and anti-dumping probes by the EU, Vietnam, and Malaysia. India utilised just 3% of its EU HRC quota in Q4. Outlook remains cautious amid tightening EU quotas and broader protectionist policies. However, a 7% dip in Chinese steel exports and India's exclusion from some anti-dumping measures offer a glimmer of hope for a potential price recovery and improved competitiveness in FY'26.
 
-| VESSEL NAME | TYPE |  | LDT | ARRIVAL | BEACHING |
-|---|---|---|---|---|---|
-| GLUON | CONTIANER |  | 3,193 | 19.04.2025 | AWAITING |
-| LORD 17 | GENERAL CARGO |  | 2,583 | 12.04.2025 | AWAITING |
-| AURO | TANKER |  | 20,008 | 14.04.2025 | AWAITING |
-| PASHA 9 | GENERAL CARGO |  | 2,396 | 16.04.2025 | AWAITING |
-| KELSEY 2 | CHEM. TANKER |  | 3,230 | 17.04.2025 | 20.04.2025 |
-| ATHENA | AHTS |  | 1,177 | 03.04.2025 | 16.04.2025 |
-| SOCOL 9 | GENERAL CARGO |  | 3,672 | 08.04.2025 | 12.04.2025 |
-| ADVENTURE | GENERAL CARGO |  | 2,073 | 05.04.2025 | 10.04.2025 |
-| The Chattogram ship clarity from environmental continue cautiously, but yards remains on hold, verbally agreed to grant an awaited gazette, expected and market sentiment. There are a number of issuance of the NOC's, | recycling market saw authorities regarding the issuance of No limiting activity. Market extension, though next week, is likely ships sold in the past delaying the entire Anchorage & Beaching | Chattogram the to process | another subdued yard upgrade Objection Certificate participants official determine awaiting at outer Position (APRIL | week as recyclers extensions. for report that authorities notification is still the near-term pace anchorage due 2025) | await Activities non-HKC-compliant have pending. The of activity to the |
-|  |  |  |  |  |  |
-| VESSEL NAME | TYPE |  | LDT | ARRIVAL | BEACHING |
-| PILATUS 32 | LPG |  | 974 | 16.04.2025 | AWAITING |
-| SEAWORLD | ROPAX |  | 5,534 | 16.04.2025 | AWAITING |
-| JARUCHA 6 | GENERAL CARGO |  | 974 | 10.04.2025 | 17.04.2025 |
-| KING HUNG NO.2 | TANKER |  | 947 | 27.03.2025 | 09.04.2025 |
-| RICH ANNA | GC |  | 1,010 | 27.03.2025 | 10.04.2025 |
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| GLUON | CONTIANER | 3,193 | 19.04.2025 | AWAITING |
+| LORD 17 | GENERAL CARGO | 2,583 | 12.04.2025 | AWAITING |
+| AURO | TANKER | 20,008 | 14.04.2025 | AWAITING |
+| PASHA 9 | GENERAL CARGO | 2,396 | 16.04.2025 | AWAITING |
+| KELSEY 2 | CHEM. TANKER | 3,230 | 17.04.2025 | 20.04.2025 |
+| ATHENA | AHTS | 1,177 | 03.04.2025 | 16.04.2025 |
+| SOCOL 9 | GENERAL CARGO | 3,672 | 08.04.2025 | 12.04.2025 |
+| ADVENTURE | GENERAL CARGO | 2,073 | 05.04.2025 | 10.04.2025 |
+| The Chattogram ship clarity from environmental continue cautiously, but yards remains on hold, verbally agreed to grant an awaited gazette, expected and market sentiment. There are a number of issuance of the NOC's, | recycling market saw authorities regarding the issuance of No limiting activity. Market extension, though next week, is likely ships sold in the past delaying the entire Anchorage & Beaching | another subdued yard upgrade Objection Certificate participants official determine awaiting at outer Position (APRIL | week as recyclers extensions. for report that authorities notification is still the near-term pace anchorage due 2025) | await Activities non-HKC-compliant have pending. The of activity to the |
+|  |  |  |  |  |
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| PILATUS 32 | LPG | 974 | 16.04.2025 | AWAITING |
+| SEAWORLD | ROPAX | 5,534 | 16.04.2025 | AWAITING |
+| JARUCHA 6 | GENERAL CARGO | 974 | 10.04.2025 | 17.04.2025 |
+| KING HUNG NO.2 | TANKER | 947 | 27.03.2025 | 09.04.2025 |
+| RICH ANNA | GC | 1,010 | 27.03.2025 | 10.04.2025 |
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -367,9 +363,7 @@ Turkey's imported scrap market declined sharply under the weight of weak steel f
 
 weighed the implications of former President Trump's latest tariff measures. While initial optimism stemmed from tariff exemptions on consumer electronics, sentiment turned cautious following reports that China had instructed its airlines to halt Boeing deliveries. Trump subsequently urged Beijing to reopen communication channels in an effort to deescalate the ongoing trade conflict. Traders remain attentive to the potential expansion of tariffs to the copper sector, with reports indicating that industry groups are lobbying for curbs on U.S. copper exports, including ore and scrap. Any such move could disrupt the global copper supply chain, particularly as the U.S. remains the leading exporter of copper scrap to China. Meanwhile, Chinese smelters continue to grapple with tight supplies of copper concentrate.
 
-**Iron ore prices fell below the key psychological threshold of US$100/ton this week,**
-
-pressured by intensifying global trade tensions and faltering demand signals. Fears of a deepening trade war have dampened market sentiment, with added drag from China's struggling property sector. Residential property sales slipped 0.4% year-on-year in Q1, while new home prices declined by 5% over the same period. Losses in iron ore were somewhat contained by persistent supply-side constraints. Rio Tinto reported a 9% year-on-year decline in Q1 exports due to cyclone-related logistical disruptions. Similarly, Vale shipped less than expected, citing heavy rainfall and ongoing licensing issues. Despite the broader headwinds, Chinese steelmakers maintained a positive outlook. Crude steel output rose 4.6% year-on-year in March to 92.81 million tons, while steel product output posted an even stronger increase of 8.3%, underscoring resilient domestic demand.
+Iron ore prices fell below the key psychological threshold of US$100/ton this week, pressured by intensifying global trade tensions and faltering demand signals. Fears of a deepening trade war have dampened market sentiment, with added drag from China's struggling property sector. Residential property sales slipped 0.4% year-on-year in Q1, while new home prices declined by 5% over the same period. Losses in iron ore were somewhat contained by persistent supply-side constraints. Rio Tinto reported a 9% year-on-year decline in Q1 exports due to cyclone-related logistical disruptions. Similarly, Vale shipped less than expected, citing heavy rainfall and ongoing licensing issues. Despite the broader headwinds, Chinese steelmakers maintained a positive outlook. Crude steel output rose 4.6% year-on-year in March to 92.81 million tons, while steel product output posted an even stronger increase of 8.3%, underscoring resilient domestic demand.
 
 Iron Ore
 

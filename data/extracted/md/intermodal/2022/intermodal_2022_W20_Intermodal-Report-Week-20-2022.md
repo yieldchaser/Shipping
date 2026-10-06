@@ -58,7 +58,6 @@ The Baltic Exchange
 
 # Intermodal Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | Current WS points | Current $/day | Previous WS points | Previous $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 42 | -13,187 | 41 | -8,166 | -61.5% | 2,246 | 52,119 |
@@ -74,14 +73,14 @@ The Baltic Exchange
 |  | 75k | MEG-JAPAN | 263 | 48,678 | 290 | 61,076 | -20.3% | 6,368 | 28,160 |
 | Clean | 55k | MEG-JAPAN | 302 | 43,230 | 311 | 47,978 | -9.9% | 6,539 | 19,809 |
 |  | 37K | UKC-USAC | 343 | 34,871 | 347 | 35,103 | -0.7% | 4,496 | 12,977 |
-## Indicative Period Charters
 
+## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 36 mos | C. PROGRESS | 2012 | 313,990 dwt | $27,000/day | Koch |
-| 12 mos | HERCULES I | 2017 | 299,011 dwt | $29,250/day | Navig8 |
-### Dirty WS Rates (1-Year Trend)
+| 36 mos | C. PROGRESS | 2012 | 313,990 dwt |  |  |
+| 12 mos | HERCULES I | 2017 | 299,011 dwt |  |  |
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 20/May/21 | 30 | 80 | 90 |
@@ -97,8 +96,8 @@ The Baltic Exchange
 | 20/Mar/22 | 40 | 300 | 290 |
 | 20/Apr/22 | 35 | 280 | 260 |
 | 20/May/22 | 30 | 120 | 150 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 20/May/21 | 100 | 110 | 120 | 150 |
@@ -117,8 +116,8 @@ The Baltic Exchange
 
 | TC Rates $/day VLCCSuezmaxAframaxPanamaxMRHandy | TC Rates 20-May-22 300k 1yr TC 300k 3yr TC 150k 1yr TC 150k 3yr TC 110k 1yr TC 110k 3yr TC 75k 1yr TC 75k 3yr TC 52k 1yr TC 52k 3yr TC 36k 1yr TC 36k 3yr TC | TC Rates 13-May-22 28,000 29,000 21,500 21,500 21,500 19,500 17,750 15,750 18,000 15,000 12,000 12,250 | TC Rates ±% 28,000 29,000 19,500 20,500 21,000 19,500 17,750 15,750 17,000 15,000 12,000 12,250 | TC Rates Diff 0.0% 0.0% 10.3% 4.9% 2.4% 0.0% 0.0% 0.0% 5.9% 0.0% 0.0% 0.0% | TC Rates 2021 0 0 2000 1000 500 0 0 0 1000 0 0 0 | TC Rates 2020 25,684 28,672 17,226 22,700 15,854 19,714 14,184 15,950 12,608 13,804 11,292 13,054 | 42,038 34,772 29,543 27,481 23,380 21,854 17,322 16,296 15,505 15,916 13,966 14,051 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | May-22 avg | Apr-22 avg | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300KT DH | 75.7 | 73.7 | 2.7% | 69.7 | 71.5 | 72.1 |
@@ -159,13 +158,12 @@ In the MR1 sector we had the sale of the "CLAXTON BAY" (36,686dwt-bl't '10, S. K
 | BHSI | 1,662 | $29,908 | 1,673 | $30,107 | -11 | -0.7% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| min 20 Sep/max 20 Nov 2023 MAIA | 2009 | 82,193 dwt |  | Qinhuangdao 25 May | $25,000/day | H. Glovis |
-| 11 to 14 mos | YING HAO | 2012 | 75,449 dwt | South China 20/27 May | $26,000/day | Grain Compass KFT |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| min 20 Sep/max 20 Nov 2023 MAIA | 2009 | 82,193 dwt |  |  |  |
+| 11 to 14 mos | YING HAO | 2012 | 75,449 dwt |  |  |
 
 ## TC Rates
-
 | Sector | Tenor | 20/05/2022 | 13/05/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 41,750 | 40,000 | **4.4%** | **1,750** | 32,684 | 15,361 |
@@ -182,7 +180,6 @@ In the MR1 sector we had the sale of the "CLAXTON BAY" (36,686dwt-bl't '10, S. K
 |  | **32K 3yr TC** | 14,250 | 14,250 | 0.0% | 0 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 20/May/21 | 3000 | 3000 | 3000 | 1500 | 3000 |
@@ -200,7 +197,6 @@ In the MR1 sector we had the sale of the "CLAXTON BAY" (36,686dwt-bl't '10, S. K
 | 20/May/22 | 4000 | 4000 | 3500 | 2000 | 4000 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 20/May/21 | 30000 | 28000 | 26000 | 25000 |
@@ -250,7 +246,6 @@ In the Ultramax sector we had the sale of the "YANGZHOU CONFIDENCE" (63,165dwt-b
 
 # Intermodal Secondhand Sales
 ## Tankers
-
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | SVET | 321,039 | 2013 | BOHAI, China | Wartsila | Nov-23 | DH | undisclosed | U.A.E. (Al Seer Marine) | BWTS fitted, distressed sale |
@@ -312,7 +307,6 @@ In the Ultramax sector we had the sale of the "YANGZHOU CONFIDENCE" (63,165dwt-b
 
 # Intermodal Secondhand Sales
 ## Secondhand Sales
-
 | Gas/LPG/LNG Type | Gas/LPG/LNG Name | Gas/LPG/LNG Dwt | Gas/LPG/LNG Built | Gas/LPG/LNG Yard | Gas/LPG/LNG M/E | Gas/LPG/LNG SS due | Gas/LPG/LNG Cbm | Gas/LPG/LNG Price | Gas/LPG/LNG Buyers | Gas/LPG/LNG Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | COUGAR | 54,450 | 2015 | HYUNDAI, S. Korea | MAN-B\&amp;W | Jun-25 | 82,320 | $ 70.0m | Japanese | 10 yrs sale &amp; lease back |
@@ -327,7 +321,6 @@ In the Ultramax sector we had the sale of the "YANGZHOU CONFIDENCE" (63,165dwt-b
 
 # Intermodal Newbuilding Market
 ## TC Rates
-
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Vessel | 20/05/2022 | 13/05/2022 | ±% | 2021 | 2020 | 2019 |
@@ -399,7 +392,6 @@ The shipbuilding activity has bounced back last week, with LNG sector leading th
 
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | Markets | 20/05/2022 | 13/05/2022 | ±% | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
@@ -430,8 +422,8 @@ The current economic conditions across all the subcontinent nations continue to 
 | 20/Mar/22 | 660 | 600 | 650 | 450 |
 | 20/Apr/22 | 650 | 620 | 640 | 450 |
 | 20/May/22 | 620 | 610 | 630 | 320 |
-## Indicative Demolition Prices ($/ldt)
 
+## Indicative Demolition Prices ($/ldt)
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/ldt | Demolition Sales Breakers | Demolition Sales Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ODYSSEY | 164,286 | 24,901 | 2002 | SAMHO, S. Korea | TANKER | undisclosed | Pakistani |  |

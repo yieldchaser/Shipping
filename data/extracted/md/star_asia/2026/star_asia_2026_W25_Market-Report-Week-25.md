@@ -32,27 +32,19 @@ Dry bulk market displayed mixed movements this week, as the benchmark BDI clawed
 
 ## Segment Highlights
 
-**Capesize: Capesize trended downward this week as supply-side pressures from easing port congestion**
+**Capesize:** Capesize trended downward this week as supply-side pressures from easing port congestion and returning ballast vessels collided with cautious shipper bids, forcing T/A to slide to US$40,375/day and EC South America F/H trips to drop to US$68,700's. Increased iron ore volumes out of Brazil offered essential support to hold the Brazil/China route at a sharp decline capping in the US$30s per ton, which simultaneously pulled Brazil R/V down slightly to US$35,600's. In contrast, the Pacific r/v market showed a minor upward adjustment to US$27,525's.
 
-and returning ballast vessels collided with cautious shipper bids, forcing T/A to slide to US$40,375/day and EC South America F/H trips to drop to US$68,700's. Increased iron ore volumes out of Brazil offered essential support to hold the Brazil/China route at a sharp decline capping in the US$30s per ton, which simultaneously pulled Brazil R/V down slightly to US$35,600's. In contrast, the Pacific r/v market showed a minor upward adjustment to US$27,525's.
+**Panamax / Kamsarmax:** Panamax observed a split this week as a mid-week rebound driven by steady Atlantic grain demand and a tighter prompt vessel supply successfully defended spot rates against early weakness. In contrast, an oversupply of prompt ships and slowing Pacific coal demand heavily pressured the eastern basin, dragging Pacific r/v down to US$17,900's despite severe congestion at Indonesian ports delaying some tonnage. The resilient Atlantic basin kept the floor steady, though broader sentiment remained capped with T/A trips settling at US$18,150 per day.
 
-**Panamax / Kamsarmax: Panamax observed a split this week as a mid-week rebound driven by steady**
+**Supramax / Ultramax:** Supramax market climbed higher in the Atlantic this week as strong cargo inflows from the USG and Mediterranean combined with extremely tight vessel availability to push T/A trips to US$27,700's and F/H up to US$29,250 per day. Conversely, expanding tonnage supply and reduced coal volumes bound for China weighed on the Pacific basin, nudging Pacific R/V down to US$17,700's. While mounting vessel congestion at Indonesian ports helped slow the decline, near-term market upside remains highly dependent on the Atlantic maintaining its current momentum to offset the soft cargo demand in the East.
 
-Atlantic grain demand and a tighter prompt vessel supply successfully defended spot rates against early weakness. In contrast, an oversupply of prompt ships and slowing Pacific coal demand heavily pressured the eastern basin, dragging Pacific r/v down to US$17,900's despite severe congestion at Indonesian ports delaying some tonnage. The resilient Atlantic basin kept the floor steady, though broader sentiment remained capped with T/A trips settling at US$18,150 per day.
-
-**Supramax / Ultramax: Supramax market climbed higher in the Atlantic this week as strong cargo inflows**
-
-from the USG and Mediterranean combined with extremely tight vessel availability to push T/A trips to US$27,700's and F/H up to US$29,250 per day. Conversely, expanding tonnage supply and reduced coal volumes bound for China weighed on the Pacific basin, nudging Pacific R/V down to US$17,700's. While mounting vessel congestion at Indonesian ports helped slow the decline, near-term market upside remains highly dependent on the Atlantic maintaining its current momentum to offset the soft cargo demand in the East.
-
-**Handysize: Handysize maintained a broadly positive trajectory this week, heavily supported by sustained**
-
-tonnage tightening and firm cargo demand across the Atlantic basin. While the Asian markets presented a more balanced environment with stable regional sentiment, owner optimism remained robust as longhaul employment requirements kept available vessel supply highly restricted.
+**Handysize:** Handysize maintained a broadly positive trajectory this week, heavily supported by sustained tonnage tightening and firm cargo demand across the Atlantic basin. While the Asian markets presented a more balanced environment with stable regional sentiment, owner optimism remained robust as longhaul employment requirements kept available vessel supply highly restricted.
 
 ## Page 3
 
 ### Baltic Dry Index (BDI)
 
-**BDI: 2,722** (WoW: -0.26% | YoY: -55.45%)
+**BDI:** 2,722 (WoW: -0.26% | YoY: -55.45%)
 
 | BCI | BPI | BSI | BHSI |
 | :---: | :---: | :---: | :---: |
@@ -102,25 +94,15 @@ Tanker segment is experiencing a pivotal wave of strategic repositioning followi
 
 ## Segment Highlights
 
-**VLCC: MEG closed slightly higher as a steady draw of Far East-bound fixtures from Fujairah gradually**
+**VLCC:** MEG closed slightly higher as a steady draw of Far East-bound fixtures from Fujairah gradually depleted available prompt tonnage amidst ongoing US-Iran ceasefire negotiations. While the opening could eventually boost regional cargo inflows, players are currently taking a cautious approach, expecting immediate efforts to focus on clearing the massive backlog of trapped crude. MEG/China trips ended the week WS450.
 
-depleted available prompt tonnage amidst ongoing US-Iran ceasefire negotiations. While the opening could eventually boost regional cargo inflows, players are currently taking a cautious approach, expecting immediate efforts to focus on clearing the massive backlog of trapped crude. MEG/China trips ended the week WS450.
+**Suezmax:** West African market strengthened with heightened interest from Chinese and Indian buyers looking to secure regional crude. 130,000mt Nigeria/UKC rose to WS169. This upward rate is further intensified by rising South American export ton-miles and a tight list of local openers in the USG, which is forcing charterers to compete for the same ballast tonnage that would otherwise supply West Africa.
 
-**Suezmax: West African market strengthened with heightened interest from Chinese and Indian buyers**
+**Aframax:** Middle East faces prolonged downward pressure as a severe lack of contract momentum and an oversupply of tonnage have dragged rates below WS300 for the first time since the war began. In the Mediterranean, rates are also adjusting downward as June programs wrap up in Ceyhan, with 80,000mt TD19 dipping to WS187.
 
-looking to secure regional crude. 130,000mt Nigeria/UKC rose to WS169. This upward rate is further intensified by rising South American export ton-miles and a tight list of local openers in the USG, which is forcing charterers to compete for the same ballast tonnage that would otherwise supply West Africa.
+**LR1 / LR2:** Middle East LR2 market ended on a downward demand, with rates reversing mid-week as fresh cargo inflows stalled and available tonnage built up. TC1 ended the week at WS492. Facing persistent highs in the WS500 range early on, shippers successfully pushed rates down by delaying non-urgent stems and actively switching to smaller vessel classes. LR1 also saw rates slipped settling at WS511 for TC5.
 
-**Aframax: Middle East faces prolonged downward pressure as a severe lack of contract momentum and**
-
-an oversupply of tonnage have dragged rates below WS300 for the first time since the war began. In the Mediterranean, rates are also adjusting downward as June programs wrap up in Ceyhan, with 80,000mt TD19 dipping to WS187.
-
-**LR1 / LR2: Middle East LR2 market ended on a downward demand, with rates reversing mid-week as fresh**
-
-cargo inflows stalled and available tonnage built up. TC1 ended the week at WS492. Facing persistent highs in the WS500 range early on, shippers successfully pushed rates down by delaying non-urgent stems and actively switching to smaller vessel classes. LR1 also saw rates slipped settling at WS511 for TC5.
-
-**MR: Far East MR market ended lower this week as a noticeable slowdown in export volumes from Asian**
-
-refineries limited fresh cargo options. In the MEG, TC17 trips fell to WS542.
+**MR:** Far East MR market ended lower this week as a noticeable slowdown in export volumes from Asian refineries limited fresh cargo options. In the MEG, TC17 trips fell to WS542.
 
 ## Page 6
 
@@ -221,9 +203,7 @@ ALIAGA |
 
 ## Page 12
 
-**Chattogram, Bangladesh: This week saw Chattogram buyers stepping back, triggering a downward price**
-
-correction of approximately US$25/ton across all vessel classes. The adjustment reflects a shift to more realistic buying levels now that previous anxieties surrounding the national budget have eased, following the government's implementation of a VAT increase from BDT 1,200 to BDT 1,500 rather than heavier feared taxes. The resolution of global conflict, marked by the reopening of the Strait of Hormuz and the lifting of U.S. sanctions on Iranian oil, is heavily priming the global market to release a massive wave of ageing vessels that had been starved from the region for 11 weeks.
+**Chattogram, Bangladesh:** This week saw Chattogram buyers stepping back, triggering a downward price correction of approximately US$25/ton across all vessel classes. The adjustment reflects a shift to more realistic buying levels now that previous anxieties surrounding the national budget have eased, following the government's implementation of a VAT increase from BDT 1,200 to BDT 1,500 rather than heavier feared taxes. The resolution of global conflict, marked by the reopening of the Strait of Hormuz and the lifting of U.S. sanctions on Iranian oil, is heavily priming the global market to release a massive wave of ageing vessels that had been starved from the region for 11 weeks.
 
 ## Page 13
 
@@ -250,33 +230,21 @@ Overall market sentiment was seen softening during the week, largely driven by a
 
 # SUB-CONTINENT & TURKEY SCRAP MARKETS
 
-**India: The seaborne scrap market remains quiet as ample local inventory and tepid purchasing sentiment**
+**India:** The seaborne scrap market remains quiet as ample local inventory and tepid purchasing sentiment leave mills with little incentive to book fresh import tonnage. While a 500t shipment of UK-origin MS turnings was finalised at US$317/t CFR Nhava Sheva, negotiations for Brazil-origin HMS 80:20 are stuck in the US$335-US$340/t CFR range. Sellers are offering UK shredded scrap at US$385-US$390/t CFR, but buyers continue to evaluate options defensively without committing to larger global volumes.
 
-leave mills with little incentive to book fresh import tonnage. While a 500t shipment of UK-origin MS turnings was finalised at US$317/t CFR Nhava Sheva, negotiations for Brazil-origin HMS 80:20 are stuck in the US$335-US$340/t CFR range. Sellers are offering UK shredded scrap at US$385-US$390/t CFR, but buyers continue to evaluate options defensively without committing to larger global volumes.
+**Pakistan:** Imported shredded scrap sentiment softened further this week as regional buyers actively lowered their workable targets amid extremely cautious procurement strategies. Highlighted transactions included a Malaysia-origin shredded scrap deal finalised at US$430/t CFR Karachi, even as broader buying interest continues to lose steam. Reflecting this cooling atmosphere, subsequent containerised offers for UK and EU-origin shredded material slipped into a lower bracket of US$410-US$415/t CFR.
 
-**Pakistan: Imported shredded scrap sentiment softened further this week as regional buyers actively**
+**Bangladesh:** The import arena in Chattogram drifted lower as poor end-user steel sales and intense cost pressures forced local mills to cut operational capacity below 50%. This reduced utilisation has significantly elevated fixed overheads, pinning workable shredded scrap bids near US$400/t CFR and standard HMS down to US$375-US$380/t CFR. Exporters holding UK shredded material at US$407-US$410/t CFR and EU PNS at US$420/t CFR are finding very few takers in this highly constrained environment.
 
-lowered their workable targets amid extremely cautious procurement strategies. Highlighted transactions included a Malaysia-origin shredded scrap deal finalised at US$430/t CFR Karachi, even as broader buying interest continues to lose steam. Reflecting this cooling atmosphere, subsequent containerised offers for UK and EU-origin shredded material slipped into a lower bracket of US$410-US$415/t CFR.
-
-**Bangladesh: The import arena in Chattogram drifted lower as poor end-user steel sales and intense cost**
-
-pressures forced local mills to cut operational capacity below 50%. This reduced utilisation has significantly elevated fixed overheads, pinning workable shredded scrap bids near US$400/t CFR and standard HMS down to US$375-US$380/t CFR. Exporters holding UK shredded material at US$407-US$410/t CFR and EU PNS at US$420/t CFR are finding very few takers in this highly constrained environment.
-
-**Turkiye: Deep-sea import indicators softened to US$385-US$398/t CFR for US-origin HMS 80:20 on 17 June,**
-
-compressed by slow domestic rebar sales and a lack of fresh mill booking interest. With American exporters heavily focused on their own domestic market, Turkish manufacturers are using lower-priced European containerised cargoes to actively chip away at seller price targets. This ongoing standoff over workable finished steel margins has left the short-term market direction highly uncertain and heavily biased toward the buyer.
+**Turkiye:** Deep-sea import indicators softened to US$385-US$398/t CFR for US-origin HMS 80:20 on 17 June, compressed by slow domestic rebar sales and a lack of fresh mill booking interest. With American exporters heavily focused on their own domestic market, Turkish manufacturers are using lower-priced European containerised cargoes to actively chip away at seller price targets. This ongoing standoff over workable finished steel margins has left the short-term market direction highly uncertain and heavily biased toward the buyer.
 
 # COMMODITIES, BUNKERS & RATES
 
 ## Commodities Focus
 
-**Coal futures retreated below US$145 per ton, reversing their recent run toward three-year highs as the**
+Coal futures retreated below US$145 per ton, reversing their recent run toward three-year highs as the easing of the energy crisis significantly reduced incentives for power utilities to switch from gas to coal.
 
-easing of the energy crisis significantly reduced incentives for power utilities to switch from gas to coal.
-
-**Aluminium futures in the UK similarly fell to a two-month low of US$3,400 per ton, allowing exports from**
-
-the Persian Gulf-which accounts for approximately 9% of global primary aluminium output-to resume, though supply chains face a slow recovery due to earlier facility damage. The broader metals complex is facing additional pressure from a strong U.S. dollar and weakening consumption in China, where steel rebar futures hit a two-month low near CNY 3,120 per ton. This industrial slowdown is underscored by a 2.7% y-o-y drop in Chinese crude steel production to 84.35 million tons for May, alongside pandemic-level pullbacks in fixed-asset investment and consumer spending. While China's steel exports rose 8.8% last month due to better international profit margins, cumulative outbound shipments for the first five months of the year remain down 8.1% as rising trade barriers restrict global trade flows. This cooling trend aligns with a shifting structural outlook for traditional fuels; despite coal's near-term role in grid stability, China's total domestic coal output is projected to undergo its first
+Aluminium futures in the UK similarly fell to a two-month low of US$3,400 per ton, allowing exports from the Persian Gulf-which accounts for approximately 9% of global primary aluminium output-to resume, though supply chains face a slow recovery due to earlier facility damage. The broader metals complex is facing additional pressure from a strong U.S. dollar and weakening consumption in China, where steel rebar futures hit a two-month low near CNY 3,120 per ton. This industrial slowdown is underscored by a 2.7% y-o-y drop in Chinese crude steel production to 84.35 million tons for May, alongside pandemic-level pullbacks in fixed-asset investment and consumer spending. While China's steel exports rose 8.8% last month due to better international profit margins, cumulative outbound shipments for the first five months of the year remain down 8.1% as rising trade barriers restrict global trade flows. This cooling trend aligns with a shifting structural outlook for traditional fuels; despite coal's near-term role in grid stability, China's total domestic coal output is projected to undergo its first
 
 ## Page 15
 

@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 _By Yiannis Parganas, Head of Research Department_
 
@@ -15,7 +13,6 @@ The average scrap prices offered by Bangladeshi scrapyards currently hover aroun
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 24/01/25 WS points | 24/01/25 $/day | 17/01/25 WS points | 17/01/25 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 53 | 31,611 | 78 | 60,328 | -47.6% | 37,255 | 39,466 |
@@ -38,7 +35,6 @@ The average scrap prices offered by Bangladeshi scrapyards currently hover aroun
 
 No Fresh Fixtures to Report
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 24/Jan/24 | 70 | 100 | 250 |
@@ -54,8 +50,8 @@ No Fresh Fixtures to Report
 | 24/Nov/24 | 70 | 100 | 150 |
 | 24/Dec/24 | 70 | 100 | 150 |
 | 24/Jan/25 | 70 | 100 | 150 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 24/Jan/24 | 350 | 150 | 300 | 300 |
@@ -121,10 +117,10 @@ The activity of Aframax market was limited this week, especially in East. The re
 | BHSI | 411 | $7,406 | 453 | $8,161 | -42 | -9.3% | 702 | 586 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 4 to 7 mos | SCION MATHILDE | 2024 | 82,249 dwt | dely in D/C Kinuura 21 Jan redel worldwide | $13,000/day | Summit Trading |
-| 4 to 8 mos | SEACON VANCOUVER | 2023 | 85,688 dwt | Qingdao 22/23 Jan | $13,500/day | Swissmarine |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 4 to 7 mos | SCION MATHILDE | 2024 | 82,249 dwt |  |  |
+| 4 to 8 mos | SEACON VANCOUVER | 2023 | 85,688 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | 24/01/25 | 17/01/25 | ±% | Diff | 2024 | 2023 |
@@ -139,7 +135,6 @@ The activity of Aframax market was limited this week, especially in East. The re
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 24/Jan/24 | 3500 | 1800 | 1600 | 1000 | 1800 |
@@ -157,7 +152,6 @@ The activity of Aframax market was limited this week, especially in East. The re
 | 24/Jan/25 | 2200 | 600 | 400 | 200 | 600 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 24/Jan/24 | 12000 | 10000 | 8000 | 6000 |
@@ -276,7 +270,6 @@ In Pakistan, the central bank reduced its key policy rate for the sixth consecut
 | USD/TRY | 35.43 | 35.39 | 0.1% | 35.47 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LEENA | 22,050 | 5,552 | 1994 | SAIKI, Japan | BC | $ 441.0m | Indian |  |

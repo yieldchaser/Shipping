@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 *By Chara Georgousi, Research Analyst*
 
@@ -15,7 +13,6 @@ In this context, SEB Bank highlighted, in a February 7 note, the downturn as an 
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 16/02/24 WS points | 16/02/24 $/day | 09/02/24 WS points | 09/02/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 95 | 78,936 | 67 | 45,856 | **72.1%** | 39,466 | 20,330 |
@@ -33,14 +30,14 @@ In this context, SEB Bank highlighted, in a February 7 note, the downturn as an 
 |  | 55K | UKC-USG | 197 | 31,570 | 202 | 33,543 | -5.9% | 27,274 | 19,982 |
 |  | 55K | MED-USG | 195 | 30,911 | 200 | 32,723 | -5.5% | 27,060 | 21,231 |
 |  | 50k | CARIBS-USG | 371 | 74,105 | 367 | 73,162 | **1.3%** | 46,194 | 40,364 |
-## Indicative Period Charters
 
+## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 36 mos | DEE4 ILEX | 49,999 dwt ST Shipping |  | $27,000/day |  |
-| 6 mos | LV LIZZY | 2005 49,414 dwt Trafigura |  | $32,000/day |  |
-### Dirty WS Rates (1-Year Trend)
+| 36 mos | DEE4 ILEX | 49,999 dwt ST Shipping |  |  |  |
+| 6 mos | LV LIZZY | 2005 49,414 dwt Trafigura |  |  |  |
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | DIRTY - WS RATES |  |  |  |
@@ -57,8 +54,8 @@ In this context, SEB Bank highlighted, in a February 7 note, the downturn as an 
 | 16/Dec/23 | 60 | 140 | 180 |
 | 16/Jan/24 | 60 | 140 | 390 |
 | 16/Feb/24 | 70 | 160 | 190 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | CLEAN - WS RATES |  |  |  |  |
@@ -91,8 +88,8 @@ In this context, SEB Bank highlighted, in a February 7 note, the downturn as an 
 |  | 52k 3yr TC | 27,000 | 27,000 | 0.0% | 0 | 25,152 | 16,426 |
 | Handy | 36k 1yr TC | 28,000 | 28,000 | 0.0% | 0 | 25,760 | 18,601 |
 |  | 36k 3yr TC | 18,000 | 18,000 | 0.0% | 0 | 18,200 | 14,585 |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Feb-24 avg | Jan-24 avg | ±% | 2023 | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300KT DH | 108.0 | 106.3 | **1.6%** | 99.5 | 80.2 | 69.7 |
@@ -121,10 +118,10 @@ Suezmax T/C earnings averaged \$47,735/day, up + \$2,424/day (+5.27%) w-o-w. On 
 | BHSI | 572 | $10,287 | 568 | $10,233 | 4 | 0.5% | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 18 to 20 mos | LEONIDAS P.C. | 2011 | 82,165 dwt | deli Yantai 20 Feb redel worldwide | $17,000/day | Ming Wah |
-| 12 mos | PORT KOBE | 2016 | 63,520 dwt | deli US Gulf prompt redel Singapore | $19,500/day | Cofco |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 18 to 20 mos | LEONIDAS P.C. | 2011 | 82,165 dwt |  |  |
+| 12 mos | PORT KOBE | 2016 | 63,520 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | 16/02/24 | 09/02/24 | ±% | Diff | 2023 | 2022 |
@@ -139,7 +136,6 @@ Suezmax T/C earnings averaged \$47,735/day, up + \$2,424/day (+5.27%) w-o-w. On 
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 16/Feb/23 | 1200 | 1000 | 800 | 600 | 800 |
@@ -157,7 +153,6 @@ Suezmax T/C earnings averaged \$47,735/day, up + \$2,424/day (+5.27%) w-o-w. On 
 | 16/Feb/24 | 2100 | 1400 | 1100 | 750 | 1500 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | $/day | 16/Feb/23 | 16/Mar/23 | 16/Apr/23 | 16/May/23 | 16/Jun/23 | 16/Jul/23 | 16/Aug/23 | 16/Sep/23 | 16/Oct/23 | 16/Nov/23 | 16/Dec/23 | 16/Jan/24 | 16/Feb/24 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Average of the 5T / C | 5000 | 15000 | 18000 | 16000 | 12000 | 10000 | 11000 | 25000 | 48000 | 35000 | 20000 | 10000 | 18000 |
@@ -274,7 +269,6 @@ The demolition market continues to be challenging, with cautious sentiment preva
 | USD/TRY | 30.82 | 30.56 | 0.9% | 30.65 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | BONTRUP EMIRATES | 42,497 | 13,200 | 1986 | SAMSUNG, S. Korea | GENERAL CARGO | 520 | Bangladeshi |

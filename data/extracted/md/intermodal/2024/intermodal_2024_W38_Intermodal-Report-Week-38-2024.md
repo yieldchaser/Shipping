@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 By Fotis Kanatas, Research Analyst
 
@@ -15,7 +13,6 @@ In the coming months, India's crude oil import strategy will likely continue ada
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 20/09/24 WS points | 20/09/24 $/day | 13/09/24 WS points | 13/09/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 61 | 41,333 | 56 | 34,737 | **19.0%** | 39,466 | 20,330 |
@@ -35,11 +32,11 @@ In the coming months, India's crude oil import strategy will likely continue ada
 |  | 50k | ARA-UKC | 161 | 14,994 | 170 | 17,462 | -14.1% | 46,194 | 40,364 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 5 mos | GOLDEN SUN(N/B) | 2024 | 50,000 dwt | DEL CHINA SEP-OCT/24 | $30,000/day | Stena Bulk |
-### Dirty WS Rates (1-Year Trend)
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 5 mos | GOLDEN SUN(N/B) | 2024 | 50,000 dwt |  |  |
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 20/Sep/23 | 50 | 100 | 100 |
@@ -55,8 +52,8 @@ In the coming months, India's crude oil import strategy will likely continue ada
 | 20/Jul/24 | 60 | 100 | 100 |
 | 20/Aug/24 | 60 | 90 | 90 |
 | 20/Sep/24 | 60 | 90 | 90 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 20/Sep/23 | 150 | 160 | 180 | 170 |
@@ -116,10 +113,10 @@ The tanker Market had another positive week with the the larger sizes showing co
 | BHSI | 707 | $12,730 | 707 | $12,731 | 0 | 0.0% | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 8/10 mos | SANTA GRACIELA | 2013 | 82,149 dwt | dely North China 25/26 Sep redel worldwide | $14,500/day | CNR |
-| 2/4 mos | PORT MACAU | 2008 | 58,730 dwt | dely Hong Kong prompt redel Singapore-Japan | $15,500/day | Drydel |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 8/10 mos | SANTA GRACIELA | 2013 | 82,149 dwt |  |  |
+| 2/4 mos | PORT MACAU | 2008 | 58,730 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | 20/09/24 | 13/09/24 | ±% | Diff | 2023 | 2022 |
@@ -134,7 +131,6 @@ The tanker Market had another positive week with the the larger sizes showing co
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 20/Sep/23 | 2500 | 1500 | 1200 | 1000 | 2000 |
@@ -151,7 +147,6 @@ The tanker Market had another positive week with the the larger sizes showing co
 | 20/Sep/24 | 3000 | 1600 | 1400 | 1200 | 1600 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 20/Sep/23 | 18000 | 14000 | 12000 | 10000 |
@@ -252,7 +247,6 @@ Another subdued week in the recycling market as relatively high freight rates an
 
 In Bangladesh, recycling prices declined and steel prices remained under pressure, resulting in recyclers staying away from the market. Similar to India, post-monsoon construction activity is expected to revive the sector. In addition, regulation is adding to recyclers' headaches as the deadline for compliance with the Ship Recycling Facility Plan (SRFP) is less than a month away and the issuance of No Objection Certificates (NOCs) is becoming more stringent. In terms of fundamentals, foreign exchange reserves have fallen by 20 billion, adding to the country's woes. In Turkey the market is stagnant as no ships are being sold for scrap. The local steel market is affected by slightly higher demand as local steel prices remain subdued, leaving recycling prices stable. The country's battle with inflation continues and although it is on a declining path, the central bank has left the interest rate unchanged at 50%. The slightly improved economic picture in Turkey has not yet translated into a buoyant recycling industry.
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | 20/09/24 | 13/09/24 | ±% | YTD High | YTD Low | 2023 | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |  |  |
@@ -265,8 +259,8 @@ In Bangladesh, recycling prices declined and steel prices remained under pressur
 | India | 470 | 470 | 0.0% | 520 | 480 | 522 | 583 | 508 |
 | Pakistan | 455 | 455 | 0.0% | 510 | 470 | 515 | 587 | 526 |
 | Turkey | 310 | 310 | 0.0% | 350 | 310 | 315 | 304 | 276 |
-## Currencies
 
+## Currencies
 | Markets | Current | Previous | ±% | YTD High |
 | --- | --- | --- | --- | --- |
 | USD/BDT | 116.44 | 117.45 | -0.9% | 117.51 |
@@ -275,7 +269,6 @@ In Bangladesh, recycling prices declined and steel prices remained under pressur
 | USD/TRY | 33.10 | 32.95 | 0.5% | 33.12 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MSC GABRIELLA | 31,290 | 8,911 | 1985 | HDW AG - Kiel - GEU, Germany | CONTAINER | $ 499.0m | Indian | 320 Ts ROB on arrival |

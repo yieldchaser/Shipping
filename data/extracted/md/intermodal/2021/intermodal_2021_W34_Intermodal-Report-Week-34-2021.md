@@ -64,7 +64,6 @@ Shanghai 200122 China
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | Current WS points | Current $/day | Previous WS points | Previous $/day | $/day ±% | 2020 $/day | 2019 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 33 | -755 | 32 | 337 | -324.0% | 52,119 | 45,517 |
@@ -84,8 +83,8 @@ Shanghai 200122 China
 | Dirty | 55K | UKC-USG | 93 | 1,475 | 94 | 3,022 | -51.2% | 12,120 | 15,960 |
 |  | 55K | MED-USG | 93 | 1,518 | 94 | 3,067 | -50.5% | 12,965 | 15,327 |
 |  | 50k | CARIBS-USG | 96 | -119 | 99 | 1,776 | -106.7% | 17,651 | 18,781 |
-## TC Rates
 
+## TC Rates
 | Sector | Tenor | Current | Previous | ±% | Diff | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 25,000 | 25,000 | 0.0% | 0 | 42,038 | 37,462 |
@@ -100,13 +99,13 @@ Shanghai 200122 China
 |  | 52k 3yr TC | 13,500 | 13,500 | 0.0% | 0 | 15,916 | 16,181 |
 | Handy | 36k 1yr TC | 10,250 | 10,250 | 0.0% | 0 | 13,966 | 13,856 |
 |  | 36k 3yr TC | 12,250 | 12,250 | 0.0% | 0 | 14,051 | 13,753 |
-## Indicative Period Charters
 
+## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | TRF HORTEN | 2018 | 297,638 dwt | $24,000/day | UNIPEC |
-### Dirty WS Rates (1-Year Trend)
+| 12 mos | TRF HORTEN | 2018 | 297,638 dwt |  |  |
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 27/Aug/20 | 30 | 50 | 40 |
@@ -122,8 +121,8 @@ Shanghai 200122 China
 | 27/Jun/21 | 30 | 50 | 40 |
 | 27/Jul/21 | 30 | 50 | 40 |
 | 27/Aug/21 | 30 | 50 | 40 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 27/Aug/20 | 100 | 100 | 100 | 100 |
@@ -139,8 +138,8 @@ Shanghai 200122 China
 | 27/Jun/21 | 100 | 100 | 100 | 100 |
 | 27/Jul/21 | 100 | 100 | 100 | 100 |
 | 27/Aug/21 | 100 | 100 | 100 | 100 |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Aug-21 avg | Jul-21 avg | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300KT DH | 71.9 | 72.0 | -0.2% | 71.5 | 72.4 | 65.6 |
@@ -179,13 +178,12 @@ In the MR sector we had the auction sale of the "OCEAN VENUS" (50,322dwt-blt '06
 | BHSI | 1,897 | $34,152 | 1,878 | $33,798 | 19 | 1.0% | 447 | 490 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 6 to 9 mos | OCEAN TIME | 2019 | 82,024 dwt | Surabaya 10 Sep | $34,000/day | ASL Bulk |
-| 4 to 6 mos | PAN BEGONIA | 2009 | 57,307 dwt | Yeosu 1/5 Sep | $36,750/day | NYK |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 6 to 9 mos | OCEAN TIME | 2019 | 82,024 dwt |  |  |
+| 4 to 6 mos | PAN BEGONIA | 2009 | 57,307 dwt |  |  |
 
 ## TC Rates
-
 | Sector | Tenor | 27/08/2021 | 20/08/2021 | ±% | Diff | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 44,750 | 44,000 | **1.7%** | **750** | 15,561 | 18,839 |
@@ -220,7 +218,6 @@ In the MR sector we had the auction sale of the "OCEAN VENUS" (50,322dwt-blt '06
 | 27/Aug/21 | 4000 | 2500 | 1900 | 1600 | 4000 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 27/Aug/20 | 10000 | 10000 | 10000 | 10000 |
@@ -281,7 +278,6 @@ In the Supramax sector we had the sale of the "SHAIL AL RUWAIS" (52,822dwt-blt '
 
 # Intermodal Secondhand Sales
 ## Containers
-
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | ITAL LIRICA | 5,090 | 2007 | HANJIN HI, S. Korea | MAN-B&amp;W | Apr-22 |  |  |  |
@@ -299,7 +295,6 @@ In the Supramax sector we had the sale of the "SHAIL AL RUWAIS" (52,822dwt-blt '
 
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
-
 | Sector | Size | 27/08/2021 | 20/08/2021 | ±% | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Bulkers |  |  |  |  |  |  |
@@ -356,8 +351,8 @@ Last week, newbuilding contracts for non-conventional type of units have almost 
 | 27/Jun/21 | 93.0 | 64.0 | 47.0 | 40.0 | 33.0 |
 | 27/Jul/21 | 94.0 | 65.0 | 48.0 | 40.5 | 33.0 |
 | 27/Aug/21 | 95.0 | 66.0 | 49.0 | 41.0 | 33.0 |
-## Newbuilding Orders
 
+## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2+1 | Bulker | 63,000 dwt | undisclosed Chinese yard | 2023 | Croatian (Jadroplov) | undisclosed |  |
@@ -374,7 +369,6 @@ Last week, newbuilding contracts for non-conventional type of units have almost 
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | Markets | 27/08/2021 | 20/08/2021 | ±% | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
@@ -405,8 +399,8 @@ The recent fall on steel plate prices continues to affect the Indian-subcontinen
 | 27/Jun/21 | 560 | 530 | 550 | 290 |
 | 27/Jul/21 | 580 | 550 | 570 | 290 |
 | 27/Aug/21 | 590 | 570 | 580 | 290 |
-## Indicative Demolition Prices ($/ldt)
 
+## Indicative Demolition Prices ($/ldt)
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/Ldt | Demolition Sales Breakers | Demolition Sales Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | GDANSK | 63,671 | 12,434 | 1984 | ISHIBRAS, Brazil | BULKER | $ 500/Ldt | undisclosed | as-is Abidjan |

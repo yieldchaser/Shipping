@@ -140,20 +140,20 @@ LR: Midweek saw a surge in freight rates, especially on the MEG/Far East route, 
 
 # Tanker 12 months T/C rates average (in USD/day)
 
-| TYPE | DWT |  | CURRENT LAST | WEEK | LAST | YEAR W-O-W | CHANGE Y-O-Y CHANGE |
-|---|---|---|---|---|---|---|---|
-| VLCC | 310,000 |  | 48,000 | 46,750 | 37,500 | +2.67% | +28.00% |
-| SUEZMAX | 150,000 |  | 44,500 | 42,500 | 39,500 | +4.71% | +12.66% |
-| AFRAMAX | 110,000 |  | 42,500 | 42,500 | 41,000 | 0 | +3.66% |
-| LR1 | 74,000 |  | 37,500 | 37,500 | 35,500 | 0 | +5.63% |
-| MR | 47,000 |  | 30,750 | 30,250 | 26,500 | +1.65% | +16.04% |
-|  |  |  |  | Tankers S&P | Report |  |  |
-| VESSEL | NAME | TYPE | DWT | YEAR | BUILT | PRICE | COMMENTS / |
-|  |  |  |  |  | (MILLION) | USD | BUYERS |
-| DEMETRIOS |  | SUEZ | 149,999 | 2011 | CHINA | 53.0 UAE | BASED BUYERS |
-| GULF | ESPRIT | MR | 46,891 | 2006 | S. KOREA | 22.0 | UNDISCLOSED |
-| ARS ET | LABOR | MR | 40,416 | 2008 | ROMANIA | 25.0 | ITALIAN BUYERS |
-| G BRIGHT | PROD | / CHEM | 19,931 | 2004 | JAPAN | 15.3 (SS) INDONESIAN | BUYERS |
+| TYPE | DWT | CURRENT LAST | WEEK | LAST | YEAR W-O-W | CHANGE Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 48,000 | 46,750 | 37,500 | +2.67% | +28.00% |
+| SUEZMAX | 150,000 | 44,500 | 42,500 | 39,500 | +4.71% | +12.66% |
+| AFRAMAX | 110,000 | 42,500 | 42,500 | 41,000 | 0 | +3.66% |
+| LR1 | 74,000 | 37,500 | 37,500 | 35,500 | 0 | +5.63% |
+| MR | 47,000 | 30,750 | 30,250 | 26,500 | +1.65% | +16.04% |
+|  |  |  | Tankers S&P | Report |  |  |
+| VESSEL | NAME | DWT | YEAR | BUILT | PRICE | COMMENTS / |
+|  |  |  |  | (MILLION) | USD | BUYERS |
+| DEMETRIOS |  | 149,999 | 2011 | CHINA | 53.0 UAE | BASED BUYERS |
+| GULF | ESPRIT | 46,891 | 2006 | S. KOREA | 22.0 | UNDISCLOSED |
+| ARS ET | LABOR | 40,416 | 2008 | ROMANIA | 25.0 | ITALIAN BUYERS |
+| G BRIGHT | PROD | 19,931 | 2004 | JAPAN | 15.3 (SS) INDONESIAN | BUYERS |
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -329,9 +329,7 @@ The ferrous scrap market exhibited mixed trends, with minor decreases of up to 2
 
 in Bangladesh, purchasing activity slowed as buyers awaited clearer price directions amid softening global scrap prices. In India, demand for imported scrap remained moderate as buyers engaged in needbased purchasing due to domestic market volatility. This volatility was driven by slow finished steel sales and ample stockpiles booked in the previous month. Shredded scrap offers from the US and Europe remained largely stable at around US$424-427/t CFR Nhava Sheva, while HMS (80:20) offers from Europe were unchanged at US$405/t CFR.
 
-**Pakistani buyers remained inactive due to the significant gap between imported and**
-
-domestic scrap prices. Sluggish sales in finished steel negatively impacted market sentiment, leading to temporary production halts at several steel mills. Shredded scrap offers from Europe were assessed as range-bound at US$422/t CFR Qasim on a weekly average basis. In **Bangladesh, the imported ferrous scrap market remained range-bound. Improved** forex conditions eased the process of opening new LC and fulfilling regular procurement needs. Offers for US bulk HMS stood at US$405-410/t, with H2 bulk from Japan at US$400- 404/t. HMS containers from Australia were priced at US$412-415/t, with negotiations at US$406-408/t. Shredded containers from the UK were offered at US$422-425/t. In Turkey, steel producers secured several deals towards the end of the week, with seven to eight cargoes booked for early June shipments from the US and Europe. Approximately 15-17 bulk cargoes have been booked for June shipments this month. US-origin HMS (80:20) bulk scrap priced at US$380/t CFR, reflecting a slight decline of US$2/t week-on-week. Similarly, HMS (80:20) from the US East Coast is assessed at US$356/t FOB, down US$2/t week-on-week.
+Pakistani buyers remained inactive due to the significant gap between imported and domestic scrap prices. Sluggish sales in finished steel negatively impacted market sentiment, leading to temporary production halts at several steel mills. Shredded scrap offers from Europe were assessed as range-bound at US$422/t CFR Qasim on a weekly average basis. In **Bangladesh, the imported ferrous scrap market remained range-bound. Improved** forex conditions eased the process of opening new LC and fulfilling regular procurement needs. Offers for US bulk HMS stood at US$405-410/t, with H2 bulk from Japan at US$400- 404/t. HMS containers from Australia were priced at US$412-415/t, with negotiations at US$406-408/t. Shredded containers from the UK were offered at US$422-425/t. In Turkey, steel producers secured several deals towards the end of the week, with seven to eight cargoes booked for early June shipments from the US and Europe. Approximately 15-17 bulk cargoes have been booked for June shipments this month. US-origin HMS (80:20) bulk scrap priced at US$380/t CFR, reflecting a slight decline of US$2/t week-on-week. Similarly, HMS (80:20) from the US East Coast is assessed at US$356/t FOB, down US$2/t week-on-week.
 
 # HMS 1/2 & Tangshan Billet
 
@@ -341,17 +339,11 @@ domestic scrap prices. Sluggish sales in finished steel negatively impacted mark
 
 # Commodities
 
-**Iron ore prices declined for the second straight session midweek, dragged down by**
+Iron ore prices declined for the second straight session midweek, dragged down by expectations of seasonally lower demand in China, the top consumer, and the U.S. announcement of steep tariff hikes on certain Chinese imports, including steel and aluminum products. The most-traded iron ore contracts on the Dalian and Singapore exchanges fell but recovered at the week's closing, fueled by resilient consumption and a brighter demand outlook in China. The most actively traded September iron ore contract on the Dalian Commodity Exchange closed the daytime trading session 2.18% higher at 891.5 yuan (US$123.47) per metric ton, marking the highest level since May 8. The benchmark June iron ore contract on the Singapore Exchange also rose 1.37% to US$118.15 a ton, posting a weekly increase of 1.8%. Sentiment also received a boost from China's announcement of some of its most farreaching measures yet to stabilise the crisis-hit property sector. These measures include allowing local governments to purchase "some" apartments, relaxing mortgage rules, and pledging further efforts to deliver unfinished homes. This move came after a batch of data revealed weak demand in the property sector.
 
-expectations of seasonally lower demand in China, the top consumer, and the U.S. announcement of steep tariff hikes on certain Chinese imports, including steel and aluminum products. The most-traded iron ore contracts on the Dalian and Singapore exchanges fell but recovered at the week's closing, fueled by resilient consumption and a brighter demand outlook in China. The most actively traded September iron ore contract on the Dalian Commodity Exchange closed the daytime trading session 2.18% higher at 891.5 yuan (US$123.47) per metric ton, marking the highest level since May 8. The benchmark June iron ore contract on the Singapore Exchange also rose 1.37% to US$118.15 a ton, posting a weekly increase of 1.8%. Sentiment also received a boost from China's announcement of some of its most farreaching measures yet to stabilise the crisis-hit property sector. These measures include allowing local governments to purchase "some" apartments, relaxing mortgage rules, and pledging further efforts to deliver unfinished homes. This move came after a batch of data revealed weak demand in the property sector.
+Steel benchmarks on the Shanghai exchange trended lower, with rebar, hot-rolled coil, wire rod, and stainless steel seeing declines. Analysts noted signs of softening steel demand entering May, coupled with a slowdown in the destocking of steel products. The tariff hikes announced by the U.S. added to the bearish sentiment in the ferrous complex.
 
-**Steel benchmarks on the Shanghai exchange trended lower, with rebar, hot-rolled coil,**
-
-wire rod, and stainless steel seeing declines. Analysts noted signs of softening steel demand entering May, coupled with a slowdown in the destocking of steel products. The tariff hikes announced by the U.S. added to the bearish sentiment in the ferrous complex.
-
-**Copper's rally showed no signs of slowing, even as the short squeeze on the Comex**
-
-began to ease. The New York-based exchange raised margins by 11%, causing the July contract to dip by 1.2%. In contrast, LME copper for three-month delivery rose by 1.9%. Earlier this week, the spread between contracts on the two exchanges peaked at USD 1,000/t before narrowing to USD 300/t. Overall sentiment remains buoyed by the prospect of rate cuts in the US, following data indicating a decline in inflation.
+Copper's rally showed no signs of slowing, even as the short squeeze on the Comex began to ease. The New York-based exchange raised margins by 11%, causing the July contract to dip by 1.2%. In contrast, LME copper for three-month delivery rose by 1.9%. Earlier this week, the spread between contracts on the two exchanges peaked at USD 1,000/t before narrowing to USD 300/t. Overall sentiment remains buoyed by the prospect of rate cuts in the US, following data indicating a decline in inflation.
 
 ## Aluminum prices bucked the overall trend, ending the session lower as European
 

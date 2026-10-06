@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 <mark>By Yiannis Parganas, Head of the Research Department</mark>
 
@@ -15,7 +13,6 @@ Summarizing, the global grain trade is gradually gaining momentum after a period
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 30/06/23 WS points | 30/06/23 $/day | 23/06/23 WS points | 23/06/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 58 | 39,799 | 56 | 36,039 | 10.4% | 20,330 | 2,246 |
@@ -34,8 +31,8 @@ Summarizing, the global grain trade is gradually gaining momentum after a period
 |  | 55K | UKC-USG | 165 | 31,169 | 165 | 30,397 | 2.5% | 19,982 | 2,822 |
 |  | 55K | MED-USG | 165 | 30,932 | 165 | 30,228 | 2.3% | 21,231 | 4,818 |
 |  | 50k | CARIBS-USG | 257 | 52,741 | 279 | 59,116 | -10.8% | 40,364 | 8,548 |
-## TC Rates
 
+## TC Rates
 | Sector | Tenor | 30/06/23 | 23/06/23 | ±% | Diff | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 45,250 | 45,250 | 0.0% | 0 | 34,683 | 25,684 |
@@ -50,8 +47,8 @@ Summarizing, the global grain trade is gradually gaining momentum after a period
 |  | 52k 3yr TC | 25,000 | 25,000 | 0.0% | 0 | 16,426 | 13,804 |
 | Handy | 36k 1yr TC | 24,000 | 24,000 | 0.0% | 0 | 18,601 | 11,292 |
 |  | 36k 3yr TC | 18,000 | 18,000 | 0.0% | 0 | 14,585 | 13,054 |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | May-23 avg | Previous avg | ±% | 2022 | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300KT DH | 99.0 | 99.0 | 0.0% | 80.2 | 69.7 | 71.5 |
@@ -64,8 +61,8 @@ Summarizing, the global grain trade is gradually gaining momentum after a period
 | --- | --- | --- |
 | NA V IG8 PROMISE | $45,000/day |  |
 | PELAGIC TOPE | $34,500/day | 2008 |
-### Dirty WS Rates (1-Year Trend)
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 30/jun/22 | 0 | 150 | 250 |
@@ -81,8 +78,8 @@ Summarizing, the global grain trade is gradually gaining momentum after a period
 | 30/Apr/23 | 30 | 140 | 150 |
 | 31/May/23 | 20 | 120 | 120 |
 | 30/jun/23 | 10 | 100 | 100 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 30/jun/22 | 200 | 300 | 350 | 400 |
@@ -131,7 +128,6 @@ Suezmax T/C earnings averaged \$ 47,726/day, down - \$9,663/day w-o-w. On the Af
 | dely WC India 25 J une | $13,800/day |  | WBC |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 30/Jun/22 | 2500 | 2400 | 1300 | 1200 | 2400 |
@@ -149,7 +145,6 @@ Suezmax T/C earnings averaged \$ 47,726/day, down - \$9,663/day w-o-w. On the Af
 | 30/Jun/23 | 1900 | 1200 | 1100 | 1000 | 1800 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 30/Jun/22 | 25000 | 24000 | 23000 | 22000 |
@@ -178,8 +173,9 @@ Suezmax T/C earnings averaged \$ 47,726/day, down - \$9,663/day w-o-w. On the Af
 |  | **32K 1yr TC** | 8,000 | 8,000 | 0.0% | 0 | 17,827 | 18,354 |
 |  | **32K 3yr TC** | 9,000 | 9,000 | 0.0% | 0 | 12,322 | 11,825 |
 
-### Indicative Market Values ($ Million) - Bulk Carriers
-| Sector | Size | May-23 avg | Previous avg | ±% | 2022 | 2021 |
+## TC Rates
+
+| Sector | Tenor | Current | Previous | ±% | Diff | 2022 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize Eco** 180k | 50.6 | 53.4 | -5.2% | 48.3 | 43.1 | 36.1 |
 | **Kamsarmax** 82K | 32.2 | 33.4 | -3.5% | 34.1 | 29.8 | 23.2 |
@@ -208,7 +204,6 @@ Supramax 10TC averaged \$ 8,224/day, down -0.71% w-o-w, while the Handysize 7TC 
 | MR1 | SAMPURNA SWARAJYA | 32,950 | 1999 | HYUNDAI, S. Korea | MAN-B\&W | Jan-24 | DH | $ 4.22m | UAE based | at auction in India, dely 'as is' Ennore with DD due |
 
 ## Indicative Newbuilding Prices ($ Million)
-
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | NEWCASTLEMAX | BENITAMOU | 206,291 | 2008 | IMABARI, Japan | MAN-B\&W | May-27 |  |
@@ -217,7 +212,6 @@ Supramax 10TC averaged \$ 8,224/day, down -0.71% w-o-w, while the Handysize 7TC 
 | UMAX | KK PROGRESSION | 64,012 | 2018 | TSUNEISHI CEBU, Philippines | MAN-B\&W | Sep-23 | 4 X 36t CRANES |
 
 ## Secondhand Sales
-
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUB | MAERSK |  |  | KVAERNER WARNOW WERFT, Germany | B\&W |  |  | $ 8.0m | Greek (Rethymnis and Kulukundis) | SS/DD due |
@@ -230,7 +224,6 @@ Supramax 10TC averaged \$ 8,224/day, down -0.71% w-o-w, while the Handysize 7TC 
 During the recent days, there have been new orders for ship construction across various sizes. However, the overall volume of activity appears to be slowing down in line with the customary summer lull. Among the notable contracts that have been revealed, Greek owner TMS exercised an option for two 210,000dwt bulk carriers equipped with conventional fuel systems and scrubbers at COSCO HI. The price for each vessel was set at \$64.0 million. Additionally, Mitsui & Co placed an order for four MR2 tankers at KSOE in South Korea, with each vessel priced at \$45.3 million. In the realm of non-conventional sectors, it has been revealed that Greek owner Danaos and Yangzijiang Shipyard reached an agreement last month for the construction of two 8,000teu boxships fueled by methanol and equipped with scrubbers. The estimated price range for each vessel is around \$93.0-\$95.0 million. Furthermore, NYK Line finalized a deal with Hyundai Samho for the construction of two 174,000cbm gas carriers, with a price of \$262.0 million per vessel.
 
 ## TC Rates
-
 | Sector | Tenor | Current | Previous | ±% | Diff | 2022 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -289,7 +282,6 @@ Most scrapping destinations were affected by the Eid celebrations and the market
 | USD/TRY | 26.05 | 25.24 | 3.2% | 26.08 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SHUN FENG 9 | 73,350 | 10,356 | 1994 | OSHIMA, Japan | BC | $ 510/Ldt | undisclosed | as is China |

@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 _By Yiannis Parganas, Head of the Research Department_
 
@@ -15,7 +13,6 @@ Brazilian corn exports are expected to play a crucial role in compensating for t
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 28/07/23 WS points | 28/07/23 $/day | 21/07/23 WS points | 21/07/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 52 | 30,551 | 53 | 34,602 | -11.7% | 20,330 | 2,246 |
@@ -42,8 +39,8 @@ Brazilian corn exports are expected to play a crucial role in compensating for t
 | $33,500/day |  |  |  |
 | 6 to 12 mos | OLAF | 2010 | 52,000 dw t ExxonMobil |
 | $27,000/day |  |  |  |
-### Dirty WS Rates (1-Year Trend)
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 28/Jul/22 | 50 | 180 | 180 |
@@ -58,8 +55,8 @@ Brazilian corn exports are expected to play a crucial role in compensating for t
 | 30/Apr/23 | 40 | 150 | 200 |
 | 31/May/23 | 40 | 150 | 150 |
 | 30/Jun/23 | 40 | 150 | 150 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 28/Jul/22 | 300 | 350 | 300 | 300 |
@@ -138,7 +135,6 @@ Suezmax T/C earnings averaged \$ 23,168/day, down – 29.34% w-o-w. On the Afram
 | **Capesize** | 32K 3yr TC | 9,000 | 9,000 | 0.0% | 0 | 12,322 | 11,825 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 28/Jul/22 | 2000 | 1800 | 1500 | 1200 | 1900 |
@@ -155,7 +151,6 @@ Suezmax T/C earnings averaged \$ 23,168/day, down – 29.34% w-o-w. On the Afram
 | 30/Jun/23 | 1700 | 1300 | 1100 | 800 | 1600 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 28/Jul/22 | 20000 | 18000 | 16000 | 14000 |
@@ -171,8 +166,9 @@ Suezmax T/C earnings averaged \$ 23,168/day, down – 29.34% w-o-w. On the Afram
 | 31/May/23 | 14000 | 13000 | 11000 | 10000 |
 | 30/Jun/23 | 15000 | 12000 | 10000 | 9000 |
 
-## Indicative Market Values ($ Million) - Bulk Carriers
-| Sector | Size | Current avg | Previous avg | ±% | 2022 | 2021 | 2020 |
+## TC Rates
+
+| Sector | Tenor | Current | Previous | ±% | Diff | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize Eco** | **180k** | 48.0 | 50.6 | -5.1% | 48.3 | 43.1 | 36.1 |
 | **Kamsarmax** | **82K** | 31.5 | 32.2 | -2.2% | 34.1 | 29.8 | 23.2 |
@@ -229,7 +225,6 @@ Supramax 10TC averaged \$ 8,163/day, down -1.24% w-o-w, while the Handysize 7TC 
 The newbuilding market remains in good shape despite the summer lull, with 31 firm newbuilding orders and 12 options. In tankers, Swiss owner Advantage Tankers placed firm orders for two 157,000 dwt tankers in Japan for \$85m each, with delivery scheduled for 2025. In smaller sizes, Zodiac Marine ordered four 19,900 dwt stainless steel tankers from Fukoka, Japan, for \$30m each, with delivery expected in 2024. In the dry bulk sector, TMS Dry was responsible for both orders. The Greek owner ordered two 82,600 dwt vessels from Chengxi in China and four 63,500 dwt vessels from Nantong. The Kamsarmaxes will be NOx Tier III and EEDI Phase 3 compliant, cost \$36m each and are expected to be on the water in 2026.
 
 ## TC Rates
-
 | Sector | Tenor | Current | Previous | ±% | Diff | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** | Newcastlemax | 205k | 66.0 | 66.0 | 0.0% | 66.0 | 64.0 |
@@ -289,7 +284,6 @@ The market remains subdued due to stable freight rates and the traditional summe
 | USD/TRY | 26.91 | 26.97 | -0.2% | 27.17 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | GREAT WENWU | 68,621 | 9,759 | 1994 | S ASEBO, Japan | BC | $ 465/Ldt | Bangladeshi |  |

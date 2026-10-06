@@ -1,5 +1,3 @@
-## Weekly Market Report
-
 ## Market Insight
 <mark>By Yiannis Parganas, Head of Research Department</mark>
 
@@ -21,7 +19,6 @@ None of this is linear. Brazil cannot replace every Australian ore molecule over
 
 ## Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 03/10/2025 WS points | 03/10/2025 $/day | 26/09/2025 WS points | 26/09/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 80 | 68,648 | 102 | 94,097 | -27.0% | 37,255 | 39,466 |
@@ -45,7 +42,8 @@ None of this is linear. Brazil cannot replace every Australian ore molecule over
 | 36 mos | Hafnia Triton | 2019 |
 | --- | --- | --- |
 |  | $31,000/day |  |
-### 1-Year Forward WS Rates - Dirty
+
+### Dirty WS Rates (1-Year Trend)
 
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
@@ -62,8 +60,8 @@ None of this is linear. Brazil cannot replace every Australian ore molecule over
 | 3/Aug/25 | 90 | 110 | 170 |
 | 3/Sep/25 | 90 | 110 | 160 |
 | 3/Oct/25 | 90 | 120 | 150 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 |  | TC1 | TC2 | TC5 |  |
@@ -133,7 +131,6 @@ The Aframax segment experienced mixed activity across regions, resulting in a 2%
 
 **No Fresh Fixtures**
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 3/Oct/24 | 3500 | 1500 | 1200 | 700 | 1900 |
@@ -151,7 +148,6 @@ The Aframax segment experienced mixed activity across regions, resulting in a 2%
 | 3/Oct/25 | 2900 | 1500 | 1100 | 900 | 1700 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 3/Oct/24 | 27000 | 13000 | 14000 | 12000 |
@@ -307,8 +303,8 @@ Turkey's market is subdued, though improving steel fundamentals offer a glimmer 
 | USD/INR | 88.73 | 88.68 | 0.06% | 88.68 |
 | USD/PKR | 283.33 | 283.33 | 0.00% | 284.95 |
 | USD/TRY | 41.69 | 41.36 | 0.81% | 41.69 |
-## Demolition Sales
 
+## Demolition Sales
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | BOW CEDAR | 37,455 | 11,043 | 1996 | Kvaerner, Norway | TANKER | $940/Ldt | Indian | incl 2,300 Ts solid stainless steel and 700 Ts bunkers |

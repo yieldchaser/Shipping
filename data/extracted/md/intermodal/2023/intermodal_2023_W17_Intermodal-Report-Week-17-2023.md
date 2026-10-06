@@ -57,7 +57,6 @@ Shanghai 200122 China
 
 # Intermodal Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 28/04/23 WS points | 28/04/23 $/day | 21/04/23 WS points | 21/04/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 57 | 39,706 | 67 | 52,135 | -23.8% | 20,330 | 2,246 |
@@ -76,14 +75,14 @@ Shanghai 200122 China
 | Dirty | 55K | UKC-USG | 152 | 26,455 | 190 | 37,371 | -29.2% | 19,982 | 2,822 |
 |  | 55K | MED-USG | 152 | 26,151 | 190 | 37,047 | -29.4% | 21,231 | 4,818 |
 |  | 50k | CARIBS-USG | 256 | 52,630 | 303 | 65,242 | -19.3% | 40,364 | 8,548 |
-## Indicative Period Charters
 
+## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | AQUAFREEDOM | 2022 | 157,747 dwt | $53,000/day | Clearlake |
-| 36 mos | IONIC ANAX | 2017 | 114,720 dwt | $35,750/day | Chevron |
-### Dirty WS Rates (1-Year Trend)
+| 12 mos | AQUAFREEDOM | 2022 | 157,747 dwt |  |  |
+| 36 mos | IONIC ANAX | 2017 | 114,720 dwt |  |  |
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 28/APR/22 | 150 | 180 | 160 |
@@ -98,8 +97,8 @@ Shanghai 200122 China
 | 28/JAN/23 | 60 | 160 | 140 |
 | 28/FEB/23 | 50 | 140 | 350 |
 | 31/MAR/23 | 40 | 120 | 100 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 28/APR/22 | 280 | 290 | 270 | 260 |
@@ -166,7 +165,6 @@ In the small size sector we had the sale of the “MAREX NOA” (12,479dwt-blt '
 
 # Intermodal Dry Bulk Market
 ## Baltic Indices
-
 | Index Name | 28/04/23 Index | 28/04/23 $/day | 21/04/23 Index | 21/04/23 $/day | Point Diff | $/day ±% | 2022 Index | 2021 Index |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | BDI | 1,576 |  | 1,504 |  | **72** |  | 1,931 | 2,921 |
@@ -174,8 +172,8 @@ In the small size sector we had the sale of the “MAREX NOA” (12,479dwt-blt '
 | BPI | 1,586 | $14,274 | 1,692 | $15,225 | -106 | -6.2% | 2,298 | 2,972 |
 | BSI | 1,165 | $12,811 | 1,201 | $13,211 | -36 | -3.0% | 2,006 | 2,424 |
 | BHSI | 663 | $11,934 | 660 | $11,876 | **3** | **0.5%** | 1,181 | 1,424 |
-## TC Rates
 
+## TC Rates
 | Sector | Tenor | 28/04/23 | 21/04/23 | ±% | Diff | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 1yr TC** | 19,500 | 19,750 | -1.3% | -250 | 21,394 | 26,392 |
@@ -186,15 +184,14 @@ In the small size sector we had the sale of the “MAREX NOA” (12,479dwt-blt '
 |  | **58K 3yr TC** | 13,250 | 13,500 | -1.9% | -250 | 15,005 | 14,552 |
 | **Handysize** | **32K 1yr TC** | 12,250 | 12,250 | 0.0% | 0 | 17,827 | 18,354 |
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 12,322 | 11,825 |
-## Indicative Period Charters
 
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 5 to 7 mos | TAHITI ONE | 2012 | 81,291 dwt | dely CIK 6/11 May | 16,500/day | Tongli |
-| 5 to 7 mos | CK ANGIE | 2011 | 81,922 dwt | dely Caofeidian 27/28 Apr | $17,000/day | Smart Gain |
+## Indicative Period Charters
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 5 to 7 mos | TAHITI ONE | 2012 | 81,291 dwt |  |  |
+| 5 to 7 mos | CK ANGIE | 2011 | 81,922 dwt |  |  |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 28/Apr/22 | 2800 | 2800 | 2700 | 1600 | 2900 |
@@ -211,7 +208,6 @@ In the small size sector we had the sale of the “MAREX NOA” (12,479dwt-blt '
 | 31/Mar/23 | 1800 | 1700 | 1400 | 900 | 2000 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 28/Apr/22 | 28000 | 28000 | 29000 | 28000 |
@@ -257,36 +253,35 @@ In the Panamax sector we had the sale of the "PALMA BULKER" (75,843dwt-blt '09, 
 
 # Intermodal Secondhand Sales
 ## Tankers
-
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MR2 | PETRONIA PACIFIC | 49,884 | 2020 | STX, S. Korea | MAN-B\&amp;W | Sep-25 | DH | $ 43.0m | South Korean (HMM) | Scrubber fitted |
 | J19 | GT STAR | 19,956 | 2012 | USUKI, Japan | MAN-B\&amp;W | Jan-27 | DH | $ 21.0m | Chinese | BWTS fitted, StSt |
 | J19 | BUNGA LILAC | 19,992 | 2011 | FUKUOKA, Japan | MAN-B\&amp;W | Apr-26 | DH | $ 21.9m | Chinese | BWTS fitted, StSt |
 | SMALL | MAREX NOA | 12,479 | 2015 | KURINOURA DOCKYARD CO, Japan | MAN-B\&amp;W | Apr-25 | DH | undisclosed | Danish (Uni-Tankers) | BWTS fitted, StSt |
-## Bulk Carriers
 
+## Bulk Carriers
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | C H S SPLENDOR | 170,000 | 2006 | IHI, Japan | Sulzer | Jan-26 |  | $ 16.3m | UAE based | BWTS fitted |
 | PMAX | PALMA BULKER | 75,843 | 2009 | TSUNEISHI, Japan | MAN-B\&amp;W | Jan-24 |  | $ 18.0m | Greek (Silk Searoad) | BWTS fitted |
 | SUPRA | SUPER TRADER | 56,868 | 2011 | JIANGSU HANTONG, China | MAN-B\&amp;W | Jan-26 | 4 X 35t CRANES | above $ 15.0m | undisclosed | BWTS fitted |
 | SUPRA | OREN | 56,877 | 2010 | JIANGDONG, China | MAN-B\&amp;W | Sep-25 | 4 X 30t CRANES | low $ 13.0m | Chinese | BWTS fitted |
-## Containers
 
+## Containers
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | UASC ZAMZAM | 9,034 | 2014 | HYUNDAI, S. Korea | Wartsila | Sep-24 |  | $ 71.0m | undisclosed | eco |
 | PMAX | CO NAGOYA | 4,506 | 2008 | SAMSUNG, S. Korea | MAN-B\&amp;W | Jul-26 |  | $ 18.0m | Swiss-based |  |
 | FEEDER | NEUBURG | 1,740 | 2010 | GUANGZHOU WENCHONG, China | MAN-B\&amp;W | Mar-25 | 2 X 45t CRANES | $ 14.0m | undisclosed | BWTS fitted |
 | FEEDER | SITC JAKARTA | 1,620 | 2003 | IMABARI, Japan | B\&amp;W | May-23 |  | undisclosed | undisclosed |  |
-## Secondhand Sales
 
+## Secondhand Sales
 | MPP/General Cargo Name | MPP/General Cargo Dwt | MPP/General Cargo Built | MPP/General Cargo Yard | MPP/General Cargo M/E | MPP/General Cargo SS due | MPP/General Cargo Gear | MPP/General Cargo Price | MPP/General Cargo Buyers | MPP/General Cargo Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | STONEWELL UNITY | 33,217 | 2012 | OSHIMA, Japan | MAN-B\&amp;W | Apr-27 | 4 X 60t CRANES | $ 18.0m | US based (Atlantic Ro-Ro Carriers) | BWTS fitted |
-## Secondhand Sales
 
+## Secondhand Sales
 | Gas/LPG/LNG Type | Gas/LPG/LNG Name | Gas/LPG/LNG Dwt | Gas/LPG/LNG Built | Gas/LPG/LNG Yard | Gas/LPG/LNG M/E | Gas/LPG/LNG SS due | Gas/LPG/LNG Cbm | Gas/LPG/LNG Price | Gas/LPG/LNG Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LNG | LNG ALLIANCE | 86,389 | 2007 | ATLANTIQUE CHS, France | Wartsila | Apr-27 | 151,383 | $ 68.0m | Korean (Sinokor) | Including TC to Total Energies for abt 15 months |
@@ -297,7 +292,6 @@ In the Panamax sector we had the sale of the "PALMA BULKER" (75,843dwt-blt '09, 
 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
-
 | Sector | Size | 28-Apr-23 | 21-Apr-23 | ±% | 2022 | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -352,8 +346,8 @@ The newbuilding market continued to be very active last week with a total of 30 
 | 28/Jan/23 | 60 | 33 | 32 | 29 |
 | 28/Feb/23 | 60 | 33 | 32 | 29 |
 | 31/Mar/23 | 60 | 33 | 32 | 29 |
-## Newbuilding Orders
 
+## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 10+4 | Tanker | 115,000 dwt | Dalian Shipbuilding, China | 2025-2026 | Greek (Dynacom) | $ 63.0m | scrubber fitted |
@@ -370,7 +364,6 @@ The newbuilding market continued to be very active last week with a total of 30 
 
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | 28/04/23 | 21/04/23 | ±% | 2022 | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |
@@ -383,8 +376,8 @@ The newbuilding market continued to be very active last week with a total of 30 
 | India | 550 | 555 | -0.9% | 583 | 508 | 335 |
 | Pakistan | 535 | 535 | 0.0% | 587 | 526 | 338 |
 | Turkey | 330 | 330 | 0.0% | 304 | 276 | 198 |
-## Currencies
 
+## Currencies
 | Markets | Current | Previous | ±% | YTD High |
 | --- | --- | --- | --- | --- |
 | USD/BDT | 106.10 | 106.11 | 0.0% | 107.50 |
@@ -408,8 +401,8 @@ Last week was a strong one for the recycling market with several deals taking pl
 | 28/Jan/23 | 530 | 525 | 530 | 250 |
 | 28/Feb/23 | 590 | 580 | 585 | 320 |
 | 31/Mar/23 | 580 | 570 | 575 | 330 |
-## Demolition Sales
 
+## Demolition Sales
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FERNAN VAZ | 323,100 | 41,427 | 1979 | SETENAVE, Portugal | OFFSHORE | $ 257/Ldt | undisclosed | "as-is" Gabon |

@@ -1,5 +1,3 @@
-## Weekly Market Report
-
 ## Market Insight
 <u>By Nikos Tagoulis, Head of Research Department</u>
 
@@ -26,8 +24,8 @@ In these market conditions, Europe increasingly depends on its ability to compet
 | 36 mos | New Odyssey | 2016 | 318,167 |
 | --- | --- | --- | --- |
 |  | $80,000 |  | ADNOC Logistics |
-## Spot Rates
 
+## Spot Rates
 | Sector | Size | Routes | 25/09/2026 WS points | 25/09/2026 $/day | 18/09/2026 WS points | 18/09/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 265k | MEG-SPORE | 1,156 | 1,258,994 | 1,113 | 1,208,969 | 4.1% | 60,510 | 37,255 |
@@ -63,7 +61,6 @@ In these market conditions, Europe increasingly depends on its ability to compet
 |  | 36k 3yr TC | 17,750 | 17,750 | 0.0% | 0 | 16,902 | 19,993 |
 
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 25/Sep/25 | 100 | 150 | 150 |
@@ -81,7 +78,6 @@ In these market conditions, Europe increasingly depends on its ability to compet
 | 25/Sep/26 | 1100 | 500 | 550 |
 
 ### Clean WS Rates (1-Year Trend)
-
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 25/Sep/25 | 150 | 100 | 200 | 250 |
@@ -149,7 +145,6 @@ The Aframax segment was the week's outperformer, with earnings climbing across m
 |  | **32K 3yr TC** | 12,000 | 12,000 | 0.0% | 0 | 10,394 | 9,740 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 25/Sep/25 | 3200 | 1800 | 1400 | 900 | 2800 |
@@ -167,7 +162,6 @@ The Aframax segment was the week's outperformer, with earnings climbing across m
 | 25/Sep/26 | 5800 | 2500 | 2500 | 1000 | 5800 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 25/Sep/25 | 28000 | 14000 | 15000 | 10000 |
@@ -220,7 +214,6 @@ Handysizes recorded a positive week, underpinned mainly by firmer Atlantic activ
 | MR2 | ATLANTIC CROWN | 47,128 | 2007 | HYUNDAI, S. Korea | MAN B\&W | Aug-27 | DH | $ 19.0m | undisclosed |  |
 
 ## Secondhand Sales
-
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | RTM DIAS | 89,892 | 2013 | NAMURA, Japan | MITSUBISHI | Jan-28 |  | $ 21,4m each | undisclosed |  |

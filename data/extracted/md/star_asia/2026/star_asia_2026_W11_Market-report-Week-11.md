@@ -169,22 +169,22 @@ The container market experienced a sharp upward trajectory this week as the SCFI
 
 ## Containers Values
 
-| CONTAINERS | GEARED | / | NB |  | NB PROMPT |  |  | 15 |
-|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  |  | 5 YEARS | 10 YEARS |  |
-| (BY TEU) |  | GEARLESS | CONTRACT |  | DELIVERY |  |  | YEARS |
-| 900 ~ 1,200 |  | Geared | 24 |  | 27 | 21 | 16 | 10 |
-| 1,600 ~ 1,850 |  | Gearless | 31 |  | 36 | 29 (E) | 23 (E) | 18 |
-| 2,700 ~ 2,900 |  | Gearless | 44 |  | 46 | 40 | 35 | 26 |
-| 5,100 ~ 5,300 |  | Gearless | 55 |  | 79 | 64 | - | 39 |
-| *(amount in | USD million) \|=Ecounits |  |  |  |  |  |  |  |
-|  |  |  | S&P |  | Containers | Report |  |  |
-|  |  |  |  |  |  | PRICE | COMMENTS | / |
-| VESSEL NAME |  | SIZE | TEU | YEAR | BUILT |  |  |  |
-|  |  |  |  |  |  | (MILLION) | USD BUYERS |  |
-| LUCILE SCHULTE / MARGARETE SCHULTE |  | SUB PMAX | 2,602 | 2006 | S. KOREA | 25.0 EACH | UNDISCLOSED |  |
-| TRANSIMEX SUN |  | FEEDER | 1,060 | 2009 | JAPAN | 15.5 | HAI AN | CO LTD |
-| ASIATIC REUNION |  | FEEDER | 1,049 | 2008 | S. KOREA | 11.0 | UNDISCLOSED |  |
+| CONTAINERS | GEARED | / | NB | NB PROMPT | 15 |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+| (BY TEU) |  | GEARLESS | CONTRACT | DELIVERY | YEARS |
+| 900 ~ 1,200 |  | Geared | 24 | 27 | 10 |
+| 1,600 ~ 1,850 |  | Gearless | 31 | 36 | 18 |
+| 2,700 ~ 2,900 |  | Gearless | 44 | 46 | 26 |
+| 5,100 ~ 5,300 |  | Gearless | 55 | 79 | 39 |
+| *(amount in | USD million) \ | =Ecounits |  |  |  |
+|  |  |  | S&P | Containers |  |
+|  |  |  |  |  | / |
+| VESSEL NAME |  | SIZE | TEU | BUILT |  |
+|  |  |  |  |  |  |
+| LUCILE SCHULTE / MARGARETE SCHULTE |  | SUB PMAX | 2,602 | S. KOREA |  |
+| TRANSIMEX SUN |  | FEEDER | 1,060 | JAPAN | CO LTD |
+| ASIATIC REUNION |  | FEEDER | 1,049 | S. KOREA |  |
 
 ### Shipbroking (www.star-asia.com.sg)
 

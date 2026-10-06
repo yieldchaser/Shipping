@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 By <u>Chara Georgousi, Research Analyst</u>
 
@@ -13,7 +11,6 @@ The bitumen trade primarily operates within regional boundaries, predominantly w
 
 ## Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 22/03/24 WS points | 22/03/24 $/day | 15/03/24 WS points | 15/03/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 68 | 46,587 | 77 | 57,189 | -18.5% | 39,466 | 20,330 |
@@ -33,12 +30,12 @@ The bitumen trade primarily operates within regional boundaries, predominantly w
 |  | 50k | CARIBS-USG | 260 | 38,877 | 253 | 43,507 | -10.6% | 46,194 | 40,364 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 20/22 mos | HAFNIA SWIFT | 2016 | 49,999 dwt | DEL EAST APR/24 | $30,000/day | ST Shipping |
-| 36 mos | MOSSEL BAY | 2024 | 49,999 dwt | DEL WEST MAR/24 | $27,000/day | P66 |
-### Dirty WS Rates (1-Year Trend)
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 20/22 mos | HAFNIA SWIFT | 2016 | 49,999 dwt |  |  |
+| 36 mos | MOSSEL BAY | 2024 | 49,999 dwt |  |  |
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 22/Mar/23 | 350 | 160 | 360 |
@@ -54,8 +51,8 @@ The bitumen trade primarily operates within regional boundaries, predominantly w
 | 22/Jan/24 | 50 | 100 | 390 |
 | 22/Feb/24 | 60 | 100 | 200 |
 | 22/Mar/24 | 60 | 120 | 150 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 22/Mar/23 | 180 | 280 | 420 | 450 |
@@ -121,13 +118,12 @@ Suezmax T/C earnings averaged \$37,145/day, marking a slight increase of 4.22% w
 | BHSI | 795 | $14,309 | 781 | $14,057 | **14** | **1.8%** | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 24 mos | LOWLANDS SKY | 2023 | 82,281 dwt | dely Tianjin 25/26 Mar redel worldwide | $19,500/day | cnr |
-| 2/4 mos | WOOHYUN SKY | 2010 | 32,312 dwt | dely Krisnapatnam 20/24 Mar redel AG-Japan | $11,500/day | Sea Schiffe |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 24 mos | LOWLANDS SKY | 2023 | 82,281 dwt |  |  |
+| 2/4 mos | WOOHYUN SKY | 2010 | 32,312 dwt |  |  |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI |
 | --- | --- | --- | --- | --- |
 | 22/Mar/23 | 1,500 | 1,200 | 1,100 | 800 |
@@ -145,7 +141,6 @@ Suezmax T/C earnings averaged \$37,145/day, marking a slight increase of 4.22% w
 | 22/Mar/24 | 4,000 | 2,500 | 2,200 | 2,100 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 22/Mar/23 | 15000 | 10000 | 8000 | 6000 |
@@ -201,7 +196,6 @@ Supramax 10TC averaged \$ 15,004/day up +3.93% w-o-w, while the Handysize 7TC av
 # Secondhand Sales
 
 ## Bulk Carriers
-
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | NEWTON | 307,284 | 2009 | DALIAN, China | Wartsila | Feb-24 | DH |  |  | BWTS pending, installation year 2024 |
@@ -271,7 +265,6 @@ Another strong week in the newbuilding market with tanker newbuilding orders rem
 The global ship demolition industry is navigating turbulent waters as it faces an acute shortage of vessels available for recycling. This shortage has been fueled by a confluence of factors, including regional celebrations, economic uncertainties and geopolitical tensions, which have combined to disrupt the supply of ships reaching the major recycling hubs. In India, the market has been remarkably volatile due to the upcoming general election and uncertainty surrounding the government's proposed infrastructure initiatives. The festive spirit of the Holi festival further dampened sentiment and contributed to a noticeable drop in activity and prices towards the end of the week. Fluctuations in steel plate prices and currency valuations have added to the instability of the market, adding to the challenges faced by local recyclers. Pakistan's ship recycling sector mirrored the subdued activity of the previous week, largely due to the observance of Ramadan. Ironically, the continued shortage of available tonnage has helped to maintain current pricing levels, although these remain uncompetitive when compared to the more advantageous position of the Bangladeshi market. Despite the economic headwinds, Pakistan's domestic fundamentals, including stable steel plate prices and a slightly appreciating currency, have provided a glimmer of respite. The recycling market in Bangladesh may appear soft on the surface, but there has been significant interest from a select group of buyers with access to L/C facilities and robust shipyard capabilities. These buyers have shown a particular appetite for vessels that can be delivered promptly on contract. Expectations of currency corrections and improvements in the financial sector's foreign exchange reserves have fueled speculation of possible market corrections in the near future. In Turkey, the market has seen a modest up-turn in the import segment. However, the local market has remained broadly stable. Economic challenges, including rising inflation and a weakening currency, have dealt a crippling blow to the recycling sector in Turkey, exacerbating the tonnage shortage and limiting activity at least until the end of Ramadan.
 
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | 22/03/24 | 15/03/24 | ±% | YTD High | YTD Low | 2023 | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |  |  |

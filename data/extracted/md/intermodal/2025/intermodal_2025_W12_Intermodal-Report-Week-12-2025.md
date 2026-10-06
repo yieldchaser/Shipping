@@ -1,5 +1,3 @@
-## Weekly Market Report
-
 ## Market Insight
 By Nikos Tagoulis, Senior Analyst
 
@@ -48,7 +46,6 @@ Alongside the growth of the LNG bunkering fleet, LNG port infrastructure has exp
 # Intermodal Tanker Market
 
 ## Spot Rates
-
 | Sector | Size | Routes | 21/03/2025 WS points | 21/03/2025 $/day | 14/03/2025 WS points | 14/03/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 265k | MEG-SPORE | 68 | 52,080 | 60 | 42,740 | **21.9%** | 37,255 | 39,466 |
@@ -66,8 +63,8 @@ Alongside the growth of the LNG bunkering fleet, LNG port infrastructure has exp
 | **Dirty** | 55K | UKC-USG | 115 | 10,715 | 115 | 10,782 | -0.6% | 17,707 | 27,274 |
 |  | 55K | MED-USG | 115 | 9,833 | 115 | 10,089 | -2.5% | 17,590 | 27,060 |
 |  | 50k | ARA-UKC | 207 | 32,019 | 197 | 29,301 | **9.3%** | 26,872 | 46,194 |
-## TC Rates
 
+## TC Rates
 | Sector | Tenor | 21/03/2025 | 14/03/2025 | ±% | Diff | 2024 | 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 300k 1yr TC | 44,500 | 44,500 | 0.0% | 0 | 50,365 | 48,601 |
@@ -82,8 +79,8 @@ Alongside the growth of the LNG bunkering fleet, LNG port infrastructure has exp
 |  | 52k 3yr TC | 19,250 | 19,750 | -2.5% | -500 | 26,402 | 25,152 |
 | **Handy** | 36k 1yr TC | 18,000 | 18,000 | 0.0% | 0 | 26,606 | 25,760 |
 |  | 36k 3yr TC | 17,000 | 17,000 | 0.0% | 0 | 19,993 | 18,200 |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Mar-25 avg | Feb-25 avg | ±% | 2024 | 2023 | 2022 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 300KT DH | 112.0 | 112.3 | -0.2% | 113.0 | 99.5 | 80.2 |
@@ -93,7 +90,6 @@ Alongside the growth of the LNG bunkering fleet, LNG port infrastructure has exp
 | **MR** | 52KT DH | 41.0 | 41.0 | 0.0% | 45.8 | 41.4 | 34.8 |
 
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 21/Mar/24 | 60 | 120 | 180 |
@@ -109,8 +105,8 @@ Alongside the growth of the LNG bunkering fleet, LNG port infrastructure has exp
 | 21/Jan/25 | 60 | 110 | 170 |
 | 21/Feb/25 | 65 | 115 | 180 |
 | 21/Mar/25 | 70 | 120 | 190 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 21/Mar/24 | 180 | 190 | 200 | 210 |
@@ -147,10 +143,10 @@ Dry Bulk Market
 | BHSI | 596 | $10,719 | 572 | $10,298 | 24 | 4.1% | 702 | 586 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 5 to 8 mos | Ever Grand | 2013 | 81,688 dwt | dely Kohsichang 27/31 Mar red worldwide | $14,000/day | Cobelfret |
-| 7 to 9 mos | DSI Andromeda | 2016 | 60,309 dwt | dely Yokohama prompt red worldwide | $14,000/day | Cargill |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 5 to 8 mos | Ever Grand | 2013 | 81,688 dwt |  |  |
+| 7 to 9 mos | DSI Andromeda | 2016 | 60,309 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | 21/03/2025 | 14/03/2025 | ±% | Diff | 2024 | 2023 |
@@ -165,7 +161,6 @@ Dry Bulk Market
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 21/Mar/24 | 3500 | 1800 | 1400 | 800 | 2000 |
@@ -183,7 +178,6 @@ Dry Bulk Market
 | 21/Mar/25 | 3000 | 1600 | 1200 | 700 | 1700 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 21/Mar/24 | 28000 | 16000 | 12000 | 8000 |
@@ -302,7 +296,6 @@ In Turkey, political developments have taken center stage following the arrest o
 | USD/TRY | 37.38 | 36.51 | 2.4% | 37.38 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SHENG TAI | 5,210 | 2,225 | 1997 | ZHEJIANG, China | GENERAL CARGO | $ 333/Ldt | undisclosed | as is Shanghai |

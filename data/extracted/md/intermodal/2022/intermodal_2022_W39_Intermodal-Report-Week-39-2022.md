@@ -76,8 +76,8 @@ Shanghai 200122 China
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 mos | DESH VIRAAT | 2008 | 320,412 dwt | $38,500/day | Trafigura |
-| 3 mos | KRITI EMERALD | 2005 | 50,375 dwt | $30,000/day | Trafigura |
+| 6 mos | DESH VIRAAT | 2008 | 320,412 dwt |  |  |
+| 3 mos | KRITI EMERALD | 2005 | 50,375 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | Current | Previous | ±% | Diff | 2021 | 2020 |
@@ -96,7 +96,6 @@ Shanghai 200122 China
 |  | **36k 3yr TC** | 16,000 | 16,000 | 0.0% | 0 | 13,054 | 14,051 |
 
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 30/Sep/21 | 50 | 100 | 120 |
@@ -114,7 +113,6 @@ Shanghai 200122 China
 | 30/Sep/22 | 90 | 180 | 250 |
 
 ### Clean WS Rates (1-Year Trend)
-
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 30/Sep/21 | 100 | 120 | 140 | 160 |
@@ -173,13 +171,12 @@ In the Aframax sector we had the sale of the "PHOENIX BEACON" (105,525dwt-bl't '
 | 1,009 | $18,159 | 966 | $17,383 | 43 | 4.5% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 4 to 7 mos | EXPLORER ASIA | 2016 | 81,093 dwt | Haldia 30 Sep | $18,000/day | cnr |
-| 6 to 8 mos | BUNUN BRAVE | 2014 | 45,556 dwt | Xiamen 27/28 Sep | $20,500/day | cnr |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 4 to 7 mos | EXPLORER ASIA | 2016 | 81,093 dwt |  |  |
+| 6 to 8 mos | BUNUN BRAVE | 2014 | 45,556 dwt |  |  |
 
 ## TC Rates
-
 | Sector | Tenor | 30/09/2022 | 23/09/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 14,500 | 18,000 | -19.4% | -3,500 | 32,684 | 15,361 |
@@ -196,7 +193,6 @@ In the Aframax sector we had the sale of the "PHOENIX BEACON" (105,525dwt-bl't '
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 30/Sep/21 | 4,500 | 3,500 | 3,200 | 1,800 | 10,500 |
@@ -214,7 +210,6 @@ In the Aframax sector we had the sale of the "PHOENIX BEACON" (105,525dwt-bl't '
 | 30/Sep/22 | 1,700 | 1,800 | 1,700 | 1,600 | 2,500 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 30/Sep/21 | 35000 | 34000 | 33000 | 32000 |
@@ -264,7 +259,6 @@ In the Kamsarmax sector we had the sale of the "ALEXANDRA" (82,329dwt-blt '06, J
 
 # Intermodal Secondhand Sales
 ## Tankers
-
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUEZ | CAP GUILLAUME | 158,889 | 2006 | SAMSUNG, S. Korea | MAN-B\&amp;W | Dec-24 | DH | $ 35.0m | undisclosed | ICE class |
@@ -279,8 +273,8 @@ In the Kamsarmax sector we had the sale of the "ALEXANDRA" (82,329dwt-blt '06, J
 | SMALL | WEALTHY LOYAL | 19,098 | 2012 | ZHEJIANG, China | MAN-B\&amp;W | May-27 | DH | $ 15.0m | undisclosed | BWTS fitted, online commercial auction |
 | SMALL | LEON HERC | 17,568 | 2008 | SAMHO, S. Korea | MAN-B\&amp;W | Nov-23 | DH | $ 9.0m | Greek |  |
 | SMALL | HANYU FREESIA | 13,102 | 2006 | 21ST CENTURY, S. Korea | MAN-B\&amp;W | Jul-26 | DH | $ 7.1m | undisclosed | BWTS fitted |
-## Bulk Carriers
 
+## Bulk Carriers
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | SHINYO GUARDIAN | 177,216 | 2005 | NAMURA, Japan | MAN-B\&amp;W | Nov-24 |  | $ 17.25m | Turkish | BWTS fitted |
@@ -297,7 +291,6 @@ In the Kamsarmax sector we had the sale of the "ALEXANDRA" (82,329dwt-blt '06, J
 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
-
 | Sector | Size | 30/09/2022 | 23/09/2022 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -350,8 +343,8 @@ Shipbuilding activity was kept firm in September overall, edging higher from the
 | 31/Jul/22 | 62 | 33 | 33 | 30 |
 | 31/Aug/22 | 62 | 33 | 33 | 30 |
 | 30/Sep/22 | 62 | 32 | 32 | 30 |
-## Newbuilding Orders
 
+## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | FPSO | 225,000 | bopd | Keppel | 2027 | Brazilian (Petrobras) | $2.8bn |
@@ -365,7 +358,6 @@ Shipbuilding activity was kept firm in September overall, edging higher from the
 
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | Markets | 30/09/2022 | 23/09/2022 | ±% | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
@@ -396,8 +388,8 @@ Despite an overall sluggishness in demolition market activity, breakers hold the
 | 31/Jul/22 | 560 | 560 | 560 | 250 |
 | 31/Aug/22 | 570 | 570 | 570 | 250 |
 | 30/Sep/22 | 580 | 570 | 580 | 250 |
-## Demolition Sales
 
+## Demolition Sales
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SAMC INTEGRITY | 175,775 | 24,181 | 2002 | CHINA SHIPBUILDING, Taiwan | BC | $ 579/Ldt | undisclosed | "as-is" Singapore |

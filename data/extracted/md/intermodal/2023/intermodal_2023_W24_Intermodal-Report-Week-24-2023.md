@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 By <u>Chara Georgousi, Research Analyst</u>
 
@@ -24,7 +22,6 @@ Against a backdrop of uncertainty regarding the regulatory framework paired with
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 16/06/23 WS points | 16/06/23 $/day | 09/06/23 WS points | 09/06/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 86 | 78,678 | 55 | 35,856 | **119.4%** | 20,330 | 2,246 |
@@ -49,8 +46,8 @@ Against a backdrop of uncertainty regarding the regulatory framework paired with
 | 16 to 18 mos | NAVIOS CITRINE index linked at 110% to BPI | 2017 | 81,626 dw t Costamare |
 | --- | --- | --- | --- |
 | 4 to 6 mos | CL CENTURY $8,000 first 50 days, $13,500 balance | 2015 | 60,319 dw t Oldendorff |
-### Dirty WS Rates (1-Year Trend)
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 16/Jun/22 | 50 | 150 | 200 |
@@ -66,8 +63,8 @@ Against a backdrop of uncertainty regarding the regulatory framework paired with
 | 16/Apr/23 | 50 | 150 | 250 |
 | 16/May/23 | 60 | 140 | 200 |
 | 16/Jun/23 | 70 | 130 | 150 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 16/Jun/22 | 200 | 300 | 500 | 400 |
@@ -156,7 +153,6 @@ Suezmax T/C earnings averaged \$ 44,726/day, up + \$18,368/day w-o-w. On the Afr
 | 16/jun/23 | 1100 | 1100 | 1000 | 800 | 1100 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | Date |  |  |  |  |
@@ -187,8 +183,9 @@ Suezmax T/C earnings averaged \$ 44,726/day, up + \$18,368/day w-o-w. On the Afr
 | **Handysize Supramax Panamax Capesize** | **32K 1yr TC** | 9,500 | 9,500 | 0.0% | 0 | 17,827 | 18,354 |
 | **Handysize Supramax Panamax Capesize** | **32K 3yr TC** | 9,250 | 9,250 | 0.0% | 0 | 12,322 | 11,825 |
 
-## Indicative Market Values ($ Million) - Bulk Carriers
-| Sector | Size | May-23 avg | Previous avg | ±% | 2022 | 2021 |
+## TC Rates
+
+| Sector | Tenor | Current | Previous | ±% | Diff | 2022 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize Eco** 180k | 51.3 | 53.4 | -3.8% | 48.3 | 43.1 | 36.1 |
 | **Kamsarmax** 82K | 32.7 | 33.4 | -2.1% | 34.1 | 29.8 | 23.2 |
@@ -232,7 +229,6 @@ Supramax 10TC averaged \$ 8,063/day, down -4.35% w-o-w, while the Handysize 7TC 
 ## Secondhand Sales
 
 ## Containers
-
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | AS EMMA | 4,256 | 2010 | Jiangsu Newyangzi, China | MAN-B\&W | Jan-25 |  | $ 22.0m | undisclosed | dely Novemebr 2023 |
@@ -254,7 +250,6 @@ Supramax 10TC averaged \$ 8,063/day, down -4.35% w-o-w, while the Handysize 7TC 
 The newbuilding market activity was healthy last week, with 20 firm orders and 6 options materializing. Of these, 6 were tankers, 7 bulkers, while LNG and PCTC had 2 and 4 orders respectively. The Greeks had a strong presence in the tanker market with Polembros Shipping ordering two 157,000 dwt tankers from New Times in China. The vessel will be scrubber-fitted and LNG ready and is scheduled for delivery in 2025. Capital Shipping ordered a further two 156,000 dwt Suezmaxes from the same yard. The vessels will be LNG dual-fuelled and are expected to be in the water in 2027 at a cost of \$87.0m each. In bulkers, Guangdong Yudean ordered two 82,000 dwt bulkers from Chengxi in China for \$35.5m, while Wisdom Marine ordered a 42,200 dwt bulker from Tsuneishi Zhoushan for \$34.0m. In LNG, oil major Chevron ordered two firm and two optional 174,000 cbm LNG carriers from Samsung HI. The duo cost \$254.5m each, with delivery expected in 2027 and 2028, making it the first LNG carrier to be delivered so late.
 
 ## TC Rates
-
 | Sector | Tenor | Current | Previous | ±% | Diff | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -313,7 +308,6 @@ The demolition market remained tight with only 3 vessels being sold for scrap. B
 | USD/TRY | 23.62 | 23.40 | 0.9% | 23.67 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | SCO QINGDAO | 10,010 | 3,759 | 1997 | QIUIXIN, China | CONTAINER | $ 610/Ldt | Bangladeshi |

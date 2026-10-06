@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 
 By Fotis Kanatas, Research Analyst
@@ -34,7 +32,6 @@ With inventories of clean products dwindling on both sides of the Atlantic, and 
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 26/05/23 WS points | 26/05/23 $/day | 19/05/23 WS points | 19/05/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 49 | 28,225 | 56 | 37,600 | -24.9% | 20,330 | 2,246 |
@@ -57,10 +54,10 @@ With inventories of clean products dwindling on both sides of the Atlantic, and 
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 2 mos | BANGLAR AGRA JATRA | 2019 |  | 16,000/day |  |
-| 12 mos | SEAWAYS BRAZOS | 2012 |  | $ 45,000/day |  |
-### Dirty WS Rates (1-Year Trend)
+| 2 mos | BANGLAR AGRA JATRA | 2019 |  |  |  |
+| 12 mos | SEAWAYS BRAZOS | 2012 |  |  |  |
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | DIRTY - WS RATES | WS points | WS points | WS points |
@@ -77,8 +74,8 @@ With inventories of clean products dwindling on both sides of the Atlantic, and 
 | 26/Mar/23 | 150 | 140 | 280 |
 | 26/Apr/23 | 160 | 120 | 260 |
 | 26/May/23 | 170 | 100 | 240 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | CLEAN - WS RATES | WS points | WS points | WS points | WS points |
@@ -143,10 +140,10 @@ Suezmax T/C earnings averaged \$ 55,654/day, down - \$4,796/day w-o-w. On the Af
 | BHSI | 588 | $10,585 | 612 | $11,018 | -24 | -3.9% | 1,181 | 1,424 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 24 mos | MEDUSA | 2010 | 82,194 dwt | dely Rizhao redel worldwide | $14,250 /day | ASL Bulk |
-| 12 mos | GIA AMBITION | 2022 | 84,990 dwt | dely Kimitsu 20 May redel worldw ide | index linked at 116% to BPI | Swissmarine |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 24 mos | MEDUSA | 2010 | 82,194 dwt |  |  |
+| 12 mos | GIA AMBITION | 2022 | 84,990 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | 26/05/23 | 19/05/23 | ±% | Diff | 2022 | 2021 |
@@ -165,7 +162,6 @@ Suezmax T/C earnings averaged \$ 55,654/day, down - \$4,796/day w-o-w. On the Af
 | **Capesize** | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 12,322 | 11,825 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 26/May/22 | 25000 | 28000 | 30000 | 32000 |
@@ -252,7 +248,6 @@ Supramax 10TC averaged \$ 11,101/day, down -7.25% w-o-w, while the Handysize 7TC
 ## Secondhand Sales
 
 ## Containers
-
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FEEDER | SPIRIT OF MUMBAI | 2,202 | 1999 | CHINA KAOHSIUNG, Taiwan | B\&W | Sep-23 | 3 X 45t CRANES | $ 11.0m | Chinese |
@@ -326,7 +321,6 @@ Despite the weak fundamentals across all the main Indian-subcontinent destinatio
 | USD/TRY | 19.97 | 19.81 | *0.8%* | 20.47 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FU SHENG | 77,447 | 10,780 | 1994 | KAWASAKI, Japan | BC | $ 580/Ldt | Bangladeshi |  |

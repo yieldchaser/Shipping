@@ -1,5 +1,3 @@
-## Weekly Market Report
-
 ## Market Insight
 <u>By Yiannis Parganas, Head of Research Department</u>
 
@@ -21,7 +19,6 @@ If the war was to end, the dry bulk impact would be felt primarily in route stru
 
 ## Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 19/12/2025 WS points | 19/12/2025 $/day | 12/12/2025 WS points | 12/12/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 116 | 114,685 | 129 | 129,097 | -11.2% | 37,255 | 39,466 |
@@ -45,7 +42,8 @@ If the war was to end, the dry bulk impact would be felt primarily in route stru
 | 12 mos | Seaways Rio Grande | 2012 |
 | --- | --- | --- |
 |  | $40,000/day |  |
-### 1-Year Forward WS Rates - Dirty
+
+### Dirty WS Rates (1-Year Trend)
 
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
@@ -64,7 +62,8 @@ If the war was to end, the dry bulk impact would be felt primarily in route stru
 | 19/Oct/25 |  |  |  |
 | 19/Nov/25 |  |  |  |
 | 19/Dec/25 |  |  |  |
-### 1-Year Forward WS Rates - Clean
+
+### Clean WS Rates (1-Year Trend)
 
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
@@ -136,7 +135,6 @@ The Aframax segment benefited from the firm USG market, lifting TCE earnings 6.6
 
 No Fresh Period Fixtures
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 19/Dec/24 | 1000 | 1000 | 1000 | 800 | 1000 |
@@ -170,7 +168,6 @@ No Fresh Period Fixtures
 | **Handysize** | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 19/Dec/24 | 8000 | 9000 | 10000 | 7000 |
@@ -214,7 +211,6 @@ Ultramax and Supramax sectors also softened as the approach of extended holidays
 # Secondhand Sales
 
 ## Secondhand Sales
-
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUEZ | SFL THELON | 159,500 | 2015 | BOHAI, China | MAN B\&amp;W | Jan-30 | DH | $ 57,0m each | Greek | Eco |
@@ -310,7 +306,6 @@ Pakistani market was flat, amid subdued purchasing interest and a limited availa
 
 Turkey experienced a quiet week, with activity unchanged and few candidates circulated. The steel market remained subdued, as local mills adopt a wait-and-see approach until price levels improve. Meanwhile, Lira extended its side.
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CHANG MING YANG | 99,761 | 19,529 | 1993 | MITSUI, Japan | BC | $ 380/Ldt | undisclosed | as is China |

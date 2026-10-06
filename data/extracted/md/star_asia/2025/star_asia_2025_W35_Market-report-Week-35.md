@@ -163,21 +163,21 @@ The container market saw another poor week as a massive oversupply of vessels cr
 
 ## Containers Values
 
-| CONTAINERS | GEARED / | NB |  | NB PROMPT |  |  | 15 |
-|---|---|---|---|---|---|---|---|
-|  |  |  |  |  | 5 YEARS | 10 YEARS |  |
-| (BY TEU) | GEARLESS | CONTRACT |  | DELIVERY |  |  | YEARS |
-| 900 ~ 1,200 | Geared | 24 |  | 26 | 20 | 16 | 10 |
-| 1,600 ~ 1,850 | Gearless | 31 |  | 35 | 29 (E) | 23 (E) | 18 |
-| 2,700 ~ 2,900 | Gearless | 44 |  | 46 | 39 | 35 | 26 |
-| 5,100 ~ 5,300 | Gearless | 59 |  | 82 | 66 | - | 41 |
-| *(amount in USD | million) | \|=Ecounits |  |  |  |  |  |
-|  |  | S&P |  | Containers | Report |  |  |
-|  |  |  |  |  | PRICE | COMMENTS | / |
-| VESSEL NAME | TYPE | TEU | YEAR | BUILT |  |  |  |
-|  |  |  |  |  | (MILLION) | USD BUYERS |  |
-| PFL MATAI | FEEDER | 1,730 | 2001 | POLAND | 10.5 | UNDISCLOSED |  |
-| SCO SHANGHAI | FEEDER | 707 | 2017 | VIETNAM | 7.0 | UNDISCLOSED |  |
+| CONTAINERS | GEARED / | NB | NB PROMPT | 15 |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+| (BY TEU) | GEARLESS | CONTRACT | DELIVERY | YEARS |
+| 900 ~ 1,200 | Geared | 24 | 26 | 10 |
+| 1,600 ~ 1,850 | Gearless | 31 | 35 | 18 |
+| 2,700 ~ 2,900 | Gearless | 44 | 46 | 26 |
+| 5,100 ~ 5,300 | Gearless | 59 | 82 | 41 |
+| *(amount in USD | million) | \ |  |  |
+|  |  | S&P | Containers |  |
+|  |  |  |  | / |
+| VESSEL NAME | TYPE | TEU | BUILT |  |
+|  |  |  |  |  |
+| PFL MATAI | FEEDER | 1,730 | POLAND |  |
+| SCO SHANGHAI | FEEDER | 707 | VIETNAM |  |
 
 ### Shipbroking (www.star-asia.com.sg)
 

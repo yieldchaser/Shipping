@@ -1,5 +1,3 @@
-## Weekly Market Report
-
 ## Market Insight
 <mark>Nikos Tagoulis, Senior Analyst</mark>
 
@@ -28,7 +26,8 @@ In conclusion, the escalating war in the Middle East and rising strains at a cri
 | 12 mos | Maran Leo | 2014 |
 | --- | --- | --- |
 |  | $82,500/day |  |
-### 1-Year Forward WS Rates - Dirty
+
+### Dirty WS Rates (1-Year Trend)
 
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
@@ -44,7 +43,8 @@ In conclusion, the escalating war in the Middle East and rising strains at a cri
 | 5/Jan/26 | 120 | 200 | 220 |
 | 5/Feb/26 | 450 | 350 | 380 |
 | 5/Mar/26 | 480 | 360 | 400 |
-### 1-Year Forward WS Rates - Clean
+
+### Clean WS Rates (1-Year Trend)
 
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
@@ -60,8 +60,8 @@ In conclusion, the escalating war in the Middle East and rising strains at a cri
 | 5/Jan/26 | 60 | 70 | 80 | 90 |
 | 5/Feb/26 | 50 | 60 | 70 | 80 |
 | 5/Mar/26 | 600 | 250 | 200 | 150 |
-## Spot Rates
 
+## Spot Rates
 | Sector | Size | Routes | 06/03/2026 WS points | 06/03/2026 $/day | 27/02/2026 WS points | 27/02/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 482 | 505,063 | 224 | 222,925 | **126.6%** | 60,510 | 37,255 |
@@ -127,8 +127,8 @@ bility may increase slightly in the coming weeks, the market remains highly sens
 ### Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 to 14 mos | Xenia | 2016 | 82,019 dwt | $20,500/day | cnr |
-| 4 to 6 mos | ETG Ubuntu | 2022 | 64,195 dwt | $21,000/day + $500,000 bb | Seastar |
+| 12 to 14 mos | Xenia | 2016 | 82,019 dwt |  |  |
+| 4 to 6 mos | ETG Ubuntu | 2022 | 64,195 dwt |  |  |
 
 ### Baltic Indices
 | Index Name | Current Index | Current $/day |

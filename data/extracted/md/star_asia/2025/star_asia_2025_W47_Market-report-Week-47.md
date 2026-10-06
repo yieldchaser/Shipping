@@ -115,13 +115,9 @@ A similarly strong market has taken in the MEG, driven by a tight supply of vess
 
 Clean:
 
-**LR: LR2 in the MEG ended the week with rising rates, driven by the sustained, steady flow of**
+**LR:** LR2 in the MEG ended the week with rising rates, driven by the sustained, steady flow of Far East-bound cargoes typical of the winter season. TC1 closed at WS150. Similarly, in The LR1, MEG also fared well with levels for TC5 to Japan route improving to WS153.
 
-Far East-bound cargoes typical of the winter season. TC1 closed at WS150. Similarly, in The LR1, MEG also fared well with levels for TC5 to Japan route improving to WS153.
-
-**MR: MR segment also closed on the high with MEG routes TC17 climbing to WS246 some 27**
-
-points. This gain was due to a seasonal shift, which resulted in an uptick in demand for smaller, short-haul cargoes. In the UKC, rates have also recovered with TC2 to US-Atlantic closing at WS165.
+**MR:** MR segment also closed on the high with MEG routes TC17 climbing to WS246 some 27 points. This gain was due to a seasonal shift, which resulted in an uptick in demand for smaller, short-haul cargoes. In the UKC, rates have also recovered with TC2 to US-Atlantic closing at WS165.
 
 ## Baltic Exchange Tanker Indices
 
@@ -153,22 +149,22 @@ Across key long-haul routes, including North America, Latin America, and Africa,
 
 ## Containers Values
 
-| CONTAINERS | GEARED / | NB |  | NB PROMPT |  |  | 15 |
-|---|---|---|---|---|---|---|---|
-|  |  |  |  |  | 5 YEARS | 10 YEARS |  |
-| (BY TEU) | GEARLESS | CONTRACT |  | DELIVERY |  |  | YEARS |
-| 900 ~ 1,200 | Geared | 24 |  | 26 | 20 | 16 | 10 |
-| 1,600 ~ 1,850 | Gearless | 31 |  | 35 | 29 (E) | 23 (E) | 18 |
-| 2,700 ~ 2,900 | Gearless |  | 44 | 46 | 39 | 35 | 26 |
-| 5,100 ~ 5,300 | Gearless |  | 59 | 82 | 66 | - | 41 |
-| *(amount in USD million) | \| = Eco units |  |  |  |  |  |  |
-|  |  | S&P |  | Containers | Report |  |  |
-|  |  |  |  |  | PRICE | COMMENTS | / |
-| VESSEL NAME | TYPE | TEU | YEAR | BUILT |  |  |  |
-|  |  |  |  |  | (MILLION) | USD BUYERS |  |
-| IRENE RESOLVE | PMAX | 3,739 | 2001 | S. KOREA | 23.0 | MSC | CROCIERE SA |
-| NEWNEW STAR 2 | PMAX | 3,534 | 2007 | CHINA | 26.0 | MSC | CROCIERE SA |
-| EF ELENA | FEEDER | 1,338 | 2007 | CHINA | 17.0 | UNDISCLOSED |  |
+| CONTAINERS | GEARED / | NB | NB PROMPT | 15 |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+| (BY TEU) | GEARLESS | CONTRACT | DELIVERY | YEARS |
+| 900 ~ 1,200 | Geared | 24 | 26 | 10 |
+| 1,600 ~ 1,850 | Gearless | 31 | 35 | 18 |
+| 2,700 ~ 2,900 | Gearless |  | 46 | 26 |
+| 5,100 ~ 5,300 | Gearless |  | 82 | 41 |
+| *(amount in USD million) | \ | = Eco units |  |  |
+|  |  | S&P | Containers |  |
+|  |  |  |  | / |
+| VESSEL NAME | TYPE | TEU | BUILT |  |
+|  |  |  |  |  |
+| IRENE RESOLVE | PMAX | 3,739 | S. KOREA | CROCIERE SA |
+| NEWNEW STAR 2 | PMAX | 3,534 | CHINA | CROCIERE SA |
+| EF ELENA | FEEDER | 1,338 | CHINA |  |
 
 ### Shipbroking (www.star-asia.com.sg)
 
@@ -343,9 +339,7 @@ In contrast to the South Asian markets, deep-sea scrap prices in Turkey moved hi
 
 ## Commodities (Weekinfocus)
 
-**Iron ore futures experienced a decline for the second consecutive session on Friday, as the**
-
-market reacted to signals of softer demand and tightening steel margins within China, the world's largest consumer. The most-traded January iron ore contract on the Dalian Commodity Exchange closed daytime trade 0.32% lower at 785.50 yuan per metric ton, equivalent to about US$110.43. Concurrently, the benchmark December iron ore contract on the Singapore Exchange edged down to $103.85 a ton. These price movements occurred against a backdrop of shrinking steel profitability, with a gauge showing that average daily hot metal output, which measures iron ore demand, fell by 0.3% from the previous week to US$2.36 million tons as of November 20. Furthermore, steel margins continued to narrow, leaving just over one-third of steel mills operating at a profit, a significant drop from nearly half of mills operating profitably just a month ago. Despite the recent daily declines, both benchmark contracts are poised for a second weekly gain, rising 1% so far this week. Separately, seaborne iron ore spot prices have remained robust, staying above the key psychological level of US$100 per ton in November, surpassing earlier expectations for a quarterly average price of US$90-95. Adding tension to the supply side, protracted negotiations between China's state iron ore buyer and the miner BHP have tightened the availability of some iron ore, helping to underpin prices despite the overall weakening demand for the key steelmaking ingredient. Meanwhile, base metals slipped as uncertainty over the Federal Reserve's policy trajectory continued to weigh on sentiment. Copper reversed early gains after the U.S. jobs report tempered expectations for near-term easing. Prices had initially been supported by reports that China is weighing additional measures to stabilise its struggling property market, including potential mortgage subsidies for new buyers, higher income-tax rebates for mortgage borrowers, and lower transaction costs. China's prolonged property downturn has curbed construction activity and pressured metals demand, with strength in new-energy sectors and power-grid investment providing the only meaningful offset this year.
+Iron ore futures experienced a decline for the second consecutive session on Friday, as the market reacted to signals of softer demand and tightening steel margins within China, the world's largest consumer. The most-traded January iron ore contract on the Dalian Commodity Exchange closed daytime trade 0.32% lower at 785.50 yuan per metric ton, equivalent to about US$110.43. Concurrently, the benchmark December iron ore contract on the Singapore Exchange edged down to $103.85 a ton. These price movements occurred against a backdrop of shrinking steel profitability, with a gauge showing that average daily hot metal output, which measures iron ore demand, fell by 0.3% from the previous week to US$2.36 million tons as of November 20. Furthermore, steel margins continued to narrow, leaving just over one-third of steel mills operating at a profit, a significant drop from nearly half of mills operating profitably just a month ago. Despite the recent daily declines, both benchmark contracts are poised for a second weekly gain, rising 1% so far this week. Separately, seaborne iron ore spot prices have remained robust, staying above the key psychological level of US$100 per ton in November, surpassing earlier expectations for a quarterly average price of US$90-95. Adding tension to the supply side, protracted negotiations between China's state iron ore buyer and the miner BHP have tightened the availability of some iron ore, helping to underpin prices despite the overall weakening demand for the key steelmaking ingredient. Meanwhile, base metals slipped as uncertainty over the Federal Reserve's policy trajectory continued to weigh on sentiment. Copper reversed early gains after the U.S. jobs report tempered expectations for near-term easing. Prices had initially been supported by reports that China is weighing additional measures to stabilise its struggling property market, including potential mortgage subsidies for new buyers, higher income-tax rebates for mortgage borrowers, and lower transaction costs. China's prolonged property downturn has curbed construction activity and pressured metals demand, with strength in new-energy sectors and power-grid investment providing the only meaningful offset this year.
 
 ### Shipbroking (www.star-asia.com.sg)
 

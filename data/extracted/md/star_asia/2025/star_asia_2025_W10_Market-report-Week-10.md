@@ -109,13 +109,9 @@ The Middle East market closed slightly bearish with minor downward rate adjustme
 
 Clean:
 
-**LR: The LR2 Middle East market closed on a positive amid a bullish atmosphere, driven by**
+**LR:** The LR2 Middle East market closed on a positive amid a bullish atmosphere, driven by increased cargo volume with start of Ramadan. TC1 MEG/Japan gain 6 points to WS130. Meanwhile, LR1 faced a slightly subdued market with a similar route, TC5 slipping to WS134.
 
-increased cargo volume with start of Ramadan. TC1 MEG/Japan gain 6 points to WS130. Meanwhile, LR1 faced a slightly subdued market with a similar route, TC5 slipping to WS134.
-
-**MR: MR in the MEG saw similar weakness in the MEG after peaking at the start of week as**
-
-route to E. Africa closed at WS211. In the USG, rates lose traction with not much activity to boot, as USG/UKC fell to WS85.
+**MR:** MR in the MEG saw similar weakness in the MEG after peaking at the start of week as route to E. Africa closed at WS211. In the USG, rates lose traction with not much activity to boot, as USG/UKC fell to WS85.
 
 ## Baltic Exchange Tanker Indices
 
@@ -250,17 +246,17 @@ India's ship recycling market remains subdued with multiple challenges faced by 
 
 Anchorage & Beaching Position (MARCH 2025)
 
-| VESSEL NAME | TYPE |  | LDT | ARRIVAL | BEACHING |
-|---|---|---|---|---|---|
-| AK HAMBURG | GENERAL CARGO |  | 2,616 | 28.02.2025 | AWAITING |
-| ATHINA I | TANKER |  | 14,883 | 28.02.2025 | AWAITING |
-| IRIS OF SEA | RORO |  | 2,783 | 26.02.2025 | AWAITING |
-| TALENT BLUE | BULKER |  | 3,589 | 21.02.2025 | 01.03.2025 |
-|  |  | Chattogram |  |  |  |
-| Bangladesh's ship recycling inflation, which remained 9.32% February from slow activities in the ship pattern typical of the Despite these challenges, number of vessels currently recent easing of inflation trend remains uncertain, coming months. Anchorage | sector continues above 9% for the January's 9.94%. The recycling industry market. recyclers remain available for reflects improved potentially affecting & Beaching | to 24th arrival for recycling. | operate consecutive of Ramadan the first half actively engaged Economists commodity the recycling Position (MARCH | against a backdrop month despite is expected to of the holy month, in pursuing the suggest that supplies, the sustainability market's stability 2025) | of persistent easing to temporarily a seasonal limited while the of this in the |
-| VESSEL NAME | TYPE |  | LDT | ARRIVAL | BEACHING |
-| GENERALIS | GENERAL CARGO |  | 3,311 | 14.02.2025 | AWAITING |
-| THREE STAR | BULKER |  | 7,627 | 23.01.2025 | AWAITING |
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| AK HAMBURG | GENERAL CARGO | 2,616 | 28.02.2025 | AWAITING |
+| ATHINA I | TANKER | 14,883 | 28.02.2025 | AWAITING |
+| IRIS OF SEA | RORO | 2,783 | 26.02.2025 | AWAITING |
+| TALENT BLUE | BULKER | 3,589 | 21.02.2025 | 01.03.2025 |
+|  |  |  |  |  |
+| Bangladesh's ship recycling inflation, which remained 9.32% February from slow activities in the ship pattern typical of the Despite these challenges, number of vessels currently recent easing of inflation trend remains uncertain, coming months. Anchorage | sector continues above 9% for the January's 9.94%. The recycling industry market. recyclers remain available for reflects improved potentially affecting & Beaching | operate consecutive of Ramadan the first half actively engaged Economists commodity the recycling Position (MARCH | against a backdrop month despite is expected to of the holy month, in pursuing the suggest that supplies, the sustainability market's stability 2025) | of persistent easing to temporarily a seasonal limited while the of this in the |
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| GENERALIS | GENERAL CARGO | 3,311 | 14.02.2025 | AWAITING |
+| THREE STAR | BULKER | 7,627 | 23.01.2025 | AWAITING |
 
 Gadani
 
@@ -309,9 +305,7 @@ The imported scrap market across Indian Sub-continent remained largely muted thi
 
 cautious stance, deterred by a widening bid-offer gap and adequate domestic scrap availability. UK and European-origin shredded scrap was offered at US$375-380/ton CFR Nhava Sheva, while buyers maintained bids lower at US$365-370/ton. Offers for HMS (80:20) hovered at US$350-355/ton CFR, but the absence of firm offers from the USdriven by high freight rates and uncompetitive pricing-further contributed to the subdued sentiment. In Pakistan, the imported scrap market remained sluggish, exacerbated by weak liquidity and lackluster steel demand amid Ramadan. Mills resisted higher offers, with UK and European-origin shredded scrap priced at US$380-385/ton CFR Qasim, while buyers targeted US$375-378/ton. UAE-origin shredded was offered at US$385-390/ton CFR, with limited room for negotiation. Meanwhile, HMS prices lingered around US$358/ton CFR as domestic scrap prices continued to weaken. With rebar sales slow and production levels reduced, market activity is expected to remain subdued until after Ramadan.
 
-**Bangladesh's imported scrap market faced a downturn this week, hindered by slow LC**
-
-openings and weak construction activity. Australian-origin shredded scrap was offered at US$380-385/ton CFR, while HMS (80:20) was priced at US$360-365/ton CFR. Hong Kong-origin PNS material was heard at $375-380 per tonne CFR. Limited deep-sea bulk inquiries underscored the cautious sentiment. Malaysian busheling was offered at US$385-390/ton CFR, but a wide price gap between bids and offers impeded deals. Despite minor improvements in LC conditions, traders anticipate a market recovery only after Ramadan.
+Bangladesh's imported scrap market faced a downturn this week, hindered by slow LC openings and weak construction activity. Australian-origin shredded scrap was offered at US$380-385/ton CFR, while HMS (80:20) was priced at US$360-365/ton CFR. Hong Kong-origin PNS material was heard at $375-380 per tonne CFR. Limited deep-sea bulk inquiries underscored the cautious sentiment. Malaysian busheling was offered at US$385-390/ton CFR, but a wide price gap between bids and offers impeded deals. Despite minor improvements in LC conditions, traders anticipate a market recovery only after Ramadan.
 
 ### Shipbroking (www.star-asia.com.sg)
 
@@ -323,13 +317,9 @@ In sharp contrast to Sub-continent markets, Turkey's imported scrap market saw a
 
 ## Commodities (Weekinfocus)
 
-**Iron ore futures continued their decline on Monday, marking a sixth consecutive session**
+Iron ore futures continued their decline on Monday, marking a sixth consecutive session of losses amid escalating trade tensions between the US and China. The benchmark contracts fell significantly, with China's Dalian Exchange seeing the May contract drop 2.81% to 779.5 yuan per ton-its lowest since mid-January-while Singapore's April contract slipped 2.53% to US$99.85. These declines came despite encouraging Chinese manufacturing data showing February factory activity expanding at its fastest pace in three months, as markets remained focused on US President Trump's announcement of additional 10% tariffs on Chinese imports and 25% tariffs on all steel and aluminum imports starting March 4. Adding further pressure were renewed discussions about potential Chinese plans to reduce crude steel output by 50 million tons in 2025.
 
-of losses amid escalating trade tensions between the US and China. The benchmark contracts fell significantly, with China's Dalian Exchange seeing the May contract drop 2.81% to 779.5 yuan per ton-its lowest since mid-January-while Singapore's April contract slipped 2.53% to US$99.85. These declines came despite encouraging Chinese manufacturing data showing February factory activity expanding at its fastest pace in three months, as markets remained focused on US President Trump's announcement of additional 10% tariffs on Chinese imports and 25% tariffs on all steel and aluminum imports starting March 4. Adding further pressure were renewed discussions about potential Chinese plans to reduce crude steel output by 50 million tons in 2025.
-
-**Copper led the base metals sector higher this week as expectations of further stimulus**
-
-measures in China lifted market sentiment. Chinese leaders continued their top
+Copper led the base metals sector higher this week as expectations of further stimulus measures in China lifted market sentiment. Chinese leaders continued their top
 
 ### Shipbroking (www.star-asia.com.sg)
 

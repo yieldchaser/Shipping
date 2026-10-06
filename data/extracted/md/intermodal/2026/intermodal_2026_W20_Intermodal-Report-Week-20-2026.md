@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 **By Nikos Tagoulis, Senior Analyst**
 
@@ -22,7 +20,6 @@ Ultimately, the current market landscape is exposing a reality that is difficult
 # Tanker Market
 
 ## Spot Rates
-
 | Sector | Size | Routes | 15/05/2026 WS points | 15/05/2026 $/day | 08/05/2026 WS points | 08/05/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 419 | 428,411 | 434 | 447,028 | -4.2% | 60,510 | 37,255 |
@@ -40,8 +37,8 @@ Ultimately, the current market landscape is exposing a reality that is difficult
 | Dirty | 55K | UKC-USG | 220 | 32,721 | 220 | 32,803 | -0.2% | 10,784 | 17,707 |
 |  | 55K | MED-USG | 220 | 30,402 | 220 | 30,028 | **1.2%** | 11,306 | 17,590 |
 |  | 50k | ARA-UKC | 267 | 61,034 | 337 | 86,862 | -29.7% | 18,615 | 26,872 |
-## TC Rates
 
+## TC Rates
 | Sector | Tenor | 15/05/2026 | 08/05/2026 | ±% | Diff | 2025 | 2024 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 120,000 | 120,000 | 0.0% | 0 | 50,615 | 50,365 |
@@ -58,7 +55,6 @@ Ultimately, the current market landscape is exposing a reality that is difficult
 |  | 36k 3yr TC | 17,500 | 17,500 | 0.0% | 0 | 16,902 | 19,993 |
 
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 15/May/25 | 100 | 150 | 150 |
@@ -76,7 +72,6 @@ Ultimately, the current market landscape is exposing a reality that is difficult
 | 15/May/26 | 400 | 200 | 300 |
 
 ### Clean WS Rates (1-Year Trend)
-
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 15/May/25 | 150 | 150 | 150 | 150 |
@@ -94,7 +89,6 @@ Ultimately, the current market landscape is exposing a reality that is difficult
 | 15/May/26 | 500 | 200 | 300 | 300 |
 
 ## Indicative Market Values ($ Million) - Tankers
-
 | Sector | Size | May-26 avg | Apr-26 avg | ±% | 2025 | 2024 | 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300KT DH | 140.0 | 140.0 | 0.0% | 115.5 | 113.0 | 99.5 |
@@ -129,8 +123,8 @@ Aframaxes also came under pressure. In the Mediterranean, excess tonnage allowed
 ### Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 7 to 9 mos | W-Sapphire | 2012 | 81,681 dwt | $20,000/day | Aquavita |
-| 6 to 9 mos | Sunrise I | 2010 | 80,370 dwt | $20,000/day | Oldendorff |
+| 7 to 9 mos | W-Sapphire | 2012 | 81,681 dwt |  |  |
+| 6 to 9 mos | Sunrise I | 2010 | 80,370 dwt |  |  |
 
 ### TC Rates
 | Sector | Tenor | 15/05/2026 | 08/05/2026 | ±% | Diff | 2025 | 2024 |
@@ -145,7 +139,6 @@ Aframaxes also came under pressure. In the Mediterranean, excess tonnage allowed
 |  | **32K 3yr TC** | 11,000 | 11,000 | 0.0% | 0 | 10,394 | 9,740 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 15/May/25 | 1800 | 1500 | 1200 | 800 | 1600 |
@@ -163,7 +156,6 @@ Aframaxes also came under pressure. In the Mediterranean, excess tonnage allowed
 | 15/May/26 | 5000 | 2500 | 2500 | 1000 | 5000 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 15/May/25 | 15000 | 12000 | 10000 | 8000 |
@@ -240,7 +232,6 @@ In the tanker segment, Ibaizabal Tankers placed an order for two 158k dwt crude 
 
 On the containership side, Shanghai ChangShun contracted Yangzhou Guoyu Shipbuilding for a series of 6+4 units of 6.15k teu vessels, scheduled for delivery in 2027–2028, at around \$70m. In addition, Erasmus Shipinvest placed an order for a 4+2 **Indicative Newbuilding Prices (\$ Million)**
 ## Indicative Newbuilding Prices ($ Million)
-
 | Sector | Vessel Class | Size | 15-May-26 | 8-May-26 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2025 | 2024 | 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** | Newcastlemax | 205k | 78.5 | 78.5 | 0.0% | 78.5 | 78.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |
@@ -311,8 +302,8 @@ The Turkish market continues to be constrained by the ongoing currency depreciat
 | USD/INR | 95.97 | 94.44 | 1.62% | 95.97 |
 | USD/PKR | 278.59 | 278.63 | -0.01% | 280.05 |
 | USD/TRY | 45.50 | 45.35 | 0.32% | 45.50 |
-## Demolition Sales
 
+## Demolition Sales
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | MAYMEI | 44,936 | 9,728 | 1997 | HALLA, S. Korea | TANKER | $510/Ldt | Bangladeshi |

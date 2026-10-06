@@ -109,13 +109,9 @@ Sustained South Asian fixture activity kept vessels engaged regionally rather th
 
 Clean:
 
-**LR: The LR2 market continued with losses this week as fixtures were cancelled once the**
+**LR:** The LR2 market continued with losses this week as fixtures were cancelled once the geopolitical situation calmed temporarily. Charterers capitalised on the market dynamics to pressure rates downward withTC1 MEG/Japan closing lower at WS120.
 
-geopolitical situation calmed temporarily. Charterers capitalised on the market dynamics to pressure rates downward withTC1 MEG/Japan closing lower at WS120.
-
-**MR: The MR market in the Far East proved resilient, closing the week flat as steady**
-
-underlying demand helped maintain stability. In the MEG, rates fell some 30 points lower with TC17 trip to E. Africa closing at WS190.
+**MR:** The MR market in the Far East proved resilient, closing the week flat as steady underlying demand helped maintain stability. In the MEG, rates fell some 30 points lower with TC17 trip to E. Africa closing at WS190.
 
 # Tankers Values
 
@@ -155,22 +151,22 @@ President Trump's announcement of a new trade deal with Vietnam featuring 20% ta
 
 # Containers Values
 
-| CONTAINERS | GEARED / | NB |  | NB | PROMPT |  |  | 15 |
-|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  |  | 5 YEARS | 10 YEARS |  |
-| (BY TEU) | GEARLESS | CONTRACT |  |  | DELIVERY |  |  | YEARS |
-| 900 ~ 1,200 | Geared | 24 |  |  | 26 | 20 | 16 | 10 |
-| 1,600 ~ 1,850 | Gearless | 31 |  |  | 35 | 29 (E) | 23 (E) | 18 |
-| 2,700 ~ 2,900 | Gearless | 44 |  |  | 46 | 39 | 35 | 26 |
-| 5,100 ~ 5,300 | Gearless | 59 |  |  | 82 | 66 | - | 41 |
-| *(amount in USD million) | \| = Eco units |  |  |  |  |  |  |  |
-|  |  | S&P |  | Containers |  | Report |  |  |
-|  |  |  |  |  |  | PRICE | COMMENTS | / |
-| VESSEL NAME | TYPE | TEU | YEAR |  | BUILT |  |  |  |
-|  |  |  |  |  |  | (MILLION) | USD BUYERS |  |
-| VEGA COLIGNY | FEEDER | 1,868 | 2023 |  | CHINA | 31.0 | FOLK | MARITIME |
-| XH DOLPHIN | FEEDER | 1,740 | 2013 |  | CHINA | 23.2 | UNDISCLOSED |  |
-| HANSA HORNEBURG | FEEDER | 1,732 | 2007 |  | CHINA | 19.5 | GLOBAL SHIPPING | FEEDER |
+| CONTAINERS | GEARED / | NB | NB | PROMPT | 15 |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+| (BY TEU) | GEARLESS | CONTRACT |  | DELIVERY | YEARS |
+| 900 ~ 1,200 | Geared | 24 |  | 26 | 10 |
+| 1,600 ~ 1,850 | Gearless | 31 |  | 35 | 18 |
+| 2,700 ~ 2,900 | Gearless | 44 |  | 46 | 26 |
+| 5,100 ~ 5,300 | Gearless | 59 |  | 82 | 41 |
+| *(amount in USD million) | \ | = Eco units |  |  |  |
+|  |  | S&P | Containers |  |  |
+|  |  |  |  |  | / |
+| VESSEL NAME | TYPE | TEU |  | BUILT |  |
+|  |  |  |  |  |  |
+| VEGA COLIGNY | FEEDER | 1,868 |  | CHINA | MARITIME |
+| XH DOLPHIN | FEEDER | 1,740 |  | CHINA |  |
+| HANSA HORNEBURG | FEEDER | 1,732 |  | CHINA | FEEDER |
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -253,16 +249,16 @@ domestic ship scrap prices have shown a slight uptick, offering a sense of stabi
 
 Anchorage & Beaching Position (JULY 2025)
 
-| VESSEL NAME |  | TYPE | LDT | ARRIVAL | BEACHING |
-|---|---|---|---|---|---|
-| RUN FU 2 |  | BULKER | 6,183 | `04.07.2025 | AWAITING |
-| CONICO ATLAS |  | TANKER | 20,001 | 13.06.2025 | AWAITING |
-| NIRVANA |  | TANKER | 9,623 | 07.05.2025 | AWAITING |
-| Markets remained navigate the evolving Kong Convention (HKC). under the new Monsoon factor further activity, reducing and semi-finished recycling sector, | subdued The framework demand steel keeping | this week, with regulatory landscape need to secure has added to the weighed on sentiment, for steel. Meanwhile, products continues momentum muted Anchorage & Beaching | Chattogram ship recyclers following the clearances uncertainty, as heavy the availability to suppress across the Position | and sellers continuing uniform adoption from multiple slowing activities. rains curtailed of cheaply buying interest in board. (JULY 2025) | to of the Hong departments construction imported scrap the ship |
-| VESSEL NAME |  | TYPE | LDT | ARRIVAL | BEACHING |
-| ANG MIN |  | BULKER | 11,243 | 23.06.2025 | 02.07.2025 |
-| NASO |  | BULKER | 23,292 | 27.06.2025 | 01.07.2025 |
-| ABRAHIM M |  | BULKER | 8,997 | 26.06.2025 | 01.07.2025 |
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| RUN FU 2 | BULKER | 6,183 | `04.07.2025 | AWAITING |
+| CONICO ATLAS | TANKER | 20,001 | 13.06.2025 | AWAITING |
+| NIRVANA | TANKER | 9,623 | 07.05.2025 | AWAITING |
+| Markets remained navigate the evolving Kong Convention (HKC). under the new Monsoon factor further activity, reducing and semi-finished recycling sector, | this week, with regulatory landscape need to secure has added to the weighed on sentiment, for steel. Meanwhile, products continues momentum muted Anchorage & Beaching | Chattogram ship recyclers following the clearances uncertainty, as heavy the availability to suppress across the Position | and sellers continuing uniform adoption from multiple slowing activities. rains curtailed of cheaply buying interest in board. (JULY 2025) | to of the Hong departments construction imported scrap the ship |
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| ANG MIN | BULKER | 11,243 | 23.06.2025 | 02.07.2025 |
+| NASO | BULKER | 23,292 | 27.06.2025 | 01.07.2025 |
+| ABRAHIM M | BULKER | 8,997 | 26.06.2025 | 01.07.2025 |
 
 Gadani
 
@@ -321,9 +317,7 @@ Imported scrap markets across the Sub-Continent and Turkey remained quiet this w
 
 disruptions, with mill utilisation at just 35-40%. Shredded scrap from the UK and EU was offered at US$372-375/ton CFR Port Qasim, but few deals materialized amid ongoing fiscal uncertainty and soft construction demand.
 
-**Bangladesh, mills stayed away from fresh bookings as monsoons and poor construction**
-
-activity continued. Australian shredded was offered at US$370-375/ton CFR, while HMS 80:20 hovered around US$350-355/ton CFR.
+Bangladesh, mills stayed away from fresh bookings as monsoons and poor construction activity continued. Australian shredded was offered at US$370-375/ton CFR, while HMS 80:20 hovered around US$350-355/ton CFR.
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -335,13 +329,9 @@ Meanwhile, Turkey's market held flat, with bulk HMS 80:20 scrap steady at US$345
 
 # Commodities (Weekinfocus)
 
-**Iron ore prices continued to edge higher this week, buoyed by a modest rebound in**
+Iron ore prices continued to edge higher this week, buoyed by a modest rebound in apparent steel consumption and firmer market sentiment. On the spot market, 170,000 tons of PB Fines traded at US$93.10/t, and an equivalent volume of BRBF Fines cleared at US$97/ton. Futures also posted gains, with the Dalian September contract up CNY 12.5/ton and Singapore's August 62% Fe futures at US$96.44/ton. Steel mills have maintained elevated production, supporting short-term ore demand despite the traditional off-season.
 
-apparent steel consumption and firmer market sentiment. On the spot market, 170,000 tons of PB Fines traded at US$93.10/t, and an equivalent volume of BRBF Fines cleared at US$97/ton. Futures also posted gains, with the Dalian September contract up CNY 12.5/ton and Singapore's August 62% Fe futures at US$96.44/ton. Steel mills have maintained elevated production, supporting short-term ore demand despite the traditional off-season.
-
-**Copper's recent surge paused this week amid signs of softening demand. Prices had**
-
-climbed over 16% to surpass USD10,000 per ton following the U.S. announcement of reciprocal tariffs, but elevated price levels are beginning to weigh on downstream appetite, particularly in China. Operating rates at primary copper rod producers in China fell 1.8% week-on-week to 74%, reflecting diminished buying interest from fabricators. Meanwhile, the London Metal Exchange (LME) reported a 4% rise in copper inventories, the first notable increase in weeks, reversing this year's previous drawdowns. The stock build is likely tied to Chinese
+Copper's recent surge paused this week amid signs of softening demand. Prices had climbed over 16% to surpass USD10,000 per ton following the U.S. announcement of reciprocal tariffs, but elevated price levels are beginning to weigh on downstream appetite, particularly in China. Operating rates at primary copper rod producers in China fell 1.8% week-on-week to 74%, reflecting diminished buying interest from fabricators. Meanwhile, the London Metal Exchange (LME) reported a 4% rise in copper inventories, the first notable increase in weeks, reversing this year's previous drawdowns. The stock build is likely tied to Chinese
 
 ## Shipbroking (www.star-asia.com.sg)
 

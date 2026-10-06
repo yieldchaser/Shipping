@@ -70,30 +70,30 @@ of vessels, but overall, there was a lack of activity in the region. Inter-Pacif
 
 # Dry Bulk - S&P Report
 
-| VESSEL NAME |  | TYPE | DWT | YEAR | BUILT | PRICE | COMMENTS | / BUYERS |
-|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  |  | (MILLION) | USD |  |
-| WISDOM OF THE SEA WISDOM OF THE SEA | 1 / 2 | CAPE | 180,184 | 2011 | S. KOREA | 23.7 EACH |  | UNDISCLOSED |
-| STONY STREAM |  | UMAX | 64,000 | 2015 | CHINA | 24.5 |  | GENCO |
-| DELSA |  | UMAX | 63,166 | 2015 | CHINA | 24.5 | TURKISH | BUYERS |
-| PAN BEGONIA |  | SUPRAMAX | 57,307 | 2009 | S. KOREA | 12.5 |  | UNDISCLOSED |
-| DE XING HAI |  | HMAX | 43,665 | 1990 | JAPAN | 2.9 | CHINESE | BUYERS |
-| INTERLINK | SAGACITY | HANDY | 38,743 | 2015 | CHINA | 19.5 |  | UNDISCLOSED |
-| MYKONOS |  | HANDY | 34,340 Dry | 2009 Bulk (Weekly) | S. KOREA Values | 12.25 |  | UNDISCLOSED |
-| TYPE |  | DWT | NB CONTRACT | NB | PROMPT DELIVERY | 5 YEARS 10 | YEARS | 20 YEARS |
-| CAPE |  | 180,000 | 610 |  | 52 | 35 | 28 | 13 |
-| KAMSARMAX |  | 82,000 | 34 |  | 37 | 30 | 22 | 10 |
-| SUPRAMAX |  | 56,000 | 31 |  | 35 | 27 | 18 | 7 |
-| HANDY |  | 38,000 | 28 |  | 27 | 23 | 16 | 5 |
-| *(AmountinUSD | million) |  |  |  |  |  |  |  |
-|  |  | Baltic | Exchange |  | Dry Bulk | Indices |  |  |
-|  |  |  | BALTIC | EXCHANGE | DRY BULK | INDICES |  |  |
-|  | CURRENT | LAST | WEEK | LAST | YEAR | W-O-W CHANGE | % Y-O-Y | CHANGE % |
-| BDI | 1,650 |  | 1,560 |  | 2,217 | +5.77 |  | -25.58 |
-| BCI | 2,261 |  | 2,208 |  | 2,312 | +2.40 |  | -2.21 |
-| BPI | 1,563 |  | 1,652 |  | 2,573 | -5.39 |  | -39.25 |
-| BSI | 1,083 |  | 1,157 |  | 2,290 | -6.40 |  | -52.71 |
-| BHSI | 671 |  | 705 |  | 1,466 | -4.82 |  | -54.23 |
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE | COMMENTS | / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  | (MILLION) | USD |  |
+| WISDOM OF THE SEA WISDOM OF THE SEA | CAPE | 180,184 | 2011 | S. KOREA | 23.7 EACH |  | UNDISCLOSED |
+| STONY STREAM | UMAX | 64,000 | 2015 | CHINA | 24.5 |  | GENCO |
+| DELSA | UMAX | 63,166 | 2015 | CHINA | 24.5 | TURKISH | BUYERS |
+| PAN BEGONIA | SUPRAMAX | 57,307 | 2009 | S. KOREA | 12.5 |  | UNDISCLOSED |
+| DE XING HAI | HMAX | 43,665 | 1990 | JAPAN | 2.9 | CHINESE | BUYERS |
+| INTERLINK | HANDY | 38,743 | 2015 | CHINA | 19.5 |  | UNDISCLOSED |
+| MYKONOS | HANDY | 34,340 Dry | 2009 Bulk (Weekly) | S. KOREA Values | 12.25 |  | UNDISCLOSED |
+| TYPE | DWT | NB CONTRACT | NB | PROMPT DELIVERY | 5 YEARS 10 | YEARS | 20 YEARS |
+| CAPE | 180,000 | 610 |  | 52 | 35 | 28 | 13 |
+| KAMSARMAX | 82,000 | 34 |  | 37 | 30 | 22 | 10 |
+| SUPRAMAX | 56,000 | 31 |  | 35 | 27 | 18 | 7 |
+| HANDY | 38,000 | 28 |  | 27 | 23 | 16 | 5 |
+| *(AmountinUSD |  |  |  |  |  |  |  |
+|  | Baltic | Exchange |  | Dry Bulk | Indices |  |  |
+|  |  | BALTIC | EXCHANGE | DRY BULK | INDICES |  |  |
+|  | LAST | WEEK | LAST | YEAR | W-O-W CHANGE | % Y-O-Y | CHANGE % |
+| BDI |  | 1,560 |  | 2,217 | +5.77 |  | -25.58 |
+| BCI |  | 2,208 |  | 2,312 | +2.40 |  | -2.21 |
+| BPI |  | 1,652 |  | 2,573 | -5.39 |  | -39.25 |
+| BSI |  | 1,157 |  | 2,290 | -6.40 |  | -52.71 |
+| BHSI |  | 705 |  | 1,466 | -4.82 |  | -54.23 |
 
 [Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 

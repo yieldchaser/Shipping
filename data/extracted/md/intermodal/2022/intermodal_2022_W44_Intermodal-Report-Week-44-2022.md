@@ -53,7 +53,6 @@ Shanghai 200122 China
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 04/11/2022 WS points | 04/11/2022 $/day | 28/10/2022 WS points | 28/10/2022 $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 108.77 | 76,012 | 99.86 | 63,973 | 18.8% | 2,246 | 52,119 |
@@ -69,14 +68,14 @@ Shanghai 200122 China
 |  | 75k | MEG-JAPAN | 179.69 | 31,010 | 192.19 | 33,733 | -8.1% | 6,368 | 28,160 |
 | Clean | 55k | MEG-JAPAN | 215 | 29,808 | 210.36 | 27,697 | 7.6% | 6,539 | 19,809 |
 |  | 37K | UKC-USAC | 312.78 | 32,112 | 280 | 25,659 | 25.1% | 4,496 | 12,977 |
-## Indicative Period Charters
 
+## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 24 mos | EAGLE SAN FRANCISCO | 2018 | 157,512 dwt | $32,500/day | BP |
-| 12 mos | KING GREGORY | 2012 | 51,441 dwt | $30,000/day | ST Shipping |
-## TC Rates
+| 24 mos | EAGLE SAN FRANCISCO | 2018 | 157,512 dwt |  |  |
+| 12 mos | KING GREGORY | 2012 | 51,441 dwt |  |  |
 
+## TC Rates
 | Sector | Tenor | 04/11/2022 | 28/10/2022 | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 47,000 | 47,000 | 0.0% | 0 | 25,684 | 42,038 |
@@ -91,8 +90,8 @@ Shanghai 200122 China
 |  | 52k 3yr TC | 20,000 | 20,000 | 0.0% | 0 | 13,804 | 15,916 |
 | Handy | 36k 1yr TC | 23,500 | 23,500 | 0.0% | 0 | 11,292 | 13,966 |
 |  | 36k 3yr TC | 16,000 | 16,000 | 0.0% | 0 | 13,054 | 14,051 |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Nov-22 avg | Oct-22 avg | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | **300KT DH** | 88.0 | 87.3 | 0.9% | 69.7 | 71.5 | 72.1 |
@@ -100,8 +99,8 @@ Shanghai 200122 China
 | **Aframax** | **110KT DH** | 56.0 | 56.0 | 0.0% | 38.7 | 38.8 | 38.3 |
 | **LR1** | **75KT DH** | 43.0 | 43.0 | 0.0% | 31.2 | 30.7 | 31.3 |
 | **MR** | **52KT DH** | 39.0 | 39.1 | -0.3% | 27.6 | 27.5 | 28.6 |
-### Dirty WS Rates (1-Year Trend)
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 4/Nov/21 | 40 | 120 | 120 |
@@ -117,8 +116,8 @@ Shanghai 200122 China
 | 4/Sep/22 | 40 | 160 | 320 |
 | 4/Oct/22 | 40 | 160 | 360 |
 | 4/Nov/22 | 40 | 180 | 400 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | Date | WS points | WS points | WS points | WS points |
@@ -166,13 +165,12 @@ In the MR2 sector we had the sale of the "ERAWAN 10" (44,998dwt-blt '03, Japan),
 | BHSI | 836 | $15,043 | 897 | $16,142 | -61 | -6.8% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 12 mos | BARBARIAN HONOR | 2011 | 180,091 dwt | Far East Feb 23 | $16,000/day | Olam |
-| 12 mos | TAHO EUROPE | 2018 | 84,625 dwt | Kakogawa mid Nov | $16,000/day | Hanaro |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 12 mos | BARBARIAN HONOR | 2011 | 180,091 dwt |  |  |
+| 12 mos | TAHO EUROPE | 2018 | 84,625 dwt |  |  |
 
 ## TC Rates
-
 | Sector | Tenor | 04/11/2022 | 28/10/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 12,250 | 13,250 | -7.5% | -1,000 | 32,684 | 15,361 |
@@ -189,7 +187,6 @@ In the MR2 sector we had the sale of the "ERAWAN 10" (44,998dwt-blt '03, Japan),
 |  | **32K 3yr TC** | 10,250 | 10,500 | -2.4% | -250 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 4/Nov/21 | 3000 | 2800 | 2500 | 1800 | 3200 |
@@ -207,7 +204,6 @@ In the MR2 sector we had the sale of the "ERAWAN 10" (44,998dwt-blt '03, Japan),
 | 4/Nov/22 | 1700 | 1600 | 1600 | 1600 | 1800 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 4/Nov/21 | 25000 | 24000 | 23000 | 22000 |
@@ -279,7 +275,6 @@ In the Handysize sector we had the sale of the "BELLE OCEAN" (28,354dwt-blt '14,
 | HANDY | MOUNT BAKER | 32,039 | 2003 | HAKODATE, Japan | Mitsubishi | Oct-23 | 4 X 30t CRANES | undisclosed | undisclosed | BWTS fitted |
 
 ## Secondhand Sales
-
 | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | UNISEA | 9,862 | 2011 | QINGDAO HESHUN, China | MaK | Aug-26 | 2 X 60t CRANES | undisclosed | undisclosed | BWTS fitted, Ice 1A |
@@ -291,7 +286,6 @@ In the Handysize sector we had the sale of the "BELLE OCEAN" (28,354dwt-blt '14,
 
 # Intermodal Secondhand Sales
 ## Tankers
-
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LR1 | LIBERTY | 74,862 | 2009 | STX, S. Korea | MAN-B&amp;W | Jul-24 | DH | $ 24.5m | Middle Eastern | BWTS fitted |
@@ -299,8 +293,8 @@ In the Handysize sector we had the sale of the "BELLE OCEAN" (28,354dwt-blt '14,
 | LR1 | NORDIC TRISTAN | 73,604 | 2007 | NEW TIMES, China | MAN-B&amp;W | Apr-27 | DH | rgn $ 21.0m | undisclosed | BWTS fitted, coated |
 | MR2 | ERAWAN 10 | 44,998 | 2003 | IWAGI ZOSEN, Japan | MAN-B&amp;W | Jul-23 | DH | $ 12.0m | Far Eastern | coated, pumproom |
 | SMALL | CHEM LUCK | 11,564 | 1997 | FUKUOKA, Japan | B&amp;W | Dec-22 | DH | $ 3.3m | Chinese | StSt, via online auction |
-## Secondhand Sales
 
+## Secondhand Sales
 | Gas/LPG/LNG Type | Gas/LPG/LNG Name | Gas/LPG/LNG Dwt | Gas/LPG/LNG Built | Gas/LPG/LNG Yard | Gas/LPG/LNG M/E | Gas/LPG/LNG SS due | Gas/LPG/LNG Cbm | Gas/LPG/LNG Price | Gas/LPG/LNG Buyers | Gas/LPG/LNG Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LNG | KOOL ORCA | 92,969 | 2021 | HYUNDAI, S. Korea | WinGD | Jan-26 | 170,551 |  |  | eco |
@@ -315,7 +309,6 @@ In the Handysize sector we had the sale of the "BELLE OCEAN" (28,354dwt-blt '14,
 
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
-
 | Sector | Size | 04/11/2022 | 28/10/2022 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -384,7 +377,6 @@ In the newbuilding sector, we have noticed another week of healthy contracting a
 
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | Markets | 04/11/2022 | 28/10/2022 | ±% | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
@@ -435,8 +427,8 @@ The unfavorable market conditions that continue to prevail in the demolition mar
 | 4/Sep/22 | 610 | 560 | 560 | 255 |
 | 4/Oct/22 | 615 | 560 | 560 | 255 |
 | 4/Nov/22 | 560 | 555 | 555 | 255 |
-## Indicative Demolition Prices ($/ldt)
 
+## Indicative Demolition Prices ($/ldt)
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/Ldt | Demolition Sales Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | AN PING 8 | 69,057 | 9,793 | 1995 | IMABARI, Japan | BC | $ 619/Ldt | Bangladeshi |

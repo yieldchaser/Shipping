@@ -276,13 +276,9 @@ However, with y-o-y, levels are almost 4 times higher compared to the end of 202
 
 CHATTOGRAM, BANGLADESH 580 ~ 600 560 ~ 580 540 ~ 560 600 ~ 620 STABLE /
 
-| GADDANI, PAKISTAN TURKEY *For Non-EU ships. For E.U. Ship, the prices are about USUS$30-40/ton less | 580 ~ 300 ~ | 590 570 ~ 580 310 290 ~ 300 | 530 ~ 540 280 ~ 290 | 600 ~ 610 300 ~ 310 | WEAK / STABLE / |  |
-|---|---|---|---|---|---|---|
-| - All prices are - The prices - Prices quoted above-quoted | USD per light reported are net are basis simple prices based | displacement tonnage prices offered by the Japanese / Korean on quality & quality | in the long ton. recycling yards. built tonnages of Spares, Non-Fe., | trading units. Premiums bunkers, cargo history, | are paid on top of and maintenance. | the |
-
-| 5-Year | Recycling | Average (Week 29) |  |  |  |
+| GADDANI, PAKISTAN TURKEY *For Non-EU ships. For E.U. Ship, the prices are about USUS$30-40/ton less | 580 ~ 300 ~ | 590 570 ~ 580 310 290 ~ 300 | 530 ~ 540 280 ~ 290 | 600 ~ 610 300 ~ 310 | WEAK / STABLE / |
 | --- | --- | --- | --- | --- | --- |
-| DESTINATION | 2017 | 2018 | 2019 | 2020 | 2021 |
+| - All prices are - The prices - Prices quoted above-quoted | USD per light reported are net are basis simple prices based | displacement tonnage prices offered by the Japanese / Korean on quality & quality | in the long ton. recycling yards. built tonnages of Spares, Non-Fe., | trading units. Premiums bunkers, cargo history, | are paid on top of and maintenance. |
 
 | ALANG, INDIA | 340 | 435 | 400 | 315 | 550 |
 |---|---|---|---|---|---|

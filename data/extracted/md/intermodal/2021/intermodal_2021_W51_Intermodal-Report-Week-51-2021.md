@@ -53,7 +53,6 @@ Shanghai 200122 China
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | Current WS points | Current $/day | Previous WS points | Previous $/day | $/day ±% | 2020 $/day | 2019 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 42 | 3,608 | 42 | 4,037 | -10.6% | 52,119 | 45,517 |
@@ -73,14 +72,14 @@ Shanghai 200122 China
 | Dirty | 55K | UKC-USG | 112 | 4,938 | 116 | 4,907 | 0.6% | 12,120 | 15,960 |
 |  | 55K | MED-USG | 112 | 5,007 | 116 | 4,974 | 0.7% | 12,965 | 15,327 |
 |  | 50k | CARIBS-USG | 172 | 15,249 | 179 | 17,321 | -12.0% | 17,651 | 18,781 |
-## Indicative Period Charters
 
+## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 24 mos | ECO MALIBU | 2021 | 157,632 dwt | 26,000/day | AZA Shipping |
-| 6 mos | ICE POINT | 2007 | 50,922 dwt | $14,750/day | Trafigura |
-### Dirty WS Rates (1-Year Trend)
+| 24 mos | ECO MALIBU | 2021 | 157,632 dwt |  |  |
+| 6 mos | ICE POINT | 2007 | 50,922 dwt |  |  |
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | Date | WS points | WS points | WS points |
@@ -97,8 +96,8 @@ Shanghai 200122 China
 | 24/Oct/21 | 50 | 85 | 150 |
 | 24/Nov/21 | 50 | 80 | 120 |
 | 24/Dec/21 | 50 | 80 | 120 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | Date | WS points | WS points | WS points | WS points |
@@ -115,8 +114,8 @@ Shanghai 200122 China
 | 24/Oct/21 | 100 | 100 | 100 | 100 |
 | 24/Nov/21 | 100 | 100 | 100 | 300 |
 | 24/Dec/21 | 100 | 100 | 100 | 200 |
-## TC Rates
 
+## TC Rates
 | Sector | Tenor | Current | Previous | ±% | Diff | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | **300k 1yr TC** | 27,000 | 27,000 | 0.0% | 0 | 42,038 | 37,462 |
@@ -131,8 +130,8 @@ Shanghai 200122 China
 |  | **52k 3yr TC** | 13,750 | 13,750 | 0.0% | 0 | 15,916 | 16,181 |
 | Handy | **36k 1yr TC** | 11,000 | 11,000 | 0.0% | 0 | 13,966 | 13,856 |
 |  | **36k 3yr TC** | 12,250 | 12,250 | 0.0% | 0 | 14,051 | 13,753 |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Dec-21 avg | Nov-21 avg | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | **300KT DH** | 71.0 | 71.0 | 0.0% | 71.5 | 72.4 | 65.6 |
@@ -169,13 +168,12 @@ In the LR2 sector we had the sale of the "PROSTAR" (115,643dwt-blt '19, S. Korea
 | BHSI | 1,466 | $26,384 | 1,547 | $27,842 | -81 | -5.2% | 447 | 490 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 8 to 11 mos | XIN HAN | 2013 | 82,297 dwt | Phu My 15 Jan | $21,500/day | Louis Dreyfus |
-| 5 to 7 mos | TBN | 2013 | 82,096 dwt | Rizhao 24 Dec | $22,500/day | Bunge |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 8 to 11 mos | XIN HAN | 2013 | 82,297 dwt |  |  |
+| 5 to 7 mos | TBN | 2013 | 82,096 dwt |  |  |
 
 ## TC Rates
-
 | Sector | Tenor | 24/12/2021 | 17/12/2021 | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capesize | 180K 6mnt TC | 23,750 | 24,250 | -2.1% | -500 | 15,561 | 18,839 |
@@ -192,7 +190,6 @@ In the LR2 sector we had the sale of the "PROSTAR" (115,643dwt-blt '19, S. Korea
 |  | 32K 3yr TC | 13,000 | 13,000 | 0.0% | 0 | 8,686 | 9,291 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 24/Dec/20 | 1,800 | 1,700 | 1,600 | 1,500 | 1,850 |
@@ -210,7 +207,6 @@ In the LR2 sector we had the sale of the "PROSTAR" (115,643dwt-blt '19, S. Korea
 | 24/Dec/21 | 2,650 | 2,950 | 2,750 | 1,700 | 2,750 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 24/Dec/20 | 18000 | 17000 | 16000 | 15000 |
@@ -294,7 +290,6 @@ In the Panamax sector we had the sale of the "SCORPIO" (74,930dwt-blt '12, Japan
 
 # Intermodal Newbuilding Market
 ## TC Rates
-
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Vessel | 24/12/2021 | 17/12/2021 | ±% | 2020 | 2019 | 2018 |
@@ -362,7 +357,6 @@ The newbuilding market activity was healthy during the past days. Interest for b
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | 24/12/2021 | 17/12/2021 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |
@@ -393,8 +387,8 @@ As we are reaching the end of 2021, the outlook in the demolition market remains
 | 24/Oct/21 | 600 | 580 | 590 | 330 |
 | 24/Nov/21 | 610 | 590 | 600 | 330 |
 | 24/Dec/21 | 600 | 550 | 580 | 330 |
-## Demolition Sales
 
+## Demolition Sales
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | NAVION STAVANGER | 148,729 | 24,874 | 2003 | SAMSUNG, S. Korea | TANKER | undisclosed | Indian | green recycling |

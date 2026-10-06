@@ -59,7 +59,6 @@ Shanghai 200122 China
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | Current WS points | Current $/day | Previous WS points | Previous $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 62 | 10,322 | 59 | 3,332 | **209.8%** | 2,246 | 52,119 |
@@ -75,14 +74,14 @@ Shanghai 200122 China
 |  | 75k | MEG-JAPAN | 233 | 39,376 | 204 | 28,036 | **40.4%** | 6,368 | 28,160 |
 | Clean | 55k | MEG-JAPAN | 286 | 39,777 | 294 | 39,969 | -0.5% | 6,539 | 19,809 |
 |  | 37K | UKC-USAC | 272 | 22,357 | 314 | 29,358 | -23.8% | 4,496 | 12,977 |
-## Indicative Period Charters
 
+## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 24 mos | ALMI HYDRA | 2013 | 319,357 dwt | $28,750/day | Sinokor |
-| 12 mos | SKS DEE | 2010 | 119,456 dwt | $31,750/day | Bahri |
-### Dirty WS Rates (1-Year Trend)
+| 24 mos | ALMI HYDRA | 2013 | 319,357 dwt |  |  |
+| 12 mos | SKS DEE | 2010 | 119,456 dwt |  |  |
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 22/Jul/21 | 30 | 80 | 90 |
@@ -98,8 +97,8 @@ Shanghai 200122 China
 | 22/May/22 | 70 | 260 | 250 |
 | 22/Jun/22 | 80 | 240 | 230 |
 | 22/Jul/22 | 90 | 220 | 280 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 22/Jul/21 | 100 | 110 | 120 | 130 |
@@ -118,8 +117,8 @@ Shanghai 200122 China
 
 | TC Rates $/day VLCCSuezmaxAframaxPanamaxMRHandy | TC Rates 22-Jul-22 300k 1yr TC 300k 3yr TC 150k 1yr TC 150k 3yr TC 110k 1yr TC 110k 3yr TC 75k 1yr TC 75k 3yr TC 52k 1yr TC 52k 3yr TC 36k 1yr TC 36k 3yr TC | TC Rates 15-Jul-22 28,000 34,000 26,000 23,500 22,750 22,250 23,500 21,000 21,000 16,000 21,750 17,000 | TC Rates ±% 28,000 33,500 23,500 21,500 22,750 22,250 23,500 21,000 21,000 15,000 21,750 16,000 | TC Rates Diff 0.0% 1.5% 10.6% 9.3% 0.0% 0.0% 0.0% 0.0% 0.0% 6.7% 0.0% 6.3% | TC Rates 2021 0 500 2500 2000 0 0 0 0 0 1000 0 1000 | TC Rates 2020 25,684 28,672 17,226 22,700 15,854 19,714 14,184 15,950 12,608 13,804 11,292 13,054 | 42,038 34,772 29,543 27,481 23,380 21,854 17,322 16,296 15,505 15,916 13,966 14,051 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Jul-22 avg | Jun-22 avg | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300KT DH | 80.8 | 76.8 | 5.2% | 69.7 | 71.5 | 72.1 |
@@ -159,9 +158,9 @@ In the Aframax sector we had the sale of the "NICHOLAS" (115,577dwt-blt '07, Jap
 | BHSI | 1,211 | $21,796 | 1,181 | $21,249 | **30** | **2.6%** | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 5-8 mos | TOMINI ROYALTY | 2016 | 81,093 dwt | CJK prompt | $19,750/day | Swissmarine |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 5-8 mos | TOMINI ROYALTY | 2016 | 81,093 dwt |  |  |
 
 ## Baltic Indices
 | Index Name | Current Index | Current $/day |
@@ -173,7 +172,6 @@ In the Aframax sector we had the sale of the "NICHOLAS" (115,577dwt-blt '07, Jap
 | BDI | 4000, 5000, 10000 |  |
 
 ## TC Rates
-
 | Sector | Tenor | 22/07/2022 | 15/07/2022 | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capesize | 180K 6mnt TC | 28,750 | 31,750 | -9.4% | -3,000 | 32,684 | 15,361 |
@@ -220,7 +218,6 @@ In the Handysize sector we had the sale of the "MARIA L" (28,404dwt-bl't '98, Ja
 
 # Intermodal Secondhand Sales
 ## Tankers
-
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | KIONI | 310,389 | 2004 | IMABARI, Japan | MAN-B\&amp;W | Oct-24 | DH | $ 29.5m | undisclosed |  |
@@ -246,7 +243,6 @@ In the Handysize sector we had the sale of the "MARIA L" (28,404dwt-bl't '98, Ja
 # Intermodal Secondhand Sales
 
 ## Bulk Carriers
-
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | BONANZA YR | 76,465 | 2006 | TSUNEISHI, Japan | MAN-B&amp;W | Aug-26 |  | mid $ 16.0m | undisclosed | BWTS fitted |
@@ -255,7 +251,6 @@ In the Handysize sector we had the sale of the "MARIA L" (28,404dwt-bl't '98, Ja
 | HANDY | A RACER | 26,467 | 1996 | GSI, China | B&amp;W | Jun-26 | 4 X 30t CRANES | high $ 6.0m | Middle Eastern | BWTS fitted |
 
 ## Containers
-
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | POST PMAX | JUDITH SCHULTE | 9,403 | 2013 | Shanghai Jiangnan Changxing, China | MAN-B&amp;W | Jul-23 |  | undisclosed | Swiss (MSC) | BWTS fitted, Scrubber ready |
@@ -278,7 +273,6 @@ In the Handysize sector we had the sale of the "MARIA L" (28,404dwt-bl't '98, Ja
 
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
-
 | Sector | Size | 22/07/2022 | 15/07/2022 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -337,10 +331,9 @@ Sentiment remained firm in the newbuilding contracting activity. Orders have sur
 | 22/Jul/22 | 62 | 36 | 36 | 30 |
 
 ## Indicative Period Charters
-
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 7yrs | conventionally fuelled, biofuel ready, EEDI phase 3, NOx-Tier III, against  T/C to NYK |  |  | $ 34.0m | 2 |
+| 7yrs | conventionally fuelled, biofuel ready, EEDI phase 3, NOx-Tier III, against  T/C to NYK |  |  |  |  |
 
 © Intermodal Research 26/07/2022 6
 
@@ -366,8 +359,8 @@ The sentiment was subdued across the Indian subcontinent demolition markets for 
 | 22/May/22 | 660 | 560 | 660 | 440 |
 | 22/Jun/22 | 560 | 560 | 560 | 300 |
 | 22/Jul/22 | 560 | 560 | 560 | 300 |
-## Demolition Sales
 
+## Demolition Sales
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | OKRA | 171,199 | 21,018 | 1999 | KOYO MIHARA, Japan | BC | $ 525/Ldt | undisclosed | as-is' Incheon, S.Korea incl. 590 MT robs |

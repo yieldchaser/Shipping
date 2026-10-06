@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 **By Nikos Tagoulis, Senior Analyst**
 
@@ -28,8 +26,8 @@ In summary, these developments may signal a shift in the global trade narrative 
 | 12 mos | Babylon | 2020 |
 | --- | --- | --- |
 |  | $54,500/day |  |
-### Dirty WS Rates (1-Year Trend)
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 9/May/24 | 50 | 100 | 150 |
@@ -45,8 +43,8 @@ In summary, these developments may signal a shift in the global trade narrative 
 | 9/Mar/25 | 65 | 115 | 220 |
 | 9/Apr/25 | 55 | 105 | 190 |
 | 9/May/25 | 50 | 100 | 160 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 9/May/24 | 250 | 200 | 300 | 280 |
@@ -62,8 +60,8 @@ In summary, these developments may signal a shift in the global trade narrative 
 | 9/Mar/25 | 170 | 150 | 240 | 220 |
 | 9/Apr/25 | 150 | 130 | 210 | 190 |
 | 9/May/25 | 140 | 120 | 200 | 180 |
-## Spot Rates
 
+## Spot Rates
 | Sector | Size | Routes | 09/05/2025 WS points | 09/05/2025 $/day | 02/05/2025 WS points | 02/05/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 60 | 42,739 | 68 | 53,752 | -20.5% | 37,255 | 39,466 |
@@ -131,7 +129,7 @@ Aframax trading in the Mediterranean also softened. Following a holiday lull, fr
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 4 to 6 mos | Climate Pledge | 2022 | 86,461 dwt | $15,850/day | cnr |
+| 4 to 6 mos | Climate Pledge | 2022 | 86,461 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | 09/05/2025 | 02/05/2025 | ±% | Diff | 2024 | 2023 |
@@ -146,7 +144,6 @@ Aframax trading in the Mediterranean also softened. Following a holiday lull, fr
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 9/May/24 | 28000 | 16000 | 12000 | 8000 |
@@ -186,7 +183,6 @@ Handysize trading was generally subdued. Europe and the Mediterranean lacked mom
 # Secondhand Sales
 
 ## Secondhand Sales
-
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUEZ | NORDIC CASTOR | 150,249 | 2004 | UNIVERSAL, Japan | Sulzer | Aug-29 | DH | region $ 23.0m | undisclosed | CAP 1 |
@@ -271,7 +267,6 @@ It was a relatively quiet week for Turkey's ship recycling market. Buyer interes
 | USD/TRY | 38.76 | 38.57 | 0.5% | 38.76 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CORSO MARINE | 6,847 | 3,161 | 2000 | SEVERNAYA, Russia | GENERAL CARGO | undisclosed | Indian | as is Alang |

@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 **By Nikos Tagoulis, Senior Analyst**
 
@@ -32,11 +30,11 @@ Given the importance of bauxite as a critical raw material for several industrie
 | 12 mos | VL Brilliant | 2014 |
 | --- | --- | --- |
 |  | $49,050/day |  |
-## Spot Rates
 
+## Spot Rates
 | Sector | Size | Routes | 23/05/2025 WS points | 23/05/2025 $/day | 16/05/2025 WS points | 16/05/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Vessel |  |  |  |  | Routes | WS points | $/day | WS points | $/day |
+| Vessel |  |  |  |  |  |  | Routes | WS points | $/day |
 | **VLCC** | 265k | MEG-SPORE | 62 | 45,103 | 65 | 47,765 | -5.6% | 37,255 | 39,466 |
 |  | 260k | WAF-CHINA | 60 | 42,358 | 64 | 45,563 | -7.0% | 37,722 | 38,773 |
 | **Suezmax** | 130k | MED-MED | 100 | 46,853 | 105 | 51,475 | -9.0% | 50,058 | 62,964 |
@@ -52,8 +50,8 @@ Given the importance of bauxite as a critical raw material for several industrie
 | **Dirty** | 55K | UKC-USG | 115 | 10,681 | 120 | 12,316 | -13.3% | 17,707 | 27,274 |
 |  | 55K | MED-USG | 115 | 11,167 | 120 | 12,667 | -11.8% | 17,590 | 27,060 |
 |  | 50k | ARA-UKC | 180 | 22,071 | 136 | 9,062 | **143.6%** | 26,872 | 46,194 |
-### Dirty WS Rates (1-Year Trend)
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 23/Mar/24 | 50 | 100 | 150 |
@@ -69,8 +67,8 @@ Given the importance of bauxite as a critical raw material for several industrie
 | 23/Mar/25 | 50 | 100 | 150 |
 | 23/Apr/25 | 50 | 100 | 150 |
 | 23/May/25 | 50 | 100 | 150 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 23/Mar/24 | 280 | 180 | 280 | 280 |
@@ -139,7 +137,6 @@ Conversely, Aframax rates saw a notable recovery. Strong early-week demand in bo
 | BHSI | 581 | $10,451 | 554 | $9,967 | 27 | 4.9% | 702 | 586 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 23/May/24 | 2500 | 1800 | 1200 | 800 | 1600 |
@@ -169,7 +166,6 @@ Conversely, Aframax rates saw a notable recovery. Strong early-week demand in bo
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 23/May/24 | 22000 | 14000 | 10000 | 6000 |
@@ -301,7 +297,6 @@ In Turkey, the market witnessed action from one notable deal: the recycling sale
 | USD/TRY | 38.91 | 38.85 | 0.1% | 38.91 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | HYUNDAI TECHNOPIA | 77,584 | 34,047 | 1999 | HYUNDAI, S. Korea | GAS TANKER | $567/Ldt | Indian | as is Batam |

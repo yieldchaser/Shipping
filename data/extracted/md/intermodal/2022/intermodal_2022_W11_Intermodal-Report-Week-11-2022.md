@@ -56,7 +56,6 @@ Shanghai 200122 China
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | Current WS points | Current $/day | Previous WS points | Previous $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 39 | -8,241 | 47 | -8,004 | -3.0% | 2,246 | 52,119 |
@@ -76,8 +75,8 @@ Shanghai 200122 China
 | Dirty | 55K | UKC-USG | 150 | 6,735 | 154 | 3,765 | **78.9%** | 2,822 | 12,120 |
 |  | 55K | MED-USG | 150 | 6,820 | 154 | 3,784 | **80.2%** | 4,818 | 12,965 |
 |  | 50k | CARIBS-USG | 205 | 16,681 | 205 | 12,832 | **30.0%** | 8,548 | 17,651 |
-## TC Rates
 
+## TC Rates
 | Sector | Tenor | Current | Previous | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 25,000 | 27,000 | -7.4% | -2000 | 25,684 | 42,038 |
@@ -92,14 +91,14 @@ Shanghai 200122 China
 |  | 52k 3yr TC | 14,000 | 14,000 | 0.0% | 0 | 13,804 | 15,916 |
 | Handy | 36k 1yr TC | 11,000 | 11,000 | 0.0% | 0 | 11,292 | 13,966 |
 |  | 36k 3yr TC | 12,250 | 12,250 | 0.0% | 0 | 13,054 | 14,051 |
-## Indicative Period Charters
 
+## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 24 mos | GEM NO. 3 | 2017 | 79,920 dwt | $17,000/day | Trafigura |
-| 6 mos | FOREVER MELODY | 2014 | 50,885 dwt | $13,900/day | Vitol |
-## Indicative Market Values ($ Million) - Tankers
+| 24 mos | GEM NO. 3 | 2017 | 79,920 dwt |  |  |
+| 6 mos | FOREVER MELODY | 2014 | 50,885 dwt |  |  |
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Mar-22 avg | Feb-22 avg | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | **300KT DH** | 71.3 | 70.3 | **1.5%** | 69.7 | 71.5 | 72.1 |
@@ -107,8 +106,8 @@ Shanghai 200122 China
 | **Aframax** | **110KT DH** | 44.0 | 44.0 | 0.0% | 38.7 | 38.8 | 38.3 |
 | **LR1** | **75KT DH** | 33.5 | 33.3 | **0.8%** | 31.2 | 30.7 | 31.3 |
 | **MR** | **52KT DH** | 29.0 | 30.0 | -3.3% | 27.6 | 27.5 | 28.6 |
-### Dirty WS Rates (1-Year Trend)
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 18/Mar/21 | 20 | 100 | 150 |
@@ -124,8 +123,8 @@ Shanghai 200122 China
 | 18/Jan/22 | 0 | 30 | 60 |
 | 18/Feb/22 | 0 | 250 | 150 |
 | 18/Mar/22 | 0 | 280 | 160 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 18/Mar/21 | 150 | 140 | 130 | 120 |
@@ -161,7 +160,6 @@ In the Suezmax sector we had sale (old deal) of the "NORDIC GRACE" (149,921dwt-b
 
 # Dry Bulk Market
 ## Baltic Indices
-
 | Index Name | 18/03/2022 Index | 18/03/2022 $/day | 11/03/2022 Index | 11/03/2022 $/day | Point Diff | $/day ±% | 2021 Index | 2020 Index |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | BDI | 2,605 |  | 2,718 |  | -113 |  | 2,921 | 1,066 |
@@ -169,14 +167,14 @@ In the Suezmax sector we had sale (old deal) of the "NORDIC GRACE" (149,921dwt-b
 | BPI | 2,874 | $25,868 | 3,187 | $28,685 | -313 | -9.8% | 2,972 | 1,103 |
 | BSI | 2,922 | $32,147 | 2,939 | $32,330 | -17 | -0.6% | 2,424 | 746 |
 | BHSI | 1,662 | $29,922 | 1,548 | $27,858 | 114 | 7.4% | 1,424 | 447 |
+
 ## Indicative Period Charters
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 7 to 9 mos | GUO YUAN | 2021 | 86,417 dwt |  |  |
+| 5 to 7 mos | ARNICA | 2010 | 56,106 dwt |  |  |
 
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 7 to 9 mos | GUO YUAN | 2021 | 86,417 dwt | Yantai 23 Mar | $33,000/day | Refined Success |
-| 5 to 7 mos | ARNICA | 2010 | 56,106 dwt | - | $35,000/day | Mombasa 14/15 Ma |
 ## TC Rates
-
 | Sector | Tenor | 18/03/2022 | 11/03/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 33,500 | 33,250 | **0.8%** | **250** | 32,684 | 15,361 |
@@ -191,8 +189,8 @@ In the Suezmax sector we had sale (old deal) of the "NORDIC GRACE" (149,921dwt-b
 | **Handysize** | **32K 6mnt TC** | 27,000 | 27,000 | 0.0% | 0 | 22,976 | 8,298 |
 |  | **32K 1yr TC** | 24,500 | 24,500 | 0.0% | 0 | 18,354 | 8,356 |
 |  | **32K 3yr TC** | 15,000 | 15,000 | 0.0% | 0 | 11,825 | 8,486 |
-### Baltic Indices (1-Year Trend)
 
+### Baltic Indices (1-Year Trend)
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 18/Mar/21 | 2,500 | 2,600 | 2,700 | 1,500 | 2,800 |
@@ -208,8 +206,8 @@ In the Suezmax sector we had sale (old deal) of the "NORDIC GRACE" (149,921dwt-b
 | 18/Jan/22 | 2,800 | 2,700 | 2,800 | 1,600 | 2,900 |
 | 18/Feb/22 | 2,900 | 2,800 | 2,900 | 1,650 | 3,000 |
 | 18/Mar/22 | 2,950 | 2,850 | 2,950 | 1,700 | 3,050 |
-### Average T/C Rates (1-Year Trend)
 
+### Average T/C Rates (1-Year Trend)
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 18/Mar/21 | 20,000 | 22,000 | 23,000 | 18,000 |
@@ -257,7 +255,6 @@ In the Supramax sector we had the sale of the "ATLANTIC TULUM" (58,802dwt-blt '0
 
 # Intermodal Secondhand Sales
 ## Bulk Carriers
-
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | NMAX | AZUL LIBERO | 203,278 | 2004 | UNIVERSAL, Japan | MAN-B\&amp;W | Sep-24 |  | rgn-high $ 18.0m | Chinese | BWTS fitted |
@@ -280,7 +277,6 @@ In the Supramax sector we had the sale of the "ATLANTIC TULUM" (58,802dwt-blt '0
 
 # Secondhand Sales
 ## Containers
-
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | TRF PESCARA | 3,534 | 2010 | SHANGHAI SHIPYARD, China | MAN-B&amp;W | Mar-25 |  | undisclosed | undisclosed | scrubber fitted |
@@ -292,7 +288,6 @@ In the Supramax sector we had the sale of the "ATLANTIC TULUM" (58,802dwt-blt '0
 
 # Intermodal Newbuilding Market
 ## TC Rates
-
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Vessel | 18/03/2022 | 11/03/2022 | ±% | 2021 | 2020 | 2019 |
@@ -356,7 +351,6 @@ Last week, the newbuilding contracting activity saw a huge volume of Container u
 
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | 18/03/2022 | 11/03/2022 | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |
@@ -403,8 +397,8 @@ The ongoing volatility on the commodities prices amidst the Russia-Ukraine war h
 | 18/Jan/22 | 600 | 560 | 580 | 300 |
 | 18/Feb/22 | 640 | 600 | 620 | 340 |
 | 18/Mar/22 | 660 | 640 | 650 | 430 |
-## Demolition Sales
 
+## Demolition Sales
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ALABAMA STAR | 72,514 | 13,638 | 2004 | SAMSUNG, S. Korea | TANKER | $ 725/Ldt | Bangladeshi | delivery Chittagong, incl 350 tons of bunkers |

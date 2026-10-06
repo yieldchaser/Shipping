@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 **By Nikos Tagoulis, Senior Analyst**
 
@@ -30,7 +28,6 @@ The renewed U.S.-China tariff confrontation underscores the broader trend toward
 
 ## Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 10/10/2025 WS points | 10/10/2025 $/day | 03/10/2025 WS points | 03/10/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 86 | 76,497 | 80 | 68,648 | **11.4%** | 37,255 | 39,466 |
@@ -56,7 +53,6 @@ The renewed U.S.-China tariff confrontation underscores the broader trend toward
 |  | $29,000/day |  |
 
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 10/Oct/24 | 60 | 100 | 180 |
@@ -74,7 +70,6 @@ The renewed U.S.-China tariff confrontation underscores the broader trend toward
 | 10/Oct/25 | 95 | 135 | 145 |
 
 ### Clean WS Rates (1-Year Trend)
-
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 10/Oct/24 | 90 | 85 | 100 | 110 |
@@ -156,7 +151,6 @@ In the Aframax sector, Mediterranean activity gradually strengthened as the week
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 10/Oct/24 | 2800 | 1300 | 1200 | 700 | 1800 |
@@ -174,7 +168,6 @@ In the Aframax sector, Mediterranean activity gradually strengthened as the week
 | 10/Oct/25 | 2900 | 1850 | 1750 | 1450 | 2000 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 10/Oct/24 | 22000 | 12000 | 14000 | 13000 |
@@ -216,7 +209,6 @@ The Ultramax/Supramax market softened as Asian holidays reduced fresh inquiries,
 # Secondhand Sales
 
 ## Secondhand Sales
-
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUEZ | ECO BEL AIR | 158,000 | 2019 | HYUNDAI, S. Korea | MAN-B\&amp;W | Apr-29 | DH | $ 75,0m each | Greek | Eco |
@@ -262,10 +254,9 @@ Finally, the LNG bunkering segment witnessed 2 orders. GSX Energy, ordered 2 fir
 |  | SGC LPG 25k cbm |  | 59.5 | 59.5 | 0.0% | 62.0 | 60.0 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
 
 ## Indicative Period Charters
-
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 2 years | Against TC for 8+ |  |  |  | 2+2 |
+| 2 years | Against TC for 8+ |  |  |  |  |
 
 ---
 

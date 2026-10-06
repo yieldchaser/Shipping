@@ -72,23 +72,23 @@ anticipated to tighten in the Atlantic. At the week's closing, levels slipped sl
 
 # Dry Bulk - S&P Report
 
-| VESSEL NAME | TYPE | DWT | YEAR | BUILT |  | PRICE | COMMENTS | / BUYERS |
-|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  | (MILLION) | USD |  |  |
-| CHINA STEEL ENTREPRENEUR / CHINA STEEL TEAM | VLOC | 203,512 | TAIWA N | 2007 |  | EN BLOC 35.5 |  | ALBERTA SHIPMANAGEMENT |
-| NAVIOS ALDEBARAN | PANAMAX | 76,529 | JAPAN | 2008 |  | 14.0 |  | UNDISCLOSED |
-| LT OCEAN STAR | PANAMAX | 75,395 | JAPAN | 2005 |  | 14.0 |  | UNDISCLOSED |
-| ZILOS | HANDYMAX | 46,541 | JAPAN | 2000 |  | N/A | TURKISH | BUYERS |
-| SEASTAR HARRIER | HANDY | 39,804 | JAPAN | 2022 |  | 30.0 |  | UNDISCLOSED |
-| INTERLINK ACTIVITY | HANDY | 38,710 | CHINA | 2015 |  | 21.0 | SCANDINAVIAN | BUYERS |
-| SUPER CAROLINE | HANDY | 33,427 | JAPAN | 2007 |  | 13.7 | TURKISH | BUYERS |
-| MARIA GS | HANDY | 28,378 Dry | JAPAN Bulk (Weekly) | 2011 Values |  | N/A |  | UNDISCLOSED |
-| TYPE | DWT | NB CONTRACT | NB | PROMPT DELIVERY |  | 5 YEARS | 10 YEARS | 20 YEARS |
-| CAPE | 180,000 | 61 |  | 52 |  | 35 | 28 | 14 |
-| KAMSARMAX | 82,000 | 34 |  | 37 |  | 31 | 23 | 11 |
-| SUPRAMAX | 56,000 | 32 |  | 36 |  | 28 | 19 | 8 |
-| HANDY | 38,000 | 28 |  | 28 |  | 24 | 16 | 6 |
-| *(AmountinUSD million) |  |  |  |  |  |  |  |  |
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE | COMMENTS | / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  | USD |  |  |
+| CHINA STEEL ENTREPRENEUR / CHINA STEEL TEAM | VLOC | 203,512 | TAIWA N | 2007 | EN BLOC 35.5 |  | ALBERTA SHIPMANAGEMENT |
+| NAVIOS ALDEBARAN | PANAMAX | 76,529 | JAPAN | 2008 | 14.0 |  | UNDISCLOSED |
+| LT OCEAN STAR | PANAMAX | 75,395 | JAPAN | 2005 | 14.0 |  | UNDISCLOSED |
+| ZILOS | HANDYMAX | 46,541 | JAPAN | 2000 | N/A | TURKISH | BUYERS |
+| SEASTAR HARRIER | HANDY | 39,804 | JAPAN | 2022 | 30.0 |  | UNDISCLOSED |
+| INTERLINK ACTIVITY | HANDY | 38,710 | CHINA | 2015 | 21.0 | SCANDINAVIAN | BUYERS |
+| SUPER CAROLINE | HANDY | 33,427 | JAPAN | 2007 | 13.7 | TURKISH | BUYERS |
+| MARIA GS | HANDY | 28,378 Dry | JAPAN Bulk (Weekly) | 2011 Values | N/A |  | UNDISCLOSED |
+| TYPE | DWT | NB CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 20 YEARS |
+| CAPE | 180,000 | 61 |  | 52 | 35 | 28 | 14 |
+| KAMSARMAX | 82,000 | 34 |  | 37 | 31 | 23 | 11 |
+| SUPRAMAX | 56,000 | 32 |  | 36 | 28 | 19 | 8 |
+| HANDY | 38,000 | 28 |  | 28 | 24 | 16 | 6 |
+| *(AmountinUSD million) |  |  |  |  |  |  |  |
 
 [Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
@@ -344,10 +344,10 @@ Many recyclers have refused to bid on any new ships until the currency crisis im
 
 It was a quiet week for Pakistani recyclers looking for encouragement in the absence of Bangladesh, but a lack of ship supply poured cold water on their hopes. However, the prices in Gaddani have been subdued for a very long period and have not been able to take off in light of cheaply available alternative imported scrap. But this week has given hope as the prices slide in Alang, making way for the Gaddani recyclers to bid in competition.
 
-|  | Anchorage & | Beaching Position | (November | 2022) |
-|---|---|---|---|---|
-| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
-| - | - | - | - | - |
+| Anchorage & | Beaching Position | (November | 2022) |
+| --- | --- | --- | --- |
+| TYPE | LDT | ARRIVAL | BEACHING |
+| - | - | - | - |
 
 [Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 

@@ -95,13 +95,9 @@ MEG finished steady, influenced by weakness in the SE Asian regional market and 
 
 Clean:
 
-**LR: LR2 in the MEG closed with falling rates despite limited vessel supply, as demand**
+**LR:** LR2 in the MEG closed with falling rates despite limited vessel supply, as demand remained weak. With vessel availability booked till mid-April, the market remains relatively soft. TC1 lost over 100 points to WS130.
 
-remained weak. With vessel availability booked till mid-April, the market remains relatively soft. TC1 lost over 100 points to WS130.
-
-**MR: The Far East region saw its fourth consecutive week of declines from weak demand.**
-
-In the MEG, rates also saw another week of discounts as trade tensions led to a softer outlook. TC17 MEG/East Africa fell some 7 points to WS190.
+**MR:** The Far East region saw its fourth consecutive week of declines from weak demand. In the MEG, rates also saw another week of discounts as trade tensions led to a softer outlook. TC17 MEG/East Africa fell some 7 points to WS190.
 
 # Baltic Exchange Tanker Indices
 
@@ -150,21 +146,21 @@ Shipping companies are adjusting vessel supply more aggressively before yearly c
 
 # Containers Values
 
-| CONTAINERS | GEARED / | NB |  | NB | PROMPT |  |  | 15 |
-|---|---|---|---|---|---|---|---|---|
-| (BY TEU) | GEARLESS | CONTRACT |  |  | DELIVERY | 5 YEARS | 10 YEARS | YEARS |
-| 900 ~ 1,200 | Gearless | 20 |  |  | 25 | 20 | 15 | 11 |
-| 1,600 ~ 1,850 | Gearless | 28 |  |  | 33 | 28 | 22 | 17 |
-| 2,700 ~ 2,900 | Gearless | 37 |  |  | 42 | 37 | 30 | 26 |
-| 5,300 | Gearless | 58 |  |  | 77 | 67 | 61 | - |
-| *(amount in USD | million) |  |  |  |  |  |  |  |
-|  |  | S&P |  | Containers |  | Report |  |  |
-| VESSEL NAME | TYPE | TEU | YEAR |  | BUILT | PRICE | COMMENTS | / |
-|  |  |  |  |  |  | (MILLION) | USD BUYERS |  |
-| PROTOSTAR N | SUB PMAX | 2,742 | 2007 |  | GERMANY | 19.0 | UNDISCLOSED |  |
-| A SUWA | FEEDER | 1,096 | 2024 |  | JAPAN | 25.0 | UNDISCLOSED |  |
-| NORDIC HAMBURG | FEEDER | 1,036 | 2010 |  | CHINA | 13.0 | UNDISCLOSED |  |
-| DIANA J | FEEDER | 974 | 2006 |  | GERMANY | 9.7 | UNDISCLOSED |  |
+| CONTAINERS | GEARED / | NB | NB | PROMPT | 15 |
+| --- | --- | --- | --- | --- | --- |
+| (BY TEU) | GEARLESS | CONTRACT |  | DELIVERY | YEARS |
+| 900 ~ 1,200 | Gearless | 20 |  | 25 | 11 |
+| 1,600 ~ 1,850 | Gearless | 28 |  | 33 | 17 |
+| 2,700 ~ 2,900 | Gearless | 37 |  | 42 | 26 |
+| 5,300 | Gearless | 58 |  | 77 | - |
+| *(amount in USD | million) |  |  |  |  |
+|  |  | S&P | Containers |  |  |
+| VESSEL NAME | TYPE | TEU |  | BUILT | / |
+|  |  |  |  |  |  |
+| PROTOSTAR N | SUB PMAX | 2,742 |  | GERMANY |  |
+| A SUWA | FEEDER | 1,096 |  | JAPAN |  |
+| NORDIC HAMBURG | FEEDER | 1,036 |  | CHINA |  |
+| DIANA J | FEEDER | 974 |  | GERMANY |  |
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -316,13 +312,9 @@ Sub-Continent and Turkey ferrous scrap markets insights
 
 Sub-Continent's imported ferrous scrap markets remained subdued this week, weighed down by post-Eid sluggishness, global market volatility, and widening bid-offer gaps. Trading activity across India, Pakistan, and Bangladesh stayed limited, while Turkey continued to face downward pricing pressure.
 
-**India's imported scrap market remained quiet as buyers held back amid ongoing bid-**
+India's imported scrap market remained quiet as buyers held back amid ongoing bid- offer mismatches and expectations of a price correction. UK/EU-origin shredded scrap offers were flat at US$390-395/ton CFR Nhava Sheva, while buyers countered at US$380- 385/ton. HMS 80:20 hovered around US$360-365/ton CFR, though import appetite remained weak due to the availability of cheaper domestic sponge iron and scrap. Despite healthy domestic steel sales, firm freight rates and falling Turkish scrap prices added to buyer caution. Post-Eid, Pakistan's scrap market saw limited activity as mills remained cautious amid weak construction demand and firm import offers. UK/EU shredded was quoted at US$390-395/ton CFR Port Qasim, while UAE-origin material rose slightly to US$395- 400/ton. Domestic scrap was stable at PKR 135,000-140,000/t (US$487-505/ton), while rebars stood at PKR 238,000-242,000/t (US$849-863/ton) ex-works. Although electricity tariff relief brought some optimism, mills awaited clearer cues from upcoming budget announcements and construction sector demand before committing to imports.
 
-offer mismatches and expectations of a price correction. UK/EU-origin shredded scrap offers were flat at US$390-395/ton CFR Nhava Sheva, while buyers countered at US$380- 385/ton. HMS 80:20 hovered around US$360-365/ton CFR, though import appetite remained weak due to the availability of cheaper domestic sponge iron and scrap. Despite healthy domestic steel sales, firm freight rates and falling Turkish scrap prices added to buyer caution. Post-Eid, Pakistan's scrap market saw limited activity as mills remained cautious amid weak construction demand and firm import offers. UK/EU shredded was quoted at US$390-395/ton CFR Port Qasim, while UAE-origin material rose slightly to US$395- 400/ton. Domestic scrap was stable at PKR 135,000-140,000/t (US$487-505/ton), while rebars stood at PKR 238,000-242,000/t (US$849-863/ton) ex-works. Although electricity tariff relief brought some optimism, mills awaited clearer cues from upcoming budget announcements and construction sector demand before committing to imports.
-
-**Bangladesh's imported scrap market continued to face headwinds due to persistent LC**
-
-challenges and tight foreign exchange liquidity. Shredded offers stood at US$385- 395/ton CFR, and Australian HMS 80:20 was seen at US$365-370/ton. Rebar prices in Dhaka and Chattogram were reported at BDT 82,000-83,000/t (US$674-682/ton) and BDT 85,500-87,000/t (US$703-714/ton), respectively. Domestic shipbreaking scrap remained flat, with PNS at BDT 57,000-57,500/ton (US$469-473/ton) and HMS at BDT 55,500-56,500/t (US$456-464/ton) ex-yard.
+Bangladesh's imported scrap market continued to face headwinds due to persistent LC challenges and tight foreign exchange liquidity. Shredded offers stood at US$385- 395/ton CFR, and Australian HMS 80:20 was seen at US$365-370/ton. Rebar prices in Dhaka and Chattogram were reported at BDT 82,000-83,000/t (US$674-682/ton) and BDT 85,500-87,000/t (US$703-714/ton), respectively. Domestic shipbreaking scrap remained flat, with PNS at BDT 57,000-57,500/ton (US$469-473/ton) and HMS at BDT 55,500-56,500/t (US$456-464/ton) ex-yard.
 
 **Turkey's imported scrap market weakened further as US-origin HMS 80:20 slipped by**
 
@@ -336,9 +328,7 @@ US$5/ton to US$365/ton CFR, driven by tepid mill interest. A deal for HMS 90:10 
 
 # Commodities (Weekinfocus)
 
-**Iron ore futures moved sideways on Friday but remained on track for a weekly decline as**
-
-escalating trade tensions between the United States and China-the world's two largest economies-cast shadows over demand prospects. The most actively traded September iron ore contract on China's Dalian Commodity Exchange (DCE) finished daytime trading slightly higher at 708 yuan (US$96.70) per metric ton, though still registering a weekly loss of 4.8%. Similarly, the benchmark May iron ore contract on the Singapore Exchange slipped to US$97 a ton as of 0705 GMT, bringing its decline for the week to 4.8% as well. Recent developments in the US-China trade relationship have heightened market concerns. US President Donald Trump increased tariffs on Chinese imports to 125% shortly after Beijing retaliated by raising duties on American goods to 84% from the previous 34%. Markets remain anxious about potential further escalation from China. Analysts warned in a note that trade tensions show no signs of easing, cautioning that a worstcase scenario could push the global economy into recession. These tensions have broadly weighed on sentiment across metals markets, despite a brief respite after Trump's unexpected 90-day pause on hefty duties for trading partners that didn't retaliate. However, resilient near-term demand for iron ore and optimism surrounding potential stimulus measures have helped limit losses.
+Iron ore futures moved sideways on Friday but remained on track for a weekly decline as escalating trade tensions between the United States and China-the world's two largest economies-cast shadows over demand prospects. The most actively traded September iron ore contract on China's Dalian Commodity Exchange (DCE) finished daytime trading slightly higher at 708 yuan (US$96.70) per metric ton, though still registering a weekly loss of 4.8%. Similarly, the benchmark May iron ore contract on the Singapore Exchange slipped to US$97 a ton as of 0705 GMT, bringing its decline for the week to 4.8% as well. Recent developments in the US-China trade relationship have heightened market concerns. US President Donald Trump increased tariffs on Chinese imports to 125% shortly after Beijing retaliated by raising duties on American goods to 84% from the previous 34%. Markets remain anxious about potential further escalation from China. Analysts warned in a note that trade tensions show no signs of easing, cautioning that a worstcase scenario could push the global economy into recession. These tensions have broadly weighed on sentiment across metals markets, despite a brief respite after Trump's unexpected 90-day pause on hefty duties for trading partners that didn't retaliate. However, resilient near-term demand for iron ore and optimism surrounding potential stimulus measures have helped limit losses.
 
 ## Shipbroking (www.star-asia.com.sg)
 

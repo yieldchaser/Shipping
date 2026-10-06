@@ -71,7 +71,7 @@ Certification
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 24 mos | MAGIC STAR | 2009 | 38,423 dwt | $20,000/day | ST Shipping |
+| 24 mos | MAGIC STAR | 2009 | 38,423 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | Current | Previous | ±% | Diff | 2021 | 2020 |
@@ -90,7 +90,6 @@ Certification
 |  | 36k 3yr TC | 16,000 | 16,000 | 0.0% | 0 | 13,054 | 14,051 |
 
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 14/Oct/21 | 40 | 100 | 140 |
@@ -108,7 +107,6 @@ Certification
 | 14/Oct/22 | 100 | 190 | 200 |
 
 ### Clean WS Rates (1-Year Trend)
-
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 14/Oct/21 | 120 | 130 | 140 | 150 |
@@ -168,10 +166,9 @@ In the Small sector we had the sale of the "CELSIUS MIAMI" (19,991dwt-bl't '05, 
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | JABAL SHAMS | 2019 | 63,224 dwt | $17,000/day | Olam International |
+| 12 mos | JABAL SHAMS | 2019 | 63,224 dwt |  |  |
 
 ## TC Rates
-
 | Sector | Tenor | 14/10/2022 | 07/10/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 17,000 | 17,000 | 0.0% | 0 | 32,684 | 15,361 |
@@ -188,7 +185,6 @@ In the Small sector we had the sale of the "CELSIUS MIAMI" (19,991dwt-bl't '05, 
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 14/Oct/21 | 3500 | 4500 | 3500 | 1800 | 8000 |
@@ -206,7 +202,6 @@ In the Small sector we had the sale of the "CELSIUS MIAMI" (19,991dwt-bl't '05, 
 | 14/Oct/22 | 2000 | 2000 | 2000 | 1700 | 2000 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 14/Oct/21 | 38000 | 35000 | 36000 | 34000 |
@@ -258,7 +253,6 @@ In the Kamsarmax sector we had the sale of the "BULK HOLLAND" (81,712dwt-blt '17
 
 # Intermodal Secondhand Sales
 ## Tankers
-
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ULCC | EUROPE | 441,561 | 2002 | DAEWOO, S. Korea | Sulzer | Nov-22 | DH | region $ 42.5m | undisclosed |  |
@@ -296,7 +290,6 @@ In the Kamsarmax sector we had the sale of the "BULK HOLLAND" (81,712dwt-blt '17
 | HANDY | HIPPO SPIRIT | 27,097 | 1996 | SHIN KURUSHIMA, Japan | Mitsubishi | Jan-26 | 4x30.5, 4x30.0 | $ 6.2m | undisclosed |  |
 
 ## Secondhand Sales
-
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | NAVIGATOR MAGELLAN | 23,292 | 1998 | MITSUI CHIBA ICHIHARA, Japan | B\&amp;W | May-25 | 20,900 | $ 13.0m | undisclosed |
@@ -307,7 +300,6 @@ In the Kamsarmax sector we had the sale of the "BULK HOLLAND" (81,712dwt-blt '17
 
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
-
 | Sector | Size | 14/10/2022 | 07/10/2022 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -360,8 +352,8 @@ Newbuilding market continued to demonstrate healthy contracting activity for yet
 | 14/Aug/22 | 62 | 33 | 32 | 29 |
 | 14/Sep/22 | 62 | 33 | 32 | 29 |
 | 14/Oct/22 | 62 | 32 | 32 | 29 |
-## Newbuilding Orders
 
+## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | Tanker | 26,300 dwt | Fukuoka Shipbuilding, Japan | 2025 | U.S based (Fairfield Chemical) | $ 70.0m | st-st chemical tankers, options declared |
@@ -375,7 +367,6 @@ Newbuilding market continued to demonstrate healthy contracting activity for yet
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | Markets | 14/10/2022 | 07/10/2022 | ±% | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
@@ -406,8 +397,8 @@ The volume of the materialized deals in the demolition market remains low despit
 | 14/Aug/22 | 575 | 575 | 575 | 250 |
 | 14/Sep/22 | 575 | 575 | 575 | 250 |
 | 14/Oct/22 | 575 | 575 | 575 | 250 |
-## Demolition Sales
 
+## Demolition Sales
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | THEODOROS I. V. | 45,438 | 11,688 | 1999 | CHERNOMORSKYI, Ukraine | TANKER | $ 605/Ldt | undisclosed | as is Fujairah |

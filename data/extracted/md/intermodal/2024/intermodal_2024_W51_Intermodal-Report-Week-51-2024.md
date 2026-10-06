@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 **By Nikos Tagoulis, Senior Analyst**
 
@@ -52,10 +50,9 @@ Focusing to the the dual-fuel fleet, it currently counts 2,119 vessels with a co
 
 ## Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 20/12/24 WS points | 20/12/24 $/day | 13/12/24 WS points | 13/12/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Vessel |  |  |  |  | Routes | WS points | $/day | WS points | $/day |
+| Vessel |  |  |  |  |  |  | Routes | WS points | $/day |
 | **VLCC** | 265k | MEG-SPORE | 42 | 21,632 | 40 | 19,704 | 9.8% | 39,466 | 20,330 |
 |  | 260k | WAF-CHINA | 48 | 27,843 | 46 | 26,111 | 6.6% | 38,773 | 19,980 |
 | **Suezmax** | 130k | MED-MED | 90 | 40,699 | 92 | 43,187 | -5.8% | 62,964 | 51,634 |
@@ -72,13 +69,7 @@ Focusing to the the dual-fuel fleet, it currently counts 2,119 vessels with a co
 |  | 55K | MED-USG | 120 | 11,841 | 120 | 11,968 | -1.1% | 27,060 | 21,231 |
 |  | 50k | ARA-UKC | 183 | 21,847 | 183 | 21,846 | 0.0% | 46,194 | 40,364 |
 
-## No Fresh Period Fixtures
-
-|  | WS points |
-| --- | --- |
-| \*\*DIRTY - WS RATES\*\* |  |
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 20/Dec/23 | 50 | 120 | 50 |
@@ -98,7 +89,6 @@ Focusing to the the dual-fuel fleet, it currently counts 2,119 vessels with a co
                                                                                                                                                                                                  |
 | \*\*CLEAN - WS RATES\*\* | 
 ### Clean WS Rates (1-Year Trend)
-
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 20/Dec/23 | 150 | 120 | 180 | 160 |
@@ -183,7 +173,6 @@ On the Aframax front, T/C earnings averaged \$ 36,017/day, up +0.98% w-o-w.
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 20/Dec/23 | 3500 | 1500 | 1200 | 1000 | 3200 |
@@ -201,7 +190,6 @@ On the Aframax front, T/C earnings averaged \$ 36,017/day, up +0.98% w-o-w.
 | 20/Dec/24 | 1000 | 1000 | 900 | 800 | 1000 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 20/Dec/23 | 28000 | 14000 | 12000 | 10000 |
@@ -241,7 +229,6 @@ Supramax 10TC averaged \$ 9,935/day down -2.11% w-o-w, while the Handysize 7TC a
 Secondhand Sales
 
 ## Secondhand Sales
-
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SMALL | DH HONESTY | 13,148 | 2021 | NANTONG,China | WinGD | Mar-26 | DH | $ 25.6m | undisclosed | StSt, via Chinese bidding platform |
@@ -321,7 +308,6 @@ As we approach the end of 2024, the recycling markets have shown limited sales a
 | USD/TRY | 33.10 | 32.95 | 0.5% | 33.12 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | GUO YUAN 9 | 48,218 | 9,326 | 1994 | DANYARD, Denmark | BC | $ 465.0m | Bangladeshi |

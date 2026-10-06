@@ -120,13 +120,9 @@ Rates in the Mediterranean are tumbling for a second consecutive week as moderat
 
 Clean:
 
-**LR: The collapse of the brief US-Iran ceasefire triggered a massive influx of naphtha and**
+**LR:** The collapse of the brief US-Iran ceasefire triggered a massive influx of naphtha and other product cargoes, sparking intense competition for vessel capacity and driving rates upward. The TC1 MEG/Japan climbed 46 points to WS589, while the TC5 route for 55kt stems surged to WS621. Persistent supply shortages and sustained demand for longdistance routes are expected to keep the outlook firm as tonnage remains tight.
 
-other product cargoes, sparking intense competition for vessel capacity and driving rates upward. The TC1 MEG/Japan climbed 46 points to WS589, while the TC5 route for 55kt stems surged to WS621. Persistent supply shortages and sustained demand for longdistance routes are expected to keep the outlook firm as tonnage remains tight.
-
-**MR: In the Far East, MR rates closed flat as a tight supply of available vessels successfully**
-
-offset a slowdown in cargo volumes caused by Middle East supply disruptions. The Middle East market remains unperturbed by regional volatility, with the TC17 index to East Africa holding steady at the extremely high WS705 mark. Conversely, the UKC sector faced downward pressure this week, as the TC2 index to the US Atlantic Coast dipped to settle at WS279.
+**MR:** In the Far East, MR rates closed flat as a tight supply of available vessels successfully offset a slowdown in cargo volumes caused by Middle East supply disruptions. The Middle East market remains unperturbed by regional volatility, with the TC17 index to East Africa holding steady at the extremely high WS705 mark. Conversely, the UKC sector faced downward pressure this week, as the TC2 index to the US Atlantic Coast dipped to settle at WS279.
 
 ## Baltic Exchange Tanker Indices
 
@@ -150,17 +146,17 @@ Tankers Values
 
 ## Page 7
 
-| MR | 51,000 | 50 |  | 57 | 46 (E) | 37 (E) 28 |
-|---|---|---|---|---|---|---|
-| *(amount in USD million) \| (E) | - eco units |  |  |  |  |  |
-|  |  | Tankers |  | S&P Report |  |  |
-|  |  |  |  |  | PRICE | COMMENTS / |
-| VESSEL NAME | TYPE | DWT | YEAR | BUILT |  |  |
-|  |  |  |  |  | (MILLION) USD | BUYERS |
-| P. ALIKI | AFRA | 105,304 | 2010 | S. KOREA | 42.65 | UNDISCLOSED |
-| EVER VICTORY | LR1 | 70,426 | 2005 | JAPAN | 15.5 | UNDOSCLOSED |
-| JAG PRAKASH | MR | 47,848 | 2007 | S. KOREA | 17.5 | UNDISCLOSED |
-| GOLDEN SPRUCE | SMALL | 18,500 | 2026 | CHINA | 32.2 | SINGAPOREAN BUYERS |
+| MR | 51,000 | 50 | 57 | 46 (E) | 37 (E) 28 |
+| --- | --- | --- | --- | --- | --- |
+| *(amount in USD million) \ | (E) | - eco units |  |  |  |
+|  |  | Tankers | S&P Report |  |  |
+|  |  |  |  | PRICE | COMMENTS / |
+| VESSEL NAME | TYPE | DWT | BUILT |  |  |
+|  |  |  |  | (MILLION) USD | BUYERS |
+| P. ALIKI | AFRA | 105,304 | S. KOREA | 42.65 | UNDISCLOSED |
+| EVER VICTORY | LR1 | 70,426 | JAPAN | 15.5 | UNDOSCLOSED |
+| JAG PRAKASH | MR | 47,848 | S. KOREA | 17.5 | UNDISCLOSED |
+| GOLDEN SPRUCE | SMALL | 18,500 | CHINA | 32.2 | SINGAPOREAN BUYERS |
 
 ### Shipbroking (www.star-asia.com.sg)
 

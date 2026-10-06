@@ -76,32 +76,32 @@ persisted throughout the Pacific. Inter-Pacific did not fare as well, with level
 
 # Dry Bulk - S&P Report
 
-| VESSEL NAME | TYPE | DWT | YEAR | BUILT |  | PRICE | COMMENTS | / BUYERS |
-|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  | (MILLION) | USD |  |  |
-| PELLONIA | POST | PMAX 93,386 | 2010 | CHINA |  | 17.3 |  | UNDISCLOSED |
-| PRABHU PUNI | PANAMAX | 76,015 | 2002 | JAPAN |  | 11.5 |  | UNDISCLOSED |
-| SEAWIND | PANAMAX | 75,637 | 2006 | JAPAN |  | 15.2 |  | UNDISCLOSED |
-| FANOULA | SUPRAMAX | 56,560 | 2008 | JAPAN |  | 16.0 | CHINESE | BUYERS |
-| SEA ETIQUETTE | SUPRAMAX | 51,658 | 2011 | JAPAN |  | 19.0 | CYPRIOT | BUYERS |
-| WAAL | CONFIDENCE HANDY | 33,387 | 2009 | JAPAN |  | 15.2 |  | UNDISCLOSED |
-| MINER | HANDY | 33,002 | 2010 | CHINA |  | N/A | GREEK | BUYERS |
-| ALAM SERI | HANDY | 29,562 | 2011 | JAPAN |  | 12.2 |  | UNDISCLOSED |
-| BELLE OCEAN | HANDY | 28,354 Dry | 2014 Bulk (Weekly) | JAPAN Values |  | 14.8 | GREEK | BUYERS |
-| TYPE | DWT | NB CONTRACT | NB | PROMPT DELIVERY |  | 5 YEARS 10 | YEARS | 20 YEARS |
-| CAPE | 180,000 | 63 |  | 56 |  | 39 | 30 | 14 |
-| KAMSARMAX | 82,000 | 36 |  | 37 |  | 31 | 23 | 11 |
-| SUPRAMAX | 56,000 | 33 |  | 37 |  | 30 | 21 | 9 |
-| HANDY | 38,000 | 29 |  | 28 |  | 24 | 16 | 6 |
-| *(AmountinUSD million) |  |  |  |  |  |  |  |  |
-|  | Baltic | Exchange |  | Dry Bulk |  | Indices |  |  |
-|  |  | BALTIC | EXCHANGE | DRY BULK |  | INDICES |  |  |
-|  | CURRENT | LAST WEEK | LAST | YEAR | W-O-W | CHANGE % | Y-O-Y | CHANGE % |
-| BDI | 1,323 | 1,534 |  | 2,715 |  | -13.75 |  | -51.27 |
-| BCI | 1,343 | 1,670 |  | 3,280 |  | -19.58 |  | -59.05 |
-| BPI | 1,700 | 1,817 |  | 3,071 |  | -6.44 |  | -44.64 |
-| BSI | 1,268 | 1,483 |  | 2,416 |  | -14.50 |  | -47.52 |
-| BHSI | 836 | 897 |  | 1,726 |  | -6.80 |  | -51.56 |
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE | COMMENTS | / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  | USD |  |  |
+| PELLONIA | POST | PMAX 93,386 | 2010 | CHINA | 17.3 |  | UNDISCLOSED |
+| PRABHU PUNI | PANAMAX | 76,015 | 2002 | JAPAN | 11.5 |  | UNDISCLOSED |
+| SEAWIND | PANAMAX | 75,637 | 2006 | JAPAN | 15.2 |  | UNDISCLOSED |
+| FANOULA | SUPRAMAX | 56,560 | 2008 | JAPAN | 16.0 | CHINESE | BUYERS |
+| SEA ETIQUETTE | SUPRAMAX | 51,658 | 2011 | JAPAN | 19.0 | CYPRIOT | BUYERS |
+| WAAL | CONFIDENCE HANDY | 33,387 | 2009 | JAPAN | 15.2 |  | UNDISCLOSED |
+| MINER | HANDY | 33,002 | 2010 | CHINA | N/A | GREEK | BUYERS |
+| ALAM SERI | HANDY | 29,562 | 2011 | JAPAN | 12.2 |  | UNDISCLOSED |
+| BELLE OCEAN | HANDY | 28,354 Dry | 2014 Bulk (Weekly) | JAPAN Values | 14.8 | GREEK | BUYERS |
+| TYPE | DWT | NB CONTRACT | NB | PROMPT DELIVERY | 5 YEARS 10 | YEARS | 20 YEARS |
+| CAPE | 180,000 | 63 |  | 56 | 39 | 30 | 14 |
+| KAMSARMAX | 82,000 | 36 |  | 37 | 31 | 23 | 11 |
+| SUPRAMAX | 56,000 | 33 |  | 37 | 30 | 21 | 9 |
+| HANDY | 38,000 | 29 |  | 28 | 24 | 16 | 6 |
+| *(AmountinUSD million) |  |  |  |  |  |  |  |
+|  | Baltic | Exchange |  | Dry Bulk | Indices |  |  |
+|  |  | BALTIC | EXCHANGE | DRY BULK | INDICES |  |  |
+|  | CURRENT | LAST WEEK | LAST | YEAR | CHANGE % | Y-O-Y | CHANGE % |
+| BDI | 1,323 | 1,534 |  | 2,715 | -13.75 |  | -51.27 |
+| BCI | 1,343 | 1,670 |  | 3,280 | -19.58 |  | -59.05 |
+| BPI | 1,700 | 1,817 |  | 3,071 | -6.44 |  | -44.64 |
+| BSI | 1,268 | 1,483 |  | 2,416 | -14.50 |  | -47.52 |
+| BHSI | 836 | 897 |  | 1,726 | -6.80 |  | -51.56 |
 
 [Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
@@ -186,18 +186,18 @@ year.
 
 # Containers S&P Report
 
-| VESSEL NAME | TYPE |  | YEAR | BUILT | PRICE | COMMENTS | / |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  | (MILLION) | USD |  | BUYERS |
-|  |  | NO | NEW SALES | REPORTED |  |  |  |
-|  |  |  | Containers (Weekly) | Values |  |  |  |
-| CONTAINERS | GEARED / |  | NB | NB PROMPT | 5 YEARS | 10 YEARS | 20 YEARS |
-| (by TEU) | GEARLESS |  | CONTRACT | DELIVERY |  |  |  |
-| 900 - 1,200 | Geared |  | 24 | 29 | 22 | 17 | 13 |
-| 1,600 - 1,800 | Geared |  | 29 | 36 | 31 | 24 | 19 |
-| 2,700 - 2,900 | Gearless |  | 42 | 43 | 38 | 30 | 25 |
-| 5,500 - 7,000 | Gearless |  | 85 | 115 | 95 | 77 | N/A |
-| *(amount inUSD million) |  |  |  |  |  |  |  |
+| VESSEL NAME | TYPE | YEAR | BUILT | PRICE | COMMENTS | / |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  | (MILLION) | USD |  | BUYERS |
+|  |  | NEW SALES | REPORTED |  |  |  |
+|  |  | Containers (Weekly) | Values |  |  |  |
+| CONTAINERS | GEARED / | NB | NB PROMPT | 5 YEARS | 10 YEARS | 20 YEARS |
+| (by TEU) | GEARLESS | CONTRACT | DELIVERY |  |  |  |
+| 900 - 1,200 | Geared | 24 | 29 | 22 | 17 | 13 |
+| 1,600 - 1,800 | Geared | 29 | 36 | 31 | 24 | 19 |
+| 2,700 - 2,900 | Gearless | 42 | 43 | 38 | 30 | 25 |
+| 5,500 - 7,000 | Gearless | 85 | 115 | 95 | 77 | N/A |
+| *(amount inUSD million) |  |  |  |  |  |  |
 
 [Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
@@ -315,10 +315,10 @@ Another depressing week for Bangladeshi recyclers as the issuance of Letters of 
 
 Pakistani ship recycling markets remained subdued and shall remain inactive for an extended period as the alternative to ship scrap, and semi-finished steel products were dumped in Pakistan at much lower prices. The wide gap between the ship prices and alternate melting and shredded scrap has increased, making ships unviable to recycle. Further to add on, the finished steel products from China get a special duty rate, and with the signing of a memorandum of cooperation on yuan clearing between both countries, the importers will get the benefit of opening Letters of Credit which can be opened in Yuan. Such moves have made the recycling ships unviable for the time being and counterproductive for the ship recyclers. Recyclers can only return back as buyers once the price gap between the imported ferrous scrap and ship prices is narrowed - either the imported scrap prices along with finished products increase or the ship prices drop to align vis-à-vis. Until then, Pakistan remains on the sidelines.
 
-|  | Anchorage & | Beaching Position | (November | 2022) |
-|---|---|---|---|---|
-| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
-| - | - | - | - | - |
+| Anchorage & | Beaching Position | (November | 2022) |
+| --- | --- | --- | --- |
+| TYPE | LDT | ARRIVAL | BEACHING |
+| - | - | - | - |
 
 #### ALIAGA, TURKEY
 

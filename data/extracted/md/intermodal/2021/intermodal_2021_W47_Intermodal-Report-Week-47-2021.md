@@ -19,7 +19,6 @@ Palm oil futures in Busra Malaysia have reached back-to-back record highs during
 
 As far as the freight market is concerned rates for regional voyages to India and China have been moving sideways during the past weeks. On the other hand, FOSFA tonnage, especially on the westbound MR size TC Trip runs enjoyed a good premium, before correcting during mid Nov when the CPP Markets in the FEAST stagnated.
 ## Currencies
-
 | Markets | Current | Previous |
 | --- | --- | --- |
 | E.C. India | 12-15,000mtons | at 33.00 usd/pmt |
@@ -94,7 +93,6 @@ Shanghai 200122 China
 No tanker period charters to report this week
 
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 26/Nov/20 | 50 | 80 | 70 |
@@ -111,7 +109,6 @@ No tanker period charters to report this week
 | 26/Nov/21 | 50 | 80 | 100 |
 
 ### Clean WS Rates (1-Year Trend)
-
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 26/Nov/20 | 100 | 100 | 100 | 100 |
@@ -182,13 +179,12 @@ In the Small size sector we had the sale of the "OCEAN SEAL" (11,998dwt-blt '18,
 | BHSI | 1,539 | $27,703 | 1,561 | $28,090 | -22 | -1.4% | 447 | 490 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 13 to 15 mos | ISMENE | 2013 | 77,901 dwt | Yosu 22/23 Nov | $22,000/day | Swissmarine |
-| 5 to 7 mos | SUPER TRADER | 2011 | 56,868 dwt | Shuaiba prompt | $22,000/day | Mina Shipping |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 13 to 15 mos | ISMENE | 2013 | 77,901 dwt |  |  |
+| 5 to 7 mos | SUPER TRADER | 2011 | 56,868 dwt |  |  |
 
 ## TC Rates
-
 | Sector | Tenor | 26/11/2021 | 19/11/2021 | ±% | Diff | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 26,500 | 26,250 | **1.0%** | **250** | 15,561 | 18,839 |
@@ -205,7 +201,6 @@ In the Small size sector we had the sale of the "OCEAN SEAL" (11,998dwt-blt '18,
 |  | **32K 3yr TC** | 11,250 | 11,250 | 0.0% | 0 | 8,686 | 9,291 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 26/Nov/20 | 1,500 | 1,500 | 1,500 | 1,000 | 1,500 |
@@ -223,7 +218,6 @@ In the Small size sector we had the sale of the "OCEAN SEAL" (11,998dwt-blt '18,
 | 26/Nov/21 | 3,200 | 3,400 | 3,100 | 1,700 | 3,500 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 26/Nov/20 | 12,000 | 12,000 | 12,000 | 12,000 |
@@ -302,7 +296,6 @@ In the Handysize sector we had the sale of the "NEW DAYS" (38,230dwt-blt '17, Ja
 
 # Newbuilding Market
 ## TC Rates
-
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Vessel | 26/11/2021 | 19/11/2021 | ±% | 2020 | 2019 | 2018 |  |
@@ -379,7 +372,6 @@ After just one week break, activity in the new building market has resumed with 
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | 26/11/2021 | 19/11/2021 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |
@@ -410,8 +402,8 @@ A fall in steel prices strongly driven by a slower demand from China had an adve
 | 26/Sep/21 | 630 | 610 | 600 | 315 |
 | 26/Oct/21 | 640 | 620 | 610 | 320 |
 | 26/Nov/21 | 635 | 625 | 615 | 325 |
-## Indicative Demolition Prices ($/ldt)
 
+## Indicative Demolition Prices ($/ldt)
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/ldt | Demolition Sales Breakers | Demolition Sales Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | BLUE SHIP | 164,859 | 24,370 | 2001 | HYUNDAI ULSAN, S. Korea | TANKER | undisclosed | undisclosed | as-is Singapore |

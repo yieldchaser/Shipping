@@ -360,13 +360,9 @@ Sub-Continent and Turkey ferrous scrap markets insight
 
 The Sub-Continent ferrous scrap market saw mixed trends this week, with fluctuations evident across various countries. India experienced sluggish demand, while Pakistan faced high offers and limited purchasing power. In Bangladesh, post-Muharram market activity was moderate due to a domestic steel market slowdown and financing challenges. Meanwhile, Turkey maintained stable deep-sea imported scrap prices amid limited deal activity, as mills preferred Chinese billet offers over scrap due to cost advantages despite longer lead times.
 
-**India's imported scrap market remained sluggish as buyers showed disinterest due to**
+India's imported scrap market remained sluggish as buyers showed disinterest due to significant bid-offer disparities. Shredded scrap offers were around US$410-415/t CFR, while buyers bid lower at US$400-405/t CFR, creating a $10-15/t gap. Offers for HMS (80:20) from the UK/Europe and West Africa ranged from US$385-395/t CFR. Domestic rebar prices dropped to four-month lows, prompting buyers to adopt a need-based purchasing approach. Approximately 2,000 t of HMS (80:20), HMS-LMS bundle mix, and HMS-PNS mix scraps were booked from African, Yemen, and UAE origins at around US$380-390/t CFR Mundra.
 
-significant bid-offer disparities. Shredded scrap offers were around US$410-415/t CFR, while buyers bid lower at US$400-405/t CFR, creating a $10-15/t gap. Offers for HMS (80:20) from the UK/Europe and West Africa ranged from US$385-395/t CFR. Domestic rebar prices dropped to four-month lows, prompting buyers to adopt a need-based purchasing approach. Approximately 2,000 t of HMS (80:20), HMS-LMS bundle mix, and HMS-PNS mix scraps were booked from African, Yemen, and UAE origins at around US$380-390/t CFR Mundra.
-
-**Pakistan's imported scrap market was notably slow due to the observance of Muharram,**
-
-leading to minimal activity and curtailed offers and bids. Shredded scrap offers from the UK/Europe remained steady at US$425-430/t CFR Qasim, with limited buyer interest. The domestic steel market was moderate, with buyers purchasing as needed and local scrap
+Pakistan's imported scrap market was notably slow due to the observance of Muharram, leading to minimal activity and curtailed offers and bids. Shredded scrap offers from the UK/Europe remained steady at US$425-430/t CFR Qasim, with limited buyer interest. The domestic steel market was moderate, with buyers purchasing as needed and local scrap
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -382,13 +378,9 @@ prices rising to PKR 150,000-160,000/t. Despite stable domestic rebar and billet
 
 # Commodities
 
-**Iron ore prices declined after the Third Plenum communique failed to indicate any**
+Iron ore prices declined after the Third Plenum communique failed to indicate any significant policy changes. This drop is attributed to weakening seasonal demand and increased supply from major exporters, which are softening the iron ore market. China's economic data continues to show signs of weakening, with GDP growth at just 4.7% in the second quarter, coupled with disappointing home sales and property investment figures. The steel industry, now in its quieter summer period, is also seeing reduced demand. On the supply side, iron ore producers have rebounded from earlier disruptions. Both Rio Tinto and BHP reported robust second-quarter production results after overcoming weather-related challenges. Similarly, Brazil's Vale, the world's second-largest iron ore producer, saw a 13.8% increase in June quarter production, overcoming prior operational issues. Despite these challenges, China continues to import substantial quantities of iron ore, contributing to a build-up of stocks. This combination of ample supply and steady imports is expected to maintain downward pressure on iron ore prices.
 
-significant policy changes. This drop is attributed to weakening seasonal demand and increased supply from major exporters, which are softening the iron ore market. China's economic data continues to show signs of weakening, with GDP growth at just 4.7% in the second quarter, coupled with disappointing home sales and property investment figures. The steel industry, now in its quieter summer period, is also seeing reduced demand. On the supply side, iron ore producers have rebounded from earlier disruptions. Both Rio Tinto and BHP reported robust second-quarter production results after overcoming weather-related challenges. Similarly, Brazil's Vale, the world's second-largest iron ore producer, saw a 13.8% increase in June quarter production, overcoming prior operational issues. Despite these challenges, China continues to import substantial quantities of iron ore, contributing to a build-up of stocks. This combination of ample supply and steady imports is expected to maintain downward pressure on iron ore prices.
-
-**Copper prices led the base metals sector to lower after China's Third Plenum failed to**
-
-announce new stimulus measures. President Xi Jinping emphasised the importance of high-quality development as the driving force for the world's second-largest economy, leaving investors disheartened by the lack of focus on addressing structural issues such as the struggling property sector. Adding to the negative sentiment, recent data revealed that China's exports of unwrought copper and copper products reached a record high for the second consecutive month. This surge is largely due to weak domestic demand, forcing traders to seek international markets.
+Copper prices led the base metals sector to lower after China's Third Plenum failed to announce new stimulus measures. President Xi Jinping emphasised the importance of high-quality development as the driving force for the world's second-largest economy, leaving investors disheartened by the lack of focus on addressing structural issues such as the struggling property sector. Adding to the negative sentiment, recent data revealed that China's exports of unwrought copper and copper products reached a record high for the second consecutive month. This surge is largely due to weak domestic demand, forcing traders to seek international markets.
 
 Iron Ore
 

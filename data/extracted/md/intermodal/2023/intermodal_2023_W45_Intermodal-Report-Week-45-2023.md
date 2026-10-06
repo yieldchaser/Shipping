@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 _By Chara Georgousi, Research Analyst_
 
@@ -19,7 +17,6 @@ As the maritime industry transitions into this new regulatory era, it's imperati
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 10/11/23 WS points | 10/11/23 $/day | 03/11/23 WS points | 03/11/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 68 | 49,018 | 72 | 53,662 | -8.7% | 20,330 | 2,246 |
@@ -38,14 +35,14 @@ As the maritime industry transitions into this new regulatory era, it's imperati
 |  | 55K | UKC-USG | 150 | 24,600 | 150 | 23,296 | **5.6%** | 19,982 | 2,822 |
 |  | 55K | MED-USG | 150 | 24,068 | 150 | 22,931 | **5.0%** | 21,231 | 4,818 |
 |  | 50k | CARIBS-USG | 236 | 44,933 | 245 | 45,913 | -2.1% | 40,364 | 8,548 |
+
 ## Indicative Period Charters
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 6 mos | NORVIC MONIA | 2008 | 105,348 dwt |  |  |
+| 6 mos | ELKA DELPHI | 2015 | 49,990 dwt |  |  |
 
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 6 mos | NORVIC MONIA | 2008 | 105,348 dwt | DEL WEST NOV/23 | $49,750-54,500/day | Exxon |
-| 6 mos | ELKA DELPHI | 2015 | 49,990 dwt | DEL WEST NOV/23 | $31,500/day | Mercuria |
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 10/Nov/22 | 100 | 300 | 650 |
@@ -61,8 +58,8 @@ As the maritime industry transitions into this new regulatory era, it's imperati
 | 10/Sep/23 | 10 | 140 | 300 |
 | 10/Oct/23 | 10 | 150 | 290 |
 | 10/Nov/23 | 10 | 160 | 280 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 10/Nov/22 | 180 | 350 | 450 | 200 |
@@ -94,8 +91,8 @@ As the maritime industry transitions into this new regulatory era, it's imperati
 |  | 52k 3yr TC | 25,500 | 25,500 | 0.0% | 0 | 16,426 | 13,804 |
 | Handy | 36k 1yr TC | 26,000 | 26,000 | 0.0% | 0 | 18,601 | 11,292 |
 |  | 36k 3yr TC | 18,000 | 18,000 | 0.0% | 0 | 14,585 | 13,054 |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Nov-23 avg | Oct-23 avg | ±% | 2022 | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300KT DH | 99.0 | 99.0 | 0.0% | 80.2 | 69.7 | 71.5 |
@@ -128,10 +125,10 @@ Suezmax T/C earnings averaged \$69,788/day, down - \$21,999/day w-o-w. On the Af
 | BHSI | 594 | $10,697 | 634 | $11,409 | -40 | -6.2% | 1,181 | 1,424 |
 
 ### Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 6/8 mos | OCEAN SCALLION | 2013 | 82,215 dwt | dely Zhoushan 16 Nov | $11,250/day | Sinoeast |
-| 5/7 mos | WORLD PROSPER | 2021 | 82,065 dwt | dely Tianjin 13/14 Nov | $13,000/day | cnr |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 6/8 mos | OCEAN SCALLION | 2013 | 82,215 dwt |  |  |
+| 5/7 mos | WORLD PROSPER | 2021 | 82,065 dwt |  |  |
 
 ### TC Rates
 | Sector | Tenor | 10/11/23 | 03/11/23 | ±% | Diff | 2022 | 2021 |
@@ -146,7 +143,6 @@ Suezmax T/C earnings averaged \$69,788/day, down - \$21,999/day w-o-w. On the Af
 |  | **32K 3yr TC** | 9,250 | 9,250 | 0.0% | 0 | 12,322 | 11,825 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 10/Nov/22 | 1400 | 1500 | 1300 | 800 | 1400 |
@@ -164,7 +160,6 @@ Suezmax T/C earnings averaged \$69,788/day, down - \$21,999/day w-o-w. On the Af
 | 10/Nov/23 | 2400 | 1600 | 1500 | 700 | 2400 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 10/Nov/22 | 12000 | 14000 | 13000 | 11000 |
@@ -224,7 +219,6 @@ Supramax 10TC averaged \$12,187/day, down -2.33% w-o-w, while the Handysize 7TC 
 | HANDY | AFRICAN IBIS | 32,347 | 2004 | KANDA, Japan | Mitsubishi | Jul-24 | 4 X 30,5t CRANES | $ 8.6m | undisclosed | BWTS fitted |
 
 ## Secondhand Sales
-
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUB PMAX | AS PETRA | 2,556 |  | HYUNDAI, S. Korea | Sulzer | Apr-24 | 4 X 40t CRANES | undisclosed | undisclosed |
@@ -280,7 +274,6 @@ The demolition market has been slow for a number of weeks, with the leading dest
 | USD/TRY | 28.56 | 28.38 | 0.63% | 28.81 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CATHERINE BRIGHT | 77,828 | 10,962 | 1998 | SAFEBO, Japan | BC | $ 535/Ldt | Indian |  |

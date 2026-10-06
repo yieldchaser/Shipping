@@ -1,5 +1,3 @@
-## Weekly Market Report
-
 ## Market Insight
 By <u>Nikos Tagoulis, Senior Analyst</u>
 
@@ -21,7 +19,6 @@ Overall, the Hormuz crisis is settling into a recurring cycle of escalation, par
 
 # Intermodal Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 10/07/2026 WS points | 10/07/2026 $/day | 03/07/2026 WS points | 03/07/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 348 | 355,370 | 303 | 305,278 | **16.4%** | 60,510 | 37,255 |
@@ -47,7 +44,6 @@ Overall, the Hormuz crisis is settling into a recurring cycle of escalation, par
 |  | $37,700 |  | Saudi Aramco |
 
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 10/Jul/25 | 100 | 100 | 100 |
@@ -65,7 +61,6 @@ Overall, the Hormuz crisis is settling into a recurring cycle of escalation, par
 | 10/Jul/26 | 300 | 250 | 200 |
 
 ### Clean WS Rates (1-Year Trend)
-
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 10/Jul/25 | 100 | 100 | 100 | 100 |
@@ -149,7 +144,6 @@ Aframax markets strengthened, underpinned by stronger USG activity and improving
 |  | **32K 3yr TC** | 12,000 | 12,000 | 0.0% | 0 | 10,394 | 9,740 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 10/Jul/25 | 3500 | 1800 | 1500 | 800 | 1800 |
@@ -167,7 +161,6 @@ Aframax markets strengthened, underpinned by stronger USG activity and improving
 | 10/Jul/26 | 4800 | 2200 | 2400 | 1000 | 2900 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 10/Jul/25 | 25000 | 15000 | 12000 | 10000 |
@@ -233,7 +226,6 @@ On the tanker side, JP Morgan contracted Samsung HI for a pair of 158k dwt tanke
 
 In containerships, Eastern Pacific contracted Hengli Shipbuilding for 7 boxships of 6k teu each valued at \$80m per vessel and **Indicative Newbuilding Prices (\$ Million)**
 ## Indicative Newbuilding Prices ($ Million)
-
 | Sector | Vessel Class | Size | 10-Jul-26 | 3-Jul-26 | ±% | YTD High | YTD Low | 5-year High | 5-year Low | 2025 | 2024 | 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** | Newcastlemax | 205k | 79.0 | 79.0 | 0.0% | 79.0 | 78.0 | 80.0 | 49.5 | 76.8 | 66.2 | 66.5 |

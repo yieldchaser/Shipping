@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 *By Nikos Tagoulis, Senior Analyst*
 
@@ -25,7 +23,6 @@ Ongoing geopolitical developments in 2025 appear to be a key factor affecting th
 ## Tanker Market
 
 ## Spot Rates
-
 | Sector | Size | Routes | 14/03/2025 WS points | 14/03/2025 $/day | 07/03/2025 WS points | 07/03/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 60 | 42,740 | 58 | 40,978 | 4.3% | 37,255 | 39,466 |
@@ -43,8 +40,8 @@ Ongoing geopolitical developments in 2025 appear to be a key factor affecting th
 | Dirty | 55K | UKC-USG | 115 | 10,782 | 115 | 10,794 | -0.1% | 17,707 | 27,274 |
 |  | 55K | MED-USG | 115 | 10,089 | 115 | 10,056 | 0.3% | 17,590 | 27,060 |
 |  | 50k | ARA-UKC | 197 | 29,301 | 176 | 23,025 | 27.3% | 26,872 | 46,194 |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Mar-25 avg | Feb-25 avg | ±% | 2024 | 2023 | 2022 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300KT DH | 112.0 | 112.3 | -0.2% | 113.0 | 99.5 | 80.2 |
@@ -73,7 +70,6 @@ Ongoing geopolitical developments in 2025 appear to be a key factor affecting th
 
 no fresh sales to report
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 14/Mar/24 | 80 | 120 | 180 |
@@ -89,8 +85,8 @@ no fresh sales to report
 | 14/Jan/25 | 30 | 70 | 80 |
 | 14/Feb/25 | 25 | 65 | 70 |
 | 14/Mar/25 | 20 | 60 | 60 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 14/Mar/24 | 320 | 280 | 340 | 300 |
@@ -129,10 +125,10 @@ Suezmax T/C earnings averaged \$ 46,816/day, up +26.60% w -o- w. On the Aframax 
 | BHSI | 572 | $10,298 | 556 | $10,003 | **16** | **2.9%** | 702 | 586 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 11 to 13 mos | Cemtex Sincerity | 2018 | 82,200 dwt | dely Kinoura 25 Mar red worldwide | $15,500/day | cnr |
-| 11 to 13 mos | Stella Navis | 2021 | 81,965 dwt | dely Paradip 28/31 Mar red worldwide | $15,500/day | cnr |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 11 to 13 mos | Cemtex Sincerity | 2018 | 82,200 dwt |  |  |
+| 11 to 13 mos | Stella Navis | 2021 | 81,965 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | 14/03/2025 | 07/03/2025 | ±% | Diff | 2024 | 2023 |
@@ -147,7 +143,6 @@ Suezmax T/C earnings averaged \$ 46,816/day, up +26.60% w -o- w. On the Aframax 
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 14/Mar/24 | 4000 | 2000 | 1000 | 800 | 2200 |
@@ -165,7 +160,6 @@ Suezmax T/C earnings averaged \$ 46,816/day, up +26.60% w -o- w. On the Aframax 
 | 14/Mar/25 | 2800 | 1200 | 800 | 500 | 1500 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 14/Mar/24 | 32000 | 16000 | 12000 | 10000 |
@@ -299,7 +293,6 @@ Another lethargic week for the Turkish market, with the landscape remaining unch
 | USD/TRY | 36.51 | 36.49 | 0.1% | 36.51 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | RUN FU 6 | 28,294 | 6,262 | 1995 | NKK, Japan | BC | $ 435/Ldt | Bangladeshi |  |

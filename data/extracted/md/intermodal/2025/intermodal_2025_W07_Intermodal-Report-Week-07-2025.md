@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 By <u>Nikos Tagoulis, Senior Analyst</u>
 
@@ -17,7 +15,6 @@ While its shipbuilding sector currently ranks low on the global scale, the gover
 
 # Intermodal Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 14/02/2025 WS points | 14/02/2025 $/day | 07/02/2025 WS points | 07/02/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 265k | MEG-SPORE | 61 | 41,484 | 68 | 49,225 | -15.7% | 37,255 | 39,466 |
@@ -83,10 +80,10 @@ Last week the crude oil market witnessed mixed results, amid a sentiment of unce
 | BHSI | 472 | $8,498 | 398 | $7,164 | **74** | **18.6%** | 702 | 586 |
 
 ### Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| min 25 October 2026/max 25 December 2026 | SAN FRANCISCO | 2017 | 208,006 dwt | dely Zhoushan 27 Feb redel worldwide | $26,000/day | Swissmarine |
-| 11 to 13 mos | MSXT HELEN | 2022 | 85,296 dwt | D/C Matarbari 15/18 Feb redel worldwide | $14,750/day | Classic Maritime |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| min 25 October 2026/max 25 December 2026 | SAN FRANCISCO | 2017 | 208,006 dwt |  |  |
+| 11 to 13 mos | MSXT HELEN | 2022 | 85,296 dwt |  |  |
 
 ### Baltic Indices
 | Index Name | Current Index | Current $/day |
@@ -98,7 +95,6 @@ Last week the crude oil market witnessed mixed results, amid a sentiment of unce
 | BDI | 1600 | 900 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Line | 14/Feb/24 $/day | 14/Feb/24 $/day |
 | --- | --- | --- |
 | Average of the 5 T / C | 25000 | 5000 |
@@ -141,7 +137,6 @@ Supramax 10TC averaged \$ 7,151/day up +20.50% w-o-w, while the Handysize 7TC av
 ## Secondhand Sales
 
 ## Secondhand Sales
-
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MR1 | GOLDEN DAHLIA | 34,834 | 2021 | FUJIAN MAWEI, China | WinGD | Nov-26 | DH | $ 32.8m | UK based (Union Maritime) | Eco |
@@ -206,7 +201,6 @@ In Pakistan, the government is grappling with challenging financial conditions. 
 
 Another week of limited activity for the Turkish ship recycling market with poor buying interest persisting. However, local steel demand showed positive signs, supported by higher exports of finished steel. Meanwhile, adverse weather conditions affected the domestic demand for finished steel products.
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | 14/02/2025 | 07/02/2025 | ±% | YTD High | YTD Low | 2024 | 2023 | 2022 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |  |  |
@@ -219,8 +213,8 @@ Another week of limited activity for the Turkish ship recycling market with poor
 | India | 425 | 425 | 0.0% | 445 | 425 | 485 | 522 | 583 |
 | Pakistan | 420 | 420 | 0.0% | 425 | 420 | 482 | 515 | 587 |
 | Turkey | 280 | 280 | 0.0% | 310 | 280 | 337 | 315 | 304 |
-## Currencies
 
+## Currencies
 | Markets | Current | Previous | ±% | YTD High |
 | --- | --- | --- | --- | --- |
 | USD/BDT | 121.00 | 121.90 | -0.7% | 121.99 |
@@ -229,7 +223,6 @@ Another week of limited activity for the Turkish ship recycling market with poor
 | USD/TRY | 36.21 | 35.99 | 0.6% | 36.21 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | RUN FU 7 | 38,852 | 7,236 | 1990 | IHI, Japan | BC | $ 445.0m | Bangladeshi |

@@ -48,22 +48,22 @@ Quiet week overall in the Handy segment with not much activity to note. Inter Pa
 
 ## Baltic Exchange Dry Bulk Indices
 
-| INDICES |  | CURRENT | LAST | WEEK LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-|---|---|---|---|---|---|---|---|
-| BDI |  | 1,688 | 1,877 | 1,048 | +10.07% |  | +61.07% |
-| BCI |  | 2,640 | 3,319 | 1,448 | -20.46% |  | +82.32% |
-| BPI |  | 1,345 | 1,267 | 953 | +6.16% |  | +41.13% |
-| BSI |  | 967 | 1,144 | 819 | -15.47% |  | +18.07% |
-| BHSI |  | 605 | 719 Dry | 508 Bulk Values (Weekly) | -15.86% |  | +19.09% |
-| TYPE | DWT | NB | CONTRACT | NB PROMPT DELIVERY | 5 YEARS 10 | YEARS | 15 YEARS |
-| CAPE | 180,000 |  | 74 | 76 | 62 | 45 (E) | 29 |
-| KAMSARMAX | 82,000 |  | 37 | 39 | 32 | 23 (E) | 16 |
-| ULTRAMAX | 64,000 |  | 34 | 38 | 31 (E) | 22 | 15 (56K) |
-| HANDY | 38,000 |  | 30 | 33 | 25 | 18 | 14 |
-| *(amount in | USD million) \|(E)-ecounits |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
+| INDICES | CURRENT | LAST | WEEK LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
+| BDI | 1,688 | 1,877 | 1,048 | +10.07% |  | +61.07% |
+| BCI | 2,640 | 3,319 | 1,448 | -20.46% |  | +82.32% |
+| BPI | 1,345 | 1,267 | 953 | +6.16% |  | +41.13% |
+| BSI | 967 | 1,144 | 819 | -15.47% |  | +18.07% |
+| BHSI | 605 | 719 Dry | 508 Bulk Values (Weekly) | -15.86% |  | +19.09% |
+| TYPE | NB | CONTRACT | NB PROMPT DELIVERY | 5 YEARS 10 | YEARS | 15 YEARS |
+| CAPE |  | 74 | 76 | 62 | 45 (E) | 29 |
+| KAMSARMAX |  | 37 | 39 | 32 | 23 (E) | 16 |
+| ULTRAMAX |  | 34 | 38 | 31 (E) | 22 | 15 (56K) |
+| HANDY |  | 30 | 33 | 25 | 18 | 14 |
+| *(amount in | (E)-ecounits |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
 
 Dry Bulk - S&P Report
 

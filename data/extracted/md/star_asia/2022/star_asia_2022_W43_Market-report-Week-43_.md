@@ -96,27 +96,27 @@ The Pacific had a strong start, but the end of the week was more subdued with th
 
 # Dry Bulk - S&P Report
 
-| VESSEL NAME | TYPE | DWT | YEAR | BUILT |  | PRICE | COMMENTS | / BUYERS |
-|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  | (MILLION) | USD |  |  |
-| ORIENT ANGEL | CAPE | 176,859 | 2007 | JAPAN |  | N/A | TURKISH | BUYERS |
-| JIN LANG / JIN MEI | POST | PMAX 93,280 | 2010 | CHINA |  | 34.5 EN BLOC | GREEK | BUYERS |
-| GREAT GLEN / GREAT ANIMATION | POST | PMAX 93,252 / 93,204 | 2010 / 2011 | CHINA |  | 37.0 EN BLOC | MIDDLE | EASTERN BUYERS |
-| AROUZU | KMAX | 82,113 | 2012 | JAPAN |  | UNDISCLOSED | GREEK | BUYERS |
-| CCS ORCHID / MSXT HERA | KMAX | 81,966 / 81,738 | 2017 / 2018 | CHINA |  | 54.0 EN BLOC | CHINESE | BUYERS |
-| TAI PROSPERITY | PANAMAX | 77,747 | 2005 | TAIWAN |  | 11.6 | CHINESE | BUYERS |
-| DOOYANG JEJU | PANAMAX | 76,634 | 2002 | JAPAN |  | 9.9 |  | UNDISCLOSED |
-| BLUE CHIP | PANAMAX | 76,596 | 2007 | JAPAN |  | 15.0 | S. KOREAN | BUYERS |
-| CABRILLO | PANAMAX | 75,200 | 2010 | CHINA |  | 15.8 |  | UNDISCLOSED |
-| OCEAN SATOKO | HANDY | 37,215 | 2011 | S. KOREA |  | 17.0 | VIETNAMESE | BUYERS |
-| YANGTZE ETERNAL | HANDY | 32,573 | 2011 | CHINA |  | 13.5 |  | UNDISCLOSED |
-| ORIENT MATE | HANDY | 32,471 Dry | 2014 Bulk (Weekly) | S. KOREA Values |  | 16.8 | GREEK | BUYERS |
-| TYPE | DWT | NB CONTRACT | NB | PROMPT DELIVERY |  | 5 YEARS | 10 YEARS | 20 YEARS |
-| CAPE | 180,000 | 63 |  | 56 |  | 39 | 30 | 14 |
-| KAMSARMAX | 82,000 | 36 |  | 37 |  | 31 | 22 | 12 |
-| SUPRAMAX | 56,000 | 33 |  | 37 |  | 30 | 21 | 9 |
-| HANDY | 38,000 | 29 |  | 29 |  | 25 | 17 | 6 |
-| *(AmountinUSD million) |  |  |  |  |  |  |  |  |
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE | COMMENTS | / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  | USD |  |  |
+| ORIENT ANGEL | CAPE | 176,859 | 2007 | JAPAN | N/A | TURKISH | BUYERS |
+| JIN LANG / JIN MEI | POST | PMAX 93,280 | 2010 | CHINA | 34.5 EN BLOC | GREEK | BUYERS |
+| GREAT GLEN / GREAT ANIMATION | POST | PMAX 93,252 / 93,204 | 2010 / 2011 | CHINA | 37.0 EN BLOC | MIDDLE | EASTERN BUYERS |
+| AROUZU | KMAX | 82,113 | 2012 | JAPAN | UNDISCLOSED | GREEK | BUYERS |
+| CCS ORCHID / MSXT HERA | KMAX | 81,966 / 81,738 | 2017 / 2018 | CHINA | 54.0 EN BLOC | CHINESE | BUYERS |
+| TAI PROSPERITY | PANAMAX | 77,747 | 2005 | TAIWAN | 11.6 | CHINESE | BUYERS |
+| DOOYANG JEJU | PANAMAX | 76,634 | 2002 | JAPAN | 9.9 |  | UNDISCLOSED |
+| BLUE CHIP | PANAMAX | 76,596 | 2007 | JAPAN | 15.0 | S. KOREAN | BUYERS |
+| CABRILLO | PANAMAX | 75,200 | 2010 | CHINA | 15.8 |  | UNDISCLOSED |
+| OCEAN SATOKO | HANDY | 37,215 | 2011 | S. KOREA | 17.0 | VIETNAMESE | BUYERS |
+| YANGTZE ETERNAL | HANDY | 32,573 | 2011 | CHINA | 13.5 |  | UNDISCLOSED |
+| ORIENT MATE | HANDY | 32,471 Dry | 2014 Bulk (Weekly) | S. KOREA Values | 16.8 | GREEK | BUYERS |
+| TYPE | DWT | NB CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 20 YEARS |
+| CAPE | 180,000 | 63 |  | 56 | 39 | 30 | 14 |
+| KAMSARMAX | 82,000 | 36 |  | 37 | 31 | 22 | 12 |
+| SUPRAMAX | 56,000 | 33 |  | 37 | 30 | 21 | 9 |
+| HANDY | 38,000 | 29 |  | 29 | 25 | 17 | 6 |
+| *(AmountinUSD million) |  |  |  |  |  |  |  |
 
 [Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
@@ -221,18 +221,18 @@ shipping industry is starting to bottom out.
 
 # Containers S&P Report
 
-| VESSEL NAME | TYPE |  | YEAR | BUILT | PRICE | COMMENTS | / |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  | (MILLION) | USD |  | BUYERS |
-|  |  | NO | NEW SALES | REPORTED |  |  |  |
-|  |  |  | Containers (Weekly) | Values |  |  |  |
-| CONTAINERS | GEARED / |  | NB | NB PROMPT | 5 YEARS | 10 YEARS | 20 YEARS |
-| (by TEU) | GEARLESS |  | CONTRACT | DELIVERY |  |  |  |
-| 900 - 1,200 | Geared |  | 24 | 29 | 22 | 17 | 13 |
-| 1,600 - 1,800 | Geared |  | 29 | 36 | 31 | 24 | 19 |
-| 2,700 - 2,900 | Gearless |  | 43 | 43 | 38 | 30 | 25 |
-| 5,500 - 7,000 | Gearless |  | 85 | 115 | 95 | 77 | N/A |
-| *(amount inUSD million) |  |  |  |  |  |  |  |
+| VESSEL NAME | TYPE | YEAR | BUILT | PRICE | COMMENTS | / |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  | (MILLION) | USD |  | BUYERS |
+|  |  | NEW SALES | REPORTED |  |  |  |
+|  |  | Containers (Weekly) | Values |  |  |  |
+| CONTAINERS | GEARED / | NB | NB PROMPT | 5 YEARS | 10 YEARS | 20 YEARS |
+| (by TEU) | GEARLESS | CONTRACT | DELIVERY |  |  |  |
+| 900 - 1,200 | Geared | 24 | 29 | 22 | 17 | 13 |
+| 1,600 - 1,800 | Geared | 29 | 36 | 31 | 24 | 19 |
+| 2,700 - 2,900 | Gearless | 43 | 43 | 38 | 30 | 25 |
+| 5,500 - 7,000 | Gearless | 85 | 115 | 95 | 77 | N/A |
+| *(amount inUSD million) |  |  |  |  |  |  |
 
 [Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 
@@ -377,7 +377,6 @@ The ship recycling markets remained on the sidelines with no signs of any improv
 | USD / INR (INDIA) | 82.29 | 82.52 | +0.28 |
 | USD / PKR (PAKISTAN) | 221.83 | 220.90 | -0.42 |
 | USD / TRY (TURKEY) | 18.58 | 18.57 | -0.05 |
-
 | Commodity HMS 1/2 & Iron Ore | Price Tangshan Billet |
 |---|---|
 | COMMODITY SIZE / GRADE PRICE | CHANGE CHANGE LAST LAST W-O-W Y-O-Y WEEK YEAR |

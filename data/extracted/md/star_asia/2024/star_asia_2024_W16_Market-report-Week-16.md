@@ -130,22 +130,22 @@ LR: It was a positive week in the MEG for the LRs with both sizes recording incr
 
 # Tanker 12 months T/C rates average (in USD/day)
 
-| TYPE | DWT |  | CURRENT LAST | WEEK | LAST | YEAR W-O-W |
-| --- | --- | --- | --- | --- | --- | --- |
-| VLCC | 310,000 |  | 48,500 | 48,500 | 40,000 |  |
-| SUEZMAX | 150,000 |  | 42,500 | 42,500 | 42,500 |  |
-| AFRAMAX | 110,000 |  | 42,500 | 42,500 | 47,500 |  |
-| LR1 | 74,000 |  | 37,500 | 37,500 | 35,500 |  |
-| MR | 47,000 |  | 30,000 | 30,000 Tankers S&P | 30,000 Report |  |
-|  |  |  |  |  |  | PRICE |
-| VESSEL | NAME | TYPE | DWT | YEAR | BUILT |  |
-|  |  |  |  |  | (MILLION) | USD |
-| PHOEBE |  | VLCC | 311,110 | 2005 | JAPAN | 40.0 |
-| AMFITRION |  | MR | 50,102 | 2017 | CHINA | 43.5 |
-| JIANGSU YZJ2023-1515 JIANGSU YCJ2023-1516 | NEWYANGZI / NEWYANGZI | MR | 49,990 | 2025 | CHINA | 53.0 |
-| GRAND | ACES | MR | 46,176 | 2006 | S. KOREA | 21.0 |
-| GOLDEN | LAVENDER | MR | 34,826 | 2022 | CHINA | 36.0 |
-| LIVARDEN | PROD | / CHEM | 19,951 | 2007 | JAPAN | 18.0 |
+| TYPE | DWT | CURRENT LAST | WEEK | LAST | YEAR W-O-W |
+| --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 48,500 | 48,500 | 40,000 |  |
+| SUEZMAX | 150,000 | 42,500 | 42,500 | 42,500 |  |
+| AFRAMAX | 110,000 | 42,500 | 42,500 | 47,500 |  |
+| LR1 | 74,000 | 37,500 | 37,500 | 35,500 |  |
+| MR | 47,000 | 30,000 | 30,000 Tankers S&P | 30,000 Report |  |
+|  |  |  |  |  | PRICE |
+| VESSEL | NAME | DWT | YEAR | BUILT |  |
+|  |  |  |  | (MILLION) | USD |
+| PHOEBE |  | 311,110 | 2005 | JAPAN | 40.0 |
+| AMFITRION |  | 50,102 | 2017 | CHINA | 43.5 |
+| JIANGSU YZJ2023-1515 JIANGSU YCJ2023-1516 | NEWYANGZI / NEWYANGZI | 49,990 | 2025 | CHINA | 53.0 |
+| GRAND | ACES | 46,176 | 2006 | S. KOREA | 21.0 |
+| GOLDEN | LAVENDER | 34,826 | 2022 | CHINA | 36.0 |
+| LIVARDEN | PROD | 19,951 | 2007 | JAPAN | 18.0 |
 
 Y-O-Y CHANGE 0 +21.25% 0 0 0 -10.53% 0 +5.63% 0 0
 

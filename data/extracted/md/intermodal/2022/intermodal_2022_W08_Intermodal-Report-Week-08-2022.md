@@ -60,7 +60,6 @@ The Baltic Exchange
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | Current WS points | Current $/day | Previous WS points | Previous $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 47 | 1,864 | 32 | -11,352 | 116.4% | 2,246 | 52,119 |
@@ -80,8 +79,8 @@ The Baltic Exchange
 |  | 55K | UKC-USG | 117 | 1,749 | 114 | 2,680 | -34.7% | 2,822 | 12,120 |
 |  | 55K | MED-USG | 117 | 1,797 | 114 | 2,616 | -31.3% | 4,818 | 12,965 |
 |  | 50k | CARIBS-USG | 207 | 19,975 | 209 | 22,302 | -10.4% | 8,548 | 17,651 |
-## TC Rates
 
+## TC Rates
 | Sector | Tenor | Current | Previous | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 24,000 | 26,000 | -7.7% | -2000 | 25,684 | 42,038 |
@@ -96,14 +95,13 @@ The Baltic Exchange
 |  | 52k 3yr TC | 13,750 | 13,750 | 0.0% | 0 | 13,804 | 15,916 |
 | Handy | 36k 1yr TC | 11,000 | 11,000 | 0.0% | 0 | 11,292 | 13,966 |
 |  | 36k 3yr TC | 12,250 | 12,250 | 0.0% | 0 | 13,054 | 14,051 |
-## Indicative Period Charters
 
+## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 mos | ASAHI PRINCESS | 2009 | 105,372 dwt | $14,000/day | Saudi Aramco |
+| 6 mos | ASAHI PRINCESS | 2009 | 105,372 dwt |  |  |
 
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 25/Feb/21 | 50 | 80 | 150 |
@@ -121,7 +119,6 @@ The Baltic Exchange
 | 25/Feb/22 | 50 | 70 | 150 |
 
 ### Clean WS Rates (1-Year Trend)
-
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 25/Feb/21 | 100 | 100 | 100 | 150 |
@@ -137,8 +134,8 @@ The Baltic Exchange
 | 25/Dec/21 | 100 | 100 | 100 | 300 |
 | 25/Jan/22 | 100 | 100 | 100 | 250 |
 | 25/Feb/22 | 100 | 100 | 100 | 250 |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Feb-22 avg | Jan-22 avg | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | **300KT DH** | 70.3 | 72.3 | -2.8% | 69.7 | 71.5 | 72.1 |
@@ -178,13 +175,12 @@ In the Suezmax sector we had sale of the "ERVIKEN" (152,146dwt-blt '04, S. Korea
 | BHSI | 1,399 | $25,174 | 1,285 | $23,130 | 114 | 8.8% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 5 to 7 mos | THASSOS WARRIOR | 2010 | 93,243 dwt | Kapar 1/5 Mar | $26,000/day | Cobelfret |
-| 4 to 6 mos | PAOVOSA WISDOM III | 2011 | 28,232 dwt | Arabian Gulf 4/7 Mar | $26,000/day | cnr |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 5 to 7 mos | THASSOS WARRIOR | 2010 | 93,243 dwt |  |  |
+| 4 to 6 mos | PAOVOSA WISDOM III | 2011 | 28,232 dwt |  |  |
 
 ## TC Rates
-
 | Sector | Tenor | 25/02/2022 | 18/02/2022 | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capesize | 180K 6mnt TC | 26,500 | 24,500 | 8.2% | 2,000 | 32,684 | 15,361 |
@@ -201,7 +197,6 @@ In the Suezmax sector we had sale of the "ERVIKEN" (152,146dwt-blt '04, S. Korea
 |  | 32K 3yr TC | 15,000 | 15,000 | 0.0% | 0 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 25/Feb/21 | 1,800 | 2,200 | 2,500 | 1,500 | 2,000 |
@@ -219,7 +214,6 @@ In the Suezmax sector we had sale of the "ERVIKEN" (152,146dwt-blt '04, S. Korea
 | 25/Feb/22 | 2,200 | 2,300 | 2,500 | 1,600 | 1,700 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 25/Feb/21 | 15000 | 20000 | 22000 | 18000 |
@@ -267,7 +261,6 @@ In the Supramax sector we had the sale of the "SITC TAISHAN" (58,107dwt-blt '10,
 
 # Secondhand Sales
 ## Bulk Carriers
-
 | Sector | Size | Bulk Carriers | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | DONG-A ASTREA | 179,329 | 2010 | HYUNDAI ULSAN, S. Korea | MAN-B&amp;W | Apr-25 |  |  |  |  |
@@ -290,7 +283,6 @@ In the Supramax sector we had the sale of the "SITC TAISHAN" (58,107dwt-blt '10,
 
 # Intermodal Secondhand Sales
 ## Tankers
-
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | T. PROGRESS | 305,795 | 2002 | DAEWOO, S. Korea | MAN-B\&amp;W | Nov-22 | DH | $ 28.8m | undisclosed | 43,254 Idt |
@@ -299,8 +291,8 @@ In the Supramax sector we had the sale of the "SITC TAISHAN" (58,107dwt-blt '10,
 | MR1 | DUKE I | 40,050 | 2002 | HYUNDAI MIPO, S. Korea | MAN-B\&amp;W |  | DH | $ 7.1m | undisclosed |  |
 | SMALL | SAPPER | 14,002 | 1997 | MORINI, Italy | Stork-Wartsila | May-22 | DH | high $ 5.0m | undisclosed | St-St |
 | SMALL | NEELAMBARI | 13,103 | 2010 | SEKWANG, S. Korea | MAN-B\&amp;W | Feb-25 | DH | $ 7.3m | undisclosed |  |
-## Containers
 
+## Containers
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FEEDER | SABRE TRADER | 1,774 | 2018 | JIANGSU NEWYANGZI, China | Wartsila | Sep-23 |  | $ 44.0m | undisclosed |  |
@@ -388,7 +380,6 @@ Activity in the newbuilding market resumed last week, with the recently rumored 
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | 25/02/2022 | 18/02/2022 | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |
@@ -419,8 +410,8 @@ The cloud of uncertainty that the Russian-Ukraine war has brought to the world c
 | 25/Dec/21 | 610 | 550 | 600 | 320 |
 | 25/Jan/22 | 640 | 600 | 610 | 340 |
 | 25/Feb/22 | 650 | 610 | 620 | 360 |
-## Demolition Sales
 
+## Demolition Sales
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | AQUANUS | 2,006 | 109,672 | 2006 | DALIAN, China | TANKER | $ 635/Ldt | undisclosed | as-is China |

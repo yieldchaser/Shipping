@@ -53,7 +53,6 @@ Shanghai 200122 China
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | Current WS points | Current $/day | Previous WS points | Previous $/day | $/day ±% | 2020 $/day | 2019 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 32 | -1,339 | 32 | -2,490 | 46.2% | 52,119 | 45,517 |
@@ -73,8 +72,8 @@ Shanghai 200122 China
 | Dirty | 55K | UKC-USG | 93 | 1,572 | 95 | 1,437 | 9.4% | 12,120 | 15,960 |
 |  | 55K | MED-USG | 93 | 1,606 | 95 | 1,528 | 5.1% | 12,965 | 15,327 |
 |  | 50k | CARIBS-USG | 94 | -296 | 99 | -67 | -341.8% | 17,651 | 18,781 |
-## TC Rates
 
+## TC Rates
 | Sector | Tenor | Current | Previous | ±% | Diff | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 25,000 | 25,000 | 0.0% | 0 | 42,038 | 37,462 |
@@ -89,13 +88,13 @@ Shanghai 200122 China
 |  | 52k 3yr TC | 13,500 | 13,500 | 0.0% | 0 | 15,916 | 16,181 |
 | Handy | 36k 1yr TC | 10,250 | 10,250 | 0.0% | 0 | 13,966 | 13,856 |
 |  | 36k 3yr TC | 13,250 | 13,250 | 0.0% | 0 | 14,051 | 13,753 |
-## Indicative Period Charters
 
+## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | KASAGISAN | 2006 |  | $22,000/day |  |
-### Dirty WS Rates (1-Year Trend)
+| 12 mos | KASAGISAN | 2006 |  |  |  |
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 6/Aug/20 | 50 | 40 | 70 |
@@ -111,8 +110,8 @@ Shanghai 200122 China
 | 6/Jun/21 | 50 | 40 | 80 |
 | 6/Jul/21 | 50 | 40 | 80 |
 | 6/Aug/21 | 50 | 40 | 80 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 6/Aug/20 | 100 | 120 | 140 | 160 |
@@ -128,8 +127,8 @@ Shanghai 200122 China
 | 6/Jun/21 | 100 | 120 | 140 | 150 |
 | 6/Jul/21 | 100 | 120 | 140 | 150 |
 | 6/Aug/21 | 100 | 120 | 140 | 150 |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Aug-21 avg | Jul-21 avg | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300KT DH | 72.5 | 72.0 | 0.7% | 71.5 | 72.4 | 65.6 |
@@ -168,13 +167,12 @@ In the MR sector we had the sale of the "MAERSK ERIK" (40,083dwt-blt '08, S. Kor
 | BHSI | 1,766 | $31,793 | 1,760 | $31,676 | 6 | 0.4% | 447 | 490 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 3-5 mos | DONG-A EOS | 2009 | 179,329 dwt | Hadong 15/16 Aug | $33,500/day | cnr |
-| 6-8 mos | K WINNER | 2008 | 31,945 dwt | Sin-Japan 10/20 Sep | $26,000/day | IMC |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 3-5 mos | DONG-A EOS | 2009 | 179,329 dwt |  |  |
+| 6-8 mos | K WINNER | 2008 | 31,945 dwt |  |  |
 
 ## TC Rates
-
 | Sector | Tenor | 06/08/2021 | 30/07/2021 | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capesize | 180K 6mnt TC | 40,250 | 41,250 | -2.4% | -1,000 | 15,561 | 18,839 |
@@ -208,7 +206,6 @@ In the MR sector we had the sale of the "MAERSK ERIK" (40,083dwt-blt '08, S. Kor
 | 6/Aug/21 | 3800 | 3600 | 2800 | 1500 | 4000 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 6/Aug/20 | 15000 | 12000 | 10000 | 10000 |
@@ -267,7 +264,6 @@ In the Supramax sector we had the sale of the "ADITYA" (55,496dwt-blt '08, Japan
 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
-
 | Sector | Size | 06/08/2021 | 30/07/2021 | ±% | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Bulkers |  |  |  |  |  |  |
@@ -324,8 +320,8 @@ The stable activity extended in the newbuilding front throughout the past days. 
 | 6/Jun/21 | 95.0 | 62.0 | 46.0 | 41.0 | 34.0 |
 | 6/Jul/21 | 96.0 | 63.0 | 47.0 | 42.0 | 34.0 |
 | 6/Aug/21 | 97.0 | 64.0 | 48.0 | 43.0 | 34.0 |
-## Newbuilding Orders
 
+## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Tanker | 114,000 dwt | SWS, China | 2024 | Greek (Enesel) | around $50.0m | LR2, options declared, EEDI phase 3, Tier III, scrubber fitted |

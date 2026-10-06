@@ -48,26 +48,26 @@ Handysize saw a generally positive week but rates in the Pacific fell slightly a
 
 # Baltic Exchange Dry Bulk Indices
 
-| INDICES | CURRENT |  | LAST | WEEK | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-|---|---|---|---|---|---|---|---|---|---|
-| BDI | 1,881 |  |  | 1,797 |  | 1,055 | +4.67% |  | +78.29% |
-| BCI | 2,998 |  |  | 2,613 |  | 1,514 | +14.73% |  | +98.02% |
-| BPI | 1,750 |  |  | 1,824 |  | 1,146 | -4.06% |  | +52.71% |
-| BSI | 1,254 |  |  | 1,326 |  | 736 | -5.43% |  | +70.38% |
-| BHSI | 714 |  |  | 688 |  | 501 | +3.78% |  | +42.51% |
-|  |  |  |  | Dry Bulk | (Weekly) | Values |  |  |  |
-| TYPE | DWT | NB |  | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 | YEARS 15 YEARS |
-| CAPE | 180,000 |  | 74 |  |  | 77 | 64 | 45 | 29 |
-| KAMSARMAX | 82,000 |  | 37 |  |  | 43 | 38 | 29 | 19 |
-| SUPRAMAX | 56,000 |  | 34 |  |  | 42 | 36 | 28 | 15 |
-| HANDY | 38,000 |  | 30 |  |  | 35 | 28 | 21 | 12 |
-| *(amount in USD | million) |  |  |  |  |  |  |  |  |
-|  | Bulker | 12 | months | T/C |  | rates average | (in | USD/day) |  |
-| TYPE | DWT | CURRENT |  | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-| CAPESIZE | 180,000 | 24,000 |  | 24,000 |  | 16,000 | 0 |  | +50.00% |
-| PANAMAX | 75,000 | 15,500 |  | 15,800 |  | 12,500 | -1.90% |  | +24.00% |
-| SUPRAMAX | 58,000 | 15,750 |  | 16,250 |  | 12,250 | -3.08% |  | +28.57% |
-| HANDYSIZE | 38,000 | 14,500 |  | 14,500 |  | 9,350 | 0 |  | +55.08% |
+| INDICES | CURRENT | LAST | WEEK | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| BDI | 1,881 |  | 1,797 |  | 1,055 | +4.67% |  | +78.29% |
+| BCI | 2,998 |  | 2,613 |  | 1,514 | +14.73% |  | +98.02% |
+| BPI | 1,750 |  | 1,824 |  | 1,146 | -4.06% |  | +52.71% |
+| BSI | 1,254 |  | 1,326 |  | 736 | -5.43% |  | +70.38% |
+| BHSI | 714 |  | 688 |  | 501 | +3.78% |  | +42.51% |
+|  |  |  | Dry Bulk | (Weekly) | Values |  |  |  |
+| TYPE | DWT |  | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 | YEARS 15 YEARS |
+| CAPE | 180,000 | 74 |  |  | 77 | 64 | 45 | 29 |
+| KAMSARMAX | 82,000 | 37 |  |  | 43 | 38 | 29 | 19 |
+| SUPRAMAX | 56,000 | 34 |  |  | 42 | 36 | 28 | 15 |
+| HANDY | 38,000 | 30 |  |  | 35 | 28 | 21 | 12 |
+| *(amount in USD | million) |  |  |  |  |  |  |  |
+|  | Bulker | months | T/C |  | rates average | (in | USD/day) |  |
+| TYPE | DWT |  | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+| CAPESIZE | 180,000 |  | 24,000 |  | 16,000 | 0 |  | +50.00% |
+| PANAMAX | 75,000 |  | 15,800 |  | 12,500 | -1.90% |  | +24.00% |
+| SUPRAMAX | 58,000 |  | 16,250 |  | 12,250 | -3.08% |  | +28.57% |
+| HANDYSIZE | 38,000 |  | 14,500 |  | 9,350 | 0 |  | +55.08% |
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -120,22 +120,22 @@ LR: In the Middle East, LR2 rates for the MEG/Far East route fell by 40 points w
 
 # Tanker 12 months T/C rates average (in USD/day)
 
-| TYPE | DWT |  | CURRENT LAST | WEEK | LAST | YEAR W-O-W | CHANGE Y-O-Y CHANGE |
-|---|---|---|---|---|---|---|---|
-| VLCC | 310,000 |  | 48,000 | 48,000 | 36,500 | 0 | +31.51% |
-| SUEZMAX | 150,000 |  | 44,500 | 44,500 | 39,500 | 0 | +12.66% |
-| AFRAMAX | 110,000 |  | 49,000 | 45,000 | 43,500 | +8.89% | +12.64% |
-| LR1 | 74,000 |  | 37,500 | 37,500 | 35,000 | 0 | +7.14% |
-| MR | 47,000 |  | 30,750 | 30,750 | 26,000 | 0 | +18.27% |
-|  |  |  |  | Tankers S&P | Report |  |  |
-| VESSEL | NAME | TYPE | DWT | YEAR | BUILT | PRICE | COMMENTS / |
-|  |  |  |  |  | (MILLION) | USD | BUYERS |
-| SEOUL | SPIRIT | SUEZ | 159,966 | 2005 | S. KOREA | 34.5 | UNDISCLOSED |
-| SANMAR | SONNET | AFRA | 99,999 | 1997 | JAPAN | 28.6 | UNDISCLOSED |
-| THEODOSIA |  | LR1 | 70,312 | 2004 | S. KOREA | 18.5 MIDDLE | EAST BUYERS |
-| ALHENA |  | MR | 52,420 | 2012 | CHINA | 32.5 | GREEK BUYERS |
-| GRACE | FORTUNA | MR | 47,786 | 2007 | S. KOREA | 23.2 | UNDISCLOSED |
-| MTM | ANTWERP | PROD/ CHEM | 20,704 | 2004 | JAPAN | 15.0 (SS) | UNDISCLOSED |
+| TYPE | DWT | CURRENT LAST | WEEK | LAST | YEAR W-O-W | CHANGE Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 48,000 | 48,000 | 36,500 | 0 | +31.51% |
+| SUEZMAX | 150,000 | 44,500 | 44,500 | 39,500 | 0 | +12.66% |
+| AFRAMAX | 110,000 | 49,000 | 45,000 | 43,500 | +8.89% | +12.64% |
+| LR1 | 74,000 | 37,500 | 37,500 | 35,000 | 0 | +7.14% |
+| MR | 47,000 | 30,750 | 30,750 | 26,000 | 0 | +18.27% |
+|  |  |  | Tankers S&P | Report |  |  |
+| VESSEL | NAME | DWT | YEAR | BUILT | PRICE | COMMENTS / |
+|  |  |  |  | (MILLION) | USD | BUYERS |
+| SEOUL | SPIRIT | 159,966 | 2005 | S. KOREA | 34.5 | UNDISCLOSED |
+| SANMAR | SONNET | 99,999 | 1997 | JAPAN | 28.6 | UNDISCLOSED |
+| THEODOSIA |  | 70,312 | 2004 | S. KOREA | 18.5 MIDDLE | EAST BUYERS |
+| ALHENA |  | 52,420 | 2012 | CHINA | 32.5 | GREEK BUYERS |
+| GRACE | FORTUNA | 47,786 | 2007 | S. KOREA | 23.2 | UNDISCLOSED |
+| MTM | ANTWERP | 20,704 | 2004 | JAPAN | 15.0 (SS) | UNDISCLOSED |
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -308,9 +308,7 @@ occasionally reaching US$428-430/ton CFR, while buyers aimed for lower prices ar
 
 ## Page 18
 
-**Turkish imported ferrous scrap prices remained slightly elevated as mills continued their**
-
-inquiries in anticipation of a mid-June Holiday, expecting range-bound prices due to equilibrium in the short-sea space. Turkish steel producers began deep-sea bookings last week for July stocks, driven by demand for finished long steel products. Scrap suppliers were reluctant to offer discounts due to sluggish material flow. In May, Turkish producers booked over 30 deep-sea cargoes, mainly for June shipments. Assessment for US-origin HMS (80:20) bulk scrap stood at US$383/ton CFR, with a rise of US$4/ton week-on-week. Turkish rebar export prices were at US$578-580/ton FOB, with the scrap-to-rebar spread at US$195-198/t FOB. Early June was quiet, but trade is expected to resume before Eid al-Adha. European sell-side sentiments remained firm with limited scrap availability. EU-origin HMS (80:20) prices are expected to remain at US$380-382/t CFR. US-origin HMS (90:10) was offered at US$390/ton CFR, while Turkish mills are likely to raise rebar offers to US$585-590/ton FOB.
+Turkish imported ferrous scrap prices remained slightly elevated as mills continued their inquiries in anticipation of a mid-June Holiday, expecting range-bound prices due to equilibrium in the short-sea space. Turkish steel producers began deep-sea bookings last week for July stocks, driven by demand for finished long steel products. Scrap suppliers were reluctant to offer discounts due to sluggish material flow. In May, Turkish producers booked over 30 deep-sea cargoes, mainly for June shipments. Assessment for US-origin HMS (80:20) bulk scrap stood at US$383/ton CFR, with a rise of US$4/ton week-on-week. Turkish rebar export prices were at US$578-580/ton FOB, with the scrap-to-rebar spread at US$195-198/t FOB. Early June was quiet, but trade is expected to resume before Eid al-Adha. European sell-side sentiments remained firm with limited scrap availability. EU-origin HMS (80:20) prices are expected to remain at US$380-382/t CFR. US-origin HMS (90:10) was offered at US$390/ton CFR, while Turkish mills are likely to raise rebar offers to US$585-590/ton FOB.
 
 # HMS 1/2 & Tangshan Billet
 

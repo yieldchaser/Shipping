@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 By Yiannis Parganas, Head of Research Department
 
@@ -17,7 +15,6 @@ From our analytical perspective, we that the likelihood of such an action by Ira
 
 ## Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 26/04/24 WS points | 26/04/24 $/day | 19/04/24 WS points | 19/04/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 64 | 41,936 | 64 | 41,936 | 0.0% | 39,466 | 20,330 |
@@ -35,12 +32,12 @@ From our analytical perspective, we that the likelihood of such an action by Ira
 | Dirty | 55K | UKC-USG | 140 | 14,571 | 145 | 15,746 | -7.5% | 27,274 | 19,982 |
 |  | 55K | MED-USG | 140 | 14,537 | 145 | 15,770 | -7.8% | 27,060 | 21,231 |
 |  | 50k | CARIBS-USG | 209 | 25,471 | 246 | 35,516 | -28.3% | 46,194 | 40,364 |
-## Indicative Period Charters
 
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 6 mos | HAFNIA MALACCA | 2006 | 39,067 dwt | DEL WEST MAY/24 | $27,000/day | Sokana |
-| 7 mos | MP MR TANKER 3 | 2023 | 47,962 dwt | DELEAST APR/24 | $29,000/day | Montfort |
+## Indicative Period Charters
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 6 mos | HAFNIA MALACCA | 2006 | 39,067 dwt |  |  |
+| 7 mos | MP MR TANKER 3 | 2023 | 47,962 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | 26/04/24 | 19/04/24 | ±% | Diff | 2023 | 2022 |
@@ -57,8 +54,8 @@ From our analytical perspective, we that the likelihood of such an action by Ira
 |  | 52k 3yr TC | 27,000 | 27,000 | 0.0% | 0 | 25,152 | 16,426 |
 | Handy | 36k 1yr TC | 28,000 | 28,000 | 0.0% | 0 | 25,760 | 18,601 |
 |  | 36k 3yr TC | 18,000 | 18,000 | 0.0% | 0 | 18,200 | 14,585 |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Apr-24 avg | Mar-24 avg | ±% | 2023 | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300KT DH | 112.8 | 112.0 | **0.7%** | 99.5 | 80.2 | 69.7 |
@@ -91,10 +88,10 @@ The Aframax segment experienced a surge in activity, particularly in the MEG, pu
 | BHSI | 751 | $13,523 | 741 | $13,334 | **10** | **1.4%** | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 11/13 mos | YANGZE 26 |  |  | dely Dalian 25 Apr redel worldwide | $19,000/day |  |
-| 12 mos | BBG HECHI | 2022 |  | dely Dongjiakou 29 Apr redel worldwide | $19,250/day |  |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 11/13 mos | YANGZE 26 |  |  |  |  |
+| 12 mos | BBG HECHI | 2022 |  |  |  |
 
 ## TC Rates
 | Sector | Tenor | 26/04/24 | 19/04/24 | ±% | Diff | 2023 | 2022 |
@@ -109,7 +106,6 @@ The Aframax segment experienced a surge in activity, particularly in the MEG, pu
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 26/Apr/23 | 2000 | 1200 | 1200 | 800 | 1500 |
@@ -127,7 +123,6 @@ The Aframax segment experienced a surge in activity, particularly in the MEG, pu
 | 26/Apr/24 | 2200 | 1600 | 1600 | 900 | 1900 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 26/Apr/23 | 18000 | 12000 | 14000 | 10000 |
@@ -167,7 +162,6 @@ Supramax 10TC averaged \$ 16,014/day up +8.86% w-o-w, while the Handysize 7TC av
 ## Secondhand Sales
 
 ## Bulk Carriers
-
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | AFRA | CLARET PRINCE | 109,005 | 2010 | HUDONG-ZHONGHUA, China | MAN-B\&W | Jan-25 | DH | $ 43.5m | Chinese | BWTS & Scrubber fitted |
@@ -255,7 +249,6 @@ The ship demolition market is still experiencing limited vessel availability and
 | USD/TRY | 32.40 | 32.49 | -0.3% | 32.49 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MSC NILGUN | 42,413 | 12,553 | 1994 | AESA SEVILLA, Spain | CONTAINER | $ 565.0m | Indian |  |

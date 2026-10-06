@@ -1,5 +1,3 @@
-## Weekly Market Report
-
 ## Market Insight
 <u>By Nikos Tagoulis, Senior Analyst</u>
 
@@ -18,7 +16,6 @@ Against this backdrop, the timing of a resumption of East–West pipeline flows 
 # Intermodal Tanker Market
 
 ## Spot Rates
-
 | Sector | Size | Routes | 11/09/2026 WS points | 11/09/2026 $/day | 04/09/2026 WS points | 04/09/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
@@ -89,7 +86,6 @@ Aframax conditions strengthened across most regions, led by sharp gains in the M
 |  | **32K 3yr TC** | 12,000 | 12,000 | 0.0% | 0 | 10,394 | 9,740 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 11/5ep/25 | 3000 | 2000 | 1500 | 1000 | 2000 |
@@ -107,7 +103,6 @@ Aframax conditions strengthened across most regions, led by sharp gains in the M
 | 11/1sep/26 | 5500 | 2500 | 2500 | 1000 | 5500 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 11/5ep/25 | 25000 | 15000 | 15000 | 10000 |
@@ -248,8 +243,8 @@ The Turkish market improved modestly this week, with prices edging higher on the
 | USD/INR | 95.56 | 94.49 | 1.13% | 96.57 |
 | USD/PKR | 277.73 | 277.73 | 0.00% | 280.05 |
 | USD/TRY | 48.56 | 48.43 | 0.27% | 48.56 |
-## Demolition Sales
 
+## Demolition Sales
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | UNIORDER | 47,240 | 7,060 | 1997 | OSHIMA, Japan | BC | $450/Ldt | Bangladeshi | as is Belawan |

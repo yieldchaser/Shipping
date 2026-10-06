@@ -55,7 +55,6 @@ Shanghai 200122 China
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 16/12/22 WS points | 16/12/22 $/day | 09/12/22 WS points | 09/12/22 $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 88 | 53,900 | 84 | 54,338 | -0.8% | 2,246 | 52,119 |
@@ -74,14 +73,14 @@ Shanghai 200122 China
 | Dirty | 55K | UKC-USG | 317 | 61,104 | 317 | 61,212 | -0.2% | 2,822 | 12,120 |
 |  | 55K | MED-USG | 317 | 62,576 | 317 | 62,512 | 0.1% | 4,818 | 12,965 |
 |  | 50k | CARIBS-USG | 474 | 87,172 | 524 | 100,728 | -13.5% | 8,548 | 17,651 |
-## Indicative Period Charters
 
+## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 9 mos | FAIR SKIES | 2007 | 74,032 dwt | $40,000/day | Clearlake |
-| 18 mos | HAWASSA | 2013 | 42,190 dwt | $23,500/day | ST Shipping |
-## TC Rates
+| 9 mos | FAIR SKIES | 2007 | 74,032 dwt |  |  |
+| 18 mos | HAWASSA | 2013 | 42,190 dwt |  |  |
 
+## TC Rates
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | $/day | 16/12/22 | 09/12/22 | ±% | Diff | 2021 | 2020 |  |
@@ -111,8 +110,8 @@ Shanghai 200122 China
 |  | 52k 3yr TC | 20,000 | 20,000 | 0.0% | 0 | 13,804 | 15,916 |
 | Handy | 36k 1yr TC | 28,000 | 28,000 | 0.0% | 0 | 11,292 | 13,966 |
 |  | 36k 3yr TC | 16,000 | 16,000 | 0.0% | 0 | 13,054 | 14,051 |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Dec-22 avg | Nov-22 avg | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | **300KT DH** | 91.0 | 88.8 | 2.5% | 69.7 | 71.5 | 72.1 |
@@ -120,8 +119,8 @@ Shanghai 200122 China
 | **Aframax** | **110KT DH** | 58.0 | 56.8 | 2.2% | 38.7 | 38.8 | 38.3 |
 | **LR1** | **75KT DH** | 52.5 | 43.3 | 21.4% | 31.2 | 30.7 | 31.3 |
 | **MR** | **52KT DH** | 40.5 | 39.3 | 3.2% | 27.6 | 27.5 | 28.6 |
-### Dirty WS Rates (1-Year Trend)
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 16/Dec/21 | 0 | 100 | 100 |
@@ -151,8 +150,8 @@ Shanghai 200122 China
 | 16/Oct/22 | 0 | 200 | 380 |
 | 16/Nov/22 | 0 | 280 | 620 |
 | 16/Dec/22 | 0 | 280 | 200 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 16/Dec/21 | 150 | 150 | 280 | 280 |
@@ -215,13 +214,12 @@ In the MR2 sector we had the sale of the "GWN 3" (50,192dwt-blt '21, S. Korea), 
 | BHSI | 705 | $12,693 | 732 | $13,182 | -27 | -3.7% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 11 to 14 mos | MINT | 2020 | 82,058 dwt | Xinsha 18/22 Dec | $16,000/day | Cargill |
-| 10 to 12 mos | YOUNG HARMONY | 2014 | 63,567 dwt | CJK 13 Dec | $13,850/day | CTM |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 11 to 14 mos | MINT | 2020 | 82,058 dwt |  |  |
+| 10 to 12 mos | YOUNG HARMONY | 2014 | 63,567 dwt |  |  |
 
 ## TC Rates
-
 | Sector | Tenor | 16/12/22 | 09/12/22 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 1yr TC** | 15,250 | 14,500 | **5.2%** | **750** | 26,392 | 14,394 |
@@ -234,7 +232,6 @@ In the MR2 sector we had the sale of the "GWN 3" (50,192dwt-blt '21, S. Korea), 
 |  | **32K 3yr TC** | 9,000 | 9,000 | 0.0% | 0 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 16/Dec/21 | 2800 | 2700 | 2600 | 1600 | 2700 |
@@ -252,7 +249,6 @@ In the MR2 sector we had the sale of the "GWN 3" (50,192dwt-blt '21, S. Korea), 
 | 16/Dec/22 | 2200 | 2100 | 2000 | 1100 | 2100 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 16/Dec/21 | 25000 | 22000 | 20000 | 18000 |
@@ -300,7 +296,6 @@ In the Ultramax sector we had the sale of the "STONY STREAM" (64,000dwt-blt '15,
 
 # Intermodal Secondhand Sales
 ## Tankers
-
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | COSMO ACE | 320,054 | 2010 | HYUNDAI, S. Korea | Wartsila | Jan-25 | DH | region $ 56.5m | undisclosed | BWTS, Scrubber fitted, converted from a VLOC |
@@ -311,14 +306,14 @@ In the Ultramax sector we had the sale of the "STONY STREAM" (64,000dwt-blt '15,
 | AFRA | DELTA PIONEER | 111,013 | 2004 | HYUNDAI, S. Korea | B&amp;W | Oct-24 | DH |  |  |  |
 | LR2 | SAINT GEORGE | 109,390 | 2002 | DALIAN, China | Sulzer | Jun-27 | DH | $ 22.5m | Chinese | BWTS fitted |
 | MR2 | GWN 3 | 50,192 | 2021 | SAMSUNG, S. Korea | MAN-B&amp;W | Jan-26 | DH | $ 50.0m | Japanese | BWTS, Scrubber fitted |
-## Bulk Carriers
 
+## Bulk Carriers
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | LOWLANDS SUNRISE | 181,458 | 2011 | KOYO MIHARA, Japan | MAN-B\&amp;W | Jun-26 |  | $ 26.0m | Greek (Stealth Maritime) | BWTS fitted |
 | UMAX | STONY STREAM | 64,000 | 2015 | CHENGXI, China | MAN-B\&amp;W | Apr-25 | 4 X 30t CRANES | $ 24.2m | US based (Eagle Bulk) | BWTS fitted |
-## Containers
 
+## Containers
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FEEDER | AS CLEOPATRA | 2,742 | 2006 | AKER MTW WERFT, Germany | MAN-B&amp;W | Aug-26 | 3 X 45t CRANES | $ 20.9m | undisclosed |
@@ -330,7 +325,6 @@ In the Ultramax sector we had the sale of the "STONY STREAM" (64,000dwt-blt '15,
 
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
-
 | Sector | Size | 16-Dec-22 | 9-Dec-22 | ±% | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Bulkers |  |  |  |  |  |  |
@@ -383,8 +377,8 @@ Newbuilding sector demonstrated a healthy ordering activity during the last week
 | 16/Oct/22 | 60 | 34 | 34 | 29 |
 | 16/Nov/22 | 60 | 33 | 33 | 28 |
 | 16/Dec/22 | 60 | 33 | 33 | 28 |
-## Newbuilding Orders
 
+## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | Tanker | 50,000 dwt | Zhoushan Changhong, China | 2024-2025 | Chinese (Pro Tanker Investment) | undisclosed |  |
@@ -399,7 +393,6 @@ Newbuilding sector demonstrated a healthy ordering activity during the last week
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | Markets | 16/12/22 | 09/12/22 | ±% | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
@@ -430,8 +423,8 @@ It seems that the demolition market has started to build positive momentum with 
 | 16/Oct/22 | 610 | 600 | 610 | 260 |
 | 16/Nov/22 | 540 | 540 | 540 | 250 |
 | 16/Dec/22 | 530 | 530 | 530 | 250 |
-## Demolition Sales
 
+## Demolition Sales
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PASCHALIS D | 170,188 | 22,908 | 2002 | SAMHO, S. Korea | BC | $ 525/Ldt | undisclosed | as is Singapore |

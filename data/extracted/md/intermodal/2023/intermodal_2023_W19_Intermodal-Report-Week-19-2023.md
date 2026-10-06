@@ -56,7 +56,6 @@ Shanghai 200122 China
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 12/05/2023 WS points | 12/05/2023 $/day | 05/05/2023 WS points | 05/05/2023 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 43 | 21,584 | 47 | 26,599 | -18.9% | 20,330 | 2,246 |
@@ -75,13 +74,13 @@ Shanghai 200122 China
 | Dirty | 55K | UKC-USG | 165 | 31,023 | 155 | 28,514 | 8.8% | 19,982 | 2,822 |
 |  | 55K | MED-USG | 165 | 30,873 | 155 | 28,234 | 9.3% | 21,231 | 4,818 |
 |  | 50k | CARIBS-USG | 295 | 64,455 | 196 | 35,902 | **79.5%** | 40,364 | 8,548 |
-## Indicative Period Charters
 
+## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | TAVISTOCK SQUARE | 2019 | 114,364 dwt | $52,000/day | Abu Dhabi Ports |
-### Dirty WS Rates (1-Year Trend)
+| 12 mos | TAVISTOCK SQUARE | 2019 | 114,364 dwt |  |  |
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 12/May/22 | 50 | 120 | 150 |
@@ -97,8 +96,8 @@ Shanghai 200122 China
 | 12/Mar/23 | 150 | 170 | 380 |
 | 12/Apr/23 | 160 | 180 | 360 |
 | 12/May/23 | 170 | 190 | 380 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 12/May/22 | 250 | 300 | 320 | 450 |
@@ -114,8 +113,8 @@ Shanghai 200122 China
 | 12/Mar/23 | 160 | 260 | 280 | 450 |
 | 12/Apr/23 | 150 | 250 | 270 | 430 |
 | 12/May/23 | 140 | 240 | 260 | 410 |
-## TC Rates
 
+## TC Rates
 | Sector | Tenor | 12/05/2023 | 05/05/2023 | ±% | Diff | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | **300k 1yr TC** | 43,000 | 46,000 | -6.5% | -3000 | 34,683 | 25,684 |
@@ -130,8 +129,8 @@ Shanghai 200122 China
 |  | **52k 3yr TC** | 25,000 | 25,000 | 0.0% | 0 | 16,426 | 13,804 |
 | Handy | **36k 1yr TC** | 26,000 | 26,000 | 0.0% | 0 | 18,601 | 11,292 |
 |  | **36k 3yr TC** | 18,000 | 18,000 | 0.0% | 0 | 14,585 | 13,054 |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | May-23 avg | Apr-23 avg | ±% | 2022 | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | **300KT DH** | 99.0 | 99.0 | 0.0% | 80.2 | 69.7 | 71.5 |
@@ -160,7 +159,6 @@ In the Aframax sector we had the sale of the "AFRAMAX RIVIERA" (107,113dwt-bl't 
 
 # Intermodal Dry Bulk Market
 ## Baltic Indices
-
 | Index Name | 12/05/23 Index | 12/05/23 $/day | 05/05/23 Index | 05/05/23 $/day | Point Diff | $/day ±% | 2022 Index | 2021 Index |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | BDI | 1,558 |  | 1,558 |  | 0 |  | 1,931 | 2,921 |
@@ -168,8 +166,8 @@ In the Aframax sector we had the sale of the "AFRAMAX RIVIERA" (107,113dwt-bl't 
 | BPI | 1,402 | $12,619 | 1,501 | $13,512 | -99 | -6.6% | 2,298 | 2,972 |
 | BSI | 1,105 | $12,160 | 1,096 | $12,053 | 9 | 0.9% | 2,006 | 2,424 |
 | BHSI | 632 | $11,371 | 645 | $11,605 | -13 | -2.0% | 1,181 | 1,424 |
-## TC Rates
 
+## TC Rates
 | Sector | Tenor | 12/05/2023 | 05/05/2023 | ±% | Diff | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 1yr TC** | 18,250 | 18,500 | -1.4% | -250 | 21,394 | 26,392 |
@@ -180,12 +178,13 @@ In the Aframax sector we had the sale of the "AFRAMAX RIVIERA" (107,113dwt-bl't 
 |  | **58K 3yr TC** | 12,500 | 12,500 | 0.0% | 0 | 15,005 | 14,552 |
 | **Handysize** e | **32K 1yr TC** | 11,500 | 12,000 | -4.2% | -500 | 17,827 | 18,354 |
 |  | **32K 3yr TC** | 9,500 | 10,000 | -5.0% | -500 | 12,322 | 11,825 |
-## Indicative Period Charters
 
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 9 to 13 mos | PESCADORES sw | 2012 | 82,230 dwt | ely in D/C Rizhao 13 May | $11,000 /day | Norden |
-| 8 to 10 mos | ANTARES | 2015 | 81,118 dwt | dely Kagoshima 18/20 May | $15,250 /day | ADMI |
+## Indicative Period Charters
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 9 to 13 mos | PESCADORES sw | 2012 | 82,230 dwt |  |  |
+| 8 to 10 mos | ANTARES | 2015 | 81,118 dwt |  |  |
+
 ## Baltic Indices
 
 | Index Name | Current Index | Current $/day | Previous Index | Previous $/day | Point Diff |
@@ -203,8 +202,8 @@ In the Aframax sector we had the sale of the "AFRAMAX RIVIERA" (107,113dwt-bl't 
 | 12/Mar/23 | 1700 | 1700 | 1400 | 800 | 2100 |
 | 12/Apr/23 | 2200 | 1800 | 1500 | 900 | 2600 |
 | 12/May/23 | 2500 | 1700 | 1400 | 800 | 2800 |
-### Average T/C Rates (1-Year Trend)
 
+### Average T/C Rates (1-Year Trend)
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 12/May/22 | 30000 | 29000 | 28000 | 28000 |
@@ -251,7 +250,6 @@ In the Panamax sector we had the sale of the "HONG CHENG" (75,081dwt-bl't '11, C
 
 # Intermodal Secondhand Sales
 ## Tankers
-
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUEZ | AGAPE SOUL | 159,165 | 2001 | DAEWOO, S. Korea | MAN-B\&amp;W | Jan-26 | DH | $ 29.0m | undisclosed | BWTS fitted |
@@ -263,8 +261,8 @@ In the Panamax sector we had the sale of the "HONG CHENG" (75,081dwt-bl't '11, C
 | SMALL | SUPER HERO | 14,984 | 2009 | STX RO, Romania | MAN | Jul-24 | DH | region $ 9.0m each | undisclosed | Ice 1A |
 | SMALL | SUPER EASTERN | 12,825 | 2009 | STX, S. Korea | MAN-B\&amp;W | Sep-24 | DH |  |  | BWTS fitted |
 | SMALL | SUPER FORTE | 12,814 | 2010 | STX, S. Korea | MAN-B\&amp;W | Jan-25 | DH |  |  | BWTS fitted |
-## Bulk Carriers
 
+## Bulk Carriers
 | Sector | Size | Bulk Carriers | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | NEWCASTLEMAX | CAPE ETERNITY | 207,855 | 2011 | COSCO NANTONG, China | MAN-B&amp;W | Oct-26 |  | undisclosed | undisclosed |  |
@@ -272,8 +270,8 @@ In the Panamax sector we had the sale of the "HONG CHENG" (75,081dwt-bl't '11, C
 | PMAX | ULTRA PANACHE | 78,450 | 2011 | SANOYAS, Japan | MAN-B&amp;W | Feb-26 |  | excess $ 20.0m | undisclosed | BWTS fitted |
 | PMAX | HONG CHENG | 75,081 | 2011 | PENGLAI ZHONGBAI, China | MAN-B&amp;W | Oct-26 |  | $ 17.2m | Greek | BWTS fitted |
 | HANDY | PACIFIC ISLAND | 38,218 | 2012 | SHIMANAMI, Japan | MAN-B&amp;W | Nov-25 | 4 x 30,5t CRANES | $ 18.3m | undisclosed | BWTS fitted |
-## Secondhand Sales
 
+## Secondhand Sales
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LNG | BW EVERETT | 77,410 | 2003 | DAEWOO, S. Korea | Kawasaki | Jun-23 | 135,267 | $ 45.0m | Taiwanese (Eddie Steamship) |
@@ -284,7 +282,6 @@ In the Panamax sector we had the sale of the "HONG CHENG" (75,081dwt-bl't '11, C
 
 # Intermodal Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
-
 | Sector | Size | 12-May-23 | 5-May-23 | ±% | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Bulkers |  |  |  |  |  |  |
@@ -358,7 +355,6 @@ The previous week was another firm one for the shipbuilding industry, with 15 ve
 
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | Markets | 12/05/2023 | 05/05/2023 | ±% | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
@@ -371,8 +367,8 @@ The previous week was another firm one for the shipbuilding industry, with 15 ve
 | India | 520 | 520 | 0.0% | 583 | 508 | 335 |
 | Pakistan | 500 | 500 | 0.0% | 587 | 526 | 338 |
 | Turkey | 320 | 320 | 0.0% | 304 | 276 | 198 |
-## Currencies
 
+## Currencies
 | Markets | Current | Previous | ±% | YTD High |
 | --- | --- | --- | --- | --- |
 | USD/BDT | 107.34 | 106.44 | 0.8% | 108.24 |

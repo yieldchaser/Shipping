@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 By Yiannis Parganas, Head of Research Department
 
@@ -25,7 +23,6 @@ In summary, Simandou is not just another mine; it represents a pivotal supply-si
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 30/05/2025 WS points | 30/05/2025 $/day | 23/05/2025 WS points | 23/05/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 53 | 34,886 | 62 | 45,103 | -22.7% | 37,255 | 39,466 |
@@ -51,7 +48,6 @@ In summary, Simandou is not just another mine; it represents a pivotal supply-si
 |  | $45,000/day |  |
 
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 30/May/24 | 50 | 100 | 250 |
@@ -68,7 +64,6 @@ In summary, Simandou is not just another mine; it represents a pivotal supply-si
 | 30/Apr/25 | 50 | 100 | 250 |
 
 ### Clean WS Rates (1-Year Trend)
-
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 30/May/24 | 250 | 200 | 250 | 200 |
@@ -150,7 +145,6 @@ The Aframax market saw a varied week. Asia remained weak with oversupply and lim
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 30/May/24 | 20000 | 14000 | 10000 | 8000 |
@@ -292,7 +286,6 @@ The Turkish market was on a standstill last week with not much to report. Steel 
 | USD/TRY | 39.21 | 38.91 | 0.8% | 39.21 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | RELIANCE | 45,742 | 8,116 | 1996 | IMABARI, Japan | BC | $ 435/Ldt | undisclosed | as is Singapore |

@@ -63,11 +63,10 @@ Shanghai 200122 China
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 mos | FREE SPIRIT | 2008 | 113,091 dwt | 15,000/day | Solal |
-| 12 mos | NECTAR SEA | 2008 | 105,370 dwt | $20,750/day | Saudi Aramco |
+| 6 mos | FREE SPIRIT | 2008 | 113,091 dwt |  |  |
+| 12 mos | NECTAR SEA | 2008 | 105,370 dwt |  |  |
 
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 17/Dec/20 | 50 | 70 | 80 |
@@ -85,7 +84,6 @@ Shanghai 200122 China
 | 17/Dec/21 | 55 | 85 | 140 |
 
 ### Clean WS Rates (1-Year Trend)
-
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 17/Dec/20 | 100 | 110 | 120 | 130 |
@@ -159,13 +157,12 @@ In the MR2 sector we had the sale of the "TARGALE" (52,660dwt-blt '07, Croatia),
 | BHSI | 1,547 | $27,842 | 1,572 | $28,295 | -25 | -1.6% | 447 | 490 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 3 to 5 mos | HAOYUE | 2016 | 82,061 dwt | Zhoushan 11/13 Dec | $25,000/day | Bunge |
-| 18 to22 mos | BETTY K | 2019 | 81,992 dwt | Kashima | 103% index linked to BPI5TC | Klaveness |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 3 to 5 mos | HAOYUE | 2016 | 82,061 dwt |  |  |
+| 18 to22 mos | BETTY K | 2019 | 81,992 dwt |  |  |
 
 ## TC Rates
-
 | Sector | Tenor | 17/12/2021 | 10/12/2021 | ±% | Diff | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 24,250 | 32,000 | -24.2% | -7,750 | 15,561 | 18,839 |
@@ -182,7 +179,6 @@ In the MR2 sector we had the sale of the "TARGALE" (52,660dwt-blt '07, Croatia),
 |  | **32K 3yr TC** | 13,000 | 13,000 | 0.0% | 0 | 8,686 | 9,291 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 17/Dec/20 | 1,500 | 1,500 | 1,500 | 1,000 | 2,000 |
@@ -201,7 +197,6 @@ In the MR2 sector we had the sale of the "TARGALE" (52,660dwt-blt '07, Croatia),
 | 17/Dec/21 | 3,000 | 3,000 | 3,000 | 1,700 | 3,800 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 17/Dec/20 | 15000 | 15000 | 15000 | 15000 |
@@ -287,7 +282,6 @@ In the Handysize sector we had the sale of the "DD VANGUARD" (26,479dwt-blt '07,
 
 # Newbuilding Market
 ## TC Rates
-
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Vessel | 17/12/2021 | 10/12/2021 | ±% | 2020 | 2019 | 2018 |  |
@@ -345,8 +339,8 @@ The activity was limited in the newbuilding realm. It seems that the Christmas p
 | 17/Oct/21 | 108 | 67 | 54 | 48 | 36 |
 | 17/Nov/21 | 110 | 68 | 56 | 48 | 36 |
 | 17/Dec/21 | 115 | 68 | 58 | 48 | 36 |
-## Newbuilding Orders
 
+## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2 | Bulker | 63,500 dwt | Oshima, Japan | 2024 | Taiwanese (Taiwan Navigation) | undisclosed |
@@ -358,7 +352,6 @@ The activity was limited in the newbuilding realm. It seems that the Christmas p
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | 17/12/2021 | 10/12/2021 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |
@@ -389,8 +382,8 @@ The demolition prices have stabilized during the past days amidst a continuing s
 | 17/Oct/21 | 625 | 620 | 625 | 330 |
 | 17/Nov/21 | 620 | 615 | 620 | 330 |
 | 17/Dec/21 | 615 | 560 | 610 | 335 |
-## Demolition Sales
 
+## Demolition Sales
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SEA LATITUDE | 309,285 | 43,705 | 2001 | HYUNDAI ULSAN, S. Korea | TANKER | $ 571/Ldt | undisclosed | delivery as-is Batam, incl. additional payment for bunkers &amp; lubes |

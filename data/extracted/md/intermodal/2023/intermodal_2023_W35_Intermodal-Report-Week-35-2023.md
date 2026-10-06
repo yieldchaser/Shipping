@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 **By Alex Christakoudis, Tanker Operations**
 
@@ -17,7 +15,6 @@ However, a global energy market agreement is already in effect as prisoner excha
 
 ## Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 01/09/23 WS points | 01/09/23 $/day | 25/08/23 WS points | 25/08/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 39 | 11,072 | 45 | 20,233 | -45.3% | 20,330 | 2,246 |
@@ -36,13 +33,14 @@ However, a global energy market agreement is already in effect as prisoner excha
 |  | 55K | UKC-USG | 140 | 19,152 | 140 | 19,584 | -2.2% | 19,982 | 2,822 |
 |  | 55K | MED-USG | 140 | 19,478 | 140 | 20,000 | -2.6% | 21,231 | 4,818 |
 |  | 50k | CARIBS-USG | 138 | 14,054 | 147 | 16,519 | -14.9% | 40,364 | 8,548 |
+
 ## 2015
 
 | 3 mos | DONG-A THEMIS $27,500/day |  | 2015 | 49,997 dw t Clearlake |
 | --- | --- | --- | --- | --- |
 | 12 mos | ST.MICHAELIS $27,500/day |  | 2018 | 50,159 dw t Montfront |
-### Dirty WS Rates (1-Year Trend)
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 1/Sep/22 | 50 | 180 | 180 |
@@ -58,8 +56,8 @@ However, a global energy market agreement is already in effect as prisoner excha
 | 1/Jul/23 | 30 | 130 | 100 |
 | 1/Aug/23 | 30 | 120 | 100 |
 | 1/Sep/23 | 20 | 110 | 100 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 1/Sep/22 | 250 | 300 | 300 | 250 |
@@ -91,8 +89,8 @@ However, a global energy market agreement is already in effect as prisoner excha
 |  | 52k 3yr TC | 24,500 | 24,500 | 0.0% | 0 | 16,426 | 13,804 |
 | Handy | 36k 1yr TC | 24,000 | 24,000 | 0.0% | 0 | 18,601 | 11,292 |
 |  | 36k 3yr TC | 18,000 | 18,000 | 0.0% | 0 | 14,585 | 13,054 |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Sep-23 avg | Aug-23 avg | ±% | 2022 | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300KT DH | 99.0 | 99.0 | 0.0% | 80.2 | 69.7 | 71.5 |
@@ -128,7 +126,6 @@ Suezmax T/C earnings averaged \$ 12,758/day, down - \$2,453/day w-o-w. On the Af
 
 No Period fixtures to report this week
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 1/5/sep/22 | 1500 | 2000 | 1000 | 1200 | 2000 |
@@ -161,7 +158,6 @@ No Period fixtures to report this week
 | 32K 3yr TC |  | 9,250 | 9,250 | 0.0% | 0 | 12,322 | 11,825 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 1/5/sep/22 | 5000 | 15000 | 12000 | 8000 |
@@ -289,7 +285,6 @@ The market is picking up pace, with India and Pakistan leading the way. Rates ar
 | USD/TRY | 26.73 | 26.55 | 0.7% | 27.28 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | S OTIRIA | 75,265 | 11,584 | 1997 | FINCANTIERI STABIA, Italy | BC | $ 545/Ldt | Pakistani |  |

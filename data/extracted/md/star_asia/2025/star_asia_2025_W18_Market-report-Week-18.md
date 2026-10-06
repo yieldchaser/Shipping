@@ -48,33 +48,33 @@ Handy market showed a mixed ending to the week with the Pacific region largely m
 
 # Baltic Exchange Dry Bulk Indices
 
-| INDICES |  | CURRENT | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y CHANGE |
-|---|---|---|---|---|---|---|---|
-| BDI |  | 1,421 | 1,373 |  | 1,876 | +3.50% | -24.25% |
-| BCI |  | 2,079 | 1,889 |  | 2,673 | +10.06% | -22.22% |
-| BPI |  | 1,363 | 1,392 |  | 1,884 | -2.08% | -27.65% |
-| BSI |  | 955 | 977 |  | 1,458 | -2.25% | -34.50% |
-| BHSI |  | 560 | 568 |  | 729 | -1.41% | -23.18% |
-|  |  |  | Dry | Bulk | Values (Weekly) |  |  |
-| TYPE | DWT | NB | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS 10 | YEARS 15 YEARS |
-| CAPE | 180,000 |  | 74 |  | 76 | 60 43 | (E) 29 |
-| KAMSARMAX | 82,000 |  | 37 |  | 39 | 33 24 | (E) 16 |
-| ULTRAMAX | 64,000 |  | 34 |  | 38 | 31 (E) | 23 15 (56K) |
-| HANDY | 38,000 |  | 31 |  | 33 | 25 | 17 14 |
-| *(amount in USD | million) \| (E) | - eco units |  |  |  |  |  |
-|  |  |  | Dry | Bulk - | S&P Report |  |  |
-|  |  |  |  |  |  | PRICE |  |
-| VESSEL | NAME | TYPE | DWT | YEAR | BUILT |  | COMMENTS / BUYERS |
-|  |  |  |  |  |  | (MILLION) USD |  |
-| JIN TONG |  | SMAX | 56,953 | 2008 | CHINA | 10.5 | CHINESE BUYERS |
-| BAKER | RIVER | SMAX | 56,006 | 2005 | JAPAN | 10.0 | CHINESE BUYERS |
-| IMKE | SELMER | SMAX | 55,869 | 2011 | JAPAN | 15.0 | VOSCO |
-| DELPHI | RANGER | SMAX | 54,042 | 2009 | CHINA | 10.3 | TURKISH BUYERS |
-| AVIGATOR |  | SMAX | 53,806 | 2002 | CHINA | 6.2 | CHINESE BUYERS |
-| RIVER PEARL |  | SMAX | 52,223 | 2008 | JAPAN | 12.3 | UNDISCLOSED |
-| TAMARACK |  | SMAX | 50,344 | 2003 | JAPAN | 8.2 | UNDISCLOSED |
-| FUGA |  | HANDY | 38,036 | 2012 | JAPAN | 15.0 | UNDISCLOSED |
-| IVS | SUNBIRD | HANDY | 33,399 | 2015 | JAPAN | 16.9 | UNDISCLOSED |
+| INDICES | CURRENT | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
+| BDI | 1,421 | 1,373 |  | 1,876 | +3.50% | -24.25% |
+| BCI | 2,079 | 1,889 |  | 2,673 | +10.06% | -22.22% |
+| BPI | 1,363 | 1,392 |  | 1,884 | -2.08% | -27.65% |
+| BSI | 955 | 977 |  | 1,458 | -2.25% | -34.50% |
+| BHSI | 560 | 568 |  | 729 | -1.41% | -23.18% |
+|  |  | Dry | Bulk | Values (Weekly) |  |  |
+| TYPE | NB | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS 10 | YEARS 15 YEARS |
+| CAPE |  | 74 |  | 76 | 60 43 | (E) 29 |
+| KAMSARMAX |  | 37 |  | 39 | 33 24 | (E) 16 |
+| ULTRAMAX |  | 34 |  | 38 | 31 (E) | 23 15 (56K) |
+| HANDY |  | 31 |  | 33 | 25 | 17 14 |
+| *(amount in USD | (E) | - eco units |  |  |  |  |
+|  |  | Dry | Bulk - | S&P Report |  |  |
+|  |  |  |  |  | PRICE |  |
+| VESSEL | TYPE | DWT | YEAR | BUILT |  | COMMENTS / BUYERS |
+|  |  |  |  |  | (MILLION) USD |  |
+| JIN TONG | SMAX | 56,953 | 2008 | CHINA | 10.5 | CHINESE BUYERS |
+| BAKER | SMAX | 56,006 | 2005 | JAPAN | 10.0 | CHINESE BUYERS |
+| IMKE | SMAX | 55,869 | 2011 | JAPAN | 15.0 | VOSCO |
+| DELPHI | SMAX | 54,042 | 2009 | CHINA | 10.3 | TURKISH BUYERS |
+| AVIGATOR | SMAX | 53,806 | 2002 | CHINA | 6.2 | CHINESE BUYERS |
+| RIVER PEARL | SMAX | 52,223 | 2008 | JAPAN | 12.3 | UNDISCLOSED |
+| TAMARACK | SMAX | 50,344 | 2003 | JAPAN | 8.2 | UNDISCLOSED |
+| FUGA | HANDY | 38,036 | 2012 | JAPAN | 15.0 | UNDISCLOSED |
+| IVS | HANDY | 33,399 | 2015 | JAPAN | 16.9 | UNDISCLOSED |
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -106,13 +106,9 @@ Aframax experienced sluggish demand after the labour holidays as the Middle East
 
 Clean:
 
-**LR: LR2 in the MEG closed the week lower, as chartering activity remains muted. TC1**
+**LR:** LR2 in the MEG closed the week lower, as chartering activity remains muted. TC1 closed the week at WS124 points as the rate floor end week. Meanwhile, LR1 on the UKC remained muted for another week with TC16 ARA/WAFR unchanged at WS130.
 
-closed the week at WS124 points as the rate floor end week. Meanwhile, LR1 on the UKC remained muted for another week with TC16 ARA/WAFR unchanged at WS130.
-
-**MR: The Far East MR market ended with falling rates as available vessel supply increased**
-
-amid persistently weak demand. In the MEG, rates saw a slight improvement as trips to East Africa improved to WS213.
+**MR:** The Far East MR market ended with falling rates as available vessel supply increased amid persistently weak demand. In the MEG, rates saw a slight improvement as trips to East Africa improved to WS213.
 
 # Baltic Exchange Tanker Indices
 
@@ -125,15 +121,15 @@ LAST YEAR W-O-W CHANGE 1,122 -4.99% 931 -10.62%
 
 Y-O-Y CHANGE -3.30% -34.91%
 
-| TYPE |  | DWT | NB CONTRACT | Tankers Values (Weekly) NB CONTRACT | Tankers Values (Weekly) NB PROMPT | 5 YEARS | 10 YEARS | 10 YEARS | 15 YEARS |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  | DELIVERY |  |  |  |  |
-| VLCC |  | 310,000 |  | 125 | 144 | 112 (E) | 80 | (E) | 51 |
-| SUEZMAX |  | 160,000 |  | 87 | 93 | 77 (E) | 62 | (E) | 40 |
-| AFRAMAX |  | 115,000 |  | 72 | 75 | 63 (E) | 50 | (E) | 35 |
-| LR1 |  | 73,000 |  | 59 | 60 | 50 (E) | 40 | (E) | 25 |
-| MR |  | 51,000 |  | 49 | 50 | 41 (E) | 31 | (E) | 21 |
-| *(amount in USD million) | \ |  | (E) - eco units |  |  |  |  |  |  |
+| TYPE | DWT | NB CONTRACT | Tankers Values (Weekly) NB CONTRACT | Tankers Values (Weekly) NB PROMPT | 5 YEARS | 10 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | DELIVERY |  |  |  |  |
+| VLCC | 310,000 |  | 125 | 144 | 112 (E) | 80 | (E) | 51 |
+| SUEZMAX | 160,000 |  | 87 | 93 | 77 (E) | 62 | (E) | 40 |
+| AFRAMAX | 115,000 |  | 72 | 75 | 63 (E) | 50 | (E) | 35 |
+| LR1 | 73,000 |  | 59 | 60 | 50 (E) | 40 | (E) | 25 |
+| MR | 51,000 |  | 49 | 50 | 41 (E) | 31 | (E) | 21 |
+| *(amount in USD million) |  | (E) - eco units |  |  |  |  |  |  |
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -290,9 +286,7 @@ Sub-Continent and Turkey ferrous scrap markets insights
 
 The imported ferrous scrap markets across the Indian Subcontinent and Turkey have entered a period of cautious stagnation, as mills and traders brace for potential price shifts amid sluggish steel demand and rising inventory levels. Sentiment remains tentative, with participants across all major regions adopting a wait-and-watch approach, hoping for clearer direction in the coming weeks.
 
-**India's scrap market remained largely subdued this week. Buyers, anticipating further**
-
-price corrections, showed limited interest in fresh bookings. UK-origin shredded scrap was offered at around US$370/ton CFR Nhava Sheva, but bids hovered lower at US$365/ton. UK HMS 80:20 was heard in the range of US$345-350/ton CFR, while South African HMS offers stood at approximately US$350/ton. Overall, sentiment stayed cautious, with most buyers sidelined as they awaited improved market visibility. Imported scrap demand in Pakistan showed little improvement, with mills continuing to run at reduced capacity. Weak domestic steel prices and ongoing regional uncertainty have further eroded confidence. Offers for UK and EU-origin shredded were in the range of US$370-375/ton CFR Port Qasim, though buyers remained firm at US$364-366/ton, resulting in a persistent pricing standoff. Meanwhile, UAE-origin material remained uncompetitive, with offers at US$385-390/ton CFR. The bearish outlook was compounded by falling billet and rebar prices in the domestic market. The Bangladeshi scrap market remained in limbo, with limited trading activity. Despite improved vessel arrivals and easing port congestion in Chattogram, mills refrained from new purchases. Australian-origin shredded scrap was offered at US$380/ton CFR, while buyers bid closer to US$375-376/ton. High inventories, weak construction activity, and ongoing liquidity issues continued to weigh on sentiment. With no significant deals concluded, participants remained focused on regional indicators and Turkish market cues before stepping back into the market. The Turkish scrap market remained quiet but showed tentative signs of stabilisation. Prices for premium HMS 80:20 edged up to US$330/ton CFR, though actual deal flow was
+India's scrap market remained largely subdued this week. Buyers, anticipating further price corrections, showed limited interest in fresh bookings. UK-origin shredded scrap was offered at around US$370/ton CFR Nhava Sheva, but bids hovered lower at US$365/ton. UK HMS 80:20 was heard in the range of US$345-350/ton CFR, while South African HMS offers stood at approximately US$350/ton. Overall, sentiment stayed cautious, with most buyers sidelined as they awaited improved market visibility. Imported scrap demand in Pakistan showed little improvement, with mills continuing to run at reduced capacity. Weak domestic steel prices and ongoing regional uncertainty have further eroded confidence. Offers for UK and EU-origin shredded were in the range of US$370-375/ton CFR Port Qasim, though buyers remained firm at US$364-366/ton, resulting in a persistent pricing standoff. Meanwhile, UAE-origin material remained uncompetitive, with offers at US$385-390/ton CFR. The bearish outlook was compounded by falling billet and rebar prices in the domestic market. The Bangladeshi scrap market remained in limbo, with limited trading activity. Despite improved vessel arrivals and easing port congestion in Chattogram, mills refrained from new purchases. Australian-origin shredded scrap was offered at US$380/ton CFR, while buyers bid closer to US$375-376/ton. High inventories, weak construction activity, and ongoing liquidity issues continued to weigh on sentiment. With no significant deals concluded, participants remained focused on regional indicators and Turkish market cues before stepping back into the market. The Turkish scrap market remained quiet but showed tentative signs of stabilisation. Prices for premium HMS 80:20 edged up to US$330/ton CFR, though actual deal flow was
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -308,13 +302,9 @@ thin. Seller targets ranged from US$330/ton CFR for EU-origin scrap to US$335-34
 
 # Commodities (Weekinfocus)
 
-**Iron ore prices continued their decline on Thursday as weak market activity and policy**
+Iron ore prices continued their decline on Thursday as weak market activity and policy uncertainty during the Labour Day holiday period weighed on the market. Indices saw widespread drops, with 62% Fe falling to US$97/ton and 65% Fe decreasing to US$109/ton. Singapore Exchange futures mirrored this downward trend, further reflecting the subdued market conditions. The absence of major Chinese buyers significantly reduced market liquidity, amplifying the downward momentum in pricing. Adding pressure to the bearish sentiment was circulating rumors of impending steel production cuts, though industry analysts remain divided on their potential impact. While some market participants anticipate meaningful effects on iron ore demand, others suggest that strict enforcement of production controls will be crucial - with concerns that steelmakers may simply adjust reported output without implementing substantial reductions, thereby limiting the actual pressure on iron ore demand.
 
-uncertainty during the Labour Day holiday period weighed on the market. Indices saw widespread drops, with 62% Fe falling to US$97/ton and 65% Fe decreasing to US$109/ton. Singapore Exchange futures mirrored this downward trend, further reflecting the subdued market conditions. The absence of major Chinese buyers significantly reduced market liquidity, amplifying the downward momentum in pricing. Adding pressure to the bearish sentiment was circulating rumors of impending steel production cuts, though industry analysts remain divided on their potential impact. While some market participants anticipate meaningful effects on iron ore demand, others suggest that strict enforcement of production controls will be crucial - with concerns that steelmakers may simply adjust reported output without implementing substantial reductions, thereby limiting the actual pressure on iron ore demand.
-
-**Base metals held steady as markets awaited progress in U.S. trade negotiations, with**
-
-attention focused on talks involving 17 major trading partners following Trump's announcement of reciprocal tariffs. Investors were largely underwhelmed by the latest economic support measures from China's National Development and Reform Commission. Although officials pledged increased aid for struggling firms and efforts to diversify export markets, the steps fell short of market expectations.
+Base metals held steady as markets awaited progress in U.S. trade negotiations, with attention focused on talks involving 17 major trading partners following Trump's announcement of reciprocal tariffs. Investors were largely underwhelmed by the latest economic support measures from China's National Development and Reform Commission. Although officials pledged increased aid for struggling firms and efforts to diversify export markets, the steps fell short of market expectations.
 
 ## Copper inched higher amid optimism over U.S. trade negotiations, with National
 

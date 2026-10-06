@@ -32,27 +32,19 @@ Despite ongoing market uncertainties, dry bulk recorded a positive opening half 
 
 ## Segment Highlights
 
-**Capesize: Capesize saw firm upward momentum early in the week in the Pacific. This bullish sentiment**
+**Capesize:** Capesize saw firm upward momentum early in the week in the Pacific. This bullish sentiment quickly spread to long-haul Atlantic routes, with West Africa/China F/H trading at US$76,250's and T/A trips rising to US$48,425's per day, even as a spike in bunker prices and easing post-midweek activity began to cap the overall advance. Despite a slightly softer, flat tone in the Pacific toward the end of the week, the concentrated fixture activity successfully pushed Brazil R/V to US$40,875's per day.
 
-quickly spread to long-haul Atlantic routes, with West Africa/China F/H trading at US$76,250's and T/A trips rising to US$48,425's per day, even as a spike in bunker prices and easing post-midweek activity began to cap the overall advance. Despite a slightly softer, flat tone in the Pacific toward the end of the week, the concentrated fixture activity successfully pushed Brazil R/V to US$40,875's per day.
+**Panamax / Kamsarmax:** Panamax held a firm but consolidating tone this week as a concentration of China-bound fixtures, anticipated U.S. soybean purchases, and typhoon-related schedule delays successfully eased prompt tonnage pressure across both basins. Robust NOPAC grain demand and Australian coal flows drew prompt ships south, providing strong support to Pacific R/V at US$17,525's and Indonesian R/V at US$16,250's per day. Meanwhile, the Atlantic basin maintained steady floor support from active USG F/H activity, keeping T/A at US$21,200's per day.
 
-**Panamax / Kamsarmax: Panamax held a firm but consolidating tone this week as a concentration of**
+**Supramax / Ultramax:** Supramax climbed higher in the Atlantic this week, propelled by tight available vessel supply and firm, consistent cargo demands out of the USG and Mediterranean. This pushed T/A rates up to US$27,670's per day and drove F/H routes to a strong US$29,260's. In the Pacific, basin softened slightly as reduced coal shipments bound for China and a growing list of available tonnage dragged Pacific R/V to US$17,700's per day, though mounting vessel congestion at Indonesian coal ports helped cushion the decline.
 
-China-bound fixtures, anticipated U.S. soybean purchases, and typhoon-related schedule delays successfully eased prompt tonnage pressure across both basins. Robust NOPAC grain demand and Australian coal flows drew prompt ships south, providing strong support to Pacific R/V at US$17,525's and Indonesian R/V at US$16,250's per day. Meanwhile, the Atlantic basin maintained steady floor support from active USG F/H activity, keeping T/A at US$21,200's per day.
-
-**Supramax / Ultramax: Supramax climbed higher in the Atlantic this week, propelled by tight available**
-
-vessel supply and firm, consistent cargo demands out of the USG and Mediterranean. This pushed T/A rates up to US$27,670's per day and drove F/H routes to a strong US$29,260's. In the Pacific, basin softened slightly as reduced coal shipments bound for China and a growing list of available tonnage dragged Pacific R/V to US$17,700's per day, though mounting vessel congestion at Indonesian coal ports helped cushion the decline.
-
-**Handysize: Handies remained highly active this week, supported by a healthy mix of spot and short-**
-
-period fixtures across both basins, with the Atlantic generating most of the cargo flow. Tonnage circulation remained steady as consistent grain, coal, fertiliser, and petcoke trades kept vessels moving and provided reliable short-haul employment opportunities in Asia. This dynamic helped push T/A rates up to US$16,950's, while Pacific R/V edged up to US$15,000's while Inter-Pacific trips settled at US$15,600's/day.
+**Handysize:** Handies remained highly active this week, supported by a healthy mix of spot and short- period fixtures across both basins, with the Atlantic generating most of the cargo flow. Tonnage circulation remained steady as consistent grain, coal, fertiliser, and petcoke trades kept vessels moving and provided reliable short-haul employment opportunities in Asia. This dynamic helped push T/A rates up to US$16,950's, while Pacific R/V edged up to US$15,000's while Inter-Pacific trips settled at US$15,600's/day.
 
 ## Page 3
 
 ### Baltic Dry Index (BDI)
 
-**BDI: 2,840** (WoW: -3.53% | YoY: +38.40%)
+**BDI:** 2,840 (WoW: -3.53% | YoY: +38.40%)
 
 | BCI | BPI | BSI | BHSI |
 | :---: | :---: | :---: | :---: |
@@ -182,9 +174,7 @@ ALIAGA |
 
 ## Page 11
 
-**Chattogram, Bangladesh: Chattogram experienced a visible slowdown over the past week as severe**
-
-monsoon conditions shifted from a predictable seasonal shift into a major operational hurdle. Torrential downpours and extensive flooding disrupted daily operations, making it incredibly difficult for local yards to maintain steady cutting schedules or manage production. Yard operators are focusing on handling immediate weather related challenges at their sites rather than pursuing new vessels to add to their pipelines.
+**Chattogram, Bangladesh:** Chattogram experienced a visible slowdown over the past week as severe monsoon conditions shifted from a predictable seasonal shift into a major operational hurdle. Torrential downpours and extensive flooding disrupted daily operations, making it incredibly difficult for local yards to maintain steady cutting schedules or manage production. Yard operators are focusing on handling immediate weather related challenges at their sites rather than pursuing new vessels to add to their pipelines.
 
 ## Page 12
 
@@ -213,9 +203,7 @@ economic backdrop. The IMF recently wrapped up an official visit to Dhaka and do
 | ERGY | LNG | 31,340 | 23.06.2026 | 01.07.2026 |
 | PEARL 1 | GENERAL CARGO | 5,890 | 21.06.2206 | 01.07.2026 |
 
-**Gaddani, Pakistan: The recycling yards in Gadani experienced a notably quiet week, with market**
-
-conditions showing very little departure from the prevailing trend. Local shipbreakers remain highly
+**Gaddani, Pakistan:** The recycling yards in Gadani experienced a notably quiet week, with market conditions showing very little departure from the prevailing trend. Local shipbreakers remain highly
 
 enthusiastic about acquiring fresh vessels. This ongoing scarcity of incoming vessels has left the domestic market completely short of heavy scrap metal. As supply remains restricted, the underlying fundamentals
 
@@ -232,9 +220,7 @@ The continued scarcity of vessels available for recycling has prompted some recy
 | JENNY LUCKY | BULKER | 7,176 | 21.06.2026 | 02.07.2026 |
 | ILA | BULKER | 6,334 | 04.07.2026 | 10.07.2026 |
 
-**Aliaga, Turkey: Aliaga observed a stagnant week, with overall operational sentiment remaining heavily**
-
-depressed. Local yards are navigating a highly restrictive buying environment defined by a persistent lack of appealing demolition candidates in the international market. This severe supply crunch offers local recyclers very few opportunities to acquire fresh hulls, keeping berth activity quiet across the waterfront. Compounding this lack of available tonnage is a visible downward slide in the domestic steel sector. This past week saw a steady erosion in local steel values, heavily impacting both raw scrap material and finished steel products. Faced with dwindling retail margins, shipbreakers have had to lower their purchasing limits, putting a tight lid on the numbers they can realistically offer to international cash buyers.
+**Aliaga, Turkey:** Aliaga observed a stagnant week, with overall operational sentiment remaining heavily depressed. Local yards are navigating a highly restrictive buying environment defined by a persistent lack of appealing demolition candidates in the international market. This severe supply crunch offers local recyclers very few opportunities to acquire fresh hulls, keeping berth activity quiet across the waterfront. Compounding this lack of available tonnage is a visible downward slide in the domestic steel sector. This past week saw a steady erosion in local steel values, heavily impacting both raw scrap material and finished steel products. Faced with dwindling retail margins, shipbreakers have had to lower their purchasing limits, putting a tight lid on the numbers they can realistically offer to international cash buyers.
 
 **TIDE DATES 2026 | Chattogram:** 14 - 17 July | 29 July ~ 01 August
 
@@ -246,9 +232,7 @@ depressed. Local yards are navigating a highly restrictive buying environment de
 | COMMODITIES, BUNKERS & RATES |
 | Commodities Focus |
 
-**Iron ore futures sustained values over CNY 750 per ton, hovering close to monthly peaks. This price**
-
-resilience comes as BHP reported a 3% annual decline in quarterly production to 68.1 million tons due to a strategic focus on alternative copper and potash projects, alongside a looming labour strike at Port Hedland after wage talks collapsed. While stronger shipments from Rio Tinto suggested a stable global picture, Chinese authorities added to near-term anxieties by restricting certain steelmakers from accepting lower-grade Australian iron ore imports.
+Iron ore futures sustained values over CNY 750 per ton, hovering close to monthly peaks. This price resilience comes as BHP reported a 3% annual decline in quarterly production to 68.1 million tons due to a strategic focus on alternative copper and potash projects, alongside a looming labour strike at Port Hedland after wage talks collapsed. While stronger shipments from Rio Tinto suggested a stable global picture, Chinese authorities added to near-term anxieties by restricting certain steelmakers from accepting lower-grade Australian iron ore imports.
 
 At the same time, China's energy sector saw its sharpest monthly coal output drop in a decade, with production falling 9.7% year-on-year to 381 million tons in June following a tragic mine incident in Shanxi that temporarily idled over 300,000 tons of daily capacity. Despite this first-half contraction of 1.7% to 2.37 billion tons, total annual coal output is still anticipated to hit a record 4.87 billion tons to meet rising domestic electricity demands. Meanwhile, copper prices held steady on the London Metal Exchange, trading a minor 0.1% higher at US$13,501/MT as a weaker greenback balanced out renewed military clashes between the United States and Iran. These ongoing hostilities triggered sharp gains in oil markets over shipping safety in the Strait of
 

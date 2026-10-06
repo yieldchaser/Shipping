@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 *By Chara Georgousi, Research Analyst*
 
@@ -15,7 +13,6 @@ As we approach 2024, the shipping industry's focus will be on developing adaptab
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 15/12/23 WS points | 15/12/23 $/day | 08/12/23 WS points | 08/12/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 56 | 36,977 | 66 | 50,621 | -27.0% | 20,330 | 2,246 |
@@ -36,12 +33,12 @@ As we approach 2024, the shipping industry's focus will be on developing adaptab
 |  | 50k | CARIBS-USG | 203 | 36,023 | 205 | 36,841 | -2.2% | 40,364 | 8,548 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 60 mos | STENA PROVIDENT (NB) | 2024 | 49,900 dwt | DEL CHINA DEC/23 | $26,250/day | Bahri Chems |
-| 4 to 6 mos | WISTERIA | 2008 | 50,661 dwt | DELEAST DEC/23 | $26,000/day | Trafigura |
-### Dirty WS Rates (1-Year Trend)
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 60 mos | STENA PROVIDENT (NB) | 2024 | 49,900 dwt |  |  |
+| 4 to 6 mos | WISTERIA | 2008 | 50,661 dwt |  |  |
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 15/Dec/22 | 280 | 280 | 300 |
@@ -57,8 +54,8 @@ As we approach 2024, the shipping industry's focus will be on developing adaptab
 | 15/Oct/23 | 70 | 100 | 280 |
 | 15/Nov/23 | 70 | 140 | 140 |
 | 15/Dec/23 | 70 | 140 | 140 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 15/Dec/22 | 320 | 320 | 420 | 320 |
@@ -124,9 +121,9 @@ Suezmax T/C earnings averaged \$49,858/day, down - \$5,846/day w-o-w. On the Afr
 | BHSI | 908 | $16,340 | 872 | $15,700 | **36** | **4.1%** | 1,181 | 1,424 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 6 to 8 mos | MAPLE WISDOM | 2023 | 82,00 dwt | dely Singapore 18/20 Dec redel worldwide | $17,000/day | Oldendorff |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 6 to 8 mos | MAPLE WISDOM | 2023 | 82,00 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | 15/12/23 | 08/12/23 | ±% | Diff | 2022 | 2021 |
@@ -141,7 +138,6 @@ Suezmax T/C earnings averaged \$49,858/day, down - \$5,846/day w-o-w. On the Afr
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 12,322 | 11,825 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 15/Dec/22 | 20000 | 12000 | 10000 | 8000 |
@@ -205,7 +201,6 @@ Supramax 10TC averaged \$ 16,097/day, down -5.0% w-o-w, while the Handysize 7TC 
 | HANDY | CLIPPER COPENHAGEN | 37,852 | 2010 | JIANGSU EASTERN, China | Wartsila | Jun-25 | 4 X 30t CRANES | $ 11.2m | Swiss (Armator Shipping) | BWTS fitted Ice Class 1C |
 
 ## Secondhand Sales
-
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | ROTTERDAM BRIDGE | 4,253 | 2001 | SAMSUNG, S. Korea | B\&W | Dec-27 |  | $ 12.5m | undisclosed | BWTS Fitted |
@@ -273,7 +268,6 @@ As we approach the New Year, the shipbreaking industry is becoming quieter, with
 | USD/TRY | 28.99 | 28.93 | 0.20% | 29.09 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | KHURAN | 41,315 | 8,579 | 1992 | MINAMI-NIPPON, Japan | TANKER | undisclosed | undisclosed |  |

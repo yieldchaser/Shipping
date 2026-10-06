@@ -34,7 +34,7 @@ The economic consequences of this prolonged deadlock are now being felt across t
 
 ### Baltic Dry Index (BDI)
 
-**BDI: 2,978** (WoW: +9.08% | YoY: +129.25%)
+**BDI:** 2,978 (WoW: +9.08% | YoY: +129.25%)
 
 | BCI | BPI | BSI | BHSI |
 | :---: | :---: | :---: | :---: |

@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 **By George Vitsos, Offshore Broker**
 
@@ -20,10 +18,10 @@ With the present orderbook levels and the steadily rising demands of the market,
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 24 mos | UOG HARRIET G | 2009 | 73,338 dwt | $30,000/day | Clearlake |
-| 24 mos | GULF BAYNUNAH | 2008 | 46,522 dwt | $30,500/day | ST Shipping |
-## Spot Rates
+| 24 mos | UOG HARRIET G | 2009 | 73,338 dwt |  |  |
+| 24 mos | GULF BAYNUNAH | 2008 | 46,522 dwt |  |  |
 
+## Spot Rates
 | Sector | Size | Routes | 08/03/24 WS points | 08/03/24 $/day | 01/03/24 WS points | 01/03/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 265k | MEG-SPORE | 70 | 49,254 | 61 | 39,459 | 24.8% | 39,466 | 20,330 |
@@ -41,8 +39,8 @@ With the present orderbook levels and the steadily rising demands of the market,
 |  | 55K | UKC-USG | 195 | 30,996 | 200 | 32,639 | -5.0% | 27,274 | 19,982 |
 |  | 55K | MED-USG | 195 | 30,948 | 200 | 32,347 | -4.3% | 27,060 | 21,231 |
 |  | 50k | CARIBS-USG | 263 | 45,802 | 283 | 51,266 | -10.7% | 46,194 | 40,364 |
-## TC Rates
 
+## TC Rates
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | $/day | 08/03/24 | 01/03/24 | ±% | Diff | 2023 | 2022 |  |
@@ -58,8 +56,8 @@ With the present orderbook levels and the steadily rising demands of the market,
 |  | 52k 3yr TC | 27,000 | 27,000 | 0.0% | 0 | 25,152 | 16,426 |
 | **Handy** | 36k 1yr TC | 28,000 | 28,000 | 0.0% | 0 | 25,760 | 18,601 |
 |  | 36k 3yr TC | 18,000 | 18,000 | 0.0% | 0 | 18,200 | 14,585 |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Mar-24 avg | Feb-24 avg | ±% | 2023 | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 300KT DH | 112.0 | 108.5 | **3.2%** | 99.5 | 80.2 | 69.7 |
@@ -67,8 +65,8 @@ With the present orderbook levels and the steadily rising demands of the market,
 | **Aframax** | **110KT DH** | 71.0 | 71.0 | 0.0% | **64.4** | 50.5 | 38.7 |
 | **LR1** | 75KT DH | 52.0 | 52.0 | 0.0% | 49.2 | 38.6 | 31.2 |
 | **MR** | **52KT DH** | 44.5 | 44.5 | 0.0% | 41.4 | 34.8 | 27.6 |
-### Dirty WS Rates (1-Year Trend)
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 8/Mar/23 | 80 | 160 | 350 |
@@ -84,8 +82,8 @@ With the present orderbook levels and the steadily rising demands of the market,
 | 8/Jan/24 | 50 | 120 | 380 |
 | 8/Feb/24 | 60 | 120 | 180 |
 | 8/Mar/24 | 50 | 110 | 170 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 8/Mar/23 | 160 | 180 | 450 | 180 |
@@ -124,9 +122,9 @@ Aframax T/C earnings averaged \$37,731/day, marking a weekly increase of \$4,843
 | BHSI | 762 | $13,714 | 722 | $13,005 | **40** | **5.5%** | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 7/9 mos | Zhong Hai Chang Yun 6 | 2011 | 56,639 dwt | dely Cebu 17 Mar redel worldwide | $16,000/day | Xe Hai Explorer Shpng |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 7/9 mos | Zhong Hai Chang Yun 6 | 2011 | 56,639 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | 08/03/24 | 01/03/24 | ±% | Diff | 2023 | 2022 |
@@ -141,7 +139,6 @@ Aframax T/C earnings averaged \$37,731/day, marking a weekly increase of \$4,843
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 8/Mar/23 | 1800 | 1200 | 1000 | 800 | 1500 |
@@ -159,7 +156,6 @@ Aframax T/C earnings averaged \$37,731/day, marking a weekly increase of \$4,843
 | 8/Mar/24 | 3800 | 2000 | 1600 | 1300 | 2200 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 8/Mar/23 | 14000 | 12000 | 10000 | 9000 |
@@ -284,7 +280,6 @@ The demolition industry is facing a severe shortage of vessels suitable for recy
 | USD/TRY | 31.84 | 31.31 | 1.7% | 31.84 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUVARNA SWARAJYA | 32,902 | 8,542 | 1998 | HYUNDAI HEAVY INDS - U, S. Korea | TANKER | $ 540.0m | BANGLADESH | 'as is' Colombo |

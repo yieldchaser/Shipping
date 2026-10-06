@@ -50,26 +50,26 @@ The week was relatively quiet due to holidays in both basins, resulting in limit
 
 # Baltic Exchange Dry Bulk Indices
 
-| INDICES | CURRENT |  | LAST | WEEK | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-|---|---|---|---|---|---|---|---|---|---|
-| BDI | 2,129 |  |  | 1,876 |  | 1,608 | +13.49% |  | +32.40% |
-| BCI | 3,292 |  |  | 2,673 |  | 2,456 | +23.16% |  | +34.04% |
-| BPI | 2,026 |  |  | 1,884 |  | 1,445 | +7.54% |  | +40.21% |
-| BSI | 1,485 |  |  | 1,458 |  | 1,112 | +1.85% |  | +33.54% |
-| BHSI | 703 |  |  | 729 |  | 635 | -3.57% |  | +10.71% |
-|  |  |  |  | Dry Bulk | (Weekly) | Values |  |  |  |
-| TYPE | DWT | NB |  | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
-| CAPE | 180,000 |  | 71 |  |  | 76 | 46 | 33 | 24 |
-| KAMSARMAX | 82,000 |  | 31 |  |  | 32 | 27 | 22 | 16 |
-| SUPRAMAX | 56,000 |  | 34 |  |  | 42 | 35 | 27 | 15 |
-| HANDY | 38,000 |  | 24 |  |  | 26 | 20 | 15 | 12 |
-| *(amount in USD | million) |  |  |  |  |  |  |  |  |
-|  | Bulker | 12 | months | T/C |  | rates average | (in | USD/day) |  |
-| TYPE | DWT | CURRENT |  | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-| CAPESIZE | 180,000 | 26,000 |  | 26,000 |  | 18,250 | 0 |  | +42.47% |
-| PANAMAX | 75,000 | 16,300 |  | 16,000 |  | 14,350 | +1.88% |  | +13.59% |
-| SUPRAMAX | 58,000 | 16,500 |  | 16,000 |  | 13,750 | +3.13% |  | +20.00% |
-| HANDYSIZE | 38,000 | 14,500 |  | 14,000 |  | 10,500 | +3.57% |  | +38.10% |
+| INDICES | CURRENT | LAST | WEEK | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| BDI | 2,129 |  | 1,876 |  | 1,608 | +13.49% |  | +32.40% |
+| BCI | 3,292 |  | 2,673 |  | 2,456 | +23.16% |  | +34.04% |
+| BPI | 2,026 |  | 1,884 |  | 1,445 | +7.54% |  | +40.21% |
+| BSI | 1,485 |  | 1,458 |  | 1,112 | +1.85% |  | +33.54% |
+| BHSI | 703 |  | 729 |  | 635 | -3.57% |  | +10.71% |
+|  |  |  | Dry Bulk | (Weekly) | Values |  |  |  |
+| TYPE | DWT |  | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| CAPE | 180,000 | 71 |  |  | 76 | 46 | 33 | 24 |
+| KAMSARMAX | 82,000 | 31 |  |  | 32 | 27 | 22 | 16 |
+| SUPRAMAX | 56,000 | 34 |  |  | 42 | 35 | 27 | 15 |
+| HANDY | 38,000 | 24 |  |  | 26 | 20 | 15 | 12 |
+| *(amount in USD | million) |  |  |  |  |  |  |  |
+|  | Bulker | months | T/C |  | rates average | (in | USD/day) |  |
+| TYPE | DWT |  | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+| CAPESIZE | 180,000 |  | 26,000 |  | 18,250 | 0 |  | +42.47% |
+| PANAMAX | 75,000 |  | 16,000 |  | 14,350 | +1.88% |  | +13.59% |
+| SUPRAMAX | 58,000 |  | 16,000 |  | 13,750 | +3.13% |  | +20.00% |
+| HANDYSIZE | 38,000 |  | 14,000 |  | 10,500 | +3.57% |  | +38.10% |
 
 ## Shipbroking (www.star-asia.com.sg)
 
@@ -292,9 +292,7 @@ Sub-Continent and Turkey ferrous scrap markets insight
 
 The Sub-Continent ferrous scrap markets, trends varied notably. There was robust demand from Indian purchasers for imported scrap, in contrast to the more tepid interest from Pakistan and Bangladesh. Furthermore, an agreement was reached for around 7,000 tons of HMS scrap from Australia, priced between US$405-410/ton CFR Chennai, **India.** It was also reported that due to sluggish demand for steel, Pakistani mills are operating below capacity, with some even pausing production temporarily.
 
-**Turkish imported scrap prices have continued to decline as buyers pushed for lower**
-
-acceptable price points, while European recyclers held firm against lowering prices due to sluggish scrap inflows and stable collection costs. A few suppliers have proposed prices
+Turkish imported scrap prices have continued to decline as buyers pushed for lower acceptable price points, while European recyclers held firm against lowering prices due to sluggish scrap inflows and stable collection costs. A few suppliers have proposed prices
 
 ## Shipbroking (www.star-asia.com.sg)
 

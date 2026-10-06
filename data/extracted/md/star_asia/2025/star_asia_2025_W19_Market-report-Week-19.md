@@ -113,13 +113,9 @@ Similar to the bigger counterparts, Aframax market saw weak demand across the ro
 
 Clean:
 
-**LR: LR2 in the MEG closed the week lower, as chartering activity remains muted. TC1 fell to**
+**LR:** LR2 in the MEG closed the week lower, as chartering activity remains muted. TC1 fell to WS110 at closing as the rate floor end week. Meanwhile, LR1 on the UKC remained stable as TC5 kept close to WS130..
 
-WS110 at closing as the rate floor end week. Meanwhile, LR1 on the UKC remained stable as TC5 kept close to WS130..
-
-**MR: The Far East MR market ended with falling rates as available vessel supply increased**
-
-amid persistently weak demand. In the MEG, rates saw a slight improvement as trips to East Africa improved to WS213.
+**MR:** The Far East MR market ended with falling rates as available vessel supply increased amid persistently weak demand. In the MEG, rates saw a slight improvement as trips to East Africa improved to WS213.
 
 # Baltic Exchange Tanker Indices
 
@@ -134,15 +130,15 @@ Y-O-Y
 
 CHANGE -13.85% -42.47%
 
-| TYPE |  | DWT | NB CONTRACT | Tankers Values (Weekly) NB CONTRACT | Tankers Values (Weekly) NB PROMPT | 5 YEARS | 10 YEARS | 10 YEARS | 15 YEARS |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  | DELIVERY |  |  |  |  |
-| VLCC |  | 310,000 |  | 125 | 144 | 112 (E) | 80 | (E) | 51 |
-| SUEZMAX |  | 160,000 |  | 87 | 93 | 77 (E) | 62 | (E) | 40 |
-| AFRAMAX |  | 115,000 |  | 72 | 75 | 63 (E) | 50 | (E) | 35 |
-| LR1 |  | 73,000 |  | 59 | 60 | 50 (E) | 40 | (E) | 25 |
-| MR |  | 51,000 |  | 49 | 50 | 41 (E) | 31 | (E) | 21 |
-| *(amount in USD million) | \ |  | (E) - eco units |  |  |  |  |  |  |
+| TYPE | DWT | NB CONTRACT | Tankers Values (Weekly) NB CONTRACT | Tankers Values (Weekly) NB PROMPT | 5 YEARS | 10 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | DELIVERY |  |  |  |  |
+| VLCC | 310,000 |  | 125 | 144 | 112 (E) | 80 | (E) | 51 |
+| SUEZMAX | 160,000 |  | 87 | 93 | 77 (E) | 62 | (E) | 40 |
+| AFRAMAX | 115,000 |  | 72 | 75 | 63 (E) | 50 | (E) | 35 |
+| LR1 | 73,000 |  | 59 | 60 | 50 (E) | 40 | (E) | 25 |
+| MR | 51,000 |  | 49 | 50 | 41 (E) | 31 | (E) | 21 |
+| *(amount in USD million) |  | (E) - eco units |  |  |  |  |  |  |
 
 ## Shipbroking (www.star-asia.com.sg)
 

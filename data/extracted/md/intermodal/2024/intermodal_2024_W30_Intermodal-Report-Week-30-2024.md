@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 *By Fotis Kanatas, Research Analyst*
 
@@ -49,7 +47,6 @@ Assuming that these trends will continue, with CPP exports maintaining their upw
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 26/07/24 WS points | 26/07/24 $/day | 19/07/24 WS points | 19/07/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 56 | 34,938 | 54 | 31,789 | 9.9% | 39,466 | 20,330 |
@@ -69,12 +66,12 @@ Assuming that these trends will continue, with CPP exports maintaining their upw
 |  | 50k | ARA-UKC | 209 | 27,791 | 191 | 22,800 | 21.9% | 46,194 | 40,364 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 6 mos | HAFNIA ANE | 2015 | 49,999 dwt | DEL EAST JUL/24 | $34,000/day | Weco Tankers |
-| 12 mos | FPMC 32 | 2019 | 49,660 dwt | DEL EAST JUL/24 | $33,500/day | ST Shipping |
-### Dirty WS Rates (1-Year Trend)
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 6 mos | HAFNIA ANE | 2015 | 49,999 dwt |  |  |
+| 12 mos | FPMC 32 | 2019 | 49,660 dwt |  |  |
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 26/Jul/23 | 50 | 100 | 100 |
@@ -90,8 +87,8 @@ Assuming that these trends will continue, with CPP exports maintaining their upw
 | 26/May/24 | 45 | 90 | 170 |
 | 26/Jun/24 | 40 | 80 | 180 |
 | 26/Jul/24 | 35 | 70 | 190 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 26/Jul/23 | 150 | 160 | 170 | 180 |
@@ -165,13 +162,12 @@ As far as Aframaxes are concerned, the USG and Caribbean market are dragging the
 | BHSI | 759 | $13,670 | 752 | $13,543 | **7** | **0.9%** | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 4/6 mos | HUI TONG | 2010 | 83,601 dwt | dely Hong Kong 02/05 Aug | $16,500/day | cnr |
-| 5/7 mos | SELO | 2011 | 32,389 dwt | dely Jakarta prompt | $14,000/day | Pacific Basin |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 4/6 mos | HUI TONG | 2010 | 83,601 dwt |  |  |
+| 5/7 mos | SELO | 2011 | 32,389 dwt |  |  |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 26/Jul/23 | 1500 | 1000 | 800 | 600 | 1000 |
@@ -189,7 +185,6 @@ As far as Aframaxes are concerned, the USG and Caribbean market are dragging the
 | 26/Jul/24 | 2800 | 1750 | 1300 | 850 | 1650 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 26/Jul/23 | 10000 | 8000 | 7000 | 6000 |
@@ -269,7 +264,6 @@ Supramax 10TC averaged \$ 15,206/day up +2.27% w-o-w, while the Handysize 7TC av
 | HANDY | SEA SMILE | 38,109 | 2012 | SHIMANAMI, Japan | MAN-B\&W | Apr-27 | 4 X 30,5t CRANES | $ 17.0m | Chinese |  |
 
 ## Secondhand Sales
-
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLGC | VICTORIA LYRA | 58,677 | 2008 | HYUNDAI HEAVY INDS - U, S. Korea | MAN-B\&W | Apr-28 | 80,623 | $ 60.0m | undisclosed |  |
@@ -326,7 +320,6 @@ Newbuilding activity was robust last week, with a significant number of tanker c
 
 The demolition market activity remained weak for another week, with only one deal materializing. The primary demolition destinations in the Indian subcontinent continue to face challenges. India is grappling with low domestic steel demand, while recent rainfall has disrupted scrapyard operations. In Bangladesh, activity remains subdued due to ongoing riots, which have negatively impacted market activity. Similarly, in Pakistan, demand for scrap is low, leading to a stabilization of scrapping activity with few vessels being directed to the country's scrapyards. From a supply perspective, the freight market remains at levels that do not compel owners to consider demolition, particularly given the rising prices of secondhand vessels. This situation is exerting additional pressure on demolition market activity, with current bids failing to attract owners' attention..
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | 26/07/24 | 19/07/24 | ±% | YTD High | YTD Low | 2023 | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** | Bangladesh | 520 | 520 | 0.0% | 530 | 490 | 550 | 601 |
@@ -339,7 +332,6 @@ The demolition market activity remained weak for another week, with only one dea
 |  | Turkey | 360 | 360 | 0.0% | 350 | 330 | 315 | 304 |
 
 ## Currencies
-
 | Markets | Current | Previous | ±% | YTD High |
 | --- | --- | --- | --- | --- |
 | USD/BDT | 117.45 | 117.46 | 0.0% | 117.51 |
@@ -348,7 +340,6 @@ The demolition market activity remained weak for another week, with only one dea
 | USD/TRY | 32.95 | 33.04 | -0.3% | 33.02 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ICE RUNNER | 14,499 | 7,001 | 1984 | HYUNDAI HEAVY INDS - U, S. Korea | REEFER | $ 587.0m | undisclosed |

@@ -326,13 +326,9 @@ EXCHANGE RATES
 
 ## Commodities
 
-**Iron ore futures saw a second consecutive rise on Wednesday, driven by expectations of**
+Iron ore futures saw a second consecutive rise on Wednesday, driven by expectations of additional fiscal stimulus in China. On the Dalian Commodity Exchange, the most-traded May iron ore increased by 2.8% to 1,017.5 yuan (US$142.50) per metric ton at closing. The benchmark February iron ore on the Singapore Exchange was up 0.6% at US$141.76 per metric ton. A report from the OECD revealed three-year forward gross capacity additions of 150 million tons. India and ASEAN are expected to dominate these additions, reflecting a concentration in emerging markets, according to Citi analysts. President Xi Jinping's statement on consolidating and enhancing the positive trend of economic recovery in 2024 has fuelled expectations of more stimulus. However, analysts warn that breaking the psychological level of 1,000 yuan a ton could trigger downside risks from possible government intervention.
 
-additional fiscal stimulus in China. On the Dalian Commodity Exchange, the most-traded May iron ore increased by 2.8% to 1,017.5 yuan (US$142.50) per metric ton at closing. The benchmark February iron ore on the Singapore Exchange was up 0.6% at US$141.76 per metric ton. A report from the OECD revealed three-year forward gross capacity additions of 150 million tons. India and ASEAN are expected to dominate these additions, reflecting a concentration in emerging markets, according to Citi analysts. President Xi Jinping's statement on consolidating and enhancing the positive trend of economic recovery in 2024 has fuelled expectations of more stimulus. However, analysts warn that breaking the psychological level of 1,000 yuan a ton could trigger downside risks from possible government intervention.
-
-**Steel benchmarks on the Shanghai Futures Exchange mostly increased, with the most-**
-
-active rebar contract strengthening by 0.5%, hot-rolled coil growing by 0.6%, and stainless steel gaining 1.4%. The wire rod remained unchanged. Other steelmaking ingredients, Dalian coking coal and coke, increased by 3.1% and 2.3%, respectively.
+Steel benchmarks on the Shanghai Futures Exchange mostly increased, with the most- active rebar contract strengthening by 0.5%, hot-rolled coil growing by 0.6%, and stainless steel gaining 1.4%. The wire rod remained unchanged. Other steelmaking ingredients, Dalian coking coal and coke, increased by 3.1% and 2.3%, respectively.
 
 Iron Ore
 

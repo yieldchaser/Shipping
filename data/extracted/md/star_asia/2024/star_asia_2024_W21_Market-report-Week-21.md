@@ -328,21 +328,15 @@ Sub-Continent and Turkey ferrous scrap markets insight
 
 The Sub-Continent and Turkey ferrous scrap market remained mostly stable compared to the previous week. Indian buyers are adopting a cautious approach, expecting prices to drop due to mismatched bids and offers. Pakistani buyers are staying out of the market, dealing with a weak domestic steel market and payment delays. In Bangladesh, scrap imports have slowed because of cash flow issues and a sluggish local steel market. Prices for shredded scrap stayed the same in India, Pakistan, and Bangladesh. Bulk HMS (80:20) offers from the US to Turkey also remained stable.
 
-**Indian buyers are waiting for offers to drop due to bid-offer disparities. Shredded scrap**
+Indian buyers are waiting for offers to drop due to bid-offer disparities. Shredded scrap offers from the US and Europe are assessed at US$415-420 per ton CFR Nhava Sheva, with some traders offering around $425 per ton CFR. Buyers, however, are looking for US$410- 415 per ton CFR. Offers for HMS (80:20) from West Africa and Europe are at US$405-410 per ton CFR, but buyers want US$395-400 per ton CFR. A trader commented, "There are more inquiries but at lower prices. Buyers from mid-June to August are waiting due to the monsoon season. Selling below $420 per ton isn't viable for us. We're waiting for suppliers to lower their quotes by at least $6-8 per ton to cover costs." Additionally, a bulk scrap vessel from Singapore arrived at Chennai port, carrying shredded and busheling mix scrap, with an average price of US$418-422 per ton CFR.
 
-offers from the US and Europe are assessed at US$415-420 per ton CFR Nhava Sheva, with some traders offering around $425 per ton CFR. Buyers, however, are looking for US$410- 415 per ton CFR. Offers for HMS (80:20) from West Africa and Europe are at US$405-410 per ton CFR, but buyers want US$395-400 per ton CFR. A trader commented, "There are more inquiries but at lower prices. Buyers from mid-June to August are waiting due to the monsoon season. Selling below $420 per ton isn't viable for us. We're waiting for suppliers to lower their quotes by at least $6-8 per ton to cover costs." Additionally, a bulk scrap vessel from Singapore arrived at Chennai port, carrying shredded and busheling mix scrap, with an average price of US$418-422 per ton CFR.
-
-**Pakistani buyers are staying out of the market due to a weak domestic steel market and**
-
-payment delays. Shredded scrap offers from the UK/Europe are assessed at US$415-418 per ton CFR Qasim. A trader said, "Suppliers are quiet, with the latest prices ranging from US$415-418 per ton. The booking environment is fragile, and quotes from the UAE are scarce due to limited response from mills. We're expecting a slow week, with the bid-offer gap likely widening until prices stabilise."
+Pakistani buyers are staying out of the market due to a weak domestic steel market and payment delays. Shredded scrap offers from the UK/Europe are assessed at US$415-418 per ton CFR Qasim. A trader said, "Suppliers are quiet, with the latest prices ranging from US$415-418 per ton. The booking environment is fragile, and quotes from the UAE are scarce due to limited response from mills. We're expecting a slow week, with the bid-offer gap likely widening until prices stabilise."
 
 ## Shipbroking (www.star-asia.com.sg)
 
 ## Page 17
 
-**Bangladeshi buyers have slowed their scrap bookings because of cash flow issues and a**
-
-sluggish domestic steel market. Shredded scrap offers from the UK/Europe are at $418- 420 per ton CFR Chattogram, while HMS (80:20) is at $405-408 per ton CFR.
+Bangladeshi buyers have slowed their scrap bookings because of cash flow issues and a sluggish domestic steel market. Shredded scrap offers from the UK/Europe are at $418- 420 per ton CFR Chattogram, while HMS (80:20) is at $405-408 per ton CFR.
 
 **Turkish imported ferrous scrap prices remained largely stable in recent deals.**
 
@@ -350,13 +344,9 @@ sluggish domestic steel market. Shredded scrap offers from the UK/Europe are at 
 
 # Commodities
 
-**Iron ore futures dipped as traders assessed the recently announced support measures**
+Iron ore futures dipped as traders assessed the recently announced support measures for the property sector. While these measures are expected to boost sentiment, their actual impact on iron ore and steel demand may be limited. Although the measures should aid a rebound in construction activity from current lows, they are unlikely to spur new projects, which are the primary drivers of steel and iron ore demand. Additionally, converting unsold inventories into social housing might undermine efforts to develop new affordable housing projects. Consequently, we forecast a 4% decline in the property sector's steel consumption to 270 million tonnes in 2024.
 
-for the property sector. While these measures are expected to boost sentiment, their actual impact on iron ore and steel demand may be limited. Although the measures should aid a rebound in construction activity from current lows, they are unlikely to spur new projects, which are the primary drivers of steel and iron ore demand. Additionally, converting unsold inventories into social housing might undermine efforts to develop new affordable housing projects. Consequently, we forecast a 4% decline in the property sector's steel consumption to 270 million tonnes in 2024.
-
-**Copper prices stabilised following a sharp drop earlier this week, driven by concerns that**
-
-market expectations had outpaced fundamentals. Chinese fabricators are projected to reduce factory run rates to 66% of capacity this month, the lowest for the season since 2017, according to a Shanghai Metals Markets survey. More than 60% of copper rod plants have also scaled back output. This demand weakness is reflected in inventories, with stockpiles at warehouses monitored by the Shanghai Futures Exchange reaching record levels for this time of year.
+Copper prices stabilised following a sharp drop earlier this week, driven by concerns that market expectations had outpaced fundamentals. Chinese fabricators are projected to reduce factory run rates to 66% of capacity this month, the lowest for the season since 2017, according to a Shanghai Metals Markets survey. More than 60% of copper rod plants have also scaled back output. This demand weakness is reflected in inventories, with stockpiles at warehouses monitored by the Shanghai Futures Exchange reaching record levels for this time of year.
 
 ## Shipbroking (www.star-asia.com.sg)
 

@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 **By Yiannis Parganas, Head of Research Department**
 
@@ -23,7 +21,6 @@ For shipping markets, OPEC+'s decision to boost supply has improved sentiment, r
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 5/2/2025 WS points | 5/2/2025 $/day | 4/25/2025 WS points | 4/25/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 68 | 53,752 | 74 | 59,878 | -10.2% | 37,255 | 39,466 |
@@ -47,7 +44,8 @@ For shipping markets, OPEC+'s decision to boost supply has improved sentiment, r
 | 12 mos | Lady Mariella | 2013 |
 | --- | --- | --- |
 |  | $19,800/day |  |
-### 1-Year Forward WS Rates - Dirty
+
+### Dirty WS Rates (1-Year Trend)
 
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
@@ -66,7 +64,8 @@ For shipping markets, OPEC+'s decision to boost supply has improved sentiment, r
 | 2/Mar/25 |  |  |  |
 | 2/Apr/25 |  |  |  |
 | 2/May/25 |  |  |  |
-### 1-Year Forward WS Rates - Clean
+
+### Clean WS Rates (1-Year Trend)
 
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
@@ -136,7 +135,6 @@ The daily Aframax TC earnings averaged \$43,726, down by 6.5% w-o-w.
 
 No Fresh Fixtures to Report
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 2/May/24 | 2500 | 1800 | 1000 | 800 | 1600 |
@@ -154,7 +152,6 @@ No Fresh Fixtures to Report
 | 2/May/25 | 1800 | 800 | 90 | 50 | 650 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 2/May/24 | 22000 | 14000 | 10000 | 8000 |
@@ -209,7 +206,6 @@ Secondhand Sales
 | MR1 | ZAGARA | 37,320 | 2002 | STX, S. Korea | MAN B\&W | Apr-27 | DH | $ 8.0m | undisclosed |  |
 
 ## Secondhand Sales
-
 | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MINERAL CHINA | 171,128 | 2003 | HYUNDAI, S. Korea | B\&W | Aug-25 |  | excess $ 13.0m | undisclosed |  |
@@ -292,7 +288,6 @@ In Turkey the market remains under pressure with minimal activity and limited to
 | USD/TRY | 38.57 | 38.42 | 0.4% | 38.57 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PETER S | 71,550 | 10,176 | 1995 | HITACHI ZOSEN, Japan | BC | $468/Ldt | undisclosed | as-is Khor Fakkan |

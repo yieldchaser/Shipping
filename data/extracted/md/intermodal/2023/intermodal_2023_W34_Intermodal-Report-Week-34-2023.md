@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 By Fotis Kanatas, Research Analyst
 
@@ -17,7 +15,6 @@ In conclusion, although the dry bulk market is currently looking for a clear dir
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 25/08/23 WS points | 25/08/23 $/day | 18/08/23 WS points | 18/08/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 45 | 20,233 | 47 | 21,288 | -5.0% | 20,330 | 2,246 |
@@ -38,7 +35,6 @@ In conclusion, although the dry bulk market is currently looking for a clear dir
 |  | 50k | CARIBS-USG | 147 | 16,519 | 152 | 17,886 | -7.6% | 40,364 | 8,548 |
 
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 25/Aug/22 | 100 | 180 | 280 |
@@ -54,8 +50,8 @@ In conclusion, although the dry bulk market is currently looking for a clear dir
 | 25/Jun/23 | 80 | 100 | 240 |
 | 25/Jul/23 | 90 | 90 | 220 |
 | 25/Aug/23 | 100 | 80 | 200 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 25/Aug/22 | 200 | 250 | 300 | 350 |
@@ -139,7 +135,6 @@ Suezmax T/C earnings averaged \$ 12,995/day, up + \$3,863/day w-o-w. On the Afra
 |  | **32K 3yr TC** | 9,250 | 9,250 | 0.0% | 0 | 12,322 | 11,825 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 25/Aug/22 | 1500 | 1600 | 1400 | 1000 | 1200 |
@@ -157,7 +152,6 @@ Suezmax T/C earnings averaged \$ 12,995/day, up + \$3,863/day w-o-w. On the Afra
 | 25/Aug/23 | 1400 | 1500 | 1300 | 1000 | 1200 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Series | 25/Aug/22 | 25/Sep/22 | 25/Oct/22 | 25/Nov/22 | 25/Dec/22 | 25/Jan/23 | 25/Feb/23 | 25/Mar/23 | 25/Apr/23 | 25/May/23 | 25/Jun/23 | 25/Jul/23 | 25/Aug/23 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Average of the 5 T / C | 5000 | 18000 | 15000 | 12000 | 30000 | 2000 | 4000 | 10000 | 20000 | 15000 | 14000 | 16000 | 13000 |
@@ -206,7 +200,6 @@ Supramax 10TC averaged \$ 9,973/day, up +11.46% w-o-w, while the Handysize 7TC a
 | HANDY | TASMAN SPIRIT | 35,256 | 2010 | NANTONG CHANGQINGSHA, China | MAN-B\&W | Jan-25 | 4 X 30,5t CRANES | region $ 9.5m | undisclosed | BWTS fitted |
 
 ## Secondhand Sales
-
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | TS KELANG | 4,363 | 2007 | HYUNDAI MIPO, S. Korea | MAN-B\&W | Nov-27 |  | $ 20.8m | Chinese |
@@ -274,7 +267,6 @@ The market appears to be gaining momentum as more tonnage is sold for scrapping 
 | USD/TRY | 26.55 | 27.11 | -2.1% | 27.28 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | YONG NING | 48,139 | 12,700 | 1996 | GDANSKA STOCZNIA, Poland | BC | $ 500/Ldt | Pakistani |

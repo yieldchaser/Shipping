@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 **By Chara Georgousi, Research Analyst**
 
@@ -17,7 +15,6 @@ Yet, the most probable scenario for the U.S. dollar in the near term is one of c
 
 ## Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 24/05/24 WS points | 24/05/24 $/day | 17/05/24 WS points | 17/05/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 69 | 50,448 | 75 | 55,535 | -9.2% | 39,466 | 20,330 |
@@ -41,8 +38,8 @@ Yet, the most probable scenario for the U.S. dollar in the near term is one of c
 | DEL EAST MAY/24 | $24,500/day |  | Huyn dai Oilbank |
 | 5 yrs | BW EGRET | 2014 | 49,999 dwt |
 | DEL WEST MAY/24 | $38,000/day |  | Weco Tankers |
-### Dirty WS Rates (1-Year Trend)
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 24/May/23 | 50 | 120 | 150 |
@@ -58,8 +55,8 @@ Yet, the most probable scenario for the U.S. dollar in the near term is one of c
 | 24/Mar/24 | 60 | 100 | 150 |
 | 24/Apr/24 | 65 | 100 | 140 |
 | 24/May/24 | 70 | 110 | 130 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 24/May/23 | 150 | 160 | 170 | 180 |
@@ -121,14 +118,13 @@ In the crude freight market, the BDTI closed at 1,234 points on Friday. This lev
 | BHSI | 688 | $12,380 | 690 | $12,423 | -2 | -0.3% | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 4/6 mos | CPT STEFANOS M | 2008 | 75,213 dwt | - |  |  |
-| 4/6 months |  |  | Louis Dreyfus | - | $14,500/day |  |
-| 4/6 mos | LILA SEOUL | 2012 | 79,454 dwt | dely Qingdao 20 May redel worldwide | $16,000/day | Aquavita |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 4/6 mos | CPT STEFANOS M | 2008 | 75,213 dwt |  |  |
+| 4/6 months |  |  | Louis Dreyfus |  |  |
+| 4/6 mos | LILA SEOUL | 2012 | 79,454 dwt |  |  |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI |
 | --- | --- | --- | --- | --- |
 | 24/May/23 | 1,500 | 1,200 | 1,000 | 1,000 |
@@ -146,7 +142,6 @@ In the crude freight market, the BDTI closed at 1,234 points on Friday. This lev
 | 24/May/24 | 2,200 | 1,600 | 1,400 | 1,400 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 24/May/23 | 12,000 | 10,000 | 8,000 | 6,000 |
@@ -198,7 +193,6 @@ Supramax 10TC averaged \$ 14,994/day down -5.90% w-o-w, while the Handysize 7TC 
 # Secondhand Sales
 
 ## Secondhand Sales
-
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MR | NYON EXPRESS | 45,996 | 2010 | SHIN KURUSHIMA, Japan | MAN-B\&W | Nov-25 | DH | $ 27.0m | undisclosed |
@@ -278,7 +272,6 @@ Another subdued week for the recycling industry with signs of recovery, particul
 | USD/TRY | 32.20 | 32.20 | 0.0% | 32.49 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | EVER URANUS | 63,216 | 24,328 | 1999 | MITSUBISHI, Japan | CONTAINER | $ 542.0m | undisclosed | as is Port Kelang |

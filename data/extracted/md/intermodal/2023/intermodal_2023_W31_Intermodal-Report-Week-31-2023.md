@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 By Fotis Kanatas, Research Analyst
 
@@ -19,7 +17,6 @@ It is worth monitoring the specific trade between China and Brazil or the US, as
 
 ## Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 04/08/23 WS points | 04/08/23 $/day | 28/07/23 WS points | 28/07/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 50 | 25,540 | 52 | 30,551 | -16.4% | 20,330 | 2,246 |
@@ -44,8 +41,8 @@ It is worth monitoring the specific trade between China and Brazil or the US, as
 | 8 mos | NORD OLYMPIA | 2018 |
 | --- | --- | --- |
 |  | $27,000/day |  |
-### Dirty WS Rates (1-Year Trend)
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 28/Jul/22 | 50 | 180 | 300 |
@@ -60,8 +57,8 @@ It is worth monitoring the specific trade between China and Brazil or the US, as
 | 30/Apr/23 | 30 | 100 | 350 |
 | 31/May/23 | 20 | 100 | 150 |
 | 30/Jun/23 | 20 | 100 | 100 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 28/Jul/22 | 300 | 350 | 300 | 250 |
@@ -124,10 +121,10 @@ Suezmax T/C earnings averaged \$ 15,671/day, down – 32.35% w-o-w. On the Afram
 | BHSI | 390 | $7,020 | 396 | $7,123 | -6 | -1.4% | 1,181 | 1,424 |
 
 ### Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 6 to 9 mos | WEI HE | 2012 | 79,440 dwt | dely Qingdao 6 Aug redel worldwide | $9,550/day | Bluepool |
-| 3 to 5 mos | ETG Ubuntu | 2022 | 64,195 dwt | dely Philippines redel worldwide | $14,000/day | Crescent Bulk |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 6 to 9 mos | WEI HE | 2012 | 79,440 dwt |  |  |
+| 3 to 5 mos | ETG Ubuntu | 2022 | 64,195 dwt |  |  |
 
 ### TC Rates
 | Sector | Tenor | 04/08/23 | 28/07/23 | ±% | Diff | 2022 | 2021 |
@@ -143,7 +140,6 @@ Suezmax T/C earnings averaged \$ 15,671/day, down – 32.35% w-o-w. On the Afram
 | **Handysize Supramax Panamax** | 32K 3yr TC | 9,000 | 9,000 | 0.0% | 0 | 12,322 | 11,825 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 4/Aug/22 | 1800 | 1600 | 1400 | 1200 | 1900 |
@@ -161,7 +157,6 @@ Suezmax T/C earnings averaged \$ 15,671/day, down – 32.35% w-o-w. On the Afram
 | 4/Aug/23 | 1900 | 1600 | 1300 | 1000 | 1800 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 28/Jul/22 | 22000 | 20000 | 18000 | 16000 |
@@ -200,7 +195,6 @@ Supramax 10TC averaged \$ 7,723/day, down -5.39% w-o-w, while the Handysize 7TC 
 ## Secondhand Sales
 
 ## Secondhand Sales
-
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MR | GULF ELAN | 46,894 | 2007 | HYUNDAI MIPO DOCKYARD, S. Korea | Wartsila | Jan-27 | DH | undisclosed | undisclosed |  |
@@ -285,7 +279,6 @@ During the preceding week, there was a discernible increase in demolition market
 | USD/TRY | 26.91 | 26.91 | 0.0% | 27.25 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | GREAT WENWU | 68,621 | 9,759 | 1994 | SASEBO, Japan | BC | $ 465/Ldt | Bangladeshi |  |

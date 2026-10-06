@@ -29,7 +29,6 @@ Overall, the LNG carrier market is expected to remain volatile, driven by the in
 # Tanker Market
 
 ## Spot Rates
-
 | Sector | Size | Routes | 20/03/2026 WS points | 20/03/2026 $/day | 13/03/2026 WS points | 13/03/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 406 | 402,678 | 298 | 276,799 | 45.5% | 60,510 | 37,255 |
@@ -47,8 +46,8 @@ Overall, the LNG carrier market is expected to remain volatile, driven by the in
 | Dirty | 55K | UKC-USG | 185 | 21,877 | 180 | 22,826 | -4.2% | 10,784 | 17,707 |
 |  | 55K | MED-USG | 185 | 18,434 | 180 | 19,045 | -3.2% | 11,306 | 17,590 |
 |  | 50k | ARA-UKC | 402 | 72,874 | 388 | 70,623 | **3.2%** | 18,615 | 26,872 |
-## TC Rates
 
+## TC Rates
 | Sector | Tenor | 20/03/2026 | 13/03/2026 | ±% | Diff | 2025 | 2024 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 125,000 | 126,000 | -0.8% | -1000 | 50,615 | 50,365 |
@@ -63,8 +62,8 @@ Overall, the LNG carrier market is expected to remain volatile, driven by the in
 |  | 52k 3yr TC | 23,750 | 23,750 | 0.0% | 0 | 19,782 | 26,402 |
 | Handy | 36k 1yr TC | 22,500 | 22,500 | 0.0% | 0 | 18,519 | 26,606 |
 |  | 36k 3yr TC | 16,750 | 16,750 | 0.0% | 0 | 16,902 | 19,993 |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Mar-26 avg | Feb-26 avg | ±% | 2025 | 2024 | 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300KT DH | 140.0 | 132.3 | **5.9%** | 115.5 | 113.0 | 99.5 |
@@ -72,8 +71,8 @@ Overall, the LNG carrier market is expected to remain volatile, driven by the in
 | Aframax | 110KT DH | 72.5 | 72.0 | **0.7%** | 63.6 | 71.0 | 64.4 |
 | LR1 | 75KT DH | 55.0 | 53.1 | **3.5%** | 47.9 | 53.8 | 49.2 |
 | MR | 52KT DH | 47.0 | 45.5 | **3.3%** | 41.4 | 45.8 | 41.4 |
-### Dirty WS Rates (1-Year Trend)
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 13/Mar/25 | 50 | 150 | 250 |
@@ -89,8 +88,8 @@ Overall, the LNG carrier market is expected to remain volatile, driven by the in
 | 13/Jan/26 | 150 | 50 | 150 |
 | 13/Feb/26 | 450 | 350 | 400 |
 | 13/Mar/26 | 600 | 350 | 450 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 20/Mar/25 | 150 | 160 | 170 | 180 |
@@ -135,11 +134,10 @@ In the Aframax market, the Mediterranean saw steady conditions initially before 
 ### Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 11 to 13 mos | Cotinga 108.25% P5TC | 2019 | 82,061 dwt |  | cnr |
-| 5 to 7 mos | Star Macarena | 2016 | 81,198 dwt | $19,000/day | cnr |
+| 11 to 13 mos | Cotinga 108.25% P5TC | 2019 | 82,061 dwt |  |  |
+| 5 to 7 mos | Star Macarena | 2016 | 81,198 dwt |  |  |
 
 ### Baltic Indices (1-Year Trend)
-
 | Series BCI BPI BSI BHSI BDI | 20/03/25 2400 1400 1600 900 1600 | 20/04/25 1800 1300 1500 800 1500 | 20/05/25 3600 1500 1700 900 1700 | 20/06/25 3400 1600 1800 1000 1800 | 20/07/25 3200 1700 1900 1100 1900 | 20/08/25 3000 1800 2000 1200 2000 | 20/09/25 2800 1900 2100 1300 2100 | 20/10/25 2900 1800 2000 1200 2000 | 20/11/25 5000 2000 2200 1400 2300 | 20/12/25 4000 1900 2100 1300 2200 | 20/01/26 2600 1700 1900 1100 2000 | 20/02/26 2800 1800 2000 1200 2100 | 20/03/26 2900 1900 2100 1300 2200 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
@@ -178,7 +176,6 @@ In the Capesize segment, the week was characterised by uneven momentum across ke
 # Secondhand Sales
 
 ## Secondhand Sales
-
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUEZ | AEGEAN VISION | 158,871 | 2017 | HYUNDAI, S. Korea | MAN B\&W | Nov-30 | DH | $ 82.0m | S. Korean (Sinokor) | Eco |
@@ -275,8 +272,8 @@ In India, sentiment at Alang remained cautious as recyclers navigated both globa
 | USD/INR | 92.54 | 91.93 | 0.66% | 92.54 |
 | USD/PKR | 279.29 | 279.35 | -0.02% | 280.05 |
 | USD/TRY | 44.20 | 44.07 | 0.30% | 44.20 |
-## Demolition Sales
 
+## Demolition Sales
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PUTERI ZAMRUD SATU | 76,144 | 28,858 | 2004 | MITSUI, Japan | GAS TANKER | $381/Ldt | undisclosed | as is Malaysia |

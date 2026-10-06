@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 By <u>Chara Georgousi, Research Analyst</u>
 
@@ -25,7 +23,6 @@ Korean shipyards are pioneering sustainable maritime technologies, particularly 
 
 ## Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 03/11/2023 WS points | 03/11/2023 $/day | 27/10/2023 WS points | 27/10/2023 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 72 | 53,662 | 60 | 38,798 | 38.3% | 20,330 | 2,246 |
@@ -44,14 +41,14 @@ Korean shipyards are pioneering sustainable maritime technologies, particularly 
 |  | 55K | UKC-USG | 150 | 23,296 | 150 | 22,734 | 2.5% | 19,982 | 2,822 |
 |  | 55K | MED-USG | 150 | 22,931 | 150 | 22,650 | 1.2% | 21,231 | 4,818 |
 |  | 50k | CARIBS-USG | 245 | 45,913 | 222 | 39,185 | 17.2% | 40,364 | 8,548 |
+
 ## Indicative Period Charters
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 12 mos | CIELO DI ULSAN | 2015 | 39,060 dwt |  |  |
+| 12 mos | YASA VEGA | 2021 | 50,215 dwt |  |  |
 
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 12 mos | CIELO DI ULSAN | 2015 | 39,060 dwt | DEL WEST OCT/23 | $28,600/day | Peninsula |
-| 12 mos | YASA VEGA | 2021 | 50,215 dwt | DEL WEST NOV/23 | $30,250/day | Vitol |
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | DATE | WS points | WS points | WS points |
@@ -68,8 +65,8 @@ Korean shipyards are pioneering sustainable maritime technologies, particularly 
 | 3/Sep/23 | 70 | 180 | 100 |
 | 3/Oct/23 | 70 | 180 | 100 |
 | 3/Nov/23 | 70 | 180 | 280 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | DATE | WS points | WS points | WS points | WS points |
@@ -102,8 +99,8 @@ Korean shipyards are pioneering sustainable maritime technologies, particularly 
 |  | 52k 3yr TC | 25,500 | 24,500 | 4.1% | 1000 | 16,426 | 13,804 |
 | Handy | 36k 1yr TC | 26,000 | 26,000 | 0.0% | 0 | 18,601 | 11,292 |
 |  | 36k 3yr TC | 18,000 | 18,000 | 0.0% | 0 | 14,585 | 13,054 |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Nov-23 avg | Oct-23 avg | ±% | 2022 | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300KT DH | 99.0 | 99.0 | 0.0% | 80.2 | 69.7 | 71.5 |
@@ -154,7 +151,6 @@ No fixtures to report for last week
 |  | **32K 3yr TC** | 9,250 | 9,250 | 0.0% | 0 | 12,322 | 11,825 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 3/Nov/22 | 13000 | 14000 | 13500 | 8000 |
@@ -293,7 +289,6 @@ The demolition market continues to be sluggish as few sales have been completed.
 | USD/TRY | 28.38 | 28.17 | 0.75% | 28.57 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | APJ UMA KISMAT | 74,107 | 7,451 | 2001 | IMABARI, Japan | BC | $ 510/Ldt | undisclosed | on 'as is' bss Colombo |

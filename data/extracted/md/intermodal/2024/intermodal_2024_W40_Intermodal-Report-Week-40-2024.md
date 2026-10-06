@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 _By Fotis Kanatas, Research Analyst_
 
@@ -19,7 +17,6 @@ If hostilities escalate and key oil facilities are hit, much of the world's oil 
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 04/10/24 WS points | 04/10/24 $/day | 27/09/24 WS points | 27/09/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 60 | 39,683 | 55 | 33,957 | 16.9% | 39,466 | 20,330 |
@@ -39,12 +36,12 @@ If hostilities escalate and key oil facilities are hit, much of the world's oil 
 |  | 50k | ARA-UKC | 110 | 1,151 | 124 | 5,309 | -78.3% | 46,194 | 40,364 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 3 mos | PS STARS | 2022 | 49,999 dwt | DEL EAST OCT/24 | $35,000/day | Weco Tankers |
-| 24 mos | PETALOUDA | 2008 | 47,322 dwt | DEL EAST OCT/24 | $28,500/day | Aramco |
-### Dirty WS Rates (1-Year Trend)
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 3 mos | PS STARS | 2022 | 49,999 dwt |  |  |
+| 24 mos | PETALOUDA | 2008 | 47,322 dwt |  |  |
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 4/Oct/23 | 150 | 120 | 250 |
@@ -60,8 +57,8 @@ If hostilities escalate and key oil facilities are hit, much of the world's oil 
 | 4/Aug/24 | 75 | 100 | 190 |
 | 4/Sep/24 | 80 | 95 | 200 |
 | 4/Oct/24 | 85 | 90 | 210 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 4/Oct/23 | 150 | 140 | 160 | 130 |
@@ -121,10 +118,10 @@ Tankers saw divergent trends during last week as the crude tankers surged, while
 | BHSI | 712 | $12,824 | 710 | $12,773 | **2** | **0.4%** | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 12 mos | TRANSCENDEN WISDOM |  | 82,561 dwt | dely Cai Mep 13/14 Oct redel worldwide | $16,500/day | Norden |
-| 4/7 months | CRYSTAL OCEAN | 2021 | 82,555 dwt | dely South China 1/5 Oct redel worldwide | $18,000/day | cnr |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 12 mos | TRANSCENDEN WISDOM |  | 82,561 dwt |  |  |
+| 4/7 months | CRYSTAL OCEAN | 2021 | 82,555 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | 04/10/24 | 27/09/24 | ±% | Diff | 2023 | 2022 |
@@ -139,7 +136,6 @@ Tankers saw divergent trends during last week as the crude tankers surged, while
 |  | **32K 3yr TC** | 1,000 | 10,000 | -90.0% | -9,000 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 4/Oct/23 | 3000 | 1800 | 1500 | 1000 | 1800 |
@@ -156,7 +152,6 @@ Tankers saw divergent trends during last week as the crude tankers surged, while
 | 4/Oct/24 | 3200 | 1800 | 1500 | 900 | 1900 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 4/Oct/23 | 25000 | 14000 | 12000 | 10000 |
@@ -195,7 +190,6 @@ Supramax 10TC averaged \$14,065/day down -3.18% w-o-w, while the Handysize 7TC a
 # Secondhand Sales
 
 ## Secondhand Sales
-
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LR2 | PS GENOVA | 108,983 | 2010 | HUDONG-ZHONGHUA, China | MAN-B\&amp;W | May-25 | DH | excess $ 40.0m | UAE based |  |
@@ -278,7 +272,6 @@ In Turkey, however, there was some improvement with local and imported scrap pri
 | USD/TRY | 33.10 | 32.95 | 0.5% | 33.12 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | MSC ADELE | 30,950 | 8,779 | 1986 | HDW AG - Kiel - GEU, Germany | CONTAINER | $ 500.0m | Indian |

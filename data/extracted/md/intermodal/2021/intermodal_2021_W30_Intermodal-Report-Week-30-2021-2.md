@@ -59,7 +59,6 @@ Shanghai 200122 China
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | Current WS points | Current $/day | Previous WS points | Previous $/day | $/day ±% | 2020 $/day | 2019 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 32 | -2,490 | 33 | -1,530 | -62.7% | 52,119 | 45,517 |
@@ -79,8 +78,8 @@ Shanghai 200122 China
 | Dirty | 55K | UKC-USG | 95 | 1,437 | 95 | 1,961 | -26.7% | 12,120 | 15,960 |
 |  | 55K | MED-USG | 95 | 1,528 | 97 | 2,098 | -27.2% | 12,965 | 15,327 |
 |  | 50k | CARIBS-USG | 99 | -67 | 100 | 522 | -112.8% | 17,651 | 18,781 |
-## TC Rates
 
+## TC Rates
 | Sector | Tenor | Current | Previous | ±% | Diff | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 25,000 | 25,000 | 0.0% | 0 | 42,038 | 37,462 |
@@ -95,13 +94,13 @@ Shanghai 200122 China
 |  | 52k 3yr TC | 13,500 | 13,500 | 0.0% | 0 | 15,916 | 16,181 |
 | Handy | 36k 1yr TC | 10,250 | 10,250 | 0.0% | 0 | 13,966 | 13,856 |
 |  | 36k 3yr TC | 13,250 | 13,250 | 0.0% | 0 | 14,051 | 13,753 |
-## Indicative Period Charters
 
+## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 mos | MARAN ATLAS | 2009 | 105,071 dwt | $13,500/day | Reliance Industries |
-### Dirty WS Rates (1-Year Trend)
+| 6 mos | MARAN ATLAS | 2009 | 105,071 dwt |  |  |
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 30/Jul/20 | 50 | 70 | 80 |
@@ -116,8 +115,8 @@ Shanghai 200122 China
 | 30/Apr/21 | 5 | 25 | 100 |
 | 31/May/21 | 5 | 25 | 80 |
 | 30/Jun/21 | 5 | 25 | 70 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 30/Jul/20 | 100 | 110 | 120 | 130 |
@@ -132,8 +131,8 @@ Shanghai 200122 China
 | 30/Apr/21 | 55 | 65 | 75 | 120 |
 | 31/May/21 | 50 | 60 | 70 | 100 |
 | 30/Jun/21 | 45 | 55 | 65 | 90 |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Jul-21 avg | Jun-21 avg | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300KT DH | 72.0 | 70.3 | 2.5% | 71.5 | 72.4 | 65.6 |
@@ -163,7 +162,6 @@ In the small size sector we had the sale of the "NIPAYIA" (19,997dwt-blt '09, S.
 
 # Intermodal Dry Bulk Market
 ## Baltic Indices
-
 | Index Name | 7/30/2021 Index | 7/30/2021 $/day | 7/23/2021 Index | 7/23/2021 $/day | Point Diff | $/day ±% | 2020 Index | 2019 Index |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | BDI | 3,292 |  | 3,199 |  | **93** |  | 1,066 | 1,344 |
@@ -171,14 +169,14 @@ In the small size sector we had the sale of the "NIPAYIA" (19,997dwt-blt '09, S.
 | BPI | 3,304 | $29,734 | 3,528 | $31,756 | -224 | -6.4% | 1,103 | 1,382 |
 | BSI | 2,945 | $32,395 | 2,871 | $31,577 | **74** | **2.6%** | 746 | 877 |
 | BHSI | 1,760 | $31,676 | 1,736 | $31,246 | **24** | **1.4%** | 447 | 490 |
+
 ## Indicative Period Charters
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 4-6 mos | WARRIOR | 2012 | 56,700 dwt |  |  |
+| 12 mos | DANAI | 2019 | 37,976 dwt |  |  |
 
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 4-6 mos | WARRIOR | 2012 | 56,700 dwt | Nouakchott 9 Aug | $33,500/day | Oldendorff |
-| 12 mos | DANAI | 2019 | 37,976 dwt | - | $25,000/day | China |
 ## TC Rates
-
 | Sector | Tenor | Current | Previous |
 | --- | --- | --- | --- |
 | $/day | 7/30/2021 | 7/23/2021 | ±% |
@@ -196,7 +194,6 @@ In the small size sector we had the sale of the "NIPAYIA" (19,997dwt-blt '09, S.
 |  | 32K 3yr TC | 14,750 | 13,000 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 30/Jul/20 | 2000 | 1500 | 1000 | 800 | 2500 |
@@ -213,7 +210,6 @@ In the small size sector we had the sale of the "NIPAYIA" (19,997dwt-blt '09, S.
 | 30/Jun/21 | 3900 | 3700 | 2900 | 1900 | 3900 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 30/Jul/20 | 15000 | 10000 | 10000 | 10000 |
@@ -260,7 +256,6 @@ In the Panamax sector we had the sale of the "MG SAKURA" (75,397dwt-blt '06, Jap
 
 # Intermodal Secondhand Sales
 ## Bulk Carriers
-
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | HARK OLDENDORFF | 209,325 | 2016 | JIANGSU NEWYANGZI, China | MAN-B\&amp;W |  |  | $ 45.0m | USA based (JPM) | delivery January 2022 |
@@ -282,7 +277,6 @@ In the Panamax sector we had the sale of the "MG SAKURA" (75,397dwt-blt '06, Jap
 
 # Intermodal Secondhand Sales
 ## Tankers
-
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | TSURUGA | 309,960 | 2009 | IMABARI, Japan | MAN-B&amp;W | Oct-24 | DH | rgn $ 39.0m | Greek |  |
@@ -290,8 +284,8 @@ In the Panamax sector we had the sale of the "MG SAKURA" (75,397dwt-blt '06, Jap
 | MR | DEE4 BIRCH | 53,712 | 2006 | SHIN KURUSHIMA, Japan | Mitsubishi | Feb-26 | DH | excess 12.0m | undisclosed | BWTS fitted |
 | MR | DEE4 ACACIA | 53,688 | 2006 | SHIN KURUSHIMA, Japan | Mitsubishi | Nov-25 | DH | excess 12.0m | undisclosed | BWTS fitted |
 | SMALL | NI PAYIA | 19,997 | 2009 | SEKWANG, S. Korea | MAN-B&amp;W | Jan-24 | DH | $ 15.75m | Greek |  |
-## Bulk Carriers
 
+## Bulk Carriers
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | MAINE TRADER | 4,992 | 2004 | HANJIN HI, S. Korea | B\&amp;W | Nov-24 |  | $ 54.0m | Singapore based (OM Maritime) | Delivery January 2022 |
@@ -380,7 +374,6 @@ The newbuilding market activity witnessed a healthy volume of new contracts with
 
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | 7/30/2021 | 7/23/2021 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
@@ -425,8 +418,8 @@ The demolition market activity continues to oscillate between an apparent shorta
 | 30/Apr/21 | 500 | 460 | 480 | 275 |
 | 31/May/21 | 540 | 500 | 520 | 280 |
 | 30/Jun/21 | 560 | 540 | 540 | 280 |
-## Indicative Demolition Prices ($/ldt)
 
+## Indicative Demolition Prices ($/ldt)
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/Ldt | Demolition Sales Breakers | Demolition Sales Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SAGA TIDE | 47,029 | 10,712 | 1991 | OSHIMA, Japan | GENERAL CARGO | $ 599/Ldt | Indian | Green recycling |

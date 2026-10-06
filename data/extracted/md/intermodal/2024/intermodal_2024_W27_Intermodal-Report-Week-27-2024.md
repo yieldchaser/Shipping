@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 By Fotis Kanatas, Research Analyst
 
@@ -19,7 +17,6 @@ The first half of 2024 has thus set a complex stage for the tanker market, marke
 
 ## Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 05/07/24 WS points | 05/07/24 $/day | 28/06/24 WS points | 28/06/24 $/day | $/day ±% | 2023 $/day | 2022 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 49 | 26,145 | 51 | 28,332 | -7.7% | 39,466 | 20,330 |
@@ -41,9 +38,9 @@ The first half of 2024 has thus set a complex stage for the tanker market, marke
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 36 mos | TORM HELENE METRO AEGEAN | 2021 2024 | 115,575 dwt | $48,500/day | P66(CONOCO) 114,934 dwt Norden |
-### Dirty WS Rates (1-Year Trend)
+| 36 mos | TORM HELENE METRO AEGEAN | 2021 2024 | 115,575 dwt |  |  |
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 5/Jul/23 | 100 | 120 | 150 |
@@ -59,8 +56,8 @@ The first half of 2024 has thus set a complex stage for the tanker market, marke
 | 5/May/24 | 10 | 35 | 65 |
 | 5/Jun/24 | 15 | 40 | 70 |
 | 5/Jul/24 | 20 | 45 | 75 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 5/Jul/23 | 150 | 160 | 170 | 180 |
@@ -124,11 +121,11 @@ On the Aframax front, it was a fairly stable week, with TD7 (Nsea/Cont) being hi
 | BHSI | 742 | $13,365 | 763 | $13,727 | -21 | -2.6% | 586 | 1,181 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 4/6 mos | RAINBW N | 2011 | 79,602 dwt | dely Caofeidian 1/2 Jul redel worldwide | $15,000/day | Oldendorff |
-| 4/6 mos | GRACE C | 2013 | 36,903 dwt | - |  |  |
-| 4/6 months |  |  | cnr | - | $12,500/day |  |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 4/6 mos | RAINBW N | 2011 | 79,602 dwt |  |  |
+| 4/6 mos | GRACE C | 2013 | 36,903 dwt |  |  |
+| 4/6 months |  |  | cnr |  |  |
 
 ## TC Rates
 | Sector | Tenor | 05/07/24 | 28/06/24 | ±% | Diff | 2023 | 2022 |
@@ -143,7 +140,6 @@ On the Aframax front, it was a fairly stable week, with TD7 (Nsea/Cont) being hi
 |  | **32K 3yr TC** | 9,500 | 9,500 | 0.0% | 0 | 9,510 | 12,322 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 5/Jul/23 | 1500 | 1000 | 800 | 600 | 1200 |
@@ -161,7 +157,6 @@ On the Aframax front, it was a fairly stable week, with TD7 (Nsea/Cont) being hi
 | 5/Jul/24 | 3500 | 2400 | 1450 | 850 | 2100 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 5/Jul/23 | 12000 | 10000 | 8000 | 6000 |
@@ -261,7 +256,6 @@ A plethora of newbuilding orders came to light during the previous week, with a 
 
 The demolition market saw little action this week, owing to high freight charges, which continue to limit the availability of boats for recycling. Overall morale remained low owing to economic uncertainty and post-Eid changes in several regions. In India, the steel market provided contradictory signals. Local steel plate and scrap prices fell somewhat, but the demand for completed steel products remained sluggish. As a result, ship recyclers cut their bids by around \$5/LDT. Imported scrap prices remained steady, and the market is closely watching the impending national budget. Without significant government involvement to raise steel demand, ship recyclers are hesitant to expand their offerings. Bangladesh continues to experience market reductions, worsened by the monsoon season and low local demand. Local steel and scrap prices declined, but ship recyclers maintained their offers owing to a restricted supply of new tonnages. The government's pursuit of a \$5 billion loan from China aims to increase foreign exchange reserves and provide potential economic assistance. However, present market circumstances are anticipated to put pricing under pressure, with recyclers holding off on making fresh offers until prices have stabilized. Pakistan's steel market improved, with local mills upping final product pricing due to higher power costs. However, a recently imposed 2% additional customs tariff on ships imported for recycling has harmed ship recyclers. Despite a modest rebound following Eid, recyclers remain cautious, keeping prices stable in the face of increasing tax demands. The government's current discussions for an IMF loan to stabilize the economy have the potential to affect future market dynamics. Turkey's market conditions were stable but sluggish, with constant local steel prices and a minor increase in import values. A unusual drop in the country's inflation rate gave some economic comfort, but demand for ship steel scrap remained low, and recyclers maintained offer pricing. Market growth is projected to be moderate unless substantial changes in global steel demand or local economic policies take place. Overall, the demolition market remains cautious. Upcoming budget statements, particularly in India, may bring good improvements, but general attitude remains cautious given persistent economic problems and uncertainty.
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | 05/07/24 | 28/06/24 | ±% | YTD High | YTD Low | 2023 | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |  |  |
@@ -274,8 +268,8 @@ The demolition market saw little action this week, owing to high freight charges
 | India | 520 | 520 | 0.0% | 520 | 480 | 522 | 583 | 508 |
 | Pakistan | 500 | 500 | 0.0% | 510 | 500 | 515 | 587 | 526 |
 | Turkey | 360 | 360 | 0.0% | 350 | 330 | 315 | 304 | 276 |
-## Currencies
 
+## Currencies
 | Markets | Current | Previous | ±% | YTD High |
 | --- | --- | --- | --- | --- |
 | USD/BDT | 117.51 | 117.48 | 0.0% | 117.51 |
@@ -284,7 +278,6 @@ The demolition market saw little action this week, owing to high freight charges
 | USD/TRY | 32.64 | 32.65 | 0.0% | 32.64 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | HUA KAI | 6,819 | 2,408 | 1994 | DAE SUN, S. Korea | CONTAINER | $ 530.0m | Bangladeshi |

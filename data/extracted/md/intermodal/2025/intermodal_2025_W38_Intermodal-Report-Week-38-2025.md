@@ -1,5 +1,3 @@
-## Weekly Market Report
-
 ## Market Insight
 <u>By Yiannis Parganas, Head of Research Department</u>
 
@@ -22,11 +20,11 @@ None of this is to say that the bauxite trade will decline in the medium term, t
 | 12 mos | Sea Onyx | 2022 |
 | --- | --- | --- |
 |  | $44,000/day |  |
-## Spot Rates
 
+## Spot Rates
 | Sector | Size | Routes | 19/09/2025 WS points | 19/09/2025 $/day | 12/09/2025 WS points | 12/09/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Vessel |  |  |  |  | Routes | WS points | $/day | WS points | $/day |
+| Vessel |  |  |  |  |  |  | Routes | WS points | $/day |
 | **VLCC** | 265k | MEG-SPORE | 107 | 100,663 | 88 | 78,878 | **27.6%** | 37,255 | 39,466 |
 |  | 260k | WAF-CHINA | 96 | 84,812 | 94 | 82,833 | **2.4%** | 37,722 | 38,773 |
 | **Suezmax** | 130k | MED-MED | 122 | 67,320 | 122 | 67,774 | -0.7% | 50,058 | 62,964 |
@@ -42,6 +40,7 @@ None of this is to say that the bauxite trade will decline in the medium term, t
 | **Dirty** | 55K | UKC-USG | 115 | 9,730 | 115 | 10,009 | -2.8% | 17,707 | 27,274 |
 |  | 55K | MED-USG | 115 | 11,220 | 115 | 11,240 | -0.2% | 17,590 | 27,060 |
 |  | 50k | ARA-UKC | 163 | 16,045 | 157 | 14,494 | **10.7%** | 26,872 | 46,194 |
+
 ### Dirty WS Rates (1-Year Trend)
 
 | Date | WS points |
@@ -59,6 +58,7 @@ None of this is to say that the bauxite trade will decline in the medium term, t
 | 19/Jul/25 | 100 |
 | 19/Aug/25 | 150 |
 | 19/Sep/25 | 150 |
+
 ### Clean WS Rates (1-Year Trend)
 
 | Date | WS points |
@@ -126,9 +126,9 @@ The Aframax market showed divergent regional performance. The North Sea rebounde
 | BHSI | 815 | $14,671 | 804 | $14,475 | **11** | **1.4%** | 702 | 586 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 24 mos | Sakizaya Miracle | 2017 | 81,668 dwt | dely Koh Si Chang 8/20 Oct worldwide | index linked at 112% BPI82 | Louis Dreyfus |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 24 mos | Sakizaya Miracle | 2017 | 81,668 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | 19/09/2025 | 12/09/2025 | ±% | Diff | 2024 | 2023 |
@@ -143,7 +143,6 @@ The Aframax market showed divergent regional performance. The North Sea rebounde
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 19/Sep/24 | 3600 | 1500 | 1300 | 800 | 1600 |
@@ -161,7 +160,6 @@ The Aframax market showed divergent regional performance. The North Sea rebounde
 | 19/Sep/25 | 3100 | 1700 | 1200 | 700 | 2000 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 19/Sep/24 | 30000 | 13000 | 14000 | 12000 |
@@ -301,7 +299,6 @@ In Bangladesh, scarcity of candidates has strengthened market conditions as buye
 
 Another muted week for the Turkey, with market participants adopting a wait and see stance. Despite an influx of candidates, buyers seem reluctant. The steel market remains flat, as economic uncertainty weighs on stockpiling decisions.
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ASIAN ENTERPRISE | 42,529 | 9,016 | 1995 | NAMURA, Japan | BC | $420/Ldt | Bangladeshi |

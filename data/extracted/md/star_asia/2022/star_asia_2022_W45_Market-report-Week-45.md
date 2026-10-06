@@ -70,25 +70,25 @@ day while Pacific r/v closed at US$ 9,500's. Overall market outlook remains pess
 
 # Dry Bulk - S&P Report
 
-| VESSEL NAME | TYPE | DWT | YEAR | BUILT |  | PRICE | COMMENTS | / BUYERS |
-|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  | (MILLION) | USD |  |  |
-| TRUE PATRIOT | CAPE | 180,967 | 2016 | JAPAN |  | 39.8 |  | UNDISCLOSED |
-| EDWARD N | CAPE | 176,216 | 2011 | CHINA |  | 23.0 | TAIWANESE | BUYERS |
-| CMB VAN MIEGHEM | POST | PMAX 95,737 | 2011 | JAPAN |  | 21.0 |  | UNDISCLOSED |
-| NAVIOS TAURUS | PANAMAX | 76,596 | 2005 | JAPAN |  | 14.0 | INDONESIAN | BUYERS |
-| NORD YUCATAN | ULTRAMAX | 63,500 | 2019 | CHINA |  | 28.5 | TOMASOS | BROTHERS |
-| PORTHOS | SUPRAMAX | 56,825 | 2010 | CHINA |  | 16.0 |  | UNDISCLOSED |
-| JIN FENG | SUPRAMAX | 52,686 | 2004 | JAPAN |  | 13.3 | XINFENG | HK SHIPPING |
-| JIAN DA | SUPRAMAX | 52,677 | 2005 | JAPAN |  | 13.2 | TURKISH | BUYERS |
-| BELLE ETOILE | HANDY | 28,230 | 2014 | JAPAN |  | 14.0 |  | UNDISCLOSED |
-| SUN GLORY | GC | 7,362 Dry | 2000 Bulk (Weekly) | JAPAN Values |  | 3.3 | MIDDLE | EASTERN BUYER |
-| TYPE | DWT | NB CONTRACT | NB | PROMPT DELIVERY |  | 5 YEARS | 10 YEARS | 20 YEARS |
-| CAPE | 180,000 | 62 |  | 54 |  | 37 | 30 | 14 |
-| KAMSARMAX | 82,000 | 35 |  | 37 |  | 31 | 23 | 11 |
-| SUPRAMAX | 56,000 | 32 |  | 36 |  | 29 | 20 | 9 |
-| HANDY | 38,000 | 29 |  | 28 |  | 24 | 16 | 6 |
-| *(Amount in USD million) |  |  |  |  |  |  |  |  |
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE | COMMENTS | / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  | USD |  |  |
+| TRUE PATRIOT | CAPE | 180,967 | 2016 | JAPAN | 39.8 |  | UNDISCLOSED |
+| EDWARD N | CAPE | 176,216 | 2011 | CHINA | 23.0 | TAIWANESE | BUYERS |
+| CMB VAN MIEGHEM | POST | PMAX 95,737 | 2011 | JAPAN | 21.0 |  | UNDISCLOSED |
+| NAVIOS TAURUS | PANAMAX | 76,596 | 2005 | JAPAN | 14.0 | INDONESIAN | BUYERS |
+| NORD YUCATAN | ULTRAMAX | 63,500 | 2019 | CHINA | 28.5 | TOMASOS | BROTHERS |
+| PORTHOS | SUPRAMAX | 56,825 | 2010 | CHINA | 16.0 |  | UNDISCLOSED |
+| JIN FENG | SUPRAMAX | 52,686 | 2004 | JAPAN | 13.3 | XINFENG | HK SHIPPING |
+| JIAN DA | SUPRAMAX | 52,677 | 2005 | JAPAN | 13.2 | TURKISH | BUYERS |
+| BELLE ETOILE | HANDY | 28,230 | 2014 | JAPAN | 14.0 |  | UNDISCLOSED |
+| SUN GLORY | GC | 7,362 Dry | 2000 Bulk (Weekly) | JAPAN Values | 3.3 | MIDDLE | EASTERN BUYER |
+| TYPE | DWT | NB CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 20 YEARS |
+| CAPE | 180,000 | 62 |  | 54 | 37 | 30 | 14 |
+| KAMSARMAX | 82,000 | 35 |  | 37 | 31 | 23 | 11 |
+| SUPRAMAX | 56,000 | 32 |  | 36 | 29 | 20 | 9 |
+| HANDY | 38,000 | 29 |  | 28 | 24 | 16 | 6 |
+| *(Amount in USD million) |  |  |  |  |  |  |  |
 
 # Baltic Exchange Dry Bulk Indices
 
@@ -150,14 +150,14 @@ The UK-Continent MR volumes continued to surge upwards after a week-long flurry 
 
 (MILLION) USD
 
-| VESSEL NAME | TYPE | DWT | YEAR | BUILT |  | COMMENTS / BUYERS |
-|---|---|---|---|---|---|---|
-| DAEHAN 5075 | LR2 | 115,000 | 2022 | S. KOREA | 72.5 | NAVIG8 |
-| BEKS SWAN | AFRA | 108,929 | 2009 | CHINA | 36.0 | UNDISCLOSED |
-| ORTOLAN COCO | LR1 | 74,992 | 2008 | CROATIA | 20.0 | GREEK BUYERS |
-| NORDIC TRISTAN | LR1 | 73,604 | 2007 | CHINA | 20.5 | UNDISCLOSED |
-| ERAWAN 10 PSS VITALITY / | MR | 44,998 37,297 / | 2003 | JAPAN | 12.0 | FAR EASTERN BUYER |
-| PSS ENERGY | MR | 37,244 | 2001 | S. KOREA | 25.0 EN BLOC | FAR EASTERN BUYERS |
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- |
+| DAEHAN 5075 | LR2 | 115,000 | 2022 | S. KOREA | NAVIG8 |
+| BEKS SWAN | AFRA | 108,929 | 2009 | CHINA | UNDISCLOSED |
+| ORTOLAN COCO | LR1 | 74,992 | 2008 | CROATIA | GREEK BUYERS |
+| NORDIC TRISTAN | LR1 | 73,604 | 2007 | CHINA | UNDISCLOSED |
+| ERAWAN 10 PSS VITALITY / | MR | 44,998 37,297 / | 2003 | JAPAN | FAR EASTERN BUYER |
+| PSS ENERGY | MR | 37,244 | 2001 | S. KOREA | FAR EASTERN BUYERS |
 
 PROD / CHEM LUCK 11,564 1997 JAPAN 3.3 CHINESE BUYER CHEM
 
@@ -333,10 +333,10 @@ Despite moderate demand at the current pricing, markets remained stagnant. The b
 
 Markets remained muted with no buying interest. Recyclers were happy staying on the sidelines as they could not compete with the imported steel prices, raw materials and finished products. China has resumed dumping Hot Rolled Coils (HRC), the ultimate finished steel product, at the price of US$525~530/ton levels, making ship prices challenging to cope with. Major mills in Pakistan lowered their domestic finished steel prices in light of weak demand. Imported ferrous scrap prices continued their downward trend. Political instability again took center stage, leading to uncertainties and slowing down the economy further. The recently appointed government has not been able to kick-start the economy as they have been struggling to remain in power. Infra-projects which supposed to resume were finding themselves positioned
 
-|  | Anchorage & | Beaching Position | (November | 2022) |
-|---|---|---|---|---|
-| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
-| - | - | - | - | - |
+| Anchorage & | Beaching Position | (November | 2022) |
+| --- | --- | --- | --- |
+| TYPE | LDT | ARRIVAL | BEACHING |
+| - | - | - | - |
 
 #### ALIAGA, TURKEY
 

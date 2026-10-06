@@ -106,13 +106,9 @@ Following the trend set by the bigger units, MEG rates have continued to rise. S
 
 Clean:
 
-**LR: In the LR2 MEG market, despite a slight shortage in vessel supply, weak demand**
+**LR:** In the LR2 MEG market, despite a slight shortage in vessel supply, weak demand continued as market participants held back. TC1 fell to WS140. Similar was also seen in the LR1s as rates continue to soften. At closing, TC5 fell to WS146.
 
-continued as market participants held back. TC1 fell to WS140. Similar was also seen in the LR1s as rates continue to soften. At closing, TC5 fell to WS146.
-
-**MR: In the Far East market, downward correction was seen due to reduced demand**
-
-similar was seen in the Middle East. MEG fell at closing, losing some 20 points to close at WS167.
+**MR:** In the Far East market, downward correction was seen due to reduced demand similar was seen in the Middle East. MEG fell at closing, losing some 20 points to close at WS167.
 
 ## Baltic Exchange Tanker Indices
 
@@ -312,13 +308,9 @@ UK/EU shredded offers stood higher at \\$378-380/t CFR, while buyers showed inte
 
 ## Commodities (Weekinfocus)
 
-**Commodity markets slipped broadly after the Federal Reserve cut interest rates by 25**
+Commodity markets slipped broadly after the Federal Reserve cut interest rates by 25 basis points yesterday, a move that in past cycles has typically buoyed raw materials. Rate-cutting periods often lift commodities through a weaker dollar, stronger risk appetite, cheaper financing for storage, and improved demand prospects as central banks signal support for growth. This time, however, the backdrop looks more complicated. Geopolitical tensions and supply constraints are expected to temper any upside, while the Fed's current cycle appears mild compared with history. Markets anticipate about 125 basis points of easing in total, well below the post-1990 average of 278 basis points, suggesting only limited tailwinds for commodities from monetary policy alone.
 
-basis points yesterday, a move that in past cycles has typically buoyed raw materials. Rate-cutting periods often lift commodities through a weaker dollar, stronger risk appetite, cheaper financing for storage, and improved demand prospects as central banks signal support for growth. This time, however, the backdrop looks more complicated. Geopolitical tensions and supply constraints are expected to temper any upside, while the Fed's current cycle appears mild compared with history. Markets anticipate about 125 basis points of easing in total, well below the post-1990 average of 278 basis points, suggesting only limited tailwinds for commodities from monetary policy alone.
-
-**Copper led losses in the base metals sector ahead of the Federal Reserve's policy**
-
-decision, with bearish sentiment in Asian trading driving the selloff. The metal had previously found support on expectations that lower borrowing costs would spur demand, but attention has shifted back to the drag from U.S. tariffs on global growth.
+Copper led losses in the base metals sector ahead of the Federal Reserve's policy decision, with bearish sentiment in Asian trading driving the selloff. The metal had previously found support on expectations that lower borrowing costs would spur demand, but attention has shifted back to the drag from U.S. tariffs on global growth.
 
 ### Shipbroking (www.star-asia.com.sg)
 

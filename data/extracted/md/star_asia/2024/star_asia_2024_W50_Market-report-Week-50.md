@@ -70,21 +70,21 @@ The handy segment saw a similar persistent fall, with both basins recording a lo
 
 ## Bulker 12 months T/C rates average (in USD/day)
 
-| TYPE | DWT |  | CURRENT LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y CHANGE |
-|---|---|---|---|---|---|---|---|
-| CAPESIZE | 180,000 |  | 17,500 | 17,500 | 19,000 | 0 | -7.89% |
-| PANAMAX | 75,000 |  | 11,500 | 12,350 | 14,000 | -6.88% | -17.86% |
-| SUPRAMAX | 58,000 |  | 12,000 | 12,000 | 12,750 | 0 | -5.88% |
-| HANDYSIZE | 38,000 |  | 12,000 Dry | 12,000 Bulk - | 12,750 S&P Report | 0 PRICE | -5.88% |
-| VESSEL | NAME | TYPE | DWT | YEAR | BUILT | COMMENTS (MILLION) USD | / BUYERS |
-| K | VICTORY | CAPE | 181,500 | 2012 | JAPAN | 32.5 | CHINESE BUYERS |
-| K | CONFIDENCE | CAPE | 181,488 | 2013 |  | 34.5 | CHINESE BUYERS |
-| BLUE | LHOSTE | CAPE | 180,132 | 2011 | S. KOREA | 28.8 | KOREA LINE |
-| CENTURY | WAVE | POST PMAX | 91,686 | 2013 | JAPAN | 21.8 HAICHANG | DONGGUAN SHIPPING |
-| STRATTON |  | PMAX | 74,403 | 2004 | CHINA | 7.1 FAR | EASTERN BUYERS |
-| SUMMER | LADY | PMAX | 72,083 | 1999 | JAPAN | 6.8 | MIDDLE EASTERN BUYERS |
-| PORTHOS |  | SMAX | 56,825 | 2010 | CHINA | 13.5 | UNDISCLOSED |
-| OAK | HARBOUR | HANDY | 33,745 | 2005 | JAPAN | 8.8 | UNDISCLOSED |
+| TYPE | DWT | CURRENT LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPESIZE | 180,000 | 17,500 | 17,500 | 19,000 | 0 | -7.89% |
+| PANAMAX | 75,000 | 11,500 | 12,350 | 14,000 | -6.88% | -17.86% |
+| SUPRAMAX | 58,000 | 12,000 | 12,000 | 12,750 | 0 | -5.88% |
+| HANDYSIZE | 38,000 | 12,000 Dry | 12,000 Bulk - | 12,750 S&P Report | 0 PRICE | -5.88% |
+| VESSEL | NAME | DWT | YEAR | BUILT | COMMENTS (MILLION) USD | / BUYERS |
+| K | VICTORY | 181,500 | 2012 | JAPAN | 32.5 | CHINESE BUYERS |
+| K | CONFIDENCE | 181,488 | 2013 |  | 34.5 | CHINESE BUYERS |
+| BLUE | LHOSTE | 180,132 | 2011 | S. KOREA | 28.8 | KOREA LINE |
+| CENTURY | WAVE | 91,686 | 2013 | JAPAN | 21.8 HAICHANG | DONGGUAN SHIPPING |
+| STRATTON |  | 74,403 | 2004 | CHINA | 7.1 FAR | EASTERN BUYERS |
+| SUMMER | LADY | 72,083 | 1999 | JAPAN | 6.8 | MIDDLE EASTERN BUYERS |
+| PORTHOS |  | 56,825 | 2010 | CHINA | 13.5 | UNDISCLOSED |
+| OAK | HARBOUR | 33,745 | 2005 | JAPAN | 8.8 | UNDISCLOSED |
 
 ### Shipbroking (www.star-asia.com.sg)
 
@@ -305,13 +305,9 @@ Sub-Continent and Turkey ferrous scrap markets insight
 
 The Indian Sub-Continent ferrous scrap markets faced continued challenges this week, with weak domestic steel demand, liquidity pressures, and global factors influencing trading activity. Prices for UK-origin shredded scrap rose in Pakistan and Bangladesh but remained steady in India, while US-origin HMS (80:20) bulk prices in Turkey held firm.
 
-**Indian buyers took a measured approach, expecting further price drops due to slow**
+Indian buyers took a measured approach, expecting further price drops due to slow domestic steel sales and tight liquidity. Major steel mills reduced December price lists in response to weak market conditions. UK-origin shredded scrap was steady at US$380/ton CFR Nhava Sheva, with offers ranging between US$380-385/ton CFR. HMS (80:20) from West Africa was quoted at US$360-370/ton CFR, depending on loading volumes. A local steel mill official noted limited market activity, attributing it to minimal finished steel sales and holiday slowdowns in the US and UK markets. Despite expectations of price corrections, some industry players believe safeguard measures for steel could help stabilise sentiment.
 
-domestic steel sales and tight liquidity. Major steel mills reduced December price lists in response to weak market conditions. UK-origin shredded scrap was steady at US$380/ton CFR Nhava Sheva, with offers ranging between US$380-385/ton CFR. HMS (80:20) from West Africa was quoted at US$360-370/ton CFR, depending on loading volumes. A local steel mill official noted limited market activity, attributing it to minimal finished steel sales and holiday slowdowns in the US and UK markets. Despite expectations of price corrections, some industry players believe safeguard measures for steel could help stabilise sentiment.
-
-**Pakistani buyers continued to focus on need-based purchases as seasonal factors and**
-
-liquidity issues dampened demand. UK-origin shredded prices rose by US$4/ton to US$387/ton CFR Qasim, with offers between US$385-390/ton CFR. Local scrap prices remained stable at PKR 142,000/ton, while rebar was priced between PKR 245,000-250,000/ton. A trader highlighted limited inquiries despite some improvement in global sentiment. Imported shredded was sold at US$390/ton, while local billet and rebar prices were quoted at PKR 206,000-210,000/t and PKR 240,000/ton, respectively. The Bangladeshi scrap market saw minimal trade activity, with financial pressures weighing on mills. UK-origin shredded scrap rose by US$4/ton to US$388/ton CFR Chattogram, while offers for containerised shredded from the UK/Europe were at US$390/ton CFR. HMS ranged between US$375-380/ton CFR. Mills operated at losses to maintain liquidity, with rebar prices in Dhaka at BDT 77,000- 79,000/ton (US$644- US$661) and in Chattogram at BDT 81,000-82,000/ton (US$678- US$686). Billet prices hovered around BDT 63,000/t (US$527), while local scrap was priced at BDT 48,500-50,000/t (US$406- US$418).
+Pakistani buyers continued to focus on need-based purchases as seasonal factors and liquidity issues dampened demand. UK-origin shredded prices rose by US$4/ton to US$387/ton CFR Qasim, with offers between US$385-390/ton CFR. Local scrap prices remained stable at PKR 142,000/ton, while rebar was priced between PKR 245,000-250,000/ton. A trader highlighted limited inquiries despite some improvement in global sentiment. Imported shredded was sold at US$390/ton, while local billet and rebar prices were quoted at PKR 206,000-210,000/t and PKR 240,000/ton, respectively. The Bangladeshi scrap market saw minimal trade activity, with financial pressures weighing on mills. UK-origin shredded scrap rose by US$4/ton to US$388/ton CFR Chattogram, while offers for containerised shredded from the UK/Europe were at US$390/ton CFR. HMS ranged between US$375-380/ton CFR. Mills operated at losses to maintain liquidity, with rebar prices in Dhaka at BDT 77,000- 79,000/ton (US$644- US$661) and in Chattogram at BDT 81,000-82,000/ton (US$678- US$686). Billet prices hovered around BDT 63,000/t (US$527), while local scrap was priced at BDT 48,500-50,000/t (US$406- US$418).
 
 **Turkey's ferrous scrap market held steady following a recent price hike. US-origin HMS**
 

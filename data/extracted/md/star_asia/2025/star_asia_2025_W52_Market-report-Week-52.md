@@ -118,21 +118,21 @@ Maritime witnessed a notable shift on December 19 when the container ship Maersk
 
 ## Containers Values
 
-| CONTAINERS | GEARED / |  | NB | NB PROMPT |  |  | 15 |
-|---|---|---|---|---|---|---|---|
-|  |  |  |  |  | 5 YEARS | 10 YEARS |  |
-| (BY TEU) | GEARLESS | CONTRACT |  | DELIVERY |  |  | YEARS |
-| 900 ~ 1,200 | Geared | 24 |  | 26 | 20 | 16 | 10 |
-| 1,600 ~ 1,850 | Gearless | 31 |  | 35 | 29 (E) | 23 (E) | 18 |
-| 2,700 ~ 2,900 | Gearless |  | 44 | 46 | 39 | 35 | 26 |
-| 5,100 ~ 5,300 | Gearless |  | 59 | 82 | 66 | - | 41 |
-| *(amount in USD | million) | \|=Ecounits |  |  |  |  |  |
-|  |  | S&P |  | Containers | Report |  |  |
-|  |  |  |  |  | PRICE | COMMENTS | / |
-| VESSEL NAME | TYPE | TEU | YEAR | BUILT |  |  |  |
-|  |  |  |  |  | (MILLION) | USD BUYERS |  |
-| AS CLEMENTINA | SUB PMAX | 2,824 | 2006 | S. KOREA | 24.0 | UNDISCLOSED |  |
-| MUKADDES KALKAVAN | FEEDER | 1,849 | 2008 | TURKEY | 15.5 | MSC |  |
+| CONTAINERS | GEARED / | NB | NB PROMPT | 15 |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+| (BY TEU) | GEARLESS |  | DELIVERY | YEARS |
+| 900 ~ 1,200 | Geared |  | 26 | 10 |
+| 1,600 ~ 1,850 | Gearless |  | 35 | 18 |
+| 2,700 ~ 2,900 | Gearless | 44 | 46 | 26 |
+| 5,100 ~ 5,300 | Gearless | 59 | 82 | 41 |
+| *(amount in USD | million) | =Ecounits |  |  |
+|  |  |  | Containers |  |
+|  |  |  |  | / |
+| VESSEL NAME | TYPE | YEAR | BUILT |  |
+|  |  |  |  |  |
+| AS CLEMENTINA | SUB PMAX | 2006 | S. KOREA |  |
+| MUKADDES KALKAVAN | FEEDER | 2008 | TURKEY |  |
 
 ### Shipbroking (www.star-asia.com.sg)
 

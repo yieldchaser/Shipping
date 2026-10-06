@@ -253,7 +253,6 @@ above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, carg
 | 5-Year | Recycling | Average (Week 30) | Historical | Prices |
 | --- | --- | --- | --- | --- |
 | DESTINATION | 2017 | 2018 | 2019 | 2020 2021 |
-
 | ALANG, INDIA | 355 | 430 | 370 | 315 | 570 |
 |---|---|---|---|---|---|
 | CHATTOGRAM, BANGLADESH | 395 | 425 | 380 | 315 | 600 |

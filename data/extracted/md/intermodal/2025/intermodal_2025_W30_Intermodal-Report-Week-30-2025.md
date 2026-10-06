@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 By Yiannis Parganas, Head of Research Department
 
@@ -18,7 +16,6 @@ What makes the feeder market stand out is its ability to operate somewhat outsid
 ## Tanker Market
 
 ## Spot Rates
-
 | Sector | Size | Routes | 25/07/2025 WS points | 25/07/2025 $/day | 18/07/2025 WS points | 18/07/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 265k | MEG-SPORE | 46 | 26,716 | 54 | 35,402 | -24.5% | 37,255 | 39,466 |
@@ -36,8 +33,8 @@ What makes the feeder market stand out is its ability to operate somewhat outsid
 | **Dirty** | 55K | UKC-USG | 120 | 10,318 | 120 | 10,522 | -1.9% | 17,707 | 27,274 |
 |  | 55K | MED-USG | 120 | 11,573 | 120 | 11,573 | 0.0% | 17,590 | 27,060 |
 |  | 50k | ARA-UKC | 156 | 14,183 | 151 | 12,338 | **15.0%** | 26,872 | 46,194 |
-### Dirty WS Rates (1-Year Trend)
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | Date | WS points | WS points | WS points |
@@ -54,8 +51,8 @@ What makes the feeder market stand out is its ability to operate somewhat outsid
 | 25/May/25 | 60 | 95 | 160 |
 | 25/Jun/25 | 55 | 90 | 140 |
 | 25/Jul/25 | 50 | 85 | 120 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 25/Jul/24 | 140 | 130 | 150 | 160 |
@@ -123,7 +120,7 @@ Aframax sentiment waned across most regions. The Mediterranean saw delays and sl
 ### Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | Medi Matsuura | 2015 | 81661 dwt | $15,000 | cnr |
+| 12 mos | Medi Matsuura | 2015 | 81661 dwt |  |  |
 
 ### TC Rates
 | Sector | Tenor | 25/07/2025 | 18/07/2025 | ±% | Diff | Year1 | Year2 |
@@ -138,7 +135,6 @@ Aframax sentiment waned across most regions. The Mediterranean saw delays and sl
 |  | 32K 3yr TC | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 25/Jul/24 | 2500 | 1800 | 1400 | 800 | 2400 |
@@ -156,7 +152,6 @@ Aframax sentiment waned across most regions. The Mediterranean saw delays and sl
 | 25/Jul/25 | 3900 | 2100 | 1600 | 1100 | 3900 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 25/Jul/24 | 20000 | 14000 | 12000 | 10000 |
@@ -285,7 +280,6 @@ In Turkey, the landscape remains largely unchanged from last week, with activity
 | USD/TRY | 40.56 | 40.39 | 0.4% | 40.56 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | GHASHA | 71,593 | 33,407 | 1995 | MITSUI, Japan | GAS TANKER | $615/Ldt | Indian | as is Malaysia |

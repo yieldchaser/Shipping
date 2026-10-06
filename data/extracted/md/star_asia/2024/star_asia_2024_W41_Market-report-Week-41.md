@@ -50,26 +50,26 @@ It was a weak week in the Pacific with rates seeing discounts as activity pick u
 
 ## Baltic Exchange Dry Bulk Indices
 
-| INDICES | CURRENT |  | LAST | WEEK | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-|---|---|---|---|---|---|---|---|---|---|
-| BDI | 1,809 |  |  | 1,928 |  | 1,935 | -6.17% |  | -6.51% |
-| BCI | 2,835 |  |  | 3,243 |  | 3,278 | -12.58% |  | -13.51% |
-| BPI | 1,435 |  |  | 1,388 |  | 1,593 | +3.39% |  | -9.92% |
-| BSI | 1,269 |  |  | 1,258 |  | 1,266 | +0.87% |  | +0.24% |
-| BHSI | 718 |  |  | 712 |  | 684 | +0.84% |  | +4.97% |
-|  |  |  |  | Dry Bulk | (Weekly) | Values |  |  |  |
-| TYPE | DWT | NB |  | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
-| CAPE | 180,000 |  | 76 |  |  | 77 | 64 | 45 | 29 |
-| KAMSARMAX | 82,000 |  | 37 |  |  | 44 | 38 | 28 | 18 |
-| SUPRAMAX | 56,000 |  | 35 |  |  | 41 | 36 | 27 | 16 |
-| HANDY | 38,000 |  | 30 |  |  | 35 | 28 | 21 | 12 |
-| *(amount in USD | million) |  |  |  |  |  |  |  |  |
-|  | Bulker | 12 | months | T/C |  | rates average | (in | USD/day) |  |
-| TYPE | DWT | CURRENT |  | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-| CAPESIZE | 180,000 | 22,250 |  | 22,500 |  | 15,000 | -1.11% |  | +48.33% |
-| PANAMAX | 75,000 | 14,000 |  | 14,000 |  | 12,550 | 0 |  | +11.55% |
-| SUPRAMAX | 58,000 | 15,000 |  | 15,000 |  | 11,500 | 0 |  | +30.43% |
-| HANDYSIZE | 38,000 | 14,000 |  | 14,000 |  | 12,000 | 0 |  | +16.67% |
+| INDICES | CURRENT | LAST | WEEK | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| BDI | 1,809 |  | 1,928 |  | 1,935 | -6.17% |  | -6.51% |
+| BCI | 2,835 |  | 3,243 |  | 3,278 | -12.58% |  | -13.51% |
+| BPI | 1,435 |  | 1,388 |  | 1,593 | +3.39% |  | -9.92% |
+| BSI | 1,269 |  | 1,258 |  | 1,266 | +0.87% |  | +0.24% |
+| BHSI | 718 |  | 712 |  | 684 | +0.84% |  | +4.97% |
+|  |  |  | Dry Bulk | (Weekly) | Values |  |  |  |
+| TYPE | DWT |  | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| CAPE | 180,000 | 76 |  |  | 77 | 64 | 45 | 29 |
+| KAMSARMAX | 82,000 | 37 |  |  | 44 | 38 | 28 | 18 |
+| SUPRAMAX | 56,000 | 35 |  |  | 41 | 36 | 27 | 16 |
+| HANDY | 38,000 | 30 |  |  | 35 | 28 | 21 | 12 |
+| *(amount in USD | million) |  |  |  |  |  |  |  |
+|  | Bulker | months | T/C |  | rates average | (in | USD/day) |  |
+| TYPE | DWT |  | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+| CAPESIZE | 180,000 |  | 22,500 |  | 15,000 | -1.11% |  | +48.33% |
+| PANAMAX | 75,000 |  | 14,000 |  | 12,550 | 0 |  | +11.55% |
+| SUPRAMAX | 58,000 |  | 15,000 |  | 11,500 | 0 |  | +30.43% |
+| HANDYSIZE | 38,000 |  | 14,000 |  | 12,000 | 0 |  | +16.67% |
 
 ### Shipbroking (www.star-asia.com.sg)
 
@@ -154,18 +154,18 @@ CHANGE
 
 ## Tanker 12 months T/C rates average (in USD/day)
 
-| TYPE | DWT |  | CURRENT LAST | WEEK | LAST | YEAR |
-| --- | --- | --- | --- | --- | --- | --- |
-| VLCC | 310,000 |  | 45,250 | 45,250 | 36,500 |  |
-| SUEZMAX | 150,000 |  | 40,000 | 40,250 | 38,750 |  |
-| AFRAMAX | 110,000 |  | 38,000 | 38,000 | 36,250 |  |
-| LR1 | 74,000 |  | 31,500 | 31,500 | 30,750 |  |
-| MR | 47,000 |  | 26,500 | 26,500 Tankers S&P | 26,000 Report |  |
-| VESSEL | NAME | TYPE | DWT | YEAR | BUILT |  |
-|  |  |  |  |  | (MILLION) | USD |
-| SAFWA |  | VLCC | 303,139 | 2002 | S. KOREA |  |
-| HAFNIA | ANDROMEDA | MR | 50,386 | 2011 | CHINA |  |
-| LILA | FRONTIER PROD | / CHEM | 19,806 | 2004 | JAPAN |  |
+| TYPE | DWT | CURRENT LAST | WEEK | LAST | YEAR |
+| --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 45,250 | 45,250 | 36,500 |  |
+| SUEZMAX | 150,000 | 40,000 | 40,250 | 38,750 |  |
+| AFRAMAX | 110,000 | 38,000 | 38,000 | 36,250 |  |
+| LR1 | 74,000 | 31,500 | 31,500 | 30,750 |  |
+| MR | 47,000 | 26,500 | 26,500 Tankers S&P | 26,000 Report |  |
+| VESSEL | NAME | DWT | YEAR | BUILT |  |
+|  |  |  |  | (MILLION) | USD |
+| SAFWA |  | 303,139 | 2002 | S. KOREA |  |
+| HAFNIA | ANDROMEDA | 50,386 | 2011 | CHINA |  |
+| LILA | FRONTIER PROD | 19,806 | 2004 | JAPAN |  |
 
 W-O-W CHANGE Y-O-Y CHANGE 0 +23.97% -0.62% +3.23% 0 +4.83% 0 +2.44% 0 +1.92%
 
@@ -321,13 +321,9 @@ Sub-Continent and Turkey ferrous scrap markets insight
 
 The Sub-Continent and Turkey imported ferrous scrap market experienced a varied week, influenced by regional challenges and economic conditions. While demand in India, Pakistan, and Bangladesh slowed, Turkey's mills remained active in securing scrap supplies to meet robust rebar production targets for November. In India, demand for imported scrap softened toward the end of the week as the festivals slowed market activity. The holiday period saw no firm bids or offers reported, reflecting a festive lull. Indicative prices for US and UK/European shredded scrap eased slightly, hovering between US$395-400/ton CFR Nhava Sheva, while HMS (80:20) offers ranged from US$375-380/ton CFR.
 
-**Pakistan's scrap market continued to face headwinds, with buying activity slowing down**
+Pakistan's scrap market continued to face headwinds, with buying activity slowing down due to weak finished steel sales and low production levels, exacerbated by liquidity constraints. The reduction in government infrastructure projects and construction activities has further dampened demand. Indicative offers for shredded scrap from the UK and Europe remained at US$405-410/ton CFR Qasim.
 
-due to weak finished steel sales and low production levels, exacerbated by liquidity constraints. The reduction in government infrastructure projects and construction activities has further dampened demand. Indicative offers for shredded scrap from the UK and Europe remained at US$405-410/ton CFR Qasim.
-
-**Bangladeshi buyers adopted a cautious stance this week, postponing scrap purchases**
-
-in response to ongoing economic sluggishness, monsoon flooding, and high inventory levels. Steel production in the country is operating at just 50-60% capacity, a reflection of weak demand. Offers for shredded scrap from Australia and New Zealand stood at US$415-420/ton CFR Chattogram, while HMS (80:20) was offered at US$390-395/ton CFR. Most buyers are expected to reassess their purchasing strategies next month. In contrast to the Sub-Continents markets, Turkish mills were actively securing scrap to support strong domestic rebar production anticipated in November. With limited availability, Turkish buyers moved quickly to lock in supplies. Notable transactions included Venezuela-origin HMS (80:20) purchased at US$382/ton CFR by an Aegean-
+Bangladeshi buyers adopted a cautious stance this week, postponing scrap purchases in response to ongoing economic sluggishness, monsoon flooding, and high inventory levels. Steel production in the country is operating at just 50-60% capacity, a reflection of weak demand. Offers for shredded scrap from Australia and New Zealand stood at US$415-420/ton CFR Chattogram, while HMS (80:20) was offered at US$390-395/ton CFR. Most buyers are expected to reassess their purchasing strategies next month. In contrast to the Sub-Continents markets, Turkish mills were actively securing scrap to support strong domestic rebar production anticipated in November. With limited availability, Turkish buyers moved quickly to lock in supplies. Notable transactions included Venezuela-origin HMS (80:20) purchased at US$382/ton CFR by an Aegean-
 
 ### Shipbroking (www.star-asia.com.sg)
 

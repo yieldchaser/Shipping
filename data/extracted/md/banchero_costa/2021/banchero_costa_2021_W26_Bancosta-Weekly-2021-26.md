@@ -334,7 +334,7 @@ The Port of Yantian is finally back, operating at full capacity, but it will tak
 
 <table> <tr> <th colspan="4">FREIGHTOS BALTIC CONTAINER INDEX</th> </tr> <tr> <th>Date</th> <th>FBX</th> </tr> <tr> <td>Jul-20</td> <td>1500</td> </tr> <tr> <td>Nov-20</td> <td>2000</td> </tr> <tr> <td>Mar-21</td> <td>3800</td> </tr> <tr> <td>Jul-21</td> <td>6500</td> </tr> </table>
 
-# SALE & PURCHASE MARKET REPORT – WEEK 26/2021 9
+# SALE & PURCHASE MARKET REPORT – WEEK 26/2021
 
 # NEWBUILDING ORDERS
 
@@ -369,7 +369,7 @@ The demo market continues to perform remarkably well, even as we head into peak 
 
 <table> <thead> <tr> <th colspan="4">DEMOLITION PRICES (USD/LDT)</th> </tr> <tr> <th></th> <th>Jul-20</th> <th>Nov-20</th> <th>Mar-21</th> <th>Jul-21</th> </tr> </thead> <tbody> <tr> <td>Dry Bulk</td> <td>300</td> <td>400</td> <td>420</td> <td>550</td> </tr> <tr> <td>Tanker</td> <td>300</td> <td>400</td> <td>440</td> <td>560</td> </tr> </tbody> </table>
 
-# SALE & PURCHASE MARKET REPORT – WEEK 26/2021 10
+# SALE & PURCHASE MARKET REPORT – WEEK 26/2021
 
 # SECONDHAND SALES
 
@@ -444,7 +444,7 @@ Chinese buyers are behind the sale of Maran Triton, 319,000 dwt built 2003 Hyund
 
 <table> <thead> <tr> <th>INTEREST RATES</th> <th>Libor USD</th> <th>Libor Euro</th> <th>Euribor Euro</th> </tr> </thead> <tbody> <tr> <td>6 Months</td> <td>0.24</td> <td>-0.49</td> <td>-0.49</td> </tr> <tr> <td>12 Months</td> <td>-0.53</td> <td>-0.51</td> <td>0.57</td> </tr> </tbody> </table> <table> <thead> <tr> <th>I. R. SWAPS</th> <th>3 yrs</th> <th>5 yrs</th> <th>10 yrs</th> <th>15 yrs</th> <th>20 yrs</th> </tr> </thead> <tbody> <tr> <td>USD</td> <td>0.57</td> <td>0.95</td> <td>1.42</td> <td>1.61</td> <td>1.70</td> </tr> <tr> <td>EUR</td> <td>-0.40</td> <td>-0.27</td> <td>0.08</td> <td>0.34</td> <td>0.46</td> </tr> </tbody> </table> <table> <thead> <tr> <th>CURRENCIES</th> <th>2-Jul</th> <th>25-Jun</th> <th>W-o-W</th> <th>Y-o-Y</th> </tr> </thead> <tbody> <tr> <td>USD/EUR</td> <td>1.19</td> <td>1.19</td> <td>-0.6%</td> <td>+5.1%</td> </tr> <tr> <td>JPY/USD</td> <td>111.04</td> <td>110.77</td> <td>+0.2%</td> <td>+3.3%</td> </tr> <tr> <td>KRW/USD</td> <td>1,131</td> <td>1,127</td> <td>+0.3%</td> <td>-5.8%</td> </tr> <tr> <td>CNY/USD</td> <td>6.47</td> <td>6.45</td> <td>+0.3%</td> <td>-8.4%</td> </tr> </tbody> </table> <table> <thead> <tr> <th colspan="2">USD/EUR EXCHANGE RATE</th> </tr> <tr> <th>Date</th> <th>Value</th> </tr> <tr> <td>Jul-20</td> <td>1.12</td> </tr> <tr> <td>Aug-20</td> <td>1.13</td> </tr> <tr> <td>Sep-20</td> <td>1.14</td> </tr> <tr> <td>Oct-20</td> <td>1.15</td> </tr> <tr> <td>Nov-20</td> <td>1.16</td> </tr> <tr> <td>Dec-20</td> <td>1.17</td> </tr> <tr> <td>Jan-21</td> <td>1.18</td> </tr> <tr> <td>Feb-21</td> <td>1.19</td> </tr> <tr> <td>Mar-21</td> <td>1.20</td> </tr> <tr> <td>Apr-21</td> <td>1.20</td> </tr> <tr> <td>May-21</td> <td>1.20</td> </tr> <tr> <td>Jun-21</td> <td>1.19</td> </tr> <tr> <td>Jul-21</td> <td>1.19</td> </tr> </table> <table> <thead> <tr> <th colspan="2">JPY/USD EXCHANGE RATE</th> </tr> <tr> <th>Date</th> <th>Value</th> </tr> <tr> <td>Jul-20</td> <td>107</td> </tr> <tr> <td>Aug-20</td> <td>106</td> </tr> <tr> <td>Sep-20</td> <td>105</td> </tr> <tr> <td>Oct-20</td> <td>104</td> </tr> <tr> <td>Nov-20</td> <td>103</td> </tr> <tr> <td>Dec-20</td> <td>103</td> </tr> <tr> <td>Jan-21</td> <td>104</td> </tr> <tr> <td>Feb-21</td> <td>105</td> </tr> <tr> <td>Mar-21</td> <td>108</td> </tr> <tr> <td>Apr-21</td> <td>109</td> </tr> <tr> <td>May-21</td> <td>110</td> </tr> <tr> <td>Jun-21</td> <td>111</td> </tr> <tr> <td>Jul-21</td> <td>112</td> </tr> </table>
 
-# COMMODITIES MARKET REPORT – WEEK 26/2021 12
+# COMMODITIES MARKET REPORT – WEEK 26/2021
 
 # COMMODITY PRICES
 

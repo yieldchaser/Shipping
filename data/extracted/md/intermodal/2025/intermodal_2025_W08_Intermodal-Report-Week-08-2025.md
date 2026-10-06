@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 **By George Vitsos, Offshore Broker**
 
@@ -18,7 +16,6 @@ Finally, although there is good S&amp;P activity in the Far East, the TC demand 
 # Tanker Market
 
 ## Spot Rates
-
 | Sector | Size | Routes | 21/02/2025 WS points | 21/02/2025 $/day | 14/02/2025 WS points | 14/02/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 64 | 44,671 | 61 | 41,484 | 7.7% | 37,255 | 39,466 |
@@ -36,8 +33,8 @@ Finally, although there is good S&amp;P activity in the Far East, the TC demand 
 | Dirty | 55K | UKC-USG | 110 | 7,679 | 110 | 8,055 | -4.7% | 17,707 | 27,274 |
 |  | 55K | MED-USG | 110 | 6,798 | 110 | 6,785 | **0.2%** | 17,590 | 27,060 |
 |  | 50k | ARA-UKC | 197 | 28,559 | 169 | 20,685 | **38.1%** | 26,872 | 46,194 |
-## TC Rates
 
+## TC Rates
 | Sector | Tenor | 21/02/2025 | 14/02/2025 | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 47,750 | 47,500 | 0.5% | 250 | 50,365 | 48,601 |
@@ -52,8 +49,8 @@ Finally, although there is good S&amp;P activity in the Far East, the TC demand 
 |  | 52k 3yr TC | 20,250 | 20,250 | 0.0% | 0 | 26,402 | 25,152 |
 | Handy | 36k 1yr TC | 18,250 | 18,250 | 0.0% | 0 | 26,606 | 25,760 |
 |  | 36k 3yr TC | 17,500 | 17,500 | 0.0% | 0 | 19,993 | 18,200 |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Feb-25 avg | Jan-25 avg | ±% | 2024 | 2023 | 2022 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300KT DH | 112.3 | 114.0 | -1.5% | 113.0 | 99.5 | 80.2 |
@@ -61,8 +58,8 @@ Finally, although there is good S&amp;P activity in the Far East, the TC demand 
 | Aframax | **110KT DH** | 63.0 | 64.6 | -2.5% | 71.0 | 64.4 | 50.5 |
 | LR1 | 75KT DH | 51.0 | 51.0 | 0.0% | 53.8 | 49.2 | 38.6 |
 | MR | **52KT DH** | 41.0 | 41.2 | -0.5% | 45.8 | 41.4 | 34.8 |
-### Dirty WS Rates (1-Year Trend)
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 21/Feb/24 | 70 | 100 | 180 |
@@ -78,8 +75,8 @@ Finally, although there is good S&amp;P activity in the Far East, the TC demand 
 | 21/Dec/24 | 20 | 65 | 110 |
 | 21/Jan/25 | 15 | 60 | 100 |
 | 21/Feb/25 | 10 | 55 | 90 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 21/Feb/24 | 350 | 200 | 300 | 150 |
@@ -116,10 +113,10 @@ VLCC TCE earnings averaged \$43,809/day, up by +9.2% w-o-w. Suezmax TCE earnings
 | BHSI | 534 | $9,616 | 472 | $8,498 | **62** | **13.2%** | 702 | 586 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 3 to 5 mos | IVS Gleneagles | 2016 | 58,071 dwt | dely Ghent prompt redel worldwide | $11,500/day | Norwegian Bulk |
-| 8 to 10 mos | Meteor | 2010 | 58,071 dwt | dely Dhamra 20 Feb redel worldwide | $13,250/day | Cargill |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 3 to 5 mos | IVS Gleneagles | 2016 | 58,071 dwt |  |  |
+| 8 to 10 mos | Meteor | 2010 | 58,071 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | 21/02/2025 | 14/02/2025 | ±% | Diff | 2024 | 2023 |
@@ -138,7 +135,6 @@ VLCC TCE earnings averaged \$43,809/day, up by +9.2% w-o-w. Suezmax TCE earnings
 | **Handysize** | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 21/Feb/24 | 4000 | 1800 | 1500 | 800 | 1800 |
@@ -156,7 +152,6 @@ VLCC TCE earnings averaged \$43,809/day, up by +9.2% w-o-w. Suezmax TCE earnings
 | 21/Feb/25 | 1000 | 1000 | 1000 | 1000 | 1000 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 21/Feb/24 | 30000 | 15000 | 10000 | 5000 |
@@ -198,7 +193,6 @@ Supramax 10TC averaged \$ 8,548/day up +19.50% w-o-w, while the Handysize 7TC av
 Secondhand Sales
 
 ## Secondhand Sales
-
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SMALL | PHILIPPA | 8,319 | 2000 | ASAKAWA, Japan | Mitsubishi | May-25 | DH | $ 4.8m | Indonesian |
@@ -274,7 +268,6 @@ Ship recycling markets experienced a generally muted performance last week, amid
 | USD/TRY | 35.99 | 35.70 | 0.8% | 35.99 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | EPONYMA | 6,013 | 2,689 | 1993 | HAKATA, Japan | GENERAL CARGO | undisclosed | undisclosed | as is Singapore |

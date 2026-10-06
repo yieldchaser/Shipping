@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 **By Nikos Tagoulis, Senior Analyst**
 
@@ -23,7 +21,6 @@ In conclusion, the UAE's departure marks a watershed moment for OPEC and global 
 
 ## Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 01/05/2026 WS points | 01/05/2026 $/day | 24/04/2026 WS points | 24/04/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 421 | 433,298 | 519 | 545,683 | -20.6% | 60,510 | 37,255 |
@@ -46,7 +43,6 @@ In conclusion, the UAE's departure marks a watershed moment for OPEC and global 
 
 No Fresh Period Fixtures
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 1/May/25 | 100 | 150 | 200 |
@@ -62,8 +58,8 @@ No Fresh Period Fixtures
 | 1/Mar/26 | 400 | 450 | 950 |
 | 1/Apr/26 | 400 | 400 | 900 |
 | 1/May/26 | 400 | 250 | 400 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 1/May/25 | 150 | 150 | 200 | 200 |
@@ -141,7 +137,6 @@ The Aframax segment delivered a positive outcome overall, with TCE at \$116,956,
 |  | **32K 3yr TC** | 11,000 | 11,000 | 0.0% | 0 | 10,394 | 9,740 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 1/May/25 | 2000 | 1500 | 1200 | 800 | 1500 |
@@ -159,7 +154,6 @@ The Aframax segment delivered a positive outcome overall, with TCE at \$116,956,
 | 1/May/26 | 4500 | 2000 | 2200 | 1200 | 2600 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 1/May/25 | 15000 | 12000 | 10000 | 8000 |

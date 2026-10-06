@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 *By Nikos Tagoulis, Senior Analyst*
 
@@ -23,7 +21,6 @@ Finally, a key factor to monitor is the development of USA trade policy decision
 
 ## Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 04/07/2025 WS points | 04/07/2025 $/day | 27/06/2025 WS points | 27/06/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 48 | 28,705 | 56 | 37,611 | -23.7% | 37,255 | 39,466 |
@@ -119,7 +116,6 @@ dely Tuticorin 1 Jul \$12,250/day Cargill
 | 4/Jul/25 | 1900 | 1500 | 1400 | 800 | 3800 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 4/Jul/24 | 28000 | 14000 | 12000 | 8000 |
@@ -137,7 +133,6 @@ dely Tuticorin 1 Jul \$12,250/day Cargill
 | 4/Jul/25 | 16000 | 11000 | 8000 | 4000 |
 
 ## TC Rates
-
 | Sector | Tenor | 04/07/2025 | 27/06/2025 | ±% | Diff | 2024 | 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capesize | 180K 1yr TC | 24,250 | 21,500 | 12.8% | 2,750 | 27,014 | 17,957 |
@@ -150,10 +145,9 @@ dely Tuticorin 1 Jul \$12,250/day Cargill
 | Handysize | 32K 3yr TC | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
 ## Indicative Market Values ($ Million) - Bulk Carriers
-
-| Vessel (5 yrs old) | Size | Jul-25 avg | Jun-25 avg | ±% | 2024 | 2023 | 2022 |
+| Sector | Size | Jul-25 avg | Jun-25 avg | ±% | 2024 | 2023 | 2022 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Capesize Eco | 180k | N/A | 63.0 | N/A | 62.0 | 48.8 | 48.3 |
+| Capesize | Eco | 180k | N/A | 63.0 | N/A | 62.0 | 48.8 |
 | Kamsarmax | 82K | N/A | 30.5 | N/A | 36.6 | 32.0 | 34.1 |
 | Ultramax | 63k | N/A | 30.5 | N/A | 34.4 | 29.5 | 31.5 |
 | Handysize | 37K | N/A | 25.1 | N/A | 27.6 | 25.1 | 27.2 |
@@ -264,7 +258,6 @@ In Turkey the market remains lethargic, amid minimum activity and reduced steel 
 | USD/TRY | 39.85 | 39.91 | -0.2% | 39.91 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | DK 03 | 46,637 | 7,809 | 1994 | MITSUI, Japan | BC | $390/Ldt | Bangladeshi |  |

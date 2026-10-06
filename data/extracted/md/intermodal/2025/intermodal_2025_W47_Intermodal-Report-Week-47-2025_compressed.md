@@ -1,5 +1,3 @@
-## Weekly Market Report
-
 ## Market Insight
 By Yiannis Parganas, Head of Research Department
 
@@ -20,10 +18,10 @@ Against that backdrop, sentiment is poised to adjust as conditions stabilise; on
 ### Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | PS Trieste | 2011 | 107,546 dwt | $34,000/day | Suncor Energy |
-| 12 mos | Piura Pacific | 2011 | 49,806 dwt | $24,000/day | Mercuria |
-## Spot Rates
+| 12 mos | PS Trieste | 2011 | 107,546 dwt |  |  |
+| 12 mos | Piura Pacific | 2011 | 49,806 dwt |  |  |
 
+## Spot Rates
 | Sector | Size | Routes | 21/11/2025 WS points | 21/11/2025 $/day | 14/11/2025 WS points | 14/11/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 265k | MEG-SPORE | 137 | 137,935 | 129 | 129,000 | **6.9%** | 37,255 | 39,466 |
@@ -59,7 +57,6 @@ Against that backdrop, sentiment is poised to adjust as conditions stabilise; on
 |  | 36k 3yr TC | 16,000 | 16,000 | 0.0% | 0 | 19,993 | 18,200 |
 
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 21/Nov/24 | 50 | 90 | 160 |
@@ -75,8 +72,8 @@ Against that backdrop, sentiment is poised to adjust as conditions stabilise; on
 | 21/Sep/25 | 70 | 110 | 200 |
 | 21/Oct/25 | 80 | 115 | 210 |
 | 21/Nov/25 | 120 | 180 | 200 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 21/Nov/24 | 100 | 120 | 280 | 150 |
@@ -126,10 +123,10 @@ The Aframax market experienced a volatile week with regional divergences. TCE fe
 | BHSI | 820 | $14,760 | 819 | $14,745 | **1** | **0.1%** | 702 | 586 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 9 to 11 mos | Shandong Peng Cheng | 2010 | 82,154 dwt | dely Ningbo 20 Nov redel worldwide | $15,450/day | Cargill |
-| 4 to 6 mos | Rui Ning 21 | 2014 | 75,476 dwt | Dely Basuo 03 Dec redel worldwide | $14,350/day | BG Shipping |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 9 to 11 mos | Shandong Peng Cheng | 2010 | 82,154 dwt |  |  |
+| 4 to 6 mos | Rui Ning 21 | 2014 | 75,476 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | 21/11/2025 | 14/11/2025 | ±% | Diff | 2024 | 2023 |
@@ -144,7 +141,6 @@ The Aframax market experienced a volatile week with regional divergences. TCE fe
 |  | **32K 3yr TC** | 10,500 | 10,500 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 21/Nov/24 | 2800 | 1000 | 800 | 600 | 1500 |
@@ -162,7 +158,6 @@ The Aframax market experienced a volatile week with regional divergences. TCE fe
 | 21/Nov/25 | 3600 | 1900 | 1600 | 1000 | 2300 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 21/Nov/24 | 22000 | 9000 | 10000 | 8000 |
@@ -306,8 +301,8 @@ It was a subdued week for the Bangladesh ship recycling sector. The market featu
 | USD/INR | 89.64 | 88.69 | *1.07%* | 89.64 |
 | USD/PKR | 282.58 | 282.68 | -0.04% | 284.95 |
 | USD/TRY | 42.44 | 42.25 | *0.46%* | 42.44 |
-## Demolition Sales
 
+## Demolition Sales
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VICTORIA 3 | 26,482 | 6,099 | 1996 | IMABARI, Japan | BC | $381/Ldt | undisclosed | as is Singapore |

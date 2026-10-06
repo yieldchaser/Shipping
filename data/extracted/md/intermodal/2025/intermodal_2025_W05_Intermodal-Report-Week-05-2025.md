@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 *By Nikos Tagoulis, Senior Analyst*
 
@@ -24,7 +22,6 @@ On the demolition front, it seems that the first scrap sale for 2025 took place,
 # Intermodal Tanker Market
 
 ## Spot Rates
-
 | Sector | Size | Routes | 31/01/25 WS points | 31/01/25 $/day | 24/01/25 WS points | 24/01/25 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 62 | 41,709 | 53 | 31,611 | 31.9% | 37,255 | 39,466 |
@@ -42,8 +39,8 @@ On the demolition front, it seems that the first scrap sale for 2025 took place,
 | Dirty | 55K | UKC-USG | 110 | 7,685 | 110 | 7,289 | 5.4% | 17,707 | 27,274 |
 |  | 55K | MED-USG | 110 | 6,407 | 110 | 6,153 | 4.1% | 17,590 | 27,060 |
 |  | 50k | ARA-UKC | 178 | 24,128 | 192 | 27,536 | -12.4% | 26,872 | 46,194 |
-## TC Rates
 
+## TC Rates
 | Sector | Tenor | 31/01/25 | 24/01/25 | ±% | Diff | 2024 | 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 45,500 | 48,000 | -5.2% | -2500 | 50,365 | 48,601 |
@@ -69,7 +66,6 @@ On the demolition front, it seems that the first scrap sale for 2025 took place,
 | MR | 52KT DH | 41.2 | 42.5 | -3.1% | 45.8 | 41.4 | 34.8 |
 
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 31/Jan/24 | 80 | 120 | 180 |
@@ -87,7 +83,6 @@ On the demolition front, it seems that the first scrap sale for 2025 took place,
 | 31/Jan/25 | 20 | 60 | 120 |
 
 ### Clean WS Rates (1-Year Trend)
-
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 31/Jan/24 | 350 | 300 | 250 | 200 |
@@ -128,10 +123,10 @@ Suezmax T/C earnings averaged \$ 28,430/day, up +0.54% w-o-w. On the Aframax fro
 | BHSI | 377 | $6,780 | 411 | $7,406 | -34 | -8.5% | 702 | 586 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 11 to 13 mos | SDTR HERA | 2022 | 84,980 dwt | dely Dongguan 1 Feb redel worldwide |  | 117% to BPI |
-| 12 mos | EXPLORER AFRICA | 2012 | 61,360 dwt | dely Yantai 29 Jan redel worldwide | $13,750/day | CTM |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 11 to 13 mos | SDTR HERA | 2022 | 84,980 dwt |  |  |
+| 12 mos | EXPLORER AFRICA | 2012 | 61,360 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | 31/01/25 | 24/01/25 | ±% | Diff | 2024 | 2023 |
@@ -146,7 +141,6 @@ Suezmax T/C earnings averaged \$ 28,430/day, up +0.54% w-o-w. On the Aframax fro
 |  | **32K 3yr TC** | 10,000 | 10,000 | 0.0% | 0 | 9,740 | 9,510 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 31/Jan/24 | 2000 | 1500 | 1200 | 800 | 1500 |
@@ -164,7 +158,6 @@ Suezmax T/C earnings averaged \$ 28,430/day, up +0.54% w-o-w. On the Aframax fro
 | 31/Jan/25 | 900 | 950 | 850 | 550 | 850 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 31/Jan/24 | 15000 | 12000 | 10000 | 8000 |
@@ -282,7 +275,6 @@ In Turkey the ship recycling market faced downwards pressures on prices offered 
 | USD/TRY | 35.70 | 35.65 | *0.1%* | 35.70 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | TASOS | 75,100 | 10,569 | 2000 | HITACHI ZOSEN, Japan | BC | $ 475.0m | undisclosed |

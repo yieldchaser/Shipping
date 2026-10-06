@@ -1,5 +1,3 @@
-## Weekly Market Report
-
 ## Market Insight
 *By Yiannis Parganas, Head of Research Department*
 
@@ -34,7 +32,6 @@ Ultimately, while the proposed measures could serve as a bargaining chip in U.S.
 # Intermodal Tanker Market
 
 ## Spot Rates
-
 | Sector | Size | Routes | 28/02/2025 WS points | 28/02/2025 $/day | 21/02/2025 WS points | 21/02/2025 $/day | $/day ±% | 2024 $/day | 2023 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 265k | MEG-SPORE | 59 | 40,216 | 64 | 44,671 | -10.0% | 37,255 | 39,466 |
@@ -52,8 +49,8 @@ Ultimately, while the proposed measures could serve as a bargaining chip in U.S.
 | **Dirty** | 55K | UKC-USG | 115 | 9,924 | 110 | 7,679 | **29.2%** | 17,707 | 27,274 |
 |  | 55K | MED-USG | 115 | 8,969 | 110 | 6,798 | **31.9%** | 17,590 | 27,060 |
 |  | 50k | ARA-UKC | 199 | 29,831 | 197 | 28,559 | **4.5%** | 26,872 | 46,194 |
-### Dirty WS Rates (1-Year Trend)
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 28/Feb/24 | 60 | 100 | 160 |
@@ -69,8 +66,8 @@ Ultimately, while the proposed measures could serve as a bargaining chip in U.S.
 | 28/Dec/24 | 110 | 150 | 260 |
 | 28/Jan/25 | 115 | 155 | 270 |
 | 28/Feb/25 | 120 | 160 | 280 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | Date | WS points | WS points | WS points | WS points |
@@ -134,7 +131,6 @@ The announcement of U.S. President Donald Trump regarding proposed tariffs on Ch
 
 no fresh sales to report
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 28/Feb/24 | 4000 | 1500 | 1200 | 800 | 2000 |
@@ -151,7 +147,6 @@ no fresh sales to report
 | 28/Feb/25 | 1500 | 1100 | 1000 | 600 | 1000 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 28/Feb/24 | 32000 | 15000 | 12000 | 8000 |

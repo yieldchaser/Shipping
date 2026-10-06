@@ -59,7 +59,6 @@ Shanghai 200122 China
 
 # Intermodal Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | Current WS points | Current $/day | Previous WS points | Previous $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 59 | 3,332 | 58 | 1,226 | 171.8% | 2,246 | 52,119 |
@@ -75,14 +74,14 @@ Shanghai 200122 China
 |  | 75k | MEG-JAPAN | 204 | 28,036 | 202 | 26,783 | 4.7% | 6,368 | 28,160 |
 | Clean | 55k | MEG-JAPAN | 294 | 39,969 | 285 | 37,611 | 6.3% | 6,539 | 19,809 |
 |  | 37K | UKC-USAC | 314 | 29,358 | 313 | 29,328 | 0.1% | 4,496 | 12,977 |
-## Indicative Period Charters
 
+## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 6 mos | PROTEUS | 2019 | 49,999 dwt | $39,500/day | Weco Tankers |
-| 12 mos | SILVER ETREMA | 2016 | 49,737 dwt | $23,500/day | Marathon Petroleum |
-### Dirty WS Rates (1-Year Trend)
+| 6 mos | PROTEUS | 2019 | 49,999 dwt |  |  |
+| 12 mos | SILVER ETREMA | 2016 | 49,737 dwt |  |  |
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 15/Jul/21 | 50 | 80 | 90 |
@@ -98,8 +97,8 @@ Shanghai 200122 China
 | 15/May/22 | 100 | 150 | 180 |
 | 15/Jun/22 | 105 | 140 | 200 |
 | 15/Jul/22 | 110 | 290 | 300 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 15/Jul/21 | 100 | 110 | 120 | 130 |
@@ -115,8 +114,8 @@ Shanghai 200122 China
 | 15/May/22 | 150 | 160 | 170 | 350 |
 | 15/Jun/22 | 155 | 165 | 175 | 450 |
 | 15/Jul/22 | 160 | 170 | 180 | 500 |
-## TC Rates
 
+## TC Rates
 | Sector | Tenor | Current | Previous | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | **300k 1yr TC** | 28,000 | 28,000 | 0.0% | 0 | 25,684 | 42,038 |
@@ -131,8 +130,8 @@ Shanghai 200122 China
 |  | **52k 3yr TC** | 15,000 | 15,000 | 0.0% | 0 | 13,804 | 15,916 |
 | Handy | **36k 1yr TC** | 21,750 | 21,750 | 0.0% | 0 | 11,292 | 13,966 |
 |  | **36k 3yr TC** | 16,000 | 16,000 | 0.0% | 0 | 13,054 | 14,051 |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Jul-22 avg | Jun-22 avg | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300KT DH | 80.7 | 76.8 | 5.1% | 69.7 | 71.5 | 72.1 |
@@ -171,12 +170,11 @@ In the Aframax sector we had the sale of the "SONGA CORAL" (107,081dwt-blt '05, 
 | BHSI | 1,181 | $21,249 | 1,185 | $21,338 | -4 | -0.4% | 1,424 | 447 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 3-5 mos | REMMY ENTERPRISE | 2018 | 34,529 dwt | Qingdao 20-25 Jul | $22,500/day | cnr |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 3-5 mos | REMMY ENTERPRISE | 2018 | 34,529 dwt |  |  |
 
 ## TC Rates
-
 | Sector | Tenor | 15/07/2022 | 08/07/2022 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 31,750 | 30,750 | 3.3% | 1,000 | 32,684 | 15,361 |
@@ -193,7 +191,6 @@ In the Aframax sector we had the sale of the "SONGA CORAL" (107,081dwt-blt '05, 
 |  | **32K 3yr TC** | 12,500 | 12,500 | 0.0% | 0 | 11,825 | 8,486 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 15/Jul/21 | 3,200 | 3,100 | 3,000 | 1,800 | 3,300 |
@@ -211,7 +208,6 @@ In the Aframax sector we had the sale of the "SONGA CORAL" (107,081dwt-blt '05, 
 | 15/Jul/22 | 2,700 | 2,900 | 2,700 | 1,600 | 2,800 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 15/Jul/21 | 32000 | 31000 | 30000 | 30000 |
@@ -261,15 +257,14 @@ In the Supramax sector we had the sale of the "OREO" (55,430dwt-bl't '08, Japan)
 
 # Intermodal Secondhand Sales
 ## Tankers
-
 | Sector | Size | Tankers | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SHUTTLE | TORILL KNUTSEN | 123,166 | 2013 | HYUNDAI ULSAN, S. Korea | MAN-B&amp;W | Nov-23 | DH | $ 112.0m | Japanese (Doun Kisen) | BWTS fitted, Shuttle, Ice 1C, refinancing exercise, incl 10-years BB back |
 | AFRA | SONGA CORAL | 107,081 | 2005 | KOYO MIHARA, Japan | B&amp;W | Jan-25 | DH | $ 25.0m | undisclosed | Scrubber fitted |
 | SMALL | CALLIOPE | 5,999 | 2012 | RONGCHENG SHENFEI, China | Hyundai Himsen |  | DH | $ 3.3m | Indonesian | bss "as is where is" |
 | SMALL | RHAEO RAPID | 13,224 | 2008 | JINSE, S. Korea | MAN-B&amp;W | Jul-23 | DH | $ 7.0m | undisclosed | BWTS not fitted |
-## Bulk Carriers
 
+## Bulk Carriers
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | UMAX | DAYANG CONFIDENCE | 63,127 | 2017 | YANGZHOU DAYANG, China | MAN-B\&amp;W | May-27 | 4 X 35t CRANES | $ 30.0m | undisclosed | BWTS fitted |
@@ -277,14 +272,14 @@ In the Supramax sector we had the sale of the "OREO" (55,430dwt-bl't '08, Japan)
 | SUPRA | OREO | 55,430 | 2008 | KAWASAKI, Japan | MAN-B\&amp;W | May-26 | 4 X 30,5t CRANES | $ 19.35m | Greek | BWTS fitted |
 | HANDY | JUN DE | 34,420 | 2011 | SPP, S. Korea | MAN-B\&amp;W | Nov-26 | 4 X 35t CRANES | $ 16.3m | Chinese | BWTS fitted, TC attached, Chinese flag, Tier II |
 | HANDY | ALTHEA | 24,999 | 1999 | IMABARI, Japan | B\&amp;W | Mar-24 | 3 X 30,5t CRANES | $ 8.1m | Turkish | BWTS due 07/2022, delivered |
-## Containers
 
+## Containers
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FEEDER | AS SERAFINA | 1,713 | 2010 | CSBC, Taiwan | MAN-B&amp;W | Jun-25 | 2 X 40t CRANES | $ 33.0m | French (CMA CGM) | auction sale |
 | FEEDER | X-PRESS YAMUNA | 1,162 | 1998 | SZCZECIINSKA STOCZNIA, Poland | B&amp;W | May-23 | 3 X 40t CRANES | undisclosed | Middle Eastern |  |
-## Secondhand Sales
 
+## Secondhand Sales
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | DL FREESIA | 3,650 | 2007 | SHITANOE, Japan | Mitsubishi | Sep-22 | 3,448 |  |  |  |
@@ -365,7 +360,6 @@ _No period fixtures reported._
 
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | 15/07/2022 | 08/07/2022 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** |  |  |  |  |  |  |
@@ -396,8 +390,8 @@ Activity in the demolition front remained limited. A combination of the Eid fest
 | 15/May/22 | 660 | 660 | 660 | 430 |
 | 15/Jun/22 | 560 | 560 | 560 | 320 |
 | 15/Jul/22 | 560 | 560 | 560 | 250 |
-## Demolition Sales
 
+## Demolition Sales
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | PACIFIC MARINE | 2,462 | 1,150 | 1979 | MURAKAMI HIDE, Japan | TANKER | undisclosed | Bangladeshi |

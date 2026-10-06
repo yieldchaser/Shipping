@@ -216,18 +216,18 @@ to the growing number of importers who are curtailing their inventory exposure.
 
 # Containers S&P Report
 
-| VESSEL NAME | TYPE |  | YEAR | BUILT | PRICE | COMMENTS | / |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  | (MILLION) | USD |  | BUYERS |
-|  |  | NO | NEW SALES | REPORTED |  |  |  |
-|  |  |  | Containers (Weekly) | Values |  |  |  |
-| CONTAINERS | GEARED / |  | NB | NB PROMPT | 5 YEARS | 10 YEARS | 20 YEARS |
-| (by TEU) | GEARLESS |  | CONTRACT | DELIVERY |  |  |  |
-| 900 - 1,200 | Geared |  | 23 | 23 | 18 | 14 | 10 |
-| 1,600 - 1,800 | Geared |  | 29 | 29 | 23 | 17 | 12 |
-| 2,700 - 2,900 | Gearless |  | 42 | 38 | 32 | 21 | 16 |
-| 5,500 - 7,000 | Gearless |  | 85 | 100 | 90 | 65 | N/A |
-| *(amount inUSD million) |  |  |  |  |  |  |  |
+| VESSEL NAME | TYPE | YEAR | BUILT | PRICE | COMMENTS | / |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  | (MILLION) | USD |  | BUYERS |
+|  |  | NEW SALES | REPORTED |  |  |  |
+|  |  | Containers (Weekly) | Values |  |  |  |
+| CONTAINERS | GEARED / | NB | NB PROMPT | 5 YEARS | 10 YEARS | 20 YEARS |
+| (by TEU) | GEARLESS | CONTRACT | DELIVERY |  |  |  |
+| 900 - 1,200 | Geared | 23 | 23 | 18 | 14 | 10 |
+| 1,600 - 1,800 | Geared | 29 | 29 | 23 | 17 | 12 |
+| 2,700 - 2,900 | Gearless | 42 | 38 | 32 | 21 | 16 |
+| 5,500 - 7,000 | Gearless | 85 | 100 | 90 | 65 | N/A |
+| *(amount inUSD million) |  |  |  |  |  |  |
 
 [Star Asia Shipbroking Pte Ltd ( www.star-asia.com.sg )](http://www.star-asia.com.sg/)
 

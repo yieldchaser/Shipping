@@ -23,7 +23,6 @@ Looking forward, the outlook remains highly dependent on geopolitical developmen
 # Intermodal Tanker Market
 
 ## Spot Rates
-
 | Sector | Size | Routes | 31/07/2026 WS points | 31/07/2026 $/day | 24/07/2026 WS points | 24/07/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 449 | 461,812 | 379 | 381,631 | **21.0%** | 60,510 | 37,255 |
@@ -41,8 +40,8 @@ Looking forward, the outlook remains highly dependent on geopolitical developmen
 |  | 55K | UKC-USG | 190 | 26,008 | 190 | 25,199 | **3.2%** | 10,784 | 17,707 |
 |  | 55K | MED-USG | 190 | 24,014 | 190 | 23,666 | **1.5%** | 11,306 | 17,590 |
 |  | 50k | ARA-UKC | 398 | 112,909 | 474 | 141,394 | -20.1% | 18,615 | 26,872 |
-## TC Rates
 
+## TC Rates
 | Sector | Tenor | 31/07/2026 | 24/07/2026 | ±% | Diff | 2025 | 2024 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300k 1yr TC | 118,500 | 118,500 | 0.0% | 0 | 50,615 | 50,365 |
@@ -109,7 +108,6 @@ The Aframax segment reversed the previous week's firming momentum, with most reg
 |  | **32K 3yr TC** | 12,000 | 12,000 | 0.0% | 0 | 10,394 | 9,740 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 31/Jul/25 | 3000 | 1800 | 1200 | 800 | 2000 |
@@ -127,7 +125,6 @@ The Aframax segment reversed the previous week's firming momentum, with most reg
 | 31/Jul/26 | 4000 | 2200 | 2400 | 2000 | 3000 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 31/Jul/25 | 25000 | 15000 | 12000 | 10000 |
@@ -266,8 +263,8 @@ At Aliaga it was a quiet week with little change in demand or sentiment, amid a 
 | USD/INR | 95.39 | 96.57 | -1.22% | 96.57 |
 | USD/PKR | 277.85 | 277.85 | 0.00% | 280.05 |
 | USD/TRY | 47.51 | 47.33 | *0.38%* | 47.33 |
-## Demolition Sales
 
+## Demolition Sales
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | STOLT KIKYO | 11,545 | 3,305 | 1998 | FUKUOKA, Japan | TANKER | $455/Ldt | Indian |

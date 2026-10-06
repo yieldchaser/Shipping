@@ -62,7 +62,6 @@ Certification
 
 # Intermodal Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 24/02/23 WS points | 24/02/23 $/day | 17/02/23 WS points | 17/02/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | 265k | MEG-SPORE | 67 | 52,108 | 70 | 52,923 | -1.5% | 20,330 | 2,246 |
@@ -81,14 +80,14 @@ Certification
 | **Dirty** | 55K | UKC-USG | 197 | 39,562 | 175 | 31,102 | **27.2%** | 19,982 | 2,822 |
 |  | 55K | MED-USG | 197 | 38,654 | 175 | 30,611 | **26.3%** | 21,231 | 4,818 |
 |  | 50k | CARIBS-USG | 254 | 50,182 | 247 | 47,587 | **5.5%** | 40,364 | 8,548 |
-## Indicative Period Charters
 
+## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 18 mos | KALAHARI | 2009 | 112,827 dwt | $35,000/day | Trafigura |
-| 12 mos | SOPRANO SERENE | 2002 | 45,861 dwt | $16,000/day | Bharat Petroleum |
-### Dirty WS Rates (1-Year Trend)
+| 18 mos | KALAHARI | 2009 | 112,827 dwt |  |  |
+| 12 mos | SOPRANO SERENE | 2002 | 45,861 dwt |  |  |
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 24/Feb/22 | 150 | 180 | 160 |
@@ -104,8 +103,8 @@ Certification
 | 24/Dec/22 | 60 | 200 | 200 |
 | 24/Jan/23 | 50 | 180 | 180 |
 | 24/Feb/23 | 60 | 180 | 200 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 24/Feb/22 | 50 | 100 | 250 | 100 |
@@ -167,7 +166,6 @@ In the MR2 sector we had the sale of the "SPRUCE EXPRESS" (51,218dwt-blt '06, S.
 
 # Dry Bulk Market
 ## Baltic Indices
-
 | Index Name | 24/02/23 Index | 24/02/23 $/day | 17/02/23 Index | 17/02/23 $/day | Point Diff | $/day ±% | 2022 Index | 2021 Index |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | BDI | 883 |  | 538 |  | 345 |  | 1,931 | 2,921 |
@@ -175,14 +173,15 @@ In the MR2 sector we had the sale of the "SPRUCE EXPRESS" (51,218dwt-blt '06, S.
 | BPI | 1,271 | $11,439 | 811 | $7,302 | 460 | 56.7% | 2,298 | 2,972 |
 | BSI | 996 | $10,957 | 695 | $7,641 | 301 | 43.4% | 2,006 | 2,424 |
 | BHSI | 505 | $9,086 | 438 | $7,875 | 67 | 15.4% | 1,181 | 1,424 |
+
 ## Indicative Period Charters
 
 | Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- | --- |
 | 3 to 5 months | ANASTASIA | 2012 | 92,216 dwt | Qinzhou 23 Feb | $12,000/day | cnr |
 | 4 to 6 months | NORD AEGEAN | 2022 | 63,702 dwt | Damman 1/2 Mar | $15,500/day | cnr |
-## TC Rates
 
+## TC Rates
 | Sector | Tenor | 24/02/23 | 17/02/23 | ±% | Diff | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 1yr TC** | 15,500 | 14,500 | 6.9% | 1,000 | 21,394 | 26,392 |
@@ -193,8 +192,8 @@ In the MR2 sector we had the sale of the "SPRUCE EXPRESS" (51,218dwt-blt '06, S.
 |  | **58K 3yr TC** | 13,000 | 12,500 | 4.0% | 500 | 15,005 | 14,552 |
 | **Handysize** | **32K 1yr TC** | 10,750 | 9,750 | 10.3% | 1,000 | 17,827 | 18,354 |
 |  | **32K 3yr TC** | 10,250 | 9,500 | 7.9% | 750 | 12,322 | 11,825 |
-### Baltic Indices (1-Year Trend)
 
+### Baltic Indices (1-Year Trend)
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 24/Feb/22 | 2800 | 2700 | 2600 | 1800 | 2500 |
@@ -210,8 +209,8 @@ In the MR2 sector we had the sale of the "SPRUCE EXPRESS" (51,218dwt-blt '06, S.
 | 24/Dec/22 | 2800 | 2700 | 2500 | 1700 | 2300 |
 | 24/Jan/23 | 1200 | 1100 | 1000 | 800 | 900 |
 | 24/Feb/23 | 1000 | 950 | 850 | 700 | 750 |
-### Average T/C Rates (1-Year Trend)
 
+### Average T/C Rates (1-Year Trend)
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 24/Feb/22 | 25000 | 28000 | 27000 | 26000 |
@@ -260,7 +259,6 @@ In the Handysize sector we had the sale of the "INTERLINK PRIORITY" (38,709dwt-b
 
 # Intermodal Secondhand Sales
 ## Tankers
-
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | AFRA | GALVESTON STAR | 115,000 | 2023 | DAEHAN, S. Korea | MAN-B\&amp;W |  | DH | $ 76.0m | Libyan (GNMTC) | resale |
@@ -269,8 +267,8 @@ In the Handysize sector we had the sale of the "INTERLINK PRIORITY" (38,709dwt-b
 | LR1 | SAND SHINER | 73,715 | 2006 | NEW TIMES, China | MAN-B\&amp;W | Dec-26 | DH | $ 23.25m | undisclosed | BWTS, Scrubber fitted |
 | MR2 | SPRUCE EXPRESS | 51,218 | 2006 | STX, S. Korea | MAN-B\&amp;W | Sep-26 | DH | $ 19.0m | Greek | BWTS fitted |
 | SMALL | TRADEWIND PASSION | 7,739 | 2008 | NINGBO, China | MaK | Apr-23 | DH | $ 5.6m | undisclosed | bss surveys due |
-## Bulk Carriers
 
+## Bulk Carriers
 | Size | Name | Dwt | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | KMAX | DONA TARA | 81,323 | 2011 | HYUNDAI, S. Korea | MAN-B&amp;W | Nov-26 |  | $ 20.5m | undisclosed | BWTS fitted |
@@ -278,8 +276,8 @@ In the Handysize sector we had the sale of the "INTERLINK PRIORITY" (38,709dwt-b
 | SUPRA | JAEGER | 52,483 | 2004 | TSUNEISHI CEBU, Philippines | MAN-B&amp;W | Oct-24 | 4 X 30t CRANES | $ 9.0m | Turkish | BWTS fitted |
 | HANDY | INTERLINK PRIORITY | 38,709 | 2015 | TAIZHOU KOUAN, China | MAN-B&amp;W | Nov-25 | 4 X 30t CRANES | high $ 19.0m | UK based (Tufton) | BWTS fitted, OHBS, Eco, Ice 1C |
 | HANDY | PATRONUS | 30,587 | 2007 | COCHIN, India | MAN-B&amp;W | Mar-26 | 4 X 30t CRANES | low mid $ 7.0m | Turkish | BWTS fitted, Boxed |
-## Containers
 
+## Containers
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FEEDER | WINDERMERE | 2,797 | 2010 | YANGFAN, China | MAN-B\&amp;W | Apr-25 |  | $ 16.7m | undisclosed |
@@ -294,7 +292,6 @@ In the Handysize sector we had the sale of the "INTERLINK PRIORITY" (38,709dwt-b
 
 # Intermodal Secondhand Sales
 ## Secondhand Sales
-
 | Sector | Size | Gas/LPG/LNG | Type | Name | Dwt | Built | Yard | M/E | SS due |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | GOLAR SEAL | 82,048 | 2013 | SAMSUNG, S. Korea | Wartsila | Oct-23 | 157,337 | $ 184.3m | Norwegian (Hoegh LNG Holdings) |
@@ -307,7 +304,6 @@ In the Handysize sector we had the sale of the "INTERLINK PRIORITY" (38,709dwt-b
 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
-
 | Sector | Size | 24-Feb-23 | 17-Feb-23 | ±% | 2022 | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -364,8 +360,8 @@ Subdued newbuilding market activity materialized last week with only a handful o
 | 24/Dec/22 | 60 | 33 | 31 | 29 |
 | 24/Jan/23 | 60 | 32 | 31 | 29 |
 | 24/Feb/23 | 60 | 32 | 31 | 29 |
-## Newbuilding Orders
 
+## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4 | Tanker | 50,000 dwt | Minaminippon Shipbuilding, Japan | 2025 | Japanese (Shoei Kisen Kaisha) | undisclosed |  |
@@ -378,7 +374,6 @@ Subdued newbuilding market activity materialized last week with only a handful o
 
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | Markets | 24/02/23 | 17/02/23 | ±% | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |

@@ -1,5 +1,3 @@
-## Weekly Market Report
-
 ## Market Insight
 _by Nikos Tagoulis, Senior Analyst_
 
@@ -21,7 +19,6 @@ Argentina's growing role in long-haul corn trade contributes positively to the d
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 24/04/2026 WS points | 24/04/2026 $/day | 17/04/2026 WS points | 17/04/2026 $/day | $/day ±% | 2025 $/day | 2024 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 519 | 545,683 | 501 | 525,696 | 3.8% | 60,510 | 37,255 |
@@ -45,8 +42,8 @@ Argentina's growing role in long-haul corn trade contributes positively to the d
 | 12 mos | Nordic Aquarius | 2018 |
 | --- | --- | --- |
 |  | $75,500/day |  |
-### Dirty WS Rates (1-Year Trend)
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 24/Apr/25 | 100 | 150 | 200 |
@@ -62,8 +59,8 @@ Argentina's growing role in long-haul corn trade contributes positively to the d
 | 24/Feb/26 | 400 | 400 | 400 |
 | 24/Mar/26 | 900 | 900 | 900 |
 | 24/Apr/26 | 400 | 250 | 400 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | Date | WS points | WS points | WS points | WS points |
@@ -132,11 +129,10 @@ Aframax trading in the Mediterranean began under charterer control, with inconsi
 ### Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 11 to 13 mos | Hui Ton | 2010 | 83,601 dwt | $17,500/day | cnr |
-| 12 mos | WW Nadia | 2012 | 63,250 dwt | $18,500/day | cnr |
+| 11 to 13 mos | Hui Ton | 2010 | 83,601 dwt |  |  |
+| 12 mos | WW Nadia | 2012 | 63,250 dwt |  |  |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 24/Apr/25 | 2000 | 1500 | 1500 | 1000 | 1500 |
@@ -154,7 +150,6 @@ Aframax trading in the Mediterranean began under charterer control, with inconsi
 | 24/Apr/26 | 4500 | 2200 | 2200 | 1800 | 3000 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 24/Apr/25 | 15000 | 12000 | 10000 | 8000 |

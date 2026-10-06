@@ -32,27 +32,19 @@ The global dry bulk market demonstrated underlying resilience, with the benchmar
 
 ## Segment Highlights
 
-**Capesize: Capesize faced downward pressure this week as returning vessels delayed by Chinese port**
+**Capesize:** Capesize faced downward pressure this week as returning vessels delayed by Chinese port disruptions expanded Pacific tonnage length, driving competition on the West Australia to China route. Slowing fixture activity across Atlantic long-haul routes and rising bunker costs further dampened sentiment, though stable iron ore supply from Brazil helped keep the market active. Despite the underlying spot caution, route averages rebounded from earlier lows, lifting Pacific R/V to US$30,875's, and T/A trips to US$46,050's.
 
-disruptions expanded Pacific tonnage length, driving competition on the West Australia to China route. Slowing fixture activity across Atlantic long-haul routes and rising bunker costs further dampened sentiment, though stable iron ore supply from Brazil helped keep the market active. Despite the underlying spot caution, route averages rebounded from earlier lows, lifting Pacific R/V to US$30,875's, and T/A trips to US$46,050's.
+**Panamax / Kamsarmax:** Panamax drifted softer overall this week as slowing N. Atlantic cargo volumes, sluggish USG grain activity, and an accumulation of prompt ballast tonnage in the East combined to weigh down owner sentiment across both basins. While Brazilian grain demand and steady South American cargo flows initially provided a relative floor, an influx of ballasting ships arriving from Asia created a two-tier market in the South and capped forward rate momentum. Spot returns faced a general decline across major routes, dragging T/A rates down to US$20,400's with Pacific R/V to US$15,550's.
 
-**Panamax / Kamsarmax: Panamax drifted softer overall this week as slowing N. Atlantic cargo volumes,**
+**Supramax / Ultramax:** Atlantic rates held a firm yet mixed stance supported by a steady influx of USG and East Med cargoes against limited prompt tonnage, even as T/A rates slipped to US$28,950's and F/H trips eased to US$29,950 per day. Across Asia, slowing Chinese coal demand and weaker northern sentiment capped upward momentum, though consistent SE Asian activity and steady Indian Ocean cargo flows helped cushion Pacific R/V at US$16,980's.
 
-sluggish USG grain activity, and an accumulation of prompt ballast tonnage in the East combined to weigh down owner sentiment across both basins. While Brazilian grain demand and steady South American cargo flows initially provided a relative floor, an influx of ballasting ships arriving from Asia created a two-tier market in the South and capped forward rate momentum. Spot returns faced a general decline across major routes, dragging T/A rates down to US$20,400's with Pacific R/V to US$15,550's.
-
-**Supramax / Ultramax: Atlantic rates held a firm yet mixed stance supported by a steady influx of USG and**
-
-East Med cargoes against limited prompt tonnage, even as T/A rates slipped to US$28,950's and F/H trips eased to US$29,950 per day. Across Asia, slowing Chinese coal demand and weaker northern sentiment capped upward momentum, though consistent SE Asian activity and steady Indian Ocean cargo flows helped cushion Pacific R/V at US$16,980's.
-
-**Handysize: Handysize remained balanced across Europe this week, while the USG and South Atlantic**
-
-faced ongoing pressure from expanding tonnage availability. Both Atlantic and Pacific basins continue to await stronger cargo flows and increased fixture activity to establish a clearer market direction. Amidst this cautious backdrop, spot returns drifted slightly lower, bringing T/A rates down to US$16,750's and Inter- Pacific routes to US$15,350's per day.
+**Handysize:** Handysize remained balanced across Europe this week, while the USG and South Atlantic faced ongoing pressure from expanding tonnage availability. Both Atlantic and Pacific basins continue to await stronger cargo flows and increased fixture activity to establish a clearer market direction. Amidst this cautious backdrop, spot returns drifted slightly lower, bringing T/A rates down to US$16,750's and Inter- Pacific routes to US$15,350's per day.
 
 ## Page 3
 
 ### Baltic Dry Index (BDI)
 
-**BDI: 2,743** (WoW: -3.42% | YoY: +21.53%)
+**BDI:** 2,743 (WoW: -3.42% | YoY: +21.53%)
 
 | BCI | BPI | BSI | BHSI |
 | :---: | :---: | :---: | :---: |
@@ -102,21 +94,13 @@ Global energy markets surged for a fifth consecutive session as escalating marit
 
 ## Segment Highlights
 
-**VLCC: Middle East VLCC market rose by roughly 5% as escalating attacks in the Strait of Hormuz and Gulf**
+**VLCC:** Middle East VLCC market rose by roughly 5% as escalating attacks in the Strait of Hormuz and Gulf of Oman tightened tonnage, with ongoing geopolitical risks expected to keep regional rates firm. Conversely, the Atlantic market is set to soften as owners flee Middle Eastern hazards, boosting transatlantic and eastbound demand from alternative hubs like the USG and West Africa.
 
-of Oman tightened tonnage, with ongoing geopolitical risks expected to keep regional rates firm. Conversely, the Atlantic market is set to soften as owners flee Middle Eastern hazards, boosting transatlantic and eastbound demand from alternative hubs like the USG and West Africa.
+**Suezmax:** West African market faces a slightly softer trajectory this week as a steady stream of ballast vessels fleeing Middle East risks expands Atlantic supply and caps overall momentum. However, this downward pressure is tempered by consistent cargo flows out of West Africa and the CPC, while tight regional VLCC availability and surging U.S. Gulf Aframax rates continue to bolster underlying sentiment across the basin.
 
-**Suezmax: West African market faces a slightly softer trajectory this week as a steady stream of ballast**
+**Aframax:** Mediterranean market remains strong in the high WS300s, supported by delays in Trieste and potential ballast departures despite a growing local tonnage list and risks of Black Sea loading cancellations. Meanwhile, the Middle East sector faces a slightly softer trend as a buildup of available vessels overshadows steady short-haul demand and lingering geopolitical risk premiums around the Strait of Hormuz.
 
-vessels fleeing Middle East risks expands Atlantic supply and caps overall momentum. However, this downward pressure is tempered by consistent cargo flows out of West Africa and the CPC, while tight regional VLCC availability and surging U.S. Gulf Aframax rates continue to bolster underlying sentiment across the basin.
-
-**Aframax: Mediterranean market remains strong in the high WS300s, supported by delays in Trieste and**
-
-potential ballast departures despite a growing local tonnage list and risks of Black Sea loading cancellations. Meanwhile, the Middle East sector faces a slightly softer trend as a buildup of available vessels overshadows steady short-haul demand and lingering geopolitical risk premiums around the Strait of Hormuz.
-
-**LR1 / LR2: Middle East LR2 rates surged by roughly 25% w-o-w as escalating geopolitical risks triggered**
-
-fierce competition among charterers and caused available tonnage to tighten rapidly. The upward momentum is expected to build further this week as shipowners hold out for higher quotes and demand spills into alternative regional loading hubs like Fujairah, Oman, and the Red Sea.
+**LR1 / LR2:** Middle East LR2 rates surged by roughly 25% w-o-w as escalating geopolitical risks triggered fierce competition among charterers and caused available tonnage to tighten rapidly. The upward momentum is expected to build further this week as shipowners hold out for higher quotes and demand spills into alternative regional loading hubs like Fujairah, Oman, and the Red Sea.
 
 ## Page 6
 
@@ -214,9 +198,7 @@ ALIAGA |
 
 ## Page 13
 
-**Chattogram, Bangladesh: Chattogram maintained a firm undertone, with ship recyclers showing**
-
-sustained interest and steady levels despite moderate volumes across the waterfront. However, buying inquiry has become increasingly selective as market participants apply strict compliance screening following a recent incident where an arriving tanker was hit with sudden sanctions just before beaching, leading recyclers to focus almost exclusively on standard bulk carriers and clean tonnage free of regulatory risk. Longterm industrial prospects for the Chattogram region remain promising, bolstered by major infrastructure pushes such as the groundbreaking of the 600-acre Chinese Economic and Industrial Zone in Anwara, which is set to enhance regional manufacturing capabilities and eventually strengthen domestic demand for recycled steel.
+**Chattogram, Bangladesh:** Chattogram maintained a firm undertone, with ship recyclers showing sustained interest and steady levels despite moderate volumes across the waterfront. However, buying inquiry has become increasingly selective as market participants apply strict compliance screening following a recent incident where an arriving tanker was hit with sudden sanctions just before beaching, leading recyclers to focus almost exclusively on standard bulk carriers and clean tonnage free of regulatory risk. Longterm industrial prospects for the Chattogram region remain promising, bolstered by major infrastructure pushes such as the groundbreaking of the 600-acre Chinese Economic and Industrial Zone in Anwara, which is set to enhance regional manufacturing capabilities and eventually strengthen domestic demand for recycled steel.
 
 ## Chattogram Anchorage & Beaching Position - July 2026
 
@@ -245,9 +227,7 @@ sustained interest and steady levels despite moderate volumes across the waterfr
 
 ## Page 14
 
-**Gaddani, Pakistan: Gadani recyclers are actively seeking candidates amidst an ongoing shortage of**
-
-scrap metal. This supply deficit, exacerbated by reduced scrap flows from neighbouring Iran, continues to provide underlying support for local recycling demand despite a persistent scarcity of available international tonnage. Local ship recyclers kept their price offers firm across the board, matching a late-week rally in domestic steel plate valuations. While end-user consumption has yet to fully match this price surge, market optimism rests heavily on recent fiscal reforms, including reduced property withholding taxes and subsidised housing initiatives, which are expected to boost construction activity once the monsoon clears. Currently, Gadani recyclers remain well-positioned to compete with Indian yards on price.
+**Gaddani, Pakistan:** Gadani recyclers are actively seeking candidates amidst an ongoing shortage of scrap metal. This supply deficit, exacerbated by reduced scrap flows from neighbouring Iran, continues to provide underlying support for local recycling demand despite a persistent scarcity of available international tonnage. Local ship recyclers kept their price offers firm across the board, matching a late-week rally in domestic steel plate valuations. While end-user consumption has yet to fully match this price surge, market optimism rests heavily on recent fiscal reforms, including reduced property withholding taxes and subsidised housing initiatives, which are expected to boost construction activity once the monsoon clears. Currently, Gadani recyclers remain well-positioned to compete with Indian yards on price.
 
 ## Gaddani Anchorage & Beaching Position - July 2026
 
@@ -256,9 +236,7 @@ scrap metal. This supply deficit, exacerbated by reduced scrap flows from neighb
 | JENNY LUCKY | BULKER | 7,176 | 21.06.2026 | 02.07.2026 |
 | ILA | BULKER | 6,334 | 04.07.2026 | 10.07.2026 |
 
-**Aliaga, Turkey: Aliaga recorded a slight positive correction, with both imported raw scrap and domestic**
-
-finished steel prices edging up by roughly US$5/MT. However, this slight firming in steel values failed to boost vessel offers, as cautious yard operators kept purchasing rates unchanged between US$263~285 per LDT, leaving Turkish recyclers structurally uncompetitive against South Asian buyers. This sluggish activity reflects broader domestic financial hurdles, where a continuously weakening Turkish lira degrades purchasing power for dollar-denominated hulls, and a high central bank interest rate of 37% makes operational financing exceptionally costly amidst a tight global candidate pool.
+**Aliaga, Turkey:** Aliaga recorded a slight positive correction, with both imported raw scrap and domestic finished steel prices edging up by roughly US$5/MT. However, this slight firming in steel values failed to boost vessel offers, as cautious yard operators kept purchasing rates unchanged between US$263~285 per LDT, leaving Turkish recyclers structurally uncompetitive against South Asian buyers. This sluggish activity reflects broader domestic financial hurdles, where a continuously weakening Turkish lira degrades purchasing power for dollar-denominated hulls, and a high central bank interest rate of 37% makes operational financing exceptionally costly amidst a tight global candidate pool.
 
 **TIDE DATES 2026 | Chattogram:** 29 July ~ 01 August | 12 ~15 August
 
@@ -266,31 +244,21 @@ finished steel prices edging up by roughly US$5/MT. However, this slight firming
 
 # SUB-CONTINENT & TURKEY SCRAP MARKETS
 
-**India: Imported ferrous scrap trading remained subdued as monsoon disruptions, a weaker Rupee, and**
+**India:** Imported ferrous scrap trading remained subdued as monsoon disruptions, a weaker Rupee, and slow rebar sales kept buyers on the sidelines. UK-origin shredded scrap offers were heard above US$390/t CFR and HMS 80:20 near US$335/t CFR, though no fresh deals were confirmed. Sluggish downstream steel demand and poor import viability continue to restrict local procurement strictly to immediate operational needs.
 
-slow rebar sales kept buyers on the sidelines. UK-origin shredded scrap offers were heard above US$390/t CFR and HMS 80:20 near US$335/t CFR, though no fresh deals were confirmed. Sluggish downstream steel demand and poor import viability continue to restrict local procurement strictly to immediate operational needs.
-
-**Pakistan: Imported shredded scrap prices strengthened to US$410-US$415/t CFR Port Qasim, supported**
-
-by tighter summer supply, higher freight rates, and ongoing transit uncertainty near the Strait of Hormuz. Notable transactions included a 4,000-4,500 t UK-origin shredded cargo booked at US$408-US$410/t CFR, alongside Malaysian busheling offers at US$430-US$435/t CFR. However, conservative buyer bids at US$390-US$395/t CFR maintained a wide bid-offer gap and capped larger volumes.
+**Pakistan:** Imported shredded scrap prices strengthened to US$410-US$415/t CFR Port Qasim, supported by tighter summer supply, higher freight rates, and ongoing transit uncertainty near the Strait of Hormuz. Notable transactions included a 4,000-4,500 t UK-origin shredded cargo booked at US$408-US$410/t CFR, alongside Malaysian busheling offers at US$430-US$435/t CFR. However, conservative buyer bids at US$390-US$395/t CFR maintained a wide bid-offer gap and capped larger volumes.
 
 ## Page 15
 
-**Bangladesh: The seaborne scrap market in Chattogram remained subdued, weighed down by heavy**
+**Bangladesh:** The seaborne scrap market in Chattogram remained subdued, weighed down by heavy monsoon rain and weak construction activity. Containerised shredded scrap was indicated at US$365- US$370/t CFR, UK-origin shredded offers held at US$395-US$400/t CFR, and bulk Japanese H2 stood at US$390/t CFR. Domestic melting scrap traded between BDT 53,000-54,000/t (US$429-US$437/t), keeping mills focused on hand-to-mouth domestic procurement.
 
-monsoon rain and weak construction activity. Containerised shredded scrap was indicated at US$365- US$370/t CFR, UK-origin shredded offers held at US$395-US$400/t CFR, and bulk Japanese H2 stood at US$390/t CFR. Domestic melting scrap traded between BDT 53,000-54,000/t (US$429-US$437/t), keeping mills focused on hand-to-mouth domestic procurement.
-
-**Turkiye: Deep-sea import scrap prices strengthened as Turkish mills re-entered the market following a**
-
-modest uptick in domestic rebar demand and rising export offers at US$575-US$585/t FOB. Tradable levels reached US$375-US$377/t CFR for US-origin HMS 80:20 and US$369-US$371/t CFR for European material, firmly supported by elevated transatlantic freight rates. While firmer LME futures have improved overall sentiment, participants remain cautious regarding the sustainability of a full Q3 demand recovery.
+**Turkiye:** Deep-sea import scrap prices strengthened as Turkish mills re-entered the market following a modest uptick in domestic rebar demand and rising export offers at US$575-US$585/t FOB. Tradable levels reached US$375-US$377/t CFR for US-origin HMS 80:20 and US$369-US$371/t CFR for European material, firmly supported by elevated transatlantic freight rates. While firmer LME futures have improved overall sentiment, participants remain cautious regarding the sustainability of a full Q3 demand recovery.
 
 # COMMODITIES, BUNKERS & RATES
 
 ## Commodities Focus
 
-**Copper futures advanced toward US$6.53 per pound to approach seven-week peaks, supported by**
-
-shrinking exchange inventories in London and Shanghai as well as a multi-year high in the Yangshan import premium at $115 per ton. This physical tightness has been reinforced by domestic smelter maintenance, restricted scrap supply, typhoon-related safety stockpiling in China, and active cargo redirection into the United States ahead of anticipated import tariffs. In the energy sector, thermal coal futures held near US$131 per ton following transport bottlenecks in Indonesia, where prolonged dry weather along the Barito River in Kalimantan hampered barging operations and forced select miners to declare force majeure. Meanwhile, iron ore futures recovered above CNY 750 per ton as China's crude steel output reached a daily average of 2.79 million tons in June and monthly imports rose 6.4% year-on-year to 112.69 million tons. Increased factory intake helped pull Chinese port stockpiles down to 156.6 million tons from a mid-March peak of 166.9 million tons, although upside momentum continues to be tempered by persistent property sector drags, where first-half real estate investment fell 18% and new construction starts dropped 23.4% year-on-year.
+Copper futures advanced toward US$6.53 per pound to approach seven-week peaks, supported by shrinking exchange inventories in London and Shanghai as well as a multi-year high in the Yangshan import premium at $115 per ton. This physical tightness has been reinforced by domestic smelter maintenance, restricted scrap supply, typhoon-related safety stockpiling in China, and active cargo redirection into the United States ahead of anticipated import tariffs. In the energy sector, thermal coal futures held near US$131 per ton following transport bottlenecks in Indonesia, where prolonged dry weather along the Barito River in Kalimantan hampered barging operations and forced select miners to declare force majeure. Meanwhile, iron ore futures recovered above CNY 750 per ton as China's crude steel output reached a daily average of 2.79 million tons in June and monthly imports rose 6.4% year-on-year to 112.69 million tons. Increased factory intake helped pull Chinese port stockpiles down to 156.6 million tons from a mid-March peak of 166.9 million tons, although upside momentum continues to be tempered by persistent property sector drags, where first-half real estate investment fell 18% and new construction starts dropped 23.4% year-on-year.
 
 ## Iron Ore
 

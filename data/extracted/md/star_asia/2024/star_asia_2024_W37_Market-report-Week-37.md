@@ -50,26 +50,26 @@ Rates in the Handy saw improvements in the routes despite minimal activities acr
 
 ## Baltic Exchange Dry Bulk Indices
 
-| INDICES | CURRENT |  | LAST | WEEK | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-|---|---|---|---|---|---|---|---|---|---|
-| BDI | 1,927 |  |  | 1,941 |  | 1,340 | -0.72% |  | +43.81% |
-| BCI | 3,089 |  |  | 3,356 |  | 1,512 | -7.96% |  | +104.30% |
-| BPI | 1,402 |  |  | 1,294 |  | 1,642 | +8.35% |  | -14.62% |
-| BSI | 1,263 |  |  | 1,260 |  | 1,196 | +0.24% |  | +5.60% |
-| BHSI | 709 |  |  | 724 |  | 624 | -2.07% |  | +13.62% |
-|  |  |  |  | Dry Bulk | (Weekly) | Values |  |  |  |
-| TYPE | DWT | NB |  | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
-| CAPE | 180,000 |  | 76 |  |  | 77 | 64 | 45 | 29 |
-| KAMSARMAX | 82,000 |  | 37 |  |  | 44 | 38 | 28 | 18 |
-| SUPRAMAX | 56,000 |  | 35 |  |  | 41 | 36 | 27 | 16 |
-| HANDY | 38,000 |  | 30 |  |  | 35 | 28 | 21 | 12 |
-| *(amount in USD | million) |  |  |  |  |  |  |  |  |
-|  | Bulker | 12 | months | T/C |  | rates average | (in | USD/day) |  |
-| TYPE | DWT | CURRENT |  | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-| CAPESIZE | 180,000 | 23,700 |  | 23,500 |  | 14,500 | +0.85% |  | +63.45% |
-| PANAMAX | 75,000 | 14,000 |  | 14,000 |  | 13,000 | 0 |  | +7.69% |
-| SUPRAMAX | 58,000 | 14,500 |  | 14,750 |  | 12,250 | -1.69% |  | +18.37% |
-| HANDYSIZE | 38,000 | 14,000 |  | 14,250 |  | 11,500 | +1.75% |  | +21.74% |
+| INDICES | CURRENT | LAST | WEEK | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| BDI | 1,927 |  | 1,941 |  | 1,340 | -0.72% |  | +43.81% |
+| BCI | 3,089 |  | 3,356 |  | 1,512 | -7.96% |  | +104.30% |
+| BPI | 1,402 |  | 1,294 |  | 1,642 | +8.35% |  | -14.62% |
+| BSI | 1,263 |  | 1,260 |  | 1,196 | +0.24% |  | +5.60% |
+| BHSI | 709 |  | 724 |  | 624 | -2.07% |  | +13.62% |
+|  |  |  | Dry Bulk | (Weekly) | Values |  |  |  |
+| TYPE | DWT |  | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| CAPE | 180,000 | 76 |  |  | 77 | 64 | 45 | 29 |
+| KAMSARMAX | 82,000 | 37 |  |  | 44 | 38 | 28 | 18 |
+| SUPRAMAX | 56,000 | 35 |  |  | 41 | 36 | 27 | 16 |
+| HANDY | 38,000 | 30 |  |  | 35 | 28 | 21 | 12 |
+| *(amount in USD | million) |  |  |  |  |  |  |  |
+|  | Bulker | months | T/C |  | rates average | (in | USD/day) |  |
+| TYPE | DWT |  | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+| CAPESIZE | 180,000 |  | 23,500 |  | 14,500 | +0.85% |  | +63.45% |
+| PANAMAX | 75,000 |  | 14,000 |  | 13,000 | 0 |  | +7.69% |
+| SUPRAMAX | 58,000 |  | 14,750 |  | 12,250 | -1.69% |  | +18.37% |
+| HANDYSIZE | 38,000 |  | 14,250 |  | 11,500 | +1.75% |  | +21.74% |
 
 ### Shipbroking (www.star-asia.com.sg)
 
@@ -297,9 +297,7 @@ Sub-Continent and Turkey ferrous scrap markets insight
 
 Scrap markets across the Indian Sub-Continent and Tukey continued to struggle this week, with weak demand and a cautious stance from buyers characterising the region. In India, the availability of cheaper domestic scrap, coupled with sluggish finished steel sales, kept mills away from imported material. Meanwhile, Pakistan's steel mills scaled back production due to an excess of rebar inventory, and Bangladesh saw limited activity as mills grappled with overstocked scrap and financing difficulties. Despite competitive offers for bulk scrap, hesitant buyers kept market activity muted. In contrast, Turkiye's scrap prices held steady, though potential downward pressure looms with the arrival of billet shipments and expectations of slow rebar sales in October.
 
-**Indian buyers remained largely absent from the market for imported scrap this week,**
-
-with sluggish finished steel sales and the availability of cheaper domestic scrap curbing demand. Steel mills have significantly reduced scrap consumption, preferring local materials due to their competitive pricing. A steel mill source highlighted the challenging market conditions, explaining that the market remains sluggish and is expected to stay within a narrow range. Finished steel inventories are high, and the expected government funding for infrastructure projects has not yet materialised, adding further strain on demand. Meanwhile, mounting concerns amongst the traders heightened as the sales were made at minimal margins and, to some, even at losses. The indicative offers for shredded scrap from the US and Europe ranged from US$385-390/ton CFR Nhava Sheva, with HMS (80:20) offers at US$370-375/ton. In Pakistan, demand for imported scrap remained moderate as domestic steel mills scaled back production in response to a glut of rebar inventory. Several mills have halted production entirely, citing unsold stock as the reason for reduced scrap consumption. A steel mill official confirmed the production slowdown, explaining that operations have been halted due to an excessive backlog of steel inventory. The mill currently holds
+Indian buyers remained largely absent from the market for imported scrap this week, with sluggish finished steel sales and the availability of cheaper domestic scrap curbing demand. Steel mills have significantly reduced scrap consumption, preferring local materials due to their competitive pricing. A steel mill source highlighted the challenging market conditions, explaining that the market remains sluggish and is expected to stay within a narrow range. Finished steel inventories are high, and the expected government funding for infrastructure projects has not yet materialised, adding further strain on demand. Meanwhile, mounting concerns amongst the traders heightened as the sales were made at minimal margins and, to some, even at losses. The indicative offers for shredded scrap from the US and Europe ranged from US$385-390/ton CFR Nhava Sheva, with HMS (80:20) offers at US$370-375/ton. In Pakistan, demand for imported scrap remained moderate as domestic steel mills scaled back production in response to a glut of rebar inventory. Several mills have halted production entirely, citing unsold stock as the reason for reduced scrap consumption. A steel mill official confirmed the production slowdown, explaining that operations have been halted due to an excessive backlog of steel inventory. The mill currently holds
 
 ### Shipbroking (www.star-asia.com.sg)
 
@@ -307,9 +305,7 @@ with sluggish finished steel sales and the availability of cheaper domestic scra
 
 approximately 8,000 to 9,000 tons of unsold rebar, which has contributed to the decision to pause production until the inventory is cleared. Offers for shredded scrap from the UK and Europe were reported in the US$395-405/ton CFR Qasim range, with some deals closing around US$390-395/ton as suppliers faced pressure from weak demand.
 
-**Bangladesh's scrap market saw limited movement this week, with demand significantly**
-
-reduced. Larger steel mills remained absent from the market, having sufficient scrap inventories to last through the third quarter, while smaller mills struggled with financing issues. Despite attractive offers for bulk scrap, such as US HMS at US$385-390/ton, buyers were hesitant due to overstocked inventories and letters of credit challenges. Market activity is expected to pick up by mid-October as the impact of the monsoon wanes and new projects may get approval. In Turkey, deep-sea imported ferrous scrap prices remained stable this week. HMS (80:20) from the US was assessed at US$370/ton CFR, with EU-origin scrap priced slightly lower at US$365-366/ton. Rising collection costs in regions such as Benelux kept sellers firm on pricing, but Turkish mills showed little urgency to buy. Market participants noted that slow rebar sales or the arrival of previously booked billets could apply downward pressure on scrap prices in the coming weeks. For now, however, market conditions remain balanced, with no immediate factors driving prices up or down.
+Bangladesh's scrap market saw limited movement this week, with demand significantly reduced. Larger steel mills remained absent from the market, having sufficient scrap inventories to last through the third quarter, while smaller mills struggled with financing issues. Despite attractive offers for bulk scrap, such as US HMS at US$385-390/ton, buyers were hesitant due to overstocked inventories and letters of credit challenges. Market activity is expected to pick up by mid-October as the impact of the monsoon wanes and new projects may get approval. In Turkey, deep-sea imported ferrous scrap prices remained stable this week. HMS (80:20) from the US was assessed at US$370/ton CFR, with EU-origin scrap priced slightly lower at US$365-366/ton. Rising collection costs in regions such as Benelux kept sellers firm on pricing, but Turkish mills showed little urgency to buy. Market participants noted that slow rebar sales or the arrival of previously booked billets could apply downward pressure on scrap prices in the coming weeks. For now, however, market conditions remain balanced, with no immediate factors driving prices up or down.
 
 ## HMS 1/2 & Tangshan Billet
 
@@ -319,13 +315,9 @@ reduced. Larger steel mills remained absent from the market, having sufficient s
 
 ## Commodities
 
-**Iron ore prices plummeted below US$90/ton for the first time since 2022, as industrial**
+Iron ore prices plummeted below US$90/ton for the first time since 2022, as industrial commodities faced persistent pressure from sluggish Chinese demand and mounting concerns over global economic growth. The raw material's futures have plunged by more than a third this year, primarily due to an ongoing steel crisis in China threatening demand. This downturn is part of a broader trend, with base metals and crude oil also experiencing declines in recent weeks, making 2024 a turbulent year across the commodities sector. Analysts noted a shift in investor focus from U.S. inflation to growth concerns, citing China's lack of significant stimulus support and prevailing market pessimism. The cautious sentiment in metals was further emphasised by Goldman Sachs's substantial reduction of its bullish copper forecast, largely attributed to weak Chinese demand. Analysts predict further declines in iron ore futures on China's Dalian Commodity Exchange, with expectations of testing 600 yuan (US$84) a ton, more than 10% below current levels. Citi's metals analysts suggested that the uncertain U.S. election outcome and the risk of renewed trade tensions under a potential Trump administration were influencing China's decision to delay a stronger policy response. This hesitation comes as China's core inflation recently cooled to its weakest level in over three years, signaling persistent weak demand in the world's second-largest economy. This week, copper led gains in the base metals sector, driven by signs of strengthening demand from China. Following a sharp rise in July, inventories at Shanghai Exchange warehouses have begun to decline, while premiums for refined copper in China have started to increase.
 
-commodities faced persistent pressure from sluggish Chinese demand and mounting concerns over global economic growth. The raw material's futures have plunged by more than a third this year, primarily due to an ongoing steel crisis in China threatening demand. This downturn is part of a broader trend, with base metals and crude oil also experiencing declines in recent weeks, making 2024 a turbulent year across the commodities sector. Analysts noted a shift in investor focus from U.S. inflation to growth concerns, citing China's lack of significant stimulus support and prevailing market pessimism. The cautious sentiment in metals was further emphasised by Goldman Sachs's substantial reduction of its bullish copper forecast, largely attributed to weak Chinese demand. Analysts predict further declines in iron ore futures on China's Dalian Commodity Exchange, with expectations of testing 600 yuan (US$84) a ton, more than 10% below current levels. Citi's metals analysts suggested that the uncertain U.S. election outcome and the risk of renewed trade tensions under a potential Trump administration were influencing China's decision to delay a stronger policy response. This hesitation comes as China's core inflation recently cooled to its weakest level in over three years, signaling persistent weak demand in the world's second-largest economy. This week, copper led gains in the base metals sector, driven by signs of strengthening demand from China. Following a sharp rise in July, inventories at Shanghai Exchange warehouses have begun to decline, while premiums for refined copper in China have started to increase.
-
-**Aluminium prices also saw a boost as rising raw material costs heightened concerns**
-
-about reduced output. Alumina prices have surged by 50% this year, reaching their highest levels since March 2022, though aluminium prices remain largely flat year-todate. Smelters without their own alumina supplies are facing financial strain as a result. Additionally, the risk of trade disruptions grew after reports surfaced that President Putin has asked the Russian government to consider restricting exports of key commodities like nickel and titanium, in retaliation for Western sanctions.
+Aluminium prices also saw a boost as rising raw material costs heightened concerns about reduced output. Alumina prices have surged by 50% this year, reaching their highest levels since March 2022, though aluminium prices remain largely flat year-todate. Smelters without their own alumina supplies are facing financial strain as a result. Additionally, the risk of trade disruptions grew after reports surfaced that President Putin has asked the Russian government to consider restricting exports of key commodities like nickel and titanium, in retaliation for Western sanctions.
 
 ### Shipbroking (www.star-asia.com.sg)
 

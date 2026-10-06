@@ -32,27 +32,19 @@ The dry bulk market slowed further during Week 26, as the benchmark Baltic Dry I
 
 ## Segment Highlights
 
-**Capesize: Capesize closed slightly lower this week as strong downward pressure from weak Atlantic and**
+**Capesize:** Capesize closed slightly lower this week as strong downward pressure from weak Atlantic and Brazilian long-haul routes offset a brief, fixture rebound on the W. Australia to China run. Market caution remains high as near-month and third-quarter FFA contracts continue to trade at a discount to spot rates, reflecting scepticism over demand sustainability and looming tonnage pressure. Regional spot sentiment finished on a softer note with Pacific R/V dropping to US$29,800 per day, and T/A trips settling at US$38,680's, while F/H provided a lone bright spot by ticking up to US$68,850's.
 
-Brazilian long-haul routes offset a brief, fixture rebound on the W. Australia to China run. Market caution remains high as near-month and third-quarter FFA contracts continue to trade at a discount to spot rates, reflecting scepticism over demand sustainability and looming tonnage pressure. Regional spot sentiment finished on a softer note with Pacific R/V dropping to US$29,800 per day, and T/A trips settling at US$38,680's, while F/H provided a lone bright spot by ticking up to US$68,850's.
+**Panamax / Kamsarmax:** Panamax remained deeply divided this week as steady South American grain and U.S. EC coal volumes successfully filled the Atlantic, while an oversupply of ballast vessels and dropping Indonesian cargo weighed heavily on the Pacific. This acute regional imbalance in vessel supply left the futures market sceptical of a short-term rebound. Despite these supply pressures, slight gains emerged across key routes, lifting T/A rates to US$18,150 per day and Pacific R/V to US$15,150's, while Indonesian R/V crawled to US$13,500's.
 
-**Panamax / Kamsarmax: Panamax remained deeply divided this week as steady South American grain**
+**Supramax / Ultramax:** Supramax saw a generally robust but cautious tone this week, as a strong mismatch between prompt vessel positioning and cargo timing in the Atlantic helped offset a slight loss of momentum. Surging grain exports from Brazil, coupled with a tight supply of available ships, successfully pushed T/A rates up to US$29,600 per day and F/H routes to US$30,950's. Despite steady fixture activity on the Indonesia/India and SEAsia lanes, wider bid-offer gaps and the potential influx of ballast vessels nudged Pacific R/V down to US$17,190's per day.
 
-and U.S. EC coal volumes successfully filled the Atlantic, while an oversupply of ballast vessels and dropping Indonesian cargo weighed heavily on the Pacific. This acute regional imbalance in vessel supply left the futures market sceptical of a short-term rebound. Despite these supply pressures, slight gains emerged across key routes, lifting T/A rates to US$18,150 per day and Pacific R/V to US$15,150's, while Indonesian R/V crawled to US$13,500's.
-
-**Supramax / Ultramax: Supramax saw a generally robust but cautious tone this week, as a strong**
-
-mismatch between prompt vessel positioning and cargo timing in the Atlantic helped offset a slight loss of momentum. Surging grain exports from Brazil, coupled with a tight supply of available ships, successfully pushed T/A rates up to US$29,600 per day and F/H routes to US$30,950's. Despite steady fixture activity on the Indonesia/India and SEAsia lanes, wider bid-offer gaps and the potential influx of ballast vessels nudged Pacific R/V down to US$17,190's per day.
-
-**Handysize: Handies maintained a solid footing this week, anchored by healthy cargo demand and highly**
-
-resilient sentiment sweeping across the South Atlantic and USG. While trading conditions across the Continent and Mediterranean remained largely unchanged, a balanced supply-demand picture in Asia ensured consistent cargo flows and a highly stable market environment. This steady fundamental backdrop safely pushed Inter-Pacific routes to US$16,550's per day, and CIS R/V settled at US$15,000's.
+**Handysize:** Handies maintained a solid footing this week, anchored by healthy cargo demand and highly resilient sentiment sweeping across the South Atlantic and USG. While trading conditions across the Continent and Mediterranean remained largely unchanged, a balanced supply-demand picture in Asia ensured consistent cargo flows and a highly stable market environment. This steady fundamental backdrop safely pushed Inter-Pacific routes to US$16,550's per day, and CIS R/V settled at US$15,000's.
 
 ## Page 3
 
 ### Baltic Dry Index (BDI)
 
-**BDI: 2,524** (WoW: -7.27% | YoY: +65.94%)
+**BDI:** 2,524 (WoW: -7.27% | YoY: +65.94%)
 
 | BCI | BPI | BSI | BHSI |
 | :---: | :---: | :---: | :---: |
@@ -214,13 +206,9 @@ ALIAGA |
 
 ## Market Insights
 
-**Alang, India: Alang saw a weaker week, with purchasing prices correcting downward in response to softer**
+**Alang, India:** Alang saw a weaker week, with purchasing prices correcting downward in response to softer domestic economic fundamentals. Despite currently operating at largely unprofitable levels, most recyclers are continuing to actively acquire incoming tonnage primarily to maintain essential business continuity and keep their facilities running. While the persistent labour shortages that severely disrupted operations over recent months have finally been resolved, extreme seasonal heat conditions continue to heavily restrict and slow down daily production volumes. With India currently positioned as the lowest-priced destination on the subcontinent, local yard owners are maintaining a steady but cautious posture as heavy July monsoon rains begin to dictate the physical pace of vessel beaching.
 
-domestic economic fundamentals. Despite currently operating at largely unprofitable levels, most recyclers are continuing to actively acquire incoming tonnage primarily to maintain essential business continuity and keep their facilities running. While the persistent labour shortages that severely disrupted operations over recent months have finally been resolved, extreme seasonal heat conditions continue to heavily restrict and slow down daily production volumes. With India currently positioned as the lowest-priced destination on the subcontinent, local yard owners are maintaining a steady but cautious posture as heavy July monsoon rains begin to dictate the physical pace of vessel beaching.
-
-**Chattogram, Bangladesh: Chattogram saw a visible decline, with weak domestic steel and falling scrap**
-
-prices subduing buyer demand. Despite these quiet conditions and ongoing seasonal monsoon constraints, the market marked some sales were reported on speculation in a falling market. Going forward, time will tell whether this speculative deal turns out to be a logical deal or not. As bunkers and shipping premiums continue to deflate, owners of older tonnage have far less incentive to keep them at sea, leaving well-funded Bangladeshi yards perfectly positioned to absorb this emerging wave of vessels once the heavy seasonal rains begin to clear. Overall sentiment showed signs of weakness as supply pressure eased and a large number of ships lined up to head for the beaches of Chattogram. Experts believe prices are bound for a major correction to align with the underlying domestic fundamentals.
+**Chattogram, Bangladesh:** Chattogram saw a visible decline, with weak domestic steel and falling scrap prices subduing buyer demand. Despite these quiet conditions and ongoing seasonal monsoon constraints, the market marked some sales were reported on speculation in a falling market. Going forward, time will tell whether this speculative deal turns out to be a logical deal or not. As bunkers and shipping premiums continue to deflate, owners of older tonnage have far less incentive to keep them at sea, leaving well-funded Bangladeshi yards perfectly positioned to absorb this emerging wave of vessels once the heavy seasonal rains begin to clear. Overall sentiment showed signs of weakness as supply pressure eased and a large number of ships lined up to head for the beaches of Chattogram. Experts believe prices are bound for a major correction to align with the underlying domestic fundamentals.
 
 ## Page 13
 
@@ -245,7 +233,7 @@ prices subduing buyer demand. Despite these quiet conditions and ongoing seasona
 | JENNY LUCKY | BULKER | 7,176 | 21.06.2026 | AWAITING |
 | LADONNA | BULKER | 5,191 | 21.06.2026 | AWAITING |
 
-**Aliaga, Turkey: Aliaga maintained a soft tone as a drop in global mining raw material costs placed direct**
+**Aliaga, Turkey:** Aliaga maintained a soft tone as a drop in global mining raw material costs placed direct
 
 ## Page 14
 

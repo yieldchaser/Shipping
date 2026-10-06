@@ -28,7 +28,7 @@ U.S.-Iran talks showed tentative signs of progress this week, although negotiati
 
 ### Baltic Dry Index (BDI)
 
-**BDI: 2,991** (WoW: -5.08% | YoY: +123.21%)
+**BDI:** 2,991 (WoW: -5.08% | YoY: +123.21%)
 
 | BCI | BPI | BSI | BHSI |
 | :---: | :---: | :---: | :---: |
@@ -99,25 +99,15 @@ A small group of daring shipowners is successfully extracting oil from the Persi
 
 ## Segment Highlights
 
-**VLCC: VLCC market has closed lower as an off-peak seasonal slowdown and poor Asian refining margins**
+**VLCC:** VLCC market has closed lower as an off-peak seasonal slowdown and poor Asian refining margins cause demand for traditional Middle East/China routes to plummet to WS402 on Friday. Rates are expected to maintain a weak trajectory as owners show great resolve in holding back tonnage amid the demand slump. In the Atlantic, WAFR/China trips also slipped slightly to WS131.
 
-cause demand for traditional Middle East/China routes to plummet to WS402 on Friday. Rates are expected to maintain a weak trajectory as owners show great resolve in holding back tonnage amid the demand slump. In the Atlantic, WAFR/China trips also slipped slightly to WS131.
+**Suezmax:** Suezmax rates closed with a flat trend as seasonal off-peak demand begins to ease and shippers adopt a "wait-and-see" stance following the US-China summit. However, the wider Atlantic and Mediterranean markets remain well-supported, with balanced tonnage lists and volume boost for early June dates due to a lack of competing VLCC activity. 130,000mt Nigeria/UKC slipped to WS187.
 
-**Suezmax: Suezmax rates closed with a flat trend as seasonal off-peak demand begins to ease and**
+**Aframax:** Aframax rates have declined this week as the market enters a seasonal off-peak period, as Asian refiners shift crude sourcing to West Africa and the Atlantic to avoid Middle Eastern supply disruptions. However, rates in the Mediterranean appear to have bottomed out as May dates near soldout status with Ceyhan/Lavera fell to WS173.
 
-shippers adopt a "wait-and-see" stance following the US-China summit. However, the wider Atlantic and Mediterranean markets remain well-supported, with balanced tonnage lists and volume boost for early June dates due to a lack of competing VLCC activity. 130,000mt Nigeria/UKC slipped to WS187.
+**LR1 / LR2:** Middle East LR market has ended the week with on a weak trend as a drop in cargo volumes and a build-up of returning vessels intensify oversupply across the region. Consequently, freight rates have softened, with the LR2 TC1 index dropping 16 points to WS530 and the LR1 TC5 index falling 30 points to WS570.
 
-**Aframax: Aframax rates have declined this week as the market enters a seasonal off-peak period, as**
-
-Asian refiners shift crude sourcing to West Africa and the Atlantic to avoid Middle Eastern supply disruptions. However, rates in the Mediterranean appear to have bottomed out as May dates near soldout status with Ceyhan/Lavera fell to WS173.
-
-**LR1 / LR2: Middle East LR market has ended the week with on a weak trend as a drop in cargo volumes and**
-
-a build-up of returning vessels intensify oversupply across the region. Consequently, freight rates have softened, with the LR2 TC1 index dropping 16 points to WS530 and the LR1 TC5 index falling 30 points to WS570.
-
-**MR: Far East MR market faced downward pressure this week as falling refining margins led to lower refinery**
-
-utilisation rates and a slowdown in cargo volumes. Meanwhile, rates elsewhere appear to have stabilized, with the Middle East TC17 index holding flat in the high WS720s and the USG TC14 route finding a floor around WS155.
+**MR:** Far East MR market faced downward pressure this week as falling refining margins led to lower refinery utilisation rates and a slowdown in cargo volumes. Meanwhile, rates elsewhere appear to have stabilized, with the Middle East TC17 index holding flat in the high WS720s and the USG TC14 route finding a floor around WS155.
 
 ## Page 6
 
@@ -248,9 +238,7 @@ ALIAGA |
 |  |  |  |  |  |
 |  |  |  |  |  |
 
-**Aliaga, Turkey: Local activity for new tonnage was restricted by a depreciating Turkish Lira, dampening**
-
-overall buying appetite. Turkish yards remain structurally uncompetitive for standard merchant ships, leaving the region's focus almost entirely on the EU-regulated tonnage.
+**Aliaga, Turkey:** Local activity for new tonnage was restricted by a depreciating Turkish Lira, dampening overall buying appetite. Turkish yards remain structurally uncompetitive for standard merchant ships, leaving the region's focus almost entirely on the EU-regulated tonnage.
 
 ## TIDE DATES 2026 | Chattogram: 31 May-3 June | 14-17 June
 
@@ -262,13 +250,9 @@ overall buying appetite. Turkish yards remain structurally uncompetitive for sta
 | COMMODITIES, BUNKERS & RATES |
 | Commodities Focus |
 
-**Copper futures provided a notable bright spot this week, trading near US$6.28 per pound following a 2%**
+Copper futures provided a notable bright spot this week, trading near US$6.28 per pound following a 2% rise fuelled by optimism that the United States and Iran are nearing a peace agreement that could reopen the Strait of Hormuz. This potential de-escalation has already triggered a decline in oil prices and eased broader inflationary fears, while copper also benefited from a rally in artificial intelligence technology stocks that reinforced long-term demand for data infrastructure. However, the outlook for industrial metals remains tempered by slowing economic activity in China, where retail sales and industrial production recently missed expectations and fixed asset investment saw an unexpected contraction.
 
-rise fuelled by optimism that the United States and Iran are nearing a peace agreement that could reopen the Strait of Hormuz. This potential de-escalation has already triggered a decline in oil prices and eased broader inflationary fears, while copper also benefited from a rally in artificial intelligence technology stocks that reinforced long-term demand for data infrastructure. However, the outlook for industrial metals remains tempered by slowing economic activity in China, where retail sales and industrial production recently missed expectations and fixed asset investment saw an unexpected contraction.
-
-**Steel rebar futures have subsequently fallen to approximately CNY 3,170 per ton, hitting their lowest levels**
-
-in nearly three weeks amid sluggish domestic construction and weakening export appetite. Similarly, iron ore prices retreated toward CNY 790 per ton as portside stockpiles across 47 Chinese ports grew by 4.2 million tons, compounded by rising shipments from major exporters in Australia and Brazil.
+Steel rebar futures have subsequently fallen to approximately CNY 3,170 per ton, hitting their lowest levels in nearly three weeks amid sluggish domestic construction and weakening export appetite. Similarly, iron ore prices retreated toward CNY 790 per ton as portside stockpiles across 47 Chinese ports grew by 4.2 million tons, compounded by rising shipments from major exporters in Australia and Brazil.
 
 ## Page 15
 

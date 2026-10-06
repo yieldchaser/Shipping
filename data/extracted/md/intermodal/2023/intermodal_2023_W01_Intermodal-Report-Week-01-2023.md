@@ -57,7 +57,6 @@ Shanghai 200122 China
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 06/01/23 WS points | 06/01/23 $/day | 30/12/22 WS points | 30/12/22 $/day | $/day ±% | 2021 $/day | 2020 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 53 | 33,952 | 74 | 41,586 | -18.4% | 2,246 | 52,119 |
@@ -76,14 +75,14 @@ Shanghai 200122 China
 | Dirty | 55K | UKC-USG | 180 | 34,352 | 317 | 60,606 | -43.3% | 2,822 | 12,120 |
 |  | 55K | MED-USG | 182 | 34,766 | 317 | 61,808 | -43.8% | 4,818 | 12,965 |
 |  | 50k | CARIBS-USG | 314 | 68,125 | 452 | 82,143 | -17.1% | 8,548 | 17,651 |
-## Indicative Period Charters
 
+## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | SEA JEWEL | 2013 | 112,081 dwt |  | Abu Dhabi Ports $55,000/day |
-| 12 mos | ELKA APOLLON | 2005 | 101,970 dwt |  | Saudi Aramco $42,000/day |
-### Dirty WS Rates (1-Year Trend)
+| 12 mos | SEA JEWEL | 2013 | 112,081 dwt |  |  |
+| 12 mos | ELKA APOLLON | 2005 | 101,970 dwt |  |  |
 
+### Dirty WS Rates (1-Year Trend)
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | Date | WS points | WS points | WS points |
@@ -100,8 +99,8 @@ Shanghai 200122 China
 | 6/Nov/22 | 40 | 620 | 600 |
 | 6/Dec/22 | 40 | 250 | 250 |
 | 6/Jan/23 | 40 | 150 | 150 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | Date | WS points | WS points | WS points | WS points |
@@ -134,8 +133,8 @@ Shanghai 200122 China
 |  | **52k 3yr TC** | 24,000 | 25,000 | -4.0% | -1000 | 13,804 | 15,916 |
 | Handy | **36k 1yr TC** | 29,000 | 29,000 | 0.0% | 0 | 11,292 | 13,966 |
 |  | **36k 3yr TC** | 18,000 | 18,000 | 0.0% | 0 | 13,054 | 14,051 |
-## Indicative Market Values ($ Million) - Tankers
 
+## Indicative Market Values ($ Million) - Tankers
 | Sector | Size | Jan-23 avg | Dec-22 avg | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VLCC** | **300KT DH** | 98.0 | 92.6 | **5.8%** | 69.7 | 71.5 | 72.1 |
@@ -166,7 +165,6 @@ In the Suezmax sector we had the sale of the "ICE TRANSPORTER" (146,270dwt-blt '
 
 # Dry Bulk Market
 ## Baltic Indices
-
 | Index Name | 06/01/23 Index | 06/01/23 $/day | 30/12/22 Index | 30/12/22 $/day | Point Diff | $/day ±% | 2021 Index | 2020 Index |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | BDI | 1,146 |  | 1,515 |  | -369 |  | 2,921 | 1,066 |
@@ -174,8 +172,8 @@ In the Suezmax sector we had the sale of the "ICE TRANSPORTER" (146,270dwt-blt '
 | BPI | 1,332 | $11,986 | 1,535 | $13,813 | -203 | -13.2% | 2,972 | 1,103 |
 | BSI | 871 | $9,585 | 1,062 | $11,685 | -191 | -18.0% | 2,424 | 746 |
 | BHSI | 571 | $10,286 | 663 | $11,941 | -92 | -13.9% | 1,424 | 447 |
-## TC Rates
 
+## TC Rates
 | Sector | Tenor | 06/01/23 | 30/12/22 | ±% | Diff | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 1yr TC** | 17,250 | 17,000 | 1.5% | 250 | 26,392 | 14,394 |
@@ -186,14 +184,14 @@ In the Suezmax sector we had the sale of the "ICE TRANSPORTER" (146,270dwt-blt '
 |  | **58K 3yr TC** | 11,500 | 11,500 | 0.0% | 0 | 14,552 | 9,490 |
 | **Handysize** | **32K 1yr TC** | 11,250 | 11,000 | 2.3% | 250 | 18,354 | 8,356 |
 |  | **32K 3yr TC** | 9,250 | 9,250 | 0.0% | 0 | 11,825 | 8,486 |
+
 ## Indicative Period Charters
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 6 to 8 mos | GP ZAFIRAKIS | 2014 | 172,492 dwt |  |  |
+| 12 mos | ORION III | 2005 | 76,602 dwt |  |  |
 
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 6 to 8 mos | GP ZAFIRAKIS | 2014 | 172,492 dwt | Caofeidian 8/9 Jan | $17,000/day | Solebay |
-| 12 mos | ORION III | 2005 | 76,602 dwt | Yeosu 10/15 Jan | $11,000/day | Athena |
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 6/Jan/22 | 2500 | 2600 | 2700 | 1800 | 2400 |
@@ -209,8 +207,8 @@ In the Suezmax sector we had the sale of the "ICE TRANSPORTER" (146,270dwt-blt '
 | 6/Nov/22 | 2600 | 2700 | 2800 | 1500 | 2300 |
 | 6/Dec/22 | 2500 | 2600 | 2700 | 1400 | 2200 |
 | 6/Jan/23 | 2400 | 2500 | 2600 | 1400 | 2100 |
-### Average T/C Rates (1-Year Trend)
 
+### Average T/C Rates (1-Year Trend)
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 6/Jan/22 | 15000 | 20000 | 22000 | 18000 |
@@ -259,7 +257,6 @@ In the Supramax sector we had the sale of the "SEA KSANTI" (59,941dwt-blt '12, S
 
 # Intermodal Secondhand Sales
 ## Tankers
-
 | Sector | Size | Tankers | Name | Dwt | Built | Yard | M/E | SS due | Hull | Price |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | ASIA DAWN | 281,396 | 2005 | IHI MARINE, Japan | Sulzer | Oct-25 | DH | low $50.0m | Middle Eastern | BWTS fitted |
@@ -267,8 +264,8 @@ In the Supramax sector we had the sale of the "SEA KSANTI" (59,941dwt-blt '12, S
 | SUEZ | ICE TRANSPORTER | 146,270 | 2006 | UNIVERSAL, Japan | MAN-B&amp;W | Oct-26 | DH | $ 47.5m | Middle Eastern | BWTS fitted, Ice 1A |
 | SMALL | CHANTACO | 18,734 | 2007 | RMK MARINE, Turkey | Wartsila | Oct-26 | DH | $ 20.7m | Canadian (Algoma) | Ice 1A |
 | SMALL | CHIBERTA | 18,734 | 2007 | RMK MARINE, Turkey | Wartsila | Oct-26 | DH |  |  | Ice 1A |
-## Bulk Carriers
 
+## Bulk Carriers
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CAPE | AQUASALWADOR | 180,012 | 2012 | DAEHAN, S. Korea | MAN-B\&amp;W | Jan-27 |  | rgn $ 27.0m | Greek | BWTS fitted |
@@ -278,8 +275,8 @@ In the Supramax sector we had the sale of the "SEA KSANTI" (59,941dwt-blt '12, S
 | SUPRA | ROYAL FAIRNESS | 55,654 | 2011 | MITSUI TAMANO, Japan | MAN-B\&amp;W | Oct-25 | 4 X 30t CRANES | rgn $ 16.0m | Greek | BWTS fitted |
 | HANDY | KIRISHIMA SKY | 35,309 | 2014 | MINAMI-NIPPON, Japan | MAN-B\&amp;W | May-25 | 4 X 30t CRANES | $ 16.35m | Turkish | BWTS fitted |
 | HANDY | LOVELY LEAH | 28,383 | 2012 | IMABARI, Japan | MAN-B\&amp;W | Jan-26 | 4 X 30,5t CRANES | $ 11.4m | Greek | BWTS fitted |
-## Containers
 
+## Containers
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FEEDER | SEALAND GUAYAQUIL | 2,546 | 2009 | Jiangsu Yangtzejiang, China | Wartsila | Jan-24 | 3 X 45t CRANES | $ 13.0m | Undisclosed | Ice Clas II |
@@ -290,7 +287,6 @@ In the Supramax sector we had the sale of the "SEA KSANTI" (59,941dwt-blt '12, S
 
 # Intermodal Secondhand Sales
 ## Secondhand Sales
-
 | Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | BW ODIN | 58,551 | 2009 | HYUNDAI, S. Korea | MAN-B&amp;W | Mar-24 | 80,797 | $ 59.0m | Vietnamese (FGAS Petrol) | Scrubber fitted |
@@ -305,7 +301,6 @@ In the Supramax sector we had the sale of the "SEA KSANTI" (59,941dwt-blt '12, S
 
 # Newbuilding Market
 ## Indicative Newbuilding Prices ($ Million)
-
 | Sector | Size | 6-Jan-23 | 30-Dec-22 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bulkers** |  |  |  |  |  |  |  |
@@ -381,7 +376,6 @@ The newbuilding market is entering 2023 strongly with container orders leading t
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | Markets | 06/01/23 | 30/12/22 | ±% | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
@@ -412,8 +406,8 @@ The new year kicked off with positive sentiment as we mentioned in our last repo
 | 6/Nov/22 | 580 | 560 | 570 | 250 |
 | 6/Dec/22 | 540 | 520 | 530 | 250 |
 | 6/Jan/23 | 530 | 510 | 520 | 250 |
-## Demolition Sales
 
+## Demolition Sales
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | BELL | 43,685 | 7,995 | 1989 | TSUNEISHI, Japan | BC | $ 510/Ldt | undisclosed |  |

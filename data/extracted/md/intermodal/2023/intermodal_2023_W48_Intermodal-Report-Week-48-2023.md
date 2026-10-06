@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 By Fotis Kanatas, Research Analyst
 
@@ -17,7 +15,6 @@ Mid-size bulk carriers have experienced a volatile 2023 so far and the last few 
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 01/12/23 WS points | 01/12/23 $/day | 24/11/23 WS points | 24/11/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 67 | 48,277 | 68 | 47,568 | **1.5%** | 20,330 | 2,246 |
@@ -38,11 +35,12 @@ Mid-size bulk carriers have experienced a volatile 2023 so far and the last few 
 |  | 50k | CARIBS-USG | 212 | 37,809 | 232 | 42,974 | -12.0% | 40,364 | 8,548 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 24 mos |  |  | ST SHIP | DEL WEST NOV/23 | $24,000/day |  |
-| 9 mos | ENERGY APOLLO | 2020 | 49,812 dwt | DEL EAST NOV/23 | $28,300/day | SEARIVER (EXXON) |
-### 1-Year Forward WS Rates - Dirty
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 24 mos |  |  | ST SHIP |  |  |
+| 9 mos | ENERGY APOLLO | 2020 | 49,812 dwt |  |  |
+
+### Dirty WS Rates (1-Year Trend)
 
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
@@ -61,8 +59,8 @@ Mid-size bulk carriers have experienced a volatile 2023 so far and the last few 
 | 1/Oct/23 | 50 | 100 | 100 |
 | 1/Nov/23 | 50 | 150 | 250 |
 | 1/Dec/23 | 50 | 150 | 250 |
-### Clean WS Rates (1-Year Trend)
 
+### Clean WS Rates (1-Year Trend)
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | WS points |  |  |  |  |
@@ -145,10 +143,10 @@ Suezmax T/C earnings averaged \$50,108/day, down - \$715/day w-o-w. On the Afram
 | BHSI | 773 | $13,908 | 670 | $12,062 | **103** | **15.3%** | 1,181 | 1,424 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 24 mos | EVER SHINING |  | 81,842 dwt | dely Japan-China 5/25 Dec redel worldwide | $14,500/day | Goldbeam |
-| 5/7 mos | EVER EXCELLENT | 2021 | 81,935 dwt | dely Higashi-Hirama 26 Nov redel worldwide | $15,500/day | MOL |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 24 mos | EVER SHINING |  | 81,842 dwt |  |  |
+| 5/7 mos | EVER EXCELLENT | 2021 | 81,935 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | 01/12/23 | 24/11/23 | ±% | Diff | 2022 | 2021 |
@@ -163,7 +161,6 @@ Suezmax T/C earnings averaged \$50,108/day, down - \$715/day w-o-w. On the Afram
 |  | **32K 3yr TC** | 9,750 | 9,250 | **5.4%** | **500** | 12,322 | 11,825 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 1/Dec/22 | 1500 | 1500 | 800 | 700 | 1600 |
@@ -180,7 +177,6 @@ Suezmax T/C earnings averaged \$50,108/day, down - \$715/day w-o-w. On the Afram
 | 1/Dec/23 | 4000 | 3200 | 1500 | 800 | 3200 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 1/Dec/22 | 15000 | 15000 | 14000 | 13000 |
@@ -219,7 +215,6 @@ Supramax 10TC averaged \$ 15,150/day, up +10.37% w-o-w, while the Handysize 7TC 
 # Secondhand Sales
 
 ## TC Rates
-
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 | Year2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | JESSICA D | 300,976 | 2004 | IHI MARINE, Japan | Sulzer | Jul-24 | DH |
@@ -304,7 +299,6 @@ Last week was very quiet, with subdued activity in the major scrapping areas. St
 | USD/TRY | 28.90 | 28.87 | 0.13% | 28.96 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | G HARMONY | 35,014 | 11,248 | 2005 | KOUAN, China | GENERAL CARGO | $ 531/Ldt | Pakistani |

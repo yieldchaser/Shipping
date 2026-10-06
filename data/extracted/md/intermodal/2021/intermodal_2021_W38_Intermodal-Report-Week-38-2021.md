@@ -82,11 +82,10 @@ Shanghai 200122 China
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 12 mos | MARINE HOPE | 2019 | 318,747 dwt |  | Clearlake |
-| 6 mos | CIELO DI ROTTERDAM | 2018 | 74,999 dwt |  | ST Shipping |
+| 12 mos | MARINE HOPE | 2019 | 318,747 dwt |  |  |
+| 6 mos | CIELO DI ROTTERDAM | 2018 | 74,999 dwt |  |  |
 
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 24/Sep/20 | 50 | 60 | 70 |
@@ -104,7 +103,6 @@ Shanghai 200122 China
 | 24/Sep/21 | 60 | 70 | 80 |
 
 ### Clean WS Rates (1-Year Trend)
-
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 24/Sep/20 | 100 | 110 | 120 | 130 |
@@ -164,13 +162,12 @@ In the Suezmax sector we had the sale of the "NORDIC SIRIUS" (150,183dwt-blt '00
 | BHSI | 1,925 | $34,650 | 1,861 | $33,499 | 64 | 3.4% | 447 | 490 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 4 to 6 mos | NAVIOS CENTAURUS | 2012 | 81,472 dwt | Port Dickson 26/28 Sep | $34,000/day | Cobelfret |
-| 5 to 7 mos | FLORENTIA | 2016 | 63,339 dwt | Subic Bay end Sep | $42,000/day | cnr |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 4 to 6 mos | NAVIOS CENTAURUS | 2012 | 81,472 dwt |  |  |
+| 5 to 7 mos | FLORENTIA | 2016 | 63,339 dwt |  |  |
 
 ## TC Rates
-
 | Sector | Tenor | 24/09/2021 | 17/09/2021 | ±% | Diff | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 44,250 | 46,500 | -4.8% | -2,250 | 15,561 | 18,839 |
@@ -204,7 +201,6 @@ In the Suezmax sector we had the sale of the "NORDIC SIRIUS" (150,183dwt-blt '00
 | 24/Sep/21 | 4,450 | 4,100 | 3,650 | 1,600 | 6,800 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 24/Sep/20 | 10000 | 8000 | 8000 | 7000 |
@@ -252,7 +248,6 @@ In the Ultramax sector we had the sale of the "SAILING SKY" (61,346dwt-blt '14, 
 
 # Intermodal Secondhand Sales
 ## Tankers
-
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | FOS | 306,999 | 2002 | HYUNDAI ULSAN, S. Korea | MAN-B\&amp;W | Feb-22 | DH | $ 28.0m | undisclosed |  |
@@ -260,8 +255,8 @@ In the Ultramax sector we had the sale of the "SAILING SKY" (61,346dwt-blt '14, 
 | MR2 | OCEAN MARS | 50,388 | 2007 | SLS, S. Korea | MAN-B\&amp;W | May-22 | DH | $ 9.0m | Greek (Stealth Maritime) | auction sale |
 | MR1 | OCEAN CLOVER | 34,747 | 2019 | FUJIAN MAWEI, China | Wartsila | Nov-24 | DH | $ 18.4m | Chinese | BWTS fitted |
 | MR1 | OCEAN DIGNITY | 34,663 | 2006 | DALIAN, China | MAN-B\&amp;W | Sep-21 | DH | undisclosed | Greek |  |
-## Bulk Carriers
 
+## Bulk Carriers
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | PALAIS | 75,434 | 2014 | JIANGSU RONGSHENG, China | Wartsila | Jan-24 |  | $ 23.25m | Chinese | Tier II, BWTS fitted, bss prompt dely |
@@ -270,8 +265,8 @@ In the Ultramax sector we had the sale of the "SAILING SKY" (61,346dwt-blt '14, 
 | HANDY | BULKER BEE 20 | 25,041 | 2010 | NINGBO XINLE, China | MAN-B\&amp;W | Sep-25 | 3 X 30t CRANES | $ 21.5m | German | BWTS fitted |
 | HANDY | BULKER BEE 21 | 25,012 | 2011 | NINGBO XINLE, China | MAN-B\&amp;W | Jan-26 | 3 X 30t CRANES |  |  |  |
 | HANDY | BAO DA | 28,107 | 2001 | BOHAI, China | Sulzer | Mar-24 | 4 X 30t CRANES | rgn $ 7.0m | undisclosed |  |
-## Containers
 
+## Containers
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FEEDER | ACACIA REI | 1,740 | 2010 | GUANGZHOU WENCHONG, China | MAN-B\&amp;W | Apr-25 | 2 X 45t CRANES | $ 32.5m | Chinese |
@@ -337,7 +332,6 @@ The newbuilding market remains upbeat, with the dry bulk units having the lion's
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | 24/09/2021 | 17/09/2021 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Tanker** | Bangladesh | 590 | 590 | 0.0% | 348 | 410 |
@@ -366,8 +360,8 @@ The majority of the cash buyers across the main demolition destinations are not 
 | 24/Jul/21 | 580 | 570 | 580 | 580 |
 | 24/Aug/21 | 590 | 580 | 590 | 580 |
 | 24/Sep/21 | 590 | 570 | 590 | 580 |
-## Demolition Sales
 
+## Demolition Sales
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | INGRID | 105,528 | 15,954 | 2000 | SUMITOMO, Japan | TANKER | $ 514/Ldt | Pakistani |

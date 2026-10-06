@@ -136,25 +136,25 @@ L.R: Despite the relief in vessel supply pressures, a decrease in cargo influx h
 
 ## Tankers S&P Report
 
-| VESSEL | NAME | TYPE | DWT | YEAR |  | BUILT | PRICE (MILLION) USD | COMMENTS | / BUYERS |
-|---|---|---|---|---|---|---|---|---|---|
-| LANDBRIDGE / LANDBRIDGE | HORIZON GLORY | VLCC | 308,121 / 307,852 | 2019 |  | CHINA | 102.0 EACH | CSSC | HONG KONG |
-| LILA | ORLANDO | SUEZ | 158,706 | 2005 |  | S. KOREA | 37.0 | CHINESE | BUYERS |
-| BRUNSWICK |  | MR | 45,902 | 2010 |  | JAPAN | 24.0 | PV | TRANS |
-| CAPT | THANASIS | MR | 40,354 | 2004 |  | S. KOREA | 18.0 |  | UNDISCLOSED |
-| ACAMAR |  | MR | 37,583 | 2011 |  | S. KOREA | 23.5 |  | UNDISCLOSED |
-| RAS | MAERSK | MR | 34,999 Baltic Exchange | 2003 |  | CHINA Tanker | 9.5 Indices |  | UNDISCLOSED |
-| INDICES |  | CURRENT | LAST WEEK |  | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-| BDTI |  | 776 | 793 |  |  | 1,489 | -2.14% |  | -47.88% |
-| BCTI |  | 843 | 807 |  |  | 1,171 | +4.46% |  | -28.01% |
-|  |  |  |  | Tankers | (Weekly) | Values |  |  |  |
-| TYPE |  | DWT | NB | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
-| VLCC |  | 310,000 | 126 |  |  | 125 | 99 | 74 | 49 |
-| 0SUEZMAX |  | 160,000 | 85 |  |  | 90 | 73 | 59 | 31 |
-| AFRAMAX |  | 115,000 | 68 |  |  | 78 | 63 | 51 | 28 |
-| PANAMAX-LR1 |  | 73,000 | 57 |  |  | 60 | 49 | 39 | 20 |
-| MR TANKER |  | 51,000 | 47 |  |  | 50 | 40 | 31 | 18 |
-| *(amount in USD | million) |  |  |  |  |  |  |  |  |
+| VESSEL | NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS | / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LANDBRIDGE / LANDBRIDGE | HORIZON GLORY | VLCC | 308,121 / 307,852 | 2019 | CHINA | 102.0 EACH | CSSC | HONG KONG |
+| LILA | ORLANDO | SUEZ | 158,706 | 2005 | S. KOREA | 37.0 | CHINESE | BUYERS |
+| BRUNSWICK |  | MR | 45,902 | 2010 | JAPAN | 24.0 | PV | TRANS |
+| CAPT | THANASIS | MR | 40,354 | 2004 | S. KOREA | 18.0 |  | UNDISCLOSED |
+| ACAMAR |  | MR | 37,583 | 2011 | S. KOREA | 23.5 |  | UNDISCLOSED |
+| RAS | MAERSK | MR | 34,999 Baltic Exchange | 2003 | CHINA Tanker | 9.5 Indices |  | UNDISCLOSED |
+| INDICES |  | CURRENT | LAST WEEK |  | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+| BDTI |  | 776 | 793 |  | 1,489 | -2.14% |  | -47.88% |
+| BCTI |  | 843 | 807 |  | 1,171 | +4.46% |  | -28.01% |
+|  |  |  |  | Tankers | Values |  |  |  |
+| TYPE |  | DWT | NB | CONTRACT | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| VLCC |  | 310,000 | 126 |  | 125 | 99 | 74 | 49 |
+| 0SUEZMAX |  | 160,000 | 85 |  | 90 | 73 | 59 | 31 |
+| AFRAMAX |  | 115,000 | 68 |  | 78 | 63 | 51 | 28 |
+| PANAMAX-LR1 |  | 73,000 | 57 |  | 60 | 49 | 39 | 20 |
+| MR TANKER |  | 51,000 | 47 |  | 50 | 40 | 31 | 18 |
+| *(amount in USD | million) |  |  |  |  |  |  |  |
 
 ### Star Asia Shipbroking (www.star-asia.com.sg)
 

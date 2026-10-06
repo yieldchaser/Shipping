@@ -74,26 +74,26 @@ The Atlantic continues its positive trend, with North American grain leading the
 
 (Weekly)
 
-| TYPE | DWT | NB |  | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 | YEARS 15 YEARS |
-|---|---|---|---|---|---|---|---|---|---|
-| CAPE | 180,000 |  | 65 |  |  | 66 | 49 | 29 | 14 |
-| KAMSARMAX | 82,000 |  | 35 |  |  | 37 | 32 | 23 | 8 |
-| SUPRAMAX | 56,000 |  | 33 |  |  | 36 | 29 | 19 | 7 |
-| HANDY | 38,000 |  | 30 |  |  | 32 | 25 | 17 | 6 |
-| *(amount in USD | million) |  |  |  |  |  |  |  |  |
-|  |  | Baltic |  | Exchange |  | Dry Bulk | Indices |  |  |
-| INDICES | CURRENT |  | LAST | WEEK | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-| BDI | 1,820 |  |  | 1,643 |  | 1,189 | +10.77% |  | +53.07% |
-| BCI | 2,763 |  |  | 2,589 |  | 1,122 | +6.72% |  | +146.26% |
-| BPI | 1,874 |  |  | 1,530 |  | 1,594 | +22.48% |  | +17.57% |
-| BSI | 1,205 |  |  | 1,125 |  | 1,170 | +7.11% |  | +2.99% |
-| BHSI | 599 |  |  | 594 |  | 763 | +0.84% |  | -21.49% |
-|  | Bulker | 12 | months | T/C |  | rates average | (in | USD/day) |  |
-| TYPE | DWT | CURRENT |  | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
-| CAPESIZE | 180,000 | 15,000 |  | 14,500 |  | 12,500 | +3.45% |  | +20.00% |
-| PANAMAX | 75,000 | 13,650 |  | 12,250 |  | 13,850 | +11.43% |  | -1.44% |
-| SUPRAMAX | 58,000 | 11,875 |  | 11,500 |  | 12,500 | +3.26% |  | -5.00% |
-| HANDYSIZE | 38,000 | 11,000 |  | 10,750 |  | 10,500 | +2.33% |  | +4.76% |
+| TYPE | DWT | NB | CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 | YEARS 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 |  |  |  | 66 | 49 | 29 | 14 |
+| KAMSARMAX | 82,000 |  |  |  | 37 | 32 | 23 | 8 |
+| SUPRAMAX | 56,000 |  |  |  | 36 | 29 | 19 | 7 |
+| HANDY | 38,000 |  |  |  | 32 | 25 | 17 | 6 |
+| *(amount in USD | million) |  |  |  |  |  |  |  |
+|  |  | Baltic | Exchange |  | Dry Bulk | Indices |  |  |
+| INDICES | CURRENT |  | WEEK | LAST | YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+| BDI | 1,820 |  | 1,643 |  | 1,189 | +10.77% |  | +53.07% |
+| BCI | 2,763 |  | 2,589 |  | 1,122 | +6.72% |  | +146.26% |
+| BPI | 1,874 |  | 1,530 |  | 1,594 | +22.48% |  | +17.57% |
+| BSI | 1,205 |  | 1,125 |  | 1,170 | +7.11% |  | +2.99% |
+| BHSI | 599 |  | 594 |  | 763 | +0.84% |  | -21.49% |
+|  | Bulker | 12 | T/C |  | rates average | (in | USD/day) |  |
+| TYPE | DWT | CURRENT | LAST | WEEK | LAST YEAR | W-O-W | CHANGE Y-O-Y | CHANGE |
+| CAPESIZE | 180,000 | 15,000 | 14,500 |  | 12,500 | +3.45% |  | +20.00% |
+| PANAMAX | 75,000 | 13,650 | 12,250 |  | 13,850 | +11.43% |  | -1.44% |
+| SUPRAMAX | 58,000 | 11,875 | 11,500 |  | 12,500 | +3.26% |  | -5.00% |
+| HANDYSIZE | 38,000 | 11,000 | 10,750 |  | 10,500 | +2.33% |  | +4.76% |
 
 ### Star Asia Shipbroking (www.star-asia.com.sg)
 

@@ -269,15 +269,16 @@ This latest acquisition follows Boskalis' earlier purchase of the sister vessel 
 
 <u>**Boka Northern Ocean Specs:**</u>
 
-| **Build Yard:** Metalships & Dock |
-| --------------------------------- |
-| **Build Year:** 2012              |
-| **Converted:** 2023               |
-| **Length:** 120.4m                |
-| **Beam:** 30.0m                   |
-| **Accommodation:** 129 persons    |
-| **Deck:** 2,000m²                 |
-| **Crane:** 400 tonne & 100 tonne  |
+### Vessel Technical Specifications
+
+- **Build Yard:** Metalships & Dock
+- **Build Year:** 2012
+- **Converted:** 2023
+- **Length:** 120.4m
+- **Beam:** 30.0m
+- **Accommodation:** 129 persons
+- **Deck:** 2,000m²
+- **Crane:** 400 tonne & 100 tonne
 
 # NEWBUILDS, CONVERSIONS, S&P
 

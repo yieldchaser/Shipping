@@ -86,8 +86,8 @@ Shanghai 200122 China
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 36 mos | BABYLON | 2020 | 299,700 dwt | $35,500/day | Koch Logistics |
-| 12 mos | NH ERLE | 2010 | 49,999 dwt | $12,500/day | Vitol |
+| 36 mos | BABYLON | 2020 | 299,700 dwt |  |  |
+| 12 mos | NH ERLE | 2010 | 49,999 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | Current | Previous | ±% | Diff | 2020 | 2019 |
@@ -106,7 +106,6 @@ Shanghai 200122 China
 |  | **36k 3yr TC** | 12,250 | 12,250 | 0.0% | 0 | 14,051 | 13,753 |
 
 ### Dirty WS Rates (1-Year Trend)
-
 | Date | TD3 | TD6 | TD9 |
 | --- | --- | --- | --- |
 | 10/Dec/20 | 50 | 70 | 60 |
@@ -124,7 +123,6 @@ Shanghai 200122 China
 | 10/Dec/21 | 50 | 95 | 150 |
 
 ### Clean WS Rates (1-Year Trend)
-
 | Date | TC1 | TC2 | TC5 | TC6 |
 | --- | --- | --- | --- | --- |
 | 10/Dec/20 | 100 | 110 | 120 | 130 |
@@ -182,13 +180,12 @@ In the MR2 sector we had the sale of the "CELSIUS PALERMO" (53,540dwt-blt '10, J
 | BHSI | 1,572 | $28,295 | 1,559 | $28,065 | **13** | **0.8%** | 447 | 490 |
 
 ## Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 10 to 12 mos | PORT TOKYO | 2019 | 63,475 dwt | US Gulf prompt | $30,000/day | Bunge |
-| 3 to 5 mos | STAR WAVE | 2017 | 61,491 dwt | Mediterranean prompt | $30,000/day | Norden |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 10 to 12 mos | PORT TOKYO | 2019 | 63,475 dwt |  |  |
+| 3 to 5 mos | STAR WAVE | 2017 | 61,491 dwt |  |  |
 
 ## TC Rates
-
 | Sector | Tenor | 10/12/2021 | 03/12/2021 | ±% | Diff | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Capesize** | **180K 6mnt TC** | 32,000 | 31,500 | **1.6%** | **500** | 15,561 | 18,839 |
@@ -205,7 +202,6 @@ In the MR2 sector we had the sale of the "CELSIUS PALERMO" (53,540dwt-blt '10, J
 |  | **32K 3yr TC** | 13,000 | 13,000 | 0.0% | 0 | 8,686 | 9,291 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 10/Dec/20 | 1500 | 1500 | 1500 | 1000 | 1500 |
@@ -222,7 +218,6 @@ In the MR2 sector we had the sale of the "CELSIUS PALERMO" (53,540dwt-blt '10, J
 | 10/Dec/21 | 4500 | 3000 | 2800 | 1800 | 4800 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 10/Dec/20 | 15000 | 15000 | 15000 | 15000 |
@@ -269,7 +264,6 @@ In the Handysize sector we had the sale of the "WUHU" (39,182dwt-blt '14, China)
 
 # Intermodal Secondhand Sales
 ## Tankers
-
 | Tankers Size | Tankers Name | Tankers Dwt | Tankers Built | Tankers Yard | Tankers M/E | Tankers SS due | Tankers Hull | Tankers Price | Tankers Buyers | Tankers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LR2 | STI GALLANTRY | 109,999 | 2016 | GSI, China | MAN-B\&amp;W | Jun-26 | DH | $ 70.0m | Norwegian (Ocean Yield) | BWTS &amp; scrubber fitted, basis 10-yrs BBC back to sellers with purchase obligation at the end |
@@ -295,7 +289,6 @@ In the Handysize sector we had the sale of the "WUHU" (39,182dwt-blt '14, China)
 
 # Intermodal Secondhand Sales
 ## Bulk Carriers
-
 | Bulk Carriers Size | Bulk Carriers Name | Bulk Carriers Dwt | Bulk Carriers Built | Bulk Carriers Yard | Bulk Carriers M/E | Bulk Carriers SS due | Bulk Carriers Gear | Bulk Carriers Price | Bulk Carriers Buyers | Bulk Carriers Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | UMAX | NORD ADAGIO | 61,000 | 2022 | NACKS, China | MAN-B\&amp;W |  | 4 X 30.5t CRANES | xs $ 33.0m |  | Delivery Q1-2022 |
@@ -317,7 +310,6 @@ In the Handysize sector we had the sale of the "WUHU" (39,182dwt-blt '14, China)
 
 # Intermodal Secondhand Sales
 ## Containers
-
 | Size | Name | Teu | Built | Yard | M/E | SS due | Gear | Price | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PMAX | COSCO KAWASAKI | 4,530 | 2010 | SAMSUNG, S. Korea | MAN-B\&amp;W | Jul-25 |  | $ 65.0m | undisclosed |  |
@@ -334,7 +326,6 @@ In the Handysize sector we had the sale of the "WUHU" (39,182dwt-blt '14, China)
 
 # Newbuilding Market
 ## TC Rates
-
 | Sector | Tenor | Current | Previous | ±% | Diff | Year1 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Vessel | 10/12/2021 | 03/12/2021 | ±% | 2020 | 2019 | 2018 |
@@ -392,8 +383,8 @@ The momentum in the newbuilding market remains strong with more gas carrier and 
 | 10/Oct/21 | 102 | 66 | 52 | 48 | 36 |
 | 10/Nov/21 | 104 | 67 | 53 | 48 | 36 |
 | 10/Dec/21 | 106 | 68 | 54 | 49 | 36 |
-## Newbuilding Orders
 
+## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | LNG | 180,000 cbm | Samsung, S. Korea | 2025 | Danish (Celsius Shipping) | $ 208.7m |  |
@@ -409,7 +400,6 @@ The momentum in the newbuilding market remains strong with more gas carrier and 
 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
-
 | Markets | Markets | 10/12/2021 | 03/12/2021 | ±% | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
@@ -440,8 +430,8 @@ Average scrap prices across the Indian-subcontinent nations fell for another wee
 | 10/Oct/21 | 625 | 590 | 620 | 320 |
 | 10/Nov/21 | 625 | 580 | 625 | 325 |
 | 10/Dec/21 | 620 | 560 | 620 | 330 |
-## Indicative Demolition Prices ($/ldt)
 
+## Indicative Demolition Prices ($/ldt)
 | Demolition Sales Name | Demolition Sales Size | Demolition Sales Ldt | Demolition Sales Built | Demolition Sales Yard | Demolition Sales Type | Demolition Sales $/Ldt | Demolition Sales Breakers | Demolition Sales Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MADAME | 83,296 | 28,018 | 1981 | ATLANTIQUE CHS, France | LNG | $ 670/Ldt | Bangladeshi | high non-ferous content |

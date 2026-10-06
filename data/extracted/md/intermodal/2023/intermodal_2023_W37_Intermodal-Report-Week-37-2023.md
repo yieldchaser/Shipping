@@ -1,5 +1,3 @@
-# Weekly Market Report
-
 ## Market Insight
 **By George Vitsos, Offshore Broker**
 
@@ -19,7 +17,6 @@ In spite of the fact that the OSV industry has recovered from an arduous decade,
 
 # Tanker Market
 ## Spot Rates
-
 | Sector | Size | Routes | 15/09/23 WS points | 15/09/23 $/day | 08/09/23 WS points | 08/09/23 $/day | $/day ±% | 2022 $/day | 2021 $/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 265k | MEG-SPORE | 38 | 7,910 | 38 | 8,257 | -4.2% | 20,330 | 2,246 |
@@ -42,8 +39,8 @@ In spite of the fact that the OSV industry has recovered from an arduous decade,
 ## Indicative Period Charters
 | Tenor | Vessel | Built | DWT | Rate | Charterer |
 | --- | --- | --- | --- | --- | --- |
-| 24 mos | HAIMA | 2009 | 104,991 dwt | $30,000/day | Reliance |
-| 24 mos | RAYSUT | 2009 | 99,995 dwt | $30,000/day | Reliance |
+| 24 mos | HAIMA | 2009 | 104,991 dwt |  |  |
+| 24 mos | RAYSUT | 2009 | 99,995 dwt |  |  |
 
 ## TC Rates
 | Sector | Tenor | 15/09/23 | 08/09/23 | ±% | Diff | 2022 | 2021 |
@@ -94,10 +91,10 @@ On the Aframax front, T/C earnings averaged \$8,342/day, up + \$1,303/day w-o-w.
 | BHSI | 634 | $11,420 | 572 | $10,295 | **62** | **10.9%** | 1,181 | 1,424 |
 
 ### Indicative Period Charters
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 3 to 5 mos | DL PANSY | 2013 | 207,999 dwt | deli Los Angeles 28 Sep redel worldwide | $12,000/day + $400,000 bb | Trafigura |
-| 6 to 8 mos | BETTYS DREAM | 2008 | 82,641 dwt | deli Piraeus 15/20 Sep redel worldwide | $16,000/day | Paralos |
+| Tenor | Vessel | Built | DWT | Rate | Charterer |
+| --- | --- | --- | --- | --- | --- |
+| 3 to 5 mos | DL PANSY | 2013 | 207,999 dwt |  |  |
+| 6 to 8 mos | BETTYS DREAM | 2008 | 82,641 dwt |  |  |
 
 ### TC Rates
 | Sector | Tenor | 15/09/23 | 08/09/23 | ±% | Diff | 2022 | 2021 |
@@ -112,7 +109,6 @@ On the Aframax front, T/C earnings averaged \$8,342/day, up + \$1,303/day w-o-w.
 |  | **32K 3yr TC** | 9,250 | 9,250 | 0.0% | 0 | 12,322 | 11,825 |
 
 ### Baltic Indices (1-Year Trend)
-
 | Date | BCI | BPI | BSI | BHSI | BDI |
 | --- | --- | --- | --- | --- | --- |
 | 15/Sep/22 | 2100 | 2000 | 1000 | 1800 | 2000 |
@@ -129,7 +125,6 @@ On the Aframax front, T/C earnings averaged \$8,342/day, up + \$1,303/day w-o-w.
 | 15/Sep/23 | 1500 | 1500 | 1000 | 1000 | 1500 |
 
 ### Average T/C Rates (1-Year Trend)
-
 | Date | 5TC Average | 5TC BPI | 10TC BSI | 7TC BHSI |
 | --- | --- | --- | --- | --- |
 | 15/Sep/22 | 18000 | 16000 | 14000 | 12000 |
@@ -246,7 +241,6 @@ Despite the increased activity in the demolition market, only two of the four ma
 | USD/TRY | 26.99 | 26.84 | 0.6% | 27.28 |
 
 ## Demolition Sales
-
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MARITIME RIYAL | 45,363 | 12,246 | 1998 | DALIAN, China | TANKER | undisclosed | Indian | HKC recycling |

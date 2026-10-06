@@ -66,26 +66,26 @@ Handy market also saw similar declines across routes, particularly in the Atlant
 
 (Weekly)
 
-| TYPE | DWT |  | NB CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 | YEARS | 15 YEARS |
-|---|---|---|---|---|---|---|---|---|---|
-| CAPE | 180,000 |  | 68 |  | 70 | 50 |  | 38 | 29 |
-| KAMSARMAX | 82,000 |  | 37 |  | 35 | 30 |  | 24 | 19 |
-| SUPRAMAX | 56,000 |  | - |  | - | 27 |  | 20 | 13 |
-| HANDY | 38,000 |  | 31 |  | 33 | 25 |  | 17 | 14 |
-| *(amount in USD | million) |  |  |  |  |  |  |  |  |
-|  |  |  | Dry Bulk | - | S&P Report |  |  |  |  |
-|  |  |  |  |  |  | PRICE |  |  |  |
-| VESSEL | NAME | TYPE | DWT | YEAR | BUILT |  |  | COMMENTS | / BUYERS |
-|  |  |  |  |  |  | (MILLION) | USD |  |  |
-| GLOBAL | COMMANDER | VLOC | 207,953 | 2010 | JAPAN | 32.3 |  | CHINESE | BUYERS |
-| HL SAIJO |  | VLOC | 206,291 | 2010 | JAPAN | 38.0 |  | WINKING | SHIPPING LINITED |
-| CAPE | UNITY | CAPE | 180,181 | 2007 | JAPAN | 22.2 |  |  | WINNING |
-| WANGARATTA |  | KMAX | 82,206 | 2011 | JAPAN | 17.2 |  | CHINESE | BUYERS |
-| SFL YUKON |  | SMAX | 56,836 | 2010 | CHINA | 10.2 |  | CHINESE | BUYERS |
-| TELERI M |  | SMAX | 55,851 | 2013 | JAPAN | 16.8 |  |  | VOSCO |
-| ARIETTA |  | SMAX | 55,818 | 2009 | JAPAN | 13.0 |  | CHINESE | BUYERS |
-| FORTUNE | WING | SMAX | 55,650 | 2011 | JAPAN | 16.0 |  | INDONESIAN | BUYERS |
-| MERCURIUS |  | SMAX | 50,296 | 2001 | JAPAN | 5.9 |  |  | UNDISCLOSED |
+| TYPE | DWT | NB CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 | YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 68 |  | 70 | 50 |  | 38 | 29 |
+| KAMSARMAX | 82,000 | 37 |  | 35 | 30 |  | 24 | 19 |
+| SUPRAMAX | 56,000 | - |  | - | 27 |  | 20 | 13 |
+| HANDY | 38,000 | 31 |  | 33 | 25 |  | 17 | 14 |
+| *(amount in USD | million) |  |  |  |  |  |  |  |
+|  |  | Dry Bulk | - | S&P Report |  |  |  |  |
+|  |  |  |  |  | PRICE |  |  |  |
+| VESSEL | NAME | DWT | YEAR | BUILT |  |  | COMMENTS | / BUYERS |
+|  |  |  |  |  | (MILLION) | USD |  |  |
+| GLOBAL | COMMANDER | 207,953 | 2010 | JAPAN | 32.3 |  | CHINESE | BUYERS |
+| HL SAIJO |  | 206,291 | 2010 | JAPAN | 38.0 |  | WINKING | SHIPPING LINITED |
+| CAPE | UNITY | 180,181 | 2007 | JAPAN | 22.2 |  |  | WINNING |
+| WANGARATTA |  | 82,206 | 2011 | JAPAN | 17.2 |  | CHINESE | BUYERS |
+| SFL YUKON |  | 56,836 | 2010 | CHINA | 10.2 |  | CHINESE | BUYERS |
+| TELERI M |  | 55,851 | 2013 | JAPAN | 16.8 |  |  | VOSCO |
+| ARIETTA |  | 55,818 | 2009 | JAPAN | 13.0 |  | CHINESE | BUYERS |
+| FORTUNE | WING | 55,650 | 2011 | JAPAN | 16.0 |  | INDONESIAN | BUYERS |
+| MERCURIUS |  | 50,296 | 2001 | JAPAN | 5.9 |  |  | UNDISCLOSED |
 
 ### Shipbroking (www.star-asia.com.sg)
 
@@ -109,13 +109,9 @@ Amid soaring freight rates in the Med market and Black Sea routes, MEG shipowner
 
 Clean:
 
-**LR: MEG LR2 shifted downward as sluggish demand was observed after a good run in the**
+**LR:** MEG LR2 shifted downward as sluggish demand was observed after a good run in the market. TC1 closed the week at WS152 mark. With demand for Western routes notably slowing, freight rates remain slightly poor. LR1 also mirrored similar with TC5 route to Japan reflecting rates in the region of WS150.
 
-market. TC1 closed the week at WS152 mark. With demand for Western routes notably slowing, freight rates remain slightly poor. LR1 also mirrored similar with TC5 route to Japan reflecting rates in the region of WS150.
-
-**MR: The Far East market closed slightly weakened as the decrease in new demand**
-
-continued. In the UKC, levels also fell this week as general softness was observed. TC2 lost some 26 points to WS159.
+**MR:** The Far East market closed slightly weakened as the decrease in new demand continued. In the UKC, levels also fell this week as general softness was observed. TC2 lost some 26 points to WS159.
 
 ### Shipbroking (www.star-asia.com.sg)
 
@@ -303,9 +299,7 @@ Sub-Continent and Turkey ferrous scrap markets insights
 
 Imported scrap markets across the Sub-Continent remained subdued this week, with buying activity constrained by pricing resistance, liquidity issues, and the post-Eid slowdown.
 
-**India's scrap market stayed quiet as buyers resisted elevated offer levels, anticipating**
-
-further price corrections. Shredded scrap was offered at US$390-400/ton CFR, while bids were capped at US$385-386/ton, limiting trade. UK-origin HMS 80:20 was available at US$365-370/ton CFR, and Turning scrap was offered at US$345/ton CFR. A bulk cargo from Japan to Chennai was heard at US$385-390/ton, but overall demand remained muted.
+India's scrap market stayed quiet as buyers resisted elevated offer levels, anticipating further price corrections. Shredded scrap was offered at US$390-400/ton CFR, while bids were capped at US$385-386/ton, limiting trade. UK-origin HMS 80:20 was available at US$365-370/ton CFR, and Turning scrap was offered at US$345/ton CFR. A bulk cargo from Japan to Chennai was heard at US$385-390/ton, but overall demand remained muted.
 
 ### Shipbroking (www.star-asia.com.sg)
 
@@ -315,13 +309,9 @@ further price corrections. Shredded scrap was offered at US$390-400/ton CFR, whi
 
 Shredded scrap offers from the UK and EU stood at US$395-400/ton CFR Qasim, while buying interest remained lower at US$390-395/ton. Mills continued to operate at reduced capacity, and recovery in demand is expected to be gradual as buyers reassess market conditions.
 
-**Bangladesh's scrap market also showed limited movement, with stable prices but weak**
+Bangladesh's scrap market also showed limited movement, with stable prices but weak demand. European HMS was offered at US$370-375/ton CFR, while US-origin HMS stood at US$380-384/ton CFR. Domestic ship scrap and rebar prices held steady, though uncertainty over Hong Kong Convention (HKC) compliance kept pressure on the ship recycling sector. Activity is likely to remain slow until mid-April.
 
-demand. European HMS was offered at US$370-375/ton CFR, while US-origin HMS stood at US$380-384/ton CFR. Domestic ship scrap and rebar prices held steady, though uncertainty over Hong Kong Convention (HKC) compliance kept pressure on the ship recycling sector. Activity is likely to remain slow until mid-April.
-
-**Turkish scrap import activity remained in a holding pattern, as market participants**
-
-awaited clarity on U.S. tariff developments and currency fluctuations. US-origin HMS 80:20 held steady at US$379/ton CFR, though buyers were bidding as low as US$365/ton. Mills have largely secured April and early May requirements, with limited fresh buying interest reported. Across all regions, market sentiment remained cautious amid global uncertainty, with a modest recovery expected in the coming weeks.
+Turkish scrap import activity remained in a holding pattern, as market participants awaited clarity on U.S. tariff developments and currency fluctuations. US-origin HMS 80:20 held steady at US$379/ton CFR, though buyers were bidding as low as US$365/ton. Mills have largely secured April and early May requirements, with limited fresh buying interest reported. Across all regions, market sentiment remained cautious amid global uncertainty, with a modest recovery expected in the coming weeks.
 
 ## HMS 1/2 & Tangshan Billet
 
@@ -331,13 +321,9 @@ awaited clarity on U.S. tariff developments and currency fluctuations. US-origin
 
 ## Commodities (Weekinfocus)
 
-**Copper prices fell sharply this week, leading to a broader decline in base metals as**
+Copper prices fell sharply this week, leading to a broader decline in base metals as investor sentiment turned risk-averse amid escalating global trade tensions. Fears are mounting that the latest round of U.S. tariffs could dampen demand for industrial commodities, particularly if targeted countries retaliate, heightening the risk of a global trade war. China, now facing a 54% tariff on exports to the U.S., has pledged to implement countermeasures, fueling uncertainty across metals markets. Although metals were excluded from the newly announced U.S. tariffs, they remain subject to separate protectionist measures aimed at bolstering domestic supply chains.
 
-investor sentiment turned risk-averse amid escalating global trade tensions. Fears are mounting that the latest round of U.S. tariffs could dampen demand for industrial commodities, particularly if targeted countries retaliate, heightening the risk of a global trade war. China, now facing a 54% tariff on exports to the U.S., has pledged to implement countermeasures, fueling uncertainty across metals markets. Although metals were excluded from the newly announced U.S. tariffs, they remain subject to separate protectionist measures aimed at bolstering domestic supply chains.
-
-**Aluminum continues to be hit with a 25% blanket duty on U.S. imports, while copper is**
-
-expected to face additional tariffs in the coming weeks. The prospect of rising trade barriers has added to market volatility, with traders closely watching for further policy moves from both Washington and Beijing. Meanwhile, the Grain and oilseed markets faced heightened volatility this week following the U.S. announcement of sweeping new tariffs. Futures for wheat, corn, and soybeans opened lower on April 3 at the Chicago Board of Trade but partially recovered later in the session as traders assessed the broader impact. While the immediate fallout remains uncertain, market participants await potential retaliation from major trade partners. Mexico and Canada, protected under the USMCA, remained largely unaffected. Mexico, in particular, continues to be a vital outlet for U.S. corn, accounting for 19 million ton of the 54 million tons exported so far this marketing year, according to USDA data. In Europe, Euronext grain futures also opened lower, but a weakened U.S. dollar cushioned price movement in physical markets. Meanwhile, Ukrainian corn faced pricing pressure as U.S. commodities fell, though Ukraine may benefit if Asian buyers turn away from U.S. supply ahead of Brazil's July safrinha crop. In China, importers distanced themselves from high-priced Ukrainian corn and continued to avoid U.S. soybeans amid tariff hikes. U.S. soybean exports to China are slowing, while demand from Chinese crushers remains tepid. Uncertainty surrounding trade flows is expected to persist in mid-April.
+Aluminum continues to be hit with a 25% blanket duty on U.S. imports, while copper is expected to face additional tariffs in the coming weeks. The prospect of rising trade barriers has added to market volatility, with traders closely watching for further policy moves from both Washington and Beijing. Meanwhile, the Grain and oilseed markets faced heightened volatility this week following the U.S. announcement of sweeping new tariffs. Futures for wheat, corn, and soybeans opened lower on April 3 at the Chicago Board of Trade but partially recovered later in the session as traders assessed the broader impact. While the immediate fallout remains uncertain, market participants await potential retaliation from major trade partners. Mexico and Canada, protected under the USMCA, remained largely unaffected. Mexico, in particular, continues to be a vital outlet for U.S. corn, accounting for 19 million ton of the 54 million tons exported so far this marketing year, according to USDA data. In Europe, Euronext grain futures also opened lower, but a weakened U.S. dollar cushioned price movement in physical markets. Meanwhile, Ukrainian corn faced pricing pressure as U.S. commodities fell, though Ukraine may benefit if Asian buyers turn away from U.S. supply ahead of Brazil's July safrinha crop. In China, importers distanced themselves from high-priced Ukrainian corn and continued to avoid U.S. soybeans amid tariff hikes. U.S. soybean exports to China are slowing, while demand from Chinese crushers remains tepid. Uncertainty surrounding trade flows is expected to persist in mid-April.
 
 ### Shipbroking (www.star-asia.com.sg)
 

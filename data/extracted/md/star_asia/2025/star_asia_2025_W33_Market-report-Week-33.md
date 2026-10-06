@@ -109,13 +109,9 @@ Rates in the MEG initially declined due to weak local demand. However, the segme
 
 Clean:
 
-**LR: LR2 rates in the MEG rallied to a short-term peak at the start of August. However, as**
+**LR:** LR2 rates in the MEG rallied to a short-term peak at the start of August. However, as the August cargo concluded, demand began to taper off. The market softened slightly, with rates on TC1 to Japan closing at WS144. Similarly, LR1 also saw a modest dip with TC5 falling to WS169
 
-the August cargo concluded, demand began to taper off. The market softened slightly, with rates on TC1 to Japan closing at WS144. Similarly, LR1 also saw a modest dip with TC5 falling to WS169
-
-**MR: In the Far East, persistent low demand in the region, especially in Singapore, has led**
-
-to a growing oversupply of available vessels, placing downward pressure on rates. In the MEG, rates saw decline with trips to E. Africa falling some 13 points to WS235.
+**MR:** In the Far East, persistent low demand in the region, especially in Singapore, has led to a growing oversupply of available vessels, placing downward pressure on rates. In the MEG, rates saw decline with trips to E. Africa falling some 13 points to WS235.
 
 ### Shipbroking (www.star-asia.com.sg)
 
@@ -169,21 +165,21 @@ In a positive turn for the container shipping industry, the U.S. and China have 
 
 ## Containers Values
 
-| CONTAINERS | GEARED / | NB |  | NB PROMPT |  |  | 15 |
-|---|---|---|---|---|---|---|---|
-|  |  |  |  |  | 5 YEARS | 10 YEARS |  |
-| (BY TEU) | GEARLESS | CONTRACT |  | DELIVERY |  |  | YEARS |
-| 900 ~ 1,200 | Geared | 24 |  | 26 | 20 | 16 | 10 |
-| 1,600 ~ 1,850 | Gearless | 31 |  | 35 | 29 (E) | 23 (E) | 18 |
-| 2,700 ~ 2,900 | Gearless | 44 |  | 46 | 39 | 35 | 26 |
-| 5,100 ~ 5,300 | Gearless | 59 |  | 82 | 66 | - | 41 |
-| *(amount in USD million) | \| = Eco units |  |  |  |  |  |  |
-|  |  | S&P |  | Containers | Report |  |  |
-|  |  |  |  |  | PRICE | COMMENTS | / |
-| VESSEL NAME | TYPE | TEU | YEAR | BUILT |  |  |  |
-|  |  |  |  |  | (MILLION) | USD BUYERS |  |
-| EASLINE DALIAN | FEEDER | 1,675 | 1998 | JAPAN | 10.0 | UNDISCLOSED |  |
-| WYBELSUM | FEEDER | 1,402 | 2008 | CHINA | 16.6 | UNDISCLOSED |  |
+| CONTAINERS | GEARED / | NB | NB PROMPT | 15 |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+| (BY TEU) | GEARLESS | CONTRACT | DELIVERY | YEARS |
+| 900 ~ 1,200 | Geared | 24 | 26 | 10 |
+| 1,600 ~ 1,850 | Gearless | 31 | 35 | 18 |
+| 2,700 ~ 2,900 | Gearless | 44 | 46 | 26 |
+| 5,100 ~ 5,300 | Gearless | 59 | 82 | 41 |
+| *(amount in USD million) | \ | = Eco units |  |  |
+|  |  | S&P | Containers |  |
+|  |  |  |  | / |
+| VESSEL NAME | TYPE | TEU | BUILT |  |
+|  |  |  |  |  |
+| EASLINE DALIAN | FEEDER | 1,675 | JAPAN |  |
+| WYBELSUM | FEEDER | 1,402 | CHINA |  |
 
 ### Shipbroking (www.star-asia.com.sg)
 
@@ -311,9 +307,7 @@ US$345-350/ton CFR and EU-origin at US$340/ton CFR. Weaker rebar fundamentals an
 
 ## Commodities (Weekinfocus)
 
-**Iron ore futures held steady this week, with the market largely shrugging off persistent**
-
-weakness in China's property sector. Prices remain underpinned by expectations of further rationalisation in the country's steel industry, which could lend additional support in the months ahead. Benchmark iron ore has climbed more than 20% since June, touching a one-year high, buoyed by resilient demand indicators from China. First-half GDP growth reached 5.3%, while industrial fixed asset investment rose 6.4% year-on-year. Although macroeconomic headwinds persist, improved sentiment in the steel market has played a decisive role in sustaining recent gains. A recent pullback in steel output has lifted sector profitability, with mill margins rebounding into positive territory - peaking at around USD150/t in recent weeks. The improved margin environment has given iron ore prices further room to advance. Market attention is now turning to Beijing's renewed push to reduce overcapacity in the steel sector. The government's anti-involution campaign is expected to intensify scrutiny, with policymakers anticipating implementing meaningful capacity cuts. Such measures could extend the current rally, reinforcing the bullish outlook for iron ore in the near term.
+Iron ore futures held steady this week, with the market largely shrugging off persistent weakness in China's property sector. Prices remain underpinned by expectations of further rationalisation in the country's steel industry, which could lend additional support in the months ahead. Benchmark iron ore has climbed more than 20% since June, touching a one-year high, buoyed by resilient demand indicators from China. First-half GDP growth reached 5.3%, while industrial fixed asset investment rose 6.4% year-on-year. Although macroeconomic headwinds persist, improved sentiment in the steel market has played a decisive role in sustaining recent gains. A recent pullback in steel output has lifted sector profitability, with mill margins rebounding into positive territory - peaking at around USD150/t in recent weeks. The improved margin environment has given iron ore prices further room to advance. Market attention is now turning to Beijing's renewed push to reduce overcapacity in the steel sector. The government's anti-involution campaign is expected to intensify scrutiny, with policymakers anticipating implementing meaningful capacity cuts. Such measures could extend the current rally, reinforcing the bullish outlook for iron ore in the near term.
 
 ### Shipbroking (www.star-asia.com.sg)
 
