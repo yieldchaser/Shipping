@@ -449,6 +449,10 @@ def process_all() -> Dict[str, Any]:
         stem = f"vv_{issue_date}"
 
         year_dir = OUT_MD / year
+        md_path = year_dir / f"{stem}.md"
+        if md_path.exists() and md_path.stat().st_size > 100:
+            continue
+
         year_dir.mkdir(parents=True, exist_ok=True)
 
         # 1. Write <stem>.tables.json
@@ -458,7 +462,6 @@ def process_all() -> Dict[str, Any]:
 
         # 2. Write <stem>.md
         md_content = build_markdown_document(report)
-        md_path = year_dir / f"{stem}.md"
         with open(md_path, "w", encoding="utf-8") as f:
             f.write(md_content)
 
@@ -515,7 +518,7 @@ def process_all() -> Dict[str, Any]:
         if existing_map:
             merged_rows = sorted(existing_map.values(), key=lambda x: (str(x.get("issue_date", "")), str(x.get("sector", "")), str(x.get("vessel_name", ""))))
             with open(series_csv_path, "w", newline="", encoding="utf-8") as f:
-                writer = csv.DictWriter(f, fieldnames=csv_cols)
+                writer = csv.DictWriter(f, fieldnames=csv_cols, lineterminator="\n")
                 writer.writeheader()
                 for row in merged_rows:
                     writer.writerow(row)
@@ -523,17 +526,23 @@ def process_all() -> Dict[str, Any]:
     else:
         print(f"\nNo new deals extracted for {series_csv_path}; preserving existing CSV.")
 
-    # Write run state summary
-    state = {
-        "reports_processed": len(html_files),
-        "total_extracted_deals": len(all_deals_rows),
-        "unique_issues": len(set(r["issue_date"] for r in report_summaries)),
-        "reports": report_summaries,
-    }
-    with open(STATE_FILE, "w", encoding="utf-8") as f:
-        json.dump(state, f, indent=2)
+    # Write run state summary only if new reports were processed
+    if report_summaries or not STATE_FILE.exists():
+        state = {
+            "reports_processed": len(html_files),
+            "total_extracted_deals": len(all_deals_rows),
+            "unique_issues": len(set(r["issue_date"] for r in report_summaries)),
+            "reports": report_summaries,
+        }
+        with open(STATE_FILE, "w", encoding="utf-8") as f:
+            json.dump(state, f, indent=2)
+        return state
 
-    return state
+    try:
+        with open(STATE_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return {"reports_processed": len(html_files), "total_extracted_deals": 0}
 
 
 if __name__ == "__main__":
