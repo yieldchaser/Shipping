@@ -1,0 +1,25 @@
+{
+  "issue_date": "2012-01-20",
+  "year": 2012,
+  "title": "Key‐Stonewalled",
+  "source_file": "corpus/04-poten/pdfs/2012/Tanker_Opinion_20120120.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2012-01-20_keystonewalled_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2012/poten_2012-01-20_keystonewalled_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-01-20_keystonewalled_chart1.png",
+      "width": 1172,
+      "height": 892
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

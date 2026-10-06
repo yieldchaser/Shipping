@@ -115,7 +115,7 @@ def parse_date_gibson(dstr):
 
 def fetch_latest_gibson_rates():
     print("Fetching latest Gibson reports...")
-    api_url = "https://www.gibsons.co.uk/wp-json/wp/v2/report?_fields=id,date,title,link&per_page=5"
+    api_url = "https://www.gibsons.co.uk/wp-json/wp/v2/report?_fields=id,date,slug,title,link&per_page=10"
     api_raw = http_get_content(api_url, timeout=15)
     if not api_raw:
         print("Gibson API error: Failed to fetch report list")
@@ -125,6 +125,33 @@ def fetch_latest_gibson_rates():
     except Exception as e:
         print(f"Error parsing Gibson API JSON: {e}")
         return
+
+    # Sync newly published online reports into gibson_all_reports_catalog.json
+    cat_path = DATA_DIR / "gibson_all_reports_catalog.json"
+    if cat_path.exists():
+        try:
+            cat_data = json.loads(cat_path.read_text(encoding="utf-8"))
+            online_list = cat_data.get("online_reports", [])
+            known_slugs = {r.get("slug") for r in online_list if r.get("slug")}
+            added_cat = 0
+            for rep in reports:
+                slug = rep.get("slug") or ""
+                if slug and slug not in known_slugs:
+                    online_list.insert(0, {
+                        "id": rep.get("id"),
+                        "date": rep.get("date", ""),
+                        "slug": slug,
+                        "title": rep.get("title", {}).get("rendered", "") if isinstance(rep.get("title"), dict) else str(rep.get("title", "")),
+                        "link": rep.get("link", ""),
+                    })
+                    known_slugs.add(slug)
+                    added_cat += 1
+            if added_cat > 0:
+                cat_data["online_reports"] = online_list
+                cat_path.write_text(json.dumps(cat_data, indent=2), encoding="utf-8")
+                print(f"Added {added_cat} new Gibson online report(s) to {cat_path.name}")
+        except Exception as ce:
+            print(f"Warning: could not update {cat_path.name}: {ce}")
 
     date_map, existing_cols = load_existing_dataset()
     initial_count = len(date_map)

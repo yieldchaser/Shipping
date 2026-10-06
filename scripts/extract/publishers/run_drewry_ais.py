@@ -471,13 +471,40 @@ def process_single_pdf(pdf_path: Path, cat: str) -> dict:
         return {"stem": stem, "error": str(e), "cat": cat}
 
 
+def _upsert_drewry_ais_csv(csv_path: Path, new_records: list):
+    """Non-destructively upsert Drewry AIS records into vessel category series CSV."""
+    if not new_records:
+        return
+    df_new = pd.DataFrame(new_records)
+    if csv_path.exists() and csv_path.stat().st_size > 0:
+        try:
+            df_existing = pd.read_csv(csv_path)
+            df = pd.concat([df_existing, df_new], ignore_index=True)
+            dedup_cols = [c for c in ["source_file", "published_date", "report_year", "report_week"] if c in df.columns]
+            if dedup_cols:
+                df = df.drop_duplicates(subset=["source_file"] if "source_file" in df.columns else dedup_cols, keep="last")
+        except Exception:
+            df = df_new
+    else:
+        df = df_new
+    sort_cols = [c for c in ["report_year", "report_week", "published_date"] if c in df.columns]
+    if sort_cols:
+        df = df.sort_values(by=sort_cols).reset_index(drop=True)
+    df.to_csv(csv_path, index=False)
+    logger.info(f"Successfully upserted {len(new_records)} records ({len(df)} total rows) to {csv_path.name}!")
+
+
 def extract_drewry_ais(pdf_path: Path, dry_run: bool = False) -> dict:
     """Specialized Drewry AIS extractor entrypoint for incremental orchestrator."""
     cat = classify_vessel(pdf_path.name)
     if dry_run:
         pub_date, week, year = parse_date_week_year(pdf_path.name)
         return {"stem": pdf_path.stem, "issue_date": pub_date, "report_week": week, "cat": cat}
-    return process_single_pdf(pdf_path, cat)
+    res = process_single_pdf(pdf_path, cat)
+    if "record" in res and "error" not in res:
+        csv_path = SERIES_DIR / f"drewry_ais_{cat.lower()}_series.csv"
+        _upsert_drewry_ais_csv(csv_path, [res["record"]])
+    return res
 
 
 def run_pipeline():
@@ -563,11 +590,8 @@ def run_pipeline():
 
         # Build vessel-segregated series CSV immediately after category finishes
         if category_records:
-            df = pd.DataFrame(category_records)
-            df = df.sort_values(by=["report_year", "report_week", "published_date"]).reset_index(drop=True)
             csv_path = SERIES_DIR / f"drewry_ais_{cat.lower()}_series.csv"
-            df.to_csv(csv_path, index=False)
-            logger.info(f"Successfully wrote {len(df)} rows to {csv_path.name}!")
+            _upsert_drewry_ais_csv(csv_path, category_records)
 
     logger.info("Drewry AIS pipeline complete across all 10 vessel classes.")
 

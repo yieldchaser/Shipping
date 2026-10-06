@@ -1,0 +1,88 @@
+{
+  "issue_date": "2012-08-10",
+  "year": 2012,
+  "title": "Richmond Refinery Fire Could Decrease Regional Exports",
+  "source_file": "corpus/04-poten/pdfs/2012/Tanker_Opinion_20120810.pdf",
+  "tables_count": 0,
+  "charts_count": 8,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart1.png",
+      "width": 425,
+      "height": 1568
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart2.png",
+      "width": 1074,
+      "height": 749
+    },
+    {
+      "chart_num": 3,
+      "page": 1,
+      "file_name": "poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart3.png",
+      "rel_path": "data/extracted/charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart3.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart3.png",
+      "width": 425,
+      "height": 1897
+    },
+    {
+      "chart_num": 4,
+      "page": 1,
+      "file_name": "poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart4.png",
+      "rel_path": "data/extracted/charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart4.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart4.png",
+      "width": 983,
+      "height": 637
+    },
+    {
+      "chart_num": 5,
+      "page": 2,
+      "file_name": "poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart5.png",
+      "rel_path": "data/extracted/charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart5.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart5.png",
+      "width": 788,
+      "height": 614
+    },
+    {
+      "chart_num": 6,
+      "page": 2,
+      "file_name": "poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart6.png",
+      "rel_path": "data/extracted/charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart6.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart6.png",
+      "width": 776,
+      "height": 596
+    },
+    {
+      "chart_num": 7,
+      "page": 2,
+      "file_name": "poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart7.png",
+      "rel_path": "data/extracted/charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart7.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart7.png",
+      "width": 786,
+      "height": 686
+    },
+    {
+      "chart_num": 8,
+      "page": 3,
+      "file_name": "poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart8.png",
+      "rel_path": "data/extracted/charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart8.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart8.png",
+      "width": 426,
+      "height": 1897
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

@@ -132,6 +132,32 @@ def gather_pdf_targets(catalog_path: Path) -> list[dict]:
     return targets
 
 
+def _load_untracked_inventory() -> set[str]:
+    inv_path = ROOT / "corpus" / "_inventory_untracked.json"
+    if not inv_path.exists():
+        return set()
+    try:
+        data = json.loads(inv_path.read_text(encoding="utf-8"))
+        return {str(f.get("path", "")).replace("\\", "/") for f in data.get("files", []) if f.get("path")}
+    except Exception:
+        return set()
+
+
+UNTRACKED_CORPUS_PATHS = _load_untracked_inventory()
+
+
+def _is_already_cached(target_path: Path) -> bool:
+    if target_path.exists() and target_path.stat().st_size > 0:
+        return True
+    try:
+        rel = str(target_path.relative_to(ROOT)).replace("\\", "/")
+        if rel in UNTRACKED_CORPUS_PATHS:
+            return True
+    except Exception:
+        pass
+    return False
+
+
 def download_images(
     targets: list[dict],
     delay: float = 0.08,
@@ -150,7 +176,7 @@ def download_images(
     pending = []
     for item in to_process:
         target_path: Path = item["local_path"]
-        if target_path.exists() and target_path.stat().st_size > 0:
+        if _is_already_cached(target_path):
             skipped += 1
         else:
             pending.append(item)
@@ -216,7 +242,7 @@ def download_pdfs(
     pending = []
     for item in to_process:
         target_path: Path = item["local_path"]
-        if target_path.exists() and target_path.stat().st_size > 0:
+        if _is_already_cached(target_path):
             skipped += 1
         else:
             pending.append(item)
@@ -282,7 +308,7 @@ def main():
         print("No image targets found.")
         return
 
-    already_cached = sum(1 for t in targets if t["local_path"].exists() and t["local_path"].stat().st_size > 0)
+    already_cached = sum(1 for t in targets if _is_already_cached(t["local_path"]))
     print(f"Discovered {len(targets)} total unique chart images across reports.")
     print(f"Already cached locally: {already_cached}")
     print(f"Pending download: {len(targets) - already_cached}")

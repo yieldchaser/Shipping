@@ -546,13 +546,30 @@ def get_existing_slugs() -> dict[str, Path]:
     global _EXISTING_SLUGS_CACHE
     if _EXISTING_SLUGS_CACHE is None:
         _EXISTING_SLUGS_CACHE = {}
-        if OUTPUT_ROOT.exists():
-            for p in OUTPUT_ROOT.rglob("*.html"):
-                if p.stat().st_size > 500:
-                    parts = p.name.split("_", 1)
-                    slug_part = parts[1].replace(".html", "") if len(parts) > 1 else parts[0].replace(".html", "")
-                    _EXISTING_SLUGS_CACHE[slug_part] = p
-                    _EXISTING_SLUGS_CACHE[p.stem] = p
+        for scan_root in (OUTPUT_ROOT, REPO_ROOT / "data" / "extracted" / "md" / "breakwave" / "insights"):
+            if scan_root.exists():
+                for ext in ("*.html", "*.md"):
+                    for p in scan_root.rglob(ext):
+                        if p.stat().st_size > 300:
+                            parts = p.stem.split("_", 1)
+                            slug_part = parts[1] if len(parts) > 1 and re.match(r"^\d{4}-\d{2}-\d{2}$", parts[0]) else p.stem
+                            _EXISTING_SLUGS_CACHE[slug_part] = p
+                            _EXISTING_SLUGS_CACHE[p.stem] = p
+        inv_path = REPO_ROOT / "corpus" / "_inventory_untracked.json"
+        if inv_path.exists():
+            try:
+                import json
+                data = json.loads(inv_path.read_text(encoding="utf-8"))
+                for e in data.get("entries", []):
+                    rel = str(e.get("path", "")).replace("\\", "/")
+                    if rel.startswith("corpus/03-breakwave/insights/") and rel.endswith(".html"):
+                        p = REPO_ROOT / rel
+                        parts = p.stem.split("_", 1)
+                        slug_part = parts[1] if len(parts) > 1 and re.match(r"^\d{4}-\d{2}-\d{2}$", parts[0]) else p.stem
+                        _EXISTING_SLUGS_CACHE[slug_part] = p
+                        _EXISTING_SLUGS_CACHE[p.stem] = p
+            except Exception:
+                pass
     return _EXISTING_SLUGS_CACHE
 
 

@@ -1,0 +1,81 @@
+{
+  "report_id": "1af71b34-ea9e-488a-be44-cbf070e85f6c",
+  "issue_date": "2025-11-05",
+  "year": 2025,
+  "department": "BULK",
+  "report_title": "Fearnleys Dry Bulk Weekly",
+  "shipment_volume_metrics": [],
+  "coal_futures_spread_metrics": [
+    {
+      "issue_date": "2025-11-05",
+      "year": "2025",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "p5_kamsarmax_indonesia_rv_usd_day": 17020.55,
+      "p5_4w_prev_usd_day": 14965.75,
+      "newcastle_coal_futures_spread_lead_2m": -2.36,
+      "coal_spread_4w_prev": "",
+      "lead_tenor": "2 Months",
+      "chart_title": "P5 vs Newcastle Coal Futures Spread Lead",
+      "source_image": "P5 vs Newcastle Coal Futures Spread Lead.png",
+      "report_id": "1af71b34-ea9e-488a-be44-cbf070e85f6c"
+    }
+  ],
+  "time_charter_vs_asset_metrics": [],
+  "vessel_tightness_metrics": [
+    {
+      "issue_date": "2025-11-05",
+      "year": "2025",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "chart_family": "Panamax North Atlantic Tightness Indicator.png",
+      "indicator_metric": "Indicator Metric",
+      "indicator_val": 283.0,
+      "freight_benchmark": "Freight Benchmark",
+      "freight_benchmark_val": 539.0,
+      "lead_tenor": "Concurrent",
+      "report_id": "1af71b34-ea9e-488a-be44-cbf070e85f6c"
+    },
+    {
+      "issue_date": "2025-11-05",
+      "year": "2025",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "chart_family": "P6 vs SATL Tightness.png",
+      "indicator_metric": "South Atlantic Vessel Count",
+      "indicator_val": 237.7,
+      "freight_benchmark": "P6 / BCI5TC Index USD/day",
+      "freight_benchmark_val": 15185.2,
+      "lead_tenor": "1 Month Lead",
+      "report_id": "1af71b34-ea9e-488a-be44-cbf070e85f6c"
+    }
+  ],
+  "macro_correlation_metrics": [
+    {
+      "issue_date": "2025-11-05",
+      "year": "2025",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "macro_metric": "Steel Mill Profitability vs Hot Metal Output",
+      "freight_benchmark_val": 1.0,
+      "macro_indicator_val": 2.25,
+      "lead_tenor": "7 Weeks Lead",
+      "chart_title": "STEEL MILL PROFITABILITY VS HOT METAL OUTPUT.png",
+      "report_id": "1af71b34-ea9e-488a-be44-cbf070e85f6c"
+    },
+    {
+      "issue_date": "2025-11-05",
+      "year": "2025",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "macro_metric": "Copper 6M Change Lead vs Supramax 1Y TC 6M Change",
+      "freight_benchmark_val": -24.6,
+      "macro_indicator_val": 14.8,
+      "lead_tenor": "6 Months",
+      "chart_title": "COPPER PRICE VS SUPRAMAX 1 YEAR TC.png",
+      "report_id": "1af71b34-ea9e-488a-be44-cbf070e85f6c"
+    }
+  ],
+  "charts_count": 12,
+  "source_markdown": "2025-11-05_fearnleys-dry-bulk-weekly-5th-november-2025.md"
+}

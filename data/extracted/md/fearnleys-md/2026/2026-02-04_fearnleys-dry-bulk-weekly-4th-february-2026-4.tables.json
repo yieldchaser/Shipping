@@ -1,0 +1,69 @@
+{
+  "report_id": "232ae965-b18a-44c5-9017-aebf65a8f5e6",
+  "issue_date": "2026-02-04",
+  "year": 2026,
+  "department": "BULK",
+  "report_title": "Fearnleys Dry Bulk Weekly",
+  "shipment_volume_metrics": [],
+  "coal_futures_spread_metrics": [
+    {
+      "issue_date": "2026-02-04",
+      "year": "2026",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "p5_kamsarmax_indonesia_rv_usd_day": 10477.94,
+      "p5_4w_prev_usd_day": 7647.06,
+      "newcastle_coal_futures_spread_lead_2m": -6.8,
+      "coal_spread_4w_prev": "",
+      "lead_tenor": "2 Months",
+      "chart_title": "P5 vs Newcastle Coal Futures Spread Lead",
+      "source_image": "P5 vs Newcastle Coal Futures Spread Lead.png",
+      "report_id": "232ae965-b18a-44c5-9017-aebf65a8f5e6"
+    }
+  ],
+  "time_charter_vs_asset_metrics": [],
+  "vessel_tightness_metrics": [
+    {
+      "issue_date": "2026-02-04",
+      "year": "2026",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "chart_family": "BCI5TC SATL Tightness Indicator.png",
+      "indicator_metric": "South Atlantic Vessel Count",
+      "indicator_val": 299.7,
+      "freight_benchmark": "P6 / BCI5TC Index USD/day",
+      "freight_benchmark_val": 13812.5,
+      "lead_tenor": "1 Month Lead",
+      "report_id": "232ae965-b18a-44c5-9017-aebf65a8f5e6"
+    },
+    {
+      "issue_date": "2026-02-04",
+      "year": "2026",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "chart_family": "P6 vs SATL Tightness.png",
+      "indicator_metric": "South Atlantic Vessel Count",
+      "indicator_val": 156.7,
+      "freight_benchmark": "P6 / BCI5TC Index USD/day",
+      "freight_benchmark_val": 16333.3,
+      "lead_tenor": "1 Month Lead",
+      "report_id": "232ae965-b18a-44c5-9017-aebf65a8f5e6"
+    },
+    {
+      "issue_date": "2026-02-04",
+      "year": "2026",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "chart_family": "supraultra ballaster laden vessel ratio.png",
+      "indicator_metric": "Indicator Metric",
+      "indicator_val": 475.0,
+      "freight_benchmark": "Freight Benchmark",
+      "freight_benchmark_val": 382.5,
+      "lead_tenor": "Concurrent",
+      "report_id": "232ae965-b18a-44c5-9017-aebf65a8f5e6"
+    }
+  ],
+  "macro_correlation_metrics": [],
+  "charts_count": 12,
+  "source_markdown": "2026-02-04_fearnleys-dry-bulk-weekly-4th-february-2026-4.md"
+}

@@ -1,0 +1,97 @@
+{
+  "stem": "carriers_2021_19-Nov-2021",
+  "issue_date": "2021-11-19",
+  "report_week": 46,
+  "source_file": "carriers_2021_19-Nov-2021.pdf",
+  "pages_total": 3,
+  "substantive_pages": [
+    1
+  ],
+  "counts": {
+    "sales": 4,
+    "demolition": 0,
+    "newbuilding": 0,
+    "bspa": 0,
+    "bda": 0,
+    "indices": 0,
+    "weighted_routes": 0,
+    "tc_period": 0,
+    "tanker_tce": 0
+  },
+  "tables": {
+    "sales": [
+      {
+        "issue_date": "2021-11-19",
+        "report_week": 46,
+        "section": "bulk_carriers",
+        "page": 1,
+        "vessel_name": "Bunji",
+        "type": "Post Panamax",
+        "dwt": 98700,
+        "built": 2013,
+        "yard": "Tsuneishi Zhoushan",
+        "price_raw": "24.0",
+        "price_usd_mill": 24.0,
+        "buyers": "Oldendorff Carriers",
+        "comments": "",
+        "source_file": "carriers_2021_19-Nov-2021.pdf"
+      },
+      {
+        "issue_date": "2021-11-19",
+        "report_week": 46,
+        "section": "bulk_carriers",
+        "page": 1,
+        "vessel_name": "Berlin",
+        "type": "Panamax",
+        "dwt": 76500,
+        "built": 2009,
+        "yard": "Imabari",
+        "price_raw": "19.9",
+        "price_usd_mill": 19.9,
+        "buyers": "Phoenix Bulk Carriers",
+        "comments": "",
+        "source_file": "carriers_2021_19-Nov-2021.pdf"
+      },
+      {
+        "issue_date": "2021-11-19",
+        "report_week": 46,
+        "section": "bulk_carriers",
+        "page": 1,
+        "vessel_name": "Zhong Xing Da 98",
+        "type": "Handysize",
+        "dwt": 38400,
+        "built": 2013,
+        "yard": "Hexing",
+        "price_raw": "14.4",
+        "price_usd_mill": 14.4,
+        "buyers": "Undisclosed",
+        "comments": "",
+        "source_file": "carriers_2021_19-Nov-2021.pdf"
+      },
+      {
+        "issue_date": "2021-11-19",
+        "report_week": 46,
+        "section": "tankers",
+        "page": 1,
+        "vessel_name": "Astro Perseus",
+        "type": "Suezmax",
+        "dwt": 159100,
+        "built": 2004,
+        "yard": "Hyundai HI",
+        "price_raw": "18.5",
+        "price_usd_mill": 18.5,
+        "buyers": "Undisclosed",
+        "comments": "DD Due",
+        "source_file": "carriers_2021_19-Nov-2021.pdf"
+      }
+    ],
+    "demolition": [],
+    "newbuilding": [],
+    "bspa": [],
+    "bda": [],
+    "indices": [],
+    "weighted_routes": [],
+    "tc_period": [],
+    "tanker_tce": []
+  }
+}

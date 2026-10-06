@@ -1,0 +1,46 @@
+---
+title: "GMS Week 53 – CHRISTMAS CHEER!"
+issue_date: "2021-12-28"
+report_week: 53
+year: 2021
+publisher: "GMS Leadership"
+category: "Ship Recycling & Demolition"
+source_file: "corpus/02-hellenic/demolition/2021/2021-12-28_gms-week-53-christmas-cheer.html"
+---
+
+# GMS Week 53 (2021) – CHRISTMAS CHEER!
+
+- **Issue Date**: 2021-12-28
+- **Report Week**: Week 53
+- **Publisher**: GMS Leadership (*Your Source for Recycling News*)
+
+---
+
+## 1. Editorial Market Commentary
+
+As the Christmas holidays approach, activity has cooled off significantly with very few fresh units being introduced into the market for sale. Notwithstanding, demand remains good – even at these reduced numbers – and it is surely a matter of time before some improvements in price are seen, given the stinging paucity of supply.
+
+This inactivity has come at something of an appropriate time, with levels in all sub-continent markets having declined by about USD 20 – USD 30/LDT, from the peaks seen in September – October.
+
+The falls in India have been far more pronounced, with about USD 50 – USD 60/LDT being knocked off vessel prices due to plummeting domestic steel plate prices. Quotes on certain less favored units are now coming in even below USD 500/LDT on occasion!
+
+The Pakistan Rupee and the Turkish Lira have both seemingly settled, having depreciated to all time historical lows and there was time this past week for Gadani End Buyers to conclude a few units in Cash Buyer hands as well, and at levels not too far off where the top priced Bangladeshi market is at present.
+
+Chattogram Buyers have been active too in recent weeks, securing a Suezmax and an Aframax tanker at impressive levels above USD 600/LDT. Finally, the Turkish market saw the Lira firming and settling in around the TRY 10.48 mark by the time the week ended, and the volatility has resulted in prices declining by about USD 5/Ton and a complete halt to local trading.
+
+It is likely therefore to be a quieter end to the year as markets grapple with these new realities under the stark realization that there are very few fresh units to work.
+
+For week 53 of 2021, GMS demo rankings / pricing for the week are as below.
+
+---
+
+## 2. GMS Market Rankings ($/LDT)
+
+*For Week 53 of 2021, GMS Market Rankings / vessel indications are as below:*
+
+| Rank | Location | Sentiment | Dry Bulk ($/LDT) | Tankers ($/LDT) | Containers ($/LDT) |
+|:---:|:---|:---|:---:|:---:|:---:|
+| 1 | Bangladesh | Declining | 590 / LDT | 600 / LDT | 610 / LDT |
+| 2 | Pakistan | Declining | 580 / LDT | 590 / LDT | 600 / LDT |
+| 3 | India | Declining | 550 / LDT | 560 / LDT | 570 / LDT |
+| 4 | Turkey | Declining | 325 / LDT | 335 / LDT | 345 / LDT |

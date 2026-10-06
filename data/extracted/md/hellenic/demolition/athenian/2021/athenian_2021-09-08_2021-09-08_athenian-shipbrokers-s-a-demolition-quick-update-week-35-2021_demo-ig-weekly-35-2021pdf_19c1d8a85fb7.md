@@ -1,0 +1,54 @@
+---
+title: "Athenian Shipbrokers S.A. DEMOLITION QUICK UPDATE Week 35, 2021"
+issue_date: "2021-09-08"
+year: 2021
+publisher: "Athenian Shipbrokers S.A."
+source: "hellenic_demolition"
+category: "demolition"
+report_week: 35
+source_file: "corpus/02-hellenic/demolition/pdfs/2021-09-08_athenian-shipbrokers-s-a-demolition-quick-update-week-35-2021_demo-ig-weekly-35-2021pdf_19c1d8a85fb7.pdf"
+tables_count: 1
+---
+
+# Athenian Shipbrokers S.A. DEMOLITION QUICK UPDATE Week 35, 2021
+
+## Athenian Shipbrokers Scrap Price Assessment
+
+| Country | Tankers ($/LDT) | Dry Bulk ($/LDT) | Containers ($/LDT) |
+|:---|:---|:---|:---|
+| India | $590.0 | $610.0 | $608.0 |
+| Bangladesh | $600.0 | $595.0 | $270.0 |
+| Pakistan | $605.0 | $590.0 | $295.0 |
+| Turkey | $615.0 | $600.0 | $300.0 |
+
+## Market Commentary
+
+2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+
+60
+
+40
+
+20
+
+0
+
+Vasileos Pavlou Avenue 107 - 109,GR 166 73, Voula, Athens,GREECE
+
+Ship Recycling Market Report
+
+Week 35 (30th August to 5th September 2021)
+
+Yearly Demolition 2007-2021
+
+$590
+
+$600
+
+$605
+
+$615
+
+$610
+
+$595

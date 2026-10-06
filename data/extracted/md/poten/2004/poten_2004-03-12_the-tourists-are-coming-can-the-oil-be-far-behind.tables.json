@@ -1,0 +1,25 @@
+{
+  "issue_date": "2004-03-12",
+  "year": 2004,
+  "title": "The Tourists Are Coming Can the Oil Be Far Behind?",
+  "source_file": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040312.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2004-03-12_the-tourists-are-coming-can-the-oil-be-far-behind_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2004/poten_2004-03-12_the-tourists-are-coming-can-the-oil-be-far-behind_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-03-12_the-tourists-are-coming-can-the-oil-be-far-behind_chart1.png",
+      "width": 544,
+      "height": 438
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

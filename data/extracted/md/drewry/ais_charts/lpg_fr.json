@@ -1,0 +1,226 @@
+{
+  "vessel_class": "LPG FR",
+  "sector": "Gas Shipping",
+  "source_file": "Drewry_AIS_LPG_FR_Week38_2026.pdf",
+  "metrics_summary": {
+    "vessel_class": "LPG FR",
+    "sector": "Gas Shipping",
+    "source_file": "Drewry_AIS_LPG_FR_Week38_2026.pdf",
+    "fleet_performance_points": 1482,
+    "regional_congestion_points": 568,
+    "deployment_speed_points": 180,
+    "utilisation_points": 0,
+    "total_points": 2230
+  },
+  "sample_fleet_performance": [
+    {
+      "sector": "Gas Shipping",
+      "vessel_class": "LPG FR",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 1,
+      "date": "2022-01-05",
+      "value_mdwt": 14.83,
+      "source_file": "Drewry_AIS_LPG_FR_Week38_2026.pdf"
+    },
+    {
+      "sector": "Gas Shipping",
+      "vessel_class": "LPG FR",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 2,
+      "date": "2022-01-12",
+      "value_mdwt": 15.02,
+      "source_file": "Drewry_AIS_LPG_FR_Week38_2026.pdf"
+    },
+    {
+      "sector": "Gas Shipping",
+      "vessel_class": "LPG FR",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 3,
+      "date": "2022-01-19",
+      "value_mdwt": 16.67,
+      "source_file": "Drewry_AIS_LPG_FR_Week38_2026.pdf"
+    },
+    {
+      "sector": "Gas Shipping",
+      "vessel_class": "LPG FR",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 4,
+      "date": "2022-01-26",
+      "value_mdwt": 15.91,
+      "source_file": "Drewry_AIS_LPG_FR_Week38_2026.pdf"
+    },
+    {
+      "sector": "Gas Shipping",
+      "vessel_class": "LPG FR",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 5,
+      "date": "2022-02-02",
+      "value_mdwt": 15.95,
+      "source_file": "Drewry_AIS_LPG_FR_Week38_2026.pdf"
+    },
+    {
+      "sector": "Gas Shipping",
+      "vessel_class": "LPG FR",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 6,
+      "date": "2022-02-09",
+      "value_mdwt": 14.99,
+      "source_file": "Drewry_AIS_LPG_FR_Week38_2026.pdf"
+    }
+  ],
+  "sample_regional_congestion": [
+    {
+      "sector": "Gas Shipping",
+      "vessel_class": "LPG FR",
+      "region": "China",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 1,
+      "date": "2024-01-03",
+      "value_mdwt": 0.08,
+      "source_file": "Drewry_AIS_LPG_FR_Week38_2026.pdf"
+    },
+    {
+      "sector": "Gas Shipping",
+      "vessel_class": "LPG FR",
+      "region": "China",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 2,
+      "date": "2024-01-10",
+      "value_mdwt": 0.08,
+      "source_file": "Drewry_AIS_LPG_FR_Week38_2026.pdf"
+    },
+    {
+      "sector": "Gas Shipping",
+      "vessel_class": "LPG FR",
+      "region": "China",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 3,
+      "date": "2024-01-17",
+      "value_mdwt": -0.0,
+      "source_file": "Drewry_AIS_LPG_FR_Week38_2026.pdf"
+    },
+    {
+      "sector": "Gas Shipping",
+      "vessel_class": "LPG FR",
+      "region": "China",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 4,
+      "date": "2024-01-24",
+      "value_mdwt": 0.08,
+      "source_file": "Drewry_AIS_LPG_FR_Week38_2026.pdf"
+    },
+    {
+      "sector": "Gas Shipping",
+      "vessel_class": "LPG FR",
+      "region": "China",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 5,
+      "date": "2024-01-31",
+      "value_mdwt": 0.04,
+      "source_file": "Drewry_AIS_LPG_FR_Week38_2026.pdf"
+    },
+    {
+      "sector": "Gas Shipping",
+      "vessel_class": "LPG FR",
+      "region": "China",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 6,
+      "date": "2024-02-07",
+      "value_mdwt": 0.08,
+      "source_file": "Drewry_AIS_LPG_FR_Week38_2026.pdf"
+    }
+  ],
+  "sample_deployment_speed": [
+    {
+      "sector": "Gas Shipping",
+      "vessel_class": "LPG FR",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 1,
+      "date": "2025-01-01",
+      "value": 99.93,
+      "unit": "index",
+      "source_file": "Drewry_AIS_LPG_FR_Week38_2026.pdf"
+    },
+    {
+      "sector": "Gas Shipping",
+      "vessel_class": "LPG FR",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 2,
+      "date": "2025-01-08",
+      "value": 104.94,
+      "unit": "index",
+      "source_file": "Drewry_AIS_LPG_FR_Week38_2026.pdf"
+    },
+    {
+      "sector": "Gas Shipping",
+      "vessel_class": "LPG FR",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 3,
+      "date": "2025-01-15",
+      "value": 105.52,
+      "unit": "index",
+      "source_file": "Drewry_AIS_LPG_FR_Week38_2026.pdf"
+    },
+    {
+      "sector": "Gas Shipping",
+      "vessel_class": "LPG FR",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 4,
+      "date": "2025-01-22",
+      "value": 98.14,
+      "unit": "index",
+      "source_file": "Drewry_AIS_LPG_FR_Week38_2026.pdf"
+    },
+    {
+      "sector": "Gas Shipping",
+      "vessel_class": "LPG FR",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 5,
+      "date": "2025-01-29",
+      "value": 103.29,
+      "unit": "index",
+      "source_file": "Drewry_AIS_LPG_FR_Week38_2026.pdf"
+    },
+    {
+      "sector": "Gas Shipping",
+      "vessel_class": "LPG FR",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 6,
+      "date": "2025-02-05",
+      "value": 101.42,
+      "unit": "index",
+      "source_file": "Drewry_AIS_LPG_FR_Week38_2026.pdf"
+    }
+  ],
+  "sample_utilisation": []
+}

@@ -1,0 +1,21 @@
+report_date,year,month,section,metric,value,unit,period,note,source,source_page
+2026-08-01,2026,8,carbon_ets,ets_allowance_price_low,230.0,GBP/tonne CO2e (MGO combustion),2027,"Unlike energy-intensive industries such as steel and cement, shipping receives no free allocation of allowances. Operators must buy and surrender an allowance for every tonne of CO2 emitted in scope, giving every tonne avoided a direct financial valu",seabrokers,2.0
+2026-08-01,2026,8,carbon_ets,ets_allowance_price_high,250.0,GBP/tonne CO2e (MGO combustion),2027,,seabrokers,2.0
+2026-08-01,2026,8,carbon_ets,ets_allowance_price_low,190.0,GBP/tonne CO2e (MGO combustion),2027,"Unlike energy-intensive industries such as steel and cement, shipping receives no free allocation of allowances. Operators must buy and surrender an allowance for every tonne of CO2 emitted in scope, giving every tonne avoided a direct financial valu",seabrokers,2.0
+2026-08-01,2026,8,carbon_ets,ets_allowance_price_high,220.0,GBP/tonne CO2e (MGO combustion),2027,,seabrokers,2.0
+2026-08-01,2026,8,carbon_ets,ets_allowance_price_low,300.0,GBP/tonne CO2e (MGO combustion),2030,"Unlike energy-intensive industries such as steel and cement, shipping receives no free allocation of allowances. Operators must buy and surrender an allowance for every tonne of CO2 emitted in scope, giving every tonne avoided a direct financial valu",seabrokers,2.0
+2026-08-01,2026,8,carbon_ets,ets_allowance_price_high,410.0,GBP/tonne CO2e (MGO combustion),2030,,seabrokers,2.0
+2026-08-01,2026,8,offshore_renewables_auction,lease_settlement_value,928.0,USD million,2026-08,developer=TotalEnergies; development=4.2 GW,seabrokers,12.0
+2026-08-01,2026,8,offshore_renewables_auction,lease_capacity_gw,4.2,GW,2026-08,developer=TotalEnergies; raw=4.2 GW,seabrokers,12.0
+2026-08-01,2026,8,offshore_renewables_auction,lease_settlement_value,885.0,USD million,2026-08,developer=Engie & EDP; development=4.4 GW,seabrokers,12.0
+2026-08-01,2026,8,offshore_renewables_auction,lease_capacity_gw,4.4,GW,2026-08,developer=Engie & EDP; raw=4.4 GW,seabrokers,12.0
+2026-08-01,2026,8,offshore_renewables_auction,lease_settlement_value,129.0,USD million,2026-08,"developer=Duke Energy; development=1.2 to 1.6
+GW",seabrokers,12.0
+2026-08-01,2026,8,offshore_renewables_auction,lease_capacity_gw,1.2,GW,2026-08,"developer=Duke Energy; raw=1.2 to 1.6
+GW",seabrokers,12.0
+2026-08-01,2026,8,offshore_renewables_auction,lease_settlement_value,765.0,USD million,2026-08,developer=Invenergy; development=4.3 GW,seabrokers,12.0
+2026-08-01,2026,8,offshore_renewables_auction,lease_capacity_gw,4.3,GW,2026-08,developer=Invenergy; raw=4.3 GW,seabrokers,12.0
+2026-08-01,2026,8,offshore_renewables_auction,lease_settlement_value,1220.0,USD million,2026-08,"developer=RWE; development=5.6 to 6.6
+GW",seabrokers,12.0
+2026-08-01,2026,8,offshore_renewables_auction,lease_capacity_gw,5.6,GW,2026-08,"developer=RWE; raw=5.6 to 6.6
+GW",seabrokers,12.0

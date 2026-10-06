@@ -1,0 +1,59 @@
+---
+title: "U.S. Energy Act of 2005 Implications for Tanker Owners"
+subtitle: ""
+issue_date: "2005-08-05"
+year: 2005
+author: "Poten & Partners"
+source: "poten"
+category: "tankers"
+pages: 5
+source_file: "corpus/04-poten/pdfs/2005/Tanker_Opinion_20050805.pdf"
+tables_count: 0
+charts_count: 1
+---
+
+# U.S. Energy Act of 2005 Implications for Tanker Owners
+
+On July 30th, the Senate passed the U.S. Energy Act of 2005 and it is expected to be signed into law by President Bush in New Mexico, home state for Senator Domenici, Senate architect of the energy bill. It has taken four years to pass the Act after a task force headed by Vice President Cheney called for a new approach towards energy, much of which is incorporated in the Act. The proposed legislation was stymied by various lobbyists who opposed portions of the bill and by environmentalists who opposed oil exploration in the Arctic National Wildlife Refuge (ANWR) and in offshore waters now considered off limits.
+
+The 1,273 page Act starts out with a long section on how Federal buildings are to reduce their energy consumption by 20% by 2015 through energy conservation, buying energy efficient equipment, and greater use of recovered mineral (e.g. fly ash) in government cement purchases. Each individual state is to report on measures being taken to reduce energy consumption in 2012 by 25% from 1992 levels. The Energy Star program to enhance energy efficiency of home appliances is given a renewed lease on life by the inclusion of washing machines and dishwashers over the next few years. A public education program is to be established to inform the public of the benefits of living with less energy. Public utilities are to reduce energy consumption through promotion of energy conservation and efficiency. The Act is replete with detailed technical requirements for lamps, dehumidifiers and other appliances, transformers, battery chargers, fans, commercial heating and cooling equipment. Government monies are set aside for programs in developing fuel efficient engines for aircraft and tires for motor vehicles; thus ending the first 125 pages of the Act.
+
+Poten & Partners | new york • london • athens • perth • hong kong • guangzhou 1
+
+### Measures to Conserve Petroleum
+
+The objective is to reduce oil gasoline consumption by 1 million bpd from the 2015 projection of oil consumption contained in the EIA "Annual Energy Outlook 2005" (17.67 million bpd versus 2004 consumption of 10.9 million bpd). The objective is to be fulfilled by increasing renewables in the gasoline pool, which are mandated to increase from 4 billion gallons in 2006 to 8 billion gallons in 2012. The portion of renewables in the gasoline pool will be equivalent to 522,000 bpd including an unspecified amount of biodiesel. Ethanol is already part of the gasoline pool as a substitute for MTBE. The Act expands the definition of ethanol to include ethanol made from any source or waste product and is no longer limited to ethanol made from corn. The Act eliminates MTBE as an oxygenate in gasoline four years after passage of the Act (2009) along with the elimination of the oxygen content requirement for reformulated gasoline. Grants are to be provided for developing alternative fueled vehicles and credits are to be awarded to those who use alternative fuels in addition to conventional fuels for motor vehicles. The credits will be valued at some dollar amount by the Secretary of Energy and can be used for purchasing hybrid, fuel cell, electric, and other alternative fueled vehicles.
+
+An article entitled "Energy Bill Could Send Gas Prices Higher" in the Wall Street Journal of August 2, 2005 expresses refiners' concerns over the availability of ethanol, the reconfiguration of refineries, and the extent of the liability faced by oil companies in the continued use of MTBE during the phase-out period. Of particular concern is MTBE pollution of water reservoir whose owners are seeking restitution by suing oil companies. (Only in America can a company be sued over the environmental consequences of an additive mandated by law!) Funds are to be made available for the development of renewable energy sources such as wind, solar, geothermal, biomass, hydro, and ocean (current, tidal, wave, thermal). Electric utilities are required to have at least 2.5% of their electricity produced by renewable sources of energy from 2008-2011 rising to 5% 2012-2015 to 7.5% 2016-2019, and finally to 10% 2020-2030. A task force is to be set up to pursue the development of oil shale and tar sand resources. The Secretary of Transportation is to issue new guidelines for "maximum feasible average fuel economy levels" for non-passenger automobiles (pickups and vans) and passenger automobiles 2 1/2 years after the passage of the Act. There is a renewed call for government agencies to procure alternative fueled vehicles including hybrids. Funds are set aside for promoting more fuel efficient and less polluting railroad locomotives, a study for the use of bicycles in lieu of automobiles, and the benefits of less idling time by trucks.
+
+### Strategic Petroleum Reserve
+
+The SPR is to be expanded from the present 700 million barrels to 1 billion barrels "as expeditiously as possible." Oil companies are entitled to make royalty payments to the government in kind (delivery of oil) at the Secretary of Energy's discretion.
+
+The Act sets up an incentive program for shallow natural gas wells in the Gulf of Mexico and royalty relief for oil production in deep waters. Although the Act deals with the Naval Petroleum Reserves in Alaska, the highly contentious issue of exploring for oil in the Arctic National Wildlife Refuge is conspicuous by its absence as is exploration for oil and gas in the outer continental shelf where such activities are "prohibited by a moratorium." This means that yacht owners' success in prohibiting exploration in offshore Florida waters remains intact.
+
+There is an interesting section entitled Oil Producing Cartels that discusses the ramification for any foreign state, cartel, or association to limit production or set or maintain a price in restraint of trade that has a direct or substantial effect on supply, price or distribution for oil, natural gas, or any petroleum product in the United States. No foreign state is immune under the doctrine of sovereign immunity from the jurisdiction and judgments of U.S. courts. Those interested in reading this section for themselves should refer to page 348 of the Act. 1 Readers should be relieved that laws relating to oil and gas leases do not apply for the Finger Lakes National Forest in New York State; thus ending the first 400 pages of the Act.
+
+### A Little Bit for Everyone
+
+Various sections deal with exporting and importing natural gas, coal bed methane, an initiative to develop clean coal technology, assistance to Indian tribes on developing energy resources on their lands, amendments to the Price-Anderson Act with regard to nuclear power liability and the establishment of The Next Generation Nuclear Plant Project (Generation IV) for generating electricity and producing hydrogen.
+
+1 The complete text of the Act can be obtained on the website: http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=109_cong_bills&docid=f:h6eas.txt.pdf Within 90 days of passage of the Act, the Federal Trade Commission is to investigate to determine whether the price of gasoline is being manipulated by reducing refinery capacity or price gouging! Programs are to be set up to encourage Federal and state procurement of fuel cell vehicles and hydrogen energy systems and support R&D efforts to reduce emissions of diesel engines and develop hydrogen and fuel cell technologies. Other programs include energy efficiency and conservation ($2.5 billion set aside for this one), solid-state lights, vehicle batteries, micro-cogeneration distributive electricity systems, renewable energy, methane hydrate, carbon capture, fusion power, and other esoteric areas of interest such as the "genomes to life" program, removing arsenic from water, desalinization, and a "spallation neutron source facility" ($1.4 billion for this one, whatever it is); thus ending the first 700 pages.
+
+### The Last 500 Pages
+
+The Act then goes on to spell out cooperation between the United States and nations in the Western Hemisphere plus Israel on energy matters and the transfer of energy technology and educational efforts to pursue the objectives of the Act. Amendments are made to existing legislation with regard to the reliability of electricity generation, transmission and distribution systems, metering and demand management, and transparency of energy commodity transactions. There is also a long section on terms and conditions associated with the research initiatives including credits on fuel cell, hybrid, and mixed-fuel motor vehicles linked to fuel efficiency. There are all sorts of neat programs such as the non-compliant wood stove replacement program in areas of high air pollution.
+
+### So What Does It Mean?
+
+The Act's supporters maintain that the Act refocuses the country's energy priorities, promotes clean energy, and encourages efficiency and conservation. Opponents point out that the $12 billion Act does nothing to reduce energy costs and reliance on oil imports and are bothered by oil company eligibility to receive government subsidies for some of the Act's many programs. Moreover there are those that believe the ultimate price tag will be many times the advertised $12 billion.
+
+We have to agree with the opponents at least on the part of reducing reliance on oil imports. No new offshore areas are opened for oil exploration and ANWR is left in splendid isolation. CAFE standards are not changed, although these will be reexamined. Energy efficiency and conservation are fine, but if the Administration is really serious about cutting oil consumption, there is nothing more effective than a hefty tax on gasoline. This provides all the incentive needed for people to become more interested in efficiency (buying hybrids over SUVs) and conservation (driving less, car pooling, using public transportation). But no administration would survive politically by imposing a gasoline tax even though a strong case can be made that gasoline users should pay for the untold billions spent on oil security in the Middle East.
+
+So what does the Act mean as far as tanker owners are concerned? It means more SPR cargoes (300 million barrels worth) and fewer MTBE cargoes as MTBE is phased out (MTBE has already been phased out in a number of states and its consumption has been cut in half from its 2001 peak of 4 billion gallons). Any interruptions in refinery operations for reconfiguring production to take into account the elimination of MTBE means more product imports. Overall, the Act is not going to have a major impact on crude and oil product imports into the United States; and from that perspective, it can be considered good news for tanker owners.
+
+## Market Exhibits & Charts
+
+![Exhibit 1: U.S. Energy Act of 2005 Implications for Tanker Owners](../../../charts/poten/2005/poten_2005-08-05_us-energy-act-of-2005-implications-for-tanker-owners_chart1.png)
+
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-08-05_us-energy-act-of-2005-implications-for-tanker-owners_chart1.png)

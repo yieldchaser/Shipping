@@ -1,0 +1,43 @@
+{
+  "issue_date": "2020-08-28",
+  "year": 2020,
+  "title": "The Barrels From Brazil",
+  "source_file": "corpus/04-poten/pdfs/2020/Weekly-Opinion-28-Aug-2020-The-Barrels-From-Brazil.pdf",
+  "tables_count": 0,
+  "charts_count": 3,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2020-08-28_the-barrels-from-brazil_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2020/poten_2020-08-28_the-barrels-from-brazil_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-08-28_the-barrels-from-brazil_chart1.png",
+      "width": 967,
+      "height": 570
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2020-08-28_the-barrels-from-brazil_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2020/poten_2020-08-28_the-barrels-from-brazil_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-08-28_the-barrels-from-brazil_chart2.png",
+      "width": 958,
+      "height": 607
+    },
+    {
+      "chart_num": 3,
+      "page": 0,
+      "file_name": "poten_2020-08-28_the-barrels-from-brazil_chart3.png",
+      "rel_path": "data/extracted/charts/poten/2020/poten_2020-08-28_the-barrels-from-brazil_chart3.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-08-28_the-barrels-from-brazil_chart3.png",
+      "width": 968,
+      "height": 616
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

@@ -1,0 +1,935 @@
+{
+  "title": "Seabreeze Monthly Offshore Market Report - February 2024",
+  "issue_date": "2024-02-01",
+  "year": 2024,
+  "month": 2,
+  "source_file": "corpus/05-seabrokers/pdfs/2024-02-01_markedsrapport-februar-2023-2.pdf",
+  "tables_count": 13,
+  "tables": [
+    {
+      "title": "FEBRUARY 2024 - DAILY NORTH SEA OSV AVAILABILITY",
+      "columns": [
+        "Date",
+        "PSV 2024",
+        "PSV 2023",
+        "AHTS 2024",
+        "AHTS 2023"
+      ],
+      "row_count": 29,
+      "rows": [
+        {
+          "Date": "1",
+          "PSV 2024": "10",
+          "PSV 2023": "16",
+          "AHTS 2024": "7",
+          "AHTS 2023": "9"
+        },
+        {
+          "Date": "2",
+          "PSV 2024": "13",
+          "PSV 2023": "14",
+          "AHTS 2024": "5",
+          "AHTS 2023": "6"
+        },
+        {
+          "Date": "3",
+          "PSV 2024": "12",
+          "PSV 2023": "14",
+          "AHTS 2024": "7",
+          "AHTS 2023": "6"
+        },
+        {
+          "Date": "4",
+          "PSV 2024": "11",
+          "PSV 2023": "15",
+          "AHTS 2024": "8",
+          "AHTS 2023": "5"
+        },
+        {
+          "Date": "5",
+          "PSV 2024": "10",
+          "PSV 2023": "18",
+          "AHTS 2024": "11",
+          "AHTS 2023": "5"
+        },
+        {
+          "Date": "6",
+          "PSV 2024": "4",
+          "PSV 2023": "18",
+          "AHTS 2024": "11",
+          "AHTS 2023": "4"
+        },
+        {
+          "Date": "7",
+          "PSV 2024": "4",
+          "PSV 2023": "16",
+          "AHTS 2024": "5",
+          "AHTS 2023": "4"
+        },
+        {
+          "Date": "8",
+          "PSV 2024": "5",
+          "PSV 2023": "15",
+          "AHTS 2024": "5",
+          "AHTS 2023": "5"
+        },
+        {
+          "Date": "9",
+          "PSV 2024": "5",
+          "PSV 2023": "16",
+          "AHTS 2024": "6",
+          "AHTS 2023": "7"
+        },
+        {
+          "Date": "10",
+          "PSV 2024": "5",
+          "PSV 2023": "15",
+          "AHTS 2024": "5",
+          "AHTS 2023": "8"
+        },
+        {
+          "Date": "11",
+          "PSV 2024": "5",
+          "PSV 2023": "14",
+          "AHTS 2024": "5",
+          "AHTS 2023": "8"
+        },
+        {
+          "Date": "12",
+          "PSV 2024": "5",
+          "PSV 2023": "14",
+          "AHTS 2024": "5",
+          "AHTS 2023": "8"
+        },
+        {
+          "Date": "13",
+          "PSV 2024": "1",
+          "PSV 2023": "13",
+          "AHTS 2024": "1",
+          "AHTS 2023": "8"
+        },
+        {
+          "Date": "14",
+          "PSV 2024": "3",
+          "PSV 2023": "13",
+          "AHTS 2024": "2",
+          "AHTS 2023": "5"
+        },
+        {
+          "Date": "15",
+          "PSV 2024": "8",
+          "PSV 2023": "13",
+          "AHTS 2024": "5",
+          "AHTS 2023": "12"
+        },
+        {
+          "Date": "16",
+          "PSV 2024": "9",
+          "PSV 2023": "13",
+          "AHTS 2024": "9",
+          "AHTS 2023": "10"
+        },
+        {
+          "Date": "17",
+          "PSV 2024": "8",
+          "PSV 2023": "12",
+          "AHTS 2024": "8",
+          "AHTS 2023": "9"
+        },
+        {
+          "Date": "18",
+          "PSV 2024": "8",
+          "PSV 2023": "12",
+          "AHTS 2024": "8",
+          "AHTS 2023": "9"
+        },
+        {
+          "Date": "19",
+          "PSV 2024": "12",
+          "PSV 2023": "14",
+          "AHTS 2024": "12",
+          "AHTS 2023": "10"
+        },
+        {
+          "Date": "20",
+          "PSV 2024": "16",
+          "PSV 2023": "14",
+          "AHTS 2024": "16",
+          "AHTS 2023": "10"
+        },
+        {
+          "Date": "21",
+          "PSV 2024": "17",
+          "PSV 2023": "15",
+          "AHTS 2024": "16",
+          "AHTS 2023": "12"
+        },
+        {
+          "Date": "22",
+          "PSV 2024": "16",
+          "PSV 2023": "14",
+          "AHTS 2024": "16",
+          "AHTS 2023": "12"
+        },
+        {
+          "Date": "23",
+          "PSV 2024": "15",
+          "PSV 2023": "13",
+          "AHTS 2024": "16",
+          "AHTS 2023": "5"
+        },
+        {
+          "Date": "24",
+          "PSV 2024": "14",
+          "PSV 2023": "12",
+          "AHTS 2024": "10",
+          "AHTS 2023": "5"
+        },
+        {
+          "Date": "25",
+          "PSV 2024": "18",
+          "PSV 2023": "11",
+          "AHTS 2024": "9",
+          "AHTS 2023": "5"
+        },
+        {
+          "Date": "26",
+          "PSV 2024": "18",
+          "PSV 2023": "11",
+          "AHTS 2024": "9",
+          "AHTS 2023": "5"
+        },
+        {
+          "Date": "27",
+          "PSV 2024": "17",
+          "PSV 2023": "10",
+          "AHTS 2024": "10",
+          "AHTS 2023": "6"
+        },
+        {
+          "Date": "28",
+          "PSV 2024": "15",
+          "PSV 2023": "10",
+          "AHTS 2024": "12",
+          "AHTS 2023": "5"
+        },
+        {
+          "Date": "29",
+          "PSV 2024": "15",
+          "PSV 2023": "10",
+          "AHTS 2024": "9",
+          "AHTS 2023": "5"
+        }
+      ]
+    },
+    {
+      "title": "NORTH SEA SPOT AVERAGE UTILISATION FEBRUARY 2024",
+      "columns": [
+        "TYPE",
+        "FEB 2024",
+        "JAN 2024",
+        "DEC 2023",
+        "NOV 2023",
+        "OCT 2023",
+        "SEP 2023"
+      ],
+      "row_count": 4,
+      "rows": [
+        {
+          "TYPE": "MED PSV (<900m\u00b2)",
+          "FEB 2024": "46%",
+          "JAN 2024": "63%",
+          "DEC 2023": "64%",
+          "NOV 2023": "72%",
+          "OCT 2023": "74%",
+          "SEP 2023": "73%"
+        },
+        {
+          "TYPE": "LARGE PSV (>900m\u00b2)",
+          "FEB 2024": "67%",
+          "JAN 2024": "67%",
+          "DEC 2023": "52%",
+          "NOV 2023": "78%",
+          "OCT 2023": "91%",
+          "SEP 2023": "86%"
+        },
+        {
+          "TYPE": "MED AHTS (<22,000 bhp)",
+          "FEB 2024": "54%",
+          "JAN 2024": "67%",
+          "DEC 2023": "33%",
+          "NOV 2023": "38%",
+          "OCT 2023": "58%",
+          "SEP 2023": "47%"
+        },
+        {
+          "TYPE": "LARGE AHTS (>22,000 bhp)",
+          "FEB 2024": "65%",
+          "JAN 2024": "65%",
+          "DEC 2023": "57%",
+          "NOV 2023": "54%",
+          "OCT 2023": "73%",
+          "SEP 2023": "46%"
+        }
+      ]
+    },
+    {
+      "title": "NORTH SEA AVERAGE RATES FEBRUARY 2024",
+      "columns": [
+        "CATEGORY",
+        "AVERAGE RATE FEB 2024",
+        "AVERAGE RATE FEB 2023",
+        "% CHANGE",
+        "MINIMUM",
+        "MAXIMUM"
+      ],
+      "row_count": 4,
+      "rows": [
+        {
+          "CATEGORY": "SUPPLY DUTIES PSVs < 900M\u00b2",
+          "AVERAGE RATE FEB 2024": "\u00a313,432",
+          "AVERAGE RATE FEB 2023": "\u00a34,690",
+          "% CHANGE": "+186.40%",
+          "MINIMUM": "\u00a36,750",
+          "MAXIMUM": "\u00a330,016"
+        },
+        {
+          "CATEGORY": "SUPPLY DUTIES PSVs > 900M\u00b2",
+          "AVERAGE RATE FEB 2024": "\u00a310,967",
+          "AVERAGE RATE FEB 2023": "\u00a38,289",
+          "% CHANGE": "+32.31%",
+          "MINIMUM": "\u00a35,000",
+          "MAXIMUM": "\u00a320,000"
+        },
+        {
+          "CATEGORY": "AHTS DUTIES AHTS < 22,000 BHP",
+          "AVERAGE RATE FEB 2024": "\u00a348,559",
+          "AVERAGE RATE FEB 2023": "\u00a335,330",
+          "% CHANGE": "+37.44%",
+          "MINIMUM": "\u00a318,000",
+          "MAXIMUM": "\u00a3116,314"
+        },
+        {
+          "CATEGORY": "AHTS DUTIES AHTS > 22,000 BHP",
+          "AVERAGE RATE FEB 2024": "\u00a353,962",
+          "AVERAGE RATE FEB 2023": "\u00a334,199",
+          "% CHANGE": "+57.79%",
+          "MINIMUM": "\u00a324,000",
+          "MAXIMUM": "\u00a3100,000"
+        }
+      ]
+    },
+    {
+      "title": "ARRIVALS NORTH SEA SPOT *",
+      "columns": [
+        "OLYMPIC ZEUS",
+        "EX WEST AFRICA"
+      ],
+      "row_count": 2,
+      "rows": [
+        {
+          "OLYMPIC ZEUS": "PRINCESS",
+          "EX WEST AFRICA": "EX NORTH AMERICA"
+        },
+        {
+          "OLYMPIC ZEUS": "SOVEREIGN",
+          "EX WEST AFRICA": "EX MEDITERRANEAN"
+        }
+      ]
+    },
+    {
+      "title": "DEPARTURES NORTH SEA SPOT *",
+      "columns": [
+        "ALP STRIKER",
+        "SOUTH AMERICA"
+      ],
+      "row_count": 3,
+      "rows": [
+        {
+          "ALP STRIKER": "LOKE VIKING",
+          "SOUTH AMERICA": "MEDITERRANEAN"
+        },
+        {
+          "ALP STRIKER": "SKANDI CALEDONIA",
+          "SOUTH AMERICA": "SOUTH AMERICA"
+        },
+        {
+          "ALP STRIKER": "SKANDI KVITSOY",
+          "SOUTH AMERICA": "AUSTRALIA"
+        }
+      ]
+    },
+    {
+      "title": "Table 1: PSVs < 900m\u00b2",
+      "columns": [
+        "Month",
+        "2023",
+        "2024"
+      ],
+      "row_count": 12,
+      "rows": [
+        {
+          "Month": "Jan",
+          "2023": "\u00a34,443",
+          "2024": "\u00a39,028"
+        },
+        {
+          "Month": "Feb",
+          "2023": "\u00a34,690",
+          "2024": "\u00a313,432"
+        },
+        {
+          "Month": "Mar",
+          "2023": "\u00a36,256",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "Apr",
+          "2023": "\u00a314,169",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "May",
+          "2023": "\u00a317,629",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "Jun",
+          "2023": "\u00a316,381",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "Jul",
+          "2023": "\u00a312,644",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "Aug",
+          "2023": "\u00a312,912",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "Sep",
+          "2023": "\u00a317,932",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "Oct",
+          "2023": "\u00a320,096",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "Nov",
+          "2023": "\u00a319,722",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "Dec",
+          "2023": "\u00a313,819",
+          "2024": "\u00a3-"
+        }
+      ]
+    },
+    {
+      "title": "Table 2: PSVs > 900m\u00b2",
+      "columns": [
+        "Month",
+        "2023",
+        "2024"
+      ],
+      "row_count": 12,
+      "rows": [
+        {
+          "Month": "Jan",
+          "2023": "\u00a36,672",
+          "2024": "\u00a311,365"
+        },
+        {
+          "Month": "Feb",
+          "2023": "\u00a38,289",
+          "2024": "\u00a310,967"
+        },
+        {
+          "Month": "Mar",
+          "2023": "\u00a38,234",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "Apr",
+          "2023": "\u00a315,701",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "May",
+          "2023": "\u00a320,482",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "Jun",
+          "2023": "\u00a320,400",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "Jul",
+          "2023": "\u00a311,694",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "Aug",
+          "2023": "\u00a316,835",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "Sep",
+          "2023": "\u00a319,772",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "Oct",
+          "2023": "\u00a326,005",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "Nov",
+          "2023": "\u00a325,290",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "Dec",
+          "2023": "\u00a311,986",
+          "2024": "\u00a3-"
+        }
+      ]
+    },
+    {
+      "title": "Table 3: AHTS < 22,000 bhp",
+      "columns": [
+        "Month",
+        "2023",
+        "2024"
+      ],
+      "row_count": 12,
+      "rows": [
+        {
+          "Month": "Jan",
+          "2023": "\u00a331,200",
+          "2024": "\u00a321,777"
+        },
+        {
+          "Month": "Feb",
+          "2023": "\u00a335,330",
+          "2024": "\u00a348,559"
+        },
+        {
+          "Month": "Mar",
+          "2023": "\u00a341,590",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "Apr",
+          "2023": "\u00a325,898",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "May",
+          "2023": "\u00a333,744",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "Jun",
+          "2023": "\u00a331,462",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "Jul",
+          "2023": "\u00a326,269",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "Aug",
+          "2023": "\u00a334,740",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "Sep",
+          "2023": "\u00a324,804",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "Oct",
+          "2023": "\u00a336,665",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "Nov",
+          "2023": "\u00a318,505",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "Dec",
+          "2023": "\u00a315,690",
+          "2024": "\u00a3-"
+        }
+      ]
+    },
+    {
+      "title": "Table 4: AHTS > 22,000 bhp",
+      "columns": [
+        "Month",
+        "2023",
+        "2024"
+      ],
+      "row_count": 12,
+      "rows": [
+        {
+          "Month": "Jan",
+          "2023": "\u00a329,126",
+          "2024": "\u00a327,593"
+        },
+        {
+          "Month": "Feb",
+          "2023": "\u00a334,199",
+          "2024": "\u00a353,962"
+        },
+        {
+          "Month": "Mar",
+          "2023": "\u00a349,249",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "Apr",
+          "2023": "\u00a341,394",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "May",
+          "2023": "\u00a351,175",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "Jun",
+          "2023": "\u00a331,939",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "Jul",
+          "2023": "\u00a326,380",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "Aug",
+          "2023": "\u00a333,958",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "Sep",
+          "2023": "\u00a329,402",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "Oct",
+          "2023": "\u00a349,076",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "Nov",
+          "2023": "\u00a323,904",
+          "2024": "\u00a3-"
+        },
+        {
+          "Month": "Dec",
+          "2023": "\u00a327,544",
+          "2024": "\u00a3-"
+        }
+      ]
+    },
+    {
+      "title": "Table 5: Average Day Rates To Month (February 2024)",
+      "columns": [
+        "Category",
+        "2023",
+        "2024"
+      ],
+      "row_count": 4,
+      "rows": [
+        {
+          "Category": "PSVs < 900m\u00b2",
+          "2023": "\u00a34,569",
+          "2024": "\u00a311,340"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "2023": "\u00a37,285",
+          "2024": "\u00a311,189"
+        },
+        {
+          "Category": "AHTS < 22,000 bhp",
+          "2023": "\u00a333,394",
+          "2024": "\u00a335,630"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "2023": "\u00a331,721",
+          "2024": "\u00a340,777"
+        }
+      ]
+    },
+    {
+      "title": "VIKING NEPTUN",
+      "columns": [
+        "Attribute",
+        "Value"
+      ],
+      "row_count": 20,
+      "rows": [
+        {
+          "Attribute": "**Owner:**",
+          "Value": "DEME"
+        },
+        {
+          "Attribute": "**Manager:**",
+          "Value": "Eidesvik Offshore"
+        },
+        {
+          "Attribute": "**Design:**",
+          "Value": "Salt 301"
+        },
+        {
+          "Attribute": "**Designer:**",
+          "Value": "Salt Ship Design"
+        },
+        {
+          "Attribute": "**Build Yard:**",
+          "Value": "Kleven Yard, Norway"
+        },
+        {
+          "Attribute": "**Delivery:**",
+          "Value": "2015"
+        },
+        {
+          "Attribute": "**Length:**",
+          "Value": "145.6m"
+        },
+        {
+          "Attribute": "**Breadth Moulded:**",
+          "Value": "31.0m"
+        },
+        {
+          "Attribute": "**Deadweight:**",
+          "Value": "15,984t"
+        },
+        {
+          "Attribute": "**Cargo Deck Area:**",
+          "Value": "2,600m\u00b2"
+        },
+        {
+          "Attribute": "**Deck Load:**",
+          "Value": "9,200t"
+        },
+        {
+          "Attribute": "**Deck Strength:**",
+          "Value": "10t/m\u00b2"
+        },
+        {
+          "Attribute": "**Max Speed:**",
+          "Value": "17 knots"
+        },
+        {
+          "Attribute": "**Engines:**",
+          "Value": "6 x 3,300 kW W\u00e4rtsil\u00e4 6L32 and 2 x 1,480 kW W\u00e4rtsil\u00e4 8L20"
+        },
+        {
+          "Attribute": "**Offshore Crane:**",
+          "Value": "400t AHC"
+        },
+        {
+          "Attribute": "**Turntable:**",
+          "Value": "Below deck total 4,500t & 7,000t cable turntable on deck"
+        },
+        {
+          "Attribute": "**Accommodation:**",
+          "Value": "150 persons"
+        },
+        {
+          "Attribute": "**Dynamic Position:**",
+          "Value": "Class 3"
+        },
+        {
+          "Attribute": "**Work Scopes:**",
+          "Value": "Cable Lay"
+        },
+        {
+          "Attribute": "**Additional Features:**",
+          "Value": "Moonpool, ICE-1B, Clean Design"
+        }
+      ]
+    },
+    {
+      "title": "OIL PRICE VS CONTRACTED RIG UTILISATION",
+      "columns": [
+        "Date",
+        "BRENT USD / Bbl",
+        "Northwest Europe Rig Utilisation",
+        "South America Rig Utilisation",
+        "US Gulf Rig Utilisation"
+      ],
+      "row_count": 13,
+      "rows": [
+        {
+          "Date": "Feb 23",
+          "BRENT USD / Bbl": "$82.71",
+          "Northwest Europe Rig Utilisation": "66.9%",
+          "South America Rig Utilisation": "78.4%",
+          "US Gulf Rig Utilisation": "60.5%"
+        },
+        {
+          "Date": "Mar 23",
+          "BRENT USD / Bbl": "$78.53",
+          "Northwest Europe Rig Utilisation": "70.0%",
+          "South America Rig Utilisation": "80.0%",
+          "US Gulf Rig Utilisation": "60.5%"
+        },
+        {
+          "Date": "Apr 23",
+          "BRENT USD / Bbl": "$84.11",
+          "Northwest Europe Rig Utilisation": "72.8%",
+          "South America Rig Utilisation": "78.6%",
+          "US Gulf Rig Utilisation": "58.9%"
+        },
+        {
+          "Date": "May 23",
+          "BRENT USD / Bbl": "$75.70",
+          "Northwest Europe Rig Utilisation": "73.4%",
+          "South America Rig Utilisation": "80.8%",
+          "US Gulf Rig Utilisation": "59.5%"
+        },
+        {
+          "Date": "Jun 23",
+          "BRENT USD / Bbl": "",
+          "Northwest Europe Rig Utilisation": "71.6%",
+          "South America Rig Utilisation": "76.8%",
+          "US Gulf Rig Utilisation": "60.0%"
+        },
+        {
+          "Date": "Jul 23",
+          "BRENT USD / Bbl": "$80.10",
+          "Northwest Europe Rig Utilisation": "71.9%",
+          "South America Rig Utilisation": "73.2%",
+          "US Gulf Rig Utilisation": "60.5%"
+        },
+        {
+          "Date": "Aug 23",
+          "BRENT USD / Bbl": "$86.16",
+          "Northwest Europe Rig Utilisation": "71.4%",
+          "South America Rig Utilisation": "78.0%",
+          "US Gulf Rig Utilisation": "62.0%"
+        },
+        {
+          "Date": "Sep 23",
+          "BRENT USD / Bbl": "$94.00",
+          "Northwest Europe Rig Utilisation": "73.5%",
+          "South America Rig Utilisation": "77.8%",
+          "US Gulf Rig Utilisation": "57.9%"
+        },
+        {
+          "Date": "Oct 23",
+          "BRENT USD / Bbl": "$91.06",
+          "Northwest Europe Rig Utilisation": "72.9%",
+          "South America Rig Utilisation": "75.4%",
+          "US Gulf Rig Utilisation": "54.2%"
+        },
+        {
+          "Date": "Nov 23",
+          "BRENT USD / Bbl": "$83.18",
+          "Northwest Europe Rig Utilisation": "75.3%",
+          "South America Rig Utilisation": "75.4%",
+          "US Gulf Rig Utilisation": "56.3%"
+        },
+        {
+          "Date": "Dec 23",
+          "BRENT USD / Bbl": "$77.17",
+          "Northwest Europe Rig Utilisation": "74.8%",
+          "South America Rig Utilisation": "79.0%",
+          "US Gulf Rig Utilisation": "51.4%"
+        },
+        {
+          "Date": "Jan 24",
+          "BRENT USD / Bbl": "$79.30",
+          "Northwest Europe Rig Utilisation": "74.0%",
+          "South America Rig Utilisation": "80.7%",
+          "US Gulf Rig Utilisation": "53.9%"
+        },
+        {
+          "Date": "Feb 24",
+          "BRENT USD / Bbl": "$81.53",
+          "Northwest Europe Rig Utilisation": "71.9%",
+          "South America Rig Utilisation": "82.2%",
+          "US Gulf Rig Utilisation": "58.8%"
+        }
+      ]
+    },
+    {
+      "title": "INACTIVE RIGS NORTHWEST EUROPE",
+      "columns": [
+        "INACTIVE RIGS NORTHWEST EUROPE",
+        "",
+        ""
+      ],
+      "row_count": 13,
+      "rows": [
+        {
+          "INACTIVE RIGS NORTHWEST EUROPE": "NAME",
+          "": "STATUS"
+        },
+        {
+          "INACTIVE RIGS NORTHWEST EUROPE": "BIDEFORD DOLPHIN",
+          "": "COLD STACK"
+        },
+        {
+          "INACTIVE RIGS NORTHWEST EUROPE": "**BORGLAND DOLPHIN**",
+          "": "**WARM STACK**"
+        },
+        {
+          "INACTIVE RIGS NORTHWEST EUROPE": "DOLPHIN LEADER",
+          "": "COLD STACK"
+        },
+        {
+          "INACTIVE RIGS NORTHWEST EUROPE": "**NOBLE HIGHLANDER**",
+          "": "**WARM STACK**"
+        },
+        {
+          "INACTIVE RIGS NORTHWEST EUROPE": "NOBLE INTERCEPTOR",
+          "": "WARM STACK"
+        },
+        {
+          "INACTIVE RIGS NORTHWEST EUROPE": "**OCEAN VALIANT**",
+          "": "**COLD STACK**"
+        },
+        {
+          "INACTIVE RIGS NORTHWEST EUROPE": "SHELF DRILLING BARSK",
+          "": "WARM STACK"
+        },
+        {
+          "INACTIVE RIGS NORTHWEST EUROPE": "**STENA SPEY**",
+          "": "**WARM STACK**"
+        },
+        {
+          "INACTIVE RIGS NORTHWEST EUROPE": "VALARIS 123",
+          "": "WARM STACK"
+        },
+        {
+          "INACTIVE RIGS NORTHWEST EUROPE": "**VALARIS 247**",
+          "": "**HOT STACK**"
+        },
+        {
+          "INACTIVE RIGS NORTHWEST EUROPE": "VALARIS VIKING",
+          "": "COLD STACK"
+        },
+        {
+          "INACTIVE RIGS NORTHWEST EUROPE": "**WEST AQUARIUS**",
+          "": "**COLD STACK**"
+        }
+      ]
+    }
+  ]
+}

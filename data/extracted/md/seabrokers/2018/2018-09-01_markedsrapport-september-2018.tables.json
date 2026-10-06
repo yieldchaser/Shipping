@@ -1,0 +1,1161 @@
+{
+  "title": "Seabreeze Monthly Offshore Market Report - September 2018",
+  "issue_date": "2018-09-01",
+  "year": 2018,
+  "month": 9,
+  "source_file": "corpus/05-seabrokers/pdfs/2018-09-01_markedsrapport-september-2018.pdf",
+  "tables_count": 14,
+  "tables": [
+    {
+      "title": "SEPTEMBER 2018 - DAILY NORTH SEA OSV AVAILABILITY",
+      "columns": [
+        "Date",
+        "PSV 2018",
+        "PSV 2017",
+        "AHTS 2018",
+        "AHTS 2017"
+      ],
+      "row_count": 30,
+      "rows": [
+        {
+          "Date": "1",
+          "PSV 2018": "16",
+          "PSV 2017": "4",
+          "AHTS 2018": "14",
+          "AHTS 2017": "18"
+        },
+        {
+          "Date": "2",
+          "PSV 2018": "17",
+          "PSV 2017": "5",
+          "AHTS 2018": "14",
+          "AHTS 2017": "19"
+        },
+        {
+          "Date": "3",
+          "PSV 2018": "19",
+          "PSV 2017": "8",
+          "AHTS 2018": "14",
+          "AHTS 2017": "20"
+        },
+        {
+          "Date": "4",
+          "PSV 2018": "21",
+          "PSV 2017": "11",
+          "AHTS 2018": "15",
+          "AHTS 2017": "21"
+        },
+        {
+          "Date": "5",
+          "PSV 2018": "23",
+          "PSV 2017": "11",
+          "AHTS 2018": "15",
+          "AHTS 2017": "21"
+        },
+        {
+          "Date": "6",
+          "PSV 2018": "20",
+          "PSV 2017": "4",
+          "AHTS 2018": "16",
+          "AHTS 2017": "11"
+        },
+        {
+          "Date": "7",
+          "PSV 2018": "12",
+          "PSV 2017": "6",
+          "AHTS 2018": "16",
+          "AHTS 2017": "12"
+        },
+        {
+          "Date": "8",
+          "PSV 2018": "12",
+          "PSV 2017": "1",
+          "AHTS 2018": "16",
+          "AHTS 2017": "11"
+        },
+        {
+          "Date": "9",
+          "PSV 2018": "12",
+          "PSV 2017": "9",
+          "AHTS 2018": "15",
+          "AHTS 2017": "14"
+        },
+        {
+          "Date": "10",
+          "PSV 2018": "12",
+          "PSV 2017": "8",
+          "AHTS 2018": "15",
+          "AHTS 2017": "14"
+        },
+        {
+          "Date": "11",
+          "PSV 2018": "12",
+          "PSV 2017": "9",
+          "AHTS 2018": "15",
+          "AHTS 2017": "16"
+        },
+        {
+          "Date": "12",
+          "PSV 2018": "10",
+          "PSV 2017": "9",
+          "AHTS 2018": "14",
+          "AHTS 2017": "17"
+        },
+        {
+          "Date": "13",
+          "PSV 2018": "8",
+          "PSV 2017": "5",
+          "AHTS 2018": "14",
+          "AHTS 2017": "16"
+        },
+        {
+          "Date": "14",
+          "PSV 2018": "2",
+          "PSV 2017": "5",
+          "AHTS 2018": "11",
+          "AHTS 2017": "14"
+        },
+        {
+          "Date": "15",
+          "PSV 2018": "4",
+          "PSV 2017": "5",
+          "AHTS 2018": "11",
+          "AHTS 2017": "12"
+        },
+        {
+          "Date": "16",
+          "PSV 2018": "5",
+          "PSV 2017": "5",
+          "AHTS 2018": "11",
+          "AHTS 2017": "12"
+        },
+        {
+          "Date": "17",
+          "PSV 2018": "6",
+          "PSV 2017": "5",
+          "AHTS 2018": "11",
+          "AHTS 2017": "12"
+        },
+        {
+          "Date": "18",
+          "PSV 2018": "9",
+          "PSV 2017": "5",
+          "AHTS 2018": "11",
+          "AHTS 2017": "12"
+        },
+        {
+          "Date": "19",
+          "PSV 2018": "9",
+          "PSV 2017": "6",
+          "AHTS 2018": "11",
+          "AHTS 2017": "10"
+        },
+        {
+          "Date": "20",
+          "PSV 2018": "8",
+          "PSV 2017": "7",
+          "AHTS 2018": "8",
+          "AHTS 2017": "8"
+        },
+        {
+          "Date": "21",
+          "PSV 2018": "8",
+          "PSV 2017": "8",
+          "AHTS 2018": "8",
+          "AHTS 2017": "8"
+        },
+        {
+          "Date": "22",
+          "PSV 2018": "7",
+          "PSV 2017": "6",
+          "AHTS 2018": "8",
+          "AHTS 2017": "10"
+        },
+        {
+          "Date": "23",
+          "PSV 2018": "6",
+          "PSV 2017": "6",
+          "AHTS 2018": "8",
+          "AHTS 2017": "14"
+        },
+        {
+          "Date": "24",
+          "PSV 2018": "5",
+          "PSV 2017": "6",
+          "AHTS 2018": "8",
+          "AHTS 2017": "16"
+        },
+        {
+          "Date": "25",
+          "PSV 2018": "4",
+          "PSV 2017": "6",
+          "AHTS 2018": "8",
+          "AHTS 2017": "16"
+        },
+        {
+          "Date": "26",
+          "PSV 2018": "1",
+          "PSV 2017": "6",
+          "AHTS 2018": "8",
+          "AHTS 2017": "16"
+        },
+        {
+          "Date": "27",
+          "PSV 2018": "1",
+          "PSV 2017": "6",
+          "AHTS 2018": "3",
+          "AHTS 2017": "15"
+        },
+        {
+          "Date": "28",
+          "PSV 2018": "0",
+          "PSV 2017": "0",
+          "AHTS 2018": "0",
+          "AHTS 2017": "14"
+        },
+        {
+          "Date": "29",
+          "PSV 2018": "10",
+          "PSV 2017": "10",
+          "AHTS 2018": "9",
+          "AHTS 2017": "19"
+        },
+        {
+          "Date": "30",
+          "PSV 2018": "11",
+          "PSV 2017": "10",
+          "AHTS 2018": "9",
+          "AHTS 2017": "20"
+        }
+      ]
+    },
+    {
+      "title": "NORTH SEA SPOT AVERAGE UTILISATION SEPTEMBER 2018",
+      "columns": [
+        "TYPE",
+        "SEP 2018",
+        "AUG 2018",
+        "JUL 2018",
+        "JUN 2018",
+        "MAY 2018",
+        "APR 2018"
+      ],
+      "row_count": 4,
+      "rows": [
+        {
+          "TYPE": "MED PSV",
+          "SEP 2018": "77%",
+          "AUG 2018": "60%",
+          "JUL 2018": "58%",
+          "JUN 2018": "72%",
+          "MAY 2018": "64%",
+          "APR 2018": "57%"
+        },
+        {
+          "TYPE": "LARGE PSV",
+          "SEP 2018": "81%",
+          "AUG 2018": "75%",
+          "JUL 2018": "80%",
+          "JUN 2018": "82%",
+          "MAY 2018": "75%",
+          "APR 2018": "83%"
+        },
+        {
+          "TYPE": "MED AHTS",
+          "SEP 2018": "59%",
+          "AUG 2018": "59%",
+          "JUL 2018": "58%",
+          "JUN 2018": "44%",
+          "MAY 2018": "46%",
+          "APR 2018": "63%"
+        },
+        {
+          "TYPE": "LARGE AHTS",
+          "SEP 2018": "66%",
+          "AUG 2018": "77%",
+          "JUL 2018": "59%",
+          "JUN 2018": "58%",
+          "MAY 2018": "56%",
+          "APR 2018": "61%"
+        }
+      ]
+    },
+    {
+      "title": "NORTH SEA AVERAGE RATES SEPTEMBER 2018",
+      "columns": [
+        "CATEGORY",
+        "AVERAGE RATE SEP 2018",
+        "AVERAGE RATE SEP 2017",
+        "% CHANGE",
+        "MINIMUM",
+        "MAXIMUM"
+      ],
+      "row_count": 4,
+      "rows": [
+        {
+          "CATEGORY": "SUPPLY DUTIES PSVs < 900M\u00b2",
+          "AVERAGE RATE SEP 2018": "\u00a38,396",
+          "AVERAGE RATE SEP 2017": "\u00a311,516",
+          "% CHANGE": "-27.09%",
+          "MINIMUM": "\u00a34,250",
+          "MAXIMUM": "\u00a319,500"
+        },
+        {
+          "CATEGORY": "SUPPLY DUTIES PSVs > 900M\u00b2",
+          "AVERAGE RATE SEP 2018": "\u00a39,104",
+          "AVERAGE RATE SEP 2017": "\u00a311,203",
+          "% CHANGE": "-18.74%",
+          "MINIMUM": "\u00a33,898",
+          "MAXIMUM": "\u00a321,500"
+        },
+        {
+          "CATEGORY": "AHTS DUTIES AHTS < 22,000 BHP",
+          "AVERAGE RATE SEP 2018": "\u00a39,717",
+          "AVERAGE RATE SEP 2017": "\u00a39,001",
+          "% CHANGE": "+7.95%",
+          "MINIMUM": "\u00a38,500",
+          "MAXIMUM": "\u00a315,000"
+        },
+        {
+          "CATEGORY": "AHTS DUTIES AHTS > 22,000 BHP",
+          "AVERAGE RATE SEP 2018": "\u00a314,048",
+          "AVERAGE RATE SEP 2017": "\u00a315,109",
+          "% CHANGE": "-7.02%",
+          "MINIMUM": "\u00a37,425",
+          "MAXIMUM": "\u00a327,845"
+        }
+      ]
+    },
+    {
+      "title": "ARRIVALS - NORTH SEA SPOT",
+      "columns": [
+        "-",
+        "",
+        "MAKALU",
+        "BLACK SEA",
+        "UNION BEAR",
+        "BALTIC SEA"
+      ],
+      "row_count": 3,
+      "rows": [
+        {
+          "-": "",
+          "": "",
+          "MAKALU": "NAO HORIZON",
+          "BLACK SEA": "WEST AFRICA",
+          "UNION BEAR": "UNION LYNX",
+          "BALTIC SEA": "BALTIC SEA"
+        },
+        {
+          "-": "",
+          "": "",
+          "MAKALU": "STANDARD PRINCESS",
+          "BLACK SEA": "BALTIC SEA",
+          "UNION BEAR": "UNION MANTA",
+          "BALTIC SEA": "BALTIC SEA"
+        },
+        {
+          "-": "",
+          "": "",
+          "MAKALU": "STANDARD SUPPLIER",
+          "BLACK SEA": "BALTIC SEA",
+          "UNION BEAR": "VOS PARTNER",
+          "BALTIC SEA": "WEST AFRICA"
+        }
+      ]
+    },
+    {
+      "title": "NORTH SEA AVERAGE SPOT RATES",
+      "columns": [
+        "Category",
+        "Month",
+        "2017",
+        "2018"
+      ],
+      "row_count": 48,
+      "rows": [
+        {
+          "Category": "**PSVs < 900m\u00b2**",
+          "Month": "Jan",
+          "2017": "\u00a35,958",
+          "2018": "\u00a34,996"
+        },
+        {
+          "Category": "",
+          "Month": "Feb",
+          "2017": "\u00a38,428",
+          "2018": "\u00a35,844"
+        },
+        {
+          "Category": "",
+          "Month": "Mar",
+          "2017": "\u00a37,794",
+          "2018": "\u00a35,968"
+        },
+        {
+          "Category": "",
+          "Month": "Apr",
+          "2017": "\u00a36,332",
+          "2018": "\u00a38,333"
+        },
+        {
+          "Category": "",
+          "Month": "May",
+          "2017": "\u00a35,675",
+          "2018": "\u00a37,589"
+        },
+        {
+          "Category": "",
+          "Month": "Jun",
+          "2017": "\u00a35,452",
+          "2018": "\u00a37,631"
+        },
+        {
+          "Category": "",
+          "Month": "Jul",
+          "2017": "\u00a310,271",
+          "2018": "\u00a38,275"
+        },
+        {
+          "Category": "",
+          "Month": "Aug",
+          "2017": "\u00a313,107",
+          "2018": "\u00a35,692"
+        },
+        {
+          "Category": "",
+          "Month": "Sep",
+          "2017": "\u00a311,516",
+          "2018": "\u00a38,396"
+        },
+        {
+          "Category": "",
+          "Month": "Oct",
+          "2017": "\u00a37,444",
+          "2018": "\u00a3-"
+        },
+        {
+          "Category": "",
+          "Month": "Nov",
+          "2017": "\u00a36,017",
+          "2018": "\u00a3-"
+        },
+        {
+          "Category": "",
+          "Month": "Dec",
+          "2017": "\u00a38,208",
+          "2018": "\u00a3-"
+        },
+        {
+          "Category": "**PSVs > 900m\u00b2**",
+          "Month": "Jan",
+          "2017": "\u00a35,764",
+          "2018": "\u00a35,959"
+        },
+        {
+          "Category": "",
+          "Month": "Feb",
+          "2017": "\u00a36,777",
+          "2018": "\u00a35,627"
+        },
+        {
+          "Category": "",
+          "Month": "Mar",
+          "2017": "\u00a38,126",
+          "2018": "\u00a35,737"
+        },
+        {
+          "Category": "",
+          "Month": "Apr",
+          "2017": "\u00a36,667",
+          "2018": "\u00a37,856"
+        },
+        {
+          "Category": "",
+          "Month": "May",
+          "2017": "\u00a35,642",
+          "2018": "\u00a38,400"
+        },
+        {
+          "Category": "",
+          "Month": "Jun",
+          "2017": "\u00a35,684",
+          "2018": "\u00a37,585"
+        },
+        {
+          "Category": "",
+          "Month": "Jul",
+          "2017": "\u00a39,709",
+          "2018": "\u00a39,360"
+        },
+        {
+          "Category": "",
+          "Month": "Aug",
+          "2017": "\u00a312,431",
+          "2018": "\u00a38,550"
+        },
+        {
+          "Category": "",
+          "Month": "Sep",
+          "2017": "\u00a311,203",
+          "2018": "\u00a39,104"
+        },
+        {
+          "Category": "",
+          "Month": "Oct",
+          "2017": "\u00a36,425",
+          "2018": "\u00a3-"
+        },
+        {
+          "Category": "",
+          "Month": "Nov",
+          "2017": "\u00a35,203",
+          "2018": "\u00a3-"
+        },
+        {
+          "Category": "",
+          "Month": "Dec",
+          "2017": "\u00a37,447",
+          "2018": "\u00a3-"
+        },
+        {
+          "Category": "**AHTS < 22,000 bhp**",
+          "Month": "Jan",
+          "2017": "\u00a313,890",
+          "2018": "\u00a35,481"
+        },
+        {
+          "Category": "",
+          "Month": "Feb",
+          "2017": "\u00a37,833",
+          "2018": "\u00a36,643"
+        },
+        {
+          "Category": "",
+          "Month": "Mar",
+          "2017": "\u00a333,270",
+          "2018": "\u00a320,748"
+        },
+        {
+          "Category": "",
+          "Month": "Apr",
+          "2017": "\u00a314,868",
+          "2018": "\u00a325,958"
+        },
+        {
+          "Category": "",
+          "Month": "May",
+          "2017": "\u00a36,875",
+          "2018": "\u00a38,733"
+        },
+        {
+          "Category": "",
+          "Month": "Jun",
+          "2017": "\u00a38,036",
+          "2018": "\u00a39,875"
+        },
+        {
+          "Category": "",
+          "Month": "Jul",
+          "2017": "\u00a338,293",
+          "2018": "\u00a312,303"
+        },
+        {
+          "Category": "",
+          "Month": "Aug",
+          "2017": "\u00a326,819",
+          "2018": "\u00a317,593"
+        },
+        {
+          "Category": "",
+          "Month": "Sep",
+          "2017": "\u00a39,001",
+          "2018": "\u00a39,717"
+        },
+        {
+          "Category": "",
+          "Month": "Oct",
+          "2017": "\u00a35,161",
+          "2018": "\u00a3-"
+        },
+        {
+          "Category": "",
+          "Month": "Nov",
+          "2017": "\u00a317,299",
+          "2018": "\u00a3-"
+        },
+        {
+          "Category": "",
+          "Month": "Dec",
+          "2017": "\u00a320,196",
+          "2018": "\u00a3-"
+        },
+        {
+          "Category": "**AHTS > 22,000 bhp**",
+          "Month": "Jan",
+          "2017": "\u00a316,229",
+          "2018": "\u00a38,736"
+        },
+        {
+          "Category": "",
+          "Month": "Feb",
+          "2017": "\u00a315,789",
+          "2018": "\u00a39,410"
+        },
+        {
+          "Category": "",
+          "Month": "Mar",
+          "2017": "\u00a333,182",
+          "2018": "\u00a314,003"
+        },
+        {
+          "Category": "",
+          "Month": "Apr",
+          "2017": "\u00a319,396",
+          "2018": "\u00a332,322"
+        },
+        {
+          "Category": "",
+          "Month": "May",
+          "2017": "\u00a37,788",
+          "2018": "\u00a312,843"
+        },
+        {
+          "Category": "",
+          "Month": "Jun",
+          "2017": "\u00a314,237",
+          "2018": "\u00a316,931"
+        },
+        {
+          "Category": "",
+          "Month": "Jul",
+          "2017": "\u00a329,457",
+          "2018": "\u00a314,112"
+        },
+        {
+          "Category": "",
+          "Month": "Aug",
+          "2017": "\u00a324,182",
+          "2018": "\u00a324,324"
+        },
+        {
+          "Category": "",
+          "Month": "Sep",
+          "2017": "\u00a315,109",
+          "2018": "\u00a314,048"
+        },
+        {
+          "Category": "",
+          "Month": "Oct",
+          "2017": "\u00a35,593",
+          "2018": "\u00a3-"
+        },
+        {
+          "Category": "",
+          "Month": "Nov",
+          "2017": "\u00a39,171",
+          "2018": "\u00a3-"
+        },
+        {
+          "Category": "",
+          "Month": "Dec",
+          "2017": "\u00a316,674",
+          "2018": "\u00a3-"
+        }
+      ]
+    },
+    {
+      "title": "NORTH SEA AVERAGE SPOT RATES",
+      "columns": [
+        "Category",
+        "2017",
+        "2018"
+      ],
+      "row_count": 4,
+      "rows": [
+        {
+          "Category": "PSVs < 900m\u00b2",
+          "2017": "\u00a38,136",
+          "2018": "\u00a36,815"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "2017": "\u00a37,532",
+          "2018": "\u00a37,597"
+        },
+        {
+          "Category": "AHTS < 22,000 bhp",
+          "2017": "\u00a320,857",
+          "2018": "\u00a312,946"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "2017": "\u00a320,141",
+          "2018": "\u00a316,597"
+        }
+      ]
+    },
+    {
+      "title": "VARD 3 03 DSV (EX HARKAND HALDANE)",
+      "columns": [
+        "Attribute",
+        "Value"
+      ],
+      "row_count": 14,
+      "rows": [
+        {
+          "Attribute": "**Build Yard:**",
+          "Value": "Vard S\u00f8viknes"
+        },
+        {
+          "Attribute": "**Delivery:**",
+          "Value": "Q1 2019"
+        },
+        {
+          "Attribute": "**Original Design:**",
+          "Value": "Vard 3 03"
+        },
+        {
+          "Attribute": "**LOA:**",
+          "Value": "121m"
+        },
+        {
+          "Attribute": "**Breadth:**",
+          "Value": "23.0m"
+        },
+        {
+          "Attribute": "**Operating Draft:**",
+          "Value": "7.3m"
+        },
+        {
+          "Attribute": "**Deadweight:**",
+          "Value": "4,990t"
+        },
+        {
+          "Attribute": "**Crane:**",
+          "Value": "250t"
+        },
+        {
+          "Attribute": "**Helideck:**",
+          "Value": "Sikorsky S-92, S-61"
+        },
+        {
+          "Attribute": "**Free Deck:**",
+          "Value": "1,000m\u00b2"
+        },
+        {
+          "Attribute": "**Dynamic Positioning:**",
+          "Value": "Class 3"
+        },
+        {
+          "Attribute": "**Diving Bells:**",
+          "Value": "2"
+        },
+        {
+          "Attribute": "**Dive Capacity:**",
+          "Value": "18 persons"
+        },
+        {
+          "Attribute": "**Accommodation:**",
+          "Value": "120 persons"
+        }
+      ]
+    },
+    {
+      "title": "ALLSEAS CONFIRMED AS BUYER OF FORTRESS",
+      "columns": [
+        "![Havila Fortress](https://i.imgur.com/3Z0Z0Z0.jpg)",
+        "Allseas has been confirmed as the buyer of the 1996-built PSV Havila Fortress, which was sold by Havila Shipping in August. The vessel (pictured c/o S Boulter) is currently berthed in Denmark where she is being prepared for work by her new owners."
+      ],
+      "row_count": 1,
+      "rows": [
+        {
+          "![Havila Fortress](https://i.imgur.com/3Z0Z0Z0.jpg)": "",
+          "Allseas has been confirmed as the buyer of the 1996-built PSV Havila Fortress, which was sold by Havila Shipping in August. The vessel (pictured c/o S Boulter) is currently berthed in Denmark where she is being prepared for work by her new owners.": "This transaction follows the earlier sales of the Fortress' sister vessels, the Havila Faith and Havila Favour, to Allseas in March. Those vessels have since been renamed as Alegria and Felicity, and they are currently working for Allseas in the Black Sea."
+        }
+      ]
+    },
+    {
+      "title": "MALAVIYA 20 SOLD AT AUCTION",
+      "columns": [
+        "MALAVIYA 20 SOLD AT AUCTION",
+        ""
+      ],
+      "row_count": 1,
+      "rows": [
+        {
+          "MALAVIYA 20 SOLD AT AUCTION": "The 2004-built PSV Malaviya 20 has been sold at auction for a price just above USD 1 million, after her previous owners GOL Offshore were declared bankrupt. The buying entity is reportedly linked to the Greek-based Laskaridis Shipping Company.",
+          "": "The Malaviya 20 was built to the UT 755 design by Aker Brattvaag in Norway. She has a length of 72m, breadth of 16m, deck area of 690m\u00b2 and deadweight of more than 3,000t. The vessel has been laid up in Great Yarmouth since she finished her most recent contract in 2016."
+        }
+      ]
+    },
+    {
+      "title": "BAHIA GRANDE BUYS ANCHOR HANDLER",
+      "columns": [
+        "![BG Warrior](https://i.imgur.com/7Z7Z7Z7.jpg)",
+        "Bahia Grande has acquired the former Pacific Warrior, and renamed the AHTS vessel as BG Warrior. The 2002-built vessel has been mobilised to Argentina by her new owners. The vessel was originally owned by Swire Pacific Offshore and was built by Brevik Construction in Norway. The BG Warrior, built to the UT 710 design, has a length of 68.9m and a breadth of 15.5m. She has an engine power of 10,657 bhp, providing a bollard pull of circa 140 tonnes, with a clear deck area of 471m\u00b2."
+      ],
+      "row_count": 0,
+      "rows": []
+    },
+    {
+      "title": "OIL PRICE VS RIG UTILISATION",
+      "columns": [
+        "Date",
+        "Average Brent Crude US$ / Bbl",
+        "Northwest Europe Rig Utilisation",
+        "South America Rig Utilisation",
+        "US Gulf Rig Utilisation"
+      ],
+      "row_count": 13,
+      "rows": [
+        {
+          "Date": "Sep 17",
+          "Average Brent Crude US$ / Bbl": "$55.16",
+          "Northwest Europe Rig Utilisation": "58.1%",
+          "South America Rig Utilisation": "73.4%",
+          "US Gulf Rig Utilisation": "35.1%"
+        },
+        {
+          "Date": "Oct 17",
+          "Average Brent Crude US$ / Bbl": "$57.62",
+          "Northwest Europe Rig Utilisation": "56.7%",
+          "South America Rig Utilisation": "74.9%",
+          "US Gulf Rig Utilisation": "35.8%"
+        },
+        {
+          "Date": "Nov 17",
+          "Average Brent Crude US$ / Bbl": "$62.57",
+          "Northwest Europe Rig Utilisation": "57.2%",
+          "South America Rig Utilisation": "75.8%",
+          "US Gulf Rig Utilisation": "36.0%"
+        },
+        {
+          "Date": "Dec 17",
+          "Average Brent Crude US$ / Bbl": "$64.21",
+          "Northwest Europe Rig Utilisation": "57.5%",
+          "South America Rig Utilisation": "73.1%",
+          "US Gulf Rig Utilisation": "35.9%"
+        },
+        {
+          "Date": "Jan 18",
+          "Average Brent Crude US$ / Bbl": "$68.99",
+          "Northwest Europe Rig Utilisation": "58.4%",
+          "South America Rig Utilisation": "72.9%",
+          "US Gulf Rig Utilisation": "34.7%"
+        },
+        {
+          "Date": "Feb 18",
+          "Average Brent Crude US$ / Bbl": "$65.42",
+          "Northwest Europe Rig Utilisation": "59.5%",
+          "South America Rig Utilisation": "71.7%",
+          "US Gulf Rig Utilisation": "38.7%"
+        },
+        {
+          "Date": "Mar 18",
+          "Average Brent Crude US$ / Bbl": "$66.45",
+          "Northwest Europe Rig Utilisation": "60.7%",
+          "South America Rig Utilisation": "71.1%",
+          "US Gulf Rig Utilisation": "42.3%"
+        },
+        {
+          "Date": "Apr 18",
+          "Average Brent Crude US$ / Bbl": "$71.63",
+          "Northwest Europe Rig Utilisation": "62.2%",
+          "South America Rig Utilisation": "70.1%",
+          "US Gulf Rig Utilisation": "40.6%"
+        },
+        {
+          "Date": "May 18",
+          "Average Brent Crude US$ / Bbl": "$76.65",
+          "Northwest Europe Rig Utilisation": "66.7%",
+          "South America Rig Utilisation": "73.0%",
+          "US Gulf Rig Utilisation": "42.1%"
+        },
+        {
+          "Date": "Jun 18",
+          "Average Brent Crude US$ / Bbl": "$75.96",
+          "Northwest Europe Rig Utilisation": "69.7%",
+          "South America Rig Utilisation": "71.9%",
+          "US Gulf Rig Utilisation": "43.3%"
+        },
+        {
+          "Date": "Jul 18",
+          "Average Brent Crude US$ / Bbl": "$75.04",
+          "Northwest Europe Rig Utilisation": "69.9%",
+          "South America Rig Utilisation": "67.9%",
+          "US Gulf Rig Utilisation": "45.1%"
+        },
+        {
+          "Date": "Aug 18",
+          "Average Brent Crude US$ / Bbl": "$73.81",
+          "Northwest Europe Rig Utilisation": "67.8%",
+          "South America Rig Utilisation": "65.8%",
+          "US Gulf Rig Utilisation": "48.0%"
+        },
+        {
+          "Date": "Sep 18",
+          "Average Brent Crude US$ / Bbl": "$79.19",
+          "Northwest Europe Rig Utilisation": "69.5%",
+          "South America Rig Utilisation": "64.7%",
+          "US Gulf Rig Utilisation": "47.2%"
+        }
+      ]
+    },
+    {
+      "title": "INACTIVE RIGS NORTHWEST EUROPE",
+      "columns": [
+        "NAME",
+        "TYPE",
+        "STATUS"
+      ],
+      "row_count": 33,
+      "rows": [
+        {
+          "NAME": "BAUG",
+          "TYPE": "JU",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "BIDEFORD DOLPHIN",
+          "TYPE": "SS",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "BORGLAND DOLPHIN",
+          "TYPE": "SS",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "BREDFORD DOLPHIN",
+          "TYPE": "SS",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "BYFORD DOLPHIN",
+          "TYPE": "SS",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "COSLINNOVATOR",
+          "TYPE": "SS",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "COSLPROSPECTOR",
+          "TYPE": "SS",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "EIR",
+          "TYPE": "JU",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "ENSCO 70",
+          "TYPE": "JU",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "ENSCO 71",
+          "TYPE": "JU",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "ENSCO 80",
+          "TYPE": "JU",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "ENSCO 121",
+          "TYPE": "JU",
+          "STATUS": "HOT STACK"
+        },
+        {
+          "NAME": "MAERSK GALLANT",
+          "TYPE": "JU",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "MAERSK GIANT",
+          "TYPE": "JU",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "MAERSK REACHER",
+          "TYPE": "JU",
+          "STATUS": "HOT STACK"
+        },
+        {
+          "NAME": "MAERSK RESOLVE",
+          "TYPE": "JU",
+          "STATUS": "HOT STACK"
+        },
+        {
+          "NAME": "POLAR PIONEER",
+          "TYPE": "SS",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "PROSPECTOR 1",
+          "TYPE": "JU",
+          "STATUS": "HOT STACK"
+        },
+        {
+          "NAME": "RAN",
+          "TYPE": "JU",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "ROWAN NORWAY",
+          "TYPE": "JU",
+          "STATUS": "HOT STACK"
+        },
+        {
+          "NAME": "ROWAN STAVANGER",
+          "TYPE": "JU",
+          "STATUS": "HOT STACK"
+        },
+        {
+          "NAME": "SCARABEO 5",
+          "TYPE": "SS",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "SEDCO 711",
+          "TYPE": "SS",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "SEDCO 714",
+          "TYPE": "SS",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "SERTAO",
+          "TYPE": "DS",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "SONGA DEE",
+          "TYPE": "SS",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "SWIFT 10",
+          "TYPE": "JU",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "WEST ALPHA",
+          "TYPE": "SS",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "WEST EPSILON",
+          "TYPE": "JU",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "WEST HERCULES",
+          "TYPE": "SS",
+          "STATUS": "HOT STACK"
+        },
+        {
+          "NAME": "WEST NAVIGATOR",
+          "TYPE": "DS",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "WEST VENTURE",
+          "TYPE": "SS",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "WILHUNTER",
+          "TYPE": "SS",
+          "STATUS": "COLD STACK"
+        }
+      ]
+    },
+    {
+      "title": "RIG UTILISATION AND DAY RATES",
+      "columns": [
+        "UTILISATION",
+        "SEP 2018",
+        "SEP 2017",
+        "SEP 2016",
+        "SEP 2015",
+        "SEP 2014"
+      ],
+      "row_count": 3,
+      "rows": [
+        {
+          "UTILISATION": "NORTHWEST EUROPE",
+          "SEP 2018": "69.5%",
+          "SEP 2017": "58.1%",
+          "SEP 2016": "57.4%",
+          "SEP 2015": "79.6%",
+          "SEP 2014": "95.9%"
+        },
+        {
+          "UTILISATION": "SOUTH AMERICA",
+          "SEP 2018": "64.7%",
+          "SEP 2017": "73.4%",
+          "SEP 2016": "77.6%",
+          "SEP 2015": "85.0%",
+          "SEP 2014": "93.8%"
+        },
+        {
+          "UTILISATION": "US GULF",
+          "SEP 2018": "47.2%",
+          "SEP 2017": "35.1%",
+          "SEP 2016": "34.2%",
+          "SEP 2015": "45.1%",
+          "SEP 2014": "65.2%"
+        }
+      ]
+    },
+    {
+      "title": "RIG UTILISATION AND DAY RATES",
+      "columns": [
+        "RECENT DAY RATE BENCHMARKS",
+        "LOW (USD)",
+        "HIGH (USD)"
+      ],
+      "row_count": 6,
+      "rows": [
+        {
+          "RECENT DAY RATE BENCHMARKS": "UK HARSH HIGH SPEC JACKUPS",
+          "LOW (USD)": "72,500",
+          "HIGH (USD)": "85,000"
+        },
+        {
+          "RECENT DAY RATE BENCHMARKS": "NORWAY HARSH HIGH SPEC JACKUPS",
+          "LOW (USD)": "160,000",
+          "HIGH (USD)": "160,000"
+        },
+        {
+          "RECENT DAY RATE BENCHMARKS": "UK HARSH STANDARD SEMISUBS",
+          "LOW (USD)": "116,200",
+          "HIGH (USD)": "130,000"
+        },
+        {
+          "RECENT DAY RATE BENCHMARKS": "NORWAY HARSH HIGH-SPEC SEMISUBS",
+          "LOW (USD)": "160,000",
+          "HIGH (USD)": "160,000"
+        },
+        {
+          "RECENT DAY RATE BENCHMARKS": "GLOBAL ULTRA-DEEPWATER SEMISUBS",
+          "LOW (USD)": "130,000",
+          "HIGH (USD)": "130,000"
+        },
+        {
+          "RECENT DAY RATE BENCHMARKS": "GLOBAL ULTRA-DEEPWATER DRILLSHIPS",
+          "LOW (USD)": "135,000",
+          "HIGH (USD)": "160,000"
+        }
+      ]
+    }
+  ]
+}

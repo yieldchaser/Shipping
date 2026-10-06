@@ -1,0 +1,287 @@
+{
+  "vessel_class": "Panamax",
+  "sector": "Dry Bulk",
+  "source_file": "Drewry_AIS_Drybulk_Panamax_Week39_2026.pdf",
+  "metrics_summary": {
+    "vessel_class": "Panamax",
+    "sector": "Dry Bulk",
+    "source_file": "Drewry_AIS_Drybulk_Panamax_Week39_2026.pdf",
+    "fleet_performance_points": 1482,
+    "regional_congestion_points": 858,
+    "deployment_speed_points": 273,
+    "utilisation_points": 90,
+    "total_points": 2703
+  },
+  "sample_fleet_performance": [
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Panamax",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 1,
+      "date": "2022-01-05",
+      "value_mdwt": 103.01,
+      "source_file": "Drewry_AIS_Drybulk_Panamax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Panamax",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 2,
+      "date": "2022-01-12",
+      "value_mdwt": 100.35,
+      "source_file": "Drewry_AIS_Drybulk_Panamax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Panamax",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 3,
+      "date": "2022-01-19",
+      "value_mdwt": 102.77,
+      "source_file": "Drewry_AIS_Drybulk_Panamax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Panamax",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 4,
+      "date": "2022-01-26",
+      "value_mdwt": 103.83,
+      "source_file": "Drewry_AIS_Drybulk_Panamax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Panamax",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 5,
+      "date": "2022-02-02",
+      "value_mdwt": 108.68,
+      "source_file": "Drewry_AIS_Drybulk_Panamax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Panamax",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 6,
+      "date": "2022-02-09",
+      "value_mdwt": 105.57,
+      "source_file": "Drewry_AIS_Drybulk_Panamax_Week39_2026.pdf"
+    }
+  ],
+  "sample_regional_congestion": [
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Panamax",
+      "region": "East",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 1,
+      "date": "2024-01-03",
+      "value_mdwt": 20.86,
+      "source_file": "Drewry_AIS_Drybulk_Panamax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Panamax",
+      "region": "East",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 2,
+      "date": "2024-01-10",
+      "value_mdwt": 21.74,
+      "source_file": "Drewry_AIS_Drybulk_Panamax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Panamax",
+      "region": "East",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 3,
+      "date": "2024-01-17",
+      "value_mdwt": 24.38,
+      "source_file": "Drewry_AIS_Drybulk_Panamax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Panamax",
+      "region": "East",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 4,
+      "date": "2024-01-24",
+      "value_mdwt": 23.65,
+      "source_file": "Drewry_AIS_Drybulk_Panamax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Panamax",
+      "region": "East",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 5,
+      "date": "2024-01-31",
+      "value_mdwt": 22.41,
+      "source_file": "Drewry_AIS_Drybulk_Panamax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Panamax",
+      "region": "East",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 6,
+      "date": "2024-02-07",
+      "value_mdwt": 22.77,
+      "source_file": "Drewry_AIS_Drybulk_Panamax_Week39_2026.pdf"
+    }
+  ],
+  "sample_deployment_speed": [
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Panamax",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 1,
+      "date": "2025-01-01",
+      "value": 99.92,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Drybulk_Panamax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Panamax",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 2,
+      "date": "2025-01-08",
+      "value": 93.21,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Drybulk_Panamax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Panamax",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 3,
+      "date": "2025-01-15",
+      "value": 89.78,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Drybulk_Panamax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Panamax",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 4,
+      "date": "2025-01-22",
+      "value": 85.26,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Drybulk_Panamax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Panamax",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 5,
+      "date": "2025-01-29",
+      "value": 83.98,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Drybulk_Panamax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Panamax",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 6,
+      "date": "2025-02-05",
+      "value": 86.72,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Drybulk_Panamax_Week39_2026.pdf"
+    }
+  ],
+  "sample_utilisation": [
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Panamax",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 1,
+      "date": "2025-01-01",
+      "value_pct": 95.24,
+      "source_file": "Drewry_AIS_Drybulk_Panamax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Panamax",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 2,
+      "date": "2025-01-08",
+      "value_pct": 93.72,
+      "source_file": "Drewry_AIS_Drybulk_Panamax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Panamax",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 3,
+      "date": "2025-01-15",
+      "value_pct": 93.61,
+      "source_file": "Drewry_AIS_Drybulk_Panamax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Panamax",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 4,
+      "date": "2025-01-22",
+      "value_pct": 93.15,
+      "source_file": "Drewry_AIS_Drybulk_Panamax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Panamax",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 5,
+      "date": "2025-01-29",
+      "value_pct": 93.47,
+      "source_file": "Drewry_AIS_Drybulk_Panamax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Panamax",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 6,
+      "date": "2025-02-05",
+      "value_pct": 93.5,
+      "source_file": "Drewry_AIS_Drybulk_Panamax_Week39_2026.pdf"
+    }
+  ]
+}

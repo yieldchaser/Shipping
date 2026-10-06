@@ -1,0 +1,69 @@
+---
+title: "Iran's Irony"
+subtitle: ""
+issue_date: "2007-03-16"
+year: 2007
+author: "Poten & Partners"
+source: "poten"
+category: "tankers"
+pages: 3
+source_file: "corpus/04-poten/pdfs/2007/Tanker_Opinion_20070316.pdf"
+tables_count: 0
+charts_count: 1
+---
+
+# Iran's Irony
+
+After the February 21, 2007 deadline to cease uranium enrichment went unheeded, the UN quickly reached a decision to pursue additional sanctions against Iran. Members of the UN are working toward a proposed resolution that would put an embargo on Iranian arms exports and expand the freezing assets and accounts belonging to individuals and companies that are potentially involved in nuclear and ballistics programs. The stricter sanctions will likely further complicate the relationship between Iran and the West. The chart below shows the historical supply and demand of crude oil in Iran and the growth in population. In light of growing oil consumption worldwide, Iran remains a critical component of the supply picture.
+
+Iranian Revolution
+
+### Million Barrels Per Day
+
+### Million People
+
+1965 1967 1969 1971 1973 1975 1977 1979 1981 1983 1985 1987 1989 1991 1993 1995 1997 1999 2001 2003 2005 2007 Production Consumption Population Poten & Partners | • athens • guangzhou • hong kong • london • new york • perth • singapore 1 Water, Water Everywhere...
+
+One trait that puts Iran at a significant disadvantage is its high reliance on imported gasoline and refined products. What is surprising is that a country with such vast crude oil and natural gas resources has not focused on building refining capacity in step with growing domestic demand. This imbalance between refined product demand and refining capacity leaves the country increasingly vulnerable to trade sanctions. The map below shows Iran's existing refineries and their respective daily crude capacities.
+
+Not surprisingly, government controls and petroleum subsidies have encouraged waste and been a drain on the fiscal health of the country. Gasoline consumption in Iran is reportedly growing at a rapid annual pace of 10% per year, a statistic that is linked to the fact that the country's population doubled in the past 40 years, and the price of gasoline is cheap. However, the Iranian parliament has reportedly approved legislation increasing the subsidized domestic gasoline price to $.11 per liter ($.41 per gallon) from $.09 per liter. There is fear that popular backlash may result because inexpensive fuels have been taken for granted.
+
+Total Refining Capacity: 1.4 M bbl/day Total Demand: 1.7 M bbl/day
+
+### Tabriz 100,000
+
+### bbl/day
+
+### Tehran 220,000
+
+### bbl/day
+
+### Arak 170,000
+
+### bbl/day
+
+### Isfahan 284,000
+
+### bbl/day
+
+Kermanshah 25,000 bbl/day
+
+### Adaban 350,000
+
+### bbl/day
+
+### Shiraz 40,000
+
+### bbl/day
+
+Lavan Island 30,000 bbl/day Bandar Abbas 232,000 bbl/day
+
+### Tapping the Industry
+
+US congressmen in particular are urging even more stringent sanctions on foreign companies investing in Iran's oil and gas sectors. In addition, the UN strongly urges that new grants or loans be barred, with the exception of those aimed toward humanitarianism. The lack of foreign investment and free trade policy looks as though it will further hinder the development of the industry into the future. According to the IEA, the sustainable production capacity is nearly 4 million barrels per day, or nearly 5% of worldwide demand. Any swing in these production levels will certainly have an impact on the tanker market and crude oil prices. In a tight supply/demand balance, additional saber rattling is not the preferred course of action.
+
+## Market Exhibits & Charts
+
+![Exhibit 1: Iran's Irony](../../../charts/poten/2007/poten_2007-03-16_irans-irony_chart1.png)
+
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-03-16_irans-irony_chart1.png)

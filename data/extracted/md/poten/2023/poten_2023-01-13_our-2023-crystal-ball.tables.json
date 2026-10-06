@@ -1,0 +1,25 @@
+{
+  "issue_date": "2023-01-13",
+  "year": 2023,
+  "title": "Our 2023 Crystal Ball",
+  "source_file": "corpus/04-poten/pdfs/2023/Weekly Opinion - 13 January 2023 - Our 2023 Crystal Ball.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2023-01-13_our-2023-crystal-ball_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2023/poten_2023-01-13_our-2023-crystal-ball_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-01-13_our-2023-crystal-ball_chart1.png",
+      "width": 959,
+      "height": 534
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

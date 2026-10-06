@@ -1,0 +1,27 @@
+---
+id: "7DEAD79B-8581-44F5-A660-C4BC5700A8A3"
+source: "Fearnleys"
+sector: "Crude Tankers"
+desk: "Aframax"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2019-07-08"
+year: 2019
+week: 28
+title: "Fearnleys Aframax Comment - 2019-07-08"
+---
+
+# Fearnleys Aframax Comment (2019-07-08)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Sector:** Crude Tankers
+- **Desk:** Aframax
+- **Publication Date:** 2019-07-08 (Week 28)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `7DEAD79B-8581-44F5-A660-C4BC5700A8A3`
+
+---
+
+## Market Commentary
+
+The Aframax market in the North Sea and Baltic continued to move sideways the past week, with the exception of a small setback for the cross-North Sea voyages. This simply comes down to the fact that there are too many relets open in the area, with little cargoes left for other owners to fix. In the Mediterranean and Black Sea, demand for cargo has grown over the week as the build-up of available tonnage increases. Luckily for owners, this demand was satisfied with a rush of cargoes coming into the market yesterday. However, the tonnage build up and recent increase of cargo activity has not resulted in a noteworthy rate fluctuation over the week; it seems supply is balancing out demand, and therefore rates continue moving sideways. TD19 for instance, as lurked around the ws90-mark all week. It will be interesting to see how the market develops towards the end of the month, especially in the North as more ships are leaving the area.

@@ -1,0 +1,53 @@
+---
+title: "Back Across The Pond"
+subtitle: ""
+issue_date: "2008-07-18"
+year: 2008
+author: "Poten & Partners"
+source: "poten"
+category: "tankers"
+pages: 3
+source_file: "corpus/04-poten/pdfs/2008/Tanker_Opinion_20080718.pdf"
+tables_count: 0
+charts_count: 1
+---
+
+# Back Across The Pond
+
+The clean product tanker market has become increasingly complex. New trade routes continue to crop up as traders work quickly to capitalize on available price arbitrage opportunities that arise in the commodity markets. Although regional supply and demand trends contribute to overall price levels, discrepancies in prices between regions are the result of many forces. One trade that has seen an increase in activity in the past year is diesel movements out of the United States to Europe. The chart below shows the fixture activity reported through today as compared to the prior two years. So far in 2008, a total of over 70 fixtures have been reported as compared to a total of 85 for the full year 2007. Although long thought of only as a backhaul, the continued presence of this trade enables shipowners to improve utilization on their vessels.
+
+### Diesel Fixture Activity from USA to Europe
+
+### Reported through 7/18
+
+### Fixture Count
+
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Poten & Partners _ x athens x guangzhou x hong kong x london x new york x perth x singapore 1 It can be expected that a small number of movements will take place regardless of the arbitrage due to system requirements within companies, yet the marked increase in volumes during the past three months indicates that larger pricing pressures may be in play. The chart below shows the relative prices for Ultra-Low Sulfur Diesel (ULSD) in the United States (New York) and Europe (Amsterdam-Rotterdam- Antwerp).
+
+### Price Arbitrage for Ultra Low Sulfur Diesel
+
+### Price incentive to move USA to Europe
+
+### $/MT
+
+### ULSD Europe vs. ULSD United States
+
+Data points in positive territory are a signal to move less expensive product from the United States into a higher priced European market. For the majority of the 2008, the market has seen this type of structure to varying degrees.
+
+### Freight Factors
+
+Traders must weigh the anticipated price spread made on the transfer of the cargo in the context of the current freight environment. Rates have been on the rise in the USA - UK Continent market for the past several months based on actual fixture activity.
+
+On average the Worldscale (WS) rate has increased from an average of WS 118.5 (nearly $17 per ton) in April to over WS 215 (over $30 per ton) for July to-date. The chart below shows the historical freight rates for the voyage Houston to Rotterdam on a dollar per metric ton basis.
+
+### Freight Rates USA - UK Continent
+
+### Transportation ($/MT)
+
+In the current environment, the difference in price of the diesel is approximately $70 per ton and the transportation costs for the trade are around $30 per ton. As long as diesel's delivered price in Europe pays its freight costs and adequately rewards traders for their risk, available cargoes will likely continue to flow trans-Atlantic. And with demand for diesel also expected to remain strong, the demand for product tankers is likely to follow suit.
+
+## Market Exhibits & Charts
+
+![Exhibit 1: Back Across The Pond](../../../charts/poten/2008/poten_2008-07-18_back-across-the-pond_chart1.png)
+
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-07-18_back-across-the-pond_chart1.png)

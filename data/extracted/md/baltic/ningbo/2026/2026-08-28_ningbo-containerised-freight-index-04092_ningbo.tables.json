@@ -1,0 +1,70 @@
+{
+  "issue_date": "2026-08-28",
+  "category": "ningbo",
+  "year": 2026,
+  "week": 35,
+  "title": "Ningbo Containerised Freight Index",
+  "source_file": "corpus/08-baltic/ningbo/2026/2026-08-28_ningbo-containerised-freight-index-04092_ningbo.html",
+  "tables": [
+    {
+      "name": "ncfi_route_index_values",
+      "headers": [
+        "Route",
+        "28-08-2026",
+        "21-08-2026",
+        "Weekly change (%)"
+      ],
+      "rows": [
+        {
+          "route": "Ningbo - Europe",
+          "index_current": 1797.24,
+          "index_prev": 1869.16,
+          "weekly_change_pct": -3.85
+        },
+        {
+          "route": "Ningbo - West Mediterranean",
+          "index_current": 1996.01,
+          "index_prev": 2149.46,
+          "weekly_change_pct": -7.14
+        },
+        {
+          "route": "Ningbo - East Mediterranean",
+          "index_current": 1614.13,
+          "index_prev": 1663.61,
+          "weekly_change_pct": -2.97
+        },
+        {
+          "route": "Ningbo - Middle East",
+          "index_current": 5719.94,
+          "index_prev": 5504.51,
+          "weekly_change_pct": 3.91
+        }
+      ]
+    },
+    {
+      "name": "ncfi_ports_served",
+      "headers": [
+        "Route",
+        "Port Served"
+      ],
+      "rows": [
+        {
+          "route": "Ningbo - Europe",
+          "port_served": "Hamburg & Rotterdam"
+        },
+        {
+          "route": "Ningbo - West Mediterranean",
+          "port_served": "Barcelona, Valencia & Genoa"
+        },
+        {
+          "route": "Ningbo - East Mediterranean",
+          "port_served": "Piraeus & Istanbul"
+        },
+        {
+          "route": "Ningbo - Middle East",
+          "port_served": "Dammam & Dubai"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "issue_date": "2015-06-05",
+  "year": 2015,
+  "title": "Are Tankers Going The Distance",
+  "source_file": "corpus/04-poten/pdfs/2015/Weekly-Opinion-June-5-2015-Are-Tankers-Going-The-Distance.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2015-06-05_are-tankers-going-the-distance_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2015/poten_2015-06-05_are-tankers-going-the-distance_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-06-05_are-tankers-going-the-distance_chart1.png",
+      "width": 925,
+      "height": 629
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

@@ -1,0 +1,34 @@
+{
+  "issue_date": "2019-12-20",
+  "year": 2019,
+  "title": "The End Of A Decade",
+  "source_file": "corpus/04-poten/pdfs/2019/Weekly-Opinion-20-December-2019-The-End-Of-A-Decade.pdf",
+  "tables_count": 0,
+  "charts_count": 2,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2019-12-20_the-end-of-a-decade_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2019/poten_2019-12-20_the-end-of-a-decade_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-12-20_the-end-of-a-decade_chart1.png",
+      "width": 975,
+      "height": 543
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2019-12-20_the-end-of-a-decade_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2019/poten_2019-12-20_the-end-of-a-decade_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-12-20_the-end-of-a-decade_chart2.png",
+      "width": 967,
+      "height": 551
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

@@ -1,0 +1,27 @@
+{
+  "report_id": "85b6aa8d-3c4d-4d68-b052-c9ed48e5d362",
+  "issue_date": "2025-06-18",
+  "year": 2025,
+  "department": "BULK",
+  "report_title": "Fearnleys Dry Bulk Weekly",
+  "shipment_volume_metrics": [],
+  "coal_futures_spread_metrics": [],
+  "time_charter_vs_asset_metrics": [],
+  "vessel_tightness_metrics": [],
+  "macro_correlation_metrics": [
+    {
+      "issue_date": "2025-06-18",
+      "year": "2025",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "macro_metric": "Copper 6M Change Lead vs Supramax 1Y TC 6M Change",
+      "freight_benchmark_val": -20.1,
+      "macro_indicator_val": 0.1,
+      "lead_tenor": "6 Months",
+      "chart_title": "COPPER PRICE VS SUPRAMAX 1 YEAR TC.png",
+      "report_id": "85b6aa8d-3c4d-4d68-b052-c9ed48e5d362"
+    }
+  ],
+  "charts_count": 12,
+  "source_markdown": "2025-06-18_fearnleys-dry-bulk-weekly-18th-june-2025-2.md"
+}

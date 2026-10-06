@@ -1,0 +1,34 @@
+{
+  "issue_date": "2024-10-25",
+  "year": 2024,
+  "title": "The Kingdom Has Options",
+  "source_file": "corpus/04-poten/pdfs/2024/Weekly Opinion - 25 Oct 2024 - The Kingdom Has Options.pdf",
+  "tables_count": 0,
+  "charts_count": 2,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2024-10-25_the-kingdom-has-options_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2024/poten_2024-10-25_the-kingdom-has-options_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-10-25_the-kingdom-has-options_chart1.png",
+      "width": 938,
+      "height": 524
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2024-10-25_the-kingdom-has-options_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2024/poten_2024-10-25_the-kingdom-has-options_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-10-25_the-kingdom-has-options_chart2.png",
+      "width": 931,
+      "height": 524
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

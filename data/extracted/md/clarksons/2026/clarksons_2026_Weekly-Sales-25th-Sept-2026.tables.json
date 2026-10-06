@@ -1,0 +1,46 @@
+{
+  "issue_date": "2026-09-25",
+  "printed_date": "25 Sept 2026",
+  "source_file": "clarksons_2026_Weekly-Sales-25th-Sept-2026.pdf",
+  "sales_count": 2,
+  "demo_count": 0,
+  "sales": [
+    {
+      "issue_date": "2026-09-25",
+      "stem": "clarksons_2026_Weekly-Sales-25th-Sept-2026",
+      "source_file": "clarksons_2026_Weekly-Sales-25th-Sept-2026.pdf",
+      "section": "Tanker Sales",
+      "page": 2,
+      "NAME": "SPEEDWAY",
+      "TYPE": "Suezmax",
+      "DWT": "158,594",
+      "BUILT": "2017",
+      "YARD": "HYUNDAI SAMHO",
+      "PRICE": "USD 99 M",
+      "BUYERS": "U/D",
+      "SS_DD": "SS 01/27 DD 01/27",
+      "COMMENTS": "B. & W. 6G70ME-C9.2",
+      "raw_built": "2017 HYUNDAI SAMHO",
+      "raw_details": "B. & W. 6G70ME-C9.2"
+    },
+    {
+      "issue_date": "2026-09-25",
+      "stem": "clarksons_2026_Weekly-Sales-25th-Sept-2026",
+      "source_file": "clarksons_2026_Weekly-Sales-25th-Sept-2026.pdf",
+      "section": "Tanker Sales",
+      "page": 2,
+      "NAME": "EUROINTEGRITY",
+      "TYPE": "Suezmax",
+      "DWT": "105,291",
+      "BUILT": "2009",
+      "YARD": "HHI",
+      "PRICE": "USD 60 M",
+      "BUYERS": "U/D",
+      "SS_DD": "SS 02/29 DD 03/27",
+      "COMMENTS": "B. & W. 6S60MC-C7.2",
+      "raw_built": "2009 HHI",
+      "raw_details": "B. & W. 6S60MC-C7.2"
+    }
+  ],
+  "demolitions": []
+}

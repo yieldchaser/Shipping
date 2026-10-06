@@ -1,0 +1,49 @@
+---
+title: "Gas Report - Week 34"
+date: "2026-08-21"
+display_date: "21 August 2026"
+year: 2026
+week: 34
+category: "gas"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/Gas/News/2026/gas-report-week-34.html"
+tags: ['Baltic Exchange', 'Gas', 'Freight Rates', 'VLGC', 'LNG', 'LPG']
+word_count: 374
+sections_count: 2
+tables_count: 0
+source_file: "corpus/08-baltic/gas/2026/2026-08-21_gas-report-week-34_gas.html"
+---
+
+# Gas Report - Week 34
+
+**Date:** 21 August 2026  
+**Publisher:** Baltic Exchange | **Category:** Gas  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/Gas/News/2026/gas-report-week-34.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/Gas/News/2026/gas-report-week-34.html)  
+
+---
+
+### LNG
+
+The LNG market remained under pressure this week, with rates continuing to move lower across all three routes. Atlantic freight came under particular strain as a growing list of open vessels competed for a limited number of cargoes, while East of Suez conditions remained relatively more balanced.
+
+On the BLNG1 Australia–Japan route, rates declined by $2,400 week-on-week to settle at $64,100/day. While the Pacific market held firmer than the Atlantic, limited cargo activity and ample vessel availability weigh on sentiment.
+
+The BLNG2 US Gulf–Continent route fell by $10,200 to close at $17,700/day. The route remained under significant pressure throughout the week as the increasing tonnage list and lack of fresh enquiries continued to push rates lower.
+
+Similarly, the BLNG3 US Gulf–Japan route declined $9,400 week-on-week to settle at $32,600/day. Driven by the same market fundamentals which weighed down sentiment for long haul voyages to the east.
+
+In the time charter market, sentiment softened across all periods. The six-month rate fell by $8,400 to $61,000/day, while the one-year term declined by $3,900 to $59,667/day. Further out the curve, the three-year period eased by $1,000 to $73,500/day.
+
+### LPG
+
+The LPG market was active this week, with a healthy level of fixture activity reported across the VLGC sector. Despite this, freight rates softened as charterers remained unwilling to push rates above certain levels. At the same time, the inherent tightness in the front-end tonnage list helped prevent a more significant correction.
+
+On the BLPG1 Ras Tanura–Chiba route, rates settled at $219.75, with TCE earnings closing at $209,796/day.
+
+The BLPG2 Houston–Flushing route declined by $6.50 week-on-week to settle at $156.00, with TCE earnings falling by $10,493 to $178,950/day. While fixing activity remained steady, charterer resistance to higher freight levels weighed on rates throughout the week.
+
+Similarly, the BLPG3 Houston–Chiba route fell $7.83 to close at $269.50, while TCE returns decreased by $5,942 to $156,469/day. The route remained relatively supported by the tight tonnage list, which prevented rates from falling further.
+
+---
+
+**Tags:** Baltic Exchange, Gas, Freight Rates, VLGC, LNG, LPG  

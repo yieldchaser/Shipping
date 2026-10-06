@@ -1,0 +1,25 @@
+{
+  "issue_date": "2026-07-17",
+  "year": 2026,
+  "title": "Backup Plans",
+  "source_file": "corpus/04-poten/pdfs/2026/Weekly Opinion - 17 July 2026 - Backup Plans.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2026-07-17_backup-plans_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2026/poten_2026-07-17_backup-plans_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-07-17_backup-plans_chart1.png",
+      "width": 963,
+      "height": 833
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

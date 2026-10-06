@@ -1,0 +1,43 @@
+{
+  "issue_date": "2005-04-22",
+  "year": 2005,
+  "title": "What Me Worry?",
+  "source_file": "corpus/04-poten/pdfs/2005/Tanker_Opinion_20050422.pdf",
+  "tables_count": 0,
+  "charts_count": 3,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2005-04-22_what-me-worry_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2005/poten_2005-04-22_what-me-worry_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-04-22_what-me-worry_chart1.png",
+      "width": 542,
+      "height": 401
+    },
+    {
+      "chart_num": 2,
+      "page": 3,
+      "file_name": "poten_2005-04-22_what-me-worry_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2005/poten_2005-04-22_what-me-worry_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-04-22_what-me-worry_chart2.png",
+      "width": 1108,
+      "height": 567
+    },
+    {
+      "chart_num": 3,
+      "page": 3,
+      "file_name": "poten_2005-04-22_what-me-worry_chart3.png",
+      "rel_path": "data/extracted/charts/poten/2005/poten_2005-04-22_what-me-worry_chart3.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-04-22_what-me-worry_chart3.png",
+      "width": 1012,
+      "height": 695
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

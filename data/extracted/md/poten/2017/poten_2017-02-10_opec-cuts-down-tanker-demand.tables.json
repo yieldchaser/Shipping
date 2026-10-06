@@ -1,0 +1,25 @@
+{
+  "issue_date": "2017-02-10",
+  "year": 2017,
+  "title": "OPEC Cuts Down Tanker Demand",
+  "source_file": "corpus/04-poten/pdfs/2017/Weekly-Opinion-10-February-2017-OPEC-Cuts-Down-Tanker-Demand.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2017-02-10_opec-cuts-down-tanker-demand_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2017/poten_2017-02-10_opec-cuts-down-tanker-demand_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-02-10_opec-cuts-down-tanker-demand_chart1.png",
+      "width": 963,
+      "height": 959
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

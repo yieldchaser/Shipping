@@ -1,0 +1,57 @@
+---
+title: "Week 16"
+date: "2015-04-17"
+display_date: "17 April 2015"
+year: 2015
+week: 16
+category: "tanker"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/tanker/news/2015/week-160.html"
+tags: ['Baltic Exchange', 'Tankers', 'Freight Rates', 'VLCC', 'Suezmax', 'Aframax', 'Clean', 'Dirty']
+word_count: 756
+sections_count: 5
+tables_count: 0
+source_file: "corpus/08-baltic/tanker/2015/2015_week-160_tanker.html"
+---
+
+# Week 16
+
+**Date:** 17 April 2015  
+**Publisher:** Baltic Exchange | **Category:** Tankers  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/tanker/news/2015/week-160.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/tanker/news/2015/week-160.html)  
+
+---
+
+### VLCCs
+
+In the Middle East Gulf, the market has remained steady, with rates for Singapore basis 270,000 tonnes holding at WS 65 and long east at around WS 62.5. Going west, Bahri have been active and have paid both WS31 and also WS 33 cape/cape basis 280,000 tonnes to the US Gulf.
+
+In West Africa, at the start of the week, CPC covered on a Total re-let for 260,000 West Africa to Taiwan at WS 61. Thereafter the main interest from West Africa has been in to Cilacap for which Shell fixed and failed at WS 65. ST is now on subs at WS 65 for the same voyage. From the Mediterranean, Bahri are understood to have taken the ‘Nave Synergy’ basis 280,000 tonnes at WS 69.5 for a short run from Sidi Kerir to Rotterdam. The Caribbean has remained steady with both $5.65 and $5.7 million paid for Caribbean/Singapore runs.
+
+### Suezmaxes
+
+In West Africa, an active week saw rates initially being maintained at WS 67.5, thereafter as more enquiry came in to the market, owners were able to push rates up gradually – Shell paid WS 68.75 and thereafter ‘Sikinos’ agreed WS 72.5 for Saras from Angola to Italy. The arb has also opened for fuel going from UK-Cont-Baltic/going east, thereby taking away potential ballasters to West Africa which according to brokers seems to be firming. It is now reported that Petroineos have taken Gemini tonnage to UK-Cont-Med off 4/5 May at WS 75 and Exxon now rumoured to have paid WS 77.5 but no further details to hand yet.
+
+In the Black Sea, rates have been holding at WS 77.5 to UK-Cont-Med. However with West Africa firming and tonnage tightening accordingly, combined with sustained enquiry and interest from Mediterranean, and also from Black Sea going east and to India, rates could well come under renewed upward pressure.
+
+### Aframaxes
+
+The Mediterranean has been steady at around low WS 100s for Cross-med runs with rates being both voyage and date sensitive – a long voyage from Ceyhan to Fos was fixed at WS 102.5, while shorter runs from Ceyhan to Italy have subsequently been covered at both WS 105 and WS 107.5, while a short Algeria/Portugal trip went at WS 107.5. Black Sea levels dropped to WS 105 but then a replacement cargo off end April is understood to have been booked at WS 120.
+
+A busy program in both the Baltic and North Sea, together with some prompt cargoes, saw the tonnage list quickly depleted and rates in the Baltic for 100,000 tonnes rose from around WS 100/102.5 at the start of the week to now sit at WS 120 level. The North Sea has likewise benefited and rates firmed from WS 115 at the start of the week to WS 140 level, with suezmaxes also being enticed to play this market, largely due to shortage of Aframax tonnage there.
+
+In the Caribbean, in the early part of week, the market for 70,000 tonnes going up coast continued its fall with a low of WS 132.5 being reached. Thereafter, with the early tonnage covered and sustained enquiry, owners managed to regain some lost ground with WS 142.5 being agreed from Bajo Grande while a prompt Mexico cargo went at WS 147.5.
+
+### Panamaxes
+
+After WS 115 from Continent to US Gulf for 55,000 tonnes was done, April tonnage has been thinned somewhat, leading to more bullish ideas from owners who are now understood to be aiming for WS 120 plus for this trade.
+
+### Clean
+
+It has been an uneventful week in the market for 37,000 tonnes from Continent to USAC where rates have held steady at WS 140. On the 38,000 tonne backhaul route from US Gulf to UK Continent, it has been a week of two halves with the market firming modestly from high WS 80s up  to WS 95 on the back of some prompt enquiry, as steady demand  for central and South America initially took away tonnage. However, from mid-week onwards sentiment has become more bearish and levels have now eased bringing the market back to where it was this time last week with reports of WS 85/87.5 being agreed here.
+
+For daily tanker market assessments from the Baltic Exchange please visit [www.balticexchange.com/market-information/](http://www.balticexchange.com/market-information/)
+
+---
+
+**Tags:** Baltic Exchange, Tankers, Freight Rates, VLCC, Suezmax, Aframax, Clean, Dirty  

@@ -1,0 +1,25 @@
+{
+  "issue_date": "2010-05-21",
+  "year": 2010,
+  "title": "Far Eastern Exports?",
+  "source_file": "corpus/04-poten/pdfs/2010/Tanker_Opinion_20100521.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2010-05-21_far-eastern-exports_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2010/poten_2010-05-21_far-eastern-exports_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2010/poten_2010-05-21_far-eastern-exports_chart1.png",
+      "width": 934,
+      "height": 782
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

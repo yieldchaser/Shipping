@@ -1,0 +1,109 @@
+---
+title: "Doric-China Barometer part 2/2"
+date: "2023-01-06"
+display_date: "January 06, 2023"
+year: 2023
+category: "insights"
+source: "Breakwave Advisors"
+url: "https://www.breakwaveadvisors.com/insights/2023/1/5/dycuxk1g12t19gzz151msbfpxla6zb"
+images_count: 6
+word_count: 1092
+source_file: "corpus/03-breakwave/insights/2023/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb.html"
+---
+
+# Doric-China Barometer part 2/2
+
+**Date:** January 06, 2023  
+**Publisher:** Breakwave Advisors | **Category:** Market Insights  
+**Original URL:** [https://www.breakwaveadvisors.com/insights/2023/1/5/dycuxk1g12t19gzz151msbfpxla6zb](https://www.breakwaveadvisors.com/insights/2023/1/5/dycuxk1g12t19gzz151msbfpxla6zb)  
+
+---
+
+*By*[*Michalis Voutsinas*](https://www.linkedin.com/in/michalis-voutsinas-587544163/)*and Helen Vlassi*
+
+## Crude Oil/natural Gas
+
+- China brought in 46.74 million tonnes of crude oil in November, equivalent to 11.37 million barrels per day, or circa 12.0 percent down from a year earlier.
+- November’s reading rebounded to the highest level in the last 10 months as companies replenished stocks and new plants started up.
+- From January to November, crude imports totalled 460.26 million tonnes, down 1.4 percent from a year earlier.
+- Chinese state refiners stepped up purchases of US crude oil , while imports of Russian oil reported a 14-fold increase to circa 1 million barrelsin November.
+- China’s imports of natural gas increased to a 10-months high of 10.32 million tonnes in November, reversing from 7.61 million tonnes in previous month.
+- From January to November, China total imports stood at 99.2 million tonnes, down circa 10.4 percent from a year earlier.
+
+![1 (2)](assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128229_3fd930bcd97f.png)
+
+> **Figure 1: 1 (2)**  
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128229_3fd930bcd97f.png)
+
+## Iron Ore
+
+- China brought in 98.85 million tonnes of iron ore in November, down by circa 5.8 percent year-on-year.
+- During the first eleven months of 2022, China imported 1.02 billion tonnes of iron ore, a dive of 2.1 percent from 1.04 billion tonnes reported in the same period a year earlier.
+- November’s imports of iron ore rose by 4.1 percent from October’s reading, as buyers stocked up before the end of the year.
+- During November, 74.54 million metric tonnes of crude iron ore has been extracted in China, or up circa 7.3 percent year-on-year.
+- On a monthly basis, iron ore output decreased by 6.54 percent in November, down from 79.76 million tonnes reported in October.
+- From January to November, 735.11 million metric tonnes of crude iron ore has been extracted in China, or down circa 1.4 percent year-on-year.
+
+![1 (3)](assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128329_d47fd535c211.png)
+
+> **Figure 2: 1 (3)**  
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128329_d47fd535c211.png)
+
+## Coal
+
+- China imported 32.31 million tonnes of coal in November, up 7.8 percent year-onyear.
+- On a monthly basis, China’s coal imports stood 10.7 percentage points higher.
+- From January to November, Chinese customs cleared a total of 262.41 million metric tonnes or circa 10.0 percent down year-on-year.
+- China’s government has been urging coalfired power plants to build stockpiles to ensure stable heating and electricity supplies during winter.
+- Reporting a rise of 5.2 percent year-onyear, China’s domestic coal output balanced at 390.0 million tonnes in November, or 13.04 million tonnes per day.
+- China’s domestic coal output during first eleven months of 2022 rose by circa 9.7 percent from a year earlier to 4.09 billion metric tonnes.
+- China’s daily coal output hit an all time high in November as miners increased operations to meet higher heating demand.
+
+![1 (4)](assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128429_05d3834c7bfe.png)
+
+> **Figure 3: 1 (4)**  
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128429_05d3834c7bfe.png)
+
+## Grains
+
+- China total soybean imports decreased by 1.4 percent from a year earlier in November to 7.35 million tonnes.
+- China’s November imports stood 77.5 percent higher than a reading of 4.14 million tonnes in the previous month, reversing from a straight five-month trend of low arrivals.
+- During the first eleven months of 2022, China’s total imports of soybean totalled 80.53 million tonnes, or circa 8.1 percent lower than a year ago.
+- China’s corn imports balanced at 0.74 million tonnes in November, down by circa 5.8 percent year-on-year.
+- China’s wheat imports in November increased by circa 25.5 percent from a year earlier, to 1.6 million tonnes.
+- China imported 2.35 million tonnes of grains on top of soybean imports in November, or circa 46.7 percent down year-on-year.
+
+![1 (5)](assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128529_51a889214d33.png)
+
+> **Figure 4: 1 (5)**  
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128529_51a889214d33.png)
+
+## Minors (Exports)
+
+- China fertilizer exports in November stood at 2.2 million tonnes, up circa 10.5 percent year-on-year.
+- During the first eleven months of 2022, China exported circa 22.0 million tonnes of fertilizers, down by 34.4 percent yearon-year.
+- Chinese authorities maintained hurdles for fertilizer exporters amid growing concerns over surging power prices and food production.
+- China’s total finished steel exports shrank to 4.36 million tonnes for the fifth-straight month in November, or down 0.9 percent year-on-year.
+- Chinese steel exports during the first eleven months of 2022, lay at 61.88 million tonnes or up 26.7 percent year-onyear.
+- November’s steel exports balanced at 0.3 percent lower than a reading of 5.18 million tonnes a month earlier.
+
+![1 (6)](assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128629_4e0598898bbe.png)
+
+> **Figure 5: 1 (6)**  
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128629_4e0598898bbe.png)
+
+## Minors (Imports)
+
+- China’s steel imports during November fell by 23.0 percent year-on-yearto 1.42 million tonnes.
+- From January to November, Chinese steel imports stood 30.0 percent lower than the respective period a year earlier, at 13.27 million tonnes.
+- On a monthly basis, China’s November imports trended 26.0 percent higher. MINORS
+- In November, Chinese timber imports balanced at 5.93 million CBM .
+- On a year-on-year basis, November’s timber imports decreased by circa 21.1 percent.
+- From January to November, China brought in 64.2 million CBM of timber and logs, or down circa 24.6 percent year-on-year.
+
+![1 (8)](assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128829_decb346463f0.png)
+
+> **Figure 6: 1 (8)**  
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128829_decb346463f0.png)
+
+Data source:[Doric](https://www.doric.gr/)

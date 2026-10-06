@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "publisher": "SSY",
+    "title": "SSY Atlantic Capesize Index",
+    "basin": "Atlantic",
+    "issue_date": "2021-11-29",
+    "report_week": 48,
+    "year": 2021,
+    "rates_date_curr": "2021-11-29",
+    "rates_date_prev": "2021-11-22",
+    "publication_date_text": "2015-07-17"
+  },
+  "commentary": {
+    "market_commentary": "The SSY Atlantic Capesize index regained 869 points in the week to 29 November, reaching 13,582 points. Both the round-voyage and fronthaul rates experienced gains, up $4,500/day and $4,250/day to $38,000/day and $52,750/day, respectively.",
+    "index_notes": "The Atlantic Capesize Index started at 5,000 points on 2 October 1989 and has since been subject to periodic updating to reflect changing trade patterns. The latest update was on 17 July 2015.",
+    "contact_info": "For more information contact David Beard/Derek Langston"
+  },
+  "calculated_index": {
+    "value_prev": 12713.0,
+    "value_curr": 13582.0,
+    "previous_index": {
+      "prev": -469.0,
+      "curr": 869.0
+    },
+    "four_weeks": {
+      "prev": -5497.0,
+      "curr": -818.0
+    },
+    "previous_year": {
+      "prev": 6857.0,
+      "curr": 7483.0
+    },
+    "two_years": {
+      "prev": 4528.0,
+      "curr": 5813.0
+    }
+  },
+  "trade_rates": [
+    {
+      "route": "NARVIK/ROTTERDAM",
+      "cargo_size": "150,000/10%",
+      "weight_pct": "10.0%",
+      "rate_prev": 8.3,
+      "rate_curr": 8.9,
+      "change_usd_t": 0.6
+    },
+    {
+      "route": "TUBARAO/ROTTERDAM",
+      "cargo_size": "160,000/10%",
+      "weight_pct": "10.0%",
+      "rate_prev": 15.1,
+      "rate_curr": 16.0,
+      "change_usd_t": 0.9
+    },
+    {
+      "route": "RICHARDS BAY/ROTTERDAM",
+      "cargo_size": "150,000/10%",
+      "weight_pct": "10.0%",
+      "rate_prev": 14.65,
+      "rate_curr": 15.55,
+      "change_usd_t": 0.9
+    },
+    {
+      "route": "HAMPTON ROADS/ROTTERDAM",
+      "cargo_size": "120,000/10%",
+      "weight_pct": "10.0%",
+      "rate_prev": 18.5,
+      "rate_curr": 19.65,
+      "change_usd_t": 1.15
+    },
+    {
+      "route": "PUERTO BOLIVAR/ROTTERDAM",
+      "cargo_size": "150,000/10%",
+      "weight_pct": "10.0%",
+      "rate_prev": 15.35,
+      "rate_curr": 16.45,
+      "change_usd_t": 1.1
+    },
+    {
+      "route": "NOUADHIBOU/QINGDAO",
+      "cargo_size": "140,000/10%",
+      "weight_pct": "10.0%",
+      "rate_prev": 32.3,
+      "rate_curr": 34.0,
+      "change_usd_t": 1.7
+    },
+    {
+      "route": "TUBARAO/JAPAN",
+      "cargo_size": "160,000/10%",
+      "weight_pct": "10.0%",
+      "rate_prev": 25.7,
+      "rate_curr": 27.4,
+      "change_usd_t": 1.7
+    },
+    {
+      "route": "TUBARAO/QINGDAO",
+      "cargo_size": "160,000/10%",
+      "weight_pct": "10.0%",
+      "rate_prev": 26.1,
+      "rate_curr": 27.8,
+      "change_usd_t": 1.7
+    },
+    {
+      "route": "T/C TRIP CONT/FAR EAST",
+      "cargo_size": "180,000 DWT",
+      "weight_pct": "10.0%",
+      "rate_prev": 8.19,
+      "rate_curr": 8.91,
+      "change_usd_t": 0.72
+    },
+    {
+      "route": "T/C TRANSATLANTIC ROUND",
+      "cargo_size": "180,000 DWT",
+      "weight_pct": "10.0%",
+      "rate_prev": 5.66,
+      "rate_curr": 6.42,
+      "change_usd_t": 0.76
+    }
+  ],
+  "timecharter_day_rates": [],
+  "chart_series": {
+    "available": true,
+    "n_series": 3,
+    "total_points": 149,
+    "relative_gap_vs_printed": 0.0175
+  },
+  "n_trade_routes": 10,
+  "n_tc_routes": 0
+}

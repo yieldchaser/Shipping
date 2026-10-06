@@ -1,0 +1,42 @@
+{
+  "issue_date": "2007-01-26",
+  "year": 2007,
+  "title": "Doubling the SPR",
+  "source_file": "corpus/04-poten/pdfs/2007/Tanker_Opinion_20070126.pdf",
+  "tables_count": 1,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2007-01-26_doubling-the-spr_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2007/poten_2007-01-26_doubling-the-spr_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-01-26_doubling-the-spr_chart1.png",
+      "width": 434,
+      "height": 359
+    }
+  ],
+  "tables": [
+    "| Rank | Charterer | Reported Total Cargo (MT 000s) | % of Total Dirty Cargoes | Prev Rank | Fixtures |\n| --- | --- | --- | --- | --- | --- |\n| 1 | UKC | 3,646 | 3.3% | 1 |  |"
+  ],
+  "charterers_count": 1,
+  "charterer_rows": [
+    {
+      "rank": 1,
+      "charterer": "UKC",
+      "cargo_mt_000s": "3,646",
+      "pct_total_cargo": "3.3%",
+      "fixtures_count": "",
+      "pct_fixtures": "",
+      "prev_rank": "1",
+      "issue_date": "2007-01-26",
+      "year": 2007,
+      "report_period": "2006",
+      "segment": "Overall",
+      "source_file": "corpus/04-poten/pdfs/2007/Tanker_Opinion_20070126.pdf"
+    }
+  ],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

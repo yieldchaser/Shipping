@@ -1,0 +1,34 @@
+{
+  "issue_date": "2019-04-12",
+  "year": 2019,
+  "title": "More Oil In The Pipeline",
+  "source_file": "corpus/04-poten/pdfs/2019/Weekly-Opinion-12-April-2019-More-Oil-In-The-Pipeline.pdf",
+  "tables_count": 0,
+  "charts_count": 2,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2019-04-12_more-oil-in-the-pipeline_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2019/poten_2019-04-12_more-oil-in-the-pipeline_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-04-12_more-oil-in-the-pipeline_chart1.png",
+      "width": 976,
+      "height": 560
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2019-04-12_more-oil-in-the-pipeline_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2019/poten_2019-04-12_more-oil-in-the-pipeline_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-04-12_more-oil-in-the-pipeline_chart2.png",
+      "width": 1014,
+      "height": 470
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

@@ -1,0 +1,43 @@
+---
+title: "Bulk Report – Week 44"
+date: "2020-10-30"
+display_date: "30 October 2020"
+year: 2020
+week: 44
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2020/bulk-report---week-44.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 658
+sections_count: 4
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2020/2020-10-30_bulk-report---week-44_dry.html"
+---
+
+# Bulk Report – Week 44
+
+**Date:** 30 October 2020  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2020/bulk-report---week-44.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2020/bulk-report---week-44.html)  
+
+---
+
+### Capesize
+
+The Capesize market was grasping for a bullish story this week as a possible mid-week rally fell flat. Following that, rates collapsed down to $15,550 on the Capesize 5TC, a drop of $3,199 for the week. Positive news of Vale’s increased production in the last quarter comes as little comfort to owners who this week saw the Brazil to China C3 index plummet $2.33 to close the week at $15.095. The fronthaul market continues to be lukewarm on activity with earnings now gravitating close to the $30,000 mark. In the Pacific the major miners have been active throughout the week as they now are focusing on mid-November laycans. The C5 West Australia to China route did take a battering late in the week and is now trading close to the low of its recent trading range from the past few months at $7.10. The close of the week was timid with little activity. Several small sparks of resistance by owners were heard which may place some support under this current level as thoughts of an imminent rally do not seem on the cards.
+
+### Panamax
+
+The market in the Atlantic seems to have been driven by the need for tonnage to load in the Baltic for various destinations. With the shorter voyages commanding a premium, it gave a lift for the longer trans-Atlantic and front haul trips. There was good activity for US Gulf loading, but South America still lacked much fresh cargo, overall it remains to be seen if the sentiment pushes into next week. Conversely the Pacific lost value every day this week, with some suggesting the lack of coal cargoes and poor ECSA market is discouraging ballasting. Tonnage is beginning to look a little oversupplied: round voyages in the Pacific now seem to pay in the $9,000’s on smaller tonnage with a higher level for the Kamsarmaxes..
+
+### Ultramax/Supramax
+
+A rather subdued week overall with rates in the Atlantic generally on a negative slide. However,  the US Gulf remained steady with a 58,000-dwt fixing an inter Caribbean trip redelivery east coast Mexico in the mid $12,000s. Limited fresh enquiry from both the Continent and the Mediterranean saw tonnage availability increase, but earlier in the week a 57,000-dwt open Turkey was linked to a fronthaul in the upper $23,000s. There was limited activity from east coast south America with the Ultramax size seeing in the low-mid teens for transatlantic runs. From Asia, it was a mixed bag. Indonesian coal stems remained steady. A scrubber fitted 60,000-dwt fixed delivery south China via Indonesia redelivery west coast India in the mid $9,000s. From north Asia, a 60,000-dwt was fixed delivery CJK for a north Pacific round redelivery Singapore-Japan at $10,000. The Indian Ocean was also quieter than of late, a 58,000-dwt fixing a trip from Red Sea to west coast India at $15,000.
+
+### Handysize
+
+Overall it was a lacklustre week with the Atlantic market being slightly quieter than usual. There appeared to be a thin volume of fixing despite brokers suggesting the Continent region is remaining firm. Meanwhile, east coast South America remained flat throughout the week whilst the US Gulf market declined further. A 34,000-dwt was fixed from the US Gulf to UK Continent at mid-high $11,000s, and a 39,000-dwt was booked for moving petcoke from the Gulf to Israel at $15,000. A 34,000-dwt open Morocco was fixed for a trip via Sweden to Sea of Marmara at a rate close to $14,000 with scrap cargo. A 38,000-dwt was fixed from east coast South America to east coast Mexico with pig iron at $10,000. In the Pacific, a 34,000-dwt open north China was fixed for a trip to Bangladesh at high $7,000s.
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  

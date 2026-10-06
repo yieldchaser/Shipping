@@ -1,0 +1,45 @@
+---
+title: "Bulk Report – Week 16"
+date: "2020-04-17"
+display_date: "17 April 2020"
+year: 2020
+week: 16
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2020/bulk-report---week-16.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 595
+sections_count: 4
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2020/2020-04-17_bulk-report---week-16_dry.html"
+---
+
+# Bulk Report – Week 16
+
+**Date:** 17 April 2020  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2020/bulk-report---week-16.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2020/bulk-report---week-16.html)  
+
+---
+
+### Capesize
+
+This week was the strongest period seen for the Capesize market in several months. All routes globally succumbed to improved sentiment, albeit the Pacific Basin lagged somewhat, with the West Australia to China C5’s usual flow proving resistant. Ending the week on a high, the C5 route added +0.232 to settle at $4.918. The Pacific round voyage route C10 opened the week at a premium to the Transatlantic C8. However, this was quickly surpassed, as the Atlantic Basin saw a lifting of cargo levels to available tonnage as several fixtures posted stronger returns. The Atlantic C8 stands at $10,075 to the Pacific C10 at $8,500. The Atlantic Basin was ignited predominantly on fronthaul C9 and ballaster routes back to the Far East. While fundamentals don’t appear drastically changed the push-pull between the Basins is now in motion, adding volatility and opportunity at above OPEX levels. The Capesize 5TC opened the shortened week at $6,762 to close out at $9,875.
+
+### Panamax
+
+Easter holidays impacted the market last week, with only minor movements in the Baltic Panamax Index (BPI). Baltic mineral trades proved active, so too were South American fronthaul grains, particularly from North Coast South America (NCSA). Rates crept up a little from NCSA, with $13,350 plus $335,000 ballast bonus being paid for an 82,000dwt ship. Rates for Baltic round trips generally hovered around the $5,000 mark, but activity elsewhere was limited. In the Pacific, grain demand from the North Pacific started brightly. An 82,000dwt ship achieving $8,250 for a trip via the North Pacific, back to Singapore-Japan. However, generally demand in the region eased as the week went on, in turn weakening rates in the process.  Some brief activity this week in the period market included a well described 82,000dwt ship agreeing to $10,850 for one year’s period.
+
+### Supramax/Ultramax
+
+With the ongoing Covid-19 situation the market remained bleak, with a lack of fresh enquiry and tonnage readily available in most areas. Period activity was sparse, but a 60,000dwt ship, open Campha, was linked to about six to nine months trading at $8,500. From the Atlantic, East Coast South America lacked impetus, while from the US Gulf, an Ultramax was rumoured fixing in the mid $12,000s for trips to the Far East. From the Continent, a 56,000dwt ship was fixed delivery Baltic trip, redelivery East Mediterranean, in the mid $5,000s. Little encouragement was seen from Asia as well. A 56,000dwt vessel fixing delivery Philippines trip, via Australia, redelivery Singapore-Japan, at $5,000. A 52,000dwt ship fixing an Indonesia coal run to China at $4,400. There were a few green shoots appearing from the Indian Ocean, with a 61,000dwt vessel covering a trip delivery West Coast India, via Aqaba, redelivery East Coast India, at $6,500.
+
+### Handysize
+
+A short week with the overall Baltic Handysize Index (BHSI) falling below 300 after the Easter weekend. By the end of the week, the BHSI had declined to the same level last seen in April 2016. Little fresh cargo emerged in key areas, with sentiment remaining negative throughout the week. Whilst the tonnage supply was getting more excessive in both Basins, brokers saw limited market information or movement, suggesting more pressure on owners to get their vessels fixed any closer to the level of last done.
+
+For daily dry bulk assessments from the Baltic Exchange please visit [www.balticexchange.com/market-information/](http://www.balticexchange.com/market-information/)
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  

@@ -1,0 +1,43 @@
+---
+title: "Bulk Report – Week 7"
+date: "2023-02-17"
+display_date: "17 February 2023"
+year: 2023
+week: 7
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2023/bulk-report-week-7.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 681
+sections_count: 4
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2023/2023-02-17_bulk-report-week-7_dry.html"
+---
+
+# Bulk Report – Week 7
+
+**Date:** 17 February 2023  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2023/bulk-report-week-7.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2023/bulk-report-week-7.html)  
+
+---
+
+### Capesize
+
+There was an overriding negative sentiment in the sector this week as the Cape 5TC average fell from $4,432 to $2,246 on Friday. This was largely led by the Atlantic and a number of fixtures are down significantly. However, it was also due to a lack of cargoes available. Owners are reportedly considering idling tonnage to wait out a recovery. The Pacific was busy with all of the miners in the market throughout the week, but the C5 route was fixing at $6.30 at the start to $6.05 by the end. There was very little activity from Brazil, with fixtures for end March dates reported in the region of $16.25. There were backhaul cargoes reported at fixed negative $10-12,000, but cargoes from Canada and Colombia to the Far East dragged the market down. With the onset idling tonnage, a recovery is not expected by Owners to be on the immediate horizon. Without fresh cargoes away from the usual West Australia - and shorter runs - the current low returns may continue. However, some were reporting a floor may have been reached.
+
+### Panamax
+
+A healthy amount of activity, but overall rates remained under downward pressure in most areas. The Atlantic saw a reasonable amount of volume from South America and rates were seen basis delivery EC South America in the mid $14,000s plus mid $400,000s ballast bonus for nearby dates. From Asia, again there were little signs of a change of direction as Owners were just happy to get their vessels covered. Rates for an Australian round were generally in the $8,000s for an 82,000-dwt, dependent on delivery point. Limited volume from Indonesia saw a 75,000-dwt fixing delivery Philippines for a round voyage at $7,000. Period activity saw Owners seeking short term period. It also surfaced that an 81,000-dwt open South China fixed for six to nine months trading redelivery worldwide at $14,500 for the first six months and then $16,000 for balance.
+
+### Ultramax/Supramax
+
+A more positive feel generally during the course of the week. The Atlantic saw stronger demand from the US Gulf and more grain movements from the East Mediterranean buoyed demand from there. A Supramax was heard to have been fixed basis delivery Canakkale trip via Ukraine to Bangladesh in the $17,000s. From South America there appeared to be a clear out of prompt tonnage and demand could grow - but it was to early to see much upward movement in rate. From Asia again better levels of enquiry were seen from the south. A 58,000-dwt was heard fixed basis delivery Indonesia via Australia redelivery Singapore-Japan in the mid $12,000s. Meanwhile, a 55,000-dwt open Surabaya fixed a trip via Indonesia redelivery China at $9,000. The Indian Ocean saw activity and a 56,000-dwt fixed a trip delivery Salalah to East Coast India at $13,500. Period activity was limited but a 61,000-dwt open Bin Qasim fixed short period in the upper $13,000s.
+
+### Handysize
+
+Glimmers of positivity crept into the sector, but some cautioned that it could be short-lived. A 32,000-dwt was fixed for a trip from Lisbon to the US Gulf at $8,000. A 32,000-dwt fixed from Jorf Lasfar to Nemrut Bay with an intended cargo of steel billets at $6,500. A 35,000-dwt fixed basis delivery United Kingdom for a trip to the Eastern Mediterranean with an intended cargo of scrap at $8,150. Elsewhere from South America, a 35,000-dwt was heard fixed delivery Pecem trip redelivery US Gulf with steels at $8,000. From Asia it was finely balanced. A 34,000-dwt was rumoured to have been placed on subjects for a trip from Jakarta via Western Australia to Taiwan with a cargo of salt at $9,000. There was also still an appetite from Charterers for longer duration with a 32,000-dwt open Vietnam fixing for two to three laden legs at $10,250.
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  

@@ -1,0 +1,25 @@
+{
+  "issue_date": "2005-01-14",
+  "year": 2005,
+  "title": "The $70 Million Dollar Man",
+  "source_file": "corpus/04-poten/pdfs/2005/Tanker_Opinion_20050114.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2005-01-14_the-70-million-dollar-man_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2005/poten_2005-01-14_the-70-million-dollar-man_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-01-14_the-70-million-dollar-man_chart1.png",
+      "width": 542,
+      "height": 438
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

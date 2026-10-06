@@ -1,0 +1,25 @@
+{
+  "issue_date": "2017-03-17",
+  "year": 2017,
+  "title": "Big Remains Beautiful",
+  "source_file": "corpus/04-poten/pdfs/2017/Weekly-Opinion-17-March-2017-Big-Remains-Beautiful.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2017-03-17_big-remains-beautiful_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2017/poten_2017-03-17_big-remains-beautiful_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-03-17_big-remains-beautiful_chart1.png",
+      "width": 945,
+      "height": 1196
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

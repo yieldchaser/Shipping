@@ -1,0 +1,51 @@
+{
+  "issue_date": "2005-09-30",
+  "year": 2005,
+  "title": "Down for the Count!",
+  "source_file": "corpus/04-poten/pdfs/2005/Tanker_Opinion_20050930.pdf",
+  "tables_count": 1,
+  "charts_count": 2,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2005-09-30_down-for-the-count_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2005/poten_2005-09-30_down-for-the-count_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-09-30_down-for-the-count_chart1.png",
+      "width": 542,
+      "height": 401
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2005-09-30_down-for-the-count_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2005/poten_2005-09-30_down-for-the-count_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-09-30_down-for-the-count_chart2.png",
+      "width": 1443,
+      "height": 811
+    }
+  ],
+  "tables": [
+    "| Rank | Charterer | Reported Total Cargo (MT 000s) | % of Total Dirty Cargoes | Prev Rank | Fixtures |\n| --- | --- | --- | --- | --- | --- |\n| 1 | One week |  |  | 1 |  |"
+  ],
+  "charterers_count": 1,
+  "charterer_rows": [
+    {
+      "rank": 1,
+      "charterer": "One week",
+      "cargo_mt_000s": "",
+      "pct_total_cargo": "",
+      "fixtures_count": "",
+      "pct_fixtures": "",
+      "prev_rank": "1",
+      "issue_date": "2005-09-30",
+      "year": 2005,
+      "report_period": "2004",
+      "segment": "Overall",
+      "source_file": "corpus/04-poten/pdfs/2005/Tanker_Opinion_20050930.pdf"
+    }
+  ],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

@@ -1,0 +1,34 @@
+{
+  "issue_date": "2021-07-30",
+  "year": 2021,
+  "title": "It Is A Balancing Act",
+  "source_file": "corpus/04-poten/pdfs/2021/Weekly-Opinion-30-July-2021-It-Is-A-Balancing-Act.pdf",
+  "tables_count": 0,
+  "charts_count": 2,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2021-07-30_it-is-a-balancing-act_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2021/poten_2021-07-30_it-is-a-balancing-act_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-07-30_it-is-a-balancing-act_chart1.png",
+      "width": 942,
+      "height": 609
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2021-07-30_it-is-a-balancing-act_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2021/poten_2021-07-30_it-is-a-balancing-act_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-07-30_it-is-a-balancing-act_chart2.png",
+      "width": 934,
+      "height": 601
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

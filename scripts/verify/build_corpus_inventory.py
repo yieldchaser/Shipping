@@ -98,6 +98,8 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--check", action="store_true",
                     help="verify the on-disk state matches the committed inventory")
+    ap.add_argument("--merge-existing", action="store_true",
+                    help="merge newly discovered untracked files into existing inventory without dropping absent historical entries (for CI)")
     args = ap.parse_args()
 
     current = scan()
@@ -125,6 +127,44 @@ def main() -> int:
             return 1
         print("OK: inventory matches")
         return 0
+
+    if args.merge_existing and OUT_PATH.exists():
+        try:
+            recorded = json.loads(OUT_PATH.read_text(encoding="utf-8"))
+            tracked = tracked_set()
+            merged_map = {
+                e["path"]: e
+                for e in recorded.get("entries", [])
+                if e.get("path") and e["path"] not in tracked
+            }
+            for e in current["entries"]:
+                merged_map[e["path"]] = e
+            merged_entries = sorted(merged_map.values(), key=lambda x: x["path"])
+            group_map: dict[str, list[dict]] = {}
+            for e in merged_entries:
+                parts = e["path"].split("/")
+                grp = "/".join(parts[:2]) if len(parts) >= 2 else parts[0]
+                group_map.setdefault(grp, []).append(e)
+            merged_groups = [
+                {
+                    "path": grp,
+                    "untracked_files": len(items),
+                    "untracked_bytes": sum(i.get("bytes", 0) for i in items),
+                }
+                for grp, items in sorted(group_map.items())
+            ]
+            current = {"groups": merged_groups, "entries": merged_entries}
+        except Exception as exc:
+            print(f"WARN: failed to merge existing inventory: {exc}")
+    elif OUT_PATH.exists():
+        try:
+            recorded = json.loads(OUT_PATH.read_text(encoding="utf-8"))
+            old_cnt = len(recorded.get("entries", []))
+            if old_cnt > 5000 and len(current["entries"]) < 1000:
+                print(f"Refusing to overwrite {old_cnt} inventory entries with {len(current['entries'])}. Use --merge-existing on CI.")
+                return 0
+        except Exception:
+            pass
 
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUT_PATH.write_text(json.dumps(current, indent=2), encoding="utf-8")

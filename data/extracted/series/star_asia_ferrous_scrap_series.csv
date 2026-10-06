@@ -1,0 +1,772 @@
+issue_date,report_week,country,grade,origin,price_usd_per_t,price_range_low,price_range_high,price_type,terms,destination_port,domestic_price_local_cur,domestic_currency,fx_rate,source_file
+2022-08-07,31,Bangladesh,Steel Scrap,,410.0,410.0,410.0,Indication,CFR,,,,94.71,star_asia_2022_W31_Market-report-Week-31_.pdf
+2022-10-09,40,India,Steel Scrap,,600.0,600.0,600.0,Indication,CFR,,,,82.31,star_asia_2022_W40_weekly-report-40_compressed.pdf
+2022-11-27,47,India,Steel Scrap,,523.0,523.0,523.0,Deal Concluded,CFR,,,,81.62,star_asia_2022_W47_Market-report-Week-47_compressed-2.pdf
+2022-12-11,49,India,Steel Scrap,,370.0,360.0,380.0,Bid,CFR,,,,82.44,star_asia_2022_W49_Market-report-Week-49_compressed.pdf
+2023-01-22,2,India,Steel Scrap,,485.0,475.0,495.0,Indication,CFR,,,,80.95,star_asia_2023_W02_4ece41_905c570b8aea4c2f9eee42aaab91f07a_compressed.pdf
+2023-03-05,9,Bangladesh,Steel Scrap,,600.0,600.0,600.0,Indication,CFR,,,,106.17,star_asia_2023_W09_Market-report-Week-9.pdf
+2023-04-02,13,India,Steel Scrap,,723.0,723.0,723.0,Offer,CFR,Mumbai,,,82.22,star_asia_2023_W13_Market-report-Week-13.pdf
+2023-04-02,13,India,Steel Scrap,,711.0,711.0,711.0,Offer,CFR,Mumbai,,,82.22,star_asia_2023_W13_Market-report-Week-13.pdf
+2023-04-02,13,India,Steel Scrap,,800.0,800.0,800.0,Indication,CFR,,,,82.22,star_asia_2023_W13_Market-report-Week-13.pdf
+2023-04-16,15,India,Steel Scrap,,592.0,592.0,592.0,Deal Concluded,CFR,,,,81.81,star_asia_2023_W15_Market-report-Week-15.pdf
+2023-04-23,16,Bangladesh,Steel Scrap,,560.0,560.0,560.0,Deal Concluded,CFR,,,,106.17,star_asia_2023_W16_Market-report-Week-16.pdf
+2023-04-23,16,India,Steel Scrap,,550.0,550.0,550.0,Indication,CFR,,,,82.09,star_asia_2023_W16_Market-report-Week-16.pdf
+2023-04-23,16,India,Steel Scrap,,550.0,550.0,550.0,Deal Concluded,CFR,,,,82.09,star_asia_2023_W16_Market-report-Week-16.pdf
+2023-05-14,19,India,Steel Scrap,Japan,512.0,512.0,512.0,Deal Concluded,CFR,,,,82.17,star_asia_2023_W19_Market-report-Week-19.pdf
+2023-05-14,19,India,Steel Scrap,,550.0,550.0,550.0,Deal Concluded,Delivered,,,,82.17,star_asia_2023_W19_Market-report-Week-19.pdf
+2023-05-14,19,India,Steel Scrap,,530.0,530.0,530.0,Indication,CFR,,,,82.17,star_asia_2023_W19_Market-report-Week-19.pdf
+2023-05-14,19,India,HMS,UAE,336.5,333.0,340.0,Indication,Delivered,,,,82.17,star_asia_2023_W19_Market-report-Week-19.pdf
+2023-06-11,23,Bangladesh,Steel Scrap,,521.0,521.0,521.0,Indication,CFR,,,,107.73,star_asia_2023_W23_Market-report-Week-23.pdf
+2023-06-11,23,Bangladesh,Steel Scrap,,545.0,540.0,550.0,Indication,CFR,,,,107.73,star_asia_2023_W23_Market-report-Week-23.pdf
+2023-06-17,24,India,Steel Scrap,,545.0,545.0,545.0,Deal Concluded,CFR,,,,81.93,star_asia_2023_W24_Market-report-Week-24.pdf
+2023-06-17,24,India,Steel Scrap,,520.0,520.0,520.0,Indication,CFR,,,,81.93,star_asia_2023_W24_Market-report-Week-24.pdf
+2023-06-25,25,India,HMS,UAE,402.5,400.0,405.0,Indication,CFR,Mundra,,,82.01,star_asia_2023_W25_4ece41_33c8519fc60a4c8a8e3babad1a8839b4.pdf
+2023-07-02,26,Bangladesh,Steel Scrap,,410.0,400.0,420.0,Indication,CFR,,,,108.39,star_asia_2023_W26_4ece41_51094a74a75c4066af13185269bb7d71.pdf
+2023-07-02,26,India,Steel Scrap,,515.0,515.0,515.0,Deal Concluded,CFR,,,,82.07,star_asia_2023_W26_4ece41_51094a74a75c4066af13185269bb7d71.pdf
+2023-08-05,31,India,Steel Scrap,UAE,405.0,405.0,405.0,Deal Concluded,CFR,,,,82.75,star_asia_2023_W31_Market-report-Week-31.pdf
+2023-08-05,31,India,Steel Scrap,Japan,520.0,520.0,520.0,Deal Concluded,CFR,,,,82.75,star_asia_2023_W31_Market-report-Week-31.pdf
+2023-08-05,31,India,Steel Scrap,Japan,505.0,505.0,505.0,Deal Concluded,CFR,,,,82.75,star_asia_2023_W31_Market-report-Week-31.pdf
+2023-08-12,32,India,Steel Scrap,,495.0,495.0,495.0,Indication,CFR,,,,82.77,star_asia_2023_W32_4ece41_840fd93c65384a84b1aa5c55e9ae1f9d.pdf
+2023-08-12,32,India,Steel Scrap,,530.0,530.0,530.0,Deal Concluded,CFR,,,,82.77,star_asia_2023_W32_4ece41_840fd93c65384a84b1aa5c55e9ae1f9d.pdf
+2023-08-12,32,Bangladesh,Steel Scrap,,600.0,600.0,600.0,Deal Concluded,CFR,,,,109.44,star_asia_2023_W32_4ece41_840fd93c65384a84b1aa5c55e9ae1f9d.pdf
+2023-08-12,32,Bangladesh,Steel Scrap,,622.0,622.0,622.0,Deal Concluded,CFR,,,,109.44,star_asia_2023_W32_4ece41_840fd93c65384a84b1aa5c55e9ae1f9d.pdf
+2023-08-19,33,Bangladesh,Steel Scrap,,564.0,564.0,564.0,Deal Concluded,CFR,,,,109.45,star_asia_2023_W33_4ece41_35a887424a3545ec990003616af9030d.pdf
+2023-08-19,33,Bangladesh,Steel Scrap,,600.0,600.0,600.0,Deal Concluded,CFR,,,,109.45,star_asia_2023_W33_4ece41_35a887424a3545ec990003616af9030d.pdf
+2023-08-19,33,Bangladesh,Steel Scrap,,565.0,565.0,565.0,Deal Concluded,CFR,,,,109.45,star_asia_2023_W33_4ece41_35a887424a3545ec990003616af9030d.pdf
+2023-09-10,36,India,Steel Scrap,,505.0,505.0,505.0,Indication,CFR,,,,82.98,star_asia_2023_W36_4ece41_b2879545b23c4ac8be93d5ddbaa1ef4a.pdf
+2023-09-10,36,India,Steel Scrap,Japan,555.0,555.0,555.0,Deal Concluded,Delivered,,,,82.98,star_asia_2023_W36_4ece41_b2879545b23c4ac8be93d5ddbaa1ef4a.pdf
+2023-09-10,36,India,Steel Scrap,Japan,585.0,585.0,585.0,Deal Concluded,Delivered,,,,82.98,star_asia_2023_W36_4ece41_b2879545b23c4ac8be93d5ddbaa1ef4a.pdf
+2023-09-10,36,India,Steel Scrap,,588.0,588.0,588.0,Deal Concluded,CFR,,,,82.98,star_asia_2023_W36_4ece41_b2879545b23c4ac8be93d5ddbaa1ef4a.pdf
+2023-09-10,36,India,Steel Scrap,,568.0,568.0,568.0,Deal Concluded,CFR,,,,82.98,star_asia_2023_W36_4ece41_b2879545b23c4ac8be93d5ddbaa1ef4a.pdf
+2023-09-10,36,India,Steel Scrap,,600.0,600.0,600.0,Indication,CFR,,,,82.98,star_asia_2023_W36_4ece41_b2879545b23c4ac8be93d5ddbaa1ef4a.pdf
+2023-09-23,38,India,Steel Scrap,,600.0,600.0,600.0,Indication,CFR,,,,82.93,star_asia_2023_W38_Market-report-Week-38.pdf
+2023-09-23,38,India,Steel Scrap,,547.0,547.0,547.0,Deal Concluded,CFR,,,,82.93,star_asia_2023_W38_Market-report-Week-38.pdf
+2023-09-23,38,India,Steel Scrap,,612.0,612.0,612.0,Deal Concluded,CFR,,,,82.93,star_asia_2023_W38_Market-report-Week-38.pdf
+2023-09-30,39,India,Steel Scrap,,570.0,570.0,570.0,Deal Concluded,CFR,,,,83.14,star_asia_2023_W39_4ece41_6e8db1d09bb94706ba1037c993daaa13.pdf
+2023-09-30,39,India,Steel Scrap,,580.0,580.0,580.0,Deal Concluded,CFR,,,,83.14,star_asia_2023_W39_4ece41_6e8db1d09bb94706ba1037c993daaa13.pdf
+2023-10-07,40,Pakistan,Steel Scrap,,570.0,570.0,570.0,Deal Concluded,CFR,,,,283.83,star_asia_2023_W40_4ece41_06018406e1d94716bef5fa4e17379813.pdf
+2023-10-07,40,India,Steel Scrap,,585.0,585.0,585.0,Deal Concluded,CFR,,,,83.22,star_asia_2023_W40_4ece41_06018406e1d94716bef5fa4e17379813.pdf
+2023-10-14,41,India,Steel Scrap,,565.0,565.0,565.0,Deal Concluded,CFR,,,,83.23,star_asia_2023_W41_Market-report-Week-41.pdf
+2023-10-14,41,India,Steel Scrap,,575.0,575.0,575.0,Indication,CFR,,,,83.23,star_asia_2023_W41_Market-report-Week-41.pdf
+2023-10-28,43,India,Steel Scrap,Japan,545.0,545.0,545.0,Deal Concluded,CFR,,,,83.22,star_asia_2023_W43_Market-report-Week-43.pdf
+2023-10-28,43,India,Steel Scrap,Japan,505.0,505.0,505.0,Deal Concluded,CFR,,,,83.22,star_asia_2023_W43_Market-report-Week-43.pdf
+2023-11-11,45,India,Steel Scrap,,537.0,537.0,537.0,Deal Concluded,CFR,,,,83.32,star_asia_2023_W45_Market-report-Week-45.pdf
+2023-11-11,45,India,Steel Scrap,Japan,535.0,535.0,535.0,Indication,CFR,,,,83.32,star_asia_2023_W45_Market-report-Week-45.pdf
+2023-11-11,45,India,Shredded,,407.5,405.0,410.0,Offer,CFR,Nhava Sheva,,,83.32,star_asia_2023_W45_Market-report-Week-45.pdf
+2023-11-11,45,India,HMS,,387.5,385.0,390.0,Indication,CFR,Nhava Sheva,,,83.32,star_asia_2023_W45_Market-report-Week-45.pdf
+2023-12-23,51,Bangladesh,Steel Scrap,,465.0,465.0,465.0,Deal Concluded,CFR,,,,109.65,star_asia_2023_W51_Market-report-Week-51.pdf
+2024-05-11,19,Pakistan,HMS,Australia,407.5,405.0,410.0,Deal Concluded,CFR,Chennai,,,277.84,other_2024_Market-report-Week-19.pdf
+2024-01-06,1,Bangladesh,Steel Scrap,,565.0,565.0,565.0,Deal Concluded,CFR,,,,109.7,star_asia_2024_W01_Market-report-Week-1.pdf
+2024-01-13,2,Turkey,Steel Scrap,,530.0,530.0,530.0,Indication,CFR,Turkey,,,30.1,star_asia_2024_W02_Market-report-Week-2.pdf
+2024-01-20,3,India,Steel Scrap,,512.0,512.0,512.0,Indication,CFR,Chattogram,,,83.1,star_asia_2024_W03_Market-report-Week-3.pdf
+2024-01-20,3,India,Steel Scrap,,505.0,505.0,505.0,Deal Concluded,CFR,,,,83.1,star_asia_2024_W03_Market-report-Week-3.pdf
+2024-01-20,3,India,Steel Scrap,,525.0,525.0,525.0,Deal Concluded,CFR,,,,83.1,star_asia_2024_W03_Market-report-Week-3.pdf
+2024-02-17,7,Turkey,Shredded,,417.5,415.0,420.0,Offer,CFR,Nhava Sheva,,,30.84,star_asia_2024_W07_Market-report-Week-7.pdf
+2024-02-17,7,Turkey,HMS,,387.5,385.0,390.0,Indication,CFR,Nhava Sheva,,,30.84,star_asia_2024_W07_Market-report-Week-7.pdf
+2024-02-17,7,Turkey,HMS,,385.0,385.0,385.0,Indication,CFR,Turkey,,,30.84,star_asia_2024_W07_Market-report-Week-7.pdf
+2024-02-17,7,Turkey,Shredded,,442.5,440.0,445.0,Offer,CFR,Qasim,,,30.84,star_asia_2024_W07_Market-report-Week-7.pdf
+2024-02-17,7,Turkey,Domestic Scrap,,585.5,573.0,598.0,Indication,Ex-Works,Turkey,,,30.84,star_asia_2024_W07_Market-report-Week-7.pdf
+2024-02-17,7,Turkey,Domestic Scrap,,938.0,931.0,945.0,Indication,Ex-Works,Turkey,,,30.84,star_asia_2024_W07_Market-report-Week-7.pdf
+2024-02-17,7,Turkey,Domestic Scrap,,796.0,787.0,805.0,Indication,Ex-Works,Turkey,,,30.84,star_asia_2024_W07_Market-report-Week-7.pdf
+2024-02-17,7,Turkey,Shredded,Australia,432.5,430.0,435.0,Offer,CFR,Turkey,,,30.84,star_asia_2024_W07_Market-report-Week-7.pdf
+2024-02-17,7,Bangladesh,HMS,,412.5,410.0,415.0,Indication,CFR,,,,109.76,star_asia_2024_W07_Market-report-Week-7.pdf
+2024-02-17,7,Bangladesh,Shredded,Australia,431.0,430.0,432.0,Indication,CFR,,,,109.76,star_asia_2024_W07_Market-report-Week-7.pdf
+2024-02-17,7,Bangladesh,HMS,,418.0,416.0,420.0,Offer,CFR,,,,109.76,star_asia_2024_W07_Market-report-Week-7.pdf
+2024-02-17,7,Bangladesh,HMS,US,416.0,416.0,416.0,Offer,CFR,,,,109.76,star_asia_2024_W07_Market-report-Week-7.pdf
+2024-02-17,7,Bangladesh,HMS,US,416.0,415.0,417.0,Indication,CFR,,,,109.76,star_asia_2024_W07_Market-report-Week-7.pdf
+2024-02-23,8,Turkey,Shredded,,419.0,418.0,420.0,Offer,CFR,Turkey,,,31.09,star_asia_2024_W08_Market-report-Week-8.pdf
+2024-02-23,8,Turkey,Shredded,,392.5,390.0,395.0,Offer,CFR,Turkey,,,31.09,star_asia_2024_W08_Market-report-Week-8.pdf
+2024-02-23,8,Pakistan,Shredded,EU,437.5,435.0,440.0,Offer,CFR,Qasim,,,279.37,star_asia_2024_W08_Market-report-Week-8.pdf
+2024-03-16,11,Bangladesh,HMS,,379.0,378.0,380.0,Indication,CFR,,,,109.72,star_asia_2024_W11_Market-report-Week-11.pdf
+2024-03-16,11,Bangladesh,HMS,,378.0,378.0,378.0,Indication,CFR,,,,109.72,star_asia_2024_W11_Market-report-Week-11.pdf
+2024-03-16,11,Bangladesh,HMS,,380.0,380.0,380.0,Indication,CFR,,,,109.72,star_asia_2024_W11_Market-report-Week-11.pdf
+2024-03-16,11,Bangladesh,Shredded,,403.0,403.0,403.0,Offer,CFR,,,,109.72,star_asia_2024_W11_Market-report-Week-11.pdf
+2024-03-16,11,Bangladesh,HMS,,377.0,377.0,377.0,Indication,CFR,,,,109.72,star_asia_2024_W11_Market-report-Week-11.pdf
+2024-04-06,14,Bangladesh,HMS,US,384.0,384.0,384.0,Indication,FOB,,,,109.85,star_asia_2024_W14_Market-report-Week-14.pdf
+2024-04-06,14,Bangladesh,HMS,US,361.0,361.0,361.0,Indication,FOB,,,,109.85,star_asia_2024_W14_Market-report-Week-14.pdf
+2024-04-06,14,Bangladesh,Rebar,,205.5,205.0,206.0,Indication,CFR,,,,109.85,star_asia_2024_W14_Market-report-Week-14.pdf
+2024-04-14,15,Bangladesh,HMS,US,387.0,387.0,387.0,Indication,CFR,,,,109.72,star_asia_2024_W15_Market-report-Week-15.pdf
+2024-04-14,15,Bangladesh,HMS,UK,380.0,380.0,380.0,Indication,CFR,,,,109.72,star_asia_2024_W15_Market-report-Week-15.pdf
+2024-05-04,18,Turkey,Shredded,US,427.5,425.0,430.0,Offer,CFR,Turkey,,,32.34,star_asia_2024_W18_Market-report-Week-18.pdf
+2024-05-04,18,Turkey,Shredded,US,407.5,405.0,410.0,Offer,CFR,Turkey,,,32.34,star_asia_2024_W18_Market-report-Week-18.pdf
+2024-05-25,21,Turkey,Shredded,US,417.5,415.0,420.0,Offer,CFR,Nhava Sheva,,,32.22,star_asia_2024_W21_Market-report-Week-21.pdf
+2024-05-25,21,Turkey,Shredded,US,425.0,425.0,425.0,Offer,CFR,Nhava Sheva,,,32.22,star_asia_2024_W21_Market-report-Week-21.pdf
+2024-05-25,21,Turkey,Steel Scrap,,412.5,410.0,415.0,Indication,CFR,Turkey,,,32.22,star_asia_2024_W21_Market-report-Week-21.pdf
+2024-05-25,21,Turkey,HMS,,407.5,405.0,410.0,Offer,CFR,Turkey,,,32.22,star_asia_2024_W21_Market-report-Week-21.pdf
+2024-05-25,21,Turkey,HMS,,397.5,395.0,400.0,Offer,CFR,Turkey,,,32.22,star_asia_2024_W21_Market-report-Week-21.pdf
+2024-05-25,21,Turkey,Steel Scrap,US,420.0,420.0,420.0,Indication,CFR,Turkey,,,32.22,star_asia_2024_W21_Market-report-Week-21.pdf
+2024-05-25,21,Turkey,Busheling,,420.0,418.0,422.0,Indication,CFR,Turkey,,,32.22,star_asia_2024_W21_Market-report-Week-21.pdf
+2024-05-25,21,Turkey,Shredded,UK,416.5,415.0,418.0,Offer,CFR,Qasim,,,32.22,star_asia_2024_W21_Market-report-Week-21.pdf
+2024-05-25,21,Turkey,Steel Scrap,,416.5,415.0,418.0,Indication,CFR,Turkey,,,32.22,star_asia_2024_W21_Market-report-Week-21.pdf
+2024-06-08,22,Bangladesh,Shredded,UK,417.5,415.0,420.0,Offer,CFR,Nhava Sheva,,,117.45,star_asia_2024_W22_Market-report-Week-22-23.pdf
+2024-06-15,24,Turkey,Shredded,Australia,417.5,415.0,420.0,Offer,CFR,Nhava Sheva,,,32.77,star_asia_2024_W24_Market-report-Week-24.pdf
+2024-06-15,24,Turkey,HMS,UK,396.5,395.0,398.0,Offer,CFR,Nhava Sheva,,,32.77,star_asia_2024_W24_Market-report-Week-24.pdf
+2024-06-22,25,Pakistan,Shredded,UK,415.5,414.0,417.0,Offer,CFR,Nhava Sheva,,,278.5,star_asia_2024_W25_Market-report-Week-25.pdf
+2024-06-22,25,Pakistan,HMS,UK,392.5,390.0,395.0,Offer,CFR,Nhava Sheva,,,278.5,star_asia_2024_W25_Market-report-Week-25.pdf
+2024-06-22,25,Pakistan,Shredded,US,414.0,414.0,414.0,Indication,CFR,,,,278.5,star_asia_2024_W25_Market-report-Week-25.pdf
+2024-06-30,26,Turkey,Shredded,UK,411.0,410.0,412.0,Offer,CFR,Nhava Sheva,,,32.73,star_asia_2024_W26_Market-report-Week-26.pdf
+2024-06-30,26,Turkey,Shredded,UK,406.5,405.0,408.0,Bid,CFR,Nhava Sheva,,,32.73,star_asia_2024_W26_Market-report-Week-26.pdf
+2024-06-30,26,Turkey,HMS,UK,387.5,385.0,390.0,Offer,CFR,Turkey,,,32.73,star_asia_2024_W26_Market-report-Week-26.pdf
+2024-06-30,26,Turkey,Shredded,UK,421.0,420.0,422.0,Offer,CFR,Qasim,,,32.73,star_asia_2024_W26_Market-report-Week-26.pdf
+2024-06-30,26,Turkey,HMS,Australia,402.5,395.0,410.0,Deal Concluded,CFR,Turkey,,,32.73,star_asia_2024_W26_Market-report-Week-26.pdf
+2024-07-20,29,Turkey,Shredded,,412.5,410.0,415.0,Offer,CFR,Turkey,,,33.02,star_asia_2024_W29_Market-report-Week-29.pdf
+2024-07-20,29,Turkey,Shredded,,402.5,400.0,405.0,Bid,CFR,Turkey,,,33.02,star_asia_2024_W29_Market-report-Week-29.pdf
+2024-07-20,29,Turkey,HMS,UK,390.0,385.0,395.0,Offer,CFR,Turkey,,,33.02,star_asia_2024_W29_Market-report-Week-29.pdf
+2024-07-20,29,Turkey,Steel Scrap,UAE,385.0,380.0,390.0,Indication,CFR,Mundra,,,33.02,star_asia_2024_W29_Market-report-Week-29.pdf
+2024-07-20,29,Turkey,Shredded,UK,427.5,425.0,430.0,Offer,CFR,Qasim,,,33.02,star_asia_2024_W29_Market-report-Week-29.pdf
+2024-08-11,32,Turkey,Shredded,UK,412.5,410.0,415.0,Offer,CFR,Nhava Sheva,,,33.53,star_asia_2024_W32_Market-report-Week-32.pdf
+2024-08-11,32,Turkey,Shredded,,402.5,400.0,405.0,Indication,CFR,Nhava Sheva,,,33.53,star_asia_2024_W32_Market-report-Week-32.pdf
+2024-08-11,32,Turkey,HMS,,385.0,380.0,390.0,Offer,CFR,Turkey,,,33.53,star_asia_2024_W32_Market-report-Week-32.pdf
+2024-08-11,32,Pakistan,Shredded,UK,420.0,418.0,422.0,Offer,CFR,Qasim,,,278.66,star_asia_2024_W32_Market-report-Week-32.pdf
+2024-08-11,32,Pakistan,Shredded,UK,415.0,415.0,415.0,Offer,CFR,Qasim,,,278.66,star_asia_2024_W32_Market-report-Week-32.pdf
+2024-08-11,32,Pakistan,Steel Scrap,EU,376.0,376.0,376.0,Indication,CFR,,,,278.66,star_asia_2024_W32_Market-report-Week-32.pdf
+2024-08-11,32,Pakistan,HMS,US,390.0,390.0,390.0,Offer,CFR,,,,278.66,star_asia_2024_W32_Market-report-Week-32.pdf
+2024-08-11,32,Pakistan,HMS,US,381.0,381.0,381.0,Indication,CFR,,,,278.66,star_asia_2024_W32_Market-report-Week-32.pdf
+2024-08-11,32,Pakistan,Shredded,,396.0,396.0,396.0,Indication,CFR,,,,278.66,star_asia_2024_W32_Market-report-Week-32.pdf
+2024-08-11,32,Pakistan,HMS,EU,376.5,375.0,378.0,Offer,CFR,,,,278.66,star_asia_2024_W32_Market-report-Week-32.pdf
+2024-08-11,32,Pakistan,HMS,EU,381.0,380.0,382.0,Offer,CFR,,,,278.66,star_asia_2024_W32_Market-report-Week-32.pdf
+2024-08-11,32,Pakistan,Rebar,,380.0,380.0,380.0,Indication,CFR,,,,278.66,star_asia_2024_W32_Market-report-Week-32.pdf
+2024-08-18,33,Bangladesh,Shredded,US,395.0,395.0,395.0,Offer,CFR,Nhava Sheva,,,117.98,star_asia_2024_W33_Market-report-Week-33.pdf
+2024-08-18,33,Bangladesh,Shredded,US,410.0,410.0,410.0,Offer,CFR,Nhava Sheva,,,117.98,star_asia_2024_W33_Market-report-Week-33.pdf
+2024-08-18,33,Bangladesh,Shredded,US,400.0,400.0,400.0,Offer,CFR,Nhava Sheva,,,117.98,star_asia_2024_W33_Market-report-Week-33.pdf
+2024-08-18,33,Pakistan,Shredded,UK,400.0,395.0,405.0,Offer,CFR,Qasim,,,278.47,star_asia_2024_W33_Market-report-Week-33.pdf
+2024-08-18,33,Pakistan,Shredded,,397.0,397.0,397.0,Indication,CFR,Qasim,,,278.47,star_asia_2024_W33_Market-report-Week-33.pdf
+2024-08-18,33,Pakistan,Shredded,UK,417.5,415.0,420.0,Offer,CFR,Chattogram,,,278.47,star_asia_2024_W33_Market-report-Week-33.pdf
+2024-08-18,33,Pakistan,HMS,,402.5,400.0,405.0,Indication,CFR,Chattogram,,,278.47,star_asia_2024_W33_Market-report-Week-33.pdf
+2024-08-18,33,Pakistan,HMS,US,371.0,371.0,371.0,Offer,CFR,,,,278.47,star_asia_2024_W33_Market-report-Week-33.pdf
+2024-08-18,33,Pakistan,Steel Scrap,EU,365.0,365.0,365.0,Indication,CFR,,,,278.47,star_asia_2024_W33_Market-report-Week-33.pdf
+2024-08-31,35,Turkey,Shredded,,385.0,385.0,385.0,Offer,CFR,Nhava Sheva,,,34.06,star_asia_2024_W35_Market-report-Week-35.pdf
+2024-08-31,35,Turkey,Shredded,,385.0,385.0,385.0,Offer,CFR,Nhava Sheva,,,34.06,star_asia_2024_W35_Market-report-Week-35.pdf
+2024-08-31,35,Turkey,HMS,UK,365.0,365.0,365.0,Offer,CFR,Turkey,,,34.06,star_asia_2024_W35_Market-report-Week-35.pdf
+2024-08-31,35,India,Shredded,,399.0,399.0,399.0,Offer,CFR,Qasim,,,83.84,star_asia_2024_W35_Market-report-Week-35.pdf
+2024-09-07,36,Turkey,Shredded,UK,387.5,385.0,390.0,Offer,CFR,Nhava Sheva,,,33.98,star_asia_2024_W36_Market-report-Week-36.pdf
+2024-09-07,36,Turkey,Shredded,UK,367.5,365.0,370.0,Offer,CFR,Nhava Sheva,,,33.98,star_asia_2024_W36_Market-report-Week-36.pdf
+2024-09-07,36,India,Shredded,UK,397.5,395.0,400.0,Offer,CFR,Qasim,,,83.97,star_asia_2024_W36_Market-report-Week-36.pdf
+2024-09-07,36,India,Domestic Scrap,,2500.89,2500.89,2500.89,Indication,Domestic,,210000.0,PKR,83.97,star_asia_2024_W36_Market-report-Week-36.pdf
+2024-09-07,36,India,Shredded,UK,400.0,400.0,400.0,Offer,CFR,,,,83.97,star_asia_2024_W36_Market-report-Week-36.pdf
+2024-09-07,36,India,Shredded,UK,402.5,400.0,405.0,Offer,CFR,Chattogram,,,83.97,star_asia_2024_W36_Market-report-Week-36.pdf
+2024-09-07,36,India,HMS,,392.5,390.0,395.0,Indication,CFR,Chattogram,,,83.97,star_asia_2024_W36_Market-report-Week-36.pdf
+2024-09-07,36,India,HMS,US,372.5,370.0,375.0,Offer,CFR,,,,83.97,star_asia_2024_W36_Market-report-Week-36.pdf
+2024-09-07,36,India,HMS,US,370.5,370.0,371.0,Offer,CFR,,,,83.97,star_asia_2024_W36_Market-report-Week-36.pdf
+2024-09-07,36,India,HMS,EU,367.5,365.0,370.0,Indication,CFR,,,,83.97,star_asia_2024_W36_Market-report-Week-36.pdf
+2024-09-14,37,Bangladesh,Shredded,US,387.5,385.0,390.0,Offer,CFR,Nhava Sheva,,,,star_asia_2024_W37_Market-report-Week-37.pdf
+2024-09-14,37,Bangladesh,Shredded,US,372.5,370.0,375.0,Offer,CFR,Nhava Sheva,,,,star_asia_2024_W37_Market-report-Week-37.pdf
+2024-09-28,39,Bangladesh,Steel Scrap,,387.5,385.0,390.0,Offer,CFR,,,,119.41,star_asia_2024_W39_Market-report-Week-39.pdf
+2024-09-28,39,Bangladesh,Shredded,UK,397.5,395.0,400.0,Offer,CFR,Nhava Sheva,,,119.41,star_asia_2024_W39_Market-report-Week-39.pdf
+2024-09-28,39,Bangladesh,Shredded,UK,375.0,370.0,380.0,Offer,CFR,Nhava Sheva,,,119.41,star_asia_2024_W39_Market-report-Week-39.pdf
+2024-10-05,40,Bangladesh,Shredded,UK,402.5,400.0,405.0,Offer,CFR,Nhava Sheva,,,119.46,star_asia_2024_W40_4ece41_408cf6edb6f34764acf37f888a163a55.pdf
+2024-10-05,40,Bangladesh,HMS,UK,377.5,375.0,380.0,Offer,CFR,Nhava Sheva,,,119.46,star_asia_2024_W40_4ece41_408cf6edb6f34764acf37f888a163a55.pdf
+2024-10-05,40,Bangladesh,Shredded,UK,405.0,400.0,410.0,Offer,CFR,Qasim,,,119.46,star_asia_2024_W40_4ece41_408cf6edb6f34764acf37f888a163a55.pdf
+2024-10-13,41,Bangladesh,Shredded,UK,397.5,395.0,400.0,Indication,CFR,Nhava Sheva,,,119.59,star_asia_2024_W41_Market-report-Week-41.pdf
+2024-10-13,41,Bangladesh,HMS,,377.5,375.0,380.0,Offer,CFR,Nhava Sheva,,,119.59,star_asia_2024_W41_Market-report-Week-41.pdf
+2024-10-13,41,Bangladesh,Shredded,UK,407.5,405.0,410.0,Offer,CFR,Qasim,,,119.59,star_asia_2024_W41_Market-report-Week-41.pdf
+2024-10-13,41,Bangladesh,Steel Scrap,New Zealand,417.5,415.0,420.0,Indication,CFR,Chattogram,,,119.59,star_asia_2024_W41_Market-report-Week-41.pdf
+2024-10-13,41,Bangladesh,HMS,,392.5,390.0,395.0,Offer,CFR,Chattogram,,,119.59,star_asia_2024_W41_Market-report-Week-41.pdf
+2024-10-13,41,Bangladesh,HMS,,382.0,382.0,382.0,Indication,CFR,Chattogram,,,119.59,star_asia_2024_W41_Market-report-Week-41.pdf
+2024-10-19,42,Bangladesh,Shredded,UK,402.5,400.0,405.0,Offer,CFR,Nhava Sheva,,,119.6,star_asia_2024_W42_Market-report-Week-42.pdf
+2024-10-19,42,Bangladesh,Shredded,,400.0,400.0,400.0,Indication,CFR,Nhava Sheva,,,119.6,star_asia_2024_W42_Market-report-Week-42.pdf
+2024-10-19,42,Bangladesh,HMS,UK,377.5,375.0,380.0,Bid,CFR,,,,119.6,star_asia_2024_W42_Market-report-Week-42.pdf
+2024-10-19,42,Bangladesh,HMS,UK,372.5,370.0,375.0,Bid,CFR,,,,119.6,star_asia_2024_W42_Market-report-Week-42.pdf
+2024-10-19,42,Bangladesh,Steel Scrap,US,387.5,385.0,390.0,Indication,CFR,,,,119.6,star_asia_2024_W42_Market-report-Week-42.pdf
+2024-10-19,42,Bangladesh,Steel Scrap,US,400.0,400.0,400.0,Indication,CFR,,,,119.6,star_asia_2024_W42_Market-report-Week-42.pdf
+2024-10-19,42,Bangladesh,Shredded,,407.5,405.0,410.0,Offer,CFR,Qasim,,,119.6,star_asia_2024_W42_Market-report-Week-42.pdf
+2024-10-19,42,Bangladesh,Shredded,UK,407.5,405.0,410.0,Offer,CFR,Chattogram,,,119.6,star_asia_2024_W42_Market-report-Week-42.pdf
+2024-10-19,42,Bangladesh,HMS,,392.5,390.0,395.0,Offer,CFR,Chattogram,,,119.6,star_asia_2024_W42_Market-report-Week-42.pdf
+2024-10-19,42,Bangladesh,HMS,US,365.0,365.0,365.0,Indication,CFR,Chattogram,,,119.6,star_asia_2024_W42_Market-report-Week-42.pdf
+2024-10-19,42,Bangladesh,HMS,US,372.0,372.0,372.0,Indication,CFR,Chattogram,,,119.6,star_asia_2024_W42_Market-report-Week-42.pdf
+2024-10-26,43,India,Steel Scrap,,396.5,395.0,398.0,Indication,CFR,Nhava Sheva,,,84.08,star_asia_2024_W43_Market-report-Week-43.pdf
+2024-10-26,43,India,Steel Scrap,,391.0,390.0,392.0,Indication,CFR,Nhava Sheva,,,84.08,star_asia_2024_W43_Market-report-Week-43.pdf
+2024-11-02,44,Turkey,Shredded,,385.5,385.0,386.0,Indication,CFR,Turkey,,,34.34,star_asia_2024_W44_Market-report-Week-44.pdf
+2024-11-02,44,Pakistan,Steel Scrap,US,360.0,360.0,360.0,Bid,CFR,,,,277.51,star_asia_2024_W44_Market-report-Week-44.pdf
+2024-11-02,44,India,Busheling,,385.5,385.0,386.0,Offer,CFR,,,,84.08,star_asia_2024_W44_Market-report-Week-44.pdf
+2024-11-02,44,India,Busheling,,400.0,400.0,400.0,Offer,CFR,,,,84.08,star_asia_2024_W44_Market-report-Week-44.pdf
+2024-11-02,44,India,Steel Scrap,,366.0,362.0,370.0,Offer,CFR,Mundra,,,84.08,star_asia_2024_W44_Market-report-Week-44.pdf
+2024-11-02,44,India,HMS,,360.0,360.0,360.0,Indication,CFR,,,,84.08,star_asia_2024_W44_Market-report-Week-44.pdf
+2024-11-02,44,India,HMS,,373.5,372.0,375.0,Indication,CFR,,,,84.08,star_asia_2024_W44_Market-report-Week-44.pdf
+2024-11-02,44,Pakistan,Steel Scrap,,393.0,392.0,394.0,Indication,CFR,,,,277.51,star_asia_2024_W44_Market-report-Week-44.pdf
+2024-11-02,44,Pakistan,Steel Scrap,,390.0,390.0,390.0,Indication,CFR,,,,277.51,star_asia_2024_W44_Market-report-Week-44.pdf
+2024-11-09,45,India,Shredded,,394.0,394.0,394.0,Indication,CFR,,,,84.39,star_asia_2024_W45_Market-report-Week-45.pdf
+2024-11-09,45,India,HMS,UK,370.0,370.0,370.0,Indication,CFR,,,,84.39,star_asia_2024_W45_Market-report-Week-45.pdf
+2024-11-09,45,India,Shredded,UK,397.0,397.0,397.0,Indication,CFR,,,,84.39,star_asia_2024_W45_Market-report-Week-45.pdf
+2024-11-09,45,India,HMS,UK,372.5,370.0,375.0,Indication,CFR,,,,84.39,star_asia_2024_W45_Market-report-Week-45.pdf
+2024-11-09,45,India,Shredded,,396.0,396.0,396.0,Indication,CFR,Qasim,,,84.39,star_asia_2024_W45_Market-report-Week-45.pdf
+2024-11-09,45,India,Shredded,,389.0,389.0,389.0,Indication,CFR,Qasim,,,84.39,star_asia_2024_W45_Market-report-Week-45.pdf
+2024-11-09,45,India,Domestic Scrap,,1753.76,1753.76,1753.76,Indication,Domestic,,148000.0,PKR,84.39,star_asia_2024_W45_Market-report-Week-45.pdf
+2024-11-09,45,India,Shredded,,401.0,401.0,401.0,Indication,CFR,Chattogram,,,84.39,star_asia_2024_W45_Market-report-Week-45.pdf
+2024-11-09,45,India,HMS,US,380.0,380.0,380.0,Indication,CFR,,,,84.39,star_asia_2024_W45_Market-report-Week-45.pdf
+2024-11-09,45,India,HMS,US,362.0,362.0,362.0,Indication,CFR,Turkey,,,84.39,star_asia_2024_W45_Market-report-Week-45.pdf
+2024-11-24,47,India,Shredded,UK,387.5,385.0,390.0,Offer,CFR,Nhava Sheva,,,84.43,star_asia_2024_W47_Market-report-Week-47.pdf
+2024-11-24,47,India,HMS,,365.0,365.0,365.0,Indication,CFR,Nhava Sheva,,,84.43,star_asia_2024_W47_Market-report-Week-47.pdf
+2024-11-24,47,India,HMS,African,370.0,365.0,375.0,Offer,CFR,,,,84.43,star_asia_2024_W47_Market-report-Week-47.pdf
+2024-11-30,48,Bangladesh,HMS,,360.0,360.0,360.0,Bid,CFR,Chattogram,,,119.61,star_asia_2024_W48_Market-report-Week-48.pdf
+2024-11-30,48,Bangladesh,HMS,,366.5,365.0,368.0,Bid,CFR,Chattogram,,,119.61,star_asia_2024_W48_Market-report-Week-48.pdf
+2024-11-30,48,Bangladesh,Shredded,UK,384.5,384.0,385.0,Offer,CFR,Chattogram,,,119.61,star_asia_2024_W48_Market-report-Week-48.pdf
+2024-11-30,48,Bangladesh,HMS,,363.0,362.0,364.0,Indication,CFR,Chattogram,,,119.61,star_asia_2024_W48_Market-report-Week-48.pdf
+2024-11-30,48,Bangladesh,Steel Scrap,UK/EU,390.0,390.0,390.0,Deal Concluded,CFR,Chattogram,,,119.61,star_asia_2024_W48_Market-report-Week-48.pdf
+2024-11-30,48,Bangladesh,Steel Scrap,UK/EU,388.5,388.0,389.0,Deal Concluded,CFR,Chattogram,,,119.61,star_asia_2024_W48_Market-report-Week-48.pdf
+2024-11-30,48,Bangladesh,Shredded,UK,386.5,385.0,388.0,Bid,CFR,Chattogram,,,119.61,star_asia_2024_W48_Market-report-Week-48.pdf
+2024-12-13,50,Turkey,Shredded,UK,380.0,380.0,380.0,Offer,CFR,Nhava Sheva,,,34.94,star_asia_2024_W50_Market-report-Week-50.pdf
+2024-12-13,50,Turkey,Shredded,UK,382.5,380.0,385.0,Offer,CFR,Nhava Sheva,,,34.94,star_asia_2024_W50_Market-report-Week-50.pdf
+2024-12-13,50,Turkey,HMS,,365.0,360.0,370.0,Indication,CFR,Turkey,,,34.94,star_asia_2024_W50_Market-report-Week-50.pdf
+2024-12-13,50,Turkey,Shredded,UK,387.0,387.0,387.0,Offer,CFR,Qasim,,,34.94,star_asia_2024_W50_Market-report-Week-50.pdf
+2024-12-13,50,Turkey,Shredded,UK,387.5,385.0,390.0,Offer,CFR,Qasim,,,34.94,star_asia_2024_W50_Market-report-Week-50.pdf
+2024-12-13,50,Turkey,Domestic Scrap,,7012.02,7012.02,7012.02,Indication,Domestic,,245000.0,PKR,34.94,star_asia_2024_W50_Market-report-Week-50.pdf
+2024-12-13,50,Turkey,Shredded,,390.0,390.0,390.0,Deal Concluded,CFR,Turkey,,,34.94,star_asia_2024_W50_Market-report-Week-50.pdf
+2024-12-13,50,Turkey,Shredded,UK,388.0,388.0,388.0,Indication,CFR,Chattogram,,,34.94,star_asia_2024_W50_Market-report-Week-50.pdf
+2024-12-13,50,Turkey,Shredded,UK,390.0,390.0,390.0,Offer,CFR,Chattogram,,,34.94,star_asia_2024_W50_Market-report-Week-50.pdf
+2024-12-13,50,Turkey,HMS,,377.5,375.0,380.0,Indication,CFR,Turkey,,,34.94,star_asia_2024_W50_Market-report-Week-50.pdf
+2024-12-13,50,Turkey,Rebar,,652.5,644.0,661.0,Indication,CFR,Turkey,,,34.94,star_asia_2024_W50_Market-report-Week-50.pdf
+2024-12-13,50,Bangladesh,Steel Scrap,,682.0,678.0,686.0,Indication,CFR,,,,119.53,star_asia_2024_W50_Market-report-Week-50.pdf
+2024-12-13,50,Bangladesh,Domestic Scrap,,527.0,527.0,527.0,Indication,Domestic,,63000.0,BDT,119.53,star_asia_2024_W50_Market-report-Week-50.pdf
+2024-12-13,50,Bangladesh,HMS,US,345.0,345.0,345.0,Indication,CFR,,,,119.53,star_asia_2024_W50_Market-report-Week-50.pdf
+2024-12-13,50,Bangladesh,HMS,US,342.5,340.0,345.0,Indication,CFR,,,,119.53,star_asia_2024_W50_Market-report-Week-50.pdf
+2024-12-21,51,India,Shredded,,391.5,390.0,393.0,Indication,CFR,Nhava Sheva,,,85.12,star_asia_2024_W51_Market-report-Week-51.pdf
+2024-12-21,51,India,Shredded,US,393.5,392.0,395.0,Offer,CFR,,,,85.12,star_asia_2024_W51_Market-report-Week-51.pdf
+2024-12-21,51,India,PNS,,390.0,390.0,390.0,Bid,CFR,Mundra,,,85.12,star_asia_2024_W51_Market-report-Week-51.pdf
+2024-12-21,51,India,PNS,,397.0,397.0,397.0,Bid,CFR,Mundra,,,85.12,star_asia_2024_W51_Market-report-Week-51.pdf
+2025-01-10,1,India,Shredded,UK,383.0,383.0,383.0,Indication,CFR,,,,86.11,star_asia_2025_W01_Market-report-Week-12.pdf
+2025-01-10,1,India,Shredded,,385.0,385.0,385.0,Offer,CFR,,,,86.11,star_asia_2025_W01_Market-report-Week-12.pdf
+2025-01-10,1,India,Steel Scrap,,380.0,380.0,380.0,Bid,CFR,,,,86.11,star_asia_2025_W01_Market-report-Week-12.pdf
+2025-01-10,1,India,HMS,UK,357.5,355.0,360.0,Indication,CFR,,,,86.11,star_asia_2025_W01_Market-report-Week-12.pdf
+2025-01-10,1,India,HMS,UK,365.0,360.0,370.0,Indication,CFR,,,,86.11,star_asia_2025_W01_Market-report-Week-12.pdf
+2025-01-18,3,India,Shredded,UK,372.5,370.0,375.0,Indication,CFR,Nhava Sheva,,,86.57,star_asia_2025_W03_Market-report-Week-3.pdf
+2025-01-18,3,India,Shredded,UK,367.5,365.0,370.0,Bid,CFR,Nhava Sheva,,,86.57,star_asia_2025_W03_Market-report-Week-3.pdf
+2025-01-18,3,India,HMS,,355.0,350.0,360.0,Offer,CFR,,,,86.57,star_asia_2025_W03_Market-report-Week-3.pdf
+2025-02-07,6,India,Shredded,,372.5,370.0,375.0,Bid,CFR,Nhava Sheva,,,87.77,star_asia_2025_W06_Market-report-Week-6.pdf
+2025-02-07,6,India,HMS,UK,350.0,345.0,355.0,Indication,CFR,,,,87.77,star_asia_2025_W06_Market-report-Week-6.pdf
+2025-02-07,6,Pakistan,Shredded,UK,382.5,380.0,385.0,Offer,CFR,Qasim,,,279.03,star_asia_2025_W06_Market-report-Week-6.pdf
+2025-02-07,6,Pakistan,Shredded,UK,378.5,375.0,382.0,Offer,CFR,Qasim,,,279.03,star_asia_2025_W06_Market-report-Week-6.pdf
+2025-02-07,6,Pakistan,HMS,UAE,365.0,365.0,365.0,Indication,CFR,Qasim,,,279.03,star_asia_2025_W06_Market-report-Week-6.pdf
+2025-02-07,6,Turkey,Steel Scrap,,341.0,340.0,342.0,Indication,CFR,Turkey,,,35.96,star_asia_2025_W06_Market-report-Week-6.pdf
+2025-02-07,6,Turkey,Steel Scrap,,350.0,347.0,353.0,Indication,CFR,Turkey,,,35.96,star_asia_2025_W06_Market-report-Week-6.pdf
+2025-02-14,7,India,Shredded,UK,380.0,380.0,380.0,Indication,CFR,,,,86.69,star_asia_2025_W07_Market-report-Week-7.pdf
+2025-02-14,7,India,Shredded,UK,373.0,373.0,373.0,Indication,CFR,,,,86.69,star_asia_2025_W07_Market-report-Week-7.pdf
+2025-02-21,8,India,Shredded,UK,377.5,375.0,380.0,Offer,CFR,Nhava Sheva,,,86.7,star_asia_2025_W08_Market-report-Week-8.pdf
+2025-02-21,8,India,Shredded,UK,372.5,370.0,375.0,Bid,CFR,Nhava Sheva,,,86.7,star_asia_2025_W08_Market-report-Week-8.pdf
+2025-02-21,8,India,HMS,,350.0,345.0,355.0,Indication,CFR,,,,86.7,star_asia_2025_W08_Market-report-Week-8.pdf
+2025-02-28,9,India,Shredded,UK,377.5,375.0,380.0,Offer,CFR,Nhava Sheva,,,87.43,star_asia_2025_W09_Market-report-Week-9.pdf
+2025-02-28,9,India,HMS,,352.5,350.0,355.0,Indication,CFR,Nhava Sheva,,,87.43,star_asia_2025_W09_Market-report-Week-9.pdf
+2025-02-28,9,Pakistan,Shredded,,381.5,380.0,383.0,Offer,CFR,Qasim,,,279.97,star_asia_2025_W09_Market-report-Week-9.pdf
+2025-02-28,9,Pakistan,Shredded,,377.5,375.0,380.0,Offer,CFR,Qasim,,,279.97,star_asia_2025_W09_Market-report-Week-9.pdf
+2025-02-28,9,Bangladesh,Shredded,EU,386.5,385.0,388.0,Bid,CFR,Chattogram,,,121.46,star_asia_2025_W09_Market-report-Week-9.pdf
+2025-02-28,9,Bangladesh,Shredded,EU,374.5,374.0,375.0,Bid,CFR,Chattogram,,,121.46,star_asia_2025_W09_Market-report-Week-9.pdf
+2025-02-28,9,Bangladesh,Domestic Scrap,,699.82,699.82,699.82,Indication,Domestic,,85000.0,BDT,121.46,star_asia_2025_W09_Market-report-Week-9.pdf
+2025-02-28,9,Turkey,HMS 80:20,US,361.0,361.0,361.0,Indication,CFR,Turkey,,,36.52,star_asia_2025_W09_Market-report-Week-9.pdf
+2025-02-28,9,Turkey,Steel Scrap,EU,363.0,363.0,363.0,Deal Concluded,CFR,Turkey,,,36.52,star_asia_2025_W09_Market-report-Week-9.pdf
+2025-03-21,12,Turkey,Shredded,,385.0,385.0,385.0,Deal Concluded,CFR,Turkey,,,37.8,star_asia_2025_W12_Market-report-Week-12.pdf
+2025-03-21,12,Turkey,HMS 80:20,UK,357.5,355.0,360.0,Offer,CFR,Turkey,,,37.8,star_asia_2025_W12_Market-report-Week-12.pdf
+2025-03-21,12,Turkey,HMS 80:20,,347.5,345.0,350.0,Indication,CFR,Turkey,,,37.8,star_asia_2025_W12_Market-report-Week-12.pdf
+2025-04-11,15,Turkey,Shredded,UK/EU,392.5,390.0,395.0,Offer,CFR,Nhava Sheva,,,37.87,star_asia_2025_W15_Market-report-Week-15.pdf
+2025-04-11,15,Turkey,Shredded,,382.5,380.0,385.0,Indication,CFR,Nhava Sheva,,,37.87,star_asia_2025_W15_Market-report-Week-15.pdf
+2025-04-11,15,Turkey,HMS 80:20,,362.5,360.0,365.0,Indication,CFR,Turkey,,,37.87,star_asia_2025_W15_Market-report-Week-15.pdf
+2025-04-11,15,Turkey,Shredded,UK/EU,392.5,390.0,395.0,Indication,CFR,Qasim,,,37.87,star_asia_2025_W15_Market-report-Week-15.pdf
+2025-04-11,15,Turkey,Shredded,UAE,397.5,395.0,400.0,Indication,CFR,Qasim,,,37.87,star_asia_2025_W15_Market-report-Week-15.pdf
+2025-04-11,15,Turkey,Domestic Scrap,,496.0,487.0,505.0,Indication,CFR,Turkey,,,37.87,star_asia_2025_W15_Market-report-Week-15.pdf
+2025-04-11,15,Turkey,Domestic Scrap,,856.0,849.0,863.0,Indication,Ex-Works,Turkey,,,37.87,star_asia_2025_W15_Market-report-Week-15.pdf
+2025-04-11,15,Turkey,Shredded,,390.0,385.0,395.0,Offer,CFR,Turkey,,,37.87,star_asia_2025_W15_Market-report-Week-15.pdf
+2025-04-11,15,Turkey,HMS 80:20,Australia,367.5,365.0,370.0,Indication,CFR,Turkey,,,37.87,star_asia_2025_W15_Market-report-Week-15.pdf
+2025-04-11,15,Bangladesh,Steel Scrap,,678.0,674.0,682.0,Indication,CFR,,,,121.49,star_asia_2025_W15_Market-report-Week-15.pdf
+2025-04-11,15,Bangladesh,Steel Scrap,,708.5,703.0,714.0,Indication,CFR,,,,121.49,star_asia_2025_W15_Market-report-Week-15.pdf
+2025-04-11,15,Bangladesh,PNS,,471.0,469.0,473.0,Indication,CFR,,,,121.49,star_asia_2025_W15_Market-report-Week-15.pdf
+2025-04-11,15,Bangladesh,HMS,,460.0,456.0,464.0,Indication,CFR,,,,121.49,star_asia_2025_W15_Market-report-Week-15.pdf
+2025-04-11,15,Bangladesh,HMS 80:20,US,365.0,365.0,365.0,Indication,CFR,Turkey,,,121.49,star_asia_2025_W15_Market-report-Week-15.pdf
+2025-04-11,15,Bangladesh,HMS 90:10,,369.0,369.0,369.0,Deal Concluded,CFR,,,,121.49,star_asia_2025_W15_Market-report-Week-15.pdf
+2025-04-11,15,Bangladesh,HMS 90:10,,386.0,386.0,386.0,Indication,CFR,,,,121.49,star_asia_2025_W15_Market-report-Week-15.pdf
+2025-04-11,15,Bangladesh,HMS 80:20,US,367.5,365.0,370.0,Offer,CFR,,,,121.49,star_asia_2025_W15_Market-report-Week-15.pdf
+2025-04-11,15,Bangladesh,Billet,,360.0,360.0,360.0,Indication,CFR,,,,121.49,star_asia_2025_W15_Market-report-Week-15.pdf
+2025-04-20,16,India,Shredded,UK,390.0,390.0,390.0,Offer,CFR,Nhava Sheva,,,85.43,star_asia_2025_W16_Market-report-Week-16.pdf
+2025-04-20,16,India,Shredded,UK,380.0,380.0,380.0,Offer,CFR,Nhava Sheva,,,85.43,star_asia_2025_W16_Market-report-Week-16.pdf
+2025-04-20,16,India,HMS,Australia,357.5,350.0,365.0,Deal Concluded,CFR,,,,85.43,star_asia_2025_W16_Market-report-Week-16.pdf
+2025-04-20,16,India,Shredded,,380.0,380.0,380.0,Indication,CFR,,,,85.43,star_asia_2025_W16_Market-report-Week-16.pdf
+2025-04-20,16,India,HMS 80:20,,382.5,380.0,385.0,Indication,CFR,,,,85.43,star_asia_2025_W16_Market-report-Week-16.pdf
+2025-04-20,16,India,HMS 80:20,,380.0,380.0,380.0,Indication,CFR,,,,85.43,star_asia_2025_W16_Market-report-Week-16.pdf
+2025-04-20,16,India,HMS 80:20,,395.0,395.0,395.0,Indication,CFR,,,,85.43,star_asia_2025_W16_Market-report-Week-16.pdf
+2025-04-20,16,Pakistan,Shredded,UK,381.0,381.0,381.0,Offer,CFR,,,,280.59,star_asia_2025_W16_Market-report-Week-16.pdf
+2025-04-20,16,Pakistan,Shredded,UK,381.0,380.0,382.0,Offer,CFR,,,,280.59,star_asia_2025_W16_Market-report-Week-16.pdf
+2025-04-20,16,Pakistan,Shredded,UK,376.5,375.0,378.0,Offer,CFR,,,,280.59,star_asia_2025_W16_Market-report-Week-16.pdf
+2025-04-20,16,Pakistan,Domestic Scrap,,819.7,819.7,819.7,Indication,Domestic,,230000.0,PKR,280.59,star_asia_2025_W16_Market-report-Week-16.pdf
+2025-04-20,16,Pakistan,Rebar,,855.0,820.0,890.0,Indication,CFR,,,,280.59,star_asia_2025_W16_Market-report-Week-16.pdf
+2025-04-20,16,Turkey,Steel Scrap,Australia,370.0,360.0,380.0,Offer,CFR,Turkey,,,38.09,star_asia_2025_W16_Market-report-Week-16.pdf
+2025-04-20,16,Turkey,HMS 80:20,,345.0,345.0,345.0,Indication,CFR,Turkey,,,38.09,star_asia_2025_W16_Market-report-Week-16.pdf
+2025-04-20,16,Turkey,HMS,UK/EU,341.5,335.0,348.0,Indication,CFR,Turkey,,,38.09,star_asia_2025_W16_Market-report-Week-16.pdf
+2025-04-20,16,Turkey,Steel Scrap,US,350.0,345.0,355.0,Offer,CFR,Turkey,,,38.09,star_asia_2025_W16_Market-report-Week-16.pdf
+2025-04-20,16,Turkey,Steel Scrap,Baltic,348.0,348.0,348.0,Indication,CFR,Turkey,,,38.09,star_asia_2025_W16_Market-report-Week-16.pdf
+2025-04-20,16,Turkey,HMS 80:20,EU,331.0,330.0,332.0,Deal Concluded,CFR,Turkey,,,38.09,star_asia_2025_W16_Market-report-Week-16.pdf
+2025-04-20,16,Turkey,HMS,,333.0,333.0,333.0,Indication,CFR,Turkey,,,38.09,star_asia_2025_W16_Market-report-Week-16.pdf
+2025-04-25,17,India,Steel Scrap,,371.0,371.0,371.0,Indication,CFR,,,,85.44,star_asia_2025_W17_Market-report-Week-17.pdf
+2025-04-25,17,India,Shredded,UK,372.5,370.0,375.0,Bid,CFR,Nhava Sheva,,,85.44,star_asia_2025_W17_Market-report-Week-17.pdf
+2025-04-25,17,India,Shredded,UK,367.5,365.0,370.0,Bid,CFR,Nhava Sheva,,,85.44,star_asia_2025_W17_Market-report-Week-17.pdf
+2025-05-02,18,Turkey,Shredded,UK,370.0,370.0,370.0,Bid,CFR,Nhava Sheva,,,38.52,star_asia_2025_W18_Market-report-Week-18.pdf
+2025-05-02,18,Turkey,Shredded,UK,365.0,365.0,365.0,Bid,CFR,Nhava Sheva,,,38.52,star_asia_2025_W18_Market-report-Week-18.pdf
+2025-05-02,18,Turkey,HMS 80:20,UK,347.5,345.0,350.0,Indication,CFR,Turkey,,,38.52,star_asia_2025_W18_Market-report-Week-18.pdf
+2025-05-02,18,Turkey,HMS,African,350.0,350.0,350.0,Offer,CFR,Turkey,,,38.52,star_asia_2025_W18_Market-report-Week-18.pdf
+2025-05-02,18,Pakistan,Shredded,UK,372.5,370.0,375.0,Offer,CFR,Qasim,,,281.12,star_asia_2025_W18_Market-report-Week-18.pdf
+2025-05-02,18,Pakistan,Shredded,UK,365.0,364.0,366.0,Offer,CFR,Qasim,,,281.12,star_asia_2025_W18_Market-report-Week-18.pdf
+2025-05-02,18,Pakistan,Steel Scrap,UAE,387.5,385.0,390.0,Offer,CFR,,,,281.12,star_asia_2025_W18_Market-report-Week-18.pdf
+2025-05-02,18,Pakistan,Shredded,Australia,380.0,380.0,380.0,Offer,CFR,,,,281.12,star_asia_2025_W18_Market-report-Week-18.pdf
+2025-05-02,18,Pakistan,Shredded,Australia,375.5,375.0,376.0,Bid,CFR,,,,281.12,star_asia_2025_W18_Market-report-Week-18.pdf
+2025-05-02,18,Pakistan,HMS 80:20,,330.0,330.0,330.0,Deal Concluded,CFR,,,,281.12,star_asia_2025_W18_Market-report-Week-18.pdf
+2025-05-09,19,India,Shredded,UK/EU,372.5,370.0,375.0,Bid,CFR,,,,85.37,star_asia_2025_W19_Market-report-Week-19.pdf
+2025-05-09,19,India,Shredded,UK/EU,362.5,360.0,365.0,Bid,CFR,,,,85.37,star_asia_2025_W19_Market-report-Week-19.pdf
+2025-05-09,19,India,HMS,EU,352.5,350.0,355.0,Offer,CFR,,,,85.37,star_asia_2025_W19_Market-report-Week-19.pdf
+2025-05-09,19,India,HMS,EU,351.0,350.0,352.0,Offer,CFR,,,,85.37,star_asia_2025_W19_Market-report-Week-19.pdf
+2025-05-09,19,Bangladesh,PNS,,377.5,375.0,380.0,Offer,CFR,,,,121.52,star_asia_2025_W19_Market-report-Week-19.pdf
+2025-05-09,19,Bangladesh,PNS,,385.0,385.0,385.0,Offer,CFR,,,,121.52,star_asia_2025_W19_Market-report-Week-19.pdf
+2025-05-09,19,Bangladesh,HMS 80:20,Australia,355.0,355.0,355.0,Deal Concluded,CFR,,,,121.52,star_asia_2025_W19_Market-report-Week-19.pdf
+2025-05-09,19,Bangladesh,HMS,,348.0,348.0,348.0,Indication,CFR,,,,121.52,star_asia_2025_W19_Market-report-Week-19.pdf
+2025-05-09,19,Bangladesh,Shredded,New Zealand,385.0,385.0,385.0,Offer,CFR,,,,121.52,star_asia_2025_W19_Market-report-Week-19.pdf
+2025-05-16,20,India,Shredded,,370.0,365.0,375.0,Offer,CFR,Nhava Sheva,,,85.57,star_asia_2025_W20_Market-report-Week-20.pdf
+2025-05-16,20,India,Shredded,,362.5,360.0,365.0,Bid,CFR,Nhava Sheva,,,85.57,star_asia_2025_W20_Market-report-Week-20.pdf
+2025-05-16,20,India,HMS 80:20,,352.5,350.0,355.0,Bid,CFR,Nhava Sheva,,,85.57,star_asia_2025_W20_Market-report-Week-20.pdf
+2025-05-16,20,India,HMS 80:20,,347.5,345.0,350.0,Bid,CFR,Nhava Sheva,,,85.57,star_asia_2025_W20_Market-report-Week-20.pdf
+2025-05-16,20,Bangladesh,Shredded,Australia,377.5,375.0,380.0,Offer,CFR,Chattogram,,,121.45,star_asia_2025_W20_Market-report-Week-20.pdf
+2025-05-16,20,Bangladesh,Shredded,Australia,362.5,360.0,365.0,Offer,CFR,Chattogram,,,121.45,star_asia_2025_W20_Market-report-Week-20.pdf
+2025-05-16,20,Bangladesh,HMS 80:20,,352.5,350.0,355.0,Indication,CFR,Chattogram,,,121.45,star_asia_2025_W20_Market-report-Week-20.pdf
+2025-05-16,20,Pakistan,Shredded,UK,377.5,375.0,380.0,Bid,CFR,Qasim,,,281.58,star_asia_2025_W20_Market-report-Week-20.pdf
+2025-05-16,20,Pakistan,Shredded,UK,372.5,370.0,375.0,Bid,CFR,Qasim,,,281.58,star_asia_2025_W20_Market-report-Week-20.pdf
+2025-05-16,20,Turkey,HMS 80:20,US,347.0,347.0,347.0,Deal Concluded,CFR,Turkey,,,38.85,star_asia_2025_W20_Market-report-Week-20.pdf
+2025-05-16,20,Turkey,HMS 80:20,US,367.0,367.0,367.0,Deal Concluded,CFR,Turkey,,,38.85,star_asia_2025_W20_Market-report-Week-20.pdf
+2025-05-16,20,Turkey,HMS 80:20,US,347.0,347.0,347.0,Offer,CFR,Turkey,,,38.85,star_asia_2025_W20_Market-report-Week-20.pdf
+2025-05-16,20,Turkey,HMS 80:20,EU,347.5,345.0,350.0,Offer,CFR,Turkey,,,38.85,star_asia_2025_W20_Market-report-Week-20.pdf
+2025-05-30,22,India,Steel Scrap,EU,372.5,370.0,375.0,Bid,CFR,,,,85.56,star_asia_2025_W22_Market-report-Week-22.pdf
+2025-05-30,22,India,Steel Scrap,EU,362.5,360.0,365.0,Bid,CFR,,,,85.56,star_asia_2025_W22_Market-report-Week-22.pdf
+2025-05-30,22,India,HMS 80:20,EU,347.5,345.0,350.0,Bid,CFR,,,,85.56,star_asia_2025_W22_Market-report-Week-22.pdf
+2025-05-30,22,India,HMS 80:20,EU,342.5,340.0,345.0,Bid,CFR,,,,85.56,star_asia_2025_W22_Market-report-Week-22.pdf
+2025-05-30,22,Bangladesh,Shredded,Australia,357.5,355.0,360.0,Offer,CFR,Chattogram,,,122.13,star_asia_2025_W22_Market-report-Week-22.pdf
+2025-05-30,22,Bangladesh,Shredded,Australia,366.0,365.0,367.0,Offer,CFR,Chattogram,,,122.13,star_asia_2025_W22_Market-report-Week-22.pdf
+2025-05-30,22,Bangladesh,Shredded,Australia,377.5,375.0,380.0,Offer,CFR,Chattogram,,,122.13,star_asia_2025_W22_Market-report-Week-22.pdf
+2025-05-30,22,Bangladesh,Busheling,,387.5,385.0,390.0,Indication,CFR,Chattogram,,,122.13,star_asia_2025_W22_Market-report-Week-22.pdf
+2025-05-30,22,Bangladesh,Domestic Scrap,,433.96,433.96,433.96,Indication,Domestic,,53000.0,BDT,122.13,star_asia_2025_W22_Market-report-Week-22.pdf
+2025-06-06,23,Bangladesh,Shredded,EU,371.0,370.0,372.0,Offer,CFR,,,,122.19,star_asia_2025_W23_Market-report-Week-23.pdf
+2025-06-06,23,Bangladesh,Shredded,EU,368.0,366.0,370.0,Offer,CFR,,,,122.19,star_asia_2025_W23_Market-report-Week-23.pdf
+2025-06-06,23,Bangladesh,HMS 80:20,UK,363.5,362.0,365.0,Offer,CFR,,,,122.19,star_asia_2025_W23_Market-report-Week-23.pdf
+2025-06-06,23,Bangladesh,HMS 80:20,UK,342.0,340.0,344.0,Offer,CFR,,,,122.19,star_asia_2025_W23_Market-report-Week-23.pdf
+2025-06-06,23,Bangladesh,Steel Scrap,,356.5,355.0,358.0,Offer,CFR,Nhava Sheva,,,122.19,star_asia_2025_W23_Market-report-Week-23.pdf
+2025-06-06,23,Bangladesh,Shredded,,374.5,374.0,375.0,Offer,CFR,Qasim,,,122.19,star_asia_2025_W23_Market-report-Week-23.pdf
+2025-06-06,23,Bangladesh,Steel Scrap,US,373.0,373.0,373.0,Indication,CFR,Chattogram,,,122.19,star_asia_2025_W23_Market-report-Week-23.pdf
+2025-06-06,23,Bangladesh,Shredded,,378.0,376.0,380.0,Offer,CFR,Chattogram,,,122.19,star_asia_2025_W23_Market-report-Week-23.pdf
+2025-06-13,24,Pakistan,Shredded,,362.5,360.0,365.0,Bid,CFR,Nhava Sheva,,,282.91,star_asia_2025_W24_Market-report-Week-24.pdf
+2025-06-20,25,Bangladesh,Shredded,Australia,365.5,365.0,366.0,Indication,CFR,,,,122.35,star_asia_2025_W25_Market-report-Week-25.pdf
+2025-06-20,25,Bangladesh,Shredded,Australia,357.5,355.0,360.0,Indication,CFR,,,,122.35,star_asia_2025_W25_Market-report-Week-25.pdf
+2025-06-20,25,Bangladesh,Shredded,EU,370.0,370.0,370.0,Offer,CFR,Qasim,,,122.35,star_asia_2025_W25_Market-report-Week-25.pdf
+2025-06-20,25,Bangladesh,Shredded,EU,375.0,375.0,375.0,Offer,CFR,Qasim,,,122.35,star_asia_2025_W25_Market-report-Week-25.pdf
+2025-06-20,25,Bangladesh,Shredded,UK,370.0,370.0,370.0,Indication,CFR,,,,122.35,star_asia_2025_W25_Market-report-Week-25.pdf
+2025-06-20,25,Bangladesh,Shredded,UAE,385.0,385.0,385.0,Offer,CFR,,,,122.35,star_asia_2025_W25_Market-report-Week-25.pdf
+2025-06-20,25,Bangladesh,PNS,,377.0,376.0,378.0,Indication,CFR,,,,122.35,star_asia_2025_W25_Market-report-Week-25.pdf
+2025-06-20,25,Bangladesh,HMS,US,349.0,348.0,350.0,Offer,CFR,Turkey,,,122.35,star_asia_2025_W25_Market-report-Week-25.pdf
+2025-06-20,25,Bangladesh,HMS,EU,342.5,340.0,345.0,Indication,CFR,Turkey,,,122.35,star_asia_2025_W25_Market-report-Week-25.pdf
+2025-06-20,25,Bangladesh,Steel Scrap,,340.0,340.0,340.0,Offer,CFR,,,,122.35,star_asia_2025_W25_Market-report-Week-25.pdf
+2025-07-05,27,Bangladesh,Shredded,,365.0,360.0,370.0,Bid,CFR,Nhava Sheva,,,122.61,star_asia_2025_W27_Market-report-Week-27.pdf
+2025-07-05,27,Bangladesh,Shredded,,360.0,355.0,365.0,Bid,CFR,Nhava Sheva,,,122.61,star_asia_2025_W27_Market-report-Week-27.pdf
+2025-07-05,27,Bangladesh,HMS 80:20,,340.0,335.0,345.0,Offer,CFR,,,,122.61,star_asia_2025_W27_Market-report-Week-27.pdf
+2025-07-05,27,Bangladesh,HMS 80:20,,327.5,325.0,330.0,Offer,CFR,,,,122.61,star_asia_2025_W27_Market-report-Week-27.pdf
+2025-07-05,27,Pakistan,Shredded,UK,373.5,372.0,375.0,Offer,CFR,Qasim,,,283.85,star_asia_2025_W27_Market-report-Week-27.pdf
+2025-07-05,27,Pakistan,Shredded,Australia,372.5,370.0,375.0,Offer,CFR,,,,283.85,star_asia_2025_W27_Market-report-Week-27.pdf
+2025-07-05,27,Pakistan,HMS,,352.5,350.0,355.0,Indication,CFR,,,,283.85,star_asia_2025_W27_Market-report-Week-27.pdf
+2025-07-11,28,India,Shredded,UK,360.0,358.0,362.0,Offer,CFR,Nhava Sheva,,,85.82,star_asia_2025_W28_Market-report-Week-28.pdf
+2025-07-11,28,India,Shredded,Australia,354.5,354.0,355.0,Indication,CFR,Nhava Sheva,,,85.82,star_asia_2025_W28_Market-report-Week-28.pdf
+2025-07-11,28,India,HMS 80:20,UK,334.5,334.0,335.0,Indication,CFR,,,,85.82,star_asia_2025_W28_Market-report-Week-28.pdf
+2025-07-11,28,India,HMS 80:20,UK,371.0,370.0,372.0,Indication,CFR,,,,85.82,star_asia_2025_W28_Market-report-Week-28.pdf
+2025-07-18,29,India,HMS,,330.0,330.0,330.0,Bid,CFR,,,,86.1,star_asia_2025_W29_Market-report-Week-29.pdf
+2025-07-18,29,India,Shredded,,370.0,370.0,370.0,Offer,CFR,,,,86.1,star_asia_2025_W29_Market-report-Week-29.pdf
+2025-07-18,29,India,Shredded,,360.0,360.0,360.0,Offer,CFR,,,,86.1,star_asia_2025_W29_Market-report-Week-29.pdf
+2025-07-18,29,Bangladesh,HMS,US,360.0,360.0,360.0,Offer,CFR,,,,121.37,star_asia_2025_W29_Market-report-Week-29.pdf
+2025-07-18,29,Bangladesh,HMS,US,347.5,345.0,350.0,Offer,CFR,,,,121.37,star_asia_2025_W29_Market-report-Week-29.pdf
+2025-07-18,29,Bangladesh,Steel Scrap,Japan,338.0,336.0,340.0,Indication,CFR,,,,121.37,star_asia_2025_W29_Market-report-Week-29.pdf
+2025-07-18,29,Pakistan,Shredded,,385.0,385.0,385.0,Indication,CFR,Qasim,,,284.8,star_asia_2025_W29_Market-report-Week-29.pdf
+2025-07-25,30,India,Shredded,UK,362.5,360.0,365.0,Offer,CFR,,,,86.5,star_asia_2025_W30_Market-report-Week-30.pdf
+2025-07-25,30,Pakistan,Shredded,,385.0,385.0,385.0,Indication,CFR,,,,283.8,star_asia_2025_W30_Market-report-Week-30.pdf
+2025-08-01,31,India,Shredded,EU,370.0,368.0,372.0,Offer,CFR,,,,87.18,star_asia_2025_W31_Market-report-Week-31.pdf
+2025-08-01,31,Pakistan,Shredded,UAE,392.0,390.0,394.0,Indication,CFR,,,,283.69,star_asia_2025_W31_Market-report-Week-31.pdf
+2025-08-01,31,Bangladesh,HMS 80:20,,355.0,355.0,355.0,Offer,CFR,,,,122.25,star_asia_2025_W31_Market-report-Week-31.pdf
+2025-08-01,31,Bangladesh,Shredded,Australia,375.0,375.0,375.0,Indication,CFR,,,,122.25,star_asia_2025_W31_Market-report-Week-31.pdf
+2025-08-09,32,Bangladesh,Shredded,Bahrain,365.0,365.0,365.0,Indication,Delivered,Mandi,,,121.41,star_asia_2025_W32_Market-report-Week-32.pdf
+2025-08-09,32,Bangladesh,Shredded,Bahrain,345.0,345.0,345.0,Indication,Delivered,Mandi,,,121.41,star_asia_2025_W32_Market-report-Week-32.pdf
+2025-08-09,32,Bangladesh,Shredded,UK,375.0,375.0,375.0,Indication,CFR,Mandi,,,121.41,star_asia_2025_W32_Market-report-Week-32.pdf
+2025-08-09,32,Bangladesh,Shredded,UK,360.0,360.0,360.0,Indication,CFR,Mandi,,,121.41,star_asia_2025_W32_Market-report-Week-32.pdf
+2025-08-09,32,Bangladesh,Shredded,UK,382.5,380.0,385.0,Indication,CFR,,,,121.41,star_asia_2025_W32_Market-report-Week-32.pdf
+2025-08-09,32,Bangladesh,HMS,UAE,375.0,375.0,375.0,Indication,CFR,,,,121.41,star_asia_2025_W32_Market-report-Week-32.pdf
+2025-08-09,32,Bangladesh,HMS,,395.0,395.0,395.0,Indication,CFR,,,,121.41,star_asia_2025_W32_Market-report-Week-32.pdf
+2025-08-09,32,Bangladesh,Billet,,549.0,547.0,551.0,Indication,CFR,,,,121.41,star_asia_2025_W32_Market-report-Week-32.pdf
+2025-08-09,32,Bangladesh,Billet,,629.0,625.0,633.0,Indication,CFR,,,,121.41,star_asia_2025_W32_Market-report-Week-32.pdf
+2025-08-09,32,Bangladesh,HMS 80:20,,348.0,348.0,348.0,Indication,CFR,,,,121.41,star_asia_2025_W32_Market-report-Week-32.pdf
+2025-08-09,32,Bangladesh,HMS 80:20,,350.0,350.0,350.0,Indication,CFR,,,,121.41,star_asia_2025_W32_Market-report-Week-32.pdf
+2025-08-15,33,Bangladesh,HMS 80:20,,345.0,345.0,345.0,Indication,CFR,Mundra,,,121.48,star_asia_2025_W33_Market-report-Week-33.pdf
+2025-08-15,33,Bangladesh,HMS,Malaysia,330.0,330.0,330.0,Indication,CFR,Chennai,,,121.48,star_asia_2025_W33_Market-report-Week-33.pdf
+2025-08-15,33,Bangladesh,Shredded,Australia,362.5,360.0,365.0,Offer,CFR,,,,121.48,star_asia_2025_W33_Market-report-Week-33.pdf
+2025-08-15,33,Bangladesh,HMS 80:20,,337.5,335.0,340.0,Indication,CFR,,,,121.48,star_asia_2025_W33_Market-report-Week-33.pdf
+2025-08-15,33,Bangladesh,Steel Scrap,,380.0,380.0,380.0,Offer,CFR,Qasim,,,121.48,star_asia_2025_W33_Market-report-Week-33.pdf
+2025-08-15,33,Bangladesh,HMS 90:10,,350.0,350.0,350.0,Offer,CFR,,,,121.48,star_asia_2025_W33_Market-report-Week-33.pdf
+2025-08-15,33,Bangladesh,HMS 90:10,,365.0,365.0,365.0,Offer,CFR,,,,121.48,star_asia_2025_W33_Market-report-Week-33.pdf
+2025-08-15,33,Bangladesh,HMS,Australia,342.0,342.0,342.0,Indication,CFR,,,,121.48,star_asia_2025_W33_Market-report-Week-33.pdf
+2025-08-15,33,Bangladesh,HMS 80:20,EU,347.5,345.0,350.0,Indication,CFR,Turkey,,,121.48,star_asia_2025_W33_Market-report-Week-33.pdf
+2025-08-15,33,Bangladesh,HMS 80:20,EU,340.0,340.0,340.0,Indication,CFR,Turkey,,,121.48,star_asia_2025_W33_Market-report-Week-33.pdf
+2025-08-22,34,Bangladesh,Shredded,,362.5,360.0,365.0,Indication,CFR,Nhava Sheva,,,121.68,star_asia_2025_W34_Market-report-Week-34.pdf
+2025-08-29,35,India,HMS,,340.0,340.0,340.0,Bid,CFR,,,,88.16,star_asia_2025_W35_Market-report-Week-35.pdf
+2025-08-29,35,India,HMS,,346.0,346.0,346.0,Offer,CFR,,,,88.16,star_asia_2025_W35_Market-report-Week-35.pdf
+2025-08-29,35,Bangladesh,Shredded,Australia,380.0,380.0,380.0,Offer,CFR,,,,121.61,star_asia_2025_W35_Market-report-Week-35.pdf
+2025-08-29,35,Bangladesh,Shredded,Australia,370.0,370.0,370.0,Offer,CFR,,,,121.61,star_asia_2025_W35_Market-report-Week-35.pdf
+2025-08-29,35,Pakistan,Shredded,UK,381.0,378.0,384.0,Bid,CFR,,,,283.88,star_asia_2025_W35_Market-report-Week-35.pdf
+2025-09-12,37,India,Shredded,,364.0,363.0,365.0,Offer,CFR,Nhava Sheva,,,88.27,star_asia_2025_W37_Market-report-Week-37.pdf
+2025-09-12,37,India,Busheling,,373.5,372.0,375.0,Indication,CFR,Nhava Sheva,,,88.27,star_asia_2025_W37_Market-report-Week-37.pdf
+2025-09-12,37,Pakistan,Steel Scrap,,373.0,372.0,374.0,Bid,CFR,,,,283.77,star_asia_2025_W37_Market-report-Week-37.pdf
+2025-09-12,37,Pakistan,Steel Scrap,,367.0,366.0,368.0,Bid,CFR,,,,283.77,star_asia_2025_W37_Market-report-Week-37.pdf
+2025-09-12,37,Bangladesh,Shredded,,376.5,375.0,378.0,Offer,CFR,Chattogram,,,121.72,star_asia_2025_W37_Market-report-Week-37.pdf
+2025-09-12,37,Bangladesh,Shredded,,371.0,370.0,372.0,Bid,CFR,Chattogram,,,121.72,star_asia_2025_W37_Market-report-Week-37.pdf
+2025-09-12,37,Turkey,HMS 80:20,EU,330.5,328.0,333.0,Indication,CFR,Turkey,,,41.37,star_asia_2025_W37_Market-report-Week-37.pdf
+2025-09-19,38,Turkey,Shredded,Japan,364.5,364.0,365.0,Indication,CFR,Turkey,,,41.36,star_asia_2025_W38_Market-report-Week-38.pdf
+2025-09-19,38,Turkey,Shredded,UK/EU,362.5,360.0,365.0,Bid,CFR,Nhava Sheva,,,41.36,star_asia_2025_W38_Market-report-Week-38.pdf
+2025-09-19,38,Turkey,Shredded,UK/EU,357.5,355.0,360.0,Bid,CFR,Nhava Sheva,,,41.36,star_asia_2025_W38_Market-report-Week-38.pdf
+2025-09-19,38,Turkey,Shredded,UK,372.0,372.0,372.0,Offer,CFR,Turkey,,,41.36,star_asia_2025_W38_Market-report-Week-38.pdf
+2025-09-19,38,Turkey,Shredded,UK,368.0,368.0,368.0,Offer,CFR,Turkey,,,41.36,star_asia_2025_W38_Market-report-Week-38.pdf
+2025-09-19,38,Turkey,Steel Scrap,,369.0,368.0,370.0,Deal Concluded,CFR,Turkey,,,41.36,star_asia_2025_W38_Market-report-Week-38.pdf
+2025-09-19,38,Turkey,Domestic Scrap,,5681.82,5681.82,5681.82,Indication,Domestic,,235000.0,PKR,41.36,star_asia_2025_W38_Market-report-Week-38.pdf
+2025-09-19,38,Turkey,Shredded,Australia,360.0,360.0,360.0,Offer,CFR,Turkey,,,41.36,star_asia_2025_W38_Market-report-Week-38.pdf
+2025-09-19,38,Turkey,Shredded,Australia,347.0,347.0,347.0,Offer,CFR,Turkey,,,41.36,star_asia_2025_W38_Market-report-Week-38.pdf
+2025-09-19,38,Turkey,HMS,,338.0,338.0,338.0,Indication,CFR,Turkey,,,41.36,star_asia_2025_W38_Market-report-Week-38.pdf
+2025-09-26,39,India,Steel Scrap,UK,312.0,312.0,312.0,Offer,CFR,Nhava Sheva,,,88.66,star_asia_2025_W39_Market-report-Week-39.pdf
+2025-10-24,43,India,Shredded,,355.0,354.0,356.0,Offer,CFR,Mundra,,,87.79,star_asia_2025_W43_Market-report-Week-43.pdf
+2025-10-24,43,India,HMS 80:20,,324.5,323.0,326.0,Indication,CFR,Mundra,,,87.79,star_asia_2025_W43_Market-report-Week-43.pdf
+2025-10-31,44,India,HMS 80:20,,342.5,340.0,345.0,Offer,CFR,,,,88.81,star_asia_2025_W44_Market-report-Week-44.pdf
+2025-10-31,44,India,HMS 80:20,,327.5,325.0,330.0,Offer,CFR,,,,88.81,star_asia_2025_W44_Market-report-Week-44.pdf
+2025-10-31,44,India,Shredded,,345.0,340.0,350.0,Bid,CFR,,,,88.81,star_asia_2025_W44_Market-report-Week-44.pdf
+2025-10-31,44,Pakistan,Shredded,UK/EU,358.0,356.0,360.0,Offer,CFR,,,,280.98,star_asia_2025_W44_Market-report-Week-44.pdf
+2025-10-31,44,Pakistan,HMS,,342.5,340.0,345.0,Indication,CFR,,,,280.98,star_asia_2025_W44_Market-report-Week-44.pdf
+2025-10-31,44,Pakistan,Shredded,UK,352.5,350.0,355.0,Bid,CFR,,,,280.98,star_asia_2025_W44_Market-report-Week-44.pdf
+2025-11-07,45,India,Shredded,,357.5,355.0,360.0,Offer,CFR,Chennai,,,88.67,star_asia_2025_W45_Market-report-Week-45.pdf
+2025-11-07,45,India,Shredded,,345.0,345.0,345.0,Offer,CFR,Chennai,,,88.67,star_asia_2025_W45_Market-report-Week-45.pdf
+2025-11-07,45,India,HMS 90:10,,342.5,340.0,345.0,Offer,CFR,,,,88.67,star_asia_2025_W45_Market-report-Week-45.pdf
+2025-11-07,45,India,HMS 90:10,,332.5,330.0,335.0,Offer,CFR,,,,88.67,star_asia_2025_W45_Market-report-Week-45.pdf
+2025-11-07,45,India,HMS 80:20,,332.5,330.0,335.0,Offer,CFR,,,,88.67,star_asia_2025_W45_Market-report-Week-45.pdf
+2025-11-07,45,India,HMS 80:20,,326.5,325.0,328.0,Offer,CFR,,,,88.67,star_asia_2025_W45_Market-report-Week-45.pdf
+2025-11-07,45,Pakistan,Shredded,UK,355.5,355.0,356.0,Offer,CFR,,,,282.74,star_asia_2025_W45_Market-report-Week-45.pdf
+2025-11-07,45,Pakistan,Shredded,UK,360.0,360.0,360.0,Offer,CFR,,,,282.74,star_asia_2025_W45_Market-report-Week-45.pdf
+2025-11-07,45,Pakistan,Shredded,EU,359.0,359.0,359.0,Indication,CFR,,,,282.74,star_asia_2025_W45_Market-report-Week-45.pdf
+2025-11-07,45,Pakistan,Shredded,UK,363.0,363.0,363.0,Indication,CFR,,,,282.74,star_asia_2025_W45_Market-report-Week-45.pdf
+2025-11-07,45,Pakistan,Domestic Scrap,,459.79,459.79,459.79,Indication,Domestic,,130000.0,PKR,282.74,star_asia_2025_W45_Market-report-Week-45.pdf
+2025-11-07,45,Bangladesh,PNS,New Zealand,366.5,365.0,368.0,Indication,CFR,,,,122.0,star_asia_2025_W45_Market-report-Week-45.pdf
+2025-11-07,45,Bangladesh,HMS,US,332.5,330.0,335.0,Indication,CFR,,,,122.0,star_asia_2025_W45_Market-report-Week-45.pdf
+2025-11-07,45,Bangladesh,Rebar,,632.0,624.0,640.0,Indication,CFR,,,,122.0,star_asia_2025_W45_Market-report-Week-45.pdf
+2025-11-07,45,Bangladesh,Domestic Scrap,,595.0,591.0,599.0,Indication,Ex-Works,Chattogram,,,122.0,star_asia_2025_W45_Market-report-Week-45.pdf
+2025-11-07,45,Bangladesh,Domestic Scrap,,381.0,377.0,385.0,Indication,Ex-Works,Chattogram,,,122.0,star_asia_2025_W45_Market-report-Week-45.pdf
+2025-11-07,45,Turkey,HMS 80:20,US,356.0,356.0,356.0,Deal Concluded,CFR,Turkey,,,42.19,star_asia_2025_W45_Market-report-Week-45.pdf
+2025-11-14,46,India,HMS,Mozambique,330.0,330.0,330.0,Offer,CFR,,,,88.68,star_asia_2025_W46_Market-report-Week-46.pdf
+2025-11-14,46,India,HMS,Mozambique,325.0,325.0,325.0,Bid,CFR,,,,88.68,star_asia_2025_W46_Market-report-Week-46.pdf
+2025-11-14,46,India,Shredded,,350.0,350.0,350.0,Indication,CFR,,,,88.68,star_asia_2025_W46_Market-report-Week-46.pdf
+2025-11-14,46,India,HMS,,325.0,325.0,325.0,Indication,CFR,,,,88.68,star_asia_2025_W46_Market-report-Week-46.pdf
+2025-11-14,46,India,Turning,,310.0,310.0,310.0,Offer,CFR,,,,88.68,star_asia_2025_W46_Market-report-Week-46.pdf
+2025-11-14,46,India,Turning,,295.0,295.0,295.0,Bid,CFR,,,,88.68,star_asia_2025_W46_Market-report-Week-46.pdf
+2025-11-14,46,India,PNS,Japan,313.5,312.0,315.0,Offer,CFR,,,,88.68,star_asia_2025_W46_Market-report-Week-46.pdf
+2025-11-14,46,India,PNS,Japan,330.0,330.0,330.0,Offer,CFR,,,,88.68,star_asia_2025_W46_Market-report-Week-46.pdf
+2025-11-14,46,India,PNS,Japan,352.5,350.0,355.0,Offer,CFR,,,,88.68,star_asia_2025_W46_Market-report-Week-46.pdf
+2025-11-14,46,India,Domestic Scrap,,462.34,462.34,462.34,Indication,Domestic,,41000.0,INR,88.68,star_asia_2025_W46_Market-report-Week-46.pdf
+2025-11-14,46,Pakistan,Steel Scrap,EU,355.5,355.0,356.0,Indication,CFR,Qasim,,,280.75,star_asia_2025_W46_Market-report-Week-46.pdf
+2025-11-14,46,Pakistan,Steel Scrap,EU,355.0,355.0,355.0,Indication,CFR,Qasim,,,280.75,star_asia_2025_W46_Market-report-Week-46.pdf
+2025-11-14,46,Pakistan,Shredded,,355.0,355.0,355.0,Offer,CFR,,,,280.75,star_asia_2025_W46_Market-report-Week-46.pdf
+2025-11-14,46,Pakistan,Steel Scrap,,370.0,370.0,370.0,Indication,CFR,,,,280.75,star_asia_2025_W46_Market-report-Week-46.pdf
+2025-11-14,46,Pakistan,Domestic Scrap,,480.85,480.85,480.85,Indication,Domestic,,135000.0,PKR,280.75,star_asia_2025_W46_Market-report-Week-46.pdf
+2025-11-14,46,Bangladesh,Steel Scrap,,310.0,310.0,310.0,Bid,CFR,,,,122.17,star_asia_2025_W46_Market-report-Week-46.pdf
+2025-11-14,46,Bangladesh,Steel Scrap,,305.0,305.0,305.0,Bid,CFR,,,,122.17,star_asia_2025_W46_Market-report-Week-46.pdf
+2025-11-14,46,Bangladesh,HMS 80:20,Australia,330.0,330.0,330.0,Indication,CFR,,,,122.17,star_asia_2025_W46_Market-report-Week-46.pdf
+2025-11-14,46,Bangladesh,PNS,,332.5,330.0,335.0,Offer,CFR,,,,122.17,star_asia_2025_W46_Market-report-Week-46.pdf
+2025-11-14,46,Bangladesh,Shredded,Australia,362.5,360.0,365.0,Offer,CFR,,,,122.17,star_asia_2025_W46_Market-report-Week-46.pdf
+2025-11-14,46,Bangladesh,Shredded,Australia,347.5,345.0,350.0,Offer,CFR,,,,122.17,star_asia_2025_W46_Market-report-Week-46.pdf
+2025-11-21,47,India,Shredded,,355.0,355.0,355.0,Indication,CFR,Nhava Sheva,,,89.61,star_asia_2025_W47_Market-report-Week-47.pdf
+2025-11-21,47,India,Shredded,,180.0,180.0,180.0,Indication,CFR,Nhava Sheva,,,89.61,star_asia_2025_W47_Market-report-Week-47.pdf
+2025-11-21,47,India,Steel Scrap,,346.5,345.0,348.0,Indication,CFR,,,,89.61,star_asia_2025_W47_Market-report-Week-47.pdf
+2025-11-21,47,India,PNS,,355.0,355.0,355.0,Bid,CFR,Mundra,,,89.61,star_asia_2025_W47_Market-report-Week-47.pdf
+2025-11-21,47,India,PNS,,360.0,360.0,360.0,Bid,CFR,Mundra,,,89.61,star_asia_2025_W47_Market-report-Week-47.pdf
+2025-11-21,47,India,PNS,,342.5,340.0,345.0,Bid,CFR,Mundra,,,89.61,star_asia_2025_W47_Market-report-Week-47.pdf
+2025-11-21,47,India,HMS,African,320.0,320.0,320.0,Bid,CFR,Chennai,,,89.61,star_asia_2025_W47_Market-report-Week-47.pdf
+2025-11-21,47,Pakistan,Shredded,UK,357.0,357.0,357.0,Deal Concluded,CFR,Qasim,,,280.6,star_asia_2025_W47_Market-report-Week-47.pdf
+2025-11-28,48,India,HMS,,335.0,330.0,340.0,Indication,CFR,,,,89.43,star_asia_2025_W48_Market-report-Week-48.pdf
+2025-11-28,48,India,PNS,,342.5,340.0,345.0,Indication,CFR,,,,89.43,star_asia_2025_W48_Market-report-Week-48.pdf
+2025-11-28,48,India,Shredded,UK,330.0,330.0,330.0,Offer,CFR,,,,89.43,star_asia_2025_W48_Market-report-Week-48.pdf
+2025-11-28,48,India,Shredded,UK,355.0,355.0,355.0,Offer,CFR,,,,89.43,star_asia_2025_W48_Market-report-Week-48.pdf
+2025-11-28,48,India,Busheling,,361.0,361.0,361.0,Indication,CFR,,,,89.43,star_asia_2025_W48_Market-report-Week-48.pdf
+2025-12-05,49,India,Shredded,EU,317.5,315.0,320.0,Indication,CFR,,,,89.98,star_asia_2025_W49_Market-report-Week-49.pdf
+2025-12-05,49,India,Shredded,EU,323.5,322.0,325.0,Indication,CFR,,,,89.98,star_asia_2025_W49_Market-report-Week-49.pdf
+2025-12-05,49,India,Shredded,EU,339.0,336.0,342.0,Indication,CFR,,,,89.98,star_asia_2025_W49_Market-report-Week-49.pdf
+2025-12-05,49,India,Shredded,EU,342.5,340.0,345.0,Indication,CFR,,,,89.98,star_asia_2025_W49_Market-report-Week-49.pdf
+2025-12-05,49,India,Shredded,EU,351.0,350.0,352.0,Offer,CFR,,,,89.98,star_asia_2025_W49_Market-report-Week-49.pdf
+2025-12-05,49,Pakistan,HMS 80:20,EU,357.0,356.0,358.0,Offer,CFR,,,,280.33,star_asia_2025_W49_Market-report-Week-49.pdf
+2025-12-05,49,Pakistan,HMS 80:20,EU,339.0,338.0,340.0,Offer,CFR,,,,280.33,star_asia_2025_W49_Market-report-Week-49.pdf
+2025-12-05,49,Bangladesh,HMS,Malaysia,330.0,330.0,330.0,Offer,CFR,,,,122.29,star_asia_2025_W49_Market-report-Week-49.pdf
+2025-12-05,49,Bangladesh,HMS,Malaysia,325.0,325.0,325.0,Offer,CFR,,,,122.29,star_asia_2025_W49_Market-report-Week-49.pdf
+2025-12-05,49,Bangladesh,HMS,Australia,345.0,345.0,345.0,Indication,CFR,,,,122.29,star_asia_2025_W49_Market-report-Week-49.pdf
+2025-12-05,49,Bangladesh,PNS,,307.5,305.0,310.0,Offer,CFR,,,,122.29,star_asia_2025_W49_Market-report-Week-49.pdf
+2025-12-05,49,Bangladesh,PNS,,370.0,370.0,370.0,Offer,CFR,,,,122.29,star_asia_2025_W49_Market-report-Week-49.pdf
+2025-12-05,49,Bangladesh,PNS,,365.0,365.0,365.0,Offer,CFR,,,,122.29,star_asia_2025_W49_Market-report-Week-49.pdf
+2025-12-30,52,Pakistan,Steel Scrap,,355.0,355.0,355.0,Indication,CFR,,,,280.13,star_asia_2025_W52_Market-report-Week-52.pdf
+2025-12-30,52,Pakistan,Steel Scrap,,358.0,358.0,358.0,Indication,CFR,,,,280.13,star_asia_2025_W52_Market-report-Week-52.pdf
+2025-12-30,52,Pakistan,Shredded,,360.0,360.0,360.0,Offer,CFR,,,,280.13,star_asia_2025_W52_Market-report-Week-52.pdf
+2026-01-09,1,India,Steel Scrap,,410.0,410.0,410.0,Indication,CFR,,,,90.16,star_asia_2026_W01_Market-report-Week-1-2.pdf
+2026-01-09,1,India,Steel Scrap,,430.0,430.0,430.0,Indication,CFR,,,,90.16,star_asia_2026_W01_Market-report-Week-1-2.pdf
+2026-01-09,1,India,Steel Scrap,,440.0,440.0,440.0,Indication,CFR,,,,90.16,star_asia_2026_W01_Market-report-Week-1-2.pdf
+2026-01-09,1,Bangladesh,Rebar,,638.0,638.0,638.0,Indication,CFR,Chattogram,,,122.35,star_asia_2026_W01_Market-report-Week-1-2.pdf
+2026-01-09,1,Pakistan,Shredded,,463.0,463.0,463.0,Indication,CFR,,,,281.33,star_asia_2026_W01_Market-report-Week-1-2.pdf
+2026-01-09,1,Turkey,Steel Scrap,US,371.5,371.0,372.0,Deal Concluded,CFR,Turkey,,,43.05,star_asia_2026_W01_Market-report-Week-1-2.pdf
+2026-01-16,3,India,Shredded,UK,356.5,355.0,358.0,Offer,CFR,,,,90.34,star_asia_2026_W03_Market-report-Week-3.pdf
+2026-01-16,3,India,HMS,,314.0,312.0,316.0,Indication,CFR,,,,90.34,star_asia_2026_W03_Market-report-Week-3.pdf
+2026-01-23,4,India,Shredded,,346.5,345.0,348.0,Indication,CFR,,,,91.63,star_asia_2026_W04_Market-report-Week-4.pdf
+2026-01-23,4,India,HMS 80:20,,321.0,320.0,322.0,Bid,CFR,,,,91.63,star_asia_2026_W04_Market-report-Week-4.pdf
+2026-01-23,4,India,Shredded,,362.0,362.0,362.0,Deal Concluded,CFR,Nhava Sheva,,,91.63,star_asia_2026_W04_Market-report-Week-4.pdf
+2026-01-23,4,India,HMS 80:20,Australia,332.5,330.0,335.0,Indication,CFR,Nhava Sheva,,,91.63,star_asia_2026_W04_Market-report-Week-4.pdf
+2026-01-23,4,Pakistan,Shredded,UAE,379.0,378.0,380.0,Indication,CFR,,,,279.88,star_asia_2026_W04_Market-report-Week-4.pdf
+2026-01-23,4,Pakistan,Shredded,,390.0,390.0,390.0,Offer,CFR,Qasim,,,279.88,star_asia_2026_W04_Market-report-Week-4.pdf
+2026-01-23,4,Pakistan,Shredded,EU,372.5,372.0,373.0,Indication,CFR,,,,279.88,star_asia_2026_W04_Market-report-Week-4.pdf
+2026-01-23,4,Pakistan,Domestic Scrap,,786.05,786.05,786.05,Indication,Domestic,,220000.0,PKR,279.88,star_asia_2026_W04_Market-report-Week-4.pdf
+2026-01-23,4,Bangladesh,HMS 80:20,Australia,352.5,350.0,355.0,Indication,CFR,,,,122.32,star_asia_2026_W04_Market-report-Week-4.pdf
+2026-01-23,4,Bangladesh,HMS 80:20,Australia,367.5,365.0,370.0,Indication,CFR,,,,122.32,star_asia_2026_W04_Market-report-Week-4.pdf
+2026-01-23,4,Bangladesh,PNS,,367.5,365.0,370.0,Indication,CFR,,,,122.32,star_asia_2026_W04_Market-report-Week-4.pdf
+2026-01-23,4,Bangladesh,Busheling,Malaysia,370.0,370.0,370.0,Indication,CFR,,,,122.32,star_asia_2026_W04_Market-report-Week-4.pdf
+2026-01-30,5,India,HMS 80:20,,350.0,350.0,350.0,Indication,CFR,Mundra,,,91.87,star_asia_2026_W05_Market-report-Week-5.pdf
+2026-01-30,5,India,HMS 80:20,,335.0,335.0,335.0,Indication,CFR,Chennai,,,91.87,star_asia_2026_W05_Market-report-Week-5.pdf
+2026-01-30,5,India,HMS 80:20,Australia,330.0,330.0,330.0,Offer,CFR,Chennai,,,91.87,star_asia_2026_W05_Market-report-Week-5.pdf
+2026-01-30,5,India,HMS 80:20,Australia,350.0,350.0,350.0,Offer,CFR,Chennai,,,91.87,star_asia_2026_W05_Market-report-Week-5.pdf
+2026-01-30,5,Pakistan,Shredded,UK,380.0,380.0,380.0,Offer,CFR,,,,279.69,star_asia_2026_W05_Market-report-Week-5.pdf
+2026-01-30,5,Pakistan,Shredded,UAE,395.0,395.0,395.0,Indication,CFR,,,,279.69,star_asia_2026_W05_Market-report-Week-5.pdf
+2026-01-30,5,Pakistan,Steel Scrap,Bahrain,390.0,390.0,390.0,Indication,CFR,,,,279.69,star_asia_2026_W05_Market-report-Week-5.pdf
+2026-01-30,5,Pakistan,HMS,,365.0,365.0,365.0,Indication,CFR,,,,279.69,star_asia_2026_W05_Market-report-Week-5.pdf
+2026-01-30,5,Pakistan,HMS,,375.0,375.0,375.0,Indication,CFR,,,,279.69,star_asia_2026_W05_Market-report-Week-5.pdf
+2026-01-30,5,Pakistan,Domestic Scrap,,482.68,482.68,482.68,Indication,Domestic,,135000.0,PKR,279.69,star_asia_2026_W05_Market-report-Week-5.pdf
+2026-01-30,5,Pakistan,Domestic Scrap,,484.5,483.0,486.0,Indication,CFR,,,,279.69,star_asia_2026_W05_Market-report-Week-5.pdf
+2026-01-30,5,Bangladesh,Steel Scrap,Japan,356.0,355.0,357.0,Indication,CFR,Chattogram,,,122.2,star_asia_2026_W05_Market-report-Week-5.pdf
+2026-01-30,5,Bangladesh,Steel Scrap,,364.5,362.0,367.0,Indication,CFR,Chattogram,,,122.2,star_asia_2026_W05_Market-report-Week-5.pdf
+2026-01-30,5,Bangladesh,HMS 80:20,,347.5,345.0,350.0,Indication,CFR,Chattogram,,,122.2,star_asia_2026_W05_Market-report-Week-5.pdf
+2026-01-30,5,Bangladesh,Shredded,,367.5,365.0,370.0,Indication,CFR,Chattogram,,,122.2,star_asia_2026_W05_Market-report-Week-5.pdf
+2026-01-30,5,Bangladesh,PNS,,372.5,370.0,375.0,Indication,CFR,Chattogram,,,122.2,star_asia_2026_W05_Market-report-Week-5.pdf
+2026-02-06,6,India,Shredded,UK,368.0,368.0,368.0,Offer,CFR,,,,90.31,star_asia_2026_W06_Market-report-Week-6.pdf
+2026-02-06,6,India,Shredded,UK,370.0,370.0,370.0,Offer,CFR,,,,90.31,star_asia_2026_W06_Market-report-Week-6.pdf
+2026-02-06,6,India,HMS 80:20,UK,340.0,340.0,340.0,Bid,CFR,,,,90.31,star_asia_2026_W06_Market-report-Week-6.pdf
+2026-02-06,6,India,HMS 80:20,Australia,342.5,340.0,345.0,Offer,CFR,Chennai,,,90.31,star_asia_2026_W06_Market-report-Week-6.pdf
+2026-02-06,6,India,HMS,,352.5,350.0,355.0,Indication,CFR,Chennai,,,90.31,star_asia_2026_W06_Market-report-Week-6.pdf
+2026-02-06,6,Pakistan,Shredded,UK,385.0,385.0,385.0,Offer,CFR,,,,279.7,star_asia_2026_W06_Market-report-Week-6.pdf
+2026-02-06,6,Pakistan,Shredded,UAE,400.0,400.0,400.0,Indication,CFR,,,,279.7,star_asia_2026_W06_Market-report-Week-6.pdf
+2026-02-06,6,Pakistan,HMS 80:20,,375.0,375.0,375.0,Indication,CFR,,,,279.7,star_asia_2026_W06_Market-report-Week-6.pdf
+2026-02-06,6,Bangladesh,PNS,Malaysia,380.0,380.0,380.0,Offer,CFR,Chattogram,,,122.32,star_asia_2026_W06_Market-report-Week-6.pdf
+2026-02-06,6,Bangladesh,HMS 90:10,,370.0,370.0,370.0,Indication,CFR,Chattogram,,,122.32,star_asia_2026_W06_Market-report-Week-6.pdf
+2026-02-06,6,Bangladesh,Domestic Scrap,,405.0,401.0,409.0,Indication,CFR,Chattogram,,,122.32,star_asia_2026_W06_Market-report-Week-6.pdf
+2026-02-06,6,Bangladesh,HMS,,347.5,345.0,350.0,Indication,CFR,,,,122.32,star_asia_2026_W06_Market-report-Week-6.pdf
+2026-02-06,6,Bangladesh,HMS,,357.5,355.0,360.0,Indication,CFR,,,,122.32,star_asia_2026_W06_Market-report-Week-6.pdf
+2026-02-06,6,Turkey,Steel Scrap,US,382.5,380.0,385.0,Indication,CFR,Turkey,,,43.61,star_asia_2026_W06_Market-report-Week-6.pdf
+2026-02-06,6,Turkey,Steel Scrap,EU,376.0,375.0,377.0,Indication,CFR,Turkey,,,43.61,star_asia_2026_W06_Market-report-Week-6.pdf
+2026-02-13,7,India,HMS,US,356.0,356.0,356.0,Offer,CFR,,,,90.61,star_asia_2026_W07_Market-report-Week-7.pdf
+2026-02-13,7,India,HMS,,345.0,345.0,345.0,Indication,CFR,,,,90.61,star_asia_2026_W07_Market-report-Week-7.pdf
+2026-02-13,7,India,PNS,,380.0,380.0,380.0,Offer,CFR,Mundra,,,90.61,star_asia_2026_W07_Market-report-Week-7.pdf
+2026-02-13,7,India,PNS,,385.0,385.0,385.0,Offer,CFR,Mundra,,,90.61,star_asia_2026_W07_Market-report-Week-7.pdf
+2026-02-13,7,India,PNS,,340.0,340.0,340.0,Offer,CFR,Mundra,,,90.61,star_asia_2026_W07_Market-report-Week-7.pdf
+2026-02-20,8,India,HMS,,352.0,352.0,352.0,Indication,CFR,,,,90.97,star_asia_2026_W08_Market-report-Week-8.pdf
+2026-02-20,8,India,HMS,,355.0,355.0,355.0,Indication,CFR,,,,90.97,star_asia_2026_W08_Market-report-Week-8.pdf
+2026-02-20,8,India,Steel Scrap,,350.0,350.0,350.0,Bid,CFR,Mundra,,,90.97,star_asia_2026_W08_Market-report-Week-8.pdf
+2026-02-20,8,India,Steel Scrap,,325.0,325.0,325.0,Indication,CFR,,,,90.97,star_asia_2026_W08_Market-report-Week-8.pdf
+2026-02-20,8,India,Steel Scrap,,330.0,330.0,330.0,Indication,CFR,,,,90.97,star_asia_2026_W08_Market-report-Week-8.pdf
+2026-02-27,9,India,Steel Scrap,UK,257.5,255.0,260.0,Deal Concluded,CFR,,,,91.06,star_asia_2026_W09_Market-report-Week-9.pdf
+2026-02-27,9,India,Shredded,,370.0,370.0,370.0,Deal Concluded,CFR,Chennai,,,91.06,star_asia_2026_W09_Market-report-Week-9.pdf
+2026-02-27,9,India,Shredded,,377.5,375.0,380.0,Deal Concluded,CFR,Chennai,,,91.06,star_asia_2026_W09_Market-report-Week-9.pdf
+2026-03-07,10,India,HMS,UK,352.0,352.0,352.0,Indication,CFR,,,,91.82,star_asia_2026_W10_Market-report-Week-10.pdf
+2026-03-07,10,India,HMS,,360.0,360.0,360.0,Bid,CFR,,,,91.82,star_asia_2026_W10_Market-report-Week-10.pdf
+2026-03-07,10,India,Shredded,,380.0,380.0,380.0,Indication,CFR,,,,91.82,star_asia_2026_W10_Market-report-Week-10.pdf
+2026-03-07,10,India,HMS,,350.0,350.0,350.0,Bid,CFR,Mundra,,,91.82,star_asia_2026_W10_Market-report-Week-10.pdf
+2026-03-07,10,India,Shredded,,370.0,370.0,370.0,Indication,CFR,Mundra,,,91.82,star_asia_2026_W10_Market-report-Week-10.pdf
+2026-03-07,10,India,HMS,,365.0,365.0,365.0,Bid,CFR,,,,91.82,star_asia_2026_W10_Market-report-Week-10.pdf
+2026-03-07,10,Bangladesh,Shredded,,380.0,380.0,380.0,Indication,CFR,Chattogram,,,122.3,star_asia_2026_W10_Market-report-Week-10.pdf
+2026-03-07,10,Bangladesh,PNS,Malaysia,388.0,388.0,388.0,Offer,CFR,Chattogram,,,122.3,star_asia_2026_W10_Market-report-Week-10.pdf
+2026-03-07,10,Bangladesh,Shredded,Australia,386.0,386.0,386.0,Indication,CFR,Chattogram,,,122.3,star_asia_2026_W10_Market-report-Week-10.pdf
+2026-03-07,10,Bangladesh,PNS,,450.0,450.0,450.0,Indication,CFR,Chattogram,,,122.3,star_asia_2026_W10_Market-report-Week-10.pdf
+2026-03-07,10,Bangladesh,PNS,,430.0,430.0,430.0,Indication,CFR,Chattogram,,,122.3,star_asia_2026_W10_Market-report-Week-10.pdf
+2026-03-13,11,India,HMS 80:20,,360.0,360.0,360.0,Indication,CFR,Chennai,,,92.54,star_asia_2026_W11_Market-report-Week-11.pdf
+2026-03-13,11,India,HMS 80:20,,365.0,365.0,365.0,Indication,CFR,Chennai,,,92.54,star_asia_2026_W11_Market-report-Week-11.pdf
+2026-03-13,11,India,HMS 80:20,,375.0,375.0,375.0,Indication,CFR,Chennai,,,92.54,star_asia_2026_W11_Market-report-Week-11.pdf
+2026-03-13,11,India,Shredded,,385.0,385.0,385.0,Indication,CFR,,,,92.54,star_asia_2026_W11_Market-report-Week-11.pdf
+2026-03-13,11,India,PNS,,395.0,395.0,395.0,Indication,CFR,,,,92.54,star_asia_2026_W11_Market-report-Week-11.pdf
+2026-03-20,12,India,Shredded,UK,390.0,390.0,390.0,Offer,CFR,,,,93.72,star_asia_2026_W12_Market-report-Week-12.pdf
+2026-03-20,12,India,HMS 80:20,,375.0,375.0,375.0,Indication,CFR,,,,93.72,star_asia_2026_W12_Market-report-Week-12.pdf
+2026-03-20,12,India,Steel Scrap,,429.0,429.0,429.0,Indication,CFR,,,,93.72,star_asia_2026_W12_Market-report-Week-12.pdf
+2026-04-03,14,India,HMS,Australia,365.0,365.0,365.0,Indication,CFR,Chennai,,,92.97,star_asia_2026_W14_Market-report-Week-14.pdf
+2026-04-03,14,India,HMS,Australia,370.0,370.0,370.0,Indication,CFR,Chennai,,,92.97,star_asia_2026_W14_Market-report-Week-14.pdf
+2026-04-03,14,India,Shredded,,382.5,380.0,385.0,Indication,CFR,Chennai,,,92.97,star_asia_2026_W14_Market-report-Week-14.pdf
+2026-04-03,14,India,HMS,UK,387.5,385.0,390.0,Indication,CFR,Mundra,,,92.97,star_asia_2026_W14_Market-report-Week-14.pdf
+2026-04-03,14,India,Steel Scrap,,370.0,370.0,370.0,Bid,CFR,,,,92.97,star_asia_2026_W14_Market-report-Week-14.pdf
+2026-04-03,14,India,Steel Scrap,,388.0,388.0,388.0,Bid,CFR,,,,92.97,star_asia_2026_W14_Market-report-Week-14.pdf
+2026-04-18,16,India,HMS,,372.0,372.0,372.0,Indication,CFR,Mundra,,,92.49,star_asia_2026_W16_Market-report-Week-16.pdf
+2026-04-18,16,India,HMS,,388.0,388.0,388.0,Indication,CFR,Mundra,,,92.49,star_asia_2026_W16_Market-report-Week-16.pdf
+2026-04-18,16,India,Steel Scrap,,347.0,347.0,347.0,Indication,CFR,Mundra,,,92.49,star_asia_2026_W16_Market-report-Week-16.pdf
+2026-04-18,16,India,HMS,,340.0,340.0,340.0,Indication,CFR,Mundra,,,92.49,star_asia_2026_W16_Market-report-Week-16.pdf
+2026-04-18,16,India,HMS,,385.0,385.0,385.0,Indication,CFR,Mundra,,,92.49,star_asia_2026_W16_Market-report-Week-16.pdf
+2026-04-24,17,Pakistan,Shredded,,425.0,425.0,425.0,Offer,CFR,Qasim,,,278.9,star_asia_2026_W17_Market-report-Week-17.pdf
+2026-04-24,17,Pakistan,Shredded,,420.0,420.0,420.0,Offer,CFR,Qasim,,,278.9,star_asia_2026_W17_Market-report-Week-17.pdf
+2026-04-24,17,Pakistan,Steel Scrap,Middle East,410.0,410.0,410.0,Deal Concluded,CFR,,,,278.9,star_asia_2026_W17_Market-report-Week-17.pdf
+2026-05-05,18,India,HMS 80:20,Mozambique,390.0,385.0,395.0,Offer,CFR,,,,95.0,star_asia_2026_W18_Market-report-Week-18.pdf
+2026-05-05,18,India,HMS 80:20,Mozambique,375.0,375.0,375.0,Bid,CFR,,,,95.0,star_asia_2026_W18_Market-report-Week-18.pdf
+2026-05-05,18,India,HMS,EU,377.5,370.0,385.0,Indication,CFR,,,,95.0,star_asia_2026_W18_Market-report-Week-18.pdf
+2026-05-05,18,India,Shredded,,415.0,415.0,415.0,Offer,CFR,,,,95.0,star_asia_2026_W18_Market-report-Week-18.pdf
+2026-05-05,18,Pakistan,Busheling,Malaysia,440.0,440.0,440.0,Deal Concluded,CFR,Karachi,,,278.77,star_asia_2026_W18_Market-report-Week-18.pdf
+2026-05-05,18,Pakistan,Busheling,,445.0,445.0,445.0,Deal Concluded,CFR,Qasim,,,278.77,star_asia_2026_W18_Market-report-Week-18.pdf
+2026-05-05,18,Pakistan,Shredded,UK/EU,424.0,424.0,424.0,Deal Concluded,CFR,Qasim,,,278.77,star_asia_2026_W18_Market-report-Week-18.pdf
+2026-05-05,18,Pakistan,Turning,,370.0,370.0,370.0,Deal Concluded,CFR,Qasim,,,278.77,star_asia_2026_W18_Market-report-Week-18.pdf
+2026-05-05,18,Bangladesh,Shredded,Australia,435.0,435.0,435.0,Indication,CFR,Chattogram,,,122.71,star_asia_2026_W18_Market-report-Week-18.pdf
+2026-05-05,18,Bangladesh,Shredded,New Zealand,407.0,407.0,407.0,Indication,CFR,Chattogram,,,122.71,star_asia_2026_W18_Market-report-Week-18.pdf
+2026-05-05,18,Bangladesh,HMS 80:20,,382.5,380.0,385.0,Indication,CFR,Chattogram,,,122.71,star_asia_2026_W18_Market-report-Week-18.pdf
+2026-05-05,18,Bangladesh,HMS,UK,395.0,395.0,395.0,Offer,CFR,Chattogram,,,122.71,star_asia_2026_W18_Market-report-Week-18.pdf
+2026-05-05,18,Bangladesh,Shredded,UK,420.0,420.0,420.0,Offer,CFR,Chattogram,,,122.71,star_asia_2026_W18_Market-report-Week-18.pdf
+2026-05-05,18,Bangladesh,Domestic Scrap,,456.0,456.0,456.0,Indication,Domestic,,56000.0,BDT,122.71,star_asia_2026_W18_Market-report-Week-18.pdf
+2026-05-05,18,Turkey,HMS 80:20,US,417.5,415.0,420.0,Offer,CFR,Turkey,,,45.24,star_asia_2026_W18_Market-report-Week-18.pdf
+2026-05-05,18,Turkey,HMS 80:20,US,412.0,412.0,412.0,Bid,CFR,Turkey,,,45.24,star_asia_2026_W18_Market-report-Week-18.pdf
+2026-05-09,19,India,Domestic Scrap,,424.65,424.65,424.65,Indication,Domestic,,40100.0,INR,94.43,star_asia_2026_W19_Market-report-Week-19.pdf
+2026-05-23,21,India,HMS 80:20,UK,395.0,395.0,395.0,Indication,CFR,Chennai,,,95.66,star_asia_2026_W21_Market-Report_Week-21.pdf
+2026-05-23,21,India,HMS 80:20,UK,380.0,380.0,380.0,Indication,CFR,Chennai,,,95.66,star_asia_2026_W21_Market-Report_Week-21.pdf
+2026-05-23,21,India,HMS 80:20,,335.0,335.0,335.0,Offer,CFR,,,,95.66,star_asia_2026_W21_Market-Report_Week-21.pdf
+2026-05-23,21,India,HMS 80:20,,365.0,365.0,365.0,Offer,CFR,,,,95.66,star_asia_2026_W21_Market-Report_Week-21.pdf
+2026-05-23,21,Pakistan,Shredded,,420.0,420.0,420.0,Offer,CFR,Qasim,,,278.59,star_asia_2026_W21_Market-Report_Week-21.pdf
+2026-05-23,21,Pakistan,Shredded,,423.0,423.0,423.0,Offer,CFR,Qasim,,,278.59,star_asia_2026_W21_Market-Report_Week-21.pdf
+2026-05-23,21,Pakistan,Busheling,Malaysia,355.0,355.0,355.0,Offer,CFR,,,,278.59,star_asia_2026_W21_Market-Report_Week-21.pdf
+2026-05-23,21,Pakistan,Busheling,Malaysia,427.5,425.0,430.0,Offer,CFR,,,,278.59,star_asia_2026_W21_Market-Report_Week-21.pdf
+2026-05-23,21,Pakistan,PNS,UAE,432.5,430.0,435.0,Offer,CFR,Qasim,,,278.59,star_asia_2026_W21_Market-Report_Week-21.pdf
+2026-05-23,21,Bangladesh,Shredded,UK,415.0,415.0,415.0,Offer,CFR,,,,122.95,star_asia_2026_W21_Market-Report_Week-21.pdf
+2026-05-23,21,Bangladesh,Shredded,UK,416.0,416.0,416.0,Offer,CFR,,,,122.95,star_asia_2026_W21_Market-Report_Week-21.pdf
+2026-05-23,21,Bangladesh,HMS 80:20,,389.0,389.0,389.0,Indication,CFR,,,,122.95,star_asia_2026_W21_Market-Report_Week-21.pdf
+2026-05-23,21,Turkey,Steel Scrap,,411.0,411.0,411.0,Indication,CFR,Turkey,,,45.72,star_asia_2026_W21_Market-Report_Week-21.pdf
+2026-05-29,22,India,HMS,Australia,340.0,340.0,340.0,Offer,CFR,Chennai,,,94.85,star_asia_2026_W22_Market-Report-Week-22.pdf
+2026-05-29,22,India,Shredded,,360.0,360.0,360.0,Indication,CFR,Chennai,,,94.85,star_asia_2026_W22_Market-Report-Week-22.pdf
+2026-05-29,22,India,HMS 80:20,Mozambique,350.0,350.0,350.0,Deal Concluded,CFR,Mundra,,,94.85,star_asia_2026_W22_Market-Report-Week-22.pdf
+2026-05-29,22,India,HMS 80:20,Mozambique,320.0,320.0,320.0,Deal Concluded,CFR,Mundra,,,94.85,star_asia_2026_W22_Market-Report-Week-22.pdf
+2026-05-29,22,India,Shredded,,382.5,380.0,385.0,Offer,CFR,,,,94.85,star_asia_2026_W22_Market-Report-Week-22.pdf
+2026-05-29,22,India,Shredded,,412.5,410.0,415.0,Offer,CFR,,,,94.85,star_asia_2026_W22_Market-Report-Week-22.pdf
+2026-05-29,22,Turkey,HMS 80:20,EU,402.5,400.0,405.0,Bid,CFR,Turkey,,,45.89,star_asia_2026_W22_Market-Report-Week-22.pdf
+2026-05-29,22,Turkey,HMS 80:20,EU,399.5,399.0,400.0,Bid,CFR,Turkey,,,45.89,star_asia_2026_W22_Market-Report-Week-22.pdf
+2026-05-29,22,Turkey,HMS,US,415.0,415.0,415.0,Offer,CFR,Turkey,,,45.89,star_asia_2026_W22_Market-Report-Week-22.pdf
+2026-06-05,23,India,HMS 80:20,UK,345.0,345.0,345.0,Offer,CFR,,,,95.17,star_asia_2026_W23_Market-Report_Week-23.pdf
+2026-06-05,23,India,Shredded,UK,402.5,400.0,405.0,Indication,CFR,,,,95.17,star_asia_2026_W23_Market-Report_Week-23.pdf
+2026-06-05,23,India,HMS 80:20,Australia,365.0,365.0,365.0,Indication,CFR,,,,95.17,star_asia_2026_W23_Market-Report_Week-23.pdf
+2026-06-05,23,India,HMS 80:20,Australia,340.0,340.0,340.0,Indication,CFR,,,,95.17,star_asia_2026_W23_Market-Report_Week-23.pdf
+2026-06-05,23,Pakistan,Shredded,,417.5,415.0,420.0,Indication,CFR,Qasim,,,278.48,star_asia_2026_W23_Market-Report_Week-23.pdf
+2026-06-05,23,Pakistan,Steel Scrap,Malaysia,430.0,430.0,430.0,Indication,CFR,,,,278.48,star_asia_2026_W23_Market-Report_Week-23.pdf
+2026-06-05,23,Pakistan,HMS,,408.0,408.0,408.0,Indication,CFR,,,,278.48,star_asia_2026_W23_Market-Report_Week-23.pdf
+2026-06-05,23,Bangladesh,Domestic Scrap,,407.0,399.0,415.0,Indication,CFR,,,,122.91,star_asia_2026_W23_Market-Report_Week-23.pdf
+2026-06-05,23,Bangladesh,Shredded,UK,412.5,410.0,415.0,Offer,CFR,,,,122.91,star_asia_2026_W23_Market-Report_Week-23.pdf
+2026-06-05,23,Turkey,HMS 80:20,US,407.0,407.0,407.0,Offer,CFR,Turkey,,,46.08,star_asia_2026_W23_Market-Report_Week-23.pdf
+2026-06-05,23,Turkey,HMS 80:20,US,410.0,410.0,410.0,Offer,CFR,Turkey,,,46.08,star_asia_2026_W23_Market-Report_Week-23.pdf
+2026-06-05,23,Turkey,HMS 80:20,EU,397.5,397.0,398.0,Indication,CFR,Turkey,,,46.08,star_asia_2026_W23_Market-Report_Week-23.pdf
+2026-06-12,24,India,Shredded,UK,427.5,425.0,430.0,Indication,CFR,,,,95.16,star_asia_2026_W24_Market-Report-Week-24.pdf
+2026-06-12,24,India,HMS 80:20,UK,360.0,360.0,360.0,Indication,CFR,,,,95.16,star_asia_2026_W24_Market-Report-Week-24.pdf
+2026-06-12,24,India,HMS 80:20,UK,346.0,345.0,347.0,Indication,CFR,,,,95.16,star_asia_2026_W24_Market-Report-Week-24.pdf
+2026-06-12,24,Pakistan,Shredded,,417.5,415.0,420.0,Bid,CFR,Qasim,,,278.42,star_asia_2026_W24_Market-Report-Week-24.pdf
+2026-06-12,24,Pakistan,Shredded,,425.0,425.0,425.0,Indication,CFR,Qasim,,,278.42,star_asia_2026_W24_Market-Report-Week-24.pdf
+2026-06-12,24,Pakistan,Domestic Scrap,,862.01,862.01,862.01,Indication,Domestic,,240000.0,PKR,278.42,star_asia_2026_W24_Market-Report-Week-24.pdf
+2026-06-12,24,Bangladesh,Shredded,,410.0,410.0,410.0,Bid,CFR,,,,122.84,star_asia_2026_W24_Market-Report-Week-24.pdf
+2026-06-12,24,Bangladesh,HMS,UK,360.0,360.0,360.0,Indication,CFR,,,,122.84,star_asia_2026_W24_Market-Report-Week-24.pdf
+2026-06-12,24,Turkey,Steel Scrap,,402.5,400.0,405.0,Indication,CFR,Turkey,,,46.28,star_asia_2026_W24_Market-Report-Week-24.pdf
+2026-06-19,25,India,HMS 80:20,UK,317.0,317.0,317.0,Deal Concluded,CFR,Nhava Sheva,,,94.41,star_asia_2026_W25_Market-Report-Week-25.pdf
+2026-06-19,25,India,HMS 80:20,UK,337.5,335.0,340.0,Deal Concluded,CFR,Nhava Sheva,,,94.41,star_asia_2026_W25_Market-Report-Week-25.pdf
+2026-06-19,25,India,Shredded,UK,387.5,385.0,390.0,Offer,CFR,,,,94.41,star_asia_2026_W25_Market-Report-Week-25.pdf
+2026-06-19,25,Pakistan,Shredded,Malaysia,430.0,430.0,430.0,Deal Concluded,CFR,Karachi,,,278.12,star_asia_2026_W25_Market-Report-Week-25.pdf
+2026-06-19,25,Pakistan,Shredded,UK,412.5,410.0,415.0,Offer,CFR,,,,278.12,star_asia_2026_W25_Market-Report-Week-25.pdf
+2026-06-19,25,Bangladesh,Shredded,,400.0,400.0,400.0,Bid,CFR,,,,122.73,star_asia_2026_W25_Market-Report-Week-25.pdf
+2026-06-19,25,Bangladesh,HMS,,377.5,375.0,380.0,Indication,CFR,,,,122.73,star_asia_2026_W25_Market-Report-Week-25.pdf
+2026-06-19,25,Bangladesh,Shredded,UK,408.5,407.0,410.0,Indication,CFR,,,,122.73,star_asia_2026_W25_Market-Report-Week-25.pdf
+2026-06-19,25,Bangladesh,Shredded,UK,420.0,420.0,420.0,Indication,CFR,,,,122.73,star_asia_2026_W25_Market-Report-Week-25.pdf
+2026-06-19,25,Turkey,HMS 80:20,US,391.5,385.0,398.0,Indication,CFR,Turkey,,,46.44,star_asia_2026_W25_Market-Report-Week-25.pdf
+2026-06-26,26,India,Shredded,UK,401.0,401.0,401.0,Indication,CFR,Chennai,,,94.35,star_asia_2026_W26_Market-Report-Week-26.pdf
+2026-06-26,26,India,Shredded,UK,305.0,300.0,310.0,Indication,CFR,Chennai,,,94.35,star_asia_2026_W26_Market-Report-Week-26.pdf
+2026-06-26,26,India,HMS 80:20,UK,327.5,325.0,330.0,Offer,CFR,,,,94.35,star_asia_2026_W26_Market-Report-Week-26.pdf
+2026-06-26,26,India,HMS 80:20,UK,385.5,385.0,386.0,Offer,CFR,,,,94.35,star_asia_2026_W26_Market-Report-Week-26.pdf
+2026-06-26,26,Pakistan,Shredded,UK,413.0,413.0,413.0,Indication,CFR,Qasim,,,278.28,star_asia_2026_W26_Market-Report-Week-26.pdf
+2026-06-26,26,Pakistan,Shredded,UK,410.0,410.0,410.0,Indication,CFR,Qasim,,,278.28,star_asia_2026_W26_Market-Report-Week-26.pdf
+2026-06-26,26,Pakistan,Shredded,UK,415.0,415.0,415.0,Indication,CFR,Qasim,,,278.28,star_asia_2026_W26_Market-Report-Week-26.pdf
+2026-06-26,26,Bangladesh,HMS,UK,367.5,365.0,370.0,Offer,CFR,,,,122.98,star_asia_2026_W26_Market-Report-Week-26.pdf
+2026-06-26,26,Bangladesh,Shredded,UK,406.5,405.0,408.0,Indication,CFR,,,,122.98,star_asia_2026_W26_Market-Report-Week-26.pdf
+2026-06-26,26,Bangladesh,Domestic Scrap,,435.0,423.0,447.0,Indication,CFR,,,,122.98,star_asia_2026_W26_Market-Report-Week-26.pdf
+2026-06-26,26,Turkey,HMS 80:20,US,384.5,383.0,386.0,Indication,CFR,Turkey,,,46.62,star_asia_2026_W26_Market-Report-Week-26.pdf
+2026-07-10,28,India,Shredded,,322.5,320.0,325.0,Indication,CFR,,,,95.56,star_asia_2026_W28_Market-Report-Week-28-2.pdf
+2026-07-10,28,India,Shredded,,352.5,350.0,355.0,Indication,CFR,,,,95.56,star_asia_2026_W28_Market-Report-Week-28-2.pdf
+2026-07-17,29,India,Shredded,UK,395.0,395.0,395.0,Offer,CFR,,,,96.27,star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-17,29,India,Steel Scrap,,390.0,390.0,390.0,Bid,CFR,,,,96.27,star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-17,29,India,HMS,,298.0,298.0,298.0,Indication,CFR,Chennai,,,96.27,star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-17,29,Pakistan,Shredded,UK/EU,391.0,390.0,392.0,Deal Concluded,CFR,Qasim,,,277.96,star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-17,29,Pakistan,Steel Scrap,,399.0,398.0,400.0,Indication,CFR,,,,277.96,star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-17,29,Bangladesh,HMS,US,400.0,400.0,400.0,Offer,CFR,,,,123.24,star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-17,29,Bangladesh,PNS,,420.0,420.0,420.0,Indication,CFR,,,,123.24,star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-17,29,Bangladesh,HMS 80:20,Malaysia,325.0,325.0,325.0,Deal Concluded,CFR,,,,123.24,star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-17,29,Bangladesh,HMS 80:20,Malaysia,345.0,345.0,345.0,Deal Concluded,CFR,,,,123.24,star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-17,29,Bangladesh,Shredded,UK,399.0,398.0,400.0,Offer,CFR,,,,123.24,star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-17,29,Bangladesh,Shredded,UK,360.0,360.0,360.0,Offer,CFR,,,,123.24,star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-17,29,Turkey,HMS 80:20,US,370.0,370.0,370.0,Indication,CFR,Turkey,,,47.13,star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-17,29,Turkey,HMS 80:20,US,372.0,372.0,372.0,Indication,CFR,Turkey,,,47.13,star_asia_2026_W29_Market-Report-Week-29.pdf
+2026-07-24,30,India,Shredded,UK,390.0,390.0,390.0,Offer,CFR,,,,96.8,star_asia_2026_W30_Market-Report-Week-30.pdf
+2026-07-24,30,India,HMS 80:20,,335.0,335.0,335.0,Deal Concluded,CFR,,,,96.8,star_asia_2026_W30_Market-Report-Week-30.pdf
+2026-07-24,30,Pakistan,Shredded,,412.5,410.0,415.0,Indication,CFR,Qasim,,,277.8,star_asia_2026_W30_Market-Report-Week-30.pdf
+2026-07-24,30,Pakistan,Busheling,Malaysia,409.0,408.0,410.0,Offer,CFR,,,,277.8,star_asia_2026_W30_Market-Report-Week-30.pdf
+2026-07-24,30,Pakistan,Busheling,Malaysia,432.5,430.0,435.0,Offer,CFR,,,,277.8,star_asia_2026_W30_Market-Report-Week-30.pdf
+2026-07-24,30,Pakistan,Steel Scrap,,392.5,390.0,395.0,Bid,CFR,,,,277.8,star_asia_2026_W30_Market-Report-Week-30.pdf
+2026-08-01,31,India,HMS 80:20,UK/EU,347.5,345.0,350.0,Offer,CFR,,,,95.53,star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-01,31,India,HMS 80:20,UK/EU,357.5,355.0,360.0,Offer,CFR,,,,95.53,star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-01,31,India,HMS 80:20,UK/EU,325.0,320.0,330.0,Offer,CFR,,,,95.53,star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-01,31,India,Shredded,Australia,367.5,365.0,370.0,Indication,CFR,Chennai,,,95.53,star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-01,31,India,Shredded,Australia,337.5,335.0,340.0,Indication,CFR,Chennai,,,95.53,star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-01,31,Pakistan,Shredded,UK,418.5,418.0,419.0,Indication,CFR,Qasim,,,277.77,star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-01,31,Pakistan,Shredded,UK,402.0,402.0,402.0,Indication,CFR,Qasim,,,277.77,star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-01,31,Bangladesh,HMS,,385.0,385.0,385.0,Bid,CFR,,,,123.52,star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-01,31,Bangladesh,HMS,,392.5,390.0,395.0,Bid,CFR,,,,123.52,star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-01,31,Bangladesh,HMS,US,380.0,380.0,380.0,Indication,CFR,,,,123.52,star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-01,31,Bangladesh,HMS,Japan,400.0,400.0,400.0,Offer,CFR,,,,123.52,star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-01,31,Bangladesh,HMS,Japan,397.5,395.0,400.0,Offer,CFR,,,,123.52,star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-01,31,Bangladesh,HMS,Japan,425.0,425.0,425.0,Offer,CFR,,,,123.52,star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-01,31,Turkey,HMS 80:20,UK/EU,365.0,365.0,365.0,Bid,CFR,Turkey,,,47.41,star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-01,31,Turkey,HMS 80:20,UK/EU,380.0,380.0,380.0,Bid,CFR,Turkey,,,47.41,star_asia_2026_W31_Market-Report-Week-31.pdf
+2026-08-15,33,India,Shredded,UK,330.0,330.0,330.0,Indication,CFR,,,,95.46,star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-15,33,India,Shredded,UK,340.0,340.0,340.0,Indication,CFR,,,,95.46,star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-15,33,India,Shredded,UK,392.5,390.0,395.0,Bid,CFR,,,,95.46,star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-15,33,India,Shredded,UK,370.0,370.0,370.0,Bid,CFR,,,,95.46,star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-15,33,Pakistan,Steel Scrap,,420.0,420.0,420.0,Indication,CFR,,,,277.62,star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-15,33,Pakistan,Shredded,,415.0,414.0,416.0,Offer,CFR,,,,277.62,star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-15,33,Bangladesh,Shredded,UK,395.0,395.0,395.0,Bid,CFR,,,,122.74,star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-15,33,Bangladesh,Shredded,,375.0,375.0,375.0,Indication,CFR,,,,122.74,star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-15,33,Bangladesh,HMS,US,382.5,380.0,385.0,Bid,CFR,,,,122.74,star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-15,33,Bangladesh,HMS,US,365.0,365.0,365.0,Bid,CFR,,,,122.74,star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-15,33,Bangladesh,Domestic Scrap,,399.22,399.22,399.22,Indication,Domestic,,49000.0,BDT,122.74,star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-15,33,Turkey,HMS 80:20,US,375.0,375.0,375.0,Indication,CFR,Turkey,,,47.87,star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-15,33,Turkey,Rebar,EU,370.0,370.0,370.0,Indication,FOB,Turkey,,,47.87,star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-15,33,Turkey,Rebar,EU,577.0,577.0,577.0,Indication,FOB,Turkey,,,47.87,star_asia_2026_W33_Market-Report-Week-33.pdf
+2026-08-21,34,India,Shredded,,397.5,395.0,400.0,Indication,CFR,,,,95.74,star_asia_2026_W34_Market-Report-Week-34.pdf
+2026-08-21,34,India,HMS 80:20,Australia,340.0,340.0,340.0,Indication,CFR,Chennai,,,95.74,star_asia_2026_W34_Market-Report-Week-34.pdf
+2026-08-21,34,India,HMS 80:20,Australia,342.5,340.0,345.0,Indication,CFR,Chennai,,,95.74,star_asia_2026_W34_Market-Report-Week-34.pdf
+2026-08-21,34,India,HMS,,312.5,310.0,315.0,Bid,CFR,Nhava Sheva,,,95.74,star_asia_2026_W34_Market-Report-Week-34.pdf
+2026-08-21,34,Pakistan,Shredded,UK,417.5,415.0,420.0,Bid,CFR,Qasim,,,277.57,star_asia_2026_W34_Market-Report-Week-34.pdf
+2026-08-21,34,Pakistan,Shredded,UK,411.0,410.0,412.0,Bid,CFR,Qasim,,,277.57,star_asia_2026_W34_Market-Report-Week-34.pdf
+2026-08-21,34,Pakistan,Shredded,,415.0,415.0,415.0,Bid,CFR,Qasim,,,277.57,star_asia_2026_W34_Market-Report-Week-34.pdf
+2026-08-21,34,Bangladesh,HMS 80:20,,372.5,370.0,375.0,Indication,CFR,,,,122.24,star_asia_2026_W34_Market-Report-Week-34.pdf
+2026-08-21,34,Bangladesh,Shredded,,395.0,390.0,400.0,Indication,CFR,,,,122.24,star_asia_2026_W34_Market-Report-Week-34.pdf
+2026-08-21,34,Bangladesh,Shredded,,412.5,410.0,415.0,Indication,CFR,,,,122.24,star_asia_2026_W34_Market-Report-Week-34.pdf
+2026-08-21,34,Turkey,HMS 80:20,US,375.0,375.0,375.0,Indication,CFR,Turkey,,,48.01,star_asia_2026_W34_Market-Report-Week-34.pdf
+2026-08-21,34,Turkey,Steel Scrap,EU,370.0,370.0,370.0,Indication,CFR,Turkey,,,48.01,star_asia_2026_W34_Market-Report-Week-34.pdf
+2026-08-28,35,India,Shredded,EU,412.5,410.0,415.0,Offer,CFR,,,,95.74,star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,India,Shredded,EU,355.0,350.0,360.0,Offer,CFR,,,,95.74,star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,India,Shredded,Australia,340.0,335.0,345.0,Indication,CFR,Chennai,,,95.74,star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,India,Shredded,Australia,370.0,365.0,375.0,Indication,CFR,Chennai,,,95.74,star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,India,Shredded,US,410.0,400.0,420.0,Indication,CFR,,,,95.74,star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,India,Shredded,US,360.0,360.0,360.0,Indication,CFR,,,,95.74,star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,India,Shredded,,327.5,325.0,330.0,Indication,CFR,,,,95.74,star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,Pakistan,Steel Scrap,,419.0,418.0,420.0,Offer,CFR,Qasim,,,277.57,star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,Pakistan,Steel Scrap,,413.5,412.0,415.0,Indication,CFR,Qasim,,,277.57,star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,Bangladesh,HMS 90:10,,378.0,378.0,378.0,Indication,CFR,Chattogram,,,122.24,star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,Bangladesh,HMS 90:10,,415.0,415.0,415.0,Indication,CFR,Chattogram,,,122.24,star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,Bangladesh,HMS,,375.0,375.0,375.0,Indication,CFR,Chattogram,,,122.24,star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,Bangladesh,HMS 80:20,US,379.0,378.0,380.0,Indication,CFR,Chattogram,,,122.24,star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,Bangladesh,HMS,Australia,380.0,380.0,380.0,Indication,CFR,Chattogram,,,122.24,star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,Bangladesh,Steel Scrap,Japan,384.5,384.0,385.0,Offer,CFR,Chattogram,,,122.24,star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,Turkey,HMS 80:20,Baltic,369.0,369.0,369.0,Deal Concluded,CFR,Turkey,,,48.01,star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,Turkey,HMS 80:20,Baltic,370.0,370.0,370.0,Deal Concluded,CFR,Turkey,,,48.01,star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,Turkey,HMS 80:20,Baltic,390.0,390.0,390.0,Deal Concluded,CFR,Turkey,,,48.01,star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,Turkey,Steel Scrap,EU,372.0,370.0,374.0,Offer,CFR,Turkey,,,48.01,star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-08-28,35,Turkey,Steel Scrap,EU,378.5,377.0,380.0,Offer,CFR,Turkey,,,48.01,star_asia_2026_W35_Market-Report-Week-35.pdf
+2026-09-18,38,India,HMS 80:20,Israel,350.0,350.0,350.0,Deal Concluded,CFR,Mundra,,,95.92,star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.pdf
+2026-09-18,38,India,HMS,African,362.5,360.0,365.0,Offer,CFR,Mundra,,,95.92,star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.pdf
+2026-09-18,38,India,Shredded,New Zealand,405.0,405.0,405.0,Indication,CFR,Mundra,,,95.92,star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.pdf
+2026-09-18,38,India,Shredded,New Zealand,409.0,409.0,409.0,Indication,CFR,Mundra,,,95.92,star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.pdf
+2026-09-18,38,Pakistan,Shredded,EU,419.0,419.0,419.0,Deal Concluded,CFR,Qasim,,,277.27,star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.pdf
+2026-09-18,38,Bangladesh,Shredded,Australia,405.0,400.0,410.0,Indication,CFR,,,,122.83,star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.pdf
+2026-09-18,38,Bangladesh,HMS 90:10,,387.5,385.0,390.0,Indication,CFR,,,,122.83,star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.pdf
+2026-09-18,38,Bangladesh,HMS 90:10,US,372.5,370.0,375.0,Indication,CFR,,,,122.83,star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.pdf
+2026-09-18,38,Bangladesh,HMS 90:10,,395.0,395.0,395.0,Bid,CFR,,,,122.83,star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.pdf
+2026-09-18,38,Bangladesh,Domestic Scrap,,447.77,447.77,447.77,Indication,Domestic,,55000.0,BDT,122.83,star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.pdf

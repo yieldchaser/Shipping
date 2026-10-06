@@ -1,0 +1,14 @@
+issue_date,year,report_title,segment,fleet_count_trading,fleet_count_on_order,orderbook_pct,orderbook_dwt_m,fleet_dwt_m,average_age_years,pct_0_5_yrs,pct_6_10_yrs,pct_11_15_yrs,pct_16_plus_yrs,source_file
+2005-08-19,2005,Speed Up on Phase Out,VLCC (Single Hull),172,,,,,,,,69% (<=15y),31% (>15y),corpus/04-poten/pdfs/2005/Tanker_Opinion_20050819.pdf
+2013-04-26,2013,The Growing Presence of the United States as Energy Exporter,MR,,,,,,,47%,35%,9%,9%,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130426.pdf
+2019-03-01,2019,Decisions Decisions,VLCC,756,79,,,,,25%,33%,19%,22%,corpus/04-poten/pdfs/2019/Weekly-Opinion-01-March-2019-Decisions-Decisions.pdf
+2019-03-01,2019,Decisions Decisions,Suezmax,583,44,,,,,24%,35%,20%,21%,corpus/04-poten/pdfs/2019/Weekly-Opinion-01-March-2019-Decisions-Decisions.pdf
+2020-10-16,2020,Supply Side Savior,VLCC,828,67,8.1%,20.8,255.2,,,,,,corpus/04-poten/pdfs/2020/Weekly-Opinion-16-October-2020-Supply-Side-Savior.pdf
+2020-10-16,2020,Supply Side Savior,Suezmax,609,67,11.0%,10.4,95.1,,,,,,corpus/04-poten/pdfs/2020/Weekly-Opinion-16-October-2020-Supply-Side-Savior.pdf
+2020-10-16,2020,Supply Side Savior,Aframax,699,79,11.3%,9.0,76.3,,,,,,corpus/04-poten/pdfs/2020/Weekly-Opinion-16-October-2020-Supply-Side-Savior.pdf
+2020-10-16,2020,Supply Side Savior,Panamax,83,3,3.6%,0.2,5.9,,,,,,corpus/04-poten/pdfs/2020/Weekly-Opinion-16-October-2020-Supply-Side-Savior.pdf
+2020-10-16,2020,Supply Side Savior,LR2,363,37,10.2%,4.2,39.8,,,,,,corpus/04-poten/pdfs/2020/Weekly-Opinion-16-October-2020-Supply-Side-Savior.pdf
+2020-10-16,2020,Supply Side Savior,LR1,375,14,3.7%,1.0,27.5,,,,,,corpus/04-poten/pdfs/2020/Weekly-Opinion-16-October-2020-Supply-Side-Savior.pdf
+2020-10-16,2020,Supply Side Savior,MR,1576,117,7.4%,5.8,76.7,,,,,,corpus/04-poten/pdfs/2020/Weekly-Opinion-16-October-2020-Supply-Side-Savior.pdf
+2020-10-16,2020,Supply Side Savior,Handy,529,11,2.1%,0.4,19.9,,,,,,corpus/04-poten/pdfs/2020/Weekly-Opinion-16-October-2020-Supply-Side-Savior.pdf
+2026-09-11,2026,"A Tanker Market On Steroids, Will It Last",VLCC,928,414,40.7%,,,13.0,15%,26%,20%,38%,"corpus/04-poten/pdfs/2026/Weekly Opinion - 11 September 2026 - A Tanker Market On Steroids, Will It Last.pdf"

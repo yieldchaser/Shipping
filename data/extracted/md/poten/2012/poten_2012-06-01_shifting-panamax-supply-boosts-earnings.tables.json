@@ -1,0 +1,43 @@
+{
+  "issue_date": "2012-06-01",
+  "year": 2012,
+  "title": "Shifting Panamax Supply Boosts Earnings",
+  "source_file": "corpus/04-poten/pdfs/2012/Tanker_Opinion_20120601.pdf",
+  "tables_count": 0,
+  "charts_count": 3,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2012-06-01_shifting-panamax-supply-boosts-earnings_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2012/poten_2012-06-01_shifting-panamax-supply-boosts-earnings_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-06-01_shifting-panamax-supply-boosts-earnings_chart1.png",
+      "width": 1069,
+      "height": 686
+    },
+    {
+      "chart_num": 2,
+      "page": 1,
+      "file_name": "poten_2012-06-01_shifting-panamax-supply-boosts-earnings_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2012/poten_2012-06-01_shifting-panamax-supply-boosts-earnings_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-06-01_shifting-panamax-supply-boosts-earnings_chart2.png",
+      "width": 1197,
+      "height": 724
+    },
+    {
+      "chart_num": 3,
+      "page": 2,
+      "file_name": "poten_2012-06-01_shifting-panamax-supply-boosts-earnings_chart3.png",
+      "rel_path": "data/extracted/charts/poten/2012/poten_2012-06-01_shifting-panamax-supply-boosts-earnings_chart3.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-06-01_shifting-panamax-supply-boosts-earnings_chart3.png",
+      "width": 1067,
+      "height": 686
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

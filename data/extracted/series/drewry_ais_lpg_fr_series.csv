@@ -1,0 +1,41 @@
+published_date,report_year,report_week,sector,vessel_class,vessel_category,current_utilisation_pct,mom_utilisation_change_pp,yoy_utilisation_change_pp,tonne_miles_index,tonne_miles_yoy_pct,bunker_price_usd_per_t,bunker_price_mom_pct,ballast_speed_east_mom_pct,ballast_speed_west_mom_pct,anchor_4w_ma_change_mdwt,laden_anchor_days_4w_change_pct,laden_share_east_mom_pp,laden_share_west_mom_pp,commentary_title,commentary_summary,source_file
+2024-01-23,2024,4,LPG,FR,LPG_FR,,,,93.3,-5.0,621.0,4.0,-1.5,0.4,,,,,Change in trading status - MoM,,Drewry_AIS_PDF_LPG_FR_Week04_2024.pdf
+2024-02-20,2024,8,LPG,FR,LPG_FR,,,,99.7,,646.0,,,,,,,,Change in trading status - MoM,,Drewry_AIS_PDF_LPG_FR_Week08_2024.pdf
+2024-03-19,2024,12,LPG,FR,LPG_FR,,,,114.5,17.3,651.0,1.3,1.0,5.5,0.5,-7.6,2.6,2.7,Change in trading status - MoM,,Drewry_AIS_PDF_LPG_FR_Week12_2024.pdf
+2024-04-16,2024,16,LPG,FR,LPG_FR,,,,124.1,16.0,648.0,,,,-0.3,0.5,3.2,0.0,Change in trading status - MoM,,Drewry_AIS_PDF_LPG_FR_Week16_2024.pdf
+2024-05-14,2024,20,LPG,FR,LPG_FR,,,,119.7,12.4,628.0,,,,,,,,Change in trading status - MoM,,Drewry_AIS_PDF_LPG_FR_Week20_2024.pdf
+2024-06-11,2024,24,LPG,FR,LPG_FR,,,,128.1,12.2,581.0,,,,,,,,VLGC transits improve with rise in Panama Canal slots,Vessels underway in the West rising as ballast ships build up. | Vessels are opting for COGH for the ballast leg of the journey and moving towards the West to earn higher premiums. | Vessels moving to the west creating vessel tightness in the East. | Spot rates remained stable impacted muted spot demand from India.,Drewry_AIS_PDF_LPG_FR_Week24_2024.pdf
+2024-07-09,2024,28,LPG,FR,LPG_FR,,,,131.0,9.2,639.0,,,,-1.2,-22.5,1.4,0.3,Change in trading status - MoM,,Drewry_AIS_PDF_LPG_FR_Week28_20241.pdf
+2024-08-06,2024,32,LPG,FR,LPG_FR,,,,125.0,,620.0,0.6,3.1,2.0,,,,,Change in trading status - MoM,,Drewry_AIS_PDF_LPG_FR_Week32_20241.pdf
+2024-08-27,2024,35,LPG,FR,LPG_FR,,,,127.6,33.8,639.0,,,,,,,,VLGC rates rise on higher US fixtures,"US VLGC loadings rise as terminals resume spot cargo offers after clearing backlog from hurrican Beryl | Fixtures increased in the West with propane inventory build-up widening the US-Asia price arbitrage, resulting in US-Japan spot rates rising 17% WoW to average $116.15 per tonne. | Meanwhile, VLGC spot rates on the AG-Japan route surged 27% WoW to average $61.27 per tonne, with many fixture inquiries from India for September loadings. | China's LPG demand increased in August with the start of new PDH plants increasing the laden tonnage at anchor in China. | However, the persisting negative margins hold an uncertain outlook for operating run rates and the petchem sector.",Drewry_AIS_PDF_LPG_FR_Week35_20241.pdf
+2024-09-17,2024,38,LPG,FR,LPG_FR,,,,129.0,16.6,578.0,-4.0,5.7,-2.1,,,,,Change in trading status - MoM,,Drewry_AIS_PDF_LPG_FR_Week38_20241.pdf
+2024-10-08,2024,41,LPG,FR,LPG_FR,,,,122.6,24.7,610.0,-2.7,-4.7,-11.0,,,,,Change in trading status - MoM,,Drewry_AIS_PDF_LPG_FR_Week41_20241.pdf
+2024-10-29,2024,44,LPG,FR,LPG_FR,,,,114.0,14.2,584.0,-3.4,-4.4,6.8,,,,,Change in trading status - MoM,,Drewry_AIS_PDF_LPG_FR_Week44_20241.pdf
+2024-11-19,2024,47,LPG,FR,LPG_FR,,,,121.0,5.9,560.0,-9.0,-0.4,3.2,,,,,Change in trading status - MoM,,Drewry_AIS_PDF_LPG_FR_Week47_20241.pdf
+2024-12-10,2024,50,LPG,FR,LPG_FR,,,,121.3,12.6,543.0,-9.0,-3.5,3.9,,,,,Change in trading status - MoM,,Drewry_AIS_PDF_LPG_FR_Week50_20241.pdf
+2025-01-07,2025,1,LPG,FR,LPG_FR,,,,118.8,18.8,570.0,,,,,,,,Change in trading status - MoM,,Drewry_AIS_PDF_LPG_FR_Week01_20251.pdf
+2025-01-28,2025,4,LPG,FR,LPG_FR,,,,116.6,27.4,599.0,,,,,,,,Change in trading status - MoM,,Drewry_AIS_PDF_LPG_FR_Week04_20251.pdf
+2025-02-18,2025,7,LPG,FR,LPG_FR,,,,113.6,15.2,573.0,,,,,,,,Change in trading status - MoM,,Drewry_AIS_PDF_LPG_FR_Week07_20251.pdf
+2025-03-11,2025,10,LPG,FR,LPG_FR,,,,111.6,0.3,508.0,-12.0,-0.4,-8.7,,,,,Change in trading status - MoM,,Drewry_AIS_PDF_LPG_FR_Week10_20251.pdf
+2025-04-01,2025,13,LPG,FR,LPG_FR,,,,117.6,1.2,532.0,,,,,,,,"Week 13 2025
+
+icon: atomic symbol
+
+Published on: 01 Apr, 2025",,Drewry_AIS_PDF_LPG_FR_Week13_20251.pdf
+2025-04-22,2025,16,LPG,FR,LPG_FR,,,,122.8,1.2,495.0,,,,,,,,Change in trading status - MoM,,Drewry_AIS_PDF_LPG_FR_Week16_20251.pdf
+2025-05-13,2025,19,LPG,FR,LPG_FR,,,,124.2,4.8,514.0,3.8,-0.0,-6.0,,,,,Change in trading status - MoM,,Drewry_AIS_PDF_LPG_FR_Week19_20251.pdf
+2025-06-03,2025,22,LPG,FR,LPG_FR,,,,124.6,1.9,513.0,0.8,-1.9,2.3,,,,,Change in trading status - MoM,,Drewry_AIS_PDF_LPG_FR_Week22_20251.pdf
+2025-06-24,2025,25,LPG,FR,LPG_FR,,,,132.4,2.2,571.0,11.2,1.2,4.5,-0.1,-8.0,0.5,0.7,Change in trading status - MoM,,Drewry_AIS_PDF_LPG_FR_Week25_20251.pdf
+2025-09-09,2025,36,LPG,FR,LPG_FR,,,,122.2,0.8,486.0,-3.3,2.8,-1.5,0.1,-6.9,0.6,-2.2,Change in trading status - MoM,,Drewry_AIS_PDF_LPG_FR_Week36_20251.pdf
+2025-09-30,2025,39,LPG,FR,LPG_FR,,,,127.0,5.5,489.0,-3.3,-2.6,-4.4,-0.3,-7.6,3.1,1.4,Change in trading status - MoM,,Drewry_AIS_PDF_LPG_FR_Week39_20251.pdf
+2025-10-28,2025,43,LPG,FR,LPG_FR,,,,122.7,8.8,460.0,-5.8,-3.5,7.9,,,,,Change in trading status - MoM,,Drewry_AIS_PDF_LPG_FR_Week43_20251.pdf
+2025-11-11,2025,45,LPG,FR,LPG_FR,,,,126.3,10.1,468.0,,,,,,,,Change in trading status - MoM,,Drewry_AIS_PDF_LPG_FR_Week45_20251.pdf
+2026-06-30,2026,26,LPG,FR,LPG_FR,,,,111.5,2.6,702.0,-11.6,-5.8,0.3,,,,,Change in trading status - MoM,,Drewry_AIS_LPG_FR_Week26_2026.pdf
+2026-07-21,2026,29,LPG,FR,LPG_FR,,,,109.0,,751.0,12.8,0.4,-2.2,,,,,"Week 29 2026
+
+icon: atomic symbol with a flame
+
+Published on: 21 Jul, 2026",,Drewry_AIS_LPG_FR_Week29_2026.pdf
+2026-08-11,2026,32,LPG,FR,LPG_FR,,,,95.1,-3.8,845.0,33.4,4.8,3.3,,,,,Change in trading status - MoM,,Drewry_AIS_LPG_FR_Week32_2026.pdf
+2026-09-01,2026,35,LPG,FR,LPG_FR,,,,92.3,,817.0,0.3,-5.0,8.3,,,,,Change in trading status - MoM,,Drewry_AIS_LPG_FR_Week35_2026.pdf
+2026-09-22,2026,38,LPG,FR,LPG_FR,,,,103.0,-3.5,908.0,,,,,,,,Change in trading status - MoM,,Drewry_AIS_LPG_FR_Week38_2026.pdf

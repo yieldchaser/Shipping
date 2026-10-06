@@ -1,0 +1,1577 @@
+{
+  "banchero_costa_2026_W26_Bancosta-Weekly-2026-26": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 14,
+    "md_size": 67748,
+    "timestamp": "2026-09-27T10:20:59.002515"
+  },
+  "banchero_costa_2026_W27_Bancosta-Weekly-2026-27-1": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 14,
+    "md_size": 73852,
+    "timestamp": "2026-09-27T10:21:00.359854"
+  },
+  "banchero_costa_2026_W29_Bancosta-Weekly-2026-29": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 14,
+    "md_size": 74103,
+    "timestamp": "2026-09-27T10:21:34.606003"
+  },
+  "banchero_costa_2026_W28_Bancosta-Weekly-2026-28": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 14,
+    "md_size": 72991,
+    "timestamp": "2026-09-27T10:21:37.405953"
+  },
+  "banchero_costa_2026_W31_Bancosta-Weekly-2026-31": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 15,
+    "md_size": 70837,
+    "timestamp": "2026-09-27T10:22:10.889683"
+  },
+  "banchero_costa_2026_W30_Bancosta-Weekly-2026-30": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 15,
+    "md_size": 82673,
+    "timestamp": "2026-09-27T10:22:13.324304"
+  },
+  "banchero_costa_2026_W33_Bancosta-Weekly-2026-33": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 15,
+    "md_size": 62981,
+    "timestamp": "2026-09-27T10:22:47.716805"
+  },
+  "banchero_costa_2026_W32_Bancosta-Weekly-2026-32": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 15,
+    "md_size": 70727,
+    "timestamp": "2026-09-27T10:22:49.347755"
+  },
+  "banchero_costa_2026_W34_Bancosta-Weekly-2026-34": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 15,
+    "md_size": 68310,
+    "timestamp": "2026-09-27T10:23:20.731660"
+  },
+  "banchero_costa_2026_W35_Bancosta-Weekly-2026-35": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 15,
+    "md_size": 75090,
+    "timestamp": "2026-09-27T10:23:28.338993"
+  },
+  "banchero_costa_2026_W38_Bancosta-Weekly-2026-38": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 16,
+    "md_size": 91137,
+    "timestamp": "2026-09-27T10:24:05.547094"
+  },
+  "banchero_costa_2025_W02_Bancosta-Weekly-2025-02": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 12,
+    "md_size": 62335,
+    "timestamp": "2026-09-27T10:26:30.453867"
+  },
+  "banchero_costa_2025_W01_Bancosta-Weekly-2025-01": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 12,
+    "md_size": 59053,
+    "timestamp": "2026-09-27T10:26:30.571568"
+  },
+  "banchero_costa_2025_W04_Bancosta-Weekly-2025-04": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 14,
+    "md_size": 68064,
+    "timestamp": "2026-09-27T10:27:04.789792"
+  },
+  "banchero_costa_2025_W03_Bancosta-Weekly-2025-03": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 12,
+    "md_size": 59021,
+    "timestamp": "2026-09-27T10:27:04.901671"
+  },
+  "banchero_costa_2025_W05_Bancosta-Weekly-2025-05": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 14,
+    "md_size": 72317,
+    "timestamp": "2026-09-27T10:27:40.130464"
+  },
+  "banchero_costa_2025_W06_Bancosta-Weekly-2025-06": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 14,
+    "md_size": 62693,
+    "timestamp": "2026-09-27T10:27:41.717167"
+  },
+  "banchero_costa_2025_W07_Bancosta-Weekly-2025-07": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 14,
+    "md_size": 68275,
+    "timestamp": "2026-09-27T10:28:14.130912"
+  },
+  "banchero_costa_2025_W08_Bancosta-Weekly-2025-08": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 14,
+    "md_size": 72436,
+    "timestamp": "2026-09-27T10:28:14.538686"
+  },
+  "banchero_costa_2025_W09_Bancosta-Weekly-2025-09": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 14,
+    "md_size": 67140,
+    "timestamp": "2026-09-27T10:28:47.839295"
+  },
+  "banchero_costa_2025_W10_Bancosta-Weekly-2025-10": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 14,
+    "md_size": 69794,
+    "timestamp": "2026-09-27T10:28:48.367645"
+  },
+  "banchero_costa_2025_W11_Bancosta-Weekly-2025-11": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 14,
+    "md_size": 63375,
+    "timestamp": "2026-09-27T10:29:21.672041"
+  },
+  "banchero_costa_2025_W12_Bancosta-Weekly-2025-12": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 14,
+    "md_size": 61603,
+    "timestamp": "2026-09-27T10:29:22.467346"
+  },
+  "banchero_costa_2025_W13_Bancosta-Weekly-2025-13": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 14,
+    "md_size": 65325,
+    "timestamp": "2026-09-27T10:29:56.546164"
+  },
+  "banchero_costa_2025_W14_Bancosta-Weekly-2025-14": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 14,
+    "md_size": 61740,
+    "timestamp": "2026-09-27T10:29:58.415412"
+  },
+  "banchero_costa_2025_W17_Bancosta-Weekly-2025-17": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 14,
+    "md_size": 65789,
+    "timestamp": "2026-09-27T10:30:31.133854"
+  },
+  "banchero_costa_2025_W18_Bancosta-Weekly-2025-18-1": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 14,
+    "md_size": 70324,
+    "timestamp": "2026-09-27T10:30:33.455885"
+  },
+  "banchero_costa_2025_W19_Bancosta-Weekly-2025-19": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 14,
+    "md_size": 77862,
+    "timestamp": "2026-09-27T10:31:06.141232"
+  },
+  "banchero_costa_2025_W20_Bancosta-Weekly-2025-20": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 14,
+    "md_size": 62266,
+    "timestamp": "2026-09-27T10:31:09.096247"
+  },
+  "banchero_costa_2025_W22_Bancosta-Weekly-2025-22": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 14,
+    "md_size": 66031,
+    "timestamp": "2026-09-27T10:31:49.956659"
+  },
+  "banchero_costa_2025_W21_Bancosta-Weekly-2025-21": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 12,
+    "md_size": 65308,
+    "timestamp": "2026-09-27T10:31:52.224900"
+  },
+  "banchero_costa_2025_W23_Bancosta-Weekly-2025-23": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 14,
+    "md_size": 74293,
+    "timestamp": "2026-09-27T10:32:25.362408"
+  },
+  "banchero_costa_2025_W24_Bancosta-Weekly-2025-24": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 14,
+    "md_size": 67723,
+    "timestamp": "2026-09-27T10:32:25.365424"
+  },
+  "banchero_costa_2025_W25_Bancosta-Weekly-2025-25": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 14,
+    "md_size": 64204,
+    "timestamp": "2026-09-27T10:33:00.862561"
+  },
+  "banchero_costa_2025_W26_Bancosta-Weekly-2025-26": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 14,
+    "md_size": 64216,
+    "timestamp": "2026-09-27T10:33:01.418677"
+  },
+  "banchero_costa_2025_W28_Bancosta-Weekly-2025-28": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 14,
+    "md_size": 67766,
+    "timestamp": "2026-09-27T10:33:36.562551"
+  },
+  "banchero_costa_2025_W27_Bancosta-Weekly-2025-27": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 14,
+    "md_size": 71470,
+    "timestamp": "2026-09-27T10:33:37.609237"
+  },
+  "banchero_costa_2025_W30_Bancosta-Weekly-2025-30": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 14,
+    "md_size": 65559,
+    "timestamp": "2026-09-27T10:34:11.180537"
+  },
+  "banchero_costa_2025_W29_Bancosta-Weekly-2025-29": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 14,
+    "md_size": 65298,
+    "timestamp": "2026-09-27T10:34:16.100460"
+  },
+  "banchero_costa_2025_W31_Bancosta-Weekly-2025-31": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 14,
+    "md_size": 59341,
+    "timestamp": "2026-09-27T10:34:45.435309"
+  },
+  "banchero_costa_2025_W32_Bancosta-Weekly-2025-32": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 14,
+    "md_size": 57559,
+    "timestamp": "2026-09-27T10:34:46.061415"
+  },
+  "banchero_costa_2025_W34_Bancosta-Weekly-2025-34": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 14,
+    "md_size": 61714,
+    "timestamp": "2026-09-27T10:35:19.153553"
+  },
+  "banchero_costa_2025_W35_Bancosta-Weekly-2025-35": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 14,
+    "md_size": 65526,
+    "timestamp": "2026-09-27T10:35:31.429786"
+  },
+  "banchero_costa_2025_W36_Bancosta-Weekly-2025-36": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 14,
+    "md_size": 71936,
+    "timestamp": "2026-09-27T10:35:53.943066"
+  },
+  "banchero_costa_2025_W37_Bancosta-Weekly-2025-37": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 14,
+    "md_size": 66637,
+    "timestamp": "2026-09-27T10:36:16.489737"
+  },
+  "banchero_costa_2025_W38_Bancosta-Weekly-2025-38": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 14,
+    "md_size": 67685,
+    "timestamp": "2026-09-27T10:36:28.797461"
+  },
+  "banchero_costa_2025_W39_Bancosta-Weekly-2025-39": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 14,
+    "md_size": 79049,
+    "timestamp": "2026-09-27T10:36:50.354173"
+  },
+  "banchero_costa_2025_W40_Bancosta-Weekly-2025-40": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 14,
+    "md_size": 70654,
+    "timestamp": "2026-09-27T10:37:02.142789"
+  },
+  "banchero_costa_2025_W41_Bancosta-Weekly-2025-41": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 14,
+    "md_size": 75080,
+    "timestamp": "2026-09-27T10:37:31.456019"
+  },
+  "banchero_costa_2025_W42_Bancosta-Weekly-2025-42": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 14,
+    "md_size": 71501,
+    "timestamp": "2026-09-27T10:37:47.131449"
+  },
+  "banchero_costa_2025_W44_Bancosta-Weekly-2025-44": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 14,
+    "md_size": 65162,
+    "timestamp": "2026-09-27T10:38:15.562873"
+  },
+  "banchero_costa_2025_W45_Bancosta-Weekly-2025-45": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 14,
+    "md_size": 75639,
+    "timestamp": "2026-09-27T10:38:29.464498"
+  },
+  "banchero_costa_2025_W46_Bancosta-Weekly-2025-46_compressed": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 14,
+    "md_size": 74324,
+    "timestamp": "2026-09-27T10:38:54.777710"
+  },
+  "banchero_costa_2025_W47_Bancosta-Weekly-2025-47_compressed": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 14,
+    "md_size": 72602,
+    "timestamp": "2026-09-27T10:39:14.323767"
+  },
+  "banchero_costa_2025_W48_Bancosta-Weekly-2025-48_compressed": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 14,
+    "md_size": 70040,
+    "timestamp": "2026-09-27T10:39:29.383823"
+  },
+  "banchero_costa_2025_W49_Bancosta-Weekly-2025-49_compressed": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 14,
+    "md_size": 65706,
+    "timestamp": "2026-09-27T10:39:48.745408"
+  },
+  "banchero_costa_2025_W50_Bancosta-Weekly-2025-50_compressed": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 14,
+    "md_size": 95590,
+    "timestamp": "2026-09-27T10:40:03.752497"
+  },
+  "banchero_costa_2024_W01_Bancosta-Weekly-2024-01": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 12,
+    "md_size": 55654,
+    "timestamp": "2026-09-27T10:43:25.029420"
+  },
+  "banchero_costa_2024_W02_Bancosta-Weekly-2024-02": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 12,
+    "md_size": 61271,
+    "timestamp": "2026-09-27T10:43:25.142222"
+  },
+  "banchero_costa_2024_W03_Bancosta-Weekly-2024-03": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 12,
+    "md_size": 61519,
+    "timestamp": "2026-09-27T10:44:10.274848"
+  },
+  "banchero_costa_2024_W04_Bancosta-Weekly-2024-04": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 12,
+    "md_size": 59794,
+    "timestamp": "2026-09-27T10:44:14.360032"
+  },
+  "banchero_costa_2024_W06_Bancosta-Weekly-2024-06": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 12,
+    "md_size": 58909,
+    "timestamp": "2026-09-27T10:44:47.273169"
+  },
+  "banchero_costa_2024_W05_Bancosta-Weekly-2024-05": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 12,
+    "md_size": 61856,
+    "timestamp": "2026-09-27T10:44:53.758844"
+  },
+  "banchero_costa_2024_W08_Bancosta-Weekly-2024-08": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 12,
+    "md_size": 60636,
+    "timestamp": "2026-09-27T10:45:24.701124"
+  },
+  "banchero_costa_2024_W07_Bancosta-Weekly-2024-07": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 12,
+    "md_size": 67813,
+    "timestamp": "2026-09-27T10:45:24.823005"
+  },
+  "banchero_costa_2024_W09_Bancosta-Weekly-2024-09": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 12,
+    "md_size": 59067,
+    "timestamp": "2026-09-27T10:46:03.159764"
+  },
+  "banchero_costa_2024_W10_Bancosta-Weekly-2024-10": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 12,
+    "md_size": 58110,
+    "timestamp": "2026-09-27T10:46:07.379061"
+  },
+  "banchero_costa_2024_W11_Bancosta-Weekly-2024-11": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 12,
+    "md_size": 57462,
+    "timestamp": "2026-09-27T10:46:34.306259"
+  },
+  "banchero_costa_2024_W12_Bancosta-Weekly-2024-12": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 12,
+    "md_size": 58898,
+    "timestamp": "2026-09-27T10:46:39.190018"
+  },
+  "banchero_costa_2024_W14_Bancosta-Weekly-2024-14": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 12,
+    "md_size": 67320,
+    "timestamp": "2026-09-27T10:47:12.457838"
+  },
+  "banchero_costa_2024_W15_Bancosta-Weekly-2024-15": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 12,
+    "md_size": 61607,
+    "timestamp": "2026-09-27T10:47:17.821598"
+  },
+  "banchero_costa_2024_W16_Bancosta-Weekly-2024-16": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 12,
+    "md_size": 59904,
+    "timestamp": "2026-09-27T10:47:49.631396"
+  },
+  "banchero_costa_2024_W17_Bancosta-Weekly-2024-17": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 12,
+    "md_size": 53715,
+    "timestamp": "2026-09-27T10:48:03.066568"
+  },
+  "banchero_costa_2024_W18_Bancosta-Weekly-2024-18": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 12,
+    "md_size": 66591,
+    "timestamp": "2026-09-27T10:48:30.059120"
+  },
+  "banchero_costa_2024_W19_Bancosta-Weekly-2024-19": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 12,
+    "md_size": 58113,
+    "timestamp": "2026-09-27T10:48:37.283349"
+  },
+  "banchero_costa_2024_W20_Bancosta-Weekly-2024-20": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 12,
+    "md_size": 65160,
+    "timestamp": "2026-09-27T10:49:04.056898"
+  },
+  "banchero_costa_2024_W21_Bancosta-Weekly-2024-21": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 12,
+    "md_size": 63650,
+    "timestamp": "2026-09-27T10:49:15.423114"
+  },
+  "banchero_costa_2024_W22_Bancosta-Weekly-2024-22": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 12,
+    "md_size": 56840,
+    "timestamp": "2026-09-27T10:49:37.621307"
+  },
+  "banchero_costa_2024_W24_Bancosta-Weekly-2024-24": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 12,
+    "md_size": 62055,
+    "timestamp": "2026-09-27T10:50:16.140001"
+  },
+  "banchero_costa_2024_W25_Bancosta-Weekly-2024-25": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 12,
+    "md_size": 65043,
+    "timestamp": "2026-09-27T10:50:49.204367"
+  },
+  "banchero_costa_2024_W23_Bancosta-Weekly-2024-23": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 12,
+    "md_size": 54076,
+    "timestamp": "2026-09-27T10:50:56.035664"
+  },
+  "banchero_costa_2024_W26_Bancosta-Weekly-2024-26": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 11,
+    "md_size": 52358,
+    "timestamp": "2026-09-27T10:51:21.399109"
+  },
+  "banchero_costa_2024_W27_Bancosta-Weekly-2024-27": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 12,
+    "md_size": 57639,
+    "timestamp": "2026-09-27T10:51:34.422347"
+  },
+  "banchero_costa_2024_W28_Bancosta-Weekly-2024-28": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 12,
+    "md_size": 59268,
+    "timestamp": "2026-09-27T10:52:23.126646"
+  },
+  "banchero_costa_2024_W30_Bancosta-Weekly-2024-30": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 12,
+    "md_size": 72132,
+    "timestamp": "2026-09-27T10:52:24.425614"
+  },
+  "banchero_costa_2024_W31_Bancosta-Weekly-2024-31": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 12,
+    "md_size": 57902,
+    "timestamp": "2026-09-27T10:52:56.375599"
+  },
+  "banchero_costa_2024_W32_Bancosta-Weekly-2024-32": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 12,
+    "md_size": 56663,
+    "timestamp": "2026-09-27T10:52:57.529298"
+  },
+  "banchero_costa_2024_W34_Bancosta-Weekly-2024-34": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 12,
+    "md_size": 52083,
+    "timestamp": "2026-09-27T10:53:30.836322"
+  },
+  "banchero_costa_2024_W33_Bancosta-Weekly-2024-33": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 12,
+    "md_size": 51378,
+    "timestamp": "2026-09-27T10:54:04.113724"
+  },
+  "banchero_costa_2024_W36_Bancosta-Weekly-2024-36": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 12,
+    "md_size": 67795,
+    "timestamp": "2026-09-27T10:54:22.819220"
+  },
+  "banchero_costa_2024_W37_Bancosta-Weekly-2024-37": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 12,
+    "md_size": 63973,
+    "timestamp": "2026-09-27T10:54:42.459658"
+  },
+  "banchero_costa_2024_W38_Bancosta-Weekly-2024-38": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 12,
+    "md_size": 61625,
+    "timestamp": "2026-09-27T10:55:01.972551"
+  },
+  "banchero_costa_2024_W39_Bancosta-Weekly-2024-39": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 12,
+    "md_size": 66784,
+    "timestamp": "2026-09-27T10:55:15.436646"
+  },
+  "banchero_costa_2024_W40_Bancosta-Weekly-2024-40": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 12,
+    "md_size": 60095,
+    "timestamp": "2026-09-27T10:55:35.498868"
+  },
+  "banchero_costa_2024_W41_Bancosta-Weekly-2024-41": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 12,
+    "md_size": 55774,
+    "timestamp": "2026-09-27T10:55:54.015592"
+  },
+  "banchero_costa_2024_W42_Bancosta-Weekly-2024-42": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 12,
+    "md_size": 57636,
+    "timestamp": "2026-09-27T10:56:15.580583"
+  },
+  "banchero_costa_2024_W43_Bancosta-Weekly-2024-43": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 12,
+    "md_size": 54910,
+    "timestamp": "2026-09-27T10:56:39.972491"
+  },
+  "banchero_costa_2024_W44_Bancosta-Weekly-2024-44": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 12,
+    "md_size": 55198,
+    "timestamp": "2026-09-27T10:56:56.140415"
+  },
+  "banchero_costa_2024_W45_Bancosta-Weekly-2024-45": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 12,
+    "md_size": 49922,
+    "timestamp": "2026-09-27T10:57:12.758246"
+  },
+  "banchero_costa_2024_W46_Bancosta-Weekly-2024-46": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 12,
+    "md_size": 56347,
+    "timestamp": "2026-09-27T10:57:28.129628"
+  },
+  "banchero_costa_2024_W47_Bancosta-Weekly-2024-47": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 12,
+    "md_size": 53575,
+    "timestamp": "2026-09-27T10:57:51.650486"
+  },
+  "banchero_costa_2024_W48_Bancosta-Weekly-2024-48": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 12,
+    "md_size": 56662,
+    "timestamp": "2026-09-27T10:58:05.906714"
+  },
+  "banchero_costa_2024_W49_Bancosta-Weekly-2024-49": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 12,
+    "md_size": 56212,
+    "timestamp": "2026-09-27T10:58:30.621140"
+  },
+  "banchero_costa_2024_W50_Bancosta-Weekly-2024-50": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 12,
+    "md_size": 58257,
+    "timestamp": "2026-09-27T10:58:39.792608"
+  },
+  "banchero_costa_2023_W02_Bancosta-Weekly-2023-02": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 14,
+    "md_size": 66497,
+    "timestamp": "2026-09-27T10:59:16.835110"
+  },
+  "banchero_costa_2023_W01_Bancosta-Weekly-2023-01": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 14,
+    "md_size": 69208,
+    "timestamp": "2026-09-27T10:59:22.840953"
+  },
+  "banchero_costa_2023_W03_Bancosta-Weekly-2023-03": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 14,
+    "md_size": 76715,
+    "timestamp": "2026-09-27T10:59:56.667598"
+  },
+  "banchero_costa_2023_W04_Bancosta-Weekly-2023-04": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 14,
+    "md_size": 69981,
+    "timestamp": "2026-09-27T11:00:02.350428"
+  },
+  "banchero_costa_2023_W05_Bancosta-Weekly-2023-05": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 14,
+    "md_size": 71391,
+    "timestamp": "2026-09-27T11:00:29.417843"
+  },
+  "banchero_costa_2023_W06_Bancosta-Weekly-2023-06": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 14,
+    "md_size": 70441,
+    "timestamp": "2026-09-27T11:00:34.839571"
+  },
+  "banchero_costa_2023_W07_Bancosta-Weekly-2023-07": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 14,
+    "md_size": 74882,
+    "timestamp": "2026-09-27T11:01:08.379772"
+  },
+  "banchero_costa_2023_W08_Bancosta-Weekly-2023-08": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 14,
+    "md_size": 70865,
+    "timestamp": "2026-09-27T11:01:17.913494"
+  },
+  "banchero_costa_2023_W09_Bancosta-Weekly-2023-09": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 14,
+    "md_size": 70536,
+    "timestamp": "2026-09-27T11:01:45.739060"
+  },
+  "banchero_costa_2023_W10_Bancosta-Weekly-2023-10": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 14,
+    "md_size": 68785,
+    "timestamp": "2026-09-27T11:01:49.748760"
+  },
+  "banchero_costa_2023_W11_Bancosta-Weekly-2023-11": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 14,
+    "md_size": 77145,
+    "timestamp": "2026-09-27T11:02:29.933144"
+  },
+  "banchero_costa_2023_W12_Bancosta-Weekly-2023-12-1": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 14,
+    "md_size": 70896,
+    "timestamp": "2026-09-27T11:02:32.233096"
+  },
+  "banchero_costa_2023_W13_Bancosta-Weekly-2023-13": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 14,
+    "md_size": 74830,
+    "timestamp": "2026-09-27T11:03:08.723227"
+  },
+  "banchero_costa_2023_W14_Bancosta-Weekly-2023-14": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 14,
+    "md_size": 74648,
+    "timestamp": "2026-09-27T11:03:10.492291"
+  },
+  "banchero_costa_2023_W15_Bancosta-Weekly-2023-15": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 14,
+    "md_size": 69668,
+    "timestamp": "2026-09-27T11:03:41.234282"
+  },
+  "banchero_costa_2023_W16_Bancosta-Weekly-2023-16": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 14,
+    "md_size": 67496,
+    "timestamp": "2026-09-27T11:03:42.474946"
+  },
+  "banchero_costa_2023_W18_Bancosta-Weekly-2023-18": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 14,
+    "md_size": 63381,
+    "timestamp": "2026-09-27T11:04:20.315983"
+  },
+  "banchero_costa_2023_W17_Bancosta-Weekly-2023-17": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 14,
+    "md_size": 63207,
+    "timestamp": "2026-09-27T11:04:24.774828"
+  },
+  "banchero_costa_2023_W19_Bancosta-Weekly-2023-19": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 14,
+    "md_size": 74850,
+    "timestamp": "2026-09-27T11:04:58.289948"
+  },
+  "banchero_costa_2023_W20_Bancosta-Weekly-2023-20": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 14,
+    "md_size": 66737,
+    "timestamp": "2026-09-27T11:05:02.758399"
+  },
+  "banchero_costa_2023_W22_Bancosta-Weekly-2023-22": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 14,
+    "md_size": 78484,
+    "timestamp": "2026-09-27T11:05:35.062513"
+  },
+  "banchero_costa_2023_W21_Bancosta-Weekly-2023-21": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 14,
+    "md_size": 65687,
+    "timestamp": "2026-09-27T11:05:36.728649"
+  },
+  "banchero_costa_2023_W23_Bancosta-Weekly-2022-23": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 14,
+    "md_size": 68141,
+    "timestamp": "2026-09-27T11:06:08.056963"
+  },
+  "banchero_costa_2023_W24_Bancosta-Weekly-2023-24": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 14,
+    "md_size": 69193,
+    "timestamp": "2026-09-27T11:06:15.301056"
+  },
+  "banchero_costa_2023_W25_Bancosta-Weekly-2023-25": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 14,
+    "md_size": 72560,
+    "timestamp": "2026-09-27T11:06:46.104886"
+  },
+  "banchero_costa_2023_W26_Bancosta-Weekly-2023-26": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 14,
+    "md_size": 76008,
+    "timestamp": "2026-09-27T11:06:46.792491"
+  },
+  "banchero_costa_2023_W27_Bancosta-Weekly-2023-27-1": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 14,
+    "md_size": 66761,
+    "timestamp": "2026-09-27T11:07:23.985039"
+  },
+  "banchero_costa_2023_W28_Bancosta-Weekly-2023-28": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 14,
+    "md_size": 68205,
+    "timestamp": "2026-09-27T11:07:29.955336"
+  },
+  "banchero_costa_2023_W29_Bancosta-Weekly-2023-29": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 14,
+    "md_size": 71048,
+    "timestamp": "2026-09-27T11:08:02.265027"
+  },
+  "banchero_costa_2023_W30_Bancosta-Weekly-2023-30": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 14,
+    "md_size": 70144,
+    "timestamp": "2026-09-27T11:08:02.381532"
+  },
+  "banchero_costa_2023_W31_Bancosta-Weekly-2023-31": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 14,
+    "md_size": 72194,
+    "timestamp": "2026-09-27T11:08:34.756190"
+  },
+  "banchero_costa_2023_W33_Bancosta-Weekly-2023-33-1": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 14,
+    "md_size": 65410,
+    "timestamp": "2026-09-27T11:08:35.112707"
+  },
+  "banchero_costa_2023_W35_Bancosta-Weekly-2023-35": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 14,
+    "md_size": 81830,
+    "timestamp": "2026-09-27T11:09:07.255038"
+  },
+  "banchero_costa_2023_W34_Bancosta-Weekly-2023-34": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 14,
+    "md_size": 65267,
+    "timestamp": "2026-09-27T11:09:07.457665"
+  },
+  "banchero_costa_2023_W37_Bancosta-Weekly-2023-37": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 14,
+    "md_size": 73983,
+    "timestamp": "2026-09-27T11:09:44.692306"
+  },
+  "banchero_costa_2023_W36_Bancosta-Weekly-2023-36": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 14,
+    "md_size": 68834,
+    "timestamp": "2026-09-27T11:09:44.785846"
+  },
+  "banchero_costa_2023_W38_Bancosta-Weekly-2023-38": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 14,
+    "md_size": 73080,
+    "timestamp": "2026-09-27T11:10:16.756057"
+  },
+  "banchero_costa_2023_W39_Bancosta-Weekly-2023-39": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 14,
+    "md_size": 79105,
+    "timestamp": "2026-09-27T11:10:17.440661"
+  },
+  "banchero_costa_2023_W40_Bancosta-Weekly-2023-40": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 14,
+    "md_size": 78149,
+    "timestamp": "2026-09-27T11:10:54.310918"
+  },
+  "banchero_costa_2023_W41_Bancosta-Weekly-2023-41": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 14,
+    "md_size": 74831,
+    "timestamp": "2026-09-27T11:10:54.544702"
+  },
+  "banchero_costa_2023_W43_Bancosta-Weekly-2023-43": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 14,
+    "md_size": 71880,
+    "timestamp": "2026-09-27T11:11:26.888637"
+  },
+  "banchero_costa_2023_W42_Bancosta-Weekly-2023-42": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 14,
+    "md_size": 78196,
+    "timestamp": "2026-09-27T11:11:37.142655"
+  },
+  "banchero_costa_2023_W44_Bancosta-Weekly-2023-44": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 14,
+    "md_size": 78341,
+    "timestamp": "2026-09-27T11:11:59.655409"
+  },
+  "banchero_costa_2023_W45_Bancosta-Weekly-2023-45": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 14,
+    "md_size": 72681,
+    "timestamp": "2026-09-27T11:12:26.397390"
+  },
+  "banchero_costa_2023_W46_Bancosta-Weekly-2023-46": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 14,
+    "md_size": 70481,
+    "timestamp": "2026-09-27T11:12:36.334379"
+  },
+  "banchero_costa_2023_W47_Bancosta-Weekly-2023-47": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 14,
+    "md_size": 64698,
+    "timestamp": "2026-09-27T11:13:03.670338"
+  },
+  "banchero_costa_2023_W48_Bancosta-Weekly-2023-48": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 14,
+    "md_size": 70284,
+    "timestamp": "2026-09-27T11:13:07.833814"
+  },
+  "banchero_costa_2023_W50_Bancosta-Weekly-2023-50": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 14,
+    "md_size": 72804,
+    "timestamp": "2026-09-27T11:13:42.605601"
+  },
+  "banchero_costa_2023_W49_Bancosta-Weekly-2023-49-1": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 14,
+    "md_size": 70599,
+    "timestamp": "2026-09-27T11:13:43.483680"
+  },
+  "banchero_costa_2022_W02_Bancosta-Weekly-2022-02": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 14,
+    "md_size": 72137,
+    "timestamp": "2026-09-27T11:14:21.407409"
+  },
+  "banchero_costa_2022_W01_Bancosta-Weekly-2022-01": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 14,
+    "md_size": 82125,
+    "timestamp": "2026-09-27T11:14:21.510670"
+  },
+  "banchero_costa_2022_W05_Bancosta-Weekly-2022-05": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 14,
+    "md_size": 66688,
+    "timestamp": "2026-09-27T11:14:59.582181"
+  },
+  "banchero_costa_2022_W03_Bancosta-Weekly-2022-03": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 14,
+    "md_size": 75529,
+    "timestamp": "2026-09-27T11:15:05.402012"
+  },
+  "banchero_costa_2022_W06_Bancosta-Weekly-2022-06": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 14,
+    "md_size": 78609,
+    "timestamp": "2026-09-27T11:15:37.634868"
+  },
+  "banchero_costa_2022_W07_Bancosta-Weekly-2022-07": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 14,
+    "md_size": 74356,
+    "timestamp": "2026-09-27T11:15:42.843388"
+  },
+  "banchero_costa_2022_W09_Bancosta-Weekly-2022-09-1-1": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 14,
+    "md_size": 82240,
+    "timestamp": "2026-09-27T11:16:15.275057"
+  },
+  "banchero_costa_2022_W08_Bancosta-Weekly-2022-08": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 14,
+    "md_size": 84161,
+    "timestamp": "2026-09-27T11:16:15.415320"
+  },
+  "banchero_costa_2022_W10_Bancosta-Weekly-2022-10": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 14,
+    "md_size": 73072,
+    "timestamp": "2026-09-27T11:16:52.704346"
+  },
+  "banchero_costa_2022_W11_Bancosta-Weekly-2022-11": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 14,
+    "md_size": 83282,
+    "timestamp": "2026-09-27T11:16:53.352437"
+  },
+  "banchero_costa_2022_W13_Bancosta-Weekly-2022-13": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 14,
+    "md_size": 84681,
+    "timestamp": "2026-09-27T11:17:32.707469"
+  },
+  "banchero_costa_2022_W12_Bancosta-Weekly-2022-12": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 14,
+    "md_size": 70552,
+    "timestamp": "2026-09-27T11:17:37.144818"
+  },
+  "banchero_costa_2022_W14_Bancosta-Weekly-2022-14": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 14,
+    "md_size": 80058,
+    "timestamp": "2026-09-27T11:18:11.595404"
+  },
+  "banchero_costa_2022_W15_Bancosta-Weekly-2022-15": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 14,
+    "md_size": 69655,
+    "timestamp": "2026-09-27T11:18:14.943261"
+  },
+  "banchero_costa_2022_W18_Bancosta-Weekly-2022-18": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 14,
+    "md_size": 66519,
+    "timestamp": "2026-09-27T11:18:48.694529"
+  },
+  "banchero_costa_2022_W16_Bancosta-Weekly-2022-16": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 14,
+    "md_size": 73183,
+    "timestamp": "2026-09-27T11:18:49.584800"
+  },
+  "banchero_costa_2022_W19_Bancosta-Weekly-2022-19-1": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 14,
+    "md_size": 71430,
+    "timestamp": "2026-09-27T11:19:27.352720"
+  },
+  "banchero_costa_2022_W20_Bancosta-Weekly-2022-20": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 14,
+    "md_size": 72898,
+    "timestamp": "2026-09-27T11:19:33.247211"
+  },
+  "banchero_costa_2022_W22_Bancosta-Weekly-2022-22": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 14,
+    "md_size": 69027,
+    "timestamp": "2026-09-27T11:20:11.714221"
+  },
+  "banchero_costa_2022_W21_Bancosta-Weekly-2022-21": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 14,
+    "md_size": 72888,
+    "timestamp": "2026-09-27T11:20:11.910745"
+  },
+  "banchero_costa_2022_W23_Bancosta-Weekly-2022-23": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 14,
+    "md_size": 70812,
+    "timestamp": "2026-09-27T11:20:44.309574"
+  },
+  "banchero_costa_2022_W24_Bancosta-Weekly-2022-24-1": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 14,
+    "md_size": 75292,
+    "timestamp": "2026-09-27T11:20:50.067849"
+  },
+  "banchero_costa_2022_W25_Bancosta-Weekly-2022-25": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 14,
+    "md_size": 67969,
+    "timestamp": "2026-09-27T11:21:22.431962"
+  },
+  "banchero_costa_2022_W26_Bancosta-Weekly-2022-26": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 14,
+    "md_size": 64184,
+    "timestamp": "2026-09-27T11:21:28.301949"
+  },
+  "banchero_costa_2022_W27_Bancosta-Weekly-2022-27": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 14,
+    "md_size": 66710,
+    "timestamp": "2026-09-27T11:21:59.724452"
+  },
+  "banchero_costa_2022_W28_Bancosta-Weekly-2022-28": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 14,
+    "md_size": 70271,
+    "timestamp": "2026-09-27T11:22:00.718337"
+  },
+  "banchero_costa_2022_W29_Bancosta-Weekly-2022-29": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 14,
+    "md_size": 70136,
+    "timestamp": "2026-09-27T11:22:32.680377"
+  },
+  "banchero_costa_2022_W30_Bancosta-Weekly-2022-30": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 14,
+    "md_size": 77632,
+    "timestamp": "2026-09-27T11:22:38.108555"
+  },
+  "banchero_costa_2022_W34_Bancosta-Weekly-2022-34": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 14,
+    "md_size": 63840,
+    "timestamp": "2026-09-27T11:23:10.501561"
+  },
+  "banchero_costa_2022_W33_Bancosta-Weekly-2022-33": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 14,
+    "md_size": 67968,
+    "timestamp": "2026-09-27T11:23:11.832986"
+  },
+  "banchero_costa_2022_W35_Bancosta-Weekly-2022-35": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 14,
+    "md_size": 59666,
+    "timestamp": "2026-09-27T11:23:42.967119"
+  },
+  "banchero_costa_2022_W36_Bancosta-Weekly-2022-36": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 14,
+    "md_size": 70462,
+    "timestamp": "2026-09-27T11:23:43.758009"
+  },
+  "banchero_costa_2022_W37_Bancosta-Weekly-2022-37": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 14,
+    "md_size": 67904,
+    "timestamp": "2026-09-27T11:24:15.651072"
+  },
+  "banchero_costa_2022_W38_Bancosta-Weekly-2022-38": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 14,
+    "md_size": 74033,
+    "timestamp": "2026-09-27T11:24:15.662320"
+  },
+  "banchero_costa_2022_W40_Bancosta-Weekly-2022-40": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 14,
+    "md_size": 69020,
+    "timestamp": "2026-09-27T11:24:48.337112"
+  },
+  "banchero_costa_2022_W39_Bancosta-Weekly-2022-39": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 14,
+    "md_size": 63075,
+    "timestamp": "2026-09-27T11:24:53.234799"
+  },
+  "banchero_costa_2022_W42_Bancosta-Weekly-2022-42": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 14,
+    "md_size": 70742,
+    "timestamp": "2026-09-27T11:25:45.450139"
+  },
+  "banchero_costa_2022_W41_Bancosta-Weekly-2022-41": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 14,
+    "md_size": 65723,
+    "timestamp": "2026-09-27T11:25:45.450618"
+  },
+  "banchero_costa_2022_W44_Bancosta-Weekly-2022-44": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 14,
+    "md_size": 76539,
+    "timestamp": "2026-09-27T11:26:23.009402"
+  },
+  "banchero_costa_2022_W43_Bancosta-Weekly-2022-43-1": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 14,
+    "md_size": 72932,
+    "timestamp": "2026-09-27T11:26:23.215181"
+  },
+  "banchero_costa_2022_W45_Bancosta-Weekly-2022-45": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 14,
+    "md_size": 81216,
+    "timestamp": "2026-09-27T11:26:54.721755"
+  },
+  "banchero_costa_2022_W46_Bancosta-Weekly-2022-46": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 14,
+    "md_size": 73486,
+    "timestamp": "2026-09-27T11:26:56.028332"
+  },
+  "banchero_costa_2022_W47_Bancosta-Weekly-2022-47": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 14,
+    "md_size": 65903,
+    "timestamp": "2026-09-27T11:27:28.154764"
+  },
+  "banchero_costa_2022_W48_Bancosta-Weekly-2022-48": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 14,
+    "md_size": 72498,
+    "timestamp": "2026-09-27T11:27:28.791671"
+  },
+  "banchero_costa_2022_W49_Bancosta-Weekly-2022-49": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 14,
+    "md_size": 68713,
+    "timestamp": "2026-09-27T11:28:13.213178"
+  },
+  "banchero_costa_2022_W50_Bancosta-Weekly-2022-50": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 14,
+    "md_size": 80960,
+    "timestamp": "2026-09-27T11:28:19.327848"
+  },
+  "banchero_costa_2021_W27_Bancosta-Weekly-2021-27": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 12,
+    "md_size": 66018,
+    "timestamp": "2026-09-27T11:28:52.149524"
+  },
+  "banchero_costa_2021_W26_Bancosta-Weekly-2021-26": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 12,
+    "md_size": 85953,
+    "timestamp": "2026-09-27T11:28:57.536362"
+  },
+  "banchero_costa_2021_W28_Bancosta-Weekly-2021-28": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 12,
+    "md_size": 74647,
+    "timestamp": "2026-09-27T11:29:25.587193"
+  },
+  "banchero_costa_2021_W29_Bancosta-Weekly-2021-29": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 12,
+    "md_size": 70841,
+    "timestamp": "2026-09-27T11:29:32.422301"
+  },
+  "banchero_costa_2021_W30_Bancosta-Weekly-2021-30": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 12,
+    "md_size": 72119,
+    "timestamp": "2026-09-27T11:30:09.175071"
+  },
+  "banchero_costa_2021_W31_Bancosta-Weekly-2021-31": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 12,
+    "md_size": 60889,
+    "timestamp": "2026-09-27T11:30:10.236835"
+  },
+  "banchero_costa_2021_W33_Bancosta-Weekly-2021-33-1": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 12,
+    "md_size": 64745,
+    "timestamp": "2026-09-27T11:30:41.888516"
+  },
+  "banchero_costa_2021_W34_Bancosta-Weekly-2021-34": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 12,
+    "md_size": 67669,
+    "timestamp": "2026-09-27T11:30:48.102656"
+  },
+  "banchero_costa_2021_W35_Bancosta-Weekly-2021-35": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 12,
+    "md_size": 70623,
+    "timestamp": "2026-09-27T11:31:20.143735"
+  },
+  "banchero_costa_2021_W36_Bancosta-Weekly-2021-36": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 12,
+    "md_size": 65692,
+    "timestamp": "2026-09-27T11:31:32.804925"
+  },
+  "banchero_costa_2021_W37_Bancosta-Weekly-2021-37": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 12,
+    "md_size": 66650,
+    "timestamp": "2026-09-27T11:31:53.169873"
+  },
+  "banchero_costa_2021_W38_Bancosta-Weekly-2021-38": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 12,
+    "md_size": 73572,
+    "timestamp": "2026-09-27T11:32:03.430011"
+  },
+  "banchero_costa_2021_W39_Bancosta-Weekly-2021-39": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 12,
+    "md_size": 68862,
+    "timestamp": "2026-09-27T11:32:37.242523"
+  },
+  "banchero_costa_2021_W40_Bancosta-Weekly-2021-40": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 12,
+    "md_size": 69046,
+    "timestamp": "2026-09-27T11:32:38.284548"
+  },
+  "banchero_costa_2021_W41_Bancosta-Weekly-2021-41-1": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 12,
+    "md_size": 68143,
+    "timestamp": "2026-09-27T11:33:10.167920"
+  },
+  "banchero_costa_2021_W42_Bancosta-Weekly-2021-42": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 12,
+    "md_size": 69942,
+    "timestamp": "2026-09-27T11:33:10.245414"
+  },
+  "banchero_costa_2021_W43_Bancosta-Weekly-2021-43": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 12,
+    "md_size": 72975,
+    "timestamp": "2026-09-27T11:33:43.397087"
+  },
+  "banchero_costa_2021_W44_Bancosta-Weekly-2021-44": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 12,
+    "md_size": 71927,
+    "timestamp": "2026-09-27T11:33:48.641781"
+  },
+  "banchero_costa_2021_W45_Bancosta-Weekly-2021-45": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 12,
+    "md_size": 69748,
+    "timestamp": "2026-09-27T11:34:23.200947"
+  },
+  "banchero_costa_2021_W46_Bancosta-Weekly-2021-46": {
+    "status": "success",
+    "account": "account_9",
+    "pages": 12,
+    "md_size": 67527,
+    "timestamp": "2026-09-27T11:34:25.524565"
+  },
+  "banchero_costa_2021_W47_Bancosta-Weekly-2021-47": {
+    "status": "success",
+    "account": "account_5",
+    "pages": 12,
+    "md_size": 62034,
+    "timestamp": "2026-09-27T11:35:01.837690"
+  },
+  "banchero_costa_2021_W48_Bancosta-Weekly-2021-48": {
+    "status": "success",
+    "account": "account_6",
+    "pages": 14,
+    "md_size": 79763,
+    "timestamp": "2026-09-27T11:35:03.972575"
+  },
+  "banchero_costa_2021_W49_Bancosta-Weekly-2021-49": {
+    "status": "success",
+    "account": "account_7",
+    "pages": 14,
+    "md_size": 72637,
+    "timestamp": "2026-09-27T11:35:33.187676"
+  },
+  "banchero_costa_2021_W50_Bancosta-Weekly-2021-50": {
+    "status": "success",
+    "account": "account_8",
+    "pages": 14,
+    "md_size": 79692,
+    "timestamp": "2026-09-27T11:35:42.476968"
+  },
+  "bancosta_30_09_2026_banchero_costa_weekly_market_report_week_39_2026": {
+    "status": "success",
+    "account": "main_active",
+    "pages": 16,
+    "md_size": 80798,
+    "timestamp": "2026-10-04T20:51:39.368247"
+  },
+  "banchero_costa_2026_W39_Bancosta-Weekly-2026-39": {
+    "status": "success",
+    "account": "main_active",
+    "pages": 16,
+    "md_size": 80798,
+    "timestamp": "2026-10-04T22:01:16.894244"
+  }
+}

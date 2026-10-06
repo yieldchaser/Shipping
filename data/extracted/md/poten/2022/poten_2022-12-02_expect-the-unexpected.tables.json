@@ -1,0 +1,34 @@
+{
+  "issue_date": "2022-12-02",
+  "year": 2022,
+  "title": "Expect The Unexpected",
+  "source_file": "corpus/04-poten/pdfs/2022/Weekly-Opinion-2-December-2022-Expect-The-Unexpected.pdf",
+  "tables_count": 0,
+  "charts_count": 2,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2022-12-02_expect-the-unexpected_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2022/poten_2022-12-02_expect-the-unexpected_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-12-02_expect-the-unexpected_chart1.png",
+      "width": 980,
+      "height": 544
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2022-12-02_expect-the-unexpected_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2022/poten_2022-12-02_expect-the-unexpected_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-12-02_expect-the-unexpected_chart2.png",
+      "width": 955,
+      "height": 544
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

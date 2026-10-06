@@ -1,0 +1,60 @@
+issue_date,report_week,location,vessel_name,vessel_type,ldt,price_reported,terms_comments,source_file
+2022-01-14,2,India,EXPRESS,Tanker,"2,998",USD 930/LT LDT (with 282 Ts solid SUS,,2022-01-17_2022-01-17Qiu_org.pdf
+2022-01-14,2,India,316),HELSINGFORS,Fish factory,"3,639",USD 725/LT LDT,2022-01-17_2022-01-17Qiu_org.pdf
+2022-01-14,2,India,PROSPERITY,Tanker,"5,314",USD 830/LT LDT (with 580 Ts solid SUS,,2022-01-17_2022-01-17Qiu_org.pdf
+2022-03-04,9,India,BERGE ARCTIC,Bulker,"27,461",USD 660/LT LDT (for full range HKC,,2022-03-07_2022-03-06TFJ_org.pdf
+2022-05-13,19,Bangladesh,MASCOT 8,Tanker,"16,616","USD 640/LT LDT (‘as is’ Singapore, ‘gas",,2022-05-16_2022-05-16XTP_org.pdf
+2022-07-29,30,India,BONGKOT STAR,FSU,"41,756",USD 540/LT LDT (‘as is’ Malaysia with,,2022-08-01_gms-week-30-fears-grow_ship-recycling-market-insight-week-3_ef74bab948fb.pdf
+2022-08-12,32,India,PISCO BRAVO,Chemical Tanker,"2,564","USD 1,200/LT LDT (including 538 Tons",,2022-08-15_gms-week-32-summer-lull_ship-recycling-market-insight-week-3_a8284ba1153c.pdf
+2022-11-25,47,India,BERGE APO,Bulker,"20,668",USD 523/LT LDT for HKC recycling,,2022-11-29_gms-week-47-duties-reduced-prices-down_ship-recycling-market-insight-week-4_fcf9ff8fe319.pdf
+2022-12-16,50,India,VENUS C,Container,"4,394",USD 525/LT LDT (‘as is’ Singapore with,,2022-12-20_gms-week-50-limbo_ship-recycling-market-insight-week-5_884ec08c6315.pdf
+2023-01-20,3,India,SSL KOCHI,Container,"8,362",About USD 580/LT LDT (‘as is”,Colombo with bunkers for voyage),2023-01-23_gms-week-3-seeking-supply_ship-recycling-market-insight-week-0_057c8426b9bc.pdf
+2023-02-10,6,India,BUNGA MAS ENAM,Navy Support Vessel,"4,750",USD 320/LT LDT (‘as is’ Malaysia for,,2023-02-13_gms-week-6-building-up_ship-recycling-market-insight-week-0_d597b81257f5.pdf
+2023-02-17,7,Bangladesh,VADI,Bulker,"10,085",USD 575/LT LDT (with 300 Ts bunkers,,2023-02-21_gms-week-7-back-in-biz_ship-recycling-market-insight-week-0_0626ea52d050.pdf
+2023-02-17,7,Bangladesh,and spare propeller),XIUMEI SHANGHAI,Container,"7,276",USD 640/LT LDT (with 300 Ts bunkers),2023-02-21_gms-week-7-back-in-biz_ship-recycling-market-insight-week-0_0626ea52d050.pdf
+2023-03-03,9,Bangladesh,ADRIATIC ENERGY,LNG,"32,304","USD 22,000,000 (with 3,760 Ts",,2023-03-06_gms-week-9-eager-eyes_ship-recycling-market-insight-week-0_ccc2a87715c5.pdf
+2023-04-28,17,India,MARITIME LIRA,Tanker,"12,235",USD 515/LT LDT (for limited 10 yards,,2023-05-02_gms-week-17-hkc-sales_ship-recycling-market-insight-week-1_af5e30a415a3.pdf
+2023-04-28,17,India,MSC LUCIA,Container,"8,911",USD 530/LT LDT (for limited yards,,2023-05-02_gms-week-17-hkc-sales_ship-recycling-market-insight-week-1_af5e30a415a3.pdf
+2023-05-05,18,India,FPSO FERAN VAZ,FPSO,"41,716",USD 260/LT LDT (‘as is’ Gabon under,,2023-05-08_gms-week-18-contraction_ship-recycling-market-insight-week-1_e221e67f33b0.pdf
+2023-05-05,18,India,KUMUL ARROW,General Cargo,"10,998",USD 560/LT LDT (for NK class HKC,,2023-05-08_gms-week-18-contraction_ship-recycling-market-insight-week-1_e221e67f33b0.pdf
+2023-05-19,20,India,GANDRIA,LNG,"29,500",USD 15.5 million (‘as is’ Labuan for,,2023-05-22_gms-week-20-upward-trajectory_ship-recycling-market-insight-week-2_d6a5f10b317a.pdf
+2023-06-02,22,Bangladesh,ZE RUI 1,Bulker,"7,735",USD 531/LT LDT (‘as is’ China with 150,,2023-06-05_gms-week-22-no-surprises_ship-recycling-market-insight-week-2_e811b08daf1c.pdf
+2023-07-21,29,Bangladesh,YANG FAN,Bulker,"10,934",USD 540/LT LDT (‘as is’ Batam with,,2023-07-24_gms-week-29-decline-fall_ship-recycling-market-insight-week-2_b2e702332b76.pdf
+2023-08-11,32,Bangladesh,AN YUE,Bulker,"7,985",USD 475/LT LDT (‘as is’ Singapore with,,2023-08-14_gms-week-32-terrible_ship-recycling-market-insight-week-3_0aba537ec001.pdf
+2023-08-11,32,Bangladesh,B H MALLY,Bulker,"9,379",USD 465/LT LDT (‘as is’ South China,,2023-08-14_gms-week-32-terrible_ship-recycling-market-insight-week-3_0aba537ec001.pdf
+2023-08-11,32,India,AGIOS NIKOLAOS,Bulker,"9,743","USD 540/LT LDT (‘as is’ Singapore, Old",,2023-08-14_gms-week-32-terrible_ship-recycling-market-insight-week-3_0aba537ec001.pdf
+2023-08-11,32,India,HENG HUI 2,Container,"14,775",USD 550/LT LDT (‘as is’ Colombo with,,2023-08-14_gms-week-32-terrible_ship-recycling-market-insight-week-3_0aba537ec001.pdf
+2023-09-01,35,India,CHERRY,Container,"6,499",USD 545/LT LDT (‘as is’ Singapore with,,2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf
+2023-09-22,38,India,MSC MARIA,Container,"3,952",USD 547/LT LDT (for limited yards,,2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf
+2023-09-22,38,India,HKC sale only),YA TAI 1,Bulker,"10,399",USD 475/LT LDT (‘as is’ Guangzhou),2023-09-25_gms-week-38-feverish-buying_ship-recycling-market-insight-week-3_1d38a6c0d2fb.pdf
+2023-10-06,40,India,FORESIGHTER,PCC,"11,238",USD 512/LT LDT (‘as is’ Japan for HKC,,2023-10-09_gms-week-40-resurgent_ship-recycling-market-insight-week-4_0d7c94e93638.pdf
+2023-10-13,41,India,MSC LEVINA,Container,"12,857",USD 565/LT LDT (with 400 Ts bunkers,,2023-10-16_gms-week-41-forum-fundamentals_ship-recycling-market-insight-week-4_3fce7e239579.pdf
+2023-11-10,45,India,BONTRUP MALDIVES,General Cargo,"10,993",USD 545/LT LDT (with 350 Tons,bunkers on arrival for HKC recycling),2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf
+2023-11-10,45,India,MSC CHIARA,Container,"14,305",USD 535/LT LDT (for limited yards,HKC sale only with 330 Tons bunkers,2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf
+2023-11-10,45,India,WUYANG GODDESS,Bulker,"7,481",USD 480/LT LDT (‘as is’ China with 500,,2023-11-13_gms-week-45-yet-to-match-up_ship-recycling-market-insight-week-4_b4a898c49ff6.pdf
+2023-11-24,47,India,ZE HONG,Container,"11,618",USD 520/LT LDT (‘as is’ Zhoushan with,,2023-11-29_24-November-2023.pdf
+2023-12-15,50,India,SSL DELHI,Container,"10,669",USD 532/LT LDT (‘as is’ Sri Lanka with,,"2023-12-16_15%20December,%202023.pdf"
+2024-01-05,1,India,MSC SOPHIE,Container,"13,616","USD 565/LT LDT (with about 1,200 Ts",,2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf
+2024-01-12,2,India,MSC UMA,Container,"10,455",USD 530/LT LDT (for limited HKC,,2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_ship-recycling-market-insight-week-0_bd41628c2a41.pdf
+2024-01-19,3,India,MSC JEMIMA,Container,"12,677",USD 525/LT LDT (for limited HKC,,2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf
+2024-02-02,5,Bangladesh,WADI S,Bulker,"10,247",USD 530/LT LDT (with spare propeller,,2024-02-05_gms-week-05-fractured_ship-recycling-market-insight-week-0_a96b91a6f086.pdf
+2024-03-08,10,Bangladesh,ASIA CEMENT NO.1,Cement Carrier,"2,234",USD 375/LT LDT ‘as is’ Taiwan for,,2024-03-11_gms-week-10-tonnage-tranquilized_ship-recycling-market-insight-week-1_cb107dfcc5c6.pdf
+2024-03-08,10,Bangladesh,guaranteed HKC resale,FAR EAST CHEERS,Container,"3,651","USD 530/LT LDT LIAN FENG 6 Bulker 6,537 USD 520/LT LDT YAMTAI Bulker 6,003 USD 480/LT LDT ‘as is’ Singapore",2024-03-11_gms-week-10-tonnage-tranquilized_ship-recycling-market-insight-week-1_cb107dfcc5c6.pdf
+2024-04-05,14,Bangladesh,SAWASDEE SINGAPORE,Container,"7,138",USD 602/LT LDT (with 550 Tons of,,2024-04-08_gms-week-14-spring-cleaned_ship-recycling-market-insight-week-1_0584e583ba91.pdf
+2024-07-26,30,India,ICE RUNNER,Reefer,"6,939",USD 615/LT LDT (with 289 Tons of AL,,2024-07-29_gms-week-30-middle-east-mayhem_ship-recycling-market-insight-week-3_3977b1727578.pdf
+2024-08-30,35,India,MEDELIN EXPO,Tanker,"5,270",USD 653/LT LDT (‘as is’ Belawan with,275 Ts solid SUS 316 + 469 Ts cladded),2024-09-02_gms-week-35-fauda_ship-recycling-market-insight-week-3_167e67a3273e.pdf
+2024-09-20,38,India,MSC AGATA II,Container,"7,364",USD 505/LT LDT (limited pre-approved,,2024-09-23_gms-week-38-powder-keg_ship-recycling-market-insight-week-3_d4f620b6a42a.pdf
+2024-09-20,38,India,MSC GABRIELLA,Container,"8,911",USD 499/LT LDT (limited pre-approved,,2024-09-23_gms-week-38-powder-keg_ship-recycling-market-insight-week-3_d4f620b6a42a.pdf
+2024-10-18,42,Bangladesh,PRINCESS LOTUS,Bulker,"9,214",USD 430/LT LDT (‘as is’ China with 200,,2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf
+2024-12-06,49,India,MEDELIN MASTER,Tanker,"3,852",USD 655/LT LDT (with 273 Ts solid SUS,,2024-12-09_gms-week-49-encouragingyet_ship-recycling-market-insight-week-4_034ed784c52f.pdf
+2024-12-20,51,India,TRUE CONFIDENCE,Bulker,"8,766",USD 353/LT LDT (with 650 Tons IFO,,2024-12-23_gms-week-51-change-ahead_ship-recycling-market-insight-week-5_508f6aa1cffe.pdf
+2025-07-25,30,Pakistan,RISING FALCON,Bulker,"5,694",USD 446/LT LDT (with about 250-300,,2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf
+2025-07-25,30,Pakistan,RISING EAGLE,Bulker,"5,440",USD 446/LT LDT (with about 250-300,,2025-07-28_gms-week-30-glimmer-of-life_ship-recycling-market-insight-week-3_b973c01a5565.pdf
+2025-09-26,39,India,NIIGATA TRADER,Container,"4,810",USD 480/LT LDT (with 120 Ts bunkers,,2025-09-29_gms-week-39-disconnect_ship-recycling-market-insight-week-3_17781b126796.pdf
+2025-09-26,39,India,ROB),TUKTUK,Tanker,"2,948",USD 425/LT LDT,2025-09-29_gms-week-39-disconnect_ship-recycling-market-insight-week-3_17781b126796.pdf
+2025-09-26,39,Pakistan,PUTERI KIRANA,Bulker,"8,082",USD 390/LT LDT (‘as is’ Surabaya),,2025-09-29_gms-week-39-disconnect_ship-recycling-market-insight-week-3_17781b126796.pdf
+2025-09-26,39,Pakistan,RISING HARRIER,Bulker,"8,600",USD 445/LT LDT (with 150 Ts bunkers,,2025-09-29_gms-week-39-disconnect_ship-recycling-market-insight-week-3_17781b126796.pdf
+2025-10-03,40,India,BOW CEDAR,Tanker,"11,043","USD 940/LT LDT (with abt 2,300 Ts",solid stainless steel and 700 Ts bunkers,2025-10-06_gms-week-40-halloween-already_ship-recycling-market-insight-week-4_967a8f63db9d.pdf
+2025-10-24,43,Bangladesh,MONICA P,Bulker,"7,779",USD 380/LT LDT (‘as is’ Belawan),"PUTERI NILAM LNG 26,915 Sold Enbloc on private terms PUTERI DELIMA LNG 26,915 Sold Enbloc on private terms",2025-10-27_gms-week-42-woefully-slow_ship-recycling-market-insight-week-4_61e19f6a7d7a.pdf
+2025-10-31,44,Bangladesh,MONICA P,Bulker,"7,779",USD 380/LT LDT (‘as is’ Belawan),,2025-11-03_gms-week-44-halloween-november_ship-recycling-market-insight-week-4_b9974a22afd4.pdf
+2026-03-13,11,Bangladesh,OCEAN AMAZING,Bulker,"7,075",USD 300/LT LDT (‘as is’ Jakarta under,,2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf

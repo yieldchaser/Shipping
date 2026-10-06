@@ -1,0 +1,82 @@
+{
+  "report_id": "6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5",
+  "issue_date": "2026-03-25",
+  "year": 2026,
+  "department": "BULK",
+  "report_title": "Fearnleys Dry Bulk Weekly",
+  "shipment_volume_metrics": [],
+  "coal_futures_spread_metrics": [
+    {
+      "issue_date": "2026-03-25",
+      "year": "2026",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "p5_kamsarmax_indonesia_rv_usd_day": 16360.29,
+      "p5_4w_prev_usd_day": 17628.68,
+      "newcastle_coal_futures_spread_lead_2m": 10.4,
+      "coal_spread_4w_prev": "",
+      "lead_tenor": "2 Months",
+      "chart_title": "P5 vs Newcastle Coal Futures Spread Lead",
+      "source_image": "P5 vs Newcastle Coal Futures Spread Lead.png",
+      "report_id": "6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5"
+    }
+  ],
+  "time_charter_vs_asset_metrics": [],
+  "vessel_tightness_metrics": [
+    {
+      "issue_date": "2026-03-25",
+      "year": "2026",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "chart_family": "BCI5TC SATL Tightness Indicator.png",
+      "indicator_metric": "South Atlantic Vessel Count",
+      "indicator_val": 499.7,
+      "freight_benchmark": "P6 / BCI5TC Index USD/day",
+      "freight_benchmark_val": 14447.2,
+      "lead_tenor": "1 Month Lead",
+      "report_id": "6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5"
+    },
+    {
+      "issue_date": "2026-03-25",
+      "year": "2026",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "chart_family": "P6 vs SATL Tightness.png",
+      "indicator_metric": "South Atlantic Vessel Count",
+      "indicator_val": 227.1,
+      "freight_benchmark": "P6 / BCI5TC Index USD/day",
+      "freight_benchmark_val": 20487.6,
+      "lead_tenor": "1 Month Lead",
+      "report_id": "6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5"
+    },
+    {
+      "issue_date": "2026-03-25",
+      "year": "2026",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "chart_family": "supraultra ballaster laden vessel ratio.png",
+      "indicator_metric": "Indicator Metric",
+      "indicator_val": 182.5,
+      "freight_benchmark": "Freight Benchmark",
+      "freight_benchmark_val": 282.0,
+      "lead_tenor": "Concurrent",
+      "report_id": "6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5"
+    }
+  ],
+  "macro_correlation_metrics": [
+    {
+      "issue_date": "2026-03-25",
+      "year": "2026",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "macro_metric": "Steel Mill Profitability vs Hot Metal Output",
+      "freight_benchmark_val": -46.1,
+      "macro_indicator_val": 2.22,
+      "lead_tenor": "7 Weeks Lead",
+      "chart_title": "STEEL MILL PROFITABILITY VS HOT METAL OUTPUT.png",
+      "report_id": "6bf855f2-df24-4b7c-bb71-3fafd2bfb1b5"
+    }
+  ],
+  "charts_count": 16,
+  "source_markdown": "2026-03-25_fearnleys-dry-bulk-weekly-25th-march-2026-3.md"
+}

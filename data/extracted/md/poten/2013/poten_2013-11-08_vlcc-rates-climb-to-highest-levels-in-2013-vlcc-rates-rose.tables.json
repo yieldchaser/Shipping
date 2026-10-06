@@ -1,0 +1,34 @@
+{
+  "issue_date": "2013-11-08",
+  "year": 2013,
+  "title": "VLCC Rates Climb to Highest Levels in 2013 VLCC rates rose to $47,200/d (Worldscale 59) on November 8th for the benchmark",
+  "source_file": "corpus/04-poten/pdfs/2013/Tanker_Opinion_20131108.pdf",
+  "tables_count": 0,
+  "charts_count": 2,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2013-11-08_vlcc-rates-climb-to-highest-levels-in-2013-vlcc-rates-rose_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2013/poten_2013-11-08_vlcc-rates-climb-to-highest-levels-in-2013-vlcc-rates-rose_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-11-08_vlcc-rates-climb-to-highest-levels-in-2013-vlcc-rates-rose_chart1.png",
+      "width": 1112,
+      "height": 645
+    },
+    {
+      "chart_num": 2,
+      "page": 1,
+      "file_name": "poten_2013-11-08_vlcc-rates-climb-to-highest-levels-in-2013-vlcc-rates-rose_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2013/poten_2013-11-08_vlcc-rates-climb-to-highest-levels-in-2013-vlcc-rates-rose_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-11-08_vlcc-rates-climb-to-highest-levels-in-2013-vlcc-rates-rose_chart2.png",
+      "width": 1072,
+      "height": 710
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

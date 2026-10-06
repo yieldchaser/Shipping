@@ -1,0 +1,27 @@
+---
+id: "FC170AB6-CB29-4A8A-9F4D-5011A0131857"
+source: "Fearnleys"
+sector: "Tanker Route Trends"
+desk: "CROSS MED"
+comment_type: "CROSS MED"
+comment_subtype: "trend"
+date: "2020-12-04"
+year: 2020
+week: 49
+title: "Fearnleys CROSS MED Comment - 2020-12-04"
+---
+
+# Fearnleys CROSS MED Comment (2020-12-04)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Sector:** Tanker Route Trends
+- **Desk:** CROSS MED
+- **Publication Date:** 2020-12-04 (Week 49)
+- **Comment Type:** CROSS MED
+- **Record ID:** `FC170AB6-CB29-4A8A-9F4D-5011A0131857`
+
+---
+
+## Market Commentary
+
+Slow

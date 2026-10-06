@@ -1,0 +1,52 @@
+{
+  "issue_date": "2013-08-09",
+  "year": 2013,
+  "title": "Mexico's Production: Taking a Hit Below the Border",
+  "source_file": "corpus/04-poten/pdfs/2013/Tanker_Opinion_20130809.pdf",
+  "tables_count": 0,
+  "charts_count": 4,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2013-08-09_mexicos-production-taking-a-hit-below-the-border_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2013/poten_2013-08-09_mexicos-production-taking-a-hit-below-the-border_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-08-09_mexicos-production-taking-a-hit-below-the-border_chart1.png",
+      "width": 800,
+      "height": 716
+    },
+    {
+      "chart_num": 2,
+      "page": 1,
+      "file_name": "poten_2013-08-09_mexicos-production-taking-a-hit-below-the-border_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2013/poten_2013-08-09_mexicos-production-taking-a-hit-below-the-border_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-08-09_mexicos-production-taking-a-hit-below-the-border_chart2.png",
+      "width": 800,
+      "height": 718
+    },
+    {
+      "chart_num": 3,
+      "page": 1,
+      "file_name": "poten_2013-08-09_mexicos-production-taking-a-hit-below-the-border_chart3.png",
+      "rel_path": "data/extracted/charts/poten/2013/poten_2013-08-09_mexicos-production-taking-a-hit-below-the-border_chart3.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-08-09_mexicos-production-taking-a-hit-below-the-border_chart3.png",
+      "width": 800,
+      "height": 717
+    },
+    {
+      "chart_num": 4,
+      "page": 2,
+      "file_name": "poten_2013-08-09_mexicos-production-taking-a-hit-below-the-border_chart4.png",
+      "rel_path": "data/extracted/charts/poten/2013/poten_2013-08-09_mexicos-production-taking-a-hit-below-the-border_chart4.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-08-09_mexicos-production-taking-a-hit-below-the-border_chart4.png",
+      "width": 800,
+      "height": 717
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

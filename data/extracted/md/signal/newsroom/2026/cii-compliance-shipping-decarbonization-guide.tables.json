@@ -1,0 +1,34 @@
+{
+  "slug": "cii-compliance-shipping-decarbonization-guide",
+  "issue_date": "2026-03-04",
+  "year": 2026,
+  "week": 10,
+  "category": "Market Insights",
+  "section": "newsroom",
+  "title": "Cii Compliance & Shipping Decarbonization: A Practical Guide for Ship Operators",
+  "source_file": "corpus/07-signal/html/cii-compliance-shipping-decarbonization-guide.html",
+  "tables": [
+    [
+      {
+        "Criterion": "Data granularity",
+        "Why it matters": "Voyage-level and leg-level data lets you attribute emissions to specific fixtures, not just fleet averages that hide the outliers."
+      },
+      {
+        "Criterion": "Voyage-level modeling",
+        "Why it matters": "Forward-looking projection tells you a vessel's likely CII rating before you fix, when you can still change speed, routing, or the ship itself."
+      },
+      {
+        "Criterion": "Fleet-wide visibility",
+        "Why it matters": "A single view across owned and chartered tonnage shows which vessels drag your portfolio toward D and E ratings."
+      },
+      {
+        "Criterion": "Chartering workflow integration",
+        "Why it matters": "Emissions data sitting beside rates, positions, and vetting means commercial teams act on it instead of exporting it into a separate spreadsheet."
+      },
+      {
+        "Criterion": "Cost and accessibility",
+        "Why it matters": "A free or low-cost tool gets used across the desk. An expensive one gets rationed to a few analysts and ignored elsewhere."
+      }
+    ]
+  ]
+}

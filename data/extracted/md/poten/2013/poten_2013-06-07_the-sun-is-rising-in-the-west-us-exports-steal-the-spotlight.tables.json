@@ -1,0 +1,43 @@
+{
+  "issue_date": "2013-06-07",
+  "year": 2013,
+  "title": "The Sun is Rising in the West: US Exports Steal the Spotlight",
+  "source_file": "corpus/04-poten/pdfs/2013/Tanker_Opinion_20130607.pdf",
+  "tables_count": 0,
+  "charts_count": 3,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2013-06-07_the-sun-is-rising-in-the-west-us-exports-steal-the-spotlight_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2013/poten_2013-06-07_the-sun-is-rising-in-the-west-us-exports-steal-the-spotlight_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-06-07_the-sun-is-rising-in-the-west-us-exports-steal-the-spotlight_chart1.png",
+      "width": 429,
+      "height": 511
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2013-06-07_the-sun-is-rising-in-the-west-us-exports-steal-the-spotlight_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2013/poten_2013-06-07_the-sun-is-rising-in-the-west-us-exports-steal-the-spotlight_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-06-07_the-sun-is-rising-in-the-west-us-exports-steal-the-spotlight_chart2.png",
+      "width": 1043,
+      "height": 689
+    },
+    {
+      "chart_num": 3,
+      "page": 1,
+      "file_name": "poten_2013-06-07_the-sun-is-rising-in-the-west-us-exports-steal-the-spotlight_chart3.png",
+      "rel_path": "data/extracted/charts/poten/2013/poten_2013-06-07_the-sun-is-rising-in-the-west-us-exports-steal-the-spotlight_chart3.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-06-07_the-sun-is-rising-in-the-west-us-exports-steal-the-spotlight_chart3.png",
+      "width": 1628,
+      "height": 609
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

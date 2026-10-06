@@ -1,0 +1,287 @@
+{
+  "vessel_class": "VLCC",
+  "sector": "Crude Tankers",
+  "source_file": "Drewry_AIS_Crude_VLCC_Week37_2026.pdf",
+  "metrics_summary": {
+    "vessel_class": "VLCC",
+    "sector": "Crude Tankers",
+    "source_file": "Drewry_AIS_Crude_VLCC_Week37_2026.pdf",
+    "fleet_performance_points": 1474,
+    "regional_congestion_points": 558,
+    "deployment_speed_points": 267,
+    "utilisation_points": 140,
+    "total_points": 2439
+  },
+  "sample_fleet_performance": [
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "VLCC",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 1,
+      "date": "2022-01-05",
+      "value_mdwt": 152.92,
+      "source_file": "Drewry_AIS_Crude_VLCC_Week37_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "VLCC",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 2,
+      "date": "2022-01-12",
+      "value_mdwt": 149.45,
+      "source_file": "Drewry_AIS_Crude_VLCC_Week37_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "VLCC",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 3,
+      "date": "2022-01-19",
+      "value_mdwt": 149.12,
+      "source_file": "Drewry_AIS_Crude_VLCC_Week37_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "VLCC",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 4,
+      "date": "2022-01-26",
+      "value_mdwt": 147.64,
+      "source_file": "Drewry_AIS_Crude_VLCC_Week37_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "VLCC",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 5,
+      "date": "2022-02-02",
+      "value_mdwt": 148.75,
+      "source_file": "Drewry_AIS_Crude_VLCC_Week37_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "VLCC",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 6,
+      "date": "2022-02-09",
+      "value_mdwt": 151.06,
+      "source_file": "Drewry_AIS_Crude_VLCC_Week37_2026.pdf"
+    }
+  ],
+  "sample_regional_congestion": [
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "VLCC",
+      "region": "China",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 1,
+      "date": "2024-01-03",
+      "value_mdwt": 9.12,
+      "source_file": "Drewry_AIS_Crude_VLCC_Week37_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "VLCC",
+      "region": "China",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 2,
+      "date": "2024-01-10",
+      "value_mdwt": 7.61,
+      "source_file": "Drewry_AIS_Crude_VLCC_Week37_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "VLCC",
+      "region": "China",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 3,
+      "date": "2024-01-17",
+      "value_mdwt": 6.13,
+      "source_file": "Drewry_AIS_Crude_VLCC_Week37_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "VLCC",
+      "region": "China",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 4,
+      "date": "2024-01-24",
+      "value_mdwt": 5.15,
+      "source_file": "Drewry_AIS_Crude_VLCC_Week37_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "VLCC",
+      "region": "China",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 5,
+      "date": "2024-01-31",
+      "value_mdwt": 6.38,
+      "source_file": "Drewry_AIS_Crude_VLCC_Week37_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "VLCC",
+      "region": "China",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 6,
+      "date": "2024-02-07",
+      "value_mdwt": 6.13,
+      "source_file": "Drewry_AIS_Crude_VLCC_Week37_2026.pdf"
+    }
+  ],
+  "sample_deployment_speed": [
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "VLCC",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 1,
+      "date": "2025-01-01",
+      "value": 99.83,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Crude_VLCC_Week37_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "VLCC",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 2,
+      "date": "2025-01-08",
+      "value": 101.56,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Crude_VLCC_Week37_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "VLCC",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 3,
+      "date": "2025-01-15",
+      "value": 98.48,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Crude_VLCC_Week37_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "VLCC",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 4,
+      "date": "2025-01-22",
+      "value": 96.21,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Crude_VLCC_Week37_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "VLCC",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 5,
+      "date": "2025-01-29",
+      "value": 102.19,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Crude_VLCC_Week37_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "VLCC",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 6,
+      "date": "2025-02-05",
+      "value": 100.62,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Crude_VLCC_Week37_2026.pdf"
+    }
+  ],
+  "sample_utilisation": [
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "VLCC",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 1,
+      "date": "2025-01-01",
+      "value_pct": 89.4,
+      "source_file": "Drewry_AIS_Crude_VLCC_Week37_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "VLCC",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 2,
+      "date": "2025-01-08",
+      "value_pct": 91.03,
+      "source_file": "Drewry_AIS_Crude_VLCC_Week37_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "VLCC",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 3,
+      "date": "2025-01-15",
+      "value_pct": 90.24,
+      "source_file": "Drewry_AIS_Crude_VLCC_Week37_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "VLCC",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 4,
+      "date": "2025-01-22",
+      "value_pct": 89.64,
+      "source_file": "Drewry_AIS_Crude_VLCC_Week37_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "VLCC",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 5,
+      "date": "2025-01-29",
+      "value_pct": 91.33,
+      "source_file": "Drewry_AIS_Crude_VLCC_Week37_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "VLCC",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 6,
+      "date": "2025-02-05",
+      "value_pct": 91.5,
+      "source_file": "Drewry_AIS_Crude_VLCC_Week37_2026.pdf"
+    }
+  ]
+}

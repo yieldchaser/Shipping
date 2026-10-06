@@ -1,0 +1,1190 @@
+{
+  "title": "Seabreeze Monthly Offshore Market Report - August 2021",
+  "issue_date": "2021-08-01",
+  "year": 2021,
+  "month": 8,
+  "source_file": "corpus/05-seabrokers/pdfs/2021-08-01_markedsrapport-august-2021.pdf",
+  "tables_count": 14,
+  "tables": [
+    {
+      "title": "AUGUST 2021 - DAILY NORTH SEA OSV AVAILABILITY",
+      "columns": [
+        "Date",
+        "PSV 2021",
+        "PSV 2020",
+        "AHTS 2021",
+        "AHTS 2020"
+      ],
+      "row_count": 31,
+      "rows": [
+        {
+          "Date": "1",
+          "PSV 2021": "9",
+          "PSV 2020": "16",
+          "AHTS 2021": "2",
+          "AHTS 2020": "6"
+        },
+        {
+          "Date": "2",
+          "PSV 2021": "11",
+          "PSV 2020": "17",
+          "AHTS 2021": "2",
+          "AHTS 2020": "7"
+        },
+        {
+          "Date": "3",
+          "PSV 2021": "10",
+          "PSV 2020": "18",
+          "AHTS 2021": "3",
+          "AHTS 2020": "7"
+        },
+        {
+          "Date": "4",
+          "PSV 2021": "10",
+          "PSV 2020": "19",
+          "AHTS 2021": "3",
+          "AHTS 2020": "8"
+        },
+        {
+          "Date": "5",
+          "PSV 2021": "12",
+          "PSV 2020": "18",
+          "AHTS 2021": "2",
+          "AHTS 2020": "11"
+        },
+        {
+          "Date": "6",
+          "PSV 2021": "14",
+          "PSV 2020": "18",
+          "AHTS 2021": "2",
+          "AHTS 2020": "3"
+        },
+        {
+          "Date": "7",
+          "PSV 2021": "15",
+          "PSV 2020": "18",
+          "AHTS 2021": "4",
+          "AHTS 2020": "4"
+        },
+        {
+          "Date": "8",
+          "PSV 2021": "16",
+          "PSV 2020": "18",
+          "AHTS 2021": "5",
+          "AHTS 2020": "5"
+        },
+        {
+          "Date": "9",
+          "PSV 2021": "17",
+          "PSV 2020": "18",
+          "AHTS 2021": "5",
+          "AHTS 2020": "6"
+        },
+        {
+          "Date": "10",
+          "PSV 2021": "18",
+          "PSV 2020": "18",
+          "AHTS 2021": "12",
+          "AHTS 2020": "8"
+        },
+        {
+          "Date": "11",
+          "PSV 2021": "18",
+          "PSV 2020": "17",
+          "AHTS 2021": "13",
+          "AHTS 2020": "8"
+        },
+        {
+          "Date": "12",
+          "PSV 2021": "17",
+          "PSV 2020": "16",
+          "AHTS 2021": "9",
+          "AHTS 2020": "8"
+        },
+        {
+          "Date": "13",
+          "PSV 2021": "18",
+          "PSV 2020": "16",
+          "AHTS 2021": "8",
+          "AHTS 2020": "7"
+        },
+        {
+          "Date": "14",
+          "PSV 2021": "17",
+          "PSV 2020": "15",
+          "AHTS 2021": "8",
+          "AHTS 2020": "7"
+        },
+        {
+          "Date": "15",
+          "PSV 2021": "16",
+          "PSV 2020": "14",
+          "AHTS 2021": "8",
+          "AHTS 2020": "8"
+        },
+        {
+          "Date": "16",
+          "PSV 2021": "15",
+          "PSV 2020": "13",
+          "AHTS 2021": "8",
+          "AHTS 2020": "9"
+        },
+        {
+          "Date": "17",
+          "PSV 2021": "14",
+          "PSV 2020": "7",
+          "AHTS 2021": "2",
+          "AHTS 2020": "9"
+        },
+        {
+          "Date": "18",
+          "PSV 2021": "12",
+          "PSV 2020": "11",
+          "AHTS 2021": "2",
+          "AHTS 2020": "6"
+        },
+        {
+          "Date": "19",
+          "PSV 2021": "10",
+          "PSV 2020": "6",
+          "AHTS 2021": "3",
+          "AHTS 2020": "6"
+        },
+        {
+          "Date": "20",
+          "PSV 2021": "8",
+          "PSV 2020": "6",
+          "AHTS 2021": "3",
+          "AHTS 2020": "8"
+        },
+        {
+          "Date": "21",
+          "PSV 2021": "8",
+          "PSV 2020": "6",
+          "AHTS 2021": "3",
+          "AHTS 2020": "8"
+        },
+        {
+          "Date": "22",
+          "PSV 2021": "7",
+          "PSV 2020": "5",
+          "AHTS 2021": "1",
+          "AHTS 2020": "8"
+        },
+        {
+          "Date": "23",
+          "PSV 2021": "6",
+          "PSV 2020": "4",
+          "AHTS 2021": "1",
+          "AHTS 2020": "7"
+        },
+        {
+          "Date": "24",
+          "PSV 2021": "4",
+          "PSV 2020": "3",
+          "AHTS 2021": "4",
+          "AHTS 2020": "7"
+        },
+        {
+          "Date": "25",
+          "PSV 2021": "3",
+          "PSV 2020": "3",
+          "AHTS 2021": "4",
+          "AHTS 2020": "8"
+        },
+        {
+          "Date": "26",
+          "PSV 2021": "3",
+          "PSV 2020": "6",
+          "AHTS 2021": "4",
+          "AHTS 2020": "8"
+        },
+        {
+          "Date": "27",
+          "PSV 2021": "2",
+          "PSV 2020": "6",
+          "AHTS 2021": "5",
+          "AHTS 2020": "4"
+        },
+        {
+          "Date": "28",
+          "PSV 2021": "2",
+          "PSV 2020": "4",
+          "AHTS 2021": "1",
+          "AHTS 2020": "1"
+        },
+        {
+          "Date": "29",
+          "PSV 2021": "3",
+          "PSV 2020": "5",
+          "AHTS 2021": "1",
+          "AHTS 2020": "1"
+        },
+        {
+          "Date": "30",
+          "PSV 2021": "6",
+          "PSV 2020": "10",
+          "AHTS 2021": "9",
+          "AHTS 2020": "1"
+        },
+        {
+          "Date": "31",
+          "PSV 2021": "6",
+          "PSV 2020": "10",
+          "AHTS 2021": "9",
+          "AHTS 2020": "1"
+        }
+      ]
+    },
+    {
+      "title": "NORTH SEA SPOT AVERAGE UTILISATION AUGUST 2021",
+      "columns": [
+        "TYPE",
+        "AUG 2021",
+        "JUL 2021",
+        "JUN 2021",
+        "MAY 2021",
+        "APR 2021",
+        "MAR 2021"
+      ],
+      "row_count": 4,
+      "rows": [
+        {
+          "TYPE": "MED PSV",
+          "AUG 2021": "71%",
+          "JUL 2021": "76%",
+          "JUN 2021": "78%",
+          "MAY 2021": "70%",
+          "APR 2021": "64%",
+          "MAR 2021": "51%"
+        },
+        {
+          "TYPE": "LARGE PSV",
+          "AUG 2021": "66%",
+          "JUL 2021": "79%",
+          "JUN 2021": "75%",
+          "MAY 2021": "79%",
+          "APR 2021": "68%",
+          "MAR 2021": "71%"
+        },
+        {
+          "TYPE": "MED AHTS",
+          "AUG 2021": "75%",
+          "JUL 2021": "68%",
+          "JUN 2021": "56%",
+          "MAY 2021": "67%",
+          "APR 2021": "49%",
+          "MAR 2021": "37%"
+        },
+        {
+          "TYPE": "LARGE AHTS",
+          "AUG 2021": "63%",
+          "JUL 2021": "66%",
+          "JUN 2021": "59%",
+          "MAY 2021": "64%",
+          "APR 2021": "54%",
+          "MAR 2021": "62%"
+        }
+      ]
+    },
+    {
+      "title": "NORTH SEA AVERAGE RATES AUGUST 2021",
+      "columns": [
+        "CATEGORY",
+        "AVERAGE RATE AUG 2021",
+        "AVERAGE RATE AUG 2020",
+        "% CHANGE",
+        "MINIMUM",
+        "MAXIMUM"
+      ],
+      "row_count": 4,
+      "rows": [
+        {
+          "CATEGORY": "SUPPLY DUTIES PSVs < 900M\u00b2",
+          "AVERAGE RATE AUG 2021": "\u00a36,042",
+          "AVERAGE RATE AUG 2020": "\u00a37,529",
+          "% CHANGE": "-19.75%",
+          "MINIMUM": "\u00a34,501",
+          "MAXIMUM": "\u00a39,000"
+        },
+        {
+          "CATEGORY": "SUPPLY DUTIES PSVs > 900M\u00b2",
+          "AVERAGE RATE AUG 2021": "\u00a37,270",
+          "AVERAGE RATE AUG 2020": "\u00a34,175",
+          "% CHANGE": "+74.13%",
+          "MINIMUM": "\u00a34,910",
+          "MAXIMUM": "\u00a314,320"
+        },
+        {
+          "CATEGORY": "AHTS DUTIES AHTS < 22,000 BHP",
+          "AVERAGE RATE AUG 2021": "\u00a319,578",
+          "AVERAGE RATE AUG 2020": "\u00a332,250",
+          "% CHANGE": "-39.29%",
+          "MINIMUM": "\u00a38,183",
+          "MAXIMUM": "\u00a345,007"
+        },
+        {
+          "CATEGORY": "AHTS DUTIES AHTS > 22,000 BHP",
+          "AVERAGE RATE AUG 2021": "\u00a324,312",
+          "AVERAGE RATE AUG 2020": "\u00a332,256",
+          "% CHANGE": "-24.63%",
+          "MINIMUM": "\u00a310,638",
+          "MAXIMUM": "\u00a352,372"
+        }
+      ]
+    },
+    {
+      "title": "ARRIVALS - NORTH SEA SPOT",
+      "columns": [
+        "ENERGY DUCHESS",
+        "EX BALTIC SEA",
+        "A.H. VARAZZE",
+        "SOUTH AMERICA",
+        "ISLAND CHAMPION",
+        "CANADA"
+      ],
+      "row_count": 2,
+      "rows": [
+        {
+          "ENERGY DUCHESS": "MAERSK MINDER",
+          "EX BALTIC SEA": "EX SOUTHEAST ASIA",
+          "A.H. VARAZZE": "ALP STRIKER",
+          "SOUTH AMERICA": "MEDITERRANEAN",
+          "ISLAND CHAMPION": "NICOBAR",
+          "CANADA": "BALTIC SEA"
+        },
+        {
+          "ENERGY DUCHESS": "SEA GOLDCREST",
+          "EX BALTIC SEA": "EX BALTIC SEA",
+          "A.H. VARAZZE": "ALP WINGER",
+          "SOUTH AMERICA": "MEDITERRANEAN",
+          "ISLAND CHAMPION": "SEA SPARK",
+          "CANADA": "RUSSIA"
+        }
+      ]
+    },
+    {
+      "title": "NORTH SEA AVERAGE SPOT RATES",
+      "columns": [
+        "Category",
+        "Month",
+        "2020",
+        "2021"
+      ],
+      "row_count": 52,
+      "rows": [
+        {
+          "Category": "**PSVs < 900m\u00b2**",
+          "Month": "Jan",
+          "2020": "\u00a35,257",
+          "2021": "\u00a36,774"
+        },
+        {
+          "Category": "",
+          "Month": "Feb",
+          "2020": "\u00a36,308",
+          "2021": "\u00a311,012"
+        },
+        {
+          "Category": "",
+          "Month": "Mar",
+          "2020": "\u00a38,863",
+          "2021": "\u00a37,778"
+        },
+        {
+          "Category": "",
+          "Month": "Apr",
+          "2020": "\u00a33,485",
+          "2021": "\u00a37,755"
+        },
+        {
+          "Category": "",
+          "Month": "May",
+          "2020": "\u00a33,751",
+          "2021": "\u00a39,241"
+        },
+        {
+          "Category": "",
+          "Month": "Jun",
+          "2020": "\u00a34,485",
+          "2021": "\u00a310,524"
+        },
+        {
+          "Category": "",
+          "Month": "Jul",
+          "2020": "\u00a34,650",
+          "2021": "\u00a38,750"
+        },
+        {
+          "Category": "",
+          "Month": "Aug",
+          "2020": "\u00a37,529",
+          "2021": "\u00a36,042"
+        },
+        {
+          "Category": "",
+          "Month": "Sep",
+          "2020": "\u00a38,872",
+          "2021": "\u00a3-"
+        },
+        {
+          "Category": "",
+          "Month": "Oct",
+          "2020": "\u00a36,651",
+          "2021": "\u00a3-"
+        },
+        {
+          "Category": "",
+          "Month": "Nov",
+          "2020": "\u00a33,854",
+          "2021": "\u00a3-"
+        },
+        {
+          "Category": "",
+          "Month": "Dec",
+          "2020": "\u00a37,618",
+          "2021": "\u00a3-"
+        },
+        {
+          "Category": "**PSVs > 900m\u00b2**",
+          "Month": "Jan",
+          "2020": "\u00a36,810",
+          "2021": "\u00a35,818"
+        },
+        {
+          "Category": "",
+          "Month": "Feb",
+          "2020": "\u00a38,014",
+          "2021": "\u00a39,861"
+        },
+        {
+          "Category": "",
+          "Month": "Mar",
+          "2020": "\u00a37,132",
+          "2021": "\u00a38,360"
+        },
+        {
+          "Category": "",
+          "Month": "Apr",
+          "2020": "\u00a33,733",
+          "2021": "\u00a310,496"
+        },
+        {
+          "Category": "",
+          "Month": "May",
+          "2020": "\u00a34,370",
+          "2021": "\u00a310,872"
+        },
+        {
+          "Category": "",
+          "Month": "Jun",
+          "2020": "\u00a34,769",
+          "2021": "\u00a311,774"
+        },
+        {
+          "Category": "",
+          "Month": "Jul",
+          "2020": "\u00a34,310",
+          "2021": "\u00a39,031"
+        },
+        {
+          "Category": "",
+          "Month": "Aug",
+          "2020": "\u00a34,175",
+          "2021": "\u00a37,270"
+        },
+        {
+          "Category": "",
+          "Month": "Sep",
+          "2020": "\u00a39,651",
+          "2021": "\u00a3-"
+        },
+        {
+          "Category": "",
+          "Month": "Oct",
+          "2020": "\u00a36,664",
+          "2021": "\u00a3-"
+        },
+        {
+          "Category": "",
+          "Month": "Nov",
+          "2020": "\u00a34,890",
+          "2021": "\u00a3-"
+        },
+        {
+          "Category": "",
+          "Month": "Dec",
+          "2020": "\u00a35,542",
+          "2021": "\u00a3-"
+        },
+        {
+          "Category": "**AHTS < 22,000 bhp**",
+          "Month": "Jan",
+          "2020": "\u00a37,959",
+          "2021": "\u00a38,656"
+        },
+        {
+          "Category": "",
+          "Month": "Feb",
+          "2020": "\u00a318,562",
+          "2021": "\u00a310,928"
+        },
+        {
+          "Category": "",
+          "Month": "Mar",
+          "2020": "\u00a325,486",
+          "2021": "\u00a327,971"
+        },
+        {
+          "Category": "",
+          "Month": "Apr",
+          "2020": "\u00a37,087",
+          "2021": "\u00a315,068"
+        },
+        {
+          "Category": "",
+          "Month": "May",
+          "2020": "\u00a310,745",
+          "2021": "\u00a312,843"
+        },
+        {
+          "Category": "",
+          "Month": "Jun",
+          "2020": "\u00a316,898",
+          "2021": "\u00a316,287"
+        },
+        {
+          "Category": "",
+          "Month": "Jul",
+          "2020": "\u00a316,961",
+          "2021": "\u00a325,440"
+        },
+        {
+          "Category": "",
+          "Month": "Aug",
+          "2020": "\u00a332,250",
+          "2021": "\u00a319,578"
+        },
+        {
+          "Category": "",
+          "Month": "Sep",
+          "2020": "\u00a323,271",
+          "2021": "\u00a3-"
+        },
+        {
+          "Category": "",
+          "Month": "Oct",
+          "2020": "\u00a312,042",
+          "2021": "\u00a3-"
+        },
+        {
+          "Category": "",
+          "Month": "Nov",
+          "2020": "\u00a39,100",
+          "2021": "\u00a3-"
+        },
+        {
+          "Category": "",
+          "Month": "Dec",
+          "2020": "\u00a312,526",
+          "2021": "\u00a3-"
+        },
+        {
+          "Category": "**AHTS > 22,000 bhp**",
+          "Month": "Jan",
+          "2020": "\u00a39,203",
+          "2021": "\u00a38,442"
+        },
+        {
+          "Category": "",
+          "Month": "Feb",
+          "2020": "\u00a316,901",
+          "2021": "\u00a320,121"
+        },
+        {
+          "Category": "",
+          "Month": "Mar",
+          "2020": "\u00a321,268",
+          "2021": "\u00a335,211"
+        },
+        {
+          "Category": "",
+          "Month": "Apr",
+          "2020": "\u00a38,141",
+          "2021": "\u00a319,327"
+        },
+        {
+          "Category": "",
+          "Month": "May",
+          "2020": "\u00a313,100",
+          "2021": "\u00a315,401"
+        },
+        {
+          "Category": "",
+          "Month": "Jun",
+          "2020": "\u00a317,197",
+          "2021": "\u00a317,604"
+        },
+        {
+          "Category": "",
+          "Month": "Jul",
+          "2020": "\u00a318,132",
+          "2021": "\u00a323,149"
+        },
+        {
+          "Category": "",
+          "Month": "Aug",
+          "2020": "\u00a332,256",
+          "2021": "\u00a324,312"
+        },
+        {
+          "Category": "",
+          "Month": "Sep",
+          "2020": "\u00a329,683",
+          "2021": "\u00a3-"
+        },
+        {
+          "Category": "",
+          "Month": "Oct",
+          "2020": "\u00a39,585",
+          "2021": "\u00a3-"
+        },
+        {
+          "Category": "",
+          "Month": "Nov",
+          "2020": "\u00a313,013",
+          "2021": "\u00a3-"
+        },
+        {
+          "Category": "",
+          "Month": "Dec",
+          "2020": "\u00a311,762",
+          "2021": "\u00a3-"
+        },
+        {
+          "Category": "**Average Day Rates To Month (August 2021)**",
+          "Month": "PSVs < 900m\u00b2",
+          "2020": "\u00a35,894",
+          "2021": "\u00a38,596"
+        },
+        {
+          "Category": "",
+          "Month": "PSVs > 900m\u00b2",
+          "2020": "\u00a35,460",
+          "2021": "\u00a38,803"
+        },
+        {
+          "Category": "",
+          "Month": "AHTS < 22,000 bhp",
+          "2020": "\u00a318,919",
+          "2021": "\u00a318,051"
+        },
+        {
+          "Category": "",
+          "Month": "AHTS > 22,000 bhp",
+          "2020": "\u00a317,572",
+          "2021": "\u00a321,711"
+        }
+      ]
+    },
+    {
+      "title": "**REM CSOV Specifications:**",
+      "columns": [
+        "Item",
+        "Details"
+      ],
+      "row_count": 8,
+      "rows": [
+        {
+          "Item": "Delivery:",
+          "Details": "2023 / 2024"
+        },
+        {
+          "Item": "Builder:",
+          "Details": "Vard"
+        },
+        {
+          "Item": "Design:",
+          "Details": "Vard 4 19"
+        },
+        {
+          "Item": "Length:",
+          "Details": "85.0m"
+        },
+        {
+          "Item": "Breadth:",
+          "Details": "19.5m"
+        },
+        {
+          "Item": "Gangway:",
+          "Details": "Motion-compensated c/w elevator"
+        },
+        {
+          "Item": "Accommodation:",
+          "Details": "120 persons"
+        },
+        {
+          "Item": "Crane:",
+          "Details": "3D compensated"
+        }
+      ]
+    },
+    {
+      "title": "**NORTH MARINER SOLD OUT OF NORTH SEA**",
+      "columns": [
+        "![](<North Mariner image>)",
+        "North Mariner (pictured c/o George58)"
+      ],
+      "row_count": 1,
+      "rows": [
+        {
+          "![](<North Mariner image>)": "",
+          "North Mariner (pictured c/o George58)": "The North Mariner has been mobilised from the North Sea to Israel after Tidewater sold the 19 year-old PSV to Interglobal Shipping 3001 Ltd. The North Mariner was built to the UT 745 design at the Simek Shipyard in Flekkefjord, Norway. She has spent most of her time in service trading in the North Sea but had been laid up since January 2021 prior to the sale. The North Mariner has a length of 84m, breadth of 18.8m and a deck area of 951m\u00b2. She has a main engine output of 9,600 bhp. The vessel has been renamed as the Mariner."
+        }
+      ]
+    },
+    {
+      "title": "**WILSON ATLANTIC OFF TO GREECE**",
+      "columns": [
+        "![](<Wilson Atlantic image>)",
+        "Wilson Atlantic & Aegean (c/o Manfred)"
+      ],
+      "row_count": 1,
+      "rows": [
+        {
+          "![](<Wilson Atlantic image>)": "",
+          "Wilson Atlantic & Aegean (c/o Manfred)": "Another PSV permanently leaving the North Sea is the Wilson Atlantic following her acquisition by the Lavinia Corporation. Formerly owned by Wilson Offshore, the 18 year-old PSV was formerly known as the Master Express and originally as the Toisa Independent. The Wilson Atlantic is now known as the Aias and she has been relocated from the North Sea to Greece. This follows the sale of the Wilson Aegean earlier this year to Antey LLC. The Wilson Aegean has been renamed as the Arctic and relocated to eastern Russia."
+        }
+      ]
+    },
+    {
+      "title": "RECENT DELIVERIES OF NEWBUILD OSVs",
+      "columns": [
+        "NAME",
+        "TYPE/DESIGN",
+        "OWNER/ MANAGER",
+        "COMMITMENT"
+      ],
+      "row_count": 1,
+      "rows": [
+        {
+          "NAME": "ALLIANZ SURFER 2",
+          "TYPE/DESIGN": "42M GRANDSUPERIOR CREWBOAT",
+          "OWNER/ MANAGER": "ALLIANZ MIDDLE EAST SHIP MANAGEMENT",
+          "COMMITMENT": "MIDDLE EAST"
+        }
+      ]
+    },
+    {
+      "title": "European major component replacement market by value chain segment",
+      "columns": [
+        "Year",
+        "Major component costs",
+        "JUV costs\\*",
+        "Labour costs",
+        "CTV costs"
+      ],
+      "row_count": 17,
+      "rows": [
+        {
+          "Year": "2014",
+          "Major component costs": "100",
+          "JUV costs\\*": "50",
+          "Labour costs": "10",
+          "CTV costs": "10"
+        },
+        {
+          "Year": "2015",
+          "Major component costs": "120",
+          "JUV costs\\*": "60",
+          "Labour costs": "12",
+          "CTV costs": "12"
+        },
+        {
+          "Year": "2016",
+          "Major component costs": "150",
+          "JUV costs\\*": "75",
+          "Labour costs": "15",
+          "CTV costs": "15"
+        },
+        {
+          "Year": "2017",
+          "Major component costs": "180",
+          "JUV costs\\*": "90",
+          "Labour costs": "18",
+          "CTV costs": "18"
+        },
+        {
+          "Year": "2018",
+          "Major component costs": "220",
+          "JUV costs\\*": "110",
+          "Labour costs": "22",
+          "CTV costs": "22"
+        },
+        {
+          "Year": "2019",
+          "Major component costs": "260",
+          "JUV costs\\*": "130",
+          "Labour costs": "26",
+          "CTV costs": "26"
+        },
+        {
+          "Year": "2020",
+          "Major component costs": "300",
+          "JUV costs\\*": "150",
+          "Labour costs": "30",
+          "CTV costs": "30"
+        },
+        {
+          "Year": "2021",
+          "Major component costs": "350",
+          "JUV costs\\*": "175",
+          "Labour costs": "35",
+          "CTV costs": "35"
+        },
+        {
+          "Year": "2022",
+          "Major component costs": "400",
+          "JUV costs\\*": "200",
+          "Labour costs": "40",
+          "CTV costs": "40"
+        },
+        {
+          "Year": "2023",
+          "Major component costs": "450",
+          "JUV costs\\*": "225",
+          "Labour costs": "45",
+          "CTV costs": "45"
+        },
+        {
+          "Year": "2024",
+          "Major component costs": "500",
+          "JUV costs\\*": "250",
+          "Labour costs": "50",
+          "CTV costs": "50"
+        },
+        {
+          "Year": "2025",
+          "Major component costs": "550",
+          "JUV costs\\*": "275",
+          "Labour costs": "55",
+          "CTV costs": "55"
+        },
+        {
+          "Year": "2026",
+          "Major component costs": "600",
+          "JUV costs\\*": "300",
+          "Labour costs": "60",
+          "CTV costs": "60"
+        },
+        {
+          "Year": "2027",
+          "Major component costs": "650",
+          "JUV costs\\*": "325",
+          "Labour costs": "65",
+          "CTV costs": "65"
+        },
+        {
+          "Year": "2028",
+          "Major component costs": "700",
+          "JUV costs\\*": "350",
+          "Labour costs": "70",
+          "CTV costs": "70"
+        },
+        {
+          "Year": "2029",
+          "Major component costs": "750",
+          "JUV costs\\*": "375",
+          "Labour costs": "75",
+          "CTV costs": "75"
+        },
+        {
+          "Year": "2030",
+          "Major component costs": "800",
+          "JUV costs\\*": "400",
+          "Labour costs": "80",
+          "CTV costs": "80"
+        }
+      ]
+    },
+    {
+      "title": "OIL PRICE VS CONTRACTED RIG UTILISATION",
+      "columns": [
+        "Date",
+        "Average Brent Crude US$ / Bbl",
+        "Northwest Europe Rig Utilisation",
+        "US Gulf Rig Utilisation"
+      ],
+      "row_count": 13,
+      "rows": [
+        {
+          "Date": "Aug 20",
+          "Average Brent Crude US$ / Bbl": "$44.26",
+          "Northwest Europe Rig Utilisation": "50.7%",
+          "US Gulf Rig Utilisation": "38.8%"
+        },
+        {
+          "Date": "Sep 20",
+          "Average Brent Crude US$ / Bbl": "$41.09",
+          "Northwest Europe Rig Utilisation": "54.3%",
+          "US Gulf Rig Utilisation": "40.7%"
+        },
+        {
+          "Date": "Oct 20",
+          "Average Brent Crude US$ / Bbl": "$40.47",
+          "Northwest Europe Rig Utilisation": "51.1%",
+          "US Gulf Rig Utilisation": "40.8%"
+        },
+        {
+          "Date": "Nov 20",
+          "Average Brent Crude US$ / Bbl": "$43.23",
+          "Northwest Europe Rig Utilisation": "50.0%",
+          "US Gulf Rig Utilisation": "39.3%"
+        },
+        {
+          "Date": "Dec 20",
+          "Average Brent Crude US$ / Bbl": "$49.87",
+          "Northwest Europe Rig Utilisation": "49.2%",
+          "US Gulf Rig Utilisation": "40.8%"
+        },
+        {
+          "Date": "Jan 21",
+          "Average Brent Crude US$ / Bbl": "$54.55",
+          "Northwest Europe Rig Utilisation": "48.3%",
+          "US Gulf Rig Utilisation": "36.2%"
+        },
+        {
+          "Date": "Feb 21",
+          "Average Brent Crude US$ / Bbl": "$61.96",
+          "Northwest Europe Rig Utilisation": "49.4%",
+          "US Gulf Rig Utilisation": "37.0%"
+        },
+        {
+          "Date": "Mar 21",
+          "Average Brent Crude US$ / Bbl": "$65.19",
+          "Northwest Europe Rig Utilisation": "49.4%",
+          "US Gulf Rig Utilisation": "33.3%"
+        },
+        {
+          "Date": "Apr 21",
+          "Average Brent Crude US$ / Bbl": "$64.77",
+          "Northwest Europe Rig Utilisation": "54.7%",
+          "US Gulf Rig Utilisation": "34.1%"
+        },
+        {
+          "Date": "May 21",
+          "Average Brent Crude US$ / Bbl": "$68.04",
+          "Northwest Europe Rig Utilisation": "57.3%",
+          "US Gulf Rig Utilisation": "37.2%"
+        },
+        {
+          "Date": "Jun 21",
+          "Average Brent Crude US$ / Bbl": "$73.07",
+          "Northwest Europe Rig Utilisation": "61.7%",
+          "US Gulf Rig Utilisation": "43.2%"
+        },
+        {
+          "Date": "Jul 21",
+          "Average Brent Crude US$ / Bbl": "$74.39",
+          "Northwest Europe Rig Utilisation": "60.5%",
+          "US Gulf Rig Utilisation": "47.7%"
+        },
+        {
+          "Date": "Aug 21",
+          "Average Brent Crude US$ / Bbl": "$70.25",
+          "Northwest Europe Rig Utilisation": "66.2%",
+          "US Gulf Rig Utilisation": "50.0%"
+        }
+      ]
+    },
+    {
+      "title": "INACTIVE RIGS NORTHWEST EUROPE",
+      "columns": [
+        "NAME",
+        "TYPE",
+        "STATUS"
+      ],
+      "row_count": 22,
+      "rows": [
+        {
+          "NAME": "BIDEFORD DOLPHIN",
+          "TYPE": "SS",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "BOLETTE DOLPHIN",
+          "TYPE": "DS",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "COSLINNOVATOR",
+          "TYPE": "SS",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "COSLPIONEER",
+          "TYPE": "SS",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "COSLPROMOTER",
+          "TYPE": "SS",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "ISLAND INNOVATOR",
+          "TYPE": "SS",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "MAERSK INNOVATOR",
+          "TYPE": "JU",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "MAERSK INTERCEPTOR",
+          "TYPE": "JU",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "NOBLE HOUSTON COLBERT",
+          "TYPE": "JU",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "NOBLE SAM HARTLEY",
+          "TYPE": "JU",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "OCEAN VALIANT",
+          "TYPE": "SS",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "RAN",
+          "TYPE": "JU",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "TRANSOCEAN BARENTS",
+          "TYPE": "SS",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "TRANSOCEAN LEADER",
+          "TYPE": "SS",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "TRANSOCEAN NORGE",
+          "TYPE": "SS",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "VALARIS DS-4",
+          "TYPE": "DS",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "VALARIS DS-8",
+          "TYPE": "DS",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "VALARIS JU-249",
+          "TYPE": "JU",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "VALARIS JU-292",
+          "TYPE": "JU",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "WEST LEO",
+          "TYPE": "SS",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "WEST MIRA",
+          "TYPE": "SS",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "WILHUNTER",
+          "TYPE": "SS",
+          "STATUS": "COLD STACK"
+        }
+      ]
+    },
+    {
+      "title": "CONTRACTED RIG UTILISATION AND DAY RATES",
+      "columns": [
+        "UTILISATION",
+        "AUG 2021",
+        "AUG 2020",
+        "AUG 2019",
+        "AUG 2018",
+        "AUG 2017"
+      ],
+      "row_count": 3,
+      "rows": [
+        {
+          "UTILISATION": "NORTH SEA",
+          "AUG 2021": "66.2%",
+          "AUG 2020": "50.7%",
+          "AUG 2019": "67.8%",
+          "AUG 2018": "59.5%",
+          "AUG 2017": "51.4%"
+        },
+        {
+          "UTILISATION": "SOUTH AMERICA",
+          "AUG 2021": "73.9%",
+          "AUG 2020": "81.3%",
+          "AUG 2019": "72.4%",
+          "AUG 2018": "60.5%",
+          "AUG 2017": "72.9%"
+        },
+        {
+          "UTILISATION": "US GULF",
+          "AUG 2021": "50.0%",
+          "AUG 2020": "38.8%",
+          "AUG 2019": "51.7%",
+          "AUG 2018": "50.0%",
+          "AUG 2017": "34.8%"
+        }
+      ]
+    },
+    {
+      "title": "CURRENT ESTIMATED FIXTURE RATES (SOURCE: BASSOE OFFSHORE)",
+      "columns": [
+        "PREMIUM HARSH ENVIRONMENT JACKUP (EX CJ 70)",
+        "USD 90,000"
+      ],
+      "row_count": 5,
+      "rows": [
+        {
+          "PREMIUM HARSH ENVIRONMENT JACKUP (EX CJ 70)": "VINTAGE HARSH ENVIRONMENT JACKUP",
+          "USD 90,000": "USD 75,000"
+        },
+        {
+          "PREMIUM HARSH ENVIRONMENT JACKUP (EX CJ 70)": "SIXTH GENERATION HARSH ENVIRONMENT SEMISUBMERSIBLE",
+          "USD 90,000": "USD 300,000"
+        },
+        {
+          "PREMIUM HARSH ENVIRONMENT JACKUP (EX CJ 70)": "VINTAGE HARSH ENVIRONMENT SEMISUBMERSIBLE",
+          "USD 90,000": "USD 170,000"
+        },
+        {
+          "PREMIUM HARSH ENVIRONMENT JACKUP (EX CJ 70)": "SIXTH GENERATION INTERNATIONAL SEMISUBMERSIBLE",
+          "USD 90,000": "USD 180,000"
+        },
+        {
+          "PREMIUM HARSH ENVIRONMENT JACKUP (EX CJ 70)": "SIXTH / SEVENTH GENERATION INTERNATIONAL DRILLSHIP",
+          "USD 90,000": "USD 200,000"
+        }
+      ]
+    }
+  ]
+}

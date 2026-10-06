@@ -1,0 +1,49 @@
+---
+title: "Gas Report - Week 38"
+date: "2025-09-19"
+display_date: "19 September 2025"
+year: 2025
+week: 38
+category: "gas"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/Gas/News/2025/gas-report-week-38.html"
+tags: ['Baltic Exchange', 'Gas', 'Freight Rates', 'VLGC', 'LNG', 'LPG']
+word_count: 347
+sections_count: 2
+tables_count: 0
+source_file: "corpus/08-baltic/gas/2025/2025-09-19_gas-report-week-38_gas.html"
+---
+
+# Gas Report - Week 38
+
+**Date:** 19 September 2025  
+**Publisher:** Baltic Exchange | **Category:** Gas  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/Gas/News/2025/gas-report-week-38.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/Gas/News/2025/gas-report-week-38.html)  
+
+---
+
+### LNG
+
+It has been another soft week in the LNG market, with rates continuing to trend lower across most routes. Limited fresh fixtures and persistent Atlantic weakness weighed on sentiment, though a few Pacific gains provided some balance.
+
+On the BLNG1 Australia–Japan route, 174k cbm vessels fell $1,400 to $28,600 per day, while 160k cbm earnings managed a $1,000 rise to $18,300 per day as smaller tonnage saw selective demand in the Pacific.
+
+The BLNG2 US Gulf–Continent route slipped, with 174k cbm rates down $1,900 to $26,900 per day and 160k cbm ships losing $2,000 to $14,300 per day amid weak trans-Atlantic flows.
+
+The BLNG3 US Gulf–Japan route also softened, with 174k cbm earnings dropping $2,800 to $31,200 per day and 160k cbm tonnage easing $1,300 to $18,000 per day as longer-haul demand remained sluggish.
+
+Time charter levels were mixed. The six-month TC rate eased $600 to $36,150 per day and the one-year rate fell $750 to $39,250, while the three-year term bucked the trend, rising $1,000 to $55,500 as longer-term cover retained some interest.
+
+### LPG
+
+It has been a softer week in the LPG market, as charterers approached rate ceilings following last week’s sharp gains. With fresh cargo demand easing and tonnage lists showing signs of relief, rates corrected lower across all key routes.
+
+On the BLPG1 Ras Tanura–Chiba route, rates slipped $2.33 to $77.17 per metric tonne, while TCE earnings fell $3,376 to $63,967 per day. Middle East activity remained steady, but charterers pushed back against last week’s highs, capping further upside.
+
+The BLPG2 Houston–Flushing route eased $1.25 to $83.75 per metric tonne, with TCE returns down $2,019 to $95,927 per day as Atlantic balances normalised and prompt availability improved slightly.
+
+On the BLPG3 Houston–Chiba route, rates dropped $3.17 to $152.33 per metric tonne, and TCE earnings retreated $3,304 to $77,417 per day.
+
+---
+
+**Tags:** Baltic Exchange, Gas, Freight Rates, VLGC, LNG, LPG  

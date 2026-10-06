@@ -484,20 +484,35 @@ def process_all() -> Dict[str, Any]:
         if i % 50 == 0 or i == len(html_files):
             print(f"[{i}/{len(html_files)}] {report['source_file']} -> {len(report['deals'])} deals ({issue_date})")
 
-    # Write data/extracted/series/hellenic_vv_sales_series.csv
+    # Write data/extracted/series/hellenic_vv_sales_series.csv (Non-Destructive Upsert)
     csv_cols = [
         "issue_date", "sector", "vessel_name", "vessel_class", "dwt_spec",
         "built_date", "yard", "buyer", "price_usd_m", "vv_value_usd_m",
         "premium_pct", "comments", "source_file"
     ]
     series_csv_path = OUT_SERIES / "hellenic_vv_sales_series.csv"
-    with open(series_csv_path, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=csv_cols)
-        writer.writeheader()
-        for row in all_deals_rows:
-            writer.writerow(row)
-
-    print(f"\nWritten {len(all_deals_rows)} total VesselsValue transaction deals to {series_csv_path}")
+    existing_map = {}
+    if series_csv_path.exists() and series_csv_path.stat().st_size > 0:
+        try:
+            with open(series_csv_path, "r", encoding="utf-8", errors="replace") as rf:
+                for r in csv.DictReader(rf):
+                    k = (r.get("issue_date", ""), r.get("vessel_name", ""), r.get("source_file", ""))
+                    existing_map[k] = r
+        except Exception:
+            pass
+    for row in all_deals_rows:
+        k = (str(row.get("issue_date", "")), str(row.get("vessel_name", "")), str(row.get("source_file", "")))
+        existing_map[k] = {c: row.get(c, "") for c in csv_cols}
+    if existing_map:
+        merged_rows = sorted(existing_map.values(), key=lambda x: (str(x.get("issue_date", "")), str(x.get("sector", "")), str(x.get("vessel_name", ""))))
+        with open(series_csv_path, "w", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=csv_cols)
+            writer.writeheader()
+            for row in merged_rows:
+                writer.writerow(row)
+        print(f"\nUpserted {len(all_deals_rows)} deals ({len(merged_rows)} total rows) to {series_csv_path}")
+    else:
+        print(f"\nNo deals to write for {series_csv_path}; preserving existing CSV.")
 
     # Write run state summary
     state = {

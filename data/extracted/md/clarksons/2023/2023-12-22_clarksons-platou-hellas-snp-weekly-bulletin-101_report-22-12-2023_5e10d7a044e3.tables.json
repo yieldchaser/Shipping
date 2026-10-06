@@ -1,0 +1,28 @@
+{
+  "issue_date": "2023-12-22",
+  "printed_date": "22/12/2023",
+  "source_file": "2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf",
+  "sales_count": 1,
+  "demo_count": 0,
+  "sales": [
+    {
+      "issue_date": "2023-12-22",
+      "stem": "2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3",
+      "source_file": "2023-12-22_clarksons-platou-hellas-snp-weekly-bulletin-101_report-22-12-2023_5e10d7a044e3.pdf",
+      "section": "Tanker Sales",
+      "page": 1,
+      "NAME": "JAG PRABHA",
+      "TYPE": "MR",
+      "DWT": "47,999",
+      "BUILT": "2004",
+      "YARD": "IWAGI MAN ZOSEN",
+      "PRICE": "CIRCA USD 15 M",
+      "BUYERS": "U/D",
+      "SS_DD": "SS 09/27 DD 09/25",
+      "COMMENTS": "B. & W. 6S50MC-C8.1 BWTS fitted",
+      "raw_built": "2004 IWAGI MAN ZOSEN",
+      "raw_details": "B. & W. 6S50MC-C8.1 BWTS fitted"
+    }
+  ],
+  "demolitions": []
+}

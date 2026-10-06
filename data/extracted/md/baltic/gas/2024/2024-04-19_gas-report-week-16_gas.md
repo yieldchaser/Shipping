@@ -1,0 +1,43 @@
+---
+title: "Gas Report - Week 16"
+date: "2024-04-19"
+display_date: "19 April 2024"
+year: 2024
+week: 16
+category: "gas"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/Gas/News/2024/gas-report-week-16.html"
+tags: ['Baltic Exchange', 'Gas', 'Freight Rates', 'VLGC', 'LNG', 'LPG']
+word_count: 474
+sections_count: 2
+tables_count: 0
+source_file: "corpus/08-baltic/gas/2024/2024-04-19_gas-report-week-16_gas.html"
+---
+
+# Gas Report - Week 16
+
+**Date:** 19 April 2024  
+**Publisher:** Baltic Exchange | **Category:** Gas  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/Gas/News/2024/gas-report-week-16.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/Gas/News/2024/gas-report-week-16.html)  
+
+---
+
+### LNG
+
+This week has seen a potential turn in the short-term market, particularly in the Atlantic Basin. There has been an increased enquiry for liftings from the US Gulf, Algeria, and West Africa to indicate a possible rise in rates, though the Eastern market remains stagnant and risks losing its two-way economics. Despite this, the presence of numerous vessels in the West may temper rate increases in the near future.
+
+Rate assessments on a weekly basis for Gladstone/Tokyo were about $2,000 per day firmer for the 160kCBM vessel and $400 per day firmer for the 174kCBM vessel at $32,706 per day and $47,675 per day, respectively. In the Atlantic the 160kCBM vessel lost around $700 per day for the Corpus Christi/Isle of Grain route while the 174kCBM vessel gained about $1,000 per day to be assessed at $32,955 per day and $45,752 per day. The BLNG3 (US Gulf-Japan) fared similarly, being assessed at $38,996 per day (down $450 on last week’s assessment) on the 160kCBM vessel and $53,069 per day (a weekly gain of about $1,500) on the 174kCBM vessel.
+
+There is a positive sign with growing enquiries for longer term period chartering, some of which are securing fixtures at rates well above current spot assessments, with six-month rates assessed at $64,000 against an average spot of under $48,000 and the three-year rate at $80,700.
+
+In terms of vessel transactions, the market is witnessing a rise in potential sale and purchase activities, with several steam ships and TFDE vessels currently under consideration for sale.   As more vessels are released from long-term charters, the availability of steam vessels is expected to increase further which could negatively impact rates should these come into the spot market.
+
+### LPG
+
+Following a slow start to the week and with rates stable BLPG1 index rose incrementally to close at $64.429 (an actual fall of $0.65 on the week) after bottoming out at $63 giving a daily TCE of $43,216. The acceptances by Saudi Aramco being released on Tuesday helped stimulate some positive movement but with tonnage reported as plentiful it remains to be seen if that can be maintained.
+
+The US market has mirrored the Middle East this week both BLPG2 and BLPG3 hitting a floor and improved later in the week. Houston-Flushing BLPG2 climbed to $68.4 from $67 after reaching amid week bottom of $66. A daily TCE earning on a round voyage is currently at $68,186. While Houston-Chiba gained $1.429 giving a closing index value of $124.286 and a daily TCE earning of $49,297. Overall enquiry has picked up this week in the West however vessel supply looks to be keeping the market balanced for the moment.
+
+---
+
+**Tags:** Baltic Exchange, Gas, Freight Rates, VLGC, LNG, LPG  

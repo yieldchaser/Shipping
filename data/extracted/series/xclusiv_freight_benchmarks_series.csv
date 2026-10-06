@@ -1,0 +1,239 @@
+issue_date,report_week,sector,vessel_class,metric,rate_usd_day,source_file
+2021-08-09,2021-W32,Tanker,VLCC,1y T/C Rate,19100.0,xclusiv_2021_xclusiv_weekly_2021_08_09
+2021-08-23,2021-W34,Dry Bulk,Supramax,10TC Average,36036.0,xclusiv_2021_xclusiv_weekly_2021_08_23
+2021-10-18,2021-W42,Tanker,Suezmax,1y T/C Rate,21250.0,xclusiv_2021_xclusiv_weekly_2021_10_18
+2021-10-18,2021-W42,Tanker,Aframax,1y T/C Rate,16250.0,xclusiv_2021_xclusiv_weekly_2021_10_18
+2021-10-18,2021-W42,Clean Products,MR2,1y T/C Rate,15000.0,xclusiv_2021_xclusiv_weekly_2021_10_18
+2021-10-25,2021-W43,Tanker,Suezmax,1y T/C Rate,23375.0,xclusiv_2021_xclusiv_weekly_2021_10_25
+2021-10-25,2021-W43,Clean Products,MR2,1y T/C Rate,21250.0,xclusiv_2021_xclusiv_weekly_2021_10_25
+2021-11-08,2021-W45,Clean Products,MR2,1y T/C Rate,15250.0,xclusiv_2021_xclusiv_weekly_2021_11_08
+2021-12-13,2021-W50,Tanker,Aframax,1y T/C Rate,19750.0,xclusiv_2021_xclusiv_weekly_2021_12_13
+2021-12-20,2021-W51,Tanker,Suezmax,1y T/C Rate,20750.0,xclusiv_2021_xclusiv_weekly_2021_12_20
+2022-01-24,2022-W04,Tanker,Suezmax,1y T/C Rate,19750.0,xclusiv_2022_xclusiv_weekly_2022_01_24
+2022-02-07,2022-W06,Tanker,Suezmax,1y T/C Rate,19000.0,xclusiv_2022_xclusiv_weekly_2022_02_07
+2022-02-14,2022-W07,Tanker,Suezmax,1y T/C Rate,18750.0,xclusiv_2022_xclusiv_weekly_2022_02_14
+2022-02-14,2022-W07,Clean Products,MR2,1y T/C Rate,15250.0,xclusiv_2022_xclusiv_weekly_2022_02_14
+2022-02-21,2022-W08,Tanker,Suezmax,1y T/C Rate,19000.0,xclusiv_2022_xclusiv_weekly_2022_02_21
+2022-02-28,2022-W09,Tanker,Suezmax,1y T/C Rate,19000.0,xclusiv_2022_xclusiv_weekly_2022_02_28
+2022-03-14,2022-W11,Clean Products,LR2,1y T/C Rate,15750.0,xclusiv_2022_xclusiv_weekly_2022_03_14
+2022-03-14,2022-W11,Clean Products,MR2,1y T/C Rate,15750.0,xclusiv_2022_xclusiv_weekly_2022_03_14
+2022-03-21,2022-W12,Dry Bulk,Supramax,1y T/C Rate,32200.0,xclusiv_2022_xclusiv_weekly_2022_03_21-1
+2022-03-21,2022-W12,Clean Products,MR2,1y T/C Rate,16250.0,xclusiv_2022_xclusiv_weekly_2022_03_21-1
+,,Clean Products,MR2,1y T/C Rate,15000.0,xclusiv_2022_xclusiv_weekly_2022_03_8
+2022-04-26,2022-W17,Tanker,Suezmax,1y T/C Rate,26250.0,xclusiv_2022_xclusiv_weekly_2022_04_26
+2022-05-03,2022-W18,Tanker,Aframax,1y T/C Rate,22250.0,xclusiv_2022_xclusiv_weekly_2022_05_03
+2022-05-16,2022-W20,Dry Bulk,Supramax,1y T/C Rate,30200.0,xclusiv_2022_xclusiv_weekly_2022_05_16
+2022-05-23,2022-W21,Dry Bulk,Supramax,1y T/C Rate,30200.0,xclusiv_2022_xclusiv_weekly_2022_05_23
+2022-05-23,2022-W21,Tanker,Aframax,1y T/C Rate,24750.0,xclusiv_2022_xclusiv_weekly_2022_05_23
+2022-06-06,2022-W23,Dry Bulk,Supramax,1y T/C Rate,26500.0,xclusiv_2022_xclusiv_weekly_2022_06_06
+2022-06-06,2022-W23,Clean Products,LR2,1y T/C Rate,29250.0,xclusiv_2022_xclusiv_weekly_2022_06_06
+2022-06-14,2022-W24,Dry Bulk,Supramax,1y T/C Rate,29250.0,xclusiv_2022_xclusiv_weekly_2022_06_14
+2022-06-14,2022-W24,Tanker,Suezmax,1y T/C Rate,26250.0,xclusiv_2022_xclusiv_weekly_2022_06_14
+2022-06-27,2022-W26,Clean Products,MR2,1y T/C Rate,24750.0,xclusiv_2022_xclusiv_weekly_2022_06_27
+2022-07-01,2022-W26,Tanker,Suezmax,1y T/C Rate,26750.0,xclusiv_2022_xclusiv_weekly_2022_07_01
+2022-07-18,2022-W29,Clean Products,MR2,1y T/C Rate,24750.0,xclusiv_2022_xclusiv_weekly_2022_07_18
+2022-08-01,2022-W31,Clean Products,MR2,1y T/C Rate,28750.0,xclusiv_2022_xclusiv_weekly_2022_08_01
+2022-09-05,2022-W36,Clean Products,MR2,1y T/C Rate,26750.0,xclusiv_2022_xclusiv_weekly_2022_09_05
+2022-09-12,2022-W37,Dry Bulk,Supramax,1y T/C Rate,16450.0,xclusiv_2022_xclusiv_weekly_2022_09_12
+2022-09-19,2022-W38,Tanker,Suezmax,1y T/C Rate,38250.0,xclusiv_2022_xclusiv_weekly_2022_09_19
+2022-09-19,2022-W38,Tanker,Aframax,1y T/C Rate,37750.0,xclusiv_2022_xclusiv_weekly_2022_09_19
+2022-09-26,2022-W39,Dry Bulk,Supramax,1y T/C Rate,15000.0,xclusiv_2022_xclusiv_weekly_2022_09_26
+2022-09-26,2022-W39,Tanker,Suezmax,1y T/C Rate,38250.0,xclusiv_2022_xclusiv_weekly_2022_09_26
+2022-09-26,2022-W39,Tanker,Aframax,1y T/C Rate,37750.0,xclusiv_2022_xclusiv_weekly_2022_09_26
+2022-10-10,2022-W41,Clean Products,LR2,1y T/C Rate,44500.0,xclusiv_2022_xclusiv_weekly_2022_10_10
+2022-10-10,2022-W41,Clean Products,MR2,1y T/C Rate,32750.0,xclusiv_2022_xclusiv_weekly_2022_10_10
+2022-10-17,2022-W42,Dry Bulk,Supramax,1y T/C Rate,17450.0,xclusiv_2022_xclusiv_weekly_2022_10_17
+2022-10-17,2022-W42,Tanker,VLCC,1y T/C Rate,45750.0,xclusiv_2022_xclusiv_weekly_2022_10_17
+2022-10-24,2022-W43,Clean Products,MR2,1y T/C Rate,32750.0,xclusiv_2022_xclusiv_weekly_2022_10_24
+2022-10-31,2022-W44,Tanker,Aframax,1y T/C Rate,36500.0,xclusiv_2022_xclusiv_weekly_2022_10_31
+2022-11-07,2022-W45,Tanker,Aframax,1y T/C Rate,36500.0,xclusiv_2022_xclusiv_weekly_2022_11_07
+2022-11-14,2022-W46,Tanker,VLCC,1y T/C Rate,51250.0,xclusiv_2022_xclusiv_weekly_2022_11_14
+2022-12-05,2022-W49,Tanker,Aframax,1y T/C Rate,45250.0,xclusiv_2022_xclusiv_weekly_2022_12_05
+2022-12-12,2022-W50,Dry Bulk,Supramax,1y T/C Rate,15575.0,xclusiv_2022_xclusiv_weekly_2022_12_12
+2022-12-19,2022-W51,Tanker,VLCC,1y T/C Rate,50250.0,xclusiv_2022_xclusiv_weekly_2022_12_19
+2022-12-19,2022-W51,Tanker,Suezmax,1y T/C Rate,49750.0,xclusiv_2022_xclusiv_weekly_2022_12_19
+2022-12-19,2022-W51,Clean Products,MR2,1y T/C Rate,35250.0,xclusiv_2022_xclusiv_weekly_2022_12_19
+2022-12-27,2022-W52,Tanker,VLCC,1y T/C Rate,49250.0,xclusiv_2022_xclusiv_weekly_2022_12_27
+2023-01-09,2023-W02,Clean Products,MR2,1y T/C Rate,32250.0,xclusiv_2023_xclusiv_weekly_2023_01_09
+2023-01-16,2023-W03,Clean Products,MR2,1y T/C Rate,31500.0,xclusiv_2023_xclusiv_weekly_2023_01_16
+2023-01-30,2023-W05,Dry Bulk,Supramax,1y T/C Rate,14000.0,xclusiv_2023_xclusiv_weekly_2023_01_30
+2023-02-13,2023-W07,Tanker,Suezmax,1y T/C Rate,45750.0,xclusiv_2023_xclusiv_weekly_2023_02_13
+2023-02-13,2023-W07,Tanker,Aframax,1y T/C Rate,47000.0,xclusiv_2023_xclusiv_weekly_2023_02_13
+2023-02-20,2023-W08,Tanker,Suezmax,1y T/C Rate,45600.0,xclusiv_2023_xclusiv_weekly_2023_02_20
+2023-02-28,2023-W09,Tanker,Suezmax,1y T/C Rate,45750.0,xclusiv_2023_xclusiv_weekly_2023_02_28
+2023-03-06,2023-W10,Tanker,Suezmax,1y T/C Rate,45750.0,xclusiv_2023_xclusiv_weekly_2023_03_06
+2023-03-06,2023-W10,Clean Products,LR2,1y T/C Rate,49250.0,xclusiv_2023_xclusiv_weekly_2023_03_06
+2023-03-13,2023-W11,Tanker,Suezmax,1y T/C Rate,45750.0,xclusiv_2023_xclusiv_weekly_2023_03_13
+2023-03-13,2023-W11,Clean Products,MR2,1y T/C Rate,33000.0,xclusiv_2023_xclusiv_weekly_2023_03_13
+2023-03-20,2023-W12,Clean Products,MR2,1y T/C Rate,33750.0,xclusiv_2023_xclusiv_weekly_2023_03_20
+2023-04-10,2023-W15,Dry Bulk,Supramax,1y T/C Rate,16250.0,xclusiv_2023_xclusiv_weekly_2023_04_10
+2023-04-18,2023-W16,Tanker,Aframax,1y T/C Rate,56250.0,xclusiv_2023_xclusiv_weekly_2023_04_18
+2023-04-24,2023-W17,Dry Bulk,Supramax,1y T/C Rate,17450.0,xclusiv_2023_xclusiv_weekly_2023_04_24
+2023-04-24,2023-W17,Tanker,Aframax,1y T/C Rate,56250.0,xclusiv_2023_xclusiv_weekly_2023_04_24
+,,Clean Products,LR2,1y T/C Rate,52250.0,xclusiv_2023_xclusiv_weekly_2023_05_2
+2023-05-22,2023-W21,Tanker,Suezmax,1y T/C Rate,45750.0,xclusiv_2023_xclusiv_weekly_2023_05_22
+2023-05-29,2023-W22,Tanker,Suezmax,1y T/C Rate,45750.0,xclusiv_2023_xclusiv_weekly_2023_05_29
+2023-05-29,2023-W22,Clean Products,LR2,1y T/C Rate,51250.0,xclusiv_2023_xclusiv_weekly_2023_05_29
+2023-06-06,2023-W23,Dry Bulk,Supramax,1y T/C Rate,14200.0,xclusiv_2023_xclusiv_weekly_2023_06_06
+2023-06-06,2023-W23,Tanker,Suezmax,1y T/C Rate,45750.0,xclusiv_2023_xclusiv_weekly_2023_06_06
+2023-06-06,2023-W23,Clean Products,MR2,1y T/C Rate,29500.0,xclusiv_2023_xclusiv_weekly_2023_06_06
+2023-06-12,2023-W24,Dry Bulk,Supramax,1y T/C Rate,12500.0,xclusiv_2023_xclusiv_weekly_2023_06_12
+2023-07-03,2023-W27,Tanker,VLCC,1y T/C Rate,45500.0,xclusiv_2023_xclusiv_weekly_2023_07_03
+2023-07-10,2023-W28,Tanker,VLCC,1y T/C Rate,45500.0,xclusiv_2023_xclusiv_weekly_2023_07_10
+2023-07-10,2023-W28,Tanker,Suezmax,1y T/C Rate,46750.0,xclusiv_2023_xclusiv_weekly_2023_07_10
+2023-07-17,2023-W29,Clean Products,LR2,1y T/C Rate,44750.0,xclusiv_2023_xclusiv_weekly_2023_07_17
+2023-07-24,2023-W30,Clean Products,MR2,1y T/C Rate,26750.0,xclusiv_2023_xclusiv_weekly_2023_07_24
+2023-07-31,2023-W31,Tanker,Suezmax,1y T/C Rate,45250.0,xclusiv_2023_xclusiv_weekly_2023_07_31
+2023-08-07,2023-W32,Dry Bulk,Supramax,1y T/C Rate,10900.0,xclusiv_2023_xclusiv_weekly_2023_08_07
+2023-08-14,2023-W33,Tanker,Suezmax,1y T/C Rate,45250.0,xclusiv_2023_xclusiv_weekly_2023_08_14
+2023-08-21,2023-W34,Clean Products,LR2,1y T/C Rate,43000.0,xclusiv_2023_xclusiv_weekly_2023_08_21
+2023-08-21,2023-W34,Clean Products,MR2,1y T/C Rate,28000.0,xclusiv_2023_xclusiv_weekly_2023_08_21
+2023-09-04,2023-W36,Tanker,VLCC,1y T/C Rate,49750.0,xclusiv_2023_xclusiv_weekly_2023_09_04
+2023-09-11,2023-W37,Tanker,Suezmax,1y T/C Rate,41750.0,xclusiv_2023_xclusiv_weekly_2023_09_11
+2023-09-11,2023-W37,Clean Products,LR2,1y T/C Rate,27750.0,xclusiv_2023_xclusiv_weekly_2023_09_11
+2023-09-11,2023-W37,Clean Products,MR2,1y T/C Rate,27750.0,xclusiv_2023_xclusiv_weekly_2023_09_11
+2023-09-18,2023-W38,Tanker,Suezmax,1y T/C Rate,41750.0,xclusiv_2023_xclusiv_weekly_2023_09_18
+2023-09-25,2023-W39,Tanker,VLCC,1y T/C Rate,48750.0,xclusiv_2023_xclusiv_weekly_2023_09_25
+2023-09-25,2023-W39,Tanker,Suezmax,1y T/C Rate,41750.0,xclusiv_2023_xclusiv_weekly_2023_09_25
+2023-10-02,2023-W40,Tanker,Suezmax,1y T/C Rate,41750.0,xclusiv_2023_xclusiv_weekly_2023_10_02
+2023-10-02,2023-W40,Tanker,Aframax,1y T/C Rate,42000.0,xclusiv_2023_xclusiv_weekly_2023_10_02
+2023-10-30,2023-W44,Dry Bulk,Supramax,10TC Average,15112.0,xclusiv_2023_xclusiv_weekly_2023_10_30
+2023-10-30,2023-W44,Dry Bulk,Handysize,7TC Average,12080.0,xclusiv_2023_xclusiv_weekly_2023_10_30
+2023-10-30,2023-W44,Tanker,Suezmax,1y T/C Rate,43500.0,xclusiv_2023_xclusiv_weekly_2023_10_30
+2023-11-06,2023-W45,Dry Bulk,Handysize,7TC Average,11409.0,xclusiv_2023_xclusiv_weekly_2023_11_06
+2023-11-06,2023-W45,Tanker,VLCC,1y T/C Rate,51500.0,xclusiv_2023_xclusiv_weekly_2023_11_06
+2023-11-13,2023-W46,Dry Bulk,Supramax,1y T/C Rate,12100.0,xclusiv_2023_xclusiv_weekly_2023_11_13
+2023-11-13,2023-W46,Dry Bulk,Handysize,7TC Average,10697.0,xclusiv_2023_xclusiv_weekly_2023_11_13
+2023-11-13,2023-W46,Tanker,Aframax,1y T/C Rate,45000.0,xclusiv_2023_xclusiv_weekly_2023_11_13
+2023-11-20,2023-W47,Dry Bulk,Supramax,1y T/C Rate,12250.0,xclusiv_2023_xclusiv_weekly_2023_11_20
+2023-11-20,2023-W47,Tanker,VLCC,1y T/C Rate,51500.0,xclusiv_2023_xclusiv_weekly_2023_11_20
+2023-11-20,2023-W47,Tanker,Suezmax,1y T/C Rate,47500.0,xclusiv_2023_xclusiv_weekly_2023_11_20
+2023-11-20,2023-W47,Tanker,Aframax,1y T/C Rate,45000.0,xclusiv_2023_xclusiv_weekly_2023_11_20
+2023-11-27,2023-W48,Dry Bulk,Supramax,10TC Average,16126.0,xclusiv_2023_xclusiv_weekly_2023_11_27
+2023-11-27,2023-W48,Dry Bulk,Supramax,1y T/C Rate,12250.0,xclusiv_2023_xclusiv_weekly_2023_11_27
+2023-11-27,2023-W48,Tanker,VLCC,1y T/C Rate,51500.0,xclusiv_2023_xclusiv_weekly_2023_11_27
+2023-11-27,2023-W48,Tanker,Suezmax,1y T/C Rate,47500.0,xclusiv_2023_xclusiv_weekly_2023_11_27
+2023-11-27,2023-W48,Tanker,Aframax,1y T/C Rate,47750.0,xclusiv_2023_xclusiv_weekly_2023_11_27
+2023-12-04,2023-W49,Dry Bulk,Handysize,7TC Average,13908.0,xclusiv_2023_xclusiv_weekly_2023_12_04
+2023-12-04,2023-W49,Tanker,Suezmax,1y T/C Rate,46250.0,xclusiv_2023_xclusiv_weekly_2023_12_04
+2023-12-11,2023-W50,Dry Bulk,Supramax,10TC Average,18899.0,xclusiv_2023_xclusiv_weekly_2023_12_11
+2023-12-11,2023-W50,Dry Bulk,Supramax,1y T/C Rate,14200.0,xclusiv_2023_xclusiv_weekly_2023_12_11
+2023-12-11,2023-W50,Tanker,VLCC,1y T/C Rate,50250.0,xclusiv_2023_xclusiv_weekly_2023_12_11
+2023-12-11,2023-W50,Tanker,Suezmax,1y T/C Rate,46250.0,xclusiv_2023_xclusiv_weekly_2023_12_11
+2023-12-11,2023-W50,Tanker,Aframax,1y T/C Rate,46000.0,xclusiv_2023_xclusiv_weekly_2023_12_11
+2023-12-18,2023-W51,Dry Bulk,Handysize,7TC Average,16340.0,xclusiv_2023_xclusiv_weekly_2023_12_18
+2023-12-18,2023-W51,Tanker,Suezmax,1y T/C Rate,46250.0,xclusiv_2023_xclusiv_weekly_2023_12_18
+2023-12-27,2023-W52,Dry Bulk,Supramax,1y T/C Rate,15200.0,xclusiv_2023_xclusiv_weekly_2023_12_27
+2023-12-27,2023-W52,Dry Bulk,Handysize,7TC Average,15813.0,xclusiv_2023_xclusiv_weekly_2023_12_27
+2023-12-27,2023-W52,Tanker,VLCC,1y T/C Rate,50250.0,xclusiv_2023_xclusiv_weekly_2023_12_27
+2023-12-27,2023-W52,Tanker,Suezmax,1y T/C Rate,46250.0,xclusiv_2023_xclusiv_weekly_2023_12_27
+2024-01-08,2024-W02,Dry Bulk,Supramax,1y T/C Rate,15200.0,xclusiv_2024_xclusiv-2024_01_08
+2024-01-15,2024-W03,Tanker,Suezmax,Average T/CE,60533.0,xclusiv_2024_xclusiv-2024_01_15
+2024-01-22,2024-W04,Clean Products,LR2,1y T/C Rate,46250.0,xclusiv_2024_xclusiv-2024_01_22
+2024-01-29,2024-W05,Clean Products,LR2,1y T/C Rate,46250.0,xclusiv_2024_xclusiv-2024_01_29
+2024-02-05,2024-W06,Clean Products,MR2,1y T/C Rate,33250.0,xclusiv_2024_xclusiv-2024_02_05
+2024-02-26,2024-W09,Tanker,VLCC,1y T/C Rate,53000.0,xclusiv_2024_xclusiv-2024_02_26
+2024-03-04,2024-W10,Clean Products,LR2,1y T/C Rate,32250.0,xclusiv_2024_xclusiv-2024_03_04
+2024-03-04,2024-W10,Clean Products,MR2,1y T/C Rate,32250.0,xclusiv_2024_xclusiv-2024_03_04
+2024-03-26,2024-W13,Dry Bulk,Supramax,1y T/C Rate,15250.0,xclusiv_2024_xclusiv-2024_03_26
+2024-03-26,2024-W13,Clean Products,LR2,1y T/C Rate,31750.0,xclusiv_2024_xclusiv-2024_03_26
+2024-03-26,2024-W13,Clean Products,MR2,1y T/C Rate,31750.0,xclusiv_2024_xclusiv-2024_03_26
+2024-04-08,2024-W15,Clean Products,LR2,1y T/C Rate,32500.0,xclusiv_2024_xclusiv-2024_04_08
+2024-04-08,2024-W15,Clean Products,MR2,1y T/C Rate,32500.0,xclusiv_2024_xclusiv-2024_04_08
+2024-04-29,2024-W18,Clean Products,MR2,1y T/C Rate,33250.0,xclusiv_2024_xclusiv-2024_04_29
+2024-05-20,2024-W21,Dry Bulk,Supramax,1y T/C Rate,18250.0,xclusiv_2024_xclusiv-2024_05_20
+2024-05-20,2024-W21,Tanker,VLCC,1y T/C Rate,52000.0,xclusiv_2024_xclusiv-2024_05_20
+2024-05-27,2024-W22,Dry Bulk,Supramax,1y T/C Rate,16500.0,xclusiv_2024_xclusiv-2024_05_27
+2024-06-10,2024-W24,Dry Bulk,Supramax,1y T/C Rate,15750.0,xclusiv_2024_xclusiv-2024_06_10
+2024-06-17,2024-W25,Tanker,Suezmax,Average T/CE,46969.0,xclusiv_2024_xclusiv-2024_06_17
+2024-07-15,2024-W29,Tanker,VLCC,1y T/C Rate,52000.0,xclusiv_2024_xclusiv-2024_07_15
+2024-07-15,2024-W29,Tanker,Suezmax,1y T/C Rate,46000.0,xclusiv_2024_xclusiv-2024_07_15
+2024-08-12,2024-W33,Dry Bulk,Supramax,1y T/C Rate,16950.0,xclusiv_2024_xclusiv-2024_08_12
+2024-08-19,2024-W34,Clean Products,MR2,1y T/C Rate,31500.0,xclusiv_2024_xclusiv-2024_08_19
+2024-08-26,2024-W35,Clean Products,MR2,1y T/C Rate,30250.0,xclusiv_2024_xclusiv-2024_08_26
+2024-09-02,2024-W36,Tanker,Aframax,1y T/C Rate,3750.0,xclusiv_2024_xclusiv-2024_09_02
+2024-09-09,2024-W37,Clean Products,LR2,1y T/C Rate,44850.0,xclusiv_2024_xclusiv-2024_09_09
+2024-09-23,2024-W39,Dry Bulk,Supramax,1y T/C Rate,16200.0,xclusiv_2024_xclusiv-2024_09_23
+2024-09-23,2024-W39,Tanker,Suezmax,1y T/C Rate,44500.0,xclusiv_2024_xclusiv-2024_09_23
+2024-09-30,2024-W40,Tanker,Suezmax,1y T/C Rate,44500.0,xclusiv_2024_xclusiv-2024_09_30
+2024-09-30,2024-W40,Clean Products,MR2,1y T/C Rate,29500.0,xclusiv_2024_xclusiv-2024_09_30
+2024-10-07,2024-W41,Clean Products,MR2,1y T/C Rate,29000.0,xclusiv_2024_xclusiv-2024_10_07
+2024-10-14,2024-W42,Clean Products,MR2,1y T/C Rate,29000.0,xclusiv_2024_xclusiv-2024_10_14
+2024-10-21,2024-W43,Dry Bulk,Supramax,1y T/C Rate,16200.0,xclusiv_2024_xclusiv-2024_10_21
+2024-10-29,2024-W44,Dry Bulk,Capesize,C5TC Average,15395.0,xclusiv_2024_xclusiv-2024_10_29
+2024-11-04,2024-W45,Clean Products,MR2,1y T/C Rate,27250.0,xclusiv_2024_xclusiv-2024_11_04
+2024-11-11,2024-W46,Clean Products,MR2,1y T/C Rate,24750.0,xclusiv_2024_xclusiv-2024_11_11
+2024-12-02,2024-W49,Dry Bulk,Supramax,1y T/C Rate,13950.0,xclusiv_2024_xclusiv-2024_12_02-1
+2024-12-09,2024-W50,Clean Products,LR2,1y T/C Rate,24000.0,xclusiv_2024_xclusiv-2024_12_09
+2024-12-09,2024-W50,Clean Products,MR2,1y T/C Rate,24000.0,xclusiv_2024_xclusiv-2024_12_09
+2024-12-16,2024-W51,Dry Bulk,Supramax,1y T/C Rate,13450.0,xclusiv_2024_xclusiv-2024_12_16_compressed
+2024-12-23,2024-W52,Dry Bulk,Supramax,1y T/C Rate,13200.0,xclusiv_2024_xclusiv-2024_12_23
+2025-01-13,2025-W03,Dry Bulk,Supramax,1y T/C Rate,13200.0,xclusiv_2025_xclusiv-2025_01_13
+2025-01-20,2025-W04,Dry Bulk,Panamax,1y T/C Rate,13000.0,xclusiv_2025_xclusiv-2025_01_20
+2025-01-20,2025-W04,Clean Products,MR2,1y T/C Rate,22750.0,xclusiv_2025_xclusiv-2025_01_20
+2025-01-27,2025-W05,Clean Products,LR2,1y T/C Rate,22250.0,xclusiv_2025_xclusiv-2025_01_27
+2025-01-27,2025-W05,Clean Products,MR2,1y T/C Rate,22250.0,xclusiv_2025_xclusiv-2025_01_27
+2025-02-03,2025-W06,Tanker,Suezmax,1y T/C Rate,500.0,xclusiv_2025_xclusiv-2025_02_03
+2025-02-03,2025-W06,Clean Products,MR2,1y T/C Rate,21500.0,xclusiv_2025_xclusiv-2025_02_03
+2025-02-10,2025-W07,Clean Products,LR2,1y T/C Rate,31250.0,xclusiv_2025_xclusiv-2025_02_10
+2025-02-17,2025-W08,Dry Bulk,Supramax,1y T/C Rate,13200.0,xclusiv_2025_xclusiv-2025_02_17
+2025-02-24,2025-W09,Clean Products,MR2,1y T/C Rate,22000.0,xclusiv_2025_xclusiv-2025_02_24
+2025-03-04,2025-W10,Dry Bulk,Supramax,10TC Average,15871.0,xclusiv_2025_xclusiv-2025_03_04
+2025-03-04,2025-W10,Clean Products,MR2,1y T/C Rate,22000.0,xclusiv_2025_xclusiv-2025_03_04
+2025-03-10,2025-W11,Dry Bulk,Supramax,10TC Average,15876.0,xclusiv_2025_xclusiv-2025_03_10
+2025-03-17,2025-W12,Dry Bulk,Supramax,10TC Average,15881.0,xclusiv_2025_xclusiv-2025_03_17
+2025-03-24,2025-W13,Dry Bulk,Supramax,10TC Average,15886.0,xclusiv_2025_xclusiv-2025_03_24
+2025-03-24,2025-W13,Tanker,Suezmax,1y T/C Rate,250.0,xclusiv_2025_xclusiv-2025_03_24
+2025-03-24,2025-W13,Clean Products,LR2,1y T/C Rate,21375.0,xclusiv_2025_xclusiv-2025_03_24
+2025-03-24,2025-W13,Clean Products,MR2,1y T/C Rate,21375.0,xclusiv_2025_xclusiv-2025_03_24
+2025-03-31,2025-W14,Dry Bulk,Supramax,10TC Average,15886.0,xclusiv_2025_xclusiv-2025_03_31
+2025-03-31,2025-W14,Clean Products,MR2,1y T/C Rate,21375.0,xclusiv_2025_xclusiv-2025_03_31
+2025-04-07,2025-W15,Dry Bulk,Supramax,10TC Average,15891.0,xclusiv_2025_xclusiv-2025_04_07_compressed
+2025-04-07,2025-W15,Clean Products,MR2,1y T/C Rate,21375.0,xclusiv_2025_xclusiv-2025_04_07_compressed
+2025-04-14,2025-W16,Clean Products,LR2,1y T/C Rate,31000.0,xclusiv_2025_xclusiv-2025_04_14
+2025-04-28,2025-W18,Dry Bulk,Handysize,7TC Average,10219.0,xclusiv_2025_xclusiv-2025_04_28_compressed
+2025-04-28,2025-W18,Clean Products,MR2,1y T/C Rate,21375.0,xclusiv_2025_xclusiv-2025_04_28_compressed
+2025-05-05,2025-W19,Dry Bulk,Handysize,7TC Average,10219.0,xclusiv_2025_xclusiv-2025_05_05_compressed
+2025-05-05,2025-W19,Clean Products,MR2,1y T/C Rate,21375.0,xclusiv_2025_xclusiv-2025_05_05_compressed
+2025-05-12,2025-W20,Clean Products,LR2,1y T/C Rate,31000.0,xclusiv_2025_xclusiv-2025_05_12
+2025-05-12,2025-W20,Clean Products,MR2,1y T/C Rate,21125.0,xclusiv_2025_xclusiv-2025_05_12
+2025-05-19,2025-W21,Clean Products,LR2,1y T/C Rate,31000.0,xclusiv_2025_xclusiv-2025_05_19_compressed
+2025-05-19,2025-W21,Clean Products,MR2,1y T/C Rate,21375.0,xclusiv_2025_xclusiv-2025_05_19_compressed
+2025-05-26,2025-W22,Clean Products,LR2,1y T/C Rate,31000.0,xclusiv_2025_xclusiv-2025_05_26_compressed
+2025-05-26,2025-W22,Clean Products,MR2,1y T/C Rate,21375.0,xclusiv_2025_xclusiv-2025_05_26_compressed
+2025-06-02,2025-W23,Clean Products,LR2,1y T/C Rate,31000.0,xclusiv_2025_xclusiv-2025_06_02_compressed
+2025-06-02,2025-W23,Clean Products,MR2,1y T/C Rate,21375.0,xclusiv_2025_xclusiv-2025_06_02_compressed
+2025-06-10,2025-W24,Dry Bulk,Handysize,7TC Average,10802.0,xclusiv_2025_xclusiv-2025_06_10-1
+2025-06-10,2025-W24,Clean Products,LR2,1y T/C Rate,31000.0,xclusiv_2025_xclusiv-2025_06_10-1
+2025-06-10,2025-W24,Clean Products,MR2,1y T/C Rate,21375.0,xclusiv_2025_xclusiv-2025_06_10-1
+2025-06-16,2025-W25,Clean Products,LR2,1y T/C Rate,31250.0,xclusiv_2025_xclusiv-2025_06_16
+2025-06-16,2025-W25,Clean Products,MR2,1y T/C Rate,20500.0,xclusiv_2025_xclusiv-2025_06_16
+2025-06-23,2025-W26,Clean Products,MR2,1y T/C Rate,20500.0,xclusiv_2025_xclusiv-2025_06_23
+2025-06-30,2025-W27,Clean Products,MR2,1y T/C Rate,21000.0,xclusiv_2025_xclusiv-2025_06_30
+2025-07-07,2025-W28,Dry Bulk,Handysize,7TC Average,11390.0,xclusiv_2025_xclusiv-2025_07_07
+2025-07-07,2025-W28,Clean Products,LR2,1y T/C Rate,33500.0,xclusiv_2025_xclusiv-2025_07_07
+2025-07-07,2025-W28,Clean Products,MR2,1y T/C Rate,21000.0,xclusiv_2025_xclusiv-2025_07_07
+2025-07-14,2025-W29,Clean Products,LR2,1y T/C Rate,32500.0,xclusiv_2025_xclusiv-2025_07_14
+2025-07-14,2025-W29,Clean Products,MR2,1y T/C Rate,20750.0,xclusiv_2025_xclusiv-2025_07_14
+2025-07-21,2025-W30,Clean Products,LR2,1y T/C Rate,32500.0,xclusiv_2025_xclusiv-2025_07_21
+2025-07-21,2025-W30,Clean Products,MR2,1y T/C Rate,20750.0,xclusiv_2025_xclusiv-2025_07_21
+2025-07-28,2025-W31,Clean Products,MR2,1y T/C Rate,20750.0,xclusiv_2025_xclusiv-2025_07_28
+2025-08-04,2025-W32,Dry Bulk,Supramax,1y T/C Rate,13950.0,xclusiv_2025_xclusiv-2025_08_04
+2025-08-04,2025-W32,Clean Products,MR2,1y T/C Rate,20875.0,xclusiv_2025_xclusiv-2025_08_04
+2025-08-11,2025-W33,Dry Bulk,Supramax,1y T/C Rate,13950.0,xclusiv_2025_xclusiv-2025_08_11
+2025-08-18,2025-W34,Tanker,VLCC,1y T/C Rate,46000.0,xclusiv_2025_xclusiv-2025_08_18
+2025-08-25,2025-W35,Dry Bulk,Handysize,7TC Average,13054.0,xclusiv_2025_xclusiv-2025_08_25
+2025-08-25,2025-W35,Clean Products,LR2,1y T/C Rate,32750.0,xclusiv_2025_xclusiv-2025_08_25
+2025-09-01,2025-W36,Clean Products,LR2,1y T/C Rate,32750.0,xclusiv_2025_xclusiv-2025_09_01
+2025-09-08,2025-W37,Tanker,Suezmax,1y T/C Rate,1750.0,xclusiv_2025_xclusiv-2025_09_08
+2025-09-08,2025-W37,Clean Products,LR2,1y T/C Rate,32750.0,xclusiv_2025_xclusiv-2025_09_08
+2025-11-17,2025-W47,Dry Bulk,Panamax,P5TC Average,17071.0,xclusiv_2025_xclusiv-2025_11_17-1
+2025-11-17,2025-W47,Dry Bulk,Handysize,7TC Average,14745.0,xclusiv_2025_xclusiv-2025_11_17-1
+2025-11-24,2025-W48,Dry Bulk,Panamax,P5TC Average,17354.0,xclusiv_2025_xclusiv-2025_11_24
+2025-12-01,2025-W49,Dry Bulk,Panamax,P5TC Average,17566.0,xclusiv_2025_xclusiv-2025_12_01
+2025-12-08,2025-W50,Dry Bulk,Panamax,P5TC Average,16530.0,xclusiv_2025_xclusiv-2025_12_08
+2025-12-15,2025-W51,Dry Bulk,Panamax,P5TC Average,15194.0,xclusiv_2025_xclusiv-2025_12_15
+2025-12-22,2025-W52,Dry Bulk,Panamax,P5TC Average,11908.0,xclusiv_2025_xclusiv-2025_12_22
+2026-01-05,2026-W02,Dry Bulk,Panamax,P5TC Average,11536.0,xclusiv_2026_xclusiv-2026_01_05
+2026-01-12,2026-W03,Dry Bulk,Panamax,P5TC Average,12108.0,xclusiv_2026_xclusiv-2026_01_12
+2026-01-19,2026-W04,Dry Bulk,Panamax,P5TC Average,13120.0,xclusiv_2026_xclusiv-2026_01_19

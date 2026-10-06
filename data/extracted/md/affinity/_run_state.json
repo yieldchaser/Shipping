@@ -1,0 +1,2291 @@
+{
+  "done": {
+    "affinity_2021_Affinity-Tanker-Weekly-01.10.2021-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2021_Affinity-Tanker-Weekly-02.07.2021-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2021_Affinity-Tanker-Weekly-03.09.2021-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2021_Affinity-Tanker-Weekly-03.12.2021-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2021_Affinity-Tanker-Weekly-05.11.2021-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 37,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2021_Affinity-Tanker-Weekly-06.08.2021-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2021_Affinity-Tanker-Weekly-08.10.2021-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2021_Affinity-Tanker-Weekly-09.07.2021-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2021_Affinity-Tanker-Weekly-10.09.2021-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2021_Affinity-Tanker-Weekly-10.12.2021-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2021_Affinity-Tanker-Weekly-12.11.2021-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2021_Affinity-Tanker-Weekly-13.08.2021-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2021_Affinity-Tanker-Weekly-15.10.2021-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2021_Affinity-Tanker-Weekly-16.07.2021-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2021_Affinity-Tanker-Weekly-17.09.2021-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2021_Affinity-Tanker-Weekly-17.12.2021-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2021_Affinity-Tanker-Weekly-19.11.2021-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2021_Affinity-Tanker-Weekly-20.08.2021-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2021_Affinity-Tanker-Weekly-22.10.2021-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2021_Affinity-Tanker-Weekly-23.07.2021-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2021_Affinity-Tanker-Weekly-24.09.2021-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2021_Affinity-Tanker-Weekly-24.12.2021-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2021_Affinity-Tanker-Weekly-26.11.2021-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2021_Affinity-Tanker-Weekly-27.08.2021-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2021_Affinity-Tanker-Weekly-29.10.2021-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2021_Affinity-Tanker-Weekly-30.07.2021-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-01.04.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-01.07.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-02.09.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-02.12.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-04.02.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-04.03.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-04.11.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 39,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-05.08.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-06.05.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-07.01.2022-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 39,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-07.10.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-08.04.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-08.07.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-09.09.2022-HSN-1": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-09.12.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-10.06.2022-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-11.02.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-11.03.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-11.11.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-12.08.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-13.05.2022-HSN-1": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-14.01.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-14.10.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-15.07.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-15.09.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-16.12.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-17.06.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-18.02.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-18.03.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-19.08.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-20.05.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-21.01.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-21.10.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-22.04.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-22.07.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-23.09.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-23.12.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-24.06.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-25.02.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-25.03.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-25.11.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-27.05.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-28.01.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-28.10.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 39,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-29.04.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-29.07.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2022_Affinity-Tanker-Weekly-30.09.2022-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-01.09.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 36,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-01.12.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-02.06.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-03.02.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-03.03.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-03.11.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-04.08.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-05.05.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-06.01.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-06.10.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-07.07.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-08.09.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-08.12.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-09.06.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-10.02.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-10.03.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-10.11.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-11.08.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-12.05.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-13.01.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-13.10.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-14.04.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-14.07.2023-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-15.06.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-15.09.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-15.12.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-17.02.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-17.03.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-17.11.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-18.08.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-19.05.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-20.01.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-20.10.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-21.04.2023-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-21.07.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-22.09.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-22.12.2023-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-23.06.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-24.02.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-24.03.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-24.11.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 37,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-25.08.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-26.05.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-27.01.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-27.10.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-28.04.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-28.07.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-29.09.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-30.06.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2023_Affinity-Tanker-Weekly-31.03.2023-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 19,
+      "panel_values": 38,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-01.03.2024-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-01.11.2024-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-02.02.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-02.05.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-02.08.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-04.10.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-05.01.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-05.04.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-05.07.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-06.09.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-06.12.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-07.06.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-08.03.2024-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-08.11.2024-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-09.02.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-09.08.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-10.05.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-11.10.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-12.01.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-12.04.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-12.07.2024-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-13.09.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-13.12.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-14.06.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-15.03.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-15.11.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-16.02.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-16.08.2024-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-17.05.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-18.10.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-19.01.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-19.04.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-19.07.2024-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-20.09.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-20.12.2024-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-21.06.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-22.03.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-22.11.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-23.02.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-23.08.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-24.05.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-25.07.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-25.10.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-26.01.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-26.04.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-27.09.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-28.06.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-29.11.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-30.08.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2024_Affinity-Tanker-Weekly-31.05.2024-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 20,
+      "panel_values": 40,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-01.08.2025-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-02.05.2025-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-03.01.2025-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-03.10.2025-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-04.04.2025-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-04.07.2025-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-07.02.2025-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-07.03.2025-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-07.11.2025-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-08.08.2025-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-09.05.2025-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-10.01.2025-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-10.10.2025-HSN-1": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-11.04.2025-HSN-1": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-11.07.2025-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-12.09.2025-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-12.12.2025-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-13.06.2025-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-14.02.2025-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-14.03.2025-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-15.08.2025-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-16.05.2025-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-17.01.2025-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-18.07.2025-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-19.09.2025-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-19.12.2025-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-20.06.2025-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-21.02.2025-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-21.03.2025-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-22.08.2025-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-23.05.2025-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-24.01.2025-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-25.04.2025-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-25.07.2025-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-26.09.2025-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-28.02.2025-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-28.03.2025-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-28.11.2025-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-29.08.2025-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-30.05.2025-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-31.01.2025-HSN": {
+      "pages": 1,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 0
+    },
+    "affinity_2025_Affinity-Tanker-Weekly-31.10.2025-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_19_09_2026_affinity_tanker_weekly_18_september_2026": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_Affinity-Tanker-Weekly-01.05.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_Affinity-Tanker-Weekly-03.07.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_Affinity-Tanker-Weekly-04.09.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_Affinity-Tanker-Weekly-05.06.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_Affinity-Tanker-Weekly-07.08.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_Affinity-Tanker-Weekly-08.05.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_Affinity-Tanker-Weekly-09.01.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_Affinity-Tanker-Weekly-10.04.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_Affinity-Tanker-Weekly-10.07.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_Affinity-Tanker-Weekly-11.09.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_Affinity-Tanker-Weekly-12.06.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_Affinity-Tanker-Weekly-13.02.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_Affinity-Tanker-Weekly-13.03.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_Affinity-Tanker-Weekly-14.08.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_Affinity-Tanker-Weekly-15.05.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_Affinity-Tanker-Weekly-16.01.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_Affinity-Tanker-Weekly-17.04.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_Affinity-Tanker-Weekly-17.07.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 45,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_Affinity-Tanker-Weekly-18.09.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_Affinity-Tanker-Weekly-19.06.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_Affinity-Tanker-Weekly-20.02.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_Affinity-Tanker-Weekly-20.03.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_Affinity-Tanker-Weekly-21.08.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_Affinity-Tanker-Weekly-22.05.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_Affinity-Tanker-Weekly-23.01.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_Affinity-Tanker-Weekly-24.04.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_Affinity-Tanker-Weekly-25.09.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_Affinity-Tanker-Weekly-26.06.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_Affinity-Tanker-Weekly-27.02.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_Affinity-Tanker-Weekly-27.03.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_Affinity-Tanker-Weekly-28.08.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_Affinity-Tanker-Weekly-29.05.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_nan_Affinity-Tanker-Weekly-04.09.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_nan_Affinity-Tanker-Weekly-07.08.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_nan_Affinity-Tanker-Weekly-14.08.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_nan_Affinity-Tanker-Weekly-21.08.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_2026_nan_Affinity-Tanker-Weekly-28.08.2026-HSN": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    },
+    "affinity_26_09_2026_affinity_tanker_weekly_25_september_2026": {
+      "pages": 2,
+      "cards": 4,
+      "card_rows": 24,
+      "panel_values": 48,
+      "missing": 0,
+      "text_verified": 1.0,
+      "junk_pages": 1
+    }
+  },
+  "failed": {}
+}

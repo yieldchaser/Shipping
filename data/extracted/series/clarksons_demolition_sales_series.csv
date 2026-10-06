@@ -1,0 +1,71 @@
+issue_date,report_week,vessel_name,dwt,built,details,price_usd_per_ldt,price_raw,delivery_location,source_file
+2021-07-09,27,KARUNIA,69235,1993,"9,543 LDT",585.5,USD 585.5 / LDT,,2021-07-09_clarkson-platou-hellas-sp-weekly-bulletin-108_report-09-07-2021_a88266b1b022.pdf
+2021-07-16,28,MR NAUTILUS,43538,1998,"10,650 LDT",570.0,USD 570 / LDT,PAKISTAN,2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109_report-16-07-2021_997233335b40.pdf
+2021-07-30,30,SAGA TIDE,47079,1991,"10,670 LDT",598.0,USD 598 / LDT,INDIA (Green Recycling),2021-07-30_clarkson-platou-hellas-sp-weekly-bulletin-111_report-30-07-2021_2f9789f5d67f.pdf
+2021-08-13,32,JUBILEE STAR,309892,1996,"42,760 LDT",580.0,USD 580 / LDT,AS - IS MALAYSIA,2021-08-13_clarkson-platou-hellas-sp-weekly-bulletin-113_report-13-08-2021_c95b952dce07.pdf
+2021-08-13,32,SEA CORAL,298306,1996,"42,802 LDT",578.0,USD 578 / LDT,AS - IS MALAYSIA,2021-08-13_clarkson-platou-hellas-sp-weekly-bulletin-113_report-13-08-2021_c95b952dce07.pdf
+2021-08-20,33,ANGEL 18 (Chemical tanker),11629,1998,"3,228 LDT",875.0,USD 875 / LDT,INDIA,2021-08-20_clarkson-platou-hellas-sp-weekly-bulletin-114_report-20-08-2021_b6f4c5fb5797.pdf
+2021-08-27,34,GDANSK,63671,1985,"12,842 LDT",495.0,USD 495 - 505 / LDT,"""As Is"" DJIBOUTI",2021-08-27_clarkson-platou-hellas-sp-weekly-bulletin-115_report-27-08-2021_7a47ea7ea567.pdf
+2021-09-03,35,AMAL 1,41574,1987,"7,418 LDT",582.0,USD 582 / LDT (including 300t ROB),PAKISTAN,2021-09-03_clarkson-platou-hellas-sp-weekly-bulletin-116_report-03-09-2021_10d3196bd5bb.pdf
+2021-09-03,35,SEA GLAMOUR,147093,2000,"23,267 LDT",603.0,USD 603 / LDT,BANGLADESH,2021-09-03_clarkson-platou-hellas-sp-weekly-bulletin-116_report-03-09-2021_10d3196bd5bb.pdf
+2021-09-10,36,SHARIFA 4,95416,1995,"16,484 LDT",616.0,USD 616 / LDT,PAKISTAN,2021-09-10_clarkson-platou-hellas-sp-weekly-bulletin-117_report-10-09-2021_dc11cf8881df.pdf
+2021-09-10,36,HAFID,47228,2000,"9,246 LDT",605.0,USD 605 / LDT,PAKISTAN,2021-09-10_clarkson-platou-hellas-sp-weekly-bulletin-117_report-10-09-2021_dc11cf8881df.pdf
+2021-09-10,36,SANMAR STANZA,47110,1999,"9,384 LDT",578.0,USD 578 / LDT,AS-IS COLOMBO,2021-09-10_clarkson-platou-hellas-sp-weekly-bulletin-117_report-10-09-2021_dc11cf8881df.pdf
+2021-09-17,37,ESCAPADE,107181,1998,"16,696 LDT",613.0,USD 613 / LDT,PAKISTAN,2021-09-17_clarkson-platou-hellas-sp-weekly-bulletin-118_report-17-09-2021_e22a785afef4.pdf
+2021-09-17,37,EVER EXUBERANT,17080,1994,"5,989 LDT",605.0,USD 605 / LDT,BANGLADESH,2021-09-17_clarkson-platou-hellas-sp-weekly-bulletin-118_report-17-09-2021_e22a785afef4.pdf
+2021-09-24,38,GEMA,19831,2001,"7,638 LDT",616.0,USD 616 / LDT,PAKISTAN,2021-09-24_clarkson-platou-hellas-sp-weekly-bulletin-119_report-24-09-2021_685d494e71ac.pdf
+2021-10-01,39,EM LONGEVITY,306324,2000,"46,657 LDT",592.0,USD 592 / LDT,BANGLADESH,2021-10-01_clarkson-platou-hellas-sp-weekly-bulletin-120_report-01-10-2021_bac0f93091cc.pdf
+2021-10-01,39,LUCKY DOLPHIN,35750,1996,"7,486 LDT",608.0,USD 608 / LDT,BANGLADESH,2021-10-01_clarkson-platou-hellas-sp-weekly-bulletin-120_report-01-10-2021_bac0f93091cc.pdf
+2021-10-01,39,PHARMONY,10749,1999,"3,193 LDT",855.0,USD 855 / LDT (including high quantity of solid st st content),INDIA,2021-10-01_clarkson-platou-hellas-sp-weekly-bulletin-120_report-01-10-2021_bac0f93091cc.pdf
+2021-10-22,42,SONANGOL LUANDA,159000,2000,"23,191 LDT",615.0,USD 615 / LDT EN BLOC,INDIA,2021-10-22_clarkson-platou-hellas-sp-weekly-bulletin-123_report-22-10-2021_2911eb2266e5.pdf
+2021-10-22,42,SONANGOL GIRASSOL,159000,2000,"23,191 LDT",615.0,USD 615 / LDT EN BLOC,INDIA,2021-10-22_clarkson-platou-hellas-sp-weekly-bulletin-123_report-22-10-2021_2911eb2266e5.pdf
+2021-10-22,42,WALLEYE,70297,2003,"13,907 LDT",627.0,USD 627 / LDT,INDIA,2021-10-22_clarkson-platou-hellas-sp-weekly-bulletin-123_report-22-10-2021_2911eb2266e5.pdf
+2021-10-22,42,MUSKIE,70297,2003,"13,848 LDT",620.0,USD 620 / LDT,INDIA,2021-10-22_clarkson-platou-hellas-sp-weekly-bulletin-123_report-22-10-2021_2911eb2266e5.pdf
+2021-10-22,42,CHEMICAL PIONEER,35489,1968,"12,269 LDT",515.0,USD 515 / LDT (including abt 308 tons stst and abt 110 tons cladded),"""AS-IS"" USA",2021-10-22_clarkson-platou-hellas-sp-weekly-bulletin-123_report-22-10-2021_2911eb2266e5.pdf
+2021-11-12,45,OMAN PRIDE,300959,1998,"38,959 LDT",527.0,USD 527 / LDT,"""As-Is"" OMAN",2021-11-12_clarkson-platou-hellas-sp-weekly-bulletin-126_report-12-11-2021_19f50837725b.pdf
+2021-11-12,45,BERGE KANGCHENJUNGA,263237,1994,"38,989 LDT",630.0,USD 630 / LDT,"""As-Is"" SINGAPORE",2021-11-12_clarkson-platou-hellas-sp-weekly-bulletin-126_report-12-11-2021_19f50837725b.pdf
+2021-11-19,46,BANYAN PRIDE,37808,2002,"9,508 LDT",595.0,USD 595 / LDT (HKC Green recycling),"""As-Is"" INDIA",2021-11-19_clarkson-platou-hellas-sp-weekly-bulletin-127_report-19-11-2021_0b64ae6557af.pdf
+2021-11-19,46,D\&K 1,47262,1998,"9,276 LDT",640.0,USD 640 / LDT,"""As-Is"" COLOMBO",2021-11-19_clarkson-platou-hellas-sp-weekly-bulletin-127_report-19-11-2021_0b64ae6557af.pdf
+2021-11-26,47,JACOB,157499,2000,"22,572 LDT",603.0,USD 603 / LDT,"""As-Is"" BATAM",2021-11-26_clarkson-platou-hellas-sp-weekly-bulletin-128_report-26-11-2021_abfc968835c9.pdf
+2021-11-26,47,QUEEN EMATHA,13937,1989,"3,802 LDT",615.0,USD 615 / LDT,PAKISTAN,2021-11-26_clarkson-platou-hellas-sp-weekly-bulletin-128_report-26-11-2021_abfc968835c9.pdf
+2021-12-10,49,OCEAN RUBY,153152,1997,"22,029 LDT",599.0,USD 599 / LDT,BANGLADESH,2021-12-10_clarkson-platou-hellas-sp-weekly-bulletin-130_report-10-12-2021_04096d02777b.pdf
+2021-12-24,51,QUBAA,106681,1998,"16,688 LDT",615.0,USD 615 / LDT,PAKISTAN,2021-12-24_clarksons-platou-hellas-snp-weekly-bulletin-2_report-24-12-2021_e3fa7387bb9d.pdf
+2022-01-14,2,PROPSERITY,19481,1997,"5,314 LDT (Including abt 515 tons stst and abt 160 tons cladded)",930.0,USD 930 / LDT,INDIA,2022-01-14_clarksons-platou-hellas-snp-weekly-bulletin-4_report-14-01-2022_c9c757c0d170.pdf
+2022-01-14,2,EXPRESS,8821,1999,"2,999 LDT (Including abt 235 tons stst and abt 97 tons cladded)",830.0,USD 830 / LDT,INDIA,2022-01-14_clarksons-platou-hellas-snp-weekly-bulletin-4_report-14-01-2022_c9c757c0d170.pdf
+2022-02-04,5,BULL PAPUA,106681,1999,"15,681 LDT",650.0,USD 650 / LDT,INDIA – SUB CONT RANGE,2022-02-04_clarksons-platou-hellas-snp-weekly-bulletin-7_report-04-02-2022_e6f67eaa580f.pdf
+2022-02-04,5,HIPPO,46092,1997,"12,141 LDT",642.0,USD 642 / LDT,BANGLADESH,2022-02-04_clarksons-platou-hellas-snp-weekly-bulletin-7_report-04-02-2022_e6f67eaa580f.pdf
+2022-02-11,6,NEW INSPIRATION,298399,2002,"39,04 LDT",660.0,USD 660 / LDT,PAKISTAN (OR BANGLADESH BASIS PRICE 665 / LDT),2022-02-11_clarksons-platou-hellas-snp-weekly-bulletin-8_report-11-02-2022_62f4ca4b1bda.pdf
+2022-02-11,6,PETROGARUDA,112045,2003,"19,106 LDT",650.0,USD 650 / LDT,BANGLADESH,2022-02-11_clarksons-platou-hellas-snp-weekly-bulletin-8_report-11-02-2022_62f4ca4b1bda.pdf
+2022-02-11,6,AL SALAM,47065,2001,"9,409 LDT",661.0,USD 661 / LDT (650t rob included),PAKISTAN,2022-02-11_clarksons-platou-hellas-snp-weekly-bulletin-8_report-11-02-2022_62f4ca4b1bda.pdf
+2022-02-11,6,THURAYA,46724,1999,"11,916 LDT",655.0,USD 655 / LDT,PAKISTAN,2022-02-11_clarksons-platou-hellas-snp-weekly-bulletin-8_report-11-02-2022_62f4ca4b1bda.pdf
+2022-02-11,6,ARISTOS,46678,2004,"10,534 LDT",675.0,USD 675 / LDT,BANGLADESH,2022-02-11_clarksons-platou-hellas-snp-weekly-bulletin-8_report-11-02-2022_62f4ca4b1bda.pdf
+2022-02-18,7,CAPE ENTERPRISE,185909,2003,"22,043 LDT",650.0,"USD 650 / LDT (Includes 1,000 tons rob)",INDIA (Green Recycling),2022-02-18_clarksons-platou-hellas-snp-weekly-bulletin-9_report-18-02-2022_95be0b661ee7.pdf
+2022-02-18,7,NUSA MERDEKA,104875,2003,"17,297 LDT",670.0,USD 670 / LDT,BANGLADESH,2022-02-18_clarksons-platou-hellas-snp-weekly-bulletin-9_report-18-02-2022_95be0b661ee7.pdf
+2022-02-18,7,BULL DAMAI 1,111928,2004,"19,132 LDT",670.0,USD 670 / LDT,BANGLADESH,2022-02-18_clarksons-platou-hellas-snp-weekly-bulletin-9_report-18-02-2022_95be0b661ee7.pdf
+2022-02-25,8,HARMONY,35966,1999,"8,356 LDT",650.0,USD 650 / LDT (200mt IFO and 40mt MGO included),"""As-Is"" COLOMBO",2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf
+2022-03-04,9,BERGE ARCTIC,174284,2001,"27,028 LDT",660.0,USD 660 / LDT,INDIA (HKC recycling),2022-03-04_clarksons-platou-hellas-snp-weekly-bulletin-11_report-04-03-2022_0321bec0e209.pdf
+2022-03-04,9,STAR I,105816,2001,"17,586 LDT",650.0,USD 650 / LDT,PAKISTAN,2022-03-04_clarksons-platou-hellas-snp-weekly-bulletin-11_report-04-03-2022_0321bec0e209.pdf
+2022-03-18,11,CAPE SUN,171746,1999,"22,396 LDT",660.0,USD 660 / LDT,"""As - Is"" VIETNAM",2022-03-18_clarksons-platou-hellas-snp-weekly-bulletin-13_report-18-03-2022_61857c23cc73.pdf
+2022-04-01,13,SCF URAL,159313,2002,"23,303 LDT",674.0,USD 674 / LDT,BANGLADESH,2022-04-01_clarkson-platou-hellas-sp-weekly-bulletin-133_report-01-04-2022_daa56db7c6e0.pdf
+2022-04-08,14,SUNBEAM,171199,2000,"21,018",715.0,USD 715 / LDT,PAKISTAN,2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf
+2022-04-15,15,DEBO,36962,2002,"9,879 LDT",720.0,USD 720 / LDT,U/D,2022-04-15_clarksons-platou-hellas-snp-weekly-bulletin-14_report-15-04-2022_72ae8847975f.pdf
+2022-04-22,16,KEOYANG ORIENT,149322,1997,"18,138 LDT",650.0,USD 650 / LDT (Green Recycling),"""As Is"" HADONG",2022-04-22_clarksons-platou-hellas-snp-weekly-bulletin-15_report-23-04-2022_59c9d2476238.pdf
+2022-05-20,20,MASCOT 8,107261,1998,"16,616 LDT",650.0,USD 650/LDT,BANGLADESH,2022-05-20_clarksons-platou-hellas-snp-weekly-bulletin-19_report-20-05-2022_e904850f9f57.pdf
+2022-08-12,32,CAPTAIN VENIAMIS,171180,2001,"23,118 LDT",550.0,550 USD/LDT,Singapore,2022-08-12_clarksons-platou-hellas-snp-weekly-bulletin-31_report-12-08-22_bd3e711833dc.pdf
+2022-08-26,34,URANUS,299157,2002,"39,825 LDT",610.0,USD 610/LDT,Full range Indian sub-continent during October,2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d.pdf
+2022-09-30,39,SAMC INTEGRITY,175775,2002,"24,181 LDT",579.0,USD 579/LDT,'as is' Singapore,2022-09-30_clarksons-platou-hellas-snp-weekly-bulletin-38_report-30-09-2022_c7ff7721f840.pdf
+2022-09-30,39,SHUN FU,70424,1990,"10,672 LDT",615.0,USD 615/LDT,Bangladesh during December,2022-09-30_clarksons-platou-hellas-snp-weekly-bulletin-38_report-30-09-2022_c7ff7721f840.pdf
+2023-02-03,5,SAMC RESPONSIBILITY,175775,2003,"24,181 LDT",520.0,RGN USD 520/LDT,'as is' Singapore,2023-02-03_clarksons-platou-hellas-snp-weekly-bulletin-55_report-03-02-2023_8fca4a6a32b0.pdf
+2023-02-10,6,"CV ""MSC FLORIANA""",31205,1986,"8,774 LDT",525.0,USD 525/LDT,INDIA,2023-02-10_clarksons-platou-hellas-snp-weekly-bulletin-56_report-10-02-2023_ec9e0ce4d0c3.pdf
+2023-02-24,8,DA QING 439,37603,1999,"9,827 LDT",500.0,USD 500/LDT,'as is' Nanjing,2023-02-24_clarksons-platou-hellas-snp-weekly-bulletin-58_report-24-02-2023_3adbc946b8ef.pdf
+2023-03-03,9,SUNLIGHT,172572,2000,"21,215 LDT",575.0,USD 575/LDT,'as is' Singapore,2023-03-03_clarksons-platou-hellas-snp-weekly-bulletin-59_report-03-03-2023_4888b2cbcdd6.pdf
+2023-03-17,11,SUNNY VOYAGER,171509,2001,"22,686 LDT",610.0,USD 610/LDT,Bangladesh,2023-03-17_clarksons-platou-hellas-snp-weekly-bulletin-61_report-17-03-2023_2e412a92a01f.pdf
+2023-03-31,13,(CV) MSC VERONIQUE,60639,1989,"23,450 LDT",550.0,USD 550/LDT,India for HKC recycling,2023-03-31_clarksons-platou-hellas-snp-weekly-bulletin-63_report-31-03-2023_0143f59ee068.pdf
+2023-05-12,19,"CV ""EVER DIADEM""",55604,1998,"21,387 LDT",514.0,USD 514/LDT,'as is' Singapore,2023-05-12_clarksons-platou-hellas-snp-weekly-bulletin-69_report-12-05-2023_c4a42e611d08.pdf
+2023-07-24,30,HENG YANG,8143,1994,"3,535 LDT",930.0,930/LT,'AS IS' INDONESIA,2023-07-24_clarksons-platou-hellas-snp-weekly-bulletin-80_report-21-07-2023-1_cebb0332bb75.pdf
+2023-07-28,30,ZHENG HAO,73048,1997,"10,607 LDT",495.0,495/LDT,'AS IS' CHINA,2023-07-28_clarksons-platou-hellas-snp-weekly-bulletin-81_report-28-07-23_4ebb2ad1d8f6.pdf
+2023-07-28,30,ZHENG JIE,73409,1997,"10,607 LDT",495.0,495/LDT,'AS IS' CHINA,2023-07-28_clarksons-platou-hellas-snp-weekly-bulletin-81_report-28-07-23_4ebb2ad1d8f6.pdf
+2023-11-17,46,CV XIN FENG GUANG ZHOU,33523,1994,8.895 LDT,485.0,USD 485/LT,"""AS IS"" CHINA",2023-11-17_clarksons-platou-hellas-snp-weekly-bulletin-96_report-17-11-2023_cb68109e5720.pdf
+2023-11-24,47,NEPTUNE STAR,25398,1996,"5,471 LDT",515.0,USD 515/LDT,INDIA,2023-11-24_clarksons-platou-hellas-snp-weekly-bulletin-97_report-24-11-2023_4615fb338a76.pdf
+2023-11-24,47,DAYTONA DYNAMIC,27877,1990,"6,058 LDT",510.0,USD 510/LDT,INDIA,2023-11-24_clarksons-platou-hellas-snp-weekly-bulletin-97_report-24-11-2023_4615fb338a76.pdf
+2024-02-09,6,BROTHER GLORY,70529,1998,"9,200",530.0,530/LDT,BANGLADESH,2024-02-09_clarksons-platou-hellas-snp-weekly-bulletin-105_weekly-report-090224-fn_cab02cf47631.pdf

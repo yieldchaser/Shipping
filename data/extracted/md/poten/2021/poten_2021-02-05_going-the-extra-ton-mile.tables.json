@@ -1,0 +1,60 @@
+{
+  "issue_date": "2021-02-05",
+  "year": 2021,
+  "title": "Going The Extra Ton Mile",
+  "source_file": "corpus/04-poten/pdfs/2021/Weekly-Opinion-5-February-2021-Going-The-Extra-Ton-Mile.pdf",
+  "tables_count": 1,
+  "charts_count": 0,
+  "charts": [],
+  "tables": [
+    "| Rank | Charterer | Reported Total Cargo (MT 000s) | % of Total Dirty Cargoes | Prev Rank | Fixtures |\n| --- | --- | --- | --- | --- | --- |\n| 1 | 7,265 | 7,125 | 7% | 2 |  |\n| 2 | 2,136 | 2,554 | 7% | 3 |  |\n| 3 | 1,431 | 1,527 | 5% |  |  |"
+  ],
+  "charterers_count": 3,
+  "charterer_rows": [
+    {
+      "rank": 1,
+      "charterer": "7,265",
+      "cargo_mt_000s": "7,125",
+      "pct_total_cargo": "7%",
+      "fixtures_count": "",
+      "pct_fixtures": "",
+      "prev_rank": "2",
+      "issue_date": "2021-02-05",
+      "year": 2021,
+      "report_period": "2020",
+      "segment": "Overall",
+      "source_file": "corpus/04-poten/pdfs/2021/Weekly-Opinion-5-February-2021-Going-The-Extra-Ton-Mile.pdf"
+    },
+    {
+      "rank": 2,
+      "charterer": "2,136",
+      "cargo_mt_000s": "2,554",
+      "pct_total_cargo": "7%",
+      "fixtures_count": "",
+      "pct_fixtures": "",
+      "prev_rank": "3",
+      "issue_date": "2021-02-05",
+      "year": 2021,
+      "report_period": "2020",
+      "segment": "Overall",
+      "source_file": "corpus/04-poten/pdfs/2021/Weekly-Opinion-5-February-2021-Going-The-Extra-Ton-Mile.pdf"
+    },
+    {
+      "rank": 3,
+      "charterer": "1,431",
+      "cargo_mt_000s": "1,527",
+      "pct_total_cargo": "5%",
+      "fixtures_count": "",
+      "pct_fixtures": "",
+      "prev_rank": "",
+      "issue_date": "2021-02-05",
+      "year": 2021,
+      "report_period": "2020",
+      "segment": "Overall",
+      "source_file": "corpus/04-poten/pdfs/2021/Weekly-Opinion-5-February-2021-Going-The-Extra-Ton-Mile.pdf"
+    }
+  ],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

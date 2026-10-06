@@ -1,0 +1,34 @@
+{
+  "issue_date": "2021-10-29",
+  "year": 2021,
+  "title": "Back in Control",
+  "source_file": "corpus/04-poten/pdfs/2021/Weekly-Opinion-29-Oct-2021-Back-in-Control.pdf",
+  "tables_count": 0,
+  "charts_count": 2,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2021-10-29_back-in-control_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2021/poten_2021-10-29_back-in-control_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-10-29_back-in-control_chart1.png",
+      "width": 963,
+      "height": 549
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2021-10-29_back-in-control_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2021/poten_2021-10-29_back-in-control_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-10-29_back-in-control_chart2.png",
+      "width": 963,
+      "height": 531
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

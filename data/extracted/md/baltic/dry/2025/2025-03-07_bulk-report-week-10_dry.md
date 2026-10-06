@@ -1,0 +1,43 @@
+---
+title: "Bulk Report – Week 10"
+date: "2025-03-07"
+display_date: "07 March 2025"
+year: 2025
+week: 10
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2025/bulk-report-week-10.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 658
+sections_count: 4
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2025/2025-03-07_bulk-report-week-10_dry.html"
+---
+
+# Bulk Report – Week 10
+
+**Date:** 07 March 2025  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2025/bulk-report-week-10.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2025/bulk-report-week-10.html)  
+
+---
+
+### Capesize
+
+The Capesize market started the week strong, carrying last week’s momentum forward. Rates in the Pacific surged past $10.00 on C5, creating a notable premium over C3 in the Atlantic. However, despite all three major miners being active in the pacific by midweek, C5 dipped below $10 before rebounding slightly toward the week's end. Meanwhile, the South Atlantic steadily gained ground. Early April cargo demand from South Brazil and West Africa to China remained strong, supported by a tightening of vessels in ballast, driving C3 rates toward $23.00, considerably closing the gap between C5. The North Atlantic saw moderate activity throughout the week, with tightening tonnage lending support to rates. Overall, despite some midweek volatility, the market ended on a positive note. The BCI 5TC rose by $2,817 on the day and gained $3,660 over the week to close at $20,084.
+
+### Panamax
+
+Despite healthy activity, the Panamax sector continued on its turbulent path this week. Some talk mid-week of a floor being reached in both basins, which could be argued is premature. However, we do end the week with rates mostly broadside. The Atlantic witnessed marginally better volume spread across the various usual trading routes, but rates and sentiment failed to improve with the tonnage/demand spread still weighing heavily on the former. A softening week in Asia as the week developed, nothing drastic but rates slowly eroded away as some ships were able to find cover at close to last done however rates eased as we hit the weekend. $12,500 achieved early part on an 82,000-dwt delivery Japan for a NoPac trip, however rates now akin closer to $10,500 levels. Period news included an 82,000-dwt delivery China achieving $14,000 basis 1 year period, whilst a scrubber fitted 82,000-dwt type delivery China agreeing to $14,750 basis 5/7 months.
+
+### Ultramax/Supramax
+
+A rather mixed week for the sector. Overall, the Atlantic was described as positional. Whilst demand was seen from the Continent-Mediterranean, rates generally remained rather flat. Downward pressure was seen from the US Gulf a 63,000-dwt fixing a trip to India with petcoke at $17,000. From South America again it was seen a fairly balanced with a 61,000-dwt fixing in the upper $12,000s plus upper $200,000s ballast bonus. From Asia, with the uncertainty of the Indonesian coal pricing, this led to a rather subdued market and limited action reported. From the north, demand remained again rates generally remaining flat a 63,000-dwt fixing delivery Japan for a NoPac round at $12,500. A 63,000-dwt was also heard fixing in the $14,000 for a steels run from China to the Arabian Gulf. Better demand was seen from the Indian Ocean, a 64,000-dwt fixing delivery Port Elizabeth trip China at $15,500 plus $155,000 ballast bonus. Period activity was limited but a 63,000 open Vietnam was heard fixed for 3 years at $13,750.
+
+### Handysize
+
+This week, the market showed a mixed performance, with modest movements observed across both basins. Sentiment in the Continent and Mediterranean regions appeared generally weak, with rates drifting slightly below previous levels. For instance, a 37,000-dwt reported fixed delivery Otranto redelivery North Coast South America at $7,000. Meanwhile, in the South Atlantic, there was limited new inquiries for prompt vessels, which led to downward pressure on bids. A 38,000-dwt open Itaquai Mar 5 fixed delivery Recalada redelivery South Africa at $14,000. On the other hand, the U.S. Gulf market remained subdued and showing signs of weakening support. A 37,000-dwt fixed delivery Dominican Republic and redelivery US East Coast at $8,500. In contrast, the market in Asia remained positive, as the cargo book displayed healthy volumes. A 37,000-dwt reported fixed a trip to redelivery Japan at $11,000.
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  

@@ -1,0 +1,34 @@
+{
+  "issue_date": "2024-05-31",
+  "year": 2024,
+  "title": "Between A Rock And A Hard Place",
+  "source_file": "corpus/04-poten/pdfs/2024/Weekly Opinion - 31 May 2024 - Between A Rock And A Hard Place.pdf",
+  "tables_count": 0,
+  "charts_count": 2,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2024-05-31_between-a-rock-and-a-hard-place_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2024/poten_2024-05-31_between-a-rock-and-a-hard-place_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-05-31_between-a-rock-and-a-hard-place_chart1.png",
+      "width": 980,
+      "height": 544
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2024-05-31_between-a-rock-and-a-hard-place_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2024/poten_2024-05-31_between-a-rock-and-a-hard-place_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-05-31_between-a-rock-and-a-hard-place_chart2.png",
+      "width": 980,
+      "height": 544
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

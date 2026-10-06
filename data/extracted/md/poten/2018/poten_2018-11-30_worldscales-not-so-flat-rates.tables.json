@@ -1,0 +1,25 @@
+{
+  "issue_date": "2018-11-30",
+  "year": 2018,
+  "title": "Worldscales Not So Flat Rates",
+  "source_file": "corpus/04-poten/pdfs/2018/Weekly-Opinion-30-November-2018-Worldscales-Not-So-Flat-Rates.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2018-11-30_worldscales-not-so-flat-rates_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2018/poten_2018-11-30_worldscales-not-so-flat-rates_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-11-30_worldscales-not-so-flat-rates_chart1.png",
+      "width": 944,
+      "height": 620
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

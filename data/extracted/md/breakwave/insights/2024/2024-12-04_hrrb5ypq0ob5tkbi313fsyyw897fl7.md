@@ -1,0 +1,53 @@
+---
+title: "Developments and dynamics of the Chinese shipbuilding sector"
+date: "2024-12-04"
+display_date: "December 04, 2024"
+year: 2024
+category: "insights"
+source: "Breakwave Advisors"
+url: "https://www.breakwaveadvisors.com/insights/2024/12/4/hrrb5ypq0ob5tkbi313fsyyw897fl7"
+tags: ["Shipping", "Markets", "Tankers"]
+images_count: 2
+word_count: 698
+source_file: "corpus/03-breakwave/insights/2024/2024-12-04_hrrb5ypq0ob5tkbi313fsyyw897fl7.html"
+---
+
+# Developments and dynamics of the Chinese shipbuilding sector
+
+**Date:** December 04, 2024  
+**Publisher:** Breakwave Advisors | **Category:** Market Insights  
+**Original URL:** [https://www.breakwaveadvisors.com/insights/2024/12/4/hrrb5ypq0ob5tkbi313fsyyw897fl7](https://www.breakwaveadvisors.com/insights/2024/12/4/hrrb5ypq0ob5tkbi313fsyyw897fl7)  
+
+---
+
+*By*[*Nikolaos Tagoulis*](https://www.linkedin.com/in/nikolaos-tagoulis-9317252a/)
+
+Following the recent reactivation of Jiangsu Rongsheng Heavy Industries to fulfil a substantial order from MSC for eight 12,000 TEU container vessels, it is worth to take a closer look at the developments and dynamics of the Chinese shipbuilding sector.
+
+After the gradual reopening of the global economy and the resurgence of international trade in the post-COVID era, the shipbuilding industry has witnessed a notable surge in demand for new vessels. This trend is reflected in the global orderbook, which has risen by nearly 41%, from 3,591 vessels in 2021 to 5,049 in November 2024. Chinese shipyards have capitalized on this demand, steadily increasing their share of the global orderbook. However, the excessive demand for new tonnage, has led to congestion at shipyards, limiting available slots and extending delivery timelines.
+
+In response, China’s newbuilding capacity has been scaled up through the reopening of dormant shipyards and the expansion of existing facilities. In addition to Jiangsu Rongsheng, one of the largest private Chinese yards, founded in 2006, other shipyards such as Hengli Heavy Industry, Yangzhou Guoyu Shipbuilding, and Dalian Shipbuilding Offshore have restarted operations. Meanwhile, New Times Shipbuilding, Wuhu Shipyard, and Nantong Xiangyu Shipbuilding among others have expanded their production potential. This growth of shipbuilding capacity is expected to absorb a part of the excess demand, reducing vessel delivery times.
+
+To gain more insight on market fundamentals, it’s useful to have a look at the evolution of shipbuilding orders of the three major industry players, China, Japan and South Korea, and their portions to the global orderbook of three major shipbuilding players in terms of m dwt. since China’s entry to WTO in 2000.
+
+![Στιγμιότυπο Οθόνης 2024 12 04 125938](assets/2024-12-04_hrrb5ypq0ob5tkbi313fsyyw897fl7_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5054e705c28.png)
+
+> **Figure 1: Στιγμιότυπο Οθόνης 2024 12 04 125938**  
+> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-04_hrrb5ypq0ob5tkbi313fsyyw897fl7_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5054e705c28.png)
+
+Through government support and public investments to its national shipbuilding ecosystem, China emerged as a market leader, commanding currently nearly 65% of global shipbuilding orders, an impressive rise considering the less than 10% share in 2000. Meanwhile, the combined orderbook share of Japan and South Korea has declined from 78% to 31% over the same period. As of November 2024, the Chinese shipbuilding orderbook for counts 3,256 vessels of 224m dwt total carrying capacity, marking a 37% increase from 2023 and a 72% rise from 2022, with the global orderbook increasing by 21% since 2023.
+
+![Στιγμιότυπο Οθόνης 2024 12 04 130055](assets/2024-12-04_hrrb5ypq0ob5tkbi313fsyyw897fl7_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e5e13581e35e.png)
+
+> **Figure 2: Στιγμιότυπο Οθόνης 2024 12 04 130055**  
+> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-04_hrrb5ypq0ob5tkbi313fsyyw897fl7_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e5e13581e35e.png)
+
+In the realm of new contracts, Chinese shipyards remain dominant, securing 1,338 vessels totaling 103.9 million dwt, which represents 70% of all new contracts. Notably, Chinese yards have captured 89% of containership orders, 81% of bulk carrier orders, and 74% of tanker contracts. The rise of China as a dominant force in global shipbuilding can be attributed to several factors, including substantial government support, investments in new technologies, low labour cost and large-scale production capabilities. Additionally, China has successfully leveraged partnerships with international firms, facilitating the transfer of valuable expertise, enabling to advance in the construction of more sophisticated vessels, such as chemical tankers or gas carriers. Domestic demand for both new ship construction and repair services is also a key driver, with the Chinese fleet accounting for approximately 13% of global tonnage.
+
+The above constitute the main advantages of the Chinese shipbuilding sector, together with a well-integrated supply chain that ensures timely delivery of the materials required for vessel construction and environmentally sustainable practices. In the current global shipbuilding market, the robust demand for new vessels, evidenced by a steadily growing order book in the post-COVID era and rising new building prices, are expected to drive further expansion of the Chinese shipbuilding sector and maintain its leading position.
+
+Data Source:[Intermodal](https://www.intermodal.gr/)
+
+---
+
+**Tags:** Shipping, Markets, Tankers  

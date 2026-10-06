@@ -1,0 +1,52 @@
+{
+  "issue_date": "2012-09-28",
+  "year": 2012,
+  "title": "Oversupplied Suezmaxes Fight for Market Share",
+  "source_file": "corpus/04-poten/pdfs/2012/Tanker_Opinion_20120928.pdf",
+  "tables_count": 0,
+  "charts_count": 4,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2012-09-28_oversupplied-suezmaxes-fight-for-market-share_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2012/poten_2012-09-28_oversupplied-suezmaxes-fight-for-market-share_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-09-28_oversupplied-suezmaxes-fight-for-market-share_chart1.png",
+      "width": 426,
+      "height": 1595
+    },
+    {
+      "chart_num": 2,
+      "page": 1,
+      "file_name": "poten_2012-09-28_oversupplied-suezmaxes-fight-for-market-share_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2012/poten_2012-09-28_oversupplied-suezmaxes-fight-for-market-share_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-09-28_oversupplied-suezmaxes-fight-for-market-share_chart2.png",
+      "width": 425,
+      "height": 1892
+    },
+    {
+      "chart_num": 3,
+      "page": 2,
+      "file_name": "poten_2012-09-28_oversupplied-suezmaxes-fight-for-market-share_chart3.png",
+      "rel_path": "data/extracted/charts/poten/2012/poten_2012-09-28_oversupplied-suezmaxes-fight-for-market-share_chart3.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-09-28_oversupplied-suezmaxes-fight-for-market-share_chart3.png",
+      "width": 425,
+      "height": 1892
+    },
+    {
+      "chart_num": 4,
+      "page": 3,
+      "file_name": "poten_2012-09-28_oversupplied-suezmaxes-fight-for-market-share_chart4.png",
+      "rel_path": "data/extracted/charts/poten/2012/poten_2012-09-28_oversupplied-suezmaxes-fight-for-market-share_chart4.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-09-28_oversupplied-suezmaxes-fight-for-market-share_chart4.png",
+      "width": 426,
+      "height": 1714
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

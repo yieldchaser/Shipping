@@ -673,6 +673,11 @@ def run_pipeline():
                     continue
             except Exception:
                 pass
+        if p.stem in done and isinstance(done[p.stem], dict):
+            ext_rel = done[p.stem].get("extracted_file", "")
+            if ext_rel and (REPO_ROOT / ext_rel).exists():
+                results.append(done[p.stem])
+                continue
         pending_pdfs.append(p)
 
     state["done"] = done
@@ -702,12 +707,27 @@ def run_pipeline():
 
     logger.info(f"Successfully processed {len(results)} of {len(pdf_files)} Seabreeze reports.")
 
-    # Save master metadata catalog
-    results.sort(key=lambda x: (x["issue_date"], x["stem"]))
-    df_cat = pd.DataFrame(results)
+    # Save master metadata catalog (Non-Destructive Upsert)
     csv_cat = SERIES_DIR / "seabrokers_catalog_metadata.csv"
-    df_cat.to_csv(csv_cat, index=False)
-    logger.info(f"[+] Saved master Seabrokers catalog metadata: {csv_cat} ({len(df_cat)} rows)")
+    if results:
+        df_new = pd.DataFrame(results)
+        if csv_cat.exists() and csv_cat.stat().st_size > 0:
+            try:
+                df_existing = pd.read_csv(csv_cat)
+                df_cat = pd.concat([df_existing, df_new], ignore_index=True)
+                if "stem" in df_cat.columns:
+                    df_cat = df_cat.drop_duplicates(subset=["stem"], keep="last")
+            except Exception:
+                df_cat = df_new
+        else:
+            df_cat = df_new
+        sort_cols = [c for c in ["issue_date", "stem"] if c in df_cat.columns]
+        if sort_cols:
+            df_cat = df_cat.sort_values(by=sort_cols).reset_index(drop=True)
+        df_cat.to_csv(csv_cat, index=False)
+        logger.info(f"[+] Saved master Seabrokers catalog metadata: {csv_cat} ({len(df_cat)} rows)")
+    else:
+        logger.info(f"[=] No new Seabrokers catalog rows; preserving existing {csv_cat.name}.")
 
     # Enrich offshore_summary.json without breaking any existing contracts
     update_offshore_summary_json()

@@ -1,0 +1,25 @@
+{
+  "issue_date": "2013-11-01",
+  "year": 2013,
+  "title": "Removal of Brazilian Subsidies to Back Out Clean Product Imports? Brazilian transportation fuels subsidies have reduced costs for consumers, who",
+  "source_file": "corpus/04-poten/pdfs/2013/Tanker_Opinion_20131101.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 2,
+      "file_name": "poten_2013-11-01_removal-of-brazilian-subsidies-to-back-out-clean-product_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2013/poten_2013-11-01_removal-of-brazilian-subsidies-to-back-out-clean-product_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-11-01_removal-of-brazilian-subsidies-to-back-out-clean-product_chart1.png",
+      "width": 1190,
+      "height": 848
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

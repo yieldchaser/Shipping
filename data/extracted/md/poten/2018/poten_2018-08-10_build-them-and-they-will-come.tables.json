@@ -1,0 +1,25 @@
+{
+  "issue_date": "2018-08-10",
+  "year": 2018,
+  "title": "Build Them And They Will Come",
+  "source_file": "corpus/04-poten/pdfs/2018/Weekly-Opinion-10-August-2018-Build-Them-And-They-Will-Come.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2018-08-10_build-them-and-they-will-come_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2018/poten_2018-08-10_build-them-and-they-will-come_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-08-10_build-them-and-they-will-come_chart1.png",
+      "width": 827,
+      "height": 856
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

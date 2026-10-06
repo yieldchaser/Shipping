@@ -230,6 +230,25 @@ async def process_item_async(cat: str, corpus_dir: Path, out_md_dir: Path,
     if issue_date == "UNKNOWN" or year == "0000" or "unknown" in [p.lower() for p in h_path.parts]:
         raise ValueError(f"Skipping undated or 0000 stub file: {h_path}")
 
+    stem = f"alibra_{cat}_{issue_date}"
+    year_dir = out_md_dir / year
+    md_path = year_dir / f"{stem}.md"
+    json_path = year_dir / f"{stem}.tables.json"
+    if md_path.exists() and md_path.stat().st_size > 200 and json_path.exists():
+        try:
+            cached = json.loads(json_path.read_text(encoding="utf-8"))
+            rows = cached.get("records", [])
+            summary = {
+                "issue_date": issue_date,
+                "year": year,
+                "filename": fname,
+                "title": cached.get("title", f"Weekly Time Charter Estimates - {issue_date}"),
+                "observations_count": len(rows),
+            }
+            return summary, rows
+        except Exception:
+            pass
+
     content = h_path.read_text(encoding="utf-8", errors="ignore")
     if any(err in content for err in ("Error code 520", "Cloudflare Ray ID", "This site can\u2019t be reached", "This site can't be reached")):
         raise ValueError(f"Skipping Cloudflare/DNS error HTML page: {h_path}")
@@ -312,17 +331,13 @@ async def process_item_async(cat: str, corpus_dir: Path, out_md_dir: Path,
         "observations_count": len(table_rows),
     }
 
-    stem = f"alibra_{cat}_{issue_date}"
-    year_dir = out_md_dir / year
     year_dir.mkdir(parents=True, exist_ok=True)
 
     # Write .md
-    md_path = year_dir / f"{stem}.md"
     with open(md_path, "w", encoding="utf-8") as mf:
         mf.write("\n".join(md_lines))
 
     # Write .tables.json
-    json_path = year_dir / f"{stem}.tables.json"
     with open(json_path, "w", encoding="utf-8") as jf:
         json.dump({
             "issue_date": issue_date,
@@ -362,6 +377,31 @@ async def process_collection_async(cat: str, corpus_dir: Path, out_md_dir: Path,
     return all_series_rows, report_summaries
 
 
+def _upsert_alibra_csv(csv_path: Path, new_rows: List[Dict[str, Any]], fieldnames: List[str], key_cols: List[str]):
+    if not new_rows:
+        print(f"No new Alibra rows for {csv_path.name}; preserving existing CSV.")
+        return
+    existing_map = {}
+    if csv_path.exists() and csv_path.stat().st_size > 0:
+        try:
+            with open(csv_path, "r", encoding="utf-8", errors="replace") as rf:
+                for r in csv.DictReader(rf):
+                    k = tuple(str(r.get(c, "")) for c in key_cols)
+                    existing_map[k] = r
+        except Exception:
+            pass
+    for r in new_rows:
+        k = tuple(str(r.get(c, "")) for c in key_cols)
+        existing_map[k] = {c: r.get(c, "") for c in fieldnames}
+    merged = sorted(existing_map.values(), key=lambda x: tuple(str(x.get(c, "")) for c in key_cols))
+    with open(csv_path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        for r in merged:
+            writer.writerow(r)
+    print(f"Upserted {len(new_rows)} rows ({len(merged)} total) to {csv_path}", flush=True)
+
+
 async def run_all_async(limit: Optional[int] = None) -> Dict[str, Any]:
     """Execute complete Alibra extraction workflow across Dry and Wet charter."""
     OUT_DRY_MD.mkdir(parents=True, exist_ok=True)
@@ -382,28 +422,18 @@ async def run_all_async(limit: Optional[int] = None) -> Dict[str, Any]:
     print("=== Starting Alibra Dry Time Charter Extraction ===", flush=True)
     dry_rows, dry_summaries = await process_collection_async("dry", DRY_DIR, OUT_DRY_MD, parser, sem, limit=limit)
 
-    # Immediately write data/extracted/series/hellenic_alibra_dry_tc_series.csv
+    # Immediately upsert data/extracted/series/hellenic_alibra_dry_tc_series.csv
     dry_cols = ["issue_date", "vessel_class", "tenor", "basin", "rate_usd_pdpr", "trend", "source_file"]
     dry_csv = OUT_SERIES / "hellenic_alibra_dry_tc_series.csv"
-    with open(dry_csv, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=dry_cols)
-        writer.writeheader()
-        for r in sorted(dry_rows, key=lambda x: (x["issue_date"], x["vessel_class"], x["tenor"], x["basin"])):
-            writer.writerow(r)
-    print(f"\nWritten {len(dry_rows)} total rows to {dry_csv}", flush=True)
+    _upsert_alibra_csv(dry_csv, dry_rows, dry_cols, ["issue_date", "vessel_class", "tenor", "basin"])
 
     print("\n=== Starting Alibra Tanker Time Charter Extraction ===", flush=True)
     wet_rows, wet_summaries = await process_collection_async("wet", WET_DIR, OUT_WET_MD, parser, sem, limit=limit)
 
-    # Write data/extracted/series/hellenic_alibra_tanker_tc_series.csv
+    # Upsert data/extracted/series/hellenic_alibra_tanker_tc_series.csv
     wet_cols = ["issue_date", "vessel_class", "tenor", "rate_usd_pdpr", "eco_scrubber", "trend", "source_file"]
     wet_csv = OUT_SERIES / "hellenic_alibra_tanker_tc_series.csv"
-    with open(wet_csv, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=wet_cols)
-        writer.writeheader()
-        for r in sorted(wet_rows, key=lambda x: (x["issue_date"], x["vessel_class"], x["tenor"])):
-            writer.writerow(r)
-    print(f"Written {len(wet_rows)} total rows to {wet_csv}")
+    _upsert_alibra_csv(wet_csv, wet_rows, wet_cols, ["issue_date", "vessel_class", "tenor", "eco_scrubber"])
 
     state = {
         "dry_reports": len(dry_summaries),

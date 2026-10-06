@@ -1,0 +1,43 @@
+---
+title: "Bulk Report – Week 32"
+date: "2020-08-07"
+display_date: "07 August 2020"
+year: 2020
+week: 32
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2020/bulk-report-week-32.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 721
+sections_count: 4
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2020/2020-08-07_bulk-report-week-32_dry.html"
+---
+
+# Bulk Report – Week 32
+
+**Date:** 07 August 2020  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2020/bulk-report-week-32.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2020/bulk-report-week-32.html)  
+
+---
+
+### Capesize
+
+The capesize market appears to have broken out of its recent downward trend and moved into a range bound period trading largely sideways this week. Timecharter spreads between the two basins now stands with the Pacific $3143 over the Atlantic. Voyage rate volatility persisted this week as wild swings in both directions were seen, although fixture volumes were not thought to be particularly high. The west Australia to China C5 was up week on week yet ended on a down note to close at $8.55. The Brazil to China C3 experienced a brief lift early in the week before turning down and seeming to gather momentum. Ballaster numbers on the route are said to be high and applying downward pressure. Quarantine measures reappeared this week in an unwanted reminder of the evolving Covid-19 situation. Northern Chinese ports were heard to be reinstituting 14 day restrictions for vessels arriving to the region, although full details of the restrictions are known.
+
+### Panamax
+
+It was a week that yielded impressive gains for Panamax owners, with meaningful rises in both basins. The Atlantic improved drastically with substantial grain demand ex US Gulf, as well as a rise in mineral cargo - especially for coal exports from the Baltic sea. With a tight North Atlantic tonnage count and subsequent rising offers, charterers with US Gulf and EC South American grain to move sourced tonnage from the Far East. A more viable option in particular was the neo-panama canal types. The owners were willing to grant options for both loading areas with the highlight being an 82,000 dwt fixing $14,500 delivery Malaysia. This strengthened rates in an already rising Asian basin with high coal demand noticeably coming from Australia during the week which was destined for India and China. An improving spot and FFA market lent support to some period cover, including an 82,000dwt delivery Sri Lanka agreeing $12,500 for 9/13 months trading.
+
+### Ultramax/Supramax
+
+A broadly weaker market this week, with all routes – except the Black Sea fronthaul – posting incremental daily losses as the market struggled to find a clear direction. The timecharter average duly lost $69 to close at $9408 on the week, with the S9 Brazil backhaul proving one of the biggest losers on lower cargo enquiry. Some commentators maintained that a two tier market had developed, with the larger ultramaxes able to compete for Panamax stems, whilst the more standard types were compelled to bide their time. Representative fixtures included the Bulk Jamaica (2018 63,747) which was fixed to Cefetra at $12,000 delivery Brazil for a trip Mediterranean with prompt delivery, whilst for the fronthaul, the Dionysus (2015 63,159) was said to have secured $13,000 plus $300,000 ballast bonus from Omegra. The one bright spot remained the Black Sea – gaining $1364 to close at $20,500 on the week, on strong cargo enquiry – in the latter part of the week, the Cas Amares (2011 55,783) was said to have fixed basis delivery Constanza for a fronthaul with grain at $18,100.
+
+### Handy
+
+The week was largely flat with two Handy routes remaining in the positive territory with other key areas under pressure. Tonnage was described to be tight in the Continent for prompt dates with rates further kicking. Since the middle of the week, brokers saw more cargoes from the Baltic area to west Mediterranean and helped the relevant HS1 and HS2 route to a consecutive uprising trend since the second half of May. A large Handy vessel was fixed from east Mediterranean for a trip to the Caribbeans at $10,850. A 37,000-dwt delivery Balboa in mid August was fixed for a trip via west coast South America to the Far East at $14,000. On the period front, a 33,000-dwt open mid August in the Mediterranean was fixed for five to seven months at $9,500. In the east, brokers suggested the Pacific market remained flat with fixtures done around $5,000 to low $6,000s for a CIS trip from the Far East. A 30,000-dwt delivery Japan was fixed for moving steel to Southeast Asia at $5,500. A 38,000-dwt delivery Vanino, meanwhile, was fixed for a similar run to the Philippines at $8,300 also with steel.
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  

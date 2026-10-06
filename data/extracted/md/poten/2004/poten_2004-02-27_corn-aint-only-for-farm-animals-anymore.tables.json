@@ -1,0 +1,25 @@
+{
+  "issue_date": "2004-02-27",
+  "year": 2004,
+  "title": "Corn Ain't Only for Farm Animals Anymore",
+  "source_file": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040227.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2004-02-27_corn-aint-only-for-farm-animals-anymore_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2004/poten_2004-02-27_corn-aint-only-for-farm-animals-anymore_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-02-27_corn-aint-only-for-farm-animals-anymore_chart1.png",
+      "width": 543,
+      "height": 378
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

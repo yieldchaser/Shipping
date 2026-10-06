@@ -1,0 +1,61 @@
+{
+  "issue_date": "2014-05-16",
+  "year": 2014,
+  "title": "A Shaking of the US Gulf Coast Crude Oil Cocktail",
+  "source_file": "corpus/04-poten/pdfs/2014/Tanker_Opinion_20140516.pdf",
+  "tables_count": 0,
+  "charts_count": 5,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2014-05-16_a-shaking-of-the-us-gulf-coast-crude-oil-cocktail_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2014/poten_2014-05-16_a-shaking-of-the-us-gulf-coast-crude-oil-cocktail_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-05-16_a-shaking-of-the-us-gulf-coast-crude-oil-cocktail_chart1.png",
+      "width": 712,
+      "height": 1101
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2014-05-16_a-shaking-of-the-us-gulf-coast-crude-oil-cocktail_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2014/poten_2014-05-16_a-shaking-of-the-us-gulf-coast-crude-oil-cocktail_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-05-16_a-shaking-of-the-us-gulf-coast-crude-oil-cocktail_chart2.png",
+      "width": 942,
+      "height": 630
+    },
+    {
+      "chart_num": 3,
+      "page": 0,
+      "file_name": "poten_2014-05-16_a-shaking-of-the-us-gulf-coast-crude-oil-cocktail_chart3.png",
+      "rel_path": "data/extracted/charts/poten/2014/poten_2014-05-16_a-shaking-of-the-us-gulf-coast-crude-oil-cocktail_chart3.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-05-16_a-shaking-of-the-us-gulf-coast-crude-oil-cocktail_chart3.png",
+      "width": 964,
+      "height": 479
+    },
+    {
+      "chart_num": 4,
+      "page": 0,
+      "file_name": "poten_2014-05-16_a-shaking-of-the-us-gulf-coast-crude-oil-cocktail_chart4.png",
+      "rel_path": "data/extracted/charts/poten/2014/poten_2014-05-16_a-shaking-of-the-us-gulf-coast-crude-oil-cocktail_chart4.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-05-16_a-shaking-of-the-us-gulf-coast-crude-oil-cocktail_chart4.png",
+      "width": 771,
+      "height": 550
+    },
+    {
+      "chart_num": 5,
+      "page": 0,
+      "file_name": "poten_2014-05-16_a-shaking-of-the-us-gulf-coast-crude-oil-cocktail_chart5.png",
+      "rel_path": "data/extracted/charts/poten/2014/poten_2014-05-16_a-shaking-of-the-us-gulf-coast-crude-oil-cocktail_chart5.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-05-16_a-shaking-of-the-us-gulf-coast-crude-oil-cocktail_chart5.png",
+      "width": 912,
+      "height": 633
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

@@ -1,0 +1,41 @@
+{
+  "report_id": "f9a3c6cc-cb7e-44d5-9699-fac7b19961ef",
+  "issue_date": "2025-01-22",
+  "year": 2025,
+  "department": "BULK",
+  "report_title": "Fearnleys Dry Bulk Weekly",
+  "shipment_volume_metrics": [],
+  "coal_futures_spread_metrics": [],
+  "time_charter_vs_asset_metrics": [],
+  "vessel_tightness_metrics": [
+    {
+      "issue_date": "2025-01-22",
+      "year": "2025",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "chart_family": "PANAMAX KAMSARMAX BALLASTER LADEN VESSEL RATIO.png",
+      "indicator_metric": "Indicator Metric",
+      "indicator_val": 818.0,
+      "freight_benchmark": "Freight Benchmark",
+      "freight_benchmark_val": "",
+      "lead_tenor": "Concurrent",
+      "report_id": "f9a3c6cc-cb7e-44d5-9699-fac7b19961ef"
+    }
+  ],
+  "macro_correlation_metrics": [
+    {
+      "issue_date": "2025-01-22",
+      "year": "2025",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "macro_metric": "Copper 6M Change Lead vs Supramax 1Y TC 6M Change",
+      "freight_benchmark_val": -12.2,
+      "macro_indicator_val": 1.4,
+      "lead_tenor": "6 Months",
+      "chart_title": "COPPER PRICE VS SUPRAMAX 1 YEAR TC.png",
+      "report_id": "f9a3c6cc-cb7e-44d5-9699-fac7b19961ef"
+    }
+  ],
+  "charts_count": 12,
+  "source_markdown": "2025-01-22_fearnleys-dry-bulk-weekly-22nd-january-2025.md"
+}

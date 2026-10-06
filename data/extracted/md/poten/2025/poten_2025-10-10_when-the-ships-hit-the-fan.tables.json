@@ -1,0 +1,34 @@
+{
+  "issue_date": "2025-10-10",
+  "year": 2025,
+  "title": "When The Ships Hit The Fan",
+  "source_file": "corpus/04-poten/pdfs/2025/Weekly Opinion - 10 October 2025 - When The Ships Hit The Fan.pdf",
+  "tables_count": 0,
+  "charts_count": 2,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2025-10-10_when-the-ships-hit-the-fan_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2025/poten_2025-10-10_when-the-ships-hit-the-fan_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-10-10_when-the-ships-hit-the-fan_chart1.png",
+      "width": 837,
+      "height": 693
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2025-10-10_when-the-ships-hit-the-fan_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2025/poten_2025-10-10_when-the-ships-hit-the-fan_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-10-10_when-the-ships-hit-the-fan_chart2.png",
+      "width": 843,
+      "height": 351
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

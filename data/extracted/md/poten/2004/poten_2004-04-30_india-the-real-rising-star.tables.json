@@ -1,0 +1,42 @@
+{
+  "issue_date": "2004-04-30",
+  "year": 2004,
+  "title": "India The Real Rising Star",
+  "source_file": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040430.pdf",
+  "tables_count": 1,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2004-04-30_india-the-real-rising-star_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2004/poten_2004-04-30_india-the-real-rising-star_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-04-30_india-the-real-rising-star_chart1.png",
+      "width": 542,
+      "height": 401
+    }
+  ],
+  "tables": [
+    "| Rank | Charterer | Reported Total Cargo (MT 000s) | % of Total Dirty Cargoes | Prev Rank | Fixtures |\n| --- | --- | --- | --- | --- | --- |\n| 1 | Others |  |  | 2 | 31 |"
+  ],
+  "charterers_count": 1,
+  "charterer_rows": [
+    {
+      "rank": 1,
+      "charterer": "Others",
+      "cargo_mt_000s": "",
+      "pct_total_cargo": "",
+      "fixtures_count": "31",
+      "pct_fixtures": "",
+      "prev_rank": "2",
+      "issue_date": "2004-04-30",
+      "year": 2004,
+      "report_period": "2003",
+      "segment": "Overall",
+      "source_file": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040430.pdf"
+    }
+  ],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

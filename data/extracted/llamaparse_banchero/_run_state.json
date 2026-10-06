@@ -1,0 +1,2058 @@
+{
+ "done": {
+  "banchero_costa_2026_W03_Bancosta-Weekly-2026-03_compressed": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 58251,
+   "secs": 74
+  },
+  "banchero_costa_2021_W26_Bancosta-Weekly-2021-26": {
+   "pages": [
+    7,
+    9,
+    12
+   ],
+   "chars": 22333,
+   "secs": 64
+  },
+  "banchero_costa_2021_W27_Bancosta-Weekly-2021-27": {
+   "pages": [
+    7,
+    12
+   ],
+   "chars": 14098,
+   "secs": 51
+  },
+  "banchero_costa_2021_W28_Bancosta-Weekly-2021-28": {
+   "pages": [
+    7,
+    12,
+    13
+   ],
+   "chars": 19504,
+   "secs": 33
+  },
+  "banchero_costa_2021_W29_Bancosta-Weekly-2021-29": {
+   "pages": [
+    7,
+    12
+   ],
+   "chars": 15744,
+   "secs": 45
+  },
+  "banchero_costa_2021_W30_Bancosta-Weekly-2021-30": {
+   "pages": [
+    7,
+    12,
+    13
+   ],
+   "chars": 20311,
+   "secs": 33
+  },
+  "banchero_costa_2021_W31_Bancosta-Weekly-2021-31": {
+   "pages": [
+    7,
+    12,
+    13
+   ],
+   "chars": 19395,
+   "secs": 27
+  },
+  "banchero_costa_2021_W33_Bancosta-Weekly-2021-33-1": {
+   "pages": [
+    7,
+    8,
+    12,
+    13
+   ],
+   "chars": 24393,
+   "secs": 39
+  },
+  "banchero_costa_2021_W34_Bancosta-Weekly-2021-34": {
+   "pages": [
+    7,
+    12,
+    13
+   ],
+   "chars": 17467,
+   "secs": 51
+  },
+  "banchero_costa_2021_W35_Bancosta-Weekly-2021-35": {
+   "pages": [],
+   "chars": 76427,
+   "secs": 54
+  },
+  "banchero_costa_2021_W36_Bancosta-Weekly-2021-36": {
+   "pages": [
+    10,
+    12
+   ],
+   "chars": 11440,
+   "secs": 28
+  },
+  "banchero_costa_2021_W37_Bancosta-Weekly-2021-37": {
+   "pages": [
+    9,
+    12
+   ],
+   "chars": 11855,
+   "secs": 28
+  },
+  "banchero_costa_2021_W38_Bancosta-Weekly-2021-38": {
+   "pages": [
+    10,
+    12
+   ],
+   "chars": 13714,
+   "secs": 28
+  },
+  "banchero_costa_2021_W39_Bancosta-Weekly-2021-39": {
+   "pages": [
+    12
+   ],
+   "chars": 6651,
+   "secs": 31
+  },
+  "banchero_costa_2021_W40_Bancosta-Weekly-2021-40": {
+   "pages": [
+    7,
+    8,
+    12
+   ],
+   "chars": 21194,
+   "secs": 31
+  },
+  "banchero_costa_2021_W41_Bancosta-Weekly-2021-41-1": {
+   "pages": [
+    12,
+    13
+   ],
+   "chars": 11881,
+   "secs": 28
+  },
+  "banchero_costa_2021_W42_Bancosta-Weekly-2021-42": {
+   "pages": [
+    12,
+    13
+   ],
+   "chars": 11278,
+   "secs": 29
+  },
+  "banchero_costa_2021_W43_Bancosta-Weekly-2021-43": {
+   "pages": [
+    12,
+    13
+   ],
+   "chars": 11606,
+   "secs": 23
+  },
+  "banchero_costa_2021_W44_Bancosta-Weekly-2021-44": {
+   "pages": [
+    12,
+    13
+   ],
+   "chars": 12124,
+   "secs": 29
+  },
+  "banchero_costa_2021_W45_Bancosta-Weekly-2021-45": {
+   "pages": [
+    2,
+    7,
+    12,
+    13
+   ],
+   "chars": 24680,
+   "secs": 29
+  },
+  "banchero_costa_2021_W46_Bancosta-Weekly-2021-46": {
+   "pages": [
+    12,
+    13
+   ],
+   "chars": 11912,
+   "secs": 40
+  },
+  "banchero_costa_2021_W47_Bancosta-Weekly-2021-47": {
+   "pages": [
+    6,
+    12
+   ],
+   "chars": 14973,
+   "secs": 99
+  },
+  "banchero_costa_2021_W48_Bancosta-Weekly-2021-48": {
+   "pages": [
+    8,
+    9,
+    13,
+    14
+   ],
+   "chars": 24056,
+   "secs": 28
+  },
+  "banchero_costa_2021_W49_Bancosta-Weekly-2021-49": {
+   "pages": [
+    2,
+    8,
+    9,
+    13,
+    14,
+    15
+   ],
+   "chars": 37598,
+   "secs": 33
+  },
+  "banchero_costa_2021_W50_Bancosta-Weekly-2021-50": {
+   "pages": [
+    8,
+    13,
+    15
+   ],
+   "chars": 19990,
+   "secs": 39
+  },
+  "banchero_costa_2022_W01_Bancosta-Weekly-2022-01": {
+   "pages": [
+    8,
+    13,
+    15
+   ],
+   "chars": 18215,
+   "secs": 28
+  },
+  "banchero_costa_2022_W02_Bancosta-Weekly-2022-02": {
+   "pages": [
+    11,
+    13
+   ],
+   "chars": 13736,
+   "secs": 28
+  },
+  "banchero_costa_2022_W03_Bancosta-Weekly-2022-03": {
+   "pages": [
+    13,
+    15
+   ],
+   "chars": 11812,
+   "secs": 50
+  },
+  "banchero_costa_2022_W05_Bancosta-Weekly-2022-05": {
+   "pages": [
+    13
+   ],
+   "chars": 8525,
+   "secs": 29
+  },
+  "banchero_costa_2022_W06_Bancosta-Weekly-2022-06": {
+   "pages": [
+    8,
+    13,
+    14,
+    15
+   ],
+   "chars": 25243,
+   "secs": 47
+  },
+  "banchero_costa_2022_W07_Bancosta-Weekly-2022-07": {
+   "pages": [
+    10,
+    13,
+    14,
+    15
+   ],
+   "chars": 21821,
+   "secs": 52
+  },
+  "banchero_costa_2022_W08_Bancosta-Weekly-2022-08": {
+   "pages": [
+    2,
+    13,
+    15
+   ],
+   "chars": 17248,
+   "secs": 35
+  },
+  "banchero_costa_2022_W09_Bancosta-Weekly-2022-09-1-1": {
+   "pages": [
+    8,
+    13,
+    15
+   ],
+   "chars": 18169,
+   "secs": 66
+  },
+  "banchero_costa_2022_W10_Bancosta-Weekly-2022-10": {
+   "pages": [
+    2,
+    13,
+    15
+   ],
+   "chars": 17640,
+   "secs": 44
+  },
+  "banchero_costa_2022_W11_Bancosta-Weekly-2022-11": {
+   "pages": [
+    13,
+    14,
+    15
+   ],
+   "chars": 16400,
+   "secs": 29
+  },
+  "banchero_costa_2022_W12_Bancosta-Weekly-2022-12": {
+   "pages": [
+    2,
+    9,
+    13,
+    14
+   ],
+   "chars": 24800,
+   "secs": 47
+  },
+  "banchero_costa_2022_W13_Bancosta-Weekly-2022-13": {
+   "pages": [
+    13
+   ],
+   "chars": 7210,
+   "secs": 37
+  },
+  "banchero_costa_2022_W14_Bancosta-Weekly-2022-14": {
+   "pages": [
+    2,
+    13,
+    15
+   ],
+   "chars": 18277,
+   "secs": 35
+  },
+  "banchero_costa_2022_W15_Bancosta-Weekly-2022-15": {
+   "pages": [
+    13,
+    14,
+    15
+   ],
+   "chars": 17211,
+   "secs": 29
+  },
+  "banchero_costa_2022_W16_Bancosta-Weekly-2022-16": {
+   "pages": [
+    2,
+    8,
+    9,
+    13
+   ],
+   "chars": 26380,
+   "secs": 40
+  },
+  "banchero_costa_2022_W18_Bancosta-Weekly-2022-18": {
+   "pages": [
+    8,
+    13,
+    15
+   ],
+   "chars": 18658,
+   "secs": 69
+  },
+  "banchero_costa_2022_W19_Bancosta-Weekly-2022-19-1": {
+   "pages": [
+    13,
+    14,
+    15
+   ],
+   "chars": 18763,
+   "secs": 81
+  },
+  "banchero_costa_2022_W20_Bancosta-Weekly-2022-20": {
+   "pages": [
+    13
+   ],
+   "chars": 8448,
+   "secs": 35
+  },
+  "banchero_costa_2022_W21_Bancosta-Weekly-2022-21": {
+   "pages": [
+    8,
+    13,
+    14,
+    15
+   ],
+   "chars": 25084,
+   "secs": 30
+  },
+  "banchero_costa_2022_W22_Bancosta-Weekly-2022-22": {
+   "pages": [
+    2,
+    13,
+    15
+   ],
+   "chars": 17786,
+   "secs": 37
+  },
+  "banchero_costa_2022_W23_Bancosta-Weekly-2022-23": {
+   "pages": [
+    2,
+    13,
+    14,
+    15
+   ],
+   "chars": 22415,
+   "secs": 36
+  },
+  "banchero_costa_2022_W24_Bancosta-Weekly-2022-24-1": {
+   "pages": [
+    3,
+    13,
+    15
+   ],
+   "chars": 15509,
+   "secs": 41
+  },
+  "banchero_costa_2022_W25_Bancosta-Weekly-2022-25": {
+   "pages": [
+    3,
+    13
+   ],
+   "chars": 11290,
+   "secs": 55
+  },
+  "banchero_costa_2022_W26_Bancosta-Weekly-2022-26": {
+   "pages": [
+    8,
+    13
+   ],
+   "chars": 14130,
+   "secs": 28
+  },
+  "banchero_costa_2022_W27_Bancosta-Weekly-2022-27": {
+   "pages": [
+    3,
+    8,
+    13,
+    14
+   ],
+   "chars": 23186,
+   "secs": 35
+  },
+  "banchero_costa_2022_W28_Bancosta-Weekly-2022-28": {
+   "pages": [
+    2,
+    3,
+    8,
+    13
+   ],
+   "chars": 23763,
+   "secs": 41
+  },
+  "banchero_costa_2022_W29_Bancosta-Weekly-2022-29": {
+   "pages": [
+    8,
+    13,
+    14,
+    15
+   ],
+   "chars": 23673,
+   "secs": 41
+  },
+  "banchero_costa_2022_W30_Bancosta-Weekly-2022-30": {
+   "pages": [
+    2,
+    8,
+    13,
+    14,
+    15
+   ],
+   "chars": 28591,
+   "secs": 42
+  },
+  "banchero_costa_2022_W33_Bancosta-Weekly-2022-33": {
+   "pages": [
+    3,
+    8,
+    13
+   ],
+   "chars": 17412,
+   "secs": 34
+  },
+  "banchero_costa_2022_W34_Bancosta-Weekly-2022-34": {
+   "pages": [
+    2,
+    8,
+    13
+   ],
+   "chars": 19800,
+   "secs": 33
+  },
+  "banchero_costa_2022_W35_Bancosta-Weekly-2022-35": {
+   "pages": [
+    8,
+    13
+   ],
+   "chars": 13128,
+   "secs": 29
+  },
+  "banchero_costa_2022_W36_Bancosta-Weekly-2022-36": {
+   "pages": [
+    2,
+    8,
+    13
+   ],
+   "chars": 20034,
+   "secs": 27
+  },
+  "banchero_costa_2022_W37_Bancosta-Weekly-2022-37": {
+   "pages": [
+    3,
+    8,
+    13
+   ],
+   "chars": 18414,
+   "secs": 28
+  },
+  "banchero_costa_2022_W38_Bancosta-Weekly-2022-38": {
+   "pages": [
+    2,
+    8,
+    9,
+    13,
+    14
+   ],
+   "chars": 31196,
+   "secs": 30
+  },
+  "banchero_costa_2022_W39_Bancosta-Weekly-2022-39": {
+   "pages": [
+    7,
+    8,
+    13
+   ],
+   "chars": 19231,
+   "secs": 27
+  },
+  "banchero_costa_2022_W40_Bancosta-Weekly-2022-40": {
+   "pages": [
+    13,
+    14,
+    15
+   ],
+   "chars": 16891,
+   "secs": 30
+  },
+  "banchero_costa_2022_W41_Bancosta-Weekly-2022-41": {
+   "pages": [
+    8,
+    13,
+    14,
+    15
+   ],
+   "chars": 23855,
+   "secs": 40
+  },
+  "banchero_costa_2022_W42_Bancosta-Weekly-2022-42": {
+   "pages": [
+    8,
+    13,
+    15
+   ],
+   "chars": 18201,
+   "secs": 27
+  },
+  "banchero_costa_2022_W43_Bancosta-Weekly-2022-43-1": {
+   "pages": [
+    2,
+    8,
+    13,
+    14,
+    15
+   ],
+   "chars": 30588,
+   "secs": 28
+  },
+  "banchero_costa_2022_W44_Bancosta-Weekly-2022-44": {
+   "pages": [
+    2,
+    8,
+    13,
+    15
+   ],
+   "chars": 24419,
+   "secs": 39
+  },
+  "banchero_costa_2022_W45_Bancosta-Weekly-2022-45": {
+   "pages": [
+    8,
+    13,
+    14
+   ],
+   "chars": 17663,
+   "secs": 33
+  },
+  "banchero_costa_2022_W46_Bancosta-Weekly-2022-46": {
+   "pages": [
+    2,
+    8,
+    13,
+    14,
+    15
+   ],
+   "chars": 28848,
+   "secs": 46
+  },
+  "banchero_costa_2022_W47_Bancosta-Weekly-2022-47": {
+   "pages": [
+    2,
+    8,
+    13,
+    14,
+    15
+   ],
+   "chars": 29494,
+   "secs": 41
+  },
+  "banchero_costa_2022_W48_Bancosta-Weekly-2022-48": {
+   "pages": [
+    2,
+    7,
+    8,
+    13,
+    15
+   ],
+   "chars": 30844,
+   "secs": 36
+  },
+  "banchero_costa_2022_W49_Bancosta-Weekly-2022-49": {
+   "pages": [
+    3,
+    8,
+    13,
+    14,
+    15
+   ],
+   "chars": 27571,
+   "secs": 33
+  },
+  "banchero_costa_2022_W50_Bancosta-Weekly-2022-50": {
+   "pages": [
+    2,
+    13,
+    14,
+    15
+   ],
+   "chars": 22815,
+   "secs": 27
+  },
+  "banchero_costa_2023_W01_Bancosta-Weekly-2023-01": {
+   "pages": [
+    2,
+    8,
+    13,
+    15
+   ],
+   "chars": 24095,
+   "secs": 29
+  },
+  "banchero_costa_2023_W02_Bancosta-Weekly-2023-02": {
+   "pages": [
+    8,
+    13,
+    15
+   ],
+   "chars": 20203,
+   "secs": 34
+  },
+  "banchero_costa_2023_W03_Bancosta-Weekly-2023-03": {
+   "pages": [
+    2,
+    13,
+    14,
+    15
+   ],
+   "chars": 22308,
+   "secs": 37
+  },
+  "banchero_costa_2023_W04_Bancosta-Weekly-2023-04": {
+   "pages": [
+    2,
+    7,
+    8,
+    13,
+    15
+   ],
+   "chars": 35458,
+   "secs": 35
+  },
+  "banchero_costa_2023_W05_Bancosta-Weekly-2023-05": {
+   "pages": [
+    2,
+    8,
+    13,
+    15
+   ],
+   "chars": 25188,
+   "secs": 35
+  },
+  "banchero_costa_2023_W06_Bancosta-Weekly-2023-06": {
+   "pages": [
+    2,
+    8,
+    13,
+    14,
+    15
+   ],
+   "chars": 28940,
+   "secs": 28
+  },
+  "banchero_costa_2023_W07_Bancosta-Weekly-2023-07": {
+   "pages": [
+    2,
+    8,
+    13,
+    15
+   ],
+   "chars": 26675,
+   "secs": 33
+  },
+  "banchero_costa_2023_W08_Bancosta-Weekly-2023-08": {
+   "pages": [
+    2,
+    8,
+    13,
+    14,
+    15
+   ],
+   "chars": 31156,
+   "secs": 40
+  },
+  "banchero_costa_2023_W09_Bancosta-Weekly-2023-09": {
+   "pages": [
+    8,
+    13,
+    14,
+    15
+   ],
+   "chars": 24928,
+   "secs": 39
+  },
+  "banchero_costa_2023_W10_Bancosta-Weekly-2023-10": {
+   "pages": [
+    2,
+    8,
+    13
+   ],
+   "chars": 20365,
+   "secs": 33
+  },
+  "banchero_costa_2023_W11_Bancosta-Weekly-2023-11": {
+   "pages": [
+    2,
+    8,
+    13,
+    14,
+    15
+   ],
+   "chars": 30943,
+   "secs": 34
+  },
+  "banchero_costa_2023_W12_Bancosta-Weekly-2023-12-1": {
+   "pages": [
+    2,
+    8,
+    13,
+    15
+   ],
+   "chars": 26323,
+   "secs": 55
+  },
+  "banchero_costa_2023_W13_Bancosta-Weekly-2023-13": {
+   "pages": [
+    2,
+    8,
+    13,
+    15
+   ],
+   "chars": 24783,
+   "secs": 32
+  },
+  "banchero_costa_2023_W14_Bancosta-Weekly-2023-14": {
+   "pages": [
+    2,
+    8,
+    13,
+    15
+   ],
+   "chars": 25091,
+   "secs": 35
+  },
+  "banchero_costa_2023_W15_Bancosta-Weekly-2023-15": {
+   "pages": [
+    8,
+    13,
+    15
+   ],
+   "chars": 20687,
+   "secs": 45
+  },
+  "banchero_costa_2023_W16_Bancosta-Weekly-2023-16": {
+   "pages": [
+    2,
+    8,
+    13,
+    15
+   ],
+   "chars": 26370,
+   "secs": 46
+  },
+  "banchero_costa_2023_W17_Bancosta-Weekly-2023-17": {
+   "pages": [
+    8,
+    13,
+    14,
+    15
+   ],
+   "chars": 24161,
+   "secs": 30
+  },
+  "banchero_costa_2023_W18_Bancosta-Weekly-2023-18": {
+   "pages": [
+    2,
+    8,
+    13
+   ],
+   "chars": 22693,
+   "secs": 31
+  },
+  "banchero_costa_2023_W19_Bancosta-Weekly-2023-19": {
+   "pages": [
+    8,
+    13
+   ],
+   "chars": 15796,
+   "secs": 46
+  },
+  "banchero_costa_2023_W20_Bancosta-Weekly-2023-20": {
+   "pages": [
+    13,
+    15
+   ],
+   "chars": 13115,
+   "secs": 32
+  },
+  "banchero_costa_2023_W21_Bancosta-Weekly-2023-21": {
+   "pages": [
+    2,
+    8,
+    13,
+    14,
+    15
+   ],
+   "chars": 30489,
+   "secs": 30
+  },
+  "banchero_costa_2023_W22_Bancosta-Weekly-2023-22": {
+   "pages": [
+    8,
+    13,
+    14,
+    15
+   ],
+   "chars": 25335,
+   "secs": 35
+  },
+  "banchero_costa_2023_W23_Bancosta-Weekly-2022-23": {
+   "pages": [
+    13,
+    14,
+    15
+   ],
+   "chars": 17362,
+   "secs": 34
+  },
+  "banchero_costa_2023_W24_Bancosta-Weekly-2023-24": {
+   "pages": [
+    2,
+    13,
+    14,
+    15
+   ],
+   "chars": 22530,
+   "secs": 43
+  },
+  "banchero_costa_2023_W25_Bancosta-Weekly-2023-25": {
+   "pages": [
+    2,
+    8,
+    13,
+    14
+   ],
+   "chars": 26626,
+   "secs": 29
+  },
+  "banchero_costa_2023_W26_Bancosta-Weekly-2023-26": {
+   "pages": [
+    3,
+    15
+   ],
+   "chars": 10134,
+   "secs": 29
+  },
+  "banchero_costa_2023_W34_Bancosta-Weekly-2023-34": {
+   "pages": [
+    3,
+    14
+   ],
+   "chars": 9351,
+   "secs": 25
+  },
+  "banchero_costa_2023_W39_Bancosta-Weekly-2023-39": {
+   "pages": [
+    14
+   ],
+   "chars": 4921,
+   "secs": 40
+  },
+  "banchero_costa_2023_W40_Bancosta-Weekly-2023-40": {
+   "pages": [
+    7
+   ],
+   "chars": 8309,
+   "secs": 21
+  },
+  "banchero_costa_2023_W45_Bancosta-Weekly-2023-45": {
+   "pages": [
+    15
+   ],
+   "chars": 4814,
+   "secs": 21
+  },
+  "banchero_costa_2023_W46_Bancosta-Weekly-2023-46": {
+   "pages": [
+    5
+   ],
+   "chars": 2436,
+   "secs": 15
+  },
+  "banchero_costa_2023_W47_Bancosta-Weekly-2023-47": {
+   "pages": [
+    4,
+    14,
+    15
+   ],
+   "chars": 13540,
+   "secs": 27
+  },
+  "banchero_costa_2024_W09_Bancosta-Weekly-2024-09": {
+   "pages": [
+    4
+   ],
+   "chars": 4084,
+   "secs": 14
+  },
+  "banchero_costa_2024_W34_Bancosta-Weekly-2024-34": {
+   "pages": [
+    6
+   ],
+   "chars": 5529,
+   "secs": 26
+  },
+  "banchero_costa_2024_W42_Bancosta-Weekly-2024-42": {
+   "pages": [
+    3
+   ],
+   "chars": 4685,
+   "secs": 26
+  },
+  "banchero_costa_2024_W47_Bancosta-Weekly-2024-47": {
+   "pages": [
+    3,
+    4,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "chars": 51021,
+   "secs": 50
+  },
+  "banchero_costa_2024_W49_Bancosta-Weekly-2024-49": {
+   "pages": [
+    3,
+    4,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "chars": 55722,
+   "secs": 45
+  },
+  "banchero_costa_2024_W50_Bancosta-Weekly-2024-50": {
+   "pages": [
+    3,
+    4,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "chars": 52983,
+   "secs": 38
+  },
+  "banchero_costa_2025_W01_Bancosta-Weekly-2025-01": {
+   "pages": [
+    3,
+    4,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "chars": 54722,
+   "secs": 50
+  },
+  "banchero_costa_2025_W02_Bancosta-Weekly-2025-02": {
+   "pages": [
+    3,
+    4,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "chars": 57942,
+   "secs": 50
+  },
+  "banchero_costa_2025_W03_Bancosta-Weekly-2025-03": {
+   "pages": [
+    3,
+    4,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "chars": 58048,
+   "secs": 51
+  },
+  "banchero_costa_2025_W04_Bancosta-Weekly-2025-04": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 56352,
+   "secs": 62
+  },
+  "banchero_costa_2025_W05_Bancosta-Weekly-2025-05": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 52875,
+   "secs": 75
+  },
+  "banchero_costa_2025_W06_Bancosta-Weekly-2025-06": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 56909,
+   "secs": 267
+  },
+  "banchero_costa_2025_W07_Bancosta-Weekly-2025-07": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 56694,
+   "secs": 53
+  },
+  "banchero_costa_2025_W08_Bancosta-Weekly-2025-08": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 60571,
+   "secs": 57
+  },
+  "banchero_costa_2025_W09_Bancosta-Weekly-2025-09": {
+   "pages": [
+    3,
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 64368,
+   "secs": 52
+  },
+  "banchero_costa_2025_W10_Bancosta-Weekly-2025-10": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 59987,
+   "secs": 45
+  },
+  "banchero_costa_2025_W11_Bancosta-Weekly-2025-11": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 59246,
+   "secs": 51
+  },
+  "banchero_costa_2025_W12_Bancosta-Weekly-2025-12": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 56038,
+   "secs": 52
+  },
+  "banchero_costa_2025_W13_Bancosta-Weekly-2025-13": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 59783,
+   "secs": 97
+  },
+  "banchero_costa_2025_W14_Bancosta-Weekly-2025-14": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 57593,
+   "secs": 44
+  },
+  "banchero_costa_2025_W17_Bancosta-Weekly-2025-17": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 60312,
+   "secs": 45
+  },
+  "banchero_costa_2025_W18_Bancosta-Weekly-2025-18-1": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 54120,
+   "secs": 50
+  },
+  "banchero_costa_2025_W19_Bancosta-Weekly-2025-19": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 58342,
+   "secs": 39
+  },
+  "banchero_costa_2025_W20_Bancosta-Weekly-2025-20": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 57572,
+   "secs": 46
+  },
+  "banchero_costa_2025_W22_Bancosta-Weekly-2025-22": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 59540,
+   "secs": 44
+  },
+  "banchero_costa_2025_W23_Bancosta-Weekly-2025-23": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 53212,
+   "secs": 44
+  },
+  "banchero_costa_2025_W25_Bancosta-Weekly-2025-25": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 56629,
+   "secs": 45
+  },
+  "banchero_costa_2025_W26_Bancosta-Weekly-2025-26": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 59080,
+   "secs": 40
+  },
+  "banchero_costa_2025_W27_Bancosta-Weekly-2025-27": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 59804,
+   "secs": 69
+  },
+  "banchero_costa_2025_W28_Bancosta-Weekly-2025-28": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 56117,
+   "secs": 45
+  },
+  "banchero_costa_2025_W29_Bancosta-Weekly-2025-29": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 58233,
+   "secs": 50
+  },
+  "banchero_costa_2025_W30_Bancosta-Weekly-2025-30": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 63137,
+   "secs": 52
+  },
+  "banchero_costa_2025_W31_Bancosta-Weekly-2025-31": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 56223,
+   "secs": 48
+  },
+  "banchero_costa_2025_W32_Bancosta-Weekly-2025-32": {
+   "pages": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 54420,
+   "secs": 46
+  },
+  "banchero_costa_2025_W34_Bancosta-Weekly-2025-34": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 54738,
+   "secs": 34
+  },
+  "banchero_costa_2025_W35_Bancosta-Weekly-2025-35": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 52544,
+   "secs": 40
+  },
+  "banchero_costa_2025_W36_Bancosta-Weekly-2025-36": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 55899,
+   "secs": 39
+  },
+  "banchero_costa_2025_W37_Bancosta-Weekly-2025-37": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 56664,
+   "secs": 41
+  },
+  "banchero_costa_2025_W38_Bancosta-Weekly-2025-38": {
+   "pages": [
+    3,
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 62351,
+   "secs": 46
+  },
+  "banchero_costa_2025_W39_Bancosta-Weekly-2025-39": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 59845,
+   "secs": 40
+  },
+  "banchero_costa_2025_W40_Bancosta-Weekly-2025-40": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 59609,
+   "secs": 59
+  },
+  "banchero_costa_2025_W41_Bancosta-Weekly-2025-41": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 55758,
+   "secs": 46
+  },
+  "banchero_costa_2025_W42_Bancosta-Weekly-2025-42": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 56048,
+   "secs": 58
+  },
+  "banchero_costa_2025_W44_Bancosta-Weekly-2025-44": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 54277,
+   "secs": 49
+  },
+  "banchero_costa_2025_W45_Bancosta-Weekly-2025-45": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 56831,
+   "secs": 45
+  },
+  "banchero_costa_2025_W46_Bancosta-Weekly-2025-46_compressed": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 56864,
+   "secs": 44
+  },
+  "banchero_costa_2025_W47_Bancosta-Weekly-2025-47_compressed": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 62198,
+   "secs": 49
+  },
+  "banchero_costa_2025_W48_Bancosta-Weekly-2025-48_compressed": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 55446,
+   "secs": 39
+  },
+  "banchero_costa_2025_W49_Bancosta-Weekly-2025-49_compressed": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 56101,
+   "secs": 44
+  },
+  "banchero_costa_2025_W50_Bancosta-Weekly-2025-50_compressed": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 59810,
+   "secs": 39
+  },
+  "banchero_costa_2026_W02_Bancosta-Weekly-2026-02_compressed": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 60388,
+   "secs": 50
+  },
+  "banchero_costa_2026_W06_Bancosta-Weekly-2026-06_compressed": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 57352,
+   "secs": 44
+  },
+  "banchero_costa_2026_W07_Bancosta-Weekly-2026-07_compressed": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 60836,
+   "secs": 45
+  },
+  "banchero_costa_2026_W08_Bancosta-Weekly-2026-08_compressed": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 58880,
+   "secs": 76
+  },
+  "banchero_costa_2026_W17_Bancosta-Weekly-2026-17_compressed": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 59275,
+   "secs": 51
+  },
+  "banchero_costa_2026_W18_Bancosta-Weekly-2026-18_compressed": {
+   "pages": [
+    2,
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 65291,
+   "secs": 56
+  },
+  "banchero_costa_2026_W19_Bancosta-Weekly-2026-19_compressed": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 59029,
+   "secs": 51
+  },
+  "banchero_costa_2026_W20_Bancosta-Weekly-2026-20_compressed": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 56353,
+   "secs": 68
+  },
+  "banchero_costa_2026_W21_Bancosta-Weekly-2026-21_compressed": {
+   "pages": [
+    5,
+    6,
+    7,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    16,
+    17
+   ],
+   "chars": 57607,
+   "secs": 44
+  },
+  "banchero_costa_2026_W22_Bancosta-Weekly-2026-22_compressed": {
+   "pages": [
+    6,
+    7,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    16,
+    17
+   ],
+   "chars": 57511,
+   "secs": 39
+  },
+  "banchero_costa_2026_W23_Bancosta-Weekly-2026-23": {
+   "pages": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "chars": 55688,
+   "secs": 46
+  },
+  "banchero_costa_2026_W27_Bancosta-Weekly-2026-27-1": {
+   "pages": [
+    10
+   ],
+   "chars": 4835,
+   "secs": 24
+  },
+  "banchero_costa_2026_W28_Bancosta-Weekly-2026-28": {
+   "pages": [
+    3
+   ],
+   "chars": 4869,
+   "secs": 23
+  },
+  "banchero_costa_2026_W39_Bancosta-Weekly-2026-39": {
+   "pages": [
+    6,
+    11,
+    17
+   ],
+   "chars": 23474,
+   "secs": 25
+  },
+  "bancosta_30_09_2026_banchero_costa_weekly_market_report_week_39_2026": {
+   "pages": [
+    6,
+    11,
+    17
+   ],
+   "chars": 23474,
+   "secs": 4
+  }
+ },
+ "failed": {
+  "banchero_costa_2026_W38_Bancosta-Weekly-2026-38": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan. (Project ID: 43ad4139-373b-42d6-9938-f0e24487de99)\"}",
+  "banchero_costa_2023_W27_Bancosta-Weekly-2023-27-1": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan. (Project ID: 43ad4139-373b-42d6-9938-f0e24487de99)\"}",
+  "banchero_costa_2023_W28_Bancosta-Weekly-2023-28": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan. (Project ID: 43ad4139-373b-42d6-9938-f0e24487de99)\"}",
+  "banchero_costa_2023_W29_Bancosta-Weekly-2023-29": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan. (Project ID: 43ad4139-373b-42d6-9938-f0e24487de99)\"}",
+  "banchero_costa_2023_W30_Bancosta-Weekly-2023-30": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan. (Project ID: 43ad4139-373b-42d6-9938-f0e24487de99)\"}",
+  "banchero_costa_2023_W31_Bancosta-Weekly-2023-31": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan. (Project ID: 43ad4139-373b-42d6-9938-f0e24487de99)\"}",
+  "banchero_costa_2023_W33_Bancosta-Weekly-2023-33-1": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan. (Project ID: 43ad4139-373b-42d6-9938-f0e24487de99)\"}",
+  "banchero_costa_2023_W35_Bancosta-Weekly-2023-35": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan. (Project ID: 43ad4139-373b-42d6-9938-f0e24487de99)\"}",
+  "banchero_costa_2023_W36_Bancosta-Weekly-2023-36": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan. (Project ID: 43ad4139-373b-42d6-9938-f0e24487de99)\"}",
+  "banchero_costa_2023_W37_Bancosta-Weekly-2023-37": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan. (Project ID: 43ad4139-373b-42d6-9938-f0e24487de99)\"}",
+  "banchero_costa_2023_W38_Bancosta-Weekly-2023-38": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan. (Project ID: 43ad4139-373b-42d6-9938-f0e24487de99)\"}",
+  "banchero_costa_2023_W41_Bancosta-Weekly-2023-41": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan. (Project ID: 43ad4139-373b-42d6-9938-f0e24487de99)\"}",
+  "banchero_costa_2023_W42_Bancosta-Weekly-2023-42": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan. (Project ID: 43ad4139-373b-42d6-9938-f0e24487de99)\"}",
+  "banchero_costa_2023_W43_Bancosta-Weekly-2023-43": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan. (Project ID: 43ad4139-373b-42d6-9938-f0e24487de99)\"}",
+  "banchero_costa_2023_W44_Bancosta-Weekly-2023-44": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan. (Project ID: 43ad4139-373b-42d6-9938-f0e24487de99)\"}",
+  "banchero_costa_2023_W48_Bancosta-Weekly-2023-48": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan. (Project ID: 43ad4139-373b-42d6-9938-f0e24487de99)\"}",
+  "banchero_costa_2023_W49_Bancosta-Weekly-2023-49-1": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan. (Project ID: 43ad4139-373b-42d6-9938-f0e24487de99)\"}",
+  "banchero_costa_2023_W50_Bancosta-Weekly-2023-50": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan. (Project ID: 43ad4139-373b-42d6-9938-f0e24487de99)\"}",
+  "banchero_costa_2024_W01_Bancosta-Weekly-2024-01": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan. (Project ID: 43ad4139-373b-42d6-9938-f0e24487de99)\"}",
+  "banchero_costa_2024_W02_Bancosta-Weekly-2024-02": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan. (Project ID: 43ad4139-373b-42d6-9938-f0e24487de99)\"}",
+  "banchero_costa_2024_W03_Bancosta-Weekly-2024-03": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan. (Project ID: 43ad4139-373b-42d6-9938-f0e24487de99)\"}",
+  "banchero_costa_2024_W04_Bancosta-Weekly-2024-04": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan. (Project ID: 43ad4139-373b-42d6-9938-f0e24487de99)\"}",
+  "banchero_costa_2024_W05_Bancosta-Weekly-2024-05": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan. (Project ID: 43ad4139-373b-42d6-9938-f0e24487de99)\"}",
+  "banchero_costa_2024_W06_Bancosta-Weekly-2024-06": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan. (Project ID: 43ad4139-373b-42d6-9938-f0e24487de99)\"}",
+  "banchero_costa_2024_W07_Bancosta-Weekly-2024-07": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan. (Project ID: 43ad4139-373b-42d6-9938-f0e24487de99)\"}",
+  "banchero_costa_2024_W08_Bancosta-Weekly-2024-08": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan. (Project ID: 43ad4139-373b-42d6-9938-f0e24487de99)\"}",
+  "banchero_costa_2024_W10_Bancosta-Weekly-2024-10": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan. (Project ID: 43ad4139-373b-42d6-9938-f0e24487de99)\"}",
+  "banchero_costa_2024_W11_Bancosta-Weekly-2024-11": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan. (Project ID: 43ad4139-373b-42d6-9938-f0e24487de99)\"}",
+  "banchero_costa_2024_W12_Bancosta-Weekly-2024-12": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan. (Project ID: 43ad4139-373b-42d6-9938-f0e24487de99)\"}",
+  "banchero_costa_2026_W39_Bancosta-Weekly-2026-39": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan. (Project ID: 43ad4139-373b-42d6-9938-f0e24487de99)\"}",
+  "bancosta_30_09_2026_banchero_costa_weekly_market_report_week_39_2026": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan. (Project ID: 43ad4139-373b-42d6-9938-f0e24487de99)\"}"
+ },
+ "pages_parsed": 944,
+ "credits_estimated": 2832,
+ "tier": "cost_effective",
+ "skipped_clean": {
+  "banchero_costa_2023_W27_Bancosta-Weekly-2023-27-1": "routing map: no ciphered pages",
+  "banchero_costa_2023_W28_Bancosta-Weekly-2023-28": "routing map: no ciphered pages",
+  "banchero_costa_2023_W29_Bancosta-Weekly-2023-29": "routing map: no ciphered pages",
+  "banchero_costa_2023_W30_Bancosta-Weekly-2023-30": "routing map: no ciphered pages",
+  "banchero_costa_2023_W31_Bancosta-Weekly-2023-31": "routing map: no ciphered pages",
+  "banchero_costa_2023_W33_Bancosta-Weekly-2023-33-1": "routing map: no ciphered pages",
+  "banchero_costa_2023_W35_Bancosta-Weekly-2023-35": "routing map: no ciphered pages",
+  "banchero_costa_2023_W36_Bancosta-Weekly-2023-36": "routing map: no ciphered pages",
+  "banchero_costa_2023_W37_Bancosta-Weekly-2023-37": "routing map: no ciphered pages",
+  "banchero_costa_2023_W38_Bancosta-Weekly-2023-38": "routing map: no ciphered pages",
+  "banchero_costa_2023_W41_Bancosta-Weekly-2023-41": "routing map: no ciphered pages",
+  "banchero_costa_2023_W42_Bancosta-Weekly-2023-42": "routing map: no ciphered pages",
+  "banchero_costa_2023_W43_Bancosta-Weekly-2023-43": "routing map: no ciphered pages",
+  "banchero_costa_2023_W44_Bancosta-Weekly-2023-44": "routing map: no ciphered pages",
+  "banchero_costa_2023_W48_Bancosta-Weekly-2023-48": "routing map: no ciphered pages",
+  "banchero_costa_2023_W49_Bancosta-Weekly-2023-49-1": "routing map: no ciphered pages",
+  "banchero_costa_2023_W50_Bancosta-Weekly-2023-50": "routing map: no ciphered pages",
+  "banchero_costa_2024_W01_Bancosta-Weekly-2024-01": "routing map: no ciphered pages",
+  "banchero_costa_2024_W02_Bancosta-Weekly-2024-02": "routing map: no ciphered pages",
+  "banchero_costa_2024_W03_Bancosta-Weekly-2024-03": "routing map: no ciphered pages",
+  "banchero_costa_2024_W04_Bancosta-Weekly-2024-04": "routing map: no ciphered pages",
+  "banchero_costa_2024_W05_Bancosta-Weekly-2024-05": "routing map: no ciphered pages",
+  "banchero_costa_2024_W06_Bancosta-Weekly-2024-06": "routing map: no ciphered pages",
+  "banchero_costa_2024_W07_Bancosta-Weekly-2024-07": "routing map: no ciphered pages",
+  "banchero_costa_2024_W08_Bancosta-Weekly-2024-08": "routing map: no ciphered pages",
+  "banchero_costa_2024_W10_Bancosta-Weekly-2024-10": "routing map: no ciphered pages",
+  "banchero_costa_2024_W11_Bancosta-Weekly-2024-11": "routing map: no ciphered pages",
+  "banchero_costa_2024_W12_Bancosta-Weekly-2024-12": "routing map: no ciphered pages",
+  "banchero_costa_2024_W14_Bancosta-Weekly-2024-14": "routing map: no ciphered pages",
+  "banchero_costa_2024_W15_Bancosta-Weekly-2024-15": "routing map: no ciphered pages",
+  "banchero_costa_2024_W16_Bancosta-Weekly-2024-16": "routing map: no ciphered pages",
+  "banchero_costa_2024_W17_Bancosta-Weekly-2024-17": "routing map: no ciphered pages",
+  "banchero_costa_2024_W18_Bancosta-Weekly-2024-18": "routing map: no ciphered pages",
+  "banchero_costa_2024_W19_Bancosta-Weekly-2024-19": "routing map: no ciphered pages",
+  "banchero_costa_2024_W20_Bancosta-Weekly-2024-20": "routing map: no ciphered pages",
+  "banchero_costa_2024_W21_Bancosta-Weekly-2024-21": "routing map: no ciphered pages",
+  "banchero_costa_2024_W22_Bancosta-Weekly-2024-22": "routing map: no ciphered pages",
+  "banchero_costa_2024_W23_Bancosta-Weekly-2024-23": "routing map: no ciphered pages",
+  "banchero_costa_2024_W24_Bancosta-Weekly-2024-24": "routing map: no ciphered pages",
+  "banchero_costa_2024_W25_Bancosta-Weekly-2024-25": "routing map: no ciphered pages",
+  "banchero_costa_2024_W26_Bancosta-Weekly-2024-26": "routing map: no ciphered pages",
+  "banchero_costa_2024_W27_Bancosta-Weekly-2024-27": "routing map: no ciphered pages",
+  "banchero_costa_2024_W28_Bancosta-Weekly-2024-28": "routing map: no ciphered pages",
+  "banchero_costa_2024_W30_Bancosta-Weekly-2024-30": "routing map: no ciphered pages",
+  "banchero_costa_2024_W31_Bancosta-Weekly-2024-31": "routing map: no ciphered pages",
+  "banchero_costa_2024_W32_Bancosta-Weekly-2024-32": "routing map: no ciphered pages",
+  "banchero_costa_2024_W33_Bancosta-Weekly-2024-33": "routing map: no ciphered pages",
+  "banchero_costa_2024_W36_Bancosta-Weekly-2024-36": "routing map: no ciphered pages",
+  "banchero_costa_2024_W37_Bancosta-Weekly-2024-37": "routing map: no ciphered pages",
+  "banchero_costa_2024_W38_Bancosta-Weekly-2024-38": "routing map: no ciphered pages",
+  "banchero_costa_2024_W39_Bancosta-Weekly-2024-39": "routing map: no ciphered pages",
+  "banchero_costa_2024_W40_Bancosta-Weekly-2024-40": "routing map: no ciphered pages",
+  "banchero_costa_2024_W41_Bancosta-Weekly-2024-41": "routing map: no ciphered pages",
+  "banchero_costa_2024_W43_Bancosta-Weekly-2024-43": "routing map: no ciphered pages",
+  "banchero_costa_2024_W44_Bancosta-Weekly-2024-44": "routing map: no ciphered pages",
+  "banchero_costa_2024_W45_Bancosta-Weekly-2024-45": "routing map: no ciphered pages",
+  "banchero_costa_2024_W46_Bancosta-Weekly-2024-46": "routing map: no ciphered pages",
+  "banchero_costa_2024_W48_Bancosta-Weekly-2024-48": "routing map: no ciphered pages",
+  "banchero_costa_2025_W21_Bancosta-Weekly-2025-21": "routing map: no ciphered pages",
+  "banchero_costa_2025_W24_Bancosta-Weekly-2025-24": "routing map: no ciphered pages",
+  "banchero_costa_2026_W09_Bancosta-Weekly-2026-09": "routing map: no ciphered pages",
+  "banchero_costa_2026_W10_Bancosta-Weekly-2026-10": "routing map: no ciphered pages",
+  "banchero_costa_2026_W11_Bancosta-Weekly-2026-11": "routing map: no ciphered pages",
+  "banchero_costa_2026_W12_Bancosta-Weekly-2026-12": "routing map: no ciphered pages",
+  "banchero_costa_2026_W13_Bancosta-Weekly-2026-13": "routing map: no ciphered pages",
+  "banchero_costa_2026_W15_Bancosta-Weekly-2026-15": "routing map: no ciphered pages",
+  "banchero_costa_2026_W16_Bancosta-Weekly-2026-16": "routing map: no ciphered pages",
+  "banchero_costa_2026_W24_Bancosta-Weekly-2026-24": "routing map: no ciphered pages",
+  "banchero_costa_2026_W25_Bancosta-Weekly-2026-25": "routing map: no ciphered pages",
+  "banchero_costa_2026_W26_Bancosta-Weekly-2026-26": "routing map: no ciphered pages",
+  "banchero_costa_2026_W29_Bancosta-Weekly-2026-29": "routing map: no ciphered pages",
+  "banchero_costa_2026_W30_Bancosta-Weekly-2026-30": "routing map: no ciphered pages",
+  "banchero_costa_2026_W31_Bancosta-Weekly-2026-31": "routing map: no ciphered pages",
+  "banchero_costa_2026_W32_Bancosta-Weekly-2026-32": "routing map: no ciphered pages",
+  "banchero_costa_2026_W33_Bancosta-Weekly-2026-33": "routing map: no ciphered pages",
+  "banchero_costa_2026_W34_Bancosta-Weekly-2026-34": "routing map: no ciphered pages",
+  "banchero_costa_2026_W35_Bancosta-Weekly-2026-35": "routing map: no ciphered pages"
+ },
+ "skipped_unknown": {
+  "banchero_costa_2026_W39_Bancosta-Weekly-2026-39": "not in routing map",
+  "bancosta_30_09_2026_banchero_costa_weekly_market_report_week_39_2026": "not in routing map"
+ }
+}

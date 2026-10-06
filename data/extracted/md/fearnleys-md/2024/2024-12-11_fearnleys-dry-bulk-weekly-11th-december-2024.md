@@ -1,0 +1,73 @@
+---
+title: "Fearnleys Dry Bulk Weekly"
+issue_date: "2024-12-11"
+year: 2024
+department: "BULK"
+publisher: "Fearnleys"
+category: "bespoke_research"
+report_id: "26a2926c-d028-458b-ae7d-557a3cca79b5"
+images_count: 12
+local_pdf: "../pdfs/2024/2024-12-11_fearnleys-dry-bulk-weekly-11th-december-2024.pdf"
+pdf_url: "https://pbrkapp.blob.core.windows.net/report/26a2926c-d028-458b-ae7d-557a3cca79b5/report.pdf"
+---
+# Fearnleys Dry Bulk Weekly
+
+**Date:** 2024-12-11 | **Department:** BULK | **Publisher:** Fearnleys AS  
+**Original PDF:** [Local PDF](../pdfs/2024/2024-12-11_fearnleys-dry-bulk-weekly-11th-december-2024.pdf) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/26a2926c-d028-458b-ae7d-557a3cca79b5/report.pdf)  
+
+---
+
+## Capesize/Newcastlemax
+
+Last week, we wrote the following:
+
+*In December, the market either trends down or gets a late-month push due to the seasonal increase in Australian exports to China. We are unsure how it will develop this year, but it is clear that fundamentals are weak, so an eventual rally will not likely be major. 
+According to Platts, China will hold its Central Economic Working Conference next week, setting China's economic goals for 2025, including GDP growth and the fiscal deficit ratio."
+
+More announcements have come since last week regarding China's stimulus measures. The most important one was a statement from the PBOC suggesting they might allow the currency to weaken next year. Our previous two monthly reports covered why the USDCNY is an important factor for dry bulk markets. Regarding spot markets, we do not see any sign of a late-year bounce, so most likely the markets will continue falling into January.
+
+> **Chart 1: Australia Iron Ore Export Seasonality**  
+> *Figure Asset:* [`AUSTRALIA CAPE SEASONALITY.png`](../images/26a2926c-d028-458b-ae7d-557a3cca79b5/AUSTRALIA%20CAPE%20SEASONALITY.png)
+
+> **Chart 2: China Bulk Commodity Imports Year on Year vs USDCNY Year on Year, 9 Months Lead**  
+> *Figure Asset:* [`USDCNY vs China Import Growth Lead.png`](../images/26a2926c-d028-458b-ae7d-557a3cca79b5/USDCNY%20vs%20China%20Import%20Growth%20Lead.png)
+
+> **Chart 3: Iron Ore Price Lead vs BCI5TC**  
+> *Figure Asset:* [`IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png`](../images/26a2926c-d028-458b-ae7d-557a3cca79b5/IRON%20ORE%20PRICE%203%20MONTH%20LEAD%20VS%20BCI5TC.png)
+
+> **Chart 4: China Imported Iron Ore Consumption Lead vs BCI5TC 1 Month Change**  
+> *Figure Asset:* [`CHINA IMPORTED IRON ORE CONSUMPTION LEAD VS CAPESIZE 1 MONTH CHANGE.png`](../images/26a2926c-d028-458b-ae7d-557a3cca79b5/CHINA%20IMPORTED%20IRON%20ORE%20CONSUMPTION%20LEAD%20VS%20CAPESIZE%201%20MONTH%20CHANGE.png)
+
+## Panamax/Kamsarmax
+
+We are seeing a bit better tonnage balance both in the Atlantic and the Pacific. However, it's all relative, as the fundamental backdrop remains weak. China's coal import market is weighed down by higher than normal temperatures and record-high inventories. The latter point poses a risk to fundamentals next year. 
+The South American grain season is at a low point, and there should be a few more weeks before vessel requirements start increasing. The US grain season peaked one month ago, with a significant drop in the count of vessels heading there since then.
+
+> **Chart 5: Panamax / Kamsarmax Market Seasonality**  
+> *Figure Asset:* [`PANAMAX KAMSARMAX SEASONAL AVERAGE.png`](../images/26a2926c-d028-458b-ae7d-557a3cca79b5/PANAMAX%20KAMSARMAX%20SEASONAL%20AVERAGE.png)
+
+> **Chart 6: Panamax / Kamsarmax Laden With Coal to China**  
+> *Figure Asset:* [`PANAMAX KAMSARMAX LADEN WITH COAL TO CHINA.png`](../images/5937cb77-ac2a-4dfa-9015-5bd679e056b3/PANAMAX%20KAMSARMAX%20LADEN%20WITH%20COAL%20TO%20CHINA.png)
+
+> **Chart 7: Panamax / Kamsarmax Laden With Soybeans to China**  
+> *Figure Asset:* [`PANAMAX KAMSARMAX HEADING TO CHINA WITH SOYBEANS.png`](../images/5937cb77-ac2a-4dfa-9015-5bd679e056b3/PANAMAX%20KAMSARMAX%20HEADING%20TO%20CHINA%20WITH%20SOYBEANS.png)
+
+> **Chart 8: Copper Price Lead vs Kamsarmax 1 Year TC Change**  
+> *Figure Asset:* [`Copper price vs Panamax 1 year tc.png`](../images/5937cb77-ac2a-4dfa-9015-5bd679e056b3/Copper%20price%20vs%20Panamax%201%20year%20tc.png)
+
+## Supramax/Ultramax
+
+The market has found some stability in the last weeks, during a seasonal period where there often is a bounce. The tonnage balance is slightly tighter in the Pacific, and we also see some relative improvement in the USG and South America. The continent and med remain weak spots, however. 
+Going forward, we reiterate our view given last week, that sideways to slightly down is the most likely trajectory going forward.
+
+> **Chart 9: Supramax / Ultramax Heading to Brazil**  
+> *Figure Asset:* [`SUPRAMAX ULTRAMAX HEADING TO BRAZIL.png`](../images/5937cb77-ac2a-4dfa-9015-5bd679e056b3/SUPRAMAX%20ULTRAMAX%20HEADING%20TO%20BRAZIL.png)
+
+> **Chart 10: Supramax / Ultramax Heading to the US**  
+> *Figure Asset:* [`SUPRAMAX ULTRAMAX HEADING TO THE US.png`](../images/5937cb77-ac2a-4dfa-9015-5bd679e056b3/SUPRAMAX%20ULTRAMAX%20HEADING%20TO%20THE%20US.png)
+
+> **Chart 11: Copper Price Lead vs Supramax 1 Year TC 6 Months Change**  
+> *Figure Asset:* [`COPPER PRICE VS SUPRAMAX 1 YEAR TC.png`](../images/44f752d9-af17-4823-87a4-654d27e7f7da/COPPER%20PRICE%20VS%20SUPRAMAX%201%20YEAR%20TC.png)
+
+> **Chart 12: Supramax / Ultramax Seasonal Average**  
+> *Figure Asset:* [`SUPRAMAX ULTRAMAX SEASONAL AVERAGE.png`](../images/26a2926c-d028-458b-ae7d-557a3cca79b5/SUPRAMAX%20ULTRAMAX%20SEASONAL%20AVERAGE.png)

@@ -1,0 +1,39 @@
+{
+  "report_id": "d95499e3-a127-4d82-a1ca-f7afb680e61b",
+  "issue_date": "2025-01-08",
+  "year": 2025,
+  "department": "BULK",
+  "report_title": "Fearnleys Dry Bulk Weekly",
+  "shipment_volume_metrics": [],
+  "coal_futures_spread_metrics": [],
+  "time_charter_vs_asset_metrics": [],
+  "vessel_tightness_metrics": [],
+  "macro_correlation_metrics": [
+    {
+      "issue_date": "2025-01-08",
+      "year": "2025",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "macro_metric": "Iron Ore Price 3M Lead vs BCI5TC",
+      "freight_benchmark_val": 10985.9,
+      "macro_indicator_val": 95.1,
+      "lead_tenor": "3 Months",
+      "chart_title": "IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png",
+      "report_id": "d95499e3-a127-4d82-a1ca-f7afb680e61b"
+    },
+    {
+      "issue_date": "2025-01-08",
+      "year": "2025",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "macro_metric": "Copper 6M Change Lead vs Supramax 1Y TC 6M Change",
+      "freight_benchmark_val": -5.4,
+      "macro_indicator_val": -0.2,
+      "lead_tenor": "6 Months",
+      "chart_title": "COPPER PRICE VS SUPRAMAX 1 YEAR TC.png",
+      "report_id": "d95499e3-a127-4d82-a1ca-f7afb680e61b"
+    }
+  ],
+  "charts_count": 12,
+  "source_markdown": "2025-01-08_fearnleys-dry-bulk-weekly-1st-january-2025.md"
+}

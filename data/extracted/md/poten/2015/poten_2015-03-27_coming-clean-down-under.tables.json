@@ -1,0 +1,43 @@
+{
+  "issue_date": "2015-03-27",
+  "year": 2015,
+  "title": "Coming Clean Down Under",
+  "source_file": "corpus/04-poten/pdfs/2015/Tanker_Opinion_20150327.pdf",
+  "tables_count": 0,
+  "charts_count": 3,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2015-03-27_coming-clean-down-under_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2015/poten_2015-03-27_coming-clean-down-under_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-03-27_coming-clean-down-under_chart1.png",
+      "width": 571,
+      "height": 779
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2015-03-27_coming-clean-down-under_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2015/poten_2015-03-27_coming-clean-down-under_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-03-27_coming-clean-down-under_chart2.png",
+      "width": 863,
+      "height": 628
+    },
+    {
+      "chart_num": 3,
+      "page": 0,
+      "file_name": "poten_2015-03-27_coming-clean-down-under_chart3.png",
+      "rel_path": "data/extracted/charts/poten/2015/poten_2015-03-27_coming-clean-down-under_chart3.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-03-27_coming-clean-down-under_chart3.png",
+      "width": 986,
+      "height": 528
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

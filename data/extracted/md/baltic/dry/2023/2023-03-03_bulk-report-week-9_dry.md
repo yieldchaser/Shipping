@@ -1,0 +1,43 @@
+---
+title: "Bulk Report – Week 9"
+date: "2023-03-03"
+display_date: "03 March 2023"
+year: 2023
+week: 9
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2023/bulk-report-week-9.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 669
+sections_count: 4
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2023/2023-03-03_bulk-report-week-9_dry.html"
+---
+
+# Bulk Report – Week 9
+
+**Date:** 03 March 2023  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2023/bulk-report-week-9.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2023/bulk-report-week-9.html)  
+
+---
+
+### Capesize
+
+The average of the 5 Capesize timecharter routes were one step away from breaking through the $10,000 threshold upon closing on Friday after a week of continuous improvement. The BCI climbed over the 1,000-point benchmark on Thursday and despite the backhaul route remaining in the negative territory, positive trends were across the board. Amid the surge, East Australia coal to China - which was finally back in the market - reflected a daily hire of about $10,500 on the Transpacific round voyage. The China to Brazil round voyage, being a trip of a much longer duration but currently rewarding about the same time charter rate as the Transpacific run, or in the mid-high $18s per metric ton on a voyage basis.
+
+### Panamax
+
+It was an eventful week with the market finally finding some life. The week did begin slowly, but eventually sparked and was duly accompanied by an FFA drive only to flatten out somewhat as the week ended. In the Atlantic, April arrivals in EC South America was where the majority of the action was at. Nicely described 82,000-dwt types were achieving in excess of $16,500 plus $650,000 ballast bonus delivery Aps midweek. Further north, activity was less liquid. However, rates here rose too with $19,000 plus $900,000 ballast bonus the highlight delivery Aps US Gulf for a trip Far East. In Asia, rates improved and were buoyed somewhat by the pick-up in South America. Rates for Indonesian coal trips to China improved from around the $11,000 level to closer to $13,000 levels by Friday. A solid week too for period with various deals concluded as the nearby optimism in the market persisted. An 81,500-dwt agreed to $16,000 basis six to eight months trading.
+
+### Ultramax/Supramax
+
+Generally a positive week for the sector, which saw strong rates being achieved in key areas. With a tight tonnage supply from the South Atlantic, rates pushed up whilst the US Gulf was finely balanced. Activity increased from the Mediterranean again helping the owning side. It was a mixed bag from Asia, but the beginning of the week saw strong demand and healthy numbers being achieved across the board. As the week finished, with most prompt cargoes being covered positive, sentiment dipped and rate levels eased. Period activity was strong and a 63,000-dwt open Continent fixed 12/14 months trading at $17,000. Elsewhere, a 60,000-dwt open Indian Ocean fixed 12/14 months at $16,000. In the Atlantic, an Ultramax was heard fixed for an EC South American fronthaul at $16,000 plus $600,000 ballast bonus. Meanwhile, a 63,000-dwt fixed delivery US Gulf for a Transatlantic run at $18,500. From Asia, a 55,000-dwt open Singapore fixed a Indonesian round voyage to South China in excess of $20,000. A 61,000-dwt open South China fixed a trip via Indonesia redelivery WC India at $19,000.
+
+### Handysize
+
+Positivity was seen across all regions, with rate levels improving day on day. East Coast South America was said to have limited open tonnage for the first half of March and a 39,000-dwt was rumoured to have been fixed for a trip from Recalada to Denmark with an intended cargo of grains at $15,500. A 37,000-dwt was fixed from Vila Do Conde to Norway with an intended cargo of alumina at $13,500. The Mediterranean was also seeing levels improve with a 34,000-dwt rumoured to have fixed a trip from the Western Mediterranean via the Black Sea to the US Gulf at $9,000. A 38,000-dwt was fixed from Japan via the US West Coast to Singapore-Japan at $14,500 whilst a 35,000-dwt open in the Philippines was fixed via Australia to South China at $12,000. The period market was also active with a 34,000-dwt fixing for multiple legs in the low teens.
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  

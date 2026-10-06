@@ -1,0 +1,527 @@
+[
+  {
+    "headers": [
+      "week",
+      "2022 year",
+      "2023 year",
+      "2024 year"
+    ],
+    "rows": [
+      {
+        "week": "1",
+        "2022 year": "48",
+        "2023 year": "70",
+        "2024 year": "34"
+      },
+      {
+        "week": "4",
+        "2022 year": "40",
+        "2023 year": "53",
+        "2024 year": "34"
+      },
+      {
+        "week": "7",
+        "2022 year": "65",
+        "2023 year": "52",
+        "2024 year": "34"
+      },
+      {
+        "week": "10",
+        "2022 year": "70",
+        "2023 year": "50",
+        "2024 year": "34"
+      },
+      {
+        "week": "13",
+        "2022 year": "72",
+        "2023 year": "48",
+        "2024 year": "34"
+      },
+      {
+        "week": "16",
+        "2022 year": "75",
+        "2023 year": "47",
+        "2024 year": "34"
+      },
+      {
+        "week": "19",
+        "2022 year": "85",
+        "2023 year": "45",
+        "2024 year": "34"
+      },
+      {
+        "week": "22",
+        "2022 year": "125",
+        "2023 year": "36",
+        "2024 year": "34"
+      },
+      {
+        "week": "25",
+        "2022 year": "125",
+        "2023 year": "36",
+        "2024 year": "34"
+      },
+      {
+        "week": "28",
+        "2022 year": "125",
+        "2023 year": "36",
+        "2024 year": "34"
+      },
+      {
+        "week": "31",
+        "2022 year": "90",
+        "2023 year": "36",
+        "2024 year": "34"
+      },
+      {
+        "week": "34",
+        "2022 year": "70",
+        "2023 year": "55",
+        "2024 year": "34"
+      },
+      {
+        "week": "37",
+        "2022 year": "68",
+        "2023 year": "60",
+        "2024 year": "34"
+      },
+      {
+        "week": "40",
+        "2022 year": "65",
+        "2023 year": "62",
+        "2024 year": "34"
+      },
+      {
+        "week": "43",
+        "2022 year": "85",
+        "2023 year": "40",
+        "2024 year": "34"
+      },
+      {
+        "week": "46",
+        "2022 year": "75",
+        "2023 year": "36",
+        "2024 year": "34"
+      },
+      {
+        "week": "49",
+        "2022 year": "72",
+        "2023 year": "35",
+        "2024 year": "34"
+      },
+      {
+        "week": "52",
+        "2022 year": "70",
+        "2023 year": "35",
+        "2024 year": "34"
+      }
+    ],
+    "table_id": "table_01",
+    "issue_date": "2024-02-02",
+    "report_week": 5,
+    "source_file": "star_asia_2024_W05_ISM_coaster_week5-1.pdf",
+    "table_type": "market_data"
+  },
+  {
+    "headers": [
+      "week",
+      "2022 year",
+      "2023 year",
+      "2024 year"
+    ],
+    "rows": [
+      {
+        "week": "1",
+        "2022 year": "47",
+        "2023 year": "27",
+        "2024 year": "29"
+      },
+      {
+        "week": "4",
+        "2022 year": "40",
+        "2023 year": "24",
+        "2024 year": "28"
+      },
+      {
+        "week": "7",
+        "2022 year": "39",
+        "2023 year": "23",
+        "2024 year": "28"
+      },
+      {
+        "week": "10",
+        "2022 year": "42",
+        "2023 year": "23",
+        "2024 year": "28"
+      },
+      {
+        "week": "13",
+        "2022 year": "38",
+        "2023 year": "23",
+        "2024 year": "28"
+      },
+      {
+        "week": "16",
+        "2022 year": "30",
+        "2023 year": "23",
+        "2024 year": "28"
+      },
+      {
+        "week": "19",
+        "2022 year": "28",
+        "2023 year": "22",
+        "2024 year": "28"
+      },
+      {
+        "week": "22",
+        "2022 year": "28",
+        "2023 year": "21",
+        "2024 year": "28"
+      },
+      {
+        "week": "25",
+        "2022 year": "28",
+        "2023 year": "21",
+        "2024 year": "28"
+      },
+      {
+        "week": "28",
+        "2022 year": "28",
+        "2023 year": "20",
+        "2024 year": "28"
+      },
+      {
+        "week": "31",
+        "2022 year": "24",
+        "2023 year": "20",
+        "2024 year": "28"
+      },
+      {
+        "week": "34",
+        "2022 year": "23",
+        "2023 year": "20",
+        "2024 year": "28"
+      },
+      {
+        "week": "37",
+        "2022 year": "23",
+        "2023 year": "24",
+        "2024 year": "28"
+      },
+      {
+        "week": "40",
+        "2022 year": "26",
+        "2023 year": "25",
+        "2024 year": "28"
+      },
+      {
+        "week": "43",
+        "2022 year": "27",
+        "2023 year": "26",
+        "2024 year": "28"
+      },
+      {
+        "week": "46",
+        "2022 year": "28",
+        "2023 year": "26",
+        "2024 year": "28"
+      },
+      {
+        "week": "49",
+        "2022 year": "29",
+        "2023 year": "29",
+        "2024 year": "28"
+      },
+      {
+        "week": "52",
+        "2022 year": "29",
+        "2023 year": "29",
+        "2024 year": "28"
+      }
+    ],
+    "table_id": "table_02",
+    "issue_date": "2024-02-02",
+    "report_week": 5,
+    "source_file": "star_asia_2024_W05_ISM_coaster_week5-1.pdf",
+    "table_type": "market_data"
+  },
+  {
+    "headers": [
+      "week",
+      "Rus steel billets, calc. CFR Marmara, $/t",
+      "Freight rate, billets, 5-6,000t, Novo - Marmara, $/t",
+      "% of freight costs in CFR price"
+    ],
+    "rows": [
+      {
+        "week": "5",
+        "Rus steel billets, calc. CFR Marmara, $/t": "540",
+        "Freight rate, billets, 5-6,000t, Novo - Marmara, $/t": "10",
+        "% of freight costs in CFR price": "4%"
+      },
+      {
+        "week": "9",
+        "Rus steel billets, calc. CFR Marmara, $/t": "600",
+        "Freight rate, billets, 5-6,000t, Novo - Marmara, $/t": "10",
+        "% of freight costs in CFR price": "4%"
+      },
+      {
+        "week": "13",
+        "Rus steel billets, calc. CFR Marmara, $/t": "600",
+        "Freight rate, billets, 5-6,000t, Novo - Marmara, $/t": "10",
+        "% of freight costs in CFR price": "4%"
+      },
+      {
+        "week": "17",
+        "Rus steel billets, calc. CFR Marmara, $/t": "580",
+        "Freight rate, billets, 5-6,000t, Novo - Marmara, $/t": "10",
+        "% of freight costs in CFR price": "3%"
+      },
+      {
+        "week": "21",
+        "Rus steel billets, calc. CFR Marmara, $/t": "540",
+        "Freight rate, billets, 5-6,000t, Novo - Marmara, $/t": "10",
+        "% of freight costs in CFR price": "3%"
+      },
+      {
+        "week": "25",
+        "Rus steel billets, calc. CFR Marmara, $/t": "520",
+        "Freight rate, billets, 5-6,000t, Novo - Marmara, $/t": "10",
+        "% of freight costs in CFR price": "3%"
+      },
+      {
+        "week": "29",
+        "Rus steel billets, calc. CFR Marmara, $/t": "460",
+        "Freight rate, billets, 5-6,000t, Novo - Marmara, $/t": "10",
+        "% of freight costs in CFR price": "3%"
+      },
+      {
+        "week": "33",
+        "Rus steel billets, calc. CFR Marmara, $/t": "470",
+        "Freight rate, billets, 5-6,000t, Novo - Marmara, $/t": "10",
+        "% of freight costs in CFR price": "4%"
+      },
+      {
+        "week": "37",
+        "Rus steel billets, calc. CFR Marmara, $/t": "480",
+        "Freight rate, billets, 5-6,000t, Novo - Marmara, $/t": "10",
+        "% of freight costs in CFR price": "4%"
+      },
+      {
+        "week": "41",
+        "Rus steel billets, calc. CFR Marmara, $/t": "490",
+        "Freight rate, billets, 5-6,000t, Novo - Marmara, $/t": "10",
+        "% of freight costs in CFR price": "4%"
+      },
+      {
+        "week": "45",
+        "Rus steel billets, calc. CFR Marmara, $/t": "510",
+        "Freight rate, billets, 5-6,000t, Novo - Marmara, $/t": "10",
+        "% of freight costs in CFR price": "4%"
+      },
+      {
+        "week": "49",
+        "Rus steel billets, calc. CFR Marmara, $/t": "520",
+        "Freight rate, billets, 5-6,000t, Novo - Marmara, $/t": "10",
+        "% of freight costs in CFR price": "4%"
+      },
+      {
+        "week": "1",
+        "Rus steel billets, calc. CFR Marmara, $/t": "520",
+        "Freight rate, billets, 5-6,000t, Novo - Marmara, $/t": "10",
+        "% of freight costs in CFR price": "4%"
+      },
+      {
+        "week": "5",
+        "Rus steel billets, calc. CFR Marmara, $/t": "520",
+        "Freight rate, billets, 5-6,000t, Novo - Marmara, $/t": "10",
+        "% of freight costs in CFR price": "4%"
+      }
+    ],
+    "table_id": "table_03",
+    "issue_date": "2024-02-02",
+    "report_week": 5,
+    "source_file": "star_asia_2024_W05_ISM_coaster_week5-1.pdf",
+    "table_type": "market_data"
+  },
+  {
+    "headers": [
+      "week",
+      "BISea - Med RV, 10,000 DWCC minibulker",
+      "BISea - Marmara RV, 5,000 DWCC seagoing vsl",
+      "Azov - Marmara RV, 3,000 DWCC sea-river vsl",
+      "Gulf of Finland (St-Pb) - UK/Ireland, 5,000 DWCC coaster",
+      "Gulf of Finland (St-Pb) - ARA RV, 3,000 DWCC coaster",
+      "Lower Baltic - ARA RV, 3,000 DWCC coaster"
+    ],
+    "rows": [
+      {
+        "week": "6",
+        "BISea - Med RV, 10,000 DWCC minibulker": "4200",
+        "BISea - Marmara RV, 5,000 DWCC seagoing vsl": "2800",
+        "Azov - Marmara RV, 3,000 DWCC sea-river vsl": "6200",
+        "Gulf of Finland (St-Pb) - UK/Ireland, 5,000 DWCC coaster": "11,500",
+        "Gulf of Finland (St-Pb) - ARA RV, 3,000 DWCC coaster": "8500",
+        "Lower Baltic - ARA RV, 3,000 DWCC coaster": "2800"
+      },
+      {
+        "week": "9",
+        "BISea - Med RV, 10,000 DWCC minibulker": "4300",
+        "BISea - Marmara RV, 5,000 DWCC seagoing vsl": "2900",
+        "Azov - Marmara RV, 3,000 DWCC sea-river vsl": "10,800",
+        "Gulf of Finland (St-Pb) - UK/Ireland, 5,000 DWCC coaster": "11,000",
+        "Gulf of Finland (St-Pb) - ARA RV, 3,000 DWCC coaster": "8200",
+        "Lower Baltic - ARA RV, 3,000 DWCC coaster": "2700"
+      },
+      {
+        "week": "12",
+        "BISea - Med RV, 10,000 DWCC minibulker": "4400",
+        "BISea - Marmara RV, 5,000 DWCC seagoing vsl": "2800",
+        "Azov - Marmara RV, 3,000 DWCC sea-river vsl": "10,500",
+        "Gulf of Finland (St-Pb) - UK/Ireland, 5,000 DWCC coaster": "10,000",
+        "Gulf of Finland (St-Pb) - ARA RV, 3,000 DWCC coaster": "8000",
+        "Lower Baltic - ARA RV, 3,000 DWCC coaster": "2700"
+      },
+      {
+        "week": "15",
+        "BISea - Med RV, 10,000 DWCC minibulker": "4300",
+        "BISea - Marmara RV, 5,000 DWCC seagoing vsl": "2700",
+        "Azov - Marmara RV, 3,000 DWCC sea-river vsl": "9800",
+        "Gulf of Finland (St-Pb) - UK/Ireland, 5,000 DWCC coaster": "9200",
+        "Gulf of Finland (St-Pb) - ARA RV, 3,000 DWCC coaster": "7800",
+        "Lower Baltic - ARA RV, 3,000 DWCC coaster": "2700"
+      },
+      {
+        "week": "18",
+        "BISea - Med RV, 10,000 DWCC minibulker": "4200",
+        "BISea - Marmara RV, 5,000 DWCC seagoing vsl": "2600",
+        "Azov - Marmara RV, 3,000 DWCC sea-river vsl": "8500",
+        "Gulf of Finland (St-Pb) - UK/Ireland, 5,000 DWCC coaster": "8500",
+        "Gulf of Finland (St-Pb) - ARA RV, 3,000 DWCC coaster": "7500",
+        "Lower Baltic - ARA RV, 3,000 DWCC coaster": "2600"
+      },
+      {
+        "week": "21",
+        "BISea - Med RV, 10,000 DWCC minibulker": "4000",
+        "BISea - Marmara RV, 5,000 DWCC seagoing vsl": "2500",
+        "Azov - Marmara RV, 3,000 DWCC sea-river vsl": "1400",
+        "Gulf of Finland (St-Pb) - UK/Ireland, 5,000 DWCC coaster": "7800",
+        "Gulf of Finland (St-Pb) - ARA RV, 3,000 DWCC coaster": "7200",
+        "Lower Baltic - ARA RV, 3,000 DWCC coaster": "2600"
+      },
+      {
+        "week": "24",
+        "BISea - Med RV, 10,000 DWCC minibulker": "4100",
+        "BISea - Marmara RV, 5,000 DWCC seagoing vsl": "2400",
+        "Azov - Marmara RV, 3,000 DWCC sea-river vsl": "2000",
+        "Gulf of Finland (St-Pb) - UK/Ireland, 5,000 DWCC coaster": "7500",
+        "Gulf of Finland (St-Pb) - ARA RV, 3,000 DWCC coaster": "7000",
+        "Lower Baltic - ARA RV, 3,000 DWCC coaster": "2500"
+      },
+      {
+        "week": "27",
+        "BISea - Med RV, 10,000 DWCC minibulker": "4000",
+        "BISea - Marmara RV, 5,000 DWCC seagoing vsl": "2400",
+        "Azov - Marmara RV, 3,000 DWCC sea-river vsl": "2200",
+        "Gulf of Finland (St-Pb) - UK/Ireland, 5,000 DWCC coaster": "7200",
+        "Gulf of Finland (St-Pb) - ARA RV, 3,000 DWCC coaster": "6800",
+        "Lower Baltic - ARA RV, 3,000 DWCC coaster": "2500"
+      },
+      {
+        "week": "30",
+        "BISea - Med RV, 10,000 DWCC minibulker": "3800",
+        "BISea - Marmara RV, 5,000 DWCC seagoing vsl": "2300",
+        "Azov - Marmara RV, 3,000 DWCC sea-river vsl": "2800",
+        "Gulf of Finland (St-Pb) - UK/Ireland, 5,000 DWCC coaster": "6800",
+        "Gulf of Finland (St-Pb) - ARA RV, 3,000 DWCC coaster": "6500",
+        "Lower Baltic - ARA RV, 3,000 DWCC coaster": "2400"
+      },
+      {
+        "week": "33",
+        "BISea - Med RV, 10,000 DWCC minibulker": "3600",
+        "BISea - Marmara RV, 5,000 DWCC seagoing vsl": "2200",
+        "Azov - Marmara RV, 3,000 DWCC sea-river vsl": "3500",
+        "Gulf of Finland (St-Pb) - UK/Ireland, 5,000 DWCC coaster": "4000",
+        "Gulf of Finland (St-Pb) - ARA RV, 3,000 DWCC coaster": "6200",
+        "Lower Baltic - ARA RV, 3,000 DWCC coaster": "2400"
+      },
+      {
+        "week": "36",
+        "BISea - Med RV, 10,000 DWCC minibulker": "4200",
+        "BISea - Marmara RV, 5,000 DWCC seagoing vsl": "2300",
+        "Azov - Marmara RV, 3,000 DWCC sea-river vsl": "4200",
+        "Gulf of Finland (St-Pb) - UK/Ireland, 5,000 DWCC coaster": "3800",
+        "Gulf of Finland (St-Pb) - ARA RV, 3,000 DWCC coaster": "6000",
+        "Lower Baltic - ARA RV, 3,000 DWCC coaster": "2400"
+      },
+      {
+        "week": "39",
+        "BISea - Med RV, 10,000 DWCC minibulker": "4400",
+        "BISea - Marmara RV, 5,000 DWCC seagoing vsl": "2400",
+        "Azov - Marmara RV, 3,000 DWCC sea-river vsl": "4000",
+        "Gulf of Finland (St-Pb) - UK/Ireland, 5,000 DWCC coaster": "3900",
+        "Gulf of Finland (St-Pb) - ARA RV, 3,000 DWCC coaster": "5800",
+        "Lower Baltic - ARA RV, 3,000 DWCC coaster": "2400"
+      },
+      {
+        "week": "42",
+        "BISea - Med RV, 10,000 DWCC minibulker": "4300",
+        "BISea - Marmara RV, 5,000 DWCC seagoing vsl": "2500",
+        "Azov - Marmara RV, 3,000 DWCC sea-river vsl": "3800",
+        "Gulf of Finland (St-Pb) - UK/Ireland, 5,000 DWCC coaster": "3700",
+        "Gulf of Finland (St-Pb) - ARA RV, 3,000 DWCC coaster": "5600",
+        "Lower Baltic - ARA RV, 3,000 DWCC coaster": "2400"
+      },
+      {
+        "week": "45",
+        "BISea - Med RV, 10,000 DWCC minibulker": "4200",
+        "BISea - Marmara RV, 5,000 DWCC seagoing vsl": "2600",
+        "Azov - Marmara RV, 3,000 DWCC sea-river vsl": "3600",
+        "Gulf of Finland (St-Pb) - UK/Ireland, 5,000 DWCC coaster": "3600",
+        "Gulf of Finland (St-Pb) - ARA RV, 3,000 DWCC coaster": "5500",
+        "Lower Baltic - ARA RV, 3,000 DWCC coaster": "2400"
+      },
+      {
+        "week": "48",
+        "BISea - Med RV, 10,000 DWCC minibulker": "4300",
+        "BISea - Marmara RV, 5,000 DWCC seagoing vsl": "2700",
+        "Azov - Marmara RV, 3,000 DWCC sea-river vsl": "3700",
+        "Gulf of Finland (St-Pb) - UK/Ireland, 5,000 DWCC coaster": "3700",
+        "Gulf of Finland (St-Pb) - ARA RV, 3,000 DWCC coaster": "5400",
+        "Lower Baltic - ARA RV, 3,000 DWCC coaster": "2400"
+      },
+      {
+        "week": "51",
+        "BISea - Med RV, 10,000 DWCC minibulker": "4400",
+        "BISea - Marmara RV, 5,000 DWCC seagoing vsl": "2800",
+        "Azov - Marmara RV, 3,000 DWCC sea-river vsl": "3800",
+        "Gulf of Finland (St-Pb) - UK/Ireland, 5,000 DWCC coaster": "3800",
+        "Gulf of Finland (St-Pb) - ARA RV, 3,000 DWCC coaster": "5500",
+        "Lower Baltic - ARA RV, 3,000 DWCC coaster": "2500"
+      },
+      {
+        "week": "2",
+        "BISea - Med RV, 10,000 DWCC minibulker": "4300",
+        "BISea - Marmara RV, 5,000 DWCC seagoing vsl": "2700",
+        "Azov - Marmara RV, 3,000 DWCC sea-river vsl": "3700",
+        "Gulf of Finland (St-Pb) - UK/Ireland, 5,000 DWCC coaster": "4000",
+        "Gulf of Finland (St-Pb) - ARA RV, 3,000 DWCC coaster": "5600",
+        "Lower Baltic - ARA RV, 3,000 DWCC coaster": "2500"
+      },
+      {
+        "week": "5",
+        "BISea - Med RV, 10,000 DWCC minibulker": "4200",
+        "BISea - Marmara RV, 5,000 DWCC seagoing vsl": "2700",
+        "Azov - Marmara RV, 3,000 DWCC sea-river vsl": "3600",
+        "Gulf of Finland (St-Pb) - UK/Ireland, 5,000 DWCC coaster": "4000",
+        "Gulf of Finland (St-Pb) - ARA RV, 3,000 DWCC coaster": "5500",
+        "Lower Baltic - ARA RV, 3,000 DWCC coaster": "2600"
+      }
+    ],
+    "table_id": "table_04",
+    "issue_date": "2024-02-02",
+    "report_week": 5,
+    "source_file": "star_asia_2024_W05_ISM_coaster_week5-1.pdf",
+    "table_type": "market_data"
+  }
+]

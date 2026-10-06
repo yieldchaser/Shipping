@@ -1,0 +1,27 @@
+---
+id: "E83C8331-733C-4262-80AF-100FAA0607A8"
+source: "Fearnleys"
+sector: "Tanker Route Trends"
+desk: "WAFR/USG"
+comment_type: "WAFR/USG"
+comment_subtype: "trend"
+date: "2021-01-28"
+year: 2021
+week: 4
+title: "Fearnleys WAFR/USG Comment - 2021-01-28"
+---
+
+# Fearnleys WAFR/USG Comment (2021-01-28)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Sector:** Tanker Route Trends
+- **Desk:** WAFR/USG
+- **Publication Date:** 2021-01-28 (Week 4)
+- **Comment Type:** WAFR/USG
+- **Record ID:** `E83C8331-733C-4262-80AF-100FAA0607A8`
+
+---
+
+## Market Commentary
+
+Steady

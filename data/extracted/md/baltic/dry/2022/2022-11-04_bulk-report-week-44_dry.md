@@ -1,0 +1,41 @@
+---
+title: "Bulk Report – Week 44"
+date: "2022-11-04"
+display_date: "04 November 2022"
+year: 2022
+week: 44
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2022/bulk-report-week-44.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 680
+sections_count: 3
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2022/2022-11-04_bulk-report-week-44_dry.html"
+---
+
+# Bulk Report – Week 44
+
+**Date:** 04 November 2022  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2022/bulk-report-week-44.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2022/bulk-report-week-44.html)  
+
+---
+
+**Capesize**The past week has had a negative trend overall, but closed up by the end. The average of the 5 Capesize time charter routes closed the week at $11,139, slipping $2,713 week-on week. The Brazil to Qingdao trade appeared to be very date specific this week with wide spreads seen on early December loading window, pricing $19.594 on Friday. Vessels were offered higher rates if they could make the end of November dates in Brazil ports. With year-end approaching, the market also saw both ship owners and charterers fixing vessels for end of December. In the Pacific, the west Australia to Qingdao trade hovered around the level of $8, or about $8,300 per day for a transpacific round voyage. Overall the market has a negative trend. And, despite owners showing some resistance, the second half of the year is looking softer than expected.
+
+### Panamax
+
+A mixed week for the sector with no real clear direction as areas such as the North Atlantic saw rates slowly move downwards with limited fresh enquiry. However, as the week ended, the South Atlantic saw renewed activity both for Transatlantic runs and fronthaul business which gave owners some hope. An 81,000-dwt fixing delivery EC South America for a trip to Singapore-Japan in the mid $17,000s plus mid $$700,000s ballast bonus. From Asia, the week saw increased volume of Australian coal requirements and NoPac business, but sentiment fluctuated with some owners discounting to get cover. An 81,000-dwt open North China fixing a NoPac round at $16,000, whilst from Australia an 87,000-dwt open Tianjin fixed an Australian round at $20,000. From the south, sentiment remained flat although small size suffered more than the larger sisters. A 75,000-dwt open South China fixing an Indonesian round in the low $12,000s. Period activity was seen and an 84,000-dwt open Japan mid-November fixed at $16,000 for one year’s trading.
+
+### Ultramax/Supramax
+
+Overall it was a poor week for the sector. This was mainly led from Asia, which saw a downward correction for the majority of the week. However, as the week ended some felt a bottom may have been reached. The Atlantic faired a little better and despite quieter tones there were pockets of resistance. In the Atlantic the US Gulf was mixed, a 55,000-dwt fixed a trip to Egypt in the mid $19,000s. The South Atlantic, meanwhile, was positional. A 63,000-dwt fixed delivery EC South America for a trip to WC South America at $37,000. From Asia, it was a very poor start and a 58,000-dwt open CJK reportedly fixed an Indonesian round in the mid $5,000s. Similarly, on the backhaul trade, lower rates were registered and a 57,000-dwt fixed delivery North China trip to Brazil at $12,000. There was limited activity from the Indian Ocean, but a 61,000-dwt fixed delivery Richards Bay for a trip via Beira redelivery EC India at $19,000 plus $190,000 ballast bonus.
+
+### Handysize
+
+A week of negative sentiment continued to drive the BHSI down. In Asia, sources spoke of a continued lack of enquiry. A 37,000-dwt open in Thailand 2 November was fixed via East Coast Australia to Singapore-Japan carrying an intended cargo of concentrates in the $11,000s, with the scrubber for the charterer’s benefit. A 29,000-dwt open in Rizhao was fixed for a trip to the Mediterranean with an intended cargo of steels at $10,200. A 37,000-dwt open in Everret was fixed for a trip from the US West Coast to Singapore-Japan range at $16,000. The Atlantic also saw a lack of visible activity, with some suggesting the Eisbein events had contributed. A 40,000-dwt was understood to have failed on subjects for a trip from the Eastern Mediterranean to the US Gulf with an intended cargo of steels at under $20,000 as charterers used their own vessel.
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  

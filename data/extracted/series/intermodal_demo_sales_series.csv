@@ -1,0 +1,581 @@
+issue_date,report_week,vessel_name,vessel_type,dwt,ldt,year_built,yard,price_usd_per_ldt,buyer_breakers,comments,source_file
+2021-07-06,26,MAYA VN,TANKER,318778,44131,2003,"HYUNDAI SAMHO, S. Korea",560.0,undisclosed,"as-is Batam, incl. 600 tons of ROB bunkers",intermodal_2021_W26_Intermodal-Report-Week-26-2021.pdf
+2021-07-06,26,MEDITERRANEAN ENERGY,GAS TANKER,67552,32400,1984,"MITSUBISHI, Japan",650.0,Bangladeshi,"about 3,500 tons aluminum, under tow",intermodal_2021_W26_Intermodal-Report-Week-26-2021.pdf
+2021-07-06,26,KUTCH BAY,TANKER,107176,16701,1997,"KOYO MIHARA, Japan",557.0,undisclosed,"as-is Sri Lanka, auction sale",intermodal_2021_W26_Intermodal-Report-Week-26-2021.pdf
+2021-07-06,26,CHAMPION ONE,TANKER,36362,8519,1993,"KANASASHI, Japan",485.0,undisclosed,,intermodal_2021_W26_Intermodal-Report-Week-26-2021.pdf
+2021-07-06,26,ASTON I,TANKER,36032,8273,2001,"DAEDONG, S. Korea",576.0,Pakistani,,intermodal_2021_W26_Intermodal-Report-Week-26-2021.pdf
+2021-07-06,26,MOON SPRING,TANKER,7657,2722,1996,"JURONG, Singapore",568.0,Bangladeshi,as-is Indonesia,intermodal_2021_W26_Intermodal-Report-Week-26-2021.pdf
+2021-07-13,27,K. PHOENIX,BULKER,148681,17724,1996,"SAMSUNG, S. Korea",552.0,undisclosed,,intermodal_2021_W27_Intermodal-Report-Week-27-2021.pdf
+2021-07-13,27,SIMBA,TANKER,45229,10673,1996,"CANECO, Brazil",565.0,Pakistani,,intermodal_2021_W27_Intermodal-Report-Week-27-2021.pdf
+2021-07-13,27,KARUNIA,BULKER,69235,9615,1993,"IMABARI, Japan",585.5,Bangladeshi,,intermodal_2021_W27_Intermodal-Report-Week-27-2021.pdf
+2021-07-13,27,THERESA TIGA,TANKER,18523,5969,1996,"SASEBO, Japan",720.0,Indian,,intermodal_2021_W27_Intermodal-Report-Week-27-2021.pdf
+2021-07-13,27,JETSTAR,TANKER,9677,2843,1994,"DAEDONG, S. Korea",575.0,Bangladeshi,,intermodal_2021_W27_Intermodal-Report-Week-27-2021.pdf
+2021-07-20,28,MR NAUTILUS,TANKER,43538,10650,1998,"ULJANIK BRODOGRADILISTE, Croatia",570.0,Pakistani,,intermodal_2021_W28_Intermodal-Report-Week-28-2021.pdf
+2021-07-20,28,GREEN OCEAN,REEFER,5416,2467,1992,"YVC YSSELWERF, Netherlands",505.0,Indian,,intermodal_2021_W28_Intermodal-Report-Week-28-2021.pdf
+2021-07-20,28,GREEN KLIPPER,REEFER,5416,2467,1991,"YVC YSSELWERF, Netherlands",505.0,Indian,,intermodal_2021_W28_Intermodal-Report-Week-28-2021.pdf
+2021-07-20,28,ZHONG,TANKER,16970,6037,1988,"BRODOGRADILISTE, Croatia",,Bangladeshi,,intermodal_2021_W28_Intermodal-Report-Week-28-2021.pdf
+2021-07-20,28,SABAHAT TELLI,TANKER,4563,2167,1982,"MENZER-WERFT GEESTHACHT, Germany",,Indian,,intermodal_2021_W28_Intermodal-Report-Week-28-2021.pdf
+2021-08-03,30,SAGA TIDE,GENERAL CARGO,47029,10712,1991,"OSHIMA, Japan",599.0,Indian,Green recycling,intermodal_2021_W30_Intermodal-Report-Week-30-2021-2.pdf
+2021-08-03,30,TRINITY SUPPORTER,WORK BOAT,20135,6954,1982,"UWAJIMA, Japan",592.0,Bangladeshi,,intermodal_2021_W30_Intermodal-Report-Week-30-2021-2.pdf
+2021-08-03,30,GAS ICON,GAS TANKER,5588,2926,1994,"KITANIHON, Japan",610.0,Bangladeshi,,intermodal_2021_W30_Intermodal-Report-Week-30-2021-2.pdf
+2021-08-03,30,SISTRAUM,TANKER,2550,1430,1981,"BOLSONES VERFT, Norway",605.0,Indian,,intermodal_2021_W30_Intermodal-Report-Week-30-2021-2.pdf
+2021-08-24,33,STANDORF,GAS TANKER,28820,11050,1990,"BOELWERF TEMSE, Belgium",700.0,Bangladeshi,"incl. about 1,100 tons of bunkers",intermodal_2021_W33_Intermodal-Report-Week-33-2021.pdf
+2021-08-24,33,SPLENDOUR,TANKER,45217,10045,1996,"MINAMI-NIPPON, Japan",624.0,Pakistani,,intermodal_2021_W33_Intermodal-Report-Week-33-2021.pdf
+2021-08-24,33,PIRAMERD,TANKER,47149,9375,2003,"ONOMICHI, Japan",605.0,Pakistani,,intermodal_2021_W33_Intermodal-Report-Week-33-2021.pdf
+2021-08-24,33,NANCOWRY,PASSENGER/GENERAL CARGO,5014,8000,1992,"SZCZECIŃSKA STOCZNIĄ, Poland",567.0,undisclosed,"as-is Port Blair, India",intermodal_2021_W33_Intermodal-Report-Week-33-2021.pdf
+2021-08-24,33,ANGEL 18,TANKER,11629,3229,1998,"FUKUOKA, Japan",875.0,Indian,St-st,intermodal_2021_W33_Intermodal-Report-Week-33-2021.pdf
+2021-08-24,33,GEO HINDSAGAR,RESEARCH,836,2108,1980,"FALKENBERGS, Sweden",555.0,Indian,as-is Mumbai,intermodal_2021_W33_Intermodal-Report-Week-33-2021.pdf
+2021-08-31,34,GDANSK,BULKER,63671,12434,1984,"ISHIBRAS, Brazil",500.0,undisclosed,as-is Abidjan,intermodal_2021_W34_Intermodal-Report-Week-34-2021.pdf
+2021-08-31,34,AYSENAZ,TANKER,9108,2866,1993,"YVC YSSELWERF, Netherlands",1090.0,Bangladeshi,incl. about 458 tons St-St,intermodal_2021_W34_Intermodal-Report-Week-34-2021.pdf
+2021-08-31,34,HARIN NAVEE 8,GENERAL CARGO,1693,758,1987,"YAMANAKA, Japan",520.0,Indian,,intermodal_2021_W34_Intermodal-Report-Week-34-2021.pdf
+2021-09-14,36,SHARIFA 4,TANKER,95416,16484,1995,"HYUNDAI, S. Korea",616.0,Pakistani,incl. 30 tons bronze propeller and solid St-St,intermodal_2021_W36_Intermodal-Report-Week-36-2021.pdf
+2021-09-14,36,LINDOIA BR,TANKER,34999,9420,1996,"EISA ILHA RIO DE JANEIRO,",437.0,undisclosed,"as-is Brazil, HKC recycling",intermodal_2021_W36_Intermodal-Report-Week-36-2021.pdf
+2021-09-14,36,HAFID,TANKER,47228,9246,2000,"ONOMICHI, Japan",605.0,Pakistani,,intermodal_2021_W36_Intermodal-Report-Week-36-2021.pdf
+2021-09-21,37,SONANGOL LUANDA,,,,2000,"DAEWOO, S. Korea",14.1,Indian,"LDT: 23,192",intermodal_2021_W37_Intermodal-Report-Week-37-2021.pdf
+2021-09-21,37,SONANGOL GIRASSOL,,,,2000,"DAEWOO, S. Korea",14.1,,"LDT: 23,313",intermodal_2021_W37_Intermodal-Report-Week-37-2021.pdf
+2021-09-21,37,MINERVA ZOE,,,,2004,"HYUNDAI SAMHO, S. Korea",14.0,undisclosed,,intermodal_2021_W37_Intermodal-Report-Week-37-2021.pdf
+2021-09-21,37,BUNGA KELANA 7,,,,2004,"SAMSUNG, S. Korea",13.3,undisclosed,,intermodal_2021_W37_Intermodal-Report-Week-37-2021.pdf
+2021-09-21,37,BUNGA KELANA 8,,,,2004,"SAMSUNG, S. Korea",13.3,,,intermodal_2021_W37_Intermodal-Report-Week-37-2021.pdf
+2021-09-21,37,JUSTICE EXPRESS,,,,2011,"SHIN KURUSHIMA, Japan",17.0,Greek,BWTS fitted,intermodal_2021_W37_Intermodal-Report-Week-37-2021.pdf
+2021-09-21,37,HANKUK CHEMI,,,,2000,"FUKUOKA, Japan",5.0,Chinese,St-St,intermodal_2021_W37_Intermodal-Report-Week-37-2021.pdf
+2021-09-21,37,OCEAN GULL,,,,2012,"NANJING, China",3.0,undisclosed,auction sale,intermodal_2021_W37_Intermodal-Report-Week-37-2021.pdf
+2021-09-21,37,CONTI EVEREST,,,,2004,"HYUNDAI ULSAN, S. Korea",78.0,Swiss (MSC),,intermodal_2021_W37_Intermodal-Report-Week-37-2021.pdf
+2021-09-21,37,CAPE CHRONOS,,,,2015,"HHIC, Philippines",135.0,Singapore based (OM Maritime),"BWTS fitted, delivery prompt",intermodal_2021_W37_Intermodal-Report-Week-37-2021.pdf
+2021-09-21,37,MP THE BROWN,,,,2009,"HHIC, Philippines",64.0,Swiss (MSC),BWTS & scrubber fitted,intermodal_2021_W37_Intermodal-Report-Week-37-2021.pdf
+2021-09-21,37,MP THE LAW,,,,2009,"HHIC, Philippines",64.0,Swiss (MSC),,intermodal_2021_W37_Intermodal-Report-Week-37-2021.pdf
+2021-10-12,40,TIINA TOO,TANKER,9103,2762,1992,"ASAKAWA, Japan",955.0,Indian,st-st,intermodal_2021_W40_Intermodal-Report-Week-40-2021.pdf
+2021-10-12,40,SAGA WAVE,GENERAL CARGO,47062,10679,1991,"OSHIMA, Japan",600.0,Indian,HKC Recycling,intermodal_2021_W40_Intermodal-Report-Week-40-2021.pdf
+2021-10-12,40,PILATUS 15,GAS TANKER,1114,3193,1986,"IWAGI, Japan",600.0,Indian,,intermodal_2021_W40_Intermodal-Report-Week-40-2021.pdf
+2021-10-12,40,VLADIMIR VELIKIY,TANKER,159990,24277,2002,"SAMHO, S. Korea",590.0,undisclosed,as-is where-is Batam,intermodal_2021_W40_Intermodal-Report-Week-40-2021.pdf
+2021-10-19,41,ST. LEO THE GREAT,RO-RO/PASSENGER,3520,6833,1992,"KANASASHI, Japan",400.0,undisclosed,as-is Manila,intermodal_2021_W41_Intermodal-Report-Week-41-2021.pdf
+2021-11-02,43,JAL PARI,TANKER,8821,2999,1998,"MURAKAMI HIDE, Japan",685.0,Indian,St-St,intermodal_2021_W43_Intermodal-Report-Week-43-2021.pdf
+2021-11-02,43,OSTROV RUSSKIY,TANKER,7000,2197,1985,"FUKUOKA, Japan",658.0,Bangladeshi,,intermodal_2021_W43_Intermodal-Report-Week-43-2021.pdf
+2021-11-09,44,OMAN PRIDE,TANKER,299986,38959,1998,"HITACHI ZOSEN, Japan",,Pakistani,"as-is Oman, incl sludges on board",intermodal_2021_W44_Intermodal-Report-Week-44-2021.pdf
+2021-11-09,44,WIN LOTUS,TANKER,7078,2468,1990,"KURINOURA, Japan",,Indian,St-St,intermodal_2021_W44_Intermodal-Report-Week-44-2021.pdf
+2021-11-16,45,RAMAGAS,GAS TANKER,16137,6694,1989,"MEYER, Germany",,Indian,incl. spare propeller,intermodal_2021_W45_Intermodal-Report-Week-45-2021.pdf
+2021-11-16,45,BERGE KANGCHENJUNGA,BULKER,263237,33703,1994,"MITSUBISHI, Japan",,undisclosed,"delivery as-is Singapore, incl bunkers for voyage to recycling location",intermodal_2021_W45_Intermodal-Report-Week-45-2021.pdf
+2021-11-16,45,YUHUA STAR,TANKER,16026,4603,1997,"SHIN KURUSHIMA AKITSU, Japan",,Indian,"St-St, as-is UAE",intermodal_2021_W45_Intermodal-Report-Week-45-2021.pdf
+2021-11-30,47,BLUE SHIP,TANKER,164859,24370,2001,"HYUNDAI ULSAN, S. Korea",,undisclosed,as-is Singapore,intermodal_2021_W47_Intermodal-Report-Week-47-2021.pdf
+2021-11-30,47,JACOB,TANKER,157449,22572,2000,"DAEWOO, S. Korea",625.0,Bangladeshi,"as-is Batam, incl. 100 mt FO and 200mt DO",intermodal_2021_W47_Intermodal-Report-Week-47-2021.pdf
+2021-11-30,47,WISDOM,TANKER,45908,8727,1999,"SHIN KURUSHIMA, Japan",,Turkish,,intermodal_2021_W47_Intermodal-Report-Week-47-2021.pdf
+2021-11-30,47,QUEEN EMATHA,TANKER,13937,4163,1989,"INCHON, S. Korea",615.0,Pakistani,,intermodal_2021_W47_Intermodal-Report-Week-47-2021.pdf
+2021-12-14,49,MADAME,LNG,83296,28018,1981,"ATLANTIQUE CHS, France",670.0,Bangladeshi,high non-ferous content,intermodal_2021_W49_Intermodal-Report-Week-49-2021.pdf
+2021-12-14,49,OCEAN RUBY,TANKER,153152,22029,1997,"HYUNDAI, S. Korea",620.0,Bangladeshi,,intermodal_2021_W49_Intermodal-Report-Week-49-2021.pdf
+2021-12-14,49,RAJ,TANKER,66672,13779,1990,"ISHIBRAS, Brazil",545.0,Indian,,intermodal_2021_W49_Intermodal-Report-Week-49-2021.pdf
+2021-12-14,49,AMBITION JOURNEY,BULKER,51029,7929,2001,"OSHIMA, Japan",,undisclosed,as-is Philippines,intermodal_2021_W49_Intermodal-Report-Week-49-2021.pdf
+2022-01-11,1,APODA,GAS TANKER,23469,9835,1997,"HYUNDAI HI, S. Korea",550.0,Indian,"as-is Singapore/Batam, HKC recycling",intermodal_2022_W01_Intermodal-Report-Week-01-2022.pdf
+2022-01-11,1,GARIN,TANKER,46699,9597,1995,"HYUNDAI HI, S. Korea",576.0,Pakistani,as-is Sohar,intermodal_2022_W01_Intermodal-Report-Week-01-2022.pdf
+2022-01-11,1,ORIENTAL DRAGON,PASSENGER,3202,9498,1972,"WARTSILA AB, FINLAND",516.0,Malaysian,"as-is Pengang, auction sale",intermodal_2022_W01_Intermodal-Report-Week-01-2022.pdf
+2022-01-11,1,BRAVE WORTH,TANKER,31206,7769,1994,"MINAMI-NIPPON, Japan",605.0,Pakistani,,intermodal_2022_W01_Intermodal-Report-Week-01-2022.pdf
+2022-01-11,1,OZERSK,REEFER,1880,2261,1984,"GORKOGO, Russia",600.0,Bangladeshi,,intermodal_2022_W01_Intermodal-Report-Week-01-2022.pdf
+2022-01-11,1,NIIGATA,TANKER,4977,2085,1980,"USUKI, Japan",600.0,Bangladeshi,,intermodal_2022_W01_Intermodal-Report-Week-01-2022.pdf
+2022-01-18,2,PAUL R. TREGURTHA,BC,69172,15167,1981,"AMERICAN SHBLDG - LORAIN, USA",610.0,undisclosed,self discarger,intermodal_2022_W02_Intermodal-Report-Week-02-2022.pdf
+2022-01-18,2,PROSPERITY,TANKER,19481,5314,1997,"SHIN KURUSHIMA, Japan",930.0,Indian,incl. 580t of solid Sus304,intermodal_2022_W02_Intermodal-Report-Week-02-2022.pdf
+2022-01-18,2,EXPRESS,TANKER,8821,2999,1999,"MURAKAMI HIDE, Japan",830.0,Indian,incl. 282t of solid SUS316,intermodal_2022_W02_Intermodal-Report-Week-02-2022.pdf
+2022-01-18,2,AULAC FORTUNE,TANKER,17542,5605,2010,"SAMHO, S. Korea",621.0,Bangladeshi,"fire damaged (explosion in Jan 2019), delivery under tow",intermodal_2022_W02_Intermodal-Report-Week-02-2022.pdf
+2022-01-18,2,LINDA,OFFSHORE/TUG,3100,1833,2003,"AKER BRAILA SC SA, Romania",661.0,Indian,"auction sale, delivery as-is India",intermodal_2022_W02_Intermodal-Report-Week-02-2022.pdf
+2022-02-08,5,NEW INSPIRATION,TANKER,298399,40737,2002,"HITACHI ZOSEN, Japan",660.0,Pakistani,,intermodal_2022_W05_Intermodal-Report-Week-05-2022.pdf
+2022-02-08,5,PETROGARUDA,TANKER,115000,19105,2003,"HYUNDAI SAMHO, S. Korea",650.0,Bangladeshi,,intermodal_2022_W05_Intermodal-Report-Week-05-2022.pdf
+2022-02-08,5,BULL PAPUA,TANKER,106122,15682,1999,"NAMURA, Japan",650.0,Bangladeshi,,intermodal_2022_W05_Intermodal-Report-Week-05-2022.pdf
+2022-02-08,5,CHEMTRANS RUGEN,TANKER,34861,8725,2001,"GSI, China",635.0,undisclosed,"as-is Singapore/Batam, incl. extra payment for bunkers and lubes",intermodal_2022_W05_Intermodal-Report-Week-05-2022.pdf
+2022-02-08,5,HORIZON,TANKER,44370,8116,1999,"SHIN KURUSHIMA, Japan",,Pakistani,,intermodal_2022_W05_Intermodal-Report-Week-05-2022.pdf
+2022-02-08,5,NOAH HANA,TANKER,2618,1364,1996,"BANGUHUJIN, S. Korea",,undisclosed,,intermodal_2022_W05_Intermodal-Report-Week-05-2022.pdf
+2022-03-15,10,CAPE SUN,BULKER,171746,22396,1999,"HYUNDAI ULSAN, S. Korea",,undisclosed,as-is Vietnam,intermodal_2022_W10_Intermodal-Report-Week-10-2022.pdf
+2022-03-15,10,CLIPPER ODIN,GAS TANKER,29216,11957,2005,"DAEWOO, S. Korea",,Bangladeshi,,intermodal_2022_W10_Intermodal-Report-Week-10-2022.pdf
+2022-05-17,19,HL RICHARDS BAY,BC,149350,18119,1997,"HYUNDAI ULSAN, S. Korea",,undisclosed,dely as-is Singapore/Korea,intermodal_2022_W19_Intermodal-Report-Week-19-2022.pdf
+2022-05-17,19,MASCOT 8,TANKER,107261,16616,1998,"KOYO MIHARA, Japan",640.0,Bangladeshi,dely as-is Singapore,intermodal_2022_W19_Intermodal-Report-Week-19-2022.pdf
+2022-05-24,20,ODYSSEY,TANKER,164286,24901,2002,"SAMHO, S. Korea",,Pakistani,,intermodal_2022_W20_Intermodal-Report-Week-20-2022.pdf
+2022-05-24,20,YA ZHOU XIONG SHI,TANKER,37292,9868,1999,"BOHAI, China",,undisclosed,Indian sub-cont,intermodal_2022_W20_Intermodal-Report-Week-20-2022.pdf
+2022-05-24,20,XIANG SHUN,TANKER,9273,3175,1996,"HIGAKI, Japan",640.0,Bangladeshi,,intermodal_2022_W20_Intermodal-Report-Week-20-2022.pdf
+2022-05-31,21,AVIATOR,BC,18957,4681,2007,"YAMANISHI, Japan",580.0,Indian,,intermodal_2022_W21_Intermodal-Report-Week-21-2022.pdf
+2022-05-31,21,KIRIN,TANKER,4999,2187,1993,"KANREI ZOSEN, JAPAN",400.0,undisclosed,,intermodal_2022_W21_Intermodal-Report-Week-21-2022.pdf
+2022-05-31,21,NEW GRAND OCEAN,TANKER,4042,1500,1992,"HIGAKI, Japan",400.0,undisclosed,,intermodal_2022_W21_Intermodal-Report-Week-21-2022.pdf
+2022-05-31,21,TAI NING,REEFER,3901,3901,1983,"KOCHI JYUKO, Japan",630.0,Bangladeshi,,intermodal_2022_W21_Intermodal-Report-Week-21-2022.pdf
+2022-06-07,22,DAHLIA,LNG,64991,33140,1979,"NEWPORT, United States of America",,Indian,for Green Recycling,intermodal_2022_W22_Intermodal-Report-Week-22-2022.pdf
+2022-06-14,23,DAHLIA,LNG,64991,33140,1979,"NEWPORT, US",,Indian,for green recycling,intermodal_2022_W23_Intermodal-Report-Week-23-2022.pdf
+2022-06-14,23,KENTA MARU,REEFER,3143,1820,1987,"SHIKOKU, Japan",,undisclosed,as-is Bangkok,intermodal_2022_W23_Intermodal-Report-Week-23-2022.pdf
+2022-06-14,23,SMOOTH SEA 2,TANKER,3044,1096,1983,"MITSUBISHI, Japan",,Bangladeshi,,intermodal_2022_W23_Intermodal-Report-Week-23-2022.pdf
+2022-06-21,24,HIKARI,TANKER,300667,8774,2003,Halla Eng & HI - Incheon,606.0,Bangladeshi,,intermodal_2022_W24_Intermodal-Report-Week-24-2022.pdf
+2022-06-21,24,KYOTO,TANKER,281050,1402,2000,Woori Shipbuilding Co Ltd,606.0,Bangladeshi,,intermodal_2022_W24_Intermodal-Report-Week-24-2022.pdf
+2022-06-21,24,ADMARINE 100,TANKER,47081,42099,1992,MITSUBISHI NAGASAKI,600.0,Pakistani,,intermodal_2022_W24_Intermodal-Report-Week-24-2022.pdf
+2022-06-21,24,KIM SENG 3,PLATFORM,3529,1371,1992,"RAUMA-REPOLA, Finland",740.0,Bangladeshi,StSt,intermodal_2022_W24_Intermodal-Report-Week-24-2022.pdf
+2022-07-05,26,TAI FU NO.1,REEFER,6044,3670,1979,"MINAMI-NIPPON, Japan",,undisclosed,as-is Bangkok,intermodal_2022_W26_Intermodal-Report-Week-26-2022.pdf
+2022-07-05,26,TAI FU NO.3,REEFER,4166,2596,1980,"TAIHEI AKITSU, Japan",,undisclosed,as-is Bangkok,intermodal_2022_W26_Intermodal-Report-Week-26-2022.pdf
+2022-07-05,26,SUNTUDSAMUT 5,GENERAL CARGO,2500,1020,2001,"ZHEJIANG YUEQING, China",593.0,Bangladeshi,,intermodal_2022_W26_Intermodal-Report-Week-26-2022.pdf
+2022-07-12,27,TELLUS,TANKER,109390,19864,2003,"DALIAN, China",580.0,Bangladeshi,,intermodal_2022_W27_Intermodal-Report-Week-27-2022.pdf
+2022-08-02,30,BONGKOT STAR,FSU,301242,37585,1997,"HYUNDAI HI, S. Korea",540.0,undisclosed,"""as-is"" Malaysia incl. 1,000T of sludge in Cargo Tanks for cleaning""",intermodal_2022_W30_Intermodal-Report-Week-30-2022.pdf
+2022-08-02,30,QUEENSWAY,TANKER,159878,23128,1993,"DAEDONG, S. Korea",520.0,Indian,HKC recycling,intermodal_2022_W30_Intermodal-Report-Week-30-2022.pdf
+2022-08-02,30,SEOUL GAS,LPG,4197,3080,1999,"SEVERNAV, Romania",635.0,Bangladeshi,"Old sale, delivered Chattogram",intermodal_2022_W30_Intermodal-Report-Week-30-2022.pdf
+2022-08-02,30,PEARL II,BC,2952,9590,1981,"HDW AG, Germany",,Turkish,,intermodal_2022_W30_Intermodal-Report-Week-30-2022.pdf
+2022-08-09,31,EVER JUDGER,BC,82000,13500,2014,"ZHEJIANG, China",,undisclosed,"sold ""as-is"" Indonesia at auction - fire damaged condition",intermodal_2022_W31_Intermodal-Report-Week-31-2022.pdf
+2022-08-09,31,NASCA,TANKER,45750,10128,1997,"HALLA, S. Korea",,undisclosed,,intermodal_2022_W31_Intermodal-Report-Week-31-2022.pdf
+2022-08-09,31,PYLADES,TANKER,11050,4156,1984,"LINDENAU, Germany",,Bangladeshi,,intermodal_2022_W31_Intermodal-Report-Week-31-2022.pdf
+2022-08-23,33,SUNLIGHT,BC,172572,21215,2000,"NKK CORP, Japan",547.0,Indian,,intermodal_2022_W33_Intermodal-Report-Week-33-2022.pdf
+2022-08-23,33,CAPTAIN VENIAMIS,BC,171448,23118,2001,"HYUNDAI ULSAN, S. Korea",550.0,undisclosed,delivery at Singapore,intermodal_2022_W33_Intermodal-Report-Week-33-2022.pdf
+2022-08-23,33,PRISCO BRAVO,TANKER,7975,2564,1991,"AUKRA, Norway",1200.0,undisclosed,including 538 Tons of SS 316L,intermodal_2022_W33_Intermodal-Report-Week-33-2022.pdf
+2022-08-23,33,OCEAN 02,OFFSHORE,3796,2394,1990,"KLEVEN LOLAND, Norway",615.0,Bangladeshi,,intermodal_2022_W33_Intermodal-Report-Week-33-2022.pdf
+2022-09-06,35,STOLT GROENLAND,TANKER,43478,12154,2009,"WADAN YARDS, Ukraine",,undisclosed,"""as-is"" Korea, fire damaged condition",intermodal_2022_W35_Intermodal-Report-Week-35-2022.pdf
+2022-09-13,36,CHEVAL BLEU,TANKER,149745,21882,1995,"MITSUI CHIBA, Japan",615.0,undisclosed,,intermodal_2022_W36_Intermodal-Report-Week-36-2022.pdf
+2022-09-13,36,WINNING INTEGRITY,BC,172571,21392,2000,"NKK CORP - TSU, Japan",603.0,undisclosed,"""as is"" Singapore, including abt 200 tons bunkers RoB.",intermodal_2022_W36_Intermodal-Report-Week-36-2022.pdf
+2022-09-13,36,POLAN,TANKER,74999,13400,1999,"HALLA ENG & HI, S. Korea",589.0,undisclosed,"""as is"" Singapore",intermodal_2022_W36_Intermodal-Report-Week-36-2022.pdf
+2022-09-13,36,BEI LUN 6,BC,43665,10058,1989,"TSUNEISHI, Japan",611.0,Bangladeshi,,intermodal_2022_W36_Intermodal-Report-Week-36-2022.pdf
+2022-09-13,36,CHANG SHENG,BC,75752,9824,1998,"SANOYAS HISHINO, Japan",595.0,undisclosed,"""as is"" Singapore",intermodal_2022_W36_Intermodal-Report-Week-36-2022.pdf
+2022-09-20,37,DAWN LUCK,TANKER,6349,2012,1991,"NISHI, Japan",672.0,Bangladeshi,,intermodal_2022_W37_Intermodal-Report-Week-37-2022.pdf
+2022-09-20,37,SEARICH,TANKER,4999,1773,1992,"DAEDONG, S. Korea",672.0,Bangladeshi,,intermodal_2022_W37_Intermodal-Report-Week-37-2022.pdf
+2022-09-20,37,JIN SHING,TANKER,4785,1711,1991,"KURINOURA, Japan",505.0,undisclosed,"""as-is"" Batam",intermodal_2022_W37_Intermodal-Report-Week-37-2022.pdf
+2022-10-11,40,FALCON SPIRIT,OFFSHORE,124472,22595,1986,"DSME, South Korea",,Indian,,intermodal_2022_W40_Intermodal-Report-Week-40-2022.pdf
+2022-10-11,40,PETROGAS 05,GAS TANKER,1042,904,1989,"HIGAKI, Japan",,Bangladeshi,,intermodal_2022_W40_Intermodal-Report-Week-40-2022.pdf
+2022-10-25,42,SHINY,BC,169631,22037,2002,"SAMHO, S. Korea",,Bangladeshi,,intermodal_2022_W42_Intermodal-Report-Week-42-2022.pdf
+2022-10-25,42,LINDA STAR,BC,28005,6475,1984,"HITACHI ZOSEN, Japan",,Pakistani,,intermodal_2022_W42_Intermodal-Report-Week-42-2022.pdf
+2022-10-25,42,PROSPERITY,BC,27652,5903,1986,"MITSUBISHI NAGASAKI, Japan",,Bangladeshi,,intermodal_2022_W42_Intermodal-Report-Week-42-2022.pdf
+2022-11-08,44,AN PING 8,BC,69057,9793,1995,"IMABARI, Japan",619.0,Bangladeshi,,intermodal_2022_W44_Intermodal-Report-Week-44-2022.pdf
+2022-11-15,45,CURACAO PEARL,GENERAL CARGO,42913,10965,1984,"HYUNDAI ULSAN, S. Korea",585.0,Indian,"HKC recycling, next DD 2024, incl. freshly installed BWTS",intermodal_2022_W45_Intermodal-Report-Week-45-2022.pdf
+2022-11-15,45,TIAN YU 2,BULKER,22271,5002,1989,"SAIKI, Japan",560.0,Bangladeshi,,intermodal_2022_W45_Intermodal-Report-Week-45-2022.pdf
+2022-12-13,49,UNI-ARDENT,CONTAINER,15511,7099,1998,"EVERGREEN, Japan",505.0,undisclosed,as is Kaohsiung,intermodal_2022_W49_Intermodal-Report-Week-49-2022.pdf
+2022-12-13,49,SSL CHENNAI,CONTAINER,11506,4039,1998,"WATANABE ZOSEN, Japan",560.0,Indian,as is Colombo,intermodal_2022_W49_Intermodal-Report-Week-49-2022.pdf
+2022-12-13,49,GASCHEM PHOENIX,GAS TANKER,5560,2111,1993,"JIANGNAN, China",,undisclosed,as is Singapore,intermodal_2022_W49_Intermodal-Report-Week-49-2022.pdf
+2022-12-20,50,PASCHALIS D,BC,170188,22908,2002,"SAMHO, S. Korea",525.0,undisclosed,as is Singapore,intermodal_2022_W50_Intermodal-Report-Week-50-2022.pdf
+2022-12-20,50,VENUS C,CONTAINER,14867,4394,1989,"SHIN KURUSHIMA, Japan",523.0,Indian,as is Singapore with 150 tons of bunkers,intermodal_2022_W50_Intermodal-Report-Week-50-2022.pdf
+2022-12-20,50,HAI FENG 698,FISHING,10113,7262,1984,"MATHIAS, Germany",435.0,Bangladeshi,,intermodal_2022_W50_Intermodal-Report-Week-50-2022.pdf
+2022-12-27,51,CAPE OSPREY,BC,172510,20612,1999,"NKK CORP, Japan",530.0,Indian,HKC Recycling,intermodal_2022_W51_Intermodal-Report-Week-51-2022.pdf
+2022-12-27,51,AKINADA BRIDGE,CONTAINER,71366,23915,2001,"HYUNDAI ULSAN, S. Korea",595.0,Pakistani,,intermodal_2022_W51_Intermodal-Report-Week-51-2022.pdf
+2022-12-27,51,JIN HANG ZHENG LIAN,BC,69315,9535,1990,"IMABARI, Japan",535.0,Pakistani,,intermodal_2022_W51_Intermodal-Report-Week-51-2022.pdf
+2022-12-27,51,CHANG FA HAI,BC,48320,10166,1989,"BRODOGRADILISTE, Croatia",500.0,Bangladeshi,,intermodal_2022_W51_Intermodal-Report-Week-51-2022.pdf
+2022-12-27,51,JAMILA,BC,46601,7765,1995,"SANOYAS, Japan",511.0,Pakistani,,intermodal_2022_W51_Intermodal-Report-Week-51-2022.pdf
+2023-01-10,1,BELL,BC,43685,7995,1989,"TSUNEISHI, Japan",510.0,undisclosed,,intermodal_2023_W01_Intermodal-Report-Week-01-2023.pdf
+2023-01-10,1,SOL DELTA,CONTAINER,22983,7852,1995,"SZCZECINSKA, Poland",,Indian,"""as is"" Colombo",intermodal_2023_W01_Intermodal-Report-Week-01-2023.pdf
+2023-01-10,1,FU OCEAN,GENERAL CARGO,12000,,1998,"NINGBO ZHEHAI, China",498.0,Indian,"""as is"" Batam",intermodal_2023_W01_Intermodal-Report-Week-01-2023.pdf
+2023-01-10,1,HONG FA,TANKER,5980,2172,1983,"SHINHAMA, Japan",,Bangladeshi,,intermodal_2023_W01_Intermodal-Report-Week-01-2023.pdf
+2023-01-10,1,JOINT LUCK,TANKER,5206,2071,1987,"FUKUOKA, Japan",,Bangladeshi,,intermodal_2023_W01_Intermodal-Report-Week-01-2023.pdf
+2023-01-10,1,SEA EAGLE,GENERAL CARGO,4281,1300,1984,"SIETAS KG, Germany",,Turkish,,intermodal_2023_W01_Intermodal-Report-Week-01-2023.pdf
+2023-01-17,2,VLADIVOSTOK,CONTAINER,23200,7420,1998,"SZCZECINSKA, Poland",,Indian,,intermodal_2023_W02_Intermodal-Report-Week-02-2023.pdf
+2023-01-17,2,MAERSK ABERDEEN,CONTAINER,17733,5914,1999,"CHINA SHIPBUILDING, Taiwan",,undisclosed,as is Jebel-Ali,intermodal_2023_W02_Intermodal-Report-Week-02-2023.pdf
+2023-01-17,2,SUPER SHUTTLE RORO,RORO,6897,5382,1986,"FREDERIKSHAVN, Denmark",,Indian,,intermodal_2023_W02_Intermodal-Report-Week-02-2023.pdf
+2023-02-07,5,SAMC RESPONSIBILITY,BC,175775,24181,2003,"CHINA SHIPBUILDING, Taiwan",520.0,Indian,"as-is Singapore, incl bunkers",intermodal_2023_W05_Intermodal-Report-Week-05-2023.pdf
+2023-02-07,5,JASMINE 201,BC,73807,9928,1999,"TSUNEISHI, Japan",,Bangladeshi,,intermodal_2023_W05_Intermodal-Report-Week-05-2023.pdf
+2023-02-07,5,GAS BEAUTY I,GAS TANKER,55173,20300,1980,"WARTSILA AB, Finland",600.0,Indian,as-is Fujairah,intermodal_2023_W05_Intermodal-Report-Week-05-2023.pdf
+2023-02-07,5,MING ZHOU 25,BC,42025,6729,1990,"OSHIMA, Japan",,Pakistani,,intermodal_2023_W05_Intermodal-Report-Week-05-2023.pdf
+2023-02-07,5,KAMO,GENERAL CARGO,9433,4426,1998,"MITSUBISHI NAGASAKI, Japan",,Bangladeshi,HKC Recycling,intermodal_2023_W05_Intermodal-Report-Week-05-2023.pdf
+2023-02-07,5,TRAMOLA-1,RO-RO/PASSENGER,2860,2500,1973,"LA ROCHELLE-PALLICE, France",,Turkish,,intermodal_2023_W05_Intermodal-Report-Week-05-2023.pdf
+2023-03-14,10,HUANG SHAN,BC,175980,23976,2003,"CSBC, Taiwan",614.0,undisclosed,"as-is Xinsha, incl. bunkers, HKC recycling",intermodal_2023_W10_Intermodal-Report-Week-10-2023.pdf
+2023-03-14,10,MAHAVIR,BC,74005,10540,#####,"IMABARI, Japan",560.0,Bangladeshi,,intermodal_2023_W10_Intermodal-Report-Week-10-2023.pdf
+2023-03-14,10,GRACE ENERGY,GAS TANKER,67024,30426,1989,"MITSUBISHI NAGASAKI, Japan",684.0,undisclosed,"Indian Sub-Cont dely option, 2400T aluminium",intermodal_2023_W10_Intermodal-Report-Week-10-2023.pdf
+2023-03-14,10,AUGUSTA II,TANKER,45425,9920,1991,"HITACHI ZOSEN, Japan",,Indian,,intermodal_2023_W10_Intermodal-Report-Week-10-2023.pdf
+2023-03-14,10,SSL KUTCH,CONTAINER,24612,8303,1998,"DAEWOO, S. Korea",616.0,Bangladeshi,as-is Colombo,intermodal_2023_W10_Intermodal-Report-Week-10-2023.pdf
+2023-03-14,10,YU HAI XING,BC,15860,5017,1995,"WUHU, China",585.0,Bangladeshi,,intermodal_2023_W10_Intermodal-Report-Week-10-2023.pdf
+2023-03-14,10,LEVANT HORIZON,GENERAL CARGO,6917,3391,1997,"SELAH, Turkey",585.0,Indian,incl. 170 MT ROB,intermodal_2023_W10_Intermodal-Report-Week-10-2023.pdf
+2023-03-21,11,SUNNY VOYAGER,BC,171509,22159,2001,"HYUNDAI, S. Korea",610.0,Bangladeshi,,intermodal_2023_W11_Intermodal-Report-Week-11-2023.pdf
+2023-03-21,11,MENA,TANKER,45425,9920,1991,"HITACHI ZOSEN, Japan",,undisclosed,,intermodal_2023_W11_Intermodal-Report-Week-11-2023.pdf
+2023-03-21,11,SALAMIS,TANKER,39999,9238,1998,"ONOMICHI, Japan",660.0,Bangladeshi,incl. ROB,intermodal_2023_W11_Intermodal-Report-Week-11-2023.pdf
+2023-03-21,11,VASI STAR,CONTAINER,23064,7821,1996,"SZCZECINSKA, Poland",640.0,Bangladeshi,,intermodal_2023_W11_Intermodal-Report-Week-11-2023.pdf
+2023-03-21,11,HALUL 27,OFFSHORE/TUG,1586,1938,2008,"QATAR SHIPPING, Qatar",,Indian,,intermodal_2023_W11_Intermodal-Report-Week-11-2023.pdf
+2023-03-21,11,HALUL 22,OFFSHORE/TUG,1273,1327,2003,"ABG Shipyard, India",,Indian,,intermodal_2023_W11_Intermodal-Report-Week-11-2023.pdf
+2023-03-28,12,MSC VERONIQUE,CONTAINER,60900,23190,1989,"ODENSE LINDO, Denmark",,Indian,HKC recycling,intermodal_2023_W12_Intermodal-Report-Week-12-2023.pdf
+2023-03-28,12,SUN BULK,BC,28572,7554,1997,"HUDONG, China",,Bangladeshi,,intermodal_2023_W12_Intermodal-Report-Week-12-2023.pdf
+2023-03-28,12,AKASHIYA,REEFER,1211,871,1979,"HONDA SAIKI, Japan",,Bangladeshi,,intermodal_2023_W12_Intermodal-Report-Week-12-2023.pdf
+2023-03-28,12,STAR N,RO-RO/PASSENGER,1199,3172,1965,"ORENSTEIN KOPPEL, Germany",,Turkish,,intermodal_2023_W12_Intermodal-Report-Week-12-2023.pdf
+2023-03-28,12,FERRY KUNIGA,RO-RO/PASSENGER,470,1820,1987,"HAYASHIKANE, Japan",,Bangladeshi,,intermodal_2023_W12_Intermodal-Report-Week-12-2023.pdf
+2023-05-16,19,GANDRIA,GAS TANKER,66999,34131,1977,"HDW AG, Germany",447.0,Indian,"""as-is"" Labuan, HKC recycling",intermodal_2023_W19_Intermodal-Report-Week-19-2023.pdf
+2023-05-16,19,EVER DIADEM,CONTAINER,55604,21731,1998,"MITSUBISHI, Japan",514.0,undisclosed,"""as-is"" Singapore, HKC recycling",intermodal_2023_W19_Intermodal-Report-Week-19-2023.pdf
+2023-05-16,19,HAO HANG 3,BC,22174,5099,1991,"KANDA, Japan",,undisclosed,"""as-is"" China",intermodal_2023_W19_Intermodal-Report-Week-19-2023.pdf
+2023-05-23,20,HAI TENG,BC,33374,7450,1977,"IHI, Japan",560.0,Bangladeshi,,intermodal_2023_W20_Intermodal-Report-Week-20-2023.pdf
+2023-05-23,20,XIANG JIANG 6,BC,29566,7290,1977,"MITSUBISHI, Japan",563.0,Bangladeshi,,intermodal_2023_W20_Intermodal-Report-Week-20-2023.pdf
+2023-05-23,20,XIN HAI ZHOU 7,GENERAL CARGO,22297,7380,1999,"GUANGZHOU WENCHONG, China",563.0,Bangladeshi,,intermodal_2023_W20_Intermodal-Report-Week-20-2023.pdf
+2023-05-23,20,XIN HAI HUI,CONTAINER,14900,4361,1989,"SHIN KURUSHIMA, Japan",625.0,Bangladeshi,,intermodal_2023_W20_Intermodal-Report-Week-20-2023.pdf
+2023-05-23,20,YUN RUN 8,REEFER,6116,3056,1990,"DIEPEN SCHEEPSWERNEN, Netherlands",475.0,undisclosed,"""as is"" China",intermodal_2023_W20_Intermodal-Report-Week-20-2023.pdf
+2023-05-23,20,TAUROGAS,GAS TANKER,3566,1923,1993,"YVC YSSELWERF, Netherlands",404.0,Turkish,,intermodal_2023_W20_Intermodal-Report-Week-20-2023.pdf
+2023-05-30,21,FU SHENG,BC,77447,10780,1994,"KAWASAKI, Japan",580.0,Bangladeshi,,intermodal_2023_W21_Intermodal-Report-Week-21-2023.pdf
+2023-05-30,21,UNI FORTUNE,BC,47002,9730,1991,"KOYO MIHARA, Japan",,Bangladeshi,,intermodal_2023_W21_Intermodal-Report-Week-21-2023.pdf
+2023-05-30,21,ETERNAL LUCK,BC,45654,7527,1995,"TSUNEISHI, Japan",575.0,Bangladeshi,incl. 260T ROB,intermodal_2023_W21_Intermodal-Report-Week-21-2023.pdf
+2023-05-30,21,MISSISSAUGA EXPRESS,CONTAINER,40881,15645,1998,"DAEWOO, S. Korea",,Turkish,,intermodal_2023_W21_Intermodal-Report-Week-21-2023.pdf
+2023-05-30,21,OTTAWA EXPRESS,CONTAINER,40879,15647,1998,"DAEWOO, S. Korea",385.0,Turkish,,intermodal_2023_W21_Intermodal-Report-Week-21-2023.pdf
+2023-05-30,21,MILAN EXPRESS,CONTAINER,33659,14161,1996,"SAMSUNG, S. Korea",,Turkish,,intermodal_2023_W21_Intermodal-Report-Week-21-2023.pdf
+2023-05-30,21,ELEKTRON II,RORO,624,,1969,"TRONDHJEMS MEKANISKE VERKSTED, Norway",,undisclosed,,intermodal_2023_W21_Intermodal-Report-Week-21-2023.pdf
+2023-06-06,22,CHANG MING 2,BC,73763,9483,1997,"SUMITOMO, Japan",535.0,undisclosed,"as is' Hong Kong, incl 250T ROB",intermodal_2023_W22_Intermodal-Report-Week-22-2023.pdf
+2023-06-06,22,HC BEAUTY,BC,73744,9502,1999,"SUMITOMO, Japan",530.0,undisclosed,'as is' Hong Kong,intermodal_2023_W22_Intermodal-Report-Week-22-2023.pdf
+2023-06-06,22,ZE RUI 1,BC,45279,7902,1999,"TS UNE ISHI, Japan",575.0,undisclosed,150 Tons of Bunkers ROB,intermodal_2023_W22_Intermodal-Report-Week-22-2023.pdf
+2023-06-06,22,HONG HAO,GENERAL CARGO,44596,11821,1998,"SZC ZECINSKA, Poland",620.0,Bangladeshi,,intermodal_2023_W22_Intermodal-Report-Week-22-2023.pdf
+2023-06-06,22,WELLWIN,BC,42529,9016,1995,"NAMURA, Japan",575.0,Bangladeshi,,intermodal_2023_W22_Intermodal-Report-Week-22-2023.pdf
+2023-06-06,22,GOLDEN SUN,BC,27760,6000,1996,"SHIN KURUSHIMA, Japan",585.0,Bangladeshi,,intermodal_2023_W22_Intermodal-Report-Week-22-2023.pdf
+2023-06-06,22,MAERSK ATLANTIC,CONTAINER,17733,5914,1999,"CSBC, Taiwan",,Indian,,intermodal_2023_W22_Intermodal-Report-Week-22-2023.pdf
+2023-06-06,22,DAEBOKGASHO,GAS TANKER,1432,1112,1996,"MIURA SAIKI, Japan",,undisclosed,,intermodal_2023_W22_Intermodal-Report-Week-22-2023.pdf
+2023-06-13,23,MSC KERRY,CONTAINER,45530,15580,1995,"G DYNIA STOCZNIA, Poland",,Indian,,intermodal_2023_W23_Intermodal-Report-Week-23-2023.pdf
+2023-06-13,23,J ASMINE II,BC,45269,9563,1997,"J IANGNAN, China",585.0,Bangladeshi,incl. 100-120T ROB,intermodal_2023_W23_Intermodal-Report-Week-23-2023.pdf
+2023-06-13,23,MSC NICOLE,CONTAINER,41787,13961,1989,"NORMED DU LITTORAL, France",521.0,Indian,HKC,intermodal_2023_W23_Intermodal-Report-Week-23-2023.pdf
+2023-06-13,23,OCEAN PHENIX,GAS TANKER,2858,2529,1992,"ISHIKAWAJIMA, Japan",,Indian,,intermodal_2023_W23_Intermodal-Report-Week-23-2023.pdf
+2023-06-13,23,ERA,OFFSHORE,2550,,1983,"ANKERLOKKEN VERFT, NORWAY",,Pakistani,,intermodal_2023_W23_Intermodal-Report-Week-23-2023.pdf
+2023-06-20,24,SCO QINGDAO,CONTAINER,10010,3759,1997,"QIUIXIN, China",610.0,Bangladeshi,,intermodal_2023_W24_Intermodal-Report-Week-24-2023.pdf
+2023-06-20,24,EDRICKO 3,TANKER,1390,,1994,"KURINOURA, Japan",,undisclosed,,intermodal_2023_W24_Intermodal-Report-Week-24-2023.pdf
+2023-06-20,24,SW DIAMOND,RESEARCH,1172,3028,1993,"FLEKKEFJORD, Norway",,Turkish,,intermodal_2023_W24_Intermodal-Report-Week-24-2023.pdf
+2023-06-27,25,SEAPEAK POLAR,GAS TANKER,48817,23707,1993,"IHI, Japan",637.0,undisclosed,"as is Khor Fakkan, HKC recycling",intermodal_2023_W25_Intermodal-Report-Week-25-2023.pdf
+2023-06-27,25,SHUN HANG WEI YE,BC,43473,8207,1991,"HASHIHAMA, Japan",510.0,undisclosed,as is Zhoushan,intermodal_2023_W25_Intermodal-Report-Week-25-2023.pdf
+2023-06-27,25,OCEANIC INSTALLER,OFFSHORE/Support,2,2899,1984,"ULSTEIN HATLO, Norway",,undisclosed,as is Sharjah,intermodal_2023_W25_Intermodal-Report-Week-25-2023.pdf
+2023-07-04,26,SHUN FENG 9,BC,73350,10356,1994,"OSHIMA, Japan",510.0,undisclosed,as is China,intermodal_2023_W26_Intermodal-Report-Week-26-2023.pdf
+2023-07-04,26,MSC FEDERICA,CONTAINER,60350,23740,1990,"ODENSE LINDO, Denmark",510.0,Indian,HKC recycling,intermodal_2023_W26_Intermodal-Report-Week-26-2023.pdf
+2023-07-04,26,JI YOU,BC,45296,7548,1994,"SHIN KURUSHIMA, Japan",510.0,undisclosed,as is China,intermodal_2023_W26_Intermodal-Report-Week-26-2023.pdf
+2023-07-04,26,JIN CHENG SHAN,GENERAL CARGO,16270,5000,1973,"WESER SEEBECKWERFT, Germany",,Bangladeshi,,intermodal_2023_W26_Intermodal-Report-Week-26-2023.pdf
+2023-07-11,27,LAUREN OCEAN,BC,41712,8400,1996,"BRODOGRAD ILISTE, Croatia",575.0,Bangladeshi,,intermodal_2023_W27_Intermodal-Report-Week-27-2023.pdf
+2023-07-11,27,HONG DA XIN 18,CONTAINER,9865,3857,2000,"TORGEM, Turkey",608.0,Bangladeshi,,intermodal_2023_W27_Intermodal-Report-Week-27-2023.pdf
+2023-07-11,27,BUSAN GAS,GAS TANKER,1283,998,1989,"SASAKI, Japan",,Bangladeshi,,intermodal_2023_W27_Intermodal-Report-Week-27-2023.pdf
+2023-07-18,28,GOLAR SPIRIT,OFFSHORE,80239,34228,1981,"KAWASAKI, Japan",425.0,undisclosed,"as is Greece, incl. about 3500 MT aluminum",intermodal_2023_W28_Intermodal-Report-Week-28-2023.pdf
+2023-07-18,28,ASIAN BULK,BC,70165,9257,1996,"SUMITOMO, Japan",,Indian,,intermodal_2023_W28_Intermodal-Report-Week-28-2023.pdf
+2023-07-18,28,XIANG HE,GENERAL CARGO,42529,9016,1994,"NAMURA, Japan",520.0,Bangladeshi,as is Singapore,intermodal_2023_W28_Intermodal-Report-Week-28-2023.pdf
+2023-07-18,28,HAVEN GUARDER,BC,27860,6079,1995,"KANASASHI, Japan",554.0,Bangladeshi,,intermodal_2023_W28_Intermodal-Report-Week-28-2023.pdf
+2023-07-18,28,HENG YANG,TANKER,8143,3535,1994,"BOELWERF TEMSE, Belgium",930.0,undisclosed,"as is Indonesia, incl StSt",intermodal_2023_W28_Intermodal-Report-Week-28-2023.pdf
+2023-07-18,28,KOKURYU MARU,GENERAL CARGO,2700,3950,1992,"IMABARI, Japan",325.0,undisclosed,as is Japan,intermodal_2023_W28_Intermodal-Report-Week-28-2023.pdf
+2023-07-25,29,ZHENG JIE,BC,73409,10783,1997,Samsung Heavy Inds - Geoje,495.0,Bangladeshi,as is China,intermodal_2023_W29_Intermodal-Report-Week-29-2023.pdf
+2023-07-25,29,ZHENG HAO,BC,73049,10784,1997,Samsung Heavy Inds - Geoje,,,,intermodal_2023_W29_Intermodal-Report-Week-29-2023.pdf
+2023-07-25,29,YANG FAN,BC,64976,9687,1997,KOYO MIHARA,540.0,Bangladeshi,"as is Batam, including bunkers",intermodal_2023_W29_Intermodal-Report-Week-29-2023.pdf
+2023-07-25,29,Green Explorer,REEFER,5129,2556,1991,Diepen Scheepswerven Bv,,Indian,,intermodal_2023_W29_Intermodal-Report-Week-29-2023.pdf
+2023-08-01,30,GREAT WENWU,BC,68621,9759,1994,"S ASEBO, Japan",465.0,Bangladeshi,,intermodal_2023_W30_Intermodal-Report-Week-30-2023.pdf
+2023-08-01,30,SINOKOR TIANJIN,CONTAINER,11031,4672,1998,"MAWEI SHIPYARD - CHR, China",622.0,Bangladeshi,incl. 250T ROB,intermodal_2023_W30_Intermodal-Report-Week-30-2023.pdf
+2023-08-01,30,E os,TANKER,6198,2222,1976,Vujik Scheepswerven BV,,Turkish,,intermodal_2023_W30_Intermodal-Report-Week-30-2023.pdf
+2023-08-01,30,ASTERDEA,BC,2738,1231,1976,"NIEUWE NOORD, Netherlands",,Turkish,,intermodal_2023_W30_Intermodal-Report-Week-30-2023.pdf
+2023-08-08,31,GREAT WENWU,BC,68621,9759,1994,"SASEBO, Japan",465.0,Bangladeshi,,intermodal_2023_W31_Intermodal-Report-Week-31-2023.pdf
+2023-08-08,31,MSC ERMINIA,CONTAINER,56152,17694,1993,"SHIN KURUSHIMA ONISHI, Japan",500.0,Indian,,intermodal_2023_W31_Intermodal-Report-Week-31-2023.pdf
+2023-08-08,31,MAERSK PATRAS,CONTAINER,37842,12400,1998,"KVAERNER WARNOW, Germany",,undisclosed,as-is' bss Jebel Ali,intermodal_2023_W31_Intermodal-Report-Week-31-2023.pdf
+2023-08-08,31,TECUMSEH,BC,29984,8016,1973,"Lockheed, US",,undisclosed,,intermodal_2023_W31_Intermodal-Report-Week-31-2023.pdf
+2023-08-08,31,MSC LANA II,CONTAINER,29337,10351,1999,"Gdanska Stocznia, Poland",515.0,Indian,HKC recycling,intermodal_2023_W31_Intermodal-Report-Week-31-2023.pdf
+2023-08-08,31,SOL STRAITS,CONTAINER,22900,7808,1997,Szczecinska Stocznia SA,592.0,Bangladeshi,incl. 250T ROB,intermodal_2023_W31_Intermodal-Report-Week-31-2023.pdf
+2023-08-08,31,TESSA,GENERAL CARGO,4706,1917,1992,"SEDEF GEBZE, Turkey",560.0,Bangladeshi,,intermodal_2023_W31_Intermodal-Report-Week-31-2023.pdf
+2023-08-08,31,TAI HWA,RO-RO/PASSENGER,2296,4043,1989,"HAYASHIKANE, Japan",460.0,Bangladeshi,as-is' Kaohsiung,intermodal_2023_W31_Intermodal-Report-Week-31-2023.pdf
+2023-08-22,33,LILA NING BO,BC,175775,,2002,"CS BC, Taiwan",495.0,Indian,,intermodal_2023_W33_Intermodal-Report-Week-33-2023.pdf
+2023-08-22,33,NIKO,BC,73992,,2000,"TS UNE ISHI, Japan",540.0,undisclosed,,intermodal_2023_W33_Intermodal-Report-Week-33-2023.pdf
+2023-08-22,33,MING ZHOU 58,BC,52580,,1990,"Okean SSZ, Russia",425.0,undisclosed,,intermodal_2023_W33_Intermodal-Report-Week-33-2023.pdf
+2023-08-22,33,HENG HUI 2,CONTAINER,44510,,1993,"HDW AG - Kiel - GEU, Germany",540.0,undisclosed,as-is Colombo,intermodal_2023_W33_Intermodal-Report-Week-33-2023.pdf
+2023-08-22,33,MING ZHOU 25,BC,42025,,1990,"OSHIMA, Japan",408.0,undisclosed,as-is China,intermodal_2023_W33_Intermodal-Report-Week-33-2023.pdf
+2023-08-22,33,SOL HIND,CONTAINER,23043,,1996,"SZCZEC INSKA, Poland",565.0,Bangladeshi,,intermodal_2023_W33_Intermodal-Report-Week-33-2023.pdf
+2023-08-22,33,SINOKOR AKITA,CONTAINER,11031,,1998,"SWS, China",564.0,Indian,,intermodal_2023_W33_Intermodal-Report-Week-33-2023.pdf
+2023-08-22,33,VILA DHAURU,REEFER,2235,,1983,"WAKAMATSU, Japan",,Bangladeshi,,intermodal_2023_W33_Intermodal-Report-Week-33-2023.pdf
+2023-08-29,34,YONG NING,BC,48139,12700,1996,"GDANSKA STOCZNIA, Poland",500.0,Pakistani,,intermodal_2023_W34_Intermodal-Report-Week-34-2023.pdf
+2023-08-29,34,LADY OF LUCK,CONTAINER,30730,11454,1998,"CS BC, Taiwan",545.0,undisclosed,,intermodal_2023_W34_Intermodal-Report-Week-34-2023.pdf
+2023-08-29,34,JITRA BHUM,CONTAINER,21800,7049,1997,"MITSUBISHI, Japan",515.0,undisclosed,,intermodal_2023_W34_Intermodal-Report-Week-34-2023.pdf
+2023-08-29,34,KAMA BHUM,CONTAINER,21800,7049,1997,"MITSUBISHI, Japan",515.0,undisclosed,,intermodal_2023_W34_Intermodal-Report-Week-34-2023.pdf
+2023-08-29,34,FRIO OLYMPIC,REEFER,9734,4698,1988,SHIN KURUSHIMA ONISHI,510.0,Indian,,intermodal_2023_W34_Intermodal-Report-Week-34-2023.pdf
+2023-08-29,34,ZEFYROS REEFER,REEFER,8946,4731,1990,"SASEBO, Japan",510.0,Indian,,intermodal_2023_W34_Intermodal-Report-Week-34-2023.pdf
+2023-08-29,34,SEIN STAR,REEFER,4173,2197,1984,"KITANIHON, Japan",,Indian,,intermodal_2023_W34_Intermodal-Report-Week-34-2023.pdf
+2023-09-05,35,S OTIRIA,BC,75265,11584,1997,"FINCANTIERI STABIA, Italy",545.0,Pakistani,,intermodal_2023_W35_Intermodal-Report-Week-35-2023.pdf
+2023-09-05,35,SAN SHIN,BC,73941,10317,1999,"OSHIMA, Japan",,Pakistani,,intermodal_2023_W35_Intermodal-Report-Week-35-2023.pdf
+2023-09-05,35,FINE STAR,BC,71747,9877,1995,"HITACHI ZOSEN, Japan",,Bangladeshi,,intermodal_2023_W35_Intermodal-Report-Week-35-2023.pdf
+2023-09-05,35,UNI HARMONY,BC,48205,9737,1996,"HASHIHAMA, Japan",,Bangladeshi,,intermodal_2023_W35_Intermodal-Report-Week-35-2023.pdf
+2023-09-05,35,MERATUS MEDAN 3,CONTAINER,22734,6776,1990,SHIN KURUSHIMA,525.0,undisclosed,"as is' bss S'pore, incl. 100mt ROB",intermodal_2023_W35_Intermodal-Report-Week-35-2023.pdf
+2023-09-05,35,Ratana Thida,CONTAINER,18196,6232,1996,"MITSUBISHI SHIMONOSEKI, Japan",,Bangladeshi,,intermodal_2023_W35_Intermodal-Report-Week-35-2023.pdf
+2023-09-05,35,CHERRY,CONTAINER,16544,6499,1998,"NAIKAI ZOSEN, Japan",545.0,Bangladeshi,"as is' bss S'pore, incl. 350mt bunkers",intermodal_2023_W35_Intermodal-Report-Week-35-2023.pdf
+2023-09-05,35,19 WINNER,TANKER,3042,1052,1986,"BANGUHJIN, S. Korea",,Bangladeshi,,intermodal_2023_W35_Intermodal-Report-Week-35-2023.pdf
+2023-09-12,36,WINNING JOY,BC,172964,21392,1999,"NKK,",505.0,undisclosed,"as is Singapore, incl 250 tons ROB",intermodal_2023_W36_Intermodal-Report-Week-36-2023.pdf
+2023-09-12,36,APJ MAHADEVA,BC,74677,12660,2000,"HUDONG, China",480.0,undisclosed,as-is Colombo,intermodal_2023_W36_Intermodal-Report-Week-36-2023.pdf
+2023-09-12,36,EVER DEVOTE,CONTAINER,55604,21731,1998,"MITSUBISHI, Japan",555.0,undisclosed,as-is Singapore,intermodal_2023_W36_Intermodal-Report-Week-36-2023.pdf
+2023-09-12,36,UGL HONGKONG,CONTAINER,22000,8800,1993,"NAIKAI ZOSEN, Japan",530.0,Indian,,intermodal_2023_W36_Intermodal-Report-Week-36-2023.pdf
+2023-09-12,36,UNI-ASPIRE,CONTAINER,15511,7099,1998,"EVERGREEN, Japan",585.0,Indian,,intermodal_2023_W36_Intermodal-Report-Week-36-2023.pdf
+2023-09-12,36,SINOKOR VLADIVOSTOK,CONTAINER,11400,4691,1998,"SHANDONG WEIHAI, China",589.0,Indian,,intermodal_2023_W36_Intermodal-Report-Week-36-2023.pdf
+2023-09-19,37,MARITIME RIYAL,TANKER,45363,12246,1998,"DALIAN, China",,Indian,HKC recycling,intermodal_2023_W37_Intermodal-Report-Week-37-2023.pdf
+2023-09-19,37,WHITE PURL,GAS TANKER,11832,5368,1972,"Moss Rosenberg, Norway",,Indian,,intermodal_2023_W37_Intermodal-Report-Week-37-2023.pdf
+2023-09-26,38,YA TAI 1,BC,71259,10279,1995,"NAMURA, Japan",475.0,Indian,,intermodal_2023_W38_Intermodal-Report-Week-38-2023.pdf
+2023-09-26,38,HASEEN,BC,46750,7635,1998,"SANOYAS, Japan",,Indian,,intermodal_2023_W38_Intermodal-Report-Week-38-2023.pdf
+2023-09-26,38,FORTUNE TRADER,CONTAINER,24444,7192,1994,"IMABARI, Japan",612.0,Indian,incl. 100T bunkers,intermodal_2023_W38_Intermodal-Report-Week-38-2023.pdf
+2023-09-26,38,GSS YANGON,CONTAINER,18166,6121,1993,"IMABARI, Japan",530.0,undisclosed,as is Singapore,intermodal_2023_W38_Intermodal-Report-Week-38-2023.pdf
+2023-09-26,38,MSC MARIA,GENERAL CARGO,8780,3952,1993,"BRAND H. KG, Germany",547.0,Indian,HKC recycling,intermodal_2023_W38_Intermodal-Report-Week-38-2023.pdf
+2023-10-03,39,YA TAI 1,BC,71259,10279,1995,"NAMURA, Japan",475.0,Indian,,intermodal_2023_W39_Intermodal-Report-Week-39-2023.pdf
+2023-10-03,39,HASEEN,BC,46750,7635,1998,"SANOYAS, Japan",,Indian,,intermodal_2023_W39_Intermodal-Report-Week-39-2023.pdf
+2023-10-03,39,FORTUNE TRADER,CONTAINER,24444,7192,1994,"IMABARI, Japan",612.0,Indian,incl. 100T bunkers,intermodal_2023_W39_Intermodal-Report-Week-39-2023.pdf
+2023-10-03,39,GSS YANGON,CONTAINER,18166,6121,1993,"IMABARI, Japan",530.0,undisclosed,as is Singapore,intermodal_2023_W39_Intermodal-Report-Week-39-2023.pdf
+2023-10-03,39,MSC MARIA,GENERAL CARGO,8780,3952,1993,"BRAND H. KG, Germany",547.0,Indian,HKC recycling,intermodal_2023_W39_Intermodal-Report-Week-39-2023.pdf
+2023-10-10,40,ALANA,TANKER,159899,22471,1998,"DAEWOO, S. Korea",570.0,undisclosed,India/Pakistan delivery,intermodal_2023_W40_Intermodal-Report-Week-40-2023.pdf
+2023-10-10,40,MSC DENISSE,CONTAINER,41771,13977,1988,"ATLANTIQUE CHS, France",575.0,Indian,MSC approved yards only,intermodal_2023_W40_Intermodal-Report-Week-40-2023.pdf
+2023-10-10,40,MARSA IRIS,CONTAINER,22982,7852,1996,"SZCZECIŃSKA STOCZNIA, Poland",,Indian,,intermodal_2023_W40_Intermodal-Report-Week-40-2023.pdf
+2023-10-10,40,FORESIGHTER,RORO,13898,11257,1987,"HASHIHAMA, Japan",512.0,undisclosed,"as is' Japan, NK HKC recyclin",intermodal_2023_W40_Intermodal-Report-Week-40-2023.pdf
+2023-10-17,41,SEA SMILE,BC,45744,7371,1995,"IMABARI, Japan",498.0,Bangladeshi,,intermodal_2023_W41_Intermodal-Report-Week-41_2023.pdf
+2023-10-17,41,MSC LEVINA,CONTAINER,43140,12858,1989,"SAMSUNG, S. Korea",565.0,Indian,,intermodal_2023_W41_Intermodal-Report-Week-41_2023.pdf
+2023-10-24,42,JAHAN,BC,45665,7516,1995,"TSUNEISHI, Japan",,Bangladeshi,,intermodal_2023_W42_Intermodal-Report-Week-42-2023.pdf
+2023-10-24,42,Nanta Bhum,CONTAINER,15152,5104,1990,"HANJIN HI, S. Korea",,Indian,,intermodal_2023_W42_Intermodal-Report-Week-42-2023.pdf
+2023-10-31,43,ONE DESTINY,BC,45483,7698,1995,"TSUNEISHI, Japan",535.0,Indian,,intermodal_2023_W43_Intermodal-Report-Week-43-2023.pdf
+2023-10-31,43,LUCKY DRAGON,CONTAINER,22198,8170,1996,"GDANSKA STOCZNIA, Poland",512.0,undisclosed,as is Singapore,intermodal_2023_W43_Intermodal-Report-Week-43-2023.pdf
+2023-11-07,44,APJ UMA KISMAT,BC,74107,7451,2001,"IMABARI, Japan",510.0,undisclosed,on 'as is' bss Colombo,intermodal_2023_W44_Intermodal-Report-Week-44-2023.pdf
+2023-11-07,44,XIN DONG GUAN 3,BC,69512,9700,1996,"TSUNEISHI, Japan",473.0,undisclosed,"BWTS fitted, as is' Hong Kong, incl. around 100T ROB",intermodal_2023_W44_Intermodal-Report-Week-44-2023.pdf
+2023-11-07,44,XIN FENG NINGBO,CONTAINER,35551,10316,1995,"HYUNDAI HEAVY INDS - U, S. Korea",480.0,undisclosed,on 'as is' bss Zhoushan,intermodal_2023_W44_Intermodal-Report-Week-44-2023.pdf
+2023-11-14,45,CATHERINE BRIGHT,BC,77828,10962,1998,"SAFEBO, Japan",535.0,Indian,,intermodal_2023_W45_Intermodal-Report-Week-45-2023.pdf
+2023-11-14,45,WU YANG GODDESS,BC,45700,7481,1995,"HASHIHAMA, Japan",480.0,undisclosed,"as is China, 500 tons bunkers included",intermodal_2023_W45_Intermodal-Report-Week-45-2023.pdf
+2023-11-14,45,BONTRUP MALDIVES,GENERAL CARGO,42913,10965,1984,"HYUNDAI, S. Korea",535.0,Indian,"HKC green recycling, 350 tons bunkers included",intermodal_2023_W45_Intermodal-Report-Week-45-2023.pdf
+2023-11-14,45,MSC CHIARA,CONTAINER,41815,13933,1987,"NORMED DU LITTORAL, France CHANGDE SANGXIANG, China",535.0,Indian,"HKC green recycling, 350 tons bunkers included",intermodal_2023_W45_Intermodal-Report-Week-45-2023.pdf
+2023-11-14,45,JIN YUAN SHENG 9,GENERAL CARGO,14776,3000,2007,,,Indian,,intermodal_2023_W45_Intermodal-Report-Week-45-2023.pdf
+2023-11-14,45,CMA CGM TANGER,CONTAINER,13702,5245,2003,"JIANGDONG, China",,Turkish,,intermodal_2023_W45_Intermodal-Report-Week-45-2023.pdf
+2023-11-14,45,GAS DOLLART,GAS TANKER,4998,2491,1990,"PATTJE, Netherlands",700.0,Indian,,intermodal_2023_W45_Intermodal-Report-Week-45-2023.pdf
+2023-11-21,46,SAMC EDDIE,BC,175775,24181,2002,"CHINA SHIPBUILDING, Taiwan",505.0,undisclosed,as is' Singapore,intermodal_2023_W46_Intermodal-Report-Week-46-2023.pdf
+2023-11-21,46,XIN FENG GUANG ZHOU,CONTAINER,33522,8895,1994,Halla Eng & HI - Incheon,495.0,undisclosed,as is' Zhoushan,intermodal_2023_W46_Intermodal-Report-Week-46-2023.pdf
+2023-11-21,46,SOUL OF LUCK,CONTAINER,21519,6961,1997,"HANJIN HI, S. Korea",,undisclosed,buyer's option Sub-continent,intermodal_2023_W46_Intermodal-Report-Week-46-2023.pdf
+2023-11-21,46,MTT TAWAU,CONTAINER,14099,5730,1997,Szczecinska Stocznia SA,520.0,undisclosed,"'as is' Malaysia, incl. ROB, enbloc",intermodal_2023_W46_Intermodal-Report-Week-46-2023.pdf
+2023-11-21,46,MTT TANJUNG MANIS,CONTAINER,12171,5468,1999,Sedef Tuzla,520.0,undisclosed,"'as is' Malaysia, incl. ROB, enbloc",intermodal_2023_W46_Intermodal-Report-Week-46-2023.pdf
+2023-11-28,47,MSC RITA,CONTAINER,104849,30712,2005,"HANJIN HI, S. Korea",,undisclosed,as is Abu Dhabi,intermodal_2023_W47_Intermodal-Report-Week-47-2023.pdf
+2023-11-28,47,DIAMOND WAY,BC,42529,9016,1995,"NAMURA, Japan",,Indian,,intermodal_2023_W47_Intermodal-Report-Week-47-2023.pdf
+2023-11-28,47,ZE HONG,CONTAINER,41553,11614,1995,THYSEEN N,520.0,Indian,as is Zhoushan with 285 Ts bunkers,intermodal_2023_W47_Intermodal-Report-Week-47-2023.pdf
+2023-11-28,47,NEPTUNE STAR,BC,25398,5471,1996,"IMABARI, Japan",512.0,Indian,,intermodal_2023_W47_Intermodal-Report-Week-47-2023.pdf
+2023-12-05,48,G HARMONY,GENERAL CARGO,35014,11248,2005,"KOUAN, China",531.0,Pakistani,,intermodal_2023_W48_Intermodal-Report-Week-48-2023.pdf
+2023-12-05,48,DEVASHREE,TANKER,7849,2650,2000,"FUKUOKA, Japan",480.0,Indian,,intermodal_2023_W48_Intermodal-Report-Week-48-2023.pdf
+2023-12-12,49,ONE STORY,BC,45406,7775,1995,"TSUNEISHI, Japan",530.0,INDIA,,intermodal_2023_W49_Intermodal-Report-Week-49-2023.pdf
+2023-12-12,49,SSL DELHI,CONTAINER,33912,10669,2000,"AKER MTW, Germany",530.0,INDIA,"as is Jebel Ali, incl. bunkers",intermodal_2023_W49_Intermodal-Report-Week-49-2023.pdf
+2023-12-12,49,TJ ORHAN,CONTAINER,20087,7360,1998,"GUANGZHOU WENCHONG, China",560.0,INDIA,,intermodal_2023_W49_Intermodal-Report-Week-49-2023.pdf
+2023-12-19,50,KHURAN,TANKER,41315,8579,1992,"MINAMI-NIPPON, Japan",,undisclosed,,intermodal_2023_W50_Intermodal-Report-Week-50-2023.pdf
+2023-12-19,50,JIN HAI XI,BC,28615,6739,1995,"NKK,",,India,,intermodal_2023_W50_Intermodal-Report-Week-50-2023.pdf
+2023-12-19,50,OCEAN SILKWAY,CONTAINER,21813,7036,1996,"MITSUBISHI SHIMONOSEKI, Japan",550.0,India,,intermodal_2023_W50_Intermodal-Report-Week-50-2023.pdf
+2023-12-19,50,STAR-1,GENERAL CARGO,7120,2950,1985,NOBISKRUG WERFT,450.0,undisclosed,as is UAE,intermodal_2023_W50_Intermodal-Report-Week-50-2023.pdf
+2023-12-19,50,CORSICA,GENERAL CARGO,6404,3937,2001,"JIANGDONG, China",,undisclosed,as is Singapore,intermodal_2023_W50_Intermodal-Report-Week-50-2023.pdf
+2024-01-09,1,PETROBRAS XXXIII,OFFSHORE,279749,63785,1978,"ISHIBRAS, Brazil",,undisclosed,green recycling,intermodal_2024_W01_Intermodal-Report-Week-01-2024.pdf
+2024-01-09,1,MSC SOPHIE,CONTAINER,43600,13616,1993,"SAMSUNG, S. Korea",565.0,undisclosed,incl abt 1200 mt fuel oil and 80 mt gas oil,intermodal_2024_W01_Intermodal-Report-Week-01-2024.pdf
+2024-01-09,1,JOHN CAINE,TANKER,18056,4759,1993,"IMABARI, Japan",465.0,Indian,,intermodal_2024_W01_Intermodal-Report-Week-01-2024.pdf
+2024-01-09,1,ICE RIVER,REEFER,14519,6981,1985,"HYUNDAI, S. Korea",573.0,undisclosed,incl 250 MT Aluminium,intermodal_2024_W01_Intermodal-Report-Week-01-2024.pdf
+2024-01-09,1,AT MIDDLE BRIDGE,GENERAL CARGO,8212,3434,1989,"SHIN KURUSHIMA, Japan",504.0,Indian,,intermodal_2024_W01_Intermodal-Report-Week-01-2024.pdf
+2024-01-09,1,AL DHAFERAH,FERRY,5040,6040,1987,"BREMER VULKAN, Germany",387.0,Indian,as is Oman,intermodal_2024_W01_Intermodal-Report-Week-01-2024.pdf
+2024-01-16,2,ALGOMA TRANSPORT,BC,34066,9148,1979,"PORT WELLER, Canada",,undisclosed,as is Canada,intermodal_2024_W02_Intermodal-Report-Week-02-2024.pdf
+2024-01-16,2,HABIBA M,GENERAL CARGO,3739,1357,1975,"KRAMER & BOOY, Nehterlands",,Turkish,,intermodal_2024_W02_Intermodal-Report-Week-02-2024.pdf
+2024-01-16,2,LEADER M,GENERAL CARGO,4240,1593,1977,"SVENDBORG, Denmark",,Turkish,,intermodal_2024_W02_Intermodal-Report-Week-02-2024.pdf
+2024-01-23,3,JIN YUAN HE,CONTAINER,23596,6841,1991,"BREMER VULKAN, Germany",535.0,Bangladeshi,incl ROB,intermodal_2024_W03_Intermodal-Report-Week-03-2024.pdf
+2024-01-23,3,RONG DA CHANG SHA,GENERAL CARGO,22271,9346,1998,"3 MAJ, Croatia",535.0,Bangladeshi,,intermodal_2024_W03_Intermodal-Report-Week-03-2024.pdf
+2024-01-23,3,MSC EAGLE F,GENERAL CARGO,17451,6809,2000,"JINGJIANG, China",505.0,Indian,,intermodal_2024_W03_Intermodal-Report-Week-03-2024.pdf
+2024-01-23,3,MTT SINGAPORE,CONTAINER,10354,3827,1996,"HANJIN HI, S. Korea",512.0,undisclosed,"'as is' Malaysia, incl 250MT ROB",intermodal_2024_W03_Intermodal-Report-Week-03-2024.pdf
+2024-01-30,4,XIN XIANG AN,BC,22160,5113,1992,"SAIKI, Japan",490.0,Bangladeshi,,intermodal_2024_W04_Intermodal-Report-Week-04-2024.pdf
+2024-01-30,4,FUKUDA,TANKER,2217,674,1992,"GREENBAY, Singapore",,Bangladeshi,,intermodal_2024_W04_Intermodal-Report-Week-04-2024.pdf
+2024-02-06,5,ADISA,TANKER,310309,41672,2005,"IMABARI, Japan",,Indian,,intermodal_2024_W05_Intermodal-Report-Week-05-2024.pdf
+2024-02-06,5,BROTHER GLORY,BC,70529,10161,1998,"SANOYAS, Japan",,undisclosed,,intermodal_2024_W05_Intermodal-Report-Week-05-2024.pdf
+2024-02-06,5,WADI S,BC,70087,10247,1994,"DAEWOO, S. Korea",535.0,Bangladeshi,,intermodal_2024_W05_Intermodal-Report-Week-05-2024.pdf
+2024-02-06,5,SAVIZ,GENERAL CARGO,23176,8094,1999,"GSI, China",,undisclosed,,intermodal_2024_W05_Intermodal-Report-Week-05-2024.pdf
+2024-02-13,6,KONSTANTINOS,BC,43222,7979,1995,"HYUNDAI HEAVY INDS - U, S. Korea",,Bangladeshi,,intermodal_2024_W06_Intermodal-Report-Week-06-2024.pdf
+2024-02-13,6,EZ FORTUNA,BC,43108,7371,1995,"OSHIMA, Japan",522.0,Bangladeshi,,intermodal_2024_W06_Intermodal-Report-Week-06-2024.pdf
+2024-02-13,6,BUKHTA NAGAEVA,REEFER,2397,2399,1984,"KOMUNY PARYSKIEJ STOCZ, Poland",,Bangladeshi,,intermodal_2024_W06_Intermodal-Report-Week-06-2024.pdf
+2024-02-20,7,BONTRUP EMIRATES,GENERAL CARGO,42497,13200,1986,"SAMSUNG, S. Korea",520.0,Bangladeshi,,intermodal_2024_W07_Intermodal-Report-Week-07-2024.pdf
+2024-02-20,7,SINAR TARAKAN,GAS TANKER,3821,2163,1995,"MIYOSHI, Japan",540.0,Bangladeshi,,intermodal_2024_W07_Intermodal-Report-Week-07-2024.pdf
+2024-02-27,8,XIN XIANG RUI,BC,22154,5119,1992,"SAIKI, Japan",,Bangladeshi,,intermodal_2024_W08_Intermodal-Report-Week-08-2024.pdf
+2024-02-27,8,NAND RAJGADI,GENERAL CARGO,2255,813,1991,"MAGDALLA, India",,Indian,,intermodal_2024_W08_Intermodal-Report-Week-08-2024.pdf
+2024-03-05,9,ISL STAR,BC,74461,10177,1999,"SASEBO, Japan",528.0,Bangladeshi,,intermodal_2024_W09_Intermodal-Report-Week-09-2024.pdf
+2024-03-05,9,HONG YUAN 01,CONTAINER,39626,11486,1996,"FLENSBURGER, Germany",540.0,Bangladeshi,,intermodal_2024_W09_Intermodal-Report-Week-09-2024.pdf
+2024-03-05,9,MERATUS MEDAN 2,CONTAINER,22219,7291,1991,"SHIN KURUSHIMA, Japan",505.0,undisclosed,as is Jakarka,intermodal_2024_W09_Intermodal-Report-Week-09-2024.pdf
+2024-03-05,9,KELSIE,TANKER,8143,3535,1994,"BOELWERF TEMSE, Belgium",865.0,undisclosed,with significant quantity of stainless steel,intermodal_2024_W09_Intermodal-Report-Week-09-2024.pdf
+2024-03-05,9,ALJAMIL,GENERAL CARGO,6828,2128,1977,"NISHI, Japan",480.0,Indian,,intermodal_2024_W09_Intermodal-Report-Week-09-2024.pdf
+2024-03-05,9,EL YOUSSEF,GENERAL CARGO,4106,1995,1975,"SIETAS KG, Germany",,Turkish,,intermodal_2024_W09_Intermodal-Report-Week-09-2024.pdf
+2024-03-05,9,SINAR TARAKAN,GAS TANKER,3821,2163,1995,"MIYOSHI, Japan",540.0,Bangladeshi,,intermodal_2024_W09_Intermodal-Report-Week-09-2024.pdf
+2024-03-05,9,OSCAR I,GENERAL CARGO,3376,1010,1981,"DENIZ, Turkey",475.0,Indian,,intermodal_2024_W09_Intermodal-Report-Week-09-2024.pdf
+2024-03-12,10,SUVARNA SWARAJYA,TANKER,32902,8542,1998,"HYUNDAI HEAVY INDS - U, S. Korea",540.0,BANGLADESH,'as is' Colombo,intermodal_2024_W10_Intermodal-Report-Week-10-2024.pdf
+2024-03-12,10,YAMTAI,BC,28460,6003,1994,"IMABARI, Japan",480.0,BANGLADESH,'as is' Singapore,intermodal_2024_W10_Intermodal-Report-Week-10-2024.pdf
+2024-03-12,10,FAR EAST CHEER,CONTAINER,7747,3652,2007,"ZHEJIANG, China",530.0,BANGLADESH,,intermodal_2024_W10_Intermodal-Report-Week-10-2024.pdf
+2024-03-19,11,DENAK VOYAGER,BC,72105,9518,1996,"HITACHI ZOSEN, Japan",540.0,undisclosed,,intermodal_2024_W11_Intermodal-Report-Week-11-2024.pdf
+2024-03-19,11,MSC ROSSELLA,CONTAINER,43605,13305,1993,"SAMSUNG, S. Korea",575.0,Indian,HKC,intermodal_2024_W11_Intermodal-Report-Week-11-2024.pdf
+2024-03-19,11,LIAN FENG 6,GENERAL CARGO,22279,6357,1999,"WUHU, China",,Bangladeshi,,intermodal_2024_W11_Intermodal-Report-Week-11-2024.pdf
+2024-03-19,11,BOS LINA,GENERAL CARGO,11695,3287,1991,"HONDA SAIKI, Japan",505.0,Indian,,intermodal_2024_W11_Intermodal-Report-Week-11-2024.pdf
+2024-03-19,11,HONG YUN YOU 19,TANKER,6413,2579,1999,"FUJIAN, China",,Bangladeshi,,intermodal_2024_W11_Intermodal-Report-Week-11-2024.pdf
+2024-04-02,13,JAL GAMINI,TANKER,157449,22572,2000,"DAEWOO, S. Korea",541.0,undisclosed,as is Indonesia,intermodal_2024_W13_Intermodal-Report-Week-13-2024-1.pdf
+2024-04-02,13,PETROLEO NAUTIPA,OFFSHORE,141330,18139,1975,"NKK CORP, Japan",455.0,undisclosed,as is Oman,intermodal_2024_W13_Intermodal-Report-Week-13-2024-1.pdf
+2024-04-02,13,TORO BIANCO,BC,69045,10377,1995,"SUMITOMO, Japan",532.0,Pakistani,,intermodal_2024_W13_Intermodal-Report-Week-13-2024-1.pdf
+2024-04-02,13,HE SHENG,CONTAINER,12895,4866,2002,"CONSTANTA, Romania",552.0,Bangladeshi,,intermodal_2024_W13_Intermodal-Report-Week-13-2024-1.pdf
+2024-04-09,14,SAWASDEE SINGAPORE,CONTAINER,20156,7098,1995,THYSEEN N,,Bangladeshi,incl bunkers abt 550t,intermodal_2024_W14_Intermodal-Report-Week-14-2024.pdf
+2024-04-16,15,SINOKOR HONGKONG,CONTAINER,17468,5300,1996,"IMABARI, Japan",598.0,Bangladeshi,including ROB 380T,intermodal_2024_W15_Intermodal-Report-Week-15-2024.pdf
+2024-04-23,16,SINOKOR HONGKONG,CONTAINER,17468,5300,1996,"IMABARI, Japan",598.0,Bangladeshi,including ROB 380T,intermodal_2024_W16_Intermodal-Report-Week-16-2024.pdf
+2024-04-23,16,MUDITA,BC,23866,6869,,"KURUSHIMA, Japan",485.0,undisclosed,as is Indonesia,intermodal_2024_W16_Intermodal-Report-Week-16-2024.pdf
+2024-04-23,16,BORDER,CONTAINER,14120,5723,,"SZCZECINSKA, Poland",454.0,undisclosed,as is S. Africa,intermodal_2024_W16_Intermodal-Report-Week-16-2024.pdf
+2024-04-30,17,MSC NILGUN,CONTAINER,42413,12553,1994,"AESA SEVILLA, Spain",565.0,Indian,,intermodal_2024_W17_Intermodal-Report-Week-17-2024.pdf
+2024-04-30,17,NEW COURAGE,GENERAL CARGO,9433,4426,1994,"MITSUBISHI SHIMONOSEKI, Japan",540.0,Bangladeshi,Ctg,intermodal_2024_W17_Intermodal-Report-Week-17-2024.pdf
+2024-05-14,18,TA'KUNTAH,OFFSHORE,357632,44573,1978,"KOCKMUS MEKASINKA, SWEDEN",184.0,undisclosed,as is Mexico,intermodal_2024_W18_Intermodal-Report-Week-18-2024.pdf
+2024-05-14,18,YK SOVEREIGN,GAS TANKER,72020,30120,1994,"HYUNDAI, S. Korea",620.0,undisclosed,as is Japan/Korea,intermodal_2024_W18_Intermodal-Report-Week-18-2024.pdf
+2024-05-14,18,PINE EXPRESS,BC,42968,9543,1990,"HASHIHAMA, Japan",560.0,Bangladeshi,,intermodal_2024_W18_Intermodal-Report-Week-18-2024.pdf
+2024-05-14,18,HONG XI,GENERAL CARGO,10440,3621,2008,"WUHAN SANYANG, China",515.0,Bangladeshi,,intermodal_2024_W18_Intermodal-Report-Week-18-2024.pdf
+2024-05-14,18,HEUNG-A TOKYO,CONTAINER,7040,2446,1996,"DAEDONG, S. Korea",581.0,Bangladeshi,,intermodal_2024_W18_Intermodal-Report-Week-18-2024.pdf
+2024-05-21,19,TA'KUNTAH,OFFSHORE,357632,44573,1978,"KOCKMUS MEKASINKA, SWEDEN",184.0,undisclosed,as is Mexico,intermodal_2024_W19_Intermodal-Report-Week-19-2024.pdf
+2024-05-21,19,YK SOVEREIGN,GAS TANKER,72020,30120,1994,"HYUNDAI, S. Korea",620.0,undisclosed,as is Japan/Korea,intermodal_2024_W19_Intermodal-Report-Week-19-2024.pdf
+2024-05-21,19,PINE EXPRESS,BC,42968,9543,1990,"HASHIHAMA, Japan",560.0,Bangladeshi,,intermodal_2024_W19_Intermodal-Report-Week-19-2024.pdf
+2024-05-21,19,HONG XI,GENERAL CARGO,10440,3621,2008,"WUHAN SANYANG, China",515.0,Bangladeshi,,intermodal_2024_W19_Intermodal-Report-Week-19-2024.pdf
+2024-05-21,19,HEUNG-A TOKYO,CONTAINER,7040,2446,1996,"DAEDONG, S. Korea",581.0,Bangladeshi,,intermodal_2024_W19_Intermodal-Report-Week-19-2024.pdf
+2024-05-28,20,EVER URANUS,CONTAINER,63216,542,1999,"MITSUBISHI, Japan",,undisclosed,as is Port Kelang,intermodal_2024_W20_Intermodal-Report-Week-20-2024.pdf
+2024-05-28,20,UNITED ID,BC,38855,529,1991,"IHI, Japan",,undisclosed,,intermodal_2024_W20_Intermodal-Report-Week-20-2024.pdf
+2024-05-28,20,URANUS J,BC,26428,525,1995,"HAKODATE, Japan",,undisclosed,,intermodal_2024_W20_Intermodal-Report-Week-20-2024.pdf
+2024-05-28,20,UNI-ASSURE,CONTAINER,15511,373,1999,"EVERGREEN, Japan",,undisclosed,as is Piraeus,intermodal_2024_W20_Intermodal-Report-Week-20-2024.pdf
+2024-05-28,20,SURYA AKI,GAS TANKER,11612,660,1996,"KAWASAKI, Japan",,undisclosed,HKC recycling & 1100 bunkers,intermodal_2024_W20_Intermodal-Report-Week-20-2024.pdf
+2024-05-28,20,BAO DI LONG 8,GENERAL CARGO,10327,485,2006,"LINHAI HONGZHOU, China",,Bangladeshi,,intermodal_2024_W20_Intermodal-Report-Week-20-2024.pdf
+2024-05-28,20,SKYMOON KING,GENERAL CARGO,4336,,1988,"ZHONGHUA, China",,Turkish,,intermodal_2024_W20_Intermodal-Report-Week-20-2024.pdf
+2024-06-04,21,ANDHIKA NARESWARI,BC,71290,10308,1996,"NAMURA, Japan",515.0,undisclosed,,intermodal_2024_W21_Intermodal-Report-Week-21-2024.pdf
+2024-06-04,21,POSEIDON M,BC,38858,7170,1994,"IHI, Japan",,Pakistani,,intermodal_2024_W21_Intermodal-Report-Week-21-2024.pdf
+2024-06-11,22,SERANO II,TANKER,106552,16290,"1,999","NKK CORP, Japan",,undisclosed,,intermodal_2024_W22_Intermodal-Report-Week-22-2024.pdf
+2024-06-11,22,JEPPESSEN MAERSK,CONTAINER,35097,6314,2001,"VOLKSWERFT STRALSUND, GERMANY",,Turkish,,intermodal_2024_W22_Intermodal-Report-Week-22-2024.pdf
+2024-06-18,24,MSC TIA II,CONTAINER,,10421,1999,"GDYNIA STOCZNIA, Poland",570.0,Indian,,intermodal_2024_W24_Intermodal-Report-Week-24-2024.pdf
+2024-06-18,24,WAN TONG,REEFER,,5111,1990,"KANASASHI, Japan",425.0,undisclosed,,intermodal_2024_W24_Intermodal-Report-Week-24-2024.pdf
+2024-06-25,25,MOSHTARAKA 2,BC,94274,14348,1995,"MITSUBISHI, Japan",540.0,undisclosed,"as is Khor Fakkan, incl 450 tons bunkers",intermodal_2024_W25_Intermodal-Report-Week-25-2024.pdf
+2024-06-25,25,TROPICAL SKY,REEFER,11935,5358,1986,"KOREA SHBLDG, S. Korea",545.0,Indian,,intermodal_2024_W25_Intermodal-Report-Week-25-2024.pdf
+2024-07-02,26,APJ MAHAKALI,BC,70296,9126,1996,"SANOYAS HISHINO, Japan",525.0,Sri Lankan,,intermodal_2024_W26_Intermodal-Report-Week-26-2024.pdf
+2024-07-02,26,KMAX PRO,BC,48227,7226,1997,"OSHIMA, Japan",,Malaysian,,intermodal_2024_W26_Intermodal-Report-Week-26-2024.pdf
+2024-07-09,27,HUA KAI,CONTAINER,6819,2408,1994,"DAE SUN, S. Korea",530.0,Bangladeshi,,intermodal_2024_W27_Intermodal-Report-Week-27-2024.pdf
+2024-07-09,27,MARZUK,GENERAL CARGO,2750,1850,1974,"HOOGEZAND, Netherlands",,Turkish,,intermodal_2024_W27_Intermodal-Report-Week-27-2024.pdf
+2024-07-09,27,BLUE STAR,GENERAL CARGO,2362,846,1986,"BIJLSMA SCHEEPSWERF, Netherlands",,Turkish,,intermodal_2024_W27_Intermodal-Report-Week-27-2024.pdf
+2024-07-23,29,MSC IRIS,CONTAINER,21370,10655,1982,"WARNOWWERFT, Germany",526.0,Indian,Green recycling,intermodal_2024_W29_Intermodal-Report-Week-29-2024.pdf
+2024-07-23,29,EMPIRE PERSIA,OFFSHORE/Support,612,1805,1972,"CLELANDS, UK",,undisclosed,As is Denmark,intermodal_2024_W29_Intermodal-Report-Week-29-2024.pdf
+2024-07-30,30,ICE RUNNER,REEFER,14499,587,1984,"HYUNDAI HEAVY INDS - U, S. Korea",,undisclosed,,intermodal_2024_W30_Intermodal-Report-Week-30-2024.pdf
+2024-08-06,31,MSC ANNAMARIA,CONTAINER,31205,8805,1987,"HDW AG - Kiel - GEU, Germany",535.0,Indian,,intermodal_2024_W31_Intermodal-Report-Week-31-2024.pdf
+2024-08-20,33,NAHIDE-M,BC,27917,7125,1995,"NAIKAI ZOSEN, Japan",510.0,Bangladeshi,,intermodal_2024_W33_Intermodal-Report-Week-33-2024.pdf
+2024-08-27,34,PRADA,TANKER,112201,18860,2001,"HYUNDAI, S. Korea",480.0,undisclosed,,intermodal_2024_W34_Intermodal-Report-Week-34-2024.pdf
+2024-08-27,34,SOLA GRATIA,BC,4582,2052,1985,"HONDA SAIKI, Japan",468.0,Bangladeshi,,intermodal_2024_W34_Intermodal-Report-Week-34-2024.pdf
+2024-09-03,35,MEDELIN EXPO,TANKER,17712,5270,1993,"SHIN KURUSHIMA, Japan",653.0,Indian,'as is' Belawan with 275 Ts solid SUS 316 + 469 Ts,intermodal_2024_W35_Intermodal-Report-Week-35-2024.pdf
+2024-09-10,36,GUNDOGDU 1,GENERAL CARGO,3499,1047,1984,"HIDRODINAMIK TUZLA, Turkey",,Turkish,,intermodal_2024_W36_Intermodal-Report-Week-36-2024.pdf
+2024-09-17,37,CORAL ENERGY,GAS TANKER,72629,28525,1979,"GENERAL DYNAMICS QC, USA",555.0,undisclosed,as is Labuan,intermodal_2024_W37_Intermodal-Report-Week-37-2024.pdf
+2024-09-17,37,AQUILA,TANKER,35841,8481,1999,"DAEDONG, S. Korea",520.0,Indian,,intermodal_2024_W37_Intermodal-Report-Week-37-2024.pdf
+2024-09-24,38,MSC GABRIELLA,CONTAINER,31290,8911,1985,"HDW AG - Kiel - GEU, Germany",499.0,Indian,320 Ts ROB on arrival,intermodal_2024_W38_Intermodal-Report-Week-38-2024.pdf
+2024-09-24,38,MSC AGATA II,CONTAINER,22450,7364,1994,"SZCZECINSKA, Poland",505.0,Indian,200 Ts ROB on arrival,intermodal_2024_W38_Intermodal-Report-Week-38-2024.pdf
+2024-09-24,38,OMAR TRADER,GENERAL CARGO,6358,1800,1980,"ATLANTICO SANTADER, Spain",310.0,Turkish,,intermodal_2024_W38_Intermodal-Report-Week-38-2024.pdf
+2024-10-01,39,ORIENTAL NAVIGATOR,,,,1999,"NKK, Japan",12.0,Chinese,LDT: 21.221,intermodal_2024_W39_Intermodal-Report-Week-39-2024.pdf
+2024-10-01,39,LILY ATLANTIC,,,,2009,"TSUNEISHI, Japan",16.5,Greek,,intermodal_2024_W39_Intermodal-Report-Week-39-2024.pdf
+2024-10-01,39,KIBALI,,,,2011,"STX, S. Korea",16.0,Vietnamese,,intermodal_2024_W39_Intermodal-Report-Week-39-2024.pdf
+2024-10-01,39,ZEN-NOH GRAIN PEGASUS,,,,2010,"OSHIMA, Japan",14.7,Chinese,sold with grounding damage,intermodal_2024_W39_Intermodal-Report-Week-39-2024.pdf
+2024-10-01,39,A WISDOM,,,,2007,"IWAGI ZOSEN, Japan",13.0,Greek,,intermodal_2024_W39_Intermodal-Report-Week-39-2024.pdf
+2024-10-01,39,MY MERAY,BC,39110,6978,1992,"IHI, Japan",480.0,Indian,incl 150 Ts bunkers,intermodal_2024_W39_Intermodal-Report-Week-39-2024.pdf
+2024-10-01,39,ANDULUS 1,BC,28399,6064,1995,"IMABARI, Japan",470.0,Indian,,intermodal_2024_W39_Intermodal-Report-Week-39-2024.pdf
+2024-10-08,40,MSC ADELE,CONTAINER,30950,8779,1986,"HDW AG - Kiel - GEU, Germany",500.0,Indian,,intermodal_2024_W40_Intermodal-Report-Week-40-2024.pdf
+2024-10-15,41,GREEN MALOY,REEFER,6120,2990,1990,"KLEVEN LOLAND, Norway",488.0,Indian,,intermodal_2024_W41_Intermodal-Report-Week-41-2024.pdf
+2024-10-15,41,ATLAS WIND,GENERAL CARGO,5351,2486,1997,"JIANGXI JIANGZHOU, China",445.0,undisclosed,as is Port Klang,intermodal_2024_W41_Intermodal-Report-Week-41-2024.pdf
+2024-10-22,42,PRINCESS LOTUS,BC,70189,9214,1996,"SUMITOMO, Japan",430.0,Bangladeshi,'as is' China with 200 ts bunkers,intermodal_2024_W42_Intermodal-Report-Week-42-2024.pdf
+2024-10-22,42,MSC MALIN,CONTAINER,21370,10655,1982,"WARNOWWERFT, Germany",,Turkish,,intermodal_2024_W42_Intermodal-Report-Week-42-2024.pdf
+2024-10-22,42,HAPPY BUCCANEER,GENERAL CARGO,13740,9900,1984,"HITACHI ZOSEN, Japan",,Turkish,,intermodal_2024_W42_Intermodal-Report-Week-42-2024.pdf
+2024-10-29,43,NING HUA,BC,69607,9713,1993,"HASHIHAMA, Japan",433.0,undisclosed,"as is Taishan, China",intermodal_2024_W43_Intermodal-Report-Week-43-2024.pdf
+2024-10-29,43,MSC ALEXA,CONTAINER,50855,10655,1996,"FINCANTIERI ANCONA, Italy",,Indian,,intermodal_2024_W43_Intermodal-Report-Week-43-2024.pdf
+2024-10-29,43,TAHA,GENERAL CARGO,29319,8603,1985,"SUMITOMO, Japan",480.0,Indian,,intermodal_2024_W43_Intermodal-Report-Week-43-2024.pdf
+2024-11-05,44,FATMA SARI,BC,43188,8013,1994,"HYUNDAI, S. Korea",488.0,Bangladeshi,,intermodal_2024_W44_Intermodal-Report-Week-44-2024.pdf
+2024-11-05,44,BOSS 7,GENERAL CARGO,18469,4531,1996,"CHEUNGGU MARINE, S. Korea",473.0,Indian,,intermodal_2024_W44_Intermodal-Report-Week-44-2024.pdf
+2024-11-05,44,SOFIA 3,CONTAINER,12839,3732,1992,"SHIN KURUSHIMA, Japan",455.0,Indian,'as is' Khor Fakkan,intermodal_2024_W44_Intermodal-Report-Week-44-2024.pdf
+2024-11-05,44,ARMADA SEJATI,CONTAINER,8528,3322,1991,"HAKATA, Japan",470.0,Bangladeshi,,intermodal_2024_W44_Intermodal-Report-Week-44-2024.pdf
+2024-11-12,45,MERATUS SIBOLGA,GENERAL CARGO,3650,1340,1993,"PAL INDONESIA, Indonesia",,undisclosed,"as is Batam, Indonesia",intermodal_2024_W45_Intermodal-Report-Week-45-2024.pdf
+2024-11-19,46,SK SUMMIT,GAS TANKER,76064,29971,1999,"DAEWOO, S. Korea",469.5,undisclosed,,intermodal_2024_W46_Intermodal-Report-Week-46-2024.pdf
+2024-11-19,46,SK SUPREME,GAS TANKER,75319,29017,2000,"SAMSUNG, S. Korea",469.5,undisclosed,as is Singapore,intermodal_2024_W46_Intermodal-Report-Week-46-2024.pdf
+2024-11-19,46,SK SPLENDOR,GAS TANKER,75154,29920,2000,"SAMSUNG, S. Korea",469.5,undisclosed,,intermodal_2024_W46_Intermodal-Report-Week-46-2024.pdf
+2024-11-19,46,SK STELLAR,GAS TANKER,75135,29920,2000,"SAMSUNG, S. Korea",469.5,undisclosed,,intermodal_2024_W46_Intermodal-Report-Week-46-2024.pdf
+2024-12-03,48,LADY CEDROS,BC,151249,17870,1998,"NKK, Japan",467.0,undisclosed,,intermodal_2024_W48_Intermodal-Report-Week-48-2024.pdf
+2024-12-03,48,JIMEI SHUNHAO,BC,91443,23441,1995,"MITSUBISHI, Japan",460.0,undisclosed,as is UAE,intermodal_2024_W48_Intermodal-Report-Week-48-2024.pdf
+2024-12-10,49,MEDELIN MASTER,TANKER,13940,3852,1992,"SHIN KURUSHIMA, Japan",,Indian,incl 273 Ts solid SUS 316L on board,intermodal_2024_W49_Intermodal-Report-Week-49-2024.pdf
+2024-12-17,50,TRUE CONFIDENCE,BC,50448,8907,2011,"OSHIMA, Japan",353.0,undisclosed,"Damaged condition/total loss - as is Sharjah, UAE",intermodal_2024_W50_Intermodal-Report-Week-50-2024.pdf
+2024-12-17,50,KELP,TANKER,8424,3248,2002,"KURINOURA, Japan",620.0,Indian,high quantity of StSt,intermodal_2024_W50_Intermodal-Report-Week-50-2024.pdf
+2024-12-17,50,NEW SMILE,TANKER,6902,2227,1995,"JURONG, Singapore",510.0,Bangladeshi,,intermodal_2024_W50_Intermodal-Report-Week-50-2024.pdf
+2024-12-24,51,GUO YUAN 9,BC,48218,9326,1994,"DANYARD, Denmark",465.0,Bangladeshi,,intermodal_2024_W51_Intermodal-Report-Week-51-2024.pdf
+2025-01-14,2,ITAUGUA,TANKER,300361,48100,1997,"MITSUBISHI, Japan",447.0,Indian,,intermodal_2025_W02_Intermodal-Report-Week-02-2025.pdf
+2025-01-21,3,OCEAN PEACE,BC,72338,11654,1994,"HYUNDAI, S. Korea",455.0,Bangladeshi,with 200 Ts bunkers,intermodal_2025_W03_Intermodal-Report-Week-03-2025.pdf
+2025-01-21,3,RONG YUAN,BC,70257,9165,1997,"SANOYAS, Japan",450.0,Bangladeshi,,intermodal_2025_W03_Intermodal-Report-Week-03-2025.pdf
+2025-01-21,3,GOLDEN ORIENT,BC,73326,10664,1998,"HALLA ENG & HI, S. Korea",418.0,undisclosed,as is Hong Kong,intermodal_2025_W03_Intermodal-Report-Week-03-2025.pdf
+2025-01-28,4,LEENA,BC,22050,5552,1994,"SAIKI, Japan",441.0,Indian,,intermodal_2025_W04_Intermodal-Report-Week-04-2025.pdf
+2025-01-28,4,MARTHA OPTION,TANKER,13940,3868,1993,"SHIN KURUSHIMA, Japan",660.0,Indian,"as is Belawan, StSt",intermodal_2025_W04_Intermodal-Report-Week-04-2025.pdf
+2025-01-28,4,HYUNDAI GREENPIA,GAS TANKER,71684,30457,1996,"HYUNDAI, S. Korea",580.0,undisclosed,as is Singapore (option dely Subcont US$ 635/ldt),intermodal_2025_W04_Intermodal-Report-Week-04-2025.pdf
+2025-02-04,5,TASOS,BC,75100,10569,2000,"HITACHI ZOSEN, Japan",475.0,undisclosed,,intermodal_2025_W05_Intermodal-Report-Week-05-2025.pdf
+2025-02-04,5,AK HAMBURG,GENERAL CARGO,8828,2600,1982,"TAIHEI HASHIHAMA, Japan",440.0,Indian,,intermodal_2025_W05_Intermodal-Report-Week-05-2025.pdf
+2025-02-11,6,AREL 2,GENERAL CARGO,3152,972,1983,"BODEWESS GRUNO, Netherlands",280.0,Turkish,,intermodal_2025_W06_Intermodal-Report-Week-06-2025.pdf
+2025-02-11,6,TALENT BLU,BC,9750,3532,2008,"ZHEJIANG ZHENGHE, China",453.0,Indian,incl. 140 mt FO/15 mt MGO,intermodal_2025_W06_Intermodal-Report-Week-06-2025.pdf
+2025-02-18,7,RUN FU 7,BC,38852,7236,1990,"IHI, Japan",445.0,Bangladeshi,,intermodal_2025_W07_Intermodal-Report-Week-07-2025.pdf
+2025-02-18,7,BEST UNITY,BC,69034,9816,1997,"IMABARI, Japan",443.0,Bangladeshi,,intermodal_2025_W07_Intermodal-Report-Week-07-2025.pdf
+2025-02-25,8,EPONYMA,GENERAL CARGO,6013,2689,1993,"HAKATA, Japan",,undisclosed,as is Singapore,intermodal_2025_W08_Intermodal-Report-Week-08-2025.pdf
+2025-03-11,10,SEA WISE,BC,23825,5533,1995,"NAIKAI ZOSEN, Japan",420.0,Bangladeshi,,intermodal_2025_W10_Intermodal-Report-Week-10-2025.pdf
+2025-03-11,10,KRITI II,RO-RO/PASSENGER,5339,12923,1979,"KOYO MIHARA, Japan",278.0,Turkish,,intermodal_2025_W10_Intermodal-Report-Week-10-2025.pdf
+2025-03-18,11,RUN FU 6,BC,28294,6262,1995,"NKK, Japan",435.0,Bangladeshi,,intermodal_2025_W11_Intermodal-Report-Week-11-2025.pdf
+2025-03-18,11,SUNNY LINDEN,CONTAINER,5845,2210,1995,"SHINA, S. Korea",443.0,undisclosed,as is Korea,intermodal_2025_W11_Intermodal-Report-Week-11-2025.pdf
+2025-03-18,11,SEAWORLD MARINE,RORO,5601,5541,1997,"ONOMICHI, Japan",450.0,undisclosed,as is Korea,intermodal_2025_W11_Intermodal-Report-Week-11-2025.pdf
+2025-03-26,12,SHENG TAI,GENERAL CARGO,5210,2225,1997,"ZHEJIANG, China",333.0,undisclosed,as is Shanghai,intermodal_2025_W12_Intermodal-Report-Week-12-2025.pdf
+2025-03-26,12,VERTEX,TANKER,1999,1278,1981,"KOGUSHI ZOSEN, Japan",735.0,Indian,Chemical tanker with some stainless steel content,intermodal_2025_W12_Intermodal-Report-Week-12-2025.pdf
+2025-04-01,13,DUKHAN,GAS TANKER,72533,32467,2004,"MITSUI, Japan",610.0,Bangladeshi,"Incl 3,000t alum",intermodal_2025_W13_Intermodal-Report-Week-13-2025.pdf
+2025-04-01,13,XIE HAI CHONG HE,BC,71252,10346,1995,"NAMURA, Japan",400.0,undisclosed,as is China,intermodal_2025_W13_Intermodal-Report-Week-13-2025.pdf
+2025-04-08,14,FUTONG EXPRESS,BC,43924,8857,1995,"SANOYAS, Japan",485.0,Bangladeshi,,intermodal_2025_W14_Intermodal-Report-Week-14-2025.pdf
+2025-04-15,15,FIRSTEC,BC,34074,8110,1997,"IMABARI, Japan",448.0,undisclosed,as is Hong Kong,intermodal_2025_W15_Intermodal-Report-Week-15-2025.pdf
+2025-04-29,17,CHARLENE,BC,28249,6068,1996,"KANASASHI, Japan",465.0,Bangladeshi,,intermodal_2025_W17_Intermodal-Report-Week-17-2025.pdf
+2025-04-29,17,GOLD EAGLE,GENERAL CARGO,6914,2396,1997,"NISHI, Japan",354.0,undisclosed,as is Vietnam,intermodal_2025_W17_Intermodal-Report-Week-17-2025.pdf
+2025-05-06,18,PETER S,BC,71550,10176,1995,"HITACHI ZOSEN, Japan",468.0,undisclosed,as-is Khor Fakkan,intermodal_2025_W18_Intermodal-Report-Week-18-2025.pdf
+2025-05-13,19,CORSO MARINE,GENERAL CARGO,6847,3161,2000,"SEVERNAYA, Russia",,Indian,as is Alang,intermodal_2025_W19_Intermodal-Report-Week-19-2025.pdf
+2025-05-13,19,DAE WON,TANKER,16466,5237,1998,"KURINOURA, Japan",935.0,Indian,"Including 390 mt bunkers ROB, StSt",intermodal_2025_W19_Intermodal-Report-Week-19-2025.pdf
+2025-05-20,20,ASMAA,BC,45228,7616,1994,"SHIN KURUSHIMA, Japan",438.0,Indian,,intermodal_2025_W20_Intermodal-Report-Week-20-2025.pdf
+2025-05-20,20,GLOBAL NUBIRA,CONTAINER,4900,2062,1998,"SHINA, S. Korea",410.0,undisclosed,as is Singapore,intermodal_2025_W20_Intermodal-Report-Week-20-2025.pdf
+2025-05-27,21,HYUNDAI TECHNOPIA,GAS TANKER,77584,34047,1999,"HYUNDAI, S. Korea",567.0,Indian,as is Batam,intermodal_2025_W21_Intermodal-Report-Week-21-2025.pdf
+2025-05-27,21,HYUNDAI AQUAPIA,GAS TANKER,77564,34040,2000,"HYUNDAI, S. Korea",567.0,Indian,as is Korea,intermodal_2025_W21_Intermodal-Report-Week-21-2025.pdf
+2025-05-27,21,HL SUR,GAS TANKER,75159,23761,2000,"HANJIN, S. Korea",490.0,undisclosed,as is Korea,intermodal_2025_W21_Intermodal-Report-Week-21-2025.pdf
+2025-05-27,21,HL RAS LAFFAN,GAS TANKER,75079,23761,2000,"HANJIN, S. Korea",490.0,undisclosed,as is Korea,intermodal_2025_W21_Intermodal-Report-Week-21-2025.pdf
+2025-06-03,22,RELIANCE,BC,45742,8116,1996,"IMABARI, Japan",435.0,undisclosed,as is Singapore,intermodal_2025_W22_Intermodal-Report-Week-22-2025.pdf
+2025-06-03,22,ABRAHAM M,BC,34167,8958,1996,"JIANGNAN, China",439.0,Bangladeshi,,intermodal_2025_W22_Intermodal-Report-Week-22-2025.pdf
+2025-06-10,23,BERGE FUJI,BC,268025,40658,1996,"HITACHI ZOSEN, Japan",440.0,Bangladeshi,,intermodal_2025_W23_Intermodal-Report-Week-23-2025.pdf
+2025-06-17,24,OCEAN STAR,BC,26444,6137,1995,"IMABARI, Japan",435.0,Indian,,intermodal_2025_W24_Intermodal-Report-Week-24-2025.pdf
+2025-06-17,24,RUN FU 2,BC,27209,5841,1995,"HANJIN, S. Korea",436.0,Indian,,intermodal_2025_W24_Intermodal-Report-Week-24-2025.pdf
+2025-06-24,25,MAHARSHI PARASHURAM,TANKER,93322,18264,2002,"COCHIN SHIPYARD, India",395.0,undisclosed,as is Colombo,intermodal_2025_W25_Intermodal-Report-Week-25-2025.pdf
+2025-06-24,25,FP FUTURE,BC,49957,9799,2002,"SHIN KURUSHIMA, Japan",457.0,Indian,,intermodal_2025_W25_Intermodal-Report-Week-25-2025.pdf
+2025-07-01,26,BITUMEN PRINCESS,TANKER,5416,2680,1995,"DAE SUN, S. Korea",,Indian,,intermodal_2025_W26_Intermodal-Report-Week-26-2025.pdf
+2025-07-08,27,DK 03,BC,46637,7809,1994,"MITSUI, Japan",390.0,Bangladeshi,,intermodal_2025_W27_Intermodal-Report-Week-27-2025.pdf
+2025-07-08,27,BONTRUP PEARL,BC,43952,11334,1984,"SANOYAS, Japan",432.0,Indian,,intermodal_2025_W27_Intermodal-Report-Week-27-2025.pdf
+2025-07-08,27,TIAN LONG XING,BC,37532,9234,1995,"BREMER VULKAN, Germany",,Chinese,domestic sale in China,intermodal_2025_W27_Intermodal-Report-Week-27-2025.pdf
+2025-07-08,27,WINCA,BC,27308,5964,1994,"MITSUBISHI, Japan",,Pakistani,,intermodal_2025_W27_Intermodal-Report-Week-27-2025.pdf
+2025-07-15,28,HYUNDAI COSMOPIA,GAS TANKER,77591,34040,2000,"HYUNDAI, S. Korea",580.0,undisclosed,"as is Indonesia, incl ROB and 3000mt of aluminum",intermodal_2025_W28_Intermodal-Report-Week-28-2025.pdf
+2025-07-22,29,GREEN EGERSUND,REEFER,6120,2990,1990,"KLEVEN LOLAND, Norway",440.0,Indian,,intermodal_2025_W29_Intermodal-Report-Week-29-2025.pdf
+2025-07-29,30,GHASHA,GAS TANKER,71593,33407,1995,"MITSUI, Japan",615.0,Indian,as is Malaysia,intermodal_2025_W30_Intermodal-Report-Week-30-2025.pdf
+2025-07-29,30,AL KHAZNAH,GAS TANKER,71543,33457,1994,"MITSUI, Japan",615.0,Indian,as is Malaysia,intermodal_2025_W30_Intermodal-Report-Week-30-2025.pdf
+2025-07-29,30,RISING FALCON,BC,27308,5964,1995,"MITSUBISHI, Japan",450.0,Pakistani,incl about 250-300 Tons ROB,intermodal_2025_W30_Intermodal-Report-Week-30-2025.pdf
+2025-07-29,30,RISING EAGLE,BC,26758,5448,1995,"HAKODATE, Japan",450.0,Pakistani,incl about 250-300 Tons ROB,intermodal_2025_W30_Intermodal-Report-Week-30-2025.pdf
+2025-08-05,31,NAMSAN SPIRIT,FSO,113805,16240,1988,"HYUNDAI HI, S. Korea",,Turkish,,intermodal_2025_W31_Intermodal-Report-Week-31-2025.pdf
+2025-08-05,31,LEONID,TANKER,74999,13606,2000,"DAEWOO, S. Korea",,Bangladeshi,,intermodal_2025_W31_Intermodal-Report-Week-31-2025.pdf
+2025-08-05,31,BOCEANICA,TANKER,71864,14211,2004,"STX, S. Korea",,Turkish,,intermodal_2025_W31_Intermodal-Report-Week-31-2025.pdf
+2025-08-05,31,SENAZ,TANKER,9076,2866,1993,"YVC, Netherlands",,Indian,,intermodal_2025_W31_Intermodal-Report-Week-31-2025.pdf
+2025-08-26,34,SALOME I,TANKER,30553,7052,1996,"SHIN KURUSHIMA, Japan",440.0,undisclosed,as is Singapore,intermodal_2025_W34_Intermodal-Report-Week-34-2025.pdf
+2025-09-02,35,TRADER II,GAS TANKER,75109,29920,2002,"SAMSUNG, S. Korea",480.0,undisclosed,as is Singapore,intermodal_2025_W35_Intermodal-Report-Week-35-2025.pdf
+2025-09-02,35,WOND,TANKER,6750,2229,1985,"HAKATA, Japan",390.0,Bangladeshi,,intermodal_2025_W35_Intermodal-Report-Week-35-2025.pdf
+2025-09-02,35,SUNNY OAK,CONTAINER,5800,2255,1995,"KWANGYANG, S. Korea",300.0,undisclosed,as is Korea,intermodal_2025_W35_Intermodal-Report-Week-35-2025.pdf
+2025-09-09,36,YEOMAN BANK,BC,38997,9179,1982,"ELEUSIS, Greece",250.0,Turkish,,intermodal_2025_W36_Intermodal-Report-Week-36-2025.pdf
+2025-09-09,36,MANASSA MOON M,GENERAL CARGO,9578,2725,1984,"TUZLA, Tukey",240.0,Turkish,,intermodal_2025_W36_Intermodal-Report-Week-36-2025.pdf
+2025-09-09,36,KAPITAN MIRONOV,GENERAL CARGO,4618,3293,1995,"VYBORSGKIY, Russia",,Turkish,,intermodal_2025_W36_Intermodal-Report-Week-36-2025.pdf
+2025-09-16,37,LNG JAMAL,GAS TANKER,72692,31711,2000,"MITSUBISHI, Japan",650.0,Indian,High aluminum content,intermodal_2025_W37_Intermodal-Report-Week-37-2025.pdf
+2025-09-16,37,BONITA,BC,76623,10201,2001,"IMABARI, Japan",468.0,Pakistani,incl 280 mt bunkers,intermodal_2025_W37_Intermodal-Report-Week-37-2025.pdf
+2025-09-23,38,ASIAN ENTERPRISE,BC,42529,9016,1995,"NAMURA, Japan",420.0,Bangladeshi,,intermodal_2025_W38_Intermodal-Report-Week-38-2025.pdf
+2025-09-23,38,TUTUK,TANKER,13500,2948,1996,"HITACHI ZOSEN, Japan",,Bangladeshi,,intermodal_2025_W38_Intermodal-Report-Week-38-2025.pdf
+2025-09-30,39,RISING HARRIER,BC,47195,8690,1997,"DAEDONG, S. Korea",445.0,Pakistani,incl 150 Ts bunkers,intermodal_2025_W39_Intermodal-Report-Week-39-2025.pdf
+2025-09-30,39,PUTERI KIRANA,BC,43598,8082,1994,"TSUNEISHI, Japan",390.0,Pakistani,As is Surabaya,intermodal_2025_W39_Intermodal-Report-Week-39-2025.pdf
+2025-09-30,39,NIIGATA TRADER,CONTAINER,13109,4810,1997,"YVC, Netherlands",480.0,Indian,incl 120 Ts bunkers ROB,intermodal_2025_W39_Intermodal-Report-Week-39-2025.pdf
+2025-10-07,40,BOW CEDAR,TANKER,37455,11043,1996,"Kvaerner, Norway",940.0,Indian,"incl 2,300 Ts solid stainless steel and 700 Ts bunkers",intermodal_2025_W40_Intermodal-Report-Week-40-2025.pdf
+2025-10-21,42,PUTERI DELIMA,GAS TANKER,73519,26915,1995,"Chantiers de l'Atlantique - St-Nazaire, France",,Bangladeshi,,intermodal_2025_W42_Intermodal-Report-Week-42-2025.pdf
+2025-10-21,42,PUTERI NILAM,GAS TANKER,73519,26915,1995,"Chantiers de l'Atlantique - St-Nazaire, France",,Bangladeshi,,intermodal_2025_W42_Intermodal-Report-Week-42-2025.pdf
+2025-10-29,43,MONICA P,BC,46667,7813,1998,"MITSUI, Japan",380.0,Bangladeshi,as is Belawan,intermodal_2025_W43_Intermodal-Report-Week-43-2025.pdf
+2025-10-29,43,PREMIUM BAHARI,GENERAL CARGO,10300,2627,2000,"JINLING, China",275.0,undisclosed,"as is Jakarta, Indonesia",intermodal_2025_W43_Intermodal-Report-Week-43-2025.pdf
+2025-11-11,45,ZENITH,TANKER,105162,17013,1998,"SAMSUNG, S. Korea",359.0,Indian,,intermodal_2025_W45_Intermodal-Report-Week-45-2025.pdf
+2025-11-11,45,RAISSA,TANKER,47343,9711,1998,"Ulkanik, Croatia",473.0,Bangladeshi,,intermodal_2025_W45_Intermodal-Report-Week-45-2025.pdf
+2025-11-18,46,FU OCEAN,BC,173018,2001,2001,"DAEWOO, S. Korea",,Bangladeshi,,intermodal_2025_W46_Intermodal-Report-Week-46-2025.pdf
+2025-11-18,46,GULYA,TANKER,72344,2003,2003,"HUDONG, China",,Bangladeshi,,intermodal_2025_W46_Intermodal-Report-Week-46-2025.pdf
+2025-11-18,46,DELFINA,TANKER,72344,2003,2003,"HUDONG, China",,Indian,,intermodal_2025_W46_Intermodal-Report-Week-46-2025.pdf
+2025-11-18,46,STAR ADVANCE,TANKER,47363,1998,1998,"BRODOTROGIR, Croatia",,undisclosed,"as is Singapore, incl 280 tons bunkers",intermodal_2025_W46_Intermodal-Report-Week-46-2025.pdf
+2025-11-18,46,TARA,GENERAL CARGO,9038,1994,1994,"HIGAKI, Japan",,Indian,,intermodal_2025_W46_Intermodal-Report-Week-46-2025.pdf
+2025-11-25,47,VICTORIA 3,BC,26482,6099,1996,"IMABARI, Japan",381.0,undisclosed,as is Singapore,intermodal_2025_W47_Intermodal-Report-Week-47-2025_compressed.pdf
+2025-11-25,47,KOHZAN MARU,TANKER,45299,9963,2000,"MINAMI-NIPPON, Japan",442.0,Bangladeshi,,intermodal_2025_W47_Intermodal-Report-Week-47-2025_compressed.pdf
+2025-12-02,48,ARK PRESTIGE,TANKER,10314,3307,1996,"IMABARI, Japan",725.0,Indian,Stainless Steel,intermodal_2025_W48_Intermodal-Report-Week-48-2025.pdf
+2025-12-02,48,BOLD MARINER,BC,45674,7507,1996,"TSUNEISHI, Japan",430.0,Bangladeshi,,intermodal_2025_W48_Intermodal-Report-Week-48-2025.pdf
+2025-12-02,48,SEAPEAK ASIA,GAS TANKER,77204,29686,2003,"IZAR SESTAO, Spain",420.0,undisclosed,as is Oman,intermodal_2025_W48_Intermodal-Report-Week-48-2025.pdf
+2025-12-09,49,MORALITY,TANKER,49474,9824,2003,"STX, S. Korea",416.0,Indian,,intermodal_2025_W49_Intermodal-Report-Week-49-2025.pdf
+2025-12-09,49,SEA STAR,GENERAL CARGO,6150,2041,1980,"MIHO SHIMIZU, Japan",260.0,Turkish,,intermodal_2025_W49_Intermodal-Report-Week-49-2025.pdf
+2025-12-16,50,SAGE SAGITTARIUS,BC,105708,19628,2001,"IMABARI, Japan",426.0,Indian,,intermodal_2025_W50_Intermodal-Report-Week-50-2025.pdf
+2025-12-23,51,CHANG MING YANG,BC,99761,19529,1993,"MITSUI, Japan",380.0,undisclosed,as is China,intermodal_2025_W51_Intermodal-Report-Week-51-2025.pdf
+2025-12-23,51,RUI TIGER,BC,70136,10019,1995,"DAEWOO, S. Korea",,undisclosed,as is HK,intermodal_2025_W51_Intermodal-Report-Week-51-2025.pdf
+2025-12-23,51,GOLD ORIGIN,GENERAL CARGO,8300,2485,2005,"NANJING SHENHGUA, China",330.0,Bangladeshi,as is SE Asia,intermodal_2025_W51_Intermodal-Report-Week-51-2025.pdf
+2026-01-13,2,DIMPLE,BC,13770,4866,1992,"SZCZECINSKA, Poland",387.5,Indian,,intermodal_2026_W02_Intermodal-Report-Week-02-2026.pdf
+2026-01-13,2,SIRRAH,BC,47263,8536,1999,"OSHIMA, Japan",405.0,Indian,,intermodal_2026_W02_Intermodal-Report-Week-02-2026.pdf
+2026-01-13,2,SALTLAKE,REEFER,4269,2100,1986,"KOCHI, Japan",380.0,Indian,,intermodal_2026_W02_Intermodal-Report-Week-02-2026.pdf
+2026-01-20,3,AN SHUN,BC,74761,9881,1998,"NKK, Japan",412.0,Pakistani,Incl 150Ts ROB,intermodal_2026_W03_Intermodal-Report-Week-03-2026.pdf
+2026-01-20,3,SHENG LE C,BC,27940,7125,1996,"NAIKAI ZOSEN, Japan",398.0,undisclosed,Incl 250Ts ROB,intermodal_2026_W03_Intermodal-Report-Week-03-2026.pdf
+2026-01-27,4,BODHI,TANKER,106547,16294,1997,"NKK, Japan",357.0,Indian,,intermodal_2026_W04_Intermodal-Report-Week-04-2026.pdf
+2026-01-27,4,SEAPEAK MARS,GAS TANKER,77213,29686,2004,"IZAR SESTAO, Spain",412.0,undisclosed,,intermodal_2026_W04_Intermodal-Report-Week-04-2026.pdf
+2026-01-27,4,QUARTZ,TANKER,46166,9453,1996,"BRODOTROGIR, Croatia",435.0,undisclosed,,intermodal_2026_W04_Intermodal-Report-Week-04-2026.pdf
+2026-01-27,4,GLORY SUN,BC,45216,7628,1994,"KANASASHI, Japan",375.0,undisclosed,,intermodal_2026_W04_Intermodal-Report-Week-04-2026.pdf
+2026-02-03,5,ABINSK,BC,38110,8264,1983,"IHI, Japan",,Turkish,,intermodal_2026_W05_Intermodal-Report-Week-05-2026.pdf
+2026-02-03,5,HONG LI,BC,26435,6132,1995,"IMABARI, Japan",,Bangladeshi,,intermodal_2026_W05_Intermodal-Report-Week-05-2026.pdf
+2026-02-03,5,GLOBAL STAR,TANKER,13864,4153,1999,"JIANGNAN, China",,Turkish,,intermodal_2026_W05_Intermodal-Report-Week-05-2026.pdf
+2026-02-10,6,ISA GOLDEN,BC,28255,6262,1995,"NKK, Japan",425.0,Bangladeshi,,intermodal_2026_W06_Intermodal-Report-Week-06-2026.pdf
+2026-02-17,7,SUNNY SPRUCE,CONTAINER,5821,2243,1996,"SHINA, S. Korea",380.0,undisclosed,as is Busan,intermodal_2026_W07_Intermodal-Report-Week-07-2026.pdf
+2026-03-17,11,WANTONG SUMMER,BC,45950,8196,1996,"CHINA SHIPBUILDING, Taiwan",433.0,Bangladeshi,,intermodal_2026_W11_Intermodal-Report-Week-11-2026.pdf
+2026-03-17,11,OCEAN AMAZING,BC,47243,6217,1998,"OSHIMA, Japan",300.0,Bangladeshi,"as is Jakarta, Indonesia",intermodal_2026_W11_Intermodal-Report-Week-11-2026.pdf
+2026-03-24,12,PUTERI ZAMRUD SATU,GAS TANKER,76144,28858,2004,"MITSUI, Japan",381.0,undisclosed,as is Malaysia,intermodal_2026_W12_Intermodal-Report-Week-12-2026.pdf
+2026-03-24,12,PUTERI FIRUS SATU,GAS TANKER,76197,28805,2004,"MITSUBISHI, Japan",381.0,undisclosed,as is Malaysia,intermodal_2026_W12_Intermodal-Report-Week-12-2026.pdf
+2026-03-24,12,PUTERI MUTIARA SATU,GAS TANKER,76229,28773,2005,"MITSUI, Japan",381.0,undisclosed,as is Malaysia,intermodal_2026_W12_Intermodal-Report-Week-12-2026.pdf
+2026-03-31,13,OCEAN ROSEMARY,BC,43769,8783,1996,"DAEWOO, S. Korea",470.0,Bangladeshi,,intermodal_2026_W13_Intermodal-Report-Week-13-2026.pdf
+2026-04-07,14,ETERNAL ACE,BC,24801,5349,1997,"KANASASHI, Japan",,undisclosed,as is Singapore,intermodal_2026_W14_Intermodal-Report-Week-14-2026.pdf
+2026-04-21,16,HONGKONG ENERGY,GAS TANKER,73659,31341,2004,"DAEWOO, S. Korea",510.0,undisclosed,,intermodal_2026_W16_Intermodal-Report-Week-16-2026.pdf
+2026-04-21,16,ANDHIKA KANISHKA,BC,73220,10026,1998,"SUMITOMO, Japan",460.0,undisclosed,as is Indonesia,intermodal_2026_W16_Intermodal-Report-Week-16-2026.pdf
+2026-05-19,20,MAYMEI,TANKER,44936,9728,1997,"HALLA, S. Korea",510.0,Bangladeshi,,intermodal_2026_W20_Intermodal-Report-Week-20-2026.pdf
+2026-06-23,25,ANDHIKA PARAMESTI,BC,73726,9369,1997,"SUMITOMO, Japan",451.0,undisclosed,as is Indonesia,intermodal_2026_W25_Intermodal-Report-Week-25-2026.pdf
+2026-07-07,27,PINE ARROW,GENERAL CARGO,48041,12574,1996,"STOCZNIA, Poland",438.0,Indian,,intermodal_2026_W27_Intermodal-Report-Week-27-2026.pdf
+2026-07-07,27,FRIO ANTARCTIC,REEFER,9357,5685,1995,"STOCZNIA, Poland",565.0,Indian,including 150t IFO and 37t MGO,intermodal_2026_W27_Intermodal-Report-Week-27-2026.pdf
+2026-07-21,29,DINA OCEAN,BC,24247,4865,1998,"TSUNEISHI CEBU, Philippines",480.0,Bangladeshi,,intermodal_2026_W29_Intermodal-Report-Week-29-2026.pdf
+2026-08-04,31,STOLT KIKYO,TANKER,11545,3305,1998,"FUKUOKA, Japan",455.0,Indian,,intermodal_2026_W31_Intermodal-Report-Week-31-2026.pdf
+2026-08-25,34,MARIA,BC,27369,5681,1997,"HANJIN, S. Korea",520.0,Pakistani,,intermodal_2026_W34_Intermodal-Report-Week-34-2026.pdf
+2026-09-01,35,BR GLORY,BC,22273,4921,1990,"SAKI JUKOGYO, Japan",510.0,Pakistani,,intermodal_2026_W35_Intermodal-Report-Week-35-2026.pdf
+2026-09-01,35,ATHENA,TANKER,7902,2557,1992,"HIGAKI ZOSEN, Japan",540.0,Bangladeshi,,intermodal_2026_W35_Intermodal-Report-Week-35-2026.pdf
+2026-09-08,36,HERO SD,BC,23726,5010,1995,"KANASASHI, Japan",512.0,Pakistani,,intermodal_2026_W36_Intermodal-Report-Week-36-2026.pdf
+2026-09-08,36,PORTLAND II,BC,42586,8182,1985,"MITSUI, Japan",517.0,Pakistani,,intermodal_2026_W36_Intermodal-Report-Week-36-2026.pdf
+2026-09-15,37,UNIORDER,BC,47240,7060,1997,"OSHIMA, Japan",450.0,Bangladeshi,as is Belawan,intermodal_2026_W37_Intermodal-Report-Week-37-2026.pdf
+2026-09-22,38,MAESTRO 1,BC,23994,5035,1998,KANDA,507.0,Pakistani,,intermodal_2026_W38_Intermodal-Report-Week-38-2026.pdf

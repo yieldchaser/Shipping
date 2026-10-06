@@ -70,13 +70,30 @@ data/bunkers/bunker_master_historical.json
 # Raw PDF archives
 data/reports/*/pdfs/
 data/raw/
-# Extraction output: fully regenerable derived data (26k+ files, GBs). Keep local.
-# Reproduce with scripts/extract/run_batch.py; do not commit.
-data/extracted/
-# Bulk vendor PDFs live under corpus/ but stay UNTRACKED (~3.9 GB would break
-# pushes). Their per-file inventory + sha256 IS tracked, in
-# corpus/_inventory_untracked.json, so loss is detectable and recoverable.
-# Verify with: python scripts/verify/build_corpus_inventory.py --check
+# Extraction output: track canonical series CSVs/XLSX, register, LlamaParse run state,
+# and extracted publisher Markdown + broker table sidecars online for CI/CD runners.
+# Keep heavy raster caches, corpus mirrors, and duplicate SEC folders local.
+data/extracted/*
+!data/extracted/EXTRACTION_REGISTER.json
+!data/extracted/series/
+!data/extracted/llamaparse_*/
+data/extracted/llamaparse_*/*
+!data/extracted/llamaparse_*/_run_state.json
+!data/extracted/md/
+data/extracted/md/companies/
+data/extracted/md/books/
+data/extracted/md/images/
+data/extracted/md/**/*.png
+data/extracted/md/**/*.jpg
+data/extracted/md/**/*.jpeg
+data/extracted/md/**/*.gif
+data/extracted/md/**/*.webp
+data/extracted/md/**/*.pdf
+data/extracted/md/**/*.charts.json
+data/extracted/md/hellenic/**/*.tables.json
+data/extracted/md/**/*.bak*
+# Bulk historical vendor PDFs (>6 GB) stay untracked and cataloged in
+# corpus/_inventory_untracked.json; newly scraped PDFs in CI are force-added.
 corpus/**/*.pdf
 corpus/09-ppa/_root_pdfs/
 corpus/06-drewry/ais/
@@ -87,3 +104,4 @@ data/.cache_citations/
 *.png
 !assets/**/*.png
 !reports/**/*.png
+

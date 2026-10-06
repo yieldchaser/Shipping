@@ -1,0 +1,34 @@
+{
+  "issue_date": "2025-10-17",
+  "year": 2025,
+  "title": "What Will 2026 Have In Store",
+  "source_file": "corpus/04-poten/pdfs/2025/Weekly Opinion - 17 October 2025 - What Will 2026 Have In Store.pdf",
+  "tables_count": 0,
+  "charts_count": 2,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2025-10-17_what-will-2026-have-in-store_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2025/poten_2025-10-17_what-will-2026-have-in-store_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-10-17_what-will-2026-have-in-store_chart1.png",
+      "width": 955,
+      "height": 544
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2025-10-17_what-will-2026-have-in-store_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2025/poten_2025-10-17_what-will-2026-have-in-store_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-10-17_what-will-2026-have-in-store_chart2.png",
+      "width": 960,
+      "height": 534
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

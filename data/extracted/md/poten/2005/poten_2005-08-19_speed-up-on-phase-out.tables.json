@@ -1,0 +1,43 @@
+{
+  "issue_date": "2005-08-19",
+  "year": 2005,
+  "title": "Speed Up on Phase Out",
+  "source_file": "corpus/04-poten/pdfs/2005/Tanker_Opinion_20050819.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2005-08-19_speed-up-on-phase-out_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2005/poten_2005-08-19_speed-up-on-phase-out_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-08-19_speed-up-on-phase-out_chart1.png",
+      "width": 543,
+      "height": 401
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [
+    {
+      "issue_date": "2005-08-19",
+      "year": 2005,
+      "report_title": "Speed Up on Phase Out",
+      "segment": "VLCC (Single Hull)",
+      "fleet_count_trading": 172,
+      "fleet_count_on_order": "",
+      "orderbook_pct": "",
+      "orderbook_dwt_m": "",
+      "fleet_dwt_m": "",
+      "average_age_years": "",
+      "pct_0_5_yrs": "",
+      "pct_6_10_yrs": "",
+      "pct_11_15_yrs": "69% (<=15y)",
+      "pct_16_plus_yrs": "31% (>15y)",
+      "source_file": "corpus/04-poten/pdfs/2005/Tanker_Opinion_20050819.pdf"
+    }
+  ],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

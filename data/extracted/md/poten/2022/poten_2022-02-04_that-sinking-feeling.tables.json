@@ -1,0 +1,70 @@
+{
+  "issue_date": "2022-02-04",
+  "year": 2022,
+  "title": "That Sinking Feeling",
+  "source_file": "corpus/04-poten/pdfs/2022/Weekly-Opinion-4-February-2022-That-Sinking-Feeling.pdf",
+  "tables_count": 1,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2022-02-04_that-sinking-feeling_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2022/poten_2022-02-04_that-sinking-feeling_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-02-04_that-sinking-feeling_chart1.png",
+      "width": 923,
+      "height": 470
+    }
+  ],
+  "tables": [
+    "| Rank | Charterer | Reported Total Cargo (MT 000s) | % of Total Dirty Cargoes | Prev Rank | Fixtures |\n| --- | --- | --- | --- | --- | --- |\n| 1 | 6,774 | 7,292 | 7% | 2 |  |\n| 2 | 2,124 | 2,136 | 6% | 3 |  |\n| 3 | 1,223 | 1,450 | 4% |  |  |"
+  ],
+  "charterers_count": 3,
+  "charterer_rows": [
+    {
+      "rank": 1,
+      "charterer": "6,774",
+      "cargo_mt_000s": "7,292",
+      "pct_total_cargo": "7%",
+      "fixtures_count": "",
+      "pct_fixtures": "",
+      "prev_rank": "2",
+      "issue_date": "2022-02-04",
+      "year": 2022,
+      "report_period": "2021",
+      "segment": "Overall",
+      "source_file": "corpus/04-poten/pdfs/2022/Weekly-Opinion-4-February-2022-That-Sinking-Feeling.pdf"
+    },
+    {
+      "rank": 2,
+      "charterer": "2,124",
+      "cargo_mt_000s": "2,136",
+      "pct_total_cargo": "6%",
+      "fixtures_count": "",
+      "pct_fixtures": "",
+      "prev_rank": "3",
+      "issue_date": "2022-02-04",
+      "year": 2022,
+      "report_period": "2021",
+      "segment": "Overall",
+      "source_file": "corpus/04-poten/pdfs/2022/Weekly-Opinion-4-February-2022-That-Sinking-Feeling.pdf"
+    },
+    {
+      "rank": 3,
+      "charterer": "1,223",
+      "cargo_mt_000s": "1,450",
+      "pct_total_cargo": "4%",
+      "fixtures_count": "",
+      "pct_fixtures": "",
+      "prev_rank": "",
+      "issue_date": "2022-02-04",
+      "year": 2022,
+      "report_period": "2021",
+      "segment": "Overall",
+      "source_file": "corpus/04-poten/pdfs/2022/Weekly-Opinion-4-February-2022-That-Sinking-Feeling.pdf"
+    }
+  ],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

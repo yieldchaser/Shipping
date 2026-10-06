@@ -1,0 +1,27 @@
+---
+id: "C7BBC29B-A13D-44D4-BE51-8C4E7D96E409"
+source: "Fearnleys"
+sector: "Crude Tankers"
+desk: "Aframax"
+comment_type: "Aframax Weekly Comment"
+comment_subtype: "Market Commentary"
+date: "2022-08-02"
+year: 2022
+week: 31
+title: "Fearnleys Aframax Comment - 2022-08-02"
+---
+
+# Fearnleys Aframax Comment (2022-08-02)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Sector:** Crude Tankers
+- **Desk:** Aframax
+- **Publication Date:** 2022-08-02 (Week 31)
+- **Comment Type:** Aframax Weekly Comment
+- **Record ID:** `C7BBC29B-A13D-44D4-BE51-8C4E7D96E409`
+
+---
+
+## Market Commentary
+
+Rates in the Nsea have climbed up this week as activity picked up and a couple of owners were fixed out of the area leaving less options to the charterers. Activity in the area is expected to remain healthy, however there might be some downward risk as Suezmaxes could possibly step in for cross NSea runs. Moving forward we expect rates to remain healthy and move even higher unless bigger sizes are there to cap them. After a few active weeks, we have seen a drop in freight levels in the Med/Blsea market this week. With lower activity, tonnage list is looking slightly healthier giving charterers bit more leverage. We might see this softening trend continue somewhat unless cargo activity picks up again. The area is still offering owners respectable returns though, with td19 route currently showing around USD 76,000 TCE.

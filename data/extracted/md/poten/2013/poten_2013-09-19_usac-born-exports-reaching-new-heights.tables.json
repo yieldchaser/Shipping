@@ -1,0 +1,61 @@
+{
+  "issue_date": "2013-09-19",
+  "year": 2013,
+  "title": "USAC-Born Exports reaching new heights",
+  "source_file": "corpus/04-poten/pdfs/2013/Tanker_Opinion_20130919.pdf",
+  "tables_count": 0,
+  "charts_count": 5,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2013-09-19_usac-born-exports-reaching-new-heights_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2013/poten_2013-09-19_usac-born-exports-reaching-new-heights_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-09-19_usac-born-exports-reaching-new-heights_chart1.png",
+      "width": 425,
+      "height": 1591
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2013-09-19_usac-born-exports-reaching-new-heights_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2013/poten_2013-09-19_usac-born-exports-reaching-new-heights_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-09-19_usac-born-exports-reaching-new-heights_chart2.png",
+      "width": 1173,
+      "height": 852
+    },
+    {
+      "chart_num": 3,
+      "page": 0,
+      "file_name": "poten_2013-09-19_usac-born-exports-reaching-new-heights_chart3.png",
+      "rel_path": "data/extracted/charts/poten/2013/poten_2013-09-19_usac-born-exports-reaching-new-heights_chart3.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-09-19_usac-born-exports-reaching-new-heights_chart3.png",
+      "width": 393,
+      "height": 700
+    },
+    {
+      "chart_num": 4,
+      "page": 1,
+      "file_name": "poten_2013-09-19_usac-born-exports-reaching-new-heights_chart4.png",
+      "rel_path": "data/extracted/charts/poten/2013/poten_2013-09-19_usac-born-exports-reaching-new-heights_chart4.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-09-19_usac-born-exports-reaching-new-heights_chart4.png",
+      "width": 953,
+      "height": 872
+    },
+    {
+      "chart_num": 5,
+      "page": 1,
+      "file_name": "poten_2013-09-19_usac-born-exports-reaching-new-heights_chart5.png",
+      "rel_path": "data/extracted/charts/poten/2013/poten_2013-09-19_usac-born-exports-reaching-new-heights_chart5.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-09-19_usac-born-exports-reaching-new-heights_chart5.png",
+      "width": 425,
+      "height": 1871
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

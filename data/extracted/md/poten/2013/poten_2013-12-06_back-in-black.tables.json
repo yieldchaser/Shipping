@@ -1,0 +1,42 @@
+{
+  "issue_date": "2013-12-06",
+  "year": 2013,
+  "title": "Back In Black",
+  "source_file": "corpus/04-poten/pdfs/2013/Tanker_Opinion_20131206.pdf",
+  "tables_count": 1,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2013-12-06_back-in-black_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2013/poten_2013-12-06_back-in-black_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-12-06_back-in-black_chart1.png",
+      "width": 1150,
+      "height": 741
+    }
+  ],
+  "tables": [
+    "| Rank | Charterer | Reported Total Cargo (MT 000s) | % of Total Dirty Cargoes | Prev Rank | Fixtures |\n| --- | --- | --- | --- | --- | --- |\n| 1 | $4,640 |  |  | 4 | 2000 |"
+  ],
+  "charterers_count": 1,
+  "charterer_rows": [
+    {
+      "rank": 1,
+      "charterer": "$4,640",
+      "cargo_mt_000s": "",
+      "pct_total_cargo": "",
+      "fixtures_count": "2000",
+      "pct_fixtures": "",
+      "prev_rank": "4",
+      "issue_date": "2013-12-06",
+      "year": 2013,
+      "report_period": "2012",
+      "segment": "Overall",
+      "source_file": "corpus/04-poten/pdfs/2013/Tanker_Opinion_20131206.pdf"
+    }
+  ],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

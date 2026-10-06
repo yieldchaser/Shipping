@@ -1,0 +1,43 @@
+---
+title: "Bulk Report – Week 6"
+date: "2022-02-11"
+display_date: "11 February 2022"
+year: 2022
+week: 6
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2022/bulk-report-week-6.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 726
+sections_count: 4
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2022/2022-02-11_bulk-report-week-6_dry.html"
+---
+
+# Bulk Report – Week 6
+
+**Date:** 11 February 2022  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2022/bulk-report-week-6.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2022/bulk-report-week-6.html)  
+
+---
+
+### Capesize
+
+There was positive sentiment throughout the dry freight sector this past week, including Capesize, as traders returned from Lunar New Year holidays. Activity was clearly seen to be elevated as the Capesize 5TC rose +5095 over the week to close on a mild Friday at $15,397. All regions in the market were affected. However, the Transpacific C10 was coming from a lower level and saw the most gains to now be priced at $11,092. The Transatlantic C8 and the ballaster C14 closed at $18,875 and $14,982 respectively. On the voyage basis the West Australia to China C5 closed at $8.559, while the Brazil to China C3 at $23.485 - significant lifts for both routes. The softer day to close the week is thought to be a case of too much too soon, with the market overly excitable to see a repeat of last year’s bull run. In classic Capesize style the sector looks to have stalled out. Yet to the relief of many owners, rates are back well into the five digit levels. With smaller sizes supporting with their higher earnings levels, the Capesize market remains in good stead to consolidate its recent gains.
+
+### Panamax
+
+The Panamax market came to life this week with the return from Asian holidays. The Atlantic quintessentially was driven by the Americas with a healthy demand not seen in some time, adding a much-needed impetus to most markets and improving sentiments. An 82,000-dwt basis delivery Continent achieving $30,000 for a trip via NC South America redelivery Far east typifying this improved market. Asia returned post holidays on a cautious approach for the first part of the week, but did spring into life midweek with robust demand ex Indonesia and to a lesser degree ex NoPac. A scrubber fitted 81,000-dwt delivery Korea agreeing $25,500 for a trip via NoPac redelivery China perhaps the high rate of the week. A plethora of period fixing was also seen this week as both physical and FFA markets aligned. Several players were rumoured to have taken cover. An 82,000-dwt delivery Japan accomplishing an impressive $24,750 for 8/11 months trading.
+
+### Supramax / Ultramax
+
+A much more buoyant week than of late as increased demand from many areas helped market levels. Period cover was also active, with Ultramaxs open Southeast Asia now seeing around $30,000 for medium period. From the Atlantic, increased action from the Mediterranean saw a 56,000-dwt fixing delivery Egypt trip to West Africa at $20,000. Stronger numbers were also seen from the US Gulf. A 58,000-dwt fixing a trip from SW Pass to the Black Sea at $20,000 and a strong rebound in Asia with increased demand in the South. A 63,000-dwt open Manila being heard fixed for a trip to Bangladesh at $41,000. Also, a 55,000-dwt open Chennai was heard fixed via Indonesia redelivery India at $25,000. Elsewhere, the backhaul runs strengthened as a 63,000-dwt open Zhoushan fixing a steels run to Gibraltar-Skaw at $20,000 for first 65 days and $25,000 thereafter. From the Indian Ocean, a 66,000-dwt was heard fixed delivery South Africa trip redelivery India in the mid $24,000s plus mid $400,000s ballast bonus.
+
+### Handysize
+
+The pacific markets continued to rise this week after the Chinese New Year celebrations. Brokers spoke of improving numbers with more enquiry in all sectors, including the logs trade, which is said to have lead some charterers to explore period Charters. A 35,000-dwt was rumoured to have been fixed basis delivery China for four to six months with worldwide redelivery at $25,000. A 38,000-dwt vessel was fixed for a trip from China to South East Asia at $25,000. A 38,000-dwt was also rumoured to have been fixed from South East Asia via Australia to China at around $25,000.  In the Atlantic, a 36,000-dwt fixed from the Black Sea to the US Gulf at $18,000 with an intended cargo of steels. A 37,000-dwt was fixed from Canakkale via the Black Sea to Thailand at $23,000. A 38,000-dwt open Rotterdam was fixed for a trip to East Coast South America at $14,500.
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  

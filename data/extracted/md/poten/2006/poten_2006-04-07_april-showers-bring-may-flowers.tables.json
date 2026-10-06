@@ -1,0 +1,25 @@
+{
+  "issue_date": "2006-04-07",
+  "year": 2006,
+  "title": "April Showers Bring May Flowers",
+  "source_file": "corpus/04-poten/pdfs/2006/Tanker_Opinion_20060407.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2006-04-07_april-showers-bring-may-flowers_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2006/poten_2006-04-07_april-showers-bring-may-flowers_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-04-07_april-showers-bring-may-flowers_chart1.png",
+      "width": 544,
+      "height": 439
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

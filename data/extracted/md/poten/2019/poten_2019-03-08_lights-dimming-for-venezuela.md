@@ -1,0 +1,41 @@
+---
+title: "Lights Dimming For Venezuela"
+subtitle: "Problems for Venezuela are escalating"
+issue_date: "2019-03-08"
+year: 2019
+author: "Poten & Partners"
+source: "poten"
+category: "tankers"
+pages: 1
+source_file: "corpus/04-poten/pdfs/2019/Weekly-Opinion-8-March-2019-Lights-Dimming-For-Venezuela.pdf"
+tables_count: 0
+charts_count: 2
+---
+
+# Lights Dimming For Venezuela
+
+### Problems for Venezuela are escalating
+
+As an illustration of the severe problems that Venezuela is facing, the country experienced a widespread blackout last night. It stopped subway service in Caracas and caused problems all around the country. Not surprisingly, there was no agreement on what caused the blackout. The Maduro government blamed sabotage by right-wing "criminals", while the opposition identified incompetence of the current regime as the root cause of the problem. The dire economic situation in Venezuela has further deteriorated since Venezuela's opposition leader, Mr. Juan Guaido, declared himself interim president on January 23rd and the United States announced tough additional sanctions on January 28th. The sanctions, which ban U.S. companies and individuals from dealing with Venezuela's state-run oil company Petroleos de Venezuela (PDVSA) have hit the country hard. While the Maduro regime continues to hang on to power, the crude oil and product trades around the country are in turmoil.
+
+U.S. sanctions have had a particularly detrimental impact on Venezuela's heavy oil production from the Orinoco Belt in central Venezuela. Output from the Orinoco region, already suffering for years due to mismanagement and a lack of maintenance will likely decline significantly (by up to 400,000 b/d) due to the U.S. embargo on diluent exports to PDVSA. Diluent, in particular naphtha, is needed in the production and transport of heavy oil out of the Orinoco Belt. Some replacement cargoes of naphtha from Russia have thrown Venezuela a lifeline after the U.S. cut off its diluent supplies. These naphtha cargoes from Rosneft, which are expected to arrive later this month, will help PDVSA maintain a minimum level of exports.
+
+Mexico is filling some of the void left by the reduction in exports of heavy Venezuelan crudes. It is exporting more of its heavier grades, such as Maya, Talam and Altamira to the United States as well as long-haul destinations in Asia (India, Japan) and Europe (Spain, Netherlands). For Asian customers in particular, Maya is competitively priced. For February/March, Maya was priced at around $8.00 below Saudi Arabian heavy.
+
+Canada is another potential source of heavy crude oil replacing Venezuelan grades. Although there is limited flexibility to increase pipeline flows from Canada, there is significant additional crude by rail capacity available. For the right price, another 200-300,000 b/d of Canadian crude can be shipped to U.S. refiners on the Gulf Coast on unit trains.
+
+Venezuela's problems have crippled its ability to transport and export crude oil. Production has slowed to a fraction of the country's potential and lack of maintenance in ports and *Including Caribbean Terminals (Aruba, Curacao, Bonaire) terminals has further complicated exports. Venezuela's reduced output has now also trouble finding customers due to the sanctions. The U.S. are off- limits, and many other countries have also limited their purchases. The only country that has increased imports since the sanctions were announced has been India. China, historically another big customer has reduced it purchases of Venezuelan crude. For the tanker markets, the implications have been clear. The Caribbean Aframax market has suffered from the lack of Venezuelan cargoes headed for the U.S. The VLCC market has not been affected the same way because U.S. crude oil exports have been strong, compensating for reduced flows from Venezuela.
+
+The short-term outlook for Venezuela is highly uncertain. The country's refineries are operating at very low utilization rates, necessitating imports of refined products. Sanctions and lack of foreign exchange have made companies very reluctant to do business with Venezuela. Earlier this week, reports surfaced that a German ship manager that operates several tankers for PDVSA's shipping arm PDV Marina, decided to return the vessels and remove the crew due to non-payment, triggering a "maritime emergency".
+
+Until the political situation is resolved, most charterers and ship owners will likely avoid Venezuela and the domestic oil industry will continue to deteriorate. Even with the support of Russia, this situation seems unsustainable.
+
+## Market Exhibits & Charts
+
+![Exhibit 1: Lights Dimming For Venezuela](../../../charts/poten/2019/poten_2019-03-08_lights-dimming-for-venezuela_chart1.png)
+
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-03-08_lights-dimming-for-venezuela_chart1.png)
+
+![Exhibit 2: Lights Dimming For Venezuela](../../../charts/poten/2019/poten_2019-03-08_lights-dimming-for-venezuela_chart2.png)
+
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-03-08_lights-dimming-for-venezuela_chart2.png)

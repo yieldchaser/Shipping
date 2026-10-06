@@ -1,0 +1,47 @@
+---
+title: "Iron Ore: Demand to Remain Firm on Recovery in Non-Chinese Markets"
+date: "2021-02-11"
+display_date: "February 11, 2021"
+year: 2021
+category: "insights"
+source: "Breakwave Advisors"
+url: "https://www.breakwaveadvisors.com/insights/2021/2/11/iron-ore-demand-to-remain-firm-on-recovery-in-non-chinese-markets"
+tags: ["Dry Bulk", "China"]
+images_count: 2
+word_count: 659
+source_file: "corpus/03-breakwave/insights/2021/2021-02-11_iron-ore-demand-to-remain-firm-on-recovery-in-non-chinese-markets.html"
+---
+
+# Iron Ore: Demand to Remain Firm on Recovery in Non-Chinese Markets
+
+**Date:** February 11, 2021  
+**Publisher:** Breakwave Advisors | **Category:** Market Insights  
+**Original URL:** [https://www.breakwaveadvisors.com/insights/2021/2/11/iron-ore-demand-to-remain-firm-on-recovery-in-non-chinese-markets](https://www.breakwaveadvisors.com/insights/2021/2/11/iron-ore-demand-to-remain-firm-on-recovery-in-non-chinese-markets)  
+
+---
+
+*By Ulf Bergman*
+
+Any notions that the Chinese New Year would send iron prices lower have so far been unfounded. On the contrary, prices for iron ore for delivery to Tianjin have rebounded to the 160 dollars per tonne territory, after a sharp drop during the second half of January. The lacklustre annual output data from Vale for last year and signs of a continued struggle for the Brazilian company to return to full production are partly to blame for the recent bounce. The global supply growth is, hence, likely to face some constraints in the near-term. In addition, Chinese authorities have imposed many restrictions on the celebrations around the Chinese New Year. With travel curtailed and many industries opting to stay open during the holidays, the Chinese demand look set to be higher than usual for this time of the year and support higher prices.
+
+### Iron Ore Prices, 2016-2021 (Usd/tonne)
+
+![Ulf 400](assets/2021-02-11_iron-ore-demand-to-remain-firm-on-recovery-in-non-chinese-markets_img_ulf400_82a9e23a4294.jpg)
+
+> **Figure 1: Ulf 400**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-11_iron-ore-demand-to-remain-firm-on-recovery-in-non-chinese-markets_img_ulf400_82a9e23a4294.jpg)
+
+The mood among many market watchers has also turned bullish for the coming months, with Credit Suisse upgrading their price forecast for the first half of the year by 55 percent to 170 USD per tonne. American investment bank Citi also expects demand for seaborne iron ore to remain strong, with an increase by 30 million tonnes this year and adding to the already considerable levels of last year. While many commodity analysts maintain a bullish outlook, there is a considerable disconnect with the equity markets where many mining stocks are trading at a discount to current iron ore prices. The mining analysts at JPMorgan have engaged in some number crunching and concluded that the share prices of the major producers, such as BHP and Rio Tinto, are implying an iron ore price of below 70 USD per tonne. Only time will tell whether it is the equity or the commodity markets that are correct, but at this stage such a considerable decline in iron ore prices look rather unlikely as global demand is likely to remain firm. Hence, some equity investors could have some pleasant surprises in the future.
+
+![Iron Ore 1](assets/2021-02-11_iron-ore-demand-to-remain-firm-on-recovery-in-non-chinese-markets_img_ironore1_7b9ea8c23740.jpg)
+
+> **Figure 2: Iron Ore 1**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-11_iron-ore-demand-to-remain-firm-on-recovery-in-non-chinese-markets_img_ironore1_7b9ea8c23740.jpg)
+
+Given China’s dominant position in the iron ore market, with some 70 percent of the seaborne market, much of the current focus is on the timing of any tapering of the ongoing stimulus spending. There are expectations that the Chinese leadership will reduce spending during this year to avoid overheating the economy, as it is well beyond the recovery phase by now. However, there are promising signs that the non-Chinese demand for iron ore is on the mend, which could offset any softening conditions in China.
+
+Data from Refinitiv suggest that seaborne iron ore discharged at ports outside of China grew by some three percent in January, compared to a year ago. Considering that most part of the world were still unaffected by the pandemic in January 2020, it suggests that the demand for iron ore is starting to recover outside China as well. Imported volumes in Western Europe and Japan were slightly below the levels from a year ago, but up by around 50 percent compared to the lows in June. Given the harm the pandemic caused on many economies around the worlds, even a modest year-on-year growth in demand of iron ore must be considered a major step forward and promising for the months ahead.
+
+---
+
+**Tags:** Dry Bulk, China  

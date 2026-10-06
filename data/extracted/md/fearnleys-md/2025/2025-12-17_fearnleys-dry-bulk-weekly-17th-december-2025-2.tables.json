@@ -1,0 +1,43 @@
+{
+  "report_id": "9a059a9d-d529-43da-b0aa-bc98ade684f5",
+  "issue_date": "2025-12-17",
+  "year": 2025,
+  "department": "BULK",
+  "report_title": "Fearnleys Dry Bulk Weekly",
+  "shipment_volume_metrics": [],
+  "coal_futures_spread_metrics": [
+    {
+      "issue_date": "2025-12-17",
+      "year": "2025",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "p5_kamsarmax_indonesia_rv_usd_day": 12279.41,
+      "p5_4w_prev_usd_day": 18088.24,
+      "newcastle_coal_futures_spread_lead_2m": -15.55,
+      "coal_spread_4w_prev": "",
+      "lead_tenor": "2 Months",
+      "chart_title": "P5 vs Newcastle Coal Futures Spread Lead",
+      "source_image": "P5 vs Newcastle Coal Futures Spread Lead.png",
+      "report_id": "9a059a9d-d529-43da-b0aa-bc98ade684f5"
+    }
+  ],
+  "time_charter_vs_asset_metrics": [],
+  "vessel_tightness_metrics": [
+    {
+      "issue_date": "2025-12-17",
+      "year": "2025",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "chart_family": "P6 vs SATL Tightness.png",
+      "indicator_metric": "South Atlantic Vessel Count",
+      "indicator_val": 350.7,
+      "freight_benchmark": "P6 / BCI5TC Index USD/day",
+      "freight_benchmark_val": 13574.5,
+      "lead_tenor": "1 Month Lead",
+      "report_id": "9a059a9d-d529-43da-b0aa-bc98ade684f5"
+    }
+  ],
+  "macro_correlation_metrics": [],
+  "charts_count": 12,
+  "source_markdown": "2025-12-17_fearnleys-dry-bulk-weekly-17th-december-2025-2.md"
+}

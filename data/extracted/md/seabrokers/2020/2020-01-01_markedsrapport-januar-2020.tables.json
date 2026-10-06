@@ -1,0 +1,1164 @@
+{
+  "title": "Seabreeze Monthly Offshore Market Report - January 2020",
+  "issue_date": "2020-01-01",
+  "year": 2020,
+  "month": 1,
+  "source_file": "corpus/05-seabrokers/pdfs/2020-01-01_markedsrapport-januar-2020.pdf",
+  "tables_count": 12,
+  "tables": [
+    {
+      "title": "JANUARY 2020 - DAILY NORTH SEA OSV AVAILABILITY",
+      "columns": [
+        "Date",
+        "PSV 2020",
+        "PSV 2019",
+        "AHTS 2020",
+        "AHTS 2019"
+      ],
+      "row_count": 31,
+      "rows": [
+        {
+          "Date": "1",
+          "PSV 2020": "24",
+          "PSV 2019": "23.5",
+          "AHTS 2020": "28",
+          "AHTS 2019": "12"
+        },
+        {
+          "Date": "2",
+          "PSV 2020": "24",
+          "PSV 2019": "24",
+          "AHTS 2020": "27.5",
+          "AHTS 2019": "12"
+        },
+        {
+          "Date": "3",
+          "PSV 2020": "24",
+          "PSV 2019": "25",
+          "AHTS 2020": "27",
+          "AHTS 2019": "12"
+        },
+        {
+          "Date": "4",
+          "PSV 2020": "24",
+          "PSV 2019": "24",
+          "AHTS 2020": "26.5",
+          "AHTS 2019": "12.5"
+        },
+        {
+          "Date": "5",
+          "PSV 2020": "24",
+          "PSV 2019": "23",
+          "AHTS 2020": "26",
+          "AHTS 2019": "13"
+        },
+        {
+          "Date": "6",
+          "PSV 2020": "24",
+          "PSV 2019": "22",
+          "AHTS 2020": "24.5",
+          "AHTS 2019": "18"
+        },
+        {
+          "Date": "7",
+          "PSV 2020": "24",
+          "PSV 2019": "21",
+          "AHTS 2020": "24",
+          "AHTS 2019": "18.5"
+        },
+        {
+          "Date": "8",
+          "PSV 2020": "23",
+          "PSV 2019": "20",
+          "AHTS 2020": "23.5",
+          "AHTS 2019": "17"
+        },
+        {
+          "Date": "9",
+          "PSV 2020": "22",
+          "PSV 2019": "18",
+          "AHTS 2020": "23",
+          "AHTS 2019": "16"
+        },
+        {
+          "Date": "10",
+          "PSV 2020": "16",
+          "PSV 2019": "15",
+          "AHTS 2020": "11",
+          "AHTS 2019": "12"
+        },
+        {
+          "Date": "11",
+          "PSV 2020": "17",
+          "PSV 2019": "14",
+          "AHTS 2020": "11.5",
+          "AHTS 2019": "12"
+        },
+        {
+          "Date": "12",
+          "PSV 2020": "20",
+          "PSV 2019": "13",
+          "AHTS 2020": "20",
+          "AHTS 2019": "12"
+        },
+        {
+          "Date": "13",
+          "PSV 2020": "22",
+          "PSV 2019": "21",
+          "AHTS 2020": "21",
+          "AHTS 2019": "13"
+        },
+        {
+          "Date": "14",
+          "PSV 2020": "28",
+          "PSV 2019": "22",
+          "AHTS 2020": "21",
+          "AHTS 2019": "13"
+        },
+        {
+          "Date": "15",
+          "PSV 2020": "20",
+          "PSV 2019": "18",
+          "AHTS 2020": "20",
+          "AHTS 2019": "3"
+        },
+        {
+          "Date": "16",
+          "PSV 2020": "10",
+          "PSV 2019": "16",
+          "AHTS 2020": "20",
+          "AHTS 2019": "5"
+        },
+        {
+          "Date": "17",
+          "PSV 2020": "10",
+          "PSV 2019": "7",
+          "AHTS 2020": "20",
+          "AHTS 2019": "3"
+        },
+        {
+          "Date": "18",
+          "PSV 2020": "10",
+          "PSV 2019": "7",
+          "AHTS 2020": "20",
+          "AHTS 2019": "6"
+        },
+        {
+          "Date": "19",
+          "PSV 2020": "10",
+          "PSV 2019": "10",
+          "AHTS 2020": "20",
+          "AHTS 2019": "7"
+        },
+        {
+          "Date": "20",
+          "PSV 2020": "10",
+          "PSV 2019": "11",
+          "AHTS 2020": "20",
+          "AHTS 2019": "7"
+        },
+        {
+          "Date": "21",
+          "PSV 2020": "8",
+          "PSV 2019": "12",
+          "AHTS 2020": "20",
+          "AHTS 2019": "7"
+        },
+        {
+          "Date": "22",
+          "PSV 2020": "8",
+          "PSV 2019": "15",
+          "AHTS 2020": "20",
+          "AHTS 2019": "14"
+        },
+        {
+          "Date": "23",
+          "PSV 2020": "12",
+          "PSV 2019": "15",
+          "AHTS 2020": "23",
+          "AHTS 2019": "15"
+        },
+        {
+          "Date": "24",
+          "PSV 2020": "12",
+          "PSV 2019": "11",
+          "AHTS 2020": "24",
+          "AHTS 2019": "15.5"
+        },
+        {
+          "Date": "25",
+          "PSV 2020": "13",
+          "PSV 2019": "11",
+          "AHTS 2020": "24",
+          "AHTS 2019": "15.5"
+        },
+        {
+          "Date": "26",
+          "PSV 2020": "13",
+          "PSV 2019": "11",
+          "AHTS 2020": "24",
+          "AHTS 2019": "16"
+        },
+        {
+          "Date": "27",
+          "PSV 2020": "13",
+          "PSV 2019": "11",
+          "AHTS 2020": "24",
+          "AHTS 2019": "16"
+        },
+        {
+          "Date": "28",
+          "PSV 2020": "12",
+          "PSV 2019": "11",
+          "AHTS 2020": "23.5",
+          "AHTS 2019": "16"
+        },
+        {
+          "Date": "29",
+          "PSV 2020": "20",
+          "PSV 2019": "11",
+          "AHTS 2020": "20",
+          "AHTS 2019": "16.5"
+        },
+        {
+          "Date": "30",
+          "PSV 2020": "20",
+          "PSV 2019": "11",
+          "AHTS 2020": "20",
+          "AHTS 2019": "19"
+        },
+        {
+          "Date": "31",
+          "PSV 2020": "17",
+          "PSV 2019": "4",
+          "AHTS 2020": "12",
+          "AHTS 2019": "13"
+        }
+      ]
+    },
+    {
+      "title": "NORTH SEA SPOT AVERAGE UTILISATION JAN 2020",
+      "columns": [
+        "TYPE",
+        "JAN 2020",
+        "DEC 2019",
+        "NOV 2019",
+        "OCT 2019",
+        "SEP 2019",
+        "AUG 2019"
+      ],
+      "row_count": 4,
+      "rows": [
+        {
+          "TYPE": "MED PSV",
+          "JAN 2020": "59%",
+          "DEC 2019": "66%",
+          "NOV 2019": "67%",
+          "OCT 2019": "62%",
+          "SEP 2019": "77%",
+          "AUG 2019": "78%"
+        },
+        {
+          "TYPE": "LARGE PSV",
+          "JAN 2020": "65%",
+          "DEC 2019": "80%",
+          "NOV 2019": "68%",
+          "OCT 2019": "63%",
+          "SEP 2019": "78%",
+          "AUG 2019": "72%"
+        },
+        {
+          "TYPE": "MED AHTS",
+          "JAN 2020": "12%",
+          "DEC 2019": "62%",
+          "NOV 2019": "51%",
+          "OCT 2019": "57%",
+          "SEP 2019": "66%",
+          "AUG 2019": "71%"
+        },
+        {
+          "TYPE": "LARGE AHTS",
+          "JAN 2020": "34%",
+          "DEC 2019": "63%",
+          "NOV 2019": "62%",
+          "OCT 2019": "69%",
+          "SEP 2019": "61%",
+          "AUG 2019": "78%"
+        }
+      ]
+    },
+    {
+      "title": "NORTH SEA AVERAGE RATES JAN 2020",
+      "columns": [
+        "CATEGORY",
+        "AVERAGE RATE JAN 2020",
+        "AVERAGE RATE JAN 2019",
+        "% CHANGE",
+        "MINIMUM",
+        "MAXIMUM"
+      ],
+      "row_count": 4,
+      "rows": [
+        {
+          "CATEGORY": "SUPPLY DUTIES PSVs < 900M\u00b2",
+          "AVERAGE RATE JAN 2020": "\u00a35,257",
+          "AVERAGE RATE JAN 2019": "\u00a35,299",
+          "% CHANGE": "-0.79%",
+          "MINIMUM": "\u00a33,300",
+          "MAXIMUM": "\u00a317,111"
+        },
+        {
+          "CATEGORY": "SUPPLY DUTIES PSVs > 900M\u00b2",
+          "AVERAGE RATE JAN 2020": "\u00a36,810",
+          "AVERAGE RATE JAN 2019": "\u00a35,280",
+          "% CHANGE": "+28.98%",
+          "MINIMUM": "\u00a33,300",
+          "MAXIMUM": "\u00a317,539"
+        },
+        {
+          "CATEGORY": "AHTS DUTIES AHTS < 22,000 BHP",
+          "AVERAGE RATE JAN 2020": "\u00a37,959",
+          "AVERAGE RATE JAN 2019": "\u00a329,143",
+          "% CHANGE": "-72.69%",
+          "MINIMUM": "\u00a37,215",
+          "MAXIMUM": "\u00a38,700"
+        },
+        {
+          "CATEGORY": "AHTS DUTIES AHTS > 22,000 BHP",
+          "AVERAGE RATE JAN 2020": "\u00a39,203",
+          "AVERAGE RATE JAN 2019": "\u00a316,134",
+          "% CHANGE": "-42.96%",
+          "MINIMUM": "\u00a36,417",
+          "MAXIMUM": "\u00a321,389"
+        }
+      ]
+    },
+    {
+      "title": "SPOT MARKET ARRIVALS & DEPARTURES - MID-DEC 2019 TO JAN 2020",
+      "columns": [
+        "ARRIVALS - NORTH SEA SPOT",
+        "ARRIVALS - NORTH SEA SPOT"
+      ],
+      "row_count": 4,
+      "rows": [
+        {
+          "ARRIVALS - NORTH SEA SPOT": "EX NORTH AMERICA"
+        },
+        {
+          "ARRIVALS - NORTH SEA SPOT": "EX SPAIN"
+        },
+        {
+          "ARRIVALS - NORTH SEA SPOT": "EX BLACK SEA"
+        },
+        {
+          "ARRIVALS - NORTH SEA SPOT": "EX BLACK SEA"
+        }
+      ]
+    },
+    {
+      "title": "SPOT MARKET ARRIVALS & DEPARTURES - MID-DEC 2019 TO JAN 2020",
+      "columns": [
+        "ARRIVALS CONTINUED",
+        "ARRIVALS CONTINUED"
+      ],
+      "row_count": 2,
+      "rows": [
+        {
+          "ARRIVALS CONTINUED": "EX SOUTH AMERICA"
+        },
+        {
+          "ARRIVALS CONTINUED": "EX SPAIN"
+        }
+      ]
+    },
+    {
+      "title": "SPOT MARKET ARRIVALS & DEPARTURES - MID-DEC 2019 TO JAN 2020",
+      "columns": [
+        "DEPARTURES - NORTH SEA SPOT",
+        "DEPARTURES - NORTH SEA SPOT"
+      ],
+      "row_count": 4,
+      "rows": [
+        {
+          "DEPARTURES - NORTH SEA SPOT": "WEST AFRICA"
+        },
+        {
+          "DEPARTURES - NORTH SEA SPOT": "SOUTH AMERICA"
+        },
+        {
+          "DEPARTURES - NORTH SEA SPOT": "WEST AFRICA"
+        },
+        {
+          "DEPARTURES - NORTH SEA SPOT": "SOUTH AMERICA"
+        }
+      ]
+    },
+    {
+      "title": "NORTH SEA AVERAGE SPOT RATES",
+      "columns": [
+        "Category",
+        "Month",
+        "2019",
+        "2020"
+      ],
+      "row_count": 52,
+      "rows": [
+        {
+          "Category": "PSVs",
+          "Month": "Jan",
+          "2019": "\u00a35,299",
+          "2020": "\u00a35,257"
+        },
+        {
+          "Category": "PSVs",
+          "Month": "Feb",
+          "2019": "\u00a38,789",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "PSVs",
+          "Month": "Mar",
+          "2019": "\u00a39,473",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "PSVs",
+          "Month": "Apr",
+          "2019": "\u00a315,340",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "PSVs",
+          "Month": "May",
+          "2019": "\u00a314,573",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "PSVs",
+          "Month": "Jun",
+          "2019": "\u00a310,224",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "PSVs",
+          "Month": "Jul",
+          "2019": "\u00a310,639",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "PSVs",
+          "Month": "Aug",
+          "2019": "\u00a38,420",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "PSVs",
+          "Month": "Sep",
+          "2019": "\u00a311,161",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "PSVs",
+          "Month": "Oct",
+          "2019": "\u00a35,916",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "PSVs",
+          "Month": "Nov",
+          "2019": "\u00a38,398",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "PSVs",
+          "Month": "Dec",
+          "2019": "\u00a37,918",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "Jan",
+          "2019": "\u00a35,280",
+          "2020": "\u00a36,810"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "Feb",
+          "2019": "\u00a311,076",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "Mar",
+          "2019": "\u00a313,339",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "Apr",
+          "2019": "\u00a316,587",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "May",
+          "2019": "\u00a315,422",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "Jun",
+          "2019": "\u00a311,039",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "Jul",
+          "2019": "\u00a311,928",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "Aug",
+          "2019": "\u00a310,646",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "Sep",
+          "2019": "\u00a310,434",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "Oct",
+          "2019": "\u00a36,940",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "Nov",
+          "2019": "\u00a38,007",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "Dec",
+          "2019": "\u00a39,683",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "AHTS",
+          "Month": "Jan",
+          "2019": "\u00a329,143",
+          "2020": "\u00a37,959"
+        },
+        {
+          "Category": "AHTS",
+          "Month": "Feb",
+          "2019": "\u00a314,899",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "AHTS",
+          "Month": "Mar",
+          "2019": "\u00a319,848",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "AHTS",
+          "Month": "Apr",
+          "2019": "\u00a315,703",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "AHTS",
+          "Month": "May",
+          "2019": "\u00a321,629",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "AHTS",
+          "Month": "Jun",
+          "2019": "\u00a324,750",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "AHTS",
+          "Month": "Jul",
+          "2019": "\u00a320,533",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "AHTS",
+          "Month": "Aug",
+          "2019": "\u00a316,124",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "AHTS",
+          "Month": "Sep",
+          "2019": "\u00a335,871",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "AHTS",
+          "Month": "Oct",
+          "2019": "\u00a334,305",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "AHTS",
+          "Month": "Nov",
+          "2019": "\u00a324,346",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "AHTS",
+          "Month": "Dec",
+          "2019": "\u00a321,707",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "Month": "Jan",
+          "2019": "\u00a316,134",
+          "2020": "\u00a39,203"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "Month": "Feb",
+          "2019": "\u00a320,987",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "Month": "Mar",
+          "2019": "\u00a320,592",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "Month": "Apr",
+          "2019": "\u00a316,775",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "Month": "May",
+          "2019": "\u00a326,482",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "Month": "Jun",
+          "2019": "\u00a325,687",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "Month": "Jul",
+          "2019": "\u00a323,150",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "Month": "Aug",
+          "2019": "\u00a332,237",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "Month": "Sep",
+          "2019": "\u00a333,057",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "Month": "Oct",
+          "2019": "\u00a329,220",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "Month": "Nov",
+          "2019": "\u00a324,610",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "Month": "Dec",
+          "2019": "\u00a334,702",
+          "2020": "\u00a3-"
+        },
+        {
+          "Category": "Average Day Rates 2020 v 2019",
+          "Month": "PSVs < 900m\u00b2",
+          "2019": "\u00a35,299",
+          "2020": "\u00a35,257"
+        },
+        {
+          "Category": "Average Day Rates 2020 v 2019",
+          "Month": "PSVs > 900m\u00b2",
+          "2019": "\u00a35,280",
+          "2020": "\u00a36,810"
+        },
+        {
+          "Category": "Average Day Rates 2020 v 2019",
+          "Month": "AHTS < 22,000 bhp",
+          "2019": "\u00a329,143",
+          "2020": "\u00a37,959"
+        },
+        {
+          "Category": "Average Day Rates 2020 v 2019",
+          "Month": "AHTS > 22,000 bhp",
+          "2019": "\u00a316,134",
+          "2020": "\u00a39,203"
+        }
+      ]
+    },
+    {
+      "title": "VIKING ENERGY SPECS:",
+      "columns": [
+        "Attribute",
+        "Value"
+      ],
+      "row_count": 10,
+      "rows": [
+        {
+          "Attribute": "**Build Yard:**",
+          "Value": "Kleven Verft"
+        },
+        {
+          "Attribute": "**Delivery Year:**",
+          "Value": "2003"
+        },
+        {
+          "Attribute": "**Design:**",
+          "Value": "VS 4403 LNG Hybrid"
+        },
+        {
+          "Attribute": "**LOA:**",
+          "Value": "94.9m"
+        },
+        {
+          "Attribute": "**Breadth:**",
+          "Value": "20.4m"
+        },
+        {
+          "Attribute": "**Deck Area:**",
+          "Value": "1,030m\u00b2"
+        },
+        {
+          "Attribute": "**Deadweight:**",
+          "Value": "6,013 mt"
+        },
+        {
+          "Attribute": "**Accommodation:**",
+          "Value": "24 persons"
+        },
+        {
+          "Attribute": "**M Engines:**",
+          "Value": "4 x W\u00e4rtsil\u00e4 6L32DF"
+        },
+        {
+          "Attribute": "**Max/Eco Speed:**",
+          "Value": "17.8/10.0 knots"
+        }
+      ]
+    },
+    {
+      "title": "RECENT DELIVERIES OF NEWBUILD OSVs",
+      "columns": [
+        "NAME",
+        "TYPE/DESIGN",
+        "OWNER / MANAGER",
+        "COMMITMENT"
+      ],
+      "row_count": 2,
+      "rows": [
+        {
+          "NAME": "ENAV PEREGRINA",
+          "TYPE/DESIGN": "MMC 887 CD PSV",
+          "OWNER / MANAGER": "E-NAV OFFSHORE",
+          "COMMITMENT": "TBC"
+        },
+        {
+          "NAME": "SEA GULL",
+          "TYPE/DESIGN": "W\u00c4RTSIL\u00c4 WSD 1000 MPSV",
+          "OWNER / MANAGER": "SEATANKERS MANAGEMENT",
+          "COMMITMENT": "TBC"
+        }
+      ]
+    },
+    {
+      "title": "OIL PRICE VS RIG UTILISATION",
+      "columns": [
+        "Date",
+        "Average Brent Crude US$ / Bbl",
+        "Northwest Europe Rig Utilisation",
+        "South America Rig Utilisation",
+        "US Gulf Rig Utilisation"
+      ],
+      "row_count": 13,
+      "rows": [
+        {
+          "Date": "Jan 19",
+          "Average Brent Crude US$ / Bbl": "$59.27",
+          "Northwest Europe Rig Utilisation": "70.4%",
+          "South America Rig Utilisation": "65.8%",
+          "US Gulf Rig Utilisation": "46.0%"
+        },
+        {
+          "Date": "Feb 19",
+          "Average Brent Crude US$ / Bbl": "$64.13",
+          "Northwest Europe Rig Utilisation": "70.5%",
+          "South America Rig Utilisation": "63.5%",
+          "US Gulf Rig Utilisation": "43.8%"
+        },
+        {
+          "Date": "Mar 19",
+          "Average Brent Crude US$ / Bbl": "$66.41",
+          "Northwest Europe Rig Utilisation": "71.0%",
+          "South America Rig Utilisation": "63.6%",
+          "US Gulf Rig Utilisation": "45.6%"
+        },
+        {
+          "Date": "Apr 19",
+          "Average Brent Crude US$ / Bbl": "$71.20",
+          "Northwest Europe Rig Utilisation": "72.6%",
+          "South America Rig Utilisation": "63.3%",
+          "US Gulf Rig Utilisation": "46.8%"
+        },
+        {
+          "Date": "May 19",
+          "Average Brent Crude US$ / Bbl": "$70.53",
+          "Northwest Europe Rig Utilisation": "73.9%",
+          "South America Rig Utilisation": "62.3%",
+          "US Gulf Rig Utilisation": "47.4%"
+        },
+        {
+          "Date": "Jun 19",
+          "Average Brent Crude US$ / Bbl": "$63.30",
+          "Northwest Europe Rig Utilisation": "75.4%",
+          "South America Rig Utilisation": "62.5%",
+          "US Gulf Rig Utilisation": "48.8%"
+        },
+        {
+          "Date": "Jul 19",
+          "Average Brent Crude US$ / Bbl": "$64.00",
+          "Northwest Europe Rig Utilisation": "76.2%",
+          "South America Rig Utilisation": "65.9%",
+          "US Gulf Rig Utilisation": "50.1%"
+        },
+        {
+          "Date": "Aug 19",
+          "Average Brent Crude US$ / Bbl": "$59.25",
+          "Northwest Europe Rig Utilisation": "75.1%",
+          "South America Rig Utilisation": "72.4%",
+          "US Gulf Rig Utilisation": "50.8%"
+        },
+        {
+          "Date": "Sep 19",
+          "Average Brent Crude US$ / Bbl": "$62.33",
+          "Northwest Europe Rig Utilisation": "74.2%",
+          "South America Rig Utilisation": "71.8%",
+          "US Gulf Rig Utilisation": "50.0%"
+        },
+        {
+          "Date": "Oct 19",
+          "Average Brent Crude US$ / Bbl": "$59.37",
+          "Northwest Europe Rig Utilisation": "74.2%",
+          "South America Rig Utilisation": "73.9%",
+          "US Gulf Rig Utilisation": "45.5%"
+        },
+        {
+          "Date": "Nov 19",
+          "Average Brent Crude US$ / Bbl": "$62.74",
+          "Northwest Europe Rig Utilisation": "72.9%",
+          "South America Rig Utilisation": "75.9%",
+          "US Gulf Rig Utilisation": "46.0%"
+        },
+        {
+          "Date": "Dec 19",
+          "Average Brent Crude US$ / Bbl": "$65.85",
+          "Northwest Europe Rig Utilisation": "73.2%",
+          "South America Rig Utilisation": "75.7%",
+          "US Gulf Rig Utilisation": "44.6%"
+        },
+        {
+          "Date": "Jan 20",
+          "Average Brent Crude US$ / Bbl": "$63.30",
+          "Northwest Europe Rig Utilisation": "73.6%",
+          "South America Rig Utilisation": "78.8%",
+          "US Gulf Rig Utilisation": "45.2%"
+        }
+      ]
+    },
+    {
+      "title": "INACTIVE RIGS NORTHWEST EUROPE",
+      "columns": [
+        "NAME",
+        "TYPE",
+        "STATUS"
+      ],
+      "row_count": 32,
+      "rows": [
+        {
+          "NAME": "B391",
+          "TYPE": "JU",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "BIDEFORD DOLPHIN",
+          "TYPE": "SS",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "BLACKFORD DOLPHIN",
+          "TYPE": "SS",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "BORGLAND DOLPHIN",
+          "TYPE": "SS",
+          "STATUS": "HOT STACK"
+        },
+        {
+          "NAME": "COSLINNOVATOR",
+          "TYPE": "SS",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "ISLAND INNOVATOR",
+          "TYPE": "SS",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "MAERSK GALLANT",
+          "TYPE": "JU",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "MAERSK INTERCEPTOR",
+          "TYPE": "JU",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "MAERSK RESILIENT",
+          "TYPE": "JU",
+          "STATUS": "HOT STACK"
+        },
+        {
+          "NAME": "MAERSK RESOLUTE",
+          "TYPE": "JU",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "OCEAN GREATWHITE",
+          "TYPE": "SS",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "POLAR PIONEER",
+          "TYPE": "SS",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "SEDCO 711",
+          "TYPE": "SS",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "SEDCO 714",
+          "TYPE": "SS",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "SERTAO",
+          "TYPE": "DS",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "SONGA DEE",
+          "TYPE": "SS",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "STENA DON",
+          "TYPE": "SS",
+          "STATUS": "HOT STACK"
+        },
+        {
+          "NAME": "STENA SPEY",
+          "TYPE": "SS",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "SWIFT 10",
+          "TYPE": "JU",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "TRANSOCEAN LEADER",
+          "TYPE": "SS",
+          "STATUS": "HOT STACK"
+        },
+        {
+          "NAME": "VALARIS JU-70",
+          "TYPE": "JU",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "VALARIS JU-71",
+          "TYPE": "JU",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "VALARIS JU-123",
+          "TYPE": "JU",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "WEST ALPHA",
+          "TYPE": "SS",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "WEST EPSILON",
+          "TYPE": "JU",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "WEST LEO",
+          "TYPE": "SS",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "WEST NAVIGATOR",
+          "TYPE": "DS",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "WEST PEGASUS",
+          "TYPE": "SS",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "WEST TAURUS",
+          "TYPE": "SS",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "WEST VENTURE",
+          "TYPE": "SS",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "WILHUNTER",
+          "TYPE": "SS",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "WILPHOENIX",
+          "TYPE": "SS",
+          "STATUS": "WARM STACK"
+        }
+      ]
+    },
+    {
+      "title": "RIG UTILISATION AND DAY RATES",
+      "columns": [
+        "UTILISATION",
+        "JAN 2020",
+        "JAN 2019",
+        "JAN 2018",
+        "JAN 2017",
+        "JAN 2016"
+      ],
+      "row_count": 10,
+      "rows": [
+        {
+          "UTILISATION": "NORTHWEST EUROPE",
+          "JAN 2020": "73.6%",
+          "JAN 2019": "70.4%",
+          "JAN 2018": "58.4%",
+          "JAN 2017": "52.3%",
+          "JAN 2016": "74.2%"
+        },
+        {
+          "UTILISATION": "SOUTH AMERICA",
+          "JAN 2020": "78.8%",
+          "JAN 2019": "65.8%",
+          "JAN 2018": "68.0%",
+          "JAN 2017": "74.4%",
+          "JAN 2016": "83.2%"
+        },
+        {
+          "UTILISATION": "US GULF",
+          "JAN 2020": "45.2%",
+          "JAN 2019": "46.0%",
+          "JAN 2018": "34.7%",
+          "JAN 2017": "31.8%",
+          "JAN 2016": "42.2%"
+        },
+        {
+          "UTILISATION": "**RECENT DAY RATE BENCHMARKS**",
+          "JAN 2020": "",
+          "JAN 2019": "",
+          "JAN 2018": "",
+          "JAN 2017": "",
+          "JAN 2016": ""
+        },
+        {
+          "UTILISATION": "",
+          "JAN 2020": "LOW (USD)",
+          "JAN 2019": "HIGH (USD)",
+          "JAN 2018": "",
+          "JAN 2017": "",
+          "JAN 2016": ""
+        },
+        {
+          "UTILISATION": "UK HARSH HIGH SPEC JACKUPS",
+          "JAN 2020": "75,000",
+          "JAN 2019": "120,000",
+          "JAN 2018": "",
+          "JAN 2017": "",
+          "JAN 2016": ""
+        },
+        {
+          "UTILISATION": "NORWAY HARSH HIGH SPEC JACKUPS",
+          "JAN 2020": "272,500",
+          "JAN 2019": "275,000",
+          "JAN 2018": "",
+          "JAN 2017": "",
+          "JAN 2016": ""
+        },
+        {
+          "UTILISATION": "UK HARSH HIGH SPEC SEMISUBS",
+          "JAN 2020": "160,000",
+          "JAN 2019": "205,000",
+          "JAN 2018": "",
+          "JAN 2017": "",
+          "JAN 2016": ""
+        },
+        {
+          "UTILISATION": "GLOBAL ULTRA-DEEPWATER SEMISUBS",
+          "JAN 2020": "175,000",
+          "JAN 2019": "228,000",
+          "JAN 2018": "",
+          "JAN 2017": "",
+          "JAN 2016": ""
+        },
+        {
+          "UTILISATION": "GLOBAL ULTRA-DEEPWATER DRILLSHIPS",
+          "JAN 2020": "185,000",
+          "JAN 2019": "232,600",
+          "JAN 2018": "",
+          "JAN 2017": "",
+          "JAN 2016": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "tce-benchmarking-tanker-operators-guide",
+  "issue_date": "2025-08-01",
+  "year": 2025,
+  "week": 31,
+  "category": "Tankers",
+  "section": "newsroom",
+  "title": "TCE Benchmarking for Tanker Operators: A Practical Guide",
+  "source_file": "corpus/07-signal/html/tce-benchmarking-tanker-operators-guide.html",
+  "tables": [
+    [
+      {
+        "Input": "Freight earnings",
+        "What it captures": "Gross revenue ($/pmt \u00d7 cargo mt)",
+        "Notes": "The starting line of the calculation"
+      },
+      {
+        "Input": "Brokerage commission",
+        "What it captures": "Owner's cost on the fixture",
+        "Notes": "Typically around 1.25% of gross freight"
+      },
+      {
+        "Input": "Bunker costs",
+        "What it captures": "Fuel burned over the voyage",
+        "Notes": "Largest variable cost, moves with price and speed"
+      },
+      {
+        "Input": "Port costs and canal dues",
+        "What it captures": "Disbursements at load, discharge, and transit",
+        "Notes": "Suez, Panama, and Turkish Straits transits sit here"
+      },
+      {
+        "Input": "OPEX",
+        "What it captures": "Crew, insurance, stores, maintenance",
+        "Notes": "Fixed daily cost regardless of the trade"
+      },
+      {
+        "Input": "Voyage duration",
+        "What it captures": "Ballast plus laden plus waiting days",
+        "Notes": "The full round-trip clock"
+      }
+    ],
+    [
+      {
+        "Criteria": "Vessel class coverage",
+        "Signal Ocean": "VLCC, Suezmax, Aframax",
+        "Sparta Commodities": "Freight as combined input",
+        "Xeneta": "Container/ocean lanes",
+        "Baltic Exchange": "Crude, products, gas, dry"
+      },
+      {
+        "Criteria": "Route-level TCE",
+        "Signal Ocean": "Yes",
+        "Sparta Commodities": "Not confirmed",
+        "Xeneta": "Not confirmed",
+        "Baltic Exchange": "Yes (composite routes)"
+      },
+      {
+        "Criteria": "AIS integration",
+        "Signal Ocean": "Yes",
+        "Sparta Commodities": "No",
+        "Xeneta": "No",
+        "Baltic Exchange": "No"
+      },
+      {
+        "Criteria": "Real-time data",
+        "Signal Ocean": "Yes",
+        "Sparta Commodities": "Yes",
+        "Xeneta": "Spot/contract",
+        "Baltic Exchange": "Daily assessments"
+      },
+      {
+        "Criteria": "Target user",
+        "Signal Ocean": "Chartering and trading desks",
+        "Sparta Commodities": "Trading desks",
+        "Xeneta": "Procurement teams",
+        "Baltic Exchange": "Owners, charterers, brokers"
+      }
+    ]
+  ]
+}

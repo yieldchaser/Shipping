@@ -1,0 +1,25 @@
+{
+  "issue_date": "2004-06-18",
+  "year": 2004,
+  "title": "US Tonnage Tax A Feeble Attempt to Boost a Wilting Industry",
+  "source_file": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040618.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2004-06-18_us-tonnage-tax-a-feeble-attempt-to-boost-a-wilting-industry_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2004/poten_2004-06-18_us-tonnage-tax-a-feeble-attempt-to-boost-a-wilting-industry_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-06-18_us-tonnage-tax-a-feeble-attempt-to-boost-a-wilting-industry_chart1.png",
+      "width": 542,
+      "height": 401
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

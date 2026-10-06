@@ -1,0 +1,34 @@
+{
+  "issue_date": "2017-10-20",
+  "year": 2017,
+  "title": "Kurdish Tightrope",
+  "source_file": "corpus/04-poten/pdfs/2017/Weekly-Opinion-20-October-2017-Kurdish-Tightrope.pdf",
+  "tables_count": 0,
+  "charts_count": 2,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2017-10-20_kurdish-tightrope_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2017/poten_2017-10-20_kurdish-tightrope_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-10-20_kurdish-tightrope_chart1.png",
+      "width": 958,
+      "height": 596
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2017-10-20_kurdish-tightrope_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2017/poten_2017-10-20_kurdish-tightrope_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-10-20_kurdish-tightrope_chart2.png",
+      "width": 850,
+      "height": 543
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

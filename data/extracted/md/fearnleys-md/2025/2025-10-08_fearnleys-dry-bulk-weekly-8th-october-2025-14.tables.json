@@ -1,0 +1,82 @@
+{
+  "report_id": "e37f686b-2fbe-45c2-9dfa-0566b4fb3b1e",
+  "issue_date": "2025-10-08",
+  "year": 2025,
+  "department": "BULK",
+  "report_title": "Fearnleys Dry Bulk Weekly",
+  "shipment_volume_metrics": [],
+  "coal_futures_spread_metrics": [
+    {
+      "issue_date": "2025-10-08",
+      "year": "2025",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "p5_kamsarmax_indonesia_rv_usd_day": 14794.52,
+      "p5_4w_prev_usd_day": 13595.89,
+      "newcastle_coal_futures_spread_lead_2m": -10.27,
+      "coal_spread_4w_prev": "",
+      "lead_tenor": "2 Months",
+      "chart_title": "P5 vs Newcastle Coal Futures Spread Lead",
+      "source_image": "P5 vs Newcastle Coal Futures Spread Lead.png",
+      "report_id": "e37f686b-2fbe-45c2-9dfa-0566b4fb3b1e"
+    }
+  ],
+  "time_charter_vs_asset_metrics": [],
+  "vessel_tightness_metrics": [
+    {
+      "issue_date": "2025-10-08",
+      "year": "2025",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "chart_family": "Panamax North Atlantic Tightness Indicator.png",
+      "indicator_metric": "Indicator Metric",
+      "indicator_val": 301.0,
+      "freight_benchmark": "Freight Benchmark",
+      "freight_benchmark_val": 529.0,
+      "lead_tenor": "Concurrent",
+      "report_id": "e37f686b-2fbe-45c2-9dfa-0566b4fb3b1e"
+    },
+    {
+      "issue_date": "2025-10-08",
+      "year": "2025",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "chart_family": "P6 vs SATL Tightness.png",
+      "indicator_metric": "South Atlantic Vessel Count",
+      "indicator_val": 256.9,
+      "freight_benchmark": "P6 / BCI5TC Index USD/day",
+      "freight_benchmark_val": 14471.3,
+      "lead_tenor": "1 Month Lead",
+      "report_id": "e37f686b-2fbe-45c2-9dfa-0566b4fb3b1e"
+    },
+    {
+      "issue_date": "2025-10-08",
+      "year": "2025",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "chart_family": "supraultra ballaster laden vessel ratio.png",
+      "indicator_metric": "Indicator Metric",
+      "indicator_val": 753.0,
+      "freight_benchmark": "Freight Benchmark",
+      "freight_benchmark_val": "",
+      "lead_tenor": "Concurrent",
+      "report_id": "e37f686b-2fbe-45c2-9dfa-0566b4fb3b1e"
+    }
+  ],
+  "macro_correlation_metrics": [
+    {
+      "issue_date": "2025-10-08",
+      "year": "2025",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "macro_metric": "Copper 6M Change Lead vs Supramax 1Y TC 6M Change",
+      "freight_benchmark_val": -24.6,
+      "macro_indicator_val": 22.9,
+      "lead_tenor": "6 Months",
+      "chart_title": "COPPER PRICE VS SUPRAMAX 1 YEAR TC.png",
+      "report_id": "e37f686b-2fbe-45c2-9dfa-0566b4fb3b1e"
+    }
+  ],
+  "charts_count": 12,
+  "source_markdown": "2025-10-08_fearnleys-dry-bulk-weekly-8th-october-2025-14.md"
+}

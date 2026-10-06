@@ -1,0 +1,294 @@
+issue_date,report_week,vessel_name,built,teu,teu_14,gear,account,period_mos,rate_usd_day,source_file
+2021-08-30,35,Calidris,2012,2758,2220,,,,,corpus/01-brokers/banchero_costa/2021/banchero_costa_2021_W35_Bancosta-Weekly-2021-35.pdf
+2021-08-30,35,Elbspirit,2008,3426,2410,,,,,corpus/01-brokers/banchero_costa/2021/banchero_costa_2021_W35_Bancosta-Weekly-2021-35.pdf
+2021-08-30,35,San Lorenzo,2014,1700,1230,,,,,corpus/01-brokers/banchero_costa/2021/banchero_costa_2021_W35_Bancosta-Weekly-2021-35.pdf
+2021-08-30,35,Skyline,2007,629,401,,,,,corpus/01-brokers/banchero_costa/2021/banchero_costa_2021_W35_Bancosta-Weekly-2021-35.pdf
+2021-08-30,35,Varamo,2007,1296,957,,,,,corpus/01-brokers/banchero_costa/2021/banchero_costa_2021_W35_Bancosta-Weekly-2021-35.pdf
+2022-11-21,47,Atlantic Express,2007,1118,700,yes,Extended to CMA,5 - 7 m,10250.0,corpus/01-brokers/banchero_costa/2022/banchero_costa_2022_W47_Bancosta-Weekly-2022-47.pdf
+2022-11-21,47,BF Fortaleza,1996,700,375,no,Fixed to Hyde Shipping,4 - 6 m,12000.0,corpus/01-brokers/banchero_costa/2022/banchero_costa_2022_W47_Bancosta-Weekly-2022-47.pdf
+2022-11-21,47,Monemvasia,1999,2472,1912,yes,Fixed to CMA,6 - 8 m,17300.0,corpus/01-brokers/banchero_costa/2022/banchero_costa_2022_W47_Bancosta-Weekly-2022-47.pdf
+2022-11-21,47,Stonewell Brilliance,1994,1665,1231,no,Fixed to SITC,1 - 2 m,14000.0,corpus/01-brokers/banchero_costa/2022/banchero_costa_2022_W47_Bancosta-Weekly-2022-47.pdf
+2023-03-13,11,Contship Ray,2008,1118,700,Yes,Extended to CMA CGM,12 - 13 m,12500.0,corpus/01-brokers/banchero_costa/2023/banchero_costa_2023_W11_Bancosta-Weekly-2023-11.pdf
+2023-03-13,11,Falmouth,2002,862,585,Yes,Fixed to GFS,10 - 12 m,11650.0,corpus/01-brokers/banchero_costa/2023/banchero_costa_2023_W11_Bancosta-Weekly-2023-11.pdf
+2023-03-13,11,Hammonia Baltica,2011,2798,2139,No,Extended to HL,11 - 13 m,16500.0,corpus/01-brokers/banchero_costa/2023/banchero_costa_2023_W11_Bancosta-Weekly-2023-11.pdf
+2023-03-13,11,Penang Bridge,2009,1708,1243,No,Extended to ONE,5 m,13000.0,corpus/01-brokers/banchero_costa/2023/banchero_costa_2023_W11_Bancosta-Weekly-2023-11.pdf
+2023-04-24,17,Cerinthus,2013,1728,1275,Yes,Fixed to CMA,12 m,17000.0,corpus/01-brokers/banchero_costa/2023/banchero_costa_2023_W17_Bancosta-Weekly-2023-17.pdf
+2023-04-24,17,Em Kea,2007,3108,2481,No,Extended to CMA,36 m,19000.0,corpus/01-brokers/banchero_costa/2023/banchero_costa_2023_W17_Bancosta-Weekly-2023-17.pdf
+2023-04-24,17,Warnow Chief,2009,1496,1100,No,Fixed to Cosco,11 - 12 m,14000.0,corpus/01-brokers/banchero_costa/2023/banchero_costa_2023_W17_Bancosta-Weekly-2023-17.pdf
+2023-09-18,38,Josita B,2014,1756,1380,gearless,Extended to Maersk,6 - 8,14000.0,corpus/01-brokers/banchero_costa/2023/banchero_costa_2023_W38_Bancosta-Weekly-2023-38.pdf
+2023-09-18,38,Victoria L,2009,1374,870,geared,Extended to Maersk,4 - 8,12900.0,corpus/01-brokers/banchero_costa/2023/banchero_costa_2023_W38_Bancosta-Weekly-2023-38.pdf
+2023-09-18,38,Yigitcan A,2001,1208,910,gearless,Extended to CMA,4 - 6,11900.0,corpus/01-brokers/banchero_costa/2023/banchero_costa_2023_W38_Bancosta-Weekly-2023-38.pdf
+2023-11-13,46,Irenes Wisdom,2023,2782,1960,gearless,Fixed to Hapag Lloyd,10 - 18,17200.0,corpus/01-brokers/banchero_costa/2023/banchero_costa_2023_W46_Bancosta-Weekly-2023-46.pdf
+2023-11-13,46,SC Medford,2004,1200,870,gearless,Extended to CMA CGM,3 - 6,9500.0,corpus/01-brokers/banchero_costa/2023/banchero_costa_2023_W46_Bancosta-Weekly-2023-46.pdf
+2023-11-13,46,Thalassa Elpida,2014,13808,9812,gearless,HL sublet to Maersk,3,57000.0,corpus/01-brokers/banchero_costa/2023/banchero_costa_2023_W46_Bancosta-Weekly-2023-46.pdf
+2023-11-13,46,Trouper,2005,862,585,gearless,Extended to GFS,2,8750.0,corpus/01-brokers/banchero_costa/2023/banchero_costa_2023_W46_Bancosta-Weekly-2023-46.pdf
+2024-07-22,30,As Susanna **,2010,1713,1274,geared,Extended to ONE,23 - 25,18000.0,corpus/01-brokers/banchero_costa/2024/banchero_costa_2024_W30_Bancosta-Weekly-2024-30.pdf
+2024-07-22,30,Matson Waikiki *,2008,4870,3160,gearless,Extended to Matson,36,26500.0,corpus/01-brokers/banchero_costa/2024/banchero_costa_2024_W30_Bancosta-Weekly-2024-30.pdf
+2024-07-22,30,Perseus,2008,825,639,gearless,Extended to Akkon,11 - 12,13300.0,corpus/01-brokers/banchero_costa/2024/banchero_costa_2024_W30_Bancosta-Weekly-2024-30.pdf
+2024-07-22,30,Seatrade Peru,2024,1781,1300,geared,Fixed to OOCL,24,23250.0,corpus/01-brokers/banchero_costa/2024/banchero_costa_2024_W30_Bancosta-Weekly-2024-30.pdf
+2024-11-18,47,CONTSHIP CUP,2012,1496,1118,NO,ZIM,14/16,18000.0,corpus/01-brokers/banchero_costa/2024/banchero_costa_2024_W47_Bancosta-Weekly-2024-47.pdf
+2024-11-18,47,GULF BARAKAH,2012,4376,2802,NO,MAERSK,5,52000.0,corpus/01-brokers/banchero_costa/2024/banchero_costa_2024_W47_Bancosta-Weekly-2024-47.pdf
+2024-11-18,47,HAIAN WEST,2007,1740,1295,YES,SEALEAD,12,28000.0,corpus/01-brokers/banchero_costa/2024/banchero_costa_2024_W47_Bancosta-Weekly-2024-47.pdf
+2024-11-18,47,ILONA,2001,6732,5100,NO,COSCO,36,35000.0,corpus/01-brokers/banchero_costa/2024/banchero_costa_2024_W47_Bancosta-Weekly-2024-47.pdf
+2024-11-18,47,MARGARETE SCHULTE,2006,2572,1840,YES,MAERSK,18,29000.0,corpus/01-brokers/banchero_costa/2024/banchero_costa_2024_W47_Bancosta-Weekly-2024-47.pdf
+2024-11-18,47,MARTINIQUE,2007,2824,2029,NO,ONE,24,27000.0,corpus/01-brokers/banchero_costa/2024/banchero_costa_2024_W47_Bancosta-Weekly-2024-47.pdf
+2024-11-18,47,NORDIC ITALIA,2012,1085,730,NO,CMA-CGM,4/6,13.5,corpus/01-brokers/banchero_costa/2024/banchero_costa_2024_W47_Bancosta-Weekly-2024-47.pdf
+2024-11-18,47,PACIFIC QINGDAO,2009,698,436,NO,CCL,6,9600.0,corpus/01-brokers/banchero_costa/2024/banchero_costa_2024_W47_Bancosta-Weekly-2024-47.pdf
+2024-11-18,47,ZHONG GU SHEN Y,2023,4636,4290,NO,GFS,18,50000.0,corpus/01-brokers/banchero_costa/2024/banchero_costa_2024_W47_Bancosta-Weekly-2024-47.pdf
+2024-12-02,49,Arsos,2007,1284,957,yes,Seaboard,12,17800.0,corpus/01-brokers/banchero_costa/2024/banchero_costa_2024_W49_Bancosta-Weekly-2024-49.pdf
+2024-12-02,49,Buxmelody,2008,2702,2102,no,OOCL,24,25000.0,corpus/01-brokers/banchero_costa/2024/banchero_costa_2024_W49_Bancosta-Weekly-2024-49.pdf
+2024-12-02,49,Containerships VIII,2006,850,712,no,CMA-CGM,6,11200.0,corpus/01-brokers/banchero_costa/2024/banchero_costa_2024_W49_Bancosta-Weekly-2024-49.pdf
+2024-12-02,49,Irenes Reward,2024,2782,2309,no,Hapag Lloyd,22/26,36000.0,corpus/01-brokers/banchero_costa/2024/banchero_costa_2024_W49_Bancosta-Weekly-2024-49.pdf
+2024-12-02,49,Pacific Dalian,2008,698,436,no,Seabus,6,9100.0,corpus/01-brokers/banchero_costa/2024/banchero_costa_2024_W49_Bancosta-Weekly-2024-49.pdf
+2024-12-02,49,Sky Wind,2019,1809,1220,no,NGSS,18/20,20200.0,corpus/01-brokers/banchero_costa/2024/banchero_costa_2024_W49_Bancosta-Weekly-2024-49.pdf
+2024-12-02,49,Wiebke Schepers,2009,1011,610,no,Samudera,12,13950.0,corpus/01-brokers/banchero_costa/2024/banchero_costa_2024_W49_Bancosta-Weekly-2024-49.pdf
+2024-12-09,50,FENG XIN DA 29,2024,1498,1050,NO,SEALEAD,12,24500.0,corpus/01-brokers/banchero_costa/2024/banchero_costa_2024_W50_Bancosta-Weekly-2024-50.pdf
+2024-12-09,50,HECAN,2009,908,636,NO,PANASIA,6/8,12.5,corpus/01-brokers/banchero_costa/2024/banchero_costa_2024_W50_Bancosta-Weekly-2024-50.pdf
+2024-12-09,50,PORT GDYNIA,2011,3091,2481,YES,CMA-CGM,13/15,31000.0,corpus/01-brokers/banchero_costa/2024/banchero_costa_2024_W50_Bancosta-Weekly-2024-50.pdf
+2024-12-09,50,SCION MAFALDA,2015,1103,705,YES,CMA-CGM,24,15000.0,corpus/01-brokers/banchero_costa/2024/banchero_costa_2024_W50_Bancosta-Weekly-2024-50.pdf
+2024-12-09,50,WECAN,2013,1048,655,NO,KMTC,6/8,13000.0,corpus/01-brokers/banchero_costa/2024/banchero_costa_2024_W50_Bancosta-Weekly-2024-50.pdf
+2024-12-30,1,AEGEAN EXPRESS,1997,1439,1131,NO,Samudera,12,16700.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W01_Bancosta-Weekly-2025-01.pdf
+2024-12-30,1,CONTSHIP DON,2006,1118,700,NO,Cosco,14/16,15000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W01_Bancosta-Weekly-2025-01.pdf
+2024-12-30,1,CONTSHIP ERA,2009,1118,700,NO,Zim,12/16,13500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W01_Bancosta-Weekly-2025-01.pdf
+2024-12-30,1,HANSA OSTENBURG,2007,1740,1295,NO,Cosco,24,19500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W01_Bancosta-Weekly-2025-01.pdf
+2024-12-30,1,MEDKON ANA,2005,966,604,YES,CAM-CGM,3/6,13500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W01_Bancosta-Weekly-2025-01.pdf
+2025-01-06,2,ADRATOS,2023,1809,1311,NO,Sealead,12-15,29900.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W02_Bancosta-Weekly-2025-02.pdf
+2025-01-06,2,CONTSHIP DON,2006,1098,700,NO,Cosco,14-16,13500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W02_Bancosta-Weekly-2025-02.pdf
+2025-01-06,2,DURANDE,2025,1930,1342,NO,Hapag,23-25,20750.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W02_Bancosta-Weekly-2025-02.pdf
+2025-01-06,2,MANET,2001,2272,1725,YES,Oocl,20-22,24000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W02_Bancosta-Weekly-2025-02.pdf
+2025-01-06,2,NAGOYA TOWER,2003,4253,2810,NO,One,35-37,35000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W02_Bancosta-Weekly-2025-02.pdf
+2025-01-06,2,X-PRESS ANTARES,2022,3158,2640,NO,Maersk,50-80,67500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W02_Bancosta-Weekly-2025-02.pdf
+2025-01-13,3,ANDERSON DRAGON,2008,1708,1260,NO,Sitc,12/14,20500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf
+2025-01-13,3,GREEN PACIFIC,2008,1060,774,NO,Sitc,12,13000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf
+2025-01-13,3,IRENES RULE,2023,2782,2309,NO,Hapag,34/37,32000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf
+2025-01-13,3,OLIVIA,2013,1705,1250,YES,Maersk,14/17,23500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf
+2025-01-13,3,ZHI YING HE SHUN,2024,1350,1070,NO,Sea express,6/9,18000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W03_Bancosta-Weekly-2025-03.pdf
+2025-01-20,4,CONTSHIP TOP,2008,1098,700,NO,MSC,23-25,12500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W04_Bancosta-Weekly-2025-04.pdf
+2025-01-20,4,CONTSHIP WAY,2008,1118,700,YES,CMA CGM,12-14,14000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W04_Bancosta-Weekly-2025-04.pdf
+2025-01-20,4,EMILIA,1999,700,382,NO,MESSINA,5-7,8250.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W04_Bancosta-Weekly-2025-04.pdf
+2025-01-20,4,EVI,2008,1338,925,YES,CMA CGM,12-14,17500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W04_Bancosta-Weekly-2025-04.pdf
+2025-01-20,4,PACIFIC TRADER,2008,1118,700,YES,ZIM,13-15,15400.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W04_Bancosta-Weekly-2025-04.pdf
+2025-01-27,5,AS FREYA,2004,1208,913,YES,KING OCEAN,24-26,16250.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W05_Bancosta-Weekly-2025-05.pdf
+2025-01-27,5,EMOTION,2008,1440,1072,NO,HAPAG,13-15,18000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W05_Bancosta-Weekly-2025-05.pdf
+2025-01-27,5,FIONA,1998,1728,1125,YES,MSC,23-25,18000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W05_Bancosta-Weekly-2025-05.pdf
+2025-01-27,5,SANTA MARTA EXPRESS,2010,2592,1834,YES,HAPAG,30-34,25000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W05_Bancosta-Weekly-2025-05.pdf
+2025-01-27,5,SEATRADE CHILE,2024,1781,1370,NO,CMA CGM,24-27,25000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W05_Bancosta-Weekly-2025-05.pdf
+2025-02-03,6,BJORG,2001,868,600,NO,UNIFEEDER,11-13,10000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W06_Bancosta-Weekly-2025-06.pdf
+2025-02-03,6,EMPIRE,2009,1440,1072,NO,HAPAG,12-14,18000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W06_Bancosta-Weekly-2025-06.pdf
+2025-02-03,6,JIN FU YUAN,1998,2219,1898,YES,COSCO,22-24,23000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W06_Bancosta-Weekly-2025-06.pdf
+2025-02-03,6,MERVE A,2008,4300,2805,NO,CMA CGM,23-25,25000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W06_Bancosta-Weekly-2025-06.pdf
+2025-02-03,6,SKALAR,2012,1036,740,NO,UNIFEEDER,13-15,13500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W06_Bancosta-Weekly-2025-06.pdf
+2025-02-03,6,X-PRESS BARDSEY,2013,4957,3739,NO,CMA CGM,1-2,63000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W06_Bancosta-Weekly-2025-06.pdf
+2025-02-17,8,AS ALEXANDRIA,2010,1992,1388,NO,MSC,23-25,23500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W08_Bancosta-Weekly-2025-08.pdf
+2025-02-17,8,ATLANTIC EAST,2008,698,436,NO,CENTRANS,10-12,9350.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W08_Bancosta-Weekly-2025-08.pdf
+2025-02-17,8,ISARA BHUM,2008,1088,700,NO,PANCONT,10-12,13850.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W08_Bancosta-Weekly-2025-08.pdf
+2025-02-17,8,NORDMAAS,2019,1774,1395,NO,COSCO,23-25,22400.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W08_Bancosta-Weekly-2025-08.pdf
+2025-02-17,8,SONGA LIONESS,2010,1795,1245,YES,SWIRE,23-25,22250.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W08_Bancosta-Weekly-2025-08.pdf
+2025-02-17,8,WADI ALRAYAN,2000,3013,2212,YES,CMA CGM,6-12,42500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W08_Bancosta-Weekly-2025-08.pdf
+2025-02-24,9,CONTHSHIP FUN,2006,966,604,YES,MAERSK,12-14,14000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W09_Bancosta-Weekly-2025-09.pdf
+2025-02-24,9,CONTSHIP TEN,2007,1114,688,YES,MSC,23-25,14000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W09_Bancosta-Weekly-2025-09.pdf
+2025-02-24,9,HANSA ROTENBURG,2009,1740,1290,YES,GFS,23-25,20250.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W09_Bancosta-Weekly-2025-09.pdf
+2025-02-24,9,HAO BO 01,2025,1836,1310,NO,GFS,12-14,27000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W09_Bancosta-Weekly-2025-09.pdf
+2025-02-24,9,IONIKOS,2009,4300,2771,NO,HAPAG,35-38,35500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W09_Bancosta-Weekly-2025-09.pdf
+2025-02-24,9,KOTA SANTOS,2005,8073,6595,NO,PIL,35-37,39300.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W09_Bancosta-Weekly-2025-09.pdf
+2025-02-24,9,LOA PEACE,1999,2472,1912,NO,UNIFEEDER,11-13,34000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W09_Bancosta-Weekly-2025-09.pdf
+2025-03-03,10,A GORYU,2022,1781,1385,NO,HAPAG,23-25,21000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W10_Bancosta-Weekly-2025-10.pdf
+2025-03-03,10,AMOUREUX,2023,1809,1311,NO,SITC,11-13,30000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W10_Bancosta-Weekly-2025-10.pdf
+2025-03-03,10,BALDUR,2010,1338,925,YES,CMA CGM,23-25,19200.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W10_Bancosta-Weekly-2025-10.pdf
+2025-03-03,10,BF PERCH,2007,990,621,NO,UNIFEEDER,12-14,12000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W10_Bancosta-Weekly-2025-10.pdf
+2025-03-03,10,K-STREAM,1997,700,380,NO,SEACON,11-13,8500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W10_Bancosta-Weekly-2025-10.pdf
+2025-03-03,10,MTT SEMPORNA,2021,1162,935,NO,SEACON,11-13,18000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W10_Bancosta-Weekly-2025-10.pdf
+2025-03-03,10,REN JIAN 8,2006,4300,2810,NO,HEDE,35-37,33000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W10_Bancosta-Weekly-2025-10.pdf
+2025-03-03,10,VEGA VELA,2005,1080,700,NO,SEACON,15-17,15000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W10_Bancosta-Weekly-2025-10.pdf
+2025-03-10,11,CAIRO PYRAMID,2000,1618,1150,NO,GFS,18-20,22750.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W11_Bancosta-Weekly-2025-11.pdf
+2025-03-10,11,HE YUAN 1,2000,834,590,NO,ASL,11-12,10000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W11_Bancosta-Weekly-2025-11.pdf
+2025-03-10,11,OPHELIA,2018,1700,1250,NO,ZIM,23-25,21500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W11_Bancosta-Weekly-2025-11.pdf
+2025-03-10,11,SKYVIEW,2007,1306,850,YES,CMA CGM,22-24,19000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W11_Bancosta-Weekly-2025-11.pdf
+2025-03-10,11,SONDERBORG,2012,1085,730,NO,MAERSK,10-12,14600.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W11_Bancosta-Weekly-2025-11.pdf
+2025-03-10,11,SUNWIN,2007,704,413,NO,CKI LINE,6-8,9800.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W11_Bancosta-Weekly-2025-11.pdf
+2025-03-17,12,HANSA AUSTRALIA,2014,3635,2500,YES,MAERSK,23-25,30000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W12_Bancosta-Weekly-2025-12.pdf
+2025-03-17,12,KOTA LAYANG,2009,4250,2800,NO,HAPAG,35-37,35500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W12_Bancosta-Weekly-2025-12.pdf
+2025-03-17,12,MITO,2006,1118,730,NO,ONE,11-13,14900.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W12_Bancosta-Weekly-2025-12.pdf
+2025-03-17,12,ST. MARY,2001,1679,1217,NO,CMA CGM,5.5-6.5,28000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W12_Bancosta-Weekly-2025-12.pdf
+2025-03-17,12,TS SINGAPORE,2010,4380,2850,NO,CMA CGM,6-8 weeks,50000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W12_Bancosta-Weekly-2025-12.pdf
+2025-03-24,13,ANNIE B,2003,2824,2030,NO,ZIM,23-25,27.5,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W13_Bancosta-Weekly-2025-13.pdf
+2025-03-24,13,CT DANIEL,2006,862,595,YES,CMA CGM,11-13,13500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W13_Bancosta-Weekly-2025-13.pdf
+2025-03-24,13,ELISABETH P,2005,2702,2106,NO,MAERSK,23-25,26.5,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W13_Bancosta-Weekly-2025-13.pdf
+2025-03-24,13,LITTLE ATHINA,2024,1781,1370,NO,HAPAG,23-25,23500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W13_Bancosta-Weekly-2025-13.pdf
+2025-03-24,13,NEWYORKER,2001,2506,1820,YES,MAERSK,23-25,26.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W13_Bancosta-Weekly-2025-13.pdf
+2025-03-24,13,OKEE HENRI,2008,1841,1297,YES,GWF,23-25,23000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W13_Bancosta-Weekly-2025-13.pdf
+2025-03-24,13,VICTORIA,2004,1678,1305,YES,SWIRE,23-25,20000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W13_Bancosta-Weekly-2025-13.pdf
+2025-03-24,13,ZHONG GU YIN CHUAN,2023,4636,4290,NO,SEALEAD,23-25,43.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W13_Bancosta-Weekly-2025-13.pdf
+2025-03-31,14,CONTSHIP YEN,2014,1103,705,YES,CMA-CGM,23-25,16500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W14_Bancosta-Weekly-2025-14.pdf
+2025-03-31,14,ESPOIR,2011,1436,1054,NO,MSC,5-7,22000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W14_Bancosta-Weekly-2025-14.pdf
+2025-03-31,14,MONICA,2024,1809,1213,NO,OOCL,23-25,23500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W14_Bancosta-Weekly-2025-14.pdf
+2025-03-31,14,MTT PELEPAS,2024,1792,1370,NO,SEACON,11-13,29750.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W14_Bancosta-Weekly-2025-14.pdf
+2025-03-31,14,ZHONG GU DI ZHONG HAI,2020,1900,1217,NO,MAERSK,23-25,23000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W14_Bancosta-Weekly-2025-14.pdf
+2025-04-21,17,AVA D,2007,1578,1035,NO,COSCO,20-22,21500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W17_Bancosta-Weekly-2025-17.pdf
+2025-04-21,17,JORK RULER,2006,803,518,NO,UNIFEEDER,23-25,11.9,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W17_Bancosta-Weekly-2025-17.pdf
+2025-04-21,17,JULIANA,2009,1338,925,YES,SEABOARD,21-22,21500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W17_Bancosta-Weekly-2025-17.pdf
+2025-04-21,17,SC PHILLY,2007,1118,700,YES,UNIFEEDER,18-19,15900.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W17_Bancosta-Weekly-2025-17.pdf
+2025-04-21,17,VENTO DI BORA,2023,1932,1342,NO,TARROS,23-25,23500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W17_Bancosta-Weekly-2025-17.pdf
+2025-04-28,18,BIG GEORGE,1997,2458,1894,NO,SEACON,11-13,21000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W18_Bancosta-Weekly-2025-18-1.pdf
+2025-04-28,18,GULF BARAKAH,2012,4376,2802,NO,MAERSK,3-5,51000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W18_Bancosta-Weekly-2025-18-1.pdf
+2025-04-28,18,HUA XIANG 936,1997,1675,1286,NO,CMA CGM,5-7,25000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W18_Bancosta-Weekly-2025-18-1.pdf
+2025-04-28,18,MITRA BHUM,2007,1108,700,NO,NBOSCO,12-14,15.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W18_Bancosta-Weekly-2025-18-1.pdf
+2025-04-28,18,NILEDUTCH LION,2008,8200,6310,NO,SEALEAD,23-25,41000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W18_Bancosta-Weekly-2025-18-1.pdf
+2025-05-05,19,BF TROUT,2008,990,621,NO,UNIFEEDER,11-13,13000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W19_Bancosta-Weekly-2025-19.pdf
+2025-05-05,19,CAT LAI EXPRESS,2023,1781,1385,NO,HAPAG,22-26,21400.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W19_Bancosta-Weekly-2025-19.pdf
+2025-05-05,19,FATMA,2002,707,400,NO,UNIFEEDER,3-6,7400.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W19_Bancosta-Weekly-2025-19.pdf
+2025-05-05,19,IRIS PAOAY,2006,1118,700,NO,CMA CGM,12-14,16600.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W19_Bancosta-Weekly-2025-19.pdf
+2025-05-05,19,VICTORY STAR,2004,710,471,NO,CK LINE,11-13,9.5,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W19_Bancosta-Weekly-2025-19.pdf
+2025-05-05,19,X-PRESS ODYSSEY,2014,4771,3610,NO,COSCO,35-37,40000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W19_Bancosta-Weekly-2025-19.pdf
+2025-05-12,20,ASL PEONY,2023,1930,1290,NO,TAILWIND,23-25,21400.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W20_Bancosta-Weekly-2025-20.pdf
+2025-05-12,20,HONG LI YUAN YANG,2024,1983,1418,NO,AKKON,11-13,40000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W20_Bancosta-Weekly-2025-20.pdf
+2025-05-12,20,SAN ALBERTO,2007,1819,1280,YES,CMA CGM,24-26,16600.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W20_Bancosta-Weekly-2025-20.pdf
+2025-05-12,20,SCARLETTA,2008,966,604,YES,CMA CGM,11-13,9.5,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W20_Bancosta-Weekly-2025-20.pdf
+2025-05-12,20,VERA D,2004,1678,1305,YES,CMA CGM,4-6,13000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W20_Bancosta-Weekly-2025-20.pdf
+2025-05-26,22,CAPE BYRON,2023,1932,1342,NO,HAPAG,23-25,22800.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W22_Bancosta-Weekly-2025-22.pdf
+2025-05-26,22,CAPE FULMAR,2007,1440,1050,NO,MAERSK,20-22,21000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W22_Bancosta-Weekly-2025-22.pdf
+2025-05-26,22,ENERGIZER,2004,750,513,NO,UNIFEEDER,11-13,12000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W22_Bancosta-Weekly-2025-22.pdf
+2025-05-26,22,MEDKON LIA,1998,1136,703,YES,SEALEAD,14-16,16500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W22_Bancosta-Weekly-2025-22.pdf
+2025-05-26,22,SC MARIGOT,2005,1200,870,NO,SEACON,15-17,17250.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W22_Bancosta-Weekly-2025-22.pdf
+2025-05-26,22,ZHONG PENG YOU,2023,1667,1472,NO,CU LINES,11-13,22000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W22_Bancosta-Weekly-2025-22.pdf
+2025-06-02,23,EMMANUEL P,2005,4253,2805,NO,SAMUDERA,36-38,38000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W23_Bancosta-Weekly-2025-23.pdf
+2025-06-02,23,JIN SHUN HE,1997,2113,1491,NO,CMA CGM,11-13,30000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W23_Bancosta-Weekly-2025-23.pdf
+2025-06-02,23,MARTI STAR II,2007,1049,671,NO,NBOSCO,11-13,15900.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W23_Bancosta-Weekly-2025-23.pdf
+2025-06-02,23,MIRADOR EXPRESS,2002,3237,2312,NO,HAPAG,21-24,27500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W23_Bancosta-Weekly-2025-23.pdf
+2025-06-02,23,SEASMILE,2013,5071,3629,NO,ZIM,35-37,39000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W23_Bancosta-Weekly-2025-23.pdf
+2025-06-30,27,ATLANTIC GREEN,2006,868,612,NO,Seacon,12-14,16000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W27_Bancosta-Weekly-2025-27.pdf
+2025-06-30,27,AURETTE A,2002,1170,910,YES,CMA-CGM,12-15,17500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W27_Bancosta-Weekly-2025-27.pdf
+2025-06-30,27,LENA,2006,966,604,YES,Seaboard,10-12,17500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W27_Bancosta-Weekly-2025-27.pdf
+2025-06-30,27,MARIELYST,2010,1085,730,NO,ONE,23-25,15100.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W27_Bancosta-Weekly-2025-27.pdf
+2025-06-30,27,RDO ENDEAVOUR,2006,5624,4080,NO,ONE,35-37,42500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W27_Bancosta-Weekly-2025-27.pdf
+2025-06-30,27,WANTAI,1998,2902,2186,NO,Seacon,12-14,31000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W27_Bancosta-Weekly-2025-27.pdf
+2025-07-07,28,FSL SINGAPORE,2020,1528,1000,NO,SAMUDERA,19-21,22800.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W28_Bancosta-Weekly-2025-28.pdf
+2025-07-07,28,NORDERNEY,2023,1930,1338,NO,ONE,23-25,24600.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W28_Bancosta-Weekly-2025-28.pdf
+2025-07-07,28,NORDIC ITALIA,2012,1085,730,NO,UNIFEEDER,12-15,15600.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W28_Bancosta-Weekly-2025-28.pdf
+2025-07-14,29,AMINA,2011,1084,732,NO,SAMSKIP,17-19,15.5,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W29_Bancosta-Weekly-2025-29.pdf
+2025-07-14,29,PANTONIO,2007,698,410,NO,STAR,4-6,10.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W29_Bancosta-Weekly-2025-29.pdf
+2025-07-14,29,REN JIAN 23,2009,4275,2795,NO,JINJIANG,33-35,37000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W29_Bancosta-Weekly-2025-29.pdf
+2025-07-14,29,SONGA SUCCESS,2010,2553,1900,NO,ONE,23-25,26900.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W29_Bancosta-Weekly-2025-29.pdf
+2025-07-14,29,WADI BANI KHALID,2008,4250,3019,NO,NBOSCO,23-25,46500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W29_Bancosta-Weekly-2025-29.pdf
+2025-07-21,30,BF CARP,2009,990,621,NO,UNIFEEDER,11-13,14.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W30_Bancosta-Weekly-2025-30.pdf
+2025-07-21,30,NOAH,2003,1118,712,YES,UNIFEEDER,18-20,16.6,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W30_Bancosta-Weekly-2025-30.pdf
+2025-07-21,30,OOCL RAUMA,2009,1404,1030,NO,UNIFEEDER,23-25,19.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W30_Bancosta-Weekly-2025-30.pdf
+2025-07-21,30,ZHONG GU CHONG QING,2023,4636,4290,NO,GFS,23-25,48000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W30_Bancosta-Weekly-2025-30.pdf
+2025-07-28,31,BF LETICIA,2003,868,595,YES,MAERSK,18-22,15500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W31_Bancosta-Weekly-2025-31.pdf
+2025-07-28,31,IMKE SCHEPERS,2010,1011,610,NO,SEACON,17-19,16700.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W31_Bancosta-Weekly-2025-31.pdf
+2025-07-28,31,MEDKON QUO,2007,966,620,NO,SITC,6-8,16000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W31_Bancosta-Weekly-2025-31.pdf
+2025-07-28,31,MOLIVA,2014,936,568,NO,HAPAG,1.5-3.5,14250.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W31_Bancosta-Weekly-2025-31.pdf
+2025-07-28,31,NOAH,2003,1118,712,YES,UNIFEEDER,18-20,16600.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W31_Bancosta-Weekly-2025-31.pdf
+2025-08-04,32,BF LETICIA,2003,868,595,YES,MAERSK,18-22,15500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W32_Bancosta-Weekly-2025-32.pdf
+2025-08-04,32,IMKE SCHEPERS,2010,1011,610,NO,SEACON,17-19,16700.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W32_Bancosta-Weekly-2025-32.pdf
+2025-08-04,32,MEDKON QUO,2007,966,620,NO,SITC,6-8,16000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W32_Bancosta-Weekly-2025-32.pdf
+2025-08-04,32,MOLIVA,2014,936,568,NO,HAPAG,1.5-3.5,14250.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W32_Bancosta-Weekly-2025-32.pdf
+2025-08-04,32,NOAH,2003,1118,712,YES,UNIFEEDER,18-20,16600.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W32_Bancosta-Weekly-2025-32.pdf
+2025-09-22,39,BALLATA,2006,1118,700,YES,ONE,16-18,16000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W39_Bancosta-Weekly-2025-39.pdf
+2025-09-22,39,CONTSHIP FOX,2009,1096,700,NO,CFS,23-25,16500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W39_Bancosta-Weekly-2025-39.pdf
+2025-09-22,39,HONG DA XIN 778,2023,1498,1050,NO,RONG SHANG,12-15,20000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W39_Bancosta-Weekly-2025-39.pdf
+2025-09-22,39,W KLAIPEDA,2001,6802,5616,NO,HAPAG,33-36,40000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W39_Bancosta-Weekly-2025-39.pdf
+2025-09-29,40,GULF BARAKAH,2012,4376,2802,NO,MAERSK,12-15,51000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W40_Bancosta-Weekly-2025-40.pdf
+2025-09-29,40,MACAO,2008,1793,1312,YES,MAERSK,11-13,26000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W40_Bancosta-Weekly-2025-40.pdf
+2025-09-29,40,MARIANETTA,2003,4444,3100,NO,MSC,32-34,34000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W40_Bancosta-Weekly-2025-40.pdf
+2025-09-29,40,TRANSIMEX SUN,2009,1060,770,NO,HEDE,23-25,14500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W40_Bancosta-Weekly-2025-40.pdf
+2025-10-06,41,CONTSHIP ZEN,2014,1070,750,YES,CMA CGM,21-25,15500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W41_Bancosta-Weekly-2025-41.pdf
+2025-10-06,41,GIALOVA,2009,4300,2800,NO,ONE,35-37,30750.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W41_Bancosta-Weekly-2025-41.pdf
+2025-10-06,41,MARINA L,2009,1368,870,YES,CMA CGM,11-13,21000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W41_Bancosta-Weekly-2025-41.pdf
+2025-10-06,41,NORDLEOPARD,2015,1730,1390,NO,MAERSK,22-24,24000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W41_Bancosta-Weekly-2025-41.pdf
+2025-10-13,42,ADRASTOS,2023,1809,1311,NO,CMA CGM,5-6,31.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W42_Bancosta-Weekly-2025-42.pdf
+2025-10-13,42,BARBARA P,1997,942,701,YES,MAERSK,15-17,16.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W42_Bancosta-Weekly-2025-42.pdf
+2025-10-13,42,CXL66,2025,3630,2800,NO,MAERSK,23-25,40.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W42_Bancosta-Weekly-2025-42.pdf
+2025-10-13,42,SKY LIGHT,1996,1042,630,YES,STELLA LINE,18-20,16.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W42_Bancosta-Weekly-2025-42.pdf
+2025-10-27,44,MTT BANGKOK,2024,1792,1370,NO,CMA CGM,19-21,25750.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W44_Bancosta-Weekly-2025-44.pdf
+2025-10-27,44,NAVIOS DEVOTION,2009,4250,3019,NO,MAERSK,23-25,38000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W44_Bancosta-Weekly-2025-44.pdf
+2025-10-27,44,RAPHAELA,2008,1878,1403,NO,CMA CGM,11-13,26250.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W44_Bancosta-Weekly-2025-44.pdf
+2025-10-27,44,RDO LIBERTY,2013,3614,2930,NO,MAERSK,23-25,38000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W44_Bancosta-Weekly-2025-44.pdf
+2025-11-03,45,BIG DOG,2003,1740,1316,NO,MAERSK,12-14,27000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W45_Bancosta-Weekly-2025-45.pdf
+2025-11-03,45,CONTSHIP CUP,2012,1496,1100,NO,ZIM,24-26,21500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W45_Bancosta-Weekly-2025-45.pdf
+2025-11-03,45,MAERSK JAIPUR,2008,2824,2029,NO,MAERSK,23-25,27000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W45_Bancosta-Weekly-2025-45.pdf
+2025-11-03,45,XIAN FENG JU HE,2025,1667,1427,NO,ASL,12-14,20500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W45_Bancosta-Weekly-2025-45.pdf
+2025-11-10,46,HOPE C,2024,1023,710,NO,ASL,11-13,17000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W46_Bancosta-Weekly-2025-46_compressed.pdf
+2025-11-10,46,NAVIOS INDIGO,2007,4241,2801,NO,ZIM,35-37,33500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W46_Bancosta-Weekly-2025-46_compressed.pdf
+2025-11-10,46,NAVIOS VERANO,2006,3450,2370,NO,CMA CGM,35-37,30000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W46_Bancosta-Weekly-2025-46_compressed.pdf
+2025-11-10,46,SONGA LEOPARD,2010,1794,1345,YES,CMA CGM,12-14,32000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W46_Bancosta-Weekly-2025-46_compressed.pdf
+2025-11-17,47,CONTI CONTESSA,2006,8073,6635,NO,ONE,30-36,29000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W47_Bancosta-Weekly-2025-47_compressed.pdf
+2025-11-17,47,ELENA,2027,4382,3286,NO,ZIM,47-49,35500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W47_Bancosta-Weekly-2025-47_compressed.pdf
+2025-11-17,47,MARTI WIND,2008,1368,870,NO,CMA CGM,11-13,20000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W47_Bancosta-Weekly-2025-47_compressed.pdf
+2025-11-17,47,SYNERGY OAKLAND,2009,4353,2900,NO,ZIM,36,33500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W47_Bancosta-Weekly-2025-47_compressed.pdf
+2025-11-24,48,AKACIA,2004,1008,720,NO,UNIFEEDER,11-13,15200.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W48_Bancosta-Weekly-2025-48_compressed.pdf
+2025-11-24,48,KOTA LUKIS,2010,4250,2800,NO,MAERSK,35-37,35000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W48_Bancosta-Weekly-2025-48_compressed.pdf
+2025-11-24,48,REN JIAN 6,1997,1510,1149,NO,SM LINE,10-11,20800.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W48_Bancosta-Weekly-2025-48_compressed.pdf
+2025-11-24,48,SONGA PANTHER,2023,1781,1370,NO,CMA CGM,10-12,31900.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W48_Bancosta-Weekly-2025-48_compressed.pdf
+2025-12-01,49,LILA MUMBAI,2003,1888,1350,YES,CMA-CGM,5-7,23000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W49_Bancosta-Weekly-2025-49_compressed.pdf
+2025-12-01,49,LITTLE SYMPHONY,2022,1781,1369,NO,CMA-CGM,12-14,30750.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W49_Bancosta-Weekly-2025-49_compressed.pdf
+2025-12-01,49,MSC AJACCIO,2014,9403,7100,NO,COSCO,35-37,46000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W49_Bancosta-Weekly-2025-49_compressed.pdf
+2025-12-01,49,ZHONG HANG SHENG,2004,2873,2057,NO,PIL,23-25,29250.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W49_Bancosta-Weekly-2025-49_compressed.pdf
+2025-12-08,50,GREEN EARTH,2020,1809,1215,NO,ZIM,24-26,25000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W50_Bancosta-Weekly-2025-50_compressed.pdf
+2025-12-08,50,GSL MAREN,2014,2546,1903,YES,OOCL,23-25,29000.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W50_Bancosta-Weekly-2025-50_compressed.pdf
+2025-12-08,50,SC MEDFORD,2004,1200,870,NO,COSCO,20-22,16500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W50_Bancosta-Weekly-2025-50_compressed.pdf
+2025-12-08,50,WIEBKE SCHEPERS,2009,1011,610,NO,SEACON,11-13,16500.0,corpus/01-brokers/banchero_costa/2025/banchero_costa_2025_W50_Bancosta-Weekly-2025-50_compressed.pdf
+2026-01-05,2,ANDERSON DRAGON,2008,1708,1260,NO,SITC,Nov-13,21800.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W02_Bancosta-Weekly-2026-02_compressed.pdf
+2026-01-05,2,HEINRICH EHLER,2008,1425,1030,NO,CMA CGM,13-15,19500.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W02_Bancosta-Weekly-2026-02_compressed.pdf
+2026-01-05,2,M. ATLAS,2026,1056,674,NO,SITC,9-Nov,14500.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W02_Bancosta-Weekly-2026-02_compressed.pdf
+2026-01-05,2,MEDKON FUN,2006,966,604,YES,MAERSK,Oct-13,15750.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W02_Bancosta-Weekly-2026-02_compressed.pdf
+2026-01-12,3,CAPE CORFU,2021,2708,2300,NO,HAPAG,34-38,29900.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W03_Bancosta-Weekly-2026-03_compressed.pdf
+2026-01-12,3,CHARM C,2009,2504,1900,YES,COSCO,23-25,29000.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W03_Bancosta-Weekly-2026-03_compressed.pdf
+2026-01-12,3,EAGLE II,2026,1368,870,YES,NIRINT,11-13,19500.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W03_Bancosta-Weekly-2026-03_compressed.pdf
+2026-02-02,6,CONTSHIP REX II,2008,1338,918,YES,CMA CGM,23-25,20000.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W06_Bancosta-Weekly-2026-06_compressed.pdf
+2026-02-02,6,KOTA NAZAR,2009,1800,1325,YES,JINJIANG,Nov-13,28500.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W06_Bancosta-Weekly-2026-06_compressed.pdf
+2026-02-02,6,NORDIC ISTRIA,2011,1082,730,NO,OOCL,17-19,19000.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W06_Bancosta-Weekly-2026-06_compressed.pdf
+2026-02-02,6,SPIL NIKEN,2003,2532,1872,YES,MAERSK,18-22,25000.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W06_Bancosta-Weekly-2026-06_compressed.pdf
+2026-02-09,7,CAPE HELLAS,2021,2708,2300,NO,HAPAG,34-38,29950.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W07_Bancosta-Weekly-2026-07_compressed.pdf
+2026-02-09,7,EM SPETSES,2007,1736,1300,YES,NGSS,22-24,21500.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W07_Bancosta-Weekly-2026-07_compressed.pdf
+2026-02-09,7,LANGENESS,2023,1781,1369,NO,ONE,23-25,24250.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W07_Bancosta-Weekly-2026-07_compressed.pdf
+2026-02-09,7,TRADEWIND,2007,907,625,NO,ARKAS,2-3,17000.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W07_Bancosta-Weekly-2026-07_compressed.pdf
+2026-02-16,8,DEVON,2008,1118,712,NO,SEACON,1-2,17000.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W08_Bancosta-Weekly-2026-08_compressed.pdf
+2026-02-16,8,PORT GDYNIA,2011,3091,2481,NO,CMACGM,25-28,30700.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W08_Bancosta-Weekly-2026-08_compressed.pdf
+2026-02-16,8,WADI ALRAYAN,2000,3013,2212,NO,CMACGM,10-12,30000.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W08_Bancosta-Weekly-2026-08_compressed.pdf
+2026-02-16,8,XIN LONG YUN 86,1998,2169,1661,YES,M-LINE,24,25000.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W08_Bancosta-Weekly-2026-08_compressed.pdf
+2026-04-20,17,IPIOS,2006,1118,700,YES,COSCO,11-13,17500.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W17_Bancosta-Weekly-2026-17_compressed.pdf
+2026-04-20,17,LAN HAI CHANG AN,2024,2206,1934,NO,CMA CGM,12-14,37500.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W17_Bancosta-Weekly-2026-17_compressed.pdf
+2026-04-20,17,OCEAN BREEZE,2000,706,460,NO,KMT,11-13,10900.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W17_Bancosta-Weekly-2026-17_compressed.pdf
+2026-04-20,17,SMOOTH SAILING,2009,1700,1243,NO,NGSS,24,22500.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W17_Bancosta-Weekly-2026-17_compressed.pdf
+2026-05-04,19,HENNEKE RAMBOW,2007,868,600,NO,CMA CGM,11-12,14650.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W19_Bancosta-Weekly-2026-19_compressed.pdf
+2026-05-04,19,HONG LI YUAN YANG,2024,1983,1418,NO,AKKON,23-25,29000.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W19_Bancosta-Weekly-2026-19_compressed.pdf
+2026-05-04,19,SOL UNITY,2006,1577,1185,YES,CMA CGM,2-3,28000.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W19_Bancosta-Weekly-2026-19_compressed.pdf
+2026-05-11,20,KUO LUNG,1998,1367,1120,NO,SAMUDERA,24-28,19000.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W20_Bancosta-Weekly-2026-20_compressed.pdf
+2026-05-11,20,SEA WAVE 5,2007,1118,700,YES,SEABOARD,11-13,17800.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W20_Bancosta-Weekly-2026-20_compressed.pdf
+2026-05-11,20,ZEBRA,2001,2602,1843,YES,MAERSK,22-26,21000.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W20_Bancosta-Weekly-2026-20_compressed.pdf
+2026-05-18,21,BALTRUM,2023,1930,1338,NO,OOCL,23-25,24975.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W21_Bancosta-Weekly-2026-21_compressed.pdf
+2026-05-18,21,CARIBBEAN TRADER,2008,1118,700,YES,COSCO,23-25,17000.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W21_Bancosta-Weekly-2026-21_compressed.pdf
+2026-05-18,21,ST. MARY,2001,1679,1217,NO,CMA CGM,3-4,31000.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W21_Bancosta-Weekly-2026-21_compressed.pdf
+2026-05-18,21,ZHU CHENG XIN ZHOU,2002,2524,1895,NO,PIL,22-24,29000.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W21_Bancosta-Weekly-2026-21_compressed.pdf
+2026-05-25,22,CAPE FELTON,2008,1440,1050,gless,YML,23-25,20000.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W22_Bancosta-Weekly-2026-22_compressed.pdf
+2026-05-25,22,MITO,2006,1118,730,gless,ONE,12-14,17700.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W22_Bancosta-Weekly-2026-22_compressed.pdf
+2026-06-01,23,CONTSHIP ART,2014,1102,705,YES,ZIM,24-26,19000.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W23_Bancosta-Weekly-2026-23.pdf
+2026-06-01,23,CONTSHIP DAY,2010,1496,1100,NO,COSCO,24-26,21000.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W23_Bancosta-Weekly-2026-23.pdf
+2026-06-01,23,FRIDA RUSS,2017,2190,1570,YES,OOCL,30-33,24600.0,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W23_Bancosta-Weekly-2026-23.pdf
+2026-06-08,24,BZ CHONGFU,2000,6078,4160,NO,PIL,23-25,50000,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W24_Bancosta-Weekly-2026-24.pdf
+2026-06-08,24,PEARLTON THRIVE,2026,3928,3174,NO,GFS,23-25,52500,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W24_Bancosta-Weekly-2026-24.pdf
+2026-06-08,24,PEARLTON THRIVE,2026,1781,1300,YES,CMA CGM,23-25,25500,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W24_Bancosta-Weekly-2026-24.pdf
+2026-06-08,24,HONG DA XIN 778,2023,1498,1050,NO,RONG SHANG,20-22,19000,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W24_Bancosta-Weekly-2026-24.pdf
+2026-07-13,29,CONTI ANNAPURNA,2004,8714,6622,NO,MSC,36-38,32000,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W29_Bancosta-Weekly-2026-29.pdf
+2026-07-13,29,ANBIEN BAY,2008,1708,1252,NO,YML,23-25,23200,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W29_Bancosta-Weekly-2026-29.pdf
+2026-07-13,29,MEDKON QUO,2007,960,620,NO,SITC,1-2,16250,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W29_Bancosta-Weekly-2026-29.pdf
+2026-07-20,30,REN JIAN 20,2010,4380,2850,YES,MAERSK,33-36,35500,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W30_Bancosta-Weekly-2026-30.pdf
+2026-07-20,30,MONACO,2006,2824,2029,YES,SEACON,11-13,42000,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W30_Bancosta-Weekly-2026-30.pdf
+2026-07-20,30,COFFEE STELLA,2008,1338,925,NO,UNIFEEDER,23-25,21000,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W30_Bancosta-Weekly-2026-30.pdf
+2026-08-24,35,CAPE FLORES,2005,1200,870,NO,COSCO,23-25,18600,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W35_Bancosta-Weekly-2026-35.pdf
+2026-08-24,35,MEDKON ONO,2007,1180,700,YES,UNIFEEDER,7-12,16450,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W35_Bancosta-Weekly-2026-35.pdf
+2026-08-24,35,TEN NEPTUNE,2007,1030,711,YES,GULFTAINER,11-13,19100,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W35_Bancosta-Weekly-2026-35.pdf
+2026-09-07,37,XIN HONG ZHOU,2026,3316,2980,NO,GFS,23-25,44000,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W37_Bancosta-Weekly-2026-37.pdf
+2026-09-07,37,ZHONG KUAN OCEANGOING,2026,2206,1934,NO,CMA CGM,12-14,38000,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W37_Bancosta-Weekly-2026-37.pdf
+2026-09-07,37,AS FREYA,2004,1208,913,YES,KING OCEAN,20-21,21000,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W37_Bancosta-Weekly-2026-37.pdf
+2026-09-07,37,GLS DA NANG,2026,1056,673,NO,SITC,12-14,18000,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W37_Bancosta-Weekly-2026-37.pdf
+2026-09-07,37,MEDKON QUO,2007,960,620,NO,OMAN,8-10,18700,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W37_Bancosta-Weekly-2026-37.pdf
+2026-09-14,38,ZI YUN,2026,4370,3350,NO,MAERSK,22-26,44500,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W38_Bancosta-Weekly-2026-38.pdf
+2026-09-14,38,ST. MARY,2001,1679,1230,NO,SEA CONSORTIUM,6,36000,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W38_Bancosta-Weekly-2026-38.pdf
+2026-09-14,38,MEDKON RAY,2008,1118,700,YES,HAYLEY LINES,23-25,16450,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W38_Bancosta-Weekly-2026-38.pdf
+2026-09-14,38,ALDEBARAN J,2006,962,580,NO,SEABOARD,12-14,17250,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W38_Bancosta-Weekly-2026-38.pdf
+2026-09-21,39,ATLANTIC EXPRESS,2007,1118,700,YES,CMA CGM,2-4,17000,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
+2026-09-21,39,FU YU,2024,1006,,NO,CU LINES,11-13,17000,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
+2026-09-21,39,COFFEE STAR,2008,990,621,NO,SEA CONSORTIUM,14-16,18250,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
+2026-09-21,39,ATLANTIC GREEN,2006,868,613,NO,X-PRESS FEEDERS,2-3,16150,corpus/01-brokers/banchero_costa/2026/banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf

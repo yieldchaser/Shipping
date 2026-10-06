@@ -1,0 +1,25 @@
+{
+  "issue_date": "2022-09-01",
+  "year": 2022,
+  "title": "Calm Before The Storm",
+  "source_file": "corpus/04-poten/pdfs/2022/Weekly-Opinion-1-September-2022-Calm-Before-The-Storm.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2022-09-01_calm-before-the-storm_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2022/poten_2022-09-01_calm-before-the-storm_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-09-01_calm-before-the-storm_chart1.png",
+      "width": 962,
+      "height": 545
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

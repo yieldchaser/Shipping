@@ -1,0 +1,27 @@
+---
+id: "5C22CB6B-5AAB-49A5-9D3D-D7ACC123AB83"
+source: "Fearnleys"
+sector: "Tanker Route Trends"
+desk: "WAFR/UKC"
+comment_type: "WAFR/UKC"
+comment_subtype: "trend"
+date: "2020-04-01"
+year: 2020
+week: 14
+title: "Fearnleys WAFR/UKC Comment - 2020-04-01"
+---
+
+# Fearnleys WAFR/UKC Comment (2020-04-01)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Sector:** Tanker Route Trends
+- **Desk:** WAFR/UKC
+- **Publication Date:** 2020-04-01 (Week 14)
+- **Comment Type:** WAFR/UKC
+- **Record ID:** `5C22CB6B-5AAB-49A5-9D3D-D7ACC123AB83`
+
+---
+
+## Market Commentary
+
+Active

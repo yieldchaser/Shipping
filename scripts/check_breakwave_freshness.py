@@ -47,6 +47,33 @@ def latest_report_date(category: str) -> date | None:
         d = _parse_iso_date(match.group(1))
         if d and (latest is None or d > latest):
             latest = d
+
+    md_root = REPO_ROOT / "data" / "extracted" / "md" / "breakwave" / category
+    if md_root.exists():
+        for md in md_root.rglob("*.md"):
+            m_md = re.match(r"^(\d{4}-\d{2}-\d{2})_Breakwave_(Dry_Bulk|Tankers)\.md$", md.name, re.IGNORECASE)
+            if m_md:
+                d = _parse_iso_date(m_md.group(1))
+                if d and (latest is None or d > latest):
+                    latest = d
+
+    inv_path = REPO_ROOT / "corpus" / "_inventory_untracked.json"
+    if inv_path.exists():
+        try:
+            data = json.loads(inv_path.read_text(encoding="utf-8"))
+            prefix = f"corpus/03-breakwave/{category}/"
+            for entry in data.get("entries", []):
+                p_str = str(entry.get("path", "")).replace("\\", "/")
+                if p_str.startswith(prefix):
+                    fname = p_str.rsplit("/", 1)[-1]
+                    m_inv = _REPORT_RE.match(fname)
+                    if m_inv:
+                        d = _parse_iso_date(m_inv.group(1))
+                        if d and (latest is None or d > latest):
+                            latest = d
+        except Exception:
+            pass
+
     return latest
 
 

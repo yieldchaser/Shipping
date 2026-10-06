@@ -60,8 +60,18 @@ FREIGHT_UNIT_TOKENS = {
     "usd/feu", "points", "index", "idx", "cbm",
 }
 
-# Account pool for concurrent workers (Accounts 5 to 9)
-ACCOUNTS = [
+# Account pool for concurrent workers (GitHub Secret + Accounts 5 to 9)
+ACCOUNTS = (
+    [
+        {
+            "id": "github_secret",
+            "name": "GitHub Actions Secret (LLAMA_CLOUD_API_KEY)",
+            "api_key": os.environ["LLAMA_CLOUD_API_KEY"].strip(),
+        }
+    ]
+    if os.environ.get("LLAMA_CLOUD_API_KEY", "").strip()
+    else []
+) + [
     {
         "id": "account_5",
         "name": "Account 5 (Prateek Upadhyay)",
@@ -116,7 +126,7 @@ def save_state_entry(stem: str, entry: Dict[str, Any]):
 
 
 def parse_date_and_week(pdf_path: Path) -> Tuple[int, str]:
-    """Extract week number and ISO issue date (YYYY-MM-DD) from PDF."""
+    """Extract week number and ISO issue date (YYYY-MM-DD) from PDF or filename."""
     try:
         doc = pymupdf.open(pdf_path)
         txt = doc[0].get_text() if len(doc) > 0 else ""
@@ -142,13 +152,47 @@ def parse_date_and_week(pdf_path: Path) -> Tuple[int, str]:
     except Exception:
         pass
 
-    # Fallback to filename parsing
-    m2 = re.search(r"banchero_costa_(\d{4})_W?(\d{1,2})", pdf_path.stem)
+    stem = pdf_path.stem
+    # Match banchero_costa_YYYY_WXX
+    m2 = re.search(r"banchero_costa_(\d{4})_W?(\d{1,2})\b", stem)
     if m2:
         yr = int(m2.group(1))
         wk = int(m2.group(2))
         iso_date = dt.date.fromisocalendar(yr, min(wk, 52), 5)
         return wk, iso_date.isoformat()
+
+    # Match HSN scraper filenames: e.g. banchero_costa_02_10_2026_bancosta_weekly_2026_39
+    iso_str = None
+    m_dmy = re.search(r"(\d{2})[_-](\d{2})[_-](20\d{2})", stem)
+    if m_dmy:
+        d, mo, yr = int(m_dmy.group(1)), int(m_dmy.group(2)), int(m_dmy.group(3))
+        if 1 <= mo <= 12 and 1 <= d <= 31:
+            iso_str = f"{yr:04d}-{mo:02d}-{d:02d}"
+    if not iso_str:
+        m_ymd = re.search(r"(20\d{2})[_-](\d{2})[_-](\d{2})", stem)
+        if m_ymd:
+            yr, mo, d = int(m_ymd.group(1)), int(m_ymd.group(2)), int(m_ymd.group(3))
+            if 1 <= mo <= 12 and 1 <= d <= 31:
+                iso_str = f"{yr:04d}-{mo:02d}-{d:02d}"
+
+    wk_num = None
+    m_wk = re.search(r"(?:weekly[_\-]20\d{2}[_\-]|week[_\-]?)(\d{1,2})\b", stem, re.I)
+    if m_wk:
+        wk_num = int(m_wk.group(1))
+
+    if iso_str:
+        if wk_num is None:
+            try:
+                wk_num = dt.date.fromisoformat(iso_str).isocalendar()[1]
+            except Exception:
+                wk_num = 1
+        return wk_num, iso_str
+
+    if wk_num is not None:
+        m_yr = re.search(r"(20\d{2})", stem)
+        yr = int(m_yr.group(1)) if m_yr else 2026
+        iso_date = dt.date.fromisocalendar(yr, min(wk_num, 52), 5)
+        return wk_num, iso_date.isoformat()
 
     return 1, "2026-01-01"
 
@@ -766,6 +810,8 @@ parsed_engine: "LlamaParse tier=cost_effective version=latest"
     out_json_path = MD_OUT_DIR / f"{stem}.tables.json"
     out_json_path.write_text(json.dumps(tables_data, indent=2), encoding="utf-8")
     (year_dir / f"{stem}.tables.json").write_text(json.dumps(tables_data, indent=2), encoding="utf-8")
+    return tables_data
+
 
 
 # --- commodity-table anchors (layout-independent; see the commodity branch below) ---

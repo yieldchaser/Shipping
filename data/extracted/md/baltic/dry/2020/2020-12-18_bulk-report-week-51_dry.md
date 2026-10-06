@@ -1,0 +1,43 @@
+---
+title: "Bulk Report – Week 51"
+date: "2020-12-18"
+display_date: "18 December 2020"
+year: 2020
+week: 51
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2020/bulk-report-week-51.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 733
+sections_count: 4
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2020/2020-12-18_bulk-report-week-51_dry.html"
+---
+
+# Bulk Report – Week 51
+
+**Date:** 18 December 2020  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2020/bulk-report-week-51.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2020/bulk-report-week-51.html)  
+
+---
+
+### Capesize
+
+After a promising start, the Capesize market really came alive on Thursday as Vale made a reappearance, lifting at least a clutch of vessels from Brazil, with $16 appearing to be the C3 Brazil-China high water mark on the Goodship (177,536 2005) for mid January dates. The underlying index climbed $1.98 on the week. The North Atlantic also joined in proceedings, with decent fixing volume, predominantly on the C7 Transatlantic round – with NYK fixing a Mittal 150,000mt Port Cartier to Fos lifting at $11.00, which the market was quick to equate to an approximate $20,000 timecharter equivalent. The C5 West Australia round was a little slower to pick up and, with some of the majors absent, it only rose by 33 cents on the week to reach $7.24 – capped also by many owners not wishing to sell spot levels too far into the New Year. The timecharter average duly gained $2,661 on the week to reach $14,943. Brokers were quick to maintain that the short-term prognosis looked positive.
+
+### Panamax
+
+As we approach the end of the last full working week prior Christmas, the Panamax market had a real holiday feel to things overall as rates gently eased as the week wore on. A few pockets of resistance in some areas with improved demand and positional tightness, but overall it proved to be a week of corrections as bids weakened with some eventually being met as holiday cover became the priority for owners. In the Atlantic, the North stood firm to begin the week with solid mineral demand. But rates slowly eroded parallel to demand, $15,000 concluded on an 82,000-dwt delivery Gibraltar for a US east coast trans-Atlantic trip towards the latter part of the week. In Asia, the market here was essentially Indonesia coal centric, with solid demand to China throughout the week with fixtures agreed on numerous occasions at circa $15,000 for 82,000-dwt. However, support appeared to wane as we approached the weekend.
+
+### Ultramax/Supramax
+
+The last full week for many with Christmas Holidays approaching led to a flurry of activity from key areas such as the US Gulf. The BSI maintained relatively healthy timecharter average closing at $11,631. More period activity surfaced during the week. A 63,000-dwt open US Gulf heard fixing in the mid $17,000s for three to five months trading redelivery Atlantic. Elsewhere, a 60,000-dwt open Laizhou fixing five to seven months redelivery Singapore-Japan at $11,000. In the Atlantic, the US Gulf remained firm with Ultramax size seeing in the low $20,000s for trips to the east Mediterranean and in the upper $20,000s for trips to the east.  East coast south American was tempered, but a 61,000-dwt fixed a trans Atlantic run in the mid teens. From Asia, a bit of a waiting game. A 55,000-dwt open Manila fixing a trip via Indonesia redelivery China at $13,000 and from the Indian Ocean limited activity saw a 61,000-dwt fixing delivery west coast India trip via Red Sea redelivery India at $14,000.
+
+### Handysize
+
+The US Gulf remained firm throughout the week with positive influence from Supramax / Ultramax. Despite tonnage appearing tight in the area, brokers saw pressure to fix with holidays approaching. There was talk of Handy vessels fixing in the mid teens from the Gulf for inter-Caribbean trips and in the $16,000s for transatlantic runs. The HS1 and HS2 route with delivery in Skaw-Passero had minor declines. However, the exact delivery point played an important role in each and every fixture in the range. Compared with the Mediterranean, the market was described to be more Continent driven this week with more support lent. A 36,000-dwt was fixed from Ghazaouet for a trip via west Mediterranean to east coast South America at $11,000. Meanwhile, a smaller-sized open in Poland was fixed for the same direction at $14,000. In the east, an Imabari 38 type delivery in the Far East reached the level of $10,000 for a Nopac run or a 2/3 laden-leg trip with redelivery within the region. On the period front, a 37,000-dwt open Kakinada in end December was fixed for three to five months at $8,400 with redelivery worldwide.
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  

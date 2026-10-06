@@ -1230,6 +1230,30 @@ SUBSECTOR_DATA = [
 # ---------------------------------------------------------------------------
 # Helper functions for robust file linking and verification
 # ---------------------------------------------------------------------------
+CANONICAL_REPO_PREFIX = "c:/Users/Dell/Github/Shipping"
+
+def _canon_uri(path_obj: Path) -> str:
+    try:
+        rel = path_obj.resolve().relative_to(ROOT.resolve()).as_posix()
+        return f"file:///{CANONICAL_REPO_PREFIX}/{rel}"
+    except Exception:
+        return f"file:///{str(path_obj).replace(chr(92), '/')}"
+
+
+def _load_untracked_inventory_paths() -> List[str]:
+    inv_file = ROOT / "corpus" / "_inventory_untracked.json"
+    if not inv_file.exists():
+        return []
+    try:
+        data = json.loads(inv_file.read_text(encoding="utf-8"))
+        return [e["path"].replace("\\", "/") for e in data.get("entries", []) if "path" in e]
+    except Exception:
+        return []
+
+
+UNTRACKED_CORPUS_PATHS: List[str] = _load_untracked_inventory_paths()
+
+
 def resolve_script_link(script_str: str) -> str:
     """Format script string into valid markdown link(s) by finding actual files on disk."""
     parts = [s.strip() for s in script_str.split("&")]
@@ -1253,8 +1277,7 @@ def resolve_script_link(script_str: str) -> str:
             if matches:
                 found_path = matches[0]
         if found_path:
-            posix_path = str(found_path).replace("\\", "/")
-            formatted_parts.append(f"[`{part}`](file:///{posix_path})")
+            formatted_parts.append(f"[`{part}`]({_canon_uri(found_path)})")
         else:
             formatted_parts.append(f"`{part}`")
     return " & ".join(formatted_parts)
@@ -1281,45 +1304,51 @@ def format_series_csv_links(series_csvs_str: str) -> str:
             if matches:
                 found_path = matches[0]
         if found_path:
-            posix_path = str(found_path).replace("\\", "/")
-            res = res.replace(token, f"[`{token}`](file:///{posix_path})")
+            res = res.replace(token, f"[`{token}`]({_canon_uri(found_path)})")
     return res
 
 
 def find_sample_file(base_dir: Path, extensions: Tuple[str, ...]) -> Optional[Path]:
-    """Find a representative sample file within base_dir."""
-    if not base_dir.exists():
-        return None
-    # 1. Check 2026 subfolder if present
-    if (base_dir / "2026").exists():
-        for ext in extensions:
-            matches = [f for f in (base_dir / "2026").glob(f"*{ext}") if not f.name.startswith(".") and not f.name.lower().startswith("readme")]
-            if matches:
-                return sorted(matches)[-1]
-    # 2. Check direct files
-    for ext in extensions:
-        matches = [f for f in base_dir.glob(f"*{ext}") if not f.name.startswith(".") and not f.name.lower().startswith("readme")]
-        if matches:
-            return sorted(matches)[-1]
-    # 3. Check 1 level of subdirectories
-    for sub in sorted(base_dir.iterdir(), reverse=True):
-        if sub.is_dir() and not sub.name.startswith("."):
-            if (sub / "2026").exists():
-                for ext in extensions:
-                    matches = [f for f in (sub / "2026").glob(f"*{ext}") if not f.name.startswith(".") and not f.name.lower().startswith("readme")]
-                    if matches:
-                        return sorted(matches)[-1]
+    """Find a representative sample file within base_dir (or untracked inventory fallback)."""
+    if base_dir.exists():
+        # 1. Check 2026 subfolder if present
+        if (base_dir / "2026").exists():
             for ext in extensions:
-                matches = [f for f in sub.glob(f"*{ext}") if not f.name.startswith(".") and not f.name.lower().startswith("readme")]
+                matches = [f for f in (base_dir / "2026").glob(f"*{ext}") if not f.name.startswith(".") and not f.name.lower().startswith("readme")]
                 if matches:
                     return sorted(matches)[-1]
-            # 4. Check 2 levels of subdirectories
-            for subsub in sorted(sub.iterdir(), reverse=True):
-                if subsub.is_dir() and not subsub.name.startswith("."):
+        # 2. Check direct files
+        for ext in extensions:
+            matches = [f for f in base_dir.glob(f"*{ext}") if not f.name.startswith(".") and not f.name.lower().startswith("readme")]
+            if matches:
+                return sorted(matches)[-1]
+        # 3. Check 1 level of subdirectories
+        for sub in sorted(base_dir.iterdir(), reverse=True):
+            if sub.is_dir() and not sub.name.startswith("."):
+                if (sub / "2026").exists():
                     for ext in extensions:
-                        matches = [f for f in subsub.glob(f"*{ext}") if not f.name.startswith(".") and not f.name.lower().startswith("readme")]
+                        matches = [f for f in (sub / "2026").glob(f"*{ext}") if not f.name.startswith(".") and not f.name.lower().startswith("readme")]
                         if matches:
                             return sorted(matches)[-1]
+                for ext in extensions:
+                    matches = [f for f in sub.glob(f"*{ext}") if not f.name.startswith(".") and not f.name.lower().startswith("readme")]
+                    if matches:
+                        return sorted(matches)[-1]
+                # 4. Check 2 levels of subdirectories
+                for subsub in sorted(sub.iterdir(), reverse=True):
+                    if subsub.is_dir() and not subsub.name.startswith("."):
+                        for ext in extensions:
+                            matches = [f for f in subsub.glob(f"*{ext}") if not f.name.startswith(".") and not f.name.lower().startswith("readme")]
+                            if matches:
+                                return sorted(matches)[-1]
+    # Fallback to untracked corpus inventory if running on CI where PDFs are not checked out
+    try:
+        rel_prefix = base_dir.resolve().relative_to(ROOT.resolve()).as_posix().rstrip("/") + "/"
+        inv_matches = [p for p in UNTRACKED_CORPUS_PATHS if p.startswith(rel_prefix) and p.lower().endswith(extensions)]
+        if inv_matches:
+            return ROOT / sorted(inv_matches)[-1]
+    except Exception:
+        pass
     return None
 
 
@@ -1331,8 +1360,8 @@ def get_sample_links(folder_rel: str, md_dir_rel: str) -> Tuple[str, str]:
     sample_c = find_sample_file(c_folder, (".pdf", ".html", ".md", ".txt"))
     sample_md = find_sample_file(md_folder, (".md", ".csv"))
 
-    c_link = f"[`{sample_c.name}`](file:///{str(sample_c).replace(chr(92), '/')})" if sample_c else "N/A"
-    md_link = f"[`{sample_md.name}`](file:///{str(sample_md).replace(chr(92), '/')})" if sample_md else "N/A"
+    c_link = f"[`{sample_c.name}`]({_canon_uri(sample_c)})" if sample_c else "N/A"
+    md_link = f"[`{sample_md.name}`]({_canon_uri(sample_md)})" if sample_md else "N/A"
     return c_link, md_link
 
 
@@ -1340,7 +1369,8 @@ def get_sample_links(folder_rel: str, md_dir_rel: str) -> Tuple[str, str]:
 # Dynamic Registry and Cadence Refresh Engine
 # ---------------------------------------------------------------------------
 def count_csv_rows(csv_name: str) -> Optional[int]:
-    """Count data rows in a CSV file (lines - 1)."""
+    """Count logical CSV data rows (header excluded) via csv.reader."""
+    import csv as _csv
     for search_dir in [
         ROOT / "data" / "extracted" / "series",
         ROOT / "data" / "indices",
@@ -1350,9 +1380,13 @@ def count_csv_rows(csv_name: str) -> Optional[int]:
         p = search_dir / csv_name
         if p.exists():
             try:
-                with open(p, "rb") as f:
-                    cnt = sum(1 for _ in f)
-                    return max(0, cnt - 1)
+                with open(p, "r", encoding="utf-8", errors="replace", newline="") as f:
+                    reader = _csv.reader(f)
+                    try:
+                        next(reader)
+                    except StopIteration:
+                        return 0
+                    return sum(1 for row in reader if row)
             except Exception:
                 pass
     return None
@@ -1404,45 +1438,62 @@ def parse_date_from_filename(filename: str) -> Optional[date]:
 
 def refresh_registry_data(today: date) -> None:
     """Dynamically refresh file counts, latest dates, days elapsed, and row counts across REGISTRY_DATA."""
+    global UNTRACKED_CORPUS_PATHS
+    UNTRACKED_CORPUS_PATHS = _load_untracked_inventory_paths()
+
     for item in REGISTRY_DATA:
         c_folder = ROOT / item["folder"]
         md_folder = ROOT / item["md_dir"]
+        folder_prefix = item["folder"].replace("\\", "/").rstrip("/") + "/"
 
         best_date = None
         best_file = None
 
-        # 1. Single-pass traversal of corpus folder
+        # 1. Union of on-disk corpus files and untracked inventory entries
+        corpus_rel_files = set()
         if c_folder.exists():
+            for root, dirs, files in os.walk(c_folder):
+                for fname in files:
+                    if fname.startswith("."):
+                        continue
+                    rel_p = (Path(root) / fname).resolve().relative_to(ROOT.resolve()).as_posix()
+                    corpus_rel_files.add(rel_p)
+
+        for inv_p in UNTRACKED_CORPUS_PATHS:
+            if inv_p.startswith(folder_prefix):
+                fname = os.path.basename(inv_p)
+                if not fname.startswith("."):
+                    corpus_rel_files.add(inv_p)
+
+        if corpus_rel_files:
             pdf_cnt = 0
             html_cnt = 0
             img_cnt = 0
             corpus_md_cnt = 0
             total_cnt = 0
-            for root, dirs, files in os.walk(c_folder):
-                for fname in files:
-                    if fname.startswith("."):
-                        continue
-                    total_cnt += 1
-                    lower = fname.lower()
-                    if lower.endswith(".pdf"):
-                        pdf_cnt += 1
-                    elif lower.endswith((".html", ".htm")):
-                        html_cnt += 1
-                    elif lower.endswith((".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg")):
-                        img_cnt += 1
-                    elif lower.endswith(".md"):
-                        corpus_md_cnt += 1
+            for rel_p in corpus_rel_files:
+                fname = os.path.basename(rel_p)
+                total_cnt += 1
+                lower = fname.lower()
+                if lower.endswith(".pdf"):
+                    pdf_cnt += 1
+                elif lower.endswith((".html", ".htm")):
+                    html_cnt += 1
+                elif lower.endswith((".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg")):
+                    img_cnt += 1
+                elif lower.endswith(".md"):
+                    corpus_md_cnt += 1
 
-                    d = parse_date_from_filename(fname)
-                    if d and (best_date is None or d > best_date):
-                        best_date = d
-                        best_file = fname
+                d = parse_date_from_filename(fname)
+                if d and (best_date is None or d > best_date):
+                    best_date = d
+                    best_file = fname
 
-            item["pdf_count"] = pdf_cnt
-            item["html_count"] = html_cnt
-            item["image_count"] = img_cnt
-            item["corpus_md_count"] = corpus_md_cnt
-            item["total_files"] = total_cnt
+            item["pdf_count"] = max(pdf_cnt, item.get("pdf_count", 0))
+            item["html_count"] = max(html_cnt, item.get("html_count", 0))
+            item["image_count"] = max(img_cnt, item.get("image_count", 0))
+            item["corpus_md_count"] = max(corpus_md_cnt, item.get("corpus_md_count", 0))
+            item["total_files"] = max(total_cnt, item.get("total_files", 0))
 
         # 2. Single-pass traversal of markdown folder
         if md_folder.exists() and md_folder != c_folder:
@@ -1469,9 +1520,9 @@ def refresh_registry_data(today: date) -> None:
                     if d and (best_date is None or d > best_date):
                         best_date = d
                         best_file = fname
-            item["md_count"] = md_cnt
-        elif c_folder.exists():
-            item["md_count"] = item.get("corpus_md_count", 0)
+            item["md_count"] = max(md_cnt, item.get("md_count", 0))
+        elif corpus_rel_files and md_folder == c_folder:
+            item["md_count"] = max(item.get("corpus_md_count", 0), item.get("md_count", 0))
 
         if best_date:
             init_date = None
@@ -1519,6 +1570,7 @@ def refresh_registry_data(today: date) -> None:
             cnt = count_csv_rows(csv_name)
             if cnt is not None:
                 sub["data_points"] = f"{cnt:,} rows"
+
 
 
 # ---------------------------------------------------------------------------
@@ -1938,10 +1990,19 @@ def generate_markdown_audit():
         ""
     ])
 
-    target_md = ROOT / "corpus" / "CORPUS_REGISTRY_AND_CADENCE_AUDIT.md"
-    target_md.write_text("\n".join(md_lines), encoding="utf-8", newline="\n")
+    raw_root_posix = str(ROOT).replace("\\", "/")
+    final_md_text = "\n".join(md_lines).replace(
+        f"file:///{raw_root_posix}", f"file:///{CANONICAL_REPO_PREFIX}"
+    )
 
-    print(f"Generated Markdown reference at: {target_md}")
+    target_md = ROOT / "corpus" / "CORPUS_REGISTRY_AND_CADENCE_AUDIT.md"
+    target_md.write_text(final_md_text, encoding="utf-8", newline="\n")
+
+    docs_md = ROOT / "docs" / "CORPUS_CADENCE_AND_AUDIT.md"
+    docs_md.parent.mkdir(parents=True, exist_ok=True)
+    docs_md.write_text(final_md_text, encoding="utf-8", newline="\n")
+
+    print(f"Generated Markdown reference at: {target_md} and {docs_md}")
 
 
 # ---------------------------------------------------------------------------

@@ -1,0 +1,287 @@
+{
+  "vessel_class": "Aframax",
+  "sector": "Crude Tankers",
+  "source_file": "Drewry_AIS_Crude_Aframax_Week39_2026.pdf",
+  "metrics_summary": {
+    "vessel_class": "Aframax",
+    "sector": "Crude Tankers",
+    "source_file": "Drewry_AIS_Crude_Aframax_Week39_2026.pdf",
+    "fleet_performance_points": 1486,
+    "regional_congestion_points": 566,
+    "deployment_speed_points": 273,
+    "utilisation_points": 142,
+    "total_points": 2467
+  },
+  "sample_fleet_performance": [
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Aframax",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 1,
+      "date": "2022-01-05",
+      "value_mdwt": 16.88,
+      "source_file": "Drewry_AIS_Crude_Aframax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Aframax",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 2,
+      "date": "2022-01-12",
+      "value_mdwt": 16.69,
+      "source_file": "Drewry_AIS_Crude_Aframax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Aframax",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 3,
+      "date": "2022-01-19",
+      "value_mdwt": 18.22,
+      "source_file": "Drewry_AIS_Crude_Aframax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Aframax",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 4,
+      "date": "2022-01-26",
+      "value_mdwt": 18.17,
+      "source_file": "Drewry_AIS_Crude_Aframax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Aframax",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 5,
+      "date": "2022-02-02",
+      "value_mdwt": 17.53,
+      "source_file": "Drewry_AIS_Crude_Aframax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Aframax",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 6,
+      "date": "2022-02-09",
+      "value_mdwt": 18.47,
+      "source_file": "Drewry_AIS_Crude_Aframax_Week39_2026.pdf"
+    }
+  ],
+  "sample_regional_congestion": [
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Aframax",
+      "region": "China",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 1,
+      "date": "2024-01-03",
+      "value_mdwt": 1.32,
+      "source_file": "Drewry_AIS_Crude_Aframax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Aframax",
+      "region": "China",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 2,
+      "date": "2024-01-10",
+      "value_mdwt": 1.32,
+      "source_file": "Drewry_AIS_Crude_Aframax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Aframax",
+      "region": "China",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 3,
+      "date": "2024-01-17",
+      "value_mdwt": 0.72,
+      "source_file": "Drewry_AIS_Crude_Aframax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Aframax",
+      "region": "China",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 4,
+      "date": "2024-01-24",
+      "value_mdwt": 0.55,
+      "source_file": "Drewry_AIS_Crude_Aframax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Aframax",
+      "region": "China",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 5,
+      "date": "2024-01-31",
+      "value_mdwt": 0.6,
+      "source_file": "Drewry_AIS_Crude_Aframax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Aframax",
+      "region": "China",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 6,
+      "date": "2024-02-07",
+      "value_mdwt": 0.75,
+      "source_file": "Drewry_AIS_Crude_Aframax_Week39_2026.pdf"
+    }
+  ],
+  "sample_deployment_speed": [
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Aframax",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 1,
+      "date": "2025-01-01",
+      "value": 99.86,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Crude_Aframax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Aframax",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 2,
+      "date": "2025-01-08",
+      "value": 91.92,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Crude_Aframax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Aframax",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 3,
+      "date": "2025-01-15",
+      "value": 93.13,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Crude_Aframax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Aframax",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 4,
+      "date": "2025-01-22",
+      "value": 91.6,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Crude_Aframax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Aframax",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 5,
+      "date": "2025-01-29",
+      "value": 91.14,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Crude_Aframax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Aframax",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 6,
+      "date": "2025-02-05",
+      "value": 96.58,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Crude_Aframax_Week39_2026.pdf"
+    }
+  ],
+  "sample_utilisation": [
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Aframax",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 1,
+      "date": "2025-01-01",
+      "value_pct": 89.96,
+      "source_file": "Drewry_AIS_Crude_Aframax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Aframax",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 2,
+      "date": "2025-01-08",
+      "value_pct": 91.12,
+      "source_file": "Drewry_AIS_Crude_Aframax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Aframax",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 3,
+      "date": "2025-01-15",
+      "value_pct": 88.38,
+      "source_file": "Drewry_AIS_Crude_Aframax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Aframax",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 4,
+      "date": "2025-01-22",
+      "value_pct": 89.4,
+      "source_file": "Drewry_AIS_Crude_Aframax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Aframax",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 5,
+      "date": "2025-01-29",
+      "value_pct": 88.65,
+      "source_file": "Drewry_AIS_Crude_Aframax_Week39_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Aframax",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 6,
+      "date": "2025-02-05",
+      "value_pct": 90.36,
+      "source_file": "Drewry_AIS_Crude_Aframax_Week39_2026.pdf"
+    }
+  ]
+}

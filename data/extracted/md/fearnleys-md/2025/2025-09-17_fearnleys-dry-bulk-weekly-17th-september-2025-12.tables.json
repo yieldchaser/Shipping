@@ -1,0 +1,69 @@
+{
+  "report_id": "a7b7d051-2b47-43c1-8e28-79f911978e1a",
+  "issue_date": "2025-09-17",
+  "year": 2025,
+  "department": "BULK",
+  "report_title": "Fearnleys Dry Bulk Weekly",
+  "shipment_volume_metrics": [],
+  "coal_futures_spread_metrics": [
+    {
+      "issue_date": "2025-09-17",
+      "year": "2025",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "p5_kamsarmax_indonesia_rv_usd_day": 13558.28,
+      "p5_4w_prev_usd_day": 14049.08,
+      "newcastle_coal_futures_spread_lead_2m": 3.54,
+      "coal_spread_4w_prev": -23.88,
+      "lead_tenor": "2 Months",
+      "chart_title": "P5 vs Newcastle Coal Futures Spread Lead",
+      "source_image": "P5 vs Newcastle Coal Futures Spread Lead.png",
+      "report_id": "a7b7d051-2b47-43c1-8e28-79f911978e1a"
+    }
+  ],
+  "time_charter_vs_asset_metrics": [],
+  "vessel_tightness_metrics": [
+    {
+      "issue_date": "2025-09-17",
+      "year": "2025",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "chart_family": "CAPENEWC BALLASTER LADEN VESSEL RATIO.png",
+      "indicator_metric": "Indicator Metric",
+      "indicator_val": 728.0,
+      "freight_benchmark": "Freight Benchmark",
+      "freight_benchmark_val": "",
+      "lead_tenor": "Concurrent",
+      "report_id": "a7b7d051-2b47-43c1-8e28-79f911978e1a"
+    },
+    {
+      "issue_date": "2025-09-17",
+      "year": "2025",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "chart_family": "supraultra ballaster laden vessel ratio.png",
+      "indicator_metric": "Indicator Metric",
+      "indicator_val": 693.0,
+      "freight_benchmark": "Freight Benchmark",
+      "freight_benchmark_val": "",
+      "lead_tenor": "Concurrent",
+      "report_id": "a7b7d051-2b47-43c1-8e28-79f911978e1a"
+    }
+  ],
+  "macro_correlation_metrics": [
+    {
+      "issue_date": "2025-09-17",
+      "year": "2025",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "macro_metric": "Steel Mill Profitability vs Hot Metal Output",
+      "freight_benchmark_val": 69.5,
+      "macro_indicator_val": 2.4,
+      "lead_tenor": "7 Weeks Lead",
+      "chart_title": "STEEL MILL PROFITABILITY VS HOT METAL OUTPUT.png",
+      "report_id": "a7b7d051-2b47-43c1-8e28-79f911978e1a"
+    }
+  ],
+  "charts_count": 12,
+  "source_markdown": "2025-09-17_fearnleys-dry-bulk-weekly-17th-september-2025-12.md"
+}

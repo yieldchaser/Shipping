@@ -665,58 +665,72 @@ def run_baltic_pipeline():
             if idx % 500 == 0 or idx == len(all_files):
                 print(f'Processed {idx}/{len(all_files)} files ({idx/(time.time() - t_start):.1f} files/sec)...')
 
-    # Sort metadata chronologically
-    all_metadata.sort(key=lambda x: (x['issue_date'] or '', x['category'], x['title']))
-
-    # Write Master Metadata Catalog
+    # Sort metadata chronologically and upsert into baltic_reports_metadata.csv
     meta_path = 'data/extracted/series/baltic_reports_metadata.csv'
-    with open(meta_path, 'w', encoding='utf-8', newline='') as mf:
-        fieldnames = ['issue_date', 'year', 'week', 'category', 'title', 'word_count', 'sections_count', 'tables_count', 'url', 'source_file', 'md_file']
-        writer = csv.DictWriter(mf, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(all_metadata)
+    meta_fields = ['issue_date', 'year', 'week', 'category', 'title', 'word_count', 'sections_count', 'tables_count', 'url', 'source_file', 'md_file']
+    existing_meta = {}
+    if os.path.exists(meta_path) and os.path.getsize(meta_path) > 0:
+        try:
+            with open(meta_path, 'r', encoding='utf-8', errors='replace') as rf:
+                for row in csv.DictReader(rf):
+                    existing_meta[row.get('source_file', '')] = row
+        except Exception:
+            pass
+    for row in all_metadata:
+        existing_meta[row.get('source_file', '')] = {c: row.get(c, '') for c in meta_fields}
+    if existing_meta:
+        merged_meta = sorted(existing_meta.values(), key=lambda x: (str(x.get('issue_date') or ''), str(x.get('category') or ''), str(x.get('title') or '')))
+        with open(meta_path, 'w', encoding='utf-8', newline='') as mf:
+            writer = csv.DictWriter(mf, fieldnames=meta_fields)
+            writer.writeheader()
+            writer.writerows(merged_meta)
 
-    # Sort and Write Master NCFI Series CSV
-    all_ncfi_rows.sort(key=lambda x: (x['issue_date'] or '', x['route']))
-
-    # Dedup: two Wayback captures of the SAME Ningbo page yield value-identical rows.
-    # Measured 2026-10-03: 148 duplicate rows across 144 keys (140 pairs + 4 triples),
-    # 2,180 -> 2,032 rows, 0 distinct (issue_date, route) lost. Keep one row per key,
-    # preferring the capture whose filename date == issue_date.
+    # Sort and Upsert Master NCFI Series CSV
     def _capture_date(sf):
         m = re.search(r'(\d{4}-\d{2}-\d{2})', os.path.basename(sf or ''))
         return m.group(1) if m else None
 
+    ncfi_path = 'data/extracted/series/baltic_ncfi_series.csv'
+    ncfi_fields = ['issue_date', 'year', 'week', 'route', 'index_current', 'index_prev', 'weekly_change_pct', 'source_file']
+    combined_ncfi = []
+    if os.path.exists(ncfi_path) and os.path.getsize(ncfi_path) > 0:
+        try:
+            with open(ncfi_path, 'r', encoding='utf-8', errors='replace') as rf:
+                combined_ncfi.extend(list(csv.DictReader(rf)))
+        except Exception:
+            pass
+    combined_ncfi.extend(all_ncfi_rows)
+    combined_ncfi.sort(key=lambda x: (str(x.get('issue_date') or ''), str(x.get('route') or '')))
+
     _pos = {}
     _deduped = []
     _dropped = 0
-    for _r in all_ncfi_rows:
-        _k = (_r['issue_date'], _r['year'], _r['week'], _r['route'],
-              _r['index_current'], _r['index_prev'], _r['weekly_change_pct'])
+    for _r in combined_ncfi:
+        _k = (str(_r.get('issue_date', '')), str(_r.get('year', '')), str(_r.get('week', '')), str(_r.get('route', '')),
+              str(_r.get('index_current', '')), str(_r.get('index_prev', '')), str(_r.get('weekly_change_pct', '')))
         if _k not in _pos:
             _pos[_k] = len(_deduped)
-            _deduped.append(_r)
+            _deduped.append({c: _r.get(c, '') for c in ncfi_fields})
         else:
             _i = _pos[_k]
             _cur = _deduped[_i]
-            if (_capture_date(_r['source_file']) == _r['issue_date']
-                    and _capture_date(_cur['source_file']) != _cur['issue_date']):
-                _deduped[_i] = _r
+            if (_capture_date(_r.get('source_file')) == str(_r.get('issue_date'))
+                    and _capture_date(_cur.get('source_file')) != str(_cur.get('issue_date'))):
+                _deduped[_i] = {c: _r.get(c, '') for c in ncfi_fields}
             _dropped += 1
     all_ncfi_rows = _deduped
     print(f'[dedup] dropped {_dropped} duplicate NCFI row(s); {len(all_ncfi_rows)} rows remain')
 
-    ncfi_path = 'data/extracted/series/baltic_ncfi_series.csv'
-    with open(ncfi_path, 'w', encoding='utf-8', newline='') as nf:
-        fieldnames = ['issue_date', 'year', 'week', 'route', 'index_current', 'index_prev', 'weekly_change_pct', 'source_file']
-        writer = csv.DictWriter(nf, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(all_ncfi_rows)
+    if all_ncfi_rows:
+        with open(ncfi_path, 'w', encoding='utf-8', newline='') as nf:
+            writer = csv.DictWriter(nf, fieldnames=ncfi_fields)
+            writer.writeheader()
+            writer.writerows(all_ncfi_rows)
 
     t_total = time.time() - t_start
     print('\nBaltic Exchange Pipeline Complete!')
-    print(f'Total reports converted: {len(all_metadata)} (Errors: {total_errors}) in {t_total:.1f}s')
-    print(f'Master metadata catalog: {meta_path} ({len(all_metadata)} rows)')
+    print(f'Total reports converted this run: {len(all_metadata)} (Errors: {total_errors}) in {t_total:.1f}s')
+    print(f'Master metadata catalog: {meta_path} ({len(existing_meta)} rows)')
     print(f'Master NCFI series: {ncfi_path} ({len(all_ncfi_rows)} rows)')
 
 if __name__ == '__main__':

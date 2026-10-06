@@ -1,0 +1,527 @@
+[
+  {
+    "headers": [
+      "week",
+      "2022 year",
+      "2023 year",
+      "2024 year"
+    ],
+    "rows": [
+      {
+        "week": "1",
+        "2022 year": "23",
+        "2023 year": "32",
+        "2024 year": "35"
+      },
+      {
+        "week": "4",
+        "2022 year": "20",
+        "2023 year": "30",
+        "2024 year": "30"
+      },
+      {
+        "week": "7",
+        "2022 year": "21",
+        "2023 year": "33",
+        "2024 year": "30"
+      },
+      {
+        "week": "10",
+        "2022 year": "21",
+        "2023 year": "34",
+        "2024 year": "29"
+      },
+      {
+        "week": "13",
+        "2022 year": "--",
+        "2023 year": "35",
+        "2024 year": "--"
+      },
+      {
+        "week": "16",
+        "2022 year": "--",
+        "2023 year": "36",
+        "2024 year": "--"
+      },
+      {
+        "week": "19",
+        "2022 year": "--",
+        "2023 year": "36",
+        "2024 year": "--"
+      },
+      {
+        "week": "22",
+        "2022 year": "--",
+        "2023 year": "30",
+        "2024 year": "--"
+      },
+      {
+        "week": "25",
+        "2022 year": "--",
+        "2023 year": "30",
+        "2024 year": "--"
+      },
+      {
+        "week": "28",
+        "2022 year": "--",
+        "2023 year": "30",
+        "2024 year": "--"
+      },
+      {
+        "week": "31",
+        "2022 year": "--",
+        "2023 year": "30",
+        "2024 year": "--"
+      },
+      {
+        "week": "34",
+        "2022 year": "44",
+        "2023 year": "--",
+        "2024 year": "--"
+      },
+      {
+        "week": "37",
+        "2022 year": "44",
+        "2023 year": "--",
+        "2024 year": "--"
+      },
+      {
+        "week": "40",
+        "2022 year": "47",
+        "2023 year": "67",
+        "2024 year": "--"
+      },
+      {
+        "week": "43",
+        "2022 year": "56",
+        "2023 year": "47",
+        "2024 year": "--"
+      },
+      {
+        "week": "46",
+        "2022 year": "48",
+        "2023 year": "41",
+        "2024 year": "--"
+      },
+      {
+        "week": "49",
+        "2022 year": "43",
+        "2023 year": "42",
+        "2024 year": "--"
+      },
+      {
+        "week": "52",
+        "2022 year": "35",
+        "2023 year": "35",
+        "2024 year": "--"
+      }
+    ],
+    "table_id": "table_01",
+    "issue_date": "2024-03-08",
+    "report_week": 10,
+    "source_file": "star_asia_2024_W10_ISM_handy_week10.pdf",
+    "table_type": "market_data"
+  },
+  {
+    "headers": [
+      "week",
+      "2022 year",
+      "2023 year",
+      "2024 year"
+    ],
+    "rows": [
+      {
+        "week": "1",
+        "2022 year": "17",
+        "2023 year": "7",
+        "2024 year": "10"
+      },
+      {
+        "week": "4",
+        "2022 year": "14",
+        "2023 year": "8",
+        "2024 year": "9"
+      },
+      {
+        "week": "7",
+        "2022 year": "26",
+        "2023 year": "10",
+        "2024 year": "10"
+      },
+      {
+        "week": "10",
+        "2022 year": "34",
+        "2023 year": "14",
+        "2024 year": "13"
+      },
+      {
+        "week": "13",
+        "2022 year": "34",
+        "2023 year": "11",
+        "2024 year": "12"
+      },
+      {
+        "week": "16",
+        "2022 year": "20",
+        "2023 year": "8",
+        "2024 year": "--"
+      },
+      {
+        "week": "19",
+        "2022 year": "26",
+        "2023 year": "8",
+        "2024 year": "--"
+      },
+      {
+        "week": "22",
+        "2022 year": "28",
+        "2023 year": "7",
+        "2024 year": "--"
+      },
+      {
+        "week": "25",
+        "2022 year": "16",
+        "2023 year": "6",
+        "2024 year": "--"
+      },
+      {
+        "week": "28",
+        "2022 year": "15",
+        "2023 year": "8",
+        "2024 year": "--"
+      },
+      {
+        "week": "31",
+        "2022 year": "16",
+        "2023 year": "9",
+        "2024 year": "--"
+      },
+      {
+        "week": "34",
+        "2022 year": "17",
+        "2023 year": "10",
+        "2024 year": "--"
+      },
+      {
+        "week": "37",
+        "2022 year": "16",
+        "2023 year": "13",
+        "2024 year": "--"
+      },
+      {
+        "week": "40",
+        "2022 year": "10",
+        "2023 year": "13",
+        "2024 year": "--"
+      },
+      {
+        "week": "43",
+        "2022 year": "10",
+        "2023 year": "9",
+        "2024 year": "--"
+      },
+      {
+        "week": "46",
+        "2022 year": "9",
+        "2023 year": "11",
+        "2024 year": "--"
+      },
+      {
+        "week": "49",
+        "2022 year": "10",
+        "2023 year": "11",
+        "2024 year": "--"
+      },
+      {
+        "week": "52",
+        "2022 year": "9",
+        "2023 year": "11",
+        "2024 year": "--"
+      }
+    ],
+    "table_id": "table_02",
+    "issue_date": "2024-03-08",
+    "report_week": 10,
+    "source_file": "star_asia_2024_W10_ISM_handy_week10.pdf",
+    "table_type": "market_data"
+  },
+  {
+    "headers": [
+      "week",
+      "Handysize, BIsSea - EMed (bss dely psg Canakkale)",
+      "Supramax, ECSA - Cont (bss dely APS)",
+      "Supramax, Continent - EMed (bss dely APS)",
+      "Handysize, Continent - EMed (bss dely APS)",
+      "Supramax, PG (exd. I/I) - India (bss dely APS)",
+      "Supramax, Indo - India (bss dely Spore)"
+    ],
+    "rows": [
+      {
+        "week": "11",
+        "Handysize, BIsSea - EMed (bss dely psg Canakkale)": "10,000",
+        "Supramax, ECSA - Cont (bss dely APS)": "18,000",
+        "Supramax, Continent - EMed (bss dely APS)": "13,000",
+        "Handysize, Continent - EMed (bss dely APS)": "13,500",
+        "Supramax, PG (exd. I/I) - India (bss dely APS)": "21,000",
+        "Supramax, Indo - India (bss dely Spore)": "18,000"
+      },
+      {
+        "week": "14",
+        "Handysize, BIsSea - EMed (bss dely psg Canakkale)": "9500",
+        "Supramax, ECSA - Cont (bss dely APS)": "17,500",
+        "Supramax, Continent - EMed (bss dely APS)": "12,500",
+        "Handysize, Continent - EMed (bss dely APS)": "12,000",
+        "Supramax, PG (exd. I/I) - India (bss dely APS)": "18,000",
+        "Supramax, Indo - India (bss dely Spore)": "16,000"
+      },
+      {
+        "week": "17",
+        "Handysize, BIsSea - EMed (bss dely psg Canakkale)": "9000",
+        "Supramax, ECSA - Cont (bss dely APS)": "17,000",
+        "Supramax, Continent - EMed (bss dely APS)": "12,000",
+        "Handysize, Continent - EMed (bss dely APS)": "11,500",
+        "Supramax, PG (exd. I/I) - India (bss dely APS)": "17,000",
+        "Supramax, Indo - India (bss dely Spore)": "15,000"
+      },
+      {
+        "week": "20",
+        "Handysize, BIsSea - EMed (bss dely psg Canakkale)": "8500",
+        "Supramax, ECSA - Cont (bss dely APS)": "16,000",
+        "Supramax, Continent - EMed (bss dely APS)": "11,000",
+        "Handysize, Continent - EMed (bss dely APS)": "10,000",
+        "Supramax, PG (exd. I/I) - India (bss dely APS)": "15,000",
+        "Supramax, Indo - India (bss dely Spore)": "14,000"
+      },
+      {
+        "week": "23",
+        "Handysize, BIsSea - EMed (bss dely psg Canakkale)": "4000",
+        "Supramax, ECSA - Cont (bss dely APS)": "14,000",
+        "Supramax, Continent - EMed (bss dely APS)": "10,000",
+        "Handysize, Continent - EMed (bss dely APS)": "8000",
+        "Supramax, PG (exd. I/I) - India (bss dely APS)": "13,000",
+        "Supramax, Indo - India (bss dely Spore)": "12,000"
+      },
+      {
+        "week": "26",
+        "Handysize, BIsSea - EMed (bss dely psg Canakkale)": "4500",
+        "Supramax, ECSA - Cont (bss dely APS)": "13,000",
+        "Supramax, Continent - EMed (bss dely APS)": "9500",
+        "Handysize, Continent - EMed (bss dely APS)": "7500",
+        "Supramax, PG (exd. I/I) - India (bss dely APS)": "12,000",
+        "Supramax, Indo - India (bss dely Spore)": "11,000"
+      },
+      {
+        "week": "29",
+        "Handysize, BIsSea - EMed (bss dely psg Canakkale)": "5000",
+        "Supramax, ECSA - Cont (bss dely APS)": "12,000",
+        "Supramax, Continent - EMed (bss dely APS)": "9000",
+        "Handysize, Continent - EMed (bss dely APS)": "8000",
+        "Supramax, PG (exd. I/I) - India (bss dely APS)": "11,000",
+        "Supramax, Indo - India (bss dely Spore)": "10,000"
+      },
+      {
+        "week": "32",
+        "Handysize, BIsSea - EMed (bss dely psg Canakkale)": "6000",
+        "Supramax, ECSA - Cont (bss dely APS)": "13,000",
+        "Supramax, Continent - EMed (bss dely APS)": "10,000",
+        "Handysize, Continent - EMed (bss dely APS)": "9000",
+        "Supramax, PG (exd. I/I) - India (bss dely APS)": "10,000",
+        "Supramax, Indo - India (bss dely Spore)": "10,000"
+      },
+      {
+        "week": "35",
+        "Handysize, BIsSea - EMed (bss dely psg Canakkale)": "14,000",
+        "Supramax, ECSA - Cont (bss dely APS)": "18,000",
+        "Supramax, Continent - EMed (bss dely APS)": "21,000",
+        "Handysize, Continent - EMed (bss dely APS)": "10,000",
+        "Supramax, PG (exd. I/I) - India (bss dely APS)": "18,000",
+        "Supramax, Indo - India (bss dely Spore)": "14,000"
+      },
+      {
+        "week": "38",
+        "Handysize, BIsSea - EMed (bss dely psg Canakkale)": "15,000",
+        "Supramax, ECSA - Cont (bss dely APS)": "19,000",
+        "Supramax, Continent - EMed (bss dely APS)": "22,000",
+        "Handysize, Continent - EMed (bss dely APS)": "11,000",
+        "Supramax, PG (exd. I/I) - India (bss dely APS)": "19,000",
+        "Supramax, Indo - India (bss dely Spore)": "15,000"
+      },
+      {
+        "week": "41",
+        "Handysize, BIsSea - EMed (bss dely psg Canakkale)": "14,000",
+        "Supramax, ECSA - Cont (bss dely APS)": "18,000",
+        "Supramax, Continent - EMed (bss dely APS)": "20,000",
+        "Handysize, Continent - EMed (bss dely APS)": "10,000",
+        "Supramax, PG (exd. I/I) - India (bss dely APS)": "17,000",
+        "Supramax, Indo - India (bss dely Spore)": "14,000"
+      },
+      {
+        "week": "44",
+        "Handysize, BIsSea - EMed (bss dely psg Canakkale)": "8000",
+        "Supramax, ECSA - Cont (bss dely APS)": "10,000",
+        "Supramax, Continent - EMed (bss dely APS)": "10,000",
+        "Handysize, Continent - EMed (bss dely APS)": "9000",
+        "Supramax, PG (exd. I/I) - India (bss dely APS)": "11,000",
+        "Supramax, Indo - India (bss dely Spore)": "11,000"
+      },
+      {
+        "week": "47",
+        "Handysize, BIsSea - EMed (bss dely psg Canakkale)": "7000",
+        "Supramax, ECSA - Cont (bss dely APS)": "9000",
+        "Supramax, Continent - EMed (bss dely APS)": "10,000",
+        "Handysize, Continent - EMed (bss dely APS)": "8000",
+        "Supramax, PG (exd. I/I) - India (bss dely APS)": "10,000",
+        "Supramax, Indo - India (bss dely Spore)": "10,000"
+      },
+      {
+        "week": "50",
+        "Handysize, BIsSea - EMed (bss dely psg Canakkale)": "9000",
+        "Supramax, ECSA - Cont (bss dely APS)": "15,000",
+        "Supramax, Continent - EMed (bss dely APS)": "31,000",
+        "Handysize, Continent - EMed (bss dely APS)": "28,000",
+        "Supramax, PG (exd. I/I) - India (bss dely APS)": "17,000",
+        "Supramax, Indo - India (bss dely Spore)": "16,000"
+      },
+      {
+        "week": "1",
+        "Handysize, BIsSea - EMed (bss dely psg Canakkale)": "16,000",
+        "Supramax, ECSA - Cont (bss dely APS)": "17,000",
+        "Supramax, Continent - EMed (bss dely APS)": "24,000",
+        "Handysize, Continent - EMed (bss dely APS)": "16,000",
+        "Supramax, PG (exd. I/I) - India (bss dely APS)": "18,000",
+        "Supramax, Indo - India (bss dely Spore)": "17,000"
+      },
+      {
+        "week": "4",
+        "Handysize, BIsSea - EMed (bss dely psg Canakkale)": "12,000",
+        "Supramax, ECSA - Cont (bss dely APS)": "16,000",
+        "Supramax, Continent - EMed (bss dely APS)": "18,000",
+        "Handysize, Continent - EMed (bss dely APS)": "14,000",
+        "Supramax, PG (exd. I/I) - India (bss dely APS)": "17,000",
+        "Supramax, Indo - India (bss dely Spore)": "15,000"
+      },
+      {
+        "week": "7",
+        "Handysize, BIsSea - EMed (bss dely psg Canakkale)": "11,000",
+        "Supramax, ECSA - Cont (bss dely APS)": "15,000",
+        "Supramax, Continent - EMed (bss dely APS)": "16,000",
+        "Handysize, Continent - EMed (bss dely APS)": "13,000",
+        "Supramax, PG (exd. I/I) - India (bss dely APS)": "16,000",
+        "Supramax, Indo - India (bss dely Spore)": "14,000"
+      },
+      {
+        "week": "10",
+        "Handysize, BIsSea - EMed (bss dely psg Canakkale)": "11,500",
+        "Supramax, ECSA - Cont (bss dely APS)": "17,000",
+        "Supramax, Continent - EMed (bss dely APS)": "17,000",
+        "Handysize, Continent - EMed (bss dely APS)": "13,500",
+        "Supramax, PG (exd. I/I) - India (bss dely APS)": "17,500",
+        "Supramax, Indo - India (bss dely Spore)": "17,000"
+      }
+    ],
+    "table_id": "table_03",
+    "issue_date": "2024-03-08",
+    "report_week": 10,
+    "source_file": "star_asia_2024_W10_ISM_handy_week10.pdf",
+    "table_type": "market_data"
+  },
+  {
+    "headers": [
+      "week",
+      "EU steel scrap, CFR Turkey, $/t",
+      "Freight rate, scrap (sf 58'), 40-45,000t, ARAG - EMed, $/t",
+      "% of freight costs in CFR price"
+    ],
+    "rows": [
+      {
+        "week": "10",
+        "EU steel scrap, CFR Turkey, $/t": "450",
+        "Freight rate, scrap (sf 58'), 40-45,000t, ARAG - EMed, $/t": "5",
+        "% of freight costs in CFR price": "5%"
+      },
+      {
+        "week": "14",
+        "EU steel scrap, CFR Turkey, $/t": "440",
+        "Freight rate, scrap (sf 58'), 40-45,000t, ARAG - EMed, $/t": "5",
+        "% of freight costs in CFR price": "5%"
+      },
+      {
+        "week": "18",
+        "EU steel scrap, CFR Turkey, $/t": "360",
+        "Freight rate, scrap (sf 58'), 40-45,000t, ARAG - EMed, $/t": "5",
+        "% of freight costs in CFR price": "5%"
+      },
+      {
+        "week": "22",
+        "EU steel scrap, CFR Turkey, $/t": "350",
+        "Freight rate, scrap (sf 58'), 40-45,000t, ARAG - EMed, $/t": "5",
+        "% of freight costs in CFR price": "5%"
+      },
+      {
+        "week": "26",
+        "EU steel scrap, CFR Turkey, $/t": "340",
+        "Freight rate, scrap (sf 58'), 40-45,000t, ARAG - EMed, $/t": "5",
+        "% of freight costs in CFR price": "5%"
+      },
+      {
+        "week": "30",
+        "EU steel scrap, CFR Turkey, $/t": "320",
+        "Freight rate, scrap (sf 58'), 40-45,000t, ARAG - EMed, $/t": "5",
+        "% of freight costs in CFR price": "5%"
+      },
+      {
+        "week": "34",
+        "EU steel scrap, CFR Turkey, $/t": "330",
+        "Freight rate, scrap (sf 58'), 40-45,000t, ARAG - EMed, $/t": "5",
+        "% of freight costs in CFR price": "5%"
+      },
+      {
+        "week": "38",
+        "EU steel scrap, CFR Turkey, $/t": "340",
+        "Freight rate, scrap (sf 58'), 40-45,000t, ARAG - EMed, $/t": "10",
+        "% of freight costs in CFR price": "6%"
+      },
+      {
+        "week": "42",
+        "EU steel scrap, CFR Turkey, $/t": "330",
+        "Freight rate, scrap (sf 58'), 40-45,000t, ARAG - EMed, $/t": "5",
+        "% of freight costs in CFR price": "5%"
+      },
+      {
+        "week": "46",
+        "EU steel scrap, CFR Turkey, $/t": "400",
+        "Freight rate, scrap (sf 58'), 40-45,000t, ARAG - EMed, $/t": "5",
+        "% of freight costs in CFR price": "5%"
+      },
+      {
+        "week": "50",
+        "EU steel scrap, CFR Turkey, $/t": "400",
+        "Freight rate, scrap (sf 58'), 40-45,000t, ARAG - EMed, $/t": "10",
+        "% of freight costs in CFR price": "6%"
+      },
+      {
+        "week": "2",
+        "EU steel scrap, CFR Turkey, $/t": "380",
+        "Freight rate, scrap (sf 58'), 40-45,000t, ARAG - EMed, $/t": "5",
+        "% of freight costs in CFR price": "5%"
+      },
+      {
+        "week": "6",
+        "EU steel scrap, CFR Turkey, $/t": "380",
+        "Freight rate, scrap (sf 58'), 40-45,000t, ARAG - EMed, $/t": "5",
+        "% of freight costs in CFR price": "5%"
+      },
+      {
+        "week": "10",
+        "EU steel scrap, CFR Turkey, $/t": "360",
+        "Freight rate, scrap (sf 58'), 40-45,000t, ARAG - EMed, $/t": "5",
+        "% of freight costs in CFR price": "5%"
+      }
+    ],
+    "table_id": "table_04",
+    "issue_date": "2024-03-08",
+    "report_week": 10,
+    "source_file": "star_asia_2024_W10_ISM_handy_week10.pdf",
+    "table_type": "market_data"
+  }
+]

@@ -1,0 +1,462 @@
+{
+  "convention": "iso",
+  "pages": 1,
+  "junk_pages": [],
+  "typed_confidence": "best-effort: card rows are exact geometry; see docs/affinity_survey.md",
+  "cards": [
+    {
+      "name": "BCTI / BDTI",
+      "columns": [
+        "metric",
+        "value",
+        "delta"
+      ],
+      "rows": [
+        [
+          "BDTI",
+          1487.0,
+          "↑Firmer"
+        ],
+        [
+          "BCTI",
+          905.0,
+          "↑Firmer"
+        ]
+      ],
+      "error": null,
+      "issue_date": "2023-03-10",
+      "report_week": 10,
+      "source_file": "affinity_2023_Affinity-Tanker-Weekly-10.03.2023-HSN.pdf"
+    },
+    {
+      "name": "BDA",
+      "columns": [
+        "metric",
+        "value",
+        "delta"
+      ],
+      "rows": [
+        [
+          "TKR/LRG",
+          535.4,
+          0.6
+        ],
+        [
+          "TKR/MED",
+          540.4,
+          0.3
+        ],
+        [
+          "TKR/SML",
+          543.6,
+          0.4
+        ]
+      ],
+      "error": null,
+      "issue_date": "2023-03-10",
+      "report_week": 10,
+      "source_file": "affinity_2023_Affinity-Tanker-Weekly-10.03.2023-HSN.pdf"
+    },
+    {
+      "name": "BALTIC TCE DIRTY",
+      "columns": [
+        "Route",
+        "Description",
+        "Qty",
+        "Value",
+        "W-O-W"
+      ],
+      "rows": [
+        [
+          "TD1",
+          "ME Gulf / US Gulf",
+          "280,000",
+          "50,761",
+          "↑Firmer"
+        ],
+        [
+          "TD3C",
+          "ME Gulf / China",
+          "270,000",
+          "90,176",
+          "↑Firmer"
+        ],
+        [
+          "TD6",
+          "Black Sea / Med",
+          "135,000",
+          "85,874",
+          "↑Firmer"
+        ],
+        [
+          "TD8",
+          "Kuwait / Sing.",
+          "80,000",
+          "54,286",
+          "↑Firmer"
+        ],
+        [
+          "TD9",
+          "Caribs / US Gulf",
+          "70,000",
+          "114,209",
+          "↑Firmer"
+        ],
+        [
+          "TD14",
+          "Asia / Australia",
+          "70,000",
+          "45,225",
+          "↑Firmer"
+        ],
+        [
+          "TD20",
+          "WAF / Cont",
+          "130,000",
+          "47,335",
+          "↓Softer"
+        ]
+      ],
+      "error": null,
+      "issue_date": "2023-03-10",
+      "report_week": 10,
+      "source_file": "affinity_2023_Affinity-Tanker-Weekly-10.03.2023-HSN.pdf"
+    },
+    {
+      "name": "BALTIC TCE CLEAN",
+      "columns": [
+        "Route",
+        "Description",
+        "Qty",
+        "Value",
+        "W-O-W"
+      ],
+      "rows": [
+        [
+          "TC1",
+          "ME Gulf / Japan",
+          "75,000",
+          "52,656",
+          "↑Firmer"
+        ],
+        [
+          "TC2",
+          "Cont / USAC",
+          "37,000",
+          "24,093",
+          "↓Softer"
+        ],
+        [
+          "TC5",
+          "ME Gulf / Japan",
+          "55,000",
+          "37,361",
+          "↓Softer"
+        ],
+        [
+          "TC6",
+          "Algeria / EU Med",
+          "30,000",
+          "43,154",
+          "↑Firmer"
+        ],
+        [
+          "TC7",
+          "Sing. / ECA",
+          "30,000",
+          "17,475",
+          "↓Softer"
+        ],
+        [
+          "TC8",
+          "ME Gulf / UKC",
+          "65,000",
+          "41,735",
+          "↑Firmer"
+        ],
+        [
+          "TC23",
+          "ARA / UKC",
+          "30,000",
+          "10,710",
+          "↓Softer"
+        ]
+      ],
+      "error": null,
+      "issue_date": "2023-03-10",
+      "report_week": 10,
+      "source_file": "affinity_2023_Affinity-Tanker-Weekly-10.03.2023-HSN.pdf"
+    }
+  ],
+  "typed": {
+    "BCTI / BDTI": {
+      "date": "10/03/2023",
+      "bdti": 1487.0,
+      "bcti": 905.0,
+      "arrows": [
+        "↑Firmer",
+        "↑Firmer"
+      ],
+      "issue_date": "2023-03-10",
+      "report_week": 10,
+      "source_file": "affinity_2023_Affinity-Tanker-Weekly-10.03.2023-HSN.pdf"
+    },
+    "BDA": {
+      "metrics": [
+        "TKR/LRG",
+        "TKR/MED",
+        "TKR/SML"
+      ],
+      "values": [
+        535.4,
+        540.4,
+        543.6
+      ],
+      "deltas": [
+        0.6,
+        0.3,
+        0.4
+      ],
+      "issue_date": "2023-03-10",
+      "report_week": 10,
+      "source_file": "affinity_2023_Affinity-Tanker-Weekly-10.03.2023-HSN.pdf",
+      "records": [
+        {
+          "issue_date": "2023-03-10",
+          "report_week": 10,
+          "segment": "TKR/LRG",
+          "price_usd_per_ldt": 535.4,
+          "change_wow": 0.6,
+          "source_file": "affinity_2023_Affinity-Tanker-Weekly-10.03.2023-HSN.pdf"
+        },
+        {
+          "issue_date": "2023-03-10",
+          "report_week": 10,
+          "segment": "TKR/MED",
+          "price_usd_per_ldt": 540.4,
+          "change_wow": 0.3,
+          "source_file": "affinity_2023_Affinity-Tanker-Weekly-10.03.2023-HSN.pdf"
+        },
+        {
+          "issue_date": "2023-03-10",
+          "report_week": 10,
+          "segment": "TKR/SML",
+          "price_usd_per_ldt": 543.6,
+          "change_wow": 0.4,
+          "source_file": "affinity_2023_Affinity-Tanker-Weekly-10.03.2023-HSN.pdf"
+        }
+      ]
+    },
+    "BALTIC TCE DIRTY": [
+      {
+        "card": "BALTIC TCE DIRTY",
+        "route": "TD1",
+        "description": "ME Gulf / US Gulf",
+        "qty_dwt": 280000.0,
+        "value": 50761.0,
+        "value_raw": "50,761",
+        "unit": "USD/day",
+        "unit_source": "header",
+        "wow": "↑Firmer",
+        "issue_date": "2023-03-10",
+        "report_week": 10,
+        "source_file": "affinity_2023_Affinity-Tanker-Weekly-10.03.2023-HSN.pdf"
+      },
+      {
+        "card": "BALTIC TCE DIRTY",
+        "route": "TD3C",
+        "description": "ME Gulf / China",
+        "qty_dwt": 270000.0,
+        "value": 90176.0,
+        "value_raw": "90,176",
+        "unit": "USD/day",
+        "unit_source": "header",
+        "wow": "↑Firmer",
+        "issue_date": "2023-03-10",
+        "report_week": 10,
+        "source_file": "affinity_2023_Affinity-Tanker-Weekly-10.03.2023-HSN.pdf"
+      },
+      {
+        "card": "BALTIC TCE DIRTY",
+        "route": "TD6",
+        "description": "Black Sea / Med",
+        "qty_dwt": 135000.0,
+        "value": 85874.0,
+        "value_raw": "85,874",
+        "unit": "USD/day",
+        "unit_source": "header",
+        "wow": "↑Firmer",
+        "issue_date": "2023-03-10",
+        "report_week": 10,
+        "source_file": "affinity_2023_Affinity-Tanker-Weekly-10.03.2023-HSN.pdf"
+      },
+      {
+        "card": "BALTIC TCE DIRTY",
+        "route": "TD8",
+        "description": "Kuwait / Sing.",
+        "qty_dwt": 80000.0,
+        "value": 54286.0,
+        "value_raw": "54,286",
+        "unit": "USD/day",
+        "unit_source": "header",
+        "wow": "↑Firmer",
+        "issue_date": "2023-03-10",
+        "report_week": 10,
+        "source_file": "affinity_2023_Affinity-Tanker-Weekly-10.03.2023-HSN.pdf"
+      },
+      {
+        "card": "BALTIC TCE DIRTY",
+        "route": "TD9",
+        "description": "Caribs / US Gulf",
+        "qty_dwt": 70000.0,
+        "value": 114209.0,
+        "value_raw": "114,209",
+        "unit": "USD/day",
+        "unit_source": "header",
+        "wow": "↑Firmer",
+        "issue_date": "2023-03-10",
+        "report_week": 10,
+        "source_file": "affinity_2023_Affinity-Tanker-Weekly-10.03.2023-HSN.pdf"
+      },
+      {
+        "card": "BALTIC TCE DIRTY",
+        "route": "TD14",
+        "description": "Asia / Australia",
+        "qty_dwt": 70000.0,
+        "value": 45225.0,
+        "value_raw": "45,225",
+        "unit": "USD/day",
+        "unit_source": "header",
+        "wow": "↑Firmer",
+        "issue_date": "2023-03-10",
+        "report_week": 10,
+        "source_file": "affinity_2023_Affinity-Tanker-Weekly-10.03.2023-HSN.pdf"
+      },
+      {
+        "card": "BALTIC TCE DIRTY",
+        "route": "TD20",
+        "description": "WAF / Cont",
+        "qty_dwt": 130000.0,
+        "value": 47335.0,
+        "value_raw": "47,335",
+        "unit": "USD/day",
+        "unit_source": "header",
+        "wow": "↓Softer",
+        "issue_date": "2023-03-10",
+        "report_week": 10,
+        "source_file": "affinity_2023_Affinity-Tanker-Weekly-10.03.2023-HSN.pdf"
+      }
+    ],
+    "BALTIC TCE CLEAN": [
+      {
+        "card": "BALTIC TCE CLEAN",
+        "route": "TC1",
+        "description": "ME Gulf / Japan",
+        "qty_dwt": 75000.0,
+        "value": 52656.0,
+        "value_raw": "52,656",
+        "unit": "USD/day",
+        "unit_source": "header",
+        "wow": "↑Firmer",
+        "issue_date": "2023-03-10",
+        "report_week": 10,
+        "source_file": "affinity_2023_Affinity-Tanker-Weekly-10.03.2023-HSN.pdf"
+      },
+      {
+        "card": "BALTIC TCE CLEAN",
+        "route": "TC2",
+        "description": "Cont / USAC",
+        "qty_dwt": 37000.0,
+        "value": 24093.0,
+        "value_raw": "24,093",
+        "unit": "USD/day",
+        "unit_source": "header",
+        "wow": "↓Softer",
+        "issue_date": "2023-03-10",
+        "report_week": 10,
+        "source_file": "affinity_2023_Affinity-Tanker-Weekly-10.03.2023-HSN.pdf"
+      },
+      {
+        "card": "BALTIC TCE CLEAN",
+        "route": "TC5",
+        "description": "ME Gulf / Japan",
+        "qty_dwt": 55000.0,
+        "value": 37361.0,
+        "value_raw": "37,361",
+        "unit": "USD/day",
+        "unit_source": "header",
+        "wow": "↓Softer",
+        "issue_date": "2023-03-10",
+        "report_week": 10,
+        "source_file": "affinity_2023_Affinity-Tanker-Weekly-10.03.2023-HSN.pdf"
+      },
+      {
+        "card": "BALTIC TCE CLEAN",
+        "route": "TC6",
+        "description": "Algeria / EU Med",
+        "qty_dwt": 30000.0,
+        "value": 43154.0,
+        "value_raw": "43,154",
+        "unit": "USD/day",
+        "unit_source": "header",
+        "wow": "↑Firmer",
+        "issue_date": "2023-03-10",
+        "report_week": 10,
+        "source_file": "affinity_2023_Affinity-Tanker-Weekly-10.03.2023-HSN.pdf"
+      },
+      {
+        "card": "BALTIC TCE CLEAN",
+        "route": "TC7",
+        "description": "Sing. / ECA",
+        "qty_dwt": 30000.0,
+        "value": 17475.0,
+        "value_raw": "17,475",
+        "unit": "USD/day",
+        "unit_source": "header",
+        "wow": "↓Softer",
+        "issue_date": "2023-03-10",
+        "report_week": 10,
+        "source_file": "affinity_2023_Affinity-Tanker-Weekly-10.03.2023-HSN.pdf"
+      },
+      {
+        "card": "BALTIC TCE CLEAN",
+        "route": "TC8",
+        "description": "ME Gulf / UKC",
+        "qty_dwt": 65000.0,
+        "value": 41735.0,
+        "value_raw": "41,735",
+        "unit": "USD/day",
+        "unit_source": "header",
+        "wow": "↑Firmer",
+        "issue_date": "2023-03-10",
+        "report_week": 10,
+        "source_file": "affinity_2023_Affinity-Tanker-Weekly-10.03.2023-HSN.pdf"
+      },
+      {
+        "card": "BALTIC TCE CLEAN",
+        "route": "TC23",
+        "description": "ARA / UKC",
+        "qty_dwt": 30000.0,
+        "value": 10710.0,
+        "value_raw": "10,710",
+        "unit": "USD/day",
+        "unit_source": "header",
+        "wow": "↓Softer",
+        "issue_date": "2023-03-10",
+        "report_week": 10,
+        "source_file": "affinity_2023_Affinity-Tanker-Weekly-10.03.2023-HSN.pdf"
+      }
+    ]
+  },
+  "text_verified": 1.0,
+  "panel_values": 38,
+  "date_fragments_merged": [
+    "3",
+    "3"
+  ],
+  "missing_values": [],
+  "stem": "affinity_2023_Affinity-Tanker-Weekly-10.03.2023-HSN",
+  "source_file": "affinity_2023_Affinity-Tanker-Weekly-10.03.2023-HSN.pdf",
+  "issue_date": "2023-03-10",
+  "report_week": 10
+}

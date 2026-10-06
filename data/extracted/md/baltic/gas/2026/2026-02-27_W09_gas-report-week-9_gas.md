@@ -1,0 +1,47 @@
+---
+title: "Gas Report - Week 9"
+date: "2026-02-27"
+display_date: "27 February 2026"
+year: 2026
+week: 9
+category: "gas"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/Gas/News/2026/gas-report-week-9.html"
+tags: ['Baltic Exchange', 'Gas', 'Freight Rates', 'VLGC', 'LNG', 'LPG']
+word_count: 350
+sections_count: 2
+tables_count: 0
+source_file: "corpus/08-baltic/gas/2026/2026-02-27_W09_gas-report-week-9_gas.html"
+---
+
+# Gas Report - Week 9
+
+**Date:** 27 February 2026  
+**Publisher:** Baltic Exchange | **Category:** Gas  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/Gas/News/2026/gas-report-week-9.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/Gas/News/2026/gas-report-week-9.html)  
+
+---
+
+### LNG
+
+The LNG market made gains this week, driven primarily by strong activity in the Atlantic basin. An inherently tight position list in the West, combined with steady enquiry, kept upward pressure on rates, while the Pacific held firm around the high $20,000s mark.
+
+On the BLNG1 Australia–Japan route, 174k cbm vessels increased $1,200 to $28,400/day. The East remained stable throughout the week, with consistent enquiry continuing to support rates near the $30,000 threshold.
+
+In the Atlantic, the BLNG2 US Gulf–Continent route increased $7,200 to $42,200/day. Similarly, the BLNG3 US Gulf–Japan route gained $9,300 to $44,700/day. A tightening tonnage list and a steady flow of cargoes strengthened rates.
+
+In the time-charter market, rates strengthened modestly. The six-month period increased $1,950 to $28,100/day. The one-year term edged up $125 to $39,250/day, while the three-year rate remained steady at $60,500/day.
+
+### LPG
+
+The LPG market came under pressure this week, with disruptions at Ras Tanura terminal weighing heavily on sentiment in the East. The West remained comparatively strong, as fixing activity resumed after Lunar New Year.
+
+On the BLPG1 Ras Tanura–Chiba route, rates fell sharply by $16.00 to $80.50, with TCE earnings dropping $18,331 to $66,967/day. After holding relatively steady through the early part of the week, sentiment deteriorated as the terminal disruption curtailed cargo availability and left owners exposed.
+
+The BLPG2 Houston–Flushing route declined $2.50 to $81.50, with TCE returns easing $4,086 to $83,163/day. Similarly, the BLPG3 Houston–Chiba route slipped $3.75 to $147.33. TCE earnings fell $3,376 to $73,431/day. Despite a handful of fixtures concluding west of Suez helping to lift sentiment temporarily, the broader tone softened as Atlantic fundamentals failed to offset weakness in the East.
+
+Overall, while fixing activity has begun to normalise post-holiday, the disruption at Ras Tanura overshadows the market, pushing rates lower and shifting momentum in favour of charterers by week’s end.
+
+---
+
+**Tags:** Baltic Exchange, Gas, Freight Rates, VLGC, LNG, LPG  

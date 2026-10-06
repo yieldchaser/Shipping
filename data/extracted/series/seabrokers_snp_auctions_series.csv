@@ -1,0 +1,252 @@
+report_date,year,month,vessel_class,metric,value,unit,note,source,source_page
+2025-09-01,2025,9,AHTS,winning_bid,8.32,USD million,vessel=Bourbon Kaimook (2012); buyer=TBC,seabrokers,8.0
+2025-09-01,2025,9,AHTS,winning_bid,6.1,USD million,vessel=Bourbon Phet (2011); buyer=TBC,seabrokers,8.0
+2025-09-01,2025,9,AHTS,winning_bid,3.0,USD million,vessel=Bourbon Liberty 206 (2009); buyer=October 10th,seabrokers,8.0
+2025-09-01,2025,9,AHTS,winning_bid,4.55,USD million,vessel=Bourbon Liberty 209 (2009); buyer=October 10th,seabrokers,8.0
+2025-09-01,2025,9,AHTS x 2,winning_bid,8.3,USD million,vessel=Bourbon Ampan (2012) & Bourbon Morrakot (2009); buyer=Tan Cang Offshore Services,seabrokers,8.0
+2025-09-01,2025,9,AHTS x 2,winning_bid,4.86,USD million,vessel=Bourbon Liberty 202 and 203 (2009); buyer=TBC,seabrokers,8.0
+2025-09-01,2025,9,MPSV / CSV,winning_bid,17.0,USD million,vessel=Bourbon Evolution 803 (2013); buyer=TBC,seabrokers,8.0
+2025-09-01,2025,9,MPSV / CSV,winning_bid,15.5,USD million,vessel=Bourbon Evolution 801 (2011); buyer=October 10th,seabrokers,8.0
+2025-09-01,2025,9,PSV,winning_bid,20.24,USD million,vessel=Bourbon Calm (2012); buyer=TBC,seabrokers,8.0
+2025-09-01,2025,9,PSV,winning_bid,4.41,USD million,vessel=Bourbon Horus (2009); buyer=TBC,seabrokers,8.0
+2025-09-01,2025,9,PSV,winning_bid,23.58,USD million,vessel=Bourbon Rainbow (2013); buyer=Southern Towing Ltd,seabrokers,8.0
+2025-09-01,2025,9,PSV,winning_bid,3.3,USD million,vessel=Bourbon Liberty 153 (2013); buyer=October 10th,seabrokers,8.0
+2025-09-01,2025,9,PSV x 3,winning_bid,9.7,USD million,"vessel=Bourbon Liberty 157, 162 and 163 (2013-2014); buyer=TBC",seabrokers,8.0
+2025-10-01,2025,10,AHTS,winning_bid,8.32,USD million,vessel=Bourbon Kaimook (2012); buyer=Tan Cang Offshore Services,seabrokers,8.0
+2025-10-01,2025,10,AHTS,winning_bid,2.53,USD million,vessel=Bourbon Liberty 206 (2009); buyer=TBC,seabrokers,8.0
+2025-10-01,2025,10,AHTS,winning_bid,5.38,USD million,vessel=Bourbon Liberty 209 (2009); buyer=TBC,seabrokers,8.0
+2025-10-01,2025,10,AHTS,winning_bid,6.1,USD million,vessel=Bourbon Phet (2011); buyer=Britoil Offshore Services,seabrokers,8.0
+2025-10-01,2025,10,AHTS,winning_bid,7.0,USD million,vessel=Bourbon Gomen (2012); buyer=November 21st,seabrokers,8.0
+2025-10-01,2025,10,AHTS x 2,winning_bid,8.3,USD million,vessel=Bourbon Ampan (2012) & Bourbon Morrakot (2009); buyer=Tan Cang Offshore Services,seabrokers,8.0
+2025-10-01,2025,10,AHTS x 2,winning_bid,4.86,USD million,vessel=Bourbon Liberty 202 and 203 (2009); buyer=TBC,seabrokers,8.0
+2025-10-01,2025,10,MPSV / CSV,winning_bid,14.1,USD million,vessel=Bourbon Evolution 801 (2011); buyer=TBC,seabrokers,8.0
+2025-10-01,2025,10,MPSV / CSV,winning_bid,17.0,USD million,vessel=Bourbon Evolution 803 (2013); buyer=TBC,seabrokers,8.0
+2025-10-01,2025,10,PSV,winning_bid,20.24,USD million,vessel=Bourbon Calm (2012); buyer=Bourbon Offshore,seabrokers,8.0
+2025-10-01,2025,10,PSV,winning_bid,4.41,USD million,vessel=Bourbon Horus (2009); buyer=TBC,seabrokers,8.0
+2025-10-01,2025,10,PSV,winning_bid,3.62,USD million,vessel=Bourbon Liberty 153 (2013); buyer=TBC,seabrokers,8.0
+2025-10-01,2025,10,PSV,winning_bid,23.58,USD million,vessel=Bourbon Rainbow (2013); buyer=Southern Towing Ltd,seabrokers,8.0
+2025-10-01,2025,10,PSV x 3,winning_bid,9.7,USD million,"vessel=Bourbon Liberty 157, 162 and 163 (2013-2014); buyer=TBC",seabrokers,8.0
+2025-11-01,2025,11,AHTS,winning_bid,9.54,USD million,vessel=Bourbon Gomen (2012); buyer=TBC,seabrokers,8.0
+2025-11-01,2025,11,AHTS,winning_bid,8.32,USD million,vessel=Bourbon Kaimook (2012); buyer=Tan Cang Offshore Services,seabrokers,8.0
+2025-11-01,2025,11,AHTS,winning_bid,2.53,USD million,vessel=Bourbon Liberty 206 (2009); buyer=TBC,seabrokers,8.0
+2025-11-01,2025,11,AHTS,winning_bid,5.38,USD million,vessel=Bourbon Liberty 209 (2009); buyer=TBC,seabrokers,8.0
+2025-11-01,2025,11,AHTS,winning_bid,6.1,USD million,vessel=Bourbon Phet (2011); buyer=Britoil Offshore Services,seabrokers,8.0
+2025-11-01,2025,11,AHTS,winning_bid,7.0,USD million,"vessel=Bourbon Liberty 318 (2013); buyer=December 29th, 2025",seabrokers,8.0
+2025-11-01,2025,11,AHTS,winning_bid,7.0,USD million,"vessel=Bourbon Nilgan (2013); buyer=December 30th, 2025",seabrokers,8.0
+2025-11-01,2025,11,AHTS,winning_bid,5.05,USD million,"vessel=Bourbon Tong Kam (2009); buyer=January 19th, 2026",seabrokers,8.0
+2025-11-01,2025,11,AHTS,winning_bid,5.05,USD million,"vessel=Bourbon Jindamanee (2010); buyer=January 20th, 2026",seabrokers,8.0
+2025-11-01,2025,11,AHTS x 2,winning_bid,8.3,USD million,vessel=Bourbon Ampan (2012) & Bourbon Morrakot (2009); buyer=Tan Cang Offshore Services,seabrokers,8.0
+2025-11-01,2025,11,AHTS x 2,winning_bid,4.86,USD million,vessel=Bourbon Liberty 202 and 203 (2009); buyer=Glory Shipmanagement,seabrokers,8.0
+2025-11-01,2025,11,MPSV / CSV,winning_bid,14.1,USD million,vessel=Bourbon Evolution 801 (2011); buyer=Sinoship Maritime Services,seabrokers,8.0
+2025-11-01,2025,11,MPSV / CSV,winning_bid,17.0,USD million,vessel=Bourbon Evolution 803 (2013); buyer=Sinoship Maritime Services,seabrokers,8.0
+2025-11-01,2025,11,MPSV / CSV,winning_bid,35.0,USD million,"vessel=Bourbon Evolution 807 (2014); buyer=January 13th, 2026",seabrokers,8.0
+2025-11-01,2025,11,MPSV / CSV,winning_bid,35.0,USD million,"vessel=Bourbon Evolution 805 (2014); buyer=January 15th, 2026",seabrokers,8.0
+2025-11-01,2025,11,PSV,winning_bid,20.24,USD million,vessel=Bourbon Calm (2012); buyer=Bourbon Offshore,seabrokers,8.0
+2025-11-01,2025,11,PSV,winning_bid,4.41,USD million,vessel=Bourbon Horus (2009); buyer=Asineran Ltd,seabrokers,8.0
+2025-11-01,2025,11,PSV,winning_bid,3.62,USD million,vessel=Bourbon Liberty 153 (2013); buyer=TBC,seabrokers,8.0
+2025-11-01,2025,11,PSV,winning_bid,23.58,USD million,vessel=Bourbon Rainbow (2013); buyer=Southern Towing Ltd,seabrokers,8.0
+2025-11-01,2025,11,PSV,winning_bid,19.0,USD million,"vessel=Bourbon Clear (2012); buyer=January 14th, 2026",seabrokers,8.0
+2025-11-01,2025,11,PSV,winning_bid,19.0,USD million,"vessel=Bourbon Front (2012); buyer=January 16th, 2026",seabrokers,8.0
+2025-11-01,2025,11,PSV x 3,winning_bid,9.7,USD million,"vessel=Bourbon Liberty 157, 162 and 163 (2013-2014); buyer=TBC",seabrokers,8.0
+2026-01-01,2026,1,AHTS,winning_bid,9.54,USD million,vessel=Bourbon Gomen (2012); buyer=Britoil Offshore Services,seabrokers,8.0
+2026-01-01,2026,1,AHTS,winning_bid,8.32,USD million,vessel=Bourbon Kaimook (2012); buyer=Tan Cang Offshore Services,seabrokers,8.0
+2026-01-01,2026,1,AHTS,winning_bid,2.53,USD million,vessel=Bourbon Liberty 206 (2009); buyer=TBC,seabrokers,8.0
+2026-01-01,2026,1,AHTS,winning_bid,5.38,USD million,vessel=Bourbon Liberty 209 (2009); buyer=TBC,seabrokers,8.0
+2026-01-01,2026,1,AHTS,winning_bid,9.62,USD million,vessel=Bourbon Liberty 318 (2013); buyer=TBC,seabrokers,8.0
+2026-01-01,2026,1,AHTS,winning_bid,9.72,USD million,vessel=Bourbon Nilgan (2013); buyer=TBC,seabrokers,8.0
+2026-01-01,2026,1,AHTS,winning_bid,6.1,USD million,vessel=Bourbon Phet (2011); buyer=Britoil Offshore Services,seabrokers,8.0
+2026-01-01,2026,1,AHTS,winning_bid,7.0,USD million,"vessel=Bourbon Liberty 309 (2014); buyer=March 5th, 2026",seabrokers,8.0
+2026-01-01,2026,1,AHTS,winning_bid,5.05,USD million,"vessel=Bourbon Tong Kam (2009); buyer=March 10th, 2026",seabrokers,8.0
+2026-01-01,2026,1,AHTS,winning_bid,5.05,USD million,"vessel=Bourbon Jindamanee (2010); buyer=March 11th, 2026",seabrokers,8.0
+2026-01-01,2026,1,AHTS,winning_bid,7.0,USD million,"vessel=Bourbon Liberty 320 (2014); buyer=March 18th, 2026",seabrokers,8.0
+2026-01-01,2026,1,AHTS x 2,winning_bid,8.3,USD million,vessel=Bourbon Ampan (2012) & Bourbon Morrakot (2009); buyer=Tan Cang Offshore Services,seabrokers,8.0
+2026-01-01,2026,1,AHTS x 2,winning_bid,4.86,USD million,vessel=Bourbon Liberty 202 and 203 (2009); buyer=Glory Shipmanagement,seabrokers,8.0
+2026-01-01,2026,1,MPSV / CSV,winning_bid,14.1,USD million,vessel=Bourbon Evolution 801 (2011); buyer=Sinoship Maritime Services,seabrokers,8.0
+2026-01-01,2026,1,MPSV / CSV,winning_bid,17.0,USD million,vessel=Bourbon Evolution 803 (2013); buyer=Sinoship Maritime Services,seabrokers,8.0
+2026-01-01,2026,1,MPSV / CSV,winning_bid,35.0,USD million,"vessel=Bourbon Evolution 807 (2014); buyer=February 6th, 2026",seabrokers,8.0
+2026-01-01,2026,1,MPSV / CSV,winning_bid,35.0,USD million,"vessel=Bourbon Evolution 805 (2014); buyer=February 10th, 2026",seabrokers,8.0
+2026-01-01,2026,1,PSV,winning_bid,20.24,USD million,vessel=Bourbon Calm (2012); buyer=Bourbon Offshore,seabrokers,8.0
+2026-01-01,2026,1,PSV,winning_bid,4.41,USD million,vessel=Bourbon Horus (2009); buyer=Asineran Ltd,seabrokers,8.0
+2026-01-01,2026,1,PSV,winning_bid,3.62,USD million,vessel=Bourbon Liberty 153 (2013); buyer=TBC,seabrokers,8.0
+2026-01-01,2026,1,PSV,winning_bid,23.58,USD million,vessel=Bourbon Rainbow (2013); buyer=Southern Towing Ltd,seabrokers,8.0
+2026-01-01,2026,1,PSV,winning_bid,19.0,USD million,"vessel=Bourbon Clear (2012); buyer=February 4th, 2026",seabrokers,8.0
+2026-01-01,2026,1,PSV,winning_bid,19.0,USD million,"vessel=Bourbon Front (2012); buyer=February 6th, 2026",seabrokers,8.0
+2026-01-01,2026,1,PSV x 3,winning_bid,9.7,USD million,"vessel=Bourbon Liberty 157, 162 and 163 (2013-2014); buyer=TBC",seabrokers,8.0
+2026-02-01,2026,2,AHTS,winning_bid,9.54,USD million,vessel=Bourbon Gomen (2012); buyer=Britoil Offshore Services,seabrokers,8.0
+2026-02-01,2026,2,AHTS,winning_bid,8.32,USD million,vessel=Bourbon Kaimook (2012); buyer=Tan Cang Offshore Services,seabrokers,8.0
+2026-02-01,2026,2,AHTS,winning_bid,2.53,USD million,vessel=Bourbon Liberty 206 (2009); buyer=Excelessel Offshore,seabrokers,8.0
+2026-02-01,2026,2,AHTS,winning_bid,5.38,USD million,vessel=Bourbon Liberty 209 (2009); buyer=Wellington Management,seabrokers,8.0
+2026-02-01,2026,2,AHTS,winning_bid,9.62,USD million,vessel=Bourbon Liberty 318 (2013); buyer=Britoil Offshore Services,seabrokers,8.0
+2026-02-01,2026,2,AHTS,winning_bid,9.72,USD million,vessel=Bourbon Nilgan (2013); buyer=Britoil Offshore Services,seabrokers,8.0
+2026-02-01,2026,2,AHTS,winning_bid,6.1,USD million,vessel=Bourbon Phet (2011); buyer=Britoil Offshore Services,seabrokers,8.0
+2026-02-01,2026,2,AHTS,winning_bid,7.0,USD million,"vessel=Bourbon Liberty 309 (2014); buyer=March 5th, 2026",seabrokers,8.0
+2026-02-01,2026,2,AHTS,winning_bid,5.05,USD million,"vessel=Bourbon Tong Kam (2009); buyer=March 10th, 2026",seabrokers,8.0
+2026-02-01,2026,2,AHTS,winning_bid,5.05,USD million,"vessel=Bourbon Jindamanee (2010); buyer=March 11th, 2026",seabrokers,8.0
+2026-02-01,2026,2,AHTS,winning_bid,7.0,USD million,"vessel=Bourbon Liberty 320 (2014); buyer=March 18th, 2026",seabrokers,8.0
+2026-02-01,2026,2,AHTS x 2,winning_bid,8.3,USD million,vessel=Bourbon Ampan (2012) & Bourbon Morrakot (2009); buyer=Tan Cang Offshore Services,seabrokers,8.0
+2026-02-01,2026,2,AHTS x 2,winning_bid,4.86,USD million,vessel=Bourbon Liberty 202 and 203 (2009); buyer=Glory Shipmanagement,seabrokers,8.0
+2026-02-01,2026,2,MPSV / CSV,winning_bid,14.1,USD million,vessel=Bourbon Evolution 801 (2011); buyer=Sinoship Maritime Services,seabrokers,8.0
+2026-02-01,2026,2,MPSV / CSV,winning_bid,17.0,USD million,vessel=Bourbon Evolution 803 (2013); buyer=Sinoship Maritime Services,seabrokers,8.0
+2026-02-01,2026,2,MPSV / CSV,winning_bid,46.5,USD million,vessel=Bourbon Evolution 805 (2014); buyer=TBC,seabrokers,8.0
+2026-02-01,2026,2,MPSV / CSV,winning_bid,35.0,USD million,vessel=Bourbon Evolution 807 (2014); buyer=Astro Offshore,seabrokers,8.0
+2026-02-01,2026,2,PSV,winning_bid,20.24,USD million,vessel=Bourbon Calm (2012); buyer=Bourbon Offshore,seabrokers,8.0
+2026-02-01,2026,2,PSV,winning_bid,19.0,USD million,vessel=Bourbon Clear (2012); buyer=Bourbon Offshore (TBC),seabrokers,8.0
+2026-02-01,2026,2,PSV,winning_bid,19.0,USD million,vessel=Bourbon Front (2012); buyer=Bourbon Offshore (TBC),seabrokers,8.0
+2026-02-01,2026,2,PSV,winning_bid,4.41,USD million,vessel=Bourbon Horus (2009); buyer=Asineran Ltd,seabrokers,8.0
+2026-02-01,2026,2,PSV,winning_bid,3.62,USD million,vessel=Bourbon Liberty 153 (2013); buyer=Seahorse Marine & Energy,seabrokers,8.0
+2026-02-01,2026,2,PSV,winning_bid,23.58,USD million,vessel=Bourbon Rainbow (2013); buyer=Southern Towing Ltd,seabrokers,8.0
+2026-02-01,2026,2,PSV x 3,winning_bid,9.7,USD million,"vessel=Bourbon Liberty 157, 162 and 163 (2013-2014); buyer=TBC",seabrokers,8.0
+2026-03-01,2026,3,AHTS,winning_bid,9.54,USD million,vessel=Bourbon Gomen (2012); buyer=Britoil Offshore Services,seabrokers,8.0
+2026-03-01,2026,3,AHTS,winning_bid,8.32,USD million,vessel=Bourbon Kaimook (2012); buyer=Tan Cang Offshore Services,seabrokers,8.0
+2026-03-01,2026,3,AHTS,winning_bid,2.53,USD million,vessel=Bourbon Liberty 206 (2009); buyer=Excelessel Offshore,seabrokers,8.0
+2026-03-01,2026,3,AHTS,winning_bid,5.38,USD million,vessel=Bourbon Liberty 209 (2009); buyer=Wellington Management,seabrokers,8.0
+2026-03-01,2026,3,AHTS,winning_bid,10.82,USD million,vessel=Bourbon Liberty 309 (2014); buyer=TBC,seabrokers,8.0
+2026-03-01,2026,3,AHTS,winning_bid,9.62,USD million,vessel=Bourbon Liberty 318 (2013); buyer=Britoil Offshore Services,seabrokers,8.0
+2026-03-01,2026,3,AHTS,winning_bid,11.54,USD million,vessel=Bourbon Liberty 320 (2014); buyer=TBC,seabrokers,8.0
+2026-03-01,2026,3,AHTS,winning_bid,9.72,USD million,vessel=Bourbon Nilgan (2013); buyer=Britoil Offshore Services,seabrokers,8.0
+2026-03-01,2026,3,AHTS,winning_bid,6.1,USD million,vessel=Bourbon Phet (2011); buyer=Britoil Offshore Services,seabrokers,8.0
+2026-03-01,2026,3,AHTS,winning_bid,5.05,USD million,"vessel=Bourbon Jindamanee (2010); buyer=April 22nd, 2026",seabrokers,8.0
+2026-03-01,2026,3,AHTS,winning_bid,5.05,USD million,"vessel=Bourbon Tong Kam (2009); buyer=April 23rd, 2026",seabrokers,8.0
+2026-03-01,2026,3,AHTS x 2,winning_bid,8.3,USD million,vessel=Bourbon Ampan (2012) & Bourbon Morrakot (2009); buyer=Tan Cang Offshore Services,seabrokers,8.0
+2026-03-01,2026,3,AHTS x 2,winning_bid,4.86,USD million,vessel=Bourbon Liberty 202 and 203 (2009); buyer=Glory Shipmanagement,seabrokers,8.0
+2026-03-01,2026,3,MPSV / CSV,winning_bid,14.1,USD million,vessel=Bourbon Evolution 801 (2011); buyer=Singtech Offshore,seabrokers,8.0
+2026-03-01,2026,3,MPSV / CSV,winning_bid,17.0,USD million,vessel=Bourbon Evolution 803 (2013); buyer=Singtech Offshore,seabrokers,8.0
+2026-03-01,2026,3,MPSV / CSV,winning_bid,46.5,USD million,vessel=Bourbon Evolution 805 (2014); buyer=TBC,seabrokers,8.0
+2026-03-01,2026,3,MPSV / CSV,winning_bid,35.0,USD million,vessel=Bourbon Evolution 807 (2014); buyer=Astro Offshore,seabrokers,8.0
+2026-03-01,2026,3,PSV,winning_bid,20.24,USD million,vessel=Bourbon Calm (2012); buyer=Bourbon Horizon,seabrokers,8.0
+2026-03-01,2026,3,PSV,winning_bid,19.0,USD million,vessel=Bourbon Clear (2012); buyer=Bourbon Horizon,seabrokers,8.0
+2026-03-01,2026,3,PSV,winning_bid,19.0,USD million,vessel=Bourbon Front (2012); buyer=Bourbon Horizon (TBC),seabrokers,8.0
+2026-03-01,2026,3,PSV,winning_bid,4.41,USD million,vessel=Bourbon Horus (2009); buyer=Seahorse Marine & Energy,seabrokers,8.0
+2026-03-01,2026,3,PSV,winning_bid,3.62,USD million,vessel=Bourbon Liberty 153 (2013); buyer=Seahorse Marine & Energy,seabrokers,8.0
+2026-03-01,2026,3,PSV,winning_bid,23.58,USD million,vessel=Bourbon Rainbow (2013); buyer=Southern Towing Ltd,seabrokers,8.0
+2026-03-01,2026,3,PSV x 3,winning_bid,9.7,USD million,"vessel=Bourbon Liberty 157, 162 and 163 (2013-2014); buyer=Zhoushan Runbang Shipping",seabrokers,8.0
+2026-04-01,2026,4,AHTS,winning_bid,9.54,USD million,vessel=Bourbon Gomen (2012); buyer=Britoil Offshore Services,seabrokers,8.0
+2026-04-01,2026,4,AHTS,winning_bid,5.73,USD million,vessel=Bourbon Jindamanee (2010); buyer=TBC,seabrokers,8.0
+2026-04-01,2026,4,AHTS,winning_bid,8.32,USD million,vessel=Bourbon Kaimook (2012); buyer=Tan Cang Offshore Services,seabrokers,8.0
+2026-04-01,2026,4,AHTS,winning_bid,2.53,USD million,vessel=Bourbon Liberty 206 (2009); buyer=Excelessel Offshore,seabrokers,8.0
+2026-04-01,2026,4,AHTS,winning_bid,5.38,USD million,vessel=Bourbon Liberty 209 (2009); buyer=Wellington Management,seabrokers,8.0
+2026-04-01,2026,4,AHTS,winning_bid,10.82,USD million,vessel=Bourbon Liberty 309 (2014); buyer=Elde River Shipping,seabrokers,8.0
+2026-04-01,2026,4,AHTS,winning_bid,9.62,USD million,vessel=Bourbon Liberty 318 (2013); buyer=Britoil Offshore Services,seabrokers,8.0
+2026-04-01,2026,4,AHTS,winning_bid,11.54,USD million,vessel=Bourbon Liberty 320 (2014); buyer=TBC,seabrokers,8.0
+2026-04-01,2026,4,AHTS,winning_bid,9.72,USD million,vessel=Bourbon Nilgan (2013); buyer=Britoil Offshore Services,seabrokers,8.0
+2026-04-01,2026,4,AHTS,winning_bid,6.1,USD million,vessel=Bourbon Phet (2011); buyer=Britoil Offshore Services,seabrokers,8.0
+2026-04-01,2026,4,AHTS,winning_bid,5.05,USD million,"vessel=Bourbon Tong Kam (2009); buyer=May 14th, 2026",seabrokers,8.0
+2026-04-01,2026,4,AHTS x 2,winning_bid,8.3,USD million,vessel=Bourbon Ampan (2012) & Bourbon Morrakot (2009); buyer=Tan Cang Offshore Services,seabrokers,8.0
+2026-04-01,2026,4,AHTS x 2,winning_bid,4.86,USD million,vessel=Bourbon Liberty 202 and 203 (2009); buyer=Glory Shipmanagement,seabrokers,8.0
+2026-04-01,2026,4,MPSV / CSV,winning_bid,14.1,USD million,vessel=Bourbon Evolution 801 (2011); buyer=Singtech Offshore,seabrokers,8.0
+2026-04-01,2026,4,MPSV / CSV,winning_bid,17.0,USD million,vessel=Bourbon Evolution 803 (2013); buyer=Singtech Offshore,seabrokers,8.0
+2026-04-01,2026,4,MPSV / CSV,winning_bid,46.5,USD million,vessel=Bourbon Evolution 805 (2014); buyer=ELPI,seabrokers,8.0
+2026-04-01,2026,4,MPSV / CSV,winning_bid,35.0,USD million,vessel=Bourbon Evolution 807 (2014); buyer=Astro Offshore,seabrokers,8.0
+2026-04-01,2026,4,PSV,winning_bid,20.24,USD million,vessel=Bourbon Calm (2012); buyer=Bourbon,seabrokers,8.0
+2026-04-01,2026,4,PSV,winning_bid,19.0,USD million,vessel=Bourbon Clear (2012); buyer=Bourbon,seabrokers,8.0
+2026-04-01,2026,4,PSV,winning_bid,19.0,USD million,vessel=Bourbon Front (2012); buyer=Bourbon,seabrokers,8.0
+2026-04-01,2026,4,PSV,winning_bid,4.41,USD million,vessel=Bourbon Horus (2009); buyer=Seahorse Marine & Energy,seabrokers,8.0
+2026-04-01,2026,4,PSV,winning_bid,3.62,USD million,vessel=Bourbon Liberty 153 (2013); buyer=Seahorse Marine & Energy,seabrokers,8.0
+2026-04-01,2026,4,PSV,winning_bid,23.58,USD million,vessel=Bourbon Rainbow (2013); buyer=Southern Towing Ltd,seabrokers,8.0
+2026-04-01,2026,4,PSV x 3,winning_bid,9.7,USD million,"vessel=Bourbon Liberty 157, 162 and 163 (2013-2014); buyer=Zhoushan Runbang Shipping",seabrokers,8.0
+2026-05-01,2026,5,AHTS,winning_bid,9.54,USD million,vessel=Bourbon Gomen (2012); buyer=Britoil Offshore Services,seabrokers,8.0
+2026-05-01,2026,5,AHTS,winning_bid,5.73,USD million,vessel=Bourbon Jindamanee (2010); buyer=TBC,seabrokers,8.0
+2026-05-01,2026,5,AHTS,winning_bid,8.32,USD million,vessel=Bourbon Kaimook (2012); buyer=Tan Cang Offshore Services,seabrokers,8.0
+2026-05-01,2026,5,AHTS,winning_bid,2.53,USD million,vessel=Bourbon Liberty 206 (2009); buyer=Excelessel Offshore,seabrokers,8.0
+2026-05-01,2026,5,AHTS,winning_bid,5.38,USD million,vessel=Bourbon Liberty 209 (2009); buyer=Wellington Management,seabrokers,8.0
+2026-05-01,2026,5,AHTS,winning_bid,10.82,USD million,vessel=Bourbon Liberty 309 (2014); buyer=Elde River Shipping,seabrokers,8.0
+2026-05-01,2026,5,AHTS,winning_bid,9.62,USD million,vessel=Bourbon Liberty 318 (2013); buyer=Britoil Offshore Services,seabrokers,8.0
+2026-05-01,2026,5,AHTS,winning_bid,11.54,USD million,vessel=Bourbon Liberty 320 (2014); buyer=Elde River Shipping,seabrokers,8.0
+2026-05-01,2026,5,AHTS,winning_bid,9.72,USD million,vessel=Bourbon Nilgan (2013); buyer=Britoil Offshore Services,seabrokers,8.0
+2026-05-01,2026,5,AHTS,winning_bid,6.1,USD million,vessel=Bourbon Phet (2011); buyer=Britoil Offshore Services,seabrokers,8.0
+2026-05-01,2026,5,AHTS,winning_bid,5.93,USD million,vessel=Bourbon Tong Kam (2009); buyer=TBC,seabrokers,8.0
+2026-05-01,2026,5,AHTS x 2,winning_bid,8.3,USD million,vessel=Bourbon Ampan (2012) & Bourbon Morrakot (2009); buyer=Tan Cang Offshore Services,seabrokers,8.0
+2026-05-01,2026,5,AHTS x 2,winning_bid,4.86,USD million,vessel=Bourbon Liberty 202 and 203 (2009); buyer=Glory Shipmanagement,seabrokers,8.0
+2026-05-01,2026,5,MPSV / CSV,winning_bid,14.1,USD million,vessel=Bourbon Evolution 801 (2011); buyer=Singtech Offshore,seabrokers,8.0
+2026-05-01,2026,5,MPSV / CSV,winning_bid,17.0,USD million,vessel=Bourbon Evolution 803 (2013); buyer=Singtech Offshore,seabrokers,8.0
+2026-05-01,2026,5,MPSV / CSV,winning_bid,46.5,USD million,vessel=Bourbon Evolution 805 (2014); buyer=ELPI,seabrokers,8.0
+2026-05-01,2026,5,MPSV / CSV,winning_bid,35.0,USD million,vessel=Bourbon Evolution 807 (2014); buyer=Astro Offshore,seabrokers,8.0
+2026-05-01,2026,5,PSV,winning_bid,20.24,USD million,vessel=Bourbon Calm (2012); buyer=Bourbon,seabrokers,8.0
+2026-05-01,2026,5,PSV,winning_bid,19.0,USD million,vessel=Bourbon Clear (2012); buyer=Bourbon,seabrokers,8.0
+2026-05-01,2026,5,PSV,winning_bid,19.0,USD million,vessel=Bourbon Front (2012); buyer=Bourbon,seabrokers,8.0
+2026-05-01,2026,5,PSV,winning_bid,4.41,USD million,vessel=Bourbon Horus (2009); buyer=Seahorse Marine & Energy,seabrokers,8.0
+2026-05-01,2026,5,PSV,winning_bid,3.62,USD million,vessel=Bourbon Liberty 153 (2013); buyer=Seahorse Marine & Energy,seabrokers,8.0
+2026-05-01,2026,5,PSV,winning_bid,23.58,USD million,vessel=Bourbon Rainbow (2013); buyer=Southern Towing Ltd,seabrokers,8.0
+2026-05-01,2026,5,PSV x 3,winning_bid,9.7,USD million,"vessel=Bourbon Liberty 157, 162 and 163 (2013-2014); buyer=Zhoushan Runbang Shipping",seabrokers,8.0
+2026-06-01,2026,6,AHTS,winning_bid,9.54,USD million,vessel=Bourbon Gomen (2012); buyer=Britoil Offshore Services,seabrokers,8.0
+2026-06-01,2026,6,AHTS,winning_bid,5.73,USD million,vessel=Bourbon Jindamanee (2010); buyer=Shenzhen Huawei Offshore,seabrokers,8.0
+2026-06-01,2026,6,AHTS,winning_bid,8.32,USD million,vessel=Bourbon Kaimook (2012); buyer=Tan Cang Offshore Services,seabrokers,8.0
+2026-06-01,2026,6,AHTS,winning_bid,2.53,USD million,vessel=Bourbon Liberty 206 (2009); buyer=Excelessel Offshore,seabrokers,8.0
+2026-06-01,2026,6,AHTS,winning_bid,5.38,USD million,vessel=Bourbon Liberty 209 (2009); buyer=Wellington Management,seabrokers,8.0
+2026-06-01,2026,6,AHTS,winning_bid,10.82,USD million,vessel=Bourbon Liberty 309 (2014); buyer=Elde River Shipping,seabrokers,8.0
+2026-06-01,2026,6,AHTS,winning_bid,9.62,USD million,vessel=Bourbon Liberty 318 (2013); buyer=Britoil Offshore Services,seabrokers,8.0
+2026-06-01,2026,6,AHTS,winning_bid,11.54,USD million,vessel=Bourbon Liberty 320 (2014); buyer=Elde River Shipping,seabrokers,8.0
+2026-06-01,2026,6,AHTS,winning_bid,9.72,USD million,vessel=Bourbon Nilgan (2013); buyer=Britoil Offshore Services,seabrokers,8.0
+2026-06-01,2026,6,AHTS,winning_bid,6.1,USD million,vessel=Bourbon Phet (2011); buyer=Britoil Offshore Services,seabrokers,8.0
+2026-06-01,2026,6,AHTS,winning_bid,5.93,USD million,vessel=Bourbon Tong Kam (2009); buyer=TBC,seabrokers,8.0
+2026-06-01,2026,6,AHTS x 2,winning_bid,8.3,USD million,vessel=Bourbon Ampan (2012) & Bourbon Morrakot (2009); buyer=Tan Cang Offshore Services,seabrokers,8.0
+2026-06-01,2026,6,AHTS x 2,winning_bid,4.86,USD million,vessel=Bourbon Liberty 202 and 203 (2009); buyer=Glory Shipmanagement,seabrokers,8.0
+2026-06-01,2026,6,MPSV / CSV,winning_bid,14.1,USD million,vessel=Bourbon Evolution 801 (2011); buyer=Singtech Offshore,seabrokers,8.0
+2026-06-01,2026,6,MPSV / CSV,winning_bid,17.0,USD million,vessel=Bourbon Evolution 803 (2013); buyer=Singtech Offshore,seabrokers,8.0
+2026-06-01,2026,6,MPSV / CSV,winning_bid,46.5,USD million,vessel=Bourbon Evolution 805 (2014); buyer=ELPI,seabrokers,8.0
+2026-06-01,2026,6,MPSV / CSV,winning_bid,35.0,USD million,vessel=Bourbon Evolution 807 (2014); buyer=Astro Offshore,seabrokers,8.0
+2026-06-01,2026,6,PSV,winning_bid,20.24,USD million,vessel=Bourbon Calm (2012); buyer=Bourbon,seabrokers,8.0
+2026-06-01,2026,6,PSV,winning_bid,19.0,USD million,vessel=Bourbon Clear (2012); buyer=Bourbon,seabrokers,8.0
+2026-06-01,2026,6,PSV,winning_bid,16.7,USD million,vessel=Bourbon Explorer 502 (2014); buyer=TBC,seabrokers,8.0
+2026-06-01,2026,6,PSV,winning_bid,19.0,USD million,vessel=Bourbon Front (2012); buyer=Bourbon,seabrokers,8.0
+2026-06-01,2026,6,PSV,winning_bid,4.41,USD million,vessel=Bourbon Horus (2009); buyer=Seahorse Marine & Energy,seabrokers,8.0
+2026-06-01,2026,6,PSV,winning_bid,3.62,USD million,vessel=Bourbon Liberty 153 (2013); buyer=Seahorse Marine & Energy,seabrokers,8.0
+2026-06-01,2026,6,PSV,winning_bid,5.0,USD million,vessel=Bourbon Liberty 154 (2013); buyer=TBC,seabrokers,8.0
+2026-06-01,2026,6,PSV,winning_bid,23.58,USD million,vessel=Bourbon Rainbow (2013); buyer=Southern Towing Ltd,seabrokers,8.0
+2026-06-01,2026,6,PSV x 3,winning_bid,9.7,USD million,"vessel=Bourbon Liberty 157, 162 and 163 (2013-2014); buyer=Zhoushan Runbang Shipping",seabrokers,8.0
+2026-07-01,2026,7,AHTS,winning_bid,9.54,USD million,vessel=Bourbon Gomen (2012); buyer=Britoil Offshore Services,seabrokers,8.0
+2026-07-01,2026,7,AHTS,winning_bid,5.73,USD million,vessel=Bourbon Jindamanee (2010); buyer=Shenzhen Huawei Offshore,seabrokers,8.0
+2026-07-01,2026,7,AHTS,winning_bid,8.32,USD million,vessel=Bourbon Kaimook (2012); buyer=Tan Cang Offshore Services,seabrokers,8.0
+2026-07-01,2026,7,AHTS,winning_bid,2.53,USD million,vessel=Bourbon Liberty 206 (2009); buyer=Excelessel Offshore,seabrokers,8.0
+2026-07-01,2026,7,AHTS,winning_bid,5.38,USD million,vessel=Bourbon Liberty 209 (2009); buyer=Wellington Management,seabrokers,8.0
+2026-07-01,2026,7,AHTS,winning_bid,10.82,USD million,vessel=Bourbon Liberty 309 (2014); buyer=Elde River Shipping,seabrokers,8.0
+2026-07-01,2026,7,AHTS,winning_bid,9.62,USD million,vessel=Bourbon Liberty 318 (2013); buyer=Britoil Offshore Services,seabrokers,8.0
+2026-07-01,2026,7,AHTS,winning_bid,11.54,USD million,vessel=Bourbon Liberty 320 (2014); buyer=Elde River Shipping,seabrokers,8.0
+2026-07-01,2026,7,AHTS,winning_bid,9.72,USD million,vessel=Bourbon Nilgan (2013); buyer=Britoil Offshore Services,seabrokers,8.0
+2026-07-01,2026,7,AHTS,winning_bid,6.1,USD million,vessel=Bourbon Phet (2011); buyer=Britoil Offshore Services,seabrokers,8.0
+2026-07-01,2026,7,AHTS,winning_bid,5.93,USD million,vessel=Bourbon Tong Kam (2009); buyer=PT Wintermar,seabrokers,8.0
+2026-07-01,2026,7,AHTS x 2,winning_bid,8.3,USD million,vessel=Bourbon Ampan (2012) & Bourbon Morrakot (2009); buyer=Tan Cang Offshore Services,seabrokers,8.0
+2026-07-01,2026,7,AHTS x 2,winning_bid,4.86,USD million,vessel=Bourbon Liberty 202 and 203 (2009); buyer=Glory Shipmanagement,seabrokers,8.0
+2026-07-01,2026,7,MPSV / CSV,winning_bid,14.1,USD million,vessel=Bourbon Evolution 801 (2011); buyer=Singtech Offshore,seabrokers,8.0
+2026-07-01,2026,7,MPSV / CSV,winning_bid,17.0,USD million,vessel=Bourbon Evolution 803 (2013); buyer=Singtech Offshore,seabrokers,8.0
+2026-07-01,2026,7,MPSV / CSV,winning_bid,46.5,USD million,vessel=Bourbon Evolution 805 (2014); buyer=ELPI,seabrokers,8.0
+2026-07-01,2026,7,MPSV / CSV,winning_bid,35.0,USD million,vessel=Bourbon Evolution 807 (2014); buyer=Astro Offshore,seabrokers,8.0
+2026-07-01,2026,7,PSV,winning_bid,20.24,USD million,vessel=Bourbon Calm (2012); buyer=Bourbon,seabrokers,8.0
+2026-07-01,2026,7,PSV,winning_bid,19.0,USD million,vessel=Bourbon Clear (2012); buyer=Bourbon,seabrokers,8.0
+2026-07-01,2026,7,PSV,winning_bid,16.7,USD million,vessel=Bourbon Explorer 502 (2014); buyer=TBC,seabrokers,8.0
+2026-07-01,2026,7,PSV,winning_bid,19.0,USD million,vessel=Bourbon Front (2012); buyer=Bourbon,seabrokers,8.0
+2026-07-01,2026,7,PSV,winning_bid,4.41,USD million,vessel=Bourbon Horus (2009); buyer=Seahorse Marine & Energy,seabrokers,8.0
+2026-07-01,2026,7,PSV,winning_bid,5.0,USD million,vessel=Bourbon Liberty 152 (2013); buyer=TBC,seabrokers,8.0
+2026-07-01,2026,7,PSV,winning_bid,3.62,USD million,vessel=Bourbon Liberty 153 (2013); buyer=Seahorse Marine & Energy,seabrokers,8.0
+2026-07-01,2026,7,PSV,winning_bid,5.0,USD million,vessel=Bourbon Liberty 154 (2013); buyer=TBC,seabrokers,8.0
+2026-07-01,2026,7,PSV,winning_bid,23.58,USD million,vessel=Bourbon Rainbow (2013); buyer=Southern Towing Ltd,seabrokers,8.0
+2026-07-01,2026,7,PSV x 3,winning_bid,9.7,USD million,"vessel=Bourbon Liberty 157, 162 and 163 (2013-2014); buyer=Zhoushan Runbang Shipping",seabrokers,8.0
+2026-08-01,2026,8,AHTS,winning_bid,9.54,USD million,vessel=Bourbon Gomen (2012); buyer=Britoil Offshore Services,seabrokers,8.0
+2026-08-01,2026,8,AHTS,winning_bid,5.73,USD million,vessel=Bourbon Jindamanee (2010); buyer=Shenzhen Huawei Offshore,seabrokers,8.0
+2026-08-01,2026,8,AHTS,winning_bid,8.32,USD million,vessel=Bourbon Kaimook (2012); buyer=Tan Cang Offshore Services,seabrokers,8.0
+2026-08-01,2026,8,AHTS,winning_bid,2.53,USD million,vessel=Bourbon Liberty 206 (2009); buyer=Excelessel Offshore,seabrokers,8.0
+2026-08-01,2026,8,AHTS,winning_bid,5.38,USD million,vessel=Bourbon Liberty 209 (2009); buyer=Wellington Management,seabrokers,8.0
+2026-08-01,2026,8,AHTS,winning_bid,10.82,USD million,vessel=Bourbon Liberty 309 (2014); buyer=Elde River Shipping,seabrokers,8.0
+2026-08-01,2026,8,AHTS,winning_bid,12.6,USD million,vessel=Bourbon Liberty 311 (2014); buyer=TBC,seabrokers,8.0
+2026-08-01,2026,8,AHTS,winning_bid,9.62,USD million,vessel=Bourbon Liberty 318 (2013); buyer=Britoil Offshore Services,seabrokers,8.0
+2026-08-01,2026,8,AHTS,winning_bid,11.54,USD million,vessel=Bourbon Liberty 320 (2014); buyer=Elde River Shipping,seabrokers,8.0
+2026-08-01,2026,8,AHTS,winning_bid,9.72,USD million,vessel=Bourbon Nilgan (2013); buyer=Britoil Offshore Services,seabrokers,8.0
+2026-08-01,2026,8,AHTS,winning_bid,6.1,USD million,vessel=Bourbon Phet (2011); buyer=Britoil Offshore Services,seabrokers,8.0
+2026-08-01,2026,8,AHTS,winning_bid,5.93,USD million,vessel=Bourbon Tong Kam (2009); buyer=PT Wintermar,seabrokers,8.0
+2026-08-01,2026,8,AHTS x 2,winning_bid,8.3,USD million,vessel=Bourbon Ampan (2012) & Bourbon Morrakot (2009); buyer=Tan Cang Offshore Services,seabrokers,8.0
+2026-08-01,2026,8,AHTS x 2,winning_bid,4.86,USD million,vessel=Bourbon Liberty 202 and 203 (2009); buyer=Glory Shipmanagement,seabrokers,8.0
+2026-08-01,2026,8,MPSV / CSV,winning_bid,14.1,USD million,vessel=Bourbon Evolution 801 (2011); buyer=Singtech Offshore,seabrokers,8.0
+2026-08-01,2026,8,MPSV / CSV,winning_bid,17.0,USD million,vessel=Bourbon Evolution 803 (2013); buyer=Singtech Offshore,seabrokers,8.0
+2026-08-01,2026,8,MPSV / CSV,winning_bid,46.5,USD million,vessel=Bourbon Evolution 805 (2014); buyer=ELPI,seabrokers,8.0
+2026-08-01,2026,8,MPSV / CSV,winning_bid,35.0,USD million,vessel=Bourbon Evolution 807 (2014); buyer=Astro Offshore,seabrokers,8.0
+2026-08-01,2026,8,MPSV / CSV,winning_bid,52.06,USD million,vessel=Bourbon Evolution 808 (2014); buyer=TBC,seabrokers,8.0
+2026-08-01,2026,8,PSV,winning_bid,20.24,USD million,vessel=Bourbon Calm (2012); buyer=Bourbon,seabrokers,8.0
+2026-08-01,2026,8,PSV,winning_bid,19.0,USD million,vessel=Bourbon Clear (2012); buyer=Bourbon,seabrokers,8.0
+2026-08-01,2026,8,PSV,winning_bid,16.7,USD million,vessel=Bourbon Explorer 502 (2014); buyer=PT Wintermar,seabrokers,8.0
+2026-08-01,2026,8,PSV,winning_bid,19.0,USD million,vessel=Bourbon Front (2012); buyer=Bourbon,seabrokers,8.0
+2026-08-01,2026,8,PSV,winning_bid,4.41,USD million,vessel=Bourbon Horus (2009); buyer=Seahorse Marine & Energy,seabrokers,8.0
+2026-08-01,2026,8,PSV,winning_bid,5.0,USD million,vessel=Bourbon Liberty 152 (2013); buyer=TBC,seabrokers,8.0
+2026-08-01,2026,8,PSV,winning_bid,3.62,USD million,vessel=Bourbon Liberty 153 (2013); buyer=Seahorse Marine & Energy,seabrokers,8.0
+2026-08-01,2026,8,PSV,winning_bid,5.0,USD million,vessel=Bourbon Liberty 154 (2013); buyer=Alphard Maritime,seabrokers,8.0
+2026-08-01,2026,8,PSV,winning_bid,23.58,USD million,vessel=Bourbon Rainbow (2013); buyer=Southern Towing Ltd,seabrokers,8.0
+2026-08-01,2026,8,PSV x 3,winning_bid,9.7,USD million,"vessel=Bourbon Liberty 157, 162 and 163 (2013-2014); buyer=Zhoushan Runbang Shipping",seabrokers,8.0

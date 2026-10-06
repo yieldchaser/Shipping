@@ -1,0 +1,287 @@
+{
+  "vessel_class": "LR2",
+  "sector": "Product Tankers",
+  "source_file": "Drewry_AIS_Product_LR2_Week39_2026.pdf",
+  "metrics_summary": {
+    "vessel_class": "LR2",
+    "sector": "Product Tankers",
+    "source_file": "Drewry_AIS_Product_LR2_Week39_2026.pdf",
+    "fleet_performance_points": 1482,
+    "regional_congestion_points": 572,
+    "deployment_speed_points": 273,
+    "utilisation_points": 142,
+    "total_points": 2469
+  },
+  "sample_fleet_performance": [
+    {
+      "sector": "Product Tankers",
+      "vessel_class": "LR2",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 1,
+      "date": "2022-01-05",
+      "value_mdwt": 20.55,
+      "source_file": "Drewry_AIS_Product_LR2_Week39_2026.pdf"
+    },
+    {
+      "sector": "Product Tankers",
+      "vessel_class": "LR2",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 2,
+      "date": "2022-01-12",
+      "value_mdwt": 18.44,
+      "source_file": "Drewry_AIS_Product_LR2_Week39_2026.pdf"
+    },
+    {
+      "sector": "Product Tankers",
+      "vessel_class": "LR2",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 3,
+      "date": "2022-01-19",
+      "value_mdwt": 19.16,
+      "source_file": "Drewry_AIS_Product_LR2_Week39_2026.pdf"
+    },
+    {
+      "sector": "Product Tankers",
+      "vessel_class": "LR2",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 4,
+      "date": "2022-01-26",
+      "value_mdwt": 17.91,
+      "source_file": "Drewry_AIS_Product_LR2_Week39_2026.pdf"
+    },
+    {
+      "sector": "Product Tankers",
+      "vessel_class": "LR2",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 5,
+      "date": "2022-02-02",
+      "value_mdwt": 20.1,
+      "source_file": "Drewry_AIS_Product_LR2_Week39_2026.pdf"
+    },
+    {
+      "sector": "Product Tankers",
+      "vessel_class": "LR2",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 6,
+      "date": "2022-02-09",
+      "value_mdwt": 19.72,
+      "source_file": "Drewry_AIS_Product_LR2_Week39_2026.pdf"
+    }
+  ],
+  "sample_regional_congestion": [
+    {
+      "sector": "Product Tankers",
+      "vessel_class": "LR2",
+      "region": "China",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 1,
+      "date": "2024-01-03",
+      "value_mdwt": 0.11,
+      "source_file": "Drewry_AIS_Product_LR2_Week39_2026.pdf"
+    },
+    {
+      "sector": "Product Tankers",
+      "vessel_class": "LR2",
+      "region": "China",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 2,
+      "date": "2024-01-10",
+      "value_mdwt": 0.19,
+      "source_file": "Drewry_AIS_Product_LR2_Week39_2026.pdf"
+    },
+    {
+      "sector": "Product Tankers",
+      "vessel_class": "LR2",
+      "region": "China",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 3,
+      "date": "2024-01-17",
+      "value_mdwt": 0.26,
+      "source_file": "Drewry_AIS_Product_LR2_Week39_2026.pdf"
+    },
+    {
+      "sector": "Product Tankers",
+      "vessel_class": "LR2",
+      "region": "China",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 4,
+      "date": "2024-01-24",
+      "value_mdwt": 0.66,
+      "source_file": "Drewry_AIS_Product_LR2_Week39_2026.pdf"
+    },
+    {
+      "sector": "Product Tankers",
+      "vessel_class": "LR2",
+      "region": "China",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 5,
+      "date": "2024-01-31",
+      "value_mdwt": 0.49,
+      "source_file": "Drewry_AIS_Product_LR2_Week39_2026.pdf"
+    },
+    {
+      "sector": "Product Tankers",
+      "vessel_class": "LR2",
+      "region": "China",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 6,
+      "date": "2024-02-07",
+      "value_mdwt": 0.39,
+      "source_file": "Drewry_AIS_Product_LR2_Week39_2026.pdf"
+    }
+  ],
+  "sample_deployment_speed": [
+    {
+      "sector": "Product Tankers",
+      "vessel_class": "LR2",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 1,
+      "date": "2025-01-01",
+      "value": 99.88,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Product_LR2_Week39_2026.pdf"
+    },
+    {
+      "sector": "Product Tankers",
+      "vessel_class": "LR2",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 2,
+      "date": "2025-01-08",
+      "value": 104.29,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Product_LR2_Week39_2026.pdf"
+    },
+    {
+      "sector": "Product Tankers",
+      "vessel_class": "LR2",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 3,
+      "date": "2025-01-15",
+      "value": 111.89,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Product_LR2_Week39_2026.pdf"
+    },
+    {
+      "sector": "Product Tankers",
+      "vessel_class": "LR2",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 4,
+      "date": "2025-01-22",
+      "value": 113.49,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Product_LR2_Week39_2026.pdf"
+    },
+    {
+      "sector": "Product Tankers",
+      "vessel_class": "LR2",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 5,
+      "date": "2025-01-29",
+      "value": 111.67,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Product_LR2_Week39_2026.pdf"
+    },
+    {
+      "sector": "Product Tankers",
+      "vessel_class": "LR2",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 6,
+      "date": "2025-02-05",
+      "value": 109.05,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Product_LR2_Week39_2026.pdf"
+    }
+  ],
+  "sample_utilisation": [
+    {
+      "sector": "Product Tankers",
+      "vessel_class": "LR2",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 1,
+      "date": "2025-01-01",
+      "value_pct": 89.15,
+      "source_file": "Drewry_AIS_Product_LR2_Week39_2026.pdf"
+    },
+    {
+      "sector": "Product Tankers",
+      "vessel_class": "LR2",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 2,
+      "date": "2025-01-08",
+      "value_pct": 88.66,
+      "source_file": "Drewry_AIS_Product_LR2_Week39_2026.pdf"
+    },
+    {
+      "sector": "Product Tankers",
+      "vessel_class": "LR2",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 3,
+      "date": "2025-01-15",
+      "value_pct": 88.79,
+      "source_file": "Drewry_AIS_Product_LR2_Week39_2026.pdf"
+    },
+    {
+      "sector": "Product Tankers",
+      "vessel_class": "LR2",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 4,
+      "date": "2025-01-22",
+      "value_pct": 89.58,
+      "source_file": "Drewry_AIS_Product_LR2_Week39_2026.pdf"
+    },
+    {
+      "sector": "Product Tankers",
+      "vessel_class": "LR2",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 5,
+      "date": "2025-01-29",
+      "value_pct": 88.28,
+      "source_file": "Drewry_AIS_Product_LR2_Week39_2026.pdf"
+    },
+    {
+      "sector": "Product Tankers",
+      "vessel_class": "LR2",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 6,
+      "date": "2025-02-05",
+      "value_pct": 90.1,
+      "source_file": "Drewry_AIS_Product_LR2_Week39_2026.pdf"
+    }
+  ]
+}

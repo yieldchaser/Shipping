@@ -1,0 +1,25 @@
+{
+  "issue_date": "2008-01-04",
+  "year": 2008,
+  "title": "The Freight Factor",
+  "source_file": "corpus/04-poten/pdfs/2008/Tanker_Opinion_20080104.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2008-01-04_the-freight-factor_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2008/poten_2008-01-04_the-freight-factor_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-01-04_the-freight-factor_chart1.png",
+      "width": 434,
+      "height": 358
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

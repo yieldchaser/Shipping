@@ -1,0 +1,65 @@
+report_date,year,month,vessel_class,metric,value,value_text,unit,note,source,source_page
+2025-09-01,2025,9,Avra,featured,1.0,,count,,seabrokers,7.0
+2025-09-01,2025,9,Avra,length,138.1,,m,,seabrokers,7.0
+2025-09-01,2025,9,Avra,breadth,27.6,,m,,seabrokers,7.0
+2025-09-01,2025,9,Avra,deadweight,8000.0,,tonnes,,seabrokers,7.0
+2025-09-01,2025,9,Avra,accommodation,120.0,,persons,,seabrokers,7.0
+2025-09-01,2025,9,Avra,owner,,Asso.subsea,text,,seabrokers,7.0
+2025-10-01,2025,10,Norse Wind,featured,1.0,,count,,seabrokers,7.0
+2025-10-01,2025,10,Norse Wind,delivery_year,2025.0,,year,,seabrokers,7.0
+2025-10-01,2025,10,Norse Wind,length,146.0,,m,,seabrokers,7.0
+2025-10-01,2025,10,Norse Wind,breadth,46.0,,m,,seabrokers,7.0
+2025-10-01,2025,10,Norse Wind,owner,,DEME,text,,seabrokers,7.0
+2025-10-01,2025,10,Norse Wind,design,,NG20000X class,text,,seabrokers,7.0
+2025-10-01,2025,10,Norse Wind,designer,,GustoMSC,text,,seabrokers,7.0
+2025-11-01,2025,11,HOS Rocinante,featured,1.0,,count,,seabrokers,7.0
+2025-11-01,2025,11,HOS Rocinante,delivery_year,2014.0,,year,,seabrokers,7.0
+2025-11-01,2025,11,HOS Rocinante,length,91.6,,m,,seabrokers,7.0
+2025-11-01,2025,11,HOS Rocinante,breadth,18.3,,m,,seabrokers,7.0
+2025-11-01,2025,11,HOS Rocinante,owner,,Hornbeck Offshore,text,,seabrokers,7.0
+2025-11-01,2025,11,HOS Rocinante,design,,300E class CSOV,text,,seabrokers,7.0
+2026-03-01,2026,3,Elisa,featured,1.0,,count,,seabrokers,7.0
+2026-03-01,2026,3,Elisa,length,89.5,,m,,seabrokers,7.0
+2026-03-01,2026,3,Elisa,breadth,22.0,,m,,seabrokers,7.0
+2026-03-01,2026,3,Elisa,accommodation,90.0,,persons,,seabrokers,7.0
+2026-03-01,2026,3,Elisa,design,,MT6067 FSV,text,,seabrokers,7.0
+2026-03-01,2026,3,Elisa,designer,,Marin Teknikk,text,,seabrokers,7.0
+2026-03-01,2026,3,Elisa,moonpool,,Accommodation: 90 persons,text,,seabrokers,7.0
+2026-04-01,2026,4,William Thomson,featured,1.0,,count,,seabrokers,7.0
+2026-04-01,2026,4,William Thomson,length,215.0,,m,,seabrokers,7.0
+2026-04-01,2026,4,William Thomson,breadth,40.0,,m,,seabrokers,7.0
+2026-04-01,2026,4,William Thomson,accommodation,120.0,,persons,,seabrokers,7.0
+2026-04-01,2026,4,William Thomson,owner,,Jan De Nul,text,,seabrokers,7.0
+2026-04-01,2026,4,William Thomson,rovs,,"2 x 3,000m WROV",text,,seabrokers,7.0
+2026-06-01,2026,6,Solstad / SBM TBC,featured,1.0,,count,,seabrokers,7.0
+2026-06-01,2026,6,Solstad / SBM TBC,length,132.6,,m,,seabrokers,7.0
+2026-06-01,2026,6,Solstad / SBM TBC,breadth,32.0,,m,,seabrokers,7.0
+2026-06-01,2026,6,Solstad / SBM TBC,deadweight,11200.0,,tonnes,,seabrokers,7.0
+2026-06-01,2026,6,Solstad / SBM TBC,accommodation,100.0,,persons,,seabrokers,7.0
+2026-06-01,2026,6,Solstad / SBM TBC,installed_power,26900.0,,kW,,seabrokers,7.0
+2026-06-01,2026,6,Solstad / SBM TBC,main_crane,400.0,,tonnes,,seabrokers,7.0
+2026-06-01,2026,6,Solstad / SBM TBC,owner,,Solstad (50.1%) / SBM,text,,seabrokers,7.0
+2026-06-01,2026,6,Solstad / SBM TBC,manager,,Solstad Shipping,text,,seabrokers,7.0
+2026-06-01,2026,6,Solstad / SBM TBC,designer,,Salt Ship,text,,seabrokers,7.0
+2026-06-01,2026,6,Solstad / SBM TBC,rovs,,2 x work-class,text,,seabrokers,7.0
+2026-07-01,2026,7,Windpiper,featured,1.0,,count,,seabrokers,7.0
+2026-07-01,2026,7,Windpiper,length,227.0,,m,,seabrokers,7.0
+2026-07-01,2026,7,Windpiper,breadth,40.0,,m,,seabrokers,7.0
+2026-07-01,2026,7,Windpiper,owner,,Boskalis,text,,seabrokers,7.0
+2026-07-01,2026,7,Windpiper,designer,,Vuyk,text,,seabrokers,7.0
+2026-08-01,2026,8,Viking Reach,featured,1.0,,count,,seabrokers,7.0
+2026-08-01,2026,8,Viking Reach,delivery_year,2009.0,,year,,seabrokers,7.0
+2026-08-01,2026,8,Viking Reach,length,85.3,,m,,seabrokers,7.0
+2026-08-01,2026,8,Viking Reach,breadth,18.0,,m,,seabrokers,7.0
+2026-08-01,2026,8,Viking Reach,deadweight,2200.0,,tonnes,,seabrokers,7.0
+2026-08-01,2026,8,Viking Reach,accommodation,72.0,,persons,,seabrokers,7.0
+2026-08-01,2026,8,Viking Reach,main_crane,270.0,,tonnes,,seabrokers,7.0
+2026-08-01,2026,8,Viking Reach,deck_area,650.0,,m2,,seabrokers,7.0
+2026-08-01,2026,8,Viking Reach,owner,,Eidesvik (50.1%) / Reach,text,,seabrokers,7.0
+2026-08-01,2026,8,Viking Reach,manager,,Reach Subsea,text,,seabrokers,7.0
+2026-08-01,2026,8,Viking Reach,design,,ST-253,text,,seabrokers,7.0
+2026-08-01,2026,8,Viking Reach,designer,,Skipsteknisk AS,text,,seabrokers,7.0
+2026-08-01,2026,8,Viking Reach,dynamic_positioning,,Class 2,text,,seabrokers,7.0
+2026-08-01,2026,8,Viking Reach,helideck,,Sikorsky S-92,text,,seabrokers,7.0
+2026-08-01,2026,8,Viking Reach,moonpool,,7.2 metres x 7.2 metres,text,,seabrokers,7.0
+2026-08-01,2026,8,Viking Reach,rovs,,1 x Supporter work-class & 1,text,,seabrokers,7.0

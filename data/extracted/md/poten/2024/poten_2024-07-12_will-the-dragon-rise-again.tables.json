@@ -1,0 +1,34 @@
+{
+  "issue_date": "2024-07-12",
+  "year": 2024,
+  "title": "Will The Dragon Rise Again",
+  "source_file": "corpus/04-poten/pdfs/2024/Weekly Opinion - 12 July 2024 - Will The Dragon Rise Again.pdf",
+  "tables_count": 0,
+  "charts_count": 2,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2024-07-12_will-the-dragon-rise-again_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2024/poten_2024-07-12_will-the-dragon-rise-again_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-07-12_will-the-dragon-rise-again_chart1.png",
+      "width": 980,
+      "height": 545
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2024-07-12_will-the-dragon-rise-again_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2024/poten_2024-07-12_will-the-dragon-rise-again_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-07-12_will-the-dragon-rise-again_chart2.png",
+      "width": 980,
+      "height": 545
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

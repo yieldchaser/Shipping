@@ -1,0 +1,27 @@
+---
+id: "6AEFF524-94AA-4687-B989-FA2CD5171055"
+source: "Fearnleys"
+sector: "Tanker Route Trends"
+desk: "BITR-2"
+comment_type: "BITR-2"
+comment_subtype: "trend"
+date: "2023-03-08"
+year: 2023
+week: 10
+title: "Fearnleys BITR-2 Comment - 2023-03-08"
+---
+
+# Fearnleys BITR-2 Comment (2023-03-08)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Sector:** Tanker Route Trends
+- **Desk:** BITR-2
+- **Publication Date:** 2023-03-08 (Week 10)
+- **Comment Type:** BITR-2
+- **Record ID:** `6AEFF524-94AA-4687-B989-FA2CD5171055`
+
+---
+
+## Market Commentary
+
+Softer

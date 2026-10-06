@@ -664,23 +664,43 @@ def run_pipeline():
         section_counts[sec] = section_counts.get(sec, 0) + 1
     print(f"    - Breakdown by section: {section_counts}")
 
-    # Generate master metadata catalog
+    # Generate master metadata catalog (Non-Destructive Upsert)
     metadata_csv_path = os.path.join(SERIES_DIR, "signal_reports_metadata.csv")
     meta_headers = [
         "issue_date", "year", "week", "section", "category", "title",
         "word_count", "images_count", "tables_count", "url", "source_file", "md_file"
     ]
-    with open(metadata_csv_path, 'w', encoding='utf-8', newline='') as f:
-        writer = csv.writer(f)
-        writer.writerow(meta_headers)
-        for r in sorted(extracted, key=lambda x: (x['date'], x['slug']), reverse=True):
-            writer.writerow([
-                r['date'], r['year'], r['week'], r['section'], r['category'], r['title'],
-                r['word_count'], r['images_count'], r['tables_count'], r['url'],
-                f"corpus/07-signal/html/{r['slug']}.html",
-                f"data/extracted/md/signal/{r['section']}/{r['year']}/{r['slug']}.md"
-            ])
-    print(f"[+] Stacked master metadata catalog: {metadata_csv_path} ({len(extracted)} rows)")
+    existing_meta = {}
+    if os.path.exists(metadata_csv_path) and os.path.getsize(metadata_csv_path) > 0:
+        try:
+            with open(metadata_csv_path, 'r', encoding='utf-8', errors='replace') as rf:
+                for row in csv.DictReader(rf):
+                    existing_meta[row.get('source_file', '')] = row
+        except Exception:
+            pass
+    for r in extracted:
+        sf = f"corpus/07-signal/html/{r['slug']}.html"
+        existing_meta[sf] = {
+            "issue_date": r['date'],
+            "year": r['year'],
+            "week": r['week'],
+            "section": r['section'],
+            "category": r['category'],
+            "title": r['title'],
+            "word_count": r['word_count'],
+            "images_count": r['images_count'],
+            "tables_count": r['tables_count'],
+            "url": r['url'],
+            "source_file": sf,
+            "md_file": f"data/extracted/md/signal/{r['section']}/{r['year']}/{r['slug']}.md"
+        }
+    if existing_meta:
+        merged_meta = sorted(existing_meta.values(), key=lambda x: (str(x.get('issue_date', '')), str(x.get('source_file', ''))), reverse=True)
+        with open(metadata_csv_path, 'w', encoding='utf-8', newline='') as f:
+            writer = csv.DictWriter(f, fieldnames=meta_headers)
+            writer.writeheader()
+            writer.writerows(merged_meta)
+    print(f"[+] Stacked master metadata catalog: {metadata_csv_path} ({len(existing_meta)} total rows)")
 
     # Generate vessel count time series.
     try:
@@ -692,30 +712,34 @@ def run_pipeline():
     _n = _svc.write_series(_svc.build_rows(_blocks))
     print(f"[+] Stacked vessel counts series: {_svc.SERIES_PATH} ({_n} rows)")
 
-    # Update manifest with retry
-    for attempt in range(10):
-        try:
-            with open(MANIFEST_PATH, 'w', encoding='utf-8', newline='') as f:
-                fieldnames = ["slug", "url", "section", "status", "md_path", "html_path", "title", "date", "category", "char_count"]
-                writer = csv.DictWriter(f, fieldnames=fieldnames)
-                writer.writeheader()
-                for r in sorted(results, key=lambda x: x['slug']):
-                    writer.writerow({
-                        "slug": r['slug'],
-                        "url": r['url'],
-                        "section": r['section'],
-                        "status": r['status'],
-                        "md_path": f"corpus/07-signal/{r['section']}/{r.get('year', 2026)}/{r['slug']}.md" if r['status'] == 'extracted' else None,
-                        "html_path": f"corpus/07-signal/html/{r['slug']}.html",
-                        "title": r.get('title', ''),
-                        "date": r.get('date', ''),
-                        "category": r.get('category', ''),
-                        "char_count": r.get('word_count', 0)
-                    })
-            break
-        except PermissionError:
-            time.sleep(0.5)
-    print(f"[+] Synchronized manifest: {MANIFEST_PATH}")
+    # Update manifest with retry (Non-Destructive Upsert)
+    fieldnames = ["slug", "url", "section", "status", "md_path", "html_path", "title", "date", "category", "char_count"]
+    for r in results:
+        manifest_dict[r['slug']] = {
+            "slug": r['slug'],
+            "url": r['url'],
+            "section": r['section'],
+            "status": r['status'],
+            "md_path": f"corpus/07-signal/{r['section']}/{r.get('year', 2026)}/{r['slug']}.md" if r['status'] == 'extracted' else None,
+            "html_path": f"corpus/07-signal/html/{r['slug']}.html",
+            "title": r.get('title', ''),
+            "date": r.get('date', ''),
+            "category": r.get('category', ''),
+            "char_count": r.get('word_count', 0)
+        }
+    if manifest_dict:
+        for attempt in range(10):
+            try:
+                with open(MANIFEST_PATH, 'w', encoding='utf-8', newline='') as f:
+                    writer = csv.DictWriter(f, fieldnames=fieldnames)
+                    writer.writeheader()
+                    for slug_key in sorted(manifest_dict.keys()):
+                        row_val = manifest_dict[slug_key]
+                        writer.writerow({c: row_val.get(c, '') for c in fieldnames})
+                break
+            except PermissionError:
+                time.sleep(0.5)
+    print(f"[+] Synchronized manifest: {MANIFEST_PATH} ({len(manifest_dict)} entries)")
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="The Signal Group Extraction Pipeline")

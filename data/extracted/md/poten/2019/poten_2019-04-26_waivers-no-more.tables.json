@@ -1,0 +1,25 @@
+{
+  "issue_date": "2019-04-26",
+  "year": 2019,
+  "title": "Waivers No More",
+  "source_file": "corpus/04-poten/pdfs/2019/Weekly-Opinion-26-April-2019-Waivers-No-More.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2019-04-26_waivers-no-more_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2019/poten_2019-04-26_waivers-no-more_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-04-26_waivers-no-more_chart1.png",
+      "width": 946,
+      "height": 527
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

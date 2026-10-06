@@ -1,0 +1,25 @@
+{
+  "issue_date": "2025-05-02",
+  "year": 2025,
+  "title": "All Hands On Deck!",
+  "source_file": "corpus/04-poten/pdfs/2025/Weekly Opinion - 2 May 2025 - All Hands On Deck!.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2025-05-02_all-hands-on-deck_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2025/poten_2025-05-02_all-hands-on-deck_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-05-02_all-hands-on-deck_chart1.png",
+      "width": 775,
+      "height": 925
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

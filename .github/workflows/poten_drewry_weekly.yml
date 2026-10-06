@@ -39,10 +39,10 @@ jobs:
 
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.12'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 pandas pymupdf pillow openpyxl
+        run: pip install requests beautifulsoup4 pandas pymupdf pillow openpyxl llama-parse
 
       - name: Configure Git identity
         run: |
@@ -55,6 +55,7 @@ jobs:
       - name: Run Drewry & Poten Ingestion
         env:
           DREWRY_COOKIE: ${{ secrets.DREWRY_COOKIE }}
+          LLAMA_CLOUD_API_KEY: ${{ secrets.LLAMA_CLOUD_API_KEY }}
         run: |
           if [ "${{ inputs.backfill_2011 }}" = "true" ]; then
             python scripts/scrapers/fetch_drewry_wci.py --backfill --max-snapshots 50 --limit-per-pattern 200 || true
@@ -77,11 +78,34 @@ jobs:
           python scripts/extract/publishers/run_drewry_ais_charts.py || true
           python scripts/extract/publishers/run_drewry_ais.py || true
           python scripts/extract/publishers/run_poten.py || true
+          python scripts/verify/build_corpus_inventory.py --merge-existing || true
+          python scripts/sync_extraction_register.py || true
           python scripts/audit/generate_cadence_audit.py || true
 
       - name: Commit & Push New Data
         run: |
-          git add data/indices/ data/clarksons/ corpus/06-drewry/ corpus/04-poten/ corpus/CORPUS_REGISTRY_AND_CADENCE_AUDIT.md corpus/CORPUS_PUBLICATION_CADENCE_AND_AUDIT.xlsx data/extracted/md/drewry/ data/extracted/md/poten/ data/extracted/series/ data/extracted/charts/ data/derived/ || true
+          for fpath in corpus/06-drewry corpus/04-poten data/extracted/charts reports/drewry/ais_manifest.csv; do
+            if [ -e "$fpath" ]; then
+              git add -f "$fpath" || true
+            fi
+          done
+          for tpath in \
+            data/indices \
+            data/clarksons \
+            data/derived \
+            corpus/_inventory_untracked.json \
+            corpus/CORPUS_REGISTRY_AND_CADENCE_AUDIT.md \
+            docs/CORPUS_CADENCE_AND_AUDIT.md \
+            corpus/CORPUS_PUBLICATION_CADENCE_AND_AUDIT.xlsx \
+            data/extracted/md/drewry \
+            data/extracted/md/poten \
+            data/extracted/series \
+            data/extracted/EXTRACTION_REGISTER.json \
+            docs/EXTRACTION_REGISTER.md; do
+            if [ -e "$tpath" ]; then
+              git add "$tpath" || true
+            fi
+          done
           if git diff --staged --quiet; then
             echo "No new Poten or Drewry data changes."
             exit 0

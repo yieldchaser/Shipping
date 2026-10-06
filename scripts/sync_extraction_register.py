@@ -76,6 +76,11 @@ def sync_register():
     # 1. Scan disk series
     csv_files = sorted(list(SERIES_DIR.glob("*.csv")))
     xlsx_files = sorted(list(SERIES_DIR.glob("*.xlsx")))
+    if len(csv_files) < 100:
+        raise RuntimeError(
+            f"Safety guard triggered: only {len(csv_files)} CSV series found in {SERIES_DIR}. "
+            "Refusing to overwrite EXTRACTION_REGISTER.md with incomplete inventory."
+        )
     
     disk_inventory = {}
     total_csv_rows = 0

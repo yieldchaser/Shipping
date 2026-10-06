@@ -1,0 +1,25 @@
+{
+  "issue_date": "2005-01-21",
+  "year": 2005,
+  "title": "From Whence Doth the Business Cometh?",
+  "source_file": "corpus/04-poten/pdfs/2005/Tanker_Opinion_20050121.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2005-01-21_from-whence-doth-the-business-cometh_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2005/poten_2005-01-21_from-whence-doth-the-business-cometh_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-01-21_from-whence-doth-the-business-cometh_chart1.png",
+      "width": 544,
+      "height": 439
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

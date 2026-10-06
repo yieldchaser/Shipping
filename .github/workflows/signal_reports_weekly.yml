@@ -27,7 +27,7 @@ jobs:
 
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.12'
 
       - name: Install dependencies
         run: pip install requests beautifulsoup4 pandas pillow openpyxl
@@ -49,15 +49,40 @@ jobs:
           python scripts/scrapers/download_signal_images.py
           python scripts/extract/publishers/run_signal.py || true
           python scripts/extract/publishers/run_signal_vessel_counts.py || true
+          python scripts/verify/build_corpus_inventory.py --merge-existing || true
+          python scripts/sync_extraction_register.py || true
           python scripts/audit/generate_cadence_audit.py || true
 
       - name: Commit & Push New Signal Intelligence
         run: |
-          git add corpus/07-signal/ corpus/CORPUS_REGISTRY_AND_CADENCE_AUDIT.md corpus/CORPUS_PUBLICATION_CADENCE_AND_AUDIT.xlsx data/extracted/md/signal/ data/extracted/series/signal_*.csv || true
+          for fpath in corpus/07-signal; do
+            if [ -e "$fpath" ]; then
+              git add -f "$fpath" || true
+            fi
+          done
+          for tpath in \
+            corpus/_inventory_untracked.json \
+            corpus/CORPUS_REGISTRY_AND_CADENCE_AUDIT.md \
+            docs/CORPUS_CADENCE_AND_AUDIT.md \
+            corpus/CORPUS_PUBLICATION_CADENCE_AND_AUDIT.xlsx \
+            data/extracted/md/signal \
+            data/extracted/series \
+            data/extracted/EXTRACTION_REGISTER.json \
+            docs/EXTRACTION_REGISTER.md; do
+            if [ -e "$tpath" ]; then
+              git add "$tpath" || true
+            fi
+          done
           if git diff --staged --quiet; then
             echo "No new Signal Ocean reports or chart images to commit."
-          else
-            git commit -m "chore(signal): ingest latest weekly market monitors, images, and update cadence audit [skip ci]"
-            git pull origin main --rebase || true
-            git push origin main
+            exit 0
           fi
+          git commit -m "chore(signal): ingest latest weekly market monitors, images, and update cadence audit [skip ci]"
+          for attempt in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push origin HEAD:main; then
+              echo "Push succeeded on attempt $attempt."
+              exit 0
+            fi
+            sleep 10
+          done
+          exit 1

@@ -1,0 +1,25 @@
+{
+  "issue_date": "2016-12-01",
+  "year": 2016,
+  "title": "Against All Odds",
+  "source_file": "corpus/04-poten/pdfs/2016/Weekly-Opinion-1-December-2016-Against-All-Odds.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2016-12-01_against-all-odds_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2016/poten_2016-12-01_against-all-odds_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-12-01_against-all-odds_chart1.png",
+      "width": 848,
+      "height": 481
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

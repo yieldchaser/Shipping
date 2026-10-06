@@ -1,0 +1,25 @@
+{
+  "issue_date": "2021-08-13",
+  "year": 2021,
+  "title": "Money For Nothing And Ships For Free",
+  "source_file": "corpus/04-poten/pdfs/2021/Weekly-Opinion-13-August-2021-Money-For-Nothing-And-Ships-For-Free.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2021-08-13_money-for-nothing-and-ships-for-free_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2021/poten_2021-08-13_money-for-nothing-and-ships-for-free_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-08-13_money-for-nothing-and-ships-for-free_chart1.png",
+      "width": 976,
+      "height": 555
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

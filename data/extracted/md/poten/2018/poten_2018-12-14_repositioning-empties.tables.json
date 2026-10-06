@@ -1,0 +1,34 @@
+{
+  "issue_date": "2018-12-14",
+  "year": 2018,
+  "title": "Repositioning Empties",
+  "source_file": "corpus/04-poten/pdfs/2018/Weekly-Opinion-14-December-2018-Repositioning-Empties.pdf",
+  "tables_count": 0,
+  "charts_count": 2,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2018-12-14_repositioning-empties_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2018/poten_2018-12-14_repositioning-empties_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-12-14_repositioning-empties_chart1.png",
+      "width": 950,
+      "height": 590
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2018-12-14_repositioning-empties_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2018/poten_2018-12-14_repositioning-empties_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-12-14_repositioning-empties_chart2.png",
+      "width": 946,
+      "height": 591
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

@@ -309,13 +309,16 @@ def get_next_page_url(page_soup: BeautifulSoup, current_url: str) -> str | None:
     return None
 
 
-def collect_category_urls(driver, category_name: str, category_url: str, year_filter: int | None) -> list[str]:
+def collect_category_urls(driver, category_name: str, category_url: str, year_filter: int | None, max_pages: int | None = None) -> list[str]:
     all_links: list[str] = []
     seen: set[str] = set()
     page_url = category_url
     page_num = 1
 
     while page_url:
+        if max_pages is not None and page_num > max_pages:
+            print(f"    Reached max_pages={max_pages} for {category_name}; stopping pagination")
+            break
         print(f"    Page {page_num}: ...{page_url[-60:]}")
         page_soup = fetch_soup(driver, page_url)
         if page_soup is None:
@@ -606,6 +609,32 @@ def normalize_body(
     return str(fragment), downloaded_pdfs
 
 
+def _load_untracked_inventory() -> set[str]:
+    inv_path = OUTPUT_ROOT.parent / "_inventory_untracked.json"
+    if not inv_path.exists():
+        return set()
+    try:
+        data = json.loads(inv_path.read_text(encoding="utf-8"))
+        items = data.get("entries") or data.get("files") or []
+        return {
+            str(f.get("path", "")).replace("\\", "/")
+            for f in items
+            if (f.get("bytes") or f.get("size_bytes") or 0) > 800
+        }
+    except Exception:
+        return set()
+
+UNTRACKED_INVENTORY = _load_untracked_inventory()
+
+
+def _is_in_inventory(dest_path: Path) -> bool:
+    try:
+        rel = str(dest_path.relative_to(OUTPUT_ROOT.parent.parent)).replace("\\", "/")
+        return rel in UNTRACKED_INVENTORY
+    except Exception:
+        return False
+
+
 def extract_and_save(
     page_soup: BeautifulSoup,
     url: str,
@@ -631,7 +660,7 @@ def extract_and_save(
     dest_pdf_dir = OUTPUT_ROOT / category_name / "pdfs"
     dest_assets_dir = OUTPUT_ROOT / category_name / year / "assets"
 
-    if not overwrite and dest_html.exists() and dest_html.stat().st_size > 800:
+    if not overwrite and ((dest_html.exists() and dest_html.stat().st_size > 800) or _is_in_inventory(dest_html)):
         print(f"    skip: {dest_html.name}")
         return True
 
@@ -694,12 +723,13 @@ def run_category(
     dry_run: bool,
     year_filter: int | None,
     overwrite: bool,
+    max_pages: int | None = None,
 ) -> tuple[int, int]:
     print(f"\n  {'-' * 60}")
     print(f"  {category_name.upper()} -> {category_url}")
     print(f"  {'-' * 60}")
 
-    urls = collect_category_urls(driver, category_name, category_url, year_filter)
+    urls = collect_category_urls(driver, category_name, category_url, year_filter, max_pages=max_pages)
     print(f"\n  {len(urls)} articles found for {category_name}")
 
     ok = fail = 0
@@ -720,13 +750,15 @@ def run_category(
     return ok, fail
 
 
-def run(categories: list[str], *, dry_run: bool, year_filter: int | None, headed: bool, overwrite: bool) -> None:
+def run(categories: list[str], *, dry_run: bool, year_filter: int | None, headed: bool, overwrite: bool, max_pages: int | None = None) -> None:
     print("\n" + "=" * 64)
     print("  Hellenic Shipping News Scraper")
     print(f"  Categories : {', '.join(categories)}")
     print(f"  Mode       : {'DRY RUN' if dry_run else 'DOWNLOAD'}")
     if year_filter:
         print(f"  Year       : {year_filter}")
+    if max_pages:
+        print(f"  Max Pages  : {max_pages}")
     print("=" * 64)
 
     total_ok = total_fail = 0
@@ -741,6 +773,7 @@ def run(categories: list[str], *, dry_run: bool, year_filter: int | None, headed
                 dry_run=dry_run,
                 year_filter=year_filter,
                 overwrite=overwrite,
+                max_pages=max_pages,
             )
             total_ok += ok
             total_fail += fail
@@ -757,10 +790,12 @@ def main() -> None:
     parser.add_argument("--category", choices=list(CATEGORIES.keys()) + ["all"], default="all")
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--year", type=int, default=None)
+    parser.add_argument("--max-pages", type=int, default=None, help="Maximum listing pages per category (defaults to 2 when --year is set)")
     parser.add_argument("--headed", action="store_true")
     parser.add_argument("--overwrite", action="store_true")
     args = parser.parse_args()
 
+    effective_max_pages = args.max_pages if args.max_pages is not None else (2 if args.year is not None else None)
     categories = list(CATEGORIES.keys()) if args.category == "all" else [args.category]
     run(
         categories,
@@ -768,6 +803,7 @@ def main() -> None:
         year_filter=args.year,
         headed=args.headed,
         overwrite=args.overwrite,
+        max_pages=effective_max_pages,
     )
 
 

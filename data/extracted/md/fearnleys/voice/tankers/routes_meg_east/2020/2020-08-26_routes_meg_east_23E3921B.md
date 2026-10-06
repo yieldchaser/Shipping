@@ -1,0 +1,27 @@
+---
+id: "23E3921B-B9C4-4682-AA84-95D6E1B68871"
+source: "Fearnleys"
+sector: "Tanker Route Trends"
+desk: "MEG/EAST"
+comment_type: "MEG/EAST"
+comment_subtype: "trend"
+date: "2020-08-26"
+year: 2020
+week: 35
+title: "Fearnleys MEG/EAST Comment - 2020-08-26"
+---
+
+# Fearnleys MEG/EAST Comment (2020-08-26)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Sector:** Tanker Route Trends
+- **Desk:** MEG/EAST
+- **Publication Date:** 2020-08-26 (Week 35)
+- **Comment Type:** MEG/EAST
+- **Record ID:** `23E3921B-B9C4-4682-AA84-95D6E1B68871`
+
+---
+
+## Market Commentary
+
+Steady

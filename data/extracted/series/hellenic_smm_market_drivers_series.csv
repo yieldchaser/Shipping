@@ -1,0 +1,15 @@
+date,year,freight_c3_usd_mt,freight_c5_usd_mt,hot_metal_daily_avg_mt_million,bf_operating_rate_pct,bf_capacity_utilisation_pct,port_inventory_10_ports_mt_million,port_inventory_35_ports_mt_million,daily_outbound_volume_mt_million,mill_imported_stocks_242_mills_mt_million,mill_stocks_cover_days,global_shipments_mt_million,arrivals_chinese_ports_mt_million,domestic_mine_capacity_utilisation_pct,source_file
+2026-09-14,2026,41.92,17.95,,,,103.0184,,,,,37.4058,26.9105,56.4,2026-09-14_mmi-daily-iron-ore-index-report-september-14-2026_mmi-daily-iron-ore-report-for-14th-s_f6430fd48a6c.pdf
+2026-09-15,2026,42.02,17.77,,,,103.0184,143.49,3.235,74.24,,37.4058,26.9105,,2026-09-15_mmi-daily-iron-ore-index-report-september-15-2026_mmi-daily-iron-ore-report-for-15th-s_2803301df49d.pdf
+2026-09-16,2026,,,2.3991,88.93,88.55,103.0184,143.49,3.235,74.24,,37.4058,26.9105,,2026-09-16_mmi-daily-iron-ore-index-report-september-16-2026_mmi-daily-iron-ore-report-for-16th-s_fcaa96faf638.pdf
+2026-09-17,2026,,,2.3991,,,,143.49,3.235,74.24,,,,,2026-09-17_mmi-daily-iron-ore-index-report-september-17-2026_mmi-daily-iron-ore-report-for-17th-s_e63bd60b621f.pdf
+2026-09-18,2026,,,2.3991,,,101.9125,,,,,37.4058,26.9105,,2026-09-18_mmi-daily-iron-ore-index-report-september-18-2026_mmi-daily-iron-ore-report-for-18th-s_1ee5f11f9420.pdf
+2026-09-21,2026,42.71,,2.3991,,58.2,101.9125,,,,20.5,34.4065,4.41,58.2,2026-09-21_mmi-daily-iron-ore-index-report-september-21-2026_mmi-daily-iron-ore-report-for-21th-s_51a77e05b920.pdf
+2026-09-22,2026,,,,,58.2,101.9125,144.33,3.21,78.61,20.5,34.4065,31.32,,2026-09-22_mmi-daily-iron-ore-index-report-september-22-2026_mmi-daily-iron-ore-report-for-22th-s_f7eb62eaf90a.pdf
+2026-09-23,2026,43.02,16.73,2.3943,88.76,88.37,101.9125,144.33,3.21,78.61,20.5,34.4065,31.32,58.2,2026-09-23_mmi-daily-iron-ore-index-report-september-23-2026_mmi-daily-iron-ore-report-for-23th-s_a602d3d94e0a.pdf
+2026-09-24,2026,,,2.3943,,,102.594,,3.235,,,,,,2026-09-24_mmi-daily-iron-ore-index-report-september-24-2026_mmi-daily-iron-ore-report-for-24th-s_10a436475a90.pdf
+2026-09-28,2026,,,,,58.1,102.594,145.45,3.235,,,35.5121,1.8581,58.1,2026-09-28_mmi-daily-iron-ore-index-report-september-28-2026_mmi-daily-iron-ore-report-for-28th-s_2c174eb1762c.pdf
+2026-09-30,2026,40.26,14.13,2.3882,88.57,88.15,102.594,145.45,,,,,29.4625,58.1,2026-09-30_mmi-daily-iron-ore-index-report-september-30-2026_mmi-daily-iron-ore-report-for-30th-s_128a5c745f8e.pdf
+2026-10-01,2026,40.26,14.13,2.3882,,,103.02,,,,,,,58.1,2026-10-01_mmi-daily-iron-ore-index-report-october-1-2026_iron-ore-daily-20261001_f8981ec41b63.pdf
+2026-10-02,2026,40.26,14.13,,,,,,,,,35.51,29.46,58.1,2026-10-02_mmi-daily-iron-ore-index-report-october-_iron_ore_daily_20261002_en.pdf
+2026-10-05,2026,40.26,14.13,2.3882,88.57,88.15,103.02,145.45,,,,35.9424,29.0943,58.1,2026-10-05_mmi-daily-iron-ore-index-report-october-_iron_ore_daily_20261005_en.pdf

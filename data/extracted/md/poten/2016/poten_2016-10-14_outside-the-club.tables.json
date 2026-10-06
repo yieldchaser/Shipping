@@ -1,0 +1,34 @@
+{
+  "issue_date": "2016-10-14",
+  "year": 2016,
+  "title": "Outside the Club",
+  "source_file": "corpus/04-poten/pdfs/2016/Weekly-Opinion-14-October-2016-Outside-the-Club.pdf",
+  "tables_count": 0,
+  "charts_count": 2,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2016-10-14_outside-the-club_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2016/poten_2016-10-14_outside-the-club_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-10-14_outside-the-club_chart1.png",
+      "width": 923,
+      "height": 539
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2016-10-14_outside-the-club_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2016/poten_2016-10-14_outside-the-club_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-10-14_outside-the-club_chart2.png",
+      "width": 809,
+      "height": 533
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

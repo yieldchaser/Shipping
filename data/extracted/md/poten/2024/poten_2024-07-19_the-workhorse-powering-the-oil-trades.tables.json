@@ -1,0 +1,34 @@
+{
+  "issue_date": "2024-07-19",
+  "year": 2024,
+  "title": "The Workhorse Powering The Oil Trades",
+  "source_file": "corpus/04-poten/pdfs/2024/Weekly Opinion - 19 July 2024 - The Workhorse Powering The Oil Trades.pdf",
+  "tables_count": 0,
+  "charts_count": 2,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2024-07-19_the-workhorse-powering-the-oil-trades_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2024/poten_2024-07-19_the-workhorse-powering-the-oil-trades_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-07-19_the-workhorse-powering-the-oil-trades_chart1.png",
+      "width": 955,
+      "height": 544
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2024-07-19_the-workhorse-powering-the-oil-trades_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2024/poten_2024-07-19_the-workhorse-powering-the-oil-trades_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-07-19_the-workhorse-powering-the-oil-trades_chart2.png",
+      "width": 955,
+      "height": 545
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

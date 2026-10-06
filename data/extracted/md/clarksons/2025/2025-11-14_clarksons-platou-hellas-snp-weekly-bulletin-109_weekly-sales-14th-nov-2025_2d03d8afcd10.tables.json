@@ -1,0 +1,46 @@
+{
+  "issue_date": "2025-11-14",
+  "printed_date": "14/11/2025",
+  "source_file": "2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf",
+  "sales_count": 2,
+  "demo_count": 0,
+  "sales": [
+    {
+      "issue_date": "2025-11-14",
+      "stem": "2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10",
+      "source_file": "2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf",
+      "section": "Bulker Sales",
+      "page": 2,
+      "NAME": "YANGTZE NOVA",
+      "TYPE": "Handysize",
+      "DWT": "47,180",
+      "BUILT": "2013",
+      "YARD": "JIANGSU EASTERN",
+      "PRICE": "RGN USD 12 M",
+      "BUYERS": "U/D",
+      "SS_DD": "01/28 10/27",
+      "COMMENTS": "B&W 6S46MC-C8 4 x 30 T BWTS FITTED",
+      "raw_built": "2013 JIANGSU EASTERN",
+      "raw_details": "B&W 6S46MC-C8 4 x 30 T BWTS FITTED"
+    },
+    {
+      "issue_date": "2025-11-14",
+      "stem": "2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10",
+      "source_file": "2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf",
+      "section": "Bulker Sales",
+      "page": 2,
+      "NAME": "EMIL SELMER",
+      "TYPE": "Handysize",
+      "DWT": "32,626",
+      "BUILT": "2010",
+      "YARD": "JIANGSU ZHENJIANG",
+      "PRICE": "USD 8 M",
+      "BUYERS": "U/D",
+      "SS_DD": "12/25 12/25",
+      "COMMENTS": "B&W 5S50MC6.2 4 x 30 T BWTS FITTED",
+      "raw_built": "2010 JIANGSU ZHENJIANG",
+      "raw_details": "B&W 5S50MC6.2 4 x 30 T BWTS FITTED"
+    }
+  ],
+  "demolitions": []
+}

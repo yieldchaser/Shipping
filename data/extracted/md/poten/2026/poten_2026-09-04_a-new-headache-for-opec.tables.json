@@ -1,0 +1,34 @@
+{
+  "issue_date": "2026-09-04",
+  "year": 2026,
+  "title": "A New Headache For OPEC",
+  "source_file": "corpus/04-poten/pdfs/2026/Weekly Opinion - 4 September 2026 - A New Headache For OPEC.pdf",
+  "tables_count": 0,
+  "charts_count": 2,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2026-09-04_a-new-headache-for-opec_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2026/poten_2026-09-04_a-new-headache-for-opec_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-09-04_a-new-headache-for-opec_chart1.png",
+      "width": 950,
+      "height": 530
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2026-09-04_a-new-headache-for-opec_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2026/poten_2026-09-04_a-new-headache-for-opec_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-09-04_a-new-headache-for-opec_chart2.png",
+      "width": 952,
+      "height": 531
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

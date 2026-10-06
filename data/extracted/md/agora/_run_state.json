@@ -1,0 +1,1952 @@
+{
+  "done": {
+    "agora_2021_W25_AGORA.-Week-25.-2021.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2021_W26_AGORA.-Week-26.-2021.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2021_W27_AGORA.-Week-27.-2021.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2021_W28_AGORA.-Week-28.-2021.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 212,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2021_W29_AGORA.-Week-29.-2021.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 212,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2021_W30_AGORA.-Week-30.-2021.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2021_W31_AGORA.-Week-31.-2021.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2021_W33_AGORA.-Week-33.-2021.-Snapshot-of-Commercial-Indicators": {
+      "sections": 9,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2021_W35_AGORA.-Week-35.-2021.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 1,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": [
+        {
+          "page": 2,
+          "y": 492.9,
+          "x0": 54.0,
+          "text": "1."
+        }
+      ]
+    },
+    "agora_2021_W36_AGORA.-Week-36.-2021.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2021_W37_AGORA.-Week-37.-2021.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2021_W38_AGORA.-Week-38.-2021.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2021_W39_AGORA.-Week-39.-2021.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2021_W40_AGORA.-Week-40.-2021.-Snapshot-of-Commercial-Indicators": {
+      "sections": 9,
+      "rows": 47,
+      "value_words": 212,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2021_W41_AGORA.-Week-41.-2021.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2021_W42_AGORA.-Week-42.-2021.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2021_W43_AGORA.-Week-43.-2021.-Snapshot-of-Commercial-Indicators": {
+      "sections": 9,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2021_W44_AGORA.-Week-44.2011.-Snapshot-of-Commercial-Indicators": {
+      "sections": 9,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2021_W45_AGORA.-Week-45-2021.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2021_W46_AGORA.-Week-46.-2021.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2021_W47_AGORA.-Week-47.-2021.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2021_W48_AGORA.-Week-48.-2021.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2021_W49_AGORA.-Week-49.-2021.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2021_W50_AGORA.-Week-50.-2021.-Snapshot-of-Commercial-Indicators": {
+      "sections": 9,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2021_W51_AGORA.-Week-51.-2021.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W01_AGORA.-Week-01.-2022.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "US",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W02_AGORA.-Week-02.-2022.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "US",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W03_AGORA.-Week-03.-2022.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "US",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W04_AGORA.-Week-04.-2022.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "US",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W05_AGORA.-Week-05.-2022.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "US",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W06_AGORA.-Week-06.-2022.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "US",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W07_AGORA.-Week-07.-2021.-Snapshot-of-Commercial-Indicators": {
+      "sections": 9,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "US",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W08_AGORA.-Week-08.-2021.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 1,
+      "convention": "US",
+      "conv_source": "anchor rows",
+      "unexplained_sample": [
+        {
+          "page": 2,
+          "y": 490.0,
+          "x0": 54.0,
+          "text": "1."
+        }
+      ]
+    },
+    "agora_2022_W09_AGORA.-Week-09.-2022.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 204,
+      "unexplained": 0,
+      "convention": "US",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W10_AGORA.-Week-10.-2022.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 210,
+      "unexplained": 0,
+      "convention": "US",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W11_AGORA.-Week-11.-2022.-Snapshot-of-Commercial-Indicators": {
+      "sections": 9,
+      "rows": 47,
+      "value_words": 202,
+      "unexplained": 0,
+      "convention": "US",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W12_AGORA.-Week-12.-2022.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 203,
+      "unexplained": 0,
+      "convention": "US",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W13_AGORA.-Week-13.-2022.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "US",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W14_AGORA.-Week-14.-2022.-Snapshot-of-Commercial-Indicators": {
+      "sections": 9,
+      "rows": 47,
+      "value_words": 204,
+      "unexplained": 0,
+      "convention": "US",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W15_AGORA.-Week-15.-2022.-Snapshot-of-Commercial-Indicators": {
+      "sections": 9,
+      "rows": 47,
+      "value_words": 203,
+      "unexplained": 0,
+      "convention": "US",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W16_AGORA.-Week-16.-2022.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 204,
+      "unexplained": 1,
+      "convention": "US",
+      "conv_source": "anchor rows",
+      "unexplained_sample": [
+        {
+          "page": 2,
+          "y": 483.9,
+          "x0": 54.0,
+          "text": "1."
+        }
+      ]
+    },
+    "agora_2022_W17_AGORA.-Week-17.-2022.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "US",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W18_AGORA.-Week-18.-2022.-Snapshot-of-Commercial-Indicators-1": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "US",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W19_AGORA.-Week-19.-2022.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "US",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W20_AGORA.-Week-20.-2022.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "US",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W21_AGORA.-Week-21.-2022.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "US",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W22_AGORA.-Week-22.-2022.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "US",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W23_AGORA.-Week-23.-2022.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "US",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W24_AGORA.-Week-24.-2022.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "US",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W25_AGORA.-Week-25.-2022.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "US",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W26_AGORA.-Week-26.-2022.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "US",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W43_AGORA.-Week-43.-2022.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 207,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W44_AGORA.-Week-44.-2022.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 208,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W45_AGORA.-Week-45.-2022.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 209,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W46_AGORA.-Week-46.-2022.-Snapshot-of-Commercial-Indicators-1": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 210,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W47_AGORA.-Week-47.-2022.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 208,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W48_AGORA.-Week-48.-2022.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 209,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W49_AGORA.-Week-49.-2022.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 207,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W50_AGORA.-Week-50.-2022.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 207,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W51_AGORA.-Week-51.-2022.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 207,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W52_AGORA.-Week-52.-2021.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 38,
+      "value_words": 178,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2022_W52_AGORA.-Week-52.-2022.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 207,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W01_AGORA.-Week-01.-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 207,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W02_AGORA.-Week-02.-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 207,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W03_AGORA.-Week-03.-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 207,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W04_AGORA.-Week-04.-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W05_AGORA.-Week-05.-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 207,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W06_AGORA.-Week-06.-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W07_AGORA.-Week-07.-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W08_AGORA.-Week-08.-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W09_AGORA.-Week-09.-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W10_AGORA.-Week-10.-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W11_AGORA.-Week-11.-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W12_AGORA.-Week-12.-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W13_AGORA.-Week-13.-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W14_AGORA.-Week-14-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W15_AGORA.-Week-15-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W16_AGORA.-Week-16-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W17_AGORA.-Week-17-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W18_AGORA.-Week-18-2023.-Snapshot-of-Commercial-Indicators.docx": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W19_AGORA.-Week-19-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W20_AGORA.-Week-20-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W21_AGORA.-Week-21-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W22_AGORA.-Week-22-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 9,
+      "rows": 47,
+      "value_words": 213,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W23_AGORA.-Week-23-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W24_AGORA.-Week-24-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W25_AGORA.-Week-25-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W27_AGORA.-Week-27-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W28_AGORA.-Week-28-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W29_AGORA.-Week-29-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W30_AGORA.-Week-30-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 204,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W31_AGORA.-Week-31-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 204,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W32_AGORA.-Week-32-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 204,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W33_AGORA.-Week-33-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 204,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W34_AGORA.-Week-34-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 204,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W35_AGORA.-Week-35-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 204,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W36_AGORA.-Week-36-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 204,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W37_AGORA.-Week-37-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W38_AGORA.-Week-38-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W39_AGORA.-Week-39-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W40_AGORA.-Week-40-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W41_AGORA.-Week-41-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W42_AGORA.-Week-42-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W44_AGORA.-Week-44-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W45_AGORA.-Week-45-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W46_AGORA.-Week-46-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W47_AGORA.-Week-47-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 9,
+      "rows": 47,
+      "value_words": 212,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W48_AGORA.-Week-48-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W49_AGORA.-Week-49-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W50_AGORA.-Week-50-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W51_AGORA.-Week-51-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 205,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2023_W52_AGORA.-Week-52-2023.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 207,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W01_AGORA.-Week-01-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W02_AGORA.-Week-02-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W03_AGORA.-Week-03-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W04_AGORA.-Week-04-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W05_AGORA.-Week-05-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W06_AGORA.-Week-06-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W07_AGORA.-Week-07-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W08_AGORA.-Week-08-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W13_AGORA.-Week-13-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W14_AGORA.-Week-14-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W16_AGORA.-Week-16-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W17_AGORA.-Week-17-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W18_AGORA.-Week-18-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W20_AGORA.-Week-20-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 206,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W21_AGORA.-Week-21-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 186,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W22_AGORA.-Week-22-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 186,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W23_AGORA.-Week-23-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 186,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W24_AGORA.-Week-24-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 186,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W26_AGORA.-Week-26-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 186,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_w32": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W33_AGORA.-Week-33-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 186,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W34_AGORA.-Week-34-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 187,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W35_AGORA.-Week-35-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 186,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W36_AGORA.-Week-36-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W40_AGORA.-Week-40-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 186,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W41_AGORA.-Week-41-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 186,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W42_AGORA.-Week-42-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W43_AGORA.-Week-43-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W44_AGORA.-Week-44-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W45_AGORA.-Week-45-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W46_AGORA.-Week-46-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W47_AGORA.-Week-47-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 184,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W48_AGORA.-Week-48-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 186,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_w49": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 186,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W50_AGORA.-Week-50-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 186,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W51_AGORA.-Week-51-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 186,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2024_W52_AGORA.-Week-52-2024.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 186,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_W02_AGORA.-Week-02-2025.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 186,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_W03_AGORA.-Week-03-2025.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 186,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_w04": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_W05_AGORA.-Week-05-2025.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_W06_AGORA.-Week-06-2025.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_W08_AGORA.-Week-08-2025.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_W11_AGORA.-Week-11-2025.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_W12_AGORA.-Week-12-2025.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 186,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_W13_AGORA.-Week-13-2025.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 186,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_W14_AGORA.-Week-14-2025.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 186,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_W18_AGORA.-Week-18-2025.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 187,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_W19_AGORA.-Week-19-2025.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 186,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_W21_AGORA.-Week-21-2025.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 186,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_W22_AGORA.-Week-22-2025.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 186,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_W23_AGORA.-Week-23-2025.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 186,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_W24_AGORA.-Week-24-2025.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 186,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_W25_AGORA.-Week-25-2025.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 186,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_w27": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_W28_AGORA.-Week-28-2025.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_W29_AGORA.-Week-29-2025.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_W30_AGORA.-Week-30-2025.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_W31_AGORA.-Week-31-2025.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_W32_AGORA.-Week-32-2025.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_W34_AGORA.-Week-34-2025.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_W35_AGORA.-Week-35-2025.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_W37_AGORA.-Week-37-2025.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_W38_AGORA.-Week-42-2025.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_W43_AGORA.-Week-43-2025.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_W44_AGORA.-Week-44-2025.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_W45_AGORA.-Week-45-2025.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_W47_AGORA.-Week-47-2025.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 187,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_W48_AGORA.-Week-48-2025.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 184,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_W49_AGORA.-Week-49-2025.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 184,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_W50_AGORA.-Week-50-2025.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2025_W51_AGORA.-Week-51-2025.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 184,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_02_10_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 184,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_18_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 184,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2026_W01_AGORA.-Week-01-2026.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 184,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2026_W02_AGORA.-Week-02-2026.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 184,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2026_W06_AGORA.-Week-06-2026.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 184,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2026_W07_AGORA.-Week-07-2026.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 184,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2026_W08_AGORA.-Week-08-2026.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 184,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2026_W09_AGORA.-Week-09-2026.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 184,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2026_W10_AGORA.-Week-10-2026.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2026_W12_AGORA.-Week-12-2026.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2026_w14": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2026_W16_AGORA.-Week-16-2026.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2026_W19_AGORA.-Week-19-2026.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2026_W20_AGORA.-Week-20-2026.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2026_W21_AGORA.-Week-21-2026.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2026_W22_AGORA.-Week-22-2026.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2026_W23_AGORA.-Week-23-2026.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2026_W24_AGORA.-Week-24-2026.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2026_W25_AGORA.-Week-25-2026.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2026_W26_AGORA.-Week-26-2026.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2026_W27_AGORA.-Week-27-2026.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 184,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2026_W28_AGORA.-Week-28-2026.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 184,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2026_W29_AGORA.-Week-29-2026.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 184,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2026_W30_AGORA.-Week-30-2026.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 184,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2026_W32_AGORA.-Week-32-2026.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 184,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2026_W33_AGORA.-Week-33-2026.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 185,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2026_W34_AGORA.-Week-35-2026.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 184,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2026_W36_AGORA.-Week-36-2026.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 184,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2026_W37_AGORA.-Week-37-2026.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 184,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    },
+    "agora_2026_W39_AGORA.-Week-39-2026.-Snapshot-of-Commercial-Indicators": {
+      "sections": 8,
+      "rows": 47,
+      "value_words": 184,
+      "unexplained": 0,
+      "convention": "EU",
+      "conv_source": "anchor rows",
+      "unexplained_sample": []
+    }
+  },
+  "failed": {}
+}

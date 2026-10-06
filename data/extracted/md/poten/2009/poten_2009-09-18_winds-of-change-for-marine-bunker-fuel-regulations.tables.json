@@ -1,0 +1,25 @@
+{
+  "issue_date": "2009-09-18",
+  "year": 2009,
+  "title": "Winds of Change for Marine Bunker Fuel Regulations",
+  "source_file": "corpus/04-poten/pdfs/2009/Tanker_Opinion_20090918.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2009-09-18_winds-of-change-for-marine-bunker-fuel-regulations_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2009/poten_2009-09-18_winds-of-change-for-marine-bunker-fuel-regulations_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2009/poten_2009-09-18_winds-of-change-for-marine-bunker-fuel-regulations_chart1.png",
+      "width": 1134,
+      "height": 715
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

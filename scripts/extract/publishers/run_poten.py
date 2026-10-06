@@ -1158,6 +1158,30 @@ def process_pdf(
         )
 
 
+def _upsert_poten_csv(csv_path: Path, fieldnames: list[str], new_rows: list[dict], key_cols: list[str]) -> int:
+    if not new_rows and csv_path.exists():
+        return 0
+    OUT_SERIES_DIR.mkdir(parents=True, exist_ok=True)
+    merged: dict[tuple, dict] = {}
+    if csv_path.exists():
+        try:
+            with open(csv_path, 'r', encoding='utf-8', errors='replace', newline='') as f:
+                for row in csv.DictReader(f):
+                    k = tuple(str(row.get(c, '')).strip() for c in key_cols)
+                    merged[k] = row
+        except Exception:
+            pass
+    for r in new_rows:
+        k = tuple(str(r.get(c, '')).strip() for c in key_cols)
+        merged[k] = {col: r.get(col, '') for col in fieldnames}
+    sorted_rows = sorted(merged.values(), key=lambda x: tuple(str(x.get(c, '')) for c in key_cols))
+    with open(csv_path, 'w', newline='', encoding='utf-8') as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction='ignore')
+        writer.writeheader()
+        writer.writerows(sorted_rows)
+    return len(sorted_rows)
+
+
 def process_single_pdf(pdf_path: Path, dry_run: bool = False) -> dict:
     """Entry point for orchestrator incremental ingest."""
     used_slugs = defaultdict(int)
@@ -1176,6 +1200,35 @@ def process_single_pdf(pdf_path: Path, dry_run: bool = False) -> dict:
         tables_full.parent.mkdir(parents=True, exist_ok=True)
         tables_full.write_text(json.dumps(tables_data, indent=2, ensure_ascii=False), encoding='utf-8')
 
+        _upsert_poten_csv(CHARTERERS_SERIES_CSV, [
+            'issue_date', 'year', 'report_period', 'segment', 'rank', 'charterer',
+            'cargo_mt_000s', 'pct_total_cargo', 'fixtures_count', 'pct_fixtures',
+            'prev_rank', 'source_file'
+        ], charterer_rows, ['issue_date', 'segment', 'rank', 'charterer'])
+        _upsert_poten_csv(ORDERBOOK_AGE_SERIES_CSV, [
+            'issue_date', 'year', 'report_title', 'segment',
+            'fleet_count_trading', 'fleet_count_on_order', 'orderbook_pct',
+            'orderbook_dwt_m', 'fleet_dwt_m', 'average_age_years',
+            'pct_0_5_yrs', 'pct_6_10_yrs', 'pct_11_15_yrs', 'pct_16_plus_yrs',
+            'source_file'
+        ], orderbook_age_rows, ['issue_date', 'segment', 'source_file'])
+        _upsert_poten_csv(DELIVERY_SCHEDULE_SERIES_CSV, [
+            'issue_date', 'year', 'report_title', 'segment',
+            'delivery_year', 'vessels_trading', 'vessels_on_order', 'source_file'
+        ], delivery_rows, ['issue_date', 'segment', 'delivery_year'])
+        _upsert_poten_csv(FLEET_STATS_SERIES_CSV, [
+            'issue_date', 'year', 'report_title', 'vessel_class',
+            'fleet_count', 'fleet_dwt', 'orderbook_count', 'orderbook_dwt',
+            'orderbook_pct', 'fleet_20yr_by_22', '20yr_old_to_orderbook', 'source_file'
+        ], fleet_stat_rows, ['issue_date', 'vessel_class', 'source_file'])
+        _upsert_poten_csv(VLCC_RATES_SERIES_CSV, [
+            'issue_date', 'year', 'period', 'rate_usd_day', 'route', 'source_file'
+        ], rates_rows, ['issue_date', 'period', 'route'])
+        _upsert_poten_csv(METADATA_CATALOG_CSV, [
+            'issue_date', 'year', 'title', 'subtitle', 'author', 'pages',
+            'tables_count', 'charts_count', 'word_count', 'source_file', 'md_file'
+        ], [meta], ['issue_date', 'source_file'])
+
     return {
         "status": "success",
         "issue_date": meta["issue_date"],
@@ -1188,9 +1241,35 @@ def process_single_pdf(pdf_path: Path, dry_run: bool = False) -> dict:
 
 def main():
     t0 = time.time()
+    force = "--force" in sys.argv or bool(os.environ.get("FORCE_EXTRACT"))
     pdfs = sorted(SRC_DIR.glob("**/*.pdf"))
-    total_pdfs = len(pdfs)
-    print(f"[poten] Discovered {total_pdfs} authoritative PDFs in {SRC_DIR}", flush=True)
+
+    known_sources = set()
+    if METADATA_CATALOG_CSV.exists() and not force:
+        try:
+            with open(METADATA_CATALOG_CSV, 'r', encoding='utf-8', errors='replace', newline='') as f:
+                for row in csv.DictReader(f):
+                    sf = row.get('source_file', '').strip()
+                    mf = row.get('md_file', '').strip()
+                    if sf and mf and (ROOT / mf).exists():
+                        known_sources.add(sf)
+        except Exception:
+            pass
+
+    if known_sources and not force:
+        todo_pdfs = []
+        for p in pdfs:
+            rel_sf = f"corpus/04-poten/pdfs/{p.parent.name}/{p.name}"
+            if rel_sf not in known_sources:
+                todo_pdfs.append(p)
+        print(f"[poten] Discovered {len(pdfs)} PDFs on disk ({len(pdfs) - len(todo_pdfs)} already extracted, {len(todo_pdfs)} new to process).", flush=True)
+    else:
+        todo_pdfs = pdfs
+        print(f"[poten] Discovered {len(todo_pdfs)} authoritative PDFs in {SRC_DIR}", flush=True)
+
+    if not todo_pdfs:
+        print("[poten] All Poten PDFs on disk are already extracted and cataloged.", flush=True)
+        return
 
     used_slugs = defaultdict(int)
     all_metadata = []
@@ -1200,7 +1279,7 @@ def main():
     all_fleet_stat_rows = []
     all_rates_rows = []
 
-    for i, pdf_path in enumerate(pdfs, start=1):
+    for i, pdf_path in enumerate(todo_pdfs, start=1):
         try:
             (
                 meta, md_content, tables_data, charterer_rows,
@@ -1225,40 +1304,22 @@ def main():
             all_fleet_stat_rows.extend(fleet_stat_rows)
             all_rates_rows.extend(rates_rows)
 
-            if i % 100 == 0 or i == total_pdfs:
+            if i % 100 == 0 or i == len(todo_pdfs):
                 elapsed = time.time() - t0
-                print(f"  [{i:>4}/{total_pdfs}] Processed {pdf_path.name[:45]:<45} ({elapsed:.1f}s)", flush=True)
+                print(f"  [{i:>4}/{len(todo_pdfs)}] Processed {pdf_path.name[:45]:<45} ({elapsed:.1f}s)", flush=True)
         except Exception as e:
             print(f"ERROR processing {pdf_path}: {e}", file=sys.stderr)
             import traceback
             traceback.print_exc()
 
-    # Clean up any stale files in OUT_MD_DIR not in current metadata catalog
-    expected_md_files = set(ROOT / m['md_file'] for m in all_metadata)
-    expected_tables_files = set((ROOT / m['md_file']).with_suffix('.tables.json') for m in all_metadata)
-    for p in list(OUT_MD_DIR.rglob('*')):
-        if p.is_file():
-            if p.suffix == '.md' and p not in expected_md_files:
-                p.unlink()
-            elif p.name.endswith('.tables.json') and p not in expected_tables_files:
-                p.unlink()
-
-    # Write Master Series CSVs
-    OUT_SERIES_DIR.mkdir(parents=True, exist_ok=True)
-
-    # 1. Top Charterers
-    all_charterer_rows.sort(key=lambda r: (r['issue_date'], r['rank']))
+    # Upsert Master Series CSVs non-destructively
     charterer_cols = [
         'issue_date', 'year', 'report_period', 'segment', 'rank', 'charterer',
         'cargo_mt_000s', 'pct_total_cargo', 'fixtures_count', 'pct_fixtures',
         'prev_rank', 'source_file'
     ]
-    with open(CHARTERERS_SERIES_CSV, 'w', newline='', encoding='utf-8') as f:
-        writer = csv.DictWriter(f, fieldnames=charterer_cols)
-        writer.writeheader()
-        writer.writerows(all_charterer_rows)
+    n_chart = _upsert_poten_csv(CHARTERERS_SERIES_CSV, charterer_cols, all_charterer_rows, ['issue_date', 'segment', 'rank', 'charterer'])
 
-    # 2. Tanker Orderbook & Fleet Age Series
     orderbook_cols = [
         'issue_date', 'year', 'report_title', 'segment',
         'fleet_count_trading', 'fleet_count_on_order', 'orderbook_pct',
@@ -1266,63 +1327,44 @@ def main():
         'pct_0_5_yrs', 'pct_6_10_yrs', 'pct_11_15_yrs', 'pct_16_plus_yrs',
         'source_file'
     ]
-    with open(ORDERBOOK_AGE_SERIES_CSV, 'w', newline='', encoding='utf-8') as f:
-        writer = csv.DictWriter(f, fieldnames=orderbook_cols, extrasaction='ignore')
-        writer.writeheader()
-        writer.writerows(all_orderbook_age_rows)
+    n_ob = _upsert_poten_csv(ORDERBOOK_AGE_SERIES_CSV, orderbook_cols, all_orderbook_age_rows, ['issue_date', 'segment', 'source_file'])
 
-    # 3. Fleet Delivery Schedule Series
     delivery_cols = [
         'issue_date', 'year', 'report_title', 'segment',
         'delivery_year', 'vessels_trading', 'vessels_on_order',
         'source_file'
     ]
-    with open(DELIVERY_SCHEDULE_SERIES_CSV, 'w', newline='', encoding='utf-8') as f:
-        writer = csv.DictWriter(f, fieldnames=delivery_cols)
-        writer.writeheader()
-        writer.writerows(all_delivery_rows)
+    n_del = _upsert_poten_csv(DELIVERY_SCHEDULE_SERIES_CSV, delivery_cols, all_delivery_rows, ['issue_date', 'segment', 'delivery_year'])
 
-    # 4. Fleet Statistics Matrices
     fleet_stat_cols = [
         'issue_date', 'year', 'report_title', 'vessel_class',
         'fleet_count', 'fleet_dwt', 'orderbook_count', 'orderbook_dwt',
         'orderbook_pct', 'fleet_20yr_by_22', '20yr_old_to_orderbook',
         'source_file'
     ]
-    with open(FLEET_STATS_SERIES_CSV, 'w', newline='', encoding='utf-8') as f:
-        writer = csv.DictWriter(f, fieldnames=fleet_stat_cols, extrasaction='ignore')
-        writer.writeheader()
-        writer.writerows(all_fleet_stat_rows)
+    n_fs = _upsert_poten_csv(FLEET_STATS_SERIES_CSV, fleet_stat_cols, all_fleet_stat_rows, ['issue_date', 'vessel_class', 'source_file'])
 
-    # 5. VLCC Historical Rates Curve
     rates_cols = ['issue_date', 'year', 'period', 'rate_usd_day', 'route', 'source_file']
-    with open(VLCC_RATES_SERIES_CSV, 'w', newline='', encoding='utf-8') as f:
-        writer = csv.DictWriter(f, fieldnames=rates_cols)
-        writer.writeheader()
-        writer.writerows(all_rates_rows)
+    n_rt = _upsert_poten_csv(VLCC_RATES_SERIES_CSV, rates_cols, all_rates_rows, ['issue_date', 'period', 'route'])
 
-    # 6. Metadata Catalog
-    all_metadata.sort(key=lambda m: (m['issue_date'], m['title']))
     meta_cols = [
         'issue_date', 'year', 'title', 'subtitle', 'author', 'pages',
         'tables_count', 'charts_count', 'word_count', 'source_file', 'md_file'
     ]
-    with open(METADATA_CATALOG_CSV, 'w', newline='', encoding='utf-8') as f:
-        writer = csv.DictWriter(f, fieldnames=meta_cols)
-        writer.writeheader()
-        writer.writerows(all_metadata)
+    n_meta = _upsert_poten_csv(METADATA_CATALOG_CSV, meta_cols, all_metadata, ['issue_date', 'source_file'])
 
     elapsed = time.time() - t0
-    print("\n[poten] Full Pipeline Run Complete!", flush=True)
-    print(f"  Total Reports Extracted: {len(all_metadata)} / {total_pdfs} (100.0%)")
-    print(f"  Total Top Charterer Rows: {len(all_charterer_rows)}")
-    print(f"  Total Orderbook & Age Rows: {len(all_orderbook_age_rows)}")
-    print(f"  Total Delivery Schedule Rows: {len(all_delivery_rows)}")
-    print(f"  Total Fleet Statistics Rows: {len(all_fleet_stat_rows)}")
-    print(f"  Total VLCC Historical Rates Rows: {len(all_rates_rows)}")
-    print(f"  Total Charts Generated: in {OUT_CHARTS_DIR}")
+    print("\n[poten] Pipeline Run Complete!", flush=True)
+    print(f"  Reports Processed This Run: {len(all_metadata)} / {len(todo_pdfs)}")
+    print(f"  Total Metadata Catalog Rows: {n_meta}")
+    print(f"  Total Top Charterer Rows: {n_chart}")
+    print(f"  Total Orderbook & Age Rows: {n_ob}")
+    print(f"  Total Delivery Schedule Rows: {n_del}")
+    print(f"  Total Fleet Statistics Rows: {n_fs}")
+    print(f"  Total VLCC Historical Rates Rows: {n_rt}")
     print(f"  Total Execution Time: {elapsed:.1f}s", flush=True)
 
 
 if __name__ == '__main__':
     main()
+

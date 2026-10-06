@@ -1,0 +1,27 @@
+---
+id: "40AB9036-C760-4B76-88CF-CD6EF0DFF3E3"
+source: "Fearnleys"
+sector: "Tanker Route Trends"
+desk: "WAFR/USG"
+comment_type: "WAFR/USG"
+comment_subtype: "trend"
+date: "2022-06-16"
+year: 2022
+week: 24
+title: "Fearnleys WAFR/USG Comment - 2022-06-16"
+---
+
+# Fearnleys WAFR/USG Comment (2022-06-16)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Sector:** Tanker Route Trends
+- **Desk:** WAFR/USG
+- **Publication Date:** 2022-06-16 (Week 24)
+- **Comment Type:** WAFR/USG
+- **Record ID:** `40AB9036-C760-4B76-88CF-CD6EF0DFF3E3`
+
+---
+
+## Market Commentary
+
+Steady

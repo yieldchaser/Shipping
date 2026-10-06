@@ -693,24 +693,6 @@ def run_pipeline():
 
     print(f"[+] Processed {len(all_results)} total unique Drewry articles.")
 
-    # Clean up legacy non-prefixed files in year directories
-    valid_filenames = {os.path.basename(r["source_file"]) for r in all_results}
-    removed_legacy = 0
-    max_year = max(datetime.now().year + 1, 2027)
-    for y in range(2017, max_year + 1):
-        for base in [OPINIONS_DIR, OUT_MD_BASE]:
-            ydir = os.path.join(base, str(y))
-            if os.path.exists(ydir):
-                for f in glob.glob(os.path.join(ydir, "*.md")):
-                    if os.path.basename(f) not in valid_filenames:
-                        try:
-                            os.remove(f)
-                            removed_legacy += 1
-                        except Exception:
-                            pass
-    if removed_legacy > 0:
-        print(f"[+] Cleaned up {removed_legacy} legacy un-prefixed markdown files.")
-
     # Year breakdown
     year_counts = Counter([r['year'] for r in all_results])
     print("\nYear-wise Segregation Summary:")
@@ -723,26 +705,47 @@ def run_pipeline():
     for c, cnt in cat_counts.most_common():
         print(f"  {c:30s}: {cnt:3d} articles")
 
-    # 3. Stack metadata series catalog
+    # 3. Stack metadata series catalog (Non-Destructive Upsert)
     metadata_csv = os.path.join(SERIES_DIR, "drewry_opinions_metadata.csv")
-    all_results.sort(key=lambda x: (x['issue_date'], x['slug']))
-    with open(metadata_csv, 'w', newline='', encoding='utf-8') as f:
-        writer = csv.DictWriter(f, fieldnames=["issue_date", "year", "category", "title", "word_count", "source_file", "extracted_file", "slug"])
-        writer.writeheader()
-        for r in all_results:
-            row_dict = {k: r[k] for k in ["issue_date", "year", "category", "title", "word_count", "source_file", "extracted_file", "slug"]}
-            writer.writerow(row_dict)
-    print(f"\n[+] Saved master opinions metadata catalog: {metadata_csv} ({len(all_results)} rows)")
-
-    # 4. Stack WCI series
-    if wci_records:
-        wci_records.sort(key=lambda x: x['date'])
-        csv_path = os.path.join(SERIES_DIR, "drewry_wci_series.csv")
-        with open(csv_path, 'w', newline='', encoding='utf-8') as f:
-            writer = csv.DictWriter(f, fieldnames=["date", "composite_index", "shanghai_rotterdam", "shanghai_genoa", "shanghai_la", "shanghai_ny", "rotterdam_shanghai", "source_file"])
+    meta_fields = ["issue_date", "year", "category", "title", "word_count", "source_file", "extracted_file", "slug"]
+    existing_meta = {}
+    if os.path.exists(metadata_csv) and os.path.getsize(metadata_csv) > 0:
+        try:
+            with open(metadata_csv, 'r', encoding='utf-8', errors='replace') as rf:
+                for row in csv.DictReader(rf):
+                    existing_meta[row.get("slug", "")] = row
+        except Exception:
+            pass
+    for r in all_results:
+        existing_meta[r["slug"]] = {k: r[k] for k in meta_fields}
+    if existing_meta:
+        merged_meta = sorted(existing_meta.values(), key=lambda x: (str(x.get('issue_date', '')), str(x.get('slug', ''))))
+        with open(metadata_csv, 'w', newline='', encoding='utf-8') as f:
+            writer = csv.DictWriter(f, fieldnames=meta_fields)
             writer.writeheader()
-            writer.writerows(wci_records)
-        print(f"[+] Stacked Drewry WCI series: {csv_path} ({len(wci_records)} rows)")
+            writer.writerows(merged_meta)
+    print(f"\n[+] Saved master opinions metadata catalog: {metadata_csv} ({len(existing_meta)} total rows)")
+
+    # 4. Stack WCI series (Non-Destructive Upsert)
+    if wci_records:
+        csv_path = os.path.join(SERIES_DIR, "drewry_wci_series.csv")
+        wci_fields = ["date", "composite_index", "shanghai_rotterdam", "shanghai_genoa", "shanghai_la", "shanghai_ny", "rotterdam_shanghai", "source_file"]
+        existing_wci = {}
+        if os.path.exists(csv_path) and os.path.getsize(csv_path) > 0:
+            try:
+                with open(csv_path, 'r', encoding='utf-8', errors='replace') as rf:
+                    for row in csv.DictReader(rf):
+                        existing_wci[row.get("date", "")] = row
+            except Exception:
+                pass
+        for w in wci_records:
+            existing_wci[str(w.get("date", ""))] = {k: w.get(k, "") for k in wci_fields}
+        merged_wci = sorted(existing_wci.values(), key=lambda x: str(x.get('date', '')))
+        with open(csv_path, 'w', newline='', encoding='utf-8') as f:
+            writer = csv.DictWriter(f, fieldnames=wci_fields)
+            writer.writeheader()
+            writer.writerows(merged_wci)
+        print(f"[+] Stacked Drewry WCI series: {csv_path} ({len(merged_wci)} total rows)")
 
     # 5. Historical flat directory opinions/opinions/ preserved per zero-deletion rule
     if os.path.exists(RAW_OPINIONS_DIR):

@@ -1,0 +1,50 @@
+---
+title: "Athenian Shipbrokers S.A. DEMOLITION QUICK UPDATE Week 27, 2021"
+issue_date: "2021-07-14"
+year: 2021
+publisher: "Athenian Shipbrokers S.A."
+source: "hellenic_demolition"
+category: "demolition"
+report_week: 27
+source_file: "corpus/02-hellenic/demolition/pdfs/2021-07-14_ship_Recycling__weekly_27_2021_Athenian.pdf"
+tables_count: 1
+---
+
+# Athenian Shipbrokers S.A. DEMOLITION QUICK UPDATE Week 27, 2021
+
+## Athenian Shipbrokers Scrap Price Assessment
+
+| Country | Tankers ($/LDT) | Dry Bulk ($/LDT) | Containers ($/LDT) |
+|:---|:---|:---|:---|
+
+## Market Commentary
+
+ATHENIAN SHIPBROKERS S.A.
+
+107-109, Vas. Pavlou Str., GR 166 73, Voula,  Athens,  Greece
+
+Tel: +30 210 9659700 - Fax: +30 210 8996040
+
+Email Chartering : chartering@atheniansa.gr
+
+www.atheniansa.gr
+
+Week  27 2021 (5thJune- 9nd July)
+
+S H I P R E C Y C L I N G M A R K E T W E E K L Y
+
+Firm prices continued to prevail in the ship
+
+recycling market, primarily owed to the lack of
+
+available tonnage, with the End Buyers giving
+
+rates of high 500/LDT. Pakistan remained a
+
+strong competitor in the market, but lost the lead to an incredible Bangladeshi market. India’s
+
+supply of specialist vessels was steady, along with some green vessels, however that was not
+
+able to move them from the last place of the market.
+
+HISTORICAL DEMOLITION PRICES*

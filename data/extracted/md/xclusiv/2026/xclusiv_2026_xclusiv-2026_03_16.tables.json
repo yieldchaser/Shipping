@@ -1,0 +1,899 @@
+{
+  "stem": "xclusiv_2026_xclusiv-2026_03_16",
+  "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf",
+  "issue_date": "2026-03-16",
+  "report_week": 11,
+  "pages": 9,
+  "useful_pages": 7,
+  "editorial_title": "MARKET COMMENTARY:",
+  "nutshell": [
+    "- Middle East conflict disrupts Strait of Hormuz, threatening",
+    "- major share of global seaborne oil flows. (Page 1)",
+    "- IEA releases 400 million barrels from strategic reserves to",
+    "- buffer immediate supply shock. (Page 1)",
+    "- Saudi crude rerouted via Yanbu Red Sea pipeline, fundamen-",
+    "- tally reshaping tanker logistics patterns. (Page 1)",
+    "- Longer tanker routes and sanctions relief for Russian oil in-",
+    "- crease tonne-mile demand. (Page 1)",
+    "- WTI crude oil futures surged above $103 pb. (Page 8)"
+  ],
+  "market_commentary": [
+    "The conflict in the Arabian Gulf has rapidly evolved from a geopolitical shock into a structural disruption for global energy logistics, forcing the oil market and the tanker in- dustry to adjust in real time. What initially appeared as a military escalation between the US, Israel and Iran has quickly translated into one of the most serious threats to seaborne oil flows in decades. The effective paralysis of shipping linked to the Strait of Hormuz — a corridor through which roughly one fifth of global oil supply nor- mally passes — has pushed governments and market par- ticipants into emergency mode, highlighting just how fragile the current energy transport system can be when a single chokepoint becomes compromised.",
+    "The scale of the disruption is evident in the response from the International Energy Agency. In an unprecedented move, the IEA announced the release of 400 million barrels from strategic reserves held by its member countries, the largest emergency stock release in its history. The decision reflects the magnitude of the supply shock created by halt- ed or severely reduced shipping flows through the Gulf. Even so, the measure should be viewed primarily as a short- term buffer rather than a solution. The reality remains that the restoration of normal tanker transit through Hormuz is the only development capable of fully stabilising the market.",
+    "While the strait has not been formally declared closed, shipping behaviour already reflects a market operating under extreme risk assumptions. Owners, charterers and insurers are responding to the possibility of escalation rather than waiting for certainty, and the result is a rapid reconfiguration of crude trade routes. The clearest example is Saudi Ara- bia’s decision to redirect part of its export flows through the East-West pipeline toward Yanbu on the Red Sea, effec- tively bypassing the Gulf. From there, crude can still reach Asian buyers, but the logistics are fundamentally different.",
+    "This shift is already visible in tanker movements. A number of VLCCs linked to Chinese state shipping groups have been reported heading toward Yanbu in order to lift additional Saudi cargoes destined for Asia. For the tanker market this development is particularly significant because it does not simply maintain trade flows — it stretches them. Barrels that would normally load in the Gulf are now moving across Saudi Arabia before beginning a much longer seaborne journey from the Red Sea to Asia, increasing tonne-mile demand and tightening vessel availability at a time when many ships are already avoiding the Gulf due to security concerns. At the same time, the energy shock has trig- gered unexpected adjustments on the sanctions front. In an attempt to ease the immediate supply crunch, the United States has temporarily relaxed restrictions on Russian oil cargoes already at sea, allowing them to be delivered to buyers worldwide for a limited period. This move effectively releases a significant volume of previ- ously constrained barrels back into the market. India ap- pears to be the main beneficiary of this adjustment. Estimates suggest that up to 65 million barrels of Russian crude currently in transit or floating storage could now be redirected toward Indian refiners over the coming weeks, helping to compensate for the sudden loss of Middle East Gulf supply.",
+    "What is therefore unfolding is not simply a regional conflict but a temporary reshaping of global oil trade patterns. Saudi crude is being pushed westward to the Red Sea, Russian barrels are finding new destinations, and tanker routes are lengthening dramatically. Even without a formal closure of Hormuz, the market is already operating as if the world’s most important energy chokepoint has become unreliable — and shipping is at the centre of that adjustment."
+  ],
+  "baltic_indices": [
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Dry",
+      "index_name": "BDI",
+      "index_value": 2028.0,
+      "prev_value": 2010.0,
+      "change_pct": "0.9%",
+      "avg_year_1": 1939.0,
+      "avg_year_2": 1676.0,
+      "avg_year_3": 1756.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Dry",
+      "index_name": "BCI",
+      "index_value": 2880.0,
+      "prev_value": 2631.0,
+      "change_pct": "9.5%",
+      "avg_year_1": 2902.0,
+      "avg_year_2": 2557.0,
+      "avg_year_3": 2724.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Dry",
+      "index_name": "BPI",
+      "index_value": 1838.0,
+      "prev_value": 1962.0,
+      "change_pct": "-6.3%",
+      "avg_year_1": 1683.0,
+      "avg_year_2": 1483.0,
+      "avg_year_3": 1570.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Dry",
+      "index_name": "BSI",
+      "index_value": 1283.0,
+      "prev_value": 1386.0,
+      "change_pct": "-7.4%",
+      "avg_year_1": 1137.0,
+      "avg_year_2": 1128.0,
+      "avg_year_3": 1243.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Dry",
+      "index_name": "BHSI",
+      "index_value": 796.0,
+      "prev_value": 827.0,
+      "change_pct": "-3.7%",
+      "avg_year_1": 678.0,
+      "avg_year_2": 661.0,
+      "avg_year_3": 704.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Wet",
+      "index_name": "BDTI",
+      "index_value": 2586.0,
+      "prev_value": 3069.0,
+      "change_pct": "-15.7%",
+      "avg_year_1": 1849.0,
+      "avg_year_2": 1068.0,
+      "avg_year_3": 1094.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Wet",
+      "index_name": "BCTI",
+      "index_value": 1463.0,
+      "prev_value": 1592.0,
+      "change_pct": "-8.1%",
+      "avg_year_1": 970.0,
+      "avg_year_2": 667.0,
+      "avg_year_3": 821.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    }
+  ],
+  "freight_commentary": {
+    "Dry Bulk Freight": "Capesize: C5TC average improved by USD 2.3/day closing the week at USD 22,621/day. Trip from Continent to F. East is down by 1.6k/day at USD 45,500/day, Transatlantic R/V is higher by 2.6k/ day at USD 23,156/day, and Bolivar to Rotterdam is lower by 0.7k/day at USD 24,804/day, while Transpacific R/V is increased by 7k/day at USD 28,850/day. Trip from Tubarao to Rotterdam is increased by 0.7k/day at USD 19,552/day, China- Brazil R/V is lower by 2.3k/day at USD 23,305/day, and & trip from Saldanha Bay to Qinqdao is in- creased by 0.7k/day at USD 19,552/day.\n\nKamsarmax/Panamax: P5TC average started the week at USD 17,656/day closing with a decline at USD 16,546/day. Trip from Skaw-Gib to F. East is softer by 1.2k/day at USD 21,946/day, Pacific R/ Vis down by 2.2k/day at USD 18,350/day, while Transatlantic R/V is reduced by 0.1k/day at USD 12,568/day, and Singapore R/V via Atlantic is de- creased by 1.2k/day at USD 17,727/day.\n\nUltramax/Supramax: Ultramax S11TC average closed the week about USD 1.3k/day lower than its opening at USD 16,213/day. The Supramax S10TC average closed the week about 1.3k/day lower than its opening at USD 14,179/day. The Baltic Supramax Asia S3TC average closed the week about 1.2k/day lower than previous week at USD 15,435/day. N.China one Australian or Pacific R/V is declined by 1.3k/day at USD 16,031/day, USG to Skaw Passero is softer by 5.4k/day at USD 22,043/day. S. China trip via Indonesia to EC India is down by 1k/day at USD 16,564/day, trip from S. China via Indonesia to S. China pays USD 13,444/day, while Med /B. Sea to China/S. Korea is increased by 1.1k/day at USD 20,188/day .\n\nHandysize: HS7TC average closed the week reduced by 0.6k/day at USD 14,330/day. Skaw-Passero trip to Boston-Galveston pays 0.5k/day more at USD 11,550/day, Brazil to Cont. pays 3.4k/day less at USD 21,250/day, S.E. Asia trip to Spore/Japan 0.6k/ day is firmer at USD 12,950/day, China/S.Korea/ Japan round trip is increased by 0.6k/day at USD 12,388/day, and trip from U.S. Gulf to Cont. is re- duced by 4.3k/day at USD 21,386/day, while N.China-S.Korea-Japan trip to S.E. Asia is increased by 0.4k/day at USD 12,044/day .",
+    "Tanker Freight": "VLCC: average T/CE ended the week down by 84.6k/day at USD 214,170/day. Middle East Gulf to China trip is down at USD 378/day. West Africa to China trip is down by 119.k/day at USD 115,112/day and US Gulf to China trip is down by 70.2k/day at USD 116,020/day.\n\nSuezmax: average T/CE closed the week softer by 20.5k/day at USD 175,748/day. West Africa to Continent trip is down by 39.3k/day at USD 119,459/day, Black Sea to Mediterranean is down by 1.7k/day at USD 232,037/day, and Middle East Gulf to Med trip is reduced by 3.4k/day at USD 346,111/day, while trip from Guyana to ARA is reduced by 26.5k/day at USD 127,870/day.\n\nAframax: average T/CE closed the week lower by 35.3k/day at USD 89,522/day. North Sea to Conti- nent trip is down by 23.2k/day at USD 120,409/ day, Kuwait to Singapore is down by 54.8k/day at USD 121,398/day, while route from Caribbean to US Gulf trip is down by 56.6k/day at USD 66,308/ day. Trip from South East Asia to East Coast Aus- tralia is down by 14.7k/day at USD 37,833/day & Cross Mediterranean trip is down by 7.2k/day at USD 125,438/day. US Gulf to UK-Continent is re- duced by 43.5k/day at USD 55,535/day and the East Coast Mexico to US Gulf trip is down by USD 68.3k/day at USD 76,521/day.\n\nProducts: The LR2 route (TC1) Middle East to Ja- pan is this week lower by 24.1k/day at USD 77,515/day. Trip from (TC15) Med to Far East has increased by 5.4k/day at USD 60,737/day and (TC20) AG to UK Continent is down by 19.3k/day at USD 83,192/day. The LR1 route (TC5) from Mid- dle East Gulf to Japan is down by 24.5k/day at USD 53,077/day, while the (TC8) Middle East Gulf to UK -Continent is down by 19.3k/day at USD 83,192/ day and the (TC16) Amsterdam to Lome trip is im- proved by 5.2k/day at USD 54,146/day. The MR Atlantic Basket is decreased by 7.6k/day at USD 69,131/day & the MR Pacific Basket earnings are lower by 19.7k/day at USD 22,898/day. The MR route from Rotterdam to New York (TC2) is softer by 24.1k/day at USD 77,515/day, (TC6) Intermed (Algeria to Euro Med) earnings are softer by24.5k/ day at USD 53,077/day, (TC14) US Gulf to Conti- nent is down by 18.6k/day at USD 12,331/day, (TC18) US Gulf to Brazil earnings are lower by 8.3k/day at USD 35,858/day, (TC23) Amsterdam to Le Havre is lower by 8.5k/day at USD 19,905/day while Yeosu to Botany Bay (TC22) is firmer at USD 70,623/day and ARA to West Africa (TC19) is down by 4.3k/day at USD 61,242/day."
+  },
+  "dry_snp_activity": "On the Capesize sector, the “Aliado” - 177K/2005 Na- mura was sold for USD 21.5 mills. In the Kamsarmax sector, Greek buyers acquired the “CCS Orchid” - 82K/2017 JNS for USD 27.24 mills through an auction process, while the “Trabzon” - 82K/2011 HMD changed hands for USD 17.5 mills to undisclosed inter- ests. On the Ultramax sector, the “Sinop” - 63K/2013 Yangzhou Dayang was sold to Greek buyers for USD 22.5 mills. Finally, in the smaller sizes, Vietnamese buy- ers acquired the semi-boxed “Pacific Harmony” - 38K/2013 Imabari for region USD 18 mills, while the “Sea Sapphire” - 33K/2010 Zhejiang Hongxin was sold for USD 8.5 mills with next SS due March 2030.\n\nNAME DWT YEAR COUNTRY YARD BUYERS PRICE ($ mills) COMMENTS",
+  "wet_snp_activity": "On the Suezmax sector, Greek buyers acquired the “Libera” - 158K/2009 Samsung for USD 44 mills. In the small tanker segment, the “Bum Shin” - 20K/2003 Shin Kurushima was sold to undisclosed buyers for USD 7.5 mills.",
+  "reported_sales": [
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "section": "Bulk Carriers",
+      "page": 5,
+      "NAME": "ALIADO",
+      "TYPE": "Capesize",
+      "DWT": "177,022",
+      "YEAR": "2005",
+      "COUNTRY": "JAPAN",
+      "YARD": "NAMURA",
+      "BUYERS": "UNDISCLOSED",
+      "PRICE": "21.5",
+      "PRICE_USD_MILL": 21.5,
+      "COMMENTS": "",
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "section": "Bulk Carriers",
+      "page": 5,
+      "NAME": "CCS ORCHID",
+      "TYPE": "Kamsarmax",
+      "DWT": "81,966",
+      "YEAR": "2017",
+      "COUNTRY": "CHINA",
+      "YARD": "JNS",
+      "BUYERS": "GREEK",
+      "PRICE": "27.24",
+      "PRICE_USD_MILL": 27.24,
+      "COMMENTS": "AUCTION",
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "section": "Bulk Carriers",
+      "page": 5,
+      "NAME": "TRABZON",
+      "TYPE": "Kamsarmax",
+      "DWT": "81,660",
+      "YEAR": "2011",
+      "COUNTRY": "S. KOREA",
+      "YARD": "HMD",
+      "BUYERS": "UNDISCLOSED",
+      "PRICE": "17.5",
+      "PRICE_USD_MILL": 17.5,
+      "COMMENTS": "",
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "section": "Bulk Carriers",
+      "page": 5,
+      "NAME": "SINOP",
+      "TYPE": "Ultramax",
+      "DWT": "63,200",
+      "YEAR": "2013",
+      "COUNTRY": "CHINA",
+      "YARD": "CHINA",
+      "BUYERS": "GREEK",
+      "PRICE": "22.5",
+      "PRICE_USD_MILL": 22.5,
+      "COMMENTS": "ELECTRONIC M/E",
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "section": "Bulk Carriers",
+      "page": 5,
+      "NAME": "PACIFIC HARMONY",
+      "TYPE": "Handysize",
+      "DWT": "38,139",
+      "YEAR": "2013",
+      "COUNTRY": "JAPAN",
+      "YARD": "IMABARI",
+      "BUYERS": "VIETNAMESE",
+      "PRICE": "REGION 18",
+      "PRICE_USD_MILL": 18.0,
+      "COMMENTS": "SEMI BOXED",
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "section": "Bulk Carriers",
+      "page": 5,
+      "NAME": "SEA SAPPHIRE",
+      "TYPE": "Handysize",
+      "DWT": "32,550",
+      "YEAR": "2010",
+      "COUNTRY": "CHINA",
+      "YARD": "ZHEJIANG HONGXIN",
+      "BUYERS": "UNDISCLOSED",
+      "PRICE": "8.5",
+      "PRICE_USD_MILL": 8.5,
+      "COMMENTS": "",
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "section": "Tankers",
+      "page": 6,
+      "NAME": "LIBERA",
+      "TYPE": "Suezmax",
+      "DWT": "158,319",
+      "YEAR": "2009",
+      "COUNTRY": "S. KOREA",
+      "YARD": "SAMSUNG",
+      "BUYERS": "GREEKS",
+      "PRICE": "44",
+      "PRICE_USD_MILL": 44.0,
+      "COMMENTS": "",
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "section": "Tankers",
+      "page": 6,
+      "NAME": "BUM SHIN",
+      "TYPE": "Small Tanker",
+      "DWT": "19,997",
+      "YEAR": "2003",
+      "COUNTRY": "JAPAN",
+      "YARD": "SHIN KURUSHIMA",
+      "BUYERS": "UNDISCLOSED",
+      "PRICE": "7.5",
+      "PRICE_USD_MILL": 7.5,
+      "COMMENTS": "",
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    }
+  ],
+  "demo_sales": [
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "NAME": "GHADA A",
+      "TYPE": "GC",
+      "YEAR": "1972",
+      "DWT": "6,341",
+      "LDT": "2,240",
+      "COUNTRY": "NETHERLANDS",
+      "PRICE_RAW": "N/A",
+      "PRICE_USD_PER_LDT": "",
+      "BUYERS": "INDIA",
+      "COMMENTS": "",
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "NAME": "SOFIA II",
+      "TYPE": "GC",
+      "YEAR": "1994",
+      "DWT": "6,730",
+      "LDT": "2,449",
+      "COUNTRY": "JAPAN",
+      "PRICE_RAW": "N/A",
+      "PRICE_USD_PER_LDT": "",
+      "BUYERS": "INDIA",
+      "COMMENTS": "",
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "NAME": "GUZEL",
+      "TYPE": "RO-RO",
+      "YEAR": "1980",
+      "DWT": "4,476",
+      "LDT": "3,110",
+      "COUNTRY": "YUGOSLAVIA",
+      "PRICE_RAW": "N/A",
+      "PRICE_USD_PER_LDT": "",
+      "BUYERS": "PAKISTAN",
+      "COMMENTS": "",
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "NAME": "AF FRANCESCA",
+      "TYPE": "RO-RO",
+      "YEAR": "1979",
+      "DWT": "3,250",
+      "LDT": "",
+      "COUNTRY": "ITALY",
+      "PRICE_RAW": "N/A",
+      "PRICE_USD_PER_LDT": "",
+      "BUYERS": "TURKEY",
+      "COMMENTS": "",
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "NAME": "BIANCA",
+      "TYPE": "TANKER",
+      "YEAR": "2003",
+      "DWT": "37,320",
+      "LDT": "8,986",
+      "COUNTRY": "S. KOREA",
+      "PRICE_RAW": "N/A",
+      "PRICE_USD_PER_LDT": "",
+      "BUYERS": "INDIA",
+      "COMMENTS": "",
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    }
+  ],
+  "newbuilding_orders": [
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "page": 4,
+      "type": "BC",
+      "units": "2",
+      "size": "210,000 DWT",
+      "yard": "CSSC QINGDAO BEIHAI",
+      "buyer": "PAN OCEAN",
+      "price": "77 EACH",
+      "delivery": "2031",
+      "comments": "OPTIONS",
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "page": 4,
+      "type": "TANKER",
+      "units": "3",
+      "size": "157,000 DWT",
+      "yard": "SAMSUNG",
+      "buyer": "GLOBAL MERIDIAN",
+      "price": "89.32 EACH",
+      "delivery": "2028-2029",
+      "comments": "",
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "page": 4,
+      "type": "TANKER",
+      "units": "1",
+      "size": "154,000 DWT",
+      "yard": "COSCO HI",
+      "buyer": "KNUTSEN NYK",
+      "price": "N/A",
+      "delivery": "2028",
+      "comments": "",
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "page": 4,
+      "type": "TANKER",
+      "units": "2+2",
+      "size": "158,000 DWT",
+      "yard": "SWS",
+      "buyer": "VENERGY",
+      "price": "N/A",
+      "delivery": "2029-2030",
+      "comments": "",
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "page": 4,
+      "type": "TANKER",
+      "units": "2+2",
+      "size": "157,000 DWT",
+      "yard": "HYUNDAI SAMHO",
+      "buyer": "ARCADIA",
+      "price": "89",
+      "delivery": "2029",
+      "comments": "",
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "page": 4,
+      "type": "TANKER",
+      "units": "3",
+      "size": "157,000 DWT",
+      "yard": "SAMSUNG",
+      "buyer": "JP MORGAN",
+      "price": "89.3",
+      "delivery": "2028-2029",
+      "comments": "",
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "page": 4,
+      "type": "GAS",
+      "units": "2",
+      "size": "90,000 CBM",
+      "yard": "HYUNDAI SAMHO",
+      "buyer": "TRANSPETROL BELGIUM",
+      "price": "115.4",
+      "delivery": "2028",
+      "comments": "",
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "page": 4,
+      "type": "CONTAINER",
+      "units": "2",
+      "size": "9,000 TEU",
+      "yard": "SWS",
+      "buyer": "WAN HAI LINES",
+      "price": "N/A",
+      "delivery": "2029",
+      "comments": "",
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "page": 4,
+      "type": "CONTAINER",
+      "units": "4",
+      "size": "6,000 TEU",
+      "yard": "CSSC WENCHONG",
+      "buyer": "WAN HAI LINES",
+      "price": "N/A",
+      "delivery": "2030",
+      "comments": "",
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    }
+  ],
+  "indicative_demolition_prices": [
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "segment": "Bulkers",
+      "country": "India",
+      "price_usd_per_ldt": 390.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "segment": "Bulkers",
+      "country": "Bangladesh",
+      "price_usd_per_ldt": 410.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "segment": "Bulkers",
+      "country": "Pakistan",
+      "price_usd_per_ldt": 410.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "segment": "Bulkers",
+      "country": "Turkey",
+      "price_usd_per_ldt": 270.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "segment": "Tankers",
+      "country": "India",
+      "price_usd_per_ldt": 410.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "segment": "Tankers",
+      "country": "Bangladesh",
+      "price_usd_per_ldt": 430.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "segment": "Tankers",
+      "country": "Pakistan",
+      "price_usd_per_ldt": 430.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "segment": "Tankers",
+      "country": "Turkey",
+      "price_usd_per_ldt": 280.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    }
+  ],
+  "indicative_secondhand_prices": [
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Dry",
+      "vessel_type": "Capesize",
+      "tenor": "Resale",
+      "price_usd_mill": 80.5,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Dry",
+      "vessel_type": "Capesize",
+      "tenor": "5 Year",
+      "price_usd_mill": 68.5,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Dry",
+      "vessel_type": "Capesize",
+      "tenor": "10 Year",
+      "price_usd_mill": 52.5,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Dry",
+      "vessel_type": "Capesize",
+      "tenor": "15 Year",
+      "price_usd_mill": 34.5,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Dry",
+      "vessel_type": "Kamsarmax",
+      "tenor": "Resale",
+      "price_usd_mill": 42.5,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Dry",
+      "vessel_type": "Kamsarmax",
+      "tenor": "5 Year",
+      "price_usd_mill": 36.8,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Dry",
+      "vessel_type": "Kamsarmax",
+      "tenor": "10 Year",
+      "price_usd_mill": 27.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Dry",
+      "vessel_type": "Kamsarmax",
+      "tenor": "15 Year",
+      "price_usd_mill": 19.3,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Dry",
+      "vessel_type": "Ultramax",
+      "tenor": "Resale",
+      "price_usd_mill": 41.8,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Dry",
+      "vessel_type": "Ultramax",
+      "tenor": "5 Year",
+      "price_usd_mill": 36.3,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Dry",
+      "vessel_type": "Ultramax",
+      "tenor": "10 Year",
+      "price_usd_mill": 28.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Dry",
+      "vessel_type": "Ultramax",
+      "tenor": "15 Year",
+      "price_usd_mill": 16.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Dry",
+      "vessel_type": "Handysize",
+      "tenor": "Resale",
+      "price_usd_mill": 35.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Dry",
+      "vessel_type": "Handysize",
+      "tenor": "5 Year",
+      "price_usd_mill": 29.8,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Dry",
+      "vessel_type": "Handysize",
+      "tenor": "10 Year",
+      "price_usd_mill": 21.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Dry",
+      "vessel_type": "Handysize",
+      "tenor": "15 Year",
+      "price_usd_mill": 12.5,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Tanker",
+      "vessel_type": "VLCC",
+      "tenor": "Resale",
+      "price_usd_mill": 175.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Tanker",
+      "vessel_type": "VLCC",
+      "tenor": "5 Year",
+      "price_usd_mill": 138.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Tanker",
+      "vessel_type": "VLCC",
+      "tenor": "10 Year",
+      "price_usd_mill": 110.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Tanker",
+      "vessel_type": "VLCC",
+      "tenor": "15 Year",
+      "price_usd_mill": 81.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Tanker",
+      "vessel_type": "Suezmax",
+      "tenor": "Resale",
+      "price_usd_mill": 108.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Tanker",
+      "vessel_type": "Suezmax",
+      "tenor": "5 Year",
+      "price_usd_mill": 88.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Tanker",
+      "vessel_type": "Suezmax",
+      "tenor": "10 Year",
+      "price_usd_mill": 71.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Tanker",
+      "vessel_type": "Suezmax",
+      "tenor": "15 Year",
+      "price_usd_mill": 53.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Tanker",
+      "vessel_type": "Aframax",
+      "tenor": "Resale",
+      "price_usd_mill": 87.5,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Tanker",
+      "vessel_type": "Aframax",
+      "tenor": "5 Year",
+      "price_usd_mill": 74.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Tanker",
+      "vessel_type": "Aframax",
+      "tenor": "10 Year",
+      "price_usd_mill": 61.5,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Tanker",
+      "vessel_type": "Aframax",
+      "tenor": "15 Year",
+      "price_usd_mill": 41.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Tanker",
+      "vessel_type": "MR2",
+      "tenor": "Resale",
+      "price_usd_mill": 53.5,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Tanker",
+      "vessel_type": "MR2",
+      "tenor": "5 Year",
+      "price_usd_mill": 47.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Tanker",
+      "vessel_type": "MR2",
+      "tenor": "10 Year",
+      "price_usd_mill": 36.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Tanker",
+      "vessel_type": "MR2",
+      "tenor": "15 Year",
+      "price_usd_mill": 26.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    }
+  ],
+  "indicative_newbuilding_prices": [
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Dry",
+      "vessel_type": "Capesize",
+      "price_usd_mill": 75.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Dry",
+      "vessel_type": "Kamsarmax",
+      "price_usd_mill": 36.5,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Dry",
+      "vessel_type": "Ultramax",
+      "price_usd_mill": 34.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Dry",
+      "vessel_type": "Handysize",
+      "price_usd_mill": 29.5,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Tanker",
+      "vessel_type": "VLCC",
+      "price_usd_mill": 129.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Tanker",
+      "vessel_type": "Suezmax",
+      "price_usd_mill": 87.5,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Tanker",
+      "vessel_type": "Aframax",
+      "price_usd_mill": 75.5,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Tanker",
+      "vessel_type": "Panamax",
+      "price_usd_mill": 57.0,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    },
+    {
+      "issue_date": "2026-03-16",
+      "report_week": 11,
+      "sector": "Tanker",
+      "vessel_type": "MR2",
+      "price_usd_mill": 49.5,
+      "source_file": "xclusiv_2026_xclusiv-2026_03_16.pdf"
+    }
+  ]
+}

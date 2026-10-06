@@ -1,0 +1,1873 @@
+{
+  "done": {
+    "xclusiv_2022_xclusiv_weekly_2022_05_03": {
+      "pages": 5,
+      "bytes": 44549,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 39.85,
+      "timestamp": "2026-09-26 00:14:50"
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_08_09": {
+      "pages": 5,
+      "bytes": 37026,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 9.5,
+      "timestamp": "2026-09-27 15:55:40"
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_08_02": {
+      "pages": 5,
+      "bytes": 45766,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 10.2,
+      "timestamp": "2026-09-27 15:55:42"
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_07_26": {
+      "pages": 5,
+      "bytes": 45334,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 10.38,
+      "timestamp": "2026-09-27 15:55:42"
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_08_16": {
+      "pages": 5,
+      "bytes": 68530,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 9.53,
+      "timestamp": "2026-09-27 15:55:52"
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_08_23": {
+      "pages": 5,
+      "bytes": 45521,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 10.84,
+      "timestamp": "2026-09-27 15:55:54"
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_09_13": {
+      "pages": 5,
+      "bytes": 34386,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 7.47,
+      "timestamp": "2026-09-27 15:56:01"
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_09_20": {
+      "pages": 5,
+      "bytes": 37799,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 8.91,
+      "timestamp": "2026-09-27 15:56:04"
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_08_30": {
+      "pages": 5,
+      "bytes": 47011,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 8.68,
+      "timestamp": "2026-09-27 15:55:52"
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_09_06": {
+      "pages": 5,
+      "bytes": 40225,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 8.37,
+      "timestamp": "2026-09-27 15:56:01"
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_09_27": {
+      "pages": 5,
+      "bytes": 36387,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 7.64,
+      "timestamp": "2026-09-27 15:56:09"
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_10_11": {
+      "pages": 5,
+      "bytes": 36478,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 8.46,
+      "timestamp": "2026-09-27 15:56:10"
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_10_18": {
+      "pages": 5,
+      "bytes": 41495,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 7.5,
+      "timestamp": "2026-09-27 15:56:12"
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_10_25": {
+      "pages": 5,
+      "bytes": 43687,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 9.02,
+      "timestamp": "2026-09-27 15:56:19"
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_10_4": {
+      "pages": 5,
+      "bytes": 32865,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 7.39,
+      "timestamp": "2026-09-27 15:56:19"
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_11_01": {
+      "pages": 5,
+      "bytes": 38091,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 7.19,
+      "timestamp": "2026-09-27 15:56:20"
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_11_08": {
+      "pages": 5,
+      "bytes": 38296,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 8.01,
+      "timestamp": "2026-09-27 15:56:28"
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_11_15": {
+      "pages": 5,
+      "bytes": 47896,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 7.78,
+      "timestamp": "2026-09-27 15:56:28"
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_11_22": {
+      "pages": 5,
+      "bytes": 41087,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 8.29,
+      "timestamp": "2026-09-27 15:56:29"
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_11_29-": {
+      "pages": 5,
+      "bytes": 38342,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 8.84,
+      "timestamp": "2026-09-27 15:56:37"
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_12_13": {
+      "pages": 5,
+      "bytes": 36853,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 7.72,
+      "timestamp": "2026-09-27 15:56:37"
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_12_27": {
+      "pages": 5,
+      "bytes": 32586,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 7.94,
+      "timestamp": "2026-09-27 15:56:46"
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_12_20": {
+      "pages": 5,
+      "bytes": 42283,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 8.26,
+      "timestamp": "2026-09-27 15:56:38"
+    },
+    "xclusiv_2021_xclusiv_weekly_2021_12_6-": {
+      "pages": 5,
+      "bytes": 44217,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 8.64,
+      "timestamp": "2026-09-27 15:56:47"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_05_09": {
+      "pages": 5,
+      "bytes": 41652,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 26.45,
+      "timestamp": "2026-09-26 00:21:47"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_05_16": {
+      "pages": 5,
+      "bytes": 45116,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 37.35,
+      "timestamp": "2026-09-26 00:22:07"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_05_23": {
+      "pages": 5,
+      "bytes": 39277,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 41.0,
+      "timestamp": "2026-09-26 00:22:11"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_06_06": {
+      "pages": 5,
+      "bytes": 40979,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 26.62,
+      "timestamp": "2026-09-26 00:22:14"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_05_30": {
+      "pages": 5,
+      "bytes": 40971,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 31.42,
+      "timestamp": "2026-09-26 00:22:15"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_06_20": {
+      "pages": 5,
+      "bytes": 45164,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 27.62,
+      "timestamp": "2026-09-26 00:22:39"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_06_14": {
+      "pages": 5,
+      "bytes": 43024,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 33.07,
+      "timestamp": "2026-09-26 00:22:40"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_06_27": {
+      "pages": 5,
+      "bytes": 43553,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 31.69,
+      "timestamp": "2026-09-26 00:22:45"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_07_01": {
+      "pages": 5,
+      "bytes": 46326,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 33.35,
+      "timestamp": "2026-09-26 00:22:48"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_07_18": {
+      "pages": 5,
+      "bytes": 44295,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 26.61,
+      "timestamp": "2026-09-26 00:23:07"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_07_11": {
+      "pages": 5,
+      "bytes": 42505,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 31.8,
+      "timestamp": "2026-09-26 00:23:11"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_08_01": {
+      "pages": 5,
+      "bytes": 48606,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 25.67,
+      "timestamp": "2026-09-26 00:23:14"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_07_25": {
+      "pages": 5,
+      "bytes": 41059,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 31.11,
+      "timestamp": "2026-09-26 00:23:16"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_08_08": {
+      "pages": 5,
+      "bytes": 47320,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 33.23,
+      "timestamp": "2026-09-26 00:23:40"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_08_16": {
+      "pages": 5,
+      "bytes": 46729,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 32.28,
+      "timestamp": "2026-09-26 00:23:43"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_08_29": {
+      "pages": 5,
+      "bytes": 40360,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 37.86,
+      "timestamp": "2026-09-26 00:23:54"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_08_22": {
+      "pages": 5,
+      "bytes": 39955,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 47.76,
+      "timestamp": "2026-09-26 00:24:02"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_09_05": {
+      "pages": 5,
+      "bytes": 42422,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 32.95,
+      "timestamp": "2026-09-26 00:24:13"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_09_12": {
+      "pages": 5,
+      "bytes": 45723,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 35.85,
+      "timestamp": "2026-09-26 00:24:19"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_09_26": {
+      "pages": 5,
+      "bytes": 38188,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 28.09,
+      "timestamp": "2026-09-26 00:24:30"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_09_19": {
+      "pages": 5,
+      "bytes": 43198,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 39.37,
+      "timestamp": "2026-09-26 00:24:34"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_10_03": {
+      "pages": 5,
+      "bytes": 50452,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 31.02,
+      "timestamp": "2026-09-26 00:24:44"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_10_10": {
+      "pages": 5,
+      "bytes": 44367,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 25.82,
+      "timestamp": "2026-09-26 00:24:45"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_10_17": {
+      "pages": 5,
+      "bytes": 43535,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 27.23,
+      "timestamp": "2026-09-26 00:24:57"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_10_24": {
+      "pages": 5,
+      "bytes": 39330,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 36.15,
+      "timestamp": "2026-09-26 00:25:10"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_10_31": {
+      "pages": 5,
+      "bytes": 42725,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 37.9,
+      "timestamp": "2026-09-26 00:25:22"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_11_07": {
+      "pages": 5,
+      "bytes": 45367,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 37.2,
+      "timestamp": "2026-09-26 00:25:22"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_11_14": {
+      "pages": 5,
+      "bytes": 40601,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 32.65,
+      "timestamp": "2026-09-26 00:25:30"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_11_21": {
+      "pages": 5,
+      "bytes": 38411,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 32.71,
+      "timestamp": "2026-09-26 00:25:43"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_11_28": {
+      "pages": 5,
+      "bytes": 44922,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 25.68,
+      "timestamp": "2026-09-26 00:25:47"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_12_05": {
+      "pages": 5,
+      "bytes": 43852,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 26.3,
+      "timestamp": "2026-09-26 00:25:48"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_12_12": {
+      "pages": 5,
+      "bytes": 45346,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 29.67,
+      "timestamp": "2026-09-26 00:25:59"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_12_27": {
+      "pages": 5,
+      "bytes": 34265,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 26.26,
+      "timestamp": "2026-09-26 00:26:14"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_12_19": {
+      "pages": 5,
+      "bytes": 42501,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 31.56,
+      "timestamp": "2026-09-26 00:26:14"
+    },
+    "xclusiv_22_09_2026_xclusiv_shipbrokers_weekly_21st_september_2026": {
+      "pages": 7,
+      "bytes": 40534,
+      "target_pages": "0,1,2,3,4,5,6",
+      "timestamp": "2026-09-27"
+    },
+    "xclusiv_2026_xclusiv-2026_02_24": {
+      "pages": 7,
+      "bytes": 41821,
+      "target_pages": "0,1,2,3,4,5,6",
+      "timestamp": "2026-09-27"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_01_09": {
+      "pages": 5,
+      "bytes": 38052,
+      "target_pages": "0,1,2,3,4",
+      "timestamp": "2026-09-27"
+    },
+    "xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026": {
+      "pages": 7,
+      "bytes": 42008,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 38.61,
+      "timestamp": "2026-09-27 15:13:27"
+    },
+    "xclusiv_2026_nan_xclusiv-2026_08_24": {
+      "pages": 7,
+      "bytes": 43427,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 29.35,
+      "timestamp": "2026-09-27 15:16:11"
+    },
+    "xclusiv_2026_nan_xclusiv-2026_08_17": {
+      "pages": 7,
+      "bytes": 40377,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 30.25,
+      "timestamp": "2026-09-27 15:16:12"
+    },
+    "xclusiv_2026_nan_xclusiv-2026_08_10": {
+      "pages": 7,
+      "bytes": 36788,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 30.25,
+      "timestamp": "2026-09-27 15:16:12"
+    },
+    "xclusiv_2026_xclusiv-2026_01_12": {
+      "pages": 7,
+      "bytes": 47299,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 27.8,
+      "timestamp": "2026-09-27 15:16:41"
+    },
+    "xclusiv_2026_xclusiv-2026_01_05": {
+      "pages": 7,
+      "bytes": 40341,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 28.37,
+      "timestamp": "2026-09-27 15:16:42"
+    },
+    "xclusiv_2026_nan_xclusiv-2026_08_31": {
+      "pages": 7,
+      "bytes": 46430,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 29.33,
+      "timestamp": "2026-09-27 15:16:42"
+    },
+    "xclusiv_2026_xclusiv-2026_01_19": {
+      "pages": 7,
+      "bytes": 47695,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 29.74,
+      "timestamp": "2026-09-27 15:17:13"
+    },
+    "xclusiv_2026_xclusiv-2026_01_26": {
+      "pages": 7,
+      "bytes": 42383,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 28.91,
+      "timestamp": "2026-09-27 15:17:13"
+    },
+    "xclusiv_2026_xclusiv-2026_02_02": {
+      "pages": 7,
+      "bytes": 45376,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 33.01,
+      "timestamp": "2026-09-27 15:17:16"
+    },
+    "xclusiv_2026_xclusiv-2026_02_09": {
+      "pages": 7,
+      "bytes": 41995,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 29.48,
+      "timestamp": "2026-09-27 15:17:43"
+    },
+    "xclusiv_2026_xclusiv-2026_02_16": {
+      "pages": 7,
+      "bytes": 45130,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 30.1,
+      "timestamp": "2026-09-27 15:17:44"
+    },
+    "xclusiv_2026_xclusiv-2026_03_02": {
+      "pages": 7,
+      "bytes": 41897,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 34.27,
+      "timestamp": "2026-09-27 15:17:51"
+    },
+    "xclusiv_2026_xclusiv-2026_03_16": {
+      "pages": 7,
+      "bytes": 40225,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 28.52,
+      "timestamp": "2026-09-27 15:18:13"
+    },
+    "xclusiv_2026_xclusiv-2026_03_09": {
+      "pages": 7,
+      "bytes": 43970,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 29.67,
+      "timestamp": "2026-09-27 15:18:14"
+    },
+    "xclusiv_2026_xclusiv-2026_03_23": {
+      "pages": 7,
+      "bytes": 44370,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 29.13,
+      "timestamp": "2026-09-27 15:18:21"
+    },
+    "xclusiv_2026_xclusiv-2026_04_14": {
+      "pages": 7,
+      "bytes": 47658,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 33.21,
+      "timestamp": "2026-09-27 15:18:48"
+    },
+    "xclusiv_2026_xclusiv-2026_03_30": {
+      "pages": 7,
+      "bytes": 42857,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 34.68,
+      "timestamp": "2026-09-27 15:18:49"
+    },
+    "xclusiv_2026_xclusiv-2026_04_20": {
+      "pages": 7,
+      "bytes": 44751,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 32.34,
+      "timestamp": "2026-09-27 15:18:54"
+    },
+    "xclusiv_2026_xclusiv-2026_04_27": {
+      "pages": 7,
+      "bytes": 50749,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 28.54,
+      "timestamp": "2026-09-27 15:19:18"
+    },
+    "xclusiv_2026_xclusiv-2026_05_04": {
+      "pages": 7,
+      "bytes": 42971,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 28.08,
+      "timestamp": "2026-09-27 15:19:18"
+    },
+    "xclusiv_2026_xclusiv-2026_05_11": {
+      "pages": 7,
+      "bytes": 40865,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 27.28,
+      "timestamp": "2026-09-27 15:19:23"
+    },
+    "xclusiv_2026_xclusiv-2026_05_18": {
+      "pages": 7,
+      "bytes": 42914,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 28.78,
+      "timestamp": "2026-09-27 15:19:47"
+    },
+    "xclusiv_2026_xclusiv-2026_06_01": {
+      "pages": 7,
+      "bytes": 44005,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 26.89,
+      "timestamp": "2026-09-27 15:19:50"
+    },
+    "xclusiv_2026_xclusiv-2026_06_08": {
+      "pages": 7,
+      "bytes": 45057,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 30.24,
+      "timestamp": "2026-09-27 15:20:18"
+    },
+    "xclusiv_2026_xclusiv-2026_06_15": {
+      "pages": 7,
+      "bytes": 39441,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 32.22,
+      "timestamp": "2026-09-27 15:20:23"
+    },
+    "xclusiv_2026_xclusiv-2026_05_25_": {
+      "pages": 7,
+      "bytes": 43882,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 73.4,
+      "timestamp": "2026-09-27 15:20:32"
+    },
+    "xclusiv_2026_xclusiv-2026_06_22": {
+      "pages": 7,
+      "bytes": 42303,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 30.82,
+      "timestamp": "2026-09-27 15:20:50"
+    },
+    "xclusiv_2026_xclusiv-2026_06_29": {
+      "pages": 7,
+      "bytes": 40312,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 33.21,
+      "timestamp": "2026-09-27 15:20:57"
+    },
+    "xclusiv_2026_xclusiv-2026_07_06-1": {
+      "pages": 7,
+      "bytes": 43751,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 29.88,
+      "timestamp": "2026-09-27 15:21:03"
+    },
+    "xclusiv_2026_xclusiv-2026_07_13": {
+      "pages": 7,
+      "bytes": 39392,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 31.18,
+      "timestamp": "2026-09-27 15:21:22"
+    },
+    "xclusiv_2026_xclusiv-2026_07_20": {
+      "pages": 7,
+      "bytes": 45293,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 35.83,
+      "timestamp": "2026-09-27 15:21:34"
+    },
+    "xclusiv_2026_xclusiv-2026_07_27": {
+      "pages": 7,
+      "bytes": 46011,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 30.79,
+      "timestamp": "2026-09-27 15:21:35"
+    },
+    "xclusiv_2026_xclusiv-2026_08_17": {
+      "pages": 7,
+      "bytes": 40377,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 6.92,
+      "timestamp": "2026-09-27 15:21:43"
+    },
+    "xclusiv_2026_xclusiv-2026_08_10": {
+      "pages": 7,
+      "bytes": 36788,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 7.77,
+      "timestamp": "2026-09-27 15:21:43"
+    },
+    "xclusiv_2026_xclusiv-2026_08_31": {
+      "pages": 7,
+      "bytes": 46430,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 5.38,
+      "timestamp": "2026-09-27 15:21:50"
+    },
+    "xclusiv_2026_xclusiv-2026_08_24": {
+      "pages": 7,
+      "bytes": 43427,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 6.5,
+      "timestamp": "2026-09-27 15:21:50"
+    },
+    "xclusiv_2026_xclusiv-2026_08_03": {
+      "pages": 7,
+      "bytes": 42626,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 29.58,
+      "timestamp": "2026-09-27 15:21:52"
+    },
+    "xclusiv_2025_Weekly-Ship-Recycling-Report-05-September-12-September-2025": {
+      "pages": 4,
+      "bytes": 5263,
+      "target_pages": "0,1,2,3",
+      "elapsed_s": 18.09,
+      "timestamp": "2026-09-27 15:22:58"
+    },
+    "xclusiv_2025_xclusiv-2025_01_13": {
+      "pages": 7,
+      "bytes": 38071,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 36.37,
+      "timestamp": "2026-09-27 15:23:17"
+    },
+    "xclusiv_2025_xclusiv-2025_01_07": {
+      "pages": 7,
+      "bytes": 40415,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 39.2,
+      "timestamp": "2026-09-27 15:23:20"
+    },
+    "xclusiv_2025_xclusiv-2025_01_20": {
+      "pages": 7,
+      "bytes": 41625,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 36.08,
+      "timestamp": "2026-09-27 15:23:35"
+    },
+    "xclusiv_2025_xclusiv-2025_01_27": {
+      "pages": 7,
+      "bytes": 42699,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 29.12,
+      "timestamp": "2026-09-27 15:23:47"
+    },
+    "xclusiv_2025_xclusiv-2025_02_03": {
+      "pages": 7,
+      "bytes": 43393,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 32.11,
+      "timestamp": "2026-09-27 15:23:53"
+    },
+    "xclusiv_2025_xclusiv-2025_02_10": {
+      "pages": 7,
+      "bytes": 40984,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 31.16,
+      "timestamp": "2026-09-27 15:24:07"
+    },
+    "xclusiv_2025_xclusiv-2025_02_17": {
+      "pages": 7,
+      "bytes": 40651,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 36.48,
+      "timestamp": "2026-09-27 15:24:25"
+    },
+    "xclusiv_2025_xclusiv-2025_02_24": {
+      "pages": 7,
+      "bytes": 42661,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 31.86,
+      "timestamp": "2026-09-27 15:24:26"
+    },
+    "xclusiv_2025_xclusiv-2025_03_04": {
+      "pages": 7,
+      "bytes": 45347,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 31.72,
+      "timestamp": "2026-09-27 15:24:40"
+    },
+    "xclusiv_2025_xclusiv-2025_03_17": {
+      "pages": 7,
+      "bytes": 47175,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 27.22,
+      "timestamp": "2026-09-27 15:24:54"
+    },
+    "xclusiv_2025_xclusiv-2025_03_10": {
+      "pages": 7,
+      "bytes": 47696,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 33.16,
+      "timestamp": "2026-09-27 15:24:59"
+    },
+    "xclusiv_2025_xclusiv-2025_03_24": {
+      "pages": 7,
+      "bytes": 46259,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 27.43,
+      "timestamp": "2026-09-27 15:25:08"
+    },
+    "xclusiv_2025_xclusiv-2025_03_31": {
+      "pages": 7,
+      "bytes": 47580,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 27.15,
+      "timestamp": "2026-09-27 15:25:22"
+    },
+    "xclusiv_2025_xclusiv-2025_04_07_compressed": {
+      "pages": 7,
+      "bytes": 44741,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 32.35,
+      "timestamp": "2026-09-27 15:25:32"
+    },
+    "xclusiv_2025_xclusiv-2025_04_14": {
+      "pages": 7,
+      "bytes": 42255,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 34.64,
+      "timestamp": "2026-09-27 15:25:44"
+    },
+    "xclusiv_2025_xclusiv-2025_04_22_compressed": {
+      "pages": 7,
+      "bytes": 45031,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 30.75,
+      "timestamp": "2026-09-27 15:25:54"
+    },
+    "xclusiv_2025_xclusiv-2025_04_28_compressed": {
+      "pages": 7,
+      "bytes": 44881,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 28.0,
+      "timestamp": "2026-09-27 15:26:01"
+    },
+    "xclusiv_2025_xclusiv-2025_05_05_compressed": {
+      "pages": 7,
+      "bytes": 45870,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 34.22,
+      "timestamp": "2026-09-27 15:26:19"
+    },
+    "xclusiv_2025_xclusiv-2025_05_12": {
+      "pages": 7,
+      "bytes": 43102,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 27.43,
+      "timestamp": "2026-09-27 15:26:22"
+    },
+    "xclusiv_2025_xclusiv-2025_05_19_compressed": {
+      "pages": 7,
+      "bytes": 45108,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 30.48,
+      "timestamp": "2026-09-27 15:26:33"
+    },
+    "xclusiv_2025_xclusiv-2025_05_26_compressed": {
+      "pages": 7,
+      "bytes": 46356,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 27.67,
+      "timestamp": "2026-09-27 15:26:48"
+    },
+    "xclusiv_2025_xclusiv-2025_06_02_compressed": {
+      "pages": 7,
+      "bytes": 39121,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 27.0,
+      "timestamp": "2026-09-27 15:26:50"
+    },
+    "xclusiv_2025_xclusiv-2025_06_10-1": {
+      "pages": 7,
+      "bytes": 39037,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 27.21,
+      "timestamp": "2026-09-27 15:27:01"
+    },
+    "xclusiv_2025_xclusiv-2025_06_16": {
+      "pages": 7,
+      "bytes": 44579,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 28.05,
+      "timestamp": "2026-09-27 15:27:17"
+    },
+    "xclusiv_2025_xclusiv-2025_06_23": {
+      "pages": 7,
+      "bytes": 39980,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 27.28,
+      "timestamp": "2026-09-27 15:27:18"
+    },
+    "xclusiv_2025_xclusiv-2025_06_30": {
+      "pages": 7,
+      "bytes": 43026,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 30.03,
+      "timestamp": "2026-09-27 15:27:32"
+    },
+    "xclusiv_2025_xclusiv-2025_07_07": {
+      "pages": 7,
+      "bytes": 39509,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 22.4,
+      "timestamp": "2026-09-27 15:27:40"
+    },
+    "xclusiv_2025_xclusiv-2025_07_14": {
+      "pages": 7,
+      "bytes": 43604,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 26.25,
+      "timestamp": "2026-09-27 15:27:46"
+    },
+    "xclusiv_2025_xclusiv-2025_07_21": {
+      "pages": 7,
+      "bytes": 37553,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 24.13,
+      "timestamp": "2026-09-27 15:27:57"
+    },
+    "xclusiv_2025_xclusiv-2025_07_28": {
+      "pages": 7,
+      "bytes": 39357,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 26.92,
+      "timestamp": "2026-09-27 15:28:08"
+    },
+    "xclusiv_2025_xclusiv-2025_08_04": {
+      "pages": 7,
+      "bytes": 34062,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 27.11,
+      "timestamp": "2026-09-27 15:28:14"
+    },
+    "xclusiv_2025_xclusiv-2025_08_11": {
+      "pages": 7,
+      "bytes": 37512,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 21.59,
+      "timestamp": "2026-09-27 15:28:19"
+    },
+    "xclusiv_2025_xclusiv-2025_08_18": {
+      "pages": 7,
+      "bytes": 40653,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 29.21,
+      "timestamp": "2026-09-27 15:28:38"
+    },
+    "xclusiv_2025_xclusiv-2025_08_25": {
+      "pages": 7,
+      "bytes": 35625,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 28.31,
+      "timestamp": "2026-09-27 15:28:44"
+    },
+    "xclusiv_2025_xclusiv-2025_09_01": {
+      "pages": 7,
+      "bytes": 41238,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 29.09,
+      "timestamp": "2026-09-27 15:28:51"
+    },
+    "xclusiv_2025_xclusiv-2025_09_08": {
+      "pages": 7,
+      "bytes": 45457,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 34.64,
+      "timestamp": "2026-09-27 15:29:14"
+    },
+    "xclusiv_2025_xclusiv-2025_09_22": {
+      "pages": 7,
+      "bytes": 47676,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 36.12,
+      "timestamp": "2026-09-27 15:29:21"
+    },
+    "xclusiv_2025_xclusiv-2025_09_29": {
+      "pages": 7,
+      "bytes": 43851,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 33.99,
+      "timestamp": "2026-09-27 15:29:25"
+    },
+    "xclusiv_2025_xclusiv-2025_10_06": {
+      "pages": 7,
+      "bytes": 42038,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 22.21,
+      "timestamp": "2026-09-27 15:29:37"
+    },
+    "xclusiv_2025_xclusiv-2025_10_13": {
+      "pages": 7,
+      "bytes": 44901,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 34.43,
+      "timestamp": "2026-09-27 15:29:56"
+    },
+    "xclusiv_2025_xclusiv-2025_10_20": {
+      "pages": 7,
+      "bytes": 39706,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 35.29,
+      "timestamp": "2026-09-27 15:30:02"
+    },
+    "xclusiv_2025_xclusiv-2025_10_27": {
+      "pages": 7,
+      "bytes": 42145,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 26.78,
+      "timestamp": "2026-09-27 15:30:04"
+    },
+    "xclusiv_2025_xclusiv-2025_11_03": {
+      "pages": 7,
+      "bytes": 38613,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 28.31,
+      "timestamp": "2026-09-27 15:30:26"
+    },
+    "xclusiv_2025_xclusiv-2025_11_10": {
+      "pages": 7,
+      "bytes": 47963,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 26.18,
+      "timestamp": "2026-09-27 15:30:30"
+    },
+    "xclusiv_2025_xclusiv-2025_11_17-1": {
+      "pages": 7,
+      "bytes": 40206,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 26.83,
+      "timestamp": "2026-09-27 15:30:33"
+    },
+    "xclusiv_2025_xclusiv-2025_11_24": {
+      "pages": 7,
+      "bytes": 48124,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 28.05,
+      "timestamp": "2026-09-27 15:30:54"
+    },
+    "xclusiv_2025_xclusiv-2025_12_01": {
+      "pages": 7,
+      "bytes": 45938,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 29.13,
+      "timestamp": "2026-09-27 15:31:02"
+    },
+    "xclusiv_2025_xclusiv-2025_12_08": {
+      "pages": 7,
+      "bytes": 39473,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 26.87,
+      "timestamp": "2026-09-27 15:31:02"
+    },
+    "xclusiv_2025_xclusiv-2025_12_15": {
+      "pages": 7,
+      "bytes": 41229,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 26.83,
+      "timestamp": "2026-09-27 15:31:22"
+    },
+    "xclusiv_2025_xclusiv-2025_12_22": {
+      "pages": 7,
+      "bytes": 37663,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 26.82,
+      "timestamp": "2026-09-27 15:31:29"
+    },
+    "xclusiv_2024_xclusiv-2024_01_22": {
+      "pages": 7,
+      "bytes": 39866,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 28.63,
+      "timestamp": "2026-09-27 15:32:31"
+    },
+    "xclusiv_2024_xclusiv-2024_01_15": {
+      "pages": 7,
+      "bytes": 46152,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 29.34,
+      "timestamp": "2026-09-27 15:32:31"
+    },
+    "xclusiv_2024_xclusiv-2024_01_08": {
+      "pages": 7,
+      "bytes": 44378,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 29.24,
+      "timestamp": "2026-09-27 15:32:31"
+    },
+    "xclusiv_2024_xclusiv-2024_02_12": {
+      "pages": 7,
+      "bytes": 46906,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 27.54,
+      "timestamp": "2026-09-27 15:33:00"
+    },
+    "xclusiv_2024_xclusiv-2024_02_05": {
+      "pages": 7,
+      "bytes": 46695,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 28.62,
+      "timestamp": "2026-09-27 15:33:01"
+    },
+    "xclusiv_2024_xclusiv-2024_01_29": {
+      "pages": 7,
+      "bytes": 43119,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 29.58,
+      "timestamp": "2026-09-27 15:33:02"
+    },
+    "xclusiv_2024_xclusiv-2024_02_19": {
+      "pages": 7,
+      "bytes": 43364,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 28.76,
+      "timestamp": "2026-09-27 15:33:29"
+    },
+    "xclusiv_2024_xclusiv-2024_03_04": {
+      "pages": 7,
+      "bytes": 40498,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 28.01,
+      "timestamp": "2026-09-27 15:33:31"
+    },
+    "xclusiv_2024_xclusiv-2024_02_26": {
+      "pages": 7,
+      "bytes": 44512,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 29.53,
+      "timestamp": "2026-09-27 15:33:32"
+    },
+    "xclusiv_2024_xclusiv-2024_03_11": {
+      "pages": 7,
+      "bytes": 46881,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 27.17,
+      "timestamp": "2026-09-27 15:33:58"
+    },
+    "xclusiv_2024_xclusiv-2024_03_19": {
+      "pages": 7,
+      "bytes": 39971,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 26.52,
+      "timestamp": "2026-09-27 15:33:58"
+    },
+    "xclusiv_2024_xclusiv-2024_03_26": {
+      "pages": 7,
+      "bytes": 44101,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 27.38,
+      "timestamp": "2026-09-27 15:34:00"
+    },
+    "xclusiv_2024_xclusiv-2024_04_15": {
+      "pages": 7,
+      "bytes": 40334,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 28.98,
+      "timestamp": "2026-09-27 15:34:30"
+    },
+    "xclusiv_2024_xclusiv-2024_04_08": {
+      "pages": 7,
+      "bytes": 47117,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 31.49,
+      "timestamp": "2026-09-27 15:34:32"
+    },
+    "xclusiv_2024_xclusiv-2024_04_01": {
+      "pages": 7,
+      "bytes": 42407,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 31.87,
+      "timestamp": "2026-09-27 15:34:32"
+    },
+    "xclusiv_2024_xclusiv-2024_04_22": {
+      "pages": 7,
+      "bytes": 44257,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 29.17,
+      "timestamp": "2026-09-27 15:35:04"
+    },
+    "xclusiv_2024_xclusiv-2024_05_08": {
+      "pages": 7,
+      "bytes": 39605,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 29.01,
+      "timestamp": "2026-09-27 15:35:04"
+    },
+    "xclusiv_2024_xclusiv-2024_04_29": {
+      "pages": 7,
+      "bytes": 44862,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 29.44,
+      "timestamp": "2026-09-27 15:35:04"
+    },
+    "xclusiv_2024_xclusiv-2024_05_27": {
+      "pages": 7,
+      "bytes": 37629,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 27.38,
+      "timestamp": "2026-09-27 15:35:33"
+    },
+    "xclusiv_2024_xclusiv-2024_05_13": {
+      "pages": 7,
+      "bytes": 40103,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 29.55,
+      "timestamp": "2026-09-27 15:35:35"
+    },
+    "xclusiv_2024_xclusiv-2024_05_20": {
+      "pages": 7,
+      "bytes": 42996,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 33.89,
+      "timestamp": "2026-09-27 15:35:39"
+    },
+    "xclusiv_2024_xclusiv-2024_06_03": {
+      "pages": 7,
+      "bytes": 32579,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 28.3,
+      "timestamp": "2026-09-27 15:36:02"
+    },
+    "xclusiv_2024_xclusiv-2024_06_10": {
+      "pages": 7,
+      "bytes": 41611,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 27.24,
+      "timestamp": "2026-09-27 15:36:03"
+    },
+    "xclusiv_2024_xclusiv-2024_06_17": {
+      "pages": 7,
+      "bytes": 45360,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 42.72,
+      "timestamp": "2026-09-27 15:36:23"
+    },
+    "xclusiv_2024_xclusiv-2024_07_01": {
+      "pages": 7,
+      "bytes": 41622,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 27.42,
+      "timestamp": "2026-09-27 15:36:31"
+    },
+    "xclusiv_2024_xclusiv-2024_06_25": {
+      "pages": 7,
+      "bytes": 39008,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 32.66,
+      "timestamp": "2026-09-27 15:36:36"
+    },
+    "xclusiv_2024_xclusiv-2024_07_08": {
+      "pages": 7,
+      "bytes": 40298,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 27.26,
+      "timestamp": "2026-09-27 15:36:51"
+    },
+    "xclusiv_2024_xclusiv-2024_07_15": {
+      "pages": 7,
+      "bytes": 37144,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 27.32,
+      "timestamp": "2026-09-27 15:36:59"
+    },
+    "xclusiv_2024_xclusiv-2024_07_22": {
+      "pages": 7,
+      "bytes": 51495,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 27.97,
+      "timestamp": "2026-09-27 15:37:05"
+    },
+    "xclusiv_2024_xclusiv-2024_07_29": {
+      "pages": 7,
+      "bytes": 40543,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 29.35,
+      "timestamp": "2026-09-27 15:37:21"
+    },
+    "xclusiv_2024_xclusiv-2024_08_05": {
+      "pages": 7,
+      "bytes": 36764,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 25.45,
+      "timestamp": "2026-09-27 15:37:26"
+    },
+    "xclusiv_2024_xclusiv-2024_08_12": {
+      "pages": 7,
+      "bytes": 37461,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 27.47,
+      "timestamp": "2026-09-27 15:37:33"
+    },
+    "xclusiv_2024_xclusiv-2024_08_26": {
+      "pages": 7,
+      "bytes": 41282,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 27.79,
+      "timestamp": "2026-09-27 15:37:54"
+    },
+    "xclusiv_2024_xclusiv-2024_08_19": {
+      "pages": 7,
+      "bytes": 42048,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 34.63,
+      "timestamp": "2026-09-27 15:37:57"
+    },
+    "xclusiv_2024_xclusiv-2024_09_02": {
+      "pages": 7,
+      "bytes": 40523,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 26.61,
+      "timestamp": "2026-09-27 15:38:01"
+    },
+    "xclusiv_2024_xclusiv-2024_09_09": {
+      "pages": 7,
+      "bytes": 42035,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 27.85,
+      "timestamp": "2026-09-27 15:38:23"
+    },
+    "xclusiv_2024_xclusiv-2024_09_16": {
+      "pages": 7,
+      "bytes": 39178,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 33.47,
+      "timestamp": "2026-09-27 15:38:32"
+    },
+    "xclusiv_2024_xclusiv-2024_09_23": {
+      "pages": 7,
+      "bytes": 43907,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 32.88,
+      "timestamp": "2026-09-27 15:38:35"
+    },
+    "xclusiv_2024_xclusiv-2024_09_30": {
+      "pages": 7,
+      "bytes": 39382,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 29.16,
+      "timestamp": "2026-09-27 15:38:54"
+    },
+    "xclusiv_2024_xclusiv-2024_10_07": {
+      "pages": 7,
+      "bytes": 41330,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 21.71,
+      "timestamp": "2026-09-27 15:38:54"
+    },
+    "xclusiv_2024_xclusiv-2024_10_14": {
+      "pages": 7,
+      "bytes": 37067,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 27.02,
+      "timestamp": "2026-09-27 15:39:03"
+    },
+    "xclusiv_2024_xclusiv-2024_10_29": {
+      "pages": 7,
+      "bytes": 46016,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 28.18,
+      "timestamp": "2026-09-27 15:39:23"
+    },
+    "xclusiv_2024_xclusiv-2024_11_04": {
+      "pages": 7,
+      "bytes": 42323,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 28.0,
+      "timestamp": "2026-09-27 15:39:32"
+    },
+    "xclusiv_2024_xclusiv-2024_11_11": {
+      "pages": 7,
+      "bytes": 39388,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 27.73,
+      "timestamp": "2026-09-27 15:39:52"
+    },
+    "xclusiv_2024_xclusiv-2024_11_18": {
+      "pages": 7,
+      "bytes": 43398,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 21.8,
+      "timestamp": "2026-09-27 15:39:54"
+    },
+    "xclusiv_2024_xclusiv-2024_11_25": {
+      "pages": 7,
+      "bytes": 45275,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 27.12,
+      "timestamp": "2026-09-27 15:40:20"
+    },
+    "xclusiv_2024_xclusiv-2024_10_21": {
+      "pages": 7,
+      "bytes": 44056,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 90.94,
+      "timestamp": "2026-09-27 15:40:27"
+    },
+    "xclusiv_2024_xclusiv-2024_12_02-1": {
+      "pages": 7,
+      "bytes": 43296,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 33.54,
+      "timestamp": "2026-09-27 15:40:30"
+    },
+    "xclusiv_2024_xclusiv-2024_12_09": {
+      "pages": 7,
+      "bytes": 38269,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 28.51,
+      "timestamp": "2026-09-27 15:40:51"
+    },
+    "xclusiv_2024_xclusiv-2024_12_23": {
+      "pages": 7,
+      "bytes": 44507,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 22.31,
+      "timestamp": "2026-09-27 15:40:55"
+    },
+    "xclusiv_2024_xclusiv-2024_12_16_compressed": {
+      "pages": 7,
+      "bytes": 38410,
+      "target_pages": "0,1,2,3,4,5,6",
+      "elapsed_s": 34.35,
+      "timestamp": "2026-09-27 15:41:03"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_01_16": {
+      "pages": 5,
+      "bytes": 44382,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 29.88,
+      "timestamp": "2026-09-27 15:42:14"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_01_23": {
+      "pages": 5,
+      "bytes": 46124,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 30.64,
+      "timestamp": "2026-09-27 15:42:15"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_01_30": {
+      "pages": 5,
+      "bytes": 41391,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 32.77,
+      "timestamp": "2026-09-27 15:42:16"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_02_20": {
+      "pages": 5,
+      "bytes": 47009,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 27.46,
+      "timestamp": "2026-09-27 15:42:46"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_02_06": {
+      "pages": 5,
+      "bytes": 46393,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 30.34,
+      "timestamp": "2026-09-27 15:42:50"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_02_13": {
+      "pages": 5,
+      "bytes": 39513,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 30.82,
+      "timestamp": "2026-09-27 15:42:50"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_02_28": {
+      "pages": 5,
+      "bytes": 47969,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 31.2,
+      "timestamp": "2026-09-27 15:43:23"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_03_06": {
+      "pages": 5,
+      "bytes": 45276,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 28.44,
+      "timestamp": "2026-09-27 15:43:25"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_03_13": {
+      "pages": 5,
+      "bytes": 48747,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 28.83,
+      "timestamp": "2026-09-27 15:43:25"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_04_03": {
+      "pages": 5,
+      "bytes": 48351,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 28.63,
+      "timestamp": "2026-09-27 15:43:59"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_03_27": {
+      "pages": 5,
+      "bytes": 52528,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 28.66,
+      "timestamp": "2026-09-27 15:44:00"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_03_20": {
+      "pages": 5,
+      "bytes": 49746,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 31.57,
+      "timestamp": "2026-09-27 15:44:00"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_04_10": {
+      "pages": 5,
+      "bytes": 43100,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 23.88,
+      "timestamp": "2026-09-27 15:44:25"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_04_24": {
+      "pages": 5,
+      "bytes": 42320,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 27.86,
+      "timestamp": "2026-09-27 15:44:31"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_04_18": {
+      "pages": 5,
+      "bytes": 43102,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 29.37,
+      "timestamp": "2026-09-27 15:44:33"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_05_15": {
+      "pages": 5,
+      "bytes": 49021,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 30.33,
+      "timestamp": "2026-09-27 15:44:58"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_05_2": {
+      "pages": 5,
+      "bytes": 43961,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 28.27,
+      "timestamp": "2026-09-27 15:45:02"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_05_22": {
+      "pages": 5,
+      "bytes": 41905,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 29.99,
+      "timestamp": "2026-09-27 15:45:04"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_05_29": {
+      "pages": 5,
+      "bytes": 42100,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 29.16,
+      "timestamp": "2026-09-27 15:45:28"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_05_8": {
+      "pages": 5,
+      "bytes": 48143,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 29.04,
+      "timestamp": "2026-09-27 15:45:32"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_06_06": {
+      "pages": 5,
+      "bytes": 40847,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 29.02,
+      "timestamp": "2026-09-27 15:45:34"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_06_19": {
+      "pages": 5,
+      "bytes": 43260,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 28.2,
+      "timestamp": "2026-09-27 15:46:02"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_06_12": {
+      "pages": 5,
+      "bytes": 42938,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 34.44,
+      "timestamp": "2026-09-27 15:46:04"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_06_26": {
+      "pages": 5,
+      "bytes": 44741,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 35.29,
+      "timestamp": "2026-09-27 15:46:11"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_07_03": {
+      "pages": 5,
+      "bytes": 41064,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 22.63,
+      "timestamp": "2026-09-27 15:46:25"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_07_17": {
+      "pages": 5,
+      "bytes": 49784,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 34.85,
+      "timestamp": "2026-09-27 15:46:47"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_07_10": {
+      "pages": 5,
+      "bytes": 49412,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 42.96,
+      "timestamp": "2026-09-27 15:46:48"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_07_24": {
+      "pages": 5,
+      "bytes": 42682,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 23.36,
+      "timestamp": "2026-09-27 15:46:50"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_08_07": {
+      "pages": 5,
+      "bytes": 46895,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 31.0,
+      "timestamp": "2026-09-27 15:47:22"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_07_31": {
+      "pages": 5,
+      "bytes": 46949,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 36.67,
+      "timestamp": "2026-09-27 15:47:27"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_08_14": {
+      "pages": 5,
+      "bytes": 52528,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 34.7,
+      "timestamp": "2026-09-27 15:47:29"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_09_04": {
+      "pages": 5,
+      "bytes": 42367,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 32.41,
+      "timestamp": "2026-09-27 15:48:03"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_08_21": {
+      "pages": 5,
+      "bytes": 46238,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 41.72,
+      "timestamp": "2026-09-27 15:48:06"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_08_28": {
+      "pages": 5,
+      "bytes": 48764,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 36.96,
+      "timestamp": "2026-09-27 15:48:06"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_09_18": {
+      "pages": 5,
+      "bytes": 48487,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 32.83,
+      "timestamp": "2026-09-27 15:48:41"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_09_11": {
+      "pages": 5,
+      "bytes": 50274,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 35.78,
+      "timestamp": "2026-09-27 15:48:42"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_09_25": {
+      "pages": 5,
+      "bytes": 46523,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 34.5,
+      "timestamp": "2026-09-27 15:48:43"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_10_23": {
+      "pages": 5,
+      "bytes": 48542,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 27.21,
+      "timestamp": "2026-09-27 15:49:14"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_10_16": {
+      "pages": 5,
+      "bytes": 56784,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 28.83,
+      "timestamp": "2026-09-27 15:49:16"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_10_02": {
+      "pages": 5,
+      "bytes": 57720,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 29.86,
+      "timestamp": "2026-09-27 15:49:16"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_11_13": {
+      "pages": 5,
+      "bytes": 49707,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 28.36,
+      "timestamp": "2026-09-27 15:49:46"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_10_30": {
+      "pages": 5,
+      "bytes": 50349,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 35.41,
+      "timestamp": "2026-09-27 15:49:52"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_11_06": {
+      "pages": 5,
+      "bytes": 52118,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 34.94,
+      "timestamp": "2026-09-27 15:49:53"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_11_20": {
+      "pages": 5,
+      "bytes": 45026,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 29.02,
+      "timestamp": "2026-09-27 15:50:17"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_11_27": {
+      "pages": 5,
+      "bytes": 48711,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 27.9,
+      "timestamp": "2026-09-27 15:50:23"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_12_04": {
+      "pages": 5,
+      "bytes": 41733,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 27.75,
+      "timestamp": "2026-09-27 15:50:23"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_12_11": {
+      "pages": 5,
+      "bytes": 50922,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 27.22,
+      "timestamp": "2026-09-27 15:50:46"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_12_18": {
+      "pages": 5,
+      "bytes": 48137,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 27.38,
+      "timestamp": "2026-09-27 15:50:53"
+    },
+    "xclusiv_2023_xclusiv_weekly_2023_12_27": {
+      "pages": 5,
+      "bytes": 44083,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 28.48,
+      "timestamp": "2026-09-27 15:50:54"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_01_10-1": {
+      "pages": 5,
+      "bytes": 37055,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 27.9,
+      "timestamp": "2026-09-27 15:51:52"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_01_17": {
+      "pages": 5,
+      "bytes": 40714,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 28.47,
+      "timestamp": "2026-09-27 15:51:53"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_01_24": {
+      "pages": 5,
+      "bytes": 47594,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 29.3,
+      "timestamp": "2026-09-27 15:51:53"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_02_07": {
+      "pages": 5,
+      "bytes": 41808,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 26.1,
+      "timestamp": "2026-09-27 15:52:20"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_01_31": {
+      "pages": 5,
+      "bytes": 44915,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 27.4,
+      "timestamp": "2026-09-27 15:52:21"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_02_14": {
+      "pages": 5,
+      "bytes": 36596,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 26.28,
+      "timestamp": "2026-09-27 15:52:21"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_02_28": {
+      "pages": 5,
+      "bytes": 40499,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 26.48,
+      "timestamp": "2026-09-27 15:52:48"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_02_21": {
+      "pages": 5,
+      "bytes": 46296,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 28.19,
+      "timestamp": "2026-09-27 15:52:49"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_03_14": {
+      "pages": 5,
+      "bytes": 39494,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 31.78,
+      "timestamp": "2026-09-27 15:52:53"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_03_28": {
+      "pages": 5,
+      "bytes": 39561,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 27.32,
+      "timestamp": "2026-09-27 15:53:19"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_03_21-1": {
+      "pages": 5,
+      "bytes": 40860,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 28.88,
+      "timestamp": "2026-09-27 15:53:20"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_03_8": {
+      "pages": 5,
+      "bytes": 44767,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 27.64,
+      "timestamp": "2026-09-27 15:53:23"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_04_11": {
+      "pages": 5,
+      "bytes": 41279,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 27.09,
+      "timestamp": "2026-09-27 15:53:49"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_04_04": {
+      "pages": 5,
+      "bytes": 49147,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 27.68,
+      "timestamp": "2026-09-27 15:53:49"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_04_18": {
+      "pages": 5,
+      "bytes": 42476,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 27.67,
+      "timestamp": "2026-09-27 15:53:52"
+    },
+    "xclusiv_2022_xclusiv_weekly_2022_04_26": {
+      "pages": 5,
+      "bytes": 46218,
+      "target_pages": "0,1,2,3,4",
+      "elapsed_s": 23.38,
+      "timestamp": "2026-09-27 15:54:14"
+    }
+  },
+  "failed": {},
+  "pages_parsed": 2614,
+  "credits_estimated": 7842,
+  "credits_initial": 10000,
+  "credits_remaining_est": 2158,
+  "tier": "cost_effective",
+  "credit_limit_reached": true,
+  "account": 2,
+  "account_2_key_prefix": "llx-hM8tERqf...",
+  "credits_estimated_account_2": 0
+}

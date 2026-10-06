@@ -515,9 +515,9 @@ def main():
             md_fn = f"{e['date']}_{e['slug']}.md"
             year_s = str(e.get("year", e["date"][:4]))
             md_p = os.path.join(SEABROKERS_REPORTS_DIR, year_s, md_fn)
-            md_p_data = os.path.join(DATA_SEABROKERS_DIR, md_fn)
-            if (not os.path.exists(pdf_p) or not os.path.exists(md_p)
-                    or not os.path.exists(md_p_data) or os.path.getsize(pdf_p) < 1000):
+            ext_md_p = os.path.join(DATA_DIR, "extracted", "md", "seabrokers", year_s, f"seabrokers_{md_fn}")
+            has_md = (os.path.exists(md_p) and os.path.getsize(md_p) > 200) or (os.path.exists(ext_md_p) and os.path.getsize(ext_md_p) > 200)
+            if not has_md and (not os.path.exists(pdf_p) or os.path.getsize(pdf_p) < 1000):
                 unprocessed.append(e)
 
         if unprocessed:

@@ -1,0 +1,27 @@
+---
+id: "A60B7CB5-5BA9-4149-AC05-5FD6F5CD5C9B"
+source: "Fearnleys"
+sector: "Tanker Route Trends"
+desk: "CROSS MED"
+comment_type: "CROSS MED"
+comment_subtype: "trend"
+date: "2019-04-17"
+year: 2019
+week: 16
+title: "Fearnleys CROSS MED Comment - 2019-04-17"
+---
+
+# Fearnleys CROSS MED Comment (2019-04-17)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Sector:** Tanker Route Trends
+- **Desk:** CROSS MED
+- **Publication Date:** 2019-04-17 (Week 16)
+- **Comment Type:** CROSS MED
+- **Record ID:** `A60B7CB5-5BA9-4149-AC05-5FD6F5CD5C9B`
+
+---
+
+## Market Commentary
+
+Steady

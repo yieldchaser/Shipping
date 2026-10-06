@@ -1,0 +1,52 @@
+{
+  "issue_date": "2013-09-26",
+  "year": 2013,
+  "title": "Jones Act - Still the king of rates in 2016? In today's market Jones Act tankers command a significant premium as few ships",
+  "source_file": "corpus/04-poten/pdfs/2013/Tanker_Opinion_20130926.pdf",
+  "tables_count": 0,
+  "charts_count": 4,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2013-09-26_jones-act-still-the-king-of-rates-in-2016-in-todays-market_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2013/poten_2013-09-26_jones-act-still-the-king-of-rates-in-2016-in-todays-market_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-09-26_jones-act-still-the-king-of-rates-in-2016-in-todays-market_chart1.png",
+      "width": 425,
+      "height": 1591
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2013-09-26_jones-act-still-the-king-of-rates-in-2016-in-todays-market_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2013/poten_2013-09-26_jones-act-still-the-king-of-rates-in-2016-in-todays-market_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-09-26_jones-act-still-the-king-of-rates-in-2016-in-todays-market_chart2.png",
+      "width": 424,
+      "height": 1048
+    },
+    {
+      "chart_num": 3,
+      "page": 1,
+      "file_name": "poten_2013-09-26_jones-act-still-the-king-of-rates-in-2016-in-todays-market_chart3.png",
+      "rel_path": "data/extracted/charts/poten/2013/poten_2013-09-26_jones-act-still-the-king-of-rates-in-2016-in-todays-market_chart3.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-09-26_jones-act-still-the-king-of-rates-in-2016-in-todays-market_chart3.png",
+      "width": 425,
+      "height": 1978
+    },
+    {
+      "chart_num": 4,
+      "page": 1,
+      "file_name": "poten_2013-09-26_jones-act-still-the-king-of-rates-in-2016-in-todays-market_chart4.png",
+      "rel_path": "data/extracted/charts/poten/2013/poten_2013-09-26_jones-act-still-the-king-of-rates-in-2016-in-todays-market_chart4.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-09-26_jones-act-still-the-king-of-rates-in-2016-in-todays-market_chart4.png",
+      "width": 425,
+      "height": 475
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

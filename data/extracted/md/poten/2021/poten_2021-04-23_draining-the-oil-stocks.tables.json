@@ -1,0 +1,34 @@
+{
+  "issue_date": "2021-04-23",
+  "year": 2021,
+  "title": "Draining The Oil Stocks",
+  "source_file": "corpus/04-poten/pdfs/2021/Weekly-Opinion-23-April-2021-Draining-The-Oil-Stocks.pdf",
+  "tables_count": 0,
+  "charts_count": 2,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2021-04-23_draining-the-oil-stocks_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2021/poten_2021-04-23_draining-the-oil-stocks_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-04-23_draining-the-oil-stocks_chart1.png",
+      "width": 943,
+      "height": 525
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2021-04-23_draining-the-oil-stocks_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2021/poten_2021-04-23_draining-the-oil-stocks_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-04-23_draining-the-oil-stocks_chart2.png",
+      "width": 930,
+      "height": 524
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

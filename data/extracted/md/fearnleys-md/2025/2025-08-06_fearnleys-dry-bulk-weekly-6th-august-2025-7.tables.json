@@ -1,0 +1,27 @@
+{
+  "report_id": "70d214e7-0145-4f0d-95c1-61c470d47627",
+  "issue_date": "2025-08-06",
+  "year": 2025,
+  "department": "BULK",
+  "report_title": "Fearnleys Dry Bulk Weekly",
+  "shipment_volume_metrics": [],
+  "coal_futures_spread_metrics": [],
+  "time_charter_vs_asset_metrics": [],
+  "vessel_tightness_metrics": [],
+  "macro_correlation_metrics": [
+    {
+      "issue_date": "2025-08-06",
+      "year": "2025",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "macro_metric": "Steel Mill Profitability vs Hot Metal Output",
+      "freight_benchmark_val": 58.9,
+      "macro_indicator_val": 2.45,
+      "lead_tenor": "7 Weeks Lead",
+      "chart_title": "STEEL MILL PROFITABILITY VS HOT METAL OUTPUT.png",
+      "report_id": "70d214e7-0145-4f0d-95c1-61c470d47627"
+    }
+  ],
+  "charts_count": 12,
+  "source_markdown": "2025-08-06_fearnleys-dry-bulk-weekly-6th-august-2025-7.md"
+}

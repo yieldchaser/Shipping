@@ -1,0 +1,34 @@
+{
+  "issue_date": "2016-08-19",
+  "year": 2016,
+  "title": "That Sinking Feeling ...",
+  "source_file": "corpus/04-poten/pdfs/2016/Weekly-Opinion-19-August-2016-That-Sinking-Feeling-....pdf",
+  "tables_count": 0,
+  "charts_count": 2,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2016-08-19_that-sinking-feeling_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2016/poten_2016-08-19_that-sinking-feeling_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-08-19_that-sinking-feeling_chart1.png",
+      "width": 923,
+      "height": 595
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2016-08-19_that-sinking-feeling_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2016/poten_2016-08-19_that-sinking-feeling_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-08-19_that-sinking-feeling_chart2.png",
+      "width": 913,
+      "height": 659
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

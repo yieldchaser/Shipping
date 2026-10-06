@@ -1,0 +1,287 @@
+{
+  "vessel_class": "Capesize",
+  "sector": "Dry Bulk",
+  "source_file": "Drewry_AIS_Drybulk_Capesize_Week37_2026.pdf",
+  "metrics_summary": {
+    "vessel_class": "Capesize",
+    "sector": "Dry Bulk",
+    "source_file": "Drewry_AIS_Drybulk_Capesize_Week37_2026.pdf",
+    "fleet_performance_points": 1470,
+    "regional_congestion_points": 846,
+    "deployment_speed_points": 267,
+    "utilisation_points": 88,
+    "total_points": 2671
+  },
+  "sample_fleet_performance": [
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Capesize",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 1,
+      "date": "2022-01-05",
+      "value_mdwt": 204.27,
+      "source_file": "Drewry_AIS_Drybulk_Capesize_Week37_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Capesize",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 2,
+      "date": "2022-01-12",
+      "value_mdwt": 209.02,
+      "source_file": "Drewry_AIS_Drybulk_Capesize_Week37_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Capesize",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 3,
+      "date": "2022-01-19",
+      "value_mdwt": 208.84,
+      "source_file": "Drewry_AIS_Drybulk_Capesize_Week37_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Capesize",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 4,
+      "date": "2022-01-26",
+      "value_mdwt": 206.35,
+      "source_file": "Drewry_AIS_Drybulk_Capesize_Week37_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Capesize",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 5,
+      "date": "2022-02-02",
+      "value_mdwt": 203.35,
+      "source_file": "Drewry_AIS_Drybulk_Capesize_Week37_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Capesize",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 6,
+      "date": "2022-02-09",
+      "value_mdwt": 205.04,
+      "source_file": "Drewry_AIS_Drybulk_Capesize_Week37_2026.pdf"
+    }
+  ],
+  "sample_regional_congestion": [
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Capesize",
+      "region": "East",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 1,
+      "date": "2024-01-03",
+      "value_mdwt": 24.6,
+      "source_file": "Drewry_AIS_Drybulk_Capesize_Week37_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Capesize",
+      "region": "East",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 2,
+      "date": "2024-01-10",
+      "value_mdwt": 24.75,
+      "source_file": "Drewry_AIS_Drybulk_Capesize_Week37_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Capesize",
+      "region": "East",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 3,
+      "date": "2024-01-17",
+      "value_mdwt": 28.52,
+      "source_file": "Drewry_AIS_Drybulk_Capesize_Week37_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Capesize",
+      "region": "East",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 4,
+      "date": "2024-01-24",
+      "value_mdwt": 27.57,
+      "source_file": "Drewry_AIS_Drybulk_Capesize_Week37_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Capesize",
+      "region": "East",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 5,
+      "date": "2024-01-31",
+      "value_mdwt": 27.6,
+      "source_file": "Drewry_AIS_Drybulk_Capesize_Week37_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Capesize",
+      "region": "East",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 6,
+      "date": "2024-02-07",
+      "value_mdwt": 30.81,
+      "source_file": "Drewry_AIS_Drybulk_Capesize_Week37_2026.pdf"
+    }
+  ],
+  "sample_deployment_speed": [
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Capesize",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 1,
+      "date": "2025-01-01",
+      "value": 99.94,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Drybulk_Capesize_Week37_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Capesize",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 2,
+      "date": "2025-01-08",
+      "value": 96.81,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Drybulk_Capesize_Week37_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Capesize",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 3,
+      "date": "2025-01-15",
+      "value": 93.52,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Drybulk_Capesize_Week37_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Capesize",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 4,
+      "date": "2025-01-22",
+      "value": 85.75,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Drybulk_Capesize_Week37_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Capesize",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 5,
+      "date": "2025-01-29",
+      "value": 86.74,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Drybulk_Capesize_Week37_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Capesize",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 6,
+      "date": "2025-02-05",
+      "value": 86.22,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Drybulk_Capesize_Week37_2026.pdf"
+    }
+  ],
+  "sample_utilisation": [
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Capesize",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 1,
+      "date": "2025-01-01",
+      "value_pct": 93.17,
+      "source_file": "Drewry_AIS_Drybulk_Capesize_Week37_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Capesize",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 2,
+      "date": "2025-01-08",
+      "value_pct": 93.36,
+      "source_file": "Drewry_AIS_Drybulk_Capesize_Week37_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Capesize",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 3,
+      "date": "2025-01-15",
+      "value_pct": 93.51,
+      "source_file": "Drewry_AIS_Drybulk_Capesize_Week37_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Capesize",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 4,
+      "date": "2025-01-22",
+      "value_pct": 93.7,
+      "source_file": "Drewry_AIS_Drybulk_Capesize_Week37_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Capesize",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 5,
+      "date": "2025-01-29",
+      "value_pct": 92.21,
+      "source_file": "Drewry_AIS_Drybulk_Capesize_Week37_2026.pdf"
+    },
+    {
+      "sector": "Dry Bulk",
+      "vessel_class": "Capesize",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 6,
+      "date": "2025-02-05",
+      "value_pct": 92.27,
+      "source_file": "Drewry_AIS_Drybulk_Capesize_Week37_2026.pdf"
+    }
+  ]
+}

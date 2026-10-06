@@ -470,15 +470,29 @@ def run_batch():
         if (idx + 1) % 50 == 0 or (idx + 1) == len(all_files):
             print(f"Processed {idx + 1}/{len(all_files)} reports...")
 
-    # Write series CSV
+    # Write series CSV (Non-Destructive Upsert)
     series_path = "data/extracted/series/breakwave_fundamentals_series.csv"
-    with open(series_path, "w", encoding="utf-8", newline="") as sf:
-        fieldnames = ["issue_date", "sector", "category", "metric", "ytd_value", "yoy_change", "source_file"]
-        writer = csv.DictWriter(sf, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(series_rows)
+    fieldnames = ["issue_date", "sector", "category", "metric", "ytd_value", "yoy_change", "source_file"]
+    existing_map = {}
+    if os.path.exists(series_path) and os.path.getsize(series_path) > 0:
+        try:
+            with open(series_path, "r", encoding="utf-8", errors="replace") as rf:
+                for row in csv.DictReader(rf):
+                    k = (row.get("issue_date", ""), row.get("sector", ""), row.get("category", ""), row.get("metric", ""), row.get("source_file", ""))
+                    existing_map[k] = row
+        except Exception:
+            pass
+    for row in series_rows:
+        k = (str(row.get("issue_date", "")), str(row.get("sector", "")), str(row.get("category", "")), str(row.get("metric", "")), str(row.get("source_file", "")))
+        existing_map[k] = {c: row.get(c, "") for c in fieldnames}
+    if existing_map:
+        merged_rows = sorted(existing_map.values(), key=lambda x: (str(x.get("issue_date", "")), str(x.get("sector", "")), str(x.get("category", "")), str(x.get("metric", ""))))
+        with open(series_path, "w", encoding="utf-8", newline="") as sf:
+            writer = csv.DictWriter(sf, fieldnames=fieldnames)
+            writer.writeheader()
+            writer.writerows(merged_rows)
         
-    print(f"Complete! Extracted {len(all_files)} markdown files and {len(series_rows)} fundamentals series rows to {series_path}")
+    print(f"Complete! Extracted {len(all_files)} markdown files and upserted {len(series_rows)} rows ({len(existing_map)} total) to {series_path}")
 
 if __name__ == "__main__":
     if len(sys.argv) == 1 or (len(sys.argv) > 1 and sys.argv[1] == "--batch"):

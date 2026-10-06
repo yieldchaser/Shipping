@@ -1,0 +1,68 @@
+{
+  "report_id": "f1b56dc0-0df6-4717-8893-895ba397a8f2",
+  "issue_date": "2026-01-07",
+  "year": 2026,
+  "department": "BULK",
+  "report_title": "Fearnleys Dry Bulk Weekly",
+  "shipment_volume_metrics": [],
+  "coal_futures_spread_metrics": [
+    {
+      "issue_date": "2026-01-07",
+      "year": "2026",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "p5_kamsarmax_indonesia_rv_usd_day": 8602.94,
+      "p5_4w_prev_usd_day": 15661.76,
+      "newcastle_coal_futures_spread_lead_2m": -6.76,
+      "coal_spread_4w_prev": "",
+      "lead_tenor": "2 Months",
+      "chart_title": "P5 vs Newcastle Coal Futures Spread Lead",
+      "source_image": "P5 vs Newcastle Coal Futures Spread Lead.png",
+      "report_id": "f1b56dc0-0df6-4717-8893-895ba397a8f2"
+    }
+  ],
+  "time_charter_vs_asset_metrics": [],
+  "vessel_tightness_metrics": [
+    {
+      "issue_date": "2026-01-07",
+      "year": "2026",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "chart_family": "P6 vs SATL Tightness.png",
+      "indicator_metric": "South Atlantic Vessel Count",
+      "indicator_val": 351.4,
+      "freight_benchmark": "P6 / BCI5TC Index USD/day",
+      "freight_benchmark_val": 11762.2,
+      "lead_tenor": "1 Month Lead",
+      "report_id": "f1b56dc0-0df6-4717-8893-895ba397a8f2"
+    }
+  ],
+  "macro_correlation_metrics": [
+    {
+      "issue_date": "2026-01-07",
+      "year": "2026",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "macro_metric": "Steel Mill Profitability vs Hot Metal Output",
+      "freight_benchmark_val": 39.5,
+      "macro_indicator_val": 2.17,
+      "lead_tenor": "7 Weeks Lead",
+      "chart_title": "STEEL MILL PROFITABILITY VS HOT METAL OUTPUT.png",
+      "report_id": "f1b56dc0-0df6-4717-8893-895ba397a8f2"
+    },
+    {
+      "issue_date": "2026-01-07",
+      "year": "2026",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "macro_metric": "Copper 6M Change Lead vs Supramax 1Y TC 6M Change",
+      "freight_benchmark_val": -102.9,
+      "macro_indicator_val": 32.4,
+      "lead_tenor": "6 Months",
+      "chart_title": "COPPER PRICE VS SUPRAMAX 1 YEAR TC.png",
+      "report_id": "f1b56dc0-0df6-4717-8893-895ba397a8f2"
+    }
+  ],
+  "charts_count": 12,
+  "source_markdown": "2026-01-07_fearnleys-dry-bulk-weekly-7th-january-2026.md"
+}

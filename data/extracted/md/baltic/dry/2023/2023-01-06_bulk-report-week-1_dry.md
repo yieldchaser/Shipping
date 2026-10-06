@@ -1,0 +1,39 @@
+---
+title: "Bulk Report – Week 1"
+date: "2023-01-06"
+display_date: "06 January 2023"
+year: 2023
+week: 1
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2023/bulk-report-week-1.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 648
+sections_count: 2
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2023/2023-01-06_bulk-report-week-1_dry.html"
+---
+
+# Bulk Report – Week 1
+
+**Date:** 06 January 2023  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2023/bulk-report-week-1.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2023/bulk-report-week-1.html)  
+
+---
+
+**Capesize**The decline in the first week of the year appeared to be no surprise to the market due to the lackluster activity and seasonal headwinds since the holiday season. The average rate of the Capesize 5 timecharter (5TC) routes had its sharpest fall on Tuesday, losing almost 30% from the last publishing day 10 days ago. Later in the week the market continued falling but at a slower pace and finally lifted $70 on Friday to close the week at $12,543. Compared with the same period last year, the 5TC is about $7,000 or 35% lower in value. Whilst the Atlantic remained quiet, the west Australia to Qingdao trade was priced below mid $7s throughout the week. Demand and cargo enquiry next week will determine which direction the Capesize is taking before the fast approaching Lunar New Year.
+
+**Panamax**Following the Christmas holidays the Panamax market began sedately across the board, followed by rates coming under pressure from the outset. Downward pressure came from a lack of demand in both basins all week, forcing cheaper levels to be conceded by owners. The Atlantic did witness some improved South America activity, but with excess tonnage count rates drifted throughout the week. Following a weak end to 2022 higher ballaster count from Southeast Asia only compounded to the weaker market. And, with Asia massively unsupported, the immediate outlook appeared very bearish - $8,000 was agreed on an 82,000-dwt delivery China for a NoPac round trip. Consequently, Aps and ballast bonus deals were the norm ex EC South America to Far East, with varying rates depending on dates. However, $16,500 + $650,00 was agreed a few times for index types/dates. Period activity included a scrubber fitted 81,000-dwt delivery China fixed for five to eight months at $16,250.
+
+### Ultramax/Supramax
+
+The first week back for many after the holidays gave little cheer to owners as both the Pacific and Atlantic regions suffered with limited fresh enquiry and an abundance of prompt tonnage. The general feeling amongst many players that this trend could continue until after the Lunar New Year, but only time will tell. In the Atlantic activity was seen from the US Gulf, a 57,000-dwt fixing a trip to the Mediterranean at $18,000. Elsewhere, a 56,000-dwt was fixed from the Mediterranean to West Africa at $10,000. Little action was seen from South America and rates remained under pressure. Asia also saw downward pressure and again pressure focused on the readily available amount of open tonnage.  A 61,000-dwt fixing for a trip from Kwangyang to the Arabian Gulf at $8,000. Meanwhile, a 53,000-dwt open CJK was heard fixed for an Indonesian round voyage at $3,000. It remains to be seen how long it will take to absorb excess tonnage.
+
+### Handysize
+
+Sentiment remained negative, despite a return for many after the holiday season, with further losses in both basins. East Coast South America has seen levels tumble due to a lack of enquiry with a 32,000-dwt fixing from Fazendinha to the Eastern Mediterranean at $11,000. Meanwhile, a 38,000-dwt fixed Santos to Morocco at $15,250. In the Mediterranean, a 36,000-dwt fixed basis delivery Canakkale to the Caribbean with an intended cargo of steels at $7,500 for the first 40 days and $10,000 for the balance. An unnamed handysize vessel was linked with fixing a cargo of sulphur from the Baltic to Casablanca at $8,000, but further details had yet to emerge.  In Asia, activity was also limited. A 30,000-dwt fixing from South East Asia to China at $5,100 and a large handy was rumoured to have been placed on subjects from South Korea via Prince Rupert for a round voyage with wood pellets in the low $7,000s.
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  

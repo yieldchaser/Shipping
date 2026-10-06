@@ -1,0 +1,34 @@
+{
+  "issue_date": "2006-08-04",
+  "year": 2006,
+  "title": "What Lazy Days of Summer?",
+  "source_file": "corpus/04-poten/pdfs/2006/Tanker_Opinion_20060804.pdf",
+  "tables_count": 0,
+  "charts_count": 2,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2006-08-04_what-lazy-days-of-summer_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2006/poten_2006-08-04_what-lazy-days-of-summer_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-08-04_what-lazy-days-of-summer_chart1.png",
+      "width": 434,
+      "height": 359
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2006-08-04_what-lazy-days-of-summer_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2006/poten_2006-08-04_what-lazy-days-of-summer_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-08-04_what-lazy-days-of-summer_chart2.png",
+      "width": 794,
+      "height": 666
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

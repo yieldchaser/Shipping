@@ -1,0 +1,49 @@
+---
+title: "Chinese Imports from the US Are Still Lagging Behind the Deal"
+date: "2021-11-30"
+display_date: "November 30, 2021"
+year: 2021
+category: "insights"
+source: "Breakwave Advisors"
+url: "https://www.breakwaveadvisors.com/insights/2021/11/30/chinese-imports-from-the-us-are-still-lagging-behind-the-deal"
+tags: ["China", "Usa", "Economy", "Imports"]
+images_count: 2
+word_count: 741
+source_file: "corpus/03-breakwave/insights/2021/2021-11-30_chinese-imports-from-the-us-are-still-lagging-behind-the-deal.html"
+---
+
+# Chinese Imports from the US Are Still Lagging Behind the Deal
+
+**Date:** November 30, 2021  
+**Publisher:** Breakwave Advisors | **Category:** Market Insights  
+**Original URL:** [https://www.breakwaveadvisors.com/insights/2021/11/30/chinese-imports-from-the-us-are-still-lagging-behind-the-deal](https://www.breakwaveadvisors.com/insights/2021/11/30/chinese-imports-from-the-us-are-still-lagging-behind-the-deal)  
+
+---
+
+*By*[*Ulf Bergman*](https://www.linkedin.com/in/ulf-bergman-81570425/)
+
+There is no shortage of issues that are causing friction between the world's two largest economies. The trade tensions which dominated much of the relationship between the US and China under the previous US administration has faded somewhat from the headlines. While not resolved, the significance of the unbalanced trans-Pacific flow of manufactured goods and commodities has paled compared to other potential flashpoints, such as military tension in the South China Sea. The Phase One trade deal struck by the previous occupant of the White House has also contributed to rising expectations of a reset in the commercial relations between the two strategic adversaries. As the trade agreement is approaching its second anniversary, it is highly debatable that it has been a ringing success.
+
+The pact had an unfortunate start as its first year of existence was dominated by the pandemic, which interrupted much of the global trade. Last year, total Chinese imports of US goods covered by the accord reached 100 billion dollars, approximately 73 billion dollars, or 43 per cent, short of the implied target. A late-year shopping spree in agricultural commodities, as a rebuild of the Chinese swine herd fuelled demand, saw the sector establishing itself as a relative success story in the context of the new trade regime. However, it only accounted for 64 per cent of the Chinese commitments under the deal. For energy imports, the figure was even less impressive at 39 per cent.
+
+So far this year, conformity with the agreement has seen some limited improvements. According to data compiled by the Peterson Institute for International Economics (PIIE), China had reached 67 per cent of the target as measured by Chinese imports. In contrast, US export data suggested that the country was 39 per cent short of its commitments. Hence, there is a potential for trade tensions to move up the agenda yet again, especially as the Biden administration has repeatedly stated that it expects China to honour its commitments.
+
+![Ch1](assets/2021-11-30_chinese-imports-from-the-us-are-still-lagging-behind-the-deal_img_ch1_4f9ef08c7fed.png)
+
+> **Figure 1: Ch1**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-30_chinese-imports-from-the-us-are-still-lagging-behind-the-deal_img_ch1_4f9ef08c7fed.png)
+
+While the compliance rate only shows a limited increase compared to last year, it is important to highlight that the targets for 2021 are higher than in 2020. The objective for the current year, as measured as Chinese imports, is 31 billion dollars higher than in the previous year. Like last year, agricultural shipments are the standout performer, with 89 per cent of the goal achieved. However, Chinese importers would have to buy 15 billion dollars worth of grains during the year's final months to meet the quota. Imports of energy commodities remain the laggard, with data from the US and China also diverging considerably. According to Chinese import records, volumes for the first ten months of the year have reached 56 per cent, while US exports suggest that only 37 per cent has been achieved.
+
+According to cargo tracking data from Oceanbolt, coal shipments from the US to China has almost ceased in recent months after a strong start of the year. While coal is only a part of the US energy exports to China, the falling volumes are likely to contribute to a significant shortfall in Chinese imports of US energy commodities. Rising Chinese coal production and US coal prices at around a twelve-year high are also unlikely to be helpful.
+
+![Ch2](assets/2021-11-30_chinese-imports-from-the-us-are-still-lagging-behind-the-deal_img_ch2_f3e7e5fa4ca4.png)
+
+> **Figure 2: Ch2**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-30_chinese-imports-from-the-us-are-still-lagging-behind-the-deal_img_ch2_f3e7e5fa4ca4.png)
+
+During the first ten months of the year, US agricultural exports to China were approximately 23 per cent above the same period last year. However, the strength of the exports during the final months of last year may mean that total volume will fail to match last year's record levels. While export volumes may be lower than last year, the Phase One deal is based on value rather than quantities. Hence, the higher crop prices have proved beneficial for China's compliance with the trade agreement during the current year.
+
+---
+
+**Tags:** China, Usa, Economy, Imports  

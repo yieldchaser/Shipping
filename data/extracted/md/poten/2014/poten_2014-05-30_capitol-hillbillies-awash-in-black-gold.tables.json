@@ -1,0 +1,52 @@
+{
+  "issue_date": "2014-05-30",
+  "year": 2014,
+  "title": "Capitol Hillbillies: Awash In Black Gold",
+  "source_file": "corpus/04-poten/pdfs/2014/Tanker_Opinion_20140530.pdf",
+  "tables_count": 0,
+  "charts_count": 4,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2014-05-30_capitol-hillbillies-awash-in-black-gold_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2014/poten_2014-05-30_capitol-hillbillies-awash-in-black-gold_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-05-30_capitol-hillbillies-awash-in-black-gold_chart1.png",
+      "width": 710,
+      "height": 1062
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2014-05-30_capitol-hillbillies-awash-in-black-gold_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2014/poten_2014-05-30_capitol-hillbillies-awash-in-black-gold_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-05-30_capitol-hillbillies-awash-in-black-gold_chart2.png",
+      "width": 964,
+      "height": 732
+    },
+    {
+      "chart_num": 3,
+      "page": 0,
+      "file_name": "poten_2014-05-30_capitol-hillbillies-awash-in-black-gold_chart3.png",
+      "rel_path": "data/extracted/charts/poten/2014/poten_2014-05-30_capitol-hillbillies-awash-in-black-gold_chart3.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-05-30_capitol-hillbillies-awash-in-black-gold_chart3.png",
+      "width": 961,
+      "height": 713
+    },
+    {
+      "chart_num": 4,
+      "page": 0,
+      "file_name": "poten_2014-05-30_capitol-hillbillies-awash-in-black-gold_chart4.png",
+      "rel_path": "data/extracted/charts/poten/2014/poten_2014-05-30_capitol-hillbillies-awash-in-black-gold_chart4.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-05-30_capitol-hillbillies-awash-in-black-gold_chart4.png",
+      "width": 718,
+      "height": 690
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

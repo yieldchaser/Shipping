@@ -1,0 +1,34 @@
+{
+  "issue_date": "2023-09-01",
+  "year": 2023,
+  "title": "Chaos in Gabon",
+  "source_file": "corpus/04-poten/pdfs/2023/Weekly Opinion - 1 Sep 2023 - Chaos in Gabon.pdf",
+  "tables_count": 0,
+  "charts_count": 2,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2023-09-01_chaos-in-gabon_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2023/poten_2023-09-01_chaos-in-gabon_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-09-01_chaos-in-gabon_chart1.png",
+      "width": 967,
+      "height": 550
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2023-09-01_chaos-in-gabon_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2023/poten_2023-09-01_chaos-in-gabon_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-09-01_chaos-in-gabon_chart2.png",
+      "width": 967,
+      "height": 484
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

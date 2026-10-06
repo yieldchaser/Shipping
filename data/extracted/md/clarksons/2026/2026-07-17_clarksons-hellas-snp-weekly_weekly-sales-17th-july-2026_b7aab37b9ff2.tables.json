@@ -1,0 +1,46 @@
+{
+  "issue_date": "2026-07-17",
+  "printed_date": "17/07/2026",
+  "source_file": "2026-07-17_clarksons-hellas-snp-weekly_weekly-sales-17th-july-2026_b7aab37b9ff2.pdf",
+  "sales_count": 2,
+  "demo_count": 0,
+  "sales": [
+    {
+      "issue_date": "2026-07-17",
+      "stem": "2026-07-17_clarksons-hellas-snp-weekly_weekly-sales-17th-july-2026_b7aab37b9ff2",
+      "source_file": "2026-07-17_clarksons-hellas-snp-weekly_weekly-sales-17th-july-2026_b7aab37b9ff2.pdf",
+      "section": "Bulker Sales",
+      "page": 2,
+      "NAME": "HEROIC",
+      "TYPE": "Capesize",
+      "DWT": "182,060",
+      "BUILT": "2010",
+      "YARD": "ODENSE LINDO",
+      "PRICE": "USD 32,8 M",
+      "BUYERS": "EUROPEAN",
+      "SS_DD": "SS 10/30 DD 09/27",
+      "COMMENTS": "B&W 6S70MC-C7.2",
+      "raw_built": "2010 ODENSE LINDO",
+      "raw_details": "B&W 6S70MC-C7.2"
+    },
+    {
+      "issue_date": "2026-07-17",
+      "stem": "2026-07-17_clarksons-hellas-snp-weekly_weekly-sales-17th-july-2026_b7aab37b9ff2",
+      "source_file": "2026-07-17_clarksons-hellas-snp-weekly_weekly-sales-17th-july-2026_b7aab37b9ff2.pdf",
+      "section": "Bulker Sales",
+      "page": 2,
+      "NAME": "BLUE AKIHABARA",
+      "TYPE": "Ultramax",
+      "DWT": "61,630",
+      "BUILT": "2014",
+      "YARD": "NANTONG COSCO KHI (NACKS)",
+      "PRICE": "USD XS 25 M",
+      "BUYERS": "U/D",
+      "SS_DD": "SS 03/29 DD 03/27",
+      "COMMENTS": "B&W 6S50ME-B9.2 CR:4X30T",
+      "raw_built": "2014 NANTONG COSCO KHI (NACKS)",
+      "raw_details": "B&W 6S50ME-B9.2 CR:4X30T"
+    }
+  ],
+  "demolitions": []
+}

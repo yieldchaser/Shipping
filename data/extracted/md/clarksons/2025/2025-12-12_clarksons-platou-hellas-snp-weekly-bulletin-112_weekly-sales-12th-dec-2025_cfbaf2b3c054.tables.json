@@ -1,0 +1,46 @@
+{
+  "issue_date": "2025-12-12",
+  "printed_date": "12/12/2025",
+  "source_file": "2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-112_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf",
+  "sales_count": 2,
+  "demo_count": 0,
+  "sales": [
+    {
+      "issue_date": "2025-12-12",
+      "stem": "2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-112_weekly-sales-12th-dec-2025_cfbaf2b3c054",
+      "source_file": "2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-112_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf",
+      "section": "Bulker Sales",
+      "page": 2,
+      "NAME": "ATLANTIC LION",
+      "TYPE": "Capesize",
+      "DWT": "209,205",
+      "BUILT": "2020",
+      "YARD": "SWS",
+      "PRICE": "USD 73.75 M",
+      "BUYERS": "KOREAN",
+      "SS_DD": "SS 07/30 DD 07/28",
+      "COMMENTS": "B&W 6G70ME-C9.5 BWTS FITTED SCRUBBER FITTED",
+      "raw_built": "2020 SWS",
+      "raw_details": "B&W 6G70ME-C9.5 BWTS FITTED SCRUBBER FITTED"
+    },
+    {
+      "issue_date": "2025-12-12",
+      "stem": "2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-112_weekly-sales-12th-dec-2025_cfbaf2b3c054",
+      "source_file": "2025-12-12_clarksons-platou-hellas-snp-weekly-bulletin-112_weekly-sales-12th-dec-2025_cfbaf2b3c054.pdf",
+      "section": "Bulker Sales",
+      "page": 2,
+      "NAME": "IVS WINDSOR",
+      "TYPE": "Ultramax",
+      "DWT": "60,279",
+      "BUILT": "2016",
+      "YARD": "OSHIMA",
+      "PRICE": "LOW USD 25 M",
+      "BUYERS": "GREEK",
+      "SS_DD": "SS 09/26 DD 09/26",
+      "COMMENTS": "B&W 6S50ME-B9.3 4x30T BWTS FITTED",
+      "raw_built": "2016 OSHIMA",
+      "raw_details": "B&W 6S50ME-B9.3 4x30T BWTS FITTED"
+    }
+  ],
+  "demolitions": []
+}

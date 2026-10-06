@@ -1,0 +1,83 @@
+{
+  "report_id": "67303b0f-b197-470d-93b2-ac9b92be0dc2",
+  "issue_date": "2026-06-24",
+  "year": 2026,
+  "department": "BULK",
+  "report_title": "Fearnleys Dry Bulk Weekly",
+  "shipment_volume_metrics": [
+    {
+      "issue_date": "2026-06-24",
+      "year": 2026,
+      "report_week": 25,
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "vessel_segment": "Panamax/Kamsarmax",
+      "shipment_volume_growth_ytd": "4.6%",
+      "shipment_volume_growth_last_10w": "",
+      "dwt_supply_growth": "4.6%",
+      "atlantic_volume_change": "",
+      "report_id": "67303b0f-b197-470d-93b2-ac9b92be0dc2"
+    }
+  ],
+  "coal_futures_spread_metrics": [
+    {
+      "issue_date": "2026-06-24",
+      "year": "2026",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "p5_kamsarmax_indonesia_rv_usd_day": 10081.97,
+      "p5_4w_prev_usd_day": 16106.56,
+      "newcastle_coal_futures_spread_lead_2m": 3.77,
+      "coal_spread_4w_prev": "",
+      "lead_tenor": "2 Months",
+      "chart_title": "P5 vs Newcastle Coal Futures Spread Lead",
+      "source_image": "P5 vs Newcastle Coal Futures Spread Lead.png",
+      "report_id": "67303b0f-b197-470d-93b2-ac9b92be0dc2"
+    }
+  ],
+  "time_charter_vs_asset_metrics": [],
+  "vessel_tightness_metrics": [
+    {
+      "issue_date": "2026-06-24",
+      "year": "2026",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "chart_family": "BCI5TC SATL Tightness Indicator.png",
+      "indicator_metric": "South Atlantic Vessel Count",
+      "indicator_val": 352.8,
+      "freight_benchmark": "P6 / BCI5TC Index USD/day",
+      "freight_benchmark_val": 19211.3,
+      "lead_tenor": "1 Month Lead",
+      "report_id": "67303b0f-b197-470d-93b2-ac9b92be0dc2"
+    },
+    {
+      "issue_date": "2026-06-24",
+      "year": "2026",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "chart_family": "P6 vs SATL Tightness Zoom In.png",
+      "indicator_metric": "South Atlantic Vessel Count",
+      "indicator_val": 355.0,
+      "freight_benchmark": "P6 / BCI5TC Index USD/day",
+      "freight_benchmark_val": 16900.8,
+      "lead_tenor": "1 Month Lead",
+      "report_id": "67303b0f-b197-470d-93b2-ac9b92be0dc2"
+    },
+    {
+      "issue_date": "2026-06-24",
+      "year": "2026",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "chart_family": "supraultra ballaster laden vessel ratio.png",
+      "indicator_metric": "Indicator Metric",
+      "indicator_val": 179.5,
+      "freight_benchmark": "Freight Benchmark",
+      "freight_benchmark_val": 66.0,
+      "lead_tenor": "Concurrent",
+      "report_id": "67303b0f-b197-470d-93b2-ac9b92be0dc2"
+    }
+  ],
+  "macro_correlation_metrics": [],
+  "charts_count": 16,
+  "source_markdown": "2026-06-24_fearnleys-dry-bulk-weekly-24th-june-2026-14.md"
+}

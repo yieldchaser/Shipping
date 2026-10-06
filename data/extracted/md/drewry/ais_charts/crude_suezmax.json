@@ -1,0 +1,287 @@
+{
+  "vessel_class": "Suezmax",
+  "sector": "Crude Tankers",
+  "source_file": "Drewry_AIS_Crude_Suezmax_Week38_2026.pdf",
+  "metrics_summary": {
+    "vessel_class": "Suezmax",
+    "sector": "Crude Tankers",
+    "source_file": "Drewry_AIS_Crude_Suezmax_Week38_2026.pdf",
+    "fleet_performance_points": 1482,
+    "regional_congestion_points": 568,
+    "deployment_speed_points": 270,
+    "utilisation_points": 89,
+    "total_points": 2409
+  },
+  "sample_fleet_performance": [
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Suezmax",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 1,
+      "date": "2022-01-05",
+      "value_mdwt": 26.41,
+      "source_file": "Drewry_AIS_Crude_Suezmax_Week38_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Suezmax",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 2,
+      "date": "2022-01-12",
+      "value_mdwt": 31.91,
+      "source_file": "Drewry_AIS_Crude_Suezmax_Week38_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Suezmax",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 3,
+      "date": "2022-01-19",
+      "value_mdwt": 29.4,
+      "source_file": "Drewry_AIS_Crude_Suezmax_Week38_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Suezmax",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 4,
+      "date": "2022-01-26",
+      "value_mdwt": 32.4,
+      "source_file": "Drewry_AIS_Crude_Suezmax_Week38_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Suezmax",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 5,
+      "date": "2022-02-02",
+      "value_mdwt": 31.35,
+      "source_file": "Drewry_AIS_Crude_Suezmax_Week38_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Suezmax",
+      "metric": "underway_east",
+      "region": "East",
+      "status": "underway",
+      "year": 2022,
+      "week": 6,
+      "date": "2022-02-09",
+      "value_mdwt": 31.83,
+      "source_file": "Drewry_AIS_Crude_Suezmax_Week38_2026.pdf"
+    }
+  ],
+  "sample_regional_congestion": [
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Suezmax",
+      "region": "China",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 1,
+      "date": "2024-01-03",
+      "value_mdwt": 1.08,
+      "source_file": "Drewry_AIS_Crude_Suezmax_Week38_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Suezmax",
+      "region": "China",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 2,
+      "date": "2024-01-10",
+      "value_mdwt": 0.71,
+      "source_file": "Drewry_AIS_Crude_Suezmax_Week38_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Suezmax",
+      "region": "China",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 3,
+      "date": "2024-01-17",
+      "value_mdwt": 0.46,
+      "source_file": "Drewry_AIS_Crude_Suezmax_Week38_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Suezmax",
+      "region": "China",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 4,
+      "date": "2024-01-24",
+      "value_mdwt": 1.09,
+      "source_file": "Drewry_AIS_Crude_Suezmax_Week38_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Suezmax",
+      "region": "China",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 5,
+      "date": "2024-01-31",
+      "value_mdwt": 0.87,
+      "source_file": "Drewry_AIS_Crude_Suezmax_Week38_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Suezmax",
+      "region": "China",
+      "status": "ballast_at_anchor",
+      "year": 2024,
+      "week": 6,
+      "date": "2024-02-07",
+      "value_mdwt": 0.71,
+      "source_file": "Drewry_AIS_Crude_Suezmax_Week38_2026.pdf"
+    }
+  ],
+  "sample_deployment_speed": [
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Suezmax",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 1,
+      "date": "2025-01-01",
+      "value": 99.85,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Crude_Suezmax_Week38_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Suezmax",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 2,
+      "date": "2025-01-08",
+      "value": 99.88,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Crude_Suezmax_Week38_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Suezmax",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 3,
+      "date": "2025-01-15",
+      "value": 97.95,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Crude_Suezmax_Week38_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Suezmax",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 4,
+      "date": "2025-01-22",
+      "value": 82.81,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Crude_Suezmax_Week38_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Suezmax",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 5,
+      "date": "2025-01-29",
+      "value": 85.64,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Crude_Suezmax_Week38_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Suezmax",
+      "metric": "tonne_miles_index",
+      "year": 2025,
+      "week": 6,
+      "date": "2025-02-05",
+      "value": 91.21,
+      "unit": "index",
+      "source_file": "Drewry_AIS_Crude_Suezmax_Week38_2026.pdf"
+    }
+  ],
+  "sample_utilisation": [
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Suezmax",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 1,
+      "date": "2025-01-01",
+      "value_pct": 89.11,
+      "source_file": "Drewry_AIS_Crude_Suezmax_Week38_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Suezmax",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 2,
+      "date": "2025-01-08",
+      "value_pct": 89.08,
+      "source_file": "Drewry_AIS_Crude_Suezmax_Week38_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Suezmax",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 3,
+      "date": "2025-01-15",
+      "value_pct": 88.28,
+      "source_file": "Drewry_AIS_Crude_Suezmax_Week38_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Suezmax",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 4,
+      "date": "2025-01-22",
+      "value_pct": 87.48,
+      "source_file": "Drewry_AIS_Crude_Suezmax_Week38_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Suezmax",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 5,
+      "date": "2025-01-29",
+      "value_pct": 87.84,
+      "source_file": "Drewry_AIS_Crude_Suezmax_Week38_2026.pdf"
+    },
+    {
+      "sector": "Crude Tankers",
+      "vessel_class": "Suezmax",
+      "metric": "fleet_utilisation_pct",
+      "year": 2025,
+      "week": 6,
+      "date": "2025-02-05",
+      "value_pct": 89.18,
+      "source_file": "Drewry_AIS_Crude_Suezmax_Week38_2026.pdf"
+    }
+  ]
+}

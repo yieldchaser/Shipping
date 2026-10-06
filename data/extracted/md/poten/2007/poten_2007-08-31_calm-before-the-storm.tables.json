@@ -1,0 +1,25 @@
+{
+  "issue_date": "2007-08-31",
+  "year": 2007,
+  "title": "Calm Before the Storm?",
+  "source_file": "corpus/04-poten/pdfs/2007/Tanker_Opinion_20070831.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2007-08-31_calm-before-the-storm_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2007/poten_2007-08-31_calm-before-the-storm_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-08-31_calm-before-the-storm_chart1.png",
+      "width": 434,
+      "height": 358
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

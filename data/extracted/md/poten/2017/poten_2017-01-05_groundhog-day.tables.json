@@ -1,0 +1,52 @@
+{
+  "issue_date": "2017-01-05",
+  "year": 2017,
+  "title": "Groundhog Day",
+  "source_file": "corpus/04-poten/pdfs/2017/Weekly-Opinion-January-5-2017-Groundhog-Day.pdf",
+  "tables_count": 0,
+  "charts_count": 4,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2017-01-05_groundhog-day_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2017/poten_2017-01-05_groundhog-day_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-01-05_groundhog-day_chart1.png",
+      "width": 814,
+      "height": 860
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2017-01-05_groundhog-day_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2017/poten_2017-01-05_groundhog-day_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-01-05_groundhog-day_chart2.png",
+      "width": 739,
+      "height": 508
+    },
+    {
+      "chart_num": 3,
+      "page": 0,
+      "file_name": "poten_2017-01-05_groundhog-day_chart3.png",
+      "rel_path": "data/extracted/charts/poten/2017/poten_2017-01-05_groundhog-day_chart3.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-01-05_groundhog-day_chart3.png",
+      "width": 773,
+      "height": 507
+    },
+    {
+      "chart_num": 4,
+      "page": 0,
+      "file_name": "poten_2017-01-05_groundhog-day_chart4.png",
+      "rel_path": "data/extracted/charts/poten/2017/poten_2017-01-05_groundhog-day_chart4.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-01-05_groundhog-day_chart4.png",
+      "width": 739,
+      "height": 507
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

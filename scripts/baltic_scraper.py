@@ -1017,11 +1017,16 @@ def process_report(url: str, cat: str, dry_run: bool, overwrite: bool, driver=No
     # Overwrite mode bypasses this guard to force historical remirroring.
     if not overwrite:
         existing = False
-        for ext in [".pdf", ".html"]:
+        for ext in [".pdf", ".html", ".md"]:
             p = dest.with_suffix(ext)
-            if p.exists() and p.stat().st_size > 1500:
+            if p.exists() and p.stat().st_size > 500:
                 existing = True
                 break
+        if not existing:
+            ext_md = Path(__file__).resolve().parent.parent / "data" / "extracted" / "md" / "baltic" / cat / str(year) / f"{dest.stem}.md"
+            if ext_md.exists() and ext_md.stat().st_size > 500:
+                existing = True
+                p = ext_md
         if existing:
             print(f"    ✓ skip: {p.name}")
             return True

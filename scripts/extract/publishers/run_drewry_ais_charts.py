@@ -527,44 +527,71 @@ Source report: `{fn}`
 All data extracted via sub-pixel vector polyline calibration with $R^2 = 1.0$ mathematical affine transformation against Power BI dashed gridlines.
 """)
 
-    # Write Master Stacked Series CSVs
+    # Write Master Stacked Series CSVs (Non-Destructive Upsert)
     print("\n=== SAVING MASTER TIME SERIES CSVs ===")
+
+    def _upsert_chart_series(csv_path: str, new_rows: list, fieldnames: list, key_cols: list, sort_fn):
+        if not new_rows:
+            print(f"[=] No new chart points for {os.path.basename(csv_path)}; preserving existing CSV.")
+            return
+        existing_map = {}
+        if os.path.exists(csv_path) and os.path.getsize(csv_path) > 0:
+            try:
+                with open(csv_path, "r", encoding="utf-8", errors="replace") as rf:
+                    for row in csv.DictReader(rf):
+                        k = tuple(str(row.get(c, "")) for c in key_cols)
+                        existing_map[k] = row
+            except Exception:
+                pass
+        for row in new_rows:
+            k = tuple(str(row.get(c, "")) for c in key_cols)
+            existing_map[k] = {c: row.get(c, "") for c in fieldnames}
+        merged = sorted(existing_map.values(), key=sort_fn)
+        with open(csv_path, "w", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=fieldnames)
+            writer.writeheader()
+            writer.writerows(merged)
+        print(f"[+] Saved {os.path.basename(csv_path)}: {len(merged)} rows (+{len(new_rows)} processed)")
 
     # 1. Fleet Performance
     csv_fp = os.path.join(SERIES_DIR, "drewry_ais_fleet_performance_series.csv")
-    all_fleet_perf.sort(key=lambda x: (x['sector'], x['vessel_class'], x['metric'], x['year'], x['week']))
-    with open(csv_fp, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=["sector", "vessel_class", "metric", "region", "status", "year", "week", "date", "value_mdwt", "source_file"])
-        writer.writeheader()
-        writer.writerows(all_fleet_perf)
-    print(f"[+] Saved Fleet Performance Series: {csv_fp} ({len(all_fleet_perf)} rows)")
+    _upsert_chart_series(
+        csv_fp,
+        all_fleet_perf,
+        ["sector", "vessel_class", "metric", "region", "status", "year", "week", "date", "value_mdwt", "source_file"],
+        ["sector", "vessel_class", "metric", "region", "status", "year", "week"],
+        lambda x: (str(x["sector"]), str(x["vessel_class"]), str(x["metric"]), int(x["year"] or 0), int(x["week"] or 0)),
+    )
 
     # 2. Regional Congestion
     csv_rc = os.path.join(SERIES_DIR, "drewry_ais_regional_congestion_series.csv")
-    all_congestion.sort(key=lambda x: (x['sector'], x['vessel_class'], x['region'], x['year'], x['week']))
-    with open(csv_rc, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=["sector", "vessel_class", "region", "status", "year", "week", "date", "value_mdwt", "source_file"])
-        writer.writeheader()
-        writer.writerows(all_congestion)
-    print(f"[+] Saved Regional Congestion Series: {csv_rc} ({len(all_congestion)} rows)")
+    _upsert_chart_series(
+        csv_rc,
+        all_congestion,
+        ["sector", "vessel_class", "region", "status", "year", "week", "date", "value_mdwt", "source_file"],
+        ["sector", "vessel_class", "region", "status", "year", "week"],
+        lambda x: (str(x["sector"]), str(x["vessel_class"]), str(x["region"]), int(x["year"] or 0), int(x["week"] or 0)),
+    )
 
     # 3. Deployment & Speeds
     csv_ds = os.path.join(SERIES_DIR, "drewry_ais_deployment_speed_series.csv")
-    all_deployment.sort(key=lambda x: (x['sector'], x['vessel_class'], x['metric'], x['year'], x['week']))
-    with open(csv_ds, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=["sector", "vessel_class", "metric", "year", "week", "date", "value", "unit", "source_file"])
-        writer.writeheader()
-        writer.writerows(all_deployment)
-    print(f"[+] Saved Deployment & Speeds Series: {csv_ds} ({len(all_deployment)} rows)")
+    _upsert_chart_series(
+        csv_ds,
+        all_deployment,
+        ["sector", "vessel_class", "metric", "year", "week", "date", "value", "unit", "source_file"],
+        ["sector", "vessel_class", "metric", "year", "week"],
+        lambda x: (str(x["sector"]), str(x["vessel_class"]), str(x["metric"]), int(x["year"] or 0), int(x["week"] or 0)),
+    )
 
     # 4. Utilisation Curves
     csv_ut = os.path.join(SERIES_DIR, "drewry_ais_utilisation_curves_series.csv")
-    all_utilisation.sort(key=lambda x: (x['sector'], x['vessel_class'], x['year'], x['week']))
-    with open(csv_ut, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=["sector", "vessel_class", "metric", "year", "week", "date", "value_pct", "source_file"])
-        writer.writeheader()
-        writer.writerows(all_utilisation)
-    print(f"[+] Saved Utilisation Curves Series: {csv_ut} ({len(all_utilisation)} rows)")
+    _upsert_chart_series(
+        csv_ut,
+        all_utilisation,
+        ["sector", "vessel_class", "metric", "year", "week", "date", "value_pct", "source_file"],
+        ["sector", "vessel_class", "metric", "year", "week"],
+        lambda x: (str(x["sector"]), str(x["vessel_class"]), int(x["year"] or 0), int(x["week"] or 0)),
+    )
 
     print("\n=== EXTRACTION TOTALS BY VESSEL CLASS ===")
     for vname, sm in sorted(vessel_summaries.items()):

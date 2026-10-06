@@ -1,0 +1,864 @@
+{
+  "stem": "xclusiv_2025_xclusiv-2025_02_03",
+  "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf",
+  "issue_date": "2025-02-03",
+  "report_week": 5,
+  "pages": 9,
+  "useful_pages": 7,
+  "editorial_title": "MARKET COMMENTARY:",
+  "nutshell": [
+    "- In China, iron ore & thermal coal imports have declined due",
+    "- to seasonal effects & the Lunar New Year.  (Page 1)",
+    "- Despite reduced import volumes, iron ore prices remain sta-",
+    "- ble while the surplus in domestic coal production has led to",
+    "- a sharp drop in thermal coal prices . (Page 1)",
+    "- In response to U.S. sanctions, Iranian oil sellers are rerouting",
+    "- their shipments from Shandong province to alternative ports",
+    "- in southern and eastern China . (page 1)",
+    "- The U.S. administration has implemented new tariffs—25%",
+    "- on Canadian and Mexican oil imports, 10% on Canadian en-",
+    "- ergy sources, and 10% on imports from China . (Page 1)"
+  ],
+  "market_commentary": [
+    "The start of 2025 has seen significant turbulence across the global commodity markets, driven by shifting trade policies, supply constraints, and geopolitical maneuver- ing. China’s iron ore and seaborne coal imports have started the year on a weak note, with January arrivals dropping to multi-month lows. However, the two com- modities are experiencing diverging price trends—while iron ore remains stable, thermal coal has fallen to its low- est level in nearly four years. Iron ore imports are ex- pected to reach 99.5 million metric tonnes in January 2025, down from 112.5 million tons in December 2024, though part of the decline may be due to the Lunar New Year holiday pushing shipments into February 2025. Meanwhile, seaborne coal imports have plunged by 26% from De- cember 2024 levels, marking a sharper drop than in previous years. The decline reflects both seasonal trends and rising domestic production, which reached 439 million tons in December, up 4.2% year-over-year. The surplus has led to weaker Chinese coal prices, dragging down prices for Indonesian and Australian coal. In contrast, iron ore prices have remained resilient, supported by optimism over Beijing’s stimulus measures and their potential impact on steel de- mand. While China’s coal imports face increasing pressure from rising domestic supply, iron ore continues to benefit from global market sentiment and expectations of economic stabilization.",
+    "Meanwhile, Iranian oil sellers have demonstrated remarkable adaptability in the face of U.S. sanctions, shifting their offloading operations from Shandong province to ports in southern and eastern China. The Shandong Port Group, which operates major terminals in Qingdao, Rizhao, Yantai, and Dongying, continues to enforce a ban on U.S.- sanctioned tankers. In response, traders have rerouted shipments to Huizhou and Zhejiang province, where storage tanks have reportedly been fully rented in anticipation of further deliveries. This workaround involves transferring Ira- nian crude via non-sanctioned vessels to reach Shandong buyers, increasing costs that must either be absorbed by sellers or passed on to refiners. As of late January multiple tankers have redirected to these alternative ports. Despite these efforts, Iranian crude arrivals in China are expected to decline by 277,000 barrels per day to 1.1 million barrels per day in January due to logistical constraints. Floating storage of Iranian crude has surged to a 27-week high of 20.68 million barrels, with over 70% anchored in Malaysi- an and Singaporean waters. Additionally, Iranian sellers are mobilizing tankers to transport stranded oil from Da- lian, where at vessels appear to be engaged in shifting Iranian crude further south. While the Biden administra- tion has yet to impose stricter sanctions, Iran is taking advantage of this window to reorganize its fleet, offering a valuable precedent for Russian oil traders facing similar restrictions.",
+    "Adding to market uncertainty, U.S. oil trade policy remains in the spotlight as Trump administration has announced 25% tariffs on Canadian and Mexican imports, 10% tariff on Canadian energy sources and 10% tariff on imports from China. At the same time, U.S. crude stockpiles have surged by 3.5 million barrels, surpassing expectations, due in part to refiners cutting production amid severe winter storms. On the supply side, U.S. sanctions on Russian oil are begin- ning to bite, with crude exports from Russia’s western ports expected to decline by 8% in February. Attention has now turned towards the OPEC+ meeting on February 3rd, where discussions may focus on Trump’s push for lower oil prices and increased U.S. production."
+  ],
+  "baltic_indices": [
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Dry",
+      "index_name": "BDI",
+      "index_value": 735.0,
+      "prev_value": 778.0,
+      "change_pct": "-5.5%",
+      "avg_year_1": 930.0,
+      "avg_year_2": 1756.0,
+      "avg_year_3": 1387.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Dry",
+      "index_name": "BCI",
+      "index_value": 874.0,
+      "prev_value": 983.0,
+      "change_pct": "-11.1%",
+      "avg_year_1": 1224.0,
+      "avg_year_2": 2724.0,
+      "avg_year_3": 1989.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Dry",
+      "index_name": "BPI",
+      "index_value": 800.0,
+      "prev_value": 774.0,
+      "change_pct": "3.4%",
+      "avg_year_1": 894.0,
+      "avg_year_2": 1570.0,
+      "avg_year_3": 1437.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Dry",
+      "index_name": "BSI",
+      "index_value": 603.0,
+      "prev_value": 639.0,
+      "change_pct": "-5.6%",
+      "avg_year_1": 744.0,
+      "avg_year_2": 1243.0,
+      "avg_year_3": 1029.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Dry",
+      "index_name": "BHSI",
+      "index_value": 377.0,
+      "prev_value": 411.0,
+      "change_pct": "-8.3%",
+      "avg_year_1": 463.0,
+      "avg_year_2": 704.0,
+      "avg_year_3": 582.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Wet",
+      "index_name": "BDTI",
+      "index_value": 876.0,
+      "prev_value": 845.0,
+      "change_pct": "3.7%",
+      "avg_year_1": 858.0,
+      "avg_year_2": 1094.0,
+      "avg_year_3": 1144.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Wet",
+      "index_name": "BCTI",
+      "index_value": 662.0,
+      "prev_value": 725.0,
+      "change_pct": "-8.7%",
+      "avg_year_1": 674.0,
+      "avg_year_2": 821.0,
+      "avg_year_3": 802.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    }
+  ],
+  "freight_commentary": {
+    "Dry Bulk Freight": "Capesize: The C5TC avg declined by USD 0.9/day, at USD 7,252/day. Continent to F.East is down by 3.2k/day at USD 25,375/day, Transatlantic R/V is lower by 1.8k/day at USD 7,429/day, & Bolivar to Rotterdam is lower by 1.7k/day at USD 13,779/ day, while Transpacific R/V is increased by 0.7k/ day at USD 4,227/day. Tubarao to Rotterdam is reduced by 1.7k/day at USD 3,976/day, China- Brazil R/V is higher USD 8,070/day, & trip from Saldanha Bay to Qinqdao is reduced by 1.7k/day at USD 3,976/day. Scrubber fitted Capesize 1y T/C rate is USD 20,250/day, while eco 180k Capesize is USD 18,450/day.\n\nKamsarmax/Panamax: P5TC avg is marginally up at USD 7,199/day. The P4TC avg is also shade up at USD 5,863/day. Skaw-Gib to F.East is softer at USD 12,705/day, Pacific Return Voyage is up at USD 5,817/day, while Transatlantic R/V is reduced at USD 6,630/day & Spore R/V via Atlantic is in- creased by 1k/day at USD 8,241/day. Skaw- Gibraltar transatlantic R/V (P1A_03) is softer by 0.3k/day at USD 5,346/day, Skaw-Gibraltar to Tai- wan-Japan (P2A_03) is reduced at USD 11,216/ day, and Japan-S. Korea Transpacific R/V (P3A_03) is increased at USD 4,515/day. Kamsarmax 1y T/C is softer at USD 12,450/day, while for Panamax is also softer at USD 11,200/day.\n\nUltramax/Supramax: Ultramax S11TC avg closed the week at USD 15,856/day. Supramax S10TC avg is at USD 5,594/day. The Baltic Supramax Asia S3TC average closed the week lower at USD 5,633/day. N.China one Australian or Pacific R/V is declined at USD 6,457/day, USG to Skaw Passero is softer by 0.9k/day at USD 12,779/day. S.China trip via Indonesia to EC India is down at USD 5,579/day, trip from S.China via Indonesia to S.China pays USD 4,493/day, while Med/B.Sea to China/S.Korea is reduced by 0.4k/day at USD 11,058/day. 1y T/C rate Ultramax is softer at USD 12,200/day & 1y T/C rate for Supramax is softer at USD 10,700/day.\n\nHandysize: The Handy index counts 64 negative consecutive sessions, since 28th Oct 2024. HS7TC average closed the week down by 0.6k/day at USD 6,780/day. Skaw-Passero trip to Boston-Galveston pays 0.3k/day less at USD 5,379/day, Brazil to Cont. pays 0.8k/day less at USD 11,167/day, S.E. Asia trip to Spore/Japan 0.6k/day is softer at USD 6,088/day, China/S.Korea/Japan round trip is reduced by 0.7k/day at USD 6,006/day and trip from U.S. Gulf to Cont. is reduced by 0.7k/day at USD 9,886/day, while N.China—S.Korea- Japan trip to S.E.Asia is reduced by 1k/day at USD 5,031/day. 38K Handy 1y T/C rate is USD 11,000/day while 32k Handy 1y T/C is USD 9,800/day in Atlantic and USD 9,750/day in Pacific region.",
+    "Tanker Freight": "VLCC: avg T/CE ended the week up by 5.3k/day at USD 41,535/day. M. East Gulf to China trip is up by 9.8k/day at USD 38,973/day. West Africa to China trip is up by 4.7k/day at USD 40,315/day and US Gulf to China trip is up by 1.3k/day at USD 45,316/ day. 1y T/C Rate for 310k dwt D/H Eco VLCC is USD 2.5k/day lower, at USD 45,750/day.\n\nSuezmax: avg T/CE closed the week firmer by 4.6k/ day at USD 32,225/day. West Africa to Continent trip is up by 7k/day at USD 34,455/day, Black Sea to Mediterranean is up by 2.3k/day at USD 29,994/ day, & M. East Gulf to Med trip is reduced by 3.2k/ day at USD 40,436/day, while trip from Guyana to ARA is improved by 4.5k/day at USD 28,095/day. 1y T/C Rate for 150k dwt D/H Eco Suezmax is USD 500/day lower since last week, at USD 34,250/day.\n\nAframax: avg T/CE closed the week higher by 0.8k/ day at USD 24,958/day. North Sea to Continent trip is down by 1.3k/day at USD 19,977/day, Ku- wait to Spore is up at USD 31,978/day, while route from Caribbean to US Gulf trip is up by 2.6k/day at USD 18,611/day. Trip from S. East Asia to East Coast Australia is up by 0.9k/day at USD 22,425/ day & Cross Mediterranean trip is down by 2.7k/ day at USD 27,671/day. US Gulf to UK-Continent is improved by 4.5k/day at USD 26,775/day & the East Coast Mexico to US Gulf trip is up by USD 3.3k/day at USD 20,924/day. 1y T/C Rate for 110k dwt D/H Eco Aframax is USD 500/day lower since last week, at USD 31,250/day.\n\nProducts: The LR2 route (TC1) M. East to Japan is this week lower by 4.1k/day at USD 23,725/day. Trip from (TC15) Med to Far East has increased by 1.3k/day at USD 12,039/day & (TC20) AG to UK Continent is down by 7.8k/day at USD 26,798/day. The LR1 route (TC5) from Middle East Gulf to Ja- pan is down by 2.1k/day at USD 14,188/day, while the (TC8) Middle East Gulf to UK-Continent is down by 7.8k/day at USD 26,798/day & the (TC16) Amsterdam to Lome trip is improved by 1.3k/day at USD 22,062/day. The MR Atlantic Basket is de- creased by 3.7k/day at USD 22,099/day & the MR Pacific Basket earnings are lower at USD 15,926/ day. The MR route from Rotterdam to New York (TC2) is softer by 4.1k/day at USD 23,725/day, (TC6) Intermed (Algeria to Euro Med) earnings are softer by 2.1k/day at USD 14,188/day, (TC14) US Gulf to Continent is up by .1k/day at USD 8,207/day, (TC18) US Gulf to Brazil earnings are higher by 0.2k/day at USD 15,521/day, (TC23) Amsterdam to Le Havre is higher by 0.1k/day at USD 16,591/day while Yeosu to Botany Bay (TC22) is softer by 3.3k/ day at USD 24,128/day and ARA to West Africa (TC19) is down by 1.9k/day at USD 16,749/day. Eco LR2 1y T/C rate is lower at USD 31,250/day, while Eco MR2 1y T/C rate is decreased on a weekly basis at USD 21,500/day."
+  },
+  "dry_snp_activity": "Newcastlemax and Capesize sectors saw strong activi- ty this week, accounting for half of all sales. Seanergy acquired the Newcastlemax \"Berge Kita\" -208K/2013 Imabari for USD 39 mills. In the Capesize sector, the \"Cape Friendship\"-186K/2005 Kawasaki was sold for USD 16 mills, and the \"Gloriuship\"-171K/2004 Hyundai Samho found new owners for USD 15 mills. The Post- Panamax and Kamsarmax sectors were also active, having to report two vessels. The Post-Panamax \"Kambanos\"-87K/2010 Hudong Zhonghua changed hands for USD 12 mills. Chronos shipping sold their last Kamsarmax, the \"Patra\"-81K/2012 Universal, to Greek buyers close to USD 16 mills. Finally, Chinese buyers acquired the Supramax \"Orion\"-56K/2007 Mit- sui for USD 10.5 mills.",
+  "wet_snp_activity": "The VLCC sector saw very strong activity this week, with two sales reported. The Scrubber fitted VLCC “Leicester”- 301K/2017 SWS yard found new owners for 87 mills. The 20-year-old VLCC “Gold Pearl”- 319K/2005 HHI was sold for USD 29.5 mills. The Aframax sector was also active, as the “Sofia II” - 105K/2008 Sumitomo was sold for excess USD 31 mills to Chinese buyers.",
+  "reported_sales": [
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "section": "Bulk Carriers",
+      "page": 5,
+      "NAME": "BERGE KITA",
+      "TYPE": "Capesize",
+      "DWT": "207,851",
+      "YEAR": "2013",
+      "COUNTRY": "JAPAN",
+      "YARD": "IMABARI",
+      "BUYERS": "SEANERGY",
+      "PRICE": "39",
+      "PRICE_USD_MILL": 39.0,
+      "COMMENTS": "",
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "section": "Bulk Carriers",
+      "page": 5,
+      "NAME": "CAPE FRIENDSHIP",
+      "TYPE": "Capesize",
+      "DWT": "185,879",
+      "YEAR": "2005",
+      "COUNTRY": "JAPAN",
+      "YARD": "KAWASAKI",
+      "BUYERS": "UNDISCLOSED",
+      "PRICE": "16",
+      "PRICE_USD_MILL": 16.0,
+      "COMMENTS": "",
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "section": "Bulk Carriers",
+      "page": 5,
+      "NAME": "GLORIUSHIP",
+      "TYPE": "Capesize",
+      "DWT": "171,314",
+      "YEAR": "2004",
+      "COUNTRY": "S. KOREA",
+      "YARD": "HYUNDAI SAMHO",
+      "BUYERS": "UNDISCLOSED",
+      "PRICE": "15",
+      "PRICE_USD_MILL": 15.0,
+      "COMMENTS": "",
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "section": "Bulk Carriers",
+      "page": 5,
+      "NAME": "KAMBANOS",
+      "TYPE": "Kamsarmax",
+      "DWT": "87,328",
+      "YEAR": "2010",
+      "COUNTRY": "CHINA",
+      "YARD": "HUDONG ZHONGHUA",
+      "BUYERS": "UNDISCLOSED",
+      "PRICE": "12",
+      "PRICE_USD_MILL": 12.0,
+      "COMMENTS": "",
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "section": "Bulk Carriers",
+      "page": 5,
+      "NAME": "PATRA",
+      "TYPE": "Kamsarmax",
+      "DWT": "80,596",
+      "YEAR": "2012",
+      "COUNTRY": "JAPAN",
+      "YARD": "UNIVERSAL",
+      "BUYERS": "GREEK",
+      "PRICE": "Close to 16",
+      "PRICE_USD_MILL": 16.0,
+      "COMMENTS": "",
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "section": "Bulk Carriers",
+      "page": 5,
+      "NAME": "ORION",
+      "TYPE": "Supramax",
+      "DWT": "56,071",
+      "YEAR": "2007",
+      "COUNTRY": "JAPAN",
+      "YARD": "MITSUI",
+      "BUYERS": "CHINESE",
+      "PRICE": "10.5",
+      "PRICE_USD_MILL": 10.5,
+      "COMMENTS": "",
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "section": "Tankers",
+      "page": 6,
+      "NAME": "LEICESTER",
+      "TYPE": "VLCC",
+      "DWT": "300,852",
+      "YEAR": "2017",
+      "COUNTRY": "CHINA",
+      "YARD": "SWS",
+      "BUYERS": "UNDISCLOSED",
+      "PRICE": "87",
+      "PRICE_USD_MILL": 87.0,
+      "COMMENTS": "SCRUBBER FITTED",
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "section": "Tankers",
+      "page": 6,
+      "NAME": "GOLD PEARL",
+      "TYPE": "VLCC",
+      "DWT": "318,669",
+      "YEAR": "2005",
+      "COUNTRY": "S. KOREA",
+      "YARD": "HHI",
+      "BUYERS": "UNDISCLOSED",
+      "PRICE": "29.5",
+      "PRICE_USD_MILL": 29.5,
+      "COMMENTS": "SS: 02/2025 - DD: 02/2025",
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "section": "Tankers",
+      "page": 6,
+      "NAME": "UMNENGA II",
+      "TYPE": "Suezmax",
+      "DWT": "162,293",
+      "YEAR": "2006",
+      "COUNTRY": "S. KOREA",
+      "YARD": "DAEWOO",
+      "BUYERS": "UNDISCLOSED",
+      "PRICE": "36",
+      "PRICE_USD_MILL": 36.0,
+      "COMMENTS": "ICE CLASS 1A, CPP",
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "section": "Tankers",
+      "page": 6,
+      "NAME": "SOFIA II",
+      "TYPE": "Aframax",
+      "DWT": "105,400",
+      "YEAR": "2008",
+      "COUNTRY": "JAPAN",
+      "YARD": "SUMITOMO",
+      "BUYERS": "CHINESE",
+      "PRICE": "EXCESS 31",
+      "PRICE_USD_MILL": 31.0,
+      "COMMENTS": "",
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    }
+  ],
+  "demo_sales": [
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "NAME": "NOLAN",
+      "TYPE": "TANKER",
+      "YEAR": "2000",
+      "DWT": "299,543",
+      "LDT": "41,554",
+      "COUNTRY": "S. KOREA",
+      "PRICE_RAW": "422",
+      "PRICE_USD_PER_LDT": 422.0,
+      "BUYERS": "INDIA",
+      "COMMENTS": "",
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "NAME": "ULSAN GAS",
+      "TYPE": "LPG",
+      "YEAR": "1994",
+      "DWT": "3,097",
+      "LDT": "1,814",
+      "COUNTRY": "JAPAN",
+      "PRICE_RAW": "N/A",
+      "PRICE_USD_PER_LDT": "",
+      "BUYERS": "BANGLADESH",
+      "COMMENTS": "",
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "NAME": "KARAM 14",
+      "TYPE": "BC",
+      "YEAR": "1990",
+      "DWT": "14,348",
+      "LDT": "3,167",
+      "COUNTRY": "JAPAN",
+      "PRICE_RAW": "N/A",
+      "PRICE_USD_PER_LDT": "",
+      "BUYERS": "INDIA",
+      "COMMENTS": "",
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "NAME": "TASOS",
+      "TYPE": "BC",
+      "YEAR": "2000",
+      "DWT": "75,100",
+      "LDT": "10,738",
+      "COUNTRY": "JAPAN",
+      "PRICE_RAW": "476",
+      "PRICE_USD_PER_LDT": 476.0,
+      "BUYERS": "BANGLADESH",
+      "COMMENTS": "",
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "NAME": "AK HAMBURG",
+      "TYPE": "GC",
+      "YEAR": "1982",
+      "DWT": "8,828",
+      "LDT": "2,600",
+      "COUNTRY": "JAPAN",
+      "PRICE_RAW": "440",
+      "PRICE_USD_PER_LDT": 440.0,
+      "BUYERS": "INDIA",
+      "COMMENTS": "",
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "NAME": "ALEK",
+      "TYPE": "GC",
+      "YEAR": "1988",
+      "DWT": "5,786",
+      "LDT": "3,090",
+      "COUNTRY": "U.S.S.R",
+      "PRICE_RAW": "N/A",
+      "PRICE_USD_PER_LDT": "",
+      "BUYERS": "BANGLADESH",
+      "COMMENTS": "",
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    }
+  ],
+  "newbuilding_orders": [
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "page": 4,
+      "type": "BC",
+      "units": "2",
+      "size": "64,000 DWT",
+      "yard": "OSHIMA",
+      "buyer": "U-MING",
+      "price": "N/A",
+      "delivery": "2028",
+      "comments": "",
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "page": 4,
+      "type": "CONTAINER",
+      "units": "3",
+      "size": "8,400 TEU",
+      "yard": "GSI",
+      "buyer": "PETER DOEHLE",
+      "price": "120",
+      "delivery": "2027-2028",
+      "comments": "LNG DF, +2 OPTIONS",
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "page": 4,
+      "type": "GC",
+      "units": "1",
+      "size": "8,500 DWT",
+      "yard": "JIANGSU SOHO MARINE",
+      "buyer": "ARRIVA SHIPPING",
+      "price": "",
+      "delivery": "2026",
+      "comments": "",
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    }
+  ],
+  "indicative_demolition_prices": [
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "segment": "Bulkers",
+      "country": "India",
+      "price_usd_per_ldt": 475.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "segment": "Bulkers",
+      "country": "Bangladesh",
+      "price_usd_per_ldt": 480.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "segment": "Bulkers",
+      "country": "Pakistan",
+      "price_usd_per_ldt": 475.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "segment": "Bulkers",
+      "country": "Turkey",
+      "price_usd_per_ldt": 305.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "segment": "Tankers",
+      "country": "India",
+      "price_usd_per_ldt": 485.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "segment": "Tankers",
+      "country": "Bangladesh",
+      "price_usd_per_ldt": 490.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "segment": "Tankers",
+      "country": "Pakistan",
+      "price_usd_per_ldt": 485.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "segment": "Tankers",
+      "country": "Turkey",
+      "price_usd_per_ldt": 335.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    }
+  ],
+  "indicative_secondhand_prices": [
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Dry",
+      "vessel_type": "Capesize",
+      "tenor": "Resale",
+      "price_usd_mill": 75.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Dry",
+      "vessel_type": "Capesize",
+      "tenor": "5 Year",
+      "price_usd_mill": 61.7,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Dry",
+      "vessel_type": "Capesize",
+      "tenor": "10 Year",
+      "price_usd_mill": 42.5,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Dry",
+      "vessel_type": "Capesize",
+      "tenor": "15 Year",
+      "price_usd_mill": 26.3,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Dry",
+      "vessel_type": "Kamsarmax",
+      "tenor": "Resale",
+      "price_usd_mill": 39.4,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Dry",
+      "vessel_type": "Kamsarmax",
+      "tenor": "5 Year",
+      "price_usd_mill": 33.8,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Dry",
+      "vessel_type": "Kamsarmax",
+      "tenor": "10 Year",
+      "price_usd_mill": 24.5,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Dry",
+      "vessel_type": "Kamsarmax",
+      "tenor": "15 Year",
+      "price_usd_mill": 14.8,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Dry",
+      "vessel_type": "Ultramax",
+      "tenor": "Resale",
+      "price_usd_mill": 38.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Dry",
+      "vessel_type": "Ultramax",
+      "tenor": "5 Year",
+      "price_usd_mill": 31.3,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Dry",
+      "vessel_type": "Ultramax",
+      "tenor": "10 Year",
+      "price_usd_mill": 22.7,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Dry",
+      "vessel_type": "Ultramax",
+      "tenor": "15 Year",
+      "price_usd_mill": 14.5,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Dry",
+      "vessel_type": "Handysize",
+      "tenor": "Resale",
+      "price_usd_mill": 33.2,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Dry",
+      "vessel_type": "Handysize",
+      "tenor": "5 Year",
+      "price_usd_mill": 25.6,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Dry",
+      "vessel_type": "Handysize",
+      "tenor": "10 Year",
+      "price_usd_mill": 17.4,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Dry",
+      "vessel_type": "Handysize",
+      "tenor": "15 Year",
+      "price_usd_mill": 11.1,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Tanker",
+      "vessel_type": "VLCC",
+      "tenor": "Resale",
+      "price_usd_mill": 148.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Tanker",
+      "vessel_type": "VLCC",
+      "tenor": "5 Year",
+      "price_usd_mill": 114.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Tanker",
+      "vessel_type": "VLCC",
+      "tenor": "10 Year",
+      "price_usd_mill": 84.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Tanker",
+      "vessel_type": "VLCC",
+      "tenor": "15 Year",
+      "price_usd_mill": 53.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Tanker",
+      "vessel_type": "Suezmax",
+      "tenor": "Resale",
+      "price_usd_mill": 96.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Tanker",
+      "vessel_type": "Suezmax",
+      "tenor": "5 Year",
+      "price_usd_mill": 76.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Tanker",
+      "vessel_type": "Suezmax",
+      "tenor": "10 Year",
+      "price_usd_mill": 58.8,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Tanker",
+      "vessel_type": "Suezmax",
+      "tenor": "15 Year",
+      "price_usd_mill": 39.5,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Tanker",
+      "vessel_type": "Aframax",
+      "tenor": "Resale",
+      "price_usd_mill": 80.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Tanker",
+      "vessel_type": "Aframax",
+      "tenor": "5 Year",
+      "price_usd_mill": 64.4,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Tanker",
+      "vessel_type": "Aframax",
+      "tenor": "10 Year",
+      "price_usd_mill": 51.3,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Tanker",
+      "vessel_type": "Aframax",
+      "tenor": "15 Year",
+      "price_usd_mill": 35.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Tanker",
+      "vessel_type": "MR2",
+      "tenor": "Resale",
+      "price_usd_mill": 51.3,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Tanker",
+      "vessel_type": "MR2",
+      "tenor": "5 Year",
+      "price_usd_mill": 41.4,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Tanker",
+      "vessel_type": "MR2",
+      "tenor": "10 Year",
+      "price_usd_mill": 31.2,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Tanker",
+      "vessel_type": "MR2",
+      "tenor": "15 Year",
+      "price_usd_mill": 21.5,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    }
+  ],
+  "indicative_newbuilding_prices": [
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Dry",
+      "vessel_type": "Capesize",
+      "price_usd_mill": 75.5,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Dry",
+      "vessel_type": "Kamsarmax",
+      "price_usd_mill": 39.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Dry",
+      "vessel_type": "Ultramax",
+      "price_usd_mill": 36.0,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Dry",
+      "vessel_type": "Handysize",
+      "price_usd_mill": 31.5,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Tanker",
+      "vessel_type": "VLCC",
+      "price_usd_mill": 129.2,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Tanker",
+      "vessel_type": "Suezmax",
+      "price_usd_mill": 89.6,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Tanker",
+      "vessel_type": "Aframax",
+      "price_usd_mill": 74.6,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Tanker",
+      "vessel_type": "Panamax",
+      "price_usd_mill": 61.6,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    },
+    {
+      "issue_date": "2025-02-03",
+      "report_week": 5,
+      "sector": "Tanker",
+      "vessel_type": "MR2",
+      "price_usd_mill": 51.7,
+      "source_file": "xclusiv_2025_xclusiv-2025_02_03.pdf"
+    }
+  ]
+}

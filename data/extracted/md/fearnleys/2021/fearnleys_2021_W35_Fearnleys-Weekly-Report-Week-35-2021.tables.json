@@ -1,0 +1,94 @@
+{
+  "convention": "iso",
+  "publisher": "Fearnleys",
+  "issue_date": "2021-09-01",
+  "year": 2021,
+  "report_week": 35,
+  "pages": 1,
+  "source_file": "corpus/01-brokers/fearnleys/2021/fearnleys_2021_W35_Fearnleys-Weekly-Report-Week-35-2021.pdf",
+  "activity_levels": {},
+  "newbuilding_prices": {
+    "VLCC": {
+      "price_usd_m": 40.0,
+      "size": "300'",
+      "page": 1
+    },
+    "Suezmax": {
+      "price_usd_m": 69.0,
+      "size": "150'",
+      "page": 1
+    },
+    "Aframax": {
+      "price_usd_m": 56.5,
+      "size": "110'",
+      "page": 1
+    },
+    "Product": {
+      "price_usd_m": 39.5,
+      "size": "50'",
+      "page": 1
+    },
+    "Newcastlemax": {
+      "price_usd_m": 60.0,
+      "size": "210'",
+      "page": 1
+    },
+    "Kamsarmax": {
+      "price_usd_m": 32.5,
+      "size": "82'",
+      "page": 1
+    },
+    "Ultramax": {
+      "price_usd_m": 31.0,
+      "size": "64'",
+      "page": 1
+    },
+    "LNGC (MEGI) (cbm)": {
+      "price_usd_m": 203.0,
+      "size": "170'",
+      "page": 1
+    }
+  },
+  "secondhand_prices": {
+    "dry": {
+      "Capesize": {
+        "5_yr": 43.0,
+        "page": 1,
+        "10_yr": 30.5
+      },
+      "Kamsarmax": {
+        "5_yr": 30.0,
+        "page": 1,
+        "10_yr": 23.0
+      },
+      "Ultramax": {
+        "5_yr": 27.0,
+        "page": 1,
+        "10_yr": 21.0
+      }
+    },
+    "wet": {
+      "VLCC": {
+        "5_yr": 74.0,
+        "page": 1,
+        "10_yr": 51.5
+      },
+      "Suezmax": {
+        "5_yr": 47.5,
+        "page": 1,
+        "10_yr": 32.0
+      },
+      "Aframax / LR2": {
+        "5_yr": 40.0,
+        "page": 1,
+        "10_yr": 26.0
+      },
+      "MR": {
+        "5_yr": 28.0,
+        "page": 1,
+        "10_yr": 18.0
+      }
+    }
+  },
+  "rates": []
+}

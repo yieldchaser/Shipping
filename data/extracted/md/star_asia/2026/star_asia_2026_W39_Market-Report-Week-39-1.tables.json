@@ -1,0 +1,91 @@
+[
+  {
+    "stem": "star_asia_2026_W39_Market-Report-Week-39-1",
+    "issue_date": "2026-09-25",
+    "year": 2026,
+    "broker": "star_asia",
+    "charts": [
+      {
+        "signature": "scrap_trends",
+        "title": "Star Asia Demolition Price Trends",
+        "page": 10,
+        "image_rel": "../../charts/star_asia/2026/star_asia_2026_W39_Market-Report-Week-39-1_scrap_trends_p10.png",
+        "target_csv": "C:\\Users\\Dell\\Github\\Shipping\\data\\extracted\\series\\star_asia_scrap_price_trends_series.csv"
+      },
+      {
+        "signature": "scrap_trends",
+        "title": "Star Asia Demolition Price Trends",
+        "page": 12,
+        "image_rel": "../../charts/star_asia/2026/star_asia_2026_W39_Market-Report-Week-39-1_scrap_trends_p12.png",
+        "target_csv": "C:\\Users\\Dell\\Github\\Shipping\\data\\extracted\\series\\star_asia_scrap_price_trends_series.csv"
+      },
+      {
+        "signature": "scrap_trends",
+        "title": "Star Asia Demolition Price Trends",
+        "page": 13,
+        "image_rel": "../../charts/star_asia/2026/star_asia_2026_W39_Market-Report-Week-39-1_scrap_trends_p13.png",
+        "target_csv": "C:\\Users\\Dell\\Github\\Shipping\\data\\extracted\\series\\star_asia_scrap_price_trends_series.csv"
+      },
+      {
+        "signature": "scrap_trends",
+        "title": "Star Asia Demolition Price Trends",
+        "page": 14,
+        "image_rel": "../../charts/star_asia/2026/star_asia_2026_W39_Market-Report-Week-39-1_scrap_trends_p14.png",
+        "target_csv": "C:\\Users\\Dell\\Github\\Shipping\\data\\extracted\\series\\star_asia_scrap_price_trends_series.csv"
+      }
+    ],
+    "report_week": 39,
+    "source_file": "star_asia_2026_W39_Market-Report-Week-39-1.pdf",
+    "table_type": "market_data"
+  },
+  {
+    "issue_date": "2026-09-25",
+    "report_week": 39,
+    "source_file": "star_asia_2026_W39_Market-Report-Week-39-1.pdf",
+    "table_type": "indicative_scrap_prices",
+    "title": "Ship Recycling Market Snapshot (USD / LDT)",
+    "header": [
+      "DESTINATION",
+      "TANKERS",
+      "BULKERS",
+      "MPP/GENERAL CARGO",
+      "CONTAINERS",
+      "OUTLOOK / SENTIMENTS"
+    ],
+    "rows": [
+      [
+        "Alang, India",
+        "$490-500",
+        "$480-490",
+        "$440-450",
+        "$540-550",
+        "STABLE"
+      ],
+      [
+        "Chattogram, Bangladesh",
+        "$510-520",
+        "$490-500",
+        "$480-490",
+        "$560-570",
+        "STABLE"
+      ],
+      [
+        "Gaddani, Pakistan",
+        "$520-530",
+        "$510-520",
+        "$490-500",
+        "$540-550",
+        "STABLE"
+      ],
+      [
+        "Aliaga, Turkey",
+        "$320-330",
+        "$310-320",
+        "$290-300",
+        "$340-350",
+        "STABLE"
+      ]
+    ],
+    "repaired": true
+  }
+]

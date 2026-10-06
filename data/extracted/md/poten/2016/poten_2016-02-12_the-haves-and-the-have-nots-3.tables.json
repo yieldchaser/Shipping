@@ -1,0 +1,34 @@
+{
+  "issue_date": "2016-02-12",
+  "year": 2016,
+  "title": "The Haves And The Have Nots 3",
+  "source_file": "corpus/04-poten/pdfs/2016/Weekly-Opinion-February-12-2016-The-Haves-And-The-Have-Nots-3.pdf",
+  "tables_count": 0,
+  "charts_count": 2,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2016-02-12_the-haves-and-the-have-nots-3_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2016/poten_2016-02-12_the-haves-and-the-have-nots-3_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-02-12_the-haves-and-the-have-nots-3_chart1.png",
+      "width": 899,
+      "height": 547
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2016-02-12_the-haves-and-the-have-nots-3_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2016/poten_2016-02-12_the-haves-and-the-have-nots-3_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-02-12_the-haves-and-the-have-nots-3_chart2.png",
+      "width": 876,
+      "height": 534
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

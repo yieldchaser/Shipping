@@ -1,0 +1,52 @@
+{
+  "issue_date": "2013-07-26",
+  "year": 2013,
+  "title": "Canadian Crude Oil Prices Back from the Brink",
+  "source_file": "corpus/04-poten/pdfs/2013/Tanker_Opinion_20130726.pdf",
+  "tables_count": 0,
+  "charts_count": 4,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2013-07-26_canadian-crude-oil-prices-back-from-the-brink_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2013/poten_2013-07-26_canadian-crude-oil-prices-back-from-the-brink_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-07-26_canadian-crude-oil-prices-back-from-the-brink_chart1.png",
+      "width": 782,
+      "height": 705
+    },
+    {
+      "chart_num": 2,
+      "page": 1,
+      "file_name": "poten_2013-07-26_canadian-crude-oil-prices-back-from-the-brink_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2013/poten_2013-07-26_canadian-crude-oil-prices-back-from-the-brink_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-07-26_canadian-crude-oil-prices-back-from-the-brink_chart2.png",
+      "width": 804,
+      "height": 724
+    },
+    {
+      "chart_num": 3,
+      "page": 1,
+      "file_name": "poten_2013-07-26_canadian-crude-oil-prices-back-from-the-brink_chart3.png",
+      "rel_path": "data/extracted/charts/poten/2013/poten_2013-07-26_canadian-crude-oil-prices-back-from-the-brink_chart3.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-07-26_canadian-crude-oil-prices-back-from-the-brink_chart3.png",
+      "width": 804,
+      "height": 724
+    },
+    {
+      "chart_num": 4,
+      "page": 2,
+      "file_name": "poten_2013-07-26_canadian-crude-oil-prices-back-from-the-brink_chart4.png",
+      "rel_path": "data/extracted/charts/poten/2013/poten_2013-07-26_canadian-crude-oil-prices-back-from-the-brink_chart4.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-07-26_canadian-crude-oil-prices-back-from-the-brink_chart4.png",
+      "width": 804,
+      "height": 724
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

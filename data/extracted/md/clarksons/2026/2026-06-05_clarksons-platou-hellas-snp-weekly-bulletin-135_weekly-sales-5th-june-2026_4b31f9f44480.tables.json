@@ -1,0 +1,46 @@
+{
+  "issue_date": "2026-06-05",
+  "printed_date": "05/06/2026",
+  "source_file": "2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf",
+  "sales_count": 2,
+  "demo_count": 0,
+  "sales": [
+    {
+      "issue_date": "2026-06-05",
+      "stem": "2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480",
+      "source_file": "2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf",
+      "section": "Bulker Sales",
+      "page": 2,
+      "NAME": "DIMITRIS A",
+      "TYPE": "Kamsarmax",
+      "DWT": "82,518",
+      "BUILT": "2008",
+      "YARD": "TSUNEISHI ZHOUSHAN",
+      "PRICE": "USD 14.8 M",
+      "BUYERS": "CHINESE",
+      "SS_DD": "SS 08/28 DD 09/26",
+      "COMMENTS": "B&W 7S50MC-C8.1",
+      "raw_built": "2008 TSUNEISHI ZHOUSHAN",
+      "raw_details": "B&W 7S50MC-C8.1"
+    },
+    {
+      "issue_date": "2026-06-05",
+      "stem": "2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480",
+      "source_file": "2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf",
+      "section": "Bulker Sales",
+      "page": 2,
+      "NAME": "AE MARS",
+      "TYPE": "Supramax",
+      "DWT": "53,630",
+      "BUILT": "2006",
+      "YARD": "SINOPACIFIC DAYANG",
+      "PRICE": "XS USD 9 M",
+      "BUYERS": "CHINESE",
+      "SS_DD": "SS 08/26 DD 08/26",
+      "COMMENTS": "B&W 6S50MC-C8.1",
+      "raw_built": "2006 SINOPACIFIC DAYANG",
+      "raw_details": "B&W 6S50MC-C8.1"
+    }
+  ],
+  "demolitions": []
+}

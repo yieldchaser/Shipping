@@ -1,0 +1,198 @@
+report_date,year,month,vessel_class,metric,value_text,note,source,source_page
+2024-01-01,2024,1,AURORA HORIZON,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-01-01,2024,1,ENERGY PACE,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-01-01,2024,1,HIGHLAND EAGLE,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-01-01,2024,1,HORIZON ARCTIC,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-01-01,2024,1,NORMAND DROTT,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-01-01,2024,1,NORMAND PROSPER,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-01-01,2024,1,NORMAND SAPPHIRE,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-01-01,2024,1,NORMAND SIGMA,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-01-01,2024,1,OLYMPIC ZEUS,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-01-01,2024,1,PACIFIC DISPATCH,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-01-01,2024,1,PRINCESS,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-02-01,2024,2,ALP STRIKER,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-02-01,2024,2,LOKE VIKING,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-02-01,2024,2,OLYMPIC ZEUS,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-02-01,2024,2,PRINCESS,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-02-01,2024,2,SKANDI CALEDONIA,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-02-01,2024,2,SKANDI KVITSOY,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-02-01,2024,2,SOVEREIGN,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-03-01,2024,3,HIGHLAND DEFENDER,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-03-01,2024,3,ISLAND VICTORY,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-03-01,2024,3,SAR MARINER,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-03-01,2024,3,SIEM RUBY,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-03-01,2024,3,STANDARD DEFENDER,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-04-01,2024,4,BEAR,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-04-01,2024,4,BRAGE VIKING,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-04-01,2024,4,HORIZON DRAGON,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-04-01,2024,4,LOKE VIKING,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-04-01,2024,4,MAERSK HANDLER,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-04-01,2024,4,MAERSK LOGGER,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-04-01,2024,4,MANTA,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-04-01,2024,4,NORMAND PROSPER,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-04-01,2024,4,ODIN VIKING,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-04-01,2024,4,PACIFIC DISPATCH,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-04-01,2024,4,SOVEREIGN,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-05-01,2024,5,ALP FORWARD,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-05-01,2024,5,ATLANTIC KESTREL,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-05-01,2024,5,FRAM PRINCESS,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-05-01,2024,5,SEACOR DEMERARA,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-05-01,2024,5,SPRINGER TIDE,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-06-01,2024,6,ISLAND VICTORY,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-06-01,2024,6,NORMAND PROSPER,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-06-01,2024,6,SEACOR OHIO,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-06-01,2024,6,SIEM EMERALD,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-06-01,2024,6,SPM NEEL PRATAP 180,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-07-01,2024,7,ATLANTICA PROVIDER,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-07-01,2024,7,BOURBON MONSOON,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-07-01,2024,7,SIEM SYMPHONY,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-08-01,2024,8,AMBER II,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-08-01,2024,8,BOULDER,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-08-01,2024,8,SEACOR OHIO,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-08-01,2024,8,STANDARD DEFENDER,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-08-01,2024,8,SWIFT TIDE,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-09-01,2024,9,ATLANTICA TRADER,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-09-01,2024,9,BOKA FORWARD,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-09-01,2024,9,BOKA STRIKER,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-09-01,2024,9,BOS PATRIOT,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-09-01,2024,9,BRAGE VIKING,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-09-01,2024,9,ENERGY SWAN,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-09-01,2024,9,MAERSK LASER,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-09-01,2024,9,MAERSK LOGGER,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-09-01,2024,9,SAR MARINER,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-09-01,2024,9,SKANDI CALEDONIA,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-09-01,2024,9,SKANDI HERA,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-09-01,2024,9,SKANDI JUPITER,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-09-01,2024,9,SKANDI MERCURY,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-10-01,2024,10,ACE DISCOVERER,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-10-01,2024,10,AMBER II,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-10-01,2024,10,ENERGY DUCHESS,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-10-01,2024,10,HIGHLAND DEFENDER,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-10-01,2024,10,MAERSK MARINER,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-10-01,2024,10,SEACOR OHIO,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-10-01,2024,10,SIEM SYMPHONY,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-10-01,2024,10,SWIFT TIDE,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-11-01,2024,11,BOKA STRIKER,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-11-01,2024,11,ENERGY EMPRESS,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-11-01,2024,11,NORTH PROMISE,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-11-01,2024,11,SKANDI HERA,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-11-01,2024,11,SKANDI JUPITER,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-11-01,2024,11,SKANDI LASER,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-11-01,2024,11,SKANDI LOGGER,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-11-01,2024,11,SKANDI MERCURY,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2024-11-01,2024,11,SWIFT TIDE,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-01-01,2025,1,ATLANTIC KESTREL,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-01-01,2025,1,BEAR,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-01-01,2025,1,HORIZON DRAGON,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-01-01,2025,1,SKANDI ASSERTER,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-01-01,2025,1,SKANDI PEREGRINO,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-02-01,2025,2,BOURBON MONSOON,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-02-01,2025,2,ENERGY SWAN,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-02-01,2025,2,HORIZON ARCTIC,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-02-01,2025,2,NORMAND FERKING,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-02-01,2025,2,SARTOR,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-02-01,2025,2,SKANDI LASER,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-03-01,2025,3,ASSISTER,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-03-01,2025,3,NORTH PROMISE,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-03-01,2025,3,SEACOR DEMERARA,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-04-01,2025,4,ATLANTIC KESTREL,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-04-01,2025,4,BEAR,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-04-01,2025,4,HM FLIPPER,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-04-01,2025,4,HORIZON ARCTIC,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-04-01,2025,4,HORIZON DRAGON,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-04-01,2025,4,ISLAND COMMANDER / POSIDONIA LION,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-04-01,2025,4,SEA1 RUBY,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-04-01,2025,4,SKANDI LASER,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-04-01,2025,4,SKANDI LOGGER,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-04-01,2025,4,SKANDI MOVER,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-05-01,2025,5,FRAM PRINCE,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-05-01,2025,5,N/A,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-05-01,2025,5,OLYMPIC ZEUS,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-05-01,2025,5,SITELLA TIDE,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-06-01,2025,6,BOKA STRIKER,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-06-01,2025,6,HIGHLAND DEFENDER,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-06-01,2025,6,MULTIPLICITY (EX REM SUPPORTER),departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-06-01,2025,6,SEA1 RUBY,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-07-01,2025,7,HORIZON ARCTIC,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-07-01,2025,7,ISLAND VICTORY,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-07-01,2025,7,PACIFIC DISPATCH,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-07-01,2025,7,SKANDI LOGGER,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-08-01,2025,8,ACE KRISTIANSAND,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-08-01,2025,8,BOURBON MISTRAL,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-08-01,2025,8,ENERGY DUCHESS,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-08-01,2025,8,PRINCESS,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-08-01,2025,8,SAR MARINER,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-08-01,2025,8,SEA1 RUBY,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-09-01,2025,9,BEN VIKING (EX ATLANTIC KESTREL),arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-09-01,2025,9,EVITA II,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-09-01,2025,9,HORIZON ARCTIC,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-09-01,2025,9,ISLAND VICTORY,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-09-01,2025,9,NORMAND SAPPHIRE,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-09-01,2025,9,SEA1 RUBY,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-09-01,2025,9,SKANDI HERA,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-09-01,2025,9,SKANDI JUPITER,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-09-01,2025,9,SKANDI MERCURY,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-10-01,2025,10,AMBER II,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-10-01,2025,10,BEN VIKING,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-10-01,2025,10,BOKA SWEEPER,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-10-01,2025,10,IEVOLI GREY,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-10-01,2025,10,NORMAND SIGMA,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-10-01,2025,10,NORMAND TONJER,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-10-01,2025,10,SKANDI LASER,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-10-01,2025,10,SKANDI MINDER,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-11-01,2025,11,BB OCTOPUS,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-11-01,2025,11,BEAR,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-11-01,2025,11,BEN VIKING,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-11-01,2025,11,BOKA FULMAR,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2025-11-01,2025,11,SEACOR NILE,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-01-01,2026,1,ACE CRATHES,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-01-01,2026,1,ATLANTICA DUKE,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-01-01,2026,1,AURORA GALAXY,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-01-01,2026,1,AURORA SALTFJORD,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-01-01,2026,1,NORMAND SAPPHIRE,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-01-01,2026,1,SAR MARINER,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-01-01,2026,1,SKANDI LASER,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-01-01,2026,1,SKANDI LIFTER,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-01-01,2026,1,SKANDI LOGGER,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-02-01,2026,2,AURORA SALTFJORD,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-02-01,2026,2,BB OCTOPUS,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-02-01,2026,2,BEN VIKING,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-02-01,2026,2,DELTA RESOLUTE (EX REM MIST),departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-02-01,2026,2,ENERGY PARTNER,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-02-01,2026,2,NORMAND SAPPHIRE,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-02-01,2026,2,NORMAND TONJER,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-02-01,2026,2,PSV FLORYA (EX ENERGY EMPRESS),departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-02-01,2026,2,SIEM CHALLENGER,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-02-01,2026,2,SKANDI LASER,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-03-01,2026,3,HORIZON ARCTIC,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-03-01,2026,3,ISLAND VICTORY,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-03-01,2026,3,MH MONSOON,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-03-01,2026,3,SAR BRAGE,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-03-01,2026,3,SAR MARINER,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-03-01,2026,3,SKANDI MASTER,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-03-01,2026,3,SKANDI MINDER,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-04-01,2026,4,BEAR,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-04-01,2026,4,BOKA WINGER,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-04-01,2026,4,ENERGY DUCHESS,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-04-01,2026,4,HIGHLAND CHIEFTAIN,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-04-01,2026,4,NORMAND SAPPHIRE,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-04-01,2026,4,PACIFIC DISCOVERY,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-04-01,2026,4,PSV YESILKOY (EX ENERGY PASSION),departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-05-01,2026,5,ACE DISCOVERER,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-05-01,2026,5,ISLAND VICTORY,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-05-01,2026,5,PACIFIC DISPATCH,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-05-01,2026,5,TOR VIKING,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-06-01,2026,6,AURORA CHALLENGER,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-06-01,2026,6,OLYMPIC ZEUS,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-06-01,2026,6,SKANDI LASER,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-07-01,2026,7,ACE BRAEMAR,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-07-01,2026,7,MH FREEDOM,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-07-01,2026,7,NORMAND SAPPHIRE,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-07-01,2026,7,SKANDI HERA,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-08-01,2026,8,AURORA COOPER,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-08-01,2026,8,BOULDER,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-08-01,2026,8,FRAM PRINCE,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-08-01,2026,8,PACIFIC DISCOVERY,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-08-01,2026,8,SEA EVERTSEN,arrival_from,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-08-01,2026,8,SKANDI MASTER,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0
+2026-08-01,2026,8,SKANDI SALTFJORD,departure_to,,North Sea spot market vessel move (term/layup moves excluded per report footnote),seabrokers,5.0

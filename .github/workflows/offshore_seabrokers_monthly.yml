@@ -33,7 +33,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.12'
           cache: 'pip'
           cache-dependency-path: requirements_knowledge.txt
 
@@ -59,11 +59,33 @@ jobs:
           fi
           python scripts/offshore/build_offshore_cache.py
           python scripts/extract/publishers/run_seabrokers_llamaparse.py || true
+          python scripts/verify/build_corpus_inventory.py --merge-existing || true
+          python scripts/sync_extraction_register.py || true
           python scripts/audit/generate_cadence_audit.py || true
 
       - name: Commit and Push Offshore Updates
         run: |
-          git add corpus/05-seabrokers/ corpus/CORPUS_REGISTRY_AND_CADENCE_AUDIT.md corpus/CORPUS_PUBLICATION_CADENCE_AND_AUDIT.xlsx reports/seabrokers_catalog.json data/reports/seabrokers_catalog.json data/derived/seabrokers_osv_dayrates.csv data/derived/offshore_summary.json data/extracted/md/seabrokers/ data/extracted/series/ data/extracted/charts/ || true
+          for fpath in corpus/05-seabrokers data/extracted/charts reports/seabrokers_catalog.json; do
+            if [ -e "$fpath" ]; then
+              git add -f "$fpath" || true
+            fi
+          done
+          for tpath in \
+            data/reports/seabrokers_catalog.json \
+            data/derived \
+            data/extracted/llamaparse_seabrokers/_run_state.json \
+            corpus/_inventory_untracked.json \
+            corpus/CORPUS_REGISTRY_AND_CADENCE_AUDIT.md \
+            docs/CORPUS_CADENCE_AND_AUDIT.md \
+            corpus/CORPUS_PUBLICATION_CADENCE_AND_AUDIT.xlsx \
+            data/extracted/md/seabrokers \
+            data/extracted/series \
+            data/extracted/EXTRACTION_REGISTER.json \
+            docs/EXTRACTION_REGISTER.md; do
+            if [ -e "$tpath" ]; then
+              git add "$tpath" || true
+            fi
+          done
           if git diff --staged --quiet; then
             echo "No new Seabreeze reports or offshore rate changes to commit."
             exit 0

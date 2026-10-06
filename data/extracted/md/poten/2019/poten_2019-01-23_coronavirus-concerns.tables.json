@@ -1,0 +1,34 @@
+{
+  "issue_date": "2019-01-23",
+  "year": 2019,
+  "title": "Coronavirus Concerns",
+  "source_file": "corpus/04-poten/pdfs/2019/Weekly-Opinion-23-January-2019-Coronavirus-Concerns.pdf",
+  "tables_count": 0,
+  "charts_count": 2,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2019-01-23_coronavirus-concerns_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2019/poten_2019-01-23_coronavirus-concerns_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-01-23_coronavirus-concerns_chart1.png",
+      "width": 926,
+      "height": 847
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2019-01-23_coronavirus-concerns_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2019/poten_2019-01-23_coronavirus-concerns_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-01-23_coronavirus-concerns_chart2.png",
+      "width": 937,
+      "height": 519
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

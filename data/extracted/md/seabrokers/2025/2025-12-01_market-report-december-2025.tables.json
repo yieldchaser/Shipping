@@ -1,0 +1,448 @@
+{
+  "title": "Seabreeze Monthly Offshore Market Report - December 2025",
+  "issue_date": "2025-12-01",
+  "year": 2025,
+  "month": 12,
+  "source_file": "corpus/05-seabrokers/pdfs/2025-12-01_market-report-december-2025.pdf",
+  "tables_count": 7,
+  "tables": [
+    {
+      "title": "North Sea Average Spot Rates",
+      "columns": [
+        "Category",
+        "Month",
+        "2024",
+        "2025"
+      ],
+      "row_count": 12,
+      "rows": [
+        {
+          "Category": "PSVs < 900m\u00b2",
+          "Month": "Jan",
+          "2024": "\u00a39,028",
+          "2025": "\u00a35,770"
+        },
+        {
+          "Category": "PSVs < 900m\u00b2",
+          "Month": "Feb",
+          "2024": "\u00a313,432",
+          "2025": "\u00a36,431"
+        },
+        {
+          "Category": "PSVs < 900m\u00b2",
+          "Month": "Mar",
+          "2024": "\u00a36,349",
+          "2025": "\u00a36,568"
+        },
+        {
+          "Category": "PSVs < 900m\u00b2",
+          "Month": "Apr",
+          "2024": "\u00a312,758",
+          "2025": "\u00a312,480"
+        },
+        {
+          "Category": "PSVs < 900m\u00b2",
+          "Month": "May",
+          "2024": "\u00a315,948",
+          "2025": "\u00a321,299"
+        },
+        {
+          "Category": "PSVs < 900m\u00b2",
+          "Month": "Jun",
+          "2024": "\u00a315,926",
+          "2025": "\u00a319,364"
+        },
+        {
+          "Category": "PSVs < 900m\u00b2",
+          "Month": "Jul",
+          "2024": "\u00a313,826",
+          "2025": "\u00a34,280"
+        },
+        {
+          "Category": "PSVs < 900m\u00b2",
+          "Month": "Aug",
+          "2024": "\u00a38,317",
+          "2025": "\u00a34,737"
+        },
+        {
+          "Category": "PSVs < 900m\u00b2",
+          "Month": "Sep",
+          "2024": "\u00a316,953",
+          "2025": "\u00a36,889"
+        },
+        {
+          "Category": "PSVs < 900m\u00b2",
+          "Month": "Oct",
+          "2024": "\u00a36,806",
+          "2025": "\u00a38,202"
+        },
+        {
+          "Category": "PSVs < 900m\u00b2",
+          "Month": "Nov",
+          "2024": "\u00a34,643",
+          "2025": "\u00a35,452"
+        },
+        {
+          "Category": "PSVs < 900m\u00b2",
+          "Month": "Dec",
+          "2024": "\u00a37,306",
+          "2025": "\u00a35,958"
+        }
+      ]
+    },
+    {
+      "title": "North Sea Average Spot Rates",
+      "columns": [
+        "Category",
+        "Month",
+        "2024",
+        "2025"
+      ],
+      "row_count": 12,
+      "rows": [
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "Jan",
+          "2024": "\u00a311,365",
+          "2025": "\u00a37,034"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "Feb",
+          "2024": "\u00a310,967",
+          "2025": "\u00a38,494"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "Mar",
+          "2024": "\u00a37,182",
+          "2025": "\u00a37,134"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "Apr",
+          "2024": "\u00a315,311",
+          "2025": "\u00a312,893"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "May",
+          "2024": "\u00a318,071",
+          "2025": "\u00a320,952"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "Jun",
+          "2024": "\u00a319,485",
+          "2025": "\u00a323,131"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "Jul",
+          "2024": "\u00a314,408",
+          "2025": "\u00a34,974"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "Aug",
+          "2024": "\u00a310,129",
+          "2025": "\u00a35,925"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "Sep",
+          "2024": "\u00a316,375",
+          "2025": "\u00a311,644"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "Oct",
+          "2024": "\u00a37,113",
+          "2025": "\u00a310,369"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "Nov",
+          "2024": "\u00a38,820",
+          "2025": "\u00a37,964"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "Dec",
+          "2024": "\u00a38,926",
+          "2025": "\u00a37,775"
+        }
+      ]
+    },
+    {
+      "title": "North Sea Average Spot Rates",
+      "columns": [
+        "Category",
+        "2024",
+        "2025"
+      ],
+      "row_count": 12,
+      "rows": [
+        {
+          "Category": "AHTS < 22,000 bhp",
+          "2024": "Jan \u00a321,777",
+          "2025": "Jan \u00a328,169"
+        },
+        {
+          "Category": "AHTS < 22,000 bhp",
+          "2024": "Feb \u00a348,559",
+          "2025": "Feb \u00a317,999"
+        },
+        {
+          "Category": "AHTS < 22,000 bhp",
+          "2024": "Mar \u00a351,813",
+          "2025": "Mar \u00a333,856"
+        },
+        {
+          "Category": "AHTS < 22,000 bhp",
+          "2024": "Apr \u00a335,198",
+          "2025": "Apr \u00a376,808"
+        },
+        {
+          "Category": "AHTS < 22,000 bhp",
+          "2024": "May \u00a332,032",
+          "2025": "May \u00a380,618"
+        },
+        {
+          "Category": "AHTS < 22,000 bhp",
+          "2024": "Jun \u00a348,060",
+          "2025": "Jun \u00a328,768"
+        },
+        {
+          "Category": "AHTS < 22,000 bhp",
+          "2024": "Jul \u00a352,140",
+          "2025": "Jul \u00a314,697"
+        },
+        {
+          "Category": "AHTS < 22,000 bhp",
+          "2024": "Aug \u00a339,324",
+          "2025": "Aug \u00a315,899"
+        },
+        {
+          "Category": "AHTS < 22,000 bhp",
+          "2024": "Sep \u00a330,028",
+          "2025": "Sep \u00a336,468"
+        },
+        {
+          "Category": "AHTS < 22,000 bhp",
+          "2024": "Oct \u00a319,442",
+          "2025": "Oct \u00a346,780"
+        },
+        {
+          "Category": "AHTS < 22,000 bhp",
+          "2024": "Nov \u00a324,791",
+          "2025": "Nov \u00a358,240"
+        },
+        {
+          "Category": "AHTS < 22,000 bhp",
+          "2024": "Dec \u00a321,023",
+          "2025": "Dec \u00a398,808"
+        }
+      ]
+    },
+    {
+      "title": "North Sea Average Spot Rates",
+      "columns": [
+        "Category",
+        "2024",
+        "2025"
+      ],
+      "row_count": 12,
+      "rows": [
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "2024": "Jan \u00a327,593",
+          "2025": "Jan \u00a328,294"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "2024": "Feb \u00a353,962",
+          "2025": "Feb \u00a326,428"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "2024": "Mar \u00a345,681",
+          "2025": "Mar \u00a356,798"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "2024": "Apr \u00a333,784",
+          "2025": "Apr \u00a339,962"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "2024": "May \u00a338,361",
+          "2025": "May \u00a391,363"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "2024": "Jun \u00a364,179",
+          "2025": "Jun \u00a332,138"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "2024": "Jul \u00a357,014",
+          "2025": "Jul \u00a314,664"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "2024": "Aug \u00a342,694",
+          "2025": "Aug \u00a316,024"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "2024": "Sep \u00a338,638",
+          "2025": "Sep \u00a337,599"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "2024": "Oct \u00a318,251",
+          "2025": "Oct \u00a375,462"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "2024": "Nov \u00a326,287",
+          "2025": "Nov \u00a380,726"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "2024": "Dec \u00a329,848",
+          "2025": "Dec \u00a398,383"
+        }
+      ]
+    },
+    {
+      "title": "North Sea Average Spot Rates",
+      "columns": [
+        "Category",
+        "2024",
+        "2025"
+      ],
+      "row_count": 4,
+      "rows": [
+        {
+          "Category": "PSVs < 900m\u00b2",
+          "2024": "\u00a310,462",
+          "2025": "\u00a38,463"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "2024": "\u00a311,570",
+          "2025": "\u00a39,567"
+        },
+        {
+          "Category": "AHTS < 22,000 bhp",
+          "2024": "\u00a335,017",
+          "2025": "\u00a347,017"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "2024": "\u00a339,956",
+          "2025": "\u00a344,526"
+        }
+      ]
+    },
+    {
+      "title": "NORTH SEA AVERAGE SPOT RATES DECEMBER 2025",
+      "columns": [
+        "CATEGORY",
+        "AVERAGE RATE DEC 2025",
+        "AVERAGE RATE DEC 2024",
+        "% CHANGE",
+        "MINIMUM",
+        "MAXIMUM"
+      ],
+      "row_count": 4,
+      "rows": [
+        {
+          "CATEGORY": "SUPPLY DUTIES PSVs < 900M\u00b2",
+          "AVERAGE RATE DEC 2025": "\u00a35,958",
+          "AVERAGE RATE DEC 2024": "\u00a37,306",
+          "% CHANGE": "-18.45%",
+          "MINIMUM": "\u00a34,000",
+          "MAXIMUM": "\u00a39,616"
+        },
+        {
+          "CATEGORY": "SUPPLY DUTIES PSVs > 900M\u00b2",
+          "AVERAGE RATE DEC 2025": "\u00a37,775",
+          "AVERAGE RATE DEC 2024": "\u00a38,926",
+          "% CHANGE": "-12.89%",
+          "MINIMUM": "\u00a35,500",
+          "MAXIMUM": "\u00a311,096"
+        },
+        {
+          "CATEGORY": "AHTS DUTIES AHTS < 22,000 BHP",
+          "AVERAGE RATE DEC 2025": "\u00a398,808",
+          "AVERAGE RATE DEC 2024": "\u00a321,023",
+          "% CHANGE": "+370.00%",
+          "MINIMUM": "\u00a332,815",
+          "MAXIMUM": "\u00a3266,299"
+        },
+        {
+          "CATEGORY": "AHTS DUTIES AHTS > 22,000 BHP",
+          "AVERAGE RATE DEC 2025": "\u00a398,383",
+          "AVERAGE RATE DEC 2024": "\u00a329,848",
+          "% CHANGE": "+229.61%",
+          "MINIMUM": "\u00a370,273",
+          "MAXIMUM": "\u00a3129,451"
+        }
+      ]
+    },
+    {
+      "title": "NORTH SEA SPOT AVERAGE UTILISATION DECEMBER 2025",
+      "columns": [
+        "TYPE",
+        "DEC 2025",
+        "NOV 2025",
+        "OCT 2025",
+        "SEP 2025",
+        "AUG 2025",
+        "JUL 2025"
+      ],
+      "row_count": 4,
+      "rows": [
+        {
+          "TYPE": "MED PSV (<900m\u00b2)",
+          "DEC 2025": "56%",
+          "NOV 2025": "53%",
+          "OCT 2025": "54%",
+          "SEP 2025": "64%",
+          "AUG 2025": "56%",
+          "JUL 2025": "39%"
+        },
+        {
+          "TYPE": "LARGE PSV (>900m\u00b2)",
+          "DEC 2025": "70%",
+          "NOV 2025": "77%",
+          "OCT 2025": "61%",
+          "SEP 2025": "86%",
+          "AUG 2025": "83%",
+          "JUL 2025": "54%"
+        },
+        {
+          "TYPE": "MED AHTS (<22,000 bhp)",
+          "DEC 2025": "54%",
+          "NOV 2025": "50%",
+          "OCT 2025": "34%",
+          "SEP 2025": "50%",
+          "AUG 2025": "41%",
+          "JUL 2025": "23%"
+        },
+        {
+          "TYPE": "LARGE AHTS (>22,000 bhp)",
+          "DEC 2025": "72%",
+          "NOV 2025": "78%",
+          "OCT 2025": "56%",
+          "SEP 2025": "58%",
+          "AUG 2025": "50%",
+          "JUL 2025": "37%"
+        }
+      ]
+    }
+  ]
+}

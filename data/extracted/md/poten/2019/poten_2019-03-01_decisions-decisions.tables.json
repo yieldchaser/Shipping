@@ -1,0 +1,62 @@
+{
+  "issue_date": "2019-03-01",
+  "year": 2019,
+  "title": "Decisions Decisions",
+  "source_file": "corpus/04-poten/pdfs/2019/Weekly-Opinion-01-March-2019-Decisions-Decisions.pdf",
+  "tables_count": 1,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2019-03-01_decisions-decisions_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2019/poten_2019-03-01_decisions-decisions_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-03-01_decisions-decisions_chart1.png",
+      "width": 964,
+      "height": 531
+    }
+  ],
+  "tables": [
+    "### VLCC & Suezmax Fleet Age Profile\n\n| Segment | 0-5 Yrs Old | 6-10 Yrs Old | 11-15 Yrs Old | 16+ Yrs Old | Total Fleet | 2019 Deliveries |\n|---|---|---|---|---|---|---|\n| VLCC | 25% | 33% | 19% | 22% | 756 vessels | 79 scheduled |\n| Suezmax | 24% | 35% | 20% | 21% | 583 vessels | 44 scheduled |"
+  ],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [
+    {
+      "issue_date": "2019-03-01",
+      "year": 2019,
+      "report_title": "Decisions Decisions",
+      "segment": "VLCC",
+      "fleet_count_trading": 756,
+      "fleet_count_on_order": 79,
+      "orderbook_pct": "",
+      "orderbook_dwt_m": "",
+      "fleet_dwt_m": "",
+      "average_age_years": "",
+      "pct_0_5_yrs": "25%",
+      "pct_6_10_yrs": "33%",
+      "pct_11_15_yrs": "19%",
+      "pct_16_plus_yrs": "22%",
+      "source_file": "corpus/04-poten/pdfs/2019/Weekly-Opinion-01-March-2019-Decisions-Decisions.pdf"
+    },
+    {
+      "issue_date": "2019-03-01",
+      "year": 2019,
+      "report_title": "Decisions Decisions",
+      "segment": "Suezmax",
+      "fleet_count_trading": 583,
+      "fleet_count_on_order": 44,
+      "orderbook_pct": "",
+      "orderbook_dwt_m": "",
+      "fleet_dwt_m": "",
+      "average_age_years": "",
+      "pct_0_5_yrs": "24%",
+      "pct_6_10_yrs": "35%",
+      "pct_11_15_yrs": "20%",
+      "pct_16_plus_yrs": "21%",
+      "source_file": "corpus/04-poten/pdfs/2019/Weekly-Opinion-01-March-2019-Decisions-Decisions.pdf"
+    }
+  ],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

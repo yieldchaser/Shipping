@@ -1,0 +1,27 @@
+---
+id: "88A2BCE4-0EFF-45DE-ABF6-685D942B5F71"
+source: "Fearnleys"
+sector: "Tanker Route Trends"
+desk: "WAFR/UKC"
+comment_type: "WAFR/UKC"
+comment_subtype: "trend"
+date: "2021-01-21"
+year: 2021
+week: 3
+title: "Fearnleys WAFR/UKC Comment - 2021-01-21"
+---
+
+# Fearnleys WAFR/UKC Comment (2021-01-21)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Sector:** Tanker Route Trends
+- **Desk:** WAFR/UKC
+- **Publication Date:** 2021-01-21 (Week 3)
+- **Comment Type:** WAFR/UKC
+- **Record ID:** `88A2BCE4-0EFF-45DE-ABF6-685D942B5F71`
+
+---
+
+## Market Commentary
+
+Steady

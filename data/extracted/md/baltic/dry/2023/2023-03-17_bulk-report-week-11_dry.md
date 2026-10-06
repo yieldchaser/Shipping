@@ -1,0 +1,45 @@
+---
+title: "Bulk Report – Week 11"
+date: "2023-03-17"
+display_date: "17 March 2023"
+year: 2023
+week: 11
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2023/bulk-report-week-11.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 672
+sections_count: 4
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2023/2023-03-17_bulk-report-week-11_dry.html"
+---
+
+# Bulk Report – Week 11
+
+**Date:** 17 March 2023  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2023/bulk-report-week-11.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2023/bulk-report-week-11.html)  
+
+---
+
+### Capesize
+
+The Capesize lifted $2,401 for its time charter average on Tuesday, but failed to keep up the uprising trend throughout the week. It closed at $15,867, which is still an improvement week-on-week. The Atlantic basin cooled off in the middle of the week with limited cargoes lending further support. The fronthaul run eventually slipped beneath $30,000 on Friday. In the Pacific, the backhaul run was one step away from coming back to positive territory and is currently marked at -$333. The west Australia to Qingdao run climbed above $9, but soon declined back to the mid/high $8s. Coal from east Australia to China appeared active, with some paying close to $20,000 for a round trip at one stage.
+
+### Panamax
+
+It proved to be a muddling week for the Panamax market, which started out positively for owners but ends on something of a tepid nature. In the Atlantic, much of the activity early part of the week was on the fronthaul trips from the America’s with solid levels of support. The end March arrival window ex EC South America was perhaps the exception with rates here under pressure. Fronthaul rates via NC South America hovered around the $22/23,000 level depending on the respective ship’s specs and delivery. Asia returned a similar story with the coal runs ex Indonesia supported early part with several deals concluded around the $17,000 mark for 75,000d-dwt types. However, rates eased back as the weekend approached. Longer trips were lacking and Australia coal runs into India were the only trip supported. Plenty of period activity on the week, $18,750 agreed for one year on an 82,000-dwt delivery China.
+
+### Ultramax/Supramax
+
+The Supramax market has been in a buoyant mood, with the S10TC average gaining 922 over the week to settle at 14,502. It was a quiet start in the Atlantic, but it picked up as the week progressed. Gains were modest with the market described as positional. By the close, more cargoes were coming into the market which lent some confidence. There is healthy demand from the South Atlantic with the tonnage list getting shorter. A 64,000-dwt vessel reported for a USG fronthaul at $20,000pd. A Supramax, meanwhile, was rumoured to have fixed for Brazil to Turkey with grains at $22,000pd.
+
+The Pacific was busy from the start, with healthy coal demand from Indonesia and backhaul cargoes driving the market. This, combined with rising NoPac and Australian round voyage rates, saw sentiment improve as the week progressed. Owners have been unwilling to discount given the stable cargo levels. A 56,000-dwt reported for an Indonesia to China voyage was fixed at $20,000 delivery Singapore. Meanwhile, a 63,000-dwt open Indonesia for a trip to China was at similar levels. An Ultramax was fixed ex-yard for a Nopac round voyage at $17,000pd.
+
+### Handysize
+
+Positivity continued this week. The US Gulf was active with a 40,000-dwt fixing from SW Pass to Morocco with an intended cargo of grains at $15,000, whilst a 38,000-dwt was rumoured to have fixed from Mexico via Florida to the UK in the region of $12,000. In East Coast South America a 37,000-dwt fixed from Santos to Morocco at $16,000. A 37,000-dwt was fixed from Recalada to West Coast South America at $22,000.  In the Mediterranean, a 40,000-dwt fixed passing Canakkale via the Black Sea to the US Gulf with an intended cargo of cement at $16,000. Period was active with a 40,000-dwt fixing ex-yard in Japan for 11 to 14 Months with mid April dates at $16,000. A 38,000-dwt open Continent was rumoured to have fixed for three to five months with Atlantic redelivery at $13,500. A 36,000-dwt open in Algeria was fixed for four to six months at $15,000 with worldwide redelivery.
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  

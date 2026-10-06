@@ -1,0 +1,2352 @@
+[
+  {
+    "headers": [
+      "INDICES",
+      "CURRENT",
+      "LAST WEEK",
+      "LAST YEAR",
+      "W-O-W CHANGE",
+      "Y-O-Y CHANGE"
+    ],
+    "rows": [
+      {
+        "INDICES": "BDI",
+        "CURRENT": "815",
+        "LAST WEEK": "735",
+        "LAST YEAR": "1,545",
+        "W-O-W CHANGE": "+10.88%",
+        "Y-O-Y CHANGE": "-47.25%"
+      },
+      {
+        "INDICES": "BCI",
+        "CURRENT": "840",
+        "LAST WEEK": "874",
+        "LAST YEAR": "2,381",
+        "W-O-W CHANGE": "-3.89%",
+        "Y-O-Y CHANGE": "-64.72%"
+      },
+      {
+        "INDICES": "BPI",
+        "CURRENT": "1,035",
+        "LAST WEEK": "800",
+        "LAST YEAR": "1,509",
+        "W-O-W CHANGE": "+29.38%",
+        "Y-O-Y CHANGE": "-31.41%"
+      },
+      {
+        "INDICES": "BSI",
+        "CURRENT": "677",
+        "LAST WEEK": "603",
+        "LAST YEAR": "1,053",
+        "W-O-W CHANGE": "+12.27%",
+        "Y-O-Y CHANGE": "-35.71%"
+      },
+      {
+        "INDICES": "BHSI",
+        "CURRENT": "398",
+        "LAST WEEK": "377",
+        "LAST YEAR": "568",
+        "W-O-W CHANGE": "+5.57%",
+        "Y-O-Y CHANGE": "-29.93%"
+      }
+    ],
+    "table_id": "table_01",
+    "issue_date": "2025-02-07",
+    "report_week": 6,
+    "source_file": "star_asia_2025_W06_Market-report-Week-6.pdf",
+    "table_type": "indices"
+  },
+  {
+    "headers": [
+      "TYPE",
+      "DWT",
+      "NB CONTRACT",
+      "NB PROMPT DELIVERY",
+      "5 YEARS",
+      "10 YEARS",
+      "15 YEARS"
+    ],
+    "rows": [
+      {
+        "TYPE": "CAPE",
+        "DWT": "180,000",
+        "NB CONTRACT": "74",
+        "NB PROMPT DELIVERY": "75",
+        "5 YEARS": "62",
+        "10 YEARS": "44",
+        "15 YEARS": "27"
+      },
+      {
+        "TYPE": "KAMSARMAX",
+        "DWT": "82,000",
+        "NB CONTRACT": "36",
+        "NB PROMPT DELIVERY": "42",
+        "5 YEARS": "36",
+        "10 YEARS": "27",
+        "15 YEARS": "17"
+      },
+      {
+        "TYPE": "SUPRAMAX",
+        "DWT": "56,000",
+        "NB CONTRACT": "33",
+        "NB PROMPT DELIVERY": "39",
+        "5 YEARS": "34",
+        "10 YEARS": "25",
+        "15 YEARS": "15"
+      },
+      {
+        "TYPE": "HANDY",
+        "DWT": "38,000",
+        "NB CONTRACT": "29",
+        "NB PROMPT DELIVERY": "33",
+        "5 YEARS": "27",
+        "10 YEARS": "20",
+        "15 YEARS": "12"
+      }
+    ],
+    "table_id": "table_02",
+    "issue_date": "2025-02-07",
+    "report_week": 6,
+    "source_file": "star_asia_2025_W06_Market-report-Week-6.pdf",
+    "table_type": "market_data"
+  },
+  {
+    "headers": [
+      "VESSEL NAME",
+      "TYPE",
+      "DWT",
+      "YEAR",
+      "BUILT",
+      "PRICE (MILLION) USD",
+      "COMMENTS / BUYERS"
+    ],
+    "rows": [
+      {
+        "VESSEL NAME": "BERGE KITA",
+        "TYPE": "VLOC",
+        "DWT": "207,851",
+        "YEAR": "2013",
+        "BUILT": "JAPAN",
+        "PRICE (MILLION) USD": "36.7",
+        "COMMENTS / BUYERS": "SEANERGY MARITIME HOLDINGS CORP"
+      },
+      {
+        "VESSEL NAME": "CAPE FRIENDSHIP",
+        "TYPE": "CAPE",
+        "DWT": "185,879",
+        "YEAR": "2005",
+        "BUILT": "JAPAN",
+        "PRICE (MILLION) USD": "16.0",
+        "COMMENTS / BUYERS": "UNDISCLOSED"
+      },
+      {
+        "VESSEL NAME": "GLORIOUSHIP",
+        "TYPE": "CAPE",
+        "DWT": "171,314",
+        "YEAR": "2004",
+        "BUILT": "S. KOREA",
+        "PRICE (MILLION) USD": "15.0",
+        "COMMENTS / BUYERS": "CHINESE BUYERS"
+      },
+      {
+        "VESSEL NAME": "PATRA",
+        "TYPE": "KMAX",
+        "DWT": "80,596",
+        "YEAR": "2012",
+        "BUILT": "JAPAN",
+        "PRICE (MILLION) USD": "15.7",
+        "COMMENTS / BUYERS": "PIONEER"
+      },
+      {
+        "VESSEL NAME": "GLOVIS MERMAID",
+        "TYPE": "SMAX",
+        "DWT": "55,705",
+        "YEAR": "2012",
+        "BUILT": "S. KOREA",
+        "PRICE (MILLION) USD": "17.6",
+        "COMMENTS / BUYERS": "INDIAN BUYERS"
+      },
+      {
+        "VESSEL NAME": "ISA",
+        "TYPE": "HANDY",
+        "DWT": "34,939",
+        "YEAR": "1999",
+        "BUILT": "JAPAN",
+        "PRICE (MILLION) USD": "4.1",
+        "COMMENTS / BUYERS": "UNDISCLOSED"
+      },
+      {
+        "VESSEL NAME": "ES KURE",
+        "TYPE": "HANDY",
+        "DWT": "33,126",
+        "YEAR": "2012",
+        "BUILT": "JAPAN",
+        "PRICE (MILLION) USD": "12.5",
+        "COMMENTS / BUYERS": "VIETNAMESE BUYERS"
+      }
+    ],
+    "table_id": "table_03",
+    "issue_date": "2025-02-07",
+    "report_week": 6,
+    "source_file": "star_asia_2025_W06_Market-report-Week-6.pdf",
+    "table_type": "secondhand_sales"
+  },
+  {
+    "headers": [
+      "Date",
+      "Capesize",
+      "Panamax",
+      "Supramax",
+      "Handysize"
+    ],
+    "rows": [
+      {
+        "Date": "Feb-20",
+        "Capesize": "15,000",
+        "Panamax": "12,000",
+        "Supramax": "10,000",
+        "Handysize": "9000"
+      },
+      {
+        "Date": "May-20",
+        "Capesize": "10,000",
+        "Panamax": "11,000",
+        "Supramax": "9500",
+        "Handysize": "8500"
+      },
+      {
+        "Date": "Aug-20",
+        "Capesize": "18,000",
+        "Panamax": "13,000",
+        "Supramax": "10,000",
+        "Handysize": "9000"
+      },
+      {
+        "Date": "Nov-20",
+        "Capesize": "14,000",
+        "Panamax": "12,500",
+        "Supramax": "9500",
+        "Handysize": "9000"
+      },
+      {
+        "Date": "Feb-21",
+        "Capesize": "20,000",
+        "Panamax": "16,000",
+        "Supramax": "13,000",
+        "Handysize": "17,000"
+      },
+      {
+        "Date": "May-21",
+        "Capesize": "30,000",
+        "Panamax": "25,000",
+        "Supramax": "22,000",
+        "Handysize": "18,000"
+      },
+      {
+        "Date": "Aug-21",
+        "Capesize": "32,000",
+        "Panamax": "28,000",
+        "Supramax": "26,000",
+        "Handysize": "28,000"
+      },
+      {
+        "Date": "Nov-21",
+        "Capesize": "41,000",
+        "Panamax": "30,000",
+        "Supramax": "31,000",
+        "Handysize": "29,000"
+      },
+      {
+        "Date": "Feb-22",
+        "Capesize": "25,000",
+        "Panamax": "22,000",
+        "Supramax": "23,000",
+        "Handysize": "22,000"
+      },
+      {
+        "Date": "May-22",
+        "Capesize": "38,000",
+        "Panamax": "27,000",
+        "Supramax": "26,000",
+        "Handysize": "27,000"
+      },
+      {
+        "Date": "Aug-22",
+        "Capesize": "26,000",
+        "Panamax": "25,000",
+        "Supramax": "25,000",
+        "Handysize": "11,000"
+      },
+      {
+        "Date": "Nov-22",
+        "Capesize": "13,000",
+        "Panamax": "13,000",
+        "Supramax": "12,500",
+        "Handysize": "12,000"
+      },
+      {
+        "Date": "Feb-23",
+        "Capesize": "17,000",
+        "Panamax": "18,000",
+        "Supramax": "17,500",
+        "Handysize": "15,000"
+      },
+      {
+        "Date": "May-23",
+        "Capesize": "19,000",
+        "Panamax": "18,500",
+        "Supramax": "17,000",
+        "Handysize": "15,500"
+      },
+      {
+        "Date": "Aug-23",
+        "Capesize": "10,000",
+        "Panamax": "12,000",
+        "Supramax": "12,500",
+        "Handysize": "9500"
+      },
+      {
+        "Date": "Nov-23",
+        "Capesize": "13,000",
+        "Panamax": "14,000",
+        "Supramax": "14,500",
+        "Handysize": "11,500"
+      },
+      {
+        "Date": "Feb-24",
+        "Capesize": "28,000",
+        "Panamax": "18,000",
+        "Supramax": "17,000",
+        "Handysize": "13,500"
+      },
+      {
+        "Date": "May-24",
+        "Capesize": "24,000",
+        "Panamax": "17,500",
+        "Supramax": "17,000",
+        "Handysize": "14,000"
+      },
+      {
+        "Date": "Aug-24",
+        "Capesize": "29,000",
+        "Panamax": "18,000",
+        "Supramax": "17,500",
+        "Handysize": "14,500"
+      },
+      {
+        "Date": "Nov-24",
+        "Capesize": "29,000",
+        "Panamax": "18,500",
+        "Supramax": "18,000",
+        "Handysize": "15,000"
+      },
+      {
+        "Date": "Feb-25",
+        "Capesize": "16,000",
+        "Panamax": "12,500",
+        "Supramax": "12,000",
+        "Handysize": "11,000"
+      }
+    ],
+    "table_id": "table_04",
+    "issue_date": "2025-02-07",
+    "report_week": 6,
+    "source_file": "star_asia_2025_W06_Market-report-Week-6.pdf",
+    "table_type": "market_data"
+  },
+  {
+    "headers": [
+      "INDICES",
+      "CURRENT",
+      "LAST WEEK",
+      "LAST YEAR",
+      "W-O-W CHANGE",
+      "Y-O-Y CHANGE"
+    ],
+    "rows": [
+      {
+        "INDICES": "BDTI",
+        "CURRENT": "903",
+        "LAST WEEK": "876",
+        "LAST YEAR": "1,268",
+        "W-O-W CHANGE": "+3.08%",
+        "Y-O-Y CHANGE": "-28.79%"
+      },
+      {
+        "INDICES": "BCTI",
+        "CURRENT": "700",
+        "LAST WEEK": "662",
+        "LAST YEAR": "1,126",
+        "W-O-W CHANGE": "+5.74%",
+        "Y-O-Y CHANGE": "-37.83%"
+      }
+    ],
+    "table_id": "table_05",
+    "issue_date": "2025-02-07",
+    "report_week": 6,
+    "source_file": "star_asia_2025_W06_Market-report-Week-6.pdf",
+    "table_type": "indices"
+  },
+  {
+    "headers": [
+      "TYPE",
+      "DWT",
+      "NB CONTRACT",
+      "NB PROMPT DELIVERY",
+      "5 YEARS",
+      "10 YEARS",
+      "15 YEARS"
+    ],
+    "rows": [
+      {
+        "TYPE": "VLCC",
+        "DWT": "310,000",
+        "NB CONTRACT": "128",
+        "NB PROMPT DELIVERY": "143",
+        "5 YEARS": "114",
+        "10 YEARS": "84",
+        "15 YEARS": "56"
+      },
+      {
+        "TYPE": "SUEZMAX",
+        "DWT": "160,000",
+        "NB CONTRACT": "89",
+        "NB PROMPT DELIVERY": "97",
+        "5 YEARS": "82",
+        "10 YEARS": "66",
+        "15 YEARS": "49"
+      },
+      {
+        "TYPE": "AFRAMAX",
+        "DWT": "115,000",
+        "NB CONTRACT": "74",
+        "NB PROMPT DELIVERY": "85",
+        "5 YEARS": "71",
+        "10 YEARS": "60",
+        "15 YEARS": "43"
+      },
+      {
+        "TYPE": "LR1",
+        "DWT": "73,000",
+        "NB CONTRACT": "61",
+        "NB PROMPT DELIVERY": "67",
+        "5 YEARS": "57",
+        "10 YEARS": "47",
+        "15 YEARS": "31"
+      },
+      {
+        "TYPE": "MR",
+        "DWT": "51,000",
+        "NB CONTRACT": "51",
+        "NB PROMPT DELIVERY": "52",
+        "5 YEARS": "49",
+        "10 YEARS": "40",
+        "15 YEARS": "27"
+      }
+    ],
+    "table_id": "table_06",
+    "issue_date": "2025-02-07",
+    "report_week": 6,
+    "source_file": "star_asia_2025_W06_Market-report-Week-6.pdf",
+    "table_type": "market_data"
+  },
+  {
+    "headers": [
+      "VESSEL NAME",
+      "TYPE",
+      "DWT",
+      "YEAR",
+      "BUILT",
+      "PRICE (MILLION) USD",
+      "COMMENTS / BUYERS"
+    ],
+    "rows": [
+      {
+        "VESSEL NAME": "GOLD PEARL",
+        "TYPE": "VLCC",
+        "DWT": "318,669",
+        "YEAR": "2005",
+        "BUILT": "S. KOREA",
+        "PRICE (MILLION) USD": "32.0",
+        "COMMENTS / BUYERS": "UNDISCLOSED"
+      },
+      {
+        "VESSEL NAME": "WAFRAH",
+        "TYPE": "VLCC",
+        "DWT": "317,788",
+        "YEAR": "2007",
+        "BUILT": "S. KOREA",
+        "PRICE (MILLION) USD": "40.0",
+        "COMMENTS / BUYERS": "UNDISCLOSED"
+      },
+      {
+        "VESSEL NAME": "KARA SEA",
+        "TYPE": "AFRA",
+        "DWT": "115,191",
+        "YEAR": "2010",
+        "BUILT": "JAPAN",
+        "PRICE (MILLION) USD": "36.9",
+        "COMMENTS / BUYERS": "UNDISCLOSED"
+      },
+      {
+        "VESSEL NAME": "SEA SENOR",
+        "TYPE": "AFRA",
+        "DWT": "109,647",
+        "YEAR": "2006",
+        "BUILT": "CHINA",
+        "PRICE (MILLION) USD": "28.0",
+        "COMMENTS / BUYERS": "UNDISCLOSED"
+      },
+      {
+        "VESSEL NAME": "SOUSTA",
+        "TYPE": "AFRA",
+        "DWT": "106,405",
+        "YEAR": "2007",
+        "BUILT": "JAPAN",
+        "PRICE (MILLION) USD": "31.0",
+        "COMMENTS / BUYERS": "UNDISCLOSED"
+      },
+      {
+        "VESSEL NAME": "NEMO",
+        "TYPE": "AFRA",
+        "DWT": "105,773",
+        "YEAR": "2008",
+        "BUILT": "JAPAN",
+        "PRICE (MILLION) USD": "37.5",
+        "COMMENTS / BUYERS": "CHINESE BUYERS"
+      },
+      {
+        "VESSEL NAME": "CIELO DI HOUSTON",
+        "TYPE": "LRI",
+        "DWT": "74,999",
+        "YEAR": "2019",
+        "BUILT": "VIETNAM",
+        "PRICE (MILLION) USD": "26.5",
+        "COMMENTS / BUYERS": "UNDISCLOSED"
+      },
+      {
+        "VESSEL NAME": "PS AGUSTA",
+        "TYPE": "MR",
+        "DWT": "51,063",
+        "YEAR": "2011",
+        "BUILT": "S. KOREA",
+        "PRICE (MILLION) USD": "25.5",
+        "COMMENTS / BUYERS": "MIDDLE EASTERN BUYERS"
+      },
+      {
+        "VESSEL NAME": "BOW OCEANIC",
+        "TYPE": "PROD / CHEM",
+        "DWT": "17,460",
+        "YEAR": "1997",
+        "BUILT": "NORWAY",
+        "PRICE (MILLION) USD": "6.5 (SS)",
+        "COMMENTS / BUYERS": "CHINESE BUYERS"
+      }
+    ],
+    "table_id": "table_07",
+    "issue_date": "2025-02-07",
+    "report_week": 6,
+    "source_file": "star_asia_2025_W06_Market-report-Week-6.pdf",
+    "table_type": "secondhand_sales"
+  },
+  {
+    "headers": [
+      "Date",
+      "VLCC",
+      "Suezmax",
+      "Aframax",
+      "MR"
+    ],
+    "rows": [
+      {
+        "Date": "Feb-20",
+        "VLCC": "47,000",
+        "Suezmax": "34,000",
+        "Aframax": "26,000",
+        "MR": "16,000"
+      },
+      {
+        "Date": "May-20",
+        "VLCC": "78,000",
+        "Suezmax": "45,000",
+        "Aframax": "37,000",
+        "MR": "17,000"
+      },
+      {
+        "Date": "Aug-20",
+        "VLCC": "46,000",
+        "Suezmax": "26,000",
+        "Aframax": "24,000",
+        "MR": "14,000"
+      },
+      {
+        "Date": "Nov-20",
+        "VLCC": "36,000",
+        "Suezmax": "24,000",
+        "Aframax": "18,000",
+        "MR": "13,000"
+      },
+      {
+        "Date": "Feb-21",
+        "VLCC": "24,000",
+        "Suezmax": "16,000",
+        "Aframax": "15,000",
+        "MR": "12,000"
+      },
+      {
+        "Date": "May-21",
+        "VLCC": "22,000",
+        "Suezmax": "15,000",
+        "Aframax": "15,000",
+        "MR": "12,000"
+      },
+      {
+        "Date": "Aug-21",
+        "VLCC": "19,000",
+        "Suezmax": "15,000",
+        "Aframax": "14,000",
+        "MR": "12,000"
+      },
+      {
+        "Date": "Nov-21",
+        "VLCC": "18,000",
+        "Suezmax": "15,000",
+        "Aframax": "14,000",
+        "MR": "12,000"
+      },
+      {
+        "Date": "Feb-22",
+        "VLCC": "17,000",
+        "Suezmax": "15,000",
+        "Aframax": "15,000",
+        "MR": "14,000"
+      },
+      {
+        "Date": "May-22",
+        "VLCC": "16,000",
+        "Suezmax": "16,000",
+        "Aframax": "22,000",
+        "MR": "14,000"
+      },
+      {
+        "Date": "Aug-22",
+        "VLCC": "16,000",
+        "Suezmax": "20,000",
+        "Aframax": "44,000",
+        "MR": "27,000"
+      },
+      {
+        "Date": "Nov-22",
+        "VLCC": "46,000",
+        "Suezmax": "34,000",
+        "Aframax": "34,000",
+        "MR": "27,000"
+      },
+      {
+        "Date": "Feb-23",
+        "VLCC": "45,000",
+        "Suezmax": "38,000",
+        "Aframax": "47,000",
+        "MR": "33,000"
+      },
+      {
+        "Date": "May-23",
+        "VLCC": "44,000",
+        "Suezmax": "37,000",
+        "Aframax": "46,000",
+        "MR": "34,000"
+      },
+      {
+        "Date": "Aug-23",
+        "VLCC": "43,000",
+        "Suezmax": "36,000",
+        "Aframax": "45,000",
+        "MR": "33,000"
+      },
+      {
+        "Date": "Nov-23",
+        "VLCC": "44,000",
+        "Suezmax": "37,000",
+        "Aframax": "45,000",
+        "MR": "33,000"
+      },
+      {
+        "Date": "Feb-24",
+        "VLCC": "47,000",
+        "Suezmax": "38,000",
+        "Aframax": "46,000",
+        "MR": "34,000"
+      },
+      {
+        "Date": "May-24",
+        "VLCC": "46,000",
+        "Suezmax": "37,000",
+        "Aframax": "46,000",
+        "MR": "35,000"
+      },
+      {
+        "Date": "Aug-24",
+        "VLCC": "45,000",
+        "Suezmax": "36,000",
+        "Aframax": "45,000",
+        "MR": "35,000"
+      },
+      {
+        "Date": "Nov-24",
+        "VLCC": "44,000",
+        "Suezmax": "35,000",
+        "Aframax": "44,000",
+        "MR": "34,000"
+      },
+      {
+        "Date": "Feb-25",
+        "VLCC": "46,000",
+        "Suezmax": "32,000",
+        "Aframax": "28,000",
+        "MR": "20,000"
+      }
+    ],
+    "table_id": "table_08",
+    "issue_date": "2025-02-07",
+    "report_week": 6,
+    "source_file": "star_asia_2025_W06_Market-report-Week-6.pdf",
+    "table_type": "market_data"
+  },
+  {
+    "headers": [
+      "CONTAINERS (BY TEU)",
+      "GEARED / GEARLESS",
+      "NB CONTRACT",
+      "NB PROMPT DELIVERY",
+      "5 YEARS",
+      "10 YEARS",
+      "15 YEARS"
+    ],
+    "rows": [
+      {
+        "CONTAINERS (BY TEU)": "900 - 1,200",
+        "GEARED / GEARLESS": "Geared",
+        "NB CONTRACT": "24",
+        "NB PROMPT DELIVERY": "24",
+        "5 YEARS": "17",
+        "10 YEARS": "14",
+        "15 YEARS": "8"
+      },
+      {
+        "CONTAINERS (BY TEU)": "1,600 - 1,850",
+        "GEARED / GEARLESS": "Geared",
+        "NB CONTRACT": "30",
+        "NB PROMPT DELIVERY": "33",
+        "5 YEARS": "25",
+        "10 YEARS": "19",
+        "15 YEARS": "15"
+      },
+      {
+        "CONTAINERS (BY TEU)": "2,700 - 2,900",
+        "GEARED / GEARLESS": "Gearless",
+        "NB CONTRACT": "41",
+        "NB PROMPT DELIVERY": "43",
+        "5 YEARS": "34",
+        "10 YEARS": "27",
+        "15 YEARS": "23"
+      },
+      {
+        "CONTAINERS (BY TEU)": "5,100",
+        "GEARED / GEARLESS": "Gearless",
+        "NB CONTRACT": "81",
+        "NB PROMPT DELIVERY": "77",
+        "5 YEARS": "66",
+        "10 YEARS": "35",
+        "15 YEARS": "32"
+      }
+    ],
+    "table_id": "table_09",
+    "issue_date": "2025-02-07",
+    "report_week": 6,
+    "source_file": "star_asia_2025_W06_Market-report-Week-6.pdf",
+    "table_type": "market_data"
+  },
+  {
+    "headers": [
+      "VESSEL NAME",
+      "TYPE",
+      "TEU",
+      "YEAR",
+      "BUILT",
+      "PRICE (MILLION) USD",
+      "COMMENTS / BUYERS"
+    ],
+    "rows": [
+      {
+        "VESSEL NAME": "-",
+        "TYPE": "-",
+        "TEU": "-",
+        "YEAR": "-",
+        "BUILT": "-",
+        "PRICE (MILLION) USD": "-",
+        "COMMENTS / BUYERS": "-"
+      }
+    ],
+    "table_id": "table_10",
+    "issue_date": "2025-02-07",
+    "report_week": 6,
+    "source_file": "star_asia_2025_W06_Market-report-Week-6.pdf",
+    "table_type": "market_data"
+  },
+  {
+    "headers": [
+      "Date",
+      "1,000 TEU grd",
+      "1,700 TEU grd",
+      "2,750 TEU gls",
+      "9,000 TEU Eco"
+    ],
+    "rows": [
+      {
+        "Date": "Feb-20",
+        "1,000 TEU grd": "8000",
+        "1,700 TEU grd": "8000",
+        "2,750 TEU gls": "8000",
+        "9,000 TEU Eco": "38,000"
+      },
+      {
+        "Date": "May-20",
+        "1,000 TEU grd": "5000",
+        "1,700 TEU grd": "6000",
+        "2,750 TEU gls": "10,000",
+        "9,000 TEU Eco": "22,000"
+      },
+      {
+        "Date": "Aug-20",
+        "1,000 TEU grd": "6000",
+        "1,700 TEU grd": "7000",
+        "2,750 TEU gls": "15,000",
+        "9,000 TEU Eco": "25,000"
+      },
+      {
+        "Date": "Nov-20",
+        "1,000 TEU grd": "8000",
+        "1,700 TEU grd": "10,000",
+        "2,750 TEU gls": "20,000",
+        "9,000 TEU Eco": "35,000"
+      },
+      {
+        "Date": "Feb-21",
+        "1,000 TEU grd": "10,000",
+        "1,700 TEU grd": "12,000",
+        "2,750 TEU gls": "25,000",
+        "9,000 TEU Eco": "45,000"
+      },
+      {
+        "Date": "May-21",
+        "1,000 TEU grd": "15,000",
+        "1,700 TEU grd": "18,000",
+        "2,750 TEU gls": "35,000",
+        "9,000 TEU Eco": "60,000"
+      },
+      {
+        "Date": "Aug-21",
+        "1,000 TEU grd": "38,000",
+        "1,700 TEU grd": "48,000",
+        "2,750 TEU gls": "75,000",
+        "9,000 TEU Eco": "145,000"
+      },
+      {
+        "Date": "Nov-21",
+        "1,000 TEU grd": "38,000",
+        "1,700 TEU grd": "55,000",
+        "2,750 TEU gls": "78,000",
+        "9,000 TEU Eco": "145,000"
+      },
+      {
+        "Date": "Feb-22",
+        "1,000 TEU grd": "38,000",
+        "1,700 TEU grd": "62,000",
+        "2,750 TEU gls": "80,000",
+        "9,000 TEU Eco": "170,000"
+      },
+      {
+        "Date": "May-22",
+        "1,000 TEU grd": "38,000",
+        "1,700 TEU grd": "62,000",
+        "2,750 TEU gls": "80,000",
+        "9,000 TEU Eco": "170,000"
+      },
+      {
+        "Date": "Aug-22",
+        "1,000 TEU grd": "15,000",
+        "1,700 TEU grd": "15,000",
+        "2,750 TEU gls": "18,000",
+        "9,000 TEU Eco": "55,000"
+      },
+      {
+        "Date": "Nov-22",
+        "1,000 TEU grd": "15,000",
+        "1,700 TEU grd": "15,000",
+        "2,750 TEU gls": "18,000",
+        "9,000 TEU Eco": "55,000"
+      },
+      {
+        "Date": "Feb-23",
+        "1,000 TEU grd": "15,000",
+        "1,700 TEU grd": "15,000",
+        "2,750 TEU gls": "18,000",
+        "9,000 TEU Eco": "55,000"
+      },
+      {
+        "Date": "May-23",
+        "1,000 TEU grd": "15,000",
+        "1,700 TEU grd": "15,000",
+        "2,750 TEU gls": "18,000",
+        "9,000 TEU Eco": "58,000"
+      },
+      {
+        "Date": "Aug-23",
+        "1,000 TEU grd": "15,000",
+        "1,700 TEU grd": "15,000",
+        "2,750 TEU gls": "18,000",
+        "9,000 TEU Eco": "58,000"
+      },
+      {
+        "Date": "Nov-23",
+        "1,000 TEU grd": "12,000",
+        "1,700 TEU grd": "12,000",
+        "2,750 TEU gls": "15,000",
+        "9,000 TEU Eco": "40,000"
+      },
+      {
+        "Date": "Feb-24",
+        "1,000 TEU grd": "10,000",
+        "1,700 TEU grd": "10,000",
+        "2,750 TEU gls": "15,000",
+        "9,000 TEU Eco": "40,000"
+      },
+      {
+        "Date": "May-24",
+        "1,000 TEU grd": "12,000",
+        "1,700 TEU grd": "25,000",
+        "2,750 TEU gls": "35,000",
+        "9,000 TEU Eco": "85,000"
+      },
+      {
+        "Date": "Aug-24",
+        "1,000 TEU grd": "14,000",
+        "1,700 TEU grd": "25,000",
+        "2,750 TEU gls": "36,000",
+        "9,000 TEU Eco": "95,000"
+      },
+      {
+        "Date": "Nov-24",
+        "1,000 TEU grd": "14,000",
+        "1,700 TEU grd": "23,000",
+        "2,750 TEU gls": "36,000",
+        "9,000 TEU Eco": "100,000"
+      },
+      {
+        "Date": "Feb-25",
+        "1,000 TEU grd": "14,000",
+        "1,700 TEU grd": "24,000",
+        "2,750 TEU gls": "36,000",
+        "9,000 TEU Eco": "105,000"
+      }
+    ],
+    "table_id": "table_11",
+    "issue_date": "2025-02-07",
+    "report_week": 6,
+    "source_file": "star_asia_2025_W06_Market-report-Week-6.pdf",
+    "table_type": "market_data"
+  },
+  {
+    "issue_date": "2025-02-07",
+    "report_week": 6,
+    "source_file": "star_asia_2025_W06_Market-report-Week-6.pdf",
+    "table_type": "indicative_scrap_prices",
+    "title": "Ship Recycling Market Snapshot (USD / LDT)",
+    "header": [
+      "DESTINATION",
+      "TANKERS",
+      "BULKERS",
+      "MPP/GENERAL CARGO",
+      "CONTAINERS",
+      "OUTLOOK / SENTIMENTS"
+    ],
+    "rows": [
+      [
+        "Alang, India",
+        "$450-460",
+        "$430-440",
+        "$440-450",
+        "$460-470",
+        "WEAK"
+      ],
+      [
+        "Chattogram, Bangladesh",
+        "$460-470",
+        "$450-460",
+        "$440-450",
+        "$470-480",
+        "WEAK"
+      ],
+      [
+        "Gaddani, Pakistan",
+        "$440-450",
+        "$420-430",
+        "$420-430",
+        "$460-470",
+        "WEAK"
+      ],
+      [
+        "Aliaga, Turkey",
+        "$320-330",
+        "$300-310",
+        "$290-300",
+        "$330-340",
+        "STABLE"
+      ]
+    ],
+    "repaired": true
+  },
+  {
+    "headers": [
+      "DESTINATION",
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "rows": [
+      {
+        "DESTINATION": "ALANG, INDIA",
+        "2020": "380",
+        "2021": "410",
+        "2022": "600",
+        "2023": "540",
+        "2024": "500"
+      },
+      {
+        "DESTINATION": "CHATTOGRAM, BANGLADESH",
+        "2020": "370",
+        "2021": "430",
+        "2022": "620",
+        "2023": "550",
+        "2024": "530"
+      },
+      {
+        "DESTINATION": "GADDANI, PAKISTAN",
+        "2020": "360",
+        "2021": "410",
+        "2022": "610",
+        "2023": "560",
+        "2024": "530"
+      },
+      {
+        "DESTINATION": "ALIAGA, TURKEY",
+        "2020": "230",
+        "2021": "240",
+        "2022": "360",
+        "2023": "320",
+        "2024": "320"
+      }
+    ],
+    "table_id": "table_13",
+    "issue_date": "2025-02-07",
+    "report_week": 6,
+    "source_file": "star_asia_2025_W06_Market-report-Week-6.pdf",
+    "table_type": "market_data"
+  },
+  {
+    "headers": [
+      "VESSEL NAME",
+      "LDT",
+      "YEAR / BUILT",
+      "TYPE",
+      "PRICE (USD/LDT LT)",
+      "COMMENTS"
+    ],
+    "rows": [
+      {
+        "VESSEL NAME": "MILLENNIUM LEADER",
+        "LDT": "4,493",
+        "YEAR / BUILT": "1996 / JAPAN",
+        "TYPE": "GEN. CARGO /RORO",
+        "PRICE (USD/LDT LT)": "420",
+        "COMMENTS": "AS IS SINGAPORE FOR HKC GREEN RECYCLING"
+      },
+      {
+        "VESSEL NAME": "ALEK",
+        "LDT": "3,090",
+        "YEAR / BUILT": "1988 / USSR",
+        "TYPE": "GEN. CARGO",
+        "PRICE (USD/LDT LT)": "UNDISCLOSED",
+        "COMMENTS": "DELIVERED CHATTOGRAM"
+      },
+      {
+        "VESSEL NAME": "ZENITH",
+        "LDT": "3,826",
+        "YEAR / BUILT": "1995 / S. KOREA",
+        "TYPE": "CONTAINER",
+        "PRICE (USD/LDT LT)": "UNDISCLOSED",
+        "COMMENTS": "DELIVERED CHATTOGRAM"
+      },
+      {
+        "VESSEL NAME": "TALENT BLU",
+        "LDT": "3,588",
+        "YEAR / BUILT": "2008 / CHINA",
+        "TYPE": "BULKER",
+        "PRICE (USD/LDT LT)": "464.50",
+        "COMMENTS": "DELIVERED ALANG (WITH 140T FO & 15T MGO ROB)"
+      }
+    ],
+    "table_id": "table_14",
+    "issue_date": "2025-02-07",
+    "report_week": 6,
+    "source_file": "star_asia_2025_W06_Market-report-Week-6.pdf",
+    "table_type": "demolition_sales"
+  },
+  {
+    "headers": [
+      "Date",
+      "Price"
+    ],
+    "rows": [
+      {
+        "Date": "Feb-2020",
+        "Price": "380"
+      },
+      {
+        "Date": "May-2020",
+        "Price": "280"
+      },
+      {
+        "Date": "Aug-2020",
+        "Price": "270"
+      },
+      {
+        "Date": "Nov-2020",
+        "Price": "300"
+      },
+      {
+        "Date": "Feb-2021",
+        "Price": "400"
+      },
+      {
+        "Date": "May-2021",
+        "Price": "500"
+      },
+      {
+        "Date": "Aug-2021",
+        "Price": "550"
+      },
+      {
+        "Date": "Nov-2021",
+        "Price": "600"
+      },
+      {
+        "Date": "Feb-2022",
+        "Price": "650"
+      },
+      {
+        "Date": "May-2022",
+        "Price": "670"
+      },
+      {
+        "Date": "Aug-2022",
+        "Price": "650"
+      },
+      {
+        "Date": "Nov-2022",
+        "Price": "550"
+      },
+      {
+        "Date": "Feb-2023",
+        "Price": "530"
+      },
+      {
+        "Date": "May-2023",
+        "Price": "520"
+      },
+      {
+        "Date": "Aug-2023",
+        "Price": "510"
+      },
+      {
+        "Date": "Nov-2023",
+        "Price": "500"
+      },
+      {
+        "Date": "Feb-2024",
+        "Price": "520"
+      },
+      {
+        "Date": "May-2024",
+        "Price": "540"
+      },
+      {
+        "Date": "Aug-2024",
+        "Price": "480"
+      },
+      {
+        "Date": "Nov-2024",
+        "Price": "460"
+      },
+      {
+        "Date": "Feb-2025",
+        "Price": "460"
+      }
+    ],
+    "table_id": "table_15",
+    "issue_date": "2025-02-07",
+    "report_week": 6,
+    "source_file": "star_asia_2025_W06_Market-report-Week-6.pdf",
+    "table_type": "market_data"
+  },
+  {
+    "headers": [
+      "Date",
+      "Price"
+    ],
+    "rows": [
+      {
+        "Date": "Feb-2020",
+        "Price": "370"
+      },
+      {
+        "Date": "May-2020",
+        "Price": "280"
+      },
+      {
+        "Date": "Aug-2020",
+        "Price": "300"
+      },
+      {
+        "Date": "Nov-2020",
+        "Price": "350"
+      },
+      {
+        "Date": "Feb-2021",
+        "Price": "450"
+      },
+      {
+        "Date": "May-2021",
+        "Price": "550"
+      },
+      {
+        "Date": "Aug-2021",
+        "Price": "600"
+      },
+      {
+        "Date": "Nov-2021",
+        "Price": "650"
+      },
+      {
+        "Date": "Feb-2022",
+        "Price": "680"
+      },
+      {
+        "Date": "May-2022",
+        "Price": "690"
+      },
+      {
+        "Date": "Aug-2022",
+        "Price": "600"
+      },
+      {
+        "Date": "Nov-2022",
+        "Price": "500"
+      },
+      {
+        "Date": "Feb-2023",
+        "Price": "580"
+      },
+      {
+        "Date": "May-2023",
+        "Price": "550"
+      },
+      {
+        "Date": "Aug-2023",
+        "Price": "480"
+      },
+      {
+        "Date": "Nov-2023",
+        "Price": "500"
+      },
+      {
+        "Date": "Feb-2024",
+        "Price": "520"
+      },
+      {
+        "Date": "May-2024",
+        "Price": "480"
+      },
+      {
+        "Date": "Aug-2024",
+        "Price": "460"
+      },
+      {
+        "Date": "Nov-2024",
+        "Price": "460"
+      },
+      {
+        "Date": "Feb-2025",
+        "Price": "470"
+      }
+    ],
+    "table_id": "table_16",
+    "issue_date": "2025-02-07",
+    "report_week": 6,
+    "source_file": "star_asia_2025_W06_Market-report-Week-6.pdf",
+    "table_type": "market_data"
+  },
+  {
+    "headers": [
+      "Date",
+      "Price"
+    ],
+    "rows": [
+      {
+        "Date": "Feb-2020",
+        "Price": "360"
+      },
+      {
+        "Date": "May-2020",
+        "Price": "270"
+      },
+      {
+        "Date": "Aug-2020",
+        "Price": "350"
+      },
+      {
+        "Date": "Nov-2020",
+        "Price": "400"
+      },
+      {
+        "Date": "Feb-2021",
+        "Price": "500"
+      },
+      {
+        "Date": "May-2021",
+        "Price": "580"
+      },
+      {
+        "Date": "Aug-2021",
+        "Price": "600"
+      },
+      {
+        "Date": "Nov-2021",
+        "Price": "650"
+      },
+      {
+        "Date": "Feb-2022",
+        "Price": "680"
+      },
+      {
+        "Date": "May-2022",
+        "Price": "690"
+      },
+      {
+        "Date": "Aug-2022",
+        "Price": "600"
+      },
+      {
+        "Date": "Nov-2022",
+        "Price": "500"
+      },
+      {
+        "Date": "Feb-2023",
+        "Price": "480"
+      },
+      {
+        "Date": "May-2023",
+        "Price": "0"
+      },
+      {
+        "Date": "Aug-2023",
+        "Price": "0"
+      },
+      {
+        "Date": "Nov-2023",
+        "Price": "500"
+      },
+      {
+        "Date": "Feb-2024",
+        "Price": "540"
+      },
+      {
+        "Date": "May-2024",
+        "Price": "540"
+      },
+      {
+        "Date": "Aug-2024",
+        "Price": "520"
+      },
+      {
+        "Date": "Nov-2024",
+        "Price": "450"
+      },
+      {
+        "Date": "Feb-2025",
+        "Price": "430"
+      }
+    ],
+    "table_id": "table_17",
+    "issue_date": "2025-02-07",
+    "report_week": 6,
+    "source_file": "star_asia_2025_W06_Market-report-Week-6.pdf",
+    "table_type": "market_data"
+  },
+  {
+    "headers": [
+      "Date",
+      "Price"
+    ],
+    "rows": [
+      {
+        "Date": "Feb-2020",
+        "Price": "230"
+      },
+      {
+        "Date": "May-2020",
+        "Price": "160"
+      },
+      {
+        "Date": "Aug-2020",
+        "Price": "170"
+      },
+      {
+        "Date": "Nov-2020",
+        "Price": "200"
+      },
+      {
+        "Date": "Feb-2021",
+        "Price": "250"
+      },
+      {
+        "Date": "May-2021",
+        "Price": "300"
+      },
+      {
+        "Date": "Aug-2021",
+        "Price": "300"
+      },
+      {
+        "Date": "Nov-2021",
+        "Price": "300"
+      },
+      {
+        "Date": "Feb-2022",
+        "Price": "320"
+      },
+      {
+        "Date": "May-2022",
+        "Price": "480"
+      },
+      {
+        "Date": "Aug-2022",
+        "Price": "280"
+      },
+      {
+        "Date": "Nov-2022",
+        "Price": "250"
+      },
+      {
+        "Date": "Feb-2023",
+        "Price": "320"
+      },
+      {
+        "Date": "May-2023",
+        "Price": "320"
+      },
+      {
+        "Date": "Aug-2023",
+        "Price": "320"
+      },
+      {
+        "Date": "Nov-2023",
+        "Price": "330"
+      },
+      {
+        "Date": "Feb-2024",
+        "Price": "340"
+      },
+      {
+        "Date": "May-2024",
+        "Price": "360"
+      },
+      {
+        "Date": "Aug-2024",
+        "Price": "360"
+      },
+      {
+        "Date": "Nov-2024",
+        "Price": "360"
+      },
+      {
+        "Date": "Feb-2025",
+        "Price": "360"
+      }
+    ],
+    "table_id": "table_18",
+    "issue_date": "2025-02-07",
+    "report_week": 6,
+    "source_file": "star_asia_2025_W06_Market-report-Week-6.pdf",
+    "table_type": "market_data"
+  },
+  {
+    "headers": [
+      "Date",
+      "CHATTOGRAM",
+      "ALANG",
+      "GADANI"
+    ],
+    "rows": [
+      {
+        "Date": "Jan-20",
+        "CHATTOGRAM": "160,000",
+        "ALANG": "210,000",
+        "GADANI": "10,000"
+      },
+      {
+        "Date": "Apr-20",
+        "CHATTOGRAM": "320,000",
+        "ALANG": "20,000",
+        "GADANI": "0"
+      },
+      {
+        "Date": "Jul-20",
+        "CHATTOGRAM": "260,000",
+        "ALANG": "340,000",
+        "GADANI": "90,000"
+      },
+      {
+        "Date": "Oct-20",
+        "CHATTOGRAM": "30,000",
+        "ALANG": "80,000",
+        "GADANI": "350,000"
+      },
+      {
+        "Date": "Jan-21",
+        "CHATTOGRAM": "170,000",
+        "ALANG": "230,000",
+        "GADANI": "140,000"
+      },
+      {
+        "Date": "Apr-21",
+        "CHATTOGRAM": "350,000",
+        "ALANG": "140,000",
+        "GADANI": "30,000"
+      },
+      {
+        "Date": "Jul-21",
+        "CHATTOGRAM": "320,000",
+        "ALANG": "100,000",
+        "GADANI": "180,000"
+      },
+      {
+        "Date": "Oct-21",
+        "CHATTOGRAM": "140,000",
+        "ALANG": "140,000",
+        "GADANI": "40,000"
+      },
+      {
+        "Date": "Jan-22",
+        "CHATTOGRAM": "220,000",
+        "ALANG": "140,000",
+        "GADANI": "60,000"
+      },
+      {
+        "Date": "Apr-22",
+        "CHATTOGRAM": "100,000",
+        "ALANG": "210,000",
+        "GADANI": "70,000"
+      },
+      {
+        "Date": "Jul-22",
+        "CHATTOGRAM": "30,000",
+        "ALANG": "30,000",
+        "GADANI": "0"
+      },
+      {
+        "Date": "Oct-22",
+        "CHATTOGRAM": "220,000",
+        "ALANG": "110,000",
+        "GADANI": "70,000"
+      },
+      {
+        "Date": "Jan-23",
+        "CHATTOGRAM": "60,000",
+        "ALANG": "70,000",
+        "GADANI": "0"
+      },
+      {
+        "Date": "Apr-23",
+        "CHATTOGRAM": "70,000",
+        "ALANG": "60,000",
+        "GADANI": "0"
+      },
+      {
+        "Date": "Jul-23",
+        "CHATTOGRAM": "550,000",
+        "ALANG": "70,000",
+        "GADANI": "0"
+      },
+      {
+        "Date": "Oct-23",
+        "CHATTOGRAM": "80,000",
+        "ALANG": "70,000",
+        "GADANI": "40,000"
+      },
+      {
+        "Date": "Jan-24",
+        "CHATTOGRAM": "30,000",
+        "ALANG": "70,000",
+        "GADANI": "0"
+      },
+      {
+        "Date": "Apr-24",
+        "CHATTOGRAM": "140,000",
+        "ALANG": "260,000",
+        "GADANI": "50,000"
+      },
+      {
+        "Date": "Jul-24",
+        "CHATTOGRAM": "40,000",
+        "ALANG": "40,000",
+        "GADANI": "0"
+      },
+      {
+        "Date": "Oct-24",
+        "CHATTOGRAM": "120,000",
+        "ALANG": "80,000",
+        "GADANI": "0"
+      },
+      {
+        "Date": "Jan-25",
+        "CHATTOGRAM": "60,000",
+        "ALANG": "130,000",
+        "GADANI": "0"
+      }
+    ],
+    "table_id": "table_19",
+    "issue_date": "2025-02-07",
+    "report_week": 6,
+    "source_file": "star_asia_2025_W06_Market-report-Week-6.pdf",
+    "table_type": "market_data"
+  },
+  {
+    "headers": [
+      "Date",
+      "Value"
+    ],
+    "rows": [
+      {
+        "Date": "Jan-20",
+        "Value": "70"
+      },
+      {
+        "Date": "Apr-20",
+        "Value": "32"
+      },
+      {
+        "Date": "Jul-20",
+        "Value": "100"
+      },
+      {
+        "Date": "Oct-20",
+        "Value": "58"
+      },
+      {
+        "Date": "Jan-21",
+        "Value": "80"
+      },
+      {
+        "Date": "Apr-21",
+        "Value": "106"
+      },
+      {
+        "Date": "Jul-21",
+        "Value": "78"
+      },
+      {
+        "Date": "Oct-21",
+        "Value": "88"
+      },
+      {
+        "Date": "Jan-22",
+        "Value": "50"
+      },
+      {
+        "Date": "Apr-22",
+        "Value": "70"
+      },
+      {
+        "Date": "Jul-22",
+        "Value": "32"
+      },
+      {
+        "Date": "Oct-22",
+        "Value": "25"
+      },
+      {
+        "Date": "Jan-23",
+        "Value": "68"
+      },
+      {
+        "Date": "Apr-23",
+        "Value": "65"
+      },
+      {
+        "Date": "Jul-23",
+        "Value": "30"
+      },
+      {
+        "Date": "Oct-23",
+        "Value": "50"
+      },
+      {
+        "Date": "Jan-24",
+        "Value": "15"
+      },
+      {
+        "Date": "Apr-24",
+        "Value": "45"
+      },
+      {
+        "Date": "Jul-24",
+        "Value": "25"
+      },
+      {
+        "Date": "Oct-24",
+        "Value": "30"
+      },
+      {
+        "Date": "Jan-25",
+        "Value": "20"
+      }
+    ],
+    "table_id": "table_20",
+    "issue_date": "2025-02-07",
+    "report_week": 6,
+    "source_file": "star_asia_2025_W06_Market-report-Week-6.pdf",
+    "table_type": "market_data"
+  },
+  {
+    "headers": [
+      "Category",
+      "2025",
+      "2024",
+      "2023",
+      "2022",
+      "2021"
+    ],
+    "rows": [
+      {
+        "Category": "ALANG",
+        "2025": "135,446.00",
+        "2024": "90,219.00",
+        "2023": "116,200.00",
+        "2022": "61,392.00",
+        "2021": "227,854.00"
+      },
+      {
+        "Category": "CHATTOGRAM",
+        "2025": "62,143.00",
+        "2024": "55,478.00",
+        "2023": "22,481.00",
+        "2022": "95,846.00",
+        "2021": "104,519.00"
+      },
+      {
+        "Category": "PAKISTAN",
+        "2025": "0.00",
+        "2024": "31,967.00",
+        "2023": "81,573.00",
+        "2022": "97,120.00",
+        "2021": "75,434.00"
+      }
+    ],
+    "table_id": "table_21",
+    "issue_date": "2025-02-07",
+    "report_week": 6,
+    "source_file": "star_asia_2025_W06_Market-report-Week-6.pdf",
+    "table_type": "market_data"
+  },
+  {
+    "headers": [
+      "VESSEL NAME",
+      "TYPE",
+      "LDT",
+      "ARRIVAL",
+      "BEACHING"
+    ],
+    "rows": [
+      {
+        "VESSEL NAME": "YEONG",
+        "TYPE": "LNG CARRIER",
+        "LDT": "28,809",
+        "ARRIVAL": "07.02.2025",
+        "BEACHING": "AWAITING"
+      },
+      {
+        "VESSEL NAME": "RDS 1",
+        "TYPE": "TUG",
+        "LDT": "182",
+        "ARRIVAL": "03.02.2025",
+        "BEACHING": "AWAITING"
+      },
+      {
+        "VESSEL NAME": "GRIF",
+        "TYPE": "TUG",
+        "LDT": "1,305",
+        "ARRIVAL": "03.02.2025",
+        "BEACHING": "06.02.205"
+      },
+      {
+        "VESSEL NAME": "ATHINA 3",
+        "TYPE": "TANKER",
+        "LDT": "9,969",
+        "ARRIVAL": "01.02.2025",
+        "BEACHING": "06.02.2025"
+      },
+      {
+        "VESSEL NAME": "CEANO",
+        "TYPE": "RIG",
+        "LDT": "23,277",
+        "ARRIVAL": "02.02.2025",
+        "BEACHING": "04.02.2025"
+      },
+      {
+        "VESSEL NAME": "NOLAN",
+        "TYPE": "TANKER",
+        "LDT": "21,861",
+        "ARRIVAL": "25.01.2025",
+        "BEACHING": "01.02.2025"
+      },
+      {
+        "VESSEL NAME": "RIALTO",
+        "TYPE": "TANKER",
+        "LDT": "9,696",
+        "ARRIVAL": "16.01.2025",
+        "BEACHING": "02.02.2025"
+      }
+    ],
+    "table_id": "table_22",
+    "issue_date": "2025-02-07",
+    "report_week": 6,
+    "source_file": "star_asia_2025_W06_Market-report-Week-6.pdf",
+    "table_type": "beaching_position"
+  },
+  {
+    "headers": [
+      "VESSEL NAME",
+      "TYPE",
+      "LDT",
+      "ARRIVAL",
+      "BEACHING"
+    ],
+    "rows": [
+      {
+        "VESSEL NAME": "EAST PIONEER",
+        "TYPE": "BULKER",
+        "LDT": "10,890",
+        "ARRIVAL": "04.02.2025",
+        "BEACHING": "AWAITING"
+      },
+      {
+        "VESSEL NAME": "GOLDEN O",
+        "TYPE": "BULKER",
+        "LDT": "10,664",
+        "ARRIVAL": "04.02.2025",
+        "BEACHING": "AWAITING"
+      },
+      {
+        "VESSEL NAME": "OCEAN PEACE",
+        "TYPE": "BULKER",
+        "LDT": "10,847",
+        "ARRIVAL": "29.01.2025",
+        "BEACHING": "AWAITING"
+      },
+      {
+        "VESSEL NAME": "THREE STAR",
+        "TYPE": "BULKER",
+        "LDT": "7,627",
+        "ARRIVAL": "23.01.2025",
+        "BEACHING": "AWAITING"
+      },
+      {
+        "VESSEL NAME": "ALEK",
+        "TYPE": "GEN CARGO",
+        "LDT": "3,120",
+        "ARRIVAL": "28.01.2025",
+        "BEACHING": "05.02.2025"
+      },
+      {
+        "VESSEL NAME": "LEAN",
+        "TYPE": "LNG",
+        "LDT": "29,180",
+        "ARRIVAL": "27.01.2025",
+        "BEACHING": "05.02.2025"
+      },
+      {
+        "VESSEL NAME": "GOU YUAN 9",
+        "TYPE": "BULKER",
+        "LDT": "9,205",
+        "ARRIVAL": "22.01.2025",
+        "BEACHING": "02.02.2025"
+      }
+    ],
+    "table_id": "table_23",
+    "issue_date": "2025-02-07",
+    "report_week": 6,
+    "source_file": "star_asia_2025_W06_Market-report-Week-6.pdf",
+    "table_type": "beaching_position"
+  },
+  {
+    "headers": [
+      "VESSEL NAME",
+      "TYPE",
+      "LDT",
+      "ARRIVAL",
+      "BEACHING"
+    ],
+    "rows": [
+      {
+        "VESSEL NAME": "-",
+        "TYPE": "-",
+        "LDT": "-",
+        "ARRIVAL": "-",
+        "BEACHING": "-"
+      }
+    ],
+    "table_id": "table_24",
+    "issue_date": "2025-02-07",
+    "report_week": 6,
+    "source_file": "star_asia_2025_W06_Market-report-Week-6.pdf",
+    "table_type": "beaching_position"
+  },
+  {
+    "headers": [
+      "LOCATION",
+      "FIRST SPRING TIDE PERIOD",
+      "SECOND SPRING TIDE PERIOD"
+    ],
+    "rows": [
+      {
+        "LOCATION": "Chattogram, Bangladesh",
+        "FIRST SPRING TIDE PERIOD": ": 14 ~ 17 February \\",
+        "SECOND SPRING TIDE PERIOD": "28 February ~ 03 March"
+      },
+      {
+        "LOCATION": "Alang, India",
+        "FIRST SPRING TIDE PERIOD": ": 10 ~ 16 February \\",
+        "SECOND SPRING TIDE PERIOD": "26 February ~ 05 March"
+      }
+    ],
+    "table_id": "table_25",
+    "issue_date": "2025-02-07",
+    "report_week": 6,
+    "source_file": "star_asia_2025_W06_Market-report-Week-6.pdf",
+    "table_type": "market_data"
+  },
+  {
+    "headers": [
+      "PORTS",
+      "VLSFO (0.5%)",
+      "HSFO (3.5%)",
+      "MGO (0.1%)"
+    ],
+    "rows": [
+      {
+        "PORTS": "PORTS",
+        "VLSFO (0.5%)": "VLSFO (0.5%)",
+        "HSFO (3.5%)": "HSFO (3.5%)",
+        "MGO (0.1%)": "MGO (0.1%)"
+      },
+      {
+        "PORTS": "SINGAPORE",
+        "VLSFO (0.5%)": "574",
+        "HSFO (3.5%)": "503",
+        "MGO (0.1%)": "687"
+      },
+      {
+        "PORTS": "HONG KONG",
+        "VLSFO (0.5%)": "588",
+        "HSFO (3.5%)": "517",
+        "MGO (0.1%)": "708"
+      },
+      {
+        "PORTS": "FUJAIRAH",
+        "VLSFO (0.5%)": "564",
+        "HSFO (3.5%)": "484",
+        "MGO (0.1%)": "767"
+      },
+      {
+        "PORTS": "ROTTERDAM",
+        "VLSFO (0.5%)": "550",
+        "HSFO (3.5%)": "460",
+        "MGO (0.1%)": "670"
+      },
+      {
+        "PORTS": "HOUSTON",
+        "VLSFO (0.5%)": "567",
+        "HSFO (3.5%)": "462",
+        "MGO (0.1%)": "732"
+      }
+    ],
+    "table_id": "table_26",
+    "issue_date": "2025-02-07",
+    "report_week": 6,
+    "source_file": "star_asia_2025_W06_Market-report-Week-6.pdf",
+    "table_type": "bunkers"
+  },
+  {
+    "headers": [
+      "EXCHANGE RATES",
+      "",
+      "",
+      ""
+    ],
+    "rows": [
+      {
+        "EXCHANGE RATES": "CURRENCY",
+        "": "W-O-W % CHANGE"
+      },
+      {
+        "EXCHANGE RATES": "USD / CNY (CHINA)",
+        "": "-0.41%"
+      },
+      {
+        "EXCHANGE RATES": "USD / BDT (BANGLADESH)",
+        "": "+0.03%"
+      },
+      {
+        "EXCHANGE RATES": "USD / INR (INDIA)",
+        "": "-1.28%"
+      },
+      {
+        "EXCHANGE RATES": "USD / PKR (PAKISTAN)",
+        "": "-0.08%"
+      },
+      {
+        "EXCHANGE RATES": "USD / TRY (TURKEY)",
+        "": "-0.76%"
+      }
+    ],
+    "table_id": "table_27",
+    "issue_date": "2025-02-07",
+    "report_week": 6,
+    "source_file": "star_asia_2025_W06_Market-report-Week-6.pdf",
+    "table_type": "exchange_rates"
+  },
+  {
+    "headers": [
+      "Date",
+      "TANGSHAN BILLET EX-WORKS (CNY/T)",
+      "HMS 1/2 TURKEY CFR (USD/T)"
+    ],
+    "rows": [
+      {
+        "Date": "1-Jan-20",
+        "TANGSHAN BILLET EX-WORKS (CNY/T)": "3300.0",
+        "HMS 1/2 TURKEY CFR (USD/T)": "280.0"
+      },
+      {
+        "Date": "1-Apr-20",
+        "TANGSHAN BILLET EX-WORKS (CNY/T)": "3200.0",
+        "HMS 1/2 TURKEY CFR (USD/T)": "230.0"
+      },
+      {
+        "Date": "1-Jul-20",
+        "TANGSHAN BILLET EX-WORKS (CNY/T)": "3400.0",
+        "HMS 1/2 TURKEY CFR (USD/T)": "270.0"
+      },
+      {
+        "Date": "1-Oct-20",
+        "TANGSHAN BILLET EX-WORKS (CNY/T)": "3600.0",
+        "HMS 1/2 TURKEY CFR (USD/T)": "290.0"
+      },
+      {
+        "Date": "1-Jan-21",
+        "TANGSHAN BILLET EX-WORKS (CNY/T)": "4000.0",
+        "HMS 1/2 TURKEY CFR (USD/T)": "420.0"
+      },
+      {
+        "Date": "1-Apr-21",
+        "TANGSHAN BILLET EX-WORKS (CNY/T)": "5600.0",
+        "HMS 1/2 TURKEY CFR (USD/T)": "480.0"
+      },
+      {
+        "Date": "1-Jul-21",
+        "TANGSHAN BILLET EX-WORKS (CNY/T)": "5400.0",
+        "HMS 1/2 TURKEY CFR (USD/T)": "500.0"
+      },
+      {
+        "Date": "1-Oct-21",
+        "TANGSHAN BILLET EX-WORKS (CNY/T)": "5300.0",
+        "HMS 1/2 TURKEY CFR (USD/T)": "490.0"
+      },
+      {
+        "Date": "1-Jan-22",
+        "TANGSHAN BILLET EX-WORKS (CNY/T)": "4300.0",
+        "HMS 1/2 TURKEY CFR (USD/T)": "470.0"
+      },
+      {
+        "Date": "1-Apr-22",
+        "TANGSHAN BILLET EX-WORKS (CNY/T)": "3500.0",
+        "HMS 1/2 TURKEY CFR (USD/T)": "650.0"
+      },
+      {
+        "Date": "1-Jul-22",
+        "TANGSHAN BILLET EX-WORKS (CNY/T)": "3400.0",
+        "HMS 1/2 TURKEY CFR (USD/T)": "350.0"
+      },
+      {
+        "Date": "1-Oct-22",
+        "TANGSHAN BILLET EX-WORKS (CNY/T)": "3900.0",
+        "HMS 1/2 TURKEY CFR (USD/T)": "380.0"
+      },
+      {
+        "Date": "1-Jan-23",
+        "TANGSHAN BILLET EX-WORKS (CNY/T)": "3400.0",
+        "HMS 1/2 TURKEY CFR (USD/T)": "360.0"
+      },
+      {
+        "Date": "1-Apr-23",
+        "TANGSHAN BILLET EX-WORKS (CNY/T)": "3500.0",
+        "HMS 1/2 TURKEY CFR (USD/T)": "450.0"
+      },
+      {
+        "Date": "1-Jul-23",
+        "TANGSHAN BILLET EX-WORKS (CNY/T)": "3600.0",
+        "HMS 1/2 TURKEY CFR (USD/T)": "430.0"
+      },
+      {
+        "Date": "1-Oct-23",
+        "TANGSHAN BILLET EX-WORKS (CNY/T)": "3500.0",
+        "HMS 1/2 TURKEY CFR (USD/T)": "420.0"
+      },
+      {
+        "Date": "1-Jan-24",
+        "TANGSHAN BILLET EX-WORKS (CNY/T)": "3400.0",
+        "HMS 1/2 TURKEY CFR (USD/T)": "380.0"
+      },
+      {
+        "Date": "1-Apr-24",
+        "TANGSHAN BILLET EX-WORKS (CNY/T)": "3300.0",
+        "HMS 1/2 TURKEY CFR (USD/T)": "370.0"
+      },
+      {
+        "Date": "1-Jul-24",
+        "TANGSHAN BILLET EX-WORKS (CNY/T)": "3200.0",
+        "HMS 1/2 TURKEY CFR (USD/T)": "360.0"
+      },
+      {
+        "Date": "1-Oct-24",
+        "TANGSHAN BILLET EX-WORKS (CNY/T)": "2800.0",
+        "HMS 1/2 TURKEY CFR (USD/T)": "350.0"
+      },
+      {
+        "Date": "1-Jan-25",
+        "TANGSHAN BILLET EX-WORKS (CNY/T)": "3300.0",
+        "HMS 1/2 TURKEY CFR (USD/T)": "340.0"
+      }
+    ],
+    "table_id": "table_28",
+    "issue_date": "2025-02-07",
+    "report_week": 6,
+    "source_file": "star_asia_2025_W06_Market-report-Week-6.pdf",
+    "table_type": "market_data"
+  },
+  {
+    "headers": [
+      "COMMODITY",
+      "SIZE / GRADE",
+      "THIS WEEK USD / MT",
+      "W-O-W",
+      "Y-O-Y",
+      "LAST WEEK USD / MT",
+      "LAST YEAR USD / MT"
+    ],
+    "rows": [
+      {
+        "COMMODITY": "Iron Ore Fines, CNF Rizhao, China",
+        "SIZE / GRADE": "Fines, Fe 62% (Aust. Origin)",
+        "THIS WEEK USD / MT": "107",
+        "W-O-W": "+1.90%",
+        "Y-O-Y": "-15.07%",
+        "LAST WEEK USD / MT": "105",
+        "LAST YEAR USD / MT": "126"
+      },
+      {
+        "COMMODITY": "Iron Ore Fines, CNF Qingdao, China",
+        "SIZE / GRADE": "Fines, Fe 62.5% (Brazil Origin)",
+        "THIS WEEK USD / MT": "108",
+        "W-O-W": "+0.93%",
+        "Y-O-Y": "-15.62%",
+        "LAST WEEK USD / MT": "107",
+        "LAST YEAR USD / MT": "128"
+      }
+    ],
+    "table_id": "table_29",
+    "issue_date": "2025-02-07",
+    "report_week": 6,
+    "source_file": "star_asia_2025_W06_Market-report-Week-6.pdf",
+    "table_type": "commodities"
+  },
+  {
+    "headers": [
+      "INDEX",
+      "UNITS",
+      "PRICE",
+      "CHANGE",
+      "%CHANGE",
+      "CONTRACT"
+    ],
+    "rows": [
+      {
+        "INDEX": "Copper (Comex)",
+        "UNITS": "USD / lb.",
+        "PRICE": "458.90",
+        "CHANGE": "+12.80",
+        "%CHANGE": "+2.87%",
+        "CONTRACT": "Mar 2025"
+      },
+      {
+        "INDEX": "3Mo Copper (L.M.E.)",
+        "UNITS": "USD / MT",
+        "PRICE": "9,276.50",
+        "CHANGE": "+36.50",
+        "%CHANGE": "+0.40%",
+        "CONTRACT": "N/A"
+      },
+      {
+        "INDEX": "3Mo Aluminum (L.M.E.)",
+        "UNITS": "USD / MT",
+        "PRICE": "2,619.00",
+        "CHANGE": "+3.00",
+        "%CHANGE": "+0.11%",
+        "CONTRACT": "N/A"
+      },
+      {
+        "INDEX": "3Mo Zinc (L.M.E.)",
+        "UNITS": "USD / MT",
+        "PRICE": "2,818.00",
+        "CHANGE": "+38.00",
+        "%CHANGE": "+1.37%",
+        "CONTRACT": "N/A"
+      },
+      {
+        "INDEX": "3Mo Tin (L.M.E.)",
+        "UNITS": "USD / MT",
+        "PRICE": "31,002.00",
+        "CHANGE": "+202.00",
+        "%CHANGE": "+0.66%",
+        "CONTRACT": "N/A"
+      }
+    ],
+    "table_id": "table_30",
+    "issue_date": "2025-02-07",
+    "report_week": 6,
+    "source_file": "star_asia_2025_W06_Market-report-Week-6.pdf",
+    "table_type": "market_data"
+  },
+  {
+    "headers": [
+      "INDEX",
+      "UNITS",
+      "PRICE",
+      "CHANGE",
+      "%CHANGE",
+      "CONTRACT"
+    ],
+    "rows": [
+      {
+        "INDEX": "WTI Crude Oil (Nymex)",
+        "UNITS": "USD / bbl.",
+        "PRICE": "71.00",
+        "CHANGE": "+0.39",
+        "%CHANGE": "+0.55%",
+        "CONTRACT": "Mar 2025"
+      },
+      {
+        "INDEX": "Brent Crude (ICE.)",
+        "UNITS": "USD / bbl.",
+        "PRICE": "74.73",
+        "CHANGE": "+0.44",
+        "%CHANGE": "+0.59%",
+        "CONTRACT": "Apr 2025"
+      },
+      {
+        "INDEX": "Crude Oil (Tokyo)",
+        "UNITS": "J.P.Y. / kl",
+        "PRICE": "74,500.00",
+        "CHANGE": "0.00",
+        "%CHANGE": "0.00%",
+        "CONTRACT": "Feb 2025"
+      },
+      {
+        "INDEX": "Natural Gas (Nymex)",
+        "UNITS": "USD / MMBtu",
+        "PRICE": "3.31",
+        "CHANGE": "-0.10",
+        "%CHANGE": "-2.90%",
+        "CONTRACT": "Mar 2025"
+      }
+    ],
+    "table_id": "table_31",
+    "issue_date": "2025-02-07",
+    "report_week": 6,
+    "source_file": "star_asia_2025_W06_Market-report-Week-6.pdf",
+    "table_type": "market_data"
+  },
+  {
+    "issue_date": "2025-02-07",
+    "report_week": 6,
+    "source_file": "star_asia_2025_W06_Market-report-Week-6.pdf",
+    "table_type": "indicative_scrap_prices",
+    "title": "Ship Recycling Market Snapshot (USD / LDT)",
+    "header": [
+      "DESTINATION",
+      "TANKERS",
+      "BULKERS",
+      "MPP/GENERAL CARGO",
+      "CONTAINERS",
+      "OUTLOOK / SENTIMENTS"
+    ],
+    "rows": [
+      [
+        "Alang, India",
+        "$450-460",
+        "$430-440",
+        "$440-450",
+        "$460-470",
+        "WEAK"
+      ],
+      [
+        "Chattogram, Bangladesh",
+        "$460-470",
+        "$450-460",
+        "$440-450",
+        "$470-480",
+        "WEAK"
+      ],
+      [
+        "Gaddani, Pakistan",
+        "$440-450",
+        "$420-430",
+        "$420-430",
+        "$460-470",
+        "WEAK"
+      ],
+      [
+        "Aliaga, Turkey",
+        "$320-330",
+        "$300-310",
+        "$290-300",
+        "$330-340",
+        "STABLE"
+      ]
+    ],
+    "repaired": true
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "issue_date": "2014-03-14",
+  "year": 2014,
+  "title": "Do You Need to Clean Up Your Act?",
+  "source_file": "corpus/04-poten/pdfs/2014/Tanker_Opinion_20140314.pdf",
+  "tables_count": 0,
+  "charts_count": 3,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2014-03-14_do-you-need-to-clean-up-your-act_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2014/poten_2014-03-14_do-you-need-to-clean-up-your-act_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-03-14_do-you-need-to-clean-up-your-act_chart1.png",
+      "width": 1217,
+      "height": 735
+    },
+    {
+      "chart_num": 2,
+      "page": 1,
+      "file_name": "poten_2014-03-14_do-you-need-to-clean-up-your-act_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2014/poten_2014-03-14_do-you-need-to-clean-up-your-act_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-03-14_do-you-need-to-clean-up-your-act_chart2.png",
+      "width": 800,
+      "height": 749
+    },
+    {
+      "chart_num": 3,
+      "page": 1,
+      "file_name": "poten_2014-03-14_do-you-need-to-clean-up-your-act_chart3.png",
+      "rel_path": "data/extracted/charts/poten/2014/poten_2014-03-14_do-you-need-to-clean-up-your-act_chart3.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-03-14_do-you-need-to-clean-up-your-act_chart3.png",
+      "width": 804,
+      "height": 749
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

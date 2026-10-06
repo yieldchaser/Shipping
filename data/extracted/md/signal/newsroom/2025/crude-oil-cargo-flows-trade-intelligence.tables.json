@@ -1,0 +1,32 @@
+{
+  "slug": "crude-oil-cargo-flows-trade-intelligence",
+  "issue_date": "2025-08-29",
+  "year": 2025,
+  "week": 35,
+  "category": "Market Insights",
+  "section": "newsroom",
+  "title": "Crude Oil Cargo Flows & Trade Intelligence: How Energy Traders Track Global Supply Shifts",
+  "source_file": "corpus/07-signal/html/crude-oil-cargo-flows-trade-intelligence.html",
+  "tables": [
+    [
+      {
+        "": "Primary signal needed",
+        "Energy Traders": "Cargo volume and floating storage shifts",
+        "Compliance & Sanctions Teams": "AIS spoofing and shadow fleet movements",
+        "Ship Operators & Brokers": "Vessel positions, port congestion, freight rates"
+      },
+      {
+        "": "Key platform capability",
+        "Energy Traders": "Draft-based load estimation and trade flow aggregation",
+        "Compliance & Sanctions Teams": "Satellite confirmation against spoofed AIS positions",
+        "Ship Operators & Brokers": "Live tracking, anchorage time, voyage sequencing"
+      },
+      {
+        "": "Example use case",
+        "Energy Traders": "Pricing Brent off a supply glut signaled by tankers in transit hitting a multi-year high",
+        "Compliance & Sanctions Teams": "Flagging a tanker broadcasting the identity of a decommissioned ship at a known crude load port",
+        "Ship Operators & Brokers": "Routing around Red Sea disruption after Suez crossings fall 66% year over year"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "issue_date": "2005-11-23",
+  "year": 2005,
+  "title": "Something to be Thankful For",
+  "source_file": "corpus/04-poten/pdfs/2005/Tanker_Opinion_20051123.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2005-11-23_something-to-be-thankful-for_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2005/poten_2005-11-23_something-to-be-thankful-for_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-11-23_something-to-be-thankful-for_chart1.png",
+      "width": 543,
+      "height": 401
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

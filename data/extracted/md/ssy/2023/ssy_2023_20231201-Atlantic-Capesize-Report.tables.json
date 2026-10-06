@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "publisher": "SSY",
+    "title": "SSY Atlantic Capesize Index",
+    "basin": "Atlantic",
+    "issue_date": "2023-12-01",
+    "report_week": 48,
+    "year": 2023,
+    "rates_date_curr": "2023-12-01",
+    "rates_date_prev": "2023-11-24",
+    "publication_date_text": "2023-12-04"
+  },
+  "commentary": {
+    "market_commentary": "Having witnessed the strongest week-onweek rally in the history of the SSY Atlantic Capesize Index, the Atlantic index strengthened 6,546 points in the past week to 18,382 points. SSY's assessed fronthaul earnings climbed $37,750/day to $85,000/day, while the trans-Atlantic rate increased $33,750/day to $75,000/day, both of which were the highest since October 2021.",
+    "index_notes": "The Atlantic Capesize Index started at 5,000 points on 2 October 1989 and has since been subject to periodic updating to reflect changing trade patterns. The latest update was on 17",
+    "contact_info": "For more information please contact David Beard/Roar Adland"
+  },
+  "calculated_index": {
+    "value_prev": 11836.0,
+    "value_curr": 18382.0,
+    "previous_index": {
+      "prev": 1559.0,
+      "curr": 6546.0
+    },
+    "four_weeks": {
+      "prev": 2348.0,
+      "curr": 9048.0
+    },
+    "previous_year": {
+      "prev": 3645.0,
+      "curr": 10150.0
+    },
+    "two_years": {
+      "prev": -388.0,
+      "curr": 5292.0
+    }
+  },
+  "trade_rates": [
+    {
+      "route": "NARVIK/ROTTERDAM",
+      "cargo_size": "150,000/10%",
+      "weight_pct": "10%",
+      "rate_prev": 7.95,
+      "rate_curr": 14.1,
+      "change_usd_t": 6.15
+    },
+    {
+      "route": "TUBARAO/ROTTERDAM",
+      "cargo_size": "160,000/10%",
+      "weight_pct": "10%",
+      "rate_prev": 12.9,
+      "rate_curr": 18.05,
+      "change_usd_t": 5.15
+    },
+    {
+      "route": "RICHARDS BAY/ROTTERDAM",
+      "cargo_size": "150,000/10%",
+      "weight_pct": "10%",
+      "rate_prev": 11.65,
+      "rate_curr": 16.65,
+      "change_usd_t": 5.0
+    },
+    {
+      "route": "SEVEN ISLANDS/ROTTERDAM",
+      "cargo_size": "170,000/10%",
+      "weight_pct": "10%",
+      "rate_prev": 12.4,
+      "rate_curr": 18.4,
+      "change_usd_t": 6.0
+    },
+    {
+      "route": "PUERTO BOLIVAR/ROTTERDAM",
+      "cargo_size": "150,000/10%",
+      "weight_pct": "10%",
+      "rate_prev": 17.2,
+      "rate_curr": 25.9,
+      "change_usd_t": 8.7
+    },
+    {
+      "route": "NOUADHIBOU/QINGDAO",
+      "cargo_size": "140,000/10%",
+      "weight_pct": "10%",
+      "rate_prev": 28.25,
+      "rate_curr": 44.45,
+      "change_usd_t": 16.2
+    },
+    {
+      "route": "TUBARAO/JAPAN",
+      "cargo_size": "160,000/10%",
+      "weight_pct": "10%",
+      "rate_prev": 26.15,
+      "rate_curr": 34.2,
+      "change_usd_t": 8.05
+    },
+    {
+      "route": "TUBARAO/QINGDAO",
+      "cargo_size": "160,000/10%",
+      "weight_pct": "10%",
+      "rate_prev": 26.45,
+      "rate_curr": 37.5,
+      "change_usd_t": 11.05
+    },
+    {
+      "route": "T/C TRIP CONT/FAR EAST",
+      "cargo_size": "180,000 DWT",
+      "weight_pct": "10%",
+      "rate_prev": 7.98,
+      "rate_curr": 14.36,
+      "change_usd_t": 6.38
+    },
+    {
+      "route": "T/C TRANSATLANTIC ROUND",
+      "cargo_size": "180,000 DWT",
+      "weight_pct": "10%",
+      "rate_prev": 6.97,
+      "rate_curr": 12.67,
+      "change_usd_t": 5.7
+    }
+  ],
+  "timecharter_day_rates": [
+    {
+      "route": "T/C TRIP CONT/FAR EAST",
+      "cargo_size": "180,000 DWT",
+      "day_rate_prev": 47250.0,
+      "day_rate_curr": 85000.0,
+      "change_usd_day": 37750.0,
+      "source": "table"
+    },
+    {
+      "route": "T/C TRANSATLANTIC ROUND",
+      "cargo_size": "180,000 DWT",
+      "day_rate_prev": 41250.0,
+      "day_rate_curr": 75000.0,
+      "change_usd_day": 33750.0,
+      "source": "table"
+    }
+  ],
+  "chart_series": {
+    "available": true,
+    "n_series": 3,
+    "total_points": 153,
+    "relative_gap_vs_printed": 0.51707
+  },
+  "n_trade_routes": 10,
+  "n_tc_routes": 2
+}

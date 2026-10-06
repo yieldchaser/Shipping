@@ -1,0 +1,42 @@
+---
+title: "China's Coal Import Shift Continues; Intensifying Demand to Become Even Stronger"
+date: "2021-07-28"
+display_date: "July 28, 2021"
+year: 2021
+category: "insights"
+source: "Breakwave Advisors"
+url: "https://www.breakwaveadvisors.com/insights/2021/7/26/chinas-coal-import-shift-continues-intensifying-demand-to-become-even-stronger"
+tags: ["China", "Coal", "Electricity"]
+images_count: 1
+word_count: 592
+source_file: "corpus/03-breakwave/insights/2021/2021-07-28_chinas-coal-import-shift-continues-intensifying-demand-to-become-even-stronger.html"
+---
+
+# China's Coal Import Shift Continues; Intensifying Demand to Become Even Stronger
+
+**Date:** July 28, 2021  
+**Publisher:** Breakwave Advisors | **Category:** Market Insights  
+**Original URL:** [https://www.breakwaveadvisors.com/insights/2021/7/26/chinas-coal-import-shift-continues-intensifying-demand-to-become-even-stronger](https://www.breakwaveadvisors.com/insights/2021/7/26/chinas-coal-import-shift-continues-intensifying-demand-to-become-even-stronger)  
+
+---
+
+*By Jeffrey Landsberg*
+
+China's coal import data for June by origin was released recently and shows imports from Indonesia have remained the primary source of coal imports while the ban on Australia remains in place. June has marked the seventh straight month where China has not imported any Australian coal.
+
+![A1](assets/2021-07-28_chinas-coal-import-shift-continues-intensifying-demand-to-become-even-stronger_img_a1_ea14c25e0ee0.jpg)
+
+> **Figure 1: A1**  
+> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-28_chinas-coal-import-shift-continues-intensifying-demand-to-become-even-stronger_img_a1_ea14c25e0ee0.jpg)
+
+China imported 17 million tons of coal from Indonesia in June, which is up month-on-month by 5.8 million tons (52%) and up year-on-year by 6.2 million tons (57%). China imported 5.3 million tons from Russia, which is up month-on-month by 200,000 tons (4%) and up year-on-year by 2.4 million tons (83%). Overall, Indonesia has remained the primary source of China's coal imports while Russia has remained the clear secondary source. Basically all of Indonesia's coal exports are thermal coal cargoes, while the majority of Russia's coal exports are coking coal cargoes.
+
+Also notable is imports from Canada, the Philippines, the United States, Colombia, and South Africa all experienced year-on-year growth. China imported 1.1 million tons from Canada, which is up month-on-month by 600,000 tons (120%) and up year-on-year by 500,000 tons (83%). China imported 1 million tons from the Philippines, which is down month-on-month by 200,000 tons (-17%) but up year-on-year by 900,000 tons (900%). China imported 900,000 tons from the United States, which is up month-on month by 200,000 tons (29%) and up year-on-year by 600,000 tons (200%). China imported 800,000 tons from Colombia, which is unchanged from May and up year-on-year by 600,000 tons (300%). China imported 800,000 tons from South Africa, which is up month-on-month by 400,000 tons (100%) and up year-on-year by 800,000 tons.
+
+While still remaining relatively low in volume, it is encouraging for the dry bulk shipping market that China's coal imports from Canada, the Philippines, the United States, Colombia, and South Africa have all been experiencing year-on-year growth recently. In addition, the monthly volumes from many of these nations have recently climbed to multi-year highs. These are very helpful cargoes due to their lengthier ton miles, and these cargoes continue to add support to the dry bulk shipping market.
+
+In the near term, China's coal imports from most exporters other than Australia are poised to continue to grow as China continues to have a shortage of both thermal and coking coal. The thermal coal shortage is particularly significant at present as peak summer electricity demand season remains underway. Coal-derived electricity generation during the last four months has risen year-on-year by 14%, while domestic coal production during the last four months has fallen year-on-year by 0.2%. That 14% growth is also extremely significant as power plant stockpiles in China are now down year-on-year by approximately 30%. In addition, major coal port stockpiles in China are now down year-on-year by approximately 15%. China's coal import demand has continued to rise in recent weeks and is poised to find much greater strength in the near term.
+
+---
+
+**Tags:** China, Coal, Electricity  

@@ -1,0 +1,757 @@
+issue_date,year,report_period,segment,rank,charterer,cargo_mt_000s,pct_total_cargo,fixtures_count,pct_fixtures,prev_rank,source_file
+2004-01-09,2004,2003,Overall,1,Shell,,8.2%,863,,1,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040109.pdf
+2004-01-09,2004,2003,Overall,2,ExxonMobil,,5.2%,551,,2,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040109.pdf
+2004-01-09,2004,2003,Overall,3,BP,,4.5%,473,,4,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040109.pdf
+2004-01-09,2004,2003,Overall,4,Vitol,,4.0%,422,,6,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040109.pdf
+2004-01-09,2004,2003,Overall,5,CSSSA (Total),,4.0%,419,,5,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040109.pdf
+2004-01-09,2004,2003,Overall,6,ChevronTexaco,,3.7%,387,,3,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040109.pdf
+2004-01-09,2004,2003,Overall,7,Alpine/Glencore,,2.5%,267,,20,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040109.pdf
+2004-01-09,2004,2003,Overall,8,Valero,,2.5%,266,,8,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040109.pdf
+2004-01-09,2004,2003,Overall,9,Karran,,2.1%,223,,7,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040109.pdf
+2004-01-09,2004,2003,Overall,10,ConocoPhillips,,1.8%,193,,,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040109.pdf
+2004-01-09,2004,2003,Overall,11,IOC (Indian Oil Company),,1.6%,171,,10,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040109.pdf
+2004-01-09,2004,2003,Overall,12,Chinaoil,,1.5%,159,,,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040109.pdf
+2004-01-09,2004,2003,Overall,13,Repsol,,1.5%,155,,9,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040109.pdf
+2004-01-09,2004,2003,Overall,14,Koch,,1.3%,135,,11,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040109.pdf
+2004-01-09,2004,2003,Overall,15,Sibneft,,1.3%,135,,19,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040109.pdf
+2004-01-09,2004,2003,Overall,16,Sunoco,,1.2%,130,,15,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040109.pdf
+2004-01-09,2004,2003,Overall,17,Tam Oil,,1.2%,126,,,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040109.pdf
+2004-01-09,2004,2003,Overall,18,Lukoil,,1.2%,123,,,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040109.pdf
+2004-01-09,2004,2003,Overall,19,Reliance,,1.1%,111,,18,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040109.pdf
+2004-01-09,2004,2003,Overall,20,Hess,,1.0%,108,,,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040109.pdf
+2004-01-23,2004,2003,Overall,1,Shell,,8.2%,331,,1,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040123.pdf
+2004-01-23,2004,2003,Overall,2,Vitol,,6.2%,250,,2,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040123.pdf
+2004-01-23,2004,2003,Overall,3,BP,,4.6%,186,,3,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040123.pdf
+2004-01-23,2004,2003,Overall,4,Citgo,,4.4%,176,,7,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040123.pdf
+2004-01-23,2004,2003,Overall,5,Itochu,,3.5%,141,,4,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040123.pdf
+2004-01-23,2004,2003,Overall,6,CSSA/Total,,3.5%,140,,5,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040123.pdf
+2004-01-23,2004,2003,Overall,7,Adam/Alpine/Glencor,,3.3%,134,,9,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040123.pdf
+2004-01-23,2004,2003,Overall,8,ExxonMobil,,2.9%,118,,6,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040123.pdf
+2004-01-23,2004,2003,Overall,9,Trafigura,,2.6%,104,,8,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040123.pdf
+2004-01-23,2004,2003,Overall,10,Projector,,2.2%,90,,22,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040123.pdf
+2004-01-23,2004,2003,Overall,11,ChevronTexaco,,2.1%,83,,10,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040123.pdf
+2004-01-23,2004,2003,Overall,12,Addax,,1.7%,70,,23,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040123.pdf
+2004-01-23,2004,2003,Overall,13,Repsol,,1.5%,62,,12,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040123.pdf
+2004-01-23,2004,2003,Overall,14,Hess,,1.5%,59,,13,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040123.pdf
+2004-01-23,2004,2003,Overall,15,Marubeni,,1.3%,52,,11,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040123.pdf
+2004-01-23,2004,2003,Overall,16,Navion,,1.3%,52,,19,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040123.pdf
+2004-01-23,2004,2003,Overall,17,PDI,,1.2%,49,,14,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040123.pdf
+2004-01-23,2004,2003,Overall,18,Petco,,1.1%,45,,29,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040123.pdf
+2004-01-23,2004,2003,Overall,19,Agip,,1.1%,44,,18,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040123.pdf
+2004-01-23,2004,2003,Overall,20,PMI,,1.0%,42,,27,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040123.pdf
+2004-04-30,2004,2003,Overall,1,Others,,,31,,2,corpus/04-poten/pdfs/2004/Tanker_Opinion_20040430.pdf
+2005-01-07,2005,2004,Overall,1,Shell,,7.6%,794,,1,corpus/04-poten/pdfs/2005/Tanker_Opinion_20050107.pdf
+2005-01-07,2005,2004,Overall,2,ExxonMobil,,5.1%,540,,2,corpus/04-poten/pdfs/2005/Tanker_Opinion_20050107.pdf
+2005-01-07,2005,2004,Overall,3,CSSA (Total),,4.6%,483,,5,corpus/04-poten/pdfs/2005/Tanker_Opinion_20050107.pdf
+2005-01-07,2005,2004,Overall,4,ChevronTexaco,,4.4%,461,,6,corpus/04-poten/pdfs/2005/Tanker_Opinion_20050107.pdf
+2005-01-07,2005,2004,Overall,5,BP,,4.2%,441,,3,corpus/04-poten/pdfs/2005/Tanker_Opinion_20050107.pdf
+2005-01-07,2005,2004,Overall,6,Vitol,,4.1%,425,,4,corpus/04-poten/pdfs/2005/Tanker_Opinion_20050107.pdf
+2005-01-07,2005,2004,Overall,7,Valero,,2.6%,268,,8,corpus/04-poten/pdfs/2005/Tanker_Opinion_20050107.pdf
+2005-01-07,2005,2004,Overall,8,Repsol,,2.1%,219,,13,corpus/04-poten/pdfs/2005/Tanker_Opinion_20050107.pdf
+2005-01-07,2005,2004,Overall,9,Alpine/Glencore,,2.1%,218,,7,corpus/04-poten/pdfs/2005/Tanker_Opinion_20050107.pdf
+2005-01-07,2005,2004,Overall,10,IOC (Indian Oil Company),,1.9%,198,,11,corpus/04-poten/pdfs/2005/Tanker_Opinion_20050107.pdf
+2005-01-07,2005,2004,Overall,11,Petroval,,1.9%,196,,,corpus/04-poten/pdfs/2005/Tanker_Opinion_20050107.pdf
+2005-01-07,2005,2004,Overall,12,ConocoPhillips,,1.8%,187,,10,corpus/04-poten/pdfs/2005/Tanker_Opinion_20050107.pdf
+2005-01-07,2005,2004,Overall,13,Chinaoil,,1.8%,184,,12,corpus/04-poten/pdfs/2005/Tanker_Opinion_20050107.pdf
+2005-01-07,2005,2004,Overall,14,Sun,,1.7%,183,,16,corpus/04-poten/pdfs/2005/Tanker_Opinion_20050107.pdf
+2005-01-07,2005,2004,Overall,15,Ursa,,1.5%,160,,,corpus/04-poten/pdfs/2005/Tanker_Opinion_20050107.pdf
+2005-01-07,2005,2004,Overall,16,Sibneft,,1.3%,139,,15,corpus/04-poten/pdfs/2005/Tanker_Opinion_20050107.pdf
+2005-01-07,2005,2004,Overall,17,ENI,,1.3%,136,,,corpus/04-poten/pdfs/2005/Tanker_Opinion_20050107.pdf
+2005-01-07,2005,2004,Overall,18,Lukoil,,1.3%,132,,18,corpus/04-poten/pdfs/2005/Tanker_Opinion_20050107.pdf
+2005-01-07,2005,2004,Overall,19,Koch,,1.2%,131,,14,corpus/04-poten/pdfs/2005/Tanker_Opinion_20050107.pdf
+2005-01-07,2005,2004,Overall,20,Reliance,,1.2%,127,,19,corpus/04-poten/pdfs/2005/Tanker_Opinion_20050107.pdf
+2005-09-30,2005,2004,Overall,1,One week,,,,,1,corpus/04-poten/pdfs/2005/Tanker_Opinion_20050930.pdf
+2006-01-06,2006,2005,Overall,1,Shell,,7.5%,762,,1,corpus/04-poten/pdfs/2006/Tanker_Opinion_20060106.pdf
+2006-01-06,2006,2005,Overall,2,BP,,4.9%,499,,5,corpus/04-poten/pdfs/2006/Tanker_Opinion_20060106.pdf
+2006-01-06,2006,2005,Overall,3,ExxonMobil,,4.8%,489,,2,corpus/04-poten/pdfs/2006/Tanker_Opinion_20060106.pdf
+2006-01-06,2006,2005,Overall,4,Vitol,,4.5%,455,,6,corpus/04-poten/pdfs/2006/Tanker_Opinion_20060106.pdf
+2006-01-06,2006,2005,Overall,5,CSSA,,4.2%,425,,3,corpus/04-poten/pdfs/2006/Tanker_Opinion_20060106.pdf
+2006-01-06,2006,2005,Overall,6,Clearlake,,3.2%,328,,,corpus/04-poten/pdfs/2006/Tanker_Opinion_20060106.pdf
+2006-01-06,2006,2005,Overall,7,Chevron,,3.1%,313,,4,corpus/04-poten/pdfs/2006/Tanker_Opinion_20060106.pdf
+2006-01-06,2006,2005,Overall,8,ConocoPhillips,,3.0%,302,,12,corpus/04-poten/pdfs/2006/Tanker_Opinion_20060106.pdf
+2006-01-06,2006,2005,Overall,9,Glencore,,2.9%,298,,9,corpus/04-poten/pdfs/2006/Tanker_Opinion_20060106.pdf
+2006-01-06,2006,2005,Overall,10,Valero,,2.1%,210,,7,corpus/04-poten/pdfs/2006/Tanker_Opinion_20060106.pdf
+2006-01-06,2006,2005,Overall,11,Ioc,,1.9%,195,,10,corpus/04-poten/pdfs/2006/Tanker_Opinion_20060106.pdf
+2006-01-06,2006,2005,Overall,12,Sun,,1.8%,186,,14,corpus/04-poten/pdfs/2006/Tanker_Opinion_20060106.pdf
+2006-01-06,2006,2005,Overall,13,Ursa,,1.8%,185,,15,corpus/04-poten/pdfs/2006/Tanker_Opinion_20060106.pdf
+2006-01-06,2006,2005,Overall,14,Petrobras,,1.8%,184,,,corpus/04-poten/pdfs/2006/Tanker_Opinion_20060106.pdf
+2006-01-06,2006,2005,Overall,15,Repsol,,1.8%,181,,8,corpus/04-poten/pdfs/2006/Tanker_Opinion_20060106.pdf
+2006-01-06,2006,2005,Overall,16,Lukoil,,1.7%,172,,18,corpus/04-poten/pdfs/2006/Tanker_Opinion_20060106.pdf
+2006-01-06,2006,2005,Overall,17,Unipec,,1.3%,136,,,corpus/04-poten/pdfs/2006/Tanker_Opinion_20060106.pdf
+2006-01-06,2006,2005,Overall,18,Koch,,1.3%,131,,19,corpus/04-poten/pdfs/2006/Tanker_Opinion_20060106.pdf
+2006-01-06,2006,2005,Overall,19,ENI,,1.3%,127,,17,corpus/04-poten/pdfs/2006/Tanker_Opinion_20060106.pdf
+2006-01-06,2006,2005,Overall,20,Navion,,1.2%,122,,,corpus/04-poten/pdfs/2006/Tanker_Opinion_20060106.pdf
+2006-01-20,2006,2005,Overall,1,Shell,,8.4%,409,,1,corpus/04-poten/pdfs/2006/Tanker_Opinion_20060120.pdf
+2006-01-20,2006,2005,Overall,2,BP,,5.7%,276,,2,corpus/04-poten/pdfs/2006/Tanker_Opinion_20060120.pdf
+2006-01-20,2006,2005,Overall,3,Vitol,,5.3%,256,,3,corpus/04-poten/pdfs/2006/Tanker_Opinion_20060120.pdf
+2006-01-20,2006,2005,Overall,4,Citgo,,3.4%,167,,7,corpus/04-poten/pdfs/2006/Tanker_Opinion_20060120.pdf
+2006-01-20,2006,2005,Overall,5,ExxonMobil,,3.3%,160,,5,corpus/04-poten/pdfs/2006/Tanker_Opinion_20060120.pdf
+2006-01-20,2006,2005,Overall,6,Glencore,,3.2%,158,,9,corpus/04-poten/pdfs/2006/Tanker_Opinion_20060120.pdf
+2006-01-20,2006,2005,Overall,7,Total (CSSA),,2.8%,137,,8,corpus/04-poten/pdfs/2006/Tanker_Opinion_20060120.pdf
+2006-01-20,2006,2005,Overall,8,Chevron,,2.6%,126,,4,corpus/04-poten/pdfs/2006/Tanker_Opinion_20060120.pdf
+2006-01-20,2006,2005,Overall,9,Trafigura,,2.3%,111,,,corpus/04-poten/pdfs/2006/Tanker_Opinion_20060120.pdf
+2006-01-20,2006,2005,Overall,10,Itochu,,2.0%,98,,6,corpus/04-poten/pdfs/2006/Tanker_Opinion_20060120.pdf
+2007-01-19,2007,2006,Overall,1,Shell,,6%,318,,1,corpus/04-poten/pdfs/2007/Tanker_Opinion_20070119.pdf
+2007-01-19,2007,2006,Overall,2,Vitol,,5%,257,,3,corpus/04-poten/pdfs/2007/Tanker_Opinion_20070119.pdf
+2007-01-19,2007,2006,Overall,3,BP,,5%,246,,2,corpus/04-poten/pdfs/2007/Tanker_Opinion_20070119.pdf
+2007-01-19,2007,2006,Overall,4,ST Shipping,,3%,182,,6,corpus/04-poten/pdfs/2007/Tanker_Opinion_20070119.pdf
+2007-01-19,2007,2006,Overall,5,CSSA,,3%,178,,7,corpus/04-poten/pdfs/2007/Tanker_Opinion_20070119.pdf
+2007-01-19,2007,2006,Overall,6,Lukoil,,3%,168,,11,corpus/04-poten/pdfs/2007/Tanker_Opinion_20070119.pdf
+2007-01-19,2007,2006,Overall,7,ExxonMobil,,3%,164,,5,corpus/04-poten/pdfs/2007/Tanker_Opinion_20070119.pdf
+2007-01-19,2007,2006,Overall,8,Trafigura,,3%,160,,9,corpus/04-poten/pdfs/2007/Tanker_Opinion_20070119.pdf
+2007-01-19,2007,2006,Overall,9,Citgo,,3%,150,,4,corpus/04-poten/pdfs/2007/Tanker_Opinion_20070119.pdf
+2007-01-19,2007,2006,Overall,10,Chevron,,3%,148,,8,corpus/04-poten/pdfs/2007/Tanker_Opinion_20070119.pdf
+2007-01-26,2007,2006,Overall,1,UKC,"3,646",3.3%,,,1,corpus/04-poten/pdfs/2007/Tanker_Opinion_20070126.pdf
+2007-12-28,2007,2006,Overall,1,"$212,270",,,2005,,1,corpus/04-poten/pdfs/2007/Tanker_Opinion_20071228.pdf
+2007-12-28,2007,2006,Overall,2,"$86,037",,,2007,,2,corpus/04-poten/pdfs/2007/Tanker_Opinion_20071228.pdf
+2007-12-28,2007,2006,Overall,3,"$205,500",,,,,6,corpus/04-poten/pdfs/2007/Tanker_Opinion_20071228.pdf
+2008-01-11,2008,2007,Overall,1,Shell,,7.5%,708,,1,corpus/04-poten/pdfs/2008/Tanker_Opinion_20080111.pdf
+2008-01-11,2008,2007,Overall,2,ExxonMobil,,5.3%,501,,2,corpus/04-poten/pdfs/2008/Tanker_Opinion_20080111.pdf
+2008-01-11,2008,2007,Overall,3,BP,,4.2%,397,,3,corpus/04-poten/pdfs/2008/Tanker_Opinion_20080111.pdf
+2008-01-11,2008,2007,Overall,4,Vitol,,4.1%,385,,4,corpus/04-poten/pdfs/2008/Tanker_Opinion_20080111.pdf
+2008-01-11,2008,2007,Overall,5,Total,,4.0%,373,,5,corpus/04-poten/pdfs/2008/Tanker_Opinion_20080111.pdf
+2008-01-11,2008,2007,Overall,6,Clearlake,,3.8%,356,,6,corpus/04-poten/pdfs/2008/Tanker_Opinion_20080111.pdf
+2008-01-11,2008,2007,Overall,7,ST Shipping,,3.3%,311,,10,corpus/04-poten/pdfs/2008/Tanker_Opinion_20080111.pdf
+2008-01-11,2008,2007,Overall,8,ConocoPhillips,,3.1%,294,,7,corpus/04-poten/pdfs/2008/Tanker_Opinion_20080111.pdf
+2008-01-11,2008,2007,Overall,9,Chevron,,2.7%,251,,8,corpus/04-poten/pdfs/2008/Tanker_Opinion_20080111.pdf
+2008-01-11,2008,2007,Overall,10,Ioc,,2.2%,205,,9,corpus/04-poten/pdfs/2008/Tanker_Opinion_20080111.pdf
+2008-01-11,2008,2007,Overall,11,Valero,,2.1%,200,,14,corpus/04-poten/pdfs/2008/Tanker_Opinion_20080111.pdf
+2008-01-11,2008,2007,Overall,12,Sun,,1.9%,178,,11,corpus/04-poten/pdfs/2008/Tanker_Opinion_20080111.pdf
+2008-01-11,2008,2007,Overall,13,SK,,1.8%,172,,16,corpus/04-poten/pdfs/2008/Tanker_Opinion_20080111.pdf
+2008-01-11,2008,2007,Overall,14,Unipec,,1.8%,167,,17,corpus/04-poten/pdfs/2008/Tanker_Opinion_20080111.pdf
+2008-01-11,2008,2007,Overall,15,Litasco,,1.7%,158,,,corpus/04-poten/pdfs/2008/Tanker_Opinion_20080111.pdf
+2008-01-11,2008,2007,Overall,16,Petrobras,,1.6%,153,,13,corpus/04-poten/pdfs/2008/Tanker_Opinion_20080111.pdf
+2008-01-11,2008,2007,Overall,17,Repsol,,1.6%,152,,15,corpus/04-poten/pdfs/2008/Tanker_Opinion_20080111.pdf
+2008-01-11,2008,2007,Overall,18,Koch,,1.5%,142,,18,corpus/04-poten/pdfs/2008/Tanker_Opinion_20080111.pdf
+2008-01-11,2008,2007,Overall,19,Citgo,,1.3%,125,,,corpus/04-poten/pdfs/2008/Tanker_Opinion_20080111.pdf
+2008-01-11,2008,2007,Overall,20,Ursa,,1.3%,121,,12,corpus/04-poten/pdfs/2008/Tanker_Opinion_20080111.pdf
+2008-01-25,2008,2007,Overall,1,Vitol,,7%,413,,2,corpus/04-poten/pdfs/2008/Tanker_Opinion_20080125.pdf
+2008-01-25,2008,2007,Overall,2,Shell,,7%,365,,1,corpus/04-poten/pdfs/2008/Tanker_Opinion_20080125.pdf
+2008-01-25,2008,2007,Overall,3,ST Shipping,,4%,235,,4,corpus/04-poten/pdfs/2008/Tanker_Opinion_20080125.pdf
+2008-01-25,2008,2007,Overall,4,Litasco,,4%,225,,6,corpus/04-poten/pdfs/2008/Tanker_Opinion_20080125.pdf
+2008-01-25,2008,2007,Overall,5,BP,,3%,173,,3,corpus/04-poten/pdfs/2008/Tanker_Opinion_20080125.pdf
+2008-01-25,2008,2007,Overall,6,CSSA,,2%,135,,5,corpus/04-poten/pdfs/2008/Tanker_Opinion_20080125.pdf
+2008-01-25,2008,2007,Overall,7,Chevron,,2%,127,,10,corpus/04-poten/pdfs/2008/Tanker_Opinion_20080125.pdf
+2008-01-25,2008,2007,Overall,8,Trafigura,,2%,126,,8,corpus/04-poten/pdfs/2008/Tanker_Opinion_20080125.pdf
+2008-01-25,2008,2007,Overall,9,Clearlake,,2%,120,,16,corpus/04-poten/pdfs/2008/Tanker_Opinion_20080125.pdf
+2008-01-25,2008,2007,Overall,10,ExxonMobil,,2%,108,,7,corpus/04-poten/pdfs/2008/Tanker_Opinion_20080125.pdf
+2008-12-24,2008,2007,Overall,1,"$176,209",,,,,1,corpus/04-poten/pdfs/2008/Tanker_Opinion_20081224.pdf
+2009-01-02,2009,2008,Overall,1,Shell,,7%,696,,1,corpus/04-poten/pdfs/2009/Tanker_Opinion_20090102.pdf
+2009-01-02,2009,2008,Overall,2,ExxonMobil,,5%,498,,2,corpus/04-poten/pdfs/2009/Tanker_Opinion_20090102.pdf
+2009-01-02,2009,2008,Overall,3,BP,,5%,444,,3,corpus/04-poten/pdfs/2009/Tanker_Opinion_20090102.pdf
+2009-01-02,2009,2008,Overall,4,CSSA,,4%,359,,5,corpus/04-poten/pdfs/2009/Tanker_Opinion_20090102.pdf
+2009-01-02,2009,2008,Overall,5,Vitol,,4%,344,,4,corpus/04-poten/pdfs/2009/Tanker_Opinion_20090102.pdf
+2009-01-02,2009,2008,Overall,6,Clearlake,,4%,356,,6,corpus/04-poten/pdfs/2009/Tanker_Opinion_20090102.pdf
+2009-01-02,2009,2008,Overall,7,Chevron,,3%,304,,9,corpus/04-poten/pdfs/2009/Tanker_Opinion_20090102.pdf
+2009-01-02,2009,2008,Overall,8,ConocoPhillips,,3%,297,,8,corpus/04-poten/pdfs/2009/Tanker_Opinion_20090102.pdf
+2009-01-02,2009,2008,Overall,9,Petrobras,,3%,266,,16,corpus/04-poten/pdfs/2009/Tanker_Opinion_20090102.pdf
+2009-01-02,2009,2008,Overall,10,Unipec,,2%,237,,14,corpus/04-poten/pdfs/2009/Tanker_Opinion_20090102.pdf
+2009-01-02,2009,2008,Overall,11,IOC,,2%,232,,10,corpus/04-poten/pdfs/2009/Tanker_Opinion_20090102.pdf
+2009-01-02,2009,2008,Overall,12,ST Shipping,,2%,197,,7,corpus/04-poten/pdfs/2009/Tanker_Opinion_20090102.pdf
+2009-01-02,2009,2008,Overall,13,Repsol,,2%,192,,17,corpus/04-poten/pdfs/2009/Tanker_Opinion_20090102.pdf
+2009-01-02,2009,2008,Overall,14,Litasco,,2%,168,,15,corpus/04-poten/pdfs/2009/Tanker_Opinion_20090102.pdf
+2009-01-02,2009,2008,Overall,15,Valero,,2%,189,,11,corpus/04-poten/pdfs/2009/Tanker_Opinion_20090102.pdf
+2009-01-02,2009,2008,Overall,16,PetroChina,,2%,148,,25,corpus/04-poten/pdfs/2009/Tanker_Opinion_20090102.pdf
+2009-01-02,2009,2008,Overall,17,Sun,,1%,139,,12,corpus/04-poten/pdfs/2009/Tanker_Opinion_20090102.pdf
+2009-01-02,2009,2008,Overall,18,Statoil,,1%,129,,22,corpus/04-poten/pdfs/2009/Tanker_Opinion_20090102.pdf
+2009-01-02,2009,2008,Overall,19,SK,,1%,123,,13,corpus/04-poten/pdfs/2009/Tanker_Opinion_20090102.pdf
+2009-01-02,2009,2008,Overall,20,Ursa,,1%,121,,20,corpus/04-poten/pdfs/2009/Tanker_Opinion_20090102.pdf
+2009-01-16,2009,2008,Overall,1,Shell,,8%,381,,2,corpus/04-poten/pdfs/2009/Tanker_Opinion_20090116.pdf
+2009-01-16,2009,2008,Overall,2,Vitol,,6%,296,,1,corpus/04-poten/pdfs/2009/Tanker_Opinion_20090116.pdf
+2009-01-16,2009,2008,Overall,3,ST Shipping,,4%,210,,3,corpus/04-poten/pdfs/2009/Tanker_Opinion_20090116.pdf
+2009-01-16,2009,2008,Overall,4,BP,,4%,191,,5,corpus/04-poten/pdfs/2009/Tanker_Opinion_20090116.pdf
+2009-01-16,2009,2008,Overall,5,CSSA,,3%,169,,6,corpus/04-poten/pdfs/2009/Tanker_Opinion_20090116.pdf
+2009-01-16,2009,2008,Overall,6,Litasco,,3%,143,,4,corpus/04-poten/pdfs/2009/Tanker_Opinion_20090116.pdf
+2009-01-16,2009,2008,Overall,7,Chevron,,2%,112,,7,corpus/04-poten/pdfs/2009/Tanker_Opinion_20090116.pdf
+2009-01-16,2009,2008,Overall,8,Clearlake,,2%,112,,9,corpus/04-poten/pdfs/2009/Tanker_Opinion_20090116.pdf
+2009-01-16,2009,2008,Overall,9,Trafigura,,2%,93,,8,corpus/04-poten/pdfs/2009/Tanker_Opinion_20090116.pdf
+2009-01-16,2009,2008,Overall,10,ConocoPhillips,"1,782",2%,75,,,corpus/04-poten/pdfs/2009/Tanker_Opinion_20090116.pdf
+2010-01-08,2010,2009,Overall,1,Shell,,7%,691,,1,corpus/04-poten/pdfs/2010/Tanker_Opinion_20100108.pdf
+2010-01-08,2010,2009,Overall,2,BP,,6%,544,,3,corpus/04-poten/pdfs/2010/Tanker_Opinion_20100108.pdf
+2010-01-08,2010,2009,Overall,3,CSSA,,5%,460,,4,corpus/04-poten/pdfs/2010/Tanker_Opinion_20100108.pdf
+2010-01-08,2010,2009,Overall,4,Clearlake,,4%,405,,6,corpus/04-poten/pdfs/2010/Tanker_Opinion_20100108.pdf
+2010-01-08,2010,2009,Overall,5,Vitol,,4%,365,,5,corpus/04-poten/pdfs/2010/Tanker_Opinion_20100108.pdf
+2010-01-08,2010,2009,Overall,6,Chevron,,3%,305,,7,corpus/04-poten/pdfs/2010/Tanker_Opinion_20100108.pdf
+2010-01-08,2010,2009,Overall,7,ExxonMobil,,3%,305,,2,corpus/04-poten/pdfs/2010/Tanker_Opinion_20100108.pdf
+2010-01-08,2010,2009,Overall,8,ConocoPhillips,,3%,258,,8,corpus/04-poten/pdfs/2010/Tanker_Opinion_20100108.pdf
+2010-01-08,2010,2009,Overall,9,Unipec,,3%,253,,10,corpus/04-poten/pdfs/2010/Tanker_Opinion_20100108.pdf
+2010-01-08,2010,2009,Overall,10,Lukoil,,3%,246,,14,corpus/04-poten/pdfs/2010/Tanker_Opinion_20100108.pdf
+2010-01-08,2010,2009,Overall,11,Petrobras,,3%,237,,9,corpus/04-poten/pdfs/2010/Tanker_Opinion_20100108.pdf
+2010-01-08,2010,2009,Overall,12,IOC,,2%,225,,11,corpus/04-poten/pdfs/2010/Tanker_Opinion_20100108.pdf
+2010-01-08,2010,2009,Overall,13,ST Shipping,,2%,207,,12,corpus/04-poten/pdfs/2010/Tanker_Opinion_20100108.pdf
+2010-01-08,2010,2009,Overall,14,PetroChina,,2%,172,,16,corpus/04-poten/pdfs/2010/Tanker_Opinion_20100108.pdf
+2010-01-08,2010,2009,Overall,15,Repsol,,2%,141,,13,corpus/04-poten/pdfs/2010/Tanker_Opinion_20100108.pdf
+2010-01-08,2010,2009,Overall,16,Trafigura,,2%,141,,,corpus/04-poten/pdfs/2010/Tanker_Opinion_20100108.pdf
+2010-01-08,2010,2009,Overall,17,Statoil,,1%,139,,18,corpus/04-poten/pdfs/2010/Tanker_Opinion_20100108.pdf
+2010-01-08,2010,2009,Overall,18,Mercuria,,1%,137,,30,corpus/04-poten/pdfs/2010/Tanker_Opinion_20100108.pdf
+2010-01-08,2010,2009,Overall,19,Castor,,1%,136,,20,corpus/04-poten/pdfs/2010/Tanker_Opinion_20100108.pdf
+2010-01-08,2010,2009,Overall,20,Sun,,1%,133,,17,corpus/04-poten/pdfs/2010/Tanker_Opinion_20100108.pdf
+2010-01-22,2010,2009,Overall,1,Shell,,8%,444,,1,corpus/04-poten/pdfs/2010/Tanker_Opinion_20100122.pdf
+2010-01-22,2010,2009,Overall,2,Vitol,,7%,399,,2,corpus/04-poten/pdfs/2010/Tanker_Opinion_20100122.pdf
+2010-01-22,2010,2009,Overall,3,CSSA,,4%,255,,5,corpus/04-poten/pdfs/2010/Tanker_Opinion_20100122.pdf
+2010-01-22,2010,2009,Overall,4,ST Shipping,,4%,243,,3,corpus/04-poten/pdfs/2010/Tanker_Opinion_20100122.pdf
+2010-01-22,2010,2009,Overall,5,BP,,4%,217,,4,corpus/04-poten/pdfs/2010/Tanker_Opinion_20100122.pdf
+2010-01-22,2010,2009,Overall,6,Litasco,,4%,200,,6,corpus/04-poten/pdfs/2010/Tanker_Opinion_20100122.pdf
+2010-01-22,2010,2009,Overall,7,Clearlake,,3%,165,,8,corpus/04-poten/pdfs/2010/Tanker_Opinion_20100122.pdf
+2010-01-22,2010,2009,Overall,8,Trafigura,,3%,145,,9,corpus/04-poten/pdfs/2010/Tanker_Opinion_20100122.pdf
+2010-01-22,2010,2009,Overall,9,Morgan Stanley,,2%,117,,14,corpus/04-poten/pdfs/2010/Tanker_Opinion_20100122.pdf
+2010-01-22,2010,2009,Overall,10,Chevron,,2%,114,,7,corpus/04-poten/pdfs/2010/Tanker_Opinion_20100122.pdf
+2011-01-07,2011,2010,Overall,1,Shell,,7%,725,,1,corpus/04-poten/pdfs/2011/Tanker_Opinion_20110107.pdf
+2011-01-07,2011,2010,Overall,2,BP,,4%,427,,2,corpus/04-poten/pdfs/2011/Tanker_Opinion_20110107.pdf
+2011-01-07,2011,2010,Overall,3,Total,,4%,426,,3,corpus/04-poten/pdfs/2011/Tanker_Opinion_20110107.pdf
+2011-01-07,2011,2010,Overall,4,Vitol,,4%,413,,5,corpus/04-poten/pdfs/2011/Tanker_Opinion_20110107.pdf
+2011-01-07,2011,2010,Overall,5,Unipec,,4%,399,,9,corpus/04-poten/pdfs/2011/Tanker_Opinion_20110107.pdf
+2011-01-07,2011,2010,Overall,6,Clearlake,,4%,376,,4,corpus/04-poten/pdfs/2011/Tanker_Opinion_20110107.pdf
+2011-01-07,2011,2010,Overall,7,Chevron,,3%,326,,6,corpus/04-poten/pdfs/2011/Tanker_Opinion_20110107.pdf
+2011-01-07,2011,2010,Overall,8,ExxonMobil,,3%,314,,7,corpus/04-poten/pdfs/2011/Tanker_Opinion_20110107.pdf
+2011-01-07,2011,2010,Overall,9,ConocoPhillips,,3%,272,,8,corpus/04-poten/pdfs/2011/Tanker_Opinion_20110107.pdf
+2011-01-07,2011,2010,Overall,10,Petrobras,,3%,244,,11,corpus/04-poten/pdfs/2011/Tanker_Opinion_20110107.pdf
+2011-01-07,2011,2010,Overall,11,Lukoil,,2%,238,,10,corpus/04-poten/pdfs/2011/Tanker_Opinion_20110107.pdf
+2011-01-07,2011,2010,Overall,12,IOC,,2%,212,,12,corpus/04-poten/pdfs/2011/Tanker_Opinion_20110107.pdf
+2011-01-07,2011,2010,Overall,13,ST Shipping,,2%,201,,13,corpus/04-poten/pdfs/2011/Tanker_Opinion_20110107.pdf
+2011-01-07,2011,2010,Overall,14,Repsol,,2%,175,,15,corpus/04-poten/pdfs/2011/Tanker_Opinion_20110107.pdf
+2011-01-07,2011,2010,Overall,15,PetroChina,,2%,175,,14,corpus/04-poten/pdfs/2011/Tanker_Opinion_20110107.pdf
+2011-01-07,2011,2010,Overall,16,Valero,,2%,151,,,corpus/04-poten/pdfs/2011/Tanker_Opinion_20110107.pdf
+2011-01-07,2011,2010,Overall,17,Statoil,,2%,151,,17,corpus/04-poten/pdfs/2011/Tanker_Opinion_20110107.pdf
+2011-01-07,2011,2010,Overall,18,Socar,,1%,140,,,corpus/04-poten/pdfs/2011/Tanker_Opinion_20110107.pdf
+2011-01-07,2011,2010,Overall,19,Trafigura,,1%,138,,16,corpus/04-poten/pdfs/2011/Tanker_Opinion_20110107.pdf
+2011-01-07,2011,2010,Overall,20,Reliance,,1%,129,,,corpus/04-poten/pdfs/2011/Tanker_Opinion_20110107.pdf
+2011-01-21,2011,2010,Overall,1,Shell,,6.2%,,,1,corpus/04-poten/pdfs/2011/Tanker_Opinion_20110121.pdf
+2011-01-21,2011,2010,Overall,2,Vitol,,5.9%,,,2,corpus/04-poten/pdfs/2011/Tanker_Opinion_20110121.pdf
+2011-01-21,2011,2010,Overall,3,Total,,5.1%,,,3,corpus/04-poten/pdfs/2011/Tanker_Opinion_20110121.pdf
+2011-01-21,2011,2010,Overall,4,BP,,4.4%,,,5,corpus/04-poten/pdfs/2011/Tanker_Opinion_20110121.pdf
+2011-01-21,2011,2010,Overall,5,ST,,4.1%,,,4,corpus/04-poten/pdfs/2011/Tanker_Opinion_20110121.pdf
+2011-01-21,2011,2010,Overall,6,Trafigura,,2.4%,,,8,corpus/04-poten/pdfs/2011/Tanker_Opinion_20110121.pdf
+2011-01-21,2011,2010,Overall,7,Petrobras,,2.3%,,,,corpus/04-poten/pdfs/2011/Tanker_Opinion_20110121.pdf
+2011-01-21,2011,2010,Overall,8,Clearlake,,2.2%,,,7,corpus/04-poten/pdfs/2011/Tanker_Opinion_20110121.pdf
+2011-01-21,2011,2010,Overall,9,Chevron,,2.2%,,,10,corpus/04-poten/pdfs/2011/Tanker_Opinion_20110121.pdf
+2011-01-21,2011,2010,Overall,10,Hess,,2.1%,,,,corpus/04-poten/pdfs/2011/Tanker_Opinion_20110121.pdf
+2012-01-06,2012,2011,Overall,1,Shell,,7%,661,,1,corpus/04-poten/pdfs/2012/Tanker_Opinion_20120106.pdf
+2012-01-06,2012,2011,Overall,2,Unipec,,7%,586,,5,corpus/04-poten/pdfs/2012/Tanker_Opinion_20120106.pdf
+2012-01-06,2012,2011,Overall,3,BP,,5%,422,,2,corpus/04-poten/pdfs/2012/Tanker_Opinion_20120106.pdf
+2012-01-06,2012,2011,Overall,4,Chevron,,4%,376,,7,corpus/04-poten/pdfs/2012/Tanker_Opinion_20120106.pdf
+2012-01-06,2012,2011,Overall,5,Vitol,,4%,355,,4,corpus/04-poten/pdfs/2012/Tanker_Opinion_20120106.pdf
+2012-01-06,2012,2011,Overall,6,ExxonMobil,,4%,350,,8,corpus/04-poten/pdfs/2012/Tanker_Opinion_20120106.pdf
+2012-01-06,2012,2011,Overall,7,Total,,3%,304,,3,corpus/04-poten/pdfs/2012/Tanker_Opinion_20120106.pdf
+2012-01-06,2012,2011,Overall,8,Petrobras,,3%,271,,10,corpus/04-poten/pdfs/2012/Tanker_Opinion_20120106.pdf
+2012-01-06,2012,2011,Overall,9,Petrochina,,3%,244,,15,corpus/04-poten/pdfs/2012/Tanker_Opinion_20120106.pdf
+2012-01-06,2012,2011,Overall,10,ConocoPhillips,,3%,241,,9,corpus/04-poten/pdfs/2012/Tanker_Opinion_20120106.pdf
+2012-01-06,2012,2011,Overall,11,Clearlake,,3%,237,,6,corpus/04-poten/pdfs/2012/Tanker_Opinion_20120106.pdf
+2012-01-06,2012,2011,Overall,12,Ioc,,3%,231,,12,corpus/04-poten/pdfs/2012/Tanker_Opinion_20120106.pdf
+2012-01-06,2012,2011,Overall,13,Lukoil,,2%,215,,11,corpus/04-poten/pdfs/2012/Tanker_Opinion_20120106.pdf
+2012-01-06,2012,2011,Overall,14,Socar,,2%,192,,18,corpus/04-poten/pdfs/2012/Tanker_Opinion_20120106.pdf
+2012-01-06,2012,2011,Overall,15,Reliance,,2%,152,,20,corpus/04-poten/pdfs/2012/Tanker_Opinion_20120106.pdf
+2012-01-06,2012,2011,Overall,16,Repsol,,2%,148,,14,corpus/04-poten/pdfs/2012/Tanker_Opinion_20120106.pdf
+2012-01-06,2012,2011,Overall,17,ST Shipping,,2%,143,,13,corpus/04-poten/pdfs/2012/Tanker_Opinion_20120106.pdf
+2012-01-06,2012,2011,Overall,18,Mercuria,,2%,139,,,corpus/04-poten/pdfs/2012/Tanker_Opinion_20120106.pdf
+2012-01-06,2012,2011,Overall,19,Valero,,1%,131,,16,corpus/04-poten/pdfs/2012/Tanker_Opinion_20120106.pdf
+2012-01-06,2012,2011,Overall,20,Statoil,,1%,131,,17,corpus/04-poten/pdfs/2012/Tanker_Opinion_20120106.pdf
+2013-01-04,2013,2012,Overall,1,Unipec,,7.2%,707,,,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130104.pdf
+2013-01-04,2013,2012,Overall,2,"159,274",,7.2%,701,,1,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130104.pdf
+2013-01-04,2013,2012,Overall,3,Vitol,,4.7%,463,,,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130104.pdf
+2013-01-04,2013,2012,Overall,4,"48,088",,4.5%,440,,5,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130104.pdf
+2013-01-04,2013,2012,Overall,5,ExxonMobil,,3.9%,378,,,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130104.pdf
+2013-01-04,2013,2012,Overall,6,"56,453",,3.6%,349,,3,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130104.pdf
+2013-01-04,2013,2012,Overall,7,CSSA,"33,980",3.2%,315,,7,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130104.pdf
+2013-01-04,2013,2012,Overall,8,Clearlake,,2.8%,278,,,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130104.pdf
+2013-01-04,2013,2012,Overall,9,"27,267",,2.5%,249,,12,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130104.pdf
+2013-01-04,2013,2012,Overall,10,PetroChina,,2.5%,245,,,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130104.pdf
+2013-01-04,2013,2012,Overall,11,"48,609",,2.2%,212,,4,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130104.pdf
+2013-01-04,2013,2012,Overall,12,IOC,"38,243",2.1%,210,,12,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130104.pdf
+2013-01-04,2013,2012,Overall,13,Reliance,"42,565",2.1%,209,,18,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130104.pdf
+2013-01-04,2013,2012,Overall,14,ST Shipping,"19,061",2.1%,209,,16,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130104.pdf
+2013-01-04,2013,2012,Overall,15,Litasco,"19,192",2.1%,202,,13,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130104.pdf
+2013-01-04,2013,2012,Overall,16,Petrobras,"22,087",2.0%,196,,8,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130104.pdf
+2013-01-04,2013,2012,Overall,17,Mercuria,,1.8%,179,,,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130104.pdf
+2013-01-04,2013,2012,Overall,18,"16,735",,1.7%,171,,25,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130104.pdf
+2013-01-04,2013,2012,Overall,19,Statoil,,1.6%,160,,,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130104.pdf
+2013-01-04,2013,2012,Overall,20,"18,439",,1.6%,155,,19,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130104.pdf
+2013-01-04,2013,2012,Overall,21,"16,347",,,,,26,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130104.pdf
+2013-04-19,2013,2012,Overall,1,Russian Federation,"10,730",,,,,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130419.pdf
+2013-04-19,2013,2012,Overall,2,3.04%,"9,510",,,,2,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130419.pdf
+2013-04-19,2013,2012,Overall,3,2.32%,"9,140",0.28%,,,3,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130419.pdf
+2013-04-19,2013,2012,Overall,4,China,"4,180",2.01%,,,6,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130419.pdf
+2013-04-19,2013,2012,Overall,5,Canada,"3,760",2.11%,,,9,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130419.pdf
+2013-04-19,2013,2012,Overall,6,Iran,"3,000",1.90%,,,5,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130419.pdf
+2013-04-19,2013,2012,Overall,7,Iraq,"2,950",2.83%,,,12,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130419.pdf
+2013-04-19,2013,2012,Overall,8,Mexico,"2,920",-1.99%,,,4,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130419.pdf
+2013-04-19,2013,2012,Overall,9,United Arab Emirates,"2,650",3.35%,,,11,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130419.pdf
+2013-04-19,2013,2012,Overall,10,Kuwait,"2,460",3.52%,,,14,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130419.pdf
+2013-04-26,2013,2012,Overall,1,Mexico,,,,,,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130426.pdf
+2013-04-26,2013,2012,Overall,1,Mexico,,,,,,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130426.pdf
+2013-04-26,2013,2012,Overall,2,Singapore,,,,,,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130426.pdf
+2013-04-26,2013,2012,Overall,2,Canada,,,,,,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130426.pdf
+2013-04-26,2013,2012,Overall,3,Netherlands,,,,,,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130426.pdf
+2013-04-26,2013,2012,Overall,3,Guatemala,,,,,,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130426.pdf
+2013-04-26,2013,2012,Overall,4,Canada,,,,,,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130426.pdf
+2013-04-26,2013,2012,Overall,4,Puerto Rico,,,,,,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130426.pdf
+2013-04-26,2013,2012,Overall,5,Panama,,,,,,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130426.pdf
+2013-04-26,2013,2012,Overall,5,Honduras,,,,,,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130426.pdf
+2013-04-26,2013,2012,Overall,6,Dominican Republic,,,,,,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130426.pdf
+2013-04-26,2013,2012,Overall,6,Dominican Republic,,,,,,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130426.pdf
+2013-04-26,2013,2012,Overall,7,Netherlands Antilles,,,,,,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130426.pdf
+2013-04-26,2013,2012,Overall,7,Bahama Islands,,,,,,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130426.pdf
+2013-04-26,2013,2012,Overall,8,"China, Taiwan",,,,,,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130426.pdf
+2013-04-26,2013,2012,Overall,8,New Zealand,,,,,,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130426.pdf
+2013-04-26,2013,2012,Overall,9,Guatemala,,,,,,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130426.pdf
+2013-04-26,2013,2012,Overall,9,Israel,,,,,,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130426.pdf
+2013-04-26,2013,2012,Overall,10,Puerto Rico,,,,,,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130426.pdf
+2013-04-26,2013,2012,Overall,10,Argentina,,,,,,corpus/04-poten/pdfs/2013/Tanker_Opinion_20130426.pdf
+2013-12-06,2013,2012,Overall,1,"$4,640",,,2000,,4,corpus/04-poten/pdfs/2013/Tanker_Opinion_20131206.pdf
+2014-01-03,2014,2013,Overall,1,Unipec,"171,092",8.1%,791,,1,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140103.pdf
+2014-01-03,2014,2013,Overall,1,Shell,,8.2%,863,,1,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140103.pdf
+2014-01-03,2014,2013,Overall,2,Shell,"82,983",7.7%,752,,2,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140103.pdf
+2014-01-03,2014,2013,Overall,2,ExxonMobil,,5.2%,551,,2,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140103.pdf
+2014-01-03,2014,2013,Overall,3,BP,,5.5%,537,,,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140103.pdf
+2014-01-03,2014,2013,Overall,3,BP,,4.5%,473,,4,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140103.pdf
+2014-01-03,2014,2013,Overall,4,"58,261",,4.4%,426,,3,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140103.pdf
+2014-01-03,2014,2013,Overall,4,Vitol,,4.0%,422,,6,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140103.pdf
+2014-01-03,2014,2013,Overall,5,ExxonMobil,"49,075",3.6%,349,,5,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140103.pdf
+2014-01-03,2014,2013,Overall,5,CSSA (Total),,4.0%,419,,5,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140103.pdf
+2014-01-03,2014,2013,Overall,6,Chevron,"33,266",3.2%,310,,6,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140103.pdf
+2014-01-03,2014,2013,Overall,7,CSSA,"33,977",3.1%,301,,7,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140103.pdf
+2014-01-03,2014,2013,Overall,8,Petrochina,"55,118",3.0%,295,,10,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140103.pdf
+2014-01-03,2014,2013,Overall,9,Litasco,"28,210",3.0%,291,,15,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140103.pdf
+2014-01-03,2014,2013,Overall,10,Repsol,"30,642",3.0%,288,,9,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140103.pdf
+2014-01-03,2014,2013,Overall,11,ST Shipping,"22,953",2.5%,239,,14,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140103.pdf
+2014-01-03,2014,2013,Overall,12,IOC,"38,167",2.2%,211,,12,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140103.pdf
+2014-01-03,2014,2013,Overall,13,Reliance,"42,394",2.1%,202,,13,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140103.pdf
+2014-01-03,2014,2013,Overall,14,Clearlake,"20,076",2.0%,198,,8,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140103.pdf
+2014-01-03,2014,2013,Overall,15,Petrobras,,2.0%,193,,,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140103.pdf
+2014-01-03,2014,2013,Overall,16,"22,261",,2.0%,191,,15,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140103.pdf
+2014-01-03,2014,2013,Overall,17,BPCL,"19,054",1.7%,170,,19,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140103.pdf
+2014-01-03,2014,2013,Overall,18,Mercuria,"17,511",1.7%,167,,17,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140103.pdf
+2014-01-03,2014,2013,Overall,19,Phillips 66,"13,578",1.7%,161,,11,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140103.pdf
+2014-01-03,2014,2013,Overall,20,Valero,"16,795",1.6%,157,,20,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140103.pdf
+2014-05-02,2014,2013,Overall,1,Guangdong,,,930,,,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140502.pdf
+2014-05-02,2014,2013,Overall,2,Jiangsu,,,881,,,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140502.pdf
+2014-05-02,2014,2013,Overall,3,Shandong,,,814,,,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140502.pdf
+2014-05-02,2014,2013,Overall,4,Zhejiang,,,563,,8,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140502.pdf
+2014-05-02,2014,2013,Overall,5,Henan,,,485,,,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140502.pdf
+2014-05-02,2014,2013,Overall,6,Hebei,,,433,,,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140502.pdf
+2014-05-02,2014,2013,Overall,7,Liaoning,,,404,,,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140502.pdf
+2014-05-02,2014,2013,Overall,8,Sichuan,,,387,,,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140502.pdf
+2014-05-02,2014,2013,Overall,9,Hubei,,,363,,,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140502.pdf
+2014-05-02,2014,2013,Overall,10,Hunan,,,316,,,corpus/04-poten/pdfs/2014/Tanker_Opinion_20140502.pdf
+2015-08-07,2015,2014,Overall,1,AG,,,,,1,corpus/04-poten/pdfs/2015/Weekly-Opinion-August-7-2015-Top-Dirty-Tanker-Routes-in-20151.pdf
+2015-08-07,2015,2014,Overall,2,Med,,,,,2,corpus/04-poten/pdfs/2015/Weekly-Opinion-August-7-2015-Top-Dirty-Tanker-Routes-in-20151.pdf
+2015-08-07,2015,2014,Overall,3,AG,,,,,4,corpus/04-poten/pdfs/2015/Weekly-Opinion-August-7-2015-Top-Dirty-Tanker-Routes-in-20151.pdf
+2015-08-07,2015,2014,Overall,4,UKC,,,,,3,corpus/04-poten/pdfs/2015/Weekly-Opinion-August-7-2015-Top-Dirty-Tanker-Routes-in-20151.pdf
+2015-08-07,2015,2014,Overall,5,W Africa,,,,,5,corpus/04-poten/pdfs/2015/Weekly-Opinion-August-7-2015-Top-Dirty-Tanker-Routes-in-20151.pdf
+2015-08-07,2015,2014,Overall,6,AG,,,,,8,corpus/04-poten/pdfs/2015/Weekly-Opinion-August-7-2015-Top-Dirty-Tanker-Routes-in-20151.pdf
+2015-08-07,2015,2014,Overall,7,Med,,,,,10,corpus/04-poten/pdfs/2015/Weekly-Opinion-August-7-2015-Top-Dirty-Tanker-Routes-in-20151.pdf
+2015-08-07,2015,2014,Overall,8,Caribs,,,,,6,corpus/04-poten/pdfs/2015/Weekly-Opinion-August-7-2015-Top-Dirty-Tanker-Routes-in-20151.pdf
+2015-08-07,2015,2014,Overall,9,W Africa,,,,,9,corpus/04-poten/pdfs/2015/Weekly-Opinion-August-7-2015-Top-Dirty-Tanker-Routes-in-20151.pdf
+2015-08-07,2015,2014,Overall,10,AG,,,,,7,corpus/04-poten/pdfs/2015/Weekly-Opinion-August-7-2015-Top-Dirty-Tanker-Routes-in-20151.pdf
+2015-08-07,2015,2014,Overall,11,W Africa,,,,,13,corpus/04-poten/pdfs/2015/Weekly-Opinion-August-7-2015-Top-Dirty-Tanker-Routes-in-20151.pdf
+2015-08-07,2015,2014,Overall,12,Far East,,,,,17,corpus/04-poten/pdfs/2015/Weekly-Opinion-August-7-2015-Top-Dirty-Tanker-Routes-in-20151.pdf
+2015-08-07,2015,2014,Overall,13,SE Asia,,,,,12,corpus/04-poten/pdfs/2015/Weekly-Opinion-August-7-2015-Top-Dirty-Tanker-Routes-in-20151.pdf
+2015-08-07,2015,2014,Overall,14,SE Asia,,,,,14,corpus/04-poten/pdfs/2015/Weekly-Opinion-August-7-2015-Top-Dirty-Tanker-Routes-in-20151.pdf
+2015-08-07,2015,2014,Overall,15,AG,,,,,15,corpus/04-poten/pdfs/2015/Weekly-Opinion-August-7-2015-Top-Dirty-Tanker-Routes-in-20151.pdf
+2016-01-08,2016,2015,Overall,1,Unipec,"168,425",13.4%,809,,1,corpus/04-poten/pdfs/2016/Weekly-Opinion-January-8-2016-No-Changes-At-The-Top.pdf
+2016-01-08,2016,2015,Overall,2,Shell,"62,003",4.9%,605,,2,corpus/04-poten/pdfs/2016/Weekly-Opinion-January-8-2016-No-Changes-At-The-Top.pdf
+2016-01-08,2016,2015,Overall,3,Vitol,"55,908",4.4%,595,,3,corpus/04-poten/pdfs/2016/Weekly-Opinion-January-8-2016-No-Changes-At-The-Top.pdf
+2016-01-08,2016,2015,Overall,4,IOC,"48,761",3.9%,270,,10,corpus/04-poten/pdfs/2016/Weekly-Opinion-January-8-2016-No-Changes-At-The-Top.pdf
+2016-01-08,2016,2015,Overall,5,ExxonMobil,"45,711",3.6%,326,,4,corpus/04-poten/pdfs/2016/Weekly-Opinion-January-8-2016-No-Changes-At-The-Top.pdf
+2016-01-08,2016,2015,Overall,6,Chevron,"42,703",3.4%,360,,6,corpus/04-poten/pdfs/2016/Weekly-Opinion-January-8-2016-No-Changes-At-The-Top.pdf
+2016-01-08,2016,2015,Overall,7,Petrochina,"39,095",3.1%,211,,7,corpus/04-poten/pdfs/2016/Weekly-Opinion-January-8-2016-No-Changes-At-The-Top.pdf
+2016-01-08,2016,2015,Overall,8,Litasco,"35,987",2.9%,345,,11,corpus/04-poten/pdfs/2016/Weekly-Opinion-January-8-2016-No-Changes-At-The-Top.pdf
+2016-01-08,2016,2015,Overall,9,CSSA,"35,608",2.8%,323,,8,corpus/04-poten/pdfs/2016/Weekly-Opinion-January-8-2016-No-Changes-At-The-Top.pdf
+2016-01-08,2016,2015,Overall,10,BP,"35,383",2.8%,405,,5,corpus/04-poten/pdfs/2016/Weekly-Opinion-January-8-2016-No-Changes-At-The-Top.pdf
+2016-01-08,2016,2015,Overall,11,Reliance,"34,745",2.8%,165,,9,corpus/04-poten/pdfs/2016/Weekly-Opinion-January-8-2016-No-Changes-At-The-Top.pdf
+2016-01-08,2016,2015,Overall,12,Bahri,"32,315",2.6%,117,,23,corpus/04-poten/pdfs/2016/Weekly-Opinion-January-8-2016-No-Changes-At-The-Top.pdf
+2016-01-08,2016,2015,Overall,13,ST Shipping,"31,108",2.5%,304,,13,corpus/04-poten/pdfs/2016/Weekly-Opinion-January-8-2016-No-Changes-At-The-Top.pdf
+2016-01-08,2016,2015,Overall,14,Repsol,"29,308",2.3%,270,,12,corpus/04-poten/pdfs/2016/Weekly-Opinion-January-8-2016-No-Changes-At-The-Top.pdf
+2016-01-08,2016,2015,Overall,15,Petrobras,"26,870",2.1%,196,,14,corpus/04-poten/pdfs/2016/Weekly-Opinion-January-8-2016-No-Changes-At-The-Top.pdf
+2016-01-08,2016,2015,Overall,16,CNR,"26,683",2.1%,245,,15,corpus/04-poten/pdfs/2016/Weekly-Opinion-January-8-2016-No-Changes-At-The-Top.pdf
+2016-01-08,2016,2015,Overall,17,Trafigura,"23,265",1.9%,31,,,corpus/04-poten/pdfs/2016/Weekly-Opinion-January-8-2016-No-Changes-At-The-Top.pdf
+2016-01-08,2016,2015,Overall,18,Clearlake,"20,672",1.6%,264,,20,corpus/04-poten/pdfs/2016/Weekly-Opinion-January-8-2016-No-Changes-At-The-Top.pdf
+2016-01-08,2016,2015,Overall,19,Socar,"19,671",1.6%,231,,16,corpus/04-poten/pdfs/2016/Weekly-Opinion-January-8-2016-No-Changes-At-The-Top.pdf
+2016-01-08,2016,2015,Overall,20,PTT,"18,345",1.5%,115,,22,corpus/04-poten/pdfs/2016/Weekly-Opinion-January-8-2016-No-Changes-At-The-Top.pdf
+2016-07-08,2016,2015,Overall,1,Unipec,"88,349",13.8%,441,,1,corpus/04-poten/pdfs/2016/Weekly-Opinion-July-8-2016-Halftime-Report.pdf
+2016-07-08,2016,2015,Overall,2,Shell,"31,408",4.9%,275,,2,corpus/04-poten/pdfs/2016/Weekly-Opinion-July-8-2016-Halftime-Report.pdf
+2016-07-08,2016,2015,Overall,3,Vitol,"28,479",4.4%,225,,3,corpus/04-poten/pdfs/2016/Weekly-Opinion-July-8-2016-Halftime-Report.pdf
+2016-07-08,2016,2015,Overall,4,Ioc,"25,502",4.0%,127,,4,corpus/04-poten/pdfs/2016/Weekly-Opinion-July-8-2016-Halftime-Report.pdf
+2016-07-08,2016,2015,Overall,5,ExxonMobil,"23,500",4.0%,160,,5,corpus/04-poten/pdfs/2016/Weekly-Opinion-July-8-2016-Halftime-Report.pdf
+2016-07-08,2016,2015,Overall,6,Chevron,"23,290",3.7%,216,,6,corpus/04-poten/pdfs/2016/Weekly-Opinion-July-8-2016-Halftime-Report.pdf
+2016-07-08,2016,2015,Overall,7,Petrochina,"20,358",3.6%,142,,7,corpus/04-poten/pdfs/2016/Weekly-Opinion-July-8-2016-Halftime-Report.pdf
+2016-07-08,2016,2015,Overall,8,Reliance,"20,075",3.2%,102,,11,corpus/04-poten/pdfs/2016/Weekly-Opinion-July-8-2016-Halftime-Report.pdf
+2016-07-08,2016,2015,Overall,9,CSSA,"19,526",3.1%,184,,9,corpus/04-poten/pdfs/2016/Weekly-Opinion-July-8-2016-Halftime-Report.pdf
+2016-07-08,2016,2015,Overall,10,ST Shipping,"18,789",3.0%,195,,13,corpus/04-poten/pdfs/2016/Weekly-Opinion-July-8-2016-Halftime-Report.pdf
+2016-07-08,2016,2015,Overall,11,BP,"17,160",2.9%,198,,10,corpus/04-poten/pdfs/2016/Weekly-Opinion-July-8-2016-Halftime-Report.pdf
+2016-07-08,2016,2015,Overall,12,Trafigura,"16,018",2.7%,164,,16,corpus/04-poten/pdfs/2016/Weekly-Opinion-July-8-2016-Halftime-Report.pdf
+2016-07-08,2016,2015,Overall,13,LITASCO,"15,677",2.5%,168,,8,corpus/04-poten/pdfs/2016/Weekly-Opinion-July-8-2016-Halftime-Report.pdf
+2016-07-08,2016,2015,Overall,14,Bahri,"15,580",2.4%,56,,12,corpus/04-poten/pdfs/2016/Weekly-Opinion-July-8-2016-Halftime-Report.pdf
+2016-07-08,2016,2015,Overall,15,Socar,"12,358",2.4%,132,,18,corpus/04-poten/pdfs/2016/Weekly-Opinion-July-8-2016-Halftime-Report.pdf
+2016-07-08,2016,2015,Overall,16,Repsol,"11,277",1.8%,101,,14,corpus/04-poten/pdfs/2016/Weekly-Opinion-July-8-2016-Halftime-Report.pdf
+2016-07-08,2016,2015,Overall,17,Clearlake,"9,740",1.5%,114,,17,corpus/04-poten/pdfs/2016/Weekly-Opinion-July-8-2016-Halftime-Report.pdf
+2016-07-08,2016,2015,Overall,18,Bharat Petroleum,"9,473",1.5%,66,,21,corpus/04-poten/pdfs/2016/Weekly-Opinion-July-8-2016-Halftime-Report.pdf
+2016-07-08,2016,2015,Overall,19,GS Caltex,"9,170",1.4%,44,,23,corpus/04-poten/pdfs/2016/Weekly-Opinion-July-8-2016-Halftime-Report.pdf
+2016-07-08,2016,2015,Overall,20,Day Harvest,"8,590",1.3%,34,,20,corpus/04-poten/pdfs/2016/Weekly-Opinion-July-8-2016-Halftime-Report.pdf
+2017-07-07,2017,2016,Overall,1,Unipec,"88,805",13.0%,425,,1,corpus/04-poten/pdfs/2017/Weekly-Opinion-July-7-2017-2017-Halftime-Report.pdf
+2017-07-07,2017,2016,Overall,2,Shell,"37,934",5.5%,317,,2,corpus/04-poten/pdfs/2017/Weekly-Opinion-July-7-2017-2017-Halftime-Report.pdf
+2017-07-07,2017,2016,Overall,3,Vitol,"29,721",5.5%,325,,3,corpus/04-poten/pdfs/2017/Weekly-Opinion-July-7-2017-2017-Halftime-Report.pdf
+2017-07-07,2017,2016,Overall,4,Ioc,"24,941",3.6%,141,,6,corpus/04-poten/pdfs/2017/Weekly-Opinion-July-7-2017-2017-Halftime-Report.pdf
+2017-07-07,2017,2016,Overall,5,Petrochina,"24,156",3.6%,160,,9,corpus/04-poten/pdfs/2017/Weekly-Opinion-July-7-2017-2017-Halftime-Report.pdf
+2017-07-07,2017,2016,Overall,6,Total,"23,363",3.5%,197,,7,corpus/04-poten/pdfs/2017/Weekly-Opinion-July-7-2017-2017-Halftime-Report.pdf
+2017-07-07,2017,2016,Overall,7,Chevron,"23,180",3.4%,215,,5,corpus/04-poten/pdfs/2017/Weekly-Opinion-July-7-2017-2017-Halftime-Report.pdf
+2017-07-07,2017,2016,Overall,8,Glencore,"20,705",3.4%,200,,10,corpus/04-poten/pdfs/2017/Weekly-Opinion-July-7-2017-2017-Halftime-Report.pdf
+2017-07-07,2017,2016,Overall,9,Lukoil,"20,453",3.0%,211,,13,corpus/04-poten/pdfs/2017/Weekly-Opinion-July-7-2017-2017-Halftime-Report.pdf
+2017-07-07,2017,2016,Overall,10,Reliance,"18,780",3.0%,90,,8,corpus/04-poten/pdfs/2017/Weekly-Opinion-July-7-2017-2017-Halftime-Report.pdf
+2017-07-07,2017,2016,Overall,11,Trafigura,"17,765",2.7%,186,,12,corpus/04-poten/pdfs/2017/Weekly-Opinion-July-7-2017-2017-Halftime-Report.pdf
+2017-07-07,2017,2016,Overall,12,BP,"17,280",2.6%,189,,11,corpus/04-poten/pdfs/2017/Weekly-Opinion-July-7-2017-2017-Halftime-Report.pdf
+2017-07-07,2017,2016,Overall,13,ExxonMobil,"14,430",2.5%,99,,4,corpus/04-poten/pdfs/2017/Weekly-Opinion-July-7-2017-2017-Halftime-Report.pdf
+2017-07-07,2017,2016,Overall,14,Repsol,"14,382",2.1%,131,,16,corpus/04-poten/pdfs/2017/Weekly-Opinion-July-7-2017-2017-Halftime-Report.pdf
+2017-07-07,2017,2016,Overall,15,Sinochem,"12,225",2.1%,50,,20,corpus/04-poten/pdfs/2017/Weekly-Opinion-July-7-2017-2017-Halftime-Report.pdf
+2017-07-07,2017,2016,Overall,16,Socar,"10,372",1.5%,98,,15,corpus/04-poten/pdfs/2017/Weekly-Opinion-July-7-2017-2017-Halftime-Report.pdf
+2017-07-07,2017,2016,Overall,17,ENI,"10,210",1.5%,99,,30,corpus/04-poten/pdfs/2017/Weekly-Opinion-July-7-2017-2017-Halftime-Report.pdf
+2017-07-07,2017,2016,Overall,18,Petrobras,"10,155",1.5%,69,,19,corpus/04-poten/pdfs/2017/Weekly-Opinion-July-7-2017-2017-Halftime-Report.pdf
+2017-07-07,2017,2016,Overall,19,GS Caltex,"8,560",1.3%,39,,18,corpus/04-poten/pdfs/2017/Weekly-Opinion-July-7-2017-2017-Halftime-Report.pdf
+2017-07-07,2017,2016,Overall,20,BPCL,"8,068",1.2%,65,,21,corpus/04-poten/pdfs/2017/Weekly-Opinion-July-7-2017-2017-Halftime-Report.pdf
+2018-01-05,2018,2017,Overall,1,Unipec,"188,867",13.8%,878,,1,corpus/04-poten/pdfs/2018/Weekly-Opinion-January-5-2018-Spot-The-Difference.pdf
+2018-01-05,2018,2017,Overall,2,Shell,"77,515",5.7%,646,,2,corpus/04-poten/pdfs/2018/Weekly-Opinion-January-5-2018-Spot-The-Difference.pdf
+2018-01-05,2018,2017,Overall,3,Vitol,"60,447",5.7%,662,,3,corpus/04-poten/pdfs/2018/Weekly-Opinion-January-5-2018-Spot-The-Difference.pdf
+2018-01-05,2018,2017,Overall,4,Ioc,"50,925",3.7%,277,,4,corpus/04-poten/pdfs/2018/Weekly-Opinion-January-5-2018-Spot-The-Difference.pdf
+2018-01-05,2018,2017,Overall,5,Petrochina,"46,789",3.7%,310,,6,corpus/04-poten/pdfs/2018/Weekly-Opinion-January-5-2018-Spot-The-Difference.pdf
+2018-01-05,2018,2017,Overall,6,Chevron,"45,435",3.4%,408,,7,corpus/04-poten/pdfs/2018/Weekly-Opinion-January-5-2018-Spot-The-Difference.pdf
+2018-01-05,2018,2017,Overall,7,Total,"44,678",3.3%,370,,8,corpus/04-poten/pdfs/2018/Weekly-Opinion-January-5-2018-Spot-The-Difference.pdf
+2018-01-05,2018,2017,Overall,8,Lukoil,"40,467",3.3%,389,,13,corpus/04-poten/pdfs/2018/Weekly-Opinion-January-5-2018-Spot-The-Difference.pdf
+2018-01-05,2018,2017,Overall,9,Glencore,"36,849",3.0%,353,,9,corpus/04-poten/pdfs/2018/Weekly-Opinion-January-5-2018-Spot-The-Difference.pdf
+2018-01-05,2018,2017,Overall,10,BP,"36,671",2.7%,374,,12,corpus/04-poten/pdfs/2018/Weekly-Opinion-January-5-2018-Spot-The-Difference.pdf
+2018-01-05,2018,2017,Overall,11,Reliance,"35,732",2.7%,178,,10,corpus/04-poten/pdfs/2018/Weekly-Opinion-January-5-2018-Spot-The-Difference.pdf
+2018-01-05,2018,2017,Overall,12,Trafigura,"33,955",2.6%,349,,11,corpus/04-poten/pdfs/2018/Weekly-Opinion-January-5-2018-Spot-The-Difference.pdf
+2018-01-05,2018,2017,Overall,13,ExxonMobil,"33,386",2.5%,266,,5,corpus/04-poten/pdfs/2018/Weekly-Opinion-January-5-2018-Spot-The-Difference.pdf
+2018-01-05,2018,2017,Overall,14,Repsol,"29,496",2.4%,259,,15,corpus/04-poten/pdfs/2018/Weekly-Opinion-January-5-2018-Spot-The-Difference.pdf
+2018-01-05,2018,2017,Overall,15,Sinochem,"24,735",2.2%,105,,18,corpus/04-poten/pdfs/2018/Weekly-Opinion-January-5-2018-Spot-The-Difference.pdf
+2018-01-05,2018,2017,Overall,16,ENI,"22,273",1.6%,205,,29,corpus/04-poten/pdfs/2018/Weekly-Opinion-January-5-2018-Spot-The-Difference.pdf
+2018-01-05,2018,2017,Overall,17,Petrobras,"19,815",1.4%,132,,17,corpus/04-poten/pdfs/2018/Weekly-Opinion-January-5-2018-Spot-The-Difference.pdf
+2018-01-05,2018,2017,Overall,18,BPCL,"18,607",1.4%,138,,20,corpus/04-poten/pdfs/2018/Weekly-Opinion-January-5-2018-Spot-The-Difference.pdf
+2018-01-05,2018,2017,Overall,19,GS Caltex,"16,847",1.2%,80,,23,corpus/04-poten/pdfs/2018/Weekly-Opinion-January-5-2018-Spot-The-Difference.pdf
+2018-01-05,2018,2017,Overall,20,Statoil,"16,257",1.2%,132,,22,corpus/04-poten/pdfs/2018/Weekly-Opinion-January-5-2018-Spot-The-Difference.pdf
+2018-06-29,2018,2017,Overall,1,Unipec,"106,342",14.3%,471,,1,corpus/04-poten/pdfs/2018/Weekly-Opinion-June-29-2018-Tanker-Midterms.pdf
+2018-06-29,2018,2017,Overall,2,Ioc,"44,392",6.0%,156,,4,corpus/04-poten/pdfs/2018/Weekly-Opinion-June-29-2018-Tanker-Midterms.pdf
+2018-06-29,2018,2017,Overall,3,Shell,"42,296",6.0%,347,,2,corpus/04-poten/pdfs/2018/Weekly-Opinion-June-29-2018-Tanker-Midterms.pdf
+2018-06-29,2018,2017,Overall,4,Vitol,"29,583",4.0%,288,,3,corpus/04-poten/pdfs/2018/Weekly-Opinion-June-29-2018-Tanker-Midterms.pdf
+2018-06-29,2018,2017,Overall,5,Chevron,"26,213",4.0%,219,,7,corpus/04-poten/pdfs/2018/Weekly-Opinion-June-29-2018-Tanker-Midterms.pdf
+2018-06-29,2018,2017,Overall,6,Total,"25,027",3.5%,187,,6,corpus/04-poten/pdfs/2018/Weekly-Opinion-June-29-2018-Tanker-Midterms.pdf
+2018-06-29,2018,2017,Overall,7,ExxonMobil,"24,368",3.4%,181,,13,corpus/04-poten/pdfs/2018/Weekly-Opinion-June-29-2018-Tanker-Midterms.pdf
+2018-06-29,2018,2017,Overall,8,BP,"21,825",3.3%,204,,12,corpus/04-poten/pdfs/2018/Weekly-Opinion-June-29-2018-Tanker-Midterms.pdf
+2018-06-29,2018,2017,Overall,9,Lukoil,"21,235",2.9%,197,,9,corpus/04-poten/pdfs/2018/Weekly-Opinion-June-29-2018-Tanker-Midterms.pdf
+2018-06-29,2018,2017,Overall,10,Reliance,"20,940",2.8%,102,,10,corpus/04-poten/pdfs/2018/Weekly-Opinion-June-29-2018-Tanker-Midterms.pdf
+2018-06-29,2018,2017,Overall,11,Petrochina,"17,010",2.8%,123,,5,corpus/04-poten/pdfs/2018/Weekly-Opinion-June-29-2018-Tanker-Midterms.pdf
+2018-06-29,2018,2017,Overall,12,Repsol,"15,810",2.3%,130,,14,corpus/04-poten/pdfs/2018/Weekly-Opinion-June-29-2018-Tanker-Midterms.pdf
+2018-06-29,2018,2017,Overall,13,Glencore,"14,201",2.1%,130,,8,corpus/04-poten/pdfs/2018/Weekly-Opinion-June-29-2018-Tanker-Midterms.pdf
+2018-06-29,2018,2017,Overall,14,Trafigura,"13,746",1.9%,138,,11,corpus/04-poten/pdfs/2018/Weekly-Opinion-June-29-2018-Tanker-Midterms.pdf
+2018-06-29,2018,2017,Overall,15,BPCL,"12,069",1.8%,89,,20,corpus/04-poten/pdfs/2018/Weekly-Opinion-June-29-2018-Tanker-Midterms.pdf
+2018-06-29,2018,2017,Overall,16,Sinochem,"12,040",1.6%,48,,15,corpus/04-poten/pdfs/2018/Weekly-Opinion-June-29-2018-Tanker-Midterms.pdf
+2018-06-29,2018,2017,Overall,17,ENI,"12,011",1.6%,124,,18,corpus/04-poten/pdfs/2018/Weekly-Opinion-June-29-2018-Tanker-Midterms.pdf
+2018-06-29,2018,2017,Overall,18,Valero,"10,095",1.4%,85,,23,corpus/04-poten/pdfs/2018/Weekly-Opinion-June-29-2018-Tanker-Midterms.pdf
+2018-06-29,2018,2017,Overall,19,GS Caltex,"9,820",1.3%,52,,19,corpus/04-poten/pdfs/2018/Weekly-Opinion-June-29-2018-Tanker-Midterms.pdf
+2018-06-29,2018,2017,Overall,20,Socar,"9,300",1.2%,80,,16,corpus/04-poten/pdfs/2018/Weekly-Opinion-June-29-2018-Tanker-Midterms.pdf
+2019-01-04,2019,2018,Overall,1,Unipec,"217,107",14.7%,985,,1,corpus/04-poten/pdfs/2019/Weekly-Opinion-January-4-2019-Top-Dirty-Charterers.pdf
+2019-01-04,2019,2018,Overall,2,Shell,"87,593",5.9%,692,,2,corpus/04-poten/pdfs/2019/Weekly-Opinion-January-4-2019-Top-Dirty-Charterers.pdf
+2019-01-04,2019,2018,Overall,3,Ioc,"70,773",5.9%,280,,4,corpus/04-poten/pdfs/2019/Weekly-Opinion-January-4-2019-Top-Dirty-Charterers.pdf
+2019-01-04,2019,2018,Overall,4,Vitol,"59,836",4.1%,579,,3,corpus/04-poten/pdfs/2019/Weekly-Opinion-January-4-2019-Top-Dirty-Charterers.pdf
+2019-01-04,2019,2018,Overall,5,Chevron,"52,003",4.1%,430,,6,corpus/04-poten/pdfs/2019/Weekly-Opinion-January-4-2019-Top-Dirty-Charterers.pdf
+2019-01-04,2019,2018,Overall,6,Total,"51,890",3.5%,392,,7,corpus/04-poten/pdfs/2019/Weekly-Opinion-January-4-2019-Top-Dirty-Charterers.pdf
+2019-01-04,2019,2018,Overall,7,ExxonMobil,"51,492",3.5%,367,,13,corpus/04-poten/pdfs/2019/Weekly-Opinion-January-4-2019-Top-Dirty-Charterers.pdf
+2019-01-04,2019,2018,Overall,8,BP,"41,559",3.5%,376,,10,corpus/04-poten/pdfs/2019/Weekly-Opinion-January-4-2019-Top-Dirty-Charterers.pdf
+2019-01-04,2019,2018,Overall,9,Reliance,"38,978",2.8%,190,,11,corpus/04-poten/pdfs/2019/Weekly-Opinion-January-4-2019-Top-Dirty-Charterers.pdf
+2019-01-04,2019,2018,Overall,10,Lukoil,"36,620",2.6%,344,,8,corpus/04-poten/pdfs/2019/Weekly-Opinion-January-4-2019-Top-Dirty-Charterers.pdf
+2019-01-04,2019,2018,Overall,11,Petrochina,"36,070",2.5%,270,,5,corpus/04-poten/pdfs/2019/Weekly-Opinion-January-4-2019-Top-Dirty-Charterers.pdf
+2019-01-04,2019,2018,Overall,12,Repsol,"31,137",2.4%,252,,14,corpus/04-poten/pdfs/2019/Weekly-Opinion-January-4-2019-Top-Dirty-Charterers.pdf
+2019-01-04,2019,2018,Overall,13,Sinochem,"28,730",2.1%,117,,15,corpus/04-poten/pdfs/2019/Weekly-Opinion-January-4-2019-Top-Dirty-Charterers.pdf
+2019-01-04,2019,2018,Overall,14,Glencore,"28,683",2.0%,262,,9,corpus/04-poten/pdfs/2019/Weekly-Opinion-January-4-2019-Top-Dirty-Charterers.pdf
+2019-01-04,2019,2018,Overall,15,Trafigura,"22,454",1.9%,229,,12,corpus/04-poten/pdfs/2019/Weekly-Opinion-January-4-2019-Top-Dirty-Charterers.pdf
+2019-01-04,2019,2018,Overall,16,BPCL,"21,839",1.5%,175,,18,corpus/04-poten/pdfs/2019/Weekly-Opinion-January-4-2019-Top-Dirty-Charterers.pdf
+2019-01-04,2019,2018,Overall,17,ENI,"21,735",1.5%,214,,16,corpus/04-poten/pdfs/2019/Weekly-Opinion-January-4-2019-Top-Dirty-Charterers.pdf
+2019-01-04,2019,2018,Overall,18,Petrobras,"21,070",1.4%,135,,17,corpus/04-poten/pdfs/2019/Weekly-Opinion-January-4-2019-Top-Dirty-Charterers.pdf
+2019-01-04,2019,2018,Overall,19,GS Caltex,"20,300",1.4%,101,,19,corpus/04-poten/pdfs/2019/Weekly-Opinion-January-4-2019-Top-Dirty-Charterers.pdf
+2019-01-04,2019,2018,Overall,20,Valero,"18,345",1.2%,158,,24,corpus/04-poten/pdfs/2019/Weekly-Opinion-January-4-2019-Top-Dirty-Charterers.pdf
+2019-06-28,2019,2018,Overall,1,Unipec,"112,406",17.2%,523,,1,corpus/04-poten/pdfs/2019/Weekly-Opinion-June-28-2019-Tanker-Midterms.pdf
+2019-06-28,2019,2018,Overall,2,Shell,"26,153",4.0%,300,,3,corpus/04-poten/pdfs/2019/Weekly-Opinion-June-28-2019-Tanker-Midterms.pdf
+2019-06-28,2019,2018,Overall,3,Vitol,"25,604",4.0%,231,,4,corpus/04-poten/pdfs/2019/Weekly-Opinion-June-28-2019-Tanker-Midterms.pdf
+2019-06-28,2019,2018,Overall,4,ExxonMobil,"24,904",3.8%,191,,7,corpus/04-poten/pdfs/2019/Weekly-Opinion-June-28-2019-Tanker-Midterms.pdf
+2019-06-28,2019,2018,Overall,5,Ioc,"22,016",3.8%,134,,2,corpus/04-poten/pdfs/2019/Weekly-Opinion-June-28-2019-Tanker-Midterms.pdf
+2019-06-28,2019,2018,Overall,6,Chevron,"21,806",3.4%,198,,5,corpus/04-poten/pdfs/2019/Weekly-Opinion-June-28-2019-Tanker-Midterms.pdf
+2019-06-28,2019,2018,Overall,7,Total,"20,895",3.3%,126,,6,corpus/04-poten/pdfs/2019/Weekly-Opinion-June-28-2019-Tanker-Midterms.pdf
+2019-06-28,2019,2018,Overall,8,BP,"19,447",3.2%,169,,8,corpus/04-poten/pdfs/2019/Weekly-Opinion-June-28-2019-Tanker-Midterms.pdf
+2019-06-28,2019,2018,Overall,9,Petrochina,"14,907",3.0%,170,,11,corpus/04-poten/pdfs/2019/Weekly-Opinion-June-28-2019-Tanker-Midterms.pdf
+2019-06-28,2019,2018,Overall,10,Lukoil,"14,300",2.3%,108,,9,corpus/04-poten/pdfs/2019/Weekly-Opinion-June-28-2019-Tanker-Midterms.pdf
+2019-06-28,2019,2018,Overall,11,Repsol,"13,936",2.2%,112,,12,corpus/04-poten/pdfs/2019/Weekly-Opinion-June-28-2019-Tanker-Midterms.pdf
+2019-06-28,2019,2018,Overall,12,Petrobras,"13,895",2.1%,84,,23,corpus/04-poten/pdfs/2019/Weekly-Opinion-June-28-2019-Tanker-Midterms.pdf
+2019-06-28,2019,2018,Overall,13,Glencore,"13,395",2.1%,109,,13,corpus/04-poten/pdfs/2019/Weekly-Opinion-June-28-2019-Tanker-Midterms.pdf
+2019-06-28,2019,2018,Overall,14,Sinochem,"13,350",2.1%,55,,17,corpus/04-poten/pdfs/2019/Weekly-Opinion-June-28-2019-Tanker-Midterms.pdf
+2019-06-28,2019,2018,Overall,15,BPCL,"12,652",2.0%,101,,15,corpus/04-poten/pdfs/2019/Weekly-Opinion-June-28-2019-Tanker-Midterms.pdf
+2019-06-28,2019,2018,Overall,16,Reliance,"12,545",1.9%,68,,10,corpus/04-poten/pdfs/2019/Weekly-Opinion-June-28-2019-Tanker-Midterms.pdf
+2019-06-28,2019,2018,Overall,17,Trafigura,"9,275",1.4%,81,,14,corpus/04-poten/pdfs/2019/Weekly-Opinion-June-28-2019-Tanker-Midterms.pdf
+2019-06-28,2019,2018,Overall,18,SK Corp,"9,135",1.4%,33,,,corpus/04-poten/pdfs/2019/Weekly-Opinion-June-28-2019-Tanker-Midterms.pdf
+2019-06-28,2019,2018,Overall,19,PTT,"8,800",1.3%,69,,21,corpus/04-poten/pdfs/2019/Weekly-Opinion-June-28-2019-Tanker-Midterms.pdf
+2019-06-28,2019,2018,Overall,20,Hyundai,"8,728",1.3%,35,,22,corpus/04-poten/pdfs/2019/Weekly-Opinion-June-28-2019-Tanker-Midterms.pdf
+2020-01-03,2020,2019,Overall,1,Unipec,"230,732",17.0%,1058,,1,corpus/04-poten/pdfs/2020/Weekly-Opinion-January-3-2020-The-Final-Countdown.pdf
+2020-01-03,2020,2019,Overall,2,Shell,"78,937",5.8%,607,,2,corpus/04-poten/pdfs/2020/Weekly-Opinion-January-3-2020-The-Final-Countdown.pdf
+2020-01-03,2020,2019,Overall,3,Vitol,"54,127",4.0%,497,,4,corpus/04-poten/pdfs/2020/Weekly-Opinion-January-3-2020-The-Final-Countdown.pdf
+2020-01-03,2020,2019,Overall,4,ExxonMobil,"53,061",3.9%,400,,7,corpus/04-poten/pdfs/2020/Weekly-Opinion-January-3-2020-The-Final-Countdown.pdf
+2020-01-03,2020,2019,Overall,5,Ioc,"52,662",3.9%,292,,3,corpus/04-poten/pdfs/2020/Weekly-Opinion-January-3-2020-The-Final-Countdown.pdf
+2020-01-03,2020,2019,Overall,6,BP,"44,022",3.2%,401,,8,corpus/04-poten/pdfs/2020/Weekly-Opinion-January-3-2020-The-Final-Countdown.pdf
+2020-01-03,2020,2019,Overall,7,Chevron,"43,036",3.2%,387,,5,corpus/04-poten/pdfs/2020/Weekly-Opinion-January-3-2020-The-Final-Countdown.pdf
+2020-01-03,2020,2019,Overall,8,Total,"41,814",3.1%,327,,6,corpus/04-poten/pdfs/2020/Weekly-Opinion-January-3-2020-The-Final-Countdown.pdf
+2020-01-03,2020,2019,Overall,9,Petrobras,"37,045",2.7%,227,,18,corpus/04-poten/pdfs/2020/Weekly-Opinion-January-3-2020-The-Final-Countdown.pdf
+2020-01-03,2020,2019,Overall,10,Petrochina,"29,446",2.2%,207,,11,corpus/04-poten/pdfs/2020/Weekly-Opinion-January-3-2020-The-Final-Countdown.pdf
+2020-01-03,2020,2019,Overall,11,Glencore,"28,951",2.1%,250,,14,corpus/04-poten/pdfs/2020/Weekly-Opinion-January-3-2020-The-Final-Countdown.pdf
+2020-01-03,2020,2019,Overall,12,Reliance,"28,835",2.1%,149,,9,corpus/04-poten/pdfs/2020/Weekly-Opinion-January-3-2020-The-Final-Countdown.pdf
+2020-01-03,2020,2019,Overall,13,BPCL,"27,643",2.0%,216,,16,corpus/04-poten/pdfs/2020/Weekly-Opinion-January-3-2020-The-Final-Countdown.pdf
+2020-01-03,2020,2019,Overall,14,Lukoil,"26,953",2.0%,250,,10,corpus/04-poten/pdfs/2020/Weekly-Opinion-January-3-2020-The-Final-Countdown.pdf
+2020-01-03,2020,2019,Overall,15,Repsol,"26,519",2.0%,215,,12,corpus/04-poten/pdfs/2020/Weekly-Opinion-January-3-2020-The-Final-Countdown.pdf
+2020-01-03,2020,2019,Overall,16,Sinochem,"26,000",1.9%,104,,13,corpus/04-poten/pdfs/2020/Weekly-Opinion-January-3-2020-The-Final-Countdown.pdf
+2020-01-03,2020,2019,Overall,17,Trafigura,"18,742",1.4%,162,,15,corpus/04-poten/pdfs/2020/Weekly-Opinion-January-3-2020-The-Final-Countdown.pdf
+2020-01-03,2020,2019,Overall,18,ENI,"17,710",1.3%,181,,17,corpus/04-poten/pdfs/2020/Weekly-Opinion-January-3-2020-The-Final-Countdown.pdf
+2020-01-03,2020,2019,Overall,19,Equinor,"16,733",1.2%,118,,New,corpus/04-poten/pdfs/2020/Weekly-Opinion-January-3-2020-The-Final-Countdown.pdf
+2020-01-03,2020,2019,Overall,20,SK Corp,"16,399",1.2%,76,,New,corpus/04-poten/pdfs/2020/Weekly-Opinion-January-3-2020-The-Final-Countdown.pdf
+2020-07-02,2020,2019,Overall,1,Unipec,"106,569",16.8%,499,,1,corpus/04-poten/pdfs/2020/Weekly-Opinion-July-2-2020-Tanker-Midterms-2020.pdf
+2020-07-02,2020,2019,Overall,2,Shell,"23,050",3.6%,275,,2,corpus/04-poten/pdfs/2020/Weekly-Opinion-July-2-2020-Tanker-Midterms-2020.pdf
+2020-07-02,2020,2019,Overall,3,Petrobras,"21,787",3.6%,130,,11,corpus/04-poten/pdfs/2020/Weekly-Opinion-July-2-2020-Tanker-Midterms-2020.pdf
+2020-07-02,2020,2019,Overall,4,Vitol,"21,745",3.4%,198,,3,corpus/04-poten/pdfs/2020/Weekly-Opinion-July-2-2020-Tanker-Midterms-2020.pdf
+2020-07-02,2020,2019,Overall,5,Ioc,"21,668",3.4%,125,,5,corpus/04-poten/pdfs/2020/Weekly-Opinion-July-2-2020-Tanker-Midterms-2020.pdf
+2020-07-02,2020,2019,Overall,6,Chevron,"19,133",3.4%,151,,6,corpus/04-poten/pdfs/2020/Weekly-Opinion-July-2-2020-Tanker-Midterms-2020.pdf
+2020-07-02,2020,2019,Overall,7,ExxonMobil,"15,880",3.0%,168,,4,corpus/04-poten/pdfs/2020/Weekly-Opinion-July-2-2020-Tanker-Midterms-2020.pdf
+2020-07-02,2020,2019,Overall,8,Total,"15,520",2.5%,110,,7,corpus/04-poten/pdfs/2020/Weekly-Opinion-July-2-2020-Tanker-Midterms-2020.pdf
+2020-07-02,2020,2019,Overall,9,BP,"13,920",2.5%,145,,8,corpus/04-poten/pdfs/2020/Weekly-Opinion-July-2-2020-Tanker-Midterms-2020.pdf
+2020-07-02,2020,2019,Overall,10,Trafigura,"13,790",2.2%,115,,17,corpus/04-poten/pdfs/2020/Weekly-Opinion-July-2-2020-Tanker-Midterms-2020.pdf
+2020-07-02,2020,2019,Overall,11,Sinochem,"13,535",2.2%,49,,15,corpus/04-poten/pdfs/2020/Weekly-Opinion-July-2-2020-Tanker-Midterms-2020.pdf
+2020-07-02,2020,2019,Overall,12,Bahri,"13,245",2.1%,53,,,corpus/04-poten/pdfs/2020/Weekly-Opinion-July-2-2020-Tanker-Midterms-2020.pdf
+2020-07-02,2020,2019,Overall,13,Petrochina,"12,281",2.1%,76,,9,corpus/04-poten/pdfs/2020/Weekly-Opinion-July-2-2020-Tanker-Midterms-2020.pdf
+2020-07-02,2020,2019,Overall,14,Equinor,"11,035",1.9%,90,,24,corpus/04-poten/pdfs/2020/Weekly-Opinion-July-2-2020-Tanker-Midterms-2020.pdf
+2020-07-02,2020,2019,Overall,15,Repsol,"10,180",1.7%,99,,12,corpus/04-poten/pdfs/2020/Weekly-Opinion-July-2-2020-Tanker-Midterms-2020.pdf
+2020-07-02,2020,2019,Overall,16,Lukoil,"9,858",1.6%,94,,10,corpus/04-poten/pdfs/2020/Weekly-Opinion-July-2-2020-Tanker-Midterms-2020.pdf
+2020-07-02,2020,2019,Overall,17,Glencore,"9,306",1.5%,72,,13,corpus/04-poten/pdfs/2020/Weekly-Opinion-July-2-2020-Tanker-Midterms-2020.pdf
+2020-07-02,2020,2019,Overall,18,BPCL,"8,900",1.4%,50,,16,corpus/04-poten/pdfs/2020/Weekly-Opinion-July-2-2020-Tanker-Midterms-2020.pdf
+2020-07-02,2020,2019,Overall,19,Reliance,"8,625",1.4%,70,,14,corpus/04-poten/pdfs/2020/Weekly-Opinion-July-2-2020-Tanker-Midterms-2020.pdf
+2020-07-02,2020,2019,Overall,20,Mercuria,"6,747",1.1%,69,,22,corpus/04-poten/pdfs/2020/Weekly-Opinion-July-2-2020-Tanker-Midterms-2020.pdf
+2021-01-08,2021,2020,Overall,1,Unipec,"211,147",18.0%,966,,1,corpus/04-poten/pdfs/2021/Weekly-Opinion-January-8-2021-Covid-19-Infects-The-Tanker-Market.pdf
+2021-01-08,2021,2020,Overall,2,Shell,"57,274",4.9%,478,,2,corpus/04-poten/pdfs/2021/Weekly-Opinion-January-8-2021-Covid-19-Infects-The-Tanker-Market.pdf
+2021-01-08,2021,2020,Overall,3,Vitol,"43,899",3.7%,417,,3,corpus/04-poten/pdfs/2021/Weekly-Opinion-January-8-2021-Covid-19-Infects-The-Tanker-Market.pdf
+2021-01-08,2021,2020,Overall,4,Ioc,"40,326",3.4%,229,,5,corpus/04-poten/pdfs/2021/Weekly-Opinion-January-8-2021-Covid-19-Infects-The-Tanker-Market.pdf
+2021-01-08,2021,2020,Overall,5,ExxonMobil,"37,048",3.2%,320,,4,corpus/04-poten/pdfs/2021/Weekly-Opinion-January-8-2021-Covid-19-Infects-The-Tanker-Market.pdf
+2021-01-08,2021,2020,Overall,6,Petrobras,"36,713",3.1%,218,,9,corpus/04-poten/pdfs/2021/Weekly-Opinion-January-8-2021-Covid-19-Infects-The-Tanker-Market.pdf
+2021-01-08,2021,2020,Overall,7,BP,"31,079",2.7%,307,,6,corpus/04-poten/pdfs/2021/Weekly-Opinion-January-8-2021-Covid-19-Infects-The-Tanker-Market.pdf
+2021-01-08,2021,2020,Overall,8,Total,"29,405",2.5%,210,,8,corpus/04-poten/pdfs/2021/Weekly-Opinion-January-8-2021-Covid-19-Infects-The-Tanker-Market.pdf
+2021-01-08,2021,2020,Overall,9,Chevron,"28,486",2.4%,236,,7,corpus/04-poten/pdfs/2021/Weekly-Opinion-January-8-2021-Covid-19-Infects-The-Tanker-Market.pdf
+2021-01-08,2021,2020,Overall,10,Trafigura,"25,525",2.2%,225,,17,corpus/04-poten/pdfs/2021/Weekly-Opinion-January-8-2021-Covid-19-Infects-The-Tanker-Market.pdf
+2021-01-08,2021,2020,Overall,11,Glencore,"24,245",2.1%,191,,11,corpus/04-poten/pdfs/2021/Weekly-Opinion-January-8-2021-Covid-19-Infects-The-Tanker-Market.pdf
+2021-01-08,2021,2020,Overall,12,Petrochina,"22,765",1.9%,164,,10,corpus/04-poten/pdfs/2021/Weekly-Opinion-January-8-2021-Covid-19-Infects-The-Tanker-Market.pdf
+2021-01-08,2021,2020,Overall,13,Equinor,"22,264",1.9%,137,,19,corpus/04-poten/pdfs/2021/Weekly-Opinion-January-8-2021-Covid-19-Infects-The-Tanker-Market.pdf
+2021-01-08,2021,2020,Overall,14,Sinochem,"20,710",1.8%,86,,16,corpus/04-poten/pdfs/2021/Weekly-Opinion-January-8-2021-Covid-19-Infects-The-Tanker-Market.pdf
+2021-01-08,2021,2020,Overall,15,Repsol,"19,849",1.7%,158,,15,corpus/04-poten/pdfs/2021/Weekly-Opinion-January-8-2021-Covid-19-Infects-The-Tanker-Market.pdf
+2021-01-08,2021,2020,Overall,16,Lukoil,"19,814",1.7%,186,,14,corpus/04-poten/pdfs/2021/Weekly-Opinion-January-8-2021-Covid-19-Infects-The-Tanker-Market.pdf
+2021-01-08,2021,2020,Overall,17,BPCL,"18,764",1.6%,148,,13,corpus/04-poten/pdfs/2021/Weekly-Opinion-January-8-2021-Covid-19-Infects-The-Tanker-Market.pdf
+2021-01-08,2021,2020,Overall,18,Reliance,"18,465",1.6%,105,,12,corpus/04-poten/pdfs/2021/Weekly-Opinion-January-8-2021-Covid-19-Infects-The-Tanker-Market.pdf
+2021-01-08,2021,2020,Overall,19,Mercuria,"14,985",1.3%,126,,24,corpus/04-poten/pdfs/2021/Weekly-Opinion-January-8-2021-Covid-19-Infects-The-Tanker-Market.pdf
+2021-01-08,2021,2020,Overall,20,Bahri,"13,815",1.2%,50,,New,corpus/04-poten/pdfs/2021/Weekly-Opinion-January-8-2021-Covid-19-Infects-The-Tanker-Market.pdf
+2021-02-05,2021,2020,Overall,1,"7,265","7,125",7%,,,2,corpus/04-poten/pdfs/2021/Weekly-Opinion-5-February-2021-Going-The-Extra-Ton-Mile.pdf
+2021-02-05,2021,2020,Overall,2,"2,136","2,554",7%,,,3,corpus/04-poten/pdfs/2021/Weekly-Opinion-5-February-2021-Going-The-Extra-Ton-Mile.pdf
+2021-02-05,2021,2020,Overall,3,"1,431","1,527",5%,,,,corpus/04-poten/pdfs/2021/Weekly-Opinion-5-February-2021-Going-The-Extra-Ton-Mile.pdf
+2021-07-09,2021,2020,Overall,1,Unipec,"100,603",17.5%,453,,1,corpus/04-poten/pdfs/2021/Weekly-Opinion-July-9-2021-Tanker-Midterms-2021.pdf
+2021-07-09,2021,2020,Overall,2,Shell,"23,189",4.0%,244,,2,corpus/04-poten/pdfs/2021/Weekly-Opinion-July-9-2021-Tanker-Midterms-2021.pdf
+2021-07-09,2021,2020,Overall,3,Vitol,"20,678",4.0%,224,,4,corpus/04-poten/pdfs/2021/Weekly-Opinion-July-9-2021-Tanker-Midterms-2021.pdf
+2021-07-09,2021,2020,Overall,4,BP,"20,533",3.6%,195,,8,corpus/04-poten/pdfs/2021/Weekly-Opinion-July-9-2021-Tanker-Midterms-2021.pdf
+2021-07-09,2021,2020,Overall,5,ExxonMobil,"17,493",3.6%,176,,6,corpus/04-poten/pdfs/2021/Weekly-Opinion-July-9-2021-Tanker-Midterms-2021.pdf
+2021-07-09,2021,2020,Overall,6,Ioc,"17,225",3.0%,92,,5,corpus/04-poten/pdfs/2021/Weekly-Opinion-July-9-2021-Tanker-Midterms-2021.pdf
+2021-07-09,2021,2020,Overall,7,Total,"17,028",3.0%,137,,7,corpus/04-poten/pdfs/2021/Weekly-Opinion-July-9-2021-Tanker-Midterms-2021.pdf
+2021-07-09,2021,2020,Overall,8,Chevron,"16,250",3.0%,143,,9,corpus/04-poten/pdfs/2021/Weekly-Opinion-July-9-2021-Tanker-Midterms-2021.pdf
+2021-07-09,2021,2020,Overall,9,Petrobras,"13,345",2.8%,92,,3,corpus/04-poten/pdfs/2021/Weekly-Opinion-July-9-2021-Tanker-Midterms-2021.pdf
+2021-07-09,2021,2020,Overall,10,Trafigura,"12,745",2.3%,134,,10,corpus/04-poten/pdfs/2021/Weekly-Opinion-July-9-2021-Tanker-Midterms-2021.pdf
+2021-07-09,2021,2020,Overall,11,Lukoil,"12,040",2.2%,87,,16,corpus/04-poten/pdfs/2021/Weekly-Opinion-July-9-2021-Tanker-Midterms-2021.pdf
+2021-07-09,2021,2020,Overall,12,Petrochina,"10,337",2.1%,89,,13,corpus/04-poten/pdfs/2021/Weekly-Opinion-July-9-2021-Tanker-Midterms-2021.pdf
+2021-07-09,2021,2020,Overall,13,Repsol,"10,060",1.8%,47,,15,corpus/04-poten/pdfs/2021/Weekly-Opinion-July-9-2021-Tanker-Midterms-2021.pdf
+2021-07-09,2021,2020,Overall,14,Sinochem,"9,483",1.8%,61,,11,corpus/04-poten/pdfs/2021/Weekly-Opinion-July-9-2021-Tanker-Midterms-2021.pdf
+2021-07-09,2021,2020,Overall,15,Equinor,"8,629",1.7%,80,,14,corpus/04-poten/pdfs/2021/Weekly-Opinion-July-9-2021-Tanker-Midterms-2021.pdf
+2021-07-09,2021,2020,Overall,16,Glencore,"7,761",1.4%,65,,17,corpus/04-poten/pdfs/2021/Weekly-Opinion-July-9-2021-Tanker-Midterms-2021.pdf
+2021-07-09,2021,2020,Overall,17,BPCL,"7,580",1.3%,46,,18,corpus/04-poten/pdfs/2021/Weekly-Opinion-July-9-2021-Tanker-Midterms-2021.pdf
+2021-07-09,2021,2020,Overall,18,Reliance,"6,228",1.1%,60,,20,corpus/04-poten/pdfs/2021/Weekly-Opinion-July-9-2021-Tanker-Midterms-2021.pdf
+2021-07-09,2021,2020,Overall,19,Mercuria,"6,090",1.1%,,,19,corpus/04-poten/pdfs/2021/Weekly-Opinion-July-9-2021-Tanker-Midterms-2021.pdf
+2021-07-09,2021,2020,Overall,20,Hyundai,"5,765",1.0%,34,,27,corpus/04-poten/pdfs/2021/Weekly-Opinion-July-9-2021-Tanker-Midterms-2021.pdf
+2022-01-07,2022,2021,Overall,1,Unipec,"214,161",18.5%,963,,1,corpus/04-poten/pdfs/2022/Weekly-Opinion-January-7-2022-A-Tanker-Year-To-Forget.pdf
+2022-01-07,2022,2021,Overall,2,Shell,"50,482",4.4%,438,,2,corpus/04-poten/pdfs/2022/Weekly-Opinion-January-7-2022-A-Tanker-Year-To-Forget.pdf
+2022-01-07,2022,2021,Overall,3,Vitol,"43,821",3.8%,432,,3,corpus/04-poten/pdfs/2022/Weekly-Opinion-January-7-2022-A-Tanker-Year-To-Forget.pdf
+2022-01-07,2022,2021,Overall,4,BP,"39,557",3.4%,366,,7,corpus/04-poten/pdfs/2022/Weekly-Opinion-January-7-2022-A-Tanker-Year-To-Forget.pdf
+2022-01-07,2022,2021,Overall,5,ExxonMobil,"38,358",3.3%,317,,5,corpus/04-poten/pdfs/2022/Weekly-Opinion-January-7-2022-A-Tanker-Year-To-Forget.pdf
+2022-01-07,2022,2021,Overall,6,Ioc,"35,963",3.1%,187,,4,corpus/04-poten/pdfs/2022/Weekly-Opinion-January-7-2022-A-Tanker-Year-To-Forget.pdf
+2022-01-07,2022,2021,Overall,7,Total,"35,723",3.1%,273,,8,corpus/04-poten/pdfs/2022/Weekly-Opinion-January-7-2022-A-Tanker-Year-To-Forget.pdf
+2022-01-07,2022,2021,Overall,8,Chevron,"32,191",2.8%,272,,9,corpus/04-poten/pdfs/2022/Weekly-Opinion-January-7-2022-A-Tanker-Year-To-Forget.pdf
+2022-01-07,2022,2021,Overall,9,Petrobras,"29,685",2.6%,181,,6,corpus/04-poten/pdfs/2022/Weekly-Opinion-January-7-2022-A-Tanker-Year-To-Forget.pdf
+2022-01-07,2022,2021,Overall,10,Trafigura,"28,917",2.5%,258,,10,corpus/04-poten/pdfs/2022/Weekly-Opinion-January-7-2022-A-Tanker-Year-To-Forget.pdf
+2022-01-07,2022,2021,Overall,11,Lukoil,"24,657",2.1%,221,,16,corpus/04-poten/pdfs/2022/Weekly-Opinion-January-7-2022-A-Tanker-Year-To-Forget.pdf
+2022-01-07,2022,2021,Overall,12,Petrochina,"21,420",1.8%,156,,12,corpus/04-poten/pdfs/2022/Weekly-Opinion-January-7-2022-A-Tanker-Year-To-Forget.pdf
+2022-01-07,2022,2021,Overall,13,Repsol,"21,333",1.8%,183,,15,corpus/04-poten/pdfs/2022/Weekly-Opinion-January-7-2022-A-Tanker-Year-To-Forget.pdf
+2022-01-07,2022,2021,Overall,14,Sinochem,"20,250",1.7%,89,,14,corpus/04-poten/pdfs/2022/Weekly-Opinion-January-7-2022-A-Tanker-Year-To-Forget.pdf
+2022-01-07,2022,2021,Overall,15,Equinor,"18,281",1.6%,118,,13,corpus/04-poten/pdfs/2022/Weekly-Opinion-January-7-2022-A-Tanker-Year-To-Forget.pdf
+2022-01-07,2022,2021,Overall,16,Glencore,"16,249",1.4%,150,,11,corpus/04-poten/pdfs/2022/Weekly-Opinion-January-7-2022-A-Tanker-Year-To-Forget.pdf
+2022-01-07,2022,2021,Overall,17,BPCL,"15,681",1.4%,117,,17,corpus/04-poten/pdfs/2022/Weekly-Opinion-January-7-2022-A-Tanker-Year-To-Forget.pdf
+2022-01-07,2022,2021,Overall,18,Reliance,"15,520",1.3%,92,,18,corpus/04-poten/pdfs/2022/Weekly-Opinion-January-7-2022-A-Tanker-Year-To-Forget.pdf
+2022-01-07,2022,2021,Overall,19,Mercuria,"14,424",1.2%,128,,19,corpus/04-poten/pdfs/2022/Weekly-Opinion-January-7-2022-A-Tanker-Year-To-Forget.pdf
+2022-01-07,2022,2021,Overall,20,Hyundai,"14,020",1.2%,68,,New,corpus/04-poten/pdfs/2022/Weekly-Opinion-January-7-2022-A-Tanker-Year-To-Forget.pdf
+2022-02-04,2022,2021,Overall,1,"6,774","7,292",7%,,,2,corpus/04-poten/pdfs/2022/Weekly-Opinion-4-February-2022-That-Sinking-Feeling.pdf
+2022-02-04,2022,2021,Overall,2,"2,124","2,136",6%,,,3,corpus/04-poten/pdfs/2022/Weekly-Opinion-4-February-2022-That-Sinking-Feeling.pdf
+2022-02-04,2022,2021,Overall,3,"1,223","1,450",4%,,,,corpus/04-poten/pdfs/2022/Weekly-Opinion-4-February-2022-That-Sinking-Feeling.pdf
+2022-06-30,2022,2021,Overall,1,Unipec,"113,362",19.2%,490,,1,corpus/04-poten/pdfs/2022/Weekly-Opinion-June-30-2022-Tanker-Midterms-2022.pdf
+2022-06-30,2022,2021,Overall,2,ExxonMobil,"20,324",3.4%,199,,4,corpus/04-poten/pdfs/2022/Weekly-Opinion-June-30-2022-Tanker-Midterms-2022.pdf
+2022-06-30,2022,2021,Overall,3,Shell,"19,030",3.4%,175,,2,corpus/04-poten/pdfs/2022/Weekly-Opinion-June-30-2022-Tanker-Midterms-2022.pdf
+2022-06-30,2022,2021,Overall,4,VITOL,"16,370",2.8%,174,,3,corpus/04-poten/pdfs/2022/Weekly-Opinion-June-30-2022-Tanker-Midterms-2022.pdf
+2022-06-30,2022,2021,Overall,5,BP,"16,355",2.8%,137,,5,corpus/04-poten/pdfs/2022/Weekly-Opinion-June-30-2022-Tanker-Midterms-2022.pdf
+2022-06-30,2022,2021,Overall,6,IOC,"15,163",2.8%,102,,8,corpus/04-poten/pdfs/2022/Weekly-Opinion-June-30-2022-Tanker-Midterms-2022.pdf
+2022-06-30,2022,2021,Overall,7,Total,"13,033",2.6%,117,,6,corpus/04-poten/pdfs/2022/Weekly-Opinion-June-30-2022-Tanker-Midterms-2022.pdf
+2022-06-30,2022,2021,Overall,8,Chevron,"12,885",2.2%,116,,7,corpus/04-poten/pdfs/2022/Weekly-Opinion-June-30-2022-Tanker-Midterms-2022.pdf
+2022-06-30,2022,2021,Overall,9,Petrochina,"11,743",2.2%,91,,12,corpus/04-poten/pdfs/2022/Weekly-Opinion-June-30-2022-Tanker-Midterms-2022.pdf
+2022-06-30,2022,2021,Overall,10,PTT,"10,185",2.0%,85,,30,corpus/04-poten/pdfs/2022/Weekly-Opinion-June-30-2022-Tanker-Midterms-2022.pdf
+2022-06-30,2022,2021,Overall,11,REPSOL,"9,995",1.7%,68,,13,corpus/04-poten/pdfs/2022/Weekly-Opinion-June-30-2022-Tanker-Midterms-2022.pdf
+2022-06-30,2022,2021,Overall,12,Petrobras,"9,089",1.7%,86,,9,corpus/04-poten/pdfs/2022/Weekly-Opinion-June-30-2022-Tanker-Midterms-2022.pdf
+2022-06-30,2022,2021,Overall,13,TRAFIGURA,"9,080",1.5%,37,,10,corpus/04-poten/pdfs/2022/Weekly-Opinion-June-30-2022-Tanker-Midterms-2022.pdf
+2022-06-30,2022,2021,Overall,14,Sinochem,"8,755",1.5%,42,,14,corpus/04-poten/pdfs/2022/Weekly-Opinion-June-30-2022-Tanker-Midterms-2022.pdf
+2022-06-30,2022,2021,Overall,15,Reliance,"8,532",1.5%,61,,18,corpus/04-poten/pdfs/2022/Weekly-Opinion-June-30-2022-Tanker-Midterms-2022.pdf
+2022-06-30,2022,2021,Overall,16,BPCL,"8,180",1.4%,39,,17,corpus/04-poten/pdfs/2022/Weekly-Opinion-June-30-2022-Tanker-Midterms-2022.pdf
+2022-06-30,2022,2021,Overall,17,SK Corp,"7,510",1.3%,33,,,corpus/04-poten/pdfs/2022/Weekly-Opinion-June-30-2022-Tanker-Midterms-2022.pdf
+2022-06-30,2022,2021,Overall,18,Hyundai,"7,192",1.2%,76,,20,corpus/04-poten/pdfs/2022/Weekly-Opinion-June-30-2022-Tanker-Midterms-2022.pdf
+2022-06-30,2022,2021,Overall,19,Phillips 66,"6,775",1.1%,63,,28,corpus/04-poten/pdfs/2022/Weekly-Opinion-June-30-2022-Tanker-Midterms-2022.pdf
+2022-06-30,2022,2021,Overall,20,Lukoil,"6,597",1.1%,66,,11,corpus/04-poten/pdfs/2022/Weekly-Opinion-June-30-2022-Tanker-Midterms-2022.pdf
+2023-01-05,2023,2022,Overall,1,Unipec,"219,691",18.3%,931,,1,corpus/04-poten/pdfs/2023/Weekly-Opinion-January-5-2023-Mixed-Messages.pdf
+2023-01-05,2023,2022,Overall,2,ExxonMobil,"52,340",4.4%,341,,5,corpus/04-poten/pdfs/2023/Weekly-Opinion-January-5-2023-Mixed-Messages.pdf
+2023-01-05,2023,2022,Overall,3,Shell,"45,455",3.8%,356,,2,corpus/04-poten/pdfs/2023/Weekly-Opinion-January-5-2023-Mixed-Messages.pdf
+2023-01-05,2023,2022,Overall,4,Vitol,"40,417",3.4%,326,,3,corpus/04-poten/pdfs/2023/Weekly-Opinion-January-5-2023-Mixed-Messages.pdf
+2023-01-05,2023,2022,Overall,5,Total,"34,673",2.9%,255,,7,corpus/04-poten/pdfs/2023/Weekly-Opinion-January-5-2023-Mixed-Messages.pdf
+2023-01-05,2023,2022,Overall,6,Ioc,"32,114",2.7%,187,,6,corpus/04-poten/pdfs/2023/Weekly-Opinion-January-5-2023-Mixed-Messages.pdf
+2023-01-05,2023,2022,Overall,7,BP,"28,874",2.4%,248,,4,corpus/04-poten/pdfs/2023/Weekly-Opinion-January-5-2023-Mixed-Messages.pdf
+2023-01-05,2023,2022,Overall,8,Chevron,"27,338",2.3%,234,,8,corpus/04-poten/pdfs/2023/Weekly-Opinion-January-5-2023-Mixed-Messages.pdf
+2023-01-05,2023,2022,Overall,9,Petrobras,"24,560",2.1%,148,,9,corpus/04-poten/pdfs/2023/Weekly-Opinion-January-5-2023-Mixed-Messages.pdf
+2023-01-05,2023,2022,Overall,10,Petrochina,"22,450",1.9%,150,,12,corpus/04-poten/pdfs/2023/Weekly-Opinion-January-5-2023-Mixed-Messages.pdf
+2023-01-05,2023,2022,Overall,11,PTT,"21,323",1.8%,157,,New,corpus/04-poten/pdfs/2023/Weekly-Opinion-January-5-2023-Mixed-Messages.pdf
+2023-01-05,2023,2022,Overall,12,Repsol,"20,685",1.7%,175,,13,corpus/04-poten/pdfs/2023/Weekly-Opinion-January-5-2023-Mixed-Messages.pdf
+2023-01-05,2023,2022,Overall,13,SK Corp,"19,390",1.6%,85,,New,corpus/04-poten/pdfs/2023/Weekly-Opinion-January-5-2023-Mixed-Messages.pdf
+2023-01-05,2023,2022,Overall,14,Trafigura,"19,330",1.6%,175,,10,corpus/04-poten/pdfs/2023/Weekly-Opinion-January-5-2023-Mixed-Messages.pdf
+2023-01-05,2023,2022,Overall,15,BPCL,"18,985",1.6%,121,,17,corpus/04-poten/pdfs/2023/Weekly-Opinion-January-5-2023-Mixed-Messages.pdf
+2023-01-05,2023,2022,Overall,16,Sinochem,"16,915",1.4%,70,,14,corpus/04-poten/pdfs/2023/Weekly-Opinion-January-5-2023-Mixed-Messages.pdf
+2023-01-05,2023,2022,Overall,17,Hyundai,"14,960",1.2%,75,,20,corpus/04-poten/pdfs/2023/Weekly-Opinion-January-5-2023-Mixed-Messages.pdf
+2023-01-05,2023,2022,Overall,18,ENI,"13,657",1.1%,138,,21,corpus/04-poten/pdfs/2023/Weekly-Opinion-January-5-2023-Mixed-Messages.pdf
+2023-01-05,2023,2022,Overall,19,Reliance,"13,145",1.1%,69,,18,corpus/04-poten/pdfs/2023/Weekly-Opinion-January-5-2023-Mixed-Messages.pdf
+2023-01-05,2023,2022,Overall,20,Equinor,"13,137",1.1%,91,,15,corpus/04-poten/pdfs/2023/Weekly-Opinion-January-5-2023-Mixed-Messages.pdf
+2023-06-30,2023,2022,Overall,1,Unipec,"108,715",17.8%,468,,1,corpus/04-poten/pdfs/2023/Weekly Opinion - June 30 2023 - Tanker Midterms - 2023.pdf
+2023-06-30,2023,2022,Overall,2,ExxonMobil,"23,780",3.9%,154,,2,corpus/04-poten/pdfs/2023/Weekly Opinion - June 30 2023 - Tanker Midterms - 2023.pdf
+2023-06-30,2023,2022,Overall,3,Shell,"23,656",3.9%,169,,3,corpus/04-poten/pdfs/2023/Weekly Opinion - June 30 2023 - Tanker Midterms - 2023.pdf
+2023-06-30,2023,2022,Overall,4,Total,"19,615",3.2%,146,,7,corpus/04-poten/pdfs/2023/Weekly Opinion - June 30 2023 - Tanker Midterms - 2023.pdf
+2023-06-30,2023,2022,Overall,5,Chevron,"16,530",2.7%,131,,8,corpus/04-poten/pdfs/2023/Weekly Opinion - June 30 2023 - Tanker Midterms - 2023.pdf
+2023-06-30,2023,2022,Overall,6,VITOL,"16,273",2.7%,126,,4,corpus/04-poten/pdfs/2023/Weekly Opinion - June 30 2023 - Tanker Midterms - 2023.pdf
+2023-06-30,2023,2022,Overall,7,IOC,"14,313",2.3%,73,,5,corpus/04-poten/pdfs/2023/Weekly Opinion - June 30 2023 - Tanker Midterms - 2023.pdf
+2023-06-30,2023,2022,Overall,8,BP,"14,255",2.3%,112,,6,corpus/04-poten/pdfs/2023/Weekly Opinion - June 30 2023 - Tanker Midterms - 2023.pdf
+2023-06-30,2023,2022,Overall,9,Petrochina,"13,440",2.2%,79,,9,corpus/04-poten/pdfs/2023/Weekly Opinion - June 30 2023 - Tanker Midterms - 2023.pdf
+2023-06-30,2023,2022,Overall,10,Petrobras,"11,390",1.9%,59,,12,corpus/04-poten/pdfs/2023/Weekly Opinion - June 30 2023 - Tanker Midterms - 2023.pdf
+2023-06-30,2023,2022,Overall,11,SK Corp,"10,670",1.7%,42,,17,corpus/04-poten/pdfs/2023/Weekly Opinion - June 30 2023 - Tanker Midterms - 2023.pdf
+2023-06-30,2023,2022,Overall,12,Glencore,"10,345",1.7%,88,,23,corpus/04-poten/pdfs/2023/Weekly Opinion - June 30 2023 - Tanker Midterms - 2023.pdf
+2023-06-30,2023,2022,Overall,13,PTT,"9,955",1.6%,73,,10,corpus/04-poten/pdfs/2023/Weekly Opinion - June 30 2023 - Tanker Midterms - 2023.pdf
+2023-06-30,2023,2022,Overall,14,REPSOL,"9,593",1.6%,84,,11,corpus/04-poten/pdfs/2023/Weekly Opinion - June 30 2023 - Tanker Midterms - 2023.pdf
+2023-06-30,2023,2022,Overall,15,Phillips 66,"9,062",1.5%,76,,19,corpus/04-poten/pdfs/2023/Weekly Opinion - June 30 2023 - Tanker Midterms - 2023.pdf
+2023-06-30,2023,2022,Overall,16,Sinochem,"8,050",1.3%,34,,14,corpus/04-poten/pdfs/2023/Weekly Opinion - June 30 2023 - Tanker Midterms - 2023.pdf
+2023-06-30,2023,2022,Overall,17,GS Caltex,"7,580",1.2%,,,24,corpus/04-poten/pdfs/2023/Weekly Opinion - June 30 2023 - Tanker Midterms - 2023.pdf
+2023-06-30,2023,2022,Overall,18,BPCL,"7,575",1.2%,49,,15,corpus/04-poten/pdfs/2023/Weekly Opinion - June 30 2023 - Tanker Midterms - 2023.pdf
+2023-06-30,2023,2022,Overall,19,ENI,"7,180",1.2%,75,,21,corpus/04-poten/pdfs/2023/Weekly Opinion - June 30 2023 - Tanker Midterms - 2023.pdf
+2023-06-30,2023,2022,Overall,20,BAHRI,"7,140",1.2%,35,,26,corpus/04-poten/pdfs/2023/Weekly Opinion - June 30 2023 - Tanker Midterms - 2023.pdf
+2024-01-05,2024,2023,Overall,1,Unipec,"204,668",16.5%,881,,1,corpus/04-poten/pdfs/2024/Weekly Opinion - January 5 2024 - Deja Vu All Over Again.pdf
+2024-01-05,2024,2023,Overall,2,Shell,"50,108",4.0%,332,,3,corpus/04-poten/pdfs/2024/Weekly Opinion - January 5 2024 - Deja Vu All Over Again.pdf
+2024-01-05,2024,2023,Overall,3,ExxonMobil,"47,425",3.8%,296,,2,corpus/04-poten/pdfs/2024/Weekly Opinion - January 5 2024 - Deja Vu All Over Again.pdf
+2024-01-05,2024,2023,Overall,4,Total,"39,745",3.2%,298,,5,corpus/04-poten/pdfs/2024/Weekly Opinion - January 5 2024 - Deja Vu All Over Again.pdf
+2024-01-05,2024,2023,Overall,5,Chevron,"33,025",2.7%,255,,8,corpus/04-poten/pdfs/2024/Weekly Opinion - January 5 2024 - Deja Vu All Over Again.pdf
+2024-01-05,2024,2023,Overall,6,Ioc,"31,610",2.5%,164,,6,corpus/04-poten/pdfs/2024/Weekly Opinion - January 5 2024 - Deja Vu All Over Again.pdf
+2024-01-05,2024,2023,Overall,7,BP,"31,023",2.5%,238,,7,corpus/04-poten/pdfs/2024/Weekly Opinion - January 5 2024 - Deja Vu All Over Again.pdf
+2024-01-05,2024,2023,Overall,8,Vitol,"29,009",2.3%,260,,4,corpus/04-poten/pdfs/2024/Weekly Opinion - January 5 2024 - Deja Vu All Over Again.pdf
+2024-01-05,2024,2023,Overall,9,Petrobras,"28,140",2.3%,144,,9,corpus/04-poten/pdfs/2024/Weekly Opinion - January 5 2024 - Deja Vu All Over Again.pdf
+2024-01-05,2024,2023,Overall,10,Petrochina,"25,410",2.0%,155,,10,corpus/04-poten/pdfs/2024/Weekly Opinion - January 5 2024 - Deja Vu All Over Again.pdf
+2024-01-05,2024,2023,Overall,11,PTT,"22,420",1.8%,158,,11,corpus/04-poten/pdfs/2024/Weekly Opinion - January 5 2024 - Deja Vu All Over Again.pdf
+2024-01-05,2024,2023,Overall,12,SK Corp,"19,600",1.6%,76,,13,corpus/04-poten/pdfs/2024/Weekly Opinion - January 5 2024 - Deja Vu All Over Again.pdf
+2024-01-05,2024,2023,Overall,13,Repsol,"18,258",1.5%,158,,12,corpus/04-poten/pdfs/2024/Weekly Opinion - January 5 2024 - Deja Vu All Over Again.pdf
+2024-01-05,2024,2023,Overall,14,Glencore,"18,093",1.5%,158,,New,corpus/04-poten/pdfs/2024/Weekly Opinion - January 5 2024 - Deja Vu All Over Again.pdf
+2024-01-05,2024,2023,Overall,15,GS Caltex,"17,380",1.4%,67,,New,corpus/04-poten/pdfs/2024/Weekly Opinion - January 5 2024 - Deja Vu All Over Again.pdf
+2024-01-05,2024,2023,Overall,16,Trafigura,"16,658",1.3%,159,,14,corpus/04-poten/pdfs/2024/Weekly Opinion - January 5 2024 - Deja Vu All Over Again.pdf
+2024-01-05,2024,2023,Overall,17,BPCL,"16,472",1.3%,106,,15,corpus/04-poten/pdfs/2024/Weekly Opinion - January 5 2024 - Deja Vu All Over Again.pdf
+2024-01-05,2024,2023,Overall,18,Sinochem,"16,245",1.3%,68,,16,corpus/04-poten/pdfs/2024/Weekly Opinion - January 5 2024 - Deja Vu All Over Again.pdf
+2024-01-05,2024,2023,Overall,19,ENI,"15,810",1.3%,168,,18,corpus/04-poten/pdfs/2024/Weekly Opinion - January 5 2024 - Deja Vu All Over Again.pdf
+2024-01-05,2024,2023,Overall,20,Phillips 66,"15,797",1.3%,137,,New,corpus/04-poten/pdfs/2024/Weekly Opinion - January 5 2024 - Deja Vu All Over Again.pdf
+2024-06-28,2024,2023,Overall,1,Unipec,"99,205",15.5%,422,,1,corpus/04-poten/pdfs/2024/Weekly Opinion - June 28 2024 - Tanker Midterms - 2024 Edition.pdf
+2024-06-28,2024,2023,Overall,2,Chevron,"22,720",3.6%,166,,5,corpus/04-poten/pdfs/2024/Weekly Opinion - June 28 2024 - Tanker Midterms - 2024 Edition.pdf
+2024-06-28,2024,2023,Overall,3,Shell,"22,057",3.5%,159,,3,corpus/04-poten/pdfs/2024/Weekly Opinion - June 28 2024 - Tanker Midterms - 2024 Edition.pdf
+2024-06-28,2024,2023,Overall,4,ExxonMobil,"19,110",3.0%,127,,2,corpus/04-poten/pdfs/2024/Weekly Opinion - June 28 2024 - Tanker Midterms - 2024 Edition.pdf
+2024-06-28,2024,2023,Overall,5,Total,"18,025",2.8%,132,,4,corpus/04-poten/pdfs/2024/Weekly Opinion - June 28 2024 - Tanker Midterms - 2024 Edition.pdf
+2024-06-28,2024,2023,Overall,6,IOC,"17,728",2.8%,103,,7,corpus/04-poten/pdfs/2024/Weekly Opinion - June 28 2024 - Tanker Midterms - 2024 Edition.pdf
+2024-06-28,2024,2023,Overall,7,VITOL,"15,877",2.5%,124,,6,corpus/04-poten/pdfs/2024/Weekly Opinion - June 28 2024 - Tanker Midterms - 2024 Edition.pdf
+2024-06-28,2024,2023,Overall,8,Petrobras,"15,110",2.4%,68,,10,corpus/04-poten/pdfs/2024/Weekly Opinion - June 28 2024 - Tanker Midterms - 2024 Edition.pdf
+2024-06-28,2024,2023,Overall,9,Petrochina,"12,745",2.0%,83,,9,corpus/04-poten/pdfs/2024/Weekly Opinion - June 28 2024 - Tanker Midterms - 2024 Edition.pdf
+2024-06-28,2024,2023,Overall,10,BP,"12,633",2.0%,107,,8,corpus/04-poten/pdfs/2024/Weekly Opinion - June 28 2024 - Tanker Midterms - 2024 Edition.pdf
+2024-06-28,2024,2023,Overall,11,PTT,"12,175",1.9%,94,,13,corpus/04-poten/pdfs/2024/Weekly Opinion - June 28 2024 - Tanker Midterms - 2024 Edition.pdf
+2024-06-28,2024,2023,Overall,12,GS Caltex,"11,110",1.7%,45,,17,corpus/04-poten/pdfs/2024/Weekly Opinion - June 28 2024 - Tanker Midterms - 2024 Edition.pdf
+2024-06-28,2024,2023,Overall,13,SK Corp,"9,920",1.6%,42,,11,corpus/04-poten/pdfs/2024/Weekly Opinion - June 28 2024 - Tanker Midterms - 2024 Edition.pdf
+2024-06-28,2024,2023,Overall,14,BPCL,"9,620",1.5%,62,,18,corpus/04-poten/pdfs/2024/Weekly Opinion - June 28 2024 - Tanker Midterms - 2024 Edition.pdf
+2024-06-28,2024,2023,Overall,15,REPSOL,"9,550",1.5%,84,,14,corpus/04-poten/pdfs/2024/Weekly Opinion - June 28 2024 - Tanker Midterms - 2024 Edition.pdf
+2024-06-28,2024,2023,Overall,16,Phillips 66,"8,560",1.3%,71,,15,corpus/04-poten/pdfs/2024/Weekly Opinion - June 28 2024 - Tanker Midterms - 2024 Edition.pdf
+2024-06-28,2024,2023,Overall,17,ENI,"7,825",1.2%,85,,19,corpus/04-poten/pdfs/2024/Weekly Opinion - June 28 2024 - Tanker Midterms - 2024 Edition.pdf
+2024-06-28,2024,2023,Overall,18,Aramco,"7,555",1.2%,64,,24,corpus/04-poten/pdfs/2024/Weekly Opinion - June 28 2024 - Tanker Midterms - 2024 Edition.pdf
+2024-06-28,2024,2023,Overall,19,Sinochem,"7,550",1.2%,31,,16,corpus/04-poten/pdfs/2024/Weekly Opinion - June 28 2024 - Tanker Midterms - 2024 Edition.pdf
+2024-06-28,2024,2023,Overall,20,Equinor,"7,400",1.2%,54,,21,corpus/04-poten/pdfs/2024/Weekly Opinion - June 28 2024 - Tanker Midterms - 2024 Edition.pdf
+2025-01-03,2025,2024,Overall,1,Unipec,"192,565",15.4%,805,,1,corpus/04-poten/pdfs/2025/Weekly Opinion - January 3 2025 - The (Mostly) Predictable Parade.pdf
+2025-01-03,2025,2024,Overall,2,Chevron,"45,120",3.6%,341,,5,corpus/04-poten/pdfs/2025/Weekly Opinion - January 3 2025 - The (Mostly) Predictable Parade.pdf
+2025-01-03,2025,2024,Overall,3,Shell,"41,096",3.3%,309,,2,corpus/04-poten/pdfs/2025/Weekly Opinion - January 3 2025 - The (Mostly) Predictable Parade.pdf
+2025-01-03,2025,2024,Overall,4,ExxonMobil,"41,010",3.3%,267,,3,corpus/04-poten/pdfs/2025/Weekly Opinion - January 3 2025 - The (Mostly) Predictable Parade.pdf
+2025-01-03,2025,2024,Overall,5,Total,"38,895",3.1%,298,,4,corpus/04-poten/pdfs/2025/Weekly Opinion - January 3 2025 - The (Mostly) Predictable Parade.pdf
+2025-01-03,2025,2024,Overall,6,IOC,"33,751",2.7%,186,,6,corpus/04-poten/pdfs/2025/Weekly Opinion - January 3 2025 - The (Mostly) Predictable Parade.pdf
+2025-01-03,2025,2024,Overall,7,VITOL,"30,428",2.4%,249,,8,corpus/04-poten/pdfs/2025/Weekly Opinion - January 3 2025 - The (Mostly) Predictable Parade.pdf
+2025-01-03,2025,2024,Overall,8,BP,"26,855",2.1%,218,,7,corpus/04-poten/pdfs/2025/Weekly Opinion - January 3 2025 - The (Mostly) Predictable Parade.pdf
+2025-01-03,2025,2024,Overall,9,Petrobras,"26,780",2.1%,123,,9,corpus/04-poten/pdfs/2025/Weekly Opinion - January 3 2025 - The (Mostly) Predictable Parade.pdf
+2025-01-03,2025,2024,Overall,10,Petrochina,"26,530",2.1%,173,,10,corpus/04-poten/pdfs/2025/Weekly Opinion - January 3 2025 - The (Mostly) Predictable Parade.pdf
+2025-01-03,2025,2024,Overall,11,PTT,"23,975",1.9%,156,,11,corpus/04-poten/pdfs/2025/Weekly Opinion - January 3 2025 - The (Mostly) Predictable Parade.pdf
+2025-01-03,2025,2024,Overall,12,GS CALTEX,"21,910",1.8%,84,,15,corpus/04-poten/pdfs/2025/Weekly Opinion - January 3 2025 - The (Mostly) Predictable Parade.pdf
+2025-01-03,2025,2024,Overall,13,SK Corp,"21,320",1.7%,89,,12,corpus/04-poten/pdfs/2025/Weekly Opinion - January 3 2025 - The (Mostly) Predictable Parade.pdf
+2025-01-03,2025,2024,Overall,14,REPSOL,"20,075",1.6%,174,,13,corpus/04-poten/pdfs/2025/Weekly Opinion - January 3 2025 - The (Mostly) Predictable Parade.pdf
+2025-01-03,2025,2024,Overall,15,BPCL,"17,650",1.4%,111,,17,corpus/04-poten/pdfs/2025/Weekly Opinion - January 3 2025 - The (Mostly) Predictable Parade.pdf
+2025-01-03,2025,2024,Overall,16,PKN ORLEN,"16,025",1.3%,150,,24,corpus/04-poten/pdfs/2025/Weekly Opinion - January 3 2025 - The (Mostly) Predictable Parade.pdf
+2025-01-03,2025,2024,Overall,17,Equinor,"15,020",1.2%,109,,21,corpus/04-poten/pdfs/2025/Weekly Opinion - January 3 2025 - The (Mostly) Predictable Parade.pdf
+2025-01-03,2025,2024,Overall,18,Phillips 66,"14,535",1.2%,126,,20,corpus/04-poten/pdfs/2025/Weekly Opinion - January 3 2025 - The (Mostly) Predictable Parade.pdf
+2025-01-03,2025,2024,Overall,19,Glencore,"14,306",1.1%,125,,14,corpus/04-poten/pdfs/2025/Weekly Opinion - January 3 2025 - The (Mostly) Predictable Parade.pdf
+2025-01-03,2025,2024,Overall,20,Aramco,"14,271",1.1%,125,,23,corpus/04-poten/pdfs/2025/Weekly Opinion - January 3 2025 - The (Mostly) Predictable Parade.pdf
+2025-02-07,2025,2024,Overall,1,"9,321","9,735",6%,,,,corpus/04-poten/pdfs/2025/Weekly Opinion - 7 February 2025 - Trade Winds of Change.pdf
+2026-01-09,2026,2025,Overall,1,Unipec,"190,455",15.4%,775,,1,corpus/04-poten/pdfs/2026/Weekly Opinion - January 9 2026 - Show Me The Barrels.pdf
+2026-01-09,2026,2025,Overall,2,ExxonMobil,"48,395",3.9%,301,,4,corpus/04-poten/pdfs/2026/Weekly Opinion - January 9 2026 - Show Me The Barrels.pdf
+2026-01-09,2026,2025,Overall,3,Total,"46,673",3.8%,316,,5,corpus/04-poten/pdfs/2026/Weekly Opinion - January 9 2026 - Show Me The Barrels.pdf
+2026-01-09,2026,2025,Overall,4,Petrobras,"44,215",3.6%,203,,9,corpus/04-poten/pdfs/2026/Weekly Opinion - January 9 2026 - Show Me The Barrels.pdf
+2026-01-09,2026,2025,Overall,5,Chevron,"41,455",3.3%,286,,2,corpus/04-poten/pdfs/2026/Weekly Opinion - January 9 2026 - Show Me The Barrels.pdf
+2026-01-09,2026,2025,Overall,6,VITOL,"37,369",3.0%,291,,7,corpus/04-poten/pdfs/2026/Weekly Opinion - January 9 2026 - Show Me The Barrels.pdf
+2026-01-09,2026,2025,Overall,7,Shell,"37,220",3.0%,271,,3,corpus/04-poten/pdfs/2026/Weekly Opinion - January 9 2026 - Show Me The Barrels.pdf
+2026-01-09,2026,2025,Overall,8,IOC,"29,404",2.4%,157,,6,corpus/04-poten/pdfs/2026/Weekly Opinion - January 9 2026 - Show Me The Barrels.pdf
+2026-01-09,2026,2025,Overall,9,Petrochina,"28,990",2.3%,171,,10,corpus/04-poten/pdfs/2026/Weekly Opinion - January 9 2026 - Show Me The Barrels.pdf
+2026-01-09,2026,2025,Overall,10,BP,"27,360",2.2%,222,,8,corpus/04-poten/pdfs/2026/Weekly Opinion - January 9 2026 - Show Me The Barrels.pdf
+2026-01-09,2026,2025,Overall,11,TRAFIGURA,"22,628",1.8%,171,,22,corpus/04-poten/pdfs/2026/Weekly Opinion - January 9 2026 - Show Me The Barrels.pdf
+2026-01-09,2026,2025,Overall,12,REPSOL,"21,700",1.8%,192,,14,corpus/04-poten/pdfs/2026/Weekly Opinion - January 9 2026 - Show Me The Barrels.pdf
+2026-01-09,2026,2025,Overall,13,PTT,"20,140",1.6%,108,,11,corpus/04-poten/pdfs/2026/Weekly Opinion - January 9 2026 - Show Me The Barrels.pdf
+2026-01-09,2026,2025,Overall,14,SK Corp,"19,845",1.6%,77,,13,corpus/04-poten/pdfs/2026/Weekly Opinion - January 9 2026 - Show Me The Barrels.pdf
+2026-01-09,2026,2025,Overall,15,GS CALTEX,"18,935",1.5%,71,,12,corpus/04-poten/pdfs/2026/Weekly Opinion - January 9 2026 - Show Me The Barrels.pdf
+2026-01-09,2026,2025,Overall,16,Equinor,"18,408",1.5%,137,,17,corpus/04-poten/pdfs/2026/Weekly Opinion - January 9 2026 - Show Me The Barrels.pdf
+2026-01-09,2026,2025,Overall,17,Glencore,"16,151",1.3%,157,,19,corpus/04-poten/pdfs/2026/Weekly Opinion - January 9 2026 - Show Me The Barrels.pdf
+2026-01-09,2026,2025,Overall,18,Aramco,"14,809",1.2%,122,,20,corpus/04-poten/pdfs/2026/Weekly Opinion - January 9 2026 - Show Me The Barrels.pdf
+2026-01-09,2026,2025,Overall,19,BPCL,"13,631",1.1%,94,,15,corpus/04-poten/pdfs/2026/Weekly Opinion - January 9 2026 - Show Me The Barrels.pdf
+2026-01-09,2026,2025,Overall,20,NSRP,"12,960",1.0%,48,,New,corpus/04-poten/pdfs/2026/Weekly Opinion - January 9 2026 - Show Me The Barrels.pdf
+2026-07-10,2026,2025,Overall,1,Unipec,"60,950",10.7%,244,,1,corpus/04-poten/pdfs/2026/Weekly Opinion - July 10 2026 - Tanker Midterms - 2026 Edition.pdf
+2026-07-10,2026,2025,Overall,2,Petrobras,"22,890",4.0%,105,,6,corpus/04-poten/pdfs/2026/Weekly Opinion - July 10 2026 - Tanker Midterms - 2026 Edition.pdf
+2026-07-10,2026,2025,Overall,3,Total,"22,189",3.9%,151,,2,corpus/04-poten/pdfs/2026/Weekly Opinion - July 10 2026 - Tanker Midterms - 2026 Edition.pdf
+2026-07-10,2026,2025,Overall,4,Chevron,"20,571",3.6%,151,,3,corpus/04-poten/pdfs/2026/Weekly Opinion - July 10 2026 - Tanker Midterms - 2026 Edition.pdf
+2026-07-10,2026,2025,Overall,5,ExxonMobil,"19,815",3.5%,144,,4,corpus/04-poten/pdfs/2026/Weekly Opinion - July 10 2026 - Tanker Midterms - 2026 Edition.pdf
+2026-07-10,2026,2025,Overall,6,VITOL,"18,225",3.2%,141,,7,corpus/04-poten/pdfs/2026/Weekly Opinion - July 10 2026 - Tanker Midterms - 2026 Edition.pdf
+2026-07-10,2026,2025,Overall,7,Shell,"17,380",3.0%,113,,5,corpus/04-poten/pdfs/2026/Weekly Opinion - July 10 2026 - Tanker Midterms - 2026 Edition.pdf
+2026-07-10,2026,2025,Overall,8,BP,"13,932",2.4%,119,,9,corpus/04-poten/pdfs/2026/Weekly Opinion - July 10 2026 - Tanker Midterms - 2026 Edition.pdf
+2026-07-10,2026,2025,Overall,9,Petrochina,"13,765",2.4%,91,,10,corpus/04-poten/pdfs/2026/Weekly Opinion - July 10 2026 - Tanker Midterms - 2026 Edition.pdf
+2026-07-10,2026,2025,Overall,10,TRAFIGURA,"9,986",1.8%,72,,12,corpus/04-poten/pdfs/2026/Weekly Opinion - July 10 2026 - Tanker Midterms - 2026 Edition.pdf
+2026-07-10,2026,2025,Overall,11,ADMIC,"9,460",1.7%,38,,New,corpus/04-poten/pdfs/2026/Weekly Opinion - July 10 2026 - Tanker Midterms - 2026 Edition.pdf
+2026-07-10,2026,2025,Overall,12,PTT,"8,910",1.6%,55,,13,corpus/04-poten/pdfs/2026/Weekly Opinion - July 10 2026 - Tanker Midterms - 2026 Edition.pdf
+2026-07-10,2026,2025,Overall,13,IOC,"8,818",1.5%,43,,8,corpus/04-poten/pdfs/2026/Weekly Opinion - July 10 2026 - Tanker Midterms - 2026 Edition.pdf
+2026-07-10,2026,2025,Overall,14,REPSOL,"8,660",1.5%,91,,11,corpus/04-poten/pdfs/2026/Weekly Opinion - July 10 2026 - Tanker Midterms - 2026 Edition.pdf
+2026-07-10,2026,2025,Overall,15,SK Corp,"8,200",1.4%,38,,14,corpus/04-poten/pdfs/2026/Weekly Opinion - July 10 2026 - Tanker Midterms - 2026 Edition.pdf
+2026-07-10,2026,2025,Overall,16,GS Caltex,"7,630",1.3%,,,15,corpus/04-poten/pdfs/2026/Weekly Opinion - July 10 2026 - Tanker Midterms - 2026 Edition.pdf
+2026-07-10,2026,2025,Overall,17,Glencore,"7,595",1.3%,74,,17,corpus/04-poten/pdfs/2026/Weekly Opinion - July 10 2026 - Tanker Midterms - 2026 Edition.pdf
+2026-07-10,2026,2025,Overall,18,Equinor,"7,197",1.3%,68,,16,corpus/04-poten/pdfs/2026/Weekly Opinion - July 10 2026 - Tanker Midterms - 2026 Edition.pdf
+2026-07-10,2026,2025,Overall,19,ENI,"6,215",1.1%,64,,24,corpus/04-poten/pdfs/2026/Weekly Opinion - July 10 2026 - Tanker Midterms - 2026 Edition.pdf
+2026-07-10,2026,2025,Overall,20,BPCL,"6,087",1.1%,47,,22,corpus/04-poten/pdfs/2026/Weekly Opinion - July 10 2026 - Tanker Midterms - 2026 Edition.pdf

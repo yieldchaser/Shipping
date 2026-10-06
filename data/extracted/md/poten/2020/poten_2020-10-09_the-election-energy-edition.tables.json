@@ -1,0 +1,25 @@
+{
+  "issue_date": "2020-10-09",
+  "year": 2020,
+  "title": "The Election Energy Edition",
+  "source_file": "corpus/04-poten/pdfs/2020/Weekly-Opinion-9-Oct-2020-The-Election-Energy-Edition.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2020-10-09_the-election-energy-edition_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2020/poten_2020-10-09_the-election-energy-edition_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-10-09_the-election-energy-edition_chart1.png",
+      "width": 988,
+      "height": 798
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

@@ -63,8 +63,9 @@ def http_fetch_html(url: str, target_file: Path) -> str:
     if target_file.exists() and target_file.stat().st_size > 2000:
         return target_file.read_text(encoding="utf-8", errors="ignore")
     try:
+        curl_bin = "curl.exe" if os.name == "nt" else "curl"
         res = subprocess.run(
-            ["curl.exe", "-s", "-L", "--compressed", "-A", HEADERS["User-Agent"], url],
+            [curl_bin, "-s", "-L", "--compressed", "-A", HEADERS["User-Agent"], url],
             capture_output=True,
             timeout=25
         )
@@ -448,20 +449,24 @@ def run_gibson_html_pipeline(limit=None):
         slug = r.get("slug", "")
         link = r.get("link", "")
         
+        out_year_dir = OUTPUT_MD_DIR / year
+        stem = f"gibson_{iso_date}_{slug}"
+        md_file = out_year_dir / f"{stem}.md"
+        tables_file = out_year_dir / f"{stem}.tables.json"
+        charts_file = out_year_dir / f"{stem}.charts.json"
         target_html = CORPUS_HTML_DIR / year / f"{iso_date}_{slug}.html"
+
+        # Skip re-fetching historical HTMLs on CI when .md and .tables.json already exist
+        if md_file.exists() and tables_file.exists() and not target_html.exists():
+            continue
+
         html = http_fetch_html(link, target_html)
         if not html:
             continue
             
         md_content, tables_sidecar, charts_sidecar, spot_rows, bunker_rows = parse_html_report(html, iso_date, slug, link)
         
-        out_year_dir = OUTPUT_MD_DIR / year
         out_year_dir.mkdir(parents=True, exist_ok=True)
-        
-        stem = f"gibson_{iso_date}_{slug}"
-        md_file = out_year_dir / f"{stem}.md"
-        tables_file = out_year_dir / f"{stem}.tables.json"
-        charts_file = out_year_dir / f"{stem}.charts.json"
         
         md_file.write_text(md_content, encoding="utf-8")
         tables_file.write_text(json.dumps(tables_sidecar, indent=2), encoding="utf-8")
@@ -495,8 +500,8 @@ def run_gibson_html_pipeline(limit=None):
         df_all_b.to_csv(BUNKER_CSV_PATH, index=False, encoding="utf-8")
         print(f"Updated: {BUNKER_CSV_PATH} (Now {len(df_all_b)} total rows)")
         
-    # Re-generate Master Excel Workbook
-    if SPOT_CSV_PATH.exists() and BUNKER_CSV_PATH.exists():
+    # Re-generate Master Excel Workbook when new records were processed or workbook is missing
+    if (all_new_spot or all_new_bunker or not EXCEL_PATH.exists()) and SPOT_CSV_PATH.exists() and BUNKER_CSV_PATH.exists():
         df_s = pd.read_csv(SPOT_CSV_PATH)
         df_b = pd.read_csv(BUNKER_CSV_PATH)
         with pd.ExcelWriter(EXCEL_PATH, engine="openpyxl") as writer:

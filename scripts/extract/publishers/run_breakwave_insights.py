@@ -214,9 +214,10 @@ def process_single_article(html_path):
         src = img.get('src', '').strip()
         alt = img.get('alt', '').strip()
 
-        # Absolute file path & file URI for one-click opening in editor
-        abs_img_path = os.path.abspath(os.path.join(os.path.dirname(html_path), src))
-        file_uri = f"file:///{abs_img_path.replace(chr(92), '/')}"
+        # Canonical workspace file URI for one-click opening in editor
+        rel_html_dir = os.path.dirname(html_path).replace('\\', '/')
+        rel_asset_norm = os.path.normpath(os.path.join(rel_html_dir, src)).replace('\\', '/')
+        file_uri = f"file:///c:/Users/Dell/Github/Shipping/{rel_asset_norm}"
 
         # Relative path for standard inline markdown rendering
         rel_img_path = src if not src.startswith(('http://', 'https://')) else file_uri
@@ -538,18 +539,30 @@ def run_pipeline(target_years=None):
             if idx % 500 == 0 or idx == len(all_files):
                 print(f'Processed {idx}/{len(all_files)} files ({idx/(time.time() - t_start):.1f} files/sec)...')
 
-    # Write Master Metadata Catalog
+    # Write Master Metadata Catalog (Non-Destructive Upsert)
     meta_path = 'data/extracted/series/breakwave_insights_metadata.csv'
-    with open(meta_path, 'w', encoding='utf-8', newline='') as mf:
-        fieldnames = ['issue_date', 'year', 'title', 'url', 'tags', 'images_count', 'word_count', 'source_file', 'md_file']
-        writer = csv.DictWriter(mf, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(all_metadata)
+    fieldnames = ['issue_date', 'year', 'title', 'url', 'tags', 'images_count', 'word_count', 'source_file', 'md_file']
+    existing_map = {}
+    if os.path.exists(meta_path) and os.path.getsize(meta_path) > 0:
+        try:
+            with open(meta_path, 'r', encoding='utf-8', errors='replace') as rf:
+                for row in csv.DictReader(rf):
+                    existing_map[row.get('source_file', '')] = row
+        except Exception:
+            pass
+    for row in all_metadata:
+        existing_map[row.get('source_file', '')] = {c: row.get(c, '') for c in fieldnames}
+    if existing_map:
+        merged_meta = sorted(existing_map.values(), key=lambda x: (str(x.get('issue_date') or ''), str(x.get('source_file') or '')))
+        with open(meta_path, 'w', encoding='utf-8', newline='') as mf:
+            writer = csv.DictWriter(mf, fieldnames=fieldnames)
+            writer.writeheader()
+            writer.writerows(merged_meta)
 
     t_total = time.time() - t_start
     print(f'\nPipeline Complete!')
-    print(f'Total files converted: {len(all_metadata)} (Errors: {total_errors}) in {t_total:.1f}s')
-    print(f'Master metadata catalog created: {meta_path} ({len(all_metadata)} rows)')
+    print(f'Total files converted this run: {len(all_metadata)} (Errors: {total_errors}) in {t_total:.1f}s')
+    print(f'Master metadata catalog updated: {meta_path} ({len(existing_map)} total rows)')
 
 if __name__ == '__main__':
     target_years = sys.argv[1:] if len(sys.argv) > 1 else None

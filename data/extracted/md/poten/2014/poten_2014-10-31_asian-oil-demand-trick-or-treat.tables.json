@@ -1,0 +1,25 @@
+{
+  "issue_date": "2014-10-31",
+  "year": 2014,
+  "title": "Asian Oil Demand - Trick or Treat?",
+  "source_file": "corpus/04-poten/pdfs/2014/Tanker_Opinion_20141031.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2014-10-31_asian-oil-demand-trick-or-treat_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2014/poten_2014-10-31_asian-oil-demand-trick-or-treat_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-10-31_asian-oil-demand-trick-or-treat_chart1.png",
+      "width": 893,
+      "height": 641
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

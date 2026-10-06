@@ -1,0 +1,115 @@
+---
+title: "Tri‐Angling for Earnings"
+subtitle: ""
+issue_date: "2011-10-21"
+year: 2011
+author: "Poten & Partners"
+source: "poten"
+category: "tankers"
+pages: 3
+source_file: "corpus/04-poten/pdfs/2011/Tanker_Opinion_20111021.pdf"
+tables_count: 0
+charts_count: 0
+---
+
+# Tri‐Angling for Earnings
+
+Freight rates for the Arabian Gulf - US Gulf VLCC voyage have averaged less than Worldscale WS 37 year to date, equating to negative time charter equivalent earnings when calculated at full speed on a round trip basis. As discussed last week, increased Asian demand and diversification of crude oil sources have created more VLCC cargo opportunities in the Atlantic Basin. Additionally, tanker owners in the spot market have pushed for lower voyage speeds as a result of the high bunker price environment. While it is the convention of the industry to calculate earnings on a round trip basis, in practice the dynamic nature of the tanker market does not lend itself to such tidy calculations. On that basis, charterers may suspect that actual vessel utilization is yielding a much higher return than what is being reported by various sources. But even under ideal utilization conditions, earnings are still likely below most owners' vessel operating expenses.
+
+Year to date, a hypothetical triangulated voyage has generally resulted in higher earnings than round trip trades originating from the Arabian Gulf, as seen in the chart below.
+
+### VLCC Spot Market Earnings 2011 YTD
+
+### $70,000
+
+### $60,000
+
+### $50,000
+
+### $40,000
+
+### TCE ($/Day)
+
+### $30,000
+
+### $20,000
+
+### $10,000
+
+### $0
+
+### Aug‐11
+
+### Sep‐11
+
+### Jul‐11
+
+### Feb‐11
+
+### May‐11
+
+### Oct‐11
+
+### Jun‐11
+
+### Jan‐11
+
+### Mar‐11
+
+### Apr‐11
+
+### ‐$10,000
+
+### ‐$20,000
+
+AG ‐ USG (280kt) AG ‐ FE (260kt) WAF ‐ FE (260kt) AG/USG/WAF/FE ‐$1,120 $13,859 $17,163 $17,681 Triangulated Voyage AG ‐ USG ‐ WAF ‐ FE ‐ AG Voyage Assumptions Voyage 1 ‐ Laden Ras Tanura ‐ LOOP (+ piracy avoidance) Voyage 2 ‐ Ballast LOOP ‐ Bonny Voyage 3 ‐ Laden Bonny ‐ Ningpo Voyage 4 ‐ Ballast Ningpo ‐ Ras Tanura Actual earnings will vary widely by vessel as factors such as speed, routing, and time in ballast can drastically influence earnings on a time charter equivalent basis. However, those westbound vessels lucky enough to secure an eastbound backhaul cargo can bolster earnings by both minimizing miles traveled in ballast and generating additional voyage revenue.
+
+### Need for (Slow) Speed
+
+Fuel economy plays heavily in earnings potential in today's spot market. The cost of heavy fuel oil bunkers sold in Fujairah has averaged over $640 per ton year to date, over 35% higher than the average from 2006‐2010. Bunkers on the ballast leg of the Arabian Gulf to US Gulf voyage have averaged over $1.6 million, or 40% of total voyage revenue. Additionally, it is estimated that piracy deviation has added over $180,000 dollars in bunker costs to each leg of voyages originating in the Arabian Gulf.
+
+While owners may be bound to a certain extent by the intrinsic fuel efficiency of their vessels, they can rein in bunker costs somewhat by reducing speeds, particularly on the ballast leg of voyages. The chart below compares earnings calculated on a simple roundtrip basis versus those accounting for certain complexities inherent to the current market.
+
+### Comparative Earnings 2011 YTD
+
+### $20,000
+
+Full speed: 15.5 kt laden / 16 kt ballast Market speed: 14 kt laden / 13.5 kt ballast Piracy deviation: 1,150 nm
+
+### Ras Tanura - LOOP - Bonny -
+
+### Ningpo - Ras Tanura
+
+### $10,000
+
+### $17,600
+
+### TCE ($/Day)
+
+### Ras Tanura - LOOP (280kt)
+
+### Ras Tanura - LOOP (280kt)
+
+### $3,900
+
+### ‐$1,120
+
+### $0
+
+Round trip Round trip Triangulated Voyage No piracy deviation With piracy deviation With piracy deviation Full speed Market speed Market Speed
+
+### ‐$10,000
+
+Depending on vessel particulars, reducing speeds as indicated above has the potential to increase round trip voyage earnings by over $5,000 per day to $3,900 per day, even after accounting for piracy deviation. At current market rates, the triangulated voyage yields a return of about $8,900 per day. This figure is still about $1,600 shy of covering an average owner's daily vessel operating expenses of $10,500 per day.
+
+### Three's a Crowd
+
+There has been little movement year to date in rates for westbound voyages out of the Arabian Gulf, making the profitability of triangulated trade largely dependent on rate strength in the Atlantic Basin. Relatively higher rates for VLCC voyages from West Africa to the Far East have enticed owners to position for this business. In the past twelve months, VLCC fixture volumes from the Atlantic Basin to markets in the Far East, South Asia, and Southeast Asia have been almost double those from the Arabian Gulf to markets West of Suez, seen in the chart below.
+
+### VLCC Fixtures by Trade Lane ‐
+
+### Past 12 Months
+
+AG ‐ West Atlantic Basin ‐ East Other However, there is risk inherent in the play, and vessel utilization is a major wildcard in a ship's overall profitability. As more owners compete for backhaul cargoes, there is possibility that increased Atlantic Basin supply could put downward pressure on rates.
+
+information on the services and research products offered by our Marine Projects & Consulting department or to contact

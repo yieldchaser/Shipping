@@ -1,0 +1,231 @@
+---
+title: "Xclusiv Shipbrokers Weekly Market Report - Week 14, 2025"
+issue_date: "2025-04-07"
+report_week: 14
+year: 2025
+broker: "Xclusiv Shipbrokers"
+source: "xclusiv"
+source_file: "corpus/01-brokers/xclusiv/2025/xclusiv_2025_xclusiv-2025_04_07_compressed.pdf"
+pages: 9
+useful_pages: 7
+editorial_title: "MARKET COMMENTARY:"
+sales_count: 18
+demo_sales_count: 2
+secondhand_prices_count: 32
+newbuilding_prices_count: 9
+demolition_prices_count: 8
+baltic_indices_count: 7
+---
+
+# Xclusiv Shipbrokers Weekly Market Report - Week 14, 2025
+
+- **Publisher**: Xclusiv Shipbrokers Inc.
+- **Issue Date**: 2025-04-07 (Week 14)
+- **Source**: `corpus/01-brokers/xclusiv/2025/xclusiv_2025_xclusiv-2025_04_07_compressed.pdf`
+- **Pages**: 9 (Cover-to-cover extraction of useful pages 1 to 7; final 2 pages discarded per notes)
+
+---
+
+## Market Overview
+
+### Editorial: MARKET COMMENTARY:
+
+The latest escalation in U.S.-China trade tensions marks a new phase of economic confrontation, with profound implications for global markets and the shipping industry. On April 2, President Donald Trump announced sweeping tariffs, including a 34% levy on Chinese imports, 20% on EU goods, and a baseline 10% tariff on most global im- ports. These measures also hit emerging manufacturing hubs like Vietnam and Cambodia. The EU swiftly con- demned the move, calling it a “major blow” to the global economy and warning of countermeasures. China, in a rapid and assertive response, imposed a matching 34% tariff on U.S. imports and introduced a range of other re- taliatory measures, including export controls on rare earths, bans on specific U.S. firms and goods, and new investiga- tions into American companies operating in China. The back-and-forth not only revives memories of the 2018–2019 trade war but amplifies fears of sustained global economic fragmentation. Historically, container and dry bulk sec- tors—particularly grain and steel cargoes—were hit hardest, but now the car carrier sector will also take a hit. With retaliatory tariffs likely to affect U.S. exports more than imports, the shipping market could see further pressure. Meanwhile, global trade flows may become more regionalized, disrupting established shipping lanes and reducing tonne-mile demand across major routes.
+
+The dry bulk S&P market saw a notable slowdown in Q1 2025, with total transactions declining by approximately 18% year-on-year, from 238 vessels in Q1 2024 to 196 vessels in the same period this year. However, despite a muted start in January (56 transactions), activity gradually gained momentum, rising to 66 in February and peaking at 70 in March. Segment-wise, Handysize vessels led activity with 50 transactions, although slightly down from 52 in Q1 2024. Supra- max and Panamax segments also remained active with 38 and 36 sales respectively. Notably, Panamax vessels posted year-on-year gains, up from 23 transactions last year, indicating growing interest in this mid-sized segment. In con- trast, Capesize activity fell sharply to just 16 sales, exactly half of the 32 recorded in Q1 2024.
+
+From an age perspective, the market displayed a clear preference for mid-age to older vessels, with ships aged 11–15 years accounting for the highest share of activity (45% or 89 vessels), followed by 16–20-year-old ships (25%). In a notable shift from Q1 2024, transactions involving mod- ern vessels (0–10 years old) dropped significantly, repre- senting just 12% of deals compared to 24% last year. Meanwhile, vintage tonnage (21+ years) doubled its mar- ket share from 7% in Q1 2024 to 15% in Q1 2025, includ- ing 7 ships over 26 years old, underlining the extended commercial lifespan owners are assigning to aging as- sets. In terms of nationality, Chinese and Greek buyers remained dominant, acquiring 32 and 19 vessels respec- tively. However, both saw steep declines from last year, with Chinese buyers down 50% and Greek buyers down al- most 75%. Vietnamese interest grew modestly, with 10 acquisitions up from 7 in 2024. On the sell-side, Greek owners remained the most active, offloading 44 ships (23% market share), followed by Japanese (19%) and Chinese (12%) sellers. This reshuffling hints at ongoing fleet renewal strategies, divestment of older assets, and regional repositioning in response to geopolitical shifts and environmental compliance pressure.
+
+### In a Nutshell
+
+- Trump imposes sweeping tariffs on China, EU, and global
+- imports.  (Page 1)
+- China retaliates with 34% tariffs, rare earth export controls.
+- (Page 1)
+- Dry bulk S&P transactions fell 18% year-on-year in Q1 2025.
+- (Page 1)
+- Mid-aged ships (11–15 years) dominated market transac-
+- tions.  (Page 1)
+- Greek sellers led ship disposals, signaling strategic fleet rea-
+- lignment efforts.  (Page 1)
+
+### Baltic Exchange Freight Indices
+
+| Index | Current | Previous | Change (%) | 3Y Trend / Historical Averages |
+|---|---|---|---|---|
+| BDI | 1,489 | 1,602 | -7.1% | 2026: 1,144 / 2025: 1,756 / 2024: 1,387 |
+| BCI | 2,219 | 2,472 | -10.2% | 2026: 1,614 / 2025: 2,724 / 2024: 1,989 |
+| BPI | 1,425 | 1,497 | -4.8% | 2026: 1,090 / 2025: 1,570 / 2024: 1,437 |
+| BSI | 971 | 995 | -2.4% | 2026: 829 / 2025: 1,243 / 2024: 1,029 |
+| BHSI | 613 | 614 | -0.2% | 2026: 510 / 2025: 704 / 2024: 582 |
+| BDTI | 1,112 | 1,105 | 0.6% | 2026: 915 / 2025: 1,094 / 2024: 1,144 |
+| BCTI | 676 | 789 | -14.3% | 2026: 706 / 2025: 821 / 2024: 802 |
+
+---
+
+## Freight Market Analysis
+
+### Dry Bulk Freight
+
+Capesize: C5TC avg is down by USD 3.8/day at USD 18,404/day. Trip from Continent to F.East is down by 3.8k/day at USD 38,531/day, Transatlan- tic R/V is lower by 4k/day at USD 15,857/day, Boli- var to Rotterdam is lower by 3.4k/day at USD 22,021/day and Transpacific R/V is down by 3.5k/ day at USD 18,582/day. Tubarao to Rotterdam is reduced by 0.5k/day at USD 14,925/day, China- Brazil R/V is lower by 5.7k/day at USD 19,160/day & trip from Saldanha Bay to Qinqdao is reduced by 0.5k/day at USD 14,925/day. 1y T/C Rate for Scrubber fitted Capesize is softer at USD 20,700/ day, and for Eco 180k Capesize is USD 19,700/day.
+
+Kamsarmax/Panamax: Kmax P5TC avg is up at USD 12,824/day. Pmx P4TC avg closed with an increase at USD 11,488/day. Trip from Skaw-Gib to F.East is up by 0.4k/day at USD 17,550/day, Pacific R/V is up by 0.5k/day at USD 14,454/day, and Transatlantic R/V is up by 0.2k/day at USD 10,300/day, Singapore R/V via Atlantic is up by 0.4k/day at USD 13,341/day. Skaw-Gibraltar trans -atlantic R/V (P1A_03) is stable at USD 9,016/day, Skaw-Gibraltar trip to Taiwan-Japan (P2A_03) is increased by 0.4k/day at USD 16,061/day, and finally Japan-S. Korea Transpacific R/V (P3A_03) is up by 0.5k/day at USD 13,152/day. 1y T/C for Kamsarmax is firmer by 1k/day at USD 13,450/ day, Panamax is also firmer at USD 12,450/day.
+
+Ultramax/Supramax: Ultra S11TC avg is stable at USD 15,891/day. The Supra S10TC avg closed the week lower, at USD 10,244/day. The Baltic Supra- max Asia S3TC avg closed the week 1.8k/day low- er at USD 12,188/day. N.China one Australian or Pacific R/V is declined by 2.1k/day at USD 12,200/ day, USG to Skaw Passero is softer by 0.6k/day at USD 16,029/day. S.China trip via Indonesia to EC India is down by 1.1k/day at USD 13,817/day, trip from S.China via Indonesia to S.China pays 2k/day less at USD 10,543/day, while Med/B.Sea to Chi- na/S.Korea is increased by 0.6k/day at USD 12,604/day. 1y T/C rate for Ultramax is softer at USD 13,950/day, while for Supramax is also softer at USD 12,950/day.
+
+Handysize: HS7TC average is up by 0.3k/day at USD 11,027/day. Skaw-Passero trip to Boston- Galveston pays 0.6k/day more at USD 9,679/day, Brazil to Cont. pays 0.3k/day more at USD 14,344/ day, S.E. Asia trip to Spore/Japan 0.6k/day is firmer at USD 11,450/day, China/S.Korea/Japan round trip is increased by a mere 0.1k/day at USD 11,671/day and trip from U.S. Gulf to Cont. is stable at USD 10,929/day, while N.China- S.Korea-Japan trip to S.E.Asia is increased by 0.2k/day at USD 11,564/day. 38K Handy 1y T/C rate is USD 13,000/day while 32k Handy 1y T/C is softer at USD 10,800/day in Atlantic and USD 11,200/day in Pacific region.
+
+### Tanker Freight
+
+VLCC: avg T/CE closed the week down by 4k/day at USD 42,072/day. Middle East Gulf to China trip is down by 9k/day at USD 37,658/day. West Africa to China trip is down by 7k/day at USD 41,200/day and US Gulf to China trip is down by 4k/day at USD 47,357/day. 1y T/C Rate for 310k dwt D/H Eco VLCC is USD 3k/day firmer since last week, at USD 47,750/day.
+
+Suezmax: avg T/CE is this week stable at USD 51,782/day. West Africa to Continent trip is up by a mere 0.2k/day at USD 41,204/day, Black Sea to Mediterranean is down by 0.6k/day at USD 62,360/day, and Middle East Gulf to Med trip is reduced by 1.8k/day at USD 41,112/day, while trip from Guyana to ARA is improved by 1.2k/day at USD 41,104/day. 1y T/C Rate for 150k dwt D/H Eco Suezmax is USD 250/day lower since last week, at USD 35,250/day.
+
+Aframax: avg T/CE is this week up by 16k/day at USD 47,630/day. N.Sea to Continent trip is up by 28.4k/day at USD 53,626/day, Kuwait to Singapore is up by 2.7k/day at USD 36,437/day and route from Caribbean to US Gulf trip is up by 28k/day at USD 57,727/day. Trip from S.E.Asia to East Coast Australia is down by 1.1k/day at USD 29,952/day & Cross Mediterranean tripis up by 21.3k/day at USD 54,692/day. US Gulf to UK-Continent is improved by 11.2k/day at USD 46,732/day and the East Coast Mexico to US Gulf trip is up by USD 35.1k/ day at USD 64,341/day. 1y T/C Rate for 110k dwt D/H Eco Aframax is USD 30,250/day.
+
+Products: The LR2 route (TC1) Middle East to Ja- pan is down by 4.4k/day at USD 34,305/day. Trip from (TC15) Med to Far East is stready at USD 9,496/day and (TC20) AG to UK Continent is down by 3.5k/day at USD 38,557/day. The LR1 route (TC5) from Middle East Gulf to Japan is down by 8.4k/day at USD 21,413/day, while the (TC8) Mid- dle East Gulf to UK-Continent is down by 3.5k/day at USD 38,557/day and the (TC16) Amsterdam to Lome trip is improved by 4.6k/day at USD 22,588/ day. The MR Atlantic Basket is decreased by 3.1k/ day at USD 25,173/day and the MR Pacific Basket earnings are lower by 4.k/day at USD 20,342/day. The MR route from Rotterdam to New York (TC2) is softer by 4.4k/day at USD 34,305/day, (TC6) In- termed (Algeria to Euro Med) earnings are softer by8.4k/day at USD 21,413/day, (TC14) US Gulf to Continent is down by 3.6k/day at USD 12,880/day, (TC18) US Gulf to Brazil earnings are lower by 10.4k/day at USD 18,904/day, (TC23) Amsterdam to Le Havre is lower by 1.4k/day at USD 18,986/day while Yeosu to Botany Bay (TC22) is softer by 17.2k/ day at USD 14,464/day & ARA to West Africa (TC19) is up by 3.4k/day at USD 23,493/day. Eco LR2 1y T/C rate is lower than previous week at USD 31,000/day, while Eco MR2 1y T/C rate is increased on a weekly basis at USD 21,375/day.
+
+---
+
+## Newbuilding Market
+
+### Indicative Newbuilding Prices ($ mills)
+
+| Sector | Vessel Type | Price ($M) |
+|---|---|---|
+| Dry | Capesize | $75.0M |
+| Dry | Kamsarmax | $38.8M |
+| Dry | Ultramax | $34.8M |
+| Dry | Handysize | $31.4M |
+| Tanker | VLCC | $128.0M |
+| Tanker | Suezmax | $89.2M |
+| Tanker | Aframax | $74.7M |
+| Tanker | Panamax | $61.6M |
+| Tanker | MR2 | $51.7M |
+
+### Newbuilding Orders
+
+| Type | Units | Size | Yard | Buyer | Price | Delivery | Comments |
+|---|---|---|---|---|---|---|---|
+| BC | 2 | 180,000 DWT | QINGDAO BEIHAI | U-MING MARINE | 75-79 EACH | 2028 | SCRUBBER FITTED |
+| TANKER | 2 | 157,000 DWT | HYUNDAI SAMHO | SONANGOL | 87.6 EACH | H1 2027 | SCRUBBER FITTED |
+| TANKER | 4 | 115,000 DWT | HYUNDAI PHILIPPINES | CIDO | 73 EACH | 2027 | LR2 |
+| TANKER | 2 | 115,000 DWT | HYUNDAI PHILIPPINES | NISSEN KAIUN | N/A | H2 2028 | LR2 |
+| TANKER | 1 | 115,000 DWT | HYUNDAI VINASHIN | NISSEN KAIUN | N/A | Q4 2028 | LR2 |
+| LNG | 1 | 180,000 CBM | HYUNDAI SAMHO | PURUS MARINE | 261.8 | Q4 2027 |  |
+| CONTAINER | 6 | 8,400 TEU | HYUNDAI SAMHO | CAPITAL MARITIME | 140 EACH | 2028 | DF LNG |
+| CONTAINER | 8 | 2,800 TEU | HYUNDAI MIPO | CAPITAL MARITIME | 55 EACH | 2027 | SCRUBBER FITTED |
+| CONTAINER | 6 | 1,800 TEU | HYUNDAI MIPO | CAPITAL MARITIME | 45 EACH | 2027 | SCRUBBER FITTED |
+| CONTAINER | 1+5 | 1,138 TEU | JIANGSU QINFENG | JIANGSU LVHANG | N/A | Q4 2026 | DF LNG |
+
+---
+
+## Sale & Purchase Market
+
+### Dry Secondhand Prices ($ mills)
+
+| Vessel Type | Tenor | Price ($M) |
+|---|---|---|
+| Capesize | Resale | $75.7M |
+| Capesize | 5 Year | $62.7M |
+| Capesize | 10 Year | $44.8M |
+| Capesize | 15 Year | $28.0M |
+| Kamsarmax | Resale | $38.3M |
+| Kamsarmax | 5 Year | $32.5M |
+| Kamsarmax | 10 Year | $25.0M |
+| Kamsarmax | 15 Year | $15.8M |
+| Ultramax | Resale | $37.8M |
+| Ultramax | 5 Year | $31.3M |
+| Ultramax | 10 Year | $23.5M |
+| Ultramax | 15 Year | $15.2M |
+| Handysize | Resale | $33.0M |
+| Handysize | 5 Year | $25.5M |
+| Handysize | 10 Year | $17.8M |
+| Handysize | 15 Year | $11.9M |
+
+### Dry S&P Activity Commentary
+
+On the Mini-Capesize sector, the Scrubber fitted “Jubilant Devotion” - 118K/2016 Sanoyas was sold for USD 26.5 mills to clients of Alberta. Greek buyers ac- quired the Post Panamax “Clemens Oldendorff” - 93K/2012 Cosco Zhoushan for USD 13.3 mills. On the Kamsarmax sector, the conventional M/E “Sea Mara- thon” - 82K/2015 Qingdao Wuchuan was sold for USD 18 mills to Greek buyers, while the Ice Class 1C Pana- max “Santa Maria” - 79K/2008 Jiangsu Rongsheng was sold for USD 10.5 mills and the “Miyama” - 76K/2005 Sanoyas found new owners for USD 9.45 mills. On the Ultramax sector, the “Nantong Xiangyu Xy134” - 64K/2025 Nantong Xiangyu was sold for high USD 35 mills to Greek buyers. Chinese buyers acquired the Supramax “Arietta”- 56K/2009 build IHI was sold for USD 13 mills to Chinese buyers, while Chinese buyers also acquired the “Emmanuel C” - 58K/2008 Tsuneishi Zhoushan for USD 11.8 mills. On the Handysize sector, Greek buyers acquired the OHBS “Ansac Green River” - 33K/2018 Shin Kochi for USD 20 mills basis December cancelling. Finally, the OHBS Handysize “African Halcyon” - 32K/2007 Kanda Zosensho changed hands for excess USD 10 mills.
+
+### Bulk Carrier Sales
+
+| Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
+|---|---|---|---|---|---|---|---|---|---|
+| Bulk Carriers | JUBILANT DEVOTION | Capesize | 117,549 | 2016 | JAPAN | SANOYAS | ALBERTA | $26.5M | SCRUBBER FITTED |
+| Bulk Carriers | CLEMENS OLDENDORFF | Kamsarmax | 92,759 | 2012 | CHINA | COSCO ZHOUSHAN | GREEK | $13.3M | - |
+| Bulk Carriers | SEA MARATHON | Kamsarmax | 81,945 | 2015 | CHINA | QINGDAO WUCHUAN | GREEK | $18.0M | CONVENTIONAL M/E |
+| Bulk Carriers | TRISTAR DUGON | Panamax | 79,200 | 2011 | CHINA | COSCO DALIAN | UNDISCLOSED | $13.3M | GEARED |
+| Bulk Carriers | SANTA MARIA | Panamax | 78,825 | 2008 | CHINA | JIANGSU RONGSHENG | UNDISCLOSED | $10.5M | ICE CLASS 1C |
+| Bulk Carriers | MIYAMA | Panamax | 75,777 | 2005 | JAPAN | SANOYAS | UNDISCLOSED | $9.45M | - |
+| Bulk Carriers | SEA CHARM | Panamax | 75,932 | 2003 | JAPAN | TSUNEISHI | CHINESE | $7.7M | - |
+| Bulk Carriers | NANTONG XIANGYU | Handysize | XY134 63,550 | 2025 | CHINA | NANTONG XIANGYU | GREEK | $35.0M | - |
+| Bulk Carriers | CL SEVEN | Supramax | 50,630 | 2011 | JAPAN | OSHIMA | UNDISCLOSED | $14.0M | OHBS |
+| Bulk Carriers | ARIETTA | Supramax | 55,818 | 2009 | JAPAN | IHI | CHINESE | $13.0M | - |
+| Bulk Carriers | EMMANUEL C | Supramax | 58,837 | 2008 | CHINA | TSUNEISHI ZHOUSHAN | CHINESE | $11.8M | OHBS, BASIS DECEMBER |
+| Bulk Carriers | ANSAC GREEN RIVER | Handysize | 33,358 | 2018 | JAPAN | SHIN KOCHI | GREEK | $20.0M | CANCELLING |
+| Bulk Carriers | AFRICAN HALCYON | Handysize | 32,245 | 2007 | JAPAN | KANDA ZOSENSHO | UNDISCLOSED | $10.0M | OHBS |
+
+### Tanker Secondhand Prices ($ mills)
+
+| Vessel Type | Tenor | Price ($M) |
+|---|---|---|
+| VLCC | Resale | $144.7M |
+| VLCC | 5 Year | $112.0M |
+| VLCC | 10 Year | $83.0M |
+| VLCC | 15 Year | $52.7M |
+| Suezmax | Resale | $93.0M |
+| Suezmax | 5 Year | $76.0M |
+| Suezmax | 10 Year | $61.0M |
+| Suezmax | 15 Year | $40.0M |
+| Aframax | Resale | $74.0M |
+| Aframax | 5 Year | $62.2M |
+| Aframax | 10 Year | $49.7M |
+| Aframax | 15 Year | $35.0M |
+| MR2 | Resale | $50.1M |
+| MR2 | 5 Year | $40.4M |
+| MR2 | 10 Year | $30.3M |
+| MR2 | 15 Year | $21.4M |
+
+### Tanker S&P Activity Commentary
+
+Chinese buyers were very active this week in the VLCC sector, acquiring 3 VLCCs. The VLCC “Symphony”- 298K/2009 Shanghai Jiangnan was sold for USD 49 mills to Chinese buyers. Moreover Chi- nese buyers acquired the Scrubber fitted “Hansika” - 298K/2006 Universal for USD 46 mills, and the “Nierus”- 318K/2003 HHI for excess USD 30 mills. Last but not least, the LR2 “Omera Legacy”- 107K/2005 Daewoo was sold for USD 24.5 mills to Chinese buyers.
+
+### Tanker Sales
+
+| Section | Name | Type | DWT | Year | Country | Yard | Buyers | Price ($M) | Comments |
+|---|---|---|---|---|---|---|---|---|---|
+| Tankers | SYMPHONY | VLCC | 297,572 | 2009 | CHINA |  | CHINESE | $49.0M | - |
+| Tankers | HANSIKA | VLCC | 298,495 | 2006 | JAPAN | UNIVERSAL | CHINESE | $46.0M | SCRUBBER FITTED |
+| Tankers | NIERUS | VLCC | 317,972 | 2003 | S. KOREA | HHI | CHINESE | $30.0M | - |
+| Tankers | SIMOON | Suezmax | 151,174 | 2004 | S. KOREA | SAMSUNG | CHINESE | $26.0M | - |
+| Tankers | OMERA LEGACY | Aframax | 107,091 | 2005 | S. KOREA | DAEWOO | CHINESE | $24.5M | COATED |
+
+---
+
+## Demolition Market
+
+### Indicative Demolition Scrap Prices ($/LDT)
+
+| Segment | Country | Price ($/LDT) |
+|---|---|---|
+| Bulkers | India | $450.0 |
+| Bulkers | Bangladesh | $460.0 |
+| Bulkers | Pakistan | $450.0 |
+| Bulkers | Turkey | $295.0 |
+| Tankers | India | $465.0 |
+| Tankers | Bangladesh | $470.0 |
+| Tankers | Pakistan | $460.0 |
+| Tankers | Turkey | $305.0 |
+
+### Reported Demolition Sales
+
+| Name | Type | Year | DWT | LDT | Country | Price ($/LDT) | Buyers | Comments |
+|---|---|---|---|---|---|---|---|---|
+| ADVENTURE | GC | 1995 | 6,031 | 2,073 | JAPAN | N/A | INDIA | - |
+| NEPTUNE STAR 25 | BC | 1996 | 25,398 | 5,471 | JAPAN | N/A | PAKISTAN | - |
+
+---
+
+## Legal Disclaimer
+
+> *All information & data contained in this report has been taken from market sources and proprietary databases. All data, info, charts, views and news contained in this report are property of Xclusiv Shipbrokers Inc.*

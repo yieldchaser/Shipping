@@ -1,0 +1,25 @@
+{
+  "issue_date": "2017-10-13",
+  "year": 2017,
+  "title": "Flat Rate On The Rise Again",
+  "source_file": "corpus/04-poten/pdfs/2017/Weekly-Opinion-13-October-2017-Flat-Rate-On-The-Rise-Again.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2017-10-13_flat-rate-on-the-rise-again_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2017/poten_2017-10-13_flat-rate-on-the-rise-again_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-10-13_flat-rate-on-the-rise-again_chart1.png",
+      "width": 944,
+      "height": 615
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

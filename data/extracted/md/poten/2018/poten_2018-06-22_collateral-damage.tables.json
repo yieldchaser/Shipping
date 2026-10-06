@@ -1,0 +1,34 @@
+{
+  "issue_date": "2018-06-22",
+  "year": 2018,
+  "title": "Collateral Damage",
+  "source_file": "corpus/04-poten/pdfs/2018/Weekly-Opinion-22-Jun-2018-Collateral-Damage.pdf",
+  "tables_count": 0,
+  "charts_count": 2,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2018-06-22_collateral-damage_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2018/poten_2018-06-22_collateral-damage_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-06-22_collateral-damage_chart1.png",
+      "width": 910,
+      "height": 559
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2018-06-22_collateral-damage_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2018/poten_2018-06-22_collateral-damage_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-06-22_collateral-damage_chart2.png",
+      "width": 914,
+      "height": 592
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

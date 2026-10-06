@@ -1,0 +1,764 @@
+{
+ "source": "corpus/01-brokers/agora/2022/agora_2022_W52_AGORA.-Week-52.-2021.-Snapshot-of-Commercial-Indicators.pdf",
+ "convention": "EU",
+ "convention_info": {
+  "source": "anchor rows",
+  "eu": 11,
+  "us": 0,
+  "anchors": [
+   [
+    "Brent2",
+    "11,75%"
+   ],
+   [
+    "Brent2",
+    "$78,08"
+   ],
+   [
+    "Brent2",
+    "2,19%"
+   ],
+   [
+    "Gold12",
+    "0,96%"
+   ],
+   [
+    "Gold12",
+    "2,54%"
+   ],
+   [
+    "Gold12",
+    "$1.826,76"
+   ]
+  ]
+ },
+ "pages": 5,
+ "typed_confidence": "best-effort typed cells; .md is the primary artefact",
+ "sections": {
+  "0": {},
+  "1": {
+   "COMMODITY FUTURES": {
+    "columns": [
+     "Actual last",
+     "% weekly",
+     "% 4-weekly"
+    ],
+    "rows": [
+     {
+      "label": "Crude Oil1 (Dec21) NYMEX - (USD/Barrel)",
+      "name": "Crude Oil1 NYMEX - (USD/Barrel)",
+      "period": "(Dec21)",
+      "values": {
+       "% 4-weekly": 13.83,
+       "Actual last": 75.63,
+       "% weekly": 1.69
+      },
+      "raw": {
+       "% 4-weekly": "13,83%",
+       "Actual last": "$75,63",
+       "% weekly": "1,69%"
+      },
+      "page": 1,
+      "y": 193.83799743652344
+     },
+     {
+      "label": "Brent2 (Dec21) ICE EU - (USD/Barrel)",
+      "name": "Brent2 ICE EU - (USD/Barrel)",
+      "period": "(Dec21)",
+      "values": {
+       "% 4-weekly": 11.75,
+       "Actual last": 78.08,
+       "% weekly": 2.19
+      },
+      "raw": {
+       "% 4-weekly": "11,75%",
+       "Actual last": "$78,08",
+       "% weekly": "2,19%"
+      },
+      "page": 1,
+      "y": 208.95799255371094
+     },
+     {
+      "label": "Gas Oil3 (Dec21) ICE EU - (USD/MT)",
+      "name": "Gas Oil3 ICE EU - (USD/MT)",
+      "period": "(Dec21)",
+      "values": {
+       "% 4-weekly": 8.5,
+       "Actual last": 670.44,
+       "% weekly": 0.07
+      },
+      "raw": {
+       "% 4-weekly": "8,50%",
+       "Actual last": "$670,44",
+       "% weekly": "0,07%"
+      },
+      "page": 1,
+      "y": 224.19801330566406
+     },
+     {
+      "label": "RBOB Gasoline4 (Dec21) NYMEX - (USD/USGallon)",
+      "name": "RBOB Gasoline4 NYMEX - (USD/USGallon)",
+      "period": "(Dec21)",
+      "values": {
+       "% 4-weekly": 14.28,
+       "Actual last": 2.24,
+       "% weekly": 1.76
+      },
+      "raw": {
+       "% 4-weekly": "14,28%",
+       "Actual last": "$2,24",
+       "% weekly": "1,76%"
+      },
+      "page": 1,
+      "y": 239.31800842285156
+     },
+     {
+      "label": "Natural Gas5 (Dec21) NYMEX - (USD/1mioBTU)",
+      "name": "Natural Gas5 NYMEX - (USD/1mioBTU)",
+      "period": "(Dec21)",
+      "values": {
+       "Actual last": 3.73,
+       "% weekly": 0.28,
+       "% 4-weekly": -9.23
+      },
+      "raw": {
+       "Actual last": "$3,73",
+       "% weekly": "0,28%",
+       "% 4-weekly": "-9,23%"
+      },
+      "page": 1,
+      "y": 256.6100158691406
+     },
+     {
+      "label": "Wheat6 (Dec21) CBOT - (USDCents/Bushel)",
+      "name": "Wheat6 CBOT - (USDCents/Bushel)",
+      "period": "(Dec21)",
+      "values": {
+       "Actual last": 768.76,
+       "% weekly": -5.02,
+       "% 4-weekly": -3.41
+      },
+      "raw": {
+       "Actual last": "$768,76",
+       "% weekly": "-5,02%",
+       "% 4-weekly": "-3,41%"
+      },
+      "page": 1,
+      "y": 274.6100158691406
+     },
+     {
+      "label": "Corn7 (Dec21) CBOT - (USD/Bushel)",
+      "name": "Corn7 CBOT - (USD/Bushel)",
+      "period": "(Dec21)",
+      "values": {
+       "Actual last": 592.58,
+       "% weekly": -2.14,
+       "% 4-weekly": 1.53
+      },
+      "raw": {
+       "Actual last": "$592,58",
+       "% weekly": "-2,14%",
+       "% 4-weekly": "1,53%"
+      },
+      "page": 1,
+      "y": 289.8699951171875
+     },
+     {
+      "label": "Rice (rough)8 (Dec21) CBOT - (USD/Hundredweight)",
+      "name": "Rice (rough)8 CBOT - (USD/Hundredweight)",
+      "period": "(Dec21)",
+      "values": {
+       "Actual last": 14.6,
+       "% weekly": 3.24,
+       "% 4-weekly": 3.94
+      },
+      "raw": {
+       "Actual last": "$14,60",
+       "% weekly": "3,24%",
+       "% 4-weekly": "3,94%"
+      },
+      "page": 1,
+      "y": 304.9900207519531
+     },
+     {
+      "label": "Soybeans9 (Dec21) CBOT - (USDCents/Bushel)",
+      "name": "Soybeans9 CBOT - (USDCents/Bushel)",
+      "period": "(Dec21)",
+      "values": {
+       "% 4-weekly": 5.4,
+       "Actual last": 1328.83,
+       "% weekly": -1.82
+      },
+      "raw": {
+       "% 4-weekly": "5,40%",
+       "Actual last": "$1.328,83",
+       "% weekly": "-1,82%"
+      },
+      "page": 1,
+      "y": 318.1780090332031
+     },
+     {
+      "label": "Soybean Meal10 (Dec21) CBOT - (USD/Shortton)",
+      "name": "Soybean Meal10 CBOT - (USD/Shortton)",
+      "period": "(Dec21)",
+      "values": {
+       "% 4-weekly": 12.54,
+       "Actual last": 411.78,
+       "% weekly": 1.05
+      },
+      "raw": {
+       "% 4-weekly": "12,54%",
+       "Actual last": "$411,78",
+       "% weekly": "1,05%"
+      },
+      "page": 1,
+      "y": 333.4179992675781
+     },
+     {
+      "label": "Sugar #1111 (Dec21) ICE US - (USD/Pound)",
+      "name": "Sugar #1111 ICE US - (USD/Pound)",
+      "period": "(Dec21)",
+      "values": {
+       "% weekly": -1.9,
+       "Actual last": 18.85,
+       "% 4-weekly": 0.3
+      },
+      "raw": {
+       "% weekly": "-1,90%",
+       "Actual last": "$18,85",
+       "% 4-weekly": "0,30%"
+      },
+      "page": 1,
+      "y": 348.8980407714844
+     },
+     {
+      "label": "Gold12 (Dec21) ( ) COMEX - (USD/Troyounce)",
+      "name": "Gold12 ( ) COMEX - (USD/Troyounce)",
+      "period": "(Dec21)",
+      "values": {
+       "% weekly": 0.96,
+       "% 4-weekly": 2.54,
+       "Actual last": 1826.76
+      },
+      "raw": {
+       "% weekly": "0,96%",
+       "% 4-weekly": "2,54%",
+       "Actual last": "$1.826,76"
+      },
+      "page": 1,
+      "y": 367.6180114746094
+     },
+     {
+      "label": "Silver13 (Dec21) COMEX - (USD/Troyounce)",
+      "name": "Silver13 COMEX - (USD/Troyounce)",
+      "period": "(Dec21)",
+      "values": {
+       "Actual last": 23.36,
+       "% weekly": 1.97,
+       "% 4-weekly": 4.22
+      },
+      "raw": {
+       "Actual last": "$23,36",
+       "% weekly": "1,97%",
+       "% 4-weekly": "4,22%"
+      },
+      "page": 1,
+      "y": 385.27001953125
+     },
+     {
+      "label": "Copper14 (3Months) LME - (USD/MT)",
+      "name": "Copper14 (3Months) LME - (USD/MT)",
+      "period": null,
+      "values": {
+       "Actual last": 9691.0,
+       "% weekly": 1.15,
+       "% 4-weekly": 1.89
+      },
+      "raw": {
+       "Actual last": "$9.691,00",
+       "% weekly": "1,15%",
+       "% 4-weekly": "1,89%"
+      },
+      "page": 1,
+      "y": 400.3900146484375
+     },
+     {
+      "label": "Aluminium15 (3Months) LME -(USD/MT)",
+      "name": "Aluminium15 (3Months) LME -(USD/MT)",
+      "period": null,
+      "values": {
+       "% 4-weekly": 7.51,
+       "Actual last": 2818.45,
+       "% weekly": -0.65
+      },
+      "raw": {
+       "% 4-weekly": "7,51%",
+       "Actual last": "$2.818,45",
+       "% weekly": "-0,65%"
+      },
+      "page": 1,
+      "y": 413.4880065917969
+     }
+    ]
+   },
+   "EXCHANGE RATE": {
+    "columns": [
+     "Actual last",
+     "% weekly",
+     "% 4-weekly"
+    ],
+    "rows": [
+     {
+      "label": "EUR / USD",
+      "name": "EUR / USD",
+      "period": null,
+      "values": {
+       "% 4-weekly": 0.31,
+       "Actual last": 1.1326,
+       "% weekly": 0.08
+      },
+      "raw": {
+       "% 4-weekly": "0,31%",
+       "Actual last": "1,1326",
+       "% weekly": "0,08%"
+      },
+      "page": 1,
+      "y": 462.1000061035156
+     },
+     {
+      "label": "USD / INR",
+      "name": "USD / INR",
+      "period": null,
+      "values": {
+       "% 4-weekly": -1.04,
+       "Actual last": 74.4383,
+       "% weekly": -0.64
+      },
+      "raw": {
+       "% 4-weekly": "-1,04%",
+       "Actual last": "74,4383",
+       "% weekly": "-0,64%"
+      },
+      "page": 1,
+      "y": 477.58001708984375
+     }
+    ]
+   }
+  },
+  "2": {
+   "EXCHANGE RATE": {
+    "columns": [
+     "Actual last",
+     "% weekly",
+     "% 4-weekly"
+    ],
+    "rows": [
+     {
+      "label": "Notesatthelastpage USD / TRY",
+      "name": "Notesatthelastpage USD / TRY",
+      "period": null,
+      "values": {
+       "% weekly": 10.66,
+       "% 4-weekly": -5.14,
+       "Actual last": 13.0009
+      },
+      "raw": {
+       "% weekly": "10,66%",
+       "% 4-weekly": "-5,14%",
+       "Actual last": "13,0009"
+      },
+      "page": 2,
+      "y": 111.00801086425781
+     }
+    ]
+   },
+   "USD LIBOR": {
+    "columns": [
+     "Actual last",
+     "% weekly",
+     "% 4-weekly"
+    ],
+    "rows": [
+     {
+      "label": "12 months",
+      "name": "12 months",
+      "period": null,
+      "values": {
+       "% 4-weekly": 26.36,
+       "Actual last": 0.58313,
+       "% weekly": 2.82
+      },
+      "raw": {
+       "% 4-weekly": "26,36%",
+       "Actual last": "0,58313",
+       "% weekly": "2,82%"
+      },
+      "page": 2,
+      "y": 140.89999389648438
+     }
+    ]
+   },
+   "STOCK MARKETS": {
+    "columns": [
+     "Actual last",
+     "% weekly",
+     "% 4-weekly"
+    ],
+    "rows": [
+     {
+      "label": "USA S&P 500",
+      "name": "USA S&P 500",
+      "period": null,
+      "values": {
+       "Actual last": 4765.0,
+       "% weekly": 0.9,
+       "% 4-weekly": 4.67
+      },
+      "raw": {
+       "Actual last": "4.765",
+       "% weekly": "0,90%",
+       "% 4-weekly": "4,67%"
+      },
+      "page": 2,
+      "y": 198.41000366210938
+     },
+     {
+      "label": "USA NASDAQ-100",
+      "name": "USA NASDAQ-100",
+      "period": null,
+      "values": {
+       "Actual last": 16320.0,
+       "% weekly": 0.07,
+       "% 4-weekly": 3.87
+      },
+      "raw": {
+       "Actual last": "16.320",
+       "% weekly": "0,07%",
+       "% 4-weekly": "3,87%"
+      },
+      "page": 2,
+      "y": 214.61001586914062
+     },
+     {
+      "label": "Brazil IBOVESPA",
+      "name": "Brazil IBOVESPA",
+      "period": null,
+      "values": {
+       "Actual last": 104435.0,
+       "% weekly": -0.65,
+       "% 4-weekly": -0.6
+      },
+      "raw": {
+       "Actual last": "104.435",
+       "% weekly": "-0,65%",
+       "% 4-weekly": "-0,60%"
+      },
+      "page": 2,
+      "y": 229.73001098632812
+     },
+     {
+      "label": "Russia RTSI INDEX",
+      "name": "Russia RTSI INDEX",
+      "period": null,
+      "values": {
+       "Actual last": 1597.0,
+       "% weekly": 0.5,
+       "% 4-weekly": -4.19
+      },
+      "raw": {
+       "Actual last": "1.597",
+       "% weekly": "0,50%",
+       "% 4-weekly": "-4,19%"
+      },
+      "page": 2,
+      "y": 244.85000610351562
+     },
+     {
+      "label": "India S&P BSE SENSEX",
+      "name": "India S&P BSE SENSEX",
+      "period": null,
+      "values": {
+       "Actual last": 58254.0,
+       "% weekly": 1.98,
+       "% 4-weekly": 0.97
+      },
+      "raw": {
+       "Actual last": "58.254",
+       "% weekly": "1,98%",
+       "% 4-weekly": "0,97%"
+      },
+      "page": 2,
+      "y": 261.1700134277344
+     },
+     {
+      "label": "China CSI 300 INDEX",
+      "name": "China CSI 300 INDEX",
+      "period": null,
+      "values": {
+       "% 4-weekly": 0.87,
+       "Actual last": 4937.0,
+       "% weekly": 0.2
+      },
+      "raw": {
+       "% 4-weekly": "0,87%",
+       "Actual last": "4.937",
+       "% weekly": "0,20%"
+      },
+      "page": 2,
+      "y": 277.3699951171875
+     },
+     {
+      "label": "S.Africa FTSE/JSE Africa All Share Index",
+      "name": "S.Africa FTSE/JSE Africa All Share Index",
+      "period": null,
+      "values": {
+       "% weekly": 9.49,
+       "Actual last": 73737.0,
+       "% 4-weekly": 4.14
+      },
+      "raw": {
+       "% weekly": "9,49%",
+       "Actual last": "73.737",
+       "% 4-weekly": "4,14%"
+      },
+      "page": 2,
+      "y": 292.7380065917969
+     },
+     {
+      "label": "Greece ATHENS INDEX COMPOS",
+      "name": "Greece ATHENS INDEX COMPOS",
+      "period": null,
+      "values": {
+       "Actual last": 895.0,
+       "% weekly": 0.96,
+       "% 4-weekly": 1.94
+      },
+      "raw": {
+       "Actual last": "895",
+       "% weekly": "0,96%",
+       "% 4-weekly": "1,94%"
+      },
+      "page": 2,
+      "y": 309.6700134277344
+     }
+    ]
+   },
+   "10-YEAR BOND": {
+    "columns": [
+     "Actual last",
+     "% weekly",
+     "% 4-weekly"
+    ],
+    "rows": [
+     {
+      "label": "USA",
+      "name": "USA",
+      "period": null,
+      "values": {
+       "% 4-weekly": 11.5,
+       "Actual last": 1.51,
+       "% weekly": 1.27
+      },
+      "raw": {
+       "% 4-weekly": "11,50%",
+       "Actual last": "1,51%",
+       "% weekly": "1,27%"
+      },
+      "page": 2,
+      "y": 195.1580047607422
+     },
+     {
+      "label": "Brazil",
+      "name": "Brazil",
+      "period": null,
+      "values": {
+       "Actual last": 10.31,
+       "% weekly": -3.01,
+       "% 4-weekly": -6.82
+      },
+      "raw": {
+       "Actual last": "10,31%",
+       "% weekly": "-3,01%",
+       "% 4-weekly": "-6,82%"
+      },
+      "page": 2,
+      "y": 212.55799865722656
+     },
+     {
+      "label": "Russia",
+      "name": "Russia",
+      "period": null,
+      "values": {
+       "Actual last": 8.42,
+       "% weekly": -0.24,
+       "% 4-weekly": 0.0
+      },
+      "raw": {
+       "Actual last": "8,42%",
+       "% weekly": "-0,24%",
+       "% 4-weekly": "0,00%"
+      },
+      "page": 2,
+      "y": 227.67799377441406
+     },
+     {
+      "label": "India",
+      "name": "India",
+      "period": null,
+      "values": {
+       "Actual last": 6.45,
+       "% weekly": -0.12,
+       "% 4-weekly": 1.33
+      },
+      "raw": {
+       "Actual last": "6,45%",
+       "% weekly": "-0,12%",
+       "% 4-weekly": "1,33%"
+      },
+      "page": 2,
+      "y": 242.7980194091797
+     },
+     {
+      "label": "China",
+      "name": "China",
+      "period": null,
+      "values": {
+       "Actual last": 2.78,
+       "% weekly": -1.76,
+       "% 4-weekly": -4.36
+      },
+      "raw": {
+       "Actual last": "2,78%",
+       "% weekly": "-1,76%",
+       "% 4-weekly": "-4,36%"
+      },
+      "page": 2,
+      "y": 260.0899963378906
+     },
+     {
+      "label": "S.Africa",
+      "name": "S.Africa",
+      "period": null,
+      "values": {
+       "Actual last": 9.35,
+       "% weekly": 0.65,
+       "% 4-weekly": -2.6
+      },
+      "raw": {
+       "Actual last": "9,35%",
+       "% weekly": "0,65%",
+       "% 4-weekly": "-2,60%"
+      },
+      "page": 2,
+      "y": 275.3180236816406
+     },
+     {
+      "label": "Greece",
+      "name": "Greece",
+      "period": null,
+      "values": {
+       "Actual last": 1.31,
+       "% weekly": -2.23,
+       "% 4-weekly": 7.35
+      },
+      "raw": {
+       "Actual last": "1,31%",
+       "% weekly": "-2,23%",
+       "% 4-weekly": "7,35%"
+      },
+      "page": 2,
+      "y": 294.7900085449219
+     }
+    ]
+   },
+   "BUNKERS": {
+    "columns": [
+     "IFO380",
+     "VLSFO",
+     "MGO"
+    ],
+    "rows": [
+     {
+      "label": "Fujairah",
+      "name": "Fujairah",
+      "period": null,
+      "values": {
+       "IFO380": 472.0,
+       "VLSFO": 632.0,
+       "MGO": 772.0
+      },
+      "raw": {
+       "IFO380": "472",
+       "VLSFO": "632",
+       "MGO": "772"
+      },
+      "page": 2,
+      "y": 403.989990234375
+     },
+     {
+      "label": "Houston",
+      "name": "Houston",
+      "period": null,
+      "values": {
+       "IFO380": 448.0,
+       "VLSFO": 587.0,
+       "MGO": 725.0
+      },
+      "raw": {
+       "IFO380": "448",
+       "VLSFO": "587",
+       "MGO": "725"
+      },
+      "page": 2,
+      "y": 419.1400146484375
+     },
+     {
+      "label": "Rotterdam",
+      "name": "Rotterdam",
+      "period": null,
+      "values": {
+       "IFO380": 447.0,
+       "VLSFO": 571.0,
+       "MGO": 682.0
+      },
+      "raw": {
+       "IFO380": "447",
+       "VLSFO": "571",
+       "MGO": "682"
+      },
+      "page": 2,
+      "y": 434.3800048828125
+     },
+     {
+      "label": "Singapore",
+      "name": "Singapore",
+      "period": null,
+      "values": {
+       "IFO380": 462.0,
+       "VLSFO": 649.0,
+       "MGO": 679.0
+      },
+      "raw": {
+       "IFO380": "462",
+       "VLSFO": "649",
+       "MGO": "679"
+      },
+      "page": 2,
+      "y": 451.05999755859375
+     }
+    ]
+   },
+   "BALTIC EXCHANGE": {
+    "columns": [
+     "Actual last",
+     "% weekly",
+     "% 4-weekly"
+    ],
+    "rows": [],
+    "empty": true
+   }
+  },
+  "3": {},
+  "4": {}
+ }
+}

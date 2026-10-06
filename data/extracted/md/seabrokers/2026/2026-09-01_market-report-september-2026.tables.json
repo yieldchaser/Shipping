@@ -1,0 +1,1155 @@
+{
+  "title": "Seabreeze Monthly Offshore Market Report - September 2026",
+  "issue_date": "2026-09-01",
+  "year": 2026,
+  "month": 9,
+  "source_file": "corpus/05-seabrokers/pdfs/2026-09-01_market-report-september-2026.pdf",
+  "tables_count": 12,
+  "tables": [
+    {
+      "title": "SEPTEMBER 2026 - DAILY NORTH SEA OSV AVAILABILITY",
+      "columns": [
+        "Date",
+        "PSV 2026",
+        "PSV 2025",
+        "AHTS 2026",
+        "AHTS 2025"
+      ],
+      "row_count": 30,
+      "rows": [
+        {
+          "Date": "1",
+          "PSV 2026": "2",
+          "PSV 2025": "10",
+          "AHTS 2026": "9",
+          "AHTS 2025": "17"
+        },
+        {
+          "Date": "2",
+          "PSV 2026": "4",
+          "PSV 2025": "14",
+          "AHTS 2026": "9",
+          "AHTS 2025": "12"
+        },
+        {
+          "Date": "3",
+          "PSV 2026": "3",
+          "PSV 2025": "10",
+          "AHTS 2026": "8",
+          "AHTS 2025": "11"
+        },
+        {
+          "Date": "4",
+          "PSV 2026": "3",
+          "PSV 2025": "9",
+          "AHTS 2026": "8",
+          "AHTS 2025": "10"
+        },
+        {
+          "Date": "5",
+          "PSV 2026": "3",
+          "PSV 2025": "8",
+          "AHTS 2026": "8",
+          "AHTS 2025": "8"
+        },
+        {
+          "Date": "6",
+          "PSV 2026": "4",
+          "PSV 2025": "7",
+          "AHTS 2026": "7",
+          "AHTS 2025": "8"
+        },
+        {
+          "Date": "7",
+          "PSV 2026": "4",
+          "PSV 2025": "10",
+          "AHTS 2026": "10",
+          "AHTS 2025": "8"
+        },
+        {
+          "Date": "8",
+          "PSV 2026": "4",
+          "PSV 2025": "8",
+          "AHTS 2026": "7",
+          "AHTS 2025": "8"
+        },
+        {
+          "Date": "9",
+          "PSV 2026": "2",
+          "PSV 2025": "3",
+          "AHTS 2026": "7",
+          "AHTS 2025": "8"
+        },
+        {
+          "Date": "10",
+          "PSV 2026": "2",
+          "PSV 2025": "3",
+          "AHTS 2026": "8",
+          "AHTS 2025": "8"
+        },
+        {
+          "Date": "11",
+          "PSV 2026": "4",
+          "PSV 2025": "11",
+          "AHTS 2026": "8",
+          "AHTS 2025": "11"
+        },
+        {
+          "Date": "12",
+          "PSV 2026": "4",
+          "PSV 2025": "5",
+          "AHTS 2026": "8",
+          "AHTS 2025": "9"
+        },
+        {
+          "Date": "13",
+          "PSV 2026": "6",
+          "PSV 2025": "4",
+          "AHTS 2026": "7",
+          "AHTS 2025": "8"
+        },
+        {
+          "Date": "14",
+          "PSV 2026": "6",
+          "PSV 2025": "4",
+          "AHTS 2026": "7",
+          "AHTS 2025": "8"
+        },
+        {
+          "Date": "15",
+          "PSV 2026": "2",
+          "PSV 2025": "6",
+          "AHTS 2026": "7",
+          "AHTS 2025": "8"
+        },
+        {
+          "Date": "16",
+          "PSV 2026": "2",
+          "PSV 2025": "5",
+          "AHTS 2026": "8",
+          "AHTS 2025": "8"
+        },
+        {
+          "Date": "17",
+          "PSV 2026": "2",
+          "PSV 2025": "6",
+          "AHTS 2026": "8",
+          "AHTS 2025": "8"
+        },
+        {
+          "Date": "18",
+          "PSV 2026": "2",
+          "PSV 2025": "5",
+          "AHTS 2026": "17",
+          "AHTS 2025": "8"
+        },
+        {
+          "Date": "19",
+          "PSV 2026": "2",
+          "PSV 2025": "5",
+          "AHTS 2026": "14",
+          "AHTS 2025": "8"
+        },
+        {
+          "Date": "20",
+          "PSV 2026": "2",
+          "PSV 2025": "4",
+          "AHTS 2026": "12",
+          "AHTS 2025": "8"
+        },
+        {
+          "Date": "21",
+          "PSV 2026": "2",
+          "PSV 2025": "4",
+          "AHTS 2026": "12",
+          "AHTS 2025": "9"
+        },
+        {
+          "Date": "22",
+          "PSV 2026": "2",
+          "PSV 2025": "7",
+          "AHTS 2026": "12",
+          "AHTS 2025": "9"
+        },
+        {
+          "Date": "23",
+          "PSV 2026": "2",
+          "PSV 2025": "7",
+          "AHTS 2026": "12",
+          "AHTS 2025": "6"
+        },
+        {
+          "Date": "24",
+          "PSV 2026": "0",
+          "PSV 2025": "0",
+          "AHTS 2026": "0",
+          "AHTS 2025": "5"
+        },
+        {
+          "Date": "25",
+          "PSV 2026": "2",
+          "PSV 2025": "2",
+          "AHTS 2026": "6",
+          "AHTS 2025": "6"
+        },
+        {
+          "Date": "26",
+          "PSV 2026": "2",
+          "PSV 2025": "3",
+          "AHTS 2026": "14",
+          "AHTS 2025": "5"
+        },
+        {
+          "Date": "27",
+          "PSV 2026": "3",
+          "PSV 2025": "4",
+          "AHTS 2026": "13",
+          "AHTS 2025": "5"
+        },
+        {
+          "Date": "28",
+          "PSV 2026": "2",
+          "PSV 2025": "11",
+          "AHTS 2026": "15",
+          "AHTS 2025": "6"
+        },
+        {
+          "Date": "29",
+          "PSV 2026": "2",
+          "PSV 2025": "11",
+          "AHTS 2026": "15",
+          "AHTS 2025": "6"
+        },
+        {
+          "Date": "30",
+          "PSV 2026": "5",
+          "PSV 2025": "10",
+          "AHTS 2026": "15",
+          "AHTS 2025": "6"
+        }
+      ]
+    },
+    {
+      "title": "NORTH SEA SPOT AVERAGE UTILISATION SEPTEMBER 2026",
+      "columns": [
+        "TYPE",
+        "SEP 2026",
+        "AUG 2026",
+        "JUL 2026",
+        "JUN 2026",
+        "MAY 2026",
+        "APR 2026"
+      ],
+      "row_count": 4,
+      "rows": [
+        {
+          "TYPE": "MED PSV (<900m\u00b2)",
+          "SEP 2026": "87%",
+          "AUG 2026": "82%",
+          "JUL 2026": "61%",
+          "JUN 2026": "50%",
+          "MAY 2026": "54%",
+          "APR 2026": "85%"
+        },
+        {
+          "TYPE": "LARGE PSV (>900m\u00b2)",
+          "SEP 2026": "79%",
+          "AUG 2026": "79%",
+          "JUL 2026": "62%",
+          "JUN 2026": "65%",
+          "MAY 2026": "68%",
+          "APR 2026": "89%"
+        },
+        {
+          "TYPE": "MED AHTS (<22,000 bhp)",
+          "SEP 2026": "52%",
+          "AUG 2026": "46%",
+          "JUL 2026": "41%",
+          "JUN 2026": "51%",
+          "MAY 2026": "33%",
+          "APR 2026": "56%"
+        },
+        {
+          "TYPE": "LARGE AHTS (>22,000 bhp)",
+          "SEP 2026": "61%",
+          "AUG 2026": "73%",
+          "JUL 2026": "55%",
+          "JUN 2026": "80%",
+          "MAY 2026": "53%",
+          "APR 2026": "63%"
+        }
+      ]
+    },
+    {
+      "title": "NORTH SEA AVERAGE RATES SEPTEMBER 2026",
+      "columns": [
+        "CATEGORY",
+        "AVERAGE RATE SEP 2026",
+        "AVERAGE RATE SEP 2025",
+        "% CHANGE",
+        "MINIMUM",
+        "MAXIMUM"
+      ],
+      "row_count": 4,
+      "rows": [
+        {
+          "CATEGORY": "SUPPLY DUTIES PSVs < 900M\u00b2",
+          "AVERAGE RATE SEP 2026": "\u00a318,250",
+          "AVERAGE RATE SEP 2025": "\u00a36,889",
+          "% CHANGE": "+164.92%",
+          "MINIMUM": "\u00a313,750",
+          "MAXIMUM": "\u00a321,000"
+        },
+        {
+          "CATEGORY": "SUPPLY DUTIES PSVs > 900M\u00b2",
+          "AVERAGE RATE SEP 2026": "\u00a322,275",
+          "AVERAGE RATE SEP 2025": "\u00a311,644",
+          "% CHANGE": "+91.30%",
+          "MINIMUM": "\u00a315,000",
+          "MAXIMUM": "\u00a332,500"
+        },
+        {
+          "CATEGORY": "AHTS DUTIES AHTS < 22,000 BHP",
+          "AVERAGE RATE SEP 2026": "\u00a366,231",
+          "AVERAGE RATE SEP 2025": "\u00a336,468",
+          "% CHANGE": "+81.61%",
+          "MINIMUM": "\u00a330,044",
+          "MAXIMUM": "\u00a3200,000"
+        },
+        {
+          "CATEGORY": "AHTS DUTIES AHTS > 22,000 BHP",
+          "AVERAGE RATE SEP 2026": "\u00a3110,702",
+          "AVERAGE RATE SEP 2025": "\u00a337,599",
+          "% CHANGE": "+194.43%",
+          "MINIMUM": "\u00a370,000",
+          "MAXIMUM": "\u00a3145,000"
+        }
+      ]
+    },
+    {
+      "title": "ARRIVALS NORTH SEA SPOT *",
+      "columns": [
+        "VESSEL",
+        "ORIGIN"
+      ],
+      "row_count": 3,
+      "rows": [
+        {
+          "VESSEL": "BEAR",
+          "ORIGIN": "EX NORTH AMERICA"
+        },
+        {
+          "VESSEL": "BOKA FULMAR",
+          "ORIGIN": "EX NORTH AMERICA"
+        },
+        {
+          "VESSEL": "BOULDER",
+          "ORIGIN": "EX MEDITERRANEAN / BLACK SEA"
+        }
+      ]
+    },
+    {
+      "title": "DEPARTURES NORTH SEA SPOT *",
+      "columns": [
+        "VESSEL",
+        "DESTINATION"
+      ],
+      "row_count": 3,
+      "rows": [
+        {
+          "VESSEL": "MH FREEDOM",
+          "DESTINATION": "WEST AFRICA"
+        },
+        {
+          "VESSEL": "PACIFIC DISCOVERY",
+          "DESTINATION": "WEST AFRICA"
+        },
+        {
+          "VESSEL": "SKANDI HERA",
+          "DESTINATION": "WEST AFRICA"
+        }
+      ]
+    },
+    {
+      "title": "North Sea Average Spot Rates",
+      "columns": [
+        "Category",
+        "Month",
+        "2025",
+        "2026"
+      ],
+      "row_count": 24,
+      "rows": [
+        {
+          "Category": "PSVs < 900m\u00b2",
+          "Month": "Jan",
+          "2025": "\u00a35,770",
+          "2026": "\u00a34,243"
+        },
+        {
+          "Category": "PSVs < 900m\u00b2",
+          "Month": "Feb",
+          "2025": "\u00a36,431",
+          "2026": "\u00a39,969"
+        },
+        {
+          "Category": "PSVs < 900m\u00b2",
+          "Month": "Mar",
+          "2025": "\u00a36,568",
+          "2026": "\u00a311,085"
+        },
+        {
+          "Category": "PSVs < 900m\u00b2",
+          "Month": "Apr",
+          "2025": "\u00a312,480",
+          "2026": "\u00a324,570"
+        },
+        {
+          "Category": "PSVs < 900m\u00b2",
+          "Month": "May",
+          "2025": "\u00a321,299",
+          "2026": "\u00a317,049"
+        },
+        {
+          "Category": "PSVs < 900m\u00b2",
+          "Month": "Jun",
+          "2025": "\u00a319,364",
+          "2026": "\u00a314,116"
+        },
+        {
+          "Category": "PSVs < 900m\u00b2",
+          "Month": "Jul",
+          "2025": "\u00a34,280",
+          "2026": "\u00a315,049"
+        },
+        {
+          "Category": "PSVs < 900m\u00b2",
+          "Month": "Aug",
+          "2025": "\u00a34,737",
+          "2026": "\u00a318,000"
+        },
+        {
+          "Category": "PSVs < 900m\u00b2",
+          "Month": "Sep",
+          "2025": "\u00a36,889",
+          "2026": "\u00a318,250"
+        },
+        {
+          "Category": "PSVs < 900m\u00b2",
+          "Month": "Oct",
+          "2025": "\u00a38,202",
+          "2026": "\u00a3-"
+        },
+        {
+          "Category": "PSVs < 900m\u00b2",
+          "Month": "Nov",
+          "2025": "\u00a35,452",
+          "2026": "\u00a3-"
+        },
+        {
+          "Category": "PSVs < 900m\u00b2",
+          "Month": "Dec",
+          "2025": "\u00a35,958",
+          "2026": "\u00a3-"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "Jan",
+          "2025": "\u00a37,034",
+          "2026": "\u00a35,691"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "Feb",
+          "2025": "\u00a38,494",
+          "2026": "\u00a312,221"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "Mar",
+          "2025": "\u00a37,134",
+          "2026": "\u00a313,625"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "Apr",
+          "2025": "\u00a312,893",
+          "2026": "\u00a325,392"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "May",
+          "2025": "\u00a320,952",
+          "2026": "\u00a320,040"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "Jun",
+          "2025": "\u00a323,131",
+          "2026": "\u00a319,970"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "Jul",
+          "2025": "\u00a34,974",
+          "2026": "\u00a315,278"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "Aug",
+          "2025": "\u00a35,925",
+          "2026": "\u00a321,445"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "Sep",
+          "2025": "\u00a311,644",
+          "2026": "\u00a322,275"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "Oct",
+          "2025": "\u00a310,369",
+          "2026": "\u00a3-"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "Nov",
+          "2025": "\u00a37,964",
+          "2026": "\u00a3-"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "Month": "Dec",
+          "2025": "\u00a37,775",
+          "2026": "\u00a3-"
+        }
+      ]
+    },
+    {
+      "title": "North Sea Average Spot Rates",
+      "columns": [
+        "Category",
+        "Month",
+        "2025",
+        "2026"
+      ],
+      "row_count": 24,
+      "rows": [
+        {
+          "Category": "AHTS < 22,000 bhp",
+          "Month": "Jan",
+          "2025": "\u00a328,169",
+          "2026": "\u00a375,902"
+        },
+        {
+          "Category": "AHTS < 22,000 bhp",
+          "Month": "Feb",
+          "2025": "\u00a317,999",
+          "2026": "\u00a395,336"
+        },
+        {
+          "Category": "AHTS < 22,000 bhp",
+          "Month": "Mar",
+          "2025": "\u00a333,856",
+          "2026": "\u00a341,151"
+        },
+        {
+          "Category": "AHTS < 22,000 bhp",
+          "Month": "Apr",
+          "2025": "\u00a376,808",
+          "2026": "\u00a3112,681"
+        },
+        {
+          "Category": "AHTS < 22,000 bhp",
+          "Month": "May",
+          "2025": "\u00a380,618",
+          "2026": "\u00a3106,907"
+        },
+        {
+          "Category": "AHTS < 22,000 bhp",
+          "Month": "Jun",
+          "2025": "\u00a328,768",
+          "2026": "\u00a3170,830"
+        },
+        {
+          "Category": "AHTS < 22,000 bhp",
+          "Month": "Jul",
+          "2025": "\u00a314,697",
+          "2026": "\u00a3117,375"
+        },
+        {
+          "Category": "AHTS < 22,000 bhp",
+          "Month": "Aug",
+          "2025": "\u00a315,899",
+          "2026": "\u00a362,332"
+        },
+        {
+          "Category": "AHTS < 22,000 bhp",
+          "Month": "Sep",
+          "2025": "\u00a336,468",
+          "2026": "\u00a366,231"
+        },
+        {
+          "Category": "AHTS < 22,000 bhp",
+          "Month": "Oct",
+          "2025": "\u00a346,780",
+          "2026": "\u00a3-"
+        },
+        {
+          "Category": "AHTS < 22,000 bhp",
+          "Month": "Nov",
+          "2025": "\u00a358,240",
+          "2026": "\u00a3-"
+        },
+        {
+          "Category": "AHTS < 22,000 bhp",
+          "Month": "Dec",
+          "2025": "\u00a398,808",
+          "2026": "\u00a3-"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "Month": "Jan",
+          "2025": "\u00a328,294",
+          "2026": "\u00a390,283"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "Month": "Feb",
+          "2025": "\u00a326,428",
+          "2026": "\u00a3127,966"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "Month": "Mar",
+          "2025": "\u00a356,798",
+          "2026": "\u00a391,116"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "Month": "Apr",
+          "2025": "\u00a339,962",
+          "2026": "\u00a3117,150"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "Month": "May",
+          "2025": "\u00a391,363",
+          "2026": "\u00a3131,234"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "Month": "Jun",
+          "2025": "\u00a332,138",
+          "2026": "\u00a3155,875"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "Month": "Jul",
+          "2025": "\u00a314,664",
+          "2026": "\u00a3102,188"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "Month": "Aug",
+          "2025": "\u00a316,024",
+          "2026": "\u00a396,015"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "Month": "Sep",
+          "2025": "\u00a337,599",
+          "2026": "\u00a3110,702"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "Month": "Oct",
+          "2025": "\u00a375,462",
+          "2026": "\u00a3-"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "Month": "Nov",
+          "2025": "\u00a380,726",
+          "2026": "\u00a3-"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "Month": "Dec",
+          "2025": "\u00a398,383",
+          "2026": "\u00a3-"
+        }
+      ]
+    },
+    {
+      "title": "North Sea Average Spot Rates",
+      "columns": [
+        "Category",
+        "2025",
+        "2026"
+      ],
+      "row_count": 4,
+      "rows": [
+        {
+          "Category": "PSVs < 900m\u00b2",
+          "2025": "\u00a39,402",
+          "2026": "\u00a313,470"
+        },
+        {
+          "Category": "PSVs > 900m\u00b2",
+          "2025": "\u00a39,828",
+          "2026": "\u00a315,637"
+        },
+        {
+          "Category": "AHTS < 22,000 bhp",
+          "2025": "\u00a339,291",
+          "2026": "\u00a397,562"
+        },
+        {
+          "Category": "AHTS > 22,000 bhp",
+          "2025": "\u00a338,179",
+          "2026": "\u00a3114,945"
+        }
+      ]
+    },
+    {
+      "title": "ACE ARISTOTELIS",
+      "columns": [
+        "Vessel Name:",
+        "ACE Aristotelis"
+      ],
+      "row_count": 19,
+      "rows": [
+        {
+          "Vessel Name:": "Owner:",
+          "ACE Aristotelis": "Capital Offshore"
+        },
+        {
+          "Vessel Name:": "Manager:",
+          "ACE Aristotelis": "UOS Capital"
+        },
+        {
+          "Vessel Name:": "Build Yard:",
+          "ACE Aristotelis": "Fujian Mawei, China"
+        },
+        {
+          "Vessel Name:": "Delivery:",
+          "ACE Aristotelis": "September 2026"
+        },
+        {
+          "Vessel Name:": "Design:",
+          "ACE Aristotelis": "Breeze Z4423 PSV"
+        },
+        {
+          "Vessel Name:": "Designer:",
+          "ACE Aristotelis": "Breeze Ship Design"
+        },
+        {
+          "Vessel Name:": "Length:",
+          "ACE Aristotelis": "88m"
+        },
+        {
+          "Vessel Name:": "Breadth:",
+          "ACE Aristotelis": "20m"
+        },
+        {
+          "Vessel Name:": "Moulded Depth:",
+          "ACE Aristotelis": "8.4m"
+        },
+        {
+          "Vessel Name:": "Design Draught:",
+          "ACE Aristotelis": "5m"
+        },
+        {
+          "Vessel Name:": "Deck Area:",
+          "ACE Aristotelis": "1,000m\u00b2"
+        },
+        {
+          "Vessel Name:": "Deck Cargo:",
+          "ACE Aristotelis": "2,100t"
+        },
+        {
+          "Vessel Name:": "Deadweight:",
+          "ACE Aristotelis": "4,700t"
+        },
+        {
+          "Vessel Name:": "Accommodation:",
+          "ACE Aristotelis": "60 persons"
+        },
+        {
+          "Vessel Name:": "Main Generators:",
+          "ACE Aristotelis": "4 x 1,670ekW"
+        },
+        {
+          "Vessel Name:": "Energy Storage System:",
+          "ACE Aristotelis": "744kWh"
+        },
+        {
+          "Vessel Name:": "Aft Azimuth Thrusters:",
+          "ACE Aristotelis": "2 x 2,400kW"
+        },
+        {
+          "Vessel Name:": "Bow Thrusters:",
+          "ACE Aristotelis": "3 x 900kW"
+        },
+        {
+          "Vessel Name:": "Dynamic Positioning:",
+          "ACE Aristotelis": "Kongsberg K-POS DP-22"
+        }
+      ]
+    },
+    {
+      "title": "ICBC SELLS ONE MORE BOURBON VESSEL AT AUCTION",
+      "columns": [
+        "VESSEL/S",
+        "TYPE",
+        "WINNING BID",
+        "BUYING ENTITY"
+      ],
+      "row_count": 30,
+      "rows": [
+        {
+          "VESSEL/S": "Bourbon Ampan (2012) & Bourbon Morrakot (2009)",
+          "TYPE": "AHTS x 2",
+          "WINNING BID": "USD 8.3 million",
+          "BUYING ENTITY": "Tan Cang Offshore Services"
+        },
+        {
+          "VESSEL/S": "Bourbon Calm (2012)",
+          "TYPE": "PSV",
+          "WINNING BID": "USD 20.24 million",
+          "BUYING ENTITY": "Bourbon"
+        },
+        {
+          "VESSEL/S": "Bourbon Clear (2012)",
+          "TYPE": "PSV",
+          "WINNING BID": "USD 19 million",
+          "BUYING ENTITY": "Bourbon"
+        },
+        {
+          "VESSEL/S": "Bourbon Evolution 801 (2011)",
+          "TYPE": "MPSV / CSV",
+          "WINNING BID": "USD 14.1 million",
+          "BUYING ENTITY": "Singtech Offshore"
+        },
+        {
+          "VESSEL/S": "Bourbon Evolution 803 (2013)",
+          "TYPE": "MPSV / CSV",
+          "WINNING BID": "USD 17 million",
+          "BUYING ENTITY": "Singtech Offshore"
+        },
+        {
+          "VESSEL/S": "Bourbon Evolution 805 (2014)",
+          "TYPE": "MPSV / CSV",
+          "WINNING BID": "USD 46.5 million",
+          "BUYING ENTITY": "ELPI"
+        },
+        {
+          "VESSEL/S": "Bourbon Evolution 806 (2014)",
+          "TYPE": "MPSV / CSV",
+          "WINNING BID": "USD 60.4 million",
+          "BUYING ENTITY": "TBC"
+        },
+        {
+          "VESSEL/S": "Bourbon Evolution 807 (2014)",
+          "TYPE": "MPSV / CSV",
+          "WINNING BID": "USD 35 million",
+          "BUYING ENTITY": "Astro Offshore"
+        },
+        {
+          "VESSEL/S": "Bourbon Evolution 808 (2014)",
+          "TYPE": "MPSV / CSV",
+          "WINNING BID": "USD 52.06 million",
+          "BUYING ENTITY": "Asmaron Service Ltd"
+        },
+        {
+          "VESSEL/S": "Bourbon Explorer 502 (2014)",
+          "TYPE": "PSV",
+          "WINNING BID": "USD 16.7 million",
+          "BUYING ENTITY": "PT Wintermar"
+        },
+        {
+          "VESSEL/S": "Bourbon Front (2012)",
+          "TYPE": "PSV",
+          "WINNING BID": "USD 19 million",
+          "BUYING ENTITY": "Bourbon"
+        },
+        {
+          "VESSEL/S": "Bourbon Gomen (2012)",
+          "TYPE": "AHTS",
+          "WINNING BID": "USD 9.54 million",
+          "BUYING ENTITY": "Britoil Offshore Services"
+        },
+        {
+          "VESSEL/S": "Bourbon Horus (2009)",
+          "TYPE": "PSV",
+          "WINNING BID": "USD 4.41 million",
+          "BUYING ENTITY": "Seahorse Marine & Energy"
+        },
+        {
+          "VESSEL/S": "Bourbon Jindamantee (2010)",
+          "TYPE": "AHTS",
+          "WINNING BID": "USD 5.73 million",
+          "BUYING ENTITY": "Shenzhen Huawei Offshore"
+        },
+        {
+          "VESSEL/S": "Bourbon Kaimook (2012)",
+          "TYPE": "AHTS",
+          "WINNING BID": "USD 8.32 million",
+          "BUYING ENTITY": "Tan Cang Offshore Services"
+        },
+        {
+          "VESSEL/S": "Bourbon Liberty 152 (2013)",
+          "TYPE": "PSV",
+          "WINNING BID": "USD 5 million",
+          "BUYING ENTITY": "TBC"
+        },
+        {
+          "VESSEL/S": "Bourbon Liberty 153 (2013)",
+          "TYPE": "PSV",
+          "WINNING BID": "USD 3.62 million",
+          "BUYING ENTITY": "Seahorse Marine & Energy"
+        },
+        {
+          "VESSEL/S": "Bourbon Liberty 154 (2013)",
+          "TYPE": "PSV",
+          "WINNING BID": "USD 5 million",
+          "BUYING ENTITY": "Alphard Maritime"
+        },
+        {
+          "VESSEL/S": "Bourbon Liberty 157, 162 and 163 (2013-2014)",
+          "TYPE": "PSV x 3",
+          "WINNING BID": "USD 9.7 million",
+          "BUYING ENTITY": "Zhoushan Runbang Shipping"
+        },
+        {
+          "VESSEL/S": "Bourbon Liberty 202 and 203 (2009)",
+          "TYPE": "AHTS x 2",
+          "WINNING BID": "USD 4.86 million",
+          "BUYING ENTITY": "Glory Shipmanagement"
+        },
+        {
+          "VESSEL/S": "Bourbon Liberty 206 (2009)",
+          "TYPE": "AHTS",
+          "WINNING BID": "USD 2.53 million",
+          "BUYING ENTITY": "Excelessel Offshore"
+        },
+        {
+          "VESSEL/S": "Bourbon Liberty 209 (2009)",
+          "TYPE": "AHTS",
+          "WINNING BID": "USD 5.38 million",
+          "BUYING ENTITY": "Wellington Management"
+        },
+        {
+          "VESSEL/S": "Bourbon Liberty 309 (2014)",
+          "TYPE": "AHTS",
+          "WINNING BID": "USD 10.82 million",
+          "BUYING ENTITY": "Elde River Shipping"
+        },
+        {
+          "VESSEL/S": "Bourbon Liberty 311 (2014)",
+          "TYPE": "AHTS",
+          "WINNING BID": "USD 12.6 million",
+          "BUYING ENTITY": "TBC"
+        },
+        {
+          "VESSEL/S": "Bourbon Liberty 318 (2013)",
+          "TYPE": "AHTS",
+          "WINNING BID": "USD 9.62 million",
+          "BUYING ENTITY": "Britoil Offshore Services"
+        },
+        {
+          "VESSEL/S": "Bourbon Liberty 320 (2014)",
+          "TYPE": "AHTS",
+          "WINNING BID": "USD 11.54 million",
+          "BUYING ENTITY": "Elde River Shipping"
+        },
+        {
+          "VESSEL/S": "Bourbon Nilgan (2013)",
+          "TYPE": "AHTS",
+          "WINNING BID": "USD 9.72 million",
+          "BUYING ENTITY": "Britoil Offshore Services"
+        },
+        {
+          "VESSEL/S": "Bourbon Phet (2011)",
+          "TYPE": "AHTS",
+          "WINNING BID": "USD 6.1 million",
+          "BUYING ENTITY": "Britoil Offshore Services"
+        },
+        {
+          "VESSEL/S": "Bourbon Rainbow (2013)",
+          "TYPE": "PSV",
+          "WINNING BID": "USD 23.58 million",
+          "BUYING ENTITY": "Southern Towing Ltd"
+        },
+        {
+          "VESSEL/S": "Bourbon Tong Kam (2009)",
+          "TYPE": "AHTS",
+          "WINNING BID": "USD 5.93 million",
+          "BUYING ENTITY": "PT Wintermar"
+        }
+      ]
+    },
+    {
+      "title": "OIL PRICE VS CONTRACTED RIG UTILISATION",
+      "columns": [
+        "Date",
+        "BRENT USD / Bbl",
+        "Northwest Europe Rig Utilisation",
+        "South America Rig Utilisation",
+        "US Gulf Rig Utilisation"
+      ],
+      "row_count": 13,
+      "rows": [
+        {
+          "Date": "Sep 25",
+          "BRENT USD / Bbl": "*$67.49*",
+          "Northwest Europe Rig Utilisation": "71.4%",
+          "South America Rig Utilisation": "78.5%",
+          "US Gulf Rig Utilisation": "50.5%"
+        },
+        {
+          "Date": "Oct 25",
+          "BRENT USD / Bbl": "*$64.65*",
+          "Northwest Europe Rig Utilisation": "71.7%",
+          "South America Rig Utilisation": "82.0%",
+          "US Gulf Rig Utilisation": "51.6%"
+        },
+        {
+          "Date": "Nov 25",
+          "BRENT USD / Bbl": "*$63.61*",
+          "Northwest Europe Rig Utilisation": "74.6%",
+          "South America Rig Utilisation": "84.3%",
+          "US Gulf Rig Utilisation": "52.6%"
+        },
+        {
+          "Date": "Dec 25",
+          "BRENT USD / Bbl": "*$62.72*",
+          "Northwest Europe Rig Utilisation": "76.2%",
+          "South America Rig Utilisation": "86.2%",
+          "US Gulf Rig Utilisation": "55.1%"
+        },
+        {
+          "Date": "Jan 26",
+          "BRENT USD / Bbl": "*$66.77*",
+          "Northwest Europe Rig Utilisation": "75.0%",
+          "South America Rig Utilisation": "83.6%",
+          "US Gulf Rig Utilisation": "56.1%"
+        },
+        {
+          "Date": "Feb 26",
+          "BRENT USD / Bbl": "*$71.11*",
+          "Northwest Europe Rig Utilisation": "76.9%",
+          "South America Rig Utilisation": "79.5%",
+          "US Gulf Rig Utilisation": "55.0%"
+        },
+        {
+          "Date": "Mar 26",
+          "BRENT USD / Bbl": "$103.69",
+          "Northwest Europe Rig Utilisation": "79.6%",
+          "South America Rig Utilisation": "82.1%",
+          "US Gulf Rig Utilisation": "60.5%"
+        },
+        {
+          "Date": "Apr 26",
+          "BRENT USD / Bbl": "$101.29",
+          "Northwest Europe Rig Utilisation": "80.5%",
+          "South America Rig Utilisation": "86.3%",
+          "US Gulf Rig Utilisation": "60.5%"
+        },
+        {
+          "Date": "May 26",
+          "BRENT USD / Bbl": "$103.26",
+          "Northwest Europe Rig Utilisation": "83.0%",
+          "South America Rig Utilisation": "85.8%",
+          "US Gulf Rig Utilisation": "58.3%"
+        },
+        {
+          "Date": "Jun 26",
+          "BRENT USD / Bbl": "*$84.49*",
+          "Northwest Europe Rig Utilisation": "82.7%",
+          "South America Rig Utilisation": "84.0%",
+          "US Gulf Rig Utilisation": "58.3%"
+        },
+        {
+          "Date": "Jul 26",
+          "BRENT USD / Bbl": "*$84.01*",
+          "Northwest Europe Rig Utilisation": "82.0%",
+          "South America Rig Utilisation": "83.5%",
+          "US Gulf Rig Utilisation": "53.2%"
+        },
+        {
+          "Date": "Aug 26",
+          "BRENT USD / Bbl": "*$87.97*",
+          "Northwest Europe Rig Utilisation": "81.1%",
+          "South America Rig Utilisation": "82.3%",
+          "US Gulf Rig Utilisation": "51.6%"
+        },
+        {
+          "Date": "Sep 26",
+          "BRENT USD / Bbl": "*$101.58*",
+          "Northwest Europe Rig Utilisation": "83.9%",
+          "South America Rig Utilisation": "84.3%",
+          "US Gulf Rig Utilisation": "52.6%"
+        }
+      ]
+    },
+    {
+      "title": "INACTIVE RIGS NORTHWEST EUROPE",
+      "columns": [
+        "NAME",
+        "TYPE",
+        "STATUS"
+      ],
+      "row_count": 9,
+      "rows": [
+        {
+          "NAME": "HERCULES",
+          "TYPE": "SS",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "JORO",
+          "TYPE": "JU",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "NOBLE CLAUS BACHMANN",
+          "TYPE": "SS",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "NOBLE ENDEAVOR",
+          "TYPE": "SS",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "NOBLE INNOVATOR",
+          "TYPE": "JU",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "VALARIS VIKING",
+          "TYPE": "JU",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "WELL-SAFE PROTECTOR",
+          "TYPE": "JU",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "WEST AQUARIUS",
+          "TYPE": "SS",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "WEST PHOENIX",
+          "TYPE": "SS",
+          "STATUS": "COLD STACK"
+        }
+      ]
+    }
+  ]
+}

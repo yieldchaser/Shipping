@@ -1,0 +1,25 @@
+{
+  "issue_date": "2013-11-15",
+  "year": 2013,
+  "title": "An Unsanctioned Iran?",
+  "source_file": "corpus/04-poten/pdfs/2013/Tanker_Opinion_20131115.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 2,
+      "file_name": "poten_2013-11-15_an-unsanctioned-iran_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2013/poten_2013-11-15_an-unsanctioned-iran_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-11-15_an-unsanctioned-iran_chart1.png",
+      "width": 1066,
+      "height": 581
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

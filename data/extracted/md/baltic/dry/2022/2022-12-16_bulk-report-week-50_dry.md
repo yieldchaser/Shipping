@@ -1,0 +1,43 @@
+---
+title: "Bulk Report – Week 50"
+date: "2022-12-16"
+display_date: "16 December 2022"
+year: 2022
+week: 50
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2022/bulk-report-week-50.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 634
+sections_count: 4
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2022/2022-12-16_bulk-report-week-50_dry.html"
+---
+
+# Bulk Report – Week 50
+
+**Date:** 16 December 2022  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2022/bulk-report-week-50.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2022/bulk-report-week-50.html)  
+
+---
+
+### Capesize
+
+The Capesize sector saw a surge, especially in the Atlantic since midweek. More cargo from West Africa came to the market and subsequently pushed the Brazil to Qingdao run to a higher level. However, fixtures were lacking as very limited prompt ballasters could make the loading dates. In the North Atlantic, the transatlantic and fronthaul runs moved sharply higher amid a lack of tonnage in the region. Laycan window and the premium from breaching International Navigating Limits were taken into consideration. Meanwhile, sentiment suggested a year-end push. In the Pacific, the West Australia to Qingdao trade remained fairly active, the route being marked at $8.63 on Friday. Overall the average of the 5 Timecharter routes was priced at $18,312 by the end of proceedings, a week-on-week increase in excess of $4,000.
+
+### Panamax
+
+A continuation of the previous week, with a slow but steady rise in rates in the Atlantic. The North Atlantic again witnessed a tightening of tonnage supply, with fronthaul trades ex US Gulf prevalent. Coupled with a better volume of transatlantic mineral demand, the positive sentiment endured. $20,000 was agreed on an 82,000-dwt delivery Continent for a trip via NCSA redelivery Rotterdam, whilst an 81,000-dwt delivery Rotterdam achieved low $24,000s for a trip via US Gulf redelivery Far East. Asia struggled to get going this week with pressure mounting from the very start as the tonnage count grew. This was pitched against a lacklustre demand book and rates drifted consequently. Despite the gloom in Asia, there was plenty of period discussion and support from the FFA market, with reports of deals concluded proving to be a viable option for some owners. An 82,000-dwt delivery South China agreed $16,000 for about 11/14 months.
+
+### Ultramax/Supramax
+
+A rather patchy week for the sector with some key areas seeing upward momentum and others lacking fresh impetus. In Asia, sentiment was negative throughout the week with little fresh enquiry from both north and south. Tonnage availability grew with owners reducing expectations prior to the upcoming holidays. The Atlantic saw demand increase from the US Gulf sector as tonnage availability become limited for December cancelling. Positive sentiment was seen from the South Atlantic - mainly for fronthaul business. Limited period activity was seen, although a 63,000-dwt open North China was fixed for 10 to 12 months trading at $13,850. From the Atlantic, a 63,000-dwt was fixed delivery US Gulf trip redelivery China at $37,000. Elsewhere, a 56,000-dwt open Oran was fixed for a trip to West Africa at $15,000. In Asia, a 58,000-dwt open North China was fixed for a round voyage via Indonesia at $8,000. Whilst for backhaul cargoes a 63,000-dwt open North China was heard fixed for a trip to West Africa in the low $7,000s.
+
+### Handysize
+
+An inauspicious week punctuated with small flurries of activity in certain regions. East Coast South America came under pressure, especially in North Brazil as more tonnage ballasted from the Western Mediterranean and Continent. A 30,000-dwt was fixed Amazon River to West Coast Mexico at $22,000, whilst a 32,000-dwt was fixed from Itajai via Bahia Blanca to South Brazil at $17,250. The Continent saw a continued lack of requirements, with a 34,000-dwt fixed from Rouen to Morocco with an intended cargo of grains at $8,750. In North China -Japan there has been a small increase in steel requirements and a 38,000-dwt fixed from Qingdao via South Korea to the US East Coast at $12,000. A 36,000-dwt fixed from North China via Japan to South East Asia with a cargo of steels at $8,050.
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  

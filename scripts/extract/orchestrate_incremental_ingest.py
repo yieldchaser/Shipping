@@ -681,13 +681,15 @@ def extract_fearnleys(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
     nb_prices = rfn.extract_newbuilding_prices(doc)
     sp_dry, sp_wet = rfn.extract_secondhand_prices(doc)
 
+    rel_source = str(pdf_path.relative_to(ROOT)).replace("\\", "/")
     stamped_rows = []
     for r in rate_cards:
         row_copy = dict(r)
         row_copy["issue_date"] = iso_date
         row_copy["year"] = year
         row_copy["report_week"] = week_num
-        row_copy["source_file"] = str(pdf_path.relative_to(ROOT)).replace("\\", "/")
+        row_copy["size"] = r.get("vessel_size", "")
+        row_copy["source_file"] = rel_source
         stamped_rows.append(row_copy)
 
     md_lines = [
@@ -699,13 +701,13 @@ def extract_fearnleys(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
         'publisher: "Fearnleys"',
         'category: "market_report"',
         f"pages: {page_count}",
-        f'source_file: "{str(pdf_path.relative_to(ROOT)).replace(chr(92), "/")}"',
+        f'source_file: "{rel_source}"',
         "---",
         "",
         f"# Fearnleys Weekly Market Report (Week {week_num}, {year})",
         "",
         f"**Issue Date:** {iso_date} | **Pages:** {page_count} | **Publisher:** Fearnleys AS  ",
-        f"**Source Document:** `{str(pdf_path.relative_to(ROOT)).replace(chr(92), "/")}`  ",
+        f"**Source Document:** `{rel_source}`  ",
         "",
         "---",
         ""
@@ -840,12 +842,20 @@ def extract_fearnleys(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
         sidecar_payload = {
             "convention": "iso", "publisher": "Fearnleys", "issue_date": iso_date,
             "year": year, "report_week": week_num, "pages": page_count,
-            "source_file": str(pdf_path.relative_to(ROOT)).replace("\\", "/"),
+            "source_file": rel_source,
             "activity_levels": nb_activity, "newbuilding_prices": nb_prices,
             "secondhand_prices": {"dry": sp_dry, "wet": sp_wet}, "rates": stamped_rows
         }
         sidecar_str = json.dumps(sidecar_payload, indent=2, ensure_ascii=False)
         target_tables.write_text(sidecar_str, encoding="utf-8")
+
+        if stamped_rows:
+            upsert_rows_to_csv(
+                SERIES_DIR / "fearnleys_rates_series.csv",
+                stamped_rows,
+                ["issue_date", "report_week", "page", "chapter", "section", "label", "value", "size", "change", "source_file"],
+                ["issue_date", "chapter", "section", "label", "size"]
+            )
 
     return {"stem": stem, "issue_date": iso_date, "report_week": week_num, "rates_count": len(stamped_rows), "target_md": str(target_md)}
 
@@ -1005,6 +1015,36 @@ def process_single_pdf(
                 specialized_result = {"stem": stem, "pub": pub, "issue_date": issue_date, "report_week": wk, "specialized": True}
             else:
                 res = run_intermodal_full.process_single_pdf(pdf_path)
+                tables_path = Path(res.get("tables_path", "")) if res.get("tables_path") else (MD_DIR / "intermodal" / f"{stem}.tables.json")
+                if tables_path.exists():
+                    sc_data = json.loads(tables_path.read_text(encoding="utf-8"))
+                    tbls = sc_data.get("tables", {})
+                    if tbls.get("tanker_spot_rates"):
+                        upsert_rows_to_csv(SERIES_DIR / "intermodal_tanker_spot_series.csv", tbls["tanker_spot_rates"], run_intermodal_full.TANKER_SPOT_COLUMNS, ["issue_date", "vessel_class", "route"])
+                    if tbls.get("tc_rates"):
+                        upsert_rows_to_csv(SERIES_DIR / "intermodal_tc_rates_series.csv", tbls["tc_rates"], run_intermodal_full.TC_RATES_COLUMNS, ["issue_date", "sector", "vessel_class", "tenor"])
+                    if tbls.get("indicative_market_values"):
+                        upsert_rows_to_csv(SERIES_DIR / "intermodal_indicative_values_series.csv", tbls["indicative_market_values"], run_intermodal_full.INDICATIVE_VALUES_COLUMNS, ["issue_date", "sector", "vessel_class", "age_profile"])
+                    if tbls.get("baltic_dry_indices"):
+                        upsert_rows_to_csv(SERIES_DIR / "intermodal_baltic_indices_series.csv", tbls["baltic_dry_indices"], run_intermodal_full.BALTIC_INDICES_COLUMNS, ["issue_date", "index_name"])
+                    if tbls.get("demolition_currencies"):
+                        upsert_rows_to_csv(SERIES_DIR / "intermodal_currencies_series.csv", tbls["demolition_currencies"], run_intermodal_full.CURRENCIES_COLUMNS, ["issue_date", "market_currency"])
+                    if tbls.get("secondhand_sales"):
+                        upsert_rows_to_csv(SERIES_DIR / "intermodal_sales_series.csv", tbls["secondhand_sales"], run_intermodal_full.SALES_COLUMNS, ["issue_date", "vessel_name", "dwt"])
+                    nb_combined = tbls.get("indicative_newbuilding", []) + tbls.get("newbuilding_orders", [])
+                    if nb_combined:
+                        upsert_rows_to_csv(SERIES_DIR / "intermodal_newbuilding_series.csv", nb_combined, run_intermodal_full.NB_COLUMNS, ["issue_date", "record_type", "sector", "vessel_type", "yard", "buyer"])
+                    if tbls.get("indicative_newbuilding"):
+                        upsert_rows_to_csv(SERIES_DIR / "intermodal_newbuilding_prices_series.csv", tbls["indicative_newbuilding"], run_intermodal_full.NB_PRICES_COLUMNS, ["issue_date", "sector", "vessel_type", "size"])
+                    if tbls.get("newbuilding_orders"):
+                        upsert_rows_to_csv(SERIES_DIR / "intermodal_newbuilding_orders_series.csv", tbls["newbuilding_orders"], run_intermodal_full.NB_ORDERS_COLUMNS, ["issue_date", "vessel_type", "yard", "buyer"])
+                    demo_combined = tbls.get("indicative_demolition", []) + tbls.get("demolition_sales", [])
+                    if demo_combined:
+                        upsert_rows_to_csv(SERIES_DIR / "intermodal_demolition_series.csv", demo_combined, run_intermodal_full.DEMO_COLUMNS, ["issue_date", "record_type", "sector", "country", "vessel_name"])
+                    if tbls.get("demolition_sales"):
+                        upsert_rows_to_csv(SERIES_DIR / "intermodal_demo_sales_series.csv", tbls["demolition_sales"], run_intermodal_full.DEMO_SALES_COLUMNS, ["issue_date", "vessel_name", "ldt"])
+                    if tbls.get("indicative_demolition"):
+                        upsert_rows_to_csv(SERIES_DIR / "intermodal_demolition_prices_series.csv", tbls["indicative_demolition"], run_intermodal_full.DEMO_PRICES_COLUMNS, ["issue_date", "sector", "country"])
                 specialized_result = {"stem": stem, "pub": pub, "specialized": True, "target_md": str(res.get("md_path", ""))}
         except Exception as e:
             print(f"  [!] Note: specialized intermodal failed ({e}), falling back to universal pipeline.")
@@ -1026,14 +1066,67 @@ def process_single_pdf(
                 ]
                 pool = extra_accs + rb_llama.ACCOUNTS
                 ok, _, err = rb_llama.parse_single_pdf(pdf_path, pool[0], pool[1:])
+                tables_data_b = None
                 if ok:
-                    rb_llama.build_final_md_and_tables(stem, pdf_path)
+                    tables_data_b = rb_llama.build_final_md_and_tables(stem, pdf_path)
                 root_md = MD_DIR / "banchero_costa" / f"{stem}.md"
                 root_json = MD_DIR / "banchero_costa" / f"{stem}.tables.json"
                 if root_md.exists():
                     shutil.copy2(root_md, target_md_b)
                 if root_json.exists():
                     shutil.copy2(root_json, target_tables_b)
+                    if not tables_data_b:
+                        tables_data_b = json.loads(root_json.read_text(encoding="utf-8"))
+                if tables_data_b:
+                    if tables_data_b.get("reported_sales"):
+                        sales_rows_b = []
+                        for sr in tables_data_b["reported_sales"]:
+                            sales_rows_b.append({
+                                "issue_date": sr.get("issue_date", iss_dt),
+                                "report_week": sr.get("report_week", wk_b),
+                                "vessel_name": sr.get("vessel") or sr.get("vessel_name", ""),
+                                "imo": sr.get("imo", ""),
+                                "vessel_type": sr.get("vessel_type", ""),
+                                "dwt": sr.get("dwt", ""),
+                                "built": sr.get("built", ""),
+                                "yard": sr.get("yard", ""),
+                                "buyers": sr.get("buyer") or sr.get("buyers", ""),
+                                "price_usd_m": sr.get("price_usd_m", ""),
+                                "price_raw": sr.get("price_raw", sr.get("price_usd_m", "")),
+                                "ss": sr.get("ss", ""),
+                                "ss_due": sr.get("ss_due", ""),
+                                "dd_due": sr.get("dd_due", ""),
+                                "delivery": sr.get("delivery", ""),
+                                "comments": sr.get("comments", ""),
+                                "source_file": sr.get("source_file", pdf_path.name)
+                            })
+                        upsert_rows_to_csv(
+                            SERIES_DIR / "bancosta_sales_series.csv",
+                            sales_rows_b,
+                            ["issue_date", "report_week", "vessel_name", "imo", "vessel_type", "dwt", "built", "yard", "buyers", "price_usd_m", "price_raw", "ss", "ss_due", "dd_due", "delivery", "comments", "source_file"],
+                            ["issue_date", "vessel_name", "dwt"]
+                        )
+                    if tables_data_b.get("freight_benchmarks"):
+                        upsert_rows_to_csv(
+                            SERIES_DIR / "bancosta_freight_rates_series.csv",
+                            tables_data_b["freight_benchmarks"],
+                            ["issue_date", "report_week", "sector", "route_or_benchmark", "unit", "rate_current", "rate_previous", "change_wow", "change_yoy", "source_file"],
+                            ["issue_date", "sector", "route_or_benchmark"]
+                        )
+                    if tables_data_b.get("ffa_assessments"):
+                        upsert_rows_to_csv(
+                            SERIES_DIR / "bancosta_ffa_series.csv",
+                            tables_data_b["ffa_assessments"],
+                            ["issue_date", "report_week", "vessel_class", "tenor", "unit", "rate_current", "rate_previous", "change_wow", "premium", "source_file"],
+                            ["issue_date", "vessel_class", "tenor"]
+                        )
+                    if tables_data_b.get("commodity_prices"):
+                        upsert_rows_to_csv(
+                            SERIES_DIR / "bancosta_commodities_series.csv",
+                            tables_data_b["commodity_prices"],
+                            ["issue_date", "report_week", "category", "item", "unit", "price_current", "price_previous", "source_file"],
+                            ["issue_date", "category", "item"]
+                        )
             specialized_result = {"stem": stem, "pub": "banchero_costa", "issue_date": iss_dt, "target_md": str(target_md_b), "specialized": True}
         except Exception as e:
             print(f"  [!] Note: specialized banchero_costa failed ({e}), falling back to universal pipeline.")
@@ -1063,6 +1156,66 @@ def process_single_pdf(
             if not dry_run:
                 target_md_l.write_text(md, encoding="utf-8")
                 target_tables_l.write_text(json.dumps(sidecar, indent=2), encoding="utf-8")
+                rel_src_l = str(pdf_path.relative_to(ROOT)).replace("\\", "/")
+                if doc_data.get("demometer_series"):
+                    upsert_rows_to_csv(
+                        SERIES_DIR / "lion_demometer_series.csv",
+                        doc_data["demometer_series"],
+                        ["issue_date", "report_week", "country", "vessel_type", "price_low", "price_high", "price_point", "trend", "unit"],
+                        ["issue_date", "country", "vessel_type"]
+                    )
+                sh_rows_l = []
+                for d in doc_data.get("secondhand_deals", []):
+                    sh_rows_l.append({
+                        "issue_date": doc_data["issue_date"], "report_week": doc_data["report_week"],
+                        "section": d["section"], "tag": d["tag"], "vessel": d["vessel"], "dwt": d["dwt"],
+                        "built_year": d["built_year"], "yard": d["yard"], "country_built": d["country"],
+                        "class": d["class"], "ss_due": d["ss_due"], "dd_due": d["dd_due"],
+                        "price_usd_m": d["price_usd_m"], "price_raw": d["price_raw"], "en_bloc": d["en_bloc"],
+                        "buyer": d["buyer"], "comments": d["comments"], "source_file": rel_src_l
+                    })
+                if sh_rows_l:
+                    upsert_rows_to_csv(
+                        SERIES_DIR / "lion_sales_series.csv",
+                        sh_rows_l,
+                        ["issue_date", "report_week", "section", "tag", "vessel", "dwt", "built_year", "yard", "country_built", "class", "ss_due", "dd_due", "price_usd_m", "price_raw", "en_bloc", "buyer", "comments", "source_file"],
+                        ["issue_date", "section", "vessel", "dwt"]
+                    )
+                dm_rows_l = []
+                for d in doc_data.get("demo_deals", []):
+                    dm_rows_l.append({
+                        "issue_date": doc_data["issue_date"], "report_week": doc_data["report_week"],
+                        "section": d["section"], "sub_section": d["sub_section"], "tag": d["tag"],
+                        "vessel": d["vessel"], "dwt": d["dwt"], "ldt": d["ldt"], "built_year": d["built_year"],
+                        "yard": d["yard"], "country_built": d["country"], "price_usd_per_lt": d["price_per_lt"],
+                        "price_raw": d["price_raw"], "destination": d["dest_country"], "comments": d["comments"],
+                        "source_file": rel_src_l
+                    })
+                if dm_rows_l:
+                    upsert_rows_to_csv(
+                        SERIES_DIR / "lion_demo_sales_series.csv",
+                        dm_rows_l,
+                        ["issue_date", "report_week", "section", "sub_section", "tag", "vessel", "dwt", "ldt", "built_year", "yard", "country_built", "price_usd_per_lt", "price_raw", "destination", "comments", "source_file"],
+                        ["issue_date", "vessel", "ldt"]
+                    )
+                all_rows_l = []
+                for d in doc_data.get("all_deals", []):
+                    all_rows_l.append({
+                        "issue_date": doc_data["issue_date"], "report_week": doc_data["report_week"],
+                        "section": d["section"], "sub_section": d["sub_section"], "deal_kind": d["deal_kind"],
+                        "tag": d["tag"], "vessel": d["vessel"], "dwt": d["dwt"], "ldt": d["ldt"],
+                        "built_year": d["built_year"], "yard": d["yard"], "country_built": d["country"],
+                        "class": d["class"], "price_usd_m": d["price_usd_m"], "price_per_lt": d["price_per_lt"],
+                        "price_raw": d["price_raw"], "en_bloc": d["en_bloc"], "buyer": d["buyer"],
+                        "destination": d["dest_country"], "comments": d["comments"], "source_file": rel_src_l
+                    })
+                if all_rows_l:
+                    upsert_rows_to_csv(
+                        SERIES_DIR / "lion_deals_series.csv",
+                        all_rows_l,
+                        ["issue_date", "report_week", "section", "sub_section", "deal_kind", "tag", "vessel", "dwt", "ldt", "built_year", "yard", "country_built", "class", "price_usd_m", "price_per_lt", "price_raw", "en_bloc", "buyer", "destination", "comments", "source_file"],
+                        ["issue_date", "deal_kind", "vessel"]
+                    )
             specialized_result = {"stem": stem, "pub": pub, "issue_date": iss_dt, "target_md": str(target_md_l), "specialized": True}
         except Exception as e:
             print(f"  [!] Note: specialized lion failed ({e}), falling back to universal pipeline.")
@@ -1070,9 +1223,70 @@ def process_single_pdf(
         try:
             import run_ssy_complete
             res = run_ssy_complete.process_report(pdf_path)
+            if not dry_run and res:
+                meta_s = res["meta"]
+                tables_s = res["tables"]
+                route_rows_s = []
+                for tr in tables_s.get("trade_rates", []):
+                    route_rows_s.append({
+                        "issue_date": meta_s["issue_date"], "report_week": meta_s["report_week"],
+                        "year": meta_s["year"], "basin": meta_s["basin"], "route": tr["route"],
+                        "cargo_size": tr["cargo_size"], "weight_pct": tr["weight_pct"],
+                        "rates_date_prev": meta_s["rates_date_prev"], "rates_date_curr": meta_s["rates_date_curr"],
+                        "rate_prev": tr["rate_prev"], "rate_curr": tr["rate_curr"],
+                        "change_usd_t": tr["change_usd_t"], "source_file": pdf_path.name
+                    })
+                if route_rows_s:
+                    upsert_rows_to_csv(
+                        SERIES_DIR / "ssy_route_rates_series.csv",
+                        route_rows_s,
+                        ["issue_date", "report_week", "year", "basin", "route", "cargo_size", "weight_pct", "rates_date_prev", "rates_date_curr", "rate_prev", "rate_curr", "change_usd_t", "source_file"],
+                        ["issue_date", "basin", "route"]
+                    )
+                c_idx = tables_s.get("index", {})
+                prev_idx = c_idx.get("previous_index", {})
+                fw_idx = c_idx.get("four_weeks", {})
+                py_idx = c_idx.get("previous_year", {})
+                ty_idx = c_idx.get("two_years", {})
+                tc_trip_curr, tc_trip_prev, tc_round_curr, tc_round_prev = None, None, None, None
+                for tc in tables_s.get("timecharter_day_rates", []):
+                    rt = tc["route"].upper()
+                    if "TRIP" in rt:
+                        tc_trip_curr, tc_trip_prev = tc["day_rate_curr"], tc["day_rate_prev"]
+                    elif "ROUND" in rt:
+                        tc_round_curr, tc_round_prev = tc["day_rate_curr"], tc["day_rate_prev"]
+                idx_row_s = [{
+                    "issue_date": meta_s["issue_date"], "report_week": meta_s["report_week"],
+                    "year": meta_s["year"], "basin": meta_s["basin"],
+                    "rates_date_prev": meta_s["rates_date_prev"], "rates_date_curr": meta_s["rates_date_curr"],
+                    "calculated_index_prev": c_idx.get("value_prev"), "calculated_index_curr": c_idx.get("value_curr"),
+                    "change_prev_index": prev_idx.get("curr") if isinstance(prev_idx, dict) else prev_idx,
+                    "change_4w": fw_idx.get("curr") if isinstance(fw_idx, dict) else fw_idx,
+                    "change_1y": py_idx.get("curr") if isinstance(py_idx, dict) else py_idx,
+                    "change_2y": ty_idx.get("curr") if isinstance(ty_idx, dict) else ty_idx,
+                    "tc_trip_day_curr": tc_trip_curr, "tc_round_day_curr": tc_round_curr,
+                    "tc_trip_day_prev": tc_trip_prev, "tc_round_day_prev": tc_round_prev,
+                    "source_file": pdf_path.name
+                }]
+                upsert_rows_to_csv(
+                    SERIES_DIR / "ssy_capesize_index_time_series.csv",
+                    idx_row_s,
+                    ["issue_date", "report_week", "year", "basin", "rates_date_prev", "rates_date_curr", "calculated_index_prev", "calculated_index_curr", "change_prev_index", "change_4w", "change_1y", "change_2y", "tc_trip_day_curr", "tc_round_day_curr", "tc_trip_day_prev", "tc_round_day_prev", "source_file"],
+                    ["issue_date", "basin"]
+                )
             specialized_result = {"stem": stem, "pub": pub, "specialized": True}
         except Exception as e:
             print(f"  [!] Note: specialized ssy failed ({e}), falling back to universal pipeline.")
+    elif pub == "fearnleys-md":
+        try:
+            import run_fearnleys_md_full_power
+            import export_fearnleys_md_excel
+            if not dry_run:
+                run_fearnleys_md_full_power.main()
+                export_fearnleys_md_excel.main()
+            specialized_result = {"stem": stem, "pub": pub, "specialized": True}
+        except Exception as e:
+            print(f"  [!] Note: specialized fearnleys-md failed ({e}), falling back to universal pipeline.")
     elif pub in ("drewry", "ais") or "drewry" in str(pdf_path).lower():
         try:
             if "ais" in str(pdf_path).lower():

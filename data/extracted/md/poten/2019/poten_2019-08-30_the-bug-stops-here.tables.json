@@ -1,0 +1,25 @@
+{
+  "issue_date": "2019-08-30",
+  "year": 2019,
+  "title": "The Bug Stops Here",
+  "source_file": "corpus/04-poten/pdfs/2019/Weekly-Opinion-30-August-2019-The-Bug-Stops-Here.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2019-08-30_the-bug-stops-here_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2019/poten_2019-08-30_the-bug-stops-here_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-08-30_the-bug-stops-here_chart1.png",
+      "width": 1213,
+      "height": 586
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

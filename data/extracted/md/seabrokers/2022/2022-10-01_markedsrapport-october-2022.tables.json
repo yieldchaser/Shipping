@@ -1,0 +1,961 @@
+{
+  "title": "Seabreeze Monthly Offshore Market Report - October 2022",
+  "issue_date": "2022-10-01",
+  "year": 2022,
+  "month": 10,
+  "source_file": "corpus/05-seabrokers/pdfs/2022-10-01_markedsrapport-october-2022.pdf",
+  "tables_count": 9,
+  "tables": [
+    {
+      "title": "OCTOBER 2022 - DAILY NORTH SEA OSV AVAILABILITY",
+      "columns": [
+        "Date",
+        "PSV 2022",
+        "PSV 2021",
+        "AHTS 2022",
+        "AHTS 2021"
+      ],
+      "row_count": 31,
+      "rows": [
+        {
+          "Date": "1",
+          "PSV 2022": "11",
+          "PSV 2021": "4",
+          "AHTS 2022": "14",
+          "AHTS 2021": "9"
+        },
+        {
+          "Date": "2",
+          "PSV 2022": "10",
+          "PSV 2021": "4",
+          "AHTS 2022": "13",
+          "AHTS 2021": "8"
+        },
+        {
+          "Date": "3",
+          "PSV 2022": "9",
+          "PSV 2021": "4",
+          "AHTS 2022": "11",
+          "AHTS 2021": "7"
+        },
+        {
+          "Date": "4",
+          "PSV 2022": "8",
+          "PSV 2021": "4",
+          "AHTS 2022": "11",
+          "AHTS 2021": "3"
+        },
+        {
+          "Date": "5",
+          "PSV 2022": "12",
+          "PSV 2021": "4",
+          "AHTS 2022": "10",
+          "AHTS 2021": "3"
+        },
+        {
+          "Date": "6",
+          "PSV 2022": "12.5",
+          "PSV 2021": "5",
+          "AHTS 2022": "9",
+          "AHTS 2021": "3"
+        },
+        {
+          "Date": "7",
+          "PSV 2022": "8",
+          "PSV 2021": "6",
+          "AHTS 2022": "9",
+          "AHTS 2021": "3"
+        },
+        {
+          "Date": "8",
+          "PSV 2022": "7",
+          "PSV 2021": "6",
+          "AHTS 2022": "8",
+          "AHTS 2021": "4"
+        },
+        {
+          "Date": "9",
+          "PSV 2022": "7",
+          "PSV 2021": "5",
+          "AHTS 2022": "5",
+          "AHTS 2021": "5"
+        },
+        {
+          "Date": "10",
+          "PSV 2022": "6",
+          "PSV 2021": "4",
+          "AHTS 2022": "5",
+          "AHTS 2021": "5"
+        },
+        {
+          "Date": "11",
+          "PSV 2022": "6",
+          "PSV 2021": "4",
+          "AHTS 2022": "6",
+          "AHTS 2021": "5"
+        },
+        {
+          "Date": "12",
+          "PSV 2022": "4",
+          "PSV 2021": "3",
+          "AHTS 2022": "9",
+          "AHTS 2021": "6"
+        },
+        {
+          "Date": "13",
+          "PSV 2022": "5",
+          "PSV 2021": "5",
+          "AHTS 2022": "12",
+          "AHTS 2021": "12"
+        },
+        {
+          "Date": "14",
+          "PSV 2022": "8",
+          "PSV 2021": "5",
+          "AHTS 2022": "17",
+          "AHTS 2021": "10"
+        },
+        {
+          "Date": "15",
+          "PSV 2022": "9",
+          "PSV 2021": "1",
+          "AHTS 2022": "16",
+          "AHTS 2021": "10"
+        },
+        {
+          "Date": "16",
+          "PSV 2022": "10.5",
+          "PSV 2021": "3",
+          "AHTS 2022": "11",
+          "AHTS 2021": "10"
+        },
+        {
+          "Date": "17",
+          "PSV 2022": "11",
+          "PSV 2021": "4",
+          "AHTS 2022": "12",
+          "AHTS 2021": "12"
+        },
+        {
+          "Date": "18",
+          "PSV 2022": "10",
+          "PSV 2021": "4",
+          "AHTS 2022": "10",
+          "AHTS 2021": "13"
+        },
+        {
+          "Date": "19",
+          "PSV 2022": "11",
+          "PSV 2021": "5",
+          "AHTS 2022": "10",
+          "AHTS 2021": "14"
+        },
+        {
+          "Date": "20",
+          "PSV 2022": "12",
+          "PSV 2021": "13",
+          "AHTS 2022": "10",
+          "AHTS 2021": "14"
+        },
+        {
+          "Date": "21",
+          "PSV 2022": "13",
+          "PSV 2021": "4",
+          "AHTS 2022": "14",
+          "AHTS 2021": "15"
+        },
+        {
+          "Date": "22",
+          "PSV 2022": "14",
+          "PSV 2021": "4",
+          "AHTS 2022": "15",
+          "AHTS 2021": "15"
+        },
+        {
+          "Date": "23",
+          "PSV 2022": "15",
+          "PSV 2021": "4",
+          "AHTS 2022": "20",
+          "AHTS 2021": "14"
+        },
+        {
+          "Date": "24",
+          "PSV 2022": "18",
+          "PSV 2021": "4",
+          "AHTS 2022": "20.5",
+          "AHTS 2021": "7"
+        },
+        {
+          "Date": "25",
+          "PSV 2022": "18",
+          "PSV 2021": "3",
+          "AHTS 2022": "19",
+          "AHTS 2021": "7"
+        },
+        {
+          "Date": "26",
+          "PSV 2022": "16",
+          "PSV 2021": "3",
+          "AHTS 2022": "19",
+          "AHTS 2021": "9"
+        },
+        {
+          "Date": "27",
+          "PSV 2022": "16",
+          "PSV 2021": "3",
+          "AHTS 2022": "19",
+          "AHTS 2021": "9"
+        },
+        {
+          "Date": "28",
+          "PSV 2022": "16",
+          "PSV 2021": "3",
+          "AHTS 2022": "19",
+          "AHTS 2021": "9"
+        },
+        {
+          "Date": "29",
+          "PSV 2022": "16",
+          "PSV 2021": "2",
+          "AHTS 2022": "19",
+          "AHTS 2021": "9"
+        },
+        {
+          "Date": "30",
+          "PSV 2022": "16",
+          "PSV 2021": "2",
+          "AHTS 2022": "16",
+          "AHTS 2021": "9"
+        },
+        {
+          "Date": "31",
+          "PSV 2022": "16",
+          "PSV 2021": "2",
+          "AHTS 2022": "16",
+          "AHTS 2021": "9"
+        }
+      ]
+    },
+    {
+      "title": "NORTH SEA SPOT AVERAGE UTILISATION OCTOBER 2022",
+      "columns": [
+        "TYPE",
+        "OCT 2022",
+        "SEP 2022",
+        "AUG 2022",
+        "JUL 2022",
+        "JUN 2022",
+        "MAY 2022"
+      ],
+      "row_count": 4,
+      "rows": [
+        {
+          "TYPE": "MED PSV",
+          "OCT 2022": "63%",
+          "SEP 2022": "78%",
+          "AUG 2022": "71%",
+          "JUL 2022": "66%",
+          "JUN 2022": "77%",
+          "MAY 2022": "83%"
+        },
+        {
+          "TYPE": "LARGE PSV",
+          "OCT 2022": "66%",
+          "SEP 2022": "79%",
+          "AUG 2022": "80%",
+          "JUL 2022": "79%",
+          "JUN 2022": "74%",
+          "MAY 2022": "80%"
+        },
+        {
+          "TYPE": "MED AHTS",
+          "OCT 2022": "44%",
+          "SEP 2022": "49%",
+          "AUG 2022": "51%",
+          "JUL 2022": "69%",
+          "JUN 2022": "77%",
+          "MAY 2022": "48%"
+        },
+        {
+          "TYPE": "LARGE AHTS",
+          "OCT 2022": "58%",
+          "SEP 2022": "47%",
+          "AUG 2022": "56%",
+          "JUL 2022": "75%",
+          "JUN 2022": "75%",
+          "MAY 2022": "59%"
+        }
+      ]
+    },
+    {
+      "title": "NORTH SEA AVERAGE RATES OCTOBER 2022",
+      "columns": [
+        "CATEGORY",
+        "AVERAGE RATE OCT 2022",
+        "AVERAGE RATE OCT 2021",
+        "% CHANGE",
+        "MINIMUM",
+        "MAXIMUM"
+      ],
+      "row_count": 4,
+      "rows": [
+        {
+          "CATEGORY": "SUPPLY DUTIES PSVs < 900M\u00b2",
+          "AVERAGE RATE OCT 2022": "\u00a311,277",
+          "AVERAGE RATE OCT 2021": "\u00a312,685",
+          "% CHANGE": "-11.10%",
+          "MINIMUM": "\u00a37,000",
+          "MAXIMUM": "\u00a317,000"
+        },
+        {
+          "CATEGORY": "SUPPLY DUTIES PSVs > 900M\u00b2",
+          "AVERAGE RATE OCT 2022": "\u00a310,248",
+          "AVERAGE RATE OCT 2021": "\u00a312,457",
+          "% CHANGE": "-17.73%",
+          "MINIMUM": "\u00a36,275",
+          "MAXIMUM": "\u00a321,000"
+        },
+        {
+          "CATEGORY": "AHTS DUTIES AHTS < 22,000 BHP",
+          "AVERAGE RATE OCT 2022": "\u00a311,644",
+          "AVERAGE RATE OCT 2021": "\u00a317,816",
+          "% CHANGE": "-34.64%",
+          "MINIMUM": "\u00a38,621",
+          "MAXIMUM": "\u00a315,000"
+        },
+        {
+          "CATEGORY": "AHTS DUTIES AHTS > 22,000 BHP",
+          "AVERAGE RATE OCT 2022": "\u00a316,516",
+          "AVERAGE RATE OCT 2021": "\u00a320,488",
+          "% CHANGE": "-19.39%",
+          "MINIMUM": "\u00a38,367",
+          "MAXIMUM": "\u00a341,837"
+        }
+      ]
+    },
+    {
+      "title": "ARRIVALS - NORTH SEA SPOT",
+      "columns": [
+        "MANTA",
+        "EX MEDITERRANEAN",
+        "ATLANTIC OSPREY",
+        "MEXICO",
+        "NORMAND SIGMA",
+        "WEST AFRICA"
+      ],
+      "row_count": 3,
+      "rows": [
+        {
+          "MANTA": "NORMAND SAPPHIRE",
+          "EX MEDITERRANEAN": "EX NORTH AMERICA",
+          "ATLANTIC OSPREY": "ENERGY EMPRESS",
+          "MEXICO": "CENTRAL AMERICA",
+          "NORMAND SIGMA": "SAR ODIN",
+          "WEST AFRICA": "MEDITERRANEAN"
+        },
+        {
+          "MANTA": "",
+          "EX MEDITERRANEAN": "",
+          "ATLANTIC OSPREY": "HAVILA JUPITER",
+          "MEXICO": "MEDITERRANEAN",
+          "NORMAND SIGMA": "SKANDI HERA",
+          "WEST AFRICA": "WEST AFRICA"
+        },
+        {
+          "MANTA": "",
+          "EX MEDITERRANEAN": "",
+          "ATLANTIC OSPREY": "ISLAND VICTORY",
+          "MEXICO": "MEDITERRANEAN",
+          "NORMAND SIGMA": "SKANDI ICEMAN",
+          "WEST AFRICA": "WEST AFRICA"
+        }
+      ]
+    },
+    {
+      "title": "NORTH SEA AVERAGE SPOT RATES",
+      "columns": [
+        "Category",
+        "Month",
+        "2021",
+        "2022"
+      ],
+      "row_count": 52,
+      "rows": [
+        {
+          "Category": "**PSVs < 900m\u00b2**",
+          "Month": "Jan",
+          "2021": "\u00a36,774",
+          "2022": "\u00a36,684"
+        },
+        {
+          "Category": "",
+          "Month": "Feb",
+          "2021": "\u00a311,012",
+          "2022": "\u00a37,767"
+        },
+        {
+          "Category": "",
+          "Month": "Mar",
+          "2021": "\u00a37,778",
+          "2022": "\u00a311,680"
+        },
+        {
+          "Category": "",
+          "Month": "Apr",
+          "2021": "\u00a37,755",
+          "2022": "\u00a314,547"
+        },
+        {
+          "Category": "",
+          "Month": "May",
+          "2021": "\u00a39,241",
+          "2022": "\u00a319,116"
+        },
+        {
+          "Category": "",
+          "Month": "Jun",
+          "2021": "\u00a310,524",
+          "2022": "\u00a321,665"
+        },
+        {
+          "Category": "",
+          "Month": "Jul",
+          "2021": "\u00a38,750",
+          "2022": "\u00a315,945"
+        },
+        {
+          "Category": "",
+          "Month": "Aug",
+          "2021": "\u00a36,042",
+          "2022": "\u00a310,396"
+        },
+        {
+          "Category": "",
+          "Month": "Sep",
+          "2021": "\u00a37,465",
+          "2022": "\u00a312,764"
+        },
+        {
+          "Category": "",
+          "Month": "Oct",
+          "2021": "\u00a312,685",
+          "2022": "\u00a311,277"
+        },
+        {
+          "Category": "",
+          "Month": "Nov",
+          "2021": "\u00a312,358",
+          "2022": "\u00a3-"
+        },
+        {
+          "Category": "",
+          "Month": "Dec",
+          "2021": "\u00a37,672",
+          "2022": "\u00a3-"
+        },
+        {
+          "Category": "**PSVs > 900m\u00b2**",
+          "Month": "Jan",
+          "2021": "\u00a35,818",
+          "2022": "\u00a36,701"
+        },
+        {
+          "Category": "",
+          "Month": "Feb",
+          "2021": "\u00a39,861",
+          "2022": "\u00a39,978"
+        },
+        {
+          "Category": "",
+          "Month": "Mar",
+          "2021": "\u00a38,360",
+          "2022": "\u00a314,363"
+        },
+        {
+          "Category": "",
+          "Month": "Apr",
+          "2021": "\u00a310,496",
+          "2022": "\u00a315,869"
+        },
+        {
+          "Category": "",
+          "Month": "May",
+          "2021": "\u00a310,872",
+          "2022": "\u00a320,435"
+        },
+        {
+          "Category": "",
+          "Month": "Jun",
+          "2021": "\u00a311,774",
+          "2022": "\u00a321,591"
+        },
+        {
+          "Category": "",
+          "Month": "Jul",
+          "2021": "\u00a39,031",
+          "2022": "\u00a317,142"
+        },
+        {
+          "Category": "",
+          "Month": "Aug",
+          "2021": "\u00a37,270",
+          "2022": "\u00a314,446"
+        },
+        {
+          "Category": "",
+          "Month": "Sep",
+          "2021": "\u00a37,859",
+          "2022": "\u00a312,405"
+        },
+        {
+          "Category": "",
+          "Month": "Oct",
+          "2021": "\u00a312,457",
+          "2022": "\u00a310,248"
+        },
+        {
+          "Category": "",
+          "Month": "Nov",
+          "2021": "\u00a311,806",
+          "2022": "\u00a3-"
+        },
+        {
+          "Category": "",
+          "Month": "Dec",
+          "2021": "\u00a37,352",
+          "2022": "\u00a3-"
+        },
+        {
+          "Category": "**AHTS < 22,000 bhp**",
+          "Month": "Jan",
+          "2021": "\u00a38,656",
+          "2022": "\u00a310,544"
+        },
+        {
+          "Category": "",
+          "Month": "Feb",
+          "2021": "\u00a310,928",
+          "2022": "\u00a322,765"
+        },
+        {
+          "Category": "",
+          "Month": "Mar",
+          "2021": "\u00a327,971",
+          "2022": "\u00a338,879"
+        },
+        {
+          "Category": "",
+          "Month": "Apr",
+          "2021": "\u00a315,068",
+          "2022": "\u00a316,428"
+        },
+        {
+          "Category": "",
+          "Month": "May",
+          "2021": "\u00a312,843",
+          "2022": "\u00a336,865"
+        },
+        {
+          "Category": "",
+          "Month": "Jun",
+          "2021": "\u00a316,287",
+          "2022": "\u00a3122,485"
+        },
+        {
+          "Category": "",
+          "Month": "Jul",
+          "2021": "\u00a325,440",
+          "2022": "\u00a3106,209"
+        },
+        {
+          "Category": "",
+          "Month": "Aug",
+          "2021": "\u00a319,578",
+          "2022": "\u00a324,750"
+        },
+        {
+          "Category": "",
+          "Month": "Sep",
+          "2021": "\u00a339,417",
+          "2022": "\u00a311,717"
+        },
+        {
+          "Category": "",
+          "Month": "Oct",
+          "2021": "\u00a317,816",
+          "2022": "\u00a311,644"
+        },
+        {
+          "Category": "",
+          "Month": "Nov",
+          "2021": "\u00a316,564",
+          "2022": "\u00a3-"
+        },
+        {
+          "Category": "",
+          "Month": "Dec",
+          "2021": "\u00a318,365",
+          "2022": "\u00a3-"
+        },
+        {
+          "Category": "**AHTS > 22,000 bhp**",
+          "Month": "Jan",
+          "2021": "\u00a38,442",
+          "2022": "\u00a313,428"
+        },
+        {
+          "Category": "",
+          "Month": "Feb",
+          "2021": "\u00a320,121",
+          "2022": "\u00a331,605"
+        },
+        {
+          "Category": "",
+          "Month": "Mar",
+          "2021": "\u00a335,211",
+          "2022": "\u00a356,105"
+        },
+        {
+          "Category": "",
+          "Month": "Apr",
+          "2021": "\u00a319,327",
+          "2022": "\u00a324,159"
+        },
+        {
+          "Category": "",
+          "Month": "May",
+          "2021": "\u00a315,401",
+          "2022": "\u00a334,314"
+        },
+        {
+          "Category": "",
+          "Month": "Jun",
+          "2021": "\u00a317,604",
+          "2022": "\u00a3121,231"
+        },
+        {
+          "Category": "",
+          "Month": "Jul",
+          "2021": "\u00a323,149",
+          "2022": "\u00a397,941"
+        },
+        {
+          "Category": "",
+          "Month": "Aug",
+          "2021": "\u00a324,312",
+          "2022": "\u00a319,627"
+        },
+        {
+          "Category": "",
+          "Month": "Sep",
+          "2021": "\u00a330,896",
+          "2022": "\u00a313,877"
+        },
+        {
+          "Category": "",
+          "Month": "Oct",
+          "2021": "\u00a320,488",
+          "2022": "\u00a316,516"
+        },
+        {
+          "Category": "",
+          "Month": "Nov",
+          "2021": "\u00a314,389",
+          "2022": "\u00a3-"
+        },
+        {
+          "Category": "",
+          "Month": "Dec",
+          "2021": "\u00a315,211",
+          "2022": "\u00a3-"
+        },
+        {
+          "Category": "**Average Day Rates To Month (October 2022)**",
+          "Month": "PSVs < 900m\u00b2",
+          "2021": "\u00a38,903",
+          "2022": "\u00a312,804"
+        },
+        {
+          "Category": "",
+          "Month": "PSVs > 900m\u00b2",
+          "2021": "\u00a39,058",
+          "2022": "\u00a313,234"
+        },
+        {
+          "Category": "",
+          "Month": "AHTS < 22,000 bhp",
+          "2021": "\u00a320,230",
+          "2022": "\u00a341,387"
+        },
+        {
+          "Category": "",
+          "Month": "AHTS > 22,000 bhp",
+          "2021": "\u00a322,748",
+          "2022": "\u00a340,833"
+        }
+      ]
+    },
+    {
+      "title": "EDDA BRINT",
+      "columns": [
+        "Design",
+        "Salt 0358"
+      ],
+      "row_count": 6,
+      "rows": [
+        {
+          "Design": "Build Yard",
+          "Salt 0358": "Astilleros Balenciaga"
+        },
+        {
+          "Design": "Built",
+          "Salt 0358": "2022"
+        },
+        {
+          "Design": "Length",
+          "Salt 0358": "82.9m"
+        },
+        {
+          "Design": "Beam",
+          "Salt 0358": "18.6m"
+        },
+        {
+          "Design": "Accommodation",
+          "Salt 0358": "60 persons"
+        },
+        {
+          "Design": "Deck",
+          "Salt 0358": "460m\u00b2 (120m\u00b2 sheltered)"
+        }
+      ]
+    },
+    {
+      "title": "OIL PRICE VS CONTRACTED RIG UTILISATION",
+      "columns": [
+        "Date",
+        "BRENT USD / Bbl",
+        "Northwest Europe Rig Utilisation",
+        "South America Rig Utilisation",
+        "US Gulf Rig Utilisation"
+      ],
+      "row_count": 13,
+      "rows": [
+        {
+          "Date": "Oct 21",
+          "BRENT USD / Bbl": "$83.65",
+          "Northwest Europe Rig Utilisation": "62.7%",
+          "South America Rig Utilisation": "72.3%",
+          "US Gulf Rig Utilisation": "50.6%"
+        },
+        {
+          "Date": "Nov 21",
+          "BRENT USD / Bbl": "$80.77",
+          "Northwest Europe Rig Utilisation": "65.3%",
+          "South America Rig Utilisation": "68.5%",
+          "US Gulf Rig Utilisation": "50.3%"
+        },
+        {
+          "Date": "Dec 21",
+          "BRENT USD / Bbl": "$74.31",
+          "Northwest Europe Rig Utilisation": "65.0%",
+          "South America Rig Utilisation": "66.2%",
+          "US Gulf Rig Utilisation": "52.4%"
+        },
+        {
+          "Date": "Jan 22",
+          "BRENT USD / Bbl": "$85.53",
+          "Northwest Europe Rig Utilisation": "62.4%",
+          "South America Rig Utilisation": "67.5%",
+          "US Gulf Rig Utilisation": "51.8%"
+        },
+        {
+          "Date": "Feb 22",
+          "BRENT USD / Bbl": "$95.76",
+          "Northwest Europe Rig Utilisation": "61.6%",
+          "South America Rig Utilisation": "64.0%",
+          "US Gulf Rig Utilisation": "51.4%"
+        },
+        {
+          "Date": "Mar 22",
+          "BRENT USD / Bbl": "$115.59",
+          "Northwest Europe Rig Utilisation": "65.9%",
+          "South America Rig Utilisation": "66.2%",
+          "US Gulf Rig Utilisation": "54.8%"
+        },
+        {
+          "Date": "Apr 22",
+          "BRENT USD / Bbl": "$105.78",
+          "Northwest Europe Rig Utilisation": "72.3%",
+          "South America Rig Utilisation": "69.8%",
+          "US Gulf Rig Utilisation": "56.7%"
+        },
+        {
+          "Date": "May 22",
+          "BRENT USD / Bbl": "$112.37",
+          "Northwest Europe Rig Utilisation": "71.1%",
+          "South America Rig Utilisation": "68.7%",
+          "US Gulf Rig Utilisation": "56.6%"
+        },
+        {
+          "Date": "Jun 22",
+          "BRENT USD / Bbl": "$120.08",
+          "Northwest Europe Rig Utilisation": "74.3%",
+          "South America Rig Utilisation": "71.3%",
+          "US Gulf Rig Utilisation": "58.3%"
+        },
+        {
+          "Date": "Jul 22",
+          "BRENT USD / Bbl": "$108.92",
+          "Northwest Europe Rig Utilisation": "79.4%",
+          "South America Rig Utilisation": "75.1%",
+          "US Gulf Rig Utilisation": "59.4%"
+        },
+        {
+          "Date": "Aug 22",
+          "BRENT USD / Bbl": "$98.60",
+          "Northwest Europe Rig Utilisation": "76.2%",
+          "South America Rig Utilisation": "75.2%",
+          "US Gulf Rig Utilisation": "56.6%"
+        },
+        {
+          "Date": "Sep 22",
+          "BRENT USD / Bbl": "$90.16",
+          "Northwest Europe Rig Utilisation": "76.2%",
+          "South America Rig Utilisation": "68.1%",
+          "US Gulf Rig Utilisation": "56.5%"
+        },
+        {
+          "Date": "Oct 22",
+          "BRENT USD / Bbl": "$93.05",
+          "Northwest Europe Rig Utilisation": "72.7%",
+          "South America Rig Utilisation": "69.6%",
+          "US Gulf Rig Utilisation": "55.5%"
+        }
+      ]
+    },
+    {
+      "title": "PETROBRAS AWARDING SEVEN CONTRACTS",
+      "columns": [
+        "NAME",
+        "TYPE",
+        "STATUS"
+      ],
+      "row_count": 15,
+      "rows": [
+        {
+          "NAME": "BIDEFORD DOLPHIN",
+          "TYPE": "SS",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "BORGLAND DOLPHIN",
+          "TYPE": "SS",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "COSLPROMOTER",
+          "TYPE": "SS",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "DEEPSEA YANTAI",
+          "TYPE": "SS",
+          "STATUS": "HOT STACK"
+        },
+        {
+          "NAME": "DEEP VALUE DRILLER",
+          "TYPE": "DS",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "MAERSK HIGHLANDER",
+          "TYPE": "JU",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "OCEAN VALIANT",
+          "TYPE": "SS",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "SCARABEO 8",
+          "TYPE": "SS",
+          "STATUS": "HOT STACK"
+        },
+        {
+          "NAME": "STENA SPEY",
+          "TYPE": "SS",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "TRANSOCEAN EQUINOX",
+          "TYPE": "SS",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "TRANSOCEAN LEADER",
+          "TYPE": "SS",
+          "STATUS": "COLD STACK"
+        },
+        {
+          "NAME": "TRANSOCEAN NORGE",
+          "TYPE": "SS",
+          "STATUS": "WARM STACK"
+        },
+        {
+          "NAME": "VALARIS 123",
+          "TYPE": "JU",
+          "STATUS": "HOT STACK"
+        },
+        {
+          "NAME": "WELL-SAFE PROTECTOR",
+          "TYPE": "SS",
+          "STATUS": "HOT STACK"
+        },
+        {
+          "NAME": "WEST MIRA",
+          "TYPE": "SS",
+          "STATUS": "WARM STACK"
+        }
+      ]
+    },
+    {
+      "title": "CONTRACTED RIG UTILISATION AND DAY RATES",
+      "columns": [
+        "UTILISATION",
+        "OCT 2022",
+        "OCT 2021",
+        "OCT 2020",
+        "OCT 2019",
+        "OCT 2018"
+      ],
+      "row_count": 3,
+      "rows": [
+        {
+          "UTILISATION": "NORTH SEA",
+          "OCT 2022": "72.7%",
+          "OCT 2021": "62.7%",
+          "OCT 2020": "50.5%",
+          "OCT 2019": "65.5%",
+          "OCT 2018": "60.2%"
+        },
+        {
+          "UTILISATION": "SOUTH AMERICA",
+          "OCT 2022": "69.6%",
+          "OCT 2021": "72.3%",
+          "OCT 2020": "62.5%",
+          "OCT 2019": "46.4%",
+          "OCT 2018": "49.2%"
+        },
+        {
+          "UTILISATION": "US GULF",
+          "OCT 2022": "55.5%",
+          "OCT 2021": "50.6%",
+          "OCT 2020": "40.8%",
+          "OCT 2019": "49.1%",
+          "OCT 2018": "48.1%"
+        }
+      ]
+    }
+  ]
+}

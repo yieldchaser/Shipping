@@ -1,0 +1,25 @@
+{
+  "issue_date": "2005-10-07",
+  "year": 2005,
+  "title": "High Oil Prices & Tanker Demand",
+  "source_file": "corpus/04-poten/pdfs/2005/Tanker_Opinion_20051007.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2005-10-07_high-oil-prices-tanker-demand_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2005/poten_2005-10-07_high-oil-prices-tanker-demand_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-10-07_high-oil-prices-tanker-demand_chart1.png",
+      "width": 542,
+      "height": 401
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

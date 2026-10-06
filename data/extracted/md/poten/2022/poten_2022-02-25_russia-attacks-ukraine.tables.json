@@ -1,0 +1,34 @@
+{
+  "issue_date": "2022-02-25",
+  "year": 2022,
+  "title": "Russia Attacks Ukraine",
+  "source_file": "corpus/04-poten/pdfs/2022/Weekly-Opinion-25-February-2022-Russia-Attacks-Ukraine.pdf",
+  "tables_count": 0,
+  "charts_count": 2,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2022-02-25_russia-attacks-ukraine_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2022/poten_2022-02-25_russia-attacks-ukraine_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-02-25_russia-attacks-ukraine_chart1.png",
+      "width": 947,
+      "height": 545
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2022-02-25_russia-attacks-ukraine_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2022/poten_2022-02-25_russia-attacks-ukraine_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-02-25_russia-attacks-ukraine_chart2.png",
+      "width": 955,
+      "height": 545
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

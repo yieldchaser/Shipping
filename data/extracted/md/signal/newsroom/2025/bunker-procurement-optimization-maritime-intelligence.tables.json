@@ -1,0 +1,49 @@
+{
+  "slug": "bunker-procurement-optimization-maritime-intelligence",
+  "issue_date": "2025-10-03",
+  "year": 2025,
+  "week": 40,
+  "category": "Market Insights",
+  "section": "newsroom",
+  "title": "Bunker Procurement Optimization: How Maritime Intelligence Platforms Help Shipping Companies Cut Fuel Costs",
+  "source_file": "corpus/07-signal/html/bunker-procurement-optimization-maritime-intelligence.html",
+  "tables": [
+    [
+      {
+        "Platform": "ZeroNorth Bunker",
+        "Primary Function": "Procurement execution",
+        "Key Capabilities": "Enquiry-to-payment, voyage integration, FuelEU/EU ETS compliance",
+        "Best For": "Fleet-wide procurement operations teams",
+        "Workflow Stage": "Execution"
+      },
+      {
+        "Platform": "Veson IMOS",
+        "Primary Function": "Commercial management",
+        "Key Capabilities": "Contract management, voyage execution, dry bulk analytics",
+        "Best For": "Commercial managers in dry bulk",
+        "Workflow Stage": "Execution + Reporting"
+      },
+      {
+        "Platform": "ENGINE",
+        "Primary Function": "Marketplace procurement",
+        "Key Capabilities": "Price discovery, supplier network, transaction management",
+        "Best For": "Spot bunkering and supplier comparison",
+        "Workflow Stage": "Execution"
+      },
+      {
+        "Platform": "StormGeo s-Insight",
+        "Primary Function": "Fuel planning + compliance",
+        "Key Capabilities": "Weather routing, bunker planning, regulatory reporting",
+        "Best For": "Operators combining weather routing with fuel management",
+        "Workflow Stage": "Planning + Execution"
+      },
+      {
+        "Platform": "Signal Ocean",
+        "Primary Function": "Market intelligence",
+        "Key Capabilities": "Vessel tracking, refinery outage monitoring, gas price data, market analytics",
+        "Best For": "Teams optimizing WHEN and WHERE to bunker",
+        "Workflow Stage": "Pre-procurement decision support"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "issue_date": "2025-02-07",
+  "year": 2025,
+  "title": "Trade Winds of Change",
+  "source_file": "corpus/04-poten/pdfs/2025/Weekly Opinion - 7 February 2025 - Trade Winds of Change.pdf",
+  "tables_count": 1,
+  "charts_count": 0,
+  "charts": [],
+  "tables": [
+    "| Rank | Charterer | Reported Total Cargo (MT 000s) | % of Total Dirty Cargoes | Prev Rank | Fixtures |\n| --- | --- | --- | --- | --- | --- |\n| 1 | 9,321 | 9,735 | 6% |  |  |"
+  ],
+  "charterers_count": 1,
+  "charterer_rows": [
+    {
+      "rank": 1,
+      "charterer": "9,321",
+      "cargo_mt_000s": "9,735",
+      "pct_total_cargo": "6%",
+      "fixtures_count": "",
+      "pct_fixtures": "",
+      "prev_rank": "",
+      "issue_date": "2025-02-07",
+      "year": 2025,
+      "report_period": "2024",
+      "segment": "Overall",
+      "source_file": "corpus/04-poten/pdfs/2025/Weekly Opinion - 7 February 2025 - Trade Winds of Change.pdf"
+    }
+  ],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

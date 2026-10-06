@@ -1,0 +1,68 @@
+{
+  "report_id": "176a0091-59e2-4532-8b23-04180b889723",
+  "issue_date": "2025-12-10",
+  "year": 2025,
+  "department": "BULK",
+  "report_title": "Fearnleys Dry Bulk Weekly",
+  "shipment_volume_metrics": [],
+  "coal_futures_spread_metrics": [
+    {
+      "issue_date": "2025-12-10",
+      "year": "2025",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "p5_kamsarmax_indonesia_rv_usd_day": 15735.29,
+      "p5_4w_prev_usd_day": 18198.53,
+      "newcastle_coal_futures_spread_lead_2m": -10.55,
+      "coal_spread_4w_prev": "",
+      "lead_tenor": "2 Months",
+      "chart_title": "P5 vs Newcastle Coal Futures Spread Lead",
+      "source_image": "P5 vs Newcastle Coal Futures Spread Lead.png",
+      "report_id": "176a0091-59e2-4532-8b23-04180b889723"
+    }
+  ],
+  "time_charter_vs_asset_metrics": [],
+  "vessel_tightness_metrics": [
+    {
+      "issue_date": "2025-12-10",
+      "year": "2025",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "chart_family": "P6 vs SATL Tightness.png",
+      "indicator_metric": "South Atlantic Vessel Count",
+      "indicator_val": 350.7,
+      "freight_benchmark": "P6 / BCI5TC Index USD/day",
+      "freight_benchmark_val": 14879.4,
+      "lead_tenor": "1 Month Lead",
+      "report_id": "176a0091-59e2-4532-8b23-04180b889723"
+    }
+  ],
+  "macro_correlation_metrics": [
+    {
+      "issue_date": "2025-12-10",
+      "year": "2025",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "macro_metric": "Steel Mill Profitability vs Hot Metal Output",
+      "freight_benchmark_val": -46.6,
+      "macro_indicator_val": 2.16,
+      "lead_tenor": "7 Weeks Lead",
+      "chart_title": "STEEL MILL PROFITABILITY VS HOT METAL OUTPUT.png",
+      "report_id": "176a0091-59e2-4532-8b23-04180b889723"
+    },
+    {
+      "issue_date": "2025-12-10",
+      "year": "2025",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "macro_metric": "Iron Ore Price 3M Lead vs BCI5TC",
+      "freight_benchmark_val": 14745.8,
+      "macro_indicator_val": 154.3,
+      "lead_tenor": "3 Months",
+      "chart_title": "IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png",
+      "report_id": "176a0091-59e2-4532-8b23-04180b889723"
+    }
+  ],
+  "charts_count": 12,
+  "source_markdown": "2025-12-10_fearnleys-dry-bulk-weekly-10th-december-2025-1.md"
+}

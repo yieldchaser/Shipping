@@ -1,0 +1,43 @@
+---
+title: "Bulk Report – Week 41"
+date: "2023-10-13"
+display_date: "13 October 2023"
+year: 2023
+week: 41
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2023/bulk-report-week-41.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 655
+sections_count: 4
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2023/2023-10-13_bulk-report-week-41_dry.html"
+---
+
+# Bulk Report – Week 41
+
+**Date:** 13 October 2023  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2023/bulk-report-week-41.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2023/bulk-report-week-41.html)  
+
+---
+
+### Capesizes
+
+Closing at $27,591 the Capesize TC average maintained similar levels week-on-week, however large gains were seen on Monday when the spot rate climbed close to $29,000, but neither Atlantic nor Pacific basin was lending much of the support by mid-week. The Brazil to Qingdao run declined from 26.378 last Friday to $25.733, whilst the West Australia to Qingdao run declined about 70 cents week-on-week to mid $10s. The North Atlantic tonnage list appeared tight with a healthy amount of fresh cargo lining up. Towards the end of the week, the transatlantic had shown the biggest improvement among all routes, settling at $38,156. The sentiment in the Pacific was less robust overall. A transpacific round voyage paid $22,782.
+
+### Panamax
+
+After a promising opening to the week, activities in the Panamax market were slowly but surely became something of a grind as confidence eroded in both basins. The North Atlantic struggled for any momentum all week, South America saw a brief rally Monday/Tuesday with reports of an 81,000-dwt achieving $18,000 delivery PMO for a trip via EC South America and other options to the Far East but petered off. Following various holidays last week, Asia returned with a bang particularly from Indonesia with a surge of fresh demand creating quite a stir, $20,000 achieved for said run on a smaller LME type delivery Singapore, this had reverted to type by Friday with smaller LME types locking in at $12,500 a few times. Aside from some Australian cape split coal stems evident, the longer round trips lacked any momentum. Period activity included an 82,000-dwt delivery China fixing at $16,000 basis 4/6 months.
+
+### Ultramax/Supramax
+
+The week started with high expectations however as it progressed it became a two-sided affair. Whilst sentiment generally remained positive in the Atlantic, from Asia the initial strengthening slipped away. Limited fresh enquiry was seen from South Asia and limited support from the NoPac saw gains being eroded. Period activity remained sluggish, although a 56,000-dwt open Continent was fixed for three to six months trading at $16,000. Most gains in the Atlantic came from the US Gulf and South America with demand remaining for fronthaul business. A 60,000-dwt fixing a trip from Texas to China in the mid to upper $20,000s. Some described the Continent-Mediterranean region as positional although a 61,000-dwt was fixed from the Baltic to Turkey basis delivery Continent at $23,000. From Asia, stronger numbers at the start, a 63,000-dwt open Gresik fixed via Indonesia redelivery South China at $22,000. From the Indian Ocean the undercurrent remained stable, a 63,000-dwt fixing delivery SE India via South Africa redelivery Pakistan/WC India at $15,000.
+
+### Handysize
+
+The overall sentiment in the handy sector became positive but visible activity in Asia remained minimal. With improved demand in the South Atlantic, levels have improved across the region with a large handy rumoured to have been fixed from Recalada to West Coast South America in the low $20,000’s and a 36,000-dwt fixing from Cuba via Barcarena to Corninto at $16,500. A 39,000-dwt opening in Jorf Lasfar was fixed via Brake to the US Gulf with an intended cargo of lumber at $14,000 as an example of the Continent’s firmness. In Asia, whilst the market was said to be more balanced, a 38,000-dwt was rumoured to have been placed on subjects for a trip via Australia back to Southeast Asia at around $13,000 and a 33,000-dwt opening in Wakayama fixed via Australia to Japan at $9,000. Charterers had remained active in the period market with a 28,000-dwt opening in Indonesia rumoured to have fixed for four to six months at $9,800.
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  

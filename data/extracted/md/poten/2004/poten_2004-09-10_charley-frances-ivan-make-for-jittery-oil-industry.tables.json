@@ -1,0 +1,34 @@
+{
+  "issue_date": "2004-09-10",
+  "year": 2004,
+  "title": "Charley, Frances & Ivan Make for Jittery Oil Industry",
+  "source_file": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040910.pdf",
+  "tables_count": 0,
+  "charts_count": 2,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2004-09-10_charley-frances-ivan-make-for-jittery-oil-industry_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2004/poten_2004-09-10_charley-frances-ivan-make-for-jittery-oil-industry_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-09-10_charley-frances-ivan-make-for-jittery-oil-industry_chart1.png",
+      "width": 542,
+      "height": 401
+    },
+    {
+      "chart_num": 2,
+      "page": 1,
+      "file_name": "poten_2004-09-10_charley-frances-ivan-make-for-jittery-oil-industry_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2004/poten_2004-09-10_charley-frances-ivan-make-for-jittery-oil-industry_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-09-10_charley-frances-ivan-make-for-jittery-oil-industry_chart2.png",
+      "width": 995,
+      "height": 826
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

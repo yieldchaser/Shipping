@@ -1,0 +1,25 @@
+{
+  "issue_date": "2020-09-18",
+  "year": 2020,
+  "title": "Food For Thought 3",
+  "source_file": "corpus/04-poten/pdfs/2020/Weekly-Opinion-18-Sep-2020-Food-For-Thought-3.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2020-09-18_food-for-thought-3_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2020/poten_2020-09-18_food-for-thought-3_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-09-18_food-for-thought-3_chart1.png",
+      "width": 955,
+      "height": 931
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

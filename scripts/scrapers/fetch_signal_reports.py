@@ -75,6 +75,24 @@ def get_all_target_urls():
     print(f"[+] Total Targets: {len(monitors)} Weekly Market Monitors, {len(newsroom)} Newsroom Reports and {len(newsletters)} Newsletters.")
     return monitors, newsroom, newsletters
 
+def _load_untracked_signal_htmls():
+    import json
+    inv_path = os.path.join("corpus", "_inventory_untracked.json")
+    if not os.path.exists(inv_path):
+        return set()
+    try:
+        with open(inv_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        return {
+            str(item.get("path", "")).replace("\\", "/")
+            for item in data.get("files", [])
+            if str(item.get("path", "")).replace("\\", "/").startswith("corpus/07-signal/html/")
+        }
+    except Exception:
+        return set()
+
+UNTRACKED_SIGNAL_HTMLS = _load_untracked_signal_htmls()
+
 def parse_and_save(url, section):
     import glob
     slug = url.rstrip("/").split("/")[-1]
@@ -89,13 +107,22 @@ def parse_and_save(url, section):
     md_path = existing_mds[0] if existing_mds else os.path.join(target_dir, "2026", md_filename)
     
     # Check if already harvested
-    if existing_mds and os.path.exists(html_path) and os.path.getsize(md_path) > 500:
+    if existing_mds and os.path.getsize(md_path) > 500:
         return {
             "slug": slug,
             "url": url,
             "section": section,
             "status": "cached",
             "md_path": md_path,
+            "html_path": html_path
+        }
+    if not existing_mds and (os.path.exists(html_path) or f"corpus/07-signal/html/{html_filename}" in UNTRACKED_SIGNAL_HTMLS):
+        return {
+            "slug": slug,
+            "url": url,
+            "section": section,
+            "status": "skipped_media_mention_stub",
+            "md_path": None,
             "html_path": html_path
         }
         

@@ -30,7 +30,7 @@ jobs:
 
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.12'
 
       - name: Install dependencies
         run: |
@@ -59,13 +59,38 @@ jobs:
           python scripts/extract/orchestrate_incremental_ingest.py || true
           python scripts/extract/publishers/clean_all_brokers_formatting.py || true
           python scripts/extract/sync_digests.py || true
-          python scripts/extract/verify_broker_md_quality_gate.py || true
+          python scripts/audit/verify_broker_md_quality_gate.py || true
+          python scripts/verify/build_corpus_inventory.py --merge-existing || true
           python scripts/sync_extraction_register.py || true
           python scripts/audit/generate_cadence_audit.py || true
 
       - name: Commit & Push New Broker Reports
         run: |
-          git add corpus/01-brokers/ corpus/CORPUS_REGISTRY_AND_CADENCE_AUDIT.md corpus/CORPUS_PUBLICATION_CADENCE_AND_AUDIT.xlsx data/extracted/md/ data/extracted/series/ data/extracted/charts/ data/extracted/EXTRACTION_REGISTER.json docs/EXTRACTION_REGISTER.md data/derived/ data/views/ data/clarksons/ || true
+          for fpath in corpus/01-brokers data/extracted/charts; do
+            if [ -e "$fpath" ]; then
+              git add -f "$fpath" || true
+            fi
+          done
+          for tpath in \
+            corpus/_inventory_untracked.json \
+            corpus/CORPUS_REGISTRY_AND_CADENCE_AUDIT.md \
+            docs/CORPUS_CADENCE_AND_AUDIT.md \
+            corpus/CORPUS_PUBLICATION_CADENCE_AND_AUDIT.xlsx \
+            data/extracted/md \
+            data/extracted/series \
+            data/extracted/EXTRACTION_REGISTER.json \
+            docs/EXTRACTION_REGISTER.md \
+            data/extracted/llamaparse_banchero/_run_state.json \
+            data/extracted/llamaparse_banchero_v2/_run_state.json \
+            data/extracted/llamaparse_intermodal_full/_run_state.json \
+            data/extracted/llamaparse_xclusiv/_run_state.json \
+            data/derived \
+            data/views \
+            data/clarksons; do
+            if [ -e "$tpath" ]; then
+              git add "$tpath" || true
+            fi
+          done
           if git diff --staged --quiet; then
             echo "No new broker reports found."
             exit 0

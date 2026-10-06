@@ -1,0 +1,27 @@
+---
+id: "AC45EF48-4578-436E-88D0-ECA10FA85F16"
+source: "Fearnleys"
+sector: "Tanker Route Trends"
+desk: "MEG/EAST"
+comment_type: "MEG/EAST"
+comment_subtype: "trend"
+date: "2022-03-14"
+year: 2022
+week: 11
+title: "Fearnleys MEG/EAST Comment - 2022-03-14"
+---
+
+# Fearnleys MEG/EAST Comment (2022-03-14)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Sector:** Tanker Route Trends
+- **Desk:** MEG/EAST
+- **Publication Date:** 2022-03-14 (Week 11)
+- **Comment Type:** MEG/EAST
+- **Record ID:** `AC45EF48-4578-436E-88D0-ECA10FA85F16`
+
+---
+
+## Market Commentary
+
+Steady

@@ -1,0 +1,25 @@
+{
+  "issue_date": "2016-02-26",
+  "year": 2016,
+  "title": "Reading Tanker Tea Leaves",
+  "source_file": "corpus/04-poten/pdfs/2016/Weekly-Opinion-February-26-2016-Reading-Tanker-Tea-Leaves.pdf",
+  "tables_count": 0,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2016-02-26_reading-tanker-tea-leaves_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2016/poten_2016-02-26_reading-tanker-tea-leaves_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-02-26_reading-tanker-tea-leaves_chart1.png",
+      "width": 940,
+      "height": 619
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

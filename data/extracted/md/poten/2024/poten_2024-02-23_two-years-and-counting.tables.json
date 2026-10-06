@@ -1,0 +1,34 @@
+{
+  "issue_date": "2024-02-23",
+  "year": 2024,
+  "title": "Two Years And Counting",
+  "source_file": "corpus/04-poten/pdfs/2024/Weekly Opinion -23 February 2024 - Two Years And Counting.pdf",
+  "tables_count": 0,
+  "charts_count": 2,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2024-02-23_two-years-and-counting_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2024/poten_2024-02-23_two-years-and-counting_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-02-23_two-years-and-counting_chart1.png",
+      "width": 955,
+      "height": 544
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2024-02-23_two-years-and-counting_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2024/poten_2024-02-23_two-years-and-counting_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-02-23_two-years-and-counting_chart2.png",
+      "width": 950,
+      "height": 545
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

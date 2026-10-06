@@ -94,8 +94,32 @@ def fetch_api_posts(category_id, pages=2, per_page=50):
             break
     return posts
 
+def _load_untracked_inventory() -> set:
+    inv_path = ROOT / "corpus" / "_inventory_untracked.json"
+    if not inv_path.exists():
+        return set()
+    try:
+        data = json.loads(inv_path.read_text(encoding="utf-8"))
+        items = data.get("entries") or data.get("files") or []
+        return {
+            str(f.get("path", "")).replace("\\", "/")
+            for f in items
+            if (f.get("bytes") or f.get("size_bytes") or 0) > 500
+        }
+    except Exception:
+        return set()
+
+UNTRACKED_INVENTORY = _load_untracked_inventory()
+
+def _is_in_inventory(target_path: Path) -> bool:
+    try:
+        rel = str(target_path.relative_to(ROOT)).replace("\\", "/")
+        return rel in UNTRACKED_INVENTORY
+    except Exception:
+        return False
+
 def download_file(url, target_path):
-    if target_path.exists() and target_path.stat().st_size > 1024:
+    if (target_path.exists() and target_path.stat().st_size > 1024) or _is_in_inventory(target_path):
         return False, "cached"
     target_path.parent.mkdir(parents=True, exist_ok=True)
     req = urllib.request.Request(url, headers=HEADERS)
@@ -290,7 +314,7 @@ def sync_html_articles():
                 continue
             
             dest = ROOT / "corpus" / "02-hellenic" / cat_slug / year / f"{date_iso}_{slug}.html"
-            if not dest.exists():
+            if not dest.exists() and not _is_in_inventory(dest):
                 dest.parent.mkdir(parents=True, exist_ok=True)
                 with open(dest, "w", encoding="utf-8") as f:
                     f.write(f"<!-- Title: {title} | Date: {date_iso} | URL: {p.get('link', '')} -->\n")

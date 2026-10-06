@@ -1,0 +1,34 @@
+{
+  "issue_date": "2024-12-13",
+  "year": 2024,
+  "title": "Heightened Uncertainty In The Middle East",
+  "source_file": "corpus/04-poten/pdfs/2024/Weekly Opinion - 13 Dec 2024 - Heightened Uncertainty In The Middle East.pdf",
+  "tables_count": 0,
+  "charts_count": 2,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2024-12-13_heightened-uncertainty-in-the-middle-east_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2024/poten_2024-12-13_heightened-uncertainty-in-the-middle-east_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-12-13_heightened-uncertainty-in-the-middle-east_chart1.png",
+      "width": 744,
+      "height": 673
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2024-12-13_heightened-uncertainty-in-the-middle-east_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2024/poten_2024-12-13_heightened-uncertainty-in-the-middle-east_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-12-13_heightened-uncertainty-in-the-middle-east_chart2.png",
+      "width": 955,
+      "height": 544
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

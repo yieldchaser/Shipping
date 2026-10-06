@@ -464,6 +464,11 @@ def run_fearnleys_md_pipeline():
         rep_tightness_rows = []
         rep_macro_rows = []
 
+        yr = str(meta.get("year") or "2026")
+        out_year_dir = OUT_MD_DIR / yr
+        out_year_dir.mkdir(parents=True, exist_ok=True)
+        sidecar_file = out_year_dir / f"{stem}.tables.json"
+
         img_dir = IMAGES_DIR / rep_id
         if img_dir.exists():
             for fig_title, fig_path in figs:
@@ -493,6 +498,19 @@ def run_fearnleys_md_pipeline():
                     macro_res = calibrate_macro_correlation_chart(actual_img, meta, img_name)
                     rep_macro_rows.extend(macro_res)
                     all_macro_rows.extend(macro_res)
+        elif sidecar_file.exists():
+            try:
+                cached_sc = json.loads(sidecar_file.read_text(encoding="utf-8"))
+                rep_coal_rows = cached_sc.get("coal_futures_spread_metrics", [])
+                rep_tc_asset_rows = cached_sc.get("time_charter_vs_asset_metrics", [])
+                rep_tightness_rows = cached_sc.get("vessel_tightness_metrics", [])
+                rep_macro_rows = cached_sc.get("macro_correlation_metrics", [])
+                all_coal_rows.extend(rep_coal_rows)
+                all_tc_asset_rows.extend(rep_tc_asset_rows)
+                all_tightness_rows.extend(rep_tightness_rows)
+                all_macro_rows.extend(rep_macro_rows)
+            except Exception:
+                pass
 
         sidecar_data = {
             "report_id": rep_id,
@@ -508,10 +526,6 @@ def run_fearnleys_md_pipeline():
             "charts_count": len(figs),
             "source_markdown": md_p.name
         }
-        yr = str(meta.get("year") or "2026")
-        out_year_dir = OUT_MD_DIR / yr
-        out_year_dir.mkdir(parents=True, exist_ok=True)
-        sidecar_file = out_year_dir / f"{stem}.tables.json"
         sidecar_file.write_text(json.dumps(sidecar_data, indent=2), encoding="utf-8")
         year_md_file = out_year_dir / f"{stem}.md"
         if not year_md_file.exists():
@@ -520,20 +534,34 @@ def run_fearnleys_md_pipeline():
 
     print(f"Generated {all_sidecars_count} structured JSON sidecars in {OUT_MD_DIR.relative_to(ROOT)} year subdirectories")
 
-    def write_csv(filepath, rows, fieldnames):
+    def write_csv(filepath, rows, fieldnames, key_cols):
         if not rows:
             return
+        existing_map = {}
+        if filepath.exists() and filepath.stat().st_size > 0:
+            try:
+                with open(filepath, "r", encoding="utf-8", errors="replace") as rf:
+                    for r in csv.DictReader(rf):
+                        k = tuple(str(r.get(c, "")) for c in key_cols)
+                        existing_map[k] = r
+            except Exception:
+                pass
+        for r in rows:
+            k = tuple(str(r.get(c, "")) for c in key_cols)
+            existing_map[k] = {c: r.get(c, "") for c in fieldnames}
+        merged = sorted(existing_map.values(), key=lambda x: (str(x.get("issue_date", "")), str(x.get("report_id", ""))))
         with open(filepath, "w", newline="", encoding="utf-8") as f:
             writer = csv.DictWriter(f, fieldnames=fieldnames)
             writer.writeheader()
-            writer.writerows(rows)
-        print(f"Exported {len(rows)} rows to {filepath.name}")
+            writer.writerows(merged)
+        print(f"Exported {len(merged)} total rows (+{len(rows)} processed) to {filepath.name}")
 
     write_csv(
         OUT_SERIES_DIR / "fearnleys_md_shipment_volumes_series.csv",
         all_shipment_rows,
         ["issue_date", "year", "report_week", "department", "report_title", "vessel_segment",
-         "shipment_volume_growth_ytd", "shipment_volume_growth_last_10w", "dwt_supply_growth", "atlantic_volume_change", "report_id"]
+         "shipment_volume_growth_ytd", "shipment_volume_growth_last_10w", "dwt_supply_growth", "atlantic_volume_change", "report_id"],
+        ["issue_date", "vessel_segment", "report_id"]
     )
 
     write_csv(
@@ -541,28 +569,32 @@ def run_fearnleys_md_pipeline():
         all_coal_rows,
         ["issue_date", "year", "department", "report_title", "p5_kamsarmax_indonesia_rv_usd_day",
          "p5_4w_prev_usd_day", "newcastle_coal_futures_spread_lead_2m", "coal_spread_4w_prev",
-         "lead_tenor", "chart_title", "source_image", "report_id"]
+         "lead_tenor", "chart_title", "source_image", "report_id"],
+        ["issue_date", "chart_title", "report_id"]
     )
 
     write_csv(
         OUT_SERIES_DIR / "fearnleys_md_tc_vs_asset_series.csv",
         all_tc_asset_rows,
         ["issue_date", "year", "department", "report_title", "vessel_segment",
-         "one_year_tc_usd_day", "ten_year_old_asset_value_usdm", "chart_title", "report_id"]
+         "one_year_tc_usd_day", "ten_year_old_asset_value_usdm", "chart_title", "report_id"],
+        ["issue_date", "vessel_segment", "report_id"]
     )
 
     write_csv(
         OUT_SERIES_DIR / "fearnleys_md_vessel_tightness_series.csv",
         all_tightness_rows,
         ["issue_date", "year", "department", "report_title", "chart_family",
-         "indicator_metric", "indicator_val", "freight_benchmark", "freight_benchmark_val", "lead_tenor", "report_id"]
+         "indicator_metric", "indicator_val", "freight_benchmark", "freight_benchmark_val", "lead_tenor", "report_id"],
+        ["issue_date", "chart_family", "report_id"]
     )
 
     write_csv(
         OUT_SERIES_DIR / "fearnleys_md_macro_correlations_series.csv",
         all_macro_rows,
         ["issue_date", "year", "department", "report_title", "macro_metric",
-         "freight_benchmark_val", "macro_indicator_val", "lead_tenor", "chart_title", "report_id"]
+         "freight_benchmark_val", "macro_indicator_val", "lead_tenor", "chart_title", "report_id"],
+        ["issue_date", "macro_metric", "report_id"]
     )
 
     try:

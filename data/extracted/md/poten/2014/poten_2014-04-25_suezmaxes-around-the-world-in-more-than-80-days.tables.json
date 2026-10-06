@@ -1,0 +1,43 @@
+{
+  "issue_date": "2014-04-25",
+  "year": 2014,
+  "title": "Suezmaxes: Around The World In More Than 80 Days",
+  "source_file": "corpus/04-poten/pdfs/2014/Tanker_Opinion_20140425.pdf",
+  "tables_count": 0,
+  "charts_count": 3,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2014-04-25_suezmaxes-around-the-world-in-more-than-80-days_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2014/poten_2014-04-25_suezmaxes-around-the-world-in-more-than-80-days_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-04-25_suezmaxes-around-the-world-in-more-than-80-days_chart1.png",
+      "width": 941,
+      "height": 747
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2014-04-25_suezmaxes-around-the-world-in-more-than-80-days_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2014/poten_2014-04-25_suezmaxes-around-the-world-in-more-than-80-days_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-04-25_suezmaxes-around-the-world-in-more-than-80-days_chart2.png",
+      "width": 944,
+      "height": 568
+    },
+    {
+      "chart_num": 3,
+      "page": 0,
+      "file_name": "poten_2014-04-25_suezmaxes-around-the-world-in-more-than-80-days_chart3.png",
+      "rel_path": "data/extracted/charts/poten/2014/poten_2014-04-25_suezmaxes-around-the-world-in-more-than-80-days_chart3.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-04-25_suezmaxes-around-the-world-in-more-than-80-days_chart3.png",
+      "width": 679,
+      "height": 510
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

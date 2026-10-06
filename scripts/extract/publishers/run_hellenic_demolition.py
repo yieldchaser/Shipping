@@ -363,12 +363,14 @@ def main():
         # 1. Athenian
         if "athenian" in name_l or "athenian" in title_l:
             try:
+                md_dir = MD_BASE_DIR / "athenian" / year
+                md_file = md_dir / f"athenian_{issue_date}_{pdf_path.stem}.md"
+                if md_file.exists() and not os.environ.get("FORCE_EXTRACT"):
+                    continue
                 week, recs, narr = extract_athenian(pdf_path, issue_date)
                 athenian_series.extend(recs)
                 # Save markdown
-                md_dir = MD_BASE_DIR / "athenian" / year
                 md_dir.mkdir(parents=True, exist_ok=True)
-                md_file = md_dir / f"athenian_{issue_date}_{pdf_path.stem}.md"
                 json_file = md_file.with_suffix(".tables.json")
                 
                 md_content = f"""---
@@ -425,13 +427,15 @@ tables_count: 1
         # 2. Best Oasis
         elif "best-oasis" in name_l or "best oasis" in title_l:
             try:
+                md_dir = MD_BASE_DIR / "best_oasis" / year
+                md_file = md_dir / f"best_oasis_{issue_date}_{pdf_path.stem}.md"
+                if md_file.exists() and not os.environ.get("FORCE_EXTRACT"):
+                    continue
                 week, p_recs, d_recs, narr = extract_best_oasis(pdf_path, issue_date)
                 best_oasis_series.extend(p_recs)
                 best_oasis_deals.extend(d_recs)
                 
-                md_dir = MD_BASE_DIR / "best_oasis" / year
                 md_dir.mkdir(parents=True, exist_ok=True)
-                md_file = md_dir / f"best_oasis_{issue_date}_{pdf_path.stem}.md"
                 json_file = md_file.with_suffix(".tables.json")
                 
                 md_content = f"""---
@@ -492,13 +496,15 @@ tables_count: 2
         # 3. GMS
         elif "gms" in name_l or "gms" in title_l:
             try:
+                md_dir = MD_BASE_DIR / "gms" / year
+                md_file = md_dir / f"gms_{issue_date}_{pdf_path.stem}.md"
+                if md_file.exists() and not os.environ.get("FORCE_EXTRACT"):
+                    continue
                 week, r_recs, p_recs, narr = extract_gms(pdf_path, issue_date)
                 gms_series.extend(r_recs)
                 gms_port_positions.extend(p_recs)
                 
-                md_dir = MD_BASE_DIR / "gms" / year
                 md_dir.mkdir(parents=True, exist_ok=True)
-                md_file = md_dir / f"gms_{issue_date}_{pdf_path.stem}.md"
                 json_file = md_file.with_suffix(".tables.json")
                 
                 md_content = f"""---
@@ -556,12 +562,20 @@ tables_count: 2
             except Exception as e:
                 logger.error(f"Error GMS {pdf_path.name}: {e}")
 
-    # Stack Master CSV Series
+    # Stack Master CSV Series (non-destructive upsert)
     if athenian_series:
-        df_ath = pd.DataFrame(athenian_series).sort_values("issue_date")
         ath_csv = SERIES_DIR / "hellenic_athenian_demolition_series.csv"
+        df_ath = pd.DataFrame(athenian_series)
+        if ath_csv.exists():
+            try:
+                df_old = pd.read_csv(ath_csv)
+                df_ath = pd.concat([df_old, df_ath], ignore_index=True)
+                df_ath = df_ath.drop_duplicates(subset=["issue_date", "country", "sector"], keep="last")
+            except Exception as e:
+                logger.warning(f"Could not merge existing {ath_csv.name}: {e}")
+        df_ath = df_ath.sort_values("issue_date")
         df_ath.to_csv(ath_csv, index=False)
-        logger.info(f"Saved {len(df_ath)} Athenian records to {ath_csv.name}")
+        logger.info(f"Upserted Athenian records into {ath_csv.name} (total {len(df_ath)} rows)")
 
     # 2026-10-04: the four hellenic_ GMS / Best-Oasis series are OWNED by the native
     # per-publisher runners (run_gms_demolition.py, run_best_oasis_demolition.py), which

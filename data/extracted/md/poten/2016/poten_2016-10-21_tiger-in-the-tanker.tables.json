@@ -1,0 +1,34 @@
+{
+  "issue_date": "2016-10-21",
+  "year": 2016,
+  "title": "Tiger In The Tanker",
+  "source_file": "corpus/04-poten/pdfs/2016/Weekly-Opinion-21-October-2016-Tiger-In-The-Tanker.pdf",
+  "tables_count": 0,
+  "charts_count": 2,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2016-10-21_tiger-in-the-tanker_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2016/poten_2016-10-21_tiger-in-the-tanker_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-10-21_tiger-in-the-tanker_chart1.png",
+      "width": 924,
+      "height": 542
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2016-10-21_tiger-in-the-tanker_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2016/poten_2016-10-21_tiger-in-the-tanker_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-10-21_tiger-in-the-tanker_chart2.png",
+      "width": 958,
+      "height": 526
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

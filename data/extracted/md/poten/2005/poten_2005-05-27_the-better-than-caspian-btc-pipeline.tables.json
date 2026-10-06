@@ -1,0 +1,52 @@
+{
+  "issue_date": "2005-05-27",
+  "year": 2005,
+  "title": "The Better Than Caspian (BTC) Pipeline",
+  "source_file": "corpus/04-poten/pdfs/2005/Tanker_Opinion_20050527.pdf",
+  "tables_count": 0,
+  "charts_count": 4,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2005-05-27_the-better-than-caspian-btc-pipeline_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2005/poten_2005-05-27_the-better-than-caspian-btc-pipeline_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-05-27_the-better-than-caspian-btc-pipeline_chart1.png",
+      "width": 542,
+      "height": 401
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2005-05-27_the-better-than-caspian-btc-pipeline_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2005/poten_2005-05-27_the-better-than-caspian-btc-pipeline_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-05-27_the-better-than-caspian-btc-pipeline_chart2.png",
+      "width": 1700,
+      "height": 362
+    },
+    {
+      "chart_num": 3,
+      "page": 0,
+      "file_name": "poten_2005-05-27_the-better-than-caspian-btc-pipeline_chart3.png",
+      "rel_path": "data/extracted/charts/poten/2005/poten_2005-05-27_the-better-than-caspian-btc-pipeline_chart3.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-05-27_the-better-than-caspian-btc-pipeline_chart3.png",
+      "width": 1700,
+      "height": 360
+    },
+    {
+      "chart_num": 4,
+      "page": 0,
+      "file_name": "poten_2005-05-27_the-better-than-caspian-btc-pipeline_chart4.png",
+      "rel_path": "data/extracted/charts/poten/2005/poten_2005-05-27_the-better-than-caspian-btc-pipeline_chart4.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-05-27_the-better-than-caspian-btc-pipeline_chart4.png",
+      "width": 1700,
+      "height": 362
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

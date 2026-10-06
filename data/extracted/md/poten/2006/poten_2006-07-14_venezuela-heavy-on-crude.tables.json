@@ -1,0 +1,52 @@
+{
+  "issue_date": "2006-07-14",
+  "year": 2006,
+  "title": "Venezuela: Heavy on Crude",
+  "source_file": "corpus/04-poten/pdfs/2006/Tanker_Opinion_20060714.pdf",
+  "tables_count": 0,
+  "charts_count": 4,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2006-07-14_venezuela-heavy-on-crude_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2006/poten_2006-07-14_venezuela-heavy-on-crude_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-07-14_venezuela-heavy-on-crude_chart1.png",
+      "width": 434,
+      "height": 359
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2006-07-14_venezuela-heavy-on-crude_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2006/poten_2006-07-14_venezuela-heavy-on-crude_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-07-14_venezuela-heavy-on-crude_chart2.png",
+      "width": 1267,
+      "height": 855
+    },
+    {
+      "chart_num": 3,
+      "page": 2,
+      "file_name": "poten_2006-07-14_venezuela-heavy-on-crude_chart3.png",
+      "rel_path": "data/extracted/charts/poten/2006/poten_2006-07-14_venezuela-heavy-on-crude_chart3.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-07-14_venezuela-heavy-on-crude_chart3.png",
+      "width": 863,
+      "height": 507
+    },
+    {
+      "chart_num": 4,
+      "page": 2,
+      "file_name": "poten_2006-07-14_venezuela-heavy-on-crude_chart4.png",
+      "rel_path": "data/extracted/charts/poten/2006/poten_2006-07-14_venezuela-heavy-on-crude_chart4.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-07-14_venezuela-heavy-on-crude_chart4.png",
+      "width": 812,
+      "height": 476
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

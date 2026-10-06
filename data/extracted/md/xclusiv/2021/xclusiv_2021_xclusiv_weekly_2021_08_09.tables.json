@@ -1,0 +1,504 @@
+{
+  "stem": "xclusiv_2021_xclusiv_weekly_2021_08_09",
+  "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf",
+  "issue_date": "2021-08-09",
+  "report_week": 31,
+  "pages": 6,
+  "useful_pages": 4,
+  "editorial_title": "",
+  "nutshell": [],
+  "market_commentary": [
+    "Entering a “hot” August - usually a vacation month for most in the Northern hemisphere - we have seen new Covid-19 outbreaks, lockdowns, floods and their tragic consequences both in Europe and in China. Additionally, typhoons in the Far East, wildfires in Greece, Southern Europe, Turkey & California, as well as vessel hijackings in the Gulf, have dominated the front pages of the media. Whilst these catastrophes have been tragic for those unfortunate enough to endure them, they have also caused great disruption in shipping, supply-chains & logistics. Some of these disruptions, however, have proved an opportunity for some, such as in the container market, where some container companies are now reporting profits that have increased by 200% compared to those reported same time last year. These companies are expecting even stronger markets in Q3 of 2021.",
+    "In the US, President Biden announced a record injection of $3.5 billion for the adaptation to the impacts of climate change. It’s preferable to spend money to protect homes, communities and environment, rather than pay for the aftermath of disasters, as according to Federal Research “a dollar spent to prepare for disasters, saves an average of $6 later”. That could be up to $21 billion in damages.",
+    "Although agricultural products such as corn, wheat and soybeans remained relative steady this week, wildfires causing great impact on lumber future price, as transportation & supply-chain concerns forced it to trade below $600, closing the week at a 1-year low. The US capital markets again at a record high, while there was not much change during this past week both in Asia & in Europe. Amongst other, Dax index maintains its positive trend since it is trading close to its record high levels touched within July, whilst Nikkei 225 remained steady. Energy and industrial commodities also remain quite steady at high levels, with YTD increase reaching levels of more than 35-70% for energy commodities, and even up to 100% for coal prices.",
+    "On S&P, there has not been a lot of tonnage changing hands this week, but it is worth noting that the sentiment in dry bulk market is still very positive. Many dry bulk Owners are monitoring the market and looking for ways to increase their exposure, with new acquisitions, despite firmer asset prices. This is driven by persistently positive chartering prospects. Stock listed companies are still strong in the game and raising more funds with the same target, i.e. to also increase their controlled tonnage. The Handy and the Ultra segments, enjoying extremely good rates, are the major focus, but Capes have also been gaining ground this week.",
+    "On the wet sector, given the prolonged depressed rates and mostly negative T/CE’s in most Crude size segments, activity is rather limited. Despite this the anticipation of “better” markets later this year is keeping asset price levels relatively steady. We note that increased lockdowns in various places due to the Delta variant of Covid-19 (notably Japan, Vietnam and China) has started to create second thoughts as to when recovery in demand/consumption will come, since these lock downs tend to go hand-in-hand with a drop in demand of transportation fuel."
+  ],
+  "baltic_indices": [],
+  "freight_commentary": {
+    "Dry Bulk Freight": "Handysize: The BHSI index after counting 42 consecutive positive sessions finally broke this streak but completed the week still on a positive upward trend. The BHSI-38 7 T/C route average closed the week at usd 31,793/day. Brazil to Continent is at usd 39,761/day, S.E.Asia trip to Spore-Japan at 31,469/day, U.S.Gulf to Continent at 30,171/day. 1 year T/C rate for 38k Handy at usd 26,300/day with 1 year T/C for 28k Handysize in Atlantic region, at usd 22,800/day, whereas 28k Handy 1y T/C in Pacific region is at 23,750/day.",
+    "Tanker Freight": "Suezmax average TCE closed the week at usd -3,027/day. W.Africa to Cont. at usd 783/day, Black Sea to Med up at usd -6,837/day, Middle East Gulf to Med is at usd -15,549/day. One year T/C for a scrubber fitted Suezmax is at usd 18,800/day.\n\nAframax average TCE closed the week somewhat improved at usd 1,742/day. North Sea to Continent usd -3,463 /day, Kuwait to Singapore improved at usd 5,388/day, Caribbs to US Gulf up at usd -2,205/day, Baltic to UK Cont. at usd -777/day, S.E. Asia to EC. Australia improved at usd 9,654/day. Scrubber fitted Aframax one year T/C is at usd 17,200/day.\n\nProducts: The LR2 route (TC1) M.East Gulf to Japan TCE is improved this week at usd 6,592/day. Med/F.East is now at usd -7,821/day, while the LR1 (TC5) M.East Gulf to Japan route is up at usd 7,333/day, the Amsterdam to Lome route is at usd 1,818/day. The MR Atlantic Basket earnings is softened this week at usd 7,803/day, with the MR route from Continent to US Atlantic Coast down at usd 6,029/day, US Gulf to Continent suppressed further at usd -1,684 /day, ARA to W.Africa down at usd 7,999/day. Eco MR2 1 Year T/C is usd 14,000/day."
+  },
+  "dry_snp_activity": "YUMETAMOU 181.407 2012 JAPAN KOYO SAFE BULKERS $32.3 1-YEAR BBHP SCHEME, SS: 03/2025 - DD: 07/2022\n\nAQUA SPLENDOR 175.589 2012 CHINA JINHAI HEAVY UNDISCLOSED mid/high $20 SS/DD: 06/2022\n\nLOWLANDS BEACON 61.400 2011 JAPAN IWAGI ZOSEN UNDISCLOSED region $21 SS/DD: 04/2022\n\nMARATHA PROMISE 37.187 2012 JAPAN SAIKI UNDISCLOSED $16.5 SS/DD: 03/2022\n\nSAKURA KOBE 33.735 2011 JAPAN SHIN KOCHI TAYLOR MARITIME $16.2 BWTS FITTED, SS:11/2024 - DD: 10/2022\n\nAREL 1 10.560 1993 TURKEY SELAH UNDISCLOSED xs $3 SS: 08/2024 - DD: 06/2022",
+  "wet_snp_activity": "",
+  "reported_sales": [
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "section": "Bulk Carriers",
+      "page": 4,
+      "NAME": "YUMETAMOU",
+      "TYPE": "Handysize",
+      "DWT": "181.407",
+      "YEAR": "2012",
+      "COUNTRY": "JAPAN",
+      "YARD": "KOYO",
+      "BUYERS": "SAFE BULKERS",
+      "PRICE": "$32.3",
+      "PRICE_USD_MILL": 32.3,
+      "COMMENTS": "1-YEAR BBHP SCHEME, SS: 03/2025 - DD: 07/2022",
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "section": "Bulk Carriers",
+      "page": 4,
+      "NAME": "AQUA SPLENDOR",
+      "TYPE": "Handysize",
+      "DWT": "175.589",
+      "YEAR": "2012",
+      "COUNTRY": "CHINA",
+      "YARD": "JINHAI HEAVY",
+      "BUYERS": "UNDISCLOSED",
+      "PRICE": "mid/high $20",
+      "PRICE_USD_MILL": 20.0,
+      "COMMENTS": "SS/DD: 06/2022",
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "section": "Bulk Carriers",
+      "page": 4,
+      "NAME": "LOWLANDS BEACON",
+      "TYPE": "Handysize",
+      "DWT": "61.400",
+      "YEAR": "2011",
+      "COUNTRY": "JAPAN",
+      "YARD": "IWAGI ZOSEN",
+      "BUYERS": "UNDISCLOSED",
+      "PRICE": "region $21",
+      "PRICE_USD_MILL": 21.0,
+      "COMMENTS": "SS/DD: 04/2022",
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "section": "Bulk Carriers",
+      "page": 4,
+      "NAME": "MARATHA PROMISE",
+      "TYPE": "Handysize",
+      "DWT": "37.187",
+      "YEAR": "2012",
+      "COUNTRY": "JAPAN",
+      "YARD": "SAIKI",
+      "BUYERS": "UNDISCLOSED",
+      "PRICE": "$16.5",
+      "PRICE_USD_MILL": 16.5,
+      "COMMENTS": "SS/DD: 03/2022",
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "section": "Bulk Carriers",
+      "page": 4,
+      "NAME": "SAKURA KOBE",
+      "TYPE": "Handysize",
+      "DWT": "33.735",
+      "YEAR": "2011",
+      "COUNTRY": "JAPAN",
+      "YARD": "SHIN KOCHI",
+      "BUYERS": "TAYLOR MARITIME",
+      "PRICE": "$16.2",
+      "PRICE_USD_MILL": 16.2,
+      "COMMENTS": "BWTS FITTED, SS:11/2024 - DD: 10/2022",
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "section": "Bulk Carriers",
+      "page": 4,
+      "NAME": "AREL 1",
+      "TYPE": "Handysize",
+      "DWT": "10.560",
+      "YEAR": "1993",
+      "COUNTRY": "TURKEY",
+      "YARD": "SELAH",
+      "BUYERS": "UNDISCLOSED",
+      "PRICE": "xs $3",
+      "PRICE_USD_MILL": 3.0,
+      "COMMENTS": "SS: 08/2024 - DD: 06/2022",
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "section": "Bulk Carriers",
+      "page": 4,
+      "NAME": "9th",
+      "TYPE": "Bulk Carriers",
+      "DWT": "",
+      "YEAR": "",
+      "COUNTRY": "",
+      "YARD": "",
+      "BUYERS": "",
+      "PRICE": "",
+      "PRICE_USD_MILL": "",
+      "COMMENTS": "",
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    }
+  ],
+  "demo_sales": [],
+  "newbuilding_orders": [],
+  "indicative_demolition_prices": [
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "segment": "Bulkers",
+      "country": "India",
+      "price_usd_per_ldt": 590.0,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "segment": "Tankers",
+      "country": "India",
+      "price_usd_per_ldt": 600.0,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "segment": "Bulkers",
+      "country": "Bangladesh",
+      "price_usd_per_ldt": 605.0,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "segment": "Tankers",
+      "country": "Bangladesh",
+      "price_usd_per_ldt": 615.0,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "segment": "Bulkers",
+      "country": "Pakistan",
+      "price_usd_per_ldt": 585.0,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "segment": "Tankers",
+      "country": "Pakistan",
+      "price_usd_per_ldt": 595.0,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "segment": "Bulkers",
+      "country": "Turkey",
+      "price_usd_per_ldt": 290.0,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "segment": "Tankers",
+      "country": "Turkey",
+      "price_usd_per_ldt": 300.0,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    }
+  ],
+  "indicative_secondhand_prices": [
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "sector": "Dry",
+      "vessel_type": "Capesize",
+      "tenor": "Resale",
+      "price_usd_mill": 53.7,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "sector": "Dry",
+      "vessel_type": "Capesize",
+      "tenor": "5 Year",
+      "price_usd_mill": 43.8,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "sector": "Dry",
+      "vessel_type": "Capesize",
+      "tenor": "10 Year",
+      "price_usd_mill": 30.6,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "sector": "Dry",
+      "vessel_type": "Capesize",
+      "tenor": "15 Year",
+      "price_usd_mill": 20.6,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "sector": "Dry",
+      "vessel_type": "Kamsarmax",
+      "tenor": "Resale",
+      "price_usd_mill": 35.9,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "sector": "Dry",
+      "vessel_type": "Kamsarmax",
+      "tenor": "5 Year",
+      "price_usd_mill": 30.8,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "sector": "Dry",
+      "vessel_type": "Panamax",
+      "tenor": "10 Year",
+      "price_usd_mill": 22.8,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "sector": "Dry",
+      "vessel_type": "Panamax",
+      "tenor": "15 Year",
+      "price_usd_mill": 16.6,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "sector": "Dry",
+      "vessel_type": "Ultramax",
+      "tenor": "Resale",
+      "price_usd_mill": 33.9,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "sector": "Dry",
+      "vessel_type": "Ultramax",
+      "tenor": "5 Year",
+      "price_usd_mill": 28.7,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "sector": "Dry",
+      "vessel_type": "Supramax",
+      "tenor": "10 Year",
+      "price_usd_mill": 19.0,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "sector": "Dry",
+      "vessel_type": "Supramax",
+      "tenor": "15 Year",
+      "price_usd_mill": 13.8,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "sector": "Dry",
+      "vessel_type": "Handysize",
+      "tenor": "Resale",
+      "price_usd_mill": 28.0,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "sector": "Dry",
+      "vessel_type": "Handysize",
+      "tenor": "5 Year",
+      "price_usd_mill": 22.7,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "sector": "Dry",
+      "vessel_type": "Handysize",
+      "tenor": "10 Year",
+      "price_usd_mill": 16.0,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "sector": "Dry",
+      "vessel_type": "Handysize",
+      "tenor": "15 Year",
+      "price_usd_mill": 9.3,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "sector": "Tanker",
+      "vessel_type": "VLCC",
+      "tenor": "Resale",
+      "price_usd_mill": 97.0,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "sector": "Tanker",
+      "vessel_type": "VLCC",
+      "tenor": "5 Year",
+      "price_usd_mill": 72.2,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "sector": "Tanker",
+      "vessel_type": "VLCC",
+      "tenor": "10 Year",
+      "price_usd_mill": 50.2,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "sector": "Tanker",
+      "vessel_type": "VLCC",
+      "tenor": "15 Year",
+      "price_usd_mill": 36.2,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "sector": "Tanker",
+      "vessel_type": "Suezmax",
+      "tenor": "Resale",
+      "price_usd_mill": 66.9,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "sector": "Tanker",
+      "vessel_type": "Suezmax",
+      "tenor": "5 Year",
+      "price_usd_mill": 49.0,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "sector": "Tanker",
+      "vessel_type": "Suezmax",
+      "tenor": "10 Year",
+      "price_usd_mill": 33.2,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "sector": "Tanker",
+      "vessel_type": "Suezmax",
+      "tenor": "15 Year",
+      "price_usd_mill": 22.1,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "sector": "Tanker",
+      "vessel_type": "Aframax",
+      "tenor": "Resale",
+      "price_usd_mill": 55.2,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "sector": "Tanker",
+      "vessel_type": "Aframax",
+      "tenor": "5 Year",
+      "price_usd_mill": 40.0,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "sector": "Tanker",
+      "vessel_type": "Aframax",
+      "tenor": "10 Year",
+      "price_usd_mill": 26.0,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "sector": "Tanker",
+      "vessel_type": "Aframax",
+      "tenor": "15 Year",
+      "price_usd_mill": 15.9,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "sector": "Tanker",
+      "vessel_type": "MR2",
+      "tenor": "Resale",
+      "price_usd_mill": 38.0,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "sector": "Tanker",
+      "vessel_type": "MR2",
+      "tenor": "5 Year",
+      "price_usd_mill": 28.0,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "sector": "Tanker",
+      "vessel_type": "MR2",
+      "tenor": "10 Year",
+      "price_usd_mill": 19.4,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    },
+    {
+      "issue_date": "2021-08-09",
+      "report_week": 31,
+      "sector": "Tanker",
+      "vessel_type": "MR2",
+      "tenor": "15 Year",
+      "price_usd_mill": 13.0,
+      "source_file": "xclusiv_2021_xclusiv_weekly_2021_08_09.pdf"
+    }
+  ],
+  "indicative_newbuilding_prices": []
+}

@@ -1,0 +1,43 @@
+---
+title: "Bulk Report – Week 6"
+date: "2025-02-07"
+display_date: "07 February 2025"
+year: 2025
+week: 6
+category: "dry"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2025/bulk-report-week-6.html"
+tags: ['Baltic Exchange', 'Dry Bulk', 'Freight Rates', 'Capesize', 'Panamax', 'Supramax', 'Handysize']
+word_count: 670
+sections_count: 4
+tables_count: 0
+source_file: "corpus/08-baltic/dry/2025/2025-02-07_bulk-report-week-6_dry.html"
+---
+
+# Bulk Report – Week 6
+
+**Date:** 07 February 2025  
+**Publisher:** Baltic Exchange | **Category:** Dry Bulk  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2025/bulk-report-week-6.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/dry/news/2025/bulk-report-week-6.html)  
+
+---
+
+### Capesize
+
+The Capesize market experienced a generally softer week, with the 5TC declining to $6,733 by Thursday then edging back up to $6,964 by the end of the week. Despite the Pacific showing signs of strength with a healthy cargo flow and tightening of tonnage early in the week, reported fixtures struggled to push levels higher. The C5 index hovered around the upper $6s to settle at $6,71 by weeks end. In the Atlantic, the North saw continued oversupply of tonnage, particularly on transatlantic routes, where limited cargo led to steep declines on C8, which fell to $4,257 by midweek. Some Fronthaul activity provided slight support, keeping the C9 index steady in the low $25,000s. Conditions from South Brazil and West Africa to China were relatively subdued, though bids and offers remained around the high $16s versus low $17 range. Despite some midweek positivity in the Pacific, overall sentiment remained weak.
+
+### Panamax
+
+Mixed market signals highlighted well with a volatile FFA market failed to dampen spirits in the Panamax sector, with significant gains made. Transatlantic volume remained thin still, but positive sentiment radiated from firmer rates on the fronthaul trips. South America mid-week became the market’s driving force, with the March arrival window absorbing several vessels at firmer rates compared to end February where rates inevitably became discounted. Typically, some of the well described units were able to achieve firmer levels, the headline rate of $13,000 delivery Singapore with various load options of EC South America/US Gulf and NC South America trip to Far East. This seemingly impacted positively on south positions in the Pacific basin despite limited fresh demand from Indonesia and Australia. NoPac rates appeared well supported all week, $10,500 agreed on 82,000-dwt delivery Japan for a NoPac round trip. Period activity was muted but reports emerged of an 85,000-dwt delivery Vietnam fixing at $14,00 basis 1 year period.
+
+### Ultramax/Supramax
+
+With the end of the widespread Lunar New Year holidays, the sector saw upward momentum return in most areas throughout the week. In the Atlantic, better numbers were seen than of late, a 63,000-dwt was heard fixed delivery EC South America for a fronthaul in the mid $11,000s and mid $100,000s ballast bonus. Elsewhere, a 58,000-dwt fixed a trip delivery SW Pass redelivery Buenaventura at $13,100. Asia saw a significant increase inactivity again this renewed interest helped push rates up. A 53,000-dwt fixing delivery North China for a trip to Bangladesh at $9,000. Further south, a 55,000-dwt fixed delivery Singapore for a trip to China at $8,500 with option redelivery SE Asia at $8,000. From the Indian Ocean, a 64,000-dwt was heard fixed delivery Chittagong trip via Indonesia redelivery WC India at $7,000. Period interest was seen a 63,000-dwt open Germany fixed for 4/6 months trading redelivery worldwide at $12,250.
+
+### Handysize
+
+This week, the market displayed a mixed performance with slight movements across both basins. The Continent and Mediterranean regions saw some positive momentum, with rates edging slightly above previous levels and market appearing more supported. For instance, a 37,000-dwt reported fixed delivery Skaw via Riga to redelivery Morocco with grains at $8,250. Meanwhile, the South Atlantic also showed improvement as new requirements entered the market and tonnage availability tightened, prompting owners to raise their offers. A 35,000-dwt open Puerto Montt 2 - 3 Feb fixed delivery Recalada via upriver redelivery WC South America at $13,000. On the other hand, the U.S. Gulf market remained subdued and still showing signs of weakening support. A 38,000-dwt placed on subjects for SW Pass for redelivery West Coast Central America at $10,250. In Asia, activity began robustly, with an optimistic sentiment prevailing as the cargo book displayed healthy volumes. A 40,000-dwt fixed delivery Yeosu to redelivery Mumbai with steel coils at $7,750.
+
+---
+
+**Tags:** Baltic Exchange, Dry Bulk, Freight Rates, Capesize, Panamax, Supramax, Handysize  

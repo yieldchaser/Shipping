@@ -1,0 +1,37 @@
+{
+  "stem": "carriers_2026_W28_CARRIERS_WEEK_28",
+  "issue_date": "2026-07-06",
+  "report_week": 28,
+  "source_file": "carriers_2026_W28_CARRIERS_WEEK_28.pdf",
+  "pages_total": 6,
+  "substantive_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "counts": {
+    "sales": 0,
+    "demolition": 0,
+    "newbuilding": 0,
+    "bspa": 0,
+    "bda": 0,
+    "indices": 0,
+    "weighted_routes": 0,
+    "tc_period": 0,
+    "tanker_tce": 0
+  },
+  "tables": {
+    "sales": [],
+    "demolition": [],
+    "newbuilding": [],
+    "bspa": [],
+    "bda": [],
+    "indices": [],
+    "weighted_routes": [],
+    "tc_period": [],
+    "tanker_tce": []
+  }
+}

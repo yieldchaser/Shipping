@@ -1,0 +1,70 @@
+{
+  "issue_date": "2007-12-28",
+  "year": 2007,
+  "title": "Peak Month Theory",
+  "source_file": "corpus/04-poten/pdfs/2007/Tanker_Opinion_20071228.pdf",
+  "tables_count": 1,
+  "charts_count": 1,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2007-12-28_peak-month-theory_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2007/poten_2007-12-28_peak-month-theory_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-12-28_peak-month-theory_chart1.png",
+      "width": 434,
+      "height": 358
+    }
+  ],
+  "tables": [
+    "| Rank | Charterer | Reported Total Cargo (MT 000s) | % of Total Dirty Cargoes | Prev Rank | Fixtures |\n| --- | --- | --- | --- | --- | --- |\n| 1 | $212,270 |  |  | 1 | 2005 |\n| 2 | $86,037 |  |  | 2 | 2007 |\n| 3 | $205,500 |  |  | 6 |  |"
+  ],
+  "charterers_count": 3,
+  "charterer_rows": [
+    {
+      "rank": 1,
+      "charterer": "$212,270",
+      "cargo_mt_000s": "",
+      "pct_total_cargo": "",
+      "fixtures_count": "2005",
+      "pct_fixtures": "",
+      "prev_rank": "1",
+      "issue_date": "2007-12-28",
+      "year": 2007,
+      "report_period": "2006",
+      "segment": "Overall",
+      "source_file": "corpus/04-poten/pdfs/2007/Tanker_Opinion_20071228.pdf"
+    },
+    {
+      "rank": 2,
+      "charterer": "$86,037",
+      "cargo_mt_000s": "",
+      "pct_total_cargo": "",
+      "fixtures_count": "2007",
+      "pct_fixtures": "",
+      "prev_rank": "2",
+      "issue_date": "2007-12-28",
+      "year": 2007,
+      "report_period": "2006",
+      "segment": "Overall",
+      "source_file": "corpus/04-poten/pdfs/2007/Tanker_Opinion_20071228.pdf"
+    },
+    {
+      "rank": 3,
+      "charterer": "$205,500",
+      "cargo_mt_000s": "",
+      "pct_total_cargo": "",
+      "fixtures_count": "",
+      "pct_fixtures": "",
+      "prev_rank": "6",
+      "issue_date": "2007-12-28",
+      "year": 2007,
+      "report_period": "2006",
+      "segment": "Overall",
+      "source_file": "corpus/04-poten/pdfs/2007/Tanker_Opinion_20071228.pdf"
+    }
+  ],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

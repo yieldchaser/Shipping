@@ -1,3 +1,22 @@
+**THIS RUN (2026-10-06 12:1x-12:3x, source-by-source, 30m job) - LEDGER 4.3 RE-KEY INDEPENDENTLY RE-VERIFIED WITH MY OWN CONTROL and the register pickup CONFIRMED; nothing left to extract (re-enumerated). No extraction job of ours was running.**
+
+Branch `auto/extract-fixes-2026-10-06-deepreview` (HEAD 71647b8e6 == upstream, pushed). Live python = Hermes gateway + code_review_graph, none of ours.
+
+**1. Ledger 4.3 (intermodal macro daily re-key) re-verified by MY OWN control, not the prior run's.** `data/extracted/series/intermodal_macro_daily_series.csv` = **22,760 rows** vs the wide 4,818 (scratch/verify_daily_macro*.py). `day_offset == 0` value == wide `latest_value` on **4,552/4,552, 0 None, 0 mismatch**. Within every (indicator x issue_date) group (**4,552 groups / 253 issues**) day_offset is contiguous 0..n-1 (**0 violations**) and consecutive print_date steps are **exactly 1 day (0 violations)**. Wide file md5 `cceecc8098203c6c7b4cd1c7b7100271` unchanged (control). Ledger 4.3 CLOSED on evidence this run produced.
+
+**2. Register pickup CONFIRMED.** `docs/EXTRACTION_REGISTER.md` section 2 lists `intermodal_macro_daily_series.csv | 22,760 | Verified`. `python3 scripts/extract/verify_registers.py` = **ALL VERIFICATION CHECKS PASSED** (disk 175 CSVs / 630,310 logical rows == JSON == MD; 0 mismatches; 0 control chars/emoji).
+
+**3. NOTE (not ours, do not commit blindly).** The COMMITTED register is STALE (273,254 rows / 98 CSVs) vs the working-tree regenerated one (630,615 / 175 CSVs). The regen is CORRECT (disk == register), but it is an UNCOMMITTED working-tree change from the parallel automation - I did not commit it.
+
+**4. Gate branch vs origin/main RE-VERIFIED.** `EXTERNAL_UNAVAILABLE_LINKED_PREFIXES` exists in our HEAD (`scripts/validate_knowledge.py:82,422`) and is **ABSENT from origin/main (a6df3c82e)**. So the restored mapping-aware fatal gate is still FEATURE-BRANCH-ONLY; origin/main's fatal accounting stays dead. Merge remains the user's call.
+
+**5. Nothing to extract - re-enumerated.** Every `corpus/*` folder has an md tier (24 md dirs). 01-brokers 3,099 pdf, 02-hellenic 8,027, 04-poten 1,087, 06-drewry 288, 09-ppa 518, archive 724 (all >180d, BACKFILL_ONLY). No unbuilt source.
+
+**6. Cadence audit did NOT complete.** `scripts/audit/generate_cadence_audit.py` ran >420 s with a 0-byte log (its REGISTRY_DATA is hardcoded, not glob-derived; it hung before emitting). Not our critical path (verify_registers is the register gate and passes). Flagged, not chased - do not re-run blind.
+
+**NEXT RUN:** (a) nothing to EXTRACT, no ledger defect open. (b) carried items are the user's: merge the linked-asset gate branch (item 4) and the inventory/DB-rebuild decisions. (c) the committed register is stale vs disk - a human/automation should commit the regenerated 630k/175 version (verified correct, but not this job's diff).
+
+---
 **THIS RUN (2026-10-06 11:0x-11:4x, source-by-source, 30m job) - THE LAST CARRIED LEDGER ITEM IS CLOSED: intermodal macro (ledger 4.3) RE-KEYED to its date columns, 22,760 daily rows, control 4,552/4,552 vs the wide file, 0 mismatch. Evidence docs/intermodal_macro_423_verdict.md.**
 
 Branch `auto/extract-fixes-2026-10-06-deepreview` (HEAD d13f51249, pushed). Working tree had 15 modified files, only 3 of ours (the rest pre-existing, not touched). No extraction job of ours was running (live python = 2x Hermes gateway, proxy_gateway, code_review_graph serve).

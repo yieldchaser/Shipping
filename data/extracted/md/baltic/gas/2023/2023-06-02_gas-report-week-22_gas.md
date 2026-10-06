@@ -1,0 +1,39 @@
+---
+title: "Gas Report - Week 22"
+date: "2023-06-02"
+display_date: "02 June 2023"
+year: 2023
+week: 22
+category: "gas"
+source: "Baltic Exchange"
+url: "http://www.balticexchange.com/en/data-services/WeeklyRoundup/Gas/News/2023/gas-report-week-22.html"
+tags: ['Baltic Exchange', 'Gas', 'Freight Rates', 'VLGC', 'LNG', 'LPG']
+word_count: 456
+sections_count: 2
+tables_count: 0
+source_file: "corpus/08-baltic/gas/2023/2023-06-02_gas-report-week-22_gas.html"
+---
+
+# Gas Report - Week 22
+
+**Date:** 02 June 2023  
+**Publisher:** Baltic Exchange | **Category:** Gas  
+**Original URL:** [http://www.balticexchange.com/en/data-services/WeeklyRoundup/Gas/News/2023/gas-report-week-22.html](http://www.balticexchange.com/en/data-services/WeeklyRoundup/Gas/News/2023/gas-report-week-22.html)  
+
+---
+
+### LNG
+
+Without many actual market fixtures taking place, the LNG spot market did see increased rates across the board on all three routes. With the ARB opening expectation, there will be an influx of cargoes and opportunities for traders to begin moving cargo. This has created some uncertainty in the list with ships shown being removed or held back on the expectation that traders will create internal program, which further helps the rate gain. The greatest increase was seen in BLNG3g as expected from last week where a rise of $11,740 per day gave a Round Voyage rate of $48,531, while BLNG2g Houston-Cont saw $7,611 rise to a Round Voyage rate of $40,236. It would be pre-emptive to say this rise shall continue, as we would need to see physical fixtures to support it, but brokers are optimistic and feel that the next few months should see the spot LNG brought out of the doldrums of the last quarter.
+
+For BLNG1g Aus-Japan a modest rise of $2,981 gave us an index Round Voyage at $40,351 and, although focus has been on what improvements can be made in the West on rates, the East sees similar interest from market participants. Rates went positive in a quick turnaround from the end of the previous week where a drop of a few thousand pre-empted brokers to adjust their opinions and look at the positives in market macro-economics.
+
+### LPG
+
+The Eastern LPG market has seen a slight boom this week with a rise of $8 from $107.29 to close at $115.429. This is driven mainly by a good steady stream of cargoes and a tighter tonnage list going into mid-June. It is a stronger market by far than the same time last year, when heading into the summer rates were $25-35 lower than the levels we have seen in 2023 and the levels we are achieving running into summer weren’t really repeated until the stronger winter market of 2022. Strong footing, higher sentiment and healthy earnings will keep BLPG1 looking strong.
+
+Out in the West it was a different story with a more subdued fixing the rates came off slightly. BLPG1 Houston-Chiba fell by $1 to close at $156.143 with a TCE daily earnings of $84,576, while BLPG2 Houston-Flushing saw little movement at all and finished $0.4 cents down at $95.2 with a daily TCE earning of $111,082. Few fixtures kept sentiment and optimism low and with delays still in Panama there could have been expectation of a rise but with ships available for fixing for the end of June and early July this did not materialise.
+
+---
+
+**Tags:** Baltic Exchange, Gas, Freight Rates, VLGC, LNG, LPG  

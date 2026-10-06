@@ -1,0 +1,52 @@
+{
+  "issue_date": "2014-06-13",
+  "year": 2014,
+  "title": "Putting the Mess in Mesopotamia",
+  "source_file": "corpus/04-poten/pdfs/2014/Tanker_Opinion_20140613.pdf",
+  "tables_count": 0,
+  "charts_count": 4,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2014-06-13_putting-the-mess-in-mesopotamia_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2014/poten_2014-06-13_putting-the-mess-in-mesopotamia_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-06-13_putting-the-mess-in-mesopotamia_chart1.png",
+      "width": 712,
+      "height": 1224
+    },
+    {
+      "chart_num": 2,
+      "page": 0,
+      "file_name": "poten_2014-06-13_putting-the-mess-in-mesopotamia_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2014/poten_2014-06-13_putting-the-mess-in-mesopotamia_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-06-13_putting-the-mess-in-mesopotamia_chart2.png",
+      "width": 973,
+      "height": 697
+    },
+    {
+      "chart_num": 3,
+      "page": 0,
+      "file_name": "poten_2014-06-13_putting-the-mess-in-mesopotamia_chart3.png",
+      "rel_path": "data/extracted/charts/poten/2014/poten_2014-06-13_putting-the-mess-in-mesopotamia_chart3.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-06-13_putting-the-mess-in-mesopotamia_chart3.png",
+      "width": 964,
+      "height": 519
+    },
+    {
+      "chart_num": 4,
+      "page": 0,
+      "file_name": "poten_2014-06-13_putting-the-mess-in-mesopotamia_chart4.png",
+      "rel_path": "data/extracted/charts/poten/2014/poten_2014-06-13_putting-the-mess-in-mesopotamia_chart4.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-06-13_putting-the-mess-in-mesopotamia_chart4.png",
+      "width": 694,
+      "height": 622
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

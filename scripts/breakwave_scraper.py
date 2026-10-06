@@ -373,9 +373,31 @@ def collect_links(category: str, year_filter: int | None = None) -> list[dict]:
     return unique
 
 
+def _load_untracked_inventory() -> set[str]:
+    inv_path = REPO_ROOT / "corpus" / "_inventory_untracked.json" if "REPO_ROOT" in globals() else Path(__file__).resolve().parent.parent / "corpus" / "_inventory_untracked.json"
+    if not inv_path.exists():
+        return set()
+    try:
+        import json
+        data = json.loads(inv_path.read_text(encoding="utf-8"))
+        items = data.get("entries") or data.get("files") or []
+        return {
+            str(f.get("path", "")).replace("\\", "/")
+            for f in items
+            if (f.get("bytes") or f.get("size_bytes") or 0) > 10_000
+        }
+    except Exception:
+        return set()
+
+
+UNTRACKED_INVENTORY = _load_untracked_inventory()
+
+
 def run(category: str, dry_run: bool, year_filter: int | None):
     label = "Dry Bulk" if category == "dry" else "Tankers"
     folder_root = breakwave_root(category)
+    repo_root = Path(__file__).resolve().parent.parent
+    md_cat = "drybulk" if category == "dry" else "tankers"
     print(f"\n{'═'*62}")
     print(f"  Breakwave {label} — {'DRY RUN' if dry_run else 'DOWNLOAD'}")
     print(f"  Output root: {folder_root}")
@@ -389,6 +411,20 @@ def run(category: str, dry_run: bool, year_filter: int | None):
         date: datetime = item["date"]
         href: str      = item["href"]
         source: str    = item["source"]
+
+        expected_name = make_filename(category, date, ".pdf")
+        expected_dest = folder_root / str(date.year) / expected_name
+        rel_dest = str(expected_dest.relative_to(repo_root)).replace("\\", "/")
+        expected_md = repo_root / "data" / "extracted" / "md" / "breakwave" / md_cat / str(date.year) / f"{expected_dest.stem}.md"
+
+        if not dry_run and (
+            (expected_dest.exists() and expected_dest.stat().st_size > 10_000)
+            or rel_dest in UNTRACKED_INVENTORY
+            or (expected_md.exists() and expected_md.stat().st_size > 200)
+        ):
+            print(f"  📅 {date.strftime('%Y-%m-%d')}  ✓ skip (cached/extracted): {expected_name}")
+            ok += 1
+            continue
 
         print(f"  📅 {date.strftime('%Y-%m-%d')}  {href[:70]}")
 

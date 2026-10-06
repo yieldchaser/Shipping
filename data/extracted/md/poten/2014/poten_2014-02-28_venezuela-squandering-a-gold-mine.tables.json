@@ -1,0 +1,43 @@
+{
+  "issue_date": "2014-02-28",
+  "year": 2014,
+  "title": "Venezuela: Squandering a Gold Mine",
+  "source_file": "corpus/04-poten/pdfs/2014/Tanker_Opinion_20140228.pdf",
+  "tables_count": 0,
+  "charts_count": 3,
+  "charts": [
+    {
+      "chart_num": 1,
+      "page": 0,
+      "file_name": "poten_2014-02-28_venezuela-squandering-a-gold-mine_chart1.png",
+      "rel_path": "data/extracted/charts/poten/2014/poten_2014-02-28_venezuela-squandering-a-gold-mine_chart1.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-02-28_venezuela-squandering-a-gold-mine_chart1.png",
+      "width": 1104,
+      "height": 734
+    },
+    {
+      "chart_num": 2,
+      "page": 1,
+      "file_name": "poten_2014-02-28_venezuela-squandering-a-gold-mine_chart2.png",
+      "rel_path": "data/extracted/charts/poten/2014/poten_2014-02-28_venezuela-squandering-a-gold-mine_chart2.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-02-28_venezuela-squandering-a-gold-mine_chart2.png",
+      "width": 1113,
+      "height": 715
+    },
+    {
+      "chart_num": 3,
+      "page": 1,
+      "file_name": "poten_2014-02-28_venezuela-squandering-a-gold-mine_chart3.png",
+      "rel_path": "data/extracted/charts/poten/2014/poten_2014-02-28_venezuela-squandering-a-gold-mine_chart3.png",
+      "abs_path": "C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-02-28_venezuela-squandering-a-gold-mine_chart3.png",
+      "width": 1141,
+      "height": 707
+    }
+  ],
+  "tables": [],
+  "charterers_count": 0,
+  "charterer_rows": [],
+  "orderbook_age_rows": [],
+  "fleet_statistics_rows": [],
+  "delivery_schedule_rows": []
+}

@@ -1,0 +1,885 @@
+{
+  "stem": "xclusiv_2024_xclusiv-2024_12_16_compressed",
+  "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf",
+  "issue_date": "2024-12-16",
+  "report_week": 50,
+  "pages": 9,
+  "useful_pages": 7,
+  "editorial_title": "MARKET COMMENTARY:",
+  "nutshell": [
+    "- The dry market experienced significant volatility in 2024,",
+    "- with significant declines across all segments. (Page 1)",
+    "- While prices corrected from summer highs, they returned to",
+    "- levels similar to the beginning of the year, albeit with lower",
+    "- freight rates. (Page 1)",
+    "- Secondhand vessel sales surged in 2024, with Smax and",
+    "- Handy segments seeing the highest buying interest.  (Page 1)",
+    "- Newbuilding activity remained strong, with Ultramax and",
+    "- Kamsarmax segments leading the way. (Page 1)",
+    "- Dry orderbook-to-fleet ratio increased to 10.2% in Nov 2024,",
+    "- indicating a healthy demand for new vessels. . (Page 1)"
+  ],
+  "market_commentary": [
+    "As 2024 draws to a close with just two weeks remaining, a review of the dry bulk market reveals a volatile year marked by significant declines across all segments. The Baltic Exchange Timecharter averages tell a story of sub- stantial deterioration, with Cape 5 T/C Routes experienc- ing the steepest decline of 65% from their January levels, followed by drops in the Panamax segment where BPI-82 & BPI-74 routes fell by 47% & 51% respectively. The Su- pramax segment showed relatively better resilience with BSI-63 & BSI-58 routes declining by 27% & 30%, while the Handy segment demonstrated the most stability with BHSI-38 routes down 23%. Throughout the year, the Cape market's volatility was evident as rates peaked at $35,780/day before plummeting to $10,382 on December 12. The Pmax segment saw its highest points at $20,757/day & $19,421/day for 82K & 74K vessels respectively, before reaching their lowest points around $8,955/day & $7,619/ day on December 13. The Umax/Smax segment wasn't spared, with both BSI-63 & BSI-58 hitting their lowest points on December 13 at $12,117/day & $10,083/day, a significant drop from their peaks of $18,476/day & $16,441/day. The Handy segment showed the least volatility, moving between $14,537/day & $10,197/day within 2024.This market weakness has inevitably impacted vessel values in the second hand market, with a particularly pronounced decline since early September. Notable examples include a 82K 2019 Tsuneishi Cebu-built vessel selling for approximately $37 mills in July, while a same age 82K Tsuneishi Cebu-built vessel sold for around $34 mills in late November. In the Ultra- max segment, 61K 2017 DACKS-built vessels saw their values drop from $27.8 mills in August to $24.5 mills in late No- vember. The Supramax segment witnessed similar trends, with a 57K 2009 Jiangsu Hantong-built vessel selling for $13 mills in July, while a sister vessel, one year younger, sold at the same price of $13 mills in December. It is worth noting that, although prices have corrected from their summer peaks, they have returned to levels comparable to the begin- ning of 2024, albeit with significantly reduced freight rates.",
+    "The demand for second-hand dry bulk vessels (>= 10,000 DWT) has experienced a significant surge during 2024, with more than 790 ships changing hands, around 16% up compared to the similar period of 2023 when a total of 685 vessels were sold. The Smax & Handy sectors have noted the highest buying appetite in 2024 with 181 and 177 sales respectively, constituting around 23% and 22% accordingly out of total bulk carrier sales. The Cape sec- tor ranks third in terms of buyer interest, with 91 vessels sold. Umax, Pmax, and Kamsar sectors have recorded almost similar transaction volumes this year, with 64, 67, and 74 sales respectively. Nearly half of the sales were for vessels aged 11- 15 years old, followed by 16-20-year- old vessels, which accounted for 18% of all bulk carrier sales, while 6-10 years old vessels were also high on buying appetite with a share of 16% out of total sales. Dry bulk newbuilding momentum remains strong, though it has slowed down compared to a year ago. During the first 11 months of 2024, a total of 449 contracts were signed, 20% down from the same period in 2023 when 560 orders were placed. Umax and Kamsar sectors drive the NB activity in 2024, with 171 and 116 orders respectively. As of November 2024, the dry bulk orderbook-to-fleet ratio (in terms of DWT) stood at 10.2%, while in the same period of 2023 was 8.2%, with dry bulk fleet currently standing at 14,013 vessels, while the total bulk carrier orderbook at 1,324 vessels."
+  ],
+  "baltic_indices": [
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Dry",
+      "index_name": "BDI",
+      "index_value": 1051.0,
+      "prev_value": 1167.0,
+      "change_pct": "-9.9%",
+      "avg_year_1": 1777.0,
+      "avg_year_2": 1387.0,
+      "avg_year_3": 1941.0,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Dry",
+      "index_name": "BCI",
+      "index_value": 1263.0,
+      "prev_value": 1535.0,
+      "change_pct": "-17.7%",
+      "avg_year_1": 2767.0,
+      "avg_year_2": 1989.0,
+      "avg_year_3": 1951.0,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Dry",
+      "index_name": "BPI",
+      "index_value": 995.0,
+      "prev_value": 1067.0,
+      "change_pct": "-6.7%",
+      "avg_year_1": 1587.0,
+      "avg_year_2": 1437.0,
+      "avg_year_3": 2314.0,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Dry",
+      "index_name": "BSI",
+      "index_value": 959.0,
+      "prev_value": 974.0,
+      "change_pct": "-1.5%",
+      "avg_year_1": 1252.0,
+      "avg_year_2": 1029.0,
+      "avg_year_3": 2027.0,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Dry",
+      "index_name": "BHSI",
+      "index_value": 618.0,
+      "prev_value": 644.0,
+      "change_pct": "-4.0%",
+      "avg_year_1": 707.0,
+      "avg_year_2": 582.0,
+      "avg_year_3": 1193.0,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Wet",
+      "index_name": "BDTI",
+      "index_value": 921.0,
+      "prev_value": 943.0,
+      "change_pct": "-2.3%",
+      "avg_year_1": 1099.0,
+      "avg_year_2": 1144.0,
+      "avg_year_3": 1388.0,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Wet",
+      "index_name": "BCTI",
+      "index_value": 661.0,
+      "prev_value": 625.0,
+      "change_pct": "5.8%",
+      "avg_year_1": 826.0,
+      "avg_year_2": 802.0,
+      "avg_year_3": 1232.0,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    }
+  ],
+  "freight_commentary": {
+    "Dry Bulk Freight": "Capesize: The C5TC average declined by 2.3k/day closing the week at USD 10,474/day. Trip from Continent to F.East is down by 2.9k/day at USD 27,288/day, Transatlantic R/V is lower by 2.3k/day at USD 12,607/day, and Bolivar to Rotterdam is lower by 3k/day at USD 16,566/day, while Trans- pacific R/V is reduced by 2.5k/day at USD 8,809/ day. Trip from Tubarao to Rotterdam is down by 3.5k/day at USD 9,171/day, China-Brazil R/V is lower by 2.k/day at USD 7,915/day and finally trip from Saldanha Bay to Qinqdao is reduced by 3.5k/ day at USD 9,171/day. Scrubber fitted Capesize 1y T/C rate is USD 20,100/day, while eco 180k Capesize is USD 18,800/day.\n\nKamsarmax/Panamax: The Kamsarmax P5TC avg closed softer at USD 8,955/day. Panamax P4TC avg is down at USD 7,619/day. Trip from Skaw-Gib to F.East is softer by 0.6k/day at USD 14,591/day, Pacific R/V is down by 1.5k/day at USD 7,304/day, Transatlantic R/V is up by 0.6k/day at USD 9,410/ day & Spore R/V via Atlantic is down by 1.2k/day at USD 9,218/day. Skaw-Gibraltar transatlantic R/V (P1A_03) is up by 0.6k/day at USD 8,126/day, Skaw-Gibraltar trip to Taiwan-Japan (P2A_03) is reduced by 0.6k/day at USD 13,102/day & finally Japan-S. Korea Transpacific R/V (P3A_03) is down by 1.5k/day at USD 6,002/day. 1y T/C rate for Kamsarmax is down by 1.5k/day at USD 12,700/ day & Panamax is also softer at USD 11,700/day.\n\nUltramax/Supramax: Ultra S11TC avg is steady, at USD 15,832/day. Supra S10TC average is a shade lower at USD 10,083/day. Baltic Supramax Asia S3TC avg is 0.6k/day lower at USD 10,410/day. N.China one Australian or Pacific R/V is declined by 0.5k/day at USD 9,800/day, USG to Skaw Pas- sero is firmer by 0.8k/day at USD 21,414/day. S.China trip via Indonesia to EC India is down by 0.6k/day at USD 11,450/day, trip from S.China via Indonesia to S.China pays USD 10,253/day, while Med/B.Sea to China/S.Korea is reduced by 0.4k/ day at USD 15,033/day. 1y T/C rate for Ultramax is USD 13,450/day. 1y T/C rate for Supramax is slightly softer at USD 12,200/day.\n\nHandysize: The HS7TC avg closed the week down by 0.5k/day at USD 11,133/day. Skaw-Passero trip to Boston-Galveston pays 0.6k/day less at USD 8,879/day, Brazil to Cont. pays 0.5k/day less at USD 15,828/day, S.E. Asia trip to Spore/Japan is softer by 0.6k/day at USD 11,475/day, China/S.Korea/Japan R/V is reduced by 0.4k/day at USD 11,106/day & trip from U.S. Gulf to Cont. is reduced by 0.3k/day at USD 12,550/day, while N.China-S.Korea-Japan trip to S.E.Asia is reduced by 0.4k/day at USD 10,788/day. 1y T/C rate for 38K Handy is USD 12,250/day while 32k Handy 1y T/C is softer at USD 10,800/day in Atlantic and USD 10,700/day in Pacific region.",
+    "Tanker Freight": "VLCC: average T/CE is down by 3.1k/day at USD 24,936/day. Middle East Gulf to China trip is down by 4k/day at USD 17,598/day. West Africa to China trip is down by 2.7k/day at USD 26,111/day and US Gulf to China trip is down by 2.4k/day at USD 31,099/day. 1y T/C Rate for 310k dwt D/H Eco VLCC is USD 44,250/day.\n\nSuezmax: average T/CE closed the week softer by 2.4k/day at USD 32,432/day. West Africa to Conti- nent trip is down by 2.7k/day at USD 32,153/day, Black Sea to Mediterranean is down by 2.2k/day at USD 32,711/day, and Middle East Gulf to Med trip is slightly down at USD 38,378/day, while trip from Guyana to ARA is reduced by 3.5k/day at USD 30,702/day. 1y T/C Rate for 150k dwt D/H Eco Su- ezmax is USD 1k/day lower since last week, at USD 36,250/day.\n\nAframax: average T/CE closed the week lower by 2.4k/day at USD 34,291/day. North Sea to Conti- nent trip is up by 2k/day at USD 33,103/day, Ku- wait to Singapore is down by 1.1k/day at USD 29,408/day, while route from Caribbean to US Gulf trip is down by 3.5k/day at USD 38,620/day. Trip from South East Asia to East Coast Australia is slightly down by 0.6k/day at USD 23,377/day & Cross Mediterranean trip is steady at USD 38,509/ day. US Gulf to UK-Continent is down by 10.4k/day at USD 38,096/day and the East Coast Mexico to US Gulf trip is down by USD 4.4k/day at USD 43,255/day. 1y T/C Rate for 110k dwt D/H Eco Aframax is USD 2,250/day lower since last week, at USD 35,250/day.\n\nProducts: The LR2 route (TC1) Middle East to Ja- pan is this week shade higher at USD 20,267/day. Trip from (TC15) Med to Far East has increased by 0.8k/day at USD 10,356/day and (TC20) AG to UK Continent is down by 2.2k/day at USD 24,793/day. The LR1 route (TC5) from Middle East Gulf to Ja- pan is slightly down at USD 11,955/day, while the (TC8) Middle East Gulf to UK-Continent is down by 2.2k/day at USD 24,793/day and the (TC16) Am- sterdam to Lome trip is improved by 0.8k/day at USD 10,356/day. MR Atlantic Basket is increased by 4.7k/day at USD 33,435/day & the MR Pacific Basket earnings are up by 0.7k/day at USD 15,153/ day. The MR route from Rotterdam to New York (TC2) is a shade up at USD 20,267/day, (TC6) Intermed (Algeria to Euro Med) earnings are marginally softer at USD 11,955/day, (TC14) US Gulf to Continent is up by 0.7k/day at USD 9,317/day, (TC18) US Gulf to Brazil earnings are higher by 0.5k/day at USD 18,770/day, (TC23) Amsterdam to Le Havre is lower by 1k/day at USD 15,034/day while Yeosu to Botany Bay (TC22) is firmer by 8.6k/day at USD 21,846/day & ARA to West Africa (TC19) is up by 1.1k/day at USD 31,781/day. 1y T/C rate for Eco LR2 is softer at USD 35,250/day, and for Eco MR2 is also down at USD 22,750/day."
+  },
+  "dry_snp_activity": "On the Capesize sector, the “Zampa Blue” - 178K/2011 Mitsui was sold for USD 30 mills, while on the same sector, Chinese buyers acquired the “Feg Success” - 183K/2010 Kawasaki for USD 28 mills. Greek buyers acquired the Supramax “Indigo Omega” - 56K/2012 Mitsui for USD 17.2 mills. On the Handysize sector, the “Oak Harbour” - 34K/2005 Oshima was sold for USD 8.8 mills.",
+  "wet_snp_activity": "On the VLCC sector, the Scrubber fitted “DHT Scandi- navia” - 318K/2006 Hyundai Samho was sold for USD 43.3 mills to Chinese buyers. On the MR2 sector the “Torm Republican”- 47K/2006 HMD changed hands for USD 18 mills, while the Scrubber fitted “Torm Helvig”- 46K/2005 STX found new owners for USD 18 mills",
+  "reported_sales": [
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "section": "Bulk Carriers",
+      "page": 5,
+      "NAME": "ZAMPA BLUE",
+      "TYPE": "Capesize",
+      "DWT": "178,459",
+      "YEAR": "2011",
+      "COUNTRY": "JAPAN",
+      "YARD": "MITSUI",
+      "BUYERS": "UNDISCLOSED",
+      "PRICE": "30",
+      "PRICE_USD_MILL": 30.0,
+      "COMMENTS": "",
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "section": "Bulk Carriers",
+      "page": 5,
+      "NAME": "FEG SUCCESS",
+      "TYPE": "Capesize",
+      "DWT": "182,619",
+      "YEAR": "2010",
+      "COUNTRY": "JAPAN",
+      "YARD": "KAWASAKI",
+      "BUYERS": "CHINESE",
+      "PRICE": "28",
+      "PRICE_USD_MILL": 28.0,
+      "COMMENTS": "",
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "section": "Bulk Carriers",
+      "page": 5,
+      "NAME": "CHANDRA KIRANA",
+      "TYPE": "Panamax",
+      "DWT": "75,700",
+      "YEAR": "2012",
+      "COUNTRY": "CHINA",
+      "YARD": "GUANGZHOU HUANGPU",
+      "BUYERS": "CHINESE",
+      "PRICE": "12",
+      "PRICE_USD_MILL": 12.0,
+      "COMMENTS": "ALREADY DELIVERED",
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "section": "Bulk Carriers",
+      "page": 5,
+      "NAME": "INDIGO OMEGA",
+      "TYPE": "Supramax",
+      "DWT": "56,092",
+      "YEAR": "2012",
+      "COUNTRY": "JAPAN",
+      "YARD": "MITSUI",
+      "BUYERS": "GREEKS",
+      "PRICE": "17.2",
+      "PRICE_USD_MILL": 17.2,
+      "COMMENTS": "",
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "section": "Bulk Carriers",
+      "page": 5,
+      "NAME": "GLOBAL SAIKAI",
+      "TYPE": "Supramax",
+      "DWT": "51,828",
+      "YEAR": "2007",
+      "COUNTRY": "JAPAN",
+      "YARD": "OSHIMA",
+      "BUYERS": "UNDISCLOSED",
+      "PRICE": "12.2",
+      "PRICE_USD_MILL": 12.2,
+      "COMMENTS": "OHBS",
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "section": "Bulk Carriers",
+      "page": 5,
+      "NAME": "OAK HARBOUR",
+      "TYPE": "Handysize",
+      "DWT": "33,745",
+      "YEAR": "2005",
+      "COUNTRY": "JAPAN",
+      "YARD": "OSHIMA",
+      "BUYERS": "UNDISCLOSED",
+      "PRICE": "8.8",
+      "PRICE_USD_MILL": 8.8,
+      "COMMENTS": "",
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "section": "Tankers",
+      "page": 6,
+      "NAME": "DHT SCANDINAVIA",
+      "TYPE": "VLCC",
+      "DWT": "317,826",
+      "YEAR": "2006",
+      "COUNTRY": "S. KOREA",
+      "YARD": "HYUNDAI SAMHO",
+      "BUYERS": "CHINESE",
+      "PRICE": "43.3",
+      "PRICE_USD_MILL": 43.3,
+      "COMMENTS": "SCRUBBER FITTED",
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "section": "Tankers",
+      "page": 6,
+      "NAME": "TORM REPUBLICAN",
+      "TYPE": "MR2",
+      "DWT": "46,920",
+      "YEAR": "2006",
+      "COUNTRY": "S. KOREA",
+      "YARD": "HMD",
+      "BUYERS": "UNDISCLOSED",
+      "PRICE": "18",
+      "PRICE_USD_MILL": 18.0,
+      "COMMENTS": "",
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "section": "Tankers",
+      "page": 6,
+      "NAME": "TORM HELVIG",
+      "TYPE": "MR2",
+      "DWT": "46,081",
+      "YEAR": "2005",
+      "COUNTRY": "S. KOREA",
+      "YARD": "STX",
+      "BUYERS": "UNDISCLOSED",
+      "PRICE": "18",
+      "PRICE_USD_MILL": 18.0,
+      "COMMENTS": "SCRUBBER FITTED",
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    }
+  ],
+  "demo_sales": [
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "NAME": "NEW SKY",
+      "TYPE": "REEFER",
+      "YEAR": "1980",
+      "DWT": "4,395",
+      "LDT": "2,372",
+      "COUNTRY": "SPAIN",
+      "PRICE_RAW": "N/A",
+      "PRICE_USD_PER_LDT": "",
+      "BUYERS": "INDIA",
+      "COMMENTS": "",
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "NAME": "ATHINA 1",
+      "TYPE": "TANKER",
+      "YEAR": "1995",
+      "DWT": "96,001",
+      "LDT": "14,883",
+      "COUNTRY": "S. KOREA",
+      "PRICE_RAW": "N/A",
+      "PRICE_USD_PER_LDT": "",
+      "BUYERS": "UNDISCLOSED",
+      "COMMENTS": "",
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "NAME": "KELSEY 2",
+      "TYPE": "TANKER",
+      "YEAR": "2002",
+      "DWT": "8,424",
+      "LDT": "3,248",
+      "COUNTRY": "JAPAN",
+      "PRICE_RAW": "N/A",
+      "PRICE_USD_PER_LDT": "",
+      "BUYERS": "INDIA",
+      "COMMENTS": "",
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    }
+  ],
+  "newbuilding_orders": [
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "page": 4,
+      "type": "BC",
+      "units": "4",
+      "size": "210,000 DWT",
+      "yard": "BEIHAI",
+      "buyer": "MITSUI",
+      "price": "N/A",
+      "delivery": "2027-2028",
+      "comments": "DF METHANOL",
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "page": 4,
+      "type": "BC",
+      "units": "2",
+      "size": "89,000 DWT",
+      "yard": "WUHU",
+      "buyer": "GUOHANG OCEAN",
+      "price": "N/A",
+      "delivery": "2027",
+      "comments": "DF METHANOL",
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "page": 4,
+      "type": "TANKER",
+      "units": "4",
+      "size": "163,000 DWT",
+      "yard": "BEIHAI",
+      "buyer": "DYNACOM",
+      "price": "82 EACH",
+      "delivery": "2028",
+      "comments": "SCRUBBERS",
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "page": 4,
+      "type": "GC",
+      "units": "2",
+      "size": "5,200 DWT",
+      "yard": "JIANGSU DAJIN",
+      "buyer": "KONTOR 17",
+      "price": "N/A",
+      "delivery": "H2 2026",
+      "comments": "",
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "page": 4,
+      "type": "LNG",
+      "units": "1+1",
+      "size": "12,000 CBM",
+      "yard": "NANTONG CIMC SOE",
+      "buyer": "FUZHOU WUYANG",
+      "price": "N/A",
+      "delivery": "2027",
+      "comments": "BUNKERING, ICE CLASS",
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "page": 4,
+      "type": "LPG",
+      "units": "2",
+      "size": "7,500 CBM",
+      "yard": "CMJL YANGZHOU",
+      "buyer": "TRADEWINDS TANKERS",
+      "price": "33.75 EACH",
+      "delivery": "H2 2027",
+      "comments": "SEMI REF",
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "page": 4,
+      "type": "LPG",
+      "units": "2",
+      "size": "87,000 CBM",
+      "yard": "COSCO QIDONG",
+      "buyer": "COSCO SHIPPING",
+      "price": "N/A",
+      "delivery": "Q4 2027",
+      "comments": "",
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "page": 4,
+      "type": "RO-PAX",
+      "units": "2",
+      "size": "N/A",
+      "yard": "ARMON GIJON",
+      "buyer": "BALEARIA",
+      "price": "N/A",
+      "delivery": "2027",
+      "comments": "",
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "page": 4,
+      "type": "CONTAINER",
+      "units": "10",
+      "size": "24,000 TEU",
+      "yard": "HENGLI HEAVY",
+      "buyer": "MSC",
+      "price": "230 EACH",
+      "delivery": "2028-2029",
+      "comments": "DF LNG",
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    }
+  ],
+  "indicative_demolition_prices": [
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "segment": "Bulkers",
+      "country": "India",
+      "price_usd_per_ldt": 465.0,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "segment": "Bulkers",
+      "country": "Bangladesh",
+      "price_usd_per_ldt": 475.0,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "segment": "Bulkers",
+      "country": "Pakistan",
+      "price_usd_per_ldt": 460.0,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "segment": "Bulkers",
+      "country": "Turkey",
+      "price_usd_per_ldt": 325.0,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "segment": "Tankers",
+      "country": "India",
+      "price_usd_per_ldt": 480.0,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "segment": "Tankers",
+      "country": "Bangladesh",
+      "price_usd_per_ldt": 485.0,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "segment": "Tankers",
+      "country": "Pakistan",
+      "price_usd_per_ldt": 470.0,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "segment": "Tankers",
+      "country": "Turkey",
+      "price_usd_per_ldt": 335.0,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    }
+  ],
+  "indicative_secondhand_prices": [
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Dry",
+      "vessel_type": "Capesize",
+      "tenor": "Resale",
+      "price_usd_mill": 75.0,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Dry",
+      "vessel_type": "Capesize",
+      "tenor": "5 Year",
+      "price_usd_mill": 61.5,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Dry",
+      "vessel_type": "Capesize",
+      "tenor": "10 Year",
+      "price_usd_mill": 42.0,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Dry",
+      "vessel_type": "Capesize",
+      "tenor": "15 Year",
+      "price_usd_mill": 27.0,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Dry",
+      "vessel_type": "Kamsarmax",
+      "tenor": "Resale",
+      "price_usd_mill": 40.0,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Dry",
+      "vessel_type": "Kamsarmax",
+      "tenor": "5 Year",
+      "price_usd_mill": 34.5,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Dry",
+      "vessel_type": "Kamsarmax",
+      "tenor": "10 Year",
+      "price_usd_mill": 24.5,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Dry",
+      "vessel_type": "Kamsarmax",
+      "tenor": "15 Year",
+      "price_usd_mill": 15.8,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Dry",
+      "vessel_type": "Ultramax",
+      "tenor": "Resale",
+      "price_usd_mill": 39.0,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Dry",
+      "vessel_type": "Ultramax",
+      "tenor": "5 Year",
+      "price_usd_mill": 32.0,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Dry",
+      "vessel_type": "Ultramax",
+      "tenor": "10 Year",
+      "price_usd_mill": 23.0,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Dry",
+      "vessel_type": "Ultramax",
+      "tenor": "15 Year",
+      "price_usd_mill": 14.9,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Dry",
+      "vessel_type": "Handysize",
+      "tenor": "Resale",
+      "price_usd_mill": 33.5,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Dry",
+      "vessel_type": "Handysize",
+      "tenor": "5 Year",
+      "price_usd_mill": 26.3,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Dry",
+      "vessel_type": "Handysize",
+      "tenor": "10 Year",
+      "price_usd_mill": 18.5,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Dry",
+      "vessel_type": "Handysize",
+      "tenor": "15 Year",
+      "price_usd_mill": 11.9,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Tanker",
+      "vessel_type": "VLCC",
+      "tenor": "Resale",
+      "price_usd_mill": 148.0,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Tanker",
+      "vessel_type": "VLCC",
+      "tenor": "5 Year",
+      "price_usd_mill": 114.0,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Tanker",
+      "vessel_type": "VLCC",
+      "tenor": "10 Year",
+      "price_usd_mill": 84.5,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Tanker",
+      "vessel_type": "VLCC",
+      "tenor": "15 Year",
+      "price_usd_mill": 53.5,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Tanker",
+      "vessel_type": "Suezmax",
+      "tenor": "Resale",
+      "price_usd_mill": 96.7,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Tanker",
+      "vessel_type": "Suezmax",
+      "tenor": "5 Year",
+      "price_usd_mill": 77.0,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Tanker",
+      "vessel_type": "Suezmax",
+      "tenor": "10 Year",
+      "price_usd_mill": 60.5,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Tanker",
+      "vessel_type": "Suezmax",
+      "tenor": "15 Year",
+      "price_usd_mill": 40.5,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Tanker",
+      "vessel_type": "Aframax",
+      "tenor": "Resale",
+      "price_usd_mill": 82.5,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Tanker",
+      "vessel_type": "Aframax",
+      "tenor": "5 Year",
+      "price_usd_mill": 66.8,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Tanker",
+      "vessel_type": "Aframax",
+      "tenor": "10 Year",
+      "price_usd_mill": 51.5,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Tanker",
+      "vessel_type": "Aframax",
+      "tenor": "15 Year",
+      "price_usd_mill": 35.3,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Tanker",
+      "vessel_type": "MR2",
+      "tenor": "Resale",
+      "price_usd_mill": 52.5,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Tanker",
+      "vessel_type": "MR2",
+      "tenor": "5 Year",
+      "price_usd_mill": 42.5,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Tanker",
+      "vessel_type": "MR2",
+      "tenor": "10 Year",
+      "price_usd_mill": 32.8,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Tanker",
+      "vessel_type": "MR2",
+      "tenor": "15 Year",
+      "price_usd_mill": 21.8,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    }
+  ],
+  "indicative_newbuilding_prices": [
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Dry",
+      "vessel_type": "Capesize",
+      "price_usd_mill": 75.6,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Dry",
+      "vessel_type": "Kamsarmax",
+      "price_usd_mill": 39.0,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Dry",
+      "vessel_type": "Ultramax",
+      "price_usd_mill": 36.0,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Dry",
+      "vessel_type": "Handysize",
+      "price_usd_mill": 31.5,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Tanker",
+      "vessel_type": "VLCC",
+      "price_usd_mill": 129.0,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Tanker",
+      "vessel_type": "Suezmax",
+      "price_usd_mill": 89.5,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Tanker",
+      "vessel_type": "Aframax",
+      "price_usd_mill": 74.5,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Tanker",
+      "vessel_type": "Panamax",
+      "price_usd_mill": 61.5,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    },
+    {
+      "issue_date": "2024-12-16",
+      "report_week": 50,
+      "sector": "Tanker",
+      "vessel_type": "MR2",
+      "price_usd_mill": 51.6,
+      "source_file": "xclusiv_2024_xclusiv-2024_12_16_compressed.pdf"
+    }
+  ]
+}

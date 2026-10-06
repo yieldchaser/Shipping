@@ -1,0 +1,27 @@
+{
+  "report_id": "7577b017-daa3-475c-b100-3846b5bbe1d2",
+  "issue_date": "2024-07-17",
+  "year": 2024,
+  "department": "BULK",
+  "report_title": "Fearnleys Dry Bulk Weekly",
+  "shipment_volume_metrics": [],
+  "coal_futures_spread_metrics": [],
+  "time_charter_vs_asset_metrics": [],
+  "vessel_tightness_metrics": [],
+  "macro_correlation_metrics": [
+    {
+      "issue_date": "2024-07-17",
+      "year": "2024",
+      "department": "BULK",
+      "report_title": "Fearnleys Dry Bulk Weekly",
+      "macro_metric": "Iron Ore Price 3M Lead vs BCI5TC",
+      "freight_benchmark_val": 15719.3,
+      "macro_indicator_val": 127.4,
+      "lead_tenor": "3 Months",
+      "chart_title": "IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png",
+      "report_id": "7577b017-daa3-475c-b100-3846b5bbe1d2"
+    }
+  ],
+  "charts_count": 12,
+  "source_markdown": "2024-07-17_fearnleys-dry-bulk-weekly-17-july-2024-840.md"
+}

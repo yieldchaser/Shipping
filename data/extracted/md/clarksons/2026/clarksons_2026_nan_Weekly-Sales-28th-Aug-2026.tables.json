@@ -1,0 +1,46 @@
+{
+  "issue_date": "2026-08-28",
+  "printed_date": "28 Aug 2026",
+  "source_file": "clarksons_2026_nan_Weekly-Sales-28th-Aug-2026.pdf",
+  "sales_count": 2,
+  "demo_count": 0,
+  "sales": [
+    {
+      "issue_date": "2026-08-28",
+      "stem": "clarksons_2026_nan_Weekly-Sales-28th-Aug-2026",
+      "source_file": "clarksons_2026_nan_Weekly-Sales-28th-Aug-2026.pdf",
+      "section": "Bulker Sales",
+      "page": 2,
+      "NAME": "HARVEST",
+      "TYPE": "Supramax",
+      "DWT": "58,779",
+      "BUILT": "2008",
+      "YARD": "TSUNEISHI (ZHOUSHAN)",
+      "PRICE": "USD 13.8 M",
+      "BUYERS": "CHINESE",
+      "SS_DD": "SS 02/28 DD 02/28",
+      "COMMENTS": "B&W 6S50MC-C8.1 SCRUBBER FITTED CR:4X30T (GRAB FITTED)",
+      "raw_built": "2008 TSUNEISHI (ZHOUSHAN)",
+      "raw_details": "B&W 6S50MC-C8.1 SCRUBBER FITTED CR:4X30T (GRAB FITTED)"
+    },
+    {
+      "issue_date": "2026-08-28",
+      "stem": "clarksons_2026_nan_Weekly-Sales-28th-Aug-2026",
+      "source_file": "clarksons_2026_nan_Weekly-Sales-28th-Aug-2026.pdf",
+      "section": "Tanker Sales",
+      "page": 2,
+      "NAME": "CAPE BENAT",
+      "TYPE": "Capesize",
+      "DWT": "156,719",
+      "BUILT": "2010",
+      "YARD": "JIANGSU RONGSHENG",
+      "PRICE": "USD 62.5 M",
+      "BUYERS": "C/O LILA GLOBAL",
+      "SS_DD": "SS 03/30 DD 04/28",
+      "COMMENTS": "B&W 6S70MC-C7.2 SCRUBBER FITTED",
+      "raw_built": "2010 JIANGSU RONGSHENG",
+      "raw_details": "B&W 6S70MC-C7.2 SCRUBBER FITTED"
+    }
+  ],
+  "demolitions": []
+}

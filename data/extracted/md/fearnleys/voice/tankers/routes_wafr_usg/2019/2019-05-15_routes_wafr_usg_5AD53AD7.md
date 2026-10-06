@@ -1,0 +1,27 @@
+---
+id: "5AD53AD7-CC1A-4CDA-A2A3-A9DB432A072C"
+source: "Fearnleys"
+sector: "Tanker Route Trends"
+desk: "WAFR/USG"
+comment_type: "WAFR/USG"
+comment_subtype: "trend"
+date: "2019-05-15"
+year: 2019
+week: 20
+title: "Fearnleys WAFR/USG Comment - 2019-05-15"
+---
+
+# Fearnleys WAFR/USG Comment (2019-05-15)
+
+- **Source:** Fearnleys Shipbrokers (Hasura API)
+- **Sector:** Tanker Route Trends
+- **Desk:** WAFR/USG
+- **Publication Date:** 2019-05-15 (Week 20)
+- **Comment Type:** WAFR/USG
+- **Record ID:** `5AD53AD7-CC1A-4CDA-A2A3-A9DB432A072C`
+
+---
+
+## Market Commentary
+
+Topped
