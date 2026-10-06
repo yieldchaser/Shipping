@@ -1,3 +1,12 @@
+**THIS RUN (2026-10-06 17:2x, source-by-source, 30m job) - NOTHING NEW TO EXTRACT (independently re-verified, not a re-statement). Working tree CLEAN (0 files); register gate GREEN; 4 Hermes/proxy python processes only, none ours extracting.**
+
+- **Gate:** `python3 scripts/extract/verify_registers.py` = `ALL VERIFICATION CHECKS PASSED PERFECTLY` - disk 175 CSVs / **630,357** rows == JSON == MD, 0 mismatches, 0 control chars, 0 emoji.
+- **xclusiv 271/271** (md == pdf, unchanged). No source has pdf >> md.
+- **Fresh-arrival check:** the only 2 `corpus/01-brokers` PDFs newer than today (`banchero_costa_2026_W39_...` and `star_asia_2026_W40_...`) BOTH already have md + `.tables.json`. Content-level reconcile of the newest banchero doc against its own PDF text layer: **892/985 numbers present verbatim = 90.6%** (18 pages, 56,598 text chars) - consistent with banchero's known partially-ciphered layer; the misses are reformatted/comma variants, not missing tables.
+- **Cosmetic staleness only:** `docs/EXTRACTION_REGISTER.md` prose doc-counts lag disk (Xclusiv "266" vs 271, Affinity "250" vs 249 md / 256 pdf, Fearnleys "261" vs 263 pdf). Numeric gate (CSV rows) passes; `sync_extraction_register.py` tracks rows, not doc counts, so hand-editing would fight the automation. Left alone.
+- **NEXT RUN:** nothing to EXTRACT. Carried items are the user's: inventory/DB-rebuild decisions. Watch that the automation does not re-stale the register CSV counts (gate = verify_registers.py, fix = sync_extraction_register.py).
+
+---
 **THIS RUN (2026-10-06 16:5x, source-by-source, 30m job) - NOTHING TO EXTRACT (re-verified against DISK, not the prompt). The prompt's "IN PROGRESS: xclusiv" and its "next source" list are STALE - xclusiv is 271/271 and fearnleys/intermodal/affinity/banchero/agora/carriers/ism/lion are all built. Register gate GREEN. NEW measured finding: the md/pdf stem mismatches are DUPLICATE re-downloads whose content IS extracted under the canonical W-name - NOT gaps.**
 
 Branch `auto/extract-fixes-2026-10-06-deepreview` (HEAD 50ce4e62f, working tree CLEAN = 0 files). Live python = 4 Hermes gateway/proxy processes only - nothing of ours extracting. 54 ahead / 12 behind origin (unchanged).
