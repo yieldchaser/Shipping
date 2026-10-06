@@ -7,9 +7,9 @@ categories:
 - tanker_charter
 - tankers
 - vessel_valuations
-document_count: 79
+document_count: 80
 evidence_count: 250
-generated_at: '2026-10-05T23:02:57Z'
+generated_at: '2026-10-06T01:06:53Z'
 latest_evidence_date: '2026-10-05'
 page_type: topic_wiki
 related_topics:
@@ -25,7 +25,7 @@ topic_id: tanker_market
 ---
 
 ## Summary
-Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight. The current wiki page is grounded in 250 cited sections from 79 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-10-05, with the strongest recurring markers being crude, products, tanker, china, vlcc. Primary coverage comes from categories such as demolition, insights, shipbuilding, tanker, tanker_charter, tankers, vessel_valuations.
+Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight. The current wiki page is grounded in 250 cited sections from 80 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-10-05, with the strongest recurring markers being crude, products, tanker, china, vlcc. Primary coverage comes from categories such as demolition, insights, shipbuilding, tanker, tanker_charter, tankers, vessel_valuations.
 
 ## Why It Matters
 Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight.
@@ -46,20 +46,20 @@ Crude and product tanker conditions across benchmark routes, supply-demand balan
 - Recurring evidence markers: crude, products, tanker, china, vlcc, crude_oil
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 172, hellenic: 50, baltic: 24, breakwave: 4
-- Category coverage: insights: 172, tanker: 24, demolition: 22, tanker_charter: 10, shipbuilding: 9, vessel_valuations: 9, tankers: 4
-- Tone distribution: constructive: 164, neutral: 45, cautiously_bearish: 41
+- Source coverage: breakwave_insights: 168, hellenic: 54, baltic: 24, breakwave: 4
+- Category coverage: insights: 168, demolition: 27, tanker: 24, shipbuilding: 9, vessel_valuations: 9, tanker_charter: 9, tankers: 4
+- Tone distribution: constructive: 165, neutral: 44, cautiously_bearish: 41
 - Related topics: vlcc_and_suezmax, oil_and_opec
 
 ## Key Documents
 - 2026-10-05 | Running Out of Room? [doc_id: breakwave_insights_insights_2026-10-05_2026_10_05_running_out_of_room | section_id: breakwave_insights_insights_2026-10-05_2026_10_05_running_out_of_room__s01_main | pages n/a]
 - 2026-10-05 | China's Rebound: Robust PMIs, Softer Seaborne Reality [doc_id: breakwave_insights_insights_2026-10-05_2026_10_05_chinas_rebound_robust_pmis_softer_seaborne_reality | section_id: breakwave_insights_insights_2026-10-05_2026_10_05_chinas_rebound_robust_pmis_softer_seaborne_reality__s03_third_quarter_headwinds_for_dry_bulk_commodities_bound_for_china | pages n/a]
 - 2026-10-05 | Ongoing Growth in Steel Production Ex-China [doc_id: breakwave_insights_insights_2026-10-05_2026_10_05_ongoing_growth_in_steel_production_ex_china | section_id: breakwave_insights_insights_2026-10-05_2026_10_05_ongoing_growth_in_steel_production_ex_china__s08_linked_asset_2026_10_05_ongoing_growth_in_steel_production_ex_china_img_chart7_3f10753077ba_jpg | pages n/a]
+- 2026-10-03 | GMS Week 40 - Scarcity Puts Chattogram On Top [doc_id: hellenic_demolition_2026-10-03_2026_10_03_gms_week_40_scarcity_puts_chattogram_on_top | section_id: hellenic_demolition_2026-10-03_2026_10_03_gms_week_40_scarcity_puts_chattogram_on_top__s01_main | pages n/a]
+- 2026-10-03 | Best Oasis Weekly Recycling Market Report, 2 October 2026 [doc_id: hellenic_demolition_2026-10-03_2026_10_03_best_oasis_weekly_recycling_market_report_2_october_2026 | section_id: hellenic_demolition_2026-10-03_2026_10_03_best_oasis_weekly_recycling_market_report_2_october_2026__s02_linked_asset_2026_10_03_best_oasis_weekly_recycling_market_report_2_october_2026_weekly_ship_recycling_report_26_sept_4f6a6b2abdc2_pdf | pages n/a]
 - 2026-10-02 | Tanker report - Week 40 [doc_id: baltic_tanker_2026-10-02_2026_10_02_w40_tanker_report_week_40_tanker | section_id: baltic_tanker_2026-10-02_2026_10_02_w40_tanker_report_week_40_tanker__s04_aframax | pages n/a]
 - 2026-10-02 | Indian and Chinese Thermal Coal Demand Remain Strong [doc_id: breakwave_insights_insights_2026-10-02_2026_10_02_indian_and_chinese_thermal_coal_demand_remain_strong | section_id: breakwave_insights_insights_2026-10-02_2026_10_02_indian_and_chinese_thermal_coal_demand_remain_strong__s03_linked_asset_2026_10_02_indian_and_chinese_thermal_coal_demand_remain_strong_img_242_7ff115c4669d_jpg | pages n/a]
 - 2026-10-01 | Arabian Gulf Crude Freight Outlook [doc_id: breakwave_insights_insights_2026-10-01_2026_10_01_arabian_gulf_crude_freight_outlook | section_id: breakwave_insights_insights_2026-10-01_2026_10_01_arabian_gulf_crude_freight_outlook__s01_main | pages n/a]
-- 2026-09-30 | US diesel ban would reshape clean tanker trade [doc_id: breakwave_insights_insights_2026-09-30_2026_09_30_us_diesel_ban_would_reshape_clean_tanker_trade | section_id: breakwave_insights_insights_2026-09-30_2026_09_30_us_diesel_ban_would_reshape_clean_tanker_trade__s01_main | pages n/a]
-- 2026-09-30 | Weekly Tanker Time Charter Estimates, September 30 2026 [doc_id: hellenic_tanker_charter_2026-09-30_2026_09_30_weekly_tanker_time_charter_estimates_september_30_2026 | section_id: hellenic_tanker_charter_2026-09-30_2026_09_30_weekly_tanker_time_charter_estimates_september_30_2026__s02_linked_asset_2026_09_30_weekly_tanker_time_charter_estimates_september_30_2026_img1_30092026tanker_43f62c7ec1e8_jpg | pages n/a]
 
 ## Related Topics
 - vlcc_and_suezmax

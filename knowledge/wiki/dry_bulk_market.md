@@ -8,9 +8,9 @@ categories:
 - iron_ore
 - shipbuilding
 - vessel_valuations
-document_count: 84
+document_count: 83
 evidence_count: 250
-generated_at: '2026-10-05T23:02:57Z'
+generated_at: '2026-10-06T01:06:53Z'
 latest_evidence_date: '2026-10-05'
 page_type: topic_wiki
 related_topics:
@@ -28,7 +28,7 @@ topic_id: dry_bulk_market
 ---
 
 ## Summary
-Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing. The current wiki page is grounded in 250 cited sections from 84 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-10-05, with the strongest recurring markers being china, iron_ore, brazil, capesize, dry bulk. Primary coverage comes from categories such as demolition, dry, dry_charter, drybulk, insights, iron_ore, shipbuilding, vessel_valuations.
+Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing. The current wiki page is grounded in 250 cited sections from 83 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-10-05, with the strongest recurring markers being china, iron_ore, brazil, capesize, dry bulk. Primary coverage comes from categories such as demolition, dry, dry_charter, drybulk, insights, iron_ore, shipbuilding, vessel_valuations.
 
 ## Why It Matters
 Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing.
@@ -46,23 +46,23 @@ Dry bulk freight conditions across the major vessel classes, cargo flows, tonnag
 ## Historical Patterns
 - Coverage span: 2026-09-08 to 2026-10-05 across 1 calendar years.
 - Most-covered years: 2026: 250
-- Recurring evidence markers: china, iron_ore, brazil, capesize, dry bulk, australia
+- Recurring evidence markers: china, iron_ore, brazil, capesize, dry bulk, cargo
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 137, hellenic: 93, baltic: 16, breakwave: 4
-- Category coverage: insights: 137, iron_ore: 50, demolition: 16, dry: 16, shipbuilding: 9, vessel_valuations: 9, dry_charter: 9, drybulk: 4
-- Tone distribution: constructive: 169, neutral: 42, cautiously_bearish: 39
+- Source coverage: breakwave_insights: 135, hellenic: 95, baltic: 16, breakwave: 4
+- Category coverage: insights: 135, iron_ore: 50, demolition: 20, dry: 16, vessel_valuations: 9, dry_charter: 9, shipbuilding: 7, drybulk: 4
+- Tone distribution: constructive: 170, neutral: 41, cautiously_bearish: 39
 - Related topics: capesize, panamax_and_supramax, china_steel_and_iron_ore, coal_and_grain_flows
 
 ## Key Documents
 - 2026-10-05 | China's Rebound: Robust PMIs, Softer Seaborne Reality [doc_id: breakwave_insights_insights_2026-10-05_2026_10_05_chinas_rebound_robust_pmis_softer_seaborne_reality | section_id: breakwave_insights_insights_2026-10-05_2026_10_05_chinas_rebound_robust_pmis_softer_seaborne_reality__s04_fourth_quarter_volumes_supported_by_stimulus_and_seasonality | pages n/a]
 - 2026-10-05 | Ongoing Growth in Steel Production Ex-China [doc_id: breakwave_insights_insights_2026-10-05_2026_10_05_ongoing_growth_in_steel_production_ex_china | section_id: breakwave_insights_insights_2026-10-05_2026_10_05_ongoing_growth_in_steel_production_ex_china__s08_linked_asset_2026_10_05_ongoing_growth_in_steel_production_ex_china_img_chart7_3f10753077ba_jpg | pages n/a]
 - 2026-10-05 | Running Out of Room? [doc_id: breakwave_insights_insights_2026-10-05_2026_10_05_running_out_of_room | section_id: breakwave_insights_insights_2026-10-05_2026_10_05_running_out_of_room__s03_linked_asset_2026_10_05_running_out_of_room_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d22e0173100_png | pages n/a]
+- 2026-10-05 | MMI Daily Iron Ore Index Report October 5 2026 [doc_id: hellenic_iron_ore_2026-10-05_2026_10_05_mmi_daily_iron_ore_index_report_october_5_2026 | section_id: hellenic_iron_ore_2026-10-05_2026_10_05_mmi_daily_iron_ore_index_report_october_5_2026__s03_linked_asset_2026_10_05_mmi_daily_iron_ore_index_report_october_5_2026_iron_ore_daily_20261005_en_3612a47ae754_pdf | pages n/a]
+- 2026-10-03 | GMS Week 40 - Scarcity Puts Chattogram On Top [doc_id: hellenic_demolition_2026-10-03_2026_10_03_gms_week_40_scarcity_puts_chattogram_on_top | section_id: hellenic_demolition_2026-10-03_2026_10_03_gms_week_40_scarcity_puts_chattogram_on_top__s02_linked_asset_2026_10_03_gms_week_40_scarcity_puts_chattogram_on_top_ship_recycling_market_insight_week_4_30126523ae22_pdf | pages n/a]
+- 2026-10-03 | Best Oasis Weekly Recycling Market Report, 2 October 2026 [doc_id: hellenic_demolition_2026-10-03_2026_10_03_best_oasis_weekly_recycling_market_report_2_october_2026 | section_id: hellenic_demolition_2026-10-03_2026_10_03_best_oasis_weekly_recycling_market_report_2_october_2026__s02_linked_asset_2026_10_03_best_oasis_weekly_recycling_market_report_2_october_2026_weekly_ship_recycling_report_26_sept_4f6a6b2abdc2_pdf | pages n/a]
 - 2026-10-02 | Bulk report - Week 40 [doc_id: baltic_dry_2026-10-02_2026_10_02_w40_bulk_report_week_40_dry | section_id: baltic_dry_2026-10-02_2026_10_02_w40_bulk_report_week_40_dry__s02_panamax_kamsarmax | pages n/a]
 - 2026-10-02 | Indian and Chinese Thermal Coal Demand Remain Strong [doc_id: breakwave_insights_insights_2026-10-02_2026_10_02_indian_and_chinese_thermal_coal_demand_remain_strong | section_id: breakwave_insights_insights_2026-10-02_2026_10_02_indian_and_chinese_thermal_coal_demand_remain_strong__s01_main | pages n/a]
-- 2026-10-02 | MMI Daily Iron Ore Index Report October 2 2026 [doc_id: hellenic_iron_ore_2026-10-02_2026_10_02_mmi_daily_iron_ore_index_report_october_2_2026 | section_id: hellenic_iron_ore_2026-10-02_2026_10_02_mmi_daily_iron_ore_index_report_october_2_2026__s03_linked_asset_2026_10_02_mmi_daily_iron_ore_index_report_october_2_2026_iron_ore_daily_20261002_en_656b031cfa28_pdf | pages n/a]
-- 2026-10-01 | Arabian Gulf Crude Freight Outlook [doc_id: breakwave_insights_insights_2026-10-01_2026_10_01_arabian_gulf_crude_freight_outlook | section_id: breakwave_insights_insights_2026-10-01_2026_10_01_arabian_gulf_crude_freight_outlook__s01_main | pages n/a]
-- 2026-10-01 | MMI Daily Iron Ore Index Report October 1 2026 [doc_id: hellenic_iron_ore_2026-10-01_2026_10_01_mmi_daily_iron_ore_index_report_october_1_2026 | section_id: hellenic_iron_ore_2026-10-01_2026_10_01_mmi_daily_iron_ore_index_report_october_1_2026__s02_linked_asset_2026_10_01_mmi_daily_iron_ore_index_report_october_1_2026_iron_ore_daily_20261001_f8981ec41b63_pdf | pages n/a]
 
 ## Related Topics
 - capesize
